@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":22548,
+"claim":22556,
 "design":974,
 "element":1066,
 "learner-variable":75,
@@ -39224,6 +39224,14 @@
 "type":"claim"
 },
 {
+"description":"",
+"id":"course-context-helps-sparse-items-and-dilutes-rich-ones",
+"path":"claims/course-context-helps-sparse-items-and-dilutes-rich-ones.md",
+"status":"review",
+"title":"Course Context Helps Sparse Items and Dilutes Rich Ones",
+"type":"claim"
+},
+{
 "description":"Course development satisfaction is positively associated with first-year students' emotional management, stress coping, and academic adjustment in cross-sectional self-report data",
 "evidence_strength":"moderate",
 "id":"course-development-satisfaction-positive-adjustment-association",
@@ -46637,6 +46645,14 @@
 "path":"claims/deliberative-poll-self-interest-domination.md",
 "status":"review",
 "title":"Self-interest and domination appeared during the Danish Deliberative Poll's deliberative process",
+"type":"claim"
+},
+{
+"description":"",
+"id":"delimiting-untrusted-learner-text-defeats-authority-claim-injection",
+"path":"claims/delimiting-untrusted-learner-text-defeats-authority-claim-injection.md",
+"status":"review",
+"title":"Delimiting Untrusted Learner Text Defeats Authority-Claim Injection",
 "type":"claim"
 },
 {
@@ -63448,6 +63464,14 @@
 "type":"claim"
 },
 {
+"description":"",
+"id":"expert-human-graders-agree-with-each-other-far-less-than-assumed",
+"path":"claims/expert-human-graders-agree-with-each-other-far-less-than-assumed.md",
+"status":"review",
+"title":"Human Graders of Open-Ended Work Agree With Each Other Less Than Treating One Grade as Ground Truth Implies",
+"type":"claim"
+},
+{
 "description":"Unstructured expert interviews miss up to 70% of the subtasks needed to describe a cognitive task",
 "evidence_strength":"weak",
 "id":"expert-interviews-miss-up-to-70-percent-subtasks",
@@ -79729,6 +79753,14 @@
 "path":"claims/grade7-effects-fade-at-follow-up.md",
 "status":"review",
 "title":"Seventh graders' treatment effects fade by follow-up, with only the strategy knowledge contrast remaining significant",
+"type":"claim"
+},
+{
+"description":"",
+"id":"graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at",
+"path":"claims/graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at.md",
+"status":"review",
+"title":"Graded Exemplars Shift an LLM Grader by the Level They Are Marked At",
 "type":"claim"
 },
 {
@@ -104289,6 +104321,14 @@
 "path":"claims/llm-shadows-reproduce-negative-math-semantic-bias.md",
 "status":"review",
 "title":"LLM digital shadows reproduce the human pattern of positive science perceptions anchored in negative mathematics associations",
+"type":"claim"
+},
+{
+"description":"",
+"id":"llm-short-answer-graders-can-reach-human-rater-agreement",
+"path":"claims/llm-short-answer-graders-can-reach-human-rater-agreement.md",
+"status":"review",
+"title":"LLM Short-Answer Graders Can Reach Human Rater Agreement",
 "type":"claim"
 },
 {
@@ -138455,6 +138495,14 @@
 "type":"claim"
 },
 {
+"description":"",
+"id":"pooling-repeated-llm-grades-does-not-improve-agreement",
+"path":"claims/pooling-repeated-llm-grades-does-not-improve-agreement.md",
+"status":"review",
+"title":"Pooling Repeated LLM Grades Does Not Improve Agreement on Short Answers",
+"type":"claim"
+},
+{
 "description":"Poorly designed or misused assessment practices can harm students through increased anxiety, lost learning time, and deficit-based messages",
 "evidence_strength":"weak",
 "id":"poor-assessment-practices-harm-students-anxiety-lost-time",
@@ -166200,6 +166248,14 @@
 "type":"claim"
 },
 {
+"description":"",
+"id":"showing-a-grader-a-learners-prior-performance-biases-the-grade",
+"path":"claims/showing-a-grader-a-learners-prior-performance-biases-the-grade.md",
+"status":"review",
+"title":"Showing a Grader a Learner's Prior Performance Biases the Grade",
+"type":"claim"
+},
+{
 "description":"Shrinkage could differentially affect consequences for teachers of fewer students or students with hard-to-predict achievement",
 "evidence_strength":"weak",
 "id":"shrinkage-differential-impact-concern",
@@ -179808,6 +179864,14 @@
 "path":"claims/suppression-use-decreases-ages-9-15.md",
 "status":"review",
 "title":"Self-reported suppression use decreases between ages 9 and 15",
+"type":"claim"
+},
+{
+"description":"",
+"id":"surface-formatting-changes-shift-llm-grades-without-penalising-them",
+"path":"claims/surface-formatting-changes-shift-llm-grades-without-penalising-them.md",
+"status":"review",
+"title":"Surface Formatting Changes Shift LLM Grades Without Penalising Them",
 "type":"claim"
 },
 {
@@ -308178,6 +308242,7 @@
 "course-availability-disrupts-community-college-trajectories":"course-availability-disrupts-community-college-trajectories",
 "course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks":"course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks",
 "course-blind-code-question-generation-failure":"course-blind-code-question-generation-failure",
+"course-context-helps-sparse-items-and-dilutes-rich-ones":"course-context-helps-sparse-items-and-dilutes-rich-ones",
 "course-development-satisfaction-positive-adjustment-association":"course-development-satisfaction-positive-adjustment-association",
 "course-embedded-modules-improve-credibility-scores":"course-embedded-modules-improve-credibility-scores",
 "course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances":"course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances",
@@ -309013,6 +309078,7 @@
 "deliberative-poll-mutual-understanding":"deliberative-poll-mutual-understanding",
 "deliberative-poll-opinion-change-knowledge-reasoned-opinions":"deliberative-poll-opinion-change-knowledge-reasoned-opinions",
 "deliberative-poll-self-interest-domination":"deliberative-poll-self-interest-domination",
+"delimiting-untrusted-learner-text-defeats-authority-claim-injection":"delimiting-untrusted-learner-text-defeats-authority-claim-injection",
 "delivery-organization-environment-moderators":"delivery-organization-environment-moderators",
 "delphi-consensus-csm-su-components":"delphi-consensus-csm-su-components",
 "delphi-importance-impact-challenge-no-significant-difference":"delphi-importance-impact-challenge-no-significant-difference",
@@ -310906,6 +310972,7 @@
 "expert-example-standards-reduce-bias":"expert-example-standards-reduce-bias",
 "expert-fixations-more-focused-than-novices":"expert-fixations-more-focused-than-novices",
 "expert-forecasts-failed-to-predict-effective-interventions":"expert-forecasts-failed-to-predict-effective-interventions",
+"expert-human-graders-agree-with-each-other-far-less-than-assumed":"expert-human-graders-agree-with-each-other-far-less-than-assumed",
 "expert-interviews-miss-up-to-70-percent-subtasks":"expert-interviews-miss-up-to-70-percent-subtasks",
 "expert-keyword-comparison-increases-underconfidence":"expert-keyword-comparison-increases-underconfidence",
 "expert-leaderboards-separate-ai-tutors":"expert-leaderboards-separate-ai-tutors",
@@ -312757,6 +312824,7 @@
 "grade6-proficiency-insufficient-algebra-readiness-indicator":"grade6-proficiency-insufficient-algebra-readiness-indicator",
 "grade7-cst-fine-tuning-limited-benefit":"grade7-cst-fine-tuning-limited-benefit",
 "grade7-effects-fade-at-follow-up":"grade7-effects-fade-at-follow-up",
+"graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at":"graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at",
 "gradeopt-near-perfect-ck-agreement":"gradeopt-near-perfect-ck-agreement",
 "gradeopt-substantial-agreement-pck-outperforms-baselines":"gradeopt-substantial-agreement-pck-outperforms-baselines",
 "grader-bias-estimation-dominates-accuracy-gains":"grader-bias-estimation-dominates-accuracy-gains",
@@ -315534,6 +315602,7 @@
 "llm-self-detection-task-dependent":"llm-self-detection-task-dependent",
 "llm-self-study-beats-traditional-resources-exam-performance":"llm-self-study-beats-traditional-resources-exam-performance",
 "llm-shadows-reproduce-negative-math-semantic-bias":"llm-shadows-reproduce-negative-math-semantic-bias",
+"llm-short-answer-graders-can-reach-human-rater-agreement":"llm-short-answer-graders-can-reach-human-rater-agreement",
 "llm-simulated-ideas-moderate-overlap-lesson-ideas":"llm-simulated-ideas-moderate-overlap-lesson-ideas",
 "llm-simulated-respondents-predict-item-difficulty-above-regression-baselines":"llm-simulated-respondents-predict-item-difficulty-above-regression-baselines",
 "llm-simulated-students-surpass-rule-based-systems":"llm-simulated-students-surpass-rule-based-systems",
@@ -319388,6 +319457,7 @@
 "pooled-association-robust-sensitivity-analyses":"pooled-association-robust-sensitivity-analyses",
 "pooled-model-suspension-growth-mindset-paradox":"pooled-model-suspension-growth-mindset-paradox",
 "pooled-pcr-most-effective-testing-strategy":"pooled-pcr-most-effective-testing-strategy",
+"pooling-repeated-llm-grades-does-not-improve-agreement":"pooling-repeated-llm-grades-does-not-improve-agreement",
 "poor-assessment-practices-harm-students-anxiety-lost-time":"poor-assessment-practices-harm-students-anxiety-lost-time",
 "poor-comprehenders-fewer-inferences-equal-knowledge":"poor-comprehenders-fewer-inferences-equal-knowledge",
 "poor-experiment-design-in-discovery":"poor-experiment-design-in-discovery",
@@ -322537,6 +322607,7 @@
 "shorter-sleep-more-screen-time-early-years":"shorter-sleep-more-screen-time-early-years",
 "shot-selection-originality-similarity-tradeoff":"shot-selection-originality-similarity-tradeoff",
 "show-and-do-method-hearing-impaired-students":"show-and-do-method-hearing-impaired-students",
+"showing-a-grader-a-learners-prior-performance-biases-the-grade":"showing-a-grader-a-learners-prior-performance-biases-the-grade",
 "shrinkage-differential-impact-concern":"shrinkage-differential-impact-concern",
 "shrinkage-increases-precision-reduces-absolute-va":"shrinkage-increases-precision-reduces-absolute-va",
 "shrinkage-leaves-accountability-consequences-unchanged":"shrinkage-leaves-accountability-consequences-unchanged",
@@ -324077,6 +324148,7 @@
 "supports-safety-account-orientation-disparities":"supports-safety-account-orientation-disparities",
 "supports-safety-account-transgender-disparities":"supports-safety-account-transgender-disparities",
 "suppression-use-decreases-ages-9-15":"suppression-use-decreases-ages-9-15",
+"surface-formatting-changes-shift-llm-grades-without-penalising-them":"surface-formatting-changes-shift-llm-grades-without-penalising-them",
 "surface-level-privacy-understanding-users":"surface-level-privacy-understanding-users",
 "surface-strategies-declined-after-modules":"surface-strategies-declined-after-modules",
 "surface-validation-works-substantive-validation-fails":"surface-validation-works-substantive-validation-fails",

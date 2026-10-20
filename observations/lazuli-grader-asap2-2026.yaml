@@ -1,0 +1,317 @@
+# ============================================================================
+# THE ONLY RECORD IN THIS RELEASE THAT TOUCHES DEMOGRAPHIC DATA. ASAP 2.0's
+# group fields were used only in analysis and never entered a prompt. The
+# attainment labels shown to the grader were ASSIGNED (ASAP has one essay per
+# student), not the students' own.
+#
+# READ `provenance.source_type`: `platform-experiment`. The grader's makers'
+# own experiment on that grader, scored against the depositors' human scores.
+# ============================================================================
+
+schema_version: 2
+
+study:
+  key: lazuli-grader-asap2-2026
+  citation: 'David S. Porcaro. (2026). Reliability, calibration and attack surface of an LLM short-answer grader, measured against three human-graded corpora. Research release ai-grader-reliability-2026 1.0.0, Learning Design Alliance. https://doi.org/10.5281/zenodo.23480844'
+  design:
+    family: other
+    design_detail: >-
+      Within-essay ablation over archival essays. A design-weighted quota
+      sample of 3,000 ASAP 2.0 essays (900 English learners, 900 students
+      identified with a disability, 1,200 others) is graded on identical text
+      under no attainment statement and under an assigned low (1.9/6) and high
+      (4.2/6) statement, and on Qwen a same-length mid (3.0/6) statement. Group
+      differences in each label's effect are read at equal human score
+      (post-stratified on the human score), focal minus reference. The essay is
+      the unit; there is no student identifier.
+
+provenance:
+  source_type: platform-experiment
+  extracted_by: claude/unspecified
+  extracted_at: 2026-10-06
+  extraction_method: computed-from-own-runs
+  verification: unverified
+
+appears_in:
+  - claim: showing-a-grader-a-learners-prior-performance-biases-the-grade
+    bearing: qualifies
+    anchor: porcaro-2026
+    note: >-
+      Tests the claim's open fairness question. The label's effect does not
+      fall harder on any group tested on two models, relative to no label;
+      against a same-length statement the low value costs three groups more on
+      one model. The projected deployment gap is 0.01-0.07 of a level, beside
+      an unlabeled grader gap of 0.21-0.32 against English learners and
+      disability-identified students at equal human score, of which 0.15-0.27 remains at equal true quality at the reliability implied by the data paper's rater agreement (0.75-0.86).
+
+evidence_base:
+  unit: items
+  size:
+    value: 3000
+    unit: items
+  additional_sizes:
+    - value: 24728
+      unit: items
+      note: Essays in the corpus the sample is design-weighted back to.
+  population:
+    description: >-
+      Secondary-school students (grades 6, 8, 9 and 10) writing source-based
+      argumentative essays, in the ASAP 2.0 deposit, deliberately sampled
+      across economic and geographic populations. A PROXY population: not
+      Lazuli learners, not undergraduates, not Lazuli's prompts.
+    age_or_stage: Grades 6, 8, 9 and 10
+    prior_knowledge: >-
+      Not characterised beyond the holistic human score (the released
+      average of two expert reads, adjudicated), which also defines "equal
+      work" here.
+  context:
+    setting: Archival.
+    delivery_mode: >-
+      Offline re-scoring with the production grading prompt, called through
+      the evaluation harness; group fields attached only after scoring.
+    duration: Runs executed 2026-10-05 to 2026-10-06.
+  arms:
+    - id: asap2-no-label
+      description: The essay graded with no attainment statement.
+      size:
+        value: 3000
+        unit: items
+    - id: asap2-low-label
+      description: >-
+        The same essay with "Current attainment for this learner across this
+        course: 1.9/6, from 12 prior graded responses."
+      size:
+        value: 3000
+        unit: items
+    - id: asap2-high-label
+      description: The same sentence with 4.2/6.
+      size:
+        value: 3000
+        unit: items
+    - id: asap2-mid-label
+      description: The same sentence with 3.0/6, on Qwen only; the size-matched control.
+      size:
+        value: 3000
+        unit: items
+
+comparisons:
+  - id: low-vs-none-by-group
+    kind: other
+    index_arm: asap2-low-label
+    reference_arm: asap2-no-label
+    description: >-
+      The low label's effect on identical work, compared between a focal group
+      and its reference group at equal human score (D_low, focal minus
+      reference; positive means the low label takes less off the focal group).
+  - id: high-vs-low-by-group
+    kind: other
+    index_arm: asap2-high-label
+    reference_arm: asap2-low-label
+    description: >-
+      The label's effect itself (high minus low on the same essay), compared
+      between groups at equal human score (D_spread).
+  - id: low-vs-mid-by-group
+    kind: other
+    index_arm: asap2-low-label
+    reference_arm: asap2-mid-label
+    description: >-
+      The low value against a same-length mid statement, by group (D_lowmid,
+      Qwen only): separates the label's value from its presence.
+  - id: no-label-gap-by-group
+    kind: none
+    index_arm: asap2-no-label
+    description: >-
+      No contrast between arms: within the no-label arm, the grader's mark
+      minus the human score, focal group minus reference group, at equal human
+      score, and the same gap corrected to equal true quality.
+
+observations:
+  - id: label-effect-by-demographic-group
+    sample:
+      value: 3000
+      unit: items
+    comparison_ref: low-vs-none-by-group
+    analysis_ref: asap2-label-by-group
+    outcome:
+      construct: >-
+        Whether the attainment label's effect on identical work falls harder on
+        some demographic groups than on others
+      source_language: >-
+        D_low, the group difference in (low label minus no label) at equal
+        human score; D_spread (high minus low); the projected deployment gap
+      measure: >-
+        Post-stratified, design-weighted group differences on the 1-6 scale,
+        stratified bootstrap 95% intervals over essays; pre-registered verdict
+        strings per axis and model
+      scale: "-6 to 6"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      anchors:
+        - claims/showing-a-grader-a-learners-prior-performance-biases-the-grade
+    time:
+      label: At grading, no delay
+    result:
+      measure_type: mean_difference
+      estimate: 0.075
+      ci_lower: 0.029
+      ci_upper: 0.120
+      interval_type: confidence
+      model: >-
+        Label effect (high minus low): Qwen3-235B +0.484 [+0.460, +0.508],
+        GPT-4.1-mini +0.225 [+0.206, +0.245]. D_low, Qwen / GPT-4.1-mini: ELL
+        +0.075 [+0.029, +0.120] FAVOURING / +0.034 UNIFORM; economic +0.024
+        UNIFORM / +0.062 [+0.017, +0.106] FAVOURING; disability +0.105 [+0.056,
+        +0.153] FAVOURING / +0.023 UNIFORM; gender -0.033 / -0.034 UNIFORM;
+        race UNDERPOWERED (widest 0.094 against bar 0.201; 0.047 against
+        0.181). Headline DIFFERENTIAL-ONE-MODEL, no axis AGAINST on either
+        model. D_spread uniform on every binary axis on both models (within
+        +/-0.045). Qwen against the mid label (D_lowmid): ELL -0.079, economic
+        -0.082, disability -0.063, all AGAINST. No-label residual gap, Qwen /
+        GPT: ELL -0.24 / -0.21, economic -0.17 / -0.14, disability -0.32 /
+        -0.30 (at equal human score; see
+        `no-label-group-gap-at-equal-true-quality`). Projection: composition
+        opens 0.01-0.07 of a level against the lower-attaining group; totals
+        -0.02 to +0.05. The estimate above is Qwen's ELL D_low.
+      interpretation: >-
+        THE LABEL DOES NOT FALL HARDER ON ANY GROUP TESTED, RELATIVE TO NO
+        LABEL; THE GRADER'S OWN GAP MAY. The high-versus-low spread differs
+        between groups by no more than 0.10 of a level (90% intervals), a margin
+        nearly half the size of GPT-4.1-mini's label effect, and where the low
+        label's cost differs from no label it is smaller for the focal group,
+        each time on one model only (English learners and disability-identified
+        students on Qwen, economically disadvantaged students on GPT-4.1-mini),
+        and on Qwen partly an artefact of matching on a noisy human score. On Qwen that difference is a presence effect: any attainment
+        sentence lifts English learners' and disability-identified essays, and
+        against the mid label the low value costs them more (also partly the
+        matching artefact; corrected at the reliability implied by the data paper's rater agreement (0.75–0.86), the English-learner difference stays beyond the multiple-testing bar, the economic one only at 0.86, and the disability one at neither). The laundering
+        route exists but opens a projected 0.01-0.07 of a level, beside an
+        unlabeled gap of 0.21-0.32 at equal human score, of which 0.15-0.27 remains at equal true quality at the reliability implied by the data paper's rater agreement (0.75-0.86).
+        An earlier probe on another model (working log, outside this release's evidence) showed that surface form can lower
+        content scores, one possible route to that gap. The harm of attainment
+        context, on this evidence, falls on any learner given a false low
+        label.
+    moderators:
+      reported:
+        - variable: which contrast is read
+          relationship: >-
+            Against no label the low label favours the focal groups on Qwen;
+            against a same-length mid label it disfavours them.
+          source_quote: >-
+            D_low ELL +0.075, disability +0.105; D_lowmid ELL -0.079,
+            disability -0.063 (Qwen).
+      candidate:
+        - variable: anchoring toward the label's value
+          relationship: >-
+            Groups whose unlabeled marks sit lowest may be pulled up most by any
+            anchor above them.
+          note: CANDIDATE, a hypothesis the study was not designed to test.
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Pre-registered, amended twice before any main-run call; the
+      n = 2,000 floor failed and the run was stopped, the n = 3,000 floor
+      passed (detection of 0.10 in 83-93% of replicates). Labels assigned, not
+      true. One human score per essay: "the average human assigned score" of
+      two expert reads, adjudicated. Qwen's first pass lost 683 jobs to
+      transport failures and was resumed; the first pass alone gives the same
+      verdicts. GPT-4.1-mini completed 2,935 of 3,000 essays.
+    source_quote: >-
+      From studies/measurement/grader-attainment-groups: DIFFERENTIAL-ONE-MODEL,
+      every differential favouring; race underpowered.
+    source_location: studies/measurement/grader-attainment-groups/out/results.json
+
+  - id: no-label-group-gap-at-equal-true-quality
+    sample:
+      value: 3000
+      unit: items
+    comparison_ref: no-label-gap-by-group
+    analysis_ref: asap2-matching-artefact
+    outcome:
+      construct: >-
+        The graders' own focal-minus-reference gap with no label, at equal true
+        essay quality rather than at equal human score
+      source_language: >-
+        Corrected no-label residual gap C = observed - artefact, where the
+        artefact is the gap an unbiased grader with this grader's leniency,
+        scale and noise would show when matched on a noisy human score
+      measure: >-
+        Post-stratified, design-weighted gap on the 1-6 scale at fixed human
+        reliability on a pre-registered grid, read at 0.75 and 0.857
+        (amendment 3), bootstrap 95% intervals over essays (B = 500);
+        pre-registered verdict strings per axis and model
+      scale: "-6 to 6"
+      direction: contextual
+      role: other
+      role_basis: inferred
+      anchors:
+        - claims/showing-a-grader-a-learners-prior-performance-biases-the-grade
+    time:
+      label: At grading, no delay
+    result:
+      measure_type: mean_difference
+      estimate: -0.173
+      ci_lower: -0.242
+      ci_upper: -0.109
+      interval_type: confidence
+      model: >-
+        Observed no-label gaps (Qwen / GPT-4.1-mini): ELL -0.242 / -0.205,
+        disability -0.318 / -0.295, economic -0.170 / -0.135. Corrected at reliability 0.75 / 0.857 (the data
+        paper's one-rater figure and its two-read Spearman-Brown value; 0.857
+        interpolated between committed grid points), Qwen: ELL -0.173 /
+        -0.210, disability -0.217 / -0.268, economic -0.120 / -0.147;
+        GPT-4.1-mini: ELL -0.149 / -0.179, disability -0.212 / -0.253,
+        economic -0.095 / -0.117. Verdict, both models: PARTLY-ARTEFACT on ELL
+        and disability and NOT-ARTEFACT on economic at 0.75; NOT-ARTEFACT on
+        all three at 0.857. Break-even reliability 0.49-0.52. The triad bound
+        from the two graders' agreement, 0.30-0.37, is far below the raters'
+        own figure because the two LLMs share a component the human score
+        lacks. On Qwen the low label's effect falls with essay quality (-0.113
+        per level); at 0.75 / 0.857, Qwen's ELL D_low has z 2.2 / 2.7 (was
+        3.2) and disability z 3.0 / 3.6 (was 4.2).
+        The estimate above is Qwen's ELL corrected gap at reliability 0.75 (the
+        lower bound).
+      interpretation: >-
+        PART OF THE UNLABELED GROUP GAP IS THE MATCHING SCORE'S NOISE; MOST IS
+        NOT. Matched on a noisy score, an unbiased grader would also mark
+        lower-mean groups lower. Corrected at the reliability implied by the data paper's rater agreement, 68-73% of the observed gap remains at 0.75 and 84-87%
+        at 0.857: 0.15-0.27 of a level, larger than the 0.01-0.07 the label
+        would add by projection. It would vanish only near reliability 0.5,
+        which the raters' agreement (r = .75) rules out. What is not tested is
+        whether the raters themselves, who had anti-bias training, are
+        group-neutral. The label-by-group contrasts are not wholly immune: on
+        Qwen part of the favouring difference is the same artefact (at most
+        0.03 at 0.75); the high-versus-low spread carries at most 0.02 of it.
+    moderators:
+      reported:
+        - variable: reliability of the human score
+          relationship: >-
+            The corrected gap shrinks as the assumed reliability falls, and
+            reaches zero near 0.5; the data paper puts it at 0.75 or above.
+          source_quote: >-
+            Qwen ELL corrected gap -0.124 at 0.65, -0.222 at 0.90; break-even
+            0.50.
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Pre-registered, two amendments before any grader score was
+      read; floor revision 0 failed and was kept, revision 1 passed with one
+      cell rechecked under amendment 2. The corpus has no rater-level field; the reliability is taken from
+      the data paper (pre-adjudication r = .750, p. 3), at 0.75 and 0.857. The error model is
+      classical: if raters themselves mark one group down, the reference is
+      biased, not just noisy, and nothing here corrects that. The check of the
+      label-by-group contrasts was added after the planned analysis and does
+      not re-cut its verdicts.
+    source_quote: >-
+      From studies/measurement/grader-matching-artefact: RHO-DEPENDENT
+      (PARTLY-ARTEFACT from 0.65; NOT-ARTEFACT from 0.80 / 0.85 / 0.70); read
+      at the known reliability (amendment 3), PARTLY-ARTEFACT / NOT-ARTEFACT
+      on ELL and disability at 0.75 / 0.857, NOT-ARTEFACT on economic at both.
+    source_location: studies/measurement/grader-matching-artefact/out/results.json
