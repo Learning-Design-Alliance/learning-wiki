@@ -1,6 +1,7 @@
 ---
 type: product
 id: ecnuclaw
+aliases: [education-brain-model]
 title: ECNUClaw
 description: An open-source Python framework developed by Yizhou Zhou et al.
 product_kind: software
@@ -21,6 +22,7 @@ An open-source Python framework developed by Yizhou Zhou et al. for building lea
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Five-dimension learner profile maintained across subject switches from dialogue signals**: ECNUClaw constructs and maintains a learner profile across five dimensions—cognitive, behavioral, emotional, metacognitive, and contextual—stored as per-dimension JSON fields in a SQLite table. Signals are extracted at every turn via keyword dictionaries and turn counting: Bloom's taxonomy level from question patterns, weak knowledge points from error markers, mood and self-efficacy from sentiment keywords, and reflection and strategy preference from metacognitive markers. All subject companions share a single memory store, so the profile persists across subject switches. (Yizhou Zhou et al. (2026))
+- **Education Brain model**: A bio-inspired three-layer architecture for educational AI systems that separates multimodal data capture, pedagogical decision generation, and intervention output.
 
 ### Claims
 
@@ -32,3 +34,25 @@ An open-source Python framework developed by Yizhou Zhou et al. for building lea
 
 ## Key Sources
 - Yizhou Zhou, Jiayin Li, and Zhi Zhang. (2026). ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education. arXiv preprint. https://arxiv.org/abs/2605.08040
+
+<!-- merged 2026-10-20 from products/education-brain-model ("Education Brain model"), an isolated part of this page (maintainer 2026-10-20: fold approved): its body as it stood. Its bullets this page lacked were added above.
+
+# Education Brain model
+
+> **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
+
+## Description
+A bio-inspired three-layer architecture for educational AI systems that separates multimodal data capture, pedagogical decision generation, and intervention output.
+
+## Components
+<!- - A programme's own frameworks, tools, indicators and instruments, as its sources describe them - ->
+
+### Claims
+
+## Related Products and Programmes
+-
+
+## Key Sources
+- Yizhou Zhou, Jiayin Li, and Zhi Zhang. (2026). ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education. arXiv preprint. https://arxiv.org/abs/2605.08040
+-->

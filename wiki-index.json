@@ -1,17 +1,17 @@
 {
 "counts":{
-"claim":22791,
-"design":977,
-"element":1066,
+"claim":22789,
+"design":963,
+"element":1057,
 "learner-variable":75,
-"method":38,
+"method":37,
 "pattern":54,
 "principle":170,
 "process":18,
-"product":1830,
-"research-method":509,
-"strategy":6329,
-"theory":1361
+"product":1822,
+"research-method":507,
+"strategy":6314,
+"theory":1359
 },
 "kinds":[
 "claim",
@@ -46,6 +46,7 @@
 "core-plus-lesson-cycle-launch-investigate-checkpoint":"product/core-plus-mathematics",
 "corrective-reading-small-group-4-5-days-principle":"product/corrective-reading",
 "correlation-chart-curriculum-alignment":"product/eele",
+"cpig-multi-stage-prompting-quality-filters":"research-method/cpig-the-creative-psychometric-item-generator-framework",
 "critical-maker-entrepreneurialism-program":"product/critical-maker-entrepreneurialism-program",
 "ct-booster-session-structure":"product/ct-booster",
 "cwk-video-discussion-followup-lesson-sequence":"product/connect-with-kids",
@@ -82,6 +83,7 @@
 "integrated-pathway-five-element-design":"product/cnmcc-breaking-through-construction-apprenticeship-program",
 "intensive-one-on-one-college-advising-pattern":"product/bottom-line-college-advising-program",
 "irecl-nctm-practices-lesson-design":"product/ircl",
+"ishs-common-design-features":"theory/ishs-inclusive-stem-high-school-model",
 "journeys-whole-small-group-structure":"product/journeys",
 "kvec-educator-microcredential-stack":"product/kvec-micro-credentials",
 "learn-plan-succeed-ilp-initiative":"product/learnplansucceed",
@@ -343,7 +345,6 @@
 "coursemojo-ai-ela-platform":"product/coursemojo",
 "cpaa-adaptive-assessment-element":"product/childrens-progress-academic-assessment",
 "cpmp-tools-and-graphing-calculators":"product/cpmp-tools",
-"cps-elementary-teacher-stability-dataset-2003-2006":"product/chicago-public-schools-elementary-teacher-stability-dataset-2003-2006",
 "cps-gradebook-system-and-dataset":"product/cps-gradebook-reconstructed-201617-analytic-dataset",
 "cps-neighborhood-ib-diploma-program":"product/ib-dp",
 "cps-teacher-survey-1991-general-reform-index":"product/cps-elementary-teacher-survey-and-general-reform-index",
@@ -536,6 +537,7 @@
 "go-tutor-corps-high-impact-tutoring-program":"product/go-tutor-corps",
 "gocps-centralized-enrollment-platform":"product/gocps",
 "gocs-centralized-application-platform":"product/gocps",
+"goesling-2019-cluster-trial-methods-review":"theory/cluster-randomized-trials-school-health-evidence-framework",
 "gold-ultra-gold-benchmark-subsets":"product/gold-and-ultra-gold-benchmark-subsets",
 "good-behavior-game-strategy":"product/good-behavior-game",
 "google-expeditions-pioneer-program":"product/google-expeditions",
@@ -883,6 +885,7 @@
 "paths-curriculum-fast-track-classroom-lessons":"product/paths-promoting-alternative-thinking-strategies",
 "paths-emotional-literacy-curriculum":"product/paths-promoting-alternative-thinking-strategies",
 "pathway-to-academic-success-project-intervention":"product/pathway-to-academic-success-project",
+"patterson-client-centered-career-counseling-chapter":"theory/patterson-person-centered-counseling-framework",
 "pax-good-behavior-game-program":"product/pax-good-behavior-game",
 "pax-good-behavior-game-program-element":"product/pax-good-behavior-game",
 "pde-elementary-school-climate-survey":"product/pennsylvania-department-of-education-elementary-school-student-school-climate-survey",
@@ -1219,6 +1222,9 @@
 "zearn-math-digital-lessons":"product/zearn-math",
 "zearn-professional-development-support":"product/zearn-math"
 },
+"method":{
+"recency-adjustment-over-static-learning-rate":"theory/ms-bkt-multistate-recency-weight-model"
+},
 "pattern":{
 "5e-learning-cycle":"principle/inquiry-based-learning",
 "adaptive-learning":"principle/adaptive-learning",
@@ -1334,11 +1340,13 @@
 "coherent-instructional-system-reading-science":"theory/coherent-instructional-system-reading-science",
 "collaborative-strategic-reading":"product/collaborative-strategic-reading",
 "good-behavior-game":"product/good-behavior-game",
+"infstm-catchall-default-code-strategy":"research-method/dialogue-act-coding-dac-system",
 "pals_peer-assisted-learning-strategies":"product/peer-assisted-learning-strategies-pals",
 "peer-assisted-learning-strategies-pals":"product/peer-assisted-learning-strategies-pals",
 "positive-behavioral-interventions-and-supports-pbis":"product/positive-behavioral-interventions-and-supports-pbis",
 "positive_behavioral_interventions_and_supports_pbis":"product/positive-behavioral-interventions-and-supports-pbis",
 "reciprocal-teaching-peer-assisted-learning-strategies-pals":"product/peer-assisted-learning-strategies-pals",
+"refine-attrition-standards-via-max-tolerable-bias-definition":"research-method/wwc-attrition-model",
 "self-determined-learning-model-of-instruction":"product/self-determined-learning-model-of-instruction",
 "self-regulated-strategy-development":"product/self-regulated-strategy-development-srsd",
 "self-regulated-strategy-development-srsd":"product/self-regulated-strategy-development-srsd",
@@ -1414,6 +1422,7 @@
 "effort-moderated-em-scoring-model":"research-method/effort-moderated-e-m-scoring-model",
 "effort-moderated-irt-model":"research-method/the-effort-moderated-irt-model-of-test-taking-motivation",
 "elevate-learning-conditions-framework":"product/elevate",
+"entrepreneurship-emerging-academic-field":"product/kauffman-campuses-initiative",
 "eportfolio-as-curriculum-framework":"product/hip-taxonomy",
 "equipercentile-linking-conditional-growth-norms-methodology":"research-method/equipercentile-linking-with-conditional-growth-norms-for-deriving-assessment-cut-scores",
 "equity-centered-strategic-learning-framework":"product/capacity-building-for-strategic-learning-cbsl-pilot",
@@ -46896,15 +46905,6 @@
 "path":"claims/data-use-supports-ongoing-hqim-implementation.md",
 "status":"review",
 "title":"Districts use multiple forms of data—learning walks, state assessment items, dashboards, and diagnostics—to give teachers feedback and refine IM implementation over time",
-"type":"claim"
-},
-{
-"description":"Choice of bibliographic database affects the coverage of systematic reviews in student learning research",
-"evidence_strength":"weak",
-"id":"database-choice-affects-systematic-review-coverage",
-"path":"claims/database-choice-affects-systematic-review-coverage.md",
-"status":"review",
-"title":"Choice of bibliographic database affects the coverage of systematic reviews in student learning research",
 "type":"claim"
 },
 {
@@ -146873,15 +146873,6 @@
 "type":"claim"
 },
 {
-"description":"Process models and determinant frameworks differ in process perspective and determinant specificity, limiting cross-use",
-"evidence_strength":"weak",
-"id":"process-models-vs-determinant-frameworks-differences",
-"path":"claims/process-models-vs-determinant-frameworks-differences.md",
-"status":"review",
-"title":"Process models and determinant frameworks differ in process perspective and determinant specificity, limiting cross-use",
-"type":"claim"
-},
-{
 "description":"Metacognition assessment is shifting from self-report questionnaires toward process-oriented multimodal methods, which face validity and data-alignment challenges",
 "evidence_strength":"weak",
 "id":"process-oriented-metacognition-assessment-shift",
@@ -208577,30 +208568,6 @@
 "type":"design"
 },
 {
-"description":"The protocol organizes its questions into recurring domains: general platform and structure, courseware-specific features, course content, student learning behaviors, and student perceptions and sense of belonging, cl...",
-"id":"courseware-interview-five-domain-coverage",
-"path":"designs/courseware-interview-five-domain-coverage.md",
-"status":"review",
-"title":"Interview coverage spanning five question domains from platform experience to belonging",
-"type":"design"
-},
-{
-"description":"CPIG's item generation follows a multi-stage prompting pattern: a first LLM produces word lists (three names, a place, and an action) that item-generator LLMs must incorporate, which the authors say helps \\\"maximize di...",
-"id":"cpig-multi-stage-prompting-quality-filters",
-"path":"designs/cpig-multi-stage-prompting-quality-filters.md",
-"status":"review",
-"title":"Multi-stage prompting with rule-based quality filters for LLM item generation",
-"type":"design"
-},
-{
-"description":"The research groups Chicago high schools into four performance tiers using graduation rate and average ACT composite score: selective enrollment, top-tier non-selective, mid-tier non-selective, and low-tier non-select...",
-"id":"cps-high-school-performance-tiers",
-"path":"designs/cps-high-school-performance-tiers.md",
-"status":"review",
-"title":"Four-tier classification of Chicago high schools by graduation rate and average ACT score",
-"type":"design"
-},
-{
 "description":"The guide organizes course activities into four categories that progress from self-examination to system redesign: positionality and reflection; understanding the on-the-ground ecosystem of assessment; critically exam...",
 "id":"cra-four-activity-categories",
 "path":"designs/cra-four-activity-categories.md",
@@ -209289,14 +209256,6 @@
 "type":"design"
 },
 {
-"description":"The early kindergarten transition (EKT) program evaluation is the concrete research project through which the Multnomah County university–district partnership operated.",
-"id":"ekt-program-evaluation-study-element",
-"path":"designs/ekt-program-evaluation-study-element.md",
-"status":"review",
-"title":"Early kindergarten transition (EKT) program evaluation study conducted by the university–district partnership",
-"type":"design"
-},
-{
 "description":"The digest reports that language learning programs specifically for elderly refugees \\\"have been sparse\\\" and that \\\"Those that incorporate more than just language learning seem to be the most successful.\\\" Its examples p...",
 "id":"elderly-refugee-programs-beyond-language-learning",
 "path":"designs/elderly-refugee-programs-beyond-language-learning.md",
@@ -209745,14 +209704,6 @@
 "path":"designs/five-category-ai-image-artifact-taxonomy.md",
 "status":"review",
 "title":"Five-category artifact taxonomy for evaluating AI-generated images",
-"type":"design"
-},
-{
-"description":"CCSR's three themes for capacity-building research are institutionalized in five commitments that organize how the organization conducts and communicates research: 'developing an extensive data archive on CPs, (2) ext...",
-"id":"five-commitments-capacity-building-research-organization",
-"path":"designs/five-commitments-capacity-building-research-organization.md",
-"status":"review",
-"title":"Five organizational commitments for research that builds district capacity",
 "type":"design"
 },
 {
@@ -210644,14 +210595,6 @@
 "type":"design"
 },
 {
-"description":"A teacher self-report survey administered \\\"three times annually during the 2024–2027 study period\\\" to all participating grades 6–8 teachers, designed to take no longer than 30 minutes per administration.",
-"id":"hqim-implementation-teacher-survey-instrument",
-"path":"designs/hqim-implementation-teacher-survey-instrument.md",
-"status":"review",
-"title":"Tri-annual teacher survey operationalizing dosage, adherence, instructional quality, and support",
-"type":"design"
-},
-{
 "description":"The article proposes a co-mentorship model in which AI tools and human mentors play fundamentally different, complementary roles in project-based learning.",
 "id":"human-ai-co-mentorship-complementary-roles",
 "path":"designs/human-ai-co-mentorship-complementary-roles.md",
@@ -210988,22 +210931,6 @@
 "path":"designs/interpretable-decision-layer-feedback-mediation.md",
 "status":"review",
 "title":"Interpretable decision layer for outcome-independent coordination of teacher and student feedback",
-"type":"design"
-},
-{
-"description":"A crowdsourced research contest in which teams submitted candidate interventions that were then experimentally compared head-to-head.",
-"id":"intervention-research-contest-comparative-method",
-"path":"designs/intervention-research-contest-comparative-method.md",
-"status":"review",
-"title":"Research contest method for experimentally comparing interventions with revision rules between studies",
-"type":"design"
-},
-{
-"description":"The article enumerates the features ISHSs tend to share even though curriculum and instructional practices vary: \\\"a rigorous STEm-focused college preparatory curriculum for all students; use of project- or problem-bas...",
-"id":"ishs-common-design-features",
-"path":"designs/ishs-common-design-features.md",
-"status":"review",
-"title":"Common design features of inclusive STEM high schools",
 "type":"design"
 },
 {
@@ -211905,14 +211832,6 @@
 "type":"design"
 },
 {
-"description":"A sequential, equal status mixed-method study of Black borrowers' experiences with student loans, conducted by The Education Trust with Jalil B.",
-"id":"national-black-student-loan-debt-study",
-"path":"designs/national-black-student-loan-debt-study.md",
-"status":"review",
-"title":"National Black Student Loan Debt Study (survey of 1,272 Black borrowers plus 100 in-depth interviews)",
-"type":"design"
-},
-{
 "description":"The paper describes the teaming structures used to drive improvement in NCS partner high schools, where visiting educators would likely find a predictable set of teams.",
 "id":"ncs-partner-high-school-team-structures",
 "path":"designs/ncs-partner-high-school-team-structures.md",
@@ -212266,14 +212185,6 @@
 "type":"design"
 },
 {
-"description":"The report's Finding 5 holds that \\\"New Revenues Must be Paired With System Improvements and Accountability,\\\" reflecting stakeholder views that more resources are necessary only if the public and policymakers are offer...",
-"id":"pair-new-revenues-with-transparency-and-accountability",
-"path":"designs/pair-new-revenues-with-transparency-and-accountability.md",
-"status":"review",
-"title":"New revenues must be paired with system improvements and accountability, including strengthened fiscal transparency so stakeholders understand how money is being used",
-"type":"design"
-},
-{
 "description":"The group awareness intervention was a paper-based brochure containing profiles of all workshop participants, designed to support cognitive and social group awareness.",
 "id":"paper-based-group-awareness-brochure",
 "path":"designs/paper-based-group-awareness-brochure.md",
@@ -212335,14 +212246,6 @@
 "path":"designs/perturbation-model-cscl-macro-scripts.md",
 "status":"review",
 "title":"Perturbation model of CSCL macro script design",
-"type":"design"
-},
-{
-"description":"The experiment's materials were shared for transparent practices and are available in the IRIS database.",
-"id":"peters-webb-tv-viewing-open-materials-iris",
-"path":"designs/peters-webb-tv-viewing-open-materials-iris.md",
-"status":"review",
-"title":"Open materials for the viewing experiments hosted in the IRIS database",
 "type":"design"
 },
 {
@@ -212994,14 +212897,6 @@
 "type":"design"
 },
 {
-"description":"Because no public benchmark existed, the article developed a structured random instance generator producing synthetic yet realistic regional school networks.",
-"id":"school-aggregation-benchmark-generator",
-"path":"designs/school-aggregation-benchmark-generator.md",
-"status":"review",
-"title":"Synthetic benchmark instance generator for school aggregation problems",
-"type":"design"
-},
-{
 "description":"The study's program design builds on the CCS education framework and aligns its phases with the data lifecycle: developing expertise through bird-identification lessons; defining research questions in the after-school...",
 "id":"school-ccs-data-lifecycle-project-design",
 "path":"designs/school-ccs-data-lifecycle-project-design.md",
@@ -213055,14 +212950,6 @@
 "path":"designs/scoe-school-mental-health-career-pathway.md",
 "status":"review",
 "title":"SCOE mental health career pathway employing peer specialists, graduate clinical interns, and associate clinicians",
-"type":"design"
-},
-{
-"description":"The study's analytical dataset and pipeline: a Scopus search combining STEM terms, AI terms (AI, AI-Agent, GPT, LLM), and education terms over 2015–2025, English-language, yielding 2,146 documents (2,125 after dedupli...",
-"id":"scopus-242-document-ai-stem-bibliometric-corpus",
-"path":"designs/scopus-242-document-ai-stem-bibliometric-corpus.md",
-"status":"review",
-"title":"Scopus-derived 242-document bibliometric corpus and VOSviewer analysis pipeline for AI in STEM education (2015–2025)",
 "type":"design"
 },
 {
@@ -213311,14 +213198,6 @@
 "path":"designs/six-component-engaged-math-lesson-structure.md",
 "status":"review",
 "title":"Composite daily math lesson structure with six engagement-oriented components",
-"type":"design"
-},
-{
-"description":"The study assessed six outcomes: Mathematics, SPAG and Reading SATs supplied by teachers, a specially prepared Year 6 science test on inheritance and evolution and fair testing, a specially designed general reasoning...",
-"id":"six-component-outcome-assessment-battery",
-"path":"designs/six-component-outcome-assessment-battery.md",
-"status":"review",
-"title":"Six-component student outcome assessment battery (three SATs, science test, reasoning test, PASS)",
 "type":"design"
 },
 {
@@ -214365,6 +214244,7 @@
 "type":"design"
 },
 {
+"aliases":["peters-webb-tv-viewing-open-materials-iris"],
 "description":"The article's empirical apparatus consists of two experiments with Dutch-speaking EFL learners who viewed TV material, with vocabulary learning assessed through three measures.",
 "id":"two-experiment-tv-viewing-vocabulary-measures",
 "path":"designs/two-experiment-tv-viewing-vocabulary-measures.md",
@@ -217136,14 +217016,6 @@
 "type":"element"
 },
 {
-"description":"When manually labeled skill tags are available, DynEmb incorporates them by concatenating the latent question embedding learned via matrix factorization with a one-hot encoding of the question's skill tag, initializin...",
-"id":"dynemb-skill-tag-concatenation-integration",
-"path":"elements/dynemb-skill-tag-concatenation-integration.md",
-"status":"review",
-"title":"Skill tag integration scheme: concatenating matrix-factorization question embeddings with one-hot skill tag embeddings, with l1-regularized tag-based initialization",
-"type":"element"
-},
-{
 "description":"Four pilot multimedia learning modules (MLMs) were developed covering Coulomb's Law, Electric Fields, Electric Flux, and Gauss' Law, each covering one lecture's worth of content in approximately 10 scenes.",
 "id":"e-and-m-multimedia-learning-modules",
 "path":"elements/e-and-m-multimedia-learning-modules.md",
@@ -217438,14 +217310,6 @@
 "path":"elements/engage.md",
 "status":"review",
 "title":"Engage",
-"type":"element"
-},
-{
-"description":"Cognate constructions are sentences in which the object and verb share meaning, such as 'sing a song,' 'drink a drink,' and 'think a thought.' The paper defines them as those \\\"in which theobject bolo the same meaning...",
-"id":"english-cognate-constructions",
-"path":"elements/english-cognate-constructions.md",
-"status":"review",
-"title":"English cognate constructions",
 "type":"element"
 },
 {
@@ -218217,28 +218081,11 @@
 "type":"element"
 },
 {
-"description":"The evidence base for the guide is a two-part review: the author \\\"reviewed summaries of the methodological literature on cluster randomized trials\\\" and then \\\"conducted a search to identify practical applications of th...",
-"id":"goesling-2019-cluster-trial-methods-review",
-"path":"elements/goesling-2019-cluster-trial-methods-review.md",
-"status":"review",
-"title":"Methodological review and application search underlying the practical guide",
-"type":"element"
-},
-{
 "description":"A pen-and-paper L2 vocabulary review method using a standard A4 notebook in place of flashcards or apps.",
 "id":"goldlist-notebook-method",
 "path":"elements/goldlist-notebook-method.md",
 "status":"review",
 "title":"GoldList Notebook Method (headlist plus three distillations)",
-"type":"element"
-},
-{
-"canonical":true,
-"description":"The Goldman-Fristoe Test of Articulation, published by American Guidance Service, Inc., is the standardized instrument the study used to measure articulation disorders in the 412 tested children.",
-"id":"goldman-fristoe-test-articulation-survey-instrument",
-"path":"elements/goldman-fristoe-test-articulation-survey-instrument.md",
-"status":"review",
-"title":"Goldman-Fristoe Test of Articulation as the survey's measurement instrument",
 "type":"element"
 },
 {
@@ -218757,14 +218604,6 @@
 "path":"elements/indonesian-bilingual-policy-document-corpus.md",
 "status":"review",
 "title":"Meta-analysis corpus of 21 published policies and papers on Indonesian bilingual higher education (2015–2019)",
-"type":"element"
-},
-{
-"description":"Beyond its four funding tools, EDA supported capacity-building activities for reservation leadership.",
-"id":"industrial-development-courses-for-tribal-leaders",
-"path":"elements/industrial-development-courses-for-tribal-leaders.md",
-"status":"review",
-"title":"EDA- and OEO-sponsored industrial development courses and training programs for tribal leaders and planners",
 "type":"element"
 },
 {
@@ -220702,14 +220541,6 @@
 "type":"element"
 },
 {
-"description":"In the 1960s, Henry Borow commissioned Patterson to write a chapter for \\\"Man in a World at Work\\\", the fiftieth anniversary publication of the National Vocational Guidance Association.",
-"id":"patterson-client-centered-career-counseling-chapter",
-"path":"elements/patterson-client-centered-career-counseling-chapter.md",
-"status":"review",
-"title":"Patterson's chapter on client-centered career counseling",
-"type":"element"
-},
-{
 "description":"Figure 2 reproduces the author's 1977 Comparative Education Review typology, which the paper describes as \\\"A fixed typology presentinga phenomological comparison of how the international literature may be seen to cons...",
 "id":"paulston-1977-social-change-paradigm-typology",
 "path":"elements/paulston-1977-social-change-paradigm-typology.md",
@@ -221631,14 +221462,6 @@
 "type":"element"
 },
 {
-"description":"An assessment method in which children are videotaped playing with opposite-sex-typed toys and wearing opposite-sex clothing, then shown the tapes two weeks later and asked whether the referent is \\\"REALLY a boy or a g...",
-"id":"realistic-videotape-gender-constancy-method",
-"path":"elements/realistic-videotape-gender-constancy-method.md",
-"status":"review",
-"title":"Realistic videotape gender-constancy assessment method",
-"type":"element"
-},
-{
 "canonical":true,
 "description":"Learners revisit and revise their responses after discussion or additional learning.",
 "id":"reassessment",
@@ -221706,14 +221529,6 @@
 "path":"elements/reflective-journal-interview-flca-instruments.md",
 "status":"review",
 "title":"Reflective written journal plus semi-structured interview data collection instruments",
-"type":"element"
-},
-{
-"description":"To operate the project, a comprehensive management system was developed with an external agency (EPIC Diversified Systems Corporation).",
-"id":"region-ii-project-management-system",
-"path":"elements/region-ii-project-management-system.md",
-"status":"review",
-"title":"Comprehensive project management system with PERT charts and critical work activities",
 "type":"element"
 },
 {
@@ -223376,14 +223191,6 @@
 "type":"element"
 },
 {
-"description":"The study measured learning gains with an untimed grammaticality judgment test administered as pretest, posttest, and delayed posttest.",
-"id":"untimed-grammaticality-judgment-test-wh-questions",
-"path":"elements/untimed-grammaticality-judgment-test-wh-questions.md",
-"status":"review",
-"title":"Untimed grammaticality judgment test for measuring wh-question learning gains",
-"type":"element"
-},
-{
 "description":"The research breadth layer contains six elements focused on the structure of the research experience: originality of research, systematic disciplinary inquiry, evaluated research process work, activities emphasizing r...",
 "id":"ur-breadth-six-elements-milestone-2",
 "path":"elements/ur-breadth-six-elements-milestone-2.md",
@@ -224586,14 +224393,6 @@
 "path":"methods/piagetian-teacher-congruency-checklist.md",
 "status":"review",
 "title":"Piagetian teacher behavioral congruency checklist for analyzing teaching styles",
-"type":"method"
-},
-{
-"description":"The paper's concluding recommendation is that student-model designers consider replacing a static learning rate with a recency adjustment to Bayesian updates, because this \\\"can lead to better properties of knowledge e...",
-"id":"recency-adjustment-over-static-learning-rate",
-"path":"methods/recency-adjustment-over-static-learning-rate.md",
-"status":"review",
-"title":"Apply a recency adjustment to Bayesian knowledge-estimation updates instead of a static learning rate",
 "type":"method"
 },
 {
@@ -228194,14 +227993,6 @@
 "type":"product"
 },
 {
-"description":"An interactive augmented-reality sandbox environment presented by Hod and Twersky for embodied, collaborative spatial learning in science classrooms.",
-"id":"augmented-reality-sandbox",
-"path":"products/augmented-reality-sandbox.md",
-"status":"review",
-"title":"Augmented Reality Sandbox",
-"type":"product"
-},
-{
 "description":"A competitive federal grant programme administered by the U.S.",
 "id":"augustus-f-hawkins-center-for-excellence-grant-program",
 "path":"products/augustus-f-hawkins-center-for-excellence-grant-program.md",
@@ -228985,14 +228776,6 @@
 "path":"products/chicago-public-schools-elementary-on-track-indicator.md",
 "status":"review",
 "title":"Chicago Public Schools Elementary On-Track indicator",
-"type":"product"
-},
-{
-"description":"A Chicago Public Schools data table reporting one-year teacher stability percentages for elementary schools across fall snapshots from 2003 through 2006.",
-"id":"chicago-public-schools-elementary-teacher-stability-dataset-2003-2006",
-"path":"products/chicago-public-schools-elementary-teacher-stability-dataset-2003-2006.md",
-"status":"review",
-"title":"Chicago Public Schools elementary teacher stability dataset, 2003-2006",
 "type":"product"
 },
 {
@@ -230831,6 +230614,7 @@
 "type":"product"
 },
 {
+"aliases":["education-brain-model"],
 "description":"An open-source Python framework developed by Yizhou Zhou et al.",
 "id":"ecnuclaw",
 "path":"products/ecnuclaw.md",
@@ -230974,14 +230758,6 @@
 "path":"products/educasim.md",
 "status":"review",
 "title":"EducaSim",
-"type":"product"
-},
-{
-"description":"A bio-inspired three-layer architecture for educational AI systems that separates multimodal data capture, pedagogical decision generation, and intervention output.",
-"id":"education-brain-model",
-"path":"products/education-brain-model.md",
-"status":"review",
-"title":"Education Brain model",
 "type":"product"
 },
 {
@@ -231263,14 +231039,6 @@
 "path":"products/emotion-socialization-observation-scale-esos.md",
 "status":"review",
 "title":"Emotion Socialization Observation Scale (ESOS)",
-"type":"product"
-},
-{
-"description":"A rubric-based assessment instrument developed by Panadero et al.",
-"id":"empirical-quality-rubric-instrument-for-evaluating-rubric-studies",
-"path":"products/empirical-quality-rubric-instrument-for-evaluating-rubric-studies.md",
-"status":"review",
-"title":"Empirical-quality rubric instrument for evaluating rubric studies",
 "type":"product"
 },
 {
@@ -231889,14 +231657,6 @@
 "path":"products/flowcode.md",
 "status":"review",
 "title":"Flowcode",
-"type":"product"
-},
-{
-"description":"Interactive AI music-composition assistants developed by François Pachet and collaborators at Sony CSL-Paris for constrained score-based composition and real-time style-based improvisation.",
-"id":"flowcomposer-and-the-continuator",
-"path":"products/flowcomposer-and-the-continuator.md",
-"status":"review",
-"title":"FlowComposer and the Continuator",
 "type":"product"
 },
 {
@@ -232787,14 +232547,6 @@
 "path":"products/hoot-reading.md",
 "status":"review",
 "title":"Hoot Reading",
-"type":"product"
-},
-{
-"description":"A digital discussion environment developed for written and oral contributions, configurable group conversations, and moderator-controlled reflection on controversial topics.",
-"id":"hot-discussions-platform-hdp",
-"path":"products/hot-discussions-platform-hdp.md",
-"status":"review",
-"title":"Hot Discussions Platform (HDP)",
 "type":"product"
 },
 {
@@ -237402,14 +237154,6 @@
 "type":"product"
 },
 {
-"description":"A dataset and interactive visualization released by Sina Rismanchian et al.",
-"id":"public-aied-dataset-and-interactive-visualization-of-categorized-aied-and-ijaied-papers",
-"path":"products/public-aied-dataset-and-interactive-visualization-of-categorized-aied-and-ijaied-papers.md",
-"status":"review",
-"title":"Public AI×Ed dataset and interactive visualization of categorized AIED and IJAIED papers",
-"type":"product"
-},
-{
 "description":"A version-controlled starter workspace released by Jin-Guo Liu et al.",
 "id":"public-tdaa-starter-template-harness-for-ai-assisted-course-production",
 "path":"products/public-tdaa-starter-template-harness-for-ai-assisted-course-production.md",
@@ -238760,14 +238504,6 @@
 "path":"products/six-ngss-aligned-middle-school-student-drawing-assessment-dataset.md",
 "status":"review",
 "title":"Six NGSS-aligned middle school student drawing assessment dataset",
-"type":"product"
-},
-{
-"description":"A six-question yes/no subjective cognitive-function assessment developed for the Structured Telephone Interview for Dementia Assessment (STIDA) and used with older adults in epidemiological research.",
-"id":"six-question-subjective-cognitive-function-scale-from-the-stida-telephone-dementia-screene",
-"path":"products/six-question-subjective-cognitive-function-scale-from-the-stida-telephone-dementia-screene.md",
-"status":"review",
-"title":"Six-question subjective cognitive function scale from the STIDA telephone dementia screener",
 "type":"product"
 },
 {
@@ -242087,14 +241823,6 @@
 "type":"research-method"
 },
 {
-"description":"Elicitation (asking for evidence pertinent to the diagnosed pupil's scientific reasoning skills), sharing (sharing such evidence), and negotiation (negotiating how consistent or contradictory observations affect the joint diagnosis) were coded from screen recordings at the level of the individual, f",
-"id":"coding-scheme-for-collaborative-diagnostic-activities-across-11-scientific-reasoning-sub-s",
-"path":"research-methods/coding-scheme-for-collaborative-diagnostic-activities-across-11-scientific-reasoning-sub-s.md",
-"status":"review",
-"title":"Coding scheme for collaborative diagnostic activities across 11 scientific reasoning sub-skills",
-"type":"research-method"
-},
-{
 "description":"An exploratory multilabel coding scheme applied to student turns in AI-mediated conversations, with the student turn as coding unit interpreted in relation to its local sequence and the whole conversation.",
 "id":"coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction",
 "path":"research-methods/coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction.md",
@@ -242116,14 +241844,6 @@
 "path":"research-methods/cognitive-episodes-an-eight-way-taxonomy-of-functional-problem-solving-states-grounded-in.md",
 "status":"review",
 "title":"Cognitive episodes: an eight-way taxonomy of functional problem-solving states grounded in Schoenfeld's Episode Theory",
-"type":"research-method"
-},
-{
-"description":"The editorial describes Cognitive Work Analysis as a technique drawn from engineering fields that Kim MacKinnon applies to educational research.",
-"id":"cognitive-work-analysis",
-"path":"research-methods/cognitive-work-analysis.md",
-"status":"review",
-"title":"Cognitive Work Analysis",
 "type":"research-method"
 },
 {
@@ -249550,14 +249270,6 @@
 "type":"strategy"
 },
 {
-"description":"The report's method for surfacing candidate best practices is comparative: it examines leadership practices across KIPP schools and regions and singles out the practices used where impacts were largest.",
-"id":"best-practices-from-largest-impact-schools",
-"path":"strategies/best-practices-from-largest-impact-schools.md",
-"status":"review",
-"title":"Identify potential best practices by comparing practices of the highest-impact schools",
-"type":"strategy"
-},
-{
 "aliases":["big_ten_student_motivators"],
 "description":"Ten research-backed strategies that encourage playful learning, innovative thinking, and problem-solving skills while engaging students in core subjects.",
 "id":"big_10_student_motivators",
@@ -250930,14 +250642,6 @@
 "path":"strategies/centralized-enrollment-controlled-choice-transparency.md",
 "status":"review",
 "title":"Use centralized enrollment, controlled choice, and transparency systems to ensure equitable access and integration",
-"type":"strategy"
-},
-{
-"description":"The study finds that DBPH maintains minimal reader contact and has \\\"no single list of the readers it serves,\\\" with mailing lists maintained by multiple contractors and non-standard application forms across regions.",
-"id":"centralized-reader-information-management-system",
-"path":"strategies/centralized-reader-information-management-system.md",
-"status":"review",
-"title":"Install a centralized computer-based information management system with unique reader identifiers",
 "type":"strategy"
 },
 {
@@ -252346,14 +252050,6 @@
 "type":"strategy"
 },
 {
-"description":"The commentary argues that future research on sequential SRL analysis should record how long each regulatory process lasts and whether it is positive or negative in valence, since \\\"they are integral to examining the q...",
-"id":"code-duration-and-valence-of-srl-processes",
-"path":"strategies/code-duration-and-valence-of-srl-processes.md",
-"status":"review",
-"title":"Code the duration and valence of SRL processes when analyzing temporally unfolding process data",
-"type":"strategy"
-},
-{
 "description":"This strategy replaces AI bans with formative oral assessments: after each weekly coding assignment, students explain their submitted code and justify implementation decisions to a trained TA in a 15-minute interview,...",
 "id":"code-review-interviews-ai-mitigation",
 "path":"strategies/code-review-interviews-ai-mitigation.md",
@@ -253582,14 +253278,6 @@
 "path":"strategies/component-level-fidelity-scores-with-student-application.md",
 "status":"review",
 "title":"Assess fidelity separately for instructional components and include student application when evaluating strategy instruction",
-"type":"strategy"
-},
-{
-"description":"The report discusses the creation of composite outcome measures as part of its guidance on multiple testing.",
-"id":"composite-outcome-measures-multiple-testing",
-"path":"strategies/composite-outcome-measures-multiple-testing.md",
-"status":"review",
-"title":"Create composite outcome measures to reduce the number of hypothesis tests",
 "type":"strategy"
 },
 {
@@ -256395,14 +256083,6 @@
 "path":"strategies/decomposition-provincial-regional-school-planning.md",
 "status":"review",
 "title":"Decomposition-based optimization separating provincial subproblems from regional coordination for large-scale school planning",
-"type":"strategy"
-},
-{
-"description":"The paper recommends that future survey research on informal learning establish benchmarks of the general incidence, basic contents and modes, and differential patterns of intentional informal learning.",
-"id":"dedicated-informal-learning-survey-design",
-"path":"strategies/dedicated-informal-learning-survey-design.md",
-"status":"review",
-"title":"Survey research on informal learning should use dedicated framing questions that prompt reflection before asking about learning activities",
 "type":"strategy"
 },
 {
@@ -264712,14 +264392,6 @@
 "type":"strategy"
 },
 {
-"description":"The authors recommend extending the simulation program to identify when the rank transform approach's power advantage holds.",
-"id":"further-simulation-rank-ancova-boundary-conditions",
-"path":"strategies/further-simulation-rank-ancova-boundary-conditions.md",
-"status":"review",
-"title":"Conduct further simulation studies to map boundary conditions of the rank ANCOVA power advantage",
-"type":"strategy"
-},
-{
 "description":"The review's forward-looking recommendations urge researchers to move \\\"beyond isolated motivational outcomes and toward a coherent, theory-driven framework that integrates motivational theories, pedagogical design, an...",
 "id":"future-ai-motivation-research-recommendations",
 "path":"strategies/future-ai-motivation-research-recommendations.md",
@@ -264741,14 +264413,6 @@
 "path":"strategies/future-cdst-research-learner-environment-interaction.md",
 "status":"review",
 "title":"Future CDST research should examine learner-environment interactions and define systems on a principled basis",
-"type":"strategy"
-},
-{
-"description":"The article discusses future challenges of using design-based research as a methodology.",
-"id":"future-challenges-of-using-dbr",
-"path":"strategies/future-challenges-of-using-dbr.md",
-"status":"review",
-"title":"Anticipate and address the future challenges of using design-based research",
 "type":"strategy"
 },
 {
@@ -268595,14 +268259,6 @@
 "path":"strategies/infrastructure-pd-policy-bridge-ai-intention-practice-gap.md",
 "status":"review",
 "title":"Bridge the AI intention-practice gap through digital infrastructure, professional development, and supportive institutional policies",
-"type":"strategy"
-},
-{
-"description":"When the DAC filter finds no discourse marker in a message, it assigns the InfStm?",
-"id":"infstm-catchall-default-code-strategy",
-"path":"strategies/infstm-catchall-default-code-strategy.md",
-"status":"review",
-"title":"Use a default catch-all code (InfStm?) to flag uncodable messages for manual checking",
 "type":"strategy"
 },
 {
@@ -274478,14 +274134,6 @@
 "path":"strategies/multi-format-media-access-provision.md",
 "status":"review",
 "title":"Provide modeling media in multiple file formats and physical copy options to support student access",
-"type":"strategy"
-},
-{
-"description":"The article's stated next steps for tutoring-effectiveness research are that \\\"similar evaluations of student outcomes must occur at other institutions that provide tutoring services\\\" and that, as the literature grows,...",
-"id":"multi-institution-tutoring-evaluation-strategy",
-"path":"strategies/multi-institution-tutoring-evaluation-strategy.md",
-"status":"review",
-"title":"Evaluate tutoring outcomes at multiple institutions and compare effectiveness across tutoring forms",
 "type":"strategy"
 },
 {
@@ -280741,14 +280389,6 @@
 "type":"strategy"
 },
 {
-"description":"The article recommends that future work move beyond cross-sectional correlational designs: \\\"Prospective and experimental studies are needed to confirm these findings and determine whether improving microbiome health m...",
-"id":"prospective-experimental-designs-sleep-microbiome-cognition",
-"path":"strategies/prospective-experimental-designs-sleep-microbiome-cognition.md",
-"status":"review",
-"title":"Use prospective and experimental designs with multiple cognitive flexibility measures, objective sleep assessment, and larger samples to clarify sleep-microbiome-cognition relationships",
-"type":"strategy"
-},
-{
 "description":"The article recommends reallocating scholarly attention from capability benchmarking to testing governance interventions in real curricula.",
 "id":"prospective-governance-evaluations-over-benchmarks",
 "path":"strategies/prospective-governance-evaluations-over-benchmarks.md",
@@ -281247,14 +280887,6 @@
 "path":"strategies/question-generation.md",
 "status":"review",
 "title":"Question Generation",
-"type":"strategy"
-},
-{
-"description":"The article recommends how researchers should construct training and evaluation partitions for this dataset.",
-"id":"question-level-partitioning-strategy",
-"path":"strategies/question-level-partitioning-strategy.md",
-"status":"review",
-"title":"Partition at the question level or with grouped controls when evaluating transfer to unseen questions",
 "type":"strategy"
 },
 {
@@ -282396,14 +282028,6 @@
 "path":"strategies/refine-adversarial-hallucination-critique.md",
 "status":"review",
 "title":"Refine: use inherent LLM limitations as organic adversarial examples for critique exercises",
-"type":"strategy"
-},
-{
-"description":"The authors recommend that evidence reviews seeking to improve attrition standards direct their efforts at the standard's bias-tolerance parameter rather than at other model inputs.",
-"id":"refine-attrition-standards-via-max-tolerable-bias-definition",
-"path":"strategies/refine-attrition-standards-via-max-tolerable-bias-definition.md",
-"status":"review",
-"title":"Refine attrition standards by revisiting the definition of maximum tolerable bias",
 "type":"strategy"
 },
 {
@@ -284421,14 +284045,6 @@
 "type":"strategy"
 },
 {
-"description":"The German S3 guideline (AWMF, 2015), summarized by the review for an interdisciplinary audience of physicians, therapists and pedagogs, recommends diagnosing reading and/or writing impairment when there is \\\"a discrep...",
-"id":"s3-guideline-discrepancy-diagnostic-strategy",
-"path":"strategies/s3-guideline-discrepancy-diagnostic-strategy.md",
-"status":"review",
-"title":"Diagnose reading and writing disorders using a 1.5 SD discrepancy criterion with validated tests and exclusion criteria",
-"type":"strategy"
-},
-{
 "description":"To create a positive environment for students whose prior mathematics experiences may have been negative, the circle leaders used practices the article found useful: considering students' prior experiences such as ste...",
 "id":"safe-mathematical-community-practices",
 "path":"strategies/safe-mathematical-community-practices.md",
@@ -284901,14 +284517,6 @@
 "path":"strategies/school-based-sleep-education-strategy.md",
 "status":"review",
 "title":"Deliver sleep education at school to improve sleep, cognition and academic performance",
-"type":"strategy"
-},
-{
-"description":"The article describes implementing the SRL training \\\"alongside regular classes in school\\\", with random allocation of participants to groups, a blocked 90-minute time slot in the regular timetable, and researchers admi...",
-"id":"school-based-srl-training-fidelity-rotation",
-"path":"strategies/school-based-srl-training-fidelity-rotation.md",
-"status":"review",
-"title":"Implement SRL training in regular school with researcher-administered, fidelity-monitored sessions and rotated instructors",
 "type":"strategy"
 },
 {
@@ -292990,14 +292598,6 @@
 "type":"strategy"
 },
 {
-"description":"For proprietary models where CodeCarbon cannot be used and parameter counts are unknown, the article recommends: (1) sum context and output tokens, which most inference APIs readily report; (2) estimate active paramet...",
-"id":"three-step-proprietary-llm-carbon-estimation",
-"path":"strategies/three-step-proprietary-llm-carbon-estimation.md",
-"status":"review",
-"title":"Three-step procedure for estimating computational cost and CO2 of proprietary LLMs with unknown parameters",
-"type":"strategy"
-},
-{
 "description":"The report prescribes an ordered procedure for schools integrating digital content: \\\"Once schools and districts commit to the vision of digital learning, the CEO Forum offers three steps to help ensure greater success...",
 "id":"three-steps-integrate-digital-content",
 "path":"strategies/three-steps-integrate-digital-content.md",
@@ -300075,14 +299675,6 @@
 "type":"theory"
 },
 {
-"description":"The article frames entrepreneurship as a long-standing feature of American society and an economic contributor that has only recently entered formal higher education, stating that \\\"only recently has entrepreneurship b...",
-"id":"entrepreneurship-emerging-academic-field",
-"path":"theories/entrepreneurship-emerging-academic-field.md",
-"status":"review",
-"title":"Entrepreneurship as a newly emerging academic field in U.S. higher education",
-"type":"theory"
-},
-{
 "description":"The environmental enrichment hypothesis holds that engagement in epistemic behaviors enriches the environment, \\\"thus providing more opportunity for the acquisition of knowledge\\\".",
 "id":"environmental-enrichment-hypothesis-epistemic-behavior",
 "path":"theories/environmental-enrichment-hypothesis-epistemic-behavior.md",
@@ -304223,14 +303815,6 @@
 "path":"theories/pets-input-output-privacy-taxonomy.md",
 "status":"review",
 "title":"Taxonomy of PETs by input privacy versus output privacy",
-"type":"theory"
-},
-{
-"description":"The report organizes its descriptive analysis around a three-part classification of Philadelphia public high schools.",
-"id":"philadelphia-three-type-high-school-taxonomy",
-"path":"theories/philadelphia-three-type-high-school-taxonomy.md",
-"status":"review",
-"title":"Three-type taxonomy of Philadelphia public high schools: alternative disciplinary, alternative accelerated, and neighborhood-zoned",
 "type":"theory"
 },
 {
@@ -312883,7 +312467,6 @@
 "data-use-policies-associated-charter-success":"data-use-policies-associated-charter-success",
 "data-use-recommendations-low-evidence":"data-use-recommendations-low-evidence",
 "data-use-supports-ongoing-hqim-implementation":"data-use-supports-ongoing-hqim-implementation",
-"database-choice-affects-systematic-review-coverage":"database-choice-affects-systematic-review-coverage",
 "datafication-risks-narrowing-educational-processes":"datafication-risks-narrowing-educational-processes",
 "datafication-to-commodification-governance-pathway":"datafication-to-commodification-governance-pathway",
 "datashop-model-improved-geometry-mastery":"datashop-model-improved-geometry-mastery",
@@ -324180,7 +323763,6 @@
 "process-mining-successful-learners-orientation-planning":"process-mining-successful-learners-orientation-planning",
 "process-mining-successful-unsuccessful-srl-models":"process-mining-successful-unsuccessful-srl-models",
 "process-mining-transitions-differ-by-quartile":"process-mining-transitions-differ-by-quartile",
-"process-models-vs-determinant-frameworks-differences":"process-models-vs-determinant-frameworks-differences",
 "process-oriented-metacognition-assessment-shift":"process-oriented-metacognition-assessment-shift",
 "process-oriented-weak-task-oriented-effective-dcd":"process-oriented-weak-task-oriented-effective-dcd",
 "process-performance-correlation-only-both-tools":"process-performance-correlation-only-both-tools",
@@ -331203,9 +330785,6 @@
 "coteaching-gradual-release-residency-pattern":"coteaching-gradual-release-residency-pattern",
 "county-ece-coordination-promising-practices":"county-ece-coordination-promising-practices",
 "course-specific-rag-intermediary-support-layer":"course-specific-rag-intermediary-support-layer",
-"courseware-interview-five-domain-coverage":"courseware-interview-five-domain-coverage",
-"cpig-multi-stage-prompting-quality-filters":"cpig-multi-stage-prompting-quality-filters",
-"cps-high-school-performance-tiers":"cps-high-school-performance-tiers",
 "cra-four-activity-categories":"cra-four-activity-categories",
 "create-meta-creative-pedagogy":"create-meta-creative-pedagogy",
 "crewscaler-16-protocol-ai-tutor-library":"crewscaler-16-protocol-ai-tutor-library",
@@ -331292,7 +330871,6 @@
 "egocentric-allocentric-perspectival-coordination":"egocentric-allocentric-perspectival-coordination",
 "eight-strategies-esl-pronunciation-bangladesh":"eight-strategies-esl-pronunciation-bangladesh",
 "eight-week-mi-module-sequence-rubric":"eight-week-mi-module-sequence-rubric",
-"ekt-program-evaluation-study-element":"ekt-program-evaluation-study-element",
 "elderly-refugee-programs-beyond-language-learning":"elderly-refugee-programs-beyond-language-learning",
 "element-dynamic-pairing-co-orchestration-ecosystem":"element-dynamic-pairing-co-orchestration-ecosystem",
 "elementary-distributed-leadership-monitoring-pattern":"elementary-distributed-leadership-monitoring-pattern",
@@ -331349,7 +330927,6 @@
 "five-activity-metaconceptual-sequence":"five-activity-metaconceptual-sequence",
 "five-activity-shadow-to-sundial-sequence":"five-activity-shadow-to-sundial-sequence",
 "five-category-ai-image-artifact-taxonomy":"five-category-ai-image-artifact-taxonomy",
-"five-commitments-capacity-building-research-organization":"five-commitments-capacity-building-research-organization",
 "five-component-student-profile-structure":"five-component-student-profile-structure",
 "five-ct-competencies-organizing-k12-content":"five-ct-competencies-organizing-k12-content",
 "five-key-characteristics-group-processing-ebl":"five-key-characteristics-group-processing-ebl",
@@ -331461,7 +331038,6 @@
 "holistic-place-based-time-bound-indigenous-teaching":"holistic-place-based-time-bound-indigenous-teaching",
 "horizontal-vertical-transfer-problem-posing-framework":"horizontal-vertical-transfer-problem-posing-framework",
 "hp-learning-studio-anaheim-high-school":"hp-learning-studio-anaheim-high-school",
-"hqim-implementation-teacher-survey-instrument":"hqim-implementation-teacher-survey-instrument",
 "human-ai-co-mentorship-complementary-roles":"human-ai-co-mentorship-complementary-roles",
 "human-guided-genai-assessment-design-framework-cs":"human-guided-genai-assessment-design-framework-cs",
 "human-in-the-loop-critical-collaboration-workflow":"human-in-the-loop-critical-collaboration-workflow",
@@ -331504,8 +331080,6 @@
 "interdisciplinary-teaming-block-schedule":"interdisciplinary-teaming-block-schedule",
 "interleaved-individual-team-assignment-design":"interleaved-individual-team-assignment-design",
 "interpretable-decision-layer-feedback-mediation":"interpretable-decision-layer-feedback-mediation",
-"intervention-research-contest-comparative-method":"intervention-research-contest-comparative-method",
-"ishs-common-design-features":"ishs-common-design-features",
 "isle-three-experiment-inquiry-approach":"isle-three-experiment-inquiry-approach",
 "iterative-llm-refinement-item-generation":"iterative-llm-refinement-item-generation",
 "iterative-tpack-design-practice-cycle":"iterative-tpack-design-practice-cycle",
@@ -331618,7 +331192,6 @@
 "multicomponent-esl-reading-intervention-2day-cycle":"multicomponent-esl-reading-intervention-2day-cycle",
 "multilevel-professional-development-school-partnership":"multilevel-professional-development-school-partnership",
 "multiliteracies-four-knowledge-processes-framework":"multiliteracies-four-knowledge-processes-framework",
-"national-black-student-loan-debt-study":"national-black-student-loan-debt-study",
 "ncs-partner-high-school-team-structures":"ncs-partner-high-school-team-structures",
 "need-supportive-4cid-learning-environment":"need-supportive-4cid-learning-environment",
 "needs-sensing-informs-collaborative-design":"needs-sensing-informs-collaborative-design",
@@ -331663,7 +331236,6 @@
 "padlet-chatgpt-eportfolio-workspace":"padlet-chatgpt-eportfolio-workspace",
 "page-scroll-screen-presentation-prototypes":"page-scroll-screen-presentation-prototypes",
 "pair-based-discovery-llm-analysis-activity":"pair-based-discovery-llm-analysis-activity",
-"pair-new-revenues-with-transparency-and-accountability":"pair-new-revenues-with-transparency-and-accountability",
 "paper-based-group-awareness-brochure":"paper-based-group-awareness-brochure",
 "participatory-design-three-phases":"participatory-design-three-phases",
 "pbl-ai-guardrails-policy-set":"pbl-ai-guardrails-policy-set",
@@ -331672,7 +331244,7 @@
 "pepper-52-lis-signs-element":"pepper-52-lis-signs-element",
 "persona-progression-model-ai-instruction":"persona-progression-model-ai-instruction",
 "perturbation-model-cscl-macro-scripts":"perturbation-model-cscl-macro-scripts",
-"peters-webb-tv-viewing-open-materials-iris":"peters-webb-tv-viewing-open-materials-iris",
+"peters-webb-tv-viewing-open-materials-iris":"two-experiment-tv-viewing-vocabulary-measures",
 "petsp-ml-process-model":"petsp-ml-process-model",
 "pf-ef-assessment-battery-adolescents":"pf-ef-assessment-battery-adolescents",
 "phase-in-schedule-resident-responsibility":"phase-in-schedule-resident-responsibility",
@@ -331754,7 +331326,6 @@
 "savvy-six-design-requirements-concept-group-individual":"savvy-six-design-requirements-concept-group-individual",
 "scaffolded-video-ethnography-project":"scaffolded-video-ethnography-project",
 "scenery-generator-learning-fields":"scenery-generator-learning-fields",
-"school-aggregation-benchmark-generator":"school-aggregation-benchmark-generator",
 "school-ccs-data-lifecycle-project-design":"school-ccs-data-lifecycle-project-design",
 "school-collaborative-making-project-pattern":"school-collaborative-making-project-pattern",
 "schools-lecture-demo-exercise-sessions":"schools-lecture-demo-exercise-sessions",
@@ -331762,7 +331333,6 @@
 "scoe-collective-impact-wellness-model":"scoe-collective-impact-wellness-model",
 "scoe-cost-mtss-referral-coordination":"scoe-cost-mtss-referral-coordination",
 "scoe-school-mental-health-career-pathway":"scoe-school-mental-health-career-pathway",
-"scopus-242-document-ai-stem-bibliometric-corpus":"scopus-242-document-ai-stem-bibliometric-corpus",
 "script-four-model-architecture-inner-outer-loop":"script-four-model-architecture-inner-outer-loop",
 "script-mechanics-data-structure-transformations":"script-mechanics-data-structure-transformations",
 "scripted-one-to-one-paraprofessional-tutoring":"scripted-one-to-one-paraprofessional-tutoring",
@@ -331794,7 +331364,6 @@
 "simulated-classroom-film-quiz-assessment":"simulated-classroom-film-quiz-assessment",
 "site-coordinator-role-residency-element":"site-coordinator-role-residency-element",
 "six-component-engaged-math-lesson-structure":"six-component-engaged-math-lesson-structure",
-"six-component-outcome-assessment-battery":"six-component-outcome-assessment-battery",
 "six-key-practices-community-school-immigrant-communities":"six-key-practices-community-school-immigrant-communities",
 "six-phase-curriculum-as-code-pipeline":"six-phase-curriculum-as-code-pipeline",
 "six-sea-strategies-school-improvement-essa":"six-sea-strategies-school-improvement-essa",
@@ -332265,7 +331834,6 @@
 "dual-language-program-element":"dual-language-program-element",
 "duolingo-checkpoint-quiz":"duolingo-checkpoint-quiz",
 "duolingo-review-exercises":"duolingo-review-exercises",
-"dynemb-skill-tag-concatenation-integration":"dynemb-skill-tag-concatenation-integration",
 "e-and-m-multimedia-learning-modules":"e-and-m-multimedia-learning-modules",
 "early-attendance-importance-poster-infographic":"early-attendance-importance-poster-infographic",
 "early-grade-attendance-fact-sheet-nj":"early-grade-attendance-fact-sheet-nj",
@@ -332302,7 +331870,6 @@
 "empirical-example-cat-alignment-evaluation":"empirical-example-cat-alignment-evaluation",
 "empirical-example-multi-armed-education-rct":"empirical-example-multi-armed-education-rct",
 "engage":"engage",
-"english-cognate-constructions":"english-cognate-constructions",
 "enhance-retention-and-transfer":"enhance-retention-and-transfer",
 "enhanced-mc-partial-credit-questions":"enhanced-mc-partial-credit-questions",
 "entrepreneur-task-centered-course-byu":"entrepreneur-task-centered-course-byu",
@@ -332400,9 +331967,7 @@
 "generative-processing":"generative-processing",
 "glossary-ai-terms-educators":"glossary-ai-terms-educators",
 "goal-setting":"goal-setting",
-"goesling-2019-cluster-trial-methods-review":"goesling-2019-cluster-trial-methods-review",
 "goldlist-notebook-method":"goldlist-notebook-method",
-"goldman-fristoe-test-articulation-survey-instrument":"goldman-fristoe-test-articulation-survey-instrument",
 "google-cardboard-low-cost-vr-setup":"google-cardboard-low-cost-vr-setup",
 "google-voice-typing-l2-writing-tool":"google-voice-typing-l2-writing-tool",
 "gpt-4o-dialogue-annotation-correctness-and-common-core-kcs":"gpt-4o-dialogue-annotation-correctness-and-common-core-kcs",
@@ -332466,7 +332031,6 @@
 "individual-reflection":"individual-reflection",
 "individual-response":"individual-response",
 "indonesian-bilingual-policy-document-corpus":"indonesian-bilingual-policy-document-corpus",
-"industrial-development-courses-for-tribal-leaders":"industrial-development-courses-for-tribal-leaders",
 "information-literacy":"information-literacy",
 "information-studies-taxonomy-faceted-organizational-taxonomy":"information-studies-taxonomy-faceted-organizational-taxonomy",
 "inquiry":"inquiry",
@@ -332704,7 +332268,6 @@
 "participant-examples":"participant-examples",
 "pasco-real-time-data-acquisition-labs":"pasco-real-time-data-acquisition-labs",
 "pat-lk-preschool-early-literacy-practice":"pat-lk-preschool-early-literacy-practice",
-"patterson-client-centered-career-counseling-chapter":"patterson-client-centered-career-counseling-chapter",
 "paulston-1977-social-change-paradigm-typology":"paulston-1977-social-change-paradigm-typology",
 "pearce-garcia-attendance-zone-survey-maps":"pearce-garcia-attendance-zone-survey-maps",
 "pedagogical-agent-signaling":"pedagogical-agent-signaling",
@@ -332818,7 +332381,6 @@
 "reading-go-biweekly-data-reporting":"reading-go-biweekly-data-reporting",
 "real-world-math":"real-world-math",
 "real-world-problems":"real-world-problems",
-"realistic-videotape-gender-constancy-method":"realistic-videotape-gender-constancy-method",
 "reassessment":"reassessment",
 "rebuttals":"rebuttals",
 "recall-prior-knowledge":"recall-prior-knowledge",
@@ -332827,7 +332389,6 @@
 "reflection":"reflection",
 "reflection-activities":"reflection-activities",
 "reflective-journal-interview-flca-instruments":"reflective-journal-interview-flca-instruments",
-"region-ii-project-management-system":"region-ii-project-management-system",
 "reinforcement":"reinforcement",
 "rel-ma-alternative-growth-measures-literature-review":"rel-ma-alternative-growth-measures-literature-review",
 "rel-ma-remote-learning-exploratory-review":"rel-ma-remote-learning-exploratory-review",
@@ -333031,7 +332592,6 @@
 "uchicago-consortium-2001-high-school-reform-volume":"uchicago-consortium-2001-high-school-reform-volume",
 "understanding-types-of-evidence-guide":"understanding-types-of-evidence-guide",
 "university-enrollment-1971-1990-fuzzylised-dataset":"university-enrollment-1971-1990-fuzzylised-dataset",
-"untimed-grammaticality-judgment-test-wh-questions":"untimed-grammaticality-judgment-test-wh-questions",
 "ur-breadth-six-elements-milestone-2":"ur-breadth-six-elements-milestone-2",
 "ur-depth-elements-milestone-2":"ur-depth-elements-milestone-2",
 "value-added-models-alternative-assessments-teacher-evaluation":"value-added-models-alternative-assessments-teacher-evaluation",
@@ -333176,7 +332736,6 @@
 "needs-analysis":"needs-analysis",
 "ordinal-scales-disentangle-development-from-age":"ordinal-scales-disentangle-development-from-age",
 "piagetian-teacher-congruency-checklist":"piagetian-teacher-congruency-checklist",
-"recency-adjustment-over-static-learning-rate":"recency-adjustment-over-static-learning-rate",
 "science-textbook-symbolic-representation-taxonomy":"science-textbook-symbolic-representation-taxonomy",
 "selecting-an-instructional-design-model":"selecting-an-instructional-design-model",
 "stakeholder-mapping":"stakeholder-mapping",
@@ -333891,7 +333450,6 @@
 "attachment-and-biobehavioral-catch-up-abc-intervention":"attachment-and-biobehavioral-catch-up-abc-intervention",
 "attitude-scale-towards-scientific-knowledge-sks":"attitude-scale-towards-scientific-knowledge-sks",
 "attitudes-toward-trafficked-women-and-sex-trafficking-scale-atts":"attitudes-toward-trafficked-women-and-sex-trafficking-scale-atts",
-"augmented-reality-sandbox":"augmented-reality-sandbox",
 "augustus-f-hawkins-center-for-excellence-grant-program":"augustus-f-hawkins-center-for-excellence-grant-program",
 "aurora-institutes-seven-critical-elements-of-instructional-practice":"aurora-institutes-seven-critical-elements-of-instructional-practice",
 "autogen-metagpt-crewai-langgraph-and-phidata":"autogen-metagpt-crewai-langgraph-and-phidata",
@@ -333992,7 +333550,6 @@
 "chicago-high-school-redesign-initiative-chsri":"chicago-high-school-redesign-initiative",
 "chicago-public-education-fund":"chicago-public-education-fund",
 "chicago-public-schools-elementary-on-track-indicator":"chicago-public-schools-elementary-on-track-indicator",
-"chicago-public-schools-elementary-teacher-stability-dataset-2003-2006":"chicago-public-schools-elementary-teacher-stability-dataset-2003-2006",
 "chicago-public-schools-on-track-system":"chicago-public-schools-on-track-system",
 "chicago-public-schools-school-diagnostic-data-reports":"chicago-public-schools-school-diagnostic-data-reports",
 "chicago-public-schools-three-pronged-theory-of-change":"chicago-public-schools-three-pronged-theory-of-change",
@@ -334244,7 +333801,7 @@
 "edubehaviors-kit":"edubehaviors-kit",
 "edubehaviors-studio":"edubehaviors-studio",
 "educasim":"educasim",
-"education-brain-model":"education-brain-model",
+"education-brain-model":"ecnuclaw",
 "education-corps-in-person-high-dosage-literacy-tutoring-program-model":"education-corps-in-person-high-dosage-literacy-tutoring-program-model",
 "educational-quality-and-improvement-profile-equip":"educational-quality-and-improvement-profile-equip",
 "educlaw-bench":"educlaw-bench",
@@ -334280,7 +333837,6 @@
 "emerging-technology-adoption-framework":"emerging-technology-adoption-framework",
 "emints":"emints",
 "emotion-socialization-observation-scale-esos":"emotion-socialization-observation-scale-esos",
-"empirical-quality-rubric-instrument-for-evaluating-rubric-studies":"empirical-quality-rubric-instrument-for-evaluating-rubric-studies",
 "energizers":"energizers",
 "energy-skate-park-basics-espb":"energy-skate-park-basics-espb",
 "engage":"engage",
@@ -334361,7 +333917,6 @@
 "flight":"flight",
 "flight-sos":"flight-sos",
 "flowcode":"flowcode",
-"flowcomposer-and-the-continuator":"flowcomposer-and-the-continuator",
 "fluency-formula":"fluency-formula",
 "flux-smartphone-ambulatory-assessment-application":"flux-smartphone-ambulatory-assessment-application",
 "focus-on-high-schools":"focus-on-high-schools",
@@ -334475,7 +334030,6 @@
 "holding-onto-the-green-zone":"holding-onto-the-green-zone",
 "hong-kong-knowledge-building-teachers-network-kbtn":"hong-kong-knowledge-building-teachers-network-kbtn",
 "hoot-reading":"hoot-reading",
-"hot-discussions-platform-hdp":"hot-discussions-platform-hdp",
 "hour-of-code":"hour-of-code",
 "how-i-know-project":"how-i-know-project",
 "i-best":"i-best",
@@ -335057,7 +334611,6 @@
 "psrbvbq":"psrbvbq",
 "psychology-mooc-gt-spring-2013-dataset":"psychology-mooc-gt-spring-2013-dataset",
 "psyscore":"psyscore",
-"public-aied-dataset-and-interactive-visualization-of-categorized-aied-and-ijaied-papers":"public-aied-dataset-and-interactive-visualization-of-categorized-aied-and-ijaied-papers",
 "public-tdaa-starter-template-harness-for-ai-assisted-course-production":"public-tdaa-starter-template-harness-for-ai-assisted-course-production",
 "publicly-released-fine-tuned-bert-model-and-code-for-coding-self-affirmation-essays":"publicly-released-fine-tuned-bert-model-and-code-for-coding-self-affirmation-essays",
 "publicly-released-uk-key-stage-readability-dataset-of-20000-balanced-text-chunks":"publicly-released-uk-key-stage-readability-dataset-of-20000-balanced-text-chunks",
@@ -335228,7 +334781,6 @@
 "six-domain-ai-skills-and-competencies-framework-for-educators-and-educational-leaders":"six-domain-ai-skills-and-competencies-framework-for-educators-and-educational-leaders",
 "six-domain-ai-skills-and-competencies-framework-for-pk-12-learners":"six-domain-ai-skills-and-competencies-framework-for-pk-12-learners",
 "six-ngss-aligned-middle-school-student-drawing-assessment-dataset":"six-ngss-aligned-middle-school-student-drawing-assessment-dataset",
-"six-question-subjective-cognitive-function-scale-from-the-stida-telephone-dementia-screene":"six-question-subjective-cognitive-function-scale-from-the-stida-telephone-dementia-screene",
 "six-rd-practice-dimensions-framework":"six-rd-practice-dimensions-framework",
 "six-skill-tagged-response-datasets-from-assistments-and-mindspark-used-for-model-compariso":"six-skill-tagged-response-datasets-from-assistments-and-mindspark-used-for-model-compariso",
 "six-standard-framework-for-faculty-technology-integration-in-higher-education":"six-standard-framework-for-faculty-technology-integration-in-higher-education",
@@ -335651,11 +335203,9 @@
 "classical-test-theory-decision-consistency-estimation-methods":"classical-test-theory-decision-consistency-estimation-methods",
 "co-referencing-typology-and-coding-scheme-for-analyzing-collaborative-interaction-around-e":"co-referencing-typology-and-coding-scheme-for-analyzing-collaborative-interaction-around-e",
 "coding-framework-of-metacognition-intervention-components-and-instructional-methods":"coding-framework-of-metacognition-intervention-components-and-instructional-methods",
-"coding-scheme-for-collaborative-diagnostic-activities-across-11-scientific-reasoning-sub-s":"coding-scheme-for-collaborative-diagnostic-activities-across-11-scientific-reasoning-sub-s",
 "coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction":"coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction",
 "cognitive-diagnostic-profiling-cdp":"cognitive-diagnostic-profiling-cdp",
 "cognitive-episodes-an-eight-way-taxonomy-of-functional-problem-solving-states-grounded-in":"cognitive-episodes-an-eight-way-taxonomy-of-functional-problem-solving-states-grounded-in",
-"cognitive-work-analysis":"cognitive-work-analysis",
 "coherence-analysis-framework-and-its-six-activity-trace-measures":"coherence-analysis-framework-and-its-six-activity-trace-measures",
 "cohesion-graph-model-for-automated-collaboration-assessment":"cohesion-graph-model-for-automated-collaboration-assessment",
 "cohort-based-graduation-and-dropout-rate-calculation":"cohort-based-graduation-and-dropout-rate-calculation",
@@ -336616,7 +336166,6 @@
 "benchmark-ai-assistants-before-classroom-deployment":"benchmark-ai-assistants-before-classroom-deployment",
 "benefit-cost-analysis-essential-policy-toolkit":"benefit-cost-analysis-essential-policy-toolkit",
 "berthoff-style-variation-exercises":"berthoff-style-variation-exercises",
-"best-practices-from-largest-impact-schools":"best-practices-from-largest-impact-schools",
 "big_10_student_motivators":"big_10_student_motivators",
 "big_ten_student_motivators":"big_10_student_motivators",
 "bigger-smaller-equal":"bigger-smaller-equal",
@@ -336794,7 +336343,6 @@
 "center-youth-as-partners-not-participants":"center-youth-as-partners-not-participants",
 "central-office-partnerships-with-organizations":"central-office-partnerships-with-organizations",
 "centralized-enrollment-controlled-choice-transparency":"centralized-enrollment-controlled-choice-transparency",
-"centralized-reader-information-management-system":"centralized-reader-information-management-system",
 "ceoforum-teacher-tech-integration-recommendations":"ceoforum-teacher-tech-integration-recommendations",
 "certification-prioritizing-hiring-incentives-strategy":"certification-prioritizing-hiring-incentives-strategy",
 "certification-questionnaire-filters-vendor-pitches":"certification-questionnaire-filters-vendor-pitches",
@@ -336983,7 +336531,6 @@
 "coaching-at-intention-behaviour-translation":"coaching-at-intention-behaviour-translation",
 "coaching-framework-discussion-guide-grid-questions":"coaching-framework-discussion-guide-grid-questions",
 "coaching-research-reporting-recommendations":"coaching-research-reporting-recommendations",
-"code-duration-and-valence-of-srl-processes":"code-duration-and-valence-of-srl-processes",
 "code-review-interviews-ai-mitigation":"code-review-interviews-ai-mitigation",
 "codebook-themes-community-validation":"codebook-themes-community-validation",
 "codeseno-receptivo-estudiantes-trabajadores-hse":"codeseno-receptivo-estudiantes-trabajadores-hse",
@@ -337145,7 +336692,6 @@
 "completion-problems-first":"completion-problems-first",
 "complex_instruction":"complex_instruction",
 "component-level-fidelity-scores-with-student-application":"component-level-fidelity-scores-with-student-application",
-"composite-outcome-measures-multiple-testing":"composite-outcome-measures-multiple-testing",
 "composite-tasks-jointly-evidence-technical-ethical-collaborative-design":"composite-tasks-jointly-evidence-technical-ethical-collaborative-design",
 "composition_projects-multimodal":"composition_projects-multimodal",
 "compound_word_study":"compound_word_study",
@@ -337516,7 +337062,6 @@
 "decodable_text_reading":"decodable-text-reading-practice",
 "decoding-drills":"decoding-drills",
 "decomposition-provincial-regional-school-planning":"decomposition-provincial-regional-school-planning",
-"dedicated-informal-learning-survey-design":"dedicated-informal-learning-survey-design",
 "dedicated-leader-monthly-cross-agency-meetings":"dedicated-leader-monthly-cross-agency-meetings",
 "deep-approach-learning-offset-burnout":"deep-approach-learning-offset-burnout",
 "deepening-understanding-influence-sob-guidance":"deepening-understanding-influence-sob-guidance",
@@ -338606,11 +338151,9 @@
 "funding-teacher-residencies-federal-state":"funding-teacher-residencies-federal-state",
 "funds-of-knowledge-household-interviews":"funds-of-knowledge-household-interviews",
 "funds-of-knowledge-mathematics-instruction":"funds-of-knowledge-mathematics-instruction",
-"further-simulation-rank-ancova-boundary-conditions":"further-simulation-rank-ancova-boundary-conditions",
 "future-ai-motivation-research-recommendations":"future-ai-motivation-research-recommendations",
 "future-ai-tutor-authoring-edge-cases-and-learning-science-guidance":"future-ai-tutor-authoring-edge-cases-and-learning-science-guidance",
 "future-cdst-research-learner-environment-interaction":"future-cdst-research-learner-environment-interaction",
-"future-challenges-of-using-dbr":"future-challenges-of-using-dbr",
 "future-collaboration-efforts-clear-goals-adequate-scope-teacher-inclusion":"future-collaboration-efforts-clear-goals-adequate-scope-teacher-inclusion",
 "future-directions-for-dialogue-knowledge-tracing":"future-directions-for-dialogue-knowledge-tracing",
 "future-directions-inclusive-by-design-agentic-ai":"future-directions-inclusive-by-design-agentic-ai",
@@ -339116,7 +338659,6 @@
 "information-exchange-prompts-strategy-online-pd":"information-exchange-prompts-strategy-online-pd",
 "infrastructure-mechanisms-for-llm-response-consistency":"infrastructure-mechanisms-for-llm-response-consistency",
 "infrastructure-pd-policy-bridge-ai-intention-practice-gap":"infrastructure-pd-policy-bridge-ai-intention-practice-gap",
-"infstm-catchall-default-code-strategy":"infstm-catchall-default-code-strategy",
 "inhibition_support_strategies":"inhibition_support_strategies",
 "initial-evaluation-data-privacy-scrutiny":"initial-evaluation-data-privacy-scrutiny",
 "initial-evaluation-equity-accessibility-barriers":"initial-evaluation-equity-accessibility-barriers",
@@ -339885,7 +339427,6 @@
 "multi-channel-homeless-student-identification-strategy":"multi-channel-homeless-student-identification-strategy",
 "multi-directional-effects-approach":"multi-directional-effects-approach",
 "multi-format-media-access-provision":"multi-format-media-access-provision",
-"multi-institution-tutoring-evaluation-strategy":"multi-institution-tutoring-evaluation-strategy",
 "multi-layered-rollout-capacity-building-optel":"multi-layered-rollout-capacity-building-optel",
 "multi-level-tutor-coaching-structure":"multi-level-tutor-coaching-structure",
 "multi-method-metacognition-measurement-strategy":"multi-method-metacognition-measurement-strategy",
@@ -340704,7 +340245,6 @@
 "propaganda_technique_identification":"propaganda_technique_identification",
 "prosocial-modeling":"prosocial-modeling",
 "prosody-instruction-activities-strategy":"prosody-instruction-activities-strategy",
-"prospective-experimental-designs-sleep-microbiome-cognition":"prospective-experimental-designs-sleep-microbiome-cognition",
 "prospective-governance-evaluations-over-benchmarks":"prospective-governance-evaluations-over-benchmarks",
 "protect-ai-grading-from-prompt-injection-strategies":"protect-ai-grading-from-prompt-injection-strategies",
 "protect-coach-time-for-classroom-support":"protect-coach-time-for-classroom-support",
@@ -340775,7 +340315,6 @@
 "question-formulation-technique":"question-formulation-technique-qft",
 "question-formulation-technique-qft":"question-formulation-technique-qft",
 "question-generation":"question-generation",
-"question-level-partitioning-strategy":"question-level-partitioning-strategy",
 "question_generation":"question-generation",
 "questioning":"questioning",
 "questioning-contrepreuve-disequilibration":"questioning-contrepreuve-disequilibration",
@@ -340929,7 +340468,6 @@
 "reducing_visual_clutter":"reducing_visual_clutter",
 "redundancy-avoidance":"redundancy-avoidance",
 "refine-adversarial-hallucination-critique":"refine-adversarial-hallucination-critique",
-"refine-attrition-standards-via-max-tolerable-bias-definition":"refine-attrition-standards-via-max-tolerable-bias-definition",
 "refine-solution-from-implementation-lessons":"refine-solution-from-implementation-lessons",
 "reflect-on-beliefs-before-ibl-immersion":"reflect-on-beliefs-before-ibl-immersion",
 "reflect_on_learning":"reflect_on_learning",
@@ -341204,7 +340742,6 @@
 "rubrics-transparency-support-self-regulation":"rubrics-transparency-support-self-regulation",
 "run-structural-check-before-release-or-analysis-commitment":"run-structural-check-before-release-or-analysis-commitment",
 "running-records":"running-records",
-"s3-guideline-discrepancy-diagnostic-strategy":"s3-guideline-discrepancy-diagnostic-strategy",
 "safe-mathematical-community-practices":"safe-mathematical-community-practices",
 "safe-space-arts-instruction-strategy":"safe-space-arts-instruction-strategy",
 "safe_and_healthy_elementary_school_recess":"safe_and_healthy_elementary_school_recess",
@@ -341267,7 +340804,6 @@
 "school-based-growth-mindset-grit-interventions":"school-based-growth-mindset-grit-interventions",
 "school-based-health-safety-net-integrated-supports":"school-based-health-safety-net-integrated-supports",
 "school-based-sleep-education-strategy":"school-based-sleep-education-strategy",
-"school-based-srl-training-fidelity-rotation":"school-based-srl-training-fidelity-rotation",
 "school-climate-improvement-strategies":"school-climate-improvement-strategies",
 "school-climate-improvement-strategies-for-equity":"school-climate-improvement-strategies-for-equity",
 "school-climate-reform-checklist-for-decision-makers":"school-climate-reform-checklist-for-decision-makers",
@@ -342341,7 +341877,6 @@
 "three-state-levers-sead-implementation":"three-state-levers-sead-implementation",
 "three-state-levers-sead-support":"three-state-levers-sead-support",
 "three-step-ood-bloom-classifier-strategy":"three-step-ood-bloom-classifier-strategy",
-"three-step-proprietary-llm-carbon-estimation":"three-step-proprietary-llm-carbon-estimation",
 "three-steps-integrate-digital-content":"three-steps-integrate-digital-content",
 "three-strategic-actions-tech-equity":"three-strategic-actions-tech-equity",
 "three-strategies-close-advanced-coursework-gaps-retention":"three-strategies-close-advanced-coursework-gaps-retention",
@@ -343257,7 +342792,6 @@
 "ena-strategies-time-topics-network-model":"ena-strategies-time-topics-network-model",
 "enfoque-inclusivo-transiciones-aprendizaje":"enfoque-inclusivo-transiciones-aprendizaje",
 "engagement-framework-five-dimensions":"engagement-framework-five-dimensions",
-"entrepreneurship-emerging-academic-field":"entrepreneurship-emerging-academic-field",
 "environmental-enrichment-hypothesis-epistemic-behavior":"environmental-enrichment-hypothesis-epistemic-behavior",
 "environmental-neuroscience-active-ingredients-framework":"environmental-neuroscience-active-ingredients-framework",
 "episodic-context-account-of-retrieval-based-learning":"episodic-context-account-of-retrieval-based-learning",
@@ -343764,7 +343298,6 @@
 "perspective-consciousness-hanvey":"perspective-consciousness-hanvey",
 "pets-dual-technical-social-technologies":"pets-dual-technical-social-technologies",
 "pets-input-output-privacy-taxonomy":"pets-input-output-privacy-taxonomy",
-"philadelphia-three-type-high-school-taxonomy":"philadelphia-three-type-high-school-taxonomy",
 "piaget-four-factors-stage-progression":"piaget-four-factors-stage-progression",
 "piaget-four-stage-cognitive-development-theory":"piaget-four-stage-cognitive-development-theory",
 "piaget-genetic-epistemology-constructivist-knowing":"piaget-genetic-epistemology-constructivist-knowing",
