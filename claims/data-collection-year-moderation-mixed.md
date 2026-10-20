@@ -10,14 +10,16 @@ generated:
 evidence_strength: mixed
 sources:
   - id: altamura-2023
-    title: "Altamura, L., Vargas, C., & Salmerón, L. (2023). Do New Forms of Reading Pay Off? A Meta-Analysis on the Relationship Between Leisure Digital Reading Habits and Text Comprehension. Review of Educational Research."
+    resource: "https://doi.org/10.3102/00346543231216463"
+    title: "Altamura, L., Vargas, C., & Salmerón, L. (2023). Do New Forms of Reading Pay Off? A Meta-Analysis on the Relationship Between Leisure Digital Reading Habits and Text Comprehension. *Review of Educational Research, 95*(1), 53–88. [doi:10.3102/00346543231216463](https://doi.org/10.3102/00346543231216463)"
     author: "Altamura, L., Vargas, C., & Salmerón, L."
     q: 3
     i: "?"
     kind: quant-synthesis
     rigour: 2
   - id: altamura-2023-2
-    title: "Altamura, L., Vargas, C., & Salmerón, L. (2023). Do New Forms of Reading Pay Off? A Meta-Analysis on the Relationship Between Leisure Digital Reading Habits and Text Comprehension. Review of Educational Research."
+    resource: "https://doi.org/10.3102/00346543231216463"
+    title: "Altamura, L., Vargas, C., & Salmerón, L. (2023). Do New Forms of Reading Pay Off? A Meta-Analysis on the Relationship Between Leisure Digital Reading Habits and Text Comprehension. *Review of Educational Research, 95*(1), 53–88. [doi:10.3102/00346543231216463](https://doi.org/10.3102/00346543231216463)"
     author: "Altamura, L., Vargas, C., & Salmerón, L."
     q: 2
     i: "?"
@@ -38,7 +40,7 @@ sources:
 
 ### Altamura 2023
 
-Altamura, L., Vargas, C., & Salmerón, L. (2023). Do New Forms of Reading Pay Off? A Meta-Analysis on the Relationship Between Leisure Digital Reading Habits and Text Comprehension. Review of Educational Research.
+Altamura, L., Vargas, C., & Salmerón, L. (2023). Do New Forms of Reading Pay Off? A Meta-Analysis on the Relationship Between Leisure Digital Reading Habits and Text Comprehension. *Review of Educational Research, 95*(1), 53–88. [doi:10.3102/00346543231216463](https://doi.org/10.3102/00346543231216463)
 
 `q3 · i?` · `quant-synthesis · r2`
 
@@ -48,7 +50,7 @@ Multilevel meta-regression on the 39 effect sizes found data collection year did
 
 ### Altamura 2023 (2)
 
-Altamura, L., Vargas, C., & Salmerón, L. (2023). Do New Forms of Reading Pay Off? A Meta-Analysis on the Relationship Between Leisure Digital Reading Habits and Text Comprehension. Review of Educational Research.
+Altamura, L., Vargas, C., & Salmerón, L. (2023). Do New Forms of Reading Pay Off? A Meta-Analysis on the Relationship Between Leisure Digital Reading Habits and Text Comprehension. *Review of Educational Research, 95*(1), 53–88. [doi:10.3102/00346543231216463](https://doi.org/10.3102/00346543231216463)
 
 `q2 · i?` · `quant-synthesis · r2`
 
