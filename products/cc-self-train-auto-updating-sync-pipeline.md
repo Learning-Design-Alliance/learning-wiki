@@ -24,7 +24,8 @@ A Zain Naboulsi onboarding and maintenance pipeline that detects upstream Claude
 ### Claims
 
 ## Related Products and Programmes
--
+- [cc-self-train adaptive learning system](../designs/cc-self-train-adaptive-learning-system.md) — the teaching modules this pipeline keeps current with upstream Claude Code changes
+- [Persona progression model for AI instruction](../designs/persona-progression-model-ai-instruction.md) — from the same cc-self-train course
 
 ## Key Sources
 - Zain Naboulsi. (2026). Agentic Education: Using Claude Code to Teach Claude Code. arXiv. https://arxiv.org/abs/2604.17460

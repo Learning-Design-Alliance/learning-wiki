@@ -25,7 +25,7 @@ A meta-analytic dataset and coding manual assembled by Daniel J. Bowen and colle
 ### Claims
 
 ## Related Products and Programmes
--
+- [Use meta-analytic benchmarks to evaluate adventure therapy programs](../strategies/adventure-therapy-effect-size-benchmarks.md) — the benchmarks derived from this dataset
 
 ## Key Sources
 - Daniel J. Bowen and James T. Neill. (2013). A Meta-Analysis of Adventure Therapy Outcomes and Moderators. The Open Psychology Journal, 2013, 6, 28-53. http://www.daniel-bowen.com.au/meta-analysis

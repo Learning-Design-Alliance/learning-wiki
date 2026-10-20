@@ -42,7 +42,7 @@ The closing module's strategy for future-proofing the discipline is an explicit 
 - [Adapt the guided inquiry policy co-design activity across disciplines, framing AI as a sociotechnical system](adapt-genai-codesign-across-disciplines-sociotechnical-framing.md)
 
 ## Examples
--
+- [ASE-26](../products/ase-26.md) — the curriculum whose closing module carries this inventory
 
 ## Key Sources
 - Mikael Gorsky (Holon Institute of Technology). (2026). ASE-26: a curriculum for agentic software engineering as a discipline. https://arxiv.org/abs/2606.01152

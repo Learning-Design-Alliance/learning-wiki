@@ -17,7 +17,7 @@ sources:
 # Structure EPP–district partnerships around shared governance with joint data-informed decision-making
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Texas interwove responsibility for teacher preparation across educator preparation programs (EPPs) and districts, with grants built on the assumption that the two work in tandem. As the TEA described, "In high-quality teacher residency models, the EPP and [district] have shared ownership over the preparation, support, and success of the teacher resident." Partnership requirements were instantiated through shared governance meetings that specified attendance by both parties, identified topics for collaborative planning, and called for joint data-informed decision-making, creating feedback loops for continuous improvement.

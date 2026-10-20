@@ -17,7 +17,7 @@ sources:
 # Sociotechnical Systems Theory frames ChatGPT as a technical support provider interlinked with the social context of the laboratory course
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article applies Sociotechnical Systems (STS) Theory, which "gives a systems thinking perspective to an entity where people (with their effectiveness and abilities) work towards goals by following specific processes and using technology." In this framing, ChatGPT is a technical component interlinked with the social components (students, instructors, TAs), supporting laboratory engagement through collaborative questioning and increasing participation in active learning, but not directly managing laboratory experiments. The framework positions ChatGPT as "a technical support provider but not as the primary executor of experimental processes."

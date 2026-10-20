@@ -25,7 +25,8 @@ Co-Census is interactive museum software that collects visitor identity and life
 ### Claims
 
 ## Related Products and Programmes
--
+- [Free-choice learning environment design](../principles/free-choice-learning-environment-design.md) — Co-Census personalises a museum exhibit from visitors' own data to draw them into dialogue, a free-choice setting
+- [Interaction geography](../research-methods/interaction-geography.md) — the movement-and-talk analysis presented with Co-Census in the same CSCL editorial, for studying visitors in museum settings
 
 ## Key Sources
 - Ludvigsen, S., Cress, U., Law, N., Stahl, G., & Rosé, C. P. (2017). Future direction for the CSCL field: Methodologies and eight controversies. International Journal of Computer-Supported Collaborative Learning, 12, 337–341. https://doi.org/10.1007/s11412-017-9268-4

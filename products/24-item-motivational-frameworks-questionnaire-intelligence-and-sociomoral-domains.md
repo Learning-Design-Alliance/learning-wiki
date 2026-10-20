@@ -13,7 +13,7 @@ generated:
 # 24-item motivational frameworks questionnaire (intelligence and sociomoral domains)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A 24-item orally administered questionnaire developed by Gunderson et al. to measure children's implicit theories, goal orientations, success and failure attributions, and improvement-strategy generation across intelligence and sociomoral domains.

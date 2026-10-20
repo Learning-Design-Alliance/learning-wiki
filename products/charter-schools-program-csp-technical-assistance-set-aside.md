@@ -27,6 +27,8 @@ A federally funded component of the U.S. Department of Education's Charter Schoo
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Eleven common TA set-aside activities for charter school applicants, led by pre-award workshops and webinars**: The report identifies 11 common activities grantees funded to support subgrant applicants, spanning pre-award workshops and webinars, application-process TA, grants-management resources and training, school-opening resources, governing board training, and vendor contracts. It reports "Seventeen grantees reported holding pre-award workshops and webinars for potential applicants to support them through the application process." Fifteen grantees each shared grants-management resources, shared applicant resources, and provided post-award grants management training. (National Charter School Resource Center (2022))
+- [Quality-authorizing TA activity set](../designs/se-quality-authorizing-ta-activity-set.md): the set-aside activities grantees fund to support authorizers
+- [Set-aside activities supporting students with disabilities and English learners](../designs/se-activities-supporting-students-with-disabilities-and-els.md)
 
 ### Claims
 

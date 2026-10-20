@@ -17,7 +17,7 @@ sources:
 # Using the technology for only a small part of a classroom activity
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 This design pattern places a CSCL system inside a multi-step classroom activity in which the technology is used only for a small portion, contrasting with the mainstream CSCL assumption that the system must be used from beginning to end. The article calls this "One innovative aspect of the activity is that TapaCarp is used only for a small part of it." The multi-step activity proved usable and fostered many connections to the workplace.

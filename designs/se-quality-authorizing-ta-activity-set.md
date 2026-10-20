@@ -41,6 +41,7 @@ The report identifies 12 common activities SE grantees funded to improve authori
 ## Related Designs
 
 - [Seven activity types by which SE grantees equip subgrantees to serve students with disabilities and English learners](se-activities-supporting-students-with-disabilities-and-els.md)
+- [Charter Schools Program technical-assistance set-aside](../products/charter-schools-program-csp-technical-assistance-set-aside.md) — the federal set-aside these activities are funded from
 
 ## Examples
 -

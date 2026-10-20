@@ -12,7 +12,7 @@ The wiki holds **6,074 distinct studies** behind 22,725 claims. What they add up
 - **Few print an effect size.** 1,403 of 6,074 studies (23%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
 - **Strong work is not only trials.** 622 studies are rated `r3`, done well for their kind; 404 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 98% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
-- **Not all research reaches design.** 71% of studies, and 44% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
+- **Not all research reaches design.** 72% of studies, and 44% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
 - **Principles and patterns.** Of 224 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 118 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 5% strong, 45% moderate and 50% weak, and 49% supporting, 46% conditional and 5% against.
 
 These figures describe two things at once: what education research has produced, and what this wiki has collected so far. As inclusion is held to a higher standard the second will move; the first is why it has to.
@@ -115,7 +115,7 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-376 claims are cited both ways.
+377 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -147,15 +147,15 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 170 | 170 | 27.5 | 0 |
-| [elements](elements/index.md) | 1,066 | 779 | 2 | 0 |
+| [elements](elements/index.md) | 1,066 | 780 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 29 | 0 |
 | [strategies](strategies/index.md) | 6,321 | 3,193 | 4 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 8 | 0 |
 | [methods](methods/index.md) | 38 | 23 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 908 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 75 | 75 | 38 | 0 |
-| [designs](designs/index.md) | 976 | 672 | 1 | 0 |
-| [products](products/index.md) | 1,830 | 1,348 | 1 | 0 |
+| [designs](designs/index.md) | 976 | 680 | 1 | 0 |
+| [products](products/index.md) | 1,830 | 1,351 | 1 | 0 |
 | [research-methods](research-methods/index.md) | 506 | 467 | 1 | 0 |
 
 ## Toward pooled estimates

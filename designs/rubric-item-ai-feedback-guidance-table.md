@@ -17,7 +17,7 @@ sources:
 # Rubric-item guidance table for delegating AI feedback by criterion
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Table 1 of the article provides per-criterion recommendations for instructors using AI feedback on laboratory reports, elaborated by the authors from the analyzed experience. Objectives may be accepted after general review as the safest item to delegate; theoretical framework feedback, especially formulas and mathematical notation, should be manually reviewed; comments on experimental setup referring to images or apparatus diagrams should be verified before acceptance; data analysis requires prioritized teacher review of calculations, units, graphs, and uncertainties; conclusions should be compared with the graphical evidence cited before validating the score; and the overall assessment should be used only as an orienting input.
