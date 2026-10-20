@@ -15,7 +15,7 @@ the wiki's convention. merge_pages.py does the fold: the folded page's bullets t
 page lacks are added, its body is kept in a <!-- merged --> comment, its slug becomes an
 alias, and every inbound link is re-pointed.
 
-    python3 scripts/judge_duplicates.py --type strategies              # ask; decisions to eval/runs/duplicates/
+    python3 scripts/judge_duplicates.py --type strategies              # ask; decisions to eval/duplicates/ (committed)
     python3 scripts/judge_duplicates.py --type strategies --apply      # ask, then fold the agreed pairs
     python3 scripts/judge_duplicates.py --from <decisions.ndjson> --apply
 """
@@ -146,7 +146,7 @@ def main() -> None:
     else:
         pairs = pairs_from_report(args.type)
         print(f"{len(pairs)} candidate pair(s) in {args.type}")
-        out = WIKI_ROOT / "eval" / "runs" / "duplicates" / f"{args.type}.ndjson"
+        out = WIKI_ROOT / "eval" / "duplicates" / f"{args.type}.ndjson"
         decisions = judge(args.type, pairs, out, args.workers)
     print(collections.Counter("same" if d["same"] else "different" for d in decisions))
     for d in [d for d in decisions if d["same"]][:15]:

@@ -74,9 +74,10 @@ work is done, not that the check is broken.
   instruments"), mutation list — now six, all of which must break the benchmark
   release — in the fixture header at
   `research/protocols/example-open-corpus-secondary-use/1.0.0.yaml`.
-- **`scripts/find_title_duplicates.py` reports ~943 near-duplicate title pairs.** That is a
-  known backlog, mostly hyphen-vs-underscore variants of one page. It is reported, not
-  lint-failing, on purpose.
+- **`scripts/find_title_duplicates.py` lists only pairs no judge has decided** (2026-10-20). A pair
+  two models judged different (`eval/duplicates/<kind>.ndjson`, `eval/claim-merges/decisions.ndjson`, both committed)
+  is not listed again; `--include-judged` shows them. Every batch judges its new pairs, so the
+  count stays near zero. It is reported, not lint-failing, on purpose.
 
 - **Embargoed research never enters this repository, on any branch.** learning-wiki is
   **public**: a pushed branch or an opened PR is visible to anyone, merged or not, so
@@ -166,8 +167,11 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
 - **`log.md` holds the current month**; `okf_lib.rotate_log()` moves earlier months to
   `log/YYYY-MM.md`. The log is not on the site.
 - **`wiki-index.json` and `reverse-index.json` are written one record per line**
-  (`okf_lib.dump_json_records`). Their shape is unchanged; Lazuli keeps its own copy of the
-  wiki index, so do not change the shape without telling that side.
+  (`okf_lib.dump_json_records`). Change their shape only additively. **No copy of the index lives
+  anywhere else** (checked 2026-10-20: not in the Lazuli app, not in learning-design-spec, whose
+  docs describe a platform copy that was never committed). Its readers read this repo directly:
+  Learning-engineering-research's `wiki_agent.py` reads `pages` from a local checkout, and the spec's
+  `check-wiki-links.py` checks page URLs. So there is nothing to keep in sync.
 - **`canonical: true`** marks the pages the candidate ledger settles against
   (`settle_candidates.py --mark-canonical`), and every learner-variable page. Search ranks them
   first when a query names them.
@@ -240,6 +244,16 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
 - **After a container restart the proxy port changes**; a process started before it keeps the
   old `HTTPS_PROXY` and every request fails. Compare `/proc/<pid>/environ` with the current
   value, kill and `--resume`.
+- **Every batch cleans up after itself** (2026-10-20, after an overnight wiki-wide cleanup the maintainer
+  did not want to repeat). `run_scrape_batch.py` now, for the batch's own pages: links its new claims into
+  concept pages (`link_pages.py --orphan-claims --only`, verified); merges claim pairs two models judge the
+  same finding (`judge_claim_merges.py --judge --titles`, then `--apply`); judges new same-folder title pairs
+  (`judge_duplicates.py`, only pairs no judge has decided); links inline author-year citations
+  (`link_inline_citations.py`); re-renders the study tables; and judges every claim three or more design
+  pages cite (`check_load_bearing.py --top 5000`, only changed entries are paid for). What a model cannot
+  settle stops the run for a person or agent: a load-bearing failure, a new citation problem, an unmarked
+  claim citation, an `i1`–`i3` with no printed statistic, an unjudged cross-folder collision. Each of those
+  health counts was taken to zero on 2026-10-20 and must stay there.
 - **Do not commit hand-written pages while a batch is running**, and check a fresh-container
   batch's claim diff before committing: a step whose correctness depends on an ignored cache is a bug.
 - **`CURRENT` is prompt v136.** No provider pin; leave `OPENROUTER_MAX_COMPLETION_PRICE` and

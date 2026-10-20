@@ -26,7 +26,7 @@ at the top, under this paragraph.
   not guessed.
 - **Design-based research** moved to `processes/` (maintainer): `research-methods/` is secondary.
 - **Retired names across kinds**: `moved_from: [kind/slug]` plus a `moved` map in `wiki-index.json`
-  (additive; Lazuli's copy of the index may want to read it). `merge_pages.py` writes it; 1,570 retired ids
+  (additive). `merge_pages.py` writes it; 1,570 retired ids
   backfilled.
 - **Study tables** re-rendered for all 455 synthesis specs after the merges.
 

@@ -175,7 +175,9 @@ def run(skip_doi: bool = False) -> dict:
                        if d["severity"] == "conflict"]
     collisions = fcfd.find_collisions()
     self_referential = fcfd.find_self_referential(collisions)
-    needs_judgment = {slug: folders for slug, folders in collisions.items() if slug not in self_referential}
+    settled = fcfd.judged()
+    needs_judgment = {slug: folders for slug, folders in collisions.items()
+                      if slug not in self_referential and settled.get(slug) != set(folders)}
     incomplete = count_incomplete_pages()
 
     # Where the wiki's weight rests on something unchecked: load-bearing claims,
@@ -250,8 +252,8 @@ def format_report(result: dict) -> str:
         f"contradicted by the DOI) — `check_citations.py --metadata`",
         f"- Fabricated titles (right DOI, invented subtitle): "
         f"{result.get('title_conflicts', 0)} — `check_citations.py --titles`",
-        f"- Near-duplicate title pairs (same folder): {result['title_duplicates']} "
-        f"— run `find_title_duplicates.py` for the list",
+        f"- Near-duplicate title pairs (same folder) no judge has decided: {result['title_duplicates']} "
+        f"— `judge_duplicates.py --type <kind> --apply` (claims: `judge_claim_merges.py --judge --titles`)",
         f"- DOI resolution problems: {result['doi_issues']}",
         f"- Cross-folder slug collisions: {result['cross_folder_collisions']} "
         f"({result['cross_folder_self_referential']} resolved deterministically, "
