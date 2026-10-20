@@ -27,7 +27,7 @@
 <h1 id="set-per-technique-coverage-targets-rather-than-scaling-raw-volume-when-constructing-domain-specific-instruction-datasets">Set per-technique coverage targets rather than scaling raw volume when constructing domain-specific instruction datasets<a class="headerlink" href="#set-per-technique-coverage-targets-rather-than-scaling-raw-volume-when-constructing-domain-specific-instruction-datasets" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Strategy</strong> · <a href="../">All strategies</a><br />
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 1 claim (1 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 1 claim rests on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>A dataset-construction strategy drawn from the paper's per-technique fidelity analysis: technique fidelity scores stabilize only once a technique is represented by a minimum number of high-fidelity examples (roughly 200 to 500 pairs per technique). The paper states "The implication for instruction dataset construction is to set per-technique coverage targets rather than to scale raw volume." More complex step-sequence techniques require more examples, while simpler techniques converge with fewer.</p>
@@ -49,12 +49,18 @@
 <ul>
 <li>Constructing instruction data that yields stable technique-fidelity performance in fine-tuned models</li>
 </ul>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/non-monotonic-quality-volume-iks-instruct/">Model-level judge quality is non-monotonic in dataset size: the 13,882-pair v1.1 yields the best model (6.39), while both expansion to ~20,000 pairs (6.33) and aggressive curation to 7,130 pairs (6.12) reduce quality</a> [+M] (more pairs did not mean a better model)</li>
+</ul>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
 <li></li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
-<p>-</p>
+<ul>
+<li><a href="../../products/iks-instruct-dataset/">IKS-Instruct dataset</a>: the instruction dataset the guideline was drawn from</li>
+</ul>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani. (2026). IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems. arXiv. https://arxiv.org/abs/2607.23322</li>

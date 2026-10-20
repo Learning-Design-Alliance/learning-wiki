@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output - Learning Design Wiki</title>
+<title>In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task - Learning Design Wiki</title>
 <link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
 <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
 <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
@@ -24,7 +24,7 @@
 <form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
 </header>
 <main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
-<h1 id="supervised-fine-tuning-was-less-effective-than-direct-prompting-of-sota-llms-for-generating-deep-level-feedback-a-task-with-non-deterministic-output">Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output<a class="headerlink" href="#supervised-fine-tuning-was-less-effective-than-direct-prompting-of-sota-llms-for-generating-deep-level-feedback-a-task-with-non-deterministic-output" title="Permanent link">&para;</a></h1>
+<h1 id="in-one-essay-feedback-system-fine-tuned-models-produced-no-usable-deep-level-feedback-output-so-only-directly-prompted-llms-were-evaluated-the-authors-suggest-prompting-may-be-more-effective-than-supervised-fine-tuning-for-this-task">In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task<a class="headerlink" href="#in-one-essay-feedback-system-fine-tuned-models-produced-no-usable-deep-level-feedback-output-so-only-directly-prompted-llms-were-evaluated-the-authors-suggest-prompting-may-be-more-effective-than-supervised-fine-tuning-for-this-task" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a><br />
 <strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code></p>
@@ -41,7 +41,7 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <h3 id="adnan-labib-2026">Adnan Labib 2026<a class="headerlink" href="#adnan-labib-2026" title="Permanent link">&para;</a></h3>
 <p>Adnan Labib, Yixuan Huang, Jiahui Wu, John Maurice Gayed, Zheng Yuan, Qiao Wang. (2026). WrAFT: a Modularized Automated Writing Evaluation System for Argumentative Essays. arXiv preprint. https://arxiv.org/abs/2607.14524 <a href="https://doi.org/10.48550/arxiv.2607.14524">doi:10.48550/arxiv.2607.14524</a></p>
 <p><code>q2 · i?</code> · <code>design · r2</code></p>
-<p>Preliminary check of directly prompted models' micro feedback sufficiency on the 40 test essays; a qualitative review of three randomly selected essays confirmed Claude 3.7's additional comments were more fine-grained and pedagogically necessary, so validation focused on Claude 3.7.</p>
+<p>In the preliminary check, neither fine-tuned model produced usable output (fine-tuned GPT-4o's output was truncated at the 8,000-token context window on every essay; fine-tuned LLaMA-3.3-70B's could not be parsed as valid JSON), so fine-tuned feedback was excluded from human evaluation and no like-for-like comparison of feedback quality was made; the authors conclude only that prompting "may even be more effective" than supervised fine-tuning. Preliminary check of directly prompted models' micro feedback sufficiency on the 40 test essays: a qualitative review of three randomly selected essays confirmed Claude 3.7's additional comments were more fine-grained and pedagogically necessary, so validation focused on Claude 3.7.</p>
 <blockquote>
 <p>"Of the 40 test essays, LLaMA-3.3-70B generated 336 comments and GPT-4o generated 368 comments, the averages of both were below 10. Claude 3.7, however, generated 628 comments."</p>
 </blockquote>
@@ -79,11 +79,11 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 </tr>
 <tr>
 <td><code>title</code></td>
-<td><code>Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output</code></td>
+<td><code>In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task</code></td>
 </tr>
 <tr>
 <td><code>description</code></td>
-<td><code>Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output</code></td>
+<td><code>In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task</code></td>
 </tr>
 <tr>
 <td><code>status</code></td>

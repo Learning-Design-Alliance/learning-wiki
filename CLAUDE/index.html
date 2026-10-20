@@ -2064,9 +2064,10 @@ work is done, not that the check is broken.</p>
   release — in the fixture header at
   <code>research/protocols/example-open-corpus-secondary-use/1.0.0.yaml</code>.</li>
 <li>
-<p><strong><code>scripts/find_title_duplicates.py</code> reports ~943 near-duplicate title pairs.</strong> That is a
-  known backlog, mostly hyphen-vs-underscore variants of one page. It is reported, not
-  lint-failing, on purpose.</p>
+<p><strong><code>scripts/find_title_duplicates.py</code> lists only pairs no judge has decided</strong> (2026-10-20). A pair
+  two models judged different (<code>eval/duplicates/&lt;kind&gt;.ndjson</code>, <code>eval/claim-merges/decisions.ndjson</code>, both committed)
+  is not listed again; <code>--include-judged</code> shows them. Every batch judges its new pairs, so the
+  count stays near zero. It is reported, not lint-failing, on purpose.</p>
 </li>
 <li>
 <p><strong>Embargoed research never enters this repository, on any branch.</strong> learning-wiki is
@@ -2160,8 +2161,11 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
 <li><strong><code>log.md</code> holds the current month</strong>; <code>okf_lib.rotate_log()</code> moves earlier months to
   <code>log/YYYY-MM.md</code>. The log is not on the site.</li>
 <li><strong><code>wiki-index.json</code> and <code>reverse-index.json</code> are written one record per line</strong>
-  (<code>okf_lib.dump_json_records</code>). Their shape is unchanged; Lazuli keeps its own copy of the
-  wiki index, so do not change the shape without telling that side.</li>
+  (<code>okf_lib.dump_json_records</code>). Change their shape only additively. <strong>No copy of the index lives
+  anywhere else</strong> (checked 2026-10-20: not in the Lazuli app, not in learning-design-spec, whose
+  docs describe a platform copy that was never committed). Its readers read this repo directly:
+  Learning-engineering-research's <code>wiki_agent.py</code> reads <code>pages</code> from a local checkout, and the spec's
+  <code>check-wiki-links.py</code> checks page URLs. So there is nothing to keep in sync.</li>
 <li><strong><code>canonical: true</code></strong> marks the pages the candidate ledger settles against
   (<code>settle_candidates.py --mark-canonical</code>), and every learner-variable page. Search ranks them
   first when a query names them.</li>
@@ -2234,6 +2238,16 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
 <li><strong>After a container restart the proxy port changes</strong>; a process started before it keeps the
   old <code>HTTPS_PROXY</code> and every request fails. Compare <code>/proc/&lt;pid&gt;/environ</code> with the current
   value, kill and <code>--resume</code>.</li>
+<li><strong>Every batch cleans up after itself</strong> (2026-10-20, after an overnight wiki-wide cleanup the maintainer
+  did not want to repeat). <code>run_scrape_batch.py</code> now, for the batch's own pages: links its new claims into
+  concept pages (<code>link_pages.py --orphan-claims --only</code>, verified); merges claim pairs two models judge the
+  same finding (<code>judge_claim_merges.py --judge --titles</code>, then <code>--apply</code>); judges new same-folder title pairs
+  (<code>judge_duplicates.py</code>, only pairs no judge has decided); links inline author-year citations
+  (<code>link_inline_citations.py</code>); re-renders the study tables; and judges every claim three or more design
+  pages cite (<code>check_load_bearing.py --top 5000</code>, only changed entries are paid for). What a model cannot
+  settle stops the run for a person or agent: a load-bearing failure, a new citation problem, an unmarked
+  claim citation, an <code>i1</code>–<code>i3</code> with no printed statistic, an unjudged cross-folder collision. Each of those
+  health counts was taken to zero on 2026-10-20 and must stay there.</li>
 <li><strong>Do not commit hand-written pages while a batch is running</strong>, and check a fresh-container
   batch's claim diff before committing: a step whose correctness depends on an ignored cache is a bug.</li>
 <li><strong><code>CURRENT</code> is prompt v136.</strong> No provider pin; leave <code>OPENROUTER_MAX_COMPLETION_PRICE</code> and
@@ -2515,8 +2529,9 @@ reading a diff at that size is not.</p>
 <p><strong>One fixture corrected the claim page it came from, which is the point of doing this.</strong>
 <code>claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md</code> renders
 Frolli et al. as finding Italian articles "disproportionately hard for this group". The
-paper reports articles as an <em>instructional accommodation</em> — the one topic that needed
-occasional Russian, because articles are absent from Russian and Ukrainian grammar — and
+paper reports articles as an <em>instructional accommodation</em> — one example ("for instance") of
+complex topics taught with occasional Russian, because articles are absent from Russian and
+Ukrainian grammar — and
 measured no article-specific outcome at all. The observation file records it as an
 implementation note and a <code>candidate</code> moderator, never a reported one. Structuring a study
 is a re-read of it, and a re-read finds things.</p>
