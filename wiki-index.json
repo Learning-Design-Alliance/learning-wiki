@@ -9,7 +9,7 @@
 "principle":170,
 "process":18,
 "product":1830,
-"research-method":507,
+"research-method":506,
 "strategy":6321,
 "theory":1361
 },
@@ -240280,14 +240280,6 @@
 "type":"research-method"
 },
 {
-"description":"Because education systems are structurally resistant to change, the article argues that \\\"advances in education often depend on use-inspired, iterative research conducted in partnership with practitioners and communities.\\\" It further notes that breakthroughs can emerge not only from new ideas but fro",
-"id":"design-based-research",
-"path":"research-methods/design-based-research.md",
-"status":"review",
-"title":"Design-Based Research",
-"type":"research-method"
-},
-{
 "description":"The editorial endorses design-based research as a methodological approach tightly related to CSCL.",
 "id":"design-based-research-dbr",
 "path":"research-methods/design-based-research-dbr.md",
@@ -333403,7 +333395,6 @@
 "deriving-observational-self-regulation-coding-items-from-adult-reported-measures":"deriving-observational-self-regulation-coding-items-from-adult-reported-measures",
 "design-based-implementation-research-dbir":"design-based-implementation-research-dbir",
 "design-based-rct-analysis-with-grouped-administrative-data":"design-based-rct-analysis-with-grouped-administrative-data",
-"design-based-research":"design-based-research",
 "design-based-research-dbr":"design-based-research-dbr",
 "design-parameter-matching-in-a-priori-power-analysis":"design-parameter-matching-in-a-priori-power-analysis",
 "design-science-research-dsr-for-cscl":"design-science-research-dsr-for-cscl",

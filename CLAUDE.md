@@ -131,9 +131,12 @@ work is done, not that the check is broken.
   setting's design (a course, a lesson sequence, one site's implementation); a branded programme many
   sites adopt is a product. A **research method** is a method for studying learning or evaluating
   education that is specific to education or especially useful there (cluster-randomised trials of
-  schools, evidence standards, design-based research, knowledge tracing, growth and value-added models).
+  schools, evidence standards, knowledge tracing, growth and value-added models).
   **General social-science methods are not pages** (maintainer: "regular old social science research
   methods are not that useful in a database like this"). `methods/` stays the *design* methods.
+  **Design-based research is a design process** (`processes/design-based-research`), not a research method
+  (maintainer, 2026-10-20). `research-methods/` is secondary and may eventually go away, so where a page
+  could sit in either, it belongs with the design side.
 
 **When you finish something wiki-wide, add a dated entry at the top of
 [`history/agent-log.md`](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/history/agent-log.md)**, newest first, as every session before you

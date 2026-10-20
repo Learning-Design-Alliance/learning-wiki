@@ -71,6 +71,7 @@ Borrowing from interdisciplinary design research, Christensen and West recommend
 - [Design-based research with 114 participants across two macro cycles produced and refined the faculty technology standards](../claims/dbr-two-macro-cycles-114-participants-standards.md) [+W]
 - [Design-based research is important for the development of technology-enhanced learning environments](../claims/dbr-importance-for-tele-development.md) [+W]
 - [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](../claims/rns-collaborative-design-relevant-feasible-sustainable.md) [+W]
+- [Research questions are rarely conceived in partnership with practitioners, which undermines research impact on educational decision making](../claims/research-questions-rarely-designed-with-practitioners.md) [+W]
 
 #### Supporting
 - None yet recorded in the wiki from a DBR study's own evidence
@@ -107,3 +108,29 @@ The literature offers no single sequence. This composite follows the stages Bann
 
 ## Key Sources
 - Christensen, K. D. N., & West, R. E. (2018). The development of design-based research. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 323–339). EdTech Books. https://edtechbooks.org/lidtfoundations/development_of_design-based_research
+- Friedman, K., Benge-Steele, C., & Woods, A.D. (2026). ATS Field Note: Breakthrough Innovation. ATS Hub Field Note Series. https://doi.org/10.51388/20.500.12265/297
+
+<!-- merged 2026-10-20 from research-methods/design-based-research ("Design-Based Research"), design-based research is a design process, not a research method (maintainer 2026-10-20): its body as it stood. Its bullets this page lacked were added above.
+
+# Design-Based Research
+
+> **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Because education systems are structurally resistant to change, the article argues that "advances in education often depend on use-inspired, iterative research conducted in partnership with practitioners and communities." It further notes that breakthroughs can emerge not only from new ideas but from reframing entrenched problems or recombining existing capabilities in novel ways. The principle underpins the ATS Hub's vision of an infrastructure fostering a community of innovators for rapid development and scaling of breakthrough educational solutions.
+
+## Accounts
+<!- - How each source describes or uses the method - ->
+- **Pursue education advances through use-inspired, iterative research in partnership with practitioners and communities**: Because education systems are structurally resistant to change, the article argues that "advances in education often depend on use-inspired, iterative research conducted in partnership with practitioners and communities." It further notes that breakthroughs can emerge not only from new ideas but from reframing entrenched problems or recombining existing capabilities in novel ways. The principle underpins the ATS Hub's vision of an infrastructure fostering a community of innovators for rapid development and scaling of breakthrough educational solutions. (Friedman et al. (2026))
+
+### Claims
+
+- [Research questions are rarely conceived in partnership with practitioners, which undermines research impact on educational decision making](../claims/research-questions-rarely-designed-with-practitioners.md) [+W]
+
+## Related Research Methods
+-
+
+## Key Sources
+- Friedman, K., Benge-Steele, C., & Woods, A.D. (2026). ATS Field Note: Breakthrough Innovation. ATS Hub Field Note Series. https://doi.org/10.51388/20.500.12265/297
+-->
