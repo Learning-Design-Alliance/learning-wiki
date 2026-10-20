@@ -47,3 +47,4 @@ Informational interviews with four youth advisors (Aisha Bilgrammi, Alexa Southa
 - [Community college students want to play a role in edtech evaluation and procurement decisions](ccc-students-want-role-in-edtech-evaluation.md) — related
 - Female principals empowered others through shared ownership, committee involvement, and staff development — related
 - [Parents want more academic interaction with high schools, but schools focus communication on rules and problems](parents-want-academic-interaction-schools-focus-rules.md) — related
+- [Deliberative policy proposals center on inclusive decision making governed by nonrepression and nondiscrimination principles](deliberative-policy-nonrepression-nondiscrimination.md) — related

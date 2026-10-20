@@ -46,3 +46,4 @@ Authors' interpretive conclusion drawn from the Danish Deliberative Poll finding
 - [Self-interest and domination appeared during the Danish Deliberative Poll's deliberative process](deliberative-poll-self-interest-domination.md) — a narrower finding that bears on this claim
 - [Deliberation in the Danish Deliberative Poll produced considerable opinion change, increased knowledge and improved ability to form reasoned opinions among participants](deliberative-poll-opinion-change-knowledge-reasoned-opinions.md) — related
 - [Mutual understanding on the euro prevailed among participants in the Danish Deliberative Poll](deliberative-poll-mutual-understanding.md) — related
+- [Deliberative policy proposals center on inclusive decision making governed by nonrepression and nondiscrimination principles](deliberative-policy-nonrepression-nondiscrimination.md) — related

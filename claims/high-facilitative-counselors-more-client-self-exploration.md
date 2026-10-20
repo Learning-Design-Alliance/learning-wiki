@@ -3,6 +3,7 @@ type: claim
 title: Clients of high-facilitative counselors engage in significantly more self-exploration than clients of low-facilitative counselors
 description: Clients of high-facilitative counselors engage in significantly more self-exploration than clients of low-facilitative counselors
 id: high-facilitative-counselors-more-client-self-exploration
+aliases: [rowe-1975-high-facilitative-self-exploration]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: review
     rigour: 3
+  - id: rowe-1975-2
+    resource: "https://doi.org/10.2307/1170055"
+    title: "Rowe, W., Murphy, H. B., & De Csipkes, R. A. (1975). The Relationship of Counselor Characteristics and Counseling Effectiveness. Review of Educational Research, 45(2), 231-246. https://doi.org/10.2307/1170055"
+    author: "Rowe, W., Murphy, H. B., & De Csipkes, R. A."
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Clients of high-facilitative counselors engage in significantly more self-exploration than clients of low-facilitative counselors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
+
 `q2 i?` Clients of high-facilitative counselors engaged in significantly more self-exploration than clients of low-facilitative counselors, per the review's report of Banks, Berenson, and Carkhuff (1966). [→ Rowe 1975](#rowe-1975)
+
+`q2 i?` Clients of high-facilitative counselors engaged in significantly more self-exploration than clients of low-facilitative counselors (Banks, Berenson, & Carkhuff, 1966, as reported by the review). [→ Rowe 1975](#rowe-1975-2)
 
 ## Evidence
 
@@ -39,10 +51,22 @@ The review cites this study in its discussion of the skills approach, attributin
 
 > "For instance, clients of high-facilitative counselors engaged in significantly more self-exploration than clients of low-facilitative counselors (Banks, Berenson, & Carkhuff, 1966)."
 
+### Rowe 1975 (2)
+
+Rowe, W., Murphy, H. B., & De Csipkes, R. A. (1975). The Relationship of Counselor Characteristics and Counseling Effectiveness. Review of Educational Research, 45(2), 231-246. https://doi.org/10.2307/1170055
+
+`q2 · i?` · `review · r3`
+
+The review reports, citing Banks, Berenson, and Carkhuff (1966), that "clients of high-facilitative counselors engaged in significantly more self-exploration"; the reviewed study's design is not described and no effect size is printed.
+
+> "clients of high-facilitative counselors engaged in significantly more self-exploration than clients of low-facilitative counselors (Banks, Berenson, & Cark- huff, 1966)"
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [16PF-derived predicted-effectiveness indices correlate with supervisor and client ratings (.41, .87), but the review judges use of the 16PF for trainee selection premature](16pf-specification-equation-correlations-premature.md) — related
 - [Quality of the therapeutic relationship and counseling effectiveness are not correlated with each other, though both correlate with therapist experience](therapeutic-relationship-quality-uncorrelated-with-effectiveness.md) — related
 - [Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive](global-judgment-criteria-replication-fruitless.md) — related

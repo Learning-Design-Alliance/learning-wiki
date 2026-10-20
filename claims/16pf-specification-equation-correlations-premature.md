@@ -68,3 +68,4 @@ The review reports Shelton's (1973) study using a composite client-rating on the
 - [Standardized test batteries are poor predictors of counselor trainee success](standardized-tests-poor-predictors-trainee-success.md) — related
 - [Most investigated counselor personality variables are not significantly related to effectiveness criteria, and variables significant in one study often show contrary results when re-investigated](counselor-traits-mostly-unrelated-to-effectiveness.md) — related
 - [Self-actualization (POI) correlates of rated counseling performance reported by Foulds could not be confirmed on replication](self-actualization-poi-findings-failed-replication.md) — related
+- [Calls to use the 16PF for selecting counselor trainees are premature because findings vary and the specification equation lacks cross-validation](16pf-counselor-selection-premature.md) — possibly the same claim (merge candidate)

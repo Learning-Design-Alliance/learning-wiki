@@ -81,6 +81,7 @@ Learning tasks drive learning because they force learners to *use* knowledge rat
 
 **[POGIL](https://pogil.org)** — Process-Oriented Guided Inquiry Learning uses structured data-rich activities as tasks; teams work through models and questions with assigned roles, with the activity itself carrying the instruction.
 - [Scaffold GenAI learning activities and assessments progressively across all undergraduate levels](../strategies/scaffolded-genai-activities-assessments-across-levels.md)
+- [Use computer-based scaffolding within problem-centered instruction to support concept-level as well as application-level outcomes](../strategies/scaffold-problem-centered-instruction-concept-level.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/BF02505024](https://doi.org/10.1007/BF02505024)

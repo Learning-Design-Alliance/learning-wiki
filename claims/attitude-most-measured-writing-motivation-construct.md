@@ -46,3 +46,4 @@ Systematic review coding of 56 studies identified 32 motivational constructs, ca
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Narrative/story writing is the most common genre used to operationalize writing in K‑5 writing‑motivation self‑report studies, suggesting a bias toward narrow aspects of writing](storytelling-most-common-genre-writing-motivation-self-reports.md) — related
 - [Surveys and questionnaires are the most common type of self‑report used to assess K‑5 students’ writing motivation, followed by interviews](surveys-most-common-self-report-writing-motivation.md) — related
+- [Systematic review finds creativity in primary school research most often measured as a static, aggregated construct](creativity-most-often-measured-static-aggregated-construct.md) — related

@@ -52,3 +52,5 @@ Random-effects meta-analysis of 144 experimental studies (333 outcomes) of compu
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — related
 - [Scaffolding's effect was greatest among adult learners, though based on a single outcome](scaffolding-effect-greatest-adult-learners.md) — a narrower finding that bears on this claim
+- [Scaffolding produces strong pre–post gains across all assessment levels (concept ḡ = 0.87 to application ḡ = 0.74), with only minor differences among levels](scaffolding-assessment-level-minor-differences.md) — a narrower finding that bears on this claim
+- [Computer-based scaffolding produces consistently strong within-subject (pre–post) cognitive gains in STEM education across student populations, disciplines, and assessment levels](scaffolding-strong-prepost-gains-stem.md) — a narrower finding that bears on this claim

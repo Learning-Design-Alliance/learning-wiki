@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (19 for, 14 mixed) · 43 studies (12 quant-synthesis, 11 causal, 9 review, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 15 of 43 report an effect size · 21 claims rest on one study
+> **Evidence** · 34 claims (19 for, 15 mixed) · 44 studies (12 quant-synthesis, 11 causal, 10 review, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 15 of 44 report an effect size · 22 claims rest on one study
 
 ## Description
 
@@ -128,6 +128,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Quality out-of-class language learning combines focus on meaning and form and correlates with higher grades](../claims/quality-ocll-meaning-form-synergy-higher-grades.md) [+W]
 - [Structured repetition gains in fluency depend on repeating the same task](../claims/structured-repetition-fluency-task-specific.md) [+W]
 - *Does second-language practice carry over to skills and tasks other than the one practised?* [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](../claims/skill-specificity-l2-grammar-practice.md) [+M]
+- [Learning analytics research most often supports the 'where the learner is now' stage of formative assessment (51% of studies) and rarely the 'how to get there' stage (2%)](../claims/la-support-concentrated-where-learner-is-now.md) [~W] — attached 2026-10-20 from Seyyed Kazem Banihashem et al. (2025), which proposed "Use learning analytics to deliver scaled, real-time, personalized feedback that relieves teacher workload constraints on formative assessment".
 
 ## Source verification and open tests
 

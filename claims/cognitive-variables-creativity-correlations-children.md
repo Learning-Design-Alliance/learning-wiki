@@ -61,3 +61,4 @@ Correlational analyses in the study of 209 children administered measures of cre
 - [Creativity (divergent thinking ability) is predicted by both updating and inhibition, but not by shifting ability.](updating-and-inhibition-predict-creativity.md) — related
 - [The set of executive-function and intelligence predictors of academic achievement differs across Grades 2, 4, and 6, with EF contributions appearing cumulative as students get older](ef-predictors-of-achievement-differ-across-grades.md) — related
 - [AU and OC conditions show distinct correlation patterns with external creativity and fluency measures, supporting their differentiation as divergent thinking versus verbal ability conditions](au-oc-conditions-distinct-correlation-patterns.md) — related
+- [The dynamic systems model is used to explain differing views on education's role in developing children's creativity](model-explains-differing-views-education-role-creativity.md) — related

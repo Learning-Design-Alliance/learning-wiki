@@ -53,3 +53,4 @@ Analysis of preference lists submitted by applicants to a DC citywide lottery. T
 - [Parents' school choices were constrained by disability-linked safety fears and transportation barriers](iep-parents-safety-transportation-constraints.md) — related
 - [Student demographics affect parents' likelihood of selecting into a school](demographics-affect-school-selection-likelihood.md) — possibly the same claim (merge candidate)
 - [Student demographics affect parents' perceptions of school quality](demographics-affect-perceived-school-quality.md) — related
+- [Neoliberal discourse recommends market practices in education, which reviewed research links to class privilege and reduced democratic opportunities](neoliberal-discourse-market-education-critique.md) — related

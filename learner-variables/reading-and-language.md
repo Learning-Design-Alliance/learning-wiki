@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 167 claims (103 show a difference, 25 mixed, 39 no difference) · 122 studies (34 causal, 28 associational, 25 quant-synthesis, 21 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 27 of 122 report an effect size · 158 claims rest on one study
+> **Evidence** · 168 claims (104 show a difference, 25 mixed, 39 no difference) · 123 studies (34 causal, 28 associational, 26 quant-synthesis, 21 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 27 of 123 report an effect size · 159 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -218,6 +218,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Morphology instruction shows no clear effect on reading comprehension outcomes at immediate post-test](../claims/morphology-instruction-no-reading-comprehension-effect.md) [-M] — instruction changes it
 - [No clear differential effects of morphology instruction by child factors: age, reading ability, SES, or linguistic background](../claims/morphology-no-child-factor-moderators.md) [-M] — an instructional effect differs with it
 - [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](../claims/word-reading-interventions-outcome-type-effects.md) [~W] — instruction changes it
+- [Leisure digital reading habits show a small positive association with reading comprehension (r = .055), much smaller than for print reading habits](../claims/leisure-digital-reading-small-positive-comprehension-association.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

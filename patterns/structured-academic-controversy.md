@@ -21,7 +21,7 @@ grain_size: lesson
 # Structured Academic Controversy
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (9 mixed) · 23 studies (8 quant-synthesis, 6 causal, 5 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 23 report an effect size · 1 claim rests on one study
+> **Evidence** · 10 claims (10 mixed) · 24 studies (8 quant-synthesis, 6 causal, 6 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 24 report an effect size · 2 claims rest on one study
 
 ## Description and scope
 
@@ -122,6 +122,10 @@ Record: **question and intended target → each learner's starting position and 
 [Structured academic controversy](../elements/structured-academic-controversy.md), [assigned positions](../elements/assigned-positions.md), [role reversal](../elements/role-reversal.md), [perspective-taking](../elements/perspective-taking.md), [structured discussion](../elements/structured-discussion.md), [rebuttals](../elements/rebuttals.md), [argumentation](../elements/argumentation.md), [sentence starters](../elements/sentence-starters.md), [consensus building](../elements/consensus-building.md), [knowledge synthesis](../elements/knowledge-synthesis.md), [group roles](../elements/group-roles.md), [peer discussion](../elements/peer-discussion.md), [rubric](../elements/rubrics.md), [feedback](../elements/feedback.md), [reflection](../elements/reflection.md) and [assessment](../elements/assessment.md). Principles the pattern draws on: [Perspective-Taking](../principles/cognitive-flexibility.md), [Social Learning](../theories/sociocultural-theory.md), [Debate](debate.md), [Perspective-Seeking/Multiple Perspectives](../principles/cognitive-flexibility.md), [Peer Discussion](../principles/peer-discussion.md) and [Purposeful Reflection](../principles/reflection.md).
 
 This pattern is scoped to cooperative argument on a question that admits more than one defensible, evidence-bearing answer, with an integrated position as the target. Questions with one correct answer, topics where a two-sided frame would create a false equivalence, and goals of winning or defending a case under challenge (see [Debate](debate.md)) need other configurations. The policy supports observation and design reasoning. It remains to be tested whether SAC improves individual argument, perspective-taking, topic understanding or attitudes more than debate or discussion, for which learners and at what horizon. The same is true of whether the reversal or the synthesis carries any effect.
+
+## Claims
+
+- [Deliberative discourse promotes pedagogies of public deliberation, which are critiqued for exclusion and consensus bias](../claims/deliberative-discourse-pedagogies-critique.md) [~W]
 
 ## Related Patterns
 - [Debate Format](debate.md)

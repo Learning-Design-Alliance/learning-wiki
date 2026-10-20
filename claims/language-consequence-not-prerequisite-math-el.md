@@ -49,3 +49,4 @@ Observational field trials of the RAMPUP summer bridge program over two summers,
 - [Each language entails a conceptually different world, so exact translation of conceptual structure between languages is impossible](language-entails-conceptually-different-world.md) — related
 - [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md) — related
 - [DLLs have smaller vocabularies and slower growth in each language than monolinguals, but comparable conceptual vocabularies](dll-smaller-vocabulary-each-language.md) — related
+- [Bilingual mathematics classes may support acquisition of mathematical knowledge by building technical terms in two language structures](bilingual-math-classes-two-language-term-building.md) — related

@@ -70,3 +70,4 @@ Longitudinal studies in Texas and New York City reported in the review found int
 - [Principal turnover is common: 18% of principals leave schools each year and half of new principals leave within three years, with cascading consequences](principal-turnover-18-percent-annually.md) — related
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
 - [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](school-leadership-associated-with-lower-turnover.md) — related
+- [No study of principal burnout employed a causal framework or linked burnout to actual turnover](no-causal-framework-principal-burnout.md) — related

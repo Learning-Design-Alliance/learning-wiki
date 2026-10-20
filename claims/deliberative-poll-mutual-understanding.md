@@ -47,3 +47,4 @@ Reported outcome of the Danish national Deliberative Poll quasi-experiment on th
 - [Self-interest and domination appeared during the Danish Deliberative Poll's deliberative process](deliberative-poll-self-interest-domination.md) — related
 - [The authors argue deliberative democracy theory needs elaboration to reflect real-life politics](deliberative-democracy-theory-needs-real-life-elaboration.md) — related
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
+- [Deliberative discourse promotes pedagogies of public deliberation, which are critiqued for exclusion and consensus bias](deliberative-discourse-pedagogies-critique.md) — related

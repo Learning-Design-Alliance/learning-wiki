@@ -24,7 +24,7 @@ sources:
 # Modeling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (20 for, 7 mixed) · 39 studies (13 causal, 7 review, 5 qualitative, 4 quant-synthesis, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 4 of 39 report an effect size · 17 claims rest on one study
+> **Evidence** · 28 claims (21 for, 7 mixed) · 40 studies (13 causal, 7 review, 5 quant-synthesis, 5 qualitative, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 4 of 40 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,7 @@ Claims that mention modelling but bear on this page little or not at all:
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [Exposure to a video model improves trainee teachers’ skill in using questioning for retrieval by 0.80 SD relative to restudying the evidence summary](../claims/video-model-improves-retrieval-questioning-skill.md) [+M] — attached 2026-10-18 from Sam Sims et al. (2026), which proposed "Incorporate observable video models when training early-career teachers in evidence-based teaching practices"; tests this page's relationship.
+- [Peer-expert modeling videos interspersed with instructional guidance produce significant medium-to-large positive effects on IPS performance compared to practice-only groups](../claims/peer-expert-modeling-improves-ips-performance.md) [+W] — attached 2026-10-20 from Boetje et al. (2026), which proposed "Provide opportunities for students to observe short fragments of peer-expert models interspersed with instructional guidance to increase IPS performance"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

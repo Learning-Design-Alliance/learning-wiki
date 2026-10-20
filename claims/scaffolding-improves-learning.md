@@ -146,3 +146,4 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 - [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](srl-scaffolds-positive-effect-academic-performance.md) — a narrower finding that bears on this claim
 - [Scaffolding's effect was greatest among adult learners, though based on a single outcome](scaffolding-effect-greatest-adult-learners.md) — a narrower finding that bears on this claim
 - [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — related
+- [Computer-based scaffolding produces consistently strong within-subject (pre–post) cognitive gains in STEM education across student populations, disciplines, and assessment levels](scaffolding-strong-prepost-gains-stem.md) — related

@@ -75,3 +75,4 @@ Sub-analysis comparing the first two worksheets with the later four; the article
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related
 - [In Experiment 1, I-PS students solved the initial problem better but PS-I students learned more from the subsequent instructional video](exp1-process-measures-problem-solving-and-quiz.md) — related
 - [Productive failure before instruction outperforms instruction followed by problem-solving](productive-failure-before-instruction-strong-effect.md) — related
+- [Peer-expert modeling videos interspersed with instructional guidance produce significant medium-to-large positive effects on IPS performance compared to practice-only groups](peer-expert-modeling-improves-ips-performance.md) — related

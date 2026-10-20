@@ -46,3 +46,4 @@ The review's synthesis reports that "a formal curriculum that includes citizensh
 - [An open and democratic classroom climate with discussion and dialogue appears to effectively promote citizenship development among secondary school students](open-democratic-classroom-climate-promotes-citizenship.md) — related
 - Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes — related
 - [The global civic activism measurement model was fully valid with no items removed, appearing valid across contexts](global-civic-activism-model-fully-valid.md) — related
+- [Liberal discourse grounds democratic education in knowledge of democratic institutions and critical thinking across the curriculum](liberal-discourse-knowledge-and-reason.md) — related

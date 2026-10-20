@@ -53,3 +53,4 @@ Qualitative case study finding on family engagement across the three study schoo
 - [Professional development from CHSRI and CPS is valued by some small-school staff but viewed by others as irrelevant, hard to schedule, and poorly connected to school needs](chsri-professional-development-mixed-reception.md) — related
 - [Committee members hold that driving systems-level change requires actively and directly engaging local communities rather than passively asking for feedback](active-community-engagement-over-passive-feedback.md) — related
 - [ParentCorps improves family engagement measures (Inclusive Leadership, Trust in School Leader, Communication and Trust in Teacher) in a 61-school trial](parentcorps-family-engagement-school-survey.md) — related
+- [Deliberative policy proposals center on inclusive decision making governed by nonrepression and nondiscrimination principles](deliberative-policy-nonrepression-nondiscrimination.md) — related

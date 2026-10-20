@@ -45,3 +45,4 @@ The brief reports, alongside the confirmed common factors, that "we also found c
 ## Related Claims
 - [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](dc-parents-distance-demographics-academics-drive-choice.md) — related
 - [DC public high schools show wide variation in promotion power for college-ready SAT scores, graduation, and college enrollment](wide-variation-dc-high-school-promotion-power.md) — related
+- [Neoliberal discourse recommends market practices in education, which reviewed research links to class privilege and reduced democratic opportunities](neoliberal-discourse-market-education-critique.md) — related

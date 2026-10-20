@@ -63,3 +63,5 @@ Continuation of the same critique: the article states the tasks Luria presented 
 
 ## Related Claims
 - [From a neo-Vygotskian perspective, research data are social constructs produced by the relationship of researcher, participants, context, and means of data collection](data-are-social-constructs-neo-vygotskian.md) — a broader claim this one bears on
+- [Data on learning in the ZPD are social constructs, so the purity-of-data metaphor is inappropriate](data-social-constructs-zpd.md) — a broader claim this one bears on
+- [Luria's Uzbekistan cognition research is of questionable validity because its mediational means were culturally inappropriate](luria-questionable-validity.md) — possibly the same claim (merge candidate)
