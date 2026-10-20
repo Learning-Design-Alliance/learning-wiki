@@ -1016,6 +1016,7 @@
 <!-- How each source describes or uses the method -->
 <ul>
 <li><strong>Dialogue Act Coding (DAC) system: five communicative functions and 29 dialogue acts recognized via discourse markers</strong>: The DAC system identifies "dialogue acts", the communicative function of each utterance typed during online collaboration, building on the Verbal Observation System and discourse-analysis research. Its core assumption is that language users "signal the intended meaning and interpretation of their utterances to their discourse partners by means of explicit 'discourse markers'". It distinguishes five main communicative functions: "(1) Argumentative..., (2) Responsive..., (3) Elicitative..., (4) Informative..., and (5) Imperative (commands)", specifying "a total of 29 different dialogue acts". The system was used in CSCL studies of history and language arts inquiry tasks. (Erkens et al. (2008))</li>
+<li><strong>Default catch-all code (InfStm?) flags uncodable messages for manual checking</strong>: When the DAC filter finds no discourse marker in a message, it assigns the InfStm? code as a default catch-all, marking the message for manual checking rather than risking a wrong automatic code. The article states "If the system does not find a discourse marker in a message, the message is coded by the label InfStm? as a default catch-all." This means "the researcher still has to check and code some parts of the protocol (about 10%)", but the job is simplified because large parts are already coded and uncoded parts are easy to find.</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
@@ -1028,6 +1029,40 @@
 <ul>
 <li>Erkens, G., &amp; Janssen, J. (2008). Automatic coding of dialogue acts in collaboration protocols. Computer-Supported Collaborative Learning, 3, 447-470. https://doi.org/10.1007/s11412-008-9052-6</li>
 </ul>
+<!-- merged 2026-10-20 from strategies/infstm-catchall-default-code-strategy ("Use a default catch-all code (InfStm?) to flag uncodable messages for manual checking"), an isolated part of this page (maintainer 2026-10-20: fold approved): its body as it stood. Its bullets this page lacked were added above.
+
+# Use a default catch-all code (InfStm?) to flag uncodable messages for manual checking
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
+## Description
+When the DAC filter finds no discourse marker in a message, it assigns the InfStm? code as a default catch-all, marking the message for manual checking rather than risking a wrong automatic code. The article states "If the system does not find a discourse marker in a message, the message is coded by the label InfStm? as a default catch-all." This means "the researcher still has to check and code some parts of the protocol (about 10%)", but the job is simplified because large parts are already coded and uncoded parts are easy to find.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A researcher must review and manually code the flagged InfStm? messages after automatic coding
+#### Constraints
+- The catch-all does not guarantee the DAC filter makes no other mistakes; disagreements not flagged as InfStm? remain unnoticed unless the protocol is checked
+
+### Target Learners
+- researchers coding collaboration protocols from CSCL studies
+
+### Target Learning Goals
+- reliable and efficient coding of communicative functions in collaboration protocols
+
+## Related Strategies
+- 
+
+## Examples
+-
+
+## Key Sources
+- Erkens, G., & Janssen, J. (2008). Automatic coding of dialogue acts in collaboration protocols. Computer-Supported Collaborative Learning, 3, 447-470. https://doi.org/10.1007/s11412-008-9052-6
+-->
+
 <details class="info">
 <summary>Page metadata</summary>
 <table>
@@ -1059,12 +1094,20 @@
 <td><code>review</code></td>
 </tr>
 <tr>
+<td><code>moved_from</code></td>
+<td><code>strategy/infstm-catchall-default-code-strategy</code></td>
+</tr>
+<tr>
 <td><code>generated</code></td>
 <td>by <code>process:settle-candidates</code> on <code>2026-10-18</code></td>
 </tr>
 <tr>
 <td><code>trust</code></td>
 <td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>erkens-2008</code></td>
 </tr>
 </tbody>
 </table>
