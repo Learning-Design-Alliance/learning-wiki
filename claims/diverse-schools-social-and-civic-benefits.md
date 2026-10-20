@@ -71,3 +71,6 @@ The report's narrative review states this benefit of attending diverse schools, 
 - [Magnet schools show positive effects on achievement, graduation, motivation, intergroup relationships, and satisfaction, and well-integrated magnets attract high parental demand](magnet-school-positive-effects.md) — related
 - [Exploration of diversity is associated with all civic competence outcomes in community-based learning courses](diversity-enhances-all-civic-competence-outcomes.md) — related
 - [Review reports a multicultural collaborative competence model offering a more vivid image of online intergroup discussion quality than a general model](editorial-mcc-vivid-image-collaboration-sensitive-topics.md) — related
+- [Racially integrated learning environments have positive impacts on academic achievement for students of all races, per the research the report synthesizes](integrated-schools-academic-benefits-all-races.md) — related
+- [Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes](csl-one-on-one-partner-contact-disrupts-stereotypes.md) — related
+- [Magnet schools typically show positive effects on achievement, graduation, motivation, and integration, though integration varies widely by district](magnet-schools-positive-effects.md) — related

@@ -45,3 +45,10 @@ This is the review's own synthesis statement: it reviews "a growing body of evid
 ## Related Claims
 
 - [Early intervention can remediate neurodevelopmental consequences associated with maltreatment or institutional rearing](early-intervention-remediates-adversity-neurodevelopmental-consequences.md)
+- [Children exposed to early adversity are at increased risk for a broad range of developmental difficulties affecting both cognitive and emotional adjustment](early-adversity-increases-developmental-risk-cognitive-emotional.md) — possibly the same claim (merge candidate)
+- [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — a narrower finding that bears on this claim
+- [Early life stress disrupts dopaminergic reward circuitry in animals and humans, with altered reward learning and links to depressive and anxiety symptoms](els-dopaminergic-reward-disruption.md) — a narrower finding that bears on this claim
+- [Chronic HPA axis activation via CRH and glucocorticoids is proposed to partially mediate the neural effects of early life stress](hpa-crh-glucocorticoid-partial-mediation.md) — a narrower finding that bears on this claim
+- [The probability of school failure increases as a function of the timing and length of children's exposure to relational adversity](cumulative-relational-adversity-school-failure.md) — a narrower finding that bears on this claim
+- [Threat and deprivation show overlapping effects on PFC-amygdala connectivity and hippocampal volume](threat-deprivation-shared-neural-effects.md) — a narrower finding that bears on this claim
+- [Unpredictability and lack of contingent caregiver responding in childhood is associated with increased adolescent externalizing behaviors and altered prefrontal-hippocampal-amygdala circuits](environmental-unpredictability-externalizing-circuits.md) — a narrower finding that bears on this claim

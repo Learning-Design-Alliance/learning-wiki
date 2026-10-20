@@ -49,3 +49,4 @@ End-of-year teacher survey in DLP participating schools comparing coached and no
 - [After one year of DLP coaching, coached teachers reported more frequent and more powerful technology use than non-participating colleagues](dlp-teachers-more-frequent-powerful-technology-use.md) — related
 - [DLP-coached teachers reported greater increases in frequency of technology use than non-DLP teachers](dlp-coaching-increases-teacher-technology-use-frequency.md) — related
 - [DLP teachers reported higher rates of impactful student technology use and greater perceived positive impact on student engagement and learning than non-DLP teachers](dlp-student-engagement-impactful-technology-use.md) — related
+- [DLP participants reported more frequent meaningful coaching activities than other coaching programs, but fewer opportunities to observe other teachers](dlp-versus-other-coaching-programs-comparison.md) — related

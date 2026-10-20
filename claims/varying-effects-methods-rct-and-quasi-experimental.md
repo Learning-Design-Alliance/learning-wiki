@@ -52,3 +52,4 @@ The report states its scope: the quantitative methods for varying treatment effe
 - The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions — a narrower finding that bears on this claim
 - [Cross-site standard deviations of ITT effects were estimated for education and workforce interventions using data from 16 large multisite randomized controlled trials](cross-site-itt-effect-variation-16-multisite-rcts.md) — a narrower finding that bears on this claim
 - Not all intervention programs can be evaluated using an RCT, so non-experimental study designs may be needed to build an evidence base — related
+- [The study explores hypotheses about factors that predict the magnitude of cross-site impact variation](hypotheses-predicting-cross-site-impact-variation.md) — related

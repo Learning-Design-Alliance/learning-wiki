@@ -51,3 +51,4 @@ An NWEA publications listing (read in place of the article) gives this study's s
 - [Conditioning results from multiple disengagement detection methods on response times shows how the conditional approach aids threshold setting and misclassification avoidance](conditioning-detection-methods-on-response-times.md) — related
 - [Information-based rapid-guessing threshold methods set thresholds more reliably than methods based on response accuracy or visual inspection](information-based-thresholds-more-reliable-than-accuracy-visual-methods.md) — related
 - [Unmotivated examinees present a major threat to the validity of scores in low-stakes testing programs](unmotivated-examinees-threaten-low-stakes-score-validity.md) — related
+- [The general effort-measurement process is illustrated with data from a large-scale assessment program](effort-process-illustrated-large-scale-assessment-data.md) — possibly the same claim (merge candidate)

@@ -44,3 +44,7 @@ Quantitative comparison from the coded-video proportions (Table 3 shows UrPo off
 
 ## Related Claims
 - [Student teams differed markedly in their application of computer engineering and product design practices and in their share of off-task activity](claim-team-variation-off-task.md) — related
+- [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](making-team-success-coordination-entanglement.md) — a broader claim this one bears on
+- [Anchoring collaboration in a shared epistemic object distinguished the successful co-invention teams from the unsuccessful one](shared-epistemic-object-anchors-collaborative-making.md) — a broader claim this one bears on
+- [Off-task activity was more common in the larger six-to-seven-member teams than in the compact teams](off-task-more-common-in-larger-making-teams.md) — related
+- [Teacher-introduced redirection that simplified a team's epistemic object was associated with a decline in that team's knowledge-creation activity](claim-teacher-redirection-simplified-epistemic-object.md) — related

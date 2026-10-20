@@ -44,4 +44,6 @@ The editorial reports a design-based study with two iterations in which small gr
 
 
 ## Related Claims
--
+- [In the main study, learning gains from pre-test to post-test were not directly influenced by the collaboration script, though all students improved significantly over time](script-no-direct-effect-learning-gains.md) — related
+- [In the main study, wiki contribution frequency indirectly mediated the effect of script on post-test learning, while the direct script effect was not significant](contribution-frequency-mediates-script-learning.md) — related
+- [Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge, and for collaboration skills the difference runs opposite to the expected direction](transactivity-moderator-not-significant.md) — related

@@ -69,3 +69,4 @@ Conditional per-letter probabilities (Table 7) computed from Model 2 random effe
 - [Letter-sound knowledge and phonological awareness are associated with letter writing, but much less strongly than letter-name knowledge](letter-sound-pa-smaller-contribution.md) — related
 - [Letter type, letter order, textual frequency, number of strokes, and symmetry did not substantially or consistently contribute to letter writing](letter-features-null-for-letter-writing.md) — related
 - [Vowels were easier for 3- and 4-year-olds to write than CV letters](vowels-easier-to-write-young-preschoolers.md) — related
+- [The first letter of the child's name was the only letter-level factor consistently associated with correct letter writing](first-letter-of-name-advantage-letter-writing.md) — related

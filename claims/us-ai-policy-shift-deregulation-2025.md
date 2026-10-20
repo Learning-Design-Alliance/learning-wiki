@@ -45,3 +45,4 @@ Documentary analysis of US AI regulatory documents found the Biden-era AI Bill o
 ## Related Claims
 - [A tension exists across AI policies between ensuring ethical use of AI and promoting economic benefit, with different countries prioritizing different sides](ai-policy-tension-ethics-versus-economic-benefit.md) — related
 - [The EU and China have adopted the most comprehensive AI regulations, each covering four of the five OECD classification dimensions](eu-china-most-comprehensive-ai-regulations-oecd.md) — related
+- [African countries' AI policies are high-level and more focused on economic goals than on establishing specific regulatory requirements](african-ai-policies-high-level-economic-focus.md) — related

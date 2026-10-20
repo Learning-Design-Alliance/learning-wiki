@@ -47,3 +47,4 @@ Mixed effects model on reaction time at 19, 25 and 31 months in the Language 0�
 - [Processing speed at 19 months does not significantly influence linear vocabulary growth between 19 and 30 months](processing-speed-no-linear-vocabulary-growth-effect-19-30-months.md) — related
 - [Children's vocabulary and reaction time improved significantly from 18 to 24 months, and maternal talk measures were highly intercorrelated](vocabulary-and-processing-speed-gains-18-to-24-months.md) — related
 - [Faster word recognition at 24 months is associated with larger vocabularies and greater vocabulary gains in Spanish-learning children](faster-word-recognition-linked-larger-vocabulary.md) — related
+- [Faster processing speed at 19 months predicts faster syntactic growth between 19 and 30 months, controlling for concurrent vocabulary](processing-speed-predicts-syntactic-growth-controlling-vocabulary.md) — related

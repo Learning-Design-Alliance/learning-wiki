@@ -50,3 +50,4 @@ Behavioral observation and qualitative interviews during the three-month MAIC pi
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
 - [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
 - [Students' technology acceptance increased significantly after taking a MAIC course](technology-acceptance-increased-maic.md)
+- [Pilot participants perceived AmicoMio and AmicoTuo as complementary modes serving different educational purposes rather than alternatives](amico-dual-modes-perceived-complementary.md) — related

@@ -46,3 +46,5 @@ Benchmark experiment on 1,017 test scenarios with three base LLMs (Gemini-3-Flas
 - [Coarse-grained tool design (5 phase-level tools) outperforms fine-grained decomposition (14 tools) for LLM-based ISD agents](coarse-grained-phase-level-tools-outperform-fine-grained.md) — related
 - Agentic frameworks built on GPT-3.5 and GPT-4 show significant performance gains on the HumanEval benchmark over zero-shot baselines — a broader claim this one bears on
 - [Culture has been mostly ignored as a design construct in the field of instructional design](culture-ignored-in-id-field.md) — related
+- [Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation (d = 0.29), but non-theory agents score higher on Demonstration (d = -0.23)](theory-agents-problem-centered-activation-advantage.md) — related
+- [Theoretical quality of agent outputs strongly correlates with benchmark performance (r = 0.656)](theoretical-quality-correlates-benchmark-performance.md) — related

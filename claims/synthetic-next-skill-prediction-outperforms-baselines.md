@@ -45,3 +45,4 @@ Simulation study generating synthetic datasets from predefined skill prerequisit
 ## Related Claims
 - [The proposed method's advantage grows or holds as the skill space expands and under higher noise rates in synthetic experiments](robustness-to-skill-size-and-noise-synthetic.md) — related
 - [On the ASSISTments real-world benchmark, the proposed method achieves the best performance across all metrics, significantly outperforming all baselines](assistments-real-world-best-all-metrics.md) — related
+- [On real-world data, the proposed method maintains high win rates as the number of skills increases, performing strongly on ACE and MSE](real-world-win-rate-skill-size.md) — related

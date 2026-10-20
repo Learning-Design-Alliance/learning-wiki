@@ -49,3 +49,5 @@ District-wide CPS administrative data analysis, 2012-13 to 2015-16. The article 
 - [Students in full-day pre-k programs had significantly higher attendance rates than students in half-day programs across all study years](full-day-prek-higher-attendance-than-half-day.md) — related
 - [The pathway from full-day pre-k to better second-grade outcomes was especially strong among Black students, lowest-income students, and students living in mostly-Black neighborhoods](prek-pathway-strongest-high-priority-groups.md) — related
 - [Pre-k policy changes were associated with higher second-grade reading test scores for Black students and students in the lowest-income group](prek-policy-reading-gains-black-lowest-income.md) — related
+- [Chicago pre-k policy changes expanding full-day pre-k access were related to more favorable second-grade math test scores and academic grades for most student groups](chicago-prek-policy-favorable-second-grade-math.md) — related
+- [Full-day pre-k funding significantly raised pre-k attendance at NLCI elementary schools relative to matched comparison schools](nlci-full-day-pre-k-significantly-higher-attendance.md) — related

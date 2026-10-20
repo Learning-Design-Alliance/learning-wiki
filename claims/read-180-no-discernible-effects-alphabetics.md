@@ -47,3 +47,6 @@ The review's alphabetics rating statement: both qualifying studies (Fitzgerald &
 - [READ 180® has positive effects on general literacy achievement for adolescent readers](read-180-positive-effects-general-literacy.md) — related
 - [Fast ForWord has no discernible effects on alphabetics and general literacy achievement and potentially positive effects on reading fluency and comprehension for adolescent learners](fast-forword-no-discernible-effects-alphabetics-general-literacy.md) — related
 - [The extent of evidence for Fast ForWord is small for alphabetics and reading fluency and medium to large for comprehension and general literacy achievement](fast-forword-extent-of-evidence-ratings.md) — related
+- [READ 180 shows a modest average effect size of +0.08 across five studies, qualifying it for a Strong evidence rating](read-180-average-effect-size-008.md) — related
+- [SpellRead™ shows potentially positive effects on alphabetics for adolescent readers, with an average improvement index of +23 across two studies](spellread-potentially-positive-alphabetics.md) — related
+- [Failure Free Reading shows no discernible effects on alphabetics outcomes for beginning readers](failure-free-reading-no-discernible-effects-alphabetics.md) — related

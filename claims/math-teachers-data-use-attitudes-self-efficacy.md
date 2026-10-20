@@ -65,3 +65,4 @@ The review reports Hawn's (2019a) finding that the high-variety/high-rate user g
 - [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — related
 - Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related
 - [Self-efficacy correlates positively with conceptual understanding in both flipped classroom methods](self-efficacy-correlates-conceptual-understanding.md) — related
+- [Successful use of mastery learning has powerful but mixed effects on teacher variables, including more positive attitudes, altered attributions, and reduced teaching confidence](mastery-mixed-teacher-variable-effects.md) — related

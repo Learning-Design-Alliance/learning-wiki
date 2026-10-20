@@ -47,3 +47,4 @@ The authors' experiential claim from using contracts in first-year writing: even
 - [A unilateral grading contract guarantees students a course grade of B based solely on completion of specified activities, not on judged writing quality](contract-guarantees-b-for-completion-not-quality.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
 - [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) — related
+- [The authors report that fourteen weeks of contract-required work improves writing quality enough to warrant a B](fourteen-weeks-contract-work-warrants-b.md) — related

@@ -50,3 +50,4 @@ Narrative review, citing research on the expertise reversal effect (Kalyuga et a
 - [The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide internal guidance](guidance-advantage-recedes-with-high-prior-knowledge.md) — related
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — possibly the same claim (merge candidate)
 - [Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school students but not higher-prior-knowledge ones, with the effect eliminated for younger middle-school children](expertise-reversal-iconic-scaffolds-development.md) — related
+- [The imagination effect (cognitive rehearsal of example procedures) enhances learning only for learners with prior knowledge](imagination-effect-expertise-reversal.md) — related

@@ -45,3 +45,5 @@ Independent-samples t-tests on SPSIC scores in the 523-child sample: overall gir
 ## Related Claims
 
 - [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md)
+- [Action-adventure videogames negatively predict social problem-solving scores while simulation, puzzle, serious and educational videogames predict positively](videogame-genre-spsic-regression-predictors.md) — related
+- [Action, strategy-intelligence, role-playing and sport traditional game genres positively predict social problem-solving scores](traditional-game-genres-positive-spsic-predictors.md) — related

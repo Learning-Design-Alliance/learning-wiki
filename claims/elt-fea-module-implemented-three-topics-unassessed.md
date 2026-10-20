@@ -46,3 +46,4 @@ Descriptive design report of a module for a first-year Heat Transfer course with
 - [Graduate students can effectively develop interactive educational online software modules as a curriculum component of an advanced science course](graduate-students-develop-interactive-modules-as-course-project.md) — related
 - PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs — related
 - [Learning styles measured by Kolb's inventory showed no significant change over one year of varied instruction](kolb-learning-style-stable-over-one-year.md) — related
+- [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related

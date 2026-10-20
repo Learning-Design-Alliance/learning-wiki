@@ -48,3 +48,4 @@ WWC Extent of Evidence categorization (Appendix A5) based on number of studies a
 - [The Frechtling, Zhang, and Silverstein (2006) study showed a substantively important positive average alphabetics effect, while Hecht (2003) did not](voyager-study-average-effect-sizes-differ.md) — a narrower finding that bears on this claim
 - [The WWC found Voyager Universal Literacy System® had potentially negative effects on comprehension](voyager-potentially-negative-comprehension.md) — related
 - [The WWC found Voyager Universal Literacy System® had potentially positive effects on alphabetics for kindergarten students](voyager-potentially-positive-alphabetics.md) — related
+- [The evidence base for Little Books is small: only one study met WWC standards, addressing only general reading achievement, with no studies meeting standards for alphabetics, fluency, or comprehension](little-books-evidence-base-small-one-domain.md) — related

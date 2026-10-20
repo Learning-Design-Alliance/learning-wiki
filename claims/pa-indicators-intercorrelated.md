@@ -46,3 +46,6 @@ Correlation analysis among active play, time with family and peers, and sedentar
 - [Active play is associated with time with family and peers in all age groups (r = 0.485)](active-play-family-peers-association.md) — a narrower finding that bears on this claim
 - [TCT-DP creativity scores increase with age group, and adolescents are the most sedentary](tct-dp-increases-with-age.md) — related
 - [Light and moderate physical activity and sedentary behavior show no significant relationship with any creativity component or overall creativity](light-moderate-sedentary-no-creativity-relationship.md) — related
+- [Active play correlates with creativity (TCT-DP score) in adolescents aged 14–17, but not in children aged 6–13](active-play-creativity-correlation-adolescents.md) — related
+- [Pokémon Go increases physical activity for otherwise sedentary players, but gains do not persist after play ends and do not exceed active non-players](pokemon-go-activity-sedentary-nonpersistent.md) — related
+- [School-aged children show reduced physical activity and increased sedentary behavior during the summer break across multiple countries](summer-break-reduced-activity-increased-sedentary.md) — related

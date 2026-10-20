@@ -65,3 +65,4 @@ The report cites a review of 78 school climate studies since 2000 finding that "
 - [The strongest college-readiness predictors measure four broad constructs: academic preparation, aspirations and expectations, socioeconomic status, and teacher perceptions](four-college-readiness-constructs-factor-analysis.md) — related
 - Many teacher background characteristics showed no association with SEL skills, well-being, or school climate perceptions — related
 - [Health factors and academic outcomes are linked: meeting nutritional and fitness needs, school-based health centers, and positive school climate are associated with achievement, attendance, and behavior](health-factors-linked-academic-outcomes.md) — a broader claim this one bears on
+- [Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects](positive-school-climate-improves-attendance-achievement.md) — related

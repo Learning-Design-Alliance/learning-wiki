@@ -64,3 +64,4 @@ Process data from the same relearning experiment indicated fruitful, script-cons
 ## Related Claims
 - [Bounded AI support outperformed open collaboration on all four Week 8 independent no-AI outcomes, though exact wild-cluster p values sat at the 0.050–0.063 boundary](bounded-beats-open-week8-independent-outcomes.md) — related
 - [Open AI collaboration yielded the highest supported writing quality, while bounded AI support yielded the highest independent no-AI Week 8 performance](genai-supported-performance-independent-divergence.md) — related
+- [In Study 1, university students using ChatTutor scored significantly higher than teaching-as-usual students on a delayed conceptual knowledge test four weeks after the lesson, but did not differ significantly from ChatGPT students](chattutor-delayed-conceptual-knowledge-study1.md) — related

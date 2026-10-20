@@ -49,3 +49,5 @@ Behavioural ANOVA results from the fMRI study: unlike the neural audience effect
 - [Adults show greater left inferior lateral PFC activation than adolescents during relational integration](adults-greater-left-inferior-pfc-relational-activation.md) — related
 - [A peer audience decreases accuracy in the complex relational integration condition in both adolescents and adults](peer-audience-decreases-relational-integration-accuracy.md) — reports the opposite
 - [Older adolescents (14.9–17.8 years) show lower relational reasoning accuracy when observed by a friend than by an experimenter, across task difficulty levels](older-adolescents-lower-accuracy-friend-versus-experimenter.md)
+- [Across all age groups, relational reasoning accuracy is lower in the friend-present condition than in the experimenter-present condition overall](overall-main-effect-social-condition-accuracy.md) — related
+- [A peer audience differentially modulates fronto-parietal activation by age: increased in adolescents, decreased in adults](peer-audience-age-differential-frontoparietal-activation.md) — related

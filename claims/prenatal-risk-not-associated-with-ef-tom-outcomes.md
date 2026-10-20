@@ -50,3 +50,5 @@ Preliminary analyses tested whether a cumulative prenatal risk index (premature 
 - [Executive function performance significantly predicts semantic fluency in preschool children](ef-significant-effect-semantic-fluency-preschool.md) — related
 - [Low-income children show theory of mind development differences compared with typically studied higher-income samples](low-income-children-tom-development-differences.md) — related
 - [Foster children who received the ABC intervention in infancy showed stronger cognitive flexibility at preschool age than foster children who received a control intervention](abc-intervention-improves-cognitive-flexibility-foster-preschoolers.md) — related
+- [Risk indices are positively inter-correlated, and cumulative risk correlates more strongly with outcomes than any single risk factor](cumulative-risk-correlates-stronger-than-single-risks.md) — related
+- [Prenatal synchronous multisensory exposure enhances learning and memory for a mother's call in quail embryos](quail-embryos-multisensory-prenatal-exposure-enhanced-learning.md) — related

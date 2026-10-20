@@ -64,3 +64,6 @@ The review reports, citing Jiao et al. (2022), that AI-powered enrollment manage
 ## Related Claims
 - [Review reports AI may automate teachers' administrative chores while direct instruction and coaching are less susceptible to automation](teacher-roles-automation-boundary.md) — related
 - [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related
+- [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — related
+- [GenAI improves administrative coordination of group work but its analyses of team members can be inaccurate and hallucinated](genai-administrative-efficiency-with-accuracy-limits.md) — related
+- [Group performance can be predicted with advanced machine-learning techniques, and collaboration synergy depends on skill diversity, equal workload distribution and high interaction concurrency](machine-learning-predicts-group-performance-synergy.md) — related

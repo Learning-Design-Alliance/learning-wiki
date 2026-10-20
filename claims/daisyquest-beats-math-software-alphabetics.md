@@ -53,3 +53,4 @@ Randomized comparison in Barker and Torgesen (1995) against math-oriented softwa
 - [DaisyQuest has positive effects on alphabetics skills in beginning readers, per WWC synthesis of four randomized controlled trials](daisyquest-positive-effects-alphabetics.md) — related
 - [DaisyQuest matched teacher-delivered phonological awareness instruction but beat other instructional software in low-progress readers](daisyquest-versus-teacher-instruction-mixed.md) — related
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
+- [The WWC rated DaisyQuest as having positive effects on phonological processing, its highest applicable rating](wwc-positive-effects-rating-daisyquest.md) — a broader claim this one bears on

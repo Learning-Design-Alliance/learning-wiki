@@ -45,3 +45,5 @@ Exploratory multiple regression from the Results section predicting recall from 
 ## Related Claims
 
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md)
+- [Related prior knowledge is the single most powerful influence mediating subsequent learning, so multimedia should layer information by complexity](prior-knowledge-most-powerful-influence-multimedia-layering.md) — related
+- [For recall performance, the study found no significant three-way interaction between modeling condition, prior knowledge activation and domain knowledge, so the model-observer similarity hypotheses were not supported.](no-three-way-interaction-recall-emme.md) — related

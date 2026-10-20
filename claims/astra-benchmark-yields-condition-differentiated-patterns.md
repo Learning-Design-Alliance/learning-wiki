@@ -46,3 +46,5 @@ Simulated evidence from the synthetic benchmark dataset: descriptive summaries a
 - [The v2 synthetic generator was tuned for stricter trace-data realism with more incorrect code, retries, and longer dialogues](astra-v2-generator-stricter-realism.md) — related
 - [In a preliminary 2×3 controlled lesson study across five backbone LLMs, structured student agents produce more differentiated mastery and misconception traces than a baseline simulator](structured-student-agents-differentiated-mastery-traces.md) — related
 - The proposed validation method is feasible when examined with simulated data generated under various conditions — related
+- [AI agents recover a smaller share of reference patterns from the synthetic WindowDash dataset than from the real-world Olist dataset](agent-pattern-discovery-gap-windowdash-vs-olist.md) — related
+- [Procedural competencies from simulation-based RL training generalize to out-of-domain benchmarks including AMIE Mx, AgentClinic, and CRAFT-MD](residencyrl-generalizes-out-of-domain.md) — related

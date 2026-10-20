@@ -49,3 +49,4 @@ Coding of the 176 Freeman et al. (2014) articles found experimental-group "imple
 - [Most active learning studies did not report group equivalence measures directly related to the dependent variable](group-equivalence-directly-related-rarely-reported.md) — related
 - [No active learning intervention study in the Freeman et al. (2014) set or the 2015–2022 sample met all 12 internal validity controls](no-active-learning-studies-meet-all-internal-validity-controls.md) — related
 - [About two-thirds of Freeman et al. (2014) articles reported results favoring only the active learning group, but most comparisons were active learning versus lecture with weak internal validity controls](active-learning-results-favor-experimental-group.md) — related
+- [Schools implementing MTSS with higher fidelity show less absenteeism](mtss-fidelity-lower-absenteeism.md) — related

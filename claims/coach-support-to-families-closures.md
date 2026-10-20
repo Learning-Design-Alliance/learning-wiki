@@ -48,3 +48,6 @@ Survey of 148 edtech coaches (Figure 10) on family support: "more than 60 percen
 - [A majority of edtech coaches plan to provide deep coaching online if closures extend, expecting modeling, observation, and planning to change](deep-coaching-online-next-year-plans.md) — related
 - [During 2020 school closures, teachers and school/district leaders reached out to edtech coaches more than before, with teachers reaching out more](edtech-coaches-reached-out-more-during-closures.md) — related
 - [Studies in which students used familiar online-learning software reported positive achievement effects during school closures](covid-closures-positive-effects-online-software.md) — related
+- [Edtech coaches significantly supported administrators by providing teacher PD and implementing LMS tools during closures](coach-support-to-administrators-closures.md) — related
+- [Most edtech coaches stopped or reduced deep coaching during 2020 school closures to support more teachers](deep-coaching-reduced-during-closures.md) — related
+- [About one-third of edtech coaches felt unprepared at closure onset to support non-digital-instruction needs such as social-emotional support and equitable lessons](coach-readiness-gaps-nondigital-support.md) — related

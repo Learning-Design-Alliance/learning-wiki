@@ -45,3 +45,4 @@ Author interpretation of the visualization of the transition network conducted b
 ## Related Claims
 - [Dyad pairs with one member high in both social and cognitive CPS skills show more actions and higher frequency of action transitions than other pairs](high-social-cognitive-cps-pairs-more-action-transitions.md) — related
 - [Pairs with at least one member high in both social and cognitive CPS skills conducted more actions with more frequent and more dispersed action transitions than other pairs](high-social-cognitive-pairs-more-actions-and-transitions.md) — related
+- [Frequency-based content analysis shows little variation in how CPS was actualized across groups and tasks, with Problem Reanalysis the most frequent sub-element in both task designs](content-analysis-little-variation-problem-reanalysis-most-frequent.md) — related

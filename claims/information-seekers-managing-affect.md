@@ -44,4 +44,5 @@ Thematic analysis of open-ended question Q1 on negative feelings (n = 393, 61.31
 
 
 ## Related Claims
--
+- [A trusting, supportive teacher-student relationship emerged as a prominent motivator for acting on feedback, especially for Information Seekers with Low Emotional Strain](teacher-relationship-motivates-feedback-action.md) — related
+- [Latent class analysis of 641 higher education students' survey responses identifies four distinct classes of feedback experience](four-latent-classes-feedback-experiences.md) — a broader claim this one bears on

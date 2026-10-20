@@ -60,3 +60,4 @@ This is a genuine, well-instrumented quasi-experiment with interrater reliabilit
 - Coursemojo's color-coded engagement dots served as a real-time diagnostic that coaches reported enabled in-the-moment scaffolding and small group pulls — related
 - [Lessons highly rated for both the mathematics and access to mathematics used varied participation structures, but none of the 14 was also highly rated on agency, authority, and identity](participation-structures-access-challenging-math.md) — related
 - [The scaffolding intervention unintentionally increased small groups' independent working time, roughly doubling it from premeasurement to postmeasurement](scaffolding-intervention-increases-independent-working-time.md) — related
+- [Teachers who completed a scaffolding intervention program increased the contingency of their support far more than non-participating teachers](scaffolding-intervention-increases-teacher-contingency.md) — related

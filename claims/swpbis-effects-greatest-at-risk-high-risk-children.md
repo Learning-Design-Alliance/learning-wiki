@@ -51,3 +51,6 @@ Overall moderation finding from the 4-year group-randomized effectiveness trial 
 - [SWPBIS schools achieved and maintained high implementation fidelity during the trial](swpbis-training-high-fidelity-set.md) — related
 - [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related
 - [At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools](swpbis-reduces-special-education-referral-at-risk.md) — a narrower finding that bears on this claim
+- [SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](swpbis-improves-emotion-regulation.md) — related
+- [Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)](swpbis-reduces-grade-retention-skilled.md) — related
+- [Sex and special education status did not significantly moderate SWPBIS effects on teacher-rated bullying and peer rejection](swpbis-main-effects-robust-across-demographics.md) — related

@@ -70,3 +70,5 @@ Independent samples t-test comparing digital distraction between male and female
 - [Technical confidence using digital learning tools is positively associated with lower distraction levels among online learners](technical-competency-associated-lower-distraction.md) — related
 - [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](demographics-differentiate-genai-personas.md) — reports the opposite
 - [Perceptions of engagement strategies were analyzed for differences by age, gender, and online learning experience](demographic-differences-engagement-strategy-perceptions.md)
+- [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md) — related
+- [Self-reported SRL strategies vary by individual learner characteristics including demographics, prior experience, and motivations](srl-varies-by-individual-characteristics.md) — related

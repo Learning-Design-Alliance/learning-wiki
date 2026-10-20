@@ -45,3 +45,5 @@ Regional Kern County pilot analysis of local workforce data. Despite exponential
 ## Related Claims
 - Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages — related
 - [California lacks public data linking bilingual credential attainment to classroom assignments, creating a statewide blind spot on return on investment](ca-blind-spot-bla-assignment-retention-data.md) — related
+- [BCLAD-authorized educators are in low supply in California and their assignments are often misaligned with bilingual program demand](bclad-supply-low-and-misaligned-with-demand.md) — related
+- [California authorizes fewer than half the bilingual teachers it did at its mid-1990s peak, leaving it possibly unprepared for demand under Proposition 58](bilingual-teacher-supply-insufficient-prop58.md) — related

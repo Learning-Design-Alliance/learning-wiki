@@ -48,3 +48,6 @@ A quasi-experimental impact study conducted by WestEd compared Perry Street stud
 - [Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers](perry-street-teacher-retention-talent-reforms.md) — related
 - Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs — related
 - The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions — related
+- [Escaping a bottom-tier school raises four-year graduation rates, by 10 percentage points for top-tier schools and 3 for mid-tier schools](escaping-bottom-tier-schools-raises-graduation-rates.md) — related
+- [KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies](kipp-middle-schools-positive-significant-achievement-effects.md) — related
+- [The Uncommon Schools whole-school model, typically built from the earliest grades in new schools, produced substantial positive achievement effects when applied in a turnaround setting](uncommon-model-effective-turnaround-setting.md) — related

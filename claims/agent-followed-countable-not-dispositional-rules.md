@@ -46,3 +46,5 @@ Transcript audit of the deployed GPT-4o agent in the trial's Study 2, comparing 
 - [Monolithic single-prompt LLM architectures hinder responsible educational deployment by collapsing distinct pedagogical functions](monolithic-llm-architectures-hinder-responsible-educational-design.md) — related
 - [An explicit prompt instruction to challenge gently changed nothing: the agent challenged in about 1% of turns under both prompts](challenge-instruction-changed-nothing.md) — related
 - [The agent's praise was indiscriminate affirmation: validation followed about half of participant turns regardless of what the participant said](indiscriminate-affirmation-reflection-agent.md) — related
+- [State-of-the-art conversational agents (Blender and GPT-3) replied adequately to students but were well behind human performance in helping the student (reported from a dialogue study)](conversational-agents-behind-human-helping-students.md) — related
+- [Contrary to expectations, agent-led reflection sessions typically ended with participants sounding more certain of their plans than when they started](sessions-ended-more-certain.md) — related

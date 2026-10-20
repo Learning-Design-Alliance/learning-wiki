@@ -49,3 +49,5 @@ Final results of Mathematica's national randomized controlled evaluation of comp
 - [Comprehensive teacher induction did not measurably increase the percentage of teachers remaining in their district or in the profession compared to business-as-usual induction](comprehensive-induction-no-retention-gains-year-two.md) — related
 - [Comprehensive teacher induction did not measurably improve the qualifications of teachers who were retained compared to business-as-usual induction](comprehensive-induction-no-retained-teacher-qualification-gains.md) — related
 - [Comprehensive teacher induction produced no significant improvements in classroom practices in year 1](comprehensive-induction-no-classroom-practice-gains-first-year.md) — related
+- [Comprehensive teacher induction produced no measurable improvements whether delivered as a one-year or two-year program](induction-null-impacts-one-and-two-year-programs.md) — reports the opposite
+- [Mathematica is examining whether high-intensity teacher induction programs lead to higher retention rates and other positive teacher and student outcomes](high-intensity-teacher-induction-retention-outcomes-study.md) — related

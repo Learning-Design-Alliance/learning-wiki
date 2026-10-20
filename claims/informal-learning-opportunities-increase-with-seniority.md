@@ -47,3 +47,4 @@ Conclusion-level qualitative finding from the four-site study. The article state
 
 ## Related Claims
 - [A common learning pattern: workers first consult documentary sources, then nearby peers, then distant peers or more senior roles, then supervisors](escalating-source-sequence-workplace-queries.md) — related
+- [Workers in the studied workgroups tended to manage their learning needs to minimise their supervisors' involvement, with supervisors not the contacts of first resort for learning](supervisors-not-first-resort-for-workplace-learning.md) — related

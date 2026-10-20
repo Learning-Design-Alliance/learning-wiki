@@ -64,3 +64,5 @@ Survey-based IPW analysis of mid-tier versus bottom-tier attendees (safety n = 2
 ## Related Claims
 - [Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes](double-dose-algebra-increased-academic-demand-both-groups.md) — related
 - [Selective enrollment high schools improve student experiences but do not change academic outcomes, on average, compared with high-performing non-selective schools](selective-enrollment-experiences-not-academics.md) — related
+- [Attending a selective exam-entry high school yields no significant academic benefits and lowers 11th-grade GPA relative to observationally similar peers elsewhere](selective-schools-no-academic-benefit-lower-gpa.md) — related
+- [Top-tier nonselective schools improve college enrollment, persistence, and selectivity, while selective schools show no college advantage](top-tier-schools-improve-college-outcomes-selective-do-not.md) — related

@@ -70,3 +70,4 @@ Simulation by parental education: lower college attendance rates drive welfare l
 - [Learning losses were 40% larger than average among students in the two lowest parental-education categories](learning-loss-40-percent-larger-low-parental-education.md) — related
 - [Early childhood education programs often yield larger benefits for children most in need, such as low-income children, children of color, and those with fewer educational resources](ece-larger-benefits-children-most-in-need.md) — related
 - [Adverse impacts of school closures are most pronounced for younger school-age children, driven by self-productivity and dynamic complementarity in human capital production](younger-children-hurt-more-by-closures.md) — related
+- [The parental summer education gap is largely college-educated parents spending more time facilitating children's summer activities](college-parents-facilitate-summer-activities.md) — related

@@ -48,3 +48,4 @@ Operational evidence collected by the instructor during the Winter 2026 term in 
 - [Student perceptions of the autograder were mixed, with the LaTeX workflow rated more positively than the grader itself](mixed-student-perception-lata.md) — related
 - [Students reported first-pass false-positive deductions at a mean of 2.94 per term, normalising to about 0.6% of rubric items](student-reported-grading-errors-lata.md) — related
 - [Student-reported LaTeX time overhead fell about 46% across the term, from 87 to 47 minutes per assignment](latex-ramp-down-cost-reduction.md) — related
+- [A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time](ai-grading-workflow-feasibility-cost.md) — related

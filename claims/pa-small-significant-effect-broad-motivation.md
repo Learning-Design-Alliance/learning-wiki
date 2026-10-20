@@ -67,3 +67,5 @@ Moderator analysis within the broad-motivation 3LMA found facial expressions sig
 - [Pedagogical agents show essentially no effect on learners' intrinsic motivation (g = 0.00)](pa-no-effect-intrinsic-motivation.md) — related
 - [Pedagogical agents do not significantly affect learners' value beliefs (g = 0.09, non-significant)](pa-no-effect-value-beliefs.md) — a narrower finding that bears on this claim
 - [Pedagogical agents show a small-to-moderate but non-significant effect on learners' utility beliefs (g = 0.34, p = 0.05)](pa-non-significant-utility-beliefs.md) — a narrower finding that bears on this claim
+- [Pedagogical agents enhance learning compared with learning environments that do not feature agents](pedagogical-agents-enhance-learning.md) — related
+- [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) — related

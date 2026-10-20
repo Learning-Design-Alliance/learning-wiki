@@ -67,3 +67,4 @@ Follow-up multilevel analysis with grade estimate as the dependent variable, che
 - [Calibration accuracy improvements on French did not transfer to German and Math courses without the intervention, arguing against a maturation explanation](no-calibration-transfer-german-math.md) — related
 - [Bias scores did not improve over the school year, but school year level mattered: year 1 students became less overconfident while year 3 students improved their underconfidence](bias-no-change-year-level-effects.md) — related
 - [Students in the Reflection condition became more confident in their grade estimates over the school year, unlike students in the Practice and Grade comparison conditions](reflection-condition-increased-second-order-judgements.md) — related
+- [Incentives significantly improved calibration accuracy only among lower-achieving students in a college-course quasi-experiment](incentives-improve-calibration-lower-achievers.md) — related

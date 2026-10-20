@@ -46,3 +46,5 @@ Supplementary limitation-prevalence analysis (Supplementary Figure S2) by approa
 - Review automation has shifted toward LLM- and software-facing workflows and into review stages that can alter the evidence base — related
 - [Favorable assessments of LLM review workflows frequently coexist with reported unmet reliability or performance requirements](positive-assessments-coexist-with-unmet-reliability-requirements.md) — a narrower finding that bears on this claim
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
+- [Since 2023, software/product papers report markedly less evaluation detail than LLM papers in review automation](software-product-papers-report-less-evaluation-than-llm-papers.md) — related
+- [The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)](ai-id-limitation-content-reliability-transparency.md) — related

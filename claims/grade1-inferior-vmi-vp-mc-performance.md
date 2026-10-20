@@ -46,3 +46,5 @@ Comparative study of 50 students in five grade groups (10 each) assessed with th
 - [Acquisition of visual perception, motor coordination and visual-motor integration does not progress linearly across grades 1 to 5](nonlinear-grade-progression-visomotor-skills.md) — related
 - [No significant difference was found between grade groups in the classification distribution of VMI, VP and MC performance levels](no-group-difference-performance-classification.md) — reports the opposite
 - [Visual-motor integration was the lowest-scoring ability and motor coordination the best-performing ability in every grade group](vmi-lowest-mc-highest-all-groups.md) — related
+- [Dysgraphia classification differs significantly across grade groups, with 80% of 1st graders, 10% of 3rd graders and 60% of 5th graders classified with dysgraphia](dysgraphia-classification-varies-by-grade.md) — related
+- [Only in the 5th-grade group were moderate positive correlations found, between visual-motor integration and motor coordination (r = 0.748) and between visual perception and dysgraphia classification (r = 0.643)](grade5-correlations-vmi-mc-vp-dysgraphia.md) — related

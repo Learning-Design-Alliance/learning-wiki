@@ -47,3 +47,4 @@ Qualitative analysis (NVIVO-coded) of seven semi-structured interviews with lead
 - [Current district privacy and security approaches foster superficial compliance over rigorous safeguards and provide minimal visibility into how student data are used](privacy-compliance-over-rigorous-safeguards.md) — related
 - [SWOT in educational settings is typically applied superficially, episodically, and detached from improvement cycles](swot-applied-superficially-episodically-in-schools.md) — related
 - [University students in Communication and Education programs show low familiarity with media literacy, media education, and educommunication terms](students-low-familiarity-media-literacy-terms.md) — related
+- [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related

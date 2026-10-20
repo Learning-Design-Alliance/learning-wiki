@@ -45,3 +45,5 @@ Multi-group model-fit comparisons for the two socioemotional outcomes in ECLS-K.
 ## Related Claims
 - [Having more same-racial/ethnic school peers predicts fewer externalizing behaviors and stronger interpersonal skills in kindergarten, independent of school diversity](same-ethnic-peers-predict-socioemotional-adjustment.md) — a narrower finding that bears on this claim
 - [School racial/ethnic diversity and same-racial/ethnic peer proportion jointly predict higher reading achievement in kindergarten, with matching benefits concentrated in more diverse schools](school-diversity-matching-jointly-predict-reading-achievement.md) — related
+- [School racial/ethnic composition effects on kindergarten outcomes are about half the size of parent education effects but non-negligible](composition-effects-half-parent-education-size.md) — related
+- [Diversity and matching associations with kindergarten achievement vary by child race/ethnicity, with academic benefits concentrated among White students](composition-achievement-benefits-concentrated-white-students.md) — related

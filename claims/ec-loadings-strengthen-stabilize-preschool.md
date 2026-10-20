@@ -50,3 +50,5 @@ Longitudinal metric invariance analysis combining all four age-point models (ove
 - A unitary EC factor is preferred over separate working memory and inhibitory control factors at age 5.25 even after accounting for processing speed and language — related
 - The four effortful control subscales load onto a single latent factor in preschoolers — related
 - [EF and ToM each show substantial longitudinal stability from 3 to 5 years](ef-tom-longitudinal-stability.md) — related
+- [In a meta-analytic database of ten studies, the latent EF factor model was preferred in seven samples, with two favoring the components model and one equal](meta-analytic-replication-latent-ef-model.md) — related
+- [Language proficiency predicts residual variance in executive performance not explained by processing speed at all preschool age points](language-predicts-executive-residual-variance.md) — related

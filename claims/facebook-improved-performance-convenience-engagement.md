@@ -47,3 +47,4 @@ Narrative literature review synthesising studies of Facebook as an educational i
 - [Facebook usage in higher education carries potential problems ranging from educators' dominance to privacy concerns](facebook-educator-dominance-privacy-concerns.md) — related
 - [Facebook is used in myriad ways as an educational instrument for learning and teaching in higher education](facebook-myriad-educational-uses-higher-education.md) — related
 - [Social media usage in higher education continues to grow, and future empirical research on its educational role is warranted](social-media-growth-future-empirical-research-warranted.md) — related
+- [Students were generally opposed to tutors contacting them via Facebook for formal teaching, though a majority saw some role for departmental and module-level administrative uses.](student-opposition-tutor-facebook-contact.md) — related

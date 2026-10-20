@@ -47,3 +47,5 @@ WWC synthesis of the same two studies for literacy outcomes, based on 3,245 stud
 - [Brandt et al. (2013) finds a statistically significant positive effect of eMINTS on seventh- and eighth-grade mathematics achievement](brandt-2013-significant-math-effect.md) — related
 - [I CAN Learn® has no discernible effects on the mathematics test scores of eighth-grade students in primary mathematics courses](ican-learn-no-discernible-effects-eighth-grade-math.md) — related
 - [CTE course-taking generally has little or no effect on academic achievement, but math-enhanced CTE lessons significantly improved standardized math performance](math-enhanced-cte-lessons-math-gains.md) — related
+- [eMINTS has potentially positive effects on general mathematics achievement (improvement index +2 across two studies)](emints-potentially-positive-math-achievement.md) — related
+- [Both included studies report high-fidelity implementation of eMINTS](emints-high-fidelity-implementation.md) — related

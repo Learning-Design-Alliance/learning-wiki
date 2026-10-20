@@ -50,3 +50,4 @@ Explanatory-power analysis in the structural model evaluation section reports R2
 - [Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior](hedonic-motivation-habit-strongest-intention-predictors.md) — reports the opposite
 - [An emotional connection to nature, rather than conservation knowledge, is a powerful predictor of children's conservation behavior](emotional-connection-predicts-conservation-behavior.md) — related
 - [Only about a third of K‑5 writing‑motivation studies explicitly referred to motivation theory to justify the design or choice of their motivation measure](weak-theoretical-rationale-motivation-measures.md) — related
+- [Facilitating conditions showed an asymmetric pattern: no significant effect on behavioral intention but a significant positive effect on use behavior](facilitating-conditions-asymmetric-intention-use.md) — related

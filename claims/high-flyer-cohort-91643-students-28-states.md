@@ -43,4 +43,4 @@ The study's printed scale: the middle school/high school cohort "consisted of 91
 
 
 ## Related Claims
--
+- [About three in five students identified as high-achieving in the first year remained high-achieving in the last year of the study](three-in-five-high-achievers-remain-high-achieving.md) — related

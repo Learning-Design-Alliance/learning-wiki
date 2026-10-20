@@ -46,3 +46,4 @@ Moderator analysis of the meta-analytic dataset by STEM discipline, reported for
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](class-size-level-discipline-not-significant-moderators.md) — related
 - [Active learning benefits students in all class sizes, with the greatest effects in classes of 50 or fewer students](active-learning-strongest-small-classes.md) — related
+- [The active-learning advantage is robust to publication bias and to variation in methodological rigor of the included studies](active-learning-effect-robust-bias-and-rigor.md) — related

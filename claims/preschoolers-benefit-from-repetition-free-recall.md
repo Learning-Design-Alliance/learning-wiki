@@ -47,3 +47,5 @@ Planned comparisons in Experiment 2 (18 nursery-school children, within-subjects
 - [Preschoolers' recall of repeated items exceeds the maximum predicted by encoding variability theories assuming independent encodings](preschoolers-recall-exceeds-encoding-variability-prediction.md) — a narrower finding that bears on this claim
 - [Learners accurately judge that twice-presented items are more likely to be recalled than once-presented items](accurate-jol-repetition-benefit.md) — related
 - [A rehearsal-based deficient-processing account cannot explain the developmental emergence of the spacing effect](rehearsal-account-inconsistent-with-developmental-spacing-pattern.md) — related
+- [First-grade children show the typical spacing effect in free recall with the same picture procedures](first-graders-spacing-effect-free-recall.md) — related
+- [Grade level and repetition spacing interact significantly in children's free recall](grade-by-spacing-interaction-free-recall.md) — related

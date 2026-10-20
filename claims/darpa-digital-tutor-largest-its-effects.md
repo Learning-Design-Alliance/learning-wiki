@@ -45,3 +45,5 @@ Two summative field evaluations compared end-of-course test scores from Digital 
 ## Related Claims
 - [ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)](test-type-moderates-its-effects.md) — related
 - [Intelligent tutoring raised test scores by a median of 0.66 standard deviations over conventional instruction across 50 controlled evaluations](its-meta-analysis-median-es-066-sd.md) — a broader claim this one bears on
+- [ITS groups outperformed conventional-instruction controls in 92% of the 50 evaluations, with gains above 0.25 SD in 78%](its-beat-controls-in-92-percent-of-evaluations.md) — related
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on

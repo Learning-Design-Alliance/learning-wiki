@@ -50,3 +50,4 @@ The review reports, citing Starr-Egger (2023), an operational analysis of online
 - [Oral assessments can induce more anxiety than written ones, yet many students still prefer them](oral-assessments-anxiety-but-preferred.md)
 - [Preparing for oral assessments changes student study habits toward understanding over memorization](oral-assessments-change-study-habits.md)
 - [Students performed better on oral measures than written measures in comparison studies](students-perform-better-oral-than-written.md)
+- [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related

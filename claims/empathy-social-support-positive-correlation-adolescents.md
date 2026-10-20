@@ -48,3 +48,4 @@ Pearson correlation analysis in the same 1171-adolescent survey. The article rep
 - [Social support is significantly positively correlated with adolescents' prosocial behavior (r = 0.206)](social-support-prosocial-behavior-positive-correlation.md)
 - [Objective support was not significantly correlated with utilization of support or prosocial behavior](objective-support-null-correlation-prosocial.md) — related
 - [Only the subjective (perceived) support dimension of social support mediates empathy and prosocial behavior](subjective-support-dimension-mediation.md) — related
+- [Social support partially mediates the relationship between empathy and prosocial behavior](social-support-partial-mediator-empathy-prosocial.md) — related

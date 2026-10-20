@@ -46,3 +46,4 @@ Model-predicted percent-correct values from the mixed-model logistic regression 
 - [The ability to identify basic emotions from non-linguistic vocal bursts improves significantly with age from 5 to 17 years](vocal-emotion-recognition-improves-age-5-17.md) — a broader claim this one bears on
 - [Children's average vocal emotion recognition performance is significantly below the adult group's average](children-adolescent-below-adult-vocal-emotion-accuracy.md) — related
 - [Testing procedure (individual computer with headphones vs small-group loudspeaker with paper response) does not affect vocal emotion recognition performance or the developmental trajectory](testing-procedure-no-effect-vocal-emotion.md) — related
+- [Happiness is the easiest vocal emotion to recognize and anger the hardest, with anger and fear showing the greatest age-related improvement](emotion-specific-vocal-recognition-differences.md) — related

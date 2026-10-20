@@ -51,3 +51,7 @@ Randomized experiment with 122 second-year Dutch secondary students assigned to 
 - [Studying instructional and video modeling examples improved heredity problem-solving performance and self-assessment accuracy from pretest to posttest](video-modeling-pretest-posttest-gains.md) — related
 - [Training learners with an effort-and-performance algorithm via video modeling improved monitoring accuracy, task selection accuracy, and learning outcomes](effort-performance-algorithm-training-improves-task-selection.md) — a narrower finding that bears on this claim
 - [General problem-solving heuristics used in controlled conscious problem solving are biologically secondary skills requiring explicit learning](secondary-heuristics-require-explicit-learning.md) — related
+- [Heuristic task-selection training is not more effective for transfer than algorithmic training](heuristic-not-superior-to-algorithmic-transfer.md) — related
+- [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — a broader claim this one bears on
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — a broader claim this one bears on
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related

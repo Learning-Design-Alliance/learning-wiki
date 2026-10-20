@@ -52,3 +52,4 @@ Pearson correlations in the 147-student sample (Table 2). For uncertainty tolera
 - [Openness protects against well-being decline only when emotional stability is average or high](openness-protects-only-with-emotional-stability.md) — related
 - [Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems](distress-tolerance-uncertainty-intolerance-associations.md) — related
 - [Conscientiousness exploratorily moderated the effect of ITS condition on subjective difficulty and enjoyment](conscientiousness-moderates-difficulty-enjoyment-adaptive-its.md) — related
+- [Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability](extraversion-protective-wellbeing-wartime.md) — related

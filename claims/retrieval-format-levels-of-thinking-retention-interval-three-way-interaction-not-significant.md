@@ -51,3 +51,5 @@ Classroom experiment with 100 first-year Cognitive Psychology undergraduates in 
 - [Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks](retrieval-practice-reading-comprehension-no-significant-retention-interval-difference.md) — related
 - [After retrieval practice, undergraduates score significantly higher on lower-order thinking questions than on higher-order thinking questions about a studied passage](retrieval-practice-lower-order-questions-outscore-higher-order-questions.md) — related
 - [Information retrieval questions were consistently easier than comprehension questions across both visualisation formats](retrieval-easier-than-comprehension-questions.md) — related
+- [The training-by-content interaction did not vary with retention interval duration in the human experiment](no-training-retention-interval-interaction.md) — related
+- [Co-occurring motivational and comprehension-related problems did not produce the hypothesized highest combined strategy frequencies](simultaneous-problems-three-way-interaction-not-significant.md) — related

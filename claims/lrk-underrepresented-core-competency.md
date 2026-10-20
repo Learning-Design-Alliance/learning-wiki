@@ -47,3 +47,6 @@ Finding from the integrative literature review's thematic coding (Table 1). The 
 - [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related
 - [The EU and China have adopted the most comprehensive AI regulations, each covering four of the five OECD classification dimensions](eu-china-most-comprehensive-ai-regulations-oecd.md) — related
 - Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster — related
+- [Agency, information, linking, and meta-discourse dimensions appeared infrequently in the dataset despite their theoretical importance](agency-information-linking-meta-discourse-infrequent.md) — related
+- [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related
+- [The EU AI Act's ban on emotion recognition in education restricts an area of potential application for learning analytics](eu-emotion-recognition-ban-limits-la-applications.md) — related

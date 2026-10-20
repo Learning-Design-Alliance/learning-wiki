@@ -43,4 +43,7 @@ Descriptive finding from the single online correlational study of 128 healthy vo
 
 
 ## Related Claims
--
+- [Online (versus offline) measures of metacognition are associated with larger metacognition–math effect sizes](online-mc-measures-larger-effects.md) — related
+- [The choice of online versus offline measures of SRL moderates the strength of the relationship between SRL processes and achievement](measure-type-moderates-srl-achievement-relation.md) — related
+- [The combination of online metacognition measures with complex math assessments is associated with the largest effect sizes](online-complex-combination-largest-effects.md) — related
+- [Heterogeneity between studies of the metacognition–math association is significant and remains high in all moderator analyses](metacognition-math-heterogeneity-high.md) — related

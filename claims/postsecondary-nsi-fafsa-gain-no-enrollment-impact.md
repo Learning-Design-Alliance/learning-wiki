@@ -113,3 +113,4 @@ Same quasi-experimental comparison. Despite FAFSA gains, the NSI "did not increa
 - [Find the Fit did not affect the share of students completing the FAFSA early](find-the-fit-no-effect-early-fafsa-completion.md) — related
 - The delayed, error-filled 2024-25 FAFSA rollout cut national completion rates nearly 40% below the prior cycle by late March 2024, with larger declines at high schools with more students of color and low-income students — related
 - Direct admissions policies paired with FAFSA requirements are associated with increased in-state college enrollment, as in Idaho's Campus Choice program — related
+- [State accountability systems that rank schools on FAFSA completion are perceived to penalize schools whose students pursue non-college pathways](fafsa-ranking-penalizes-noncollege-pathways.md) — related

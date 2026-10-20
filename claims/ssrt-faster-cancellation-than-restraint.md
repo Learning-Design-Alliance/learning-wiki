@@ -43,4 +43,7 @@ Repeated measures ANOVA comparing SSRT across the cancellation and restraint ver
 
 
 ## Related Claims
--
+- [Adolescents showed faster, more accurate, and less variable performance than children, with reward effects on inhibition accuracy differing by age](age-differences-in-inhibition-and-reward-response.md) — related
+- [Reward improves the speed of inhibitory control (SSRT) in both cancellation and restraint tasks in children and adolescents](reward-improves-ssrt-cancellation-and-restraint.md) — related
+- [Reward does not alter the speed or variability of response execution in either stop signal task](reward-does-not-alter-response-execution.md) — related
+- [Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age](reactive-inhibition-improves-age-8-11.md) — related

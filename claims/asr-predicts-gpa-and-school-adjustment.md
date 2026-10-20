@@ -52,3 +52,5 @@ In the cross-lagged SEM predicting 9th-grade outcomes from 8th-grade predictors,
 - [Family climate and school attachment exert reciprocal positive influences on each other over the middle school years](family-climate-school-attachment-reciprocal-influences.md) — related
 - [School attachment predicts later school adjustment but not GPA; family climate shows only a marginal association with school adjustment and none with GPA](school-attachment-family-climate-school-adjustment-not-gpa.md) — related
 - [School attachment unidirectionally predicts increases in academic self-regulation over the middle school years](school-attachment-promotes-academic-self-regulation.md) — related
+- [Early prosocial behavior predicted later academic achievement more strongly than early academic skills](prosocial-behavior-predicts-achievement.md) — related
+- [Positive family climate consistently predicts increases in adolescent academic self-regulation, with unidirectional effects](family-climate-promotes-academic-self-regulation.md) — related

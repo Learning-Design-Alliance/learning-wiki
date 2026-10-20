@@ -47,3 +47,5 @@ Integrative literature review (qualitative, not systematic) synthesizing commogn
 - [Review reports TAs sharing the same agenda provided different meta-level learning opportunities through object-level adaptations](ta-agenda-object-meta-level-opportunities.md) — a narrower finding that bears on this claim
 - [Review reports lecturers' discourse contains endorsed and enacted meta-rules about doing mathematics that can model mathematical behavior](lecturer-meta-rules-endorsed-and-enacted.md) — a narrower finding that bears on this claim
 - [Review reports students did not recognize the key points an exemplary lecturer presented in a proof](students-did-not-recognize-lecture-proof-key-points.md) — a narrower finding that bears on this claim
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
+- [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related

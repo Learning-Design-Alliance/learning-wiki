@@ -50,3 +50,5 @@ Comparison of marginal reliability and mean SEM of Winter 2020 RIT scores by gra
 - [Marginal reliabilities for Spanish MAP Growth Reading are in the 0.90s across all grades](spanish-map-reading-marginal-reliability-090s.md) — related
 - [Fall 2020 MAP Growth tests showed high levels of marginal reliability across all grades in both remote and in-person administration](map-growth-fall-2020-high-marginal-reliability.md) — related
 - [Findings of reliability, engagement, and consistent score trends increase confidence in the quality of remotely administered MAP Growth data in grades 3 and up](remote-map-growth-data-quality-confidence-grades-3-up.md) — related
+- [CBE shows better engine adaptivity than COLO, especially for extremely low or high achievement students](cbe-better-adaptivity-extreme-achievers.md) — related
+- [Growth-score differences between CBE and COLO are small, exceeding 0.2 only in Reading Grades K–1 (favoring CBE) and Mathematics Grade 8 (favoring COLO)](map-growth-cbe-colo-growth-effect-sizes-small.md) — related

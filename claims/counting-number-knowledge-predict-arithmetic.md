@@ -51,3 +51,6 @@ In the final longitudinal path model, counting and number knowledge at t2 predic
 - [Procedural and conceptual counting knowledge each predict kindergarten arithmetic, together explaining about 25% of variance](procedural-conceptual-counting-predict-kindergarten-arithmetic.md) — related
 - [Children at family-risk of dyslexia perform more poorly than typically developing controls on the cognitive foundations of arithmetic and on arithmetic itself](family-risk-dyslexia-poorer-arithmetic-foundations.md) — related
 - [The same cognitive processes account for variability in arithmetic skills in children at family-risk of dyslexia and typically developing controls](same-cognitive-processes-arithmetic-fr-td.md) — related
+- [Kindergarten phonological awareness explains about 34% of the variance in basic numerical skills (QNC Level I) one year later](phonological-awareness-predicts-qnc-level-i.md) — related
+- [Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample](numeracy-measurable-54-months-three-competencies.md) — related
+- [Executive skills, but not nonverbal IQ, at age 3–4 predict preschool counting and number knowledge](executive-skills-not-nonverbal-iq-predict-number-skills.md) — related

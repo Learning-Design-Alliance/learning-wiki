@@ -48,3 +48,6 @@ Comparison of leadership moves by task (math or history) and condition (multi-to
 - [Some groups had an intellectual leader without an organizational leader, but no group had an organizational leader without an intellectual leader](intellectual-leader-without-organizational-leader.md)
 - [Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader](leadership-moves-distributed-among-group-members.md)
 - [A collaboration kit with joint and private multi-touch table spaces outperformed comparison groups, showing less biased communication and more collaborative processes.](multi-touch-collaboration-kit-reduced-discussion-bias.md)
+- [Leadership in collaborative learning is an interactional group phenomenon requiring bids to be taken up](leadership-interactional-group-phenomenon.md) — a broader claim this one bears on
+- [Without assigned roles, all group members generally participate in many core dimensions of group leadership, which emerges as an interactive group phenomenon](distributed-leadership-emergent-group-phenomenon.md) — related
+- [Patterns of emergent leadership differed across disciplinary content areas, with some students leading in math but not history](leadership-patterns-vary-across-content-areas.md) — related

@@ -50,3 +50,5 @@ Validity analysis of the measurement model in the 533-student sample; Table 7 re
 - Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets — related
 - [Cross-sectional studies associate dependence-oriented conversational-AI scores with fatigue, lower critical thinking, procrastination, cognitive failures, and poorer well-being](cross-sectional-dependence-scores-correlate-fatigue-critical-thinking-wellbeing.md) — related
 - Critical thinking is rarely defined in HCI research about AI, with fundamental construct and criterion validity challenges — related
+- [Authorship captures a more distinct aspect of artistic evaluation than other performance dimensions](authorship-distinct-performance-dimension.md) — related
+- [The survey instrument's nine constructs show convergent and discriminant validity in this sample](genai-motivation-survey-measurement-validity.md) — related

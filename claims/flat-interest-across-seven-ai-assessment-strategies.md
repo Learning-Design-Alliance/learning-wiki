@@ -46,3 +46,4 @@ Registration data from the 28 July 2026 workshop: of 118 registrants, interest d
 - [Oral and explanation-based evaluation of AI-leveraged projects is complicated because students may break down on counterfactual questions even when they did the work](counterfactual-breakdown-complicates-oral-evaluation.md) — related
 - [GenAI-era ICT assessment reform requires a whole-of-institution transformation across seven sequential themes](genai-assessment-reform-sequential-seven-themes.md) — related
 - [Existing GenAI assessment frameworks (traffic light, two-lane, AIAS) remain broad, lack discipline-specific applicability, and are unvalidated in authentic settings](existing-genai-frameworks-lack-discipline-specificity.md) — related
+- [Educator-focused digital literacy frameworks prioritize pedagogy, empowering learners, and curriculum and assessment, with more evenly distributed categories](educator-frameworks-pedagogy-and-systemic-capacities.md) — related

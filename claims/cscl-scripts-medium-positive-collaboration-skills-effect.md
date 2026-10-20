@@ -48,3 +48,5 @@ Random-effects meta-analysis of 41 collaboration-skill effects (23 independent) 
 - [Learning with CSCL scripts yields a large positive effect on collaboration skills compared to unstructured CSCL](cscl-scripts-large-effect-collaboration-skills.md) — related
 - [CSCL collaboration scripts substantially improve domain-specific and collaborative-skill outcomes compared with unstructured CSCL](cscl-scripts-improve-learning-outcomes.md) — a broader claim this one bears on
 - [CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning](cscl-scripts-small-positive-domain-learning-effect.md) — related
+- [The editorial reports that CSCL scripts show positive effects on domain learning and collaboration process skills, and that scaffolding single versus combinations of collaborative activities affects script impact](cscl-scripts-positive-learning-collaboration-skills.md) — a broader claim this one bears on
+- [The effect of CSCL scripts on collaboration skills is significantly greater than their effect on domain-specific knowledge](cscl-scripts-effect-larger-for-skills-than-knowledge.md) — related

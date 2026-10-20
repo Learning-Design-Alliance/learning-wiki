@@ -44,3 +44,6 @@ Interviews with Merlyn Mind staff (Evan Lock and Zach Rutta) reported in the Imp
 - [All six Practitioner Advisory Board members reported that engaging with Merlyn Mind was a valuable use of their time and that their feedback was taken seriously](pab-engagement-mutually-valued.md) — related
 - [Limited device access and a six-month engagement constrained some Board members' contributions, with one member reporting expectations were not met](pab-device-access-limitations.md) — related
 - [OBCs drove increased edtech implementation rates, boosted by provider implementation support, despite challenges including buy-in, staff workload, unclear terms, leadership turnover, and time constraints.](obc-increased-implementation-rates.md) — related
+- [Practitioner Advisory Board members reported learning more about AI and related edtech through their engagement](practitioners-learned-about-ai.md) — related
+- [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [Providers gained super users of their products and learnings for product design and effective implementation support through OBC engagement.](obc-provider-super-users-product-learning.md) — related

@@ -45,3 +45,4 @@ Narrative literature-review statement in the article's review section. The artic
 ## Related Claims
 - [Reading and listening comprehension are not unitary: both consist of similar and different subskills](rc-lc-not-unitary-similar-and-different-subskills.md) — related
 - [Cross-comparing theory, nine proficiency tests, and 25 coursebook tasks yields ten subskills shared between reading and listening, seven exclusive to reading, and four exclusive to listening](ten-common-seven-reading-four-listening-subskills.md) — a narrower finding that bears on this claim
+- [Major 21st century skills frameworks are largely consistent, adding to P21 either highlighted subskills or areas underemphasized in its categories](frameworks-consistent-two-addition-types.md) — related

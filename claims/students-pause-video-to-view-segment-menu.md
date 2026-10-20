@@ -47,3 +47,7 @@ Observational report from classroom use of the video sequencer interface, in the
 - [Students are more attentive to the teacher's model track when they hear their own recording first](student-recording-first-increases-attention-to-model.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
+- [Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video](segmenting-supports-video-engagement-learning.md) — related
+- [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related
+- [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related
+- [Providing strategy guidance leads learners to pause and scroll back on the video timeline more often than unguided learner control](strategy-guidance-increases-pauses-and-scrollbacks.md) — related

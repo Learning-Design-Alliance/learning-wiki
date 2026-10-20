@@ -53,3 +53,4 @@ Finding from the report's analyses of school-level supports, using three-level h
 - Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader — related
 - [The LEAD Partnership delivers professional development on play-based learning and high-quality teacher-student interactions to school leaders and preK and kindergarten teachers](lead-pd-play-based-learning-high-quality-interactions.md) — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related
+- [Professional development frequency shows no significant relationship to didactic teaching, while quality and basic-skills content do](pd-frequency-null-didactic-quality-content-positive.md) — related

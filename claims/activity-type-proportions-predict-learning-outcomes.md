@@ -62,4 +62,7 @@ Multilevel Model 2 for metacognitive knowledge (N=54): % my off-task activities 
 
 
 ## Related Claims
--
+- [Metacognitive activities mediate the effects of metacognitive scaffolds on both domain and metacognitive knowledge](metacognitive-activities-mediate-scaffolding-effects.md) — related
+- [Both structuring and problematizing avatar scaffolds raise elementary students' metacognitive knowledge relative to no scaffolding](avatar-metacognitive-scaffolds-raise-metacognitive-knowledge.md) — related
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related

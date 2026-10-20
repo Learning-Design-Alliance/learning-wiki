@@ -48,3 +48,4 @@ Theoretical argument in the article's conclusion: tracing connectivism's genealo
 - [Hypertextuality extends intertextuality into the digital world, foreshadowing connectivism](hypertextuality-digitizes-intertextuality.md) — related
 - [Language and dialogue operationalize the networking capacities that connectivism values](language-operationalizes-network-learning.md) — related
 - [The authors argue that constructivists talking about constructivist learning environments is not necessarily a paradox](no-paradox-constructivist-learning-environments.md) — related
+- [Collingwood's ideas about how historical knowledge is produced offer teachers sound reasons for using constructivist approaches in their classrooms](collingwood-supports-constructivist-history-teaching.md) — related

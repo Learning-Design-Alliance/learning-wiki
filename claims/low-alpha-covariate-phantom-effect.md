@@ -44,3 +44,5 @@ Analytical derivation for a multiple regression where only the covariate is erro
 
 ## Related Claims
 - [A low alpha for the dependent variable leaves the unstandardized regression coefficient unbiased but attenuates the standardized coefficient and reduces statistical power](low-alpha-dependent-variable-bias-and-power.md) — related
+- [Student growth modeling and teacher value-added modeling are complex due to non-random assignment, measurement error, multidimensionality, and covariates](growth-value-added-modeling-complexity-sources.md) — related
+- [In simulation, ignoring local dependence overestimates reliability, and the overestimation grows with the size of the testlet effect (17.0%-21.8% decrease under the larger testlet effect vs. 4.8%-7.4% under the small)](ignored-local-dependence-overestimates-reliability-simulation.md) — related

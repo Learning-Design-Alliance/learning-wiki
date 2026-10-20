@@ -67,3 +67,5 @@ Sub-finding under the Outcomes and Results section; the report also states OBCs 
 - [Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience](coherence-alignment-student-experience-supports.md) — related
 - [A district case study identifies practices and conditions of a coherent instructional system for reading and science improvement and where it had the most impact](coherent-instructional-system-case-study-impact.md) — related
 - [Consolidating edtech tools enabled DPS to pursue vendor partnerships that systematically compare app usage with student data to evaluate tool effectiveness](dps-consolidation-enables-impact-analysis.md) — related
+- [Without clear quality signals, district boards default to the lowest bid when comparing edtech products](lowest-bid-default-without-quality-signals.md) — related
+- [Cohort purchasing through consolidated edtech procurement produced savings of nearly $200,000 and roughly 50 percent per-license discounts in Denver Public Schools](dps-cohort-purchasing-savings-200000.md) — a narrower finding that bears on this claim

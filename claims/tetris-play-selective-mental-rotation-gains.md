@@ -44,3 +44,7 @@ Cognitive consequences study from the author's lab comparing pretest-to-posttest
 
 ## Related Claims
 - [The spatial curriculum produced near transfer to improved spatial scanning and increased self-reported spatial habits of mind, but not to mental rotation](spatial-curriculum-near-transfer-scanning-habits.md) — related
+- [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — a broader claim this one bears on
+- [Effects of two-dimensional mental rotation training on children's mathematics performance are mixed, with significant correlations between rotation and mathematics measures](2d-rotation-training-math-effects-mixed.md) — related
+- [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — related
+- [Tetris cognitive gains mostly appear on tests resembling the game itself, with training studies finding no gains on general cognitive tasks](tetris-gains-test-resemblance-only.md) — related

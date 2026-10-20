@@ -47,3 +47,4 @@ Ablation study (Table 2, F1-score) on UCD, LectureBank, and MOOC. Multi-hop prop
 - [ProPRL ranks first across all nine dataset–metric combinations on three prerequisite relation benchmarks, with relative improvements from 1.96% to 6.11% over the strongest baseline](proprl-state-of-the-art-prerequisite-relation-learning.md) — related
 - Removing any single REC-CBM component degrades task accuracy on at least two of three datasets, with RACE removal most damaging — related
 - Removing unsupervised pre-training hurts performance across all tasks, causing a 14.8% decrease relative to the full model — related
+- [Removing the cognitive load module causes the largest ablation performance drop, while state fusion has a smaller effect](cognitive-load-module-largest-ablation-drop.md) — related

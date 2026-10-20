@@ -45,3 +45,10 @@ The article's abstract states this as the opening premise of the paper, a concep
 ## Related Claims
 
 - [New technologies excite creative pedagogical ideas but are rarely designed with teaching and learning in mind](new-technologies-rarely-designed-for-teaching-learning.md)
+- [Well-defined tasks and accessible materials support shared creative influence in group work](well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) — related
+- [Role-based information asymmetry with infrared beaming encourages cross-team information exchange and collaborative discussion](role-asymmetry-beaming-promotes-cross-team-exchange.md) — related
+- [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
+- [The prototyping exercise promoted exchange of ideas for HLC development and enhanced a shared image of the HLC among team members](prototyping-exercise-promotes-idea-exchange-shared-image.md) — related
+- [More persistent information is exchanged through the more persistent medium: the whiteboard acts as a shared memory rather than a grounding tool](persistence-more-persistent-info-more-persistent-medium.md) — related
+- [Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions](trust-and-social-dynamics-shape-dialogic-effectiveness.md) — related
+- [Sharing a projected display with multiple mice produced significant collaborative-learning gains for a whole classroom](multiple-mice-shared-display-collaborative-gains.md) — a narrower finding that bears on this claim

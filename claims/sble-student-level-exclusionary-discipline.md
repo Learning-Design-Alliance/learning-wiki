@@ -45,3 +45,7 @@ Meta-analytic synthesis of four student-level studies of SBLE and crime/behavior
 ## Related Claims
 - [SBLE presence is associated with higher levels of school crime and behavior incidents, driven by increased exclusionary discipline, in school-level analyses](sble-associated-higher-crime-behavior-school-level.md) — related
 - [SBLE shows no statistically significant association with criminal justice contact, violence, substance-related, or weapon-related outcomes](sble-no-effect-crime-subcategories.md) — related
+- [SBLE is associated with higher exclusionary discipline rates, with no detectable improvements to school crime or violence](sble-increases-exclusionary-discipline.md) — possibly the same claim (merge candidate)
+- [Student-level analyses find no statistically significant association between SBLE and crime or behavior outcomes, from only four reports](sble-student-level-crime-behavior-null.md) — related
+- [School-based law enforcement use is associated with greater crime and behavior problems in studies using schools as the unit of analysis](sble-associated-greater-school-level-crime-behavior-problems.md) — related
+- [SBLE presence is unrelated to learning outcomes including achievement, proficiency, and attendance](sble-unrelated-learning-outcomes.md) — related

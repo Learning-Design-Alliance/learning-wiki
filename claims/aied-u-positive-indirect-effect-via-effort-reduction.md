@@ -48,3 +48,4 @@ Robust mediation analysis tested whether the experimental condition (relative to
 - [Teacher perceived workload was negatively associated with student learning gains, especially for Mental Demand and Effort](teacher-workload-negatively-associated-learning-gains.md) — related
 - [AI-supported co-produced feedback achieved comparable quality and statistically significant learning gains with reduced production time and workload](coproduced-feedback-comparable-quality-gains.md) — related
 - [The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX](ai-robot-condition-lower-workload.md) — related
+- [With the alerting & guiding dashboard, teachers' workload dropped most on the performance and frustration subscales, while cognitive load, temporal demand and effort differences were non-significant](guiding-dashboard-performance-frustration-subscales-drop.md) — related

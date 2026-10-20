@@ -48,3 +48,5 @@ The article's authorial assertion about the OSP approach in Singapore practice, 
 - [Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands; reflective after-school labs helped dispel the pessimism, and teachers judged the process worthwhile despite the strain.](teacher-researcher-difficulties-eased-by-reflective-labs.md) — related
 - Teachers face many barriers to integrating CT, but training can help — a narrower finding that bears on this claim
 - [A preliminary iPad case study confirmed the creative potential of the elderly and tablets' potential to overcome ICT adoption challenges](ipad-case-study-elderly-creative-collaboration.md) — related
+- [GenAI can help students overcome contextual constraints when eliciting feedback](genai-overcomes-eliciting-constraints.md) — related
+- [Older adults manifest more than twice as many user difficulties as younger users in ICT contexts](older-adults-twice-user-difficulties-ict.md) — related

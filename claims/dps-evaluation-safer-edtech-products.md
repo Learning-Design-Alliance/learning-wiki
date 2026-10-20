@@ -49,3 +49,5 @@ Qualitative case-study finding from interviews with district staff and leaders d
 - [Seven state AI guidance documents share seven major themes, including human-centered use, AI literacy, equity, and data privacy, though not all themes appear in all documents](seven-state-ai-guidance-seven-common-themes.md) — related
 - [Denver Public Schools' cross-functional AI-edtech review cut its edtech portfolio from over 1,000 tools to fewer than 350 while saving millions of dollars](denver-cross-functional-review-shrunk-edtech-portfolio.md) — related
 - [EdTech organizations delegate privacy responsibility to cloud providers, policy documents, and downstream institutions, diffusing accountability](edtech-privacy-responsibility-delegated-diffused.md) — related
+- [EdTech organizations recognize privacy as important but consistently defer it across the product lifecycle](edtech-privacy-deferred-across-product-lifecycle.md) — related
+- [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — related

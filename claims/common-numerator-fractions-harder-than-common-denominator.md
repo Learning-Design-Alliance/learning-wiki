@@ -47,3 +47,4 @@ A mixed-design ANOVA comparing prime RTs (common numerator) and control probe RT
 - [Participants committed more errors on common-numerator prime items than on denominator-numerator control prime items](common-numerator-prime-higher-error-rate.md) — related
 - [Adolescents and educated adults require more time to compare common-denominator fractions after a common-numerator prime than after a control prime (negative priming effect)](negative-priming-fraction-comparison-inhibition.md) — related
 - [Participants required less time to solve common-numerator items containing an improper fraction than items without improper fractions](improper-fraction-facilitation-common-numerator.md) — related
+- [The amplitude of the negative priming effect did not differ between adolescents and adults](negative-priming-amplitude-no-age-difference.md) — related

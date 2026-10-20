@@ -50,3 +50,4 @@ Correlation analysis between logged use of navigation elements (stop, start, spo
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — reports the opposite
 - Control students rarely used the optional game, while treatment students logged in as expected — related
 - [Learner control does not improve retention of the main steps in an animated multimedia instruction](learner-control-no-retention-benefit.md) — related
+- [Learner control over pace and order of an animated multimedia instruction improves transfer performance compared with system control](learner-control-improves-transfer-animated-instruction.md) — related

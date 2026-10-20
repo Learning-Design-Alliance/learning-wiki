@@ -44,3 +44,6 @@ In the same case-control study, the between-group difference in the non-symbolic
 
 ## Related Claims
 - [At all ages, children with developmental dyscalculia perform significantly lower than controls in magnitude comparison tasks using symbolic numbers](dd-symbolic-magnitude-comparison-deficit-all-ages.md) — reports the opposite
+- [DD children's deficit in non-symbolic number magnitude processing appears only in studies of older children (10 years and above), not younger ones](dd-nonsymbolic-deficit-appears-later.md) — reports the opposite
+- [The authors hypothesize DD children's first deficit is dysfunction in building the exact representation of symbolic numbers, with reduced ANS acuity as a consequence rather than a cause](dd-first-deficit-exact-representation-ans-secondary.md) — related
+- [No univariate activation-level differences between adults with dyscalculia and controls during symbolic or non-symbolic number processing](dyscalculia-no-univariate-activation-differences.md) — related

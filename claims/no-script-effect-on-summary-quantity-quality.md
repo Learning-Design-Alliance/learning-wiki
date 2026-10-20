@@ -45,3 +45,6 @@ Null result from the summary measures in the European Virtual Seminar experiment
 ## Related Claims
 
 - [Scripted conditions more often produced a discussion phase on differences between group members, but no quality differences in those discussions were detected](script-increases-discussion-on-differences.md)
+- [Scripting collaboration via role-assigned interfaces produced little difference in learning outcomes compared with an unscripted self-organized condition in a semester-long course](scripting-little-difference-learning-outcomes.md) — related
+- [A three-phased collaboration script leads distance students to provide more and longer input in grounding discussions, with the structured interface further increasing input length](script-increases-grounding-input-amount-length.md) — related
+- [Group summary scores did not differ significantly between algorithm-formed and randomly formed groups on content, vocabulary, or grammar rubrics](group-summary-scores-no-significant-difference.md) — related

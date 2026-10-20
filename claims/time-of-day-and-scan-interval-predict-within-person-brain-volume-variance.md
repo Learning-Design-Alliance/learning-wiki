@@ -45,3 +45,4 @@ The protocol reports, citing the earlier Day2Day study (n = 6, ~50 MRI sessions 
 ## Related Claims
 - [Time spent outdoors in the 24 hours before scanning is positively associated with grey matter volume in the right dorsolateral prefrontal cortex](outdoor-time-associated-with-right-dlpfc-grey-matter.md) — related
 - [Daily physiological changes in non-experimental situations influence measures of brain structure and function](daily-physiological-changes-influence-brain-measures.md) — a broader claim this one bears on
+- [Urban living is associated with higher activity in stress-related brain regions and reduced grey matter in dorsolateral prefrontal and pregenual anterior cingulate cortex after urban exposure during upbringing](urban-living-linked-to-stress-brain-activity-and-grey-matter-deficits.md) — related

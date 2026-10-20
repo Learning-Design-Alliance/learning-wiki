@@ -43,4 +43,7 @@ Test-phase analysis in Experiment 1 (n = 108 analyzed) found no significant cond
 
 
 ## Related Claims
--
+- [In Experiment 2, task-selection accuracy during the learning phase did not differ between feedback and control conditions, unlike Experiment 1](exp2-learning-phase-task-selection-null.md) — related
+- [In Experiment 2, neither self-assessment feedback plus correct answers nor plus contrasting own with correct answers improved test-phase self-assessment accuracy](exp2-feedback-correct-answers-no-gain.md) — related
+- [In Experiment 1, receiving self-assessment feedback during the learning phase led to less accurate task selection than no feedback, despite feedback stating actual performance](self-assessment-feedback-reduced-learning-phase-task-selection.md) — related
+- [Across both experiments, self-assessment feedback failed to improve self-assessment accuracy in the absence of feedback, and learners' self-assessments did not track practice-driven performance gains](self-assessment-feedback-no-benefit-absence-of-feedback.md) — a broader claim this one bears on

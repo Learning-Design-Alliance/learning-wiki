@@ -45,3 +45,4 @@ In a 90-minute user study, 24 UTA students who had completed Engineering Statics
 ## Related Claims
 - [ET and MR conditions produced the highest quiz scores, though no statistical test is reported](et-mr-highest-quiz-scores.md) — related
 - [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](multimodal-valued-complex-visualizations-hinder.md) — a narrower finding that bears on this claim
+- [LearnMate2 improved learning outcomes and user experience compared to a baseline combining an online learning platform and an LLM in a user study (n=16)](learnmate2-final-study-improved-outcomes-experience.md) — related

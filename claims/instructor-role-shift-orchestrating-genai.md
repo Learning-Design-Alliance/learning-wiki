@@ -50,3 +50,6 @@ The article argues from its synthesis that GenAI can facilitate teaching by gene
 - [LLM assistance shifts instructor effort from manual setup toward pedagogical expression](llm-assistance-shifts-effort-toward-pedagogical-expression.md) — a narrower finding that bears on this claim
 - [AI integration shifted staff roles from direct instruction to facilitation and increased workload](ai-integration-shifted-staff-roles-facilitation.md) — related
 - [AI-mediating is a newly observed orchestration type in which the teacher concretizes or supplements correct AI feedback for students in curriculum context (12 of 46 episodes)](ai-mediating-orchestration-type.md) — related
+- [AI-based high school mathematics lessons exhibit four existing and three newly emerging instrumental orchestration types, with the new types appearing in 36 of 46 episodes](ai-math-lessons-seven-orchestration-types.md) — related
+- [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](teacher-guidance-mediation-cscl.md) — related
+- [Dashboard-monitoring is a newly observed orchestration type in which the teacher uses real-time AI dashboards to grasp student status and adjust lesson direction and pace (14 of 46 episodes)](dashboard-monitoring-orchestration-type.md) — related

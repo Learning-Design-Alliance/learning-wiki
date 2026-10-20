@@ -47,3 +47,6 @@ The review reports, citing Brodbeck et al. (1992), a field study of error handli
 
 ## Related Claims
 - [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](experts-predict-student-errors-and-classroom-events.md) — related
+- [Expert teachers interpret complex classroom phenomena more accurately and fluidly than novices and postulants](expert-teachers-interpret-classroom-phenomena-better.md) — related
+- [Experts detect and correct small changes before events become full-blown, while novices are distracted by possibly irrelevant phenomena](expert-monitoring-prevents-full-blown-events.md) — related
+- [In object counting, deaf and hearing children make similar attention and principle errors, but deaf children make more number-string errors](deaf-more-number-string-errors-object-counting.md) — related

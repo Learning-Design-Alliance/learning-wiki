@@ -48,3 +48,4 @@ Narrative review of user studies, section 2.1. The review reports this from Rose
 - Mobile language learning apps are used mainly for vocabulary learning among surveyed app users — related
 - [Translation features in mobile apps enabled direct communication between educators and parents who speak languages other than English](app-translation-features-direct-communication.md) — related
 - 79% of literacy apps include adult-directed information, but few offer performance feedback (17%) or detail on educational content (14%) — related
+- [Hyper-reference dictionary users consulted vocabulary twice as often as paper-dictionary users, though comprehension did not differ significantly](hyper-reference-consultation-frequency-no-comprehension-gain.md) — related

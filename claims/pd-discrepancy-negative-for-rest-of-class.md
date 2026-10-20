@@ -46,3 +46,6 @@ Per-class ANOVA results on perceived-desired discrepancy scores: positive for co
 
 - [Co-designers' perceptions improved in some classes but unexpectedly decreased more than controls in others](pd-codesigner-perceptions-mixed.md)
 - [Teachers who held participatory design meetings reported changes in educational practice far more frequently than control teachers](pd-teachers-reported-more-changes.md)
+- [Teacher–student disagreement diminished for co-designers and, in most cases, for the rest of the class](pd-disagreement-decreased-codesigners.md) — reports the opposite
+- [Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching](performance-goal-discrepancy-motivates-teacher-change.md) — related
+- [Participatory redesign produced significantly more positive perception effects on instruction aspects relevant to the formulated improvements than on irrelevant ones](pd-relevant-scales-more-positive-effects.md) — related

@@ -44,3 +44,5 @@ The white paper attributes, citing Arnett and others, that delayed entry into ad
 
 ## Related Claims
 - [Lower inhibitory control in early adolescence predicts greater increases in delinquency from middle adolescence to emerging adulthood](early-adolescent-inhibitory-control-predicts-delinquency-increase.md) — related
+- [How People Learn II updates and extends the 2000 How People Learn report by synthesizing research on learning from birth through adulthood in formal and informal settings](hpl-ii-updates-extends-hpl-2000-lifespan.md) — related
+- [Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.](motor-milestones-vary-by-cultural-childcare-practices.md) — related

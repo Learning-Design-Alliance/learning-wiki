@@ -47,3 +47,5 @@ Bootstrap moderated mediation test (PROCESS Model 8, N = 406): both indices' con
 - [Perceived AI literacy moderates the direct path: the negative GenAI use–trust association is significant at low literacy and non-significant at high literacy](perceived-ai-literacy-buffers-direct-trust-association.md) — related
 - [AI-related professional learning does not clearly moderate the within-teacher demand–AI allocation association](professional-learning-no-moderation-allocation-association.md) — related
 - [Competence and relatedness show distinct content pathways: competence with capability indicators (self-efficacy, progress, resilience) and relatedness with interpersonal-climate indicators (collegial support, trust, social capital)](competence-relatedness-content-pathways-c3.md) — related
+- [Observers' perceptions of a classmate's GenAI use are negatively associated with interpersonal trust among university students](genai-use-negatively-associated-interpersonal-trust.md) — related
+- [The serial indirect effect of AI literacy on continued use is weaker at higher levels of AI anxiety (moderated mediation)](moderated-mediation-anxiety-serial-path.md) — related

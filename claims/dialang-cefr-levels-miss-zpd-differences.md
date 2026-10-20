@@ -48,3 +48,4 @@ Qualitative microgenetic case study of two Iranian university students, both pla
 - [Interactionist DA mediation in SCMC reveals learners' microgenetic movement through internalization levels within the ZPD](scmc-da-mediation-reveals-microgenetic-development.md) — related
 - [Learners at the same proficiency level differ in responsiveness to mediation, with Sarah needing less explicit help than Dena](learners-differ-in-mediation-responsiveness.md) — possibly the same claim (merge candidate)
 - [The mediational strategy is reported as more effective than other intervention approaches such as the graduated prompt](mediational-strategy-more-effective-than-graduated-prompt.md) — related
+- [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — a broader claim this one bears on

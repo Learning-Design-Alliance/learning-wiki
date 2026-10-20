@@ -65,3 +65,4 @@ Pilot workshop with 7 beginners in a 3-hour session building Anime.js animations
 - [Novice creative coders exhibited three distinct initial interaction patterns with Flowcode: flowchart-first, code-first, and prompt-first](three-interaction-patterns-flowcode.md) — related
 - [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](auto-updates-drew-users-from-explanations.md) — related
 - [Participants used the Flowcode LLM across all stages of their design process, most frequently asking for code explanations](llm-use-across-design-stages.md) — related
+- [Step-by-step explanations revealed one at a time, plus removed code auto-insertion and copy buttons, encouraged deeper engagement with generated explanations](step-by-step-friction-deeper-engagement.md) — related

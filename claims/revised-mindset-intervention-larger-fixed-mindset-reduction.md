@@ -50,3 +50,4 @@ In the same 7,501-student randomized comparison, three-item fixed mindset scales
 - [In Study 1, the revised intervention reduced fixed-trait attributions and performance-avoidance goals relative to the original, with small effects](revised-mindset-intervention-attributions-goals-study1.md) — related
 - [In Study 1, the revised growth mindset intervention reduced choosing easy over hard math problems more than the original intervention (d=.19)](revised-mindset-intervention-greater-challenge-seeking-study1.md) — related
 - [In Study 1, the revised intervention reduced hypothetical choice of the easy math assignment from 60% to 51% relative to the original (d=.19)](revised-mindset-intervention-hypothetical-challenge-choice.md) — related
+- [In Study 1, measured fixed mindset correlated with fixed-trait attributions (r=.28), performance avoidance goals (r=.23), and hypothetical easy-problem choice (r=.12)](fixed-mindset-correlates-study1-replication.md) — related

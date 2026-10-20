@@ -48,3 +48,7 @@ Cross-sectional fMRI ROI analysis across children at Time 2, adolescents, and ad
 - [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](retrieval-development-through-adolescence-adulthood.md) — related
 - [Hippocampal engagement during arithmetic problem solving increases longitudinally in children while prefrontal-parietal engagement decreases](hippocampal-engagement-increases-prefrontal-parietal-decreases.md) — related
 - [In the one longitudinal fMRI study, dorsolateral prefrontal engagement reached adult levels by adolescence while dorsal anterior cingulate engagement continued increasing and mediated behavioral improvement](dlpfc-adult-by-adolescence-dacc-mediation.md) — related
+- [Meaningful engagement with AI as a co-regulatory partner is more likely from middle childhood onwards](ai-co-regulation-middle-childhood-onwards.md) — a broader claim this one bears on
+- [Episodic memory improves during middle childhood while familiarity-based recognition reaches adult levels by age 8](episodic-memory-improves-middle-childhood-familiarity-age-invariant.md) — related
+- [Hippocampal volume relates to episodic memory differently across development: adults show head/body associations, children show tail associations](developmental-dissociation-hippocampal-volume-episodic-memory.md) — related
+- [In adults only, poorer math achievement is associated with greater hippocampal NRE sensitivity](adult-hippocampus-negative-nre-math-association.md) — related

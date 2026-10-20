@@ -69,3 +69,4 @@ The review's synthesis states that "Building capacity is therefore critical," fo
 - [Decentralization and accountability acted as sorting mechanisms stratifying schools by initial capacity to respond](decentralization-accountability-sorting-mechanisms-school-capacity.md) — related
 - [Inclusive school leadership plays a critical role in building teachers' capacity for school improvement](inclusive-leadership-builds-teacher-capacity.md) — a narrower finding that bears on this claim
 - [Technology can play a key role in comprehensive reform, but the adaptive capacity of the institution is equally critical for success](technology-role-adaptive-capacity-reform.md) — related
+- [Research identifies critical components of successful place-based systems change in education](critical-components-successful-place-based-systems-change-education.md) — related

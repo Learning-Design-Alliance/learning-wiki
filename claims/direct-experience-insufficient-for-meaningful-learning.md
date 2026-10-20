@@ -50,3 +50,5 @@ Theoretical argument in the article's review of MLE theory: direct exposure base
 - [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — related
 - [Students reported greater engagement, motivation and language use after MLE-mediated English lessons](students-report-engagement-after-mle-lessons.md) — a narrower finding that bears on this claim
 - [The authors argue meaningful learning is possible outside environments labeled constructivist, including lectures](meaningful-learning-possible-outside-constructivist-environments.md) — related
+- [Systems thinking alone is insufficient for investigating complex systems with time delays and feedback, motivating the addition of computational thinking](st-alone-insufficient-complex-systems.md) — a narrower finding that bears on this claim
+- [Intellectual styles are partly socialized and therefore modifiable to some degree](styles-socialized-and-modifiable.md) — related

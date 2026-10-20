@@ -49,3 +49,4 @@ Descriptive analysis in Chapter 1 (Table 4) of 2018–19 ninth-grade enrollment 
 - [2018–19 CPS ninth-graders were residentially segregated by race/ethnicity: one racial/ethnic group comprised over 50 percent of ninth-graders in 65 of 77 community areas](ninth-graders-segregated-across-community-areas.md) — related
 - [Ninth-grade enrollment overall and by school type and accountability rating stayed relatively stable after GoCPS implementation](gocps-enrollment-stable-after-implementation.md) — related
 - [Majority-Black community areas had the highest school dispersion: 21 of the 25 community areas with the highest dispersion ratios were majority-Black](majority-black-areas-most-dispersed-across-high-schools.md) — related
+- [GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted](gocps-no-major-enrollment-changes.md) — related

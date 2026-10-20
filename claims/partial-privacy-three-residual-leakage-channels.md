@@ -48,3 +48,5 @@ Authors' own analysis in the Discussion marking Privacy Leakage as Partial: anon
 - [Skill-level leakage is strongest for communication style and personality, not explicit demographics](leakage-strongest-communication-personality.md) — related
 - [Skill-equipped agents reproduce target users' attributes and language, enabling impersonation across unseen contexts](agent-level-impersonation-qa-acc-vocabgain.md) — related
 - [Under defense-in-depth, all 171 multi-layer bypass events are rated severity S0 (no impact) because the tutor system prompt and provider filter absorbed residual leakage](defense-in-depth-critical-bypass-zero.md) — related
+- [Researchers may need to treat all remotely collected data as potentially identifiable personal data](treat-remote-data-as-potentially-identifiable.md) — related
+- [AI-related changes to consumer software threaten the anonymity of remotely collected research data](ai-changes-threaten-remote-data-anonymity.md) — related

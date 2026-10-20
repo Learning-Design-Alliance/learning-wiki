@@ -47,3 +47,4 @@ Quasi-experimental classroom study with two pre-existing intact classes (48 stud
 - [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — related
 - [Diagnostic Review reflection records contained fewer misunderstanding codes and higher reflection quality than Control follow-up records](reflective-uptake-fewer-misunderstandings.md) — related
 - [AI-teacher diagnostic agreement was higher in the Diagnostic Review class and varied by issue type, with local language issues best diagnosed](ai-teacher-agreement-issue-type-variation.md) — related
+- [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related

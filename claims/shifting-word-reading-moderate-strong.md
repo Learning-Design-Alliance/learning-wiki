@@ -62,4 +62,4 @@ Pattern across three studies using the Multiple Classification Card Sorting Test
 
 
 ## Related Claims
--
+- [Shifting is moderately to strongly associated with reading comprehension, with large associations when reading-specific shifting tasks are paired with literal comprehension measures](shifting-reading-comprehension-moderate-strong.md) — related

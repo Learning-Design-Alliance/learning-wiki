@@ -48,3 +48,7 @@ These are associations between measured ability and achievement; intelligence ov
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)
 - [Domain-identical pretests are the most powerful single-level covariate type for student achievement, outperforming cross-domain pretests, fluid intelligence, and sociodemographic characteristics](ip-most-powerful-single-level-covariate-achievement.md) — related
+- [Executive functions and working memory correlate moderately to strongly with mathematics achievement (r = .28 to .40), from preschool through elementary school](executive-functions-and-working-memory-correlate-with-math-achievement.md) — related
+- [Gardner holds intelligences are not interchangeable, so one intelligence cannot substitute for another in learning a domain](intelligences-not-interchangeable.md) — related
+- [Prior mathematical knowledge correlates very strongly with later mathematics achievement (r = .63), largely reflecting stable differences between learners](prior-knowledge-correlates-very-strongly-with-later-math-achievement.md) — related
+- [Creativity correlates strongly with mathematics achievement in school (r = .47), more so in elementary than in high school](creativity-correlates-strongly-with-math-achievement.md) — related

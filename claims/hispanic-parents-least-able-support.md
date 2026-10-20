@@ -64,3 +64,4 @@ Analysis of Consortium teacher surveys across 51 high schools and 280 elementary
 ## Related Claims
 - [Parents want more academic interaction with high schools, but schools focus communication on rules and problems](parents-want-academic-interaction-schools-focus-rules.md) — related
 - [Ninth-grade teachers report less communication with and academic support for parents than eighth-grade teachers](ninth-grade-teachers-less-parent-communication.md) — related
+- [A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students](racial-school-climate-gap-students.md) — related

@@ -48,3 +48,7 @@ Analysis of usage trace data from students' in-semester use of the GenAI-powered
 - [Reduced engagement with GenAI feedback functionalities was attributed to a mismatch between GenAI outputs and student expectations](mismatch-genai-outputs-student-expectations-reduced-engagement.md) — related
 - In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement — related
 - [Review reports the Wikiglass learning analytics tool study shows interplay between teacher and student use of the tool](editorial-wikiglass-teacher-student-interplay.md) — related
+- [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related
+- [GenAI Tutor adoption was widespread but usage intensity was highly skewed, with adoption peaking early in the semester while intensity rose steadily](genai-tutor-adoption-usage-skew.md) — related
+- [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
+- [Students initially perceived GenAI explanation features and dashboard visualizations positively in introductory lab sessions](positive-initial-perceptions-genai-feedback-functionalities.md) — related

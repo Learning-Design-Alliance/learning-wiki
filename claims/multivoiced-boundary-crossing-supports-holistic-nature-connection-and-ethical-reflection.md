@@ -53,3 +53,6 @@ This is a single, small, intensive case (6 students, one week, one school) with 
 - Contact between societies does not by itself produce cross-cultural understanding — related
 - Student reflections following the trips are reported by the authors as a source of outcomes beyond the completed surface projects — related
 - [Students using an AR system for plant study showed higher learning motivation than a control group](arflora-ar-higher-motivation-plant-study.md) — related
+- [All families took photographs at each microsite as evidence of their observation, with only one family personalizing photos by including children.](photo-taking-evidence-of-observation.md) — related
+- [Course-based research experience boundary objects support disciplinary integration and authentic research networks](course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md) — related
+- [Openness to material feedback is proposed as the single organizing dimension behind the FRA differences between science and generative models](openness-material-feedback-organizing-dimension.md) — related

@@ -45,3 +45,5 @@ An interpretive position in the review's integration section, attributed to Shut
 ## Related Claims
 
 - [Systems thinking alone is insufficient for investigating complex systems with time delays and feedback, motivating the addition of computational thinking](st-alone-insufficient-complex-systems.md)
+- [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
+- [A multimodal LLM achieves moderate-to-substantial agreement with human consensus on well-defined CT practices but lower agreement on multi-component constructs like Physics Correctness and Systems Thinking](llm-human-agreement-ct-practices.md) — related

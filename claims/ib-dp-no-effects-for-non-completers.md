@@ -46,3 +46,4 @@ The report's key findings state the completion rate and the null result for non-
 - [CPS neighborhood IB DP students were 40 percent more likely to attend a four-year college and 50 percent more likely to attend a more selective college than a matched comparison group](ib-dp-increases-four-year-and-selective-college-enrollment.md) — related
 - [IB DP students who attended four-year colleges were significantly more likely to persist in college for at least two years](ib-dp-increases-two-year-college-persistence.md) — related
 - [Despite strong academic qualifications, IB DP students often have limited access to the social capital needed to navigate college course selection and access faculty support](ib-dp-students-limited-social-capital.md) — related
+- [Students who commit to a program of study within their first year are more likely to complete a credential or transfer within five years](early-program-entry-linked-to-completion.md) — related

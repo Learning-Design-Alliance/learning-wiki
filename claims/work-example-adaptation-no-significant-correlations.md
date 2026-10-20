@@ -63,3 +63,7 @@ Experiment 2 correlation analyses between adaptation frequency and MAS measures 
 
 ## Related Claims
 - [Learner-chosen adaptivity in a collaboration script was feasible as guidance design, but impacted regulatory actions only among students with more advanced self-regulation skills](learner-agency-adaptive-guidance-only-advanced-regulators.md) — related
+- [In Experiment 2, self-regulation skills significantly positively predicted domain-specific MAS only in the minimal heuristic worked examples condition](self-regulation-predicts-domain-specific-mas-minimal-worked-examples.md) — related
+- [In Experiment 1, self-regulation skills significantly predicted socio-discursive MAS only in the adaptable CSCL script condition](self-regulation-predicts-socio-discursive-mas-adaptable-script.md) — related
+- [In Experiment 2, the heuristic worked examples condition significantly affected socio-discursive MAS, with maximal worked examples descriptively best and no significant post-hoc differences](maximal-worked-examples-descriptively-best-socio-discursive-mas.md) — related
+- [Effects of collaboration scripts combined with heuristic worked examples on mathematical argumentation skills depend on prior knowledge and working-memory capacity, consistent with a Matthew Effect](script-worked-example-fading-matthew-effect.md) — related

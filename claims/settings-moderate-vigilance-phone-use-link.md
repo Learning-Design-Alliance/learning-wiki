@@ -65,3 +65,6 @@ PLS-SEM moderation test on all 84 participants; the Group×SV interaction on ave
 
 - [Phone-use frequency and duration increase phone-use mental effort, which negatively affects learning performance, mediating the behavior–performance link](mental-effort-mediates-phone-use-learning-cost.md)
 - [Habitual phone use heightens smartphone vigilance but does not directly increase checking frequency; it lengthens use duration only when notifications are hidden](habitual-use-acts-through-vigilance.md) — related
+- [Notification-hidden students showed longer average phone-use duration and no performance difference versus notification-revealed students](no-performance-difference-notification-settings.md) — related
+- [Phone-use behavior under hidden notifications is highly heterogeneous: about half of NH students abstained entirely, and most NR checks were brief glances](heterogeneous-phone-use-under-hidden-notifications.md) — related
+- [Students with visible notifications check their phones more frequently in class than students with hidden notifications](notification-revealed-higher-phone-use-frequency.md) — related

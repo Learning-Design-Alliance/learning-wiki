@@ -66,3 +66,8 @@ Multi-state regression discontinuity analysis of assessment data from three stat
 - [At the end of first grade, children whose kindergarten entry was delayed demonstrated slightly higher reading knowledge and skills than those who started on time](delayed-entrants-slightly-higher-reading-first-grade.md) — related
 - [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](delayed-entrants-behind-in-math-first-grade.md) — related
 - [Prior evidence on school entry age lacked causal estimates of growth through early grades](prior-entry-age-evidence-gap.md) — related
+- [The entrance-age achievement association appears in the first months of kindergarten and declines sharply in subsequent years](entrance-age-gap-declines-after-kindergarten-entry.md) — related
+- [The positive relationship between kindergarten entrance age and achievement primarily reflects skill accumulation prior to kindergarten rather than heightened in-school learning ability](entrance-age-advantage-reflects-prior-skill-accumulation.md) — related
+- [The entrance-age achievement association is especially pronounced among children from upper-income families](entrance-age-gap-largest-upper-income-families.md) — related
+- [Kindergarten redshirting rates have remained around 5% of kindergarteners for roughly two decades](redshirting-rate-stable-about-5-percent.md) — related
+- [At the end of first grade, children who repeated kindergarten had lower reading and math knowledge and skills than children who started on time](repeaters-lower-reading-math-end-first-grade.md) — related

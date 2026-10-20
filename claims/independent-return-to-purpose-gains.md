@@ -45,3 +45,4 @@ Analysis of student application coding (Table 10) for the eight case-study stude
 ## Related Claims
 - [Typical-gain teacher's students received the most inappropriate directions and prompts for setting a purpose and were seldom reminded to return to the purpose with evidence](inappropriate-directions-prompts-typical-teacher.md) — related
 - [High-gain teacher's high-change students received full explicit domain instruction on how and why readers set purposes, unlike the typical teacher's students](full-domain-instruction-how-why-purposes-high-gain-teacher.md) — related
+- [Feedback on domain information (partial and full feedback on how and why readers set purposes) was provided only to the high-gain teacher's high-change students](domain-feedback-key-ingredient-scaffolding.md) — related

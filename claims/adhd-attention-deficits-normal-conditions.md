@@ -46,3 +46,9 @@ Simple main effects from the mixed-design MANOVA comparing 30 ADHD and 30 TD chi
 
 - [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](adhd-motivation-profile-sdt-dimensions.md)
 - [Higher ADHD scores predict an excess of long-distance jumps in visual search without any cost to visual search performance](visual-search-performance-unaffected-by-adhd-traits.md) — reports the opposite
+- [The motivation manipulation improved attention performance in children with ADHD but did not change TD children's performance](motivation-improves-adhd-not-td-performance.md) — related
+- [Increased motivation eliminated ADHD–TD differences on most attention measures but differences persisted in complex multitasking and commission errors](motivation-reduces-but-not-eliminates-adhd-deficits.md) — related
+- [Increasing extrinsic motivation via reward and competition interacts with group membership in reducing attention-task differences between children with ADHD and TD children](motivation-group-interaction-attention-adhd.md) — related
+- [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — related
+- [Children with ADHD exhibit a higher theta/beta power ratio than typically developing children at C3, Cz and C4 in the midline](adhd-higher-tbr-midline-c3-cz-c4.md) — related
+- [Children with higher ADHD rating-scale scores make longer transitions between consecutively retrieved items in a visual search task](higher-adhd-traits-longer-visual-search-transitions.md) — related

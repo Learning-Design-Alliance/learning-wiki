@@ -45,3 +45,4 @@ Descriptive per-item comparison from the same n=10 Likert ratings (Table 2, Figu
 ## Related Claims
 - [Indexing LLM-generated artifacts nearly doubles retrieval recall on analytical queries compared with transcript-only retrieval, while direct queries perform comparably across configurations](artifact-indexing-improves-analytical-retrieval.md) — related
 - [STEM instructor-researchers rated the Journal Data Dashboard at or above WordStream Maker on every perceived ease-of-use and usefulness item (descriptive, n=10)](dashboard-rated-above-maker-all-likert-items.md) — a broader claim this one bears on
+- [Seven of ten participants preferred the Dashboard, two preferred the Maker citing its side-by-side temporal display, and one was mixed](seven-preferred-dashboard-two-maker.md) — related

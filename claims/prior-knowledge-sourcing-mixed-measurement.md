@@ -65,3 +65,4 @@ Moderator analysis of measurement format: "Eleven of the 16 studies finding a st
 - [Comprehension strategy use relates to sourcing in most reviewed studies, especially complex multiple-text strategies among university students](comprehension-strategies-sourcing-supported.md) — related
 - [Reading comprehension relates to sourcing in half of reviewed studies, with no age-based explanation for the split](reading-comprehension-sourcing-mixed.md) — related
 - [Relationships between individual differences and sourcing vary with how sourcing is measured and with the domain or topic of the materials](sourcing-measurement-domain-moderators.md) — a broader claim this one bears on
+- [Working memory relates to sourcing in a minority of studies, while psychophysiological self-regulation shows a positive relationship](working-memory-self-regulation-sourcing.md) — related

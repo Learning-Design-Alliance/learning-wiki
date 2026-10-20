@@ -44,3 +44,4 @@ The authors' design exercise considering one scenario against the Terracotta DLP
 - Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts — related
 - [Educators rate student data privacy as very or extremely important, but K-12 educators largely remain unaware of the privacy measures DLP research takes](k12-unaware-dlp-privacy-measures.md) — related
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — related
+- [SEERNet platforms trade off open science against availability of individual student data, with eTrials and ASU L@S at opposite extremes](seernet-platform-open-science-data-tradeoff.md) — related

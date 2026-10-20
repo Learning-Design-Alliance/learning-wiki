@@ -69,3 +69,6 @@ Descriptive analysis (appendix table B2) shows administration at 36 percent, fol
 - [Residencies prepare teachers for high-need subjects and schools, with most NCTR-network graduates hired in shortage fields and Title I schools](residencies-fill-high-need-positions.md) — related
 - [In 2015–16, 48 states plus DC reported special education teacher shortages, 42 reported mathematics shortages, and 40 reported science shortages](state-subject-area-shortage-counts-2015-16.md) — related
 - [Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers](shortage-subjects-special-education-math-science.md) — related
+- [Additional certificate holders had fewer years of teaching experience on average (7 years) than teachers who did not earn additional certificates (15 years)](additional-certificate-holders-less-experienced.md) — related
+- [Special education teachers are the most likely of all subject-area teachers to have borrowed (65.2%) and to owe their entire balance (15.4%)](special-education-teachers-highest-loan-burdens.md) — related
+- [Most additional certificate holders used the traditional in-state pathway (58 percent), while about a third used the individual evaluation pathway (34 percent)](traditional-in-state-pathway-dominates-additional-certification.md) — related

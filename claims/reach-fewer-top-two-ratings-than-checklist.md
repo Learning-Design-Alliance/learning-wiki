@@ -47,3 +47,4 @@ District-wide descriptive comparison of non-tenured teachers' ratings under the 
 - [REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17](reach-ratings-increased-over-time.md) — related
 - [Missed observations left 24 percent of non-tenured teachers without a REACH rating, concentrated in a smaller number of schools undergoing organizational change](reach-missed-observations-inability-to-rate.md) — related
 - [The Danielson Framework identified far more teachers as low-performing than the prior CPS checklist (8 percent vs 0.3 percent)](framework-identifies-more-unsatisfactory-teachers.md) — related
+- [Lower REACH ratings predicted teacher exit: more than half of unsatisfactory-rated teachers left CPS and low-VAM teachers moved out of tested grades/subjects](low-ratings-linked-teacher-exit-and-reassignment.md) — related

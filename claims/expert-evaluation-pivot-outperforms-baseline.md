@@ -64,3 +64,6 @@ In the same expert evaluation, the authors interpret the largest dimension-level
 ## Related Claims
 - [PIVOT achieves the best automatic video-quality scores among the compared educational video generation methods on 40 STEM topics](pivot-best-automatic-video-quality-scores.md) — related
 - [PIVOT achieves the best automatic narration-quality scores on Accuracy and Logical Flow dimensions](pivot-best-narration-quality-scores.md) — related
+- [Students and teachers responded positively to automatically generated textbook videos, finding explanations easier to follow than plain text](generated-textbook-videos-easier-to-follow-than-plain-text.md) — related
+- [Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly](verification-components-ablation-contributions.md) — related
+- [Participants rated the arithmetic-error peer agent more harshly than the conceptual-error peer agent, calibrating trust by error observability rather than severity](arithmetic-errors-rated-harsher-than-conceptual-errors.md) — related

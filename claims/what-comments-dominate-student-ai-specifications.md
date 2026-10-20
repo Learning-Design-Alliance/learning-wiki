@@ -43,3 +43,4 @@ Aggregate analysis of LLM-classified comments from a four-year Copilot activity 
 ## Related Claims
 - [Students rarely rewrite specification comments: within the first 10 attempts, Unchanged (48.4%) and New (41.3%) dominate while substantial revisions total only 4.4%](low-comment-rewriting-across-attempts.md) — related
 - [Students shift toward How comments for procedural constructs: 94.3% of Multi-Step-Block and 57.3% of Loop-Iteration comments were How comments](how-comments-procedural-constructs-shift.md) — related
+- [Comment revision effort concentrates on Multi-Step-Block and other procedural constructs, with the widest flows ending in Heavy Modification](revision-hotspots-multi-step-block-heavy-modification.md) — related

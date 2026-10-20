@@ -44,3 +44,4 @@ A descriptive scan of state department of education websites and web-based docum
 
 ## Related Claims
 - [States draw on federal, state, and local funding sources to develop and sustain statewide leadership initiatives](funding-sources-statewide-leadership-initiatives.md) — related
+- [State leadership initiatives most commonly take the form of cohort-based academies or institutes serving principals, with other roles served less often](initiative-forms-and-roles-served.md) — related

@@ -45,3 +45,5 @@ Simulation study comparing oracle mentor to X-learner mentor in a 2-by-2 design 
 ## Related Claims
 - [Under a realistic estimator, remaining error originates upstream rather than from the distillation step](estimator-loss-dominates-llm-distillation-error.md) — related
 - [Mentee fidelity on HSLS:09 test split: attribution transmits far better than decisions, and 98.8% of narrations pass the faithfulness audit](hsls-mentee-fidelity-attribution-better-than-decisions.md) — a narrower finding that bears on this claim
+- [Narration fluency is no evidence of correctness: narration quality is independent of signal quality](narration-quality-independent-of-signal-quality.md) — related
+- [Decision quality collapses toward the majority action in severely imbalanced settings](decision-collapse-severely-imbalanced-settings.md) — related

@@ -45,3 +45,5 @@ The review reports on the Aldemir et al. study of shared meaning-making in onlin
 ## Related Claims
 - [Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions](peer-monitoring-exceeds-social-presence.md) — related
 - [Intergroup contact in diverse schools reduces prejudice and increases positive cross-racial relationships, alongside improved critical thinking and civic outcomes](diverse-schools-social-and-civic-benefits.md) — related
+- [Multicultural approach to education may increase cultural sensitivity and reduce race-related stressors (review attribution)](multicultural-approach-sensitivity-stressors.md) — related
+- [Time spent in inter-group interactions increased substantially over the semester in the advanced laboratory course](adlab-intergroup-interaction-time-increased-over-semester.md) — related

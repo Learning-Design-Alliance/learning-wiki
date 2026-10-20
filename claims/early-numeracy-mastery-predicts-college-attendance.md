@@ -49,3 +49,4 @@ The article's title states that early numeracy mastery also "predicts" college a
 - [Early numeracy mastery at 54 months predicts high school math course-taking](early-numeracy-mastery-predicts-hs-math-course-taking.md) — related
 - [Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample](numeracy-measurable-54-months-three-competencies.md) — related
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — related
+- [Early ANS acuity (accuracy and RT) uniquely predicts preschoolers' math ability six months later, controlling for initial math ability, age, and expressive vocabulary](early-ans-acuity-predicts-math-growth-preschoolers.md) — related

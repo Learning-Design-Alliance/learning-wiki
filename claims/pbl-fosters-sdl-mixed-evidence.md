@@ -43,4 +43,6 @@ Narrative review conclusion weighing studies for and against PBL fostering SDL/S
 
 
 ## Related Claims
--
+- [SDL and SRL are developmental processes: senior students show more self-directed and self-regulated learning across several reviewed studies](sdl-srl-developmental-processes-pbl.md) — related
+- [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — a narrower finding that bears on this claim
+- [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related

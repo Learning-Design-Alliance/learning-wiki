@@ -48,3 +48,6 @@ Heterogeneity assessment within the same three-level meta-analysis. All variance
 - [GenAI coding assistance produces a statistically significant moderate positive effect on developer productivity (g = 0.33), with substantial heterogeneity across settings.](genai-coding-assistance-moderate-positive-productivity-effect.md) — related
 - [Included intervention studies varied considerably in design, methods, quality and transferability](isolation-intervention-studies-varied-quality-transferability.md) — related
 - [Design parameters for preschool outcomes show substantial heterogeneity across populations, as reflected in wide 95% prediction intervals](preschool-design-parameter-heterogeneity.md) — related
+- [Technology-supported educational interventions are associated with higher metacognitive outcomes on average (g = 0.653), with substantial between-study heterogeneity](technology-interventions-positive-pooled-metacognition-effect.md) — related
+- [Effects of game-based learning in STEM education vary substantially across studies, with prediction intervals spanning trivial-to-negative through very strong effects](games-stem-substantial-heterogeneity-prediction-intervals.md) — related
+- [Substantial unexplained heterogeneity characterises short-term effects of targeted K-6 interventions](substantial-heterogeneity-short-term-effects.md) — related

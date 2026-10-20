@@ -46,3 +46,4 @@ Member-checking step in Cycle 2 of the thematic analysis, where five confirmator
 - [Participants held an unresolved epistemological dissensus over whether frequency-based encoding can represent qualitative meaning, ranging from skepticism to enthusiasm](epistemological-dissensus-frequency-encoding.md) — related
 - [The platform's out-of-scope audit protocol is designed to neutralize student distrust of AI error by rewarding verified hallucination reports](out-of-scope-audit-builds-trust.md) — related
 - [Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict](ai-relational-buffer-eases-concession.md) — related
+- [The four Special Issue learning communities mediated members toward consensus, with no reports of longstanding dissent](special-issue-communities-mediated-toward-consensus.md) — related

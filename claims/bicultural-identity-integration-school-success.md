@@ -70,3 +70,5 @@ The review reports, citing Phalet and Andriessen (in press), a study of ethnic m
 - [Ethnic identity associations with functioning are robust across child gender and ethnic group, and ethnic identity scores are uncorrelated with IQ](ethnic-identity-effects-robust-across-gender-ethnicity-uncorrelated-iq.md) — related
 - [Ethnic identity tends to follow an increasing trajectory across the middle-school years among ethnic minority youth](ethnic-identity-increasing-trajectory-grades-6-9.md) — related
 - [The immigrant optimism hypothesis holds in some cultural contexts but not in others, depending on cultural congruence, cooperative learning, and family educational investment](immigrant-optimism-holds-conditionally.md)
+- [Most young Latino children show emerging ethnic identity, with self-identification most prevalent (75%) and knowledge least prevalent (about 20%)](young-latino-children-emerging-ethnic-identity-prevalence.md) — related
+- [Ethnic constancy and knowledge are associated with better adaptive behavior at home, with no moderation by gender or ethnicity](ethnic-constancy-knowledge-better-adaptive-behavior-home.md) — reports the opposite

@@ -61,3 +61,11 @@ Third reported finding from the retest-data evaluation: the authors interpret re
 - [Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model](rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated.md) — related
 - [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related
 - [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — related
+- [Design effects from aggregation are tolerable with moderate numbers of groups and few covariates](aggregation-design-effects-tolerable-moderate-groups-few-covariates.md) — related
+- [Disengaged student responses raise the issue of whether engaged responses maintain the intended content representation](disengaged-responses-threaten-engaged-content-representation.md) — related
+- [Rapid guesses on MAP Growth reflect a lack of engagement rather than a lack of knowledge](rapid-guessing-reflects-disengagement-not-lack-of-knowledge.md) — related
+- [Seriously disengaged initial testers who stopped rapid-guessing on retest showed large RIT gains, averaging about 6 points in Reading and 12 in Math](serious-disengagement-retest-zero-guessing-gains.md) — related
+- [Effort-moderated scoring yields more accurate scores than traditional scoring on an adaptive achievement test](effort-moderated-scoring-more-accurate-than-traditional.md) — related
+- [A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation](effort-guided-adaptive-test-alleviates-mistargeting.md) — related
+- [Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data](response-styles-construct-irrelevant-bias.md) — related
+- [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related

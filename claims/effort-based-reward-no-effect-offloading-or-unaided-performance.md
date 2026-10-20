@@ -68,3 +68,4 @@ Confirmatory test of H3b on unaided final-test performance in the same experimen
 - [The effort-based reward reduced how often participants used the assistant, whereas metacognitive feedback changed how they used it](reward-reduced-assistant-use-feedback-changed-use-composition.md) — related
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
 - [Higher-value intentions are more likely to be offloaded than lower-value ones](value-drives-offloading-selection.md) — related
+- [In one preregistered experiment, metacognitive feedback on learners' own LLM use lowered the odds of answer offloading and raised the odds of a correct unaided answer on one-sided tests, with 95% intervals reaching no effect](metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance.md) — related

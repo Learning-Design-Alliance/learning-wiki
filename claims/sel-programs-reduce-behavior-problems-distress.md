@@ -53,3 +53,6 @@ Synthesis across the 12 meta-analyses reviewed in the report's evidence section,
 - Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress — related
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — a broader claim this one bears on
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
+- [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — related
+- [Among specific student constructs, academic content, discipline issues, and interpersonal competencies were the most frequently measured outcomes in character education program studies](character-ed-most-measured-student-constructs.md) — related
+- [SEL programs improve students' engagement and academic performance, with an 11-percentile-point achievement gain in the Durlak meta-analysis](sel-programs-improve-academic-performance.md) — related

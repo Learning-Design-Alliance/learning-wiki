@@ -63,3 +63,7 @@ Episode analysis of group 3 shows students adopted each other's practices for gr
 
 ## Related Claims
 - [The initiation-response organizing principle constrains interaction to a linear structure and breaks down when drawing space runs out](initiation-response-principle-linear-constraints.md) — related
+- [Weak initial organization enables experimentation with alternative graphical organizing principles](weak-organization-enables-principle-experimentation.md) — related
+- [Organizing principles for a shared workspace emerge from implicit negotiation of conventions among group members](organizing-principles-emerge-implicit-negotiation.md) — a broader claim this one bears on
+- [Persistence of inscriptions in the VMT environment supported students explaining postings and establishing collaborative activity](persistence-affordance-supports-collaborative-explanation.md) — related
+- [Workspaces became apparently disorganized, with incomplete and obsolete content, yet participants reported no difficulty using them to collaborate](apparent-disorganization-usable-workspaces.md) — related

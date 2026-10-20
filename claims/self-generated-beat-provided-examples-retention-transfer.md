@@ -64,3 +64,6 @@ Planned contrasts on knowledge transfer in the same experiment; Table 3 prints d
 ## Related Claims
 - [Instruction followed by either self-generated or provided illustrative examples outperformed instruction only on knowledge retention and transfer in student teachers](examples-after-instruction-beat-instruction-only-retention-transfer.md) — related
 - [Perceived learning control enhanced transfer via knowledge retention only for students in the non-generative conditions (provided examples, instruction only), not for example generators](mediation-control-retention-transfer-non-generative-only.md) — related
+- [Teacher students who generated their own examples after instruction achieved better retention and transfer than those given examples, with text-only performing worst](self-generated-examples-better-retention-transfer.md) — possibly the same claim (merge candidate)
+- [Instruction-only students perceived learning control comparably high to example generators, while provided-example students perceived lower control](perceived-control-high-instruction-only-and-generation.md) — related
+- [Quality of self-generated examples correlated with knowledge transfer and perceived learning control but not with knowledge retention](example-quality-correlates-transfer-control.md) — related

@@ -45,3 +45,7 @@ One-way ANOVA on 9-point mental-effort ratings during practice printed a main ef
 ## Related Claims
 
 - [Contrasting examples, correct examples, erroneous examples, and practice problems produced no differences in learning gains or transfer of unbiased-reasoning skills](no-condition-differences-ct-practice-formats.md)
+- [Learning with erroneous examples often imposed higher cognitive load than correct examples or problem-solving](errex-higher-cognitive-load.md) — related
+- [Task sequence effects on mental effort reverse between learning phase and transfer test](effort-reversal-learning-versus-transfer-phase.md) — related
+- [Time-on-task during practice was significantly higher for correct and erroneous examples than for contrasting examples and practice problems](time-on-task-example-conditions-higher.md) — related
+- [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — related

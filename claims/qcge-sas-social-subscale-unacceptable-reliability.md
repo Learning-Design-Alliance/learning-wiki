@@ -45,3 +45,6 @@ Reliability analysis of the QCGE-SAS in the validation study (N = 246), covering
 
 ## Related Claims
 - [Most subscale reliabilities of the task-specific questionnaire were moderate to low (three of four subscales with 16 students, all four with 190), despite acceptable full-instrument reliability](task-specific-questionnaire-low-subscale-reliabilities.md) — related
+- [Construct validity of the QCGE-SAS is supported by significant correlations between its subscales and pre-validated related scales](qcge-sas-construct-validity-significant-correlations.md) — related
+- [A confirmatory factor analysis supports a four-factor structure of collaborative group engagement (behavioural, social, cognitive, conceptual-to-consequential) for the QCGE self-assessment scale](qcge-sas-four-factor-structure-cfa-supported.md) — related
+- [Item analysis showed high self-reported engagement and subscale differences in discriminatory power, with social engagement items weakest and cognitive engagement items strongest](qcge-sas-item-analysis-discrimination-subscale-differences.md) — related

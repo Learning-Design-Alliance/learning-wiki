@@ -48,3 +48,4 @@ The brief's closing scope statement, an authorial assertion of generalizability 
 - [Without clear expectations and support from district leaders, coaches might not devote sufficient time to the full range of coaching activities needed to improve teachers' instruction](coaches-need-district-expectations-full-activities.md) — related
 - An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems — related
 - [Each toolkit PLC requires one facilitator who leads sessions and supports educators between them](algebra-toolkit-facilitator-role-requirements.md) — related
+- [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related

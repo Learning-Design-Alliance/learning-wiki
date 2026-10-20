@@ -54,3 +54,4 @@ The WWC's synthesis of seven studies (four RCTs meeting standards, three meeting
 - [Ladders to Literacy shows potentially positive effects on alphabetics, with an average improvement index of +25 percentile points and a domain average effect size of 0.69](ladders-to-literacy-potentially-positive-alphabetics.md) — related
 - Sound Partners produces significantly positive but smaller reading outcomes for English learner first graders (effect size +0.15) — a narrower finding that bears on this claim
 - [Reading Recovery has potentially positive effects on alphabetics for beginning readers](reading-recovery-potentially-positive-alphabetics.md) — related
+- [Reading Partners tutoring significantly improves reading comprehension for grade 2-4 struggling readers, with a total effect size of +0.10](reading-partners-tutoring-comprehension-effect.md) — related

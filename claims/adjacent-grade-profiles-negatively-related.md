@@ -44,3 +44,6 @@ Statistical analysis of Chicago elementary school productivity profiles reported
 
 ## Related Claims
 - [Judging school improvement requires reading learning gain trends and output trends simultaneously, since either trend monitored alone can mislead](single-trend-reading-misleading.md) — related
+- [CPS elementary school productivity improvements stalled after 1997, with no evidence of significant productivity growth since then](cps-productivity-improvements-stalled-after-1997.md) — related
+- [Profile trends labeled up or down are determined by statistical criteria, so those labels denote statistically significant trends](trend-labels-statistically-significant-criteria.md) — related
+- [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — related

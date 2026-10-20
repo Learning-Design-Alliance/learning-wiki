@@ -52,3 +52,6 @@ Cluster RCT with 60 Philadelphia elementary schools randomized to FAST or contro
 - [FAST take-up was far below the projected 60 percent participation rate, with only about 20 percent typical participation per year](fast-takeup-far-below-projected.md) — related
 - [The study concluded FAST is unlikely to meaningfully contribute to turning around low-performing schools, though reading benefits may exist for participating families](fast-unlikely-school-turnaround-conclusion.md) — related
 - [Family engagement in schools is closely linked to improved student academic achievement, social skills, and fewer behavior issues](family-engagement-linked-student-outcomes.md) — reports the opposite
+- [Parental involvement has a small to moderate, practically meaningful relationship with students' academic achievement](parental-involvement-small-to-moderate-achievement-relationship.md) — related
+- [Fidelity of FAST program-component delivery was high (97–98 percent overall), but reach to families fell far below design expectations](fast-fidelity-high-reach-low.md) — related
+- [Students who attended FAST three or more times showed strong positive effects on Grade 1 reading and more modest effects on mathematics, but a strong negative effect on kindergarten attendance](fast-qed-dose-effects-reading-math-attendance.md) — related

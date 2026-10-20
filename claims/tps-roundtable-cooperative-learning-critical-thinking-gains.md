@@ -43,4 +43,6 @@ Quasi-experimental pretest-posttest study of two 4th-grade classes (experimental
 
 
 ## Related Claims
--
+- [Cooperative learning gains were large for observation and interpretation but small for analysis in 4th graders](cooperative-learning-skill-specific-ct-gains.md) — related
+- [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](cooperative-learning-reduces-score-disparities.md) — related
+- [Critical thinking skills can be significantly developed in early primary (grades 1-4), a level where evidence was scarce](critical-thinking-developable-early-primary.md) — a broader claim this one bears on

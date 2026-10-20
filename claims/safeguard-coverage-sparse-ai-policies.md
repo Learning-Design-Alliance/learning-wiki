@@ -49,3 +49,6 @@ Safeguard-coverage coding across the 30-institution corpus, counting eight safeg
 - [Policy packages fall into four archetypes defined by which design element is missing](four-policy-archetypes-ai-guidance.md) — related
 - In one institution's early-stage learning analytics implementation, inductive coding of interviews and documents surfaced three privacy themes: FERPA compliance, role-based access and security measures, and students' relationship with their data — related
 - [Privacy capacity was unevenly distributed, distinguishing resource scarcity from strategic deprioritization of privacy](uneven-privacy-capacity-scarcity-versus-deprioritization.md) — related
+- [Policy guidance is most actionable for final-output substitution scenarios](substitution-most-actionable-scenario.md) — related
+- [In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak](policy-audit-collection-strong-ai-accountability-weak.md) — related
+- [Existing K-12 computing standards give AI minimal coverage](csta-standards-minimal-ai-coverage.md) — a narrower finding that bears on this claim

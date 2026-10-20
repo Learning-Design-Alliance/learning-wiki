@@ -50,3 +50,5 @@ The abstract reports "high levels of marginal reliability and test engagement ac
 - [Remote and in-person fall 2020 MAP Growth tests show comparable psychometric characteristics and indicators of test quality](remote-in-person-map-growth-comparability-fall-2020.md) — a broader claim this one bears on
 - [Student test-taking disengagement on remotely administered adaptive interim assessments differs from disengagement on the same assessment administered in school](remote-interim-testing-disengagement-differs-from-in-school.md) — related
 - [In-person proctored nursing cohorts achieved significantly higher HESI scores and NCLEX readiness than remotely proctored (ProctorU) cohorts](in-person-proctored-higher-hesi-than-remote.md) — related
+- [Fall 2020 MAP Growth tests showed high levels of marginal reliability across all grades in both remote and in-person administration](map-growth-fall-2020-high-marginal-reliability.md) — related
+- [Student disengagement on an adaptive interim assessment gradually increased across grade level](disengagement-increased-across-grade-level-remote-testing.md) — reports the opposite

@@ -65,3 +65,7 @@ A homophily (E-I index) analysis coding students by whether they co-contributed 
 
 - [Non-scientific discussion was much denser than scientific discussion, with all students participating non-scientifically but only 12 scientifically](non-scientific-denser-than-scientific-discussion.md)
 - [Participation in non-scientific discussion was weakly negatively related to participation in scientific discussion (r = 0.14, p < 0.05)](negative-qap-scientific-non-scientific.md)
+- [Students, not expert scientists, played the moderating role by asking questions and making assertions, with one student bridging scientists and students](students-moderating-bridging-role.md) — related
+- [Higher overall participation was not associated with scientific engagement, but co-contribution with expert scientists was](participation-level-not-related-scientific-engagement.md) — related
+- [A worked network example shows diffusion-based centralities capturing uptake and argumentation more accurately than traditional centrality measures](worked-example-diffusion-captures-uptake.md) — related
+- [Teacher-scientist pairs in school citizen science are both motivated largely by educating students, with scientists showing only lesser utilitarian data-collection motives](scientists-motivated-by-educating-students-in-ccs.md) — related

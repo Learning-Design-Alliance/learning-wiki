@@ -86,3 +86,9 @@ Same mixed-effects analysis of within-session position for SRL functions. The au
 - [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](scaffolded-task-progression-diagnostic-shift.md) — related
 - The article treats metacognition and learning as a topic requiring explicit conceptual and methodological considerations — related
 - [Help seeking is guided by a wider variety of considerations beyond improving immediate answer accuracy than withholding answers is](help-seeking-multiple-considerations-beyond-accuracy.md)
+- [Adaptive help seeking is a self-regulatory behavioral strategy, distinct from dependent help seeking](adaptive-versus-dependent-help-seeking.md) — related
+- [Adolescent students' stated pre-chat intentions with an AI math tutor tilt strongly toward scaffolded support rather than answer offloading](forethought-intentions-learning-oriented-genai-tutor.md) — related
+- [In an AI-based early warning system, the predictive importance of CAM dimensions shifted over an instructional unit, with affect/metacognition self-reports leading early and cognitive artifacts gaining accuracy toward the end](early-warning-system-cam-predictive-importance-shifts-over-unit.md) — related
+- [Verification is nearly universal among LLM users, and most students combine multiple verification strategies rather than relying on a single one](verification-nearly-universal-multiple-strategies.md) — related
+- [Learning-oriented intentions did not significantly predict enacted in-chat behavior; only selecting final solutions predicted executive and answer-seeking requests](intent-enactment-gap-genai-help-seeking.md) — related
+- [During AI-tutor interactions, students' turns were dominated by help requests with near-absent monitoring and evaluation](request-dominance-monitoring-evaluate-absent.md) — related

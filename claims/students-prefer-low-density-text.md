@@ -48,3 +48,4 @@ ANOVA on the number of low-density selections (out of 5) made by LC subjects fou
 - [Reading comprehension strongly predicts achievement from high-density microtext, unlike other density conditions](reading-comprehension-predicts-high-density-learning.md)
 - [Low-density text is as effective as high-density text for achievement in expository CBI and print lessons](low-density-text-equal-achievement.md)
 - [Less skilled readers are more likely to select high-density text under learner control](reading-rate-predicts-density-selection.md)
+- [CBI subjects outperform print subjects on the delayed posttest only](cbi-superior-print-delayed-posttest.md) — related

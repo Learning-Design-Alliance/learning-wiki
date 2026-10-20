@@ -46,3 +46,4 @@ The review reports, citing Yaman et al. (2024), teacher-stated barriers of time,
 - [A key barrier to using MI Write is a lack of both curriculum integration and alignment](curriculum-integration-alignment-barrier-mi-write.md) — related
 - [Teachers need time to plan and carry out daily writing instruction to successfully learn and use MI Write](teacher-planning-time-needed-for-mi-write-use.md) — related
 - [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](reform-teacher-training-insufficient.md) — related
+- [Teachers reported curriculum and technical integration challenges when implementing Ecree and MI Write](teachers-reported-curriculum-technical-integration-challenges.md) — related

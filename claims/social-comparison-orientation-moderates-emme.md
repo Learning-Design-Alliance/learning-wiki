@@ -43,4 +43,4 @@ The article's summary statement of its exploratory social comparison orientation
 
 
 ## Related Claims
--
+- [For recall performance, the study found no significant three-way interaction between modeling condition, prior knowledge activation and domain knowledge, so the model-observer similarity hypotheses were not supported.](no-three-way-interaction-recall-emme.md) — related

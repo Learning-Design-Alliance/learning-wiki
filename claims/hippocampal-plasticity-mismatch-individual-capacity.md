@@ -47,3 +47,6 @@ Theoretical argument from the Wenger and Lövdén review article as summarized i
 
 ## Related Claims
 - [Two subsets of rational-number CCS items demand working memory capacities of 4 or 5 units respectively](rational-number-item-subsets-capacity-demands.md) — related
+- [A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges](shared-resource-storage-processing-wm.md) — related
+- [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
+- [Participation supports were most effective when deliberately matched to the specific constraints participants faced](supports-matched-to-barriers.md) — a broader claim this one bears on

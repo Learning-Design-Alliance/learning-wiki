@@ -64,3 +64,6 @@ Same coding analysis of 30 visits. The authors note that although the new practi
 ## Related Claims
 
 - [In encounters where both parties are predominantly expansive, early cycle actions such as questioning and modeling are typically absent and the focus is on implementing and consolidating](both-expansive-encounters-skip-early-cycle-actions.md)
+- [In encounters where both client and worker are predominantly defensive, the learning cycle stalls before implementing, reflecting and consolidating actions](both-defensive-cycles-stall-before-implementation.md) — related
+- [Clients shifted between defensive and expansive stances nearly twice as often as workers, and initiatives connected to physical actions were more effective than verbal hints at triggering shifts](stance-shifts-clients-outpace-workers-physical-actions-effective.md) — related
+- [Encounters with a mismatch between client's and worker's learning cycles typically contained all or almost all learning actions of the ideal-typical expansive cycle](mismatched-cycles-produce-fuller-learning-cycles.md) — related

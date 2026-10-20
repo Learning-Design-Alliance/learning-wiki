@@ -47,3 +47,6 @@ ANOVA of GPA effects (Table 4) in the same experiment; the GPA–attitudes relat
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](gpa-pretest-elaboration-interaction-intellectual-skills.md) — related
 - [In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy](self-generated-elaboration-improves-procedural-knowledge-accounting.md) — related
 - [Favorability scores were not associated with posttest scores, suggesting they reflect general attitudes toward the practice method](favorability-not-associated-with-posttest-scores.md) — related
+- [Elaboration strategy does not significantly affect students' attitudes toward the learning method](elaboration-strategy-no-attitude-effect.md) — related
+- [Engagement in data practices is associated with both cognitive and non-cognitive learning outcomes](data-practices-associated-cognitive-noncognitive-outcomes.md) — related
+- [Pretest performance and average math grade correlate with conceptual knowledge but not procedural knowledge posttest scores](pretest-grade-correlate-conceptual-not-procedural.md) — related

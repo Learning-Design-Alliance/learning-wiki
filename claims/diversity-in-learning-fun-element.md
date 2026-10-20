@@ -47,3 +47,6 @@ Thematic analysis of the four student focus groups (N = 12): students valued exp
 - [Students perceive pleasure—positive emotions during learning and the active minimization of boredom and displeasure—as an element of fun in learning](pleasure-positive-emotion-fun-element.md) — related
 - [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — related
 - [Students perceived clickers' greatest course impact as lesson variation and fun, with learning influence a distant second](clickers-fun-variation-over-learning.md) — related
+- [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Students report games make the classroom atmosphere fun and increase participation](games-fun-atmosphere-participation.md) — related
+- [Students perceive manageable challenge matched to their skills, with a sense of accomplishment, as an intrinsically rewarding element of fun in formal learning](challenge-accomplishment-fun-primary.md) — related

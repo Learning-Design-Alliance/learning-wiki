@@ -47,3 +47,5 @@ In the qualitative interviews, an Illinois school counselor argued that students
 - School staff experienced universal FAFSA policies as unfunded mandates that increased counselor workload without added staffing or training — related
 - Louisiana repealed the first universal FAFSA policy in 2024, yet statewide FAFSA completion efforts and completions continued after repeal — related
 - Illinois's universal FAFSA policy produced a mixed first-year result: submissions rose 0.8% while completions fell 0.2% — related
+- [Well-matched postsecondary enrollment NSI raised FAFSA completion but did not significantly affect postsecondary enrollment after year two](postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) — related
+- [Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment](fafsa-completion-predicts-four-year-enrollment.md) — related

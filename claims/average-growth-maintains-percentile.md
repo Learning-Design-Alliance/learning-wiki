@@ -45,3 +45,5 @@ Explanatory statement from the guide's FAQ on goal difficulty, illustrating that
 ## Related Claims
 - [The published norms allow normative interpretation of both status and fall-to-spring growth, e.g., an Algebra 1 student at the 55th fall percentile has an expected gain of 8 RIT with growth SD of 9, and an 11-RIT gain places the student at the 62nd growth percentile.](algebra1-status-growth-norms-example-interpretation.md) — related
 - [Under the 2025 norms, higher math growth expectations lower conditional growth percentiles for higher-growth students](2025-norms-lower-math-cgp-higher-growth-students.md) — related
+- [Norm shifts can change teacher evaluation CGP outcomes independently of instructional quality](cgp-norm-shifts-change-teacher-evaluation-outcomes.md) — related
+- [Aspirational Growth defaults to 60th-percentile growth (met by about 40% of similar students) and is selectable from the 55th to 95th percentile in 5-percentile increments](aspirational-growth-percentile-options.md) — related

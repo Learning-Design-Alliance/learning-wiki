@@ -46,3 +46,5 @@ The authors' stated interpretation of the study's results, presented in the abst
 - [Reading-as-the-reader perspective-taking improves young writers' revision and new drafting of descriptive essays in both 5th and 9th grade](reading-as-the-reader-improves-revision-and-drafting.md) — possibly the same claim (merge candidate)
 - [Revision conditions offering more reader insight produced contrasting benefits for young writers' descriptive revision](reader-insight-conditions-contrasting-benefits.md) — related
 - [Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether their writing is understandable and coherent.](skilled-writers-audience-awareness.md) — related
+- [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — related
+- [Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience](skilled-reader-estimate-audience-effect.md) — related

@@ -45,3 +45,4 @@ Subjective cognitive load rated on 7-point mental effort and perceived difficult
 ## Related Claims
 - [Providing a rubric reduces bias in self-assessment, moving judgments closer to expert ratings](rubrics-reduce-self-assessment-bias.md) — related
 - [Invested mental effort and perceived task difficulty are strongly correlated yet relate differently to relative task difficulty, indicating the two ratings measure different aspects of overall cognitive load](mental-effort-and-task-difficulty-ratings-differ.md) — related
+- [Expert example standards increase subjective task difficulty and mental effort during example evaluation](expert-standards-increase-difficulty-effort.md) — related

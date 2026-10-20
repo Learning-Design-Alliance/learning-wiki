@@ -49,3 +49,5 @@ Exploratory correlational analyses in the N = 147 sample using span scores and t
 - [Mean RT in the shifting block is positively correlated with intelligence, counterintuitively, in kindergarten children](shifting-rt-positively-intelligence.md) — related
 - [Inhibition accuracy in the Hearts and Flowers incongruent block is positively correlated with fluid intelligence in kindergarten children](inhibition-accuracy-correlates-fluid-intelligence-kindergarten.md) — related
 - [Verbal WM correlates with intelligence but visuospatial WM does not in kindergarten children](verbal-wm-intelligence-visuospatial-null.md) — related
+- [PES is robustly present in kindergarten children and decreases over the course of a task block](pes-present-decreases-within-block.md) — related
+- [Shifting accuracy and shift cost show no association with intelligence or WM in kindergarten children](shifting-null-intelligence-wm.md) — related

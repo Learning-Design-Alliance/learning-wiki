@@ -45,3 +45,4 @@ The review reports epidemiological figures for developmental writing disorders, 
 ## Related Claims
 - [About half of all children with DCD experience difficulty learning to write, making dysgraphia assessment essential because handwriting difficulties do not resolve without intervention](half-of-children-with-dcd-have-dysgraphia.md) — related
 - [Developmental dyscalculia prevalence was 5.6% in this UK sample, with no significant gender difference](dd-prevalence-5-6-percent-no-gender-difference.md) — related
+- [DCD prevalence estimates range from 1.8% to 6.9% with a male predominance of 2:1 to 3:1, and the disorder persists into adulthood for 30–70% of those diagnosed as children](dcd-prevalence-1-8-to-6-9-percent-male-predominance.md) — related

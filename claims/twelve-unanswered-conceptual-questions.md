@@ -43,4 +43,6 @@ Report from the design experiment's video data on the second main problem (build
 
 
 ## Related Claims
--
+- [Teacher and peer explanations of the scientific concepts during problem solving were at times scientifically misleading or wrong](teacher-scientific-concepts-misleading.md) — related
+- [Design features of the CSCL environment — procedural-only educational inscriptions on the website and the storyline of the 3D model — pulled interactions toward procedural problem solving](website-inscriptions-procedural-only.md) — a broader claim this one bears on
+- [Students' collective understanding during a physics tutorial alternates repeatedly between two distinct interpretations of tickertape distance rather than changing once](student-understanding-alternates-between-local-coherences-tickertape.md) — related

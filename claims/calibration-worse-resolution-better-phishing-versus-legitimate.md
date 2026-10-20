@@ -67,3 +67,4 @@ Same pooled paired comparison of resolution scores for phishing versus legitimat
 - [Participants are consistently overconfident for phishing emails but relatively well calibrated for legitimate emails except at 100% confidence](overconfident-phishing-well-calibrated-legitimate.md) — related
 - [Future anti-phishing interventions should measure both performance and metacognition, aiming to shift the phishing calibration curve toward the legitimate-email pattern](measure-performance-and-metacognition-in-interventions.md) — related
 - [Phishing email difficulty varies widely (15–85% correct) while mean confidence varies little (80–90%), leaving some victims unaware they were fooled](phishing-difficulty-variance-confidence-invariance.md) — related
+- [Better resolution on the laboratory phishing task predicts lower odds of malicious files on participants' home computers](resolution-predicts-lower-real-world-malicious-files.md) — related

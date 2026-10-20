@@ -45,3 +45,6 @@ This brief summarizes the 1996-1997 baseline report (Newmann, Lopez, and Bryk, 1
 ## Related Claims
 - [The intellectual quality of classroom assignments in Annenberg Challenge schools improved between 1997 and 1999, though some 1999 averages were lower than 1998](annenberg-assignment-quality-improved-1997-1999.md) — related
 - [A majority of writing and mathematics assignments in 12 Chicago Annenberg schools fell into the lowest two challenge categories](chicago-assignments-majority-low-challenge.md) — related
+- [Assignments teachers designated as challenging tended to score higher on intellectual quality than typical assignments](challenging-assignments-score-higher-than-typical.md) — related
+- [Intellectually Ambitious Instruction Is Associated with Improved Student Learning Across Populations](intellectually-ambitious-instruction-improves-learning.md) — related
+- [In a purposive sample of Chicago schools, both high- and low-prior-achieving students who received more intellectually demanding assignments made larger test-score gains](high-and-low-achievers-benefit-from-quality-assignments.md) — related

@@ -46,3 +46,8 @@ Repeated-measures MANOVA on CK, PK, and PCK pre–post knowledge tests in the th
 
 - [Interaction volume during AI-supported practice sessions did not differ significantly across conditions, supporting comparability of practice exposure](practice-exposure-comparable-across-conditions.md)
 - [Relevance instructions and guiding questions both improve pre-service teachers' first-order knowledge integration in a reading- and writing-based learning setting with three domain-specific texts](prompts-improve-first-order-knowledge-integration.md)
+- [No significant differences in learning measures across teacher-coached, researcher-coached, and BioWorld-alone conditions](bioworld-coaching-condition-null-manova.md) — related
+- [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related
+- [Pupils in all three conditions gained significantly from pre-test to post-test and retention test, with no prior-knowledge differences between conditions](all-conditions-significant-gains-history-tasks.md) — related
+- [Project performance improved significantly from pre- to post-feedback across all three feedback conditions with no significant differences between feedback sources](ai-teacher-feedback-equal-project-performance-gains.md) — related
+- [Pre-service teachers' second-order knowledge integration is mediated by their first-order knowledge integration](first-order-knowledge-integration-mediation.md) — related

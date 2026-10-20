@@ -64,3 +64,4 @@ Sensitivity analysis on answers generated from complete short-handbook text, whi
 ## Related Claims
 - Multimodal LLMs show moderate cross-model agreement on which image-Required items are solvable, with within-family agreement exceeding cross-family agreement — related
 - [Reproductive health shows the highest coverage gap (82.1% absence) and the highest judge-rated significance among divergent pairs (86%), making it a priority content area](reproductive-health-highest-absence-and-significance.md) — related
+- [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related

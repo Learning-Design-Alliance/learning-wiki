@@ -70,3 +70,4 @@ The Stroop effect was reliably elicited (congruent faster than incongruent, t(13
 - [Balance training improves memory in healthy adults relative to relaxation training](balance-training-improves-memory.md) — related
 - [Balance training improves spatial cognition in healthy adults relative to relaxation training](balance-training-improves-spatial-cognition.md) — related
 - [Children with lower pre-test executive function and social cognition skills improve more, while attendance, teacher involvement, age and school year do not predict gains](lower-pretest-skills-greater-gains-moderators-null.md) — related
+- [Cognitive benefits of balance training do not differ by age in adults aged 19–65](balance-training-benefits-age-invariant.md) — related

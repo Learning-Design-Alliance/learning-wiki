@@ -101,3 +101,13 @@ In the Belonging and Collaboration in Practice section, the primer attributes th
 - [Four factors explain students' sense of belonging in STEM, with interpersonal relationships the most commonly cited](four-factors-interpersonal-relationships-competence-interest-identity-explain-belonging.md) — related
 - [A sense of belonging can help promote and consolidate online learning](sob-promotes-consolidates-online-learning.md) — related
 - [Academic emotions moderate the relationship between belonging and achievement](emotions-moderate-belonging-achievement.md) — related
+- [A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning](sob-linked-attainment-satisfaction-attrition.md) — related
+- [Students most often rated collaboration opportunities, content interest, and class belonging as worse online](collaboration-interest-belonging-worse-online.md) — related
+- [Schools with distinct educational models show positive achievement effects when they feature small size, personalization, positive relationships, and educator collaboration](model-schools-common-features.md) — related
+- [Contextual themes (extracurricular activities, environmental/school safety) are associated with school belonging](contextual-themes-school-belonging.md) — related
+- [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](individual-difference-themes-school-belonging.md) — related
+- [Strong student–tutor relationships and a sense of belonging characterized tutoring programs with high attendance and positive learning effects](strong-student-tutor-relationships-key-to-tutoring-success.md) — related
+- [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related
+- [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](peer-collaboration-predicts-engagement.md) — related
+- [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](teacher-student-relationship-strongest-sobas-link.md) — related
+- [Associations with school belonging are generally stronger in rural than urban locations](belonging-effects-stronger-rural-than-urban.md) — related

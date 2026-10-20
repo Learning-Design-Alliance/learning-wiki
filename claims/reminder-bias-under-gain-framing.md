@@ -67,3 +67,4 @@ Preregistered within-participants MTurk experiment (N = 300) with performance-ba
 - [In Experiment 1, participants in both groups were significantly biased towards excessive reminder use relative to the optimal strategy](excessive-reminder-bias-both-groups-exp1.md) — related
 - [Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias](reminder-bias-overuse-external-aids.md) — a broader claim this one bears on
 - [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — related
+- [Framing adds an additive predictive value to the reminder bias beyond participants' internal metacognitive bias](framing-additive-beyond-metacognitive-bias.md) — related

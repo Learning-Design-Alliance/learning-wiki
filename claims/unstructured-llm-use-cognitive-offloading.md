@@ -50,3 +50,8 @@ A conceptual, normative and design-oriented paper that states it does not report
 - [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](genai-offloading-bypasses-desirable-difficulties.md) — related
 - [An effort-based reward did not significantly reduce answer offloading or improve unaided performance](effort-based-reward-no-effect-offloading-or-unaided-performance.md) — related
 - [Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through](ai-automation-reduces-productive-struggle.md) — related
+- [AI roles in learning communities risk passivity, diminished authenticity, and overdependence if reflective inquiry is bypassed](ai-risks-when-reflective-inquiry-bypassed.md) — related
+- [Unstructured LLM use contributes to epistemic narrowing by privileging convergent outputs and dominant viewpoints](unstructured-llm-use-epistemic-narrowing.md) — related
+- [Delegating intellectual work to generative AI risks eroding epistemic agency through reduced critical effort and cognitive offloading](genai-delegation-erodes-epistemic-agency.md) — possibly the same claim (merge candidate)
+- [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related
+- [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](metacognitive-displacement-illusion-of-competence.md) — related

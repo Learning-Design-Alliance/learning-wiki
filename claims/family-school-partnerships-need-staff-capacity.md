@@ -72,3 +72,7 @@ The guide argues that barriers to partnership include "the assumptions, beliefs,
 - [More than half of surveyed LEAs employ dedicated family liaisons who bridge schools and multilingual families](sv-leas-family-liaisons-bridge-multilingual-families.md) — related
 - [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](rural-community-commitment-boosts-turnaround.md) — related
 - [Teachers reported that integrated community school supports allowed them to prioritize student-centered learning opportunities](integrated-supports-let-teachers-focus-on-learning.md) — related
+- [Educators support educating the whole child but report barriers and call for more support](educators-call-support-whole-child.md) — related
+- [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
+- [School designs supporting caring, continuous student-teacher relationships better address trauma and strengthen achievement than traditional factory-model schools](relationship-centered-designs-beat-factory-model.md) — related
+- [Case study districts show potential underinvestment in family support and engagement, with most reporting no English Learner family/community liaisons](underinvestment-in-el-family-engagement-liaisons.md) — related

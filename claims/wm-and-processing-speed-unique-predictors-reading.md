@@ -69,3 +69,8 @@ Same constrained SEM across age groups. The article reports null paths: "Inhibit
 - The four cognitive measures form four distinct but significantly correlated latent factors whose relations are stable across the two age groups — related
 - Word reading and comprehension form distinct latent factors, supporting that the two constructs are separable with potentially different cognitive predictors — related
 - [The relation between word reading and reading comprehension is largely invariant across age groups 8 to 10 and 11 to 16](word-reading-comprehension-relation-age-invariant.md) — related
+- [Age differences in text processing are examined in terms of the roles of working memory, inhibition, and processing speed](age-differences-text-processing-working-memory-inhibition-processing-speed.md) — related
+- [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](shared-wm-speed-verbal-comprehension-rd-md.md) — a broader claim this one bears on
+- [Response inhibition shows small to moderate associations with listening comprehension (r = .16 to .42), based on only two studies](inhibition-listening-comprehension-small-moderate.md) — related
+- [Inhibition/interference, working memory and processing speed correlate with adolescent academic achievement, while cognitive flexibility and social skills do not](ef-domains-associated-adolescent-academic-achievement.md) — related
+- [Reading deficits are uniquely associated with phoneme awareness and naming speed, whereas math deficits are uniquely associated with set shifting](disorder-specific-phoneme-naming-set-shifting.md) — related

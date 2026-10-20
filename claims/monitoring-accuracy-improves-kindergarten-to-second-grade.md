@@ -69,3 +69,9 @@ Age main effect on the bias index in the same experiment: older children (M = .2
 - [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — related
 - [Pre-monitoring judgments before recognition increase rather than decrease overconfidence in kindergartners and second graders](pre-monitoring-increases-overconfidence-children.md) — related
 - [Pre-monitoring does not significantly improve children's relative monitoring accuracy (discrimination between correct and incorrect answers)](pre-monitoring-no-discrimination-improvement.md) — related
+- [Fourth graders outperform second graders on secret-code performance and restudy effectiveness, but not on self-monitoring discrimination](grade-differences-performance-restudy-not-self-monitoring.md) — reports the opposite
+- [Multidigit numeral interpretation improves with age, with second graders outperforming first graders and kindergarteners](multidigit-interpretation-improves-with-grade.md) — related
+- [Neither monitoring feedback nor performance feedback improved kindergarteners' monitoring accuracy relative to an active control](feedback-training-no-improvement-kindergarten-monitoring-accuracy.md) — related
+- [Children's ability to discriminate between correct and incorrect answers did not change over training regardless of group](discrimination-unchanged-after-training.md) — related
+- [Elementary school children monitor and control their answers to open-ended text comprehension questions more accurately than answers to true-false questions](monitoring-control-more-accurate-open-ended-than-true-false.md) — related
+- [Better inhibition skills in kindergarten predict less overconfident metacognitive monitoring in 2nd grade, explaining 11% of variance](kindergarten-inhibition-predicts-less-overconfident-monitoring.md) — related

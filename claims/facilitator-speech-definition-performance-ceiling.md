@@ -44,3 +44,4 @@ Facilitator detection (NLU) experiments with the same six LLMs and ModernBert ac
 
 ## Related Claims
 - [ModernBert classifiers are more consistent than out-of-the-box LLMs at facilitation timing prediction, outperforming them in three of five datasets](modernbert-beats-llms-facilitation-timing.md) — related
+- [Unreliability in an outcome measure reduces the statistical power of treatment-control comparisons](unreliability-reduces-rct-statistical-power.md) — a broader claim this one bears on

@@ -47,3 +47,4 @@ Descriptive post-test survey of 170 computing students at two U.S. institutions 
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — related
 - [Only half of students could clearly tell the AI-generated videos were AI-generated, the item with the highest variance](half-students-could-not-detect-ai-videos.md) — related
 - [Students rated the manual annotation activity as more effective than traditional lectures for understanding bias and reported increased motivation](annotation-more-effective-than-lectures-for-bias.md) — related
+- [Student ratings of the AI-generated materials ranged from an average of 8.5 to 9.9 out of 10 across validated modules, based on over 600 voluntary anonymous evaluations.](student-ratings-8-5-to-9-9-generated-materials.md) — related

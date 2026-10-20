@@ -47,3 +47,4 @@ Task 1 survey items reported in Table 1 as percent of educators responding yes. 
 - [Educators reported increased confidence across all four pillars of the whole-child model after LVN use](lvn-confidence-gains-four-pillars.md) — related
 - [Educators reported that LVN-selected strategies supported student engagement, content knowledge, confidence, and collaboration](lvn-strategies-support-engagement-and-knowledge.md) — related
 - [Educator-led peer professional development reinforced educators' own understanding and connected LVN to existing practice](peer-pd-reinforces-variability-understanding.md) — related
+- [Time to plan, more than tools or training, was the largest reported barrier to implementing LVN strategies](time-biggest-barrier-strategy-implementation.md) — related

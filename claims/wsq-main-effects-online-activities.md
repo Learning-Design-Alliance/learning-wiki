@@ -63,3 +63,8 @@ Same Table 4 overview of effects for the 20 students. The article reports that f
 
 ## Related Claims
 - [In the case study, the student with the most coded activities scored highest on the questionnaire and the student with the fewest scored lowest, but all four over-rated Orienting & planning relative to their protocols](case-study-activity-count-questionnaire-trend.md) — related
+- [Reported planner scores interact with episode: high planners plan more at the start and less at the end of task execution](planner-score-episode-interaction-planning.md) — reports the opposite
+- [SRL writing-stage clusters differed in production and revision but not in pausing](srl-writing-clusters-production-revision.md) — related
+- [The occurrence of six (meta)cognitive writing activities varies significantly across episodes of task execution](temporal-distribution-writing-activities.md) — related
+- [No effects of reported planner or reviser scores were found on evaluating own text](no-effects-evaluating-own-text.md) — related
+- [Reported reviser scores interact with episode for reading the assignment, with the effect reversing from episode 2 onwards](reviser-score-episode-reading-assignment.md) — related

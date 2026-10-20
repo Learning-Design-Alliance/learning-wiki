@@ -44,3 +44,4 @@ Cross-year validation on a random sample of 1,000 texts from the 2025 test, scor
 
 ## Related Claims
 - Model performance is robust to minor prompt wording changes but sensitive to holistic rubric redesign — related
+- [AI scoring consistency approaches or exceeds 90% for most rubric items, but spelling is replaced by a deterministic LanguageTool-based approach achieving 68% accuracy with 100% consistency](ai-consistency-high-except-spelling-languagetool-replacement.md) — related

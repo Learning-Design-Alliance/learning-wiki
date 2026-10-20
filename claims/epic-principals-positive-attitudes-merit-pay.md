@@ -48,3 +48,6 @@ Baseline survey of principals and vice principals in the Memphis and Washington,
 - [The EPIC project applied a set of methods to identify effective schools and teachers across a multi-state charter school consortium in its second year.](epic-year2-methods-identify-effective-schools-teachers.md) — related
 - [Principals' attitudes toward and framing of the REACH evaluation system shaped teachers' engagement with the evaluation process](principal-attitudes-shape-teacher-evaluation-engagement.md) — related
 - The merit award program's incentives increased student achievement in Chicago schools — related
+- [Merit award winners were nearly three times as likely to leave their school the following year (16.9% vs 5.9%), mostly leaving the district](merit-award-winners-increased-principal-exit.md) — related
+- [Fifty-seven percent of principals were highly enthusiastic about the Framework-based evaluation process while 43 percent held mixed to negative attitudes](principal-attitudes-toward-framework-evaluation.md) — related
+- [The EPIC evaluation baseline report compares student characteristics across the program's three partners and compares award-determination data with data on all students in the awarded schools](epic-baseline-compares-partner-student-characteristics-and-award-data.md) — related

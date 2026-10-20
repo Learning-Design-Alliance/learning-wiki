@@ -45,3 +45,5 @@ Descriptive enrollment trend reported from program data across the program's his
 ## Related Claims
 - [Alder's financial model combines grants, tuition, and LEA contributions, targeting 70–80% tuition funding by 2026–27 while keeping tuition low](alder-diversified-financial-model.md) — related
 - [Residencies recruit a more diverse teacher workforce than typical entry pathways](residencies-diversify-teacher-workforce.md) — a broader claim this one bears on
+- [California residency program completers are more likely to identify as candidates of color than completers of other preparation pathways](residency-completers-more-likely-candidates-of-color.md) — a broader claim this one bears on
+- [The Teacher Residency Grant Program supported nearly 1,400 funded residents through 2023, with residency programs graduating nearly 5,000 residents between 2021 and 2024, many in shortage fields and most residents people of color](trgp-supported-residents-shortage-fields.md) — related

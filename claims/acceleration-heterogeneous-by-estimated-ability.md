@@ -45,3 +45,4 @@ Analysis of the adaptive MAP Growth Reading Assessment data shows acceleration "
 ## Related Claims
 - [Response acceleration occurs in adaptive testing: response time is reduced for responses occurring later in the assessment](response-acceleration-later-adaptive-assessment.md) — a broader claim this one bears on
 - [Response-time reductions lead to lower accuracy relative to expectation for lower ability students](acceleration-lower-accuracy-low-ability-students.md) — related
+- [Ability and speed are negatively correlated, and the reading test's ability estimates are more affected by speed than the math test's](negative-ability-speed-correlation-li52-stronger.md) — related

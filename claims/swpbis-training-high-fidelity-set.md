@@ -70,3 +70,6 @@ Annual SET assessments by trained assessors blind to condition in all 37 schools
 -
 - [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](swpbis-effects-greatest-at-risk-high-risk-children.md) — related
 - [SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten](swpbis-strongest-kindergarten-exposure.md) — related
+- [SWPBIS training significantly improved staff-reported implementation fidelity on all four EBS subscales](swpbis-training-improved-ebs-staff-reports.md) — related
+- [Teachers implemented Preschool PATHS with high fidelity and positive engagement in the trial](paths-preschool-high-implementation-fidelity.md) — related
+- [The SWPBIS effect on the responding-to-behavioral-violations subscale was significant only when comparing Year 1 and Year 4](swpbis-behavioral-violations-subscale-mixed.md) — related

@@ -70,3 +70,7 @@ The effectiveness summary states that "three studies with strong designs reporte
 - [Reading Recovery shows strong ESSA evidence of positive effects on general literacy achievement and moderate evidence on academic dispositions for grade 1 students](reading-recovery-strong-evidence-literacy-achievement.md) — related
 - In a student-randomized trial, struggling readers in grades 1–4 who used Amira scored significantly higher on the Woodcock Reading Mastery Test Total Reading Composite (effect size = +0.64) than Sustained Silent Reading controls — related
 - Reading Recovery shows an average effect size of +0.43 across four qualifying studies, earning a Strong evidence rating — related
+- [Across two randomized studies, Air Reading shows a weighted average effect size of +0.20 on reading achievement, meeting the Strong standard](air-reading-weighted-average-effect-020.md) — related
+- [Literacy First shows strong ESSA evidence of positive effects in phonics and related alphabetics, reading fluency, and reading comprehension for grades K–2](literacy-first-strong-evidence-phonics-fluency-comprehension.md) — related
+- [Reading Recovery improves writing conventions three years after the intervention, but the effect is significant only against one of the two comparison groups](reading-recovery-improves-writing-conventions-mixed.md) — related
+- [Reading Partners tutoring significantly improves reading comprehension for grade 2-4 struggling readers, with a total effect size of +0.10](reading-partners-tutoring-comprehension-effect.md) — related

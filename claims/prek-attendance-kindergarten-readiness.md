@@ -67,3 +67,5 @@ The summary reports, citing the Phillips et al. (2017) consensus statement on pr
 - [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](full-day-prek-associated-el-kindergarten-readiness.md) — a narrower finding that bears on this claim
 - Chronically absent pre-kindergarten students (absent 10 percent or more of enrolled days) display lower academic and behavioral kindergarten readiness — related
 - [A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarten entry, and the program meets all 10 NIEER quality standards](wv-prek-print-awareness-gains.md) — a narrower finding that bears on this claim
+- [Enrolling in CPS pre-k before age four is associated with stronger kindergarten readiness in English language development and early reading for ELs](earlier-prek-enrollment-el-kindergarten-readiness.md) — a narrower finding that bears on this claim
+- [Pre-K benefits at the start of kindergarten diminish by a little more than half during the kindergarten year](pre-k-benefits-diminish-by-half-during-kindergarten.md) — related

@@ -45,3 +45,5 @@ Trend analysis of CPS testing-program enrollment categories around the 1998-99 b
 ## Related Claims
 - [ITBS and ISAT inclusion rules differ: ISAT reports scores for all test-takers, while about 20 percent of ITBS test-takers are excluded from public reporting](itbs-tested-but-excluded-isat-reports-all.md) — related
 - [Changes in CPS bilingual education testing policy drove drops in test-score inclusion, especially the fourth-grade inclusion drop in 1999 and the third-grade drop in 1997](bilingual-policy-changes-drove-inclusion-drops.md) — related
+- [CPS sharply reduced the number of non-graded (grade 20) special education students of grades 3-8 age, from 6,180 in 1992 to 773 in 1999](cps-grade-20-special-education-reclassification-1992-1999.md) — related
+- [In 1997, 31% of third graders and about 20% of sixth and eighth graders were excluded from Chicago's promotional test-score policy, with bilingual education the main exclusion reason in third grade and special education in sixth and eighth](cps-promotional-policy-exclusion-rates-1997.md) — related

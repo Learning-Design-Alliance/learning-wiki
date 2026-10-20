@@ -48,3 +48,4 @@ Standardized probability contrast from the primary pooled allocation model (Figu
 - [Teachers experiencing higher average demand across lesson planning, assessment/marking, and special-education adaptation report higher odds of AI adoption](focal-task-demand-associated-teacher-ai-adoption.md) — related
 - [The prespecified task–demand mapping produces the strongest within-teacher alignment of all six possible one-to-one assignments, supporting task-specific rather than arbitrary demand alignment](task-demand-mapping-specificity-ai-use.md) — related
 - [Among AI-using teachers, tasks experienced as relatively more demanding are more likely to be AI-supported overall](task-relative-demand-predicts-task-specific-ai-use.md) — a broader claim this one bears on
+- [The within-teacher demand–AI-use association differs sharply across tasks, with only a modest positive planning gradient](demand-ai-allocation-association-task-contingent.md) — a broader claim this one bears on

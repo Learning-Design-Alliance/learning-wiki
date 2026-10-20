@@ -65,3 +65,4 @@ Qualitative themes from the same coding process; participants described writing 
 - [Students using self-created cheat sheets reported greater perceived coverage of needed final exam content than instructor-provided users](self-created-sheets-greater-perceived-final-coverage.md) — related
 - [Most participants reported that cheat sheets boosted their confidence and efficiency during exams](cheatsheets-boost-confidence-efficiency.md) — related
 - [Self-created cheat sheet users reported significantly longer midterm preparation time than instructor-provided users, but the difference was not significant for the final exam](self-created-cheatsheets-longer-midterm-prep-time-only.md) — related
+- [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](cheatsheet-type-no-significant-performance-difference.md) — related

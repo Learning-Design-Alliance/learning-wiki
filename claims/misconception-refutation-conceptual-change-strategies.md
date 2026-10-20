@@ -47,3 +47,6 @@ Think-aloud experiment with 86 University of Minnesota undergraduates (6 exclude
 - [Readers with misconceptions generate more incorrect and fewer correct knowledge-based inferences than readers without misconceptions, in both text structures](misconceptions-inference-content-during-reading.md) — related
 - [Reader misconceptions inhibit comprehension; low-skill readers prefer prior knowledge over contradictory text information](misconceptions-inhibit-reading-comprehension.md) — related
 - [Readers with misconceptions recall less textual information than readers without misconceptions, regardless of text structure](misconceptions-reduce-recall-regardless-of-structure.md) — related
+- [Refutation texts produce greater conceptual change about multimedia-learning misconceptions than standard texts in student teachers](refutation-texts-greater-conceptual-change-than-standard.md) — related
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — a broader claim this one bears on
+- [Misconceptions impair comprehension of a standard text, and both a refutation text and a think sheet compensate for this detrimental effect](refutation-text-think-sheet-compensate-misconception-comprehension.md) — related

@@ -62,3 +62,4 @@ Same survey section on the pivot to new modes of instruction: schools that previ
 
 ## Related Claims
 - [Most New York charter schools reported decreases in learning time across subjects during closure, with low prior reading proficiency associated with larger ELA/Reading time losses](learning-time-decreases-proficiency-moderation.md) — related
+- [Nearly 80 percent of surveyed charter schools operated fully remotely in April 2020, falling to about half by the 2020-21 school year](charter-instructional-modes-remote-to-hybrid-shift.md) — related

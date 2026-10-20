@@ -46,3 +46,5 @@ Cross-sectional regression of three self-report functional measures (basic ADL, 
 - [Higher total literacy is associated with higher global cognition and all five specific cognitive abilities in older adults without dementia](literacy-associated-cognition-older-adults.md) — related
 - [The association of total literacy with physical activity is not statistically significant after adjustment for income and chronic medical conditions](literacy-physical-activity-null-fully-adjusted.md) — related
 - [Higher total literacy is associated with more frequent participation in cognitive, physical, and social activities in older adults without dementia](literacy-associated-health-promoting-behaviors-older-adults.md) — related
+- [Financial literacy, but not health literacy, is associated with mental health indices in older adults without dementia](financial-literacy-associated-mental-health-older-adults.md) — related
+- [Measures of everyday functioning and independent living correlate with psychometric cognition, with stronger relations for fluid reasoning than for crystallized knowledge](fluid-cognition-predicts-independent-living.md) — related

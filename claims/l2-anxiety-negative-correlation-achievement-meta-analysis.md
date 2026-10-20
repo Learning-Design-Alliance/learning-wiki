@@ -65,3 +65,7 @@ Meta-analysis of 97 reports contributing 105 independent samples (N = 19,933) fr
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — a broader claim this one bears on
 - [Interest correlates moderately with academic achievement (mean correlation r = .31, meta-analytic)](interest-achievement-correlation-31.md) — related
 - [Writing apprehension and anxiety show strong negative correlations with writing self-efficacy in postsecondary students](writing-apprehension-negative-correlation-self-efficacy.md) — related
+- [A unique form of anxiety experienced in response to learning or using an L2 was identified in the mid-1980s](fla-identified-mid-1980s.md) — related
+- [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](flca-influences-outcomes-four-factors.md) — a narrower finding that bears on this claim
+- [Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquisition through reading](incidental-vocabulary-anxiety-positive-predictor.md) — related
+- [The possibility that anxiety interferes with language learning has long interested scholars, teachers, and learners](anxiety-interferes-language-learning-long-interest.md) — a broader claim this one bears on

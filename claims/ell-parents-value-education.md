@@ -45,3 +45,6 @@ The brief's overview of existing research reports that ELL parents "place a high
 ## Related Claims
 - [Negative prior experiences with educational institutions and less exposure to formal schooling are barriers to ELL parental involvement](ell-parent-schooling-history-barrier.md) — related
 - [Limited English fluency and low native-language literacy among parents hinder school communication in ELL communities](ell-parent-language-literacy-barrier.md) — related
+- [Different engagement dimensions defined the high engagement profiles across language groups: school participation for Spanish-speaking parents, foundational education for English-speaking parents](high-engagement-profiles-differ-by-language-group.md) — related
+- [Latent profile analysis identified three family engagement profiles in both Spanish- and English-speaking low-income Latino samples](three-profile-family-engagement-latino-head-start.md) — related
+- [Demographic predictors of engagement profile membership differed across language groups, with employment the only significant predictor for English-speaking parents](demographic-predictors-differ-by-language-group.md) — related

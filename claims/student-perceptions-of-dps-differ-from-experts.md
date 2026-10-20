@@ -64,3 +64,5 @@ Weighted Cohen's κ and paired t-tests comparing student and expert ratings on 3
 ## Related Claims
 - [A reasoning-oriented LLM outperformed a standard LLM on scenario quality and feasibility of generated design problems, with no differences on alignment, cognitive complexity, or clarity](reasoning-llm-outperforms-standard-on-dp-quality.md) — related
 - [Half of LLM-generated design problems received perfect expert ratings, though common failure modes included scenarios too similar to the original project and ambiguous scope](llm-dp-quality-failure-modes.md) — related
+- [Instructors value design problems for assessing higher-order thinking in PjBL but cite creation effort and scalability as adoption barriers](instructors-value-dps-effort-barrier.md) — related
+- [Undergraduate learners rated CyberAGENTS positively, with scenario authenticity highest and challenge difficulty alignment lowest](cyberagents-positive-learner-perceptions.md) — related

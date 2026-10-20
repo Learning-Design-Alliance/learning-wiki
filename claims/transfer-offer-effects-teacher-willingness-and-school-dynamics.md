@@ -46,3 +46,4 @@ The abstract states the paper's two focal questions: teachers' "willingness to t
 - [A $20,000 selective transfer incentive offers high-performing teachers in 10 districts payment to move into their district's hardest-to-staff schools](selective-transfer-incentive-20000-hard-to-staff-schools.md) — related
 - [A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts](teacher-transfer-incentive-behavioral-responses.md) — related
 - [The transfer incentive targeted high-performing teachers into the hardest-to-staff schools within their own districts](selective-transfer-targets-hardest-to-staff-schools.md) — related
+- [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](tti-20000-incentive-filled-90-percent-vacancies.md) — related

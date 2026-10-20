@@ -68,3 +68,4 @@ The report states the original $20,000 maximum award "covered, on average, 80% o
 - [GSTG recipients report teaching in high-need schools and shortage subjects, with most intending to stay after their service obligation](gstg-recipients-high-need-schools-subjects.md) — related
 - [The GSTG likely contributed to a 23% increase in California-prepared preliminary teaching credentials between 2022–23 and 2023–24](gstg-associated-credential-increase.md) — related
 - [Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs](service-scholarships-recruit-retain-when-generous.md) — related
+- [Golden State Teacher Grant recipients reported the scholarship made teaching financially feasible and led them to plan longer stays in high-need schools](gstg-made-teaching-financially-feasible.md) — related

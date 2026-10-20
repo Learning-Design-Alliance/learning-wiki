@@ -45,3 +45,4 @@ The abstract reports the article's own literature analysis: it "identifies a gap
 ## Related Claims
 - [Learning styles impact teachers, pedagogy, student engagement, and assessment in K-12 education](learning-styles-impact-teachers-pedagogy-engagement-assessment.md) — related
 - [Learning styles have been used in education for classifying students by their preferences for taking in, processing, and demonstrating information](learning-styles-classify-student-preferences.md) — related
+- [State interviewees raised three equity concerns about performance-based assessments: perceived lower rigor and tracking, uneven implementation quality, and inequitable or unreliable scoring](equity-concerns-performance-based-assessments.md) — related

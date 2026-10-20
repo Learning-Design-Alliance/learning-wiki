@@ -43,4 +43,8 @@ Linear regressions predicting item-level monitoring judgments for each of the fo
 
 
 ## Related Claims
--
+- [Adults randomly assigned to a worked-example educational intervention made higher post-intervention monitoring judgments on health math problems than control participants](worked-example-intervention-raised-monitoring-judgments.md) — related
+- [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related
+- [Adults who answered health math problems correctly reported higher monitoring judgments than those who answered incorrectly, with larger differences at posttest than pretest](accuracy-linked-to-higher-monitoring-judgments.md) — related
+- [Math anxiety explained variance in posttest monitoring judgments beyond trait anxiety, supporting its distinctness from general anxiety](math-anxiety-distinct-from-trait-anxiety-in-monitoring.md) — related
+- [Math anxiety mediated the effect of gender on pretest monitoring judgments in exploratory analyses](math-anxiety-mediates-gender-effect-on-monitoring.md) — related

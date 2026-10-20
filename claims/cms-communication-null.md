@@ -42,3 +42,5 @@ Pearson correlations tested whether child-parent communication frequency influen
 
 ## Related Claims
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
+- [CMS metacognition correlates with AQ-J-50 social skills and total scores, but self-judgment accuracy does not](cms-criterion-validity-aq.md) — related
+- [CMS metacognition correlates with BCIS self-reflectiveness and CMS self-judgment accuracy correlates with BCIS self-certainty](cms-criterion-validity-bcis.md) — related

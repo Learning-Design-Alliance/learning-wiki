@@ -47,3 +47,5 @@ Episode 4 interaction analysis: Ana and Ted read claims on vaccin.me to decide i
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
 - [Digital network mapping tools support students in critically selecting and reviewing online data on socio-scientific controversies](gephi-mapping-supports-critical-data-review.md) — a broader claim this one bears on
 - [Digital mapping tools slow down students' judging and categorizing of online material, prompting collaborative negotiation of how to make sense of a controversy](mapping-tools-slow-categorization-negotiation.md) — a broader claim this one bears on
+- [Students orient to visually prominent nodes (large, central) when beginning to categorize actors on a controversy map](students-orient-to-visually-prominent-nodes.md) — related
+- [The software's content-blind structure makes important controversy actors difficult to find, prompting students to repurpose tool features to the task](content-blind-map-hides-central-actors.md) — related

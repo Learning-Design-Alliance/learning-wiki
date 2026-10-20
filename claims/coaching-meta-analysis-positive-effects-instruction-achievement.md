@@ -49,3 +49,7 @@ The paper reports on Kraft, Blazar and Hogan's meta-analysis of causal effects o
 
 - [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 - [DLP participants reported more frequent meaningful coaching activities than other coaching programs, but fewer opportunities to observe other teachers](dlp-versus-other-coaching-programs-comparison.md) — related
+- [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](coaching-complementary-elements-moderators.md) — related
+- [Coaching effects do not differ significantly across school levels, and in-person versus virtual delivery shows no significant difference](coaching-no-school-level-or-mode-differences.md) — related
+- [Coaching effects on instruction and achievement are positively correlated, but large instructional improvements are needed for modest achievement gains](instruction-achievement-weak-link-coaching.md) — related
+- [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — related

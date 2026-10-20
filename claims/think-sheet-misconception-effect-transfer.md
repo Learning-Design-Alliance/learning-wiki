@@ -64,3 +64,8 @@ Conditional effects showed a significant positive misconception effect in the co
 ## Related Claims
 
 - [Under reading-only, students with more misconceptions achieved better comprehension, but completing a think sheet removed this effect of misconceptions on comprehension](think-sheet-removes-misconception-effect-comprehension.md)
+- [Completing the think sheet more accurately was associated with higher comprehension, transfer, and regulation decision adequacy](think-sheet-quality-relates-outcomes.md) — related
+- [Adequacy of regulation decisions did not depend on misconceptions or instructional method](no-effect-regulation-decision-adequacy.md) — related
+- [Misconceptions did not impair transfer in the strong control condition, but learners with more misconceptions in the think-sheet group transferred better](think-sheet-misconceptions-positive-transfer-effect.md) — reports the opposite
+- [Misconceptions impair comprehension of a standard text, and both a refutation text and a think sheet compensate for this detrimental effect](refutation-text-think-sheet-compensate-misconception-comprehension.md) — related
+- [Learners with more misconceptions who completed a think sheet were more underconfident in predicting their transfer performance](think-sheet-underconfidence-transfer-predictions.md) — related

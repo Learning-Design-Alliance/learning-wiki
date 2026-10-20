@@ -45,3 +45,4 @@ Production study: among participants who used boxes around arguments, all "used 
 ## Related Claims
 - [Among two objects with the same signalling, participants focused more on the arrow-cued object, and the change occurred in the un-cued object](cueing-outcompetes-signalling-alone-for-attention.md) — related
 - [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](signalling-focuses-attention-reduces-change-detection-elsewhere.md) — related
+- [Color, especially green for arguments in favor and red for arguments against, is widely used by producers to categorize for and against arguments](color-green-red-separate-for-against-arguments.md) — related

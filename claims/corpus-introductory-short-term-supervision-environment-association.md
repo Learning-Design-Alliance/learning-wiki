@@ -44,3 +44,5 @@ Descriptive analysis of the 90 included studies (Fig. 2) coding target learners,
 
 ## Related Claims
 - [Tutors and trainee researchers most value supportive attitude, mastery of the research field, and accessibility in a research project supervisor](supervisor-desirable-characteristics-survey.md) — related
+- [Assistant and Enabler entanglements dominate GenAI-in-higher-education research, each accounting for 42.16% of a 102-study corpus, while Synthesizer, Reimaginator, and Generator together constitute less than one fifth](assistant-enabler-dominate-genai-he-corpus.md) — related
+- [Authority over assistance boundaries is highly centralized in system logic in LLM-based programming support systems](authority-centralized-system-only-llm-programming-support.md) — related

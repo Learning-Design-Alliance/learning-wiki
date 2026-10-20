@@ -66,3 +66,4 @@ Robustness check with the Kruskal-Wallis H test given unequal condition sizes co
 - [Data disclosure of any format does not change students' acceptance of data collection by their university](disclosure-no-effect-acceptance.md) — related
 - [Detailed disclosure does not make students more conservative about who should have access to their educational data](disclosure-no-effect-access-opinions.md) — related
 - [In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak](policy-audit-collection-strong-ai-accountability-weak.md) — related
+- [A majority of students think they should be informed of data collection details at multiple contact points throughout their studies](students-want-multiple-informed-consent-contact-points.md) — related

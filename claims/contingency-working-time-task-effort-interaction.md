@@ -70,3 +70,4 @@ Printed direction of the interaction in Results: "When the independent working t
 - [A contingent AI tutor places metacognitive demand equal to a question-only tutor and higher than an answer-on-request assistant](contingent-tutor-metacognitive-demand-matches-withholding-tutor.md) — related
 - [On the knowledge assignment, neither the occasion-by-contingency interaction nor the three-way interaction with independent working time was significant](knowledge-assignment-null-contingency-effects.md) — related
 - [The scaffolding intervention unintentionally increased small groups' independent working time, roughly doubling it from premeasurement to postmeasurement](scaffolding-intervention-increases-independent-working-time.md) — related
+- [Teachers who completed a scaffolding intervention program increased the contingency of their support far more than non-participating teachers](scaffolding-intervention-increases-teacher-contingency.md) — related

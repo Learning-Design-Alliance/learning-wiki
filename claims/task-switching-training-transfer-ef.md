@@ -83,3 +83,5 @@ The review reports, citing Zinke et al. (2012), task-switching training in 10- t
 ## Related Claims
 - [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related
 - [Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain](narrow-transfer-computerized-ef-training.md) — related
+- [Metacognitive scaffolding added to computer-based executive attention training produces larger intelligence gains in preschoolers than regular training or an untrained active control](metacognitive-scaffolding-larger-intelligence-gains-preschoolers.md) — related
+- [Computer-based training reliably improves children's working memory and reasoning, but computerized training has not succeeded in improving 4- to 6-year-olds' inhibitory control](computerized-training-wm-reasoning-not-young-inhibition.md) — related

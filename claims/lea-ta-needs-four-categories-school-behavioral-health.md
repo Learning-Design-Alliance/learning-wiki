@@ -52,3 +52,4 @@ Analysis of LEAs' SBHIP needs assessments and project plans plus interviews with
 - [State investments in coordinators, professional development, and technical assistance were key to achieving community schools outcomes](state-investment-coordinators-pd-key-to-outcomes.md) — related
 - [LEAs expressed broad interest in technical assistance, with the highest interest in professional learning opportunities](technical-assistance-professional-learning-highest.md) — related
 - [Culture impacts many instructional design procedures, from needs assessment to project management](culture-impacts-many-id-procedures.md) — related
+- [Centralized district management of partnerships enabled community schools to deliver programs and services without the burden of managing partnerships](centralized-partnership-management-frees-schools.md) — related

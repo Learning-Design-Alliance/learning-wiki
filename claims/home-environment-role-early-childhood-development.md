@@ -45,3 +45,5 @@ The brief lists among its key findings "The importance of the home environment i
 ## Related Claims
 - [Supporting early childhood math development is important for young children's development](early-math-development-importance.md) — related
 - [Parents play an important role in young children's math development](parents-role-early-math-development.md) — related
+- [High-quality pretend play is an important facilitator of perspective taking and later abstract thought](pretend-play-facilitates-perspective-taking-abstract-thought.md) — related
+- [Exposing young children to early math concepts supports reasoning, problem solving, and later success in and out of school](early-math-exposure-supports-reasoning-and-later-success.md) — related

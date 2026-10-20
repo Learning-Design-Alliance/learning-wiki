@@ -47,3 +47,4 @@ Ablation study (Table 4) with six conditions decomposing each component's contri
 - [Laplace-based local differential privacy outperforms Gaussian noise under Rényi-DP accounting for bounded (0,1)K prediction outputs](laplace-ldp-superior-gaussian-bounded-outputs.md) — related
 - [Heterogeneous multi-LLM federated inference improves cognitive diagnosis MAE over single-LLM baselines across three educational benchmarks with minimal privacy cost](multi-llm-federated-cognitive-diagnosis-improvement.md) — related
 - [ε=2.0 provides the best privacy–utility balance, while ε=0.5 introduces excessive noise that degrades performance below baseline on ASSIST09](privacy-budget-epsilon-tradeoff-cognitive-diagnosis.md) — related
+- [Federated improvements over the single-LLM baseline are statistically significant across all three datasets, with Cohen's d from 0.62 to 0.89](statistical-significance-federated-diagnosis-gains.md) — related

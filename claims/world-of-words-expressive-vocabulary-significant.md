@@ -50,3 +50,4 @@ Cluster randomized controlled trial with compromised random assignment (meets WW
 - [World of Words showed no statistically significant effects on the Woodcock-Johnson Picture Vocabulary Subtest or the PPVT-IV](world-of-words-null-standardized-vocabulary-measures.md) — related
 - [World of Words has positive effects on the language outcome domain for prekindergarten children, with an average effect size of 0.43 across four studies](world-of-words-positive-language-effects.md) — a broader claim this one bears on
 - [World of Words produced a statistically significant medium-to-large effect on a researcher-developed vocabulary inductive reasoning test (effect size 0.66)](world-of-words-inductive-reasoning-significant.md) — related
+- [World of Words produced a large, statistically significant effect on taught-word sorting performance (effect size 0.94) in a two-site Head Start study](world-of-words-sorting-task-large-effect.md) — related

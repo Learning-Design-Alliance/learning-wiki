@@ -47,3 +47,4 @@ Pre-test comparison of 70 life science university teachers (22 prospective, 48 c
 - [Prospective teachers notice fewer pedagogically significant incidents than current faculty teachers before training](prospective-teachers-notice-fewer-incidents-pretest.md) — related
 - [Prospective teachers hold more misconceptions about teaching and learning than current faculty both before and after training, and misconceptions decreased only among current faculty](prospective-teachers-more-misconceptions.md) — related
 - [Reasoning scores of both prospective and current faculty teachers increased significantly during the short pedagogical training, but noticing did not improve significantly in either group](training-improves-reasoning-not-noticing.md) — related
+- [Studying double-content examples before video-based analyses hindered student teachers' noticing and reasoning compared to studying without them](double-content-examples-hindered-noticing-reasoning.md) — related

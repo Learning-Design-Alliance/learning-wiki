@@ -65,3 +65,6 @@ Paired samples t-tests in the main study comparing distances of the overall asse
 - [Delayed post-learning assessments of ICL, ECL, and GCL do not differ between increasing and decreasing complexity sequences](delayed-assessments-invariant-to-sequence.md) — related
 - [Delayed cognitive load assessments after learning exceed the average of during-learning assessments only when complexity decreases across the learning material](delayed-icl-exceeds-average-only-decreasing-complexity.md) — related
 - [ICL ratings track the manipulated complexity sequence: increasing across units in the increasing condition and decreasing in the decreasing condition](icl-ratings-track-complexity-sequence.md) — related
+- [ECL ratings also follow the complexity sequence, rising in the increasing condition and falling in the decreasing condition, though ECL was not manipulated](ecl-ratings-follow-complexity-sequence.md) — related
+- [Delayed cognitive load ratings appear to be based more on the more complex problems in the series than on a recency effect](delayed-ratings-based-on-complex-problems.md) — related
+- [The delayed-higher-than-immediate difference for cognitive load ratings replicates regardless of whether problem complexity increases or decreases across the sequence (Experiment 2)](delayed-rating-effect-independent-of-problem-sequence.md) — related

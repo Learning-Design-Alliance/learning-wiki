@@ -48,3 +48,4 @@ Main Prolific experiment with 103 valid participants, each assigned one of four 
 - [Descriptive time-to-fix patterns favored pragmatic messages, but statistical tests found no significant effects](time-to-fix-descriptive-favor-llm-not-significant.md) — related
 - [Both LLM rewrite styles were rated less authoritative than standard interpreter messages](llm-rewrites-rated-less-authoritative.md) — related
 - [Pragmatic and contingent LLM rewrites reduced perceived cognitive load relative to standard interpreter messages](llm-rewrites-lower-perceived-cognitive-load.md) — related
+- [Rewriting MATHia word problems for struggling readers, by human experts or LLMs, sped completion by 30% and improved mastery rate](rewritten-word-problems-faster-completion-mastery.md) — related

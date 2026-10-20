@@ -53,3 +53,6 @@ A theoretical statement from the article's abstract identifying the core assumpt
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — related
 - [Disengaged student responses raise the issue of whether engaged responses maintain the intended content representation](disengaged-responses-threaten-engaged-content-representation.md) — related
 - [Current measurement models underlying achievement testing assume students respond effortfully to test items](measurement-models-assume-effortful-responding.md) — a broader claim this one bears on
+- [Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model](rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated.md) — related
+- [The effort-moderated IRT model's parameter estimation accuracy was studied under multiple assumption violations in the context of test-taking disengagement](effort-moderated-irt-parameter-estimation-under-assumption-violations.md) — related
+- [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related

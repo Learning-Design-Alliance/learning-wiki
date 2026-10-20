@@ -46,3 +46,6 @@ The fully unconditional HLM model on 3,803 observations from 137 students showed
 
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
 - [A problem's primary physics concept predicts persistence, with energy can dissipate problems eliciting the most](primary-concept-predicts-persistence.md)
+- [Physics understanding difficulty is a stronger predictor of in-game persistence than game mechanics difficulty in Physics Playground](pu-difficulty-stronger-than-gm-predicts-persistence.md) — related
+- [Weekly group data on PBL interactions showed substantial between-group variability (ICC 0.4), requiring multilevel growth models](group-variability-icc-multilevel-growth-models.md) — related
+- [Game mechanics difficulty positively predicts persistence in Physics Playground problems](gm-difficulty-positively-predicts-persistence.md) — related

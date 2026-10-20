@@ -64,3 +64,8 @@ System-category coding of temporality across the 62 publications: "synchronous c
 ## Related Claims
 
 - [Only a minority of VRL studies assess collaboration quality or learning, but most studies that measure learning report positive impact](minority-studies-evaluate-collaboration-learning-vrls.md)
+- [Group awareness tools showing peer presence, peer activities, or multiple artifacts are integrated in many educational VRLs, but performance and teacher-presence indicators are never standalone](group-awareness-tools-multimodal-vrls.md) — related
+- [Synchronous communication is the most common collaboration support integrated in educational VRLs, and few labs offer none](synchronous-communication-most-common-in-vrls.md) — related
+- [Regulation tools for collaboration are very rare in educational VRLs, identified in only 8 laboratories, mostly supporting regulation by teachers](regulation-tools-very-rare-vrls.md) — related
+- [Guidance tools supporting collaboration are relatively uncommon in educational VRLs, integrated in only 13 of 62 reviewed systems](guidance-tools-uncommon-vrls.md) — related
+- [In one reviewed study, students who first collaborate and then complete an activity individually in the VRL are more successful than students who complete an individual task first and then collaborate](collaborate-first-then-individual-more-successful-vrl.md) — related

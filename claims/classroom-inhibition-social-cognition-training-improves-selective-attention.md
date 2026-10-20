@@ -41,4 +41,7 @@ Repeated-measures ANOVA (time × group) on 121 experimental and 120 control chil
 
 
 ## Related Claims
--
+- [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](paths-csrp-addon-ef-improvement.md) — a broader claim this one bears on
+- [Inhibition performance improved significantly from kindergarten to 2nd grade in accuracy, speed, and combined efficiency](inhibition-improves-kindergarten-to-grade-2.md) — related
+- [Children with lower pre-test executive function and social cognition skills improve more, while attendance, teacher involvement, age and school year do not predict gains](lower-pretest-skills-greater-gains-moderators-null.md) — related
+- [Computer-based training reliably improves children's working memory and reasoning, but computerized training has not succeeded in improving 4- to 6-year-olds' inhibitory control](computerized-training-wm-reasoning-not-young-inhibition.md) — related

@@ -43,4 +43,4 @@ Studies of the Algebra I Cognitive Tutor conducted in Pittsburgh and Milwaukee, 
 
 
 ## Related Claims
--
+- [In Miami-Dade County, Cognitive Tutor Algebra I students significantly outscored peers on the 2003 FCAT, with especially large pass-rate differences for Exceptional Student Education and limited-English-proficiency students](cognitive-tutor-miami-dade-fcat-pass-rates.md) — related

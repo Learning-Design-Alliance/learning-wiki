@@ -50,3 +50,4 @@ Narrative synthesis of two systematic reviews (Dressler & Kamil, 2006; Riches & 
 - [L1 decoding is positively related to English reading comprehension for Spanish- and Chinese-speaking MLs, with the correlation decreasing as children get older](l1-decoding-positive-relationship-english-comprehension.md) — related
 - [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts are more likely to transfer across languages, while vocabulary and comprehension are more language-dependent](cross-linguistic-transfer-skill-specific.md) — related
 - [L2 oral language shows a moderate to strong positive relationship with L2 reading comprehension for multilingual learners, and the correlation increases with age](l2-oral-language-correlates-english-reading-comprehension.md) — related
+- [Students used two languages flexibly for different mathematical sub-tasks but lacked academic Spanish vocabulary](bilingualism-math-resource-untapped.md) — related

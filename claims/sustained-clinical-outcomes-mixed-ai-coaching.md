@@ -48,3 +48,6 @@ The review cites an RCT (Stasinaki et al.) where AI incorporation did not improv
 ## Related Claims
 - [Purpose-built AI chatbots show generally promising short-term improvements in physical activity and dietary behaviors](health-behavior-change-short-term-promising.md) — related
 - [Purpose-built AI chatbot coaching is generally well received and supports short-term motivation and selected behavior change, but effects on sustained, meaningful outcomes are inconsistent](purpose-built-chatbot-coaching-short-term-benefits-inconsistent-sustained.md) — a broader claim this one bears on
+- [Reported outcomes of AI-supported university physics education are mixed and context-dependent, and the evidence does not support a conclusion that AI is uniformly effective](ai-physics-outcomes-mixed-context-dependent.md) — related
+- [A quasi-experimental intervention reported short-term reductions in loneliness followed by lower social anxiety after a social-chatbot intervention](quasi-experimental-chatbot-intervention-lowered-loneliness-short-term.md) — related
+- [Purpose-built chatbot effects on educational performance are mixed, with some studies showing no benefits or worse outcomes than comparison conditions](educational-performance-mixed-ai-chatbots.md) — related

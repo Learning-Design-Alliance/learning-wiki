@@ -46,3 +46,10 @@ A framing assertion from the abstract establishing why alignment matters for val
 ## Related Claims
 - [Content experts and practitioner reviews supported the content and face validity of the CT–PCK Survey](ct-pck-content-face-validity.md) — a narrower finding that bears on this claim
 - [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](statistical-item-selection-conflicts-criterion-referenced-definition.md) — related
+- [Test disengagement could undermine inferences drawn from observed achievement scores](disengagement-undermines-score-inferences.md) — related
+- [Twenty years of research on disengaged test taking in international assessment programs yields six insights with implications for assessment programs](six-insights-test-taking-disengagement-international-programs.md) — related
+- [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — related
+- [Disengaged test taking in international assessment programs threatens the validity of inferences about a country's educational attainment](disengaged-test-taking-invalidates-country-level-attainment-inferences.md) — related
+- [Disengaged responding biases observed scores from achievement tests and surveys in practically and statistically significant ways](disengaged-responding-biases-observed-scores.md) — related
+- [Cognitive process inference in computerized testing rarely rests on strong process data](weak-process-data-in-computerized-testing.md) — related
+- [Criterion-referenced test items should represent skills essential to learning to read and be arranged in the hierarchy used for teaching](criterion-referenced-items-should-represent-essential-skills-in-a-teaching-hierarchy.md) — a narrower finding that bears on this claim

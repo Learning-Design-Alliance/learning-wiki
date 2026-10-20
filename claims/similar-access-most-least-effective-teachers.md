@@ -69,3 +69,4 @@ The study snapshot's key findings report that across 26 study districts, high- a
 - [Average differences in teacher effectiveness for high- and low-income students are small in the average study district](small-average-effectiveness-differences.md) — related
 - [Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income](hiring-transfer-patterns-consistent-small-differences.md) — related
 - [Teacher hiring and transfer patterns are consistent with small effectiveness differences, while attrition does not contribute to inequitable access](hiring-transfers-not-attrition-drive-inequity.md) — related
+- [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — reports the opposite

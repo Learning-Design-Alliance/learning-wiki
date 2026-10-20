@@ -43,4 +43,5 @@ Pearson correlations between encoding early-P3 and retrieval P3 amplitudes in th
 
 
 ## Related Claims
--
+- [Retrieval P3 discriminates Same from Different trials only in non-ADHD adolescents, indicating a failure of post-selection prioritization in ADHD](retrieval-p3-change-discrimination-only-non-adhd.md) — related
+- [Encoding P3 amplitude is reduced in ADHD adolescents during visual WM encoding, in both early and late time windows](reduced-encoding-p3-adhd.md) — related

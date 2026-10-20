@@ -59,3 +59,6 @@ Independent-samples t-tests comparing 67 lower-proficiency (L) and 30 higher-pro
 - The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences — related
 - [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](self-efficacy-and-test-anxiety-predict-performance.md) — related
 - [Learning patterns are associated with personal factors (personality, motivation, beliefs, prior education, age, gender); their associations with personality are weak to moderate, indicating learning patterns are not stable traits](learning-patterns-personal-factors.md) — a broader claim this one bears on
+- [Goal orientations moderate self-efficacy perceptions in ways not originally predicted by self-efficacy theory](goal-orientations-moderate-efficacy-perceptions.md) — related
+- [Self-reports of achievement goal orientations diverge markedly from traced goal orientations, which predict reading achievement while self-reports do not](goal-orientation-self-reports-diverge-from-traces.md) — related
+- [Language proficiency significantly moderates the effect of learning motivation on oral proficiency improvement](proficiency-moderates-motivation-oral-gains.md) — related

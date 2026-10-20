@@ -47,3 +47,5 @@ Randomized experiment with 60 ESP students assigned to experimental (pronunciati
 - [Efficiency in phonological and orthographic processing contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — a broader claim this one bears on
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — reports the opposite
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
+- [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — a broader claim this one bears on
+- [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related

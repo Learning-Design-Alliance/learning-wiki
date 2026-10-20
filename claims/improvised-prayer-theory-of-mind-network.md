@@ -46,3 +46,5 @@ Narrative review synthesis of prayer neuroimaging studies; the review reports, c
 - [Posture rather than concurrent recitation principally drives EEG relaxation responses during Islamic prayer (Salat)](salat-posture-drives-eeg-relaxation-response.md) — related
 - [Eight weeks of mindfulness-based stress reduction increases gray matter density in left hippocampus, PCC, left temporo-parietal junction, and cerebellum versus waitlist](mbsr-eight-weeks-gray-matter-increases.md) — related
 - [Religious prayer reduced pain intensity by 11% and unpleasantness by 26% relative to secular prayer through non-opioid mechanisms](religious-prayer-pain-reduction-versus-secular.md) — related
+- [Experienced meditators show reduced default mode network activation with enhanced PCC–dorsolateral PFC connectivity during meditation](meditation-dmn-reduction-pcc-dlpfc-connectivity.md) — related
+- [Age-related increases in dorsolateral PFC recruitment during encoding are most evident when tasks explicitly engage controlled processes](dlpfc-encoding-recruitment-controlled-tasks.md) — related

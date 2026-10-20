@@ -46,3 +46,5 @@ Cross-case comparison of the four analyzed encounters. In Case B (HCC- & HCW+) t
 
 - [In encounters where both parties are predominantly expansive, early cycle actions such as questioning and modeling are typically absent and the focus is on implementing and consolidating](both-expansive-encounters-skip-early-cycle-actions.md)
 - [Clients shifted between defensive and expansive stances nearly twice as often as workers, and initiatives connected to physical actions were more effective than verbal hints at triggering shifts](stance-shifts-clients-outpace-workers-physical-actions-effective.md)
+- [In encounters where both client and worker are predominantly defensive, the learning cycle stalls before implementing, reflecting and consolidating actions](both-defensive-cycles-stall-before-implementation.md) — related
+- [In 30 home care visits implementing the Mobility Agreement, the most common cycle combination was client-expansive and worker-expansive (40%), yet at least one party was predominantly defensive in 60% of cases](home-care-cycle-combination-distribution.md) — related

@@ -60,3 +60,6 @@ The chapter's narrative review of multiple studies reports that in naming and le
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related
 - Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone — related
 - [Words encountered in diverse contexts are recognized more accurately in a pseudolexical decision task](diverse-contexts-improve-pseudoword-recognition-accuracy.md) — a narrower finding that bears on this claim
+- [Words encountered in diverse contexts are identified faster, with a mean 26-ms advantage](diverse-contexts-speed-word-identification.md) — a narrower finding that bears on this claim
+- [Diverse and uniform training contexts dissociate: processing ease and semantic representation diverge early in learning](diversity-dissociation-processing-versus-semantics.md) — a narrower finding that bears on this claim
+- [Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts](redundant-contexts-improve-semantic-representations.md) — related

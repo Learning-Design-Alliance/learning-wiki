@@ -45,3 +45,6 @@ Reverse-direction hierarchical regression in the same longitudinal cohort, testi
 ## Related Claims
 
 - [Serial order STM at Age 4 predicts later nonverbal reasoning, but serial order STM gain does not predict nonverbal reasoning gain](serial-order-stm-predicts-nonverbal-reasoning.md)
+- [Growth in serial order STM from Age 4 to Age 5 predicts growth in vocabulary, whereas growth in item STM does not](serial-order-stm-gain-predicts-vocabulary-gain.md) — related
+- [Serial order STM at Age 4 predicts vocabulary knowledge at Age 5 over and above initial vocabulary, item STM, age and nonverbal reasoning](serial-order-stm-predicts-later-vocabulary-longitudinal.md) — related
+- [Serial order STM shows raw concurrent and longitudinal correlations with vocabulary at both ages](serial-order-stm-raw-correlations-vocabulary.md) — related

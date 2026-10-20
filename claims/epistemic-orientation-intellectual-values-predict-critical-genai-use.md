@@ -45,3 +45,4 @@ Multiple linear regression in the correlational study (N = 67) with epistemic or
 ## Related Claims
 - [Students’ actual genAI use correlates with interest and perceived usefulness of genAI but not with knowledge or critical-thinking dispositions](actual-genai-use-tied-to-interest-and-usefulness.md) — related
 - [Students’ knowledge about genAI, measured both by self-report and performance test, positively predicts their critical use of genAI](genai-knowledge-predicts-critical-use.md) — related
+- [The structural model explains about half the variance in critical thinking and technical problem-solving and about a third in metacognitive self-regulation](sem-variance-explained-outcomes.md) — related

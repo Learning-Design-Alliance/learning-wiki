@@ -52,3 +52,6 @@ Step-wise regression on 112 CI-HS students (Table 4). Child characteristics ente
 - [Current adolescent characteristics including digit span, sentence duration and sign enhancement predict high school language outcomes](late-predictors-ci-high-school-language.md) — related
 - [Phonological processing skills account for 38.3% of variance in adolescent literacy after controlling for child, family, and implant characteristics](phonological-processing-predicts-ci-literacy-variance.md) — related
 - [Sign enhancement predicts high school language in opposite directions at elementary versus adolescent measurement](sign-enhancement-direction-reversal.md) — related
+- [Most adolescents with cochlear implants maintain their reading standing relative to hearing norms from elementary school to high school](ci-students-maintain-reading-standing-over-time.md) — related
+- [Adolescents with cochlear implants receive lower expository writing ratings than hearing peers across organization, content, language use, and vocabulary](ci-adolescents-expository-writing-ratings-lower.md) — related
+- [Early elementary characteristics predict 71% of variance in high school language outcomes of CI users](early-predictors-ci-high-school-language.md) — related

@@ -71,3 +71,4 @@ The review reports Hawes et al. found "statistically significant correlations be
 - [Perspective-taking (spatial orientation) shows evidence of uniqueness from mental rotation factors](perspective-taking-distinct-from-mental-rotation.md) — related
 - [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — related
 - [Spatial ability interventions have increased STEM performance and retention, but a causal effect remains categorically unestablished](spatial-interventions-gains-causal-gap.md) — a broader claim this one bears on
+- [Five hours of Tetris play improved some mental rotation measures but not most spatial skill measures](tetris-play-selective-mental-rotation-gains.md) — related

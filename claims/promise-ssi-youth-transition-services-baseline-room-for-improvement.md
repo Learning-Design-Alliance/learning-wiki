@@ -50,3 +50,5 @@ Finding from the national PROMISE evaluation, which relied on a randomized contr
 - [Control group members had ready access to transition-related services, and Way2Work services may have substituted for existing services](way2work-services-substitutes-for-existing-services.md) — related
 - [Participation in key transition activities, including discussing transition plans with school staff and student employment during high school, declined over the decade](iep-youth-transition-activities-declined.md) — related
 - [The PROMISE interim report estimated impacts across seven outcome domains for youth and families](promise-interim-impact-outcome-domains.md) — related
+- [The value of the proposed interventions depends on the stakeholder's vantage point, desired outcomes, youth subpopulation, and available resources](intervention-value-depends-stakeholder-vantage-point.md) — related
+- [PROMISE youth experienced worse education and employment outcomes than ACS youth with and without disabilities](promise-youth-worse-outcomes-than-acs-peers.md) — related

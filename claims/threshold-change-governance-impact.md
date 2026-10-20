@@ -47,3 +47,4 @@ Illustrative scenario analysis under the Governance pillar, not an empirical mea
 - [A negative-emotion alert followed by cognitive-affective reframing of the task coincided with branching of one student's engagement structure from completion-oriented to exploratory engagement](alert-reframing-branches-engagement-structure.md) — related
 - Simulation allows the expense and effect of a policy change to be evaluated before implementation — a broader claim this one bears on
 - [A fixed-threshold sequential risk policy concentrated persistent-failure alerts within restricted alert budgets](sequential-risk-policy-concentrates-failures.md) — related
+- [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](mirroring-alerting-dashboards-teacher-withitness.md) — related

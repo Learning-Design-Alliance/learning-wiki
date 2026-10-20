@@ -77,3 +77,5 @@ MANCOVA on graphing application and transfer scores for 120 seventh-grade studen
 - [Neither instructional sequence produced significant far-transfer effects in either experiment](no-significant-far-transfer-effect-either-sequence.md) — related
 - [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related
 - [Problem order produced an order effect: solving basketball problems first improved performance on all problems, while school problems first lowered performance](basketball-problem-order-effect-on-performance.md)
+- [For biochemistry students with relatively higher topic-specific prior knowledge, instruction-first (I-PS) outperformed problem-solving-first (PS-I) on a near-transfer test](i-ps-beats-ps-i-near-transfer-higher-prior-knowledge.md) — related
+- [Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions](knowledge-gains-comparable-across-prompt-conditions.md) — related

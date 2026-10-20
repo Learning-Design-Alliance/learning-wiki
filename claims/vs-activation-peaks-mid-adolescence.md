@@ -47,3 +47,4 @@ VS ROI analysis testing linear and quadratic age effects on COR>INCOR activation
 - [Ventral striatum activation to correct responses is correlated with discrimination performance in youth](vs-activation-correlated-with-discrimination-performance.md) — related
 - [Ventral striatum response to correct responses scales with working memory load in youth](vs-response-scales-with-working-memory-load.md) — related
 - [The VS correct-greater-than-incorrect response is present for both target and foil trials and is not a motor confound](vs-effect-present-targets-foils-not-motor.md) — related
+- [Adolescents show disproportionately greater false alarms on happy no-go trials with heightened ventral striatum activity](adolescent-happy-nogo-false-alarm-ventral-striatum.md) — related

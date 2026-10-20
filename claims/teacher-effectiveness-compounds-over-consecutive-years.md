@@ -60,3 +60,4 @@ This finding is the empirical backbone of the argument for growth (or "value-add
 - In Dallas, sequences of three effective versus three ineffective teachers separated students by more than 35 percentile points in reading and 50 points in math — related
 - Low-income students are disproportionately assigned weak teachers, with cumulative achievement consequences — possibly the same claim (merge candidate)
 - Students' achievement gains depend strongly on the sequence of teachers they are assigned, with several effective teachers producing dramatic gains and two ineffective teachers producing losses students may never recover — related
+- [Highest-performing teachers moved students up 4 to 14 percentile points per school year relative to the average district teacher](highest-performing-teachers-4-to-14-percentile-gains.md) — related

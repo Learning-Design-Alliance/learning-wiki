@@ -48,3 +48,4 @@ Qualitative findings section of a mixed-methods landscape study with listening t
 - [Digital Promise research reports significant cross-sector alignment on four mindsets and six skill sets vital to lifelong success](four-mindsets-six-skillsets-alignment.md) — related
 - Focus group stakeholders across roles see statewide summative assessments as only one indicator of college readiness and want information on additional skills — a narrower finding that bears on this claim
 - Teacher enthusiasm is one of the variables most highly correlated with student achievement — related
+- [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — related

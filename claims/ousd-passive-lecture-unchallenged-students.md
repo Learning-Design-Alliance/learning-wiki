@@ -44,3 +44,8 @@ Classroom observations conducted as part of the OUSD equity review, alongside st
 
 ## Related Claims
 - A district equity study found a lack of clear and consistent focus on delivering high-quality instructional support to all students — related
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
+- [Interviewed students described active classrooms as disjointed and frustrating and preferred the fluent passive lecture](interviews-active-classrooms-disjointed-frustrating.md) — related
+- [Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)](active-learning-higher-test-scores-than-lecture.md) — related
+- [Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)](active-learning-lower-feeling-of-learning.md) — related
+- [Student self-determination was infrequent and more common during Active, Constructive, and Interactive tasks than Passive tasks](student-self-determination-rare-higher-in-active-tasks.md) — related

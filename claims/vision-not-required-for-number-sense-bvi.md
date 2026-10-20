@@ -50,3 +50,5 @@ The review attributes to Ahlberg & Csocsán (1999), a study of 25 Hungarian chil
 - [Math achievement of BVI students lags sighted peers and the gap widens with age](bvi-math-achievement-lags-and-gap-widens.md) — reports the opposite
 - [A multisensory tablet with tonal and vibration feedback produced no significant difference in graphics-comprehension accuracy compared with tactile graphics](multisensory-tablet-no-difference-tactile-graphics.md) — related
 - Extra adult handling increases exploratory behavior in blind infants — related
+- [Auditory math access works best when the technology is familiar: Math Speak aided expression identification, and BVI students performed similarly to or slightly better than traditional methods with familiar apps](auditory-access-familiar-technology-bvi-math.md) — related
+- [BVI students in schools with more academic supports outperform on standardized math tests](academic-supports-bvi-math-outperformance.md) — related

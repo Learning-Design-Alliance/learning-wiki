@@ -41,4 +41,6 @@ Independent samples t-tests compared the whole deaf group (N = 27) with hearing 
 
 
 ## Related Claims
--
+- [Deaf non-native signers scored lower than hearing children on executive-loaded non-verbal working memory tasks, while deaf native signers did not differ from hearing children](non-native-signers-poorer-executive-loaded-nvwm.md) — a narrower finding that bears on this claim
+- [Deaf children's working memory disadvantage is task-dependent: no group differences on Spatial Span Forward or narrative measures](nvwm-group-differences-task-dependent.md) — related
+- [Vocabulary scores predicted executive-loaded non-verbal working memory scores beyond age and non-verbal reasoning](vocabulary-predicts-executive-loaded-nvwm.md) — related

@@ -48,3 +48,5 @@ Summary of the Dinsmore, Alexander, and Loughlin study scrutinizing the effects 
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) — related
 - [Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one](collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) — related
+- [Participation in a collaborative, project-based engineering design course produced gains only in declarative knowledge, not other knowledge types or interest](project-based-course-declarative-gain-only.md) — possibly the same claim (merge candidate)
+- [Both agent-based model and visualization video conditions produce comparable gains in declarative nanoscience knowledge, with no Group × Time interaction](abm-video-equal-declarative-knowledge-gains.md) — related

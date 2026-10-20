@@ -46,3 +46,7 @@ Interview excerpt (Lydia) coded under the theme 'SCOT views in pluralised future
 - [After the futures-and-quantum-computing course, upper-secondary students reported a more optimistic or hopeful outlook on the future](course-fostered-optimistic-futures-outlook.md) — related
 - [Students' perceptions of futures broadened and pluralised, and deterministic thought patterns were questioned](course-pluralised-futures-questioned-determinism.md) — a broader claim this one bears on
 - [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](agency-metaphors-genai-fear-of-agency-loss.md) — reports the opposite
+- [Starting the FTW process in the far future (Box 4) frees participants from present technological limitations](ftw-start-far-future-box4.md) — related
+- [Students saw technology and STEM careers as creating concrete possibilities for their own agency](stem-careers-possibilities-agency.md) — related
+- [Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science](career-fear-apathy-outcomes-over-process.md) — related
+- [Students perceived the future as more unpredictable after the course, often finding the openness liberating rather than distressing](course-future-perceived-more-unpredictable.md) — related

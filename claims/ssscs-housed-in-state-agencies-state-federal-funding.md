@@ -66,3 +66,4 @@ Descriptive survey finding on SSSC funding sources. The article reports state ap
 - [SSSC structural placement varies across states: most states house one center in a single agency, while some split one center across agencies or operate two independent centers](sssc-placement-structure-typology.md) — related
 - [Most SSSCs rely on two or three funding sources, with state-appropriated funding and federal grants the most common](ssscs-rely-on-multiple-funding-sources.md) — related
 - [Nearly all responding SSSCs conducted trainings in 2021, with reporting centers documenting over a thousand training events reaching tens of thousands of participants](sssc-training-volume-2021.md) — related
+- [Most SSSCs have small staffs (over 75% with 10 or fewer staff) yet engage in a wide range of activities, led by technical assistance (93%) and training (86%)](ssscs-small-staff-wide-activity-range.md) — related

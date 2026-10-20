@@ -44,3 +44,4 @@ The publication reports, citing a 2018 Getting Smart and XQ Institute report, th
 
 ## Related Claims
 - [At least ten state education agencies have launched official micro-credential pilots, with Tennessee's pilot reaching almost 800 educators](state-micro-credential-pilots-adoption.md) — a narrower finding that bears on this claim
+- [Colorado uses a local-first, state-supported model in which districts and local providers initiate cross-sector work and state policy scales successful innovations](colorado-local-first-state-supported-model.md) — related

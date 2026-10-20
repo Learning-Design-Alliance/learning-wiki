@@ -45,3 +45,5 @@ Cross-case finding from interviews and document analysis across the nine states.
 ## Related Claims
 - [States targeted summer learning access by naming priority groups in legislation or grant RFPs](priority-groups-legislation-rfps.md) — related
 - [Alder operates a continuous improvement cycle using multiple data sources documented in an Annual Data Cycle Calendar and public Annual Program Assessment Report](alder-annual-data-cycle-improvement.md) — related
+- [States used four approaches to generate political support for summer learning investment](four-approaches-garnering-summer-support.md) — related
+- [Program content focused on instruction, collegial organizations, and data use is associated with positive school outcomes](principal-program-content-instruction-collegial-data.md) — related

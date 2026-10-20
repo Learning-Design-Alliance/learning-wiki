@@ -49,3 +49,7 @@ Exploratory RVE meta-regression across studies comparing intensity categories; t
 - [Classroom active breaks show no statistically significant effect on attention in schoolchildren](active-breaks-no-significant-effect-attention.md) — related
 - [Classroom active breaks produce a small but statistically significant positive effect on working memory in schoolchildren aged 6–16](active-breaks-small-positive-effect-working-memory.md) — a broader claim this one bears on
 - [Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD](mvpa-associated-executive-function-adhd-boys.md) — related
+- [Effects of active breaks on mathematical achievement are small and lose significance under Robust Variance Estimation](active-breaks-math-achievement-mixed-significance.md) — related
+- [Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18](cbpa-improves-attention-on-task-schoolchildren.md) — related
+- [Exercise effect sizes on ADHD functional outcomes are not related to exercise intensity, mean age of participants, or gender distribution](exercise-adhd-effects-unrelated-to-intensity-age-gender.md) — related
+- [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](active-breaks-pooled-estimates-robust-sensitivity.md) — related

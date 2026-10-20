@@ -48,3 +48,7 @@ Subset analysis limited to students first enrolling in a charter school between 
 - [Idaho charter reading advantage appears only in the 2016-2017 growth period, not in 2015-2016](idaho-charter-growth-period-reading.md) — related
 - [New Mexico charter students' reading advantage emerges in the third year of enrollment, while math growth does not differ by years enrolled](nm-charter-third-year-reading-gain.md) — related
 - [Charter learning gains in each of the three growth periods do not differ statistically from TPS peers](wa-charter-gains-by-growth-period.md) — related
+- [Charter students' math disadvantage is concentrated in the first two growth periods, with performance similar to VCR peers by 2016-2017](pa-charter-math-gap-varies-by-growth-period.md) — reports the opposite
+- [Idaho charter school students show stronger reading growth than matched TPS peers, with no significant difference in math growth](idaho-charter-reading-advantage-math-null.md) — reports the opposite
+- [Idaho online charter students show weaker math growth than TPS VCRs and lag brick-and-mortar charter students in both subjects](idaho-online-charter-learning-deficits.md) — related
+- [No cohort-by-years-of-enrollment configuration shows statistically different learning gains from TPS](wa-charter-cohort-years-enrollment-null.md) — a broader claim this one bears on

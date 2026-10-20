@@ -43,4 +43,4 @@ Results preview of a mixed-methods case study of two ninth-grade sections during
 
 
 ## Related Claims
--
+- [Discussion participation shifted from teacher-driven exchanges with few contributors to broader student participation and student-to-student argumentation](discussion-participation-shift-over-module.md) — related

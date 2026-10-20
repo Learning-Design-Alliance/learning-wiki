@@ -50,3 +50,4 @@ Hierarchical regression on 102 fourth graders' written narratives; EF entered la
 - [In a cross-sectional path model of fourth graders, handwriting fluency statistically mediated the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](handwriting-fluency-mediates-ef-narrative-writing.md) — related
 - [Planning shows no contribution to any level of narrative composition in fourth graders](planning-no-contribution-narrative-composition.md) — related
 - EF tasks consolidate into three factors: inhibition, updating, and planning, with shifting not dissociable — related
+- [Sixth-grade syntactic complexity of narrative writing is predicted by fourth-grade oral grammar, inhibition, and planning in addition to initial syntactic complexity](oral-grammar-inhibition-planning-predict-later-syntactic-complexity.md) — related

@@ -66,3 +66,5 @@ Within the same four-study body of evidence for Recommendation 1, one study comp
 - [Alternative-strategy practices are most effective for improving procedural flexibility, with weaker evidence for conceptual and procedural knowledge](alternative-strategies-most-effective-for-procedural-flexibility.md) — related
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — a broader claim this one bears on
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — a broader claim this one bears on
+- [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — a broader claim this one bears on
+- [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related

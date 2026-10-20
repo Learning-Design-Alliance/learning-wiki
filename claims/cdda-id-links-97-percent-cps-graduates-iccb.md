@@ -44,3 +44,4 @@ Linking analysis of the 2012 CPS graduating class (19,801 unique students) using
 
 ## Related Claims
 - [NSC and ICCB data agree on immediate two-year college enrollment for about 96 percent of students, with ICCB showing a slightly higher enrollment rate](nsc-iccb-enrollment-alignment-96-percent.md) — related
+- [Full-time immediate two-year enrollment rates differ substantially between ICCB and NSC data, suggesting limited reliability of the NSC full-time status field](nsc-full-time-status-limited-reliability.md) — related

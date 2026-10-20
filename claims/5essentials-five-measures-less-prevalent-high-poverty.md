@@ -47,3 +47,4 @@ Quantitative analysis of 2011–18 CPS data compared the likelihood of strong 5E
 - CPS schools are most likely to be strong in effective leaders, collaborative teachers, and ambitious instruction, but least likely to be strong in involved families — related
 - School size and student socioeconomic status conditioned trust levels differently in the two contexts — related
 - [5Essentials Survey measures predicted school improvement in both high- and low-poverty schools at elementary and high school levels](5essentials-predicts-improvement-high-low-poverty.md) — related
+- [Among elementary schools with strong 5Essentials results, high-poverty schools improved more than low-poverty schools on more than one-half of measures](high-poverty-strong-schools-improved-more.md) — related

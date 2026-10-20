@@ -47,3 +47,7 @@ Generalized linear mixed-effects (Poisson) model on sentence-level strength from
 
 ## Related Claims
 - [Betweenness centrality decreases as working memory capacity increases](wmc-decreases-betweenness-centrality.md) — related
+- [Harmonic centrality and local clustering coefficient show no relation with working memory capacity](no-wmc-relation-harmonic-clustering.md) — related
+- [Topic-medial sentences have higher strength than topic-initial and topic-final sentences](topic-medial-sentences-higher-strength.md) — related
+- [Strength is strongly positively correlated with second-pass reading time, while betweenness, harmonic centrality and local clustering coefficient are not related to duration measures](strength-correlates-second-pass-reading-time.md) — related
+- [High-WMC readers make more distant regressions within text, suggesting more cross-text integration](high-wmc-more-distant-regressions.md) — related

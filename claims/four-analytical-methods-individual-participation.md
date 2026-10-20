@@ -46,3 +46,9 @@ The review's RQ3 synthesis summarizes four analytical method types (descriptive 
 
 - [Three big data methods—text classification, cluster analysis, and social network analysis—can each yield insights into learning in mass collaboration](three-big-data-methods-insights-mass-collaboration.md)
 - [Wikipedia clusters representing social and biomedical views on schizophrenia merged toward the integrative diathesis-stress model while the psychoanalytic cluster stayed isolated](schizophrenia-cluster-merger-diathesis-stress.md)
+- [Cluster analysis of blog networks yields five distinct social-role categories](blog-network-cluster-five-social-roles.md) — a narrower finding that bears on this claim
+- [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — a narrower finding that bears on this claim
+- [Four distinct session-level engagement types emerge in GenAI Tutor use: Deep, Shallow, Routine-Learning, and Exam-Driven](four-session-engagement-types-genai-tutor.md) — a narrower finding that bears on this claim
+- [AI-supported argumentative writing yields three distinct uptake clusters (text reproducers, text integrators, text reconstructors) based on recurring n-gram overlap](three-uptake-clusters-human-ai-cowriting.md) — a narrower finding that bears on this claim
+- [Three distinct learner profiles emerge from function art activities: Repetitivists, Simplists, and Multifunctionists](function-art-three-learner-profiles.md) — a narrower finding that bears on this claim
+- [Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis](artifact-structure-operationalizes-collective-knowledge.md) — related

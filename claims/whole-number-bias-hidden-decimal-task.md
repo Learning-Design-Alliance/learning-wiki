@@ -45,3 +45,4 @@ Descriptive hidden decimal task (Resnick et al., 1989) administered for descript
 ## Related Claims
 - [Domain-general cognitive abilities predict at-risk fourth graders' decimal magnitude understanding](cognitive-predictors-decimal-magnitude-at-risk-fourth-graders.md) — related
 - [Cognitive abilities correlate with decimal label use patterns](cognitive-abilities-correlate-decimal-label-use.md) — related
+- [Place value labels correlate positively with decimal magnitude understanding; whole number labels negatively](place-value-labels-correlate-decimal-magnitude.md) — related

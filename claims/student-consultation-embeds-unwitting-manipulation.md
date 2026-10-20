@@ -44,3 +44,5 @@ Theoretical argument in the paper's opening, contrasting mainstream consultation
 
 ## Related Claims
 - [Stakeholder consultation with 60 WIL students, employers, and educators generated 1,806 behavioral examples distilled into 59](frtf-stakeholder-survey-behavioral-examples.md) — related
+- [Research questions are rarely conceived in partnership with practitioners, which undermines research impact on educational decision making](research-questions-rarely-designed-with-practitioners.md) — related
+- [Classroom teachers rarely consult research when making decisions about their classroom practices, citing time constraints, the vastness of research, paywalls, and perceived distance from practice](teachers-rarely-consult-research-decision-making.md) — related

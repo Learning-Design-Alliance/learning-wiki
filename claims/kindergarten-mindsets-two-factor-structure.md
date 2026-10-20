@@ -65,3 +65,8 @@ Confirmatory factor analysis comparing a two-factor model against a unidimension
 - [Mastery orientation relates to classroom behavioral self-regulation only indirectly via executive functions, while trait beliefs relate mainly directly](sem-differential-paths-mindsets-cbsr.md) — related
 - [Kindergarteners with a mastery goal orientation show better executive functions than children with a performance orientation](mastery-orientation-better-executive-functions-kindergarten.md) — related
 - [Mindsets relate to kindergarteners' achievement indirectly through executive functions and classroom behavioral self-regulation as mediators](mindsets-achievement-indirect-via-self-regulation.md) — related
+- [Tutor ratings do not entirely tap one underlying trait; one- and two-factor models fit unsatisfactorily](tutor-rating-factors-not-one-trait.md) — related
+- [The indirect praise-to-achievement path is driven by trait beliefs, not learning goals](trait-beliefs-not-learning-goals-mediate-praise-achievement-link.md) — related
+- [Malleable trait beliefs may be especially beneficial for classroom behavioral self-regulation among mastery-oriented children (marginal interaction)](trait-belief-goal-orientation-interaction-cbsr.md) — related
+- [In Study 1, measured fixed mindset correlated with fixed-trait attributions (r=.28), performance avoidance goals (r=.23), and hypothetical easy-problem choice (r=.12)](fixed-mindset-correlates-study1-replication.md) — related
+- [Kindergarteners who believe traits are malleable show better classroom behavioral self-regulation than children with a stable trait belief](malleable-trait-beliefs-better-cbsr-kindergarten.md) — related

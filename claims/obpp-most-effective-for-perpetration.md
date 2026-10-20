@@ -69,3 +69,7 @@ Program-specific victimization analysis (Table 4): OBPP Norway (n = 5) OR = 1.57
 - [Effectiveness of anti-bullying programs varies significantly across evaluations (heterogeneity)](anti-bullying-program-effectiveness-heterogeneous.md) — a broader claim this one bears on
 - [School-based anti-bullying programs reduce bullying perpetration and victimization globally](anti-bullying-programs-reduce-perpetration-and-victimization-globally.md) — a broader claim this one bears on
 - [NoTrap! was the most effective program for reducing bullying victimization, while ViSC and fairplayer.manual showed non-significant negative effects](notrap-most-effective-victimization-visc-negative.md) — related
+- [Regional differences in program effectiveness: North America led for perpetration, Scandinavia for victimization, with no clear overall pattern](anti-bullying-effectiveness-varies-by-region.md) — related
+- [More intensive anti-bullying programs are more effective](more-intensive-anti-bullying-programs-more-effective.md) — related
+- [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](anti-bullying-programs-reduce-bullying-20-23-percent.md) — a broader claim this one bears on
+- [School-based anti-bullying programs decrease victimization by 17-20% on average](anti-bullying-programs-reduce-victimization-17-20-percent.md) — related

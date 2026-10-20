@@ -43,4 +43,6 @@ Questionnaire study of student beliefs about collaboration aligned with the know
 
 
 ## Related Claims
--
+- [Ninth graders using Knowledge Forum with portfolios and knowledge-building principles showed higher database inquiry participation than the Knowledge Forum-only class](kf-portfolio-principles-higher-atk-inquiry.md) — related
+- [Collaborative analytics-supported reflective assessment helps PSTs develop collaborative inquiry competencies for community knowledge advancement in a knowledge building course](collab-analytics-reflective-assessment-developed-pst-collaborative-inquiry-competencies.md) — related
+- [Epistemic beliefs, prior knowledge, and the think-aloud emotion of anger jointly predict low-epistemic processing during reading of the other-side text](epistemic-beliefs-anger-predict-low-epistemic-processing.md) — related

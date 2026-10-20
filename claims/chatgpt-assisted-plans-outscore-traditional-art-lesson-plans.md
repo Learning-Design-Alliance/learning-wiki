@@ -48,3 +48,4 @@ Comparative experiment in which 13 teachers each produced a traditional and a Ch
 - [Teachers adopted three distinct methods for AI-assisted lesson planning, with most (60%) preferring to outline a framework first and then use ChatGPT to refine it](three-teacher-methods-chatgpt-lesson-planning.md) — related
 - [Teachers viewed ChatGPT as a source of inspiration rather than a generator of genuinely innovative lesson content](chatgpt-inspiration-not-innovation-lesson-planning.md) — related
 - [Teachers rated ChatGPT as effective for interdisciplinary integration, with 61% giving ratings of 4 or above](chatgpt-supports-interdisciplinary-integration-ratings.md) — related
+- [Drawings produced with AIfred are ranked best by independent art and design professors in 33 of 36 cases](aifred-drawing-quality-ranked-first.md) — related

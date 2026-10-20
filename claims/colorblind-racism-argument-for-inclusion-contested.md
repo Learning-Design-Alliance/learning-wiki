@@ -68,3 +68,4 @@ The authors' counter-argument (type e): given widespread implicit color-blind ra
 - [Heterogeneity within demographic categories means group variables as predictors can disadvantage atypical group members and underrepresented groups](demographic-category-heterogeneity-harms-atypical-members.md) — related
 - [Payne argues that color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related
 - Hiring without multiple agreed-upon data points leads decision-makers to rely on gut decisions that can disadvantage teachers of color — related
+- [Pre-service teachers with higher color-blind racial ideology scores had difficulties regulating emotions in racial situations](color-blind-ideology-emotion-regulation-difficulties.md) — related

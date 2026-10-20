@@ -66,3 +66,4 @@ Descriptive subgroup analyses (Figures 11 and 12). "Ninth-graders who received a
 - [Students with higher eighth-grade achievement saw larger core GPA declines across the transition to high school](higher-achievers-larger-gpa-declines-transition.md) — related
 - [High- and middle-achieving Black students saw core GPA declines at least twice as large as White peers with similar eighth-grade GPAs](black-students-disproportionate-gpa-declines.md) — related
 - [Patterns of GPA decline varied widely across high schools, suggesting school environment plays an important role in the transition](school-variation-gpa-declines.md) — related
+- [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related

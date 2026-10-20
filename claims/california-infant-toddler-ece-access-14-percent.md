@@ -50,3 +50,4 @@ Descriptive analysis in the Access for Infants and Toddlers subsection reporting
 - [Including subsidized child care, California enrolled about 37% of all 4-year-olds in publicly funded early childhood programs in 2019–20 and 55% in 2023–24](california-prek-coverage-55-percent-with-subsidized-child-care.md) — related
 - [The U.S. lags other industrialized nations in paid parental leave, prenatal care access, and child care cost coverage](us-lags-industrialized-nations-early-family-supports.md)
 - [California ECE funding suffered over $1 billion in recession-era cuts, eliminating roughly 25% of child care slots between 2008 and 2013, and funding remains below pre-recession levels](california-ece-funding-recession-cuts-slots-declined.md)
+- [Many U.S. children lack access to early learning programs: only 54% of 3- and 4-year-olds attend any preschool and 35% of eligible children participate in Head Start](ece-access-gaps-preschool-head-start-participation.md) — related

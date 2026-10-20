@@ -43,4 +43,8 @@ Janssen et al. (2016b) as tabulated: 81 stimulant-medication-naive children with
 
 
 ## Related Claims
--
+- [Children with ADHD exhibit a higher theta/beta power ratio than typically developing children at C3, Cz and C4 in the midline](adhd-higher-tbr-midline-c3-cz-c4.md) — related
+- [Chronic cardio exercise programs improve executive functions, attention, and behavior in children with ADHD](chronic-cardio-exercise-benefits-adhd-children.md) — related
+- [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — related
+- [Acute cardio exercise improves executive functions, response time, and academic performance in children with ADHD](acute-cardio-exercise-improves-executive-function-adhd-children.md) — related
+- [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related

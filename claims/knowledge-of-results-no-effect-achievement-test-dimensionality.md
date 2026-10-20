@@ -54,3 +54,4 @@ Two studies (Research Report 80-1) comparing two groups of students on computer-
 - The same achievement variable is measurable up to one month after instruction, supporting ICC-based retention measurement — related
 - [Cognitive process inference in computerized testing rarely rests on strong process data](weak-process-data-in-computerized-testing.md) — related
 - [Immediate, informative test results enable teachers to differentiate instruction to individual needs](immediate-adaptive-test-results-enable-differentiation.md) — related
+- [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](map-cat-unidimensional-factor-structure.md) — related

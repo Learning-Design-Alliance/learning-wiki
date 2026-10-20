@@ -46,3 +46,4 @@ The report's own summary states the evaluation design: a quasi-experimental stud
 - [In a propensity-score-matched QED, DCMP students passed college-level math at much higher rates than a two-to-three-semester sequence comparison](dcmp-qed-schudde-keisler-college-math.md) — related
 - [Success Boston Coaching has potentially positive effects on progressing in college, based on two quasi-experimental studies meeting WWC standards with reservations](success-boston-coaching-potentially-positive-progressing-in-college.md) — related
 - Kindergarten students using My Reading Academy outperformed comparison students on end-of-year state literacy assessments (ES +0.17) — related
+- [Math club participation is associated with higher odds of declaring a STEM major in college, remaining significant after propensity score matching](math-club-participation-stem-college-major.md) — related

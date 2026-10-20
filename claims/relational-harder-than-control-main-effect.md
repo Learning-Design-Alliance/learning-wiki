@@ -66,3 +66,6 @@ Mixed-design ANOVA on reaction time across the 33 participants showed a main eff
 - [A peer audience decreases accuracy in the complex relational integration condition in both adolescents and adults](peer-audience-decreases-relational-integration-accuracy.md) — reports the opposite
 - [Incongruent dot comparison trials are less accurate and slower than congruent trials, consistent with an added inhibition step](incongruent-dot-trials-slower-less-accurate.md) — related
 - [Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated](dot-task-accuracy-gradient-congruent-incongruent-mixed.md) — related
+- [The study found no evidence of age differences in relational reasoning performance, possibly due to design choices maximising sensitivity to audience effects](no-age-differences-relational-reasoning-this-task.md) — related
+- [Adults show greater left inferior lateral PFC activation than adolescents during relational integration](adults-greater-left-inferior-pfc-relational-activation.md) — related
+- [Children aged 8-12 are disproportionately less accurate than adults on REL-2 problems requiring integration of two relations, but not on REL-1 or REL-0 problems](children-disproportionately-worse-rel2-integration.md) — a narrower finding that bears on this claim

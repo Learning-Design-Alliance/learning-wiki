@@ -45,3 +45,4 @@ Trial 1 vs. Trial 2 comparison of overall scores for 11 models on the same 17 be
 ## Related Claims
 - [Current LLMs fall short of human experts in predicting classroom intervention outcomes](llms-below-expert-outcome-prediction.md) — related
 - [Model family and instruction-tuning approach appear better predictors of tutoring quality than parameter count alone](model-family-beats-parameter-count-for-tutoring-quality.md) — related
+- [Revising the feedback prompt toward essay-grounded guidance was associated with more specific feedback in an observational before–after comparison](prompt-revision-increased-feedback-specificity.md) — related

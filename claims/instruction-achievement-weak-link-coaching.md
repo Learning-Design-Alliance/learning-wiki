@@ -47,3 +47,5 @@ Between-study weighted correlation using averaged effect sizes per research proj
 
 - [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 -
+- [A practitioner review reports a meta-analysis of causal coaching studies as finding positive effects of coaching on teachers' instructional practice and student achievement, though one contrasting study found coached teachers no more effective](coaching-meta-analysis-positive-effects-instruction-achievement.md) — related
+- [Both pedagogy-expertise-weighted and unanimous-vote ensembles frequently worsen LLM alignment with student learning](ensembling-worsens-llm-alignment-with-learning.md) — related

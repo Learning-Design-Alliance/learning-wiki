@@ -85,3 +85,6 @@ Survey correlations from the DLP: voluntary participation with a printed "corr w
 - [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related
 - Coached teachers report significantly higher confidence in their ability to implement impactful technology use — related
 - Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes — related
+- [Administrators' dual role as evaluator and coach can undermine the observation process's professional learning benefits](dual-evaluator-coach-role-undermines-learning.md) — related
+- [Dynamic Learning Project research found teachers who worked with edtech coaches used technology more frequently and felt more confident than peers who did not](dlp-coaching-technology-use-confidence.md) — related
+- [DLP teachers reported more confidence than non-DLP teachers in using technology to develop students' six 21st-century skill categories](dlp-teachers-confident-21st-century-skill-technology-use.md) — related

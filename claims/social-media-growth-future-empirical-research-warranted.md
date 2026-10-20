@@ -45,3 +45,4 @@ Authors' concluding assertion in the narrative review. The article offers this a
 ## Related Claims
 - [Facebook use in higher education is associated with improved performance, convenience of learning and higher engagement](facebook-improved-performance-convenience-engagement.md) — related
 - [Facebook usage in higher education carries potential problems ranging from educators' dominance to privacy concerns](facebook-educator-dominance-privacy-concerns.md) — related
+- [Facebook use in higher education is associated with increased teacher-student and student-student interaction](facebook-increases-teacher-student-student-student-interaction.md) — related

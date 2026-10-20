@@ -52,3 +52,4 @@ Within-Newark sector comparison of 2018-19 growth between charter schools and ot
 - Newark students overall made significantly above-state-average math growth in 2018-19, with non-significant reading growth — related
 - [District schools in the aggregate showed near-zero effects, significantly lower than charter schools in the same grades, but the district sample was small](pl-district-schools-near-zero-vs-charter.md)
 - [Fort Worth charter school students in poverty significantly outgrew district-school students in poverty in reading growth](fort-worth-poverty-students-charter-advantage-reading.md) — related
+- [Fort Worth charter school male students significantly outgrew district-school male students in reading, while female students showed no significant sector difference](fort-worth-gender-subgroups-charter-district-growth.md) — related

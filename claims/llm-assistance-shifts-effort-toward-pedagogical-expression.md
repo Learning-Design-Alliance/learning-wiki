@@ -46,3 +46,4 @@ Observational data from three instructors teaching the same four lighting topics
 - [Manual team formation required over 20 hours of instructor effort, while the algorithm produced assignments in milliseconds](algorithm-reduces-instructor-workload-milliseconds.md) — related
 - [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — a broader claim this one bears on
 - [LLM assistance value in VR instruction varies with instructional intent type](llm-assistance-value-varies-with-intent-type.md) — related
+- [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](sysadmin-expertise-shifts-to-validating-genai-output.md) — related

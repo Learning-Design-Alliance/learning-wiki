@@ -46,3 +46,4 @@ Secondary analysis within the same predictive model of the 1,715-school sample, 
 - [School climate differences between BTO and other schools remain large and significant after adjusting for student demographics and personnel resources](climate-advantage-robust-to-controls.md) — related
 - [School climate is more strongly associated with the likelihood of beating the odds than student demographics or personnel resources](climate-stronger-association-than-resources.md) — reports the opposite
 - [Only 2.4 percent of the sampled California secondary schools were classified as beating the odds, and 1.2 percent as chronically underperforming](bto-schools-rare-2-point-4-percent.md) — related
+- [A school's School Climate Index is more strongly associated with its probability of beating the achievement odds than its personnel resources](sci-stronger-than-personnel-resources-for-bto.md) — related

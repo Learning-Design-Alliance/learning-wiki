@@ -46,3 +46,4 @@ Descriptive analysis of the multiplication task (N = 63, 56 single-digit problem
 ## Related Claims
 - [Fourth graders' multiplication fact solving speed correlates significantly with both symbolic and nonsymbolic magnitude comparison speed](magnitude-comparison-correlates-multiplication-facts.md) — related
 - [Retrieval use increases with grade, and the small-versus-large difference in retrieval use decreases significantly between fourth and sixth grade only](retrieval-use-grade-problem-size-interaction.md) — related
+- [PoorAF children show a significant problem-size effect in multiplication RTs, with a marginally significant stronger problem-size influence than controls](pooraf-problem-size-effect-multiplication.md) — a narrower finding that bears on this claim

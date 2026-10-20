@@ -46,3 +46,6 @@ The essay lists pros of team teaching, including that "teachers do not work in i
 ## Related Claims
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](pairs-better-than-triads-in-stellar-inquiry.md) — related
+- [Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict](ai-relational-buffer-eases-concession.md) — related
+- [Cooperative learning has drawbacks including slow learners depending on fast achievers, so teachers should stress both cooperative and individual work](cooperative-learning-versus-individual-endeavors.md) — related
+- [Participants in a probe study and co-design workshop perceived AI mediation in interdisciplinary student teams along both cognitive and relational dimensions](ai-mediation-cognitive-and-relational-dimensions.md) — related

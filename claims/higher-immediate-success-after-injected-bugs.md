@@ -44,3 +44,4 @@ Log analysis of student sessions in the Prompt Programming platform. Immediate s
 - [Students make smaller code changes and fewer edit-and-run attempts after injected bugs than after natural bugs](smaller-edits-after-injected-bugs.md) — related
 - [Injected bugs prompt more direct code edits while natural bugs prompt more reprompting in prompt-based programming tasks](injected-bugs-eliciting-direct-edits-natural-bugs-reprompting.md) — related
 - [Prompting strategies differ by bug source: natural bugs elicit specification-oriented strategies while injected bugs elicit guidance-oriented strategies](prompting-strategies-differ-by-bug-source.md) — related
+- [Initial prompting method did not explain immediate success on the third problem (P3)](p3-modality-no-effect.md) — related

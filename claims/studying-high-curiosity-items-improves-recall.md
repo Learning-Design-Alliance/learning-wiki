@@ -48,3 +48,4 @@ A learning-test phase embedded in Experiment 2 used only no-feedback items: one 
 ## Related Claims
 - [Curiosity enhances learning, including for incidental material encountered during high-curiosity states](curiosity-enhances-learning.md) — a broader claim this one bears on
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related
+- [Under sequential presentation with Likert ratings for every word, no memory benefit emerged for items judged likely to be forgotten; negative ratings predicted the poorest recall](sequential-likert-no-forget-reactivity.md) — related

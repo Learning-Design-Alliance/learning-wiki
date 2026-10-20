@@ -73,3 +73,6 @@ Narrative review synthesis of human functional neuroimaging studies. The review 
 - [The probability of school failure increases as a function of the timing and length of children's exposure to relational adversity](cumulative-relational-adversity-school-failure.md) — related
 - [Lower SES adolescents show greater stress-related increase in serotonin transporter gene methylation, associated with greater amygdala reactivity and depression symptoms](ses-linked-methylation-amygdala-reactivity-depression.md) — related
 - [Parenting quality and life stress fully mediate the relationship between SES and children's hippocampal volume](stress-parenting-mediate-ses-hippocampal-volume.md) — related
+- [Children's perception and interpretation of stressors, rather than event type alone, shapes neurobiological stress responses](perception-interpretation-shapes-stress-response.md) — related
+- [Children exposed to early adversity are at increased risk for a broad range of developmental difficulties affecting both cognitive and emotional adjustment](early-adversity-increases-developmental-risk-cognitive-emotional.md) — a broader claim this one bears on
+- [Hippocampal microstructure continues maturing after early childhood: anterior hippocampus loses mass and posterior hippocampus gains mass from age 4 to 25](hippocampus-anterior-loss-posterior-gain-age-4-25.md) — related

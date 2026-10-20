@@ -43,4 +43,9 @@ Authors' interpretation of the main retention result in light of the feedback de
 
 
 ## Related Claims
--
+- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material](spaced-recall-improves-posttest-without-harming-new-learning.md) — related
+- [Weekly spaced recall quizzes on fundamental concepts significantly improve 6-month retention of those concepts in a precalculus course](spaced-recall-quizzes-improve-long-term-retention-fundamental-math-concepts.md) — related
+- [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — a broader claim this one bears on
+- [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related

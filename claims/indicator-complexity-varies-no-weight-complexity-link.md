@@ -64,3 +64,4 @@ A scatterplot analysis (Figure 4) of indicator weight by number of measures acro
 ## Related Claims
 - [More than three of four ESSA plans (41 of 53, 77%) include a postsecondary readiness indicator as a scoring element in state accountability systems](77-percent-essa-plans-postsecondary-readiness-indicator.md) — related
 - [Postsecondary readiness indicators carry an average weight of 16 percent of high school summative accountability scores, ranging from 5 to 33 percent](postsecondary-indicator-weight-averages-16-percent.md) — related
+- [Postsecondary readiness indicators emphasize academic measures (98% of plans) and career measures (83%) far more than military measures (27%)](academic-career-measures-dominate-military-rare.md) — related

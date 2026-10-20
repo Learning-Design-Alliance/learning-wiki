@@ -45,3 +45,7 @@ Authors' conclusion from the timeline analysis of the two NLCs, in which activit
 ## Related Claims
 
 - [NLC1 acted as one evenly participating group with no cliques, while NLC2 was initially directed by three central participants and did not operate as one group](nlc1-even-participation-nlc2-star-shape.md)
+- [Educators' understanding of UDL shifted from a static framework to a dynamic way of thinking emphasizing moment-to-moment responsiveness to students' access needs](udl-reconceived-moment-to-moment-responsiveness.md) — related
+- [The NLC with the experienced teacher showed higher and more stable network density than the beginner's NLC, whose density dropped from 36% to 26% in the end phase](nlc1-higher-stable-density-than-nlc2.md) — a narrower finding that bears on this claim
+- [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — related
+- [Both teachers remained peripherally active and concentrated their contributions on tutoring, with the experienced teacher also acting as a learner on an equal basis](peripheral-teacher-tutoring-contributions.md) — a narrower finding that bears on this claim

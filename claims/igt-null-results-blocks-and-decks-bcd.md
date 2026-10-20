@@ -43,3 +43,4 @@ Kruskal–Wallis analyses of IGT learning curves across the four groups found "n
 ## Related Claims
 
 - [No significant group differences in Stroop color and word card times or in error rates on any Stroop card](stroop-null-results-color-word-cards-errors.md)
+- [Bully group children make more unfavorable Deck A choices on the Iowa Gambling Task than bully-victim children](bullies-more-unfavorable-igt-deck-a-choices.md) — related

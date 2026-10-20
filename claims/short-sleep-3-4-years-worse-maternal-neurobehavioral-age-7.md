@@ -71,3 +71,4 @@ Same multivariable model as the BRIEF finding; the SDQ total difficulties estima
 - [Longer sleep duration is associated with linear growth in infants, with small printed odds ratios](longer-sleep-linear-growth-infants.md)
 - [Short sleep duration at age 3 was not associated with quality of life at about age 13](sleep-quality-of-life-null-longitudinal.md)
 - [In bivariate analyses, children sleeping <9 hours/day at ages 5-7 had higher mother- and teacher-reported BRIEF and SDQ scores than those sleeping ≥10 hours/day](bivariate-short-sleep-5-7-higher-brief-sdq.md) — related
+- [Shorter sleep duration is associated with higher adiposity in children aged 0–4 years, though evidence quality is low](shorter-sleep-higher-adiposity-early-years.md) — related

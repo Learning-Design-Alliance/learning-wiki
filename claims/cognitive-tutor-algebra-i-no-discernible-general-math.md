@@ -44,3 +44,5 @@ WWC review of one quasi-experimental study in six senior high schools in Miami�
 
 ## Related Claims
 - [Cognitive Tutor® Algebra I has mixed effects on algebra outcomes for secondary students, with an average improvement index of +4 percentile points across five studies](cognitive-tutor-algebra-i-mixed-effects-algebra.md) — related
+- [In Miami-Dade County, Cognitive Tutor Algebra I students significantly outscored peers on the 2003 FCAT, with especially large pass-rate differences for Exceptional Student Education and limited-English-proficiency students](cognitive-tutor-miami-dade-fcat-pass-rates.md) — related
+- [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — reports the opposite

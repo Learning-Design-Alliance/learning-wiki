@@ -48,3 +48,6 @@ Descriptive analysis of educational contexts across the 89 included papers (Tabl
 - Content-related adaptation (n = 53 papers) outnumbers guidance-related adaptation (n = 36) in RL-based educational applications — related
 - GBA is predominantly applied in physics education (4 studies), with about 19% of studies not specifying a subject field — related
 - [Data practice emphasis varies across science disciplines, with environmental science and biology dominating the literature](data-practices-vary-by-discipline.md) — related
+- [Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters](technology-disciplines-dominate-ai-literacy-design-underrepresented.md) — related
+- [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
+- [AI-STEM research concentrated in higher education, technology and science content, lecture-based instruction, and face-to-face contexts](ai-stem-distribution-higher-ed-lecture-face-to-face.md) — a broader claim this one bears on

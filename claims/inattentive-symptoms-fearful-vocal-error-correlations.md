@@ -47,3 +47,4 @@ Hierarchical regression analyses (Table 3) on the full sample of 51 adults, ente
 - [Inattentive symptoms are positively associated with sad affect recognition errors while hyperactive-impulsive symptoms are negatively associated](inattentive-symptoms-positive-hyperactive-negative-sad-errors.md) — related
 - [Affect recognition deficits were not found unanimously across ADHD groups, suggesting a nuanced subtype-specific pattern](affect-deficits-not-unanimous-across-adhd-groups.md) — related
 - [No significant differences in affect recognition errors emerged between the ADHD-Combined group and controls or between the ADHD-C and ADHD-I groups](no-adhd-combined-affect-recognition-differences.md) — reports the opposite
+- [The inattentive ADHD subtype has the worst learning ability score among ADHD subtypes](inattentive-adhd-worst-learning-score.md) — related

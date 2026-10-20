@@ -65,3 +65,5 @@ Spotlight interview finding: Birch's coaching roles existed but were limited by 
 - [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](clear-expectations-learning-walks-reinforce-hqim-use.md) — related
 - Most participating LEAs employ instructional coaches and program coordinators positioned to influence English Learner program design, but these roles are vulnerable to funding cuts — related
 - [Districts use multiple forms of data—learning walks, state assessment items, dashboards, and diagnostics—to give teachers feedback and refine IM implementation over time](data-use-supports-ongoing-hqim-implementation.md) — related
+- [District leaders must take an active role in removing barriers and fostering a supportive culture for coaching programs to succeed](district-leaders-active-role-coaching-success.md) — related
+- [California ECE funding suffered over $1 billion in recession-era cuts, eliminating roughly 25% of child care slots between 2008 and 2013, and funding remains below pre-recession levels](california-ece-funding-recession-cuts-slots-declined.md) — related

@@ -48,3 +48,5 @@ The report's synthesis of comparison-group outcome studies states that "studies 
 - [Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors](exclusionary-discipline-disproportionate-penalties.md) — related
 - [Exclusionary discipline harms students and disproportionately affects students of color, so tracking suspension data can promote positive interventions](exclusionary-discipline-harms-and-disproportionality.md) — related
 - Exclusionary discipline disproportionately removes students of color and students with disabilities from school — related
+- [Students of color and students with disabilities are disproportionately suspended and referred to law enforcement relative to their enrollment](disproportionate-discipline-students-of-color-disabilities.md) — related
+- [Black students and students with disabilities are disproportionately referred for behavioral threat assessments](bta-referral-disparities-black-students-disabilities.md) — related

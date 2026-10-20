@@ -43,4 +43,7 @@ Independent-samples t-tests on pre- and post-test data from the MITCA interventi
 
 
 ## Related Claims
--
+- [MITCA prevented the growth of self-regulatory deficits seen under traditional homework over twelve weeks](mitca-limits-self-regulatory-deficits.md) — related
+- [Twelve weeks of MITCA homework prescription produced higher time management than traditional homework in 5th–6th graders](mitca-improves-time-management-primary.md) — related
+- [MITCA homework prescription improved environmental management relative to traditional homework in primary students](mitca-improves-environmental-management.md) — related
+- [Time Management showed a marginally significant post-intervention difference favouring GenAI feedback, while Goal Setting, Help Seeking and Self-Evaluation showed no significant differences](genai-feedback-tm-marginal-other-srl-null.md) — related

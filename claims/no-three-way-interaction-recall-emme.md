@@ -43,4 +43,7 @@ Experiment with 174 analyzed university students in a 2×3 between-subjects desi
 
 
 ## Related Claims
--
+- [The exploratory analyses provided first evidence that social comparison orientation interacts with (alleged) model competence regarding EMME effectiveness.](social-comparison-orientation-moderates-emme.md) — related
+- [In the exploratory recall analysis, participants with relatively high domain knowledge showed better recall performance than participants with relatively low domain knowledge.](domain-knowledge-predicts-recall.md) — related
+- [No significant interaction between prior knowledge and task difficulty was observed in a worked-example algebra study](no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples.md) — related
+- [Multimedia treatment, prior science level, and unit pre-test level each independently influence electricity achievement, with no significant two-way or three-way interactions](treatment-science-pretest-independent-effects.md) — related

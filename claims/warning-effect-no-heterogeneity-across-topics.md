@@ -46,3 +46,5 @@ Heterogeneity test within the multilevel random-effects meta-analysis of warning
 - [AI literacy warnings reduce LLM political persuasion by roughly one-half (meta-analytic -48.1%)](ai-literacy-warning-halves-ai-political-persuasion.md) — related
 - [Effects of dropout programs on dropout odds are heterogeneous across studies](dropout-program-effects-heterogeneous.md) — reports the opposite
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — reports the opposite
+- [In Study 1, the general warning significantly reduced persuasive effects on housing-policy attitudes (b=−1.81, p= 0.001)](study1-warning-reduces-housing-persuasion.md) — related
+- [Topic-wise gains were heterogeneous, with some topics showing no meaningful change](podcast-topic-wise-gain-heterogeneity.md) — related

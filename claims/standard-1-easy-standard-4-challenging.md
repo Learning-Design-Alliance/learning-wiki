@@ -46,3 +46,4 @@ The authors' interpretation (Discussion) of their cluster results, offered with 
 - [Mean program GPA differs significantly across the five standards-attainment learner groups](gpa-differs-across-standards-profiles.md) — related
 - [GPA fails to distinguish three pairs of learner groups that differ in standards-attainment patterns](gpa-fails-to-distinguish-standards-profile-pairs.md) — related
 - [Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment](five-learner-profiles-standards-attainment.md) — related
+- [CDM-estimated attainment of professional teaching standards varies non-uniformly across standards, with Standard 1 highest (0.86) and Standard 4 lowest (0.50)](cdm-standards-attainment-varies-across-standards.md) — related

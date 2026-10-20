@@ -43,4 +43,8 @@ Qualitative synthesis: only one study (Bock et al., 2018) examined response inhi
 
 
 ## Related Claims
--
+- [Meta-analytic findings show small-to-medium relations between EF and academic performance, with cognitive flexibility showing the strongest effects](ef-academic-performance-small-to-medium-meta-analytic.md) — a broader claim this one bears on
+- [Early interference suppression, but not response inhibition, correlates with emergent literacy measures in both 4–5- and 5–6-year-old subsamples](fish-task-correlates-emergent-literacy-circle-does-not.md) — related
+- [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related
+- [Response inhibition shows small to moderate associations with listening comprehension (r = .16 to .42), based on only two studies](inhibition-listening-comprehension-small-moderate.md) — related
+- [In a cross-sectional path model of fourth graders, handwriting fluency statistically mediated the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](handwriting-fluency-mediates-ef-narrative-writing.md) — related

@@ -48,3 +48,4 @@ A mixed-effects model compared eco-mode preference across personal-norm groups (
 - [Eco-mode selection in an LLM interface declines sharply as response latency increases, dropping from about 45% of interactions in eco mode 1 to below 5% in eco mode 5](eco-mode-selection-declines-with-latency.md) — related
 - [User satisfaction with eco modes declines sharply from mode 1 (mean 3.64) to modes 4–5 (means 2.35 and 2.06)](eco-mode-satisfaction-declines-across-modes.md) — related
 - [Most participants expressed reluctance to adopt an eco-feedback LLM for regular use, with nearly two-thirds reporting some degree of unwillingness](low-stated-long-term-adoption-of-eco-feedback-llm.md) — related
+- [Interacting with an eco-feedback LLM interface surfaces gaps in students' understanding of digital sustainability and supports learning about the environmental impact of everyday LLM use](eco-feedback-interface-supports-sustainability-learning.md) — related

@@ -49,3 +49,5 @@ Authors' summary finding from the qualitative case study: although attention mom
 - [Social flow and group flow were sustained and even strengthened as task challenge increased in the game's algebraic stages](flow-sustained-as-challenge-increases.md) — related
 - [In groups with pre-established positive collaborative relationships, NGI clusters aligned with high positive emotions and frequent group synchronisation during collaborative DGBL](ngi-clusters-align-with-flow-collaborative-dgbl.md) — related
 - [NGI functioned as a mechanism for emotional coordination, restoring individual members' affective states through shared laughter](ngi-emotional-coordination-shared-affect.md) — related
+- [Episodes of off-task play with maker materials caused temporal fragmentation of groups' joint attention on the learning challenge](temporal-fragmentation-joint-attention-makerspace.md) — reports the opposite
+- [Teachers' attention easily diverts to English learners' grammar, vocabulary, and pronunciation even when unrelated to the day's learning goal](teacher-attention-diverted-el-grammar.md) — related

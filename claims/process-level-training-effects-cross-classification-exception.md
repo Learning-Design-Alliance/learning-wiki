@@ -58,4 +58,4 @@ Factor-level analysis of the same intervention study (Table 7): Similarity corre
 
 
 ## Related Claims
--
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related

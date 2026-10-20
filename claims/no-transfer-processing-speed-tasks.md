@@ -45,3 +45,6 @@ Null result from experiment 2's cognitive battery: the randomized three-group tr
 ## Related Claims
 - [Brain games produce statistically significant cognitive performance gains in older adults, but gains are modest and do not detect improvements over control tasks or produce far transfer](brain-gains-modest-no-far-transfer.md) — related
 - [Speed-of-processing training based on UFOV tasks reduces minimum duration thresholds in older adults, with benefits persisting up to two years](speed-of-processing-training-reduces-thresholds.md) — related
+- [Computerized cognitive training produces a small but statistically significant improvement in cognitive performance in healthy older adults](cct-small-significant-overall-effect-healthy-older-adults.md) — related
+- [Speed-of-processing training transfers to health and functional outcomes including reduced crash risk, improved driving, faster daily-task completion, slower health-related quality-of-life decline, and reduced depression risk](training-transfers-to-health-functioning.md) — related
+- [CCT shows no significant effects on executive functions or attention in healthy older adults](cct-no-effect-executive-attention.md) — related

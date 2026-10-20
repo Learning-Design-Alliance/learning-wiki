@@ -67,3 +67,4 @@ Gain-score (posttest minus pretest) Pearson correlation in the same full sample.
 - Pre-test scores strongly predict post-test scores but not normalized learning gains — related
 - The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments. — related
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](pretest-posttest-correlations-vary-by-achievement-level.md) — related
+- [English learners' mathematical performance was positively correlated with English proficiency, more strongly for explanations than calculations](math-performance-correlated-with-proficiency.md) — related

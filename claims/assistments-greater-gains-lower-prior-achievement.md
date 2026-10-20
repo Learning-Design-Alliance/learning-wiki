@@ -46,3 +46,7 @@ The report's retrospective case study of the 2012 IES-funded ASSISTments efficac
 ## Related Claims
 - Practitioner interaction shaped the fundamental research question of the ASSISTments online math homework randomized controlled trial — related
 - [Prior research established correlations between observable student experiences such as frustration and clickstream data in ASSISTments, enabling experience-variable equity research without demographic data](bromp-frustration-clickstream-correlations.md) — related
+- [ASSISTments use in grade 7 math homework produces a statistically significant long-term positive effect on grade 8 state test scores one year after the intervention ends](assistments-long-term-math-impact-grade-8.md) — related
+- [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](assistments-grade-6-differential-impact.md) — related
+- [ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends](assistments-long-term-eog-effect-0-10.md) — related
+- [ASSISTments benefited Hispanic students more than non-Hispanic students](assistments-hispanic-students-benefit-more.md) — related

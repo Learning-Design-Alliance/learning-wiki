@@ -50,3 +50,4 @@ Difference-in-difference analysis of My Voice, My School student survey response
 - In Chicago middle grades, schools with more extensive CCSS-M professional learning showed significantly greater post-implementation improvements in instructional practices, math grades, pass rates, and test scores — related
 - [Student reports of standards-aligned instructional practices improved more in Chicago middle-grade schools with more extensive CCSS-M professional learning](standards-aligned-practice-reports-improved-with-pl.md) — related
 - [Elementary teachers were more likely than high school teachers to report that standards-related professional development had extensive impact on their teaching practices](ccss-pd-impact-on-teaching-practices-elementary-more.md) — related
+- [Eleventh-grade ACT math scores changed similarly across schools regardless of their level of standards-related professional development](act-scores-similar-across-pd-levels.md) — related

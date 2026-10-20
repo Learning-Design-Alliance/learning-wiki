@@ -76,3 +76,5 @@ The review reports, citing Jenkins and Astington, a longitudinal study in which 
 - Play's most important role, per Piaget, is developing representational language and thought through ludic symbolism — related
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related
 - [Infants and adults automatically take account of others' false beliefs, as shown by looking time and reaction time](implicit-belief-representation-infants-adults.md) — related
+- [Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate](reading-literary-fiction-improves-theory-of-mind.md) — related
+- [The home environment plays an important role in early childhood development](home-environment-role-early-childhood-development.md) — related

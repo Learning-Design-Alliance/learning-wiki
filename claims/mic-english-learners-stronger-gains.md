@@ -50,3 +50,4 @@ Cohort analysis of English learners (Table 5) shows many green plus signs indica
 - [Statewide California mathematics achievement on the CAASPP was mostly stagnant from 2015 to 2018 and lagged behind English language arts gains](california-math-caaspp-stagnant-lags-ela.md) — related
 - [Long Beach schools with assigned math coaches showed markedly and disproportionately rising CAASPP scores, though causation could not be tied to coaching](long-beach-coach-assigned-schools-caaspp-rose.md) — related
 - [MiC district achievement on the CAASPP in mathematics generally followed the same statewide pattern from 2015 to 2018, with MiC districts slightly more homogeneous than non-selected districts](mic-districts-follow-statewide-pattern.md) — related
+- [The lowest-performing MiC elementary schools made increasingly greater progress beyond prediction as CCSS-M implementation deepened from 2016 to 2018](mic-lowest-elementary-schools-increasing-progress.md) — related

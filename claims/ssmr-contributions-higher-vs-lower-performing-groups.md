@@ -43,4 +43,11 @@ The review reports, citing Volet et al. (2017), that individual contributions to
 
 
 ## Related Claims
--
+- [Students reported using the collaboration support mainly for self-regulation of their own contribution rather than for socially shared regulation of the group's participation](support-used-for-self-not-shared-regulation.md) — related
+- [SSMR comprised the majority of social MR turns in both less and more successful outcome groups in Australian university veterinary science and American university engineering contexts](ssmr-majority-university-veterinary-engineering.md) — related
+- [In the engineering context, SSMR focus showed an opposite pattern to veterinary science: the less successful group had proportionally more SSMR-High than the more successful group](opposite-ssmr-foci-engineering.md) — related
+- [SSRL-directed question prompts enhanced individual participation in collaborative problem-solving, and socioemotional interaction diversity related to regulation contributions (reported findings)](ssrl-support-and-socioemotional-diversity-findings.md) — related
+- [VMSR occurred at low levels across all groups and contexts](vmsr-low-across-contexts.md) — related
+- [MOR comprised the majority of social MR turns in both less and more successful outcome groups in Finnish senior high school science](mor-majority-finnish-high-school.md) — related
+- [American university engineering students showed the opposite foci pattern: the less successful group manifested more high-level MR than the more successful group](opposite-foci-pattern-engineering.md) — related
+- [Evidence indicates socially shared regulation of learning occurs across SRL areas and may promote learning and performance](ssrl-empirical-evidence-occurrence-and-effects.md) — a broader claim this one bears on

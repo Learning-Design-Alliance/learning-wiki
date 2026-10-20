@@ -47,3 +47,4 @@ The author’s descriptive account of current conditions in mainland China: redu
 - Typical Chinese classes of about 50 students made group work difficult to organize — related
 - China's Matriculation English Test ignores speaking skills despite adding communicative components after 1992 — related
 - Pandemic-related absences and reading setbacks made consistent writing-focused interactions difficult — related
+- [Students report low motivation for English writing due to lack of real-life application and formulaic compositions](low-motivation-formulaic-writing.md) — related

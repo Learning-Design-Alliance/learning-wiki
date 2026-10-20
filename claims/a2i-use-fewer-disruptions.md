@@ -46,3 +46,4 @@ Observational analysis of the randomized trial's classroom video coding linked t
 - [ISI teachers demonstrate stronger classroom management than control teachers, with more instructional time and fewer disruptions](isi-teachers-stronger-classroom-management.md) — related
 - [For first graders with weak initial self-regulation, ISI is associated with greater self-regulation gains, increasing with teachers' A2i use](isi-greater-gains-weak-initial-self-regulation.md) — related
 - [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
+- [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — related

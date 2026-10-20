@@ -46,3 +46,4 @@ Comparison of the 15 surveyed systems along the real-time dimension in Table 1 (
 - [An LLM-based Q&A practice system reduced presentation anxiety and improved perceived preparedness among first-time conference participants](llm-qa-practice-reduces-presentation-anxiety.md) — related
 - [No surveyed presentation-coaching system covers all five taxonomy dimensions simultaneously](no-system-covers-all-five-coaching-dimensions.md) — related
 - [Maritime students supported MMLA but preferred on-demand post-simulation access via mobile application over real-time in-simulation dashboards](students-support-mmla-prefer-post-hoc-mobile-access.md) — related
+- [Students envision dual feedback utilization: real-time feedback for immediate adjustment during collaboration and post hoc feedback for reflective, long-term skill development](dual-real-time-post-hoc-feedback-utilization.md) — related

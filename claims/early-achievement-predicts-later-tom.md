@@ -45,3 +45,5 @@ Three-level meta-analysis of 5 eligible papers and 11 effect sizes, approximatel
 ## Related Claims
 - [Earlier theory of mind longitudinally predicts later academic achievement (pooled r = .28), largely on zero-order associations](early-tom-predicts-later-achievement.md) — related
 - [Children's theory of mind shows a significant positive cross-sectional association with academic achievement (r = 0.32)](tom-academic-achievement-positive-association.md) — related
+- [Longitudinally, the ToM–achievement association does not differ significantly across academic achievement domains, and time lag does not moderate it](longitudinal-domain-moderator-nonsignificant.md) — related
+- [The cross-sectional ToM–achievement association remains significant after controlling for verbal ability, executive functions, non-verbal ability, and SES](tom-achievement-unique-beyond-covariates.md) — related

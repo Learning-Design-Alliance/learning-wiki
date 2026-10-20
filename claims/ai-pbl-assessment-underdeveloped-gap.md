@@ -54,3 +54,6 @@ The review's third dominant theme, from thematic analysis of the 50 included stu
 - Empirical research on the ethical implications of teachers using AI for feedback remains scarce — related
 - [Automated AI assessment systems reduce grading time and improve evaluation consistency in nursing education](automated-ai-assessment-reduces-grading-time-bias.md) — related
 - [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](pbl-evidence-base-equivocal.md)
+- [Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI](functional-fragmentation-persists-despite-llm-advances.md) — related
+- [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
+- [Most AI-for-sustainability initiatives in higher education remain limited in scope, exploratory, and not integrated into institutional strategies](ai-sustainability-initiatives-limited-exploratory.md) — related

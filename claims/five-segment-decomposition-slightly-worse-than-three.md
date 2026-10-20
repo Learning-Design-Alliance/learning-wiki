@@ -45,3 +45,4 @@ Human rating study of LLM-generated lessons across segmentation levels (Table 1 
 ## Related Claims
 - [Task decomposition into three segments yields the highest-rated LLM-generated tutor training lessons, while single-step generation yields the lowest](three-segment-decomposition-highest-rated-llm-lessons.md) — related
 - [Feedback quality in LLM-generated lessons improved with three or more segments compared to one- or two-segment prompting](feedback-improves-three-or-more-segments.md) — related
+- [Model-level judge quality is non-monotonic in dataset size: the 13,882-pair v1.1 yields the best model (6.39), while both expansion to ~20,000 pairs (6.33) and aggressive curation to 7,130 pairs (6.12) reduce quality](non-monotonic-quality-volume-iks-instruct.md) — a narrower finding that bears on this claim

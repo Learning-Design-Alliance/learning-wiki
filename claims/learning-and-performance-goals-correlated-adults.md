@@ -47,3 +47,5 @@ Inter-correlation in the pooled sample, consistent with prior college-student fi
 - [Dispositional performance goals negatively predict memory self-efficacy in younger and older adults](performance-goals-predict-lower-memory-self-efficacy.md) — related
 - [Mastery goals correlate positively (r = .17) and performance-avoidance goals negatively (r = −.17) with mathematics achievement, while performance-approach goals barely do](mastery-goals-correlate-positively-and-avoidance-goals-negatively-with-math-achievement.md) — related
 - [Entity theory correlates positively with performance goal orientation and incremental theory with learning goal orientation among student teachers](mindset-goal-orientation-correlation-student-teachers.md) — related
+- [Age negatively and education positively predict memory self-efficacy, and age negatively predicts memory performance](age-education-predict-memory-self-efficacy-and-performance.md) — related
+- [The correlation between mastery and relational goals is unusually strong (r = .64) in the Lao sample compared with Western teacher samples](lao-strong-mastery-relational-goal-correlation.md) — related

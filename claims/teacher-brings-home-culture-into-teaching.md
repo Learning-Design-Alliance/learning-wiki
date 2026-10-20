@@ -50,3 +50,6 @@ Life-history narrative of Ana Maria Orbe-Lugo, a Chicago public school teacher, 
 - A teacher mentioning her own less-celebrated identities opens the door for students to include their perspectives and identities — related
 - Experiences of racism and assimilationist schooling shape teachers' resolve to prevent non-white children's cultures from being overlooked — possibly the same claim (merge candidate)
 - The mismatch between school and home cultures disadvantages students for learning, and the disadvantage stems from assimilation rather than diversity — related
+- [A 1993 case-study paper on culturally aware teachers asserts, without data of its own, that instruction incorporating students' life experiences, language and skills improves academic performance](incorporating-home-culture-improves-academic-performance.md) — related
+- [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) — a broader claim this one bears on
+- [A regional collective initiative (Teaching is My Favorite Color) provided teachers of color a safe space, belonging, and authentic identity expression](teaching-is-my-favorite-color-belonging-impact.md) — related

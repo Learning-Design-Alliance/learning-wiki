@@ -48,3 +48,6 @@ Post hoc analysis of the same controlled family-study sample defined extreme DES
 - [More current comorbid conditions are associated with higher DESR scores in adults with ADHD](dose-response-comorbidity-count-and-desr.md) — related
 - [DESR severity correlates strongly with current ADHD symptom severity in adults with ADHD](desr-correlates-with-adhd-symptom-severity.md) — related
 - [Extreme DESR in adults with ADHD is associated with reduced marital status and higher risk of traffic accidents and arrests](extreme-desr-marital-accidents-arrests.md) — related
+- [Extreme DESR in adults with ADHD is linked to worse social adjustment on most SAS-SR domains](extreme-desr-worse-social-adjustment-sassr.md) — related
+- [Extreme DESR in adults with ADHD is linked to lower quality of life on nearly all QLES-Q-SF domains](extreme-desr-lower-quality-of-life-qlesq.md) — related
+- [The eight Barkley Current Behavior Scale items chosen for DESR show high internal consistency](desr-eight-item-scale-high-internal-consistency.md) — related

@@ -65,3 +65,5 @@ Issue-type breakdown of AI-teacher agreement across cycles. The highest Cycle 3 
 - [Fine-tuned PLMs measure high-inference teaching practices better when the variable requires less pedagogical expertise, matching human-rater agreement on lexical variables but degrading on inference-heavy ones](plm-performance-depends-on-pedagogical-expertise-required.md) — related
 - [The Diagnostic Review class gained more writing points across three cycles than the Control class (Hedges' g = 1.12)](diagnostic-review-larger-writing-gains.md) — related
 - [Teacher review workload was higher in the Diagnostic Review class in review minutes, added instruction, and review intensity](teacher-review-workload-higher-diagnostic-review.md) — related
+- [Diagnostic Review reflection records contained fewer misunderstanding codes and higher reflection quality than Control follow-up records](reflective-uptake-fewer-misunderstandings.md) — related
+- [Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)](five-error-types-llm-diagnosis-vague-evidence.md) — related

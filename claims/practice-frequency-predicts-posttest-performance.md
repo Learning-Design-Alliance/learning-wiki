@@ -43,4 +43,6 @@ Multiple regression with posttest Overall Rating as outcome, pretest rating, two
 
 
 ## Related Claims
--
+- [Acceptance scores are broadly held across learner characteristics, with frequency of use the only significant and weak predictor](acceptance-frequency-of-use-weak-predictor.md) — related
+- [Among Chinese higher vocational students, GenAI usage habits and usage contexts are positively associated with perceived learning outcomes while usage frequency is negatively associated, controlling for gender and grade](genai-usage-habits-positive-frequency-negative-predictors-vocational-outcomes.md) — reports the opposite
+- [Adult learners using the closed-loop ITS improved significantly across all seven BARS presentation dimensions over a 30-day practice window (Cohen's d = 0.39–0.90)](its-prepost-gains-all-seven-bars-dimensions.md) — related

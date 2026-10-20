@@ -62,4 +62,6 @@ Analysis of the teachers' meetings in cycle A shows method-dominated discussion,
 
 
 ## Related Claims
--
+- [Teachers reported using AI within planning-monitoring-evaluation-revision cycles interpreted as teacher-level self-regulation](teacher-self-regulated-reflection-with-ai.md) — related
+- [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — a broader claim this one bears on
+- [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related

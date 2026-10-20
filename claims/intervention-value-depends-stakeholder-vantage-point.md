@@ -46,3 +46,5 @@ Interpretive synthesis claim from the report's key findings: the authors state t
 - Common gaps in the SSI Youth Solutions proposal papers concern effects on employment outcomes, costs, and implementation challenges — related
 - [All 12 proposed SSI Youth Solutions interventions explicitly or implicitly aim to increase employment among youth with disabilities as a long-term outcome](ssi-youth-solutions-interventions-aim-employment.md) — related
 - [Identifying SSI youth for outreach is challenging under the current transition system](identifying-ssi-youth-for-outreach-challenging.md) — related
+- [Many SSI youth received transition services without PROMISE, but there was substantial room for PROMISE to improve service use](promise-ssi-youth-transition-services-baseline-room-for-improvement.md) — related
+- [The increased number and specificity of policy requirements challenged implementation flexibility, with some viewing the policy as one-size-fits-all](illinois-principal-preparation-requirements-inflexibility.md) — related

@@ -45,3 +45,5 @@ The authors report the finding of their previous systematic literature review of
 ## Related Claims
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
 - [Prior SNA studies of centrality-achievement links in CSCL show inconsistent, mostly small-sample results, with betweenness and closeness the most inconsistent measures](traditional-centralities-inconsistent-literature.md) — related
+- [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](need-micro-level-theory-and-method-guidelines-ssrl.md) — related
+- [Only students receiving SSRL and co-regulation support achieved superior performance in collaborative programming activities](ssrl-support-collaborative-activity-performance.md) — related

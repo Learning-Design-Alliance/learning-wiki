@@ -68,3 +68,5 @@ Sundararajan and Adesope's meta-analysis on seductive details, reported in the i
 ## Related Claims
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
 - [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — a narrower finding that bears on this claim
+- [Interest correlates moderately with academic achievement (mean correlation r = .31, meta-analytic)](interest-achievement-correlation-31.md) — possibly the same claim (merge candidate)
+- [No seductive details effect on transfer was observed, and no definitive conclusions about comprehension effects can be drawn from the multiple-choice transfer data](no-transfer-effect-seductive-details.md) — reports the opposite

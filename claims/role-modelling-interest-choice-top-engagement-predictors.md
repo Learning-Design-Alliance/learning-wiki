@@ -45,3 +45,4 @@ Elastic-net regression on student ratings of 71 teacher behaviours from 1324 Yea
 ## Related Claims
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Student-rated teacher behaviours predict 4.39% of the variance in students' change in engagement in physical education across the first year of secondary school](teacher-behaviours-predict-4-percent-variance-engagement-change.md) — related
+- [The teacher behaviours most predictive of engagement change do not neatly fit within any single motivational theory, supporting theoretical integration](influential-behaviours-span-multiple-motivational-theories.md) — related

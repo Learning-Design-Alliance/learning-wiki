@@ -44,3 +44,5 @@ Descriptive analysis of lesson completion records from sign-in sheets for 50 Pro
 
 ## Related Claims
 - [Project With was implemented with high fidelity: 89 percent of activities were completed and youth listened during 83 percent and interacted during 76 percent of activities](project-with-fidelity-and-engagement-rates.md) — related
+- [Youth's intentions to have sexual intercourse declined marginally from entry to exit (3.2 to 3.0, p = .08, effect size = -0.16), with no change in condom or birth control intentions](project-with-sexual-intention-changes-entry-exit.md) — related
+- [Youth reported a mixed pattern of impact on the success sequence: 60–61 percent were more likely to plan a steady full-time job before having a child or marrying, but only 28–35 percent were more likely to plan to delay sexual intercourse until milestones](project-with-success-sequence-mixed-impact.md) — related

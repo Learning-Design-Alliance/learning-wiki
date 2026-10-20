@@ -51,3 +51,4 @@ Implementation finding from the final evaluation report of Chicago TAP after fou
 - [Teachers in TAP schools reported significantly more mentoring and support than peers in similar non-TAP schools](tap-increases-reported-mentoring-support.md) — related
 - [Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction](educators-receptive-to-feedback-and-compensation-strategies.md) — related
 - A five-year evaluation of TAP in high-need Chicago public schools began in 2007 — related
+- [TAP teachers were five percentage points more likely to return to their schools than non-TAP teachers](tap-raises-teacher-retention-five-points.md) — related

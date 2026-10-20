@@ -48,3 +48,4 @@ Close qualitative discourse analysis of videotaped first discussions of three tu
 - [The yellow behavioral cluster corresponds to a joking frame in which ambiguous tone protects students who venture risky ideas](yellow-cluster-joking-frame-protects-ideas.md) — a narrower finding that bears on this claim
 - [Both too much and too little epistemic distancing can shut down group discussion](too-much-or-little-distancing-shuts-discussion.md) — related
 - [Tutorial groups varied widely in when they first entered collaborative sensemaking, from about 13 minutes to nearly 53 minutes of tutorial time](groups-vary-first-sensemaking-timing.md) — related
+- [Four distinct, reliably codable behavioral clusters appear in collaborative tutorial video data](four-behavioral-clusters-tutorial-video.md) — related

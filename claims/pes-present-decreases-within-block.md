@@ -63,3 +63,5 @@ Exploratory mixed linear regression on trial-level RTs showed PES was smaller in
 
 ## Related Claims
 - [Accuracy in the mixed block decreases across trials while PES also decreases, independent of intelligence](accuracy-decreases-mixed-block-trials.md) — related
+- [Post-error slowing in EF shows no significant association with intelligence or WM in kindergarten children](pes-null-intelligence-wm-kindergarten.md) — related
+- [Exploratory WM-task measures correlate with EF indices: inhibition accuracy with correct colors, PES mixed with verbal span, congruency effect with correct locations](exploratory-wm-measures-ef-correlations.md) — related

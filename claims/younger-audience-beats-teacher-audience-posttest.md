@@ -46,3 +46,4 @@ ANCOVA among the three non-traditional audience groups controlling pretest score
 - [Non-traditional letter writing improved 9th graders' conceptual understanding of a chemistry mixture unit more than traditional writing, with a small effect](non-traditional-writing-beats-traditional-writing-mixture-understanding.md) — related
 - [Writing scores differed significantly by audience, with younger-student letters rated highest and teacher-directed letters lowest](writing-scores-differ-by-audience.md) — related
 - [Peer response groups increase the number of idea units in English learners' writing but show no significant effect on composition quality or sentences written (Prater & Bermudez, 1993)](peer-response-groups-writing-idea-units.md) — related
+- [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — related

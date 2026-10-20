@@ -47,3 +47,4 @@ Narrative synthesis (SWiM) of neuroimaging studies of meditation; the review rep
 - [Meditation expertise follows an inverted-U: moderate practice hours show greater attention-network activation than novices, while very high hours show reduced activation](meditation-expertise-inverted-u-neural-efficiency.md) — related
 - [Long-term Buddhist meditation training induces gamma synchrony whose ratio to slow oscillations correlates with cumulative practice hours (r = 0.79)](longterm-meditation-gamma-synchrony-practice-hours.md) — related
 - [Professional creators develop the capacity to mindfully mind-wander, identifying and capitalizing on mind wandering during long-term creative enterprises](mindful-mind-wandering-professional-creators.md) — related
+- [Improvised personal prayer engages the Theory of Mind network, while formalized prayer engages dorsolateral PFC and cerebellum](improvised-prayer-theory-of-mind-network.md) — related

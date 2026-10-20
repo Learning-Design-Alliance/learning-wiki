@@ -45,3 +45,4 @@ The abstract states that "recent developments in instructional research and inst
 ## Related Claims
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a narrower finding that bears on this claim
 - [The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide internal guidance](guidance-advantage-recedes-with-high-prior-knowledge.md) — a narrower finding that bears on this claim
+- [Limiting verbose Math Agent guidance sharply reduced answer giveaway but decreased cognitive engagement](math-agent-guidance-limit-tradeoff.md) — related

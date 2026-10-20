@@ -48,3 +48,5 @@ Task 1 follow-up survey after educators implemented a research-based strategy su
 - [Educators reported increased confidence across all four pillars of the whole-child model after LVN use](lvn-confidence-gains-four-pillars.md) — related
 - [Educators reported the LVN strategy bank improved their understanding, use, and identification of strategies](lvn-strategy-bank-improves-practice.md) — related
 - [Playing the gamified security modules raised students' self-reported confidence and understanding of online security](gamified-security-games-confidence-understanding.md) — related
+- [Educator-led peer professional development reinforced educators' own understanding and connected LVN to existing practice](peer-pd-reinforces-variability-understanding.md) — related
+- [Time to plan, more than tools or training, was the largest reported barrier to implementing LVN strategies](time-biggest-barrier-strategy-implementation.md) — related

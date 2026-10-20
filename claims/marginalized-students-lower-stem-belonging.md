@@ -54,3 +54,9 @@ The review attributes to Rainey et al. (2018) the finding that "racially margina
 - [Female STEM majors report significantly lower sense of belonging than male majors](female-majors-report-less-belonging-than-male-majors.md) — related
 - [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
 - [Learning happens best when students feel a sense of belonging, while alienation and exclusion create cognitive barriers](belonging-reduces-cognitive-barriers.md) — a broader claim this one bears on
+- [Lack of diversity in computing stems from social and structural barriers, not ability or interest](structural-barriers-not-ability-limit-computing-diversity.md) — related
+- [Qualitative research shows resource fit—safety and financial resources—shapes marginalized students' sense of belonging](resource-fit-qualitative-belonging.md) — related
+- [Belonging-related theories are underutilized in educational practice, partly because translating theoretical concepts into implementable strategies is difficult](belonging-theory-practice-gap.md) — related
+- [Racism has negative psychological implications for Black students' sense of belonging, self-identity, and academic success in schools](racism-psychological-implications-belonging.md) — related
+- [Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking](psychological-belonging-barrier-first-generation-chemists.md) — a narrower finding that bears on this claim
+- [Women of color are the least likely, and white men the most likely, to report a sense of belonging in STEM majors](intersectional-belonging-women-of-color-lowest-white-men-highest.md) — a narrower finding that bears on this claim

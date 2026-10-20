@@ -46,3 +46,4 @@ Real-world evaluation on ASSISTments 2009–2010: each learner's log split into 
 - [On real-world data, the proposed method maintains high win rates as the number of skills increases, performing strongly on ACE and MSE](real-world-win-rate-skill-size.md) — related
 - [The proposed snapshot-based method consistently outperforms baselines on synthetic next-skill prediction across all metrics except accuracy](synthetic-next-skill-prediction-outperforms-baselines.md) — related
 - [TRACE outperforms LSTM, GNN and XGBoost baselines on grade prediction](trace-outperforms-lstm-gnn-xgboost.md) — related
+- [The proposed method's advantage grows or holds as the skill space expands and under higher noise rates in synthetic experiments](robustness-to-skill-size-and-noise-synthetic.md) — related

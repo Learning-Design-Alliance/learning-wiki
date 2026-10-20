@@ -44,3 +44,5 @@ Correlational analysis of 70 college students' data from four SRL measures in a 
 
 ## Related Claims
 - [The only significant cross-method correlation within one SRL component is motivation assessed by questionnaire and closed-ended microanalytic questions](motivation-questionnaire-microanalysis-only-cross-method-link.md) — possibly the same claim (merge candidate)
+- [Whether an SRL component correlates with GPA depends on how it is assessed: cognition via a strategy knowledge test, motivation via questionnaire, metacognition via an open-ended microanalytic question](different-methods-different-srl-components-achievement.md) — a narrower finding that bears on this claim
+- [The SKT-SRL shows low, mostly non-significant correlations with SRL microanalysis (online measure)](skt-srl-microanalysis-low-correlation.md) — a narrower finding that bears on this claim

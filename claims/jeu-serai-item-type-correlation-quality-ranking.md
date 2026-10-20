@@ -62,4 +62,5 @@ The same correlation analysis of JEU SERAI test data found that besides diary or
 
 
 ## Related Claims
--
+- [Enterprising-type items in JEU SERAI did not work correctly, attributed to panel underrepresentation and weak action-verb rationalization](jeu-serai-enterprising-items-failed.md) — related
+- [The replay item in JEU SERAI indicated Realistic type affiliation regardless of the anticipated RIASEC type of the mini game replayed](jeu-serai-replay-item-measures-realistic-affiliation.md) — related

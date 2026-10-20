@@ -56,3 +56,7 @@ The meta-analysis's own summary finding: "Limited support was found for existing
 ## Related Claims
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
+- [The meta-analysis supports retrieval effort as a contributor to the testing effect](retrieval-effort-support-testing-effect.md) — related
+- [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
+- [Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented](effects-of-retrieval-practice-on-semantic-organization-are-unclear.md) — related
+- [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related

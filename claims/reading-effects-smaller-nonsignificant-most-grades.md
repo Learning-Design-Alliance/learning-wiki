@@ -48,3 +48,4 @@ Same fixed-effects models estimated for reading; the article reports effects "mu
 - [Even moderately absent students (0.1-4.9% of days) start the following year at significantly lower mathematics achievement (.07 to .15 SDs) than no-absence peers](moderate-absence-significant-starting-deficit.md) — related
 - [Students chronically absent (10%+) in the prior year start the following school year 0.22 to 0.47 SDs lower in mathematics than peers with no prior-year absences](prior-year-chronic-absence-lower-fall-math-achievement.md) — related
 - [Each single prior-year absence is associated with a .010 to .016 SD decrease in fall mathematics starting achievement the following year](single-absence-cumulative-fall-math-decline.md) — related
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — a broader claim this one bears on

@@ -66,3 +66,5 @@ The review's abstract states longitudinal persistence figures: "DCD persistence 
 - [About half of all children with DCD experience difficulty learning to write, making dysgraphia assessment essential because handwriting difficulties do not resolve without intervention](half-of-children-with-dcd-have-dysgraphia.md) — related
 - [Process-oriented (bottom-up) therapies for DCD show weak or null effects, while task-oriented approaches are effective in improving motor performance](process-oriented-weak-task-oriented-effective-dcd.md) — related
 - [Motor skill interventions for DCD improve motor, cognitive, and emotional outcomes, with dose (duration and frequency) influencing treatment effects and interventions of at least 9 weeks tending to be more effective](dcd-motor-intervention-dose-response-yu-review.md) — related
+- [Developmental dyscalculia persists into adulthood when untreated, affecting 5–7% of the general population](dd-persists-into-adulthood-untreated.md) — related
+- [Developmental writing disorders affect about 7–15% of school-aged children, with boys more affected than girls](writing-disorder-prevalence-7-15-percent.md) — related

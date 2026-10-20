@@ -45,3 +45,6 @@ rANOVA on accuracy with Condition and Load within-subjects and Group between-sub
 ## Related Claims
 - [Reaction times are faster during threat than safe conditions only on the high-load (3-back) task, in both adolescents and adults](threat-speeds-rt-high-load-only.md) — related
 - [Threat of an aversive scream lowers verbal working memory accuracy at low and medium load but not at high load in both adolescents and adults](threat-impairs-accuracy-low-medium-not-high-load.md) — related
+- [The threat-of-scream manipulation successfully induced sustained anxiety, with equivalent subjective and startle responses in adolescents and adults](scream-threat-manipulation-induced-anxiety-equally.md) — related
+- [Anxiety-potentiated startle is greater during low- and medium-load tasks than during the high-load task in both age groups](anxiety-potentiated-startle-reduced-high-load.md) — related
+- [Adults show higher overall working memory accuracy than adolescents, and adults but not adolescents increase startle reactivity with load](adults-higher-accuracy-startle-load-group-interaction.md) — related

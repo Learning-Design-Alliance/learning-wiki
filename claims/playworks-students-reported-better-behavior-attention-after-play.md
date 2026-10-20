@@ -52,3 +52,4 @@ Student-reported outcome from the cohort 1 randomized experiment: treatment stud
 - [Playworks showed significant impact on some measures of girls' physical activity but no significant impact on measures of boys' physical activity](playworks-gender-differential-impact.md) — related
 - [Game structures, role playing, and the physical environment are identified as factors shaping students' thinking in AR game play](ar-game-structure-role-environment-shape-thinking.md) — related
 - [Action, strategy-intelligence, role-playing and sport traditional game genres positively predict social problem-solving scores](traditional-game-genres-positive-spsic-predictors.md) — related
+- [Playworks made transitions from recess to classroom learning less difficult, per teacher reports](playworks-easier-recess-to-classroom-transitions.md) — related

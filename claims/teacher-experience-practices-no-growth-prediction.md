@@ -64,3 +64,5 @@ The same survey-predictor models showed non-significant negative trends for freq
 ## Related Claims
 - [Middle school students with the lowest baseline argumentative-writing scores showed the largest growth across essay attempts on an AES platform, while mid- and high-baseline students showed limited or no significant change](aes-lowest-baseline-students-gain-most.md) — related
 - [Teachers' belief that their students were ready for argumentative writing significantly predicted student growth within the first prompt](teacher-readiness-belief-predicts-first-prompt-growth.md) — reports the opposite
+- [Student teachers' self-assessed preparedness did not predict first-year effectiveness (r = 0.03), while mentor teachers' ratings of student teachers did (r = 0.24)](cps-early-indicators-mentor-ratings-predict-first-year-effectiveness.md) — related
+- [Teachers' confidence in teaching students to order reasons and evidence logically significantly predicted student writing growth within the first and second prompts](teacher-confidence-reasons-evidence-predicts-growth.md) — related

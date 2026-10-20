@@ -46,3 +46,5 @@ Qualitative interview study described on the book's abstract page: a five-year s
 - Neighborhood-based desegregation plans are short-term and eventually defeated by shifting residential patterns — related
 - [Under Boston's Controlled Choice plan, 90 percent of students received a first- or second-choice school and fewer than 10 percent were mandatorily assigned](boston-controlled-choice-most-students-get-first-or-second-choice.md) — related
 - [Interdistrict desegregation choice programs show achievement and graduation benefits for disadvantaged students, with stronger outcomes the longer students remain](interdistrict-desegregation-benefits.md) — related
+- [Attending racially integrated schools is associated with higher academic achievement and improved long-term educational and economic outcomes for students of color, with no academic harm for white students](integrated-schools-academic-and-long-term-benefits.md) — a broader claim this one bears on
+- [Interdistrict desegregation choice plans decrease segregation, help close racial achievement gaps, and improve racial attitudes and long-term outcomes](interdistrict-desegregation-choice-benefits.md) — related

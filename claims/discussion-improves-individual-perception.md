@@ -46,3 +46,7 @@ An experiment (as reviewed here, citing work 56) comparing individuals who inter
 - [Two people discussing perceptual decisions can outperform the better individual, via weighted confidence sharing](group-advantage-joint-perceptual-decision-discussion.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Pairs rapidly develop shared verbal confidence scales, and faster development predicts greater group advantage](linguistic-coordination-confidence-vocabularies.md) — related
+- [People automatically represent the goals of a co-actor, impairing individual task performance](automatic-representation-of-coactor-goals-simon-effect.md) — related
+- [The group advantage reverses when partners' abilities differ greatly, and depends on the mode of communication](group-advantage-depends-on-ability-similarity-and-communication.md) — related
+- [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
+- [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — a broader claim this one bears on

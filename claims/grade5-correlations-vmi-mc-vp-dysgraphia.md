@@ -49,3 +49,9 @@ Correlation analysis across VMI, VP, MC and dysgraphia classification for the wh
 ## Related Claims
 - [Dysgraphia classification differs significantly across grade groups, with 80% of 1st graders, 10% of 3rd graders and 60% of 5th graders classified with dysgraphia](dysgraphia-classification-varies-by-grade.md) — related
 - [Fine motor precision and manual dexterity are positively correlated with handwriting legibility in preschool children, and Functional Dexterity Test time is inversely correlated](fine-motor-skills-correlate-handwriting-legibility-preschool.md) — related
+- [Visual-motor integration was the lowest-scoring ability and motor coordination the best-performing ability in every grade group](vmi-lowest-mc-highest-all-groups.md) — related
+- [Automaticity of handwriting predicts orthographic skills even when visual-motor integration is included in the model](automaticity-predicts-orthographic-skills.md) — related
+- [K-DTVP-2 and VMI-3R scores are strongly positively correlated (r = 0.855)](k-dtvp2-vmi3r-strong-positive-correlation.md) — related
+- [Acquisition of visual perception, motor coordination and visual-motor integration does not progress linearly across grades 1 to 5](nonlinear-grade-progression-visomotor-skills.md) — related
+- [No significant difference was found between grade groups in the classification distribution of VMI, VP and MC performance levels](no-group-difference-performance-classification.md) — related
+- [First-grade students show inferior visual-motor integration, visual perception and motor coordination performance compared with the other grade groups](grade1-inferior-vmi-vp-mc-performance.md) — related

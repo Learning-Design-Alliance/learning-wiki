@@ -47,3 +47,4 @@ Stated in the article's conclusion as an assertion; the article offers no direct
 - [Accountability management system indicator scores average higher than elementary schools' digital transformation capability indicator scores](accountability-indicators-outscore-digital-transformation-indicators.md) — related
 - [Teacher communication-technology competence scores highest while virtualizing-process technology use scores lowest among digital transformation indicators](digital-transformation-indicator-strengths-weaknesses.md) — related
 - [Accountability strengths lie in school climate and communication while stakeholder-involved vision evaluation scores lowest](accountability-indicator-strengths-weaknesses.md) — related
+- [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — reports the opposite

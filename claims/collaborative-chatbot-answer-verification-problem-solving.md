@@ -48,3 +48,5 @@ Qualitative theme from interviews and a worked example (Fig. 2): the chatbot cal
 - [Secondary students most frequently use generative AI for step-by-step theoretical explanation and for checking their own solutions, more than for calculations](ai-as-explanation-scaffold-verification-secondary-stem.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Teacher interventions that are not explicit encourage learners' self-awareness of the limitations of their current understanding without prescribing a solution](non-explicit-teacher-interventions-encourage-self-awareness.md) — related
+- [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](peer-reflective-groups-challenge-student-teacher-views.md) — related
+- [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](chatbot-homework-study-assistance.md) — related

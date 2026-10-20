@@ -47,3 +47,4 @@ Structural equation modeling of concurrent measures in a sample of 442 upper ele
 - [Self-reported concentration was examined as a contributor to listening comprehension but did not emerge in the best-fitting model](concentration-not-in-best-fitting-listening-model.md)
 - [Verbal short-term memory and academic self-efficacy are positively associated with children's vocabulary](verbal-stm-self-efficacy-positively-associated-vocabulary.md)
 - [The indirect association between verbal short-term memory and listening comprehension through vocabulary just missed significance](stm-vocabulary-indirect-path-just-missed-significance.md) — related
+- [Vocabulary mediates the association between academic self-efficacy and listening comprehension](vocabulary-mediates-self-efficacy-listening-comprehension.md) — related

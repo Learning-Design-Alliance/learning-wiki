@@ -47,3 +47,4 @@ Exploratory correlational analysis in the N = 147 sample: mean RT in the mixed H
 - [Exploratory WM-task measures correlate with EF indices: inhibition accuracy with correct colors, PES mixed with verbal span, congruency effect with correct locations](exploratory-wm-measures-ef-correlations.md) — related
 - [Inhibition accuracy in the Hearts and Flowers incongruent block is positively correlated with fluid intelligence in kindergarten children](inhibition-accuracy-correlates-fluid-intelligence-kindergarten.md) — related
 - [Shifting accuracy and shift cost show no association with intelligence or WM in kindergarten children](shifting-null-intelligence-wm.md) — related
+- [Post-error slowing in EF shows no significant association with intelligence or WM in kindergarten children](pes-null-intelligence-wm-kindergarten.md) — related

@@ -70,3 +70,4 @@ A further measurement caveat: self-determination is typically assessed via self-
 - [All students in the self-determination skill intervention achieved their goals at better than average levels](students-achieved-goals-better-than-average.md) — related
 - [All four students achieved above the performance levels teachers expected on the Goal Attainment Scale, exceeding their personal goals by 10% to 20%](students-exceeded-teacher-gas-expectations.md) — related
 - [The article hypothesizes that fostering self-determined, self-regulated and reflective adult educators and learners achieves the goal of creating people who know how to learn](fostering-three-factors-learning-how-to-learn.md) — related
+- [Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable](choice-autonomy-rarely-tested-in-retention-programs.md) — related

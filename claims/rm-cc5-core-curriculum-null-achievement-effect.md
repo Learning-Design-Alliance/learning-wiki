@@ -49,3 +49,6 @@ Confirmatory RQ1 analysis of the MCIS randomized controlled trial: two-level hie
 - [RM-CC5 treatment teachers shifted toward one-on-one instruction with individual students, while control teachers led more whole-group and small-group instruction](rm-cc5-teacher-role-shift-one-on-one.md) — related
 - [Treatment classrooms used technology far more intensively than control classrooms, whose technology use remained supplemental](rm-cc5-treatment-higher-technology-use.md) — related
 - [The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment](adaptive-mastery-versus-coverage-tension-null-result.md) — related
+- [Against no-treatment controls, ITS produce a large statistically significant effect (g = 1.23) under a random-effects model](its-versus-no-treatment-controls-g-1-23.md) — related
+- [Math 180 randomized study: 6th graders receiving Math 180 showed greater growth on NWEA MAP mathematics than business-as-usual comparison students (ES +0.31)](math-180-rct-grade6-map-es-031.md) — related
+- [ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends](assistments-long-term-eog-effect-0-10.md) — related

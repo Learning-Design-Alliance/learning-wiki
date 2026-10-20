@@ -43,3 +43,5 @@ Descriptive statistics (Table 1) showed proportionately more ADHD-group parents 
 ## Related Claims
 
 - [Children with ADHD in the cohort were disproportionately male and from families reporting financial difficulty or social housing](adhd-group-descriptive-ses-and-sex-differences.md)
+- [Housing tenure, marital status, maternal age and financial difficulties are each significantly associated with ADHD at age 7 in unadjusted analysis](unadjusted-ses-predictors-adhd-housing-marital-age.md) — related
+- [Perceived financial difficulty in early childhood is the socioeconomic indicator most strongly associated with a research diagnosis of ADHD at age 7](financial-difficulties-strongest-ses-predictor-adhd-age-7.md) — related

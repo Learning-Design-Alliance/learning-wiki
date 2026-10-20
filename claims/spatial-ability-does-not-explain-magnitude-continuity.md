@@ -49,3 +49,4 @@ Secondary regression analysis (Supporting Information, Table S2) adding first-gr
 ## Related Claims
 - [The relation between early whole number magnitude knowledge and later fraction magnitude knowledge is not attributable to number line tasks being used at both measurement times](number-line-task-overlap-not-explaining-continuity.md) — related
 - [First graders' whole number magnitude knowledge predicts eighth graders' fraction magnitude knowledge after controlling for arithmetic, cognitive, and demographic variables](wn-magnitude-grade1-predicts-fraction-magnitude-middle-school.md) — related
+- [Middle school fraction magnitude knowledge fully mediates the relation between first-grade whole number magnitude knowledge and middle school fraction arithmetic](fraction-magnitude-fully-mediates-wn-magnitude-fraction-arithmetic.md) — related

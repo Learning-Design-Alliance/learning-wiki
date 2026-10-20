@@ -46,3 +46,4 @@ Methodological rationale in the report's cost-of-living section: "the value of t
 - In 2017, the cost-of-living-adjusted starting teacher salary was higher in rural Utah districts, but the average scheduled teacher salary was lower in rural than non-rural districts — related
 - [After accounting for teacher and school characteristics, each $1,000 increase in cost-of-living-adjusted salary is associated with about a 0.34 percentage-point decrease in turnover probability](salary-associated-with-lower-turnover.md) — related
 - [Districts' prior-year teacher turnover was negatively associated with certification rates, and certification rates tend to be higher where beginning teacher salaries are higher](turnover-and-salary-associated-with-certification.md) — related
+- [Teacher salaries influence entry, supply, and retention in teaching](salary-increases-influence-teacher-supply-and-retention.md) — a broader claim this one bears on

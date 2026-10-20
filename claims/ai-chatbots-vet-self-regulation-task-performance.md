@@ -50,3 +50,5 @@ The review's synthesis characterizes chatbot evidence as "promising" rather than
 - Research on AI in VET is geographically clustered, with 17 of 26 included studies originating from Asia, and no study conducted in workplace settings — related
 - [Intelligent Extended Reality interventions in VET show consistent positive effects on procedural competence, practical skills, and learner motivation](ixr-vet-positive-effects-procedural-motivation.md) — related
 - The empirical evidence base on AI in VET is methodologically constrained, with only five randomized experimental studies among 26 included studies — related
+- [Purpose-built chatbot effects on educational performance are mixed, with some studies showing no benefits or worse outcomes than comparison conditions](educational-performance-mixed-ai-chatbots.md) — related
+- [AI in VET is predominantly implemented through behaviorist or cognitively oriented instructional designs emphasizing drill-and-practice and adaptive feedback, while approaches fostering learner agency and critical reflection remain underrepresented](ai-vet-behaviorist-designs-learner-agency-underrepresented.md) — related

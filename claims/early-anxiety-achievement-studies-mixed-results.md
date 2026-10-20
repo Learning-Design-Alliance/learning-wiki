@@ -53,3 +53,4 @@ Theoretical/historical statement in the article's opening extract: because psych
 - The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — related
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
 - [Early identification and treatment of math anxiety is important because early anxieties can snowball into avoidance of mathematics](early-identification-math-anxiety-importance.md) — related
+- [The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types](anxiety-achievement-moderators-levels-languages-anxiety-types.md) — related

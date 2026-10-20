@@ -51,3 +51,4 @@ The page's description of the technical appendix to a research brief on struggli
 - [NWEA reports positive recovery trends in K-2 academic recovery following the COVID pandemic](k2-academic-recovery-positive-trends-post-covid.md) — related
 - [The NWEA COVID-19 visualization provides state-level insights into 2020–2021 MAP Growth performance to inform academic recovery](nwea-visualization-state-level-covid-insights.md) — related
 - COVID-19 learning losses are expected to be concentrated in the early grades and among students who were already struggling before the pandemic — a broader claim this one bears on
+- [NWEA reports a positive turn for U.S. reading achievement after a period of post-COVID stagnation](post-covid-reading-positive-turn-nwea.md) — related

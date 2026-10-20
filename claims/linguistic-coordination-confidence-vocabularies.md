@@ -46,3 +46,4 @@ A linguistic analysis of the discussions in the odd-ball experiments (Fusaroli e
 - [Two people discussing perceptual decisions can outperform the better individual, via weighted confidence sharing](group-advantage-joint-perceptual-decision-discussion.md) — a broader claim this one bears on
 - [The group advantage reverses when partners' abilities differ greatly, and depends on the mode of communication](group-advantage-depends-on-ability-similarity-and-communication.md) — related
 - [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](discussion-improves-individual-perception.md) — related
+- [Communication and coordination costs of transactive activities can annul the benefit of sharing cognitive load in a group](transactive-costs-annul-load-sharing-benefit.md) — related

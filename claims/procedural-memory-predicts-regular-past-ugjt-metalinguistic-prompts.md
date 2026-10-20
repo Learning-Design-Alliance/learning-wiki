@@ -50,3 +50,5 @@ Multiple regression analyses for the regular past tense UGJT across three classr
 - [Pretest scores significantly predict posttest scores across CF types and outcome measures](pretest-scores-predict-posttest-scores.md) — related
 - [Procedural memory shows no association with irregular past tense learning under any CF type](procedural-memory-null-irregular-past-tense.md) — related
 - [No group differences on immediate posttests for either feedback type on either measure](no-immediate-posttest-feedback-group-differences.md) — related
+- [Declarative memory predicts immediate UGJT posttest gains for irregular past tense only under recasts](declarative-memory-predicts-irregular-past-ugjt-recasts.md) — related
+- [CF treatment improved regular past tense performance on both GJT and EIT with large effects](cf-treatment-improves-regular-past-tense-gjt-eit.md) — a broader claim this one bears on

@@ -45,3 +45,5 @@ Because procedural knowledge scores deviated from normal distribution (Shapiro�
 ## Related Claims
 - [In a Bayesian-reasoning replication, problem-solving prior to instruction (PS-I) showed no significant advantage over instruction-first (I-PS) on conceptual knowledge](ps-i-no-effect-conceptual-bayesian-replication.md) — related
 - [PS-I effects did not replicate in all domains: null sequence effects in Bayesian reasoning, javelin throwing, and inquiry-skill sequencing](ps-i-null-results-new-domains.md) — a broader claim this one bears on
+- [No significant interaction between order of phases and type of instruction on conceptual knowledge in the Bayesian-reasoning replication](ps-i-instruction-interaction-null-bayesian.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on

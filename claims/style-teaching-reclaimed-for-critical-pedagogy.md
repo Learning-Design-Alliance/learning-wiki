@@ -45,3 +45,5 @@ Theoretical argument in a conference paper: the author contends style instructio
 
 ## Related Claims
 - [In one first-year composition class, stylistic analysis of a president's letter served critical pedagogy goals](style-analysis-president-letter-critical-reading.md) — a narrower finding that bears on this claim
+- [Linguistic-level discourse analysis of students restating animation descriptions in their own words documents collaborative behavior and informs task redesign](karlsson-linguistic-discourse-analysis-restating.md) — related
+- [Review reports lecturers' discourse contains endorsed and enacted meta-rules about doing mathematics that can model mathematical behavior](lecturer-meta-rules-endorsed-and-enacted.md) — related

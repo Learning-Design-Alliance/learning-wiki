@@ -51,3 +51,8 @@ Simulation results comparing adaptivity (delta values) and SEM of instructional 
 - [Marginal reliabilities of MAP Growth winter scores are comparable across engines and all in the 0.90s, with CBE showing slightly higher precision (lower SEM)](cbe-colo-reliability-comparable-cbe-higher-precision.md) — related
 - [The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests](spanish-map-reading-adaptive-lower-sem.md) — related
 - [Integrating cognitive scores with non-cognitive learner attributes enables the system to dynamically adapt AI-generated explanations in tone, depth and instructional strategy to individual learner performance](cognitive-noncognitive-integration-adapts-ai-explanations.md) — related
+- [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-beats-fixed-form-precision-same-length.md) — related
+- [Growth-score differences between CBE and COLO are small, exceeding 0.2 only in Reading Grades K–1 (favoring CBE) and Mathematics Grade 8 (favoring COLO)](map-growth-cbe-colo-growth-effect-sizes-small.md) — related
+- [Across administrations, the CBE may re-administer an item to the same student before the longitudinal exposure window elapses when the item bank cannot fulfill test requirements, which COLO does not allow](cbe-allows-repeated-items-across-administrations.md) — related
+- [Differences in test-taking engagement across content categories were primarily due to differences in the reading load of items](engagement-differences-across-content-categories-due-to-reading-load.md) — related
+- [CAT adjusts test questions as the testing goes along](cat-adjusts-questions-during-testing.md) — related

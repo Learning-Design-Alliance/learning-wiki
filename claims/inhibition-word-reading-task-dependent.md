@@ -62,4 +62,6 @@ Qualitative synthesis contrast: the same inhibition domain (interference control
 
 
 ## Related Claims
--
+- [Inhibition shows moderate to large associations with reading comprehension in most studies, but the association depends on the inhibition task used](inhibition-reading-comprehension-task-dependent.md) — related
+- [Early interference suppression, but not response inhibition, correlates with emergent literacy measures in both 4–5- and 5–6-year-old subsamples](fish-task-correlates-emergent-literacy-circle-does-not.md) — related
+- [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related

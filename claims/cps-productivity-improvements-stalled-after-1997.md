@@ -50,3 +50,7 @@ Analysis of yearly reading and math gain scores by grade cohort, 1994-2001, repo
 - [Judging school improvement requires reading learning gain trends and output trends simultaneously, since either trend monitored alone can mislead](single-trend-reading-misleading.md) — related
 - Standardized test scores change so slowly that even schools making exceptional gains may appear stagnant — related
 - [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — related
+- [Productivity profiles in adjacent grades are negatively related, so judging a school from selected grades alone can be very misleading](adjacent-grade-profiles-negatively-related.md) — related
+- [ITBS test form progression systematically influences eighth-grade math gain scores, with Form L-to-M years showing the largest gains and Form K-to-L years the smallest](itbs-test-form-effects-on-eighth-grade-math-gains.md) — related
+- [Reading score trends flattened for ages 9-12 and declined at ages 9 and 12 in the grade equivalent metric by 2000](cps-reading-trends-flattened-declined-younger-ages.md) — a narrower finding that bears on this claim
+- [All six CPS age cohorts saw a slight 2001 decline in math scores of less than one month, which a Rasch-score re-analysis suggests reflects an actual drop in learning rather than test-form effects](2001-math-decline-confirmed-by-rasch-analysis.md) — a narrower finding that bears on this claim

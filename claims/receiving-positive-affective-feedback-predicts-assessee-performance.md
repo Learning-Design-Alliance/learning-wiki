@@ -43,4 +43,7 @@ Hierarchical multiple regression (N = 181) found positive emotional feedback fro
 
 
 ## Related Claims
--
+- [Peer grading behaviors do not significantly predict project performance for assessors or assessees](peer-grading-not-significant-predictor.md) — related
+- [Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback](cognitive-feedback-benefits-assessors-not-assessees.md) — related
+- [Giving suggestions to peers is a significant predictor of assessors' own project performance](giving-suggestions-predicts-assessor-performance.md) — related
+- [Giving feedback that identifies problems in peers' work is a significant predictor of assessors' own project performance](giving-problem-identification-feedback-predicts-assessor-performance.md) — related

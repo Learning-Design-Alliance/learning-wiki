@@ -46,3 +46,4 @@ The brief's motivating context statement about post-pandemic need. It reports an
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — related
 - [Post-COVID classrooms show increased academic diversity, with more students off-track and further behind grade-level proficiency](post-covid-classrooms-academically-diverse-more-students-off-track.md) — related
 - [Post-COVID classrooms show increased academic diversity in the composition and spread of student achievement levels](post-covid-classrooms-academically-diverse-achievement-spread.md) — related
+- [After the pandemic, more students are off-track and further behind grade-level proficiency, deepening challenges for educators](post-covid-more-students-off-track-behind-grade-level.md) — possibly the same claim (merge candidate)

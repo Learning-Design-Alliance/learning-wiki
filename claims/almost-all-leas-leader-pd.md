@@ -44,3 +44,4 @@ Survey item on planned professional development for site leaders and principals.
 
 ## Related Claims
 - [LEAs expressed broad interest in technical assistance, with the highest interest in professional learning opportunities](technical-assistance-professional-learning-highest.md) — related
+- [Most U.S. elementary school principals report access to professional development content identified as important for building leadership capacity](principals-access-pd-content-leadership-capacity.md) — related

@@ -78,3 +78,5 @@ tactical understanding to other domains.
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Action, strategy-intelligence, role-playing and sport traditional game genres positively predict social problem-solving scores](traditional-game-genres-positive-spsic-predictors.md) — related
+- [Teachers actively highlight specific in-game actions as examples of tactical decision-making, including distinguishing sound tactical reasoning from negative outcomes](teachers-highlight-tactical-decisions-debriefing.md) — related
+- [Students appropriate the concept of tactics in their own post-game reasoning through thematization of general principles and framing performance in terms of creating dilemmas for the opponent](students-appropriate-tactics-thematization-dilemmas.md) — related

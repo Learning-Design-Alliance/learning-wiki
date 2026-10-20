@@ -43,4 +43,4 @@ Repository metadata record for the article. The printed keyword list includes 'V
 
 
 ## Related Claims
--
+- [Sociocultural theory emerged from the Russian Revolution, and English translations systematically deleted its Marxist references](sociocultural-theory-marxist-origins-deleted-translations.md) — related

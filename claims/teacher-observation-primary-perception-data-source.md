@@ -45,3 +45,6 @@ Interview and observation findings from the study's 10 focal middle school math 
 ## Related Claims
 - [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related
 - [Using multiple data sources, including site-specific data, helped schools develop a more comprehensive understanding of their school climate](multiple-data-sources-holistic-climate-understanding.md) — related
+- [SE measurement in undergraduate mathematics relies predominantly on log files for online behavioral engagement and self-reports for course participation, with behavioral engagement the most examined dimension](se-measurement-logfiles-selfreports-math.md) — related
+- [School climate measurement relies heavily on student self-report questionnaires, with families and observational methods rarely represented](student-selfreport-dominates-climate-measurement.md) — related
+- [Survey design and management conditions influenced how schools engaged with climate data](survey-design-conditions-data-engagement.md) — related

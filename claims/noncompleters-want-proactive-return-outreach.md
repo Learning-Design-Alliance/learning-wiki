@@ -45,3 +45,7 @@ In the focus groups with non-completers, participants said they wished their col
 ## Related Claims
 - [Stopping out was common and associated with non-completion: about 90 percent of CPS graduates who took a semester off did not finish a degree within six years](stopping-out-early-warning-non-completion.md) — related
 - [Community college students want to feel connected to their college — faculty, staff, peers, and services — from entry through completion](students-want-connection-to-college-throughout-experience.md) — a broader claim this one bears on
+- [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
+- [Check & Connect has statistically significant positive effects on staying in school for high school students with disabilities](check-and-connect-reduces-dropout-staying-in-school.md) — related
+- [Find the Fit made no significant difference in college persistence into the third year after high school](find-the-fit-no-persistence-effect-third-year.md) — related
+- [Students often do not know which questions to ask about college until it is too late, and want colleges to anticipate their information needs](students-unknow-questions-until-too-late.md) — related

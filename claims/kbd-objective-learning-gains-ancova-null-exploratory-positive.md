@@ -87,3 +87,5 @@ In the same exploratory regressions, "Only learning preference had a significant
 - Random assignment in the Baker (1997) trial produced pretest differences favoring the comparison curriculum, controlled by using the pretest as a covariate — related
 - [Students perceive a KBD-configured generative social robot tutor as more aligned with responsible tutoring behavior than an identical non-KBD control robot](kbd-robot-perceived-more-responsible-tutoring-behavior.md) — related
 - [Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect](mastery-probability-covariate-ancova-favors-adaptive.md) — related
+- [Students in the non-adaptive condition reached significantly higher average mastery probabilities than students in the adaptive condition](non-adaptive-condition-higher-mastery-probabilities.md) — related
+- [Students' initial knowledge level (midterm scores) did not significantly influence improvement in lab scores, indicating it did not confound the feedback-source difference](midterm-knowledge-did-not-confound-feedback-use.md) — related

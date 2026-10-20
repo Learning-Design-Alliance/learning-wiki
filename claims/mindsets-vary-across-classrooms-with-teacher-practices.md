@@ -48,3 +48,5 @@ The review reports, citing Farrington, Porter, & Klugman (forthcoming), that "th
 
 - [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with no significant variation in this effect detected across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — the general claim this finding bears on, with the studies behind it
 - [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](positive-mindsets-better-behaviors-grades.md) — a broader claim this one bears on
+- [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — a broader claim this one bears on
+- [Teachers who are effective at improving academic behaviors and mindsets are often not the same teachers who raise math test scores](teacher-effectiveness-noncognitive-uncorrelated-test-scores.md) — related

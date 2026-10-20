@@ -47,3 +47,4 @@ In the Bloom-level experiment, selecting a lure (e.g., gravitation) on an applic
 - [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](mc-testing-increases-lure-production.md) — related
 - [Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing](testing-effects-bloom-higher-levels.md) — related
 - [Cued-recall testing can impair later memory for competitive, related but non-practiced information (retrieval-induced forgetting)](retrieval-induced-forgetting-cued-recall.md) — related
+- [Persistence of multiple-choice errors is driven by faulty reasoning that integrates the error into knowledge rather than by mere familiarity of lures](lure-persistence-reasoning-not-familiarity.md) — related

@@ -45,3 +45,5 @@ Experiment 2 eye-tracking analysis of regressions: local (same-line) regressions
 ## Related Claims
 - [Working memory capacity interacts with illustration type: seductive illustrations impair comprehension only for low-WMC readers](wmc-moderates-seductive-details-effect.md) — related
 - [WMC shows a main effect on inference verification but not on essay recall](wmc-main-effect-ivt-not-essay.md) — related
+- [Betweenness centrality decreases as working memory capacity increases](wmc-decreases-betweenness-centrality.md) — related
+- [Readers with higher working memory capacity make more transitions between sentences (higher strength)](wmc-increases-strength-reading-networks.md) — related

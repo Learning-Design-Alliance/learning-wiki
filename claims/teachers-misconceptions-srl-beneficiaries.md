@@ -43,4 +43,5 @@ The editorial reports, citing Peeters et al. (2016), Zohar & Barzilai (2015) and
 
 
 ## Related Claims
--
+- [Latent profile analysis of primary teachers' SRL competence yields two quantitative profiles (low vs. high competence) rather than three qualitatively distinct situative, cognitive, or mixed profiles](two-srl-teacher-competence-profiles-low-high.md) — related
+- [Novice teachers hold misconceptions about differentiation, such as equating DI with personalized instruction](novice-teacher-di-misconceptions.md) — related

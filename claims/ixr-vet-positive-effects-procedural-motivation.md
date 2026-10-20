@@ -47,3 +47,5 @@ The review's synthesis of the 26 included VET studies reports that "Intelligent 
 - [AI chatbots in VET show promising effects on self-regulation and task performance](ai-chatbots-vet-self-regulation-task-performance.md) — related
 - [Intelligent Tutoring Systems in VET foster declarative and procedural knowledge](its-vet-foster-declarative-procedural-knowledge.md) — related
 - The empirical evidence base on AI in VET is methodologically constrained, with only five randomized experimental studies among 26 included studies — a broader claim this one bears on
+- [AI in VET is predominantly implemented through behaviorist or cognitively oriented instructional designs emphasizing drill-and-practice and adaptive feedback, while approaches fostering learner agency and critical reflection remain underrepresented](ai-vet-behaviorist-designs-learner-agency-underrepresented.md) — related
+- [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related

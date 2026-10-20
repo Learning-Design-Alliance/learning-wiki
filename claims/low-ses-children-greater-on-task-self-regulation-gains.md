@@ -43,4 +43,5 @@ Covariate analysis within the repeated-measures ANCOVA of on-task self-regulatio
 
 
 ## Related Claims
--
+- [SES moderated change in emotional/motivational regulation, with lower-SES children increasing and higher-SES children slightly decreasing](ses-moderates-emotional-motivational-regulation-change.md) — related
+- [Musical play intervention significantly increased children's metacognitive knowledge of strategies at interview](musical-play-intervention-metacognitive-knowledge-of-strategies-gains.md) — related

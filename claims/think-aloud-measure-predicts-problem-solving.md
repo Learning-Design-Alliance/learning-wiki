@@ -45,3 +45,7 @@ Think-aloud protocols of two multistep word problems were scored with a systemat
 ## Related Claims
 
 - [The VisA instrument predicts word problem solving performance in grade 5, explaining 23 percent of variance](visa-instrument-predicts-word-problem-solving.md)
+- [The VisA instrument and think-aloud measure converge moderately and each contributes unique predictive variance for word problem solving](visa-think-aloud-moderate-overlap-unique-variance.md) — related
+- [A general self-report metacognition questionnaire shows no relationship with word problem solving performance and no convergence with on-line metacognitive measures in grade 5](self-report-questionnaire-no-convergence-online-metacognition.md) — related
+- [Several sophisticated metacognitive regulation activities showed little to no variance among grade 5 students during think-aloud problem solving](grade5-metacognitive-activities-no-variance.md) — related
+- [The understand-solve-check cognitive model accounted for 71% of protocol subjects' verbalizations](cognitive-model-captures-71-percent-verbalizations.md) — related

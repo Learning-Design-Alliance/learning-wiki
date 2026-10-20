@@ -44,3 +44,4 @@ Authors' interpretive argument (type e) in the section on resilience and adaptab
 
 ## Related Claims
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [CBO leaders cautioned that assessing WSS outcomes without accounting for district inputs obscures how resource allocation determines policy success](wss-outcomes-need-input-transparency.md) — related

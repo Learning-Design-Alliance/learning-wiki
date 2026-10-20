@@ -44,3 +44,4 @@ Bonferroni-corrected Mann-Whitney pairwise comparisons on the two superficial su
 
 ## Related Claims
 - [Hypermedia learners show the lowest total engagement in learning processes, devoting most processing to superficial activities](hypermedia-lowest-total-process-engagement.md) — related
+- [Self-explanation-based and inquiry learning environments elicit significantly more total learning-process instances than hypermedia and observational learning environments](generation-approaches-elicit-more-learning-processes.md) — related

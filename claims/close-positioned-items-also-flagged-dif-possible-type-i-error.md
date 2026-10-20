@@ -48,3 +48,4 @@ In the TEOG booklet DIF analysis, items 2 and 13 in Booklet A occupy 3rd and 14t
 - The polytomous DFIT framework shows Type I error rates close to nominal alpha except when the number of DIF items and DIF magnitude are highest — related
 - [An item positioned later in one booklet was found more difficult by that booklet's test takers, attributed to fatigue effect](later-position-item-more-difficult-fatigue-effect.md) — related
 - [The overall CT–PCK Survey functioned similarly across teacher characteristic groups, though some items showed raw differential item functioning above 0.64 logits](ct-pck-dif-dtf-findings.md) — related
+- [Type I error rates of all three polytomous DIF indices increase as the number of DIF items and DIF magnitude increase](dif-type-i-error-increases-with-dif-items-and-magnitude.md) — related

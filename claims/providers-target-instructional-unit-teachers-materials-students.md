@@ -46,3 +46,4 @@ From the study's provider strategies section: providers "locate the problem of l
 - [Organizational-level support targeted four areas: coordination and leadership, professional norms, monitoring of instruction and learning, and resources](organizational-support-four-target-areas.md) — related
 - [Most partner professional development relied on traditional short-term workshops with little classroom-level intensive assistance](probation-support-relies-on-traditional-workshops.md) — related
 - [Only 4 of 11 studied external partners had a comprehensive, research-based approach to literacy instruction](only-4-of-11-partners-comprehensive-literacy-approach.md) — related
+- [Provider assistance to probation schools suffered from low intensity, poor communication among providers, and weak organizational change strategies](probation-support-implementation-constraints.md) — related

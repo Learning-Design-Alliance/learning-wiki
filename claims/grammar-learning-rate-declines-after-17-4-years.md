@@ -46,3 +46,6 @@ Numerical model fitting to performance curves from 244,840 monolinguals, 44,412 
 - [Ultimate attainment is similar for learners who begin by 10-12 years of age and declines continuously thereafter](ultimate-attainment-stable-until-10-12-years.md) — related
 - [The age of learning-rate decline is similar for easy and difficult syntactic items](learning-rate-decline-similar-easy-difficult-items.md) — a narrower finding that bears on this claim
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
+- [Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1](l1-transfer-efficient-until-outgrown.md) — related
+- [Later age of entry to a signing school for the Deaf is associated with lower ASL syntactic judgment and analogical reasoning scores, with a marked decline for entry after age 12](later-school-entry-lower-asl-scores.md) — related
+- [Ultimate attainment and optimal-period length do not reliably differ across major native-language groups, with slightly more evidence for differences in learning curves](native-language-group-differences-small-unreliable.md) — related

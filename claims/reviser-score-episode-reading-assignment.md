@@ -43,4 +43,6 @@ In the multilevel regression of the 20 students' protocols, a significant revise
 
 
 ## Related Claims
--
+- [Reported planner scores interact with episode: high planners plan more at the start and less at the end of task execution](planner-score-episode-interaction-planning.md) — related
+- [The occurrence of six (meta)cognitive writing activities varies significantly across episodes of task execution](temporal-distribution-writing-activities.md) — related
+- [Planner and reviser questionnaire scores show frequency main effects on several online activities, with no interaction with episode](wsq-main-effects-online-activities.md) — related

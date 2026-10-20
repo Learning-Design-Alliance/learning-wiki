@@ -45,3 +45,5 @@ Paired sample t-test with N = 29: biology pre-test mean 1.52 (SD 1.00), post-tes
 ## Related Claims
 - [Students' overall AI knowledge improved significantly after four integrated AI-biology lessons](ai-knowledge-significant-gain-integrated-biology-lessons.md) — related
 - [Newcomer EL students using BrainPOP ESL showed no statistically significant Lexile growth, and results lacked a comparison group](brainpop-esl-no-significant-lexile-growth.md) — related
+- [Diagram-comprehension scores were already high before the treatment and showed no significant pre-to-post increase](visigarp-diagram-prepost-null.md) — related
+- [Post-test biology knowledge and pre-test AI knowledge significantly predicted post-test AI knowledge](biology-and-prior-ai-predict-post-ai-knowledge.md) — related

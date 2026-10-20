@@ -48,3 +48,5 @@ The authors' theoretical explanation for why the test's tracking signal is consi
 - [The Rothstein falsification test generates large and implausible future teacher effects even when students are randomly assigned to classrooms](rothstein-falsification-test-implausible-effects-random-assignment.md) — related
 - [The Rothstein falsification test is not definitive in showing bias in VAM teacher effect estimates](rothstein-test-not-definitive-evidence-of-bias.md) — a broader claim this one bears on
 - [The Rothstein test can reject VAMs even when students are randomly assigned conditional on the covariates in the model](rothstein-test-rejects-vams-random-assignment.md) — related
+- [Rothstein (2010) found that standard VAMs imply implausible future-teacher effects on past student achievement](rothstein-implausible-future-teacher-effects.md) — related
+- [The Rothstein falsification test can reject value-added models even when estimated teacher effects are unbiased](rothstein-test-rejects-vams-without-bias.md) — a broader claim this one bears on

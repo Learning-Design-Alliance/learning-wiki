@@ -46,3 +46,5 @@ Chi-square analyses comparing the frequency of reasoning types (none, superficia
 ## Related Claims
 - [Children begin applying racial stereotypes to out-groups around age 6, with out-group stereotyping increasing across age groups while in-group stereotyping shows no reliable age differences](out-group-stereotyping-emerges-around-age-6.md) — related
 - [Racial justification (merely noticing and describing racial differences) did not uniquely predict out-group stereotyping, unlike functional sorting by race](racial-justification-not-unique-predictor.md) — related
+- [Sorting by race, racial constancy for self, and racial constancy for others uniquely predicted out-group stereotyping in a hierarchical regression controlling for age, sex, ethnicity, and classification skill](race-salience-and-essentialism-unique-predictors-outgroup-stereotyping.md) — related
+- [Children in the two oldest age groups used out-group stereotypes above chance (50%), with the largest effect among 7–10-year-olds (r = .80)](out-group-stereotyping-above-chance-oldest-groups.md) — related

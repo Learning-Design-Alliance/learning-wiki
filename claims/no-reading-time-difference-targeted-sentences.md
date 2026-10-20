@@ -49,3 +49,4 @@ Process measure from the randomized experiment (n = 52): the abstract reports "T
 - [Pre-reading relevance instructions produce better cued recall for test questions more similar to the instructions than for questions less similar to them](relevance-instruction-similarity-cued-recall-advantage.md) — related
 - [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
 - [Question timing interacts with relevance of rereading: inserted-question students reread more relevant and less non-relevant information than post-reading students](question-timing-by-relevance-rereading-interaction.md) — related
+- [Relevance instructions and guiding questions both improve pre-service teachers' first-order knowledge integration in a reading- and writing-based learning setting with three domain-specific texts](prompts-improve-first-order-knowledge-integration.md) — related

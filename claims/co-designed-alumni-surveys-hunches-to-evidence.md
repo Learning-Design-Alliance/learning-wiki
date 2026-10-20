@@ -43,3 +43,5 @@ The guide's executive summary states this benefit, drawing on the authors' multi
 ## Related Claims
 - [Iterative co-design served as a culturally responsive methodology for designing alumni surveys in equity-focused high school communities, with each school designing its own survey with researcher support.](codesign-culturally-responsive-alumni-surveys.md) — related
 - [Alumni survey responsiveness tends to peak at two milestones: the first year out and the fourth or fifth year out](alumni-response-peaks-two-milestones.md) — related
+- [A majority of NFTE alumni respondents were attending or had finished college, and 91 percent of college finishers completed a four-year degree or higher](nfte-alumni-majority-college-enrollment.md) — a narrower finding that bears on this claim
+- [89 percent of NFTE alumni survey respondents reported NFTE contributed to their knowledge, skills, and/or personal development, with top areas aligning with entrepreneurial mindset domains](nfte-alumni-89-percent-reported-development-gains.md) — a narrower finding that bears on this claim

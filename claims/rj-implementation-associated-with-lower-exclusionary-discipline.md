@@ -56,3 +56,9 @@ Narrative review of empirical studies of RJ in U.S. schools. The review reports 
 - Exclusionary discipline disproportionately removes students of color and students with disabilities from school — related
 - [Los Padillas shifted away from exclusionary discipline, with no in- or out-of-school suspensions in 2023–24, and retained nearly all its teachers over 5 years](los-padillas-discipline-retention-outcomes.md) — a narrower finding that bears on this claim
 - [Suspension is associated with long-term harms including higher risk of grade retention, dropout, and juvenile justice involvement](suspension-long-term-harms-retention-dropout.md) — related
+- [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](sel-requires-educative-inclusive-environments.md) — related
+- [RJ serves a preventative purpose by building students' social and emotional skills, not only responding to offenses](rj-preventative-social-emotional-skill-building.md) — related
+- [Restorative practices outcomes follow a slow trajectory: quick low-level successes after training, high-level success in three to five years or more](restorative-practices-three-to-five-year-timeline.md) — related
+- [National school crime indicators show schools became safer as exclusionary discipline reductions were underway, with 79% of schools recording incidents in 2015-16 versus 85-89% in prior years](schools-safer-as-exclusions-declined.md) — related
+- [RJ implementation is associated with improved attendance, including lower chronic absenteeism relative to non-RJ schools](rj-implementation-associated-with-improved-attendance.md) — related
+- [School exclusionary policies paradoxically worsen dropout, delinquency, and achievement](school-exclusion-paradox-worse-outcomes.md) — related

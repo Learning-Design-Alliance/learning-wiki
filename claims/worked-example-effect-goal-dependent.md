@@ -47,3 +47,6 @@ Theoretical argument in the goal-driven approach section: the article attributes
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
+- [The expertise reversal effect reflects the strength of experts' knowledge base resisting redundant external information, and a motivation-related form is predicted](expertise-reversal-evolutionary-interpretation.md) — related
+- [Cognitive load theory has generated a variety of novel instructional procedures for presenting information](clt-generated-novel-instructional-procedures.md) — related
+- [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related

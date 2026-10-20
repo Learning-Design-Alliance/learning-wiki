@@ -45,3 +45,6 @@ In the longitudinal analysis of Chicago students' civic commitments, two factors
 ## Related Claims
 - [Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation](experiencing-civic-community-fosters-commitment.md) — related
 - [After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety](achievement-composition-predicts-safety.md) — related
+- [Student demographics were not significantly related to civic commitment among Chicago public high school students](demographics-not-destiny-civic-commitment.md) — related
+- [Service learning and in-class civic learning opportunities are more strongly associated with high school students' later commitment to civic participation than the other school, family and community factors studied](service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment.md) — related
+- [Extracurricular activities provide only modest support for civic commitment, and sports participation is unrelated to it](extracurriculars-modest-sports-unrelated-civic-commitment.md) — related

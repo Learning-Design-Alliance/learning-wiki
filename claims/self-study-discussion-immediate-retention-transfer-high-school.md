@@ -67,3 +67,4 @@ Same randomized two-condition experiment; immediate near-transfer contrast repor
 - [In one study of 37 thermodynamics freshmen, a CLT-based instructional design yields higher retention and transfer scores than lecturer-designed instruction, controlling for prior knowledge and memory span](clt-instructional-design-raises-retention-transfer-thermodynamics.md) — related
 - [No significant difference between groups on the thermodynamics achievement post-test or cognitive load scale after CLT-based versus lecturer-designed instruction](no-group-difference-tat-posttest-cls.md) — related
 - [Eight-day review improved a five-week science test versus one-day review in a simulated university classroom](eight-day-review-improves-five-week-science-test-versus-one-day-review.md) — related
+- [Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)](active-learning-higher-test-scores-than-lecture.md) — related

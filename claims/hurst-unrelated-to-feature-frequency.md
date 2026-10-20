@@ -48,3 +48,4 @@ Pearson correlations between Hurst exponents and frequency of interaction with e
 - [Hurst exponents predict daily training self-explanation quality over and above pretest self-explanation ability](hurst-predicts-daily-self-explanation-above-pretest.md) — related
 - [Hurst exponents do not significantly predict retention self-explanation quality over and above pretest scores](hurst-not-predict-retention-above-pretest.md) — related
 - [Surrogate analysis validates that observed Hurst exponents reflect genuine persistence rather than short-series artifacts](surrogate-analysis-validates-hurst-exponents.md) — related
+- [A regularity view of causation is less suited than practice analysis to explaining how interaction patterns unfold over time](regularity-view-less-suited-interaction-explanations.md) — related

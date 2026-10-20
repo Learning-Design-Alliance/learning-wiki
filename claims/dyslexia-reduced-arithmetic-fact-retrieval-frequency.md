@@ -49,3 +49,7 @@ Strategy-frequency ANOVA (2 operations × 2 groups) in a matched-groups study of
 - [Adults with developmental dyslexia are slower than controls at speeded digit identification](dyslexia-slower-digit-identification.md)
 - [Adults with dyslexia execute both retrieval and procedural arithmetic strategies more slowly than controls](dyslexia-slower-strategy-execution.md)
 - [The association between phonological awareness and fact retrieval is prominent in multiplication but largely absent in subtraction at the subgroup level](phonological-awareness-multiplication-not-subtraction.md)
+- [Adults use a mix of retrieval and procedural strategies in single-digit arithmetic, with retrieval more frequent in multiplication and procedures more frequent in subtraction](adult-strategy-mix-retrieval-more-in-multiplication.md) — a broader claim this one bears on
+- [Adults with dyslexia are slower than controls on single-digit arithmetic, with a larger multiplication-minus-subtraction reaction-time difference, even after controlling digit identification speed](dyslexia-slower-single-digit-arithmetic-rt.md) — related
+- [Working memory demand increases with the complexity of arithmetic and math problems, including operand size and number of solution steps](working-memory-demand-increases-with-math-problem-complexity.md) — related
+- [Phonological awareness is uniquely associated with multiplication fact retrieval frequency, in both dyslexia and control groups](phonological-awareness-multiplication-fact-retrieval.md) — related

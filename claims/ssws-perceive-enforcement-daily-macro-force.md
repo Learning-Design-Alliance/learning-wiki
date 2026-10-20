@@ -50,3 +50,4 @@ Thematic analysis of open-ended survey responses from a national survey of schoo
 - [Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes](trauma-exposure-adverse-school-outcomes.md) — related
 - [Many students and staff will return to school with trauma that can adversely affect teaching and learning](covid-trauma-adversely-affects-teaching-and-learning.md) — related
 - [Sociological research reports workplace segregation and coercive labor conditions for immigrant tech workers](immigrant-tech-workers-segregation-legal-violence.md)
+- [Opportunities to gain the agentive identity of “agents of change” are intertwined with a macro- and meso-level geopolitical matrix of power](agentive-identity-access-tied-to-geopolitical-power.md) — related

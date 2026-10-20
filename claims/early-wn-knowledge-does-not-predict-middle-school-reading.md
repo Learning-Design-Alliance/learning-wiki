@@ -49,3 +49,5 @@ Regression analysis (N = 162) with eighth-grade Word Reading as outcome; the nul
 - [Executive functioning was not a significant unique predictor of first-grade reading in children with low number sense](ef-not-predictor-first-grade-reading.md) — related
 - [The relation between early whole number magnitude knowledge and later fraction magnitude knowledge is not attributable to number line tasks being used at both measurement times](number-line-task-overlap-not-explaining-continuity.md) — related
 - [First graders' whole number magnitude knowledge predicts eighth graders' fraction magnitude knowledge after controlling for arithmetic, cognitive, and demographic variables](wn-magnitude-grade1-predicts-fraction-magnitude-middle-school.md) — related
+- [Neither IQ nor WMC significantly predicted early mathematics when both were in the same model, explaining only about 5% of variance](early-math-not-predicted-by-iq-or-wmc.md) — related
+- [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related

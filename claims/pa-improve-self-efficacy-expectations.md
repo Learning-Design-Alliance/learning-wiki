@@ -92,3 +92,7 @@ Grade level significantly moderated self-efficacy effects (F(4.00, 6.83) = 11.42
 - [Effects of agent nonverbal behavior depend on the task: facial expressions were valuable for attitudinal learning but detrimental for procedural learning](nonverbal-effects-depend-on-task-type.md) — related
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [Pedagogical agents show essentially no effect on learners' intrinsic motivation (g = 0.00)](pa-no-effect-intrinsic-motivation.md) — related
+- [Most agent characteristics, including nonverbal communication, motion, and voice, did not moderate the instructional effectiveness of pedagogical agents](agent-characteristics-mostly-not-moderators.md) — reports the opposite
+- [Pedagogical agents enhance learning compared with learning environments that do not feature agents](pedagogical-agents-enhance-learning.md) — related
+- [Technology effects on TEFL outcomes trend upward across educational levels (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44), though between-level differences are not statistically significant](tefl-tech-effects-increase-by-educational-level.md) — related
+- [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) — related

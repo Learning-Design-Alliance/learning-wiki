@@ -48,3 +48,5 @@ CP growth models (Table 5) estimated summer change between 4th and 5th grade und
 - [Ignoring summer loss changes which schools are identified as low performers](ignoring-summer-loss-changes-low-performer-identification.md) — related
 - [Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample](rapid-guessing-minimal-school-growth-estimates.md) — related
 - [Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness](removing-disengaged-examinees-induces-bias.md) — related
+- [Motivation filtering reversed the estimated Black-White fall-to-fall growth gap direction in later grades](filtering-reverses-black-white-growth-gap.md) — related
+- [Assessment metadata can be used to quantify the impact of test disengagement on estimates of educational effectiveness](assessment-metadata-quantify-disengagement-impact.md) — a broader claim this one bears on

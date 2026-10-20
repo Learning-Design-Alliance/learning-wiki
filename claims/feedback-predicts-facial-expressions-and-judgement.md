@@ -68,3 +68,4 @@ In the same multilevel analysis of the CPS simulation data, "the perception of t
 - [Prior coding experience correlates positively with digital literacy and coding comfort and negatively with perceived task difficulty](coding-experience-correlates-ct-skills.md) — related
 - [Metacognitive judgement positively predicts perceived individual performance in CPS, which mediates perceived group performance](metacognitive-judgement-predicts-perceived-cps-performance.md) — related
 - [In a within-subject user study, participants showed longer positive facial expressions under the emotion-aware (Emotion ON) tutoring condition](emotion-on-longer-positive-facial-expressions.md) — related
+- [Three emotion profiles (positive, neutral, negative) differ in prediction and postdiction magnitude and accuracy, with the positive group most overconfident in predictions and least underconfident in postdictions](emotion-profile-groups-judgment-differences.md) — related

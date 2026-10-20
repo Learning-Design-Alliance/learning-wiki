@@ -46,3 +46,4 @@ The publication's introductory framing states the state of the evidence: it says
 - [For novel material (impulse-momentum theorem), no statistical difference emerges among group-based styles with verbal TA interaction; the tutorial material itself dominates](novel-material-instructor-support-less-important.md) — related
 - After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging — related
 - [Research agenda flags that practical concerns may dominate design-team discussion and hinder teacher learning, and that external priorities need further inquiry](practical-concerns-may-hinder-design-team-learning.md) — related
+- [Adding integrated need support did not further improve scores on the research skills test beyond the baseline 4C/ID environment](need-support-no-lrst-effect.md) — related

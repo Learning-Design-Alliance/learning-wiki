@@ -45,3 +45,6 @@ Exploratory case study: open bottom-up coding of a random sample of learner–LL
 
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — the general claim this finding bears on, with the studies behind it
 - [Most students submitted JoLs out of curiosity about the system rating, often without attending to the LA graphs, and reported behaviour change more from JoL than from the agent](self-reported-jol-motivation-and-behaviour-change.md) — related
+- [JoL–mastery accuracy trajectories over the five weeks rose in the elicit condition, declined in the none condition, and were mixed in the tell condition](jol-accuracy-trajectories-by-condition.md) — related
+- [Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery](tell-none-conditions-mixed-jol-correlations.md) — related
+- [Students using the eliciting agent showed JoL ratings correlated with system learning metrics, strongest for mastery](elicit-condition-jol-accuracy-correlations.md) — related

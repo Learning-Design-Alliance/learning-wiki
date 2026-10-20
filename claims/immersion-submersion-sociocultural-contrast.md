@@ -47,3 +47,5 @@ The paper contrasts the two program types, both involving a home-school language
 - [Bilingual education evaluations have produced uninterpretable data by failing to model child-input by treatment interactions](bilingual-evaluations-ignore-interactions.md) — related
 - Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability — related
 - [Bilingual language policy facilitates multilingual and multicultural pedagogical interaction in Indonesian university classrooms](bilingual-policy-fosters-multicultural-pedagogical-interaction.md) — a narrower finding that bears on this claim
+- [Sociocultural classroom diversity can produce inequality when school-home discontinuities make children perform below their abilities](school-home-discontinuities-inequality-superdiverse-classrooms.md) — related
+- [The Good Language Learner metanarrative persists in sociocultural accounts by equating success with access to community conversations](gll-metanarrative-persists-sociocultural-theory.md) — related

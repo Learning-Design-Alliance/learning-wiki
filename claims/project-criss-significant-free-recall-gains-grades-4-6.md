@@ -45,3 +45,4 @@ Random assignment study in which teachers within each school were assigned to Pr
 ## Related Claims
 - [A large randomized trial found no statistically significant effects of Project CRISS® on standardized grade 5 comprehension measures (James-Burdumy et al., 2009)](project-criss-null-effects-grade5-randomized-trial.md) — related
 - [The WWC rates Project CRISS® as having potentially positive effects on comprehension for adolescent learners, with an average improvement index of +20 percentile points](project-criss-potentially-positive-comprehension-rating.md) — related
+- [Project CRISS, ReadAbout, and Read for Real showed no significant impacts on reading comprehension in the study's first year](three-curricula-no-significant-impacts-year-one.md) — related

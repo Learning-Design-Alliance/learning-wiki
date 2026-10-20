@@ -45,3 +45,4 @@ Observational analysis of 2006 ISAT scores for Latino students in CPS versus the
 ## Related Claims
 - [The gap between Chicago Public Schools students and other Illinois students in ISAT reading is about half as large in eighth grade as in third grade](cps-isat-reading-gap-narrows-upper-grades.md) — related
 - [When compared within racial/ethnic groups, large CPS-versus-rest-of-state gaps disappear, and some CPS groups outperform their counterparts](within-race-comparison-erases-cps-gaps.md) — a broader claim this one bears on
+- [Chicago White students score as well as or better than rest-of-state White peers in reading, and about the same in math](white-cps-students-match-or-beat-statewide-peers.md) — related

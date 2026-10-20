@@ -52,3 +52,5 @@ Standard multiple regression with epistemic processing during other-side text re
 - [Emotions reported during think-aloud reading were mostly negative (anger, sadness) for both texts, in contrast to positive questionnaire-reported emotions toward the other ethnic group](negative-think-aloud-emotions-both-texts.md) — related
 - [The think-aloud emotion of sadness and prior knowledge predict coherence-based processing during reading of the other-side text](sadness-prior-knowledge-predict-coherence-processing.md) — related
 - [Greater anger, hopelessness, and negative emotions overall during reading are associated with poorer text comprehension, while positive emotions show no relation](negative-achievement-emotions-poorer-text-comprehension.md) — related
+- [Students whose beliefs aligned with knowledge building showed more productive participation patterns on Knowledge Forum](kb-aligned-beliefs-productive-participation.md) — related
+- [The frequency of associations produced during think-aloud reading predicts sentence reading times during silent reading](associations-predict-reading-times.md) — related

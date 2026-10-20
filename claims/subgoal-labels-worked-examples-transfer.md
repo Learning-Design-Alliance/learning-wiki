@@ -66,3 +66,5 @@ The review reports that Catrambone's series of studies 'consistently documented 
 -
 - [The cognitive architecture has been used to design a variety of novel instructional procedures](architecture-generated-novel-instructional-procedures.md) — a broader claim this one bears on
 - [For circle geometry problems, guidance in the form of subgoals or worked examples increased cognitive load during problem processing (Experiments 1-3)](guidance-subgoals-worked-examples-increase-cognitive-load-geometry.md) — related
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — related
+- [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — a broader claim this one bears on

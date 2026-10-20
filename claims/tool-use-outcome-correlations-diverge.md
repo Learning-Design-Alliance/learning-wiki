@@ -64,3 +64,8 @@ Table 3 correlations: view goals with report structure r=0.62** and view helpfil
 ## Related Claims
 - [Full-PC dyads wrote lab reports with significantly better structure and more complete content than empty-PC dyads](full-pc-better-lab-reports.md) — related
 - [In StudyChat, conceptual-understanding behaviors correlate positively with exam outcomes while task-delegating behaviors correlate negatively](studychat-conceptual-positive-delegation-negative.md) — related
+- [In the generalized condition, compliance with several suggested actions was associated with higher essay scores, with one exception: note-taking after the last scaffold was associated with lower essay scores.](compliance-suggested-actions-essay-scores-mixed.md) — related
+- [Pop-up cues contributed only modestly to note taking, triggering note taking in under 4% of instances](cues-low-note-taking-response.md) — related
+- [Empty-PC dyads built significantly better domain models than full-PC dyads, an effect concentrated among lower-achieving dyads](empty-pc-better-domain-models.md) — related
+- [Both metacognitive awareness dimensions correlate positively with deep approach and organized studying and negatively with an unreflective approach](metacognitive-awareness-correlates-approaches-learning.md) — related
+- [Dyads given the full Process Coordinator used the regulative tool about three times as long and twice as often as dyads with the empty version](full-pc-more-frequent-prolonged-regulative-tool-use.md) — related

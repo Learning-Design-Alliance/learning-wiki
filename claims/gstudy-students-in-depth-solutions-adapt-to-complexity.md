@@ -44,3 +44,4 @@ The commentary reports, citing Malmberg et al., a study in which twelve elementa
 
 ## Related Claims
 - [Learning patterns in ill-structured tasks are less strategic than in well-structured tasks, and on-track students apply learning strategies in later phases than off-track students](ill-structured-tasks-less-strategic-patterns.md) — reports the opposite
+- [Elementary students showed the same types of learning patterns across well- and ill-structured science tasks despite the differing task demands](same-learning-patterns-across-task-types.md) — related

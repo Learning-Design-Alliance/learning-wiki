@@ -43,3 +43,6 @@ This review reports, citing Ingersoll (1996) analysis of the School and Staffing
 ## Related Claims
 
 - [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md)
+- [Shortage districts fill vacancies with substandard-credential teachers (55%), substitutes (24%), and out-of-field assignments (22%), with high-poverty districts using substandard credentials most](districts-staff-vacancies-substandard-credentials-substitutes.md) — a narrower finding that bears on this claim
+- [Poor, minority, and low-achieving students are disproportionately exposed to mid-year entry](disadvantaged-students-disproportionately-exposed-mid-year-entry.md) — related
+- [Students in the highest-poverty schools are almost twice as likely to be taught by inexperienced teachers](highest-poverty-schools-inexperienced-teachers.md) — related

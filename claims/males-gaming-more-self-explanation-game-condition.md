@@ -44,3 +44,6 @@ ANOVA on Study 1 data (153 students after exclusions; 70 game, 83 non-game) comp
 
 ## Related Claims
 - [No significant gender difference in gaming the system appears in the non-game control condition or in the problem-solving step](no-gender-gaming-difference-nongame-and-problem-solving.md) — related
+- [Male participants were almost twice as likely as females to be engaged in gaming](males-twice-likely-gaming-engagement.md) — related
+- [Gaming the system is significantly negatively correlated with test performance in the digital learning game](gaming-negative-correlation-test-performance.md) — related
+- [Automated gaming-the-system detectors built with XGBoost reliably recognize gaming in both problem-solving and self-explanation steps](xgboost-gaming-detectors-decimal-point.md) — related

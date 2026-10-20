@@ -52,3 +52,4 @@ Perception-based findings from interviews and site visits conducted for the dist
 - [Colorado uses a local-first, state-supported model in which districts and local providers initiate cross-sector work and state policy scales successful innovations](colorado-local-first-state-supported-model.md) — related
 - [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — reports the opposite
 - [Most respondents found grant training useful, applied the information in their school, and shared it with others](grant-training-useful-applied-shared.md)
+- [Early implementation of the Kauffman Campuses grants was documented through a cross-site analysis of 2005 site visits and a spring 2006 faculty survey](kauffman-campuses-early-implementation-cross-site-analysis.md) — related

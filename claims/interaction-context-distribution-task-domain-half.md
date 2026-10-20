@@ -44,3 +44,4 @@ Observational distribution analysis across all submitted logs, conversation-norm
 
 ## Related Claims
 - [Interaction context and cognitive intent are structurally associated: task-directed interactions sit at lower-to-mid Bloom levels while own-work references carry higher-level requests](context-intent-joint-association.md) — related
+- [Student discourse with a Socratic AI physics tutor concentrates sharply: of 357 consolidated categories, the top 25 cover roughly half of all student turns](ai-tutor-discourse-concentrates-top-categories.md) — related

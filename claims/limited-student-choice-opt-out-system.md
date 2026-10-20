@@ -45,3 +45,4 @@ Case study finding from the results and discussion section: the article states "
 ## Related Claims
 - [In one MMLA nursing simulation study, 11 of 14 interviewed students preferred opt-out over opt-in consent, but most did not fully read the explanatory statement](opt-out-consent-preferred-mmla.md) — related
 - [Changing the audio default from opt-in to opt-out raised audio availability from 72% to 99% of assignments and student audio use from 68% to 84%](readworks-audio-default-change-increased-use.md) — related
+- [OpenStax Kinetic shifted from gift cards to shareable digital badges to incentivize adult learners to participate in research studies](digital-badges-incentivize-opt-in-research-participation.md) — related

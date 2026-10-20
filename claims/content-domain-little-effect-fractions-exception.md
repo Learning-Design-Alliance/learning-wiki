@@ -46,3 +46,4 @@ Moderator analysis across content domains in the review's meta-regressions; the 
 - [In adjusted meta-regressions, peer-assisted and small-group instruction outperform computer-assisted instruction, coaching, incentives, and progress monitoring](peer-small-group-outperform-other-methods.md) — related
 - [Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14–0.22 all statistically significant](content-domain-effects-similar-range.md) — related
 - [Effect sizes based on mathematics tests are significantly larger than effect sizes based on reading tests in targeted secondary interventions](math-test-effects-larger-than-reading.md) — related
+- [The counting and cardinality coefficient is significantly larger than the coefficients for patterning, geometry, and measurement and data](counting-coefficient-larger-than-other-domains.md) — related

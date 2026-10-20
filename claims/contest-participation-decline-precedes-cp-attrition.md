@@ -46,3 +46,4 @@ Observational comparison of 908 active and 908 true attrition users from a balan
 - [Engineered practice-balance features outperform raw activity counts: the Intensity Ratio ranks third among Codeforces predictors, and upsolving habit dominates the survey model](intensity-ratio-and-upsolving-habit-top-feature-importance.md) — related
 - [Mean struggle time before acceptance is 15.6% higher among true attrition users but does not reach statistical significance](struggle-time-increase-not-significant-cp-attrition.md) — related
 - [A Soft-Voting Ensemble achieves the best behavioral-dataset attrition prediction (CV F1 = 0.737, test recall = 0.769)](soft-voting-ensemble-behavioral-attrition-f1.md) — related
+- [The Skill-Application Paradox: stopped competitive programmers self-report higher theoretical confidence than active peers yet show significantly weaker practice habits and peer support](skill-application-paradox-cp-attrition.md) — related

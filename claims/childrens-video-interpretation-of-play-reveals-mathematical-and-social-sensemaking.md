@@ -55,3 +55,6 @@ This is a single-classroom, four-child qualitative study using video-elicited in
 - [Children evaluated their own performance as worse when they were slower in Grades 3 and 4](slower-children-rate-own-performance-worse-grades-3-4.md) — related
 - [Children demonstrate knowledge of others' cognitive processes by assessing peers' comprehension and identifying others' cognitive inadequacies during group work](knowledge-of-others-expressions-peer-group-work.md) — related
 - [Peer interactions supported both children's metacognitive tasks and strategies, with children organizing performance using others' directions and evaluating others' performance](peer-interactions-support-metacognitive-tasks-strategies.md) — related
+- [After-school setting offered richer activity diversity, dialogue, and peer interaction than regular classrooms](after-school-richer-interaction-than-classroom.md) — related
+- [Films with existential themes can serve as vehicles for Bildung in higher education](existential-films-vehicle-for-bildung.md) — related
+- [In-situ analysis of challenge episodes reveals a wide range of cognitive, motivational, emotional, and socially oriented micro-level challenges in collaborative learning](challenge-episodes-reveal-micro-level-challenges.md) — related

@@ -53,3 +53,6 @@ Robust variance estimation meta-analysis of 520 school-level effect sizes from 2
 - [National school crime indicators show schools became safer as exclusionary discipline reductions were underway, with 79% of schools recording incidents in 2015-16 versus 85-89% in prior years](schools-safer-as-exclusions-declined.md) — related
 - [SBLE presence is associated with higher levels of school crime and behavior incidents, driven by increased exclusionary discipline, in school-level analyses](sble-associated-higher-crime-behavior-school-level.md) — possibly the same claim (merge candidate)
 - [SBLE shows no statistically significant association with criminal justice contact, violence, substance-related, or weapon-related outcomes](sble-no-effect-crime-subcategories.md) — related
+- [Student-level analyses likewise show higher exclusionary discipline under SBLE with no differences in other crime and behavior outcomes](sble-student-level-exclusionary-discipline.md) — related
+- [Students in schools with SBLE tended to feel safer, but this finding rests on very little data](sble-students-feel-safer-limited-data.md) — related
+- [SBLE presence is unrelated to learning outcomes including achievement, proficiency, and attendance](sble-unrelated-learning-outcomes.md) — related

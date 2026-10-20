@@ -49,3 +49,5 @@ Experiment 1 in a computer-based learning environment containing faded worked so
 - [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) — related
 - [No effect of fading on productive learning events including self-explanations was found in Experiment 2's think-aloud analysis](fading-no-effect-productive-learning-events.md) — related
 - [Learners learned most about those principles that were faded](learners-learn-most-about-faded-principles.md) — related
+- [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](faded-steps-hypothesized-trigger-self-explanations.md) — related
+- [Adaptive fading of worked examples based on current skill level produced better learning outcomes than fixed fading or tutored problem solving](adaptive-fading-worked-examples-benefits.md) — related

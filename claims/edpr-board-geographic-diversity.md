@@ -45,3 +45,7 @@ Editorial description of the journal's governance: the printed figures are 50 Ed
 ## Related Claims
 - [CSCL 2011 marked a significant increase in Asian participation in CSCL research, drawing over 400 registrants from more than 30 countries](cscl2011-asian-participation-growth.md) — related
 - [Educational Psychology Review publishes a variety of article types, not only review articles](edpr-publishes-variety-of-article-types.md) — related
+- [EDPR's time to first decision decreased from 50 days in 2006 to 25 days in 2013](edpr-decision-time-50-to-25-days.md) — related
+- [Manuscript submissions to Educational Psychology Review increased sharply between 2006 and 2008, which the editor attributes to timely, high-quality reviews and increasing journal visibility](epr-submissions-increased-2006-2008.md) — related
+- [The research-into-practice article category at Educational Psychology Review was retired in 2012 after being the most misunderstood category and source of most desk rejects](edpr-retires-research-into-practice-category.md) — related
+- [Submissions to Educational Psychology Review grew from 33 manuscripts in 2006 to 89 in 2011, with faster initial decisions](edpr-submissions-grew-33-to-89-2006-2011.md) — related

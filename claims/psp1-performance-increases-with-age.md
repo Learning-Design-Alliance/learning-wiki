@@ -47,3 +47,5 @@ Kruskal-Wallis analysis of total PSP-1 scores across four grade subgroups (125, 
 - [Dichotic listening subtests were the most challenging PSP-1 tasks, especially for children with auditory processing difficulties](dichotic-listening-tasks-most-challenging-psp1.md)
 - [Approximately 2.9% of Croatian grade 1–4 pupils meet diagnostic criteria for auditory processing disorder on the PSP-1 screening battery](psp1-screening-apd-prevalence-2-9-percent.md)
 - [A right-ear advantage appears in both dichotic listening tasks and decreases with age on the Dichotic Sentences subtest](right-ear-advantage-dichotic-tasks-decreases-with-age.md)
+- [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](developmental-improvements-local-global-coherence-inferences.md) — related
+- [Teacher ratings of language and reading skills correlate significantly with PSP-1 total scores, whereas grade point average does not](teacher-ratings-correlate-psp1-gpa-does-not.md) — related

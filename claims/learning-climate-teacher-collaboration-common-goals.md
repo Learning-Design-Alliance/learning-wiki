@@ -52,3 +52,4 @@ The overview summarizes the longitudinal multi-method study of hundreds of schoo
 - [CHSRI small schools lack a shared vision of high-quality instruction, and the link between school themes and curriculum remains weak in year two](chsri-no-shared-vision-quality-instruction.md) — related
 - [Differences favoring CHSRI teachers on facilitators of instructional improvement were small and mostly not statistically significant](chsri-facilitators-instructional-improvement-null.md) — related
 - [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — related
+- [Between schools, principal leadership has small positive indirect relationships with test-score gains and GPA through the learning climate and classroom instruction](leadership-achievement-between-schools-via-climate.md) — related

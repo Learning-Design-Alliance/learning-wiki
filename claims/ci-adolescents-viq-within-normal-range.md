@@ -46,3 +46,5 @@ Results section reports standardized WISC-III Verbal IQ for the 112-participant 
 - [Two-thirds to three-quarters of adolescent CI users score within the normal range on vocabulary and language content measures](ci-adolescents-language-measures-normal-range.md) — related
 - [Adolescent CI users perform weakest on connected discourse comprehension and abstract verbal reasoning subtests](ci-weak-connected-discourse-abstract-reasoning.md) — related
 - [Sample selection bias may have led the study to overestimate language outcomes for adolescents with long-term CI use](ci-study-selection-bias-overestimate.md) — related
+- [Verbal reasoning subtest scores of long-term CI users increased from elementary grades to high school beyond expected age-related growth](ci-verbal-reasoning-gains-exceed-expected-growth.md) — related
+- [Adolescents with cochlear implants receive lower expository writing ratings than hearing peers across organization, content, language use, and vocabulary](ci-adolescents-expository-writing-ratings-lower.md) — related

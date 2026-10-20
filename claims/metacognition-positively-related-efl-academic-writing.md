@@ -49,3 +49,4 @@ SEM Model 1 tested metacognition (eight MAWSQ factors) against academic writing 
 ## Related Claims
 - [All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing](metacognition-critical-thinking-writing-correlations.md) — a broader claim this one bears on
 - [Metacognition is significantly and positively associated with EFL students' critical thinking skills (Model 2)](metacognition-positively-associated-critical-thinking.md) — related
+- [Metacognitive strategies directly and positively predict writing performance in both L1 and L2 task-situated writing](metacognitive-strategies-predict-l1-l2-writing-performance.md) — related

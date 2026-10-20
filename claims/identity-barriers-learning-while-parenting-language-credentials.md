@@ -66,3 +66,6 @@ Focus-group thematic analysis found 'Many immigrant participants find that their
 - [Cost, inflexible formats, and misalignment with goals or industry demand are reported barriers to educational and training opportunities](tech-training-cost-inflexibility-misalignment-barriers.md) — related
 - [The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn](adult-learner-barriers-situational-and-internal.md) — a broader claim this one bears on
 - Families struggle to access and understand score reports because of technological, language, and explanation barriers — related
+- [Service providers credited TECTA's support network and resources with enabling their access to higher education and degree completion](tecta-support-network-enabled-degree-access.md) — related
+- [Negative prior experiences with educational institutions and less exposure to formal schooling are barriers to ELL parental involvement](ell-parent-schooling-history-barrier.md) — related
+- [Language barriers were the biggest concern for Chinese international students, who reported tripling their reading time in English](language-barriers-biggest-concern-chinese-students.md) — related

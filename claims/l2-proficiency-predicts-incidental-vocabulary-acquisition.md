@@ -77,3 +77,6 @@ Webb et al. (2023) qualify this claim at the level of studies: across second-lan
 - [Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning](spoken-input-incidental-l2-word-learning-large-gains.md) — related
 - [Motivation did not significantly predict L2 incidental vocabulary acquisition through reading](motivation-null-predictor-incidental-vocabulary.md) — related
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — related
+- [Adult (university) participants outperform kindergarten/elementary children in incidental spoken L2 word learning](adults-outperform-children-spoken-word-learning.md) — related
+- [Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)](little-decay-three-month-delayed-posttest-extensive-reading.md) — related
+- [Lexical adoption shows no significant condition effect after controlling for input volume, but AI-first participants adopted more words at the second dialogue position](lexical-uptake-no-condition-effect-after-controls.md) — related

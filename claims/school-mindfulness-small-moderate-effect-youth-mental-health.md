@@ -51,3 +51,5 @@ Systematic meta-analysis of studies from PsycINFO, ERIC, Social Work Abstracts, 
 - [Effects of school-based mindfulness interventions differ according to whether delivery is by an outside facilitator or by trained educators/teachers](mindfulness-facilitator-type-moderates-effects.md) — related
 - Effect sizes vary by control group type, with wait-list controls yielding the largest mean effect and no-contact controls the smallest — related
 - [Publication bias is evident for Negative Behaviour and Anxiety/Stress across all RCTs and for Mindfulness in active-control RCTs, suggesting overestimation of MBI effects](publication-bias-mbi-youth-rcts.md) — related
+- [School meditation programmes foster small improvements in well-being, more consistently reducing negative outcomes than promoting positive ones](meditation-small-wellbeing-gains-negative-outcomes.md) — related
+- [Youth focus groups surfaced four key digital well-being challenge themes: addiction and compulsive use, impact on thinking, effects on social skills, and effects on mental health](youth-focus-groups-four-digital-wellbeing-challenge-themes.md) — related

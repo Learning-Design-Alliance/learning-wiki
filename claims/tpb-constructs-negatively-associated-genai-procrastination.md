@@ -48,3 +48,4 @@ Path analysis in the same cross-sectional survey of 1243 Chinese university stud
 - [The structural model explains 71.6% of variance in GenAI-assisted learning procrastination and 58.5% in behavioral intention](model-variance-explained-galp-bi.md) — related
 - [TPB constructs indirectly link GenAI use to lower GenAI-assisted learning procrastination, accounting for about 30.9% of the total association](tpb-indirect-path-genai-use-procrastination.md) — related
 - [University students' use of GenAI for learning task completion is negatively associated with GenAI-assisted learning procrastination](genai-use-negatively-associated-genai-learning-procrastination.md) — related
+- [Prior comparative evidence shows small intention–norm and intention–control associations and a TPB model significant in Thailand but not South Africa](comparative-tpb-evidence-thailand-south-africa.md) — related

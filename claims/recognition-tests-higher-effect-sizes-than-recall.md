@@ -45,3 +45,4 @@ Meta-regression predictor for mode of testing (51 recognition vs. 54 recall effe
 ## Related Claims
 - [After eight encounters in reading, L2 learners recognize the form and meaning of unknown words better than they can recall their meaning](eight-encounters-form-meaning-recognition-exceed-recall.md) — related
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
+- [L2 learners report higher certainty for meaning recognition than for meaning recall or form recognition of newly encountered words](certainty-higher-meaning-recognition-than-recall.md) — related

@@ -51,3 +51,5 @@ Survey-based Rasch measures of interactive pedagogy in the cross-cohort disconti
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — related
 - [Interactive instruction is more common in classrooms with higher prior achievement; didactic and review are more common in lower-achieving classrooms](instruction-varies-by-class-achievement-composition.md) — related
 - [Teachers with more professional preparation use interactive instruction more often](teacher-preparation-associated-interactive-instruction.md) — related
+- [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points); classroom environment and peer ability explained most of the above-norm rise but not the below-norm fall](double-dose-failure-rates-divergent.md) — related
+- [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — related

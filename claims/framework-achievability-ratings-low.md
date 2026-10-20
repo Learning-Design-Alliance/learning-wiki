@@ -43,4 +43,5 @@ Anonymous online survey of organisational representatives after the focus groups
 
 
 ## Related Claims
--
+- [A FACTRIA-aware chatbot increases the number of biasing sub-factors stakeholders consider when interpreting institutional analytics visualizations](factria-chatbot-increases-subfactors-considered.md) — related
+- [Expert review and stakeholder consultation established strong consensus on the need for and acceptability of the Framework](stakeholder-consensus-online-safety-framework.md) — related

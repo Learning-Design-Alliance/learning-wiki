@@ -45,3 +45,6 @@ In Experiment 1's repeated measures ANOVA, the stimulus condition main effect wa
 ## Related Claims
 - [Kindergarteners use partial-knowledge heuristics such as digit recognition and the word hundred to interpret multidigit numerals](partial-knowledge-heuristics-multidigit-items.md) — related
 - [Children as young as 3½ years perform significantly above chance identifying and comparing multidigit numerals](preschoolers-above-chance-multidigit-numerals.md) — related
+- [Children from kindergarten through second grade perform significantly above chance on simple multidigit numeral identification and comparison tasks](children-above-chance-multidigit-numeral-tasks.md) — related
+- [In a number comparison task, adults outperform 6- to 7-year-old children in accuracy, Arabic numerals are easier than dot arrays, and easy 0.5 ratios are easier than difficult 0.8 ratios](number-comparison-accuracy-group-notation-ratio-effects.md) — related
+- [Symbols-only training improved kindergarteners' performance on difficult place value items, but base-10 blocks training did not](symbols-only-training-improves-difficult-items.md) — related

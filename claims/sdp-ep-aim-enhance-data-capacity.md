@@ -76,3 +76,8 @@ The article's stated description of the two programs' purpose and mechanism: enh
 - [Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings](single-initiative-analysis-limited-agency-wide-impact.md) — a narrower finding that bears on this claim
 - [The logic model's medium-term outcomes center on ADE staff data-use and formative-evaluation capacity](bpss-medium-term-ade-capacity-outcomes.md) — related
 - [Data infrastructure, accessible data, and a culture of data use are necessary but not sufficient for data-driven decision making in education agencies](data-infrastructure-alone-insufficient-for-data-driven-decisions.md) — related
+- [The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership](cbsl-pilot-capacity-building-approach.md) — a narrower finding that bears on this claim
+- [Philanthropic organizations support basic science by funding scientists, building research capacity, and training new generations of scientists](philanthropies-support-science-through-capacity-and-training.md) — related
+- [Agency data-use profiles were developed from fall and winter 2013–14 site visit interviews](profiles-from-site-visit-interviews-2013-14.md) — related
+- [Alder operates a continuous improvement cycle using multiple data sources documented in an Annual Data Cycle Calendar and public Annual Program Assessment Report](alder-annual-data-cycle-improvement.md) — related
+- [Support for data-driven instruction did not increase key data-related activities despite additional resources and emphasis](data-driven-instruction-support-did-not-increase-data-activities.md) — related

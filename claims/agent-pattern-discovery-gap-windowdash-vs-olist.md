@@ -45,3 +45,4 @@ Simulation study comparing AI-agent pattern discovery on Olist and WindowDash: 5
 ## Related Claims
 - [The Olist and WindowDash simulation inputs are matched in scale and analytical scope, with overlapping distributions but differing duration-rating associations](windowdash-olist-comparability.md) — related
 - [Designed patterns can rest on very small supporting subgroups: only three orders meet the Price-Rating Sensitivity conditions, with a mean rating of 2.0](windowdash-price-rating-small-subgroup.md) — related
+- [The ASTRA benchmark yields measurable condition-differentiated patterns consistent with its simulation assumptions](astra-benchmark-yields-condition-differentiated-patterns.md) — related

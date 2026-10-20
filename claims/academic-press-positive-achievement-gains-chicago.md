@@ -45,3 +45,6 @@ Same HLM analysis of survey and ITBS data from 304 Chicago schools; academic pre
 ## Related Claims
 - [Students' social support is positively related to one-year reading and math achievement gains in Chicago middle grades, controlling for background and school characteristics](social-support-positive-achievement-gains-chicago.md) — related
 - [Chicago students gain most in achievement when strong academic press and strong social support occur together, and learn less when either is strong and the other weak](press-plus-support-combined-gains.md) — related
+- [Strong school academic culture (academic press and college-going culture) raises ACT scores by about 0.6 points after controlling for prior PLAN scores](academic-culture-raises-act-scores.md) — related
+- [Combined strong academic culture and high grades more than double EXPLORE-to-ACT gains at every starting score, including moving students from an EXPLORE of 17 to an average ACT of 20.7](culture-and-grades-combined-act-gains.md) — related
+- [School Supports Including Academic Press, Social Support, and Instructional Program Coherence Relate to Achievement](school-supports-relate-to-achievement.md) — a broader claim this one bears on

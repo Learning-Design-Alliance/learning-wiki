@@ -52,3 +52,4 @@ Thematic categorical analysis of the 13 included studies, reported in the review
 - [Inclusion of learners with special educational needs is typically implicit rather than explicitly designed even in advanced agentic AI systems](inclusion-implicit-not-designed-in-agentic-systems.md) — related
 - [AI most often serves as an assistant or draft generator (33.3% of studies) in teacher-AI design collaboration, while co-designer or partner roles appear in only 13.3%](ai-mostly-assistant-draft-generator-not-co-designer.md) — related
 - [Pedagogical agents as coaches and tutors are most useful with novice learners, while virtual role-players benefit learners across expertise levels](agents-most-effective-novice-learners.md) — related
+- [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related

@@ -48,3 +48,4 @@ Controlled classroom experiments with school students solving circle geometry pr
 - [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems](subgoal-labels-worked-examples-transfer.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) — related
+- [Under many circumstances, studying worked examples produced superior learning compared to active problem solving, as suggested by previous research](worked-examples-superior-to-problem-solving-many-circumstances.md) — related

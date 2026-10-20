@@ -77,3 +77,10 @@ Cross-over trial in which 552 children aged 8–12 were randomized by school int
 - [Exercise intensity differentially moderates acute exercise cognitive benefits, with moderate intensity favoring executive functions and high intensity favoring information processing](exercise-intensity-moderates-cognitive-benefits.md) — related
 - [Inhibitory control is the EDF subdomain most repeatedly linked to ADHD](inhibitory-control-repeatedly-adhd-related.md)
 - [School meditation studies show significant improvements on several cognitive functioning measures, though effects vary by measure and study](meditation-improves-cognitive-functioning-measures.md) — related
+- [Acute cardio exercise improves executive functions, response time, and academic performance in children with ADHD](acute-cardio-exercise-improves-executive-function-adhd-children.md) — related
+- [Non-cardio exercise (yoga, tai chi, walking) shows predominantly positive but questionable acute and chronic effects in children with ADHD](non-cardio-exercise-effects-questionable-adhd.md) — related
+- [Between groups, the intervention showed a moderate inhibitory-control advantage at 4 weeks (p = .052) and a large advantage at 4 months (η2 = .135), with a significant main effect of time for both groups](inhibitory-control-between-group-advantage-4-months.md) — related
+- [The classroom training improves inhibitory control as measured by the Tongue Task](classroom-training-improves-tongue-task-inhibition.md) — related
+- [Metacognition interventions positively impact children's executive functions, a novel outcome in this literature](metacognition-interventions-improve-executive-functions.md) — related
+- [In a randomized three-arm trial, medication but not physical exercise or neurofeedback was related to improved response inhibition and reduced theta power in children with ADHD](medication-not-exercise-improved-response-inhibition-janssen.md) — related
+- [Meta-regression identifies exercise type, age, and study quality as significant moderators of chronic exercise effects on executive function](meta-regression-moderators-chronic-exercise-ef.md) — related

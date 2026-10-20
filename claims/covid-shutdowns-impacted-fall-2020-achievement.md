@@ -52,3 +52,4 @@ The page describes the report's purpose in its own words: it examines "how schoo
 - [Reading and math gains during 2020-21 were diminished compared to pre-pandemic trends, especially in the latter half of the school year](covid-2020-21-diminished-gains-latter-half-year.md) — related
 - [The visualizations compare observed fall 2020 student achievement to NWEA’s projections](fall-2020-achievement-versus-nwea-projections.md) — related
 - [The visualizations address how students performed in fall 2020 compared to a typical school year](fall-2020-performance-compared-typical-year.md) — related
+- [The visualizations address how student growth changed since school buildings closed in March 2020](student-growth-change-since-march-2020-closures.md) — related

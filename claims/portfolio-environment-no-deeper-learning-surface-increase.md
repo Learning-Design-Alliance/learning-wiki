@@ -43,4 +43,6 @@ The commentary reports Baeten and colleagues' pretest/posttest study in a portfo
 
 
 ## Related Claims
--
+- [In a constructivist portfolio-assessment course, deep approaches decreased, surface approaches increased, and preferences for student participation and permanent evaluation decreased significantly](baeten-portfolio-approaches-shifted-surface.md) — related
+- [A constructivist course increased perceived deep-level assessment demands but students still reported more frequent use of surface approaches to learning](gijbels-assessment-demands-not-approaches.md) — related
+- [In a constructivist learning environment, students' perceptions of assessment shifted toward deeper demands but their actual learning approaches did not, and surface approaches increased](perception-shift-without-approach-change.md) — related

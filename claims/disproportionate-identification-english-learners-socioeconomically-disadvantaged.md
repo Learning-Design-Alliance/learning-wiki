@@ -50,3 +50,4 @@ Descriptive analysis of DataQuest 2018/19 enrollment data (Figure E-2/Figure 1) 
 - [California serves more than 725,000 K-12 students with disabilities and invests roughly $12 billion annually in special education, with LEA unrestricted funds covering the majority of spending](california-725000-swd-12-billion-special-education-spending.md) — related
 - [Student homelessness disproportionately affects Black students, LGBT youth, English learners, and students with disabilities](homelessness-disproportionate-groups.md) — related
 - [Socioeconomic disadvantage is more prevalent among California students designated as LTEL7 (89%) than other ever-ELs (80%)](ses-disadvantage-more-prevalent-ltel7.md) — related
+- [Special education needs are much more prevalent among California students designated as LTEL7 (28%) than other ever-EL peers (11%)](special-education-needs-more-prevalent-ltel7.md) — related

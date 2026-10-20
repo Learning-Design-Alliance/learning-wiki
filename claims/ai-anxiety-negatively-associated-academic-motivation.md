@@ -70,3 +70,4 @@ Regression analysis from the mediation models (Table 2), controlling for daily A
 - [Emotion regulation partially mediates the negative association between AI anxiety and academic motivation](emotion-regulation-partially-mediates-ai-anxiety-motivation.md) — related
 - [Daily AI use duration shows a weak positive correlation with academic motivation among university students](daily-ai-use-weakly-positively-correlated-academic-motivation.md) — related
 - [The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students](moderated-mediation-indirect-effect-stronger-male-students.md) — related
+- [Gender moderates the association between emotion regulation and academic motivation, with a stronger positive association among male students](gender-moderates-emotion-regulation-motivation-association.md) — related

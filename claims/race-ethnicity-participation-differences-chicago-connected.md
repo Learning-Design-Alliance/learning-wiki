@@ -66,3 +66,6 @@ Multilevel model results (Table A.1). The appendix states the inclusion of the n
 
 ## Related Claims
 - [The full-day vs. half-day attendance gap was largest for Black students, at about 4-5 percentage points](black-students-largest-fullday-attendance-gap.md) — related
+- [Participation rates rose with eligibility index score, reflecting program prioritization](chicago-connected-participation-rose-with-eligibility-index.md) — related
+- [Among fall 2015 entrants, Asian students had the highest persistence rate (84.2 percent) and Black students the lowest (66.9 percent)](fall-2015-persistence-race-ethnicity-asian-highest-black-lowest.md) — related
+- [English Learners participated at higher rates; the disability difference was not statistically significant](english-learners-higher-iep-null-participation.md) — related

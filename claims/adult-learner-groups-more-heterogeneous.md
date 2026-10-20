@@ -51,3 +51,5 @@ The essay attributes to Knowles (1998, p. 66) the point that adult learner group
 - [Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant](method-approach-effect-sizes-vary-analogy-largest.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
 - Adults learn differently from children, so adult education should be tailored accordingly (Knowles' central argument, defended here as a theoretical position). — related
+- [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](adult-ed-minimal-learner-data-use.md) — related
+- [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related

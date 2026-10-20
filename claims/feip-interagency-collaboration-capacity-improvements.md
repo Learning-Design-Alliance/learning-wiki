@@ -46,3 +46,4 @@ The key findings section lists system-level outcomes among the improvements foun
 - [Formal partnerships enhanced interagency collaboration but required time to form, service benchmarks, and regular communication](promise-formal-partnerships-enhance-collaboration-with-conditions.md) — related
 - [FEIP implementation was associated with improvements in parents' knowledge and attitudes about family engagement and their uptake of family engagement supports](feip-parent-knowledge-attitudes-uptake-improvements.md) — related
 - [FEIP was associated with improvements in professionals' knowledge and skills related to family engagement practice](feip-professional-knowledge-skills-improvements.md) — related
+- [Strongly organized ECE programs create contexts more supportive of teaching, learning, and family engagement than weakly organized programs](strong-essentials-programs-more-supportive-contexts.md) — related

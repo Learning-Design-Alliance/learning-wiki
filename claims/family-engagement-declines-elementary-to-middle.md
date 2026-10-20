@@ -48,3 +48,4 @@ The playbook reports, citing Hill and Tyson (2009), a typical decline in family 
 ## Related Claims
 - [Parental involvement declines as students move from eighth to tenth grade in Chicago and nationally](parental-involvement-declines-high-school-transition.md) — a narrower finding that bears on this claim
 - [Ninth-grade teachers report less communication with and academic support for parents than eighth-grade teachers](ninth-grade-teachers-less-parent-communication.md) — related
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related

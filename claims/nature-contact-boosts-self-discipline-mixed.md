@@ -41,4 +41,4 @@ The review's synthesis of studies tying nature contact to self-discipline notes 
 
 
 ## Related Claims
--
+- [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](paths-csrp-addon-ef-improvement.md) — related

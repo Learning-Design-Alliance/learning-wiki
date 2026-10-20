@@ -47,3 +47,4 @@ Qualitative finding from the pilot's thematic analysis: two of ten free-text res
 - [Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension](story-grammar-structure-aids-narrative-memory.md) — a broader claim this one bears on
 - [In a small pilot of one AI pipeline's educational interactive fiction, the dominant free-text criticism was the artificial in-fiction motivation for quiz prompts](artificial-in-fiction-quiz-motivation-dominant-criticism.md) — related
 - [Participants liked the co-created stories (mean likability 8.61) and perceived them as coherent (mean coherence 8.28) on a 1-10 scale](icub-stories-liked-and-coherent-ratings.md) — related
+- [Self-reported perceived quality is largely decoupled from quiz performance in AI-generated educational interactive fiction](if-quality-ratings-decoupled-from-quiz-performance.md) — related

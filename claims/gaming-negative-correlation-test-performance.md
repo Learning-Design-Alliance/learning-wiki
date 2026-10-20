@@ -44,3 +44,6 @@ Study 1 correlation analysis (Table 2) between test scores, gender, and gaming r
 
 ## Related Claims
 - [No significant gender difference in gaming the system appears in the non-game control condition or in the problem-solving step](no-gender-gaming-difference-nongame-and-problem-solving.md) — related
+- [Gaming the system in the self-explanation step predicts delayed posttest scores beyond pretest, adding 3 percent of variance](se-gaming-predicts-delayed-posttest.md) — related
+- [Automated gaming-the-system detectors built with XGBoost reliably recognize gaming in both problem-solving and self-explanation steps](xgboost-gaming-detectors-decimal-point.md) — related
+- [Male students game the system significantly more than female students in the self-explanation step of a digital learning game, across three studies](males-gaming-more-self-explanation-game-condition.md) — related

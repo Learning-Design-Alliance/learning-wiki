@@ -45,3 +45,10 @@ The review's framing statement asserts, based on the body of evidence it reviews
 ## Related Claims
 
 - [Early intervention can remediate neurodevelopmental consequences associated with maltreatment or institutional rearing](early-intervention-remediates-adversity-neurodevelopmental-consequences.md)
+- [Exposure to adverse early circumstances affects the developing brain in ways that increase risk for later problems](adversity-affects-developing-brain-increasing-risk.md) — possibly the same claim (merge candidate)
+- [Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes](trauma-exposure-adverse-school-outcomes.md) — related
+- [Early life stress produces structural and functional alterations in prefrontal-hippocampal-amygdala circuits in animals and humans, with reduced hippocampal volume among the most reliable human findings](els-pfc-hippocampus-amygdala-alterations.md) — a narrower finding that bears on this claim
+- [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — a narrower finding that bears on this claim
+- [The probability of school failure increases as a function of the timing and length of children's exposure to relational adversity](cumulative-relational-adversity-school-failure.md) — a narrower finding that bears on this claim
+- [Stress-exposed adolescents show impaired cognitive flexibility in reversal learning](early-stress-impaired-reversal-flexibility.md) — a narrower finding that bears on this claim
+- [Threat and deprivation show overlapping effects on PFC-amygdala connectivity and hippocampal volume](threat-deprivation-shared-neural-effects.md) — a narrower finding that bears on this claim

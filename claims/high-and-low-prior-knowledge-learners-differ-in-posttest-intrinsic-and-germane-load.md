@@ -81,3 +81,6 @@ Same experiment, prior-knowledge contrast on the CLM extraneous subscale: "no si
 - [The claim that high-variability practice imposes germane load rests on post-hoc explanation and does not always replicate](high-variability-germane-load-post-hoc.md) — related
 - [Sequence of worked examples and problems had no significant effect on self-reported cognitive load, but higher prior knowledge was associated with lower load in experimental design](cognitive-load-no-sequence-effect.md) — related
 - [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) — related
+- [Presenting principles before case comparison yields higher germane load and lower extraneous load than presenting them after](input-before-raises-germane-lowers-extraneous-load.md) — related
+- [No significant interaction between prior knowledge and task difficulty was observed in a worked-example algebra study](no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples.md) — related
+- [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related

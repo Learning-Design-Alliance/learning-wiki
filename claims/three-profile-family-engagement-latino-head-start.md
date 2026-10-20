@@ -47,3 +47,4 @@ Latent profile analyses of PEFL factor scores run separately for Spanish-speakin
 - [Children in higher family engagement profiles had higher total language skills in both language subsamples, most pronounced among English-speaking families](engagement-profiles-language-skills.md) — related
 - [Higher engagement profiles related to better play interaction for Spanish-speaking children but showed no significant social outcome differences among English-speaking profiles](engagement-profiles-social-outcomes-mixed.md) — related
 - [Different engagement dimensions defined the high engagement profiles across language groups: school participation for Spanish-speaking parents, foundational education for English-speaking parents](high-engagement-profiles-differ-by-language-group.md) — a narrower finding that bears on this claim
+- [ELL parents generally place a high value on their children's education](ell-parents-value-education.md) — related

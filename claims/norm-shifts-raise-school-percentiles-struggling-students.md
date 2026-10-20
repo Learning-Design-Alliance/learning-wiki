@@ -69,3 +69,5 @@ The paper's charter/accreditation illustration for math: a third-grade spring RI
 - [Proficiency projections estimate the probability of reaching Meets proficiency on the state test from fall, winter, or spring RIT scores](map-growth-proficiency-projections-rit.md) — related
 - [Post-COVID norm shifts and NWEA's enhanced item selection algorithm change the interpretation of MAP Growth metrics for school accountability](post-covid-norm-shifts-change-map-growth-accountability-metrics.md) — a broader claim this one bears on
 - [After eight months of eSpark usage in first-grade ELA classrooms, NWEA reading percentile scores showed no pattern of increasing achievement](espark-no-nwea-achievement-gains-first-grade.md) — related
+- [The 2020 norms report states the MAP Growth scale remains stable while status patterns shifted relative to the 2015 norms](map-growth-scale-stable-2020-norms.md) — related
+- [The conditional growth index serves as a descriptive indicator of student learning progress](conditional-growth-index-descriptive-indicator.md) — related

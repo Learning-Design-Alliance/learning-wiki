@@ -46,3 +46,6 @@ Regression models using WMPT confidence as predictor with gender and age covaria
 
 - [Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases](grade4-children-monitor-working-memory-overconfident.md)
 - [WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty](wmpt-measures-vary-with-difficulty.md)
+- [Better calibration (lower Absolute Accuracy Index) is associated with higher Word Reading and Composite achievement scores](absolute-accuracy-index-predicts-reading-composite.md) — related
+- [The Bias Index significantly predicts all four WIAT-II achievement measures, with over-confidence associated with lower achievement](bias-index-predicts-achievement.md) — related
+- [WMPT accuracy is positively correlated with reading, numeracy, spelling and composite achievement scores](wmpt-accuracy-correlates-achievement.md) — related

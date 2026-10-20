@@ -43,3 +43,5 @@ ANCOVA on four achievement groups (MLD n = 18, LA n = 29, TA subsample n = 30, H
 ## Related Claims
 - [Children with MLD report higher learning mathematics anxiety than LA, TA, and HA peers, but not higher evaluation anxiety](mld-higher-lma-not-mea.md) — related
 - [Self-image and learning mathematics anxiety, but not other metacognition dimensions or evaluation anxiety, predict mathematics achievement after controlling for IQ](self-image-lma-predict-math-achievement.md) — related
+- [Math anxiety differs significantly across achievement groups, with MLD students not differing from low achievers](math-anxiety-group-differences-mld-low-achievers.md) — related
+- [Group differences in fraction comparison accuracy persist when full scale IQ is included as a covariate](fraction-group-differences-persist-fsiq-covariate.md) — related

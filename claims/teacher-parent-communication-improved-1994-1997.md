@@ -65,3 +65,4 @@ Longitudinal comparison of 39 high schools surveyed in both 1994 and 1997 (Figur
 - [High schools improving instruction and teacher collaboration also showed the largest improvements in parent communication](instructional-improvement-linked-parent-communication-gains.md) — related
 - [Ninth-grade teachers report less communication with and academic support for parents than eighth-grade teachers](ninth-grade-teachers-less-parent-communication.md) — related
 - [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](organizational-gains-without-instructional-gains.md) — related
+- [The Charting Reform surveys reached 266 elementary schools and 40 high schools in Chicago in Spring 1994](charting-reform-surveys-266-elementary-40-high-schools.md) — related

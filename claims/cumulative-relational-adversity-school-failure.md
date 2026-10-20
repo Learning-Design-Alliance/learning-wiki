@@ -52,3 +52,7 @@ Discussion interpretation of the trajectory-achievement findings: worst underach
 - [Chronic HPA axis activation via CRH and glucocorticoids is proposed to partially mediate the neural effects of early life stress](hpa-crh-glucocorticoid-partial-mediation.md) — related
 - [Threat and deprivation show overlapping effects on PFC-amygdala connectivity and hippocampal volume](threat-deprivation-shared-neural-effects.md) — related
 - [Unpredictability and lack of contingent caregiver responding in childhood is associated with increased adolescent externalizing behaviors and altered prefrontal-hippocampal-amygdala circuits](environmental-unpredictability-externalizing-circuits.md) — related
+- [Exposure to adverse early circumstances affects the developing brain in ways that increase risk for later problems](adversity-affects-developing-brain-increasing-risk.md) — a broader claim this one bears on
+- [Low warmth trajectories predict lower achievement gains for boys but not for girls](warmth-trajectories-boys-not-girls.md) — related
+- [Teacher-student conflict follows distinct longitudinal trajectory classes across elementary school, including low-stable, low-increasing, high-declining, and (for boys only) high-stable patterns](conflict-trajectory-classes-elementary.md) — related
+- [Children exposed to early adversity are at increased risk for a broad range of developmental difficulties affecting both cognitive and emotional adjustment](early-adversity-increases-developmental-risk-cognitive-emotional.md) — a broader claim this one bears on

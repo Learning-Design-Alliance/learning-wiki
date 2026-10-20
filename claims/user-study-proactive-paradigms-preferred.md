@@ -68,3 +68,8 @@ Interaction-log analysis in the same user study (Table 5) prints, for example, w
 - [The relationship between scaffolding level and students' subsequent provide-context turns is not monotonic](provide-context-rate-nonmonotonic.md) — related
 - [No single control-timing paradigm dominates across subjective measures: eight of ten questionnaire items show no significant differences between paradigms](no-single-paradigm-dominates-subjective-ratings.md) — related
 - [Proactive feedback produces significant post-intervention increases in Joint Mental Effort of dyads](propact-feedback-increases-jme-post-intervention.md) — related
+- [Proactive multimodal feedback significantly reduces debugging time on task compared to control](propact-feedback-reduces-debugging-time.md) — related
+- [Acceptance rates increase with writing progress, with the L2-over-L1 advantage widening in later stages](acceptance-increases-with-writing-progress.md) — related
+- [Proactive flow-aware highlighting helps fiction writers recognize latent knowledge gaps they would not search for on their own](proactive-highlighting-reveals-latent-knowledge-gaps.md) — related
+- [AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer](aifred-context-switch-reduction-longer-time.md) — related
+- [Proactive multimodal feedback significantly increases debugging success in pair programming compared to no-feedback control](propact-proactive-feedback-improves-debugging-success.md) — related

@@ -74,3 +74,4 @@ Simple-effects analysis within the 123-participant experiment. Female agency was
 - [Female students reported higher learning agency than male students after controlling for GenAI literacy and year of study](female-higher-learning-agency-genai-contexts.md) — related
 - [A neutrally configured LLM assistant produced the lowest rate of gender-stereotypic occupation suggestions, below even the no-AI control condition](neutral-llm-assistant-attenuates-baseline-stereotyping.md) — related
 - [Gender prompts shift feedback stance: female students receive affective, first-person, empathy-oriented feedback while male students receive objective, task-oriented critique](gender-prompt-emotional-connection-pedagogy.md) — related
+- [Learners perceived male PALs more positively and recalled more with them than with female PALs, reflecting gender stereotypes](male-pal-favored-over-female-pal.md) — related

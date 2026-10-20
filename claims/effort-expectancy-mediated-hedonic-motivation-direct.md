@@ -65,3 +65,6 @@ Discussion of the SEM results for the same sample. The discussion reports hedoni
 - [Habit shows the strongest direct and competence-mediated associations with teachers' AI use](habit-strongest-association-teacher-ai-use.md) — related
 - [AI-related fear shows a differentiated pattern: positive direct association with AI use but negative association with pedagogical AI competence and negative indirect effect](ai-fear-differentiated-direct-indirect-pattern.md) — related
 - [Openness and need for relatedness are associated with teachers' AI use indirectly through pedagogical AI competence, with relatedness negatively associated with competence](openness-relatedness-indirect-via-competence.md) — related
+- [Pedagogical AI competence is positively associated with teachers' AI use](pedagogical-ai-competence-associated-with-ai-use.md) — related
+- [Personal innovativeness did not significantly influence behavioral intention to use ChatGPT](personal-innovativeness-null-intention.md) — related
+- [Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior](hedonic-motivation-habit-strongest-intention-predictors.md) — related

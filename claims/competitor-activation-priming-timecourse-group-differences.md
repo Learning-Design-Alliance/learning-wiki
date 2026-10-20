@@ -49,3 +49,4 @@ Correlation analysis linking eye-tracking competitor activation to negative-prim
 - [Monolinguals but not bilinguals show residual inhibition of phonological competitors on negative-priming probes](monolinguals-not-bilinguals-residual-competitor-inhibition.md) — related
 - [Monolinguals and bilinguals show similar within-language competitor activation during auditory word recognition](similar-within-language-competitor-activation-monolinguals-bilinguals.md) — related
 - [Higher Spanish proficiency in bilinguals is associated with less residual competitor inhibition](spanish-proficiency-associated-less-residual-inhibition.md) — related
+- [Target facilitation and competitor inhibition are strongly correlated in both groups](target-facilitation-competitor-inhibition-correlated-both-groups.md) — related

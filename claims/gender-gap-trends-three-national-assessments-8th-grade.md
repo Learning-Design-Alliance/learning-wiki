@@ -47,3 +47,4 @@ Descriptive account of the brief's first analysis: five years of data from three
 - [Boys regain the advantage in middle school STEM skills in post-COVID gender achievement gap trends](boys-regain-advantage-middle-school-stem-post-covid.md) — related
 - [The study examines post-COVID trends in gender gaps in 8th grade STEM skills using three national assessments and Algebra enrollment data](post-covid-gender-gap-trends-8th-grade-stem-three-assessments.md) — related
 - [A two-million-student MAP Growth sample was used to test whether gender gaps widened among low- and high-achieving students](two-million-student-map-growth-gender-gaps-achievement-levels.md) — a narrower finding that bears on this claim
+- [A NWEA research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) — related

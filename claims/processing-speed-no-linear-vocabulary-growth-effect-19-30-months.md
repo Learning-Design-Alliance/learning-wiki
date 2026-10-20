@@ -50,3 +50,4 @@ Growth curve analysis of expressive vocabulary between 19 and 30 months with Mea
 - [Vocabulary size at 19 months is a strong predictor of later syntactic growth between 19 and 30 months](vocabulary-size-predicts-syntactic-growth-19-30-months.md) — related
 - [Children get faster at recognising familiar words in speech between 19 and 31 months of age](toddler-lexical-processing-speed-increases-19-31-months.md) — related
 - [Early ANS acuity does not predict later expressive vocabulary; only initial vocabulary size predicts vocabulary six months later](ans-acuity-not-predicting-vocabulary-growth.md) — related
+- [Faster word recognition at 24 months is associated with larger vocabularies and greater vocabulary gains in Spanish-learning children](faster-word-recognition-linked-larger-vocabulary.md) — related

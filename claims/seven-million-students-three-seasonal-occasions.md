@@ -69,3 +69,4 @@ Descriptive statement of the study's data source: math and reading scores for "o
 
 - [Seasonal patterns are discrepant across national data sets](discrepant-seasonal-patterns-national-data-sets.md) — related
 - [Assuming linear within-year achievement growth is often not justified, particularly in reading](linear-within-year-growth-assumption-unjustified-reading.md) — related
+- [Test preparation demands slow instruction, with the spring review season beginning earlier and lasting longer each year of the study](test-prep-season-slows-new-instruction.md) — related

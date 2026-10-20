@@ -44,3 +44,6 @@ Task 1 survey item on whether educators had the tools, training, and time to imp
 
 ## Related Claims
 - [Teachers in 2016 were far less likely than administrators in 2015 to report that unaligned assessments, insufficient collaboration time, or inadequate PD were major barriers to CCSS implementation](ccss-teachers-report-fewer-barriers-than-administrators.md) — related
+- [Educators reported the LVN strategy bank improved their understanding, use, and identification of strategies](lvn-strategy-bank-improves-practice.md) — related
+- [Educator-led peer professional development reinforced educators' own understanding and connected LVN to existing practice](peer-pd-reinforces-variability-understanding.md) — related
+- [Educators reported that LVN-selected strategies supported student engagement, content knowledge, confidence, and collaboration](lvn-strategies-support-engagement-and-knowledge.md) — related

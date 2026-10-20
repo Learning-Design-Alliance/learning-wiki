@@ -44,3 +44,4 @@ Stepwise multiple regression with age as the outcome and accuracy percentages fr
 - [After controlling for age, WM correlates significantly only with the most demanding condition (priming task, noncanonical word order)](wm-partial-correlation-only-priming-noncanonical.md) — related
 - [Working-memory capacity correlates positively with accuracy on all four sentence-production conditions](wm-positively-correlated-all-production-conditions.md) — related
 - [Age is significantly and negatively correlated with passive-sentence production accuracy across all four task conditions in Korean adults](age-negatively-correlated-passive-sentence-production.md) — related
+- [WM capacity is significantly and negatively correlated with age in Korean adults](wm-negatively-correlated-with-age.md) — related

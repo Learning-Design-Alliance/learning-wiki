@@ -48,3 +48,4 @@ Authors' interpretive analysis (type e) drawing on the teacher-researcher's minu
 - [Preselection of grammar points in proactive FOF reduced learners' repetition and fossilization of erroneous forms](proactive-fof-reduces-error-fossilization.md) — related
 - [Proactive FOF improved grammar more than reactive FOF at both beginner and upper-intermediate proficiency levels](proactive-fof-advantage-both-proficiency-levels.md) — related
 - [Within their jurisdiction, teachers describe a four-step escalation ladder: teach the whole class, watch and take note, talk one-on-one, and refer](teacher-intervention-escalation-ladder.md) — related
+- [A secondary ENA adding ICAP engagement codes showed proactive interactions linked constructive engagement with adequate reasoning, while reactive dialogues emphasised procedural pairings](proactive-engagement-constructive-adequate-reasoning-link.md) — related

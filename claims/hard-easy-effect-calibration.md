@@ -41,4 +41,6 @@ Narrative review attributing the hard-easy effect to Juslin et al. (2000): "stud
 
 
 ## Related Claims
--
+- [Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases](grade4-children-monitor-working-memory-overconfident.md) — a narrower finding that bears on this claim
+- [A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy](novice-metacognitive-calibration-deficits.md) — related
+- [Higher-achieving students tend to be more accurate but more underconfident in calibration than lower-achieving students](higher-achievers-more-accurate-underconfident-calibration.md) — related

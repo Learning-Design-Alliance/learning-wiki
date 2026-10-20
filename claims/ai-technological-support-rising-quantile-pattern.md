@@ -46,3 +46,4 @@ Quantile regression analysis (quantile points 0.01 to 0.90) on the 3003-teacher 
 - [School-based intelligent environment support shows an inverted U-shaped quantile pattern, stronger at lower-to-middle competence levels](intelligent-environment-support-inverted-u-quantile.md) — related
 - [Innovative competence differs by background variables, with AI interest level showing the strongest association](innovative-competence-background-heterogeneity-ai-interest.md) — related
 - [AI self-efficacy and self-regulated learning mediate the support–competence associations in opposite patterns for the two supports](dual-mediation-ai-efficacy-srl-opposite-patterns.md) — related
+- [In the structural equation model, both supports directly predict innovative competence and strongly predict the mediators](sem-direct-paths-dual-supports-innovative-competence.md) — related

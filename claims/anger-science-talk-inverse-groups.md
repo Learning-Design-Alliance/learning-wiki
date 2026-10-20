@@ -46,3 +46,5 @@ Discourse turn-count analysis of two focal groups (883 and 812 total turns). The
 - [Anger did not preclude high science talk: the most anger-expressing Red City student also had the group's highest science-talk proportion](anger-compatible-with-science-talk.md) — related
 - [After a team's tilting episode, its conversation became dominated by anger and lost all game-action talk](tilting-collapses-discussion-quality.md) — related
 - [Anger-related science talk rose in parallel until an apparent tipping point in group dynamics](anger-science-talk-tipping-point.md) — reports the opposite
+- [Individual anger trajectories rose alongside science talk until an inflection point, after which engagement dropped sharply](individual-anger-inflection-lisa.md) — related
+- [Anger in collaborative gameplay can drive students to link game mechanics to real-world phenomena to defend their strategies](anger-drives-real-world-game-linking.md) — related

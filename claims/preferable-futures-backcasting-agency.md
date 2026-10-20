@@ -47,3 +47,5 @@ Interview excerpt (Lydia) exemplifying the theme 'Imagining preferable futures c
 - [Students reported acquiring new futures thinking skills (scenario building, backcasting) that systematised their thinking](course-new-futures-thinking-skills-systematised.md) — related
 - [Students saw technology and STEM careers as creating concrete possibilities for their own agency](stem-careers-possibilities-agency.md) — related
 - [Language must also be subjective, emotional, inspirational, and aesthetic, so teachers should employ both the method of fact and the method of imagination](language-subjective-emotional-aesthetic.md) — related
+- [Teachers perceived AI-supported futures as increasingly imaginable and linked to present actions](approaching-markers-future-attainability.md) — related
+- [Students' perceptions of futures broadened and pluralised, and deterministic thought patterns were questioned](course-pluralised-futures-questioned-determinism.md) — related

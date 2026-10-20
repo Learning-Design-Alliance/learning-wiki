@@ -68,3 +68,4 @@ Waiting-economics decomposition of generation intervals across the recorded sess
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
 - [A substantial share of builders' voiced design intentions never reaches the typed prompt, leaving design choices to the production stack's defaults](translation-loss-voiced-intents-dropped.md) — related
 - Verbal acceptance with residual doubt from the intuitive-error agent signalled convergence: it occurred in seven of eight sessions, and all seven of those converged — related
+- [Students' help requests to the AI tutor were predominantly instrumental rather than executive, with procedural content and low verification](instrumental-help-seeking-procedural-low-verification.md) — related

@@ -64,3 +64,4 @@ The review reports Elder and McNamara's (2002) examination of 3-minute planning 
 ## Related Claims
 - [The influence of strategic planning on accuracy is unclear and depends on task type and planning conditions](strategic-planning-accuracy-mixed.md) — related
 - [Strategic pre-task planning has a clear positive influence on the complexity of learners' task performance](strategic-planning-enhances-complexity.md) — related
+- [Strategic pre-task planning enhances learners' fluency in task-based performance](strategic-planning-enhances-fluency.md) — related

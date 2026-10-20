@@ -45,3 +45,5 @@ In Experiment 1's Relative Confidence Task (45 trials across area, number, and e
 ## Related Claims
 
 - [Children's self-focused confidence reasoning and other-focused accuracy reasoning show no consistent correlation across four studies when mental-state language and response biases are eliminated](no-consistent-correlation-self-other-reasoning-children.md)
+- [Children do not reliably endorse the more accurate informant when no objective reference is available](endorse-judgments-at-chance-children.md) — related
+- [Young children maintain correct responses more easily than they withdraw incorrect responses on an L2 vocabulary task](withdrawal-harder-than-maintenance-l2-metacognitive-control.md) — related

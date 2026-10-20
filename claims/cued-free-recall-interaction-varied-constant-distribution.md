@@ -63,3 +63,4 @@ Two identical 8 by 2 by 2 ANOVAs (counterbalancing by varied-constant by distrib
 
 ## Related Claims
 - [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — related
+- [Distributed presentations are recalled better than massed presentations in free recall (the spacing effect), and requiring likelihood ratings does not alter this effect](spacing-effect-free-recall-dp-beats-mp.md) — related

@@ -63,3 +63,4 @@ Analysis linking reported opportunity-to-learn coverage to overall program effec
 
 ## Related Claims
 - [Elementary candidates have lower TPA passing rates than secondary and special education candidates, possibly due to added assessment complexity](elementary-candidates-lower-tpa-passing-rates.md) — related
+- [Clinical support (communication, observation, feedback) is strongly related to perceived preparation effectiveness, yet 43% of preservice completers reported less than the required 600 hours of student teaching](clinical-support-related-to-preparedness-600-hours.md) — related

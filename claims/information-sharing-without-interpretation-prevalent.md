@@ -43,4 +43,7 @@ Qualitative analysis of the Information main code across the four group discours
 
 
 ## Related Claims
--
+- [Knowledge creation occurred in neither fixed nor opportunistic collaboration groups; interactions were mostly knowledge sharing](knowledge-creation-absent-fixed-and-opportunistic-groups.md) — related
+- [Premature shared understanding: a group's bypassing of a member's skeptical comment left the social and technology objects misaligned, with partial agreement (Extract 3)](fragmented-premature-shared-understanding.md) — related
+- [Participants' prior knowledge about the historical event was entirely consistent with their own ethnic group's narrative, with none providing an alternative interpretation](prior-knowledge-ethnocentric-narrative-consistency.md) — related
+- [A coding scheme distinguishing knowledge creation from knowledge sharing and construction can differentiate student groups' engagement in knowledge creation](knowledge-creation-coding-scheme-distinguishes-groups.md) — related

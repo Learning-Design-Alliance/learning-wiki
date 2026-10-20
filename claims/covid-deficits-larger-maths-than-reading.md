@@ -44,3 +44,7 @@ Bivariate comparison of deficit magnitude by subject using common-effects models
 
 ## Related Claims
 - [School-aged children experienced a substantial overall learning deficit during the COVID-19 pandemic (pooled d = −0.14), equivalent to about 35% of a school year's learning](covid-pandemic-pooled-learning-deficit.md) — related
+- [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — related
+- [Average fall 2021 reading scores in Grades 3–8 were .09–.18 SD lower than same-grade peers' fall 2019 scores](covid-reading-decline-009-018-sd-grades-3-8.md) — related
+- [No evidence that COVID-19 learning deficits differ between primary and secondary students](covid-deficits-no-grade-level-variation.md) — related
+- [Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries](covid-deficits-larger-middle-income-countries.md) — related

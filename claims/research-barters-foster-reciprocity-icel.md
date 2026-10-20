@@ -51,3 +51,5 @@ Autoethnographic reflection on funding and resources. The authors "observed that
 - Staff time for the Capstone was limited and unequally divided across CHARM-EU partners, with University of Pretoria staff receiving no hours or funding — related
 - Students felt uncomfortable with short-term European fieldwork in South Africa with limited interaction with local researchers and communities — related
 - When engagement with partners is relatively limited, researchers should be especially thoughtful about how findings translate to action-oriented recommendations — related
+- [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](household-exchange-networks-are-reciprocal-and-build-trust.md) — related
+- [A two-year professional learning community helped eight REL Midwest researchers identify collaborative-research challenges and apply solutions in their alliance work](rel-midwest-plc-collaborative-research-lessons.md) — related

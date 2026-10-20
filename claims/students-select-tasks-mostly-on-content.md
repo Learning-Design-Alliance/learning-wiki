@@ -47,3 +47,4 @@ Explorative lab experiment in which 15 secondary school students selected eight 
 - [Eye movements shift from easy, low-support tasks during early selections to faster orientation toward more difficult tasks during final selections](eye-tracking-shift-toward-difficult-tasks.md) — related
 - [Self-assessment accuracy and estimated performance change do not improve over repeated task selections within a single session](self-assessment-accuracy-no-improvement-over-time.md) — related
 - [Secondary school students overestimate their performance on learning tasks by about one step out of five](students-overestimate-task-performance.md) — related
+- [Tenth-graders show few signs of global task awareness when selecting text fragments, rarely rereading or deeply processing task instructions](few-signs-global-task-awareness-selection.md) — related

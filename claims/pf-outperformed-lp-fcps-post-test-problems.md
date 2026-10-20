@@ -52,3 +52,7 @@ A quasi-experimental classroom study in which 109 seventh-grade mathematics stud
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — related
 - [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related
 - [PF students did not outperform DI students when learning social science research methods in two quasi-experimental studies with 10th graders, failing to replicate the STEM-domain PF effect](pf-effect-not-replicated-non-stem-research-methods.md) — reports the opposite
+- [Providing both a simple and a complex example facilitates transfer better than a single example or an example plus procedures](multiple-examples-per-problem-type.md) — related
+- [Collaborative group failure on ill-structured physics problems confers later individual problem-solving advantages over success on well-structured problems (productive failure)](productive-failure-group-failure-beats-structured-success.md) — related
+- [Well-structured collaborative learning is extremely effective, especially for learning concepts and complex problem solving](well-structured-collaborative-learning-effective.md) — related
+- [Collaborative and individual problem solving in traditional PF do not differ in conceptual knowledge after instruction](pf-collaborative-individual-no-conceptual-knowledge-difference.md) — reports the opposite

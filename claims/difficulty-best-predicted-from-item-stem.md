@@ -46,3 +46,4 @@ In the modeling study of the medical exam items, the authors report that "diffic
 - [All parts of the item were important for predicting response time](all-item-parts-important-response-time-prediction.md) — related
 - [In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty for lower and higher Leitner decks, while global difficulty performs better for intermediate decks.](item-specific-difficulty-helps-only-at-low-and-high-leitner-decks.md) — related
 - [Transfer learning improves prediction of item difficulty when response time is used as an auxiliary task, but not the other way around](transfer-learning-difficulty-prediction-auxiliary-response-time.md) — related
+- [Combining semantic and process features yields the best difficulty prediction; semantic embeddings alone trail the full model by 7.4–12.1 macro-F1 points on SAT Math](full-representation-beats-semantic-only-ablation.md) — related

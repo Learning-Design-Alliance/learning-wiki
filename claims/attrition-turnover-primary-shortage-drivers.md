@@ -48,3 +48,5 @@ The report's analysis of district turnover rates finds an association between tu
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
 - [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](school-leadership-associated-with-lower-turnover.md) — related
 - California's K-3 class size reduction policy sharply increased the proportion of teachers without full credentials, with low-income students most affected — related
+- [Schools reporting hiring difficulties are almost twice as likely to have above-average teacher turnover rates](hiring-difficulties-correlated-with-high-turnover.md) — related
+- [Teacher attrition is approximately 55% higher in high-poverty schools than in lower-poverty schools](attrition-55-percent-higher-high-poverty-schools.md) — related

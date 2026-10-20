@@ -50,3 +50,9 @@ Questionnaire study in two eight-week first-year law courses (202 and 150 studen
 - [No achievement difference between staff- and peer-tutored groups in the first curriculum year](no-achievement-difference-year-one-peer-staff.md) — related
 - [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](staff-tutoring-small-achievement-advantage-pbl.md) — related
 - [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](tutor-behavior-ratings-interaction-year.md) — related
+- [Focus group data indicate student tutors show more cognitive congruency than staff tutors, explaining content more clearly and in student-friendly terms](student-tutors-cognitive-congruency-focus-group.md) — related
+- [No differences between student and staff tutors in focus on cooperation among group members](no-difference-tutor-cooperation-orientation.md) — related
+- [Student perceptions of tutors are generally positive for both staff and student tutors, with significant differences appearing in only one course and not consistently across courses](tutor-perceptions-positive-inconsistent-differences.md) — related
+- [Focus group data indicate student tutors show more social congruence, being more involved with the group and more open to student opinions](student-tutors-social-congruence-focus-group.md) — related
+- [Students taught by rigorously selected and well trained student tutors show no significant achievement differences from students taught by staff tutors in first-year PBL courses](student-tutors-no-achievement-difference-pbl.md) — related
+- [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related

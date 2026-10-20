@@ -43,4 +43,7 @@ Chi-square comparison of coded concept use in the same 10-dyad discourse corpus;
 
 
 ## Related Claims
--
+- [Summary-writing dyads produce more utterances overall, but most reflect mechanical dictation and copying rather than historical reasoning](summary-writing-more-utterances-more-off-analysis.md) — related
+- [Students collaborating on a semiempty concept map engage more in causal explanation and argumentation, while summary-writing dyads engage more in contextualization](semiempty-concept-mapping-more-causal-explanation-argumentation.md) — related
+- [Interaction during semiempty concept mapping shows higher transactivity: less elicitation and more externalization and integration than summary writing](concept-mapping-higher-transactivity-integration.md) — related
+- [Concept-mapping dyads produce significantly more re-elaborations (corrections and precisions) of partners' ideas, an indicator of collaborative historical reasoning](concept-mapping-more-re-elaboration-causal-relationships.md) — related

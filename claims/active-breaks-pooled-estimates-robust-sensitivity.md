@@ -53,3 +53,4 @@ Sensitivity analyses of the RVE models: LOSO exclusions produced maximum changes
 - [Pooled effect sizes for deployment on mental health are robust across components of methodological quality in sensitivity analyses](deployment-meta-analysis-robust-sensitivity.md) — related
 - [Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses](publication-bias-math-writing-meta-analysis.md) — related
 - [Classroom active breaks produce a small but statistically significant positive effect on working memory in schoolchildren aged 6–16](active-breaks-small-positive-effect-working-memory.md) — related
+- [Moderate-to-vigorous intensity active breaks are associated with slightly greater working-memory improvements than moderate intensity, in exploratory meta-regression](mvpa-intensity-moderates-working-memory-effect.md) — related

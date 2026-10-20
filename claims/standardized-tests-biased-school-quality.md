@@ -46,3 +46,5 @@ The agenda's data-use priority asserts, referencing the field's evidence base ra
 - [Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup](active-el-reporting-bias.md) — related
 - [Successive cohort indicators are subject to false performance gains, and the paper assesses which school evaluation methods provide useful accountability information](successive-cohort-indicators-false-performance-gains.md) — related
 - [Proxy pre-test value-added estimates show bias, but may still carry information about teacher effectiveness](proxy-pretest-estimates-biased-but-informative.md) — related
+- [Standardized tests measure only part of what teachers expect students to learn and are not taken in all subjects](standardized-tests-partial-information-learning.md) — related
+- [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related

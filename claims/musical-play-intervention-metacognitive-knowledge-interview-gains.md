@@ -44,3 +44,5 @@ Metacognitive Knowledge Interview after the Train Track Task, analysed with repe
 
 ## Related Claims
 - [Musical play intervention significantly increased children's metacognitive knowledge of strategies at interview](musical-play-intervention-metacognitive-knowledge-of-strategies-gains.md) — related
+- [Musical play intervention produced a significantly greater increase in teacher-reported self-regulation than usual music lessons in 6-year-olds](musical-play-intervention-teacher-reported-self-regulation-gains.md) — related
+- [No intervention effect on directly observed on-task self-regulation in the musical play study](musical-play-intervention-no-on-task-self-regulation-effect.md) — related

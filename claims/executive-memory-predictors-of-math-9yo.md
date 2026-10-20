@@ -55,3 +55,5 @@ Simultaneous multiple regression (M1) in 98 9-year-olds with normal reading skil
 - [Number sense measures are non-significant predictors of math once more robust predictors are included](number-sense-non-predictor-of-math.md) — a narrower finding that bears on this claim
 - [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related
 - [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](shared-wm-speed-verbal-comprehension-rd-md.md) — related
+- [Children with developmental dyscalculia show impaired visuo-spatial short-term and working memory relative to matched controls](dd-visuospatial-stm-wm-impairment.md) — related
+- [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — related

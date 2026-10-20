@@ -47,3 +47,4 @@ Narrative review of prior ERP developmental studies (Davis et al., 2003; Rueda e
 - [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
 - [Not all neurophysiological aspects of auditory distraction mechanisms are mature in late childhood](distraction-mechanisms-immature-late-childhood.md) — related
 - [Maltreated adolescents show a reversed N2 pattern during go/no go: more pronounced N2 on go trials than no go trials, unlike nonmaltreated adolescents](reversed-n2-pattern-maltreated-adolescents.md) — related
+- [Metacognitive scaffolding plus executive attention training yields significant increases in the N2 ERP component associated with conflict processing in preschoolers](metacognitive-scaffolding-n2-erp-increase-children.md) — related

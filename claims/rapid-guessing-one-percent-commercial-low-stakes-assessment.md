@@ -45,3 +45,8 @@ The study analyzed item response times in a commercially available, low-stakes i
 ## Related Claims
 - [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related
 - [Rapid-guessing behavior is consistently very low across demographic subpopulations](rapid-guessing-low-across-demographic-subpopulations.md) — related
+- [Response acceleration occurs in adaptive testing: response time is reduced for responses occurring later in the assessment](response-acceleration-later-adaptive-assessment.md) — related
+- [Rapid-guessing behavior varies by item and is significantly related to item length, item position, and presence of ancillary reading material](rapid-guessing-item-length-position-ancillary-material.md) — related
+- [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — a broader claim this one bears on
+- [Rapid guessing can be identified from item-level response time, and its proper interpretation depends on contextual requirements](rapid-guessing-identification-and-context.md) — a broader claim this one bears on
+- [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](disengagement-material-individual-summative-scores-minor-aggregations.md) — related

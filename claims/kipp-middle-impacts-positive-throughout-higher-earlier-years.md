@@ -80,3 +80,5 @@ The Key Findings section reports a temporal pattern in middle school impacts ove
 - [No detectable effects of KIPP Atlanta Collegiate High School on overall credential completion during the study period](kipp-atlanta-no-credential-completion-effect.md) — related
 - The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics — related
 - [Recent evidence confirms teacher quality is a critical component of student achievement](teacher-quality-critical-to-student-achievement.md)
+- [In the earlier National Evaluation of Charter Middle Schools, admission to about 30 charter middle schools produced no significant average effects on achievement, though some schools improved achievement](charter-middle-schools-no-average-achievement-effect.md) — related
+- [Unlike district schools, KIPP middle schools tend to replace exiting students with higher-achieving students](kipp-replaces-exiting-students-with-higher-achievers.md) — related

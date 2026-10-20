@@ -47,3 +47,4 @@ One-way ANOVA on DANVA fearful affect errors across three diagnostic subgroups (
 - [Inattentive symptoms are significantly positively correlated with fearful and vocal channel affect recognition errors](inattentive-symptoms-fearful-vocal-error-correlations.md) — related
 - [Affect recognition deficits were not found unanimously across ADHD groups, suggesting a nuanced subtype-specific pattern](affect-deficits-not-unanimous-across-adhd-groups.md) — a broader claim this one bears on
 - [Inattentive symptoms are positively associated with sad affect recognition errors while hyperactive-impulsive symptoms are negatively associated](inattentive-symptoms-positive-hyperactive-negative-sad-errors.md) — related
+- [The inattentive ADHD subtype has the worst learning ability score among ADHD subtypes](inattentive-adhd-worst-learning-score.md) — related

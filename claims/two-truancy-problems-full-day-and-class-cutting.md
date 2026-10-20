@@ -51,3 +51,4 @@ Transcript-based analysis of second-semester ninth grade attendance distinguishi
 - Average daily attendance and truancy metrics mask chronic absence, which reveals individual students missing 10% of school for any reason — related
 - Punitive responses to absence do not improve attendance and can worsen it — related
 - [The school refusal-truancy dichotomy shows extensive overlap and heterogeneity](school-refusal-truancy-dichotomy-overlap.md) — a broader claim this one bears on
+- [Ninth grade attendance problems begin early in the year and generally worsen, with 89 percent of first-semester extreme truants ending the year at similar or worse levels](truancy-begins-early-and-worsens.md) — related

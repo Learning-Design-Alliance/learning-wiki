@@ -65,3 +65,6 @@ The review reports, citing Declerck, Thoma, et al. (2015c), that highly proficie
 
 - [Higher Spanish proficiency in bilinguals is associated with less residual competitor inhibition](spanish-proficiency-associated-less-residual-inhibition.md)
 - [Switch costs and mixing costs are common empirical observations across language switching paradigms, except voluntary switching under certain circumstances](switch-and-mixing-costs-common-across-paradigms.md)
+- [Asymmetrical switch costs are not an unambiguous marker of inhibition: they depend on task type and bilingual profile, and admit non-inhibitory explanations](asymmetrical-switch-costs-not-unambiguous-inhibition-marker.md) — related
+- [Sentence-level (lemma) processing affects language switching: switch costs occur between sentences and depend on syntactic structure](sentence-processing-affects-language-switching.md) — related
+- [N-2 language repetition costs are a less ambiguous marker of inhibition in language switching, though their pattern across languages is inconsistent](n2-language-repetition-costs-inhibition-marker.md) — related

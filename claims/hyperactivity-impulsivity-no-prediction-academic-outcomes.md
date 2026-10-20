@@ -52,3 +52,4 @@ In the 107-child low-number-sense sample, SWAN Hyperactivity/Impulsivity subscal
 - [Teacher-rated behavioral inattention was not uniquely predictive of any grade 1 math outcome despite significant zero-order correlations](behavioral-inattention-not-unique-predictor.md) — related
 - [Children's ability to wait for 'go' on the RRRP was not a significant predictor of any academic outcome and was removed from the models](wait-for-go-not-predictive-of-academic-outcomes.md) — related
 - [Hyperactivity and conduct problems were not statistically significant predictors of reading comprehension in this sample](hyperactivity-conduct-problems-not-significant-predictors.md) — related
+- [Peer problems are the only statistically significant predictor of reading comprehension scores among hyperactivity, conduct problems, and peer problems](peer-problems-only-significant-predictor-reading-comprehension.md) — related

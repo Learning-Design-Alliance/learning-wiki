@@ -47,3 +47,5 @@ Hierarchical regression showed Step 2 variables "did not significantly predict a
 - [Emotion regulation variables predict academic outcomes (GPA and academic honors) beyond Big Five personality traits and gender in high school students](era-predicts-academic-outcomes-beyond-big-five.md) — related
 - [Emotion regulation variables predict interpersonal outcomes (peer nominations of understanding others and leadership potential) beyond Big Five traits and gender](era-predicts-interpersonal-outcomes-beyond-big-five.md) — related
 - [Performance-tested ERA and teacher-observed emotion regulation are only modestly correlated (r = 0.22), suggesting they measure distinct constructs](era-and-observer-reports-low-correlation.md) — related
+- [Students at Oakland International High School report a strong sense of community, close relationships, and happiness at school](oakland-international-students-report-sense-of-community.md) — related
+- [Teacher-observed emotion regulation correlates with academic outcomes more strongly than performance-tested ERA does](teacher-observed-er-stronger-academic-correlations.md) — related

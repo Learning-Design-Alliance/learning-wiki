@@ -47,3 +47,7 @@ Theoretical argument in the Theory of Learning section: the author roots DL2F in
 - [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
 - Knowledge is not a picture of the real world; its adequacy is tested for logical consistency and experiential validity — related
 - [DL2F is grounded in communicative language teaching theory prioritizing communication as the key objective of language learning](dl2f-grounded-in-clt-theory.md) — related
+- [Kantian architectonics is an early articulation of constructivism, with knowledge constructed into a system](kantian-architectonics-early-constructivism.md) — related
+- [Language and dialogue operationalize the networking capacities that connectivism values](language-operationalizes-network-learning.md) — related
+- [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related
+- [Cognitive constructivism has strong empirical support and suggests new directions for science education, and must be distinguished from metaphysical constructivism](grandy-cognitive-vs-metaphysical-constructivism.md) — related

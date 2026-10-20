@@ -61,3 +61,6 @@ Fixed-effects regression (model 1) predicting composite feeling-of-learning z sc
 - [Active Learning Higher Test Scores Than Lecture](active-learning-higher-test-scores-than-lecture.md)
 - [Perceived instructor fluency, not instruction type, predicted students' feeling of learning (0.51 SD, P < 0.001)](perceived-instructor-fluency-predicts-feeling-of-learning.md) — related
 - [Interviewed students described active classrooms as disjointed and frustrating and preferred the fluent passive lecture](interviews-active-classrooms-disjointed-frustrating.md) — related
+- [Students in active learning environments learned more but felt they learned less, mistaking mental effort for failure](active-learning-felt-learning-paradox.md) — possibly the same claim (merge candidate)
+- [Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures](ousd-passive-lecture-unchallenged-students.md) — related
+- [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](effortless-ai-use-creates-illusion-of-learning.md) — a broader claim this one bears on

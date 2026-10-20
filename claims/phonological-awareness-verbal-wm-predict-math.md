@@ -51,3 +51,7 @@ In final hierarchical regression models for the four grade 1 outcomes, "verbal w
 - [Number sense measures are non-significant predictors of math once more robust predictors are included](number-sense-non-predictor-of-math.md) — related
 - [Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children](visuospatial-wm-inhibition-predict-maths.md) — related
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — a broader claim this one bears on
+- [Phonological decoding, verbal knowledge, visuo-spatial STM/WM, spatial orientation and trail-making performance are robust simultaneous predictors of math in 9-year-olds](executive-memory-predictors-of-math-9yo.md) — related
+- [Phonological awareness has no direct effect on higher-order QNC (Level II and above) or Grade 3 math achievement once QNC skills are modeled, confirming the isolated number-words hypothesis](isolated-number-words-hypothesis-confirmed.md) — reports the opposite
+- [Symbolic number predictors account for substantial additional variance in grade 1 math outcomes beyond counting and domain general predictors](symbolic-number-r2-change-grade1-math.md) — related
+- [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](shared-wm-speed-verbal-comprehension-rd-md.md) — related

@@ -48,3 +48,4 @@ The abstract describes an observational longitudinal analysis of "reading achiev
 - [Students with visual impairments show accelerated reading growth between 9th and 10th grade while the nationally normed group tends to drop](vi-students-accelerated-growth-ninth-tenth-grade.md) — related
 - [Little is known about growth in reading for students with visual impairments as they progress through school](reading-growth-visual-impairments-understudied.md) — related
 - [The study compared reading growth for students with visual impairments with a nationally normed group of students from the general population](vi-reading-growth-compared-national-norm-group.md) — related
+- [The rate of reading growth for students with visual impairments is suggested to be greater than the national norm](vi-students-greater-rate-of-reading-growth.md) — related

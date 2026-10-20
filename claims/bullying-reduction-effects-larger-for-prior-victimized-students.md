@@ -50,3 +50,4 @@ Subgroup analysis within the same quasi-experimental study of Chicago Public Sch
 - Victimized students reported negative school conditions at higher rates than nonvictims — related
 - Victims of any crime, theft, and violence reported fearing attack or harm at school at higher rates than nonvictims — related
 - [Schools with higher 5Essentials Survey scores, especially more Supportive Environments, are more likely to reduce students' fear of bullying](supportive-environment-predicts-bullying-fear-reduction.md) — related
+- [Escaping a bottom-tier school raises four-year graduation rates, by 10 percentage points for top-tier schools and 3 for mid-tier schools](escaping-bottom-tier-schools-raises-graduation-rates.md) — related

@@ -49,3 +49,4 @@ Analysis comparing NCES 2011/12 enrollment data against Title VII eligibility cr
 - Title VII new-award funding for LEAs in Arizona, Nevada, and Utah fluctuated between 2008 and 2013 — related
 - [Only about half of eligible children attend NC Pre-K, leaving almost 33,000 eligible children per year unserved](nc-pre-k-half-of-eligible-children-unserved.md) — related
 - [Funded LEA respondents expressed general satisfaction with Title VII and reported using funds to hire staff and expand services for AI/AN students](title-vii-funded-lea-satisfaction-and-uses.md) — related
+- [AI/AN students perform lower than other student subpopulations on common academic measures, per statistics the report cites from the Education Trust](aian-student-achievement-gaps-reported.md) — related

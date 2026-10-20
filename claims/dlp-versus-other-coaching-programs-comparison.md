@@ -64,3 +64,8 @@ Same comparison survey; the report suggests the DLP "may want to provide more op
 ## Related Claims
 - [Meta-analytic evidence finds large positive effects of coaching on teachers' instructional practice and a meaningful positive impact on student achievement, with mixed results on model features](coaching-meta-analysis-positive-effects-instruction-achievement.md) — related
 - Teachers who find coaching valuable spend more time and meet more frequently with their coaches — related
+- [DLP teachers reported higher rates of impactful student technology use and greater perceived positive impact on student engagement and learning than non-DLP teachers](dlp-student-engagement-impactful-technology-use.md) — related
+- [After one year of DLP coaching, coached teachers reported more frequent and more powerful technology use than non-participating colleagues](dlp-teachers-more-frequent-powerful-technology-use.md) — related
+- [Dynamic Learning Project research found teachers who worked with edtech coaches used technology more frequently and felt more confident than peers who did not](dlp-coaching-technology-use-confidence.md) — related
+- [More DLP teachers reported strong ability to select and use technology for pedagogy and for their content area than non-DLP teachers](dlp-coaching-stronger-ability-select-use-technology.md) — related
+- [DLP-coached teachers reported greater increases in frequency of technology use than non-DLP teachers](dlp-coaching-increases-teacher-technology-use-frequency.md) — related

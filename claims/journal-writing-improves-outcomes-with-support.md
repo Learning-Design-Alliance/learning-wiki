@@ -51,3 +51,4 @@ The review reports, citing Nückles, Roelle, Glogger-Frey, Waldeyer, and Renkl, 
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
 - [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](worked-example-self-explanation-journal-transfer.md) — a narrower finding that bears on this claim
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
+- [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) — related

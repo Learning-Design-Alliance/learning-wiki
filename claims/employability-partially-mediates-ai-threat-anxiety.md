@@ -47,3 +47,6 @@ Bootstrap mediation analysis with 5,000 resamples in the 526-student survey foun
 - [Perceived employability negatively predicts career decision-making anxiety among Chinese college students](perceived-employability-negatively-predicts-career-anxiety.md) — related
 - [AI anxiety directly and negatively predicts college students' career decisions](ai-anxiety-negatively-predicts-career-decisions.md) — related
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
+- [Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior](homework-management-partially-mediates-teacher-involvement-behavior.md) — related
+- [Growth mindset moderates the negative effect of AI employment threat perception on perceived employability, weakening it at higher mindset levels](growth-mindset-moderates-ai-threat-employability-link.md) — related
+- [Core self-evaluations partially mediate the relationship between career adapt-abilities and AI anxiety](core-self-evaluations-partially-mediate-adaptabilities-ai-anxiety.md) — related

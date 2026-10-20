@@ -48,3 +48,5 @@ The report's abstract reports on "the characteristics of students participating 
 - [In 2004-2005, only about one percent of the nearly 6.2 million students eligible for Title I school choice used the option, while about 17 percent of eligible students used supplemental educational services](title-i-choice-one-percent-ses-17-percent-participation.md) — related
 - [Low participation rates in Title I school choice and supplemental educational services may be related to problems communicating with parents](low-participation-related-to-parent-communication-problems.md) — related
 - [Participation rates remained low: 1 percent for Title I public school choice and 17 percent for supplemental educational services](title-i-choice-ses-low-participation.md) — related
+- [More than 3.3 million students were eligible for Title I supplemental educational services in 2006-2007, a nearly sixfold increase](title-i-ses-eligibility-sixfold-growth.md) — related
+- [Parents of students who used Title I school choice were largely satisfied with the new schools](parents-largely-satisfied-with-choice-schools.md) — related

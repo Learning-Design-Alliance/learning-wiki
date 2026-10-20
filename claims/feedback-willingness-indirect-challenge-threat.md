@@ -67,3 +67,4 @@ Path analyses showed "the significant indirect effects of feedback on willingnes
 - [Feedback valence affects post-task self-efficacy, challenge, and threat: negative feedback lowers self-efficacy and challenge and raises threat (Experiments 1 and 2)](feedback-valence-affects-self-efficacy-challenge-threat.md) — related
 - [Predominantly negative feedback leads students to expect a next round of problems will require more effort than predominantly positive feedback (Experiments 1 and 2)](negative-feedback-raises-anticipated-effort.md) — related
 - [In the absence of feedback, self-efficacy after problem solving was not associated with invested, expected, or willingness-to-invest effort, and threat was not associated with any effort measure (Experiments 3 and 4)](no-feedback-effort-associations-null.md) — related
+- [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related

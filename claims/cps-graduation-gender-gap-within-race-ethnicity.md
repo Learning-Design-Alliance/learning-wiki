@@ -48,3 +48,4 @@ Descriptive analysis of the 2019–20 CPS ninth-grade cohort (Figure 4) disaggre
 
 ## Related Claims
 - [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](cps-graduation-gaps-race-gender.md) — possibly the same claim (merge candidate)
+- [CPS's four-year high school graduation rate reached a record 85.0% in 2023, up about one percentage point from 84.1% in 2022](cps-2023-graduation-rate-record-85.md) — related

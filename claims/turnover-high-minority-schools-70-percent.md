@@ -49,3 +49,5 @@ SASS/TFS analysis comparing top-quartile (more than 55% students of color) and b
 - [Mathematics/science, special education, and foreign language teachers have predicted turnover rates 37%, 46%, and 87% greater than elementary teachers](subject-area-turnover-predictors.md) — related
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
 - [Minority teacher turnover rates have been significantly higher than nonminority turnover, and the gap widened after 2004](minority-teacher-turnover-significantly-higher.md) — related
+- [Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14](shortage-burden-high-poverty-high-minority-schools.md) — related
+- [Turnover is highest in ESL/bilingual education (19.0%), foreign languages (18.3%), CTE (17.5%), and special education (16.4%)](high-need-field-teachers-higher-turnover.md) — related

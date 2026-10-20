@@ -47,3 +47,4 @@ Findings from the randomized controlled trial's second cohort (645 intervention 
 
 ## Related Claims
 - [Reading Apprenticeship® showed no statistically significant effects on most GRADE outcomes: Cohort 1 comprehension and vocabulary, and Cohort 2 vocabulary](reading-apprenticeship-null-grade-outcomes.md) — related
+- [Reading Apprenticeship® shows no effect on vocabulary (effect size 0.00)](reading-apprenticeship-no-vocabulary-effect.md) — related

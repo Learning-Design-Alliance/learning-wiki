@@ -45,3 +45,5 @@ Haimovitz's studies found little if any correlation between parents' and childre
 ## Related Claims
 - [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](person-praise-induces-fixed-mindset.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
+- [Parents' own incremental theories did not predict their process praise use or their children's motivational frameworks, and counter-intuitively correlated with more person praise](parent-incremental-theories-not-predicting-praise-or-child-frameworks.md) — related
+- [Process praise to toddlers predicts fourth grade math and reading comprehension achievement via children's incremental motivational frameworks](process-praise-toddlers-predicts-achievement-via-incremental-frameworks.md) — related

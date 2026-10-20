@@ -66,3 +66,5 @@ Same study's U.S. sample replicated the null result; the review adds that Cardos
 - [Children's early prephonological spelling statistics predict later conventional spelling success](early-spelling-statistics-predict-later-spelling.md) — related
 - [Syllable awareness is a strong and prominent predictor of Spanish reading development](syllable-awareness-strong-predictor-spanish-reading.md) — related
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
+- [Preschoolers' writing and writing-related skills increase significantly between ages 3 and 5 on letter, name, and CVC word tasks](preschool-writing-skills-increase-age-3-to-5.md) — related
+- [Children's writing proficiency is task dependent: children use more advanced features on easier tasks and regress to basic features on harder tasks](writing-proficiency-task-dependent.md) — related

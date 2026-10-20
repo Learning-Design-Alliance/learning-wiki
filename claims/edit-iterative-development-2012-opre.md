@@ -46,3 +46,7 @@ Project description from the publication's overview. The article reports that in
 - A 2012 landscape analysis project collected and analyzed information on instruments measuring learning strategies and student mindsets in middle childhood — related
 - The M&E Needs Inventory is positioned as most useful in the early stage of a research cycle — related
 - [A formative evaluation of the ELTM was conducted in two preschool child development centers serving six classes of children ages 3 to 5](milpitas-eltm-formative-evaluation-scope.md) — related
+- [The EDIT uses a multimethod approach gathering evidence with checklists, ratings, and rubrics](edit-multimethod-checklists-ratings-rubrics.md) — related
+- [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
+- [The TSDL project's first year of implementation (2011) produced reportable implementation findings](tsdl-first-year-implementation-findings-2011.md) — related
+- [d.tech teachers used design sprints to prototype and test classroom applications of learning sciences research, and the school plans data analysis to evaluate effects](design-sprints-prototype-learning-strategies.md) — related

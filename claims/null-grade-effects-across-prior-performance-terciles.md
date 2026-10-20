@@ -45,3 +45,6 @@ Heterogeneity analysis grouping students into terciles by AbilityRank (course-re
 ## Related Claims
 - [ChatGPT exposure effects vary across the school performance distribution, with positive estimates for lower-performing schools and negative for top-performing schools, but this pattern is not robust](chatgpt-exposure-performance-distribution-heterogeneity.md) — related
 - [GenAI availability produced no significant differential effect on final grades in more GenAI-susceptible courses relative to less susceptible ones](genai-availability-no-significant-grade-effect-susceptible-courses.md) — related
+- [Time-varying educational ChatGPT exposure shows no significant effect on high school test scores in the balanced panel; significant unbalanced-panel results are not robust](time-varying-exposure-null-balanced-panel.md) — related
+- [More GenAI-susceptible courses show no raised grade floor after ChatGPT: passing-margin and failing/withdrawal probabilities are null under both COVID assumptions](no-raised-grade-floor-genai-susceptible-courses.md) — related
+- [Positive average grade effects appear only under COVID-laden treatment anchors, indicating such readings reflect the COVID shock rather than ChatGPT](covid-laden-anchors-produce-spurious-positive-grade-effect.md) — related

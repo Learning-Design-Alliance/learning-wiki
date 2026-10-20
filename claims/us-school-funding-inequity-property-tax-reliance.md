@@ -48,3 +48,7 @@ The brief reports funding disparities: districts serving the greatest proportion
 - Stakeholders view parcel taxes—the only local revenue option available to California school districts—as inequitable and regressive — related
 - Because California education funding relies heavily on the personal income tax, state education funds are highly susceptible to economic fluctuations and vulnerable during recessions — related
 - [Educational opportunity and achievement gaps impose large societal costs, including an estimated $156 billion loss in tax revenues and income per yearly cohort of nongraduates](achievement-gap-societal-costs.md)
+- [As of fiscal year 2017, 22 states still provided less per-pupil K–12 education funding than in 2008–09](22-states-less-per-pupil-funding-than-2008-09.md) — related
+- [Most principals face obstacles to professional learning—time, coverage, and funds—with funding obstacles concentrated in schools serving many students of color](principal-pd-obstacles-time-coverage-funds.md) — related
+- [LCFF-induced spending increases of $1,000 per pupil for 3 consecutive years produced roughly a full grade-level increase in math and reading achievement in grades 3–8](lcff-1000-per-pupil-three-years-full-grade-level-achievement-gains.md) — related
+- [School districts that rely more heavily on state revenue experience more revenue volatility, and 24 states received at least half their revenue from state sources in 2019-20](state-revenue-reliance-increases-volatility.md) — related

@@ -51,3 +51,4 @@ The review's synthesis of concerns reported across its 69 included studies on Ch
 - [Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern](genai-accuracy-overreliance-challenges-hss.md) — a narrower finding that bears on this claim
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — a narrower finding that bears on this claim
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — a narrower finding that bears on this claim
+- [Facebook usage in higher education carries potential problems ranging from educators' dominance to privacy concerns](facebook-educator-dominance-privacy-concerns.md) — related

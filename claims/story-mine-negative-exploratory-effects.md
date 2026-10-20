@@ -46,3 +46,4 @@ Intention-to-treat analysis of baseline-to-postintervention change in the pilot 
 - [Intervention engagement (narratives consumed) showed no clear association with outcome changes](story-mine-engagement-outcome-null-association.md) — related
 - [STORY MINE is rated feasible and acceptable as a supplement to specialized mental health care, with positive user-friendliness ratings](story-mine-feasible-acceptable-pilot.md) — related
 - [Excluding two participants in acute crisis reduced the negative effect estimates to very small or small](story-mine-sensitivity-crisis-exclusion.md) — related
+- [Engagement with the unguided STORY MINE module was low, averaging fewer than 3 active login days over 12 weeks](story-mine-low-engagement-unguided.md) — related

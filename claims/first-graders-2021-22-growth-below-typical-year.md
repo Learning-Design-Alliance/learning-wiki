@@ -47,3 +47,6 @@ Figure 4 and Table 4 compare average fall–spring RIT gains in 2021–22 with 2
 - [Second graders' 2021–22 fall–spring growth in math and reading paralleled prepandemic achievement gains](second-graders-2021-22-growth-paralleled-prepandemic.md) — related
 - [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) — related
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — a broader claim this one bears on
+- [Eighth graders in the Breakthrough Collaborative math tutoring pilot showed math score growth from beginning to end of year at both affiliates, similar to a national pre-pandemic sample](breakthrough-tutoring-math-gains-similar-national-sample.md) — related
+- [End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points)](spring-2022-achievement-below-typical-math-declines-larger.md) — related
+- [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](spring-2021-students-behind-prepandemic-averages.md) — related

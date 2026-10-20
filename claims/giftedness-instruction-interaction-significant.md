@@ -48,3 +48,5 @@ Multivariate ANOVA in the Results section of the randomized 2×2×2 experiment w
 ## Related Claims
 - [Giftedness shows a significant multivariate main effect across the learning and recall outcome measures in the 2×2×2 study](giftedness-multivariate-main-effect-learning-outcomes.md) — related
 - [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
+- [Starting with an example strongly benefits first practice problem performance, with a larger effect for gifted students](first-practice-problem-sequence-interaction.md) — related
+- [Exploration-first students show more advanced MVC reasoning on the transfer task than Instruction-first students](exploration-first-transfer-mvc-reasoning.md) — related

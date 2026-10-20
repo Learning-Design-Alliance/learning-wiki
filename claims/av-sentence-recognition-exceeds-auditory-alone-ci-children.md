@@ -49,3 +49,5 @@ Live-voice Common Phrases Test administered under auditory-alone, visual-alone, 
 - [No significant group-level difference between auditory-alone and visual-alone sentence recognition, with substantial individual modality preferences](no-group-difference-auditory-visual-alone.md) — related
 - [Audiovisual sentence performance approximates the simple sum of unimodal scores, with no super-additive integration for familiar sentences](no-super-additive-av-integration-familiar-sentences.md) — related
 - [Children with cochlear implants had difficulty following spoken conversation in groups, with teachers reporting far more difficulty than parents](ci-group-conversation-difficulty.md)
+- [Audiovisual attention decomposition via forward encoding and variance partitioning yields VAC, AAC, and SAC as surrogate indicators, not direct measures of attention](audiovisual-attention-decomposition-surrogate-indicators.md) — related
+- [Children in Oral Communication programs show higher speech intelligibility than children in Total Communication programs](oc-children-higher-intelligibility-than-tc.md) — related

@@ -65,3 +65,5 @@ Same benchmarking section: "ML-driven recommendation systems improve learner ret
 - [Transformer-based NLP models achieve automated essay scoring with correlations to human grading exceeding 0.85](bert-essay-scoring-correlation-085.md) — related
 - [A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described](mooc-nlp-grading-70-percent-time-reduction.md) — a narrower finding that bears on this claim
 - [NLP models in LA studies typically reach moderate agreement (mean Cohen's kappa 0.54) and mean accuracy 0.79, with deep learning models outperforming others in most studies from 2021 onward](nlp-la-performance-kappa-accuracy-benchmarks.md) — related
+- [Agentic assessment systems report grading time reductions of 50–70% with 90–95% agreement with human graders](agentic-grading-time-reduction-agreement.md) — related
+- [Praxical teacher-AI grading teaming decreased grading time by 44% and increased accuracy by 6% versus manual grading](praxical-grading-time-accuracy-gains.md) — related

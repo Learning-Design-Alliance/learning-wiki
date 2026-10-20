@@ -43,4 +43,8 @@ Multilevel regression at the before/after level for the whole sample and both sk
 
 
 ## Related Claims
--
+- [Before self-scoring, high-performing primary students make more accurate monitoring judgments of math problem performance than low-performing students (unskilled-and-unaware effect)](unskilled-unaware-monitoring-before-self-scoring-math.md) — related
+- [Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks](self-scoring-regulation-accuracy-limited-division.md) — related
+- [After self-scoring, the monitoring-accuracy gap between low- and high-performing students remains on multiplication (small) but disappears on division](unskilled-unaware-monitoring-after-self-scoring.md) — related
+- [Students' monitoring judgments predict their regulation judgments before and after self-scoring](monitoring-judgments-predict-regulation-judgments.md) — related
+- [Postdictions of performance are typically more accurate than predictions](postdictions-more-accurate-than-predictions.md) — related

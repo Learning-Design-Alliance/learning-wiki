@@ -62,4 +62,6 @@ Same Q2 thematic analysis, Feedback Contemplators class: students valued feedbac
 
 
 ## Related Claims
--
+- [Information Seekers with Low Emotional Strain showed the highest proportion of students capable of managing affect and the most effective coping and feedback-processing strategies](information-seekers-managing-affect.md) — related
+- [Latent class analysis of 641 higher education students' survey responses identifies four distinct classes of feedback experience](four-latent-classes-feedback-experiences.md) — a broader claim this one bears on
+- [Feedback Contemplators with High Emotional Strain perceived poorly structured feedback content—lacking depth, clarity, actionable information, and personalisation—as their biggest challenge in making sense of feedback](contemplators-poorly-structured-feedback-challenge.md) — related

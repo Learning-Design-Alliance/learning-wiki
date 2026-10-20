@@ -49,3 +49,4 @@ A study of 100 participants aged 11-25 using a go/no-go task with letters over n
 - [Task-relevant emotions affect response inhibition more strongly than task-irrelevant emotions, especially in young children](task-relevant-emotions-stronger-response-inhibition-effect.md) — related
 - [Age correlates with detection performance: hits and d′ increase and false alarms decrease with age](age-correlates-detection-performance.md) — related
 - [Inhibition relates to procedural skill in secondary-school children but to conceptual understanding in adults](inhibition-procedural-children-conceptual-adults.md) — related
+- [Mid-adolescents show attenuated right vlPFC response to rejection-themed words relative to adults](mid-adolescent-attenuated-vlpfc-rejection-stroop.md) — related

@@ -44,3 +44,4 @@ Findings table from the WWC review reporting the Scrivener et al. (2015) RCT of 
 
 ## Related Claims
 - [ASAP likely increases college access and enrollment rates](asap-increases-access-and-enrollment.md) — a broader claim this one bears on
+- [ASAP likely increases credit accumulation and persistence rates](asap-increases-credit-accumulation-persistence.md) — a broader claim this one bears on

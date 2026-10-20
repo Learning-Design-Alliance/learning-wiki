@@ -62,4 +62,9 @@ Validation Study 1 (N = 99) replicated the null relationship between SKT-SRL sco
 
 
 ## Related Claims
--
+- [The SKT-SRL correlates moderately with self-reported SRL strategy usage (convergent validity)](skt-srl-convergent-validity-questionnaire.md) — related
+- [The SKT-SRL shows low, mostly non-significant correlations with SRL microanalysis (online measure)](skt-srl-microanalysis-low-correlation.md) — related
+- [Adapting the scoring mechanism substantially reduced ceiling effects found in the pilot study](skt-srl-scoring-reduced-ceiling-effects.md) — related
+- [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
+- [The only significant cross-method correlation within one SRL component is motivation assessed by questionnaire and closed-ended microanalytic questions](motivation-questionnaire-microanalysis-only-cross-method-link.md) — related
+- [Whether an SRL component correlates with GPA depends on how it is assessed: cognition via a strategy knowledge test, motivation via questionnaire, metacognition via an open-ended microanalytic question](different-methods-different-srl-components-achievement.md) — reports the opposite

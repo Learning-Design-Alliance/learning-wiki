@@ -44,3 +44,5 @@ Study 2: 33 children (mean age 8 years 4 months) in 11 triads played two session
 
 - [Attention bids were significantly more likely to succeed with the augmented toy (68% vs 52% success)](attention-bids-more-successful-augmented-toy.md)
 - [Joint narratives after augmented play were rated more creative, and per-child creativity correlated with cooperative play (r = 0.72) and negatively with parallel play](narrative-creativity-linked-to-cooperative-play.md)
+- [An audio-augmented toy produced significantly longer cooperative play than the same toy without augmentation in triads of 6- to 11-year-olds](audio-augmented-toy-doubles-cooperative-play-study1.md) — related
+- [Groups with the augmented toy used more balanced narrative roles, with more narrator and fewer metanarrator utterances](narrative-roles-more-balanced-augmented-toy.md) — related

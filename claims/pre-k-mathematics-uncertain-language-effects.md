@@ -44,3 +44,4 @@ WWC synthesis of one study (Klein et al., 2008) with 296 children across two lan
 - [Pre-K Mathematics shows uncertain effects on preschool self-regulation skills](pre-k-mathematics-uncertain-self-regulation-effects.md) — related
 - [Pre-K Mathematics shows uncertain effects on reading and literacy related outcomes](pre-k-mathematics-uncertain-reading-literacy-effects.md) — related
 - [Pre-K Mathematics shows uncertain effects on social-emotional learning](pre-k-mathematics-uncertain-social-emotional-effects.md) — related
+- [Bright Beginnings shows no discernible effects on preschool oral language (domain average effect size 0.15, not statistically significant)](bright-beginnings-null-oral-language.md) — related

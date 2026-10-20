@@ -52,3 +52,4 @@ In the matched comparison analysis across three districts, the report states "Sa
 - [Research has not yet identified blended learning implementation strategies that increase the likelihood of positive effects on students](no-identified-blended-learning-implementation-strategies.md) — related
 - The Saga blended technology-enhanced tutoring model significantly improves standardized math scores, math GPA, and reduces math course failures (+0.19) — related
 - Saga tutoring produces significant improvements in math course grades and failures and persistent gains one to two years after tutoring — related
+- [Saga blended tutoring had a small negative impact on school attendance](saga-tutoring-small-negative-attendance-impact.md) — related

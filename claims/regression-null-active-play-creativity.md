@@ -49,3 +49,5 @@ Regression analysis examining the impact of active play on the TCT-DP creativity
 - [Active play correlates with creativity (TCT-DP score) in adolescents aged 14–17, but not in children aged 6–13](active-play-creativity-correlation-adolescents.md) — reports the opposite
 - [Joint narratives after augmented play were rated more creative, and per-child creativity correlated with cooperative play (r = 0.72) and negatively with parallel play](narrative-creativity-linked-to-cooperative-play.md) — related
 - [TCT-DP creativity scores increase with age group, and adolescents are the most sedentary](tct-dp-increases-with-age.md) — related
+- [Active play is associated with time with family and peers in all age groups (r = 0.485)](active-play-family-peers-association.md) — related
+- [In a multiple regression model, vigorous physical activity significantly accounts for 4.5% of variance in overall creativity](vigorous-activity-regression-creativity-variance.md) — related

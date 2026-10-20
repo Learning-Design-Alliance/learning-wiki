@@ -51,3 +51,4 @@ Within-person DSEM analysis of 212 session-level surveys nested in 22 students, 
 - [Epistemic emotions showed no significant carry-over (autoregressive) stability from one course session to the next, except boredom after session type was included.](no-carry-over-effect-epistemic-emotions-sessions.md) — related
 - [The session-type-by-time interaction showed anxiety increasing in game sessions while decreasing in lectures, and confusion declining more steeply in game sessions.](session-type-time-interaction-anxiety-confusion.md) — related
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
+- [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](competition-enjoyment-task-focused-evaluation.md) — related

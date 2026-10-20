@@ -63,3 +63,5 @@ Review synthesis: compensatory effect of knowledge on inference generation is we
 
 ## Related Claims
 - [Higher background knowledge enables better reading comprehension for both skilled and low-skilled primary readers](background-knowledge-improves-comprehension-primary.md) — a broader claim this one bears on
+- [When explicitly required by direct questions, less skilled comprehenders' inference performance improves greatly while skilled comprehenders perform at ceiling](direct-questions-boost-poor-comprehenders-inferences.md) — related
+- [Less skilled comprehenders make fewer knowledge-based coherence and elaborative inferences than skilled comprehenders even when the relevant knowledge is equally available](poor-comprehenders-fewer-inferences-equal-knowledge.md) — related

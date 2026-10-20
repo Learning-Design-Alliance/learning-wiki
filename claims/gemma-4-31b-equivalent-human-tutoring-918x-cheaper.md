@@ -45,3 +45,7 @@ Individual equivalence tests against human tutoring across the 12 AI tutors; "Ge
 ## Related Claims
 - [Both AI and human tutoring produce larger GRE learning gains than a no-tutoring control](ai-human-tutoring-beat-control-gre-gains.md) — related
 - [Pooled AI tutoring produces statistically equivalent GRE learning gains to expert human tutoring](pooled-ai-tutoring-equivalent-gre-learning-gains.md) — related
+- [Model family and instruction-tuning approach appear better predictors of tutoring quality than parameter count alone](model-family-beats-parameter-count-for-tutoring-quality.md) — related
+- [The best AI tutors exceeded human mean learning gains in Quantitative domains while human tutoring led pooled AI means in all Verbal domains](best-ai-tutors-lead-quantitative-not-verbal-domains.md) — related
+- [In Quantitative AI sessions, faster AI replies were associated with more engagement, more correct practice, and larger learning gains; these associations were not significant in Verbal](faster-ai-replies-linked-engagement-practice-gains.md) — related
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on

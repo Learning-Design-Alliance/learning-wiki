@@ -49,3 +49,8 @@ Narrative synthesis of educational-performance studies: nursing students with an
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — a narrower finding that bears on this claim
 - [Students primarily benefit from AI chatbots in three key areas: homework and study assistance, personalized learning, and skills development](ai-chatbots-three-student-benefit-areas.md) — reports the opposite
+- [AI chatbots in VET show promising effects on self-regulation and task performance](ai-chatbots-vet-self-regulation-task-performance.md) — related
+- [Meta-analysis beyond education found human-AI integration performed worse than the better performer alone in 58% of studies](human-ai-integration-underperforms-better-alone-58-percent.md) — related
+- [Evidence for sustained or clinically meaningful outcomes of AI chatbot coaching is mixed and does not guarantee improvement across outcomes](sustained-clinical-outcomes-mixed-ai-coaching.md) — related
+- [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — a narrower finding that bears on this claim
+- [GenAI/LLM modalities provide the strongest evidence for cognitive and communication outcomes, while chatbots show weak independent effects](genai-llm-strongest-evidence-cognitive-communication.md) — related

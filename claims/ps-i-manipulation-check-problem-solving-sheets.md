@@ -47,3 +47,7 @@ MANCOVA over four process measures (mathematics grade F(4,74) = 6.36, p < 0.001,
 - [Practice-problem performance favored PS-I overall, but the advantage was concentrated on the first two worksheets (d = 0.52)](practice-problems-favor-ps-i-first-worksheets.md) — reports the opposite
 - [In open-ended constructivist activities, task success or failure is not a reliable indicator of learning, so learner models based only on performance risk misjudging learners](performance-not-indicator-learning-open-ended.md) — related
 - [Collaborative group failure on ill-structured physics problems confers later individual problem-solving advantages over success on well-structured problems (productive failure)](productive-failure-group-failure-beats-structured-success.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Productive failure: student groups who score lower on individual post-tests may have experienced deeper learning leading to superior future performance](productive-failure-deeper-learning-lower-posttests.md) — related
+- [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences](pf-fidelity-predicts-psi-effect-size.md) — related
+- [Productive failure before instruction outperforms instruction followed by problem-solving](productive-failure-before-instruction-strong-effect.md) — related

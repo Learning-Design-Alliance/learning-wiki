@@ -46,3 +46,5 @@ Descriptive statistics from the survey of 462 students; Table 1 prints means of 
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — related
 - [Metacognitive awareness among multidisciplinary university students emerges as two dimensions: knowledge about cognition and regulation of cognition](two-dimensions-metacognitive-awareness-university-students.md) — related
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
+- [Both metacognitive awareness dimensions correlate positively with deep approach and organized studying and negatively with an unreflective approach](metacognitive-awareness-correlates-approaches-learning.md) — related

@@ -46,3 +46,4 @@ WWC systematic review synthesizing four studies (two cluster RCTs without reserv
 ## Related Claims
 - [World of Words produced a statistically significant medium effect on expressive vocabulary (Expressive One-Word Picture Vocabulary Test, 4th Edition; effect size 0.43) in a scaled-up 12-site study](world-of-words-expressive-vocabulary-significant.md) — a narrower finding that bears on this claim
 - [World of Words produced a large, statistically significant effect on taught-word sorting performance (effect size 0.94) in a two-site Head Start study](world-of-words-sorting-task-large-effect.md) — a narrower finding that bears on this claim
+- [World of Words produced a statistically significant medium-to-large effect on a researcher-developed vocabulary inductive reasoning test (effect size 0.66)](world-of-words-inductive-reasoning-significant.md) — a narrower finding that bears on this claim

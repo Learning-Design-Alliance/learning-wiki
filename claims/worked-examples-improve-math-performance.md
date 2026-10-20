@@ -76,3 +76,7 @@ The current page supports a moderate claim about mathematics performance, not a 
 - [Studying solved problems improves algebra achievement compared to solving practice problems alone, though the evidence base is rated minimal and one study found negative effects](solved-problems-improve-algebra-achievement.md) — a narrower finding that bears on this claim
 - [Variability of practice interacts with problem format: high variability aids learning from worked examples but harms learning from conventional problems](variability-effect-format-interaction.md) — related
 - [Use of worked examples in the Cognitive Tutor Algebra course was discouraged by collaborating instructors](worked-examples-discouraged-cognitive-tutor-algebra.md) — related
+- [Adaptive fading of worked examples based on current skill level produced better learning outcomes than fixed fading or tutored problem solving](adaptive-fading-worked-examples-benefits.md) — related
+- [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — related
+- [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — related
+- [Example–problem pairs and examples-only are more effective than problem–example pairs for novices, with no significant difference between the first two](example-problem-ordering-novices.md) — a narrower finding that bears on this claim

@@ -47,3 +47,8 @@ Experiment with low-achieving children in a long-division instructional program 
 - [Peer models raised self-efficacy and skill better than teacher models, but model-competence findings conflict across studies](peer-model-similarity-effects-mixed-evidence.md) — related
 - [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — related
 - [Peer instruction is less effective than explicit teacher creativity teaching for lower-level students](peer-instruction-less-effective-low-achievers-creativity.md) — reports the opposite
+- [Self-efficacy correlates positively with subsequent motivation and performance across cognitive and sport domains](self-efficacy-predicts-motivation-and-performance.md) — related
+- [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
+- [Proximal goals produced higher motivation, skill, self-efficacy, and intrinsic interest than distant or general goals](proximal-goals-benefit-efficacy-and-skill.md) — related
+- [Self-modeling raised self-efficacy for learning, motivation, and posttest skill among below-grade-level children](self-modeling-raises-efficacy-and-skill.md) — related
+- [Poor mathematics performers are less intrinsically motivated, less metacognitively accurate, and overestimate their performances more often than well-performing peers in all grades](poor-math-performers-overestimate-and-less-motivated.md) — related

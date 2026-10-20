@@ -55,3 +55,5 @@ The report's effectiveness summary synthesizes three studies (2 RCTs meeting sta
 - [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](lips-supplemental-followup-mixed-findings.md) — related
 - [Earobics® has positive effects on alphabetics for K–3 beginning readers, based on four WWC-reviewed studies](earobics-positive-effects-alphabetics.md) — related
 - [Reading Recovery has potentially positive effects on alphabetics for beginning readers](reading-recovery-potentially-positive-alphabetics.md) — related
+- [Lexia Reading has potentially positive effects on alphabetics for beginning readers](lexia-reading-potentially-positive-alphabetics.md) — related
+- [PALS shows strong evidence of positive effects on first-grade literacy, with an average effect size of +0.23 across three studies](pals-strong-evidence-first-grade-literacy-es-023.md) — related

@@ -44,3 +44,4 @@ Qualitative reception report from approximately 400 participants in LLMs Unplugg
 
 ## Related Claims
 - [Workshop engagement reaches an inflection point at the first shareback of newly generated text, after which participant questions about LLMs become more incisive](shareback-inflection-point-engagement.md) — related
+- [In the pilot workshop, the LLM unreliably produced fill-in-the-blank snippets, often returning complete code solutions instead](pilot-llm-unreliable-fill-in-blank.md) — related

@@ -62,4 +62,7 @@ At M2, BCH analyses for second graders found no profile differences in text or K
 
 
 ## Related Claims
--
+- [Elementary school children show distinct latent profiles of procedural metacognition combining monitoring accuracy, restudy effectiveness, and decision accuracy across tasks](distinct-metacognition-profiles-lpa-children.md) — related
+- [Metacognition profile classifications differ between second and fourth graders](grade-level-differences-metacognition-profiles.md) — related
+- [Generalizability of metacognitive skills across tasks increases between ages eight and eleven](metacognition-generalizability-develops-with-age.md) — related
+- [For second graders, low metacognition at the first measurement point carries no extra risk of low metacognition one year later](second-graders-low-metacognition-not-persistent.md) — related

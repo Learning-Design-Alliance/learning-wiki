@@ -48,3 +48,5 @@ The report describes a large-scale study of "over 700 state preschool classrooms
 ## Related Claims
 - [Children from low-income families in economically diverse preschools show greater language gains than peers in less diverse programs](economically-diverse-preschool-language-gains.md) — related
 - [The article reviews evidence that aspects of the learning environment most closely associated with successful development of early academic competence differ by socioeconomic background](ses-differences-access-academically-auspicious-environments.md) — a broader claim this one bears on
+- [The ECE system is socioeconomically segregated because means-tested programs sort children by family income](ece-socioeconomic-segregation-means-testing.md) — related
+- [Universal PreK school-based classrooms are about as diverse as first-grade classrooms, while means-tested and community-based classrooms are more segregated](universal-prek-classroom-diversity.md) — related

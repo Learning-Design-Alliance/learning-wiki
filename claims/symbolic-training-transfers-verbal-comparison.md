@@ -47,3 +47,6 @@ In the verbal number comparison task, the time × group interaction was marginal
 - [Neither numerical training significantly improves Arabic number comparison performance](no-training-effect-arabic-number-comparison.md) — related
 - [Training effects on the non-symbolic number line are size-specific: non-symbolic training improves large numerosities, symbolic training small numerosities](number-line-training-size-specific-effects.md) — related
 - [Symbolic number magnitude training, but not non-symbolic training, significantly improves preschoolers' exact arithmetic](symbolic-magnitude-training-improves-preschool-arithmetic.md) — related
+- [The training shows no significant transfer to academic learning tasks, with only a marginal post-test advantage in number conservation](weak-academic-transfer-number-conservation-marginal.md) — related
+- [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — a broader claim this one bears on
+- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related

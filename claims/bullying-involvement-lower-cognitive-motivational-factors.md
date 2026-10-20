@@ -102,3 +102,6 @@ Subgroup meta-analysis restricted to bullies only (k = 2). No statistically sign
 ## Related Claims
 
 - [Bullying involvement is associated with lower academic achievement (pooled OR = 0.61)](bullying-involvement-lower-academic-achievement.md)
+- [Cognitive-motivational factors mediate the association between bullying victimisation and lower academic achievement (pooled OR = 0.74)](cognitive-motivational-factors-mediate-victimisation-achievement.md) — related
+- [The BPP intervention was followed by a large reduction in bullying victimisation at the research school relative to the control school](bpp-reduced-victimisation-versus-control.md) — related
+- [The bullying-achievement and mediation associations are moderated by design, assessment method, country, age and bullying type](moderators-of-bullying-achievement-association.md) — related

@@ -65,3 +65,7 @@ Same expert rubric evaluation; the mistake remediation dimension was not applica
 - [KITE's feedback led simulated students to improve revised answers in 24 of 27 non-already-correct interactions (88.89%)](kite-feedback-improves-simulated-student-revisions.md) — related
 - [The most common answer transition after KITE feedback was Partially Correct to Correct, occurring in 14 of 44 cases (31.82%)](kite-most-common-transition-partial-to-correct.md) — related
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
+- [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
+- [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
+- [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
+- [A Gemini-based creativity autorater scores real students' complex multimedia creativity tasks on par with human experts (item Kappa 0.66; total-score Pearson r = 0.88)](gemini-autorater-creativity-real-students.md) — related

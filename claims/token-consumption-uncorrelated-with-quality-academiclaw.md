@@ -44,3 +44,4 @@ Correlational analysis of trajectory logs from the six-model evaluation, using t
 
 ## Related Claims
 - [Safety and task quality are largely independent across models, implying safety guardrails impose no measurable performance tax](safety-quality-independence-academiclaw.md) — related
+- [Professional developers write prompts of moderate baseline quality, which does not meaningfully scale with programming experience](prompt-baseline-quality-not-scaled-with-experience.md) — related

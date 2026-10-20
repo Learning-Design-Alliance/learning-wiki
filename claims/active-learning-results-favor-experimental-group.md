@@ -49,3 +49,5 @@ Coding of basic article features for the 176 Freeman et al. (2014) articles foun
 - [Most active learning studies did not report group equivalence measures directly related to the dependent variable](group-equivalence-directly-related-rarely-reported.md) — related
 - [Implementation fidelity was assessed in fewer than 8% of active learning intervention studies](implementation-fidelity-rarely-assessed-active-learning.md) — related
 - [No active learning intervention study in the Freeman et al. (2014) set or the 2015–2022 sample met all 12 internal validity controls](no-active-learning-studies-meet-all-internal-validity-controls.md) — related
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
+- [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — related

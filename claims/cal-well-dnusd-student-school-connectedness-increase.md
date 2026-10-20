@@ -51,3 +51,5 @@ Annual administration of the California Healthy Kids Survey to secondary student
 - [School staff reports of mental health communication, emphasis, and referrals increased in DNUSD between 2021/22 and 2022/23](cal-well-dnusd-staff-mental-health-perceptions-increase.md) — related
 - [Secondary students' reported barriers to talking to a counselor or therapist declined in NHUHSD's California Healthy Kids Survey data](nhuhsd-chks-counselor-barriers-declined.md) — related
 - Oakland 11th graders reported improved school connectedness and safety after discipline reform — related
+- [Across nearly all race/ethnicity groups, transgender high school students report fewer school supports, lower safety, lower motivation, and lower connectedness than non-transgender peers](transgender-students-report-fewer-school-supports-lower-safety.md) — related
+- [Oakland Unified high school participation in Linked Learning career pathways rose from 49% in 2014 to 87.7% in 2020–21](linked-learning-pathway-participation-growth.md) — related

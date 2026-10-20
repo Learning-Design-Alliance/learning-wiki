@@ -47,3 +47,6 @@ A districtwide analysis of survey and interview data on Chicago's standards impl
 - Curriculum and instructional resources show more modest and mixed relationships with standards-aligned instructional practices — a broader claim this one bears on
 - Professional learning opportunities are strongly related to teachers' use of standards-aligned instructional practices in math and science — related
 - [One year of Teacher Potential Project participation improved teachers' overall English language arts instructional practices relative to district curriculum and professional development](tpp-one-year-improves-ela-instructional-practices.md) — related
+- [Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)](leadership-instruction-within-schools-program-quality.md) — related
+- [Math and science instruction improved in Chicago during the years of standards reform, based on student survey reports of classroom experiences before and after reform](chicago-instruction-improved-standards-reform.md) — related
+- [Collaboration with colleagues around instruction has consistently positive relationships with math and science instructional practices](colleague-collaboration-consistently-positive-practices.md) — related

@@ -45,3 +45,4 @@ Content analysis of 515 coded fading episodes from Tutor C's 551 fading occasion
 ## Related Claims
 - [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md) — related
 - [A contingent AI tutor places metacognitive demand equal to a question-only tutor and higher than an answer-on-request assistant](contingent-tutor-metacognitive-demand-matches-withholding-tutor.md) — related
+- [The agent's praise was indiscriminate affirmation: validation followed about half of participant turns regardless of what the participant said](indiscriminate-affirmation-reflection-agent.md) — related

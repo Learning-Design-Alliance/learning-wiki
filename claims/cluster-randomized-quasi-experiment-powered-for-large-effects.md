@@ -69,3 +69,4 @@ Sensitivity analysis reported in §4.2 using G*Power 3.1 (two-tailed independent
 - Required numbers of schools differ across school, classroom, and student random-assignment designs — related
 - The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards — related
 - Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods — related
+- [Edpuzzle qualifies for a Promising evidence rating based on one school-level randomized study](edpuzzle-promising-evidence-rating.md) — related

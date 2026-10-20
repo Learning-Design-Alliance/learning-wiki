@@ -44,3 +44,4 @@ Summary of regression discontinuity comparisons of students just above and just 
 
 ## Related Claims
 - [Selective and top-tier schools improve students' nonacademic experiences, with peer classroom behavior showing the largest differences](selective-top-tier-schools-improve-nonacademic-experiences.md) — related
+- [Selective enrollment students from low-income neighborhoods are less likely to attend selective colleges than similarly-performing low-income students who do not enroll](sehs-low-income-selective-college-enrollment.md) — a narrower finding that bears on this claim

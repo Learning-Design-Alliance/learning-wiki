@@ -44,3 +44,5 @@ A one-way ANCOVA compared child post-assessment scores between intervention and 
 
 ## Related Claims
 - [The Splash and Bubbles show was positively received, with most families reporting children enjoyed it and learned ocean science concepts](splash-bubbles-show-positive-reception-science-learning.md) — related
+- [The Hero Elementary playlist intervention showed no statistically significant effect on K-2 students' science knowledge (effect size 0.10, p ~ 0.38)](hero-elementary-playlists-no-significant-science-knowledge-effect.md) — related
+- [The playlist intervention showed no significant difference in post-implementation science attitudes on the Emerging STEM Learning Activation Survey](hero-elementary-playlists-no-significant-science-attitude-effect.md) — related

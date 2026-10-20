@@ -46,3 +46,4 @@ Correlational analysis (Spearman ρ with Benjamini-Hochberg FDR) of token-level 
 ## Related Claims
 - [Humanization works by systematically suppressing detector-salient surface cues — long-token ratio, AWL density, and lexical diversity — rather than fragmenting syntax](humanization-suppresses-detector-salient-cues.md) — related
 - [Detector flag rates on 2023–2025 original abstracts vary sharply by domain, with non-STEM rates far above STEM](non-stem-abstracts-flagged-more-than-stem.md) — related
+- [GPT-assisted writing shows higher lexical diversity, richness, and noun/non-stopword ratios, while independently authored writing shows higher adverb ratio and sentence-length variability](stylometric-feature-differences-gpt-vs-human.md) — related

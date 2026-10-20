@@ -49,3 +49,4 @@ The review reports that even after exam modifications, fail-rate disparities per
 - [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related
 - New York City teachers fail state certification examinations at far higher rates than teachers elsewhere in New York State — related
 - Michigan repealed its basic skills test requirement after finding it disproportionately excluded people of color from preparation programs — a narrower finding that bears on this claim
+- [Racial disparities in TPA pass rates appear in low-performing programs but not in programs with passing rates above 90%](racial-disparities-vary-with-program-performance.md) — related

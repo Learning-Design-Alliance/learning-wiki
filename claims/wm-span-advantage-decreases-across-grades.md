@@ -64,3 +64,4 @@ In the per-grade regressions of procedural latencies, span was predictive in all
 ## Related Claims
 - [As predicted by the adaptive strategy choice model, children's retrieval frequency correlates with retrieval efficiency but not with procedural efficiency](retrieval-frequency-correlates-retrieval-efficiency.md) — related
 - [Retrieval use increases with grade, and the small-versus-large difference in retrieval use decreases significantly between fourth and sixth grade only](retrieval-use-grade-problem-size-interaction.md) — related
+- [Simple subtraction in adults relies heavily on strategy use, which disadvantages participants under limited working memory resources](adult-subtraction-strategy-reliance-working-memory-cost.md) — related

@@ -68,3 +68,5 @@ In the same ANCOVA, initial essay quality was a significant covariate, F(1, 64) 
 - [GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not](genai-feedback-quality-tracks-initial-essay-quality.md) — related
 - [Revising the feedback prompt toward essay-grounded guidance was associated with more specific feedback in an observational before–after comparison](prompt-revision-increased-feedback-specificity.md) — related
 - [Students' initial knowledge level (midterm scores) did not significantly influence improvement in lab scores, indicating it did not confound the feedback-source difference](midterm-knowledge-did-not-confound-feedback-use.md) — related
+- [Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality](zero-shot-feedback-quality-comparable-to-teacher.md) — related
+- [Expressed helpfulness of AI feedback showed no association with next essay reflection depth](helpfulness-no-association-next-reflection-depth.md) — related

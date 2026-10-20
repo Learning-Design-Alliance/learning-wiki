@@ -46,3 +46,7 @@ The digest argues, citing Kohn (1993), that "most praise is tantamount to verbal
 
 - [Rewards cause people to lose interest in whatever they were rewarded for doing, undermining intrinsic motivation](rewards-undermine-intrinsic-interest.md)
 - [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](extrinsic-rewards-deplete-intrinsic-motivation.md) — related
+- [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
+- [A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking](teacher-responses-can-close-off-pupil-thinking.md) — related
+- [Positive reinforcement and praise correlate positively with learning while criticism correlates negatively](praise-positive-criticism-negative-learning.md) — reports the opposite
+- [School-level constraints prevented two of nine sites from using the four-part written praise strategy](school-constraints-blocked-written-praise-two-sites.md) — related

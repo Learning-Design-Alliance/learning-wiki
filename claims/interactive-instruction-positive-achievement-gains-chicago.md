@@ -49,3 +49,5 @@ HLM analysis linking teacher survey reports of interactive instruction to ITBS a
 - [Authentic Pedagogy Assignments Predict Higher Achievement Gains in Chicago Elementary Schools](authentic-assignments-greater-itbs-gains.md) — related
 - Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics — related
 - [Frequency, content, and quality of professional development are each positively related to elementary teachers' use of interactive instruction](pd-elements-related-interactive-instruction.md) — related
+- [Interactive instruction is more common in classrooms with higher prior achievement; didactic and review are more common in lower-achieving classrooms](instruction-varies-by-class-achievement-composition.md) — related
+- [Interactive instruction declines and didactic instruction increases across elementary grade levels](interactive-declines-didactic-increases-across-grades.md) — related

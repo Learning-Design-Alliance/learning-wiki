@@ -64,3 +64,6 @@ Review reports the follow-up analysis of Jamieson-Noel and Winne (2003): self-re
 ## Related Claims
 
 - [Self-report measures of SRL capture perceptions of strategy use rather than implementation quality, and a combined trace-data approach may be best](self-report-srl-limitations-combined-approach.md)
+- [Students are better calibrated in predicting achievement than in reporting specific study tactics (Winne & Jamieson-Noel 2002)](achievement-vs-tactic-calibration-winne-jamieson-noel.md) — related
+- [When SRL is measured at a fine grain size (specific strategies), self-reports show low calibration with behavioral measures](fine-grained-srl-self-reports-low-calibration.md) — related
+- [Self-reports of achievement goal orientations diverge markedly from traced goal orientations, which predict reading achievement while self-reports do not](goal-orientation-self-reports-diverge-from-traces.md) — related

@@ -49,3 +49,5 @@ The study compared disengagement of students remotely administered an adaptive i
 - [American Indian/Alaska Native students showed higher disengagement under remote testing than in-school testing](american-indian-alaska-native-higher-disengagement-remote.md) — related
 - [The grade-level disengagement pattern was not meaningfully different between remote and in-school testing](disengagement-pattern-similar-remote-versus-in-school.md) — related
 - [Student test-taking disengagement on remotely administered adaptive interim assessments differs from disengagement on the same assessment administered in school](remote-interim-testing-disengagement-differs-from-in-school.md) — related
+- [Test engagement was high across all grades on fall 2020 MAP Growth tests in both administration modes](map-growth-fall-2020-high-test-engagement.md) — reports the opposite
+- [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — a broader claim this one bears on

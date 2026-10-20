@@ -53,3 +53,6 @@ The report's Key Findings state, based on analysis of district data on observati
 - [Observation scores and student surveys were moderately correlated with student learning and likely captured different dimensions of teaching quality](ratings-moderately-correlated-with-student-learning.md) — related
 - [Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate](observation-scores-rated-most-accurate-vam-least.md) — related
 - [Most variation in teacher evaluation scores is within schools rather than between schools](within-school-variation-dominates-teacher-evaluation-scores.md) — related
+- [Value-added models were used to estimate teacher and principal effectiveness measures in Charleston County School District in 2013-2014](value-added-models-estimate-charleston-teacher-principal-effectiveness-2013-14.md) — related
+- [Pittsburgh Public Schools used value-added models to assess educational quality as of the 2014-15 school year](pittsburgh-vam-report-2016-documents-district-use.md) — related
+- [Developers of the principal practice instruments provided only partial information about the instruments' reliability and validity](practice-instrument-partial-reliability-validity-info.md) — related

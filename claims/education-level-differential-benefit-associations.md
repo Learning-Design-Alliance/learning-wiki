@@ -63,3 +63,4 @@ Hierarchical regression (Models 13–15) on the same sample predicting leisure a
 
 ## Related Claims
 - [Gen AI usage duration longer than one year is associated with higher perceived academic assistance, skill development, psychological and emotional support, and daily life benefits](usage-duration-higher-perceived-benefits.md) — related
+- [Information risk perception is negatively associated with psychological and emotional support, daily life, and leisure and entertainment benefits](information-risk-negative-emotional-daily-leisure.md) — related

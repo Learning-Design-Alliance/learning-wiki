@@ -49,3 +49,4 @@ Weighted linear regression on the NEPS SC6 adult sample (n = 5015 with the mathe
 - [High-performance feedback increases performance expectations more than low-performance feedback, with additive effects of age and control beliefs](high-performance-feedback-increases-performance-expectations.md) — related
 - [Age negatively and education positively predict memory self-efficacy, and age negatively predicts memory performance](age-education-predict-memory-self-efficacy-and-performance.md) — related
 - [Gender differences in global performance judgments follow domain stereotypes: men higher in mathematics, women higher in reading, with no gender differences in bias](gender-stereotyped-performance-judgments-adults.md) — related
+- [Reflective judgment scores increased consistently with age and educational level](reflective-judgment-increases-age-education.md) — related

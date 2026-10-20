@@ -44,3 +44,6 @@ Area-level repeated-measures ANCOVA of on-task metacognitive regulation; childre
 
 ## Related Claims
 - [Musical play intervention significantly increased children's metacognitive knowledge of strategies at interview](musical-play-intervention-metacognitive-knowledge-of-strategies-gains.md) — related
+- [SES moderated change in emotional/motivational regulation, with lower-SES children increasing and higher-SES children slightly decreasing](ses-moderates-emotional-motivational-regulation-change.md) — related
+- [Number of rubric sessions interacts negatively with mean age: intervention length matters less for older students](sessions-mean-age-interaction-rubrics.md) — related
+- [Metacognition interventions enhance cognitive and academic outcomes in typically developing children up to age 12 at immediate post-test (g = 0.48)](metacognition-interventions-effective-immediate-posttest-young-children.md) — related

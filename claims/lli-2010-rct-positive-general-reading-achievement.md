@@ -52,3 +52,4 @@ Randomized controlled trial of LLI for grades K–2 in nine rural and suburban s
 - Teachers in the Gallagher (2010) evaluation responded positively to LLI, though some found the lesson design too fast-paced — related
 - [Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14–0.22 all statistically significant](content-domain-effects-similar-range.md) — related
 - [In the 2013 RCT, subgroup findings for female students in grades 1–2 on the STAR Early Literacy Assessment were positive but not statistically significant, yet large enough to be considered substantively important](lli-star-female-subgroup-positive-nonsignificant.md) — related
+- [LLI had no impact on secondary students' reading comprehension in the Oakland RCT](lli-no-impact-adolescent-reading-comprehension.md) — related

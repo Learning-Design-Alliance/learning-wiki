@@ -47,3 +47,5 @@ Treatment analysis of answers to 27 on-screen questions across two scenarios (10
 - [Participants rated the complex three-population scenario as more difficult than the simple one-population scenario](visigarp-scenario2-difficulty.md) — related
 - [Participants held generally positive attitudes toward VISIGARP but rated diagram layout clarity low while finding layout easy to adjust](visigarp-attitudes-layout.md) — related
 - [Diagram-comprehension scores were already high before the treatment and showed no significant pre-to-post increase](visigarp-diagram-prepost-null.md) — related
+- [Students were reasonably accurate overall across the nine scored interview questions (M = 6.17, SD = 2.12), with accuracy varying by question type](overall-interview-accuracy-reasonable.md) — related
+- [Undergraduate students classify common GenAI ethical scenarios with high accuracy, with a pronounced ceiling effect](undergraduates-high-accuracy-genai-ethical-scenarios.md) — related

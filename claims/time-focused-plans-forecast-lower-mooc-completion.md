@@ -45,3 +45,4 @@ Forecasting analysis from the same HarvardX field experiment: plan contents "cou
 - [Planning prompts increase payment for certificates in MOOCs by 40%](planning-prompts-increase-certificate-payment.md) — related
 - [Open-ended planning prompts at the start of a MOOC increase course completion by 29%](planning-prompts-increase-mooc-completion.md) — related
 - [Help seeking negatively predicts goal attainment in MOOCs](help-seeking-negative-predictor-mooc-goal-attainment.md) — related
+- [Goal setting and strategic planning positively predict attainment of personal course goals in MOOCs](goal-setting-strategic-planning-predict-mooc-goal-attainment.md) — related

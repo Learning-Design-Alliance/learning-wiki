@@ -46,3 +46,4 @@ Population-level comparison of six LLMs' feedback focus type distributions again
 - [LLM feedback adaptivity to student performance occurs only in frequently produced focus types and only in large or closed models](llm-performance-adaptivity-limited-frequent-types.md) — related
 - [Prompting with category information or few-shot examples yields limited improvement in distribution alignment, with zero-shot closest for most models](prompting-strategies-limited-alignment-gain.md) — related
 - [Teachers adapt feedback focus across draft stages in five types while the best model shows significant changes in only three](teacher-draft-stage-adaptivity-exceeds-llms.md) — related
+- [Instructors and LLMs distribute feedback similarly across the five argumentative goals, with Claim receiving the most feedback from both](similar-goal-distribution-instructor-llm-feedback.md) — related

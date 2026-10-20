@@ -62,3 +62,7 @@ The study's outcome measures include both science test scores and proficiency on
 ## Related Claims
 
 - [Field trip effects on science achievement are largest for Hispanic students and students qualifying for free or reduced-price lunch](field-trip-effects-largest-hispanic-frpl-students.md) — a narrower finding that bears on this claim
+- [The packet's authors assert that pre-, on-site, and post-visit activities build on students' newly gained knowledge when performed in series](field-trip-activity-series-builds-knowledge.md) — related
+- [In the PISG case study, occurrences of high-level grounding and high-level testing co-occurred with more occurrences of high-level inquiry processes](pisg-case-high-level-grounding-testing-linked-high-inquiry.md) — related
+- [The PISG and PSGI classroom script sequences showed no statistically significant difference in high- and low-level grounding and testing processes, alongside a trend favoring PISG](pisg-psgi-no-significant-grounding-testing-difference.md) — related
+- [A river-study conceptual model on handhelds supported observation, analysis, experimentation, and report writing for 72 secondary students in fieldwork](river-conceptual-model-fieldwork-case.md) — related

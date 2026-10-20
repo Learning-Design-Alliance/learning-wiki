@@ -49,3 +49,4 @@ Comparison against prior literature (Table 3) reported in the results section: G
 - Verifier models raise PII detection precision above all other tested methods but reduce recall relative to fine-tuned GPT-4o-mini — related
 - [GPT-4 de-identification performance varies by course, with lower agreement in courses with longer posts and more qualitative discussion](gpt4-redaction-performance-varies-by-course-content.md) — related
 - [During active transfer, the application rejected learner coaching and export requests and redacted earlier project content in all 120 episodes](praxis-transfer-restrictions-enforced.md) — related
+- [GPT-4 detected 45 PII words that human coders failed to redact across all nine courses](gpt4-detects-pii-missed-by-human-coders.md) — related

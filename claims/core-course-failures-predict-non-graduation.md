@@ -68,3 +68,5 @@ Correlational analysis of 1999 CPS freshmen by subject of the failed course. The
 - More Barton freshmen failed math than English, and many failing students failed both subjects — related
 - [Freshman failures clustered in math more than English, and many students failed both core subjects](kenwood-freshman-fs-english-math.md) — related
 - [Gap analysis comparing observed to predicted DFW rates recasts course rankings, revealing courses that exceed or fall below expectations in a way raw DFW ranking does not](gap-analysis-predicted-versus-observed-dfw-recasts-rankings.md) — related
+- [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](freshman-warning-indicators-identify-70-percent-nongraduates.md) — related
+- [The first two semester course failures in ninth grade are associated with a 30 percentage point decrease in the probability of graduating](first-two-course-failures-30-point-graduation-decrease.md) — related

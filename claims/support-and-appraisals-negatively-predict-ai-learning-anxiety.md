@@ -52,3 +52,5 @@ SEM structural model in the same 547-student sample. The article reports that "A
 - [Perceived school support positively predicts AI learning self-efficacy and AI perceived usefulness among Chinese undergraduates](school-support-predicts-ai-self-efficacy-usefulness.md) — related
 - [Indirect paths through AI learning self-efficacy and perceived usefulness account for about 69.5% of the total association between school support and AI learning anxiety](indirect-appraisal-paths-dominate-support-anxiety-association.md) — related
 - [Perceived usefulness negatively moderates the relationship between academic self-efficacy and academic stress](perceived-usefulness-moderates-efficacy-stress.md) — related
+- [In a first-order support-dimension model, only informational support retained a significant path to AI learning self-efficacy](informational-support-unique-dimension-path-self-efficacy.md) — related
+- [Academic self-efficacy does not significantly predict academic stress, and social influence does not directly predict AI dependence](ase-stress-and-si-dependence-null-paths.md) — related

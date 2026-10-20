@@ -44,3 +44,5 @@ Exploratory analysis of the generalized condition only, comparing compliance bet
 
 ## Related Claims
 - [In the generalized condition, compliance with several suggested actions was associated with higher essay scores, with one exception: note-taking after the last scaffold was associated with lower essay scores.](compliance-suggested-actions-essay-scores-mixed.md) — related
+- [Enacted Feedback yields higher workflow-specific uptake of AI-generated feedback than Directed and Self-Directed Feedback workflows](enacted-feedback-higher-uptake-than-directed-self-directed.md) — related
+- [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related

@@ -87,3 +87,6 @@ Girls' section of Table 2, fifth-year row, printed verbatim: "Fifth Year 1997–
 - Among Barton's class of 1993, more girls than boys graduated within five years (25 of 46 versus 19 of 35) — related
 - Of Kenwood's class of 1997 (429 entering ninth graders in 1993), 269 graduated within five years while 77 dropped out and 73 left CPS — related
 - [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — a broader claim this one bears on
+- [Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls](condensed-eot-race-gender-equity-gaps.md) — related
+- [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
+- [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related

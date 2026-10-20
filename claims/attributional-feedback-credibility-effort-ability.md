@@ -64,3 +64,4 @@ Study of children with severe reading deficiencies during reading comprehension 
 ## Related Claims
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
 - [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](cognitive-modeling-versus-didactic-instruction-division.md) — related
+- [Proximal goals produced higher motivation, skill, self-efficacy, and intrinsic interest than distant or general goals](proximal-goals-benefit-efficacy-and-skill.md) — related

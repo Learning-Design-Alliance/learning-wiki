@@ -65,3 +65,4 @@ Repeated measures ANOVA on self-efficacy in the same quasi-experiment. "the tuto
 - [The review tutorial yields higher post-training task relevance than the control, but no condition effect on self-efficacy](review-condition-raises-task-relevance-not-self-efficacy.md) — related
 - [DBT-based video tutorials significantly improve procedural knowledge for software tasks from pre-test to practice and post-tests](dbt-video-tutorials-improve-procedural-knowledge.md) — related
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
+- [Procedural knowledge gained during video training declines significantly from practice to the post-tests](practice-to-posttest-decline-software-video.md) — related

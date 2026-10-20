@@ -52,3 +52,5 @@ The review reports that, unlike the three orientation tests, "a relatively high 
 - A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for — a broader claim this one bears on
 - Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents — related
 - [Intellectual style is a way of directing intelligence, not a level of it](style-distinct-from-intelligence-level.md) — related
+- [Children scoring highly on one intelligence tend to score highly on others, consistent with general intelligence](high-scorers-across-intelligences-support-g.md) — related
+- [Men scored higher than women on rated divergent thinking creativity in this sample, with no sex differences in fluid intelligence or the executive functions.](sex-difference-creative-potential-sample.md) — related

@@ -45,3 +45,7 @@ Qualitative study based on interviews conducted throughout 2019 with district of
 ## Related Claims
 - [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — reports the opposite
 - [High-performing CHSRI schools shared four practices for guiding and sustaining instructional improvement: defining leadership responsibilities, creatively distributing them, institutionalizing routines, and focusing team work on school-wide goals](chsri-four-improvement-practices.md) — related
+- [Teachers are more likely than ever to hold formal performance goals as districts align improvement efforts](teachers-formal-performance-goals-increasing.md) — related
+- [Availability of CAASPP statewide assessment data changed MiC leadership teams' discussions and appeared to accelerate districts' ability to monitor improvement](caaspp-data-accelerated-improvement-monitoring.md) — related
+- [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](cross-level-team-composition-buy-in.md) — related
+- [Leadership teams can use CALL survey results to select the guide sections most useful for their improvement plan](call-results-inform-guide-section-selection.md) — related

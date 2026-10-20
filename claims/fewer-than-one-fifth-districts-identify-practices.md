@@ -45,3 +45,5 @@ The authors' canvassing of district websites and conversations with district lea
 - Student portfolios are reported to be a useful method for noticing student growth on Portrait of a Graduate competencies — related
 - [Districts use a wide variety of methods to assess Portrait of a Graduate skills, varying across contexts and grade levels](districts-use-varied-pog-assessment-methods.md) — related
 - [Districts report more success with future-ready skill assessment focused on student growth than on proficiency](growth-over-proficiency-pog-assessment.md) — related
+- [Digital Promise research reports significant cross-sector alignment on four mindsets and six skill sets vital to lifelong success](four-mindsets-six-skillsets-alignment.md) — related
+- [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related

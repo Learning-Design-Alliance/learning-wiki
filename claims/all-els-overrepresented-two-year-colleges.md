@@ -67,3 +67,4 @@ Regression models adjusting for student characteristics (Table A.6) found gaps d
 ## Related Claims
 - [Long-term and late-arriving English Learners were considerably less likely to enroll in four-year colleges than their peers](active-els-underrepresented-four-year-colleges.md) — related
 - [Chicago graduates who enrolled in the most popular colleges had lower adjusted graduation rates than similar Chicago students who enrolled elsewhere](popular-colleges-lower-graduation-rates-chicago-students.md) — related
+- [Students who began as English Learners graduated from high school at a slightly higher rate than never-classified EL students and enrolled in college at about the same rate, with more two-year enrollment](cps-english-learner-attainment-2020.md) — related

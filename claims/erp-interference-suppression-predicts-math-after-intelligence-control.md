@@ -66,3 +66,4 @@ Regression analyses predicting schooling skills from ERP-IS and other measures. 
 
 ## Related Claims
 - [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — a broader claim this one bears on
+- [Interference suppression assessed at 28–36 months is the only significant predictor of early orthographic knowledge at 4–6 years in the full regression model](interference-suppression-predicts-early-orthographic-knowledge.md) — related

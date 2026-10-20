@@ -48,3 +48,4 @@ A 2022 research discovery drawn from teacher reflections: a teacher wrote about 
 - [Aspirational capital and kinship sustained the Tough As Nails CT initiative through the COVID-19 pandemic](appalachian-cultural-wealth-sustained-ct-project-covid.md) — related
 - Appalachia's problem-solving heritage may be getting lost or forgotten as the coal industry collapses — related
 - [Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization](eastern-ky-educators-invest-in-k16-cs-ct.md) — related
+- [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](rural-community-commitment-boosts-turnaround.md) — a broader claim this one bears on

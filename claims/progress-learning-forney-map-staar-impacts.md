@@ -69,3 +69,4 @@ The same Forney ISD quasi-experimental study also reported statistically signifi
 - Progress Learning qualifies for a Promising evidence rating based on one quasi-experimental study — a broader claim this one bears on
 - Across two retrospective quasi-experimental studies involving 8,806 students, Progress Learning averaged an effect size of +0.08, earning a Promising evidence rating — related
 - TalkingPoints use is associated with significant math score improvements in grades 3-8 — related
+- [Two student-level randomized studies in California, Maine, and Minnesota high schools found significant positive impacts on NWEA MAP reading (average effect size +0.09)](barr-student-level-rcts-nwea-map-reading-009.md) — related

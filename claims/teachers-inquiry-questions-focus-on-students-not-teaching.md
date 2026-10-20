@@ -46,3 +46,4 @@ Think-aloud interview question Q3 with ten teachers. The discussion adds that ev
 - [Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work](teacher-inquiry-incentives-direct-benefits-routine.md) — related
 - [Most schools engaged in inquiry cycles, but teams completed only about half of the cycles they initiated, averaging 3.2 cycles per year](inquiry-cycles-partial-completion-3-2-per-year.md) — related
 - [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related
+- [Teachers reported redesigning instruction toward learner question formulation, comparison, and inquiry when using AI](designing-for-learner-agency-dimension.md) — related

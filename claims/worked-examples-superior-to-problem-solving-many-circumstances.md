@@ -45,3 +45,4 @@ The thesis states this effect as established by prior research and tests its bou
 ## Related Claims
 - [When guidance was presented in a unitary (integrated) format, worked examples were superior to conventional problems (Experiments 4 and 5)](unitary-format-worked-examples-superior-conventional-problems.md) — a narrower finding that bears on this claim
 - [The review reports that worked examples benefit inexperienced learners but become redundant with increased experience, when problem solving proves superior](expertise-reversal-worked-examples-review.md) — related
+- [For circle geometry problems, guidance in the form of subgoals or worked examples increased cognitive load during problem processing (Experiments 1-3)](guidance-subgoals-worked-examples-increase-cognitive-load-geometry.md) — related

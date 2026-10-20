@@ -65,3 +65,4 @@ Delayed-session regression (N = 91, one participant missing) on delayed comprehe
 - [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](quiz-accuracy-declines-after-one-week-delay.md) — related
 - [Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks](retrieval-practice-reading-comprehension-no-significant-retention-interval-difference.md) — related
 - [Misconceptions impair comprehension of a standard text, and both a refutation text and a think sheet compensate for this detrimental effect](refutation-text-think-sheet-compensate-misconception-comprehension.md) — related
+- [Misconceptions decreased over time in all three instructional methods, with no difference between methods](misconceptions-decreased-similarly-all-methods.md) — possibly the same claim (merge candidate)

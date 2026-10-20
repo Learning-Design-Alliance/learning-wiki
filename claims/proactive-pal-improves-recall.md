@@ -43,4 +43,6 @@ Univariate ANOVA (F(1, 68) = 9.67, p < .01) from the 2x2 experiment; recall was 
 
 
 ## Related Claims
--
+- [A responsive PAL does not improve learner attitudes toward the agent, and competency and interaction type show no significant interaction](responsive-pal-no-attitude-benefit-no-interaction.md) — related
+- [Proactive PALs yielded higher recall than responsive PALs, with the advantage differing by learner academic strength](proactive-pal-higher-recall-than-responsive.md) — possibly the same claim (merge candidate)
+- [In the responsive condition, learners requested less than half of the information the PAL was designed to deliver](responsive-pal-requests-underused.md) — related

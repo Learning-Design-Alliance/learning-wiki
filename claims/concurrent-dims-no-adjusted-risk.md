@@ -42,3 +42,8 @@ Logistic regression in the same longitudinal cohort, contrasting the Concurrent 
 
 ## Related Claims
 - [Sleep education at school improves academic performance in children](sleep-education-improves-academic-performance.md) — related
+- [Children with poor academic performance show more sleep problems, delayed pubertal development, poorer family economy, lower parental education and more mental health problems than average-to-good performers](poor-performers-more-dims-and-mental-health-problems.md) — related
+- [The association between sleep problems and poor school performance is partly mediated by children's internalizing and externalizing mental health problems, with a direct effect remaining only for persistent DIMS](dims-mediated-by-mental-health.md) — related
+- [Persistent sleep problems (DIMS at both ages 7–9 and 11–13) increase the risk of poor academic performance even after adjusting for mental health, gender, pubertal status and SES](persistent-dims-poor-academic-performance.md) — related
+- [Transitory sleep problems (DIMS at age 7–9 only) do not increase the risk of later poor academic performance](transitory-dims-no-increased-risk.md) — related
+- [Short sleep duration at age 3 was not associated with quality of life at about age 13](sleep-quality-of-life-null-longitudinal.md) — related

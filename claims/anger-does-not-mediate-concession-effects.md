@@ -44,3 +44,6 @@ Bootstrap mediation analysis (Hayes procedure, 10,000 bootstrap samples) run on 
 
 ## Related Claims
 - [Refutation texts did not promote beneficial selection of multimedia material by student teachers](refutation-texts-no-transfer-material-selection.md) — related
+- [Adding concessive statements to refutation texts yields no added benefit for conceptual change about multimedia-learning misconceptions](concessive-statements-no-added-benefit-conceptual-change.md) — related
+- [Extraneous cognitive load did not mediate the detrimental effect of seductive details in this online study](ecl-mediation-not-replicated-online.md) — related
+- [The intervention did not enhance students' sourcing in specifying the information need](sourcing-intervention-no-effect-specifying-information-need.md) — related

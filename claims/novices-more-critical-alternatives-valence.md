@@ -49,3 +49,5 @@ Loglinear analysis of 207 coded alternative-strategy clauses showed a significan
 - [Expert and novice teachers do not differ significantly in the number of classroom events they notice when reflecting on their own MET video footage](expert-novice-no-difference-noticed-events-met.md) — related
 - [The association between expertise and the valence of noticing and of alternatives holds after controlling for subject, grade level, minority status, and gender](expertise-valence-association-robust-to-controls.md) — a broader claim this one bears on
 - [Expert and novice teachers do not differ significantly in the number of alternative teaching strategies they mention when reflecting on their own MET videos](expert-novice-no-difference-alternatives-count.md) — related
+- [Novice teachers notice more negative classroom events than positive ones, whereas expert teachers show the opposite pattern when reflecting on their own MET videos](novices-more-negative-noticing-valence.md) — related
+- [Novice teachers hold misconceptions about differentiation, such as equating DI with personalized instruction](novice-teacher-di-misconceptions.md) — related

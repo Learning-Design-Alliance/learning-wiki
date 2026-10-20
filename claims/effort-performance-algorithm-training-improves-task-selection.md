@@ -46,3 +46,5 @@ The review reports, citing van Gog, Hoogerheide, and van Harsel, a series of stu
 - [Video modeling training of self-assessment and task-selection skills improves secondary students' problem-solving performance after a self-regulated learning phase](video-modeling-srl-training-improves-posttest-performance.md) — a broader claim this one bears on
 - [Task-selection skills trained with video modeling examples in biology transfer to task selection in a different domain (math)](task-selection-skills-transfer-across-domains.md) — related
 - [Heuristic task-selection training is not more effective for transfer than algorithmic training](heuristic-not-superior-to-algorithmic-transfer.md) — related
+- [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — related
+- [Effort appraisals correlate negatively with monitoring judgments: high mental effort is associated with poorer performance judgments](effort-appraisals-negative-correlation-monitoring.md) — related

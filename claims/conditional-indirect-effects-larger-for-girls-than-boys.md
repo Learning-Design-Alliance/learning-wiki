@@ -44,3 +44,4 @@ Conditional indirect effect analysis within the moderated mediation models. The 
 ## Related Claims
 - [Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys](gender-moderates-educational-processes-to-social-emotional-competence-link.md) — related
 - [Gender moderates the direct effect of parental beliefs and interests on children's social–emotional competence but not the direct effect of structural family characteristics](gender-moderates-direct-effect-of-parental-beliefs-not-structural-characteristics.md) — related
+- [Educational processes fully mediate the effects of structural family characteristics and parental beliefs and interests on children's social–emotional competence](educational-processes-fully-mediate-home-environment-effects-on-social-emotional-competence.md) — related

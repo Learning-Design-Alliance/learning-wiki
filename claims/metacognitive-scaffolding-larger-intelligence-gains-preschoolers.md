@@ -46,3 +46,5 @@ The abstract reports the study's between-group comparison of intelligence gains 
 - [Metacognitive scaffolding plus executive attention training yields significant increases in the N2 ERP component associated with conflict processing in preschoolers](metacognitive-scaffolding-n2-erp-increase-children.md) — related
 - [Changes in the N2 ERP component predict intelligence gains in the metacognitive scaffolding group](n2-change-predicts-intelligence-gains-metacognitive-group.md) — related
 - [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](reflection-training-improves-dccs.md) — related
+- [Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain](narrow-transfer-computerized-ef-training.md) — a broader claim this one bears on
+- [Task-switching training improves untrained switching and other executive functions in school-aged children, though transfer findings are heterogeneous](task-switching-training-transfer-ef.md) — related

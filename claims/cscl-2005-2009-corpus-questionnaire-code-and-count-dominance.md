@@ -47,3 +47,8 @@ The editorial reports findings from Jeong, Hmelo-Silver and Yu's analysis of CSC
 
 - [Between 2005 and 2009 only around 11% of CSCL papers were underpinned by information processing theory, while constructivism (33%), socio-cultural theories (25%) and social psychology (15%) were most popular](cscl-theoretical-framework-distribution-2005-2009.md)
 - [School climate measurement relies heavily on student self-report questionnaires, with families and observational methods rarely represented](student-selfreport-dominates-climate-measurement.md) — related
+- [Analyses of the CSCL literature show statistical measures at the individual unit of analysis dominate published CSCL research despite calls for group-level analysis](individual-unit-analysis-dominates-cscl-methods.md) — related
+- [Lag-sequential Analysis reveals temporal ordering patterns in CSCL interaction that traditional coding-and-counting approaches hide](lag-sequential-analysis-reveals-interaction-ordering.md) — related
+- [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
+- [Sequential analysis of discourse reveals meaning-making processes in small-group CSCL interactions](sequential-analysis-of-small-group-cognition.md) — related
+- [Sequential analysis methods for discussion forums avoid the loss of sequential interaction information in coded-posting statistics](sequential-analysis-preserves-interaction-information.md) — related

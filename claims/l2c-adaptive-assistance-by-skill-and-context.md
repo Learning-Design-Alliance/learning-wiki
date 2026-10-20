@@ -45,3 +45,4 @@ Qualitative inspection of the blending vector along example trajectories (Figure
 ## Related Claims
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [L2C coaching significantly reduces learners' lap times and failure counts from pre- to post-coaching in FPV drone racing](l2c-within-subject-lap-time-failure-gains.md) — related
+- [L2C outperformed both the Rule-based Fading and Minimally-invasive Assistance baselines on lap time and failure count](l2c-outperforms-rbf-mia-baselines.md) — related

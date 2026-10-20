@@ -45,3 +45,4 @@ Manipulation check in Experiment 2 using the goal questionnaires: "the average r
 ## Related Claims
 
 - [Preparing for oral assessments changes student study habits toward understanding over memorization](oral-assessments-change-study-habits.md)
+- [Guided LiquidText users redistribute task time toward document processing and away from writing](guidance-time-reallocation-multiple-document-task.md) — related

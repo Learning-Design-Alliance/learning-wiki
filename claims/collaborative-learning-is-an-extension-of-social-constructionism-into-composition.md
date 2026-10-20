@@ -48,3 +48,5 @@ Theoretical argument in a conference paper, reporting no data. It reasons from t
 - Reacculturation into a new community is argued to be virtually impossible alone and to require collaboration — related
 - Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing — related
 - [Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement](collaborative-writing-methods-predate-the-collaborative-learning-movement.md) — related
+- [Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say](collaborative-writing-recommendations-argued-to-produce-active-student-writers.md) — a narrower finding that bears on this claim
+- [Language and dialogue operationalize the networking capacities that connectivism values](language-operationalizes-network-learning.md) — related

@@ -74,3 +74,5 @@ Both findings come from one conference-paper synthesis (Guskey & Gates 1985). Th
 - [Mastery learning sections show higher earned credit rates than comparable non-mastery sections at the City Colleges of Chicago](mastery-learning-higher-earned-credit-rates.md) — related
 - [Group-based mastery learning improves retention of learned material, with an average effect size of .62 across four studies](mastery-improves-retention.md) — related
 - [Non-instructional time averages 23 percent in observed Chicago elementary classrooms, with half of teachers at 14 percent and half at 30 percent](non-instructional-time-23-percent-teacher-split.md) — related
+- [Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students](mastery-effects-larger-elementary.md) — related
+- [Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage](self-paced-mastery-programs-reduce-college-course-completion.md) — reports the opposite

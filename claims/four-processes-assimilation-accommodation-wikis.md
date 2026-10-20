@@ -48,3 +48,6 @@ Definitional statement of the model's central taxonomy, applying Piaget's assimi
 - [Externalizing knowledge into a wiki can itself produce individual learning through deeper processing](externalization-produces-individual-learning.md)
 - [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](medium-incongruity-inverted-u-cognitive-conflict.md)
 - [Topic valence is proposed to relate linearly to perceived cognitive conflict and interest in contributing](valence-linearly-relates-cognitive-conflict.md)
+- [Exploratory analyses find evidence for a relation between aspects of the collaborative process and knowledge convergence](process-aspects-relate-to-knowledge-convergence-exploratory.md) — related
+- [Wikipedia history analysis shows external assimilation: a user added only the CSILE/Knowledge Forum link without further changes](wikipedia-cscl-external-assimilation-example.md) — a narrower finding that bears on this claim
+- [Wikipedia history analysis shows external accommodation: the AIDS origin article progressively weakened and integrated the contentious polio vaccine theory](wikipedia-aids-origin-external-accommodation.md) — a narrower finding that bears on this claim

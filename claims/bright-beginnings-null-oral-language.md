@@ -50,3 +50,6 @@ The PCER Consortium (2008) randomized trial assessed oral language with the PPVT
 - [Headsprout Early Reading has a statistically significant positive effect on the oral language of at-risk preschool children](headsprout-positive-oral-language-preschool.md) — related
 - [Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children](headsprout-positive-print-knowledge-preschool.md) — related
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool oral language](prek-mathematics-no-oral-language-effects.md) — related
+- [Pre-K Mathematics shows uncertain effects on preschool language outcomes](pre-k-mathematics-uncertain-language-effects.md) — related
+- [Waterford Early Reading Level One™ shows no discernible effects on preschool children's oral language](waterford-level-one-no-discernible-oral-language-effects.md) — related
+- [Bright Beginnings shows no discernible effects on preschool phonological processing (effect size -0.08, not statistically significant)](bright-beginnings-null-phonological-processing.md) — related

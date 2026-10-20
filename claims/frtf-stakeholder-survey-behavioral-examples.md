@@ -66,3 +66,4 @@ The selected steering committee, comprising experts in WIL and talent developmen
 - A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents — related
 - [Peer-reviewed research and industry research describe soft skills that employers seek in new hires](peer-reviewed-and-industry-research-soft-skills-employers-seek.md) — a broader claim this one bears on
 - [Much student-consultation activity embeds unwitting manipulation of students rather than genuine voice](student-consultation-embeds-unwitting-manipulation.md) — related
+- [Educators sorted 11 talents into the proposed FRTF clusters significantly above chance, from 94.8% (self-assessment) to 44.8% (critical thinking)](frtf-talent-cluster-sorting-validated.md) — related

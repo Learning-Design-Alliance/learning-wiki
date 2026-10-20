@@ -46,3 +46,6 @@ Post-training survey of the experimental group measured satisfaction with the de
 
 ## Related Claims
 - [Deliberate practice interventions produce higher real estate licensing exam pass rates than traditional study methods](deliberate-practice-raises-licensing-pass-rate.md) — related
+- [Designers and providers assess recipient engagement in training and TA through attendance, active participation, progress between check-ins, and satisfaction survey data and response rates](ta-engagement-measurement-methods.md) — a broader claim this one bears on
+- [Legal professionals frequently use free NMT with high self-reported satisfaction yet perform little to no post-editing, so satisfaction is not correlated with quality](legal-professionals-overtrust-machine-translation.md) — related
+- [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related

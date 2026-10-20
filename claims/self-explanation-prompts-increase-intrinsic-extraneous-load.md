@@ -44,3 +44,6 @@ Follow-up ANOVAs after a significant MANOVA main effect for self-explanation pro
 
 ## Related Claims
 - [Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related
+- [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
+- [Navigation features and self-explanation prompts do not interact in their effect on video learning](no-interaction-navigation-prompts-learning.md) — related
+- [Anticipatory self-explanation prompts induced lower extraneous cognitive load than retrospective prompts](anticipatory-prompts-lower-extraneous-load.md) — related

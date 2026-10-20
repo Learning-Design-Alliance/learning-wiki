@@ -46,3 +46,4 @@ A qualitative multi-source study combining university policy reviews, social med
 - [Teachers perceive 20 distinct ethical tensions across five online language-teaching methods in AI-driven classes](twenty-ethical-tensions-five-methods.md) — related
 - [Ethical risk management of AI in education proceeds bottom-up through individual faculty guidance and student self-strategies because institutional support is lacking](bottom-up-ethical-risk-management-ai-individual-effort.md) — related
 - [University academic staff express substantial concerns about academic integrity, ethics, and erosion of skills such as critical thinking and creativity in relation to GenAI.](staff-concerns-genai-integrity-skill-erosion.md) — related
+- [GenAI guidelines at top U.S. universities cluster into four topics: learning and assessment integration, visual/multimodal media, security and ethics, and academic integrity](four-topics-genai-guidelines-heis.md) — related

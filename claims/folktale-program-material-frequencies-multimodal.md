@@ -46,3 +46,4 @@ Descriptive reporting of teaching material frequencies in Table 2, derived from 
 - [Preschoolers in a multiliteracies folk-tale program showed increased critical-thinking behaviors in qualitative journal data](preschool-folktale-program-increased-critical-thinking-qualitative.md) — related
 - [Portfolio analysis revealed children were critically and creatively engaged in the learning procedures](portfolio-analysis-critical-creative-engagement.md) — related
 - [Conversation/discussion (62%) and brainstorming (61%) were the most frequent teaching techniques in the program](folktale-program-technique-frequencies-discussion-brainstorming.md) — related
+- [Children exhibited creative and communicative ways of thinking and working in collaborative tasks](preschoolers-creative-communicative-collaborative-tasks.md) — related

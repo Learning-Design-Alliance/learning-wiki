@@ -45,3 +45,5 @@ The paper's summary reports that non-tested outcomes are "predicted by teaching 
 ## Related Claims
 - [Teachers who are effective at improving academic behaviors and mindsets are often not the same teachers who raise math test scores](teacher-effectiveness-noncognitive-uncorrelated-test-scores.md) — related
 - [Child and guardian reports add minimal predictive power beyond teacher reports of noncognitive skills](child-guardian-reports-minimal-power-beyond-teacher.md) — related
+- [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](positive-mindsets-better-behaviors-grades.md) — related
+- [Positive academic mindsets increase perseverance and academic behaviors, yielding higher grades; negative mindsets produce a self-defeating cycle](mindsets-increase-perseverance-behaviors-grades.md) — related

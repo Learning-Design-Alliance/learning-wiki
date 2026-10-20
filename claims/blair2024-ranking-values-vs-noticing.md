@@ -43,4 +43,4 @@ Qualitative analysis of Study 1 ranking data (Fig. 3); ratings of remaining dial
 
 
 ## Related Claims
--
+- [Individual trajectories varied: 9 of 14 teachers increased dialogic noticing per episode, while two teachers slightly decreased, which the authors attribute to limits of the nondirective intervention](individual-noticing-trajectories-vary.md) — related

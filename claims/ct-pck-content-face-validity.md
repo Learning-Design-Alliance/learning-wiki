@@ -48,3 +48,4 @@ Qualitative validity evidence: iterative expert review of item alignment (table 
 - [The overall CT–PCK Survey functioned similarly across teacher characteristic groups, though some items showed raw differential item functioning above 0.64 logits](ct-pck-dif-dtf-findings.md) — related
 - [Teachers scored across a wide range on the CT–PCK Survey, averaging about 61 percent correct, with 92 percent scoring above chance](ct-pck-score-range-distribution.md) — related
 - [Content alignment between a test and its content domain represents key evidence for validating test score inferences](alignment-key-validation-evidence-score-inferences.md) — a broader claim this one bears on
+- [CRESST assessment tools show feasibility in evaluation data, but reliability and validity information is limited](cresst-tools-feasible-limited-validity.md) — related

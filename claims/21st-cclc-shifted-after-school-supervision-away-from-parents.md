@@ -49,3 +49,6 @@ The elementary school component of Mathematica's national evaluation of the 21st
 - [Elementary students participating in the 21st Century Community Learning Centers program felt safer than students not enrolled](cclc-elementary-participants-felt-safer.md) — related
 - [Elementary participants in the 21st Century Community Learning Centers program were more likely to engage in negative behaviors than students not enrolled](cclc-elementary-participants-more-negative-behaviors.md) — related
 - [The national evaluation of the 21st Century Community Learning Centers program found no average improvement in academic achievement for participating students](21st-cclc-national-evaluation-no-academic-improvement.md) — related
+- [21st Century after-school programs had only limited influence on academic performance, including test scores, grades, and homework completion](21st-cclc-limited-academic-influence.md) — related
+- [21st CCLC elementary programs did not affect students' academic outcomes](21st-cclc-no-effect-academic-outcomes-elementary.md) — related
+- [Students feel safest in classrooms and least safe in areas just outside the school, with safety tracking the level of adult supervision](adult-supervision-safety-gradient.md) — related

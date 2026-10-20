@@ -46,3 +46,4 @@ Experiment 1: 95 Mechanical Turk participants randomly assigned to EPPP or EPEP 
 - [In simulated learners with forgetting, study-practice yields higher skill gains while practice-only yields higher fact gains, mirroring the human pattern](al-simple-effects-mirror-human-pattern.md) — related
 - [The training-by-content interaction did not vary with retention interval duration in the human experiment](no-training-retention-interval-interaction.md) — related
 - [The training-by-content interaction is not specific to test question type, indicating transfer between skill and fact learning](no-three-way-interaction-test-question-type-transfer.md) — related
+- [Adding a memory (forgetting) mechanism slightly decreases simulated learning gains overall yet improves alignment with human results, apparently by letting agents discard incorrect rules](forgetting-mechanism-decreases-gains-improves-alignment.md) — related

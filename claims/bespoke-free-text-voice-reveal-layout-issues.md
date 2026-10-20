@@ -69,3 +69,5 @@ across the entire video” and “very distracting. ”"
 - [In early prototype testing, AI-generated visuals were the main barrier to real-world readiness, rated lower than text and narration](ai-visual-generation-main-barrier-prototype.md) — related
 - [A deterministic slide-image override converts a 0/9 corpus-grounding failure into 9/10 successful slide matches on the same topic](slide-image-override-corpus-grounding-recovery.md) — related
 - [Among 6,699 LLM-judge deduction flags, visual delivery is the largest deficiency category (39%) and learner adaptation the second (27%), while content problems are rarer (16%)](video-deductions-visual-and-adaptation-dominant.md) — related
+- [Linguist review of draft items revealed communication problems with terminology and imprecisely reasoned attitude statements](linguist-review-revealed-item-communication-problems.md) — related
+- [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](podcast-design-barriers-pauses-voice-monotony.md) — related

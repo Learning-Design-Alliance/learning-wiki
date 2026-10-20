@@ -51,3 +51,5 @@ Mixed-methods analysis of coaches' retrospective TDF survey and teacher/coach fo
 - [Teachers reported pacing demands, student struggles with rigor, and technology impediments as factors hindering ERWC implementation](erwc-implementation-hindering-factors-qualitative.md) — related
 - [Implementation of school mindfulness programs is facilitated by collegial teaching, administrative and parental support, and children's enthusiasm, and hindered by lack of time and disengaged students](mindfulness-implementation-facilitators-barriers.md) — related
 - [School administrators underestimate parental demand for computer science education and face resource and prioritization barriers](administrators-underestimate-cs-demand-barriers.md) — a narrower finding that bears on this claim
+- [Contrary to program guidelines, English acquisition was given priority over Spanish acquisition in practice](english-priority-over-spanish-in-practice.md) — related
+- [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — related

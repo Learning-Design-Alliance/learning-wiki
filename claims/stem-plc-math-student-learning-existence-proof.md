@@ -76,3 +76,6 @@ The synthesis's overall judgment on the few mathematics studies: they give "some
 ## Related Claims
 - [Existing STEM PLC research is methodologically weak by Standards of Evidence review, with no studies rated adequate, but collectively builds a supportive case for valued PLC effects](stem-plc-research-methodological-rigor-weak.md) — related
 - [Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods](stem-plc-teacher-knowledge-attitude-gains.md) — related
+- [PLC at Work has a statistically significant positive effect on state-administered ACT Aspire math achievement scores (effect size = +0.08) after less than two years of implementation](plc-at-work-significant-math-effect.md) — a narrower finding that bears on this claim
+- [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — related
+- [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — related

@@ -43,4 +43,10 @@ Meta-analytic moderator analyses across the 32 pooled effect sizes examined agen
 
 
 ## Related Claims
--
+- [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — a narrower finding that bears on this claim
+- [Effects of agent nonverbal behavior depend on the task: facial expressions were valuable for attitudinal learning but detrimental for procedural learning](nonverbal-effects-depend-on-task-type.md) — reports the opposite
+- [Beneficial effects of pedagogical agents are attributed primarily to the agent's voice rather than its visual presence](agent-effects-due-to-voice-not-visual-presence.md) — reports the opposite
+- [The review reports no evidence that the mere visual presence of a human-like body produces distinct effects, though likeable appearance improves motivation and transfer](no-evidence-mere-visual-presence-social-cue-hypothesis.md) — a narrower finding that bears on this claim
+- [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — reports the opposite
+- [Pedagogical agents significantly improve learners' self-efficacy expectations (g = 0.29), with effects moderated by grade level, facial expressions, and reliability reporting](pa-improve-self-efficacy-expectations.md) — reports the opposite
+- [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) — related

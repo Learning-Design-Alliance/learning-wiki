@@ -47,3 +47,5 @@ In the pilot analyses, "Cronbach's alpha was calculated for the full FFL and for
 - [Most FFL scores for specific leadership practices fell in the top two of four performance levels, indicating limited score variation](ffl-scores-concentrated-in-top-categories.md) — related
 - [School leaders who scored higher in one category of FFL leadership practices tended to score higher in the other categories](ffl-practice-categories-correlated.md) — related
 - School leaders who scored higher in one FFL category tended to score higher in the other categories — related
+- [A multiyear pilot study analyzed the score variation, internal consistency, score stability, and concurrent validity of Pennsylvania's Framework for Leadership](ffl-pilot-psychometric-analysis.md) — a broader claim this one bears on
+- [The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders](more-evidence-needed-ffl-validity.md) — related

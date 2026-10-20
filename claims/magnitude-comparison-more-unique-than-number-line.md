@@ -52,3 +52,4 @@ Cross-sectional partial correlational analyses, controlling for intellectual abi
 - [Numerical magnitude processing is significantly associated with children's mental multi-digit subtraction performance, controlling for intellectual ability and motor speed](magnitude-processing-associated-mental-multidigit-subtraction.md) — related
 - [Symbolic number comparison accuracy is the only number sense measure with a significant partial correlation with math](symbolic-comparison-partial-correlation-math.md) — related
 - [The three estimation tasks do not represent the same construct in young children and should not be combined into composites](estimation-tasks-not-same-construct-kindergarten.md) — related
+- [Direct subtraction items were solved more accurately and faster than indirect addition items](ds-items-faster-more-accurate-than-ia-items.md) — related

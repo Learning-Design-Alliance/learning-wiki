@@ -43,4 +43,7 @@ Common ground was computed as the average spread of individual problem represent
 
 
 ## Related Claims
--
+- [Cognitive load did not clearly increase during group work under high coercion; a three-way interaction of session time, cognitive load and coercion emerged, with a marginal main effect of coercion](cognitive-load-coercion-interaction.md) — related
+- [High-coercion (Stringent) NTool increases explicit negotiation activities in secondary vocational collaborative problem-solving, though the verification effect was stronger in morning sessions](stringent-ntool-increases-negotiation.md) — related
+- [The low- and high-coercion versions of NTool did not differ on perceived sociability or social presence](ntool-no-social-aspect-differences.md) — related
+- [Psychological safety is positively associated with negotiation activities (verification, clarification, agreement) in ICT-supported collaborative problem-solving](psychological-safety-facilitates-grounding.md) — related

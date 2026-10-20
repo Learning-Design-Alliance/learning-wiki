@@ -43,4 +43,8 @@ The article's theoretical argument (type e) that convergent LLM outputs 'priorit
 
 
 ## Related Claims
--
+- [Current LLMs reproduce linguistic hierarchies by being built on dominant standard English varieties, producing a monolithic English that ignores regional variation](llms-reproduce-linguistic-hierarchies-monolithic-english.md) — related
+- [Intensive LLM use in educational contexts may lead to an accumulation of cognitive debt that weakens critical thinking and epistemic ownership](llm-cognitive-debt-weakens-critical-thinking.md) — related
+- [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — a broader claim this one bears on
+- [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
+- [More stylistic information processing makes individuals' viewpoints narrower and more rigid, reducing ability to adopt opposite styles](stylistic-cognitive-rigidity-reduces-adoption-of-opposites.md) — related

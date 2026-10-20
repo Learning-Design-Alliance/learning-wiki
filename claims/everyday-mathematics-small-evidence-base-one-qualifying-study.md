@@ -47,3 +47,5 @@ The WWC systematic review screened 92 identified studies; 34 were eligible for r
 - [Everyday Mathematics and Harcourt Math show no difference in effects on elementary student achievement in Pittsburgh Public Schools](everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh.md) — related
 - [Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups](challengge-thirteen-studies-excluded.md) — related
 - [Only one of 10 identified studies of InsideTrack© Coaching met WWC group design standards without reservations](insidetrack-evidence-base-one-study-meets-wwc-standards.md) — related
+- [The evidence base for Core-Plus Mathematics is small: of 17 reviewed studies, only one met WWC standards (with reservations) and 16 did not meet standards or screens](core-plus-evidence-base-small.md) — related
+- [Only one of seven eligible studies of I CAN Learn® met WWC group design standards, and it met them only with reservations](ican-learn-thin-evidence-base-one-qualifying-study.md) — related

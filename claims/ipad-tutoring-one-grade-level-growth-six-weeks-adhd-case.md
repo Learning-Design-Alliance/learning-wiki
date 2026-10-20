@@ -43,4 +43,12 @@ Single-student action research case: pre/post comparison of a different form of 
 
 
 ## Related Claims
--
+- [The iPad helped a student with ADHD focus attention and become more metacognitive about his reading](ipad-supported-attention-and-metacognition-adhd-reader.md) — related
+- [In the Rashotte, MacPhee, and Torgesen (2001) RCT, SpellRead™ produced statistically significant positive effects on alphabetics and reading fluency for fifth- and sixth-grade struggling readers after eight weeks](rashotte-2001-spellread-significant-gains.md) — related
+- [In the Torgesen et al. (2006) RCT, SpellRead™ showed indeterminate effects for fifth graders, with no statistically significant or substantively important effects in any domain after six months](torgesen-2006-spellread-indeterminate.md) — related
+- [During COVID, a third-grade volume-of-reading strategy showed greater reading growth than a control group without the strategy](covid-volume-reading-growth-over-control.md) — related
+- [Four remedial reading interventions combined improved phonemic decoding, word reading accuracy and fluency, and reading comprehension for third-grade struggling readers one year after the interventions ended, though not on all measures](four-reading-interventions-improved-third-grade-reading-one-year-later.md) — related
+- [For fifth-grade struggling readers, the four interventions combined improved phonemic decoding on one measure but produced a small reduction in oral reading fluency one year after the interventions](fifth-grade-cohort-small-fluency-reduction.md) — related
+- [The interventions narrowed some reading gaps, reducing the Word Attack gap by about two-thirds for third graders and one-half for fifth graders](interventions-narrowed-reading-gap-word-attack.md) — related
+- [Younger struggling readers benefited more: the interventions generally helped third-grade cohort students more than fifth-grade cohort students](younger-struggling-readers-benefited-more.md) — related
+- [Failure Free Reading, the only word-level-plus-comprehension program, showed impacts for third graders but no impacts for fifth graders](failure-free-reading-impacts-third-grade-only.md) — related

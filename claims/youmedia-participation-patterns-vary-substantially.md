@@ -50,3 +50,4 @@ Descriptive participation analysis from the Consortium report on YOUmedia Chicag
 - [YOUmedia registration increased steadily across Year 1, reaching 1,593 registered teens by August 2010](youmedia-registration-increased-year-one.md) — related
 - [YOUmedia staff struggled at times to balance teen choice of activities with structured learning activities](youmedia-staff-tension-choice-versus-structured-learning.md) — related
 - [Teen ChatGPT use doubled between 2023 and 2024 while 75% of global knowledge workers use generative AI](teen-chatgpt-use-doubled-2023-2024.md) — related
+- [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](youmedia-sense-of-community-drives-digital-media-engagement.md) — related

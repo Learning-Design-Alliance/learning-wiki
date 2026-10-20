@@ -45,3 +45,6 @@ Moderator analyses within the meta-analysis testing 13 online learning practices
 ## Related Claims
 - [Online learning effectiveness was broadly positive across content areas and learner types, but the mean effect was not significant for the seven K–12 contrasts and the learner-type moderator test was nonsignificant.](learner-type-moderator-nonsignificant-k12-null.md) — related
 - [In the narrative synthesis, blended and purely online conditions within a single study generally produced similar learning outcomes, and media elements such as video or online quizzes did not appear to influence learning.](narrative-synthesis-variants-of-online-learning.md) — reports the opposite
+- [Task motivation and time on task are proposed as factors potentially influencing SRL intervention effectiveness](task-motivation-time-on-task-moderators-hypothesis.md) — related
+- [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
+- [Blended online-plus-face-to-face instruction showed a larger advantage over face-to-face instruction (+0.35, p < .001) than purely online instruction did (+0.14, p < .05).](blended-larger-advantage-than-pure-online.md) — related

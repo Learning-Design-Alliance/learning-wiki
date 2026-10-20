@@ -48,3 +48,4 @@ Year-one reliability study using matched observations: external observers and sc
 - [Principals rated teaching practice reliably at the low and middle ends of the rating scale, and most principals' severity matched trained observers](principal-rater-severity-variation.md) — possibly the same claim (merge candidate)
 - [Differences between principal and observer ratings at the high end of the scale were explained largely by teachers' previous evaluation ratings](prior-ratings-explain-observer-differences.md) — related
 - [Principals inflated ratings at the high end of the scale, more often identifying instruction as distinguished than observers](high-end-rating-inflation.md) — reports the opposite
+- [Most evaluators rated consistently, but about 3 percent were muted and 5 percent erratic, and about 10 percent of a sampled subset were extremely severe or lenient](reach-evaluator-consistency-and-severity.md) — related

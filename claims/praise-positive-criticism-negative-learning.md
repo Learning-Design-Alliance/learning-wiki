@@ -47,3 +47,5 @@ The paper cites Rosenshine and Furst's research on teacher performance criteria,
 - Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children — the general claim this finding bears on, with the studies behind it
 
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
+- [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — related
+- [Most praise functions as a verbal reward, creating dependence on others' approval rather than self-generated criteria](praise-functions-as-verbal-reward.md) — reports the opposite

@@ -48,3 +48,5 @@ Correlational analysis of Study 1 descriptive data (N = 237) before main analyse
 ## Related Claims
 - [Among African American eighth graders high in racial centrality, stronger endorsement of the traditional academic race stereotype is associated with lower academic self-concept, controlling achievement and demographics (Study 1)](stereotype-endorsement-lowers-self-concept-high-centrality-study1.md) — related
 - [African American middle school students on average endorse the traditional academic race stereotype while reporting high academic self-concept](students-endorse-traditional-stereotype-high-self-concept.md) — related
+- [In an independent seventh-grade sample, stereotype endorsement predicted lower academic self-concept at average and high racial centrality but not at low centrality (Study 2 replication)](stereotype-self-concept-replication-study2.md) — related
+- [The attitude-achievement paradox: disadvantaged minority youth may show low achievement despite high motivation to achieve upward mobility through schooling](attitude-achievement-paradox-minority-youth.md) — related

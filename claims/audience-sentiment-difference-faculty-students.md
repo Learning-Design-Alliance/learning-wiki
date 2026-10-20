@@ -44,3 +44,6 @@ Sentiment analysis across target audiences of the 214 documents: administrators 
 
 ## Related Claims
 - [Writing scores differed significantly by audience, with younger-student letters rated highest and teacher-directed letters lowest](writing-scores-differ-by-audience.md) — related
+- [Perceived usefulness of AI and intent to continue using it differ significantly across challenge domains, with academic tasks rated most useful](ai-usefulness-differs-across-challenge-domains.md) — related
+- [Sentiment scores in GenAI guidelines do not differ significantly by institution size, though small institutions show the highest mean](no-sentiment-difference-institution-size.md) — related
+- [Sentiment toward GenAI in university guidelines is highly positive and does not differ significantly between private and public institutions](no-sentiment-difference-private-public-genai-guidelines.md) — related

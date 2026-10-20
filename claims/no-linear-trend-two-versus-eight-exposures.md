@@ -47,3 +47,4 @@ Repeated-measures ANOVA linear contrasts on difference scores (old minus new) in
 - [Incidental multimodal exposure produces better explicit translation-recognition performance on previously exposed words than on new words in beginner FL learners](incidental-multimodal-exposure-benefits-explicit-learning.md) — related
 - [Per-exposure learning gains decrease as the number of exposures increases: a small but significant negative linear trend in the normalized incidental learning effect](per-exposure-gains-decrease.md) — related
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — reports the opposite
+- [Participants respond increasingly faster to stimuli presented more often during the incidental letter-search task](faster-rt-more-exposures.md) — related

@@ -70,3 +70,5 @@ WWC calculations for the RWT versus regular instruction comparison on the CTOPP 
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
 - Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program — related
 - Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24) — related
+- [Read, Write & Type!™ shows no discernible effects on reading comprehension or vocabulary for beginning readers](rwt-no-discernible-comprehension-effects.md) — related
+- [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](lips-supplemental-followup-mixed-findings.md) — related

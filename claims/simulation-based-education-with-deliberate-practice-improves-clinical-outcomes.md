@@ -95,3 +95,5 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 - [Whether EF gains are seen depends on the amount of time children spend doggedly practicing and pushing themselves to improve](repeated-practice-key-ef-gains.md) — related
 - [Live simulations with real patients showed the greatest effects among simulation types (g = 2.27, medical education only)](simulation-type-moderates-effectiveness.md) — related
 - [Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)](vp-traditional-skills-advantage.md) — a narrower finding that bears on this claim
+- [In a medical ABC-VR case, 12 of 14 students met the required learning goals of a post-VR mock knee exam](abc-vr-medical-case-12-of-14-met-goals.md) — a narrower finding that bears on this claim
+- [Medical students using an interactive whiteboard with a structured argument template show deeper collaborative and regulatory discourse and better patient-management outcomes than students using traditional whiteboards](interactive-whiteboard-supports-shared-regulation-medical-decision-making.md) — a narrower finding that bears on this claim

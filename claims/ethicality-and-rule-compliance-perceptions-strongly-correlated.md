@@ -46,3 +46,5 @@ Pearson correlation across the pooled survey sample (r = 0.8524, p<0.0001) betwe
 - [The amount of AI-generated code in a submission was the dominant factor influencing students' ethical and rule-compliance judgments](amount-of-ai-generated-code-dominant-factor-in-ethical-judgments.md) — related
 - [Canadian students were more likely than South Korean students to judge GenAI-assisted coding as against institutional rules, despite functionally identical policies](canadian-students-judge-genai-use-more-against-rules-than-korean.md) — related
 - [Canadian students were more likely than South Korean students to judge GenAI-assisted coding scenarios as unethical](canadian-students-judge-genai-use-more-unethical-than-korean.md) — related
+- [Students distinguish learning-support GenAI uses from substitutionary uses, with uncertainty highest for minimally modified AI content](learning-support-versus-substitutionary-genai-judgment.md) — related
+- [Awareness of institutional GenAI regulations does not automatically translate into clarity about rule-compliant use](awareness-does-not-yield-rule-compliance-clarity.md) — related

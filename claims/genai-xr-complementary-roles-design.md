@@ -48,3 +48,5 @@ Thematic analysis of semi-structured group interviews with the four GenARch team
 - A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions — related
 - [Students reported challenges with generated-model scale fidelity, shared attention in multi-user XR, motion comfort, and control over generation](genarch-challenges-scale-shared-attention-control.md) — related
 - [Teachers' tool preferences are stage-dependent, with pre-gen valued for ideation, mid-gen for structuring, post-gen for finalization, motivating hybrid workflows](stage-dependent-preferences-hybrid-workflows.md) — related
+- [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — related
+- [Prompts referencing architectural styles or local architectures yielded less desired image outcomes than future-themed prompts, motivating selectable checkpoints in GAI-A](style-prompts-underperform-future-themed-prompts.md) — related

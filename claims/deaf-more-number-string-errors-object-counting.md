@@ -51,3 +51,4 @@ Descriptive error analysis (Table 1) of object-counting trials for all 28 hearin
 - [Deaf and hearing children do not differ in accuracy of object counting or creating sets of a given cardinality up to 14 items](no-group-difference-object-counting-accuracy.md) — related
 - [Linguistic delay may affect verbal mathematical abilities without impairing conceptual counting development, as deaf children's one-to-one correspondence understanding was age-appropriate](linguistic-delay-spares-conceptual-counting.md) — related
 - [Deaf children's abstract-counting errors reflect the rule-bound base-5 structure of Belgian French Sign Language: they stop at production-rule boundaries and make fewer omission errors than hearing children](sign-language-structure-shapes-counting-errors.md) — related
+- [Novices and experts committed similar total error numbers but different error types in computer work](novice-expert-error-type-differences.md) — related

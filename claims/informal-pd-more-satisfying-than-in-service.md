@@ -55,3 +55,6 @@ A Digital Promise and Grunwald Associates (2015) survey of teachers, presented a
 - Seventy-two percent of teachers engage in informal, non-required professional development and are more satisfied with it, driven by intrinsic reasons such as enjoyment of learning — possibly the same claim (merge candidate)
 - In a National Staff Development Council survey, over 90 percent of teachers reported recent PD but only 59 percent found content-related PD useful — related
 - Most parents of first and second graders report general satisfaction with their school's family engagement, but teachers want more time and professional development — related
+- [Most teachers and principals reported satisfaction with professional opportunities, school environment, and the TIF program](tif-most-educators-satisfied.md) — related
+- [Potential early adopters of micro-credentials are driven by intrinsic motivations and heavy informal professional learning, while late adopters are more experienced and driven by extrinsic motivations](early-vs-late-adopter-motivation-profiles.md) — related
+- [Most respondents found grant training useful, applied the information in their school, and shared it with others](grant-training-useful-applied-shared.md) — related

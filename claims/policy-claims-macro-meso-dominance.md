@@ -63,3 +63,5 @@ Same coding exercise: the review reports "14 claims out of 31 claims are implica
 ## Related Claims
 
 - [Digital transformation permeates all levels of the education system as an interdependent structure](digital-transformation-interdependent-multi-level-structure.md) — related
+- [Directly prompted Claude 3.7 macro-level deep feedback was judged effective for 93.03% of 201 paragraph-level comments](wraft-macro-feedback-93-percent-effective.md) — related
+- [Directly prompted Claude 3.7 micro-level deep feedback was judged both necessary and effective in 94.69% of 630 comments](wraft-micro-feedback-95-percent-necessary-effective.md) — related

@@ -49,3 +49,4 @@ Fluency findings from the same randomized field trial of 41 first graders in eig
 - [PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)](pals-potentially-positive-reading-fluency-ld.md) — related
 - [PALS shows potentially positive effects on reading comprehension for students with learning disabilities (average effect size 0.75, not statistically significant)](pals-potentially-positive-reading-comprehension-ld.md) — related
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
+- [PALS shows strong evidence of positive effects on first-grade literacy, with an average effect size of +0.23 across three studies](pals-strong-evidence-first-grade-literacy-es-023.md) — related

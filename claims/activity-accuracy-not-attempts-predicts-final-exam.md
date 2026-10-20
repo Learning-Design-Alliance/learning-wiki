@@ -62,3 +62,4 @@ Correlation analysis showing number of attempts per activity was not associated 
 - [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
 - [Years of education correlate positively with pre-workshop digital literacy scores in older adults](education-correlates-pre-digital-literacy.md) — related
 - [Digital literacy workshops ameliorate older adults' digital competence in both face-to-face and blended modalities](workshops-ameliorate-older-adult-digital-competence.md) — related
+- [Instructed students allocated more total time to learning, and time was correlated with successful retrieval attempts](instructions-increase-learning-time-allocation.md) — related

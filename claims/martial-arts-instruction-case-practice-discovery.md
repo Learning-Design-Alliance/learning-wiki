@@ -45,3 +45,5 @@ Qualitative case evidence from martial arts instruction in New York City and the
 ## Related Claims
 
 - [Parallels between explorative practice and canonical mathematics practice are recognized among mathematicians](explorative-practice-parallels-mathematics-practice.md)
+- [Direct instruction and discovery are complementary rather than opposite, linked by repetitive yet explorative practice](direct-instruction-discovery-complementary-explorative-practice.md) — related
+- [Strong guidance and repetition may be needed to discover what cannot be told (Trninic's martial arts case)](repetition-guided-discovery-martial-arts-case.md) — possibly the same claim (merge candidate)

@@ -47,3 +47,7 @@ Analysis of CDE staffing data (Figure 9) shows district-level age distributions;
 - Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning — related
 - [Increased retirements and resignations contributed to shortages in most large districts surveyed](retirements-resignations-contributed-shortages.md) — related
 - [Retirement accounts for only a small portion of total teacher turnover](retirement-small-portion-of-teacher-turnover.md) — related
+- [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
+- [About 75% of surveyed California districts report a shortage of qualified teachers for 2016-17, and over 80% of these say shortages have worsened since 2013-14](california-districts-report-worsening-teacher-shortages-2016.md) — related
+- [California's CalSAAS dashboards exclude teacher turnover and retention data needed for workforce planning](calsaas-excludes-turnover-retention.md) — related
+- [Retirements and resignations rose in some districts during the pandemic and leaders expect higher retirement rates next year](pandemic-rising-teacher-retirements-resignations.md) — related

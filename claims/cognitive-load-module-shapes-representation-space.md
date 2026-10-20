@@ -45,3 +45,4 @@ Representation-level analysis on test interactions grouped into low-, medium- an
 ## Related Claims
 - [A qualitative case study shows LT-MKT jointly captures beneficial knowledge transfer and load-induced learning friction](case-study-transfer-and-load-friction.md) — related
 - [Removing the cognitive load module causes the largest ablation performance drop, while state fusion has a smaller effect](cognitive-load-module-largest-ablation-drop.md) — related
+- [Modeling knowledge transfer within and across domains alleviates the cold-start problem on unseen concepts](knowledge-transfer-alleviates-cold-start-kt.md) — related

@@ -42,3 +42,7 @@ Unadjusted logistic regressions in ALSPAC (N = 8,132): single parent OR 1.70 (95
 
 ## Related Claims
 - [Neighborhood effects on graduation appear to operate in part through neighborhood effects on parents (time-varying family characteristics)](neighborhood-effects-mediated-through-parents.md) — related
+- [Children with ADHD in the cohort were disproportionately male and from families reporting financial difficulty or social housing](adhd-group-descriptive-ses-and-sex-differences.md) — possibly the same claim (merge candidate)
+- [Family adversity and lower parental involvement mediate 27.8% of the association between early financial difficulty and ADHD at age 7](adversity-parent-involvement-mediate-financial-difficulty-adhd.md) — related
+- [Parental education and occupational status showed no significant association with ADHD in this sample](parental-education-occupation-not-significant-adhd.md) — related
+- [Perceived financial difficulty in early childhood is the socioeconomic indicator most strongly associated with a research diagnosis of ADHD at age 7](financial-difficulties-strongest-ses-predictor-adhd-age-7.md) — a narrower finding that bears on this claim

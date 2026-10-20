@@ -102,3 +102,4 @@ Hierarchical regression (Models 10–12) predicting daily life benefits. The art
 ## Related Claims
 - [Education level shows differential associations with perceived benefits, with master's students perceiving higher psychological support and leisure benefits than doctoral students](education-level-differential-benefit-associations.md) — related
 - [Information risk perception is negatively associated with psychological and emotional support, daily life, and leisure and entertainment benefits](information-risk-negative-emotional-daily-leisure.md) — related
+- [Perceived gains in creativity, independent thinking and motivation rise sharply among students with more than three years of GenAI experience, though the comparison is cross-sectional](genai-duration-related-cognitive-gains.md) — related

@@ -43,3 +43,6 @@ The guide's Small Changes Can Change the Review Path section lists common trigge
 ## Related Claims
 - School districts act as independent gatekeepers whose requirements can exceed IRB determinations — related
 - Maintaining NHSR status requires no researcher access to identifiable records, no added procedures, and no non-standard prompts — a narrower finding that bears on this claim
+- [Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively](tpi-implementation-low-participation-positive-assessment.md) — related
+- [In an out-of-the-box evaluation, 60% of parents accessed video clips and 52% accessed activities without prompting or instruction](out-of-box-parents-accessed-clips-activities.md) — related
+- [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](gocps-platform-easy-but-extra-requirements-hard.md) — related

@@ -45,3 +45,6 @@ Six weeks of observation of three classes (5, 10, and 15 students), each lasting
 ## Related Claims
 - [Participation in interpersonal audio discussions produced no statistically significant changes in overall willingness to communicate, though most students reported unchanged or increased WTC](audio-discussions-no-significant-wtc-change.md) — related
 - [Interpersonal audio discussions with feedback and self-assessment elicit a statistically significant increase in introductory L2 learners' perceived pronunciation ability](audio-discussions-increase-perceived-pronunciation-ability.md) — related
+- [WTC differs significantly across class sizes in Iranian EFL classes, with the smallest class showing the highest WTC](class-size-significant-wtc-difference-iranian-efl.md) — related
+- [Both learners perceived they were expected to talk more in American university English classes than in Japanese university classes](us-classes-expected-more-talk-than-japanese.md) — related
+- [Student proportion of words spoken in whole-class talk increased in both dose groups after VSDR](vsdr-increased-student-talk-proportion.md) — related

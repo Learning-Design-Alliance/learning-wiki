@@ -45,3 +45,4 @@ Descriptive statement from the report's own summary of its purpose. The authors 
 ## Related Claims
 - [The study treats data infrastructure and performance measurement as a dimension of state apprenticeship expansion and success](data-infrastructure-performance-measurement-dimension.md) — related
 - [The study examines differences between State Apprenticeship Agency states and DOL Office of Apprenticeship states in registration of apprenticeship and pre-apprenticeship programs](saa-oa-registration-differences-examined.md) — a narrower finding that bears on this claim
+- [States draw on federal, state, and local funding sources to develop and sustain statewide leadership initiatives](funding-sources-statewide-leadership-initiatives.md) — related

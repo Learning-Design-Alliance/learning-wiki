@@ -45,3 +45,4 @@ Open-ended survey Section 4 item asking students to name up to three factors sha
 ## Related Claims
 - [Most teachers in China's middle schools used traditional grammar-focused methods in the late 1980s](china-middle-school-teachers-used-traditional-methods-late-1980s.md) — related
 - Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English — related
+- [Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices](mentor-modeling-shapes-novice-advocacy-beliefs.md) — related

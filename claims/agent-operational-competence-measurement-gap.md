@@ -63,3 +63,4 @@ Review's assessment of adjacent sources: Dorneich et al. (2023) operationalize t
 
 ## Related Claims
 - [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](agentic-ai-invalidates-three-ai-literacy-assumptions.md) — related
+- [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related

@@ -44,3 +44,4 @@ Qualitative observation across Sub-Study Two classrooms. The article describes a
 
 ## Related Claims
 - [Across three schools in grades 3-6, two schools gave no time to comprehension instruction and the third gave 4 minutes](grades-3-6-near-zero-comprehension-instruction.md) — related
+- [The CPM definition of slope is verbose, mentioning the unit-rate essence of slope only at the end of a long paragraph, which is unlikely to enhance English Learners' access](verbose-slope-definition-buries-unit-rate.md) — related

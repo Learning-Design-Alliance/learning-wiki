@@ -45,3 +45,5 @@ Micro-analysis of Excerpt 3 during the final report-writing activity; the teache
 ## Related Claims
 
 - [Cognitively oriented challenges dominated student help requests during computer-supported lab work, with 45.1% conceptual and 28.7% cognitive-regulation requests](help-requests-mostly-conceptual-cogreg.md)
+- [Teachers can guide students' conceptual understanding of life skills concepts by building on the everyday experiences students invoke in classroom conversations.](teachers-build-on-everyday-experiences-in-life-skills-conversations.md) — related
+- [When facing students' major conceptual challenges, the teacher shifted from prompting cued questions to providing explanations himself](teacher-shifts-cued-questions-to-explanations.md) — related

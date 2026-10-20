@@ -46,3 +46,9 @@ The editorial describes Näykki et al.'s exploratory study: video segmented and 
 ## Related Claims
 
 - [Teachers spent most CSCL class time on task management, content knowledge, technical support and observing, with minimal socio-emotional support](teacher-guidance-focus-distribution-cscl-science.md)
+- [Macro scripts disturb a team's natural convergence and increase required interaction intensity](scripts-disturb-convergence-increase-interaction-intensity.md) — related
+- [Teacher orchestration of collaborative-learning scripts is at least as important as the quality of the script design itself](teacher-orchestration-over-script-design.md) — related
+- [Macro scripts foster knowledge-productive interactions: argumentation, explanations and mutual regulation](macro-scripts-foster-productive-interactions.md) — related
+- [Secondary students in CSCL devote most of their communication to regulating task performance, especially planning the task and monitoring task progress](cscl-groups-mostly-regulate-task-performance.md) — related
+- [In Experiment 1, self-regulation skills significantly predicted socio-discursive MAS only in the adaptable CSCL script condition](self-regulation-predicts-socio-discursive-mas-adaptable-script.md) — related
+- [Learner-chosen adaptivity in a collaboration script was feasible as guidance design, but impacted regulatory actions only among students with more advanced self-regulation skills](learner-agency-adaptive-guidance-only-advanced-regulators.md) — related

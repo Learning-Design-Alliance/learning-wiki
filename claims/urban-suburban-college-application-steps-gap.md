@@ -65,3 +65,9 @@ The authors' own study, From High School to the Future: Potholes on the Road to 
 - [Application, not acceptance, is the primary barrier preventing CPS students from enrolling in four-year colleges](application-not-acceptance-primary-barrier-cps-college-enrollment.md) — a narrower finding that bears on this claim
 - Only 41 percent of CPS seniors who aspired to a four-year degree enrolled in a four-year college the fall after graduation — related
 - [College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened](college-aspirations-doubled-readiness-gaps-persist.md) — related
+- [Twelfth graders report high rates of college-preparation actions, with 80 percent at Sample School reporting they applied for financial aid versus 68 percent across CPS](twelfth-graders-financial-aid-application-rates.md) — related
+- [Information barriers disadvantage low-income students in the college transition: bright low-income students miss selective colleges, and mailed information packages raise application and enrollment](college-information-barriers-low-income-students.md) — related
+- [College Track completers were more likely than similar students to apply to multiple colleges](college-track-completers-apply-multiple-colleges.md) — related
+- [Latino CPS graduates who aspire to a four-year degree are least likely to plan to attend a four-year college after graduation](latino-graduates-least-likely-plan-four-year-college.md) — related
+- [College enrollment gaps by race, gender, and socioeconomic background among CPS graduates were driven primarily by differences in four-year enrollment](cps-enrollment-gaps-driven-by-four-year-enrollment.md) — related
+- [Teacher assessment of college-going climate is positively associated with students taking each step toward four-year college enrollment](teacher-college-climate-associated-with-enrollment-steps.md) — related

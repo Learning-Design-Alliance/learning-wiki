@@ -47,3 +47,7 @@ Intention-to-treat regression from the RCT (2,848 observations, classroom-cluste
 - [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Unfettered GPT-4 access during practice harms subsequent unassisted exam performance in high school mathematics](gpt-base-harms-unassisted-exam-performance.md) — related
 - Observable output alone is insufficient evidence of learning when generative AI can produce sophisticated work without underlying cognitive change — related
+- [Guardrails in the GPT Tutor largely eliminate the negative exam effect, though no positive exam effect is observed](gpt-tutor-exam-effect-null.md) — related
+- [High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)](gpt4-access-worse-after-removal-math.md) — a broader claim this one bears on
+- [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related
+- [Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance](students-unaware-of-ai-learning-harm.md) — related

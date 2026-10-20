@@ -47,3 +47,4 @@ Multilevel structural equation model (full-perspective model) with 167 teachers 
 - [No significant direct effects exist between teachers' motivation to promote SRL and students' SRL motivation](no-direct-teacher-student-motivation-effects.md) — related
 - [Student-reported SRL promotion is associated with students' self-efficacy, utility value and attainment value for SRL at class and student levels, but not with perceived cost](student-reported-srl-promotion-linked-to-student-motivation.md) — related
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest direct predictor](se-mov-positive-predict-sdl.md) — related
+- [Including student-reported SRL promotion is critical for finding indirect teacher-to-student motivation links: teacher-report-only models show none, student-report-only models show significant indirect effects](student-reports-crucial-for-indirect-links.md) — related

@@ -67,3 +67,5 @@ Experiment 2, which added a two-minute icebreaker and allowed brief comments bet
 - [Paired flashcard learners drop far fewer flashcards from study than individual learners](paired-flashcards-reduce-card-dropping.md) — related
 - [Individual learners complete more flashcard practice cycles than paired learners, though inconsistently across experiments](individual-learners-complete-more-practice-cycles.md) — related
 - [Paired flashcard learners show more accurate immediate metacognitive calibration than individual learners, who overestimate by roughly 20%](paired-flashcards-improve-immediate-metacognitive-calibration.md) — related
+- [Global judgments of learning correlate moderately-to-strongly with final test performance in both individual and paired conditions](gjol-test-performance-correlations-both-conditions.md) — related
+- [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related

@@ -45,3 +45,5 @@ Observational coding of 2,178 minutes across 10 classrooms using the ICE-R. The 
 ## Related Claims
 - [Teachers and students in elementary resource rooms remained on task during reading instruction, with overall student engagement averaging 2.76 on a 3-point scale](resource-room-reading-instruction-on-task-engagement.md) — related
 - [Comprehension instruction in resource rooms consisted mostly of teacher question-and-answer monitoring rather than explicit comprehension-strategy instruction](comprehension-monitoring-dominates-strategy-instruction-scarce.md) — related
+- [Phonological awareness instruction closely tied to word reading (blending and segmenting phonemes) comprised less than 1% of observed resource-room reading time](phoneme-blending-segmenting-under-one-percent-time.md) — related
+- [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — a broader claim this one bears on

@@ -44,3 +44,5 @@ Cross-sectional survey of 444 English majors at four comprehensive universities 
 - [AI anxiety correlates negatively with career adaptability, self-efficacy, and career decisions in Chinese college students](ai-anxiety-negative-correlations-career-variables.md) — related
 - [Latent career adapt-abilities profiles differ in AI anxiety, with the low group most anxious and the high group least anxious](profiles-differ-ai-anxiety-low-group-highest.md) — related
 - [Latent career adapt-abilities profiles differ strongly in core self-evaluations, with a stepwise increase across low, moderate, and high groups](profiles-differ-core-self-evaluation-stepwise.md) — related
+- [Core self-evaluations partially mediate the relationship between career adapt-abilities and AI anxiety](core-self-evaluations-partially-mediate-adaptabilities-ai-anxiety.md) — related
+- [Latent profile analysis identifies three career adapt-abilities subgroups (low, moderate, high) among English majors](three-career-adapt-abilities-latent-profiles-english-majors.md) — related

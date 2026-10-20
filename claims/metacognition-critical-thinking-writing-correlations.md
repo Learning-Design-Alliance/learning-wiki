@@ -50,3 +50,10 @@ Pearson correlation analysis (Table 3) of MAWSQ, W-GCTA, and writing test scores
 ## Related Claims
 - [Metacognition is significantly and positively related to EFL students' academic writing performance (Model 1)](metacognition-positively-related-efl-academic-writing.md) — a narrower finding that bears on this claim
 - [Metacognition is significantly and positively associated with EFL students' critical thinking skills (Model 2)](metacognition-positively-associated-critical-thinking.md) — a narrower finding that bears on this claim
+- [L1 and L2 writing metacognitive strategy subcategories are strongly and positively correlated](strong-positive-correlations-l1-l2-writing-strategy-subcategories.md) — related
+- [Metacognitive strategies directly and positively predict writing performance in both L1 and L2 task-situated writing](metacognitive-strategies-predict-l1-l2-writing-performance.md) — related
+- [Metacognitive strategies and prior coding experience significantly predict CT profile membership, with metacognition contributing more strongly](metacognition-coding-experience-predict-ct-profile.md) — related
+- [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
+- [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](srl-training-effects-by-outcome-category.md) — related
+- [Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation](cognitive-offloading-negative-higher-order-outcomes.md) — related
+- [Metacognitive strategy use correlates positively with EFL reading comprehension achievement (r = .54)](metacognitive-strategy-use-reading-achievement-correlation.md) — related

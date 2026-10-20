@@ -44,3 +44,4 @@ En entrevistas (n=31) y talleres (n=27-28), los participantes identificaron "má
 - [Los apoyos de transición más deseados incluyen información práctica, herramientas de traducción de competencias, adiestramiento laboral, tutoría y dinero](apoyos-deseados-traduccion-competencias-tutoria.md) — related
 - [Los principales retos percibidos al usar LER son la exactitud de la información, la seguridad, saber cómo usarlos, la adopción por empleadores y el acceso](retos-percibidos-lers-exactitud-seguridad-acceso.md) — related
 - [Las transiciones en el aprendizaje de estudiantes y trabajadores de comunidades HSE son interseccionales, dinámicas y no lineales, con múltiples cambios simultáneos](transiciones-aprendizaje-interseccionales-no-lineales.md) — related
+- [Las oportunidades percibidas de los LER incluyen tener todo en un solo lugar, conectar con puestos de trabajo y auto-traducción de destrezas](oportunidades-percibidas-lers-un-solo-lugar.md) — related

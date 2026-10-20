@@ -48,3 +48,4 @@ Comparison drawn in the results/discussion of the 450-response SuaCode survey ag
 ## Related Claims
 - [Most African students enrolled in the SuaCode smartphone coding course for intrinsic rather than extrinsic reasons (68.7% vs 31.3% of coded motivations)](suacode-african-students-intrinsically-motivated.md) — related
 - The most frequent specific enrollment reasons among analyzed SuaCode students were interest in learning to code (20.3%), contributing to society (19.2%), and developing skills for advanced work (12.0%) — related
+- [Access to evidence-based strategies and understanding how students learn are top motivators for both groups' interest in DLP research](evidence-based-strategies-top-motivator.md) — related

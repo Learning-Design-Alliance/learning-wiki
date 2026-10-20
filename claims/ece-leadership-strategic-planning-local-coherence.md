@@ -45,3 +45,5 @@ Qualitative case study of two districts and two cities, based on interviews with
 ## Related Claims
 - [Setting common quality standards for all preschool classes helps address disparities in program quality requirements across the mixed delivery system](common-quality-standards-address-disparities.md) — related
 - [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related
+- [Centralized enrollment systems with a universal application, combined with community partnerships, build families' awareness of preschool programs](centralized-enrollment-builds-family-awareness.md) — related
+- [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related

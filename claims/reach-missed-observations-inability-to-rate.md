@@ -45,3 +45,6 @@ Descriptive analysis of first-year implementation: "Twenty four percent of non-t
 ## Related Claims
 - [Fewer non-tenured teachers were rated in the top two categories under REACH (58%) than under the previous checklist system (87%)](reach-fewer-top-two-ratings-than-checklist.md) — related
 - [Lower REACH ratings predicted teacher exit: more than half of unsatisfactory-rated teachers left CPS and low-VAM teachers moved out of tested grades/subjects](low-ratings-linked-teacher-exit-and-reassignment.md) — related
+- [Under REACH fewer teachers received ratings in the top two categories than under the prior checklist system](reach-fewer-teachers-top-rating-categories-than-checklist.md) — related
+- [REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17](reach-ratings-increased-over-time.md) — related
+- [Performance tasks did little to differentiate teachers, with most receiving high scores and over a third receiving default scores due to missing data](reach-performance-tasks-little-differentiation.md) — related

@@ -43,4 +43,9 @@ Pre-post analysis of seven of ten participants who completed both assessments in
 
 
 ## Related Claims
--
+- [The intervention significantly increased teachers' noticing of six dialogic attributes — persuasive interaction, one leads and another is led, agreement and collective attention, students have equal status, dialogic gap, and monologue — but not of dialogue-expansion attributes](six-dialogic-attributes-significant-gains.md) — related
+- [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
+- [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](journaling-system-improves-srl-all-groups.md) — related
+- [The authors hypothesize that self-regulated learning acts as a mediating factor linking video annotation advantages to acting performance improvement](srl-hypothesized-mediator-video-annotation-acting.md) — related
+- [Students developed varied perceptions of video annotation, citing benefits for SRL and acting alongside embarrassment and added workload](varied-student-perceptions-video-annotation.md) — related
+- [Intervention-cohort students reported positive pre–post shifts in Innovation and Motivation and Self-Directed Learning Ability](prepost-shifts-innovation-motivation-self-directed-learning.md) — related

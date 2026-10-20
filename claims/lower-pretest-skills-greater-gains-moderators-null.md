@@ -59,3 +59,8 @@ The same correlational analysis tested teacher and child characteristics as mode
 
 ## Related Claims
 - [In one 12-week trial, balance and relaxation training did not detectably differ in their effects on cardiorespiratory fitness, Stroop interference, or psychopathological symptoms](no-fitness-executive-symptom-changes.md) — related
+- [Lower-baseline participants often benefit more from executive-function training (compensation effects), and individual differences moderate training gains](compensation-effects-ef-training.md) — a broader claim this one bears on
+- [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
+- [Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge](pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet.md) — related
+- [A combined inhibition and social cognition classroom training improves selective visual attention in 5- and 6-year-olds](classroom-inhibition-social-cognition-training-improves-selective-attention.md) — related
+- [Pre-kindergarten attendance yields small positive impacts on social-emotional development, executive functioning, and emotion recognition](prek-small-positive-social-emotional-executive-emotion.md) — related

@@ -46,3 +46,4 @@ Strategy comparison on the same 600-problem ASSISTments evaluation, reported in 
 - [Decentralized Refinement reduces realism and readability failures faster than both Centralized strategies](decentralized-refinement-faster-on-realism-readability.md) — related
 - [Authenticity and realism are the most frequent failure modes in initial LLM-personalized math problems, and a single refinement iteration substantially reduces failures](single-refinement-iteration-reduces-personalization-failures.md) — related
 - [The three refinement strategies make distinct trade-offs when personalizing problems to topics that resist natural alignment with the original math](refinement-strategy-trade-offs-in-case-analysis.md) — related
+- [Validator failure patterns vary by interest topic and math curriculum unit](failure-patterns-vary-by-topic-and-curriculum-unit.md) — related

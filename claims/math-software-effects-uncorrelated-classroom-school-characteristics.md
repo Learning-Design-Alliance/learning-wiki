@@ -45,3 +45,4 @@ Moderator analysis reported in the study summary found math-product effects "unc
 ## Related Claims
 - [Effects of reading software products were correlated with student-teacher ratio in first-grade classrooms and with amount of product use in fourth-grade classrooms](reading-software-effects-correlated-classroom-characteristics.md) — related
 - [After one year, reading and mathematics software products did not increase or decrease test scores by amounts statistically different from zero](edtech-software-null-average-test-score-effects-year-one.md) — related
+- [Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness](software-effects-changed-between-cohorts.md) — related

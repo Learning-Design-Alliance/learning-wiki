@@ -47,3 +47,4 @@ Hypothesis test in the same 468-student survey mediation analysis. The article r
 - [Students with higher perceived academic dishonesty perceive greater risk in using ChatGPT](pad-positively-related-perceived-risk.md) — related
 - [Perceived risk of using ChatGPT is negatively associated with both use frequency and intention to use among undergraduates](perceived-risk-negative-chatgpt-use-frequency-intention.md) — related
 - [ChatGPT use frequency and intention to use are strongly positively correlated](use-frequency-intention-correlated.md) — related
+- [Cheating tendency significantly predicts AI-assisted academic dishonesty, and the association is stronger at higher levels of AI use](cheating-tendency-predicts-ai-dishonesty-moderated-by-ai-use.md) — related

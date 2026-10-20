@@ -47,3 +47,4 @@ In Experiment 2's planned comparisons on 18 first-grade children (mean age 6-8),
 - [Preschool children do not exhibit a spacing effect in free recall, although they benefit from repetition](preschoolers-no-spacing-effect-free-recall.md) — related
 - [A rehearsal-based deficient-processing account cannot explain the developmental emergence of the spacing effect](rehearsal-account-inconsistent-with-developmental-spacing-pattern.md) — related
 - [Distributed presentations are recalled better than massed presentations in free recall (the spacing effect), and requiring likelihood ratings does not alter this effect](spacing-effect-free-recall-dp-beats-mp.md) — a broader claim this one bears on
+- [Preschool children benefit from repetition in free recall, recalling repeated pictures better than once-presented ones](preschoolers-benefit-from-repetition-free-recall.md) — related

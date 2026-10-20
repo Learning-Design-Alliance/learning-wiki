@@ -62,3 +62,6 @@ Bootstrap mediation for task type in the same model: only the autonomy pathway w
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Thinking-based instruction produces higher AI literacy performance than skills-based instruction in an AIGC image-generation task](tbi-outperforms-sbi-ai-literacy-performance.md) — related
+- [The instructional manipulation check confirmed that TBI and SBI videos were perceived as intended](manipulation-check-tbi-sbi-differentiation.md) — related
+- [Autonomy, diversity, interactivity, openness and Web 2.0 showed a positive significant effect on students' achievement in a structural model](connectivist-principles-positive-effect-achievement.md) — related
+- [Open-ended tasks produce higher AI literacy performance than structured tasks](oet-outperforms-stt-ai-literacy-performance.md) — related

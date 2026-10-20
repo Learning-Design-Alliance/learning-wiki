@@ -52,3 +52,5 @@ Design Principle 1 section, a narrative research synthesis, states that "childre
 - Attachment (communion) contains the fear and anxiety associated with individual action (agency) — a narrower finding that bears on this claim
 - Regulate-relate-reason sequence: students reason once regulated and feeling supported — related
 - [Teachers' attitudes towards oral corrective feedback are guided mainly by considerations of students' feelings, which override cognitive and other components](student-feelings-guide-ocf-attitudes.md) — related
+- [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — a narrower finding that bears on this claim
+- [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related

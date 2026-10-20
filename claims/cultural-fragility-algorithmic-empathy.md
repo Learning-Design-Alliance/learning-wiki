@@ -71,3 +71,5 @@ The article's argued cross-context transfer risk, grounded in the observation th
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — a broader claim this one bears on
 - [Detection-oriented emotion AI faces contextual under-interpretation: emotional signals lack stable meanings independent of person, task, culture, and situation](contextual-under-interpretation-emotion-ai.md) — related
 - [No reviewed participatory design method satisfies all seven criteria for designing disruptive socio-technical systems](no-reviewed-method-meets-all-seven-criteria.md) — related
+- [Algorithmically inferred measurement functions may intensify, rather than resolve, the problem of nomic measurement in analyzing student learning](ai-intensifies-nomic-measurement-problem.md) — related
+- [Personas developed without care and empathy can create stereotypes](personas-risk-stereotypes-without-empathy.md) — related

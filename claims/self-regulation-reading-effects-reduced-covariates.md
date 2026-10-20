@@ -64,3 +64,5 @@ Model E growth model adding processing speed and receptive vocabulary. Self-regu
 ## Related Claims
 - [The interaction of cortisol and alpha amylase at 48 months is unrelated to math and reading ability at prekindergarten and to growth](cortisol-amylase-interaction-unrelated-academic.md) — related
 - [Directly assessed effortful control at 48 months predicts prekindergarten math but not reading, and not growth in either](direct-effortful-control-predicts-math-not-reading.md) — related
+- [African American children show lower prekindergarten math but faster math growth, and higher prekindergarten letter–word knowledge with slower growth after covariate adjustment](african-american-ethnicity-math-reading-growth-patterns.md) — related
+- [Executive function at 48 months positively predicts mathematics ability at prekindergarten, with effects persisting after cognitive covariate controls](executive-function-predicts-math-persisting-covariates.md) — related

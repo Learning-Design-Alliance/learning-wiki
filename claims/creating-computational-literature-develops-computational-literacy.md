@@ -54,3 +54,4 @@ This is a single-course case study (q1) with two student pairs (n=4) and no comp
 - [Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks](heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [Digital literacy means understanding how to use tools while digital fluency means creating something new with them](digital-literacy-versus-digital-fluency-distinction.md) — related
+- [Comment revision effort concentrates on Multi-Step-Block and other procedural constructs, with the widest flows ending in Heavy Modification](revision-hotspots-multi-step-block-heavy-modification.md) — related

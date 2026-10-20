@@ -53,3 +53,6 @@ Abstract-adjacent measurement model result in the same 230-participant SEM study
 - [Creativity (divergent thinking ability) is predicted by both updating and inhibition, but not by shifting ability.](updating-and-inhibition-predict-creativity.md) — related
 - [Updating ability strongly predicts fluid intelligence, while shifting and inhibition do not significantly predict it.](updating-predicts-fluid-intelligence-not-shifting-inhibition.md) — related
 - [Fluid intelligence strongly predicts the creative quality of produced metaphors (β = .45)](gf-predicts-creative-metaphor-quality.md) — related
+- [In children, shifting is a more powerful predictor of creativity than fluid and crystallized intelligence](shifting-stronger-creativity-predictor-than-intelligence.md) — related
+- [Men scored higher than women on rated divergent thinking creativity in this sample, with no sex differences in fluid intelligence or the executive functions.](sex-difference-creative-potential-sample.md) — related
+- [Openness to experience predicts creative metaphor quality, and controlling for personality reduces Gc's creative-metaphor effect to zero](openness-predicts-creative-metaphor.md) — related

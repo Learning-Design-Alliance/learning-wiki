@@ -50,3 +50,6 @@ Confirmatory test of H1 comparing the AI-only condition (M = 0.62, SD = 0.34) wi
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](gpt4-access-harms-learning-after-withdrawal.md) — reports the opposite
 - [GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning](genai-weakens-effort-adjustment-to-incentives.md) — related
 - [Prior genAI access shows only exploratory evidence of poorer subsequent unaided reasoning, within the no-incentive condition, and no preregistered main effect](prior-genai-use-poorer-unaided-reasoning.md) — related
+- [AI-assisted performance during skill-building does not transfer to subsequent unassisted performance](ai-assisted-performance-no-unassisted-transfer.md) — reports the opposite
+- [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](ai-performance-metacognition-dissociation.md) — related
+- [Participants deprived of relevant relational knowledge in Stage 1 take longer on the subsequent network-reasoning task](control-condition-slower-network-reasoning.md) — related

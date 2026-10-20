@@ -44,3 +44,4 @@ The report's framing statement, offered without supporting data or citation in t
 
 ## Related Claims
 - [Value-added estimates are likely to be noisy with the amount of data typically used in practice](value-added-estimates-noisy-typical-data.md) — related
+- [CALPADS course record availability varied by year, with 62% of 2015 graduates having records for all four school years and 20% missing only 2011-12](calpads-course-availability-varies-by-year.md) — related

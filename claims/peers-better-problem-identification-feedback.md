@@ -47,3 +47,5 @@ MANCOVA result for the identification component (Table 1): peer mean 1.52 (SD 0.
 
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — the general claim this finding bears on, with the studies behind it
 -
+- [ChatGPT produced more descriptive feedback than peers on argumentative essays](chatgpt-more-descriptive-feedback-than-peers.md) — related
+- [Trained human evaluators provided higher-quality formative feedback than ChatGPT on four of five components, while ChatGPT outperformed humans on criteria-based feedback](chatgpt-feedback-quality-versus-human-raters.md) — related

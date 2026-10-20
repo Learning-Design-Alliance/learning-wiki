@@ -41,4 +41,8 @@ Study 2 narrative-role coding using Cassell and Ryokai's three-category scheme (
 
 
 ## Related Claims
--
+- [The augmentation effect on cooperative play replicated in Study 2, with a large playset-by-behavior interaction and no overlap in confidence intervals](cooperative-play-replicated-study2-interaction.md) — related
+- [An audio-augmented toy produced significantly longer cooperative play than the same toy without augmentation in triads of 6- to 11-year-olds](audio-augmented-toy-doubles-cooperative-play-study1.md) — related
+- [Attention bids were significantly more likely to succeed with the augmented toy (68% vs 52% success)](attention-bids-more-successful-augmented-toy.md) — related
+- [Joint narratives after augmented play were rated more creative, and per-child creativity correlated with cooperative play (r = 0.72) and negatively with parallel play](narrative-creativity-linked-to-cooperative-play.md) — related
+- [Parent narrative utterances at 42 months predict child PPVT at 54 months with quantity, SES, and prior vocabulary controlled](narrative-utterances-42-months-predict-vocabulary-54-months.md) — related

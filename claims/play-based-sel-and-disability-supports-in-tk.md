@@ -66,3 +66,5 @@ Descriptive survey results on instructional practices for children with disabili
 - [A growing share of LEAs adopted social-emotional and developmentally appropriate strategies, led by play-based learning at 82%](tk-sel-strategies-adoption-growth.md) — related
 - [87% of TK classrooms were reported as inclusive of students with disabilities, and use of instructional adaptations rose to 71% of LEAs](tk-inclusive-classrooms-and-disability-supports.md) — related
 - [87% of TK classrooms were inclusive of students with disabilities, and most LEAs provided adaptations and additional staff, though rising special education needs strained resources](tk-inclusion-students-with-disabilities.md) — related
+- [California TK classrooms most commonly used social-emotional and literacy-specific curricula, but about a quarter of LEAs used kindergarten curriculum in TK](tk-curricula-domain-specific-and-kindergarten-misalignment.md) — related
+- [Utah Schools for the Deaf and Blind adapted the Resilience, Rights & Respectful Relationships curriculum for intentional, direct SEL instruction with deaf students](intentional-sel-instruction-deaf-students.md) — related

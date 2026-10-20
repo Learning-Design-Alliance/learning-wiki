@@ -47,3 +47,4 @@ Parameter estimates from the fitted mutualism LCS model in the Results section o
 - [The mutualism model provides the best account of longitudinal changes in vocabulary and matrix reasoning, with by far the highest normalized model-selection probability](mutualism-model-best-fit-vocabulary-reasoning.md) — related
 - [The mutualism model's coupling structure held equally across sexes and age did not directly predict change scores](coupling-robust-across-sexes-age.md) — related
 - [Both cognitive domains showed significant growth, negative self-feedback, and substantial individual differences in change over the interval](univariate-lcs-growth-negative-feedback.md) — related
+- [Scores from a different subject test can serve as collateral information: mathematics scores can improve reading item parameter estimation and vice versa](cross-test-scores-as-collateral-information.md) — related

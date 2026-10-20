@@ -50,3 +50,6 @@ R² values from the structural model of 533 respondents; the article states the 
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
 - [AI verification literacy does not directly predict critical thinking or technical problem-solving](ai-verification-literacy-no-direct-effect.md) — related
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
+- [Adding time-varying task features roughly halves unexplained variance in disciplinary engagement ratings](task-features-explain-half-de-variance.md) — related
+- [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related
+- [Epistemic orientation and intellectual values jointly predict students’ critical use of genAI, accounting for about one-third of its variance](epistemic-orientation-intellectual-values-predict-critical-genai-use.md) — related

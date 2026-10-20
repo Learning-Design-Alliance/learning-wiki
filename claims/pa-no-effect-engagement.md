@@ -48,3 +48,6 @@ Three-level meta-analysis with CHERVE of PA-versus-non-PA comparisons measuring 
 - [Pedagogical agents show essentially no effect on learners' intrinsic motivation (g = 0.00)](pa-no-effect-intrinsic-motivation.md) — related
 - [In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback](ai-peer-feedback-higher-cognitive-engagement.md) — related
 - [Pedagogical agents do not significantly affect learners' value beliefs (g = 0.09, non-significant)](pa-no-effect-value-beliefs.md) — related
+- [Pedagogical agents enhance learning compared with learning environments that do not feature agents](pedagogical-agents-enhance-learning.md) — related
+- [Pedagogical agents significantly improve learners' interest (g = 0.30), with the effect depending on the type of control condition](pa-improve-interest.md) — related
+- [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — related

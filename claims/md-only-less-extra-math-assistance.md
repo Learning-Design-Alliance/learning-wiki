@@ -45,3 +45,4 @@ In a subset of the CLDRC sample with available intervention information, "a sign
 ## Related Claims
 - [The comorbid RD+MD group is more impaired than groups with RD only or MD only on seven of ten neuropsychological composites](rd-md-comorbid-more-impaired-neuropsych.md) — related
 - [Math difficulties are more strongly associated with social isolation than reading difficulties, and peer dislike of readers with RD is explained by ADHD symptoms](md-social-isolation-rd-peer-dislike-adhd.md) — related
+- [Children with comorbid RDMD are significantly more impaired than children with isolated RD or MD in math, reading, and executive function outcomes](rdmd-more-impaired-than-isolated-groups.md) — related

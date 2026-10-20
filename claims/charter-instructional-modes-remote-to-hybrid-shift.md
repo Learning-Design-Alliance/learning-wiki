@@ -45,3 +45,9 @@ Descriptive survey results on instructional modes over time (Figure 3). The repo
 ## Related Claims
 - [Surveyed charter schools transitioned to remote education delivery in less than a week after physical closure in March 2020, averaging 3.5 days](charter-schools-remote-transition-35-days.md) — related
 - [Schools reported that about 40 percent of their students experienced considerable or major academic losses since March 2020](charter-schools-reported-student-academic-losses.md) — related
+- [Most New York charter schools reported decreases in learning time across subjects during closure, with low prior reading proficiency associated with larger ELA/Reading time losses](learning-time-decreases-proficiency-moderation.md) — related
+- [Nearly all surveyed charter schools provided remote-learning professional development to teachers, compared with under half of district reopening plans](charter-remote-learning-pd-nearly-universal.md) — related
+- [Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped](device-access-gap-internet.md) — related
+- [Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties](teacher-remote-challenges-attention-not-technology.md) — related
+- [Just under half of New York charter schools (45.8%) reported no challenges supporting ELL/MLL students remotely; high-poverty schools were more likely to report challenges](ell-mll-remote-support-challenges.md) — related
+- [Self-directed and blended learning time increased for nearly all New York charter schools during remote instruction, regardless of whether those modes were part of their prior models](self-directed-learning-increase-universal.md) — related

@@ -66,3 +66,5 @@ Consistency analysis of the same interview measure: 0 of 21 preinstruction stude
 - [Physical and virtual instructional materials are equally effective for teaching fourth- and fifth-graders to design unconfounded experiments when instructional method is controlled](physical-virtual-materials-equal-cvs-learning.md) — related
 - [Individual children in both training conditions were equally likely to become good experimenters or nonlearners after CVS training](good-experimenter-classification-equal-conditions.md) — related
 - [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md) — related
+- [In the underlying laboratory study, only expository instruction combined with probes produced CVS learning, with transfer limited by grade level](lab-expository-instruction-probes-effective.md) — related
+- [Group CVS performance on classroom worksheets rose after instruction, and experimentation alone without instruction produced no significant gain](classroom-worksheet-cvs-gains.md) — related

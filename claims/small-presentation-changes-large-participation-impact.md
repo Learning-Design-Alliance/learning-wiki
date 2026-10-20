@@ -48,3 +48,6 @@ This is the brief's framing statement, attributed generally to behavioral scienc
 - [Survey data indicate the ability signal had informational value, leading students to revise self-assessed ability and AP plans consistent with Bayesian learning](ability-signal-informational-value-bayesian-updating.md) — a narrower finding that bears on this claim
 - [The way school information is presented to parents affects how that information is understood, perceived, and used, according to the study behind the guide](school-info-presentation-affects-parent-understanding.md) — a narrower finding that bears on this claim
 - Data tools that make on-track information easy to act on changed how teachers and school staff interact with students and parents — related
+- [Students who were not surveyed for the study did not respond to the ability signal](non-surveyed-students-did-not-respond-to-signal.md) — a narrower finding that bears on this claim
+- [Education data can easily leave educators and policymakers unmoved or drown them in extraneous information rather than driving decisions](data-often-fails-to-drive-education-decisions.md) — related
+- [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — a narrower finding that bears on this claim

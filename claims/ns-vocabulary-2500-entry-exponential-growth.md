@@ -46,3 +46,6 @@ The review attributes these figures to Moskowitz (1978), a study it describes as
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
 - [A critical mass of roughly 10,000-12,000 words is needed for fluent reading, from which ESL strategies can begin](vocabulary-critical-mass-10000-12000-words.md) — related
+- [Native and non-native learners require around 30 years to reach asymptotic performance](thirty-years-to-asymptotic-performance.md) — related
+- [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](fast-mapping-full-mapping-word-learning.md) — related
+- [Number of exposures was the strongest predictor of incidental vocabulary learning of both word form and meaning](exposure-frequency-strongest-predictor-vocabulary-learning.md) — related

@@ -46,3 +46,5 @@ The authors compared observed audiovisual Common Phrases scores with a simple ad
 - [Audiovisual presentation yields significantly higher sentence recognition than auditory-alone presentation for most children with cochlear implants](av-sentence-recognition-exceeds-auditory-alone-ci-children.md) — related
 - [No significant group-level difference between auditory-alone and visual-alone sentence recognition, with substantial individual modality preferences](no-group-difference-auditory-visual-alone.md) — related
 - [Audiovisual gain correlates positively with speech intelligibility in children with cochlear implants](av-gain-correlates-speech-intelligibility.md) — related
+- [Children with higher auditory-alone spoken word recognition scores show higher audiovisual gain, for easy-word measures but not the hardest tests](auditory-word-recognition-predicts-av-gain-ci-children.md) — related
+- [Individuals with dyslexia show impairments in audiovisual integration beyond phoneme-grapheme mapping](dyslexia-audiovisual-integration-impairments.md) — related

@@ -94,3 +94,6 @@ An intact group of 37 four-year-olds at a play-oriented preschool was rated on b
 - [Kindergarten spatial orientation performance longitudinally predicts arithmetic performance four months later](spatial-orientation-predicts-arithmetic-kindergarten.md) — related
 - [Effects of two-dimensional mental rotation training on children's mathematics performance are mixed, with significant correlations between rotation and mathematics measures](2d-rotation-training-math-effects-mixed.md) — related
 - [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — related
+- [ANS acuity is a unique concurrent predictor of preschool math ability beyond expressive vocabulary, non-numerical attention RT, and memory span](ans-acuity-unique-concurrent-predictor-beyond-domain-general.md) — related
+- [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — related
+- [Supporting early childhood math development is important for young children's development](early-math-development-importance.md) — a broader claim this one bears on

@@ -43,4 +43,7 @@ The article reports, citing Ploetzner et al. (2020), a re-analysis of the Berney
 
 
 ## Related Claims
--
+- [Learning from a single static picture is significantly more successful than learning from an animation or four pictures when identifying spatial arrangements of joined links](single-picture-beats-animation-for-spatial-arrangements.md) — reports the opposite
+- [Learning from an animation is significantly more successful than learning from static pictures when identifying the specific motions of a gear mechanism's links](animation-beats-static-pictures-for-identifying-motions.md) — a narrower finding that bears on this claim
+- [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — a broader claim this one bears on
+- [Visualization format has a large multivariate and univariate effect on identifying motions and spatial arrangements](manova-omnibus-visualization-format-effect.md) — related

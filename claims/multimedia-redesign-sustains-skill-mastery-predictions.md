@@ -46,3 +46,6 @@ Study 2 replicated Study 1 analyses with students who completed a multimedia red
 
 - [Completing the Science of Learning to Learn training conferred an effect of about one-third of a letter grade (d ~ 0.3) on subsequent quizzes and exams in the original randomized study](slll-training-letter-grade-effect.md)
 - [Declarative and conceptual levels of learning-skill mastery predicted biology exam performance, but application-level knowledge did not](declarative-conceptual-skill-mastery-predicts-exams-application-does-not.md)
+- [Behavioral and environmental regulation knowledge during digital SRL training predicted biology exam performance](srl-skill-training-predicts-biology-exam.md) — possibly the same claim (merge candidate)
+- [Behavioral and environmental regulation knowledge demonstrated during digital SRL training predicted biology midterm and final exam grades, while knowledge of SRL processes did not](behavioral-environmental-regulation-knowledge-predicts-biology-exams.md) — related
+- [Training activity scores in cognitive, metacognitive, and behavioral/environmental regulation each significantly related to subsequent exam performance after controlling for prior knowledge](training-scores-partial-correlations-exams.md) — related

@@ -48,3 +48,4 @@ Theoretical review in §4.1 attributing the global/local distinction to Burt (19
 - Students agree with and list cognitive responses to unintelligible communications — related
 - [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) — related
 - [Skilled EFL writers apply procedural planning strategies of brainstorming, organizing, and outlining before writing, and revising strategies of pause-to-think, reviewing, and local plus global revision.](skilled-writers-planning-revising-strategies.md) — related
+- [Page writers corrected significantly more coherence errors than Scroll writers, while surface and cohesion corrections did not differ](page-revising-coherence-corrections.md) — related

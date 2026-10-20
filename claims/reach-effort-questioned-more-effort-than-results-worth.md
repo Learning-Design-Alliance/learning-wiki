@@ -46,3 +46,5 @@ Survey of teachers and evaluators (principals and assistant principals) in the y
 - [Both teachers and administrators report REACH increased their levels of stress and anxiety](reach-increased-teacher-and-administrator-stress.md) — related
 - [Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation](reach-perceptions-stable-year-two-to-year-three.md) — related
 - [Teachers and principals remain optimistic about REACH in year two, but teacher satisfaction with the evaluation process declined from year one](reach-year-two-optimism-declining-satisfaction.md) — related
+- [Most teachers believe their REACH evaluation relies too heavily on student growth and question the fairness of the growth assessments](reach-teachers-question-student-growth-weight-fairness.md) — related
+- [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](reach-changing-practice-communication-collaboration.md) — related

@@ -49,3 +49,5 @@ Experiment 4 with 161 undergraduates viewing 16 words sequentially for 5 s each;
 - [Relative to random choice, a metacognitive judgment of remembering boosted recall while a judgment of forgetting was associated with a memory cost](metacognitive-judgment-versus-random-choice.md) — related
 - [Words participants said they would remember were recalled earlier in output than words predicted to be forgotten or words not given a prediction](remember-predictions-recall-and-output-order.md) — related
 - [In self-cued directed forgetting, selected words were better recalled than unselected words regardless of whether they were designated to-be-remembered or to-be-forgotten](self-cued-directed-forgetting-selection-benefit.md) — reports the opposite
+- [Merely selecting words by clicking on them, without any memorability instructions, enhanced their recall (a choice effect)](word-selection-choice-effect-enhances-recall.md) — related
+- [Studying one's highest-curiosity items produced better recall than studying lowest-curiosity items](studying-high-curiosity-items-improves-recall.md) — related

@@ -54,3 +54,4 @@ Content analysis of the six instructors' interviews showed limited strategy know
 - [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — related
 - [The frequency of oral corrective feedback differs across instructional contexts](cf-frequency-varies-across-instructional-contexts.md) — related
 - [Learners prefer receiving corrective feedback more than teachers feel they should provide it](learners-prefer-cf-more-than-teachers-provide.md) — related
+- [Awareness of how learners' conceptual representations deviate from native-speaker preferences can help teachers decide where to focus classroom attention, promoting conceptual fluency](conceptual-deviation-awareness-guides-teacher-attention.md) — related

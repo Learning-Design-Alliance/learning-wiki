@@ -65,3 +65,9 @@ Reading holdout results for the direct approach: "The overall RMSE (0.86) and MA
 - [Direct Llm Accuracy Varies By Grade Early Grades Worse](direct-llm-accuracy-varies-by-grade-early-grades-worse.md)
 - [Feature Based Llm Models Outperform Direct Estimation And Benchmarks](feature-based-llm-models-outperform-direct-estimation-and-benchmarks.md)
 - [LLM-extracted cognitive and linguistic features add predictive value beyond readily available item metadata (grade, domain, item type, word count)](llm-features-add-value-beyond-item-metadata.md) — related
+- [91% of LLM-simulated ideas fell within grade-level knowledge scope, but within-scope proportions were significantly lower for elementary and middle school than high school](llm-ideas-knowledge-scope-91-percent-lower-grades-lag.md) — related
+- [Epi2Diff achieves the best performance across all four item-difficulty test sets and all reported metrics, outperforming SLM fine-tuning, LLM prompting, and supervised LLM adaptation baselines](epi2diff-best-across-four-difficulty-benchmarks.md) — related
+- [Hypothesis-based predictors match or beat black-box difficulty regressors on unseen questions](hypothesis-predictor-matches-black-box-regressors.md) — related
+- [Zero-shot LLMs perform only marginally above random in five-class competency classification but exceed 70% accuracy on binary classification](zero-shot-llm-granularity-competency-classification.md) — related
+- [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related
+- [Perceived task difficulty ratings show a strong relation to Rasch-estimated relative task difficulty, supporting construct validity of the single-item scale](perceived-task-difficulty-correlates-with-relative-task-difficulty.md) — related

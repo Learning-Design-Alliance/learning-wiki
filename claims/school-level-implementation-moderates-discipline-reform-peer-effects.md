@@ -57,3 +57,6 @@ Difference-in-differences analysis of the Philadelphia reform finds that "Postre
 - [District policies discouraging suspensions show mixed effects: shortened suspensions were associated with improved attendance but worse school climate](discipline-policy-changes-mixed-effects.md) — related
 - [School culture changes during turnaround coincided with suspension rates falling from roughly one in four students suspended per year to zero suspensions](perry-street-suspension-reduction-culture-turnaround.md) — related
 - [Student exposure to restorative practices improves standardized test performance and reduces suspension probability and duration](restorative-practice-exposure-improves-achievement-reduces-suspension.md) — related
+- [Negative achievement effects of suspension are robust to instrumental variable estimates leveraging a district-wide suspension policy change](suspension-effects-robust-to-iv-policy-change.md) — related
+- [Exposure to suspensions for serious misconduct has very small negative spillovers onto peer achievement](suspension-spillovers-small-negative-peer-achievement.md) — related
+- [Peer exposure to suspensions does not change peer absences](suspension-spillovers-no-change-peer-absences.md) — related

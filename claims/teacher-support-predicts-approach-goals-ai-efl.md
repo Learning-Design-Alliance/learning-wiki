@@ -51,3 +51,5 @@ Structural equation modeling of survey data from 758 Chinese university EFL lear
 - [Teacher support correlates with mastery-approach and performance-approach goals and engagement, but not with avoidance-oriented goals](teacher-support-correlations-avoidance-goals-null.md) — related
 - [Teacher support directly and positively predicts learning engagement in AI-assisted English learning](teacher-support-direct-effect-engagement-ai.md) — related
 - [Only mastery-approach and performance-approach goals mediate the relationship between teacher support and engagement in AI-assisted English learning](approach-goals-mediate-support-engagement-ai.md) — related
+- [Mastery and performance-approach goals positively predict self-efficacy while performance-avoidance goals negatively predict it across all three grade levels](achievement-goals-predict-self-efficacy.md) — related
+- [Epistemic beliefs about the justification of scientific knowledge predict mastery and performance-approach goals positively and performance-avoidance goals negatively in fifth grade](justification-beliefs-predict-achievement-goals.md) — related

@@ -47,3 +47,4 @@ Randomized factorial experiment with 3,500 low-income parents choosing schools i
 - [Setting the default sort order to academic performance instead of distance from home induces parents to choose academically higher performing schools](default-sort-academic-performance-shifts-school-choices.md) — possibly the same claim (merge candidate)
 - [Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior](five-design-factors-impact-parent-school-choice-outcomes.md) — a broader claim this one bears on
 - [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — a broader claim this one bears on
+- [High school students used Google page rank as a first-order heuristic for relevance](google-page-rank-first-order-relevance-heuristic.md) — related

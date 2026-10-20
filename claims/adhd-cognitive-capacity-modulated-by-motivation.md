@@ -46,3 +46,6 @@ The authors' summary conclusion drawn from the quasi-experiment with 30 ADHD and
 - [Both ADHD subtypes show equally pronounced motivational deficits that impair visuospatial STM and WM performance](adhd-subtypes-equal-motivational-deficits.md) — a narrower finding that bears on this claim
 - [Memory and motivation represent independent neuropsychological domains in children with ADHD](memory-motivation-independent-neuropsychological-domains.md) — reports the opposite
 - [Motivation did not interact with visuospatial attention effects on post-stimulus visual evoked potentials to imperative stimuli](motivation-no-post-stimulus-vep-modulation.md) — related
+- [High reinforcement improves STM and WM performance in both ADHD subtypes but not in controls](high-reinforcement-improves-stm-wm-adhd.md) — a narrower finding that bears on this claim
+- [Motivational impairments in reinforcement sensitivity are uncommon (22% impaired) and equally prevalent in both ADHD subtypes](motivational-impairments-uncommon-22-percent-equal-subtypes.md) — related
+- [The motivation manipulation improved attention performance in children with ADHD but did not change TD children's performance](motivation-improves-adhd-not-td-performance.md) — a narrower finding that bears on this claim

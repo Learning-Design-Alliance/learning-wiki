@@ -45,3 +45,6 @@ Findings from interviews with the first cohort of pilot principals about impleme
 ## Related Claims
 - [Fifty-seven percent of principals were highly enthusiastic about the Framework-based evaluation process while 43 percent held mixed to negative attitudes](principal-attitudes-toward-framework-evaluation.md) — related
 - [Districts implementing new teacher evaluation systems faced challenges reducing the burden on principals](teacher-evaluation-principal-burden-challenge.md) — related
+- [Districts implementing new teacher evaluation systems faced challenges using evaluations for instructional improvement](teacher-evaluation-challenge-instructional-improvement.md) — related
+- [In one case-study school, a principal's lack of Framework knowledge and inability to rate practice led teachers to perceive the new evaluation as subjective, undermining buy-in](principal-framework-knowledge-subjectivity-perception.md) — related
+- [Principals' attitudes toward and framing of the REACH evaluation system shaped teachers' engagement with the evaluation process](principal-attitudes-shape-teacher-evaluation-engagement.md) — related

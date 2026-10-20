@@ -45,3 +45,5 @@ Descriptive comparison of test length and duration (in minutes) from the Nebrask
 ## Related Claims
 - [Within a single administration, COLO administered more items and overexposed fewer items than the CBE, likely due to its randomesque exposure-control procedure](colo-better-within-administration-item-exposure.md) — related
 - [Differences in test-taking engagement across content categories were primarily due to differences in the reading load of items](engagement-differences-across-content-categories-due-to-reading-load.md) — related
+- [Growth-score differences between CBE and COLO are small, exceeding 0.2 only in Reading Grades K–1 (favoring CBE) and Mathematics Grade 8 (favoring COLO)](map-growth-cbe-colo-growth-effect-sizes-small.md) — related
+- [Item exposure rates are comparable across engines, with most items below 10%, and the CBE Reading item-use rate is lower than COLO's](cbe-colo-item-exposure-comparable.md) — related

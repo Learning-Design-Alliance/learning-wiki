@@ -46,3 +46,5 @@ The report's policy section (Section VI) draws on a companion review of recruitm
 - [Researchers argue that the teacher shortage in poor school districts may stem more from retaining teachers than from attracting them](teacher-shortage-retention-not-recruitment-poor-districts.md) — related
 - [Congress created the Teacher Quality Partnership Grant Program in 2008, which funds teaching residency programs (TRPs) meant to draw highly qualified teachers to high-need schools](tqp-grant-program-created-trps-2008.md) — related
 - [Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs](service-scholarships-recruit-retain-when-generous.md) — related
+- [Traditional salary schedules may not reward effective teaching or give the most effective teachers incentives to work in high-need schools, motivating performance-based compensation](traditional-salary-schedules-may-not-reward-effective-teaching.md) — related
+- [Teacher salaries influence entry, supply, and retention in teaching](salary-increases-influence-teacher-supply-and-retention.md) — related

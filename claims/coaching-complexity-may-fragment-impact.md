@@ -46,3 +46,4 @@ An author interpretation offered in the introduction as motivation for the frame
 ## Related Claims
 - Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete. — related
 - Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes — reports the opposite
+- [Administrators' dual role as evaluator and coach can undermine the observation process's professional learning benefits](dual-evaluator-coach-role-undermines-learning.md) — related

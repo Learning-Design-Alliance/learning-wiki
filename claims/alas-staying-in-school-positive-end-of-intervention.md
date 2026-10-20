@@ -48,3 +48,4 @@ Randomized controlled trial of 94 high-risk seventh graders (46 ALAS, 48 control
 - [Check & Connect has statistically significant positive effects on staying in school for high school students with disabilities](check-and-connect-reduces-dropout-staying-in-school.md) — related
 - [ALAS effects on progressing in school and completing school fade or are non-significant after the intervention](alas-progressing-completing-null-follow-up.md) — related
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
+- [Check & Connect increases credits accrued (progressing in school) in one RCT](check-and-connect-increases-credits-progressing.md) — related

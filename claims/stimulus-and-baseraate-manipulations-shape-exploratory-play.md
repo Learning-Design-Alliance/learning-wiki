@@ -48,3 +48,5 @@ The article describes its experimental design: "By manipulating the physical pro
 - [Given ambiguous evidence, preschoolers design informative interventions in their exploratory play (Experiment 2)](preschoolers-design-informative-interventions-ambiguous-evidence.md)
 - [Given unambiguous evidence, preschoolers play indiscriminately and rarely try to isolate candidate causes](preschoolers-play-indiscriminately-unambiguous-evidence.md)
 - [Preschoolers recognize action possibilities (affordances) that allow them to isolate variables when there is information to be gained](preschoolers-recognize-affordances-for-variable-isolation.md)
+- [Learners design poor experiments: confirmation bias, inconclusive designs, and ineffective variable manipulation are common](poor-experiment-design-in-discovery.md) — related
+- [Children structure their play to reduce uncertainty and deconfound causal variables](children-play-deconfound-causal-variables.md) — related

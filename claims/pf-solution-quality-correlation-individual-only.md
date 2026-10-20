@@ -48,3 +48,5 @@ Exploratory Pearson correlations computed separately per condition (Table 4): fo
 - [Neither the quantity nor the quality of PF students' own solution attempts correlated with their conceptual knowledge acquisition](solution-attempts-not-correlated-with-conceptual-knowledge.md) — related
 - [Number of canonical components in students' PF solutions correlates with conceptual knowledge, but the range of distinct components does not](canonical-components-correlate-conceptual-knowledge.md) — related
 - [Solution quality does not mediate the effect of collaboration on conceptual knowledge in PF](pf-solution-quality-no-mediation.md) — related
+- [Solution quantity does not mediate the effect of collaboration on conceptual knowledge in PF](pf-solution-quantity-no-mediation.md) — related
+- [PF students reported more awareness of knowledge gaps than example observers, but awareness of knowledge gaps did not correlate with conceptual knowledge acquisition](knowledge-gap-awareness-not-linked-to-learning.md) — related

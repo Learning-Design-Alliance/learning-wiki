@@ -43,4 +43,7 @@ Null result of the 3×2 ANCOVA on integrated understanding, scored 0–3 per ess
 
 
 ## Related Claims
--
+- [University students spent longer processing time watching two complementary videos than reading two complementary digital texts](videos-longer-processing-time-than-texts.md) — related
+- [No significant medium, context, or medium-by-context effects on written response length as a measure of behavioral engagement](no-medium-context-effect-response-length.md) — related
+- [Greater time and effort invested in the task correlate with better integration and smaller calibration error](engagement-correlates-integration-calibration.md) — related
+- [Reading comprehension uniquely adjusted behavioral engagement, with better comprehenders investing more time and writing longer responses](reading-comprehension-adjusts-engagement.md) — related

@@ -52,3 +52,5 @@ The author states as expert interpretation that L1 transfer is "an efficient pro
 - [BICS-level language can be acquired in about two years regardless of age on arrival and first language](bics-acquired-two-years-all-ages.md) — related
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
 - [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](rote-drills-disadvantage-older-learners.md) — related
+- [Grammar-learning ability is preserved until about age 17.4 and then declines steadily, per the best-fitting ELSD model](grammar-learning-rate-declines-after-17-4-years.md) — related
+- [L1 and L2 academic proficiencies are developmentally interdependent, so instruction in either language can build underlying academic ability](l1-l2-academic-interdependence-transfer.md) — related

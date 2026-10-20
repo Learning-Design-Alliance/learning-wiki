@@ -45,3 +45,4 @@ Post-trial 5-point Likert questionnaire (Table 2 items) collected after Phase 3 
 ## Related Claims
 - [L2C outperformed both the Rule-based Fading and Minimally-invasive Assistance baselines on lap time and failure count](l2c-outperforms-rbf-mia-baselines.md) — related
 - [L2C coaching significantly reduces learners' lap times and failure counts from pre- to post-coaching in FPV drone racing](l2c-within-subject-lap-time-failure-gains.md) — related
+- [Baseline coaches produced weaker or absent learning gains: RBF improved only failure count, MIA neither outcome](baselines-weak-or-absent-skill-gains.md) — related

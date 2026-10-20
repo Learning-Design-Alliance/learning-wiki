@@ -47,3 +47,6 @@ Authors' interpretive conclusion drawn from usage data across the three pilots; 
 - US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs — related
 - [A matched-comparison analysis found no effect of the TenMarks summer program on NWEA MAP math scores](tenmarks-summer-no-effect-map.md) — related
 - [Students used their assigned ed-tech tools far below recommended levels, and usage declined over the summer](low-declining-summer-edtech-usage.md) — related
+- [Adult education programs implement technology along a spectrum of blended learning models, often multiple models within one program](adult-ed-blended-spectrum-multiple-models.md) — related
+- [When refined prompts failed, novices overgeneralized and concluded LLMs could not detect anaphors, attributing failure to the model rather than to their prompting](novice-overgeneralization-llm-incapability.md) — related
+- [Educator involvement in choosing a pilot tool is associated with higher engagement and implementation fidelity, while lack of autonomy contributed to low usage and negative feelings](educator-buy-in-engagement-fidelity-edtech-pilots.md) — related

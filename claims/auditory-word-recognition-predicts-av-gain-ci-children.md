@@ -46,3 +46,6 @@ One-tailed t-tests for independent samples compared Ra scores of high versus low
 - [Audiovisual gain correlates positively with speech intelligibility in children with cochlear implants](av-gain-correlates-speech-intelligibility.md) — related
 - [Audiovisual presentation yields significantly higher sentence recognition than auditory-alone presentation for most children with cochlear implants](av-sentence-recognition-exceeds-auditory-alone-ci-children.md) — related
 - [No significant group-level difference between auditory-alone and visual-alone sentence recognition, with substantial individual modality preferences](no-group-difference-auditory-visual-alone.md) — related
+- [Audiovisual sentence performance approximates the simple sum of unimodal scores, with no super-additive integration for familiar sentences](no-super-additive-av-integration-familiar-sentences.md) — related
+- [Audiovisual attention decomposition via forward encoding and variance partitioning yields VAC, AAC, and SAC as surrogate indicators, not direct measures of attention](audiovisual-attention-decomposition-surrogate-indicators.md) — related
+- [Children in Oral Communication programs show higher speech intelligibility than children in Total Communication programs](oc-children-higher-intelligibility-than-tc.md) — related

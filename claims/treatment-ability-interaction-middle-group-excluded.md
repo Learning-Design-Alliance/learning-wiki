@@ -47,3 +47,4 @@ Post hoc ANOVA in Experiment 2 with three treatment groups, two verbal ability g
 
 ## Related Claims
 - [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](self-questioning-benefits-low-verbal-ability-more.md) — possibly the same claim (merge candidate)
+- [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related

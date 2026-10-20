@@ -45,3 +45,6 @@ The review attributes this finding to F. Kirschner et al. (2009b), framing colla
 ## Related Claims
 - [Emotions may act as extraneous cognitive load by competing for limited working memory resources with task-irrelevant processing](emotion-as-extraneous-cognitive-load.md) — related
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — related
+- [The collective working memory effect: group learning is more efficient than individual learning for high-complexity tasks, but individual learning is more efficient for low-complexity tasks](collective-working-memory-effect-complexity-dependent.md) — possibly the same claim (merge candidate)
+- [Tool-using individuals show advantages on conceptual knowledge while collaborative learners spend less time-on-task](conceptual-knowledge-interaction-and-time-on-task.md) — related
+- [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — possibly the same claim (merge candidate)

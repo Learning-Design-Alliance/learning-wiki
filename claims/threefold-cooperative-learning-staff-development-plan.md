@@ -46,3 +46,7 @@ Project report describing a 353 staff development project in which nine instruct
 ## Related Claims
 - In a systems approach to staff development, felt needs must be legitimized by data before planning proceeds — related
 - [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](reform-teacher-training-insufficient.md) — related
+- [Schools where staff maintain strong relationships and collaborate frequently are more effective in supporting student learning and well-being, and collaboration and teacher leadership approaches contribute to staff retention](staff-collaboration-effectiveness-retention.md) — a broader claim this one bears on
+- [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related
+- [Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions](peer-monitoring-exceeds-social-presence.md) — related
+- [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related

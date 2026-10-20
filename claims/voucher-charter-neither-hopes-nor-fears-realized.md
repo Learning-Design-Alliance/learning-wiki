@@ -47,3 +47,4 @@ The book's own summary of its updated synthesis of empirical evidence on voucher
 - [Policy design details are likely critical to the effects of school choice programs](choice-program-design-details-critical-to-effects.md) — a narrower finding that bears on this claim
 - [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — a narrower finding that bears on this claim
 - After one year, DC's voucher program had no statistically significant effect, positive or negative, on public school test-score gains — a narrower finding that bears on this claim
+- [Recent studies of large statewide voucher programs found substantial negative effects on achievement for voucher students compared to similar public school students](voucher-negative-achievement-effects.md) — related

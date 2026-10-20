@@ -44,3 +44,5 @@ Histogram coding (Fig. 2) of individual student activities (coded 20 s per stude
 
 ## Related Claims
 - [Teacher communicative activities in the analysed undergraduate mathematics lesson were dominated by presentation and correction, reflecting an authoritative communicative approach](teacher-transmission-dominance-undergraduate-math-lesson.md) — related
+- [Distinct situational stress changes co-occurred with conflict situations while presenting and communicating mathematical problems](stress-peaks-cooccur-conflict-presenting.md) — related
+- [Students' situational stress (ASV) values were elevated during periods when students were engaged in tasks at the whiteboard](asv-elevated-whiteboard-presentations.md) — related

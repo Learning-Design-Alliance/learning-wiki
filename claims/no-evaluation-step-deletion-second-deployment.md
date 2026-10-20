@@ -46,3 +46,5 @@ Log-replay comparison of evaluation-stepping behavior between deployments (Table
 - [Student backtracking before setting up the correct induction decreased across exercises in both deployments, indicating a learning curve](backtracking-decreases-across-exercises.md) — related
 - [Requiring students to write out evaluation steps manually improved transfer to pen-and-paper exam performance between the two deployments](manual-evaluation-steps-improve-exam-transfer.md) — related
 - [Novice designers deleted ideas only when confronted with stakeholder friction; unsupported self-reflection produced no deletions](idea-deletion-requires-stakeholder-friction.md) — related
+- [Students backtracked far more before applying the inductive hypothesis than after, suggesting difficulty finding where to place it](backtracking-higher-before-inductive-hypothesis.md) — related
+- [In the first deployment, exam scores on the induction question were visibly lower than in previous semesters taught without the tool](first-deployment-exam-scores-lower.md) — related

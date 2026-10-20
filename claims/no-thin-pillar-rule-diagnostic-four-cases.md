@@ -64,3 +64,4 @@ In the RSG end-of-line test station case, the rule was the binding certification
 - [P2 pillar means rose from 1.3 to 2.7 between two successive unmatched teams on the same sponsor problem](case3-p2-pillar-mean-rose-between-cohorts.md) — related
 - [Cohort workforce-readiness index ranged from 5.2 to 6.4 across the four highlighted cases](wri-range-5-2-to-6-4-highlighted-cohorts.md) — related
 - [The WRL rubric transferred unchanged across four industry sectors, with research- and industry-mentored capstones yielding broadly comparable pillar profiles](wrl-rubric-transferred-across-sectors.md) — related
+- [Advancement to WRL 7 was observed only after industry-embedded exposure, not additional coursework](wrl-6-to-7-gated-by-industry-embedded-exposure.md) — related

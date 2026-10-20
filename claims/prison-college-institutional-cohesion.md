@@ -65,3 +65,4 @@ Interview data on institutional cohesion: non-enrolled women borrowed Elizabeth'
 - [Participants reported improved communication skills and faculty modeling of positive interpersonal interaction](prison-college-communication-skills-modeling.md) — related
 - [Formerly incarcerated women students reported improved disciplinary behavior while participating in a prison college program](prison-college-reduced-disciplinary-behavior-women.md) — related
 - [All surveyed former students strongly agreed that prison college participation positively affected their lives, behavior in prison, and post-release lives](prison-college-students-strongly-agree-positive-effects.md) — related
+- [Prison higher education alone was reported as insufficient for post-release employment, with criminal-record and reentry barriers persisting](prison-college-limited-employment-benefits.md) — related

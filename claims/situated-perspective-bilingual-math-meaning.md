@@ -53,3 +53,5 @@ Narrative review attributing this to Moschkovich's (1996) analysis of how Latino
 - [Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students](ai-context-misdiagnosis-systematic-harm.md) — related
 - [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](unfamiliar-contexts-distract-from-mathematics.md) — related
 - [Discontinuities during folding back, including algebraic errors while working outside the geometry topic, did not prevent effective folding back](discontinuity-during-folding-back-still-effective.md) — related
+- [Spanish–English bilinguals performed better on kindergarten mathematics assessments when tested in Spanish](bilinguals-better-math-tested-in-spanish.md) — related
+- [Students used two languages flexibly for different mathematical sub-tasks but lacked academic Spanish vocabulary](bilingualism-math-resource-untapped.md) — related

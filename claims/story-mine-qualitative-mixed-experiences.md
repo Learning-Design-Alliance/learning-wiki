@@ -47,3 +47,6 @@ Thematic analysis of postintervention open-ended responses (T1) and immediate na
 - [Expressive Writing Improves Health Outcomes](expressive-writing-improves-health-outcomes.md) — related
 - [Emotional discomfort from viewing medical images was the dominant drawback of the annotation task, alongside repetitiveness](emotional-discomfort-medical-images-main-drawback.md) — related
 - [In CSCL written civic discussions, gaps exist between a composer's emotion labeling and others' emotion recognition](emotion-labeling-recognition-gap-digital-discussions.md) — related
+- [Students perceived the future as more unpredictable after the course, often finding the openness liberating rather than distressing](course-future-perceived-more-unpredictable.md) — related
+- [After the futures-and-quantum-computing course, upper-secondary students reported a more optimistic or hopeful outlook on the future](course-fostered-optimistic-futures-outlook.md) — related
+- [Students developed varied perceptions of video annotation, citing benefits for SRL and acting alongside embarrassment and added workload](varied-student-perceptions-video-annotation.md) — related

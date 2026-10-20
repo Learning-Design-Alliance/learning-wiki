@@ -47,3 +47,5 @@ The article reports Brynjolfsson et al.'s (2025) payroll analysis of a provider 
 - [Most of the 756 occupations tracked by the Anthropic Economic Index show zero observed AI usage, concentrated in hands-on physical occupations](aei-majority-occupations-zero-ai-usage.md) — related
 - [Teen ChatGPT use doubled between 2023 and 2024 while 75% of global knowledge workers use generative AI](teen-chatgpt-use-doubled-2023-2024.md) — related
 - [The post-ChatGPT learning-time decline follows an age gradient: largest in high school (31.3% cumulative), small in middle school (9.0%), and undetectable in Grade 5](age-gradient-ai-learning-time-decline.md) — related
+- [Skill portfolio measures stratify by demographics: men, younger cohorts, and more educated workers show higher specialisation](specialisation-demographic-stratification-linkedin.md) — related
+- [College students' learning time on AI-susceptible word problems declines 2.80% per quarter relative to graph-based problems after ChatGPT's release, cumulating to 26.9% over eleven quarters](college-learning-time-declines-ai-susceptible-problems.md) — related

@@ -65,3 +65,4 @@ Subclaim that page carried for this entry, moved here 2026-10-19 because its fig
 ## Related Claims
 
 - [Student-reported safety and classroom behavior are more positive in top-quartile schools, and students feel less safe outside school than inside](student-safety-behavior-quartile-differences.md) — related
+- [Students feel safest in classrooms and least safe in areas just outside the school, with safety tracking the level of adult supervision](adult-supervision-safety-gradient.md) — related

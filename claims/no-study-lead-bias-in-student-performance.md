@@ -45,3 +45,6 @@ Bias check comparing retention index of students taught by the two study-lead in
 ## Related Claims
 
 - [The retention benefit of spaced recall quizzes holds regardless of instructor teaching experience](spaced-recall-effective-regardless-instructor-experience.md)
+- [Instructor video presence produced no significant difference in retention or transfer of Mandarin tone distinction among true-beginner learners](instructor-presence-no-retention-transfer-effect.md) — related
+- [Comprehensive teacher induction did not lead to measurable improvements in student test scores compared to business-as-usual induction in the second year of a randomized controlled study](comprehensive-induction-no-student-test-score-gains-year-two.md) — related
+- [Weekly spaced recall quizzes on fundamental concepts significantly improve 6-month retention of those concepts in a precalculus course](spaced-recall-quizzes-improve-long-term-retention-fundamental-math-concepts.md) — related

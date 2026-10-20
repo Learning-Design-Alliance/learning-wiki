@@ -65,3 +65,5 @@ Qualitative contextualization of the SNA findings shows bridging students asked 
 
 - [Participation in non-scientific discussion was weakly negatively related to participation in scientific discussion (r = 0.14, p < 0.05)](negative-qap-scientific-non-scientific.md)
 - [Non-scientific discussion was much denser than scientific discussion, with all students participating non-scientifically but only 12 scientifically](non-scientific-denser-than-scientific-discussion.md)
+- [Expert scientists fulfilled a crucial role in generating scientific discussion, with one expert holding the highest degree centrality in the scientific network](expert-scientists-drive-scientific-discussion.md) — related
+- [Higher overall participation was not associated with scientific engagement, but co-contribution with expert scientists was](participation-level-not-related-scientific-engagement.md) — related

@@ -51,3 +51,5 @@ Behavioral study in which younger adults studied object images, then after a 1-h
 - [Auditory distraction disrupts episodic retrieval equivalently to visual distraction, indicating a domain-general interference effect in long-term memory](auditory-distraction-domain-general-ltm-interference.md) — related
 - [Visual distraction disrupts functional connectivity in a left hippocampus-VLPFC-LOC network that supports episodic retrieval via visual imagery](distraction-disrupts-hippocampus-vlpfc-loc-network.md) — a narrower finding that bears on this claim
 - [Perturbing left VLPFC with rTMS exacerbates the disruptive effect of visual distraction on episodic retrieval, indicating a causal role in resolving interference](rtms-vlpfc-exacerbates-distraction-effect.md) — related
+- [Distraction during maintenance impairs working memory, with distractor processing inversely related to recognition accuracy](distraction-during-maintenance-impairs-wm.md) — related
+- [Irrelevant changing-state sounds impair children's serial recall of visually presented items, with developmental evidence pointing to two mechanisms](irrelevant-sound-effect-children-serial-recall.md) — related

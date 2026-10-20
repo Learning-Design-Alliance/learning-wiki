@@ -65,3 +65,4 @@ WWC calculations for the Taylor et al. (1991) randomized controlled trial (Appen
 - [EIR® showed large alphabetics effect sizes and improvement indices of +29 to +42 percentile points in the one qualifying study](eir-alphabetics-effect-sizes-improvement-index.md) — a narrower finding that bears on this claim
 - [EIR® had a positive, substantively important but statistically non-significant effect on first-grade reading comprehension](eir-comprehension-substantively-important-ns.md) — related
 - [The evidence base for EIR® is small: only one of seven reviewed studies met WWC evidence standards](eir-small-evidence-base-one-rct.md) — related
+- [Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures](alignment-trained-skill-larger-effects-phonological-awareness.md) — related

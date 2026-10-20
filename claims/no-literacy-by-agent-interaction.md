@@ -47,3 +47,4 @@ Null result from the prespecified ordinal regression models (n=79); the article 
 - [Perceived AI literacy moderates the direct path: the negative GenAI use–trust association is significant at low literacy and non-significant at high literacy](perceived-ai-literacy-buffers-direct-trust-association.md) — related
 - [Condition-specific mediation estimates showed a literacy–performance association in the reactive condition but not the proactive condition, with indirect effects not significant](reactive-only-literacy-performance-association-exploratory.md) — possibly the same claim (merge candidate)
 - Counterbalancing condition did not affect map accuracy and did not interact with test condition — related
+- [Proactive AI agent dialogues showed stronger conceptual–adequate reasoning links while reactive dialogues showed stronger factual/off-task associations](proactive-agent-dialogues-integrated-epistemic-reasoning.md) — related

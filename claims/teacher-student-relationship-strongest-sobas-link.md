@@ -45,3 +45,8 @@ Multilevel analyses of survey and test data from 193,073 15-year-old students in
 
 ## Related Claims
 - [SOBAS differs across attributes of countries, families, schools, teachers, and students in 41 countries](sobas-varies-across-country-family-school-teacher-student-attributes.md) — a broader claim this one bears on
+- [Collectivism is not significantly linked to students' sense of belonging at school](collectivism-not-linked-sobas.md) — related
+- [Students in more egalitarian cultures often have higher sense of belonging at school than students in more hierarchical cultures](egalitarian-cultures-higher-sobas.md) — related
+- [Family, schoolmate, teacher, and student characteristics are linked to SOBAS and account for most of its variance](multi-level-characteristics-linked-sobas.md) — a broader claim this one bears on
+- [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
+- [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related

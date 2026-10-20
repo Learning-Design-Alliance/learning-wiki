@@ -62,4 +62,6 @@ Independent-samples t-test on the five-item perceived-usefulness-for-monitoring 
 
 
 ## Related Claims
--
+- [Within the feedback condition, students rated test taking and receiving feedback as equally useful for monitoring their performance](test-taking-and-feedback-equally-useful-for-monitoring.md) — related
+- [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice](feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) — related
+- [More frequent practice-test participation predicts higher absolute accuracy of item-specific judgments in the final exam, regardless of feedback](practice-tests-improve-absolute-judgment-accuracy.md) — related

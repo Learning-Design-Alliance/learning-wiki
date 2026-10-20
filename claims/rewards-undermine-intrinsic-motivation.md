@@ -210,3 +210,11 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - [Being good role models, taking interest in students' lives outside class, and allowing students choices were the behaviours most consistently associated with positive change in engagement](role-modelling-interest-choice-top-engagement-predictors.md) — related
 - [Behavior modification programs relying on rewards rarely produce lasting changes in attitudes or behavior, and children whose parents frequently use rewards tend to be less generous](rewards-fail-lasting-change-values.md) — related
 - [Reach — which lever settings remain in force when the student is alone with AI — is the framework's organizing question](reach-organizing-question-unsupervised-ai-use.md) — related
+- [Positive reinforcement and praise correlate positively with learning while criticism correlates negatively](praise-positive-criticism-negative-learning.md) — related
+- [Grading practices can diminish interest, encourage easier paths, and reduce quality of thinking in maker education](grading-harms-maker-education-outcomes.md) — related
+- [Extrinsic incentives have mixed results on effort and achievement, working better when immediate and larger](extrinsic-incentives-mixed-results-effort-achievement.md) — related
+- [Rewards cause people to lose interest in whatever they were rewarded for doing, undermining intrinsic motivation](rewards-undermine-intrinsic-interest.md) — a narrower finding that bears on this claim
+- [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — related
+- [People expecting a reward for a task perform worse than those expecting nothing, especially on tasks requiring cognitive sophistication and open-ended thinking](rewards-reduce-task-performance.md) — related
+- [Financial incentives do not decrease intrinsic motivation, though point estimates are too imprecise to detect any effect](incentives-no-intrinsic-motivation-harm.md) — reports the opposite
+- [Most African students enrolled in the SuaCode smartphone coding course for intrinsic rather than extrinsic reasons (68.7% vs 31.3% of coded motivations)](suacode-african-students-intrinsically-motivated.md) — a narrower finding that bears on this claim

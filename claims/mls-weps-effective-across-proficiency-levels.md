@@ -51,3 +51,4 @@ Regression analyses within treatment groups controlling prior knowledge. Unit 1 
 - [English learners' mathematical performance was positively correlated with English proficiency, more strongly for explanations than calculations](math-performance-correlated-with-proficiency.md) — related
 - [MLS-WEPs intervention predicted higher Unit 1 calculation and explanation scores among English learners when controlling for prior knowledge](mls-weps-improved-unit1-calculation-explanation.md) — related
 - [MLS-WEPs improved the quality of written explanations, with larger gains in fully correct explanations and reduced blank and concept-irrelevant responses](mls-weps-improved-explanation-quality.md) — related
+- [MLS-WEPs intervention predicted higher Unit 2 (functions) calculation and explanation scores when controlling for prior knowledge](mls-weps-improved-unit2-calculation-explanation.md) — related

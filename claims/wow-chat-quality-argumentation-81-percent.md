@@ -43,4 +43,5 @@ The editorial reports an ethnographic study by Esra Alagoz of 22 teenage boys id
 
 
 ## Related Claims
--
+- [Argumentation quality in multiplayer game chat is an attribute of group interaction, not of individual utterances](group-argumentation-attribute-of-group-interaction.md) — related
+- [Only Grade 10 Liberal Studies students engaged in simple argumentation, complex argumentation, and theory-oriented interactions, possibly due to the subject's emphasis on argumentation](argumentation-only-in-liberal-studies.md) — related

@@ -43,4 +43,9 @@ ANOVA on four annual MCK measurements of 115 Yao and 108 Han students (223 total
 
 
 ## Related Claims
--
+- [In Han students, higher initial metacognitive knowledge predicted both a higher starting point and a faster growth rate of vocabulary breadth](mck-predicts-vk-han-parallel-development.md) — related
+- [Metacognitive knowledge scores increased cumulatively over time, and the time-by-ethnic-group interaction showed Han and Yao students followed different MCK development trends](mck-cumulative-growth-group-interaction.md) — related
+- [Han students significantly outperformed Yao students in breadth of English vocabulary knowledge, with a significant time-by-group interaction in development patterns](han-outperform-yao-vk-breadth.md) — related
+- [For Han students, metacognitive knowledge followed a quadratic (accelerating) growth model while vocabulary breadth followed a linear growth model, and initially high vocabulary knowledge predicted faster later vocabulary growth](han-mck-quadratic-vk-linear-growth.md) — related
+- [For Yao students, both metacognitive knowledge and vocabulary breadth were best described by linear growth models with significant intercepts and slopes](yao-linear-growth-mck-vk.md) — related
+- [In Yao students, metacognitive knowledge and vocabulary breadth showed a common growth trend: higher initial MCK predicted higher initial VK, and faster MCK growth predicted faster VK growth](mck-vk-common-growth-yao.md) — related

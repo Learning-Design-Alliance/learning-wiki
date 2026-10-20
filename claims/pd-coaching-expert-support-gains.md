@@ -68,3 +68,5 @@ Powell and colleagues (2010) coaching model for early childhood educators: biwee
 - [Collaboration appeared in 32 of 35 reviewed studies, and collaborative PD models showed student achievement gains](pd-collaboration-prevalence-and-gains.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [All 35 reviewed studies used models or modeling, and curriculum without PD support yielded worse outcomes than older curriculum with none](pd-models-and-curriculum-support.md) — related
+- [Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills](ongoing-pd-mentorship-critical-coach-growth.md) — related
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — a broader claim this one bears on

@@ -69,3 +69,6 @@ Supplemental (non-rating) subgroup findings from the same trial: male students (
 - Before this trial, online credit recovery was widely used despite no rigorous evidence on its relative efficacy versus face-to-face courses — related
 - [A 6-week computerized Latin and Greek root-word program improved SAT verbal scores (Holmes & Keffer, 1995; effect size 0.49)](root-word-computer-program-improves-sat-verbal-holmes-keffer.md) — related
 - [Self-reported test preparation showed no significant difference in ACT composite scores in a national sample (Scholes & Lain, 1997, Experiment 2)](self-reported-act-prep-no-significant-difference-scholes-lain.md) — reports the opposite
+- [A school SAT preparation course improved SAT scores at one Texas school (Filizola, 2008; domain average effect size 0.28), driven by the mathematics subtest](sat-prep-course-texas-improves-sat-filizola.md) — related
+- [Test strategies and item practice are not effective mechanisms for raising ACT scores; improvements are smaller the more class time goes to test preparation](test-prep-practice-ineffective-for-act-gains.md) — reports the opposite
+- [Embedding computational thinking in a sixth-grade mathematics classroom significantly increased students' understanding of mathematical processes versus control](ct-embedded-sixth-grade-math-increased-understanding.md) — related

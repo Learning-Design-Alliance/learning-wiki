@@ -46,3 +46,5 @@ Descriptive service-use analysis of EI records for the 525 children who initiate
 - [Discipline-specific intensity associations: developmental intervention with social-emotional gains and speech therapy with adaptive function gains](ei-discipline-specific-functional-gain-associations.md) — related
 - [Each additional hour per month of EI service was associated with a 3-point functional gain on Child Outcomes Summary scores](ei-intensity-associated-with-functional-gains.md) — related
 - [Family income and race/ethnicity were associated with occupational therapy intensity, with higher-income children receiving more intensive OT](ei-ot-intensity-income-and-race-disparities.md) — related
+- [Intensity of SES services and other provider characteristics are not significantly related to estimated impacts](ses-provider-characteristics-not-related-to-impacts.md) — related
+- [Most children in a safety-net EI cohort received delayed care plans, with only 43% receiving an EI care plan within the 45-day federal deadline](safety-net-ei-delayed-care-plans-43-percent-within-deadline.md) — related

@@ -55,3 +55,4 @@ The brief reports, citing University of Chicago Consortium re-examination studie
 - [Multiple student survey measures negatively predicted GPA; significant negative associations were otherwise rare](student-survey-measures-negative-gpa-prediction.md) — related
 - [A positive school climate improves academic achievement and reduces the negative effects of poverty on achievement](positive-school-climate-improves-achievement.md) — related
 - [As teachers gain experience, their students are more likely to do better on measures beyond test scores, such as school attendance](experience-benefits-beyond-test-scores-attendance.md) — related
+- [School and teacher effects on students' school experiences influence social and educational trajectories more than their effects on academic achievement measures](school-experience-effects-outweigh-achievement-effects.md) — related

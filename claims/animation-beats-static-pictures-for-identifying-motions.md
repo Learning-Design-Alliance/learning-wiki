@@ -45,3 +45,8 @@ Three-group randomized experiment with 88 undergraduate pre-service teachers; gr
 ## Related Claims
 
 - [Learners' mechanical ability and spatial ability were not significantly related to identification performance in the main study](spatial-mechanical-ability-null-relation.md)
+- [A pre-study confirmed learners could reliably distinguish the motions and arrangements used as response options in the main study](pre-study-distinguishability-check.md) — related
+- [Learning from a single static picture is significantly more successful than learning from an animation or four pictures when identifying spatial arrangements of joined links](single-picture-beats-animation-for-spatial-arrangements.md) — related
+- [Visualization format has a large multivariate and univariate effect on identifying motions and spatial arrangements](manova-omnibus-visualization-format-effect.md) — a broader claim this one bears on
+- [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — a broader claim this one bears on
+- [A re-analysis of a meta-analysis found learning from animations more effective than static pictures only when features of the displayed changes were relevant to learning](reanalysis-features-of-change-moderator.md) — a broader claim this one bears on

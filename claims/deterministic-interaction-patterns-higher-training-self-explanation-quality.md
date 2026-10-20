@@ -47,3 +47,4 @@ Pearson correlation analysis of 40 high school students' Hurst exponents against
 - [Deterministic interaction patterns relate to delayed retention self-explanation quality but not posttest performance](hurst-relates-to-retention-not-posttest.md) — related
 - [Hurst exponents are unrelated to the frequency of interacting with any specific game-based feature](hurst-unrelated-to-feature-frequency.md) — related
 - [Surrogate analysis validates that observed Hurst exponents reflect genuine persistence rather than short-series artifacts](surrogate-analysis-validates-hurst-exponents.md) — related
+- [Hurst exponents do not significantly predict retention self-explanation quality over and above pretest scores](hurst-not-predict-retention-above-pretest.md) — related

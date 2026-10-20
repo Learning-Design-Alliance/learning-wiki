@@ -53,3 +53,4 @@ Categorical moderator analysis (analog-to-the-ANOVA) on immediate post-tests. In
 - [Theory-based reading motivation interventions have a small significant positive effect on reading comprehension (d = 0.27)](reading-motivation-interventions-comprehension-effect.md) — a broader claim this one bears on
 - [Related decorative pictures do not increase triggered or maintained situational interest; in Experiment 2 they reduced maintained interest](related-pictures-no-interest-increase.md) — related
 - [Programs focusing solely on motivation are equally effective in stimulating affirming motivations and reading comprehension as programs combining motivational support with skills instruction](motivation-only-equally-effective.md) — related
+- [Effects on affirming motivations were largest for teacher reports, but this rests on a single study](teacher-report-measurement-moderator.md) — related

@@ -49,3 +49,5 @@ Behavioral analysis of the same 19 adolescents and 17 adults performing the prob
 - [Adolescents learn faster from negative reward prediction errors than adults in probabilistic reversal learning](adolescents-faster-learning-from-negative-rpes.md) — related
 - [Adolescents showed a marginally decreased number of punishments before switching in reversal learning](marginal-fewer-punishments-before-adolescent-switches.md) — related
 - [Stress-exposed adolescents show impaired cognitive flexibility in reversal learning](early-stress-impaired-reversal-flexibility.md) — related
+- [Group-by-RPE interaction in the anterior insula without a general group effect in overall activation](ains-group-by-rpe-interaction-omnibus.md) — related
+- [Adolescents show increased anterior insula responses specifically to negative reward prediction errors](adolescent-ains-increased-negative-rpe-response.md) — related

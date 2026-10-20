@@ -47,3 +47,4 @@ Key findings from the five-year random assignment evaluation report that "PROMIS
 - [PROMISE youth experienced worse education and employment outcomes than ACS youth with and without disabilities](promise-youth-worse-outcomes-than-acs-peers.md) — related
 - [PROMISE treatment group youth had lower educational attainment than control group youth](promise-lower-educational-attainment-than-control.md) — related
 - [PROMISE treatment and control group youth enrolled in education and training at similar rates five years after random assignment](promise-similar-education-enrollment-treatment-control.md) — related
+- [The PROMISE interim report estimated impacts across seven outcome domains for youth and families](promise-interim-impact-outcome-domains.md) — a broader claim this one bears on

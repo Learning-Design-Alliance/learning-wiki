@@ -50,3 +50,4 @@ RQ4 findings from the focus groups report that "Over one-third of participants e
 - [Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.](staff-equity-concerns-genai-access-uncertain-responsibilities.md) — related
 - [Most staff respondents had used a GAI tool, but few held paid subscriptions, suggesting limited sustained engagement](low-sustained-gai-engagement-staff.md) — related
 - [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related
+- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related

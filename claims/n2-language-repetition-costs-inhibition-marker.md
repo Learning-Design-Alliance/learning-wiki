@@ -64,3 +64,5 @@ The review reports that across studies (Philipp et al.; Guo et al.; Philipp and 
 ## Related Claims
 
 - [Switch costs and mixing costs are common empirical observations across language switching paradigms, except voluntary switching under certain circumstances](switch-and-mixing-costs-common-across-paradigms.md)
+- [Asymmetrical switch costs are not an unambiguous marker of inhibition: they depend on task type and bilingual profile, and admit non-inhibitory explanations](asymmetrical-switch-costs-not-unambiguous-inhibition-marker.md) — related
+- [Language proficiency moderates switch cost asymmetry, but highly proficient bilinguals still show n-2 language repetition costs consistent with inhibition](proficiency-moderates-switch-cost-asymmetry.md) — related

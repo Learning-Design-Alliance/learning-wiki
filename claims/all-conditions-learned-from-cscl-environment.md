@@ -44,3 +44,7 @@ Paired-samples t-tests comparing pre- and posttest domain knowledge (12 open-end
 
 ## Related Claims
 - [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](instruction-alone-limited-joint-reflection-tool-values.md) — related
+- [A 4C/ID-based online learning environment improves upper secondary students' research skills test scores from pretest to posttest](4cid-environment-improves-lrst-scores.md) — a narrower finding that bears on this claim
+- [Vocational students who received collaboration instruction plus an online joint-reflection tool showed significantly higher domain-knowledge learning gains than control students, while instruction alone did not differ from control](instruction-with-reflection-tool-improves-vocational-knowledge-gains.md) — related
+- [Pupils in all three conditions gained significantly from pre-test to post-test and retention test, with no prior-knowledge differences between conditions](all-conditions-significant-gains-history-tasks.md) — possibly the same claim (merge candidate)
+- [Individually processed reflection prompts alone were insufficient to foster knowledge acquisition in secondary vocational students](individual-reflection-prompts-insufficient-vocational-students.md) — related

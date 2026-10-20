@@ -45,3 +45,5 @@ Comparison of average midterm induction-question scores (Figure 3) across semest
 ## Related Claims
 - [Requiring students to write out evaluation steps manually improved transfer to pen-and-paper exam performance between the two deployments](manual-evaluation-steps-improve-exam-transfer.md) — related
 - CS1-CR exam scores showed a slight, statistically insignificant increase compared to prior semesters — reports the opposite
+- [Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters](clustering-report-writers-lower-exam-scores.md) — related
+- [After the design iteration, no student deleted an evaluation step, in contrast to frequent step deletion in the first deployment](no-evaluation-step-deletion-second-deployment.md) — related

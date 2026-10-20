@@ -47,3 +47,5 @@ The policy brief's overview states that "Census funding is viewed as a cost-cont
 - [Capitation-based special education finance was associated with a rising share of local funding](capitation-rising-local-funding-share.md) — related
 - [Disability rates tended to fall following state special education capitation finance reforms](disability-rates-fall-after-capitation-reforms.md) — related
 - [Per-student special education costs fall with enrollment up to an ideal size, then rise as diseconomies of scale set in](special-education-economies-of-scale-ideal-enrollment.md) — related
+- [California's shift to attendance-based AB 602 funding stabilized disability identification rates for about a decade, but rates have climbed steeply since 2010, so the policy's long-term intended outcomes were not produced](ab602-stabilization-then-renewed-identification-growth.md) — related
+- [Post-capitation disability-rate declines were concentrated in subjectively diagnosed categories and occurred more quickly in less severe categories](capitation-declines-subjective-mild-categories.md) — related

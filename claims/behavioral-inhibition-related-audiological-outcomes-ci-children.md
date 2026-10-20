@@ -45,3 +45,7 @@ The authors' overall conclusion from the retrospective correlational analysis of
 ## Related Claims
 - [Demographic and audiologic factors (age, duration of hearing loss, age at onset, residual hearing) were not significantly correlated with speech recognition in CI users](demographic-factors-not-correlated-ci-speech-recognition.md) — related
 - [Outcome measures are highly interrelated in children with cochlear implants](ci-outcome-measures-interrelated.md) — related
+- [Behavioral inhibition (dCPT) performance is strongly and significantly correlated with vocabulary and receptive language outcomes in prelingually deaf children with cochlear implants](dcpt-behavioral-inhibition-correlates-vocabulary-receptive-language-ci-children.md) — a narrower finding that bears on this claim
+- [Relations between behavioral inhibition (dCPT) and expressive language and speech intelligibility were significant only at 1 year post implantation](dcpt-expressive-language-intelligibility-only-year-one.md) — a narrower finding that bears on this claim
+- [Sustained visual attention (vCPT) performance shows no significant relations with speech or language outcomes in deaf children with cochlear implants](vcpt-sustained-visual-attention-no-relation-outcomes.md) — related
+- [Word-learning performance correlates with later vocabulary size in children with cochlear implants](word-learning-predicts-vocabulary-ci.md) — related

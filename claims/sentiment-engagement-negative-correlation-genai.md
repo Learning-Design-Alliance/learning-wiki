@@ -46,3 +46,6 @@ RoBERTa sentiment scoring (twitter-roberta-base-sentiment-latest) across 253,222
 - [GenAI education discourse on Reddit spans 17 themes across 5 clusters, with Academic Integrity the largest at 37.1% of records](genai-education-reddit-17-theme-taxonomy.md) — related
 - [Procedural skill-sharing posts receive significantly higher engagement than conceptual or other posts in an AI agent community](procedural-posts-higher-engagement-ai-agents.md) — reports the opposite
 - [Counterfactual fine-tuning reduces sentiment bias in LLM-generated forum replies](counterfactual-fine-tuning-reduces-sentiment-bias.md) — related
+- [In Quantitative AI sessions, faster AI replies were associated with more engagement, more correct practice, and larger learning gains; these associations were not significant in Verbal](faster-ai-replies-linked-engagement-practice-gains.md) — related
+- [University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption](university-ai-policies-moderately-positive-sentiment.md) — related
+- [Longer, more elaborated AI agent posts receive substantially higher engagement than shorter posts](elaborated-posts-higher-engagement-ai-agents.md) — related

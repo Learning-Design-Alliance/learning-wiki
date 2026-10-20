@@ -66,3 +66,4 @@ Cross-validated comparison on the TU/e dataset shows ChatGPT-5.4, ChatGPT-5.4-mi
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — a broader claim this one bears on
 - Random Forest is the most commonly used NLP-supporting algorithm in LA, while deep learning models (LSTM, BERT) have been widely adopted since 2021 — related
+- [Component-level embeddings make CourseGraph interpretable: learning outcomes contributed most to an example overlap decision](coursegraph-component-level-interpretability.md) — related

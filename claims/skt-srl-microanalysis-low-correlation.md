@@ -44,3 +44,8 @@ Validation Study 1 (N = 99) compared the offline SKT-SRL with an online microana
 
 ## Related Claims
 - [The only significant cross-method correlation within one SRL component is motivation assessed by questionnaire and closed-ended microanalytic questions](motivation-questionnaire-microanalysis-only-cross-method-link.md) — related
+- [When SRL is measured at a fine grain size (specific strategies), self-reports show low calibration with behavioral measures](fine-grained-srl-self-reports-low-calibration.md) — a broader claim this one bears on
+- [The SKT-SRL correlates moderately with self-reported SRL strategy usage (convergent validity)](skt-srl-convergent-validity-questionnaire.md) — related
+- [Whether an SRL component correlates with GPA depends on how it is assessed: cognition via a strategy knowledge test, motivation via questionnaire, metacognition via an open-ended microanalytic question](different-methods-different-srl-components-achievement.md) — related
+- [SRL components show moderate correlations within one assessment level but no correlations across different assessment methods within one component](srl-monomethod-correlations-no-heteromethod.md) — a broader claim this one bears on
+- [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](skt-srl-no-gpa-correlation.md) — related

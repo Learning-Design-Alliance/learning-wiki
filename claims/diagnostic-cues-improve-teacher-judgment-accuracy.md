@@ -44,3 +44,7 @@ Within-subjects experiment with 33 Dutch secondary teachers judging anonymous st
 
 ## Related Claims
 - [Performance cues were found most diagnostic for students' reading comprehension performance](performance-cues-most-diagnostic-reading-comprehension.md) — related
+- [Teachers judge more accurately with only diagnostic cues than with a mix of diagnostic and non-diagnostic cues](non-diagnostic-cues-hinder-teacher-judgment-accuracy.md) — related
+- [A brief cue-diagnosticity intervention did not significantly improve teachers' judgment accuracy, presumably because accuracy was already relatively high](diagnosticity-intervention-no-accuracy-gain.md) — related
+- [When making accurate judgments, teachers used diagnostic cues to a greater extent, but also used non-diagnostic cues (IQ and reading self-concept)](accurate-judgments-greater-diagnostic-cue-use-plus-nondiagnostic.md) — related
+- [The cue-diagnosticity intervention improved teachers' calibration: confidence and judgment accuracy became more aligned](diagnosticity-intervention-improves-calibration.md) — related

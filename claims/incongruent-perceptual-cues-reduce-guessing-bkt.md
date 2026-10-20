@@ -45,3 +45,5 @@ Multi BKT reanalysis with MCMC of an open-source perceptual cue intervention stu
 ## Related Claims
 - [In the perceptual-cue reanalysis, the only reliable forgetting and slip deviations were a small forgetting reduction under incongruent color and a modest slip reduction under congruent spacing](cue-effects-forgetting-slip-small-reductions.md) — related
 - [No credible spacing or color cue effects on the BKT learning rate were observed in the perceptual-cue reanalysis](no-credible-cue-effects-learning-rate.md) — related
+- [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
+- [Readers' judgment explanations support a cautious hierarchy of perceptual cues: content, then color, then space, then graphic features](cue-hierarchy-content-color-space-graphic.md) — related

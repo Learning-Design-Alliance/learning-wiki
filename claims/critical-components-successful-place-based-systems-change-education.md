@@ -43,4 +43,6 @@ A narrative literature review of research on systems change success in education
 
 
 ## Related Claims
--
+- [Adaptive leadership is a critical enabler of successful AI adoption and institutional transformation in higher education](adaptive-leadership-enables-ai-adoption.md) — related
+- [Teachers play a key role in determining students' success in school districts and CMOs](teachers-key-role-student-success-districts-cmos.md) — related
+- [Educational reform's progress depends on teachers' individual and collective capacity and its link with school-wide capacity for promoting pupils' learning](reform-progress-depends-on-teacher-and-school-capacity.md) — related

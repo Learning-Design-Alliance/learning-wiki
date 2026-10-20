@@ -46,3 +46,4 @@ SEM path estimate from Results §4.2 of the 502-faculty survey. The article repo
 - [Technological self-efficacy significantly but modestly predicts faculty AI well-being](technological-self-efficacy-modest-predictor-ai-well-being.md) — related
 - [Perceived social support positively predicts both AI literacy and technological self-efficacy among university faculty](social-support-predicts-ai-literacy-and-self-efficacy-faculty.md) — related
 - [Organizational support positively predicts both AI literacy and technological self-efficacy among university faculty](organizational-support-predicts-ai-literacy-and-self-efficacy.md) — related
+- [Social and organizational support relate to AI well-being indirectly through AI literacy and technological self-efficacy](dual-mediation-support-to-ai-well-being.md) — related

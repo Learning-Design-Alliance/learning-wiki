@@ -47,3 +47,5 @@ Thematic analysis of interviews with three middle school teachers and twelve 7th
 - [Students strongly prefer qualitative tree visualizations over quantitative radar charts of classroom collaboration](students-prefer-qualitative-tree-over-radar.md) — related
 - [Barriers to using equity visualizations included lack of classroom diversity and teachers' own equity beliefs](barriers-to-equity-visualization-use.md) — related
 - [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](inclusive-innovation-sustainability-factors.md) — related
+- [High-integrity CoBi implementation requires significant teacher professional learning, and teachers adapt the system in diverse ways](cobi-requires-professional-learning-for-integrity.md) — related
+- [Students raise privacy concerns about classroom speech data while teachers initially interpret CoBi as a performance-monitoring device](cobi-privacy-and-performance-monitoring-concerns.md) — related

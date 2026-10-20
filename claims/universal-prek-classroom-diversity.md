@@ -68,3 +68,6 @@ The report reviews studies of New York City's universal preschool program, which
 - [School and district factors relate to risk identification: low income concentration correlates with repeated risk identification, and segregation modestly increases it, though some schools outperform model predictions](massachusetts-school-segregation-risk-identification.md) — related
 - [The ECE system is socioeconomically segregated because means-tested programs sort children by family income](ece-socioeconomic-segregation-means-testing.md) — possibly the same claim (merge candidate)
 - [Schools in the United States have resegregated since 1988, with the share of intensely segregated non-white schools more than tripling from about 6% to 19% of all public schools](resegregation-intensely-segregated-schools-tripled.md)
+- [Black and Latino students' success in progressive mathematics triggers system reactions questioning the program's rigor](minority-success-damns-reform-program.md) — related
+- [Nearly half of Black and Hispanic preschoolers attend schools where over 90% of students are students of color](preschool-racial-isolation-black-hispanic.md) — related
+- [Children's language and math outcomes improve as average classroom income and socioeconomic diversity increase](classroom-income-composition-language-math.md) — related

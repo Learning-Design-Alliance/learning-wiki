@@ -53,3 +53,4 @@ Implementation survey findings from the TIF evaluation's second year: understand
 - [In the 10 evaluation districts, educators did not always understand the performance measures and pay-for-performance bonuses used for TIF](tif-educators-did-not-always-understand-measures-and-bonuses.md) — related
 - [More than half of teachers in the evaluation districts did not know they were eligible for pay-for-performance bonuses](tif-more-than-half-of-teachers-unaware-of-bonus-eligibility.md) — related
 - [Teachers in the evaluation districts underestimated the size of pay-for-performance bonuses they could earn through TIF](tif-teachers-underestimated-bonus-size.md) — a broader claim this one bears on
+- [Many educators misunderstood the performance measures and the pay-for-performance bonuses under TIF](tif-educators-misunderstood-measures-and-bonuses.md) — a broader claim this one bears on

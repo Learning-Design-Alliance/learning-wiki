@@ -51,3 +51,5 @@ The review reports, citing Allington (1984a), a classroom observational finding 
 - [Training seventh graders to elaborate produced better long-term recall than questions stimulating elaboration, and the training transferred to new passages](trained-elaboration-beats-question-stimulated-elaboration.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [Below Basic adults read far fewer words per minute than higher-level readers, with 49% reading at 60 wcpm or slower](below-basic-adults-slow-oral-reading.md) — related
+- [Elaborated coding was associated with higher reading scores among the observed children](elaborated-coding-higher-reading-scores.md) — related
+- [Large shares of U.S. 4th and 8th graders read below the NAEP Basic level in reading comprehension](naep-2005-below-basic-reading.md) — related

@@ -44,3 +44,4 @@ Report's synthesis of district leaders' experiences, drawn from Digital Promise'
 - Most district ed-tech needs assessments are informal; formal needs assessments are rare — related
 - Students, teachers, and principals are perceived to have limited involvement in ed-tech procurement decisions, and providers are far less satisfied with end-user involvement than district stakeholders — related
 - The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers — related
+- [Teachers designing TEL face serious constraints of time, expertise and endorsement](teacher-designers-time-expertise-constraints.md) — related

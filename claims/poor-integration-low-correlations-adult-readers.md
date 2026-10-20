@@ -48,3 +48,4 @@ Pearson correlations were conducted within and across time points among the stud
 - [Participants entered the study with very poor skills, at least 1 SD below the mean on every measure and 2 SD below on receptive vocabulary, phonological awareness, and fluency](struggling-adult-reader-skill-profile.md) — related
 - [Real word decoding relates more strongly to adult reading comprehension (r = .52) than pseudoword decoding (r = .42), though not significantly](real-word-vs-pseudoword-decoding-adults.md) — related
 - [Expressive vocabulary adds small but significant variance to exception word reading, but not to general or nonword reading, in adult struggling readers](expressive-vocabulary-exception-word-reading-adults.md) — related
+- [Expressive vocabulary uniquely explains variance in reading comprehension of adult struggling readers](expressive-vocabulary-predicts-adult-reading-comprehension.md) — related

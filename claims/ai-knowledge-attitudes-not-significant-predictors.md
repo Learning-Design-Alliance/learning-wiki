@@ -50,3 +50,6 @@ In the same PLS-SEM survey of 122 teachers, both paths were non-significant; the
 - [SDT need satisfaction predicted post-intervention willingness beyond baseline capacity, while post-intervention TPACK showed only a weak, non-significant association with willingness](need-satisfaction-predicts-willingness-beyond-capacity.md) — related
 - [Teachers' practical use of AI in science and green energy learning significantly predicts their AI integration ability (β = 0.391, p < 0.01, f² = 0.180)](ai-use-in-green-energy-teaching-predicts-integration-ability.md) — related
 - [In the fitted model, teachers' knowledge and willingness to change predicted teaching practice, whereas professional beliefs did not significantly influence teaching practice](willingness-predicts-practice-beliefs-do-not.md) — related
+- [Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak intervention guidance](additive-tpack-belief-models-weak-intervention-guidance.md) — related
+- [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
+- [Engagement in data practices is associated with both cognitive and non-cognitive learning outcomes](data-practices-associated-cognitive-noncognitive-outcomes.md) — related

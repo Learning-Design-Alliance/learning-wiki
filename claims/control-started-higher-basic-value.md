@@ -44,3 +44,4 @@ Pretest comparison in the 2-year classroom quasi-experiment, reported alongside 
 
 ## Related Claims
 - [Adding a teachable agent to the standard science curriculum improved fourth-graders' learning gains on both curriculum tests and researcher-designed hierarchical reasoning tests](ta-improves-basic-and-added-value-gains-fourth-grade.md) — a broader claim this one bears on
+- [Kit+TA students spontaneously transferred the TA's hierarchical spatial organization to open-ended post-test answers, unlike Kit-Only students](ta-transfer-spatial-hierarchy-organization.md) — related

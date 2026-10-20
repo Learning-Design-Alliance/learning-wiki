@@ -74,3 +74,4 @@ Chapter 4 finding from the same explanatory models: self-reported study habits d
 - [Students with learning disabilities and mild cognitive disabilities benefit less from rigorous study habits than students without identified disabilities, and for mild cognitive disabilities there is no relationship between study habits and course failures](diminished-study-habit-benefits-ld-mild-cognitive.md) — related
 - Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often — related
 - [Unexcused absences quadruple from eighth to ninth grade, explaining most of the drop in grades and pass rates across all student groups](absences-quadruple-transition-explain-grade-drop.md) — related
+- [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related

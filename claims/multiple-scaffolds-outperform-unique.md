@@ -45,3 +45,6 @@ Moderator analysis under a random effects model comparing 18 studies coded as mu
 ## Related Claims
 - [Individual treatment organization and delivery form significantly moderate scaffold effects; classroom settings and Web-based environments show the largest effects](delivery-organization-environment-moderators.md) — related
 - [Combining domain-general and domain-specific scaffolds yields the highest effect, and domain-general scaffolds outperform domain-specific ones](domain-general-scaffolds-outperform-domain-specific.md) — related
+- [Scaffolds supporting the whole SRL process are more helpful than scaffolds supporting a single phase](whole-process-srl-scaffolding-more-effective.md) — related
+- [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — related
+- [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](srl-scaffolds-positive-effect-academic-performance.md) — a broader claim this one bears on

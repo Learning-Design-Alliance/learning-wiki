@@ -44,3 +44,4 @@ Group-by-format analysis of restudy behavior before the first test trial. In-per
 
 ## Related Claims
 - [Self-regulating students choose to complete multiple-choice practice questions until each item has been answered correctly about one time during practice.](srl-mc-practice-to-one-correct-answer.md) — related
+- [Self-regulated multiple-choice students scored lower on final tests than experimenter-controlled groups but spent less time practicing, making their one-correct criterion comparatively time-efficient.](srl-mc-lower-final-test-less-time.md) — related

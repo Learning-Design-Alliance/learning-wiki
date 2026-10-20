@@ -46,3 +46,5 @@ Survey of supervisors conducted as part of Mathematica's five-year evaluation of
 - [A five-year evaluation is assessing the impact of the Passport to Teaching credential on teacher performance measured by student achievement](passport-to-teaching-evaluation-student-achievement.md) — related
 - [Administrators gave a cautious assessment of the ABCTE Passport to Teaching program that certified the teachers](principals-cautious-assessment-abcte-program.md) — related
 - [Principals rated board-certified teachers higher than other experienced teachers on seven competence areas, most often 'extraordinary'](principals-rate-nbcts-extraordinary-on-competence.md) — related
+- [Students of ABCTE-certified teachers and non-ABCTE teachers show no difference in reading achievement gains in Florida](abcte-florida-no-reading-gain-difference.md) — related
+- [An ERIC digest reports that a 2000 validity study gave strong initial evidence that National Board certification identifies teachers who are more expert and whose students learn more deeply](board-certification-identifies-more-expert-teachers.md) — related

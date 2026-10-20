@@ -50,3 +50,5 @@ Within the PF condition (n = 55), correlations between solution attempt measures
 - [Solution quality correlates with conceptual knowledge and gap awareness only for individual problem solvers](pf-solution-quality-correlation-individual-only.md) — related
 - [Solution quality does not mediate the effect of collaboration on conceptual knowledge in PF](pf-solution-quality-no-mediation.md) — related
 - [Solution quantity does not mediate the effect of collaboration on conceptual knowledge in PF](pf-solution-quantity-no-mediation.md) — related
+- [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — related
+- [Awareness of knowledge gaps and curiosity do not mediate the effect of collaboration on conceptual knowledge in PF](pf-knowledge-gaps-curiosity-no-mediation.md) — related

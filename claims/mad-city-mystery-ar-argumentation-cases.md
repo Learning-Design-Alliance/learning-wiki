@@ -48,3 +48,6 @@ Design-based research cross-case comparison of three cases using the Mad City My
 - [Student argument quality in the game showed limits: one group discarded a hypothesis despite evidence still partially supporting it](mercury-case-hypothesis-discarding-limit.md) — related
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — a broader claim this one bears on
 - [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](chatgpt-ar-lab-feedback-improves-outcomes.md) — related
+- [Role-based information asymmetry with infrared beaming encourages cross-team information exchange and collaborative discussion](role-asymmetry-beaming-promotes-cross-team-exchange.md) — related
+- [Time dependence, cascading events, and distinct player roles added to a redesigned AR engine fostered collaboration between teams in subsequent game iterations](ar-gen2-features-foster-between-team-collaboration.md) — related
+- [Augmented reality and QR-code mobile systems enable context-aware language learning in designated physical zones](ar-qr-codes-context-aware-language-learning.md) — related

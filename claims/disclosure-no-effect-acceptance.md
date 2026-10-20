@@ -46,3 +46,4 @@ In the same experiment, aggregated acceptance means were 4.12 (control), 4.27 (t
 - [Detailed data disclosure statements, in either text or nutrition-label format, increase university students' confidence that specific data points are collected compared to a generic disclosure](detailed-disclosure-increases-confidence-data-collected.md) — related
 - [The format of detailed disclosure (detailed text versus icon-based nutrition label) makes no difference to students' confidence about data collection](disclosure-format-no-effect-confidence.md) — related
 - [Detailed disclosure does not make students more conservative about who should have access to their educational data](disclosure-no-effect-access-opinions.md) — related
+- [Students believe private companies neither have nor should have access to their educational data](students-oppose-private-company-data-access.md) — related

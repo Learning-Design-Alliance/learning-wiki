@@ -43,4 +43,6 @@ The brief's framing statement asserts that the pandemic changed public school ki
 
 
 ## Related Claims
+- [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related
+- [The U.S. Bureau of Labor estimates 567,000 fewer teachers in public schools in 2022 than prior to the COVID-19 pandemic](bls-estimates-567000-fewer-public-school-teachers-2022.md) — related
 

@@ -67,3 +67,4 @@ Same case-study analysis for Sam's classroom: the cross-correlations were "not c
 - [During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity](early-stage-maladjustment-elicits-complementarity.md) — related
 - The four-phase model predicts favored interpersonal styles appear early and style flexibility grows with accumulated specific experience — related
 - [Athletes' personality affects coaches' perceptions of relationship quality, with more difficult personalities linked to lower closeness, commitment and complementarity](athlete-personality-affects-perceived-relationship-quality.md) — related
+- [Observed interaction frequencies support the Interaction Matrix cell weightings, with the most interactions in the highest-weighted cells](interaction-frequencies-support-matrix-weightings.md) — related

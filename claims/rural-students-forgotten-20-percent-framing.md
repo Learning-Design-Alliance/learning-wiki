@@ -47,3 +47,4 @@ The brief's title characterizes rural students as "The forgotten 20 percent." Th
 - [The rural–nonrural achievement divergence is driven by larger summer losses for rural students](rural-achievement-divergence-driven-by-summer-loss.md) — related
 - [Rural students start kindergarten slightly ahead of nonrural students but fall behind by middle school](rural-students-start-ahead-fall-behind-middle-school.md) — related
 - [Black–White achievement gaps widen during the school year in both rural and nonrural schools](black-white-gaps-widen-during-school-year-rural-and-nonrural.md) — related
+- [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related

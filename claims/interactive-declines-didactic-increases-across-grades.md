@@ -49,3 +49,6 @@ Survey-based analysis of instructional approach frequency by classroom grade lev
 - [Didactic instruction is negatively associated with one-year achievement gains in reading and mathematics](didactic-instruction-negative-achievement-gains.md) — related
 - [Interactive instruction is more common in classrooms with higher prior achievement; didactic and review are more common in lower-achieving classrooms](instruction-varies-by-class-achievement-composition.md) — related
 - [School organizational supports are associated with more interactive and less didactic instruction](school-organizational-supports-interactive-instruction.md) — related
+- [Interactive instruction is positively associated with one-year achievement gains in reading and mathematics in Chicago elementary schools](interactive-instruction-positive-achievement-gains-chicago.md) — related
+- [Frequency, content, and quality of professional development are each positively related to elementary teachers' use of interactive instruction](pd-elements-related-interactive-instruction.md) — related
+- [Three student-centered practices were associated with lower 2nd-grade math achievement](student-centered-practices-lower-second-grade-achievement.md) — related

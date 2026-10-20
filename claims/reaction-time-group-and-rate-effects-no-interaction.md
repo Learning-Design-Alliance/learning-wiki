@@ -45,3 +45,6 @@ A 3x2 repeated measures ANOVA on in-scanner reaction time found significant main
 - [In-scanner sentence judgment accuracy declines with faster word presentation rates, and dyslexic readers' accuracy declines disproportionately across rates](presentation-rate-accuracy-decline-dyslexia-disproportionate.md) — related
 - [Typical readers show significantly greater rate-related activation gains than dyslexic readers in left prefrontal and left superior temporal regions](typical-readers-greater-rate-activation-gains-left-frontotemporal.md) — related
 - [Individuals with dyslexia show impairments in audiovisual integration beyond phoneme-grapheme mapping](dyslexia-audiovisual-integration-impairments.md) — related
+- [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md) — related
+- [Individuals with schizophrenia show reduced behavioral benefit from combined audiovisual cues and altered multisensory temporal processing](schizophrenia-reduced-audiovisual-benefit-temporal-acuity.md) — related
+- [In-scanner sentence judgment accuracy correlates significantly with standardized reading fluency and phonological awareness scores across both groups](inscanner-performance-correlates-fluency-phonological.md) — related

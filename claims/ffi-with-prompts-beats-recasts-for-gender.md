@@ -49,3 +49,8 @@ Classroom comparison in which each of the three FFI teachers implemented a diffe
 - [Higher task complexity is associated with lower written production of the target form among child learners receiving recasts](task-complexity-negatively-related-child-written-production.md) — related
 - [Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group](recasts-facilitate-child-efl-third-person-s-development.md) — related
 - [Task complexity shows no significant effect on child learners' oral production of the target form when receiving recasts](task-complexity-no-effect-child-oral-production.md) — related
+- [Form-focused instruction on noun endings significantly increases French immersion students' ability to correctly assign grammatical gender, with gains maintained on delayed posttests](ffi-noun-endings-improves-gender-attribution.md) — related
+- [Traditional form-focused instruction produces significant gains in production but not in comprehension](traditional-instruction-gains-production-only.md) — related
+- [The provision of negative feedback alone did not significantly predict ESL question development in this study](negative-feedback-alone-not-significant-predictor.md) — related
+- [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — a broader claim this one bears on
+- [High-proficiency L2 learners benefited equally from prompts and recasts](high-proficiency-learners-benefit-equally-from-both.md) — related

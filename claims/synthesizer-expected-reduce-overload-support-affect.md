@@ -46,3 +46,4 @@ Theoretical expectation (Expectation 6), building on cited work showing learners
 - [Some students struggled to use Ecree's and MI Write's automated feedback](some-students-struggled-automated-feedback-use.md) — the general claim this finding bears on, with the studies behind it
 - [The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback](synthesizer-expected-support-uptake-action-planning.md) — related
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](scaffolding-balance-confusion-versus-critical-thinking.md) — related
+- [Combined Trainer and Synthesizer use is expected to support speaking development and more equitable participation over time](combined-genai-expected-speaking-gains-equity.md) — related

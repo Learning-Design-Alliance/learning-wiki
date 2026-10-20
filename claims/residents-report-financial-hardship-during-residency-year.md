@@ -65,3 +65,5 @@ Spring 2021 surveys found gaps in health coverage: "a quarter of residents did n
 - [Most residency programs offer district-based employment opportunities, but fewer than half of residents participate, mainly due to time and schedule conflicts](low-uptake-district-based-employment-residents.md) — related
 - [Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability](partnership-and-capacity-challenges-residencies.md) — related
 - Apprentices desired clearer, more consistent program communication, especially about financial obligations — related
+- [Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color](ece-educator-college-completion-barriers.md) — related
+- [Alder's financial model combines grants, tuition, and LEA contributions, targeting 70–80% tuition funding by 2026–27 while keeping tuition low](alder-diversified-financial-model.md) — related

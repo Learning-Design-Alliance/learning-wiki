@@ -44,3 +44,4 @@ Whole-brain random-effects fMRI analysis of the letter reversal task in 15 child
 - [Children show greater activation for typical than reversed letters in left inferior parietal lobule, left superior temporal gyrus, and early visual regions — the opposite of the adult pattern](children-greater-activation-typical-letters.md) — related
 - The N170 reversed-minus-typical amplitude difference correlates with the VWFA reversed-minus-typical activation difference across participants, but not within either group — related
 - [Adults, but not children, show a differential N170 response to typical versus reversed letters](n170-reversal-effect-adults-not-children.md) — related
+- [Math achievement correlates with ventral occipital-temporal NRE in both children and adults, with children relying on extrastriate and adults on anterior higher-order visual regions](vot-nre-achievement-developmental-reorganization.md) — related

@@ -47,3 +47,4 @@ Schools were divided into nine categories by low, moderate, or high average rati
 - [Chicago students gain most in achievement when strong academic press and strong social support occur together, and learn less when either is strong and the other weak](press-plus-support-combined-gains.md) — related
 - Integrated, small, wealthier, and higher-achieving Chicago schools are far more likely to combine strong press and strong support than large, poor, racially isolated, low-achieving schools — related
 - [Academic achievement is more likely in classrooms that combine personalism with a strong press toward academic work](personalism-plus-press-toward-academic-work-achievement.md) — related
+- [The 1997 Design for High Schools was intended to spur change in Chicago high schools by increasing both academic press and personalism](design-for-high-schools-academic-press-personalism.md) — possibly the same claim (merge candidate)

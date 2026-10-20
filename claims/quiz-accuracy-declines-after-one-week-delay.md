@@ -48,3 +48,4 @@ In the same randomized ANOVA design, the within-subjects test-time factor showed
 - [All three instructional methods reduced misconceptions, and comprehension and transfer effects were stable at delayed testing one week later](misconception-reduction-stable-delayed-testing.md) — related
 - [Multiple text reading shows more stable retention than rereading: non-significantly higher one-week scores and a smaller decline from one day to one week](mtr-stable-retention-smaller-decline.md) — related
 - [The self-study-before-discussion advantage persisted at one-week delayed tests, with lecture-condition scores declining over time while self-study-condition scores remained stable](self-study-discussion-long-term-retention-transfer.md) — related
+- [No significant interactions emerged between text medium and any other variable (test time, complexity, engagement)](no-interactions-with-text-medium.md) — a broader claim this one bears on

@@ -52,3 +52,5 @@ Quasi-experimental matched comparison using Virtual Control Records built from f
 - [Black charter students outperform their Black TPS peers in reading (about 24 additional days) but both groups lag the average White TPS student substantially](pa-charter-black-students-reading-gain.md) — related
 - [Idaho charter school students show stronger reading growth than matched TPS peers, with no significant difference in math growth](idaho-charter-reading-advantage-math-null.md) — related
 - [Idaho online charter students show weaker math growth than TPS VCRs and lag brick-and-mortar charter students in both subjects](idaho-online-charter-learning-deficits.md) — related
+- [Washington charter students' overall annual reading and math gains do not differ statistically from matched TPS peers](wa-charter-overall-gains-no-significant-difference.md) — related
+- [Hispanic charter students perform similarly to their Hispanic TPS peers in both subjects, while both groups lag the average White TPS student](pa-charter-hispanic-students-similar-to-tps-peers.md) — related

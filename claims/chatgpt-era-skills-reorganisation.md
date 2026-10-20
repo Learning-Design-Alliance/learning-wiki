@@ -43,3 +43,6 @@ Expert opinion contribution arguing from an analogy to digitised article access 
 ## Related Claims
 - [ChatGPT's biggest predicted disruption is its effect on knowledge work productivity, chiefly by providing a competent first draft](chatgpt-first-draft-productivity-prediction.md) — related
 - [An AI-enabled world demands a data-literate citizenry able to read, use, interpret, and communicate about data and participate in AI-related policy debates](ai-enabled-world-demands-data-literate-citizenry.md) — a broader claim this one bears on
+- [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — related
+- [Engineering students come to view mastering GenAI as crucial as other engineering skills, driven by labour-market expectations, alongside widespread uncertainty about over-reliance](genai-mastery-new-learning-objective-engineering.md) — a narrower finding that bears on this claim
+- [Contrary to claims that AI will automatically engender a more democratic, equal, and sustainable world, the editorial argues these technologies tend to exacerbate existing inequalities, environmental degradation, and labour precarity](ai-exacerbates-inequalities-environmental-degradation.md) — related

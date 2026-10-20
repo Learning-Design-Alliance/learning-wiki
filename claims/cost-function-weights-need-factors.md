@@ -53,3 +53,5 @@ Cost function analysis using an instrumental variables approach on the 50-colleg
 - [Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student](need-factors-fewer-success-points-milestones.md) — related
 - [Colleges serving the highest shares of first-generation students tended to have larger adequacy gaps, spending $1,475 below projected adequate cost](first-generation-larger-adequacy-gaps.md) — related
 - [Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities](special-education-supplemental-cost-50-percent.md) — related
+- [Nonpublic school placements cost 24 percent more and yielded 5 to 6 percentage points less academic growth than public placements](nps-placements-costlier-lower-growth.md) — related
+- [First-generation status is a significant predictor of reliance intensity, indicating a compensatory dynamic at minority-serving institutions](first-generation-status-predicts-reliance-intensity.md) — related

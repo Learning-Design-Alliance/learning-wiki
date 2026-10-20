@@ -60,3 +60,5 @@ This is a small, purposively-sampled design-based research study (6 core teacher
 - [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) — related
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
 - [Teachers rated ChatGPT as effective for interdisciplinary integration, with 61% giving ratings of 4 or above](chatgpt-supports-interdisciplinary-integration-ratings.md) — related
+- [Teachers in one focus-group study show disciplinary variation in how they assess communication](disciplinary-variation-communication-assessment.md) — related
+- [Language teachers in two workshops responded positively to the evaluation framework, leading to a four-category revision](teacher-workshops-validate-app-evaluation-framework.md) — related

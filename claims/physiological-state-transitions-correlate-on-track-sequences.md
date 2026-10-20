@@ -44,3 +44,4 @@ Spearman correlation over per-minute frequencies across 79 minutes for the three
 
 ## Related Claims
 - [Expert rankings validate the Ratio variables, not absolute frequencies, as meaningful proxies for productive dialogue](expert-rankings-validate-ratio-variables.md) — related
+- [Working memory relates to sourcing in a minority of studies, while psychophysiological self-regulation shows a positive relationship](working-memory-self-regulation-sourcing.md) — related

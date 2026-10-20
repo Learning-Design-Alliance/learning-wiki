@@ -53,3 +53,4 @@ Table 4 reports Instructor A's students' perceived changes: Variation in lessons
 - Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking — related
 - [Students perceive diversity in learning—varied content, outdoor and technology-supported approaches, and physical activity—as essential to fun in learning](diversity-in-learning-fun-element.md) — related
 - [Students perceive pleasure—positive emotions during learning and the active minimization of boredom and displeasure—as an element of fun in learning](pleasure-positive-emotion-fun-element.md) — related
+- [Primary school students aged 9–12 perceive a sense of agency—choice over content, personalization, self-directed performance, and task completion—as a core element of fun in learning](agency-student-perceived-fun-element-primary.md) — related

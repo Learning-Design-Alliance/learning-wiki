@@ -48,3 +48,4 @@ Tier 2 Bayesian mixed ANOVA of drift-diffusion parameters in 144 children. "non-
 - [Introducing intermittent stop trials does not change processing speed (drift rate) in children with or without ADHD](stop-signal-demands-no-drift-rate-change.md) — related
 - [Equivalent performance-adjustment effects hold when clinical control and neurotypical children are analyzed separately](three-group-exploratory-analyses-consistent.md) — related
 - [Go-trial response times are slower during the stop-signal task than the no-tone task, with no diagnostic group difference](stop-signal-slows-mean-reaction-time-equally.md) — related
+- [Reward does not alter the speed or variability of response execution in either stop signal task](reward-does-not-alter-response-execution.md) — related

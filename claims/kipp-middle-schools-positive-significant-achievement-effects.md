@@ -83,3 +83,5 @@ The brief's title states that KIPP middle schools produce significant achievemen
 - [Charter schools, on average, show test-score impacts that are not substantially better or worse than conventional public schools](charter-schools-test-score-impacts-comparable-to-traditional-public-schools.md) — related
 - [Charter school students perform consistently better on standardized mathematics achievement measures than traditional public school peers, with modest differences](charter-math-achievement-consistently-better-modest.md) — a broader claim this one bears on
 - [KIPP Atlanta middle schools substantially improve student proficiency on Georgia statewide assessments](kipp-atlanta-middle-schools-improve-proficiency.md) — a narrower finding that bears on this claim
+- [A quasi-experimental evaluation found Perry Street students improved significantly more during turnaround than they would have at other traditional or charter schools](perry-street-quasi-experimental-achievement-gains.md) — related
+- [KIPP's Five Pillars strongly influenced the charter school community and traditional public schools](kipp-five-pillars-influenced-charter-sector.md) — related

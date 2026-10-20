@@ -44,3 +44,6 @@ Human expert evaluation in which 97 board-certified clinicians compared the Resi
 
 ## Related Claims
 - [Multi-turn RL training in simulated clinical encounters improves diagnostic accuracy under adversarial conditions, raising rubric-based accuracy from 81.0% to 88.0%](residencyrl-improves-adversarial-diagnostic-accuracy.md) — related
+- [RL training reduces missed red flag rates by approximately one third under adversarial conditions, mitigating premature closure](residencyrl-reduces-missed-red-flags.md) — related
+- [Procedural competencies from simulation-based RL training generalize to out-of-domain benchmarks including AMIE Mx, AgentClinic, and CRAFT-MD](residencyrl-generalizes-out-of-domain.md) — related
+- [Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)](human-llm-judge-preference-alignment-deeptutor.md) — related

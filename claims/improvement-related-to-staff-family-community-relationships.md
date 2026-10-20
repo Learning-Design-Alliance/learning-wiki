@@ -48,3 +48,7 @@ The chapter poses this as its key guiding question, framing staff interaction, f
 - Female principals empowered others through shared ownership, committee involvement, and staff development — a narrower finding that bears on this claim
 - Data tools that make on-track information easy to act on changed how teachers and school staff interact with students and parents — related
 - [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](rural-community-commitment-boosts-turnaround.md) — a narrower finding that bears on this claim
+- [Inclusive, family-focused co-curricular events deepened relationships between educators and parents](family-focused-co-curricular-events-relationships.md) — a narrower finding that bears on this claim
+- [Social trust predicts which urban schools improve, and trust is built by reducing staff vulnerability](social-trust-vulnerability-school-change.md) — related
+- [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](relationship-quality-defines-safe-schools.md) — related
+- [Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning](ivy-principal-culture-relationships-priority.md) — related

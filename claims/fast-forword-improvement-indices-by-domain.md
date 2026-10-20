@@ -45,3 +45,4 @@ The WWC's improvement-index computation across the eight included studies. The r
 ## Related Claims
 - [The extent of evidence for Fast ForWord is small for alphabetics and reading fluency and medium to large for comprehension and general literacy achievement](fast-forword-extent-of-evidence-ratings.md) — related
 - [Fast ForWord has no discernible effects on alphabetics and general literacy achievement and potentially positive effects on reading fluency and comprehension for adolescent learners](fast-forword-no-discernible-effects-alphabetics-general-literacy.md) — related
+- [Of 305 studies of Fast ForWord reviewed for adolescent learners, two met WWC evidence standards, six met standards with reservations, and 297 met neither](fast-forword-evidence-base-305-studies.md) — related

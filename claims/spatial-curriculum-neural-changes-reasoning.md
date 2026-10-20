@@ -103,3 +103,5 @@ Regression in the fMRI subsample controlling for PSAT, GPA, and gender: connecti
 - [Curriculum-related neural changes during spatial scanning predict and mediate transfer to verbal reasoning](eft-neural-change-predicts-mediates-transfer.md) — related
 - [Neural change during spatial scanning predicts verbal reasoning transfer better than traditional performance-based assessments, and best prediction combines both](neural-change-outpredicts-traditional-assessments.md) — related
 - [A spatial STEM curriculum yields far transfer to improved verbal deductive reasoning in high school students, including on nonspatial relation trials](spatial-curriculum-transfers-to-verbal-reasoning.md) — related
+- [Improvement in spatial scanning predicts and mediates the curriculum's transfer effect to verbal reasoning](spatial-gains-predict-mediate-verbal-transfer.md) — related
+- [The spatial curriculum produced near transfer to improved spatial scanning and increased self-reported spatial habits of mind, but not to mental rotation](spatial-curriculum-near-transfer-scanning-habits.md) — related

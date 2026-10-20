@@ -50,3 +50,8 @@ One-way comparison of learning disability scores across ADHD subtypes (28 combin
 - [The inattentive ADHD subtype shows the most delayed ABR latencies in waves III and V and intervals I-III and I-V](inattentive-adhd-most-delayed-abr.md) — related
 - [Psychosis, ASD, and ADHD-Inattentive Type independently elevate risk for slow processing speed relative to referred youth without diagnoses](psychosis-asd-adhd-i-elevate-slow-ps-risk.md) — related
 - [Impairment on WM, STM, and/or motivation is associated with more inattention symptoms, medication use, and lower IQ scores](impairment-associated-inattention-medication-lower-iq.md) — related
+- [Affect recognition deficits were not found unanimously across ADHD groups, suggesting a nuanced subtype-specific pattern](affect-deficits-not-unanimous-across-adhd-groups.md) — related
+- [Inattentive symptoms are positively associated with sad affect recognition errors while hyperactive-impulsive symptoms are negatively associated](inattentive-symptoms-positive-hyperactive-negative-sad-errors.md) — related
+- [Adults with ADHD-Inattentive type make significantly more fearful affect recognition errors than non-ADHD controls on the DANVA](adhd-inattentive-adults-more-fearful-affect-errors.md) — related
+- [Inattentive symptoms are significantly positively correlated with fearful and vocal channel affect recognition errors](inattentive-symptoms-fearful-vocal-error-correlations.md) — related
+- [Learning disability scores correlate negatively with ABR wave III/IV/V latencies, I-III and I-V intervals, and epileptiform EEG activity](learning-disability-correlates-abr-eeg.md) — related

@@ -47,3 +47,5 @@ Three-way mixed MANOVA (group × time × practice) on video-coded lessons of 70 
 - [KC lesson duration increased significantly only in the SRL-AIDE group (d = 1.14), not in the comparison group (d = 0.12)](kc-duration-increase-only-srl-aide.md) — related
 - [In the SRL-AIDE group, MCS explicitness showed a larger pre-post gain (d = 2.08) than KC explicitness (d = 1.03), and SRL-AIDE's KC gain exceeded the comparison group's (d = 1.03 vs d = 0.31)](mcs-explicitness-effect-size-d208.md) — related
 - [The three-way group × time × practice interaction was significant for explicitness but not duration: MCS explicitness rose more in the SRL-AIDE group while KC explicitness rose more in the comparison group](three-way-interaction-explicitness-not-duration.md) — related
+- [Primary teachers who participated in the iSELF professional development program showed significantly higher explicit SRL strategy instruction at post-test than control teachers](iself-pdp-increases-explicit-srl-instruction.md) — related
+- [Teachers typically provide only little explicit support for SRL in their classrooms](teachers-provide-little-explicit-srl-support.md) — related

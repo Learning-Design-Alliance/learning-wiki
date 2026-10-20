@@ -73,3 +73,4 @@ The review reports, citing Francisco et al., that audiovisual synchrony sensitiv
 - [Autistic individuals show reduced multisensory integration, most consistently for speech-related stimuli](autism-reduced-mcgurk-fusion-meta-analysis.md) — related
 - [Typical readers show significantly greater rate-related activation gains than dyslexic readers in left prefrontal and left superior temporal regions](typical-readers-greater-rate-activation-gains-left-frontotemporal.md) — related
 - [Typical readers respond faster than dyslexic readers overall, and responses slow as presentation rates increase, without a group-by-rate interaction for reaction time](reaction-time-group-and-rate-effects-no-interaction.md) — related
+- [Audiovisual sentence performance approximates the simple sum of unimodal scores, with no super-additive integration for familiar sentences](no-super-additive-av-integration-familiar-sentences.md) — related

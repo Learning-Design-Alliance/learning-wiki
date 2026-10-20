@@ -46,3 +46,4 @@ Standard random-effects meta-analysis of four effect sizes from four studies on 
 - [Rubric use has a small, statistically non-significant pooled effect on self-regulated learning (g = 0.23)](rubrics-small-effect-self-regulated-learning.md) — related
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
 - [Using rubrics has a positive, moderate effect on students' academic performance (corrected g = 0.45; standardized mean change = 0.38)](rubrics-moderate-positive-effect-academic-performance.md) — related
+- [For self-regulated learning outcomes, rubrics combined with both self- and peer assessment show a significantly larger effect than rubrics with self-assessment alone](rubrics-srl-self-plus-peer-assessment-larger-effect.md) — related

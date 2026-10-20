@@ -75,3 +75,5 @@ Chapter 3 reports the on-track indicator is "equally or more predictive of gradu
 - [The on-track indicator is strongly related to students' likelihood of graduating](on-track-indicator-related-to-graduation-likelihood.md) — a broader claim this one bears on
 - [Students off track after ninth grade are less than half as likely to graduate, with Black and Latino students 46% and 31% more likely than the national average to be off track in 2022](ninth-grade-off-track-graduation-risk-disparities.md) — related
 - [In 2019–20, 71 percent of students with disabilities graduated high school within four years versus 87 percent of all students](graduation-rate-gap-71-versus-87-percent.md) — related
+- [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers](off-track-ninth-grade-graduation-odds.md) — related
+- [Students on track in ninth grade were four times more likely than off-track peers to graduate high school](ninth-grade-on-track-four-times-graduation.md) — related

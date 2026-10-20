@@ -50,3 +50,4 @@ Analysis of Zhimo's draft revision of a run-on sentence in his argumentative ess
 - [One focal student exhibited a critical-pragmatic humanistic AI literacy, conceptualizing AI as a manipulable tool and evaluating it by rhetorical efficiency](zhimo-critical-pragmatic-humanistic-ai-literacy.md) — related
 - [A guided posthumanist writing experiment showed a student internalizing a posthumanist ontology, yet her evaluative criteria remained human-centric](asuka-posthumanist-experiment-human-centric-evaluation.md) — related
 - [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — related
+- [Existing AI literacy frameworks treat teacher agency narrowly as tool adoption, leaving human–AI co-agency undertheorized](agency-narrowed-to-tool-adoption.md) — related

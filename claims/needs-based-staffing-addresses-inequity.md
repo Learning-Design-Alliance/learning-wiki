@@ -47,3 +47,4 @@ A district example reported in the document's Examples of Addressing Resource In
 - [Funding dual-enrollment courses at high school campuses addresses transportation-based access inequities](dual-enrollment-campus-funding-access.md) — related
 - [CBO leaders cautioned that assessing WSS outcomes without accounting for district inputs obscures how resource allocation determines policy success](wss-outcomes-need-input-transparency.md) — related
 - [Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity](progressive-but-insufficient-funding.md) — related
+- [Across 11 states with transparent student group allocation, estimated combined additional funding for dual EL/low-income students ranged from $904 per pupil in Arkansas to $16,161 in New Jersey](dual-funding-range-904-to-16161.md) — related

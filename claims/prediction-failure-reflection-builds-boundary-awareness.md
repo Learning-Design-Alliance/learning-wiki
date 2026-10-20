@@ -64,3 +64,4 @@ The authors' interpretation of the same Segment 3 discourse: students recognized
 
 - [Dual-track comparison of manual estimation with AI prediction activated students' isomorphism awareness in a Grade 5 lesson](dual-track-comparison-activates-isomorphism-awareness.md) — related
 - [Micro productive failure (problem solving before instruction) improved sixth-graders' isomorphic algebraic procedural problem solving, with the advantage stable across one-day and one-week delays](micro-productive-failure-improves-isomorphic-procedural-problems.md)
+- [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related

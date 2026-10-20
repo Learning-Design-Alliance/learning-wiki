@@ -66,3 +66,6 @@ The same study's younger children, and a cited study of British 5- and 6-year-ol
 
 ## Related Claims
 - [Preschoolers' writing and writing-related skills increase significantly between ages 3 and 5 on letter, name, and CVC word tasks](preschool-writing-skills-increase-age-3-to-5.md) — related
+- [The consonants-in-noise model predicts concurrent reading in school-aged children and reliably classifies externally diagnosed learning disability, being most effective at clearing children as unlikely to have an LD](consonants-in-noise-model-predicts-reading-and-diagnostic-category-older-children.md) — related
+- [Preschool neurophysiological assessment predicts performance on phonological processing, rapid naming, sentence memory, sight word reading, spelling, and composite reading one year later](year1-neural-predictions-forecast-year2-literacy.md) — related
+- [Neural coding of consonants in noise strongly predicts phonological processing in 4-year-old pre-readers over and above demographic factors](neural-coding-consonants-noise-predicts-phonological-processing-prereaders.md) — related

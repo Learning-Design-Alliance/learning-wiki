@@ -46,3 +46,7 @@ Descriptive analysis of Spring 2025 interaction logs from the ten institutions a
 - In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement — related
 - [GenAI use is widespread among higher education students in reviewed studies, with some studies reporting over 95% of participants had used GenAI tools](genai-use-widespread-higher-education-students.md) — a broader claim this one bears on
 - [Tutoring activity mix shifts dynamically across a ten-session project, with rapport building highest early and artifact review rising over time](tutoring-activity-mix-shifts-across-project-sessions.md) — related
+- [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
+- [Equity disparities in GenAI Tutor use appear in how students engage, not in whether or how much they use the tool](equity-in-how-not-how-much-genai-use.md) — related
+- [Cumulative engagement showed staircase growth with deadline-driven peaks of 348 events on April 4th and 205 events around April 9th](cumulative-engagement-staircase-deadline-peaks.md) — related
+- [Students showed only modest engagement with GenAI functionalities during in-semester use of the feedback tool](modest-in-semester-engagement-genai-feedback-tool.md) — related

@@ -45,3 +45,5 @@ Synthesis of the two randomized studies (740 students total per the review's hea
 ## Related Claims
 - Across two randomized studies, Math Corps has a sample-size-weighted mean effect size of +0.16 — related
 - Averaging across the two randomized studies, weighted by sample size, Reading Corps produced a mean effect size of +0.36 — related
+- [Reading Recovery has positive effects on general reading achievement for beginning readers, based on three randomized controlled trials](reading-recovery-positive-general-reading-achievement.md) — related
+- [Reading Recovery has potentially positive effects on reading fluency, from a single randomized trial](reading-recovery-potentially-positive-reading-fluency.md) — related

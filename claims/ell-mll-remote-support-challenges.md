@@ -66,3 +66,5 @@ Moderator finding from the same survey section on ELL/MLL support: high-poverty 
 - [Communication challenges were the most reported barrier to supporting English language learner students, cited by 63 percent of schools](ell-support-communication-challenges-most-reported.md) — related
 - [Limited English fluency and low native-language literacy among parents hinder school communication in ELL communities](ell-parent-language-literacy-barrier.md) — related
 - [Remote interventions were being considered as a means to support equity and inclusion during COVID disruptions](remote-interventions-equity-inclusion-covid.md) — a broader claim this one bears on
+- [Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties](teacher-remote-challenges-attention-not-technology.md) — related
+- [Nearly 80 percent of surveyed charter schools operated fully remotely in April 2020, falling to about half by the 2020-21 school year](charter-instructional-modes-remote-to-hybrid-shift.md) — related

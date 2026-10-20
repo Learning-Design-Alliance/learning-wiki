@@ -50,3 +50,5 @@ Cost analysis of the faces task in ninety 8-year-olds across three language grou
 - [Bilingual children show no reaction time cost for their dual-task accuracy advantage](no-rt-cost-bilingual-dual-task-advantage.md) — related
 - [Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages](bilingual-advantage-reading-acquisition.md) — related
 - [Switch costs and mixing costs are common empirical observations across language switching paradigms, except voluntary switching under certain circumstances](switch-and-mixing-costs-common-across-paradigms.md)
+- [Bilingually educated high-school students show smaller switching costs (greater cognitive flexibility) than regularly educated peers](bilingual-education-smaller-switching-costs.md) — related
+- [Target-alone RT is approximately 30 msec faster in blocked no-noise trials than in trials intermixed with noise conditions, indicating a preparatory inhibitory set](eriksen-1974-blocked-vs-mixed-control-30-msec.md) — reports the opposite

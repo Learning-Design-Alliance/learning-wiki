@@ -43,4 +43,5 @@ The editorial reports, citing Veenman and Spaans (2005), that metacognitive skil
 
 
 ## Related Claims
--
+- [Whether metacognition is domain-general or domain-specific remains a major unresolved issue with implications for instruction and transfer](metacognition-domain-generality-specificity-open-issue.md) — a broader claim this one bears on
+- [Before metacognitive skill training, fifth graders possessed none of the metacognitive skills later trained, so metacognitive skills are task-specific at first and become domain-general only through transfer](fifth-graders-lack-metacognitive-skills-before-training.md) — related

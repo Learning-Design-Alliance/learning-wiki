@@ -51,3 +51,5 @@ Quasi-experimental design comparing Gehring magnet students in grades 1-5 with p
 - [Lied magnet students in grades 6-8 attempted and completed significantly more STEM credits than matched comparison students](lied-magnet-stem-credit-impacts.md) — related
 - [Students who attended FAST three or more times showed strong positive effects on Grade 1 reading and more modest effects on mathematics, but a strong negative effect on kindergarten attendance](fast-qed-dose-effects-reading-math-attendance.md) — related
 - [The evaluation has not yet rigorously examined whether the magnet schools reduce, eliminate, or prevent minority group isolation; this is deferred to the final report](minority-group-isolation-outcome-deferred.md)
+- [A lottery-based randomized controlled trial at Lied replicated the positive, statistically significant impact on 6th graders' mathematics achievement found by the QED](lied-rct-replicates-math-impact.md) — related
+- [Magnet schools across the studied cities show strong positive impact on students' performance growth compared to state averages](credo-cohort1-magnet-strong-positive-growth.md) — a broader claim this one bears on

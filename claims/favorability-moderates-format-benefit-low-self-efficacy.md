@@ -50,3 +50,5 @@ Figure 3 visualizes the significant three-way interaction, splitting favorabilit
 - [Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format](lower-baseline-self-efficacy-greater-learning-gains.md) — related
 - [Favorability scores were not associated with posttest scores, suggesting they reflect general attitudes toward the practice method](favorability-not-associated-with-posttest-scores.md) — related
 - [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](tutor-practice-greater-learning-gains-than-paper.md) — related
+- [Each form of accountability can produce favorable or unfavorable effects](each-accountability-form-favorable-or-unfavorable-effects.md) — related
+- [Formative assessment shows gains in student self-efficacy and motivation and particular benefits for disadvantaged and low-achieving students](formative-assessment-self-efficacy-low-achievers.md) — related

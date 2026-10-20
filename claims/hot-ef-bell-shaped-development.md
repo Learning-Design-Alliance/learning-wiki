@@ -44,3 +44,6 @@ ANCOVA across six age groups with IQ as covariate on CGT risk adjustment. The ar
 
 - [Cognitive flexibility develops protractedly: sharp increase between 7 and 9 years, largely mature by age 10, peaking between 21 and 30](protracted-cognitive-flexibility-development.md) — related
 - [Cool EF measures correlate with each other, but no association is found between cool and hot EF measures](cool-hot-ef-uncorrelated.md)
+- [CGT delay aversion shows a bell-shaped age pattern but no statistically significant age difference in adolescence](cgt-delay-aversion-no-age-effect.md) — related
+- [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — related
+- [Executive-function brain circuitry takes more than twenty years to fully mature, leaving school-age youth with underdeveloped long-run decision systems](executive-function-maturation-over-twenty-years.md) — related

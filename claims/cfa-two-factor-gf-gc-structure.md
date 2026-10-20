@@ -46,3 +46,5 @@ First-stage confirmatory factor analysis on the BURN11 correlation matrix, with 
 
 - [There was a significant indirect effect of Gf through Gc onto final learning performance, and the Gf→Gc→Learning model fit better than the reverse causal ordering](gf-through-gc-indirect-effect.md)
 - [Perspective-taking (spatial orientation) shows evidence of uniqueness from mental rotation factors](perspective-taking-distinct-from-mental-rotation.md) — related
+- [Tutor ratings do not entirely tap one underlying trait; one- and two-factor models fit unsatisfactorily](tutor-rating-factors-not-one-trait.md) — related
+- [Fluid abilities (Gf) significantly predicted the rate of learning, whereas crystallized abilities (Gc) significantly predicted final learning performance in a one-week instructional process](gf-rate-gc-final-level-learning.md) — related

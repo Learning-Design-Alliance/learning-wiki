@@ -64,3 +64,6 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
 - [No evidence of reporting bias was found for the foreign language word reading SMD meta-analysis](no-reporting-bias-fl-word-reading.md) — related
+- [The active-learning advantage is robust to publication bias and to variation in methodological rigor of the included studies](active-learning-effect-robust-bias-and-rigor.md) — a narrower finding that bears on this claim
+- [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
+- [The text generation research field shows a small-study effect suggesting publication bias](small-study-effect-publication-bias.md) — reports the opposite

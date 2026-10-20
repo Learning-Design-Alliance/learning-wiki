@@ -64,3 +64,5 @@ Chi-square analyses from the same follow-up study; a null finding with no printe
 ## Related Claims
 - [Former students in the high self-determination group were more likely to be employed for pay about one year after leaving school than those in the low self-determination group](self-determination-higher-employment-one-year-out.md) — related
 - [High self-determination former students were more likely to express a preference to live outside the family home, though actual living arrangements did not differ by self-determination group](self-determination-living-preference-and-arrangements.md) — related
+- [High wage earners had higher total self-determination, autonomy, and psychological empowerment scores than low wage earners, controlling for intelligence](high-earners-higher-self-determination-scores.md) — related
+- [The study targeted students with learning disabilities, mild and moderate mental retardation, and other health impairments](self-determination-study-population-disability-categories.md) — related

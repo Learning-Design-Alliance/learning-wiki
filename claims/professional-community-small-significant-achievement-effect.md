@@ -44,3 +44,4 @@ Meta-analysis pooling studies that investigated the effect of professional commu
 
 ## Related Claims
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — related
+- [One review reports that more teacher guidance within inquiry is associated with larger advantages over traditional instruction, though the two meta-analyses it cites differ in magnitude](teacher-guided-inquiry-larger-effects.md) — related

@@ -44,3 +44,6 @@ Planned comparison between the problematizing condition (19 triads) and the stru
 
 ## Related Claims
 - [Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds](problematizing-scaffolds-transfer-effect.md) — related
+- [Problematizing scaffolds elicit constructive, interaction-embedded metacognitive activities, whereas structuring scaffolds elicit application of examples](problematizing-scaffolds-elicit-constructive-interaction.md) — related
+- [Metacognitive scaffolding did not significantly affect group performance of collaborating triads, though the effect size indicated a small to medium positive effect](scaffolding-no-significant-group-performance-effect.md) — related
+- [Problematizing scaffolds timed to metacognitive moments led students to learn the most domain knowledge](problematizing-scaffolds-most-domain-knowledge.md) — related

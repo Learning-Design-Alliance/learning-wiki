@@ -63,3 +63,6 @@ This is a single-domain (natural selection), single-population (undergraduates, 
 - [Scaffolding effects varied by education population, with traditional learners significantly outperforming underperforming learners](education-population-moderates-scaffolding-effect.md) — related
 - Models can only be understood with respect to the aims and intentions of a cognitive agent, not solely in terms of representation — related
 - [Misconceptions decreased over time in all three instructional methods, with no difference between methods](misconceptions-decreased-similarly-all-methods.md)
+- [AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction](ai-ibi-improves-creative-mathematical-performance.md) — related
+- [The learning cycle is reported as an effective means for learning science concepts and processes](learning-cycle-effective-science-learning.md) — related
+- [Nature-based instruction improves academic achievement over traditional instruction, with larger gains at larger doses](nbi-outperforms-traditional-instruction-dose-response.md) — related

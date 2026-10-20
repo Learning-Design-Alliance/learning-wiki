@@ -47,3 +47,4 @@ Measurement-model analysis of two-wave survey data from 1,950 Australian school 
 - [Bivariate SDT-based predictions about BPNSFS correlates were largely upheld: valence predictions correct for 95.2% and content predictions for 91.4% of scored cases](bivariate-prediction-accuracy-nomological-network.md) — related
 - [Classic two-facet MTMM analysis supports convergent and discriminant validity of the six BPNSFS facets across time](mtmm-two-facet-bpnsfs-validity.md) — related
 - [Three-facet MTMM (content × valence × time) supports the SDT 3×2 architecture, with content the stronger separative force and 20 of 21 planned comparisons supported](three-facet-mtmm-content-valence.md) — a broader claim this one bears on
+- [Autonomy shows a strong content signal: 53 of 64 outcomes satisfy the a priori autonomy rule, with exceptions for self-efficacy (competence) and collegial support (relatedness)](autonomy-content-signal-c2.md) — related

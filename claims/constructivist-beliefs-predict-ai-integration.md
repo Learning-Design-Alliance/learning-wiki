@@ -45,3 +45,5 @@ Narrative review attribution in Section 2.2: the paper reports, citing the South
 ## Related Claims
 - [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](positive-mindsets-better-behaviors-grades.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
+- [Canadian students were more likely than South Korean students to judge GenAI-assisted coding as against institutional rules, despite functionally identical policies](canadian-students-judge-genai-use-more-against-rules-than-korean.md) — related
+- [Canadian students were more likely than South Korean students to judge GenAI-assisted coding scenarios as unethical](canadian-students-judge-genai-use-more-unethical-than-korean.md) — related

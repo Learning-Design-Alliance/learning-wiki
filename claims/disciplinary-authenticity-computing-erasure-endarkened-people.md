@@ -45,3 +45,5 @@ The article's own contrapuntal analysis: authenticity in computing education pos
 ## Related Claims
 - [Sociological research reports workplace segregation and coercive labor conditions for immigrant tech workers](immigrant-tech-workers-segregation-legal-violence.md) — a narrower finding that bears on this claim
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related
+- [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — a narrower finding that bears on this claim
+- [Cognitivism and human-machine interaction emerged from the pragmatic challenges of World War II](cognitivism-emerged-from-world-war-ii.md) — related

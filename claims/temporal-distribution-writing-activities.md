@@ -43,4 +43,7 @@ Multilevel polynomial regression on think-aloud and keystroke-logged protocols f
 
 
 ## Related Claims
--
+- [Reported planner scores interact with episode: high planners plan more at the start and less at the end of task execution](planner-score-episode-interaction-planning.md) — a narrower finding that bears on this claim
+- [Planner and reviser questionnaire scores show frequency main effects on several online activities, with no interaction with episode](wsq-main-effects-online-activities.md) — related
+- [No effects of reported planner or reviser scores were found on evaluating own text](no-effects-evaluating-own-text.md) — related
+- [Reported reviser scores interact with episode for reading the assignment, with the effect reversing from episode 2 onwards](reviser-score-episode-reading-assignment.md) — related

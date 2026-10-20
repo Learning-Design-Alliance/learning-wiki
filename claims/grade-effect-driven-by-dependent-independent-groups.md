@@ -45,3 +45,5 @@ Multilevel regression Model 3 distinguishing three treatment subgroups within th
 ## Related Claims
 
 - [Learning strategy outcome effects are driven by different differentiation groups than the performance effect](mslq-outcomes-different-group-drivers.md)
+- [Group differentiation by students' learning strategies raises secondary school student performance by a small but significant margin](differentiation-learning-strategies-raises-performance.md) — related
+- [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — related

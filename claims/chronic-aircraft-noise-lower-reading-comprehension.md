@@ -60,3 +60,6 @@ The review's synthesis of quasi-experimental chronic-exposure studies: aircraft 
 ## Related Claims
 - [In the RANCH study, increasing road traffic noise exposure was associated with enhanced episodic memory, an unexplained counter-intuitive finding](ranch-road-traffic-noise-enhanced-episodic-memory.md) — related
 - [Chronic exposure to indoor noise and reverberation at school is associated with poorer children's reading and prereading skills](chronic-indoor-classroom-noise-reading-prereading.md) — related
+- [Meaningful background speech impairs delayed memory for texts in teenagers more consistently than transportation noise](meaningful-speech-impairs-prose-memory-teenagers.md) — related
+- [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — related
+- [Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults](noise-impairs-children-listening-comprehension.md) — related

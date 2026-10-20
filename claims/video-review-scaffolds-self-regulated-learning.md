@@ -50,3 +50,6 @@ Pairwise contrasts from the same ANCOVA: hands-on groups "outperformed the virtu
 - [Video review enhances practical skill performance in both modalities and eliminates the hands-on versus virtual simulation difference](video-review-eliminates-modality-performance-gap.md) — related
 - [Video review raises learning interest under virtual simulation but not under hands-on activity](video-review-raises-interest-only-in-virtual-simulation.md) — related
 - [Video review produces more structured reflective behavior patterns, with modality-specific video interaction sequences](video-review-structured-reflective-behavior-patterns.md) — related
+- [Hands-on activity groups show fewer erroneous operations than correct ones, and hands-on with video review students use video more than virtual simulation peers](hands-on-lower-error-frequency-higher-video-use.md) — related
+- [Authentic video outperformed virtual simulation on the higher-order analysis and support dimensions of observation assignments](av-advantage-analysis-support-dimensions.md) — related
+- [Virtual simulation stimulated higher self-reported purposefulness (active reflection) than authentic video](vs-higher-purposefulness-reflection.md) — related

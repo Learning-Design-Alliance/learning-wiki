@@ -51,3 +51,11 @@ Large-scale survey administration described in the report's introduction. It sta
 - Chicago teachers are far more likely to report improvements in their own work than improvements in student academic performance — related
 - [Between 1991 and 1994, elementary teachers' test-preparation time increased and responses converged toward moderate agreement on reform items](test-prep-hours-increased-1991-1994.md) — related
 - [Parental involvement declines as students move from eighth to tenth grade in Chicago and nationally](parental-involvement-declines-high-school-transition.md) — related
+- [Chicago high school teachers reported better communication and more positive relationships with parents in 1997 than in 1994](teacher-parent-communication-improved-1994-1997.md) — related
+- [Survey snapshots and trend graphs track school development measure responses from 1994 to 2003](survey-response-trends-1994-2003-report-format.md) — related
+- [Survey participation was low in about half of administered classes, with only 20 of 45 classes exceeding 40% matched pre/post response](eclass-low-response-rates-half-of-classes.md) — related
+- [Neighborhood crime rates differ dramatically between elementary schools students rate as safest and least safe](neighborhood-crime-differs-safest-least-safe-schools.md) — related
+- [Chicago high school reform efforts of the late 1990s were studied at the district, school, and departmental levels in a 2001 conference volume](chicago-high-school-reform-multi-level-studies.md) — related
+- [Chicago elementary teachers are moderately positive about school reform, with about 60 percent agreeing their school is getting better since reform began](cps-teachers-moderately-positive-reform-1991.md) — related
+- [Teachers' most negative reports concern student behavior, which more teachers say has gotten worse than better](student-behavior-most-negative-teacher-reports.md) — related
+- [School response rates at the reported school were 86.4 percent for students and about 90 percent for teachers](sample-school-2005-response-rates.md) — related

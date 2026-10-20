@@ -46,3 +46,5 @@ Descriptive analysis of state education spending data reported in the brief's Ke
 - Estimated economic costs for English Learner program personnel range from $1,670 to $5,000 per English Learner student annually across interviewed LEAs — related
 - California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals — related
 - [Across 11 states with transparent student group allocation, estimated combined additional funding for dual EL/low-income students ranged from $904 per pupil in Arkansas to $16,161 in New Jersey](dual-funding-range-904-to-16161.md) — related
+- [LCFF-induced spending increases of $1,000 per pupil for 3 consecutive years produced roughly a full grade-level increase in math and reading achievement in grades 3–8](lcff-1000-per-pupil-three-years-full-grade-level-achievement-gains.md) — related
+- [A $1,000 increase in district per-pupil revenue in grades 10–12 was associated with a 5.3 percentage-point increase in high school graduation rates in California](california-lcff-graduation-gains.md) — related

@@ -43,4 +43,7 @@ Discourse and model analysis of the three cases: Group 2's model was based on th
 
 
 ## Related Claims
--
+- [Collaborative multidisciplinary modeling tasks elicit all four cognitive processes of interdisciplinary understanding in student group discourse](modeling-task-elicits-four-interdisciplinary-processes.md) — related
+- [Groups' success in merging perspectives was related to the time they allocated to the interdisciplinary cognitive processes, especially transforming knowledge and critical stance](time-allocation-relates-to-merging-extent.md) — related
+- [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
+- [Patterns of emergent leadership differed across disciplinary content areas, with some students leading in math but not history](leadership-patterns-vary-across-content-areas.md) — related

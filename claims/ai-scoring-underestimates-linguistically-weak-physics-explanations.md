@@ -48,3 +48,4 @@ Multinomial logistic regression analysis of scoring deviations (AI score minus e
 - [Higher linguistic quality shows no consistent association with overestimation of conceptual understanding by AI-based scoring](no-consistent-linguistic-overestimation-ai-scoring.md) — related
 - ML-based scoring approaches more often overestimated expert-assigned scores, whereas LLM-based approaches more often underestimated them — related
 - Expert-assigned conceptual understanding and linguistic quality scores are moderately correlated (r = .50) in the student explanation dataset — related
+- [In one study of five LLMs scoring 60 undergraduate essays on IELTS rubric dimensions, systematic underestimation of human scores was the dominant bias trend, with some models also compressing scores into a narrow range](llm-essay-scoring-systematic-underestimation.md) — related

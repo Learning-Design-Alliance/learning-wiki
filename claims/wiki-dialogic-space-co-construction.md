@@ -44,3 +44,10 @@ The editorial's summary of the Pifarre and Kleine Staarman study, positioned in 
 
 ## Related Claims
 - [Self-constructed collaborative concept maps trigger more deep exploratory talk and less non-dialogic talk than completing or sorting maps, which yield mostly superficial exploratory talk](self-constructed-cm-deep-exploratory-talk.md) — related
+- [Internalizing wiki information can yield emergent knowledge that was in neither the person's prior knowledge nor the wiki](emergent-knowledge-from-internalization.md) — related
+- [Middle episodes of wiki text generation show a cumulative orientation, later with co-construction, in which students expand and re-elaborate each other's ideas](cumulative-co-constructive-text-generation.md) — a narrower finding that bears on this claim
+- [Specific pedagogic design characteristics supported students' joint interaction in the wiki: initial text propositions, Thinking Together preparation, a collectively created artefact, and asynchrony](pedagogic-design-characteristics-wiki-collaboration.md) — a narrower finding that bears on this claim
+- [Primary students' wiki negotiation contains collaboration and reasoning keywords distributed throughout the interaction](wiki-negotiation-collaboration-reasoning-keywords.md) — related
+- [Wiki negotiation unfolds in four episodes with distinct intersubjective orientations, beginning with an exploratory orientation during content generation](four-episodes-exploratory-content-generation.md) — a narrower finding that bears on this claim
+- [Collaborative wiki texts are longer, contain more t-units and more reasoning connectors than the initial pair-written texts](collaborative-text-longer-richer-than-initial.md) — related
+- [The final episode of wiki collaborative writing is characterised by a disputational orientation, possibly driven by time pressure to finish the text](disputational-orientation-finishing-text.md) — related

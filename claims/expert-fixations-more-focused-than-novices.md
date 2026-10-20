@@ -50,3 +50,4 @@ Eye-tracking experiment in which 67 teachers viewed four authentic lesson videos
 - [Experts revisited (monitored) more classroom areas showing student interaction, while novices revisited areas lacking classroom activity](experts-monitor-interaction-areas-novices-salient-areas.md) — related
 - [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](knowledge-driven-vs-image-driven-classroom-perception.md) — related
 - [Teaching experience is associated with higher frequency of mental/perceptual and action/event words in think-aloud about classroom scenes](expertise-associated-event-cognition-word-usage.md) — related
+- [Evidence that domain-general perceptual-cognitive skills distinguish athletes is mixed; expertise appears domain-specific](expertise-domain-specific-not-general.md) — related

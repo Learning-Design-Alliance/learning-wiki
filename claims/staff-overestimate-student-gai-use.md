@@ -44,3 +44,5 @@ Survey comparison using the validated Perception of Students' Use of GAI scale (
 - [Students were more positive than staff that GAI use enhances academic performance, with staff means below the scale midpoint](performance-expectancy-staff-student-gap.md) — related
 - [Staff showed more negativity in attitudes towards student use of GAI than students did](staff-more-negative-attitudes-student-gai.md) — related
 - Students perceived facilitating conditions for GAI tool use to a greater extent than staff in the surveyed School — related
+- [The main student use of GAI tools consistently in view was supporting language-usage and text production](student-gai-use-text-production.md) — related
+- [User engagement with GAI tools is filtered through imagined affordances rather than direct encounter with software functionalities](imagined-affordances-filter-gai-engagement.md) — a broader claim this one bears on

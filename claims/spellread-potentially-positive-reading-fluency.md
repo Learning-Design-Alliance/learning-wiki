@@ -52,3 +52,4 @@ WWC synthesis of two randomized controlled trials meeting evidence standards wit
 - [Twenty participants aged 3 to 14 with varying disabilities all demonstrated literacy gains through shared story reading](twenty-participants-literacy-gains-shared-story-reading.md) — related
 - [Reading Recovery has potentially positive effects on alphabetics for beginning readers](reading-recovery-potentially-positive-alphabetics.md) — related
 - [SpellRead™ shows potentially positive effects on alphabetics for adolescent readers, with an average improvement index of +23 across two studies](spellread-potentially-positive-alphabetics.md) — related
+- [SFA® shows positive effects on alphabetics for beginning readers in grades K–4](sfa-positive-effects-alphabetics-k-4.md) — related

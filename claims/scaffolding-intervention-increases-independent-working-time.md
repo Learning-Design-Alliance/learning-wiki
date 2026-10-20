@@ -47,3 +47,5 @@ Repeated-measures ANOVA manipulation check on average independent working time p
 - [Teachers who completed a scaffolding intervention program increased the contingency of their support far more than non-participating teachers](scaffolding-intervention-increases-teacher-contingency.md) — related
 - [Low contingent support increased task effort when independent working time was short; with long independent working time task effort decreased under both contingencies but less so with high contingency](contingency-working-time-task-effort-interaction.md) — related
 - [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
+- [Program teachers showed more complete cycles of contingent teaching at postmeasurement than the other teachers](mct-pd-more-complete-contingent-teaching-cycles.md) — related
+- [Groups' final solution scores were significantly higher on the scaffolded task than the non-scaffolded task](scaffolds-higher-final-solution-scores.md) — related

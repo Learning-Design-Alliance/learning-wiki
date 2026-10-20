@@ -49,3 +49,4 @@ Net-cost estimation (Table 6) using a weighted average Universal ESA value of $6
 - [Total ESA program cost reached about $587 million in 2022–23, a 211% increase over the prior year, equal to 8.8% of Basic Student Aid funding](esa-total-cost-587-million-211-percent-increase.md) — related
 - [The large majority (71.2%) of Universal ESA users had not previously attended a public school, adding new costs to the state education budget](universal-esa-majority-not-previously-public-school.md) — related
 - [The Universal ESA amount exceeds per-pupil district funding, so elementary students leaving district schools each add $425 in state cost, while students leaving charter schools save the state $752 each](universal-esa-exceeds-district-funding-cost-difference.md) — related
+- [ESA programs have grown rapidly, serving over 326,400 students across 13 states as of the 2023/24 school year](esa-rapid-growth-326400-students-13-states.md) — related

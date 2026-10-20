@@ -48,3 +48,5 @@ A logic-model statement in the partnership document specifying the long-term stu
 
 ## Related Claims
 - [The partnership targets improved teacher instruction in eliciting student thinking, using representations, and focusing on math reasoning](tft-teacher-instruction-improvement-targets.md) — related
+- [The cost-effectiveness ratio of ASSISTments is approximately $462.30 per student per standard deviation of long-term math achievement gain](assistments-cer-462-per-sd.md) — related
+- [ASSISTments achieved a long-term effect comparable to high-dosage tutoring at a small fraction of the cost](assistments-cost-comparison-saga-tutoring.md) — related

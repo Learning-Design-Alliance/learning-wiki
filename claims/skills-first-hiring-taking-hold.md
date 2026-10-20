@@ -47,3 +47,5 @@ The report draws on the World Economic Forum's Future of Jobs Report 2023 and no
 - [Black Americans comprise only 8% of the 5.3 million tech occupation jobs in the U.S.](black-americans-8-percent-tech-occupation-jobs.md) — related
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related
 - [Registered apprenticeship had strong ninth-quarter employment and earnings impacts for IT, healthcare, and advanced manufacturing sectors](registered-apprenticeship-sector-impacts-it-healthcare-manufacturing.md) — related
+- [Changing job requirements mean students must be prepared to change throughout their entire work lives](changing-job-requirements-students-prepared-for-change.md) — related
+- [In Georgia, a two-month accelerated manufacturing program with micro-credentials led to recent high school graduates being hired, including employers making an exception to their under-21 hiring practice](tcsg-manufacturing-microcredentials-led-to-hiring.md) — related

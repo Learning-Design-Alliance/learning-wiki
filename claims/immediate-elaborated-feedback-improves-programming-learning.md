@@ -51,3 +51,4 @@ Narrative review attribution: the review reports, citing Hooshyar et al. [125], 
 - [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — the general claim this finding bears on, with the studies behind it
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — a broader claim this one bears on
 - [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — related
+- [Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest](incidental-vocabulary-retention-problems.md) — related

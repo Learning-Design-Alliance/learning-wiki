@@ -78,3 +78,4 @@ Longitudinal study (six test administrations over three years) relating repeated
 - [Rapid guessing on achievement tests varies across grades, subjects, and teachers](rapid-guessing-varies-grade-subject-teacher.md) — related
 - Correlations with self-regulation tend to be larger for course grades than for standardized test scores in several coded studies — related
 - [Students who like writing report the highest writing self-efficacy across all studies examining writing attitude](writing-attitude-liking-predicts-self-efficacy.md) — related
+- [Academic and test disengagement are connected through a common association with poor self-management](self-management-common-link-disengagement.md) — a broader claim this one bears on

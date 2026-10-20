@@ -52,3 +52,7 @@ ANOVA by level of governance participation (Table 5) in the 455-respondent surve
 - [Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors](personal-experience-over-organizational-culture.md) — related
 - [Organizational error management culture relates positively to company performance](error-management-culture-company-performance.md) — related
 - [Participants in higher hierarchy positions were more active and showed better learning performance than those at lower levels](higher-hierarchy-position-more-active-better-performance.md) — related
+- [Evaluations of leadership competency increase with hierarchical position in Vietnamese universities](leadership-perception-gap-by-position.md) — related
+- [Financial governance shows no statistically significant direct effect on governance effectiveness when modeled with other factors](finance-no-significant-direct-effect-governance.md) — related
+- [Leadership competence is the strongest predictor of governance effectiveness in Vietnamese universities](leadership-strongest-predictor-vietnamese-governance.md) — related
+- [Synthesized factors reflect a bidirectional relationship between individual participation and group performance in collaborative learning](bidirectional-participation-group-performance.md) — related

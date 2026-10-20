@@ -54,3 +54,5 @@ Difference-in-differences analysis of biannual national test scores (n ≈ 350,0
 - [End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points)](spring-2022-achievement-below-typical-math-declines-larger.md) — related
 - [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](spring-2021-students-behind-prepandemic-averages.md) — related
 - [Most of the lockdown learning loss reflects reduced knowledge learned rather than transitory day-of-test influences](learning-loss-reflects-knowledge-learned-not-transitory.md) — related
+- [Year 3 students in low-ICSEA schools achieved significantly less mathematics growth in 2020, equivalent to two months less than the 2019 cohort](covid19-year3-low-icsea-two-months-less-math-growth.md) — related
+- [Average fall 2021 reading scores in Grades 3–8 were .09–.18 SD lower than same-grade peers' fall 2019 scores](covid-reading-decline-009-018-sd-grades-3-8.md) — related

@@ -51,3 +51,5 @@ Subgroup analysis within the same New York City school-fixed-effects study of fi
 - [Exposure to field trips to informal science institutions produces small positive effects on middle school students' standardized science test scores](field-trips-small-positive-science-score-effects.md) — a broader claim this one bears on
 - The OGAP trial population was racially diverse and predominantly low-income, supporting scope to high-poverty urban districts — related
 - Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch — related
+- [Negative effects of mid-year entry are somewhat larger for Asian students and students not qualifying for free or reduced-price lunch](mid-year-entry-effects-larger-asian-non-frl-students.md) — related
+- [Learning conditions predict math grades across racial and socioeconomic groups, with larger associations for FRPL-eligible and Black students](learning-conditions-predict-grades-across-demographics.md) — related

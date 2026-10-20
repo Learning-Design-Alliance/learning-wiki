@@ -45,3 +45,4 @@ Simulation-and-readiness exercise modelling three higher-education design-studio
 ## Related Claims
 - The three-studio architectural-category chart sums to 104 displayed counts, an unexplained five-row discrepancy against the 109-row cognitive total — related
 - [A 50-disposable-account staging rehearsal produced 56 evidence rows, with 46 (82.1%) assigned to higher-order Bloom categories](fifty-account-rehearsal-56-rows-82-percent-higher-order.md) — related
+- [A deployment-hardening rehearsal with 50 distinct learner accounts recorded 50 completed sessions, 50 successful board pulls and 50 denials of student analytics access, with a median API session time of 3.064 s](hardening-rehearsal-50-sessions-and-access-denials.md) — related

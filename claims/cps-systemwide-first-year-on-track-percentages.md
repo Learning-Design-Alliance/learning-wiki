@@ -49,3 +49,6 @@ Observational systemwide percentages in Table 10 covering all CPS eighth-grade c
 - [Vivaldi students' first-year on-track rates differed across destination high schools for the 2001 cohort](vivaldi-2001-on-track-varies-by-high-school.md) — related
 - Freshman on-track performance varied across Kenwood's five successive ninth-grade classes from 1993-94 to 1997-98 — related
 - Freshman on-track rates varied by the elementary school Kenwood students attended, as shown in maps and tables for the classes of 1997 and 2001 — related
+- [Schools vary widely in freshman on-track rates even among students with similar backgrounds](school-differences-in-on-track-rates.md) — related
+- [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related
+- [Over 40 percent of Chicago Public Schools students drop out by age 19, with a slight downward trend across the 1991–1994 cohorts](cps-cohort-dropout-over-40-percent-slight-decline.md) — related

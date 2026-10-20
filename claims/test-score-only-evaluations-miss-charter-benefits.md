@@ -51,3 +51,4 @@ The report's summary draws a methodological implication from its attainment find
 - [Students attending charter high schools are more likely to persist in college](charter-high-schools-more-likely-persist-college.md) — related
 - [The brief suggests charter high schools may boost both postsecondary attainment and long-run earnings](charter-high-schools-attainment-and-long-run-earnings-suggestion.md) — related
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — related
+- [Charter high schools are associated with increased postsecondary educational attainment and may boost students' long-run earnings, based on data from Florida and Chicago](charter-high-schools-attainment-earnings-florida-chicago.md) — related

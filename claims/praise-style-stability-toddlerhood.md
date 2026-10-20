@@ -46,3 +46,5 @@ Longitudinal change analysis within the same sample; process praise as a percent
 - [Repeated encouragement and praise causally increased 13- and 14-month-olds' helping of an adult who dropped an object](encouragement-praise-doubles-infant-helping.md) — related
 - [Parents' naturalistic process praise at child ages 14-38 months predicts children's incremental motivational frameworks at age 7-8](process-praise-toddlerhood-predicts-incremental-frameworks.md) — related
 - [Parents' person praise at 14-38 months was not associated with children's later entity frameworks](person-praise-toddlerhood-null-relation.md) — related
+- [Parents' own incremental theories did not predict their process praise use or their children's motivational frameworks, and counter-intuitively correlated with more person praise](parent-incremental-theories-not-predicting-praise-or-child-frameworks.md) — related
+- [Process praise to toddlers predicts fourth grade math and reading comprehension achievement via children's incremental motivational frameworks](process-praise-toddlers-predicts-achievement-via-incremental-frameworks.md) — related

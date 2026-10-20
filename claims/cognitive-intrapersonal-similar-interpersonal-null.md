@@ -70,3 +70,4 @@ Single-study interpersonal outcome from the media-comparison set; g = 0.25 with 
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
 - [Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons](digital-games-outperform-nongame-media-comparisons.md) — related
 - [Good Behavior Game shows uncertain effects on intrapersonal competencies, with a pooled effect size of 0.14 that is not statistically significant](gbg-uncertain-intrapersonal-effects.md) — related
+- [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](feedback-outcome-measure-moderator-cognitive-physical.md) — related

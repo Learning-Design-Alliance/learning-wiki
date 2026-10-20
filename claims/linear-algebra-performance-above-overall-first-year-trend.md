@@ -45,3 +45,5 @@ Descriptive analysis of aggregated exam data for all first-year courses (Table 6
 ## Related Claims
 - [The PS-I intervention significantly increased the percentage of students passing the linear algebra final exam in all four cohorts (Cohen's d = 0.21–0.42)](ps-i-preparatory-exercises-increase-pass-rates-linear-algebra.md) — related
 - [PS-I over a year in a university linear algebra course was followed by significantly higher final exam performance versus baseline cohorts](ps-i-linear-algebra-higher-exam-performance.md) — related
+- [Students' participation in preparatory exercises positively predicted their final exam grade in every intervention year (β = 0.16–0.31; R² = 0.03–0.16)](participation-preparatory-exercises-predicts-exam-grade.md) — related
+- [Participation in preparatory exercises predicted conceptual-understanding test performance in the first two iterations only, with no evidence in Years 3 and 4](participation-predicts-conceptual-understanding-first-two-years-only.md) — related

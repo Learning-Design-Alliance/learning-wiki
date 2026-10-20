@@ -67,3 +67,4 @@ Structural analysis of existing LLM outcome instruments: the authors argue such 
 - [Strategic reliance is positively associated with AI literacy, and the reliance types differentiate students across writing process and outcome variables](strategic-reliance-associated-ai-literacy.md) — related
 - Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation — related
 - [Off-line self-report instruments show low concurrent validity with on-line measures and do not predict learning outcomes very well](offline-self-reports-low-concurrent-validity-veenman.md) — related
+- [Reliance type membership significantly predicts all ten writing-process and outcome variables, supporting criterion validity of the typology](reliance-type-predicts-writing-process-outcomes.md) — related

@@ -46,3 +46,7 @@ The review reports, citing Suh et al. (2007), Stone and Stone (2011), and Monaha
 - [Exclusionary discipline harms students and disproportionately affects students of color, so tracking suspension data can promote positive interventions](exclusionary-discipline-harms-and-disproportionality.md) — related
 - [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](restorative-practices-reduce-exclusionary-discipline.md) — related
 - [Environmentally focused interventions appear to be particularly effective for reducing delinquency and drug use](environmentally-focused-interventions-delinquency-drug-use.md) — related
+- [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](sel-requires-educative-inclusive-environments.md) — related
+- [School-based prevention practices appear effective in reducing alcohol and drug use, dropout and nonattendance, and other conduct problems, with small average effects and considerable heterogeneity across studies](school-based-prevention-small-heterogeneous-effects.md) — related
+- [Schools implementing restorative justice report decreases in exclusionary discipline such as suspensions and expulsions](rj-implementation-associated-with-lower-exclusionary-discipline.md) — related
+- [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related

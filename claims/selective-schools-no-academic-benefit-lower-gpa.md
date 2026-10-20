@@ -49,3 +49,6 @@ IPW propensity-score analysis of Chicago Public Schools administrative records f
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
 - [CPS graduates' grades are fairly consistent across high schools for students with similar test scores, challenging the myth that an A means less at lower-performing schools](grades-consistent-across-cps-high-schools.md) — related
 - Students attending higher-performing Chicago high schools have lower GPAs, on average, than similar students at lower-performing schools — a broader claim this one bears on
+- [Top-tier nonselective schools improve college enrollment, persistence, and selectivity, while selective schools show no college advantage](top-tier-schools-improve-college-outcomes-selective-do-not.md) — related
+- [A very demanding course schedule lowers core-course GPA by about 0.40 points relative to an undemanding one](demanding-schedule-gpa-penalty.md) — related
+- [Selective and top-tier schools improve students' nonacademic experiences, with peer classroom behavior showing the largest differences](selective-top-tier-schools-improve-nonacademic-experiences.md) — related

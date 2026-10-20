@@ -52,3 +52,4 @@ Cohort analysis of the 2004-05 CPS ninth-grade ELL cohort. The report states new
 - [Ninth-grade on-track ELL students in Chicago were up to 3.5 times more likely to graduate than off-track students](ell-ontrack-35-times-more-likely-graduate.md) — related
 - [Hispanic students graduated at far lower rates than white and Asian ELL students despite similar course performance patterns](hispanic-lower-graduation-than-white-asian.md) — related
 - [Long-term English Learners with IEPs were on-track in ninth grade at near district-average rates but graduated at substantially lower rates, similar to non-English Learners with IEPs](long-term-els-ieps-ontrack-then-fall-behind.md) — related
+- [Course performance indicators predict ELL graduation better than ELL-specific indicators such as proficiency level or education interruptions](course-performance-more-predictive-than-ell-indicators.md) — related

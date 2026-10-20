@@ -43,4 +43,8 @@ The editorial reports, describing the Schneider and Pea study of dyads performin
 
 
 ## Related Claims
--
+- [Unbalanced participation in dyads is negatively correlated with learning gains](unbalanced-participation-negative-learning-gains.md) — related
+- [High joint visual attention can hide a free-rider effect in collaborative dyads](high-jva-hides-free-rider-effect.md) — related
+- [Levels of joint visual attention are correlated with collaboration quality across collaborative groups](jva-correlated-with-collaboration-quality.md) — related
+- [Joint visual attention correlates with collaboration quality, but unbalanced visual participation is negatively correlated with learning gains](joint-visual-attention-correlates-collaboration-quality.md) — related
+- [Joint attention is a group phenomenon not reducible to either individual's mental representations](joint-attention-group-phenomenon.md) — related

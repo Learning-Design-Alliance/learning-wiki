@@ -45,3 +45,5 @@ Descriptive statement of the pilot initiative's partners, timeframe, and scale a
 ## Related Claims
 - [The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership](cbsl-pilot-capacity-building-approach.md) — related
 - The DDDM framework was developed from Mathematica's initiative evaluations and existing literature — related
+- [The SPREE process can help build or strengthen a culture of measurement, learning and evaluation even where it is initially absent](spree-builds-measurement-culture.md) — related
+- [In two federal youth initiatives, the same liaisons provided evaluation technical assistance to both the grantee service-providing group and the local evaluator](eta-same-liaisons-grantee-and-evaluator.md) — related

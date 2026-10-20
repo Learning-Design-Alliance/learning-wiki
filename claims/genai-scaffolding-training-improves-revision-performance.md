@@ -49,3 +49,5 @@ RCT with 95 sophomore STEM students randomly assigned to structured GenAI traini
 - [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](genai-geometry-within-group-gains.md) — related
 - [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) — related
 - [Trained students more often identify and remediate GenAI deficiencies such as visual errors and reasoning flaws](trained-students-remediate-genai-deficiencies.md) — related
+- [Collaborative problem-solving students significantly outperformed individual problem-solving students on the electromagnetism problem-solving posttest](cps-outperformed-ips-on-epst-posttest.md) — related
+- [CPS and IPS raised electromagnetism concept-test performance equally, so CPS's advantage was specific to problem-solving performance](cps-ips-equal-concept-test-gains.md) — related

@@ -43,4 +43,6 @@ Planned contrast on immediate recall in the same randomized experiment (explanat
 
 
 ## Related Claims
--
+- [Participating in a relevant group discussion, whether explaining or listening, raises immediate recall relative to an irrelevant discussion, but this advantage does not persist one month later](relevant-discussion-immediate-recall-advantage-fades.md) — related
+- [Participants showed little metapragmatic awareness of their own nonverbal attention-getting devices in immediate recall](limited-metapragmatic-awareness-nonverbals.md) — related
+- [Providing explanations during a small-group discussion yields better recall of subsequently studied text one month later than only listening to the discussion](explaining-during-discussion-improves-delayed-recall.md) — related

@@ -48,3 +48,6 @@ The brief's framing question asks "What role does schooling play in the developm
 - [Racial/ethnic disparities observed among older students are largely already in place among kindergartners](older-student-disparities-present-at-kindergarten.md) — related
 - [Black-White achievement gaps widen during school periods and shrink during summers among kindergarten through eighth-grade students](black-white-gaps-widen-school-shrink-summer.md) — related
 - [The seasonal analysis of racial/ethnic disparities spans kindergarten through eighth grade](seasonal-disparities-analysis-span-kindergarten-eighth-grade.md) — related
+- [Inequalities at kindergarten entry by race/ethnicity decreased between 2010 and 2017](kindergarten-entry-racial-ethnic-gaps-narrowed-2010-2017.md) — related
+- [A national study examines trends and disparities in children's academic skills at school entry for students who began kindergarten between 2010 and 2017](national-trends-kindergarten-entry-skills-2010-2017.md) — related
+- [Gaps in academic skills between children narrowed at kindergarten entry, per the article's abstract](shrinking-gaps-kindergarten-entry.md) — related

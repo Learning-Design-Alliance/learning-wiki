@@ -45,3 +45,6 @@ Qualitative interview study (2019) found accountability shaped principals' prior
 ## Related Claims
 - [The 1995 Illinois governance law and test-based accountability measures put Chicago schools, including Annenberg network schools, on notice that survival depended on standardized test score targets](test-based-accountability-pressured-annenberg-network-schools.md) — related
 - [Some CHSRI small schools struggle to align their themes with CPS graduation standards and PSAE content, and accountability pressure is reshaping instruction](chsri-theme-standards-psae-alignment-difficulty.md) — related
+- [Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay](working-conditions-drive-teacher-exit-decisions.md) — related
+- [The same four roadblocks to school improvement topped principals' rankings across ten years of surveys, with subgroup contrasts in emphasis](cps-roadblocks-stable-top-four.md) — related
+- [Principals most commonly cited time for teacher planning, difficulty removing poor teachers, community social problems, apathetic parents, test-score pressure, and problem students as roadblocks](principals-roadblocks-to-school-improvement.md) — related

@@ -70,3 +70,4 @@ Same meta-analytic synthesis (43 studies, 2,147 children, random effects model).
 - [Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not](multimedia-only-benefits-interactive-features-detrimental.md) — a narrower finding that bears on this claim
 - [Technology-enhanced stories show no significant additional effect on receptive vocabulary compared with traditional storybook reading](technology-stories-no-receptive-vocabulary-effect.md) — related
 - Study design moderates the technology effect: between-subject studies yield a significantly higher average effect than within-subject studies — related
+- [Technology-enhanced stories show no significant effect on child engagement and communication during reading](technology-stories-no-engagement-effect.md) — related

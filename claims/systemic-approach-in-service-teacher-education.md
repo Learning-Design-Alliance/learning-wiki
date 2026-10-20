@@ -46,3 +46,4 @@ Narrative review attributing this to Khisty (1997), a project for in-service mat
 ## Related Claims
 - [Situated perspective explains Latino students' mathematical meaning-making in bilingual classrooms better than a discontinuity model (review reports Moschkovich, 1996)](situated-perspective-bilingual-math-meaning.md) — related
 - CHAT's rejection of the theory/practice divide frames CSL as boundary crossing that develops connective skills — related
+- [Community-based mathematical investigations gave students confidence to use mathematics for social change](community-based-math-social-change.md) — related

@@ -77,3 +77,4 @@ Newmann, Bryk, and Nagaoka examined how prior achievement related to benefits of
 - [The report cites research evidence that students exposed to authentic intellectual challenges are more engaged than students given conventional schoolwork](authentic-challenges-increase-engagement.md) — related
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [Intellectually Ambitious Instruction Is Associated with Improved Student Learning Across Populations](intellectually-ambitious-instruction-improves-learning.md) — a broader claim this one bears on
+- [A 1998 baseline study found typical Chicago assignments were mostly rudimentary basic-skills exercises, but most students completed the more demanding tasks they were given](baseline-assignments-rudimentary-but-students-completed-demanding-tasks.md) — related

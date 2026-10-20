@@ -48,3 +48,5 @@ Sensitivity analyses (Table S4 in supporting information) repeating the cross-se
 - [APOE genotype does not modify the association between Mediterranean diet or fish intake and cognitive function](apoe-genotype-no-diet-cognition-interaction.md) — related
 - [Higher Mediterranean diet adherence is associated with higher cognitive test scores, with dose-response associations](mediterranean-diet-adherence-higher-cognitive-scores.md) — related
 - [Higher Mediterranean diet adherence is not associated with slower cognitive decline over 5 to 10 years](mediterranean-diet-not-associated-slower-decline.md) — related
+- [Higher fish intake is associated with slower cognitive decline over 5 to 10 years in AREDS2](fish-intake-slower-cognitive-decline.md) — related
+- [Higher fish intake is associated with lower risk of cognitive impairment in older adults](fish-intake-lower-cognitive-impairment-risk.md) — related

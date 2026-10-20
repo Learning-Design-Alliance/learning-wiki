@@ -46,3 +46,6 @@ Section 5.4's sensitivity analysis is an authors' interpretive argument, not a t
 - [Each disconnected youth in Arizona incurs a lifetime social loss of $695,090 and fiscal loss of $234,480, totaling $127.3 billion social and $43.0 billion fiscal per cohort of 183,200](arizona-disconnected-youth-lifetime-losses.md) — related
 - [Educational opportunity and achievement gaps impose large societal costs, including an estimated $156 billion loss in tax revenues and income per yearly cohort of nongraduates](achievement-gap-societal-costs.md) — related
 - [Each Arizona high school dropout imposes a lifetime social loss of $421,280, totaling $7.6 billion per annual cohort of 18,100 dropouts](arizona-dropout-lifetime-social-loss-421280.md) — related
+- [The future lifetime loss from disconnected youth is three times greater than the immediate loss during the youth years](disconnected-youth-future-loss-threefold.md) — related
+- [Arizona high school graduates are predicted to earn $271,040 more over a lifetime than dropouts, net of ability and motivation adjustments](arizona-graduate-earnings-gap-271040.md) — related
+- [The lifetime fiscal loss per Arizona high school dropout is $135,730 across all levels of government, or $2.5 billion per cohort](arizona-dropout-fiscal-loss-135730.md) — related

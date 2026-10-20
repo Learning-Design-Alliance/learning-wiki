@@ -53,3 +53,5 @@ End-of-semester survey administered during the last month of circle meetings to 
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Most surveyed participants reported they had not enjoyed mathematics classes in the past](past-math-class-enjoyment-negative.md) — related
+- [Students who like writing report the highest writing self-efficacy across all studies examining writing attitude](writing-attitude-liking-predicts-self-efficacy.md) — related
+- [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](competition-enjoyment-task-focused-evaluation.md) — related

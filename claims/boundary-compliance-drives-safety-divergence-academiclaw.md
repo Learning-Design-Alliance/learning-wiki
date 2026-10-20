@@ -47,3 +47,4 @@ Five-category rule-based safety audit of agent tool-call trajectories across the
 - [LLM attack success rates increase consistently from single-turn to static multi-turn and dynamic multi-turn interactions in educational settings](asr-increases-dynamic-multi-turn-education.md) — related
 - [No evaluated LLM tutor is reliably safe: every model exceeds 60% harm rate on at least five risk categories in single-turn and six in multi-turn evaluation](no-llm-tutor-reliably-safe-60-percent-harm.md) — related
 - [Educational safety performance varies widely across LLMs, with GPT-5.6-Luna the safest and Qwen3-8B among the weakest under educational adversarial probing](educational-safety-varies-widely-across-llms.md) — related
+- [AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness](agents-differ-knowledge-not-role-performance.md) — related

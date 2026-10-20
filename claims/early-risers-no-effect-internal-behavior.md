@@ -55,3 +55,4 @@ Randomized effectiveness study in two neighborhood family centers and 10 element
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](first-step-success-internal-behavior-substantive-nonsig.md) — related
 - [Prospective longitudinal studies of high-risk children found that a greater percentage became healthy, competent young adults than developed problems](high-risk-children-majority-resilient-longitudinal.md) — related
 - [Internalizing behaviors are not related to academic achievement in students with E/BD](internalizing-behaviors-not-related-to-achievement.md) — related
+- [Schools fostering high self-esteem and social and scholastic success reduce the likelihood of emotional and behavioral disturbance](rutter-school-ethos-high-expectations-protective.md) — related

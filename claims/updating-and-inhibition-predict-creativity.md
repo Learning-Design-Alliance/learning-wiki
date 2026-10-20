@@ -51,3 +51,6 @@ Latent variable SEM: four divergent thinking tasks rated for creativity regresse
 - [After controlling for children's level of intelligence, only shifting and inhibition make a significant contribution to creativity](shifting-inhibition-unique-creativity-contribution-children.md) — reports the opposite
 - [Updating ability strongly predicts fluid intelligence, while shifting and inhibition do not significantly predict it.](updating-predicts-fluid-intelligence-not-shifting-inhibition.md) — related
 - [Updating ability, together with openness, explains a substantial part of the shared variance between fluid intelligence and creativity.](updating-explains-intelligence-creativity-shared-variance.md) — related
+- [Men scored higher than women on rated divergent thinking creativity in this sample, with no sex differences in fluid intelligence or the executive functions.](sex-difference-creative-potential-sample.md) — related
+- [Creativity, crystallized intelligence, fluid intelligence and executive functions are all correlated in children aged 8 to 13](cognitive-variables-creativity-correlations-children.md) — related
+- [Executive functions and intelligence play an important role in creative thinking, but the relationship in children had been under-studied](efs-intelligence-role-creative-thinking-children-gap.md) — reports the opposite

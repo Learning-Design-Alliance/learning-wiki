@@ -49,3 +49,5 @@ Bivariate Pearson correlations (Table 1) in the cross-sectional survey of 1,484 
 - [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — the general claim this finding bears on, with the studies behind it
 - [AI anxiety is negatively associated with academic motivation among university students, in both bivariate and regression analyses](ai-anxiety-negatively-associated-academic-motivation.md) — related
 - [Emotion regulation is positively associated with academic motivation among university students](emotion-regulation-positively-associated-academic-motivation.md) — related
+- [Students' knowledge of GenAI is positively correlated with their frequency of use](genai-knowledge-frequency-use-correlation.md) — related
+- [Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts](weak-year-usage-frequency-association.md) — related

@@ -47,3 +47,4 @@ Descriptive implementation detail reported for the first quasi-experimental stud
 - Across two studies of PA Lessons, the average effect size on Acadience Reading composite scores is +0.49, with both studies rated Moderate — related
 - A second study replicated the benefit of PA Lessons on Acadience Reading composite scores with a larger effect size (+0.74) — related
 - Kindergarten students in schools using PA Lessons showed significantly increased Acadience Reading composite scores compared to comparison schools (effect size +0.21) — related
+- [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) — related

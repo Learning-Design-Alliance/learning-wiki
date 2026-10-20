@@ -44,3 +44,4 @@ A documented case reported in the paper: in Ashok Goel's knowledge-based artific
 
 ## Related Claims
 - [Universities already use incipient AI such as IBM Watson to provide student advice around the clock, reducing administrative staffing needs](ai-administrative-services-deakin-watson.md) — related
+- [AI-ALOE technology deployments were associated with improved adult learner outcomes, including higher course grades and retention for Jill Watson and higher-quality written work for SMART, though VERA outcomes varied by course structure](aialoe-deployments-improved-adult-learner-outcomes.md) — related

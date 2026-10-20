@@ -64,3 +64,4 @@ Frequency comparison of coded interaction categories across the two modules' log
 ## Related Claims
 - [Middle school students in GenAI-supported STEAM modules predominantly interact for STEAM knowledge/information retrieval, with minimal evaluation and reflection interactions](genai-steam-interactions-dominated-by-information-retrieval.md) — related
 - [Students reported high satisfaction with GenAI in STEAM learning, following gradual-improvement and fluctuation patterns](high-satisfaction-genai-steam-gradual-and-fluctuating.md) — related
+- [Students' GenAI prompts overwhelmingly exact-copy instructions and request information rather than review](genai-prompts-exact-copy-and-information-requests.md) — related

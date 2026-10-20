@@ -44,3 +44,9 @@ The editorial describes Riikonen, Seitamaa-Hakkarainen and Hakkarainen's qualita
 
 ## Related Claims
 - [The editors report that knowledge brokering via collaborative entanglement is more successful than linear knowledge transfer for mobilising education research](collaborative-entanglement-outperforms-linear-transfer.md) — a broader claim this one bears on
+- [Successful seventh-grade co-invention teams spent a much larger share of their embodied making actions on model making and experimenting than the unsuccessful team](model-making-experimenting-share-successful-co-invention-teams.md) — a narrower finding that bears on this claim
+- [Anchoring collaboration in a shared epistemic object distinguished the successful co-invention teams from the unsuccessful one](shared-epistemic-object-anchors-collaborative-making.md) — a narrower finding that bears on this claim
+- [A shared epistemic object let a team with substantial off-task time (UrPo) still complete a successful co-invention](shared-object-regrouping-after-off-task.md) — a narrower finding that bears on this claim
+- [Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it](claim-embodied-practices-cooccurred-maker-practices.md) — a narrower finding that bears on this claim
+- [Off-task activity was more common in the larger six-to-seven-member teams than in the compact teams](off-task-more-common-in-larger-making-teams.md) — related
+- [Much bodily-material coordination in touchscreen collaboration occurs in the space off the screen](bodily-material-interaction-off-screen.md) — a narrower finding that bears on this claim

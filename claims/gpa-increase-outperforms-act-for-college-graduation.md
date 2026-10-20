@@ -48,3 +48,5 @@ Summary of simulation findings: raising cumulative GPA by 0.4 points closes near
 - Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014 — related
 - [Evidence on RJ's impact on academic outcomes is limited and mixed, with graduation-rate gains in one study and no GPA change in another](rj-academic-outcomes-evidence-mixed.md) — related
 - Four-year college graduation rates rose from 56.0 to 59.4 percent between 2003 and 2013, with larger gains at public institutions (4.9 points) than private nonprofits (2.3 points) — related
+- [HSGPA has a strong, positive relationship with college graduation that does not vary significantly in its linear slope across high schools](hsgpa-strong-consistent-predictor-college-graduation.md) — related
+- [Only CPS graduates with access to very selective colleges (above 3.3 GPA and ACT 26+) have four-year college graduation prospects exceeding 50 percent](high-qualifications-needed-for-majority-graduation-odds.md) — related

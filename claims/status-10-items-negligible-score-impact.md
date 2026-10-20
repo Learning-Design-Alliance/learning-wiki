@@ -46,3 +46,5 @@ Descriptive comparison of person RIT means and SDs by grade (Tables 3.4 and 3.5)
 - [Adaptive testing explains why about one third of calibrated Spanish math items carry calibration status 10](adaptive-calibration-yields-status-10-third-of-items.md) — related
 - [Old (English-borrowed) and newly calibrated Spanish item RITs differ negligibly, with correlations of 0.98 and no statistically significant paired t-test differences](spanish-item-rit-calibration-negligible-differences.md) — related
 - [Rescoring with new item parameters changed average ability estimates negligibly, with new and original scores correlated above 0.99](drift-impact-ability-estimates-negligible.md) — related
+- [Outlier rates in Spanish item calibration are extremely low, which the authors take as evidence of very high calibration quality](spanish-calibration-outlier-rates-extremely-low.md) — related
+- [Socioeconomic status differences between bilingual and monolingual groups may determine study outcomes](ses-moderates-bilingual-executive-function-results.md) — related

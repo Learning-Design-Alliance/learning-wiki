@@ -52,3 +52,4 @@ Correlational analysis (Table 4) of the 210-learner survey identified the four h
 - [All ten sub-factors of the L2 motivational self-system correlate significantly and positively with L2 self-efficacy](ten-motivation-subfactors-correlate-self-efficacy.md) — related
 - [Overall L2 motivation is a significant positive predictor of L2 self-efficacy among Iranian EFL learners](l2-motivation-predicts-self-efficacy.md) — related
 - [Positive attitudes towards English and high motivation are associated with better pronunciation outcomes](motivation-associated-better-pronunciation-outcomes.md) — related
+- [University learners of Italian in two surveys report ideal-self motivation rather than instrumental motivation; a contrast with their teachers' view is reported but not confirmed in the text read.](italian-l2-motivation-is-ideal-self-not-instrumental.md) — related

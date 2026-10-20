@@ -45,3 +45,6 @@ The study's policy insight states that effective schools are rigorous and relati
 ## Related Claims
 - [Fostering socioemotional development and fostering test score growth had nearly identical impacts on 9th grade test scores](sed-growth-nearly-identical-impact-ninth-grade-test-scores.md) — related
 - [Schools' impacts on socioemotional development and behaviors in 9th grade matter substantially more for long-run trajectories than test score impacts](sed-behavior-impacts-exceed-test-score-impacts-long-run.md) — related
+- [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](multidimensional-growth-schools-improve-long-run-outcomes.md) — related
+- [Schools positively impacting one promotion power measure are more likely to positively impact other long-term outcomes, but many show varying effectiveness across outcomes](promotion-power-correlates-across-outcomes-with-variation.md) — related
+- [School and teacher effects on students' school experiences influence social and educational trajectories more than their effects on academic achievement measures](school-experience-effects-outweigh-achievement-effects.md) — a broader claim this one bears on

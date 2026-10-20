@@ -49,3 +49,4 @@ Output-position analysis of the Experiment 1a free recall protocols (48 undergra
 - [Under sequential presentation with Likert ratings for every word, no memory benefit emerged for items judged likely to be forgotten; negative ratings predicted the poorest recall](sequential-likert-no-forget-reactivity.md) — related
 - [Relative to random choice, a metacognitive judgment of remembering boosted recall while a judgment of forgetting was associated with a memory cost](metacognitive-judgment-versus-random-choice.md) — related
 - [When every word was judged, words circled as to-be-remembered were recalled better and words underlined as to-be-forgotten worse than a no-instruction control group's recall](judging-every-item-remember-enhanced-forget-impaired.md) — related
+- [Merely selecting words by clicking on them, without any memorability instructions, enhanced their recall (a choice effect)](word-selection-choice-effect-enhances-recall.md) — related

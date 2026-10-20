@@ -64,3 +64,4 @@ Open-ended pre-intervention survey responses analyzed descriptively. Responses r
 ## Related Claims
 - [Individual synthesis artifacts facilitated collaborative discourse by guiding the flow of group work and by supporting knowledge sharing, building shared understanding, and generating and advancing ideas](synthesis-artifacts-facilitated-discourse-progression-and-epistemic-actions.md) — related
 - [Most student essays remained at a descriptive reflection level despite repeated AI feedback](essays-remain-descriptive-despite-ai-feedback.md) — related
+- [During group discussion, students either relied primarily on their own synthesis artifacts or frequently drew on peers' syntheses, with use patterns related to artifact nature and emergent group roles](two-patterns-of-synthesis-artifact-use.md) — related

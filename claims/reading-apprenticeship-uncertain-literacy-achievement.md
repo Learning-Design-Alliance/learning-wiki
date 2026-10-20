@@ -50,3 +50,4 @@ WWC synthesis of 3 studies meeting standards (9,178 students) pooling state Engl
 - [Reading Apprenticeship® shows uncertain effects on mathematics achievement, with one significant negative finding](reading-apprenticeship-uncertain-mathematics-achievement.md) — related
 - [Reading Apprenticeship® has potentially positive effects on grade point average in core subjects, based on one qualifying study](reading-apprenticeship-potentially-positive-gpa.md) — related
 - [Reading Apprenticeship® shows no effect on vocabulary (effect size 0.00)](reading-apprenticeship-no-vocabulary-effect.md) — related
+- [Reading Apprenticeship® has potentially positive effects on student science achievement in grades 7–9, based on one qualifying study](reading-apprenticeship-potentially-positive-science-achievement.md) — related

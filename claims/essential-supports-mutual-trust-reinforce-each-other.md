@@ -49,3 +49,5 @@ The report presents this interdependence claim as a lesson from CCSR's research 
 - [Artistic and social-emotional competencies are mutually reinforcing](artistic-sel-competencies-mutually-reinforcing.md) — related
 - [Schools that improved focused on multiple mutually-reinforcing aspects of school organization rather than a single aspect](multi-area-mutually-reinforcing-improvement-distinguishes-strong-schools.md) — possibly the same claim (merge candidate)
 - [When Supportive Environment improves, the other 5Essentials essential supports often improve](supportive-environment-improvement-co-occurs-other-essentials.md) — a narrower finding that bears on this claim
+- [Effective learning environments depend on the interaction of four overlapping frames rather than their compartmentalization](four-learning-environment-frames-interact.md) — a narrower finding that bears on this claim
+- [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — related

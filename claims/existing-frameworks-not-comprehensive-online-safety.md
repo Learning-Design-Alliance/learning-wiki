@@ -46,3 +46,5 @@ Stage 1 rapid review appraisal of eight internationally developed frameworks (e.
 
 - [Existing GenAI assessment frameworks (traffic light, two-lane, AIAS) remain broad, lack discipline-specific applicability, and are unvalidated in authentic settings](existing-genai-frameworks-lack-discipline-specificity.md)
 - [Stakeholders identified student groups underserved by online safety education, including children with disability and Aboriginal and Torres Strait Islander children](underserved-groups-online-safety-education.md)
+- [School-based cyberbullying prevention has the largest review base, with clear findings replicated across multiple reviews](cyberbullying-prevention-reviews-effective-content.md) — related
+- [Adolescents with ASD are described as frequent targets of cyberbullying because they may miss social cues and lack self-advocacy skills](asd-teens-cyberbullying-targets-missed-cues.md) — related

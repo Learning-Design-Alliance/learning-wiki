@@ -47,3 +47,4 @@ The article's own summary description of the 2016 presentation paper states its 
 - [Insight survey domain averages are more stable across years when a school keeps the same leader, suggesting principals affect these measures](insight-domain-stability-same-leader.md) — related
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
 - [Most teacher survey domains and scales used by DCPS meaningfully differentiate among schools](teacher-survey-domains-differentiate-among-schools.md) — related
+- [The objective-based AI literacy assessment demonstrates psychometric stability with high reliability (KR-20 = 0.862) and approximate unidimensionality](ob-ai-literacy-assessment-psychometrically-stable.md) — related

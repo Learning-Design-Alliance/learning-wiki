@@ -70,3 +70,5 @@ Same study, latency measure from the onset of the secondary AOI's verbal mention
 - [Gaze-based assistance led children to fixate the narrated primary AOI significantly longer than LLM-baseline assistance](gaze-assistance-longer-primary-aoi-fixation.md) — related
 - [Gaze-based assistance supported a smoother attention transition between narrated regions, while baseline assistance elicited more abrupt reorientation](gaze-assistance-smaller-attention-transition.md) — related
 - [Large arrays exceed young children's attentional resources, preventing optimal allocation to relevant items](large-arrays-exceed-childrens-attentional-resources.md) — related
+- [In offline validation, combined relevance-based secondary-AOI selection matched children's next attended AOI more often than random or single-distance selection](combined-relevance-selection-aligns-with-next-attention.md) — related
+- [Follow-up fixation rate on the primary AOI did not differ significantly between gaze-based and baseline assistance](primary-aoi-followup-rate-no-difference.md) — related

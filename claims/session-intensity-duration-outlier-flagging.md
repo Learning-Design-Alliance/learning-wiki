@@ -45,3 +45,4 @@ Session intensity analysis (Figure 4b) of the pilot cohort, defining intensity a
 ## Related Claims
 - [Macro-level behavioral metrics flagged anomalies consistent with automated workflows and off-platform AI code synthesis](behavioral-metrics-flag-automated-anomalies.md) — possibly the same claim (merge candidate)
 - [Explicit API interception from a pilot cohort of 19 students yielded 1,880 events over about 57 active student-hours](vismatic-pilot-cohort-1880-events.md) — related
+- [In the scanned textbooks, statistics terms such as cluster and outlier are defined vaguely before any examples, and more formal criteria are never developed](vague-statistics-definitions-never-formalized.md) — related

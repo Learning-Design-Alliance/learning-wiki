@@ -45,3 +45,8 @@ Descriptive analysis of 2025 portfolio distributions by gender, age generation, 
 ## Related Claims
 - [Skill portfolio diversity is positively associated with skill acquisition, occupational mobility, and transitions into lower-AI-exposure occupations](diversity-predicts-adaptive-outcomes.md) — related
 - [AI adoption at work shows generational and occupational patterns, with younger workers and tech, professional services, and finance fields more likely to use AI](generational-occupational-ai-adoption-patterns.md) — related
+- [Specialisation is strongly associated with sorting into higher-wage occupations but only weakly related to adaptive outcomes](specialisation-predicts-wage-sorting-not-adaptation.md) — related
+- [Workers ages 22 to 25 in the most AI-exposed US occupations experienced a 16% relative employment decline following widespread generative AI adoption](early-career-employment-decline-ai-exposed-occupations.md) — related
+- [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](demographics-differentiate-genai-personas.md) — related
+- [Mean skill diversity rises from low to moderate specialisation before declining among the most specialised workers](diversity-specialisation-inverse-u-pattern.md) — related
+- [Workers closest to the diversity frontier show the strongest adaptive outcomes, while frontier position is not associated with stronger wage sorting](diversity-frontier-predicts-adaptive-capacity.md) — related

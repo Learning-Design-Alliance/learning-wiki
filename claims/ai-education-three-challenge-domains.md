@@ -51,3 +51,6 @@ The article's conceptual analysis enumerates three challenge domains, citing pri
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
 - Generative AI can help people finish tasks more quickly but does not accelerate learning itself — related
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
+- [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related
+- [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
+- [Daoism offers a more generative framework than Confucianism for thinking about education in an AI-shaped world because it pursues understanding of reality rather than social hierarchy](daoism-more-generative-than-confucianism-ai-education.md) — related

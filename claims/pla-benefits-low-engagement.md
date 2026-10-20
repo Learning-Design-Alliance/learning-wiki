@@ -46,3 +46,4 @@ Landscape review reporting on prior learning assessment, citing Brookings Instit
 ## Related Claims
 - Faculty contact relates to retention: part-time instruction lowers odds, interaction frequency raises intent to stay — related
 - [Program appeal rested on flexibility and financial savings, with some modules completable in under 10 minutes](microcredential-appeal-flexibility-financial-savings.md) — related
+- [Workforce-context micro-credential success depends on sustained partnerships, employer recognition, higher-education credit linkage, and time-cost flexibility](workforce-micro-credential-success-practices.md) — related

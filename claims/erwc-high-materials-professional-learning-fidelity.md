@@ -49,3 +49,4 @@ Fidelity assessment of the professional-learning component (two-day summer sessi
 - [Teachers reported that insufficient instructional minutes during the school year prevented them from teaching all required ERWC modules with fidelity](insufficient-instructional-minutes-blocked-full-erwc-coverage.md) — related
 - [Teachers viewed the ERWC 3.0 as an improved curriculum that promoted high student engagement and supported students' academic and personal growth](teachers-viewed-erwc-3-engaging-and-growth-supporting.md) — related
 - [Teachers least often taught the aspects of the ERWC curriculum associated with writing and metacognition](teachers-least-often-taught-writing-and-metacognition.md) — related
+- [Tutor engagement in Ubuntu professional learning sessions was high in both districts, with 82 percent of District A tutors and 94 percent of District B tutors attending all three sessions](air-tutors-tutor-ubuntu-attendance-high.md) — related

@@ -46,3 +46,7 @@ The article's headline conclusion, drawn from the SAILS and co-requisite analyse
 - [Under Tennessee's 2015 co-requisite remediation policy, completing SAILS no longer produced any boost in college credits](sails-no-credit-boost-under-co-requisite-policy.md) — related
 - [The high school SAILS remedial math course did not improve math achievement more than a typical senior year math course](sails-no-math-achievement-gain-rd.md) — related
 - [ASAP likely increases community college students' graduation and degree attainment rates](asap-increases-degree-attainment.md) — related
+- [SAILS completers had completed only 1.5 additional college courses after two years](sails-only-1-5-additional-courses-two-years.md) — related
+- [Completing SAILS boosted first-year community college students' enrollment in college-level math by nearly 30 percentage points](sails-boosted-college-level-math-enrollment-30-points.md) — related
+- [Taking Algebra I instead of remedial math increased algebra credit earning but raised failure rates and lowered grades for low- and average-ability students, with no test-score benefit](algebra-enrollment-effect-increased-credit-raised-failure.md) — related
+- [Taking Algebra I instead of remedial math raised Algebra credit attainment but increased failure rates and lowered math grades, with no test-score benefit](algebra-enrollment-raises-credit-and-failure.md) — related

@@ -48,3 +48,4 @@ Chi-square comparison of the coded frequency grids for the high school textbooks
 - [Explanation-quality distributions differed significantly between years for Physics 1A (2011 slightly lower) but not Physics 1B](explanation-quality-differs-by-year-1a-only.md) — related
 - [The Interchange series covered learning objectives more comprehensively than the Iranian high school textbooks](interchange-outnumbers-high-school-objectives.md) — related
 - [Linguistic intelligence dominated both series while natural intelligence was least frequent](linguistic-intelligence-dominates-elt-textbooks.md) — related
+- [Comprehension and application were the most frequent learning objectives in both series, with evaluation least frequent](comprehension-application-most-frequent-objectives.md) — related

@@ -69,3 +69,5 @@ The review reports this workforce modelling estimate, attributed to Segal et al.
 - [In the SWEET pediatric registry, centres with ready access to psychological services showed lower rates of ketoacidosis and slightly lower HbA1c levels](sweet-registry-psychological-access-outcomes.md) — related
 - The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers — related
 - [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related
+- [Mixed delivery early care systems experience fragmentation that creates barriers such as siloed funding, inefficient subsidies, and workforce turnover](mixed-delivery-fragmentation-barriers.md) — related
+- [Foundations can serve more people by identifying and supporting effective interventions that are ready to be scaled](foundations-scale-by-supporting-ready-interventions.md) — related

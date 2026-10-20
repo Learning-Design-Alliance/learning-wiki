@@ -42,3 +42,4 @@ Design-evolution report from the Expected Requirements section (user experience 
 
 ## Related Claims
 - Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials — related
+- [Students had little meaningful choice about participation in the student success information system, as they could not remove themselves from the system as a whole](limited-student-choice-opt-out-system.md) — related

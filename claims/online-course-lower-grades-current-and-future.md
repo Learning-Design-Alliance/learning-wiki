@@ -62,3 +62,4 @@ The key findings state that "Grades are lower both for the course taken online a
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — related
 - [Taking a course online instead of in person reduces student success and progress in college](online-course-taking-reduces-college-success.md) — possibly the same claim (merge candidate)
 - [Students taking courses online are less likely to remain enrolled at the university](online-course-taking-reduces-reenrollment.md) — related
+- [First-semester transfer students taking one general education course persisted at rates 15-20% lower than similar non-takers, an effect absent when the course was taken in a later term](first-term-transfer-persistence-penalty-specific-course.md) — related

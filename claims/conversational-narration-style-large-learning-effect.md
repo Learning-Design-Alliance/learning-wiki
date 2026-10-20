@@ -45,3 +45,4 @@ The essay reports, citing Mayer (2008), the personalization principle: "conversa
 ## Related Claims
 - [Generative processing principles: words with pictures and conversational-style words improve transfer over words alone and formal style](generative-processing-principles-mayer-2008.md) — related
 - [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related
+- [The review reports no evidence that the mere visual presence of a human-like body produces distinct effects, though likeable appearance improves motivation and transfer](no-evidence-mere-visual-presence-social-cue-hypothesis.md) — related

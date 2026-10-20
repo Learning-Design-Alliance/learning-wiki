@@ -52,3 +52,6 @@ Coded behavioural analysis of 63,328 events from the same 119-learner log datase
 - [EFL proficiency significantly shapes chatbot interaction: high-proficiency learners over-engage in dialogue while low-proficiency learners over-rely on feedback requests](proficiency-shapes-chatbot-interaction.md) — related
 - [Customized AI agents generate feedback with higher accuracy and specificity than general-purpose agents in self-directed instructional design tasks](customized-agents-higher-feedback-accuracy-specificity.md) — related
 - [A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops](agentic-feedback-42-undergrads-rubric-alignment-gain.md) — related
+- [High-acceptance groups made more effective use of AI feedback during revision, resulting in higher accuracy scores](high-acceptance-groups-effective-ai-feedback-use-higher-accuracy.md) — related
+- [Classified examples are more often correct than generated examples during learning, but feedback does not improve classification](classification-correctness-feedback-null.md) — related
+- [Selecting a suggested option in the scaffold was associated with higher compliance for four out of twenty scaffold options in the generalized condition.](selecting-scaffold-options-associated-higher-compliance.md) — related

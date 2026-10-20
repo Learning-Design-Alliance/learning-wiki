@@ -52,3 +52,4 @@ The authors' interpretive conclusion from the Democracy Prep evaluation: the reg
 - [There is a 98 percent probability that enrolling in Democracy Prep produced positive impacts on both voter registration and voting](democracy-prep-98-percent-probability-positive-civic-impacts.md) — a narrower finding that bears on this claim
 - [Democracy Prep charter schools boost student voting, according to the article's headline finding](democracy-prep-charter-schools-boost-student-voting.md) — a narrower finding that bears on this claim
 - [U.S. civic engagement and civics knowledge fall short of the democratic-preparation goal of schooling](us-civic-engagement-and-civics-knowledge-fall-short.md) — related
+- [Extracurricular activities provide only modest support for civic commitment, and sports participation is unrelated to it](extracurriculars-modest-sports-unrelated-civic-commitment.md) — related

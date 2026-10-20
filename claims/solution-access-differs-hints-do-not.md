@@ -65,3 +65,6 @@ The same Kruskal-Wallis frequency analysis of 482 students' trace data found "no
 
 - [Frequency of correct quiz submissions differs across performance quartiles, with high performers submitting correct answers most often](correct-submissions-differ-across-quartiles.md)
 - [The four exam-performance quartile groups differed significantly on first-unit exam scores, validating the grouping used for behavioral comparisons](quartile-groups-differ-on-exam-scores.md) — related
+- [Frequency of incorrect quiz submissions differs across performance quartiles, with low performers submitting incorrect answers most often](incorrect-submissions-differ-across-quartiles.md) — related
+- [Exam scores correlate positively with correct submissions and negatively with incorrect submissions and solution access](trace-frequencies-correlate-with-exam-scores.md) — related
+- [Process mining shows low performers access solutions more and transition to hints after incorrect submissions more than high performers](process-mining-transitions-differ-by-quartile.md) — related

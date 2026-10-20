@@ -45,3 +45,4 @@ This is a theoretical argument rather than a tested result reported in the provi
 ## Related Claims
 - [Providing combined cognitive and behavioral group awareness information positively affects cognitive and behavioral learning processes and outcomes in social media, per the editorial's report of Ollasch et al., but its emotional effects were not consistently positive.](combined-cognitive-behavioral-ga-positive-cognitive-behavioral.md) — related
 - [Group awareness support in CSCL shows a moderate significant effect on students' learning performance, per the meta-analysis summarized in this issue (Chen et al.)](group-awareness-support-moderate-significant-effect.md) — a broader claim this one bears on
+- [GA accuracy — alignment of perceived group cognitions with actual group characteristics — is a research target whose role is not confirmed and awaits direct measurement](ga-accuracy-unconfirmed-pending-measurement.md) — related

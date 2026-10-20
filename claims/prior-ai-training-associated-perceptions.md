@@ -47,3 +47,4 @@ Independent-samples t-tests by prior AI training status in the quantitative phas
 - [Primary school teachers report moderately positive overall perceptions of AI in mathematics instruction, with willingness and attitudes higher than personal experience](moderately-positive-teacher-ai-perceptions-primary-math.md) — related
 - [Earlier and mid-career teachers report more positive AI perceptions than teachers with 21 or more years of experience, except in personal experiences](professional-experience-ai-perception-differences.md) — related
 - [Participants with prior communication-training experience achieved higher overall 3E scores than those without](prior-training-higher-3e-scores.md) — related
+- [Educational background relates only to the personal-experiences dimension of AI perception, with master's degree holders scoring higher than bachelor's degree holders](educational-background-limited-ai-perception-effect.md) — related

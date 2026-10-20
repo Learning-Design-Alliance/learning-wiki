@@ -44,3 +44,4 @@ Reported in the human evaluation section with 32 STEM instructors; experts viewe
 
 ## Related Claims
 - [Domain-matched experts judged 87% of Bespoke-generated lecture videos at or above the rubric midpoint corresponding to a standard MOOC lecture's quality (mean G = 3.42 of 5)](bespoke-87-percent-mooc-comparable-quality.md) — related
+- [Two case studies and expert interviews with six experts demonstrated SAVVY's effectiveness and usability for identifying attention variations and supporting video optimization](savvy-case-studies-expert-interviews-effectiveness.md) — related

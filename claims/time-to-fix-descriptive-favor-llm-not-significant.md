@@ -47,3 +47,5 @@ Time-to-fix analysis of the main Prolific experiment, split by skill level; Figu
 - [Pragmatic and contingent LLM rewrites reduced perceived cognitive load relative to standard interpreter messages](llm-rewrites-lower-perceived-cognitive-load.md) — related
 - [Both LLM rewrite styles were rated less authoritative than standard interpreter messages](llm-rewrites-rated-less-authoritative.md) — related
 - Delayed final-exam differences favored Guided-LLM descriptively but were not statistically confirmatory, with confidence intervals including zero — related
+- [Fix rate varied substantially across buggy snippets, with snippet A lowest because the standard interpreter message pointed to the non-offending line](fix-rate-varies-by-snippet-misleading-message.md) — related
+- [Scores on the debugging-oriented Python proficiency assessment moderately predict successful code repair](proficiency-assessment-predicts-fix-success.md) — related

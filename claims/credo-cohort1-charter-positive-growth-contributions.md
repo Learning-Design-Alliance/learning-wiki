@@ -48,3 +48,6 @@ Meta-analysis of performance growth trends for 10 U.S. cities (2014-15 to 2018-1
 - [Innovation school students mostly do not deviate from citywide growth trends, with Denver innovation schools an outperforming exception](credo-cohort1-innovation-schools-citywide-trends-denver-exception.md) — related
 - [District schools in most studied cities show consistently weaker performance growth than state averages, with exceptions including Denver](credo-cohort1-district-weaker-growth-exceptions.md) — related
 - [Magnet schools across the studied cities show strong positive impact on students' performance growth compared to state averages](credo-cohort1-magnet-strong-positive-growth.md) — related
+- [Charter school students show more annual learning growth in reading and math than matched traditional public school peers](charter-students-more-days-learning-reading-math.md) — possibly the same claim (merge candidate)
+- [Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students](charter-outcomes-mixed-credo.md) — reports the opposite
+- [Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers](charter-minority-poverty-gains-below-white-peers.md) — related

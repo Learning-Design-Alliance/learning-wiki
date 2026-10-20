@@ -43,4 +43,6 @@ The editors' interpretive conclusion from reviewing the four papers against the 
 
 
 ## Related Claims
--
+- [Students in a school-based makerspace enact four intertwined multimodal knowledge practices combining embodied action, talk, space and artifact use](four-multimodal-knowledge-practices-makerspace.md) — related
+- [Debriefing description phase enacts conversational remembering that turns private recollections into a public, shared epistemic artifact](debriefing-conversational-remembering-public-artifact.md) — related
+- [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) — related

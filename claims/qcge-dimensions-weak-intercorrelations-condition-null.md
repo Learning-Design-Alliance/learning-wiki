@@ -45,3 +45,6 @@ Correlation analysis (Spearman ρ for QCGE dimensions, Pearson r for nonverbal p
 ## Related Claims
 - [Frequencies of nonverbal behaviors descriptively rise with higher engagement ratings across the four QCGE dimensions](nonverbal-frequencies-increase-with-engagement-ratings.md) — related
 - [No statistically significant association between QCGE dimension ratings and the collaborative product grade](qcge-dimensions-nonsignificant-learning-outcome-grade.md) — related
+- [Response length is only weakly correlated with originality for most LLMs, suggesting CPIG's originality gains are not purely elaboration](length-originality-correlation-weak.md) — related
+- [Talk time and internal behavioral engagement are only weakly correlated, indicating they are separate phenomena](talk-and-engagement-separate-phenomena.md) — related
+- [Group engagement dimensions are positively interrelated concurrently, except socioemotional engagement](gde-dimensions-positively-interrelated-except-se.md) — related

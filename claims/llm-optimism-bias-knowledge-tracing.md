@@ -48,3 +48,4 @@ Breakdown of knowledge tracing accuracy by actual correctness (Table 7), reporte
 - DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets — related
 - [Stealth assessment in AI-GBL achieves accurate prediction of learner states, with bias auditing demonstrated without accuracy loss](stealth-assessment-accuracy-and-bias-audits.md) — related
 - ConcepTests with roughly 35% to 70% of students answering correctly before discussion appear to produce the highest engagement and most effective discussions — related
+- [LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the \"Easy Trap\")](easy-trap-fraction-items-underestimated-by-llms.md) — related

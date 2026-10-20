@@ -46,3 +46,6 @@ Regression analysis of adoption and usage intensity across 200 classes found no 
 - [Students at highly selective institutions show more deep and routine-learning engagement and less exam-driven engagement with a GenAI Tutor](selectivity-engagement-quality-differences.md) — a narrower finding that bears on this claim
 - [STEM students adopt the GenAI Tutor less and use it differently than non-STEM students, with more shallow and routine-learning engagement](stem-nonstem-engagement-differences.md) — related
 - [Access and resource disparities in AI usage widen divides among postsecondary students](student-ai-access-disparities.md) — a broader claim this one bears on
+- [GenAI Tutor adoption was widespread but usage intensity was highly skewed, with adoption peaking early in the semester while intensity rose steadily](genai-tutor-adoption-usage-skew.md) — related
+- [Four distinct session-level engagement types emerge in GenAI Tutor use: Deep, Shallow, Routine-Learning, and Exam-Driven](four-session-engagement-types-genai-tutor.md) — related
+- [Staff raised equity concerns that students who pay for upgraded GenAI tools gain an advantage over peers using free versions](paid-ai-tool-access-equity-advantage.md) — related

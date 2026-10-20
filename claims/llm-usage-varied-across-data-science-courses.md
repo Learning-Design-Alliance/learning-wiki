@@ -47,3 +47,4 @@ Descriptive cross-course comparison on the final survey wave (Course-BD n=7, Cou
 - [LLM usage varied across assignments and tasks, increasing for later assignments (especially discussion points), while Low-Reliance students concentrated use early and reduced it after Midterm 2](llm-usage-trends-across-assignments.md)
 - [LLM adoption varies substantially across CS subfield assignments under a shared instructional intervention, with highest use in Algorithms (89.6%) and Web Development (80.6%) and lowest in Software Engineering (15.2%)](llm-adoption-varies-by-cs-assignment.md)
 - [Students' perceived deep-learning benefits of LLMs declined over the term while satisfaction and time savings remained high](perceived-deep-learning-benefits-declined-over-term.md)
+- [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related

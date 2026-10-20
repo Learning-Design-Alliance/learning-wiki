@@ -70,3 +70,4 @@ WWC-calculated improvement index for the completing school domain, representing 
 - [JOBSTART's completion gain came entirely from GED receipt, with a small significant negative effect on earning a high school diploma](jobstart-ged-gain-diploma-negative-effect.md) — related
 - [New Chance produced a statistically significant increase in the likelihood of earning a high school diploma or GED certificate](new-chance-significant-increase-diploma-or-ged.md) — related
 - [High School Redirection shows mixed effects on staying in school, with significant effects in the Stockton trial but not in Wichita or Cincinnati](hsr-mixed-effects-staying-in-school.md) — related
+- [Job Corps substantially increased time spent in education and training relative to the control group during the 48-month follow-up](job-corps-more-education-training-hours.md) — related

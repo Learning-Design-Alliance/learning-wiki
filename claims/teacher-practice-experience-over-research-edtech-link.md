@@ -63,3 +63,5 @@ Teacher survey cross-analysis found those relying on academic research "more lik
 
 ## Related Claims
 - [Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — related
+- [Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators](edcamp-dfl-comfort-sharing-with-peers.md) — related
+- [Majorities say edtech improves students' learning experiences, but few think it does so greatly, and a plurality of teachers say it hurts collaboration](edtech-broad-support-shallow-collaboration-caveat.md) — related

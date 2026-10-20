@@ -45,3 +45,6 @@ Discussion passage explaining why both groups showed high I–it/I–me prevalen
 ## Related Claims
 
 - [Group A, who failed the learning task, devoted most dialogues to orientation and conceptualization and asked yes-no questions at the personal level, while group B, who succeeded, distributed dialogue across investigation and discussion](group-df-distribution-outcome-cscl-dst.md)
+- [Group B showed a shift toward intrapersonal voices (I–you/I–we) during its later empirical evaluation, while group A remained interpersonal (I–it/I–me) even when investigating, with un-negotiated inputs](shift-toward-intrapersonal-voices-successful-group.md) — related
+- [Teachers can respond to sensitive and emotional student contributions in whole-class life skills conversations by acknowledging the contribution, integrating it and redirecting toward general aspects of the topic, thereby avoiding a therapeutic role.](acknowledge-integrate-redirect-sensitive-student-contributions.md) — a broader claim this one bears on
+- [Teachers can guide students' conceptual understanding of life skills concepts by building on the everyday experiences students invoke in classroom conversations.](teachers-build-on-everyday-experiences-in-life-skills-conversations.md) — related

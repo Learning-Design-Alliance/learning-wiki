@@ -47,3 +47,4 @@ Randomized field experiment; student-rated usefulness (1–5 Likert) compared ac
 - [AI-assisted feedback drafts increase total feedback length by 39.79 characters per submission](ai-drafts-increase-feedback-length.md) — related
 - [AI-assisted feedback drafts increase discretionary feedback provision by TAs by 10.81 percentage points](ai-drafts-increase-discretionary-feedback-provision.md) — related
 - [Draft usefulness varies by grading context: higher for submissions with mistakes and applied questions](draft-usefulness-varies-by-grading-context.md) — related
+- [TAs adapt rather than copy AI feedback drafts, with moderate draft–final overlap (ROUGE-L F1 = 0.60)](tas-adapt-rather-than-copy-ai-drafts.md) — related

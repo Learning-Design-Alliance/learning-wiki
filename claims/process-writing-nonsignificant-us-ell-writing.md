@@ -45,3 +45,5 @@ Weighted mean effect size for the process writing approach, one of the two most 
 ## Related Claims
 - [Writing instruction produces a statistically significant positive overall effect on the writing performance of K-12 English language learners in the United States (g = 0.33)](writing-instruction-positive-overall-effect-us-ell.md) — a broader claim this one bears on
 - [Strategy instruction significantly improves the writing of US ELL students (g = 0.36)](strategy-instruction-significant-us-ell-writing.md) — related
+- [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — a broader claim this one bears on
+- [Writing interventions improve writing quality, the most frequently assessed outcome, with an effect of 0.33 for US ELL students](writing-quality-effect-us-ell.md) — related

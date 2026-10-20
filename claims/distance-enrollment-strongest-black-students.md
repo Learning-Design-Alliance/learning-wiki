@@ -49,3 +49,4 @@ Post-hoc comparisons of regression-predicted enrollment rates within student gro
 - [After the policy changes, distance to any pre-k did not change substantially for most student groups, while White and highest-income students lived farther from pre-k](any-prek-access-unchanged-most-groups.md) — related
 - [After the policy changes, students lived on average 0.6 miles closer to a school with full-day pre-k, with the largest gains for high-priority groups](full-day-access-increased-post-policy.md) — related
 - [Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students](full-day-enrollment-tripled-high-priority-groups.md) — related
+- [The pathway from full-day pre-k to better second-grade outcomes was especially strong among Black students, lowest-income students, and students living in mostly-Black neighborhoods](prek-pathway-strongest-high-priority-groups.md) — related

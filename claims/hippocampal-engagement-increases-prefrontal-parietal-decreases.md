@@ -48,3 +48,6 @@ Longitudinal block-design fMRI in 28 children; ROI analysis of anatomically defi
 - [In adults only, poorer math achievement is associated with greater hippocampal NRE sensitivity](adult-hippocampus-negative-nre-math-association.md) — related
 - [Hippocampal engagement during problem solving rises in middle childhood and then decreases to adult-like levels by adolescence](hippocampal-engagement-inverted-u-development.md) — related
 - [In the one longitudinal fMRI study, dorsolateral prefrontal engagement reached adult levels by adolescence while dorsal anterior cingulate engagement continued increasing and mediated behavioral improvement](dlpfc-adult-by-adolescence-dacc-mediation.md) — related
+- [Inter-problem multivoxel pattern stability in the hippocampus increases from childhood through adolescence into adulthood, reaching adult-like levels by adolescence](hippocampal-representation-stability-increases-development.md) — related
+- [Arithmetic problem-solving performance improves over 1.2 years in children, with larger gains on standard addition than control problems](arithmetic-performance-improves-longitudinally.md) — related
+- [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](retrieval-development-through-adolescence-adulthood.md) — related

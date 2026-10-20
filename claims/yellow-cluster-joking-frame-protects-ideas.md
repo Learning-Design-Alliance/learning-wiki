@@ -51,3 +51,5 @@ Qualitative episode analysis of group B on the electrostatics tutorial, where ex
 - [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related
 - [Epistemic distancing plays a critical role in student groups' construction of a safe space for collaborative sensemaking in physics tutorials](epistemic-distancing-builds-safe-space-sensemaking.md) — a broader claim this one bears on
 - [A new group member's heavily distanced bid to discuss shifted the Bronze group's norms toward sharing and evaluating ideas](new-member-distanced-bid-shifted-bronze-norms.md) — related
+- [Both too much and too little epistemic distancing can shut down group discussion](too-much-or-little-distancing-shuts-discussion.md) — related
+- [Behavioral clusters recur across different student groups, which the authors attribute to shared cultural norms](behavioral-clusters-shared-across-groups.md) — related

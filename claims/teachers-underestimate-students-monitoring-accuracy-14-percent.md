@@ -43,4 +43,5 @@ Explorative study in which 46 secondary education teachers judged nine of their 
 
 
 ## Related Claims
--
+- [Teachers' judgments of students' performance deviated 21.96% from students' actual performance, tending to overestimate it](teachers-overestimate-students-performance-22-percent.md) — related
+- [A brief cue-diagnosticity intervention did not significantly improve teachers' judgment accuracy, presumably because accuracy was already relatively high](diagnosticity-intervention-no-accuracy-gain.md) — related

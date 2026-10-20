@@ -49,3 +49,4 @@ Proportion comparisons across visit categories for both cohorts at 200840. Table
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — related
 - [Students who use the ePSRL Management System meet the course completion deadline at a significantly higher rate than non-users](epsrl-higher-course-completion-deadline-rate.md) — related
 - [Teacher home visits slightly improved student attendance in the following school year (95.28% vs 94.93%; ES = +0.02 in the Evidence for ESSA summary)](pthv-home-visits-improve-attendance-slightly.md) — related
+- [High-use tutoring center visitors had significantly higher cumulative GPA than non-visitors, with the main difference between >10-visit and no-visit groups](tutoring-center-visits-higher-cumulative-gpa.md) — related

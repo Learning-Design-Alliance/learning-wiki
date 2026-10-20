@@ -45,3 +45,4 @@ Preference–ability comparison within the experiment, with a printed correlatio
 ## Related Claims
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
 - [Denial of LLM access increases attrition and LLMs are the most preferred study resource, acting as revealed preference](llm-denial-increases-attrition-revealed-preference.md) — related
+- [Most participants expressed reluctance to adopt an eco-feedback LLM for regular use, with nearly two-thirds reporting some degree of unwillingness](low-stated-long-term-adoption-of-eco-feedback-llm.md) — related

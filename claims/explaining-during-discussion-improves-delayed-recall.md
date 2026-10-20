@@ -43,4 +43,6 @@ Randomized experiment with 70 Maastricht University students assigned to explana
 
 
 ## Related Claims
--
+- [Problem-based tutorial discussion of a relevant problem before studying an expository text increases the number of accurate propositions recalled from that text](pbl-discussion-prior-to-text-increases-free-recall.md) — related
+- [Participating in a relevant group discussion, whether explaining or listening, raises immediate recall relative to an irrelevant discussion, but this advantage does not persist one month later](relevant-discussion-immediate-recall-advantage-fades.md) — related
+- [Immediately after the discussion, participants who explained did not recall more than participants who only listened](no-immediate-advantage-of-explaining-over-listening.md) — related

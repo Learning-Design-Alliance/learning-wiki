@@ -46,3 +46,5 @@ Inter-task correlation analysis computing pairwise Spearman's ρ across the 30 e
 - [Performance on existing benchmarks transfers unevenly to artistic educational imagery](existing-benchmarks-transfer-unevenly-artistic-imagery.md) — related
 - [A recognition-versus-reasoning divide: scene recognition is comparatively mature while affective interpretation and compositional reasoning lag](recognition-reasoning-divide-muse.md) — related
 - [VLM performance on artistic educational imagery is highly task-dependent, with no model dominating across capabilities](vlm-performance-task-dependent-muse.md) — related
+- [Standardized benchmarks are often too generic to reflect the needs of innovative educational applications](standardized-benchmarks-too-generic-for-education.md) — related
+- [Human performance forms the outer envelope on nearly all MUSE tasks, with the largest deficits in Relative Position, Emotion Detection, and Jigsaw Puzzle](human-vlm-gap-muse-tasks.md) — related

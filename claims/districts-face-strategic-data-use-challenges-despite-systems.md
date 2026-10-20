@@ -47,3 +47,5 @@ The brief's framing section states, based on the authors' work in the evaluation
 - [Support for data-driven instruction did not increase key data-related activities despite additional resources and emphasis](data-driven-instruction-support-did-not-increase-data-activities.md) — related
 - [States and districts increasingly used performance data as a means to support effective teaching](essa-performance-data-support-effective-teaching.md) — related
 - [Districts implementing new teacher evaluation systems faced challenges reducing the burden on principals](teacher-evaluation-principal-burden-challenge.md) — related
+- [Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings](single-initiative-analysis-limited-agency-wide-impact.md) — related
+- [Support for data-driven instruction did not increase teachers' data use or change their instructional practices](data-driven-instruction-support-did-not-change-teacher-practice.md) — related

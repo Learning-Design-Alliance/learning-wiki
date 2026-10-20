@@ -64,3 +64,4 @@ Exploratory RM-ANOVAs at the level of the four CDR process steps; dyads in the w
 ## Related Claims
 - [Self-explaining worked examples improve declarative knowledge of CDR strategies more than solving problems](worked-examples-improve-cdr-declarative-knowledge.md) — related
 - [Worked examples did not improve application of CDR strategy knowledge relative to problem-solving](worked-examples-no-improvement-knowledge-application.md) — related
+- [Adult players who studied worked examples scored significantly higher on a game-based problem-solving retention question than a control group](worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game.md) — related

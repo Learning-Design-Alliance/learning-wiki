@@ -44,3 +44,5 @@ Definitional statement in the article's extract enumerating the anxiety types ps
 
 ## Related Claims
 - [Early studies of the relationship between anxiety and achievement produced mixed and confusing results](early-anxiety-achievement-studies-mixed-results.md) — related
+- [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects](higher-anxiety-is-associated-with-smaller-testing-effects.md) — related
+- [Learner attributes differ sharply in how reliably they can be recovered from tutoring dialogue, with behavioral traits slow to surface](differential-observability-learner-attributes-dialogue.md) — related

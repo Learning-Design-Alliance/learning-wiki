@@ -68,3 +68,7 @@ Authors' interpretation from the case-study interviews, hedged with "It appears 
 - [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](sdp-ep-aim-enhance-data-capacity.md) — a broader claim this one bears on
 - The NIH Intramural Research Loan Repayment Program evaluation combined an outcomes evaluation with a process analysis drawing on focus groups, staff interviews, and administrative data — related
 - Survey findings reflect intended plans that may differ from eventual implementation, and the survey structure limits what can be inferred — related
+- [Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training](agencies-built-linked-data-systems-and-analytic-capacity.md) — related
+- [Many low-achieving students were initially unable to interpret KCA data productively when first using the tool.](students-initially-unable-interpret-kca-data.md) — related
+- [Agency data-use profiles were developed from fall and winter 2013–14 site visit interviews](profiles-from-site-visit-interviews-2013-14.md) — related
+- [Districts with data systems in place still face challenges in the strategic use of data](districts-face-strategic-data-use-challenges-despite-systems.md) — related

@@ -44,3 +44,6 @@ Editorial summary of Heimbuch, Ollesch, and Bodemer's comparison of two collabor
 
 ## Related Claims
 - [In the main study, the DDR script induced far more talk-page discussion contributions and fewer article edits than the BRD script](ddr-script-more-discussions-fewer-edits.md) — related
+- [In the pre-study, dyads using the DDR script were far more likely to integrate their partner's evidence into their answers on the main topic question](prestudy-ddr-perspective-integration.md) — related
+- [In the main study, BRD articles were longer, but DDR articles had a lower relative error rate, and article length correlated positively with errors](brd-longer-articles-more-errors.md) — related
+- [Wiki pages produced by many anonymous edits exhibit group-generated meaning not attributable to any individual contributor](wiki-page-group-generated-meaning-unplanned-edits.md) — related

@@ -67,3 +67,5 @@ Survey helpfulness ratings for the Activities section. These are descriptive ave
 - [Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning](splash-bubbles-app-high-uptake-perceived-learning-support.md) — a broader claim this one bears on
 - [Attrition in the station study was higher than expected, and partial-data families rated app components slightly lower than complete-data families](splash-bubbles-station-study-attrition-partial-data-lower-ratings.md) — related
 - [Families who used the app's features more extensively reported stronger changes in joint media engagement and science](deeper-app-use-linked-stronger-jem-changes.md) — related
+- [Over 70% of participants in the field and station studies rated the app a 4 or 5 for supporting children's science learning](over-70-percent-rated-app-helpful.md) — related
+- [Families showed widespread variability in which Ocean Guide and Activities components they found most helpful, often citing child age and interest](splash-bubbles-app-section-variability-by-child-age-interest.md) — related

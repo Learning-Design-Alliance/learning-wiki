@@ -50,3 +50,5 @@ The article asserts, in its abstract, that "Low examinee effort is a major threa
 - [CATs can effectively address the validity threat posed by unmotivated examinees in low-stakes testing](cats-address-unmotivated-examinee-validity-threat.md) — related
 - [CATs can have important advantages over conventional tests in identifying instances when examinees exhibit low effort](cats-advantage-identifying-low-effort.md) — related
 - [Unmotivated examinees present a major threat to the validity of scores in low-stakes testing programs](unmotivated-examinees-threaten-low-stakes-score-validity.md) — possibly the same claim (merge candidate)
+- [Threshold-setting methods are compared using reading scores from over 728,923 students on a computer-adaptive test of nearly 12,000 items](large-scale-cat-threshold-method-comparison.md) — related
+- [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](map-growth-real-time-engagement-detection-re-engagement.md) — related

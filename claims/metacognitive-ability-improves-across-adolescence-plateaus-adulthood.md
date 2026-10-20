@@ -47,3 +47,8 @@ Cross-sectional behavioural study of 28 adolescents (11–17 years) and 28 adult
 - [Metacognitive ability improves across adolescence, with a logarithmic age trajectory](cms-age-effect-metacognition.md) — a narrower finding that bears on this claim
 - [Combined with adolescent data, the lifespan profile of perceptual metacognitive efficiency is an inverted-U](inverted-u-lifespan-profile-of-metacognition.md) — related
 - [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](perceptual-metacognitive-efficiency-declines-with-age.md) — related
+- [Metacognition is significantly positively correlated with math performance in adolescence (pooled r = .37)](metacognition-math-correlation-adolescence-pooled.md) — related
+- [How People Learn II updates and extends the 2000 How People Learn report by synthesizing research on learning from birth through adulthood in formal and informal settings](hpl-ii-updates-extends-hpl-2000-lifespan.md) — related
+- [Confidence ratings shift toward higher confidence across adolescence and decline in adulthood (Broc)](confidence-bias-rises-in-adolescence-declines-adulthood.md) — related
+- [The adolescent improvement in metacognitive ability is independent of perceptual task performance, which was clamped and uncorrelated with age](metacognitive-development-independent-of-task-performance.md) — related
+- [Memory metacognitive efficiency shows a non-significant negative relationship with age](memory-metacognitive-efficiency-nonsignificant-age-decline.md) — related

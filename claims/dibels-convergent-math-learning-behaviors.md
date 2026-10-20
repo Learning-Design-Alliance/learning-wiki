@@ -66,3 +66,5 @@ Bivariate correlations with the Learning Behaviors Scale showed "Significant ass
 - [Inhibitory control showed insignificant correlations with reading and early mathematics except kindergarten word problems](inhibitory-control-null-correlations-reading-math.md) — related
 - [DIBELS subtests form a significant multivariate pair with peer-play and learning-behavior dimensions (Engaged Literacy Learning variate)](dibels-engaged-literacy-learning-canonical.md)
 - [Kindergarten DIBELS subtests show significant concurrent positive relationships with standardized early literacy measures in urban kindergartners](dibels-kindergarten-concurrent-literacy-validity.md) — related
+- [DIBELS subtests show significant negative relationships with peer-play difficulties and weaker links to social-behavioral than cognitive measures](dibels-discriminant-social-behavioral-validity.md) — related
+- [DIBELS subtests share a significant multivariate relationship with TERA early reading dimensions (Early Literacy Competence variate)](dibels-tera-canonical-early-literacy-competence.md) — related

@@ -68,3 +68,6 @@ The review reports observational associations between UFOV deficits and daily-li
 
 ## Related Claims
 - [Speed-of-processing training transfers to health and functional outcomes including reduced crash risk, improved driving, faster daily-task completion, slower health-related quality-of-life decline, and reduced depression risk](training-transfers-to-health-functioning.md) — related
+- [VSTM performance declines with advancing adult age in raw error, item capacity, precision, and misbinding, even after adjusting for sensorimotor performance](vstm-declines-with-age-all-measures.md) — related
+- [Measures of everyday functioning and independent living correlate with psychometric cognition, with stronger relations for fluid reasoning than for crystallized knowledge](fluid-cognition-predicts-independent-living.md) — related
+- [Speed-of-processing training based on UFOV tasks reduces minimum duration thresholds in older adults, with benefits persisting up to two years](speed-of-processing-training-reduces-thresholds.md) — related

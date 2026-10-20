@@ -65,3 +65,7 @@ For design: set a high unit standard and keep the class moving together where po
 ## Related Claims
 
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — the same synthesis, overall effect
+- [Group-based mastery learning improves retention of learned material, with an average effect size of .62 across four studies](mastery-improves-retention.md) — related
+- [ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)](test-type-moderates-its-effects.md) — related
+- [Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage](self-paced-mastery-programs-reduce-college-course-completion.md) — related
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related

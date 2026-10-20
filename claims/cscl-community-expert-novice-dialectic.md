@@ -44,3 +44,4 @@ The editorial describes the Italian community-building activities in the second 
 
 ## Related Claims
 - [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](adaptive-expert-teacher-closes-gaps-real-time-labs.md) — related
+- [Clarà and Mauri propose that multi-vocality in CSCL can be healthy if findings are brought into communication, identifying three dimensions along which content-analysis studies can be related](multivocality-three-dimensions-content-analysis.md) — related

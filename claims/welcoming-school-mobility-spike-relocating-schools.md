@@ -45,3 +45,5 @@ Administrative-data analysis of transfer rates for 13,218 welcoming-school stude
 ## Related Claims
 - [School closures had no effect on absences or suspension rates for affected students](closures-no-effect-absences-suspensions.md) — related
 - Proximity and relocation into the closed school building strongly predicted enrollment in designated welcoming schools — related
+- [Welcoming-school students whose schools relocated into closed-school buildings transferred out at higher rates in the merger year; closures did not affect mobility in later years](merger-year-transfer-rates-higher-relocated-welcoming-schools.md) — related
+- [Displaced students changed schools a second time at roughly twice the rate of comparison students during the first year and the following summer](elevated-subsequent-mobility-after-displacement.md) — related

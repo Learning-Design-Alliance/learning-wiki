@@ -47,3 +47,5 @@ The baseline survey collected information on school administrators' knowledge of
 - [Principals prefer school-level performance and achievement growth over teacher-level performance alone or test-score levels for incentive awards](principals-prefer-school-level-growth-for-incentives.md) — related
 - [The EPIC evaluation baseline report compares student characteristics across the program's three partners and compares award-determination data with data on all students in the awarded schools](epic-baseline-compares-partner-student-characteristics-and-award-data.md) — related
 - The EPIC evaluation design report documents estimation procedures, partner-level operations, and a work plan — related
+- [School value added can reflect school-specific influences on student achievement growth that are outside principals' control](value-added-reflects-influences-outside-principal-control.md) — related
+- [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related

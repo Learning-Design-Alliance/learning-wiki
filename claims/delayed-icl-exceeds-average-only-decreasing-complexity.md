@@ -51,3 +51,5 @@ Mixed ANOVA in the main study (N=100, between-subjects complexity sequence) comp
 - [Delayed cognitive load ratings appear to be based more on the more complex problems in the series than on a recency effect](delayed-ratings-based-on-complex-problems.md) — related
 - [GCL ratings move opposite to the hypothesised pattern, decreasing in the increasing-complexity condition and increasing in the decreasing-complexity condition](gcl-ratings-opposite-hypothesized-pattern.md) — related
 - [ICL ratings track the manipulated complexity sequence: increasing across units in the increasing condition and decreasing in the decreasing condition](icl-ratings-track-complexity-sequence.md) — related
+- [Delayed ratings of affective variables (interest and motivation) do not differ from the average of immediate ratings, unlike cognitive load ratings](affective-ratings-immune-to-delayed-versus-immediate-difference.md) — related
+- [ECL ratings also follow the complexity sequence, rising in the increasing condition and falling in the decreasing condition, though ECL was not manipulated](ecl-ratings-follow-complexity-sequence.md) — related

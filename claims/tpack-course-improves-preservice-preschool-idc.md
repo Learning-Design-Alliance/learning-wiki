@@ -79,3 +79,5 @@ Paired-sample test of the experimental class (n=21) comparing pre-test (3.795) a
 - The three-dimension instructional design competence model fits the empirical data acceptably in CFA — related
 - [Instructional design competence of pre-service teachers comprises knowledge, ability, and personal attributes dimensions](idc-competence-three-dimensions-validated.md) — related
 - Ability in instructional design carries the highest second-order factor loading, followed by knowledge and personal attributes — related
+- [In-service mathematics teachers in the online TPACK program shifted from teacher-centered to valuing student-centered instructional strategies for teaching with technologies](online-tpack-program-shift-student-centered-strategies.md) — related
+- [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) — related

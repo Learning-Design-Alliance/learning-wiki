@@ -48,3 +48,6 @@ Bialystok Ellen. (2011). Coordination of Executive Functions in Monolingual and 
 - [The dual-task condition is more difficult than the single-task condition, with a condition-by-modality interaction in reaction time](dual-task-difficulty-condition-modality-interaction.md) — related
 - [Bilingual and monolingual 8-year-olds do not differ in response suppression costs](no-bilingual-advantage-response-suppression-children.md) — related
 - [Monolingual and bilingual children perform comparably on single-modality classification tasks in accuracy and speed](no-group-difference-single-modality-classification.md) — related
+- [More bilingual than monolingual children pass the 60% accuracy criterion on the visual dual-task, but not on the auditory dual-task](pass-fail-distribution-visual-auditory-dual-task.md) — related
+- [Faces-task accuracy was near ceiling with no language-group or gender differences, and gender was dropped from RT analyses](faces-task-accuracy-ceiling-no-group-differences.md) — related
+- [Match trials are more accurate and faster than mismatch trials in the dual-modality task, with no language group difference](congruence-effect-dual-modality-no-group-difference.md) — related

@@ -52,3 +52,4 @@ The report cites the CREDO virtual charter comparison to traditional public scho
 - [Charter school students show more annual learning growth in reading and math than matched traditional public school peers](charter-students-more-days-learning-reading-math.md) — related
 - [Idaho charter school students show stronger reading growth than matched TPS peers, with no significant difference in math growth](idaho-charter-reading-advantage-math-null.md) — related
 - [CMO-affiliated charter schools outpace traditional public schools in reading and math while stand-alone charters gain in reading only](cmo-schools-advance-reading-math-standalone-reading-only.md) — related
+- [Charter school students perform consistently better on standardized mathematics achievement measures than traditional public school peers, with modest differences](charter-math-achievement-consistently-better-modest.md) — reports the opposite

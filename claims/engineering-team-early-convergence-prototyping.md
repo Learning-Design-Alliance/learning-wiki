@@ -46,3 +46,5 @@ tSSNA time-series observation of one engineering team during a 30-minute wallet 
 - [Engineering, product design, and service design teams differ significantly in shared epistemic agency during collaborative prototyping](design-disciplines-differ-shared-epistemic-agency-prototyping.md) — related
 - [All teams showed divergent-then-convergent idea improvement patterns across prototyping sessions](divergent-convergent-idea-improvement-prototyping.md) — related
 - Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. — related
+- [Each team showed statistically significant changes in shared epistemic agency across prototyping phases](within-team-phase-transitions-epistemic-agency.md) — related
+- [Engineering team focused on generative collaborative actions, product design team on creating shared understanding, and service design team on alleviating lack of knowledge](disciplinary-kc-focus-differences-prototyping.md) — related

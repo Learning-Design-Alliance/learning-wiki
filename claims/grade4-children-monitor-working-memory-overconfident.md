@@ -46,3 +46,9 @@ Repeated-measures experiment with 73 Grade 4 children completing the WMPT across
 
 - [With increasing n-back task difficulty, reaction times increase and accuracy decreases](nback-difficulty-increases-rt-decreases-accuracy.md) — related
 - [Confidence on the WMPT predicts numeracy but not reading or spelling](confidence-predicts-numeracy-only.md)
+- [WMPT accuracy is positively correlated with reading, numeracy, spelling and composite achievement scores](wmpt-accuracy-correlates-achievement.md) — related
+- [WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty](wmpt-measures-vary-with-difficulty.md) — related
+- [Working memory load degrades discrimination accuracy and slows responses in youth](load-degrades-discrimination-and-slows-responses.md) — related
+- [At low memory loads, older adults report less uncertainty than younger adults despite making larger errors, suggesting an overconfidence bias](older-adults-overconfident-low-load-vstm.md) — related
+- [A minority of item judgments show downregulation of confidence after pre-monitoring, suggesting differentiated evaluation can sometimes trigger more accurate monitoring](confidence-downregulation-after-pre-monitoring.md) — related
+- [Hard-easy effect: students are more accurate but underconfident on easy items and less accurate but overconfident on difficult items](hard-easy-effect-calibration.md) — a broader claim this one bears on

@@ -43,4 +43,6 @@ Framing statement from the article's abstract, offered without cited evidence in
 
 
 ## Related Claims
--
+- [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
+- [The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)](ai-id-limitation-content-reliability-transparency.md) — related
+- [An analytical strategy training program embedded in a digital literacy course improved university students' performance on online search and evaluation tasks, though to varying extent.](analytical-strategy-training-improves-online-reading-performance.md) — a narrower finding that bears on this claim

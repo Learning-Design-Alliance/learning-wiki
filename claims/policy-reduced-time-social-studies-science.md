@@ -47,3 +47,6 @@ Jacob, R. T., Stone, S., & Roderick, M. (2004). Ending Social Promotion: The Res
 - [Educators reported the promotion policy increased parental concern about student progress](promotion-policy-increased-parental-concern.md) — related
 - [Three-quarters of Chicago teachers viewed retention as improving students' long-term chances of success](teachers-view-retention-as-beneficial.md) — related
 - Nearly three-quarters of AI × SEL studies articulate no substantive policy implications — related
+- [Teachers and principals reported the policy made them feel extra responsibility and more sensitive to student needs](policy-increased-teacher-responsibility-sensitivity.md) — related
+- [Principals expressed somewhat greater concern about retention's negative effects than teachers](principals-more-concerned-about-retention.md) — related
+- [Most Chicago teachers and principals reported that Summer Bridge and Lighthouse had positive effects on participating students](cps-educators-positive-on-summer-bridge-lighthouse.md) — related

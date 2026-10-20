@@ -67,3 +67,5 @@ Across the reviewed WWC-standards studies of curricula focused on number and ope
 - [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — a broader claim this one bears on
 - [Pre-K Mathematics improves preschool children's mathematics achievement, with a WWC positive effects rating and strong evidence tier](pre-k-mathematics-positive-effects-math-achievement.md) — a narrower finding that bears on this claim
 - [Block Play Predicts Math Achievement](block-play-predicts-math-achievement.md) — related
+- [All five of the guide's data-use recommendations are supported by low levels of evidence](data-use-recommendations-low-evidence.md) — related
+- [Studies relying exclusively on the Applied Problems subtest are likely to miss small but meaningful influences on early math achievement because the measure is less sensitive to variation among young children](applied-problems-misses-small-moderation-effects.md) — related

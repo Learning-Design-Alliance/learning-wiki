@@ -51,3 +51,4 @@ The agenda reports, citing Newmann, Bryk, & Nagaoka (2001), that authentic-intel
 - [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](authentic-assignments-greater-itbs-gains.md) — a narrower finding that bears on this claim
 - [Students whose assignments are more authentic produce more authentic intellectual work in both writing and mathematics](authentic-assignments-yield-authentic-student-work.md) — related
 - [The report cites research evidence that students exposed to authentic intellectual challenges are more engaged than students given conventional schoolwork](authentic-challenges-increase-engagement.md) — related
+- [Exposure to high-quality assignments predicted substantially higher IGAP reading, mathematics, and writing performance (effect sizes 0.43, 0.64, 0.52)](authentic-assignments-igap-value-added.md) — related

@@ -44,3 +44,4 @@ A randomized survey experiment assessed parents' preferences for school qualitie
 
 ## Related Claims
 - [Growth matters more than achievement or status when parents choose between schools](growth-matters-more-when-choosing-between-schools.md) — reports the opposite
+- [Student demographics affect parents' likelihood of selecting into a school](demographics-affect-school-selection-likelihood.md) — related

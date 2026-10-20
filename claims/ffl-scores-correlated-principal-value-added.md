@@ -99,3 +99,5 @@ The regression analyses found "significantly or marginally significantly" higher
 - [A multiyear pilot study analyzed the score variation, internal consistency, score stability, and concurrent validity of Pennsylvania's Framework for Leadership](ffl-pilot-psychometric-analysis.md) — related
 - [The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders](more-evidence-needed-ffl-validity.md) — reports the opposite
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](supports-matter-in-combined-clusters.md) — related
+- [Teachers with higher Framework for Teaching scores tended to make larger contributions to student achievement (value added)](framework-scores-relate-to-value-added.md) — related
+- [The study assessed rating stability for 2,424 principals and predictive validity for 123 principals using Pennsylvania statewide data](principal-measure-stability-2424-predictive-123-principals.md) — related

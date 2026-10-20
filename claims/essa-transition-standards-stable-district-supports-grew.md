@@ -44,3 +44,4 @@ Survey-based comparison of state and district Title I/II-A implementation in 201
 
 ## Related Claims
 - [States and districts increasingly used performance data as a means to support effective teaching](essa-performance-data-support-effective-teaching.md) — related
+- [Student reports of standards-aligned instructional practices improved more in Chicago middle-grade schools with more extensive CCSS-M professional learning](standards-aligned-practice-reports-improved-with-pl.md) — a narrower finding that bears on this claim

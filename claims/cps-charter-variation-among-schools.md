@@ -52,3 +52,5 @@ Chapter 5/6 variation analysis across charter high schools on test scores, colle
 - [Students at high promotion power high schools have substantially better expected long-term outcomes than similar students at average promotion power schools](high-promotion-power-better-expected-outcomes.md) — related
 - [Undermatch occurs when students attend a college less selective than their high school academic achievement would allow](undermatch-defined-less-selective-college-attendance.md) — related
 - [Selective enrollment students from low-income neighborhoods are less likely to attend selective colleges than similarly-performing low-income students who do not enroll](sehs-low-income-selective-college-enrollment.md) — related
+- [Graduation and enrollment trends vary by school type: non-charter non-selective schools caught up to charters on graduation, but charters and selective enrollment lead on college enrollment](cps-attainment-trends-by-school-type.md) — related
+- [DC public high schools show wide variation in promotion power for college-ready SAT scores, graduation, and college enrollment](wide-variation-dc-high-school-promotion-power.md) — related

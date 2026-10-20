@@ -52,3 +52,4 @@ Structural equation modeling with 242 kindergartners tested unique relations of 
 - [Letter writing automaticity is marginally related to spelling (b = .11, p = .06) but not uniquely related to word reading (b = -.07, p = .28) in kindergartners](letter-writing-automaticity-marginal-spelling-not-word-reading.md) — related
 - [Phonological awareness and alphabet knowledge fluency are each uniquely related to both word reading and spelling in kindergartners](pa-and-ak-fluency-uniquely-related-word-reading-spelling.md) — related
 - [Letter-writing fluency has a small unique concurrent relation to kindergarten compositional fluency but no significant relation to first-grade writing outcomes](letter-writing-fluency-concurrent-not-longitudinal.md) — related
+- [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](vocabulary-not-uniquely-related-to-written-composition.md) — related

@@ -44,3 +44,5 @@ Numerical processing statistics from the experimental setup over three lectures 
 
 ## Related Claims
 - [Ethnographically-oriented methods surface five dimensions of classroom context that text-only transcripts omit, including multimodal communication and relationships](ethnographic-methods-surface-context-transcripts-omit.md) — related
+- [Anchored discussion supports greater communicative efficiency but not higher mutual understanding](anchored-discussion-communicative-efficiency.md) — related
+- [Source-anchored instruction pairs reduce hallucination: they achieve mean Teacher Fidelity 1.4 points higher than non-anchored pairs, and models trained on anchored subsets produce 23% fewer factual hallucinations](source-anchoring-reduces-hallucination-instruction-data.md) — related

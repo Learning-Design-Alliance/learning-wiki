@@ -44,3 +44,4 @@ Table 5-based analysis of Question #4 viewing times by animation type in the ten
 
 ## Related Claims
 - [Students allocated roughly equal attention to the graph and the molecular model, both above chance, while attending little to the equations](equal-attention-model-graph-low-equations.md) — related
+- [In verbal protocols, references concentrated on the model (44.4%) and graph (39.4%) with few to the equation (16.1%), and students referenced multiple representations on 42.6% of questions](verbal-protocol-representation-reference-frequencies.md) — related

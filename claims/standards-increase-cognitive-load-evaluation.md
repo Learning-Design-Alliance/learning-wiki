@@ -62,4 +62,5 @@ On perceived task difficulty during evaluation, negative standards showed a sign
 
 
 ## Related Claims
--
+- [Expert example standards increase subjective task difficulty and mental effort during example evaluation](expert-standards-increase-difficulty-effort.md) — related
+- [Invested mental effort and perceived task difficulty are significantly positively correlated at all measurement points except MP2.5, with correlations increasing as material complexity rises](effort-difficulty-positively-correlated-except-mp25.md) — related

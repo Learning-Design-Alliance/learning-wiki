@@ -48,3 +48,5 @@ Learning Policy Institute analysis of federal Title II data on Texas teacher pre
 - Candidates of color complete Michigan teacher preparation programs at lower rates than they enroll: nearly 20% of enrollees but only 12% of completers in 2022-23 were people of color — related
 - [For-profit alternative certification pathways in Texas increased enrollment by more than 500% over 5 years without increasing program completers](for-profit-alternative-enrollment-growth-no-completers.md) — related
 - [Students of university-prepared Texas teachers gained 2.2 additional months of 9th-grade ELA learning and 1.8 additional months of 9th-grade math learning versus students of alternatively prepared teachers](university-prepared-teachers-higher-student-learning-gains.md) — related
+- [Teachers prepared through traditional certification pathways are retained at higher rates over 5 years than alternatively certified or noncertified Texas teachers](traditional-pathway-higher-retention-texas.md) — related
+- [Teacher education enrollments dropped 35% between 2009 and 2014, from 691,000 to 451,000](teacher-prep-enrollment-decline-35-percent.md) — related

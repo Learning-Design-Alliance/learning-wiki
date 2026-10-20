@@ -46,3 +46,4 @@ In the correlational analysis of survey measures against supervisor-rated domain
 - [Staff feedback from teacher surveys can serve as evidence in evaluating school leaders' performance](staff-feedback-teacher-surveys-principal-evaluation.md) — related
 - [Nearly all teacher survey domains and scales correlate small-to-moderately (0.26 to 0.46) with supervisors' ratings of principals' leadership](survey-supervisor-rating-correlations-026-046.md) — related
 - [Most teacher survey domains and scales used by DCPS meaningfully differentiate among schools](teacher-survey-domains-differentiate-among-schools.md) — related
+- [Insight survey domain averages are more stable across years when a school keeps the same leader, suggesting principals affect these measures](insight-domain-stability-same-leader.md) — related

@@ -45,3 +45,4 @@ The article reports, from its DC Public Schools value-added project, that teache
 ## Related Claims
 - [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](teacher-team-and-full-roster-methods-produce-similar-estimates.md) — related
 - Researchers presume grades 4-5 administrative data are better for value-added teacher effectiveness research because of self-contained classrooms and classroom homogeneity — related
+- [About one in six grade 4 and 5 math and reading/ELA teachers is linked in unconfirmed administrative data to a subject they do not teach](one-in-six-grade-4-5-teachers-mislinked-unconfirmed-data.md) — related

@@ -46,3 +46,4 @@ The review summarizes Winkes (2014)'s five reasons why writing is more demanding
 - [Adult illiterates significantly outperform pre-reading children on grapheme knowledge and on writing-speech correspondence](illiterate-adults-outperform-children-graphemes-correspondence.md) — related
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
+- [Clinically relevant attention problems in ADHD cause writing problems without impairing reading](adhd-attention-deficits-cause-writing-problems.md) — related

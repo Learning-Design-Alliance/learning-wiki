@@ -45,3 +45,6 @@ The article's framing statement, offered without reported data in the available 
 ## Related Claims
 
 - [A collaborative action research project investigated how primary school teachers can use students' FoK/I in superdiverse classrooms](car-project-teachers-use-fok-superdiverse-classrooms.md)
+- [Immersion and submersion programs differ socioculturally, communicating success versus failure to children](immersion-submersion-sociocultural-contrast.md) — related
+- [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](culturally-diverse-underrepresentation-biased-measures.md) — related
+- [The analyses yielded a framework for finding students' FoK and for categorising FoK/I-related teaching practices along two dimensions](fok-teaching-practices-framework-two-dimensions.md) — related

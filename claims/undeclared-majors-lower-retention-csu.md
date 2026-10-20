@@ -44,3 +44,6 @@ Retention analysis by declared major for the 2017 and 2018 cohorts (Figure 10, a
 
 ## Related Claims
 - [Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort](eo1110-racial-disproportionality-qr-placement.md) — related
+- [Under EO 1110's first year, the majority of CSU entering first-year students were placed in Category II in both Written Communication (74 percent) and Mathematics/Quantitative Reasoning (63 percent)](eo1110-majority-placed-category-ii.md) — related
+- [Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts](eo1110-retention-gaps-widen-by-ethnicity.md) — related
+- [Under EO 1110, students in QR placement categories III and IV attempted and earned more baccalaureate credits in their first year than comparable 'not college ready' students did in 2017](eo1110-supported-placement-more-first-year-credits.md) — related

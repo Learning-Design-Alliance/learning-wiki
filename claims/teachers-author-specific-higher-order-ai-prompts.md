@@ -64,3 +64,5 @@ DOK coding of the same 94 prompts under Webb's framework with full human validat
 ## Related Claims
 - [A design-enactment gap in cognitive demand: 37.7% of conversations under-reached the teacher-targeted DOK level, and under-targeting increased with target ambition](dok-under-targeting-gap-ai-dialogue.md) — related
 - [In an OLS regression, explicit finish lines in teacher prompts were associated with smaller DOK gaps, while explain-reasoning epistemic framing was associated with larger gaps](prompt-features-predict-dok-gap.md) — related
+- [Student-AI conversations under teacher-authored prompts largely stay on the intended task (71% fully on-track; fewer than 1% substantially off-track)](teacher-prompts-keep-conversations-on-track.md) — related
+- [In teacher-AI learning task design studies, GenAI tools are predominantly used for lesson planning, prompt generation, and creative ideation, while traditional AI tools are commonly used for designing analytics and feedback](genai-for-planning-ideation-traditional-ai-for-analytics-feedback.md) — related

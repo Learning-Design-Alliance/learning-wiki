@@ -69,3 +69,5 @@ Study 2 Global Theme 3 held that "The sense of fulfillment through positive expe
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Teachers rated personal efficiency, caring for learners' needs, and societal contribution as similarly highly important purposes of AI](no-difference-ai-purpose-ratings.md) — related
 - [ACTA study of global leaders identified expertise components including reading people closely, bridging cross-cultural communication, and perspective taking](acta-global-leadership-expertise-components.md) — related
+- [BIPOC solution providers' motivations blend general prosociality with equity and social justice purposes](bipoc-provider-motivations-prosociality-equity.md) — related
+- [Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors](personal-experience-over-organizational-culture.md) — related

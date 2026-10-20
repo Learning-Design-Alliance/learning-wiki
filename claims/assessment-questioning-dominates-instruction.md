@@ -44,3 +44,4 @@ Observational classification of teachers' questioning during reading and social 
 
 ## Related Claims
 - [Comprehension instruction in resource rooms consisted mostly of teacher question-and-answer monitoring rather than explicit comprehension-strategy instruction](comprehension-monitoring-dominates-strategy-instruction-scarce.md) — possibly the same claim (merge candidate)
+- [Social studies periods gave little preparation for reading (1.73 percent) and focused assessment questions on facts](social-studies-little-preparation-fact-questions.md) — related

@@ -60,3 +60,4 @@ Interview and observation data from the same four musicians and three instructor
 
 ## Related Claims
 - [Learners with BLV often cannot feel whether their wrist is straight while playing and discover misalignment only when someone else observes them](blv-wrist-alignment-undetectable-in-action.md) — related
+- [Score-access barriers push musicians with BLV toward memorization and listening-based learning, and accessible notation tools miss performance-critical details](blv-score-access-memorization-default.md) — related

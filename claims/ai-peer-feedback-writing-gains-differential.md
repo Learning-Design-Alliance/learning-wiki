@@ -63,3 +63,7 @@ Bonferroni-adjusted follow-up simple-effect analyses on the mixed-design ANCOVA.
 - [Gains from automated scoring concentrated in linguistic accuracy and logical coherence but were absent in information fidelity and delivery fluency](automated-scoring-gains-uneven-across-dimensions.md) — related
 - [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](students-recognize-writing-improvement-ai-feedback.md) — related
 - [AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task](lexical-diversity-advantage-first-task-only.md) — related
+- [AI-peer integrated feedback produces significantly higher posttest affective engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-affective-engagement.md) — related
+- [Performance during the AI-supported task consistently predicted performance on the subsequent AI-removal task across all writing dimensions](ai-support-performance-continuity-to-independent-performance.md) — related
+- [Generative AI-assisted feedback is associated with a statistically significant pretest–posttest improvement in violin students' intonation performance over a four-week period](genai-feedback-improves-violin-intonation-posttest.md) — related
+- [Neither feedback mode produced differential improvements in syntactic complexity; a general time effect appeared only in the first task](syntactic-complexity-no-differential-effect.md) — related

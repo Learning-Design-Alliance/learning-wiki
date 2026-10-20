@@ -49,3 +49,5 @@ Cohort analysis of four-year graduation rates for students entering as freshmen 
 - [Outcome differences between CHSRI new-start and redesigned schools were not statistically significant after accounting for incoming student differences](chsri-new-start-redesigned-no-significant-outcome-differences.md) — related
 - [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — related
 - [Juniors in the first CHSRI cohort were seven percentage points less likely to have dropped out by junior year, marginally significant](chsri-junior-cumulative-dropout-lower.md) — related
+- [Student reports of instruction were generally similar across school types, with juniors in small schools reporting higher academic press and support](chsri-student-experiences-academic-press-support.md) — related
+- [CHSRI students did not score differently on the PSAE in reading or math, and freshmen were not significantly more likely to be on-track](chsri-no-achievement-ontrack-difference.md) — related

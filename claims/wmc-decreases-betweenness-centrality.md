@@ -48,3 +48,5 @@ Linear mixed-effects model on betweenness centrality from the same 31-reader eye
 ## Related Claims
 - [Readers with higher working memory capacity make more transitions between sentences (higher strength)](wmc-increases-strength-reading-networks.md) — related
 - [Harmonic centrality and local clustering coefficient show no relation with working memory capacity](no-wmc-relation-harmonic-clustering.md) — related
+- [Strength is strongly positively correlated with second-pass reading time, while betweenness, harmonic centrality and local clustering coefficient are not related to duration measures](strength-correlates-second-pass-reading-time.md) — related
+- [High-WMC readers make more distant regressions within text, suggesting more cross-text integration](high-wmc-more-distant-regressions.md) — related

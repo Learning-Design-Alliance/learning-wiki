@@ -45,3 +45,4 @@ Path estimates from the main MASEM analysis of the Willingness-to-Change model (
 ## Related Claims
 - [Knowledge-to-Practice, Reaction-to-Training, and Practice-to-Belief models were not well-suited to explain empirical transfer data, and Knowledge-Skills-Beliefs fit only in RCT/quasi-experimental subsets](three-transfer-models-failed-fit.md) — related
 - [In the fitted model, teachers' knowledge and willingness to change predicted teaching practice, whereas professional beliefs did not significantly influence teaching practice](willingness-predicts-practice-beliefs-do-not.md) — related
+- [Teacher design teams in three African studies (Ethiopia, Ghana, Tanzania) were associated with increases in teachers' knowledge and skills](tdt-african-studies-increases-knowledge-skills.md) — a narrower finding that bears on this claim

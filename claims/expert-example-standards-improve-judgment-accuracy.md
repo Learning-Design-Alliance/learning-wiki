@@ -81,4 +81,12 @@ For relative accuracy (intra-individual gamma correlations; n = 8 participants e
 
 
 ## Related Claims
--
+- [Example quality does not significantly moderate the effects of the standards on judgment accuracy when aggregated across concepts](example-quality-moderation-null.md) — related
+- [Providing expert example standards enhances absolute judgment accuracy in evaluating self-generated examples](expert-example-standards-enhance-absolute-accuracy.md) — related
+- [Idea unit standards do not enhance judgment accuracy in evaluating self-generated examples](idea-unit-standards-ineffective-example-generation.md) — related
+- [Negative example standards do not reliably improve judgment accuracy and significantly decrease relative accuracy in evaluating self-generated examples](negative-example-standards-inconsistent-effects.md) — related
+- [Providing expert example standards reduces bias in learners' evaluations of self-generated examples](expert-example-standards-reduce-bias.md) — a narrower finding that bears on this claim
+- [Benefits of expert example standards depend on example quality: largest for incorrect examples, absent for correct ones](expert-standards-benefit-scope-by-example-quality.md) — a narrower finding that bears on this claim
+- [Providing a rubric reduces bias in self-assessment, moving judgments closer to expert ratings](rubrics-reduce-self-assessment-bias.md) — related
+- [Expert example standards did not significantly enhance relative accuracy in evaluating self-generated examples](expert-standards-relative-accuracy-null.md) — reports the opposite
+- [ChatGPT use does not change absolute self-evaluation accuracy, but self-evaluation judgments fail to correlate with performance under ChatGPT assistance](chatgpt-no-accuracy-difference-poor-calibration.md) — related

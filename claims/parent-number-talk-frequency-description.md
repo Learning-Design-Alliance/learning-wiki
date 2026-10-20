@@ -47,3 +47,4 @@ Descriptive analysis of the 7.5 hours of transcribed parent-child interaction at
 - [Parent number talk about present, visible objects predicts children's later cardinal-number knowledge, whereas number talk without present objects does not](present-object-number-talk-predicts-cardinal-knowledge.md) — related
 - [Small-number parent talk predicts children's performance only on low-number items, whereas large-number talk predicts both low- and high-number Point-to-X items](small-talk-low-items-large-talk-both.md) — related
 - [Parent number talk is not related to children's general vocabulary development once SES and overall talk are controlled, indicating domain specificity](number-talk-domain-specific-not-vocabulary.md) — related
+- [Parent SES significantly predicts children's cardinal-number knowledge at 46 months, accounting for 24 percent of variance](parent-ses-predicts-cardinal-knowledge.md) — related

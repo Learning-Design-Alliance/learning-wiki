@@ -47,3 +47,5 @@ Sensitivity analysis (Equation 2) testing dummy cut-points from 4 to 16 minutes:
 - [Delayed start during math practice predicts standardized math test performance (β=-.07 SD, p=.02)](delayed-start-predicts-math-outcomes.md) — related
 - [Classroom-relativized delayed start shows stronger predictive power and model fit than raw minutes, especially for ELA outcomes](relative-delayed-start-stronger-fit.md) — related
 - [Gaussian Mixture Modeling identifies two latent clusters of delayed start behavior, outperforming three-cluster and unimodal models](gmm-two-clusters-delayed-start.md) — related
+- [Early starters (<5 min delay) show greater outcome growth while chronic delayers (>13 min) show negative trends relative to regular starters](early-starter-chronic-delayer-subgroups.md) — a broader claim this one bears on
+- [Total time on task in the DLP positively predicts both math and ELA outcomes](total-time-on-task-predicts-outcomes.md) — related

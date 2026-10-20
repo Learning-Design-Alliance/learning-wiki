@@ -49,3 +49,5 @@ Survey of students in grade 8-11 ELA classrooms that used Ecree during the 2021-
 - [Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year](ecree-improved-writing-quality-especially-less-advanced-writers.md) — related
 - [The Ecree study examined teachers' and students' use of the tool and its impact on student and teacher outcomes during the 2021-2022 school year](ecree-study-examined-use-and-impacts-2021-2022.md) — a broader claim this one bears on
 - [A 2021–2022 study examined teachers' and students' use of MI Write and its impact on student and teacher outcomes](mi-write-study-examined-use-and-impact.md) — related
+- [Some students struggled to use Ecree's and MI Write's automated feedback](some-students-struggled-automated-feedback-use.md) — related
+- [Students rated peer tutoring with the VoicePod as acceptable and helpful for learning vocabulary](social-validity-voicepod-tutoring.md) — related

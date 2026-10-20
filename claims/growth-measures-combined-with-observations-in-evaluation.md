@@ -53,3 +53,4 @@ The fact sheet states growth measures "can be combined with other educator perfo
 - [The most extreme district disparity: District A's high-poverty middle schools had about 1 in 20 highest-performing math teachers versus about 12 in 20 in the lowest-poverty quintile](district-a-extreme-middle-school-math-disparity.md) — related
 - [The reliability of a teacher evaluation system determines the proportion of teachers who can be identified as exceptional](evaluation-reliability-determines-exceptional-teacher-proportion.md) — related
 - The paper compares the reliability of teacher evaluation systems that include value-added with those that do not — related
+- [Alternative student growth measures, especially student learning objectives, were used for many purposes beyond teacher evaluation](slos-used-for-purposes-beyond-evaluation.md) — related

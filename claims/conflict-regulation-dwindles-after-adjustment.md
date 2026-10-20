@@ -46,3 +46,4 @@ Within-subject experiment testing hypothesis 3b: point-biserial rank correlation
 - [Learners request additional information mainly on items where their (adjusted) confidence is low, indicating confidence-based metacognitive regulation](confidence-based-information-requests.md) — related
 - [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](partner-confidence-no-effect-on-change.md) — related
 - [Learners with lower own confidence are more inclined to change their assumption in the face of disagreement](low-own-confidence-drives-assumption-change.md) — related
+- [Learners converge toward an unknown other's assumptions after seeing the other's answers and confidence, reducing the distance between their own and the partner's answers](convergence-toward-others-assumptions.md) — related

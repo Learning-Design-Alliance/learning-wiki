@@ -66,3 +66,5 @@ Open-ended survey response from participant S14 in the survey's open-ended items
 - [Perceived usefulness of AI and intent to continue using it differ significantly across challenge domains, with academic tasks rated most useful](ai-usefulness-differs-across-challenge-domains.md) — related
 - [Interviews confirm students use AI across all four challenge domains throughout the migration timeline, including for academic communication support](interviews-confirm-cross-domain-ai-usage.md) — related
 - [Across all four challenge domains, students' intent to continue using AI significantly exceeds their current satisfaction with it](intent-to-continue-exceeds-satisfaction-all-domains.md) — related
+- [Students rate AI's helpfulness positively overall, with academic challenges receiving the highest usefulness, satisfaction, and intent-to-continue scores](academic-domain-highest-ai-helpfulness-ratings.md) — related
+- [Over three-quarters of international medical students used AI tools at least weekly and reported strong intentions to continue, valuing teacher-AI collaboration](students-regular-ai-use-and-adoption-intent.md) — related

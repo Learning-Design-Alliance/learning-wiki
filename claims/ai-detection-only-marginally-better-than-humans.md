@@ -56,3 +56,5 @@ The article reports, citing Wahle et al. (2022), that detection tools show "only
 - [Blinded review identified 68% of ChatGPT-generated abstracts as chatbot-produced while 14% of authentic abstracts were misclassified as chatbot-generated](chatgpt-abstract-detection-68-14-percent.md) — a narrower finding that bears on this claim
 - [OpenAI's GPT-2 Output Detector distinguished real student essays from ChatGPT-generated essays on the same subjects in a December 2022 trial](gpt2-output-detector-distinguishes-chatgpt-essays.md) — related
 - [Human markers detect purchased contract-cheating assignments at low rates, though priming and authorship-analysis software improve detection](markers-rarely-detect-contract-cheating.md) — related
+- [AI detectors using perplexity disproportionately misclassify non-native English writers, and the mechanism plausibly extends to other low-perplexity writers](perplexity-bias-non-native-english-writers.md) — related
+- [AI-generated text can pass as human-authored in up to 80% of cases, making reliable differentiation a significant challenge](ai-text-passes-as-human-up-to-80-percent.md) — related

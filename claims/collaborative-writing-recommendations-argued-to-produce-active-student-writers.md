@@ -70,3 +70,6 @@ A further predicted benefit stated in the conclusion, with no data and no argume
 - Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing — related
 - [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) — a broader claim this one bears on
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
+- [Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement](collaborative-writing-methods-predate-the-collaborative-learning-movement.md) — related
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
+- [If writing and thinking are forms of conversation, collaborative learning is an extension of social constructionism into the composition classroom](collaborative-learning-is-an-extension-of-social-constructionism-into-composition.md) — a broader claim this one bears on

@@ -47,3 +47,4 @@ In the multi-study SEM, evidence sharing showed no support for paths to diagnost
 - [Evidence elicitation relates positively to diagnostic accuracy and diagnostic efficiency](evidence-elicitation-relates-accuracy-efficiency.md) — related
 - [Hypotheses sharing relates positively to diagnostic justification and diagnostic efficiency](hypotheses-sharing-relates-justification-efficiency.md) — related
 - [Content knowledge is positively related to the quality of evidence elicitation and evidence sharing, but not to hypotheses sharing](content-knowledge-relates-evidence-elicitation-sharing.md) — related
+- [Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)](adaptive-feedback-improves-diagnosis-justification.md) — related

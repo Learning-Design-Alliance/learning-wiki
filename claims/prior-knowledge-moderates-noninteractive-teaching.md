@@ -68,3 +68,5 @@ The review cites Lachner et al. (2020, Experiment 1), Lachner et al. (2021), and
 - [Prior knowledge moderates the effectiveness of erroneous and contrasting erroneous examples, with low-prior-knowledge learners benefiting in several studies but findings contradictory](prior-knowledge-moderates-errex-effectiveness.md) — related
 - [Students' domain-specific self-concept moderates non-interactive teaching: low self-concept students profit, high self-concept students do not](self-concept-moderates-noninteractive-teaching.md) — related
 - [High levels of induced social presence during non-interactive teaching can impair learning relative to restudy (a double-edged sword)](social-presence-double-edged-sword-noninteractive-teaching.md) — related
+- [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related
+- [Teaching expectancy may moderate the non-interactive teaching effect, but this moderation often fails to replicate](teaching-expectancy-moderation-mixed.md) — related

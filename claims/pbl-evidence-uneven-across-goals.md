@@ -49,3 +49,6 @@ The article's review of the empirical evidence base for PBL states that "conside
 - [Collaborative argumentation benefits students' motivation, content learning, domain argumentation, transferable argumentation skills, and knowledge-building practices](collaborative-argumentation-benefits-summary.md) — related
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - [PBL offers potential to help students develop flexible understanding and lifelong learning skills](pbl-potential-flexible-understanding-lifelong-learning.md) — related
+- [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related
+- [Learning through the experience of solving problems can build both content knowledge and thinking strategies](problem-experience-builds-content-and-thinking-strategies.md) — related
+- [Evidence that PBL fosters SDL is mixed across studies](pbl-fosters-sdl-mixed-evidence.md) — related

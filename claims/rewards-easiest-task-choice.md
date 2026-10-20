@@ -43,4 +43,7 @@ The digest reports that "people offered a reward generally choose the easiest po
 
 
 ## Related Claims
--
+- [Rewards cause people to lose interest in whatever they were rewarded for doing, undermining intrinsic motivation](rewards-undermine-intrinsic-interest.md) — related
+- [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](extrinsic-rewards-deplete-intrinsic-motivation.md) — related
+- [People expecting a reward for a task perform worse than those expecting nothing, especially on tasks requiring cognitive sophistication and open-ended thinking](rewards-reduce-task-performance.md) — related
+- [Behavior modification programs relying on rewards rarely produce lasting changes in attitudes or behavior, and children whose parents frequently use rewards tend to be less generous](rewards-fail-lasting-change-values.md) — related

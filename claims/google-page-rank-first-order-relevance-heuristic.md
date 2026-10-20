@@ -43,4 +43,6 @@ Qualitative field study of students' search and assessment practices in two high
 
 
 ## Related Claims
--
+- [Youth engaged free-choice learning heuristics in everyday problem-solving but typically skipped the assess phase](youth-skip-assess-phase-free-choice-heuristics.md) — related
+- [Students often adopt AI-generated solutions quickly, bypassing the effortful meaning-making that constructivist learning requires](ai-answers-bypass-effortful-meaning-making.md) — a broader claim this one bears on
+- [Changing the default order in which schools are presented induces meaningful changes in the types of schools low-income parents choose](default-order-changes-school-choice.md) — related

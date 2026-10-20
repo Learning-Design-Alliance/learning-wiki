@@ -49,3 +49,4 @@ Three-level meta-analysis of 17 effect sizes from five studies on self-regulated
 - [Using rubrics has a positive, moderate effect on students' academic performance (corrected g = 0.45; standardized mean change = 0.38)](rubrics-moderate-positive-effect-academic-performance.md) — related
 - [Rubric use has a small positive effect on students' self-efficacy (g = 0.18), based on only four studies](rubrics-small-effect-self-efficacy.md) — related
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
+- [Most moderator variables are not significantly related to rubric effects on academic performance, including rubric design specifics](rubric-moderators-mostly-non-significant.md) — related

@@ -45,3 +45,4 @@ One-way ANOVA with latent profile classification as the independent variable. Me
 - [Latent career adapt-abilities profiles differ in AI anxiety, with the low group most anxious and the high group least anxious](profiles-differ-ai-anxiety-low-group-highest.md) — related
 - [Career adapt-abilities significantly and negatively predict AI anxiety among English majors](career-adapt-abilities-negatively-predict-ai-anxiety-english-majors.md) — related
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related
+- [At Time 3, profile membership was significantly associated with Japanese learning self-efficacy and learning burnout, with all three profiles differing pairwise](profiles-predict-self-efficacy-and-burnout.md) — related

@@ -50,3 +50,5 @@ The editorial reports a four-session study of shared regulation in small groups 
 - [A collaborative script embedding solitary reading between planning and review episodes shaped a group's regulative activity, but only low-level regulation](script-planning-review-shaped-low-level-regulation.md) — possibly the same claim (merge candidate)
 - [Shared and co-constructed intra-group interaction were significantly correlated with deep-level metacognitive activities during pre-task regulation](shared-coconstructed-interaction-correlated-deep-level.md) — related
 - [Regulation tools for collaboration are very rare in educational VRLs, identified in only 8 laboratories, mostly supporting regulation by teachers](regulation-tools-very-rare-vrls.md)
+- [Across the special issue, all four levels of coupling minds correlate with task performance](all-four-levels-coupling-correlate-task-performance.md) — related
+- [Approximately half of students' analysed texts showed collaborative learning meeting co-regulation and co-construction descriptors](half-of-texts-showed-collaborative-learning.md) — related

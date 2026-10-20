@@ -67,3 +67,5 @@ Correlational analysis of the same survey sample. AI-assisted autonomous learnin
 - [Hardiness is negatively associated with reduced academic accomplishment](hardiness-negative-reduced-accomplishment.md) — possibly the same claim (merge candidate)
 - [Academic burnout is widespread among secondary vocational students](academic-burnout-widespread-vocational-students.md) — related
 - [Educators report affective costs of AI-related grading, including derealisation, exhaustion, and burnout](educator-affective-toll-ai-grading.md) — related
+- [Exhaustion is significantly negatively related to academic achievement (rc+ = −.15)](exhaustion-negative-achievement.md) — related
+- [Reduced efficacy shows the largest negative correlation with academic achievement (rc+ = −.39)](reduced-efficacy-largest-negative-achievement.md) — related

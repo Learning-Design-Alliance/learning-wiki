@@ -47,3 +47,5 @@ Paired-sample t-test on 64 upper elementary students' situated self-reports acro
 - [Improved post-task understanding, higher task difficulty ratings and higher physiological arousal predict better learning outcomes](arousal-and-task-perceptions-predict-learning-outcomes.md)
 - [Physiological arousal is higher in sessions where the task is perceived as less difficult at the end](higher-eda-when-task-perceived-easier-at-end.md)
 - [Higher task difficulty ratings before and after collaborative tasks predict higher physiological arousal, while task understanding does not](task-difficulty-predicts-physiological-arousal.md)
+- [Students' task understanding confidence increases after collaborative tasks](task-understanding-increases-after-collaborative-task.md) — related
+- [Prior knowledge and intervention condition predict repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult](prior-knowledge-and-prompting-moderate-load-and-interest.md) — related

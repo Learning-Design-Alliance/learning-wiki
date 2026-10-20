@@ -87,3 +87,8 @@ The review reports, citing Renkl, a study of qualitative differences in college 
 - [The assisting self-explanation prompt effect: assisting prompts elicit high-quality self-explanations and deep understanding](assisting-self-explanation-prompt-effect.md) — related
 - [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
 - [Self-explaining worked examples improve declarative knowledge of CDR strategies more than solving problems](worked-examples-improve-cdr-declarative-knowledge.md) — related
+- [Students using a worked-example revised probability textbook improved more in probabilistic reasoning than students using the standard textbook](worked-example-textbook-improves-probability-learning.md) — a narrower finding that bears on this claim
+- [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — a narrower finding that bears on this claim
+- [Prompting self-explanation in a physics electricity unit led to accelerated future learning in a subsequent magnetism unit](self-explanation-accelerated-future-learning-physics.md) — related
+- [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems](subgoal-labels-worked-examples-transfer.md) — related
+- [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](worked-example-self-explanation-journal-transfer.md) — related

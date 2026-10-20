@@ -47,3 +47,5 @@ Comparison using a national database of ACT takers who retested between October 
 - [Commercial SAT preparation courses showed no statistically significant effect on SAT scores in a national propensity-score-matched sample (Domingue & Briggs, 2009)](commercial-sat-prep-no-significant-effect-domingue-briggs.md) — related
 - [Two computerized SAT coaching programs showed no statistically significant effect on SAT scores (McClain, 1999)](computerized-sat-coaching-no-effect-mcclain.md) — related
 - [Embedding test-taking strategies and ACT practice items in algebra improved practice ACT mathematics scores (McMann, 1994; effect size 0.34)](algebra-embedded-act-strategies-improve-math-mcmann.md) — reports the opposite
+- [A school SAT preparation course improved SAT scores at one Texas school (Filizola, 2008; domain average effect size 0.28), driven by the mathematics subtest](sat-prep-course-texas-improves-sat-filizola.md) — reports the opposite
+- [A 6-week computerized Latin and Greek root-word program improved SAT verbal scores (Holmes & Keffer, 1995; effect size 0.49)](root-word-computer-program-improves-sat-verbal-holmes-keffer.md) — related

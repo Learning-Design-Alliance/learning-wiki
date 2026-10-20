@@ -51,3 +51,5 @@ Engagement results of the same within-subjects user study (N=14). The article st
 - [SupplyNet fostered a reciprocal relationship between engagement and learning support operating through two pathways: engagement leading to learning and learning itself becoming engaging.](reciprocal-engagement-learning-dual-pathway.md) — related
 - [Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset](ai-tutor-engagement-motivation-higher.md) — related
 - [In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
+- [SupplyNet was rated significantly higher than the Beer Game baseline on learning support (p<0.01), including connecting decisions to performance.](supplynet-higher-learning-support-than-baseline.md) — related
+- [Immersion significantly moderated within-subject effects, but the estimate rests on very few effect sizes and should be read as exploratory](immersion-within-subject-moderator-exploratory.md) — related

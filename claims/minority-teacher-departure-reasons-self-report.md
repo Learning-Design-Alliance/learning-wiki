@@ -67,3 +67,4 @@ Same TFS self-report data (Figure 5): dissatisfaction and job/career pursuits to
 - [Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay](working-conditions-drive-teacher-exit-decisions.md) — related
 - Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools — related
 - [Retirement accounts for only a small portion of total teacher turnover](retirement-small-portion-of-teacher-turnover.md) — related
+- [Teachers with high job and workplace satisfaction have less than half the predicted turnover of teachers with low satisfaction (8.0% vs. 22.0%)](job-satisfaction-associated-with-lower-turnover.md) — related

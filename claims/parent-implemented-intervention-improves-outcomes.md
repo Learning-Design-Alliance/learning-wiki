@@ -113,3 +113,6 @@ Open questions for future enrichment: whether parent-delivered and professional-
 - [Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect](book-sharing-dosage-moderates-language-outcomes.md) — related
 - [Group-based delivery is associated with more improvement in child language than individually delivered interventions](book-sharing-group-delivery-better-than-individual.md) — related
 - [A meta-analysis of 20 studies found a large effect (Hedges' g = 0.871) for CTA use in training design](cta-training-design-meta-analysis-large-effect.md) — related
+- [Aided AAC interventions had large effects on targeted behavioral outcomes in individuals with ASD, per a meta-analysis of 24 single-case studies](aided-aac-large-effects-asd-single-case-meta-analysis.md) — related
+- [AAC interventions showed positive effects on all targeted behavioral outcomes, with greater effects for communication skills than other skill categories](aac-positive-all-outcomes-communication-skills-greater.md) — related
+- [PECS and speech-generating devices produced larger effects than other picture-based AAC systems, which nonetheless showed small effects](pecs-sgd-larger-than-other-picture-based-systems.md) — related

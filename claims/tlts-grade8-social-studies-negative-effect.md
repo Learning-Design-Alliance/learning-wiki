@@ -46,3 +46,4 @@ RCT finding for the grade-8-only social studies assessment. The report states TL
 - [After two years, TLTS raised student ELA achievement by 0.05 standard deviations relative to comparison schools](tlts-two-year-ela-effect-005-sd.md) — related
 - [After two years, TLTS raised student math achievement by 0.09 standard deviations relative to comparison schools](tlts-two-year-math-effect-009-sd.md) — related
 - [TLTS showed no detectable effect on science achievement after two years](tlts-no-detectable-science-effect.md) — related
+- [TNTP achieved fidelity for TLTS's two key program components across Cohorts 2 and 3](tlts-fidelity-two-key-components.md) — related

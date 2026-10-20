@@ -43,4 +43,6 @@ Qualitative observation from the case study. During initial testing Josh could n
 
 
 ## Related Claims
--
+- [After introduction, the student used the INSERT text-marking strategy consistently and independently, suggesting transfer](insert-strategy-independent-use-transfer-case.md) — related
+- [Recording and listening to his own read-alouds helped the student read more accurately and comprehend more than following a teacher's read-aloud](self-recorded-reading-playback-improved-accuracy-case.md) — related
+- [A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring](ipad-tutoring-one-grade-level-growth-six-weeks-adhd-case.md) — related

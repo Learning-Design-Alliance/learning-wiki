@@ -42,3 +42,6 @@ A district-lead statement reported in the Irving ISD case narrative: 56% of educ
 
 ## Related Claims
 - As of mid-2017 the Digital Promise micro-credential ecosystem had drawn over 5,000 submissions from educators in approximately 550 districts, with about 55 percent of portfolio submitters awarded a micro-credential — related
+- [Targeted recruitment of teacher leaders is associated with candidates more likely to become and remain principals](targeted-principal-candidate-recruitment-outcomes.md) — related
+- [All six studied high-certification districts partner with at least one teacher residency program and at least one Grow Your Own program](district-pipeline-partnerships-residency-gyo.md) — related
+- [Teachers prefer professional learning led by their colleagues over training from outside consultants](teachers-prefer-colleague-led-professional-learning.md) — related

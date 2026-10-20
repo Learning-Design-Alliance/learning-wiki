@@ -50,3 +50,4 @@ Experiment 3 with 30 college students removed the blank periods between sequenti
 - [Lengthening consolidation time in the simultaneous condition reduces forgetting to a rate comparable to sequential presentation (Experiment 4)](lengthened-consolidation-reduces-forgetting-exp4.md) — related
 - [Time-based forgetting occurs across presentation methods, with rate determined by consolidation time](time-based-forgetting-occurs-regardless-of-presentation-method.md) — a broader claim this one bears on
 - [Sequential presentation of memory items produces less time-based forgetting than simultaneous presentation (Experiment 1)](sequential-presentation-less-forgetting-than-simultaneous.md) — related
+- [Presentation format (sequential vs. simultaneous) does not reliably affect EOL accuracy](presentation-format-no-effect-on-eol-accuracy.md) — related

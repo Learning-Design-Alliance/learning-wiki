@@ -43,4 +43,5 @@ Pattern identified by Hod and Sagy's review across the articles they coded with 
 
 
 ## Related Claims
--
+- [No significant difference between virtual simulation and authentic video on the basic observation dimension of assignments](vs-av-no-difference-observation-dimension.md) — related
+- [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — related

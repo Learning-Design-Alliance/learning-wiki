@@ -83,3 +83,4 @@ Table 3 results for ECKT under causal rectification. The authors attribute ECKT'
 ## Related Claims
 - [Code-DKT's attention softmax applied across the temporal dimension (dim=1) is causally invalid and inflates reported performance; rectifying it to the path dimension (dim=2) removes the artificial gain](pkt-attention-softmax-dimension-causal-flaw.md) — related
 - [Task-specific hyperparameter optimization substantially raises baseline DKT performance, indicating prior DKT-vs-PKT gaps partly reflect insufficient baseline tuning](task-specific-hyperparameter-tuning-raises-dkt-baseline.md) — related
+- [Failing to sort student attempt sequences by ServerTimestamp violates temporal causality and can systematically overestimate PKT model performance](pkt-temporal-causality-violation-inflates-performance.md) — related

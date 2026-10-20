@@ -67,3 +67,6 @@ Student interview describing a communication-course professor whose conflict han
 - [Prison college participation was reported to increase institutional cohesion, including among non-participating incarcerated women](prison-college-institutional-cohesion.md) — related
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Formerly incarcerated women students reported improved disciplinary behavior while participating in a prison college program](prison-college-reduced-disciplinary-behavior-women.md) — related
+- [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — related
+- [Participants reported that diverse perspectives raised new questions and affirmed educator contributions](participant-feedback-diverse-perspectives.md) — related
+- [Prison higher education alone was reported as insufficient for post-release employment, with criminal-record and reentry barriers persisting](prison-college-limited-employment-benefits.md) — related

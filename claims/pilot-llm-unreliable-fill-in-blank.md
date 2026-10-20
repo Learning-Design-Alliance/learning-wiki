@@ -47,3 +47,5 @@ Observation from the pilot workshop (n=7) interaction logs and screen recordings
 - [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](auto-updates-drew-users-from-explanations.md) — related
 - [ChatGPT produced executed, grader-accepted submissions for all three fixed personalized Qiskit assignment instances in 150 of 150 sessions](chatgpt-completes-all-150-qiskit-homework-sessions.md) — related
 - [Constituting AI as a critical file that returns questions instead of revisions is a design requirement for sustaining productive struggle](ai-as-critical-file-design.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
+- [Across approximately 400 workshop participants, learners report that hands-on n-gram activities build a new mental model of LLMs as probabilistic next-word generation at scale](unplugged-ngram-activities-demystify-llms.md) — related

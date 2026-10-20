@@ -48,3 +48,4 @@ Program documentation brief reporting Project Cal-Well training counts at SCOE. 
 - [Cohort 2 partners trained more than 155,000 Californians outside the mental health workforce and nearly 25,000 within it in identifying and addressing student mental health needs](cal-well-trained-155000-nonworkforce-25000-workforce.md) — a broader claim this one bears on
 - [SCOE supported 3,000 educators in almost 200 schools in receiving SEL training through RULER since 2019](scoe-3000-educators-ruler-sel-training.md) — related
 - [Through Project Cal-Well, SCOE established or renewed 70 community partnerships to improve school-based mental health services](scoe-70-community-partnerships.md) — related
+- [The NAMI On Campus initiative in Stanislaus County grew from a couple of campuses to 20 high schools, 6 middle schools, and 1 university club with more than 500 mental health champions](nami-club-network-growth-stanislaus.md) — related

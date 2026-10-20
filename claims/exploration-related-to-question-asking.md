@@ -47,3 +47,5 @@ The review reports, citing Endsley and colleagues (1979), observations of 5-year
 - [About 61% of observed in-class student behavior was actively seeking knowledge or asking questions](majority-student-activity-questioning.md) — related
 - [Explicit training in constraint-seeking questions showed only moderate, non-generalizing benefits, whereas prompting explanation supports better question asking](question-asking-interventions-mixed-success.md) — related
 - [Stress-exposed adolescents fail to follow the optimal exploratory strategy of initial indiscriminate responding](early-stress-reduced-exploration-learning-task.md) — related
+- [Eleven-month-old infants who see a core knowledge violation preferentially explore the violating object over a novel distractor](infants-explore-core-knowledge-violating-objects.md) — related
+- [Children aged 7 to 10 adapt their question-asking strategy to the likelihood distribution of hypotheses as promptly as adults](children-adapt-questions-to-distribution.md) — related

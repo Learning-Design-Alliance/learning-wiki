@@ -47,3 +47,6 @@ Theoretical argument in Section 3.3 of the position paper: the authors argue, wi
 - [Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay](podcast-retention-divergence-massed-vs-distributed.md) — related
 - [Topic-wise gains were heterogeneous, with some topics showing no meaningful change](podcast-topic-wise-gain-heterogeneity.md) — related
 - [Punishment for unfair play depends on perceived agency and responsibility, not only on monetary outcome](agency-responsibility-altruistic-punishment.md) — related
+- [Students report that GenAI creates an uneven playing field in assessment, favoring students who use it over those who work independently](genai-uneven-playing-field-assessment-fairness.md) — related
+- [Time spent getting to know each other paradoxically amplifies perceived group heterogeneity in first-language heterogeneous CSCL groups](getting-to-know-time-increases-perceived-heterogeneity.md) — related
+- [Initial-phase task-related communication moderates the negative relationship between first-language heterogeneity and self-efficacy gains, while getting-to-know-each-other time does not](task-related-communication-moderates-heterogeneity-self-efficacy-effect.md) — related

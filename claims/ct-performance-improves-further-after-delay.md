@@ -62,4 +62,7 @@ Exploratory 2x4 mixed ANOVA on transfer items (N = 82) showed a main effect of T
 
 
 ## Related Claims
--
+- [Explicit CT instruction combined with practice improves students' unbiased reasoning on instructed and practiced heuristics-and-biases items from pretest to immediate posttest](ct-instruction-practice-improves-unbiased-reasoning.md) — related
+- [Contrasting examples, correct examples, erroneous examples, and practice problems produced no differences in learning gains or transfer of unbiased-reasoning skills](no-condition-differences-ct-practice-formats.md) — related
+- [On a delayed assessment 1 to 3 months later, many students transferred their appreciation of variation to another context and could explain the meaning of variation](delayed-assessment-variation-transfer.md) — related
+- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related

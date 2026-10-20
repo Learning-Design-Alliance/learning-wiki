@@ -58,3 +58,9 @@ The article describes Figure 1, UChicago Consortium trend data on two indicators
 - [Few schools used 5Essentials data for improvement, citing opaque data, principal-focused measures, and lack of district-wide strategy](few-schools-use-5essentials-data-improvement.md) — reports the opposite
 - [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — related
 - [Educational reform's progress depends on teachers' individual and collective capacity and its link with school-wide capacity for promoting pupils' learning](reform-progress-depends-on-teacher-and-school-capacity.md) — related
+- [Schools with many unrelated and unsustained initiatives show smaller gains than schools with coherent programs](instructional-program-coherence-smaller-gains.md) — related
+- [Strong instructional program coherence is uncommon among Chicago elementary schools](strong-coherence-uncommon-chicago-schools.md) — related
+- [Survey data came primarily from teacher and student surveys conducted in 1994, with school counts varying by measure and wave](survey-waves-1994-primary-school-counts-vary.md) — related
+- [High school teachers are substantially less positive than elementary school teachers about recent changes, reform impact, and local school leadership](high-school-teachers-less-positive-than-elementary.md) — reports the opposite
+- [Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)](leadership-instruction-within-schools-program-quality.md) — related
+- [A district case study identifies practices and conditions of a coherent instructional system for reading and science improvement and where it had the most impact](coherent-instructional-system-case-study-impact.md) — related

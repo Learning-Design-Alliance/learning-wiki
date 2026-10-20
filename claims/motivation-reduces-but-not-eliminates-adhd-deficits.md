@@ -65,3 +65,6 @@ Simple main effects under increased motivation in the same study; the multitaski
 
 - [Omission (no response) errors vary with age but not with reading skill](no-response-errors-age-not-reading-skill.md) — related
 - [The motivation manipulation improved attention performance in children with ADHD but did not change TD children's performance](motivation-improves-adhd-not-td-performance.md)
+- [Under normal conditions children with ADHD show deficits in vigilance, visual search and divided attention relative to TD children](adhd-attention-deficits-normal-conditions.md) — related
+- [Increasing extrinsic motivation via reward and competition interacts with group membership in reducing attention-task differences between children with ADHD and TD children](motivation-group-interaction-attention-adhd.md) — a broader claim this one bears on
+- [Omission and commission errors in n-back tasks have different correlates and may represent different processes](nback-omission-commission-different-correlates.md) — related

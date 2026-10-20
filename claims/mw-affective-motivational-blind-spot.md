@@ -47,3 +47,4 @@ The review's synthesis of 134 studies found "affective and motivational processe
 - [Among 134 reviewed studies, a significant number examined mind wandering alongside cognitive and metacognitive SRL processes, predominantly using self-report measures](mw-studies-cognitive-metacognitive-self-report.md) — related
 - [Mind wandering can both prompt SRL and function as a regulatory strategy, and multimodal machine-learning sensing offers scalable assessment of attentive states](mind-wandering-dual-role-srl-regulatory-strategy.md) — related
 - [An equal number of reviewed studies measured mind wandering unobtrusively via multimodal data streams, with 27% using machine learning](mw-multimodal-unobtrusive-27-percent-ml.md) — related
+- [AI's direct impact on SRL concentrates on metacognitive and cognitive aspects while motivation remains underexplored](ai-srl-impact-metacognitive-cognitive-motivation-underexplored.md) — related

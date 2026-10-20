@@ -44,3 +44,4 @@ Descriptive statement from the publication's own overview of the checklist resou
 
 ## Related Claims
 - Phase 2 of the M&E Checklist aims to develop descriptive evidence that a refined solution was successfully implemented in the priority community — a narrower finding that bears on this claim
+- [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](inclusive-innovation-sustainability-factors.md) — related

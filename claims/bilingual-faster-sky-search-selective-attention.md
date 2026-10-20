@@ -43,3 +43,6 @@ Review narrative of the Results section on attention (n = 11 studies): three stu
 ## Related Claims
 
 - [The bilingual effect tends to emerge in more complex experimental tasks with higher control demands](task-complexity-moderates-bilingual-effect.md)
+- [Monolingual and bilingual children perform the dichotic comprehension task equivalently, with both groups finding English–English interference hardest](equivalent-comprehension-monolingual-bilingual-children.md) — related
+- [Bilingual children perform worse than monolinguals on attention tasks with verbal stimuli but not non-verbal ones](verbal-stimuli-bilingual-worse-attention-tasks.md) — related
+- [Bilingual children show faster trail-making B performance, while Indian bilinguals are faster on Trails A and monolinguals score higher on receptive vocabulary](background-measures-vocabulary-and-trail-making-group-differences.md) — related

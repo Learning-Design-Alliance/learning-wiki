@@ -51,3 +51,4 @@ The review reports, citing Jenifer et al. (2023), a correlational gender differe
 - [Brilliance cues reduce stigmatized students' interest and intrinsic motivation, with effects emerging by age 6–7 and persisting into adulthood](brilliance-cues-reduce-intrinsic-motivation.md) — related
 - [Field-specific ability beliefs are consensual cultural beliefs, acquired by early elementary school, that associate brilliance with fields like math more than language fields](fabs-consensual-early-acquired.md) — related
 - [Brilliance stereotypes associating brilliance with boys, higher-SES, and White children emerge by age 6](brilliance-stereotypes-emerge-by-age-six.md) — related
+- [The more girls endorse gender-interest stereotypes favoring boys, the lower their own interest in computer science and engineering, and interest stereotypes predict girls' interest more strongly than ability stereotypes](gender-interest-stereotypes-predict-girls-lower-interest.md) — related

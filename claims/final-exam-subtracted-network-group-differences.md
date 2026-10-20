@@ -50,3 +50,4 @@ Subtracted epistemic network (Figure 11) for final-exam performance groups using
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [Students in the flipped classroom most often used the preparing and revisiting time management modes together with the summative assessment learning strategy](flipped-classroom-preparing-revisiting-summative-most-used.md) — related
 - [Low performers completed activities on time for fewer topics and showed less catching-up only in early topics, while high performers showed no catching-up on later topics](topic-level-time-management-group-differences.md) — related
+- [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](ena-cognitive-network-ct-groups.md) — related

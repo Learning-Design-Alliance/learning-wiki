@@ -44,3 +44,4 @@ The author's finding statement from the ethnographic study. The Grade 4 curricul
 
 ## Related Claims
 - [Students positioned as leaders thickened an “agents of change” identity by using surveys, data, and graphs to convince others, including teachers](agents-of-change-identity-thickened-through-data-mobilization.md) — related
+- [Students felt short-changed by classrooms over-emphasizing basic operations and withholding advanced mathematics](students-shortchanged-advanced-math.md) — related

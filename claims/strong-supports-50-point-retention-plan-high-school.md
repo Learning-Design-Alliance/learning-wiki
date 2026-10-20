@@ -49,3 +49,5 @@ Survey analysis of novice CPS teachers linking strong versus weak levels of non-
 - [Comprehensive teacher induction did not measurably increase the percentage of teachers remaining in their district or in the profession compared to business-as-usual induction](comprehensive-induction-no-retention-gains-year-two.md) — reports the opposite
 - Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader — related
 - [Comprehensive induction supports keep new teachers in teaching at more than twice the rate of unsupported novices](comprehensive-induction-doubles-novice-retention.md) — related
+- [The article documents the typical induction support provided to first-year elementary school teachers in urban districts around the country.](portrait-first-year-urban-teacher-induction-support.md) — related
+- [New teachers who receive little mentoring are twice as likely to leave the classroom as well-mentored beginners](mentoring-halves-new-teacher-attrition.md) — related

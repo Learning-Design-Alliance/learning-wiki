@@ -50,3 +50,4 @@ Numerical result of the generate-then-refine UI generation phase, given validate
 - [Beam search-based self-refinement improves simulated solution alignment with predicted student behavior](beam-search-self-refinement-improves-solution-simulation.md) — related
 - [Refinement gains stabilize or decline beyond three iterations, and beam-size gains become negligible beyond two samples](refinement-iterations-and-beam-size-tuning-results.md) — related
 - [Student participation in validating and iteratively refining AI-generated simulations promotes physics understanding and problem-solving skills](student-validation-of-ai-simulations-promotes-understanding.md) — related
+- [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues](photon-fusion-sus-good-but-variable-usability.md) — related

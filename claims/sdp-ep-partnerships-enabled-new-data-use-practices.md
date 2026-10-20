@@ -52,3 +52,4 @@ Key finding from the Year 2 descriptive implementation study, based on longitudi
 - [The SEED Partnership Project developed three-year partnerships between national non-profits implementing evidence-based educator-preparation strategies and educational organizations seeking to apply lessons from that work](seed-partnership-project-knowledge-sharing-partnerships.md) — related
 - [Expert evaluation refined the draft heuristics around language clarity, usability-accessibility separation, and meaningful data interpretation](expert-evaluation-refined-lxd-heuristics-two-rounds.md) — related
 - [Officials report the new framework's transparency and annual dashboards reduced surprise and stress and enabled focus on continuous improvement](ri-charter-dashboards-reduced-surprise-stress.md) — related
+- [SDP and EP partner agencies began working with the programs during the study's first year (2012–2013)](sdp-ep-year1-agencies-began-partnership.md) — related

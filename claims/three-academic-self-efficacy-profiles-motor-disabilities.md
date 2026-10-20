@@ -47,3 +47,6 @@ Latent Profile Analysis on standardized scores of 102 students with motor disabi
 - [Latent profile analysis identifies three career adapt-abilities subgroups (low, moderate, high) among English majors](three-career-adapt-abilities-latent-profiles-english-majors.md) — related
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related
 - [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related
+- [In SEM, all three self-efficacy dimensions are positively associated with AI use, with Excellence strongest (β = .47), followed by Communication (β = .31) and Attention (β = .22); the model explains 43% of variance](sem-self-efficacy-dimensions-ai-use-associations.md) — related
+- [Self-efficacy profiles differ in AI use for informational support (η² = .28) and emotional support (η² = .18)](informational-emotional-support-ai-use-profile-differences.md) — related
+- [Higher academic self-efficacy profiles report greater overall academic AI use, with a large effect (η² = .36)](higher-self-efficacy-profiles-greater-ai-use.md) — related

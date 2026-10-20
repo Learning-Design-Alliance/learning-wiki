@@ -47,3 +47,5 @@ A 162-configuration replication on the ML exam (1,038 students, ≈65-point scal
 - [A short strict-grader preamble knocks 14 of 17 open-weights LLM graders out of the graded band on a computer-vision exam, with three stopping grading outright](llm-grader-strict-persona-collapse.md) — related
 - [The strict-persona collapse is attributed to the preamble's two credit-withholding policy sentences, not its harsh tone, with S2 alone causing refusal in two models](strict-preamble-policy-sentence-attribution.md) — related
 - [One LoRA adapter fine-tuned on the two exams' pooled ~3,900 dual-graded examples brings five small open models to parity or better with a human grader and makes them insensitive to harsh personas](lora-finetuning-llm-grader-parity.md) — related
+- [Graded Exemplars Shift an LLM Grader by the Level They Are Marked At](graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at.md) — related
+- [Peers slightly under-mark their comrades' papers while self-assessors over-mark their own](peers-undermark-self-assessors-overmark.md) — related

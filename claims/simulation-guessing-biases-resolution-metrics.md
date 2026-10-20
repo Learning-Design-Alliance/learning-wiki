@@ -47,3 +47,4 @@ Monte Carlo simulation (20,000 items per hypothetical participant, 200 replicati
 - [Mathematics performance is positively correlated with metacognitive resolution in multiple-choice testing across six experiments](mc-resolution-performance-positive-correlation.md) — related
 - [Observed performance-resolution slopes in the mathematics data were not greater than those produced by guessing in simulation](observed-slopes-not-greater-than-simulated.md) — related
 - [Resolution metrics are smaller in 2AFC than in free-response testing despite presumably equal knowledge](resolution-smaller-2afc-than-free-response.md) — related
+- [Performance-resolution correlation is significant in 2AFC but much smaller and mostly non-significant in free-response testing](resolution-performance-correlation-2afc-not-free-response.md) — related

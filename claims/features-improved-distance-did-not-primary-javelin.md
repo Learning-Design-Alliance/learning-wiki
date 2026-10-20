@@ -67,3 +67,5 @@ Omnibus repeated measures ANCOVA across all three conditions found no significan
 - [Adding a practice phase after instruction (PS-I + P) did not improve javelin throwing performance over PS-I alone](additional-practice-no-effect-primary-javelin.md)
 - [In primary school children learning javelin throwing, PS-I did not outperform I-PS on throwing distance or movement-feature execution](ps-i-no-advantage-primary-motor-learning.md)
 - [PS-I effects did not replicate in all domains: null sequence effects in Bayesian reasoning, javelin throwing, and inquiry-skill sequencing](ps-i-null-results-new-domains.md)
+- [Movement-feature performance predicted javelin throwing distance, with the bracing step contributing most](movement-features-predict-throwing-distance.md) — related
+- [Working memory capacity did not moderate learning gains in PS-I and I-PS, but digit recall correlated with declarative knowledge of the features](working-memory-no-moderation-correlated-declarative.md) — related

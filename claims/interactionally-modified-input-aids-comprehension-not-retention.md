@@ -51,3 +51,4 @@ The review reports Loschky's (1989) three-group study of L2 Japanese beginner le
 - There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested — related
 - [Differences in moment-to-moment comprehension do not correlate with gains in vocabulary recognition or acquisition of Japanese locative structures](no-comprehension-acquisition-correlation.md) — related
 - [All three input/interaction conditions produced significant gains in vocabulary recognition and acquisition of Japanese locative structures](significant-gains-all-three-input-conditions.md) — related
+- [Negotiated interaction yields higher moment-to-moment comprehension of L2 input than either noninteraction condition, which do not differ from each other](negotiated-interaction-highest-momentary-comprehension.md) — related

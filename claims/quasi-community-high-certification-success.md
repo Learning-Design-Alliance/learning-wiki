@@ -47,3 +47,4 @@ Outcome reported from the ethnographic case study of the eight-week, 120-hour co
 - [Early realization of a shared object/motive bonds adult course participants into a quasi-community](quasi-community-shared-object-motive.md)
 - [Turn-taking test review makes each member's expertise visible, enabling peers to locate and draw on community knowledge](test-review-brings-expertise-to-open.md)
 - [Ungraded practice tests function as a legitimate mediating practice that empowers learners and redefines the instructor's authority](ungraded-tests-mediating-practice.md)
+- [Storytelling from work experience serves as a key vehicle of knowledge production and communication in adult classroom quasi-communities](quasi-community-storytelling-knowledge.md) — related

@@ -49,3 +49,4 @@ Review-level statement from the article's abstract: the theory's architectural a
 - [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems](subgoal-labels-worked-examples-transfer.md) — a narrower finding that bears on this claim
 - [Designing learning activities corresponding to germane load has always required methods and techniques external to cognitive load theory](germane-load-activities-require-external-methods.md) — related
 - [Among references cited by Instructional Science publications, Cohen's 1988 Statistical Power Analysis (66 citations) and Sweller's 1998 cognitive load theory article are the most referenced works](most-cited-references-cohen-sweller-cognitive-load.md) — related
+- [Cognitive load theory has generated a variety of novel instructional procedures for presenting information](clt-generated-novel-instructional-procedures.md) — possibly the same claim (merge candidate)

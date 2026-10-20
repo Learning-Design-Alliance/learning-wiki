@@ -45,3 +45,7 @@ Meta-analysis of 51 contrasts (28 purely online, 23 blended per the report's spl
 ## Related Claims
 - [In the narrative synthesis, blended and purely online conditions within a single study generally produced similar learning outcomes, and media elements such as video or online quizzes did not appear to influence learning.](narrative-synthesis-variants-of-online-learning.md) — related
 - [Students in online learning conditions performed better on average than those receiving face-to-face instruction (mean effect size +0.24, p < .01, across 51 contrasts).](online-outperforms-face-to-face-meta-analysis.md) — a broader claim this one bears on
+- [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — possibly the same claim (merge candidate)
+- [Studies in which online learners spent more time on task than face-to-face learners showed a greater benefit for online learning (+0.46 vs. +0.19; Q = 3.88, p < .05).](time-on-task-moderates-online-advantage.md) — related
+- [Of 13 online learning practice variables examined, only use of a blended approach and expanded time on task significantly influenced effectiveness; the other 11 did not.](eleven-of-thirteen-practice-variables-nonsignificant.md) — related
+- [Effect sizes were larger in studies where online and face-to-face conditions differed in curriculum materials and instructional approach (+0.42) than where curriculum and instruction were nearly identical (+0.20; Q = 5.40, p < .05).](curriculum-equivalence-moderates-effect-size.md) — related

@@ -50,3 +50,5 @@ Ensemble evaluation in Sec. 5.3 comparing pedagogy-expertise-weighted ensembles 
 - Majority-vote ensembling across three runs produced only modest accuracy gains (1% to 5%) with no model showing degradation — reports the opposite
 - [Ensembles of operational raters outperform the LLMs: two raters suffice on average across aspects, but larger ensembles are needed for individual aspects](rater-ensembles-outperform-llms-feedback.md) — related
 - [Current GenAI tools are not designed to support active learning and their apparent domain expertise is brittle](genai-tools-not-designed-for-active-learning.md) — related
+- [Model self-confidence, weighted probabilistic scoring, and ensemble modeling each significantly improve LLM-based divergent thinking scoring, raising correlation with human judges from r = 0.781 to r = 0.823](llm-scoring-three-techniques-raise-human-judge-correlation.md) — related
+- [Coaching effects on instruction and achievement are positively correlated, but large instructional improvements are needed for modest achievement gains](instruction-achievement-weak-link-coaching.md) — related

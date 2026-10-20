@@ -48,3 +48,5 @@ Descriptive account of external spread in the Key Learnings section: "The spread
 - An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems — related
 - [Time constraints, limited capacity, funder expectations, and communication gaps were the most consistent barriers to participation, offset by recurring structures, relational trust, actionable data, and networked channels](barriers-and-supports-shaping-participation.md) — related
 - League district leaders rated professional development highly and reported extensive peer networking and best-practice sharing — related
+- [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](principal-networks-professional-learning-communities.md) — related
+- [Several collaboration activities show promise in spreading effective practices across schools and staff, but overall progress in increasing collaboration has been limited](district-charter-collaboration-progress-limited-despite-promising-activities.md) — related

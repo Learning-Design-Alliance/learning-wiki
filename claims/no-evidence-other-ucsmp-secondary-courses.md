@@ -54,3 +54,4 @@ Systematic review finding: of 12 eligible studies, only three met WWC group desi
 - Meeting the WWC attrition standard is now an important consideration for researchers whose studies may be reviewed by federal evidence reviews — related
 - [Educators can more effectively engage with researchers to advance practice by using the What Works Clearinghouse and other sources of research findings as a base](educators-engage-researchers-via-what-works-clearinghouse.md) — related
 - [No studies of Cognitive Tutor® Algebra II or Integrated Math I–III meet WWC standards, so the report makes no effectiveness findings for those courses](cognitive-tutor-no-evidence-algebra-ii-integrated.md) — related
+- [Four years of multiple UCSMP courses have potentially positive effects on general mathematics achievement, with a small extent of evidence](multiple-ucsmp-courses-potentially-positive-general-mathematics.md) — related

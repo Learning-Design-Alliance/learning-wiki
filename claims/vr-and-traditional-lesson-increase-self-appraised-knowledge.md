@@ -66,3 +66,4 @@ Same within-subject t-test design applied to the 64-student traditional-lesson c
 - [Neither the VR application nor the traditional lesson produced a significant positive change in pro-environmental attitudes](no-attitude-change-either-condition.md)
 - [Test condition did not affect pre-post learning-outcome differences, but school type was a significant factor in the multivariate model](school-type-significant-condition-not.md)
 - [The VR application did not increase students' interest in biodiversity, and only the academic-track control group showed a significant interest increase](vr-did-not-increase-interest.md)
+- [Knowledge-test scores correlated significantly with the self-assessed knowledge item at both pretest and posttest](knowledge-test-correlates-with-self-assessment.md) — related

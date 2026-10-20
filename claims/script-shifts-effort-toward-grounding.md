@@ -46,3 +46,5 @@ Group-level analysis (unit of analysis: group, N=10) of absolute effort (average
 
 - [Scripted conditions more often produced a discussion phase on differences between group members, but no quality differences in those discussions were detected](script-increases-discussion-on-differences.md)
 - [A three-phased collaboration script leads distance students to provide more and longer input in grounding discussions, with the structured interface further increasing input length](script-increases-grounding-input-amount-length.md)
+- [The script improved adherence to the prescribed order of grounding discussions before group activities, with an additional effect of the structured interface](script-improves-adherence-activity-order.md) — related
+- [Both adaptable and non-adaptable collaboration scripts decreased student planning, while planning increased in the non-scripted condition](collaboration-scripts-decrease-planning-nonscript-increases.md) — related

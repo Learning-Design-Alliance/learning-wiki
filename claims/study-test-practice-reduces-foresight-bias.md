@@ -43,4 +43,8 @@ Experiment 1, 24 participants, four study–test cycles; the triple interaction 
 
 
 ## Related Claims
--
+- [Backward-associated word pairs produce a foresight bias: judgments of learning are inflated relative to actual recall when the dominant association runs from target to cue](foresight-bias-backward-pairs-inflated-jols.md) — related
+- [The foresight bias has behavioral consequences: learners allocate similar study time to backward and forward pairs despite markedly lower recall for backward pairs](foresight-bias-distorts-study-time-allocation.md) — related
+- [Test experience alleviates the foresight bias more effectively than study experience](test-experience-beats-study-experience-for-debiasing.md) — related
+- [Delaying judgments of learning after study markedly reduces, but does not eliminate, the foresight bias](delayed-jols-reduce-foresight-bias.md) — related
+- [Monitoring resolution improves with study–test practice, with larger gains for backward than for forward pairs](jol-resolution-improves-with-practice.md) — a broader claim this one bears on

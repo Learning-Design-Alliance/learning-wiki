@@ -51,3 +51,7 @@ Systematic review synthesis of reported outcomes across the 23 studies (RQ4, Fig
 - [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) — related
 - [Technically oriented theoretical rationales are operationalized more often than learning-centered theories in AI writing customization](performance-theories-dominate-ai-writing-customization.md) — related
 - [Six implementation modes operationalize customized AI writing systems, with standalone evaluation most common](six-implementation-modes-customized-ai-writing.md) — related
+- [The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)](ai-id-limitation-content-reliability-transparency.md) — related
+- [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
+- [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
+- [A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning](awe-enhance-organization-quality-self-directed-learning.md) — related

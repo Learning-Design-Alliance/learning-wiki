@@ -46,3 +46,5 @@ Analysis of coursetaking by school for 2006-09 graduates (N=50,053) shows senior
 - [Taking AP courses or fourth-year math in senior year is associated with higher college enrollment but not with college retention](ap-fourth-year-math-enrollment-not-retention.md) — related
 - Almost one-half of between-school differences in college graduation rates among similarly-qualified CPS students is attributable to the colleges to which high schools send their students — related
 - [Most interviewed CPS seniors describe senior year as unchallenging and easier than previous years](seniors-describe-senior-year-unchallenging.md) — related
+- [Nearly two-thirds of graduates from academically advanced programs graduate with access to a selective or very selective four-year college](cps-advanced-programs-two-thirds-selective-qualified.md) — related
+- [One-fifth of students in academically advanced programs do not apply to any four-year college](cps-advanced-programs-one-fifth-no-four-year-application.md) — related

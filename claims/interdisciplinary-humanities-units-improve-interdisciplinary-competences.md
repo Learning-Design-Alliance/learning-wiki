@@ -66,6 +66,7 @@ This is the strongest quantitative evidence in this ingest batch — a real pre/
 - [Explicit contextualization instruction improves procedural aspects of historical writing without improving contextualization scores themselves](explicit-contextualization-instruction-improves-writing-procedure-not-scores.md) — related
 - [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) — related
 - [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change](scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md) — related
+- [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) — related
 
 ## Related Theories
 - [Ecological Paradigm of Interdisciplinary Learning](../theories/ecological-paradigm-of-interdisciplinary-learning.md) — this study is one of the empirical papers the paradigm's design principles draw on

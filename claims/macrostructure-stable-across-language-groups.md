@@ -54,3 +54,4 @@ Hayes, R. L., and Kan, P. F. (2026). Shared and divergent patterns in narrative 
 - [Bilingual school-age children's microstructure converged with monolinguals', consistent with bilinguals exceeding the ~60% input benchmark for typical development](sufficient-input-convergence-school-age-microstructure.md) — related
 - Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall — related
 - [Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension](story-grammar-structure-aids-narrative-memory.md) — related
+- [Socioeconomic status differences between bilingual and monolingual groups may determine study outcomes](ses-moderates-bilingual-executive-function-results.md) — related

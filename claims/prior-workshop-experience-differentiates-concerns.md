@@ -46,3 +46,4 @@ Comparison of SoC profiles of the 1974 and 1975 workshop cohorts before the 1975
 ## Related Claims
 - [The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser patterns toward higher-stage user patterns](workshop-shifts-concerns-toward-user-profile.md) — related
 - [Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation](stages-of-concern-developmental-trend.md) — related
+- [Management concerns never predominated for any group in the SCIS implementation, contrary to other innovation studies](management-concerns-never-predominated-scis.md) — related

@@ -64,3 +64,8 @@ The review reports, citing Hoxby and Avery (2013) and Hoxby and Turner (2013), t
 ## Related Claims
 
 - [Undermatch occurs when students attend a college less selective than their high school academic achievement would allow](undermatch-defined-less-selective-college-attendance.md)
+- [Students with strong qualifications took themselves out of four-year college planning, choosing early two-year enrollment as a low-risk solution when searches felt overwhelming and costly](early-two-year-low-risk-solution.md) — related
+- [Bottom Line increases enrollment in a four-year college among low-income high school students](bottom-line-increases-four-year-college-enrollment.md) — related
+- [Low-income urban students complete college-application steps at far lower rates than suburban peers with similar aspirations](urban-suburban-college-application-steps-gap.md) — related
+- [FLIGHT may increase college enrollment among disadvantaged students, with 97% of the FLIGHT group versus 83% of the comparison group enrolling in college](flight-potentially-positive-college-enrollment.md) — related
+- [Students often do not know which questions to ask about college until it is too late, and want colleges to anticipate their information needs](students-unknow-questions-until-too-late.md) — related

@@ -64,3 +64,7 @@ Attendance counts reported for Contemporary Biology after implementing graded co
 ## Related Claims
 
 - [Test questions reinforced by Warm Up questions or Cooperative Learning activities showed higher average normalized gains (~52%, ~60%) than questions discussed in class only (~15%)](jitt-higher-normalized-gains-reinforced-questions.md)
+- [Optional 'What is Biology Good For?' essays achieved >75% weekly participation and >90% of students reported they made science relevance clear](good-for-essays-relevance-motivation.md) — related
+- [Students rated class discussions of Warm Up responses as very useful (87%, n = 485)](students-rate-warmup-discussions-useful.md) — related
+- [Applications to the summer school increased up to double the available positions, which the authors attribute to its active and cooperative learning](pigelleto-applications-doubled-positions.md) — related
+- [JiTT implementation was associated with a decreased DFW rate in Contemporary Biology, from 27% to 20%](jitt-decreased-dfw-rate-n100.md) — related

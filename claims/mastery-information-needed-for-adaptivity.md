@@ -47,3 +47,4 @@ Ablation on Basic Education personas (Table 6) in which the Mastery field is rem
 - [Chain-of-Thought prompting improves KC planning for Qwen models but its effect varies by model and educational stage](cot-effect-varies-model-stage-kc-planning.md) — related
 - [Adaptivity to individual learners is the primary bottleneck for LLMs in KC path planning](adaptivity-bottleneck-llm-path-planning.md) — a broader claim this one bears on
 - [Static Knowledge Grounding and Dynamic Personal Memory are complementary: removing both yields the largest quality degradation](skg-dpm-complementary-ablation-deeptutor.md) — related
+- [One-shot path generation raises Validity but lowers Adaptivity and Efficiency relative to step-by-step interaction](one-shot-generation-lowers-adaptivity.md) — related

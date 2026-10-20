@@ -50,3 +50,5 @@ In the county-wide study of 2,581 low-income children, the abstract reports that
 - [Four-year-olds who miss more preschool score lower on kindergarten readiness measures of math, letter recognition, and social-emotional development, even after controlling for incoming skills](preschool-absence-lower-kindergarten-readiness-scores.md) — related
 - [Pre-K benefits were studied among children from low-income homes in a large and diverse county (n = 2,581)](pre-k-benefits-study-low-income-county-sample-2581.md) — related
 - [Pre-K graduates outperform nonattending peers in achievement and executive functioning at the end of kindergarten](pre-k-graduates-outperform-nonattenders-end-of-kindergarten.md) — related
+- [A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarten entry, and the program meets all 10 NIEER quality standards](wv-prek-print-awareness-gains.md) — related
+- [Pre-kindergarten attendance yields small positive impacts on social-emotional development, executive functioning, and emotion recognition](prek-small-positive-social-emotional-executive-emotion.md) — related

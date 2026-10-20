@@ -47,3 +47,4 @@ Impact study of an offer of admission to KIPP Pre-K, building on a previous stud
 - [KIPP Pre-K combined with KIPP early elementary school may also have a positive impact on students' executive function](kipp-prek-possible-executive-function-impact.md) — related
 - [The KIPP impact on reading skills persists over time, but impacts on reading comprehension largely dissipate by grade 2](kipp-reading-skills-persist-comprehension-dissipates-grade-2.md) — related
 - This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels — a broader claim this one bears on
+- [KIPP elementary schools have positive, statistically significant, and educationally meaningful impacts on three of four measures of reading and mathematics skills](kipp-elementary-positive-impacts-three-of-four-measures.md) — related

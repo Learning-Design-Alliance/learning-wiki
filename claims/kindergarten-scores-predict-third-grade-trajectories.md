@@ -49,3 +49,6 @@ The brief's own description states it examines Kindergarten test scores from "mo
 - [Rural students start kindergarten slightly ahead of nonrural students but fall behind by middle school](rural-students-start-ahead-fall-behind-middle-school.md) — related
 - [Universal screening data from a small sample of full-implementation schools show fall-to-spring benchmark gains in reading and most math grades, largest in kindergarten, but behavior data show losses and the data are inconclusive](kansas-mtss-screening-gains-small-sample-inconclusive.md) — related
 - [All three EL subgroups scored lower than never-ELs in math and reading throughout kindergarten to 4th grade](el-groups-lower-achievement-than-never-els-k4.md) — related
+- [After the pandemic, more students are off-track and further behind grade-level proficiency, deepening challenges for educators](post-covid-more-students-off-track-behind-grade-level.md) — related
+- [Chronically absent preschoolers are much more likely to stay chronically absent, and each successive year of chronic absenteeism compounds risk of low second-grade reading](preschool-absence-predicts-later-chronic-absence-and-reading-risk.md) — related
+- [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related

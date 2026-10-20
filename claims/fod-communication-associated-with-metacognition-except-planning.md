@@ -49,3 +49,4 @@ Individual interview study of sixty first graders (57% boys; M age: 6.2 yr., SD 
 - [Communicating feelings of difficulty during the task allowed young children to mobilize resources and achieve their goals](fod-communication-mobilizes-resources-achieves-goals.md) — related
 - [A majority of 5- and 6-year-olds can describe metacognitive emotion regulation strategies when asked about familiar hypothetical situations with multiple prompts](five-six-year-olds-describe-metacognitive-emotion-regulation.md) — related
 - [Five- and six-year-olds describe changing thoughts more often than changing goals as a metacognitive strategy](children-change-thoughts-more-than-goals.md) — related
+- [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related

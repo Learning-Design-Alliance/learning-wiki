@@ -43,4 +43,5 @@ Repeated measures GLM on the staff-completed Effective Behavior Support Survey a
 
 
 ## Related Claims
--
+- [Schools trained in SWPBIS implement the model with high, sustained fidelity on the School-Wide Evaluation Tool](swpbis-training-high-fidelity-set.md) — related
+- [The SWPBIS effect on the responding-to-behavioral-violations subscale was significant only when comparing Year 1 and Year 4](swpbis-behavioral-violations-subscale-mixed.md) — related

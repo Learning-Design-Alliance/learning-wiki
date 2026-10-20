@@ -50,3 +50,5 @@ StudyChat-only comparison against two coded feature sets: 8 broad dialogue-act c
 - [In StudyChat, conceptual-understanding behaviors correlate positively with exam outcomes while task-delegating behaviors correlate negatively](studychat-conceptual-positive-delegation-negative.md) — related
 - [Dialogue act features raise regression R² but do not significantly improve outcome prediction over a prior-performance baseline](da-features-not-significant-over-baseline.md) — related
 - [Sequential patterns of online PBL interactions predict final grades with higher explanatory power than interaction frequencies](sequence-patterns-beat-frequencies-pbl-grades.md) — related
+- [In SWE-Chat, traits where developers give the agent a clear role correlate positively with session success while evidence-based oversight traits correlate negatively](swe-chat-clear-role-positive-evidence-oversight-negative.md) — related
+- [A course schedule guided by Bloom's Revised Taxonomy is proposed to raise the planned contribution ratings of six program learning outcomes](brt-schedule-raised-plo-degrees.md) — related

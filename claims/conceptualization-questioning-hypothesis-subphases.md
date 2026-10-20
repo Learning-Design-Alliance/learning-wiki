@@ -46,3 +46,4 @@ The review's analysis of articles describing inquiry phases found that Conceptua
 - [No existing framework in the reviewed literature combined all identified inquiry phases and sub-phases, prompting development of a synthesized framework](no-existing-framework-combining-all-inquiry-phases.md) — a broader claim this one bears on
 - [Systematic review identifies five distinct general inquiry phases: Orientation, Conceptualization, Investigation, Conclusion, and Discussion](five-general-inquiry-phases-identified.md) — a broader claim this one bears on
 - [The Discussion phase, comprising Reflection and Communication, can occur at any point during inquiry-based learning and connects to all other phases](discussion-phase-occurs-at-any-point.md) — related
+- [The Investigation phase divides into three sub-phases: Exploration or Experimentation leading to Data Interpretation](investigation-exploration-experimentation-data-interpretation.md) — related

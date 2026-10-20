@@ -51,3 +51,4 @@ A Digital Promise case study of DPS's first-year rollout (interviews and focus g
 - Funding is a top procurement challenge for districts, and many districts treat learning technology as a supplemental purchase rather than part of core curriculum budgets — related
 - [DPS's evaluation process led schools to use safer edtech products by prioritizing student data privacy and accessibility review](dps-evaluation-safer-edtech-products.md) — related
 - [Denver Public Schools' cross-functional AI-edtech review cut its edtech portfolio from over 1,000 tools to fewer than 350 while saving millions of dollars](denver-cross-functional-review-shrunk-edtech-portfolio.md) — a broader claim this one bears on
+- [The OBC model enabled districts to better establish instructional coherence, support increased student engagement, and assess associated outcomes.](obc-instructional-coherence-engagement-outcomes.md) — a broader claim this one bears on

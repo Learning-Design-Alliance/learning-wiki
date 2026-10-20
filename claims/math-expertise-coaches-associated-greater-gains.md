@@ -47,3 +47,4 @@ Self-report by one district math administrator in Long Beach, quoted in the repo
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — related
+- [Schools where staff maintain strong relationships and collaborate frequently are more effective in supporting student learning and well-being, and collaboration and teacher leadership approaches contribute to staff retention](staff-collaboration-effectiveness-retention.md) — related

@@ -70,3 +70,5 @@ Twelve separate multiple regressions testing whether school belonging, centralit
 - [Stigma awareness is associated with higher academic anxiety and lower intrinsic motivation among elementary-age children](stigma-awareness-academic-anxiety-intrinsic-motivation-children.md) — related
 - [School belonging mediates the higher intrinsic motivation of Dominican children relative to European-American peers](school-belonging-mediation-dominican-intrinsic-motivation.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
+- [Dominican children report higher school belonging than all other ethnic groups, and all ethnic-minority groups report higher centrality than European Americans](ethnic-differences-school-belonging-centrality.md) — related
+- [The association between public regard and intrinsic motivation differs by gender, and between status and motivation differs by ethnicity](stigma-motivation-moderation-gender-ethnicity.md) — related

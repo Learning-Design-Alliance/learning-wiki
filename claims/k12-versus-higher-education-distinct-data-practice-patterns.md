@@ -44,3 +44,4 @@ Association analysis of data practice facets by grade level (Fig. 6), aggregatin
 
 ## Related Claims
 - [Data type shapes practice emphasis: first-hand data aligns with problem understanding and experiment design, second-hand data with statistical analysis and synthesis](data-type-first-hand-second-hand-practice-alignment.md) — related
+- [At the facet level, visualizing data is the most prevalent facet and co-occurs with applying statistics and synthesizing results](visualizing-data-most-prevalent-facet-associations.md) — related

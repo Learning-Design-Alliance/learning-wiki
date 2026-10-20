@@ -41,4 +41,7 @@ Repeated-measures ANOVA on children who did not reach the 40-s ceiling at pre-te
 
 
 ## Related Claims
--
+- [The classroom training is associated with a greater DCCS flexibility gain in the experimental group, though the printed ANOVA table reports a non-significant interaction](dccs-flexibility-gain-training-group.md) — related
+- [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related
+- [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](paths-csrp-addon-ef-improvement.md) — related
+- [The classroom training improves Theory of Mind performance](classroom-training-improves-theory-of-mind.md) — related

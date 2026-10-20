@@ -47,3 +47,4 @@ The agenda states, citing endnoted Consortium research on student attendance (Al
 - [Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences](school-absence-variation-net-of-students-neighborhoods.md) — related
 - [Students and teachers reported more positive school climate perceptions in 2020/21 during hybrid and remote learning than in 2018/19 and 2021/22](pandemic-year-climate-positive-bump-pennsylvania.md) — related
 - [No evidence of a significant decline in school climate scores between 2018/19 and 2021/22 in the Pennsylvania sample](no-lasting-pandemic-climate-decline.md) — related
+- [School climate scores were steady across the years before COVID-19 in the Pennsylvania sample](pre-covid-climate-scores-steady.md) — related

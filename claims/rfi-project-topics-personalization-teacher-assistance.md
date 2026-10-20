@@ -43,3 +43,4 @@ Thematic analysis of 178 submissions by project type (Figure 4). The report caut
 ## Related Claims
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
 - In a landscape scan survey, 12 of 13 coaches agreed or strongly agreed that AI ELA products can help personalize learning — related
+- [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related

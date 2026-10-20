@@ -68,3 +68,4 @@ Experiment 2 compared 62 children from a lower-middle socioeconomic school with 
 - [Non-symbolic addition performance correlates with mathematics achievement in a new sample, surviving controls for verbal intelligence and literacy (Experiment 2)](nonsymbolic-addition-predicts-math-exp2.md) — related
 - [Ratio-effect scores correlated with mathematics achievement in Experiment 1 but not in Experiment 2 with easier ratios](ratio-effect-math-correlation-mixed.md) — related
 - [Kindergarten children's non-symbolic addition performance correlates with end-of-year mathematics achievement, independent of literacy (Experiment 1)](nonsymbolic-addition-predicts-kindergarten-math-exp1.md) — related
+- [Socially disadvantaged children do not differ in physical fitness but score significantly lower on academic performance than non-disadvantaged peers](sdc-lower-academic-performance-equal-fitness.md) — related

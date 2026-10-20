@@ -48,3 +48,5 @@ Qualitative comparative case study, results section: some tutors dominated discu
 - [Sustained deployment surfaced four behavioral archetypes — self-directed, tutor-reliant, late engager, and passive consumer — including patterns invisible to the reactive teaching system](itas-behavioral-archetypes.md)
 - [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](tutor-behavior-ratings-interaction-year.md)
 - [Four cultural factors inhibit students from speaking up, asking questions and challenging others in PBL discussions, with stronger impact in non-Western schools](four-cultural-factors-inhibit-discussion-behaviors.md)
+- [Six contextual factors mediate the influence of cultural factors on discussion behaviors, either inhibiting or enhancing discussion](six-contextual-factors-mediate-discussion.md) — a broader claim this one bears on
+- [The beginner tutor was unnerved by a dominant, critical student and by posting complexity, did not respond at times, and made no active contribution in the end phase](beginner-tutor-overwhelmed-withdrew.md) — related

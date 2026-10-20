@@ -46,3 +46,5 @@ Comparative finding from the report's subsample of large urban districts, contra
 - [Participants in both Title I options came from the disadvantaged populations NCLB targets](title-i-participants-disadvantaged-populations.md) — related
 - [Public school choice was constrained at the middle and high school levels because many districts have only one middle school and one high school](title-i-choice-constrained-single-secondary-schools.md) — related
 - [Parents of students who used Title I school choice were largely satisfied with the new schools](parents-largely-satisfied-with-choice-schools.md) — related
+- [Most schools of choice in the United States are district-operated public options, and the neighborhood school is the preferred option for the vast majority of parents](district-run-choice-majority-neighborhood-preferred.md) — related
+- [In 2004-2005, only about one percent of the nearly 6.2 million students eligible for Title I school choice used the option, while about 17 percent of eligible students used supplemental educational services](title-i-choice-one-percent-ses-17-percent-participation.md) — related

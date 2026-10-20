@@ -48,3 +48,4 @@ Same regression model as the primary fraction magnitude analysis (Table 2, left 
 ## Related Claims
 - [First graders' whole number arithmetic knowledge predicts seventh graders' fraction arithmetic knowledge](wn-arithmetic-grade1-predicts-fraction-arithmetic-middle-school.md) — related
 - [First graders' whole number magnitude knowledge predicts eighth graders' fraction magnitude knowledge after controlling for arithmetic, cognitive, and demographic variables](wn-magnitude-grade1-predicts-fraction-magnitude-middle-school.md) — related
+- [Middle school fraction magnitude knowledge fully mediates the relation between first-grade whole number magnitude knowledge and middle school fraction arithmetic](fraction-magnitude-fully-mediates-wn-magnitude-fraction-arithmetic.md) — related

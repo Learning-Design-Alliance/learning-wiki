@@ -43,4 +43,5 @@ Experimental intervention study in which 17 of 30 prevocational-education social
 
 
 ## Related Claims
--
+- [Program teachers showed more complete cycles of contingent teaching at postmeasurement than the other teachers](mct-pd-more-complete-contingent-teaching-cycles.md) — possibly the same claim (merge candidate)
+- [Teachers who completed a scaffolding intervention program increased the contingency of their support far more than non-participating teachers](scaffolding-intervention-increases-teacher-contingency.md) — possibly the same claim (merge candidate)

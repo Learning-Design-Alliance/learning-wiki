@@ -44,3 +44,4 @@ Across the 28 empirical articles the review selected from 2003-2009, the authors
 
 ## Related Claims
 - [An open and democratic classroom climate with discussion and dialogue appears to effectively promote citizenship development among secondary school students](open-democratic-classroom-climate-promotes-citizenship.md) — related
+- [The effectiveness of different forms of citizenship education remains unclear, and the review evaluates effects in relation to the quality of the studies reviewed](citizenship-education-effectiveness-unclear-study-quality.md) — related

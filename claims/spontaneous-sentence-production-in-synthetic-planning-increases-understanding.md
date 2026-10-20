@@ -59,3 +59,6 @@ The understanding measure is a single pre/post self-rating on a 7-point scale (a
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
 - Extensive reading improves grammatical knowledge and writing style — related
 - [Peer response groups increase the number of idea units in English learners' writing but show no significant effect on composition quality or sentences written (Prater & Bermudez, 1993)](peer-response-groups-writing-idea-units.md) — related
+- [Keystroke patterns during web-based DP exams suggested planning, revision, and sustained cognitive engagement](keystroke-patterns-suggest-cognitive-engagement.md) — related
+- [SRL writing-stage clusters differed in production and revision but not in pausing](srl-writing-clusters-production-revision.md) — related
+- [Installing the synthetic position as promoter can raise self-narrative coherence while lowering authorship of it (authorship-coherence dissociation)](authorship-coherence-dissociation-prediction.md) — related

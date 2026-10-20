@@ -51,3 +51,5 @@ Individual growth curve modeling of three survey waves across the first academic
 - [A belonging-enhancing intervention produced a smaller decline in sense of belonging over the first year than the control groups](belonging-intervention-smaller-decline.md) — related
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — related
 - [Belongingness is more strongly associated with academic achievement among marginalized students than among white students](belonging-achievement-stronger-marginalized-students.md) — related
+- [A welcoming campus racial climate fosters African American students' sense of belonging and intent to continue enrollment in mostly White schools](welcoming-climate-belonging-enrollment-intent.md) — related
+- [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related

@@ -45,3 +45,6 @@ SNA and Blau's heterogeneity measure on interaction frequencies across four clas
 ## Related Claims
 
 - [Teachers spent most CSCL class time on task management, content knowledge, technical support and observing, with minimal socio-emotional support](teacher-guidance-focus-distribution-cscl-science.md)
+- [Teachers' guidance and support in collaborative science inquiry differed by teacher perceptions and group outcomes, and teacher affect was compounded by student affect, per the editorial's report of Pietarinen et al.](teacher-guidance-varies-perceptions-outcomes-reciprocal-affect.md) — a broader claim this one bears on
+- [Highest-outcome groups did not receive more guidance than other groups](high-outcome-groups-not-guided-more.md) — a narrower finding that bears on this claim
+- [Interaction-oriented pedagogical guidance was more effective than task-oriented guidance for 16-year-old students using video tools in history lessons](interaction-guidance-more-effective-than-task-guidance.md) — related

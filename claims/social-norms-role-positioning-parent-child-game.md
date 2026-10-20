@@ -43,4 +43,5 @@ Editorial summary of the Siyahhan, Barab and Downton case study framed in Activi
 
 
 ## Related Claims
--
+- [Parents play an important role in young children's math development](parents-role-early-math-development.md) — related
+- [Social contingency in parent–child interaction supports early language learning, and infants actively elicit higher-quality input through a social feedback loop](social-feedback-loop-contingency-language.md) — related

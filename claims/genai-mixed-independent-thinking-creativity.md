@@ -70,3 +70,4 @@ Authors' theoretical interpretation of the polarized independent-thinking and cr
 - [Perceived gains in creativity, independent thinking and motivation rise sharply among students with more than three years of GenAI experience, though the comparison is cross-sectional](genai-duration-related-cognitive-gains.md) — related
 - [Nearly four in five Chinese HSS students perceived academic performance gains from GenAI, which the authors caution may reflect assessment limitations](genai-performance-gains-assessment-caution.md) — related
 - [Only about a third of design students report reduced creativity or project ownership from GenAI use](ownership-creativity-largely-unaffected-genai.md) — related
+- [Chinese HSS students report near-consensus perceived learning-efficiency gains from GenAI, largely independent of use duration and discipline](genai-efficiency-gains-chinese-hss-students.md) — related

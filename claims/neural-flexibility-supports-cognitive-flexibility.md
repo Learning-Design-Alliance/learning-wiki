@@ -50,3 +50,4 @@ Narrative review of emerging neuroimaging literature. Although neural variabilit
 - The four published neuroimaging studies of cognitive flexibility in ASD report inconsistent activation differences, with altered profiles possibly compensatory — related
 - [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](reflection-training-improves-dccs.md) — related
 - [ASD shows a distinct executive dysfunction profile of impaired cognitive flexibility and planning with intact inhibitory control](asd-flexibility-deficit-intact-inhibition.md)
+- [Distinct brain systems support learning of information consistent versus inconsistent with existing knowledge](prior-knowledge-consistency-brain-systems-memory.md) — related

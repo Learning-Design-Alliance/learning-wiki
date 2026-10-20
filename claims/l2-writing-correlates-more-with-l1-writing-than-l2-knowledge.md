@@ -46,3 +46,6 @@ Structural equation modeling across L1 (Dutch) and L2 (English) writing in 281 g
 - [Writing proficiency components were studied and compared across L1 and L2 using the same modeling framework](cross-language-comparison-writing-components-sem.md) — a broader claim this one bears on
 - [Fluency measures correlated with overall writing performance in both L1 and L2, but added no predictive value beyond linguistic knowledge](fluency-no-additional-value-beyond-linguistic-knowledge-writing.md) — related
 - [Metacognitive knowledge was examined as a component of writing proficiency alongside linguistic knowledge and fluency](metacognitive-knowledge-component-writing-sem.md) — related
+- [L1 writing metacognitive strategies transfer to L2 writing, invariant across L2 proficiency and academic major groups](l1-l2-transfer-of-writing-metacognitive-strategies-invariant.md) — related
+- [L1 and L2 writing metacognitive strategy subcategories are strongly and positively correlated](strong-positive-correlations-l1-l2-writing-strategy-subcategories.md) — related
+- [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts are more likely to transfer across languages, while vocabulary and comprehension are more language-dependent](cross-linguistic-transfer-skill-specific.md) — related

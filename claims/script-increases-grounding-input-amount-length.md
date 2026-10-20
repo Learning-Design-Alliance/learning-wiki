@@ -66,3 +66,5 @@ Contrast between the two scripted conditions on input length in words (unit of a
 - [Scripted students tended to answer either all or none of a discussion's input questions, and the structured interface strengthened this all-or-none pattern](script-all-or-none-input-answering.md)
 - [The script improved adherence to the prescribed order of grounding discussions before group activities, with an additional effect of the structured interface](script-improves-adherence-activity-order.md)
 - [Scripting shifted student effort toward grounding discussions and away from group-issue discussions](script-shifts-effort-toward-grounding.md)
+- [Scripting collaboration via role-assigned interfaces produced little difference in learning outcomes compared with an unscripted self-organized condition in a semester-long course](scripting-little-difference-learning-outcomes.md) — related
+- [No significant differences between conditions in the quantity or quality of discussion summaries](no-script-effect-on-summary-quantity-quality.md) — related

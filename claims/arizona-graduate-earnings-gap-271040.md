@@ -48,3 +48,5 @@ Section 4.1 uses Arizona CPS data (2009-2013) with ACS data (2006-2010) as a val
 - [Each disconnected youth in Arizona incurs a lifetime social loss of $695,090 and fiscal loss of $234,480, totaling $127.3 billion social and $43.0 billion fiscal per cohort of 183,200](arizona-disconnected-youth-lifetime-losses.md) — related
 - Simulations of closing Black-Hispanic-White gaps in educational participation project increased net public benefits of $20.2 to $72.6 billion per year. — related
 - [Educational opportunity and achievement gaps impose large societal costs, including an estimated $156 billion loss in tax revenues and income per yearly cohort of nongraduates](achievement-gap-societal-costs.md) — related
+- [The future lifetime loss from disconnected youth is three times greater than the immediate loss during the youth years](disconnected-youth-future-loss-threefold.md) — related
+- [The report's loss estimates are conservative because they exclude health, psychological, family, community, and broader societal costs that cannot be monetized](arizona-loss-estimates-conservative-exclusions.md) — related

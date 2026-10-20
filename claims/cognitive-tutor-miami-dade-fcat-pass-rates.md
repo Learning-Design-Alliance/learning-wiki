@@ -61,4 +61,5 @@ The same district analysis reported that among students with limited English pro
 
 
 ## Related Claims
--
+- [Cognitive Tutor Algebra I students significantly outscored peers on standardized tests by about 0.3 SDs and by 85% on problem-solving and multiple-representation tests, with effect sizes of 0.7 to 1.2 SDs](cognitive-tutor-algebra-standardized-test-advantage.md) — related
+- [Cognitive Tutor® Algebra I shows no discernible effects on general mathematics achievement for secondary students](cognitive-tutor-algebra-i-no-discernible-general-math.md) — related

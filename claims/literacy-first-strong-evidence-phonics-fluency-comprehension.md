@@ -48,3 +48,10 @@ Systematic review under WWC 5.0 standards reports that Literacy First, a K–2 t
 ## Related Claims
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
 - [Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14–0.22 all statistically significant](content-domain-effects-similar-range.md) — related
+- [Of 18 reviewed Tier 2 literacy interventions, three had at most promising evidence and 12 had uncertain evidence of effects](most-tier2-interventions-uncertain-or-promising-evidence.md) — reports the opposite
+- [Leveled Literacy Intervention has positive effects on general reading achievement, potentially positive effects on reading fluency, and no discernible effects on alphabetics for beginning readers in grades K–2](lli-positive-effects-general-reading-achievement-k-2.md) — related
+- [Reading Recovery shows strong ESSA evidence of positive effects on general literacy achievement and moderate evidence on academic dispositions for grade 1 students](reading-recovery-strong-evidence-literacy-achievement.md) — related
+- [Reading Recovery has potentially positive effects on reading fluency, from a single randomized trial](reading-recovery-potentially-positive-reading-fluency.md) — related
+- [Achieve3000 shows moderate ESSA evidence of positive effects on reading fluency](achieve3000-moderate-evidence-reading-fluency.md) — related
+- [Reading Recovery has positive effects on general reading achievement for beginning readers, based on three randomized controlled trials](reading-recovery-positive-general-reading-achievement.md) — related
+- [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related

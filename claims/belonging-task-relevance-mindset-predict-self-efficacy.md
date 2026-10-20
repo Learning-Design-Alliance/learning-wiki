@@ -44,3 +44,5 @@ Multiple regression on the district PERTS survey data with belonging, task relev
 
 ## Related Claims
 - [Health status predicts perceived school belonging beyond demographic controls](health-status-predicts-belonging.md) — related
+- [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — a broader claim this one bears on
+- [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — related

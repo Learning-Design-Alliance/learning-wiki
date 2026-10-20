@@ -48,3 +48,5 @@ Correlational analysis (Table 5) among 127 at-risk fourth graders: place value l
 ## Related Claims
 - [Cognitive abilities correlate with decimal label use patterns](cognitive-abilities-correlate-decimal-label-use.md) — related
 - [Place value label use correlates with accuracy on fraction-decimal equivalency items](place-value-labels-fraction-decimal-items.md) — a narrower finding that bears on this claim
+- [Domain-general cognitive abilities predict at-risk fourth graders' decimal magnitude understanding](cognitive-predictors-decimal-magnitude-at-risk-fourth-graders.md) — related
+- [Most at-risk fourth graders apply whole-number logic when comparing decimals with different digit counts](whole-number-bias-hidden-decimal-task.md) — related

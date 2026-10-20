@@ -46,3 +46,4 @@ Zero-shot LLM evaluation of four models on question-level binary correctness pre
 - [LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.](llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues.md) — the general claim this finding bears on, with the studies behind it
 - In system cold-start scenarios, CLST outperformed every baseline KT model across all five datasets, with the largest gains at 8 training students — related
 - Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing — related
+- [Knowledge tracing performance on tutoring dialogues is relatively low, with a maximum of around 76% AUC, which the authors take to show dialogueKT is a challenging task.](dialogue-kt-performance-is-relatively-low-compared-to-standard-kt.md) — related

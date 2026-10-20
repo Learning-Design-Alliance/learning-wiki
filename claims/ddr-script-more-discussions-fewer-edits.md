@@ -46,3 +46,7 @@ Main-study two-group field experiment with DokuWiki (N = 69 completing all stage
 
 - [Wikipedia's bold-edit collaboration script led to lower article quality than a discussion-first alternative script](wikipedia-script-lower-article-quality.md) — related
 - [In the main study, BRD articles were longer, but DDR articles had a lower relative error rate, and article length correlated positively with errors](brd-longer-articles-more-errors.md)
+- [In the main study, learning gains from pre-test to post-test were not directly influenced by the collaboration script, though all students improved significantly over time](script-no-direct-effect-learning-gains.md) — related
+- [In the pre-study, dyads using the DDR script were far more likely to integrate their partner's evidence into their answers on the main topic question](prestudy-ddr-perspective-integration.md) — related
+- [In the main study, NCC, metacognitive strategies, and intrinsic motivation moderated contribution frequency but showed no significant conditional effects on learning gains](moderators-contribution-frequency-not-learning.md) — related
+- [In the main study, wiki contribution frequency indirectly mediated the effect of script on post-test learning, while the direct script effect was not significant](contribution-frequency-mediates-script-learning.md) — related

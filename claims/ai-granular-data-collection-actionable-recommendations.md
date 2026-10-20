@@ -47,3 +47,4 @@ Technical finding on data collection and organization for straightforward action
 - [SCRIPT serves as a research platform enabling keystroke-level data collection and controlled comparison of ITS components](script-research-platform-data-collection.md) — related
 - [Prior difficulty collections mostly lack fine-grained classification of student difficulties](prior-difficulty-collections-lack-fine-grained-classification.md) — related
 - [Reviewed studies reported good algorithm accuracy and efficiency for AI in STEM, with performance varying by algorithm and granularity](ai-stem-technological-effects-algorithm-accuracy.md)
+- [When SRL is measured at a fine grain size (specific strategies), self-reports show low calibration with behavioral measures](fine-grained-srl-self-reports-low-calibration.md) — related

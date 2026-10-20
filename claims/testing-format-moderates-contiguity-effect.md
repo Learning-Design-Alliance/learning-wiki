@@ -47,3 +47,5 @@ Moderator analysis of type of testing within the meta-analysis; the article repo
 
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) — a broader claim this one bears on
+- [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) — related
+- [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related

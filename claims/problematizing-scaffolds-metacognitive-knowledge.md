@@ -48,3 +48,5 @@ Planned comparison between the problematizing and structuring conditions on the 
 - [Metacognitive scaffolding produced a small significant positive effect on the individual metacognitive knowledge students acquired](scaffolding-small-effect-metacognitive-knowledge.md) — related
 - [Problematizing scaffolds elicit constructive, interaction-embedded metacognitive activities, whereas structuring scaffolds elicit application of examples](problematizing-scaffolds-elicit-constructive-interaction.md) — related
 - [Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds](problematizing-scaffolds-transfer-effect.md) — related
+- [Metacognitive avatar scaffolds increase students' proportion of metacognitive activities, with no significant difference between scaffold types](scaffolds-increase-metacognitive-activities-equally.md) — reports the opposite
+- [Metacognitive scaffolding had no significant effect on individual domain knowledge (recall, knowledge tests, or transfer), with effect sizes close to zero](scaffolding-no-domain-knowledge-effect.md) — related

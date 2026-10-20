@@ -68,3 +68,4 @@ Narrative review synthesis of human studies of glucocorticoid-related mechanisms
 - [Threat-related psychopathology associations appear more consistently mediated by stress response systems than deprivation-related ones](threat-mediated-stress-response-deprivation-less-so.md) — related
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related
 - [The probability of school failure increases as a function of the timing and length of children's exposure to relational adversity](cumulative-relational-adversity-school-failure.md) — related
+- [Exposure to adverse early circumstances affects the developing brain in ways that increase risk for later problems](adversity-affects-developing-brain-increasing-risk.md) — a broader claim this one bears on

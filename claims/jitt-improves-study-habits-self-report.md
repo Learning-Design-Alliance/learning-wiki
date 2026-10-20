@@ -64,3 +64,6 @@ Self-report survey (Table 1, n = 162) asking three preparation questions, groupe
 ## Related Claims
 
 - [JiTT implementation was associated with a decreased DFW rate in Contemporary Biology, from 27% to 20%](jitt-decreased-dfw-rate-n100.md)
+- [Cramming was negatively correlated with spacing (r = -0.54) and with all other learning strategies investigated](cramming-negatively-correlated-spacing-and-strategies.md) — related
+- [In regressions predicting self-reported achievement, elaboration positively (Beta = 0.24) and cramming negatively (Beta = -0.30) predicted achievement, but only effort regulation and engagement remained significant in the combined model](elaboration-cramming-achievement-regression.md) — related
+- [Effort regulation and student engagement were the most consistent predictors of learning strategy use and self-reported achievement](effort-regulation-engagement-consistent-predictors.md) — related

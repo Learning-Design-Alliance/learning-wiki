@@ -66,3 +66,5 @@ Spearman's Rho computed on the same definition-of-elements variables; the printe
 - [Teachers' ICT-use competence is high and statistically independent of educational level](ict-competence-independent-of-education-level.md) — related
 - [MOOC participants self-assess predominantly at the advanced competency level, with very similar level distributions across all four OER competency modules](mooc-oer-competencies-mostly-advanced-similar-across-modules.md) — related
 - [Most teachers report precise identification of OER sources plus at least two diffusion improvements when implementing a diffusion strategy](oer-diffusion-strategy-implementation-self-reports.md) — related
+- [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — related
+- [Openness in education shifts the focus from content (OER) to practices (OEP)](openness-shifts-oer-to-oep.md) — related

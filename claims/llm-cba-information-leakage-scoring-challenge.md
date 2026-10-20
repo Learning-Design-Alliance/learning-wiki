@@ -44,3 +44,4 @@ Authors' observation from the case study comparing LLM and RegExp/LSA conversati
 
 ## Related Claims
 - [In a case study, LLM-generated assessment conversations handled common student speech acts more naturalistically than RegExp/LSA conversations](llm-cba-more-naturalistic-than-regexp-lsa.md) — related
+- [LLM capabilities enabled family education systems across conversational, embodied, and spatial interface forms to generate support from the context of an unfolding interaction](llm-generated-support-unfolding-interaction.md) — a broader claim this one bears on

@@ -50,3 +50,6 @@ The national evaluation report of the 21st Century Community Learning Centers pr
 - [Elementary students participating in the 21st Century Community Learning Centers program felt safer than students not enrolled](cclc-elementary-participants-felt-safer.md) — related
 - [Elementary participants in the 21st Century Community Learning Centers program were more likely to engage in negative behaviors than students not enrolled](cclc-elementary-participants-more-negative-behaviors.md) — related
 - [The national evaluation of the 21st Century Community Learning Centers program found no average improvement in academic achievement for participating students](21st-cclc-national-evaluation-no-academic-improvement.md) — related
+- [21st Century after-school programs had only limited influence on academic performance, including test scores, grades, and homework completion](21st-cclc-limited-academic-influence.md) — related
+- [No difference between treatment and control groups on homework assistance or completion in the 21st Century Community Learning Centers evaluation](cclc-no-difference-homework-assistance-completion.md) — related
+- [The New Heights program was found to be effective at improving educational outcomes for expectant and parenting students](new-heights-effective-improving-educational-outcomes.md) — related

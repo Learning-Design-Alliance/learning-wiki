@@ -51,3 +51,4 @@ Hierarchical regression models in a longitudinal study of 193 children assessed 
 - [Kindergarten predictors correlate robustly with grade 1 math outcomes, weakest for computation](predictor-outcome-correlations-weakest-computation.md) — related
 - [Symbolic number predictors account for substantial additional variance in grade 1 math outcomes beyond counting and domain general predictors](symbolic-number-r2-change-grade1-math.md) — possibly the same claim (merge candidate)
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
+- [Number sense measures are non-significant predictors of math once more robust predictors are included](number-sense-non-predictor-of-math.md) — related

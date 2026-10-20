@@ -46,3 +46,5 @@ Survey comparison of 60 Chinese and 30 Flemish teachers using the Grasha Teachin
 
 - [Perceived power distance correlates with expert and authority roles, collaboration with facilitator and delegator roles, and competition correlates with all five teacher roles](cultural-environment-correlates-with-teacher-roles.md)
 - [Flemish faculty adopt e-learning and online collaborative learning at higher rates than Chinese faculty (about 95% vs 30% e-learning; 27% vs 8% online collaboration)](flemish-faculty-adopt-e-learning-more-than-chinese.md)
+- [Chinese teachers emphasize competition among students more than Flemish teachers, while perceived power distance and collaboration are similar across the two groups](chinese-teachers-emphasize-competition-more.md) — related
+- [Teachers' adoption of online collaborative learning is associated with constructivist beliefs, facilitator/delegator roles, perceived need for innovation, and institutional conditions](teacher-and-contextual-variables-related-to-innovation-adoption.md) — related

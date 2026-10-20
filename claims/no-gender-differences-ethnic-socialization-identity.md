@@ -53,3 +53,5 @@ Chi-square difference test comparing model fit across gender groups (93 females,
 - [The EI-to-FES path is significant only for U.S.-born families](ei-fes-path-significant-only-usborn-families.md) — related
 - [The FES-to-EI path is significant for Mexico-born and mixed-nativity families but not for U.S.-born families](fes-ei-path-significant-immigrant-not-usborn-families.md) — related
 - [For U.S.-born Mexican-origin youth with U.S.-born parents, youth ethnic identity predicts later family ethnic socialization but not vice versa (a youth-driven process)](youth-driven-ethnic-socialization-us-born-families.md) — related
+- [Family ethnic socialization drives ERI in immigrant families, whereas youth ERI drives family socialization in U.S.-born families](immigrant-status-bidirectional-family-ethnic-socialization.md) — related
+- [Ethnic identity associations with functioning are robust across child gender and ethnic group, and ethnic identity scores are uncorrelated with IQ](ethnic-identity-effects-robust-across-gender-ethnicity-uncorrelated-iq.md) — related

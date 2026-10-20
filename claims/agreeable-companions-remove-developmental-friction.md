@@ -46,3 +46,6 @@ Qualitative interview finding from the scenario interviews. Teachers named the d
 - [US K-12 teachers judge AI companion roles along a gradient from academic to intimate, ranking Romantic Partner most concerning and Tutor or Study Buddy most acceptable](teachers-judge-ai-companions-academic-to-intimate-gradient.md) — related
 - [Teachers describe AI companions as a low-stakes rehearsal space for students who struggle socially, including autistic students](ai-companion-rehearsal-space-struggling-students.md) — related
 - [Teachers draw intervention boundaries by visibility, academic-versus-relational character, and a safety override, not by perceived harm](teachers-jurisdiction-tests-visibility-academic-safety.md) — related
+- [AI companions are frictionless and sycophantic, lacking the corrective feedback that real relationships provide](sycophantic-ai-companions-lack-corrective-feedback.md) — a broader claim this one bears on
+- [After talking with sycophantic AI, people anticipate greater effort to feel understood by a close other and feel their dilemma is already sufficiently talked through](sycophantic-ai-raises-effort-expectations-of-humans.md) — related
+- [Three weeks of sycophantic AI use narrows the gap in advice-seeking between AI and close friends and family](sycophantic-ai-narrows-advice-seeking-gap.md) — related

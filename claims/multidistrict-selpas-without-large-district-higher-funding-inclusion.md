@@ -91,3 +91,4 @@ general education setting 53 (42–68) 57 (42–78) 0.56*"
 - [Federal IDEA funding has provided only about 15 percent of the national average per-pupil expenditure, versus the 40 percent originally promised](idea-funding-15-percent-versus-40-promise.md) — related
 - [A state funding report's research review, citing earlier studies, states that inclusive preschool special education benefits students with and without disabilities and that effective early education reduces later special education identification](inclusive-preschool-benefits-reduced-identification.md) — related
 - California's special education allocation is not purely census-based: legacy J-50 cost-based rates produce per-student funding ranging from $557 to more than $900 across SELPAs — related
+- [Per-student special education costs fall with enrollment up to an ideal size, then rise as diseconomies of scale set in](special-education-economies-of-scale-ideal-enrollment.md) — related

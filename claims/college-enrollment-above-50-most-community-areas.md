@@ -47,3 +47,4 @@ Descriptive analysis of immediate two- or four-year college enrollment for 2019 
 - Immediate college enrollment declined from 62 percent for the CPS class of 2019 to 58 percent for the class of 2020, driven more by the drop in two-year than four-year enrollment — related
 - CPS graduates' immediate college enrollment increased between 2006 and 2015, driven mainly by growth in four-year college enrollment — related
 - [The proportion of CPS graduates enrolling immediately in college rose gradually to 63 percent by 2018, with persistent disparities by race/ethnicity and gender](cps-immediate-college-enrollment-rose-to-63-percent-2018.md) — related
+- [The CPS four-year college enrollment rate rose from 33 percent in 2006 to 42 percent in 2014, slightly below the national rate](cps-four-year-enrollment-33-to-42-percent.md) — related

@@ -46,3 +46,5 @@ A qualitative multiple-case study by Gleason and Gerzon selected four exemplary 
 - [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](rising-need-share-amid-shrinking-enrollment.md) — related
 - [The Buffalo Promise Neighborhood serves a predominantly minority, high-poverty community](buffalo-promise-neighborhood-high-poverty-minority-community.md) — related
 - [About 46% of the lowest 5% achieving schools show the same growth as the highest 5% achieving schools](46-percent-low-achieving-schools-same-growth-as-top.md) — related
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — related
+- [More than a third of NAZ residents live in households with incomes below the federal poverty level](naz-residents-36-percent-below-federal-poverty-level.md) — related

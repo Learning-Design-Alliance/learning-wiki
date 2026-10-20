@@ -79,3 +79,4 @@ A post-hoc analysis of all 890 comment pieces using keyword search, LLM categori
 - [Edited voice prompts did not significantly differ from text prompts in first-attempt success](edited-voice-no-significant-difference.md) — related
 - [Students reported mixed, task-dependent perceptions of the efficiency and speed of voice versus text input](mixed-efficiency-speed-perceptions.md) — related
 - [Greater proportion of voice prompts used correlates moderately with greater stated preference for voice](voice-usage-preference-correlation.md) — related
+- [Unedited voice prompts have lower odds of first-attempt success than text prompts on two of three Prompt Problems](unedited-voice-lower-first-attempt-success.md) — related

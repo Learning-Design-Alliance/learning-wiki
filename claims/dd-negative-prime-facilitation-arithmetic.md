@@ -46,3 +46,6 @@ Controlled experiment with 12 children with DD and 11 controls completing an ari
 
 - [Negative priming effects are generally larger in mathematics than in language or science, particularly in arithmetic tasks](np-effects-larger-mathematics-arithmetic.md) — related
 - [Math-related word primes facilitate arithmetic processing in children with DD but inhibit it in typically-developing controls](math-primes-facilitate-dd-inhibit-controls.md)
+- [Typically-developing children show the standard affective priming pattern, responding faster to arithmetic targets after positive than negative primes](control-positive-prime-facilitation-arithmetic.md) — reports the opposite
+- [A significant three-way interaction of group, prime type and arithmetic operation governs arithmetic-affective priming, with DD children slower overall than controls](group-prime-operation-interaction-rt.md) — related
+- [Math anxiety in DD is specific to the math context and occurs in the absence of generalized anxiety](math-anxiety-specific-to-math-context-dd.md) — related

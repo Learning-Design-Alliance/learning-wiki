@@ -53,3 +53,4 @@ Phonological processing findings from two RCTs. Appendix A3.3 prints RMC effect 
 - [DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials](daisyquest-positive-effects-phonological-processing.md) — related
 - [Ready, Set, Leap!® has no significant effect on preschool print knowledge (domain average effect size 0.06)](ready-set-leap-null-print-knowledge.md) — related
 - [Ready, Set, Leap!® effects do not persist to kindergarten follow-up on oral language, print knowledge, or math measures](ready-set-leap-null-kindergarten-followup.md) — related
+- [Phonological awareness training plus letter knowledge training has positive effects on preschoolers' print knowledge](pat-lk-positive-print-knowledge-preschool.md) — related

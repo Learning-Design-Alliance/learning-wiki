@@ -54,3 +54,5 @@ Random-effects meta-analysis of 105 effect sizes from 32 primary studies with 1,
 - [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related
 - [Classroom experiments test whether instructional procedures that increase the salience and cognitive processing of targeted words in reading texts can support L2 vocabulary acquisition](vocabulary-enhancement-activities-support-reading-acquisition.md) — related
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — related
+- [Adult (university) participants outperform kindergarten/elementary children in incidental spoken L2 word learning](adults-outperform-children-spoken-word-learning.md) — related
+- [Interactive learning tasks produce larger incidental spoken word-learning gains than noninteractive tasks](interactive-tasks-beat-noninteractive-spoken-word-learning.md) — a narrower finding that bears on this claim

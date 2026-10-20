@@ -53,3 +53,4 @@ Growth models using letter-sound knowledge as the letter-knowledge predictor fou
 - [Children with higher initial letter-name knowledge show faster growth in phonological awareness across the preschool year](initial-letter-name-knowledge-predicts-phonological-awareness-growth.md) — reports the opposite
 - [Vocabulary was largely unrelated to growth in phonological awareness, with significance only for blending](vocabulary-not-related-to-phonological-awareness-growth.md) — related
 - [Child cognitive skills other than initial word reading (phonemic decoding, working memory, phonological awareness, rapid letter naming) did not significantly predict exposures to mastery](non-significant-child-predictors-exposures.md) — related
+- [The bidirectional relation between letter-name knowledge and phonological awareness was independent of maturation and correlated developmental trajectories](bidirectional-relation-independent-of-maturation.md) — reports the opposite

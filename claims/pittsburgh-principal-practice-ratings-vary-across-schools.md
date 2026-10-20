@@ -48,3 +48,6 @@ Analysis of the principal-assigned professional practice rating found "Variation
 - [Component measure ratings had low to moderate positive correlations with each other, suggesting the components measure distinct dimensions of principal performance](component-measures-distinct-dimensions-principal-performance.md) — related
 - [Fairness of overall observation scores may not be substantially compromised by principals using different sets of rubric components](component-subset-fairness-observation-scores.md) — related
 - [Most evaluators rated consistently, but about 3 percent were muted and 5 percent erratic, and about 10 percent of a sampled subset were extremely severe or lenient](reach-evaluator-consistency-and-severity.md) — related
+- [Principals in the pilot did not typically use all 22 rubric components when observing teachers](principals-used-subsets-of-rubric-components.md) — related
+- [Differences between principal and observer ratings at the high end of the scale were explained largely by teachers' previous evaluation ratings](prior-ratings-explain-observer-differences.md) — related
+- [Most variation in teacher evaluation scores is within schools rather than between schools](within-school-variation-dominates-teacher-evaluation-scores.md) — related

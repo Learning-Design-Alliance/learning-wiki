@@ -49,3 +49,5 @@ Series of mixed-effects multilevel regressions on 2021/22 SCCS and AK DEED admin
 - Educators rated their well-being and school climate perceptions as average, with grade-level-band differences in both — related
 - [Well-implemented community schools improve attendance, behavior, engagement, and academic outcomes, with longer and more sustained implementation associated with more significant outcomes](community-schools-implementation-strength-related-to-outcomes.md) — reports the opposite
 - [MindMatters evaluations show improved resilience and school climate, with modest overall effects in the German secondary-school adaptation](mindmatters-evaluation-mixed-effects.md) — related
+- [Comprehensive community school interventions show positive impacts on student outcomes including attendance, achievement, graduation, and reduced achievement gaps](community-schools-comprehensive-positive-impact.md) — related
+- [A school's likelihood of high implementation of trauma-engaged practices increased with its percentage of students in foster care](foster-care-percentage-predicts-higher-implementation.md) — related

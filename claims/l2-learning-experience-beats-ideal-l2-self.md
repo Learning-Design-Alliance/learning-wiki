@@ -60,3 +60,6 @@ SEM results for the L2MSS model (n = 511) show standardized paths to intended ef
 - [Within SDT, intrinsic motivation predicts intended effort most strongly, followed by identified regulation, with introjected regulation much weaker](sdt-path-strengths-effort.md) — related
 - [Criterion measures, attitudes towards learning English, instrumentality promotion, and ideal L2 self are the strongest predictors of L2 self-efficacy](strongest-motivation-predictors-of-self-efficacy.md) — related
 - SDT and L2MSS constructs correlate as predicted, with the ought-to L2 self/own most closely tied to introjected regulation — related
+- [University learners of Italian in two surveys report ideal-self motivation rather than instrumental motivation; a contrast with their teachers' view is reported but not confirmed in the text read.](italian-l2-motivation-is-ideal-self-not-instrumental.md) — related
+- [In the motivational profile of Iranian EFL learners, instrumentality-promotion received the highest mean, followed by ideal L2 self](iranian-efl-motivation-profile-inspro-highest.md) — related
+- [Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively](ideal-l2-self-predicts-self-efficacy.md) — related

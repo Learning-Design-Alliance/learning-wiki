@@ -51,3 +51,5 @@ Repeated measures ANOVA on approximate addition accuracy with ratio (4:5, 4:6, 4
 - [Non-symbolic training improves collection comparison at ratios 1:2, 2:3 and 3:4, while symbolic training improves only ratio 1:2](nonsymbolic-training-improves-collection-comparison-ratios.md) — related
 - [In a number comparison task, adults outperform 6- to 7-year-old children in accuracy, Arabic numerals are easier than dot arrays, and easy 0.5 ratios are easier than difficult 0.8 ratios](number-comparison-accuracy-group-notation-ratio-effects.md) — related
 - [Group differences on symbolic tasks persist after controlling for number identification skill](symbolic-deficit-not-explained-by-number-identification.md) — related
+- [Characteristic distance effects occur in both nonsymbolic and symbolic single-digit approximate addition](distance-effect-single-digit-approximate-addition.md) — related
+- [Response times in number comparison show group, notation, and ratio main effects, with a larger ratio effect for dot arrays than Arabic numerals](number-comparison-response-time-anova-effects.md) — related

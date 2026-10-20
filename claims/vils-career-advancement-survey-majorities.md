@@ -60,3 +60,5 @@ The same teacher survey (n = 181 respondents across the two districts) found 59%
 ## Related Claims
 - [A majority of surveyed teachers (61%) reported that participating in the Verizon Innovative Learning Schools program improved their job satisfaction](vils-teachers-61-percent-improved-job-satisfaction.md) — related
 - [71% of surveyed Miami-Dade coaches reported the program improved their job satisfaction, up from a pre-program baseline where none reported being completely satisfied](vils-coaches-71-percent-improved-job-satisfaction.md) — related
+- [Case study participants report three primary induction impacts: improved leadership knowledge and skills, resilience from personal support, and professional advancement](induction-impacts-knowledge-resilience-advancement.md) — related
+- [Coaches and principals in the DLP grew in confidence and skills over the year](dlp-coach-principal-growth.md) — related

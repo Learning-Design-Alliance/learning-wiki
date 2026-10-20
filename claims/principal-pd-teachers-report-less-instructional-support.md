@@ -51,3 +51,4 @@ In the randomized comparison of the 100 elementary schools, teacher survey repor
 - [The principal professional development program did not improve student achievement in English language arts or math](principal-pd-no-student-achievement-improvement.md) — related
 - Comparison-group contamination occurred in the Balanced Leadership® trial — related
 - [According to teachers, principals with elementary teaching experience provided more helpful and actionable direct instructional support in some cases](teaching-experience-principals-more-helpful-support.md) — related
+- [Principals with elementary school teaching experience reported providing more extensive direct instructional support to teachers](teaching-experience-principals-more-direct-support.md) — related

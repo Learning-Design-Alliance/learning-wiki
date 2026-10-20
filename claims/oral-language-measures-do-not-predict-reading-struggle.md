@@ -58,3 +58,6 @@ The guide's summary, in Recommendation 1's carry-out section, of studies contras
 - [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts are more likely to transfer across languages, while vocabulary and comprehension are more language-dependent](cross-linguistic-transfer-skill-specific.md) — related
 - [Adaptive routing and comprehension-based passage leveling structure the MAP Reading Fluency assessment](map-rf-adaptive-routing-and-passage-leveling.md) — related
 - [The best math-predicting model is specific to mathematics; reading requires a different model](math-model-specificity-reading.md) — related
+- [The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language](reverse-transfer-literacy-to-oral-unsupported.md) — related
+- [Sticht's Law holds that reading skill cannot exceed listening skill](sticht-law-reading-cannot-exceed-listening.md) — reports the opposite
+- [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related

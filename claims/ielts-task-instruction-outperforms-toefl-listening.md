@@ -45,3 +45,4 @@ Experimental post-test comparison (Table 6 reports t = 2.481, df = 52, Sig. 0.00
 ## Related Claims
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [TOEFL-materials instruction did not change learners' views toward TBLT](toefl-instruction-no-view-change.md) — related
+- [Task-based instruction changed learners' views toward TBLT to align with teachers' views](task-instruction-shifts-learner-tblt-views.md) — related

@@ -46,3 +46,5 @@ The report describes these as exploratory analyses, not confirmatory main findin
 - [Exploratory analyses suggest Roads to Success increased confidence in choosing careers and understanding career success requirements](roads-to-success-exploratory-confidence-career-areas.md) — related
 - [Two years of Roads to Success exposure had no measurable effect on eighth graders' desire to learn job skills or their study and learning habits](roads-to-success-no-effect-desire-job-skills-study-habits.md) — related
 - [Estimated impacts of Roads to Success on student behaviors were mixed](roads-to-success-mixed-behavior-impacts.md) — a broader claim this one bears on
+- [IPS implemented with adult support and regular review may increase students’ academic engagement, agency, career-relevant knowledge and skills, and college/career drive](ips-with-adult-support-and-review-associated-outcomes.md) — a broader claim this one bears on
+- [Roads to Success was evaluated as part of an associated project running 2007-2009](roads-to-success-associated-project-2007-2009.md) — related

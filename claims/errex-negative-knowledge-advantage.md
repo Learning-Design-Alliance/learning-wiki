@@ -43,4 +43,5 @@ Table 1 entry for Heemsoth and Heinze (2014), an ErrEx vs CorrEx comparison in m
 
 
 ## Related Claims
--
+- [Erroneous examples show no general learning benefit over correct examples in most comparisons, but outperform them for negative knowledge in some studies](errexs-vs-correx-mixed-benefit.md) — a broader claim this one bears on
+- [Prior knowledge moderates the effectiveness of erroneous and contrasting erroneous examples, with low-prior-knowledge learners benefiting in several studies but findings contradictory](prior-knowledge-moderates-errex-effectiveness.md) — related

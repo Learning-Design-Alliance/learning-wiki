@@ -46,3 +46,5 @@ Quantitative portion comparing GPA outcomes against prior outcomes and similar-s
 ## Related Claims
 - [Core GPA was not affected immediately after closures, but students from closed schools showed small negative effects in years three and four, more pronounced for students in grades 3-5 at announcement](core-gpa-delayed-negative-effects-closed-schools.md) — possibly the same claim (merge candidate)
 - [Test scores of students in both closed and welcoming schools were negatively affected, with closed-school students showing the largest negative effect](test-scores-negatively-affected-closed-and-welcoming-schools.md) — related
+- [Students from closed schools scored roughly one and a half months behind in reading and two months behind in math in the spring of the announcement year](closed-school-test-scores-lower-announcement-year.md) — related
+- [School closings showed no statistically significant long-term effects on displaced students' reading or math achievement two and three years later](no-long-term-achievement-effects-school-closings.md) — related

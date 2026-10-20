@@ -45,3 +45,6 @@ Longitudinal structural MRI study (Gogtay et al., 2006, as reviewed) showing reg
 ## Related Claims
 - [The anterior hippocampus becomes functionally specialized for episodic memory around the transition to adolescence](anterior-hippocampus-functional-specialization-adolescence.md) — related
 - [Hippocampal volume relates to episodic memory differently across development: adults show head/body associations, children show tail associations](developmental-dissociation-hippocampal-volume-episodic-memory.md) — related
+- [Aerobic fitness and diet affect hippocampal volume and predict episodic memory differences, with effects possibly magnified in childhood](aerobic-fitness-diet-hippocampus-episodic-memory.md) — related
+- [Exercise Increases Hippocampal Volume](exercise-increases-hippocampal-volume.md) — related
+- [Early life stress produces structural and functional alterations in prefrontal-hippocampal-amygdala circuits in animals and humans, with reduced hippocampal volume among the most reliable human findings](els-pfc-hippocampus-amygdala-alterations.md) — related

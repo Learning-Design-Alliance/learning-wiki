@@ -45,3 +45,6 @@ Exploratory post hoc tests following a non-significant three-way interaction: fo
 ## Related Claims
 
 - [Related word pairs were far better recalled than unrelated pairs, while younger and older adults recalled a similar overall proportion of pairs](relatedness-and-age-main-effects-recall.md)
+- [JOL reactivity depended on pair relatedness: negative reactivity for unrelated word pairs but no reactivity for related word pairs](jol-reactivity-relatedness-interaction.md) — a broader claim this one bears on
+- [JOL reactivity differed by age: making JOLs impaired older adults' recall but did not affect younger adults' recall](jol-reactivity-age-interaction.md) — related
+- [Making judgments of learning produced overall negative reactivity: participants making JOLs recalled fewer word pairs than participants not making JOLs](jol-negative-reactivity-overall.md) — a broader claim this one bears on

@@ -45,3 +45,4 @@ Sensitivity analysis within the same meta-analysis: 91 effects came from Mikulin
 
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect — related
+- [The pooled association is robust to dependence, baseline-adjustment, risk-of-bias, and effect-size-derivation sensitivity analyses](pooled-association-robust-sensitivity-analyses.md) — related

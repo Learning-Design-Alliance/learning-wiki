@@ -60,3 +60,6 @@ Observational analysis of pilot data on school median student growth percentiles
 - [Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment](effective-principals-positive-student-outcomes.md) — related
 - [A large-scale long-term study examined the measurement stability of Rasch measurement scales that had been in place for almost 40 years](long-term-study-rasch-scale-stability-almost-40-years.md) — related
 - [School value-added and adjusted school value-added provide at most a small amount of information for predicting principals' future contributions to student achievement](school-value-added-small-predictive-information-principals.md) — related
+- [Value-added estimates are likely to be noisy with the amount of data typically used in practice](value-added-estimates-noisy-typical-data.md) — related
+- [NISL-trained principals' schools outperformed comparable non-NISL schools in student achievement over a 4-year period](nisl-principals-student-achievement-gains.md) — related
+- [Principals exhibit an incomplete understanding of how achievement growth is captured in EPIC performance measures](principals-incomplete-understanding-growth-measures.md) — related

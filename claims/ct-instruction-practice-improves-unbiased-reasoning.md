@@ -45,3 +45,6 @@ Classroom pretest-intervention-posttest experiment with 170 first-year students;
 ## Related Claims
 
 - [Contrasting examples, correct examples, erroneous examples, and practice problems produced no differences in learning gains or transfer of unbiased-reasoning skills](no-condition-differences-ct-practice-formats.md)
+- [Performance on practiced reasoning items and on transfer items continued to improve after 3-week and 9-month delays](ct-performance-improves-further-after-delay.md) — related
+- [Scaffolded third-graders outperformed control students on reasoning based on irrelevant evidence after instruction](scaffolds-improve-irrelevant-evidence-reasoning-third-graders.md) — related
+- [General problem-solving heuristics used in controlled conscious problem solving are biologically secondary skills requiring explicit learning](secondary-heuristics-require-explicit-learning.md) — a broader claim this one bears on

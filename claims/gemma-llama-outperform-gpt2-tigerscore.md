@@ -46,3 +46,4 @@ Explainable error analysis of counterfactual fine-tuned model replies using TIGE
 - [The three fine-tuned LLMs differ significantly in response length, readability, and similarity to posts](llm-response-length-readability-differences.md) — related
 - [Zero-shot LLMs perform only marginally above random in five-class competency classification but exceed 70% accuracy on binary classification](zero-shot-llm-granularity-competency-classification.md) — related
 - Three LLMs fine-tuned on teacher-validated feedback reach reported training losses with qualitative teacher validation — related
+- [Model selection experiments show newer models are not strict improvements, with component-specific effects on quality metrics](model-migration-component-specific-metric-effects.md) — related

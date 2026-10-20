@@ -44,3 +44,5 @@ Same nonexperimental analysis of NYC charter middle schools affiliated with Achi
 
 ## Related Claims
 - [NYC charter middle schools affiliated with Achievement First and Uncommon show statistically significant math gains after three years, equal to an estimated additional 0.9 years of growth](af-uncommon-nyc-charter-middle-math-impact-09-years.md) — related
+- [The Uncommon Schools whole-school model, typically built from the earliest grades in new schools, produced substantial positive achievement effects when applied in a turnaround setting](uncommon-model-effective-turnaround-setting.md) — related
+- [Students who attended TEP for four years had math test score gains equal to an additional 1.6 years of school compared to similar students in comparable New York City public schools](tep-four-year-math-gain-1-6-years.md) — related

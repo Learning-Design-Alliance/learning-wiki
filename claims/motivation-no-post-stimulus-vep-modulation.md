@@ -48,3 +48,6 @@ Post-stimulus VEP analysis of bilateral non-targets (average 85 trials per condi
 - [Adolescents show higher target-detection sensitivity (d-prime) for high-interest than low-interest stimuli, with better performance in the right hemifield](interest-boosts-adolescent-detection-sensitivity.md) — related
 - [Cognitive deficits in children with ADHD are not permanent neuropsychological impairments and cognitive capacity can be modulated by motivation](adhd-cognitive-capacity-modulated-by-motivation.md) — related
 - [Post-hoc finding: P1 latency was increased for attended versus unattended unilateral stimuli, selectively over the ipsilateral ROI](p1-latency-increased-attended-ipsilateral.md) — related
+- [Adolescents show adult-like anticipatory broadband ERP attention components (ADAN, LDAP, BRN) contralateral to the attended location](adolescent-anticipatory-erp-components-adult-like.md) — related
+- [Processing of affective stimuli is prioritized and interferes with target processing during the attentional blink interval in early adolescence](affective-stimuli-interfere-attentional-blink-adolescents.md) — related
+- [Exploratory analysis reveals sustained greater anticipatory activation for high versus low motivation conditions from 700–1100 ms post-cue over parieto-occipital scalp](sustained-motivation-anticipatory-activation-700-1100ms.md) — related

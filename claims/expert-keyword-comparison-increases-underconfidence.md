@@ -45,3 +45,5 @@ Planned contrast on bias across measurement time points in the same experiment. 
 ## Related Claims
 
 - [Generating or comparing keywords had no substantial effect on posttest learning performance](keyword-generation-no-posttest-learning-effect.md)
+- [The keyword-quality–JOL correlation increases after comparison with expert keywords, indicating learners exploit keyword quality as a cue only when given external standards](keyword-quality-jol-correlation-increases-with-expert-standards.md) — related
+- [Generating delayed keywords does not reduce bias in comprehension judgments](keyword-generation-does-not-reduce-bias.md) — related

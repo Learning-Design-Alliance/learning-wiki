@@ -48,3 +48,5 @@ Theoretical argument in the brief's opening section, citing prior literature (Ar
 ## Related Claims
 - [Research suggests that using culturally responsive and sustaining education practices in mathematics can enhance learning and academic success](crse-math-enhances-learning-and-success.md) — related
 - [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](practical-measure-data-tailors-crse-instruction.md) — related
+- [Racial, ethnic, and cultural identity development emerged as the core need for students of color beyond academic subjects](identity-core-of-sead-for-students-of-color.md) — related
+- [Productive discourse practices correlate with improved performance on standardized tests of reasoning](discourse-practices-correlate-reasoning-tests.md) — related

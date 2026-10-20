@@ -63,3 +63,13 @@ Repeated measures ANOVA of the standard deviation of go reaction time across rew
 ## Related Claims
 - [Go-trial response times are slower during the stop-signal task than the no-tone task, with no diagnostic group difference](stop-signal-slows-mean-reaction-time-equally.md) — related
 - [Maltreated and nonmaltreated adolescents show similar reaction times on go trials of the go/no go task](no-reaction-time-difference-go-trials-groups.md) — related
+- [Introducing intermittent stop trials does not change processing speed (drift rate) in children with or without ADHD](stop-signal-demands-no-drift-rate-change.md) — related
+- [Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age](reactive-inhibition-improves-age-8-11.md) — related
+- [Non-decision time (encoding/motor speed) is unchanged when inhibitory demands are introduced](stop-signal-demands-no-nondecision-time-change.md) — related
+- [Children adopt a more cautious response strategy (higher boundary separation) when intermittent stop trials are introduced](stop-signal-demands-increase-boundary-separation.md) — related
+- [Pre-adolescent children already exhibit proactive inhibitory control, slowing responses as stop-signal probability increases](proactive-inhibition-present-pre-adolescence.md) — related
+- [Children with and without ADHD show equivalent increases in response caution when stop trials are introduced](adhd-equivalent-response-caution-adjustment.md) — related
+- [Acute moderate aerobic exercise speeds children's reaction times without improving accuracy, with greater speed gains on choice than simple reaction time tasks](acute-exercise-speeds-reaction-time-not-accuracy.md) — related
+- [Go-trial accuracy was lower under reward conditions, an effect mediated by task version and administration order](reward-lowered-go-trial-accuracy-order-dependent.md) — related
+- [Reward improves the speed of inhibitory control (SSRT) in both cancellation and restraint tasks in children and adolescents](reward-improves-ssrt-cancellation-and-restraint.md) — related
+- [SSRT was faster in the cancellation task than in the restraint task, supporting inhibition as a non-unitary construct](ssrt-faster-cancellation-than-restraint.md) — related

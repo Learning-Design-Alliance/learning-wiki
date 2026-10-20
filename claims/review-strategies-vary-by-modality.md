@@ -45,3 +45,6 @@ Mixed-effects analysis of review-phase strategies coded from the screen recordin
 ## Related Claims
 
 - [Text amount and slide position strongly influenced studying durations, but picture type did not affect studying rate in either modality](slide-characteristics-drive-studying-duration.md)
+- [A forward linear review strategy predicted lower cognitive load regardless of modality, while scanning and slowing predicted higher cognitive load](linear-strategy-lower-cognitive-load.md) — related
+- [Fifth graders study videos significantly faster than content-equivalent illustrated texts during the initial pass](videos-studied-faster-than-illustrated-texts-fifth-graders.md) — related
+- [Faster initial-pass studying rate predicted better retention, delayed retention, and transfer and lower cognitive load, but the effect was mostly due to modality](faster-studying-rate-predicts-outcomes-and-load.md) — related

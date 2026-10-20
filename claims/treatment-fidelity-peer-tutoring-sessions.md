@@ -48,3 +48,5 @@ Treatment fidelity check on peer tutoring sessions: the first and fourth authors
 - [Teachers implemented Preschool PATHS with high fidelity and positive engagement in the trial](paths-preschool-high-implementation-fidelity.md)
 - [Teachers allocated on average five percent of intervention sessions to predicting and purpose setting, with fidelity of implementation averaging 45.4%](low-time-and-fidelity-engaged-reader-processes.md)
 - [Both included studies report high-fidelity implementation of eMINTS](emints-high-fidelity-implementation.md)
+- [Adding reciprocal peer tutoring with audio prompting to incidental exposure produced stronger vocabulary gains than incidental exposure alone for fourth-grade struggling readers](peer-tutoring-audio-prompting-vocabulary-gains.md) — related
+- [Most ERWC teachers completed required professional learning (82-99 percent), but only 0-3 percent taught the curriculum with fidelity across the three study years](erwc-high-pd-fidelity-low-curriculum-fidelity.md) — related

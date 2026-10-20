@@ -71,3 +71,5 @@ The review reports that dACC activation, correlated with performance and linked 
 - [Monkey neurophysiology shows adolescent-to-adult antisaccade improvement reflects enhanced representation of the goal and vector inversion, not stronger filtering of the stimulus](monkey-goal-representation-enhancement-not-filtering.md) — related
 - [Preparatory-period baseline activity before the antisaccade stimulus is higher and ramps faster in adult monkeys and predicts correct trials](preparatory-ramping-predicts-correct-inhibition.md) — related
 - [Impending rewards improve adolescent antisaccade performance toward adult levels, accompanied by greater nucleus accumbens activation](rewards-improve-adolescent-antisaccade-nacc.md) — related
+- [A 10-minute bout of moderate-intensity exercise improves Stroop inhibitory control with increased left dorsolateral prefrontal activation in young adults](moderate-exercise-stroop-dlpfc-activation.md) — related
+- [Children's ability to shield attention against distraction develops until the second decade of life alongside prefrontal cortex maturation](attention-control-develops-second-decade.md) — related

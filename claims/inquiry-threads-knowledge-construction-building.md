@@ -45,3 +45,4 @@ Inquiry thread analysis of 148 notes yielding nine threads, classified using van
 ## Related Claims
 
 - [Collaboration and synthesis indicators in Knowledge Forum increased over time among low-achieving students.](collaboration-synthesis-indicators-increased-over-time.md)
+- [Students with low achievement can assume high-level responsibility for collectively accomplishing knowledge-building discourse in a supportive knowledge-building environment.](low-achievers-collective-responsibility-knowledge-building.md) — a broader claim this one bears on

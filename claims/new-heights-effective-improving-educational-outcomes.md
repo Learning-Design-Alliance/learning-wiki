@@ -45,3 +45,4 @@ The page summarizes the evaluation finding that the New Heights program "was fou
 ## Related Claims
 - [The PROMISE evaluation measured impacts on service receipt, education, employment, expectations, health insurance, income, self-determination, and public assistance at 18 months after enrollment](promise-impact-measured-18-months-multi-domain.md) — related
 - [The PROMISE interim report estimated impacts across seven outcome domains for youth and families](promise-interim-impact-outcome-domains.md) — related
+- [21st Century Community Learning Centers after-school programs changed where and with whom students spent some of their after-school time](21st-cclc-changed-after-school-time-location-and-companions.md) — related

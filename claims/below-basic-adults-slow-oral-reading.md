@@ -47,3 +47,4 @@ Analysis of the 2003 NAAL supplemental study of 19,714 adults administered decod
 - [Correlations among reading and reading-related measures were much lower than expected, indicating poor integration of skills in struggling adult readers](poor-integration-low-correlations-adult-readers.md) — related
 - [Low reading-group first graders read far fewer words than high-group peers, limiting elaboration](low-group-first-graders-read-few-words.md) — related
 - [Large shares of U.S. 4th and 8th graders read below the NAEP Basic level in reading comprehension](naep-2005-below-basic-reading.md)
+- [Children with only fluency difficulties read more correct words per minute than children with both decoding and fluency problems](fluency-only-difficulties-faster-than-combined.md) — related

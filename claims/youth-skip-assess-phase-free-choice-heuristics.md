@@ -49,3 +49,5 @@ Authors' interpretation of the focus group narratives: youth relied on trial and
 - Urban high school youth report applying school science in non-guided everyday problem-solving, occurring mainly in home-and-family and play-and-recreation settings — related
 - Youth problem-solving situations show affinity for personal relevance but absence of initiative for societal problems — related
 - Youth possess sociocultural and cognitive know-how for knowledge application, but indigenous knowledge was not integrated and mobilization is lacking — related
+- [General problem-solving heuristics used in controlled conscious problem solving are biologically secondary skills requiring explicit learning](secondary-heuristics-require-explicit-learning.md) — related
+- [High school students used Google page rank as a first-order heuristic for relevance](google-page-rank-first-order-relevance-heuristic.md) — related

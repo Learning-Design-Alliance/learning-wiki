@@ -47,3 +47,4 @@ Orthogonal-contrast GLM (C3: competence vs relatedness) over the 64-variable nom
 - [Autonomy shows a strong content signal: 53 of 64 outcomes satisfy the a priori autonomy rule, with exceptions for self-efficacy (competence) and collegial support (relatedness)](autonomy-content-signal-c2.md) — related
 - [Perceived AI literacy does not moderate the indirect warmth and competence pathways from GenAI use to trust](ai-literacy-does-not-moderate-mediation-pathways.md) — related
 - [Perceived warmth and perceived competence partially mediate the negative association between GenAI use and interpersonal trust](warmth-competence-partially-mediate-genai-trust.md) — related
+- [Three-facet MTMM (content × valence × time) supports the SDT 3×2 architecture, with content the stronger separative force and 20 of 21 planned comparisons supported](three-facet-mtmm-content-valence.md) — a broader claim this one bears on

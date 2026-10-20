@@ -68,3 +68,5 @@ The brief reports that monitoring and support decline in the high school transit
 - [At Foxglove, the principal and coaches give teachers feedback on every assignment they share, alongside regular five-week progress reviews](foxglove-assignment-feedback-and-progress-reviews.md) — related
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
 - [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related
+- [Students felt AI monitoring and judgement adds pressure, while teachers worried over-monitoring would change their own behavior and risk teacher-student trust](ai-monitoring-pressure-and-judgement-concerns.md) — related
+- [SAGLET's real-time learning analytics provided alerts that enabled the teacher to monitor groups and give appropriate feedback](saglet-alerts-teacher-monitoring-feedback.md) — related

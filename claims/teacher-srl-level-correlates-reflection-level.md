@@ -45,3 +45,4 @@ Chi-square test of association between tertile-binned overall SRL score and exte
 ## Related Claims
 - [Teachers' self-assessed reflection skill exceeds their externally assessed reflection level, with only a low correlation between the two](teacher-reflection-self-external-assessment-gap.md) — related
 - [Teachers' self-reported SRL shows self-efficacy as the highest-practiced skill and help-seeking and goal-setting as the lowest](teachers-srl-self-efficacy-high-help-seeking-low.md) — related
+- [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md) — related

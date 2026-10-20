@@ -44,4 +44,6 @@ T tests on school-level Maryland School Assessment gain scores (proficient plus 
 
 
 ## Related Claims
--
+- [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related
+- [CPS learning gains were consistently higher in all grades in 1996 than in 1994, but 1999 gains declined slightly relative to 1997 in all grades except third, suggesting productivity gains may have peaked](cps-learning-gains-rose-through-1996-may-have-peaked-by-1999.md) — related
+- [In fifth-grade mathematics, ITBS scores declined while ISAT scores rose, a statistically significant difference in opposing trends](fifth-grade-math-opposing-trends-significant.md) — related

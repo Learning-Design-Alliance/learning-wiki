@@ -67,3 +67,9 @@ Survey and interview findings from district participants. The report states ther
 - Students, teachers, and principals are perceived to have limited involvement in ed-tech procurement decisions, and providers are far less satisfied with end-user involvement than district stakeholders — related
 - Technology directors are the least likely to trust evidence from providers, with only 29 percent satisfied with the credibility of provider evidence — related
 - [Existing school-based behavioral health TA in California is siloed, and equitable access depends on local leaders' individual knowledge and networks](siloed-behavioral-health-ta-unequal-access.md) — related
+- [Most surveyed ed tech developers report their products are informed by research, but purchasers struggle to evaluate that research](developers-report-research-informed-products.md) — related
+- [More than 70 percent of the 180 most popular literacy applications referenced no research in their design](literacy-apps-lack-research-reference.md) — related
+- [Districts engage with edtech products primarily through three scenarios: RFPs, vendor pitches, and peer recommendations](three-edtech-vendor-engagement-scenarios.md) — related
+- [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](varied-success-definitions-hinder-evaluation.md) — related
+- [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related
+- [Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms](district-provided-tools-single-tool-training.md) — related

@@ -47,3 +47,6 @@ Pre-registered OLS regression (Model 1) on 89 randomised trainee teachers in a M
 - [Video models with integrated theory do not improve trainee teachers’ knowledge of questioning for retrieval relative to restudy](video-model-no-knowledge-gain.md) — related
 - [Video models do not increase trainee teachers’ self-efficacy for questioning for retrieval relative to restudy](video-model-no-self-efficacy-gain.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
+- [Adding theory annotations to a video model yields no additional skill benefit over the same unannotated model](theory-annotation-no-extra-skill-benefit.md) — related
+- [Long video-based modelling examples did not improve diagnostic strategy knowledge, skills, self-efficacy, or cognitive load relative to independently practising in a computer simulation](modelling-examples-no-effect-complex-diagnostic-strategy.md) — related
+- [Quizzing outperforms no/filler activity, fewer-question testing and restudying, with a larger advantage over no/filler activity (low reexposure) than over restudying (high reexposure); against other elaborative strategies its advantage is small and not significant.](quizzing-beats-restudying-and-elaborative-controls.md) — a broader claim this one bears on

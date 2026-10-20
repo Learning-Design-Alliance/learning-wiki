@@ -47,3 +47,4 @@ Error analysis of confusion matrices and misclassified posts across the three cl
 - [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — related
 - The classifier's dominant error was labelling Low Stress students as Moderate Stress, a bias the authors judge safe because over-assignment yields extra support while the dangerous high-as-low error was uncommon — related
 - [86% of World of Warcraft forum posts constitute social knowledge construction rather than social banter](wow-forum-86-percent-social-knowledge-construction.md) — related
+- [Classifier errors cluster into three interpretable patterns, and the unknown abstention class is well classified (F1 = 0.93), reliably filtering off-topic chat](classifier-error-patterns-and-abstention-f1.md) — related

@@ -47,3 +47,4 @@ Analysis of teachers' implementation logs and a postimplementation survey measur
 - ASSISTments use for 7th-grade math homework significantly raises TerraNova mathematics scores in Maine (effect size +0.18) — related
 - [A possible mediating effect of teacher homework review practices was observed in the ASSISTments trial, but the planned mediation analysis failed to show an effect](assistments-teacher-review-mediation-null.md) — related
 - [Implementation varied substantially across teacher trials, and business-as-usual revision was often already technology-rich](medly-implementation-varied-technology-rich-control.md) — related
+- [ASSISTments achieved a long-term effect comparable to high-dosage tutoring at a small fraction of the cost](assistments-cost-comparison-saga-tutoring.md) — related

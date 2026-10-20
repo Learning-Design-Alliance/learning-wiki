@@ -47,3 +47,4 @@ Tukey-corrected post hoc contrasts following one-way ANOVAs on DANVA variables a
 - [Affect recognition deficits were not found unanimously across ADHD groups, suggesting a nuanced subtype-specific pattern](affect-deficits-not-unanimous-across-adhd-groups.md) — a broader claim this one bears on
 - [Inattentive symptoms are significantly positively correlated with fearful and vocal channel affect recognition errors](inattentive-symptoms-fearful-vocal-error-correlations.md) — reports the opposite
 - [ADHD children do not differ from controls on Elaboration, Abstractness of Titles or Resistance to Premature Closure](adhd-no-difference-elaboration-abstractness-closure.md) — related
+- [Inattentive symptoms are positively associated with sad affect recognition errors while hyperactive-impulsive symptoms are negatively associated](inattentive-symptoms-positive-hyperactive-negative-sad-errors.md) — related

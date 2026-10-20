@@ -54,3 +54,4 @@ Study of the Spring 2019 administration of a large-scale state summative assessm
 - [Identifying rapid guessing is important for the validity of achievement test scores, particularly with low-stakes tests](rapid-guessing-identification-important-for-score-validity.md) — related
 - [Rapid-guessing behavior is consistently very low across demographic subpopulations](rapid-guessing-low-across-demographic-subpopulations.md) — related
 - [Rapid guessing on achievement tests tends to be fairly state-like rather than a stable trait-like behavior, compared to academic achievement scores which are fairly stable](rapid-guessing-state-like-not-trait.md) — related
+- [Rapid guessing can be examined over three years using six test administrations to distinguish trait-like from situational disengagement](six-administrations-three-years-rapid-guessing-design.md) — related

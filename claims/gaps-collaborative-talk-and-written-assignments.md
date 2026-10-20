@@ -62,4 +62,7 @@ Conclusion section. "five trainers had been telling their trainees how to teach 
 
 
 ## Related Claims
--
+- [Trainee and trainer responses contradicted each other on ten questionnaire items (4, 10, 11, 14, 17, 18, 19, 21, 23, 25), suggesting a lack of coordination among trainers](trainee-trainer-response-contradiction-ten-items.md) — related
+- [Some SQU ELT trainers used prescriptive practices contrary to reflective preparation: telling trainees how to teach (74.2% agreement), restricting lesson planning to the teachers guide (53.4%), and training them to teach only the national textbook (66.8%)](prescriptive-training-practices-contrary-to-reflection.md) — related
+- [SQU ELT trainers encouraged peer observation and same-day feedback sessions, with 78.9% of trainees agreeing trainers encouraged class visits and 81.9% agreeing feedback came the same day as observation](squ-trainers-encouraged-peer-observation-and-same-day-feedback.md) — related
+- [Instruction plus the reflection tool improved vocational students' actual collaborative chat behavior compared with control, but instruction alone did not demonstrate any desired collaborative behaviors more often than control](instruction-with-tool-improved-actual-collaborative-behavior.md) — related

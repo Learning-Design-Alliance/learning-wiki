@@ -46,3 +46,5 @@ From the same supervisor survey in the five-year ABCTE evaluation: administrator
 - [A five-year evaluation is assessing the impact of the Passport to Teaching credential on teacher performance measured by student achievement](passport-to-teaching-evaluation-student-achievement.md) — related
 - [School administrators gave a generally positive assessment of American Board-certified teachers based on supervisor surveys](principals-positive-assessment-abcte-certified-teachers.md) — related
 - [Students of ABCTE teachers scored lower than students of non-ABCTE teachers on the Florida state math test](abcte-florida-lower-math-scores.md) — related
+- [Students of ABCTE-certified teachers and non-ABCTE teachers show no difference in reading achievement gains in Florida](abcte-florida-no-reading-gain-difference.md) — related
+- [Little is known about teachers certified through alternative certification programs and their experiences after certification](limited-knowledge-alt-cert-teachers-experiences.md) — related

@@ -44,3 +44,5 @@ Study 2 (N=16, within-subjects V1 vs. V2) qualitative results: V1 users felt unc
 ## Related Claims
 - [Unmediated pen input introduced new pen-specific barriers: lack of visual feedback on referential intent and high interaction cost of handwriting complex queries](pen-specific-barriers-unmediated-ink.md) — related
 - [In Study 1, learners preferred Penquiry V1 for part-scoped, specific-target and short questions, and favored the baseline for general topics and longer interpretive questions](penquiry-v1-question-type-preferences.md) — related
+- [Learners using standard keyboard-based LLM workflows during pen-based study face a Referential Barrier and an Expressive Barrier](referential-expressive-barriers-standard-llm-workflow.md) — related
+- [Pen input supported deictic referencing: 85% of V1 queries contained at least one visible pen mark, and ease of referencing improved significantly over the baseline](pen-marks-deictic-referencing-study1.md) — related

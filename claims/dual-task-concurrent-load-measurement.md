@@ -46,3 +46,4 @@ The review describes the secondary-task approach (e.g., reaction to color change
 - [There is no convincing evidence that loading WM depletes a resource needed for the control of attention](shared-resource-attention-control-wm-unconvincing.md) — related
 - [Older adults show a small but disproportionate age-related cost of concurrent processing on storage accuracy in working memory dual tasks](small-disproportionate-aging-dual-task-storage-cost.md) — related
 - [Auditory reaction-time measure of cognitive load did not differ between guided and unguided low-vision navigation in older adults](no-rt-cognitive-load-difference-guidance-older-adults.md) — a narrower finding that bears on this claim
+- [A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges](shared-resource-storage-processing-wm.md) — related

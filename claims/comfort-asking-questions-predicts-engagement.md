@@ -48,3 +48,5 @@ Agreement: Felt comfortable asking questions in class 0.22 0.02 ***"
 - [Faculty-signaled classroom climate relates to engagement: courses where instructors treat no question as too elementary and own responsibility for student success show more engaged students](faculty-climate-signals-engage-students.md) — related
 - [Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more](lecture-decreases-discussion-groupwork-increase-engagement.md) — related
 - [Student and teacher social validation feedback supported the strategy, with students reporting improved social lives, class engagement, and goal completion](social-validation-feedback-positive-problem-solving.md) — related
+- [About 61% of observed in-class student behavior was actively seeking knowledge or asking questions](majority-student-activity-questioning.md) — related
+- [Pre-med aspiration, excitement about learning, and competitiveness each predict higher engagement; gender, race, and most pre-college measures do not](motivation-and-background-predictors-engagement.md) — related

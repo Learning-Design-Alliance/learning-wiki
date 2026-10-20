@@ -67,3 +67,6 @@ Large-scale observational analysis of seasonal score patterns on NWEA MAP Growth
 - [Students who made the greatest school-year gains experienced the greatest summer learning loss](greatest-gains-greatest-summer-loss.md) — related
 - [The reality of summer learning loss is more complex than the long-standing gap-widening account](summer-loss-more-complex-than-gap-account.md) — related
 - [Learning loss varied considerably by school, with some schools seeing slides of 10 percentile points or more and others recording no losses or small gains](school-level-variation-in-learning-loss.md) — a narrower finding that bears on this claim
+- [Mean achievement in the studied cohort shows a saw-tooth seasonal pattern, with within-year gains followed by summer declines (summer learning loss)](sawtooth-seasonal-achievement-pattern-map-growth.md) — related
+- [Asian students generally pull ahead of White students at a faster rate during summers than during school periods](asian-white-summer-growth-advantage.md) — related
+- [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — related

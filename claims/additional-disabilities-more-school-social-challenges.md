@@ -45,3 +45,5 @@ In the comparison across participant subgroups in the experience-sampling study,
 ## Related Claims
 
 - [School interactions of students with visual impairments were dominated by receiving help, with few involving giving help](school-interactions-receiving-help-not-giving.md)
+- [Doing nothing at school was the least positively rated activity for students with visual impairments](doing-nothing-at-school-least-positive.md) — related
+- [High school students with visual impairments fitted in significantly less and felt significantly less accepted at school than in other contexts](vi-students-fit-in-less-accepted-at-school.md) — related

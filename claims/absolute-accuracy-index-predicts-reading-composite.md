@@ -43,4 +43,6 @@ Regression models with the Absolute Accuracy Index as predictor; significant for
 
 
 ## Related Claims
--
+- [Confidence on the WMPT predicts numeracy but not reading or spelling](confidence-predicts-numeracy-only.md) — related
+- [The Bias Index significantly predicts all four WIAT-II achievement measures, with over-confidence associated with lower achievement](bias-index-predicts-achievement.md) — related
+- [WMPT accuracy is positively correlated with reading, numeracy, spelling and composite achievement scores](wmpt-accuracy-correlates-achievement.md) — related

@@ -46,3 +46,4 @@ The article's abstract, an author explanation rather than a reported study, stat
 - [Computerized adaptive testing selects test questions based on test takers' answers to previous questions](cat-selects-questions-based-on-previous-answers.md) — possibly the same claim (merge candidate)
 - Procedures developed for evaluating content alignment of linear tests are not readily applicable to computerized adaptive tests — related
 - [The study examines how CAT test design and item bank distribution affect content coverage and test efficiency in a CCSS-aligned reading comprehension test](cat-design-and-bank-distribution-affect-coverage-and-efficiency.md) — related
+- [Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow](cbe-better-adaptivity-extreme-achievers-shallow-banks.md) — related

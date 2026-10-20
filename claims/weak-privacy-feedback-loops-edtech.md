@@ -46,3 +46,4 @@ Interview finding from the Results section of this qualitative study. P6 describ
 - [EdTech organizations recognize privacy as important but consistently defer it across the product lifecycle](edtech-privacy-deferred-across-product-lifecycle.md) — related
 - [EdTech organizations delegate privacy responsibility to cloud providers, policy documents, and downstream institutions, diffusing accountability](edtech-privacy-responsibility-delegated-diffused.md) — related
 - [Privacy capacity was unevenly distributed, distinguishing resource scarcity from strategic deprioritization of privacy](uneven-privacy-capacity-scarcity-versus-deprioritization.md) — related
+- [Current district privacy and security approaches foster superficial compliance over rigorous safeguards and provide minimal visibility into how student data are used](privacy-compliance-over-rigorous-safeguards.md) — related

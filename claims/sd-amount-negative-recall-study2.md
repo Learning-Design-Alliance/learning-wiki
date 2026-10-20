@@ -45,3 +45,8 @@ Replication regression with 101 students assigned to five conditions (0%, 12.5%,
 ## Related Claims
 
 - [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md)
+- [In Study 1, a greater seductive detail amount linearly worsened recall performance (b = −0.11, p = .030)](sd-amount-linear-negative-recall-study1.md) — related
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
+- [Adding seductive details to multimedia instruction significantly worsens recall of pertinent content compared with instruction without seductive details](seductive-details-worsen-recall-versus-control.md) — a broader claim this one bears on
+- [Low-WMC readers recall fewer correct causes when text contains seductive illustrations compared with nonillustrated text](low-wmc-seductive-essay-detriment.md) — related
+- [Working memory capacity interacts with illustration type: seductive illustrations impair comprehension only for low-WMC readers](wmc-moderates-seductive-details-effect.md) — related

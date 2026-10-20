@@ -48,3 +48,6 @@ The same moderator analysis of the meta-analysis found "parental home supervisio
 ## Related Claims
 - [Parental aspiration/expectation for children's educational achievement has the strongest relationship with academic achievement among involvement components](parental-aspiration-expectation-strongest-relationship.md) — related
 - [Parental involvement has a small to moderate, practically meaningful relationship with students' academic achievement](parental-involvement-small-to-moderate-achievement-relationship.md) — a broader claim this one bears on
+- [The relationships among perceived parental involvement in homework, student homework behaviors, and academic achievement differ among elementary, junior high, and high school students.](parental-homework-involvement-homework-behaviors-achievement-grade-differences.md) — related
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
+- [Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education](parent-involvement-ideas-inhibit-equity.md) — related

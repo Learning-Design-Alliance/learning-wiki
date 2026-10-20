@@ -64,3 +64,4 @@ In a study (Huelser & Marsh, 2006) where half the subjects explained their answe
 ## Related Claims
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related
+- [Incorrect information learned from a multiple-choice test is applied and reasoned with on conceptually related transfer questions](lures-transfer-erroneous-reasoning.md) — related

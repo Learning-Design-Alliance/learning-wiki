@@ -67,3 +67,4 @@ Concluding sentence of the Resources and support theme from the interviews. Both
 - [Faculty perceptions of student ethical inadequacy contradict students' own acceptance of ethical responsibility, with both groups showing pragmatic conscious acceptance of AI](faculty-student-contradiction-ethical-responsibility-ai.md) — related
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related
 - [A multi-source study identifies eight key areas of ethical consideration regarding teachers' use of AI for student feedback](eight-ethical-areas-teacher-ai-feedback.md) — related
+- [Faculty observed that students engage shallowly with AI-generated content without structure, concluding productive use must be modeled](shallow-engagement-ai-generated-content.md) — related

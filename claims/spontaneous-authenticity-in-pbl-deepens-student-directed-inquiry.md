@@ -64,3 +64,9 @@ This is a single, deeply documented case study (Portraiture methodology, which p
 - [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related
 - [Most students (71–83%) experienced working more on real-world problems in CCS projects than in everyday school (33–44%), while collaboration showed no significant distinction from everyday schoolwork](ccs-real-world-problem-solving-distinct-collaboration-not.md) — related
 - [Similar introductory lessons on the same topics were observed across grades separated by multiple years, indicating little curricular development](similar-lessons-across-grades-little-development.md) — related
+- [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](authentic-projects-build-career-self-efficacy.md) — related
+- [Multiple factors besides learning issues may shape PBL students' self-study decisions](multiple-factors-shape-pbl-self-study-decisions.md) — related
+- [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related
+- [Elementary CCS students articulated multiple, varied project purposes, with all students acting toward helping the birds](youth-varied-project-purposes-ccs.md) — related
+- [Detailed case study shows a spell checker's affordances are enacted in rich, creative ways beyond designers' intentions](spell-checker-situated-affordances.md) — related
+- [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](real-world-projects-structured-questions-top-content-strategies.md) — related

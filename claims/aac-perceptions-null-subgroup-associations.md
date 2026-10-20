@@ -82,3 +82,4 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Ethnic identity associations with functioning are robust across child gender and ethnic group, and ethnic identity scores are uncorrelated with IQ](ethnic-identity-effects-robust-across-gender-ethnicity-uncorrelated-iq.md) — related
 - [Perceptions of engagement strategies were analyzed for differences by age, gender, and online learning experience](demographic-differences-engagement-strategy-perceptions.md)
 - [Parents' postimplant experiences of children's outcomes largely matched their preimplant expectations, with about four fifths reporting expectations met](ci-parent-expectations-matched-experiences.md) — related
+- [Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation](no-moderators-life-events-self-control.md) — related

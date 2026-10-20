@@ -43,4 +43,4 @@ Independent t-test comparing male and female participants in the 56-participant 
 
 
 ## Related Claims
--
+- [Female children and adolescents recognize vocal emotions more accurately than males, with no interaction between sex and age](female-advantage-vocal-emotion-recognition-stable.md) — related

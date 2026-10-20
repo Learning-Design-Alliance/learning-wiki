@@ -45,3 +45,4 @@ The article's own citation line and keyword list establish its scope. The keywor
 ## Related Claims
 - [Off-line self-report instruments show low concurrent validity with on-line measures and do not predict learning outcomes very well](offline-self-reports-low-concurrent-validity-veenman.md) — related
 - [Intelligent tutoring systems have been shown to improve upon typical classroom instruction](its-improve-upon-typical-classroom-instruction.md) — related
+- [Learners often fail to regulate their own learning in computer-based learning environments](learners-fail-self-regulation-in-cbles.md) — related

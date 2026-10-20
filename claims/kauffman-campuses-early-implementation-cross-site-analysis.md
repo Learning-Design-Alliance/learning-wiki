@@ -44,3 +44,6 @@ Descriptive cross-site implementation analysis of the Kauffman Campuses Initiati
 
 ## Related Claims
 - [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related
+- [Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers](teacher-level-collaboration-remained-low-activities-targeted-leaders.md) — related
+- [Compact collaboration activities did not yield systemic change within the grant period but were perceived to have produced small-scale improvements in instructional quality and human capital practices and increased availability of school effectiveness information](compact-activities-small-scale-improvements-not-systemic-change.md) — related
+- [Several collaboration activities show promise in spreading effective practices, but overall progress in increasing collaboration has been limited](collaboration-progress-limited-despite-promise.md) — related

@@ -51,3 +51,4 @@ Session-level regression analysis (Table 2) on the 711-student iReady sample: to
 - [Classroom-relativized delayed start shows stronger predictive power and model fit than raw minutes, especially for ELA outcomes](relative-delayed-start-stronger-fit.md) — related
 - [Delayed start during math practice predicts standardized ELA test performance (β=.10 SD, p<.001)](delayed-start-math-predicts-ela-outcomes.md) — related
 - [Early starters (<5 min delay) show greater outcome growth while chronic delayers (>13 min) show negative trends relative to regular starters](early-starter-chronic-delayer-subgroups.md) — related
+- [Sensitivity analysis finds outcome gains significant at cut-points below 5 minutes and beyond 13-15 minutes of delayed start in both subjects](sensitivity-analysis-cutpoints.md) — related

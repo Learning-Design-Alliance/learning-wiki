@@ -51,3 +51,6 @@ Final hierarchical regression (Model 3) in a longitudinal study of 44 children t
 - [Spatial skills uniquely predict 27% of the variance in preschool mathematics over and above executive function](spatial-skills-unique-27-percent-math-variance.md) — related
 - [Vocabulary (PPVT) is not a significant unique predictor of preschool mathematics once EF and spatial skills are in the model, despite alone accounting for 41% of variance](ppvt-not-unique-math-predictor.md) — related
 - [Longitudinal evidence shows spatial ability predicts STEM educational and occupational outcomes beyond mathematical and verbal ability](spatial-ability-longitudinal-stem-prediction.md) — related
+- [Higher-SES preschoolers outperform lower-SES peers on math, spatial, EF, and vocabulary measures, except the Tap Test where the difference is a non-significant trend](ses-gaps-in-early-spatial-ef-math-skills.md) — related
+- [Executive functioning and early numeracy skills assessed in kindergarten directly predict mathematical performance in second grade, jointly explaining 57.3% of its variance](ef-and-early-numeracy-directly-predict-grade-2-math.md) — related
+- [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related

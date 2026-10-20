@@ -45,3 +45,5 @@ Exploratory pilot comparing 6 groups (2 teacher-guided, 2 graduate-student-guide
 ## Related Claims
 - [Teacher and researcher coaches both used a cognitive apprenticeship approach but differed in scaffolding style](bioworld-coaching-styles-cognitive-apprenticeship.md) — related
 - [No supplemental intervention was significantly better than another, and gains were not tied to program type](no-significant-intervention-differences.md) — related
+- [Teacher-guided classroom discussion before reflection prompts yields higher learning gains than all other support conditions, especially on application-level items](classroom-discussion-before-prompts-higher-concept-map-learning-gains.md) — related
+- [Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions](knowledge-gains-comparable-across-prompt-conditions.md) — related

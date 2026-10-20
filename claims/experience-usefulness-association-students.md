@@ -47,3 +47,4 @@ Descriptive monotonic trend analysis across student experience categories (n = 1
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — related
 - [AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity](aifred-user-experience-ratings.md) — related
 - [Perceived gains in creativity, independent thinking and motivation rise sharply among students with more than three years of GenAI experience, though the comparison is cross-sectional](genai-duration-related-cognitive-gains.md) — related
+- [Weekly AI use differs sharply across groups even though nearly all groups report similar prevalence of any AI-service use, with administrative staff highest in prevalence but lowest in weekly use](weekly-use-prevalence-divergence.md) — related

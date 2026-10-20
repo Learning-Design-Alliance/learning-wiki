@@ -69,3 +69,5 @@ In the Thursday activity both classes did the same thing: each child shared a wo
 - Students' preferred activity diverged between classes: Year 2-1 most often chose the primary-language activity, Year 2-2 the teacher-controlled storytelling session — related
 - [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](children-drawings-notice-integration-elements.md) — related
 - [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — related
+- [Participants identified children under 10 as the intended target group for the storytelling robot, significantly more than all other age groups](icub-storytelling-target-under-10-children.md) — related
+- [Students preferred robot-assisted storytelling and some students treated the robot as a more equal communication partner than the instructor](students-prefer-and-trust-robot-storytelling-partner.md) — related

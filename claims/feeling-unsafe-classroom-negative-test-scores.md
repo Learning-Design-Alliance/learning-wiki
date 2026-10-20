@@ -44,3 +44,4 @@ Panel analysis of survey responses from New York City middle school students, wi
 
 ## Related Claims
 - [The association between feeling unsafe and test scores holds across multiple robustness checks](feeling-unsafe-test-score-robustness-checks.md) — possibly the same claim (merge candidate)
+- [Exposure to mid-year entrants has small negative short-run effects on stable students' math and ELA test scores in NYC](mid-year-entry-small-negative-short-run-effects-stable-students.md) — related

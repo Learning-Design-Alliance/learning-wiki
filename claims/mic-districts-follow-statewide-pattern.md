@@ -51,3 +51,4 @@ Figure 2 plots each California district's 2015 versus 2018 percentage of grades 
 - [English learners in nearly all MiC districts showed stronger annual CAASPP mathematics gains than their statewide peers from 2015 to 2017 despite remaining mostly at the lowest achievement level](mic-english-learners-stronger-gains.md) — related
 - [The lowest-performing MiC elementary schools made increasingly greater progress beyond prediction as CCSS-M implementation deepened from 2016 to 2018](mic-lowest-elementary-schools-increasing-progress.md) — related
 - [PPE schools showed larger percentage increases in proficient students than non-PPE schools on statewide ELA and mathematics assessments, 2015–2017](ppe-schools-achievement-gains-2015-2017.md) — related
+- [Availability of CAASPP statewide assessment data changed MiC leadership teams' discussions and appeared to accelerate districts' ability to monitor improvement](caaspp-data-accelerated-improvement-monitoring.md) — related

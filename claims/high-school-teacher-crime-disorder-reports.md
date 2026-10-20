@@ -48,3 +48,4 @@ Teacher surveys (grades K-12, spring 2009) show that at the high school level, "
 - Victims of any crime, theft, and violence reported fearing attack or harm at school at higher rates than nonvictims — related
 - [A majority of grade 4-8 Chicago teachers used Grow resources in year one, and slightly more than half found the components beneficial](majority-teachers-used-grow-resources-year-one.md) — related
 - [Administrators reporting social problems in the school's community as a top roadblock grew from 31 percent in 2009 to 43 percent in 2017](community-social-problems-roadblock-growth.md) — related
+- [Most high school suspensions in CPS resulted from student defiance and rule violations rather than physical conflict](defiance-drives-most-high-school-suspensions.md) — related

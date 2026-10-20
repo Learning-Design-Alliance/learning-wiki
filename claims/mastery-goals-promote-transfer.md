@@ -45,3 +45,4 @@ Narrative review attribution to Nokes-Malach and Mestre (2013) and Pugh et al. (
 ## Related Claims
 - [Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies](adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) — related
 - [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — related
+- [Most surveyed teachers planned to transfer what they learned during pandemic distance teaching to adapt future in-person teaching](teachers-plan-transfer-distance-learning-lessons-in-person.md) — related

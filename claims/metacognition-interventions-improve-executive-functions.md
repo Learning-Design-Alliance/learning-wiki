@@ -43,4 +43,7 @@ Executive functions were coded as a distinct outcome construct (inhibitory contr
 
 
 ## Related Claims
--
+- [The review concludes music training has a beneficial effect on core executive function performance, primarily in inhibitory control and to a lesser extent in working memory and cognitive flexibility](review-concludes-music-training-benefits-core-executive-functions.md) — related
+- [Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise](acute-exercise-small-positive-executive-cognition-effect.md) — related
+- [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related
+- [Chronic exercise significantly improves working memory, inhibitory control, and cognitive flexibility in children and adolescents](chronic-exercise-improves-executive-function-children.md) — related

@@ -42,3 +42,6 @@ Mixed-model ANOVA on the misconceptions task (N = 87) showed a main effect of Ag
 
 ## Related Claims
 - [Accuracy and speed of simple equation rearrangement increase with students' age across grades 7–12](equation-rearrangement-accuracy-speed-increase-with-age.md) — related
+- [Adolescents show lower accuracy and longer reaction times on counterintuitive misconception trials than on matched control trials in science and maths](misconception-trials-lower-accuracy-longer-rt-than-control.md) — related
+- [Behavioral ratio sensitivity for reaction time increases with age, with adults showing greater RT ratio sensitivity than children](rt-ratio-sensitivity-increases-with-age.md) — related
+- [Reaction-time benefit from predictive context is similar across ages 12–24, suggesting mature prediction abilities by age 12](prediction-rt-benefit-mature-by-age-12.md) — related

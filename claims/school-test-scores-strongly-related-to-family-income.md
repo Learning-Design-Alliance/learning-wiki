@@ -80,3 +80,13 @@ Observational analysis of 2019 data for Illinois schools plotted in Figure 1, re
 - On the current path the U.S. will miss its 2020 graduation rate target by 310,000 students, most from low-income families — related
 - [The Berea College Promise Neighborhood serves counties with per capita income significantly lower than state and national averages](berea-pn-economically-distressed-counties.md) — related
 - [State-level percentage of uncertified teachers correlates negatively with NAEP state assessment performance (r from –.40 to –.63)](uncertified-rate-negative-naep-correlation.md) — related
+- [Four high-poverty case study schools sustained rising achievement for all subgroups for 5 to 10 years while pursuing personalization](four-equity-schools-rising-achievement-all-subgroups.md) — related
+- [Early socioeconomic math performance gaps grow over time, producing substantial differences by fourth grade](early-math-gaps-grow-by-fourth-grade.md) — related
+- [Schools with lower percentages of Proficient and Distinguished observation ratings tend to be higher-poverty schools](lower-rated-schools-tend-higher-poverty.md) — related
+- [The Berea College Promise Neighborhood serves an area where 81 percent of students qualified for free or reduced-price school meals in 2010](berea-pn-high-poverty-student-population.md) — a narrower finding that bears on this claim
+- [On 2022 NAEP 8th- and 12th-grade reading and math exams, students who were both English learners and from low-income backgrounds scored lowest among four student groups, with less than one third scoring basic or above in reading and less than one quarter in math](naep-dual-el-low-income-lowest-2022.md) — related
+- [Concentrated poverty in New Mexico is associated with lower grade-level proficiency and inequitable access to experienced teachers](nm-concentrated-poverty-lower-proficiency-teacher-inequity.md) — related
+- [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) — related
+- [Children from low-income families enter kindergarten one full standard deviation (15 standard score points) behind higher-income peers in literacy and mathematics (ECLS-K, attributed to Zill & West, 2001)](ecls-kindergarten-literacy-math-gap-one-sd.md) — related
+- [AP and IB programs in neighborhood high schools serve students with higher-than-average but below selective-enrollment achievement](ap-ib-fill-gap-for-mid-high-achievers.md) — related
+- [All middle and high schools in the Berea College Promise Neighborhood are persistently low-achieving](berea-pn-schools-persistently-low-achieving.md) — a narrower finding that bears on this claim

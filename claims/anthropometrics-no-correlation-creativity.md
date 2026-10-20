@@ -48,3 +48,5 @@ Null bivariate correlation results (Table 2) of the cross-sectional study. The a
 ## Related Claims
 - [Active play correlates with creativity (TCT-DP score) in adolescents aged 14–17, but not in children aged 6–13](active-play-creativity-correlation-adolescents.md) — related
 - [Vigorous physical activity is positively and significantly correlated with fluency, originality, flexibility and overall creativity in 10–11-year-old children](vigorous-activity-correlates-divergent-thinking.md) — related
+- [Light and moderate physical activity and sedentary behavior show no significant relationship with any creativity component or overall creativity](light-moderate-sedentary-no-creativity-relationship.md) — related
+- [TCT-DP creativity scores increase with age group, and adolescents are the most sedentary](tct-dp-increases-with-age.md) — related

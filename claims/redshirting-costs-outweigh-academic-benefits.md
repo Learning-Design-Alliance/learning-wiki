@@ -48,3 +48,4 @@ A national research brief analyzing MAP Growth K-2 assessment data states in its
 - [Redshirted students may have potentially lower lifetime earnings because they enter the labor force a year later](redshirting-potentially-lower-lifetime-earnings.md) — a narrower finding that bears on this claim
 - [Redshirted children may gain a physical maturity advantage over peers, which some parents cite for sports](redshirting-physical-maturity-advantage-sports.md) — related
 - [Redshirting trends among U.S. kindergartners were examined between fall 2017 and 2025 using data on over three million students](redshirting-trends-2017-2025-map-growth.md) — related
+- [Multiple non-academic competencies (leadership, sports-related skills, work habits, prosocial behavior, locus of control) appear to predict students' later success in higher education and the labor market](non-academic-competencies-predict-later-success.md) — related

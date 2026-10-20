@@ -46,3 +46,6 @@ Editorial discussion of the empirical study by Rummel, Mullins & Spada combining
 
 - [The three major theories of artifact-people interaction operate at different levels: affordances individual, structuration societal, instrumental genesis small-group](three-theories-artifact-levels-comparison.md)
 - [The editorial calls for empirically grounded analysis combining Rabardel's theory with design-based research data to study mutual shaping of CSCL software and group cognition](rabardel-plus-design-based-research-agenda.md)
+- [CSCL should focus analytic attention on small-group interactions rather than individuals or society](small-group-unit-of-analysis-cscl.md) — related
+- [Editorial reports that optimizing a collaborative learning design after reflecting on misalignment significantly improved design-enactment alignment and improved group performance](editorial-reports-design-optimization-improves-alignment-and-group-performance.md) — related
+- [Technology affordance conditions, manipulated via device-to-student ratio and scripts, shape role emergence, role coordination, and group structure in collaboration](device-ratio-affordances-role-interaction.md) — related

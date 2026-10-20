@@ -69,3 +69,4 @@ Informal learning findings: "46 per cent of respondents stated that they used Fa
 - [Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio](student-generated-hidden-curriculum-sns.md) — related
 - [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](sns-groups-support-informal-design-learning.md) — related
 - [A quarter of first-year students reported their academic work was often or very often adversely affected by time spent on Facebook.](facebook-time-detriment-academic-work.md) — related
+- [Students re-purpose social networking tools like Facebook as course back-channels, and user characteristics correlate with reported propensity to collaborate](facebook-backchannel-course-collaboration.md) — related

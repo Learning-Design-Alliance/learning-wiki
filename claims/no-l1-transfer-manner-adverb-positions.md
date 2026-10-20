@@ -48,3 +48,4 @@ In the ten-student judgment study, sentences d and f (manner adverbs sentence-fi
 - [L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies](l1-interference-errors-fossilization-risk.md) — reports the opposite
 - The article concludes adult learners acquire two things about English adverbs: their general syntactic positions and their scope — related
 - [Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data](mental-representation-not-directly-instructable.md) — related
+- [A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners](white-adverb-placement-negative-evidence-failed.md) — related

@@ -48,3 +48,4 @@ Behavioral analysis of the go/no-go data from the same 123-child sample. When mi
 - [Growth mindset predicts post-error accuracy for children with small Pe amplitudes but not large Pe amplitudes (exploratory moderation)](mindset-pe-moderation-post-error-accuracy.md)
 - [Pe amplitude on error trials relates to post-error accuracy, but Pe does not mediate the mindset–post-error accuracy link in children](pe-post-error-accuracy-no-mediation-children.md)
 - [Children showed post-error slowing, unaffected by growth mindset, and no baseline post-error accuracy effect](post-error-slowing-children-no-mindset-effect.md)
+- [Growth mindset is unrelated to the ERN (early, automatic error-processing component) in children](mindset-unrelated-ern-children.md) — related

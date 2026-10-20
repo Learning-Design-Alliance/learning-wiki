@@ -49,3 +49,4 @@ Observational analysis of the CIVED 1999 civic education study data. The article
 ## Related Claims
 - [An open classroom climate fosters adolescents' intention to be an informed voter](open-classroom-climate-fosters-informed-voter-intention.md) — related
 - [An open classroom climate at school can partially compensate for the disadvantages of young people with low socioeconomic status](open-classroom-climate-compensates-low-ses.md) — related
+- [U.S. civic engagement and civics knowledge fall short of the democratic-preparation goal of schooling](us-civic-engagement-and-civics-knowledge-fall-short.md) — related

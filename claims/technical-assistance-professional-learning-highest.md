@@ -45,3 +45,4 @@ Optional technical assistance survey items with 56–64% of LEAs responding. "Am
 ## Related Claims
 - [LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students](lea-ta-needs-four-categories-school-behavioral-health.md) — related
 - [Almost all LEAs planned professional development for principals and site leaders on early childhood topics](almost-all-leas-leader-pd.md) — related
+- [State investments in coordinators, professional development, and technical assistance were key to achieving community schools outcomes](state-investment-coordinators-pd-key-to-outcomes.md) — related

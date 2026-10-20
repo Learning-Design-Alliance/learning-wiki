@@ -43,4 +43,6 @@ One-way ANOVA on existing district LCAP survey data collected April 2016 from st
 
 
 ## Related Claims
--
+- [For standardized mean changes, rubric effects on performance decrease with mean age, yet secondary-education studies show larger effects than primary and middle school — contradictory moderator results](rubric-effect-age-educational-level-contradictory.md) — related
+- [Prevalence of decreased intrinsic academic motivation is approximately twice as high in junior high as in elementary students](motivation-decline-prevalence-doubles-junior-high.md) — related
+- [Intrinsic academic motivation scores are lower in 7th- and 8th-grade junior high students than in 4th-grade elementary students](motivation-scores-lower-junior-high-than-4th-grade.md) — related

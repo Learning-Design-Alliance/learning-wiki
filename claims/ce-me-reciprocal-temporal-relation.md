@@ -43,4 +43,4 @@ Time series regression of engagement ratings across 2.5-minute video intervals (
 
 
 ## Related Claims
--
+- [Disciplinary engagement at one interval positively predicts subsequent behavioral and collaborative engagement](de-predicts-subsequent-be-and-ce.md) — related

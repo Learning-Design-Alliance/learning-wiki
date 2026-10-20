@@ -65,3 +65,4 @@ Authors' interpretation (type e) offered in the conclusions to explain low parti
 - [Research project supervision styles can be differentiated by degree of supervisory control and degree of support, yielding five distinct styles](supervision-styles-control-support-axes.md) — related
 - [Tutors and trainee researchers most value supportive attitude, mastery of the research field, and accessibility in a research project supervisor](supervisor-desirable-characteristics-survey.md) — related
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related
+- [Small additions of research-specific procedures can shift a study out of exempt review](small-procedure-additions-change-review-path.md) — related

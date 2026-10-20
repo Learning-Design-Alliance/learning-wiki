@@ -45,3 +45,5 @@ Summary of the item exposure analysis of the empirical comparability study, as s
 ## Related Claims
 - [Within a single administration, COLO administered more items and overexposed fewer items than the CBE, likely due to its randomesque exposure-control procedure](colo-better-within-administration-item-exposure.md) — related
 - [Differences in test-taking engagement across content categories were primarily due to differences in the reading load of items](engagement-differences-across-content-categories-due-to-reading-load.md) — related
+- [CBE shows better engine adaptivity than COLO, especially for extremely low or high achievement students](cbe-better-adaptivity-extreme-achievers.md) — related
+- [Test lengths are comparable across engines, but CBE test durations are higher than COLO's in both terms and content areas, more prominently in Reading](cbe-longer-test-duration-comparable-length.md) — related

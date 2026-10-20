@@ -44,3 +44,5 @@ Supplemental analysis using employment and college enrollment data tracked three
 
 ## Related Claims
 - [Only CPS graduates with access to very selective colleges (above 3.3 GPA and ACT 26+) have four-year college graduation prospects exceeding 50 percent](high-qualifications-needed-for-majority-graduation-odds.md) — related
+- [Attending a match college raises simulated four-year graduation probability by 13 percentage points for CPS students with access to very selective colleges, but college choice has little impact for students with low qualifications](college-match-benefits-rise-with-qualifications.md) — related
+- [College undermatch is widespread among CPS students at all qualification levels, with only 27 percent of selective-access graduates matching](college-undermatch-widespread-all-qualification-levels-cps.md) — related

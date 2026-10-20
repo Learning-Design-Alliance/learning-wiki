@@ -47,3 +47,4 @@ Multiple regression analysis from the validation study with Raven's entered firs
 - [Stealth assessment estimates of problem solving in Use Your Brainz correlate significantly with external measures (Raven's and MicroDYN) in middle-school students](stealth-assessment-problem-solving-correlates-external-measures.md) — related
 - [Adding MicroDYN rule application significantly improves prediction of overall problem solving, planning, tool usage, and evaluating progress, but not analyzing givens](rule-application-predicts-facets-except-analyzing-givens.md) — related
 - [Students with higher general cognitive ability are more efficient in equation rearrangement](cognitive-ability-correlates-equation-efficiency.md) — related
+- [Stealth assessment facets show good internal consistency (Cronbach's alpha = 0.76) while MicroDYN reliabilities were low in this middle-school sample](internal-consistency-stealth-versus-microdyn.md) — related

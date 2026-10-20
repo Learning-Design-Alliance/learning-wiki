@@ -67,3 +67,4 @@ The review reports, citing Crandell and Smaldino, that "A stronger noise effect 
 - [Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults](noise-impairs-children-listening-comprehension.md) — related
 - [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — possibly the same claim (merge candidate)
 - [Most children with emotional and behavioral disorders have undiagnosed language impairment](ebd-undiagnosed-language-impairment.md) — related
+- [Children with specific language impairment show reduced selective attention to and integration of audiovisual speech](sli-reduced-audiovisual-speech-attention-integration.md) — related

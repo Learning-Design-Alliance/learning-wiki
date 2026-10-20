@@ -61,3 +61,6 @@ A binary mixed-effects logistic regression (random intercept per participant) on
 - [Students reported mixed, task-dependent perceptions of the efficiency and speed of voice versus text input](mixed-efficiency-speed-perceptions.md) — related
 - [Edited voice prompts did not significantly differ from text prompts in first-attempt success](edited-voice-no-significant-difference.md) — related
 - [Unedited voice prompts have lower odds of first-attempt success than text prompts on two of three Prompt Problems](unedited-voice-lower-first-attempt-success.md) — related
+- [Students reported text supports structured, iterative planning while some valued voice for getting initial ideas out](modality-shapes-planning-and-idea-generation.md) — related
+- [Greater proportion of voice prompts used correlates moderately with greater stated preference for voice](voice-usage-preference-correlation.md) — related
+- [Initial prompting method did not explain immediate success on the third problem (P3)](p3-modality-no-effect.md) — related

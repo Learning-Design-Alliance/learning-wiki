@@ -50,3 +50,4 @@ National random-sample survey of 1,008 undergraduates whose in-person courses mo
 - [STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020](stem-satisfaction-dropped-after-remote-shift-covid.md) — a narrower finding that bears on this claim
 - Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%) — related
 - [For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses](online-course-lower-grades-current-and-future.md) — related
+- [Post-shift satisfaction was lower for STEM courses than for non-STEM courses, a gap that predated the shift](stem-less-satisfied-than-non-stem-post-shift.md) — related

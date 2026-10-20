@@ -46,3 +46,5 @@ Qualitative finding from student emails and posts in the case study. The authors
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Tutoring benefits both tutors and tutees](peer-tutoring-improves-achievement.md) — related
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — a narrower finding that bears on this claim

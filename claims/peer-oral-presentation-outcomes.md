@@ -63,3 +63,4 @@ Outcome study reported by the review: peer review of oral presentation skills "l
 
 ## Related Claims
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — a broader claim this one bears on
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related

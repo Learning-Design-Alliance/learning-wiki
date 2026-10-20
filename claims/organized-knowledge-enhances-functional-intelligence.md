@@ -49,3 +49,7 @@ Theoretical argument in the section on enhancing novel problem solving: the arti
 
 ## Related Claims
 - [The worked example effect holds for the schema-acquisition goal, but other instructional goals may be better served by other means](worked-example-effect-goal-dependent.md) — related
+- [The evolutionary analogy for a smaller working memory being more efficient is doubtful](doubt-on-smaller-working-memory-efficiency-analogy.md) — related
+- [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — related
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
+- [Long-term memory is effectively unlimited and holds schemas that vary in their degree of automation](long-term-memory-schemas-automation.md) — related

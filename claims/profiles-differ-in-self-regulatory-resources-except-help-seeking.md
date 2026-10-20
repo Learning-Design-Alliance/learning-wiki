@@ -50,3 +50,12 @@ One-way ANOVAs comparing the four clusters with Tukey HSD post hoc tests. The HL
 - [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — related
 - [Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only](profiles-predict-self-efficacy-strategies-engagement.md) — related
 - [The four achievement goal profiles differ significantly in all four dimensions of writing self-efficacy](goal-profiles-differ-writing-self-efficacy.md) — related
+- [Adaptive help seeking is a self-regulatory behavioral strategy, distinct from dependent help seeking](adaptive-versus-dependent-help-seeking.md) — related
+- [Higher academic self-efficacy profiles report greater overall academic AI use, with a large effect (η² = .36)](higher-self-efficacy-profiles-greater-ai-use.md) — related
+- [Seeking tutoring and attending supplemental instruction sessions are associated with significantly higher academic engagement](tutoring-si-attendance-engage-stem-students.md) — related
+- [Academic self-efficacy is negatively associated with AI dependency among university students](self-efficacy-negatively-associated-ai-dependency.md) — related
+- [Self-efficacy profiles differ in AI use for informational support (η² = .28) and emotional support (η² = .18)](informational-emotional-support-ai-use-profile-differences.md) — related
+- [Teachers' self-reported SRL shows self-efficacy as the highest-practiced skill and help-seeking and goal-setting as the lowest](teachers-srl-self-efficacy-high-help-seeking-low.md) — related
+- [Clustering of association rules yields four distinct strategy-combination profiles characterizing lower digital distraction](four-clusters-lower-distraction-strategy-profiles.md) — related
+- [Self-reported SRL strategies vary by individual learner characteristics including demographics, prior experience, and motivations](srl-varies-by-individual-characteristics.md) — related
+- [Peer-related help-seeking and learner-learner engagement strategies appear less often in profiles of students with lower digital distraction](peer-help-seeking-inversely-associated-lower-distraction.md) — related

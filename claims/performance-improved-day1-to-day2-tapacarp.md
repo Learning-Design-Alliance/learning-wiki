@@ -45,3 +45,5 @@ Classroom study with 3 classes of carpenter apprentices over two days per class.
 ## Related Claims
 
 - [The multi-step activity proved usable, fostered workplace connections, and engaged teacher and students](tapacarp-activity-usable-workplace-engagement.md)
+- [The tangible nature of TapaCarp helped integrate it in the classroom environment](tangible-nature-aided-classroom-integration.md) — related
+- [Pre-test/post-test learning gains showed no significant difference compared to a control group](tapacarp-learning-gain-null-vs-control.md) — related

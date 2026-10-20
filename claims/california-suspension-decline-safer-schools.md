@@ -51,3 +51,5 @@ The report's state-case analysis of California's policy changes reports that "su
 - [Denver Public Schools' restorative justice reforms coincided with falling suspension rates and a narrowed Black-White suspension gap](denver-restorative-justice-suspension-gap-narrowed.md) — related
 - Chicago policy changes coincided with steep drops in suspensions and expulsions for girls of color — a narrower finding that bears on this claim
 - Massachusetts Chapter 222 coincided with out-of-school suspensions for Black girls falling from 16 to 9 per 100 — related
+- [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](restorative-practices-reduce-exclusionary-discipline.md) — a broader claim this one bears on
+- [Schurz High School's Cultivate-driven feedback-for-growth improvement work coincided with improved student experiences and out-of-school suspensions dropping to one-half of the prior year's number](schurz-cultivate-improvement-outcomes.md) — related

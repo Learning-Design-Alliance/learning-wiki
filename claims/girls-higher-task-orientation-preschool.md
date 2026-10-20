@@ -50,3 +50,4 @@ In the longitudinal sample of 467 preschoolers, girls had significantly higher t
 - Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related
 - [Growth in task orientation partially mediates the association between executive function and mathematics achievement in preschoolers](task-orientation-partially-mediates-ef-math.md) — related
 - [Child gender predicts self-regulation trajectory membership, with girls more likely to be earlier developers](gender-predicts-self-regulation-trajectory.md) — related
+- [Fitness–attention relationships are stronger in boys than girls, with higher explained variance in boys' regression models](gender-moderates-fitness-attention-links.md) — related

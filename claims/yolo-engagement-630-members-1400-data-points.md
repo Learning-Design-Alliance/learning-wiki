@@ -45,3 +45,4 @@ Acknowledgments section of the report describing participation across the Roadma
 ## Related Claims
 - [The 10 Elements of Black Student Excellence emerged from qualitative analysis of listening sessions with more than 314 Black students, families, teachers, and community members](ten-elements-from-314-listening-sessions.md) — related
 - [Yolo County children and youth need expanded learning, engagement, and leadership development opportunities, including integration of a youth development framework into all youth-serving organizations](yolo-expanded-learning-youth-development-framework-need.md) — related
+- [The Yolo County needs assessment identifies eight countywide needs for children, youth, and families, led by childcare, mental health access, and transportation](yolo-county-eight-countywide-needs.md) — related

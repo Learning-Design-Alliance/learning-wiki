@@ -44,3 +44,5 @@ Survey finding from the report's comparison of 2017–18 implementation with fou
 
 ## Related Claims
 - The guide assigns school districts three purposes for self-monitoring: reviewing for compliance, taking corrective action, and identifying assistance needs — related
+- [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](cross-level-team-composition-buy-in.md) — related
+- [Micro-credentials incorporate prominent features of effective professional development: they are content-focused, job-embedded, and incorporate active learning](micro-credentials-features-of-effective-professional-development.md) — related

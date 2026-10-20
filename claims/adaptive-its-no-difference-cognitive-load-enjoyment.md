@@ -52,3 +52,4 @@ Linear regressions with condition as independent variable and the three self-rep
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related
 - [Conscientiousness exploratorily moderated the effect of ITS condition on subjective difficulty and enjoyment](conscientiousness-moderates-difficulty-enjoyment-adaptive-its.md) — related
+- [KBD configuration produced no significant between-condition differences in system acceptance, intrinsic motivation, or subjective learning effectiveness in a single tutoring session](kbd-no-difference-acceptance-motivation-subjective-learning.md) — related

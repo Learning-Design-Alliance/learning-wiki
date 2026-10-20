@@ -52,3 +52,6 @@ Randomized controlled trial of 79 third-grade students in eight Pennsylvania sch
 - [An AI-supported reading progress tool produced large effect sizes for speed and accuracy but not significant prosody gains for third-grade EFL learners](ai-reading-progress-speed-accuracy-large-effects-prosody-null.md) — related
 - [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — a broader claim this one bears on
 - [Comprehension-building practices for struggling readers in grades 4–9 have strong evidence, based on 34 studies](strong-evidence-comprehension-building-practices-grades-4-9.md) — related
+- [Fluency Formula™ shows a positive but statistically non-significant effect on second-grade oral reading fluency (effect size 0.26, improvement index +10)](fluency-formula-positive-nonsignificant-fluency-effect.md) — related
+- [Reading Partners tutoring significantly improves reading comprehension for grade 2-4 struggling readers, with a total effect size of +0.10](reading-partners-tutoring-comprehension-effect.md) — related
+- [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone](readers-theater-alone-no-unique-eb-gains-evidence.md) — related

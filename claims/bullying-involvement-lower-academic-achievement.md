@@ -65,3 +65,7 @@ Subgroup meta-analysis restricted to studies of victims only (k = 10). Victims w
 
 - [Bullying was not associated with lower academic achievement among adolescents with moderate family support, unlike those with high or low support, in a weakly supported interaction](moderate-family-support-buffers-achievement.md) — related
 - [Bullying involvement is associated with lower cognitive-motivational factors, especially engagement, motivation and self-esteem](bullying-involvement-lower-cognitive-motivational-factors.md)
+- [Cognitive-motivational factors mediate the association between bullying victimisation and lower academic achievement (pooled OR = 0.74)](cognitive-motivational-factors-mediate-victimisation-achievement.md) — related
+- [High levels of support from friends protect bullied adolescents from poor academic achievement, but moderate or low friend support does not](high-friend-support-buffers-achievement-effect.md) — a narrower finding that bears on this claim
+- [Adolescents with moderate or high friend support are about half as likely to report being bullied](friend-support-lower-bullying-likelihood.md) — related
+- [Bullied preadolescents score lower than matched non-bullied peers on reading, processing speed, and inhibitory control/attention over two years](bullying-lower-reading-processing-speed-inhibitory-control.md) — a narrower finding that bears on this claim

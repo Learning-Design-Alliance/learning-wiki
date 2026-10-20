@@ -46,3 +46,6 @@ Moderator analysis within the random-effects meta-analysis of animated vs. stati
 - [The animation advantage is larger when animation is coupled with auditory commentary](animation-advantage-larger-auditory-commentary.md) — related
 - [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — a broader claim this one bears on
 - [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related
+- [Animation is overall beneficial to retention compared with static graphics in multimedia instruction about dynamic systems](animation-benefits-retention-over-static-graphics.md) — a broader claim this one bears on
+- [For transfer, only learners studying collaboratively benefited from animated over static graphics](collaboration-enables-transfer-benefit-of-animation.md) — related
+- [Prior research failed to find clear evidence that animated graphics improve comprehension over static graphics](animation-research-lacks-clear-evidence-over-static.md) — reports the opposite

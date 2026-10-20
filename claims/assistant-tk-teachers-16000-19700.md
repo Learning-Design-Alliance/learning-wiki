@@ -47,3 +47,5 @@ Projection from the report's staffing-configuration assumption of one lead and o
 - [TK staffing needs grew with expansion while vacancy rates held steady, but LEAs projected nearly 2,400 additional assistant teachers for 2025–26](tk-staffing-needs-and-vacancies.md) — related
 - [California's universal TK expansion will require an additional 11,900 to 15,600 credentialed teachers with early childhood expertise by 2025–26](tk-expansion-requires-11900-15600-credentialed-teachers.md) — related
 - Growth in TK teacher demand is projected to be non-linear, with the sharpest increases in 2023–24 and 2025–26 — related
+- [TK enrollment in California is projected to reach between 291,000 and 358,000 children by 2025–26 under three modeled uptake scenarios](tk-enrollment-291k-358k-by-2025-26.md) — related
+- [TK staffing shortages improved: TK assistant teacher vacancies fell from 12% to 3%, and 91% of LEAs reported enough lead teachers meeting 2025–26 requirements](tk-staffing-vacancies-improved-2023-24.md) — related

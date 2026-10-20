@@ -45,3 +45,7 @@ The primer reports, citing Rogat and Linnenbrink-Garcia (2011), that "Groups tha
 ## Related Claims
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
 - [PIA groups follow a strategic generate-options-to-implement cycle with fewer random idea attempts, while TFA groups loop through repeated metacognitive interactions and unproductive idea testing](pia-strategic-cycle-tfa-random-ideas.md) — related
+- [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related
+- [In-service teachers more often followed socioemotional challenges with monitoring, and the groups differed in recurrent self-loops of controlling versus monitoring](in-service-socioemotional-monitoring-and-self-loops.md) — related
+- [Students perceive a low-stress climate—supportive teacher behavior and an undistressed social environment—as a critical condition for fun in learning](low-stress-climate-fun-element.md) — related
+- [Inviting students to share everyday experiences contributed to a safe, inclusive classroom climate in which students willingly shared personal experiences in life skills conversations.](safe-inclusive-climate-supports-sharing-everyday-experiences.md) — related

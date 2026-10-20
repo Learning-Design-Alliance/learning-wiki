@@ -46,3 +46,5 @@ Study 2, a classroom deployment in which 123 7th graders played EPIGAME for five
 
 - [Improvement in conceptually-laden in-game challenges over gameplay is strongly moderated by prior physics knowledge](challenge-improvement-moderated-by-prior-knowledge.md)
 - [Students favoring fast iterative solution strategies achieved lower learning gains than students with slow, elaborate, or balanced play](fast-iterative-strategies-lower-learning-gains.md)
+- [Solomon four-group pilot found significant pre-post gains from EPIGAME play with no testing effects and no pretest-by-treatment interaction](study1-solomon-no-testing-effect.md) — related
+- [Alternative conceptions in force and motion were very difficult to change: of 14 students, 6 showed substantial conceptual change, 1 some change, and 7 no change](force-motion-conceptions-difficult-to-change.md) — related

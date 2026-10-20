@@ -50,3 +50,4 @@ Observational ANOVA of cumulative GPA by visit category for the fall 2007 cohort
 - [The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status](tutoring-gpa-advantage-no-interaction-background.md) — related
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — related
 - [Mean program GPA differs significantly across the five standards-attainment learner groups](gpa-differs-across-standards-profiles.md) — related
+- [Only the 200740F high-use group showed a significantly higher rate of good academic standing compared to non-visitors](tutoring-good-standing-significant-only-one-cohort.md) — related

@@ -44,3 +44,4 @@ Theoretical argument in the article's framing section, drawing on Gould (1996), 
 
 ## Related Claims
 - [Behaviorism was explicitly a theory of society, articulated in opposition to eugenics](behaviorism-explicit-theory-of-society-anti-eugenics.md) — related
+- [Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise](dewey-rejects-fixed-moral-stages.md) — related

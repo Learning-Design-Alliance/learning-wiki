@@ -45,3 +45,5 @@ Vignette-based 2 × 2 within-subjects experiment with N = 278 university student
 ## Related Claims
 
 - [Comprehension-related problems elicit more cognitive strategies but do not reduce motivational strategy use](comprehension-problems-raise-cognitive-not-cut-motivational.md)
+- [The presence of motivational problems reduces reported strategies at the co- and shared-level but not at the self-level](motivational-problems-reduce-co-and-shared-level-strategies.md) — related
+- [Co-occurring motivational and comprehension-related problems did not produce the hypothesized highest combined strategy frequencies](simultaneous-problems-three-way-interaction-not-significant.md) — related

@@ -63,3 +63,5 @@ The team's contextualized statement of the challenge under the fear and politica
 ## Related Claims
 - [Community members reported that participating in a Community Socratic Circle helped them feel comfortable with teachers facilitating classroom racial discourse](community-socratic-circle-built-comfort-support.md) — related
 - [Most schools laid CI groundwork (72 percent root cause analysis), but fewer than two-thirds tied change ideas to their theory of practice improvement, and equity attention centered on achievement rather than access, identity, or agency](ci-groundwork-strong-theory-link-and-equity-depth-limited.md) — related
+- [Post-implementation survey responses after each Socratic Circles implementation cycle trended affirmative toward the team-defined outcomes](socratic-circles-surveys-trended-affirmative-outcomes.md) — related
+- [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related

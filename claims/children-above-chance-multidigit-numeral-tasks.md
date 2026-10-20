@@ -47,3 +47,5 @@ Experiment 1 tested 91 children in kindergarten through second grade on mapping 
 - [Kindergarteners use partial-knowledge heuristics such as digit recognition and the word hundred to interpret multidigit numerals](partial-knowledge-heuristics-multidigit-items.md) — related
 - [Children as young as 3½ years perform significantly above chance identifying and comparing multidigit numerals](preschoolers-above-chance-multidigit-numerals.md) — related
 - [Symbols-only training improved kindergarteners' performance on difficult place value items, but base-10 blocks training did not](symbols-only-training-improves-difficult-items.md) — related
+- [Base-10 blocks training was followed by a significant drop in kindergarteners' numerals-condition scores](blocks-training-numerals-scores-dropped.md) — related
+- [Children perform better with written numerals than with base-10 blocks or dot arrays on multidigit tasks](numerals-condition-outperforms-blocks-and-dots.md) — related

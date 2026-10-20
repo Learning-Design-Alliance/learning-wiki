@@ -48,3 +48,8 @@ Field experiment aggregating achievement data at the tutorial-group level across
 - [Student tutors refer to end-of-course examinations more frequently than staff tutors to direct student learning](student-tutors-more-assessment-oriented.md) — related
 - [Prior field experiments found no achievement differences between staff- and student-tutored groups](no-achievement-difference-staff-versus-student-tutoring.md) — reports the opposite
 - [No differences between student and staff tutors in focus on cooperation among group members](no-difference-tutor-cooperation-orientation.md) — related
+- [Focus group data indicate student tutors show more cognitive congruency than staff tutors, explaining content more clearly and in student-friendly terms](student-tutors-cognitive-congruency-focus-group.md) — related
+- [Students taught by rigorously selected and well trained student tutors show no significant achievement differences from students taught by staff tutors in first-year PBL courses](student-tutors-no-achievement-difference-pbl.md) — reports the opposite
+- [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related
+- [No achievement difference between staff- and peer-tutored groups in the first curriculum year](no-achievement-difference-year-one-peer-staff.md) — reports the opposite
+- [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](tutor-behavior-ratings-interaction-year.md) — related

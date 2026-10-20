@@ -70,3 +70,7 @@ Regression discontinuity analysis of Chicago principals' merit awards compares p
 - [The merit award program produced modest achievement improvements concentrated in schools close to the award threshold](merit-award-modest-gains-near-threshold.md) — related
 - [Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer](residency-completers-retention-similar-rates.md) — related
 - The merit award program's incentives increased student achievement in Chicago schools — related
+- [Effective, supportive principals retain teachers, with the largest effects in high-need schools](supportive-principals-retain-teachers.md) — related
+- [Principal turnover is common: 18% of principals leave schools each year and half of new principals leave within three years, with cascading consequences](principal-turnover-18-percent-annually.md) — related
+- [Most principals in EPIC sites have positive attitudes toward EPIC and merit pay in general](epic-principals-positive-attitudes-merit-pay.md) — related
+- [Balanced Leadership® may increase school leader retention at the school (potentially positive effects rating)](balanced-leadership-potentially-positive-school-leader-retention.md) — related

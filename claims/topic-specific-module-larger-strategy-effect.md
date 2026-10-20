@@ -46,3 +46,4 @@ Comparison of strategy scores among three angular momentum interaction groups (N
 - [Students who completed more DLC reflection modules exhibited a more strategic approach to solving an exam problem on angular momentum](dlc-interaction-strategic-approach.md) — related
 - [Topic-specificity of reflection modules is not essential for developing strategic approach, unlike for conceptual understanding](topic-specificity-not-essential-strategic-approach.md) — reports the opposite
 - [Frequent use of reflective prompts related to better strategic problem-solving and conceptual understanding](reflective-prompts-frequency-problem-solving.md) — related
+- [Completion of the angular momentum reflection module is the first significant predictor of conceptual understanding of the related exam problem](angular-momentum-module-first-predictor-conceptual-understanding.md) — related

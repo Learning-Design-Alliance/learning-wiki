@@ -44,3 +44,5 @@ Independent-samples t-test comparing speech intelligibility of 11 children in Or
 
 ## Related Claims
 - [Audiovisual gain correlates positively with speech intelligibility in children with cochlear implants](av-gain-correlates-speech-intelligibility.md) — related
+- [Audiovisual presentation yields significantly higher sentence recognition than auditory-alone presentation for most children with cochlear implants](av-sentence-recognition-exceeds-auditory-alone-ci-children.md) — related
+- [Children with higher auditory-alone spoken word recognition scores show higher audiovisual gain, for easy-word measures but not the hardest tests](auditory-word-recognition-predicts-av-gain-ci-children.md) — related

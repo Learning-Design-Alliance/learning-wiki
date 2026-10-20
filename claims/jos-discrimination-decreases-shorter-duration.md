@@ -44,3 +44,6 @@ Experiment 1 linear contrast ANOVAs on AS + S JOSs: block × discrimination inte
 
 ## Related Claims
 - [Training with longer-duration anagrams improved AS JOS discrimination in blocks 1–3 but not S JOS discrimination](training-improved-as-not-s-jos-discrimination.md) — related
+- [S JOSs were discriminating but not predictive of later solving success in Experiments 1 and 2](s-jos-not-predictive-of-solving.md) — related
+- [Training improved the predictiveness of AS and NS JOSs but not S JOSs, indicating training increased solving during the JOS task rather than JOS predictiveness](training-improved-as-ns-not-s-jos-predictiveness.md) — related
+- [AS and NS JOSs reliably predicted later solving outcomes, with AS JOSs predicting success and NS JOSs predicting failure](as-ns-jos-predict-solving-outcomes.md) — related

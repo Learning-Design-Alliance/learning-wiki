@@ -43,4 +43,6 @@ Hierarchical regression in Study 1 (N = 201, no feedback) predicting posttest se
 
 
 ## Related Claims
--
+- [In authentic undergraduate courses, taking more voluntary practice tests predicts higher final-exam performance, with and without corrective feedback](practice-test-frequency-predicts-exam-performance.md) — related
+- [More frequent practice-test participation predicts higher absolute accuracy of item-specific judgments in the final exam, regardless of feedback](practice-tests-improve-absolute-judgment-accuracy.md) — related
+- [Without feedback, more practice-test participation predicts lower specificity (worse detection of incorrect answers); with corrective feedback this negative relation disappears](practice-test-specificity-negative-without-feedback.md) — related

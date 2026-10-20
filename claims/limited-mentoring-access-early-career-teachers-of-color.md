@@ -45,3 +45,6 @@ Descriptive analysis of national teacher survey data on access to coaching and m
 ## Related Claims
 - [New teachers who receive little mentoring are twice as likely to leave the classroom as well-mentored beginners](mentoring-halves-new-teacher-attrition.md) — related
 - [Mentors of color were especially valuable to apprentices of color, who wanted more intentional mentor matching](rtap-mentors-of-color-especially-valuable.md) — related
+- [High-quality induction and mentoring programs are reported to reduce new-teacher attrition, and early-career teachers without coaching are reported twice as likely to leave](mentoring-coaching-reduce-teacher-attrition.md) — related
+- [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related
+- [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related

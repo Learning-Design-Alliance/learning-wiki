@@ -48,3 +48,6 @@ Survey findings on district support (Figure 8) by school characteristics; the ar
 - New principals' five-year retention differs by school level, student-body racial composition, and free/reduced-price lunch category — related
 - Integrated, small, wealthier, and higher-achieving Chicago schools are far more likely to combine strong press and strong support than large, poor, racially isolated, low-achieving schools — related
 - [Access to high-quality principal learning varies by school poverty level: principals in high-poverty schools report fewer opportunities](principal-learning-access-poverty-disparities.md) — related
+- [Access to mentors and coaches is inequitably distributed, with high-poverty schools far less likely to have supported principals](mentor-coach-access-inequity-poverty.md) — related
+- [School leaders in higher-wealth schools are more likely to attend high-quality principal preparation programs, creating inequitable access](prep-quality-varies-by-school-wealth.md) — related
+- [Educators report that district and school support for TPE is more helpful than state support](school-district-support-valued-over-state-support-for-tpe.md) — related

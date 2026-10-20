@@ -51,3 +51,5 @@ Documentary review of the risk-level and cut-score definitions of the 11 assessm
 - [Updated 2025 MAP Growth screening thresholds are set at the 35th percentile with adjustments for the Enhanced Item-Selection Algorithm](map-growth-2025-thresholds-35th-percentile-eisa.md) — related
 - [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](statistical-item-selection-conflicts-criterion-referenced-definition.md) — related
 - [Definitions of developmental dyscalculia vary widely across studies, with diagnostic cutoffs ranging from below the 3rd to below the 25th percentile](dd-diagnostic-cutoff-variation.md) — a narrower finding that bears on this claim
+- [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](varied-success-definitions-hinder-evaluation.md) — related
+- [Grade 3 screener benchmark scores marking any level of risk map to MCAS ELA scores from mid Partially Meeting Expectations to the beginning of Meeting Expectations](risk-benchmarks-map-partially-meeting-mcas.md) — related

@@ -52,3 +52,5 @@ Authors' overall interpretation in the Discussion of the combined ANOVA and regr
 - [Inattentive symptoms are positively associated with sad affect recognition errors while hyperactive-impulsive symptoms are negatively associated](inattentive-symptoms-positive-hyperactive-negative-sad-errors.md) — related
 - [No significant differences in affect recognition errors emerged between the ADHD-Combined group and controls or between the ADHD-C and ADHD-I groups](no-adhd-combined-affect-recognition-differences.md) — a narrower finding that bears on this claim
 - [Tactile defensiveness in ADHD is specific to affected children, more frequent in females, and not due to tactile perception impairment](tactile-defensiveness-specific-to-adhd-children.md) — related
+- [ADHD subtypes are not distinct disorders with regard to sensory processing problems](adhd-subtypes-not-distinct-sensory-processing.md) — related
+- [The inattentive ADHD subtype has the worst learning ability score among ADHD subtypes](inattentive-adhd-worst-learning-score.md) — related

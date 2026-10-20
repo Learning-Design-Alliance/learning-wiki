@@ -44,4 +44,8 @@ Summary of the previous analyses (Lim et al., 2023) re-analyzed in this study, r
 
 
 ## Related Claims
--
+- [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](need-micro-level-theory-and-method-guidelines-ssrl.md) — related
+- [Scaffolded conditions in Betty's Brain showed scaffolding-induced strategy use within the scaffolding time window although the three conditions did not differ in learning gains](scaffolding-alters-strategy-use-not-learning-gains.md) — related
+- [During collaborative learning, low and high cognition have remarkably long lasting (6 lags) positive effects on themselves, planning induces low cognition which sparks high cognition, and scaffolding does not alter these sequences](statistical-discourse-analysis-regulation-cognition-sequences.md) — related
+- [Real-time detection of SRL processes can personalize scaffold content, with all five scaffolds personalized to some extent but to varying degrees (scaffolds 2 and 5 most, scaffold 3 least).](real-time-srl-detection-personalizes-scaffold-content-varying-degrees.md) — related
+- [Rule-triggered pedagogical agents increased SRL activities and learning outcomes relative to untriggered agents](rule-triggered-pedagogical-agents-srl.md) — related

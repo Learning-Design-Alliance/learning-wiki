@@ -46,3 +46,4 @@ Qualitative collaborative action research study in primary schools. "Data were c
 
 - [Sociocultural classroom diversity can produce inequality when school-home discontinuities make children perform below their abilities](school-home-discontinuities-inequality-superdiverse-classrooms.md)
 - [The analyses yielded a framework for finding students' FoK and for categorising FoK/I-related teaching practices along two dimensions](fok-teaching-practices-framework-two-dimensions.md) — related
+- [In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.](home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) — related

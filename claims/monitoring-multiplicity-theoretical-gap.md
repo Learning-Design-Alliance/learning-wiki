@@ -47,3 +47,5 @@ Theoretical gap analysis of Scenario 7 (Core Integrated Learning) in the analysi
 - [Three internal arrangements of Processes and Structures (P→S, S→P, P⇄S) form the basis of scenario differentiation](three-internal-arrangements-monitoring-control.md) — related
 - [Metacognitive development exhibits equifinality: multiple viable trajectories challenge linear developmental models](equifinality-metacognitive-trajectories.md) — related
 - [Scenarios depict AI systems monitoring and scaffolding students' socially shared regulation of learning during collaborative lessons](ai-monitors-socially-shared-regulation-scenarios.md) — related
+- [Bures, Abrami and Schmid's empirical analysis argues that multiple forms of scaffolding may interfere with each other and that labeling should be designed flexibly to match existing structure](scaffolding-forms-may-interfere-labeling-flexible.md) — related
+- [Feedback topology matters differentially across development: novices use simpler external topologies while experts use richer connectivity](feedback-topology-differential-across-development.md) — related

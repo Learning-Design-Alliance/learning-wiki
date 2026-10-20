@@ -46,3 +46,5 @@ This is the article's framing rationale, stated without supporting data or argum
 
 - Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it — related
 - [Prior work has elucidated factors contributing to middle and high school students' perceptions, but less is known about elementary students' perceptions](less-known-about-elementary-students-perceptions-of-teacher-interactions.md)
+- [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](flca-influences-outcomes-four-factors.md) — a broader claim this one bears on
+- [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — related

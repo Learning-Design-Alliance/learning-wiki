@@ -47,3 +47,5 @@ The editorial summarises Zamecnik et al. (2024)'s study of the perception of tas
 - [Week 3 performance differs by perception-transition group, with Aligned teams increasing and Multifaceted teams decreasing in scores](aligned-perceptions-performance-increase-multifaceted-decrease.md) — related
 - [Temporal network motifs show promise as a proxy indicator of task cohesion in WIL environments when combined with survey data](temporal-motifs-proxy-task-cohesion-mixed-methods.md) — related
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related
+- [In-game avoidable mistakes in TEAMUP are significantly and markedly explained by team cohesiveness, not by team structure variables](teamup-errors-explained-by-cohesiveness.md) — related
+- [Temporal network motif frequencies differ significantly between perception groups, with dyadic motifs characterising divergent-perception teams and triadic motifs aligned teams](temporal-motifs-differ-by-perception-group.md) — related

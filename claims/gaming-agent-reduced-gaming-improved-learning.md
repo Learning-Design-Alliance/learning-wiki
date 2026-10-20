@@ -43,4 +43,6 @@ Classroom study of an automated intervention built on a gaming-the-system detect
 
 
 ## Related Claims
--
+- [Scooter the Tutor was associated with a marginally significant reduction in observed gaming among middle-school math students](scooter-reduced-gaming-marginally.md) — related
+- [Students receiving the most Scooter supplementary exercises showed significantly better learning and caught up by post-test, though there was no overall between-condition learning effect](scooter-supplementary-exercises-learning-gains.md) — related
+- [Automated detectors of disengaged behaviors inferred from interaction-log data alone reached AUC over 0.8 for gaming and correlated 0.55 with observed off-task behavior](sensor-free-disengagement-detectors-accuracy.md) — related

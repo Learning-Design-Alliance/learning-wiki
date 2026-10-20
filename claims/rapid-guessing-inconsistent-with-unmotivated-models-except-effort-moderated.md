@@ -52,3 +52,6 @@ Response time-based analysis of data from an adaptive achievement test compared 
 - [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](map-growth-real-time-engagement-detection-re-engagement.md) — related
 - [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
 - Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present — related
+- [Traditional assessments are commonly perceived to suffer from student motivation deficits that gameful assessments propose to address](traditional-assessments-motivation-deficits.md) — related
+- [E-M scoring assumes the remaining responses are unaffected by disengagement, and this assumption can fail under partial engagement](em-scoring-assumes-remaining-responses-unaffected.md) — related
+- [Effort-moderated scoring exhibits improved person fit statistics compared with traditional scoring](effort-moderated-scoring-improved-person-fit.md) — related

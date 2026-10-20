@@ -49,3 +49,4 @@ Qualitative a priori coding of open-ended worksheet answers in Lessons 1, 3, and
 - [Prior biology knowledge predicted new AI knowledge in Lessons 1 and 2 but not in Lessons 3 and 4](prior-biology-predicts-ai-lessons-one-two-not-three-four.md) — related
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — a broader claim this one bears on
 - [Homework explanations demonstrating understanding predict better isomorphic exam performance across all quartiles](homework-explanation-quality-predicts-exam-performance.md) — related
+- [Deep understanding is characterized by coherent, interconnected mental schemas that make knowledge transferable](understanding-as-connected-coherent-schemas.md) — a broader claim this one bears on

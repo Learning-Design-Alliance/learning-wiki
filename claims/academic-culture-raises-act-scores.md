@@ -46,3 +46,7 @@ Findings from the CCSR ACT preparation study, cited and described in this report
 - [Test strategies and item practice are not effective mechanisms for raising ACT scores; improvements are smaller the more class time goes to test preparation](test-prep-practice-ineffective-for-act-gains.md) — related
 - [Combined strong academic culture and high grades more than double EXPLORE-to-ACT gains at every starting score, including moving students from an EXPLORE of 17 to an average ACT of 20.7](culture-and-grades-combined-act-gains.md) — related
 - [Higher course grades predict larger ACT gains regardless of starting PLAN score; students with Ds or Fs lose ground](good-grades-predict-act-gains.md) — related
+- [School academic press is positively related to school-average reading and math achievement gains in Chicago middle grades](academic-press-positive-achievement-gains-chicago.md) — related
+- [Chicago students gain most in achievement when strong academic press and strong social support occur together, and learn less when either is strong and the other weak](press-plus-support-combined-gains.md) — related
+- [Deep Support schools showed significantly larger test-score improvements but smaller improvements in academic demand, teacher support, and elementary grades than non-Deep-Support schools](deep-support-schools-mixed-effects.md) — related
+- [Schools with stronger college-going cultures have higher student ACT scores, regardless of student backgrounds](college-going-culture-associated-higher-act-scores.md) — possibly the same claim (merge candidate)

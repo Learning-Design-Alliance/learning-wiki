@@ -44,3 +44,5 @@ Written feedback forms from approximately 25 first- and second-year Electrical E
 
 ## Related Claims
 - [Many students in the digital-images inquiry found identifying engineering tradeoffs difficult despite the budget constraint design](students-found-tradeoffs-difficult-in-inquiry.md) — related
+- [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — related
+- [Subjects appreciated the peer review intervention (average 4.0) while rating the chat session less positively (average 3.1)](peer-review-rated-above-chat-sessions.md) — related

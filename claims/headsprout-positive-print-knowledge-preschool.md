@@ -55,3 +55,4 @@ Randomized controlled trial (Huffstetter, 2005) reviewed by the WWC: 62 four-yea
 - [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md) — related
 - [Bright Beginnings shows no discernible effects on preschool oral language (domain average effect size 0.15, not statistically significant)](bright-beginnings-null-oral-language.md) — related
 - [Literacy Express has positive effects on oral language for preschool children, with significant effects in two of three studies](literacy-express-positive-oral-language.md) — related
+- [Literacy Express has positive effects on print knowledge for preschool children, with significant effects in two of three studies](literacy-express-positive-print-knowledge.md) — related

@@ -63,3 +63,4 @@ Post-survey repetition of the statement that the neighborhood is fine as it is a
 
 ## Related Claims
 - [Students' perception of possessing local knowledge that professional urban planners lack rose from 9% at baseline to 45% at endline in City at Play](ccs-student-local-expertise-perception-growth.md) — related
+- [Thematic analysis of student survey responses identified four types of local knowledge students contributed: physical facilities, experiences or feelings, location-specific experiences, and social aspects](four-types-student-local-knowledge-ccs.md) — related

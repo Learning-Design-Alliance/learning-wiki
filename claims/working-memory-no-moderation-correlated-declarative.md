@@ -64,3 +64,8 @@ Linear regression found digit recall predicted declarative knowledge of features
 ## Related Claims
 
 - [Declarative knowledge of movement features was not significantly related to actual improvements in physical execution of those features](declarative-knowledge-not-related-feature-performance.md)
+- [Adding a practice phase after instruction (PS-I + P) did not improve javelin throwing performance over PS-I alone](additional-practice-no-effect-primary-javelin.md) — related
+- [Primary school children improved execution of movement features but showed no improvement in javelin throwing distance across all conditions](features-improved-distance-did-not-primary-javelin.md) — related
+- [In primary school children learning javelin throwing, PS-I did not outperform I-PS on throwing distance or movement-feature execution](ps-i-no-advantage-primary-motor-learning.md) — related
+- [Prior knowledge and working memory capacity did not moderate the worked example effect](no-prior-knowledge-wmc-moderation-worked-examples.md) — related
+- [Movement-feature performance predicted javelin throwing distance, with the bracing step contributing most](movement-features-predict-throwing-distance.md) — related

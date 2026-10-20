@@ -49,3 +49,7 @@ Moderated mediation analysis in the same 480-student cross-sectional survey. The
 - [Self-regulated learning moderates the cognitive load–critical thinking relationship, buffering the negative effect of load](srl-moderates-cognitive-load-critical-thinking.md) — a narrower finding that bears on this claim
 - [Self-regulated learning and critical AI evaluation promote effective AI use](srl-and-critical-evaluation-promote-effective-ai-use.md) — related
 - The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences — related
+- [The indirect effect of GenAI use on critical thinking via feedback literacy is conditional on reflective thinking, strengthening as reflectivity rises](moderated-mediation-indirect-effect-conditional-reflective-thinking.md) — related
+- [Self-regulatory activities mediate the relationship between person, context, and achievement](srl-activities-mediate-person-context-achievement.md) — related
+- [Cognitive load is negatively associated with critical thinking and with self-regulated learning](cognitive-load-negatively-associated-critical-thinking.md) — related
+- [Affect, motivation, and cognitive load did not mediate the relationship between error condition and CVS learning](no-mediation-affect-motivation-cognitive-load.md) — related

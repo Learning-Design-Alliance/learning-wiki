@@ -45,3 +45,6 @@ When asked directly whether humanlikeness should be a goal (§5.3.3), participan
 ## Related Claims
 - [Humanlike AI co-writing (real-time suggestions and an agentic cursor) evoked feelings of surveillance, judgment and eeriness, and the moving cursor distracted writers](agentic-cursor-evokes-surveillance-and-eeriness.md) — related
 - [Agent perception followed a U-shape across variants: the mixed temporally-humanlike/visually-nonhumanlike Variant 2 was rated least positively on partnership and agent-perception measures](variant2-least-positive-agent-perception.md) — related
+- [An agentic cursor increased participants' understanding and predictability of the AI agent's actions during collaborative writing](agentic-cursor-increases-agent-understandability.md) — related
+- [Different humanlike design dimensions cue distinct classes of anthropomorphism inferences](design-dimensions-cue-distinct-attribution-classes.md) — a broader claim this one bears on
+- [A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — a broader claim this one bears on

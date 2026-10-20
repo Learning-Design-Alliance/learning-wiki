@@ -50,3 +50,4 @@ GLM Univariate ANCOVA among 400 higher-track non-leisure readers. The article re
 - [Boys read for leisure and enjoy reading less than girls, but no sex differences appear in mental imagery](sex-differences-leisure-reading-enjoyment-not-imagery.md) — related
 - [Mental imagery shows no direct relation to school achievement among non-leisure readers, though a ceiling effect limits this null finding](mental-imagery-no-achievement-relation-ceiling.md) — related
 - [A majority of non-leisure readers report enjoying reading in general (59% lower track, 69% higher track)](non-leisure-readers-still-enjoy-reading.md) — related
+- [Only a minority of Dutch seventh graders read for leisure, with lower prevalence in the pre-vocational track (19.5%) than the pre-academic track (32.5%)](leisure-reading-minority-dutch-seventh-graders.md) — related

@@ -67,3 +67,4 @@ In the SBHIP needs assessment analysis, the closed-loop referral system was the 
 - [LEAs most frequently used short-term behavioral health funds to expand internal staffing and direct services rather than partnerships and structural investments](short-term-funds-favor-internal-staffing.md) — related
 - [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](school-mental-health-supports-benefits-and-shortages.md) — related
 - [Culture impacts many instructional design procedures, from needs assessment to project management](culture-impacts-many-id-procedures.md) — related
+- [Estimated Fee Schedule billing revenue varies widely across Alameda County school health centers and is small relative to existing billing revenue for most](fee-schedule-revenue-varies-across-shcs.md) — related

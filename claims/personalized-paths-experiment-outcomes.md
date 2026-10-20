@@ -62,3 +62,5 @@ ANCOVA on post-test scores (20 items) with pre-test as covariate in the same 120
 - [Cognitive load mediates the effect of personalized paths on learning outcomes, with motivation and self-efficacy as complementary mediators](cognitive-load-mediation-pathway.md) — related
 - [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](personalized-paths-lower-cognitive-load.md) — related
 - [Shortest remediation paths respecting attribute prerequisites are shorter than random and full-coverage baseline paths](remediation-path-efficiency-baselines.md) — related
+- [Providing key features during case comparison reduces learning time](key-features-reduce-learning-time.md) — related
+- [In the 12-week quasi-experiment the experimental group's learning trajectory was significantly steeper than the control group's (group × time β = 0.52, 95% CI 0.31–0.73), with comparable baseline D-scores](experimental-group-steeper-learning-trajectory.md) — related

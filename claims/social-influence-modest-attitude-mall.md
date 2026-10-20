@@ -46,3 +46,4 @@ Structural model results of the PLS-SEM survey study (n = 396). Table 6 prints t
 - [In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05](meta-utaut-hypotheses-accepted-mall-efl.md) — a broader claim this one bears on
 - [Behavioral intention has a statistically significant but weak positive effect on actual MALL usage behavior in EFL learning](bi-weak-effect-actual-mall-use.md) — related
 - [Social influence plays a diminishing role in Gen Z students' AI adoption intention](si-diminishing-role-gen-z-ai-adoption.md) — related
+- [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related

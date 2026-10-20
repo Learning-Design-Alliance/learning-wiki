@@ -46,3 +46,4 @@ Same randomized controlled trial of TLTS. The report states the math effect: stu
 - [Grade 8 students in TLTS schools scored 0.12 standard deviations lower in social studies than comparison students](tlts-grade8-social-studies-negative-effect.md) — related
 - [TLTS showed no detectable effect on science achievement after two years](tlts-no-detectable-science-effect.md) — related
 - [After two years, TLTS raised student ELA achievement by 0.05 standard deviations relative to comparison schools](tlts-two-year-ela-effect-005-sd.md) — related
+- [TNTP achieved fidelity for TLTS's two key program components across Cohorts 2 and 3](tlts-fidelity-two-key-components.md) — related

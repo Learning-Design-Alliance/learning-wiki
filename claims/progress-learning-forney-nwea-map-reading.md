@@ -47,3 +47,4 @@ A retrospective quasi-experimental study in Forney ISD during the 2022-23 or 202
 - [Progress Learning shows a statistically significant positive effect on Grade 5 NWEA MAP science scores](progress-learning-map-science-grade5-effect.md) — related
 - Progress Learning shows a directionally positive effect on STAAR science scores — related
 - Progress Learning showed a directionally positive but not statistically significant impact on STAAR ELA scores in Forney ISD — related
+- [Two student-level randomized studies in California, Maine, and Minnesota high schools found significant positive impacts on NWEA MAP reading (average effect size +0.09)](barr-student-level-rcts-nwea-map-reading-009.md) — related

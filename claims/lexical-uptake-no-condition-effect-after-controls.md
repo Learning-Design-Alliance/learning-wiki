@@ -63,3 +63,7 @@ Position-matched Welch's t-tests comparing adoption at the same sequential posit
 
 ## Related Claims
 - [Learners show stronger short-term syntactic priming with the AI partner, significant across all three recency-window operationalizations including one equalizing input volume](ai-syntactic-priming-advantage-survives-controls.md) — related
+- [Interactive learning tasks produce larger incidental spoken word-learning gains than noninteractive tasks](interactive-tasks-beat-noninteractive-spoken-word-learning.md) — related
+- [Attitudes toward AI improved after direct experience, and satisfaction was predicted by within-turn production fluency rather than linguistic uptake](satisfaction-predicted-by-production-fluency-not-uptake.md) — related
+- [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related
+- [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — related

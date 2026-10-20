@@ -46,3 +46,5 @@ Genre coding of the 21 included studies' games, compared against genre descripti
 - GBA research in education remained limited until 2012 and fluctuated thereafter, with the USA the most prolific region (N = 10, 48%) — related
 - GBA is predominantly applied in physics education (4 studies), with about 19% of studies not specifying a subject field — related
 - Supporting theory in GBA studies tends to be unitary: about 48% of studies specified no theory, and evidence-centered design was cited most (N = 6) — related
+- [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
+- [Action and role-playing videogames are most preferred and simulation and puzzle least preferred in both cultures, with culture-specific traditional game preferences](game-genre-preferences-cross-cultural-patterns.md) — related

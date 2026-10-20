@@ -43,4 +43,5 @@ Correlational analysis of trace data (Table 6) from 70 college students' text hi
 
 
 ## Related Claims
--
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — related
+- [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related

@@ -43,4 +43,7 @@ Editorial account of the Hsu et al. study of a collaborative version of MIT App 
 
 
 ## Related Claims
--
+- [Tabletop learning-analytics correlations with collaboration were not statistically significant but suggest post hoc identification of less collaborative teams](tabletop-analytics-nonsignificant-posthoc-identification.md) — related
+- [Homogeneous CS-major groups reported higher CPSE in collaborative programming than homogeneous non-CS and heterogeneous groups, with no significant difference between the latter two](cpse-cs-major-groups-higher-collaborative.md) — reports the opposite
+- [Overall CPSE did not differ significantly between individual programming and RTC-based collaborative programming](cpse-similar-individual-and-collaborative-programming.md) — related
+- [Different group compositions adopted different collaboration strategies: homogeneous groups split interface and programming work, while the heterogeneous CS/non-CS pair showed the most divergent behavior patterns](grouping-type-different-collaboration-strategies.md) — related

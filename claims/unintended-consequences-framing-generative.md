@@ -49,3 +49,4 @@ Authors' interpretation of the case-study dialogue: considering how the PECAS Me
 - Learning analytics and EDM researchers raise practical concerns: impoverished ontologies, easy-to-collect data bias, interdisciplinary demands, and negative consequences for students — related
 - [Framing instructors as part of the solution shifted the design toward supporting instructor judgment and co-design](instructors-part-of-the-solution-frameshift.md) — related
 - [Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences](optimistic-scenario-bias-limitation.md) — related
+- [Participants in a probe study and co-design workshop perceived AI mediation in interdisciplinary student teams along both cognitive and relational dimensions](ai-mediation-cognitive-and-relational-dimensions.md) — related

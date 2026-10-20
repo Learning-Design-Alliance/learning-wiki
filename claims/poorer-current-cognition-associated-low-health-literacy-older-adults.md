@@ -51,3 +51,5 @@ Logistic regression analyses among 988 participants (mean age = 65.3) of the Doe
 - [Cognitive decline occurred in all domains between the two measurement waves among participants with cognitive data at both time points](cognitive-decline-occurred-all-domains-10-years.md) — related
 - [Higher total literacy is associated with higher global cognition and all five specific cognitive abilities in older adults without dementia](literacy-associated-cognition-older-adults.md) — related
 - [Higher total literacy is associated with more frequent participation in cognitive, physical, and social activities in older adults without dementia](literacy-associated-health-promoting-behaviors-older-adults.md) — related
+- [Financial literacy, but not health literacy, is associated with mental health indices in older adults without dementia](financial-literacy-associated-mental-health-older-adults.md) — related
+- [The association between health literacy and health task performance is substantially reduced after adjusting for cognitive abilities](health-literacy-task-association-reduced-after-cognitive-adjustment.md) — related

@@ -63,3 +63,4 @@ The review's analysis of Table 2 shows gaps in the empirical literature: "achiev
 
 ## Related Claims
 - [Scaffolding research and frameworks have shifted from motivational-plus-cognitive support toward mostly cognitive support](scaffolding-became-cognitively-skewed.md) — related
+- [Situational motivation is highly context-dependent and fluctuates within and between learners, but most studies rely on self-reports](situational-motivation-context-dependent-fluctuating-self-report-dominated.md) — related

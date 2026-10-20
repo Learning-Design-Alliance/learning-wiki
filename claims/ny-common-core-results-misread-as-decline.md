@@ -44,3 +44,4 @@ The article's abstract reports the public reaction to New York's first Common Co
 
 ## Related Claims
 - [A closer look at New York's first Common Core exam results suggests student achievement may have increased](ny-common-core-achievement-may-have-increased.md) — related
+- [New York students showed positive achievement and growth results under the APPR evaluation system](ny-positive-achievement-growth-under-appr.md) — related

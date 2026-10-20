@@ -45,3 +45,6 @@ Assessment of individual students' skill levels from log-file data across all fo
 ## Related Claims
 - [Pairs with at least one member high in both social and cognitive CPS skills conducted more actions with more frequent and more dispersed action transitions than other pairs](high-social-cognitive-pairs-more-actions-and-transitions.md) — related
 - [CPS skill profiles of 166 students fell into three groups and yielded five distinguishable pair compositions among the 83 working dyads](cps-pair-compositions-from-social-cognitive-profiles.md) — related
+- [Dyad pairs with one member high in both social and cognitive CPS skills show more actions and higher frequency of action transitions than other pairs](high-social-cognitive-cps-pairs-more-action-transitions.md) — related
+- [Frequency-based content analysis shows little variation in how CPS was actualized across groups and tasks, with Problem Reanalysis the most frequent sub-element in both task designs](content-analysis-little-variation-problem-reanalysis-most-frequent.md) — related
+- [No significant difference found across pair compositions in alternating sequences of two or three actions during CPS](no-pair-difference-alternating-action-sequences.md) — related

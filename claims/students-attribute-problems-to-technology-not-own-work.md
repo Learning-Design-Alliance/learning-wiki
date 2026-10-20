@@ -49,3 +49,4 @@ A case study in which students collaborated, allowing researchers to observe the
 - [Design features of the CSCL environment — procedural-only educational inscriptions on the website and the storyline of the 3D model — pulled interactions toward procedural problem solving](website-inscriptions-procedural-only.md) — related
 - [In a CSCL biology problem-solving session, procedural problem solving tended to dominate students' interactions, with conceptual knowledge construction present only where strictly necessary](procedural-dominance-cscl-biology.md) — related
 - [Moderation of synchronous computer-mediated interaction differs from face-to-face or asynchronous moderation](moderation-synchronous-cmc-differs-from-other-modes.md) — related
+- [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](adaptive-expert-teacher-closes-gaps-real-time-labs.md) — related

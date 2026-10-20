@@ -46,3 +46,4 @@ Evaluation of two commercial detectors on a balanced 192-text dataset (48 texts 
 - [Both detectors performed poorly on hybrid human–AI texts, with Originality showing near-zero recall for the Hybrid class](detectors-fail-hybrid-authorship-texts.md) — related
 - [Both detectors achieved substantially lower accuracy on scientific writing than on humanities texts](detectors-lower-accuracy-scientific-writing.md) — related
 - [Originality showed a borderline non-significant trend toward higher accuracy on professional than EFL student writing, while Turnitin showed no significant difference](originality-borderline-efl-accuracy-trend.md) — related
+- [Detector accuracy declined significantly as text length increased, with both detectors performing best on short texts](detector-accuracy-declines-with-text-length.md) — related

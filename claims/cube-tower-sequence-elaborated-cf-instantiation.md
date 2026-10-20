@@ -48,3 +48,5 @@ One-on-one constructivist teaching experiments with two preservice middle school
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [Combinatorial enumeration yields 216 scenarios, filtered to 24 priority scenarios across three developmental tiers](216-scenarios-filtered-to-24-priority.md) — related
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
+- [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — a broader claim this one bears on
+- [Collaboration aids learning of mathematical elaboration skills but not procedural skills](collaboration-aids-elaboration-not-procedural-skills.md) — related

@@ -43,4 +43,5 @@ Four classroom observations and student interviews in two randomly chosen school
 
 
 ## Related Claims
--
+- [Similar introductory lessons on the same topics were observed across grades separated by multiple years, indicating little curricular development](similar-lessons-across-grades-little-development.md) — related
+- [In observed Australian secondary classrooms, only a minority of lesson tasks stimulated Constructive or Interactive engagement](paucity-constructive-interactive-lesson-tasks.md) — related

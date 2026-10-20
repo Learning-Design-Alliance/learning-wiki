@@ -65,3 +65,5 @@ Study 2 hierarchical regression on global postdictions in a psychology exam repl
 - [Global predictions rely on domain-specific self-concept but not on test performance, unlike postdictions](predictions-rely-on-self-concept-not-performance.md) — related
 - [Domain-specific self-concept consistently predicts metacognitive judgments and accuracy: higher self-concept means higher judgments, higher sensitivity, lower specificity, and more overconfidence](domain-specific-self-concept-predicts-judgments.md) — related
 - [Domain-specific self-concept relates more strongly to global than to local postdicted judgments, while most other motivational and personality variables do not differ](global-judgments-more-trait-driven-than-local.md) — related
+- [Metacognitive postdiction skills are related to mathematical accuracy throughout the whole elementary school period (Grades 1–6)](postdiction-skills-related-to-math-accuracy-grades-1-6.md) — related
+- [Postdictions of performance are typically more accurate than predictions](postdictions-more-accurate-than-predictions.md) — related

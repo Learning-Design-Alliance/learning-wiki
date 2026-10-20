@@ -54,3 +54,6 @@ The report cites research indicating that subgroup tracking of discipline data h
 - Exclusionary discipline disproportionately removes students of color and students with disabilities from school — related
 - [Los Padillas shifted away from exclusionary discipline, with no in- or out-of-school suspensions in 2023–24, and retained nearly all its teachers over 5 years](los-padillas-discipline-retention-outcomes.md) — related
 - [School exclusionary policies paradoxically worsen dropout, delinquency, and achievement](school-exclusion-paradox-worse-outcomes.md) — related
+- [Students of color show fewer absences and less exclusionary discipline when taught by race-matched teachers](race-matched-teacher-discipline-absence-benefits.md) — related
+- [CSTAG training shifts staff knowledge and beliefs, improving threat-assessment accuracy and reducing support for zero-tolerance policies](cstag-training-shifts-staff-knowledge-beliefs.md) — related
+- [Experts attribute their focus on RJ in schools to the failure of zero-tolerance discipline, disciplinary disparities, school climate concerns, holistic community approaches, and connections to youth development models](expert-motivations-restorative-justice-schools.md) — related

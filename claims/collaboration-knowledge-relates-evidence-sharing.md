@@ -46,3 +46,5 @@ In the multi-study SEM of the three simulation samples (N = 504 overall), only t
 ## Related Claims
 - [Evidence sharing relates positively to diagnostic justification quality](evidence-sharing-relates-diagnostic-justification.md) — related
 - [Content knowledge is positively related to the quality of evidence elicitation and evidence sharing, but not to hypotheses sharing](content-knowledge-relates-evidence-elicitation-sharing.md) — related
+- [Hypotheses sharing relates positively to diagnostic justification and diagnostic efficiency](hypotheses-sharing-relates-justification-efficiency.md) — related
+- [Social skills are positively related only to evidence elicitation quality, with inconsistent support across studies](social-skills-relate-evidence-elicitation-only.md) — related

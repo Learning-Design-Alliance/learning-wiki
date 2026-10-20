@@ -47,3 +47,6 @@ Data-quality analysis in Section 6.2 comparing source-anchored versus template-g
 - LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
 - [The verification threshold trades hallucination reduction against over-refusal, with the default tau of 0.20 providing the best balance](eduguard-verifier-threshold-sensitivity.md) — related
+- [Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)](five-error-types-llm-diagnosis-vague-evidence.md) — related
+- [LLMs in educational applications hallucinate in 15–25% of responses and can amplify bias against non-native language inputs](llm-hallucination-rate-education.md) — related
+- [Recall-oriented anchor selection achieved a 17.93% anchor rate and 94.63% non-empty OCR rate, which the authors interpret as anchors frequently capturing visible educational content that transcript chunks omit](high-nonempty-ocr-rate-anchors-capture-visual-content.md) — related

@@ -60,3 +60,5 @@ Kruskal–Wallis comparisons of the six report-level dimensions across the three
 ## Related Claims
 - [Students rate LLM-generated consolidated reports favourably, with cognitive load rated lowest](llm-consolidated-report-cognitive-load-lowest.md) — related
 - [A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops](agentic-feedback-42-undergrads-rubric-alignment-gain.md) — related
+- [Students rate LLM-generated response-level feedback favourably, with clarity and perceived accuracy highest and actionability and usefulness lowest](llm-response-feedback-clarity-accuracy-highest-actionability-usefulness-lowest.md) — related
+- [Students perceive AI scoring as accurate for grammar, mechanics, and organization but skeptical of its ability to evaluate diverse styles, complex writing, tone, and emotion](ai-scoring-perceptions-lower-vs-higher-order.md) — related

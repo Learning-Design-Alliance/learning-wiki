@@ -45,3 +45,5 @@ The article's concluding remarks state this as an author interpretation about li
 
 ## Related Claims
 - Adding Markov structures for both general and specific dimensions over time yields a model that does not scale well with the number of measurement occasions — related
+- [Multidimensional IRT scores that account for latent variable covariances over time produce better recovery of growth parameters in longitudinal growth models than sum scores and other IRT approaches](multidimensional-irt-covariance-scores-better-growth-recovery.md) — related
+- [The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states](map-cat-longitudinal-construct-invariance-ten-states.md) — a narrower finding that bears on this claim

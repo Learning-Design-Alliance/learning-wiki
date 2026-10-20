@@ -55,3 +55,5 @@ Discussion-section comparison across the study's four volunteer groups, contrast
 - People come first: places, policies, and programs should be altered when they inhibit people's development — related
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [The New Teacher Support Program reaches fewer than 10 percent of beginning teachers, far below the statewide mentoring program that reached all beginning teachers in the 1990s](nc-new-teacher-support-reaches-under-ten-percent.md) — related
+- [High-quality induction and mentoring programs are reported to reduce new-teacher attrition, and early-career teachers without coaching are reported twice as likely to leave](mentoring-coaching-reduce-teacher-attrition.md) — reports the opposite
+- [Individual teachers' concern profiles vary widely and can diverge from group trends during implementation](individual-concern-profiles-vary-widely.md) — related

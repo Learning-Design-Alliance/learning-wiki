@@ -83,3 +83,4 @@ GPT-4o pilot over 2/4/6/8/10-shot prompts (Methodology §3.3.2): "10-shot prompt
 ## Related Claims
 - [Ai Mid Range Scoring Degradation U Shape](ai-mid-range-scoring-degradation-u-shape.md)
 - The second human expert showed the highest and most stable agreement with the gold-standard rater, with no mid-range degradation across the response quality spectrum — related
+- [On fully correct responses, the GPT few-shot models outperformed the fine-tuned models, averaging less than one category distance from the gold score](gpt-outperforms-finetuned-on-fully-correct-responses.md) — related

@@ -48,3 +48,4 @@ Pearson's correlation analysis (pairwise deletion) across the full sample of 130
 - [Category fluency declines with age and remains significantly impaired after controlling for processing speed and IQ](category-fluency-decline-persists-after-speed-control.md) — related
 - [Young adults outperform older adults on category fluency and processing speed, while older adults outperform young adults on premorbid IQ (NART)](age-group-differences-category-fluency-speed-iq.md) — related
 - [Processing speed has a significant effect on both letter and category fluency in older adults, while IQ does not](processing-speed-significant-covariate-both-fluencies.md) — related
+- [Decline in letter fluency beyond normal age expectations warrants further evaluation for neurological or mental disorder](letter-fluency-decline-clinical-red-flag.md) — related

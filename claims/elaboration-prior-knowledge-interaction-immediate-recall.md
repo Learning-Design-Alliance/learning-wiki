@@ -43,4 +43,7 @@ A 2×2 ANOVA on the immediate posttest of 66 participants randomly assigned to e
 
 
 ## Related Claims
--
+- [Elaboration during the problem-based discussion had no significant main effect on immediate or delayed recall](no-main-effect-of-elaboration-on-recall.md) — related
+- [For students without relevant prior knowledge, elaborating during the discussion led to lower recall than not elaborating](elaboration-without-prior-knowledge-harms-recall.md) — related
+- [Problem-based discussion prior to studying a text does not increase the number of inferences during immediate free recall](pbl-discussion-no-increase-in-immediate-inferences.md) — related
+- [Elaborating with relevant prior knowledge yielded significantly higher immediate recall than elaborating without relevant prior knowledge](elaboration-with-prior-knowledge-beats-elaboration-without.md) — related

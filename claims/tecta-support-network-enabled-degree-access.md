@@ -47,3 +47,5 @@ Thematic analysis of five service-provider focus groups (80 providers) found 'Ma
 
 ## Related Claims
 - [TECTA credential attainment concentrated below the bachelor's level, with only 1.8% of participants completing a bachelor's degree or higher](tecta-credential-attainment-concentrated-below-bachelors.md) — related
+- [Lack of childcare support, language barriers, unrecognized international degrees, and stigma shaped providers' educational pathways](identity-barriers-learning-while-parenting-language-credentials.md) — related
+- [Rural TECTA participants faced distinct barriers including travel burden, limited stipends, inconvenient class timing, technology access, and unclear registration](rural-childcare-structural-barriers-tecta-participation.md) — related

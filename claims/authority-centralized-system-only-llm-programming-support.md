@@ -46,3 +46,6 @@ Qualitative synthesis of the 90-system corpus coding Authority into four categor
 - [Prompt-Based Constraint is the dominant enforcement mechanism in LLM-based programming support systems](prompt-based-constraint-dominant-enforcement.md) — related
 - [Policy in reviewed systems is commonly expressed as a set of assistance boundaries, concentrated on response constraints, scaffolding, and personalization](policy-multilabel-concentrated-constraints-scaffolding-personalization.md) — related
 - [Policy and enforcement counts were not strongly associated across systems](policy-enforcement-counts-not-associated.md) — related
+- [The reviewed corpus mostly targets introductory learners in short-term studies, with supervision level structurally tied to deployment context](corpus-introductory-short-term-supervision-environment-association.md) — related
+- [Policy–enforcement pairings are dominated by prompt-based constraints, and policy themes differ in enforcement breadth](policy-enforcement-pairings-prompt-dominated.md) — related
+- [Teachers retain ultimate control over AI systems because professional responsibility cannot be delegated](teachers-retain-ultimate-control-responsibility-not-delegable.md) — reports the opposite

@@ -47,3 +47,4 @@ Confidence ratings (5-point scales) collected after the choice across Studies 1,
 - [Confidence in the algorithm's forecasts mediates the effect of seeing it perform on choosing it](model-confidence-mediates-algorithm-aversion.md) — related
 - [Seeing an algorithm perform makes people significantly less likely to choose it over a human forecaster](seeing-algorithm-perform-reduces-choice-of-algorithm.md) — related
 - [A belief that the algorithm is less likely to be perfect does not explain experience-driven algorithm aversion](perfection-belief-does-not-explain-aversion.md) — related
+- [Slight control over an algorithm's output reduces algorithm aversion, with process control producing the strongest calibration effects](slight-control-reduces-algorithm-aversion.md) — related

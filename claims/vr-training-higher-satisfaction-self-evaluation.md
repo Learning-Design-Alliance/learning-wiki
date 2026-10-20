@@ -50,3 +50,4 @@ Primary outcome domains F and G in the within-participants comparison of 20 stud
 - [AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity](aifred-user-experience-ratings.md) — related
 - [VR sickness in the system is minimal overall (SSQ total 12.88), with nausea lowest and oculomotor symptoms most significant](photon-fusion-minimal-vr-sickness-ssq.md) — related
 - [Students trained with MPathic-VR report significantly more positive attitudes toward their learning experience than computer-based learning students](mpathic-vr-more-positive-attitudes.md) — related
+- [Second-year medical students improve their intercultural and interprofessional communication performance between first and second run-throughs of MPathic-VR scenarios](mpathic-vr-repeat-runthrough-improvement.md) — related

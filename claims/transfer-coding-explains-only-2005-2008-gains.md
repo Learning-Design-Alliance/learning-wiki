@@ -48,3 +48,4 @@ Analysis of transfer-rate trends and conservative rate estimates counting all tr
 - [CPS high school graduation rates rose from 57 percent to 74 percent between 2006 and 2016](cps-hs-graduation-rose-57-to-74.md) — related
 - [About 54 percent of Chicago Public Schools students graduated from CPS by age 19 for the 1998 age-13 cohort and by the fourth year for the 1999 freshman cohort](cps-54-percent-graduated-by-age-19.md) — related
 - [Publicly reported school accountability statistics are not useful for measuring achievement trends over time](publicly-reported-statistics-not-useful-for-trends.md) — related
+- [Chicago graduation rates improved 17 percentage points (57 to 74 percent) between 2006 and 2015 while the ACT average rose from 17.6 to 18.5](cps-graduation-rate-57-to-74-act-rose.md) — related

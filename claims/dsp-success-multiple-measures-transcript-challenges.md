@@ -64,3 +64,4 @@ Interview finding on multiple measures implementation. The report also notes imp
 ## Related Claims
 - [First-year completion of the written communication (A2) requirement was similar across the 2017 and 2018 cohorts at approximately 80 percent](eo1110-a2-completion-unchanged.md) — related
 - [CSU campuses implementing EO 1110 use corequisite support models in both math/quantitative reasoning and written communication courses, in three main configurations](csu-eo1110-corequisite-models-three-types.md) — related
+- [EO 1110 created a sense of urgency that catalyzed cross-departmental curriculum redesign, though campus stakeholders wanted earlier engagement building on local expertise](eo1110-urgency-catalyzed-cross-departmental-redesign.md) — related

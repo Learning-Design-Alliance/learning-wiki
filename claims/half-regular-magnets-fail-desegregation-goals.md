@@ -44,3 +44,4 @@ Analysis of CPS student record files for fall semester 1999 (Figures 11-13), tra
 
 ## Related Claims
 - [Magnet elementary schools enroll larger percentages of white and Asian students and smaller percentages of Latino and African-American students than non-magnet schools](magnet-elementary-composition-differs-from-cps.md) — related
+- [Two years after the comprehensive magnet school policy, overall enrollment patterns by student residence had not changed substantially](policy-did-not-change-overall-enrollment-patterns.md) — related

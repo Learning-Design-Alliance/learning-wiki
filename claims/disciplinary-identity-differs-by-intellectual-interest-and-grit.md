@@ -49,3 +49,4 @@ The authors' online survey of students at four colleges and universities found "
 ## Related Claims
 - [Undergraduate researchers' disciplinary identity differs by demographic characteristics](disciplinary-identity-differs-by-demographics.md) — related
 - [Disciplinary identity among undergraduate researchers varies by student discipline](disciplinary-identity-varies-by-student-discipline.md) — related
+- [Math mindsets and academic grit correlate substantially with primary math achievement](mindset-grit-math-achievement-correlations.md) — related

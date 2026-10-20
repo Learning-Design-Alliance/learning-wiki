@@ -70,3 +70,5 @@ Executive-summary analysis of the same score dataset reports that lowest-band st
 - [Teachers' belief that their students were ready for argumentative writing significantly predicted student growth within the first prompt](teacher-readiness-belief-predicts-first-prompt-growth.md) — related
 - [The AES tool scored middle school essays more generously than teacher scorers overall and on three of four dimensions](aes-more-generous-than-teachers.md)
 - [Neural network models predicted students' writing performance groups with 94–100% accuracy from self-regulation characteristics](neural-networks-predict-writing-performance-groups.md) — related
+- [Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3](teacher-aes-agree-tails-diverge-middle.md) — related
+- [Prompt Coach's largest learning gains occurred on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline](prompt-coach-largest-gains-on-baseline-blind-spots.md) — a narrower finding that bears on this claim

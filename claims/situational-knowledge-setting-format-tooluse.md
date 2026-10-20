@@ -45,3 +45,11 @@ ANOVA on situational knowledge (max 4, no covariates) in the 61-dyad/95-individu
 
 ## Related Claims
 - [Representational format produced no significant differences in conceptual or situational knowledge](no-format-effect-conceptual-situational-knowledge.md) — reports the opposite
+- [Students are far more inclined to use conceptual and textual representational tools than arithmetical ones, and collaboration does not stimulate arithmetical tool use](format-affects-inclination-to-use-tool.md) — related
+- [Collaborative learners outperform individuals on intuitive knowledge, indicating collaboration rather than representation construction drives the advantage](collaboration-enhances-intuitive-knowledge.md) — related
+- [Collaborative inquiry learners obtain significantly higher post-test overall scores than individual learners](collaborative-inquiry-outperforms-individual-overall.md) — related
+- [Students who collaborated (in collaborative and combined conditions) reported higher situational interest in the fractions activity](collaborating-students-higher-situational-interest.md) — related
+- [No evidence for a mapping between representational format and enhancement of a specific kind of understanding](no-format-knowledge-type-mapping.md) — reports the opposite
+- [The Text + Arithmetic format specifically improved procedural knowledge (executing action sequences to solve problems)](text-arithmetic-improved-procedural-knowledge.md) — related
+- [Tool-using individuals show advantages on conceptual knowledge while collaborative learners spend less time-on-task](conceptual-knowledge-interaction-and-time-on-task.md) — related
+- [Quantitative experimental results on representational formats left the role of representations in dyad discussion unexplained](representational-format-study-unexplained-dyad-role.md) — related

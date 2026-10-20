@@ -64,3 +64,7 @@ The same higher-order model tested on TALIS teacher data. The article reports th
 ## Related Claims
 
 - [Classroom management and classroom disciplinary climate emerged as substantially different dimensions of mathematics instructional quality in student data](classroom-management-distinct-from-disciplinary-climate.md)
+- [Student-reported mathematics instructional quality in pooled PISA 2012 data has five dimensions: teacher support, cognitive activation, classroom disciplinary climate, classroom management, and student-orientated instruction](student-five-dimensions-math-iq-pisa.md) — related
+- [Teacher-reported mathematics instructional quality in pooled TALIS 2013 data from seven countries has three dimensions: classroom disciplinary climate, teacher support, and cognitive activation](teacher-three-dimensions-math-iq-talis.md) — related
+- [The five-dimensional student model achieved metric but not scalar measurement invariance across the seven countries, permitting association comparisons but not latent mean comparisons](student-model-metric-invariance-holds.md) — related
+- [The three-dimensional teacher-reported model does not hold in all countries, so configural invariance was not achieved and cross-country comparison of teacher-perceived instructional quality was hardly possible](teacher-model-configural-invariance-fails.md) — related

@@ -48,3 +48,5 @@ Null structural path in the main WLSMV model (β=-0.055, n.s. per the hypothesis
 ## Related Claims
 - [Both transformational and servant leadership are negatively associated with workplace harassment among university teachers](transformational-servant-leadership-negatively-associated-workplace-harassment.md) — related
 - [Transformational leadership's protective effect against harassment operates among women but not men, while its self-efficacy effect operates among men but not women (exploratory)](transformational-leadership-gender-specific-pathways.md) — related
+- [Servant leadership exhibits complementary partial mediation via self-efficacy, whereas transformational leadership shows a small indirect-only effect](servant-leadership-partial-mediation-transformational-indirect-only.md) — related
+- [Measurement invariance across gender is supported, but full structural equivalence is rejected, with differences localized to transformational-leadership paths](measurement-invariance-gender-structural-equivalence-rejected.md) — related

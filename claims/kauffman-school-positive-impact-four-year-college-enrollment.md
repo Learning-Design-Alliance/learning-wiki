@@ -49,3 +49,4 @@ Key findings of the Mathematica evaluation of the Kauffman School's first 11 yea
 - [The Kauffman School's impact on four-year college enrollment compares favorably to the average effects observed for other high-performing charter schools](kauffman-college-enrollment-impact-compares-favorably-high-performing-charters.md) — related
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related
 - [The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in math during its first two years](kauffman-school-positive-math-achievement-growth-impacts.md) — related
+- [KIPP middle school admission offers had a positive but statistically non-significant effect on enrollment in four-year college programs](kipp-middle-offer-nonsignificant-four-year-enrollment.md) — related

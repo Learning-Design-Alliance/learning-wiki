@@ -44,3 +44,4 @@ Survey of the national public, parent, and teacher samples described variability
 
 ## Related Claims
 - [Vast majorities prefer tailored instruction over whole group instruction, but only a minority think schools currently do a good job supporting learner variability](tailored-instruction-preferred-schools-fall-short.md) — related
+- [Large majorities believe most students are capable of high achievement, but only 19 to 29 percent say most students currently reach high levels, producing gaps of 46 to 61 points](capability-belief-achievement-gap-survey.md) — related

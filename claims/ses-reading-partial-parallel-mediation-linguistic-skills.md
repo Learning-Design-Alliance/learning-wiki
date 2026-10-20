@@ -51,3 +51,5 @@ Two-stage MASEM (TSSEM) of the latent reading model (k = 458 independent samples
 ## Related Claims
 - [SES shows significant direct and indirect effects on each reading outcome separately, with larger indirect effects through vocabulary for comprehension](ses-effects-on-accuracy-comprehension-fluency-separately.md) — related
 - [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) — related
+- [Age moderates the vocabulary-to-reading paths (effects increase with age) but not the fluency model or any SES paths](age-moderates-vocabulary-reading-paths-not-ses-paths.md) — related
+- [Composite SES indices predict phonological awareness more strongly than single SES indicators](composite-ses-index-stronger-predictor-phonological-awareness.md) — related

@@ -43,4 +43,4 @@ The article reports, as an interpretation of the intervention data, that "Less s
 
 
 ## Related Claims
--
+- [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related

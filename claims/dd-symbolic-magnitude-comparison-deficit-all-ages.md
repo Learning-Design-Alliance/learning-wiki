@@ -48,3 +48,4 @@ The authors' narrative synthesis of studies comparing DD and control children on
 - [The authors hypothesize DD children's first deficit is dysfunction in building the exact representation of symbolic numbers, with reduced ANS acuity as a consequence rather than a cause](dd-first-deficit-exact-representation-ans-secondary.md) — related
 - [DD children's deficit in non-symbolic number magnitude processing appears only in studies of older children (10 years and above), not younger ones](dd-nonsymbolic-deficit-appears-later.md) — related
 - [Measures of the magnitude representation (ratio and distance effects) do not discriminate children with DD from matched controls](dd-magnitude-representation-theory-not-supported.md) — reports the opposite
+- [Adults with dyscalculia perform the number comparison task as accurately as controls but respond significantly more slowly](dyscalculia-equal-accuracy-slower-reaction-time.md) — related

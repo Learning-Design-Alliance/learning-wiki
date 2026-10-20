@@ -45,3 +45,5 @@ RQ3 comparison of AI-assisted (combined) versus human–human pair groups on T3 
 ## Related Claims
 - [AI-assisted pair programming significantly increased undergraduate intrinsic motivation compared to individual programming, with outcomes comparable to human–human pair programming](ai-assisted-pair-programming-increases-intrinsic-motivation.md) — related
 - [Human–human pair programming fostered the highest perceptions of collaboration and social presence, surpassing both AI-assisted and individual conditions](human-pairing-highest-collaboration-social-presence.md) — related
+- [AI-assisted pair programming significantly reduced programming anxiety compared to individual programming](ai-assisted-pair-programming-reduces-programming-anxiety.md) — related
+- [Perceived usefulness of the AI assistant significantly and partially mediated the relationship between AI-assisted programming and collaborative outcomes and performance](perceived-usefulness-mediation-ai-programming-outcomes.md) — related

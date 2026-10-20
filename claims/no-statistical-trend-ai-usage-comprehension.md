@@ -47,3 +47,6 @@ The authors' discussion of the RQ1–RQ3 observations states that "no clear stat
 - Cluster analysis of self-reported GenAI use identifies five profiles, including a strategic high-usage profile low on code generation but high on debugging and explanations — related
 - Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code — related
 - [Team code comprehension dropped in lec09 when Implementation-phase AI usage peaked, and recovered in lec10 following instructor intervention](comprehension-dropped-lec09-recovered-after-intervention.md) — related
+- [In SDPBL with SDD introduced, AI usage varies greatly by team and phase, with all teams using AI in Implementation and Debugging but large team differences in Investigation and Planning](ai-usage-varies-by-team-and-phase-sdpbl-sdd.md) — related
+- [Among LLM users, Low-Reliance students (use in under half of submissions) consistently outperformed High-Reliance students by roughly 7-8% across all three midterms](low-reliance-outperformed-high-reliance-midterms.md) — related
+- [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related

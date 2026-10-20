@@ -47,3 +47,6 @@ Survey of CPS teachers and principals in 1999 assessing programmatic supports ac
 - [Whether teachers knew their students before Summer Bridge predicted test-score increases and teacher practice, most strongly for older students](teacher-familiarity-predicts-summer-bridge-gains.md) — related
 - [Students were significantly more positive about classroom academic environments and teacher attention in Summer Bridge than in the school year](summer-bridge-students-more-positive-environment.md) — related
 - [After a researcher presentation on brain breaks, an estimated 80-90 percent of one school's teachers implemented the breaks in their classrooms](brain-breaks-teacher-adoption-after-presentation.md) — related
+- [Teachers and principals reported the policy made them feel extra responsibility and more sensitive to student needs](policy-increased-teacher-responsibility-sensitivity.md) — related
+- [Educators reported the promotion policy increased parental concern about student progress](promotion-policy-increased-parental-concern.md) — related
+- [Approximately 40 percent of educators reported spending less time on social studies and science as a result of the promotion policy](policy-reduced-time-social-studies-science.md) — related

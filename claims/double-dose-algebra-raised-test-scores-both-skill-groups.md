@@ -71,3 +71,6 @@ The same CCSR study reports gains for higher-skill students in single-period cla
 - [Double-dose algebra was least effective for students with the weakest incoming skills, most of whom received special education services](double-dose-least-effective-weakest-students.md) — related
 - [Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes](interactive-pedagogy-increased-below-norm.md) — related
 - [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — related
+- [Double-dose algebra substantially increased interactive pedagogy for low-skill students (.55 SD, p<.001), unexplained by classroom compositional changes](double-dose-increased-interactive-pedagogy-low-skill.md) — related
+- [Tracking intensified concentration of behavioral and absentee problems in double-dose algebra classes, explained by declines in peer ability](double-dose-concentrated-behavioral-problems.md) — related
+- [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related

@@ -44,3 +44,5 @@ Pooled OLS regression on the complete-case subsample (N = 1254) estimated associ
 
 ## Related Claims
 - [In the pooled OLS model of current AI-use intensity, perceived usefulness (β = 0.322) and competence (β = 0.268) are the strongest positive associations, while institutional policy clarity shows no association after adjustment](policy-clarity-not-associated-with-use-intensity.md) — related
+- [Perceived policy clarity amplifies both the protective association of reflective use and the risk association of unreflective use with impostor syndrome](policy-clarity-amplifies-use-style-effects.md) — related
+- [University AI policies overwhelmingly use weaker, suggestive language rather than strong directive language](university-ai-policies-weak-directive-language.md) — related

@@ -44,3 +44,7 @@ Projection analysis using California Department of Education TK enrollment data 
 
 ## Related Claims
 - [California's universal TK expansion will require an additional 11,900 to 15,600 credentialed teachers with early childhood expertise by 2025–26](tk-expansion-requires-11900-15600-credentialed-teachers.md) — related
+- [Districts will need to hire between 11,900 and 15,600 additional lead TK teachers by 2025–26 beyond the estimated 4,100 already employed](additional-lead-tk-teachers-11900-15600.md) — related
+- [California will need at least 16,000 to 19,700 assistant TK teachers by 2025–26 under one-lead-one-assistant staffing](assistant-tk-teachers-16000-19700.md) — related
+- [TK enrollment grew from 88,883 children in 2019–20 to 151,491 in 2023–24, while the share of eligible 4-year-olds enrolled declined to 59%](tk-enrollment-growth-uptake-decline.md) — related
+- [County differences in TK uptake and population size translate into varying hiring needs, with the five largest counties accounting for over half of increased demand](county-variation-tk-hiring-demand.md) — related

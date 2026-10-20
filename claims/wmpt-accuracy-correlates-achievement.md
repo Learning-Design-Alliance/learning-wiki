@@ -43,4 +43,7 @@ Pearson correlations in the Grade 4 sample (n = 73) linked WMPT accuracy to all 
 
 
 ## Related Claims
--
+- [Confidence on the WMPT predicts numeracy but not reading or spelling](confidence-predicts-numeracy-only.md) — related
+- [WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty](wmpt-measures-vary-with-difficulty.md) — related
+- [Better calibration (lower Absolute Accuracy Index) is associated with higher Word Reading and Composite achievement scores](absolute-accuracy-index-predicts-reading-composite.md) — related
+- [Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases](grade4-children-monitor-working-memory-overconfident.md) — related

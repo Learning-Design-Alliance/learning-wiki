@@ -48,3 +48,9 @@ Repeated-measures ANOVA manipulation check showed a significant condition by mea
 ## Related Claims
 - [On the knowledge assignment, neither the occasion-by-contingency interaction nor the three-way interaction with independent working time was significant](knowledge-assignment-null-contingency-effects.md) — related
 - [The scaffolding intervention unintentionally increased small groups' independent working time, roughly doubling it from premeasurement to postmeasurement](scaffolding-intervention-increases-independent-working-time.md) — related
+- [Groups' final solution scores were significantly higher on the scaffolded task than the non-scaffolded task](scaffolds-higher-final-solution-scores.md) — related
+- [Low contingent support increased task effort when independent working time was short; with long independent working time task effort decreased under both contingencies but less so with high contingency](contingency-working-time-task-effort-interaction.md) — related
+- [Program teachers showed more complete cycles of contingent teaching at postmeasurement than the other teachers](mct-pd-more-complete-contingent-teaching-cycles.md) — related
+- [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
+- [Teachers who worked with the model of contingent teaching increased their teaching quality more than teachers who did not participate, especially on the contingent-teaching steps](mct-pd-increased-teaching-quality-more-than-control.md) — possibly the same claim (merge candidate)
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — a broader claim this one bears on

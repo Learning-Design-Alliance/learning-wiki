@@ -47,3 +47,5 @@ Model comparison in which changes-of-mind were selectively removed before comput
 - [Low-confidence info-seeking trials show inverted decision weights, unlike explicit reports and post-decision wagering](inverted-decision-weights-low-confidence-info-seeking.md) — related
 - [The inverted low-confidence info-seeking pattern persists when only each participant's first condition is analyzed](mixed-anova-confirms-inverted-weights.md) — related
 - [A single decision-and-confidence model with no condition-specific parameters fits decision weights across all three methods](unitary-model-fits-all-three-methods.md) — related
+- [Learners' self-assessments of response correctness are imperfect, with asymmetric error rates for incorrect and correct responses](imperfect-correctness-self-assessment.md) — related
+- [Primary task accuracy is higher in the info-seeking condition than in the explicit reports and wagering conditions](info-seeking-condition-higher-accuracy.md) — related

@@ -50,3 +50,5 @@ The brief states this as a documented research finding while reporting that raci
 - [Intergroup contact in diverse schools reduces prejudice and increases positive cross-racial relationships, alongside improved critical thinking and civic outcomes](diverse-schools-social-and-civic-benefits.md) — possibly the same claim (merge candidate)
 - [Magnet schools show positive effects on achievement, graduation, motivation, intergroup relationships, and satisfaction, and well-integrated magnets attract high parental demand](magnet-school-positive-effects.md) — related
 - [Racially integrated learning environments have positive impacts on academic achievement for students of all races, per the research the report synthesizes](integrated-schools-academic-benefits-all-races.md) — related
+- [ECE programs are on average more racially segregated than elementary and high schools](ece-more-segregated-than-k12.md) — related
+- [Magnet schools typically show positive effects on achievement, graduation, motivation, and integration, though integration varies widely by district](magnet-schools-positive-effects.md) — related

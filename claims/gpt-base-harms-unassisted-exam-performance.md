@@ -45,3 +45,9 @@ Preregistered primary analysis: intention-to-treat regression on unassisted exam
 ## Related Claims
 - [Access to a standard GPT-4 chat tutor during practice substantially improves practice performance in high school mathematics](gpt-base-improves-assisted-practice-performance.md) — related
 - [A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performance more than a standard GPT-4 interface](gpt-tutor-improves-practice-more-than-gpt-base.md) — related
+- [Guardrails in the GPT Tutor largely eliminate the negative exam effect, though no positive exam effect is observed](gpt-tutor-exam-effect-null.md) — related
+- [Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — possibly the same claim (merge candidate)
+- [Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance](students-unaware-of-ai-learning-harm.md) — related
+- [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related
+- [Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)](answer-offloading-associated-lower-unaided-performance-exploratory.md) — related
+- [Developers who used AI assistance scored 17% lower on a subsequent comprehension assessment than developers who completed the same tasks without AI, per the cited controlled study](ai-assistance-lower-comprehension-17-percent.md) — related

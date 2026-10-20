@@ -47,3 +47,8 @@ Logistic regression (snack delay, Model 3, N = 52, χ2(2) = 18.27***) showed han
 - [Older two- and three-year-olds have lower odds of failing delay-of-gratification tasks](age-predicts-toddler-delay-task-success.md)
 - [Probability of visual attention distraction, alone or combined with hands withholding, prevails after about 10–30 seconds of delay](time-course-distraction-withholding-prevails-after-10-30s.md)
 - [Percentage of time distracting visual attention away from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](visual-attention-distraction-predicts-toddler-delay-success.md)
+- [Successful two- and three-year-olds initiate distraction and withholding behaviours very early, within the first 10 seconds of delay on average](rapid-initiation-delay-behaviours-successful-toddlers.md) — related
+- [Self-distraction and avoidance behaviours occur in nearly all successful toddlers but in a minority of unsuccessful ones](delay-behaviours-occur-in-successful-but-not-unsuccessful-toddlers.md) — related
+- [Teacher-rated, but not parent-rated, self-control relates to the occurrence and timing of delay behaviours in toddlers](teacher-rated-self-control-relates-toddler-delay-behaviours.md) — related
+- [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related
+- [Executive function performance significantly predicts semantic fluency in preschool children](ef-significant-effect-semantic-fluency-preschool.md) — related

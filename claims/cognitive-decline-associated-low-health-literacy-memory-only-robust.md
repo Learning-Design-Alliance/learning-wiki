@@ -66,3 +66,4 @@ Logistic regression analyses among 988 participants of the Doetinchem Cohort Stu
 - [The association between health literacy and health task performance is substantially reduced after adjusting for cognitive abilities](health-literacy-task-association-reduced-after-cognitive-adjustment.md) — related
 - [Participants with low health literacy had poorer cognitive functioning in all domains and were more often (very) low-educated](low-health-literacy-participants-older-lower-educated-poorer-cognition.md) — related
 - [Poorer past cognitive functioning (measured 10 years earlier) is associated with low health literacy in older adults](poorer-past-cognition-associated-low-health-literacy.md) — related
+- [Cognitive decline occurred in all domains between the two measurement waves among participants with cognitive data at both time points](cognitive-decline-occurred-all-domains-10-years.md) — related

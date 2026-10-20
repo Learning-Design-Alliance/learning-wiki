@@ -44,3 +44,5 @@ Definitional/descriptive statement from the guide's growth goal options section.
 
 ## Related Claims
 - [The published norms allow normative interpretation of both status and fall-to-spring growth, e.g., an Algebra 1 student at the 55th fall percentile has an expected gain of 8 RIT with growth SD of 9, and an 11-RIT gain places the student at the 62nd growth percentile.](algebra1-status-growth-norms-example-interpretation.md) — related
+- [Average growth maintains rather than improves a student's achievement percentile; growth must exceed average for a student to gain ground](average-growth-maintains-percentile.md) — related
+- [Fall-to-spring growth rates in high school grades, particularly in reading, are often close to zero and can be negative](high-school-fall-spring-growth-near-zero.md) — related

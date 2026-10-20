@@ -49,3 +49,6 @@ Repeated-measures ANOVA on Gini coefficients for 11 groups across two tasks. The
 - [Groups' final solution scores were significantly higher on the scaffolded task than the non-scaffolded task](scaffolds-higher-final-solution-scores.md) — related
 - [Video-graph analysis shows scaffolded tasks produced more diverse process episodes, more fluent transitions between processes, and more P3–P4 oscillation than non-scaffolded tasks](scaffolds-video-graph-episode-diversity-transitions.md) — related
 - [Scaffolded ill-structured tasks elicit a higher proportion of solution-evaluation (P4) turns and a lower proportion of problem-solving (P3) turns than non-scaffolded tasks](scaffolds-shift-cps-turn-proportions-p3-p4.md) — related
+- [More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration](unequal-participation-lower-satisfaction.md) — related
+- [Explicit scaffolding prompts elicited P1 (exploring) and P2 (planning) engagement at task start that groups did not show on the non-scaffolded task](scaffolds-prompt-p1-p2-engagement-at-start.md) — related
+- [Participation within teams was fairly equal in all conditions, with Gini coefficients close to zero and no significant between-condition differences](equal-participation-across-collaboration-conditions.md) — related

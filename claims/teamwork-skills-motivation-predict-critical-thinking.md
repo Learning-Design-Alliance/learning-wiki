@@ -46,3 +46,5 @@ Third regression equation of the PROCESS model 6 analysis (critical thinking as 
 - [Greater teamwork is positively and significantly correlated with critical thinking in secondary school students (r=.532, p<.001)](teamwork-correlated-critical-thinking-secondary.md) — related
 - [Teamwork predicts critical thinking directly and via work skills (Ind1: Twork→WSk→CThink, β=.053, 95% CI .0312-.0717)](teamwork-via-work-skills-indirect-effect.md) — related
 - [Teamwork predicts critical thinking via educational motivation (Ind2: Twork→EdMot→CThink, β=.052, 95% CI .0318-.0747)](teamwork-via-educational-motivation-indirect-effect.md) — related
+- [Serial mediation through work skills then educational motivation is significant but smaller (Ind3: Twork→WSk→EdMot→CThink, β=.004, 95% CI .0010-.0079)](serial-mediation-work-skills-motivation-smaller.md) — related
+- [No statistically significant difference between the work-skills route and the educational-motivation route (C1: β=-.0021, CI includes zero)](ind1-ind2-no-significant-difference.md) — related

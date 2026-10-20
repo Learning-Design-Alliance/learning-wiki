@@ -51,3 +51,5 @@ Across the regression and correlation analyses of the four formats, "more accura
 - [Both symbolic and nonsymbolic magnitude processing correlate with subtraction accuracy, but subtraction speed is associated only with symbolic tasks](symbolic-nonsymbolic-accuracy-speed-dissociation.md) — related
 - [Kindergarteners' performance does not differ between approximate and exact single-digit addition formats, and the two dimensions do not interact](no-response-type-effect-single-digit-addition.md) — related
 - [Symbolic approximate addition is predicted by nonsymbolic number line estimation, the VSSP and the CE, consistent with transcoding to the nonsymbolic code](transcoding-in-symbolic-approximate-addition.md) — related
+- [Kindergarteners perform significantly better in nonsymbolic than symbolic single-digit addition problem formats](nonsymbolic-easier-than-symbolic-single-digit-addition.md) — related
+- [The visuospatial sketchpad is the best and only unique predictor of kindergarteners' nonsymbolic approximate addition](vssp-predicts-nonsymbolic-approximate-addition.md) — related

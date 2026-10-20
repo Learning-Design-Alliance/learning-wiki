@@ -46,3 +46,4 @@ Historical argument drawing on an appended bibliography of composition anteceden
 ## Related Claims
 - [If writing and thinking are forms of conversation, collaborative learning is an extension of social constructionism into the composition classroom](collaborative-learning-is-an-extension-of-social-constructionism-into-composition.md) — related
 - Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing — related
+- [Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say](collaborative-writing-recommendations-argued-to-produce-active-student-writers.md) — related

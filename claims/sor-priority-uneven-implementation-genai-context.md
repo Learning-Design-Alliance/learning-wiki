@@ -65,3 +65,7 @@ Interview participants reported that "districts had less to say" about how ELLs 
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
 - [Teachers and education leaders differ in which OpenSciEd challenges they prioritize: teachers rate student engagement higher, leaders rate materials adaptation and teacher capacity higher.](openscied-teacher-leader-priority-differences.md) — related
 - [Participants reported re-prioritizing relationship building with students and finding community and support for self-care](edcamp-dfl-relationships-and-self-care.md) — related
+- [Contrary to program guidelines, English acquisition was given priority over Spanish acquisition in practice](english-priority-over-spanish-in-practice.md) — related
+- [Districts use no consistent way of referring to English Learner programs and their offices](no-consistent-el-program-terminology.md) — related
+- [Limited teacher knowledge of language development and curriculum procedures was the third key implementation barrier](knowledge-barriers-language-development-procedural.md) — related
+- [English Learner programs and services across districts are led by administrators with varied titles, many without apparent links to English Learners](varied-administrator-titles-el-services.md) — related

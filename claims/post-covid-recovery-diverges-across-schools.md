@@ -49,3 +49,5 @@ The brief's own description states it examines two components of school recovery
 - [Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind](middle-school-reading-stagnant-lowest-performers-behind.md) — related
 - [In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started](most-students-still-made-gains-reading-math-covid.md) — related
 - Supportive school environments and strong teacher-student relationships speed recovery from learning loss — related
+- [Persistently high chronic absenteeism rates are associated with slower academic recovery in math and reading after COVID-era disruptions](chronic-absenteeism-associated-slower-covid-recovery.md) — a narrower finding that bears on this claim
+- [Post-pandemic summer school is studied for its effects on student achievement and district academic recovery](post-pandemic-summer-school-achievement-recovery-effects.md) — related

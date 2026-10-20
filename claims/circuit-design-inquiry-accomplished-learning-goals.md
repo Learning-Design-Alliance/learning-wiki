@@ -48,3 +48,4 @@ Authors' overall evaluation in the Conclusions of a single implementation of the
 - [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](inquiry-first-stimulates-interest-and-organizes-course.md) — a broader claim this one bears on
 - Graduate students generally enjoyed a seminar taught through expert telelectures and telediscussion — related
 - Goal attainment was low, and child development goals were accomplished at a higher rate than adult centered goals — related
+- [TAIA students perceived more teacher support for hypothesis generation and argumentation and enjoyed inquiry more; perceived experiment-related support did not differ](taia-perceived-support-hypothesis-argumentation.md) — related

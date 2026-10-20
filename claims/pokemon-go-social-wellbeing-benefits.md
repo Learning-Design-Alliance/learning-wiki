@@ -46,3 +46,5 @@ The review's synthesis of Pokémon Go research reports that eleven studies found
 - [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — a broader claim this one bears on
 - [Youth focus groups surfaced four key digital well-being challenge themes: addiction and compulsive use, impact on thinking, effects on social skills, and effects on mental health](youth-focus-groups-four-digital-wellbeing-challenge-themes.md) — related
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — a broader claim this one bears on
+- [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — a broader claim this one bears on
+- [Casual games show promise for mitigating anxiety, depression, stress, and low mood across the range of mental health issues examined](casual-games-mental-health-promise.md) — related

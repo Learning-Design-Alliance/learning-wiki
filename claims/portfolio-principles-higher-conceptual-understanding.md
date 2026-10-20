@@ -43,4 +43,8 @@ All four classes, including a non-Knowledge Forum comparison class submitting pa
 
 
 ## Related Claims
--
+- [Students with portfolios and knowledge-building principles asked more questions and higher-level questions than both comparison classes](portfolio-principles-more-high-level-questions.md) — related
+- [The portfolio-principles class scored higher on weighted depth of inquiry than both other Knowledge Forum classes](portfolio-principles-higher-depth-of-inquiry.md) — related
+- [Ninth graders using Knowledge Forum with portfolios and knowledge-building principles showed higher database inquiry participation than the Knowledge Forum-only class](kf-portfolio-principles-higher-atk-inquiry.md) — related
+- [The portfolio-principles class produced more high-level explanations and deeper explanations than the other two Knowledge Forum classes](portfolio-principles-deeper-explanations.md) — related
+- [Knowledge-building portfolio scores correlated with database participation, explanation quality, and conceptual understanding](portfolio-scores-correlate-participation-understanding.md) — a broader claim this one bears on

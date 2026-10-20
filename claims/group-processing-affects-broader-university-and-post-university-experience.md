@@ -45,3 +45,5 @@ In the retrospective survey of 46 former seminar students, participants agreed t
 ## Related Claims
 - [Students retrospectively evaluated group processing as time well spent and vividly remembered it years later](group-processing-retrospectively-valued-time-well-spent.md) — related
 - [Most former students reported using group processing after their seminar and rated it as transferable to other contexts](group-processing-skills-transferable-to-other-contexts.md) — related
+- [In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas](reward-interdependence-benefit-attitudes.md) — related
+- [Students' evaluation of group processing as a positive contribution to learning increased significantly from the beginning to the end of the course and again to the time of survey](group-processing-perceived-value-increases-over-time.md) — related

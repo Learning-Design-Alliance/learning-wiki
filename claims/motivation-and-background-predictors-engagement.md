@@ -45,3 +45,7 @@ Frequency: Felt collaboration among other students in this course 0.09 0.01 *"
 
 ## Related Claims
 - [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](peer-collaboration-predicts-engagement.md) — related
+- [Feeling comfortable asking questions in class is the strongest classroom-climate predictor of students' behavioral academic engagement in introductory STEM courses](comfort-asking-questions-predicts-engagement.md) — related
+- [Latino CPS graduates who aspire to a four-year degree are least likely to plan to attend a four-year college after graduation](latino-graduates-least-likely-plan-four-year-college.md) — related
+- [The 2020 Post-Secondary Attainment Index is 27 percent, and no race/ethnicity and gender group reaches the 75 percent aspiration benchmark](cps-pai-27-percent-2020.md) — related
+- [The 2021 PAI ranges widely by race/ethnicity and gender, from 11.6% for Black young men to 67.3% for Asian/Pacific Islander young women, and no group reaches the 75% aspiration level](cps-pai-race-gender-disparities.md) — related

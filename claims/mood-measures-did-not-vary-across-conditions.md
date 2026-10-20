@@ -47,3 +47,5 @@ Supplementary analysis (Appendix A.3) of the same experiment: two naïve coders 
 - [Unreliability in an outcome measure reduces the statistical power of treatment-control comparisons](unreliability-reduces-rct-statistical-power.md) — related
 - [Children in the reliable condition were significantly more likely to wait the full 15 min than children in the unreliable condition (64.3% vs 7.1%)](reliable-condition-full-15-minute-waiting-proportion.md) — related
 - [Children in the reliable condition waited significantly longer on the marshmallow task than children in the unreliable condition (p < 0.0005)](reliable-condition-longer-marshmallow-wait-times.md) — related
+- [Age and gender did not significantly predict marshmallow-task wait-times in this sample when controlling for condition](age-gender-not-significant-wait-time-predictors.md) — related
+- [Children's wait-times on sustained delay-of-gratification tasks reflect beliefs about environmental reliability in addition to self-control capacity](wait-times-reflect-environmental-reliability-beliefs.md) — related

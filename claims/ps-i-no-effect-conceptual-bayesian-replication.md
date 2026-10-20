@@ -49,3 +49,7 @@ Controlled experiment with 75 undergraduate teacher students in a 2×2 design (o
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — reports the opposite
 - [Including typical student solutions in explicit instruction showed no significant effect on conceptual knowledge in the Bayesian-reasoning replication](typical-solutions-instruction-no-effect-bayesian.md) — related
 - [Across two studies that differed in the duration of the initial problem-solving phase, the PS-I versus WS-I transfer advantage reversed](ps-phase-duration-reverses-ps-i-ws-i-transfer.md) — related
+- [Micro productive failure showed no effect on conceptual explanation, but a condition × time interaction emerged as the I-PS mean advantage at one day reversed at one week](micro-pf-no-conceptual-explanation-effect.md) — related
+- [Across studies, high solution rates in the initial problem-solving phase co-occur with beneficial PS-I effects and low rates with no beneficial effects, a cross-study pattern not yet tested in a shared sample](solution-rate-moderates-ps-i-benefits.md) — related
+- [In the Bayesian-reasoning problem-solving phase, most students generated only one solution attempt, far fewer than in the original variance study](few-solution-attempts-bayesian-problem-solving.md) — related
+- [PS-I instructional designs can improve conceptual understanding and transfer when design principles are met](ps-i-improves-conceptual-understanding-transfer.md) — reports the opposite

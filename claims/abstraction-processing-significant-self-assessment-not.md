@@ -64,3 +64,4 @@ Ordinal mixed-effects model on evaluators' perceived processing-style ratings (r
 ## Related Claims
 - [In human evaluation, abstraction preference was associated with perceived response quality, and more complex questions generally received lower ratings](abstraction-perceived-quality-human-study.md) — related
 - [Higher self-assessment, verbosity, reflective processing, and technical abstraction are associated with greater response complexity, and Evaluation and Analysis questions tend to yield more complex responses](ols-complexity-predictors.md) — related
+- [Prompt-based personalization of an LLM/RAG teaching assistant produces measurable variation in response expression, length, and complexity across personalization conditions](prompt-personalization-measurable-response-variation.md) — a broader claim this one bears on

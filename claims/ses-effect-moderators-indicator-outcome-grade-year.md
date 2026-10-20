@@ -50,3 +50,5 @@ The second-order meta-analysis included four moderator variables: types of SES i
 - [The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types](anxiety-achievement-moderators-levels-languages-anxiety-types.md) — related
 - [Predictive accuracy of middle and high school indicators did not vary substantially between student groups](predictive-accuracy-similar-across-groups.md) — related
 - [Writing intervention effects for US ELL students do not vary significantly by study quality indicators, participant characteristics, or intervention characteristics](no-significant-moderators-ell-writing-effects.md) — related
+- [Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects](grade-level-moderates-effect-size.md) — related
+- [Outcome type significantly moderates the FSR–outcome association, with persistence showing stronger correlations than achievement](outcome-type-moderator-fsr-association.md) — a narrower finding that bears on this claim

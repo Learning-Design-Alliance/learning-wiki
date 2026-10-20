@@ -65,3 +65,6 @@ Same DTI study: physical activity associations with white matter remained "after
 
 - [Uncinate fasciculus and cingulum bundle continue developing into adulthood while fornix integrity is age-invariant from age 5, and uncinate integrity relates to recall](uncinate-cingulum-protracted-development-fornix-age-invariant.md) — related
 - [Excessive smartphone use in adolescents is associated with reduced frontostriatal connectivity and greater cortisol-related withdrawal symptoms](excessive-smartphone-frontostriatal-cortisol.md)
+- [Adolescents with Internet addiction show structural and resting-state functional brain alterations, including reduced gray matter density, reduced white matter FA, and decreased connectivity in DMN and CEN](internet-addiction-adolescent-brain-alterations.md) — related
+- [Frequency of Internet use negatively predicts longitudinal change in gray and white matter volumes and in verbal IQ in early adolescents](internet-use-frequency-longitudinal-gray-matter-verbal-iq.md) — related
+- [Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence](screen-time-less-efficient-cognitive-control-adolescence.md) — related

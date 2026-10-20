@@ -57,3 +57,7 @@ The authors are explicit that the co-variation between student-resource invocati
 - Outdoor learning activities with Elders increased participation among children who rarely spoke or answered questions in class — related
 - [Translanguaging practices briefly afforded multilingual participation, but this positioning did not endure across the unit](translanguaging-afforded-participation-not-enduring.md) — related
 - [The IRE classroom discourse structure constrains students' everyday mathematical register, conjectures, and participation of lower socioeconomic groups](ire-structure-constrains-math-participation.md) — a narrower finding that bears on this claim
+- [Small-group interaction generates and retains resources across all three planes](small-group-interaction-generates-shared-resources.md) — related
+- [Teachers can guide students' conceptual understanding of life skills concepts by building on the everyday experiences students invoke in classroom conversations.](teachers-build-on-everyday-experiences-in-life-skills-conversations.md) — related
+- [Teacher communicative activities in the analysed undergraduate mathematics lesson were dominated by presentation and correction, reflecting an authoritative communicative approach](teacher-transmission-dominance-undergraduate-math-lesson.md) — related
+- [Task-level and process-level prompts in support software mediate and alter students' group argumentation discourse practice and potentially their individual argumentation style](task-process-prompts-alter-argumentation-style.md) — related

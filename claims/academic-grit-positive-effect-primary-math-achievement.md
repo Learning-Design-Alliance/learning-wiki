@@ -47,3 +47,4 @@ Cross-sectional SEM with 225 4th-grade students in Istanbul; the article reports
 - [Academic grit mediates a positive indirect effect of growth math mindset on math achievement](grit-mediation-growth-math-mindset-achievement.md) — related
 - [Math mindsets and academic grit correlate substantially with primary math achievement](mindset-grit-math-achievement-correlations.md) — possibly the same claim (merge candidate)
 - [Academic behaviors have the most immediate effect on course grades; directly targeting grit is not an evidenced lever](academic-behaviors-most-immediate-effect-grades.md) — reports the opposite
+- [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related

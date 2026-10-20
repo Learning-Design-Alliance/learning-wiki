@@ -63,3 +63,5 @@ Same permutation analysis for non-immersion learners. Exposure ages 5-11 "indist
 
 ## Related Claims
 - [Ultimate attainment is similar for learners who begin by 10-12 years of age and declines continuously thereafter](ultimate-attainment-stable-until-10-12-years.md) — related
+- [The tool's effect differs by timing: early AI acts as a momentum starter, later AI as a deepener raising narrative transportation](ai-scaffolding-effect-depends-on-workflow-timing.md) — related
+- [Ultimate attainment and optimal-period length do not reliably differ across major native-language groups, with slightly more evidence for differences in learning curves](native-language-group-differences-small-unreliable.md) — related

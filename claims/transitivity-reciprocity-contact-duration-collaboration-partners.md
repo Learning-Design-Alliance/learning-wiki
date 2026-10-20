@@ -48,3 +48,4 @@ The editorial reports the Eberle et al. study, an intervention study at two CSCL
 - [Transitivity predicts the initiation of new potential collaborations at scientific events](transitivity-predicts-new-collaboration-initiation.md) — a narrower finding that bears on this claim
 - [Longer face-to-face contact during a scientific event increases the likelihood that a researcher selects the other as a new potential collaboration partner](contact-duration-predicts-new-collaboration-partner-selection.md) — a narrower finding that bears on this claim
 - [Reciprocity predicts the initiation of new potential collaborations at scientific events](reciprocity-predicts-new-collaboration-initiation.md) — a narrower finding that bears on this claim
+- [Face-to-face contact durations at scientific events follow a heavy-tailed distribution, with 20-second contacts most common](heavy-tailed-contact-duration-distribution.md) — related

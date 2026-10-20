@@ -48,3 +48,4 @@ Comparing morpheme accuracy orders across planned writing, planned speech, and u
 - Monitoring is a variable phenomenon, not all-or-nothing, and monitoring in formal styles may pull up accuracy in less formal styles — related
 - [Past copula style shifting occurs only between planned speech and unplanned speech](past-copula-shifting-speech-conditions-only.md) — related
 - [L2 learners style-shift in past tense accuracy within narrative discourse according to the amount of planning time available](style-shifting-past-tense-planning-time-narrative.md) — related
+- [Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style](monitoring-improves-learnable-rule-accuracy.md) — related

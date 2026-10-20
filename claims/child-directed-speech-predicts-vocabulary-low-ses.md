@@ -53,3 +53,8 @@ Correlational analysis of 29 low-SES Spanish-learning infants using all-day LENA
 - [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](ses-differences-quantity-quality-parental-input.md) — a broader claim this one bears on
 - [Overheard adult speech is unrelated to 24-month vocabulary, unlike child-directed speech](overheard-speech-unrelated-vocabulary.md) — related
 - [Processing efficiency at 19 months mediates the relation between child-directed speech and 24-month vocabulary](processing-efficiency-mediates-cds-vocabulary.md) — related
+- [Within low-SES samples, quality of mother–child communication predicts children's later expressive language more strongly than input quantity](within-ses-quality-over-quantity.md) — related
+- [Substantial variability in maternal talk existed within this primarily low-SES sample, and maternal talk was uncorrelated with SES](maternal-talk-variability-within-low-ses-sample.md) — related
+- [The mediation of child-directed speech effects through processing efficiency holds after controlling for knowledge of the target words and excluding at-chance performers](mediation-robust-to-word-knowledge-controls.md) — related
+- [Infants' preference for and learning benefit from child-directed speech change over development, with CDS advantages diminishing by the third year](cds-benefits-vary-developmental-window.md) — related
+- [Social contingency in parent–child interaction supports early language learning, and infants actively elicit higher-quality input through a social feedback loop](social-feedback-loop-contingency-language.md) — related

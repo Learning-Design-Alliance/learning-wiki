@@ -69,3 +69,5 @@ Revision coding across the three cycles in the two-class quasi-experiment, shown
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — a broader claim this one bears on
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
 - [High-acceptance groups made more effective use of AI feedback during revision, resulting in higher accuracy scores](high-acceptance-groups-effective-ai-feedback-use-higher-accuracy.md) — related
+- [Teacher review workload was higher in the Diagnostic Review class in review minutes, added instruction, and review intensity](teacher-review-workload-higher-diagnostic-review.md) — related
+- [FRAC and the combined intervention shifted revision toward deeper levels, with deep revision (L3+L4) rising from 25% in the regular AI group to 55% in the combined group](frac-shifts-revision-toward-deep-levels.md) — related

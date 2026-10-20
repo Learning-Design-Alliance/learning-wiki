@@ -49,3 +49,6 @@ Structural equation modeling of SECCYD data (n = 924) predicting age-15 school a
 - [Census-based neighborhood poverty is positively associated with school attachment after controls](neighborhood-poverty-positive-school-attachment.md) — related
 - [Perceived neighborhood safety is protective for school attachment among low-income youth in high-disorder neighborhoods, and mediates the affluence-school attachment link only among non-low-income youth](safety-attachment-moderation-and-mediation-by-income.md) — related
 - [Family climate and school attachment exert reciprocal positive influences on each other over the middle school years](family-climate-school-attachment-reciprocal-influences.md) — related
+- [Perceived neighborhood safety is not significantly associated with standardized test scores or GPA once confounding variables are controlled](perceived-safety-null-test-scores-gpa.md) — related
+- [Among youth from low-income families, perceived neighborhood safety is negatively associated with GPA, whereas among non-low-income youth no association is observed](safety-gpa-negative-for-low-income-youth.md) — related
+- [The association between perceived neighborhood safety and GPA is moderated by observer-rated neighborhood disorder and by neighborhood affluence](safety-gpa-moderated-by-disorder-and-affluence.md) — related

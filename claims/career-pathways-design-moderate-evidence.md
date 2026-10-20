@@ -47,3 +47,4 @@ WWC meta-analysis of 12 studies supporting Recommendation 1, eight meeting stand
 - [The five career pathways recommendations are supported by 21 studies with participant samples ranging from 124 to 42,984 students](career-pathways-evidence-base-21-studies.md) — related
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
 - [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — related
+- [Modern careers involve frequent job changes, with Gen Z projected to hold 18 jobs across six career areas](frequent-job-changes-nonlinear-careers.md) — related

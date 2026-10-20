@@ -45,3 +45,5 @@ Moderator analyses of the meta-analytic effect size identified delivery-format c
 ## Related Claims
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — related
 - [The expert-presenter model is the most prevalent staff development model, with most activities brief](expert-presenter-model-most-prevalent.md) — related
+- [Sesame Street is presented as a model of research-based educational media whose curriculum-plus-formative-and-summative-research model drove measurable impact](sesame-street-research-model-example.md) — related
+- [More effective autonomy-support training programs trained multiple elements of autonomy support](multiple-elements-moderator-autonomy-training.md) — related

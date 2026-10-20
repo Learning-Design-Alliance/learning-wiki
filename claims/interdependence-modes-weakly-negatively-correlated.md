@@ -49,3 +49,5 @@ Correlational analysis of questionnaire and profile data from 40 brokerage offic
 - [Social interdependence, not role interdependence or specialization, correlates with performance and well-being](social-interdependence-predicts-performance.md) — related
 - Emphasis on specialization for advancement moderates the specialization–role interdependence relationship — related
 - [Baseline intercorrelations among the six tests were small, suggesting the battery covered relatively independent cognitive processes](baseline-intercorrelations-independent-processes.md) — related
+- [Perception measures of social distance, treatment amenability, perceived recidivism, and sentencing severity are mostly significantly intercorrelated](perception-measures-intercorrelations.md) — related
+- [IAR and CDR factor scores intercorrelate too weakly to confirm the two instruments measure the same locus of control construct](iar-cdr-factor-scores-low-intercorrelations.md) — related

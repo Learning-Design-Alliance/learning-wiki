@@ -47,3 +47,4 @@ The article's further analysis characterizes teachers who achieved high-dosage p
 - Students receiving the recommended BookNook dosage of 20 or more sessions show markedly stronger reading gains (ES = +0.26) than the overall assigned sample — related
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
 - [Schools with formal fidelity-monitoring processes achieved stronger MTSS implementation, and full implementers share leadership, professional development, and integration characteristics](kansas-mtss-fidelity-monitoring-stronger-implementation.md) — related
+- [OBCs drove increased edtech implementation rates, boosted by provider implementation support, despite challenges including buy-in, staff workload, unclear terms, leadership turnover, and time constraints.](obc-increased-implementation-rates.md) — related

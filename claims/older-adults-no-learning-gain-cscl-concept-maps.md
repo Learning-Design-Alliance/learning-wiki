@@ -62,4 +62,8 @@ Within-group analysis in the Findings section: younger adults' medians rose from
 
 
 ## Related Claims
--
+- [Younger adults outperform older adults in concept-map performance, and older adults show no concept-map improvement](concept-map-performance-age-difference.md) — related
+- [Age groups differ in ICAP engagement distribution: younger adults engage more in active mode, older adults more in constructive and interactive modes, during collaborative concept-map learning](icap-engagement-distribution-age-differences.md) — related
+- [ENA reveals different utterance co-occurrence structures by age: older adults show a stronger active–interactive connection while younger adults' constructive–interactive connection is not statistically confirmed](ena-network-structure-age-differences-icap.md) — related
+- [No age difference in the strength of active–constructive connections in collaborative discourse networks](no-age-difference-active-constructive-connection.md) — related
+- [Older adults produce fewer specific responses than younger adults in the generation task across both experiments](aging-fewer-specific-responses-generation.md) — related

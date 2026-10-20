@@ -43,3 +43,5 @@ Descriptive survey results on factors influencing desire to participate in DLP r
 ## Related Claims
 - [K-12 and higher education educators express generally positive feelings about research on digital learning platforms, with no negative respondents](educators-positive-feelings-dlp-research.md) — related
 - [Higher education educators report greater awareness of research on digital learning platforms than K-12 educators](higher-ed-greater-dlp-research-awareness.md) — related
+- [Free, understandable, and accessible content ranked low (4%) as an enrollment motivator for SuaCode students, unlike in comparable MOOC motivation studies](free-accessible-content-weak-enrollment-motivator-suacode.md) — related
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related

@@ -68,3 +68,5 @@ Money usage subtest of the NADL Informal Test comparing DD and control participa
 - [Adults with developmental dyscalculia are aware of their numerical difficulties in everyday life](dd-adults-aware-of-numerical-difficulties.md) — related
 - [Distance estimation is preserved in adults with developmental dyscalculia](dd-adults-distance-estimation-preserved.md) — related
 - [Adults with developmental dyscalculia score significantly lower than controls on the formal NADL test of school-acquired numerical abilities](dd-adults-lower-formal-nadl.md) — related
+- [Numerical difficulties in adults with DD are associated with negative emotions and psychosomatic symptoms traceable to primary school age](dd-adults-emotional-impact-numerical-difficulties.md) — related
+- [Adults with DD show deficient time/duration processing but preserved length processing, with mixed findings across studies](dd-adults-time-duration-deficit-length-mixed.md) — related

@@ -49,3 +49,4 @@ Exit-survey Likert results from the 59 completers of the two-session self-servic
 - [In the pilot, 93% of students found controlling the wave in the air natural and 86% reported feeling more engaged and focused than in regular learning](ar-gesture-control-felt-natural-and-increased-engagement-pilot.md) — related
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related
 - [91% of UAT participants rated the Taklif.AI user interface as intuitive](uat-91-percent-rate-interface-intuitive.md) — related
+- [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related

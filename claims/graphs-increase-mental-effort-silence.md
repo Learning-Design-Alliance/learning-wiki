@@ -43,4 +43,8 @@ Verbal-data measure across eight problems; a multi-level regression on the propo
 
 
 ## Related Claims
--
+- [Contrasting problems show the same graph can be helpful or harmful: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present](graph-helpful-harmful-contrasting-cases.md) — related
+- [Graphs drew visual attention away from text: proportion of dwell time on input and problem statement was significantly shorter when a graph was present](graph-attention-away-from-statement.md) — related
+- [No overall multimedia effect on problem-solving performance in vector calculus: graphs did not significantly improve correctness](no-overall-multimedia-effect-vector-calculus.md) — related
+- [Performance was unrelated to dwell time on the graph but increased with dwell time on the problem statement](statement-dwell-predicts-performance.md) — related
+- [Picture bias: graphs made students more likely to confirm problem statements, irrespective of whether the statements were true](picture-bias-graphs-confirm-statements.md) — related

@@ -43,4 +43,6 @@ Episode-level qualitative finding from the boys' Laser Defender work: after judg
 
 
 ## Related Claims
--
+- [Students' makerspace knowledge practices are mediated multimodally by discourse, materials, embodied actions, and physical space](multimodal-mediation-makerspace-knowledge-practices.md) — a broader claim this one bears on
+- [Students in a school-based makerspace enact four intertwined multimodal knowledge practices combining embodied action, talk, space and artifact use](four-multimodal-knowledge-practices-makerspace.md) — a broader claim this one bears on
+- [Cumulative, disputational, and exploratory talk types together mediated students' enactment of makerspace knowledge practices](talk-types-mediate-makerspace-knowledge-practices.md) — related

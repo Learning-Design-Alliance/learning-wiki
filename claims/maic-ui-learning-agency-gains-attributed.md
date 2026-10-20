@@ -46,3 +46,5 @@ Background citation in this paper's introduction: the review reports the MAIC-UI
 - [Instructor verification of AI-generated content before delivery is feasible and crucial for quality, per prior systems reviewed](instructor-verification-feasible-crucial.md) — related
 - [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](lms-process-indicators-pilot.md) — related
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — a broader claim this one bears on
+- [Improvement across critique axes during iterative UI generation is not monotonic](non-monotonic-improvement-across-critique-axes.md) — related
+- [Independent expert teachers accepted 86% of generated STEM learning interactives, rating most as good or excellent, with biology simulations weakest on aesthetics and UX](expert-rating-40-requests-86-percent-acceptance.md) — related

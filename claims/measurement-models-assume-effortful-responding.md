@@ -48,3 +48,5 @@ The abstract states the assumption directly: "current measurement models underly
 - [Responses used in effort-moderated scoring can sometimes reflect less-than-full, or partial, engagement, making E-M scores less trustworthy](em-scoring-responses-can-show-partial-engagement.md) — a narrower finding that bears on this claim
 - [Effort-moderated scoring estimates disengaged test takers' performance by excluding disengaged responses and scoring the remaining responses](em-scoring-excludes-disengaged-responses.md) — related
 - [The effort-moderated IRT model's parameter estimation accuracy was studied under multiple assumption violations in the context of test-taking disengagement](effort-moderated-irt-parameter-estimation-under-assumption-violations.md) — related
+- [Rapid guessing can be identified from item-level response time, and its proper interpretation depends on contextual requirements](rapid-guessing-identification-and-context.md) — related
+- [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related

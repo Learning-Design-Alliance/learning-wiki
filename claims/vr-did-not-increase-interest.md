@@ -66,3 +66,7 @@ Exploratory subgroup breakdown (Benjamini–Hochberg corrected) over six school-
 - [Neither the VR application nor the traditional lesson produced a significant positive change in pro-environmental attitudes](no-attitude-change-either-condition.md)
 - [Both a VR application and a traditional lesson increased students' self-appraised knowledge about the Amazon rainforest and biodiversity](vr-and-traditional-lesson-increase-self-appraised-knowledge.md)
 - [Knowledge-test scores differed strongly between German school types, with academic-track students scoring highest](knowledge-test-school-type-differences.md)
+- [General-track students reported significantly lower initial interest in science than science-track students, with no difference in interest gain](general-track-lower-initial-interest.md) — related
+- [Test condition did not affect pre-post learning-outcome differences, but school type was a significant factor in the multivariate model](school-type-significant-condition-not.md) — a broader claim this one bears on
+- [School type significantly predicted change in environmental-protection attitudes, with academic-track students changing more than combined-school students](school-type-predicts-uss-attitude-change.md) — related
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related

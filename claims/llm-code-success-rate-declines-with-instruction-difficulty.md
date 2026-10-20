@@ -45,3 +45,4 @@ Dataset-based simulation evaluation of LLM-generated robot control code using Gr
 ## Related Claims
 - [The article constructs an educational benchmark of 108 instruction instances grouped into simple, composite, and complex difficulty levels](edusim-llm-three-level-instruction-difficulty-benchmark.md) — related
 - [A single natural-language command can be decomposed by an LLM into coordinated sequential action sequences for multiple robots](llm-decomposes-command-into-multi-robot-action-sequences.md) — related
+- [Participants rated the complex three-population scenario as more difficult than the simple one-population scenario](visigarp-scenario2-difficulty.md) — related

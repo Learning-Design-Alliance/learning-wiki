@@ -65,3 +65,5 @@ Analysis of within-school classroom assignment changes under REACH. Teachers wit
 - [Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate](observation-scores-rated-most-accurate-vam-least.md) — related
 - [REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17](reach-ratings-increased-over-time.md) — related
 - [Missed observations left 24 percent of non-tenured teachers without a REACH rating, concentrated in a smaller number of schools undergoing organizational change](reach-missed-observations-inability-to-rate.md) — related
+- [The Danielson Framework identified far more teachers as low-performing than the prior CPS checklist (8 percent vs 0.3 percent)](framework-identifies-more-unsatisfactory-teachers.md) — related
+- [Fewer non-tenured teachers were rated in the top two categories under REACH (58%) than under the previous checklist system (87%)](reach-fewer-top-two-ratings-than-checklist.md) — related

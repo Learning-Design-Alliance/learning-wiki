@@ -46,3 +46,4 @@ In the study's item analyses, "previously identified effects in single digit mul
 - [Exploratory analyses of multidigit multiplication difficulty suggest children rely on the base 10 structure of the number system.](multidigit-difficulty-base-10-structure-reliance.md) — related
 - [Primary school children's multiplication ability falls into three groups: single digit problem solvers, multidigit problem solvers, and high performers.](multiplication-three-ability-groups-primary-children.md) — related
 - [Sign priming effects in addition occur for large, small, and +1 problems but not for tie or +0 problems in older adults](problem-type-priming-pattern-older.md) — related
+- [A single configurable analytics codebase replicates prior research findings across three educational AI assistant domains](a4l-pipeline-replicates-analyses-across-three-domains.md) — a broader claim this one bears on

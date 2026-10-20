@@ -47,3 +47,5 @@ ANCOVA on post-course SRL scores controlling for pre-course SRL, N = 277 exit-qu
 - [Both general and personalized SRL interventions increased students' participation in chat-based collaborative activities compared to control](srl-interventions-increased-chat-activity-participation.md) — related
 - [SRL intervention groups had significantly lower dropout than control in a MOOC, with no difference between the two intervention modes](srl-interventions-reduced-mooc-dropout.md) — related
 - [The intervention did not increase students' SRL aptitude, yet supported higher course grades](regulatory-support-no-increase-srl-aptitude.md) — reports the opposite
+- [Pre-course SRL level statistically significantly predicted participation in collaborative chat activities](pre-course-srl-predicts-collaborative-participation.md) — related
+- [This issue's MOOC study is reported to demonstrate that an intervention delivered outside chat activities promotes student participation in chat-based collaborative activities](mooc-outside-intervention-promotes-chat-participation.md) — related

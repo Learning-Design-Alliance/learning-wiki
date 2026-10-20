@@ -64,3 +64,9 @@ The review reports a study of North Carolina elementary, middle, and high school
 ## Related Claims
 - [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — possibly the same claim (merge candidate)
 - North Carolina's teacher workforce is far less racially diverse than its student population — related
+- [Frequent RJ use by teachers shows preliminary indications of reducing the racial discipline gap, though disparities persist](rj-reduces-racial-discipline-gap-preliminary.md) — related
+- [Exclusionary discipline harms students and disproportionately affects students of color, so tracking suspension data can promote positive interventions](exclusionary-discipline-harms-and-disproportionality.md) — related
+- [Teachers who implemented restorative justice frequently had better student relationships and issued fewer referrals, with preliminary indications of reduced racial discipline gaps that were not fully eliminated](frequent-rj-use-relationships-referrals-racial-gap.md) — related
+- [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](restorative-practices-reduce-exclusionary-discipline.md) — related
+- [Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors](exclusionary-discipline-disproportionate-penalties.md) — related
+- [Having a race-matched teacher is associated with higher test scores and long-term academic benefits for Black students](race-matched-teacher-academic-benefits-black-students.md) — related

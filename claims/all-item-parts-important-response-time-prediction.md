@@ -45,3 +45,4 @@ In the same modeling study, the authors report that "all parts of the item were 
 ## Related Claims
 - [Item difficulty was best predicted using signal from the item stem](difficulty-best-predicted-from-item-stem.md) — related
 - [Transfer learning improves prediction of item difficulty when response time is used as an auxiliary task, but not the other way around](transfer-learning-difficulty-prediction-auxiliary-response-time.md) — related
+- [Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables](feature-importance-spread-across-many-features.md) — a broader claim this one bears on

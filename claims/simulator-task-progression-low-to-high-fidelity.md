@@ -43,4 +43,8 @@ Analysis of Excerpt 1, a video-recorded interactional sequence in the simulator-
 
 
 ## Related Claims
--
+- [Students reconstruct authentic work practices in the simulator even when the simulation has removed the relevant environmental elements.](students-reconstruct-authentic-practice-in-simplified-simulation.md) — related
+- [Simulator feedback responds authentically to student error, e.g. logs fall from the cargo when the grapple is opened incorrectly.](simulator-authentic-error-feedback-log-drops.md) — related
+- [VET teachers use body gestures and pointing to recreate the three-dimensional machine space represented two-dimensionally on the simulator screen.](teacher-gestures-recreate-3d-space-on-2d-screen.md) — related
+- [VET teachers use the real machine as the benchmark of legitimacy for simulator instruction and shift between teacher and future-colleague positions.](real-machine-benchmark-and-colleague-positioning.md) — related
+- [Simulator-based VET instruction in this study centres on volume training of routine tasks rather than rehearsing specific high-stakes, risky situations.](vet-simulator-instruction-volume-training-not-high-stakes.md) — related

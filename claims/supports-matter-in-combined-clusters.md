@@ -51,3 +51,4 @@ The paper's overview describes the 2010 UChicago Consortium book's central findi
 - [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](organizational-gains-without-instructional-gains.md) — related
 - [Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change](annenberg-capacity-gains-eroded-by-2001.md) — related
 - Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains — a narrower finding that bears on this claim
+- [None of the three key organizational characteristics is individually sufficient for strong freshman course performance in CHSRI small schools](individual-conditions-insufficient-course-performance.md) — a narrower finding that bears on this claim

@@ -67,3 +67,6 @@ Same regression model for retention: the learning material × WMC interaction te
 - [Working memory capacity predicts comprehension performance only in the disfluency condition, with higher WMC yielding better comprehension](wmc-predicts-comprehension-only-disfluency-condition.md) — related
 - [Working memory capacity moderated disfluency effects in one study but not another](wmc-moderates-disfluency-mixed.md) — related
 - [In a pre-registered direct replication (N = 96), the disfluency × WMC interaction did not significantly predict retention, failing to replicate Lehmann et al. (2016)](replication-null-wmc-disfluency-interaction-retention.md) — reports the opposite
+- [In e-learning text comprehension, higher working memory and lower self-reported navigation behavior predict better comprehension](wm-positive-navigation-negative-elearning-comprehension.md) — related
+- [Higher working memory capacity was associated with better final test performance on advanced materials](working-memory-predicts-advanced-material-test-performance.md) — related
+- [Disfluency benefits retention and comprehension only for learners with high working memory capacity](disfluency-benefits-high-working-memory-only.md) — a broader claim this one bears on

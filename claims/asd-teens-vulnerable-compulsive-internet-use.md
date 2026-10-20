@@ -48,3 +48,4 @@ A practitioner brief asserts, without cited data, that teens with ASD are "vulne
 ## Related Claims
 - [Adolescents with ASD are described as frequent targets of cyberbullying because they may miss social cues and lack self-advocacy skills](asd-teens-cyberbullying-targets-missed-cues.md) — related
 - [Youth focus groups surfaced four key digital well-being challenge themes: addiction and compulsive use, impact on thinking, effects on social skills, and effects on mental health](youth-focus-groups-four-digital-wellbeing-challenge-themes.md) — related
+- [Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence](screen-time-less-efficient-cognitive-control-adolescence.md) — related

@@ -52,3 +52,6 @@ The review reports, citing Deci et al. (1999), that "using extrinsic rewards dep
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — possibly the same claim (merge candidate)
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Most praise functions as a verbal reward, creating dependence on others' approval rather than self-generated criteria](praise-functions-as-verbal-reward.md) — related
+- [People offered a reward generally choose the easiest possible task, whereas children without rewards pick tasks just beyond their current ability](rewards-easiest-task-choice.md) — related
+- [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
+- [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — a narrower finding that bears on this claim

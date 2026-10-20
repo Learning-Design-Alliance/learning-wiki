@@ -66,3 +66,5 @@ Frustration violated normality, so medians and a Wilcoxon signed-rank test were 
 - [Using the AIED-U system yielded a positive indirect effect on learning gains through a reduction in the effort teachers reported](aied-u-positive-indirect-effect-via-effort-reduction.md) — related
 - [30 of 32 participants preferred the AI+Robot condition, describing the robot as making success and failure visible, though a minority found AI-Only useful for focusing on block construction](preference-ai-plus-robot-condition.md) — related
 - [Students' actual task selections deviate about half a difficulty level and half a support level from SRLTS model-based selections](selections-deviate-half-level-from-srlts.md) — related
+- [Teacher perceived workload did not differ significantly across conditions on any NASA-TLX subscale, though the experimental condition was descriptively lower on most subscales](aied-u-no-significant-workload-difference.md) — reports the opposite
+- [Teacher perceived workload was negatively associated with student learning gains, especially for Mental Demand and Effort](teacher-workload-negatively-associated-learning-gains.md) — related

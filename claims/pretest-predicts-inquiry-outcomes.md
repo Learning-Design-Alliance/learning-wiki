@@ -50,3 +50,4 @@ MANCOVA in the experimental design topic (n = 113) found pre-test a significant 
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related
 - [The relationship between learners' prior knowledge and the optimal instructional sequence may not be straightforward](prior-knowledge-sequence-relationship-not-straightforward.md) — related
 - [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related
+- [For biochemistry students with relatively higher topic-specific prior knowledge, instruction-first (I-PS) outperformed problem-solving-first (PS-I) on a near-transfer test](i-ps-beats-ps-i-near-transfer-higher-prior-knowledge.md) — related

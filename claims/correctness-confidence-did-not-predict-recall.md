@@ -43,4 +43,7 @@ Same binomial GLMM on 4010 incorrect-guess trials from 100 adults; the article r
 
 
 ## Related Claims
--
+- [Academic self-efficacy was not significantly associated with final test performance](self-efficacy-no-direct-path-final-test.md) — related
+- [The Not Sure state of Knowledge Confidence predicts better recall of object names, consistent with the region of proximal learning framework](not-sure-knowledge-confidence-predicts-recall.md) — related
+- [Curiosity did not significantly predict recall accuracy in the blurred-picture learning task](curiosity-did-not-predict-recall-accuracy.md) — related
+- [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — related

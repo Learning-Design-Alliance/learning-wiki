@@ -45,3 +45,5 @@ Finding from interviews with state administrators in the eight-state study. Some
 ## Related Claims
 - [Apprenticeship expansion into nontraditional industries such as healthcare and education accelerated during the pandemic](nontraditional-industry-expansion-accelerated.md) — related
 - [State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic](technology-pivot-expanded-apprenticeship-agency-reach.md) — related
+- [Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability](partnership-and-capacity-challenges-residencies.md) — related
+- [Registered apprenticeship programs had large, statistically significant positive impacts on employment in the ninth quarter following enrollment relative to both community college students and Wagner-Peyser participants](registered-apprenticeship-ninth-quarter-employment-impacts.md) — related

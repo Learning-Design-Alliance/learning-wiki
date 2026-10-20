@@ -45,3 +45,6 @@ Verification-condition analysis (RQ3, Figure 12): Judge agents anchored feedback
 ## Related Claims
 - [Accurate LLM solution diagnosis does not reliably produce pedagogically actionable feedback, with lowest rubric scores on error identification and actionability](accurate-diagnosis-not-actionable-feedback.md) — related
 - [Qualitative analysis found staged disclosure sometimes withheld inaccurate diagnostic details, but some errors still shaped student revisions](staged-disclosure-diagnostic-error-patterns.md) — related
+- [Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers](agent-identifies-confusing-content-actionable-feedback.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
+- [Students did not consistently detect scientific errors in ChatGPT responses, and students with stronger prior knowledge evaluated AI responses more critically](prior-knowledge-supports-critical-ai-evaluation.md) — related

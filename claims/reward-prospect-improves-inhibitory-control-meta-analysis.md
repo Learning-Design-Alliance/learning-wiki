@@ -43,4 +43,6 @@ Pre-registered random-effects meta-analysis of 80 effect sizes from 73 articles 
 
 
 ## Related Claims
--
+- [The effect of reward on inhibitory control is not moderated by participant age (children vs adults)](age-does-not-moderate-reward-effect-on-inhibitory-control.md) — related
+- [The reward effect on inhibitory control is significant across all six IC task types, but task type significantly moderates the effect, with the largest effect in Stroop tasks](task-type-moderates-reward-effect-on-inhibitory-control.md) — related
+- [The effect of reward on inhibitory control is not moderated by reward type (monetary vs points vs other)](reward-type-does-not-moderate-inhibitory-control-effect.md) — related

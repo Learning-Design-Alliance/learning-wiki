@@ -45,3 +45,7 @@ Theoretical argument of a conceptual paper, elaborated through an empirical case
 ## Related Claims
 
 - [Parallels between explorative practice and canonical mathematics practice are recognized among mathematicians](explorative-practice-parallels-mathematics-practice.md)
+- [Empirical case of martial arts instruction grounds the argument that practice can support discovery](martial-arts-instruction-case-practice-discovery.md) — related
+- [Strong guidance and repetition may be needed to discover what cannot be told (Trninic's martial arts case)](repetition-guided-discovery-martial-arts-case.md) — possibly the same claim (merge candidate)
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related

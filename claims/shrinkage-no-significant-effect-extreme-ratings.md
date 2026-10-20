@@ -51,3 +51,4 @@ The paper reports a null finding: shrinkage has "no statistically significant ef
 - [Empirical Bayes shrinkage could be used to address bias in proxy pre-test value-added estimates](empirical-bayes-shrinkage-for-proxy-pretest-bias.md) — related
 - [Findings on the distribution of highest-performing teachers are robust to omitting empirical Bayes shrinkage of the value-added estimates](findings-robust-to-omitting-eb-shrinkage.md) — related
 - The paper compares the reliability of value-added measures of teacher performance with standards for evaluations in other fields — related
+- [Teachers of students with low prior achievement and who receive free lunch tend to have less precise value-added estimates](low-prior-achievement-free-lunch-teachers-less-precise-va.md) — related

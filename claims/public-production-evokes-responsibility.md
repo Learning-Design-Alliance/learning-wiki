@@ -43,4 +43,4 @@ Interview reflections across both studies on the Science Online wiki projects; s
 
 
 ## Related Claims
--
+- [Humanlike AI co-writing (real-time suggestions and an agentic cursor) evoked feelings of surveillance, judgment and eeriness, and the moving cursor distracted writers](agentic-cursor-evokes-surveillance-and-eeriness.md) — related

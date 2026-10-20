@@ -72,3 +72,7 @@ Study 1 (N=498) recorded hidden-timer completion times and NASA-TLX effort per t
 - [Chat-log analysis indicates lower-education participants obtain substantial assistance from AI while higher-education participants use the tool somewhat more effectively across several margins, explaining why the gap narrows but does not disappear](chat-logs-explain-gap-narrows-but-persists.md) — related
 - [The most significant reported benefit of AI in instructional design is assistance with administrative and repetitive tasks (18 of 28 studies, 64.2%)](ai-benefit-administrative-repetitive-tasks.md) — related
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — reports the opposite
+- [Adding friction to objectively meaningless tasks increases their appraised sense of purpose and meaning](added-friction-increases-appraised-purpose.md) — related
+- [People expect AI assistance to save far more time than assistance from another highly intelligent human participant](ai-expected-faster-than-human-help.md) — related
+- [Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted](prompting-effort-and-verbose-response-costs.md) — related
+- [Educators did not perceive the iterative CTML review process as slowing them down, rating production efficiency at 4.26/5](educators-rate-review-friction-productive.md) — related

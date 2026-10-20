@@ -46,3 +46,4 @@ The logic model's Supporting Data Collection phase (2023–2024) states this lon
 - [The BPSS logic model sets reduced discipline disparities as a long-term student outcome for THRIVE and AIIM districts](bpss-long-term-discipline-disparity-outcome.md) — related
 - [The logic model's medium-term outcomes center on ADE staff data-use and formative-evaluation capacity](bpss-medium-term-ade-capacity-outcomes.md) — related
 - [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](disability-largest-postsecondary-outcome-gap.md) — related
+- [Among four-year college enrollees, former and late-arriving English Learners persisted at or above district-average rates while long-term English Learners with IEPs persisted at substantially lower rates](el-college-persistence-varies-by-subgroup.md) — related

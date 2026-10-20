@@ -57,3 +57,5 @@ Model 1 of the crossed-random effects analysis tested five child predictors; Tab
 - [Initial letter-sound knowledge and phonological awareness were not uniquely related to growth in each other](letter-sound-knowledge-no-unique-bidirectional-relation.md) — related
 - [Semantic abilities indirectly predict pseudoword decoding efficiency in children with dyslexia via phonological awareness and rapid naming](semantics-indirect-pseudoword-decoding-dyslexia.md) — related
 - [Word length, vocabulary grade, and imageability significantly predicted the number of exposures required for sight word mastery](word-features-predict-exposures-to-mastery.md) — related
+- [Age predicts decoding efficiency in children with dyslexia while working memory and perceptual organization covariate effects are non-significant](age-covariate-effects-decoding-dyslexia.md) — related
+- [Initial word reading skill interacted with imageability: the poorest readers needed nearly 4 more exposures for low-imageability words than stronger readers](swe-imageability-interaction-exposures.md) — related

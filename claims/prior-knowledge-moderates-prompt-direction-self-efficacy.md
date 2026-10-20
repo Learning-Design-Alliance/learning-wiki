@@ -43,4 +43,7 @@ Moderation analysis (RQ2) found a timepoint × prompt condition × DRC score int
 
 
 ## Related Claims
--
+- [Anticipatory self-explanation prompts benefited higher-prior-knowledge apprentices on diagnostic strategy description scores, whereas retrospective prompts benefited lower-prior-knowledge apprentices](prior-knowledge-moderates-prompt-direction-strategy-description.md) — related
+- [Lower-prior-knowledge apprentices experienced higher germane cognitive load when learning with retrospective prompts than with anticipatory prompts](retrospective-prompts-higher-germane-load-low-prior-knowledge.md) — related
+- [Anticipatory self-explanation prompts induced lower extraneous cognitive load than retrospective prompts](anticipatory-prompts-lower-extraneous-load.md) — related
+- [Long video-based modelling examples did not improve diagnostic strategy knowledge, skills, self-efficacy, or cognitive load relative to independently practising in a computer simulation](modelling-examples-no-effect-complex-diagnostic-strategy.md) — related

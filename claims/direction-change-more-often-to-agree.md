@@ -47,3 +47,4 @@ Within-subject experiment comparing change-to-agree versus change-to-disagree oc
 - [Perceived partner competence does not predict how often learners change the direction of their assumptions](perceived-competence-no-impact-on-adjustment.md) — related
 - [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](partner-confidence-no-effect-on-change.md) — related
 - [Learners with lower own confidence are more inclined to change their assumption in the face of disagreement](low-own-confidence-drives-assumption-change.md) — related
+- [The more confident a learning partner's answers, the more competent the partner is perceived](partner-confidence-raises-perceived-competence.md) — related

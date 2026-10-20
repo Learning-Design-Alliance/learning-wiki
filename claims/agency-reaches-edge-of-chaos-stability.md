@@ -50,3 +50,4 @@ Authors' interpretation of the final five weeks of the semester, in which self-r
 - [The better the five foundations are integrated, the greater the probability of success in the designed setting](foundation-integration-predicts-environment-success.md) — related
 - Dynamic self-regulation of brain subsystems enables simultaneous multisource learning beyond conscious attention — related
 - Dynamic systems theory and sociocultural theory are incommensurable because language is a complex adaptable, not adaptive, system — related
+- [Switching to an updated synchronous platform catalysed the teacher's ongoing teaching innovation](platform-switch-catalyses-teaching-innovation.md) — related

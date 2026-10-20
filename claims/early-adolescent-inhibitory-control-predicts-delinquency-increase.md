@@ -70,3 +70,5 @@ Parallel prediction models using the parent-reported EATQ-R intercept (no growth
 - [Task-based inhibitory control (Stop Signal Task) improves curvilinearly from ages 11 to 15, with growth slowing around middle adolescence](sst-inhibitory-control-curvilinear-growth-adolescence.md) — related
 - [Parent-reported inhibitory control (EATQ-R) shows no detectable growth from early to middle adolescence](parent-reported-inhibitory-control-no-growth.md) — related
 - [The paper reports that delayed entry into adulthood has increased role ambiguity and individualized identity development in emerging adulthood](emerging-adulthood-delay-increases-role-ambiguity.md) — related
+- [Total childhood ADHD symptoms predict longer adolescent SSRT, but neither symptom domain shows specificity and early precursors do not predict SSRT](ssrt-predicted-by-total-childhood-adhd-symptoms-only.md) — related
+- [Lower temperamental effortful control at 36 months directly predicts reduced N2 amplitude in adolescence, above and beyond ADHD symptoms](early-effortful-control-predicts-adolescent-n2.md) — related

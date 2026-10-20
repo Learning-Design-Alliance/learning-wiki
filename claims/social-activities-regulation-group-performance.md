@@ -44,3 +44,6 @@ The editorial reports, attributing to Janssen et al., that "regulation of social
 
 ## Related Claims
 - [Team regulation affected group learning results in one condition (Saab et al.)](team-regulation-affected-group-results-one-condition.md) — related
+- [Regulation of social activities positively predicts group performance in CSCL inquiry tasks](social-regulation-positively-predicts-group-performance.md) — possibly the same claim (merge candidate)
+- [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md) — a broader claim this one bears on
+- [In CSCL history inquiry, regulation of social activities predicts group performance while social activities are negatively related to group performance](regulation-of-social-activities-predicts-group-performance.md) — related

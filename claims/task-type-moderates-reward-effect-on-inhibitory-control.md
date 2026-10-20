@@ -47,3 +47,6 @@ A-priori moderator analysis on task type using outlier-removed data. All six tas
 - [The effect of reward on inhibitory control is not moderated by participant age (children vs adults)](age-does-not-moderate-reward-effect-on-inhibitory-control.md)
 - [The effect of reward on inhibitory control is not moderated by reward type (monetary vs points vs other)](reward-type-does-not-moderate-inhibitory-control-effect.md)
 - [A meta-analysis found no evidence that clinical status, including ADHD and substance use disorder samples, moderates the effect of reward on inhibitory control](clinical-status-does-not-moderate-reward-effect-on-inhibitory-control.md)
+- [The prospect of reward for successful inhibition significantly improves inhibitory control (SMD = 0.429) compared with no-reward conditions](reward-prospect-improves-inhibitory-control-meta-analysis.md) — related
+- [A 10-minute bout of moderate-intensity exercise improves Stroop inhibitory control with increased left dorsolateral prefrontal activation in young adults](moderate-exercise-stroop-dlpfc-activation.md) — related
+- [Exercise intensity differentially moderates acute exercise cognitive benefits, with moderate intensity favoring executive functions and high intensity favoring information processing](exercise-intensity-moderates-cognitive-benefits.md) — related

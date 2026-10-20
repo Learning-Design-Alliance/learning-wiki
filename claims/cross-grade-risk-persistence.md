@@ -52,3 +52,4 @@ Cross-year analysis linking students' screening status across grade levels in 20
 - [Most students below benchmark at the beginning of the year remained below at the end, with persistence highest for historically marginalized student groups (67–80 percent)](early-literacy-persistence-below-benchmark.md) — related
 - [Few students identified as significantly below benchmark in grades 1–3 met MCAS expectations 1 or 2 years later, with higher rates for earlier identification](significant-risk-low-mcas-meeting-rates.md) — related
 - [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — related
+- [Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points](kindergarten-largest-risk-decline.md) — related

@@ -44,3 +44,6 @@ Univariate ANOVA within the MANCOVA of the quasi-experimental study: both condit
 
 ## Related Claims
 - [Support conditions did not differ from control in learning scores within the environment](no-condition-differences-learning-scores-swlep.md) — related
+- [A 4C/ID-based online learning environment improves upper secondary students' research skills test scores from pretest to posttest](4cid-environment-improves-lrst-scores.md) — related
+- [Autonomous motivation decreased and controlled motivation increased overall, with no differences between the need-supportive and baseline conditions](autonomous-controlled-motivation-unaffected.md) — related
+- [Emerging research suggests a need to integrate teachers' knowledge and skill development with instructional materials, but further evidence on the effectiveness of this approach is necessary](emerging-research-integrate-teacher-development-with-materials.md) — related

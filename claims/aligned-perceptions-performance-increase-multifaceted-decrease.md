@@ -47,3 +47,7 @@ Performance analysis of mentor- and client-assessed deliverable scores (0.00–1
 - [Teams with similar cohesive perceptions report higher task cohesion scores than teams with different perceptions](similar-cohesive-perceptions-higher-task-cohesion-scores.md) — related
 - [Perceived task cohesion strength relates to team performance in collaborative learning teams](task-cohesion-relates-team-performance.md) — related
 - [Temporal network motif frequencies differ significantly between perception groups, with dyadic motifs characterising divergent-perception teams and triadic motifs aligned teams](temporal-motifs-differ-by-perception-group.md) — related
+- [Teams whose perception of who uses more AI reversed between t1 and t3 achieved lower scores than teams with stable perceptions](perception-reversal-associated-with-lower-scores.md) — related
+- [Greater early-project misalignment in partners' perceptions of each other's AI use is associated with lower final project scores](early-ai-use-perception-misalignment-lower-team-scores.md) — related
+- [Perception alignment improves mainly in the early weeks and does not consistently decrease through the project](ai-use-perception-alignment-improves-early-then-plateaus.md) — related
+- [Temporal network motifs show promise as a proxy indicator of task cohesion in WIL environments when combined with survey data](temporal-motifs-proxy-task-cohesion-mixed-methods.md) — related

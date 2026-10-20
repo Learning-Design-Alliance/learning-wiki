@@ -48,3 +48,6 @@ Comparison of six LLMs prompted under zero-shot, zero-shot with category names a
 - Zero-shot prompt type has minimal impact on LLM-human coding concordance — related
 - [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets](in-context-examples-improve-bloom-classification.md) — related
 - GPT-4 classifies self-affirmation essays reasonably in zero-shot mode but below fine-tuned BERT, and few-shot prompting does not appreciably improve it — related
+- [Chain-of-thought prompting yields higher-quality GenAI feedback on argumentative essays than Zero-shot prompting and teacher feedback](cot-prompting-higher-feedback-quality-than-zero-shot-and-teacher.md) — related
+- [Few-shot prompting modestly improves LLM-human score agreement, inconsistently across datasets and models](few-shot-prompting-inconsistent-grading-gains.md) — related
+- [Teachers adapt feedback focus across draft stages in five types while the best model shows significant changes in only three](teacher-draft-stage-adaptivity-exceeds-llms.md) — related

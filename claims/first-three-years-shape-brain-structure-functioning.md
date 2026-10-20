@@ -46,3 +46,5 @@ The article asserts, citing the latest scientific research without reporting spe
 - [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — a narrower finding that bears on this claim
 - Nature and nurture interact dynamically: children's experiences shape their biology as much as biology shapes development — a broader claim this one bears on
 - [Urban living is associated with higher activity in stress-related brain regions and reduced grey matter in dorsolateral prefrontal and pregenual anterior cingulate cortex after urban exposure during upbringing](urban-living-linked-to-stress-brain-activity-and-grey-matter-deficits.md) — related
+- [Conscious awareness of action onset lags brain activity initiation by hundreds of milliseconds](awareness-lags-action-initiation.md) — related
+- [The report claims six core SoLD findings should reshape teacher preparation, including that the brain is malleable, variability is the norm, and relationships catalyze learning](sold-core-findings-reshape-teacher-preparation.md) — related

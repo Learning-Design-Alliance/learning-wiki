@@ -44,3 +44,5 @@ Descriptive log analysis of the 55-student Clover study identified three new beh
 
 ## Related Claims
 - [Higher tab accept rates are strongly associated with failing attention checks among CS1 students using an AI code completion tool](tab-accept-rate-strongly-associated-failed-attention-checks.md) — related
+- [Longer dwell time on AI suggestions is associated with better attention check performance but slightly lower task performance](dwell-time-attention-checks-versus-task-performance.md) — related
+- [AI-section students framed the AI as a collaborative partner even when logs showed one-shot imperatives and rapid acceptance (Illusion of Dialogue)](illusion-of-dialogue-partnership-framing.md) — related

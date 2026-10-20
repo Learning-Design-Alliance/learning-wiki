@@ -48,3 +48,4 @@ Secondary analysis relating 2021/22 climate scores to the amount of virtual and 
 ## Related Claims
 - [Students and teachers reported more positive school climate perceptions in 2020/21 during hybrid and remote learning than in 2018/19 and 2021/22](pandemic-year-climate-positive-bump-pennsylvania.md) — related
 - [No evidence of a significant decline in school climate scores between 2018/19 and 2021/22 in the Pennsylvania sample](no-lasting-pandemic-climate-decline.md) — related
+- [Students reported stronger relationships with teachers and peers during the remote/hybrid year, especially high school students, but these gains did not persist after returning in person](stronger-teacher-peer-relationships-remote-year.md) — related

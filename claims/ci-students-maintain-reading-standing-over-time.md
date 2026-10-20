@@ -45,3 +45,8 @@ Longitudinal comparison of PIAT-R standard scores at the CI-E (ages 8-9) and CI-
 ## Related Claims
 - [Two-thirds to three-quarters of adolescent CI users score within the normal range on vocabulary and language content measures](ci-adolescents-language-measures-normal-range.md) — related
 - [Adolescents with cochlear implants implanted by preschool age score just below the average range on standardized reading tests, with 47-66% within or above hearing norms](ci-adolescents-reading-within-or-near-average-range.md) — related
+- [Adolescents with cochlear implants spell significantly less accurately than hearing peers, though 55% spell within one standard deviation of them and 45% two or more below](ci-adolescents-spelling-poorer-than-hearing-peers.md) — related
+- [Shorter duration of deafness, higher performance IQ, and lack of sign enhancement predict higher literacy in adolescents with cochlear implants](duration-of-deafness-piq-sign-enhancement-predict-literacy.md) — related
+- [Adolescents with cochlear implants receive lower expository writing ratings than hearing peers across organization, content, language use, and vocabulary](ci-adolescents-expository-writing-ratings-lower.md) — related
+- [Baseline-to-final performance change was centered near zero with a mean of −1.83](baseline-final-change-near-zero.md) — related
+- [DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades](dhh-students-continue-building-skills-no-elementary-plateau.md) — related

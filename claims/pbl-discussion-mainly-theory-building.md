@@ -45,3 +45,6 @@ Verbatim transcripts of the verbal interaction in the tutorial group were analys
 ## Related Claims
 
 - [Conceptual change by students during PBL problem analysis can be made visible in stimulated recall protocols](stimulated-recall-makes-conceptual-change-visible.md)
+- [Ways of dealing with anomalous data, and the conditions determining them, can be described during PBL problem analysis](anomalous-data-handling-conditions-pbl.md) — related
+- [Script-supported groups mainly engaged in accepted intra-group metacognitive interaction, with co-constructed interaction infrequent and highly variable between groups](accepted-interaction-dominant-co-construction-rare.md) — related
+- [Stimulated recall provides unique information about hypothesis evaluation and meta-reasoning beyond group verbal interaction](stimulated-recall-unique-hypothesis-meta-reasoning.md) — related

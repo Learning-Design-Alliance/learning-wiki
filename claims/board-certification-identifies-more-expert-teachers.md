@@ -48,3 +48,4 @@ The digest reports the construct and consequential validity study by Bond et al.
 ## Related Claims
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](experience-credentials-teacher-evaluation-scores.md) — reports the opposite
+- [School administrators gave a generally positive assessment of American Board-certified teachers based on supervisor surveys](principals-positive-assessment-abcte-certified-teachers.md) — related

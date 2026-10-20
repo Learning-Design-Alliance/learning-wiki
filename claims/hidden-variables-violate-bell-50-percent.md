@@ -48,3 +48,4 @@ Numerical result shown in Supplemental Material Fig. 4: hidden variables that se
 - Cheating hidden variables can violate Bell about 85% of the time only by sacrificing anti-correlation — related
 - [A simulation of quantum behavior violates the Bell inequality with about 99% probability using only 800 photon pairs](qrc-simulation-violates-bell-99-percent-800-pairs.md) — related
 - [A classical-indeterminism modification of the QRC program fails to reproduce anti-correlation at equal angles](classical-indeterminism-model-fails-anticorrelation.md)
+- [An initial QRC deployment terminated artificially created pseudoscience debates on several popular web portals](qrc-deployment-terminated-online-debates.md) — related

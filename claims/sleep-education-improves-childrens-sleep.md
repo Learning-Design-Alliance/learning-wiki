@@ -48,3 +48,5 @@ The article reports that a school-based sleep education program improved childre
 ## Related Claims
 - [Sleep education at school improves academic performance in children](sleep-education-improves-academic-performance.md) — related
 - [Sleep education at school improves cognitive functioning in children](sleep-education-improves-cognitive-functioning.md) — related
+- [Short sleep duration (<9 hours) at follow-up is associated with impaired academic achievement, while baseline sleep duration did not significantly predict later school performance](short-sleep-duration-academic-achievement-longitudinal.md) — related
+- [Delaying school start time by 30 or 60 minutes increased children's sleep duration and reduced daytime sleepiness over two years](delayed-school-start-time-increases-sleep-duration.md) — related

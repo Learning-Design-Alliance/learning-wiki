@@ -44,3 +44,6 @@ The same survey repeated with six open-source LLMs on PEFK discussion chunks. In
 
 ## Related Claims
 - Human-LLM sentiment divergences were patterned: the LLM tended to assign affective labels to statements a human coder read as neutral — possibly the same claim (merge candidate)
+- [LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness](claim-llms-replicate-discursive-moves-lack-questioning.md) — related
+- [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
+- [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related

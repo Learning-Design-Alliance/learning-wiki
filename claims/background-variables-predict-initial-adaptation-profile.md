@@ -43,3 +43,4 @@ R3STEP multinomial logistic regression predicting Time 1 profile membership from
 ## Related Claims
 - [Three latent profiles of psychological adaptation to AI-assisted Japanese learning (maladaptive, moderate, positive) are identified at each of three waves](three-adaptation-profiles-ai-japanese-learning.md) — related
 - [At Time 3, profile membership was significantly associated with Japanese learning self-efficacy and learning burnout, with all three profiles differing pairwise](profiles-predict-self-efficacy-and-burnout.md) — related
+- [Greater prior AI learning experience and female gender predicted upward motivational profile transitions](prior-ai-experience-gender-predict-profile-transitions.md) — related

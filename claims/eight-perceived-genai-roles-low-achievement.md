@@ -45,3 +45,5 @@ Thematic analysis of 12 post-intervention interviews identifying and counting al
 ## Related Claims
 - [Student perceptions of AI use in academic work are neutral and range from viewing AI as valid learning assistance to viewing it as cheating, depending on task type, transparency, and assessment design](student-ai-perceptions-neutral-task-dependent.md) — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
+- [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
+- [Middle school students in GenAI-supported STEAM modules predominantly interact for STEAM knowledge/information retrieval, with minimal evaluation and reflection interactions](genai-steam-interactions-dominated-by-information-retrieval.md) — related

@@ -48,3 +48,4 @@ In Experiment 3, pairwise comparisons showed gains from pre- to posttest were no
 
 ## Related Claims
 - [Symbols-only training improved kindergarteners' performance on difficult place value items, but base-10 blocks training did not](symbols-only-training-improves-difficult-items.md) — related
+- [Children from kindergarten through second grade perform significantly above chance on simple multidigit numeral identification and comparison tasks](children-above-chance-multidigit-numeral-tasks.md) — related

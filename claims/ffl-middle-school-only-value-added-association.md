@@ -46,3 +46,7 @@ School-level subgroup analysis of FFL–value-added associations; the paper repo
 - [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](ffl-scores-correlated-principal-value-added.md) — related
 - [FFL scores correlate more strongly with contributions to math achievement than to achievement in other subjects](ffl-math-value-added-stronger-correlation.md) — related
 - [FFL scores were not associated with school leaders' estimated contributions to student achievement growth](ffl-scores-not-associated-achievement-growth.md) — reports the opposite
+- [Teachers with higher Framework for Teaching scores tended to make larger contributions to student achievement (value added)](framework-scores-relate-to-value-added.md) — related
+- [FFL has concurrent validity primarily among principals with three to six years of tenure as their school's leader](ffl-validity-moderate-tenure-principals.md) — related
+- [There is little prior evidence on the validity of principal evaluation measures, and this is the first study linking practice ratings to credible value-added measures](first-study-principal-practice-ratings-value-added-validity.md) — related
+- [The strongest FFL validity relationships are in the systems leadership and professional and community leadership domains](ffl-systems-and-community-leadership-domains-strongest.md) — related

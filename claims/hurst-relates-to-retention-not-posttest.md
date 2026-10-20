@@ -48,3 +48,4 @@ Pearson correlations between Hurst exponents and self-explanation scores at trai
 - [Students who interact more deterministically within iSTART-ME generate higher quality self-explanations during training](deterministic-interaction-patterns-higher-training-self-explanation-quality.md) — related
 - [Hurst exponents are unrelated to the frequency of interacting with any specific game-based feature](hurst-unrelated-to-feature-frequency.md) — related
 - [Surrogate analysis validates that observed Hurst exponents reflect genuine persistence rather than short-series artifacts](surrogate-analysis-validates-hurst-exponents.md) — related
+- [Gaming the system in the self-explanation step predicts delayed posttest scores beyond pretest, adding 3 percent of variance](se-gaming-predicts-delayed-posttest.md) — related

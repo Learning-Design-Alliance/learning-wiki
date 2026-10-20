@@ -46,3 +46,4 @@ SEM path analysis of fifth-grade data (n = 213) showed beliefs about development
 
 - [Domain knowledge predicts science achievement directly and indirectly via self-concept at all three grade levels](knowledge-predicts-achievement-via-self-concept.md)
 - [The integrated model explains substantially less variance in science achievement at eleventh grade (17%) compared to fifth (41%) and eighth (38%) grades](model-variance-decreases-across-grades.md) — related
+- [Epistemic beliefs about the justification of scientific knowledge predict mastery and performance-approach goals positively and performance-avoidance goals negatively in fifth grade](justification-beliefs-predict-achievement-goals.md) — related

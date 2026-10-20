@@ -45,3 +45,4 @@ Figure 3 overlays the student's mass times the video-derived vertical accelerati
 ## Related Claims
 - [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](video-jump-analysis-estimates-g-near-local-value.md) — related
 - [Two-force-plate recording revealed individual left-right impulse asymmetries in student jumps while total takeoff and landing impulses remained comparable](two-force-plate-impulse-asymmetry-student-project.md) — related
+- [The authors report that the kinesthetic experience enhances student understanding and that a student project provides evidence of the approach's effectiveness](kinesthetic-experience-enhances-understanding-physics-of-dance.md) — related

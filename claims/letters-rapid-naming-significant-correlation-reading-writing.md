@@ -47,3 +47,5 @@ In the correlational analysis of the 50-student third-grade sample, the article 
 - [Kindergarten DIBELS subtests predict first-grade instructional reading, with Letter Naming Fluency the strongest predictor](dibels-predict-first-grade-reading.md) — related
 - [Phonological awareness and phonological memory are the skills that contributed most to initial reading and writing performance in third-grade students](phonological-awareness-memory-most-contribute-reading-writing.md) — related
 - [Visual processing showed no correlation with reading or writing in third-grade students](visual-processing-no-correlation-reading-writing.md) — related
+- [Semantic ability correlates with phonological awareness, rapid naming, and both decoding measures in children with dyslexia](semantics-correlates-pa-ran-decoding.md) — related
+- [Kindergarten DIBELS subtests significantly predict first-grade TerraNova vocabulary, language, and reading outcomes](dibels-predict-terranova-first-grade.md) — related

@@ -76,3 +76,8 @@ The page's abstract reports a study of test-taking engagement on a large-scale s
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
 - [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — related
 - [Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks](summative-assessment-dual-function-measure-and-support-learning.md) — related
+- [Even a small amount of rapid-guessing behavior can impact institutional rankings](small-rapid-guessing-impacts-institutional-rankings.md) — related
+- [Previous research found a meaningful correlation between countries' mean engagement and mean performance on large-scale international assessments, motivating validity questions about aggregated scores](engagement-performance-correlation-countries.md) — related
+- [Rapid-guessing behavior occurs on only about 1% of item responses in a commercially available low-stakes assessment](rapid-guessing-one-percent-commercial-low-stakes-assessment.md) — related
+- [Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement](computer-based-testing-drives-response-time-interest.md) — related
+- [Disengagement produced both positive and negative distortion of individual student scores, which tended to cancel out much of the net distortive effect on school means](positive-negative-distortion-cancellation.md) — related

@@ -44,3 +44,4 @@ Offline validation predicting the next AOI on children's own exploration paths, 
 
 ## Related Claims
 - [In offline validation, the HMM timing model detected children's attention moments more accurately than fixed-interval and dwell-time triggers](hmm-timing-outperforms-fixed-and-dwell-triggers.md) — related
+- [Attention allocated to the secondary AOI remained limited and did not differ significantly between conditions in duration or time to first fixation](secondary-aoi-attention-limited-no-difference.md) — related

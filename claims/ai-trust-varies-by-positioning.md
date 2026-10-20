@@ -49,3 +49,4 @@ Interview finding on grading practices. Partner teachers showed skepticism, e.g.
 - [Among 24 Topeka teachers, half positioned the AI as a teaching partner, 29% as a grading assistant, and 21% as a substitute teacher](teacher-positioning-distribution-topeka.md) — related
 - [Teachers who positioned AI as a partner remained instructional leaders, weaving the tool into rich instruction and using score data to decide what to re-teach](partner-positioning-instructional-leadership.md) — related
 - People may absorb bias from AI and carry it beyond their interactions with the algorithm — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related

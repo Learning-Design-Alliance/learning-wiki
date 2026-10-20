@@ -48,3 +48,6 @@ Landscape scan of interviews with 16 districts, seven of which had assessments i
 - Student portfolios are reported to be a useful method for noticing student growth on Portrait of a Graduate competencies — related
 - [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](innovative-assessments-capture-pog-competencies.md) — related
 - [Integrating POG assessments into traditional standardized-test-centered accountability systems is complex, and lack of a standardized framework can produce inconsistent measurement across regions](pog-assessment-integration-challenges.md) — related
+- [Districts report more success with future-ready skill assessment focused on student growth than on proficiency](growth-over-proficiency-pog-assessment.md) — related
+- [An analysis of 69 district Portraits of a Graduate finds six Skill Sets that capture 90 percent of the attributes districts articulate](six-skill-sets-capture-90-percent-portrait-attributes.md) — related
+- [POG frameworks most frequently emphasize communication, critical thinking, collaboration, and perseverance/adaptability among their competencies](pog-competencies-communication-critical-thinking-most-frequent.md) — related

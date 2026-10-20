@@ -61,3 +61,4 @@ This is exploratory, proof-of-concept research (the authors' own characterizatio
 - A playful embodied pedagogy tends to make transformative learning affirming and may promote less catastrophic responses to disorientation — related
 - [A teacher's awareness of why a learning object must be treated in accordance with variation theory and embodiment promotes a more constructive and effective way to direct children's learning](variation-embodiment-awareness-promotes-constructive-teaching-montessori.md) — related
 - [Learning styles impact teachers, pedagogy, student engagement, and assessment in K-12 education](learning-styles-impact-teachers-pedagogy-engagement-assessment.md) — related
+- [A language-based AI facilitator has access only to verbal traces of embodied inquiry and steers inquiry toward what can be put into words](language-facilitator-verbal-channel-limit.md) — related

@@ -70,3 +70,4 @@ CAASPP mathematics results for the same period and grades. All student groups sh
 - [Among LCAP planned actions referencing students in foster care in the 10 largest districts, very few were unique to foster care and an even smaller fraction of funds was](lcap-actions-rarely-unique-to-foster-care.md) — related
 - [Students in foster care meet or exceed state standards at much lower rates than other students in English language arts and mathematics](foster-care-low-caaspp-achievement.md) — related
 - [Students experiencing homelessness meet or exceed state achievement standards at far lower rates (29% ELA, 19% mathematics) than students statewide (48%, 37%)](homeless-students-lower-caaspp-achievement.md) — related
+- [Each within-year school move is associated with lower CAASPP achievement among students in foster care](school-mobility-associated-lower-achievement.md) — related

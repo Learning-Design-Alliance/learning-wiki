@@ -46,3 +46,4 @@ Cluster randomized controlled trial of the Pre-K Mathematics intervention scaled
 - [Effect sizes of Pre-K Mathematics decreased over time as the intervention moved through successive scale-up phases](pre-k-math-effect-sizes-decreased-over-scale-up.md) — related
 - [Pre-K Mathematics with DLM Early Childhood Express Math produces statistically significant positive effects on preschool children's math outcomes](prek-mathematics-positive-math-effects.md) — related
 - [Building Blocks for Math outperformed Pre-K Mathematics with DLM Express in a head-to-head comparison on the Early Mathematics Assessment](building-blocks-outperformed-pre-k-mathematics-head-to-head.md) — related
+- [Mathematica conducted an implementation study of the early math scale-up effort during 2018 and 2019](mathematica-implementation-study-early-math-scale-up-2018-2019.md) — related

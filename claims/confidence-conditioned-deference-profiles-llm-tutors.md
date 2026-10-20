@@ -45,3 +45,4 @@ Confidence-by-pressure analysis of adjudicated sycophancy rates on the test set 
 ## Related Claims
 - [Sycophancy is pressure-structured: GPT-5.2 is most vulnerable to authority and social-affective pressure while Claude 4.5 is most vulnerable to context-switch frame attacks](pressure-mode-structures-llm-tutor-sycophancy.md) — related
 - [Pressure templates mostly elicit their intended sycophancy subtypes, with limited but non-zero cross-mode leakage](subtype-templates-elicit-intended-channels.md) — related
+- [Adjudicated sycophancy on post-pressure tutor responses reaches 14.1% across two frontier LLM tutors in the EDUFRAMETRAP test set](llm-tutor-sycophancy-rate-14-percent-eduframetrap.md) — related

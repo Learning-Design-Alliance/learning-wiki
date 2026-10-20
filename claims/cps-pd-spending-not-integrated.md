@@ -46,3 +46,5 @@ The agenda reports a Chicago Public Education Fund study that identified $123 mi
 - [Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share](technology-training-spending-inadequate.md) — related
 - [Personalized, practice-focused collaboration around classroom observations was particularly impactful for teachers' practice improvement efforts](personalized-practice-focused-collaboration-observations-impactful.md) — related
 - American public education spends $18 billion annually on professional development, yet only 29 percent of teachers are highly satisfied with formal learning opportunities — related
+- [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
+- [Professional development from CHSRI and CPS is valued by some small-school staff but viewed by others as irrelevant, hard to schedule, and poorly connected to school needs](chsri-professional-development-mixed-reception.md) — related

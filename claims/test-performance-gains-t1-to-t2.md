@@ -65,3 +65,8 @@ Repeated measures ANOVA on true-false question performance. Children answered mo
 - [Children's test performance is stable over six months but monitoring and control accuracy shows little inter-individual stability](performance-stable-metacognitive-accuracy-unstable.md) — reports the opposite
 - [Children of both age groups improved monitoring and control accuracy from T1 to T2 for both test formats, mainly for incorrect rather than correct answers](longitudinal-improvement-monitoring-control-incorrect-answers.md) — related
 - [Children became significantly less overconfident from kindergarten to 2nd grade but remained overconfident at both time points](monitoring-overconfidence-declines-but-persists-into-grade-2.md) — related
+- [Omission (no response) errors vary with age but not with reading skill](no-response-errors-age-not-reading-skill.md) — related
+- [Elementary school children monitor and control their answers to open-ended text comprehension questions more accurately than answers to true-false questions](monitoring-control-more-accurate-open-ended-than-true-false.md) — related
+- [Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no significant age difference was found for true-false questions](age-effect-monitoring-open-ended-only.md) — related
+- [Children are considerably more overconfident about incorrect answers to true-false questions than about incorrect answers to open-ended questions](overconfidence-incorrect-answers-higher-true-false.md) — related
+- [For second graders, low metacognition at the first measurement point carries no extra risk of low metacognition one year later](second-graders-low-metacognition-not-persistent.md) — related

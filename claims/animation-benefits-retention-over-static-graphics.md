@@ -43,4 +43,9 @@ The authors report findings from their three-factor between-subjects experiment 
 
 
 ## Related Claims
--
+- [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — related
+- [For transfer, only learners studying collaboratively benefited from animated over static graphics](collaboration-enables-transfer-benefit-of-animation.md) — related
+- [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — a narrower finding that bears on this claim
+- [The animation advantage is larger when the animation is system-paced](animation-advantage-larger-system-paced.md) — a narrower finding that bears on this claim
+- [The animation advantage is larger when animation is coupled with auditory commentary](animation-advantage-larger-auditory-commentary.md) — a narrower finding that bears on this claim
+- [Prior research failed to find clear evidence that animated graphics improve comprehension over static graphics](animation-research-lacks-clear-evidence-over-static.md) — reports the opposite

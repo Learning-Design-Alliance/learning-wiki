@@ -51,3 +51,6 @@ WWC synthesis of comprehension findings from Macaruso and Walker (2008), whose q
 - [Lexia Reading shows no discernible effects on reading fluency](lexia-reading-no-discernible-fluency.md) — related
 - Reading Go! showed positive but not statistically significant effects on reading comprehension — related
 - [Theory-based reading motivation interventions have a small significant positive effect on reading comprehension (d = 0.27)](reading-motivation-interventions-comprehension-effect.md) — related
+- [SpellRead™ shows potentially positive effects on comprehension for adolescent readers, with an average improvement index of +11](spellread-potentially-positive-comprehension.md) — related
+- [The WWC rates Project CRISS® as having potentially positive effects on comprehension for adolescent learners, with an average improvement index of +20 percentile points](project-criss-potentially-positive-comprehension-rating.md) — related
+- [WWC finds Cooperative Integrated Reading and Composition® has potentially positive effects on comprehension for adolescent learners (average improvement index +7 percentile points)](circ-potentially-positive-comprehension-adolescent-learners.md) — related

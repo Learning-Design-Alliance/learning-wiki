@@ -45,3 +45,6 @@ Experiment 2 (182 participants, 91 per group) mixed-factor ANOVA comparing train
 ## Related Claims
 - [JOS discrimination decreased across blocks as anagram presentation duration was reduced, driven by different mechanisms for AS versus S JOSs](jos-discrimination-decreases-shorter-duration.md) — related
 - [Training improved the predictiveness of AS and NS JOSs but not S JOSs, indicating training increased solving during the JOS task rather than JOS predictiveness](training-improved-as-ns-not-s-jos-predictiveness.md) — related
+- [S JOSs were discriminating but not predictive of later solving success in Experiments 1 and 2](s-jos-not-predictive-of-solving.md) — related
+- [AS and NS JOSs reliably predicted later solving outcomes, with AS JOSs predicting success and NS JOSs predicting failure](as-ns-jos-predict-solving-outcomes.md) — related
+- [Solvable judgments of solvability discriminate solvable from unsolvable anagrams even after excluding already-solved judgments](s-jos-discriminating-after-excluding-as.md) — related

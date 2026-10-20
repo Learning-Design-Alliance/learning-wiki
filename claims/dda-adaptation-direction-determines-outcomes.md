@@ -47,3 +47,4 @@ The review reports a quasi-experimental VR study (n = 50) in which "rule-based d
 - [AI-supported game-based learning shows positive learning effects across diverse subject domains in the majority of included studies](ai-gbl-positive-knowledge-acquisition-effects.md) — a broader claim this one bears on
 - [In the agent-based model, task difficulty and AI quality set the baseline level of overreliance, with difficulty the dominant global factor](simulation-task-difficulty-ai-quality-set-overreliance-baseline.md) — related
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
+- [Adaptive learning functions as the algorithmic engine that operationalizes personalized learning](adaptive-learning-engine-of-personalization.md) — a broader claim this one bears on

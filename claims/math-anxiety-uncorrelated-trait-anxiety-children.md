@@ -49,3 +49,4 @@ Correlational analysis in the same sample of 162 children comparing SEMA scores 
 - [Both SEMA subscales — numerical and situational anxiety — are equally negatively related to math achievement](math-anxiety-subscale-effects-on-achievement.md) — related
 - [Math anxiety relates more strongly to Mathematical Reasoning than to Numerical Operations in second and third graders](math-anxiety-stronger-mathematical-reasoning-than-numerical-operations.md) — related
 - [Children's arithmetic skills are the strongest predictor of their explicitly measured math anxiety, with higher skills associated with lower anxiety](arithmetic-skills-predict-explicit-math-anxiety.md) — related
+- [Math anxiety explained variance in posttest monitoring judgments beyond trait anxiety, supporting its distinctness from general anxiety](math-anxiety-distinct-from-trait-anxiety-in-monitoring.md) — related

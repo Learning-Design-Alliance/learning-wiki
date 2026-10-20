@@ -51,3 +51,5 @@ Observational finding from the REACH Students report: "teachers in schools with 
 - Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools — related
 - [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](observation-scores-stronger-school-characteristic-relationship.md) — related
 - [Observation scores have a stronger relationship with school poverty than value-added scores](observation-scores-stronger-school-poverty-relationship-than-value-added.md) — related
+- [Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials](school-poverty-score-gaps-persist-controlling-teacher-background.md) — related
+- [In CPS, student teachers were disproportionately placed in North Side schools and in more socioeconomically advantaged schools with stronger organizational ratings](cps-student-teacher-placement-north-side-and-advantaged-schools.md) — related

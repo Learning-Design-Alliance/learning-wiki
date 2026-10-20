@@ -45,3 +45,6 @@ Prior knowledge was assessed with an open-ended question about the 1974 events, 
 ## Related Claims
 - [Young adults exhibit my-side bias when writing summaries of contradictory historical accounts, with 72% producing one-sided reports despite explicit instructions to summarize both texts](my-side-bias-written-summaries-controversial-history.md) — related
 - [Emotions reported during think-aloud reading were mostly negative (anger, sadness) for both texts, in contrast to positive questionnaire-reported emotions toward the other ethnic group](negative-think-aloud-emotions-both-texts.md) — related
+- [Programs should facilitate cognitive disequilibrium so students question ethnocentric views and consider other cultural perspectives](programs-facilitate-cognitive-disequilibrium-ethnocentric-views.md) — related
+- [All four groups showed a tendency toward knowledge sharing, presenting information without interpretation or evaluation](information-sharing-without-interpretation-prevalent.md) — related
+- [The think-aloud emotion of sadness and prior knowledge predict coherence-based processing during reading of the other-side text](sadness-prior-knowledge-predict-coherence-processing.md) — related

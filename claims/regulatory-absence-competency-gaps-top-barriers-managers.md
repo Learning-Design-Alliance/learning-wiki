@@ -48,3 +48,6 @@ Descriptive prevalence analysis of four binary barrier items in the survey of 39
 - [Ukrainian education managers' personal AI readiness significantly exceeds their perceived system readiness (d = 0.73)](personal-exceeds-system-ai-readiness-gap-managers.md) — related
 - [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related
 - [On a common 0–1 metric, digital-competency adequacy shows the largest readiness gap (42.4%), followed by system readiness (21.3%)](competency-adequacy-largest-policy-gap.md) — related
+- [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
+- [Managers perceive the greatest AI potential in data analytics, document automation, and quality monitoring, and the least in personalization](application-potential-analytics-automation-monitoring.md) — related
+- [Ukrainian educators show high AI adoption (84%) but only 11% can identify specialized AI services beyond ChatGPT](educators-high-ai-adoption-low-specialized-awareness.md) — related

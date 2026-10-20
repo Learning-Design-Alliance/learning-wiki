@@ -49,3 +49,4 @@ Null results from the same correlational analysis of the toddler sample. The art
 - [Irregular sleep is associated with longer target P3 latencies in toddlers](irregular-sleep-longer-toddler-p3-latency.md) — related
 - [Longer target P3 latencies are associated with poorer sustained attention in toddlers](longer-p3-latency-poorer-toddler-sustained-attention.md) — related
 - [Behavioral performance on the toddler Oddball task is uncorrelated with target P3 amplitudes and latencies](oddball-behavioral-performance-uncorrelated-p3-toddlers.md) — related
+- [A P3-like ERP component can be elicited from toddlers as young as 30 months using an active auditory Oddball task](p3-like-component-elicited-toddlers-active-oddball.md) — related

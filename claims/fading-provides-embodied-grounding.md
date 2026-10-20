@@ -47,3 +47,7 @@ Theoretical argument from the review's abstract, presented as the second of four
 - [Concreteness fading provides advantages beyond the sum of the benefits of concrete and abstract materials considered independently](manipulatives-require-connection-to-concept.md) — related
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
 - [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related
+- [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
+- [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — a narrower finding that bears on this claim
+- [Returning to direct somatic experience can re-vision thinking and change perception (attributed to Reason)](somatic-return-revisions-thinking.md) — related
+- [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — a narrower finding that bears on this claim

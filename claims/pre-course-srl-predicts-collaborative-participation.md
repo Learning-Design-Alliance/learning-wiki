@@ -46,3 +46,7 @@ Linear regression combining course-entry SRL scores with course-log participatio
 - [This issue's MOOC study is reported to demonstrate that an intervention delivered outside chat activities promotes student participation in chat-based collaborative activities](mooc-outside-intervention-promotes-chat-participation.md) — related
 - [Both general and personalized SRL interventions increased students' participation in chat-based collaborative activities compared to control](srl-interventions-increased-chat-activity-participation.md) — related
 - [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
+- [Personalized SRL email interventions increased post-course self-regulation scores relative to control in a MOOC, while the general intervention did not](personalized-srl-interventions-raised-srl-scores-mooc.md) — related
+- [SRL intervention groups had significantly lower dropout than control in a MOOC, with no difference between the two intervention modes](srl-interventions-reduced-mooc-dropout.md) — related
+- [Both SRL intervention modes produced higher course exit quiz scores than control in a programming MOOC](srl-interventions-raised-exit-quiz-scores-mooc.md) — related
+- [Students' participation in preparatory exercises positively predicted their final exam grade in every intervention year (β = 0.16–0.31; R² = 0.03–0.16)](participation-preparatory-exercises-predicts-exam-grade.md) — related

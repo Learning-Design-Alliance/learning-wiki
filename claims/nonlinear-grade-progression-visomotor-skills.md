@@ -46,3 +46,5 @@ Cross-grade comparison of the five groups' Beery VMI-6 subtest means (Table 1). 
 - [First-grade students show inferior visual-motor integration, visual perception and motor coordination performance compared with the other grade groups](grade1-inferior-vmi-vp-mc-performance.md) — related
 - [Dysgraphia classification differs significantly across grade groups, with 80% of 1st graders, 10% of 3rd graders and 60% of 5th graders classified with dysgraphia](dysgraphia-classification-varies-by-grade.md) — related
 - [Visual-motor integration was the lowest-scoring ability and motor coordination the best-performing ability in every grade group](vmi-lowest-mc-highest-all-groups.md) — related
+- [No significant difference was found between grade groups in the classification distribution of VMI, VP and MC performance levels](no-group-difference-performance-classification.md) — related
+- [Only in the 5th-grade group were moderate positive correlations found, between visual-motor integration and motor coordination (r = 0.748) and between visual perception and dysgraphia classification (r = 0.643)](grade5-correlations-vmi-mc-vp-dysgraphia.md) — related

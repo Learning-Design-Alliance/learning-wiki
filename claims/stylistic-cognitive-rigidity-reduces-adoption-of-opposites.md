@@ -46,3 +46,4 @@ This is the chapter's theoretical argument about cognitive styles, supported by 
 ## Related Claims
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — related
 - [In one first-year composition class, stylistic analysis of a president's letter served critical pedagogy goals](style-analysis-president-letter-critical-reading.md) — related
+- [Unstructured LLM use contributes to epistemic narrowing by privileging convergent outputs and dominant viewpoints](unstructured-llm-use-epistemic-narrowing.md) — related

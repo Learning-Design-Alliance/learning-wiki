@@ -43,3 +43,4 @@ Kruskal–Wallis analysis of TMT-B times across the four PAVS-classified groups 
 ## Related Claims
 
 - [No significant group differences in Stroop color and word card times or in error rates on any Stroop card](stroop-null-results-color-word-cards-errors.md)
+- [Bully group children complete the Stroop color-word card faster than victim and bully-victim children](bullies-faster-stroop-color-word-card.md) — related

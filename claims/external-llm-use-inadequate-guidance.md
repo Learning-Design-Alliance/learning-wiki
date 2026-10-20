@@ -66,3 +66,5 @@ Inductive content analysis of open-ended survey responses from students who repo
 - [Socratic + No Context produces the highest query volume and Direct + No Context the longest messages](ai-ta-query-volume-and-message-length.md) — related
 - [Direct conditions descriptively show higher post-task full comprehension than Socratic conditions, with Direct + Full Context highest and Socratic + Full Context lowest](direct-conditions-higher-full-comprehension.md) — related
 - [Students rate the Socratic + Full Context AI TA significantly lowest for perceived support of task completion](socratic-full-context-ai-ta-lowest-task-completion-rating.md) — related
+- [AI TA condition shows no statistically significant differences in perceived task-comprehension support, correctness, or interaction stress](ai-ta-condition-no-effect-other-perceptions.md) — related
+- [The effect of context awareness on perceived task-completion support depends on the pedagogical guidance style it is paired with](context-effect-depends-on-guidance-style.md) — related

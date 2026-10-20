@@ -44,3 +44,6 @@ Correlational analysis (Table 3) relating risk indices to reading readiness and 
 
 ## Related Claims
 - [Teacher-rated behavioral inattention was not uniquely predictive of any grade 1 math outcome despite significant zero-order correlations](behavioral-inattention-not-unique-predictor.md) — related
+- [Prenatal risk indices were not significantly associated with cognitive flexibility or theory of mind outcomes in this sample](prenatal-risk-not-associated-with-ef-tom-outcomes.md) — related
+- [Pleasure and Certainty ratings are strongly inter-correlated, questioning the independence of the subjective-experience dimensions](pleasure-certainty-overlap-ratings.md) — related
+- [Real word decoding relates more strongly to adult reading comprehension (r = .52) than pseudoword decoding (r = .42), though not significantly](real-word-vs-pseudoword-decoding-adults.md) — related

@@ -49,3 +49,4 @@ Analysis of ODD–DESR overlap among ADHD probands. The study reports "past oppo
 - [More current comorbid conditions are associated with higher DESR scores in adults with ADHD](dose-response-comorbidity-count-and-desr.md) — related
 - [A majority of adults with ADHD show extreme DESR exceeding the 95th percentile of control subjects](extreme-desr-majority-of-adhd-adults.md) — related
 - [Extreme DESR in adults with ADHD is associated with reduced marital status and higher risk of traffic accidents and arrests](extreme-desr-marital-accidents-arrests.md) — related
+- [ODD and anxiety co-morbidity predict more severe sensory processing problems in children with ADHD](odd-anxiety-predict-severe-sensory-problems.md) — related

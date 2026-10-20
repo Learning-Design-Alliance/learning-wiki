@@ -64,3 +64,7 @@ Analysis of the MST_E at T3 found a significant condition effect, F(5,205) = 6.3
 ## Related Claims
 
 - [The four aggregated non-hybrid training groups did not differ on the dependent variables of the analyses](non-hybrid-groups-no-difference-dependent-variables.md)
+- [Theoretical expectation: hybrid metacognitive skill training benefits content knowledge acquisition more in near than in far transfer because far transfer is more cognitively demanding](near-transfer-working-memory-advantage-hypothesis.md) — related
+- [Cognitive strategy application in a far-transfer task after hybrid training depends on the specific strategy: text highlighting transferred, conducting experiments did not versus non-hybrid training](far-transfer-cognitive-strategy-application-strategy-dependent.md) — related
+- [Hybrid training improves fifth-graders' application of metacognitive skills in near-transfer tasks compared to non-hybrid and control training](hybrid-training-improves-near-transfer-metacognitive-skills.md) — related
+- [Training in metacognitive regulation combined with a cognitive learning strategy transfers to better metacognitive regulation of mental effort (far transfer), with small effect sizes](far-transfer-metacognitive-regulation-mental-effort.md) — related

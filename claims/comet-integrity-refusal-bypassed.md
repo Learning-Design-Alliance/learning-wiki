@@ -45,3 +45,4 @@ The editorial reports, citing MEF University CELT (2026), that Comet's initial r
 ## Related Claims
 - [AI browsers completed Canvas quizzes and provided answer keys when tested on university assessments](ai-browsers-complete-canvas-assessments.md) — related
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
+- [Under defense-in-depth, all 171 multi-layer bypass events are rated severity S0 (no impact) because the tutor system prompt and provider filter absorbed residual leakage](defense-in-depth-critical-bypass-zero.md) — related

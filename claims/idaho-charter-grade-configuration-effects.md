@@ -72,3 +72,4 @@ In the same configuration analysis, multi-level charter students post the strong
 - [About 41 percent of Idaho charter schools significantly outperform their traditional schooling alternatives in both reading and math](idaho-charter-school-level-distribution.md) — related
 - [Charter enrollment duration matters: first-year students lag in both subjects, while fourth-year students outperform in reading but still lag in math](sc-charter-gains-by-years-of-enrollment.md) — related
 - [Virtual charter schools show far lower achievement, with students losing the equivalent of half a year of learning in reading and a full year in mathematics](virtual-charter-negative-achievement.md) — related
+- [Charter sector improvement stems mainly from existing schools improving, and gains appear at elementary, middle, and high school levels but not multi-level schools](charter-gains-from-existing-schools-not-multilevel.md) — related

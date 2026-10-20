@@ -42,3 +42,4 @@ The paper's narrative account, citing U.S. GAO and HHS/CDC sources, of the healt
 
 ## Related Claims
 - [Determining the right M&E activities for a new or evolving solution is challenging, and more complex when investing in multiple solutions at once](me-selection-challenging-multi-solution-investments.md) — related
+- [AI tools compress idea-to-prototype time, freeing UX teams for human-led connection and alignment](ai-compression-frees-human-led-alignment.md) — related

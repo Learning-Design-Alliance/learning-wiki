@@ -47,3 +47,5 @@ General linear model in a subset of 44 participants who completed the Trail Maki
 - [Combined with adolescent data, the lifespan profile of perceptual metacognitive efficiency is an inverted-U](inverted-u-lifespan-profile-of-metacognition.md) — related
 - [The age-related decline in perceptual metacognitive efficiency reflects both rising d′ and falling meta-d′](d-prime-increase-meta-d-prime-decrease-drive-efficiency-decline.md) — related
 - [Memory metacognitive efficiency shows a non-significant negative relationship with age](memory-metacognitive-efficiency-nonsignificant-age-decline.md) — related
+- [Executive function (WCST performance) does not explain age-related differences in world knowledge-based audience design](ef-does-not-explain-audience-design-development.md) — related
+- [Memory metacognitive efficiency correlates with Wechsler Memory Scale scores, but perceptual metacognition does not](memory-metacognition-correlates-with-wms-scores.md) — related

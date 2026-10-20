@@ -71,3 +71,8 @@ Theoretical argument on the safety/legitimacy distinction. The article holds tha
 - [Source provenance labels functioned as a seal of authority: 11 of 12 participants failed to detect a planted source-card mismatch](provenance-paradox-uncritical-trust.md) — a narrower finding that bears on this claim
 - [Oral assessments are recommended as a strategy to maintain academic integrity against AI use](oral-assessments-academic-integrity-ai.md) — related
 - [Generative AI platforms cannot yet independently lead meaningful innovation; at best they augment human intelligence for innovation](generative-ai-augments-not-leads-innovation.md) — related
+- [Cultivating AI intuition safeguards against technological overreliance and erosion of critical thinking (theoretical argument)](ai-intuition-safeguard-against-overreliance.md) — related
+- [Holding a strong goal intention alone does not guarantee goal achievement](goal-intention-alone-insufficient-for-achievement.md) — a narrower finding that bears on this claim
+- [Ungraded practice tests function as a legitimate mediating practice that empowers learners and redefines the instructor's authority](ungraded-tests-mediating-practice.md) — related
+- [AI-generated text can pass as human-authored in up to 80% of cases, making reliable differentiation a significant challenge](ai-text-passes-as-human-up-to-80-percent.md) — related
+- [Detection-oriented integrity approaches are increasingly misaligned with GenAI-augmented assessment (theoretical argument)](detection-approaches-misaligned-genai-assessment.md) — related

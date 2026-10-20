@@ -44,3 +44,4 @@ The article reports, citing IEA (2011), that the Instruction to Engage Students 
 
 ## Related Claims
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related
+- [Existing online SRL questionnaires show reliability problems, with most having at least one scale outside the acceptable Cronbach's alpha range](existing-online-srl-scales-reliability-issues.md) — related

@@ -48,3 +48,5 @@ Systematic literature review of 67 studies selected from an initial 563 papers a
 - [Purpose-built chatbot effects on educational performance are mixed, with some studies showing no benefits or worse outcomes than comparison conditions](educational-performance-mixed-ai-chatbots.md) — reports the opposite
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — reports the opposite
 - [Faculty testing of AI chatbots on real student homework found feedback quality uneven, prompting-dependent, and focused on surface features](ai-chatbot-homework-feedback-limits.md) — reports the opposite
+- [AI chatbots support skills development in writing, problem-solving, and group discussion facilitation](chatbot-skills-development.md) — a narrower finding that bears on this claim
+- [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](usability-test-strengths-and-limits.md) — related

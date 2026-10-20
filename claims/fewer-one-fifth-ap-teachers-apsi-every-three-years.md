@@ -45,3 +45,4 @@ Descriptive staffing analysis of AP teacher participation in the Advanced Placem
 ## Related Claims
 - [Three of four DCPS high schools mandating AP enrollment had higher AP exam taking and passing rates after the mandate, but passing rates remained generally low](ap-mandate-higher-taking-passing-rates-low.md) — related
 - About half of DCPS AP teachers with a recorded college major had a major aligned with their AP course, and 70 percent had a major aligned with the broader subject area — related
+- [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related

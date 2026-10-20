@@ -64,3 +64,7 @@ Null moderator result from the same meta-regression models; media comparison gam
 ## Related Claims
 - [Multi-session game conditions outperform nongame conditions while single-session games do not, though total play duration shows no association with effect size](multiple-sessions-benefit-single-session-null.md) — possibly the same claim (merge candidate)
 - [Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons](digital-games-outperform-nongame-media-comparisons.md) — a broader claim this one bears on
+- [Third-person camera perspective games show significant learning benefits while first-person perspective games show no significant benefit](camera-perspective-moderator-games.md) — related
+- [No dose-response effect: video benefits do not systematically increase with intervention length](no-dose-response-video-duration.md) — related
+- [Single noncollaborative, noncompetitive play shows the largest learning effects, significantly larger than single competitive play](single-noncompetitive-play-largest-media-effects.md) — related
+- [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](coaching-dosage-null-effect.md) — related

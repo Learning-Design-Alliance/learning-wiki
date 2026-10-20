@@ -43,4 +43,11 @@ The review's Table 1 systematization of ErrEx vs CorrEx comparisons reports for 
 
 
 ## Related Claims
--
+- [Contrasting erroneous examples were more often effective than correct examples and problem-solving, sometimes equally or more effective than erroneous examples](con-errex-more-often-effective.md) — related
+- [In the acquisition of negative knowledge, erroneous examples outperformed correct examples](errex-negative-knowledge-advantage.md) — a narrower finding that bears on this claim
+- [Prior knowledge moderates the effectiveness of erroneous and contrasting erroneous examples, with low-prior-knowledge learners benefiting in several studies but findings contradictory](prior-knowledge-moderates-errex-effectiveness.md) — related
+- [Learning with erroneous examples often imposed higher cognitive load than correct examples or problem-solving](errex-higher-cognitive-load.md) — related
+- [Erroneous examples were beneficial only in combination with elaborated feedback, not with corrective feedback alone](errex-beneficial-only-with-elaborated-feedback.md) — related
+- [Erroneous examples do not raise general confidence calibration but yield more high-confidence correct answers on the delayed posttest](erroneous-examples-metacognitive-confidence-delayed.md) — related
+- [Time on task does not explain the erroneous-examples delayed learning advantage](time-on-task-does-not-explain-delayed-advantage.md) — related
+- [Erroneous examples produce significantly higher delayed-test learning gains than problem solving for decimal learning](erroneous-examples-delayed-learning-gain-decimals.md) — related

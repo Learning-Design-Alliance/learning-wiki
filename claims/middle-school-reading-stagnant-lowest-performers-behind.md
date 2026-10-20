@@ -55,3 +55,5 @@ The published description of this NWEA research brief (August 2026), which uses 
 - [Reading achievement remained stalled as of Spring 2025 according to MAP Growth national data](spring-2025-map-growth-reading-stalled.md) — a broader claim this one bears on
 - [A NWEA brief highlights middle school reading as an urgent challenge in academic recovery, with evidence of post-COVID-19 declines among struggling adolescent readers](struggling-adolescent-readers-post-covid-declines-brief.md) — a broader claim this one bears on
 - [The COVID-19 pandemic impacted historically underserved students more severely than their peers](covid-impacted-historically-underserved-students-more-severely.md) — a broader claim this one bears on
+- [NWEA reports a positive turn for U.S. reading achievement after a period of post-COVID stagnation](post-covid-reading-positive-turn-nwea.md) — reports the opposite
+- [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — related

@@ -47,3 +47,5 @@ Cost analysis from the faces task with ninety 8-year-olds in three language grou
 - [Bilingual and monolingual 8-year-olds do not differ in response suppression costs](no-bilingual-advantage-response-suppression-children.md) — related
 - [Bilingual 8-year-olds show no switching cost between blocked and mixed trial blocks, unlike monolinguals](bilingual-children-no-switching-cost-faces-task.md) — related
 - [Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages](bilingual-advantage-reading-acquisition.md) — related
+- [Bilinguals show a marginally smaller Stroop effect and higher overall Stroop accuracy than monolinguals](bilinguals-marginally-smaller-stroop-effect.md) — related
+- [Bilingually educated high-school students show smaller switching costs (greater cognitive flexibility) than regularly educated peers](bilingual-education-smaller-switching-costs.md) — related

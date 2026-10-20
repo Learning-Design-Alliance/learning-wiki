@@ -48,3 +48,4 @@ Mean rank aggregation of complete four-item rankings from the end-of-term survey
 - [Nearly nine in ten students ranked a personalized video as their top choice](personalized-video-top-choice-88-percent.md) — related
 - [Students preferred human-recorded over AI-generated videos when personalization was held constant, but this effect was smaller than the personalization effect](human-presence-preference-smaller-than-personalization.md) — related
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — reports the opposite
+- [Participants reported preferring learning from videos over learning from digital texts](students-prefer-learning-from-videos.md) — related

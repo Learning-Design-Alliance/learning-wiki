@@ -53,3 +53,8 @@ Systematic review phase identifying the ten themes, including the individual-dif
 - [Social support factors (parent, peer, teacher) are among the themes associated with adolescent school belonging](social-support-themes-school-belonging.md) — related
 - [Across nearly all race/ethnicity groups, transgender high school students report fewer school supports, lower safety, lower motivation, and lower connectedness than non-transgender peers](transgender-students-report-fewer-school-supports-lower-safety.md) — related
 - [The need to belong is relevant to all academic disciplines that study human behavior, with immense importance to educational psychology](need-to-belong-relevance-educational-psychology.md) — related
+- [Positive personal characteristics are among the strongest predictors of school belonging](personal-characteristics-strong-predictor-school-belonging.md) — related
+- [Racial, ethnic, and cultural identity development emerged as the core need for students of color beyond academic subjects](identity-core-of-sead-for-students-of-color.md) — related
+- [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](latino-gender-subgroup-covariate-differences.md) — related
+- [Belonging mediates the relationship between racial/ethnic identity and both academic achievement and emotional symptoms](belonging-mediates-identity-achievement.md) — related
+- [Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls](condensed-eot-race-gender-equity-gaps.md) — related

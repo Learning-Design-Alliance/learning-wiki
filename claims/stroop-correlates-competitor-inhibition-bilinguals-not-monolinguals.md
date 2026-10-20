@@ -48,3 +48,4 @@ Correlation analysis in the same 60-participant study relating Stroop RT differe
 - [Competitor activation relates to negative priming at different time windows in monolinguals and bilinguals](competitor-activation-priming-timecourse-group-differences.md) — related
 - [Monolinguals but not bilinguals show residual inhibition of phonological competitors on negative-priming probes](monolinguals-not-bilinguals-residual-competitor-inhibition.md) — related
 - [Higher Spanish proficiency in bilinguals is associated with less residual competitor inhibition](spanish-proficiency-associated-less-residual-inhibition.md) — related
+- [Target facilitation and competitor inhibition are strongly correlated in both groups](target-facilitation-competitor-inhibition-correlated-both-groups.md) — related

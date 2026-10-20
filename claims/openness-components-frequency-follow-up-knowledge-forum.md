@@ -48,3 +48,6 @@ Coding study of Knowledge Forum contributions from two mixed cohorts of students
 
 - [CATPCA of openness components yielded two dimensions largely matching the theoretical cognitive/social framework, with transactivity not included](catpca-two-dimensions-openness.md)
 - [Component frequencies: elaboration, other transactivity and expert authority are frequent; multiple justification, personal positioning and questioning are rare](openness-component-frequency-pattern.md)
+- [At the discourse-act level, notes expressing uncertainty are associated with more follow-up and notes open on community orientation with less, and notes lacking building-knowledge openness receive less follow-up](uncertainty-discourse-act-more-followup.md) — related
+- [Social openness components transactivity and authority are associated with less follow-up, and dimension-level openness shows no significant association with follow-up](social-openness-components-less-followup.md) — related
+- [Group-level feedback visualizations increased shared vocabulary connections, but student metadiscourse remained teacher-dependent](group-level-feedback-visualizations-metadiscourse.md) — related

@@ -44,3 +44,6 @@ A retrospective quasi-experimental study (Yu & Rachor, 2000) matching Reading Ma
 
 ## Related Claims
 - [WWC finds CIRC has potentially positive effects on general literacy achievement for adolescent learners (average improvement index +2 percentile points)](circ-potentially-positive-general-literacy-achievement.md) — related
+- [WWC finds Cooperative Integrated Reading and Composition® has potentially positive effects on comprehension for adolescent learners (average improvement index +7 percentile points)](circ-potentially-positive-comprehension-adolescent-learners.md) — related
+- [In a quasi-experimental study, CIRC showed no statistically significant effect on comprehension outcomes after WWC clustering and multiple-comparison adjustments](circ-qed-comprehension-indeterminate.md) — related
+- [Reading Mastery has potentially positive effects on reading fluency for adolescent learners, with a WWC improvement index of +19 percentile points](reading-mastery-potentially-positive-fluency-adolescents.md) — related

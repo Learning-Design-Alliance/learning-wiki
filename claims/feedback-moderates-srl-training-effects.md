@@ -49,3 +49,6 @@ Moderator analysis of course design characteristics across the 49 included studi
 - [Cooperative learning arrangements predict larger SRL training effects for cognitive and metacognitive strategies](cooperative-learning-moderates-srl-training-effects.md) — related
 - [SRL training programs targeting older students and students with lower prior academic achievement show larger effects on resource management strategies](student-characteristics-moderate-resource-management-effects.md) — related
 - [Extended SRL training programs enhance university students' academic performance, SRL strategies, and motivation (overall g = .38)](srl-training-university-students-overall-g38.md) — related
+- [SRL training programs based on a metacognitive theoretical background show larger effects on academic achievement than programs based on cognitive theories](metacognitive-theory-background-larger-achievement-effects.md) — related
+- [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](srl-training-programmes-improve-outcomes.md) — a broader claim this one bears on
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — a broader claim this one bears on

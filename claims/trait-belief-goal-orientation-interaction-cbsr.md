@@ -50,3 +50,4 @@ ANCOVA interaction term (N = 147, controlled for EF, gender, age); the profile d
 - [Kindergarteners who believe traits are malleable show better classroom behavioral self-regulation than children with a stable trait belief](malleable-trait-beliefs-better-cbsr-kindergarten.md) — related
 - [Mindsets relate to kindergarteners' achievement indirectly through executive functions and classroom behavioral self-regulation as mediators](mindsets-achievement-indirect-via-self-regulation.md) — related
 - [Mastery orientation relates to classroom behavioral self-regulation only indirectly via executive functions, while trait beliefs relate mainly directly](sem-differential-paths-mindsets-cbsr.md) — related
+- [In kindergarteners, trait beliefs and goal orientations form two separate but related factors rather than a coherent growth/fixed mindset](kindergarten-mindsets-two-factor-structure.md) — related

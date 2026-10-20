@@ -51,3 +51,4 @@ School-level analysis rolling VCRs from feeder schools up to a simulated TPS sch
 - [Idaho charter school students show stronger reading growth than matched TPS peers, with no significant difference in math growth](idaho-charter-reading-advantage-math-null.md) — related
 - [Houston charter school students outperformed Houston other district school students in both reading and math in 2018-19](houston-charter-beats-district-reading-and-math-2018-19.md) — related
 - [About 41 percent of Idaho charter schools significantly outperform their traditional schooling alternatives in both reading and math](idaho-charter-school-level-distribution.md) — related
+- [National studies cited in the report found Rhode Island charter students outperformed traditional public school peers in reading and math](ri-charter-students-outperformed-tps-national-studies.md) — related

@@ -45,3 +45,5 @@ A 2024 Digital Promise survey sample of teachers in Jefferson County, Kentucky, 
 - [Majorities of surveyed teachers and coaches reported the program enhanced career advancement and leadership opportunities](vils-career-advancement-survey-majorities.md) — related
 - [71% of surveyed Miami-Dade coaches reported the program improved their job satisfaction, up from a pre-program baseline where none reported being completely satisfied](vils-coaches-71-percent-improved-job-satisfaction.md) — related
 - Participating schools report more positive teacher and staff perceptions of teaching and learning conditions — related
+- [Most teachers and principals reported satisfaction with professional opportunities, school environment, and the TIF program](tif-most-educators-satisfied.md) — related
+- [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](vils-coach-time-associated-better-teaching-outcomes.md) — related

@@ -43,4 +43,10 @@ Hierarchical multiple regression on data from 181 students, controlling for prio
 
 
 ## Related Claims
--
+- [Receiving positive affective feedback from peers is a significant predictor of assessees' project performance](receiving-positive-affective-feedback-predicts-assessee-performance.md) — related
+- [Giving suggestions to peers is a significant predictor of assessors' own project performance](giving-suggestions-predicts-assessor-performance.md) — related
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — a broader claim this one bears on
+- [Giving students feedback about their grading bias increased their subsequent grading accuracy](grading-bias-feedback-increases-accuracy.md) — related
+- [Peer grading behaviors do not significantly predict project performance for assessors or assessees](peer-grading-not-significant-predictor.md) — related
+- [Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback](cognitive-feedback-benefits-assessors-not-assessees.md) — related

@@ -50,3 +50,4 @@ Pearson correlation analysis (N=301) on the same survey data; Table 4 shows expe
 - [Adopted educational philosophy is significantly positively related to teaching style](philosophy-significantly-related-teaching-style.md) — a broader claim this one bears on
 - [Teacher-centered philosophies correlate with formal-authority teaching styles](teacher-centered-philosophies-correlate-formal-authority.md) — related
 - [Perceived power distance correlates with expert and authority roles, collaboration with facilitator and delegator roles, and competition correlates with all five teacher roles](cultural-environment-correlates-with-teacher-roles.md)
+- [Teachers' adoption of online collaborative learning is associated with constructivist beliefs, facilitator/delegator roles, perceived need for innovation, and institutional conditions](teacher-and-contextual-variables-related-to-innovation-adoption.md) — related

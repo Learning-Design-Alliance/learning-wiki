@@ -58,3 +58,4 @@ The article's review of recent sector frameworks (traffic light systems, the two
 - The article reports a relative lack of literature detailing practical approaches to GenAI-driven assessment redesign — a broader claim this one bears on
 - [Universities remaining at early AI-adoption stages risk reactive policies, fragmented practice, and misalignment between assessment and real-world practice](early-stage-ai-adoption-risks.md) — related
 - [Existing digital citizenship and online safety frameworks were appraised as too broad and not addressing serious online risks](existing-frameworks-not-comprehensive-online-safety.md)
+- [Existing health equity frameworks often lack implementation guidance and treat equity as distributive rather than addressing how inequity is produced](equity-frameworks-lack-implementation-guidance.md) — a narrower finding that bears on this claim

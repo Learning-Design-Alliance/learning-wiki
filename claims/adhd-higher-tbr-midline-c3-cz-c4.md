@@ -44,3 +44,5 @@ Resting-state EEG in the group comparison of 30 children with ADHD and 30 TD chi
 
 ## Related Claims
 - [Sleep restriction lowers tonic arousal (raises EEG theta power) in a simulated classroom, with a medium effect](sleep-restriction-lowers-tonic-arousal-classroom.md) — related
+- [Under normal conditions children with ADHD show deficits in vigilance, visual search and divided attention relative to TD children](adhd-attention-deficits-normal-conditions.md) — related
+- [In a randomized three-arm trial, medication but not physical exercise or neurofeedback was related to improved response inhibition and reduced theta power in children with ADHD](medication-not-exercise-improved-response-inhibition-janssen.md) — related

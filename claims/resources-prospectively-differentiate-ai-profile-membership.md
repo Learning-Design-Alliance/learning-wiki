@@ -71,3 +71,4 @@ R3STEP results (Table 5) show a scope limit: digital literacy failed to separate
 - [AI-attitude profiles differ significantly in career crafting, with High-Perception High-Vigilance and Positive Empowerment highest and Low-Perception Detached lowest](profiles-differ-in-career-crafting.md) — related
 - [Demographic predictors of engagement profile membership differed across language groups, with employment the only significant predictor for English-speaking parents](demographic-predictors-differ-by-language-group.md) — related
 - [Episodic prospection develops over an extended period and may support academic behaviors aimed at envisioned future selves](episodic-prospection-development-academic-behavior.md) — related
+- [Community and Questions codes most strongly separated the four groups, especially Group A from the others](community-questions-codes-separate-groups.md) — related

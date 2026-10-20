@@ -49,3 +49,5 @@ Self-reported outcome from the Consortium report on YOUmedia Chicago: a majority
 - [Participation at YOUmedia differs substantially across teens, spanning creation, homework, varied media use, and socializing](youmedia-participation-patterns-vary-substantially.md) — related
 - [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](youmedia-sense-of-community-drives-digital-media-engagement.md) — related
 - [YOUmedia registration increased steadily across Year 1, reaching 1,593 registered teens by August 2010](youmedia-registration-increased-year-one.md) — related
+- [Majorities of teens report YOUmedia helped with school work and understanding post-high-school opportunities](youmedia-helps-school-work-and-postsecondary-opportunities.md) — related
+- [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related

@@ -47,3 +47,4 @@ Descriptive analysis of 12th-grade graduation statuses in 2022–23 (Table 4). T
 - [Students designated as LTEL7 in California overwhelmingly began schooling at the lowest English proficiency levels (64% at Beginning vs. 40% of other ever-ELs)](ltel7-began-lowest-english-proficiency.md) — related
 - [Schools with higher concentrations of LTEL7 students have higher chronic absenteeism, lower graduation rates, and fewer fully certified teachers](ltel7-school-context-disadvantages.md) — related
 - [Most LTEL7 students in middle grades began California schooling in kindergarten, but by high school most entered after kindergarten](ltel7-kindergarten-start-declines-by-grade.md) — related
+- [Boys are disproportionately represented among students designated as LTEL7 in California (56% vs. 51% of other ever-ELs)](boys-disproportionately-represented-ltel7-california.md) — related

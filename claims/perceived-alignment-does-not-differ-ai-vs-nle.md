@@ -47,3 +47,6 @@ Kruskal–Wallis comparison of student-perceived curricular alignment across Cha
 - [Exploratory analysis found item difficulty differed across sources, driven by the Google Gemini versus NLE contrast](item-difficulty-differs-across-sources-gemini-nle.md) — related
 - [Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement](lo-alignment-judgment-more-subjective-than-answering.md) — related
 - [Perceived overall utility of generative AI differs significantly across the five platforms used, favoring platforms with structured task breakdowns](ai-platform-utility-differs-anova.md) — related
+- [Students identified MCQ item source at a rate significantly above the 50% chance level in a real exam setting](students-identify-mcq-source-above-chance.md) — related
+- [Easier items were perceived as better aligned with the curriculum (strong difficulty–alignment association)](easier-items-perceived-as-better-aligned.md) — related
+- [Distractor distribution did not differ across ChatGPT, Google Gemini and NLE MCQs](distractor-distribution-does-not-differ-across-sources.md) — related

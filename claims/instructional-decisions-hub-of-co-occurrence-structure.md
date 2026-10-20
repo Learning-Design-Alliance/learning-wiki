@@ -47,3 +47,4 @@ Co-occurrence analysis of lecturer decision types across the 27 reviewed studies
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
 - The types of evidence used for program adoption decisions differ sharply by role, with district administrators favoring local pilots and school leaders favoring developer research — related
 - Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment — related
+- [Coded prompt logs show different prompting strategies foreground different pedagogical themes, with technical prompts the largest strategy total (398 instances)](prompt-strategies-foreground-different-pedagogical-themes.md) — related

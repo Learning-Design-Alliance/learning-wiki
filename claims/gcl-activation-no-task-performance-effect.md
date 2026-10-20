@@ -64,3 +64,6 @@ Post-test performance in the time-zones study (N = 36), a 17-question test worth
 ## Related Claims
 - [Medium moderated disfluency effects on reasoning: disfluent text fostered calibration and performance on screen but not on paper](screen-paper-moderates-disfluency-reasoning.md) — related
 - [Germane load measurement is problematic: GCL-outcome correlations and item understanding show weaknesses across instruments](germane-load-measurement-problems.md) — related
+- [Variations in cognitive activation are reflected in the germane cognitive load scale: prompted imagination and disfluent text raise GCL](activation-variations-reflected-in-gcl-scale.md) — related
+- [No significant performance difference was found between the causal-only and simulation-only conditions, nor between the mismatched and partly matched conditions](no-difference-single-tool-and-mismatched-conditions.md) — related
+- [Neither disfluency nor distinctiveness affected memory across three experiments with alien-list stimuli](disfluency-distinctiveness-null-rummer.md) — related

@@ -66,3 +66,5 @@ In the same experiment, the older group (9–10 years) improved after open-skill
 - [The effect of a single exercise bout on children's short-term memory depends on an interaction of time, age, and exercise type.](time-age-exercise-interaction-stm.md) — a broader claim this one bears on
 - [A sedentary control condition (Italian grammar lesson) produces no improvement in children's short-term memory performance at either age.](sedentary-control-no-stm-improvement.md) — related
 - [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — related
+- [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related
+- [Age may moderate acute PA effects on attention: effects appeared for 9–10 year olds but not 7–8 year olds](age-moderates-pa-attention-effect.md) — related

@@ -46,3 +46,4 @@ In the same randomized grades 3–5 study (analytic sample 1,843 students across
 - [Edpuzzle Original math videos raise grades 3–5 mathematics achievement on the CAASPP (effect size +0.09)](edpuzzle-caaspp-math-effect-009.md) — related
 - Early elementary students using Imagine Math Facts demonstrated significantly more growth on Ren Star math assessments (effect size +0.11) — related
 - IXL Math raises Grade 3-5 mathematics achievement on the Renaissance Star Math after one semester (effect size +0.13) — related
+- [Dosage relationship: more assigned Edpuzzle videos associated with larger gains](edpuzzle-dosage-more-videos-larger-gains.md) — related

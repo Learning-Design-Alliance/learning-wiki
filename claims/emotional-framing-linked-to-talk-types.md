@@ -43,4 +43,5 @@ The editorial reports the empirical cases of Polo et al.'s two case studies, whi
 
 
 ## Related Claims
--
+- [Cumulative, disputational, and exploratory talk types together mediated students' enactment of makerspace knowledge practices](talk-types-mediate-makerspace-knowledge-practices.md) — related
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related

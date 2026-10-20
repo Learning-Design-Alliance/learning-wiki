@@ -44,4 +44,9 @@ The editorial reports, on Hayashi's experiment with learning dyads in a jigsaw t
 
 
 ## Related Claims
--
+- [Visible real-time gaze feedback improves collaborative-process coordination, especially information pooling, in dyadic knowledge integration tasks](gaze-feedback-improves-collaborative-process.md) — a narrower finding that bears on this claim
+- [A successful coordination/high learning-gain correlation appears only for learners receiving both visible gaze feedback and PCA suggestions](process-performance-correlation-only-both-tools.md) — related
+- [Gaze feedback and PCA suggestions interact on proportional learning gains, with synergy favoring the visible-gaze/visible-agent condition](gaze-pca-interaction-on-learning-gains.md) — related
+- [Gaze feedback and PCA suggestions show no interaction effect on the collaborative process ratings](no-gaze-pca-interaction-on-process.md) — reports the opposite
+- [Conversational-agent prompts improve student dialogue outcomes at both individual and dyad levels](conversational-agent-prompts-improve-individual-and-dyad-outcomes.md) — related
+- [Visualizing group awareness information strongly impacts dyads' joint regulation of the collaborative process](group-awareness-visualization-impacts-joint-regulation.md) — related

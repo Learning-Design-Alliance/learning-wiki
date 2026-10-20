@@ -46,3 +46,5 @@ The brief's second stated takeaway is that "teachers need support to meet studen
 - [No school is totally low-risk from weather-related disruptions](no-school-totally-low-risk-weather-disruptions.md) — related
 - [Many U.S. schools face major budget and infrastructure challenges related to severe weather](schools-face-budget-infrastructure-challenges-severe-weather.md) — related
 - [A day of school missed after a severe weather event can translate to more than a day of learning lost](weather-missed-day-more-than-day-learning-lost.md) — related
+- [Intensive interventions should be planned and provided based on data and guided by evidence-based practices](intensive-interventions-data-based-evidence-guided.md) — related
+- [New baseline data are needed to support instructional planning for individual students and student groups after disrupted schooling](new-baseline-data-needed-instructional-planning-disrupted-schooling.md) — related

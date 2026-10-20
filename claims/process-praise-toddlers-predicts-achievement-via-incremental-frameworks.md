@@ -50,3 +50,7 @@ Path analysis (FIML, bias-corrected bootstrap with 10,000 draws) of the longitud
 - [The indirect praise-to-achievement path is driven by trait beliefs, not learning goals](trait-beliefs-not-learning-goals-mediate-praise-achievement-link.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — a broader claim this one bears on
 - [Parents' naturalistic process praise at child ages 14-38 months predicts children's incremental motivational frameworks at age 7-8](process-praise-toddlerhood-predicts-incremental-frameworks.md) — a narrower finding that bears on this claim
+- [Parents' person praise at 14-38 months was not associated with children's later entity frameworks](person-praise-toddlerhood-null-relation.md) — related
+- [Parents' praise styles were stable across child ages 14-38 months, with person praise declining and other praise increasing](praise-style-stability-toddlerhood.md) — related
+- [Boys received significantly more process praise than girls, despite equal overall praise](boys-more-process-praise-than-girls.md) — related
+- [Parents' beliefs about failure and reactions to children's failures, not their own mindsets, predict children's mindsets](parent-failure-reactions-predict-child-mindsets.md) — related

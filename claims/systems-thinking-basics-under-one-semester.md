@@ -43,4 +43,5 @@ The authors state this as a main conclusion extending beyond the online learning
 
 
 ## Related Claims
--
+- [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — related
+- [An online cross-disciplinary learning process with OPM modeling assignments effectively enhanced systems thinking and modeling skills of learners, including those with no relevant background](online-opm-assignments-enhance-systems-thinking-all-learners.md) — related

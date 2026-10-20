@@ -43,4 +43,8 @@ Review by Scammacca et al. of comprehension strategy interventions for students 
 
 
 ## Related Claims
--
+- [Fluency interventions for older students show very small effects on rate and accuracy and virtually no effect on standardized comprehension](fluency-small-effects-older-readers.md) — related
+- [World of Words produced a statistically significant medium effect on a comprehension composite measure (effect size 0.54) after 12 weeks](world-of-words-comprehension-composite-significant.md) — related
+- [Word study intervention shows a moderate overall effect on word reading and comprehension for older struggling readers](word-study-moderate-effect-older-readers.md) — related
+- [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related
+- [Unreliability in an outcome measure reduces the statistical power of treatment-control comparisons](unreliability-reduces-rct-statistical-power.md) — a broader claim this one bears on

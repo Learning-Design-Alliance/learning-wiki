@@ -47,3 +47,4 @@ The report states that "teachers cite principal support as one of the most impor
 - Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader — related
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — related
 - [Principals' overall preparation quality is positively and significantly related to teacher retention, with significant components for developing people and meeting needs of diverse learners](principal-preparation-quality-teacher-retention.md) — related
+- [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — related

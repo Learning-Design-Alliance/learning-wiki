@@ -44,3 +44,7 @@ Linear mixed model predicting EIR application skills (coded analysis of a second
 
 ## Related Claims
 - [A feedback provision scaffold of prompts plus a sample solution significantly improves the quality of feedback messages pre-service teachers provide on peers' case analyses](feedback-provision-scaffold-improves-feedback-quality.md) — related
+- [Feedback quality provided correlates positively with both EIR recognition and EIR application skills](feedback-quality-correlates-eir-skills.md) — related
+- [During feedback provision, content-specific support improves feedback provision quality (g = 0.75) but not knowledge, while generic support improves both provision quality (g = 0.70) and subject-matter-related knowledge (g = 0.55)](generic-provision-support-also-boosts-knowledge.md) — related
+- [Instructional support improves quality of feedback provision (g = 0.64) and quality of feedback reception (g = 0.49) but not subject-matter-related knowledge](support-effects-differ-by-dependent-variable.md) — related
+- [Feedback provision support improves quality of feedback provision (g = 0.72) and quality of feedback reception (g = 0.69) but not subject-matter-related knowledge](provision-support-improves-both-process-qualities.md) — related

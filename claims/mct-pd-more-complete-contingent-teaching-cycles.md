@@ -43,4 +43,6 @@ Postmeasurement comparison in the same experimental study of 30 prevocational so
 
 
 ## Related Claims
--
+- [The scaffolding intervention unintentionally increased small groups' independent working time, roughly doubling it from premeasurement to postmeasurement](scaffolding-intervention-increases-independent-working-time.md) — related
+- [Teachers who worked with the model of contingent teaching increased their teaching quality more than teachers who did not participate, especially on the contingent-teaching steps](mct-pd-increased-teaching-quality-more-than-control.md) — possibly the same claim (merge candidate)
+- [Teachers who completed a scaffolding intervention program increased the contingency of their support far more than non-participating teachers](scaffolding-intervention-increases-teacher-contingency.md) — related

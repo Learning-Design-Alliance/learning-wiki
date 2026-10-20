@@ -47,3 +47,4 @@ Quasi-experimental comparison of equated ITBS gain scores (1987-1992, ~one milli
 - [Third grade is the notable exception where retained students did not make smaller gains, likely due to the ITBS Level 8 to Level 9 test format change](third-grade-gain-dip-test-format-exception.md) — a narrower finding that bears on this claim
 - [Retained students showed smaller three-year achievement gains than previously socially promoted students, though Rasch adjustment erased the gap for once-retained third graders](retained-students-smaller-gains-than-social-promotes.md) — related
 - [Students in the top propensity-for-retention category showed higher gains than students not in the top category](top-retention-propensity-higher-gains.md) — related
+- [Third-grade retention under the Chicago policy produced no sustained academic benefits or substantial negative effects](third-grade-retention-no-sustained-benefit.md) — related

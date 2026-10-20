@@ -44,3 +44,4 @@ Analysis of achievement gaps in A and B schools (Figure 3) from the Oklahoma A�
 
 ## Related Claims
 - [Oklahoma achievement declined rather than grew across 2012–2014 under the A–F letter grade system, with the largest drops in F schools](oklahoma-achievement-declined-2012-2014-under-a-f.md) — related
+- [Reading score distributions within A–F letter grades overlap heavily, so letter grades misrepresent the achievement of many individual students](letter-grades-hide-within-grade-score-variation.md) — related

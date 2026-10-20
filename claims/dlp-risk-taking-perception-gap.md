@@ -63,3 +63,4 @@ End-of-year coach survey in the pilot schools: "54 percent of coaches" reported 
 
 ## Related Claims
 - [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related
+- [Learning Studio participation increased students' comfort with, and skills around, the Studio technologies](learning-studios-student-technology-comfort-increase.md) — related

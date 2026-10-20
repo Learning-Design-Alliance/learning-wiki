@@ -45,3 +45,4 @@ Sanity-check analysis of induced failure subtypes against the intended taxonomy 
 ## Related Claims
 - [GPT-5.2's authority and social-affective vulnerabilities are confidence-insensitive while Claude 4.5's context-switch failures spike at low student confidence](confidence-conditioned-deference-profiles-llm-tutors.md) — related
 - [Sycophancy is pressure-structured: GPT-5.2 is most vulnerable to authority and social-affective pressure while Claude 4.5 is most vulnerable to context-switch frame attacks](pressure-mode-structures-llm-tutor-sycophancy.md) — related
+- [Adjudicated sycophancy on post-pressure tutor responses reaches 14.1% across two frontier LLM tutors in the EDUFRAMETRAP test set](llm-tutor-sycophancy-rate-14-percent-eduframetrap.md) — a broader claim this one bears on

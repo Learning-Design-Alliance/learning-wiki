@@ -57,3 +57,5 @@ The same Makescape research on the Oztoc exhibit found that "a combination of ph
 
 ## Related Claims
 - [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — related
+- [Boundary spanning perceptions and actions are critical mechanisms for productive divergent collaboration](bsp-bsa-critical-mechanisms-divergent-collaboration.md) — related
+- [Gamified mobile question-asking elicits more basic information questions and fewer off-topic, incomplete or nonsense questions than a basic version in museums](gamified-museum-question-apps-eliciting-more-basic-information-questions.md) — related

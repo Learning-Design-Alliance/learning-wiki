@@ -63,3 +63,5 @@ Robustness re-analysis on the fixed cohort of 17,518 learner–pitch trajectorie
 
 ## Related Claims
 - [Low-register pitches are sung more accurately than high-register pitches in Chinese classrooms, reproducing register compression at scale](register-compression-singing-accuracy-chinese-classrooms.md) — related
+- [Across a geometry curriculum, overall percent correct stays fairly constant over time while percent correct on actions involving a single skill increases, as ACT-R's knowledge-component claim predicts](constant-error-rate-rising-skill-correct.md) — related
+- [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — a broader claim this one bears on

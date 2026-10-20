@@ -47,3 +47,5 @@ Experiment 3A (final N = 40 UK adults recruited via Prolific; Gorilla platform; 
 - [Adults report greater curiosity about answers on incorrect-answer trials than on correct-answer trials](curiosity-higher-incorrect-than-correct-trials.md)
 - [Adults opt out of answering more on trials they later answer incorrectly, and curiosity is higher on opted-out trials (metacognitive control)](opt-out-more-on-incorrect-trials-curiosity-higher.md)
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md)
+- [Exposure to others' discrepant curiosity ratings reduces the curiosity gap between opted-out and non-opted-out trials and between incorrect and correct trials, altering metacognitive control](others-curiosity-discrepancy-alters-metacognitive-control.md) — related
+- [Participants' feedback-skipping decisions diverge from the optimal computer algorithm: they skip after some incorrect responses and fail to skip after many correct responses](skipping-decisions-diverge-from-computer.md) — related

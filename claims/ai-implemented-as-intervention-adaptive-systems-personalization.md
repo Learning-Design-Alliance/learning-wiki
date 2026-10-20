@@ -53,3 +53,4 @@ Classification of the 84 studies using the Bond et al. (2024) typology found "AI
 - Adaptive systems and personalisation research in AIHEd spans five subcategories, with chatbots/virtual assistants the most reviewed (n = 20) — related
 - AIHEd reviews focus mostly on General AIEd (47.0%) and Profiling and Prediction (28.8%), while key findings predominantly concern adaptive systems and personalisation (54.5%) — related
 - [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related
+- [Perceived AI-adaptive learning environments are negatively associated with college students' self-regulated learning in a three-wave longitudinal survey](ai-adaptive-environment-negative-srl-longitudinal.md) — related

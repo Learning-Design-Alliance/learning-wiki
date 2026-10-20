@@ -43,4 +43,7 @@ Control-group comparison in the classroom study of the new activity. The article
 
 
 ## Related Claims
--
+- [Strategic instruction in four learning strategies produced no significantly different reading comprehension gains than typical adult education instruction](learning-strategies-instruction-no-comprehension-gains-ae.md) — a narrower finding that bears on this claim
+- [Instructional lecture produced no immediate significant change in metacognitive knowledge or regulation of cognition](instructional-no-immediate-mkc-mrc-change.md) — related
+- [Students' performance improved from day 1 to day 2 of the TapaCarp activity](performance-improved-day1-to-day2-tapacarp.md) — related
+- [The tangible nature of TapaCarp helped integrate it in the classroom environment](tangible-nature-aided-classroom-integration.md) — related

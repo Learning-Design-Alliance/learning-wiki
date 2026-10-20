@@ -49,3 +49,5 @@ Interview findings from the case study: Lucy described two mentor teachers from 
 - [Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices](mentor-modelling-strategies-transfer-mentee-behaviour-management.md) — related
 - Novice ESL teachers in this study reported advocacy actions most often at the school level, not the classroom — related
 - School hierarchy and lack of seniority made advocacy challenging for novice ESL teachers, who relied on relationship building — related
+- [Students most often attributed their grammar-learning beliefs to their use of English outside the classroom, followed by high-school teachers and classmates](factors-shaping-grammar-beliefs-outside-use-top.md) — related
+- [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](coaching-responsibilities-mentoring-and-advocacy.md) — related

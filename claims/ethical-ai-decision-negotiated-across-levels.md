@@ -47,3 +47,4 @@ Synthesis of the seven-country comparative mapping in the Application and Result
 - [Neither ecological theory nor CHAT alone fully captures ethical AI use in education](neither-framework-alone-captures-ethical-ai-use.md) — related
 - [One student's resistance to GenAI was entangled with neurodiversity, a biological conception of authentic effortful learning, and anxieties about rapid technological change](genai-resistance-entangled-neurodiversity-authenticity.md) — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
+- [AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity](genai-instructional-design-tensions-agency-authorship.md) — related

@@ -45,3 +45,5 @@ Experiment within a reviewed study (Li et al., described by the review) in a com
 ## Related Claims
 - [Time delay and head pose variations relative to the screen were significant predictors of cheating, yielding 75.6% average detection accuracy](head-pose-time-delay-cheating-predictors.md) — related
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — related
+- [Eye-gaze-tracking-based proctoring systems report cheating-detection accuracies around 95–98% in their original studies](eye-gaze-proctoring-detection-accuracy-95-98.md) — related
+- [Head-pose-estimation-based proctoring systems report widely varying accuracies, from 75.6% for cheating detection to 100% for yaw-angle estimation](head-pose-proctoring-accuracy-range.md) — related

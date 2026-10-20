@@ -45,3 +45,8 @@ Transfer-after-exposure analysis in the same tutoring experiment, controlling fo
 ## Related Claims
 
 - [General biology students in the expansive condition transferred more of what they learned about the differential pressure principle (d = 1.2)](general-biology-transfer-of-learning-differential-pressure.md)
+- [Expansive framing increased transfer-of-knowing of the differential pressure principle (d = .95)](expansive-framing-boosts-differential-pressure-transfer-of-knowing.md) — related
+- [Expansive framing increased high school biology students' transfer-of-knowing of facts between body systems (d = .89)](expansive-framing-boosts-transfer-of-knowing-facts.md) — related
+- [A non-significant trend favored expansive framing on transfer-of-learning of facts (36% vs. 13%, p = .09)](transfer-of-learning-facts-trend-expansive.md) — related
+- [Students perceived the intended expansive versus bounded framing manipulation (d = 1.4)](students-perceived-framing-manipulation.md) — related
+- [Expansive framing increased spontaneous transfer of the diagram-drawing learning strategy (7 of 12 vs. 1 of 12 students)](expansive-framing-boosts-diagram-strategy-transfer.md) — related

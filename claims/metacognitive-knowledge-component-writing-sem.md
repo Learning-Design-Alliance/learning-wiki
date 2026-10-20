@@ -46,3 +46,6 @@ The study's stated design modeled three components — linguistic knowledge, met
 - [Writing proficiency components were studied and compared across L1 and L2 using the same modeling framework](cross-language-comparison-writing-components-sem.md) — related
 - [Fluency measures correlated with overall writing performance in both L1 and L2, but added no predictive value beyond linguistic knowledge](fluency-no-additional-value-beyond-linguistic-knowledge-writing.md) — related
 - [L2 writing proficiency was more highly correlated with L1 writing proficiency than with L2 linguistic knowledge or its accessibility](l2-writing-correlates-more-with-l1-writing-than-l2-knowledge.md) — related
+- [Metacognitive strategies directly and positively predict writing performance in both L1 and L2 task-situated writing](metacognitive-strategies-predict-l1-l2-writing-performance.md) — related
+- [Students unanimously report positive effects of metacognitive strategy use on writing in both L1 and L2, with strategies compensating for limited L2 linguistic knowledge](interview-evidence-metacognitive-strategies-help-l2-writing-compensatorily.md) — related
+- [L1 writing metacognitive strategies transfer to L2 writing, invariant across L2 proficiency and academic major groups](l1-l2-transfer-of-writing-metacognitive-strategies-invariant.md) — related

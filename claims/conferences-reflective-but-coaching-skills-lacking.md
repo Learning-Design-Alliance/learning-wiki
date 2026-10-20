@@ -48,3 +48,5 @@ Qualitative findings from principal interviews, focus groups, and case studies i
 - [Fifty-seven percent of principals were highly enthusiastic about the Framework-based evaluation process while 43 percent held mixed to negative attitudes](principal-attitudes-toward-framework-evaluation.md) — related
 - [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](reach-changing-practice-communication-collaboration.md) — related
 - [Principals were far more likely than trained external observers to rate the same instruction Distinguished rather than Proficient](principals-inflate-distinguished-ratings.md) — related
+- [Instructionally focused TPE implementation is seen as more valuable, while compliance-driven implementation increases teacher stress](instructional-versus-compliance-tpe-implementation.md) — related
+- [Principals' attitudes toward and framing of the REACH evaluation system shaped teachers' engagement with the evaluation process](principal-attitudes-shape-teacher-evaluation-engagement.md) — related

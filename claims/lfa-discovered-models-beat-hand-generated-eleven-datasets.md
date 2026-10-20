@@ -45,3 +45,5 @@ Automated LFA search over Q matrices was run on eleven DataShop datasets across 
 ## Related Claims
 
 - [LFA discovered that backward application of the circle area formula is a distinct, harder skill with no transfer from forward application](lfa-circle-area-backward-separate-skill.md)
+- [LT-MKT achieves the best performance across all four datasets and all three evaluation metrics against eleven KT baselines](lt-mkt-outperforms-kt-baselines-four-datasets.md) — related
+- [A DataShop-derived cognitive model of problem-decomposition planning skills improved learner mastery when used to redesign a geometry cognitive tutor unit](datashop-model-improved-geometry-mastery.md) — related

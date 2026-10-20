@@ -49,3 +49,4 @@ Moderated mediation analysis with 5,000 bootstrap samples in the 526-student sur
 - [Perceived employability partially mediates the relationship between AI employment threat perception and career decision-making anxiety](employability-partially-mediates-ai-threat-anxiety.md) — related
 - [Growth mindset moderates the negative effect of AI employment threat perception on perceived employability, weakening it at higher mindset levels](growth-mindset-moderates-ai-threat-employability-link.md) — related
 - [Perceived employability negatively predicts career decision-making anxiety among Chinese college students](perceived-employability-negatively-predicts-career-anxiety.md) — related
+- [AI anxiety directly and negatively predicts college students' career decisions](ai-anxiety-negatively-predicts-career-decisions.md) — related

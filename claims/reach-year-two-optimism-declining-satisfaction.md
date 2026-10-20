@@ -47,3 +47,4 @@ Survey of more than 19,000 teachers and nearly 800 principals and assistant prin
 - [Majorities of teachers and evaluators question the effort required by REACH, saying it takes more effort than the results are worth](reach-effort-questioned-more-effort-than-results-worth.md) — related
 - [Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation](reach-perceptions-stable-year-two-to-year-three.md) — related
 - [Teacher satisfaction with REACH was moderate overall but varied widely across schools](reach-satisfaction-varies-across-schools.md) — related
+- [Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning](reach-evaluation-perceived-instruction-improvement.md) — related

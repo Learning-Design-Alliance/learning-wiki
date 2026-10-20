@@ -47,3 +47,5 @@ A one-shot case study evaluated satisfaction of 60 undergraduates recruited by s
 - [Experts rate the model's individual elements as appropriate at the highest level overall (Mean = 4.65, S.D. = 0.27), with learning achievement output rated High](cilm-individual-elements-assessment.md) — related
 - Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking — related
 - Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams — related
+- [Learning and innovation skills outcomes: 15 innovations from the game design program and six from the mathematics CAI program, with all students working creatively with others](innovation-skills-by-program-outcomes.md) — related
+- [Autonomy, diversity, interactivity, openness and Web 2.0 showed a positive significant effect on students' achievement in a structural model](connectivist-principles-positive-effect-achievement.md) — related

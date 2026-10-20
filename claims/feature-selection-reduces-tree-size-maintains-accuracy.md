@@ -45,3 +45,4 @@ Results across the four courses comparing DT, DT+CFS and DT+GR. The article repo
 ## Related Claims
 - [Decision tree classifiers trained on slide interaction features predict end-of-module outcomes with high accuracy across four K-12 programming courses](dt-slide-interaction-features-predict-module-outcomes.md) — related
 - [Completion of prior problem slides is the most critical predictor of completing a module's final exercise, consistent with the doer effect](problem-slide-completion-top-predictor-doer-effect.md) — related
+- [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related

@@ -48,3 +48,5 @@ A single-group pretest–posttest study of 61 undergraduates in a 15-week ER cou
 - [Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)](er-reduced-anxiety-efl-reading-attitude.md) — related
 - Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety — related
 - [The effect of extensive reading on reading attitude varied by attitude component, shown by a significant time × attitude interaction (ηp² = .168)](er-time-attitude-interaction-omnibus.md) — related
+- [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
+- [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related

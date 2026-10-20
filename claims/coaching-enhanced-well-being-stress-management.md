@@ -45,3 +45,7 @@ Interview responses to the third research question on well-being. All seven part
 ## Related Claims
 
 - [Students most valued the caring, accountable relationship with their coach, reporting motivation, confidence, and accountability gains](caring-accountable-coach-relationship-benefits.md)
+- [ADHD coaching helped college students with ADHD set more specific goals broken into component steps with incremental deadlines](adhd-coaching-improved-goal-attainment-process.md) — related
+- [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — a broader claim this one bears on
+- [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related
+- [Coached students reported growing use of self-talk as an executive functioning strategy, with one exception](self-talk-growth-attributed-to-coaching.md) — related

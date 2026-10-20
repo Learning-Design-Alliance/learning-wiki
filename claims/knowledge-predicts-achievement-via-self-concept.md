@@ -47,3 +47,4 @@ SEM path analysis of fifth-grade data (n = 213) showed knowledge directly predic
 - [Epistemic beliefs about the development of scientific knowledge directly predict domain knowledge in science across grades 5, 8, and 11](development-epistemic-beliefs-predict-science-knowledge.md)
 - [Performance-avoidance goals negatively predict both self-concept and self-efficacy across all three grade levels](performance-avoidance-goals-negative-self-beliefs.md)
 - [The integrated model explains substantially less variance in science achievement at eleventh grade (17%) compared to fifth (41%) and eighth (38%) grades](model-variance-decreases-across-grades.md) — related
+- [Dimensional comparisons: achievement–self-concept paths are positive in similar subjects but negative in dissimilar subjects](moller-2020-dimensional-comparisons-path-coefficients.md) — related

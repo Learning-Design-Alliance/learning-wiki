@@ -55,3 +55,8 @@ This is a small, purposive case study (3 focal youth from a 17-participant camp)
 - [Well-defined tasks and accessible materials support shared creative influence in group work](well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) — related
 - [Material choice shapes conceptual learning and who feels invited to learn](material-choice-shapes-conceptual-learning-and-participation.md) — related
 - [Organized (vs. non-organized) youth sport participation is associated with lower adult creativity](organized-sport-lower-adult-creativity.md) — related
+- [In fabric manipulation, the algorithmic performance was contingent on repeated combinations of components paired with steps of the craft](fabric-manipulation-algorithm-component-confluence.md) — related
+- [Computation in fabric manipulation is characterized as speculative physical 3D modeling](fabric-manipulation-speculative-3d-modeling.md) — related
+- [Algorithms developed over time through changes in youth-material collaborations, defining learning as physical expansion of algorithmic production](algorithms-expand-over-time-youth-material-changes.md) — related
+- [In weaving, performed algorithms emerged as repeated youth-material movements one dimension at a time, producing reliable fabric outputs](weaving-algorithm-one-dimension-at-a-time.md) — related
+- [Neither youth nor loom alone drove the algorithmic production and fabric output; both actively produced it collaboratively](neither-youth-nor-loom-alone-drove-algorithm.md) — related

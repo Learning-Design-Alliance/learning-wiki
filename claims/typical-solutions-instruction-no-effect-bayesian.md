@@ -46,3 +46,5 @@ Same 2×2 experiment (N = 75): the ANOVA on conceptual knowledge found no signif
 - [In a Bayesian-reasoning replication, problem-solving prior to instruction (PS-I) showed no significant advantage over instruction-first (I-PS) on conceptual knowledge](ps-i-no-effect-conceptual-bayesian-replication.md) — related
 - [PS-I effects did not replicate in all domains: null sequence effects in Bayesian reasoning, javelin throwing, and inquiry-skill sequencing](ps-i-null-results-new-domains.md) — a broader claim this one bears on
 - [No significant interaction between order of phases and type of instruction on conceptual knowledge in the Bayesian-reasoning replication](ps-i-instruction-interaction-null-bayesian.md) — related
+- [Students' generated solutions rarely matched the erroneous solutions included in the explicit instruction phase](mismatch-generated-instructed-solutions-bayesian.md) — related
+- [PS-I sequence outperforms I-PS on conceptual knowledge only when instruction builds on student solutions](ps-i-superior-only-with-student-solutions.md) — related

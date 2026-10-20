@@ -49,3 +49,6 @@ Meta-regression analyses from the review comparing instructional methods while a
 - [Content domain shows little association with effect sizes, except fractions in mathematics](content-domain-little-effect-fractions-exception.md) — related
 - [Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions](small-group-instruction-outperforms-cai-incentives.md) — a narrower finding that bears on this claim
 - [Effect sizes based on mathematics tests are significantly larger than effect sizes based on reading tests in targeted secondary interventions](math-test-effects-larger-than-reading.md) — related
+- [Peer-assisted instruction and small-group instruction by adults have statistically significant, robust short-term effects (ES about 0.35–0.45) for K-6 struggling students](peer-assisted-and-small-group-instruction-most-effective.md) — related
+- [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
+- [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related

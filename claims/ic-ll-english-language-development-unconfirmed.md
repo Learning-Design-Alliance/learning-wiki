@@ -49,3 +49,4 @@ Quasi-experimental study of 84 fifth-grade English language learners. Appendix A
 ## Related Claims
 - [Greenwood et al. (1993) reported a statistically significant CWPT effect on CTBS-Reading, but the WWC-corrected analysis was not statistically significant](cwpt-ctbs-effect-significance-discrepancy.md) — related
 - [In a five-year quasi-experimental study, the intervention program showed a statistically significant positive effect on fifth-grade reading performance assessment but not on the CTBS Reading subtest](ic-ll-longitudinal-reading-quasi-experiment.md) — related
+- [VIP shows no statistically significant or substantively important impacts on PPVT-R and Morphology outcomes for English language learners](vip-null-ppvt-morphology-impacts.md) — related

@@ -46,3 +46,5 @@ Detailed discursive analysis of Case A, a 40-minute visit with 235 turns of talk
 
 - [In encounters where both parties are predominantly expansive, early cycle actions such as questioning and modeling are typically absent and the focus is on implementing and consolidating](both-expansive-encounters-skip-early-cycle-actions.md)
 - [Clients shifted between defensive and expansive stances nearly twice as often as workers, and initiatives connected to physical actions were more effective than verbal hints at triggering shifts](stance-shifts-clients-outpace-workers-physical-actions-effective.md)
+- [Encounters with a mismatch between client's and worker's learning cycles typically contained all or almost all learning actions of the ideal-typical expansive cycle](mismatched-cycles-produce-fuller-learning-cycles.md) — related
+- [In 30 home care visits implementing the Mobility Agreement, the most common cycle combination was client-expansive and worker-expansive (40%), yet at least one party was predominantly defensive in 60% of cases](home-care-cycle-combination-distribution.md) — related

@@ -49,3 +49,4 @@ The snapshot reports that hiring and transfer patterns across the 26 districts a
 - [A small subset of study districts shows meaningful inequity in low-income students' access to effective math teachers](math-inequity-subset-districts.md) — related
 - [High- and low-income students have similar chances of being taught by the most and least effective teachers](similar-access-most-least-effective-teachers.md) — related
 - [Teacher attrition, mobility, and hiring jointly contribute to teacher quality gaps between students of color and other students](three-processes-contribute-teacher-quality-gaps.md) — related
+- [Eliminating attrition inequities alone does little to close teacher quality gaps](attrition-equity-alone-little-tqg-effect.md) — related

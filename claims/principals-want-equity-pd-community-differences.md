@@ -65,3 +65,4 @@ Subgroup analysis by community type (Figure 6); the article reports this and the
 - [Elementary principals most frequently want professional development on whole child education, with rural principals especially likely to want physical and mental health content](principals-want-whole-child-pd.md) — related
 - [State policy differences shape principals' access to high-quality learning: California principals report more access than national peers, North Carolina principals less](state-policy-shapes-principal-learning-access.md) — related
 - [Equity-oriented leadership preparation through applied and reflective learning can deepen aspiring principals' understanding of bias and equitable practices](equity-oriented-principal-preparation.md) — related
+- [Most U.S. elementary school principals report access to professional development content identified as important for building leadership capacity](principals-access-pd-content-leadership-capacity.md) — related

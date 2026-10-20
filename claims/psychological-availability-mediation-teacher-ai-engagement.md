@@ -45,3 +45,6 @@ Bootstrapping with 5000 resamples on the three-wave survey (N = 468); Table 5 re
 ## Related Claims
 - [Work alienation mediates a negative pathway from teacher–AI collaboration to work engagement](work-alienation-mediation-teacher-ai-engagement.md) — related
 - [Teacher–AI collaboration is positively related to university teachers' work engagement](teacher-ai-collaboration-positively-related-work-engagement.md) — related
+- [Digital competency strengthens the positive relationship between teacher–AI collaboration and psychological availability](digital-competency-strengthens-tac-availability-link.md) — related
+- [The indirect effect of AI literacy on engagement via psychological capital strengthens as professional commitment rises (moderated mediation)](moderated-mediation-conditional-indirect-effect.md) — related
+- [Digital competency weakens the positive relationship between teacher–AI collaboration and work alienation](digital-competency-weakens-tac-alienation-link.md) — related

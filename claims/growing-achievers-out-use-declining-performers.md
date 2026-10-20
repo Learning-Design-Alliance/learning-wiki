@@ -68,3 +68,4 @@ Differences in Initial Inquiry behavior were significant, H(3) = 10.50, p = .015
 - [Higher-achieving graduate students were less likely to abstain entirely from StatBot use](higher-final-grades-less-likely-zero-use.md) — related
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
 - [The six clusters differ substantially in academic performance: Final Grade ANOVA η² = 0.770, with C0 exceeding C1 by 40.17 exam-score points](cluster-performance-anova-tukey.md) — related
+- [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related

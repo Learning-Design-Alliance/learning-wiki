@@ -52,3 +52,7 @@ Pearson correlation analysis (Table 2) in the 315-student sample, where mean AI 
 - [Self-efficacy does not significantly moderate the relationship between AI anxiety and career decisions](self-efficacy-moderation-insignificant-ai-anxiety.md) — related
 - [AI anxiety is moderately and positively correlated with university students' job finding anxiety](ai-anxiety-correlates-job-finding-anxiety.md) — related
 - [Career adapt-abilities significantly and negatively predict AI anxiety among English majors](career-adapt-abilities-negatively-predict-ai-anxiety-english-majors.md) — related
+- [AI anxiety is positively and significantly correlated with job search anxiety among health sciences students](ai-anxiety-correlates-job-search-anxiety-health-students.md) — related
+- [AI employment threat perception positively predicts career decision-making anxiety among Chinese college students](ai-employment-threat-perception-predicts-career-decision-making-anxiety.md) — related
+- [Perceived employability negatively predicts career decision-making anxiety among Chinese college students](perceived-employability-negatively-predicts-career-anxiety.md) — related
+- [Negative AI attitudes correlate positively with job finding anxiety more strongly than positive AI attitudes](negative-ai-attitudes-correlate-job-finding-anxiety.md) — related

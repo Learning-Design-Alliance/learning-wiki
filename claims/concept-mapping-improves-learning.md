@@ -151,3 +151,10 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 - [Self-constructing a complete concept map produces better delayed recall than completing, sorting a map, or writing a summary, with the largest effect in the I+C structure](self-constructed-cm-better-recall.md) — a narrower finding that bears on this claim
 - [Self-constructed collaborative concept maps trigger more deep exploratory talk and less non-dialogic talk than completing or sorting maps, which yield mostly superficial exploratory talk](self-constructed-cm-deep-exploratory-talk.md) — related
 - [AI shifts the learner's role from producer to evaluator of mathematical meaning across multiple generative strategies](production-to-evaluation-shift-generative-strategies.md) — related
+- [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) — related
+- [Task type and activity structure interact on recall: self-constructed maps help mainly when individually prepared and then discussed in pairs](task-structure-interaction-recall.md) — a narrower finding that bears on this claim
+- [The same quizzing or concept-mapping activity produces more learning when done without viewing the material, as retrieval, than while viewing it](closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions.md) — related
+- [Merely adding an expert example concept map does not add to the value of students creating their own concept maps for this population](expert-example-alone-no-learning-gain-concept-mapping.md) — related
+- [High cognitive activities were positively associated with essay quality but not with concept maps](high-cognition-essay-not-concept-maps.md) — related
+- [No evidence for a mapping between representational format and enhancement of a specific kind of understanding](no-format-knowledge-type-mapping.md) — reports the opposite
+- [Triads with access to each other's concept maps were more efficient in collaborative problem solving](shared-concept-maps-improve-triad-efficiency.md) — a narrower finding that bears on this claim

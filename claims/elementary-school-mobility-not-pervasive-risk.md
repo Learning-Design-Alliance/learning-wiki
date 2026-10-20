@@ -45,3 +45,5 @@ Overall conclusion of the prospective longitudinal study (N = 1094, ages 5.6 to 
 ## Related Claims
 - [School closings, new school openings, CHA demolitions, and NCLB transfers each affected fewer than 1 percent of CPS students per year, though receiving schools saw summer in-mobility rise by almost 13 percentage points](policy-initiatives-small-system-level-effect.md) — related
 - The study design separately examined recent-year moves and cumulative moves across elementary school in relation to child functioning — a broader claim this one bears on
+- [A recent school move or a single move shows no evidence of relation to children's academic or social functioning](recent-single-school-move-no-functioning-link.md) — a narrower finding that bears on this claim
+- [Elementary student mobility in CPS is predominantly a within-district phenomenon, with CPS-to-CPS transfers accounting for 50-60 percent of school-year transfers and two-thirds of summer transfers](elementary-mobility-within-district.md) — related

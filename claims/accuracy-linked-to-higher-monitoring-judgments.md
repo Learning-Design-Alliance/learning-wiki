@@ -44,3 +44,8 @@ Independent-samples t-tests comparing monitoring judgments of accurate vs. inacc
 
 ## Related Claims
 - [A minority of item judgments show downregulation of confidence after pre-monitoring, suggesting differentiated evaluation can sometimes trigger more accurate monitoring](confidence-downregulation-after-pre-monitoring.md) — related
+- [Adults randomly assigned to a worked-example educational intervention made higher post-intervention monitoring judgments on health math problems than control participants](worked-example-intervention-raised-monitoring-judgments.md) — related
+- [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related
+- [Math anxiety explained variance in posttest monitoring judgments beyond trait anxiety, supporting its distinctness from general anxiety](math-anxiety-distinct-from-trait-anxiety-in-monitoring.md) — related
+- [Math anxiety mediated the effect of gender on pretest monitoring judgments in exploratory analyses](math-anxiety-mediates-gender-effect-on-monitoring.md) — related
+- [Math self-efficacy (first four SNS items) was the only variable significantly predicting monitoring judgments on all four health math problems](math-self-efficacy-predicts-monitoring-judgments.md) — related

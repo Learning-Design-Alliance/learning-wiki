@@ -45,3 +45,6 @@ The review cites prior empirical work by Zhao et al. (2019) showing that facial 
 ## Related Claims
 - [A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — related
 - [Manipulating anthropomorphism shows no clear causal effect on trust in controlled post-generative-AI studies, though long-term use and cue type condition its effects](anthropomorphism-no-clear-causal-effect-on-trust.md) — related
+- [Trust evaluations were strongly and positively correlated across all robot–task combinations, suggesting trust in social robots may be a stable, generalized attitude](trust-stable-generalized-attitude-robots.md) — related
+- [Robot communication cues affect sense of agency: predicted-path display and averted gaze reduce it, direct gaze raises it, and facial expression shows no effect](robot-communication-cues-sense-of-agency.md) — related
+- [Participants generally felt humanlikeness should not be a design goal for a writing-support agent used as a tool](participants-prefer-tool-over-humanlike-agent.md) — a narrower finding that bears on this claim

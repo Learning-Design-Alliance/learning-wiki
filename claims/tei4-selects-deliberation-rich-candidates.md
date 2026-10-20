@@ -44,3 +44,4 @@ Schoenfeld phase analysis of thinking-trace paragraphs (Table 9, GPT-4o-mini par
 ## Related Claims
 - [TEI@N inference-time selection raises the improvement rate on pre-incorrect math scenarios from 59.0% to 81.9% at N=8 over Greedy on a frozen DeepSeek-R1-8B base](tei-selection-raises-improvement-rate-pre-incorrect.md) — related
 - [On the same frozen base, TEI@4 beats both DTR@4 and Greedy on Δ Solve Rate, leak rate, and composite R_total at no training cost](tei4-beats-dtr4-and-greedy-same-base.md) — related
+- [DTR (Deep-Thinking Ratio) does not predict tutoring quality despite predicting math accuracy](dtr-does-not-predict-tutoring-quality.md) — related

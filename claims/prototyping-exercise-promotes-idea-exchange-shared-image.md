@@ -46,3 +46,7 @@ Evaluation of the workshop form across all four cases. Building physical prototy
 
 - [Examples of features from the original research context in the guidebook helped participants understand the design principles and relate them to their own HLC](context-examples-enhance-understanding-design-principles.md)
 - [A boundary crossing intervention led most interprofessional design team members to perceive a set of HLC design principles as useful for structuring knowledge and gaining an overview of HLC design](boundary-crossing-intervention-enhances-perceived-usefulness-design-principles.md) — related
+- [Collaborative technologies support learning by enabling learners to share and exchange both ideas and their own digital products](collaborative-technologies-enable-sharing-ideas-and-digital-products.md) — related
+- [Engineering, product design, and service design teams differ significantly in shared epistemic agency during collaborative prototyping](design-disciplines-differ-shared-epistemic-agency-prototyping.md) — related
+- [All teams showed divergent-then-convergent idea improvement patterns across prototyping sessions](divergent-convergent-idea-improvement-prototyping.md) — related
+- [Differences in shared epistemic agency between design teams change across prototyping phases](epistemic-agency-changes-across-phases.md) — related

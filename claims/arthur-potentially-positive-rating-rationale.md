@@ -45,3 +45,5 @@ The WWC intervention rating scheme requires two or more studies showing statisti
 ## Related Claims
 - [Watching Arthur improves English narrative skill development in kindergarten English language learners more than an alternative educational program (potentially positive effects)](arthur-potentially-positive-narrative-skill-effects.md) — possibly the same claim (merge candidate)
 - [The WWC rated JOBSTART as having potentially positive effects on completing school, based on a small extent of evidence from a single study](jobstart-wwc-potentially-positive-rating.md) — related
+- [The WWC rates The Expert Mathematician as having potentially positive effects on middle school mathematics achievement](wwc-potentially-positive-rating-expert-mathematician.md) — related
+- [The supporting evidence is a randomized controlled trial in which 108 kindergarten English learners watched 54 episodes of Arthur or Between the Lions over one school year](arthur-uchikoshi-rct-design.md) — related

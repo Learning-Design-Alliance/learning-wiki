@@ -75,3 +75,8 @@ Meta-analysis of 54 experimental/quasi-experimental studies (k=141 effect sizes)
 - [Providing a rubric does not significantly improve relative accuracy of self-assessment across criteria](rubrics-no-effect-relative-accuracy.md) — related
 - [Most moderator variables are not significantly related to rubric effects on academic performance, including rubric design specifics](rubric-moderators-mostly-non-significant.md) — related
 - [Using rubrics has a positive, moderate effect on students' academic performance (corrected g = 0.45; standardized mean change = 0.38)](rubrics-moderate-positive-effect-academic-performance.md) — related
+- [Quality control in peer assessment can be exercised proactively or reactively on students and their assessments](peer-assessment-quality-control-proactive-reactive.md) — related
+- [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — reports the opposite
+- [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
+- [For self-regulated learning outcomes, rubrics combined with both self- and peer assessment show a significantly larger effect than rubrics with self-assessment alone](rubrics-srl-self-plus-peer-assessment-larger-effect.md) — related
+- [Holistic peer feedback correlated significantly with tutor marks while specific-criteria rubric feedback did not in the PEARS system](pears-holistic-feedback-correlates-tutor-marks-specific-does-not.md) — related

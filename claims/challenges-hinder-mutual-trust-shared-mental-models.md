@@ -45,3 +45,5 @@ The editorial summarizes Kazemitabar, Lajoie and Li's qualitative theory-driven 
 ## Related Claims
 - [Hackathon teams face 16 general challenges across seven types that hamper teamwork](hackathon-teamwork-challenges-sixteen-general-seven-types.md) — a broader claim this one bears on
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
+- [Constructive conflict positively predicts the development of a shared mental model of the task in teams](constructive-conflict-builds-shared-mental-models.md) — related
+- [Co-construction alone does not contribute to shared mental model development and shows a negative unique effect](co-construction-alone-hinders-shared-mental-models.md) — related

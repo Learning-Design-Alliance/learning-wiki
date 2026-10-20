@@ -43,4 +43,7 @@ Null result from the same 3×2 ANCOVA design, using total word count of written 
 
 
 ## Related Claims
--
+- [Reading comprehension uniquely adjusted behavioral engagement, with better comprehenders investing more time and writing longer responses](reading-comprehension-adjusts-engagement.md) — related
+- [Both the course and the assistant increase behavioral engagement, measured as characters written per journaling prompt](course-and-assistant-increase-writing-engagement.md) — reports the opposite
+- [AI-peer integrated feedback produces significantly higher posttest behavioral engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-behavioral-engagement.md) — related
+- [No significant medium, context, or interaction effects on integration of information across complementary texts or videos](no-medium-context-effect-integration.md) — related

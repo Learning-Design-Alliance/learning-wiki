@@ -51,3 +51,4 @@ A leader interviewed in the study stated that "if there is not trust or trusting
 - [Technical restorative practices implementation falls short when the adaptive components of values, mindsets, and beliefs have not shifted](adaptive-shift-precedes-technical-restorative-success.md) — related
 - [Relational trust built through prior rigorous evaluation was a precondition for introducing participatory approaches](relational-trust-precondition-participatory.md) — related
 - State administrators stress building trust with schools and districts as a foundation for supportive school improvement relationships — a narrower finding that bears on this claim
+- [RPP workshops on concrete equity mechanisms influenced instructor practice within one term](rpp-equity-workshops-influenced-instructor-practice.md) — related

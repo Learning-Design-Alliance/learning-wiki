@@ -44,3 +44,4 @@ Frequency analysis of the Linking code over all groups: 206 linkages, of which 1
 
 ## Related Claims
 - [Agency, information, linking, and meta-discourse dimensions appeared infrequently in the dataset despite their theoretical importance](agency-information-linking-meta-discourse-infrequent.md) — related
+- [This issue's Knowledge Forum study is reported to show a clear impact of meta-discourse on collaboration that widened over time](meta-discourse-impact-widened-over-time.md) — related

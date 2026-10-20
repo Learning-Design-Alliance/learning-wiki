@@ -48,3 +48,4 @@ Statement from the Preface and Introduction, following its discussion of renewed
 - [Iterate averaging with step sizes decreasing slower than O(1/n) converges at an optimal rate](polyak-juditsky-iterate-averaging-optimal-rate.md) — related
 - OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT — related
 - [Optimal play in coordination games requires estimating a partner's degree of recursion and one's certainty in that estimate](stag-hunt-recursive-metacognitive-estimates.md) — related
+- [Hyperparameter sweeps reproduce the lesson's claims: γ = 0 never solves the task while ε = 1 still converges](hyperparameter-sweeps-reproduce-lesson-claims.md) — related

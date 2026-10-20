@@ -65,3 +65,5 @@ The review reports, citing Pels (1998) and Phalet and Schönpflug (2001b), that 
 
 - [Bicultural identity and integration-type acculturation attitudes are most conducive to minority students' school success, with weak or inconsistent associations for ethnic identification alone](bicultural-identity-integration-school-success.md)
 - [The attitude-achievement paradox: disadvantaged minority youth may show low achievement despite high motivation to achieve upward mobility through schooling](attitude-achievement-paradox-minority-youth.md)
+- [Family stress and family investment models explain mediating processes of SES influence](ses-family-stress-investment-mediation.md) — related
+- [SSWs perceive meso-level community and school contexts, including 287g programs and ICE activity, as shaping immigrant families' fear and access](ssws-perceive-meso-community-school-contexts.md) — related

@@ -45,3 +45,5 @@ Post hoc descriptive analysis of registered pre-monitoring judgments: "88.3% (N 
 ## Related Claims
 - [Pre-monitoring judgments before recognition increase rather than decrease overconfidence in kindergartners and second graders](pre-monitoring-increases-overconfidence-children.md) — related
 - [Pre-monitoring and retrospective confidence judgments are highly consistent, with most agreement at the highest scale level regardless of correctness](pre-monitoring-confidence-judgment-consistency.md) — related
+- [The literature is mixed on age differences in the accuracy of retrospective confidence judgments during recognition memory tests, with older adults sometimes producing more high-confidence false alarms and poorer resolution with deceptive lures](mixed-age-differences-confidence-judgment-resolution.md) — related
+- [All children in the study showed adequate metacognitive processes before and during test taking](all-children-adequate-metacognitive-processes-test-taking.md) — related

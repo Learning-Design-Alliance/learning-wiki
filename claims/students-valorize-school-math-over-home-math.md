@@ -43,4 +43,4 @@ The review reports, citing de Abreu (1995) and de Abreu & Kline (2006), that stu
 
 
 ## Related Claims
--
+- [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](funds-of-knowledge-research-raises-teacher-expectations.md) — related

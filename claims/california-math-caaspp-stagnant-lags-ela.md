@@ -54,3 +54,4 @@ Descriptive analysis of statewide CAASPP cohort data (Tables 1 and 2) shows math
 - [In a California survey, 92 percent of elementary teachers reported limited time for science and 81 percent said English language arts and math emphasis made finding science time difficult](california-elementary-science-time-survey.md) — related
 - [Students experiencing homelessness meet or exceed state achievement standards at far lower rates (29% ELA, 19% mathematics) than students statewide (48%, 37%)](homeless-students-lower-caaspp-achievement.md) — related
 - [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — related
+- [Gateway middle and high school students met or exceeded state standards at higher rates than students statewide on CAASPP tests in most years and subjects](gateway-caaspp-outperforms-statewide.md) — related

@@ -47,3 +47,4 @@ Chi-square analysis of the association between prospective teachers' fields of s
 - [Exploration simulations increased with teaching age level and were concentrated in secondary science subjects](exploration-simulations-rise-with-age-and-science.md) — possibly the same claim (merge candidate)
 - [Most prospective teachers produced dynamic simulations rather than tutoring scripts, with 46% adding inquiry-oriented exploration](most-prospective-teachers-produce-dynamic-simulations.md) — related
 - Study orientation is significantly associated with publication type: computer science/AI-oriented work is disseminated disproportionately through conference papers — related
+- [Disciplinary background is strongly associated with ChatGPT acceptance profile membership: STEM teachers concentrate in Technology Pioneers, non-STEM teachers in Environmental Observers and Resistant Skeptics](discipline-associates-with-acceptance-profile.md) — related

@@ -50,3 +50,6 @@ Descriptive results from the ten-item Principal Leadership scale. The report con
 - [Teacher-reported trust and influence vary sharply between top- and bottom-quartile schools on leadership measures](teacher-trust-influence-quartile-differences.md) — related
 - [Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools](teacher-principal-trust-top-vs-bottom-quartile.md) — related
 - About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership — related
+- [Facilitative, inclusive principal leadership and effective principal supervision are associated with more positive trust relations](principal-leadership-associated-with-trust-relations.md) — related
+- [Teacher views of Local School Council contribution differ sharply between top and bottom quartile schools](lsc-contribution-views-differ-top-bottom-quartile-schools.md) — related
+- [Teacher influence over school decisions is minimal or limited for most teachers in bottom quartile schools but extensive or moderate for most in top quartile schools](teacher-influence-quartile-contrast.md) — related

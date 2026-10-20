@@ -47,3 +47,5 @@ An experiment embedded in the 2006 National Survey of Student Engagement compare
 - Latent variable models can be used to detect individual variability in the interpretation of vague quantifiers of behavioral frequency — related
 - Differential interpretation of vague quantifiers is best represented as variability between latent interpretation classes — related
 - [Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling](latent-variable-models-limit-grain-size.md) — related
+- [Scovel argued anxiety is not a simple, unitary construct quantifiable into high or low amounts](scovel-anxiety-not-unitary-construct.md) — related
+- [Defining and quantifying reliability and measurement error is particularly challenging in epistemic games for three principal reasons](reliability-challenges-epistemic-games.md) — related

@@ -45,3 +45,4 @@ Thematic analysis of director interview responses on center mission and vision a
 ## Related Claims
 - [Nearly all responding SSSCs conducted trainings in 2021, with reporting centers documenting over a thousand training events reaching tens of thousands of participants](sssc-training-volume-2021.md) — related
 - [Most SSSCs have small staffs (over 75% with 10 or fewer staff) yet engage in a wide range of activities, led by technical assistance (93%) and training (86%)](ssscs-small-staff-wide-activity-range.md) — related
+- [SSSCs collaborate with a range of state organizations, most commonly through co-branding or sharing information externally](sssc-collaboration-co-branding-information-sharing.md) — related

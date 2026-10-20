@@ -50,3 +50,7 @@ The report summarizes prior Consortium research on Chicago public schools since 
 - [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](sustained-weakness-one-support-few-improve.md) — related
 - [Chicago students gain most in achievement when strong academic press and strong social support occur together, and learn less when either is strong and the other weak](press-plus-support-combined-gains.md) — a narrower finding that bears on this claim
 - Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains — a narrower finding that bears on this claim
+- [Schools strong in the essential supports are more likely to improve student learning over time](essential-supports-strong-schools-improve-learning.md) — possibly the same claim (merge candidate)
+- [Academic achievement is more likely in classrooms that combine personalism with a strong press toward academic work](personalism-plus-press-toward-academic-work-achievement.md) — related
+- [Schools that improved focused on multiple mutually-reinforcing aspects of school organization rather than a single aspect](multi-area-mutually-reinforcing-improvement-distinguishes-strong-schools.md) — related
+- [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](essential-supports-mutual-trust-reinforce-each-other.md) — related

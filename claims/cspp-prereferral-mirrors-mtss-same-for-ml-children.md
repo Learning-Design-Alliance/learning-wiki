@@ -48,3 +48,8 @@ Qualitative interview study of 13 coordinators overseeing CSPP, TK, or both acro
 - [Bilingual staff help differentiate typical language development from disability, but interviewees described no systematic process for doing so](bilingual-staff-differentiation-no-systematic-process.md) — related
 - [Systems constraints on pre-referral include lack of appropriate observation tools, over-identification fears, and COVID-19 effects](prereferral-constraints-tools-perceptions-covid.md) — related
 - Multidisciplinary team collaboration is the most prominent theme in research on supports for multilingual learners with suspected disabilities — related
+- [Learning behaviors of typical multilingual development can resemble those of disability, complicating accurate identification](language-development-disability-behavior-overlap.md) — related
+- [KSDE established a statewide infrastructure — Core Team, facilitators, symposium, and website — that respondents rate as effectively supporting MTSS](kansas-mtss-state-infrastructure-support.md) — related
+- [Most implementing schools report MTSS positively affecting benchmark scores, state assessment proficiency, discipline referrals, and special education referrals](kansas-mtss-schools-report-student-outcome-gains.md) — related
+- [Kansas schools are progressing from exploration to more advanced MTSS implementation stages over time](kansas-mtss-implementation-stages-advancing.md) — related
+- [Subgroup analyses indicate school staff identification and referral services and informal networks both contribute to learning-mode differences in children’s SSI applications](school-staff-referral-and-informal-networks-drive-ssi-applications.md) — related

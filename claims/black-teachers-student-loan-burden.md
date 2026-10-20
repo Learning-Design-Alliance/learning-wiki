@@ -60,3 +60,4 @@ Descriptive analysis of national teacher survey data on student loan borrowing, 
 - [Beginning teachers borrow at much higher rates than experienced teachers, with about 65% of teachers in their first 10 years having ever borrowed versus 41.4% of those with more than 30 years](novice-teachers-higher-borrowing-rates.md) — related
 - [Special education teachers are the most likely of all subject-area teachers to have borrowed (65.2%) and to owe their entire balance (15.4%)](special-education-teachers-highest-loan-burdens.md) — related
 - Student loan debt exceeds $1 trillion, with Pell Grant graduates averaging more than $24,000 in loans and for-profit-college bachelor's recipients most likely to exceed $30,500 — related
+- [Teachers of color report more workplace stress and dissatisfaction than White teachers](teachers-of-color-workplace-stress-dissatisfaction.md) — related

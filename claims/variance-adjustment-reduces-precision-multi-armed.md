@@ -48,3 +48,4 @@ Analytical methodological result derived from the article's key insight about pa
 - In multi-armed trials seeking the most effective treatments, each pairwise contrast sample is representative of the full set of randomized units — related
 - Appropriate average treatment effect estimators can be derived for both finite-population and super-population models of clustered RCTs — related
 - [In time-series field studies of behavior modification, all 17 quasi-d feedback effects were positive with a mean quasi-d of 1.69](fi-time-series-field-studies-all-positive.md) — related
+- [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related

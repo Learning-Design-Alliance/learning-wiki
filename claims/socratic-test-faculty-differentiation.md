@@ -51,3 +51,5 @@ Qualitative instructor report from the Spring 2026 pilot (Section 6.1). The inst
 - [Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback](clustering-cluster-differentiated-feedback-ttx.md) — related
 - [Integrating cognitive scores with non-cognitive learner attributes enables the system to dynamically adapt AI-generated explanations in tone, depth and instructional strategy to individual learner performance](cognitive-noncognitive-integration-adapts-ai-explanations.md) — related
 - [Expert EAP reviewers rated GenAI-generated differentiated materials favorably for academic fidelity, proficiency appropriateness, and teachability](genai-eap-materials-favorable-expert-ratings.md) — related
+- [Immediate, informative test results enable teachers to differentiate instruction to individual needs](immediate-adaptive-test-results-enable-differentiation.md) — related
+- [Over 80% of pilot students agreed the AI proctor accurately understood their responses and scaffolded them appropriately](socratic-test-pilot-scaffolding-acceptance.md) — related

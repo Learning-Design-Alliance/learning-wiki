@@ -67,3 +67,9 @@ Open questions include how much scaffolding invention tasks should provide, how 
 - [Pre-service teachers preparing with a worked example outperform inventing peers on transfer of learning-strategy assessment skills](worked-example-preparation-higher-transfer-than-inventing.md) — related
 - [Metacognitive scaffolding during guided invention improved conceptual features, dataset ranking accuracy, and learning-strategy behaviors over unguided invention](metacognitive-scaffolding-guided-invention-gains.md) — related
 - [Struggling with a challenging task before receiving instruction prepares learners to benefit from explicit connections](struggle-before-instruction-prepares-for-learning.md) — possibly the same claim (merge candidate)
+- [Preparation method produced no substantial motivational differences in interest or self-efficacy in this replication](no-motivational-differences-worked-versus-inventing.md) — related
+- [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](pf-outperformed-di-variance-conceptual-transfer.md) — related
+- [Productive failure: student groups who score lower on individual post-tests may have experienced deeper learning leading to superior future performance](productive-failure-deeper-learning-lower-posttests.md) — related
+- [Exploration-first students transfer MVC-strategy Efficiency better, with condition-by-Task-2 interactions for Efficiency and Quality](exploration-first-transfers-mvc-efficiency.md) — a narrower finding that bears on this claim
+- [Success in developing the canonical solution is not a necessary condition for learning from generation, but failure is not claimed to be indispensable either](canonical-success-not-necessary-for-learning.md) — related
+- [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) — related

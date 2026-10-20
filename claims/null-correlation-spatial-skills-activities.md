@@ -49,3 +49,6 @@ Bivariate correlation analysis (Table 1) among the full sample; spatial skills c
 - [Adolescent, but not childhood, spatial activity participation predicts adolescent spatial skills (paper folding)](adolescent-activities-predict-spatial-skills.md) — related
 - [Childhood, but not adolescent, spatial activity participation predicts adolescents' spatial habits of mind](childhood-activities-predict-spatial-habits-of-mind.md) — related
 - [No cumulative benefit from participating in spatial activities in both childhood and adolescence](no-cumulative-spatial-activity-benefit.md) — related
+- [Childhood spatial activities are more predictive of spatial habits of mind than of spatial skills](childhood-activities-more-predictive-of-habits-of-mind.md) — related
+- [Childhood spatial activity participation predicts adolescent spatial activity participation, and this consistency is stronger for females than males](childhood-spatial-activities-predict-adolescent-participation.md) — related
+- [Gender moderates the relation between childhood spatial activities and spatial habits of mind, which is stronger for males than females](gender-moderates-childhood-activities-habits-of-mind.md) — related

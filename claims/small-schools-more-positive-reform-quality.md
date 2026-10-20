@@ -64,3 +64,4 @@ The report describes the plotted relationship between enrollment and the General
 ## Related Claims
 - [School characteristics relate to politics type: Hispanic schools show a marked tendency toward strong democracy and small schools less adversarial politics](school-characteristics-relate-politics-type.md) — related
 - [Small elementary schools (under 350 students) report more positive trust relations among teachers and between teachers and parents](small-school-size-facilitates-trust.md) — related
+- [High school teachers are substantially less positive than elementary school teachers about recent changes, reform impact, and local school leadership](high-school-teachers-less-positive-than-elementary.md) — related

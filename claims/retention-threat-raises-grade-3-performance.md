@@ -46,3 +46,4 @@ The toolkit summarizes Winters (2018), The Costs and Benefits of Test-Based Prom
 ## Related Claims
 - [Retention under Mississippi's test-based promotion policy led to substantial and sustained 6th-grade ELA gains for retained students](mississippi-retention-sustained-ela-gains.md) — related
 - [Third-grade retention under the Chicago policy produced no sustained academic benefits or substantial negative effects](third-grade-retention-no-sustained-benefit.md) — related
+- [Neither promotion nor retention significantly closed the achievement gap of low-achieving students close to the cutoff, and the lowest achievers deteriorated further](retention-social-promotion-no-gap-closing.md) — related

@@ -76,3 +76,4 @@ The study's overview reports its central finding: "students with the same HSGPA 
 - [School average ACT scores predict college graduation for students with the same individual HSGPA and ACT score, reducing between-school variance by 42 percent, while school poverty is not significant once average ACT is included](school-average-act-explains-school-variance.md) — related
 - [Combining ACT scores with HSGPAs reduces high school variance in college graduation rates relative to HSGPA-only models](act-plus-hsgpa-reduces-high-school-variance.md) — related
 - [School-average ACT scores strongly predict individual college graduation, doubling the odds per standard deviation](school-average-act-predicts-graduation.md) — related
+- [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — related

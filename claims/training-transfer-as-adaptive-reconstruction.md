@@ -49,3 +49,4 @@ Authors' interpretation in the Discussion of interview findings; trainees report
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a narrower finding that bears on this claim
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer](organizational-empowerment-enables-transfer.md) — related
+- [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related

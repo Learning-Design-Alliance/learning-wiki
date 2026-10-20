@@ -44,3 +44,4 @@ Survey-predictor HLMs (Table 4) show the confidence item (1–4 scale) significa
 
 ## Related Claims
 - [Teachers' belief that their students were ready for argumentative writing significantly predicted student growth within the first prompt](teacher-readiness-belief-predicts-first-prompt-growth.md) — related
+- [Teachers' years of experience and most self-reported instructional practices did not significantly predict students' AES-measured writing growth](teacher-experience-practices-no-growth-prediction.md) — related

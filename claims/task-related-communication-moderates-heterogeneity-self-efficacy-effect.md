@@ -67,3 +67,4 @@ Same moderation analysis; the H × G interaction was not significant (Table 2 re
 - [Time spent getting to know each other paradoxically amplifies perceived group heterogeneity in first-language heterogeneous CSCL groups](getting-to-know-time-increases-perceived-heterogeneity.md) — related
 - [Groups spent far more time getting to know each other than on task-related communication during the initial collaboration phase](groups-prioritize-getting-to-know-over-task-communication-initially.md) — related
 - [First-language heterogeneity is negatively related to time spent getting to know each other and positively related to time spent on task-related communication](heterogeneity-correlates-with-initial-activity-time-patterns.md) — related
+- [Heterogeneous learning curves across practitioners create organizational challenges including perceived unfairness](learning-curve-heterogeneity-matthew-effects.md) — related

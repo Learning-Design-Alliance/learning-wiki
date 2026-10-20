@@ -45,3 +45,5 @@ Correlational hypothesis test on the freeform Ottoman Empire debate corpus: DBN 
 ## Related Claims
 
 - [Speech-style accommodation correlates with prevalence of other-oriented transactions, enabling acoustic prediction of transactivity](speech-accommodation-predicts-transactivity.md)
+- [The DBN accommodation measure scores real conversation pairs higher than lexically matched constructed pairs, validating it as a measure of speech style accommodation](dbn-accommodation-score-validates-real-vs-constructed-pairs.md) — related
+- [Human coding of other-oriented transacts in the debate corpus reached high inter-coder reliability (kappa 0.72 for reasoning, 0.7 for transactivity, 0.95 for self/other distinction)](transactivity-coding-kappa-reliability-debate-corpus.md) — related

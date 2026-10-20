@@ -50,3 +50,4 @@ Lab experiment in which 11-month-olds saw an expected or surprising solidity or 
 - [Three- to six-year-old children learn novel verbs and nouns from a single exposure following core knowledge violations, including outside the laboratory](surprise-enhances-childrens-word-learning-museum.md) — related
 - [Learning enhancements from core knowledge violations are entity-specific: no benefit for unrelated bystander objects](surprise-learning-effect-is-entity-specific.md) — related
 - [Infants' exploratory behavior after a core knowledge violation is tailored to the type of violation seen](violation-specific-hypothesis-testing-exploration.md) — related
+- [Infant look-away follows a U-shaped pattern of information content, consistent with maintaining intermediate rates of information absorption (Goldilocks effect)](infant-goldilocks-look-away-u-shaped.md) — related

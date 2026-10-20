@@ -45,3 +45,4 @@ Descriptive statement from the editorial's summary of the Dillenbourg and Evans 
 ## Related Claims
 - [Boundary spanning perceptions and actions are critical mechanisms for productive divergent collaboration](bsp-bsa-critical-mechanisms-divergent-collaboration.md) — related
 - [More persistent information is exchanged through the more persistent medium: the whiteboard acts as a shared memory rather than a grounding tool](persistence-more-persistent-info-more-persistent-medium.md) — related
+- [Interference during tabletop use can play a productive role, but small-group collaboration processes primarily influence learning](tabletop-interference-productive-collaboration-processes-primary.md) — related

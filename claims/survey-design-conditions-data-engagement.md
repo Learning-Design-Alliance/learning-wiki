@@ -46,3 +46,5 @@ Cross-case finding identifying factors that hindered or helped data use across t
 - [Using multiple data sources, including site-specific data, helped schools develop a more comprehensive understanding of their school climate](multiple-data-sources-holistic-climate-understanding.md) — related
 - [Launching RPP work with disaggregated student data highlighted equity issues without assigning blame](student-data-first-launch-highlighted-equity-without-blame.md) — related
 - [Ten years of repeated survey participation enables reporting of change over time in school climate measures](ten-years-survey-trend-reporting.md) — related
+- [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](practical-measure-data-tailors-crse-instruction.md) — related
+- [Focal math teachers relied primarily on their own observations of student behavior to understand students' feelings about math, supplemented by surveys, with disaggregated data rare](teacher-observation-primary-perception-data-source.md) — related

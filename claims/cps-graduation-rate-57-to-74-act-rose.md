@@ -71,3 +71,5 @@ Secondary outcome reported in the Introduction to address concerns that graduati
 - Seventy-six percent of CPS students graduated from high school in 2018, up from 57 percent in 2006 — related
 - [CPS graduates' qualifications improved: students graduating with at least a 3.0 core GPA rose from 21 to 32 percent between 2006 and 2015](cps-graduating-gpas-improved.md) — related
 - [Evidence on RJ's impact on academic outcomes is limited and mixed, with graduation-rate gains in one study and no GPA change in another](rj-academic-outcomes-evidence-mixed.md) — related
+- [CPS Freshman OnTrack rates rose from 58 to 89 percent between 2007 and 2017 while graduation rates rose 19 percentage points](cps-ontrack-rose-58-to-89-graduation-up-19-points.md) — related
+- [Data coding issues could account for some graduation-rate improvement between 2005 and 2008, but not for improvements in subsequent years](transfer-coding-explains-only-2005-2008-gains.md) — related

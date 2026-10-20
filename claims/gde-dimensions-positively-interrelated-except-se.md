@@ -45,3 +45,4 @@ Correlational analysis of rubric ratings from 2.5-minute video intervals of midd
 ## Related Claims
 
 - [Disciplinary engagement at one interval positively predicts subsequent behavioral and collaborative engagement](de-predicts-subsequent-be-and-ce.md)
+- [QCGE dimensions correlate weakly with each other except a moderate CE–CC correlation; nonverbal behaviors were not affected by task condition](qcge-dimensions-weak-intercorrelations-condition-null.md) — related

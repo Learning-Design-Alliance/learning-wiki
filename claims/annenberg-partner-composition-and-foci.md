@@ -64,3 +64,4 @@ Organizational-type breakdown in Table 2 of the report: university-based organiz
 ## Related Claims
 - [Annenberg external partners accumulated substantial experience working with schools but were not particularly successful in promoting improvement across the large number of schools they served](annenberg-partners-experienced-but-not-particularly-successful.md) — related
 - [Only 4 of 11 studied external partners had a comprehensive, research-based approach to literacy instruction](only-4-of-11-partners-comprehensive-literacy-approach.md) — related
+- [External partners played the central role in forming and running implementation networks, with most principal interaction directed at partners rather than other schools](external-partners-central-to-network-function.md) — related

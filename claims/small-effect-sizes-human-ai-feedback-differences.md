@@ -47,3 +47,6 @@ Descriptive and ANOVA analysis of coded feedback ratings (n = 198) found "all sm
 - [Feedback quality did not differ by students' language status for either human evaluators or ChatGPT](feedback-quality-no-language-status-difference.md) — related
 - [LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions](llm-7c-scores-within-expert-variability.md) — related
 - [Students rate LLM-generated response-level feedback favourably, with clarity and perceived accuracy highest and actionability and usefulness lowest](llm-response-feedback-clarity-accuracy-highest-actionability-usefulness-lowest.md) — related
+- [Accurate LLM solution diagnosis does not reliably produce pedagogically actionable feedback, with lowest rubric scores on error identification and actionability](accurate-diagnosis-not-actionable-feedback.md) — related
+- [ChatGPT feedback quality varied by essay quality: accuracy declined as essay quality rose, prioritization was best for average essays, and supportive tone was lowest for low-quality essays](ai-feedback-quality-varies-by-essay-quality.md) — related
+- [Students rate human-generated feedback as superior to AI-generated feedback in quality, helpfulness, and clarity, and as more likely to be acted upon](human-feedback-rated-superior-to-ai-feedback.md) — related

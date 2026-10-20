@@ -49,3 +49,4 @@ Statewide survey results across all 24 local school districts (19,022 respondent
 - [Educator perceptions of TPE become more positive with each year of implementation](tpe-perceptions-improve-with-experience.md) — related
 - [Educators' positive perceptions of Maryland's TPE system increased year by year from 2013 to 2016 on every measure tracked](maryland-tpe-four-year-perception-gains.md) — related
 - [Teachers in the top quartile of districts on SLO support report receiving at least five SLO support strategies at rates 20 percentage points higher than teachers in the bottom quartile](slo-support-district-quartile-gap.md) — related
+- [Educators report insufficient SLO training and scarce SLO quality rating rubrics as key implementation challenges](slo-implementation-challenges-training-and-quality-rubrics.md) — related

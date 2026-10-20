@@ -54,3 +54,7 @@ Confirmatory RQ2 subgroup analyses of the MCIS RCT: students divided into four G
 - [Grade 4 students in treatment schools scored significantly higher than control students on the CCU Assessments in each of the three study years, with effect sizes from 0.30 to 0.36](a4l-grade4-ccu-significant-impact.md) — related
 - [Syntea usage rates differ slightly by gender, with female students (59.05%) higher than male students (54.94%)](syntea-usage-gender-differences.md) — related
 - [Prior knowledge score did not significantly moderate the sequence effect within either experiment, though each experiment covered a restricted prior-knowledge range](prior-knowledge-not-significant-moderator-within-experiments.md) — related
+- [The A4L impact on grade 4 CCU outcomes did not differ significantly between free/reduced-price lunch and non-FRL students](a4l-frl-subgroup-no-difference.md) — related
+- [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](exam-playbook-no-subgroup-treatment-differences.md) — related
+- [The simulation advantage and interest differences hold across subgroups of age, gender, school form, and grade](no-subgroup-differences-method-comparison.md) — related
+- [No significant gender differences in CTAT performance within either educational pathway](no-gender-differences-ctat-performance.md) — related

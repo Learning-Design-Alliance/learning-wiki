@@ -49,3 +49,7 @@ Conceptual definition of the system-reconfiguration factor. The article gives co
 - AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process — related
 - [AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic](ai-transforms-teacher-student-relationship.md) — a narrower finding that bears on this claim
 - Agent-based educational science is positioned as reconfiguring, not replacing, empirical educational research — a narrower finding that bears on this claim
+- [Simulation functions as a site where professional knowledge is produced, negotiated, and reshaped, not merely a tool for skill rehearsal](simulation-site-professional-knowledge-transformation.md) — a narrower finding that bears on this claim
+- [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](ai-enhances-teaching-administration-education.md) — related
+- [Substantial improvement in outcomes: breakthroughs change learning or life trajectories rather than improving incrementally](breakthrough-substantial-outcome-improvement-trajectories.md) — related
+- [Change is a specialized instance of the general communication model](change-as-specialized-communication-instance.md) — related

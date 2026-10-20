@@ -46,3 +46,4 @@ Authors' preliminary observation from the SLM proof-of-concept run (Section 5.2)
 
 - [Model size defines a core trade-off: too-large SLMs answer without the cognitive structure while too-small SLMs break instruction-following coherence](curse-of-prior-knowledge-size-tradeoff.md) — related
 - [A 4-bit quantized 27B local Teacher LLM generated knowledge in the required format, suggesting accessible-resource implementations may be feasible](quantized-local-teacher-llm-feasible.md)
+- [Underlying all AI risks in education is that generative AI behavior is difficult to explain, inspect, or predict due to its statistical mechanisms](generative-ai-behavior-hard-to-explain-inspect-predict.md) — related

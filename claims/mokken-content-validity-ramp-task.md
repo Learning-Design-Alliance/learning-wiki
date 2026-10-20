@@ -47,3 +47,5 @@ Mokken scale analysis of per-level experiment correct scores from 45 kindergartn
 - [Second-year kindergartners outperform first-year kindergartners on CVS scores with large differences](k2-outperforms-k1-cvs-scores.md)
 - [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md)
 - [Both the competence test and the cognitive load ratings fit two-dimensional Rasch models significantly better than unidimensional models, supporting separate modeling of the two load dimensions](two-dimensional-rasch-models-fit-better.md)
+- [Dynamic assessment can teach kindergartners the CVS within a single session](dynamic-assessment-teaches-cvs-single-session.md) — related
+- [Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases](cvs-level-difficulty-ordering.md) — a narrower finding that bears on this claim

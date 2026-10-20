@@ -45,3 +45,6 @@ Thematic analysis of open-ended responses from 17 treatment-group students (κ =
 ## Related Claims
 - Aware externals accounted for the conditioning effect, while aware internals, unaware subjects, and controls showed essentially no change — related
 - I-E scale scores correlate with conditioning performance for aware subjects but not for unaware subjects — related
+- [Teachers adjusted their OCF provision in response to learner reactions, providing feedback when accepted and stopping when it was challenged or ignored](teachers-adjust-ocf-to-learner-reactions.md) — related
+- [Teachers' attitudes towards oral corrective feedback are guided mainly by considerations of students' feelings, which override cognitive and other components](student-feelings-guide-ocf-attitudes.md) — related
+- [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md) — related

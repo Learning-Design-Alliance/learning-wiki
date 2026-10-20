@@ -47,3 +47,5 @@ State-machine (transition-diagram) analysis of question-type sequences within ea
 - [Continuing-generation students showed higher usage of procedural and directive question types, while first-generation students leaned toward verification and expectational questions](generation-differences-in-question-type-usage.md) — related
 - [Students' question types shift from confusion-reporting toward procedural and task-oriented inquiry as tasks progress, though the session difference did not reach conventional significance](inquiry-types-shift-across-cs2-sessions.md) — related
 - [Explanatory inquiries, factual queries, and tutorial requests are the most frequent LLM learning tasks](explanatory-factual-tutorial-top-llm-tasks.md) — related
+- [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
+- [First-generation students asked fewer questions overall than continuing-generation students in both sessions](first-generation-students-ask-fewer-ai-questions.md) — related

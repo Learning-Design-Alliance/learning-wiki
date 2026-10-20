@@ -68,3 +68,4 @@ Results-section interview finding showing non-consensus: while some participants
 - [Twelve semi-structured interviews with university students and lecturers identified twelve knowledge-based design requirements for tutoring GSRs across three knowledge types](twelve-kbd-requirements-gsr-higher-education.md) — a broader claim this one bears on
 - In one institution's early-stage learning analytics implementation, inductive coding of interviews and documents surfaced three privacy themes: FERPA compliance, role-based access and security measures, and students' relationship with their data — related
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
+- [EdTech organizations recognize privacy as important but consistently defer it across the product lifecycle](edtech-privacy-deferred-across-product-lifecycle.md) — related

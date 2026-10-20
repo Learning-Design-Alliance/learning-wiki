@@ -43,4 +43,5 @@ Paired-sample t-test on the same students' single-item slider ratings of task un
 
 
 ## Related Claims
--
+- [Students perceive collaborative physics tasks as less difficult after completing them](task-difficulty-decreases-after-collaborative-task.md) — related
+- [First- and second-grade students' multiple-choice understanding of particle behavior improved significantly after seven STEP mixed-reality sessions.](step-mc-prepost-gains.md) — related

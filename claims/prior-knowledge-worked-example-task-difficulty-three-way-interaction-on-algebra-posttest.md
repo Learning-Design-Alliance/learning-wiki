@@ -58,3 +58,5 @@ In a 2 x 2 x 2 factorial experiment with college students solving simultaneous e
 - [Equation memory shows a strong validity effect (valid > invalid recall) that interacts with equation length](equation-memory-validity-effect-length-interaction.md) — related
 - [Giftedness interacts significantly with instruction type on the learning and recall outcomes in the 2×2×2 study](giftedness-instruction-interaction-significant.md) — related
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](worked-example-effect-element-interactivity-explanation.md) — related
+- [Cognitive load did not clearly increase during group work under high coercion; a three-way interaction of session time, cognitive load and coercion emerged, with a marginal main effect of coercion](cognitive-load-coercion-interaction.md) — related
+- [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](expertise-reversal-conceptual-understanding-statistics.md) — related

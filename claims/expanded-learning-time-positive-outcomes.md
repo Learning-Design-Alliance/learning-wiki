@@ -82,3 +82,7 @@ A moderator statement from the same synthesis finding: the review reports that s
 - [Chicago pre-k policy changes expanding full-day pre-k access were related to more favorable second-grade math test scores and academic grades for most student groups](chicago-prek-policy-favorable-second-grade-math.md) — related
 - [In a rural district's flexible scheduling program, students used only 19 percent of daily flex-time for academic activities](flex-time-low-academic-use-rural-district.md) — related
 - [The pathway from full-day pre-k to better second-grade outcomes was especially strong among Black students, lowest-income students, and students living in mostly-Black neighborhoods](prek-pathway-strongest-high-priority-groups.md) — related
+- [Dosage relationship: more assigned Edpuzzle videos associated with larger gains](edpuzzle-dosage-more-videos-larger-gains.md) — related
+- [Extending mandated daily study time from three to four hours produces no significant performance gains for novices](extra-time-on-task-no-gain-novices.md) — reports the opposite
+- [K–3 Plus expanded learning time program showed positive impact on student learning](k3-plus-positive-impact-learning.md) — a narrower finding that bears on this claim
+- [Total time on task in the DLP positively predicts both math and ELA outcomes](total-time-on-task-predicts-outcomes.md) — related

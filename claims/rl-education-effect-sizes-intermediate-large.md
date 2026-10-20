@@ -46,3 +46,5 @@ The review's effect-size analysis (Fig. 9) covers Cohen's d and 95% confidence i
 - Content-related adaptation (n = 53 papers) outnumbers guidance-related adaptation (n = 36) in RL-based educational applications — related
 - [Among RL-in-education papers testing statistical significance, 18 of 35 report at least one RL policy significantly outperforming all baselines, while over half of all reviewed papers report no statistical analysis](rl-education-significance-18-of-35-outperform.md) — related
 - RL-based educational evaluations split across live evaluation (n = 41), real interaction data (n = 23), and simulated users (n = 24) — related
+- [Across 15 school meditation studies, 61% of calculable effect sizes were statistically significant, with most effects small](school-meditation-61-percent-significant-effects.md) — related
+- [Among RL papers statistically outperforming baselines, normalized learning gain was the most common effective reward source, used in over half of the papers (n = 10)](normalized-learning-gain-effective-reward-source.md) — related

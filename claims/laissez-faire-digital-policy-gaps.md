@@ -47,3 +47,6 @@ Critical policy analysis of Digital Canada 150, Network BC, and Citizens @ the C
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [Low-income households make significant sacrifices to maintain Internet access, which can account for almost 8% of monthly household expenses](low-income-households-sacrifice-internet.md) — related
 - [Digital policies imagine a \"model user\" whose experience contrasts sharply with the actualities of adults on the margins of access](model-user-policy-imaginary.md) — related
+- [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related
+- [Higher education digital divides are acute at MSIs, HBCUs, and TCUs, which have stark capability deficits in hardware, software, and broadband](msi-hbcu-tcu-digital-capability-deficits.md) — related
+- [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related

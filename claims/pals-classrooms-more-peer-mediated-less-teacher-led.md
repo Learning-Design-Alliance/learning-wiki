@@ -44,3 +44,4 @@ Implementation-fidelity check within the Saenz, Fuchs, and Fuchs (2005) randomiz
 
 ## Related Claims
 - [The evidence base for PALS in the Adolescent Literacy review rests on a single randomized trial of 120 students across 12 schools, rated as meeting standards with reservations](pals-evidence-base-single-rct-reservations.md) — related
+- [PALS effects on the learning-disability subsets analyzed separately were not statistically significant, while the full-sample effect was significant in one study (Fuchs et al., 1997) and not in the other (Saenz et al., 2005)](pals-full-sample-significant-ld-subset-not.md) — related

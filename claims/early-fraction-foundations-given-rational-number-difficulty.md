@@ -51,3 +51,6 @@ Authors' closing recommendation slide (type e, interpretation). The presentation
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on
 - Adults learn better when learning content and methods link to their previous experience — related
 - [The Heising-Simons Foundation funded family engagement providers to develop, test, and integrate research-based early math projects within existing family engagement programs](heising-simons-funded-early-math-family-engagement-projects.md) — related
+- [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — related
+- [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
+- [Many children enter kindergarten without the foundational mathematics skills needed to succeed](children-enter-kindergarten-without-foundational-math-skills.md) — related

@@ -44,3 +44,9 @@ Planned orthogonal contrast in the randomized experiment (N = 96, 32 per conditi
 
 ## Related Claims
 - [Refutation texts did not promote beneficial selection of multimedia material by student teachers](refutation-texts-no-transfer-material-selection.md) — related
+- [Adding concessive statements to refutation texts yields no added benefit for conceptual change about multimedia-learning misconceptions](concessive-statements-no-added-benefit-conceptual-change.md) — related
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — a broader claim this one bears on
+- [Misconceptions impair comprehension of a standard text, and both a refutation text and a think sheet compensate for this detrimental effect](refutation-text-think-sheet-compensate-misconception-comprehension.md) — related
+- [More misconceptions lead to overconfident comprehension predictions with a standard text, and both refutation texts and think sheets counteract this overconfidence](refutation-text-think-sheet-counteract-comprehension-overconfidence.md) — related
+- [Readers with misconceptions engage in more conceptual change strategies than readers without misconceptions, but only when reading a refutation text](misconception-refutation-conceptual-change-strategies.md) — related
+- [Completing a think sheet yields higher response-confidence accuracy than reading a refutation text or a standard text with a misconception list](think-sheet-higher-response-confidence-accuracy.md) — related

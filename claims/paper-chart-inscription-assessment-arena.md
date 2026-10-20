@@ -44,3 +44,6 @@ Close multimodal analysis of Episode 1, a pre-departure check of a course plan i
 
 ## Related Claims
 - [Students' spatial positions in the simulator display their understanding of bridge work roles, and instructors use these positions as a basis for embedded assessment and correction](spatial-positions-display-work-role-understanding.md) — related
+- [Feedback in full-mission simulator training is delivered through recurring, multidimensional, multimodal feedback cycles built on instructors' embedded assessments of the fit between learning objectives and the ongoing task](multimodal-feedback-cycles-embedded-assessment-simulator.md) — a broader claim this one bears on
+- [Persistence of inscriptions in the VMT environment supported students explaining postings and establishing collaborative activity](persistence-affordance-supports-collaborative-explanation.md) — related
+- [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) — related

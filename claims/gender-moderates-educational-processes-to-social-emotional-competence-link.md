@@ -66,3 +66,7 @@ Simple slope tests probing the gender interaction. The association between educa
 - [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — related
 - [The homework management–homework behavior link is stronger for girls than for boys](homework-management-behavior-link-stronger-girls.md) — a narrower finding that bears on this claim
 - [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md) — reports the opposite
+- [Oral communicative competence relates to peer acceptance only for boys and not to peer rejection, indicating gender as a moderator](gender-moderates-competence-acceptance-relation.md) — related
+- [Gender did not significantly moderate relationships between social functioning and academic development in preschoolers](gender-does-not-moderate-social-academic-relations.md) — related
+- [Educational processes fully mediate the effects of structural family characteristics and parental beliefs and interests on children's social–emotional competence](educational-processes-fully-mediate-home-environment-effects-on-social-emotional-competence.md) — related
+- [Gains in emotion knowledge during preschool mediate the association between preschool relationships and kindergarten achievement](emotion-knowledge-gains-mediate-relationships-achievement.md) — related

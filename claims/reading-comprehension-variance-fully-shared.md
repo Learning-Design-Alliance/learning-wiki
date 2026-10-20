@@ -46,3 +46,6 @@ Hierarchical reading models showed that "all of the variance in reading comprehe
 - [The relation between word reading and reading comprehension is largely invariant across age groups 8 to 10 and 11 to 16](word-reading-comprehension-relation-age-invariant.md) — related
 - [Cromley and Azevedo's prompted strategy-use measure correlated .23–.74 with other measures and accounted for about 30% of comprehension variance on average](cromley-azevedo-strategy-mc-correlations-variance.md) — related
 - [Reading comprehension measure choice moderates findings on the word reading–comprehension relation: short-passage tests show age effects, long-passage tests do not](comprehension-measure-passage-length-moderates-age-effects.md) — related
+- [Genetic influences drive the phenotypic correlations between cognitive skills and reading components](genetic-influences-drive-cognitive-reading-correlations.md) — related
+- [Cognitive and reading skills share large amounts of genetic variance within domains](cognitive-reading-domains-share-genetic-variance.md) — related
+- [Third-grade reading comprehension is predicted by third-grade word reading and listening comprehension, with no direct attention effect](grade3-comprehension-predicted-by-word-reading-and-listening.md) — related

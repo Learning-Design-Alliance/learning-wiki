@@ -47,3 +47,4 @@ Analysis of individual expert total scores and stated preferences (Table 4) amon
 - [The general-purpose platform scored higher in early EDBL stages while the education-focused platform scored higher in feedback-intensive iterative stages](ai-platforms-diverge-early-versus-iterative-edbl-stages.md) — related
 - [The education-focused AI platform (C2) received numerically higher expert ratings than the general-purpose platform (C1) across all eight overall quality criteria](education-focused-ai-platform-higher-overall-lesson-plan-ratings.md) — related
 - [Most experts judged the AI-generated plans conditionally applicable, endorsing use only after correction rather than direct classroom use](experts-judge-ai-plans-applicable-after-correction.md)
+- [Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation](non-verifiability-crisis-llm-judges-misalign.md) — a broader claim this one bears on

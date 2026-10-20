@@ -49,3 +49,5 @@ The synthesis reports that "views of nature from the classroom" and sunlight boo
 - [The heat-achievement analysis links daily temperature data to MAP Growth scores for grades 3–8 in six states](heat-analysis-map-growth-six-states-design.md) — related
 - [Natural lighting and green window views benefit mood, sleep, cognition, and test performance](daylight-green-views-benefit-students.md) — possibly the same claim (merge candidate)
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](nature-exposure-reduces-learner-stress.md) — a narrower finding that bears on this claim
+- [Classroom views of greenery improve children's concentration compared with built views or windowless classrooms](green-classroom-views-boost-concentration.md) — a narrower finding that bears on this claim
+- [The school-built environment, including access to nature and green spaces, positively impacts children, teachers, and the school community](school-built-environment-positive-impact.md) — a broader claim this one bears on

@@ -51,3 +51,5 @@ Randomized mixed-model ANOVA with Sex and Condition as between-subjects factors 
 - [Acute stress did not significantly affect women's cognitive flexibility](acute-stress-no-effect-women-flexibility.md) — a narrower finding that bears on this claim
 - [Changes in cortisol did not predict perseverative errors in any sex](cortisol-change-not-predict-flexibility.md) — related
 - [Menstrual cycle phase did not significantly moderate stress effects on cognitive flexibility](menstrual-phase-no-moderation-flexibility.md) — related
+- [The TSST-G stress induction increased negative affect and cortisol relative to control](tsst-g-manipulation-check-affect-cortisol.md) — related
+- [Stress-exposed adolescents show impaired cognitive flexibility in reversal learning](early-stress-impaired-reversal-flexibility.md) — related

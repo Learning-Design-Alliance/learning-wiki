@@ -45,3 +45,6 @@ Univariate ANOVA from the 2x2 experiment; attitudes toward the PAL were measured
 ## Related Claims
 
 - [PALs expressing positive mood were perceived as more facilitating, engaging, and intelligent than negative-mood PALs](positive-mood-pal-better-perceived.md)
+- [A responsive PAL does not improve learner attitudes toward the agent, and competency and interaction type show no significant interaction](responsive-pal-no-attitude-benefit-no-interaction.md) — related
+- [Working with a low-competency pedagogical agent raises learners' self-efficacy in the task (d = 0.49)](low-competency-pal-raises-self-efficacy.md) — related
+- [Working with a high-competency pedagogical agent improves novice learners' application of learning (d = 0.46)](high-competency-pal-improves-application.md) — related

@@ -51,3 +51,5 @@ The brief's own description of its new research on academic achievement and grow
 - [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related
 - [In math, ELs grew more than never-ELs during academic years but lost more during summers](el-math-academic-year-growth-greater-summer-loss.md) — related
 - [New research examined academic growth trends of students with disabilities in special education during the school year compared to the summer before the pandemic](special-education-growth-school-year-versus-summer-before-pandemic.md) — related
+- [Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities](special-education-supplemental-cost-50-percent.md) — related
+- [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — related

@@ -44,3 +44,5 @@ Variance decomposition of 2013-14 CPS observation and value-added scores. In any
 
 ## Related Claims
 - [Professional practice ratings, student surveys, and value-added measures each have the potential to differentiate teacher performance in Pittsburgh Public Schools](pittsburgh-three-measures-differentiate-teacher-performance.md) — related
+- [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](teacher-race-observation-gaps-explained-by-school-poverty.md) — related
+- [Variation across schools in principal-assigned professional practice ratings suggests principals' standards may not be fully consistent across schools](pittsburgh-principal-practice-ratings-vary-across-schools.md) — related

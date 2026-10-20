@@ -45,3 +45,4 @@ Theoretical argument in the introduction, citing higher-education research: rigi
 ## Related Claims
 - Interdisciplinary studies are hindered by proliferating definitions and competing instrumental versus conceptual approaches — related
 - [Community colleges' dual mission of degrees and workforce development is a competitive advantage for piloting new credentials](dual-mission-advantage-new-credentials.md) — related
+- [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related

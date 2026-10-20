@@ -63,3 +63,4 @@ Supplemental analyses of California data across three school years found "a cons
 
 ## Related Claims
 - [Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities](special-education-supplemental-cost-50-percent.md) — related
+- [Cost function analysis indicates substantially higher spending is needed for equal opportunity: weights of 2.49 for first-generation and 2.63 for students older than 24](cost-function-weights-need-factors.md) — related

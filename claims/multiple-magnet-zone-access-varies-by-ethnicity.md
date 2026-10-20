@@ -51,3 +51,5 @@ Analysis of CPS student record files for fall 1999 cross-referenced with magnet 
 - [Areas of Chicago without magnet elementary schools have lower median family income and fewer white residents than areas within magnet neighborhood zones](magnet-location-correlates-with-income-and-race.md) — related
 - [Magnet elementary schools enroll larger percentages of white and Asian students and smaller percentages of Latino and African-American students than non-magnet schools](magnet-elementary-composition-differs-from-cps.md) — related
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
+- [Two years after the comprehensive magnet school policy, overall enrollment patterns by student residence had not changed substantially](policy-did-not-change-overall-enrollment-patterns.md) — related
+- [NBCTs are more likely than other teachers to work in magnet schools and less likely to work in the poorest and predominantly African American schools](nbcts-disproportionately-magnet-schools.md) — related

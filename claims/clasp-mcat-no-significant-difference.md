@@ -44,3 +44,5 @@ Observational comparison of MCAT scores for students who took Physics 5 (N = 386
 
 ## Related Claims
 - [Bioscience students who took the CLASP series had statistically significantly higher upper-division GPAs than students who took the traditional Physics 5 series](clasp-higher-udgpa-than-physics5.md) — related
+- [Across three physics assessments, students who declared GenAI use scored slightly higher than non-users, but none of the differences were statistically significant](genai-users-slightly-higher-scores-not-significant-physics.md) — related
+- [Only bioscience graduates who took CLASP (2000-2001) had significantly higher UDGPA than transfer students in their majors, unlike 1993-1994 graduates and non-bioscience majors](clasp-bio-freshmen-beat-transfers-udgpa.md) — related

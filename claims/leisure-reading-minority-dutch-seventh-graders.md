@@ -44,3 +44,6 @@ Survey of 1,071 Dutch seventh graders (548 boys, 523 girls) who selected activit
 - [Leisure readers are far more likely than non-leisure readers to enjoy reading and to engage in mental imagery, in both educational tracks](leisure-readers-enjoy-imagery-both-tracks.md) — related
 - [Boys read for leisure and enjoy reading less than girls, but no sex differences appear in mental imagery](sex-differences-leisure-reading-enjoyment-not-imagery.md) — related
 - [A majority of non-leisure readers report enjoying reading in general (59% lower track, 69% higher track)](non-leisure-readers-still-enjoy-reading.md) — related
+- [In the lower track, reading enjoyment relates to school achievement for girls but not for boys among non-leisure readers](lower-track-enjoyment-grades-girls-only.md) — related
+- [In the higher track, reading enjoyment and sex show main effects on non-leisure readers' school achievement, with enjoyers of both sexes scoring higher](higher-track-enjoyment-grades-both-sexes.md) — related
+- [Mental imagery shows no direct relation to school achievement among non-leisure readers, though a ceiling effect limits this null finding](mental-imagery-no-achievement-relation-ceiling.md) — related

@@ -51,3 +51,6 @@ Analysis of TFS 2012–13 leaver and mover reason reports (Figures 4–5, Table 
 - [Nearly three quarters (74%) of teacher turnover between 2020–21 and 2021–22 was voluntary and preretirement](voluntary-preretirement-turnover-74-percent.md) — related
 - Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools — a narrower finding that bears on this claim
 - [Minority teachers who depart rarely cite retirement; dissatisfaction, pursuit of better jobs, and personal reasons dominate their reported turnover reasons](minority-teacher-departure-reasons-self-report.md) — a narrower finding that bears on this claim
+- [Teachers of color report more workplace stress and dissatisfaction than White teachers](teachers-of-color-workplace-stress-dissatisfaction.md) — related
+- [Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession](teachers-of-color-higher-attrition-intent.md) — related
+- [Piecemeal educator policymaking overburdens educators and can drive talented educators out of the profession](piecemeal-educator-policymaking-drains-talent.md) — a broader claim this one bears on

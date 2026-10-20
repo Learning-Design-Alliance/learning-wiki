@@ -52,3 +52,6 @@ Illustrative hypothetical example of 100 examinees with 95% observed agreement a
 - The interview coding achieved high inter-rater reliability, with Cohen's Kappa of 0.82 between independent coders — related
 - Kappa cannot reach 1.000 when coders' marginal distributions differ, being bounded by the margins even at maximal agreement — related
 - Cohen's kappa exceeds Scott's pi when coders show unequal marginal category preferences, counting those disagreements as agreement — related
+- [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
+- [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
+- [Prior non-LLM automated coding approaches yielded variable and often lower agreement with human coders on teacher knowledge measures, especially PCK](prior-automated-coding-variable-lower-agreement-pck.md) — related

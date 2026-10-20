@@ -54,3 +54,5 @@ Analysis of CS enrollment by neighborhood SES with and without adjustment for sc
 - Participating districts report large enrollment gaps in CS courses by income and gender — related
 - [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](iccsd-cs-enrollment-unrepresentative.md) — related
 - [U.S. high schools with high enrollments of students from low-income families are less likely to offer advanced mathematics courses than low-poverty schools](high-poverty-schools-offer-fewer-advanced-math-courses.md) — related
+- [Access to computing instruction in US schools is limited and inequitable by school level and poverty](computing-access-limited-inequitable-us-schools.md) — related
+- [CS course offerings in CPS high schools more than doubled between 2009 and 2018, with 80 percent of schools offering at least one CS course by 2018](cps-cs-offerings-doubled-2009-2018.md) — related

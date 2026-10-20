@@ -53,3 +53,4 @@ WWC synthesis of four studies (760 kindergarten students, more than 14 elementar
 - [STeLLA® has potentially positive effects on science achievement, with a statistically significant effect size of 0.68 and an improvement index of +25 percentile points](stella-potentially-positive-science-achievement.md) — related
 - [Earobics® has positive effects on alphabetics for K–3 beginning readers, based on four WWC-reviewed studies](earobics-positive-effects-alphabetics.md) — related
 - [Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3](sound-partners-positive-effects-alphabetics.md) — related
+- [Lexia Reading has potentially positive effects on alphabetics for beginning readers](lexia-reading-potentially-positive-alphabetics.md) — related

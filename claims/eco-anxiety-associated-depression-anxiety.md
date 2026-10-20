@@ -44,3 +44,4 @@ Narrative review attribution: the article reports, citing Cosh et al. (2024), th
 
 ## Related Claims
 - [Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems](distress-tolerance-uncertainty-intolerance-associations.md) — related
+- [Depressive symptoms are detected in 26.35% of secondary vocational students](vocational-students-depression-detection-26-35-percent.md) — related

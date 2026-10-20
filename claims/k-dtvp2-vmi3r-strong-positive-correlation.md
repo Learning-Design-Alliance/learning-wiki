@@ -47,3 +47,4 @@ Pearson correlation analysis between K-DTVP-2 and VMI-3R total scores in the cro
 - [Age, gender, and presence of diseases significantly affect K-DTVP-2 score, while only age significantly affects VMI-3R score](regression-factors-vp-vmi-aging.md) — related
 - [VMI-3R scores decline significantly with age in Korean adults, dropping significantly from the 50s compared to the 20s](vmi-3r-score-declines-with-aging-from-50s.md) — related
 - [K-DTVP-2 visual perception scores decline significantly with age in Korean adults, dropping significantly from the 50s compared to the 20s](k-dtvp2-score-declines-with-aging-from-50s.md) — related
+- [Only in the 5th-grade group were moderate positive correlations found, between visual-motor integration and motor coordination (r = 0.748) and between visual perception and dysgraphia classification (r = 0.643)](grade5-correlations-vmi-mc-vp-dysgraphia.md) — related

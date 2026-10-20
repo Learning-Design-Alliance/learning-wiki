@@ -43,4 +43,6 @@ Qualitative think-aloud analysis of four participants' transcripts reading Salem
 
 
 ## Related Claims
--
+- [Shifts among self perspectives are locatable moments of learning in which the self develops and expands](self-perspective-shifts-as-learning.md) — a broader claim this one bears on
+- [HPT is not a simple shedding of presentist perspectives: multiple selves of one learner intertwine with the target's perspective](hpt-multiple-selves-intertwined.md) — related
+- [The now-self functions as an anchor in HPT: participants began in now-self and frequently returned to it](now-self-anchors-hpt.md) — related

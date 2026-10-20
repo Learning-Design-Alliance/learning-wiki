@@ -57,3 +57,4 @@ Narrative review reporting Gregory et al. (2014): teachers implementing RJ frequ
 - [Restorative practices reduce exclusionary discipline and misbehavior and improve school climate, safety, and achievement, though implementation requires sustained investment](restorative-practices-improve-safety-climate-achievement.md) — a broader claim this one bears on
 - [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](restorative-practices-reduce-exclusionary-discipline.md) — a broader claim this one bears on
 - Exclusionary discipline disproportionately removes students of color and students with disabilities from school — related
+- [Students of color show fewer absences and less exclusionary discipline when taught by race-matched teachers](race-matched-teacher-discipline-absence-benefits.md) — related

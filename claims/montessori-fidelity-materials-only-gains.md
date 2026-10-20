@@ -45,3 +45,4 @@ The review reports the Lillard and Heise (2016) experimental implementation stud
 ## Related Claims
 - [Children admitted by random lottery to high-fidelity Montessori schools performed better or the same as waitlisted controls on academic, executive function, and social measures, never worse](montessori-lottery-studies-better-or-same-outcomes.md) — related
 - [Tools of the Mind and Montessori curricula improve children's EFs, with Tools children outperforming controls especially on more EF-demanding conditions](tools-montessori-curricula-improve-efs.md) — related
+- [Low-income children in high-fidelity Montessori significantly closed the achievement gap with higher-income children by the end of a longitudinal lottery study](montessori-closed-income-achievement-gap.md) — related

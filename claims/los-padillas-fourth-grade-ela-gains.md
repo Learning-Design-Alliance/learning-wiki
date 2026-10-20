@@ -46,3 +46,4 @@ Cohort proficiency reporting in the Progress section from APS Dashboard data. Th
 - [Los Padillas Elementary improved reading and math achievement and cut chronic absence by 50% between 2021 and 2024 after adopting community schools](los-padillas-achievement-gain-chronic-absence-reduction.md) — a broader claim this one bears on
 - [Los Padillas 3rd-graders in 2023–24 outperformed peers in other APS community schools in both ELA and math](los-padillas-third-grade-outperforms-community-schools.md) — related
 - [66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district](los-padillas-student-belonging-above-district.md) — related
+- [Los Padillas reduced chronic absenteeism by more than half, from 65.5% in 2021–22 to 31.3% in 2023–24, a rate below other APS community schools](los-padillas-chronic-absenteeism-halved.md) — related

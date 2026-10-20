@@ -45,3 +45,6 @@ Experiment 2 (N = 81 children, ages 4–7) replicated Experiment 1 using only th
 ## Related Claims
 
 - [Children do not reliably endorse the more accurate informant when no objective reference is available](endorse-judgments-at-chance-children.md)
+- [Area discrimination accuracy does not predict children's social judgments; age, not shared decision imprecision, accounts for the task correlations](area-accuracy-no-predictor-age-explains-correlations.md) — related
+- [Children's self-focused confidence reasoning and other-focused accuracy reasoning show no consistent correlation across four studies when mental-state language and response biases are eliminated](no-consistent-correlation-self-other-reasoning-children.md) — related
+- [Children aged 6–7 reliably identify the contestant whose copied shapes are closer in size to a target, replicating magnitude-of-error selective social learning](children-detect-relative-error-magnitude-informants.md) — related

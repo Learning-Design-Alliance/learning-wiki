@@ -45,3 +45,5 @@ Study 1 exploratory result on the valence dimension of teacher-focused codes, ex
 ## Related Claims
 
 - [Student-focused noticing marginally increased (Cohen's d = 0.43) while teacher-focused codes showed no change (d = 0.06)](blair2024-student-focused-increase-teacher-flat.md)
+- [A contrasting cases activity shifted the focus of preservice teachers' video noticing from teacher-focused to student-focused codes (significant time × subject-focus interaction)](blair2024-noticing-time-subject-focus-interaction.md) — related
+- [Preservice teachers became more likely to notice the absence of students building on each other's ideas and marginally more likely to notice open-ended questions](blair2024-noticing-absences-increase.md) — a narrower finding that bears on this claim

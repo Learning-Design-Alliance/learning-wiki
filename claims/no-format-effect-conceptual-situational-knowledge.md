@@ -65,3 +65,6 @@ ANOVA on situational post-test items (analyzing, identifying, and classifying pr
 - [No evidence for a mapping between representational format and enhancement of a specific kind of understanding](no-format-knowledge-type-mapping.md) — related
 - [Situational knowledge is fostered by collaboration, tool format, and tool-use, with arithmetical format outperforming textual](situational-knowledge-setting-format-tooluse.md) — reports the opposite
 - [The Text + Arithmetic format specifically improved procedural knowledge (executing action sequences to solve problems)](text-arithmetic-improved-procedural-knowledge.md) — related
+- [In inquiry learning of combinatorics, learners given a Text + Arithmetic representation outperformed learners given tree diagrams on total post-test scores](text-arithmetic-outperformed-diagram-total-posttest.md) — related
+- [Quantitative experimental results on representational formats left the role of representations in dyad discussion unexplained](representational-format-study-unexplained-dyad-role.md) — related
+- [Both agent-based model and visualization video conditions produce comparable gains in declarative nanoscience knowledge, with no Group × Time interaction](abm-video-equal-declarative-knowledge-gains.md) — related

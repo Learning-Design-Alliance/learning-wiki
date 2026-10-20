@@ -45,3 +45,4 @@ A case study simulated 42 stratified-sampled student agents on the first module 
 ## Related Claims
 - [Predicted post-test distributions differed significantly from real distributions in four dimensions, with no significant difference only for Technology Acceptance](agent-distribution-significance-only-tech-acceptance.md) — related
 - [The agent's predictions show a performance gap versus a regression reference that uses real students' post-test data](agent-gap-versus-regression-reference.md) — related
+- [Students' technology acceptance increased significantly after taking a MAIC course](technology-acceptance-increased-maic.md) — related

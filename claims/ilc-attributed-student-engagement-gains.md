@@ -48,3 +48,4 @@ Attributional finding from the casebook's cross-site synthesis: "Teachers common
 ## Related Claims
 - [Teachers commonly attribute increased student engagement—active involvement, multiple solution approaches, perseverance, and confidence—to ILC-influenced instruction](ilc-attributed-increases-student-engagement.md) — possibly the same claim (merge candidate)
 - [Large majorities of ILC workshop participants report their ILC experiences influenced curriculum, instruction, assessment, engagement, and learning to a great extent](ilc-participants-report-practice-influence.md) — related
+- [Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network](teacher-reported-engagement-opportunities-increased.md) — related

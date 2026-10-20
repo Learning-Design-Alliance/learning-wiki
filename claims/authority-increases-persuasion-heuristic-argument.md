@@ -46,3 +46,4 @@ Web-based Experiment 1 with 384 participants (190 research-active mathematicians
 ## Related Claims
 - [Authority effects on heuristic and visual arguments persist when instructions push participants toward evaluating conviction, ruling out an instruction-interpretation artifact](authority-effect-survives-conviction-instructions.md) — related
 - [Authority figures do not increase persuasion for formal proofs, regardless of proof complexity or author eminence](no-authority-effect-formal-proofs.md) — related
+- [In Study 2, both general and specific warnings at least marginally reduce attitude change, with no significant difference between them](study2-general-specific-warnings-reduce-change.md) — related

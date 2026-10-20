@@ -48,3 +48,4 @@ GLMM analysis of n-back response times in the 98-participant Cyberball experimen
 - [Mood changes do not moderate the effect of exclusion on working memory performance](mood-does-not-moderate-exclusion-working-memory-effect.md)
 - [Cyberball exclusion reduces n-back verbal working memory accuracy in young adolescent girls but not in mid-adolescents or adults](exclusion-reduces-nback-accuracy-young-adolescent-girls.md)
 - [Social exclusion has no significant effect on visuo-spatial dot-matrix working memory accuracy in any age group](no-exclusion-effect-visuospatial-working-memory.md)
+- [Working memory performance increases from baseline to the first post-induction trial across all age groups and conditions, consistent with practice effects](nback-practice-effect-all-groups.md) — related

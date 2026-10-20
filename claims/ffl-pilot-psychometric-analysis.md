@@ -50,3 +50,4 @@ The brief states the study's scope: it "analyzes the score variation, internal c
 - [Most FFL scores for specific leadership practices fell in the top two of four performance levels, indicating limited score variation](ffl-scores-concentrated-in-top-categories.md) — related
 - [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](ffl-scores-correlated-principal-value-added.md) — related
 - [School leaders who scored higher in one category of FFL leadership practices tended to score higher in the other categories](ffl-practice-categories-correlated.md) — related
+- [The FFL shows good internal consistency across its full scale and its four categories of leadership practices](ffl-good-internal-consistency.md) — a narrower finding that bears on this claim

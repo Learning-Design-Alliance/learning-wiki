@@ -46,3 +46,5 @@ This is the protocol's discussion-section synthesis (authors' interpretation) of
 - The study's correlational, cross-sectional design limits internal validity and causal interpretation — related
 - [Distributed Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [Computer programmer employment is projected to decline 10% from 2021 to 2031 due to automation, and apprenticeships placed in automation-vulnerable pathways risk reinforcing disparities](automation-declines-programmer-jobs-apprenticeship-risk.md) — related
+- [Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested](genai-chemistry-evidence-short-term-outcomes.md) — related
+- [One year after tutoring, full-sample Air Tutors participation shows no statistically significant impact on statewide math assessment scores](air-tutors-full-sample-no-long-term-impact.md) — related

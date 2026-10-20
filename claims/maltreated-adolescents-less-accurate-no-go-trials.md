@@ -69,3 +69,4 @@ Repeated measures ANCOVA controlling for FSIQ confirmed the group main effect an
 - [Maltreated adolescents show a reversed N2 pattern during go/no go: more pronounced N2 on go trials than no go trials, unlike nonmaltreated adolescents](reversed-n2-pattern-maltreated-adolescents.md) — related
 - [Maltreated and nonmaltreated adolescents do not differ in P3 amplitude during the go/no go task](no-group-difference-p3-amplitude-go-no-go.md) — related
 - [Maltreated and nonmaltreated adolescents show similar reaction times on go trials of the go/no go task](no-reaction-time-difference-go-trials-groups.md) — related
+- [Group differences in learning are more pronounced during reversal than acquisition](reversal-deficit-exceeds-acquisition-deficit.md) — related

@@ -46,3 +46,6 @@ One-way ANOVA on SWLE (experimental M = 27.59, SD = 10.28; control M = 29.33, SD
 - [RIDE instruction increases some transformative discovery activities and overall regulative discovery activity, with effects limited to specific activities](ride-instruction-increases-some-discovery-activities.md) — related
 - [Communicative activities associated with the RIDE rules, especially Intelligent collaboration, correlate with discovery learning activities in both groups](ride-communication-correlates-with-discovery-activities.md) — related
 - [RIDE communication instruction and RIDE plus CHT both increase team regulation relative to no support](support-increases-team-regulation.md) — related
+- [Support conditions did not differ from control in learning scores within the environment](no-condition-differences-learning-scores-swlep.md) — related
+- [RIDE instruction leads to more frequent use of the communicative activities associated with the Deciding together and Encouraging rules](ride-instruction-increases-deciding-together-encouraging-activities.md) — related
+- [Instruction combining communication rules (RIDE) and a hypothesis tool (CHT) increases team regulation in computer-supported collaborative inquiry, and team regulation relates to learning outcomes only in that combined condition](ride-cht-instruction-increases-team-regulation-cscl.md) — related

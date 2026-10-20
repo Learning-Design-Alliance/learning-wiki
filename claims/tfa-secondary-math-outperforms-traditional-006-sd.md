@@ -50,3 +50,6 @@ IES evaluation study comparison of student test scores for secondary math teache
 - [The findings contradict claims that alternative teacher preparation programs such as Teach For America harm students](tfa-findings-contradict-harm-claims.md) — a broader claim this one bears on
 - [Teach For America teachers had a positive impact on student math achievement of about 15 percent of a standard deviation, equivalent to about one month of instruction](tfa-positive-math-achievement-impact.md) — related
 - [Alternative routes to teaching were promoted in the past decade because of concerns about teacher shortages and teacher quality](alternative-routes-promoted-shortage-quality-concerns.md) — related
+- [Teach For America teachers had no impact on student reading achievement](tfa-no-reading-achievement-impact.md) — related
+- [TFA teachers in grades 1 and 2 had a positive effect on math achievement of 0.16 standard deviations that was almost statistically significant (p-value = 0.054)](tfa-grades-1-2-math-effect-016-sd-marginal.md) — related
+- [Teach For America teachers had no impacts on other outcomes such as attendance, promotion, or disciplinary incidents](tfa-no-impacts-attendance-promotion-discipline.md) — related

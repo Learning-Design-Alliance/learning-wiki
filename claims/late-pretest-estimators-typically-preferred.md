@@ -47,3 +47,4 @@ Theoretical and empirical analysis using a loss function approach compares estim
 - [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](late-pretest-inclusion-can-bias-posttest-estimates.md) — related
 - [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](late-pretest-preference-conditional-on-slow-early-impact-growth.md) — a narrower finding that bears on this claim
 - Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off — a broader claim this one bears on
+- [Empirical examples using real-world education RCT data demonstrate the design-based grouped-data theory](empirical-examples-education-rct-data-demonstrate-theory.md) — related

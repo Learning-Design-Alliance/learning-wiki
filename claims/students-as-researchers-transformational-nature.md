@@ -43,4 +43,4 @@ Author's interpretive appraisal (type e) from the abstract: the paper considers 
 
 
 ## Related Claims
--
+- [Learning-stories research indicates meaningful learning involves felt ownership of knowledge, emotional integration, generativity, real-life context, interaction with others' learning, and transformed self-perceptions](learning-stories-meaningful-learning-dimensions.md) — related

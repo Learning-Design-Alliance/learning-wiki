@@ -46,3 +46,4 @@ Three 5-point Likert perception items from the anonymous post-term survey (N=159
 - [An on-premises LLM autograder graded a 200-student course at 1–3 minutes wall-clock time per submission across a full term](lata-onprem-autograder-throughput.md) — related
 - [Student-reported LaTeX time overhead fell about 46% across the term, from 87 to 47 minutes per assignment](latex-ramp-down-cost-reduction.md) — related
 - [Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest](genai-geometry-favorable-perceptions.md) — related
+- [Students reported first-pass false-positive deductions at a mean of 2.94 per term, normalising to about 0.6% of rubric items](student-reported-grading-errors-lata.md) — related

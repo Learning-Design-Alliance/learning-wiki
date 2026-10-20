@@ -51,3 +51,5 @@ The article attributes the sensitivity finding to Fleer (1993). In this study, 2
 - C-DIF was less stable than NC-DIF across simulated conditions — related
 - The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions — related
 - [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) — related
+- [Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates](polytomous-dfit-factors-little-effect.md) — related
+- [Item purification made both DIF methods more sensitive, flagging more items](item-purification-increases-dif-detection-sensitivity.md) — related

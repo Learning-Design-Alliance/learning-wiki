@@ -65,3 +65,8 @@ Table 1 entry for Booth et al. (2015a, b), a Con-ErrEx vs PS comparison on calcu
 
 - [Students with high initial performance profit more from area-specific practice while students with low initial performance profit more from general practice](initial-performance-moderates-practice-type-benefit.md)
 - [Prior knowledge moderates non-interactive teaching: low conceptual knowledge learners profit more, but very low-knowledge learners may not benefit at all](prior-knowledge-moderates-noninteractive-teaching.md) — related
+- [Contrasting erroneous examples were more often effective than correct examples and problem-solving, sometimes equally or more effective than erroneous examples](con-errex-more-often-effective.md) — related
+- [Erroneous examples show no general learning benefit over correct examples in most comparisons, but outperform them for negative knowledge in some studies](errexs-vs-correx-mixed-benefit.md) — related
+- [In the acquisition of negative knowledge, erroneous examples outperformed correct examples](errex-negative-knowledge-advantage.md) — related
+- [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — related
+- [Erroneous examples benefit learners with more prior knowledge, while correct-only solutions better serve low-prior-knowledge learners](erroneous-examples-prior-knowledge-interaction.md) — possibly the same claim (merge candidate)

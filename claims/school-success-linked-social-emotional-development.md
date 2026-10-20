@@ -52,3 +52,6 @@ A consensus statement of evidence from the Council of Distinguished Scientists a
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a narrower finding that bears on this claim
 - [Artistic and social-emotional competencies are mutually reinforcing](artistic-sel-competencies-mutually-reinforcing.md) — a narrower finding that bears on this claim
 - Emotions form a critical piece of how, what, when, and why people learn, so education should leverage the emotional aspects of learning — related
+- [Prospective longitudinal studies of high-risk children found that a greater percentage became healthy, competent young adults than developed problems](high-risk-children-majority-resilient-longitudinal.md) — related
+- [Positive school-based relationships support secondary students' learning and well-being, especially for youth experiencing poverty, trauma, and discrimination](positive-relationships-support-secondary-learning-wellbeing.md) — a narrower finding that bears on this claim
+- [Health factors and academic outcomes are linked: meeting nutritional and fitness needs, school-based health centers, and positive school climate are associated with achievement, attendance, and behavior](health-factors-linked-academic-outcomes.md) — related

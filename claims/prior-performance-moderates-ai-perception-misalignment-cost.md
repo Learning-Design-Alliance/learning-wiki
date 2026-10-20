@@ -45,3 +45,4 @@ Second-order polynomial response surface (Fig. 1) with heteroscedasticity-robust
 ## Related Claims
 - [Greater early-project misalignment in partners' perceptions of each other's AI use is associated with lower final project scores](early-ai-use-perception-misalignment-lower-team-scores.md) — a broader claim this one bears on
 - [Teams whose perception of who uses more AI reversed between t1 and t3 achieved lower scores than teams with stable perceptions](perception-reversal-associated-with-lower-scores.md) — related
+- [The effect of mathematics test practice varies across prior-achievement levels, with significant effects at intermediate-to-high levels (levels 3 and 4) but not at the lowest or highest](practice-effect-varies-by-prior-achievement.md) — related

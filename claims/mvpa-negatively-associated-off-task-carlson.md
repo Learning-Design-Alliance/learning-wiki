@@ -43,4 +43,5 @@ Observational study within the review (Carlson et al., 2015; n = 1322, mean age 
 
 
 ## Related Claims
--
+- [Over a three-year CB-PA intervention, the percent of time spent in MVPA was significantly associated with the percent of time on task (p < 0.01)](three-year-cbpa-mvpa-time-on-task.md) — related
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — a broader claim this one bears on

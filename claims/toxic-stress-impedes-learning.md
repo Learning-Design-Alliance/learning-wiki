@@ -58,3 +58,7 @@ Narrative synthesis in the "Environments Filled With Safety and Belonging" scien
 - Regulate-relate-reason sequence: students reason once regulated and feeling supported — related
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Chronic stereotype threat is negatively associated with mathematical achievement in secondary schoolgirls](chronic-stereotype-threat-lower-math-achievement.md) — a narrower finding that bears on this claim
+- [The report claims six core SoLD findings should reshape teacher preparation, including that the brain is malleable, variability is the norm, and relationships catalyze learning](sold-core-findings-reshape-teacher-preparation.md) — related
+- [Anticipatory test anxiety can set off a downward spiral of maladaptive cognitions, emotions, and behaviors](anticipatory-test-anxiety-downward-spiral.md) — related
+- [After school-wide positive and restorative discipline training, Black-White and LGBTQ-straight differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
+- [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — a narrower finding that bears on this claim

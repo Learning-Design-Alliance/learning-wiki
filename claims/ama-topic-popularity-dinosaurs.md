@@ -44,3 +44,5 @@ Analysis of usage logs from the school sessions (Figure 5) shows 33 students ini
 
 ## Related Claims
 - [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related
+- [More than 70 percent of the 180 most popular literacy applications referenced no research in their design](literacy-apps-lack-research-reference.md) — related
+- [Most students posed one to three questions to the chatbot, with a minority showing substantially higher engagement](ama-engagement-question-counts.md) — related

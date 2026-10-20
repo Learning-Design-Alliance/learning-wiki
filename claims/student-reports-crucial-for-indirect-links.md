@@ -45,3 +45,5 @@ Partial-perspective MSEM using only teacher-reported SRL promotion (167 teachers
 ## Related Claims
 - [Teachers' self-efficacy for SRL promotion shows significant indirect effects on students' self-efficacy, utility value and attainment value via teacher- and student-reported SRL promotion, with no indirect path to cost](indirect-effects-teacher-self-efficacy-via-srl-promotion.md) — reports the opposite
 - [No significant direct effects exist between teachers' motivation to promote SRL and students' SRL motivation](no-direct-teacher-student-motivation-effects.md) — related
+- [Student-reported SRL promotion is associated with students' self-efficacy, utility value and attainment value for SRL at class and student levels, but not with perceived cost](student-reported-srl-promotion-linked-to-student-motivation.md) — related
+- [Teachers' self-efficacy for SRL promotion, but not their attainment value, is positively related to their self-reported SRL promotion when both are modelled simultaneously](teacher-self-efficacy-predicts-srl-promotion.md) — related

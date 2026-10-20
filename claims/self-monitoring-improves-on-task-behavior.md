@@ -106,3 +106,6 @@ The evidence recorded above comes from single-case designs with students with or
 - [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) — related
 - [Prompted self-monitoring is the most frequently used self-management configuration in school-based single-case research](prompted-self-monitoring-most-frequent-configuration.md) — related
 - [Self-monitoring intervention effects rest on four key components: selecting a target behavior, defining it, self-assessment, and self-recording](self-monitoring-four-key-components.md) — related
+- [Self-monitoring interventions produce strong effects for students with ASD across behavioral targets and school settings (overall Tau-U = .83)](self-monitoring-strong-effects-asd-tau-u-083.md) — related
+- [Single-case effects of self-management interventions are not moderated by intervention characteristics (duration, fidelity assessment, fidelity method, or training)](sm-effects-not-moderated-intervention-characteristics.md) — related
+- [Self-management interventions significantly and positively impact academic outcomes (achievement and work completion) in single-case design studies](sm-interventions-improve-academic-outcomes-scd.md) — related

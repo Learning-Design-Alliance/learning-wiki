@@ -73,3 +73,5 @@ Second finding within the objectives-of-learning theme, reporting "widespread un
 - [Reaching the qualitative SOLO phase in GenAI interaction required repeated meta-level learner interventions, demanding the very self-regulatory skills the tool was expected to support](genai-qualitative-shift-requires-meta-level-interventions.md) — related
 - [ChatGPT's biggest predicted disruption is its effect on knowledge work productivity, chiefly by providing a competent first draft](chatgpt-first-draft-productivity-prediction.md) — related
 - [Students express concerns about GenAI, with non-users (never/rarely) significantly more concerned than other users, and concerns uncorrelated with knowledge](genai-concerns-nonusers-differ.md) — related
+- [The skills required in a world powered by ChatGPT and related technologies will be different from those demanded previously](chatgpt-era-skills-reorganisation.md) — a broader claim this one bears on
+- [Employers value social and emotional development alongside content knowledge for workforce preparation](employers-value-social-emotional-skills.md) — related

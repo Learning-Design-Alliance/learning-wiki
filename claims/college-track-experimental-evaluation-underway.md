@@ -43,4 +43,4 @@ Statement in the brief about the evaluation partnership: the article reports the
 
 
 ## Related Claims
--
+- [A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S. Department of Education](first-national-randomized-study-charter-achievement.md) — related

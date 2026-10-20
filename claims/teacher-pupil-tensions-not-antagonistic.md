@@ -46,3 +46,7 @@ The paper's second stated argument, from close analysis of teacher-pupil episode
 
 - [Pupils often neglected the caption box although they were aware of it, displaying a divergent orientation to the teacher's aims](pupil-divergent-orientation-caption-box.md)
 - [During collaborative learning with computers, teachers' concerns of classroom management and pedagogy are typically intertwined](teacher-management-pedagogy-intertwined.md)
+- [OpenSciEd curriculum design goals, especially coherence from the student perspective, come into tension during unit design](open-scied-design-tensions-coherence.md) — related
+- [When correcting pupil work, the teacher revoices rather than dismisses pupils' solutions, challenging them toward more sophisticated ones](teacher-revoicing-pupil-solutions.md) — related
+- [Making rounds minimizes off-task behaviour because pupils monitor for the teacher's approach and adjust their behaviour](rounds-surveillance-minimizes-off-task.md) — related
+- [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](teacher-guidance-mediation-cscl.md) — related

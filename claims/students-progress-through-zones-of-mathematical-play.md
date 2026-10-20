@@ -52,3 +52,4 @@ The authors themselves are explicit that this is a conceptual/descriptive contri
 - [In pretend play the child behaves beyond her average age and daily behaviour](pretend-play-child-head-taller.md) — a broader claim this one bears on
 - [Guided Play Improves Academic Outcomes](play-based-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — related
+- [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related

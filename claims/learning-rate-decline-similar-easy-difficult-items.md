@@ -45,3 +45,4 @@ Model comparison splitting the 95 critical items into 47 early-mastered and 48 l
 ## Related Claims
 - [Grammar-learning ability is preserved until about age 17.4 and then declines steadily, per the best-fitting ELSD model](grammar-learning-rate-declines-after-17-4-years.md) — a broader claim this one bears on
 - [Later age of entry to a signing school for the Deaf is associated with lower ASL syntactic judgment and analogical reasoning scores, with a marked decline for entry after age 12](later-school-entry-lower-asl-scores.md) — related
+- [Ultimate attainment is similar for learners who begin by 10-12 years of age and declines continuously thereafter](ultimate-attainment-stable-until-10-12-years.md) — related

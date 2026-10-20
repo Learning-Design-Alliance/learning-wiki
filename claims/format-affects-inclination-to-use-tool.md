@@ -45,3 +45,5 @@ Chi-square analyses of tool-use percentages across the 61 dyads and 95 individua
 
 ## Related Claims
 - [Target strategy use did not vary by instructional support condition for any of the three fraction comparison tasks](target-strategy-use-did-not-vary-by-condition.md) — related
+- [Situational knowledge is fostered by collaboration, tool format, and tool-use, with arithmetical format outperforming textual](situational-knowledge-setting-format-tooluse.md) — related
+- [Awareness prompts stimulated discourse about more concepts but did not improve shared drawing quality in elementary dyads](awareness-prompts-discourse-not-drawing-quality.md) — related

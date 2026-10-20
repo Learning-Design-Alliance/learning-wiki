@@ -45,3 +45,5 @@ Descriptive report of national NAEP 2007 reading data cited in the guide's overv
 ## Related Claims
 
 - [On 2022 NAEP 8th- and 12th-grade reading and math exams, students who were both English learners and from low-income backgrounds scored lowest among four student groups, with less than one third scoring basic or above in reading and less than one quarter in math](naep-dual-el-low-income-lowest-2022.md)
+- [Large shares of U.S. 4th and 8th graders read below the NAEP Basic level in reading comprehension](naep-2005-below-basic-reading.md) — related
+- [Percentages of students at or above NAEP Proficient were unchanged in mathematics and lower in reading since 2017 at grades 4 and 8](naep-2019-proficient-unchanged-math-lower-reading.md) — related

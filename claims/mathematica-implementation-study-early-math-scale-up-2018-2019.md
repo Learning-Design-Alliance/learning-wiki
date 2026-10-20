@@ -44,3 +44,4 @@ The brief states it "conducted an implementation study that examined the scale-u
 
 ## Related Claims
 - [An NSF-funded replication of Math Corps operated in three new cities across summers 2017–2019 with independent evaluation](math-corps-nsf-funded-three-city-replication.md) — related
+- [Pre-K Mathematics remains effective at the state scale, with a positive and statistically significant effect of .30 on the ECLS-B Mathematics Assessment](pre-k-mathematics-effective-state-scale-es-30.md) — related

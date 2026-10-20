@@ -49,3 +49,6 @@ The evaluation's elementary component reports that for program students "their a
 - [Elementary participants in the 21st Century Community Learning Centers program were more likely to engage in negative behaviors than students not enrolled](cclc-elementary-participants-more-negative-behaviors.md) — related
 - [The 21st Century Community Learning Centers program had few impacts on student achievement overall](21st-cclc-national-evaluation-no-academic-improvement.md) — a broader claim this one bears on
 - [No difference between treatment and control groups on homework assistance or completion in the 21st Century Community Learning Centers evaluation](cclc-no-difference-homework-assistance-completion.md) — a narrower finding that bears on this claim
+- [21st CCLC afterschool programs changed after-school supervision, with parents less likely to care for their child and other adults more likely](21st-cclc-shifted-after-school-supervision-away-from-parents.md) — related
+- [Students in 21st CCLC programs reported feeling safer after school](21st-cclc-students-felt-safer-after-school.md) — related
+- [21st CCLC participation showed no statistically significant effect on the incidence of self-care after school](21st-cclc-no-significant-effect-self-care.md) — related

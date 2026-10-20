@@ -51,3 +51,5 @@ Multiple regression on the same sample with correct responses as the dependent v
 - [Working memory accounts for the relation between ADHD traits and communicative perspective-taking](working-memory-accounts-adhd-perspective-taking-relation.md) — related
 - [Vocabulary scores predicted executive-loaded non-verbal working memory scores beyond age and non-verbal reasoning](vocabulary-predicts-executive-loaded-nvwm.md) — related
 - [Background measures show no group differences in age, intelligence, or English vocabulary, confirming group matching](group-matching-background-measures.md) — related
+- [Monolingual and bilingual children show no differences in the types of errors committed on the perspective-taking task](no-language-group-differences-error-types-perspective-taking.md) — related
+- [The bilingual advantage in perspective taking appears at the 180° and 270° observer positions but not at the 90° position](bilingual-advantage-difficult-observer-positions.md) — a narrower finding that bears on this claim

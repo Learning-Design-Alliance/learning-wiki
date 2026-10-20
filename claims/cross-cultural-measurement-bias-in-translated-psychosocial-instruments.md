@@ -52,3 +52,4 @@ Psychometric evaluation of the Korean-translated MPD in the 79-subject sample: R
 - [Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment](cultural-background-influences-learning-style-measurement.md) — related
 - Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related
 - The immigrant sample's low return rate limits generalizability to Korean adult immigrants as a whole — related
+- [The correlates of self-disclosure preference with AI chatbots diverge culturally: positive with adaptive coping in HK but not the US, and positively associated with maladaptive coping in the US but negatively in HK](self-disclosure-chatbots-cultural-divergence.md) — related

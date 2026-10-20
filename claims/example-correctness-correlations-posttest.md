@@ -45,3 +45,4 @@ Exploratory bivariate correlations (Table 2) computed separately for the generat
 ## Related Claims
 - [Classified examples are more often correct than generated examples during learning, but feedback does not improve classification](classification-correctness-feedback-null.md) — related
 - [Classifying provided examples is more effective for learning relational categories than reading or generating examples](classifying-examples-beats-reading-generating-relational-categories.md) — related
+- [Knowledge gains correlate positively with belief change, more strongly for higher relational-understanding levels](knowledge-gains-correlate-belief-change.md) — related

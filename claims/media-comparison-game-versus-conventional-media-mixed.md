@@ -62,4 +62,5 @@ Media comparison studies of games with more complex and intrusive narrative them
 
 
 ## Related Claims
--
+- [Adding a narrative theme to the Cache 17 game did not improve transfer posttest performance](narrative-theme-cache17-no-transfer-gain.md) — related
+- [Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons](digital-games-outperform-nongame-media-comparisons.md) — a broader claim this one bears on

@@ -47,3 +47,4 @@ Multivariate time series regression (dynamic structural equation modeling) of ru
 - [Group engagement dimensions are positively interrelated concurrently, except socioemotional engagement](gde-dimensions-positively-interrelated-except-se.md)
 - [Open-ended tasks are associated with higher disciplinary engagement in the same observation interval](open-ended-tasks-higher-disciplinary-engagement.md)
 - [Adding time-varying task features roughly halves unexplained variance in disciplinary engagement ratings](task-features-explain-half-de-variance.md)
+- [Collaborative and metacognitive engagement reciprocally predict each other over time](ce-me-reciprocal-temporal-relation.md) — related

@@ -45,3 +45,4 @@ The article motivates the study by noting "a dearth of research with older parti
 ## Related Claims
 - [Collaborative constructions (joint analyses built while collaborating) had little relevance to individual post-test performance in adolescence and early adulthood](collaborative-constructions-little-relevance-older-learners.md) — related
 - [Exchanging differing opinions during small-group collaboration is associated with individual post-test performance among students aged 10 to 22](differing-opinions-associated-posttest-adolescents.md) — a narrower finding that bears on this claim
+- [Earlier studies suggested mature active-learning patterns emerge only in late childhood, but the article attributes this to paradigm limitations](late-emergence-findings-paradigm-limited.md) — related

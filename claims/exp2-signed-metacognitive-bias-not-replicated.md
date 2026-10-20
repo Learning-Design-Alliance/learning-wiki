@@ -52,3 +52,4 @@ Pre-registered one-way ANOVA with linear contrast on signed metacognitive bias i
 - [In Experiment 1, a five-trial metacognitive prediction-plus-feedback intervention significantly reduced reminder bias, producing more optimal reminder-setting behaviour](metacognitive-feedback-reduces-reminder-bias.md) — related
 - [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — related
 - [Providing a rubric reduces bias in self-assessment, moving judgments closer to expert ratings](rubrics-reduce-self-assessment-bias.md) — related
+- [In Experiment 2, making metacognitive predictions alone did not improve calibration, performance feedback was sufficient, and explicit metacognitive feedback added no significant benefit](prediction-alone-ineffective-performance-feedback-sufficient.md) — related

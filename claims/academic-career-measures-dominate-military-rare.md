@@ -45,3 +45,5 @@ Frequency analysis of measure types across the 41 plans with a postsecondary rea
 ## Related Claims
 - [More than three of four ESSA plans (41 of 53, 77%) include a postsecondary readiness indicator as a scoring element in state accountability systems](77-percent-essa-plans-postsecondary-readiness-indicator.md) — related
 - [Postsecondary readiness indicators carry an average weight of 16 percent of high school summative accountability scores, ranging from 5 to 33 percent](postsecondary-indicator-weight-averages-16-percent.md) — related
+- [Indicator complexity varies from 1 to 23 measures (averaging just under seven), and states with more measures do not necessarily weight the indicator more](indicator-complexity-varies-no-weight-complexity-link.md) — related
+- [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — related

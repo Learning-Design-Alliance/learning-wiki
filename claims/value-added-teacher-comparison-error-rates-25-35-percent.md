@@ -46,3 +46,5 @@ Analytical estimation using formulas based on ordinary least squares and empiric
 - [Value-added error rates apply to measuring both teacher and school performance in the upper elementary grades using student test score gain data](value-added-error-rates-teacher-and-school-upper-elementary.md) — a broader claim this one bears on
 - [Overall false positive error rates are about 10 percent and false negative error rates about 20 percent for value-added performance classifications](value-added-false-positive-negative-error-rates.md) — related
 - [Overall false positive and false negative error rates in teacher value-added performance classification are about 10 and 20 percent, respectively](value-added-false-positive-negative-rates-10-20-percent.md) — related
+- [Value-added estimates are likely to be noisy with the amount of data typically used in practice](value-added-estimates-noisy-typical-data.md) — related
+- [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related

@@ -45,3 +45,5 @@ Exploratory behavioral pilot with 18 participants using GPT-5.2 in a browser-bas
 - [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](auto-updates-drew-users-from-explanations.md) — related
 - [Step-by-step explanations revealed one at a time, plus removed code auto-insertion and copy buttons, encouraged deeper engagement with generated explanations](step-by-step-friction-deeper-engagement.md) — related
 - [Output-level Unicode soft barriers can achieve high copy-paste resistance, but effectiveness is highly model- and task-dependent](soft-barriers-cpr-model-task-dependent.md) — a broader claim this one bears on
+- [Constituting AI as a critical file that returns questions instead of revisions is a design requirement for sustaining productive struggle](ai-as-critical-file-design.md) — a broader claim this one bears on
+- [Pass@1 is not a sufficient success metric for soft barriers because it conflates successful barriers with model generation failures](pass1-false-narrative-soft-barriers.md) — related

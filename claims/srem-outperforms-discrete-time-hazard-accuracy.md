@@ -44,3 +44,4 @@ Empirical comparison using data from a large Arizona school district, reported i
 
 ## Related Claims
 - [Information about English-language development is critical for accurately predicting the grade an EL will reclassify](english-development-information-critical-reclassification-prediction.md) — related
+- [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](enriched-data-improve-achievement-prediction.md) — related

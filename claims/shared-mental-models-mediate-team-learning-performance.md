@@ -47,3 +47,4 @@ Baron-and-Kenny mediation analyses on team-level data: adding team learning beha
 - [Participants in a probe study and co-design workshop perceived AI mediation in interdisciplinary student teams along both cognitive and relational dimensions](ai-mediation-cognitive-and-relational-dimensions.md) — related
 - [Shared mental models show no significant link with perceived team effectiveness](shared-mental-models-not-linked-perceived-effectiveness.md) — related
 - [Shared mental models of the task predict actual team performance in a business simulation game](shared-mental-models-predict-actual-team-performance.md) — possibly the same claim (merge candidate)
+- [Co-construction alone does not contribute to shared mental model development and shows a negative unique effect](co-construction-alone-hinders-shared-mental-models.md) — a narrower finding that bears on this claim

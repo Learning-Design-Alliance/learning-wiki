@@ -45,3 +45,4 @@ Historical-evolutionary argument from the abstract: comparison with "pre-modern 
 ## Related Claims
 
 - [Social and physical self-concepts (e.g., relative physical abilities) appear universal and central to overall self-concept, unlike academic self-concepts](universal-social-physical-self-concepts.md)
+- [Historical-method inquiry tasks center on uniformitarianism and taxonomy construction, and evaluating independent lines of inquiry for convergence is entirely absent](historical-method-uniformitarianism-dominates.md) — related

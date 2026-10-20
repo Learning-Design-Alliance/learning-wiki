@@ -43,4 +43,7 @@ Gamma regression model of student reasoning (turn-level justifications, if-then 
 
 
 ## Related Claims
--
+- [The intervention increased teachers' talk moves but decreased authentic teacher questions, contradicting the dialogic-practice hypothesis for questions](qt-increases-talk-moves-decreases-authentic-teacher-questions.md) — related
+- [A QT-based literary intervention reduced teachers' monologic practices (teacher turns, turn allocation, test questions, evaluation) in small-group discussions](qt-intervention-reduces-monologic-teacher-practices.md) — related
+- [The intervention increased students' elaborated explanations and cumulative and exploratory talk](qt-increases-explanations-cumulative-exploratory-talk.md) — related
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related

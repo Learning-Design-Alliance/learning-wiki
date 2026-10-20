@@ -66,3 +66,4 @@ Descriptive analysis of message language in the platform data (figure 7). Other 
 - [Secondary schools, especially those with higher chronic absenteeism rates, used attendance-related text messaging more than elementary schools, suggesting use was better predicted by grade configuration than by absenteeism rates](secondary-schools-more-attendance-texting-grade-configuration.md) — related
 - [Existing MLL-focused edtech overwhelmingly offers English and Spanish, with a third offering only those two languages](mll-edtech-landscape-english-spanish-dominant.md) — related
 - A coordinated communication campaign in Texas was followed by nearly 1 million families logging into the assessment portal — related
+- [Translation features in mobile apps enabled direct communication between educators and parents who speak languages other than English](app-translation-features-direct-communication.md) — related

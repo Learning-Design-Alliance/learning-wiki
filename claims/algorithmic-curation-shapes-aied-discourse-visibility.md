@@ -53,3 +53,4 @@ The authors' interpretive discussion (not a tested result) linking topic distrib
 - [The marginality of Generator, Reimaginator, and Synthesizer entanglements reflects institutional accommodation of individualistic competence expectations rather than technological limitation](entanglement-distribution-reflects-institutional-accommodation.md) — related
 - AIED 2024 shows educators as prominent stakeholders, with more papers in the middle of the end-user axis — related
 - [Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences](optimistic-scenario-bias-limitation.md) — related
+- [Constructive engagement is ecologically organized: amplified by explicit learning-oriented framing, higher in coding than writing, and more visible in sustained exchanges](constructive-engagement-contextual-organization.md) — related

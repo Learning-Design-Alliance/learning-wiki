@@ -45,3 +45,4 @@ Correlational analysis of virtual demographic data (character level) against cod
 ## Related Claims
 - [86% of World of Warcraft forum posts constitute social knowledge construction rather than social banter](wow-forum-86-percent-social-knowledge-construction.md) — related
 - [Systems-based reasoning and understanding feedback correlate moderately with discussion of the priest talent tree](talent-tree-discussion-correlates-systems-reasoning.md) — related
+- [Model-based reasoning appears in about one tenth of WoW forum posts, with model testing, mathematical modeling, and explicit computation progressively rarer](wow-model-based-reasoning-proportions.md) — related

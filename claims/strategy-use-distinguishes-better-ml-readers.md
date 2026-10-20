@@ -49,3 +49,4 @@ Narrative synthesis of Klingner et al. (2006) findings reported within this revi
 ## Related Claims
 - [L1 decoding is positively related to English reading comprehension for Spanish- and Chinese-speaking MLs, with the correlation decreasing as children get older](l1-decoding-positive-relationship-english-comprehension.md) — related
 - [Explicit instruction in individual English word meanings, rich in-depth vocabulary instruction, visuals, L1 use, and word-learning strategies improved MLs' English vocabulary](vocabulary-instruction-practices-improve-ml-english-vocabulary.md) — related
+- [English (L2) decoding shows a strong linear relationship with English reading comprehension, with the correlation decreasing as children get older](l2-decoding-strong-relationship-english-comprehension.md) — related

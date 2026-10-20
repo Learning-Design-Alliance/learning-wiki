@@ -46,3 +46,5 @@ Descriptive baseline statistics report for the EPIC evaluation, published by Mat
 ## Related Claims
 - [PSAT-based National Merit scholarship selection distributes awards disproportionately to boys, with girls receiving 36 percent of scholarships](psat-national-merit-awards-skew-male.md) — related
 - [Principals exhibit an incomplete understanding of how achievement growth is captured in EPIC performance measures](principals-incomplete-understanding-growth-measures.md) — related
+- [Principals prefer school-level performance and achievement growth over teacher-level performance alone or test-score levels for incentive awards](principals-prefer-school-level-growth-for-incentives.md) — related
+- [Most principals in EPIC sites have positive attitudes toward EPIC and merit pay in general](epic-principals-positive-attitudes-merit-pay.md) — related

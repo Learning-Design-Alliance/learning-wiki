@@ -44,3 +44,4 @@ A Year 1 implementation challenge identified in the report's summary of obstacle
 
 ## Related Claims
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related
+- [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](instruction-alone-limited-joint-reflection-tool-values.md) — related

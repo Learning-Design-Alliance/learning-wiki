@@ -46,3 +46,4 @@ Student survey on a 1 to 5 helpfulness scale in the same crossover study; the ar
 - [Learning gains were uncorrelated with prior self-reported AI literacy and database literacy, suggesting AI integration benefited students irrespective of prior perceptions](gains-uncorrelated-with-prior-literacy.md) — related
 - [Professional commitment is essentially uncorrelated with AI literacy and shows no significant bivariate correlation with learning engagement](professional-commitment-null-bivariate-correlations.md) — related
 - [Builders' perceived control, satisfaction, and perceived quality show no detectable association with their measured visual atypicality, so convergence goes unnoticed from the inside](perception-uncorrelated-with-measured-originality.md) — related
+- [Perceived usefulness of ChatGPT, an invalid cue, is associated with overestimation of performance](perceived-usefulness-invalid-metacognitive-cue.md) — a narrower finding that bears on this claim

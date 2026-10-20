@@ -55,3 +55,5 @@ Longitudinal SEM predicting spring first-grade writing outcomes from kindergarte
 - [Kindergarten attention is not uniquely predictive of third-grade writing quality in either genre](kindergarten-attention-not-predictive-grade3-writing.md) — related
 - [Kindergarten oral language is uniquely related to first-grade writing quality but not to compositional fluency](oral-language-first-grade-quality-only.md) — related
 - [Spelling and attentiveness are uniquely related to writing conventions of first-grade written composition, but instructional quality is not](spelling-attentiveness-predict-writing-conventions.md) — related
+- [A higher-order early literacy factor (reading and spelling) is uniquely and positively related to kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related
+- [Teacher responsiveness is uniquely related to substantive quality of first-grade written composition after accounting for child predictors and other instructional quality variables](teacher-responsiveness-predicts-substantive-quality.md) — related

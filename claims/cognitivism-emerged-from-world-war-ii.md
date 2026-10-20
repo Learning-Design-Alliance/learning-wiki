@@ -45,3 +45,4 @@ Historical argument citing Lachman et al. (1979) and Gardner (1985): the war "st
 ## Related Claims
 
 - [Sociocultural theory emerged from the Russian Revolution, and English translations systematically deleted its Marxist references](sociocultural-theory-marxist-origins-deleted-translations.md)
+- [Disciplinary authenticity in computing education, as conceived in the Learning Sciences, is predicated on the erasure of endarkened people in computing](disciplinary-authenticity-computing-erasure-endarkened-people.md) — related

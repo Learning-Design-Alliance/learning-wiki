@@ -48,3 +48,5 @@ MANOVA of the 51-participant experiment's attitude survey found "a significant o
 - [Textual prompts produce higher first-attempt practice accuracy, while pictorial prompts produce higher second-attempt accuracy](prompt-format-first-second-attempt-accuracy.md) — related
 - [Textual instructional prompts yield significantly higher near-transfer posttest performance than pictorial prompts for novice circuit-analysis learners](textual-prompts-better-near-transfer-than-pictorial.md) — related
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — related
+- [Self-regulated vs. externally regulated prompt presentation shows no significant effect on posttest performance and no interaction with prompt format](prompt-presentation-no-performance-effect.md) — related
+- [Self-selected interventions tend to yield stronger effects on motivation and overall efficacy](self-selected-interventions-stronger-effects.md) — related

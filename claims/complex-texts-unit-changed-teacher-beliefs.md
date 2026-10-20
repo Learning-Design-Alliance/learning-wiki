@@ -45,3 +45,6 @@ Qualitative feedback from the year-long field test in six Council of the Great C
 ## Related Claims
 - [Large majorities believe most students are capable of high achievement, but only 19 to 29 percent say most students currently reach high levels, producing gaps of 46 to 61 points](capability-belief-achievement-gap-survey.md) — related
 - [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](teacher-expectation-effects-on-achievement.md) — related
+- [Teachers in SIG schools with a greater PD focus on ELL-related topics more often reported that PD improved their effectiveness as teachers of ELLs](greater-ell-pd-focus-linked-to-reported-effectiveness-gains.md) — related
+- [Most field-test teachers report curriculum-based professional learning prepared them for distinctive OpenSciEd pedagogy, with mixed results on standards beliefs](pd-prepares-storyline-pedagogy-implementation.md) — related
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related

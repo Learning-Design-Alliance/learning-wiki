@@ -48,3 +48,5 @@ Observational analysis of about 1,500 randomly sampled NWEA MAP Growth schools l
 - [Achievement declines from 2019 to 2022 were larger for students in high-poverty schools than in low-poverty schools in grades 1–2](early-elementary-covid-losses-school-poverty-disparities.md) — related
 - [Achievement of the lowest-growth schools varies dramatically, and fall achievement accounts for about 80% of spring achievement versus 14% for growth](low-growth-schools-achievement-varies-growth-achievement-correlation.md) — related
 - Research finds concentrated poverty harms achievement, with a tipping point around 50-60% school poverty after which achievement declines dramatically — related
+- [After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety](achievement-composition-predicts-safety.md) — related
+- [School median student growth percentiles correlate with student disadvantage](school-mgp-correlates-student-disadvantage.md) — related

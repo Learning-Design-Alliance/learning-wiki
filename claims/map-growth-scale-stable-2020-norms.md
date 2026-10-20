@@ -45,3 +45,8 @@ The report's foreword asserts scale stability and measurement validity across th
 ## Related Claims
 - [Both item-level and test-level analyses indicate the MAP Growth measurement scales are remaining stable](map-growth-scales-remaining-stable.md) — possibly the same claim (merge candidate)
 - [The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states](map-cat-longitudinal-construct-invariance-ten-states.md) — related
+- [Post-COVID norm shifts and NWEA's enhanced item selection algorithm change the interpretation of MAP Growth metrics for school accountability](post-covid-norm-shifts-change-map-growth-accountability-metrics.md) — related
+- [Norm shifts can raise achievement percentiles for schools serving struggling students even when RIT gains and projected proficiency do not improve](norm-shifts-raise-school-percentiles-struggling-students.md) — related
+- [Under the 2025 MAP Growth norms, the same reading RIT score can rank higher in achievement percentile due to national declines in achievement](2025-norms-raise-reading-achievement-percentiles.md) — related
+- [Norm shifts can change teacher evaluation CGP outcomes independently of instructional quality](cgp-norm-shifts-change-teacher-evaluation-outcomes.md) — related
+- [Under the 2025 norms, higher math growth expectations lower conditional growth percentiles for higher-growth students](2025-norms-lower-math-cgp-higher-growth-students.md) — related

@@ -43,4 +43,5 @@ Secondary correlational analysis across the three experiments' high-variability 
 
 
 ## Related Claims
--
+- [EOL judgments are highly accurate when items vary widely in difficulty within a list, but poorly accurate when variation is small](eol-accuracy-depends-on-within-list-difficulty-variability.md) — related
+- [The type of EOL task (difficulty vs. trials-to-learn scale) does not reliably affect EOL accuracy](eol-task-type-no-effect-on-accuracy.md) — related

@@ -47,3 +47,4 @@ The article's key findings list states this subject-level benefit of the adaptiv
 - A Bayesian adaptive design can yield superior inference to a standard design using less than one third the sample size under identified conditions — related
 - [The adaptive trial design reallocates more study subjects to more promising treatment arms as evidence accumulates](adaptive-allocation-to-promising-arms.md) — possibly the same claim (merge candidate)
 - The Bayesian adaptive design can produce better inference and ultimately smaller trials under identifiable conditions — related
+- [The multi-step grading recipe with calibration examples achieves the highest scoring accuracy and receives the majority of bandit arm pulls](multi-step-examples-highest-aes-accuracy.md) — related

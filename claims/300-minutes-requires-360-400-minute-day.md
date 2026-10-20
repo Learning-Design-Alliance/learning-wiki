@@ -46,3 +46,6 @@ From the report's synthesis of its day-level observation data, even the best-man
 - [Classroom management demands reduce Chicago students' daily instruction to roughly 240 minutes despite a 300-minute allocation](management-reduces-daily-instruction-240-minutes.md) — related
 - [During remote learning, students at all grade levels spent about four hours per day in synchronous online instruction regardless of district requirements](four-hour-synchronous-remote-instruction-threshold.md) — related
 - [The authors argue physical activity opportunities during the school day are being reduced despite evidence fitness may benefit scholastic achievement](school-physical-activity-reduced-despite-achievement-evidence.md) — related
+- [Chicago elementary students experience roughly 500 hours of annual instruction rather than the intended 900 hours](chicago-students-500-hours-not-900.md) — related
+- [Teachers who effectively implement classroom management can engage students in learning activities for more than 90 percent of allocated time](effective-classroom-management-engages-students-over-90-percent-of-time.md) — reports the opposite
+- [Daily teaching demands competed with and distracted from a sustained developmental focus on instructional improvement](daily-demands-compete-with-developmental-focus.md) — related

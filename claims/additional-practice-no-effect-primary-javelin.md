@@ -65,3 +65,7 @@ ANOVA on movement features in PS-I + P vs PS-I showed significant TIME (ηp2 = 0
 
 - [Declarative knowledge of movement features was not significantly related to actual improvements in physical execution of those features](declarative-knowledge-not-related-feature-performance.md)
 - [Primary school children improved execution of movement features but showed no improvement in javelin throwing distance across all conditions](features-improved-distance-did-not-primary-javelin.md)
+- [In primary school children learning javelin throwing, PS-I did not outperform I-PS on throwing distance or movement-feature execution](ps-i-no-advantage-primary-motor-learning.md) — related
+- [PS-I effects did not replicate in all domains: null sequence effects in Bayesian reasoning, javelin throwing, and inquiry-skill sequencing](ps-i-null-results-new-domains.md) — a broader claim this one bears on
+- [Movement-feature performance predicted javelin throwing distance, with the bracing step contributing most](movement-features-predict-throwing-distance.md) — related
+- [Working memory capacity did not moderate learning gains in PS-I and I-PS, but digit recall correlated with declarative knowledge of the features](working-memory-no-moderation-correlated-declarative.md) — related

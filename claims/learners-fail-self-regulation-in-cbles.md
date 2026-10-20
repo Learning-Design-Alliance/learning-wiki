@@ -43,4 +43,7 @@ The dissertation reports, citing Azevedo & Cromley (2004) and Roll et al. (2005)
 
 
 ## Related Claims
--
+- [Veenman's 2007 discussion addresses assessment and instruction of self-regulation in computer-based environments with attention to metacognitive skill measurement and intelligent tutoring systems](veenman-2007-discussion-self-regulation-computer-based.md) — related
+- [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md) — a narrower finding that bears on this claim
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
+- [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](ai-assistance-withdrawal-performance-decline.md) — a narrower finding that bears on this claim

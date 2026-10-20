@@ -65,3 +65,6 @@ Discussion section: the comparison of one Western and two non-Western cases yiel
 
 - [Four cultural factors inhibit students from speaking up, asking questions and challenging others in PBL discussions, with stronger impact in non-Western schools](four-cultural-factors-inhibit-discussion-behaviors.md)
 - [Six contextual factors mediate the influence of cultural factors on discussion behaviors, either inhibiting or enhancing discussion](six-contextual-factors-mediate-discussion.md)
+- [Students' discussion skills increased from first to third year in all three institutions, but at different rates across cultures](discussion-skills-increase-first-to-third-year.md) — a narrower finding that bears on this claim
+- [The scope of PBL implementation shaped discussion quality: hybrid lecture-based implementation reduced uncertainty but yielded less critical discussion than full PBL](scope-of-pbl-implementation-shapes-discussion.md) — a narrower finding that bears on this claim
+- [The assessment system determined whether an exam-directed focus inhibited or enhanced discussion behaviors](assessment-system-determines-discussion-focus.md) — a narrower finding that bears on this claim

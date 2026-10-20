@@ -43,4 +43,5 @@ The editorial reports the Zeng et al. design-centered research study: twenty onl
 
 
 ## Related Claims
--
+- [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](teacher-guidance-mediation-cscl.md) — related
+- [Combining algebra tutoring technology with scripting for small-group learning: different team enactments can obscure averaged statistical measures of learning](team-enactments-obscure-averaged-learning-measures.md) — related

@@ -49,3 +49,5 @@ Pearson's correlation analysis (Table 2) in the survey of 462 students, correlat
 - [Metacognitive awareness among multidisciplinary university students emerges as two dimensions: knowledge about cognition and regulation of cognition](two-dimensions-metacognitive-awareness-university-students.md) — related
 - [The dissonant profile scores lowest of all profiles on knowledge about cognition, but does not differ from the unorganized-deep profile on regulation of cognition](dissonant-profile-lowest-knowledge-cognition.md) — related
 - [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related
+- [Higher model quality was associated with less goal viewing and note taking, while lab report scores correlated positively with regulative tool use and negatively with helpfile viewing](tool-use-outcome-correlations-diverge.md) — related
+- [Students rate their knowledge about cognition higher than their regulation of cognition](knowledge-cognition-rated-higher-than-regulation.md) — related

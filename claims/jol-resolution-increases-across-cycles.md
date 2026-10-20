@@ -43,4 +43,9 @@ Within the same experiment, resolution for study–test items was computed as wi
 
 
 ## Related Claims
--
+- [Test experience alleviates the foresight bias more effectively than study experience](test-experience-beats-study-experience-for-debiasing.md) — related
+- [Past-test correlations exceed concurrent resolution scores, and JOLs rise for previously recalled items while falling for nonrecalled items](past-test-information-drives-jol-progression.md) — related
+- [Enactment impairs resolution of JOLs relative to verbal encoding of action phrases](enactment-impairs-jol-resolution.md) — related
+- [JOLs for study–test items increase faster across cycles than JOLs for study–study items, reducing underconfidence relative to restudy practice](retrieval-practice-reduces-underconfidence-versus-restudy.md) — related
+- [Monitoring resolution improves with study–test practice, with larger gains for backward than for forward pairs](jol-resolution-improves-with-practice.md) — a narrower finding that bears on this claim
+- [Calibration of JOLs shifts toward underconfidence across learning cycles for action phrases under both verbal and enactive encoding, without first-cycle overconfidence](uwp-underconfidence-shift-action-phrases.md) — related

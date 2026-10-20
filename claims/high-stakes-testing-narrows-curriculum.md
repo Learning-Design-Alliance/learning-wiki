@@ -48,3 +48,5 @@ Design Principle 5 section, a narrative research synthesis, asserts that "such t
 - [Seasonality affects estimates of school effectiveness](seasonality-affects-school-effectiveness-estimates.md) — related
 - [Taking Algebra I instead of remedial math increased algebra credit earning but raised failure rates and lowered grades for low- and average-ability students, with no test-score benefit](algebra-enrollment-effect-increased-credit-raised-failure.md) — related
 - [Requiring all students to take college-prep ninth-grade courses did not increase dropout or reduce graduation, including for low-ability students](college-prep-all-no-dropout-increase.md) — related
+- [Overall policy effects were concentrated among the lowest-ability students: larger credit gains but more failures and lower math GPAs, with ninth-grade test scores unaffected](overall-policy-effects-lowest-ability.md) — related
+- [Demanding excellence for the many rather than the few is questionable, and academic excellence defined as test success is too narrow](excellence-for-all-questionable.md) — related

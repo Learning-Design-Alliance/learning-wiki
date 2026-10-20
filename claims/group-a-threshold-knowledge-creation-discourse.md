@@ -43,4 +43,7 @@ Qualitative analysis of Group A's Ideas code instances. Most idea units were con
 
 
 ## Related Claims
--
+- [Knowledge creation occurred in neither fixed nor opportunistic collaboration groups; interactions were mostly knowledge sharing](knowledge-creation-absent-fixed-and-opportunistic-groups.md) — related
+- [Knowledge-sharing discourse was the most common mode in KF discussions, while knowledge-building discourse was comparatively rare](knowledge-sharing-most-common-knowledge-building-rare.md) — related
+- [A coding scheme distinguishing knowledge creation from knowledge sharing and construction can differentiate student groups' engagement in knowledge creation](knowledge-creation-coding-scheme-distinguishes-groups.md) — related
+- [Constructive behaviors are defined by generating outputs containing new ideas that go beyond the information given](constructive-generates-beyond-information-given.md) — related

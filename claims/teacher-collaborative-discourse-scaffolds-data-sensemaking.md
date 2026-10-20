@@ -43,4 +43,6 @@ The editorial reports, without独立 independently verifying, the finding of Jia
 
 
 ## Related Claims
--
+- [Students' collaborative historical reasoning evolved over two days while co-constructing network representations with Net.Create, per the editorial's report of Craig et al.](netcreate-collaborative-historical-reasoning-evolved.md) — related
+- [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) — related
+- [Awareness of discourse patterns lets teachers scaffold students toward an epistemic orientation and stance](discourse-pattern-awareness-scaffolds-epistemic-orientation.md) — a broader claim this one bears on

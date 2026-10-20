@@ -46,3 +46,5 @@ Moderation analysis within the replacement meta-analysis comparing video against
 - [Video is more effective for teaching skills than for transmitting knowledge](video-more-effective-for-skills-than-knowledge.md) — related
 - [Replacing existing teaching with video produces small improvements in student learning in higher education (g = 0.28)](video-replacement-small-learning-benefit.md) — a broader claim this one bears on
 - [Video benefits learning only when its interactivity matches or exceeds the comparison condition](video-benefit-depends-on-relative-interactivity.md) — related
+- [Adding supplementary video to existing teaching produces strong learning benefits (g = 0.88)](supplementary-video-strong-benefit.md) — related
+- [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related

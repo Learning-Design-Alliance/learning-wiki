@@ -60,3 +60,6 @@ The authors' interpretation of cognitive science research as applied in the bump
 - [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](sketching-animation-best-understanding-photograph-worst.md) — related
 - [Decorative pictures show consistently null effects on elementary schoolers' word problem-solving performance regardless of task characteristics](decorative-pictures-null-effects.md) — related
 - [Cluttered classroom walls distract children and reduce learning, while intermediate-stimulation orderly classrooms support it](orderly-classroom-environments-support-learning.md) — related
+- [Verbal-protocol-guided revisions of functional documents improved comprehension, with error rates falling from 50% to 22% despite longer texts](protocol-guided-revision-improves-comprehension.md) — related
+- [Related decorative pictures do not increase triggered or maintained situational interest; in Experiment 2 they reduced maintained interest](related-pictures-no-interest-increase.md) — related
+- [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](unfamiliar-contexts-distract-from-mathematics.md) — related

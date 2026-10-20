@@ -45,3 +45,7 @@ Experimental hidden-profile study described by the editorial, including 54 triad
 ## Related Claims
 
 - [Emergent leadership did not differ between multi-touch table and paper conditions in study one](no-leadership-difference-multi-touch-paper.md)
+- [Much bodily-material coordination in touchscreen collaboration occurs in the space off the screen](bodily-material-interaction-off-screen.md) — related
+- [Leadership in collaborative learning is an interactional group phenomenon requiring bids to be taken up](leadership-interactional-group-phenomenon.md) — related
+- [Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader](leadership-moves-distributed-among-group-members.md) — related
+- [Metacognitive prompts during collaboration improve communication of knowledge and its underlying assumptions](metacognitive-prompts-improve-collaborative-communication.md) — related

@@ -47,3 +47,4 @@ Observational analysis of institutional data from 109 teacher education students
 - [Students with prior college experience graduated faster, averaging at least 0.9 years after re-enrolling versus at least 4.8 years for students without prior college experience](prior-college-experience-faster-pcc-graduation.md) — related
 - [Only 12.9 percent of students without prior college experience graduated within five years, putting them at risk of credit expiration](no-prior-experience-low-five-year-graduation.md) — related
 - [Estimated average graduation time differed by major, from 2 years for secondary/special education to 3.8 years for non-education majors](graduation-time-varies-by-major-pcc.md) — related
+- [Ministry of Education-affiliated students averaged 2.3 years to graduation, faster than PCAA (Head Start) and unaffiliated students](moe-affiliated-students-faster-graduation.md) — related

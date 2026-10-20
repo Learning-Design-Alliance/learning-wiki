@@ -85,3 +85,5 @@ A PCA on phi, gamma, and A'ROC from both domains produced two components (49% an
 - [Children aged 5 to 8 show metacognitive sensitivity in a nonverbal wagering task, betting more on correct than incorrect discriminations](young-children-metacognitive-wagering-task.md) — related
 - [Metacognitive sensitivity increases with age between 5 and 8 years, similarly across number and emotion domains](metacognitive-sensitivity-increases-age-5-to-8.md) — related
 - [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](numerical-metacognition-predicts-math-achievement.md) — related
+- [Metacognitive efficiency shows partial domain-general structure: strong shared metacognition between lexical decision and emotion recognition tasks](partial-domain-general-metacognition-early-readers.md) — reports the opposite
+- [Children's metacognitive judgments are not explained by baseline risk preferences or response-time cues](metacognition-not-risk-preference-or-response-time.md) — related

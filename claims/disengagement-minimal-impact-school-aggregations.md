@@ -48,3 +48,6 @@ Analysis of the Spring 2019 state summative assessment found that score aggregat
 - [Two decades of research have produced advances in both the measurement of test-taking disengagement and understanding of its distortive impact on individual and aggregated scores](disengagement-research-advances-measurement-and-impact.md) — related
 - [School officials regularly use school-aggregate test scores to monitor school performance and make policy decisions](school-officials-use-aggregate-scores-for-monitoring.md) — related
 - [Even a small amount of rapid-guessing behavior can impact institutional rankings](small-rapid-guessing-impacts-institutional-rankings.md) — reports the opposite
+- [Accounting for test disengagement had minimal impact on estimates of school growth contributions, achievement gaps, and summer learning loss](disengagement-corrections-minimal-impact-effectiveness-estimates.md) — related
+- [Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample](rapid-guessing-minimal-school-growth-estimates.md) — related
+- [Disengagement rates on the state summative test varied materially across gender, ethnicity, IEP status, LEP status, FRL status, and disability status](disengagement-varies-student-subgroups-state-test.md) — related

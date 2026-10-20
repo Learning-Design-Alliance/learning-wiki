@@ -62,4 +62,8 @@ Phase comparison from the same coding analysis shown in Fig. 6: "Sharing knowled
 
 
 ## Related Claims
--
+- [Individual synthesis artifacts facilitated collaborative discourse by guiding the flow of group work and by supporting knowledge sharing, building shared understanding, and generating and advancing ideas](synthesis-artifacts-facilitated-discourse-progression-and-epistemic-actions.md) — related
+- [Groups performing generative epistemic actions more frequently produced higher-quality knowledge objects than a division-of-labor group](generative-epistemic-actions-higher-object-quality.md) — related
+- [The three groups exhibited three distinct collaboration forms—a centralized model, loosely coordinated collaboration, and balanced and regulated collaboration—with group 3 showing the highest regulative-action percentage (40% during synthesis)](three-discourse-patterns-across-groups.md) — related
+- [Engineering team focused on generative collaborative actions, product design team on creating shared understanding, and service design team on alleviating lack of knowledge](disciplinary-kc-focus-differences-prototyping.md) — related
+- [Each team showed statistically significant changes in shared epistemic agency across prototyping phases](within-team-phase-transitions-epistemic-agency.md) — related

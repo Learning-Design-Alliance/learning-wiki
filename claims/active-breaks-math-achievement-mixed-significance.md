@@ -46,3 +46,6 @@ Meta-analysis of 7 mathematical-achievement studies (n = 2483): the outcome-aver
 - [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](active-breaks-pooled-estimates-robust-sensitivity.md) — related
 - [Classroom active breaks show no reliable effect on mathematical fluency](active-breaks-null-effect-mathematical-fluency.md) — related
 - [Classroom active breaks show no statistically significant effect on attention in schoolchildren](active-breaks-no-significant-effect-attention.md) — related
+- [Classroom active breaks produce a small but statistically significant positive effect on working memory in schoolchildren aged 6–16](active-breaks-small-positive-effect-working-memory.md) — related
+- [Classroom active breaks show no statistically significant effect on inhibitory control in schoolchildren](active-breaks-no-significant-effect-inhibitory-control.md) — related
+- [Moderate-to-vigorous intensity active breaks are associated with slightly greater working-memory improvements than moderate intensity, in exploratory meta-regression](mvpa-intensity-moderates-working-memory-effect.md) — related

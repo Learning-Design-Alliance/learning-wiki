@@ -45,3 +45,4 @@ Survey analysis of 2,036 full-time classroom teachers' reports of mathematics co
 ## Related Claims
 - [High-poverty Chicago schools show instructional pacing that flattens out around fourth grade, while mixed-income schools keep pace with ITBS norms](high-poverty-schools-pacing-flattens-fourth-grade.md) — related
 - [Integrated schools are most likely to keep pace with ITBS norms while predominantly minority and African-American schools are most likely to lag](racial-composition-pacing-gap.md) — related
+- [Schools with strong professional community show faster instructional pacing than schools with weak professional community, including among high-poverty schools](professional-community-faster-pacing.md) — related

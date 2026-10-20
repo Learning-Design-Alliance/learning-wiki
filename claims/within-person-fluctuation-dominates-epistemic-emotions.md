@@ -49,3 +49,6 @@ Descriptive analysis of the 212 session-level emotion ratings; the ICC for curio
 - [Elementary school children show substantial day-to-day within-person fluctuations in sleep quality, time in bed, daytime tiredness, and working memory performance](children-daily-fluctuations-sleep-and-working-memory.md) — related
 - [Approximately 13–14% of total variance in first-grade written composition is attributable to differences among classrooms](classroom-level-variance-written-composition-first-grade.md) — related
 - [Situational motivation is highly context-dependent and fluctuates within and between learners, but most studies rely on self-reports](situational-motivation-context-dependent-fluctuating-self-report-dominated.md) — related
+- [Most variation in digit span performance is within-person rather than between-person](within-person-variation-dominates-digit-span.md) — related
+- [Epistemic emotions showed no significant carry-over (autoregressive) stability from one course session to the next, except boredom after session type was included.](no-carry-over-effect-epistemic-emotions-sessions.md) — related
+- [Classroom and institutional differences account for little variance in engagement; nearly all variance is between students](engagement-variance-mostly-student-level.md) — related

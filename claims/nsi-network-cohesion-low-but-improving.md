@@ -47,3 +47,4 @@ Annual team connections survey analyzed with social network measures in Research
 - [Well-matched postsecondary enrollment NSI raised FAFSA completion but did not significantly affect postsecondary enrollment after year two](postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) — related
 - [Ninth-grade on-track NSI positively affected GPA, core course pass rates, and credit completion after schools' second year of participation](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related
 - [In the randomized Cohort 3 study, 9th-grade on-track NSI moderately improved attendance rates by 2 percentage points](rct-ninth-grade-nsi-attendance-gain.md) — related
+- [Classrooms differ in network density and centrality, indicators of social cohesion](classroom-density-centrality-variation.md) — related

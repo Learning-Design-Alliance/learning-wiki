@@ -67,3 +67,7 @@ Table 4 row from the Elliott & Roder (2017) RCT: intervention 66.60% versus comp
 - [Project QUEST is likely to increase industry-recognized credential, certificate, or license completion (improvement index +15, two studies, 1,301 students)](project-quest-positive-credential-completion.md) — related
 - [Career coaching participants showed increased employment rates and earnings after participating in coaching activities](coaching-associated-employment-earnings-gains.md) — related
 - [Year Up may result in little to no change in medium-term earnings](year-up-no-effect-medium-term-earnings.md) — related
+- [Project QUEST may decrease postsecondary degree attainment (improvement index -3, two studies, 1,301 students)](project-quest-potentially-negative-degree-attainment.md) — related
+- [CTE participation produces positive effects on completion, postsecondary transition, and earnings mainly when students complete three or more focused CTE courses, with effects strongest in technical fields](cte-three-plus-courses-focused-study-effects.md) — related
+- [Year Up may result in little to no change in short-term employment](year-up-no-effect-short-term-employment.md) — related
+- [Year Up may result in little to no change in medium-term employment](year-up-no-effect-medium-term-employment.md) — related

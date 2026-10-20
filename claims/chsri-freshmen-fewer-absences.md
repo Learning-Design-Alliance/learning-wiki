@@ -45,3 +45,5 @@ Comparative analysis of freshman absence records for CHSRI students versus match
 ## Related Claims
 - [Freshmen in the three case-study schools had higher on-track rates and/or GPAs than similar students at similar schools, despite entering with below-average achievement](chsri-freshmen-better-than-predicted.md) — related
 - [Outcome differences between CHSRI new-start and redesigned schools were not statistically significant after accounting for incoming student differences](chsri-new-start-redesigned-no-significant-outcome-differences.md) — related
+- [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related
+- [Nearly 90 percent of Chicago freshmen who miss less than a week of school per semester graduate, regardless of 8th grade test scores](low-freshman-absence-high-graduation.md) — related

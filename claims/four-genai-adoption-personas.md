@@ -73,3 +73,4 @@ Construct profile plot (Fig. 4) of mean scores per cluster on the original unsca
 - [Multiple sufficient configurations lead to high AI literacy performance (equifinality)](fsqca-multiple-pathways-high-ai-literacy.md) — related
 - [Control-group students framed sustainability as an external obligation and held techno-optimistic views of AI centered on efficiency with little ethical reflection](control-external-obligation-techno-optimism.md) — related
 - [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related
+- [Post-training GenAI use patterns were unevenly distributed: efficient collaborators were the largest profile (47.5%), followed by over-revisers (26.2%) and mixed users (21.2%)](uneven-post-training-genai-use-patterns.md) — related

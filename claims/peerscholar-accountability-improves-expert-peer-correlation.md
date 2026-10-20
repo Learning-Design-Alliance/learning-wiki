@@ -44,3 +44,6 @@ The review reports that Pare´ and Joordens (2008) found "a small but significan
 
 ## Related Claims
 - [Peer marks correlate with teacher marks, with a mean correlation of 0.69 across studies in a meta-analysis](peer-marks-mean-correlation-069-with-teacher-marks.md) — related
+- [Grading students on the quality of their reviews rather than on peer-assessed marks reduced tensions and improved student-instructor mark correlations](grading-review-quality-reduces-tensions-improves-correlations.md) — related
+- [Peer marks and grades show acceptably high reliability with teachers' marks in most comparison studies, but a substantial minority report low reliability](peer-assessment-adequate-reliability-most-studies.md) — a broader claim this one bears on
+- [Holistic peer feedback correlated significantly with tutor marks while specific-criteria rubric feedback did not in the PEARS system](pears-holistic-feedback-correlates-tutor-marks-specific-does-not.md) — related

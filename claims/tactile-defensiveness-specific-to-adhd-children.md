@@ -45,3 +45,4 @@ The review's discussion of tactile sensory findings states tactile defensiveness
 ## Related Claims
 - [Affect recognition deficits were not found unanimously across ADHD groups, suggesting a nuanced subtype-specific pattern](affect-deficits-not-unanimous-across-adhd-groups.md) — related
 - [ADHD subtypes are not distinct disorders with regard to sensory processing problems](adhd-subtypes-not-distinct-sensory-processing.md) — related
+- [ODD and anxiety co-morbidity predict more severe sensory processing problems in children with ADHD](odd-anxiety-predict-severe-sensory-problems.md) — related

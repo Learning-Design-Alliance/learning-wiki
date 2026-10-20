@@ -69,3 +69,4 @@ Quality analysis of the four discussions that occurred, measuring number of utte
 - [A three-phased collaboration script leads distance students to provide more and longer input in grounding discussions, with the structured interface further increasing input length](script-increases-grounding-input-amount-length.md)
 - [Scripting shifted student effort toward grounding discussions and away from group-issue discussions](script-shifts-effort-toward-grounding.md)
 - [Evidence-based rubric scripting produced more high-quality discussion than future-thinking scripting in long-term small-group collaboration.](evidence-based-rubric-scripting-more-quality-discussion.md)
+- [Scripting collaboration via role-assigned interfaces produced little difference in learning outcomes compared with an unscripted self-organized condition in a semester-long course](scripting-little-difference-learning-outcomes.md) — related

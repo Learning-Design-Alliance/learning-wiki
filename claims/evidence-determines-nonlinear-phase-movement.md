@@ -45,3 +45,6 @@ The publication's key findings assert this phase-movement rule for its four-phas
 ## Related Claims
 - [Teacher concern development is better characterized as progression and retreat than linear stage movement](teacher-concern-progression-and-retreat.md) — related
 - [Determining the right M&E activities for a new or evolving solution is challenging, and more complex when investing in multiple solutions at once](me-selection-challenging-multi-solution-investments.md) — related
+- [Groups' progress during collaboration falls into four data-driven categories differing in sequence frequencies and the regulation phases groups return to](four-categories-group-progress-monitoring-sequences.md) — related
+- [Noticing in AI-based simulations was organised through both within-dimension continuity and between-dimension connections rather than a linear sequence](noticing-organised-continuity-and-connections.md) — related
+- [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md) — related

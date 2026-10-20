@@ -46,3 +46,4 @@ A two-way mixed ANOVA on probe RTs found "no effect of age, F(1, 48) = 1.12, p =
 - No significant differences in probe error rates between test and control trials were found, suggesting the negative priming RT effect is not due to speed-accuracy trade-offs — related
 - [The negative priming effect on probe RTs was statistically significant in both adolescents (Cohen's d = 1.07) and adults (Cohen's d = 0.73)](negative-priming-effect-size-adolescents-adults.md) — related
 - [Adolescents and educated adults require more time to compare common-denominator fractions after a common-numerator prime than after a control prime (negative priming effect)](negative-priming-fraction-comparison-inhibition.md) — related
+- [Participants required more time and committed more errors when comparing fractions with common numerators than with common denominators](common-numerator-fractions-harder-than-common-denominator.md) — related

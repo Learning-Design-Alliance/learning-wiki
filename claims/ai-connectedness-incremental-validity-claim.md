@@ -44,3 +44,5 @@ Theoretical assertion, not an empirical test: the article states the construct s
 
 ## Related Claims
 - [AI connectedness is psychologically real but ethically asymmetric, carrying conditional rather than inherent risks](ai-connectedness-psychologically-real-ethically-asymmetric.md) — related
+- [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
+- [Peer rejection incrementally predicts subsequent behavioral, emotional, and academic maladjustment in children with ADHD beyond ADHD status itself](peer-rejection-predicts-subsequent-maladjustment-adhd.md) — related

@@ -48,3 +48,5 @@ Study 2, a lab experiment with 46 adults with ADHD and 44 controls, manipulated 
 - [Competition raises idea originality for all participants but does not affect fluency or flexibility](competition-main-effect-originality-not-fluency.md) — a broader claim this one bears on
 - [Intrinsic motivation during idea generation does not differ between adults with ADHD and controls](no-intrinsic-motivation-difference-idea-generation.md) — related
 - [Medication use does not affect creativity measures in adults with ADHD](no-medication-effect-on-creativity-adhd.md) — related
+- [Adults with ADHD report more real-world creative achievements than healthy controls](adhd-more-real-world-creative-achievements.md) — related
+- [Increasing extrinsic motivation via reward and competition interacts with group membership in reducing attention-task differences between children with ADHD and TD children](motivation-group-interaction-attention-adhd.md) — related

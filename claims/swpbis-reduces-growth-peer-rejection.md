@@ -50,3 +50,5 @@ Same group randomized trial; three-level HLM of teacher TOCA-C rejection ratings
 - [Teacher-rated bullying and peer rejection rose over four years of elementary school in both SWPBIS and comparison schools](bullying-rejection-increase-approaching-middle-school.md) — related
 - [Sex and special education status did not significantly moderate SWPBIS effects on teacher-rated bullying and peer rejection](swpbis-main-effects-robust-across-demographics.md) — related
 - [SWPBIS effects on peer rejection appeared strongest for children first exposed in earlier grades, the one significant grade-cohort interaction among those tested](swpbis-earlier-exposure-stronger-rejection-effect.md) — a narrower finding that bears on this claim
+- [SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](swpbis-improves-emotion-regulation.md) — related
+- [SWPBIS produces a very small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)](swpbis-improves-prosocial-behavior.md) — related

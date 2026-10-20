@@ -65,3 +65,8 @@ Descriptive comparison of ANS task performance across the two testing times (Tab
 - [In a number comparison task, adults outperform 6- to 7-year-old children in accuracy, Arabic numerals are easier than dot arrays, and easy 0.5 ratios are easier than difficult 0.8 ratios](number-comparison-accuracy-group-notation-ratio-effects.md) — related
 - [Accuracy on approximate addition decreases as ratio approaches 1, with a stronger ratio effect on the non-symbolic task](ratio-effect-approximate-addition.md) — a broader claim this one bears on
 - [Response times in number comparison show group, notation, and ratio main effects, with a larger ratio effect for dot arrays than Arabic numerals](number-comparison-response-time-anova-effects.md) — related
+- [Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding](numerical-routines-individualize-through-bonding.md) — related
+- [Children succeed at non-symbolic approximate addition above chance with a ratio effect, without relying on non-numerical strategies](kindergartners-succeed-nonsymbolic-addition-ratio-effect.md) — related
+- [ANS acuity is a unique concurrent predictor of preschool math ability beyond expressive vocabulary, non-numerical attention RT, and memory span](ans-acuity-unique-concurrent-predictor-beyond-domain-general.md) — related
+- [Early ANS acuity (accuracy and RT) uniquely predicts preschoolers' math ability six months later, controlling for initial math ability, age, and expressive vocabulary](early-ans-acuity-predicts-math-growth-preschoolers.md) — related
+- [Numerosity comparison accuracy is ratio-dependent across grades three to five](numerosity-accuracy-ratio-dependent-grades-3-5.md) — possibly the same claim (merge candidate)

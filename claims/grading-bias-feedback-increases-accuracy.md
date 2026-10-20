@@ -47,3 +47,5 @@ One of three experiments run in the online class to improve grading accuracy. Th
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Generating peer feedback prior to internal feedback does not improve the quality of assessors' subsequent internal feedback](peer-feedback-first-no-effect-internal-feedback.md) — related
+- [Giving feedback that identifies problems in peers' work is a significant predictor of assessors' own project performance](giving-problem-identification-feedback-predicts-assessor-performance.md) — related
+- [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — related

@@ -53,3 +53,4 @@ Within-class comparisons in the group-randomized trial using the Services Assess
 - [At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)](swpbis-reduces-odr-at-risk-high-risk.md) — related
 - [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — related
 - [At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools](swpbis-reduces-special-education-referral-at-risk.md) — related
+- [Latent profile analysis of baseline teacher ratings identifies four classes of children's behavioral and social-emotional risk](lpa-four-baseline-risk-classes.md) — related

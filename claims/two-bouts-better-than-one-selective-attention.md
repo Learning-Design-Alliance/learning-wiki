@@ -44,3 +44,6 @@ Randomized controlled trial within the review (Altenburg et al., 2016; n = 56, a
 
 ## Related Claims
 - [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — related
+- [Acute physical activity has a positive effect on attention in preadolescent children (g = 0.43)](acute-physical-activity-improves-attention-preadolescents.md) — a broader claim this one bears on
+- [Evidence for effects of acute bouts of physical activity on children's attention is weak and inconclusive](acute-physical-activity-children-attention-weak-evidence.md) — related
+- [Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18](cbpa-improves-attention-on-task-schoolchildren.md) — a broader claim this one bears on

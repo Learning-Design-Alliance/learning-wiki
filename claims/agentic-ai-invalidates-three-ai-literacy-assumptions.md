@@ -54,3 +54,4 @@ Theoretical argument in a conceptual paper: the author analyzes how agentic syst
 - [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related
 - [No existing AI literacy framework explicitly names prompt construction as a competency](prompt-literacy-left-unnamed.md) — related
 - [Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation](agentic-multi-agent-systems-lack-empirical-validation.md) — related
+- [Existing AI literacy assessment instruments poorly cover Stages 0–1 and Stage 4 of the continuum](assessment-instruments-gap-stages-0-1-4.md) — related

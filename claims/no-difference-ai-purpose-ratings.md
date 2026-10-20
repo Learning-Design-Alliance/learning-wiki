@@ -42,3 +42,5 @@ Descriptive analysis of 10-point semantic differential ratings from the question
 
 ## Related Claims
 - [Both groups see societal benefit in experiential learning, but instructors weight societal good more heavily than students, whose reflections center on personal fulfillment](societal-good-instructor-student-contrast.md) — related
+- [Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors](personal-experience-over-organizational-culture.md) — related
+- [Students and tutors rated predetermined LAD constructs similarly in importance but differed in suggesting and ranking new constructs](lad-stakeholders-agree-predetermined-differ-new-constructs.md) — related

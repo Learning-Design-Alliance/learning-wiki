@@ -47,3 +47,4 @@ Product-of-coefficients indirect effects with bootstrap BCa intervals (B=5000) i
 - [Both transformational and servant leadership are negatively associated with workplace harassment among university teachers](transformational-servant-leadership-negatively-associated-workplace-harassment.md) — related
 - [Transformational leadership's protective effect against harassment operates among women but not men, while its self-efficacy effect operates among men but not women (exploratory)](transformational-leadership-gender-specific-pathways.md) — related
 - [Servant leadership shows the strongest effect on teacher self-efficacy, which in turn predicts life satisfaction](servant-leadership-strongest-effect-self-efficacy-predicts-satisfaction.md) — related
+- [Workplace harassment did not significantly degrade teacher self-efficacy, plausibly due to a ceiling effect](harassment-no-significant-effect-teacher-self-efficacy.md) — related

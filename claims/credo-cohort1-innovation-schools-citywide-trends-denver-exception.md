@@ -46,3 +46,4 @@ Section 4 summary of innovation school growth trends across cities with innovati
 - [Charter schools in many of the 10 studied cities make overall positive contributions to students' learning growth relative to state averages](credo-cohort1-charter-positive-growth-contributions.md) — related
 - [District schools in most studied cities show consistently weaker performance growth than state averages, with exceptions including Denver](credo-cohort1-district-weaker-growth-exceptions.md) — related
 - [Black, Hispanic, and poverty students enrolled in charter schools show stronger growth trends than the same subgroups citywide in several cities](credo-cohort1-charter-subgroup-stronger-growth.md) — related
+- [Magnet schools across the studied cities show strong positive impact on students' performance growth compared to state averages](credo-cohort1-magnet-strong-positive-growth.md) — related

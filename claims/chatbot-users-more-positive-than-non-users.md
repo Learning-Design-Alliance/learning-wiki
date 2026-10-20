@@ -52,3 +52,4 @@ One-way ANOVA comparing users and non-users on 5-point Likert items (3 neutral) 
 - Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code — related
 - [Premium-access GenAI users report greater perceived benefits than free-only users, largest for tasks beyond current expertise](premium-access-greater-perceived-benefits.md) — related
 - [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md) — related
+- [Students using LecturaAgents reported stronger perceived understanding, assessment readiness, and future learning support than comparison-tool users](lecturaagents-student-survey-perceptions.md) — related

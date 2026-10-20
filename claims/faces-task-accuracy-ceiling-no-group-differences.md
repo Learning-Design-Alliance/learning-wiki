@@ -44,3 +44,5 @@ Accuracy check preceding the RT analyses of the faces task in ninety 8-year-olds
 
 ## Related Claims
 - [Bilingual children showed a nonsignificant advantage on the hardest theory-of-mind comprehension question, and MAIN comprehension questions may be too easy for the age range](tom2-bilingual-advantage-nonsignificant-comprehension-ceiling.md) — related
+- [Bilingual children show no reaction time cost for their dual-task accuracy advantage](no-rt-cost-bilingual-dual-task-advantage.md) — related
+- [Bilingual and monolingual 8-year-olds do not differ in response suppression costs](no-bilingual-advantage-response-suppression-children.md) — related

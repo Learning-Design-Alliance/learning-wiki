@@ -46,3 +46,4 @@ The review's abstract-level synthesis states that "Findings do not support that 
 
 - [ODD and anxiety co-morbidity predict more severe sensory processing problems in children with ADHD](odd-anxiety-predict-severe-sensory-problems.md)
 - [Tactile defensiveness in ADHD is specific to affected children, more frequent in females, and not due to tactile perception impairment](tactile-defensiveness-specific-to-adhd-children.md) — related
+- [Affect recognition deficits were not found unanimously across ADHD groups, suggesting a nuanced subtype-specific pattern](affect-deficits-not-unanimous-across-adhd-groups.md) — related

@@ -46,3 +46,4 @@ Stage 1 perceived difficulty, self-reported on a 7-point scale in the same prere
 - [Prior genAI access and incentives interact on perceived difficulty of the memory test](genai-incentive-interaction-memory-difficulty.md) — related
 - [Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups](chatgpt-flatter-mental-effort-trajectory.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [Prior genAI use and incentives show no clear effects on later memory retention](genai-no-clear-memory-effect.md) — related

@@ -49,3 +49,4 @@ Qualitative interview finding (RQ2). Perceived harm did not predict intervention
 - [US K-12 teachers judge AI companion roles along a gradient from academic to intimate, ranking Romantic Partner most concerning and Tutor or Study Buddy most acceptable](teachers-judge-ai-companions-academic-to-intimate-gradient.md) — related
 - Instruction can harm learners in ways its performance data do not show. — related
 - [Reading researcher field-notes acted as wake-up calls that made unreflective value-laden practices visible to teachers](field-notes-wake-up-calls.md) — related
+- [Within their jurisdiction, teachers describe a four-step escalation ladder: teach the whole class, watch and take note, talk one-on-one, and refer](teacher-intervention-escalation-ladder.md) — related

@@ -44,3 +44,5 @@ The report's synthesis finding on implementation and exposure across the reviewe
 
 ## Related Claims
 - [New Mexico LESC study: community schools operating more than 5 years with full pillar implementation showed better-than-average achievement growth](nm-lesc-community-schools-growth.md) — a narrower finding that bears on this claim
+- [Well-implemented community schools improve attendance, behavior, engagement, and academic outcomes, with longer and more sustained implementation associated with more significant outcomes](community-schools-implementation-strength-related-to-outcomes.md) — possibly the same claim (merge candidate)
+- [All program types show positive effects when controlling for other influences, with attendance monitoring and incentives, child care, community service, and school restructuring producing the best results](dropout-program-type-effectiveness.md) — related

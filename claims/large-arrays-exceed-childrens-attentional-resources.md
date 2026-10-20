@@ -46,3 +46,4 @@ The review reports Cowan et al. (2010): "when the size of the array to be rememb
 - [Attention allocated to the secondary AOI remained limited and did not differ significantly between conditions in duration or time to first fixation](secondary-aoi-attention-limited-no-difference.md) — related
 - [Gaze-based assistance supported a smoother attention transition between narrated regions, while baseline assistance elicited more abrupt reorientation](gaze-assistance-smaller-attention-transition.md) — related
 - [Gaze-based assistance produced a significantly higher follow-up fixation rate on the spoken secondary AOI than the baseline](gaze-assistance-higher-secondary-aoi-followup.md) — related
+- [Core knowledge violations may be 'moderately impossible,' aligning with the Goldilocks effect on attention allocation](moderately-impossible-events-optimally-surprising.md) — related

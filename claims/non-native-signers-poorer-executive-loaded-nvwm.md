@@ -41,4 +41,8 @@ ANCOVAs controlling for age and WASI matrix reasoning compared deaf native signe
 
 
 ## Related Claims
--
+- [Hearing children significantly outscored the deaf group as a whole on Spatial Span Backward and Odd One Out](hearing-outscore-deaf-executive-loaded-nvwm.md) — a broader claim this one bears on
+- [Deaf children's working memory disadvantage is task-dependent: no group differences on Spatial Span Forward or narrative measures](nvwm-group-differences-task-dependent.md) — a narrower finding that bears on this claim
+- [Vocabulary scores predicted executive-loaded non-verbal working memory scores beyond age and non-verbal reasoning](vocabulary-predicts-executive-loaded-nvwm.md) — related
+- [All three groups differed significantly on expressive vocabulary, with non-native signers scoring lowest](vocabulary-group-differences-three-groups.md) — related
+- [Native signers (children of at least one Deaf parent) outperform non-native signers on ASL syntactic judgment and analogical reasoning tasks](native-signers-outperform-non-native-asl.md) — related

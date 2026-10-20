@@ -50,3 +50,5 @@ Hierarchical multiple regression predicting curriculum-based mathematical achiev
 - [Figure-matching ability accounts for the association between numerosity processing and computational fluency in third- to fifth-grade children](visual-perception-accounts-numerosity-computational-fluency-link.md) — related
 - [Figure-matching ability correlates more strongly with numerosity processing and computational fluency than other cognitive factors](figure-matching-strongest-correlate-numerosity-fluency.md) — related
 - [General processing speed (choice reaction time and figure matching) does not significantly predict mathematics achievement in Grade 7 or Grade 9](general-processing-speed-does-not-predict-math.md) — related
+- [Fall RRRP Part 1 predicted spring Applied Problems mathematics scores and gains, but did not predict spring Math Fluency](rrrp-part1-predicts-applied-problems-not-math-fluency.md) — related
+- [Kindergarten visual processing uniquely predicts grade-one early mathematics after controlling for prior mathematics and general cognitive abilities](visual-processing-predicts-grade-one-mathematics.md) — related

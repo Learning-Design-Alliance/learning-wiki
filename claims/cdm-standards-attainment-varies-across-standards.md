@@ -44,3 +44,4 @@ Psychometric (CDM) analysis of assessment grades from a cohort of 178 learners a
 
 ## Related Claims
 - [Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment](five-learner-profiles-standards-attainment.md) — related
+- [Standard 1 (knowing students) was attained relatively easily by all groups except the Novice group, while Standard 4 (supportive and safe environments) proved most challenging](standard-1-easy-standard-4-challenging.md) — related

@@ -45,3 +45,5 @@ In the ABSA qualitative analysis, the Efficiency & Speed category showed positiv
 - [Students reported text supports structured, iterative planning while some valued voice for getting initial ideas out](modality-shapes-planning-and-idea-generation.md) — related
 - [Students overwhelmingly used text prompting, and prior modality choice did not predict subsequent choice among dual-mode users](text-dominance-modality-choice-independent.md) — related
 - [Students perceived text input as superior for accuracy, control, and editability, with transcription errors a key voice drawback](text-perceived-accuracy-control-editability.md) — related
+- [A substantial share of builders' voiced design intentions never reaches the typed prompt, leaving design choices to the production stack's defaults](translation-loss-voiced-intents-dropped.md) — related
+- [Edited voice prompts did not significantly differ from text prompts in first-attempt success](edited-voice-no-significant-difference.md) — related

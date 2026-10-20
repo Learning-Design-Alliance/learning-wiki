@@ -51,3 +51,4 @@ Narrative synthesis of working memory span studies. Sana et al. (2017) found the
 - [Studies disagree on whether low or high working memory learners benefit more from retrieval practice, and several find no relationship](relation-between-working-memory-and-retrieval-practice-benefit-is-inconsistent.md) — related
 - [Working memory capacity is a robust indicator of success or failure in language learning](wm-capacity-predicts-language-learning-success.md) — related
 - [Working memory capacity moderated disfluency effects in one study but not another](wmc-moderates-disfluency-mixed.md) — related
+- [Interleaving benefits low-skilled students more than high-skilled students when learning math problem categories](interleaving-benefit-low-skilled-students.md) — related

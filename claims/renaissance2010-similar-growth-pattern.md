@@ -45,3 +45,4 @@ Quantitative analysis of EXPLORE to PLAN growth for Renaissance 2010 schools ver
 ## Related Claims
 - [IDS schools showed no differences in EXPLORE-to-PLAN test score growth compared with the rest of the CPS system](ids-no-growth-difference-explore-plan.md) — related
 - [Most IDS and Renaissance 2010 teachers fell below proficient on communication skills, and a majority of teachers including AMPS teachers ranked basic or unsatisfactory on quality of questions](weak-communication-and-question-quality.md) — related
+- [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — a broader claim this one bears on

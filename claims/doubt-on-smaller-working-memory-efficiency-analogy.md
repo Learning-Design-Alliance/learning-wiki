@@ -46,3 +46,4 @@ Theoretical counter-argument in the notes: the authors are "in doubt, however, w
 
 - [The collective working memory effect: group learning is more efficient than individual learning for high-complexity tasks, but individual learning is more efficient for low-complexity tasks](collective-working-memory-effect-complexity-dependent.md)
 - [The definitions of cognitive load used in cognitive load theory are not fully equivalent](cognitive-load-definitions-not-equivalent.md)
+- [Building extensive, well-organized domain knowledge may enhance functional use of intelligence in novel problems](organized-knowledge-enhances-functional-intelligence.md) — related

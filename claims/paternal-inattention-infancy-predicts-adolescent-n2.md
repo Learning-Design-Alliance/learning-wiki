@@ -46,3 +46,4 @@ Bivariate correlation analysis in the longitudinal sample showed the infant-era 
 - [Higher inattention symptoms throughout childhood uniquely predict reduced adolescent N2 amplitude during successful inhibition, beyond hyperactivity-impulsivity symptoms](childhood-inattention-predicts-reduced-adolescent-n2.md) — related
 - [Early precursors predict adolescent N2 directly, not indirectly through childhood inattention symptoms](direct-not-indirect-paths-early-precursors-n2.md) — related
 - [Total childhood ADHD symptoms predict longer adolescent SSRT, but neither symptom domain shows specificity and early precursors do not predict SSRT](ssrt-predicted-by-total-childhood-adhd-symptoms-only.md) — related
+- [Lower temperamental effortful control at 36 months directly predicts reduced N2 amplitude in adolescence, above and beyond ADHD symptoms](early-effortful-control-predicts-adolescent-n2.md) — related

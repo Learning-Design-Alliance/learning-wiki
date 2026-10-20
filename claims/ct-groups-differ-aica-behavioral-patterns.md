@@ -48,3 +48,7 @@ LSA of 52 screen recordings coded with a ten-category behavioral scheme (GESQ 5.
 - [High CT students significantly exceeded low CT students in task strategies, elaboration, and self-assessment during AICA interactions](high-ct-stronger-srl-cognitive-behaviors.md) — related
 - [Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration](role-design-facilitates-higher-order-behavior-transitions.md) — related
 - [High CT students significantly outperformed low CT students on the post-test after AICA-assisted coding instruction](high-ct-outperformed-low-ct-posttest-aica.md) — related
+- [Student-agent interaction featured a significant Query-Evaluation-Query verification loop (RM-QR-EA), distinct from the linear QR-UN path of student-instructor interaction](query-evaluation-verification-loop.md) — related
+- [Learners in agent interaction became locked in lower-order self-transition loops (e.g., Understand z = 49.08, Application z = 51.48) and rarely transitioned spontaneously to higher-order cognition](lower-order-self-transition-lock.md) — related
+- [Lag-sequential Analysis reveals temporal ordering patterns in CSCL interaction that traditional coding-and-counting approaches hide](lag-sequential-analysis-reveals-interaction-ordering.md) — related
+- [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](ena-cognitive-network-ct-groups.md) — related

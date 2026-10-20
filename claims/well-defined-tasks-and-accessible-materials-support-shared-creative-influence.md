@@ -57,3 +57,5 @@ This is a single-group case study (one focal group deeply analyzed out of four o
 - [More group engagement in social regulation of learning is associated with higher-quality collaborative products](more-regulation-higher-product-quality.md) — related
 - [Merging different technical understandings of Minecraft items into shared nomenclature enabled parallel division of building work (Extract 2)](merged-technical-understanding-minecraft-nomenclature.md) — related
 - [Video dataset of 111 hours across one year underpins a 350-minute two-group episode analysis](makerspace-video-dataset-111hours-350min.md)
+- [Collaborative technologies support learning by enabling learners to share and exchange both ideas and their own digital products](collaborative-technologies-enable-sharing-ideas-and-digital-products.md) — related
+- [Participants used a limited, polymorphic repertoire of materials, gestures and symbols whose meanings were context-derived](limited-polymorphic-repertoire-written-collaboration.md) — related

@@ -49,3 +49,5 @@ Institution-level enrollment comparison between HBCUs and other institutions in 
 - [Tightened PLUS credit standards changed both financial aid and enrollment at HBCUs across the first two affected academic years](plus-tightening-changed-hbcu-aid-and-enrollment.md) — related
 - [After the tightening of PLUS credit standards, both the share of PLUS participants and PLUS loan dollar amounts declined substantially at HBCUs](plus-decline-hbcus-after-credit-standard-tightening.md) — related
 - [The 2011 tightening of Parent PLUS credit standards sharply reduced PLUS access at HBCUs and cost them about $168 million](plus-credit-tightening-cut-hbcu-access-and-revenue.md) — related
+- [PLUS loan volume at HBCUs declined substantially in 2012-13 after credit standards were tightened](plus-loans-declined-substantially-hbcus-2012-13.md) — related
+- [PLUS loans at HBCUs increased somewhat in 2013-14 after the Department of Education streamlined the PLUS appeals process](plus-loans-increased-somewhat-2013-14-appeals-streamlined.md) — related

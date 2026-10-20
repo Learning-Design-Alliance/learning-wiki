@@ -45,3 +45,5 @@ Principal survey ratings (Table 15) from 39 elementary and 11 high school princi
 ## Related Claims
 - [Board-certified teachers were twice as likely as other teachers to hold school leadership roles, and about two-thirds led professional development](nbcts-twice-as-likely-leadership-roles.md) — related
 - [School administrators gave a generally positive assessment of American Board-certified teachers based on supervisor surveys](principals-positive-assessment-abcte-certified-teachers.md) — related
+- [NBCTs report holding school leadership positions at higher rates than other teachers (50% vs 32%)](nbcts-assume-leadership-roles-more.md) — related
+- [Elementary schools with clusters of board-certified teachers and candidates showed higher teacher influence, innovation, and slightly higher collective responsibility](nbct-clusters-higher-teacher-influence-innovation.md) — related

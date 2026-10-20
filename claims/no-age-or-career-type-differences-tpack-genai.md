@@ -48,3 +48,6 @@ Age-group ANOVAs (Tables 5) and career-type ANOVAs (Table 6) in the 127-faculty 
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Perceived learning outcomes differ across grades only in the skill application dimension, with first-year students scoring significantly higher than second-year students](grade-differences-limited-to-skill-application-first-year-higher.md) — related
 - [Teaching experience does not significantly enhance MTES AI-TPACK proficiency, though experienced MTES scored slightly higher on every variable](teaching-experience-no-aick-gain.md) — related
+- [AI-TPACK component scores show no significant differences across MTES grades, while self-efficacy and teaching beliefs do differ](no-grade-differences-in-aick.md) — related
+- [Earlier and mid-career teachers report more positive AI perceptions than teachers with 21 or more years of experience, except in personal experiences](professional-experience-ai-perception-differences.md) — related
+- [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](gender-differences-technological-genai-knowledge-small-effects.md) — related

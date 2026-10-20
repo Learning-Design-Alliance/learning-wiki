@@ -44,3 +44,6 @@ The review reports, citing van Bers et al. (2014), a study of feedback effects o
 
 ## Related Claims
 - [Children's cognitive flexibility improved on average from preschool to first grade](cognitive-flexibility-increases-preschool-to-first-grade.md) — related
+- [Children typically perseverate on the Dimensional Change Card Sort at age 3 but can switch sorting rules from age 4](dccs-rule-switching-emerges-age-four.md) — related
+- [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](reflection-training-improves-dccs.md) — related
+- [DCCS training in preschoolers transfers to false-belief understanding](dccs-training-transfers-false-belief.md) — related

@@ -48,3 +48,4 @@ Guttman chart analysis of the professional staff subgroup (n=26). The authors re
 - [A pronounced AI adaptation gap exists across university groups: students report higher current AI-use intensity and perceived usefulness than faculty and administrative staff, whereas staff report stronger academic integrity concerns and greater endorsement of responsible-use norms](ai-adaptation-gap-students-faculty-staff.md) — related
 - [Students exhibit an inverted competence profile, endorsing creation-level GenAI tasks above several foundational items that would normally precede them](students-inverted-genai-competence-profile.md) — related
 - [Teachers designing TEL face serious constraints of time, expertise and endorsement](teacher-designers-time-expertise-constraints.md) — related
+- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related

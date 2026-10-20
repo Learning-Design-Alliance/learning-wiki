@@ -44,3 +44,5 @@ The guide's introduction states its intended use: teams using the CALL survey re
 
 ## Related Claims
 - [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](cross-level-team-composition-buy-in.md) — related
+- [Few schools used 5Essentials data for improvement, citing opaque data, principal-focused measures, and lack of district-wide strategy](few-schools-use-5essentials-data-improvement.md) — related
+- [School survey report information is intended to help schools assess their progress and plan for the future](survey-reports-support-school-progress-assessment.md) — a broader claim this one bears on

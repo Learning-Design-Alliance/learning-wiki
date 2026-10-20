@@ -44,3 +44,7 @@ Descriptive effect-size analysis of Fall 2019 and Winter 2020 MAP Growth RIT rec
 
 ## Related Claims
 - [The Altair (engine) main effect is not significant for winter RIT scores in either content area, but an Altair-by-sex interaction is significant in Reading only](altair-effect-null-reading-sex-interaction.md) — related
+- [Marginal reliabilities of MAP Growth winter scores are comparable across engines and all in the 0.90s, with CBE showing slightly higher precision (lower SEM)](cbe-colo-reliability-comparable-cbe-higher-precision.md) — related
+- [Test lengths are comparable across engines, but CBE test durations are higher than COLO's in both terms and content areas, more prominently in Reading](cbe-longer-test-duration-comparable-length.md) — related
+- [The CBE and COLO engines met content specifications and recovered true scores well for the nine simulated MAP Growth tests](cbe-colo-comparable-content-validity-theta-recovery.md) — related
+- [Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow](cbe-better-adaptivity-extreme-achievers-shallow-banks.md) — related

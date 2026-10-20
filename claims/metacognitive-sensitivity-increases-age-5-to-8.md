@@ -48,3 +48,4 @@ A repeated measures two-way ANOVA of age group by condition on phi showed a main
 - [Children's metacognitive judgments are not explained by baseline risk preferences or response-time cues](metacognition-not-risk-preference-or-response-time.md) — related
 - [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](numerical-metacognition-predicts-math-achievement.md) — related
 - [Metacognitive efficiency shows partial domain-general structure: strong shared metacognition between lexical decision and emotion recognition tasks](partial-domain-general-metacognition-early-readers.md) — related
+- [Accuracy and the proportion of high bets decrease with increasing discrimination difficulty in both domains](difficulty-reduces-accuracy-and-high-bets.md) — related

@@ -54,3 +54,5 @@ Partial correlations (controlling for intellectual ability) in the 56-child samp
 - [More accurate symbolic number line representations relate to better performance in exact, but not approximate, addition formats](symbolic-number-line-relates-to-exact-addition.md) — related
 - [The three estimation tasks do not represent the same construct in young children and should not be combined into composites](estimation-tasks-not-same-construct-kindergarten.md) — related
 - [The association between one-digit comparison and mathematics achievement decreases across grades, while the two-digit association remains stable](one-digit-math-association-decreases-with-grade.md) — related
+- [Direct subtraction items were solved more accurately and faster than indirect addition items](ds-items-faster-more-accurate-than-ia-items.md) — related
+- [The association between numerical magnitude processing and subtraction is more prominent for items eliciting indirect addition than for direct subtraction items](magnitude-processing-stronger-indirect-addition-items.md) — related

@@ -46,3 +46,5 @@ Qualitative interview study of members of evaluation committees in five Illinois
 - [Districts implementing new teacher evaluation systems faced challenges using evaluations for instructional improvement](teacher-evaluation-challenge-instructional-improvement.md) — related
 - [Districts implementing new teacher evaluation systems faced challenges reducing the burden on principals](teacher-evaluation-principal-burden-challenge.md) — related
 - [Incorporating measures of student growth into teacher evaluation systems remained an ongoing challenge for early adopter districts](student-growth-measures-ongoing-challenge.md) — related
+- [Alternative student growth measures brought financial costs and implementation challenges around teacher time, test administration, and rigor](implementation-costs-and-challenges-growth-measures.md) — related
+- [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](inclusive-innovation-sustainability-factors.md) — related

@@ -46,3 +46,4 @@ Repeated-measures ANOVA comparing early implanted (n = 12) and late implanted (n
 - [Early implanted children and their NH age-matched peers demonstrated word learning, while late implanted children did not unlike their peers](late-implanted-fail-word-learning.md) — related
 - [Age at implantation accounts for significant variance in word-learning performance when pre-CI hearing is in the typical range for CI candidates](age-at-implantation-predicts-word-learning.md) — related
 - [Normal-hearing children demonstrate novel word learning on the IPLP task at approximately 18 months of age and older](nh-word-learning-emerges-18-months.md) — related
+- [Pre-implant aided hearing levels significantly predict word-learning performance in children with cochlear implants](pre-ci-hearing-predicts-word-learning.md) — related

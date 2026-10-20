@@ -45,3 +45,6 @@ Trial-level Bayesian mixed-effects logistic regression on single-trial recall ac
 ## Related Claims
 
 - [Post-answer interest enhances trivia answer memory more strongly in adolescents than in children](post-answer-interest-memory-adolescents-more-than-children.md)
+- [Curiosity did not significantly predict recall accuracy in the blurred-picture learning task](curiosity-did-not-predict-recall-accuracy.md) — related
+- [States of high pre-answer curiosity enhance memory for trivia answers similarly in children and adolescents](curiosity-enhances-trivia-memory-children-adolescents.md) — related
+- [High-curiosity states did not enhance recognition memory for incidental face images in children or adolescents](no-curiosity-spillover-incidental-faces-children.md) — related

@@ -51,3 +51,5 @@ The SEM results for the two creativity tasks showed "significant relationships b
 - [Trait metacognitive awareness positively predicts perceived group performance while perceived task difficulty negatively predicts it](mai-and-task-difficulty-predict-perceived-group-performance.md) — related
 - [Perceived value of creativity informs judgments and expectancies primarily indirectly through task-specific variables, especially task interest](value-of-creativity-indirect-through-interest.md) — related
 - [Task interest remains stable across consecutive creativity tasks: interest in one task is strongly and directly associated with interest in the next, with little mediation by task experience](task-interest-stable-across-creativity-tasks.md) — related
+- [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](subjective-expectations-drive-offloading.md) — related
+- [Subjective effort ratings are affected by invalid cues and only weakly valid as cues to judged learning outcomes](effort-ratings-invalid-cues-weak-validity.md) — related

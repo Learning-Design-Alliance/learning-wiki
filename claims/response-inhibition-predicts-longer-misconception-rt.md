@@ -42,3 +42,8 @@ Hierarchical multiple regression (N = 81) predicting misconception RT; model 2b 
 
 ## Related Claims
 - [Incongruent items in school-topic tasks are generally associated with longer response times and lower accuracy, patterns consistent with inhibitory control recruitment](incongruent-items-longer-rt-lower-accuracy.md) — related
+- [Adolescents show lower accuracy and longer reaction times on counterintuitive misconception trials than on matched control trials in science and maths](misconception-trials-lower-accuracy-longer-rt-than-control.md) — related
+- [Better semantic inhibition (smaller Stroop RT cost) is associated with higher accuracy on counterintuitive science and maths misconception trials](semantic-inhibition-predicts-misconception-accuracy.md) — related
+- [In discipline-specific exploratory regressions, neither Stroop RT cost nor complex No-Go accuracy significantly predicted science or maths misconception measures separately](discipline-specific-inhibition-predictions-nonsignificant.md) — related
+- [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related
+- [The ability to generate a single correct inhibitory response is evident early in development, while what improves through adolescence is the proportion of trials with correct inhibitory responses](inhibition-early-available-consistency-improves-adolescence.md) — related

@@ -70,3 +70,5 @@ WWC review reporting the Jewell (1994) quasi-experiment (15 CIRC vs. 15 comparis
 - [CIRC shows no discernible effects on general reading achievement for beginning readers (effect size 0.02)](circ-no-discernible-general-reading-achievement.md) — related
 - [CIRC has potentially positive effects on comprehension for beginning readers, with an average improvement index of +12 percentile points across two studies](circ-potentially-positive-comprehension-effects.md) — a broader claim this one bears on
 - Reading Go! showed positive but not statistically significant effects on reading comprehension — related
+- [WWC finds Cooperative Integrated Reading and Composition® has potentially positive effects on comprehension for adolescent learners (average improvement index +7 percentile points)](circ-potentially-positive-comprehension-adolescent-learners.md) — related
+- [In a quasi-experimental study, CIRC showed no statistically significant effect on comprehension outcomes after WWC clustering and multiple-comparison adjustments](circ-qed-comprehension-indeterminate.md) — related

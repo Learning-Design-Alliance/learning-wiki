@@ -46,3 +46,5 @@ Perceptual accounts from spring 2025 site-visit interviews, not school-record da
 - [Participants and school staff reported improved attendance and reduced tardiness among Compass Care students](compass-care-reported-attendance-improvements.md) — related
 - [Compass Care participants reported trusting relationships with staff that improved students' comfort, safety, and emotional expression at school](compass-care-trusting-relationships-wellbeing.md) — related
 - [Compass Care participants reported increased student self-advocacy and confidence in asking for help](compass-care-student-self-advocacy.md) — related
+- [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — a broader claim this one bears on
+- [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](relationship-quality-defines-safe-schools.md) — related

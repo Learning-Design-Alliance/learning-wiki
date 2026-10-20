@@ -63,3 +63,4 @@ The article reports that participants described excessive explanation as condesc
 - [Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically](students-audit-genai-analogy-structural-correspondence.md) — related
 - [Most participants described interest-personalized GenAI analogies as more engaging or memorable than generic technical explanations](personalized-analogies-more-engaging-memorable.md) — related
 - [Trust in personalized analogies moved in no single direction, while critical scrutiny tracked domain expertise more consistently than personal interest](trust-mixed-scrutiny-tracks-expertise.md) — related
+- [Students see obtaining explanations for their doubts as ChatGPT's most useful role in learning computer science](students-rate-explanations-as-chatgpt-most-useful-learning-role.md) — related

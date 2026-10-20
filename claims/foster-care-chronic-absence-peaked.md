@@ -56,3 +56,6 @@ Analysis of CDE CALPADS data, 2016–17 through 2022–23, defining chronic abse
 - Evidence on preschool attendance by young children in foster care is largely unexamined, with one cited source reporting six percent of foster children under age six attend Head Start — related
 - Chronic absenteeism roughly doubled nationwide to about 16 million students after the pandemic — related
 - [Chronic absence in West Kern Consortium schools dropped 9 percentage points from its 2021–22 peak, with large district-level reductions](west-kern-chronic-absence-reduction.md) — related
+- [More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic](very-chronic-absence-up-strong-attendance-down.md) — related
+- [Los Padillas reduced chronic absenteeism by more than half, from 65.5% in 2021–22 to 31.3% in 2023–24, a rate below other APS community schools](los-padillas-chronic-absenteeism-halved.md) — related
+- [In Lynwood Unified, chronic absence fell from 37.1% to 24.5% and average daily attendance rose from 87.4% to 91.5% during the first two years of districtwide community schools implementation.](lynwood-chronic-absence-decline-community-schools.md) — related

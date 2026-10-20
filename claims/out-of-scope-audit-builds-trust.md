@@ -52,3 +52,4 @@ Design argument (Section 5.4), not a tested result: the author states the mechan
 - [Three recurring AI failure modes arose in this project-based learning context: plausible-but-incorrect code, missing specialized knowledge, and limited long-term context](three-ai-failure-modes-project-based-learning.md) — related
 - Conservative manual verification identified 30 hallucinated references across 14 papers in 2025 and 2026 computing education venues — related
 - [The member check did not resolve the dissensus: the distrust item (C4) was the weakest-endorsed confirmatory item, with participants reframing what distrust meant](member-check-c4-weakest-endorsed.md) — related
+- [In a small case study, students given ChatGPT feedback valued its immediacy and alternative analytical perspectives, but one distrusted its answers as 'often made up' for complex data analysis](chatgpt-feedback-hallucination-undermines-trust.md) — related

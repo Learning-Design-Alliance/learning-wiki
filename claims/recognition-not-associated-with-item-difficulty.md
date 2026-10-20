@@ -46,3 +46,4 @@ Kendall's tau-b analysis of the association between origin-recognition and item 
 - [Exploratory analysis found item difficulty differed across sources, driven by the Google Gemini versus NLE contrast](item-difficulty-differs-across-sources-gemini-nle.md) — related
 - [Students' recognition did not differ between AI-generated and NLE MCQs](recognition-does-not-differ-ai-vs-nle.md) — related
 - [Students identified MCQ item source at a rate significantly above the 50% chance level in a real exam setting](students-identify-mcq-source-above-chance.md) — related
+- [Differences in moment-to-moment comprehension do not correlate with gains in vocabulary recognition or acquisition of Japanese locative structures](no-comprehension-acquisition-correlation.md) — related

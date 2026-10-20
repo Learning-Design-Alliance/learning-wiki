@@ -45,3 +45,4 @@ Baseline check reported in the Results section: a one-way ANOVA over the four in
 ## Related Claims
 - [Teacher perceived workload did not differ significantly across conditions on any NASA-TLX subscale, though the experimental condition was descriptively lower on most subscales](aied-u-no-significant-workload-difference.md) — related
 - [Auditory reaction-time measure of cognitive load did not differ between guided and unguided low-vision navigation in older adults](no-rt-cognitive-load-difference-guidance-older-adults.md) — related
+- [In Study 1, differences in self-efficacy between the three conditions did not reach significance](chattutor-self-efficacy-null-study1.md) — related

@@ -64,3 +64,4 @@ The authors' interpretation of the frequency pattern: anthropomorphic attributio
 - [Across 133 K-12 ML activities, a technical and a societal perspective on the same algorithm co-occur in roughly 3% of cases](critical-technical-gap-k12-ml-activities.md) — related
 - [Of 89 coded supervised learning activities, 69 confine learners to the User role, 17 reach Creator, and 8 reach Machine](k12-supervised-activities-user-role-dominant.md) — related
 - [Turkish undergraduates' AI associations are anchored by utilitarian concepts, with Convenience and Speed alone accounting for 18.5% of all responses](utilitarian-anchors-convenience-speed-ai-associations.md) — related
+- [AI governance vocabulary (bias, transparency, privacy, accountability, regulation, fairness) is a structural zero in students' AI associative networks](structural-zero-ai-governance-vocabulary.md) — related

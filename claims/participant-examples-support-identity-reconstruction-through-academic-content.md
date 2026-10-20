@@ -49,3 +49,5 @@ This is a single, deeply analyzed case (q1), not a claim about typical or averag
 - [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related
 - [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](restorying-supports-computing-identity-reconstruction.md) — related
 - The central characteristic of postmodern sensibility is an ontological shift from essentialist to anti-essentialist views of reality — related
+- [Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition](justice-oriented-youth-maker-programs-support-critical-identity-and-resistance.md) — related
+- [Review reports statistically significant growth effects over time in a semester-long graduate humanistic knowledge building community](editorial-kashi-hod-growth-effects-over-time.md) — related

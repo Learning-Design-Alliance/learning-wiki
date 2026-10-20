@@ -43,4 +43,5 @@ Outcome-specific meta-analysis within the 67-study dataset, with self-efficacy c
 
 
 ## Related Claims
--
+- [Metacognition intervention effects persist at follow-up (g = 0.29) in young children](metacognition-interventions-followup-effects-persist.md) — related
+- [Metacognition interventions enhance cognitive and academic outcomes in typically developing children up to age 12 at immediate post-test (g = 0.48)](metacognition-interventions-effective-immediate-posttest-young-children.md) — related

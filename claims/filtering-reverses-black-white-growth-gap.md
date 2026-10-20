@@ -45,3 +45,9 @@ The same HLMs re-run on filtered scores reversed the gap: "Black students showed
 ## Related Claims
 - Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates — related
 - [Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample](rapid-guessing-minimal-school-growth-estimates.md) — related
+- [Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness](removing-disengaged-examinees-induces-bias.md) — a broader claim this one bears on
+- [Summer learning loss estimates changed significantly under filtering but not effort-moderated scoring](rapid-guessing-summer-learning-loss-estimates.md) — related
+- [Accounting for test disengagement had minimal impact on estimates of school growth contributions, achievement gaps, and summer learning loss](disengagement-corrections-minimal-impact-effectiveness-estimates.md) — reports the opposite
+- [Assessment metadata can be used to quantify the impact of test disengagement on estimates of educational effectiveness](assessment-metadata-quantify-disengagement-impact.md) — a broader claim this one bears on
+- [Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps](rapid-guessing-generally-does-not-change-gap-interpretations.md) — reports the opposite
+- [Disengaged test-taking rates varied greatly by subgroup, grade, and term in this sample](disengagement-rates-vary-subgroup-grade-term.md) — related

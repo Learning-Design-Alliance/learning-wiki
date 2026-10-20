@@ -45,3 +45,6 @@ Descriptive statement about linking studies to external measures: Lexile and Qua
 ## Related Claims
 - [Linking studies predict proficiency on state summative assessments from MAP Growth scores](map-growth-linking-studies-predict-state-proficiency.md) — related
 - [MAP Growth RIT scores correlate strongly (r = 0.92–0.93) with state summative mathematics scores in the Minnesota MCA-III linking study](map-growth-rit-strongly-correlates-state-summative-mca-iii.md) — a narrower finding that bears on this claim
+- [MAP Growth spring RIT cut scores classify students as proficient or not proficient on the MCA-III Mathematics test with 0.87–0.90 overall accuracy](map-growth-cut-scores-classification-accuracy-mca-iii.md) — a narrower finding that bears on this claim
+- [The dashboard reports median achievement percentiles normed to a nationally representative pre-COVID sample and projected proficiency against state cut scores](dashboard-metrics-percentiles-and-proficiency-projections.md) — related
+- [Most high-achieving middle schoolers were on track for college readiness, but students in wealthy schools were more often on track than those in poor schools](college-readiness-gaps-high-achievers-poverty.md) — related

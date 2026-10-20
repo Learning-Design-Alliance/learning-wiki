@@ -48,3 +48,6 @@ Moderation finding from the same quasi-experimental study, in which working memo
 ## Related Claims
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — a broader claim this one bears on
 - [Improvements in planning skills mediated SRSD's effect on text quality, via better-structured stories containing more ideas](planning-skill-gains-mediate-srsd-writing-quality.md) — related
+- [French fourth- and fifth-graders who received SRSD instruction produced higher-quality stories than matched peers who received regular writing instruction](srsd-improves-french-pupils-story-quality.md) — related
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — a broader claim this one bears on

@@ -73,3 +73,6 @@ Descriptive comparison of immediate college enrollment by EL status for spring 2
 - [CPS class of 2024 students reached near-record highs in high school graduation (84%) and immediate college enrollment (66%), on par with national averages](cps-2024-graduation-enrollment-near-record-highs.md) — related
 - [Former English Learners graduated from CPS high school at a higher rate (89.0%) than students never classified as English Learners (84.1%)](cps-former-els-graduate-higher-than-never-els.md) — related
 - [Former English Learners had higher Freshman OnTrack and graduation rates than the district average in Chicago Public Schools](former-els-outperform-district-average-high-school.md) — related
+- [All English Learners, including former English Learners, were more likely to enroll in two-year colleges than the district average](all-els-overrepresented-two-year-colleges.md) — related
+- [Students who began kindergarten as English Learners had similar achievement and growth, and higher attendance, compared to students never classified as ELs](began-as-els-similar-achievement-higher-attendance.md) — related
+- [AI/AN students perform lower than other student subpopulations on common academic measures, per statistics the report cites from the Education Trust](aian-student-achievement-gaps-reported.md) — related

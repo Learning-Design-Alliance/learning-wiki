@@ -43,4 +43,5 @@ Descriptive analysis of the 32 collaborative summary notes scored on the Knowled
 
 
 ## Related Claims
--
+- [The portfolio-principles class scored higher on weighted depth of inquiry than both other Knowledge Forum classes](portfolio-principles-higher-depth-of-inquiry.md) — related
+- [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](summarization-improves-learning.md) — related

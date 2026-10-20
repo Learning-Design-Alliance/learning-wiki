@@ -45,3 +45,4 @@ Abstract-reported result substantiated in Results Tables 1 and 4: SC total-score
 ## Related Claims
 - [Under single-pass deployment, Fs+CoT prompting yields the strongest agreement with teacher mean scores for music-analysis essay scoring (r = 0.795, ICC (2,1) = 0.657)](fscot-strongest-teacher-agreement-run1.md) — related
 - Median aggregation across three runs produces only minor changes in agreement and does not alter the ordering of prompting strategies — related
+- [Prompting strategies produce distinct directional bias profiles: Fs+CoT under-scores (bias = -1.730), RAG over-scores (bias = 1.787), and SC shows minimal directional bias (bias = -0.083)](strategy-specific-bias-profiles.md) — related

@@ -46,3 +46,4 @@ The brief's third takeaway reports that "a day of school missed after a severe w
 - [No school is totally low-risk from weather-related disruptions](no-school-totally-low-risk-weather-disruptions.md) — related
 - [Many U.S. schools face major budget and infrastructure challenges related to severe weather](schools-face-budget-infrastructure-challenges-severe-weather.md) — related
 - [Teachers need support to meet students' varied needs following weather-related disruptions](teachers-need-support-after-weather-disruptions.md) — related
+- [Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss](missing-school-research-informs-covid-learning-loss-projections.md) — related

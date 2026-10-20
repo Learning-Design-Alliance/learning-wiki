@@ -46,3 +46,4 @@ Reaction-time analysis during the encoding session in the same 31 scanned studen
 - [Successful encoding of schema-related information recruits the mPFC whereas successful encoding of schema-unrelated information recruits the medial temporal lobe](schema-by-memory-mpfc-mtl-interaction.md) — related
 - [New facts related to students' prior disciplinary knowledge are better remembered after 24 hours than schema-unrelated facts](schema-related-facts-better-remembered.md) — related
 - [Students already show a pretest congruency effect: existing knowledge yields better baseline performance for schema-related questions](pretest-schema-congruency-effect.md) — related
+- [mPFC activity during schema-related encoding predicts normalized second-year course grades, with no such relation for MTL activity](mpfc-schema-encoding-predicts-grades.md) — related

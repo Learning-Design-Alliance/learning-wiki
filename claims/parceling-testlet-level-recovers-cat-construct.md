@@ -53,3 +53,4 @@ Simulation results at the testlet level (Tables 7 and 8): the article reports "C
 - CAT development decisions influence and might threaten content alignment — related
 - Under ordinal (WLSMV) estimation the bifactor model is not identifiable, with the S-1 diagnostic implicating the effectiveness-specific factor — related
 - [GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model](glat-2pl-structural-validity-reliability.md) — related
+- [Model-data fit evaluation in IRT is claimed to be crucial for both linear and adaptive tests because item response model goodness-of-fit is relevant to any test purpose](irt-model-fit-crucial-any-test-purpose.md) — related

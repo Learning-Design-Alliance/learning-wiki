@@ -64,3 +64,7 @@ Same Rasch analysis of the Australian sample: the most difficult items to endors
 
 - [Australian Islamic students reconcile discord over evolution by distinguishing belief from knowledge acquisition, learning content while suspending belief in it](belief-knowledge-distinction-reconciles-discord.md)
 - [Malaysian Muslim students' discord scores are inversely related to sophistication of epistemological beliefs](discord-inversely-related-epistemological-beliefs.md)
+- [Among Malaysian Muslim science students, intensity of discord over scientific claims shows no direct link to scientific reasoning ability](no-direct-link-discord-scientific-reasoning-malaysian.md) — related
+- [Scientific reasoning levels are linked directly to sophistication of epistemological beliefs among Malaysian Muslim students](scientific-reasoning-linked-epistemological-sophistication.md) — related
+- [Items ranked from easiest to most difficult are identical under CTT and MFRM](identical-item-difficulty-ranking-ctt-mfrm.md) — related
+- [CTT and MFRM yield similar item difficulty results for open-ended questions regardless of crossed or nested design](ctt-mfrm-agreement-robust-to-design.md) — related

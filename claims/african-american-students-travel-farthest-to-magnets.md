@@ -50,3 +50,4 @@ Analysis of CPS student record files, fall semester 1999 (Figure 15), computing 
 - [Magnet elementary schools enroll larger percentages of white and Asian students and smaller percentages of Latino and African-American students than non-magnet schools](magnet-elementary-composition-differs-from-cps.md) — related
 - [African American students are the most mobile group of CPS students, and the gap between them and other students widened after 2000-01, especially at the elementary level](african-american-mobility-gap-widened.md) — related
 - [About half of CPS students do not live within the neighborhood zone of any magnet elementary school](half-cps-students-outside-magnet-neighborhood-zones.md) — related
+- [Two years after the comprehensive magnet school policy, overall enrollment patterns by student residence had not changed substantially](policy-did-not-change-overall-enrollment-patterns.md) — related

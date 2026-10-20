@@ -65,3 +65,5 @@ Concluding statement of the exploratory study of whiteboard and chat collaborati
 
 - [The acknowledgment rate — how often partners give feedback of having perceived, understood, and accepted contributions — varies according to the medium and the content of interactions](acknowledgment-rate-varies-media-and-content.md)
 - [Tabletops tend to be small-group environments, contrasting with personal devices and public whiteboards](tabletops-small-group-environments-contrast-desktops-whiteboards.md) — related
+- [Collaborative technologies support learning by enabling learners to share and exchange both ideas and their own digital products](collaborative-technologies-enable-sharing-ideas-and-digital-products.md) — related
+- [In multimodal collaboration, the whiteboard primarily represents the state of problem solving while chat grounds whiteboard content, contrary to the expectation that schemata on the whiteboard would disambiguate chat utterances](whiteboard-represents-problem-state-chat-grounds.md) — related

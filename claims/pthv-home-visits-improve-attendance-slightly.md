@@ -90,3 +90,4 @@ Same matched comparison group study of grades 1-5 home visits in DC Public Schoo
 - [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](pthv-home-visit-reduces-disciplinary-incidents.md) — related
 - PTHV is rated promising for social-emotional learning with an average effect size of +0.10 from one study — related
 - In Los Angeles Unified, student attendance increased following visits to a school health center — related
+- [Home visits are rarely offered and rated lowest of any engagement resource, with Black, Latino, and multilingual parents rating them less favorably](home-visits-rare-and-lowest-rated.md) — related

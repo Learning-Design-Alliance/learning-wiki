@@ -45,3 +45,7 @@ Mann–Whitney U comparison of video-coded cognitive regulation episodes across 
 ## Related Claims
 
 - [Emotion–motivation regulation is the code most often connected to other codes in both tasks, linking to negotiation in SimSketch but to share/compare in Simua](emotion-motivation-regulation-central-both-tasks.md)
+- [Collaborative knowledge construction episodes are significantly longer in the conceptual physics task but almost three times more frequent in the robotics task](ckc-longer-simsketch-more-frequent-simua.md) — related
+- [Cognitive regulation led to negotiation in the physics task, whereas in the robotics task negotiation more often preceded cognitive regulation](cognitive-regulation-negotiation-direction-reversed.md) — related
+- [The robotics task prompted longer group-level regulation of emotion–motivation than the conceptual physics task](emotion-motivation-regulation-longer-robotics.md) — related
+- [Edge weights between CKC–regulation codes differ significantly between the tasks only for the share/compare and disagree phases](edge-weights-differ-only-share-compare-disagree.md) — related

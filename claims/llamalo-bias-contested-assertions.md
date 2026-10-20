@@ -47,3 +47,4 @@ Qualitative content analysis of the Israeli-Palestinian conflict discussion (Fin
 - [LlamaLo occasionally employed an aggressive or sarcastic tone, sometimes without user provocation, though it changed tone after being commented on](llamalo-negative-tone-challenge.md)
 - [The fine-tuned chatbot LlamaLo extensively expanded the user's dialogic space through deepening and widening acts across ten contentious-topic discussions](llamalo-expanded-user-dialogic-space.md)
 - [LlamaLo added knowledge in almost every post, mostly correct, and most posts were internally coherent](llamalo-knowledge-addition-coherence.md)
+- [Intersubjective understanding can be achieved through inter-animation of persistently opposed perspectives without convergence](intersubjectivity-amid-persistently-opposed-perspectives.md) — related

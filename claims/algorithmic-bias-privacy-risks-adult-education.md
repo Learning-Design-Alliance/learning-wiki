@@ -69,3 +69,5 @@ The review identifies algorithmic bias as central to AI-in-education debates, ci
 - [Integrating AI in collaborative learning raises challenges including algorithmic bias, over-reliance on technology, and teacher training needs](ai-collaborative-learning-challenges-bias-overreliance.md) — related
 - [Machine perception and learning depend on large, unbiased training data](ai-big-ideas-data-and-knowledge-dependence.md) — related
 - [Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development](neurophysiological-ai-ethics-consent-transparency.md) — related
+- [Respondents identified algorithmic bias (31.9%), data privacy (27.5%), and technical reliability (27.5%) as the primary risks of AI in education](rfi-ai-risks-bias-privacy-reliability.md) — related
+- [Anonymization algorithms preserving result patterns may require sample sizes far larger than typical experiments](anonymization-requires-larger-samples.md) — related

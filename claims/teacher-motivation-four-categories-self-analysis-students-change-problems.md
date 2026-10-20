@@ -45,3 +45,4 @@ Thematic analysis of think-aloud interviews with ten Estonian secondary school t
 ## Related Claims
 - [Two teacher-researchers using the AMTI in real classes found the collected data informative and useful, demonstrating the model's feasibility](amti-case-studies-feasibility-data-informative.md) — related
 - [Teachers see high workload, habits, low-quality data and skills, and predisposition as the main constraints on data-informed analysis, and none regularly collect teaching data](teacher-data-use-obstacles-workload-habits-skills.md) — related
+- [Teachers' voluntary individual adoption activities fall into two categories — investigating new computer resources and experimenting with altered teaching methods and classroom arrangements — associated with informational through consequence stages of concern](voluntary-investigation-and-experimentation-adoption-activities.md) — related

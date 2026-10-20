@@ -87,3 +87,4 @@ For ramp ball type, a variable never tested as a target and always physical, "Ch
 - [Domain knowledge about the ramps variables increased although instruction targeted only the domain-general CVS strategy](domain-knowledge-gain-without-direct-instruction.md) — related
 - [Individual children in both training conditions were equally likely to become good experimenters or nonlearners after CVS training](good-experimenter-classification-equal-conditions.md) — related
 - [Both physical and virtual training conditions produced equal gains in children's explicit verbal knowledge of the control of variables strategy](explicit-cvs-knowledge-equal-conditions.md) — related
+- [Physical and virtual instructional materials are equally effective for teaching fourth- and fifth-graders to design unconfounded experiments when instructional method is controlled](physical-virtual-materials-equal-cvs-learning.md) — related

@@ -55,3 +55,7 @@ Meta-regression models (Models 1-3) with rater-based material-characteristic rat
 
 ## Related Claims
 - [Interleaving effects are larger in pure university student samples than in nonstudent samples](interleaving-larger-in-university-student-samples.md) — related
+- [Interleaving is most useful when differences between items are subtle; blocking can be preferable when category members are diverse](interleaving-similarity-boundary-condition.md) — possibly the same claim (merge candidate)
+- [Interleaving is especially useful for inductive, subtle pattern learning without a clear verbal rule, but can equal or exceed blocking in rule-based domains too](interleaving-rule-based-learning-boundary.md) — related
+- [The discriminative-contrast hypothesis treats spacing and interleaving as distinct effects, with interleaving benefits more likely for similar than dissimilar interleaved tasks](discriminative-contrast-distinct-effects.md) — related
+- [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — a broader claim this one bears on

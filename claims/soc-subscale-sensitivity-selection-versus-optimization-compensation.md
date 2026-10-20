@@ -47,3 +47,4 @@ Sensitivity analyses reported in the Discussion tested each SOC subscale individ
 - [Low weekly perceived control predicts more memory problems among adults with greater memory decline and low SOC strategy use (three-way interaction)](soc-buffers-low-control-effects-under-memory-decline.md) — related
 - [Greater ten-year working memory decline predicts more everyday memory problems in adjusted multilevel analyses](working-memory-decline-predicts-everyday-memory-problems.md) — related
 - [Lower weekly perceived control correlates with more everyday memory problems at the within-person level](weekly-control-correlates-with-memory-problems.md) — related
+- [Higher education predicts more everyday memory problems, consistent with awareness and stress-exposure explanations](higher-education-predicts-more-memory-problems.md) — related

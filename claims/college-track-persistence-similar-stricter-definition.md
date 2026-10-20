@@ -44,3 +44,5 @@ Benchmarking analysis of postsecondary outcomes for the 9th grade cohort of 2009
 
 ## Related Claims
 - [College Track completers enrolled in college at higher rates than similar students, and were much more likely to enroll in four-year colleges](college-track-completers-higher-college-enrollment.md) — related
+- [Five persistence definition variants show similar predictiveness of completion, but the third-semester point-in-time definition yields persistence rates up to 14 percentage points higher than the continuous four-term definition](persistence-definition-variants-rate-differences.md) — related
+- [Students meeting the continuous four-term persistence definition completed college at higher rates than students meeting the third-semester definition, for both bachelor's and community college enrollees](persisters-completion-rates-by-definition.md) — related

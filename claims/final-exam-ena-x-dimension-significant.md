@@ -48,3 +48,4 @@ Two-sample t-tests comparing subtracted ENA networks of students above the 90th 
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [Weekly ENA mean comparisons showed significant high–low performer differences in Weeks 2, 3, 6, and 7 on mr1 and in Weeks 5, 6, and 10 on svd2](weekly-ena-ttests-significant-weeks.md) — related
 - [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](cheatsheet-type-no-significant-performance-difference.md) — related
+- [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](ena-cognitive-network-ct-groups.md) — related

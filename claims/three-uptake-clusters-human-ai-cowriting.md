@@ -51,3 +51,5 @@ In the preregistered study (n = 131 participants who interacted with ChatGPT), r
 - [Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p < 0.001)](manova-cluster-effect-text-metrics.md) — a narrower finding that bears on this claim
 - [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)
 - [Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges](three-strategy-clusters-from-ngram-flip-sequences.md)
+- [Affordance resonance can be documented at scale through AI-generated logs identifying seed contributions and cascading uptake](ai-resonance-logs-catalytic-contributions.md) — related
+- [In reviewed studies, individual data types were analyzed mainly with descriptive analysis, content analysis, network analysis, and clustering](four-analytical-methods-individual-participation.md) — a broader claim this one bears on

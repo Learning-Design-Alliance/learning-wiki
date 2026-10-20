@@ -48,3 +48,4 @@ Phenomenological analysis of written reflections from N=49 students in an online
 - [Perceived improvement after prompt-engineering training was concentrated among students with little or no prior prompting experience](prior-experience-moderates-perceived-training-benefit.md) — related
 - Monitoring of AI training relies primarily on records of interactions with AI tools, while attitudes and perceptions are mostly assessed at a single point in time — related
 - [Student generative AI use expanded substantially within engineering mechanics coursework over the semester, from 37% to 51% using it at least weekly](mechanics-ai-use-expanded-over-semester.md) — related
+- [Within prompt–response AI interfaces, students without guidance rarely move beyond prompt tuning, yielding interactions of limited educational value and increased reliance on outputs](prompt-response-interface-limits-learning-value.md) — related

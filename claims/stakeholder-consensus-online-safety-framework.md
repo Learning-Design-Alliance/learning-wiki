@@ -45,3 +45,5 @@ Stage 2 qualitative consultation: individual semi-structured interviews with 7 o
 ## Related Claims
 
 - [Stakeholders identified student groups underserved by online safety education, including children with disability and Aboriginal and Torres Strait Islander children](underserved-groups-online-safety-education.md)
+- [Stakeholder survey rated achievability lowest across Framework elements, especially Element 5 (continuous improvement)](framework-achievability-ratings-low.md) — related
+- [The framework's recommendations were derived from a research and practices review plus 59 expert interviews](framework-derived-review-59-expert-interviews.md) — related

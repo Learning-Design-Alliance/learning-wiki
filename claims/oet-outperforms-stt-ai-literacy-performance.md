@@ -45,3 +45,5 @@ Two-way ANOVA main effect of task type in the same randomized 2×2 experiment: F
 
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 - [The TBI advantage over SBI is larger under open-ended tasks than under structured tasks](tbi-advantage-larger-under-oet-interaction.md) — related
+- [Instructional approach operates indirectly through autonomy and competence, while task type operates primarily through autonomy](differentiated-mediation-autonomy-competence.md) — related
+- [People expecting a reward for a task perform worse than those expecting nothing, especially on tasks requiring cognitive sophistication and open-ended thinking](rewards-reduce-task-performance.md) — related

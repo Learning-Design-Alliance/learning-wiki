@@ -48,3 +48,6 @@ WWC review of two studies including 32,110 students: Borman et al.'s quasi-exper
 - [WWC rates Achieve3000® as having potentially positive effects on comprehension and general literacy achievement for adolescent readers](achieve3000-potentially-positive-literacy-effects.md) — a broader claim this one bears on
 - [Achieve3000 usage predicted about 3.5 percent of current Lexile scores after controlling for pre-test Lexile, motivation, and age](achieve3000-usage-predicts-lexile-regression.md) — related
 - Pairing an AI literacy platform with an engagement-focused human tutor does not improve elementary reading achievement — related
+- [READ 180® has potentially positive effects on reading fluency for adolescent readers](read-180-potentially-positive-reading-fluency.md) — related
+- [EL students using Achieve3000 scored significantly higher on adjusted post-pilot Lexile scores than comparison students who did not use the tool](achieve3000-significant-lexile-gains-vs-comparison.md) — related
+- [One small evaluation of Achieve3000 found positive effects on the SRI but not Terra Nova (average effect size +0.16)](achieve3000-small-study-positive-sri.md) — related

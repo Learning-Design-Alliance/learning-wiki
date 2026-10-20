@@ -45,3 +45,6 @@ Samples were split into 8- to 10-year-olds and 11- to 13-year-olds in both studi
 ## Related Claims
 - Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility — related
 - [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](wm-distinct-from-stm-subsystems-function.md) — a broader claim this one bears on
+- [Processing speed is linked to working memory in both studies, but its link to short-term memory is inconsistent across studies](processing-speed-links-wm-consistent-stm-inconsistent.md) — related
+- [Cowan's three-factor embedded processes model fit young children's working memory data slightly better than Baddeley and Hitch's three-factor model and decisively better than Baddeley's four-factor episodic buffer model](cowan-embedded-processes-model-best-fit-young-children.md) — related
+- [Same-construct memory task correlations exceed different-construct correlations](within-construct-span-correlations-larger.md) — related

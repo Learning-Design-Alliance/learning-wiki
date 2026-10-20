@@ -47,3 +47,6 @@ The WWC report summarizes the DHHS ACF (2010) randomized controlled trial, in wh
 - Substantial crossover occurred in the Head Start impact study comparison group, with 17.3% of the 3-year-old and 13.9% of the 4-year-old comparison groups enrolling in non-study Head Start programs — related
 - [Head Start shows no discernible effects on mathematics achievement for 4-year-old children](head-start-no-discernible-mathematics-effects.md) — related
 - [Supplemental analyses show statistically significant positive Head Start effects on one social-emotional subscale and two mothers' race/ethnicity subgroup comparisons for the 3-year-old cohort](head-start-supplemental-subgroup-subscale-effects.md) — related
+- [Head Start shows no discernible effects on social-emotional development for 3- and 4-year-old children](head-start-no-discernible-social-emotional-effects.md) — related
+- [Headsprout Early Reading has a statistically significant positive effect on the oral language of at-risk preschool children](headsprout-positive-oral-language-preschool.md) — related
+- [Preschool PATHS increases emotion knowledge and parent- and teacher-rated social competence in Head Start children](paths-preschool-improves-emotion-knowledge-social-competence.md) — related

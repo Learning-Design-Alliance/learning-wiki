@@ -47,3 +47,5 @@ Trend analysis shown in Figure 2 of California Department of Education data. The
 - [Larger proportions of ELs classified for 6 or more years are meeting the ELPAC well-developed benchmark, rising from about 17% in 2020–21 to nearly 23% in 2022–23](elpac-well-developed-rising-among-ltel-qualifiers.md) — related
 - [Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers](rural-counties-higher-ltel7-proportions.md) — related
 - [ELPAC overall PL 4 remains the appropriate Criterion 1 reclassification threshold, with 2017-18 and 2022-23 data converging on the same level](elpac-pl4-threshold-validated-replication.md) — related
+- [More than half of LTEL7 students were in their 7th, 8th, or 9th year of being classified as EL, and more than 20,000 had been classified for 12 or more years](ltel7-years-classified-distribution.md) — related
+- [The proportion of ever-EL students designated as LTEL7 decreases progressively after 6th grade, from about 30% in 7th grade to about 17% in 12th grade](ltel7-proportion-decreases-after-sixth-grade.md) — related

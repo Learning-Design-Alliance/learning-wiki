@@ -46,3 +46,4 @@ Log-based engagement analysis of 194 teams across 10 activity types (Table 1). K
 - [Temporal network motif frequencies differ significantly between perception groups, with dyadic motifs characterising divergent-perception teams and triadic motifs aligned teams](temporal-motifs-differ-by-perception-group.md) — related
 - [Week 3 performance differs by perception-transition group, with Aligned teams increasing and Multifaceted teams decreasing in scores](aligned-perceptions-performance-increase-multifaceted-decrease.md) — related
 - [Teams with similar cohesive perceptions report higher task cohesion scores than teams with different perceptions](similar-cohesive-perceptions-higher-task-cohesion-scores.md) — related
+- [Temporal network motifs show promise as a proxy indicator of task cohesion in WIL environments when combined with survey data](temporal-motifs-proxy-task-cohesion-mixed-methods.md) — related

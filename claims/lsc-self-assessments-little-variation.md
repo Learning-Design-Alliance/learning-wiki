@@ -48,3 +48,4 @@ Distribution on the capacity-to-govern scale (Table 13): nearly a quarter very p
 - [An estimated 19 percent of Local School Councils are nonfunctional](lsc-nonfunctional-19-percent.md) — related
 - [More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members](lsc-principal-evaluation-process.md) — related
 - While most parents agree they can influence school decisions, fewer than one-fifth report their school offers opportunities to provide input on classroom or schoolwide decisions — related
+- [Only 4 percent of LSCs show three or more signs of inactivity, and the most common problem is having fewer than two active committees](lsc-inactivity-signs-minority.md) — related

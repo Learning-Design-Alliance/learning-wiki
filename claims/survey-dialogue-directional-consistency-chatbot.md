@@ -47,3 +47,4 @@ Exploratory analysis connecting survey results to dialogue features in the same 
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Students rarely formulated questions specifying both knowledge component and scaffold type during chatbot problem-solving](students-rarely-ask-specific-questions.md) — related
+- [HelpCoach increased spontaneous question specificity during chatbot problem-solving compared with pre-task training alone](helpcoach-increased-spontaneous-question-specificity.md) — related

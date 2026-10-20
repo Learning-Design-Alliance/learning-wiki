@@ -50,3 +50,5 @@ Qualitative interaction-analysis case study of 17 families using the Time Explor
 - [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](mobile-ar-families-immersive-geoscience-lotm.md) — a broader claim this one bears on
 - [Families engaged in multiple immersive processes at the same microsites, combining sense-making conversations, observational inquiry, and deep geoscience engagement.](multiple-immersive-processes-at-microsites.md) — related
 - [All families took photographs at each microsite as evidence of their observation, with only one family personalizing photos by including children.](photo-taking-evidence-of-observation.md) — related
+- [No substantial example of emancipatory immersion was found in the family data, despite the framework including it.](no-substantial-emancipatory-immersion-example.md) — related
+- [All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old navigating alone.](gps-wayfinding-actional-immersion-accessible.md) — related

@@ -44,3 +44,5 @@ Post hoc Tukey comparisons (Bonferroni corrected) following the Poisson mixed mo
 
 ## Related Claims
 - [Topic-final sentences show higher harmonic centrality than topic-medial sentences and lower local clustering coefficient than other sentence types](topic-final-harmonic-clustering-patterns.md) — related
+- [Strength is strongly positively correlated with second-pass reading time, while betweenness, harmonic centrality and local clustering coefficient are not related to duration measures](strength-correlates-second-pass-reading-time.md) — related
+- [Readers with higher working memory capacity make more transitions between sentences (higher strength)](wmc-increases-strength-reading-networks.md) — related

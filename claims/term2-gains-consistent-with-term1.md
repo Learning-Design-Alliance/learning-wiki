@@ -48,3 +48,5 @@ Second term of the same 37-week extensive reading program, using a second set of
 ## Related Claims
 - [Extensive reading of graded readers produced substantial vocabulary learning gains for EFL learners across proficiency levels](extensive-reading-produces-vocabulary-gains-efl.md) — related
 - [Prior vocabulary knowledge moderates vocabulary learning gains in an extensive reading program, with high-level learners gaining more than intermediate and low-level learners](prior-vocabulary-knowledge-moderates-extensive-reading-gains.md) — related
+- [Available second language research indicates extensive reading programs are generally more effective than systematic vocabulary instruction using decontextualized exercises](l2-extensive-reading-beats-decontextualized-vocabulary-exercises.md) — related
+- [Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)](little-decay-three-month-delayed-posttest-extensive-reading.md) — related

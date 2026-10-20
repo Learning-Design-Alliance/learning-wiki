@@ -45,3 +45,8 @@ The report's review of research context across WWC-reviewed interventions report
 ## Related Claims
 - The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students — related
 - [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — related
+- [ISHS attendance increases the odds of economically disadvantaged students entering a Texas four-year college by 75 to 80 percent, with no significant college-entry effect for students overall](ishs-four-year-entry-economically-disadvantaged.md) — related
+- [Economically disadvantaged, English learner, special education, Black, and Hispanic students were more likely than peers to be ever below benchmark](student-group-early-literacy-disparities.md) — related
+- [The four-year college STEM major advantage of inclusive STEM high schools holds for Hispanic, female, and economically disadvantaged students, with odds ratios above three](ishs-stem-major-advantage-underrepresented-subgroups.md) — related
+- [Students experiencing homelessness show lower academic proficiency than economically disadvantaged but stably housed peers in reading, mathematics, and science](homelessness-lower-academic-proficiency.md) — related
+- [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related

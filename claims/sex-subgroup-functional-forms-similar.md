@@ -49,3 +49,6 @@ Sex subgroup analyses on the full PSID-CDS age range: cubic fit best for both se
 - [Male and female WM growth trajectories do not differ: sex-by-age interactions are non-significant after multiple-comparison correction](no-sex-differences-wm-growth.md) — related
 - [Verbal working memory shows non-linear growth from ages 3–19, with the most rapid growth during childhood and a brief accelerated period during early adolescence](wm-nonlinear-growth-childhood-acceleration-adolescence.md) — a broader claim this one bears on
 - [Functional coupling development during inhibition is sex-specific: striatal-motor coupling increases with age in girls, frontostriatal coupling increases with age in boys](sex-specific-inhibition-coupling-development.md) — related
+- [The simulation advantage and interest differences hold across subgroups of age, gender, school form, and grade](no-subgroup-differences-method-comparison.md) — related
+- [When PSID-CDS data are restricted to ages 6–11, backward digit span growth is best characterized by a quadratic (not cubic) function](quadratic-best-fit-restricted-age-range.md) — related
+- [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md) — related

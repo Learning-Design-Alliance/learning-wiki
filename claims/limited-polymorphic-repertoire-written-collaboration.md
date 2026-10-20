@@ -63,3 +63,6 @@ The analysis found pointing, underlining and question marks each served several 
 
 ## Related Claims
 - [Gesture mediated collaborative learning in an AR-headset astronomy task, including exploration, orientation, sharing and synthesizing AR perspectives, and sharing symbolic conception](gesture-mediated-collaboration-ar-headsets-astronomy.md) — related
+- [Dyads collaborating via flexible written paper media exhibit invariant communicative practices across media, participants and topics](invariant-communicative-practices-artifact-mediated-collaboration.md) — a broader claim this one bears on
+- [Well-defined tasks and accessible materials support shared creative influence in group work](well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) — related
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related

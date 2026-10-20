@@ -47,3 +47,6 @@ Scope statement from the report's summary: the multiyear Mathematica study is "t
 - [Average impacts of KIPP middle schools were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-positive-throughout-higher-earlier-years.md) — related
 - [The findings come from Mathematica's multiyear study of KIPP middle schools conducted for Arnold Ventures](kipp-multiyear-study-mathematica-arnold.md) — related
 - [An earlier report of the national KIPP evaluation described strong positive achievement impacts in math and reading for 22 KIPP middle schools](kipp-first-report-positive-math-reading-impacts-22-schools.md) — related
+- [Students in Expeditionary Learning middle schools perform better in reading and math than counterparts in other public schools](el-middle-schools-better-reading-math-achievement.md) — related
+- [The national KIPP evaluation uses experimental and quasi-experimental methods to estimate effects of KIPP middle schools across the country](kipp-evaluation-experimental-quasi-experimental-design.md) — a broader claim this one bears on
+- [The second phase of the national KIPP evaluation nearly doubled the sample to 43 KIPP middle schools and estimated achievement impacts in four subjects](kipp-evaluation-43-middle-schools-four-subjects.md) — related

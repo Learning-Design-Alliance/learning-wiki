@@ -57,3 +57,5 @@ Narrative review of incidental vocabulary acquisition research (Krashen 2004; Le
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — related
 - [Treatment effect interacts with exam sub-section, with oral comprehension showing the largest LWPA advantage](lwpa-by-exam-subsection-interaction.md) — related
 - [Generation effects are larger in incidental than intentional learning studies, though the direct intentional-vs-incidental contrast was not significant](intentionality-moderator-generation-effect.md) — related
+- [Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading](intentional-beats-incidental-vocabulary-gains.md) — reports the opposite
+- [Amount of listening time while active was not significantly related to End-of-Unit exam performance](listening-time-not-significantly-related-to-exam-score.md) — a narrower finding that bears on this claim

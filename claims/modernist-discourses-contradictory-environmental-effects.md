@@ -50,3 +50,4 @@ Theoretical argument in the 'Environmental education: the story so far' section 
 - [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related
 - Postmodern texts advance five characteristic theses against Enlightenment certainties — related
 - Language is the prime humanistic instrument, at once both the tool and the product of reason — related
+- [Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities](learning-studio-exposure-builds-student-awareness.md) — related

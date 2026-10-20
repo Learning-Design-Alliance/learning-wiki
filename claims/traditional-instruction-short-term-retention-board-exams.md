@@ -47,3 +47,5 @@ The contrasting finding of the qualitative meta-synthesis of PBL meta-analyses: 
 - [PBL is superior to conventional instruction for skill development and for satisfaction of students and teachers](pbl-superior-skill-development-satisfaction.md) — related
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — related
 - [Student engagement is higher during PBL than during traditional instruction](pbl-engagement-higher-than-traditional.md) — related
+- [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — related
+- [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — related

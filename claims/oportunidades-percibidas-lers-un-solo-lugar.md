@@ -44,3 +44,4 @@ Análisis temático de las reflexiones de los consejeros participantes sobre tec
 - [Los apoyos de transición más deseados incluyen información práctica, herramientas de traducción de competencias, adiestramiento laboral, tutoría y dinero](apoyos-deseados-traduccion-competencias-tutoria.md) — related
 - [Los principales retos percibidos al usar LER son la exactitud de la información, la seguridad, saber cómo usarlos, la adopción por empleadores y el acceso](retos-percibidos-lers-exactitud-seguridad-acceso.md) — related
 - [HSE learners and workers saw consolidated records, job matchmaking, convenience, auto-translation, and career search as top LER opportunities](top-perceived-ler-opportunities.md) — possibly the same claim (merge candidate)
+- [Las personas y conexiones fueron los apoyos de transición más utilizados, seguidos por los servicios, entre estudiantes y trabajadores HSE](personas-conexiones-apoyos-mas-utilizados.md) — related

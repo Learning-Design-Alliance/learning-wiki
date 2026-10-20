@@ -49,3 +49,7 @@ Negative-priming experiment with 30 monolinguals and 30 bilinguals; probes appea
 - [Stroop inhibition correlates with linguistic competition resolution in bilinguals but not monolinguals](stroop-correlates-competitor-inhibition-bilinguals-not-monolinguals.md) — related
 - [Higher Spanish proficiency in bilinguals is associated with less residual competitor inhibition](spanish-proficiency-associated-less-residual-inhibition.md) — related
 - [Monolinguals and bilinguals show similar within-language competitor activation during auditory word recognition](similar-within-language-competitor-activation-monolinguals-bilinguals.md) — related
+- [Bilinguals show a marginally smaller Stroop effect and higher overall Stroop accuracy than monolinguals](bilinguals-marginally-smaller-stroop-effect.md) — related
+- [Socioeconomic status differences between bilingual and monolingual groups may determine study outcomes](ses-moderates-bilingual-executive-function-results.md) — related
+- [Bilinguals maintain target activation longer than monolinguals after the activation peak](bilinguals-maintain-target-activation-longer.md) — related
+- [Adolescents and educated adults require more time to compare common-denominator fractions after a common-numerator prime than after a control prime (negative priming effect)](negative-priming-fraction-comparison-inhibition.md) — related

@@ -46,3 +46,4 @@ The review reports, citing Viirman (2021), a re-analysis of earlier lecture data
 - [Commognitive analysis of lecturing offers micro-level insights into lecturer-student communication that non-commognitive approaches miss](commognition-offers-micro-level-insights-into-lecturing.md) — a broader claim this one bears on
 - [Review reports lecturers' discourses vary: distinct teaching styles and routine profiles despite superficially similar lectures](lecturer-discourse-variability-in-styles-and-routines.md) — related
 - [Review reports TAs sharing the same agenda provided different meta-level learning opportunities through object-level adaptations](ta-agenda-object-meta-level-opportunities.md) — related
+- [Teaching style can be reclaimed as an effective tool for socially responsible rhetorical communication](style-teaching-reclaimed-for-critical-pedagogy.md) — related

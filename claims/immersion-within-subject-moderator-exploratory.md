@@ -44,3 +44,5 @@ Within-subject meta-regression of immersion (F = 13.01, p < .01). The no-technol
 
 ## Related Claims
 - [GenAI's motivational effect varies by subject domain, largest for language learning and smallest for science (exploratory)](genai-motivation-effect-varies-subject-domain-language-largest.md) — related
+- [SupplyNet was rated significantly more immersive, motivating, and enjoyable than the baseline, with engagement showing the most pronounced difference.](supplynet-higher-engagement-than-baseline.md) — related
+- [Amount of sensorimotor engagement, target language, proficiency, and type of embodied interaction do not significantly moderate embodied vocabulary learning effects](non-significant-moderators-embodied-vocabulary.md) — related

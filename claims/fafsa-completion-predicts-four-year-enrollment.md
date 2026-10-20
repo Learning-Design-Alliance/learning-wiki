@@ -75,3 +75,4 @@ Part of the CCSR analysis of the path Chicago graduates took toward four-year en
 - FAFSA completion is associated with higher college enrollment, with the strongest association for students in the lowest socioeconomic quintile — related
 - Michigan's average student-to-counselor ratio was 565:1 in 2024-25, far above the recommended 250:1, and FAFSA completion is linked to higher immediate college enrollment — related
 - [Approximately 10 percent of CPS graduates accepted into a four-year college do not enroll the following fall](accepted-but-not-enrolled-summer-melt-cps.md) — related
+- [State accountability systems that rank schools on FAFSA completion are perceived to penalize schools whose students pursue non-college pathways](fafsa-ranking-penalizes-noncollege-pathways.md) — related

@@ -43,4 +43,5 @@ Between-subject Tetris experiment (N = 62) varying task difficulty across boredo
 
 
 ## Related Claims
--
+- [Task difficulty strongly determined task performance: boredom conditions scored highest and overload conditions lowest in both ICL studies](difficulty-determines-task-performance-boredom-highest.md) — related
+- [Variations in task difficulty are reflected in the intrinsic cognitive load scale, with boredom conditions reporting the lowest ICL](difficulty-variations-reflected-in-icl-scale.md) — related

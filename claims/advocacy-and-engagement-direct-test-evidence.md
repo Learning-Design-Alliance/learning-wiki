@@ -44,3 +44,5 @@ The guide's introduction explains that dropout prevention studies often examine 
 
 ## Related Claims
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](proactive-monitoring-minimal-evidence.md) — related
+- [Implementing the guide's five recommendations together improves students' math achievement, while no component's isolated effectiveness was established](five-recommendations-together-improve-achievement.md) — reports the opposite
+- [Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others](self-determination-instruction-improves-outcomes.md) — related

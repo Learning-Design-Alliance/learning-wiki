@@ -49,3 +49,7 @@ Qualitative findings on children's ways of thinking and working, reported in Tab
 - [Preschoolers in a multiliteracies folk-tale program showed increased critical-thinking behaviors in qualitative journal data](preschool-folktale-program-increased-critical-thinking-qualitative.md) — related
 - [Perspective taking increases the creativity of dyadic interactions](perspective-taking-increases-dyad-creativity.md) — related
 - [The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better](experiential-training-ecd-workers-better-child-outcomes.md) — related
+- [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
+- [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — related
+- [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — related
+- [Folk-tales were used in every session, with photos (78%), videos (74%), songs (67%), classical tales (70%) and crafts (55%) as multimodal materials](folktale-program-material-frequencies-multimodal.md) — related

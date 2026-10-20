@@ -48,3 +48,8 @@ This is the authors' interpretive conclusion drawn from their trend modeling of 
 - [The lowest-performing middle school readers fell further behind during post-COVID recovery](lowest-performing-middle-school-readers-falling-further-behind.md) — a narrower finding that bears on this claim
 - [Post-COVID classrooms show increased academic diversity, with more students off-track and further behind grade-level proficiency](post-covid-classrooms-academically-diverse-more-students-off-track.md) — a narrower finding that bears on this claim
 - [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related
+- [After the pandemic, more students are off-track and further behind grade-level proficiency, deepening challenges for educators](post-covid-more-students-off-track-behind-grade-level.md) — related
+- [Socio-economic inequality in learning increased during the pandemic for most estimates, across subjects, grades and pandemic stages](covid-learning-inequality-increased-low-ses.md) — a narrower finding that bears on this claim
+- [Post-COVID classrooms show increased academic diversity in the composition and spread of student achievement levels](post-covid-classrooms-academically-diverse-achievement-spread.md) — related
+- [Achievement disparities by student race/ethnicity widened substantively during the pandemic](covid-race-ethnicity-disparities-widened.md) — a narrower finding that bears on this claim
+- [Post-pandemic classrooms present teachers with students in the same grade who differ more in learning needs than before the pandemic](same-grade-students-differ-more-in-needs.md) — a narrower finding that bears on this claim

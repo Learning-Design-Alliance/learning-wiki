@@ -62,4 +62,5 @@ Same Instagram fMRI experiment: the authors reported that when adolescents viewe
 
 
 ## Related Claims
--
+- [Excessive smartphone use in adolescents is associated with reduced frontostriatal connectivity and greater cortisol-related withdrawal symptoms](excessive-smartphone-frontostriatal-cortisol.md) — related
+- [Impending rewards improve adolescent antisaccade performance toward adult levels, accompanied by greater nucleus accumbens activation](rewards-improve-adolescent-antisaccade-nacc.md) — related

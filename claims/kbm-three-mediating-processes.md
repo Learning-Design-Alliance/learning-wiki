@@ -47,3 +47,6 @@ Thematic and case-based qualitative analysis across three phases using student m
 - [Student model sophistication increased significantly across successive iterations during the KBM unit](kbm-model-sophistication-iterated-gains.md) — related
 - [Systems thinking discourse shifted away from lower-level moves toward higher-level interconnections and feedback moves across the KBM unit](systems-thinking-discourse-shift-toward-higher-level-moves.md) — related
 - [A promising-ideas tool enabled children of about 8 years old to identify, communicate, respond to and build upon promising ideas in knowledge-building discourse](promising-ideas-tool-young-children.md) — related
+- [Post-intervention domain knowledge correlated with final model scores and with higher-level systems thinking discourse (ST-3)](model-and-discourse-correlate-with-domain-knowledge.md) — related
+- [Students with low achievement can assume high-level responsibility for collectively accomplishing knowledge-building discourse in a supportive knowledge-building environment.](low-achievers-collective-responsibility-knowledge-building.md) — related
+- [Group meta-discourse in Knowledge Forum is associated with higher individual learning among university students](meta-discourse-groups-higher-individual-learning.md) — related

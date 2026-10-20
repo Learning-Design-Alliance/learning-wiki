@@ -44,3 +44,4 @@ Narrative review section attributing this consensus to AdvanceCTE & ACTE (2020),
 
 ## Related Claims
 - [The state-developed Middle School Engage! Career Exploration and Readiness course was underutilized, accounting for just 0.4 percent of statewide enrollments](nebraska-engage-career-exploration-course-underutilized.md) — related
+- [Literature and expert opinion converge on a limited number of key noncognitive attributes that matter for student success, with multiple available instruments](convergence-key-noncognitive-attributes.md) — related

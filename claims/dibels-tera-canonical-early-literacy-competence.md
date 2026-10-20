@@ -46,3 +46,7 @@ Canonical correlation analysis of kindergarten DIBELS and TERA scores (N = 326) 
 
 - [DIBELS subtests form a significant multivariate pair with peer-play and learning-behavior dimensions (Engaged Literacy Learning variate)](dibels-engaged-literacy-learning-canonical.md)
 - [Kindergarten DIBELS subtests show significant concurrent positive relationships with standardized early literacy measures in urban kindergartners](dibels-kindergarten-concurrent-literacy-validity.md) — related
+- [Kindergarten DIBELS subtests correlate significantly with early mathematics ability and with behavioral approaches to learning](dibels-convergent-math-learning-behaviors.md) — related
+- [DIBELS subtests show significant negative relationships with peer-play difficulties and weaker links to social-behavioral than cognitive measures](dibels-discriminant-social-behavioral-validity.md) — related
+- [Kindergarten DIBELS subtests predict first-grade instructional reading, with Letter Naming Fluency the strongest predictor](dibels-predict-first-grade-reading.md) — related
+- [Kindergarten DIBELS subtests significantly predict first-grade TerraNova vocabulary, language, and reading outcomes](dibels-predict-terranova-first-grade.md) — related

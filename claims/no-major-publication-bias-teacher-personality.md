@@ -53,3 +53,4 @@ Publication-bias assessment using three indicators per Big Five domain with comb
 - [Associations between teacher personality and effectiveness vary substantially across studies, justifying moderator analysis](teacher-personality-effect-heterogeneity.md) — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
+- [A prior meta-analysis found only a small teacher personality–effectiveness relationship (r = .08), attributed to treating personality as unidimensional and pooling effectiveness measures](prior-teacher-personality-meta-analysis-small-effect.md) — related

@@ -46,3 +46,6 @@ The authors' summary of the EEG and behavioural findings in the Discussion: over
 
 - [Monolingual and bilingual children perform the dichotic comprehension task equivalently, with both groups finding English–English interference hardest](equivalent-comprehension-monolingual-bilingual-children.md)
 - [Unattended Musical Rain streams were better reconstructed than unattended linguistic distractors in both groups, with stronger MuR encoding in monolinguals](unattended-mur-stronger-encoding.md)
+- [Bilingual children perform worse than monolinguals on attention tasks with verbal stimuli but not non-verbal ones](verbal-stimuli-bilingual-worse-attention-tasks.md) — reports the opposite
+- [Selective attention improves neural encoding of attended speech envelopes in children aged 7–12](attention-improves-speech-envelope-encoding-children.md) — related
+- [Bilingual children show a flatter pattern of attended-speech encoding across conditions, driven by weaker encoding in low- or no-interference conditions](bilingual-flatter-attended-encoding-pattern.md) — possibly the same claim (merge candidate)

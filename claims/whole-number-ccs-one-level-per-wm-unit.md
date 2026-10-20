@@ -49,3 +49,5 @@ Study I, a cross-sectional validation study of 779 children from preschool to gr
 - [Two subsets of rational-number CCS items demand working memory capacities of 4 or 5 units respectively](rational-number-item-subsets-capacity-demands.md) — related
 - [Working memory capacity increases with age independently of knowledge, encoding speed, and articulation](developmental-capacity-gain-primary.md) — related
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — related
+- [Rational-number CCS test performance is predicted by working memory capacity and, to a lesser extent, by intrusion errors in the listening span](rational-number-ccs-predicted-by-wm-and-intrusions.md) — related
+- [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related

@@ -47,3 +47,4 @@ Parent (N = 247) and teacher (N = 151) survey reports on children's functional c
 - [Teachers judged almost 70% of children with cochlear implants to be below their class median in academic performance](ci-academic-below-class-median.md)
 - [Audiovisual presentation yields significantly higher sentence recognition than auditory-alone presentation for most children with cochlear implants](av-sentence-recognition-exceeds-auditory-alone-ci-children.md)
 - [A substantial proportion of children with cochlear implants used some form of signed communication despite parents' initial expectations otherwise](ci-signed-communication-use.md) — related
+- [Regression analyses identified oral communication, mainstream placement, younger age at implantation, and bilateral implantation as predictors of positive outcomes, with additional disabilities strongly predicting less positive outcomes](ci-regression-predictors-of-outcomes.md) — related

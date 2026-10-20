@@ -45,3 +45,6 @@ Controlled study in which 167 university students were assigned to either a trea
 ## Related Claims
 
 - [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md)
+- [The impact of the strategy training was higher for evaluation than for search skills, in terms of accuracy and quality of students' justifications.](training-impact-higher-evaluation-than-search.md) — possibly the same claim (merge candidate)
+- [Online reading for academic purposes is a complex activity involving analysing task requirements, assessing information needs, accessing relevant contents, and evaluating relevance and reliability of information.](online-reading-academic-multicomponent-activity.md) — a broader claim this one bears on
+- [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related

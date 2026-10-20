@@ -69,3 +69,4 @@ Logistic regression in the same cohort using the SMFQ clinical cut-point (≥12)
 - [Clinical ADHD diagnosis in childhood is associated with increased odds of clinically significant adolescent depressive symptoms](clinical-adhd-diagnosis-increased-odds-adolescent-depression.md) — related
 - [Peer problems at age 9.5 mediate the association between childhood ADHD and depressive symptoms at age 13](earlier-peer-problems-mediate-adhd-depression-earlier-ages.md) — related
 - [Peer-problem mediation of the ADHD–depression link is not driven entirely by victimisation](peer-mediation-not-solely-victimisation.md) — a narrower finding that bears on this claim
+- [At least 15% of children with ADHD continue to meet full diagnostic criteria by age 25 and a further 50% meet criteria in partial remission, with European estimates of persistence up to 80%](adhd-persistence-into-adulthood-subthreshold.md) — related

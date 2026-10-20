@@ -48,3 +48,5 @@ Correlational analysis in the same after-school sample relating SDQ peer problem
 ## Related Claims
 - [Peer problems are the only statistically significant predictor of reading comprehension scores among hyperactivity, conduct problems, and peer problems](peer-problems-only-significant-predictor-reading-comprehension.md) — related
 - [Students with low peer problems score significantly higher in reading comprehension than students with high peer problems](low-peer-problems-higher-reading-comprehension.md) — related
+- [Most students in the high reading comprehension group fall in the low externalizing behavior groups, most strongly for peer problems](high-reading-group-low-externalizing-behaviors.md) — related
+- [Hyperactivity and conduct problems were not statistically significant predictors of reading comprehension in this sample](hyperactivity-conduct-problems-not-significant-predictors.md) — related

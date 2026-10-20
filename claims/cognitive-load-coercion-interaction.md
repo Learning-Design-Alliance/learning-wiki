@@ -45,3 +45,7 @@ Mental-effort self-reports compared between Idiosyncratic and Stringent conditio
 ## Related Claims
 
 - [High-coercion (Stringent) NTool increases explicit negotiation activities in secondary vocational collaborative problem-solving, though the verification effect was stronger in morning sessions](stringent-ntool-increases-negotiation.md)
+- [Contrary to expectation, common ground after collaboration was highest in the low-coercion (Idiosyncratic) NTool groups, not the Stringent groups](common-ground-highest-idiosyncratic.md) — related
+- [The low- and high-coercion versions of NTool did not differ on perceived sociability or social presence](ntool-no-social-aspect-differences.md) — related
+- [Cognitive load when studying depended on instructional method (highest in the worked-out examples condition), but no prior knowledge or test-phase effects emerged](cognitive-load-method-effect-studying.md) — related
+- [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related

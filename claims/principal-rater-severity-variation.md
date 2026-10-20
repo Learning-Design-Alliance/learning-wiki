@@ -51,3 +51,5 @@ A measurement model of rater severity using matched observations from 84 princip
 - [Principals were far more likely than trained external observers to rate the same instruction Distinguished rather than Proficient](principals-inflate-distinguished-ratings.md) — reports the opposite
 - [Most evaluators rated consistently, but about 3 percent were muted and 5 percent erratic, and about 10 percent of a sampled subset were extremely severe or lenient](reach-evaluator-consistency-and-severity.md) — related
 - [Actual classroom observation practice often differs from best practice, with principal-teacher perception gaps on measures and observer qualifications](observation-practice-gaps-principal-teacher.md) — related
+- [Developers of the principal practice instruments provided only partial information about the instruments' reliability and validity](practice-instrument-partial-reliability-validity-info.md) — related
+- [Differences between principal and observer ratings at the high end of the scale were explained largely by teachers' previous evaluation ratings](prior-ratings-explain-observer-differences.md) — related

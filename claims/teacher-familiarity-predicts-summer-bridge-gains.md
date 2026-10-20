@@ -50,3 +50,4 @@ Teacher surveys from the 1999 Summer Bridge program showed eighth-grade teachers
 - [Mandatory summer curricula are not teacher proof: individualizing instruction and quality of teacher-student interactions were associated with larger gains](summer-curricula-not-teacher-proof.md) — related
 - [Families particularly valued meeting education staff early, familiarizing themselves with school layout and routines, and building social connections with other families](transition-program-valued-early-staff-contact-routines-social-connections.md) — related
 - [Immediate, informative test results enable teachers to differentiate instruction to individual needs](immediate-adaptive-test-results-enable-differentiation.md) — related
+- [Summer Bridge produced short-term test-score gains and allowed more students to meet promotion cutoffs, particularly among sixth and eighth graders](summer-bridge-short-term-test-score-gains.md) — related

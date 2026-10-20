@@ -51,3 +51,5 @@ Repeated measures MANOVA of the 148 intervention completers with time of test as
 - [Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences](two-year-fluency-intervention-greater-word-reading-growth.md) — related
 - [Program-specific gains appeared only in isolated t-tests: GRR on reading comprehension and RAVE-O on word-level efficiency measures](program-specific-ttest-gains.md) — related
 - [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](word-reading-interventions-outcome-type-effects.md) — related
+- [Intervention completers had significantly lower pretest basic reading scores and were about six years older than non-completers and non-intervention adults](completers-lower-pretest-older.md) — related
+- [Non-native English learners made significantly greater reading gains than native learners on 7 of 11 measures, while native learners gained more on vocabulary](non-native-learners-larger-reading-gains.md) — related

@@ -47,3 +47,4 @@ Pretest-training-posttest multilevel analysis of 214 kindergarteners randomly as
 - [Feedback training did not change children's cue utilization despite repeated metacognitive experiences](feedback-training-did-not-change-cue-utilization.md) — related
 - [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — related
 - [Pre-monitoring does not significantly improve children's relative monitoring accuracy (discrimination between correct and incorrect answers)](pre-monitoring-no-discrimination-improvement.md) — related
+- [Monitoring discrimination and overconfidence improve with age between kindergarten and second grade](monitoring-accuracy-improves-kindergarten-to-second-grade.md) — related

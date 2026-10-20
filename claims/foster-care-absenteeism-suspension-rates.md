@@ -66,3 +66,4 @@ Descriptive analysis of 2018–19 suspension data. The report states the 15% fos
 - [Students in foster care were consistently about three times more likely to be suspended than all other student groups, with rates reverting to pre-pandemic levels by 2022–23](foster-care-suspension-three-times.md) — related
 - Chronically absent students show worse reading, test, suspension, dropout, and postsecondary outcomes — related
 - Chronic absenteeism roughly doubled nationwide to about 16 million students after the pandemic — related
+- [More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic](very-chronic-absence-up-strong-attendance-down.md) — related

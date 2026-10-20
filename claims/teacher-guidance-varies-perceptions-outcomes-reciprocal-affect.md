@@ -81,4 +81,8 @@ The editorial reports this affect-related result from Pietarinen et al.'s videot
 
 
 ## Related Claims
--
+- [Teachers' self-perceived guidance and affect varied across the three inquiry phases and between teachers](teacher-guidance-perceptions-vary-by-phase.md) — related
+- [Teacher guidance distribution tracked perceived willingness to collaborate, not group outcome level or prior science competence](guidance-follows-willingness-not-outcome.md) — a narrower finding that bears on this claim
+- [Teacher self-reported affect was compounded by students' self-reported affect across working phases](teacher-student-affect-reciprocity-inquiry.md) — possibly the same claim (merge candidate)
+- [Teachers spent most CSCL class time on task management, content knowledge, technical support and observing, with minimal socio-emotional support](teacher-guidance-focus-distribution-cscl-science.md) — related
+- [Highest-outcome groups did not receive more guidance than other groups](high-outcome-groups-not-guided-more.md) — a narrower finding that bears on this claim

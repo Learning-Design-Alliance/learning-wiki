@@ -44,3 +44,4 @@ The review's challenge analysis (Section 3.2.1) argues that "some students may b
 
 ## Related Claims
 - [An argument-based approach to test score effectiveness can be illustrated by contrasting effectiveness arguments for interim assessments based on a conventional test blueprint versus one augmented with learning progressions](effectiveness-arguments-interim-blueprint-contrast.md) — related
+- [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](pacing-calendars-standardized-assessments-impediments.md) — related

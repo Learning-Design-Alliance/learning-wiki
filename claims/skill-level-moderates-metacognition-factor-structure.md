@@ -43,4 +43,5 @@ The review reports Ning's (2016) second study with the JrMAI, in which participa
 
 
 ## Related Claims
--
+- [No single metacognitive self-report can be recommended as the industry standard; the COMEGAM-ro has the strongest statistical support but is unreplicated](no-industry-standard-metacognitive-self-report.md) — related
+- [Assessments not designed for MLLs fail to differentiate ELA skills for students with very low ACCESS scores but align strongly at moderate-to-high ACCESS scores](non-mll-assessments-low-access-differentiation.md) — related

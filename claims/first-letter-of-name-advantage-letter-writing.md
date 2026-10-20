@@ -69,3 +69,6 @@ Model 5 fixed effects for 4-year-olds show both first-letter and later-letter na
 - [Letter type, letter order, textual frequency, number of strokes, and symmetry did not substantially or consistently contribute to letter writing](letter-features-null-for-letter-writing.md) — related
 - [Preschoolers' writing and writing-related skills increase significantly between ages 3 and 5 on letter, name, and CVC word tasks](preschool-writing-skills-increase-age-3-to-5.md) — related
 - [Children's name writing knowledge is more advanced than their other writing skills, with substantial letter knowledge of their own names by age 3-4](name-writing-most-advanced-emergent-skill.md) — related
+- [Letter-writing difficulty varies widely across letters, with O easiest and K hardest, and knowing the letter name raises per-letter probabilities substantially](per-letter-difficulty-and-name-knowledge-gains.md) — related
+- [Most variance in preschoolers' letter-writing skills is due to differences between students rather than between letters](student-level-dominates-letter-writing-variance.md) — related
+- [Vowels were easier for 3- and 4-year-olds to write than CV letters](vowels-easier-to-write-young-preschoolers.md) — related

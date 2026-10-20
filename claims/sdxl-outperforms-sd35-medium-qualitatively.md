@@ -47,3 +47,4 @@ Human qualitative assessment (subsection 4.2): a human judge picked the checkpoi
 - [Commercial text-to-image models produce accurate images for broad nuclear concepts but fail on specialized engineering prompts](commercial-models-fail-specialized-nuclear-prompts.md) — related
 - [Fine-tuning on the 1,000-image nuclear dataset improves image fidelity of SD models, with KID and CMMD decreasing over training steps](fine-tuning-improves-sd-nuclear-image-fidelity.md) — related
 - [LoRA fine-tuning of Flux.1 failed to learn nuclear concepts, producing wrong-concept images on all 300 test prompts](lora-flux1-fine-tuning-fails-nuclear-concepts.md) — related
+- [Generating multiple images per prompt and re-prompting with word variations did not yield accurate nuclear images for failed concepts](multiple-images-and-reprompting-do-not-fix-accuracy.md) — related

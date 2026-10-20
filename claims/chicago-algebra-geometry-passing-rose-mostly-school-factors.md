@@ -46,3 +46,4 @@ Two-year cohort trend analysis of math course-taking among high school eligible 
 - [Full college-sequence completion rose from 9.6 to 15.8 percent, with about 75 percent of the unadjusted increase due to factors other than student composition](chicago-college-sequence-completion-rose-mostly-other-factors.md) — related
 - [On-track rates after ninth grade rose from 42.2 to 50.6 percent, with slightly less than half the adjusted improvement attributable to better-prepared entering students](chicago-on-track-rates-rose-half-beyond-composition.md) — related
 - [Rising honors course-taking was due primarily to better-prepared students, with only small adjusted gains](chicago-honors-course-gains-due-to-better-prepared-students.md) — related
+- [Chicago's Algebra Initiative raised the 8th-grade algebra pass rate from 4% in 2002 to about 20% by 2017 and closed two-thirds of the NAEP gap](cps-algebra-initiative-gains.md) — related

@@ -45,3 +45,4 @@ The report describes its outcomes study as drawing on "administrative data sourc
 ## Related Claims
 - [Coaching participants were more likely than nonparticipants to obtain career studies certificates and associate degrees despite higher-risk characteristics](coaching-participants-more-credentials-despite-higher-risk.md) — related
 - [Career coaching participants showed increased employment rates and earnings after participating in coaching activities](coaching-associated-employment-earnings-gains.md) — related
+- [Some afterschool participation benefits emerged when high-level participants were compared to non-participants, but not when compared to other program participants](afterschool-high-vs-nonparticipants-benefits.md) — a broader claim this one bears on

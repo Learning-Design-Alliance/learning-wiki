@@ -70,3 +70,4 @@ Value-added scores showed no significant differences by teacher race/ethnicity o
 - [Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials](school-poverty-score-gaps-persist-controlling-teacher-background.md) — related
 - [Teachers who were White, female, or had five or more years of experience scored about 14 percentage points higher; emergency-certified teachers scored 14 points lower](ct-pck-group-score-differences.md) — related
 - [Racial disparities in TPA pass rates appear in low-performing programs but not in programs with passing rates above 90%](racial-disparities-vary-with-program-performance.md) — related
+- [Most variation in teacher evaluation scores is within schools rather than between schools](within-school-variation-dominates-teacher-evaluation-scores.md) — related

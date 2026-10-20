@@ -51,3 +51,4 @@ Descriptive scatterplots of mean RIT scores by test administration and subject (
 - [The CP model fits seasonal achievement data better than a traditional polynomial growth model on RMSE, AIC, and BIC while reducing residual autocorrelation](cp-model-fits-seasonal-growth-better-than-polynomial.md) — related
 - [The rural–nonrural achievement divergence is driven by larger summer losses for rural students](rural-achievement-divergence-driven-by-summer-loss.md) — a narrower finding that bears on this claim
 - [Research on seasonal learning and summer learning loss offers insights into the potential achievement impacts of COVID-19 school closures](summer-learning-loss-insights-covid-closures.md) — related
+- [Ignoring summer loss can impact which schools are identified as low performers under federal accountability](ignoring-summer-loss-impacts-low-performer-identification.md) — related

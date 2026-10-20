@@ -45,3 +45,4 @@ Linear regression on data from 60 participants in a mixed-design experiment pred
 ## Related Claims
 - [Users' baseline ranking accuracy significantly predicts the quality of the AI assistant's advice](baseline-accuracy-predicts-advice-quality.md) — related
 - [Carryover of user errors into AI advice reduces both advice quality and final ranking accuracy](error-carryover-reduces-advice-quality-and-performance.md) — related
+- [The sycophancy-focused intervention significantly reduced the assistant's positional mirroring of incorrect user rankings and rank-order alignment](intervention-reduced-positional-mimicry.md) — related

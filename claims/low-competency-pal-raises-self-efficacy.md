@@ -43,4 +43,6 @@ In the same 2x2 experiment, ANCOVA with prior self-efficacy as covariate showed 
 
 
 ## Related Claims
--
+- [Working with a high-competency pedagogical agent improves novice learners' application of learning (d = 0.46)](high-competency-pal-improves-application.md) — related
+- [The review reports that highly competent PALs increased learners' application of acquired knowledge while low-competent PALs increased self-efficacy](pal-competency-self-efficacy-application-tradeoff.md) — possibly the same claim (merge candidate)
+- [A high-competency PAL elicits more positive learner attitudes toward the agent (d = 0.91)](high-competency-pal-more-positive-attitudes.md) — related

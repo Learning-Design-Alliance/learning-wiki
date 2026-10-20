@@ -45,3 +45,5 @@ HLM moderation analyses using the child-reported Feelings about School measure (
 ## Related Claims
 - [Ethnicity moderates several social-functioning–academic relationships, which are stronger for African American than Caucasian children](ethnicity-moderates-social-academic-relations.md) — related
 - [Aggression is not a unique predictor of preschool academic development once attention problems and social skills are controlled](aggression-not-unique-predictor-preschool-academics.md) — related
+- [Preschoolers' social skills are related to preliteracy, language, and mathematics development controlling for attention and aggression problems](social-skills-independently-predict-emergent-academics.md) — related
+- [Attention problems are associated with lower preliteracy and language scores in preschoolers, controlling for aggression and social skills](attention-problems-predict-poorer-emergent-academics.md) — related

@@ -51,3 +51,6 @@ Authors' interpretive conclusion drawn from the study's pattern of gradual eleme
 - [Six of seven recently reformed high schools showed first-year on-track improvements above comparison schools, though evidence is limited](recent-high-school-turnarounds-on-track-improvement.md) — related
 - [Race is influential but not determinative in school change: it slows and complicates reform without dictating outcomes](race-influential-not-determinative.md) — related
 - [Youth workers at the treatment program treated admissions as a sudden procedural event rather than a gradual therapeutic process](workers-treat-admissions-as-sudden-procedural-event.md)
+- [Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable](rural-limited-human-capital-challenges-sig-staff-replacement.md) — related
+- [High school teachers are substantially less positive than elementary school teachers about recent changes, reform impact, and local school leadership](high-school-teachers-less-positive-than-elementary.md) — related
+- [The study concluded FAST is unlikely to meaningfully contribute to turning around low-performing schools, though reading benefits may exist for participating families](fast-unlikely-school-turnaround-conclusion.md) — related

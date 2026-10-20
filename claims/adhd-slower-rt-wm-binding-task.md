@@ -67,3 +67,10 @@ Same RT ANOVA: a main effect of condition, with "The Color-shape condition showe
 - [Adults with dyscalculia perform the number comparison task as accurately as controls but respond significantly more slowly](dyscalculia-equal-accuracy-slower-reaction-time.md)
 - [Having three or more comorbid psychiatric conditions increases risk for slow processing speed, but a single comorbid condition does not](multiple-comorbidities-increase-slow-ps-risk.md)
 - [Retrieval P3 discriminates Same from Different trials only in non-ADHD adolescents, indicating a failure of post-selection prioritization in ADHD](retrieval-p3-change-discrimination-only-non-adhd.md)
+- [Adolescents with ADHD show poorer accuracy than non-ADHD peers on all conditions of a visual short-term memory task, with the largest drop on trials requiring WM updating](adhd-poorer-accuracy-wm-change-trials.md) — related
+- [Go-trial response times are slower during the stop-signal task than the no-tone task, with no diagnostic group difference](stop-signal-slows-mean-reaction-time-equally.md) — related
+- [Typical readers respond faster than dyslexic readers overall, and responses slow as presentation rates increase, without a group-by-rate interaction for reaction time](reaction-time-group-and-rate-effects-no-interaction.md) — related
+- [Encoding P3 amplitude is reduced in ADHD adolescents during visual WM encoding, in both early and late time windows](reduced-encoding-p3-adhd.md) — related
+- [Children with cochlear implants are generally slower than hearing peers in multiplication and subtraction but show comparable error profiles](ci-children-general-slowing-multiplication-subtraction.md) — related
+- [Fourth graders with poor arithmetic-fact abilities (PoorAF) and matched controls did not differ on a perceptual shape-matching speed task](pooraf-no-perceptual-speed-deficit.md) — related
+- [The dual-task condition is more difficult than the single-task condition, with a condition-by-modality interaction in reaction time](dual-task-difficulty-condition-modality-interaction.md) — related

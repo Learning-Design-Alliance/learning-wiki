@@ -43,4 +43,5 @@ Descriptive ranking from the profile-level ANOVA of reading literacy (Table 6): 
 
 
 ## Related Claims
--
+- [Eager students (high talk, high engagement) achieved the best reading literacy scores and disconnected students (low talk, low engagement) the worst, with only the eager–disconnected difference statistically significant](eager-best-disconnected-worst-achievement.md) — related
+- [Talk time and internal behavioral engagement are only weakly correlated, indicating they are separate phenomena](talk-and-engagement-separate-phenomena.md) — related

@@ -50,3 +50,5 @@ The study's reported result on the sample-removal technique: the authors state t
 - [Student test disengagement may bias estimates of educational effectiveness based on observed test results](disengagement-undermines-score-inferences.md) — related
 - Restricting a sample to students who used the treatment can block a mediating path and induce overcontrol bias, attenuating estimated effects — a narrower finding that bears on this claim
 - [After accounting for publication bias, the estimated true effect favoring PS-I is strong (Hedge's g = 0.87)](publication-bias-corrected-psi-effect-strong.md) — related
+- [Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample](rapid-guessing-minimal-school-growth-estimates.md) — reports the opposite
+- [Motivation filtering reversed the estimated Black-White fall-to-fall growth gap direction in later grades](filtering-reverses-black-white-growth-gap.md) — a narrower finding that bears on this claim

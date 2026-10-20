@@ -48,3 +48,5 @@ Regression Model 3 in the cross-sectional survey, controlling for academic self-
 - [Teacher support is negatively associated with AI dependency among university students](teacher-support-negatively-associated-ai-dependency.md) — related
 - [AI dependency differs by AI usage frequency and academic year but not gender](ai-dependency-group-differences-usage-frequency-year.md) — related
 - [AI dependency mediates the relationship between teacher support and learning burnout](ai-dependency-mediates-teacher-support-burnout.md) — related
+- [Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism](self-efficacy-negatively-predicts-ai-dependency.md) — related
+- [At Time 3, profile membership was significantly associated with Japanese learning self-efficacy and learning burnout, with all three profiles differing pairwise](profiles-predict-self-efficacy-and-burnout.md) — related

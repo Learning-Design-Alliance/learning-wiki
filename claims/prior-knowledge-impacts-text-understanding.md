@@ -49,3 +49,6 @@ The article asserts, citing prior literature (Richardson, Morgan, & Fleener; Sou
 
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
+- [Helping students make connections between prior knowledge and the texts they read is among the practices most consistently related to student growth](prior-knowledge-text-connections-related-to-growth.md) — related
+- [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](activation-improves-learning.md) — related
+- [Focusing students' attention on the meaning of a text before reading, such as introducing the topic and encouraging predictions, is among the practices most consistently related to student growth](pre-reading-meaning-focus-related-to-growth.md) — related

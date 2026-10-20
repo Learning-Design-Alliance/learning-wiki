@@ -46,3 +46,5 @@ Study 2 turn-level analysis testing whether praise was automatic, as the prompt'
 - [An explicit prompt instruction to challenge gently changed nothing: the agent challenged in about 1% of turns under both prompts](challenge-instruction-changed-nothing.md) — related
 - [Decisions participants volunteered were worded just as firmly as decisions the agent demanded, and revisions of earlier positions were rare](demanded-versus-spontaneous-decisions-no-firmness-difference.md) — related
 - [A deployed reflection agent followed its prompt's countable rules but broke its dispositional rules about manner](agent-followed-countable-not-dispositional-rules.md) — related
+- [Stress-exposed adolescents fail to follow the optimal exploratory strategy of initial indiscriminate responding](early-stress-reduced-exploration-learning-task.md) — related
+- [On a text channel, fading holds when the learner's turn is aimed at the decision under support, regardless of its depth](aim-warrant-for-fading-ai-tutor.md) — related

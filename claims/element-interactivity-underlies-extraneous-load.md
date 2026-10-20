@@ -47,3 +47,4 @@ Theoretical argument in the abstract of the article. The author proposes extendi
 - [Intrinsic and extraneous load are distinguished by whether element interactivity is essential to the task or a function of instructional procedures](intrinsic-extraneous-distinction-essential-vs-instructional.md) — related
 - [Germane cognitive load can be defined in terms of intrinsic cognitive load, associating it with element interactivity](germane-load-defined-via-intrinsic-load.md) — related
 - [The article analyzes the consequences of explaining the various cognitive load effects in terms of element interactivity](cognitive-load-effects-reexplained-via-element-interactivity.md) — possibly the same claim (merge candidate)
+- [In its traditional treatment, germane cognitive load is essentially indistinguishable from intrinsic load and may be a redundant concept](germane-load-indistinguishable-from-intrinsic-load.md) — related

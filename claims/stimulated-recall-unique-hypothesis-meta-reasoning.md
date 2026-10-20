@@ -43,4 +43,5 @@ Thinking processes were tapped by a stimulated recall procedure and the recall p
 
 
 ## Related Claims
--
+- [Conceptual change by students during PBL problem analysis can be made visible in stimulated recall protocols](stimulated-recall-makes-conceptual-change-visible.md) — related
+- [PBL group discussion during problem analysis mainly concerns theory building, with less data exploration and meta-reasoning](pbl-discussion-mainly-theory-building.md) — related

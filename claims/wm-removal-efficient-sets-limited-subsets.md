@@ -43,4 +43,4 @@ The review's synthesis of removal evidence from updating paradigms and forget-cu
 
 
 ## Related Claims
--
+- [Two subsets of rational-number CCS items demand working memory capacities of 4 or 5 units respectively](rational-number-item-subsets-capacity-demands.md) — related

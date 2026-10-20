@@ -45,3 +45,4 @@ Micro-analysis of Excerpt 1, a help-seeking setting during the annotation activi
 ## Related Claims
 
 - [Cognitively oriented challenges dominated student help requests during computer-supported lab work, with 45.1% conceptual and 28.7% cognitive-regulation requests](help-requests-mostly-conceptual-cogreg.md)
+- [The teacher supported understanding of assignments by reformulating scientific terms into everyday concepts and by contextualising the lab experiment](teacher-reformulates-terms-contextualises-experiment.md) — related

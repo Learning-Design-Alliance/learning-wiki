@@ -148,3 +148,10 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 - [High-level prompting and specific praise continue to predict students' social reasoning one turn later (Lag-2), suggesting a vicarious reinforcing experience](prompting-praise-delayed-effect-social-reasoning-lag2.md) — related
 - [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related
 - [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](extrinsic-rewards-deplete-intrinsic-motivation.md) — related
+- [Parental focus on compliance harms homework learning, while supporting effort and process helps](parent-compliance-versus-process-support.md) — a narrower finding that bears on this claim
+- [Most praise functions as a verbal reward, creating dependence on others' approval rather than self-generated criteria](praise-functions-as-verbal-reward.md) — related
+- [Goal orientations moderate self-efficacy perceptions in ways not originally predicted by self-efficacy theory](goal-orientations-moderate-efficacy-perceptions.md) — related
+- [Gaming participants did not report the negative consequences of task failure; low-stakes experimentation and regeneration supported perseverance](gaming-failure-tolerance-perseverance.md) — related
+- [Recorded natural-language feedback was associated with lower odds of subsequent persistent failure than no feedback in the randomized course subset](natural-language-feedback-lower-persistent-failure-odds.md) — related
+- [Error framing is expected to induce differential mastery and performance-avoid orientations, shaping self-efficacy and intrinsic motivation](error-framing-induces-goal-orientations.md) — related
+- [Self-handicapping decreases effort to protect self-worth, in contrast to defensive pessimism](self-handicapping-versus-defensive-pessimism.md) — related

@@ -65,3 +65,4 @@ Based on the observed between-school growth distribution, the report projects th
 - [Sixty percent of the highest-poverty schools also have above-average student growth](sixty-percent-high-poverty-schools-above-average-growth.md) — related
 - [Lowest-income schools show more variable growth than highest-income schools, with more schools both below the 50th and above the 82nd growth percentile](lowest-income-schools-more-variable-growth.md) — related
 - [Most high-achieving middle schoolers were on track for college readiness, but students in wealthy schools were more often on track than those in poor schools](college-readiness-gaps-high-achievers-poverty.md) — related
+- [Growth rates varied tremendously between schools regardless of poverty, with top-quartile schools producing more than double the growth of the worst quartile](school-growth-variance-exceeds-poverty-effect.md) — related

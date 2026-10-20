@@ -51,3 +51,8 @@ The abstract reports that the integrative review "demonstrates that they can hav
 - An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting — related
 - [Unmotivated examinees present a major threat to the validity of scores in low-stakes testing programs](unmotivated-examinees-threaten-low-stakes-score-validity.md) — related
 - [CAT has the potential to be more valid and reliable than non-adaptive tests](cat-potential-more-valid-reliable-than-non-adaptive.md) — a broader claim this one bears on
+- [Threshold-setting methods are compared using reading scores from over 728,923 students on a computer-adaptive test of nearly 12,000 items](large-scale-cat-threshold-method-comparison.md) — related
+- [Effort-moderated scoring exhibits improved person fit statistics compared with traditional scoring](effort-moderated-scoring-improved-person-fit.md) — related
+- [Effort-moderated scoring yields more accurate scores than traditional scoring on an adaptive achievement test](effort-moderated-scoring-more-accurate-than-traditional.md) — related
+- [Simulations of adaptive, multistage, and fixed form tests show the adaptation measures can be used operationally to identify difficulties with adaptation](simulation-shows-adaptation-measures-identify-difficulties.md) — related
+- [A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation](effort-guided-adaptive-test-alleviates-mistargeting.md) — related

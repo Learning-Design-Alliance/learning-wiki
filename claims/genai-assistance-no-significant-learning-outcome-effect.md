@@ -46,3 +46,4 @@ Random-effects meta-analysis of 11 effect sizes from 10 studies comparing exam p
 ## Related Claims
 - [GenAI coding assistance produces a statistically significant moderate positive effect on developer productivity (g = 0.33), with substantial heterogeneity across settings.](genai-coding-assistance-moderate-positive-productivity-effect.md) — related
 - [Exam environment critically moderates GenAI learning effects: significant large gains when GenAI is permitted during assessment (g = 0.76) versus non-significant slightly negative effects when it is not (g = -0.06).](exam-environment-moderates-genai-learning-effects.md) — related
+- [Study setting significantly moderates GenAI productivity effects: laboratory experiments show large significant gains (g = 0.73) while enterprise (g = 0.19) and open-source (g = 0.01) effects are substantially smaller and non-significant.](study-setting-moderates-genai-productivity-gains.md) — related

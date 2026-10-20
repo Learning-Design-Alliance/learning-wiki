@@ -47,3 +47,4 @@ Benchmark evaluation on the MathDial dataset simulating tutor-student interactio
 - [Knowledge tracing performance on tutoring dialogues is relatively low, with a maximum of around 76% AUC, which the authors take to show dialogueKT is a challenging task.](dialogue-kt-performance-is-relatively-low-compared-to-standard-kt.md) — related
 - [In a 10-student pilot, EduGuard produced higher post-test accuracy, larger normalized learning gain, lower calibration error, and lower overreliance than GPT-4o-mini Tutor](eduguard-pilot-learning-gain-overreliance.md) — related
 - [AI tutors explicitly designed according to educational theory outperformed traditional active learning in rigorous academic settings](pedagogically-designed-ai-tutors-outperform-active-learning.md) — related
+- [In simulation, an adaptive prompt router outperforms two static prompt baselines on pedagogical score across 390 scenarios](prompt-router-beats-static-baselines-simulation.md) — related

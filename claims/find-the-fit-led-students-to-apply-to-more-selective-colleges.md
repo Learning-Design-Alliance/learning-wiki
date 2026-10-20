@@ -47,3 +47,4 @@ Among the key findings of the enhanced advising evaluation, the report states Fi
 - [Find the Fit increased the share of Upward Bound students who applied to four or more colleges](find-the-fit-increased-four-or-more-college-applications.md) — related
 - [Find the Fit previously shifted application behavior, increasing applications to four or more colleges and to very competitive colleges](find-the-fit-shifted-college-applications.md) — related
 - [Find the Fit led about 3 percentage points more students to attend colleges that were at least very competitive immediately after high school](find-the-fit-increased-selective-college-attendance.md) — related
+- [The selectivity impact of Find the Fit persisted through the third fall after high school graduation](find-the-fit-selectivity-impact-persisted-three-years.md) — related

@@ -47,3 +47,4 @@ The national implementation study reports supplemental educational services elig
 - [In 2004-2005, only about one percent of the nearly 6.2 million students eligible for Title I school choice used the option, while about 17 percent of eligible students used supplemental educational services](title-i-choice-one-percent-ses-17-percent-participation.md) — related
 - [Participation rates in Title I school choice and supplemental educational services were low](title-i-choice-ses-low-participation-rates.md) — related
 - [Participation rates remained low: 1 percent for Title I public school choice and 17 percent for supplemental educational services](title-i-choice-ses-low-participation.md) — related
+- [Participants in both Title I options came from the disadvantaged populations NCLB targets](title-i-participants-disadvantaged-populations.md) — related

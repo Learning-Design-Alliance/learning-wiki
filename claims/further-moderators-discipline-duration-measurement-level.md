@@ -65,3 +65,7 @@ Meta-regression of effect sizes on the natural logarithm of study duration; the 
 - [The degree of additional content-related support does not significantly moderate CSCL script effects on either outcome](content-support-moderator-not-significant.md) — related
 - [The script level a CSCL script mainly targets does not significantly moderate its effects on domain-specific knowledge or collaboration skills](script-level-moderator-not-significant.md) — related
 - [Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge, and for collaboration skills the difference runs opposite to the expected direction](transactivity-moderator-not-significant.md) — related
+- [The effect of CSCL scripts on collaboration skills is significantly greater than their effect on domain-specific knowledge](cscl-scripts-effect-larger-for-skills-than-knowledge.md) — related
+- [The effectiveness of CSCL scripts for domain learning does not significantly depend on the number of different collaborative activities prompted](cscl-effectiveness-independent-of-number-of-activity-prompts.md) — related
+- [Measuring outcomes at the individual versus group level did not significantly moderate CSCL script effects](measurement-level-moderator-not-significant.md) — related
+- [Teaching type, intervention duration, subject area, group size, and learning scaffold significantly moderate the effect of collaborative problem-solving on critical thinking](five-significant-moderators-cps-critical-thinking.md) — related

@@ -55,3 +55,4 @@ Pre-registered between-group online experiment (N = 164, Prolific) comparing a f
 - [Older adults show reduced reminder bias relative to objective need despite setting more reminders](ageing-reminder-bias-reduced.md) — related
 - [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — related
 - [Within-person reminders of implementation intentions improve students' short-term study behaviour](within-person-reminders-improve-study-behaviour.md) — related
+- [Individuals show a systematic positive reminder bias, setting more reminders than optimal](positive-reminder-bias.md) — related

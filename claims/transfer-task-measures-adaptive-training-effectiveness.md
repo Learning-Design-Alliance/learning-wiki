@@ -45,3 +45,5 @@ Methodological statement from the overview of the experimental design. The autho
 ## Related Claims
 - [Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control](manual-adaptation-slightly-superior-automatic-adaptive-training.md) — related
 - [The article argues spatial perspective-taking performance relates to academic problem solving and can indicate academic potential](perspective-taking-indicator-academic-success.md) — related
+- [Gain-effective time constant product is slightly superior to forcing function amplitude as an adaptive variable](gain-time-constant-product-superior-forcing-function-amplitude.md) — related
+- [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related

@@ -43,4 +43,6 @@ From the analysis of Excerpt 2: the authors report that "The simulator plays an 
 
 
 ## Related Claims
--
+- [Students in simulator training encounter a progression from simplified low-fidelity tasks to more complex higher-fidelity tasks as a deliberate instructional logic.](simulator-task-progression-low-to-high-fidelity.md) — related
+- [VET teachers use the real machine as the benchmark of legitimacy for simulator instruction and shift between teacher and future-colleague positions.](real-machine-benchmark-and-colleague-positioning.md) — related
+- [Students reconstruct authentic work practices in the simulator even when the simulation has removed the relevant environmental elements.](students-reconstruct-authentic-practice-in-simplified-simulation.md) — related

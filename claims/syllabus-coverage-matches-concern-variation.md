@@ -47,3 +47,4 @@ Authors' interpretive argument in the Discussion linking observed concern variat
 - [Respondents overestimate apathy in their field: for most ethical issues, students' own concern exceeds the concern they perceive among CS peers](field-apathy-overestimation-ethical-concerns.md) — related
 - [Male respondents were significantly more likely than non-male respondents to have no concern about their labour being used for military purposes](gender-difference-military-labour-concern.md) — related
 - In a graduate CS course offering, mediated topic priorities aligned with instructor concerns (top-5 overlap 3/5; Spearman ρ = 0.80) — related
+- [Most surveyed job-seeking CS students applied to at least one Big Tech company, with significant subgroup differences in application rates](big-tech-application-rates-subgroup-differences.md) — related

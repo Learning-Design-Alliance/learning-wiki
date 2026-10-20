@@ -69,3 +69,4 @@ Second meta-analysis of 30 standardized mean changes from 12 studies reporting p
 - [Providing a rubric does not significantly improve relative accuracy of self-assessment across criteria](rubrics-no-effect-relative-accuracy.md) — related
 - [Rubric use has a small, statistically non-significant pooled effect on self-regulated learning (g = 0.23)](rubrics-small-effect-self-regulated-learning.md) — related
 - [Rubric use has a small positive effect on students' self-efficacy (g = 0.18), based on only four studies](rubrics-small-effect-self-efficacy.md) — related
+- [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related

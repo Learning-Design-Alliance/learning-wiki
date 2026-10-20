@@ -46,3 +46,5 @@ Moderation regression (Table 4, Model 5) showed a significant TAC × DC interact
 - [The indirect effect of AI literacy on engagement via psychological capital strengthens as professional commitment rises (moderated mediation)](moderated-mediation-conditional-indirect-effect.md) — related
 - [Digital competency weakens the positive relationship between teacher–AI collaboration and work alienation](digital-competency-weakens-tac-alienation-link.md) — related
 - [Teacher–AI collaboration is positively related to university teachers' work engagement](teacher-ai-collaboration-positively-related-work-engagement.md) — related
+- [Psychological availability mediates the positive pathway from teacher–AI collaboration to work engagement](psychological-availability-mediation-teacher-ai-engagement.md) — related
+- [Work alienation mediates a negative pathway from teacher–AI collaboration to work engagement](work-alienation-mediation-teacher-ai-engagement.md) — related

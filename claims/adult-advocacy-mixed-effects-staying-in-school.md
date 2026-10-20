@@ -44,3 +44,10 @@ The panel's review of five experimental studies of four dropout interventions wi
 
 ## Related Claims
 - [The WWC rates ALAS as having potentially positive effects on staying in school and progressing in school](alas-wwc-potentially-positive-rating.md) — a narrower finding that bears on this claim
+- [Twelve Together has potentially positive effects on staying in school, based on a lower (non-significant) dropout rate than control](twelve-together-potentially-positive-staying-in-school.md) — a narrower finding that bears on this claim
+- [High School Redirection shows mixed effects on staying in school, with significant effects in the Stockton trial but not in Wichita or Cincinnati](hsr-mixed-effects-staying-in-school.md) — a narrower finding that bears on this claim
+- [High School Redirection shows no discernible effects on completing school (diploma or GED receipt)](hsr-no-discernible-effects-completing-school.md) — related
+- [Accelerated middle schools show potentially positive effects on staying in school, with an average improvement index of +18 percentile points](accelerated-middle-schools-staying-in-school-potentially-positive.md) — related
+- [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](proactive-monitoring-minimal-evidence.md) — related
+- [Financial incentives for teen parents have potentially positive effects on staying in school, with a statistically significant dropout reduction in Cal-Learn but not in LEAP](financial-incentives-teen-parents-staying-in-school.md) — related
+- [An AI-supported reading progress tool produced large effect sizes for speed and accuracy but not significant prosody gains for third-grade EFL learners](ai-reading-progress-speed-accuracy-large-effects-prosody-null.md) — related

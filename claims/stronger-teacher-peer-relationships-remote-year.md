@@ -51,3 +51,5 @@ Gwynne, J.A., Allensworth, E.M., Young, C., & Hart, H. (2024). Student experienc
 - [Student reports of social skills and perseverance were declining before the pandemic, fell further during remote learning in the middle grades, and remained below 2011 levels through 2022-23](social-skills-perseverance-declined-pandemic.md) — related
 - [Students and teachers reported more positive school climate perceptions in 2020/21 during hybrid and remote learning than in 2018/19 and 2021/22](pandemic-year-climate-positive-bump-pennsylvania.md) — related
 - Local leaders supported student learning in similar and different ways across in-person, hybrid, and remote instructional modalities — related
+- [No association found between 2021/22 school climate scores and the amount of virtual and hybrid instruction in 2020/21](no-association-virtual-instruction-climate.md) — related
+- [Student-reported instructional quality declined during remote learning, most sharply in middle-grade science and academic press, and had not recovered to pre-pandemic levels by 2022-23](instructional-quality-declined-remote-learning.md) — related

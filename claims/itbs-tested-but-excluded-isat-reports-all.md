@@ -54,3 +54,4 @@ Documentary comparison of testing-inclusion rules plus Figures 3 and 4 showing 2
 - After adjustments for inclusion-rule changes, CPS elementary test scores continued to improve through 1999, with long-term math gains across all grades but slowing reading improvement at ages 9, 11, and 12 — related
 - [CPS sharply reduced the number of non-graded (grade 20) special education students of grades 3-8 age, from 6,180 in 1992 to 773 in 1999](cps-grade-20-special-education-reclassification-1992-1999.md) — related
 - The percentage of CPS elementary students whose ITBS scores count in accountability reporting fell from 82.3 percent in 1992 to 73.9 percent in 1999, with the lowest inclusion in third grade — related
+- [Publicly reported school accountability statistics are not useful for measuring achievement trends over time](publicly-reported-statistics-not-useful-for-trends.md) — a broader claim this one bears on

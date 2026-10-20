@@ -49,3 +49,5 @@ Qualitative reflexive thematic analysis of eight group interviews with 48 studen
 - Keyword co-occurrence analysis reveals an emerging practice-based ethical orientation, with reflective practice and reflexivity terms positioned close to core AI and ethics nodes — related
 - A three-phase human-LLM inductive pipeline produced a hierarchical codebook of 72 items within 19 categories and six domains from 45,000 educator-AI messages — related
 - [EAI effectiveness was reported across all educational stages, with most studies in secondary education and university](eai-effective-all-educational-stages.md) — related
+- [Students value eleven distinct collaboration quality indicators spanning individual and group levels of evaluation](eleven-learner-valued-collaboration-quality-indicators.md) — related
+- [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](qualitative-selective-verification-intensive-use.md) — related

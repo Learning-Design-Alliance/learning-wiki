@@ -45,3 +45,6 @@ Categorization of student activities during the MAIC pilot courses (Figure 6). T
 ## Related Claims
 - [Several FRTF behavioral examples were not sorted better than chance, including actively listening to others (18.2%) and exploring implications of proposed solutions (9.4%)](frtf-behavioral-examples-below-chance.md) — related
 - [Children's exploratory behavior is related to their question asking](exploration-related-to-question-asking.md) — related
+- [Structured observations showed students were frequently engaged in on-task behaviors during circle meetings](structured-observations-engagement-on-task.md) — related
+- [More than half of participants' ChatGPT queries sought knowledge or advice, with methodological knowledge and classroom management the largest prompt categories](chatgpt-queries-sought-knowledge-advice.md) — related
+- [Feeling comfortable asking questions in class is the strongest classroom-climate predictor of students' behavioral academic engagement in introductory STEM courses](comfort-asking-questions-predicts-engagement.md) — related

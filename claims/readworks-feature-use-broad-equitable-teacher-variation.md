@@ -85,3 +85,4 @@ Mixed-effects linear model of rate of feature use found teacher was a significan
 - Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools — related
 - [Teachers who tried ReadWorks features reported high intent to assign more and higher-level articles (89% and 82%)](readworks-features-raise-teacher-assignment-ambitions.md) — related
 - [Teachers reacted unanimously positively to new audio supports on the ReadWorks platform and offered them to all students, not only struggling readers](teachers-positive-reactions-readworks-audio-supports.md) — related
+- [Using at least one feature raised students' multiple choice question attempt rate to 89 percent and eliminated the drop on hard assignments, with a significant feature-use × difficulty interaction](readworks-feature-use-engagement-attempts.md) — related

@@ -67,3 +67,4 @@ One-way ANOVAs on lifestyle variables across the three old performance subgroups
 - [Old high performers reach a Stroop performance level comparable to middle-aged or even young adults](old-high-performers-comparable-middle-aged-young.md) — related
 - [Physical activity is positively correlated with children's working memory, and integrated exercise with gestures yields the best preschool foreign-language vocabulary learning](physical-activity-working-memory-vocabulary.md) — related
 - [Obesity relates to lower processing speed and cognitive flexibility only among older adults with low education or low engagement in activities](obesity-cognitive-reserve-moderation-old-age.md) — related
+- [Interference control declines with increasing age and increasing Stroop task difficulty in speed, consistency and accuracy](interference-control-declines-age-task-difficulty.md) — related

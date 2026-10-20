@@ -50,3 +50,4 @@ The one entry is the authors' own description of a course application, with no c
 ## Related Claims
 - [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
 - Online peer assisted learning communities foster informal learning and spontaneous interest-based groups — a broader claim this one bears on
+- [A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s](peer-coaching-supports-teacher-professional-development.md) — related

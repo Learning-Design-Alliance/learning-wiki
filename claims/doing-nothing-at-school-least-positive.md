@@ -45,3 +45,5 @@ In the experience-sampling comparison of activity enjoyment across contexts, the
 ## Related Claims
 
 - [Students with visual impairments rated leisure and structured recreation in other locations as their most enjoyable activities](leisure-other-locations-most-enjoyable.md)
+- [Students with visual impairments and additional disabilities reported more school social challenges than peers who were only visually impaired](additional-disabilities-more-school-social-challenges.md) — related
+- [High school students with visual impairments fitted in significantly less and felt significantly less accepted at school than in other contexts](vi-students-fit-in-less-accepted-at-school.md) — related

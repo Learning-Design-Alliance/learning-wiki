@@ -44,4 +44,8 @@ Wilcoxon signed-rank pre-/post-test comparisons in the Results section of the ex
 
 
 ## Related Claims
--
+- [Grade 5 students in a KBM environment significantly increased their Earth Science domain knowledge from pretest to post-test](kbm-domain-knowledge-gains-earth-science.md) — a narrower finding that bears on this claim
+- [ESL students taught concept mapping show significantly greater gains in self-regulation strategies (self-monitoring and knowledge acquisition strategies) than the alternative strategy group](concept-mapping-greater-self-regulation-gains-esl.md) — related
+- [ESL students taught concept mapping show significantly greater pretest-to-posttest achievement gains than students taught an alternative learning strategy](concept-mapping-greater-achievement-gains-esl.md) — related
+- [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
+- [ESL students taught concept mapping show significantly greater gains in self-efficacy for learning from text than students taught an alternative learning strategy](concept-mapping-greater-self-efficacy-gains-esl.md) — related

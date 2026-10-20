@@ -83,3 +83,4 @@ The Watts, Duncan, and Quan (2018) replication is an important corrective to the
 - [Children's wait-times on sustained delay-of-gratification tasks reflect beliefs about environmental reliability in addition to self-control capacity](wait-times-reflect-environmental-reliability-beliefs.md) — related
 - [Reward prediction error: achieving less than expected causes a dopamine dip below baseline that discourages future effort, while external reward surges are followed by compensatory dips](dopamine-reward-prediction-error-crash.md) — related
 - [A majority of young children make choices consistent with hyperbolic discounting, preferring immediate over larger delayed rewards](children-hyperbolic-discounting-bettinger-slonim.md)
+- [Actively withholding the hands from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](hands-withholding-predicts-toddler-delay-success.md) — related

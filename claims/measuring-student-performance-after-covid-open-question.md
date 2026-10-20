@@ -48,3 +48,7 @@ The webinar description frames measurement as an unresolved question: “How sho
 - Researchers deployed stopgaps to address missing data caused by COVID disruptions — related
 - [Post-pandemic course grades rose while test scores and attendance fell, raising questions about what grades signal](grades-rose-tests-attendance-fell.md) — related
 - [The visualizations address how students performed in fall 2020 compared to a typical school year](fall-2020-performance-compared-typical-year.md) — related
+- [The visualizations compare observed fall 2020 student achievement to NWEA’s projections](fall-2020-achievement-versus-nwea-projections.md) — related
+- [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
+- [The visualizations address how student growth changed since school buildings closed in March 2020](student-growth-change-since-march-2020-closures.md) — related
+- [The forum addressed modeling of school openings, closings, and learning loss during COVID-19](covid-modeling-openings-closings-learning-loss.md) — related

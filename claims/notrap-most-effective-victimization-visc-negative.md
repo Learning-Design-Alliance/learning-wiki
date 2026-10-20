@@ -70,3 +70,6 @@ Program-specific results (Table 4): ViSC (n = 5) OR = 0.95 for both outcomes; th
 - [School-based anti-bullying programs reduce bullying perpetration and victimization globally](anti-bullying-programs-reduce-perpetration-and-victimization-globally.md) — a broader claim this one bears on
 - [Work with peers in anti-bullying programs is associated with an increase in victimization](peer-work-associated-with-increased-victimization.md) — related
 - [The Olweus Bullying Prevention Program produced the largest effect sizes for bullying perpetration, with effectiveness varying between Norway and USA evaluations](obpp-most-effective-for-perpetration.md) — related
+- [School-based anti-bullying programs decrease victimization by 17-20% on average](anti-bullying-programs-reduce-victimization-17-20-percent.md) — a broader claim this one bears on
+- [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](anti-bullying-programs-reduce-bullying-20-23-percent.md) — a broader claim this one bears on
+- [Regional differences in program effectiveness: North America led for perpetration, Scandinavia for victimization, with no clear overall pattern](anti-bullying-effectiveness-varies-by-region.md) — related

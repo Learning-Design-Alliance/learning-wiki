@@ -47,3 +47,4 @@ Welch t-test comparing mean percent-correct in the 225 children-adolescents (mea
 - [The ability to identify basic emotions from non-linguistic vocal bursts improves significantly with age from 5 to 17 years](vocal-emotion-recognition-improves-age-5-17.md) — a broader claim this one bears on
 - [Female children and adolescents recognize vocal emotions more accurately than males, with no interaction between sex and age](female-advantage-vocal-emotion-recognition-stable.md) — related
 - [Testing procedure (individual computer with headphones vs small-group loudspeaker with paper response) does not affect vocal emotion recognition performance or the developmental trajectory](testing-procedure-no-effect-vocal-emotion.md) — related
+- [Happiness is the easiest vocal emotion to recognize and anger the hardest, with anger and fear showing the greatest age-related improvement](emotion-specific-vocal-recognition-differences.md) — related

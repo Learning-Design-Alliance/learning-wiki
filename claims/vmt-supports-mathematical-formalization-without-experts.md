@@ -45,3 +45,5 @@ Editorial report of Diler Oner's case study of three students collaboratively so
 ## Related Claims
 - [Persistence of inscriptions in the VMT environment supported students explaining postings and establishing collaborative activity](persistence-affordance-supports-collaborative-explanation.md) — related
 - [SAGLET's real-time learning analytics provided alerts that enabled the teacher to monitor groups and give appropriate feedback](saglet-alerts-teacher-monitoring-feedback.md) — related
+- [Embedding computational thinking in a sixth-grade mathematics classroom significantly increased students' understanding of mathematical processes versus control](ct-embedded-sixth-grade-math-increased-understanding.md) — related
+- [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](adaptive-expert-teacher-closes-gaps-real-time-labs.md) — related

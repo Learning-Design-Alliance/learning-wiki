@@ -47,3 +47,6 @@ Observation-based finding from the four-school case study: teachers look at evid
 - Equity as a core value is the first distinguishing finding that drives personalization of student learning in these schools — a broader claim this one bears on
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](intensive-professional-development-stronger-epportfolio-outcomes.md) — related
 - [Strong personalized student supports tend to accompany strong freshman course performance but may not be essential](student-supports-tend-accompany-strong-performance.md) — related
+- [Teachers see high workload, habits, low-quality data and skills, and predisposition as the main constraints on data-informed analysis, and none regularly collect teaching data](teacher-data-use-obstacles-workload-habits-skills.md) — related
+- [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related
+- [Three-year formative assessment training improved teachers' eliciting and interpreting skills, leading to better student learning](formative-assessment-training-improves-information-on-results.md) — related

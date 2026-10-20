@@ -45,3 +45,4 @@ Authors' interpretive conclusion (type e) from the overall conclusions section, 
 ## Related Claims
 - [Adding collateral information has little effect on ability and item parameter estimates but more effect on speed parameter estimates](ci-effects-small-on-ability-item-larger-on-speed.md) — related
 - [Joint IRT models including collateral information (raw score, gender, ethnicity) fit better than item-only base models for both tests](collateral-information-improves-joint-model-fit.md) — related
+- [Higher starting scores in vocabulary predicted greater gains in matrix reasoning and vice versa (bidirectional positive coupling)](bidirectional-coupling-vocabulary-reasoning-gains.md) — related

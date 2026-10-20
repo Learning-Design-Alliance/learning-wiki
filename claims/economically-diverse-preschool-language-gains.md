@@ -47,3 +47,4 @@ The report describes a small study comparing language growth of 3- to 6-year-old
 
 ## Related Claims
 - [Children's language and math outcomes improve as average classroom income and socioeconomic diversity increase](classroom-income-composition-language-math.md) — related
+- [The ECE system is socioeconomically segregated because means-tested programs sort children by family income](ece-socioeconomic-segregation-means-testing.md) — related

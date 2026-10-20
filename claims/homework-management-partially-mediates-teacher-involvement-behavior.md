@@ -46,3 +46,11 @@ Full mediation SEM model (CFI = 0.946, RMSEA = 0.075, SRMR = 0.051) with 525 stu
 - [The homework management–homework behavior link is stronger for girls than for boys](homework-management-behavior-link-stronger-girls.md) — related
 - [Students who use homework management skills at a high level are more likely to complete their homework](homework-management-predicts-completion.md) — related
 - [Teacher homework involvement positively predicts students' use of homework management strategies in secondary school students](teacher-involvement-predicts-homework-management.md) — related
+- [The number of substantive comments during discussion mediated the effect of preparatory condition on immediate learning, but not on long-term learning](substantive-comments-mediate-immediate-learning.md) — related
+- [Core self-evaluations partially mediate the relationship between career adapt-abilities and AI anxiety](core-self-evaluations-partially-mediate-adaptabilities-ai-anxiety.md) — related
+- [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](serial-mediation-literacy-trust-efficacy-use.md) — related
+- [Perceived employability partially mediates the relationship between AI employment threat perception and career decision-making anxiety](employability-partially-mediates-ai-threat-anxiety.md) — related
+- [The direct association between GenAI literacy and GenAI-assisted self-regulated learning behaviors remains significant after accounting for the mediators, indicating partial mediation](partial-mediation-direct-effect-genai-literacy-srlb.md) — related
+- [Teamwork predicts critical thinking directly and via work skills (Ind1: Twork→WSk→CThink, β=.053, 95% CI .0312-.0717)](teamwork-via-work-skills-indirect-effect.md) — related
+- [Learning agency mediates the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](learning-agency-mediation-genai-literacy-srlb.md) — related
+- [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related

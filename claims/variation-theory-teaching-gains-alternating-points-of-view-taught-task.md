@@ -45,3 +45,4 @@ Two-group (treatment n = 39, control n = 53) × 2 time mixed-design ANOVA on the
 ## Related Claims
 
 - [Variation-theory-based teaching significantly improves students' alternation of points of view on novel, untaught societal issues (transfer), with smaller effects than on the taught task](variation-theory-transfer-novel-issues.md)
+- [Randomization check found no significant pre-intervention differences between treatment and control groups on pre-test or 8th-grade merit rating](randomization-check-no-pre-differences-variation-study.md) — related

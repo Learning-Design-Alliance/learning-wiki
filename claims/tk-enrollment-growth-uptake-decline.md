@@ -52,3 +52,4 @@ Descriptive analysis of state enrollment data shown in Figure 1. The report note
 - [Transitional kindergarten enrollment in California doubled from about 75,465 in 2021–22 to 151,491 in 2023–24 as eligibility expanded toward all 4-year-olds](california-tk-enrollment-doubled-2021-22-to-2023-24.md) — related
 - [The proportion of eligible 4-year-olds enrolled in TK declined from 64% in 2021–22 to 59% in 2023–24 because eligibility grew faster than enrollment](tk-uptake-rate-declined-as-eligibility-expanded.md) — possibly the same claim (merge candidate)
 - [County differences in TK uptake and population size translate into varying hiring needs, with the five largest counties accounting for over half of increased demand](county-variation-tk-hiring-demand.md) — related
+- [TK enrollment in California is projected to reach between 291,000 and 358,000 children by 2025–26 under three modeled uptake scenarios](tk-enrollment-291k-358k-by-2025-26.md) — related

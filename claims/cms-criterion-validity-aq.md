@@ -43,3 +43,6 @@ Pearson correlations between CMS scores and AQ-J-50 scores were computed in the 
 
 ## Related Claims
 - [CMS metacognition correlates with BCIS self-reflectiveness and CMS self-judgment accuracy correlates with BCIS self-certainty](cms-criterion-validity-bcis.md) — related
+- [Metacognitive ability improves across adolescence, with a logarithmic age trajectory](cms-age-effect-metacognition.md) — related
+- [Child-parent communication frequency is not associated with CMS scores](cms-communication-null.md) — related
+- [Adolescents showed significantly lower metacognitive ability compared to young adults](cms-adolescents-lower-metacognition.md) — related

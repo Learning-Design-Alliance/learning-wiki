@@ -47,3 +47,4 @@ The brief's fourth takeaway states that "no school is totally \"low-risk\" from 
 - [A day of school missed after a severe weather event can translate to more than a day of learning lost](weather-missed-day-more-than-day-learning-lost.md) — related
 - [Many U.S. schools face major budget and infrastructure challenges related to severe weather](schools-face-budget-infrastructure-challenges-severe-weather.md) — related
 - [In schools attending fully in person, temporary closures in response to known cases are far less effective than hybrid operation from the start and increase schedule disruption](temporary-closures-less-effective-than-hybrid-model.md) — related
+- [Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss](missing-school-research-informs-covid-learning-loss-projections.md) — related

@@ -45,3 +45,4 @@ Descriptive contrast from the Stage 3 results of the 17-model evaluation. The ar
 ## Related Claims
 - [The strategic surface learner is the lowest-scoring Stage 2 profile for 15 of 17 models, averaging 0.702 versus 0.757 across the other profiles](strategic-surface-learner-lowest-stage2-profile.md) — related
 - [Across 17 frontier models, Stage 1 pedagogical-judgment scores are high (mean 0.893) while rank correlations with Stage 2 (ρ=0.24) and Stage 3 (ρ=0.21) are weak, with workflow scores topping out at 0.704](teacharena-stage-rank-reshuffling.md) — related
+- [Claude Opus 4.8 has the highest overall score (0.803) and is the only model ranking in the top three on all three stages, yet does not saturate situated tutoring (0.773) or workflows (0.704)](claude-opus-48-highest-overall-unsaturated.md) — related

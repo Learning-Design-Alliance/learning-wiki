@@ -45,3 +45,7 @@ Rural subsample quartile analysis of the quasi-experimental study (1,423 rural s
 ## Related Claims
 - [Achievement-quartile analysis shows the intervention was most effective for students in the 2nd quartile (25th–50th percentiles) of baseline achievement](assistments-quartile-q2-most-effective.md) — a broader claim this one bears on
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — a broader claim this one bears on
+- [Rural students overall did not show a significant effect, but low-performing rural students did](vplc-assistments-rural-subgroup-effects.md) — a broader claim this one bears on
+- [Across the full sample, students receiving the ASSISTments intervention performed comparably to their virtual comparison peers on end-of-year MAP Growth](assistments-full-sample-no-significant-effect.md) — related
+- [Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments](vplc-assistments-low-performing-significant-gain.md) — related
+- [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — related

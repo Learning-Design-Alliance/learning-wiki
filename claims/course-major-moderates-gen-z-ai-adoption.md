@@ -47,3 +47,4 @@ Multigroup analysis across course major clusters (162 non-engineering, 187 engin
 - [Self-efficacy, perceived trust and performance expectancy influence Gen Z students' behavioural intention to adopt AI](se-pt-pe-predict-bi-gen-z-ai.md) — related
 - [Social influence plays a diminishing role in Gen Z students' AI adoption intention](si-diminishing-role-gen-z-ai-adoption.md) — related
 - [Gender does not moderate AI adoption among Gen Z university students](gender-no-impact-gen-z-ai-adoption.md) — related
+- [Gen Z students report high agreement on AI adoption constructs, with performance expectancy highest and social influence lowest](high-means-pe-highest-si-lowest.md) — related

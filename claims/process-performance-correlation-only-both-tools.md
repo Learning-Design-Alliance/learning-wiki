@@ -65,3 +65,8 @@ In the no-gaze/no-agent condition the regression did not reach significance; the
 
 ## Related Claims
 - [Gaze feedback and PCA suggestions show no interaction effect on the collaborative process ratings](no-gaze-pca-interaction-on-process.md) — related
+- [Gaze feedback and PCA suggestions interact on proportional learning gains, with synergy favoring the visible-gaze/visible-agent condition](gaze-pca-interaction-on-learning-gains.md) — related
+- [PCA metacognitive suggestions improve consensus reaching, task division and reciprocal interaction during collaboration](pca-suggestions-improve-consensus-and-task-division.md) — related
+- [In a 2x2 experiment on jigsaw dyads, the implicit gaze awareness tool affected dialogue processes much more than the explicit pedagogical conversational agent, which compensated when gaze awareness was absent](gaze-awareness-tool-more-effective-than-explicit-agent-jigsaw-dyads.md) — related
+- [Consensus reaching and task division together predict learning gains across conditions](process-codes-predict-learning-gains.md) — related
+- [Visible real-time gaze feedback improves collaborative-process coordination, especially information pooling, in dyadic knowledge integration tasks](gaze-feedback-improves-collaborative-process.md) — related

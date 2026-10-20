@@ -44,3 +44,6 @@ Spearman's correlation analysis relating essay quality (coded on eight argumenta
 
 ## Related Claims
 - [Essay quality correlates positively with the affective feature of ChatGPT feedback and negatively with the affective feature of peer feedback](essay-quality-affective-feedback-divergent-correlations.md) — related
+- [ChatGPT feedback quality varied by essay quality: accuracy declined as essay quality rose, prioritization was best for average essays, and supportive tone was lowest for low-quality essays](ai-feedback-quality-varies-by-essay-quality.md) — reports the opposite
+- [ChatGPT produced more descriptive feedback than peers on argumentative essays](chatgpt-more-descriptive-feedback-than-peers.md) — related
+- [In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality](stage1-no-significant-difference-peer-ai-feedback-quality.md) — related

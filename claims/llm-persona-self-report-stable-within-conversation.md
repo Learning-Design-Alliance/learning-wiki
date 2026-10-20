@@ -47,3 +47,4 @@ Linear mixed-effects analysis of Experiment II multi-turn conversations (educati
 - [Between-conversation persona stability is intensity-dependent: high-intensity ADHD personas cluster tightly while moderate-intensity personas show the highest aggregate variability](intensity-dependent-between-conversation-stability.md) — related
 - [Observer-rated behavioral expression of high- and moderate-intensity ADHD personas declines progressively across turns in unscripted LLM conversations](observer-rated-persona-drift-unscripted-conversations.md) — related
 - [Model family and prompt format moderate the level of simulated ADHD persona expression](model-and-prompt-moderate-persona-expression.md) — related
+- [Scripted conversations with recurring task-relevant prompts nearly eliminate observer-rated persona drift, up to a 97% reduction for high-intensity education personas](scripted-interaction-eliminates-observer-drift.md) — related

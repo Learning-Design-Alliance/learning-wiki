@@ -43,4 +43,8 @@ Follow-up univariate tests in Study 2's text comprehension MANOVA found "neither
 
 
 ## Related Claims
--
+- [Metacognitive monitoring deficits are unlikely to be the primary source of academic performance differences between native and non-native speaking students](monitoring-not-primary-source-of-performance-differences.md) — a broader claim this one bears on
+- [Native speaking fourth graders answered more open-ended text comprehension questions correctly than non-native speakers (Study 2)](native-speakers-outperform-text-comprehension.md) — related
+- [Language competencies correlate with text comprehension performance in both groups, but with monitoring resolution only in non-native speakers](language-competency-correlations-task-and-group-specific.md) — related
+- [Native and non-native speaking fourth graders do not differ in recognition or metacognitive monitoring resolution in a paired-associates task (Study 1)](study1-no-group-differences-paired-associates-monitoring.md) — related
+- [Study 2 replicates the absence of group differences in recognition and monitoring resolution in the paired-associates task](study2-replication-paired-associates-null.md) — related

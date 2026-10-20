@@ -49,3 +49,4 @@ Exploratory quasi-experimental analyses using a regression discontinuity design 
 - [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](rd-individual-estimates-substantial-bias-variation.md) — related
 - Clustered regression discontinuity designs typically require three to four times larger samples than clustered experimental designs to produce impact estimates with the same level of statistical precision in education evaluations — related
 - Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment — related
+- [Threat-induced math improvements from attending a threatened elementary school persist at least through the first one to two years of middle school](sanction-threat-math-gains-persist-middle-school.md) — related

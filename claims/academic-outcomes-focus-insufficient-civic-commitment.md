@@ -52,3 +52,4 @@ In the longitudinal Chicago survey analysis, measures of general school experien
 - [Student demographics were not significantly related to civic commitment among Chicago public high school students](demographics-not-destiny-civic-commitment.md) — related
 - [Extracurricular activities provide only modest support for civic commitment, and sports participation is unrelated to it](extracurriculars-modest-sports-unrelated-civic-commitment.md) — related
 - [Service learning and in-class civic learning opportunities are more strongly associated with high school students' later commitment to civic participation than the other school, family and community factors studied](service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment.md) — related
+- [Traditional student participation mechanisms in Spain have been shown to be inefficient for promoting civic commitment](traditional-student-participation-inefficient-spain.md) — related

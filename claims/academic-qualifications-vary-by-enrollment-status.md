@@ -91,3 +91,4 @@ Chapter 3 descriptive analysis of CPS 2015 graduates' pre-college academic profi
 - [CPS graduates took more than 6,000 distinct post-secondary paths, so continuous enrollment at one college was not the standard route to a credential](cps-graduates-6000-college-paths.md) — related
 - College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling — related
 - [Students who commit to a program of study within their first year are more likely to complete a credential or transfer within five years](early-program-entry-linked-to-completion.md) — related
+- [Ten percent of CPS graduates who did not enroll in college within six years had an average high school GPA above 3.0, a missed opportunity for high-achieving students](high-gpa-non-enrollers-missed-opportunity.md) — related

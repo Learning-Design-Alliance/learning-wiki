@@ -46,3 +46,5 @@ Quantitative analysis of district survey and administrative data reports that av
 ## Related Claims
 - Teacher technology use and school culture explain an additional 18 percent of school-by-school differences in high school student technology use — related
 - [School-related factors influence teachers' digital data use only indirectly, mediated by teacher will-skill-tool characteristics, in a model explaining 50% of variance](school-factors-mediated-by-teacher-characteristics.md) — related
+- [Most U.S. schools report teachers are not sufficiently trained to use technology, and half of teachers cite lack of training as a major obstacle](teacher-technology-training-gap.md) — related
+- [Teachers' Grow use is strongly influenced by technology professional development, their own use of technology, and principal support for Grow](tech-pd-own-use-influence-grow.md) — related

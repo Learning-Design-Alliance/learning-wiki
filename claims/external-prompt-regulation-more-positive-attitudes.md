@@ -69,3 +69,5 @@ A univariate ANOVA on the hint-helpfulness item in the same attitude data showed
 - [Self-regulated vs. externally regulated prompt presentation shows no significant effect on posttest performance and no interaction with prompt format](prompt-presentation-no-performance-effect.md) — related
 - [Textual instructional prompts yield significantly higher near-transfer posttest performance than pictorial prompts for novice circuit-analysis learners](textual-prompts-better-near-transfer-than-pictorial.md) — related
 - [Draft usefulness varies by grading context: higher for submissions with mistakes and applied questions](draft-usefulness-varies-by-grading-context.md) — related
+- [Active processing of instructional explanation prompts increase coverage of main content items](active-processing-prompts-increase-main-content-coverage.md) — related
+- [Textual prompts produce higher first-attempt practice accuracy, while pictorial prompts produce higher second-attempt accuracy](prompt-format-first-second-attempt-accuracy.md) — related

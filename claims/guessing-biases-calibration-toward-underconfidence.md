@@ -45,3 +45,6 @@ Analytical argument in the simulation study's discussion section: because guesse
 ## Related Claims
 - [In simulations, resolution metrics become strongly positively related to knowledge once guessing is possible, even when true resolution is constant](simulation-guessing-biases-resolution-metrics.md) — related
 - [Lowest-confidence-trial accuracy in the mathematics data was at or above the guessing rate, supporting the guessing hypothesis](lowest-confidence-accuracy-at-guessing-rate.md) — related
+- [Observed performance-resolution slopes in the mathematics data were not greater than those produced by guessing in simulation](observed-slopes-not-greater-than-simulated.md) — related
+- [Higher-achieving students tend to be more accurate but more underconfident in calibration than lower-achieving students](higher-achievers-more-accurate-underconfident-calibration.md) — related
+- [Learners generally underestimate how fast they will learn word pairs, and this underconfidence is larger for low-variability lists](eol-underestimation-of-learnability.md) — related

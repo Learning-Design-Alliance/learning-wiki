@@ -48,3 +48,6 @@ Postsecondary outcomes analysis of KIPP alumni; the report states "no detectable
 - [KIPP Atlanta middle schools substantially improve student proficiency on Georgia statewide assessments](kipp-atlanta-middle-schools-improve-proficiency.md) — related
 - [KIPP Atlanta middle school impacts on proficiency generally increase across grade levels](kipp-atlanta-impacts-increase-across-grades.md) — related
 - [Average KIPP middle school impacts were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-positive-throughout-higher-earlier-years.md) — related
+- [Attending both a KIPP middle school and a KIPP high school had large positive impacts on college enrollment and persistence](kipp-middle-plus-high-large-enrollment-persistence-impacts.md) — related
+- [The authors interpret the combined middle-and-high-school college gains as possibly driven by college preparatory culture and college-related supports at KIPP high schools](kipp-college-culture-supports-interpretation.md) — related
+- [KIPP middle and high schools had a large, statistically significant combined effect on college graduation rates](kipp-combined-significant-college-graduation-effect.md) — related

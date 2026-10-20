@@ -64,3 +64,7 @@ Same 600-episode, 10-seed sweep experiment, discount factor arm. The article rep
 ## Related Claims
 - OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT — related
 - [The tool's Q-learning matches a value-iteration ground truth in 98.5% of non-terminal states on average](q-learning-matches-value-iteration-ground-truth.md) — related
+- [Editing the pit reward produces two behaviorally identical but diagnostically opposite failure modes, separated by a threshold at 7.774](reward-editing-two-failure-modes-q-learning.md) — related
+- [ProPRL is sensitive to learning rate but comparatively insensitive to its structural hyperparameters, with propagation depth around 5 capturing most multi-hop benefit](proprl-hyperparameter-sensitivity.md) — related
+- [Iterate averaging with step sizes decreasing slower than O(1/n) converges at an optimal rate](polyak-juditsky-iterate-averaging-optimal-rate.md) — related
+- [Many learning algorithms, including neural network training and Q-learning, have recursive forms of the stochastic approximation type](learning-algorithms-stochastic-approximation-recursive-forms.md) — related

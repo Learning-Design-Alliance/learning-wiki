@@ -50,3 +50,5 @@ Intra-pathway analysis using independent t-tests with Welch's correction compare
 - [Secondary students report near-maximum confidence in passive digital tasks but sharply lower confidence in active creation and algorithmic logic](confidence-competence-divide-passive-vs-active-creation.md) — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — a broader claim this one bears on
 - [Technology-pathway students report higher active-creation self-efficacy than Arts and Humanities students (p < 0.001)](pathway-difference-active-creation-confidence.md) — related
+- [New Mexico CTE enrollment shows breadth over depth and demographic underrepresentation, with females only 19% of STEM CTE enrollment versus 49% of the total population](new-mexico-cte-enrollment-breadth-and-equity-gaps.md) — related
+- [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related

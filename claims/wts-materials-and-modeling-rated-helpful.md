@@ -64,3 +64,6 @@ Winter and spring interviews with purposively selected teachers and coaches prod
 ## Related Claims
 - [Teachers with a local coach completed far more of the intended Write to Succeed professional learning activities than teachers without one](wts-local-coach-higher-activity-completion.md) — related
 - [Most pilot teachers used the Write to Succeed practices and found them easy to use and helpful for students, with ease of use increasing across semesters](wts-practices-used-and-rated-helpful.md) — related
+- [Teacher confidence in teaching literacy and English learner students increased over the pilot year, especially with a local coach](wts-teacher-confidence-increased-over-year.md) — related
+- [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
+- [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](monthly-coaching-helped-teachers-integrate-mi-write.md) — related

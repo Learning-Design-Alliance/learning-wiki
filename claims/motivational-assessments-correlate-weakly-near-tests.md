@@ -48,3 +48,4 @@ Pearson correlations between pooled motivational assessments and test/exam resul
 - [Multimedia introductory activities are rated as more interesting and instructive than fun, while traditional activities are rated similarly on all three features](multimedia-activities-less-fun-than-instructive.md) — related
 - [Multimedia motivational introductory messages produce better immediate knowledge-test outcomes than traditional teaching aids in elementary Nature and Society lessons](multimedia-introductory-message-better-immediate-tests.md) — related
 - [Exam grades correlate positively with designing competition and near-zero with designing fun in the Study 1 correlation table](designing-competition-exam-grades.md) — related
+- [The learning advantage of multimedia introductory messages is partially visible on global exams and not durable across the study](multimedia-introductory-message-exam-effect-partial.md) — related

@@ -43,4 +43,9 @@ Lehmann, Goussious, and Seufert had participants read a passage in fluent or dis
 
 
 ## Related Claims
--
+- [All 13 special-issue studies failed to show overall better performance due to disfluency](thirteen-studies-null-disfluency-performance.md) — related
+- [Working memory capacity predicts comprehension performance only in the disfluency condition, with higher WMC yielding better comprehension](wmc-predicts-comprehension-only-disfluency-condition.md) — a narrower finding that bears on this claim
+- [Working memory capacity predicts retention performance only in the disfluency condition, with higher WMC yielding better retention](wmc-predicts-retention-only-disfluency-condition.md) — a narrower finding that bears on this claim
+- [Working memory capacity moderated disfluency effects in one study but not another](wmc-moderates-disfluency-mixed.md) — a broader claim this one bears on
+- [In a pre-registered direct replication (N = 96), the disfluency × WMC interaction did not significantly predict retention, failing to replicate Lehmann et al. (2016)](replication-null-wmc-disfluency-interaction-retention.md) — reports the opposite
+- [The primary study (Lehmann et al., 2016) had only about 45% power to detect its observed interaction effect; roughly 150 participants would be needed for 80% power](primary-study-underpowered-interaction-45-percent.md) — related

@@ -47,3 +47,4 @@ The article cites the 2012 Canadian Internet Use Survey (Statistics Canada, 2013
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [Digital policies imagine a \"model user\" whose experience contrasts sharply with the actualities of adults on the margins of access](model-user-policy-imaginary.md) — related
 - [Low-income households make significant sacrifices to maintain Internet access, which can account for almost 8% of monthly household expenses](low-income-households-sacrifice-internet.md) — related
+- [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related

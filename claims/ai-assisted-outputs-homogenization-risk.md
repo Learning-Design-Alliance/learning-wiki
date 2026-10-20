@@ -52,3 +52,8 @@ The article reports, citing Doshi and Hauser, that generative AI assistance "sig
 - [LLM access boosts individual story creativity while significantly homogenising output across writers (review attribution)](llm-access-homogenises-creative-output.md) — possibly the same claim (merge candidate)
 - AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding) — possibly the same claim (merge candidate)
 - GenAI-enabled stories are more similar to the GenAI ideas and to other stories in their condition, reducing collective diversity of novel content — a narrower finding that bears on this claim
+- [GenAI use in creative contexts tends toward regression to the mean: less skilled users improve while higher skilled users decline](genai-creativity-regression-to-the-mean.md) — related
+- [GNN training homogenizes concept representations, with 62.7% of prerequisite pairs becoming increasingly similar during DGCPL training](gnn-training-homogenizes-concept-representations.md) — a narrower finding that bears on this claim
+- [Single-LLM writing assistance increased idea-level homogenization across writers, while a role-specialized duo of architecturally distinct LLMs preserved baseline diversity](role-specialized-duo-preserves-idea-diversity.md) — a narrower finding that bears on this claim
+- [Groups outperform individuals when devising creative solutions to real-world complex problems](groups-outperform-individuals-complex-problem-creativity.md) — related
+- [Students perceive GenAI-assisted translation as challenged by inadequate outputs, limited prompt engineering, and risks to creativity and employment](genai-translation-challenges-adequacy-prompting.md) — related

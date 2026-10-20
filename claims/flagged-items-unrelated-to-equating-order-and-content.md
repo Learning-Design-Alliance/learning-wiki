@@ -45,3 +45,4 @@ Secondary analysis in the Results section examining whether flagged-item counts 
 ## Related Claims
 - [Flagged items showed no clear pattern by original difficulty, spreading across the entire scale like unflagged items](flagged-items-no-difficulty-pattern.md) — related
 - [Item parameter differences between chain and simultaneous equating were small (at most 12 items, 7%, flagged by RMSD), while comparisons involving concurrent calibration flagged up to 11% of items](rmsd-fewer-flagged-items-ch-vs-sm-than-cr.md) — related
+- [Summed scoring and IRT pattern scoring produce very similar scale score means and failing rates within any equating procedure](scoring-methods-similar-scale-scores-irt-bank.md) — related

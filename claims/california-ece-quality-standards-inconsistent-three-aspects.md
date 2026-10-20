@@ -46,3 +46,5 @@ Descriptive comparison of program standards in the Program Standards subsection 
 - [California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children](california-ece-uneven-quality-standards.md) — a broader claim this one bears on
 - [Low compensation and inconsistent qualification requirements undermine recruitment and retention of California's ECE workforce](california-ece-workforce-low-compensation-turnover.md) — related
 - Per-child reimbursement rates vary by program in California, with regional rates differing up to 50% despite programs serving similar children — related
+- [Quality standards vary across federal ECE programs, with CCDBG and Head Start minimum standards differing significantly](ccdbg-head-start-quality-standard-differences.md) — related
+- [U.S. ECE governance is fragmented across multiple federal and state agencies, creating an incoherent patchwork of programs](ece-governance-fragmented-multi-agency.md) — related

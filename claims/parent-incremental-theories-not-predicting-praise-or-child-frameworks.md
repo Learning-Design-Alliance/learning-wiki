@@ -46,3 +46,5 @@ Analysis of the 46 dyads with parent implicit-theory questionnaire data (8-item 
 - [Parents' naturalistic process praise at child ages 14-38 months predicts children's incremental motivational frameworks at age 7-8](process-praise-toddlerhood-predicts-incremental-frameworks.md) — related
 - [Parents' person praise at 14-38 months was not associated with children's later entity frameworks](person-praise-toddlerhood-null-relation.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
+- [Parents' praise styles were stable across child ages 14-38 months, with person praise declining and other praise increasing](praise-style-stability-toddlerhood.md) — related
+- [Parents' beliefs about failure and reactions to children's failures, not their own mindsets, predict children's mindsets](parent-failure-reactions-predict-child-mindsets.md) — related

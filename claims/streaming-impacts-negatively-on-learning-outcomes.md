@@ -61,3 +61,9 @@ A conceptual article that develops a differentiated-instruction practice framewo
 
 ## Related Claims
 - [A practice-framework article reports, citing Boaler and Staples (2008), that students in heterogeneous mathematics classrooms learn more, enjoy mathematics more and reach higher understanding than in streamed settings](heterogeneous-mathematics-classrooms-benefit-students.md) — a narrower finding that bears on this claim
+- [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — a narrower finding that bears on this claim
+- [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
+- [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related
+- [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — related
+- [In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra](above-norm-score-gains-peer-ability-spillover.md) — related
+- [Streaming restructured musician economics before generative AI, with per-stream payouts of fractions of a cent](streaming-devaluation-predates-generative-ai.md) — related

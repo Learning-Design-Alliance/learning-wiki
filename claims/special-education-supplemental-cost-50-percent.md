@@ -48,3 +48,4 @@ Estimates from the study's education cost function model of California statewide
 - [Educating a student with disabilities costs approximately twice as much, on average, as educating a student without a disability](special-education-cost-twice-average.md) — related
 - [Cost function analysis indicates substantially higher spending is needed for equal opportunity: weights of 2.49 for first-generation and 2.63 for students older than 24](cost-function-weights-need-factors.md) — related
 - [Additional special education costs vary substantially by primary disability category](disability-category-cost-variation.md) — related
+- [Students with disabilities in grades K-4 grow as much or more academically during some school years than peers without disabilities](swd-school-year-growth-matches-or-exceeds-peers.md) — related

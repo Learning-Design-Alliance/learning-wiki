@@ -45,3 +45,4 @@ Finding reported in the Executive Summary of the report, based on analyses of th
 ## Related Claims
 - [Coherence is theorized to assist teacher effectiveness through coordinated professional development and collaborative work on clear goals](coherence-theory-teacher-effectiveness.md) — a broader claim this one bears on
 - [Higher quality professional development in 1997 predicts increases in school orientation toward innovation from 1997 to 1999](pd-quality-predicts-innovation-growth.md) — related
+- [Time for teacher learning and collaboration is scarce and fragmented under the standard CPS contract, limiting reform and professional community](teacher-collaboration-time-scarce-contract.md) — related

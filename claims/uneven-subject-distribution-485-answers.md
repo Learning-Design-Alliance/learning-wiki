@@ -45,3 +45,5 @@ Descriptive subject-distribution reporting from the Limitations section, derived
 ## Related Claims
 - [A full answer-level audit confirmed 485 unique identifiers and validated that every stored total equals the sum of its criterion marks](score-validation-audit-485-records.md) — related
 - Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics — related
+- [Engagement modes were unevenly distributed across units, with some units rated Interactive and others entirely Passive](uneven-icap-mode-distribution-across-units.md) — related
+- [The dataset's 12 question templates contain 47 criteria, with question maxima ranging from 5 to 16 marks](twelve-templates-47-criteria.md) — related

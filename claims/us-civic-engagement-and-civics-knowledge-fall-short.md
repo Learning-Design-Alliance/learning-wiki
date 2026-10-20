@@ -48,3 +48,6 @@ Background statistics cited in the article's introduction: adult voter turnout o
 - [There is a 98 percent probability that enrolling in Democracy Prep produced positive impacts on both voter registration and voting](democracy-prep-98-percent-probability-positive-civic-impacts.md) — related
 - [Civic-education-focused schooling can boost civic participation in adulthood](civic-focused-education-boosts-adult-participation.md) — related
 - [Democracy Prep charter schools increase students' voter-registration rates by about 16 percentage points](democracy-prep-increases-voter-registration-16-points.md) — related
+- [An open classroom climate fosters adolescents' intention to be an informed voter](open-classroom-climate-fosters-informed-voter-intention.md) — related
+- [An open classroom climate has a positive impact on adolescents' civic knowledge and appreciation of political conflict, controlling for individual, classroom, school, and district characteristics](open-classroom-climate-boosts-civic-knowledge-conflict-appreciation.md) — related
+- [An open classroom climate at school can partially compensate for the disadvantages of young people with low socioeconomic status](open-classroom-climate-compensates-low-ses.md) — related

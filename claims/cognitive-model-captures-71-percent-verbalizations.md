@@ -44,3 +44,6 @@ Verbal protocol analysis of three think-aloud subjects, with categories defined 
 
 ## Related Claims
 - [Rule Space successfully classified most examinees in architecture, with solve attributes the most powerful and check attributes the least powerful](rule-space-classifies-architecture-examinees-solve-strongest.md) — related
+- [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](faded-steps-hypothesized-trigger-self-explanations.md) — related
+- [The most prevalent verbalization type was labeling text parts as important without stating any reason for selection](labeling-text-parts-most-prevalent-verbalization.md) — related
+- [The think-aloud measure predicts word problem solving performance, explaining 33 percent of variance](think-aloud-measure-predicts-problem-solving.md) — related

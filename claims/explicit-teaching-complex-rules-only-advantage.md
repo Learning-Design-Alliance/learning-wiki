@@ -86,3 +86,5 @@ Spada and Tomita (2010), a meta-analysis of 41 studies, found larger effects for
 - [Attention to form via structural analysis or via highlighting structures in context promotes interlanguage grammar acquisition, but only highlighting in context comes with comprehension of input](attention-to-form-rule-vs-highlighting-comprehension.md) — a narrower finding that bears on this claim
 - [All student groups preferred deductive over inductive grammar instruction](efl-students-prefer-deductive-over-inductive-grammar-instruction.md) — related
 - [No differential effect of explicit instruction depending on the variable morphology/syntax](no-differential-explicit-instruction-effect-morphology-syntax.md) — reports the opposite
+- [The usefulness of induction and errorful learning varies with the type of terminal task being taught](task-type-moderates-induction-error-usefulness.md) — related
+- [FFI involving extensive instruction directed at simple structures was more likely to succeed in developing implicit knowledge](extensive-ffi-simple-structures-more-likely-to-succeed.md) — related

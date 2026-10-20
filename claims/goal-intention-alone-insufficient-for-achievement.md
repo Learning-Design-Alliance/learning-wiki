@@ -46,3 +46,6 @@ The article's framing premise, stated in the abstract: "Holding a strong goal in
 - [Goal setting improves performance](goal-setting-improves-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Implementation intentions promote initiation of goal striving, shielding of ongoing pursuit, disengagement from failing courses of action, and conservation of capability](implementation-intentions-four-self-regulatory-benefits.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [A medium feature's affordance does not guarantee its actual cognitive effects: LOGO instruction designed to enhance conditional reasoning may not do so](affordance-does-not-guarantee-cognitive-effect.md) — a broader claim this one bears on
+- [Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation](four-limits-perfect-ai-execution.md) — a broader claim this one bears on
+- [The guide argues that overfocusing on intervention selection alone risks a 'magic bullet' view because average positive outcomes do not guarantee local success](magic-bullet-risk-selection-without-needs-assessment.md) — a broader claim this one bears on

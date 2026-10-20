@@ -50,3 +50,6 @@ Findings from the one study meeting WWC standards (Philp, 2015), an RCT with com
 - [Summer counseling produces a small but statistically significant positive effect on credit accumulation and persistence (WWC rating: potentially positive effects)](summer-counseling-potentially-positive-persistence.md) — related
 - [In the Linkow et al. (2019) scale-up QED, coaching produced a statistically significant positive effect on second-year college enrollment](linkow-2019-significant-persistence-effect.md) — related
 - [Summer counseling has mixed effects on college access and enrollment for recent high school graduates, with a domain-average improvement index of +5 percentile points](summer-counseling-mixed-effects-college-enrollment.md) — related
+- [FLIGHT shows no discernible effects on general high school academic achievement (GPA)](flight-no-discernible-effect-high-school-gpa.md) — related
+- [Information barriers disadvantage low-income students in the college transition: bright low-income students miss selective colleges, and mailed information packages raise application and enrollment](college-information-barriers-low-income-students.md) — related
+- [ASAP likely increases credit accumulation and persistence rates](asap-increases-credit-accumulation-persistence.md) — related

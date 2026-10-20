@@ -46,3 +46,5 @@ Per-assignment engagement comparison of the two tutors (Table 3) using Mann–Wh
 - [MisconceptionTutor's advantage in feedback success (SuccScore) is mixed: substantial on earlier assignments, diminishing or reversing on later ones](succscore-improvement-mixed-across-assignments.md) — related
 - [Engagement-based metrics are more robust predictors of students' perceived feedback helpfulness than pedagogical dimensions](engagement-metrics-predict-perceived-helpfulness.md) — related
 - [Pedagogically desired feedback is engaged with more (higher RelScore), but pedagogical quality shows little relation to whether actions are applied correctly (SuccScore)](pedagogy-drives-relevance-not-correct-application.md) — related
+- [MisconceptionTutor achieves higher pedagogical quality (DAMR) than BaselineTutor on nearly all dimensions, with small-to-moderate effect sizes](misconception-tutor-higher-damr-pedagogical-quality.md) — related
+- [For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers](revealing-answer-undesired-feedback-higher-succscore.md) — related

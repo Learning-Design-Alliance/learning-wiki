@@ -49,3 +49,5 @@ Sentiment polarity analysis using Python's TextBlob library on open-ended respon
 - [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
 - [Sentiment toward GenAI in the course was 86% positive overall, while ethical concerns generated 62% negative sentiment](genai-sentiment-86-positive-62-negative-ethics.md) — related
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — reports the opposite
+- [Teachers who engaged with EducaSim generally viewed it as a positive experience](educasim-positive-teacher-sentiment-254-sessions.md) — related
+- [GPT-generated tutor feedback is predominantly positive or neutral in sentiment](gpt-feedback-predominantly-positive-sentiment.md) — related

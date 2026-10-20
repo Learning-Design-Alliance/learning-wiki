@@ -51,3 +51,6 @@ The presentation's framing argument: because COVID interruptions are unprecedent
 - [Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement](summer-learning-loss-projections-covid-closures.md) — related
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
 - [COVID-19 restrictions inhibited implementation of later activities in the learning sequence](covid-restrictions-later-activities-inhibited.md) — related
+- [No school is totally low-risk from weather-related disruptions](no-school-totally-low-risk-weather-disruptions.md) — related
+- [A day of school missed after a severe weather event can translate to more than a day of learning lost](weather-missed-day-more-than-day-learning-lost.md) — related
+- [Remote learning implemented during the spring 2020 closures achieved effects similar to no teaching at all during summer vacation](covid-remote-learning-comparable-to-summer-loss.md) — related

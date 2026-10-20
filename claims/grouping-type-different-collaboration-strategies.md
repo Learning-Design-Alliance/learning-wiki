@@ -47,3 +47,9 @@ Behavior sequential analysis (GSEQ) of the two heterogeneous groups' RTC logs, w
 
 - [Students in homogeneous prior-knowledge groups made greater learning gains and showed more distributed collaboration than heterogeneous groups](homogeneous-groups-greater-learning-gains-than-heterogeneous.md) — related
 - [Overall CPSE did not differ significantly between individual programming and RTC-based collaborative programming](cpse-similar-individual-and-collaborative-programming.md)
+- [Homogeneous CS-major groups reported higher CPSE in collaborative programming than homogeneous non-CS and heterogeneous groups, with no significant difference between the latter two](cpse-cs-major-groups-higher-collaborative.md) — related
+- [Adult learners using RTC showed a two-way BMO–BCC revision loop, a DEL–DCR interface cycle, and more OI interaction than in individual programming](rtc-behavior-patterns-two-way-loops.md) — related
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — a broader claim this one bears on
+- [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related
+- [In the collaborative MIT App Inventor study, significant interaction patterns signified coordination of behavior between team participants, and no lower self-efficacy emerged for non-CS-background participants](coordination-patterns-app-inventor-collaboration.md) — related
+- [The AMOEBA system's automated collaboration-pairing recommendations led to improved learning and more sophisticated programming by students](amoeba-live-analytics-improved-learning-pairing.md) — related

@@ -70,3 +70,5 @@ Per-lesson ANOVAs with time as factor (post vs. pre) on tutors' pretest-posttest
 - [Among students receiving at least 24 hours of Air Tutors tutoring, no statistically significant long-term effect on statewide math assessments was detected](air-tutors-24-hour-dosage-no-long-term-impact.md) — related
 - The Saga blended technology-enhanced tutoring model significantly improves standardized math scores, math GPA, and reduces math course failures (+0.19) — related
 - [SMART® tutoring produced a statistically significant positive effect on first-graders' word identification after two years of intervention](smart-significant-word-identification-effect.md) — related
+- [The best AI tutors exceeded human mean learning gains in Quantitative domains while human tutoring led pooled AI means in all Verbal domains](best-ai-tutors-lead-quantitative-not-verbal-domains.md) — related
+- [Pooled AI tutoring produces statistically equivalent GRE learning gains to expert human tutoring](pooled-ai-tutoring-equivalent-gre-learning-gains.md) — related

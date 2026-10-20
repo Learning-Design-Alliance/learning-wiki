@@ -77,3 +77,6 @@ Correlational analysis of Qualtrics trace data and task scores. The article repo
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
 - [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — related
 - [Children showing higher metacognition and self-regulation felt the task would be difficult but that they would be able to solve it](higher-metacognition-children-felt-difficult-but-solvable.md) — related
+- [Mathematics performance is positively correlated with metacognitive resolution in multiple-choice testing across six experiments](mc-resolution-performance-positive-correlation.md) — related
+- [Trace-data cognitive learning strategy codes show no correlation with highlighted key words or auxiliary words, while key-word and auxiliary-word highlighting correlate highly](trace-data-highlighting-weak-internal-relations.md) — related
+- [The structural model explains about half the variance in critical thinking and technical problem-solving and about a third in metacognitive self-regulation](sem-variance-explained-outcomes.md) — related

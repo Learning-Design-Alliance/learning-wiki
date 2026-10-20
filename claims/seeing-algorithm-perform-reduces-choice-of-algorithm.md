@@ -47,3 +47,5 @@ Five lab and MTurk experiments in which participants forecast MBA success or sta
 - [People lose confidence more quickly in algorithms than in humans after seeing the same kind of mistakes](faster-confidence-loss-algorithms-than-humans.md) — related
 - [Confidence in the algorithm's forecasts mediates the effect of seeing it perform on choosing it](model-confidence-mediates-algorithm-aversion.md) — related
 - [A belief that the algorithm is less likely to be perfect does not explain experience-driven algorithm aversion](perfection-belief-does-not-explain-aversion.md) — a narrower finding that bears on this claim
+- [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](enriched-data-improve-achievement-prediction.md) — related
+- [Slight control over an algorithm's output reduces algorithm aversion, with process control producing the strongest calibration effects](slight-control-reduces-algorithm-aversion.md) — related

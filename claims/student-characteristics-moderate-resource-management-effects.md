@@ -48,3 +48,4 @@ Moderator analysis of student characteristics across the included studies: "trai
 - [Provision of learning protocols predicts larger SRL training effects for resource management strategies](learning-protocols-moderate-resource-management-effects.md) — related
 - [The pooled effect of self-regulated learning does not differ significantly by strategy type (cognitive, metacognitive, resource management, motivational)](srl-effect-no-strategy-type-difference.md) — related
 - [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](srl-training-effects-by-outcome-category.md) — related
+- [Self-reported SRL strategies vary by individual learner characteristics including demographics, prior experience, and motivations](srl-varies-by-individual-characteristics.md) — related

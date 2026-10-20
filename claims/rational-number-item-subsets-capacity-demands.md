@@ -48,3 +48,4 @@ In Study II with 92 sixth- and seventh-graders, item analysis identified "2 subs
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md) — related
 - [Hippocampal malleability from resource-demand mismatch implies students benefit most from challenges matched to individual capacity](hippocampal-plasticity-mismatch-individual-capacity.md) — related
 - [A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges](shared-resource-storage-processing-wm.md) — a broader claim this one bears on
+- [People can selectively remove no-longer-relevant information from WM, but removal of an arbitrary subset of items is inefficient](wm-removal-efficient-sets-limited-subsets.md) — related

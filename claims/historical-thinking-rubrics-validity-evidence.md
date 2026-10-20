@@ -45,3 +45,5 @@ The report describes its own design process: construct validity evidence from th
 ## Related Claims
 - [Six historical thinking dimensions — historical argumentation, causation, comparison, contextualization, continuity and change over time, and sourcing — were selected as rubric assessment targets based on convergence across U.S. national frameworks and the WHP course guide](six-historical-thinking-dimensions-rubric-targets.md) — a narrower finding that bears on this claim
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
+- [Scorers found all rubric dimensions important, with feedback bearing mainly on the scoring and training process rather than rubric design](scorer-feedback-dimensions-important-process-implications.md) — related
+- [Rubric dimensions were revised in 2023 to sharpen argumentation, contextualization, and Level 1 descriptions](rubric-2023-revisions-argumentation-contextualization.md) — related

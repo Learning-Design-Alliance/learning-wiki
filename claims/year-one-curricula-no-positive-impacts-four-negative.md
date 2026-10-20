@@ -54,3 +54,5 @@ The study's first report, based on 2006-2007 data for the first cohort, compared
 - [A national evaluation design was produced to assess supplemental reading comprehension programs for fifth-grade students](national-evaluation-design-supplemental-reading-comprehension-fifth-grade.md) — related
 - [The A4L Lessons Project had no statistically significant impact on students' OAKS Reading/Literature achievement after one, two, or three years of participation](a4l-no-impact-oaks-reading.md) — related
 - [Grade 5 students showed very small, non-significant CCU differences, indicating no reliable A4L impact at that grade level](a4l-grade5-ccu-no-impact.md) — related
+- [A large randomized trial found no statistically significant effects of Project CRISS® on standardized grade 5 comprehension measures (James-Burdumy et al., 2009)](project-criss-null-effects-grade5-randomized-trial.md) — a narrower finding that bears on this claim
+- [After one year, RSF Cohort 2 students generally performed at the same levels as matched comparison students, with only three statistically significant differences](rsf-cohort2-few-significant-differences-vs-matched-controls.md) — related

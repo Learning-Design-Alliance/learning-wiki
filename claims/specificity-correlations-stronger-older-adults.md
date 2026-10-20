@@ -46,3 +46,4 @@ Exploratory Pearson correlation matrix (Table 2) showed cross-task specificity c
 - [Older adults produce fewer specific responses than younger adults in the generation task across both experiments](aging-fewer-specific-responses-generation.md) — related
 - [Generation and elaboration specificity correlate for autobiographical memory but not for problem solving in both age groups](generation-elaboration-correlation-memory-only.md) — related
 - [Older adults produce fewer internal details than younger adults during elaboration across both experiments](aging-fewer-internal-details-elaboration.md) — related
+- [Older adults produced more non-specific responses than younger adults only in the memory experiment, not in problem solving](age-nonspecific-responses-memory-only.md) — related

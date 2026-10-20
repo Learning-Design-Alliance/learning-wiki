@@ -47,3 +47,5 @@ Observed correlations in Table 1 for N = 3,146 trainees; TSC correlated 0.16 wit
 - [Trait self-control and conscientiousness overlap substantially, and conscientiousness slightly outperforms self-control for grades](tsc-conscientiousness-overlap-and-comparison.md) — related
 - [No significant trait self-control × fluid reasoning interaction effects on grades or standardized test scores](no-tsc-fluid-reasoning-interaction-achievement.md) — related
 - [Fluid reasoning and self-control jointly explain far more variance in standardized test scores than in grades](variance-explained-tests-versus-grades.md) — related
+- [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — a broader claim this one bears on
+- [Post hoc findings question whether all students benefit equally from efforts to foster trait self-control](self-control-fostering-unequal-benefit-questioned.md) — related

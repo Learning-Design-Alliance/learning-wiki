@@ -46,3 +46,5 @@ Multiple linear regression on the 478-student analytic sample with AI dependency
 
 - [Effort regulation negatively predicts, and general academic help seeking positively predicts, reported AI dependency; time management is non-significant](effort-regulation-buffers-help-seeking-predicts-ai-dependency.md)
 - [Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism](self-efficacy-negatively-predicts-ai-dependency.md)
+- [Skill-based AI literacy (using/understanding and detecting AI) is positively associated with reported AI dependency among higher education students](skill-based-ai-literacy-positively-predicts-ai-dependency.md) — related
+- [Predictors operate selectively across AI literacy subdimensions: digital competence fails to predict technical proficiency or communication proficiency, and perceived resources predict only communication proficiency and creative application](determinants-selective-across-ai-literacy-subdimensions.md) — related

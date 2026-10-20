@@ -67,3 +67,4 @@ Same person-parameter analysis across the five nested models per test. The autho
 - [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
 - [Adding collateral information has little effect on ability and item parameter estimates but more effect on speed parameter estimates](ci-effects-small-on-ability-item-larger-on-speed.md) — related
 - [Higher prior proficiency is associated with faster step-level response-time propensities](higher-proficiency-faster-step-responses.md) — possibly the same claim (merge candidate)
+- [Response acceleration is heterogeneous by ability: lower ability estimates are associated with larger increases in acceleration](acceleration-heterogeneous-by-estimated-ability.md) — related

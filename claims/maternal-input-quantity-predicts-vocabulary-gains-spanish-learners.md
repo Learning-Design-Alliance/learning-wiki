@@ -58,3 +58,4 @@ Longitudinal observational analysis of 27 mother–child dyads from primarily lo
 - [Amount of child-directed speech at 19 months predicts expressive vocabulary size at 24 months in low-SES Spanish-learning infants](child-directed-speech-predicts-vocabulary-low-ses.md) — related
 - [LENA automated adult word counts are reliable for Spanish-language home environments](lena-adult-word-estimates-reliable-spanish.md) — related
 - [Overheard adult speech is unrelated to 24-month vocabulary, unlike child-directed speech](overheard-speech-unrelated-vocabulary.md) — related
+- [The mediation of child-directed speech effects through processing efficiency holds after controlling for knowledge of the target words and excluding at-chance performers](mediation-robust-to-word-knowledge-controls.md) — related

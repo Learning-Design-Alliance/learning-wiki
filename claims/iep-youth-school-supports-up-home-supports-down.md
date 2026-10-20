@@ -76,3 +76,4 @@ The key findings report that youth with an IEP are "more likely than in the past
 - [Over the past decade (2003–2012), high school youth with an IEP became more engaged in school and extracurricular activities](iep-youth-more-engaged-school-extracurricular-over-decade.md) — related
 - [From 2003 to 2012, youth with disabilities showed greater school engagement and support use but became less likely to participate in some key transition activities](engagement-up-transition-activities-down-2003-2012.md) — related
 - [Participation in key transition activities, including discussing transition plans with school staff and student employment during high school, declined over the decade](iep-youth-transition-activities-declined.md) — related
+- [NLTS 2012 is the third in a series of federally sponsored studies of youth with disabilities under IDEA](nlts-2012-third-in-series-idea-youth.md) — related

@@ -82,3 +82,10 @@ Follow-up comparison within the male-model condition: female students (M = 3.11)
 
 ## Related Claims
 - [Expert example standards increase subjective task difficulty and mental effort during example evaluation](expert-standards-increase-difficulty-effort.md) — related
+- [Model gender and observer gender do not affect learning outcomes or near transfer from video modeling examples](no-gender-effects-learning-transfer-video-modeling.md) — related
+- [Judgment-of-learning accuracy after video modeling examples does not differ by model or observer gender, and students of both genders predict their performance accurately](jol-accuracy-unaffected-by-gender-video-modeling.md) — related
+- [Learning from a male model is more enjoyable and leads to greater willingness to receive similar instruction for male students than for female students](gender-interaction-instruction-enjoyment.md) — related
+- [Observing a male model enhances perceived competence more from pretest to posttest than observing a female model, for both male and female observers](male-model-boosts-perceived-competence.md) — related
+- [Male secondary students report higher self-efficacy than female students after learning from video modeling examples, without higher performance](male-students-higher-self-efficacy-video-modeling.md) — related
+- [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
+- [Learners invest more mental effort in media they perceive as difficult, so multimedia should raise perceived demand characteristics](perceived-demand-drives-invested-mental-effort.md) — related

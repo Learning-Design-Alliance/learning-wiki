@@ -43,4 +43,6 @@ The review's narrative assessment of dual-task studies combining visual WM with 
 
 
 ## Related Claims
--
+- [Perceptual attention and working memory are distinct entities that causally affect each other](wm-perceptual-attention-distinct-entities.md) — related
+- [There is no convincing evidence that loading WM depletes a resource needed for the control of attention](shared-resource-attention-control-wm-unconvincing.md) — a narrower finding that bears on this claim
+- [A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges](shared-resource-storage-processing-wm.md) — reports the opposite

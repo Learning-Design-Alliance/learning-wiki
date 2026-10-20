@@ -48,3 +48,4 @@ Multiple linear regression (Table 8) on a 455-respondent survey of Vietnamese un
 - [Evaluations of leadership competency increase with hierarchical position in Vietnamese universities](leadership-perception-gap-by-position.md) — related
 - The policy-legal framework is the second strongest predictor of governance effectiveness in Vietnamese universities — related
 - [A six-factor measurement model of university governance shows convergent validity in the Vietnamese context](six-factor-governance-model-convergent-validity.md) — related
+- [Frequent participation in governance is associated with more favorable perceptions of organizational culture](governance-participation-linked-culture-perceptions.md) — related

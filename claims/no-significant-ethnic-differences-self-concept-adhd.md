@@ -47,3 +47,5 @@ Separate ANOVAs with ethnicity as grouping variable in the descriptive correlati
 - [Gender is not related to self-concept in children with ADHD, though females report more internalizing problems](gender-not-related-self-concept-adhd-females-more-internalizing.md) — related
 - [Total behavior problems show a moderate negative correlation with self-concept in children with ADHD](total-behavior-problems-negative-correlation-self-concept-adhd.md) — related
 - [Older children and adolescents with ADHD have lower self-concept scores](older-age-lower-self-concept-adhd.md) — related
+- [Ethnicity moderates several social-functioning–academic relationships, which are stronger for African American than Caucasian children](ethnicity-moderates-social-academic-relations.md) — related
+- [At school, ethnic constancy and knowledge predict better adaptive behavior, and constancy predicts fewer externalizing and internalizing problems](ethnic-constancy-school-protective-adaptive-externalizing-internalizing.md) — related

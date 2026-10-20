@@ -51,3 +51,5 @@ Cross-sectional correlational study of 162 second and third graders using hierar
 - [Math anxiety is not significantly correlated with trait anxiety in young children](math-anxiety-uncorrelated-trait-anxiety-children.md) — related
 - [Math anxiety correlates strongly and negatively with mathematics achievement among third graders](math-anxiety-negative-correlation-third-graders.md) — related
 - [Math anxiety correlates negatively with math achievement, grades, enjoyment, motivation, and amount of math taken](math-anxiety-negative-correlations-achievement.md) — a broader claim this one bears on
+- [Self-image and learning mathematics anxiety, but not other metacognition dimensions or evaluation anxiety, predict mathematics achievement after controlling for IQ](self-image-lma-predict-math-achievement.md) — related
+- [Math anxiety predicts mathematics achievement in linear regression (R2=.357)](math-anxiety-predicts-achievement-regression.md) — related

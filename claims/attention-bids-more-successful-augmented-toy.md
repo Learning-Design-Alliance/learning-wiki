@@ -43,3 +43,5 @@ Study 2 attention-bid coding of a 7-minute segment of the first session: repeate
 ## Related Claims
 
 - [The augmentation effect on cooperative play replicated in Study 2, with a large playset-by-behavior interaction and no overlap in confidence intervals](cooperative-play-replicated-study2-interaction.md)
+- [An audio-augmented toy produced significantly longer cooperative play than the same toy without augmentation in triads of 6- to 11-year-olds](audio-augmented-toy-doubles-cooperative-play-study1.md) — related
+- [Groups with the augmented toy used more balanced narrative roles, with more narrator and fewer metanarrator utterances](narrative-roles-more-balanced-augmented-toy.md) — related

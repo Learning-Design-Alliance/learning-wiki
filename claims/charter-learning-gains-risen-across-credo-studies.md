@@ -45,3 +45,4 @@ Cross-study trend comparison across CREDO's three national charter school studie
 ## Related Claims
 - [Charter school students show more annual learning growth in reading and math than matched traditional public school peers](charter-students-more-days-learning-reading-math.md) — a narrower finding that bears on this claim
 - [CMO-affiliated charter schools outpace traditional public schools in reading and math while stand-alone charters gain in reading only](cmo-schools-advance-reading-math-standalone-reading-only.md) — a narrower finding that bears on this claim
+- [Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students](charter-outcomes-mixed-credo.md) — related

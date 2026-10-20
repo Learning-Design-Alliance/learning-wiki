@@ -43,4 +43,6 @@ Narrative review synthesis of empirical SDL and SRL studies in PBL settings. The
 
 
 ## Related Claims
--
+- [Evidence that PBL fosters SDL is mixed across studies](pbl-fosters-sdl-mixed-evidence.md) — related
+- [Seniors outperformed juniors in determining taxonomy and method-technique, but not in self-efficacy or strategy determination](seniors-better-taxonomy-method-technique.md) — a narrower finding that bears on this claim
+- [Preferred instruction type shifted by year: Prep School, freshman and sophomore students preferred implicit instruction while junior and senior students preferred meaning-focused instruction](year-of-study-shifts-preferred-grammar-instruction.md) — related

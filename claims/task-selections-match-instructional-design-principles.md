@@ -46,3 +46,4 @@ Scoring of each participant's six task selections against five instructional des
 - [Students mostly start at the lowest complexity level and move to higher levels, but many still choose level 1 tasks in the second half of learning](lowest-level-first-then-increasing-complexity.md) — related
 - [Total adherence to instructional design principles does not correlate with learning outcomes, mental effort, or motivational variables](principle-adherence-no-correlation-with-outcomes.md) — related
 - [Individual instructional design principles show small correlations with self-efficacy, mental effort, and transfer performance](individual-principles-small-correlations-motivation-effort.md) — related
+- [Students' actual task selections deviate about half a difficulty level and half a support level from SRLTS model-based selections](selections-deviate-half-level-from-srlts.md) — related

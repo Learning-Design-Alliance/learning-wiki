@@ -46,3 +46,4 @@ Interview-based finding from the equity section of the case studies. The report 
 - [Performance assessments can be reliably scored when designed appropriately and used with other measures](performance-assessments-reliably-scoreable.md) — the general claim this finding bears on, with the studies behind it
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content](performance-assessments-expand-mastery-demonstration-opportunities.md) — related
+- [The literature contains a gap regarding the development of assessments based on learning styles](learning-styles-assessment-development-gap.md) — related

@@ -68,3 +68,7 @@ Figure 1 scatterplots compare empirical Bayes school random-effect estimates fro
 - [Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps](rapid-guessing-generally-does-not-change-gap-interpretations.md) — related
 - [Summer learning loss estimates changed significantly under filtering but not effort-moderated scoring](rapid-guessing-summer-learning-loss-estimates.md) — related
 - [More of the variance in linear growth lies at the school level for fall-to-spring than for spring-to-spring estimates, in some cases twice or three times as much](more-school-level-variance-fall-to-spring-growth.md) — related
+- [Disengagement had only minimal impact on school mean performance, proficiency rates, and relative ranking on the state accountability test](disengagement-minimal-impact-school-aggregations.md) — related
+- [Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness](removing-disengaged-examinees-induces-bias.md) — reports the opposite
+- [Assessment metadata can be used to quantify the impact of test disengagement on estimates of educational effectiveness](assessment-metadata-quantify-disengagement-impact.md) — a broader claim this one bears on
+- [Rapid guessing did not appear to substantively affect teacher value-added estimates under the value-added specifications used](rapid-guessing-no-substantive-effect-value-added.md) — related

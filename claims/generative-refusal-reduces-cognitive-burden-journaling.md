@@ -47,3 +47,4 @@ Field study of Actor's Note with 29 professional and student actors in a randomi
 - [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](question-driven-ai-journaling-raises-motivation-confidence.md) — related
 - [Actors internalized the AI's questioning style, self-generating similar questions after the tool was removed](questioning-habits-internalized-after-ai-removal.md) — related
 - [AI-assisted journal entries show higher lexical diversity and more emotion-word usage than unassisted entries](ai-questions-deepen-reflective-writing-quality.md) — related
+- [Both the course and the assistant increase behavioral engagement, measured as characters written per journaling prompt](course-and-assistant-increase-writing-engagement.md) — related

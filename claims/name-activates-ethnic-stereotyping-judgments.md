@@ -45,3 +45,6 @@ In the Study 1 experiment, the two student vignettes differed only in name (Emre
 ## Related Claims
 
 - [Preservice teachers judged the ethnic minority student more negatively than the ethnic majority student on parental support, achievement, and working behavior](ethnic-minority-student-judged-more-negatively-study1.md)
+- [Student achievement level, not ethnic background, predicted preservice teachers' text-versus-video material choice in Study 2](achievement-level-predicts-material-choice-study2.md) — related
+- [Preservice teachers chose the easy video significantly more often for an ethnic minority student than for an ethnic majority student, all other information being equal](ethnic-minority-student-given-easy-video-study1.md) — related
+- [Fixed mindsets predict stronger stereotyping and trait inferences, with experimental evidence of a causal role](fixed-mindset-predicts-stereotyping.md) — related

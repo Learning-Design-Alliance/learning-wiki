@@ -64,3 +64,7 @@ One-way ANOVA on the emotional support dimension across the three profiles (N = 
 ## Related Claims
 - [Self-efficacy profiles differ in AI use for educational support (η² = .36), the highest-rated support type in the high profile](educational-support-ai-use-profile-differences.md) — related
 - [Higher academic self-efficacy profiles report greater overall academic AI use, with a large effect (η² = .36)](higher-self-efficacy-profiles-greater-ai-use.md) — a broader claim this one bears on
+- [Three academic self-efficacy profiles (low, moderate, high) are identified among university students with motor disabilities using Latent Profile Analysis](three-academic-self-efficacy-profiles-motor-disabilities.md) — related
+- [The four achievement goal profiles differ significantly in use of motivation regulation strategies (interest enhancement, motivational self-talk, emotional control)](goal-profiles-differ-motivation-regulation.md) — related
+- [The four achievement goal profiles differ significantly in all four dimensions of writing self-efficacy](goal-profiles-differ-writing-self-efficacy.md) — related
+- [The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking](profiles-differ-in-self-regulatory-resources-except-help-seeking.md) — related

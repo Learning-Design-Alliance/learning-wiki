@@ -44,3 +44,5 @@ Afirmación del eBook en su capítulo sobre IA y micro-credenciales, citando a B
 
 ## Related Claims
 - Les outils d'IA présentent des potentialités réelles pour l'accessibilité de l'enseignement supérieur inclusif, mais leur efficacité reste conditionnée et limitée — related
+- [Les LLMs utilisés comme juges d'évaluation scientifique présentent douze types de biais qui désavantagent les productions s'écartant des canons dominants](llm-as-a-judge-twelve-bias-types.md) — related
+- [AI is currently not best practice for competency-based micro-credential assessment; human assessors remain indispensable](ai-not-best-practice-competency-based-assessment.md) — possibly the same claim (merge candidate)

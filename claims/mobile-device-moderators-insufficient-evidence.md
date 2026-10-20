@@ -58,3 +58,5 @@ The review's own moderator analysis plan (age, gender, screen size, dosage, SAMR
 - [The authors judge insufficient instructional intensity (dosage) as the primary factor behind the null result of learning strategies instruction in adult education](insufficient-dosage-primary-factor-null-strategy-outcome.md) — related
 - [Planned moderator subgroup analyses could not be conducted because fewer than 10 studies per subgroup were available](subgroup-analyses-underpowered-moderators.md)
 - [Study design and post-test timing show only borderline moderating effects in between-subject analyses, not significant in within-subject analyses](borderline-moderators-design-and-post-test-timing.md) — related
+- [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related
+- [Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation](no-moderators-life-events-self-control.md) — related

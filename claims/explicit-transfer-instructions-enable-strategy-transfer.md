@@ -46,3 +46,6 @@ The review reports a study (Cavallini et al., 2010) in which older adults traine
 - [Brain games produce statistically significant cognitive performance gains in older adults, but gains are modest and do not detect improvements over control tasks or produce far transfer](brain-gains-modest-no-far-transfer.md) — related
 - [Multitasking training transferred to untrained working memory and sustained attention tasks in older adults, unlike control training](multitasking-training-transfers-working-memory-sustained-attention.md) — related
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
+- [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — a broader claim this one bears on
+- [CogMed computerized working-memory training improves practiced working-memory skills with narrow transfer, and controls playing the same games without increasing difficulty show no gains](cogmed-working-memory-training-narrow-transfer.md) — related
+- [Computerized training of inhibition in young children shows limited success, and a randomized trial found narrow, skill-specific transfer of working-memory and reasoning training in 4-year-olds](computer-training-inhibition-limited-transfer-narrow.md) — related

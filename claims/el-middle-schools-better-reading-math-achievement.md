@@ -66,3 +66,5 @@ The brief's headline statement of the evaluation's central finding, comparing EL
 
 
 ## Related Claims
+- [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related
+- [The evaluation covers 43 KIPP middle schools across 13 states and the District of Columbia and is the most rigorous large-scale evaluation of KIPP charters to date](kipp-evaluation-43-schools-13-states.md) — related

@@ -65,3 +65,6 @@ Inductive coding of interview rationales identified 7 teachers whose equity beli
 - [Only equity visualizations disaggregated by race/ethnicity and gender prompted teachers to reflect on how race/ethnicity or gender may impact student classroom experiences](equity-visualizations-prompt-equity-reflections.md) — related
 - [Leaders caution that disaggregating data by student demographics is only the beginning of using continuous improvement for equity, not its entirety](data-disaggregation-beginning-not-entirety.md) — related
 - [Middle school students and teachers broadly buy in to an AI system that visualizes classroom community agreements](cobi-broad-buy-in-students-teachers.md) — related
+- [Data dives with disaggregated course success data surfaced equity gaps previously invisible to faculty](disaggregated-data-dives-surface-equity-gaps.md) — related
+- [Teachers ranked all whole class visualizations higher than any of the equity visualizations despite the equity visualizations' role in prompting equity reflections](teachers-prefer-whole-class-visualizations.md) — related
+- [OpenSciEd materials equitably support student participation and engagement across racial, gender, and linguistic groups, per field-test SEET and teacher-report data](openscied-equitable-participation-engagement.md) — related

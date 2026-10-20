@@ -47,3 +47,5 @@ Secondary analysis within the same regression study of 55 deaf individuals: fami
 - [Higher maternal education relates to more proficient bilingual abilities in deaf adults](maternal-education-predicts-bilingual-abilities.md)
 - [Native signers of ASL show more proficient bilingual abilities than non-native signers](native-signers-higher-bilingual-abilities.md)
 - [Native signing and maternal education jointly predict bilingual ability, accounting for 38.4% of variance](regression-native-signing-maternal-education-bilingual.md)
+- [Native signers (children of at least one Deaf parent) outperform non-native signers on ASL syntactic judgment and analogical reasoning tasks](native-signers-outperform-non-native-asl.md) — related
+- [Maternal education beyond 12 years is associated with better language skills at 3 years after accounting for hearing loss severity](maternal-education-predicts-language-3yo-hearing-loss.md) — related

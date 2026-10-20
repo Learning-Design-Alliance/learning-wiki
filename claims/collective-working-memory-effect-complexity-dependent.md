@@ -46,3 +46,7 @@ A theoretically derived hypothesis that the article reports was experimentally c
 
 - [The efficiency advantage of prior collaborative experience emerges under high information density but not under low information density](zambrano-2019-efficiency-advantage-only-high-density.md) — related
 - [The evolutionary analogy for a smaller working memory being more efficient is doubtful](doubt-on-smaller-working-memory-efficiency-analogy.md)
+- [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](collaborative-learning-collective-working-memory-advantage.md) — possibly the same claim (merge candidate)
+- [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — possibly the same claim (merge candidate)
+- [Unrecognised prior-knowledge asymmetry and absent prior group experience negatively affect learning in complex collaborative tasks](knowledge-asymmetry-prior-experience-harm-collaboration.md) — related
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — related

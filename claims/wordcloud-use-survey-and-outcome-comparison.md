@@ -65,3 +65,4 @@ Independent-sample comparisons between students who reported using the Wordcloud
 
 - [The mixed-algorithm grouping intervention did not significantly change comprehension test performance despite slightly higher experimental mean](comprehension-no-significant-difference-mixed-ga.md)
 - [Group summary scores did not differ significantly between algorithm-formed and randomly formed groups on content, vocabulary, or grammar rubrics](group-summary-scores-no-significant-difference.md)
+- [In a high school EFL active-reading setting, mixed genetic algorithm group formation with Wordcloud awareness produced significantly greater vocabulary learning gains than random grouping](mixed-ga-grouping-greater-vocabulary-gain-efl.md) — reports the opposite

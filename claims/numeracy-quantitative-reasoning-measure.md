@@ -44,3 +44,5 @@ This describes the article's experimental task design: a problem that required d
 
 ## Related Claims
 - [Subjects highest in numeracy draw valid causal inferences from data better than less numerate subjects when the data are politically uncharged (skin rash treatment framing)](numerate-subjects-better-skin-rash-inference.md) — related
+- [Contrary to the science comprehension thesis, political polarization of data interpretation did not abate among the most numerate subjects but increased](polarization-increases-with-numeracy.md) — related
+- [Politically charged framing (gun control ban) makes responses to the same data politically polarized and less accurate](gun-control-framing-polarizes-and-reduces-accuracy.md) — related

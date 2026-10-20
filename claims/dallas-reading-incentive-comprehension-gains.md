@@ -50,3 +50,4 @@ Same Dallas trial: vocabulary ITT .051 (.068) and TOT .071 (.093) SD; language I
 - [Paying middle-school students for attendance, behavior, uniforms, and homework yields marginally significant reading gains and non-significant math gains in Washington, DC](dc-input-incentives-marginal-reading-gains.md) — related
 - [Paying ninth graders for course grades increases GPA but not achievement test scores in Chicago](grade-incentives-raise-gpa-not-test-scores.md) — related
 - [Paying students for performance on standardized tests or for course grades does not increase achievement test scores in urban public schools](output-incentives-no-achievement-gains.md) — related
+- [Input-based incentives produce achievement gains at lower cost than major education reforms of recent decades](input-incentives-cost-effective-comparison.md) — a broader claim this one bears on

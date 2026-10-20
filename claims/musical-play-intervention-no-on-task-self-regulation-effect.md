@@ -44,3 +44,6 @@ Coded utterance-level observations of the Train Track Task using the C.Ind.Le sc
 
 ## Related Claims
 - [Musical play intervention significantly increased children's metacognitive knowledge of strategies at interview](musical-play-intervention-metacognitive-knowledge-of-strategies-gains.md) — related
+- [Musical play intervention produced a significantly greater increase in teacher-reported self-regulation than usual music lessons in 6-year-olds](musical-play-intervention-teacher-reported-self-regulation-gains.md) — related
+- [Musical play intervention significantly increased children's metacognitive knowledge at interview compared with controls](musical-play-intervention-metacognitive-knowledge-interview-gains.md) — related
+- [SES moderated change in emotional/motivational regulation, with lower-SES children increasing and higher-SES children slightly decreasing](ses-moderates-emotional-motivational-regulation-change.md) — related

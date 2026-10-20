@@ -64,3 +64,4 @@ The abstract and results report that MLD children scored higher in learning math
 - [Children with MLD score lower in self-image than typical and high achievers when IQ is partialled out](mld-lower-self-image-than-ta-ha.md) — related
 - [Self-image and learning mathematics anxiety, but not other metacognition dimensions or evaluation anxiety, predict mathematics achievement after controlling for IQ](self-image-lma-predict-math-achievement.md) — related
 - [The majority (77%) of children with high mathematics anxiety have average or above-average mathematics performance](high-math-anxiety-mostly-typical-performance.md)
+- [Group differences in fraction comparison accuracy persist when full scale IQ is included as a covariate](fraction-group-differences-persist-fsiq-covariate.md) — related

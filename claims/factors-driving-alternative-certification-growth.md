@@ -49,3 +49,5 @@ The report's introduction lists, without supporting data in the text shown, the 
 - [Congress created the Teacher Quality Partnership Grant Program in 2008, which funds teaching residency programs (TRPs) meant to draw highly qualified teachers to high-need schools](tqp-grant-program-created-trps-2008.md) — related
 - [There is a severe shortage of certified computer science teachers, with only 75 college graduates certified in 2016](cs-teacher-shortage-75-certified-2016.md) — related
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
+- [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
+- [The NSF REU program was created in 1987 to strengthen the STEM workforce](reu-created-1987-stem-workforce.md) — related

@@ -59,3 +59,6 @@ This is a methodologically solid, well-triangulated qualitative case study (q2-q
 - [The bilingual cultural map functioned as a boundary object supporting divergent interpretations across students, museum educators, and end-users without requiring semantic consensus](cultural-map-boundary-object-distributed-cognition.md) — a narrower finding that bears on this claim
 - [Student co-authorship and open-source release enacted epistemic equity, transitioning students from data sources to knowledge producers](student-coauthorship-enacts-epistemic-equity.md) — related
 - [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related
+- [Cross-class super notes in Knowledge Forum prompt rise-above syntheses and serve as an epistemic ladder supporting deeper understanding](super-notes-epistemic-ladder-cross-class-knowledge-building.md) — related
+- [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — related
+- [Journal papers function as resources traversing planes of community knowledge building](journal-papers-traverse-knowledge-building-planes.md) — related

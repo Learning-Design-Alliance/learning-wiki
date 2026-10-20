@@ -72,3 +72,4 @@ Index of moderated mediation test from the same PROCESS Model 14 analysis. The i
 - [Emotion regulation is positively associated with academic motivation among university students](emotion-regulation-positively-associated-academic-motivation.md) — related
 - [Gender moderates the association between emotion regulation and academic motivation, with a stronger positive association among male students](gender-moderates-emotion-regulation-motivation-association.md) — related
 - [AI anxiety is negatively associated with academic motivation among university students, in both bivariate and regression analyses](ai-anxiety-negatively-associated-academic-motivation.md) — related
+- [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — related

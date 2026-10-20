@@ -45,3 +45,5 @@ Benchmark of nine classifiers under 5-fold stratified cross-validation on the ba
 ## Related Claims
 - [True attrition in competitive programming is preceded by an 83.71% reduction in monthly contest participation](contest-participation-decline-precedes-cp-attrition.md) — related
 - [Engineered practice-balance features outperform raw activity counts: the Intensity Ratio ranks third among Codeforces predictors, and upsolving habit dominates the survey model](intensity-ratio-and-upsolving-habit-top-feature-importance.md) — related
+- [A stacking ensemble of LG, SVM, NB, KNN and XGB achieved the best fine-tuning F1-score (0.88), outperforming individual models such as SVM (0.86)](stacking-ensemble-best-finetuning-f1.md) — a narrower finding that bears on this claim
+- [Rank-averaged ensembling stabilized predictions but did not outperform the single base model](ensemble-stabilizes-but-not-better-than-model1.md) — related

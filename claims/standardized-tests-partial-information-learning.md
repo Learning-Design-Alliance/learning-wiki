@@ -45,3 +45,5 @@ The interview's overview of test limitations states tests give "one type of info
 ## Related Claims
 - [Successive cohort indicators are subject to false performance gains, and the paper assesses which school evaluation methods provide useful accountability information](successive-cohort-indicators-false-performance-gains.md) — related
 - [Teachers have far more power to shape what happens to students than investors or scouts, partly through their opinions of each child](teachers-shape-student-outcomes-through-opinions.md) — related
+- [Standardized test proficiency provides biased information about school quality, indicating a need for alternative metrics](standardized-tests-biased-school-quality.md) — related
+- [States integrate performance-based assessments as a complement or alternative to traditional multiple-choice tests within a broader assessment strategy](performance-assessments-complement-multiple-choice-tests.md) — related

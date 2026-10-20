@@ -45,3 +45,6 @@ Quartile comparison of 10 upper-quartile students (averaging a 33% increase) and
 ## Related Claims
 
 - [After playing Progenitor X over three weeks, 39 middle and high school students showed a statistically significant 11% pre-post gain in stem-cell science content knowledge, in a one-group design with no comparison](progenitor-x-play-significant-prepost-gain.md)
+- [Aggregate play-efficiency measures in Progenitor X were not correlated with pre-post learning gains, except for efficiency in the final organ boss level (r = .3219)](aggregate-efficiency-not-correlated-with-gains.md) — related
+- [The number of far failures — cycles ended by incorrect collection and/or time running out — was negatively correlated with pre-post learning gains in Progenitor X](far-failure-negatively-correlated-with-learning.md) — related
+- [Number of cell-cycle starts and cell-cycle destroys in Progenitor X were negatively correlated with pre-post learning gains, while total cycle starts across the game were not](cell-cycle-starts-destroys-negative-correlation.md) — related

@@ -67,3 +67,4 @@ Results section, Table 10 discussion: least frequent behaviors across the sample
 - Students in grades 2-12 whose teachers received STRP training used 19 of 35 framework metacognitive behaviors in reading — related
 - [Learners Misjudge Retrieval Benefit](learners-misjudge-effective-learning-strategies.md) — related
 - [Metacognitive strategies and products of metacognitive processes were more diverse and frequent in reading strategy instruction groups than in the no-instruction group](strategy-instruction-increases-metacognitive-strategy-use.md) — related
+- [In both interaction-log and think-aloud records from a GenAI-assisted instructional-design task, regulation was the most frequent operational label and monitoring the least frequent](regulation-most-frequent-monitoring-least-genai-logs-and-think-aloud.md) — related

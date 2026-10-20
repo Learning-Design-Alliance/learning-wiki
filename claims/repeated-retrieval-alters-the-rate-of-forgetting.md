@@ -73,3 +73,6 @@ The chapter reports, citing Carpenter et al. (2008), three experiments with fina
 - [In Mnemosyne flashcard log data, adding a delay term improves the recall-prediction performance of exponential forgetting curve memory models.](delay-term-improves-exponential-forgetting-curve-recall-prediction.md) — related
 - [In the perceptual-cue reanalysis, the only reliable forgetting and slip deviations were a small forgetting reduction under incongruent color and a modest slip reduction under congruent spacing](cue-effects-forgetting-slip-small-reductions.md) — related
 - [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
+- [In a perceptual-cue intervention reanalysis, incongruent spacing and incongruent color conditions were associated with reduced guessing relative to neutral conditions](incongruent-perceptual-cues-reduce-guessing-bkt.md) — related
+- [Time-based forgetting occurs across presentation methods, with rate determined by consolidation time](time-based-forgetting-occurs-regardless-of-presentation-method.md) — related
+- [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related

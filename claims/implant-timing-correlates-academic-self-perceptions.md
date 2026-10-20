@@ -65,3 +65,4 @@ The authors offer competing interpretations of the correlations, stating "the lo
 
 ## Related Claims
 - [Regression analyses identified oral communication, mainstream placement, younger age at implantation, and bilateral implantation as predictors of positive outcomes, with additional disabilities strongly predicting less positive outcomes](ci-regression-predictors-of-outcomes.md) — related
+- [In children with cochlear implants, hearing age correlates with fewer non-table multiplication errors and faster borrow subtraction, unlike in hearing peers](ci-hearing-age-correlates-arithmetic-error-patterns.md) — related

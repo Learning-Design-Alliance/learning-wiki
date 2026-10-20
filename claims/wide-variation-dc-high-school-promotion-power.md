@@ -47,3 +47,5 @@ Observational analysis estimating promotion power scores for DC public high scho
 - [Schools with high promotion power for high school graduation tended also to have high promotion power for college enrollment](graduation-promotion-power-relates-college-enrollment.md) — related
 - [Parents' school preferences vary considerably across DC applicants](dc-parents-considerable-variation-preferences.md) — related
 - [Louisiana high schools vary widely in their success in promoting graduation, college enrollment, and earnings](louisiana-high-schools-vary-widely-promotion-power.md) — related
+- [The Louisiana study separated high schools' contributions to long-term success from family resources and students' learning before high school](louisiana-school-contributions-separated-from-family-resources.md) — related
+- [There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled](cps-charter-variation-among-schools.md) — related

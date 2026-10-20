@@ -47,3 +47,4 @@ GLMM analysis of dot-matrix visuo-spatial working memory accuracy in the same 98
 - [Cyberball exclusion lowers mood in young adolescents, mid-adolescents and adults alike](cyberball-exclusion-lowers-mood-all-age-groups.md)
 - [Mood changes do not moderate the effect of exclusion on working memory performance](mood-does-not-moderate-exclusion-working-memory-effect.md)
 - [Social exclusion shows no significant effect on n-back response times in any age group](no-exclusion-effect-nback-response-times.md)
+- [Cyberball exclusion reduces n-back verbal working memory accuracy in young adolescent girls but not in mid-adolescents or adults](exclusion-reduces-nback-accuracy-young-adolescent-girls.md) — related

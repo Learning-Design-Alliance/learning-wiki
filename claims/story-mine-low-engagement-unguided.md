@@ -46,3 +46,5 @@ Feasibility analysis using module export data in the pilot RCT: mean active logi
 - [STORY MINE is rated feasible and acceptable as a supplement to specialized mental health care, with positive user-friendliness ratings](story-mine-feasible-acceptable-pilot.md) — related
 - [Intervention engagement (narratives consumed) showed no clear association with outcome changes](story-mine-engagement-outcome-null-association.md) — related
 - [Middle school students used BrainPOP ESL far more than high school students and reported more positive experiences with the tool](brainpop-middle-school-more-engaged-than-high-school.md) — related
+- [Exploratory ITT analyses showed small to medium negative effect estimates favoring control on confidence, hope, self-stigma, and personal recovery](story-mine-negative-exploratory-effects.md) — related
+- [Excluding two participants in acute crisis reduced the negative effect estimates to very small or small](story-mine-sensitivity-crisis-exclusion.md) — related

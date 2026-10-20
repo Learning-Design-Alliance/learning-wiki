@@ -45,3 +45,5 @@ Cross-state qualitative analysis of AD interviews and collaborator surveys in Ye
 ## Related Claims
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
 - [Cultivating activities in local nodes produced more tangible outcomes than statewide planning and networking](local-nodes-produce-tangible-alignment-outcomes.md) — related
+- [Leveraging pre-existing networks or hubs may support greater potential for long-term sustainability of cross-sector reform](preexisting-networks-support-sustainability.md) — related
+- [New network nodes were developed through field-based activities such as regional councils and faculty work groups](new-nodes-developed-through-field-based-activities.md) — related

@@ -64,3 +64,4 @@ Study 1 NASA-TLX and SEQ disassembly results across the four developers, reporte
 ## Related Claims
 - [The v4.1 redesign reduced mean developer assembly time from 21.4 to 13.7 minutes, but the first-attempt-only mean was 20.4 minutes, with the further reduction reflecting a junior learning effect](assembly-time-reduction-learning-effect.md) — related
 - [DfA/DfD-informed mechanical redesign of the RSC chassis raised developers' perceived usability from Poor (SUS 59.4) to Excellent (SUS 89.4)](dfa-dfd-redesign-raises-sus-developers.md) — related
+- [First-time builders completed the v4.1 build in a mean of 39.1 minutes with SUS 74.6 (Good), but showed higher assembly Mental Demand than developers and tactile fragility concerns around snap-fit components](first-time-builder-v41-validation.md) — related

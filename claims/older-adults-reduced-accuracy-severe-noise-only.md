@@ -56,3 +56,4 @@ In-scanner behavioral accuracy from a group x condition repeated measures ANOVA 
 - [Children's speech perception in noise is more impaired than adults', requiring higher signal-to-noise ratios for comparable performance](children-speech-perception-noise-more-impaired-than-adults.md) — related
 - [Older adults show reduced activation in auditory cortex and increased activation in prefrontal and precuneus regions during speech-in-noise processing](aging-reduced-auditory-increased-prefrontal-activation.md) — related
 - [Older adults show larger multisensory gains for simple stimuli but multisensory deficits for complex speech stimuli](aging-multisensory-gains-simple-deficits-complex.md) — related
+- [Individuals with schizophrenia show reduced behavioral benefit from combined audiovisual cues and altered multisensory temporal processing](schizophrenia-reduced-audiovisual-benefit-temporal-acuity.md) — related

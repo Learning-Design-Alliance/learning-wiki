@@ -43,4 +43,5 @@ Survey and interview study of teachers participating in the designed online asyn
 
 
 ## Related Claims
--
+- [The editorial reports an online teacher professional development intervention combining social capital mechanisms and automated scaffolds succeeded, with transactivity as a process indicator](social-capital-online-pd-intervention-success.md) — a broader claim this one bears on
+- [Discussion prompts targeting the exchange of information produced higher levels of collaborative transactive discourse than prompts asking teachers to reflect on their content understanding or classroom practice.](information-exchange-prompts-higher-transactivity.md) — related

@@ -50,3 +50,5 @@ Gaming detector (Baker & deCarvalho, 2008) run on Unit 6 log data. Student's t-t
 - Adaptive-condition students complete the posttest in significantly less time than Control students — related
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
 - [In a small subgroup of struggling students (n = 25), interest personalization greatly improved expression-writing accuracy within the tutoring unit](personalization-struggling-students-moderation.md) — related
+- [Scooter the Tutor was associated with a marginally significant reduction in observed gaming among middle-school math students](scooter-reduced-gaming-marginally.md) — related
+- [Personalizing algebra story problems to student interests improved accuracy on easy knowledge components within the tutoring unit](personalization-improves-easy-kc-accuracy-algebra-its.md) — related

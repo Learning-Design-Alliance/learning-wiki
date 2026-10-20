@@ -62,4 +62,8 @@ Same coded corpus: Group B often discussed division of labor, organization, and 
 
 
 ## Related Claims
--
+- [Productive interactions in long-term small-group collaboration take different forms, with discourse-based and object-oriented patterns the most relevant](productive-interactions-discourse-and-object-oriented-forms.md) — related
+- [The general-AI group most often dictated ChatGPT to directly generate solutions while the regulated-AI group more frequently collaborated to improve self-generated ideas](prompt-type-differences-general-vs-regulated.md) — related
+- [Groups performing generative epistemic actions more frequently produced higher-quality knowledge objects than a division-of-labor group](generative-epistemic-actions-higher-object-quality.md) — related
+- [Frequency-based content analysis shows little variation in how CPS was actualized across groups and tasks, with Problem Reanalysis the most frequent sub-element in both task designs](content-analysis-little-variation-problem-reanalysis-most-frequent.md) — reports the opposite
+- [The three groups exhibited three distinct collaboration forms—a centralized model, loosely coordinated collaboration, and balanced and regulated collaboration—with group 3 showing the highest regulative-action percentage (40% during synthesis)](three-discourse-patterns-across-groups.md) — related

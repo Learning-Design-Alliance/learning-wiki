@@ -49,3 +49,7 @@ Narrative review attribution: the review cites Bunce et al. (2010) on attentiona
 - [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related
 - [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](guided-note-taking-supported-remote-engagement.md) — related
 - [Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos](long-recorded-lectures-impeded-focus.md) — related
+- [Learners engage in mind wandering approximately 30% of the time spent in educational activities, and this is associated with deteriorated learning outcomes](mind-wandering-30-percent-educational-time.md) — related
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
+- [Student motivation, enjoyment, and engagement are higher in natural learning settings, including spillover to subsequent indoor lessons](nature-settings-boost-motivation-engagement.md) — related
+- [Scoping review identifies 64 brief, stand-alone, evidence-based PPIs potentially adaptable to classroom lesson timeframes](sixty-four-brief-stand-alone-ppis-identified.md) — related

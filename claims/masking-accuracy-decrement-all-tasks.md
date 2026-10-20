@@ -45,3 +45,5 @@ Repeated-measures ANOVAs on accuracy (empirical logit transformed) across 56 stu
 ## Related Claims
 - [Masked (automatic) word recognition uniquely predicts oral reading fluency over and above unmasked accuracy and vocabulary in middle-school students](masked-word-recognition-predicts-oral-fluency.md) — related
 - [Automaticity is detectable in the orthography-to-phonology pathway using nonword trials](automaticity-op-pathway-nonwords.md) — related
+- [Masked word recognition uniquely predicts silent reading fluency via the Find the Picture task](masked-word-recognition-predicts-silent-fluency.md) — related
+- [Masked and unmasked task performance tap different components of skilled reading](masked-unmasked-dissociation.md) — related

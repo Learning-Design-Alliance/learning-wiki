@@ -50,3 +50,4 @@ The article reports a null finding: "There was no evidence that the synthetic ph
 - [The group taught by synthetic phonics showed better word reading, spelling, and reading comprehension overall than the analytic phonics group](synthetic-phonics-group-better-overall-outcomes.md) — related
 - [Gender differences in reading outcomes at age 10 depend on the type of phonics teaching received in early literacy programmes](gender-reading-outcomes-depend-on-phonics-method.md) — related
 - [Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not](systematic-phonics-benefits-spelling-and-reading.md) — related
+- [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — a broader claim this one bears on

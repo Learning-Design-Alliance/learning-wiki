@@ -50,3 +50,4 @@ The review reports, from its synthesis of practical classroom research on cooper
 - [Accountability can produce positive or negative effects depending on type, decision context, and task nature](accountability-effects-depend-on-type-context-task.md) — related
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
+- [Across cultures, classroom arrangements facilitating cooperative learning are more effective in supporting motivation and achievement than individual or competitive goal structures](cooperative-learning-more-effective-than-competitive-structures.md) — related

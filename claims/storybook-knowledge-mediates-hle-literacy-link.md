@@ -64,3 +64,7 @@ Hierarchical regression Model 2 on letter knowledge (N = 174): book-cover recogn
 ## Related Claims
 
 - [Book exposure predicts letter knowledge (about 6% of variance), consistent with meta-analytic evidence that print-related skills improve even from story-content-focused reading](book-exposure-predicts-letter-knowledge.md)
+- [Home literacy environment and child health predict reading readiness at school entry, and socioeconomic status stops being a significant predictor once home literacy environment is entered (suggestive of mediation, not tested)](hle-child-health-predict-reading-readiness.md) — related
+- [Home literacy environment predicts early literacy outcomes, with parent print exposure predicting vocabulary and book-sharing frequency predicting letter knowledge](hle-predicts-early-literacy-outcomes.md) — related
+- [Book-cover recognition predicts vocabulary and letter knowledge even after controlling for intelligence and cognitive control](book-cover-recognition-predicts-literacy-beyond-intelligence.md) — related
+- [Cognitive control mechanisms do not moderate the beneficial effects of book exposure on early literacy outcomes](cognitive-control-does-not-moderate-book-exposure.md) — related

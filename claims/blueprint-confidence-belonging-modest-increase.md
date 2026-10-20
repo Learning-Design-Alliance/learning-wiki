@@ -53,3 +53,5 @@ Pre/post perception measures reported in the evaluation's key findings: confiden
 - [A portfolio of eight math tutoring programs showed positive and meaningful average effects on student math knowledge, perceptions, and beliefs](middle-years-math-tutoring-portfolio-positive-average-effects.md) — related
 - [Most Blueprint students reported strong tutor relationships, but reported relationship strength varied across sites](blueprint-tutor-relationships-varied-by-site.md) — related
 - [Blueprint Math Fellows tutoring raised middle school students' math test scores by 0.12 standard deviations relative to nonparticipant peers](blueprint-tutoring-012-sd-math-gain.md) — related
+- [Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant](breakthrough-tutoring-confidence-gain-not-significant.md) — a narrower finding that bears on this claim
+- [Tutored students reported positive relationships with Cignition tutors, with little variation in relationship quality across tutors](cignition-tutor-relationships-positive-uniform.md) — related

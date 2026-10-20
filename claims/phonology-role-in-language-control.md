@@ -68,3 +68,4 @@ The review reports, citing Declerck and Philipp (2015b) on words sharing the fir
 - [Sentence-level (lemma) processing affects language switching: switch costs occur between sentences and depend on syntactic structure](sentence-processing-affects-language-switching.md)
 - [Asymmetrical switch costs are not an unambiguous marker of inhibition: they depend on task type and bilingual profile, and admit non-inhibitory explanations](asymmetrical-switch-costs-not-unambiguous-inhibition-marker.md)
 - [Switch costs and mixing costs are common empirical observations across language switching paradigms, except voluntary switching under certain circumstances](switch-and-mixing-costs-common-across-paradigms.md)
+- [The central executive coordinates WM subsystems and supports higher-level language-learning functions such as attention switching and strategy switching](central-executive-coordinates-language-learning-functions.md) — related

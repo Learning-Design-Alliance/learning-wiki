@@ -44,3 +44,5 @@ Correlational analysis (Table 2) of Flanker-task inhibitory control with reading
 - [Kindergarten visual processing uniquely predicts grade-one early mathematics after controlling for prior mathematics and general cognitive abilities](visual-processing-predicts-grade-one-mathematics.md) — related
 - [Kindergarten DIBELS subtests correlate significantly with early mathematics ability and with behavioral approaches to learning](dibels-convergent-math-learning-behaviors.md) — related
 - [Self-reported habitual sleep disturbance is significantly negatively correlated with all three executive function components in 7–9-year-old children](sleep-disturbance-correlated-all-three-ef-components.md) — related
+- [Visual processing correlates concurrently with character reading and mathematics at both kindergarten and grade one](visual-processing-concurrent-correlations-reading-math.md) — related
+- [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related

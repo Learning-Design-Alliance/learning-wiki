@@ -62,4 +62,7 @@ The editorial defines productive failure as one of the most interesting findings
 
 
 ## Related Claims
--
+- [Collaborative group failure on ill-structured physics problems confers later individual problem-solving advantages over success on well-structured problems (productive failure)](productive-failure-group-failure-beats-structured-success.md) — possibly the same claim (merge candidate)
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
+- [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
+- [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](ps-i-manipulation-check-problem-solving-sheets.md) — related

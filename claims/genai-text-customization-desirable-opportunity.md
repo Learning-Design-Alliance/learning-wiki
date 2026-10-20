@@ -64,3 +64,5 @@ Educators pointed to tools like Newsela as examples and "generally agreed that t
 ## Related Claims
 - [Educators cautiously support AI for culturally responsive content generation while fearing cultural biases and stereotypes in AI output](culturally-responsive-ai-content-cautious-optimism.md) — related
 - [Research on AI support for EL literacy remains limited, narrow in scope, and lacking for diverse EL subgroups](ai-el-literacy-research-gaps.md) — related
+- [Teachers valued CulturAIEd's demographic integration, customization, and rubric feedback as highly efficient](culturaied-perceived-strengths-efficiency.md) — related
+- [Interest tailoring was structurally present in AI-generated readings: logs averaged 52.24 tailoring markers per 10,000 words and showed moderate divergence (cosine similarity 0.50–0.61)](interest-tailoring-structural-in-reading-logs.md) — a narrower finding that bears on this claim

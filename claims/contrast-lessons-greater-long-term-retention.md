@@ -83,3 +83,4 @@ Learning study C (to have): C1 used the contrast between am/are/is and have/has 
 ## Related Claims
 - [T-tests within each experiment found no significant advantage for the contrast-based experimental group over the control groups in long-term gain](t-tests-no-significant-contrast-advantage.md) — possibly the same claim (merge candidate)
 - [Pupils in all three conditions gained significantly from pre-test to post-test and retention test, with no prior-knowledge differences between conditions](all-conditions-significant-gains-history-tasks.md) — related
+- [No significant differences between conditions on the retention test, and scores of the Visual and Timeline conditions decreased significantly from post-test to retention](timeline-effect-disappears-at-retention.md) — related

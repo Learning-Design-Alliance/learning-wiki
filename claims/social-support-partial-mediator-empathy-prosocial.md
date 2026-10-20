@@ -47,3 +47,5 @@ SEM analysis with bootstrap test (bootstrap = 5000) in Mplus8.3 on the 1171-adol
 - [Only the subjective (perceived) support dimension of social support mediates empathy and prosocial behavior](subjective-support-dimension-mediation.md)
 - [Objective support was not significantly correlated with utilization of support or prosocial behavior](objective-support-null-correlation-prosocial.md) — related
 - [Social support is significantly positively correlated with adolescents' prosocial behavior (r = 0.206)](social-support-prosocial-behavior-positive-correlation.md) — related
+- [Adolescents' empathy is significantly positively correlated with prosocial behavior (r = 0.333)](empathy-prosocial-behavior-positive-correlation-adolescents.md) — related
+- [Adolescents' empathy is significantly positively correlated with social support (r = 0.164)](empathy-social-support-positive-correlation-adolescents.md) — related

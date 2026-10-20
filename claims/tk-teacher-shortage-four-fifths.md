@@ -45,3 +45,5 @@ Survey analysis of LEA workforce-development plans. When asked about strategies 
 ## Related Claims
 - [California LEAs reported sufficient fully qualified TK lead teachers in 2022–23 but high second-adult vacancies, and projected needing 1,489 more TK lead teachers and 962 more aides in 2023–24](tk-workforce-lead-sufficiency-aide-vacancies.md) — reports the opposite
 - [TK staffing shortages improved: TK assistant teacher vacancies fell from 12% to 3%, and 91% of LEAs reported enough lead teachers meeting 2025–26 requirements](tk-staffing-vacancies-improved-2023-24.md) — reports the opposite
+- [TK staffing needs grew with expansion while vacancy rates held steady, but LEAs projected nearly 2,400 additional assistant teachers for 2025–26](tk-staffing-needs-and-vacancies.md) — related
+- [Teacher shortages disproportionately impact students in priority and highest-need California schools, which have fewer fully credentialed and more inexperienced teachers](california-shortages-disproportionately-impact-priority-schools.md) — related

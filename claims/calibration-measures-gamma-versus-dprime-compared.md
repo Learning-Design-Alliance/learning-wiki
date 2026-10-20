@@ -43,4 +43,5 @@ Overview of the special issue's final methodological contribution, in which part
 
 
 ## Related Claims
--
+- [External validity of the special-issue strategy measures was mixed: low-to-moderate comprehension correlations for Bräten and Strømsø and Magliano et al., indeterminate for Schellings and Winne and Muis](external-validity-mixed-across-new-strategy-instruments.md) — related
+- [Elementary school children monitor and control their answers to open-ended text comprehension questions more accurately than answers to true-false questions](monitoring-control-more-accurate-open-ended-than-true-false.md) — related

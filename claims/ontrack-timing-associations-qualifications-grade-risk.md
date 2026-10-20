@@ -47,3 +47,4 @@ Chi-square tests across 56 sites also found significant timing-by-grade (χ2(2) 
 - [Among students who started the year most at risk for reading difficulties, none of the three implementation features (timing, frequency, tutor qualifications) was associated with end-of-year literacy progress](ontrack-no-implementation-feature-progress-association.md) — related
 - [Schools using only teachers, administrators, or paraprofessionals as tutors were more likely to serve students with higher baseline DIBELS scores](ontrack-tutor-qualifications-baseline-selection.md) — related
 - [Sites offering tutoring during school were much more likely than out-of-school-hours sites to offer tutoring more than twice a week](ontrack-timing-frequency-association.md) — related
+- [Rural schools were far more likely than nonrural schools to offer Project On-Track tutoring during school only](ontrack-rural-schools-during-school-tutoring.md) — related

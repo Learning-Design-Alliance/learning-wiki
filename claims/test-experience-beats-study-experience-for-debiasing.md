@@ -62,4 +62,7 @@ Experiment 3 (48 Hebrew-speaking undergraduates, Hebrew asymmetric pairs): the b
 
 
 ## Related Claims
--
+- [Resolution of JOLs increases across study–test cycles, improving between Cycles 1 and 2 but not from Cycle 2 to Cycle 3](jol-resolution-increases-across-cycles.md) — related
+- [The foresight bias has behavioral consequences: learners allocate similar study time to backward and forward pairs despite markedly lower recall for backward pairs](foresight-bias-distorts-study-time-allocation.md) — related
+- [Monitoring resolution improves with study–test practice, with larger gains for backward than for forward pairs](jol-resolution-improves-with-practice.md) — related
+- [Repeated study–test practice reduces the foresight bias for backward pairs, with the illusion of competence disappearing by the fourth presentation](study-test-practice-reduces-foresight-bias.md) — related

@@ -60,3 +60,5 @@ Description of the evaluation design across the eight programs: the studies asse
 - [Tutored students reported positive relationships with Cignition tutors, with little variation in relationship quality across tutors](cignition-tutor-relationships-positive-uniform.md) — related
 - [The brief compares the scale and impact of summer school with other interventions such as tutoring](summer-school-compared-tutoring-scale-impact.md) — related
 - [After the AMPT co-authoring session, attitudes towards mathematics other than sense of belonging remained unchanged](ampt-other-attitudes-unchanged.md) — related
+- [A single 30-minute session co-authoring math word problems with AMPT significantly increased students' sense of belonging in mathematics](ampt-session-increased-math-belonging.md) — a narrower finding that bears on this claim
+- [AMPT gave students the opportunity to express themselves and see their interests reflected in the math domain](ampt-interests-reflected-in-math.md) — related

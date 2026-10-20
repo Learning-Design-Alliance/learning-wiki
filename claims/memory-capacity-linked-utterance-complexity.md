@@ -46,3 +46,4 @@ Correlational analysis linking digit-span performance to clause structure and ut
 - [Elderly adults show an overall decrement in the complexity of oral and written statements attributable to an age-related loss of left-branching clauses across all three language samples](aging-reduces-syntactic-complexity-left-branching-loss.md) — related
 - [Better-educated adults scored higher on WAIS vocabulary, produced longer utterances, and used more right-branching clauses](education-linked-longer-utterances-right-branching.md) — related
 - [Working-memory capacity correlates positively with accuracy on all four sentence-production conditions](wm-positively-correlated-all-production-conditions.md) — related
+- [Judges found statements from elderly adults more interesting and clearer than those from young adults, suggesting a trade-off between syntactic complexity and clear, interesting prose](elderly-statements-judged-clearer-more-interesting.md) — related

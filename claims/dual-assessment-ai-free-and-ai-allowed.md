@@ -45,3 +45,5 @@ Consensus finding from the whitepaper's cross-workshop comparison section, synth
 ## Related Claims
 - [The workshop argues AI-resistant assignments are temporary at best, reframing design goals toward tasks whose difficulty survives AI completing part of the work](ai-resistance-shelf-life-reframing.md) — related
 - [Faculty and student workshops diverged on pedagogical structure for project-based learning: instructor-driven formats versus student autonomy](divergence-structure-versus-autonomy-in-projects.md) — related
+- [A proposed three-part process-evidence submission (deliverable, AI interaction logs, video reflection) shifts displacement upstream rather than eliminating it](three-part-process-evidence-submission.md) — related
+- [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — a broader claim this one bears on

@@ -43,4 +43,6 @@ Analysis of recordings from the first two versus last two lessons (~30 min each)
 
 
 ## Related Claims
--
+- [Despite longer AI-led sessions, the proportion of student-generated dialogue was markedly and significantly lower with the AI than with the teacher in both grades](ai-conversational-dominance-lower-student-contribution.md) — related
+- [Only the high-dose VSDR group showed statistically significant improvement in ICT subject knowledge, from pre-test to post-test](vsdr-high-dose-significant-knowledge-gain.md) — related
+- [WTC decreases as class size increases on both talk-time and turns of talk](wtc-decreases-as-class-size-increases.md) — related

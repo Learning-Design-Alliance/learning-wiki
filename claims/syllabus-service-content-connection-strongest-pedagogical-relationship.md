@@ -62,3 +62,4 @@ One correlational analysis of a five-year course-evaluation dataset is recorded.
 - Civic competence items cluster into four epistemological components (knowledge, skills, attitudes, actions) in community-based learning course surveys — related
 - [A specific civic education subject provides valuable knowledge but is insufficient on its own to develop civic competence](civic-subject-alone-insufficient.md) — related
 - [Exploration of diversity is associated with all civic competence outcomes in community-based learning courses](diversity-enhances-all-civic-competence-outcomes.md) — related
+- [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related

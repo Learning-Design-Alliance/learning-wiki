@@ -50,3 +50,4 @@ Structural equation model with 164 Head Start children, controlling for baseline
 - [Preschool emotion knowledge predicts kindergarten academic achievement one year later](preschool-emotion-knowledge-predicts-kindergarten-achievement.md) — related
 - Teacher closeness and peer interaction measures load onto a single latent interpersonal relationships factor alongside a latent emotion knowledge factor — related
 - [Positive preschool interpersonal relationships predict kindergarten academic achievement controlling for initial achievement](preschool-relationships-predict-kindergarten-achievement.md) — related
+- [Preschool PATHS increases emotion knowledge and parent- and teacher-rated social competence in Head Start children](paths-preschool-improves-emotion-knowledge-social-competence.md) — related

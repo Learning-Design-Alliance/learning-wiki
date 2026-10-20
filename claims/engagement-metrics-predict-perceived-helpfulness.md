@@ -66,3 +66,4 @@ Combined-model coefficients (Table 4) for pedagogical dimensions; the quote repo
 - [For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers](revealing-answer-undesired-feedback-higher-succscore.md) — related
 - [MisconceptionTutor achieves substantially higher feedback relevance (RelScore) than BaselineTutor on every assignment](misconception-tutor-higher-relscore-all-assignments.md) — related
 - [Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy](usefulness-associated-actionability-accuracy.md) — related
+- [MisconceptionTutor's advantage in feedback success (SuccScore) is mixed: substantial on earlier assignments, diminishing or reversing on later ones](succscore-improvement-mixed-across-assignments.md) — related

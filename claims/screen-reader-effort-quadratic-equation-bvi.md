@@ -45,3 +45,5 @@ The review reports, citing Da Paixão Silva et al. (2017), a keystroke-level mod
 ## Related Claims
 - A four-state semi-Markov model distinguishing jump editing from local editing fits keystroke-log writing data significantly better than a three-state model — related
 - [Students exposed to AI-generated responses achieved higher performance in solving quadratic equations than those taught through conventional teaching methods](ai-generated-responses-higher-quadratic-achievement.md) — related
+- [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
+- [SCRIPT serves as a research platform enabling keystroke-level data collection and controlled comparison of ITS components](script-research-platform-data-collection.md) — related

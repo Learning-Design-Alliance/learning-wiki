@@ -46,3 +46,5 @@ The review describes Abdel-Rahman and Sommer's two-part ERP training paradigm in
 - [Motivational relevance conferred by conceptual knowledge prioritizes visual processing, as shown by moderators of the other-race effect](motivational-relevance-prioritizes-visual-processing-ore.md) — related
 - [Learning in-depth semantic associations with novel objects facilitates recognition and attenuates viewpoint dependency](semantic-associations-attenuate-viewpoint-dependency.md) — related
 - [The ventral anterior temporal lobe integrates facial identity with social and conceptual knowledge](ventral-atl-integrates-face-identity-semantic-knowledge.md) — related
+- [Verbal labels have a special status in influencing visual processing beyond mere association](verbal-labels-special-status-visual-processing.md) — related
+- [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](predictive-cues-pre-encoding-modulation-wm-benefit.md) — related

@@ -45,3 +45,7 @@ Statistical re-analysis of the matched ratings showed that after controlling for
 ## Related Claims
 - [Principals and trained external observers gave aggregate-consistent Danielson Framework ratings in matched observations](danielson-framework-aggregate-rating-consistency.md) — related
 - [Principals inflated ratings at the high end of the scale, more often identifying instruction as distinguished than observers](high-end-rating-inflation.md) — related
+- [Variation across schools in principal-assigned professional practice ratings suggests principals' standards may not be fully consistent across schools](pittsburgh-principal-practice-ratings-vary-across-schools.md) — related
+- [Principals rated some instruction components inconsistently, rating communicating with students, using assessment in instruction, and organizing physical space lower than observers, and student engagement higher](component-level-rating-inconsistencies.md) — related
+- [Principals rated teaching practice reliably at the low and middle ends of the rating scale, and most principals' severity matched trained observers](principal-rater-severity-variation.md) — related
+- [Principals were far more likely than trained external observers to rate the same instruction Distinguished rather than Proficient](principals-inflate-distinguished-ratings.md) — related

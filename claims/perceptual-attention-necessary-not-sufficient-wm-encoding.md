@@ -45,3 +45,9 @@ The review's conclusion from multiple experimental sources: surprise memory test
 ## Related Claims
 - [Early (within ~100 ms) attentional modulation during encoding predicts subsequent working memory accuracy](early-encoding-modulation-predicts-wm-accuracy.md) — related
 - [Acetylcholine gates memory encoding: surprising outcomes drive high release that encodes new memories distinct from prior ones, and focus lags alertness by several minutes](acetylcholine-surprise-encoding-focus-lag.md) — related
+- [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](predictive-cues-pre-encoding-modulation-wm-benefit.md) — related
+- [Perceptual attention and working memory are distinct entities that causally affect each other](wm-perceptual-attention-distinct-entities.md) — related
+- [rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy](rtms-ifj-causal-top-down-modulation-wm.md) — related
+- [Selective attention facilitates working memory retrieval, and selecting from WM resembles visual search](attention-facilitates-wm-retrieval.md) — related
+- [Post-hoc finding: P1 latency was increased for attended versus unattended unilateral stimuli, selectively over the ipsilateral ROI](p1-latency-increased-attended-ipsilateral.md) — related
+- [Retro-cues during maintenance dynamically modulate working memory representations and confer large performance benefits](retro-cues-dynamically-modulate-wm-maintenance.md) — related

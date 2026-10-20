@@ -91,3 +91,7 @@ The editorial reports, citing Ganaiem and Roll (2025), middle-school students as
 - [Including typical student solutions in explicit instruction showed no significant effect on conceptual knowledge in the Bayesian-reasoning replication](typical-solutions-instruction-no-effect-bayesian.md) — a narrower finding that bears on this claim
 - [Neither instructional sequence produced significant far-transfer effects in either experiment](no-significant-far-transfer-effect-either-sequence.md) — a narrower finding that bears on this claim
 - [Primary school children improved execution of movement features but showed no improvement in javelin throwing distance across all conditions](features-improved-distance-did-not-primary-javelin.md)
+- [Adding a practice phase after instruction (PS-I + P) did not improve javelin throwing performance over PS-I alone](additional-practice-no-effect-primary-javelin.md) — a narrower finding that bears on this claim
+- [In primary school children learning javelin throwing, PS-I did not outperform I-PS on throwing distance or movement-feature execution](ps-i-no-advantage-primary-motor-learning.md) — a narrower finding that bears on this claim
+- [PS-I research demonstrates beneficial effects on conceptual knowledge and knowledge transfer relative to I-PS](ps-i-benefits-conceptual-knowledge-transfer.md) — reports the opposite
+- [PS-I effectiveness did not depend on the breadth of prior knowledge activated, but on activation of relevant prior knowledge](relevant-not-breadth-prior-knowledge-activation.md) — related

@@ -52,3 +52,5 @@ The guide reports, citing Bacher-Hicks et al. (2019), that "students who attend 
 - [Most high school suspensions in CPS resulted from student defiance and rule violations rather than physical conflict](defiance-drives-most-high-school-suspensions.md) — related
 - [Student perceptions of safety and teacher perceptions of order improved in CPS high schools during the same period that OSS rates declined](safety-perceptions-improved-as-oss-declined.md) — related
 - Attending schools with higher suspension rates predicts future interaction with the criminal legal system — possibly the same claim (merge candidate)
+- [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — related
+- [Early childhood education attendance is associated with decreased high school disciplinary measures including juvenile incarceration compared to similar non-attending children](ece-decreased-discipline-incarceration.md) — related

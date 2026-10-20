@@ -65,3 +65,6 @@ Heterogeneity assessment in the re-analysis of Leary et al. (2013) data across 3
 - Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — related
 - [Warning effect size shows no significant heterogeneity across topics and studies](warning-effect-no-heterogeneity-across-topics.md) — reports the opposite
 - Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling — a narrower finding that bears on this claim
+- [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](pbl-evidence-base-equivocal.md) — related
+- [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — reports the opposite
+- [AI-supported PBL cohorts produced sixteen student-authored peer-reviewed publications and consistently high peer evaluations](pbl-ai-sixteen-publications-high-peer-evaluations.md) — related

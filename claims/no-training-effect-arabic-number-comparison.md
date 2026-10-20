@@ -48,3 +48,4 @@ In the Arabic number comparison task of the randomized training study, the train
 - [Response times in number comparison show group, notation, and ratio main effects, with a larger ratio effect for dot arrays than Arabic numerals](number-comparison-response-time-anova-effects.md) — related
 - [Symbols-only training improved kindergarteners' performance on difficult place value items, but base-10 blocks training did not](symbols-only-training-improves-difficult-items.md) — related
 - [Symbolic training transfers to the auditory modality, improving spoken number-word magnitude comparison](symbolic-training-transfers-verbal-comparison.md) — related
+- [Non-symbolic training improves collection comparison at ratios 1:2, 2:3 and 3:4, while symbolic training improves only ratio 1:2](nonsymbolic-training-improves-collection-comparison-ratios.md) — related

@@ -48,3 +48,6 @@ The article's interpretive takeaway from its same-day retest analysis: if rapid 
 - [Students who rapid-guess less on a MAP Growth retest tend to see score gains, while those who rapid-guess more tend to see declines](retest-engagement-gains-map-growth.md) — possibly the same claim (merge candidate)
 - [Seriously disengaged initial testers who stopped rapid-guessing on retest showed large RIT gains, averaging about 6 points in Reading and 12 in Math](serious-disengagement-retest-zero-guessing-gains.md) — a narrower finding that bears on this claim
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — a broader claim this one bears on
+- [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
+- [Test-taking disengagement frequently differs between a MAP Growth initial test and a same-day retest](disengagement-differs-initial-test-versus-retest.md) — related
+- [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](map-growth-real-time-engagement-detection-re-engagement.md) — related

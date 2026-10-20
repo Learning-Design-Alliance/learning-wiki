@@ -47,3 +47,5 @@ Categorization experiment: 28 undergraduates (image vs. discriminate instruction
 - [Subjects given image instructions include more nondiagnostic features in their drawings of concepts than subjects given discriminate instructions](drawings-image-group-more-nondiagnostic-features.md) — related
 - [Concepts become more interrelated with practice under discriminate instructions, and more isolated with practice under image instructions](practice-changes-concept-interrelatedness.md) — related
 - [Whether a prototype or caricature is categorized more easily is predicted to depend on concept interrelatedness: prototype advantage for isolated, caricature advantage for interrelated concepts](prototype-caricature-interrelatedness-prediction.md) — related
+- [Frequent alternation of categories yields more interrelated concepts than infrequent alternation, as indicated by a diagnosticity-by-alternation interaction](frequent-category-alternation-interrelated-concepts.md) — related
+- [Categorization accuracy was significantly higher for infrequently alternated categories than for frequently alternated categories](infrequent-alternation-higher-accuracy.md) — related

@@ -45,3 +45,8 @@ In the same matched comparison group evaluation, attendance impacts varied by gr
 ## Related Claims
 - The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions — related
 - [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related
+- [During its first seven years, the Kauffman School had substantial positive impacts on student achievement growth in mathematics, English language arts, and science beyond growth in other Kansas City public schools](kauffman-school-seven-year-achievement-impacts.md) — related
+- [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related
+- [The Kauffman School produced substantial positive impacts on student achievement growth in mathematics, English language arts, and science over its first six years](kauffman-school-six-year-achievement-growth-impacts.md) — related
+- [The Kauffman School had substantial positive, statistically significant impacts on student achievement in mathematics, reading, and science during its first three years of operation](kauffman-school-positive-achievement-impacts-three-subjects.md) — related
+- [The Kauffman School produces sustained positive achievement growth impacts in mathematics, English language arts, and science](kauffman-school-sustained-achievement-growth-impacts.md) — related

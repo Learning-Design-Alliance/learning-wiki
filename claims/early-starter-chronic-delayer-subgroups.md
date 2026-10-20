@@ -47,3 +47,4 @@ Regressions with sub-group dummies (Table 3) on the 711-student sample: early st
 - [Delayed start during math practice predicts standardized math test performance (β=-.07 SD, p=.02)](delayed-start-predicts-math-outcomes.md) — related
 - [Classroom-relativized delayed start shows stronger predictive power and model fit than raw minutes, especially for ELA outcomes](relative-delayed-start-stronger-fit.md) — related
 - [Total time on task in the DLP positively predicts both math and ELA outcomes](total-time-on-task-predicts-outcomes.md) — related
+- [Sensitivity analysis finds outcome gains significant at cut-points below 5 minutes and beyond 13-15 minutes of delayed start in both subjects](sensitivity-analysis-cutpoints.md) — a narrower finding that bears on this claim

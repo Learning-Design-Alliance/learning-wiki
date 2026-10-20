@@ -49,3 +49,4 @@ Exploratory multi-group SEM by educational level (undergraduate vs graduate subg
 - [Main structural paths remain substantively unchanged after controlling for gender, major, and AI tool use frequency](paths-robust-to-demographic-controls.md) — related
 - [Focal paths are robust to background controls, which did not directly predict AI integration intention](focal-paths-robust-to-background-controls.md) — related
 - [Exploratory stage-of-study analyses: undergraduate year level is positively associated with AI-related disengagement, and the GPA-band pattern is stronger in postgraduate/research students for active engagement and perceived learning impact](stage-of-study-exploratory-variation.md) — related
+- [Perceived risk negatively predicts use behavior and operates as a stage-sensitive deterrent, activated at submission and evaluation rather than initial exploration](perceived-risk-stage-sensitive-deterrent.md) — related

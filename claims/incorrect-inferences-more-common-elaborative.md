@@ -49,3 +49,4 @@ Two-way ANOVA (skill group x inference type) on proportions of inference failure
 - [Less skilled comprehenders' inference failures stem more from incorrect premise recall, whereas skilled comprehenders fail more at integrating recalled information](different-sources-inference-failure-groups.md) — related
 - [Readers with misconceptions generate more incorrect and fewer correct knowledge-based inferences than readers without misconceptions, in both text structures](misconceptions-inference-content-during-reading.md) — related
 - [Less skilled comprehenders make fewer knowledge-based coherence and elaborative inferences than skilled comprehenders even when the relevant knowledge is equally available](poor-comprehenders-fewer-inferences-equal-knowledge.md) — related
+- [Reader misconceptions inhibit comprehension; low-skill readers prefer prior knowledge over contradictory text information](misconceptions-inhibit-reading-comprehension.md) — related

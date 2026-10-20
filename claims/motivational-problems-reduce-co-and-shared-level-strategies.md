@@ -45,3 +45,6 @@ Exploratory interaction of motivational problems × social level from the same 2
 ## Related Claims
 
 - [Comprehension-related problems elicit more cognitive strategies but do not reduce motivational strategy use](comprehension-problems-raise-cognitive-not-cut-motivational.md)
+- [Students respond to motivational problems in study-group vignettes with more motivational but fewer cognitive regulation strategies](motivational-problems-shift-strategy-mix-toward-motivational.md) — related
+- [Students report regulation strategies mainly at the self- and shared-level, with significantly fewer strategies at the co-level](shared-and-self-level-dominate-over-co-level.md) — related
+- [Co-occurring motivational and comprehension-related problems did not produce the hypothesized highest combined strategy frequencies](simultaneous-problems-three-way-interaction-not-significant.md) — related

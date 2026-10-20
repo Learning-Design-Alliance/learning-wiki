@@ -46,3 +46,5 @@ Interview sessions with five university participants (two master's students, two
 - [High-fidelity prototype evaluation found the form-like structure frustrating; a guided progressive-disclosure design replaced it](form-like-structure-frustration-guided-progression.md) — related
 - Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. — related
 - [AI tools compress idea-to-prototype time, freeing UX teams for human-led connection and alignment](ai-compression-frees-human-led-alignment.md) — related
+- [Teachers find World History Project overwhelming in their initial adoption year and make substantial modifications across three main categories](whp-first-year-overwhelm-and-modifications.md) — a narrower finding that bears on this claim
+- [The authors report five twenty-minute screenshare sessions can surface more actionable design insights than a 100-person survey](five-screenshare-sessions-beat-large-survey.md) — related

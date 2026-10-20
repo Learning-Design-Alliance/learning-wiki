@@ -56,3 +56,5 @@ WWC synthesis of the two randomized studies meeting evidence standards (2,569 st
 - [Growth Mindset interventions have potentially positive effects on postsecondary academic achievement (improvement index +13)](growth-mindset-potentially-positive-academic-achievement-postsecondary.md) — related
 - [READ 180® has positive effects on reading comprehension for adolescent readers in grades 4–12](read-180-positive-effects-comprehension-adolescents.md) — related
 - [The WWC rates Reading Apprenticeship® as having potentially positive effects on comprehension for adolescent learners, based on one study](reading-apprenticeship-potentially-positive-comprehension.md) — related
+- [Lexia Reading has potentially positive effects on comprehension](lexia-reading-potentially-positive-comprehension.md) — related
+- [CIRC has potentially positive effects on comprehension for beginning readers, with an average improvement index of +12 percentile points across two studies](circ-potentially-positive-comprehension-effects.md) — related

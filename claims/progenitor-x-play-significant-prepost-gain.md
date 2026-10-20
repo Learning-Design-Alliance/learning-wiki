@@ -49,3 +49,4 @@ Pre-post analysis of 39 middle and high school students who played Progenitor X 
 - [Aggregate play-efficiency measures in Progenitor X were not correlated with pre-post learning gains, except for efficiency in the final organ boss level (r = .3219)](aggregate-efficiency-not-correlated-with-gains.md)
 - [Number of cell-cycle starts and cell-cycle destroys in Progenitor X were negatively correlated with pre-post learning gains, while total cycle starts across the game were not](cell-cycle-starts-destroys-negative-correlation.md)
 - [Upper-quartile and lower-quartile learning-gain players showed opposite correlations between cell-cycle activity and learning, and lower-quartile players had more far failures (7 vs 2.3 average cycles)](quartile-far-failure-contrast.md)
+- [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](explicit-strategy-instruction-no-significant-gain.md) — reports the opposite

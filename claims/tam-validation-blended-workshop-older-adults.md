@@ -45,3 +45,4 @@ TAM-based validation test (five-point Likert scale) applied to the blended works
 - [Years of education correlate positively with pre-workshop digital literacy scores in older adults](education-correlates-pre-digital-literacy.md) — related
 - [Digital literacy workshops ameliorate older adults' digital competence in both face-to-face and blended modalities](workshops-ameliorate-older-adult-digital-competence.md) — related
 - [Participants held generally positive attitudes toward VISIGARP but rated diagram layout clarity low while finding layout easy to adjust](visigarp-attitudes-layout.md) — related
+- [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — related

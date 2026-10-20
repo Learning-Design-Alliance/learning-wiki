@@ -48,3 +48,5 @@ Key implementation finding from the study of MI Write in grades 7 and 8 English 
 - [Regular and tailored support helped teachers integrate Ecree and MI Write into their teaching](regular-tailored-support-helped-teachers-integrate-tools.md) — related
 - [Teachers reported curriculum and technical integration challenges when implementing Ecree and MI Write](teachers-reported-curriculum-technical-integration-challenges.md) — related
 - [The review reports that insufficient prep time, curriculum-alignment difficulty, and low teacher confidence with new technologies are barriers to implementing simulations in K-12](teacher-time-confidence-barriers-simulation-implementation.md) — related
+- [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](monthly-coaching-helped-teachers-integrate-mi-write.md) — related
+- [Teachers need tailored technical support and time to understand how to use Ecree and integrate it with their instruction](teachers-need-tailored-support-time-ecree-integration.md) — related

@@ -45,3 +45,4 @@ The review's discussion of globality and inclusivity reports that "Of the 23 stu
 ## Related Claims
 - Most of the 23 reviewed CA studies for novice programmers relied on subjective usability measures, with only three using objective pre/post-test designs to measure knowledge gains — related
 - [Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity](weird-bias-ai-trust-research.md) — a broader claim this one bears on
+- [Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners](rural-urban-connectivity-exclusion-bangladesh.md) — related

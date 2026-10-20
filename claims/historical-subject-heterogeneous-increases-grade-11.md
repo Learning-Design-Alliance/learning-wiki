@@ -50,3 +50,5 @@ Comparative analysis of semistructured interview narratives from 18 8th graders 
 - [Predominantly master-narrative accounts drop from 83% in 8th grade to 25% in 11th grade](narrative-patterns-master-narrative-decreases-grade-11.md) — related
 - [Nation concept shifts from essentialist to constructivist across grades](nation-concept-constructivist-increases-grade-11.md) — related
 - [Identification is statistically unrelated to the other three narrative characteristics](identification-dissociated-from-other-narrative-characteristics.md) — related
+- [Historical-method inquiry tasks center on uniformitarianism and taxonomy construction, and evaluating independent lines of inquiry for convergence is entirely absent](historical-method-uniformitarianism-dominates.md) — related
+- [Identification with the historical subject ('us') does not change across grades](identification-us-constant-across-grades.md) — related

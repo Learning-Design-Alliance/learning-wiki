@@ -46,3 +46,5 @@ In the randomized controlled trial, collaborative exercise performance (binary c
 - [Programming students who receive computational regulatory scaffolding achieve higher course grades than students who receive no regulatory support](regulatory-scaffolding-higher-programming-course-grades.md) — related
 - [Evidence indicates socially shared regulation of learning occurs across SRL areas and may promote learning and performance](ssrl-empirical-evidence-occurrence-and-effects.md) — a broader claim this one bears on
 - [Teacher control over small-group dialogue is inversely related to groups' socially shared regulation of learning](teacher-control-inverse-ssrl-physics.md) — related
+- [Prior CBLEs for programming education have mostly supported SRL individually while disregarding the social context's influence on regulation](programming-cbles-focus-srl-disregarding-social-context.md) — related
+- [The intervention did not increase students' SRL aptitude, yet supported higher course grades](regulatory-support-no-increase-srl-aptitude.md) — related

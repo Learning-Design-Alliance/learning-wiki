@@ -46,3 +46,5 @@ Experiment 1 analysis of pointing accuracy by sentence zone (boundary vs. centra
 
 - [Readers locate sentences more accurately after reading a text in page-by-page presentation than in scrolling presentation](page-presentation-better-sentence-locating.md)
 - [The effect of page-break response cues on locating accuracy depends on the presentation mode read: they help Page readers and hurt Scroll readers](page-break-response-cues-interaction.md)
+- [Page readers tended to include more details in their summaries than Scroll readers (a marginal result, p = .056), while recall of main ideas did not differ significantly](page-presentation-summary-details-recall.md) — related
+- [Reading time did not differ between Page and Scroll, though Page readers tended to backtrack more](reading-time-null-backtracking-tendency.md) — related

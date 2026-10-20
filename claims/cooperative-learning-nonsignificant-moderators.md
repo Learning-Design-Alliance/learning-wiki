@@ -62,3 +62,4 @@ Moderator analyses in Table 2 for these five variables showed non-significant Q-
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — related
 - [Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04](achievement-measure-moderator-lab-exclusion.md) — related
 - Meta-analysis offers additional strengths of increased statistical power, moderator analyses, and model testing — a broader claim this one bears on
+- [The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies](cooperative-learning-location-moderator.md) — related

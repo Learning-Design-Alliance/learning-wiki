@@ -52,3 +52,5 @@ Survey analysis across pilot-year coaching logs and teacher surveys; the report 
 - [Dynamic Learning Project research found teachers who worked with edtech coaches used technology more frequently and felt more confident than peers who did not](dlp-coaching-technology-use-confidence.md) — related
 - [After one year of DLP coaching, coached teachers reported more frequent and more powerful technology use than non-participating colleagues](dlp-teachers-more-frequent-powerful-technology-use.md) — related
 - [DLP teachers reported more confidence than non-DLP teachers in using technology to develop students' six 21st-century skill categories](dlp-teachers-confident-21st-century-skill-technology-use.md) — related
+- [Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers](coaching-increases-technology-use-frequency.md) — related
+- [DLP teachers reported higher rates of impactful student technology use and greater perceived positive impact on student engagement and learning than non-DLP teachers](dlp-student-engagement-impactful-technology-use.md) — related

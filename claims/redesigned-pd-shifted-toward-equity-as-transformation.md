@@ -65,3 +65,4 @@ Retrospective interaction analysis across five focal episodes spanning Summer 20
 - [Teachers persisted in treating academic English as the endpoint of science learning during the first Language Storybook iteration](first-storybook-iteration-reified-academic-language-goals.md) — reports the opposite
 - [An immersive storybook taught entirely in French was designed to help teachers recognize multilingual learners' assets](french-storybook-immersive-multilingual-experience.md) — related
 - [An initial PD design that did not distinguish equity conceptions reified deficit perspectives of multilingual learners](initial-pd-reified-deficit-perspectives-of-mls.md) — reports the opposite
+- [Post-course survey respondents reported the most growth on rethinking ideas about disability, with 27 of 33 noting definite growth and 17 describing a shift away from deficit thinking](survey-definite-growth-rethinking-disability.md) — related

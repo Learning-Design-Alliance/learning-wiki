@@ -45,3 +45,5 @@ Corrected contrasts in the collection comparison task showed the non-symbolic gr
 - [Children succeed at non-symbolic approximate addition above chance with a ratio effect, without relying on non-numerical strategies](kindergartners-succeed-nonsymbolic-addition-ratio-effect.md) — related
 - [Ratio-effect scores correlated with mathematics achievement in Experiment 1 but not in Experiment 2 with easier ratios](ratio-effect-math-correlation-mixed.md) — related
 - [In a number comparison task, adults outperform 6- to 7-year-old children in accuracy, Arabic numerals are easier than dot arrays, and easy 0.5 ratios are easier than difficult 0.8 ratios](number-comparison-accuracy-group-notation-ratio-effects.md) — related
+- [Neither numerical training significantly improves Arabic number comparison performance](no-training-effect-arabic-number-comparison.md) — related
+- [Brief practice on non-symbolic approximate numerical addition or comparison tasks speeds subsequent exact symbolic arithmetic in first graders compared with non-numerical magnitude tasks](brief-ans-practice-speeds-symbolic-arithmetic-children.md) — related

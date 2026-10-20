@@ -64,3 +64,8 @@ Same repeated-measures design; transfer items used disyllabic words not heard be
 ## Related Claims
 
 - [Skin conductance level did not differ significantly between instructor-presence conditions, though arousal patterns appeared to vary with content difficulty](instructor-presence-no-scl-difference.md)
+- [Instructor video presence produced no significant difference in tone production correctness, acceptability, or confidence, though with-condition means were descriptively higher on correctness and acceptability](instructor-presence-no-production-effect.md) — related
+- [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — related
+- [Learners reported higher perceived learning and satisfaction and lower mental effort with the instructor video, despite no performance gains — a perception-performance gap](instructor-presence-perception-performance-gap.md) — related
+- [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
+- [Study lead instructors did not differ from non-study-lead instructors in student retention performance](no-study-lead-bias-in-student-performance.md) — related

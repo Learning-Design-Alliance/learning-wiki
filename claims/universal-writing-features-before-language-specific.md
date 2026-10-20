@@ -45,3 +45,6 @@ Guttman scaling analysis of feature scores from 372 preschoolers across the Writ
 ## Related Claims
 - [Age differences on composing tasks (Picture Description, Sentence Retell) were not significant, unlike letter, name, and spelling tasks](composing-task-age-differences-not-significant.md) — related
 - [Children's writing proficiency is task dependent: children use more advanced features on easier tasks and regress to basic features on harder tasks](writing-proficiency-task-dependent.md) — related
+- [Preschoolers' writing and writing-related skills increase significantly between ages 3 and 5 on letter, name, and CVC word tasks](preschool-writing-skills-increase-age-3-to-5.md) — related
+- [Older preschoolers outperformed younger preschoolers on most writing measures but not on the generative composing tasks](age-differences-emergent-writing-tasks.md) — related
+- [Children's name writing knowledge is more advanced than their other writing skills, with substantial letter knowledge of their own names by age 3-4](name-writing-most-advanced-emergent-skill.md) — related

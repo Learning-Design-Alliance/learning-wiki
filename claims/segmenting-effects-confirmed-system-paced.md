@@ -50,3 +50,7 @@ Moderation/subgroup analysis within the meta-analysis: the four reported effects
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — possibly the same claim (merge candidate)
 - [Cognitive Load Management](cognitive-load-management.md) — a broader claim this one bears on
 - [Segmentation reduces overall cognitive load during multimedia learning](segmenting-reduces-cognitive-load.md) — related
+- [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
+- [Segmentation increases learning time](segmenting-increases-learning-time.md) — a broader claim this one bears on
+- [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](segmenting-principle-mayer-2008.md) — related
+- [Learner control over pace and order of an animated multimedia instruction improves transfer performance compared with system control](learner-control-improves-transfer-animated-instruction.md) — related

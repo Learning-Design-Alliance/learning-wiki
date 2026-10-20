@@ -56,3 +56,5 @@ Hierarchical linear regression predicting Time 2 self-efficacy from feedback, ag
 - Random assignment to feedback conditions produced groups comparable in cognitive ability and control beliefs within each age group — related
 - [Fake social-comparative feedback combined with fictional malleability information successfully induces large changes in self-efficacy beliefs](fake-feedback-induces-self-efficacy-changes.md) — possibly the same claim (merge candidate)
 - [Self-efficacy is moderately related to academic achievement but is more a product of past performance than a driver of future performance](self-efficacy-achievement-and-past-performance.md) — related
+- [Problem solving accuracy showed age-related declines but no significant main effect of feedback; a marginal Age × Feedback interaction reflected age differences only within the high-PFB group](problem-solving-accuracy-age-declines-no-feedback-effect.md) — related
+- [Dispositional learning goals positively predict memory self-efficacy in younger and older adults](learning-goals-predict-higher-memory-self-efficacy.md) — related

@@ -47,3 +47,6 @@ Narrative analysis of the Grade 10 Liberal Studies view (82 students across two 
 - [The Grade 10 Visual Arts class was the only class to engage in social (chitchat) discourse, which the authors suggest may reflect a warm classroom climate](chitchat-only-in-visual-arts-class.md)
 - [Grade 5 Science students predominantly engaged in fact-oriented, repetitive, and cumulative discourse, suggesting difficulty sustaining conversational exchanges online](grade5-fact-oriented-repetitive-cumulative-discourse.md)
 - [Knowledge-sharing discourse was the most common mode in KF discussions, while knowledge-building discourse was comparatively rare](knowledge-sharing-most-common-knowledge-building-rare.md)
+- [Disengaged teenage boys engaged in quality argumentation in 81% of their argumentative exchanges while chatting in World of Warfare](wow-chat-quality-argumentation-81-percent.md) — related
+- [The Bidea^ dimension was the most frequent (45.87% of total discourse), with Bfact^ dominant in Grade 5 Science and Bopinion^ dominant in Grade 10 Liberal Studies](idea-dimension-most-frequent-fact-vs-opinion.md) — related
+- [Forum discussion shows more argumentation and confirmation, partly mediated by its opinion-oriented subject matter](argumentation-mediated-by-message-subject.md) — related

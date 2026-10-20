@@ -47,3 +47,8 @@ The presentation asserts, citing prior research, that rapid guessing is "a valid
 - [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](academic-disengagement-related-to-test-disengagement.md) — related
 - [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](disengagement-material-individual-summative-scores-minor-aggregations.md) — related
 - [Rapid guessing on achievement tests varies across grades, subjects, and teachers](rapid-guessing-varies-grade-subject-teacher.md) — related
+- [Current measurement models underlying achievement testing assume students respond effortfully to test items](measurement-models-assume-effortful-responding.md) — related
+- [Rapid-guessing behavior varies by item and is significantly related to item length, item position, and presence of ancillary reading material](rapid-guessing-item-length-position-ancillary-material.md) — related
+- [Seriously disengaged initial testers who stopped rapid-guessing on retest showed large RIT gains, averaging about 6 points in Reading and 12 in Math](serious-disengagement-retest-zero-guessing-gains.md) — related
+- [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
+- [E-M scoring assumes the remaining responses are unaffected by disengagement, and this assumption can fail under partial engagement](em-scoring-assumes-remaining-responses-unaffected.md) — related

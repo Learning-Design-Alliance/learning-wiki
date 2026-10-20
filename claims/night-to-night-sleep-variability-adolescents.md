@@ -49,3 +49,5 @@ Descriptive actigraphy statistics from the week of monitoring in 160 adolescents
 - [Free-living sleep measures show no association with visual attention task performance in older adolescents](sleep-no-visual-attention-association.md) — related
 - [The association between sleep duration and school performance is nonlinear (p = 0.04) in generalized additive models](nonlinear-sleep-duration-school-performance-association.md) — related
 - [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related
+- [Shorter time in bed the night before testing is associated with slower 3-back response times in older adolescents](acute-rest-time-slower-3back-response.md) — related
+- [Sleep the night before cognitive testing resembles weekly averages except for an earlier mid-sleep time](acute-sleep-matches-weekly-averages.md) — related

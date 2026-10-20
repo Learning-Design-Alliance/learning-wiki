@@ -45,3 +45,4 @@ Manipulation-check ratings by the 177 Study 2 participants on the text and video
 ## Related Claims
 
 - [Preservice teachers judged the ethnic minority student more negatively than the ethnic majority student on parental support, achievement, and working behavior](ethnic-minority-student-judged-more-negatively-study1.md)
+- [Fifth graders study videos significantly faster than content-equivalent illustrated texts during the initial pass](videos-studied-faster-than-illustrated-texts-fifth-graders.md) — related

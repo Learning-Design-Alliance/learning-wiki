@@ -229,3 +229,11 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Frequent use of reflective prompts related to better strategic problem-solving and conceptual understanding](reflective-prompts-frequency-problem-solving.md) — a narrower finding that bears on this claim
 - [Deep understanding is characterized by coherent, interconnected mental schemas that make knowledge transferable](understanding-as-connected-coherent-schemas.md) — related
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](worked-example-effect-element-interactivity-explanation.md) — related
+- [Adding a self-explanation feature to a base game improved transfer performance](self-explanation-feature-improved-game-transfer.md) — a narrower finding that bears on this claim
+- [Generated self-explanations mediate the immediate posttest advantage of open-book over closed-book prompts](self-explanations-mediate-open-book-immediate-advantage.md) — a narrower finding that bears on this claim
+- [The effectiveness of each generative learning strategy is subject to potential boundary conditions discussed in the review](generative-strategies-boundary-conditions.md) — related
+- [Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone](self-explanation-prompts-geometry-tutor-robust-learning.md) — a narrower finding that bears on this claim
+- [High prior knowledge students learned most conceptual understanding from questions plus arguments; answering questions alone was least effective](high-prior-knowledge-arguments-best-conceptual-understanding.md) — related
+- [Self-explanation substantially increases time on task, raising questions about its efficiency](self-explanation-time-on-task-cost.md) — related
+- [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) — related
+- [Prompts and scaffolds for paraphrasing, criticizing, questioning, and synthesizing arguments produce significantly more domain-specific and domain-general knowledge](argumentation-prompts-scaffolds-knowledge-gains.md) — related

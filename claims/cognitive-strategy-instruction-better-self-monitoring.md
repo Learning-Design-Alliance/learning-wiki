@@ -44,4 +44,7 @@ Multilevel regression on self-monitoring accuracy (Table 4c) in the same 308-chi
 
 
 ## Related Claims
--
+- [More frequent cognitive strategy instruction is negatively related to the effectiveness of children's restudy selections](cognitive-strategy-instruction-negative-restudy-effectiveness.md) — reports the opposite
+- [Child-centered instruction positively predicts children's self-monitoring accuracy and, for second graders, restudy effectiveness](child-centered-instruction-predicts-metacognition.md) — related
+- [Teacher-directed instruction is negatively related to children's restudy effectiveness and self-monitoring accuracy](teacher-directed-instruction-negative-metacognition.md) — related
+- [Pre-monitoring does not significantly improve children's relative monitoring accuracy (discrimination between correct and incorrect answers)](pre-monitoring-no-discrimination-improvement.md) — related

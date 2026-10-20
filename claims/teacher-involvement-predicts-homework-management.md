@@ -45,3 +45,4 @@ Structural equation modeling with 525 secondary school students in Turkey; teach
 ## Related Claims
 - [Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior](homework-management-partially-mediates-teacher-involvement-behavior.md) — related
 - [Students who use homework management skills at a high level are more likely to complete their homework](homework-management-predicts-completion.md) — related
+- [The distraction-management dimension of homework management is unrelated to homework quality and not predicted by the homework management latent factor](distraction-dimension-unrelated-homework-quality.md) — related

@@ -47,3 +47,5 @@ The review reports the clear finding from years of research into crime, delinque
 - [Neighborhood crime rates differ dramatically between elementary schools students rate as safest and least safe](neighborhood-crime-differs-safest-least-safe-schools.md) — related
 - [After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety](achievement-composition-predicts-safety.md) — related
 - [Environmentally focused interventions appear to be particularly effective for reducing delinquency and drug use](environmentally-focused-interventions-delinquency-drug-use.md) — a narrower finding that bears on this claim
+- [Perry Preschool participants given opportunities to plan and make decisions were significantly less involved in drug use, delinquency, teen pregnancy, and school failure at age 19](perry-preschool-participation-reduced-problem-behaviors.md) — related
+- [Intergenerational ties in the community contribute positively to student learning, per research cited in the report](intergenerational-ties-contribute-student-learning.md) — related

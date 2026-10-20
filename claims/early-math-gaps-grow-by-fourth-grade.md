@@ -45,3 +45,4 @@ The report's framing asserts that early math performance differences "grow over 
 
 - [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — the general claim this finding bears on, with the studies behind it
 - [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md) — related
+- [Higher-SES preschoolers outperform lower-SES peers on math, spatial, EF, and vocabulary measures, except the Tap Test where the difference is a non-significant trend](ses-gaps-in-early-spatial-ef-math-skills.md) — related

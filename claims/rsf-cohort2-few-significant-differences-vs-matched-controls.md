@@ -47,3 +47,4 @@ Propensity-score-matched ISAT analysis of 7 of 12 Cohort 2 schools after 1 year 
 - [Most RSF-supported Cohort 1 schools increased the percentage of students meeting or exceeding ISAT standards from year 1 to year 2](rsf-cohort1-increased-standards-passing-rates.md) — related
 - Students entering RSF-supported schools had prior reading and mathematics achievement similar to peers who remained at their sending schools, with a few exceptions — related
 - [Student subgroup impact differences were rarely statistically significant: six of 288 differences in the second cohort and eight of 360 subgroup analyses in the follow-up year.](few-student-subgroup-impact-differences-significant.md) — related
+- [After one school year of implementation (first cohort), the curricula produced no statistically significant positive impacts, and four statistically significant negative impacts were observed.](year-one-curricula-no-positive-impacts-four-negative.md) — related

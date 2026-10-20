@@ -92,3 +92,7 @@ Secondhand report of Egalite et al. (2015) finding African American students in 
 - [Suspension is associated with long-term harms including higher risk of grade retention, dropout, and juvenile justice involvement](suspension-long-term-harms-retention-dropout.md) — related
 - Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color — a broader claim this one bears on
 - Teacher-student racial match is linked to better social, emotional, and academic outcomes, including lower dropout and higher college enrollment for Black students — a broader claim this one bears on
+- [Attending racially integrated schools is associated with higher academic achievement and improved long-term educational and economic outcomes for students of color, with no academic harm for white students](integrated-schools-academic-and-long-term-benefits.md) — related
+- [Students of color and students with disabilities are disproportionately suspended and referred to law enforcement relative to their enrollment](disproportionate-discipline-students-of-color-disabilities.md) — related
+- [Students who attend schools with higher suspension rates are more likely to be arrested and incarcerated as adults and less likely to attend a 4-year college](higher-suspension-rates-linked-adult-arrest.md) — related
+- [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related

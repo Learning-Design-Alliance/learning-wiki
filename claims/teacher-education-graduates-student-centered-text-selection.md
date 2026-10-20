@@ -64,3 +64,4 @@ In the comparative analysis, teacher education graduates chose 78% adolescent li
 ## Related Claims
 
 - [High school teachers' rankings of algebra problem difficulty were uncorrelated with student performance, while middle school teachers' rankings were accurate](high-school-teacher-rankings-uncorrelated-student-performance.md)
+- [Teacher-centered philosophies correlate with formal-authority teaching styles](teacher-centered-philosophies-correlate-formal-authority.md) — related

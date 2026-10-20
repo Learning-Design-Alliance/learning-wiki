@@ -49,3 +49,6 @@ Descriptive enrollment comparison from AdE's revised 1st quarter 2024 report, co
 - [The estimated net cost of the Universal ESA expansion is $242.7 million in 2022–23, rising to $295.2 million in 2023–24](esa-net-cost-242-7-million-expansion.md) — related
 - The state's lack of publicly available ESA data hinders cost estimation; the report recommends publishing enrollment, expenditure, and transfer data — related
 - [About 27 percent of 2018 graduates statewide met all CCR graduation requirements, with gaps by socioeconomic status, English learner status, race/ethnicity, and prior achievement](ccr-met-27-percent-with-equity-gaps.md)
+- [The Universal ESA amount exceeds per-pupil district funding, so elementary students leaving district schools each add $425 in state cost, while students leaving charter schools save the state $752 each](universal-esa-exceeds-district-funding-cost-difference.md) — related
+- [Total ESA program cost reached about $587 million in 2022–23, a 211% increase over the prior year, equal to 8.8% of Basic Student Aid funding](esa-total-cost-587-million-211-percent-increase.md) — related
+- [ESA programs have grown rapidly, serving over 326,400 students across 13 states as of the 2023/24 school year](esa-rapid-growth-326400-students-13-states.md) — related

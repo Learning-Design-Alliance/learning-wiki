@@ -44,3 +44,4 @@ In the conditional process model with prior knowledge as moderator (N = 74), the
 
 ## Related Claims
 - [Self-explanation quality does not mediate the worked example effect on learning gains in ill-defined statistics problems](no-self-explanation-quality-mediation-worked-example-effect.md) — related
+- [Prior knowledge and working memory capacity did not moderate the worked example effect](no-prior-knowledge-wmc-moderation-worked-examples.md) — related

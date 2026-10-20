@@ -47,3 +47,5 @@ RVE meta-analysis of 56 spelling effect sizes from 18 studies. The pooled spelli
 - [Transfer to untrained words occurs for spelling but not for reading outcomes](morphology-transfer-untrained-words-spelling-not-reading.md) — related
 - [Benefits of morphology instruction show little evidence of retention at follow-up, though follow-up data were sparse](morphology-followup-retention-limited-evidence.md) — related
 - [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — a broader claim this one bears on
+- [No clear differential effects of morphology instruction by child factors: age, reading ability, SES, or linguistic background](morphology-no-child-factor-moderators.md) — related
+- [Morphology instruction produces small-to-moderate improvements in children's reading outcomes at immediate post-test](morphology-instruction-improves-reading-posttest.md) — related

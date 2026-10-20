@@ -49,3 +49,4 @@ Systematic review synthesis of 14 studies of representational pictures in elemen
 - [Cognitive skills are the most probable student characteristic to modify picture effects: low math performers do better without representational pictures, low reading-comprehension students better with them](cognitive-skills-moderate-picture-effects.md) — related
 - [Informative pictures relate to poorer word problem-solving performance, with negative effects from g = −1.08 to −0.08](informative-pictures-negative-effects.md) — related
 - [Representational pictures show consistently null effects for word problems with demanding characteristics such as rational numbers, probabilistic reasoning, or realistic considerations](representational-pictures-null-demanding-tasks.md) — related
+- [Decorative pictures show consistently null effects on elementary schoolers' word problem-solving performance regardless of task characteristics](decorative-pictures-null-effects.md) — related

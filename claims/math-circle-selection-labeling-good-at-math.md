@@ -45,3 +45,4 @@ Qualitative finding from interviews with teachers and participants in the intrin
 ## Related Claims
 - [Grades are lower in classes with higher-achieving peers, consistent with teachers adjusting expectations rather than grading on a curve](class-peer-achievement-lowers-grades.md) — related
 - [Identity-centered making supports simultaneous STEM engagement and identity affirmation for queer youth](identity-centered-making-supports-stem-engagement-and-identity-affirmation.md) — related
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related

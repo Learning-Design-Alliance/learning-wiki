@@ -66,3 +66,4 @@ Week-level correlation analysis of weekly workload slopes against perceived diff
 - [Quizzes are the only LMS activity type negatively correlated with reported time-on-task and perceived difficulty](quizzes-negatively-correlated-workload-difficulty.md) — related
 - [Self-reported weekly time-on-task is positively correlated with LMS-based time-on-task and activity measures in engineering courses](self-reported-lms-time-on-task-correlated.md) — related
 - [Workload peaks and slope variability correlate with perceived learning attainment, with LMS dynamics showing no significant correlations](workload-peaks-correlate-learning-attainment.md) — related
+- [Invested mental effort and perceived task difficulty are strongly correlated yet relate differently to relative task difficulty, indicating the two ratings measure different aspects of overall cognitive load](mental-effort-and-task-difficulty-ratings-differ.md) — related

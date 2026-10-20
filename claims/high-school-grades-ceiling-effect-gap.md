@@ -46,3 +46,5 @@ Authors' interpretation (type e) of the mixed-model covariate results, where hig
 
 - [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md)
 - [A gender gap of ~9 points appears even on a low-stakes diagnostic assessment, contradicting prior findings that the gap disappears in low-stakes assessments](gender-gap-persists-low-stakes-diagnostic.md)
+- [Once undergraduate-level mathematics and physics preparation is controlled, gender no longer significantly predicts performance in advanced STEM courses](preparedness-eliminates-gender-effect.md) — related
+- [Higher weights on assessments shrank, but did not eliminate, the gender difference in final grades, because young women were more often in classes weighting assessments heavily](assessment-weights-shrank-gender-grade-gap.md) — related

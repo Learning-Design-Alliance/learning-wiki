@@ -43,4 +43,8 @@ RM-ANOVA moderation analysis among the two prompt conditions (n = 21 retrospecti
 
 
 ## Related Claims
--
+- [Lower-prior-knowledge apprentices gained more self-efficacy with retrospective prompts, while anticipatory prompts were detrimental for them](prior-knowledge-moderates-prompt-direction-self-efficacy.md) — related
+- [Anticipatory self-explanation prompts induced lower extraneous cognitive load than retrospective prompts](anticipatory-prompts-lower-extraneous-load.md) — related
+- [Lower-prior-knowledge apprentices experienced higher germane cognitive load when learning with retrospective prompts than with anticipatory prompts](retrospective-prompts-higher-germane-load-low-prior-knowledge.md) — related
+- [Long video-based modelling examples did not improve diagnostic strategy knowledge, skills, self-efficacy, or cognitive load relative to independently practising in a computer simulation](modelling-examples-no-effect-complex-diagnostic-strategy.md) — related
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — a broader claim this one bears on

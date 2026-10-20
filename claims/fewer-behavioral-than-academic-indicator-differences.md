@@ -45,3 +45,6 @@ Descriptive analysis of the same statewide cohort data comparing behavioral indi
 ## Related Claims
 - [Substantial differences in attaining academic indicators of postsecondary readiness occurred for most student groups, with the largest number between Black and White students, NSLP-eligible and ineligible students, and students entering grade 6 after age 13](academic-indicator-attainment-varies-by-student-group.md) — related
 - [Raw postsecondary data are useful for descriptive purposes but may not give educators substantial new information beyond high school indicators](raw-postsecondary-data-limited-new-information.md) — related
+- [Predictive accuracy of middle and high school indicators did not vary substantially between student groups](predictive-accuracy-similar-across-groups.md) — related
+- [Predictive specificity was substantially higher for NSLP-eligible, English learner, disabled, and older-entry students, with the largest difference for middle school students with disabilities predicting college enrollment](predictive-specificity-higher-marginalized-groups.md) — related
+- [Never being expelled in high school was a substantially stronger predictor of college enrollment for Hispanic, English learner, older-entry, and town/rural students than for their counterparts](never-expelled-stronger-predictor-marginalized-groups.md) — related

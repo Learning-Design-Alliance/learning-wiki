@@ -51,3 +51,6 @@ Analysis of the 20-item roadblock rankings across 1997-2007 surveys (Table 2) fo
 - [Latent class analysis of roadblock responses identified three roughly equally sized administrator groups—Limited, Moderate, and Considerable Roadblocks—differing in breadth and depth of concern](three-roadblock-severity-groups-latent-class.md) — related
 - [Dot voting produced no single dominant category; teachers collectively prioritized motivation and buy-in, removing roadblocks, and building resilience](dot-voting-three-priorities-persistence.md) — related
 - [Inhibitory social contextual factors include assessment pressures on teachers and emphasis on standardized curricula](standardized-assessment-pressure-inhibits-creativity.md) — related
+- [Accountability pressures overshadowed the survey's improvement potential without reducing its predictive power](accountability-overshadows-improvement-potential.md) — related
+- [Parental support for student learning is substantially higher in top-quartile schools than in bottom-quartile schools](parental-support-higher-top-quartile-schools.md) — related
+- [Human-resource roadblocks rose sharply from 2009 to 2017: difficulty removing poor teachers increased from 39 to 48 percent, and concern over recruiting and hiring the right teachers nearly quadrupled from 12 to 44 percent](cps-hr-roadblocks-rose-2009-2017.md) — related

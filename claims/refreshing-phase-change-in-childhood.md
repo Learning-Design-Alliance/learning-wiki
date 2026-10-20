@@ -44,3 +44,4 @@ The review reports evidence on attentional refreshing in development: "Children 
 
 ## Related Claims
 - [Cognitive load in concurrent storage-processing tasks has a negative linear effect on memory span](cognitive-load-negative-linear-span-effect.md) — related
+- [A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges](shared-resource-storage-processing-wm.md) — a broader claim this one bears on

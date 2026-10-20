@@ -45,3 +45,7 @@ Post hoc moderator testing (Tukey's HSD, Holm-corrected) on math outcome categor
 ## Related Claims
 - [The math deficit profile of children with comorbid RDMD is additive: it equals the sum of the deficits of isolated RD and MD groups](rdmd-math-deficits-additive.md) — related
 - [Executive function deficits in comorbid RDMD show some evidence of under-additivity, especially in inhibition, shifting, and updating](rdmd-executive-function-under-additivity.md) — related
+- [In reading-related outcomes, group differences involving RD or RDMD are largest for reading tasks and phonological processing and smallest for RAN](reading-group-differences-phonological-vs-ran.md) — related
+- [The reading deficit profile of children with comorbid RDMD is additive relative to isolated RD and MD](rdmd-reading-deficits-additive.md) — related
+- [The comorbid RD+MD group is more impaired than groups with RD only or MD only on seven of ten neuropsychological composites](rd-md-comorbid-more-impaired-neuropsych.md) — related
+- [Children with comorbid RDMD are significantly more impaired than children with isolated RD or MD in math, reading, and executive function outcomes](rdmd-more-impaired-than-isolated-groups.md) — related

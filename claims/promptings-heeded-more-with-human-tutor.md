@@ -47,3 +47,4 @@ Correlational analysis within the pro-active conditions of the experiment compar
 - [Neither tutoring mode nor human tutor access affects learners' use of conceptual help tools](no-tutoring-effect-on-conceptual-help-use.md) — related
 - [Proactive tutoring increases learners' use of lexical help tools compared with reactive tutoring](proactive-tutoring-increases-lexical-help-use.md) — related
 - [Tutor promptings and information items explain only a limited share of variance in help tool use](promptings-limited-explanatory-power-help-use.md) — related
+- [Proactive tutoring increases learners' use of metacognitive help tools compared with reactive tutoring](proactive-tutoring-increases-metacognitive-help-use.md) — related

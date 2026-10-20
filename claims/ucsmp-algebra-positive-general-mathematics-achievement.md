@@ -95,3 +95,4 @@ Matched-pairs quasi-experiment (Thompson et al., 2006) comparing UCSMP Algebra (
 - [Cognitive Tutor® Algebra I has mixed effects on algebra outcomes for secondary students, with an average improvement index of +4 percentile points across five studies](cognitive-tutor-algebra-i-mixed-effects-algebra.md) — related
 - [WWC rates MTP-S as having potentially positive effects on general achievement, with a small extent of evidence](mtp-s-potentially-positive-general-achievement.md) — related
 - [Educators can more effectively engage with researchers to advance practice by using the What Works Clearinghouse and other sources of research findings as a base](educators-engage-researchers-via-what-works-clearinghouse.md) — related
+- [Four years of multiple UCSMP courses have potentially positive effects on general mathematics achievement, with a small extent of evidence](multiple-ucsmp-courses-potentially-positive-general-mathematics.md) — related

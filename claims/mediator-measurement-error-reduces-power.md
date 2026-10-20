@@ -47,3 +47,5 @@ Analytical derivation using a standard measurement error model (Fuller 1987) for
 - In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools — related
 - The IV approach to mediator analysis in clustered education RCTs has very little statistical power — related
 - Estimating associations between student and teacher practice outcomes can examine the extent to which RCT data support a study's conceptual model — a broader claim this one bears on
+- [Multidimensional IRT scores that account for latent variable covariances over time produce better recovery of growth parameters in longitudinal growth models than sum scores and other IRT approaches](multidimensional-irt-covariance-scores-better-growth-recovery.md) — related
+- [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related

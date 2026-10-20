@@ -45,3 +45,5 @@ Self-reported weekly hours from the CCSR 2003 principal survey (Tables 7 and 8):
 ## Related Claims
 - CPS principals work about 60 hours per week and shifted time toward instructional activities from 1997 to 2007 — related
 - [Professional development is associated with larger mathematics gains for students of early-career principals than for students of mid-career and veteran principals](pd-benefits-early-career-principals.md) — related
+- [Elementary school principals spend more than one-third of their workweek providing instructional support to teachers, split fairly evenly between direct and indirect support](principals-third-workweek-instructional-support.md) — related
+- [Elementary LAUNCH principals report significantly more data-driven decision making than comparable or veteran principals](launch-elementary-principals-more-data-driven-decision-making.md) — related

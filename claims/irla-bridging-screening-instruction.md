@@ -44,3 +44,4 @@ This is the authors' interpretive claim in the abstract, noting they "add to the
 
 ## Related Claims
 - [The study collects concurrent validity evidence on the IRLA framework as a potential RTI screening tool](irla-concurrent-validity-screening-rti.md) — possibly the same claim (merge candidate)
+- [Validity evidence for the IRLA is disaggregated across grade, program, and race/ethnicity](irla-validity-disaggregated-demographics.md) — related

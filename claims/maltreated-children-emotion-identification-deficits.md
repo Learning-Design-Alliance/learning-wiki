@@ -64,3 +64,4 @@ Narrative review synthesis reporting rumination findings. The review states "Mal
 ## Related Claims
 - [Physically abused children show heightened perceptual and attentional sensitivity to angry facial expressions](abused-children-anger-sensitivity.md) — related
 - [Child maltreatment has a documented independent negative impact on children's language development](maltreatment-independent-impact-language.md) — related
+- [Early intervention can remediate neurodevelopmental consequences associated with maltreatment or institutional rearing](early-intervention-remediates-adversity-neurodevelopmental-consequences.md) — related

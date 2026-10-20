@@ -46,3 +46,5 @@ The review attributes to the Wanzek and Vaughn (2007) synthesis the finding of "
 - [Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects](grade-level-moderates-effect-size.md) — related
 - [Effect sizes based on mathematics tests are significantly larger than effect sizes based on reading tests in targeted secondary interventions](math-test-effects-larger-than-reading.md) — related
 - [Effects on reading comprehension are larger for primary schoolers than secondary schoolers and larger for typical readers than struggling readers, with no such differences for affirming motivations](comprehension-effects-sample-moderators.md) — related
+- [Interventions delivered by researchers have larger effects on reading comprehension than interventions delivered by others, mostly teachers](researcher-delivered-larger-comprehension-effects.md) — related
+- [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related

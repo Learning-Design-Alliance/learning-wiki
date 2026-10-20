@@ -43,4 +43,6 @@ Tutor observation during the case-study sessions: after recording his reading of
 
 
 ## Related Claims
--
+- [The iPad helped a student with ADHD focus attention and become more metacognitive about his reading](ipad-supported-attention-and-metacognition-adhd-reader.md) — related
+- [Students are more attentive to the teacher's model track when they hear their own recording first](student-recording-first-increases-attention-to-model.md) — related
+- [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — a broader claim this one bears on

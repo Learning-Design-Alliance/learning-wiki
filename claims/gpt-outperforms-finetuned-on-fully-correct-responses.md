@@ -63,3 +63,5 @@ Comparison on fully correct responses (Results): "the GPT models outperformed th
 
 ## Related Claims
 - [Ai Mid Range Scoring Degradation U Shape](ai-mid-range-scoring-degradation-u-shape.md)
+- [Mid-range degradation is conditioned on task-specific adaptation: it is most severe for few-shot LLMs with few examples, decreases with more task-specific data, and is mildest for the fine-tuned encoder](task-specific-adaptation-conditions-mid-range-degradation.md) — related
+- [Claude's few-shot scoring behaved erratically across items: best few-shot model on Item 1 but by far the worst model on Item 2](claude-erratic-few-shot-performance-across-items.md) — related

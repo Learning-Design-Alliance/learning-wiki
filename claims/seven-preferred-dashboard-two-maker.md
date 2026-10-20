@@ -44,3 +44,4 @@ Open-response preference question (O1) from the same n=10 expert study. The mixe
 
 ## Related Claims
 - [STEM instructor-researchers rated the Journal Data Dashboard at or above WordStream Maker on every perceived ease-of-use and usefulness item (descriptive, n=10)](dashboard-rated-above-maker-all-likert-items.md) — related
+- [The Dashboard's largest rating advantage was on exploring response details (L1, Δ=1.30), while the two platforms were nearly comparable on broad trends (L2, Δ=0.20) and development over time (L6, Δ=0.10)](dashboard-detail-advantage-trends-comparable.md) — related

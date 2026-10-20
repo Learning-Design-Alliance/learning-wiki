@@ -44,3 +44,4 @@ Analysis of the metacognitive inventory scores of the 219 college students again
 
 ## Related Claims
 - [Verbal ability and Internet experience predict correct answering of comprehension questions about digital texts in e-learning](verbal-ability-internet-experience-predict-elearning-comprehension.md) — related
+- [Self-reported metacognitive regulation of reading contributes to expository digital text comprehension in a home e-learning environment](metacognitive-regulation-digital-text-comprehension-elearning.md) — related

@@ -49,3 +49,5 @@ Qualitative finding from the UChicago Consortium's six focus groups with Chicago
 - [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md) — a broader claim this one bears on
 - Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests — related
 - Two-thirds of parents want at least some virtual engagement programming to continue, with Black and multilingual parents most likely to prefer virtual options — related
+- [Included qualitative studies find smaller special education class sizes are the preferred option because they allow more individualised instruction time and increased teacher attention](small-special-education-classes-preferred-individualised-instruction.md) — related
+- [Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants](online-pd-reduces-travel-supports-community.md) — related

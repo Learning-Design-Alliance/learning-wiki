@@ -52,3 +52,6 @@ Correlation test on questionnaire and reading-test data from the same 76 partici
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Vietnamese EFL grade-11 learners report above-average overall metacognitive strategy use in reading](efl-learners-above-average-metacognitive-strategy-use.md) — related
 - [High-proficiency EFL learners use more metacognitive strategies, effort regulation, and coping with problems than low-proficiency learners](high-proficiency-learners-use-more-strategies.md) — related
+- [Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies](teacher-modeling-internalizes-reading-strategies.md) — related
+- [All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing](metacognition-critical-thinking-writing-correlations.md) — related
+- [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related

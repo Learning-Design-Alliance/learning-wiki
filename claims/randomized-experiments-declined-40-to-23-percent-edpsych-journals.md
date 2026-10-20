@@ -44,3 +44,5 @@ Descriptive investigations of article types in empirical educational psychology 
 
 ## Related Claims
 - [Nonintervention (observational) studies in educational psychology are producing recommendations for practice at increasing rates](observational-studies-increasingly-produce-practice-recommendations.md) — related
+- [The author reports that intervention and experimental research are becoming increasingly scarce in educational journals while prescriptive recommendations based on nonexperimental research are increasing](prescriptive-recommendations-from-nonexperimental-research-increasing.md) — possibly the same claim (merge candidate)
+- [A convened expert group concluded that prescriptive statements are rarely appropriate in empirical research articles; authors should state study conclusions and leave prescriptions to synthesis outlets](prescriptive-statements-rarely-appropriate-in-empirical-articles.md) — related

@@ -44,3 +44,4 @@ Observational study of three intact classes (5, 10, and 15 students) at an Irani
 
 ## Related Claims
 - [Only the smallest class differs significantly from the other two; classes of 10 and 15 do not differ significantly](tukey-smallest-class-differs-only.md) — a narrower finding that bears on this claim
+- [WTC decreases as class size increases on both talk-time and turns of talk](wtc-decreases-as-class-size-increases.md) — related

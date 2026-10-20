@@ -51,3 +51,5 @@ Random effects models estimated separate decoding-type effect sizes, each drawn 
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — related
 - [Correlations among reading and reading-related measures were much lower than expected, indicating poor integration of skills in struggling adult readers](poor-integration-low-correlations-adult-readers.md) — related
 - [English (L2) decoding shows a strong linear relationship with English reading comprehension, with the correlation decreasing as children get older](l2-decoding-strong-relationship-english-comprehension.md) — related
+- [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](morphological-awareness-stronger-than-phonological-ran.md) — related
+- [Risk indices are positively inter-correlated, and cumulative risk correlates more strongly with outcomes than any single risk factor](cumulative-risk-correlates-stronger-than-single-risks.md) — related

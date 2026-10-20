@@ -43,4 +43,8 @@ Secondary subgroup analysis across both studies reported no significant subgroup
 
 
 ## Related Claims
--
+- [Secondary school students learn more complex marine ecology content from interactive computer simulations than from hands-on experiments, with a larger advantage for the more complex multidimensional topic](simulations-beat-experiments-complex-content-knowledge.md) — related
+- [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related
+- [Sex-specific subgroup models show the same functional forms for boys and girls, though cubic coefficients for boys were not significant after correction](sex-subgroup-functional-forms-similar.md) — related
+- [Male and female WM growth trajectories do not differ: sex-by-age interactions are non-significant after multiple-comparison correction](no-sex-differences-wm-growth.md) — related
+- [No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)](rm-cc5-no-differential-effects-prior-achievement-gender.md) — related

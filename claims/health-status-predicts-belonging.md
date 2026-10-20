@@ -50,3 +50,4 @@ Linear regression modeling with design-based Wave I Add Health data (Table 3 rep
 - [Adolescents with chronic medical conditions report lower perceived school belonging than their healthy peers](chronic-conditions-lower-school-belonging.md) — related
 - [Students with chronic medical conditions show demographic differences from healthy peers in the Add Health subsamples](chronic-group-demographic-differences.md) — related
 - [Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor](belonging-task-relevance-mindset-predict-self-efficacy.md) — related
+- [Students with chronic medical conditions are less likely to complete high school on time than their healthy peers](chronic-conditions-lower-ontime-graduation.md) — related

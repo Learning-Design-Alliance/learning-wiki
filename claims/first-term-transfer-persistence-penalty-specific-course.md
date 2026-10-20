@@ -64,3 +64,7 @@ The same persistence-gap analysis by student type and stage found that in later 
 ## Related Claims
 - [Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development](epdp-pilot-gpa-retention-gains-not-sustained.md) — related
 - [Each additional semester of continuous college enrollment is associated with a higher completion rate, but no specific semesters carry distinctive predictive value](continuous-enrollment-semesters-completion-gradient.md) — related
+- [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related
+- [For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses](online-course-lower-grades-current-and-future.md) — related
+- [Enrollment in the mission-specific general education courses was associated with increased persistence across student types, likely because enrollment signals intention to complete a degree at the institution](gened-enrollment-signals-degree-intent-persistence.md) — reports the opposite
+- [Students taking courses online are less likely to remain enrolled at the university](online-course-taking-reduces-reenrollment.md) — related

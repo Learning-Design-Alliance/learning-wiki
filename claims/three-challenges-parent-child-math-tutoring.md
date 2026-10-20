@@ -48,3 +48,4 @@ Formative study finding from semi-structured interviews with 11 parents and 2 ex
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — a broader claim this one bears on
 - [Visual grounding in ParaTutor increased children's reasoning turns during math word problem tutoring compared to conventional and general LLM conditions](visual-grounding-increases-child-reasoning-turns.md) — related
 - [Parent-facing actionable guidance helped parents recover from uncertainty and avoid repeated explanation loops during tutoring](parent-facing-guidance-reduces-breakdowns.md) — related
+- [Case analysis shows regulation strategies did not always align with the challenges faced, leading to recurring difficulties within the group](regulation-misalignment-recurring-group-difficulties.md) — related

@@ -46,3 +46,4 @@ The editorial reports, citing Göran Karlsson's case study, that students were a
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
 - [In one first-year composition class, stylistic analysis of a president's letter served critical pedagogy goals](style-analysis-president-letter-critical-reading.md) — related
 - [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related
+- [Teaching style can be reclaimed as an effective tool for socially responsible rhetorical communication](style-teaching-reclaimed-for-critical-pedagogy.md) — related

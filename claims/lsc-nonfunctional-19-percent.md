@@ -49,3 +49,4 @@ Survey-indicator analysis of LSC functioning. Because the Consortium data archiv
 - [Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior](lsc-contributions-strongest-in-operations-weakest-on-student-behavior.md) — related
 - [LSC members' self-assessments show little variation among principals, teachers, parents, and community representatives, and fewer than 10 percent view their councils negatively](lsc-self-assessments-little-variation.md) — related
 - [Most LSCs are active in School Improvement Plan development, but fewer than a quarter are highly involved in the budget process](lsc-sip-active-budget-less-involved.md) — related
+- [An estimated 39-46% of Chicago elementary schools show consolidated principal power while 23-32% show strong democracy](prevalence-four-politics-types-chicago-elementary.md) — related

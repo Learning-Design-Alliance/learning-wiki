@@ -49,3 +49,4 @@ The authors' interpretive framing of the field: they state that despite question
 - [Current AI tutoring systems misinterpret complex STEM engineering diagrams, omitting edges, misclassifying component connections, and flattening hierarchical topologies](ai-systems-misinterpret-stem-diagrams.md) — related
 - DKT influence graphs recover latent concept structure from unlabeled interaction data — related
 - [Classical description logic cannot model non-crisp knowledge, and fuzzy and probabilistic DL extensions substantially increase reasoning complexity, limiting practical use](dl-crisp-limitation-fuzzy-probabilistic-complexity.md) — related
+- [Meta-behavioral pattern extraction outperforms knowledge-concept-based collaborative extraction, which fails to consistently boost performance due to data sparsity](meta-behavioral-extraction-beats-kc-based-variants.md) — related

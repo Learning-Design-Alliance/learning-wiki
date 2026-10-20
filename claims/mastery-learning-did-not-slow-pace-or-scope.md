@@ -59,3 +59,6 @@ Teacher self-reports at semester's end indicated the same amount of material was
 ## Related Claims
 - Trained teachers reallocated time unevenly: significantly more to presenting/developing lessons and quizzes, less to homework review, independent practice, and transitions — related
 - [School mobility, especially frequent within-year moves, slows instructional pacing in schools with many mobile students](student-mobility-slows-instructional-pacing.md) — related
+- [The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment](adaptive-mastery-versus-coverage-tension-null-result.md) — reports the opposite
+- [Trained teachers allocated about 20 percent of class time to the feedback-corrective/enrichment loop after staff development, having devoted virtually none before](training-increases-feedback-corrective-loop-time.md) — related
+- [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](pacing-calendars-standardized-assessments-impediments.md) — related

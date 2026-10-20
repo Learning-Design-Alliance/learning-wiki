@@ -45,3 +45,4 @@ The review describes Boaler's Railside study, where detracked math classrooms us
 ## Related Claims
 
 - [Reform-driven mathematics classrooms were more successful at narrowing the achievement gap than classrooms focused on rote memorization and recall of procedures](reform-classrooms-narrow-achievement-gap.md)
+- [A practice-framework article reports, citing Boaler and Staples (2008), that students in heterogeneous mathematics classrooms learn more, enjoy mathematics more and reach higher understanding than in streamed settings](heterogeneous-mathematics-classrooms-benefit-students.md) — a broader claim this one bears on

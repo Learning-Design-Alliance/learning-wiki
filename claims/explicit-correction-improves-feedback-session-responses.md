@@ -48,3 +48,4 @@ In the experimental study, 79 adult native speakers of English learning French w
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — a broader claim this one bears on
 - [Metalinguistic feedback and recasts, but not clarification requests, significantly improve Iranian EFL learners' wh-question performance on an immediate post-test](metalinguistic-recasts-effective-immediate-wh-questions.md) — related
 - [Metalinguistic feedback produced system learning, generalizing to verbs not included in the treatment](metalinguistic-feedback-generalizes-new-items.md) — related
+- [Design studies indicated metalinguistic information about how English spelling and pronunciation work helped adult learners remember and apply what they learned](metalinguistic-information-aids-adult-decoding-learning.md) — related

@@ -83,3 +83,4 @@ Table 2c coefficients (relative to algebra I) show grades particularly low in ad
 ## Related Claims
 - [Grades are lower in classes with higher-achieving peers, consistent with teachers adjusting expectations rather than grading on a curve](class-peer-achievement-lowers-grades.md) — related
 - [Higher weights on assessments shrank, but did not eliminate, the gender difference in final grades, because young women were more often in classes weighting assessments heavily](assessment-weights-shrank-gender-grade-gap.md) — related
+- [Poor attendance occurs throughout the school day and across subjects; first period is most often missed but missing it does not explain overall truancy](truancy-throughout-day-not-subject-specific.md) — related

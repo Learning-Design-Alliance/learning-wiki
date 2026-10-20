@@ -51,3 +51,4 @@ Cross-model validation experiments ran the Healthcare Assistant persona under id
 - [Model selection experiments show newer models are not strict improvements, with component-specific effects on quality metrics](model-migration-component-specific-metric-effects.md) — related
 - [Educational safety performance varies widely across LLMs, with GPT-5.6-Luna the safest and Qwen3-8B among the weakest under educational adversarial probing](educational-safety-varies-widely-across-llms.md) — related
 - [GPT-4o-mini natural language feedback was overwhelmingly helpful and never harmful in quality annotation](nl-feedback-quality-92-percent-helpful.md) — related
+- [FSM-based evaluation discriminates interactive quality across models, with GPT-5 Mini scoring highest and most tiers significantly separated](fsm-eval-discriminates-model-quality.md) — related

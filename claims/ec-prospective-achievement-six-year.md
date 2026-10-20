@@ -52,3 +52,4 @@ Longitudinal SEM study of 214 children (M age 73 months at T1), with EC measured
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on
 - [Effortful control positively predicts academic achievement and schooling skills in twelve-year-old children](effortful-control-predicts-school-competence-late-childhood.md) — related
 - [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — related
+- [Latent EC at age 3 does not predict mathematics achievement, but EC at ages 3.75, 4.5, and 5.25 shows independent prospective links with mathematics](ec-predicts-math-from-3-75-onward.md) — related

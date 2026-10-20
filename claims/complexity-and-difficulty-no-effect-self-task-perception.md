@@ -45,3 +45,5 @@ The RQ3 MANOVA on post-intervention intrinsic interest and expectancies for succ
 ## Related Claims
 - [Linguistically varying an instructional video into easy, moderate, and difficult versions does not significantly affect students’ expectancies of success or intrinsic task value compared with the moderate version](linguistic-condition-no-effect-expectancy-value-beliefs.md) — related
 - [The interaction of complexity and desirable difficulty does not significantly affect posttest performance](complexity-difficulty-interaction-not-significant-performance.md) — related
+- [Under linguistically difficult instruction, higher language ability is associated with lower expectancies of success — the opposite direction of the hypothesized moderation](difficult-instruction-higher-language-ability-lower-expectancies.md) — related
+- [Task complexity and task difficulty are distinct concepts](task-complexity-distinct-from-difficulty.md) — related

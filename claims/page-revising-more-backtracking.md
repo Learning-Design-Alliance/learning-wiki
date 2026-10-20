@@ -64,3 +64,4 @@ Experiment 2 revising-time measure: Page 1496 s vs. Scroll 1731 s, F(1, 24) = 1.
 ## Related Claims
 
 - [Reading time did not differ between Page and Scroll, though Page readers tended to backtrack more](reading-time-null-backtracking-tendency.md)
+- [Page writers corrected significantly more coherence errors than Scroll writers, while surface and cohesion corrections did not differ](page-revising-coherence-corrections.md) — related

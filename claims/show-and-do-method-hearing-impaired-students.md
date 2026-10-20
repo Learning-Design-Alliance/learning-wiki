@@ -49,3 +49,4 @@ Practitioner assertion in the paper's section on hearing-impaired patrons, illus
 
 - [Auditory math access works best when the technology is familiar: Math Speak aided expression identification, and BVI students performed similarly to or slightly better than traditional methods with familiar apps](auditory-access-familiar-technology-bvi-math.md) — the general claim this finding bears on, with the studies behind it
 -
+- [DHH students often experience systemic barriers to academic success, especially low expectations of what they know and can do](dhh-systemic-barriers-low-expectations.md) — possibly the same claim (merge candidate)

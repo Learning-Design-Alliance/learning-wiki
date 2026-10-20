@@ -49,3 +49,4 @@ Structural equation model (maximum likelihood estimation) on the 3003-teacher su
 - [Pre-service teachers' innovative competence is at a medium-to-high level, with innovation practice the lowest subdimension](preservice-innovative-competence-medium-high-practice-lowest.md) — related
 - [Perceived AIGC affordance enhances AIGC self-efficacy and directly predicts self-regulated learning in IEI undergraduates](aigc-affordance-boosts-self-efficacy-and-srl.md) — related
 - [A two-level structural equation model links approaches to teaching and approaches to studying to biology achievement in high school](two-level-sem-approaches-teaching-studying-biology-achievement.md)
+- [AI technological support is positively associated with innovative competence at all quantiles, with stronger associations at medium-to-high competence levels](ai-technological-support-rising-quantile-pattern.md) — related

@@ -48,3 +48,4 @@ The article's example of current school practice, describing two origins for doc
 - [At Ivy Elementary, teachers lead grade-level goal setting and participate in school-level decisions, with the principal empowering staff](ivy-teacher-led-goals-collective-decisions.md) — a narrower finding that bears on this claim
 - [High-performing CHSRI schools shared four practices for guiding and sustaining instructional improvement: defining leadership responsibilities, creatively distributing them, institutionalizing routines, and focusing team work on school-wide goals](chsri-four-improvement-practices.md) — related
 - Female principals empowered others through shared ownership, committee involvement, and staff development — related
+- [Ivy Elementary staff jointly monitor progress toward goals in team meetings and organize tiered supports for students](ivy-progress-monitoring-tiered-supports.md) — related

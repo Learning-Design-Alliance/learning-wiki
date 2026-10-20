@@ -48,3 +48,4 @@ The protocol summarizes prior long-term living-environment studies, stating "ind
 - Physically or emotionally unsafe environments activate the adolescent stress-response system, which can impede cognition — related
 - By 1973, 70% of the US population lived in the nation's 247 Standard Metropolitan Statistical Areas — related
 - [Experiences and environments in a baby's first three years significantly shape brain structure and functioning](first-three-years-shape-brain-structure-functioning.md) — related
+- [Time of day and days since the first scan are robust predictors of within-person variance in grey matter and total cortex volume](time-of-day-and-scan-interval-predict-within-person-brain-volume-variance.md) — related

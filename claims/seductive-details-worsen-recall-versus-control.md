@@ -43,4 +43,10 @@ Online experiment with N = 248 randomly assigned to four conditions; ANCOVA comp
 
 
 ## Related Claims
--
+- [An irrelevance prompt eliminates the recall cost of seductive details, supporting the diversion explanation](irrelevance-prompt-eliminates-seductive-details-recall-cost.md) — related
+- [In Study 2 with a longer text and five SD amounts, greater seductive detail amount again worsened recall (b = −0.33, p = .005)](sd-amount-negative-recall-study2.md) — a narrower finding that bears on this claim
+- [A separation prompt does not improve learning with seductive details, and higher integration avoidance predicts worse transfer, disfavouring the disruption explanation](separation-prompt-fails-disruption-disfavored.md) — related
+- [In Study 1, a greater seductive detail amount linearly worsened recall performance (b = −0.11, p = .030)](sd-amount-linear-negative-recall-study1.md) — a narrower finding that bears on this claim
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
+- [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — related
+- [Low-WMC readers recall fewer correct causes when text contains seductive illustrations compared with nonillustrated text](low-wmc-seductive-essay-detriment.md) — related

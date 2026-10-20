@@ -53,3 +53,4 @@ The comparison is between two non-randomised cohorts, medical students in the or
 - [In Study 1, students rated the revised intervention as more interesting and more informative than the original intervention](revised-intervention-rated-more-interesting-study1.md) — related
 - [Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts](tbl-formats-similar-irat-trat-performance.md) — related
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related
+- [Merely modifying teaching methods in medical and dental schools has limited merit for steering students' learning approaches; no one-size-fits-all teaching method exists](teaching-method-modification-limited-merit.md) — a broader claim this one bears on

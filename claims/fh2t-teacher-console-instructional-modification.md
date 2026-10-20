@@ -45,3 +45,5 @@ Semi-structured 1:1 interviews with 11 confirmatory study educators after approx
 ## Related Claims
 - [Educators perceived FH2T as strongly connected to Common Core Standards for Mathematical Content and uniquely integrating the Standards for Mathematical Practice](fh2t-common-core-standards-alignment-perception.md) — related
 - FH2T was evaluated with nine 30-minute sessions spread across one academic year as a supplemental program — related
+- [Educators perceived FH2T positioned students as doers of mathematics with agency and mathematical decision making in a safe practice environment](fh2t-students-doers-of-mathematics-agency.md) — related
+- [Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion](fh2t-promoted-peer-collaboration-discussion.md) — related

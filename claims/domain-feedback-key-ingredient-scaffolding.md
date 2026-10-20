@@ -45,3 +45,4 @@ Case-study coding of contingent scaffolding in purpose-setting cycles for eight 
 ## Related Claims
 - [High-gain teacher's high-change students received full explicit domain instruction on how and why readers set purposes, unlike the typical teacher's students](full-domain-instruction-how-why-purposes-high-gain-teacher.md) — related
 - [Typical-gain teacher's students received the most inappropriate directions and prompts for setting a purpose and were seldom reminded to return to the purpose with evidence](inappropriate-directions-prompts-typical-teacher.md) — related
+- [Independent return to purpose with evidence distinguished two gaining students across both teachers](independent-return-to-purpose-gains.md) — related

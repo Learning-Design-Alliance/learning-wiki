@@ -68,3 +68,5 @@ Authors' discussion of the intention-behaviour gap in the survey findings. They 
 - [Ghanaian pre-service science teachers hold significantly positive performance expectancy and effort expectancy toward AI](positive-performance-effort-expectancy-ai-pre-service-teachers.md) — related
 - [ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use](chatgpt-most-used-ai-tool-ghanaian-pre-service-science-teachers.md) — related
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related
+- [Students' stated beliefs about AI use diverge from their actual practice, including hidden or unrecognized policy-violating use](ai-belief-behavior-mismatch-writing.md) — a narrower finding that bears on this claim
+- [Inconsistent Action Takers and Feedback Appreciators showed an intention-action gap: high commitment to feedback but low actual action-taking](intention-action-gap-feedback-classes.md) — related

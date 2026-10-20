@@ -43,4 +43,6 @@ Narrative review attributing to Hadwin et al. (2018) a comparison of collaborati
 
 
 ## Related Claims
--
+- [Awareness visualizations of shared task perception improved reported strategy success and equalized expected effectiveness of planning and teamwork strategies](awareness-visualization-shared-task-perception.md) — possibly the same claim (merge candidate)
+- [Awareness of heterogeneous problem perceptions does not by itself predict successful regulation](awareness-of-heterogeneity-does-not-predict-regulation-success.md) — related
+- [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related

@@ -48,3 +48,5 @@ Authors' summary interpretation of their mixed-methods analysis: self-reported t
 - [Perceived task cohesion strength relates to team performance in collaborative learning teams](task-cohesion-relates-team-performance.md) — related
 - [Temporal network motif frequencies differ significantly between perception groups, with dyadic motifs characterising divergent-perception teams and triadic motifs aligned teams](temporal-motifs-differ-by-perception-group.md) — a narrower finding that bears on this claim
 - [Automated methods capturing thematic cohesion significantly enrich the analysis of knowledge building over time in student discussion](automated-thematic-cohesion-enriches-knowledge-building-analysis.md)
+- [Feedback engagement is the main activity distinguishing perception groups, with divergent-perception teams interacting less with feedback content](feedback-engagement-distinguishes-cohesion-perception-groups.md) — related
+- [Week 3 performance differs by perception-transition group, with Aligned teams increasing and Multifaceted teams decreasing in scores](aligned-perceptions-performance-increase-multifaceted-decrease.md) — related

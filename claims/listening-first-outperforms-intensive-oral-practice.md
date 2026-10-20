@@ -52,3 +52,5 @@ The paper reports, citing Postovsky (1974, 1975), that his studies supported the
 ## Related Claims
 - [Instructors favored delayed over immediate oral corrective feedback, believing immediate correction intimidates students](teachers-favor-delayed-ocf-over-immediate.md) — related
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
+- [Japanese schools teach English literacy before oral-aural competency, inverting the natural sequence](japanese-english-instruction-inverts-stage-sequence.md) — related

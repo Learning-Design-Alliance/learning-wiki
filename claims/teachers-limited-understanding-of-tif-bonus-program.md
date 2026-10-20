@@ -47,3 +47,5 @@ The report's key findings describe teachers' limited understanding of the bonus 
 - [Educators' understanding of the TIF program improved in year two, but more than one-third of teachers still did not know they were eligible for a bonus and underestimated bonus size](tif-educator-understanding-improved-but-incomplete.md) — possibly the same claim (merge candidate)
 - [Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn](teachers-misunderstood-bonus-eligibility-and-amounts.md) — a broader claim this one bears on
 - [Some aspects of TIF implementation improved between years one and two while others, including bonus awareness, remained challenging](tif-implementation-mixed-improvement.md) — related
+- [Teachers in the evaluation districts underestimated the size of pay-for-performance bonuses they could earn through TIF](tif-teachers-underestimated-bonus-size.md) — related
+- [More than half of teachers in the evaluation districts did not know they were eligible for pay-for-performance bonuses](tif-more-than-half-of-teachers-unaware-of-bonus-eligibility.md) — related

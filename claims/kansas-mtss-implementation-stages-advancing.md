@@ -53,3 +53,4 @@ Analysis of the annual Kansas MTSS School Survey (Table 1 and Figure 1) shows sc
 - [KSDE established a statewide infrastructure — Core Team, facilitators, symposium, and website — that respondents rate as effectively supporting MTSS](kansas-mtss-state-infrastructure-support.md) — related
 - [Nearly half of Kansas public schools and two-thirds of districts have participated in formal MTSS training, with no state mandate](kansas-mtss-broad-training-reach.md) — related
 - [Most implementing schools report MTSS positively affecting benchmark scores, state assessment proficiency, discipline referrals, and special education referrals](kansas-mtss-schools-report-student-outcome-gains.md) — related
+- [CSPP pre-referral processes mirror the K-12 MTSS approach and apply fundamentally the same steps to ML and non-ML children](cspp-prereferral-mirrors-mtss-same-for-ml-children.md) — related

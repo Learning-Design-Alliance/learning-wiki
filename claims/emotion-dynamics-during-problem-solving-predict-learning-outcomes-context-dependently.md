@@ -69,3 +69,4 @@ The paper's most important methodological caution is built into its own framing:
 - [Differential scaffold benefits were more salient for the more difficult learning concept](scaffold-benefits-more-salient-for-difficult-concept.md) — related
 - [Unscaffolded problem-solving before instruction lets students entertain exploratory hypotheses at the expense of experiencing initial failures](unscaffolded-problem-solving-exploratory-hypotheses-versus-failures.md) — related
 - [Manipulation check: instructional condition significantly affected errors made during training, with exploratory learning producing more errors](manipulation-check-exploratory-more-errors.md) — related
+- [Reflection on a prediction failure shifted students' isomorphism awareness from structural recognition to boundary awareness](prediction-failure-reflection-builds-boundary-awareness.md) — related

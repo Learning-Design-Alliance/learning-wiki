@@ -43,4 +43,6 @@ Comparison of LPA profile shapes across tasks and time points: at M1, second gra
 
 
 ## Related Claims
--
+- [Metacognition profile classifications differ between second and fourth graders](grade-level-differences-metacognition-profiles.md) — related
+- [Elementary school children show distinct latent profiles of procedural metacognition combining monitoring accuracy, restudy effectiveness, and decision accuracy across tasks](distinct-metacognition-profiles-lpa-children.md) — a broader claim this one bears on
+- [Task performance relates to metacognition profile membership at the first measurement point but not one year later](performance-profile-relation-dissociates-over-time.md) — related

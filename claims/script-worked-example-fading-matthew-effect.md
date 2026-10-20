@@ -43,4 +43,10 @@ The editorial summarizes the third paper on post-secondary mathematics argumenta
 
 
 ## Related Claims
--
+- [Technology affordance conditions, manipulated via device-to-student ratio and scripts, shape role emergence, role coordination, and group structure in collaboration](device-ratio-affordances-role-interaction.md) — related
+- [In Experiment 2, actual regulation of adaptable heuristic worked examples showed no significant correlation with self-regulation skills or MAS outcomes](work-example-adaptation-no-significant-correlations.md) — related
+- [In Experiment 2, self-regulation skills significantly positively predicted domain-specific MAS only in the minimal heuristic worked examples condition](self-regulation-predicts-domain-specific-mas-minimal-worked-examples.md) — related
+- [In Experiment 2, the heuristic worked examples condition significantly affected socio-discursive MAS, with maximal worked examples descriptively best and no significant post-hoc differences](maximal-worked-examples-descriptively-best-socio-discursive-mas.md) — related
+- [Self-regulation skills are particularly needed when learning with minimally structured or adaptable collaboration scripts in CSCL](self-regulation-needed-minimally-structured-adaptable-scripts.md) — a broader claim this one bears on
+- [In Experiment 1, self-regulation skills significantly predicted socio-discursive MAS only in the adaptable CSCL script condition](self-regulation-predicts-socio-discursive-mas-adaptable-script.md) — related
+- [In Experiment 1, the CSCL script condition significantly affected domain-specific MAS, with only the maximal script significantly outperforming the minimal script](maximal-cscl-script-outperformed-minimal-domain-specific-mas.md) — related

@@ -43,3 +43,5 @@ The report presents this K-12 statistic alongside teachers ranking managing and 
 ## Related Claims
 - [Most U.S. schools report teachers are not sufficiently trained to use technology, and half of teachers cite lack of training as a major obstacle](teacher-technology-training-gap.md) — possibly the same claim (merge candidate)
 - About 70 percent of teachers use the internet weekly for lesson preparation, but only 45 to 50 percent use software in instruction or expect weekly student use — related
+- [Teachers' Grow use is strongly influenced by technology professional development, their own use of technology, and principal support for Grow](tech-pd-own-use-influence-grow.md) — related
+- [Teachers had abundant student data but most needed help translating data into instructional steps](teachers-need-help-translating-data-to-instruction.md) — related

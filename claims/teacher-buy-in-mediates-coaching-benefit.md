@@ -51,3 +51,5 @@ Requisite Teacher Characteristics section of the focus group study: teachers saw
 - [Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work](teacher-inquiry-incentives-direct-benefits-routine.md) — related
 - Participating K-3 teachers vary widely in existing literacy practices, resources, understandings, and willingness to use DLS — related
 - [Video-based analysis of teacher-student interactions mediates positive coaching outcomes, and challenging teachers supports reflection but is uncommon](video-analysis-mediation-coaching-outcomes.md) — related
+- [Mediator-outcome association analyses can identify teacher practice mediators most associated with student learning](mediator-analyses-identify-key-teacher-practices.md) — related
+- [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related

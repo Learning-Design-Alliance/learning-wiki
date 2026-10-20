@@ -44,3 +44,5 @@ Covariate analysis within the same randomized controlled study's linear mixed-ef
 
 ## Related Claims
 - [Metacognitive strategies and prior coding experience significantly predict CT profile membership, with metacognition contributing more strongly](metacognition-coding-experience-predict-ct-profile.md) — related
+- [The 45-minute prompting lesson significantly increased prompting self-efficacy relative to a business-as-usual control lesson](prompting-lesson-raises-self-efficacy.md) — related
+- [A 45-minute prompt-based programming lesson produced greater pre-to-post gains in Promptly problem solving than a code-tracing control, though not statistically significant](brief-prompting-lesson-modest-performance-gains.md) — related

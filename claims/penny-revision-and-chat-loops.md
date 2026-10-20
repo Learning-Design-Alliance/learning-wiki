@@ -46,3 +46,4 @@ Transition Network Analysis of log data from 119 Japanese junior high EFL learne
 - [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related
 - [EFL proficiency significantly shapes chatbot interaction: high-proficiency learners over-engage in dialogue while low-proficiency learners over-rely on feedback requests](proficiency-shapes-chatbot-interaction.md) — related
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related
+- [Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations](tna-chatbot-prompts-structure-user-interpretation.md) — related

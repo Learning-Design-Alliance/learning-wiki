@@ -47,3 +47,5 @@ An observational analysis of district administrative data on 3,521 SDP students 
 - [The KEI threshold was accurate for the cohort despite large individual-level prediction errors (53% of proficient and 73% of non-proficient students correctly classified)](kei-threshold-individual-prediction-errors-large.md) — a narrower finding that bears on this claim
 - [A threshold of 6 on a 1–10 index of two KEI dimensions matched the cohort's actual 37 percent grade 3 ELA proficiency rate](kei-index-threshold-6-matches-cohort-proficiency-rate.md) — a narrower finding that bears on this claim
 - [The overall Kindergarten Readiness Assessment score predicts grade 3 achievement about as well as combinations of its subscores](kra-overall-score-predicts-grade3-as-well-as-subscores.md) — related
+- [Combined latent scores are highly predictive of third grade assessment scores in pre-pandemic years, with correlations from 0.67 to 0.82](latent-scores-predict-third-grade-assessment-scores.md) — related
+- [K-2 assessment and latent scores predict third grade ELA grades with correlations from 0.52 to 0.63 in pre-pandemic cohorts](k2-scores-predict-third-grade-ela-grades.md) — related

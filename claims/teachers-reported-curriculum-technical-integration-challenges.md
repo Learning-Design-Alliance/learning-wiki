@@ -54,3 +54,5 @@ Implementation finding from the two-study synthesis: teachers "reported curricul
 - [Teachers need time to plan and carry out daily writing instruction to successfully learn and use MI Write](teacher-planning-time-needed-for-mi-write-use.md) — related
 - [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related
 - Mathspace classroom use was limited, with 90% of teachers using it two hours or less weekly and two-thirds reporting technical challenges — related
+- [The review reports that insufficient prep time, curriculum-alignment difficulty, and low teacher confidence with new technologies are barriers to implementing simulations in K-12](teacher-time-confidence-barriers-simulation-implementation.md) — related
+- [Teachers need tailored technical support and time to understand how to use Ecree and integrate it with their instruction](teachers-need-tailored-support-time-ecree-integration.md) — related

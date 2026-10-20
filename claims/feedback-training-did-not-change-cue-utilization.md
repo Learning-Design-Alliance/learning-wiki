@@ -46,3 +46,5 @@ The same conditional LMM on cue utilization showed no main effects for either fe
 - [Kindergarteners spontaneously use choice latency as a cue for confidence judgments, with shorter latencies linked to higher confidence](kindergarteners-use-choice-latency-cue-utilization.md) — related
 - [Choice latency is a valid cue for kindergarteners: faster recognition responses are associated with correct answers](choice-latency-valid-cue-kindergarteners.md) — related
 - [Neither monitoring feedback nor performance feedback improved kindergarteners' monitoring accuracy relative to an active control](feedback-training-no-improvement-kindergarten-monitoring-accuracy.md) — related
+- [Children's ability to discriminate between correct and incorrect answers did not change over training regardless of group](discrimination-unchanged-after-training.md) — related
+- [Teachers' self-reported cue utilization attributes are not significantly correlated with their monitoring accuracy (Experiment 2).](teacher-self-reported-cue-use-not-linked-to-accuracy.md) — related

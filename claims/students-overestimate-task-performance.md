@@ -46,3 +46,4 @@ In the explorative experiment (N = 15), median performance was 2.63 steps correc
 - [Self-assessment accuracy and estimated performance change do not improve over repeated task selections within a single session](self-assessment-accuracy-no-improvement-over-time.md) — related
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
 - [Secondary school students selecting tasks without guidance base most selections on content and rarely on difficulty or support level](students-select-tasks-mostly-on-content.md) — related
+- [Judgments of learning add no new self-assessment information beyond performance estimates for single tasks](jols-redundant-with-performance-estimates.md) — related

@@ -49,3 +49,4 @@ Moderation analysis (model 9 in Table 4, N = 12,665) using a binary indicator of
 ## Related Claims
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — related
 - [Mathematics test practice does not improve domain-general problem-solving ability](math-practice-no-effect-domain-general-problem-solving.md) — related
+- [The learning benefit of mathematics test practice is larger for boys than for girls](math-practice-effect-larger-for-boys.md) — related

@@ -43,3 +43,6 @@ Narrative background synthesis in the introduction, citing prior community surve
 ## Related Claims
 
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md)
+- [In the intervention trial, short sleep prevalence fell sharply in delayed-start schools (intervention 2: 40.47% to 11.87%) while sufficient-sleep prevalence remained low overall](delayed-start-reduced-short-sleep-prevalence.md) — a narrower finding that bears on this claim
+- [Daytime sleepiness is highly prevalent among Chinese school-aged children, affecting 64.44% (sometimes 37.50%, frequently 26.94%)](daytime-sleepiness-prevalence-chinese-children-64-percent.md) — a narrower finding that bears on this claim
+- [Only 22.34% of Chinese school-aged children get sufficient sleep (≥10 hours), while 37.96% have short sleep duration (<9 hours)](insufficient-sleep-prevalence-chinese-children.md) — a narrower finding that bears on this claim

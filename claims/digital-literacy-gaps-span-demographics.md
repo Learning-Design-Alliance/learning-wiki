@@ -69,3 +69,4 @@ Landscape review section on Technology Access and Adoption, citing Bergson-Shilc
 - [Digital skill gaps are large and racialized among U.S. earners, and digital skill level correlates with earnings](digital-skill-gaps-earners-nsc.md) — a narrower finding that bears on this claim
 - [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related
 - Roughly 30% of core workplace skills changed in ten years and over 60% of job titles mentioning AI are non-tech roles — related
+- [Nearly 43 million U.S. adults lack the basic English literacy skills required to succeed in the workforce and achieve economic self-sufficiency](43-million-adults-lack-basic-english-literacy.md) — related

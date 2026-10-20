@@ -46,3 +46,7 @@ Splitting examples by expert rating, the article reports a significant bias effe
 - [Providing expert example standards reduces bias in learners' evaluations of self-generated examples](expert-example-standards-reduce-bias.md) — a broader claim this one bears on
 - [Idea unit standards do not enhance judgment accuracy in evaluating self-generated examples](idea-unit-standards-ineffective-example-generation.md) — related
 - [Expert example standards did not significantly enhance relative accuracy in evaluating self-generated examples](expert-standards-relative-accuracy-null.md) — related
+- [Negative example standards do not reliably improve judgment accuracy and significantly decrease relative accuracy in evaluating self-generated examples](negative-example-standards-inconsistent-effects.md) — related
+- [Expert example standards improve university students' judgment accuracy (bias, absolute accuracy, and relative accuracy) when evaluating self-generated examples](expert-example-standards-improve-judgment-accuracy.md) — a broader claim this one bears on
+- [Example quality does not significantly moderate the effects of the standards on judgment accuracy when aggregated across concepts](example-quality-moderation-null.md) — reports the opposite
+- [Providing expert example standards enhances absolute judgment accuracy in evaluating self-generated examples](expert-example-standards-enhance-absolute-accuracy.md) — related

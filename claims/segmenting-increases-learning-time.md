@@ -59,3 +59,5 @@ The meta-analysis reports that segmentation "increases learning time"; no magnit
 - [Segmenting multimedia instruction into learner-paced segments improves retention and transfer performance with small-to-medium effects](segmenting-improves-multimedia-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Cognitive Load Management](cognitive-load-management.md) — a broader claim this one bears on
+- [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation](segmenting-effects-confirmed-system-paced.md) — a narrower finding that bears on this claim
+- [Learner control substantially increases time-on-task in animated multimedia instruction](learner-control-increases-time-on-task.md) — related

@@ -48,3 +48,4 @@ Supplementary regression analyses predicting number sense measures; the article 
 ## Related Claims
 - [Among kindergartners with low number sense, attention problems and executive functioning each uniquely predict first-grade mathematics outcomes](ef-attention-unique-predictors-first-grade-math-low-number-sense.md) — related
 - [Number sense measures are non-significant predictors of math once more robust predictors are included](number-sense-non-predictor-of-math.md) — related
+- [The mediating effects of executive functioning and attention problems did not significantly differ from each other on any first-grade outcome](mediators-not-significantly-different.md) — related

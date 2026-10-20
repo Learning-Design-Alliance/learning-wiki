@@ -52,3 +52,4 @@ Path analysis results for grade 3 outcomes among 110 at-risk readers followed to
 - [Teacher-rated attention does not significantly predict first-grade listening comprehension growth among at-risk readers](attention-not-predict-listening-comprehension-growth.md) — related
 - [Teacher-rated behavioral attention significantly predicts first-grade word reading growth among at-risk readers receiving intensive one-on-one intervention, controlling for literacy, language, cognitive, and behavioral covariates](attention-predicts-word-reading-growth-at-risk-first-graders.md) — related
 - [Attention is more strongly associated with reading and cognitive measures than hyperactivity, which correlates mainly with phonemic decoding and memory](attention-more-associated-reading-than-hyperactivity.md) — related
+- [Reading comprehension variance is fully shared with listening comprehension and word reading](reading-comprehension-variance-fully-shared.md) — related

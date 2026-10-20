@@ -46,3 +46,4 @@ Microanalysis of an episode where a middle school teacher displayed frustration 
 - [Acknowledging the emotion to prevent further discussing it recognizes the emotion but constrains exploration of the underlying pedagogical problem](acknowledging-emotion-prevents-exploration.md) — related
 - [Ignoring the emotion strategy neither recognizes nor explores the displayed emotion, closing the discursive space](ignoring-emotion-closes-discursive-space.md) — related
 - [The three strategies highest in both recognizing and exploring emotions were all identified in the same 20-minute emotional event](three-opening-strategies-same-emotional-event.md) — related
+- [Mitigating and normalizing the emotion recognizes it more than acknowledging-to-prevent but limits exploration to attributions that avoid critique of PD design](mitigating-normalizing-limited-exploration.md) — related

@@ -44,4 +44,6 @@ Experimental manipulation of external representation type (content-specific vs. 
 
 
 ## Related Claims
--
+- [Representation-alignment tension between expert externalization and novice comprehension](representation-alignment-tension-expert-novice.md) — related
+- [Learning partners converge strongly in their use of knowledge resources during collaboration](strong-convergence-resource-use-during-collaboration.md) — related
+- [Computer-mediated (videoconferencing) collaboration leads learners to use a wider range of knowledge resources than face-to-face collaboration](videoconferencing-wider-range-of-resources.md) — related

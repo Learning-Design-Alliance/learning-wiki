@@ -45,3 +45,5 @@ Reliability analysis comparing DAC-filter coding to a human coder familiar with 
 ## Related Claims
 
 - [Automatically coded dialogue acts distinguish male and female students' online communication](dac-detects-gender-differences-dialogue-acts.md)
+- [DAC reliability varies by category: Informatives (especially negative evaluations and nonsense statements) code poorly](dac-reliability-varies-by-category-informatives-weak.md) — related
+- [Automatically coded dialogue acts correlate with manually coded collaborative activities as expected](dac-correlates-with-manual-collaborative-activities.md) — related

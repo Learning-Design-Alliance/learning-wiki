@@ -45,3 +45,7 @@ Confirmatory factor analysis of pooled PISA 2012 student questionnaire data (29 
 ## Related Claims
 
 - [Classroom management and classroom disciplinary climate emerged as substantially different dimensions of mathematics instructional quality in student data](classroom-management-distinct-from-disciplinary-climate.md)
+- [Teacher-reported mathematics instructional quality in pooled TALIS 2013 data from seven countries has three dimensions: classroom disciplinary climate, teacher support, and cognitive activation](teacher-three-dimensions-math-iq-talis.md) — related
+- [A higher-order general instructional quality factor fits the student data in all seven countries but does not hold for teacher data](higher-order-general-factor-student-only.md) — related
+- [The five-dimensional student model achieved metric but not scalar measurement invariance across the seven countries, permitting association comparisons but not latent mean comparisons](student-model-metric-invariance-holds.md) — related
+- [Mexico's measurement models differed from all other countries, so Mexico was excluded and the study reports seven countries](mexico-excluded-different-measurement-models.md) — related

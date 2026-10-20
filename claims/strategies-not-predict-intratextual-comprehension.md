@@ -48,3 +48,7 @@ Hierarchical multiple regression with intratextual comprehension (IntraVT) as th
 - [Intratextual integration dominates while intertextual integration is rare in sixth graders' multiple-text writing](intratextual-dominates-intertextual-rare-sixth-graders.md)
 - [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](open-questions-comprehension-unique-predictor-integration.md)
 - [Self-reported accumulation negatively predicts intertextual comprehension while cross-text elaboration positively predicts it, after controlling for prior knowledge](strategies-predict-intertextual-comprehension.md)
+- [Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension](strategy-dimensions-uncorrelated-opposite-correlations.md) — related
+- [External validity of the special-issue strategy measures was mixed: low-to-moderate comprehension correlations for Bräten and Strømsø and Magliano et al., indeterminate for Schellings and Winne and Muis](external-validity-mixed-across-new-strategy-instruments.md) — related
+- [An emotional connection to nature, rather than conservation knowledge, is a powerful predictor of children's conservation behavior](emotional-connection-predicts-conservation-behavior.md) — related
+- [Prior knowledge significantly predicted comprehension and transfer performance in the replication, and motivation during learning predicted retention](prior-knowledge-motivation-predictors-replication.md) — related

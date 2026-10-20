@@ -43,4 +43,6 @@ Editorial summary of Enyedy, Danish, Delacruz, and Kumar's qualitative analysis,
 
 
 ## Related Claims
--
+- [A promising-ideas tool enabled children of about 8 years old to identify, communicate, respond to and build upon promising ideas in knowledge-building discourse](promising-ideas-tool-young-children.md) — related
+- [The editorial reports that immersive VR became a resource for collaborative meaning making through 'emancipatory immersion' (Silseth et al.)](vr-collaborative-meaning-making-emancipatory-immersion.md) — related
+- [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](young-children-collaborative-gestures-mr-science.md) — related

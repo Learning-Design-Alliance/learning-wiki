@@ -121,3 +121,9 @@ Open questions include how summarization compares with other generative strategi
 - [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
 - [Well-organized texts following rhetorical schemata are better remembered than disorganized texts, and high-structure information is more likely to be recalled](organized-text-high-structure-recall-advantage.md) — related
+- [Group A scored higher than the other groups on Knowledge Quality of collaborative summary notes, with effect sizes of at least 0.7](group-a-knowledge-quality-highest.md) — related
+- [Expert revisers' improvements are inconsistent across texts, with only signaling-structure strategies reliably corresponding to improved retention](expert-revisers-strategies-inconsistent-signaling-works.md) — related
+- [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related
+- [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](revise-summary-compliance-predicts-learning-gains.md) — related
+- [Compliance with MetaTutor's summarize, stay-on-subgoal, move-to-next-subgoal, and open-diagram prompts shows no significant effect on learning gains](no-learning-effect-for-four-explicit-srl-prompts.md) — related
+- [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — a broader claim this one bears on

@@ -55,3 +55,7 @@ The brief's own summary of its research finding states that "test effort differs
 - [Among students with the same high grades, ACT scores differ substantially by race/ethnicity, a pattern the report flags as possible racial bias](act-score-gaps-by-race-at-same-gpa.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [ACT scores show significant subgroup misprediction by race, ethnicity, and gender that HSGPA models do not, and school-level variance is smaller among students with the same ACT score than the same HSGPA](act-subgroup-misprediction-and-school-variance.md) — related
+- [Disengaged test-taking rates varied greatly by subgroup, grade, and term in this sample](disengagement-rates-vary-subgroup-grade-term.md) — a narrower finding that bears on this claim
+- [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](mastery-platform-effects-uniform-across-demographics.md) — related
+- [Student self-reports of effort, social well-being, and math instruction do not explain the gender grade difference](survey-self-reports-do-not-explain-gender-grade-gap.md) — related
+- [Subgroup score differences largely reflect differing opportunities to learn, not inherent group traits](subgroup-differences-reflect-opportunities-to-learn.md) — related

@@ -45,3 +45,4 @@ Descriptive statistics from the rescoring analysis (Table 3.3) reporting how man
 ## Related Claims
 - [Rescoring with new item parameters changed average ability estimates negligibly, with new and original scores correlated above 0.99](drift-impact-ability-estimates-negligible.md) — related
 - [Average drift in MAP Growth item difficulty estimates is negligible across subjects, with original-new correlations above 0.99](map-growth-average-difficulty-drift-negligible.md) — related
+- [Both item-level and test-level analyses indicate the MAP Growth measurement scales are remaining stable](map-growth-scales-remaining-stable.md) — related

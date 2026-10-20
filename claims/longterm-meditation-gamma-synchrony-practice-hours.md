@@ -45,3 +45,4 @@ Narrative review synthesis of EEG studies; the review reports, citing Lutz et al
 ## Related Claims
 - [Meditation expertise follows an inverted-U: moderate practice hours show greater attention-network activation than novices, while very high hours show reduced activation](meditation-expertise-inverted-u-neural-efficiency.md) — related
 - [Experienced meditators show reduced default mode network activation with enhanced PCC–dorsolateral PFC connectivity during meditation](meditation-dmn-reduction-pcc-dlpfc-connectivity.md) — related
+- [Deliberate practice research is largely correlational with large unexplained variability in accumulated practice hours](deliberate-practice-correlational-limits.md) — related

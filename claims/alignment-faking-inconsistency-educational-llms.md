@@ -45,3 +45,6 @@ Deception evaluation applying the Alignment Faking methodology with 100 samples 
 ## Related Claims
 - [Frontier-model choice affects LecturaAgents performance, with Gemini 3 Pro ranking first at 80.4% AAR](lecturaagents-frontier-model-evaluation-aar.md) — related
 - [Frontier agents exhibit three distinct behavioral phenotypes—read-first, execute-first, and minimalist—differing in efficiency and safety](three-agent-behavioral-phenotypes-academiclaw.md) — related
+- [Content knowledge and pedagogical knowledge dissociate in frontier LLMs; Claude-Opus-4.5 shows a 19.8 percentage point gap (66.3% content vs. 86.1% pedagogical)](content-pedagogical-knowledge-dissociation-llms.md) — related
+- [Hint-based prompts raise ChatGPT scoring agreement with human experts to 98–100%, while no-hint prompts are unstable (Q2 precision 0.42)](hint-prompts-raise-llm-scoring-agreement.md) — related
+- [BEAGLE generalizes across tasks and LLM backbones: on the out-of-distribution Gradient Descent task it still shrinks DKL by ≥3×, raises error recurrence to ≥79%, and improves all three perceptual scores](beagle-cross-task-cross-backbone-generalization.md) — related

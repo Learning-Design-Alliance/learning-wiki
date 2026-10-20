@@ -69,3 +69,8 @@ Washington interviews. A child welfare agency administrator reports that formal 
 - Inconsistent and insufficient data make it difficult to measure California's ECE investment and unmet demand, including no unique child identifier and no centralized waiting list — related
 - [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related
 - [Instruments show conceptual inconsistency: the same terms label different competence aspects, and disciplinary origin does not significantly correlate with definition or terminology choice](inconsistent-terminology-competence-aspects-autism-instruments.md) — related
+- [BTA implementation data are often partial, inconsistent, or unreliable, hindering accountability at scale](bta-data-collection-inconsistent-texas.md) — related
+- [A partnership developed an approach for identifying at-risk students using school data linked with child welfare, justice, human services, and public benefits data.](linked-school-human-services-data-identify-near-term-academic-risk.md) — related
+- [Direct service providers and statewide nonprofits play indispensable connector roles between youth needs and policy in both states](direct-service-providers-connectors-hmy.md) — related
+- [California's ECE data collection is fragmented and unaggregated, limiting its utility for improving the system](california-ece-fragmented-data-systems.md) — related
+- [Public schools in the NAZ Zone identified 25 percent of students as homeless or highly mobile in 2008-2009](naz-schools-25-percent-homeless-highly-mobile.md) — related

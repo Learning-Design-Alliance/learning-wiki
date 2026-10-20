@@ -51,3 +51,4 @@ Qualitative video-graph comparison of thematic episodes across 11 groups' transc
 - [Scaffolded ill-structured tasks elicit a higher proportion of solution-evaluation (P4) turns and a lower proportion of problem-solving (P3) turns than non-scaffolded tasks](scaffolds-shift-cps-turn-proportions-p3-p4.md) — related
 - [Explicit scaffolding prompts elicited P1 (exploring) and P2 (planning) engagement at task start that groups did not show on the non-scaffolded task](scaffolds-prompt-p1-p2-engagement-at-start.md) — related
 - [Video dataset of 111 hours across one year underpins a 350-minute two-group episode analysis](makerspace-video-dataset-111hours-350min.md)
+- [Groups' final solution scores were significantly higher on the scaffolded task than the non-scaffolded task](scaffolds-higher-final-solution-scores.md) — related

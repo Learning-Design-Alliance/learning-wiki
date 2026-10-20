@@ -49,3 +49,7 @@ This is a conceptual/definitional statement in the review's section on capturing
 - One teacher shifted testing and preparation practices after the student conversations, reportedly resulting in improvements on tests — related
 - [Effective AI use positively influences sustainable learning performance](effective-ai-use-improves-sustainable-learning-performance.md) — related
 - [Good learners do not always adhere to established practice principles; low contextual interference can still produce good learning](good-learners-violate-practice-principles.md)
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
+- [The retention gap persisted at 48 hours with no differential forgetting between groups (39% vs 52%)](chatgpt-lower-48h-retention-no-differential-forgetting.md) — related
+- [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — related

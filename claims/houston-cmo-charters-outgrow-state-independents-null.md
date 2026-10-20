@@ -49,3 +49,4 @@ Charter subsector analysis table, 2018-19. CMOs vs. state average is significant
 - [Newark CMO-affiliated charters outgrew the state average in both subjects, while independent charters did so only in math](newark-cmo-vs-independent-charter-growth.md) — related
 - [Houston students made significantly greater math growth than the state average in 2018-19, but reading growth was not significantly different](houston-overall-growth-2018-19-math-positive-reading-null.md) — related
 - [Students in poverty in Houston charter schools outperformed district-school students in poverty in both subjects](houston-poverty-charter-beats-district-both-subjects.md) — related
+- [Houston charter school students outperformed Houston other district school students in both reading and math in 2018-19](houston-charter-beats-district-reading-and-math-2018-19.md) — related

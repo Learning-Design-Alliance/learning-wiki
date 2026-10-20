@@ -50,3 +50,4 @@ In the promising-practice account of disaggregating data by student identity cha
 - [Only equity visualizations disaggregated by race/ethnicity and gender prompted teachers to reflect on how race/ethnicity or gender may impact student classroom experiences](equity-visualizations-prompt-equity-reflections.md) — related
 - [Continuous improvement can fall short when it becomes a compliance-based checklist activity detached from purpose and equity](ci-compliance-activity-undermines-equity.md) — related
 - Utah's LQ indicator shifted school data conversations toward disaggregated growth of struggling students — related
+- [RPP workshops on concrete equity mechanisms influenced instructor practice within one term](rpp-equity-workshops-influenced-instructor-practice.md) — related

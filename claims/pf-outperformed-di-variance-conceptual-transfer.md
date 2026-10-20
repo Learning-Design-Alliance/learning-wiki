@@ -48,3 +48,10 @@ Classroom-based study with 9th-grade students learning the concept of variance; 
 - [PF students did not outperform DI students when learning social science research methods in two quasi-experimental studies with 10th graders, failing to replicate the STEM-domain PF effect](pf-effect-not-replicated-non-stem-research-methods.md) — reports the opposite
 - [No significant differences among PF, VF-high, VF-low, and DI conditions on procedural knowledge acquisition](no-condition-effect-procedural-knowledge.md) — related
 - [Productive failure before instruction outperforms instruction followed by problem-solving](productive-failure-before-instruction-strong-effect.md) — a broader claim this one bears on
+- [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
+- [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](vf-high-as-effective-as-pf.md) — related
+- [Students observing high-diversity vicarious failure (VF-high) significantly outperform students in VF-low and DI conditions on conceptual knowledge](vf-high-outperforms-vf-low-and-di-conceptual.md) — related
+- [Diversity of student-generated representations and solution methods is significantly correlated with learning from PF](rsm-diversity-correlates-with-pf-learning.md) — related
+- [Instruction before problem solving leads students to generate fewer but higher-quality solution attempts than problem solving before instruction](instruction-first-fewer-better-solution-attempts.md) — related
+- [The teacher-conference problem met the sweet spot of complexity: 10th graders generated solution ideas containing the targeted errors without solving the problem canonically](pf-problem-sweet-spot-complexity-pilot-tests.md) — related
+- [Of eight PF-similar studies of problem solving prior to instruction in non-STEM or domain-general settings, only Schwartz and Bransford (1998) found a positive learning effect](pf-similar-studies-mostly-null-negative.md) — related

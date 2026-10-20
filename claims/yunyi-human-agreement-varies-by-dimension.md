@@ -69,3 +69,4 @@ Dimension-level agreement on the 40 pilot recordings was strongest for logical c
 - [LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions](ai-expert-agreement-cognitive-versus-subjective-dimensions.md) — related
 - [Grammatical Accuracy is the most stable and objective scoring dimension for LLMs, while Task Response is the most challenging](grammatical-accuracy-most-stable-llm-scoring-dimension.md) — a narrower finding that bears on this claim
 - [Students were reasonably accurate overall across the nine scored interview questions (M = 6.17, SD = 2.12), with accuracy varying by question type](overall-interview-accuracy-reasonable.md) — related
+- [Human ratings and automated metrics converge on coherence and temporal alignment as the dimensions most enhanced by the dual gatekeeping pipeline](dual-evaluation-convergence-coherence-temporal.md) — related

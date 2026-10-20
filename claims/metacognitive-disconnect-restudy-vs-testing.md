@@ -45,3 +45,4 @@ The review's synthesis of cited studies (e.g., Karpicke & Roediger, 2008; Kornel
 ## Related Claims
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — a broader claim this one bears on
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
+- [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related

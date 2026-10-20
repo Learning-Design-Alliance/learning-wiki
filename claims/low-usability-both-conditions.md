@@ -52,3 +52,4 @@ System Usability Scale ratings in the 42-student experiment: Mindful M=55.56 (D 
 - [Special-education practitioners rated AdaptED Stories as strongly usable, with a mean SUS score of 86.8 corresponding to an A grade](adapted-stories-high-sus-usability-practitioners.md) — related
 - [Students rated the usability of the AIvaluate assessment in the SUS 'good' range](aivaluate-sus-usability-good-range.md) — related
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — reports the opposite
+- [Both systems were usable with no significant differences in technical difficulties, practicality, or reading of messages](anchored-vs-forum-usability-comparable.md) — related

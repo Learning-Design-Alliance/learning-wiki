@@ -47,3 +47,4 @@ Full-sample adjusted OLS regression (Table 4) predicting satisfaction from self-
 - [Students with the best self-taught understanding of how language models work used AI tools most deliberately and achieved the highest assignment scores](self-taught-model-understanding-highest-scores.md) — related
 - [Students with a better understanding of how AI systems work show higher academic self-efficacy](ai-understanding-higher-self-efficacy.md) — related
 - [Overall L2 motivation is a significant positive predictor of L2 self-efficacy among Iranian EFL learners](l2-motivation-predicts-self-efficacy.md) — related
+- [Acceptance scores are broadly held across learner characteristics, with frequency of use the only significant and weak predictor](acceptance-frequency-of-use-weak-predictor.md) — reports the opposite

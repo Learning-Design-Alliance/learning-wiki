@@ -45,3 +45,6 @@ Logistic regression in the 2×2 between-subject vignette study with 177 preservi
 ## Related Claims
 
 - [Preservice teachers judged the ethnic minority student more negatively than the ethnic majority student on parental support, achievement, and working behavior](ethnic-minority-student-judged-more-negatively-study1.md)
+- [Preservice teachers chose the easy video significantly more often for an ethnic minority student than for an ethnic majority student, all other information being equal](ethnic-minority-student-given-easy-video-study1.md) — reports the opposite
+- [Path analysis showed material choice reasons tracked attributions: text was chosen for perceived high ability and effort, video for low evaluations of both](attribution-paths-material-choice-study2.md) — related
+- [Simply inserting a name indicating Turkish-origin background produced less favorable judgments of otherwise identical student descriptions](name-activates-ethnic-stereotyping-judgments.md) — related

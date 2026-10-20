@@ -46,3 +46,6 @@ Repeated resampling analysis (100 iterations, matched 120-respondent samples) co
 - [Item-to-factor loading patterns qualitatively differ between human and LLM EFA solutions](human-llm-loading-structures-qualitatively-different.md) — related
 - Parallel analysis yields different factor counts for humans and LLMs on both instruments — related
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
+- [Human-human agreement (average κ = 0.644) was lower than the best LLM-LLM agreement (average κ = 0.856) across constructs](human-human-agreement-lower-than-llm-llm.md) — related
+- [Self-report subscales do not reliably assess distinct metacognitive subcomponents, with structures of two to nine components found across studies](self-report-subcomponents-unreliable.md) — related
+- [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related

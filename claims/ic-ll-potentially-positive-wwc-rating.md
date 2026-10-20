@@ -52,3 +52,4 @@ Systematic WWC synthesis of two studies (one randomized controlled trial, one qu
 - [Growth Mindset interventions have potentially positive effects on postsecondary academic achievement (improvement index +13)](growth-mindset-potentially-positive-academic-achievement-postsecondary.md) — related
 - [The average improvement index for PALS on reading achievement for English language learners is +12 percentile points, ranging from +5 to +25 across findings](pals-potentially-positive-reading-effects-ells.md) — related
 - [The average improvement index for Arthur in English language development is +11 percentile points, ranging from –5 to +17 across findings](arthur-improvement-index-plus-11.md) — related
+- [When implemented alone, neither Literature Logs nor Instructional Conversations produced statistically significant comprehension effects, in contrast to the combined intervention](ic-ll-single-component-effects-nonsignificant.md) — related

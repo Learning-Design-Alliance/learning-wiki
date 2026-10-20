@@ -48,3 +48,4 @@ Authors' interpretive conclusion from the single-participant case study; it offe
 - Conversational interaction may facilitate acquisition of some grammatical structures but not others — related
 - [Rewriting after noticing gaps and comparing to models produced modified output that solved more lexical gaps than grammatical problems](rewriting-solves-more-lexical-gaps.md) — related
 - [While producing L2 paragraphs, an EFL learner's self-noticed problems were overwhelmingly lexical (about 79%) rather than grammatical (about 21%)](output-noticing-predominantly-lexical.md) — related
+- [Comparing original texts to model paragraphs prompted noticing that was again focused on lexical features](model-comparison-noticing-lexical.md) — related

@@ -50,3 +50,5 @@ The Teacher Preparation Quality Grants study used a regression comparing retenti
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related
 - [Kern Urban Teacher Residency graduates are retained at high rates in the partner district, with 92% of its 114 graduates continuing to work in BCSD](kern-urban-92-percent-retention-bcsd.md) — a narrower finding that bears on this claim
 - [Teacher residency program graduates are more racially diverse than other new teachers and much more likely to stay in teaching, especially in sponsoring high-need districts](teacher-residencies-retain-diverse-candidates.md) — related
+- [Students of residency graduates show achievement outcomes comparable to or better than other novices, with gains emerging over time](residency-graduates-student-achievement.md) — related
+- [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — reports the opposite

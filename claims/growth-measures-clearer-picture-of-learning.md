@@ -45,3 +45,5 @@ The study's stated finding is that "growth measures offer a clearer, more accura
 ## Related Claims
 - [Heavy weighting of achievement data in U.S. school evaluation clouds how much learning is actually occurring, particularly in high-poverty communities](achievement-weighting-clouds-learning-high-poverty.md) — related
 - [A K-3 school-level growth measure was estimated and examined, with validity and precision concerns suggesting cautious use for accountability](k3-growth-measure-validity-precision-caution.md) — related
+- [Accurate teacher-student data links are required when high-stakes teacher evaluation decisions include student achievement growth](accurate-teacher-student-links-high-stakes-evaluation.md) — related
+- [Promotion power measures substantially reduce or eliminate the relationship between student poverty and a school's measure of performance](promotion-power-reduces-poverty-performance-link.md) — related

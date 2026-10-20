@@ -67,3 +67,4 @@ The review reports Selman's (1980) finding that IQ correlated with his five deve
 ## Related Claims
 - [Cognitive style shows a weak, measure-dependent relationship with SPT accuracy](cognitive-style-weak-spt-accuracy-relation.md) — related
 - [Unidimensional measurement of SPT leaves the SPT–conflict resolution relationship unclear](unidimensional-spt-measurement-limits-conflict-findings.md) — related
+- [Intellectual style is a way of directing intelligence, not a level of it](style-distinct-from-intelligence-level.md) — related

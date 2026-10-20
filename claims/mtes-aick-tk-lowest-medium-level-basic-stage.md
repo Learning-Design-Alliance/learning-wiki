@@ -48,3 +48,6 @@ Descriptive statistical analysis of the post-test survey of 412 MTES from seven 
 - [Teaching beliefs are negatively associated with AI-TCK and AI-TPK and show no significant effect on AI-TK, suggesting excessive teaching beliefs may impede AI-TPACK advancement](teaching-beliefs-negative-aick.md) — related
 - [Among AI-TPACK dimensions, all except AI technological knowledge and integrative AI-TPACK are significantly and positively associated with college teachers' AI teaching innovation behavior](ai-tpack-dimensions-associated-with-ai-teaching-innovation-behavior.md) — related
 - [AI-TK contributes to AI-TPACK only indirectly through AI-TPK and AI-TCK, which positively predict AI-TPACK](ai-tk-indirect-path-aick.md) — related
+- [Pre-service teachers' innovative competence is at a medium-to-high level, with innovation practice the lowest subdimension](preservice-innovative-competence-medium-high-practice-lowest.md) — related
+- [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](faculty-high-traditional-low-technology-integrated-genai-knowledge.md) — related
+- [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related

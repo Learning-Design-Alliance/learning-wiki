@@ -43,4 +43,4 @@ Hierarchical multiple regression with essay scores as dependent variable (n = 52
 
 
 ## Related Claims
--
+- [Knowledge-building portfolio scores correlated with database participation, explanation quality, and conceptual understanding](portfolio-scores-correlate-participation-understanding.md) — related

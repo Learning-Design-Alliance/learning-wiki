@@ -67,3 +67,6 @@ The review attributes this long-term finding to a second reanalysis of the same 
 - [Teacher impacts on Black students' test scores vary widely, from 0.2 standard deviations in middle school English to 0.5 standard deviations in elementary school math between high- and low-effectiveness teachers](teacher-effectiveness-black-students-varies-widely.md) — related
 - Teacher effects are cumulative and long-lived: sequences of effective versus ineffective teachers produce vastly different fifth-grade math outcomes in Tennessee — related
 - Teacher-student racial match benefits students, including lower dropout and higher college enrollment for Black students — related
+- [Having a teacher highly effective for Black students shows no detrimental effect on non-Black students' test scores](no-detrimental-effect-non-black-students.md) — related
+- [Students of color show fewer absences and less exclusionary discipline when taught by race-matched teachers](race-matched-teacher-discipline-absence-benefits.md) — related
+- [Race-specific value-added scores predict teachers' subsequent effects: Black students taught by a teacher with high prior effectiveness for Black students show gains of about one standard deviation when the teacher moves schools or grades](race-specific-value-add-predicts-subsequent-effects.md) — related

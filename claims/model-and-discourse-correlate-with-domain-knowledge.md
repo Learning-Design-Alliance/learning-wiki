@@ -48,3 +48,6 @@ Correlational analysis (RQ2) among domain knowledge, discourse scores, and model
 ## Related Claims
 - [Systems thinking discourse shifted away from lower-level moves toward higher-level interconnections and feedback moves across the KBM unit](systems-thinking-discourse-shift-toward-higher-level-moves.md) — related
 - [Grade 5 students in a KBM environment significantly increased their Earth Science domain knowledge from pretest to post-test](kbm-domain-knowledge-gains-earth-science.md) — related
+- [Qualitative analysis identified three mediating processes in KBM: discourse-driven idea improvement, analytics-supported meta-reflection, and model construction for system refinement](kbm-three-mediating-processes.md) — related
+- [Identifying interconnections and feedback is the most universally reported systems thinking aspect, proposed by all 27 reviewed manuscripts](st3-feedback-universal-across-st-literature.md) — related
+- [Student model sophistication increased significantly across successive iterations during the KBM unit](kbm-model-sophistication-iterated-gains.md) — related

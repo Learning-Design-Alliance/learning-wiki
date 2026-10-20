@@ -47,3 +47,4 @@ School-level randomized trials in NYC (fourth and seventh graders paid for inter
 - [Paying second-grade students to read books increases reading comprehension by roughly 0.18–0.25 standard deviations in Dallas](dallas-reading-incentive-comprehension-gains.md) — related
 - [After three years of Teacher Incentive Fund implementation, pay-for-performance bonuses had small positive impacts on student math and reading achievement in ten evaluation districts](tif-pay-for-performance-small-positive-achievement-impacts.md) — related
 - [Paying middle-school students for attendance, behavior, uniforms, and homework yields marginally significant reading gains and non-significant math gains in Washington, DC](dc-input-incentives-marginal-reading-gains.md) — related
+- [Input-based incentives produce achievement gains at lower cost than major education reforms of recent decades](input-incentives-cost-effective-comparison.md) — related

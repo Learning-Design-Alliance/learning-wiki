@@ -59,3 +59,5 @@ Descriptive analysis of pooled 2017–19 California Healthy Kids Survey response
 - [Equalizing perceived supports and safety would reduce gay/lesbian/bisexual versus straight disparities in connectedness by 90-100 percent and other disparities by half](supports-safety-account-orientation-disparities.md) — related
 - [Youth-led action research found that many California high school students did not feel cared for by adults at school](youth-survey-adult-care-deficit.md) — related
 - [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](individual-difference-themes-school-belonging.md) — related
+- [Qualitative research shows resource fit—safety and financial resources—shapes marginalized students' sense of belonging](resource-fit-qualitative-belonging.md) — related
+- [The percentage of secondary students reporting high school connectedness on the CHKS increased from 32 percent to 36 percent](cal-well-dnusd-student-school-connectedness-increase.md) — related

@@ -43,4 +43,5 @@ A key finding stated by the authors, hedged with "might work best," asserting th
 
 
 ## Related Claims
--
+- [The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership](cbsl-pilot-capacity-building-approach.md) — related
+- [A pilot initiative partnered Mathematica and Catalyst:Ed with the Gates Foundation and nine K-12 education grantees to build strategic learning capacity from May 2020 to September 2021](cbsl-pilot-nine-grantees-partnership.md) — related

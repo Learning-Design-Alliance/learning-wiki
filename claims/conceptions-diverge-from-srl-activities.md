@@ -45,3 +45,6 @@ The commentary reports Loyens and colleagues' self-report questionnaire study re
 ## Related Claims
 
 - [Self-reports of achievement goal orientations diverge markedly from traced goal orientations, which predict reading achievement while self-reports do not](goal-orientation-self-reports-diverge-from-traces.md)
+- [Conceptions of self-regulated learning had small, non-significant relationships with actual reported self-regulation activities](srl-conceptions-nonsignificant-with-reported-srl.md) — possibly the same claim (merge candidate)
+- [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies](conceptions-constructivist-learning-relate-to-regulation-processing.md) — a broader claim this one bears on
+- [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies, and doubting students risk inadequate regulation](loyens-conceptions-relate-strategies.md) — a broader claim this one bears on

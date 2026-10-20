@@ -45,3 +45,5 @@ Review's account (Section 3.5.3) of one quasi-experimental mixed-method interven
 ## Related Claims
 - [Extended chatbot use produced dose-dependent increases in loneliness and emotional dependence alongside lower socialisation (review attribution)](chatbot-use-dose-dependent-loneliness.md) — reports the opposite
 - [The effectiveness of home visiting and befriending schemes for social isolation and loneliness among older people remains unclear](home-visiting-befriending-effectiveness-unclear.md) — related
+- [Evidence for sustained or clinically meaningful outcomes of AI chatbot coaching is mixed and does not guarantee improvement across outcomes](sustained-clinical-outcomes-mixed-ai-coaching.md) — related
+- [One-to-one social support, advice and information, or health-needs assessment interventions were largely ineffective at reducing social isolation and loneliness among older people](one-to-one-support-interventions-ineffective-older-people-isolation.md) — related

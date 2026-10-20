@@ -48,3 +48,5 @@ Within-subject experiment testing hypothesis 1b with point-biserial rank correla
 - [Learners converge toward an unknown other's assumptions after seeing the other's answers and confidence, reducing the distance between their own and the partner's answers](convergence-toward-others-assumptions.md) — related
 - [Learners change the direction of their assumptions more often to agree with a partner than to disagree](direction-change-more-often-to-agree.md) — related
 - [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](partner-confidence-no-effect-on-change.md) — related
+- [The more confident a learning partner's answers, the more competent the partner is perceived](partner-confidence-raises-perceived-competence.md) — related
+- [Perceived partner competence does not predict how often learners change the direction of their assumptions](perceived-competence-no-impact-on-adjustment.md) — related

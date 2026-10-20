@@ -47,3 +47,4 @@ High school outcomes analysis using the freshman on-track indicator (Figure 8): 
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [School closings had no effect on grade retention rates or special education referrals for displaced students](no-effect-retention-special-education-referrals.md) — related
 - [School closings showed no statistically significant long-term effects on displaced students' reading or math achievement two and three years later](no-long-term-achievement-effects-school-closings.md) — related
+- [Displaced students were less likely to enroll in Summer Bridge the summer after their schools closed](reduced-summer-bridge-enrollment-after-closings.md) — related

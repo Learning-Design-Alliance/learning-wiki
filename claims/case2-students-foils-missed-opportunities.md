@@ -43,4 +43,8 @@ Case 2 discourse analysis at Easley High School: after Joanna called her move "t
 
 
 ## Related Claims
--
+- [In Case 1, sustained self-critique by the focal teacher led colleagues to attribute students' mathematics failure to parenting and parental lack of authority](case1-blame-shifted-from-shitty-teacher-to-parents.md) — related
+- [Common threat-mitigation strategies preceded and failed to prevent deficit narratives, whose introduction followed the failure of mitigation to restore the emotional regime](mitigation-failure-precedes-deficit-narratives.md) — a broader claim this one bears on
+- [Deficit narratives are co-constructed in teacher collegial talk in response to teacher vulnerability under emotional regimes that disallow strong negative emotions](deficit-narratives-arise-from-vulnerability-under-emotional-regimes.md) — a broader claim this one bears on
+- [Strict emotional regimes contribute to the production of vulnerability that can precipitate deficit narratives from asset-oriented teachers](emotional-regimes-vulnerability-deficit-narratives.md) — a broader claim this one bears on
+- [Emotional rules in workplaces can stifle veteran mathematics teachers' epistemic and relational agency and thus their ability to learn](emotional-rules-stifle-teacher-agency.md) — related

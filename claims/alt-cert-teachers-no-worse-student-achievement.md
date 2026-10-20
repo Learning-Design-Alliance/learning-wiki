@@ -62,3 +62,4 @@ Mathematica's random assignment study of alternative routes to teacher certifica
 - [Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States](alternative-certification-one-third-new-teachers.md) — related
 - [Students of TFA teachers did not perform significantly differently from students of other under-certified teachers](tfa-no-different-other-undercertified.md) — related
 - [Students of under-certified teachers made about 20% less academic growth per year than students of regularly certified teachers](undercertified-20-percent-less-growth.md) — reports the opposite
+- [Little is known about teachers certified through alternative certification programs and their experiences after certification](limited-knowledge-alt-cert-teachers-experiences.md) — related

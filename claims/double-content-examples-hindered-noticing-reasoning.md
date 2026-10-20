@@ -48,3 +48,5 @@ Quasi-experimental pre-post study of N = 410 student teachers in online self-stu
 - [Complete and faded double-content examples did not differentially affect student teachers' professional vision](fading-no-differential-effect-pvcm.md) — related
 - [Double-content examples had no significant effect on generating alternatives of action, drawing inferences, or taking multiple perspectives](double-content-examples-no-effect-other-measures.md) — related
 - [The focus-on-students effect was not robust: significant in the ANOVA but not in non-parametric tests](focus-on-students-effect-not-robust.md) — related
+- [Before pedagogical training, prospective university teachers have lower professional vision scores than current faculty teachers](prospective-teachers-lower-professional-vision-pretest.md) — related
+- [Reasoning scores of both prospective and current faculty teachers increased significantly during the short pedagogical training, but noticing did not improve significantly in either group](training-improves-reasoning-not-noticing.md) — related

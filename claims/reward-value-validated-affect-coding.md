@@ -42,3 +42,5 @@ Linear mixed model on affect ratings across reward conditions from 240 children.
 
 ## Related Claims
 - [Go-trial accuracy was lower under reward conditions, an effect mediated by task version and administration order](reward-lowered-go-trial-accuracy-order-dependent.md) — related
+- [Children across three diverse populations expressed more positive emotions during peer collaboration than during individual activity, with the effect strongest among German and weakest among Hai||om children](positive-emotions-during-collaboration-cross-cultural.md) — related
+- [Across populations, children's positive emotional expressions selectively during collaboration predicted their Theory of Mind skills](affect-during-collaboration-predicts-theory-of-mind.md) — related

@@ -43,4 +43,5 @@ Item analysis of the CA-2006 exam (17 items, 69 exam sheets): the TM-SPM mean di
 
 
 ## Related Claims
--
+- [Peer assessment is equivalent to teacher assessment for exact-science exams with clear marking schemes](peer-assessment-valid-exact-science-exams.md) — related
+- [Peers slightly under-mark their comrades' papers while self-assessors over-mark their own](peers-undermark-self-assessors-overmark.md) — related

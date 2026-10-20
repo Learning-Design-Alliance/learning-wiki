@@ -46,3 +46,4 @@ The review attributes to Boaler's program of work (1997, 2003, 2006a; Boaler & S
 
 - [In Railside's detracked, Complex Instruction classrooms, students from diverse racial and ethnic backgrounds pursued higher-level math courses and greater interest over five years](railside-detracked-multidimensional-classroom-outcomes.md)
 - [A practice-framework article reports, citing Boaler and Staples (2008), that students in heterogeneous mathematics classrooms learn more, enjoy mathematics more and reach higher understanding than in streamed settings](heterogeneous-mathematics-classrooms-benefit-students.md) — a broader claim this one bears on
+- [The report attributes to Kieras and Bovair (1984) that device-model instruction improved procedure learning, retention, execution speed, and procedure simplification relative to rote learning](device-model-instruction-aids-procedure-learning-kieras-bovair.md) — related

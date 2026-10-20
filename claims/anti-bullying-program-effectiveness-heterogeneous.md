@@ -55,3 +55,4 @@ Heterogeneity statistics from the same meta-analysis of 100 evaluations, which t
 - [Work with peers in anti-bullying programs is associated with an increase in victimization](peer-work-associated-with-increased-victimization.md) — a narrower finding that bears on this claim
 - [More intensive anti-bullying programs are more effective](more-intensive-anti-bullying-programs-more-effective.md) — a narrower finding that bears on this claim
 - [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](anti-bullying-programs-reduce-bullying-20-23-percent.md) — related
+- [Parent meetings, firm disciplinary methods, and improved playground supervision are program elements associated with decreases in bullying and victimization](parent-meetings-discipline-playground-supervision-reduce-bullying.md) — related

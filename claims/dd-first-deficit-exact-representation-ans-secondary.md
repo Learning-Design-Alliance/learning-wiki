@@ -64,3 +64,5 @@ The article's stated prediction from its hypothesis: while only small and non-si
 - [DD children's deficit in non-symbolic number magnitude processing appears only in studies of older children (10 years and above), not younger ones](dd-nonsymbolic-deficit-appears-later.md) — related
 - [At all ages, children with developmental dyscalculia perform significantly lower than controls in magnitude comparison tasks using symbolic numbers](dd-symbolic-magnitude-comparison-deficit-all-ages.md) — related
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
+- [ANS acuity improves throughout development, from w = 0.525 at age 3 to w = 0.179 at age 6 and w = 0.108 in adulthood](ans-acuity-improves-throughout-development.md) — related
+- [Measures of the magnitude representation (ratio and distance effects) do not discriminate children with DD from matched controls](dd-magnitude-representation-theory-not-supported.md) — related

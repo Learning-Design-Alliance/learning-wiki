@@ -47,3 +47,8 @@ Classification accuracy analysis (Table 3.3) of how well MAP Growth spring RIT c
 - [MAP Growth cut scores at the 30th percentile of national norms best identify Grade K-8 students in need of intensive intervention in reading and mathematics](map-growth-30th-percentile-screening-cut-scores.md) — related
 - [Cross-validation in an independent Indiana sample was consistent with the primary-sample classification accuracy results](map-growth-cut-scores-cross-validation-indiana.md) — related
 - [The dashboard reports median achievement percentiles normed to a nationally representative pre-COVID sample and projected proficiency against state cut scores](dashboard-metrics-percentiles-and-proficiency-projections.md) — related
+- [Proficiency projections estimate the probability of reaching Meets proficiency on the state test from fall, winter, or spring RIT scores](map-growth-proficiency-projections-rit.md) — related
+- [Classification accuracy of the screening cut scores is lower for Grades K-2 than Grades 3-8, attributed to a 12-36 month lapse between MAP Growth and criterion measures](map-growth-screening-accuracy-lower-grades-k-2.md) — related
+- [Linking studies connect MAP Growth scores to state summative proficiency predictions and external measures](map-growth-linking-studies-predictions.md) — a broader claim this one bears on
+- [Linking studies predict proficiency on state summative assessments from MAP Growth scores](map-growth-linking-studies-predict-state-proficiency.md) — a broader claim this one bears on
+- [MAP Growth state-test correlations exceed 0.8 for most Grade 3-8 concurrent indices, with mathematics correlations higher than reading](map-growth-criterion-validity-correlations-state-tests.md) — related

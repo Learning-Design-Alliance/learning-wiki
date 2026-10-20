@@ -52,3 +52,6 @@ Lottery-based study of students who entered admission lotteries at 31 charter mi
 - [A long-term tracking study follows 1,177 students who applied to 13 oversubscribed KIPP middle schools through 5th or 6th grade admissions lotteries in 2008 or 2009 to examine college enrollment and early college persistence.](kipp-middle-school-long-term-tracking-1177-lottery-applicants.md) — related
 - [Enrolling at a KIPP middle school is associated with a 12.9 percentage-point higher rate of college enrollment](kipp-middle-enrollment-twelve-point-nine-college-impact.md) — related
 - [KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer](kipp-middle-offer-similar-graduation-on-track.md) — related
+- [Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation](oversubscribed-charter-middle-schools-prevalence.md) — related
+- [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — related
+- [KIPP middle school admission offers had a positive but statistically non-significant effect on enrollment in four-year college programs](kipp-middle-offer-nonsignificant-four-year-enrollment.md) — related

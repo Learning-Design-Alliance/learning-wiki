@@ -96,3 +96,5 @@ Newmann, Bryk, and Nagaoka analyzed about 2,000 assignments and standardized tes
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related
 - [Interactive instruction is positively associated with one-year achievement gains in reading and mathematics in Chicago elementary schools](interactive-instruction-positive-achievement-gains-chicago.md) — related
 - [Assignments teachers designated as challenging tended to score higher on intellectual quality than typical assignments](challenging-assignments-score-higher-than-typical.md) — related
+- [The report cites research evidence that students exposed to authentic intellectual challenges are more engaged than students given conventional schoolwork](authentic-challenges-increase-engagement.md) — related
+- [Intellectually Ambitious Instruction Is Associated with Improved Student Learning Across Populations](intellectually-ambitious-instruction-improves-learning.md) — a broader claim this one bears on

@@ -44,3 +44,6 @@ Narrative review of research on novice historical understanding (citing National
 
 ## Related Claims
 - Collingwood argues historical knowledge differs from natural-science knowledge because historical events have both an observable 'outside' and an unobservable 'inside' of thought — related
+- [British empirical research concluded that students do not naturally progress in historical understanding with age but progress because of targeted instruction designed to support it](targeted-instruction-drives-historical-thinking-progression.md) — related
+- [Collingwood's ideas about how historical knowledge is produced offer teachers sound reasons for using constructivist approaches in their classrooms](collingwood-supports-constructivist-history-teaching.md) — related
+- [Imagining (imagined past self) may give learners a greater feeling of entry into a historical situation than hypothesizing](imagined-past-self-greater-entry.md) — related

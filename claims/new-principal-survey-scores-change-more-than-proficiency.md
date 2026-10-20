@@ -46,3 +46,4 @@ Observational comparison at principal changes found Insight survey domain scores
 - [Insight survey domain averages are more stable across years when a school keeps the same leader, suggesting principals affect these measures](insight-domain-stability-same-leader.md) — related
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
 - [Staff feedback from teacher surveys can serve as evidence in evaluating school leaders' performance](staff-feedback-teacher-surveys-principal-evaluation.md) — related
+- [Most teacher survey domains and scales used by DCPS meaningfully differentiate among schools](teacher-survey-domains-differentiate-among-schools.md) — related

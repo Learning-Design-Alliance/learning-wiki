@@ -48,3 +48,5 @@ The evaluation weighed average days suspended against the extra instructional ti
 - [Kauffman students had higher attendance rates and were less likely to be suspended than similar Kansas City students](kauffman-students-higher-attendance-lower-suspension.md) — related
 - [Kauffman students were less likely to be suspended than other similar students in Kansas City](kauffman-students-less-likely-suspended.md) — related
 - [Kauffman students had higher attendance rates than other similar students in Kansas City](kauffman-students-higher-attendance-rates.md) — related
+- [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related
+- [Policy decisions such as shortening or extending the school year depend on accurate within-year learning estimates](school-year-policy-depends-on-growth-estimates.md) — related

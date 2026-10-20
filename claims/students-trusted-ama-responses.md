@@ -46,3 +46,4 @@ In the post-survey question "Do you trust AMA responses?", "The students trusted
 - [Children were split about confiding in the chatbot, with about half willing to share secrets or ask advice and half not](children-split-on-confiding-in-chatbot.md) — related
 - [Some children in a K-8 school study used a 'trust test' strategy, asking a chatbot questions they already knew the answers to, to evaluate it as a credible information source](children-trust-test-chatbot-with-known-answers.md) — related
 - [Children described the chatbot in five themes — knowledge, utility, fun, smart, and limitations — and showed varied, partial understanding of how it works](children-describe-chatbot-five-themes.md) — related
+- [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related

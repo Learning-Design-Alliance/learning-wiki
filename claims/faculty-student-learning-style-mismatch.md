@@ -46,3 +46,4 @@ T-tests comparing faculty ideal LSI scores to student LSI scores by division (Ta
 ## Related Claims
 - [Student learning styles differ significantly by department, particularly on Concrete Experience and Abstract Conceptualization](student-learning-style-department-differences.md) — related
 - [Faculty across departments describe the same ideal learning style for students](faculty-uniform-ideal-learning-style.md) — related
+- [Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics](student-faculty-subject-matter-mismatch.md) — related

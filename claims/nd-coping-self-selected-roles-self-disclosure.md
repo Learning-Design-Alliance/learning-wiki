@@ -71,3 +71,5 @@ Same interview study: participants with strong expectations for how work is done
 - [When coping methods fail, neurodivergent students report avoiding socialization and courses requiring public presentations](nd-coping-failure-avoidance-public-presentations.md) — related
 - [50% of neurodivergent students report some discomfort with semester-long teams compared to 22% of neurotypical students](nd-semester-long-team-discomfort.md) — related
 - [Interviewed students described active classrooms as disjointed and frustrating and preferred the fluent passive lecture](interviews-active-classrooms-disjointed-frustrating.md) — related
+- [ND and NT students both prefer some instructor involvement and in-person collaboration over fully student-directed and online collaboration](nd-nt-prefer-some-instructor-involvement-in-person.md) — related
+- [Neurodivergent students prefer teams of 3–5 students while neurotypical students most prefer teams of 2](nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) — related

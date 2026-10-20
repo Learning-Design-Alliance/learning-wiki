@@ -50,3 +50,5 @@ Repeated-measures ANOVA on the MSLQ self-efficacy scale administered in the stan
 - [Continuing prompts long-term in learning journals confers no additional benefit: self-reported strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions, while the quantity of cognitive strategy use in the journals stays stable](long-term-prompting-no-added-benefit-declines-regardless.md) — related
 - [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](self-efficacy-predicts-exam-grades-strategy-use-does-not.md) — related
 - [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](short-term-journal-prompts-increase-metacognitive-strategy-use.md) — related
+- [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
+- [Short-term creativity interventions can be effective in changing creativity positively](short-term-interventions-change-creativity.md) — related

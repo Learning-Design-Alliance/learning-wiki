@@ -45,3 +45,4 @@ The Background section's quality discussion contrasts the two largest federal pr
 ## Related Claims
 - [California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children](california-ece-uneven-quality-standards.md) — related
 - [U.S. ECE governance is fragmented across multiple federal and state agencies, creating an incoherent patchwork of programs](ece-governance-fragmented-multi-agency.md) — a broader claim this one bears on
+- [California's ECE programs vary widely in teacher qualifications, staff-to-child ratios, and curriculum requirements, creating programs of varying quality](california-ece-quality-standards-inconsistent-three-aspects.md) — related

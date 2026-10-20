@@ -65,3 +65,5 @@ Same three-group comparison of creativity measures. The ADHD group showed "a red
 - [Adults with ADHD report more real-world creative achievements than healthy controls](adhd-more-real-world-creative-achievements.md) — related
 - [A widened attentional focus of the kind associated with ADHD has been postulated to accompany enhanced creative ability](widened-attentional-focus-postulated-creativity-link.md) — a broader claim this one bears on
 - [Adults with ADHD rate themselves as more creative in the performance and mechanical/scientific domains](adhd-domain-specific-self-perceived-creativity.md) — related
+- [Medication use does not affect creativity measures in adults with ADHD](no-medication-effect-on-creativity-adhd.md) — related
+- [Adults with ADHD select fewer useful problem reconstructions than controls, with equal originality](adhd-less-useful-problem-reconstruction.md) — related

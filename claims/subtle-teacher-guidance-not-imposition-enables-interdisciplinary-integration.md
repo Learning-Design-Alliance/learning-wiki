@@ -65,3 +65,6 @@ The mechanism is illustrated through two carefully transcribed, representative e
 - [After a dialogic-focused professional development intervention, mathematics teachers noticed student dialogue significantly more, in both attending (83 to 170 cases) and responding (24 to 71 cases)](pd-intervention-increases-teacher-dialogue-noticing.md) — related
 - [Teachers' instructional moves of attuning to, acknowledging, repeating and selectively picking up on student contributions appear to enable students to develop increasingly complex understandings of life skills concepts.](instructional-moves-enable-complex-understandings-life-skills-concepts.md) — related
 - [A single student's open question can trigger dissolution of a non-dialogic network and autonomous dialogic argumentation](student-question-triggers-dialogic-network.md) — related
+- [Video dataset of 111 hours across one year underpins a 350-minute two-group episode analysis](makerspace-video-dataset-111hours-350min.md) — related
+- [Classroom observations revealed subtle but decisive teaching differences correlated with the difference in learning outcomes](observed-classroom-differences-correlated-with-outcomes.md) — related
+- [Teachers rated ChatGPT as effective for interdisciplinary integration, with 61% giving ratings of 4 or above](chatgpt-supports-interdisciplinary-integration-ratings.md) — related

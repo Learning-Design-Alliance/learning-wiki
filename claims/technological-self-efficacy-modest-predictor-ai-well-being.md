@@ -48,3 +48,6 @@ SEM path estimate from Results §4.2 of the same 502-faculty survey. The article
 ## Related Claims
 - [AI literacy is the strongest predictor of faculty AI well-being in the structural model](ai-literacy-strongest-predictor-of-ai-well-being.md) — related
 - [Social and organizational support relate to AI well-being indirectly through AI literacy and technological self-efficacy](dual-mediation-support-to-ai-well-being.md) — related
+- [Organizational support positively predicts both AI literacy and technological self-efficacy among university faculty](organizational-support-predicts-ai-literacy-and-self-efficacy.md) — related
+- [Perceived social support positively predicts both AI literacy and technological self-efficacy among university faculty](social-support-predicts-ai-literacy-and-self-efficacy-faculty.md) — related
+- [ANN analysis identifies AI learning self-efficacy and perceived usefulness as the strongest and most stable predictors of AI learning anxiety, with only modest advantage over linear benchmarks](ann-appraisals-strongest-anxiety-predictors.md) — related

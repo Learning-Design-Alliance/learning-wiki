@@ -46,3 +46,4 @@ District-collected service delivery counts for the 2024–25 school year, report
 - [From 2019 through 2023, Cohort 2 LEAs reported 13,262 students received mental health services after a referral](cal-well-13262-students-received-services.md) — related
 - [From fall 2020 through December 2023, 79 percent of the 828 students referred to mental health services in NHUHSD received services from school-based or community-based providers](nhuhsd-79-percent-referred-students-received-services.md) — related
 - [From fall 2020 through December 2023, 78 percent of the 969 students referred to mental health services in PUSD received services](pusd-referred-students-service-access-rate.md) — related
+- [Lynwood Unified's custom dashboards and intervention tools were followed by a decrease in high school D/F rates of over 8% and 593 interventions logged in one year](lynwood-dfi-decrease-intervention-tracking.md) — related

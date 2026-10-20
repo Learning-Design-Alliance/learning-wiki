@@ -49,3 +49,5 @@ Multiple regression on Unit 2 scores, same wait-list crossover design with Teach
 - [Written explanation skills learned in the Unit 1 intervention transferred to a different mathematical concept (functions)](explanation-skill-transfer-across-concepts.md) — related
 - [MLS-WEPs improved the quality of written explanations, with larger gains in fully correct explanations and reduced blank and concept-irrelevant responses](mls-weps-improved-explanation-quality.md) — related
 - [MLS-WEPs intervention predicted higher Unit 1 calculation and explanation scores among English learners when controlling for prior knowledge](mls-weps-improved-unit1-calculation-explanation.md) — related
+- [Effectiveness of the MLS-WEPs intervention generally did not vary by English learners' English proficiency after controlling for prior knowledge](mls-weps-effective-across-proficiency-levels.md) — related
+- [English learners' mathematical performance was positively correlated with English proficiency, more strongly for explanations than calculations](math-performance-correlated-with-proficiency.md) — related

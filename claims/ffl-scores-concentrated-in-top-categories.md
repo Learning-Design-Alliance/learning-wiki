@@ -90,3 +90,7 @@ Score-variation analysis of the 2012/13 pilot, characterizing the percentages of
 - [School leaders who scored higher in one category of FFL leadership practices tended to score higher in the other categories](ffl-practice-categories-correlated.md) — related
 - School leaders who scored higher in one FFL category tended to score higher in the other categories — related
 - [Rating distributions and FFT-VAM relationships were broadly similar across the two pilot phases, though top-two-category ratings decreased somewhat in Pittsburgh](fft-findings-similar-across-pilot-phases-pittsburgh-decline.md) — related
+- [The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders](more-evidence-needed-ffl-validity.md) — related
+- [Performance tasks did little to differentiate teachers, with most receiving high scores and over a third receiving default scores due to missing data](reach-performance-tasks-little-differentiation.md) — related
+- [FFT-based teacher ratings in Pennsylvania's pilot were overwhelmingly concentrated in the top two performance categories, with less than 0.1 percent rated failing](fft-pilot-ratings-concentrated-top-two-categories.md) — related
+- [Principal practice ratings varied across the score range in New Jersey's pilot year, but most principals received ratings of effective or highly effective](nj-pilot-practice-ratings-varied-most-effective.md) — related

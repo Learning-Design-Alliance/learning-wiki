@@ -66,3 +66,9 @@ The review reports a literature review identifying only two studies, both survey
 
 ## Related Claims
 - [There is no evidence that arming school staff improves school safety, and one study found an armed guard present was associated with more deaths in school shootings](arming-staff-no-evidence-of-safety-benefit.md) — related
+- [Common physical and exclusionary safety measures can cause harm to the very students schools are trying to protect](safety-measures-cause-harm-black-brown-youth.md) — a broader claim this one bears on
+- [Two mass shootings exemplify how metal detectors can be insufficient at stopping such attacks](metal-detectors-insufficient-mass-shooting-cases.md) — related
+- [Metal detector use disproportionately affects students of color, who are more likely to pass through detectors daily](metal-detectors-disproportionate-students-of-color.md) — related
+- [Metal detector effectiveness depends heavily on the human element: training, correct operation and functioning equipment](metal-detector-effectiveness-human-element.md) — related
+- [Students report feeling less safe and more likely to perceive violence and disorder in schools with metal detectors](metal-detectors-lower-student-safety-perceptions.md) — related
+- [Available data suggest schools with metal detectors identify more weapons through searches without scanning devices than through scanning](metal-detector-weapon-detection-evidence-weak.md) — related

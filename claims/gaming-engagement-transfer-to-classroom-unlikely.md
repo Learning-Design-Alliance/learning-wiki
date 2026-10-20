@@ -46,3 +46,4 @@ Authors' interpretive conclusion (type e) from the merged qualitative and quanti
 
 - [Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring](optimal-challenge-sustains-gaming-engagement.md)
 - [Players decided to engage in gaming primarily for escapism and fun, social connectivity, and achievement of task-related goals through control](gaming-engagement-decision-factors.md)
+- [Entertainment value of simulation games did not moderate learning relative to comparison instruction](entertainment-value-does-not-moderate-simulation-game-learning.md) — related

@@ -70,3 +70,4 @@ The omnibus main effect of time across all four attitude variables was not signi
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
 - [The effect of extensive reading on reading attitude varied by attitude component, shown by a significant time × attitude interaction (ηp² = .168)](er-time-attitude-interaction-omnibus.md) — a broader claim this one bears on
+- [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related

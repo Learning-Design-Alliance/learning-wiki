@@ -43,4 +43,6 @@ Chi-square analysis of 72 definite selection reasons coded across the 36 think-a
 
 
 ## Related Claims
--
+- [Linguistic selection reasons were uttered most regardless of the selection task, suggesting a default linguistic selection strategy](linguistic-default-selection-strategy.md) — related
+- [Tenth-graders show few signs of global task awareness when selecting text fragments, rarely rereading or deeply processing task instructions](few-signs-global-task-awareness-selection.md) — related
+- [The most prevalent verbalization type was labeling text parts as important without stating any reason for selection](labeling-text-parts-most-prevalent-verbalization.md) — related

@@ -49,3 +49,7 @@ Fisher's exact test on Q7 correctness in the field experiment. The article attri
 - [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — related
 - [ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days](chatgpt-worse-informal-learning-outcome-trend.md) — related
 - [ChatGPT users were significantly less likely to correctly answer a critical-learning question requiring interpretation of a nutrition label](chatgpt-worse-nutrition-label-application-question.md) — related
+- [ChatGPT users began information seeking with narrow, specified queries far more often than Google users](chatgpt-narrow-starting-queries.md) — related
+- [ChatGPT participants experienced meta-cognitive load and frictions, with slightly more unsatisfied endings than Google participants](chatgpt-meta-cognitive-load-unsatisfied-endings.md) — related
+- [Conversational synthesis can hide source plurality behind one voice, weakening verification relative to search](opaque-synthesis-hides-plurality.md) — related
+- [ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information](chatgpt-artifact-over-principle-bias.md) — related

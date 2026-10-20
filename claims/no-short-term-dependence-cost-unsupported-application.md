@@ -45,3 +45,5 @@ Two-way ANOVA (Table 7) on immediate unsupported application — an unseen acade
 - [EAP task performance showed the same directional pattern as reading comprehension but with a weaker Proficiency × Material interaction](eap-task-performance-weaker-interaction.md) — related
 - [The Proficiency × Material interaction on reading comprehension was significant, indicating heterogeneous material effects across proficiency strata](proficiency-material-interaction-reading-comprehension.md) — reports the opposite
 - [Differentiated-AI materials exceeded unified-AI materials on reading comprehension within each proficiency stratum, most strongly for high-proficiency learners (d = 1.40)](within-stratum-differentiated-advantage-reading-comprehension.md) — related
+- [Expert EAP reviewers rated GenAI-generated differentiated materials favorably for academic fidelity, proficiency appropriateness, and teachability](genai-eap-materials-favorable-expert-ratings.md) — related
+- [No significant interaction between condition and pre-test knowledge on learning outcomes in either topic](no-condition-pretest-interaction-we-ps.md) — related

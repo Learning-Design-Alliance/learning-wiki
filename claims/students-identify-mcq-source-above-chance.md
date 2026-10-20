@@ -46,3 +46,4 @@ One-sample t-test across the 39 items of the tablet-based FM exam (60 MCQs) take
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — the general claim this finding bears on, with the studies behind it
 - [Students' recognition did not differ between AI-generated and NLE MCQs](recognition-does-not-differ-ai-vs-nle.md) — related
 - [Recognition was not associated with item difficulty](recognition-not-associated-with-item-difficulty.md) — related
+- [Student-perceived curricular alignment did not differ between AI and NLE MCQs or among ChatGPT, Gemini and NLE](perceived-alignment-does-not-differ-ai-vs-nle.md) — related

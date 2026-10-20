@@ -66,3 +66,4 @@ Quantitative content analysis of think-aloud transcripts coded for effects of in
 
 ## Related Claims
 - [Eleven of twelve students explicitly referred to the dyad partner in their think-aloud utterances during feedback provision or processing](students-explicitly-refer-to-dyad-partner-think-aloud.md) — related
+- [Athletes' personality affects coaches' perceptions of relationship quality, with more difficult personalities linked to lower closeness, commitment and complementarity](athlete-personality-affects-perceived-relationship-quality.md) — related

@@ -45,3 +45,6 @@ Argument in the 'Our Concern with Excellence' section, citing Professor Foshay's
 
 ## Related Claims
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related
+- [Universal college-prep coursework did not prepare more students for college: upper-level math credits and four-year college entrance showed no overall gains](college-prep-all-no-college-gains.md) — related
+- [Reinstating high-stakes testing to measure learning loss narrows the curriculum and does not benefit long-term achievement](high-stakes-testing-narrows-curriculum.md) — related
+- [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related

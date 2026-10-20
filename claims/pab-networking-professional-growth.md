@@ -44,3 +44,5 @@ Interview data from the Impact section. Board members cited a mix of stakeholder
 - [Practitioner Advisory Board members reported learning more about AI and related edtech through their engagement](practitioners-learned-about-ai.md) — related
 - [Limited device access and a six-month engagement constrained some Board members' contributions, with one member reporting expectations were not met](pab-device-access-limitations.md) — related
 - [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](students-lasting-personal-growth-experiences.md) — related
+- [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](role-rotation-perspective-taking-and-challenges.md) — related
+- [All six Practitioner Advisory Board members reported that engaging with Merlyn Mind was a valuable use of their time and that their feedback was taken seriously](pab-engagement-mutually-valued.md) — related

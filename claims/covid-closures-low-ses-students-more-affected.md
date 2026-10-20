@@ -89,3 +89,5 @@ Review synthesis reporting the grade-by-SES interaction from the Australian stud
 - [Within-family fixed-effects analysis estimates the learning-loss gap between educational backgrounds at 60%](within-family-learning-loss-gap-60-percent.md) — possibly the same claim (merge candidate)
 - [Learning losses were 40% larger than average among students in the two lowest parental-education categories](learning-loss-40-percent-larger-low-parental-education.md) — a narrower finding that bears on this claim
 - [Evidence of academic rebounding in 2021-22 appeared across all school-poverty levels](rebounding-across-all-school-poverty-levels.md) — related
+- [Learning loss varied considerably by school, with some schools seeing slides of 10 percentile points or more and others recording no losses or small gains](school-level-variation-in-learning-loss.md) — related
+- [Socio-economic inequality in learning increased during the pandemic for most estimates, across subjects, grades and pandemic stages](covid-learning-inequality-increased-low-ses.md) — a broader claim this one bears on

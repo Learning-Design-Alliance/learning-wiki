@@ -69,3 +69,4 @@ Experiment 3 mixed-factor ANOVA on proportion of not-solvable responses: JOS mai
 - [S JOSs were discriminating but not predictive of later solving success in Experiments 1 and 2](s-jos-not-predictive-of-solving.md) — reports the opposite
 - [Solvable judgments of solvability discriminate solvable from unsolvable anagrams even after excluding already-solved judgments](s-jos-discriminating-after-excluding-as.md) — related
 - [Training improved the predictiveness of AS and NS JOSs but not S JOSs, indicating training increased solving during the JOS task rather than JOS predictiveness](training-improved-as-ns-not-s-jos-predictiveness.md) — related
+- [Free choice of activities increases performance, task interest, and persistence across ages and settings](montessori-free-choice-benefits-learning.md) — related

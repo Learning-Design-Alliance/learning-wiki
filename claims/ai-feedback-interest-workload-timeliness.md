@@ -54,3 +54,5 @@ The authors' characterization of why AI feedback tools have attracted attention 
 - [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — related
 - [Pedagogical considerations and workload reduction potential are additional factors influencing teachers' acceptance of AI-EdTech, beyond trust](pedagogical-considerations-workload-reduction-acceptance-factors.md) — a narrower finding that bears on this claim
 - [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — related
+- [Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale](ai-formative-assessment-capacity-demand.md) — possibly the same claim (merge candidate)
+- [Rubric-based AI feedback allowed teachers to scaffold learning while reducing their workload, per the authors' interpretation](rubric-ai-feedback-scaffolds-and-reduces-workload.md) — a narrower finding that bears on this claim

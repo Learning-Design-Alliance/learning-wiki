@@ -48,3 +48,4 @@ The report's own summary states that "small bonuses can affect behavior but not 
 - [After three years of Teacher Incentive Fund implementation, pay-for-performance bonuses had small positive impacts on student math and reading achievement in ten evaluation districts](tif-pay-for-performance-small-positive-achievement-impacts.md) — related
 - The report's evidence base comprises program documentation, teacher focus groups, and telephone interviews with school officials — related
 - [The program's achievement effects were estimated statewide using nine years of longitudinal math and reading scores from 524 Missouri school districts](missouri-career-ladder-statewide-longitudinal-design.md) — related
+- [Providing educators with performance feedback and offering pay-for-performance bonuses can improve student achievement, with positive cumulative impacts on math or reading in some years](performance-feedback-and-pay-for-performance-improve-achievement.md) — related

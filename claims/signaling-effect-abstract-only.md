@@ -68,3 +68,4 @@ Independent-sample t-test comparing signaled versus non-signaled written text wi
 - [Clear Structure Improves Learning](clear-structure-improves-learning.md) — a broader claim this one bears on
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](spoken-versus-signaled-written-null.md) — related
 - [In one middle-school quasi-experiment on electricity, spoken-text groups outperform written-text groups with both abstract and concrete animation (d = .35)](modality-effect-holds-middle-school-electricity.md) — related
+- [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) — related

@@ -56,3 +56,5 @@ Narrative review attribution covering two studies: Chang et al. (2011) on split-
 - [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) — a broader claim this one bears on
 - [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) — related
 - [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related
+- [Temporal cueing of event boundaries, such as adding key frames to dynamic visualizations, improves posttest performance](temporal-cueing-event-boundaries-improves-learning.md) — related
+- [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — related

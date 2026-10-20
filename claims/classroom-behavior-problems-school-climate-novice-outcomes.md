@@ -48,3 +48,8 @@ Survey analysis of novice CPS teachers examining classroom and school factors. T
 - [High school novices receiving strong levels of broader induction supports were 50 percentage points more likely to plan to remain in their school than those with weak support](strong-supports-50-point-retention-plan-high-school.md) — related
 - [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — related
+- [Comprehensive induction supports keep new teachers in teaching at more than twice the rate of unsupported novices](comprehensive-induction-doubles-novice-retention.md) — related
+- [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related
+- [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — related
+- [Teacher background relates to early experience and retention: male gender, prior work experience, and CPS graduation associate with good elementary experiences, while a master's degree and CPS graduation associate with lower high school retention](teacher-background-experience-retention-associations.md) — related

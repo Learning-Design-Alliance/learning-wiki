@@ -45,3 +45,6 @@ Moderator analyses (univariate and multivariate meta-regressions) identified fou
 ## Related Claims
 
 - [Larger font sizes produce modestly better memory than smaller font sizes, with a small but significant pooled effect](font-size-improves-memory-meta-analytic.md)
+- [JOL-memory dissociation occurs only when font size ranges between very small and intermediate](dissociation-limited-very-small-intermediate-fonts.md) — related
+- [Larger font sizes produce higher judgments of learning than smaller font sizes, with a small-to-moderate pooled effect](font-size-increases-jols-meta-analytic.md) — a broader claim this one bears on
+- [JOLs and memory both increase with font size rather than being completely dissociated](jol-and-memory-concordant-font-size.md) — a broader claim this one bears on

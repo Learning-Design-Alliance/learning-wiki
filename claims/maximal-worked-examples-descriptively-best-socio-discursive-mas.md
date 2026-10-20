@@ -43,4 +43,7 @@ Experiment 2 comparison of adaptable, maximal, and minimal heuristic worked exam
 
 
 ## Related Claims
--
+- [The omnibus ANOVA on total QM score did not reach conventional significance, though a Friedman test suggested an overall difference with no significant pairwise Wilcoxon comparisons](total-qm-score-omnibus-nonsignificant-friedman-significant.md) — related
+- [In Experiment 2, actual regulation of adaptable heuristic worked examples showed no significant correlation with self-regulation skills or MAS outcomes](work-example-adaptation-no-significant-correlations.md) — related
+- [Learner-chosen adaptivity in a collaboration script was feasible as guidance design, but impacted regulatory actions only among students with more advanced self-regulation skills](learner-agency-adaptive-guidance-only-advanced-regulators.md) — related
+- [Effects of collaboration scripts combined with heuristic worked examples on mathematical argumentation skills depend on prior knowledge and working-memory capacity, consistent with a Matthew Effect](script-worked-example-fading-matthew-effect.md) — related

@@ -46,3 +46,4 @@ The study found that "a small amount of rapid-guessing behavior can impact insti
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — a broader claim this one bears on
 - [Disengagement had only minimal impact on school mean performance, proficiency rates, and relative ranking on the state accountability test](disengagement-minimal-impact-school-aggregations.md) — reports the opposite
 - [Differential rapid guessing often resulted in test events with meaningfully distorted item content representation](differential-rapid-guessing-distorts-content-representation.md) — related
+- [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](disengagement-material-individual-summative-scores-minor-aggregations.md) — related

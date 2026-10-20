@@ -45,3 +45,5 @@ Categorical moderator analysis on affirming motivations: teacher reports d = 1.5
 ## Related Claims
 - [Interventions delivered by researchers have larger effects on reading comprehension than interventions delivered by others, mostly teachers](researcher-delivered-larger-comprehension-effects.md) — related
 - [Effects on affirming motivations are larger when total intervention duration is longer and when the share of boys in the sample is higher](duration-and-gender-moderators.md) — related
+- [Interventions that trigger interest have larger effects on affirming motivations and reading comprehension than interventions that do not](interest-triggering-moderator.md) — related
+- [Effects on reading comprehension are larger for primary schoolers than secondary schoolers and larger for typical readers than struggling readers, with no such differences for affirming motivations](comprehension-effects-sample-moderators.md) — related

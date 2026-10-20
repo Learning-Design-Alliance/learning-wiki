@@ -45,3 +45,4 @@ Randomized controlled trial with random block assignment across 39 experimental 
 ## Related Claims
 - [Learning strategies instruction produced no significantly different gains in word reading subskills or oral reading fluency measures than typical adult education instruction](learning-strategies-instruction-no-subskill-gains-ae.md) — related
 - [A large randomized trial found no statistically significant effects of Project CRISS® on standardized grade 5 comprehension measures (James-Burdumy et al., 2009)](project-criss-null-effects-grade5-randomized-trial.md) — related
+- [Pre-test/post-test learning gains showed no significant difference compared to a control group](tapacarp-learning-gain-null-vs-control.md) — a broader claim this one bears on

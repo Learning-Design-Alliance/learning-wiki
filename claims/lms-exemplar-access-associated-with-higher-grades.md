@@ -56,4 +56,6 @@ Narrative review section on analysing exemplars, reporting a second-hand finding
 
 
 ## Related Claims
--
+- [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](trainer-calibration-expected-align-rater-judgments.md) — related
+- [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related
+- [Graded Exemplars Shift an LLM Grader by the Level They Are Marked At](graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at.md) — related

@@ -43,4 +43,6 @@ Learning-curve analysis on QATD2k for the three most frequent KCs (Figure 4): LL
 
 
 ## Related Claims
--
+- [In a qualitative case study, LLMKT adjusts KC mastery estimates using the dialogue's textual content, such as the difficulty of the tutor's question, rather than only prior correctness labels.](llmkt-uses-dialogue-text-to-adjust-kc-mastery-estimates.md) — related
+- [LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent KCs, though overall they mostly resemble the power law of practice when dialogues have sufficient turns.](llmkt-knowledge-change-curves-show-mixed-trends-resembling-power-law-of-practice.md) — related
+- [Case study shows tutor scaffolding lowers estimated task difficulty after errors while student ability rises steadily](case-study-scaffolding-lowers-difficulty-ability-rises.md) — related

@@ -63,3 +63,7 @@ ANCOVA on quality of the best solution attempt (scored on four functional compon
 
 ## Related Claims
 - [In the Bayesian-reasoning problem-solving phase, most students generated only one solution attempt, far fewer than in the original variance study](few-solution-attempts-bayesian-problem-solving.md) — related
+- [Receiving instruction before problem solving improves procedural fluency more than problem solving before instruction when both phases are otherwise identical](instruction-first-better-procedural-fluency.md) — related
+- [Providing contrasting cases reduces the number of solution attempts students generate, both before and after instruction](contrasting-cases-reduce-solution-attempt-quantity.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](pf-outperformed-di-variance-conceptual-transfer.md) — related

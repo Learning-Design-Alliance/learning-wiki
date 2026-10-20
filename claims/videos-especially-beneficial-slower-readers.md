@@ -43,4 +43,6 @@ Percentile comparison of studying rates from the within-subjects screen-recordin
 
 
 ## Related Claims
--
+- [Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments](vplc-assistments-low-performing-significant-gain.md) — related
+- [Achievement-quartile analysis shows the intervention was most effective for students in the 2nd quartile (25th–50th percentiles) of baseline achievement](assistments-quartile-q2-most-effective.md) — related
+- [Fifth graders study videos significantly faster than content-equivalent illustrated texts during the initial pass](videos-studied-faster-than-illustrated-texts-fifth-graders.md) — a broader claim this one bears on

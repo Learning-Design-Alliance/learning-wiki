@@ -64,3 +64,4 @@ Same HO-GDINA mastery analysis: the article states the remaining open-source bas
 ## Related Claims
 - [Few-shot prompting does not uniformly improve LLM performance and can degrade subskill mastery estimates, most notably for phonology](few-shot-prompting-degrades-phonology-mastery.md) — related
 - [Targeted enhancements (retrieval-augmented inference, multimodal training) substantially raise open-source models' phonology mastery to near-ceiling levels](targeted-enhancements-raise-phonology-mastery.md) — reports the opposite
+- [Closed-source LLMs reach CSE Level 6 while most open-source baselines cluster at CSE Levels 3–4 on CSEBench](closed-source-llms-cse6-open-source-cse3-4.md) — related

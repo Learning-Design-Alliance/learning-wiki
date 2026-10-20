@@ -43,4 +43,5 @@ Table 1 entries for Kopp et al. (2008) and Kopp et al. (2009a, b), ErrEx vs Corr
 
 
 ## Related Claims
--
+- [Erroneous examples show no general learning benefit over correct examples in most comparisons, but outperform them for negative knowledge in some studies](errexs-vs-correx-mixed-benefit.md) — related
+- [Learning with erroneous examples often imposed higher cognitive load than correct examples or problem-solving](errex-higher-cognitive-load.md) — related

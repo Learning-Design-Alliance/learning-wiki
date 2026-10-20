@@ -48,3 +48,5 @@ Descriptive final-survey analysis (n=14) of usage modes found debugging selected
 - Students in an OOP course report using GenAI significantly more often for explanation seeking and debugging than for code generation — related
 - [LLM use for debugging is significantly negatively correlated with student final grades](llm-debugging-negative-correlation-grades.md)
 - [LLM use for seeking additional explanations does not significantly impact final grades](llm-explanations-no-significant-grade-impact.md)
+- [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](ai-workflows-shifted-toward-guided-use.md) — related
+- [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related

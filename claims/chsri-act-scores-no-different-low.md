@@ -50,3 +50,4 @@ Comparative analysis of junior-year ACT composite scores (taken as part of the P
 - [The ACT does not distinguish well among low-achieving students, while WorkKeys differentiates achievement levels among these students](act-weak-at-low-end-workkeys-differentiates.md) — related
 - [Student reports of instruction were generally similar across school types, with juniors in small schools reporting higher academic press and support](chsri-student-experiences-academic-press-support.md) — related
 - [Combined strong academic culture and high grades more than double EXPLORE-to-ACT gains at every starting score, including moving students from an EXPLORE of 17 to an average ACT of 20.7](culture-and-grades-combined-act-gains.md) — related
+- [IDS schools showed no differences in EXPLORE-to-PLAN test score growth compared with the rest of the CPS system](ids-no-growth-difference-explore-plan.md) — related

@@ -49,3 +49,7 @@ Tier 1 Bayesian mixed ANOVA on mean reaction time in 144 children aged 8-13. "ch
 - [Reward does not alter the speed or variability of response execution in either stop signal task](reward-does-not-alter-response-execution.md) — related
 - [Maltreated and nonmaltreated adolescents show similar reaction times on go trials of the go/no go task](no-reaction-time-difference-go-trials-groups.md) — related
 - [Pre-adolescent children already exhibit proactive inhibitory control, slowing responses as stop-signal probability increases](proactive-inhibition-present-pre-adolescence.md) — related
+- [Children with and without ADHD show equivalent increases in response caution when stop trials are introduced](adhd-equivalent-response-caution-adjustment.md) — related
+- [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md) — related
+- [Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age](reactive-inhibition-improves-age-8-11.md) — related
+- [Equivalent performance-adjustment effects hold when clinical control and neurotypical children are analyzed separately](three-group-exploratory-analyses-consistent.md) — related

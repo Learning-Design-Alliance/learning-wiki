@@ -41,4 +41,7 @@ Study 1: video data of 48 6- to 11-year-olds randomly allocated to triads with t
 
 
 ## Related Claims
--
+- [The augmentation effect on cooperative play replicated in Study 2, with a large playset-by-behavior interaction and no overlap in confidence intervals](cooperative-play-replicated-study2-interaction.md) — related
+- [Attention bids were significantly more likely to succeed with the augmented toy (68% vs 52% success)](attention-bids-more-successful-augmented-toy.md) — related
+- [Groups with the augmented toy used more balanced narrative roles, with more narrator and fewer metanarrator utterances](narrative-roles-more-balanced-augmented-toy.md) — related
+- [Joint narratives after augmented play were rated more creative, and per-child creativity correlated with cooperative play (r = 0.72) and negatively with parallel play](narrative-creativity-linked-to-cooperative-play.md) — related

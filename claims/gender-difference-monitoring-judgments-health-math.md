@@ -43,4 +43,10 @@ Regression on pretest monitoring judgments in the 1,177-participant sample: accu
 
 
 ## Related Claims
--
+- [Adults who answered health math problems correctly reported higher monitoring judgments than those who answered incorrectly, with larger differences at posttest than pretest](accuracy-linked-to-higher-monitoring-judgments.md) — related
+- [Adults randomly assigned to a worked-example educational intervention made higher post-intervention monitoring judgments on health math problems than control participants](worked-example-intervention-raised-monitoring-judgments.md) — related
+- [Math anxiety explained variance in posttest monitoring judgments beyond trait anxiety, supporting its distinctness from general anxiety](math-anxiety-distinct-from-trait-anxiety-in-monitoring.md) — related
+- [Math self-efficacy (first four SNS items) was the only variable significantly predicting monitoring judgments on all four health math problems](math-self-efficacy-predicts-monitoring-judgments.md) — related
+- [Female students provided lower local judgments with lower sensitivity but higher specificity than male students](gender-differences-local-judgments-sensitivity-specificity.md) — related
+- [Math anxiety mediated the effect of gender on pretest monitoring judgments in exploratory analyses](math-anxiety-mediates-gender-effect-on-monitoring.md) — related
+- [Gender differences in global performance judgments follow domain stereotypes: men higher in mathematics, women higher in reading, with no gender differences in bias](gender-stereotyped-performance-judgments-adults.md) — related

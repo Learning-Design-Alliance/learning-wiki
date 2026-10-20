@@ -51,3 +51,4 @@ The essay cites Brewer and Nakamura (1984) for this basic finding, noting that "
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Readers given a perspective or schema recall more text information than readers instructed to carefully read the story](schema-perspective-improves-text-recall.md) — a narrower finding that bears on this claim
+- [Prior biology knowledge tentatively moderates material effectiveness: non-STEM students favor narratives, STEM students favor expository texts for recall and understanding](prior-knowledge-moderates-narrative-effectiveness.md) — related

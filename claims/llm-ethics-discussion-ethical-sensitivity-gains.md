@@ -45,3 +45,4 @@ Pre-post paired t-tests in a user study with 45 undergraduate STEM students acro
 ## Related Claims
 - [Ethical issue awareness improved more than ethical consequence reasoning after LLM-supported group ethics discussion](ethical-issue-awareness-greater-gain-than-reasoning.md) — related
 - [An LLM facilitator agent maintains pace and coherence in structured group ethics discussions](llm-facilitator-pace-coherence.md) — related
+- [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](llm-participants-stage-goal-clarification.md) — related

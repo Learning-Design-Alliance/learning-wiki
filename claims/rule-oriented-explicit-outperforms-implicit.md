@@ -51,3 +51,5 @@ The review reports Radwan (2005), a study of 42 randomly selected EFL participan
 - [Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks](explicit-rules-learned-faster-in-communicative-tasks.md) — related
 - [Implicit learners do not outperform other learners on complex second language rules](implicit-not-superior-complex-rules.md) — reports the opposite
 - [Instructed learners outperform all other condition groups in learning simple second language rules](instructed-learners-outperform-others-simple-rules.md) — related
+- [Attention to form via structural analysis or via highlighting structures in context promotes interlanguage grammar acquisition, but only highlighting in context comes with comprehension of input](attention-to-form-rule-vs-highlighting-comprehension.md) — related
+- [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — a broader claim this one bears on

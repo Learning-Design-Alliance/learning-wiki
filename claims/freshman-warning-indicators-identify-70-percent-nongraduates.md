@@ -56,3 +56,5 @@ Analysis of 2014-15 freshmen by graduation status (Figure 9) shows the three war
 - [Ninth-grade on-track status (at least five credits and no more than one semester F) makes students almost four times more likely to graduate](on-track-freshman-courses-predict-graduation.md) — related
 - [Composite 8th grade indicators identified 75 to 77 percent of eventual off-track students but raised false-positive rates to about 30 percent](composite-indicators-identify-more-with-false-positive-tradeoff.md) — related
 - [Academic performance indicators correctly identified a larger share of eventual off-track students than the attendance indicator](academic-indicators-outperform-attendance-true-positive.md) — related
+- [Core-course failures in freshman year strongly predict non-graduation, similarly across subjects](core-course-failures-predict-non-graduation.md) — related
+- [Ninth-grade early warning systems around course grades and attendance led to substantial improvements in grades, graduation rates, and test-measured learning gains](ninth-grade-early-warning-systems-improvements.md) — related

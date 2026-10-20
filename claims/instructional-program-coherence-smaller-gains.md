@@ -47,3 +47,4 @@ The playbook cites Newmann, Smith, Allensworth, & Bryk's work on instructional p
 - [School Supports Including Academic Press, Social Support, and Instructional Program Coherence Relate to Achievement](school-supports-relate-to-achievement.md) — related
 - [Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change](annenberg-capacity-gains-eroded-by-2001.md) — related
 - [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](organizational-gains-without-instructional-gains.md) — related
+- [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — related

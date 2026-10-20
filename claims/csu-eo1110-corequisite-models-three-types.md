@@ -45,3 +45,4 @@ Cross-campus qualitative analysis of interviews, focus groups, and course-catalo
 ## Related Claims
 - [EO 1110 created a sense of urgency that catalyzed cross-departmental curriculum redesign, though campus stakeholders wanted earlier engagement building on local expertise](eo1110-urgency-catalyzed-cross-departmental-redesign.md) — related
 - [Campuses report success with Directed Self-Placement for written communication, but face challenges with multiple measures placement, especially timely high school transcript availability](dsp-success-multiple-measures-transcript-challenges.md) — related
+- [QR faculty on several CSU campuses are incorporating active-learning and problem-solving pedagogies into redesigned entry-level math courses](active-learning-pedagogies-qr-redesign.md) — related

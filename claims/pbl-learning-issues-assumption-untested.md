@@ -44,3 +44,4 @@ The article's framing statement, made in the abstract, that the core PBL assumpt
 
 ## Related Claims
 - [Problem-based tutorial discussion of a relevant problem before studying an expository text increases the number of accurate propositions recalled from that text](pbl-discussion-prior-to-text-increases-free-recall.md) — related
+- [Self-generation of learning issues improves studied materials, self-study time, and reporting time in PBL](self-generated-learning-issues-benefit-pbl.md) — related

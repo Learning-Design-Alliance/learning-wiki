@@ -50,3 +50,4 @@ Univariate behavioral genetic models of the ECLS-B twin sample. The motivation m
 - [Genetic differences in learning motivation are more strongly predictive of math achievement among four-year-olds in higher-SES homes](genetic-motivation-math-link-moderated-by-ses.md) — related
 - [Genetic variance in learning motivation fully mediates the gene-by-SES interaction on four-year-olds' math achievement](motivation-mediation-gene-ses-math.md) — related
 - [SES does not moderate genetic, shared, or nonshared environmental variance in four-year-olds' learning motivation](no-ses-moderation-motivation-variance.md) — related
+- [The reverse math-to-motivation genetic pathway is not moderated by SES, supporting a directional motivation-to-achievement relation](reverse-pathway-not-ses-moderated.md) — related

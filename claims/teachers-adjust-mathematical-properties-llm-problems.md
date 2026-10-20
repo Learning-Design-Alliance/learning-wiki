@@ -45,3 +45,4 @@ Analysis of teacher prompting moves found no identified mathematical errors in f
 ## Related Claims
 - [Realism issues were detected by agents during generation but were rare in final versions](realism-issues-rare-final-versions.md) — related
 - [Teachers adjusted problem topics as the most common refinement move](teachers-adjust-problem-topics-refinement.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on

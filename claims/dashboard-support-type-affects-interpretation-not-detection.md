@@ -45,3 +45,7 @@ Headline summary of the between-subjects experiment (n = 53) comparing mirroring
 ## Related Claims
 - [Teachers reported the highest confidence in their situational awareness in the alerting & guiding dashboard condition](teacher-confidence-highest-with-guiding-dashboard.md) — related
 - [Teacher interviews identified five types of monitored information and, via the Kano method, four highest-priority dashboard indicators for CSCL monitoring](teacher-interviews-prioritize-dashboard-indicators.md) — related
+- [Mirroring-condition teachers relied more on indicator views while alerting and advising teachers opened more group overviews](mirroring-teachers-rely-on-indicators-not-group-overviews.md) — related
+- [Response time declined across dashboard trials in all conditions, with no statistically significant difference between mirroring, alerting, and advising conditions](dashboard-trial-practice-reduces-response-time.md) — related
+- [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](mirroring-alerting-dashboards-teacher-withitness.md) — related
+- [Dashboard-monitoring is a newly observed orchestration type in which the teacher uses real-time AI dashboards to grasp student status and adjust lesson direction and pace (14 of 46 episodes)](dashboard-monitoring-orchestration-type.md) — related

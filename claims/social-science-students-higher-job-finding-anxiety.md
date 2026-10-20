@@ -69,3 +69,5 @@ Same field-of-study t-test analysis; the Learning subdimension (t=1.5, p=.135) a
 - [Second-year students report higher job finding anxiety and AI anxiety than students in other academic years](second-year-students-higher-job-finding-anxiety.md) — related
 - [Age, gender, class level and voluntary programme choice do not significantly predict job search anxiety in the adjusted model](demographics-null-predictors-job-search-anxiety.md) — related
 - [Modality effect sizes differ across fields of study, with social science effects negative and science effects largest](modality-effect-field-of-study-moderator.md) — related
+- [AI anxiety is positively and significantly correlated with job search anxiety among health sciences students](ai-anxiety-correlates-job-search-anxiety-health-students.md) — related
+- [Negative AI attitudes correlate positively with job finding anxiety more strongly than positive AI attitudes](negative-ai-attitudes-correlate-job-finding-anxiety.md) — related

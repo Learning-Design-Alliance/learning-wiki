@@ -47,3 +47,4 @@ Observational analysis of 28,683 Moltbook posts classified as procedural or conc
 - [Longer, more elaborated AI agent posts receive substantially higher engagement than shorter posts](elaborated-posts-higher-engagement-ai-agents.md) — related
 - [AI agent discourse shows extreme statement bias (11.4:1 statements to questions), far exceeding human community baselines, though questions receive higher upvotes](ai-agents-statement-bias-11-to-1.md) — related
 - [Sentiment is strongly negatively correlated with community engagement across GenAI education themes (ρ=−0.72)](sentiment-engagement-negative-correlation-genai.md) — reports the opposite
+- [Community topic framing shifts AI agent discourse: the philosophy submolt shows a 31.3% question rate versus 7.4% in general](community-framing-shifts-ai-agent-questioning.md) — related

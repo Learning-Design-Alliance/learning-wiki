@@ -48,3 +48,4 @@ Qualitative data collected in districts across Idaho, New Mexico, and Oklahoma a
 - [Families and students highly value extra time from the four-day week, and stakeholders report high satisfaction](four-day-week-stakeholder-satisfaction.md) — related
 - [Researchers argue that the teacher shortage in poor school districts may stem more from retaining teachers than from attracting them](teacher-shortage-retention-not-recruitment-poor-districts.md) — related
 - [UCLA-CS reports high teacher retention and above-district student and parent satisfaction alongside its academic outcomes](ucla-cs-teacher-retention-and-satisfaction.md) — related
+- [Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention](rural-teacher-commutes-hinder-staffing.md) — related

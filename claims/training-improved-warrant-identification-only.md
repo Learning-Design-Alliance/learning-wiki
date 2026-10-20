@@ -65,3 +65,5 @@ Component-level regression analysis at posttest in the same experiment. The argu
 - [Atypical full-fledged arguments are harder to identify than typical full-fledged arguments, which are harder than three-component arguments](atypical-full-fledged-arguments-harder-to-identify.md) — related
 - [Argument structure training improved identification of atypical full-fledged arguments at posttest, but not at the 4-week follow-up](training-improved-atypical-arguments-posttest-only.md) — related
 - [Argument structure training increased students' self-reported confidence with the Toulmin model](training-increased-toulmin-confidence.md) — related
+- [Pretest accuracy moderated the training effect for typical full-fledged arguments: students with high pretest scores benefited most](pretest-accuracy-moderates-typical-argument-training.md) — related
+- [Study performance moderated the training effect: high-achieving students benefited at posttest, low performers did not](study-performance-moderates-training-effect.md) — related

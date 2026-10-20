@@ -55,3 +55,6 @@ Qualitative case studies of 28 STEM courses at nine institutions; interviews and
 - [QR faculty on several CSU campuses are incorporating active-learning and problem-solving pedagogies into redesigned entry-level math courses](active-learning-pedagogies-qr-redesign.md) — related
 - [Teachers reported that simulations, adaptive feedback, and hands-on STEM activities supported students' conceptual understanding and engagement with scientific problem solving](simulations-adaptive-feedback-support-engagement.md) — related
 - [Changing activities during lessons improves student attention during the activity and subsequent lecture segments](activity-changes-improve-lesson-attention.md) — related
+- [Recorded lectures are a controversial accessibility strategy: faculty cite decimated attendance and poorer grades, while acknowledging benefits for some student groups](recorded-lectures-controversial-accessibility-strategy.md) — related
+- [An estimated one-third of students fail to learn because of psychosocial problems that interfere with engagement in instruction](one-third-students-fail-learn-psychosocial-barriers.md) — related
+- [In case-study courses that shifted to remote instruction, few instructors offered collaborative learning activities, and some dropped ones used before](remote-shift-reduced-collaborative-learning.md) — related

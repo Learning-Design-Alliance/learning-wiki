@@ -48,3 +48,7 @@ Voxel-wise analysis within the relational-integration network found only one reg
 - [Adults show sustained RLPFC activation for REL-2 problems, whereas children's early RLPFC differentiation of REL-2 from REL-1 is not sustained across the trial](rlpfc-sustained-integration-adults-not-children.md) — related
 - [Children aged 8-12 are disproportionately less accurate than adults on REL-2 problems requiring integration of two relations, but not on REL-1 or REL-0 problems](children-disproportionately-worse-rel2-integration.md) — related
 - [No behavioural Audience × Age group interaction: the accuracy decrement was comparable in adolescents and adults](no-behavioural-audience-age-interaction.md) — related
+- [Generating multiple alternative uses (AU2+ > OC2+) additionally recruits left inferior frontal gyrus and middle frontal gyrus beyond the temporo-parietal network](multiple-solutions-additional-left-lateral-pfc-activation.md) — related
+- [Age-related increases in dorsolateral PFC recruitment during encoding are most evident when tasks explicitly engage controlled processes](dlpfc-encoding-recruitment-controlled-tasks.md) — related
+- [Divergent thinking performance (AU-score) positively correlates with left IFG/MFG activation for AU relative to OC trials](au-performance-correlates-left-ifg-mfg-activation.md) — related
+- [Relational integration is less accurate and slower than single-relation matching regardless of audience or age](relational-harder-than-control-main-effect.md) — related

@@ -62,4 +62,8 @@ Omnibus MANCOVA with prior self-efficacy as covariate across four dependent vari
 
 
 ## Related Claims
--
+- [A high-competency PAL elicits more positive learner attitudes toward the agent (d = 0.91)](high-competency-pal-more-positive-attitudes.md) — related
+- [In the responsive condition, learners requested less than half of the information the PAL was designed to deliver](responsive-pal-requests-underused.md) — related
+- [A proactive PAL improves learners' recall of the agent's ideas more than a responsive PAL (d = 0.78)](proactive-pal-improves-recall.md) — related
+- [Proactive PALs yielded higher recall than responsive PALs, with the advantage differing by learner academic strength](proactive-pal-higher-recall-than-responsive.md) — related
+- [Elaboration strategy does not significantly affect students' attitudes toward the learning method](elaboration-strategy-no-attitude-effect.md) — related

@@ -45,3 +45,5 @@ Descriptive statement of the study design: five experiments on collaborative pro
 ## Related Claims
 
 - [In most of the reported collaborative experiments, the accuracy of the partner model A built about B was correlated with the accuracy of the model B built about A](partner-model-accuracy-symmetry-correlated.md)
+- [Partner-model quality emerges through the task and is sensitive to awareness tools and media richness, partly contradicting the assumption that partner modelling is an individual skill](partner-model-quality-emerges-through-task.md) — related
+- [The quality of mutual models appears to depend more on the quality of interactions than on individual representational abilities](interaction-quality-drives-mutual-modelling.md) — related

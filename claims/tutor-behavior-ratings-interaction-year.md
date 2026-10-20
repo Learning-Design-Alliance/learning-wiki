@@ -67,3 +67,8 @@ For relevance of contributions, the field experiment found both a main effect of
 - [Student tutors are rated as more cognitively congruent than staff tutors in problem-based tutorial groups](student-tutors-more-cognitively-congruent-than-staff.md) — related
 - [Prior field experiments found no achievement differences between staff- and student-tutored groups](no-achievement-difference-staff-versus-student-tutoring.md) — related
 - [Tutor behavior had a major impact on students' discussion behaviors, with dominant or passive tutors both failing to stimulate lively discussion](tutor-behavior-major-impact-discussion.md)
+- [Student tutors show greater role congruence, being more interested in students' daily lives and study experiences](student-tutors-greater-role-congruence.md) — related
+- [No differences between student and staff tutors in focus on cooperation among group members](no-difference-tutor-cooperation-orientation.md) — related
+- [Student perceptions of tutors are generally positive for both staff and student tutors, with significant differences appearing in only one course and not consistently across courses](tutor-perceptions-positive-inconsistent-differences.md) — related
+- [Students taught by rigorously selected and well trained student tutors show no significant achievement differences from students taught by staff tutors in first-year PBL courses](student-tutors-no-achievement-difference-pbl.md) — related
+- [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](staff-tutoring-small-achievement-advantage-pbl.md) — related

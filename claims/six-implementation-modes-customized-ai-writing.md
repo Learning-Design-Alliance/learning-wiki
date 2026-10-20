@@ -47,3 +47,4 @@ Systematic review frequency analysis of implementation modes across the 23 studi
 - [Prompt engineering is the most prevalent customization method in AI writing education research](prompt-engineering-dominant-ai-writing-customization.md) — related
 - [Technically oriented theoretical rationales are operationalized more often than learning-centered theories in AI writing customization](performance-theories-dominate-ai-writing-customization.md) — related
 - [Structural misalignment: learning-oriented goals are predominantly operationalized through performance-driven theories and modular customization](structural-misalignment-pedagogy-theory-customization.md) — related
+- [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related

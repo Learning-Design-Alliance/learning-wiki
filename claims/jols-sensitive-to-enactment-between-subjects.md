@@ -43,4 +43,6 @@ In the JOL-magnitude analysis of the experiment, "learners gave higher JOLs afte
 
 
 ## Related Claims
--
+- [Enactment impairs resolution of JOLs relative to verbal encoding of action phrases](enactment-impairs-jol-resolution.md) — related
+- [Enactive encoding yields higher cued recall than verbal encoding, and the enactment effect remains stable across learning cycles](enactment-effect-stable-across-cycles.md) — related
+- [Calibration of JOLs shifts toward underconfidence across learning cycles for action phrases under both verbal and enactive encoding, without first-cycle overconfidence](uwp-underconfidence-shift-action-phrases.md) — related

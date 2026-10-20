@@ -44,3 +44,4 @@ Qualitative analysis of a preliminary clinical interview with one male sixth-gra
 
 ## Related Claims
 - [After a lesson series, two sixth graders could switch flexibly between perspectives when comparing negative integers; one distinguished number-line order from context-based absolute-value reasoning about debts](post-lesson-flexible-perspective-switching.md) — related
+- [Students' initial correct answers can mask reasoning based on a subtraction strategy not previously reported for integer order comparisons](nicole-subtraction-strategy-order-relation.md) — related

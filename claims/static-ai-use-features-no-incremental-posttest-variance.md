@@ -44,3 +44,5 @@ Regression analysis with N = 89 students with complete pre/post-tests and comput
 
 ## Related Claims
 - [Within-session help-seeking development predicts unaided post-test performance beyond pre-test performance and static AI-use features](hs-trajectory-predicts-unaided-posttest.md) — related
+- [Within-session SRL change shows no detectable association with unaided post-test performance](srl-change-no-posttest-association.md) — related
+- [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related

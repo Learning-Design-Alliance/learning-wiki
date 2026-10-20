@@ -49,3 +49,4 @@ The review reports, citing Zheng and Yu (2018), that low linguistic knowledge an
 - Student engagement with WCF is the current research hotspot, with engagement analyzed as cognitive, affective and behavioral dimensions — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
 - Review reports that collaborative feedback tasks improved students' writing accuracy for both low and highly proficient students (Tang & Tithecott) — reports the opposite
+- [EFL proficiency significantly shapes chatbot interaction: high-proficiency learners over-engage in dialogue while low-proficiency learners over-rely on feedback requests](proficiency-shapes-chatbot-interaction.md) — related

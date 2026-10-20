@@ -95,3 +95,11 @@ Separate multi-level model on the same survey data comparing exam types. The stu
 - [Proctored online exams show no effect on students' perceived exam difficulty](proctoring-no-effect-exam-difficulty.md) — related
 - [Proctored online exams show no effect on students' exam performance](proctoring-no-effect-exam-performance.md) — related
 - [Computer-based test advantages can be used to manage the effects of test anxiety as a construct-irrelevant factor](cbt-manages-anxiety-construct-irrelevance.md) — related
+- [Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations](mixed-anxiety-remote-proctored-exams.md) — related
+- [In a course that had removed examinations, most student groups designing a fair grading policy reinvented proctored or handwritten assessment](students-reinvented-exams-in-ai-course-grading-design.md) — related
+- [Two-part collaborative assessment, individual then group answering, transforms summative testing into a learning experience and may reduce test anxiety](two-part-collaborative-assessment-learning-experience.md) — related
+- [Students report that tests dominate assessment, carry too much weight, and create stress, while extended performance-based assessments offer better opportunities to learn and showcase learning](students-report-tests-dominate-and-overweight-grades.md) — related
+- [In a Spring 2026 pilot (N=98), 52% of students reported lower stress during the AI-mediated Socratic Test than in traditional exams](socratic-test-pilot-lower-stress.md) — related
+- [Moving oral assessments online reduced required support staff hours from almost 8 days to 3 days](online-oral-assessments-reduced-staff-hours.md) — related
+- [Oral assessments can induce more anxiety than written ones, yet many students still prefer them](oral-assessments-anxiety-but-preferred.md) — related
+- [Poorly designed or misused assessment practices can harm students through increased anxiety, lost learning time, and deficit-based messages](poor-assessment-practices-harm-students-anxiety-lost-time.md) — a broader claim this one bears on

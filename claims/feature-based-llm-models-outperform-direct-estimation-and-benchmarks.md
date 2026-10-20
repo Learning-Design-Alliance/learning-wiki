@@ -66,3 +66,5 @@ Reading holdout results: the random forest beat the direct approach, dummy regre
 - [Llm Features Add Value Beyond Item Metadata](llm-features-add-value-beyond-item-metadata.md)
 - [Direct Llm Accuracy Varies By Grade Early Grades Worse](direct-llm-accuracy-varies-by-grade-early-grades-worse.md)
 - [Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables](feature-importance-spread-across-many-features.md) — related
+- [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related
+- [The explainable feature-based model with LLM-extracted features outperforms the closed-track encoder baseline by a wide margin](explainable-model-outperforms-closed-track-baseline.md) — related

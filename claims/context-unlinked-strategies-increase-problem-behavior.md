@@ -46,3 +46,6 @@ The guide states this association in its evidence summary for recommendation 1, 
 - [FBA-based interventions show potentially positive effects on school engagement for children identified with or at risk for an emotional disturbance](fba-potentially-positive-school-engagement.md) — the general claim this finding bears on, with the studies behind it
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
 - Useful cognitive associations acquire secondary-reward value, making information storage an operant event — related
+- [Restorative practices reduce exclusionary discipline and misbehavior and improve school climate, safety, and achievement, though implementation requires sustained investment](restorative-practices-improve-safety-climate-achievement.md) — related
+- [Schools that increased restorative practice utilization saw declines in misbehavior, gang membership, victimization, depressive symptoms, and substance abuse, and improvements in GPA and climate](school-level-restorative-utilization-improves-behavior-climate.md) — related
+- [School climate data supported changes to the three schools' discipline systems](climate-data-discipline-system-changes.md) — related

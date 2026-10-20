@@ -44,3 +44,7 @@ Case-study analysis from the Virtual Math Teams project, part of the project's d
 
 ## Related Claims
 - [Computer-supported environments can support development of mathematical understanding toward formalization even when domain experts are not present](vmt-supports-mathematical-formalization-without-experts.md) — related
+- [Analog artefacts such as the nautical paper chart serve as public inscriptions and arenas for reasoning about rule following, making students' intentions assessable to instructors and teammates](paper-chart-inscription-assessment-arena.md) — related
+- [A shared organizing principle can be established by one member and followed by others, becoming stronger with each application](principle-initiated-by-one-member-reified.md) — related
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
+- [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](young-children-collaborative-gestures-mr-science.md) — related

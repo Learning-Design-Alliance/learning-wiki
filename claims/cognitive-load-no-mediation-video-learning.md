@@ -49,3 +49,5 @@ Exploratory mediation path analysis with the two features as predictors and the 
 - [Navigation features and self-explanation prompts do not interact in their effect on video learning](no-interaction-navigation-prompts-learning.md) — related
 - [Self-explanation prompts in an instructional video do not improve retention or comprehension when learning time is controlled](self-explanation-prompts-no-learning-benefit-controlled-time.md) — related
 - [The benefits of rubrics on self-assessment accuracy and cognitive load do not depend on learners' task performance](rubric-benefits-independent-of-task-performance.md) — related
+- [The hypothesised mediation of prompt effects on self-efficacy via strategy use was not confirmed because prompts did not affect strategy use](strategy-mediation-of-prompt-self-efficacy-not-confirmed.md) — related
+- [Higher germane load and lower extraneous load mediate the effect of instructional guidance on conceptual knowledge](cognitive-load-mediates-guidance-effect.md) — related

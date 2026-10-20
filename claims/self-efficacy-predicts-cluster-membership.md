@@ -53,3 +53,4 @@ Binary logistic regression on the survey of 236 participants with GSE score pred
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
 - [Students' confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction](student-confidence-readiness-self-efficacy-collaboration.md) — related
 - [Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only](profiles-predict-self-efficacy-strategies-engagement.md) — related
+- [AI pedagogical orientation strongly predicts self-reported AI use across research, teaching, and other professional domains](ai-pedagogical-orientation-predicts-ai-use.md) — related

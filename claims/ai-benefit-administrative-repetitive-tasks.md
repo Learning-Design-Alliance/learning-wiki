@@ -47,3 +47,4 @@ Thematic synthesis of reported benefits (Table 5). The review states studies in 
 - [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — related
 - [AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks](ai-no-efficiency-gain-simple-tasks.md) — related
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — possibly the same claim (merge candidate)
+- [Teachers used Forms for professional purposes: parent communication, professional learning, efficiency, and administrative tasks](forms-professional-uses-four-categories.md) — related

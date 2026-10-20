@@ -45,3 +45,4 @@ A second randomized study in the 2024-2025 school year with 359 grade 1-4 studen
 ## Related Claims
 - [Students receiving 40 or more Air Reading tutoring sessions showed stronger reading impacts (effect size +0.17)](air-reading-dosage-40-sessions-effect.md) — related
 - [Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)](air-reading-rct-texas-map-effect.md) — related
+- [Coursemojo use was associated with higher STAAR reading and NWEA MAP scores in a Texas quasi-experiment](coursemojo-tx-reading-gains.md) — related

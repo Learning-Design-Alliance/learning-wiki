@@ -43,4 +43,5 @@ Transition-level analysis of 216 Spearman correlations between six SRL strategie
 
 
 ## Related Claims
--
+- [Help seeking negatively predicts goal attainment in MOOCs](help-seeking-negative-predictor-mooc-goal-attainment.md) — related
+- [In examination weeks, students revisited prior topics and used exercises, whose deadlines had passed, as formative practice for the exams](exam-weeks-exercises-as-formative-practice.md) — related

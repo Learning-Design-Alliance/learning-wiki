@@ -50,3 +50,4 @@ Paired comparison of the observation dimension (objective description of childre
 - [Virtual simulation stimulated higher self-reported purposefulness (active reflection) than authentic video](vs-higher-purposefulness-reflection.md) — related
 - [Lesson ratings showed no statistically significant differences between lessons observed earlier versus later in the initiative on any dimension](no-rating-improvement-over-initiative.md) — related
 - [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations](simulation-advantage-immediate-not-sustained.md) — related
+- [Simulation and hybrid authentic-learning approaches do not necessarily differ in participants or experienced meaningfulness of collaboration](simulation-hybrid-approaches-differ-not-participants-meaningfulness.md) — related

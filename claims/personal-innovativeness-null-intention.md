@@ -46,3 +46,5 @@ PLS-SEM structural result (Table 8) from the 842-student Lesotho survey; the hyp
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
 - [Facilitating conditions showed an asymmetric pattern: no significant effect on behavioral intention but a significant positive effect on use behavior](facilitating-conditions-asymmetric-intention-use.md) — related
 - [Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior](hedonic-motivation-habit-strongest-intention-predictors.md) — related
+- [Perceived risk negatively predicts use behavior and operates as a stage-sensitive deterrent, activated at submission and evaluation rather than initial exploration](perceived-risk-stage-sensitive-deterrent.md) — related
+- [Effort expectancy is associated with AI use only indirectly through competence, whereas hedonic motivation shows a direct positive association](effort-expectancy-mediated-hedonic-motivation-direct.md) — related

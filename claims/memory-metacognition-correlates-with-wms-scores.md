@@ -46,3 +46,5 @@ Secondary correlational analyses linking metacognitive efficiency to Wechsler Me
 - [Perceptual and memory metacognitive efficiencies are positively correlated across individuals, though weakened after outlier removal](cross-domain-metacognitive-efficiency-correlation.md) — related
 - [Memory metacognitive efficiency shows a non-significant negative relationship with age](memory-metacognitive-efficiency-nonsignificant-age-decline.md) — related
 - [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](perceptual-metacognitive-efficiency-declines-with-age.md) — related
+- [Executive function does not explain the age-related decline in perceptual metacognitive efficiency](executive-function-does-not-explain-metacognitive-decline.md) — related
+- [Metacognitive efficiency shows partial domain-general structure: strong shared metacognition between lexical decision and emotion recognition tasks](partial-domain-general-metacognition-early-readers.md) — related

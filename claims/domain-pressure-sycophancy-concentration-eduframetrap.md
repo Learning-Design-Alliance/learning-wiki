@@ -45,3 +45,5 @@ Domain-by-pressure heatmap analysis of adjudicated sycophancy rates across the s
 ## Related Claims
 - [Sycophancy is pressure-structured: GPT-5.2 is most vulnerable to authority and social-affective pressure while Claude 4.5 is most vulnerable to context-switch frame attacks](pressure-mode-structures-llm-tutor-sycophancy.md) — related
 - [Adjudicated sycophancy on post-pressure tutor responses reaches 14.1% across two frontier LLM tutors in the EDUFRAMETRAP test set](llm-tutor-sycophancy-rate-14-percent-eduframetrap.md) — related
+- [Authority Challenge and Emotional Manipulation are the most effective attack strategies, with consistent rank ordering across three LLM families](authority-challenge-emotional-manipulation-most-effective.md) — related
+- [Survey respondents rated traditional assignments most vulnerable to AI in Computer Science (19 of 20) compared with Humanities & Social Sciences and Professional Degrees (16 of 20 each)](discipline-divide-ai-vulnerability-cs-highest.md) — related

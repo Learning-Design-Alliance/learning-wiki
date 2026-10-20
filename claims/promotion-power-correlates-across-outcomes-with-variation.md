@@ -47,3 +47,6 @@ Key finding from the Louisiana promotion power study comparing school effects ac
 - [The Louisiana study separated high schools' contributions to long-term success from family resources and students' learning before high school](louisiana-school-contributions-separated-from-family-resources.md) — related
 - Charter school research has historically focused on test scores, with longer-term outcomes only recently examined — related
 - [Schools' impacts on socioemotional development and behaviors in 9th grade matter substantially more for long-run trajectories than test score impacts](sed-behavior-impacts-exceed-test-score-impacts-long-run.md) — related
+- [Louisiana high schools vary widely in their success in promoting graduation, college enrollment, and earnings](louisiana-high-schools-vary-widely-promotion-power.md) — a narrower finding that bears on this claim
+- [Promotion power measures substantially reduce or eliminate the relationship between student poverty and a school's measure of performance](promotion-power-reduces-poverty-performance-link.md) — related
+- [School quality measures that exclude schools' impacts on socioemotional development underestimate or misidentify many impactful schools](quality-metrics-excluding-sed-misidentify-impactful-schools.md) — related

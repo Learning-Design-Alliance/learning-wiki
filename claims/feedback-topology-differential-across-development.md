@@ -48,3 +48,6 @@ Cross-cutting pattern analysis of the 24 priority scenarios in the results secti
 - [Three internal arrangements of Processes and Structures (P→S, S→P, P⇄S) form the basis of scenario differentiation](three-internal-arrangements-monitoring-control.md) — related
 - Experts attend selectively to atypical events, merging typical student information into a group picture, while novices and postulants study all student details — related
 - [AI literacy priorities manifest as developmentally distinct pedagogical patterns across educational phases](developmentally-distinct-ai-literacy-patterns-by-phase.md) — related
+- [Dimensions of historical thinking are conceptually decoupled: sophistication in one second-order concept does not imply sophistication in another](historical-thinking-dimensions-conceptually-decoupled.md) — related
+- [Focal scenario analysis reveals that no existing theory explains coordination of multiple monitoring sources](monitoring-multiplicity-theoretical-gap.md) — related
+- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.](expert-poetry-interpretive-strategies.md) — related

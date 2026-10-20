@@ -44,3 +44,6 @@ The editorial reports associate editor Nikol Rummel's squib stance, in which she
 
 ## Related Claims
 - [Panel members framed the variety of CSCL definitions and theories as a strength representing the field's richness of perspectives](theory-diversity-as-strength-cross-fertilization.md) — related
+- [Clarà and Mauri propose that multi-vocality in CSCL can be healthy if findings are brought into communication, identifying three dimensions along which content-analysis studies can be related](multivocality-three-dimensions-content-analysis.md) — related
+- [CSCL workshop participants concluded that building a single shared CSCL paradigm was neither feasible nor desirable, favoring maintained paradigm diversity](cscl-paradigm-building-deemed-infeasible-2025-workshop.md) — related
+- [CSCL relations matter in two ways: interventions informed by empirical studies can support collaboration, and CSCL environments can foster key competencies](cscl-relations-matter-two-ways.md) — related

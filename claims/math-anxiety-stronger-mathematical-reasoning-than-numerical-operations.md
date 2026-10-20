@@ -68,3 +68,7 @@ Sensitivity analysis collapsing the "Very Nervous" and "Very Very Nervous" ratin
 - [Reading comprehension significantly predicts verbal Math Reasoning but not non-verbal Numerical Operations](reading-comprehension-predicts-mr-not-no.md) — related
 - [Both SEMA subscales — numerical and situational anxiety — are equally negatively related to math achievement](math-anxiety-subscale-effects-on-achievement.md) — related
 - [Math anxiety is not significantly correlated with trait anxiety in young children](math-anxiety-uncorrelated-trait-anxiety-children.md) — related
+- [Math anxiety predicts mathematics achievement in linear regression (R2=.357)](math-anxiety-predicts-achievement-regression.md) — related
+- [Math anxiety correlates strongly and negatively with mathematics achievement among third graders](math-anxiety-negative-correlation-third-graders.md) — a broader claim this one bears on
+- [Math Reasoning is more strongly correlated with reading comprehension than Numerical Operations is, and the two math measures are highly correlated](mr-reading-correlation-stronger-than-no.md) — related
+- [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — a broader claim this one bears on

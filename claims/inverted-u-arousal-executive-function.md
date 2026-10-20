@@ -50,3 +50,8 @@ Theoretical neurobiological argument in the review: rising catecholamines and co
 - [Increased physiological arousal relates to less monitoring with neutral valence](arousal-negative-predictor-neutral-valence.md) — related
 - [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md)
 - [No evidence for a curvilinear relationship between arousal and test performance](no-curvilinear-arousal-performance.md) — a narrower finding that bears on this claim
+- [Exercise intensity differentially moderates acute exercise cognitive benefits, with moderate intensity favoring executive functions and high intensity favoring information processing](exercise-intensity-moderates-cognitive-benefits.md) — related
+- [(Nor)epinephrine follows an inverted-U for learning: low levels aid learning, high levels trigger quitting, and production fades after about 90 minutes but habituates with repeated safe exposure](norepinephrine-inverted-u-90-minute-limit-habituation.md) — a narrower finding that bears on this claim
+- [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](curiosity-knowledge-gap-balance-engagement-memory.md) — a narrower finding that bears on this claim
+- [Hot executive function (CGT risk adjustment) shows a bell-shaped developmental curve, peaking at age 14 and declining thereafter](hot-ef-bell-shaped-development.md) — related
+- [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](medium-incongruity-inverted-u-cognitive-conflict.md) — related

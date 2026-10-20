@@ -62,4 +62,4 @@ In the same Atwood, Masson and Polson experiment as reported in the thesis, "a r
 
 
 ## Related Claims
--
+- [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md) — related

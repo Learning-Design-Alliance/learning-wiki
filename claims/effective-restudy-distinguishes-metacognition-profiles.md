@@ -43,4 +43,8 @@ Authors' interpretation across the profile solutions: deficient profiles (e.g., 
 
 
 ## Related Claims
--
+- [Elementary school children show distinct latent profiles of procedural metacognition combining monitoring accuracy, restudy effectiveness, and decision accuracy across tasks](distinct-metacognition-profiles-lpa-children.md) — related
+- [Fourth graders with low metacognition tend to remain low one year later, particularly showing ineffective restudy decisions](fourth-graders-at-risk-metacognition-persists.md) — related
+- [More frequent cognitive strategy instruction is negatively related to the effectiveness of children's restudy selections](cognitive-strategy-instruction-negative-restudy-effectiveness.md) — related
+- [Fourth graders outperform second graders on secret-code performance and restudy effectiveness, but not on self-monitoring discrimination](grade-differences-performance-restudy-not-self-monitoring.md) — related
+- [Teacher-directed instruction is negatively related to children's restudy effectiveness and self-monitoring accuracy](teacher-directed-instruction-negative-metacognition.md) — related

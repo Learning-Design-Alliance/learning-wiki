@@ -51,3 +51,5 @@ Narrative review synthesis. The review discusses "key research findings on two s
 - [Research findings show that various types of learning benefit from spaced study, with demonstrations of these benefits in educational settings](spacing-benefits-diverse-learning-educational-settings.md) — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — a narrower finding that bears on this claim
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
+- [How People Learn II updates and extends the 2000 How People Learn report by synthesizing research on learning from birth through adulthood in formal and informal settings](hpl-ii-updates-extends-hpl-2000-lifespan.md) — related
+- [Recent research identifies time intervals during which spaced study should occur to maximize memory retention](optimal-spacing-intervals-maximize-retention.md) — related

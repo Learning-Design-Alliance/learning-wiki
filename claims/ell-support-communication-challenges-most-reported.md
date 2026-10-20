@@ -45,3 +45,5 @@ Descriptive survey results on challenges supporting ELL students (Figure 15), si
 ## Related Claims
 - [Just under half of New York charter schools (45.8%) reported no challenges supporting ELL/MLL students remotely; high-poverty schools were more likely to report challenges](ell-mll-remote-support-challenges.md) — related
 - Surveyed LEAs commonly lack key bilingual infrastructure, including materials in languages other than English and bilingual teaching supports — related
+- [Limited English fluency and low native-language literacy among parents hinder school communication in ELL communities](ell-parent-language-literacy-barrier.md) — related
+- [More than half of surveyed LEAs employ dedicated family liaisons who bridge schools and multilingual families](sv-leas-family-liaisons-bridge-multilingual-families.md) — related

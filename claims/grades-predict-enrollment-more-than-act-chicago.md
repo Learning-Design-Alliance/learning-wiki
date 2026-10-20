@@ -69,3 +69,6 @@ The same multivariate analyses found poor test performance did not significantly
 - [Among Chicago graduates who enter four-year colleges, high school GPA is the strongest predictor of graduating within six years](gpa-strongest-predictor-chicago-four-year-graduation.md) — related
 - [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — related
 - [Pipeline applied to HSLS:09 recovers that advanced mathematics coursework benefits students least likely to enroll in four-year college the most](ap-ib-math-benefits-lowest-college-likelihood-most-hsls.md) — related
+- [CPS graduates with higher ACT scores had higher overall and four-year enrollment rates, and at least an ACT score of 18 gave at least a 50 percent probability of four-year enrollment](act-scores-predict-college-enrollment-cps.md) — related
+- [High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates](hsgpa-predicts-college-graduation-more-than-tests.md) — related
+- [AP and IB programs in neighborhood high schools serve students with higher-than-average but below selective-enrollment achievement](ap-ib-fill-gap-for-mid-high-achievers.md) — related

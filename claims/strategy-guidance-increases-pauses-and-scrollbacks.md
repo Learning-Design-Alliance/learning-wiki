@@ -45,3 +45,7 @@ Behavioural process measure from the between-subjects experiment: log counts of 
 ## Related Claims
 
 - [Strategy guidance yields better delayed recall performance and higher delayed-recall efficiency than continuous presentation](strategy-guidance-beats-continuous-presentation-delayed.md)
+- [Strategy guidance in using pause and scrollbar controls yields better immediate comprehension and higher performance efficiency than unguided learner control](strategy-guidance-beats-unguided-learner-control-immediate.md) — related
+- [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](students-pause-video-to-view-segment-menu.md) — related
+- [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](video-pause-rewind-sequences-negative-performance.md) — related
+- [Strategy guidance yields better immediate recall and comprehension and higher efficiency than continuous presentation without learner control](strategy-guidance-beats-continuous-presentation-immediate.md) — related

@@ -68,3 +68,5 @@ Table 1 summarises opinion on University administration contact via Facebook: te
 - [A quarter of first-year students reported their academic work was often or very often adversely affected by time spent on Facebook.](facebook-time-detriment-academic-work.md) — related
 - [Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio](student-generated-hidden-curriculum-sns.md) — related
 - [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](sns-groups-support-informal-design-learning.md) — related
+- [Facebook use in higher education is associated with improved performance, convenience of learning and higher engagement](facebook-improved-performance-convenience-engagement.md) — related
+- [Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness.](facebook-social-glue-settling-in.md) — related

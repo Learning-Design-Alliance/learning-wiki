@@ -45,3 +45,5 @@ Intercorrelation analysis of estimated teacher grade effects in the CPS sample (
 
 ## Related Claims
 - [Ninth-grade teachers' grade effects are stable across years](teacher-grade-effects-stable-across-years.md) — related
+- [Long-term effects of grading mismatch are smaller and more nuanced than those of persistent effects](grading-mismatch-long-term-effects-smaller-nuanced.md) — related
+- [Teachers' persistent grade effects predict students' long-term outcomes](persistent-grade-effects-predict-long-term-outcomes.md) — related

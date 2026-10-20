@@ -72,3 +72,6 @@ Secondhand report of a meta-study of more than 24 hiring field experiments over 
 - When at least two women and two candidates of color are in the finalist pool, the odds of hiring a woman or a candidate of color are reported to be 79 and 194 times greater — related
 - Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive — related
 - Most surveyed Black borrowers report labor-market discrimination and believe their credentials must exceed those of non-Black peers — related
+- [Teachers of color disproportionately teach in schools serving more than 75% students of color and more than 75% students from low-income families](teachers-of-color-concentrated-in-underresourced-schools.md) — related
+- [Few teachers receive regular mentoring, and early-career teachers of color report less access to mentoring and induction than White peers](limited-mentoring-access-early-career-teachers-of-color.md) — related
+- [Black TECTA participants were 30.8% less likely than white counterparts to obtain further credentials after their initial orientation](black-tecta-participants-less-likely-further-credentials.md) — related

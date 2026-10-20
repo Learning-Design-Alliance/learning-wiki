@@ -47,3 +47,7 @@ Table 2 reports proportions of students meeting the disengaged test event criter
 - [Disengagement rates on the state summative test varied materially across gender, ethnicity, IEP status, LEP status, FRL status, and disability status](disengagement-varies-student-subgroups-state-test.md) — a broader claim this one bears on
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps](rapid-guessing-generally-does-not-change-gap-interpretations.md) — related
+- [Assessment metadata can be used to quantify the impact of test disengagement on estimates of educational effectiveness](assessment-metadata-quantify-disengagement-impact.md) — related
+- [Motivation filtering reversed the estimated Black-White fall-to-fall growth gap direction in later grades](filtering-reverses-black-white-growth-gap.md) — related
+- [Student test effort differs substantially across student gender and racial subgroups](test-effort-differs-across-gender-racial-subgroups.md) — a broader claim this one bears on
+- [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](academic-disengagement-related-to-test-disengagement.md) — related

@@ -46,3 +46,4 @@ ANCOVA (controlling mothers' education) on concurrent symptoms at 17 years in th
 - [Higher inattention symptoms throughout childhood uniquely predict reduced adolescent N2 amplitude during successful inhibition, beyond hyperactivity-impulsivity symptoms](childhood-inattention-predicts-reduced-adolescent-n2.md) — related
 - [Consistently high childhood ADHD symptoms correlate with both reduced N2 amplitude and longer SSRT in adolescence](childhood-adhd-symptoms-correlate-n2-ssrt.md) — related
 - [Early precursors predict adolescent N2 directly, not indirectly through childhood inattention symptoms](direct-not-indirect-paths-early-precursors-n2.md) — related
+- [Total childhood ADHD symptoms predict longer adolescent SSRT, but neither symptom domain shows specificity and early precursors do not predict SSRT](ssrt-predicted-by-total-childhood-adhd-symptoms-only.md) — related

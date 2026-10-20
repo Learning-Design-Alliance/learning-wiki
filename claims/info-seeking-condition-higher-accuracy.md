@@ -45,3 +45,7 @@ Paired t-tests on test-trial accuracy across the three conditions for 27 partici
 ## Related Claims
 - [Low-confidence info-seeking trials show inverted decision weights, unlike explicit reports and post-decision wagering](inverted-decision-weights-low-confidence-info-seeking.md) — related
 - [The inverted low-confidence info-seeking pattern persists when only each participant's first condition is analyzed](mixed-anova-confirms-inverted-weights.md) — related
+- [Internal error-corrections, not correct-to-incorrect changes-of-mind, produce the inverted low-confidence decision weights](error-corrections-produce-inverted-weights.md) — related
+- [A single decision-and-confidence model with no condition-specific parameters fits decision weights across all three methods](unitary-model-fits-all-three-methods.md) — related
+- [Reverse-correlation decision weights are positive for the chosen stimulus dimension and weaker on low-confidence trials across confidence-assessment methods](decision-weights-positive-chosen-weaker-low-confidence.md) — related
+- [The option to withhold answers improves output-bound accuracy, whereas the option to seek help does not consistently do so](withholding-improves-output-bound-accuracy-help-seeking-not.md) — related

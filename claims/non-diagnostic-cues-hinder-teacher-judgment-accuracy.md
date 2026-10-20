@@ -45,3 +45,7 @@ Multilevel regression in the same within-subjects experiment (N = 33 teachers) f
 ## Related Claims
 
 - [Teachers judging student performance mostly use performance cues and, to a lesser extent, student cues](teachers-mostly-use-performance-cues-judging-performance.md)
+- [Teachers' judgments of students' text comprehension are significantly more accurate when diagnostic performance cues are available than when only non-diagnostic student cues are available](diagnostic-cues-improve-teacher-judgment-accuracy.md) — related
+- [The cue-diagnosticity intervention steered cue utilization: diagnostic cue use increased and non-diagnostic cue use decreased](diagnosticity-intervention-steers-cue-utilization.md) — related
+- [When making accurate judgments, teachers used diagnostic cues to a greater extent, but also used non-diagnostic cues (IQ and reading self-concept)](accurate-judgments-greater-diagnostic-cue-use-plus-nondiagnostic.md) — related
+- [Performance cues were found most diagnostic for students' reading comprehension performance](performance-cues-most-diagnostic-reading-comprehension.md) — related

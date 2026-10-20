@@ -43,4 +43,4 @@ The study's abstract reports, for a mixed quantitative-and-qualitative study of 
 
 
 ## Related Claims
--
+- [Basics of systems thinking and conceptual modeling skills can be imparted within less than one semester](systems-thinking-basics-under-one-semester.md) — related

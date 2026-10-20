@@ -46,3 +46,4 @@ The review reports two experimental literatures: Vohs & Schooler's manipulation 
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Self-efficacy negatively correlates with cheating, but actual ability does not inversely correlate with dishonesty](self-efficacy-negative-ability-not-correlated-cheating.md) — related
 - [Academic procrastination and learned helplessness positively predict cheating tendency, while academic self-efficacy negatively predicts it among university students](psychological-antecedents-predict-cheating-tendency.md) — related
+- [Attributing outcomes to Allah's will among some PSMTs functioned as probabilistic reasoning, not mere personalist belief](allahs-will-as-probabilistic-reasoning.md) — related

@@ -46,3 +46,5 @@ Preliminary-phase email survey of three mathematics teacher educators (a profess
 
 - [Pre-service teachers most frequently viewed integrating 21st-century teaching methods into mathematics lessons as the learning outcome to achieve](mpts-view-21st-century-methods-top-outcome.md)
 - [Redesigning a mathematics methodology module yielded six learning outcomes sequenced from lower to higher levels of understanding across six dimensions](six-learning-outcomes-mathematics-methodology-ca.md)
+- [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](principal-networks-professional-learning-communities.md) — related
+- [STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes](stem-plc-instructional-practice-shifts.md) — related

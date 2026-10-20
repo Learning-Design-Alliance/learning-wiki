@@ -62,3 +62,5 @@ In the simple-addition ANOVA, the German task-language RT advantage was signific
 - [Complex additions are solved faster and more accurately in German than French across all five bilingual proficiency stages](complex-additions-german-advantage-bilinguals.md) — related
 - [Calculation complexity strongly modulates language, format and age-group effects on bilingual arithmetic](complexity-modulates-language-effects-arithmetic.md) — related
 - [Language effects on complex-addition accuracy are larger in auditory than visual presentation format](language-effect-larger-auditory-format.md) — related
+- [Complex additions are more accurate in visual than auditory format, with the auditory deficit shrinking with age](auditory-format-accuracy-deficit-complex-additions.md) — related
+- [Retrieval use increases with grade, and the small-versus-large difference in retrieval use decreases significantly between fourth and sixth grade only](retrieval-use-grade-problem-size-interaction.md) — related

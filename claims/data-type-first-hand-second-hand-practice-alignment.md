@@ -45,3 +45,5 @@ Data-type coding of the 42 reviewed studies. The review reports the distribution
 ## Related Claims
 - [K-12 and higher education show distinct, non-overlapping sets of co-occurring data practices](k12-versus-higher-education-distinct-data-practice-patterns.md) — related
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — related
+- [At the facet level, visualizing data is the most prevalent facet and co-occurs with applying statistics and synthesizing results](visualizing-data-most-prevalent-facet-associations.md) — related
+- [Collecting and analyzing data are the most prevalent data practices in K-16 science education research, while cleaning and disseminating data are least reported](data-practice-frequency-collecting-analyzing-most-prevalent.md) — related

@@ -51,3 +51,4 @@ The abstract asserts, citing prior research without detail, that "SEL can be imp
 - [Little is known about how much variance in SEL constructs is stable over time versus specific to a given time or context](sel-stability-variance-unknown.md) — related
 - [The stability of social-emotional learning competencies over time is an open empirical question with implications for teachers and schools](sel-competencies-stability-over-time-question.md) — related
 - [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](sel-requires-educative-inclusive-environments.md) — related
+- [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — related

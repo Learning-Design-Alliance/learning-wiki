@@ -47,3 +47,6 @@ Correlational analysis of eye-tracking data from 31 higher education freshmen re
 - [Harmonic centrality and local clustering coefficient show no relation with working memory capacity](no-wmc-relation-harmonic-clustering.md) — related
 - [Mean item response durations show no strong relationship with math motivation and self-efficacy in general](mean-item-durations-not-strongly-related-motivation-self-efficacy.md) — related
 - [Topic-final sentences show higher harmonic centrality than topic-medial sentences and lower local clustering coefficient than other sentence types](topic-final-harmonic-clustering-patterns.md) — related
+- [Betweenness centrality decreases as working memory capacity increases](wmc-decreases-betweenness-centrality.md) — related
+- [Topic-medial sentences have higher strength than topic-initial and topic-final sentences](topic-medial-sentences-higher-strength.md) — related
+- [Readers with higher working memory capacity make more transitions between sentences (higher strength)](wmc-increases-strength-reading-networks.md) — related

@@ -49,3 +49,4 @@ Randomized controlled trial in four Head Start classrooms (37 children; 21 inter
 - [Everyday Mathematics® has potentially positive effects on mathematics achievement for primary students, with a substantively important but statistically non-significant effect size of 0.27](everyday-mathematics-potentially-positive-primary-math-achievement.md) — related
 - [Headsprout Early Reading has a statistically significant positive effect on the oral language of at-risk preschool children](headsprout-positive-oral-language-preschool.md) — related
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool oral language](prek-mathematics-no-oral-language-effects.md) — related
+- [Waterford Early Reading Level One™ shows no discernible effects on preschool children's oral language](waterford-level-one-no-discernible-oral-language-effects.md) — related

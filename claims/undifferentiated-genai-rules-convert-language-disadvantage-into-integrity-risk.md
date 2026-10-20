@@ -50,3 +50,5 @@ Normative argument in the introduction: the risk is structural rather than behav
 - [Indirect discrimination logic applies to facially neutral integrity rules with cohort-skewed burdens](indirect-discrimination-logic-applied-to-integrity-rules.md) — a broader claim this one bears on
 - Generic binary GenAI declarations fail to capture the diversity of ways students use GenAI in academic work — related
 - [Conflicting student and teacher rules for GenAI produce adaptive counter-norms and student calls for teachers to refine assignments rather than impose unenforceable restrictions](genai-rule-conflicts-counter-norms-assessment.md) — related
+- [Canadian students were more likely than South Korean students to judge GenAI-assisted coding as against institutional rules, despite functionally identical policies](canadian-students-judge-genai-use-more-against-rules-than-korean.md) — related
+- [Awareness of institutional GenAI regulations does not automatically translate into clarity about rule-compliant use](awareness-does-not-yield-rule-compliance-clarity.md) — related

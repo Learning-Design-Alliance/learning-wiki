@@ -51,3 +51,5 @@ The report cites Willis et al. (2020) administrative data showing multilingual l
 - Experts report likely overrepresentation of foster children in special education and no direct clear evidence that special education works for them — related
 - [Student homelessness disproportionately affects Black students, LGBT youth, English learners, and students with disabilities](homelessness-disproportionate-groups.md) — related
 - Low-income students, students of color, multilingual families' students, and students with disabilities are more likely to be chronically absent — related
+- [Learning behaviors of typical multilingual development can resemble those of disability, complicating accurate identification](language-development-disability-behavior-overlap.md) — related
+- [The study gives explicit consideration to cultural differences and similarities in learning, including English learners and learners with learning disabilities](hpl-ii-cultural-differences-special-populations.md) — related

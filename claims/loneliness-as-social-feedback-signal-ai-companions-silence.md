@@ -45,3 +45,5 @@ Theoretical argument in the comment, citing prior work on loneliness. The author
 ## Related Claims
 - Gender predicts shame, but not guilt or loneliness, among Turkish university students — related
 - [Teachers describe AI companions as a low-stakes rehearsal space for students who struggle socially, including autistic students](ai-companion-rehearsal-space-struggling-students.md) — related
+- [AI companions are frictionless and sycophantic, lacking the corrective feedback that real relationships provide](sycophantic-ai-companions-lack-corrective-feedback.md) — related
+- [Extended chatbot use produced dose-dependent increases in loneliness and emotional dependence alongside lower socialisation (review attribution)](chatbot-use-dose-dependent-loneliness.md) — related

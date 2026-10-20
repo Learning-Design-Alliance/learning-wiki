@@ -71,3 +71,4 @@ Same assessment findings section: students advocate diverse assessment options i
 - [Ninth-grade math teachers on average weighted assessments most heavily (57%), assignments next (36%), and behavior little (7%)](teacher-grading-category-weights-assessments-dominant.md) — related
 - [Most teachers believe their REACH evaluation relies too heavily on student growth and question the fairness of the growth assessments](reach-teachers-question-student-growth-weight-fairness.md) — related
 - [Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content](performance-assessments-expand-mastery-demonstration-opportunities.md) — related
+- [In a course that had removed examinations, most student groups designing a fair grading policy reinvented proctored or handwritten assessment](students-reinvented-exams-in-ai-course-grading-design.md) — related

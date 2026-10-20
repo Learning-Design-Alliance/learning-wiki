@@ -43,4 +43,9 @@ This is the article's theoretical argument in the introduction for expecting the
 
 
 ## Related Claims
--
+- [Whether metacognition is domain-general or domain-specific remains a major unresolved issue with implications for instruction and transfer](metacognition-domain-generality-specificity-open-issue.md) — a broader claim this one bears on
+- [Before metacognitive skill training, fifth graders possessed none of the metacognitive skills later trained, so metacognitive skills are task-specific at first and become domain-general only through transfer](fifth-graders-lack-metacognitive-skills-before-training.md) — related
+- [Hybrid training fosters far transfer of metacognitive skills to a new cognitive strategy, though one hybrid condition did not beat control](hybrid-training-fosters-far-transfer-metacognitive-skills.md) — related
+- [Hybrid training improves fifth-graders' application of metacognitive skills in near-transfer tasks compared to non-hybrid and control training](hybrid-training-improves-near-transfer-metacognitive-skills.md) — related
+- [Cognitive strategy application in a far-transfer task after hybrid training depends on the specific strategy: text highlighting transferred, conducting experiments did not versus non-hybrid training](far-transfer-cognitive-strategy-application-strategy-dependent.md) — related
+- [Training in metacognitive regulation combined with a cognitive learning strategy transfers to better metacognitive regulation of mental effort (far transfer), with small effect sizes](far-transfer-metacognitive-regulation-mental-effort.md) — related

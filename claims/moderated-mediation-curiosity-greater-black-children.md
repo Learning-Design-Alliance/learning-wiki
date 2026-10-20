@@ -45,3 +45,5 @@ Race/ethnicity moderation results (Table 3b indirect-effect differences) from th
 ## Related Claims
 
 - [Moderation by race/ethnicity: White children show significantly greater flourishing decrements as ACEs increase, while Black and Hispanic children show steeper declines in family resilience](race-moderation-white-steeper-flourishing-decline.md)
+- [As cumulative ACEs increase, children's probability of flourishing (learning interest, task completion, self-regulation) and family resilience decrease across race/ethnicity and income groups](aces-decrease-flourishing-and-family-resilience-all-groups.md) — related
+- [Family resilience partially mediates the association between ACEs and child flourishing, with mediation proportions varying by race/ethnicity and income](family-resilience-partially-mediates-aces-flourishing.md) — related

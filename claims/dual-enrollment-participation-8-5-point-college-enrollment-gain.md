@@ -49,3 +49,5 @@ Analysis of California Department of Education CALPADS administrative data cover
 - [Dual enrollment classes taken on college campuses increase students' likelihood of attending college and earning a bachelor's degree](college-campus-dual-enrollment-boosts-college-and-ba-attainment.md) — related
 - Automatic (opt-out) enrollment policies increase enrollment and success of students of color and low-income students in advanced courses, per research the brief cites — related
 - [Passing the college algebra placement test near the cut-off and enrolling in dual enrollment college algebra was associated with a 16 percent higher likelihood of going to college](dual-enrollment-college-algebra-16-percent-college-enrollment.md) — related
+- [Advanced Placement and dual enrollment participation have similarly positive impacts on student success](ap-and-dual-enrollment-similarly-positive-impacts.md) — related
+- [Dual enrollment classes taken exclusively on the high school campus show no statistically significant gains in college outcomes](high-school-campus-dual-enrollment-no-significant-gains.md) — related

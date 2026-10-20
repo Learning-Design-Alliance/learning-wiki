@@ -46,3 +46,6 @@ Selecting a School section finding: some students framed this freedom as possibl
 - [Student-school fit was an overarching theme in all focus groups across all phases of the high school choice process](fit-overarching-theme-high-school-choice.md) — related
 - [School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice](location-constrains-high-school-choice-set.md) — related
 - Participants in Minnesota's choice options express a high degree of satisfaction, and preliminary studies suggest positive academic outcomes — related
+- [Parents' school choices were constrained by disability-linked safety fears and transportation barriers](iep-parents-safety-transportation-constraints.md) — related
+- [During pairing, both teachers and students favored shared decision-making over full student control for roles, partners, and collaboration content.](claim-shared-control-roles-and-content.md) — related
+- [Eighth-grade students navigating high school choice considered three main categories of factors—setting, school, and student factors—plus two overarching concepts of a good school and fit](three-categories-student-choice-factors-high-school.md) — related

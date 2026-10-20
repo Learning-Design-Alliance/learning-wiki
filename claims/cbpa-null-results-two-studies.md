@@ -44,3 +44,7 @@ Narrative synthesis within the systematic review of 20 studies; the review repor
 
 ## Related Claims
 - [Classroom energizers improved on-task behaviour, but PA during a classroom task showed no improvement](energizers-on-task-behaviour-effect.md) — related
+- [In two reviewed studies, CB-PA improvements in attention measures were moderated by other variables such as cognitive engagement and timing](cbpa-effects-moderated-cognitive-engagement-timing.md) — related
+- [Over a three-year CB-PA intervention, the percent of time spent in MVPA was significantly associated with the percent of time on task (p < 0.01)](three-year-cbpa-mvpa-time-on-task.md) — reports the opposite
+- [Acute cardio exercise improves executive functions, response time, and academic performance in children with ADHD](acute-cardio-exercise-improves-executive-function-adhd-children.md) — related
+- [Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18](cbpa-improves-attention-on-task-schoolchildren.md) — possibly the same claim (merge candidate)

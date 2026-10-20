@@ -46,3 +46,6 @@ Qualitative synthesis coding Policy across the 90-system corpus into 12 categori
 - [Authority over assistance boundaries is highly centralized in system logic in LLM-based programming support systems](authority-centralized-system-only-llm-programming-support.md) — related
 - Educational objects in LLM-based family education research concentrate on language, literacy, and narrative development, with mathematical, scientific, and embodied learning weakly represented — related
 - The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers — related
+- [Prompt-Based Constraint is the dominant enforcement mechanism in LLM-based programming support systems](prompt-based-constraint-dominant-enforcement.md) — related
+- [Policy and enforcement counts were not strongly associated across systems](policy-enforcement-counts-not-associated.md) — related
+- [Real-time detection of SRL processes can personalize scaffold content, with all five scaffolds personalized to some extent but to varying degrees (scaffolds 2 and 5 most, scaffold 3 least).](real-time-srl-detection-personalizes-scaffold-content-varying-degrees.md) — a narrower finding that bears on this claim

@@ -46,3 +46,4 @@ The review's synthesis of efficacy information from 26 of the 44 included articl
 - [Immediate Own Motion was the largest class of embodied learning environments, with motion sensor technology used in 30 of its 34 environments](class-i-immediate-own-motion-largest-motion-sensors.md) — related
 - [Review analysis uncovered eight mediating factors for students' understanding of graphing motion, mentioned in 127 instances across the 62 learning environments](eight-mediating-factors-embodied-graphing-motion.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
+- [PDE studies embodying the four design principles most strongly were associated with the strongest PDE outcomes](pde-principle-strength-associated-outcomes.md) — related

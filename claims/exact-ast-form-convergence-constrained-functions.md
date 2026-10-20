@@ -46,3 +46,5 @@ Pearson's chi-square tests of independence on source-by-form contingency tables 
 - [Student solutions became less varied on four of five selected functions by 2025, with exact-form declines of 18.4–51.1%, while the open-ended loopy_madness did not decline](student-exact-form-diversity-declined-constrained-functions.md) — related
 - [Solutions from different LLM providers converged broadly on most CS1 labs, with cross-LLM MOSS match rates of about 88% pooled across labs but only 13.18–22.11% on Lab 10](cross-llm-convergence-task-dependent.md) — related
 - [LLMs across five models generate diverse erroneous Java code, with mean AST edit distances varying by model and prompting strategy](llms-generate-diverse-erroneous-java-code-varying-by-model-and-prompt.md) — related
+- [Frontier LLMs produced near-perfect solutions to CS1 labs, with mean hidden-instructor-test scores of 98.93–99.99% across model–year combinations](llm-near-perfect-cs1-lab-solutions.md) — related
+- [Higher-struggling-level problems elicit more diverse but less student-like LLM-generated errors](higher-struggling-problems-elicit-more-diverse-less-student-like-errors.md) — related

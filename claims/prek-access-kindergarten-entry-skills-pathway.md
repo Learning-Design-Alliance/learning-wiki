@@ -48,3 +48,6 @@ The report's key-findings section describes a pathway analysis in which policy c
 - No statistically significant links between district kindergarten offerings or PreK4 programming and kindergarten math growth — related
 - [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](full-day-prek-associated-el-kindergarten-readiness.md) — related
 - [After the policy changes, students lived on average 0.6 miles closer to a school with full-day pre-k, with the largest gains for high-priority groups](full-day-access-increased-post-policy.md) — related
+- [Enrolling in CPS pre-k before age four is associated with stronger kindergarten readiness in English language development and early reading for ELs](earlier-prek-enrollment-el-kindergarten-readiness.md) — related
+- [The pathway from full-day pre-k to better second-grade outcomes was especially strong among Black students, lowest-income students, and students living in mostly-Black neighborhoods](prek-pathway-strongest-high-priority-groups.md) — related
+- [Pre-k policy changes were associated with higher second-grade reading test scores for Black students and students in the lowest-income group](prek-policy-reading-gains-black-lowest-income.md) — related

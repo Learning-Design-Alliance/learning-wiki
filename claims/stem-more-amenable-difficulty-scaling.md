@@ -47,3 +47,6 @@ Semi-structured interviews in the formative study's cross-school migration theme
 - [A formative study with six teachers and two experts identified five core challenges in lesson plan adaptation, including lack of systematic student profile data and fragmented refinement workflows](five-challenges-lesson-plan-adaptation.md) — related
 - Kolb's inventory successfully differentiated group learning styles by students' subject majors — related
 - [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related
+- [Teacher efficacy underpins the ability to differentiate instruction effectively, with efficacy dependent on pedagogical content knowledge](teacher-efficacy-pck-underpin-differentiation.md) — related
+- [Teachers use Microsoft Forms for real-time formative assessment to make in-the-moment instructional adjustments](forms-realtime-formative-assessment-uses.md) — related
+- [Teachers used Forms results to differentiate instruction, including forming working groups and modifying assessments for IEP accommodations](forms-differentiated-instruction-uses.md) — related

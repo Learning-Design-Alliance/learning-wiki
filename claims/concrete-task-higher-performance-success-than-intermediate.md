@@ -64,3 +64,5 @@ Same randomized three-condition experiment. The planned contrast between interme
 ## Related Claims
 
 - [In multiple regression, the percentage of exploratory experiments was the strongest predictor of performance success, negatively related to it](exploratory-experiments-negative-predictor-of-success.md)
+- [Concrete-task participants conducted a significantly lower percentage of exploratory experiments than intermediate-task participants, whose exploratory percentage matched the abstract condition](concrete-task-lower-exploratory-experiments.md) — related
+- [Learners have a strong natural tendency to induce a rationale from discovered relations, which can evoke erroneous hypotheses about undiscovered relations and reduce inquiry success](natural-tendency-to-induce-rationale-evokes-error-prone-hypotheses.md) — related

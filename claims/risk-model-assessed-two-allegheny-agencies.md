@@ -49,3 +49,4 @@ Report-level descriptive account of the model assessment, which used data from t
 - The study uses five years of linked school and child welfare administrative data to predict near-term academic risks, with the two most recent years serving as outcome years — related
 - [A partnership developed an approach for identifying at-risk students using school data linked with child welfare, justice, human services, and public benefits data.](linked-school-human-services-data-identify-near-term-academic-risk.md) — a broader claim this one bears on
 - [A predictive model built from school and child welfare data identifies students at risk of near-term academic problems](school-child-welfare-data-predict-near-term-academic-risks.md) — possibly the same claim (merge candidate)
+- [Predictive models built in a modelable ecosystem generalize across institutions](cross-institutional-generalizability-coursekata-models.md) — related

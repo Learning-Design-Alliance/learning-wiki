@@ -54,3 +54,5 @@ The review attributes to Doshi and Hauser (2024) that LLM access "boosts individ
 - GenAI access disproportionately benefits less inherently creative writers, equalizing creativity scores across writers — possibly the same claim (merge candidate)
 - GenAI-enabled stories are more similar to the GenAI ideas and to other stories in their condition, reducing collective diversity of novel content — a narrower finding that bears on this claim
 - Writers themselves perceive no creativity benefit from GenAI access even though evaluators do — reports the opposite
+- [Single-LLM writing assistance increased idea-level homogenization across writers, while a role-specialized duo of architecturally distinct LLMs preserved baseline diversity](role-specialized-duo-preserves-idea-diversity.md) — a narrower finding that bears on this claim
+- [GenAI use in creative contexts tends toward regression to the mean: less skilled users improve while higher skilled users decline](genai-creativity-regression-to-the-mean.md) — related

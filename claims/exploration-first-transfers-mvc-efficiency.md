@@ -47,3 +47,5 @@ The Task 2 × condition interaction ANCOVAs showed significant interactions for 
 - [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](no-posttest-differences-mvc-convergence.md) — reports the opposite
 - [Instruction before exploration yields immediate MVC-strategy advantages in the first exploration task, driven by shorter exploration time](instruction-first-immediate-mvc-strategy-task1.md) — related
 - [PS-I with a virus transmission simulation showed better transfer of multivariable causality to a new context, despite similar end-of-intervention performance to I-PS](ps-i-simulation-better-mvc-transfer.md) — a broader claim this one bears on
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
+- [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — a broader claim this one bears on

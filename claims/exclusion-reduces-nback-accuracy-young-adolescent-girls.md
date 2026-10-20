@@ -47,3 +47,5 @@ Controlled experiment with 98 females in three age groups (young adolescents N=3
 - [Cyberball exclusion lowers mood in young adolescents, mid-adolescents and adults alike](cyberball-exclusion-lowers-mood-all-age-groups.md)
 - [Mood changes do not moderate the effect of exclusion on working memory performance](mood-does-not-moderate-exclusion-working-memory-effect.md)
 - [Social exclusion shows no significant effect on n-back response times in any age group](no-exclusion-effect-nback-response-times.md)
+- [Social exclusion has no significant effect on visuo-spatial dot-matrix working memory accuracy in any age group](no-exclusion-effect-visuospatial-working-memory.md) — related
+- [Threat of an aversive scream lowers verbal working memory accuracy at low and medium load but not at high load in both adolescents and adults](threat-impairs-accuracy-low-medium-not-high-load.md) — related

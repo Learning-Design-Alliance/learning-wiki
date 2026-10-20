@@ -123,3 +123,9 @@ The authors review 418 prejudice-reduction experiments published 2007–2019, es
 - [Sharing experiences in class discussion modifies learners' attitudes and interpretations](sharing-experiences-modifies-attitudes.md) — related
 - Participating youth appeared to develop perspective-taking skills, with 84% of students reporting greater openness to others' perspectives — related
 - [Induced perspective-taking strategies affect SPT outcomes, but no consensus exists on the most effective strategy](strategy-inductions-affect-spt-outcomes.md) — related
+- [Review reports a game-based learning course increased adolescents' empathy and compassion in migration/refugee context](game-based-learning-empathy-sec.md) — related
+- [Counselors exposed to 'sex trafficking' labels reported more victimization-oriented attitudes than counselors exposed to 'prostitute' labels](trafficking-labels-shift-counselor-attitudes-toward-victimization.md) — related
+- [Intergroup contact in diverse schools reduces prejudice and increases positive cross-racial relationships, alongside improved critical thinking and civic outcomes](diverse-schools-social-and-civic-benefits.md) — related
+- [Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes](csl-one-on-one-partner-contact-disrupts-stereotypes.md) — related
+- [Honours community members report isolation and negative bias from regular students and lecturers](honours-community-isolation-from-regular-students.md) — related
+- [Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction](role-play-discussion-built-knowledge-empathy.md) — a narrower finding that bears on this claim

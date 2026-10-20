@@ -47,3 +47,5 @@ The review's third section examines hypothesized links between selective attenti
 - [Developmental differences in selective attention are related to neural systems for deploying attention and managing response conflict, while deployed selective attention acts through similar neural mechanisms across ages](developmental-selective-attention-deployment-mechanisms.md)
 - [Video-game play and mind-brain training literatures suggest the possibility of training selective attention](video-game-and-mind-brain-training-selective-attention.md)
 - [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md)
+- [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on
+- [Early math and literacy development intertwine in early childhood](early-math-literacy-development-intertwine.md) — related

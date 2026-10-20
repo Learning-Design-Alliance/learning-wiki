@@ -47,3 +47,4 @@ Correlational study of N = 67 undergraduate psychology students using a self-rep
 - [Students’ actual genAI use correlates with interest and perceived usefulness of genAI but not with knowledge or critical-thinking dispositions](actual-genai-use-tied-to-interest-and-usefulness.md) — related
 - [Epistemic orientation and intellectual values jointly predict students’ critical use of genAI, accounting for about one-third of its variance](epistemic-orientation-intellectual-values-predict-critical-genai-use.md) — related
 - [Need for cognition correlates positively with critical genAI use and negatively with perceived usefulness of genAI](nfc-correlates-critical-use-and-skeptical-usefulness.md) — related
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related

@@ -45,3 +45,4 @@ Validity analysis of PDE's school climate survey for elementary school students,
 ## Related Claims
 - The three domains of the PDE elementary school climate survey were distinct from one another — related
 - [The safe and respectful school climate domain of the elementary student survey fell short of the established reliability threshold](safe-respectful-climate-domain-below-reliability-threshold.md) — related
+- [Only 50% of a school's 5Essentials score is explained by the previous year's score, indicating substantial year-to-year malleability of school climate](5essentials-score-only-half-explained-by-prior-year.md) — related

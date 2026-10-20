@@ -66,3 +66,4 @@ Hypothesis H8 tested against pooled outcomes in the meta-regression; the authors
 - [Mono-disciplinary RCR courses were not more effective than multi-domain courses, contradicting prior reviews](rcr-mono-disciplinary-not-replicated.md) — related
 - [A practical, experiential course emphasis is the best predictor of effective research integrity training across learning outcomes](rcr-experiential-emphasis-best-predictor.md) — related
 - [RCR courses produce a pooled mean effect of g = 0.52, with knowledge (0.64) and behavior (0.69) outcomes showing larger average effects than judgment (0.41)](rcr-training-pooled-main-effects.md) — related
+- [In the narrative synthesis, blended and purely online conditions within a single study generally produced similar learning outcomes, and media elements such as video or online quizzes did not appear to influence learning.](narrative-synthesis-variants-of-online-learning.md) — related

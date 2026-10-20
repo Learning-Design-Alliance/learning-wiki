@@ -84,3 +84,8 @@ Follow-up ANOVA on the integrative measure elaborations across domains in the sa
 
 - [Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions](knowledge-gains-comparable-across-prompt-conditions.md)
 - [Prompted and control groups show no significant differences in separative elaborations within domains or in additions](no-prompt-effect-within-domain-elaborations-additions.md)
+- [Pre-service teachers' second-order knowledge integration is mediated by their first-order knowledge integration](first-order-knowledge-integration-mediation.md) — related
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — a broader claim this one bears on
+- [Pre-reading relevance instructions produce better cued recall for test questions more similar to the instructions than for questions less similar to them](relevance-instruction-similarity-cued-recall-advantage.md) — related
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
+- [Pre-reading relevance instructions did not change reading time on sentences targeted by the questions](no-reading-time-difference-targeted-sentences.md) — related

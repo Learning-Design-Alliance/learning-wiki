@@ -66,3 +66,10 @@ A textbook chapter by a co-author of the *Survey of Instructional Design Models*
 - [Very little empirical work exists on the effectiveness of strategies for developing students' evaluative judgement](little-empirical-work-evaluative-judgement-strategies.md) — a narrower finding that bears on this claim
 - [Many popular school-based prevention approaches have not been well studied to date](popular-prevention-approaches-understudied.md) — a narrower finding that bears on this claim
 - [Culture has been mostly ignored as a design construct in the field of instructional design](culture-ignored-in-id-field.md) — related
+- [Practitioners hold that general instructional design principles are universal but must be separated from culturally specific applications](universal-principles-separated-from-applications.md) — related
+- [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related
+- [Classroom teachers rarely consult research when making decisions about their classroom practices, citing time constraints, the vastness of research, paywalls, and perceived distance from practice](teachers-rarely-consult-research-decision-making.md) — related
+- [The system has no empirical evaluation yet: profile accuracy has not been assessed and learning outcomes remain an open question](ecnuclaw-no-empirical-evaluation-yet.md) — related
+- [The TCSA literature is sparse, with very few empirical or quantitative studies of the models' measurement properties](tcsa-literature-sparse-few-quantitative-studies.md) — a narrower finding that bears on this claim
+- [Merely modifying teaching methods in medical and dental schools has limited merit for steering students' learning approaches; no one-size-fits-all teaching method exists](teaching-method-modification-limited-merit.md) — a narrower finding that bears on this claim
+- [Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence](minimally-guided-approaches-ignore-cognitive-architecture.md) — related

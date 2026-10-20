@@ -43,4 +43,5 @@ Authors' interpretation (type e) comparing the two studies: Study II treated war
 
 
 ## Related Claims
--
+- [Secondary school students learn more complex marine ecology content from interactive computer simulations than from hands-on experiments, with a larger advantage for the more complex multidimensional topic](simulations-beat-experiments-complex-content-knowledge.md) — related
+- [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — related

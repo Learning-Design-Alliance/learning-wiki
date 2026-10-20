@@ -48,3 +48,4 @@ Difference-in-differences analysis of the Philadelphia discipline reform reports
 - [A suspension decreases math and reading achievement for suspended students](suspension-decreases-suspended-student-achievement.md) — related
 - [In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased](partial-implementation-schools-peer-outcomes-declined.md) — related
 - [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related
+- [District policies discouraging suspensions show mixed effects: shortened suspensions were associated with improved attendance but worse school climate](discipline-policy-changes-mixed-effects.md) — related

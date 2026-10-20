@@ -44,3 +44,4 @@ Correlation analysis within the same experiment relating the resistance to peer 
 
 ## Related Claims
 - [Neural audience effects do not correlate with behavioural audience effects or resistance-to-peer-influence scores](no-correlation-neural-behavioural-audience-effect.md) — possibly the same claim (merge candidate)
+- [A peer audience decreases accuracy in the complex relational integration condition in both adolescents and adults](peer-audience-decreases-relational-integration-accuracy.md) — related

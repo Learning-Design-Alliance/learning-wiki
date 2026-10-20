@@ -49,3 +49,5 @@ Phenomenographic content analysis of post-course semi-structured interviews with
 - [Students adopted nondeterministic (SCOT-like) views in which humans influence technological change, supporting agency](students-scot-views-human-steering-technology.md) — related
 - [Students reported acquiring new futures thinking skills (scenario building, backcasting) that systematised their thinking](course-new-futures-thinking-skills-systematised.md) — related
 - [Imagining preferable futures, especially via backcasting, was seen by students as creating possibilities for agency](preferable-futures-backcasting-agency.md) — related
+- [Fear of hope: an acquired aversion to feeling hopeful due to anticipated disappointment may block hopeful engagement](fear-of-hope-acquired-aversion.md) — related
+- [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](story-mine-qualitative-mixed-experiences.md) — related

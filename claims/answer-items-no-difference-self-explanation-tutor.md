@@ -43,4 +43,5 @@ Null result from the same Geometry Cognitive Tutor classroom experiment on isomo
 
 
 ## Related Claims
--
+- [Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone](self-explanation-prompts-geometry-tutor-robust-learning.md) — related
+- [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — related

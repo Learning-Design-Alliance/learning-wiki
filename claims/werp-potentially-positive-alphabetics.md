@@ -59,3 +59,5 @@ WWC re-analysis of the Hecht & Close (2002) quasi-experimental study (76 Kinderg
 - [Evidence base for Waterford Early Reading Level One™ is small, with no standards-meeting studies in four of six outcome domains](waterford-level-one-small-extent-of-evidence.md) — related
 - Waterford Upstart participation shows statistically significant positive effects on early literacy skills in matched quasi-experimental cohorts — related
 - [WWC rates MTP-S as having potentially positive effects on general achievement, with a small extent of evidence](mtp-s-potentially-positive-general-achievement.md) — related
+- [Earobics® has potentially positive effects on reading fluency, with no statistically significant fluency findings](earobics-potentially-positive-reading-fluency.md) — a narrower finding that bears on this claim
+- [The WWC rates The Expert Mathematician as having potentially positive effects on middle school mathematics achievement](wwc-potentially-positive-rating-expert-mathematician.md) — a narrower finding that bears on this claim

@@ -47,3 +47,4 @@ Exploratory pre/post analyses comparing larger versus smaller tutoring groups. S
 - [The size of tutoring programs' effects on student math knowledge aligned with the quality of their implementation](tutoring-effect-size-aligned-with-implementation-quality.md) — related
 - [Most Blueprint students reported strong tutor relationships, but reported relationship strength varied across sites](blueprint-tutor-relationships-varied-by-site.md) — related
 - [Blueprint Math Fellows tutoring raised middle school students' math test scores by 0.12 standard deviations relative to nonparticipant peers](blueprint-tutoring-012-sd-math-gain.md) — related
+- [Students completing the end-of-year survey reported favorable views of their relationships with math tutors and their sense of belonging in tutoring sessions](breakthrough-tutoring-favorable-relationships-belonging.md) — related

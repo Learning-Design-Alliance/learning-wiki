@@ -46,3 +46,5 @@ WWC-calculated results for the RCT's intention outcomes, with effect sizes calib
 ## Related Claims
 - [Facing History and Ourselves shows no discernible effects on student behavior, with self-reported fighting differences neither statistically significant nor substantively important](fhao-no-discernible-effects-behavior.md) — related
 - [Statistically significant effects reported by the CDP studies were not statistically significant as recalculated by the WWC](wwc-recalculation-nullifies-reported-cdp-effects.md) — related
+- [In the RCT, the average effect across knowledge, attitudes, and values outcomes was substantively important (0.35) but not statistically significant, with several individual outcomes null](tgfdv-rct-average-effect-not-significant.md) — related
+- [Three of seven knowledge, attitudes, and values outcomes favor Facing History and Ourselves, including relationship maturity (best response) with effect size 0.45, but none remain statistically significant after WWC corrections](fhao-three-of-seven-outcomes-favor-program.md) — related

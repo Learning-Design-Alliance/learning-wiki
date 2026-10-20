@@ -68,3 +68,4 @@ In the same Mathematica quasi-experimental study of grades 1–5 in District of 
 - [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](funds-of-knowledge-research-raises-teacher-expectations.md) — the general claim this finding bears on, with the studies behind it
 
 - [Teacher home visits slightly improved student attendance in the following school year (95.28% vs 94.93%; ES = +0.02 in the Evidence for ESSA summary)](pthv-home-visits-improve-attendance-slightly.md) — related
+- [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](pthv-home-visit-reduces-disciplinary-incidents.md) — related

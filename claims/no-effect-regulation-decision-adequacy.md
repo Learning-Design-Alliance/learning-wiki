@@ -45,3 +45,6 @@ Regression analysis on regulation decision adequacy (restudy decisions scored 0 
 ## Related Claims
 
 - [Judgment accuracy of comprehension did not depend on misconceptions or instructional method](no-effect-judgment-accuracy-comprehension.md)
+- [Completing the think sheet more accurately was associated with higher comprehension, transfer, and regulation decision adequacy](think-sheet-quality-relates-outcomes.md) — related
+- [Think sheets counteracted the positive effect of misconceptions on transfer in the control group, though the overall interaction only approached significance](think-sheet-misconception-effect-transfer.md) — related
+- [Under reading-only, students with more misconceptions achieved better comprehension, but completing a think sheet removed this effect of misconceptions on comprehension](think-sheet-removes-misconception-effect-comprehension.md) — related

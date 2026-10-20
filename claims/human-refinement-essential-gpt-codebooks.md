@@ -49,3 +49,4 @@ Step 3 human refinement by two coders evaluated specificity and applicability of
 - A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment — related
 - [GPT-5 used as a third coder introduced a calculation_check category absent from the human codebook, covering 28% of messages and exposing an unnamed recurring request type](gpt5-introduced-calculation-check-category.md) — related
 - [Inductive content analysis of 69 validated digital literacy frameworks yields eleven shared element categories spanning student and educator roles](eleven-digital-literacy-element-categories-review.md) — related
+- [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](llm-inductive-coding-sensitizing-concept-risk.md) — related

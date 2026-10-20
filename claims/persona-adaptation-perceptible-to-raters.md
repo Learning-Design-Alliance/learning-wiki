@@ -63,3 +63,5 @@ Comparison against the human-video topline (eight Creative Commons videos with r
 
 ## Related Claims
 - [Dialogue-derived interactional cues robustly encode ground-truth identity, achieving near-ceiling AI identification under cross-validation](cues-encode-identity-near-ceiling-classification.md) — related
+- [Only the challenge winner clearly beat the organizer baselines; most shortlisted systems have not yet improved on a commercial generator or well-chosen human-made video](only-winner-beat-organizer-baselines.md) — related
+- [Judge and crowd broadly agree on which criteria matter, but the judge's near-identical top scores make its ranking of strong systems essentially random](judge-crowd-agree-on-criteria-but-scores-separate-nothing.md) — related

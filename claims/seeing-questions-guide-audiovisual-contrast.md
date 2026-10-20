@@ -43,4 +43,4 @@ Finding from the analysis of the 40 recorded debriefings: facilitator questions 
 
 
 ## Related Claims
--
+- [In the debriefings, students who observed a scenario via live video join facilitators in attempts to reconceptualise the experiences expressed by scenario participants, using audiovisual appearances as a resource](peer-students-reconceptualisation-supported.md) — related

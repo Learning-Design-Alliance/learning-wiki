@@ -47,3 +47,6 @@ Within-ADHD comparisons of adverse outcomes between extreme-DESR and non-DESR gr
 - [DESR overlaps with ODD but is not identified by ODD diagnosis alone in adults with ADHD](desr-overlaps-odd-but-not-identified-by-odd.md) — related
 - [A majority of adults with ADHD show extreme DESR exceeding the 95th percentile of control subjects](extreme-desr-majority-of-adhd-adults.md) — related
 - [Extreme DESR in adults with ADHD is linked to worse social adjustment on most SAS-SR domains](extreme-desr-worse-social-adjustment-sassr.md) — related
+- [Adults with ADHD report deficient emotional self-regulation symptoms far more frequently than adults without ADHD](desr-more-frequent-in-adhd-adults-than-controls.md) — related
+- [More current comorbid conditions are associated with higher DESR scores in adults with ADHD](dose-response-comorbidity-count-and-desr.md) — related
+- [DESR severity correlates strongly with current ADHD symptom severity in adults with ADHD](desr-correlates-with-adhd-symptom-severity.md) — related

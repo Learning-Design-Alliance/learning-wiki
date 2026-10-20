@@ -66,3 +66,5 @@ Narrative review synthesis of rodent research on unpredictable maternal inputs. 
 - [Threat and deprivation show overlapping effects on PFC-amygdala connectivity and hippocampal volume](threat-deprivation-shared-neural-effects.md) — related
 - [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — related
 - [The probability of school failure increases as a function of the timing and length of children's exposure to relational adversity](cumulative-relational-adversity-school-failure.md) — related
+- [Exposure to adverse early circumstances affects the developing brain in ways that increase risk for later problems](adversity-affects-developing-brain-increasing-risk.md) — a broader claim this one bears on
+- [Lower SES adolescents show greater stress-related increase in serotonin transporter gene methylation, associated with greater amygdala reactivity and depression symptoms](ses-linked-methylation-amygdala-reactivity-depression.md) — related

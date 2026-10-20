@@ -46,3 +46,4 @@ Process-layer verdict-lexicon analysis of 440 spoken evaluative utterances from 
 - [More experienced AI users showed a Boilerplate Blindspot: uncritically accepting 'trivial' AI-generated code in which later defects originated](boilerplate-blindspot-experienced-students.md) — related
 - [A substantial share of builders' voiced design intentions never reaches the typed prompt, leaving design choices to the production stack's defaults](translation-loss-voiced-intents-dropped.md) — related
 - [Chat-driven vibe-coding builders converge on a single generate-and-check script whose dominant time cost is dead waiting for the tool](shared-generate-and-check-loop-script.md) — related
+- [Builders' perceived control, satisfaction, and perceived quality show no detectable association with their measured visual atypicality, so convergence goes unnoticed from the inside](perception-uncorrelated-with-measured-originality.md) — related

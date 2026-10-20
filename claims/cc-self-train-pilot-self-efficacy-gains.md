@@ -74,3 +74,5 @@ Non-parametric confirmation of the overall pre/post gain in the same pilot. The 
 - [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — related
 - The article is situated within research on self-regulated learning strategies in educational contexts — related
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
+- [Intervention-cohort students reported positive pre–post shifts in Innovation and Motivation and Self-Directed Learning Ability](prepost-shifts-innovation-motivation-self-directed-learning.md) — related
+- [Improvements over baselines are statistically significant, with Cohen's d ranging from 1.2 to 1.8 for key metrics](statistical-significance-effect-sizes-key-metrics.md) — related

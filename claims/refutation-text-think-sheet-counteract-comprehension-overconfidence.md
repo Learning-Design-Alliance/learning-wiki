@@ -66,3 +66,8 @@ Omnibus moderation test on comprehension-prediction bias in the same experiment:
 - [Learners with more misconceptions who completed a think sheet were more underconfident in predicting their transfer performance](think-sheet-underconfidence-transfer-predictions.md) — related
 - [Completing a think sheet yields higher response-confidence accuracy than reading a refutation text or a standard text with a misconception list](think-sheet-higher-response-confidence-accuracy.md) — related
 - [Misconceptions did not impair transfer in the strong control condition, but learners with more misconceptions in the think-sheet group transferred better](think-sheet-misconceptions-positive-transfer-effect.md) — related
+- [Completing the think sheet more accurately was associated with higher comprehension, transfer, and regulation decision adequacy](think-sheet-quality-relates-outcomes.md) — related
+- [Text topic moderates judgment bias: the CLT text produced higher overconfidence for application performance than the CVT text](text-topic-moderates-application-overconfidence.md) — related
+- [Refutation texts produce greater conceptual change about multimedia-learning misconceptions than standard texts in student teachers](refutation-texts-greater-conceptual-change-than-standard.md) — related
+- [Under reading-only, students with more misconceptions achieved better comprehension, but completing a think sheet removed this effect of misconceptions on comprehension](think-sheet-removes-misconception-effect-comprehension.md) — related
+- [Judgment accuracy of comprehension did not depend on misconceptions or instructional method](no-effect-judgment-accuracy-comprehension.md) — related

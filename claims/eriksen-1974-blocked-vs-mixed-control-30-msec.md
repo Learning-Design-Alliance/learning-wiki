@@ -48,3 +48,4 @@ Three-way ANOVA (Ss by Target Letter by Mixed vs Blocked Trial Presentation) on 
 - [Heterogeneous noise letters with set-related features produce intermediate RT impairment, consistent with stimulus generalization at wider spacings](eriksen-1974-similar-dissimilar-noise-intermediate.md) — related
 - [Target RT decreases as between-letter spacing increases, and the noise-condition effect is greatest at the closest spacing (Noise Condition by Spacing interaction)](eriksen-1974-spacing-decreases-rt-interaction.md) — related
 - [Error data mirror the RT findings: opposite-response-set noise caused far more errors at the two closest spacings](eriksen-1974-errors-mirror-rt-pattern.md)
+- [Bilingual 8-year-olds show no switching cost between blocked and mixed trial blocks, unlike monolinguals](bilingual-children-no-switching-cost-faces-task.md) — reports the opposite

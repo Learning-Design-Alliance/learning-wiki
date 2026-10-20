@@ -46,3 +46,4 @@ ANOVA comparing average student Predicted Grade (from a regression on UW GPA and
 - [Raw failure rates in the introductory biology course declined from 18.2% to 6.3% as course structure increased across quarters](failure-rate-declined-18-to-6-percent.md) — related
 - [High course structure significantly reduces failure rates in introductory biology independent of student ability, while moderate structure has a marginal effect](high-structure-reduces-failure-intro-biology.md) — related
 - [The six clusters differ substantially in academic performance: Final Grade ANOVA η² = 0.770, with C0 exceeding C1 by 40.17 exam-score points](cluster-performance-anova-tukey.md) — related
+- [Drop rates did not vary with course structure except for an increase in the final high-enrollment quarter](drop-rate-stable-except-autumn-2009.md) — related

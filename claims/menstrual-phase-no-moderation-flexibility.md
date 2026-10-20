@@ -49,3 +49,4 @@ Additional analysis within the randomized experiment testing menstrual cycle pha
 - [Acute stress did not significantly affect women's cognitive flexibility](acute-stress-no-effect-women-flexibility.md) — related
 - [Acute psychosocial stress differentially affects cognitive flexibility by sex (significant Sex × Condition interaction on perseverative errors)](acute-stress-sex-specific-cognitive-flexibility.md) — related
 - [Daily physiological changes in non-experimental situations influence measures of brain structure and function](daily-physiological-changes-influence-brain-measures.md) — related
+- [Changes in cortisol did not predict perseverative errors in any sex](cortisol-change-not-predict-flexibility.md) — related

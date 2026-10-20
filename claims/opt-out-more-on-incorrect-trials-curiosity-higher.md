@@ -64,3 +64,7 @@ Same Experiment 2 mixed-effects regression on curiosity and opt-out choice found
 ## Related Claims
 
 - [The opt-out and curiosity–accuracy findings replicate in a larger UK sample (Experiment 3A)](opt-out-curiosity-findings-replicate-uk-sample.md)
+- [Adults report greater curiosity about answers on incorrect-answer trials than on correct-answer trials](curiosity-higher-incorrect-than-correct-trials.md) — related
+- [Exposure to others' discrepant curiosity ratings reduces the curiosity gap between opted-out and non-opted-out trials and between incorrect and correct trials, altering metacognitive control](others-curiosity-discrepancy-alters-metacognitive-control.md) — related
+- [Adults' confidence judgments track answer accuracy: confidence is higher on correct than incorrect general-knowledge trials (metacognitive monitoring)](confidence-higher-correct-than-incorrect-trials.md) — related
+- [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related

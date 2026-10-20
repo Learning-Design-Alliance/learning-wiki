@@ -62,4 +62,6 @@ Condition comparison of groups with gini ≥ 0.5 across the field experiment; th
 
 
 ## Related Claims
--
+- [More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration](unequal-participation-lower-satisfaction.md) — related
+- [Neither a group awareness tool alone nor combined with adaptive prompts significantly changed the equality of participation in university online collaboration](gat-prompt-no-significant-equal-participation-effect.md) — reports the opposite
+- [Participation within teams was fairly equal in all conditions, with Gini coefficients close to zero and no significant between-condition differences](equal-participation-across-collaboration-conditions.md) — reports the opposite

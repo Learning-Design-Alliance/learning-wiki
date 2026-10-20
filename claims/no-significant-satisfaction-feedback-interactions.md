@@ -46,3 +46,4 @@ Interaction tests in the HLM models for the post-actional to pre-actional transi
 ## Related Claims
 - [Different forms of feedback within a single ALT play distinct, phase-specific roles in SRL, with directive feedback appearing helpful before but not after task engagement](phase-specific-roles-of-feedback-forms.md) — related
 - [Time Management showed a marginally significant post-intervention difference favouring GenAI feedback, while Goal Setting, Help Seeking and Self-Evaluation showed no significant differences](genai-feedback-tm-marginal-other-srl-null.md) — related
+- [Transformative feedback attenuated the positive association between joy and regulatory behavior, and adaptive feedback moderation was otherwise limited, not supporting H2](transformative-feedback-attenuates-joy-regulation-link.md) — related

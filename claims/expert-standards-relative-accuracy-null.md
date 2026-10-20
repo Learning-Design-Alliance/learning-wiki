@@ -48,3 +48,6 @@ The 2×2 ANOVA on intra-individual gamma correlations between students' and expe
 - [Idea unit standards do not enhance judgment accuracy in evaluating self-generated examples](idea-unit-standards-ineffective-example-generation.md) — possibly the same claim (merge candidate)
 - [Providing a rubric does not significantly improve relative accuracy of self-assessment across criteria](rubrics-no-effect-relative-accuracy.md) — related
 - [Thinking aloud does not affect teachers' monitoring accuracy](think-aloud-no-effect-teacher-monitoring-accuracy.md) — related
+- [Example quality does not significantly moderate the effects of the standards on judgment accuracy when aggregated across concepts](example-quality-moderation-null.md) — related
+- [Negative example standards do not reliably improve judgment accuracy and significantly decrease relative accuracy in evaluating self-generated examples](negative-example-standards-inconsistent-effects.md) — related
+- [Expert example standards improve university students' judgment accuracy (bias, absolute accuracy, and relative accuracy) when evaluating self-generated examples](expert-example-standards-improve-judgment-accuracy.md) — reports the opposite

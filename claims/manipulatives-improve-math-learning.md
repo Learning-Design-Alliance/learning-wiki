@@ -113,3 +113,10 @@ The one meta-analysis recorded above (Carbonneau et al., 2013) supports a small-
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related
 - [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related
 - [Symbols-only training improved kindergarteners' performance on difficult place value items, but base-10 blocks training did not](symbols-only-training-improves-difficult-items.md) — reports the opposite
+- [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — related
+- [A cube-tower instructional sequence instantiated concreteness fading in an elaborated form for two preservice teachers' combinatorial reasoning](cube-tower-sequence-elaborated-cf-instantiation.md) — a narrower finding that bears on this claim
+- [Concreteness fading provides embodied perceptual and physical experiences that can ground abstract thinking](fading-provides-embodied-grounding.md) — related
+- [The effectiveness of concrete representations may depend more on how relatable they are than on their real-world existence](concrete-representations-effectiveness-relatability.md) — related
+- [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
+- [In the owl game, being shown the solids and working with pictures and labels did not help two boys distinguish solids; body-based experience with contrastive guidance was needed](owl-game-body-based-experience-needed-for-solids.md) — a narrower finding that bears on this claim
+- [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — a broader claim this one bears on

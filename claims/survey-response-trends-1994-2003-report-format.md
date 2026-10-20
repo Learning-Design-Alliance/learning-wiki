@@ -45,3 +45,8 @@ This is a descriptive finding about the report itself: it provides 2003 snapshot
 ## Related Claims
 - [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — related
 - [Ten years of repeated survey participation enables reporting of change over time in school climate measures](ten-years-survey-trend-reporting.md) — related
+- [Survey data came primarily from teacher and student surveys conducted in 1994, with school counts varying by measure and wave](survey-waves-1994-primary-school-counts-vary.md) — related
+- [The Charting Reform surveys reached 266 elementary schools and 40 high schools in Chicago in Spring 1994](charting-reform-surveys-266-elementary-40-high-schools.md) — related
+- [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](teacher-access-use-rose-assignments-modest.md) — related
+- [Schools where principals reported fewer technology barriers had higher student access and use and higher teacher access, use, assignments, and professional development](principal-barrier-reports-track-teacher-student-technology.md) — related
+- [School survey reports benchmark each school against demographically similar schools and the whole system over a ten-year period](survey-reports-benchmark-similar-schools-over-time.md) — related

@@ -52,3 +52,4 @@ The paper's opening thesis, advanced as a conceptual argument about assessment d
 - [GenAI-era ICT assessment reform requires a whole-of-institution transformation across seven sequential themes](genai-assessment-reform-sequential-seven-themes.md) — related
 - [GenAI is argued to create an opportunity to move assessment away from sorting and ranking students toward recognising diverse ways of knowing](genai-opportunity-move-beyond-sorting-ranking.md) — a narrower finding that bears on this claim
 - [AI humanizer websites recontextualize detection evasion by deleting misconduct terms and substituting euphemisms like 'humanize' and 'improve flow'](humanizer-recontextualization-deletes-misconduct.md) — related
+- [Detection-oriented integrity approaches are increasingly misaligned with GenAI-augmented assessment (theoretical argument)](detection-approaches-misaligned-genai-assessment.md) — possibly the same claim (merge candidate)

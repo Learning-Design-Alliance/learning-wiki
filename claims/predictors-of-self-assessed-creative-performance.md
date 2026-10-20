@@ -48,3 +48,7 @@ Hierarchical multiple regression (N = 425) predicting self-assessed creative per
 - [Self-assessed creative performance correlates moderately with divergent thinking, but self-assessed idea creativity does not](performance-self-assessment-tracks-dt-idea-self-assessment-does-not.md) — related
 - [Lower creative achievements, higher creative self-efficacy, and higher task motivation predict more positive bias in self-assessed creative performance](predictors-of-bias-in-performance-self-assessment.md) — related
 - [Higher narcissism and higher task motivation predict more positive bias in self-assessed idea creativity](narcissism-motivation-predict-idea-bias.md) — related
+- [Self-assessed creative performance and self-assessed idea creativity are moderately correlated but empirically distinct judgments](performance-and-idea-self-assessments-moderately-related.md) — related
+- [Self-assessed creative performance is slightly underestimated while self-assessed idea creativity is moderately overestimated](performance-underestimated-ideas-overestimated.md) — related
+- [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](individual-supportive-factors-adolescent-creativity.md) — related
+- [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](genai-possible-benefits-children-creative-thinking.md) — related

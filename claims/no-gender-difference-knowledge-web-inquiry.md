@@ -43,4 +43,8 @@ Multilevel Model 1 fixed-effect results from the pretest/posttest study. The Gir
 
 
 ## Related Claims
--
+- [Dyad composition by gender and achievement level is not a confounding variable for knowledge acquisition after Web-based collaborative inquiry](dyad-composition-not-confounding-knowledge.md) — related
+- [Female low achievers from the general track started with the lowest knowledge scores but achieved the highest learning gains in Web-based collaborative inquiry](female-low-achiever-general-track-highest-gain.md) — reports the opposite
+- [A Web-based collaborative inquiry project produces significant overall learning gains in science knowledge in secondary classrooms](web-based-collaborative-inquiry-significant-knowledge-gains.md) — a broader claim this one bears on
+- [All student groups benefited equally in inquiry skills improvement after Web-based collaborative inquiry, with no significant effects of gender, achievement level, or academic track](equal-inquiry-skills-gains-all-groups.md) — related
+- [Increases in the percentage of students in the Harlem Fitness Zone were generally larger for boys than for girls](healthy-harlem-hfz-gains-larger-for-boys.md) — related

@@ -49,3 +49,4 @@ Repeated measures ANOVA on accuracy in symbolic and non-symbolic approximate add
 - [Children with LA show a less severe impairment pattern than children with MLD, differing only on symbolic approximate addition](la-less-severe-pattern-than-mld.md) — related
 - [Group differences on symbolic tasks persist after controlling for number identification skill](symbolic-deficit-not-explained-by-number-identification.md) — a narrower finding that bears on this claim
 - [First graders with MLD are slower than typically achieving peers on symbolic but not non-symbolic numerical magnitude comparison](mld-symbolic-comparison-slower-first-grade.md) — related
+- [Children succeed at non-symbolic approximate addition above chance with a ratio effect, without relying on non-numerical strategies](kindergartners-succeed-nonsymbolic-addition-ratio-effect.md) — related

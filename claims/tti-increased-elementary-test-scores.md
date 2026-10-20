@@ -66,3 +66,6 @@ Multisite randomized experiment of the Talent Transfer Initiative. The reported 
 - [TTI was more cost-effective than similar teacher-transfer incentive interventions](tti-more-cost-effective-than-similar-interventions.md) — related
 - [Most TTI teachers stayed on the job even after incentive payments ended](tti-teachers-retained-after-payments.md) — related
 - [Most TTI teachers stayed on the job even after transfer payments ended](tti-teachers-stayed-after-payments-ended.md) — related
+- [Highest-performing teachers moved students up 4 to 14 percentile points per school year relative to the average district teacher](highest-performing-teachers-4-to-14-percentile-gains.md) — related
+- [A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts](teacher-transfer-incentive-behavioral-responses.md) — related
+- [A $20,000 selective transfer incentive offers high-performing teachers in 10 districts payment to move into their district's hardest-to-staff schools](selective-transfer-incentive-20000-hard-to-staff-schools.md) — related

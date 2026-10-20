@@ -48,3 +48,5 @@ The article's first study, reported in a peer-reviewed journal article, examined
 - [Disengaged test-taking responses can distort the content representation of test items](disengaged-responses-distort-item-content-representation.md) — a broader claim this one bears on
 - [Two decades of research have produced advances in both the measurement of test-taking disengagement and understanding of its distortive impact on individual and aggregated scores](disengagement-research-advances-measurement-and-impact.md) — related
 - [Even a small amount of rapid-guessing behavior can impact institutional rankings](small-rapid-guessing-impacts-institutional-rankings.md) — related
+- [Test-taking disengagement distorts both individual and aggregated test scores](disengagement-distorts-individual-and-aggregated-scores.md) — related
+- [Disengaged responding biases observed scores from achievement tests and surveys in practically and statistically significant ways](disengaged-responding-biases-observed-scores.md) — a broader claim this one bears on

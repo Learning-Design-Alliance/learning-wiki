@@ -45,3 +45,7 @@ ANOVA on the 10-item self-report Meta-Creativity Questionnaire (Version A, Londo
 ## Related Claims
 
 - [CREATE meta-creative pedagogy produces a significant omnibus intervention effect on creative thinking components simultaneously in elementary students](create-omnibus-immediate-effect-creative-thinking.md)
+- [CREATE benefits transfer to a new task on all three creativity components: fluency, flexibility, and originality](create-transfer-effects-all-components.md) — related
+- [CREATE improves students' fluency immediately after the intervention relative to control](create-immediate-fluency-gain.md) — related
+- [CREATE does not produce a significant immediate interaction effect on flexibility, though the experimental group improved pre-to-post](create-immediate-flexibility-null-interaction.md) — related
+- [CREATE improves students' originality immediately after the intervention across all three originality scoring methods](create-immediate-originality-gain.md) — related

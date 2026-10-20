@@ -44,3 +44,6 @@ This is the authors' interpretive alternative hypothesis offered in the introduc
 
 ## Related Claims
 - [Players of RPGs engage in ethical decision making as part of their game play, and games under the right conditions have the potential to foster critical ethical reasoning](rpg-players-engage-ethical-decision-making.md) — a broader claim this one bears on
+- [Expert role-players expressed more frustration with insufficient in-game social context in computer RPGs than with any other aspect, even when discussing their favorite games](players-frustrated-by-thin-social-context.md) — related
+- [Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction](role-play-discussion-built-knowledge-empathy.md) — related
+- [Gamers' collaboration skills are specialized to the game environment and do not straightforwardly transfer to school learning](gamer-skills-not-transferable-to-school-learning.md) — related

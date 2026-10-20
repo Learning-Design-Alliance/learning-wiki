@@ -175,3 +175,8 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — related
 - [Subjective effort ratings are affected by invalid cues and only weakly valid as cues to judged learning outcomes](effort-ratings-invalid-cues-weak-validity.md) — related
 - [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](metacognitive-displacement-illusion-of-competence.md) — related
+- [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](ai-performance-metacognition-dissociation.md) — related
+- [Perceived instructor fluency, not instruction type, predicted students' feeling of learning (0.51 SD, P < 0.001)](perceived-instructor-fluency-predicts-feeling-of-learning.md) — related
+- [Reading instructions without further instructional support are not sufficient to help students accurately judge their text comprehension](reading-instructions-alone-insufficient-for-accurate-judgments.md) — related
+- [Physical access to AI-provided material does not automatically produce epistemological access; facilitation converts one into the other](facilitation-converts-physical-to-epistemological-access.md) — related
+- [In high-stakes homework settings, answer-first checking functions as a rational self-regulation strategy and diagnostic checkpoint rather than shortcutting](answer-first-checking-as-self-regulated-diagnostic-checkpoint.md) — related

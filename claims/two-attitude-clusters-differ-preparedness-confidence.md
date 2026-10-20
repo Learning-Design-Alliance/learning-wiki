@@ -85,3 +85,4 @@ Chi-square tests of knowledge sources by cluster. The article reports word-of-mo
 - [Computing students learn cybersecurity mainly from informal sources outside the classroom, with word of mouth, social media, and financial institutions most common](cybersecurity-knowledge-informal-sources-dominate.md) — related
 - [Security intentions and objective knowledge correlate with preparedness, and self-efficacy correlates with confidence](scales-correlate-with-attitude-factors.md) — related
 - [Self-efficacy predicts cluster membership, with the article concluding self-efficacy may play a foundational role in the cluster difference](self-efficacy-predicts-cluster-membership.md) — related
+- [Computing students report limited cybersecurity assistance and substantial personal victimization, with 61% lacking a trusted person and 21% having fallen victim](limited-support-and-cybercrime-victimization.md) — related

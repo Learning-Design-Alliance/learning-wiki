@@ -46,3 +46,4 @@ Natural field experiment in three HarvardX courses in which some students receiv
 - [The content of MOOC students' plans forecasts completion, with time-focused plans predicting lower completion](time-focused-plans-forecast-lower-mooc-completion.md) — related
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) — a broader claim this one bears on
+- [Goal setting and strategic planning positively predict attainment of personal course goals in MOOCs](goal-setting-strategic-planning-predict-mooc-goal-attainment.md) — related

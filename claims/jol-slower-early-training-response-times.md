@@ -43,4 +43,6 @@ Mixed ANOVA on training response times. The JOL condition also responded signifi
 
 
 ## Related Claims
--
+- [Confidence ratings do not impede category learning per se: no condition differences in training accuracy or on unambiguous and trained transfer items](no-confidence-rating-effect-training-or-unambiguous-items.md) — related
+- [Eliciting confidence ratings impairs rule-based category learning compared to both no-rating and judgment-of-learning conditions on ambiguous transfer items](confidence-ratings-impair-rule-learning.md) — related
+- [Reactivity differs by rating scope: item-focused confidence ratings impaired rule learning while task-focused judgments of learning did not](rating-scope-confidence-versus-jol-reactivity.md) — related

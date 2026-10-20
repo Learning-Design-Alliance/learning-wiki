@@ -46,3 +46,5 @@ Analysis of interview transcripts and observational notes through the circuit-of
 
 - [Users successfully localized the hard-to-use mobile text messaging technology into their daily lives despite poor developer localization](users-localize-hard-to-use-text-messaging.md)
 - [User localization success of text messaging is unqualified and fragile: some participants reduced use when costs rose or alternatives appeared](user-localization-success-fragile.md)
+- [American and Chinese users showed distinct messaging use patterns: fun-oriented short exchanges in the US versus informing and long in-depth chats in China](cross-site-messaging-use-patterns-differ.md) — related
+- [Interview respondents identify collaborative relationships, trust in evidence and its users, clarity on research types, and supportive leadership as facilitators of evidence use](interview-facilitators-evidence-use.md) — related

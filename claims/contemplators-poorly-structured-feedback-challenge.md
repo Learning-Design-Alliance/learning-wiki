@@ -44,4 +44,8 @@ Thematic analysis of open-ended question Q3 responses (n = 348, 54.29% reported 
 
 
 ## Related Claims
--
+- [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](genai-personalised-feedback-contested-depth.md) — related
+- [Latent class analysis of 641 higher education students' survey responses identifies four distinct classes of feedback experience](four-latent-classes-feedback-experiences.md) — related
+- [Perceived usefulness of response-level LLM feedback is most strongly associated with actionability and perceived accuracy](usefulness-associated-actionability-accuracy.md) — related
+- [Intention to use consolidated LLM reports is associated with motivation and personalisation](intention-to-use-associated-motivation-personalisation.md) — related
+- [A trusting, supportive teacher-student relationship emerged as a prominent motivator for acting on feedback, especially for Information Seekers with Low Emotional Strain](teacher-relationship-motivates-feedback-action.md) — related

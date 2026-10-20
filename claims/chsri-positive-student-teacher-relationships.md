@@ -49,3 +49,5 @@ Qualitative observation of student-teacher interactions in 23 classes. Researche
 - [Observed classes in high-performing CHSRI schools showed high or medium student engagement and calm, well-behaved classrooms, with only one low-engagement class](chsri-classes-engagement-calm.md) — related
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — a broader claim this one bears on
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
+- [English/language arts classes in high-performing CHSRI schools required high academic demand, with high-level skill activities in 21 of 23 observed classes](chsri-classes-high-academic-demand.md) — related
+- [Relational goals are associated with recognition, grouping, and classroom mutual respect practices](lao-relational-goals-targets-recognition-grouping-respect.md) — related

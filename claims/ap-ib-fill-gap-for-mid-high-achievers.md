@@ -44,3 +44,9 @@ Descriptive comparison of incoming achievement across CPS program types. The rep
 
 ## Related Claims
 - [Nearly two-thirds of graduates from academically advanced programs graduate with access to a selective or very selective four-year college](cps-advanced-programs-two-thirds-selective-qualified.md) — related
+- [Selective enrollment students from low-income neighborhoods are less likely to attend selective colleges than similarly-performing low-income students who do not enroll](sehs-low-income-selective-college-enrollment.md) — related
+- [CPS neighborhood IB DP students were 40 percent more likely to attend a four-year college and 50 percent more likely to attend a more selective college than a matched comparison group](ib-dp-increases-four-year-and-selective-college-enrollment.md) — related
+- [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
+- [Despite strong academic qualifications, IB DP students often have limited access to the social capital needed to navigate college course selection and access faculty support](ib-dp-students-limited-social-capital.md) — related
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — related
+- [Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended](grades-predict-enrollment-more-than-act-chicago.md) — related

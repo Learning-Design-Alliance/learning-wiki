@@ -53,3 +53,4 @@ Developmental evaluation of PKTP's first full year (2016-17) across 18 classroom
 - [Teachers used Forms for professional purposes: parent communication, professional learning, efficiency, and administrative tasks](forms-professional-uses-four-categories.md) — related
 - [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — related
 - [Participating in scoring performance assessments builds teacher capacity in several ways](scoring-activities-build-teacher-capacity.md) — related
+- [Teachers participating in learning studies develop an increased ability to discern critical features of a learning object and shift from general to content-specific ways of offering the object of learning](teachers-learning-study-critical-features-shift.md) — related

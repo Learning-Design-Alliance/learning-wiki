@@ -61,3 +61,5 @@ rmANOVAs on normalized P3 amplitudes (350–600 ms) showed a significant electro
 - [Predictability enhances P3 amplitude, CNV amplitude, and shortens target-P3 latency equally at all ages, indexing mature prediction encoding, preparation, and implementation](prediction-erp-markers-no-age-differences.md) — related
 - [The magnitude of ERP prediction markers correlates with the behavioral reaction-time benefit of predictability](erp-prediction-markers-correlate-rt-benefit.md) — related
 - [Reaction-time benefit from predictive context is similar across ages 12–24, suggesting mature prediction abilities by age 12](prediction-rt-benefit-mature-by-age-12.md) — related
+- [Old high performers show larger CNV amplitudes than old middle and low performers, comparable to middle-aged and young adults](old-high-performers-larger-cnv-proactive-control.md) — related
+- [Executive-function brain circuitry takes more than twenty years to fully mature, leaving school-age youth with underdeveloped long-run decision systems](executive-function-maturation-over-twenty-years.md) — related

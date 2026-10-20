@@ -45,3 +45,5 @@ Across the HLM models of spring mathematics and reading outcomes in the 282-stud
 ## Related Claims
 - [Fall RRRP scores are significantly associated with working memory and attention measures, and its wait-for-go score with inhibitory-control ratings, in third graders](rrrp-associated-with-self-regulation-measures.md) — related
 - [Teacher-rated hyperactive/impulsive behavior did not predict any first-grade academic outcomes in children with low number sense](hyperactivity-impulsivity-no-prediction-academic-outcomes.md) — related
+- [Fall RRRP Part 1 predicted spring Applied Problems mathematics scores and gains, but did not predict spring Math Fluency](rrrp-part1-predicts-applied-problems-not-math-fluency.md) — related
+- [RRRP scores were fairly stable across fall to spring in third grade, with a slight decrease in Part 1 and no change in Part 2](rrrp-scores-stable-fall-to-spring.md) — related

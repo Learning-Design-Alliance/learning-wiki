@@ -45,3 +45,5 @@ The review reports, citing Balfanz and Byrnes (2012), a developmental pattern of
 
 ## Related Claims
 - [California kindergarten English learners' chronic absenteeism nearly tripled from 14.5 percent in 2018–19 to 43.1 percent in 2021–22, easing only gradually to 37.1 percent in 2022–23](california-kindergarten-english-learners-absence-tripled.md) — related
+- [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
+- [Schools varied considerably in how much their absence rates increased after the pandemic, with some showing little or no change](schools-varied-in-absence-rate-increases.md) — related

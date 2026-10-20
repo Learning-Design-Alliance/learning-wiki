@@ -45,3 +45,6 @@ Human rating study: two coders rated LLM-generated lessons across five segmentat
 ## Related Claims
 - [Feedback quality in LLM-generated lessons improved with three or more segments compared to one- or two-segment prompting](feedback-improves-three-or-more-segments.md) — related
 - [The highest decomposition level (five segments) performed slightly worse than the three-segment approach, suggesting non-monotonic benefits of decomposition](five-segment-decomposition-slightly-worse-than-three.md) — related
+- [Problem decomposition, artifact creation, data practices, and testing/debugging appear in all 28 reviewed CT manuscripts, while iterative refinement appears in 17](ct-aspect-coverage-across-ct-literature.md) — related
+- [LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers](rag-does-not-ensure-citation-authenticity.md) — related
+- [Lesson designers identify generic feedback and unclear title-page and instruction sections as key weaknesses of LLM-generated lessons](llm-lesson-weaknesses-generic-feedback-clarity.md) — related

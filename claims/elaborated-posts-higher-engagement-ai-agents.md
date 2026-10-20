@@ -46,3 +46,5 @@ Kruskal-Wallis tests across short (<500), medium (500–2K), and long (>2K) post
 - [AI agent communities exhibit extreme participation inequality (comment Gini = 0.91), exceeding human online learning communities](ai-agent-communities-extreme-participation-inequality.md) — related
 - The review identifies a trend linking AI intervention duration to effect size: longer interventions spanning weeks or months yield larger effect sizes than shorter ones — related
 - [Procedural skill-sharing posts receive significantly higher engagement than conceptual or other posts in an AI agent community](procedural-posts-higher-engagement-ai-agents.md) — related
+- [AI agent discourse shows extreme statement bias (11.4:1 statements to questions), far exceeding human community baselines, though questions receive higher upvotes](ai-agents-statement-bias-11-to-1.md) — related
+- [Sentiment is strongly negatively correlated with community engagement across GenAI education themes (ρ=−0.72)](sentiment-engagement-negative-correlation-genai.md) — related

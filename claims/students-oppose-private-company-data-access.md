@@ -45,3 +45,4 @@ Descriptive result from the access-opinion measures (Table 3 and Figures 5–6):
 ## Related Claims
 - [Detailed disclosure does not make students more conservative about who should have access to their educational data](disclosure-no-effect-access-opinions.md) — related
 - [Students supported tiered data access: broad access for self-reflection, educator access for teaching, and restricted access to raw video and audio](mmla-tiered-data-access-preferences.md) — related
+- [Data disclosure of any format does not change students' acceptance of data collection by their university](disclosure-no-effect-acceptance.md) — related

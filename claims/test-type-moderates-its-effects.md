@@ -96,3 +96,6 @@ The review attributes this within-study pattern to Koedinger et al. (1997), who 
 
 ## Related Claims
 - [The DARPA Digital Tutor, an ITS for U.S. Navy information systems technicians, produced the largest effects in the data set (average ES of 1.97 and 3.18 in two summative evaluations)](darpa-digital-tutor-largest-its-effects.md) — related
+- [The type of CT measure employed (standardized vs. non-standardized; item format) influences evaluation of intervention effectiveness](ct-measure-type-influences-effectiveness-evaluation.md) — a narrower finding that bears on this claim
+- [Language and early writing interventions showed larger effects on researcher-developed than standardized outcome measures, while phonological awareness, print knowledge, and decoding effects were comparable across measure types](researcher-developed-measures-larger-language-effects.md) — related
+- [Mastery learning effects are larger with a higher mastery standard, group-based pacing, local tests, and less feedback for the comparison group](mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) — related

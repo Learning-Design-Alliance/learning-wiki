@@ -46,3 +46,5 @@ ANOVA on the decorrelated flexibility measure (fluency partialled out) in the sa
 
 - [Fluency in the Alternative Uses Task was unaffected by stimulus condition and unrelated to selective attention](fluency-unaffected-by-stimulus-condition-and-attention.md)
 - [Selective attention moderated the effect of stimulus condition on children’s originality: better selective attention favoured the low stimulus environment, weaker selective attention the high stimulus environment](selective-attention-moderates-stimulus-effect-originality.md)
+- [Children produced more original alternative uses (net of fluency and flexibility) in a low stimulus environment than in a high stimulus environment](low-stimulus-environment-higher-originality-children.md) — related
+- [The multivariate effect of stimulus condition and selective attention on the combined creativity measures showed a significant condition × selective attention interaction](manova-interaction-combined-creativity-measures.md) — related

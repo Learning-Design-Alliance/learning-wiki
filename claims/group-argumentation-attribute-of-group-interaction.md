@@ -44,3 +44,6 @@ The editors' interpretive analysis of the WoW argumentation data contrasts class
 
 ## Related Claims
 - [Qualitative cases show three distinct interaction qualities: chains of individual autonomous actions, synchronized coordinated actions, and contemplative reflective group interaction](qualitative-cases-interaction-quality-variation.md) — related
+- [Discussion thread length is strongly linearly related to the number of players contributing, indicating collective rather than small-group collaboration](wow-thread-length-linear-with-contributors.md) — related
+- [Disengaged teenage boys engaged in quality argumentation in 81% of their argumentative exchanges while chatting in World of Warfare](wow-chat-quality-argumentation-81-percent.md) — related
+- [Gamers' collaboration skills are specialized to the game environment and do not straightforwardly transfer to school learning](gamer-skills-not-transferable-to-school-learning.md) — related

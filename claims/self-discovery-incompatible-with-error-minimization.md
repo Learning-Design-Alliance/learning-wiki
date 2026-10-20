@@ -46,3 +46,4 @@ A theoretical argument in the paper: discovery sequences allow blind alleys and 
 ## Related Claims
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — reports the opposite
 - [Errors serve as valuable feedback for teachers and learners, but unhandled errors risk fossilization](errors-as-feedback-fossilization-risk.md) — related
+- [A 1966 conceptual paper reports, citing earlier programmed-instruction work, that a rule-example-incomplete-example sequence appeared efficient for introducing a new rule](rule-example-sequence-efficient-rule-introduction.md) — related

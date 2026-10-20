@@ -45,3 +45,7 @@ Cultural Environment Survey (power distance, collaboration, competition subscale
 ## Related Claims
 
 - [Flemish faculty adopt e-learning and online collaborative learning at higher rates than Chinese faculty (about 95% vs 30% e-learning; 27% vs 8% online collaboration)](flemish-faculty-adopt-e-learning-more-than-chinese.md)
+- [Perceived power distance correlates with expert and authority roles, collaboration with facilitator and delegator roles, and competition correlates with all five teacher roles](cultural-environment-correlates-with-teacher-roles.md) — related
+- [Chinese university teachers stress the expert, authority and model teacher roles to a larger extent than Flemish teachers, with no group difference in facilitator or delegator roles](chinese-teachers-stress-expert-authority-model-roles-more.md) — related
+- [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](peer-collaboration-predicts-engagement.md) — related
+- [Teachers' adoption of online collaborative learning is associated with constructivist beliefs, facilitator/delegator roles, perceived need for innovation, and institutional conditions](teacher-and-contextual-variables-related-to-innovation-adoption.md) — related

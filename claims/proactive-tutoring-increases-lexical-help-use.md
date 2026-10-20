@@ -48,3 +48,5 @@ ANOVA on lexical help activations across the four tutoring conditions of the 120
 - [Proactive tutoring increases learners' use of metacognitive help tools compared with reactive tutoring](proactive-tutoring-increases-metacognitive-help-use.md) — related
 - [Learners heed proactive promptings more systematically when a human tutor is accessible than when it is not](promptings-heeded-more-with-human-tutor.md) — related
 - [Tutor promptings and information items explain only a limited share of variance in help tool use](promptings-limited-explanatory-power-help-use.md) — related
+- [At the median cutoff, proactive and reactive tutoring show no significant difference in MAP growth, with proactive benefits increasing for students farther below the cutoff](didc-cutoff-null-proactive-benefit-increases-below-cutoff.md) — related
+- [Proactive tutoring produced larger relative MAP growth than reactive tutoring on average (75% marginally significant in the IK bandwidth)](proactive-tutoring-larger-relative-map-growth.md) — related

@@ -45,3 +45,4 @@ Comparison of the two frequency grids (Tables 1 and 2): Interchange total 718 ve
 ## Related Claims
 - [Comprehension and application were the most frequent learning objectives in both series, with evaluation least frequent](comprehension-application-most-frequent-objectives.md) — related
 - [The two textbook series differ significantly in the distribution of intelligences across learning objectives](elt-textbook-series-differ-bloom-mi-grid.md) — related
+- [Linguistic intelligence dominated both series while natural intelligence was least frequent](linguistic-intelligence-dominates-elt-textbooks.md) — related

@@ -47,3 +47,6 @@ For collaboration skills, no mean effect could be estimated for the no-support s
 - [The script level a CSCL script mainly targets does not significantly moderate its effects on domain-specific knowledge or collaboration skills](script-level-moderator-not-significant.md) — related
 - [Subject discipline significantly moderates CSCL script effects on collaboration skills, while study duration and measurement level do not significantly moderate effects](further-moderators-discipline-duration-measurement-level.md) — related
 - [CSCL scripts have a non-significant positive effect on learners' motivation compared to unstructured collaborative learning](cscl-scripts-motivation-non-significant-meta-analysis.md) — related
+- [The effect of CSCL scripts on collaboration skills is significantly greater than their effect on domain-specific knowledge](cscl-scripts-effect-larger-for-skills-than-knowledge.md) — related
+- [Measuring outcomes at the individual versus group level did not significantly moderate CSCL script effects](measurement-level-moderator-not-significant.md) — related
+- [The effectiveness of CSCL scripts for domain learning does not significantly depend on the number of different collaborative activities prompted](cscl-effectiveness-independent-of-number-of-activity-prompts.md) — related

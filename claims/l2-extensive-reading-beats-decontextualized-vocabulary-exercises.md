@@ -53,3 +53,5 @@ The chapter's introduction reviews prior second language research, citing Elley 
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — reports the opposite
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related
 - [Vocabulary-focused programs are probably insufficient to accelerate vocabulary development and close the vocabulary gap](vocabulary-programs-insufficient-to-close-vocabulary-gap.md) — related
+- [Prior vocabulary knowledge moderates vocabulary learning gains in an extensive reading program, with high-level learners gaining more than intermediate and low-level learners](prior-vocabulary-knowledge-moderates-extensive-reading-gains.md) — related
+- [Vocabulary learning gains in Term 2 of the extensive reading program were consistent with those from Term 1](term2-gains-consistent-with-term1.md) — related

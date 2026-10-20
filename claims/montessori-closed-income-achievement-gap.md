@@ -48,3 +48,4 @@ The review reports the Lillard et al. (2017) longitudinal lottery study in Hartf
 ## Related Claims
 - [Children admitted by random lottery to high-fidelity Montessori schools performed better or the same as waitlisted controls on academic, executive function, and social measures, never worse](montessori-lottery-studies-better-or-same-outcomes.md) — related
 - [Tools of the Mind and Montessori curricula improve children's EFs, with Tools children outperforming controls especially on more EF-demanding conditions](tools-montessori-curricula-improve-efs.md) — related
+- [Implementation fidelity matters: classrooms using only Montessori materials produced greater gains than classrooms mixing in other materials](montessori-fidelity-materials-only-gains.md) — related

@@ -64,3 +64,4 @@ Meta-analytic moderator analysis across 18 passive-method comparison samples (N 
 ## Related Claims
 - [Entertainment value of simulation games did not moderate learning relative to comparison instruction](entertainment-value-does-not-moderate-simulation-game-learning.md) — related
 - [Simulation games are effective as a supplement to other instruction but not as standalone instruction, where comparison groups learned slightly more (a difference not statistically significant)](simulation-games-as-supplement-not-standalone.md) — related
+- [Simulation games are more effective when they actively rather than passively convey course material](simulation-games-effective-when-instruction-active.md) — related

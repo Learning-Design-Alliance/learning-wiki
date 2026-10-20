@@ -43,4 +43,4 @@ Simulation-based evaluation on the HCI datasets (Table 2). The article reports t
 
 
 ## Related Claims
--
+- [Probabilistic peer grading models that estimate grader bias and reliability reduce RMSE against ground-truth grades by 33% and 31% on two HCI course offerings](probabilistic-peer-grading-reduces-rmse-over-30-percent.md) — related

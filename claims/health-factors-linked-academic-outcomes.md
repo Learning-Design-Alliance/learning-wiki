@@ -53,3 +53,7 @@ A narrative review-style assertion within the article's discussion of the educat
 - [Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects](positive-school-climate-improves-attendance-achievement.md) — a narrower finding that bears on this claim
 - [A more positive school climate is related to improved academic achievement beyond socioeconomic status](positive-school-climate-linked-achievement.md) — a narrower finding that bears on this claim
 - [Integrated student supports are associated with improvements in attendance, behavior, social functioning, and academic achievement](integrated-student-supports-positive-outcomes.md) — related
+- [Economic and social needs outside of school are statistically significantly associated with the context of schools' English Learner programs](sdoh-needs-associated-with-el-program-context.md) — related
+- [The WSCC model explicitly incorporates the five social determinants of health and aligns health and education sector goals](wscc-incorporates-social-determinants.md) — related
+- [Students' success in school and beyond is inextricably linked to healthy social and emotional development](school-success-linked-social-emotional-development.md) — related
+- [Elementary principals most frequently want professional development on whole child education, with rural principals especially likely to want physical and mental health content](principals-want-whole-child-pd.md) — related

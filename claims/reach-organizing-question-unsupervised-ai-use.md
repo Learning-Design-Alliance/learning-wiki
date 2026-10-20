@@ -45,3 +45,4 @@ Theoretical argument of the paper: at 10 p.m. the teacher and peer agents of for
 ## Related Claims
 - National examinations are the most powerful governance lever for AI literacy outcomes, as Poland's exam-driven Python pivot shows — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
+- [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related

@@ -43,4 +43,5 @@ Critical event recall interview with the beginner teacher of NLC2, stimulated by
 
 
 ## Related Claims
--
+- [Tutor behavior had a major impact on students' discussion behaviors, with dominant or passive tutors both failing to stimulate lively discussion](tutor-behavior-major-impact-discussion.md) — related
+- [Both teachers remained peripherally active and concentrated their contributions on tutoring, with the experienced teacher also acting as a learner on an equal basis](peripheral-teacher-tutoring-contributions.md) — related

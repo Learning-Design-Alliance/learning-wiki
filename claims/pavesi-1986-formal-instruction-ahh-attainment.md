@@ -49,3 +49,4 @@ The review reports Pavesi's (1986) comparison of formally versus informally expe
 - [Instruction on the marked OBJECT OF A PREPOSITION relative clause type improved grammaticality judgment across most relative clause categories (review-reported, citing Gass 1981)](gass-1981-marked-instruction-generalizes.md) — related
 - [Markedness theory, as realized in the Noun Phrase Accessibility Hierarchy, plays an important role in instructed interlanguage development](markedness-role-instructed-il-development.md) — a broader claim this one bears on
 - [Second language instruction increases the rate of acquisition of English relativization by ESL learners](sl-instruction-effective-relativization-rate.md) — related
+- [Ultimate attainment and optimal-period length do not reliably differ across major native-language groups, with slightly more evidence for differences in learning curves](native-language-group-differences-small-unreliable.md) — related

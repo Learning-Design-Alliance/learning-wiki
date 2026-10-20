@@ -46,3 +46,4 @@ Descriptive statistics from the survey of 3003 pre-service teachers across 12 Ch
 - [Innovative competence differs by background variables, with AI interest level showing the strongest association](innovative-competence-background-heterogeneity-ai-interest.md) — related
 - [School-based intelligent environment support shows an inverted U-shaped quantile pattern, stronger at lower-to-middle competence levels](intelligent-environment-support-inverted-u-quantile.md) — related
 - [In the structural equation model, both supports directly predict innovative competence and strongly predict the mediators](sem-direct-paths-dual-supports-innovative-competence.md) — related
+- [Chinese MTES show medium-level AI-TPACK overall, with AI-TK the lowest-scoring component and teaching beliefs the highest, indicating a basic, preliminary stage](mtes-aick-tk-lowest-medium-level-basic-stage.md) — related

@@ -44,3 +44,4 @@ The article's descriptive claim about the prevalence of formal teacher performan
 
 ## Related Claims
 - [Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience](coherence-alignment-student-experience-supports.md) — related
+- [Few schools used 5Essentials data for improvement, citing opaque data, principal-focused measures, and lack of district-wide strategy](few-schools-use-5essentials-data-improvement.md) — related

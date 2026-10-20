@@ -48,3 +48,6 @@ Narrative review of signaling studies (Jian, 2019; Lin et al., 2017; Mason et al
 ## Related Claims
 - [Signaling Improves Learning](signaling-improves-learning.md) — a broader claim this one bears on
 - [Clear Structure Improves Learning](clear-structure-improves-learning.md) — related
+- [Signaling principle: highlighting essential words improves transfer from multimedia lessons](signaling-principle-mayer-2008.md) — a narrower finding that bears on this claim
+- [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](signalling-focuses-attention-reduces-change-detection-elsewhere.md) — related
+- [The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)](signalled-and-cued-object-change-most-detected.md) — related

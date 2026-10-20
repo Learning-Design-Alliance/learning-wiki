@@ -51,3 +51,5 @@ Observational analysis of log file data from 166 sixth-grade student pairs worki
 - [Pairs with at least one member high in both social and cognitive CPS skills conducted more actions with more frequent and more dispersed action transitions than other pairs](high-social-cognitive-pairs-more-actions-and-transitions.md) — possibly the same claim (merge candidate)
 - [No significant difference found across pair compositions in alternating sequences of two or three actions during CPS](no-pair-difference-alternating-action-sequences.md) — related
 - [Essential Olive Oil task actions T3 and A47 were conducted by few dyads, marking key difficulties in the solution path](infrequent-essential-actions-t3-a47-key-difficulties.md) — related
+- [Successful and unsuccessful complex problem solvers differ in transition frequencies between questions and decisions](transition-frequencies-differ-successful-solvers.md) — related
+- [Among 166 sixth graders, social CPS skill levels were mostly high while cognitive CPS skill levels were mostly low across four ATC21S CPS tasks](sixth-graders-high-social-low-cognitive-cps-skill-distribution.md) — related

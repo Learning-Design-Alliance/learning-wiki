@@ -51,3 +51,5 @@ Meta-analysis of single-case research on aided AAC with individuals with ASD, sy
 - The research base on aided AAC approaches for individuals with autism consists mostly of single-case research with small numbers of participants — related
 - [PECS and speech-generating devices produced larger effects than other picture-based AAC systems, which nonetheless showed small effects](pecs-sgd-larger-than-other-picture-based-systems.md) — a narrower finding that bears on this claim
 - Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses — related
+- [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
+- [Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition](aided-systems-advantage-over-manual-signs.md) — a narrower finding that bears on this claim

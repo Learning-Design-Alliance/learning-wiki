@@ -67,3 +67,8 @@ The commentary reports, citing Abel et al. (2024), an experiment on learners' pr
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
 - [Invested mental effort and perceived task difficulty are significantly positively correlated at all measurement points except MP2.5, with correlations increasing as material complexity rises](effort-difficulty-positively-correlated-except-mp25.md) — related
 - [Motivational processes are proposed to be instrumental for essential as well as generative processing](motivation-essential-processing-claim.md) — related
+- [Students' self-reports of task effortfulness do not validly indicate a task's object-level cognitive requirements](effort-self-reports-not-valid-cognitive-requirements.md) — related
+- [Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention](task-essentialness-goal-directed-vocabulary-retention.md) — related
+- [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related
+- [Total adherence to instructional design principles does not correlate with learning outcomes, mental effort, or motivational variables](principle-adherence-no-correlation-with-outcomes.md) — related
+- [Physiological measures have limited validity for effort, especially for distinguishing data-driven from goal-driven effort](physiological-effort-measures-limited-validity.md) — a narrower finding that bears on this claim

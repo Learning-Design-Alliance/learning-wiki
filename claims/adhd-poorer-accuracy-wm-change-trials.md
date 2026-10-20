@@ -67,3 +67,6 @@ Same ANOVA on accuracy: the Group x Trial Type interaction was significant, F(1,
 - [Working memory accounts for the relation between ADHD traits and communicative perspective-taking](working-memory-accounts-adhd-perspective-taking-relation.md) — related
 - [Working memory capacity is significantly smaller in lower-SES than higher-SES adolescents](lower-ses-smaller-working-memory-capacity.md) — related
 - [Retrieval P3 discriminates Same from Different trials only in non-ADHD adolescents, indicating a failure of post-selection prioritization in ADHD](retrieval-p3-change-discrimination-only-non-adhd.md)
+- [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md) — related
+- [Visual WM binding of color and shape is intact in ADHD: no group differences behaviorally or electrophysiologically, with Bayesian support for null Group x Condition interactions](wm-binding-intact-in-adhd.md) — related
+- [Encoding P3 amplitude is reduced in ADHD adolescents during visual WM encoding, in both early and late time windows](reduced-encoding-p3-adhd.md) — related

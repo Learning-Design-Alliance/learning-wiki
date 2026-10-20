@@ -52,3 +52,4 @@ Cluster randomized controlled trial in 39 rural, high-poverty Missouri schools, 
 - eMINTS shows no differences in reading outcomes compared with traditional control schools — related
 - [ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends](assistments-long-term-eog-effect-0-10.md) — related
 - [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — reports the opposite
+- [PLC at Work has a statistically significant positive effect on state-administered ACT Aspire math achievement scores (effect size = +0.08) after less than two years of implementation](plc-at-work-significant-math-effect.md) — related

@@ -44,3 +44,7 @@ Qualitative finding from the full set of 16 activities: universal-property state
 
 ## Related Claims
 - [Five-year-old children reveal metacognitive knowledge of self, others, universal properties of cognition, and task-specific strategies during peer interactions in mathematical measurement activities](metacognitive-knowledge-expressions-peer-interactions-measurement-activities.md) — a broader claim this one bears on
+- [Individual differences in metacognitive knowledge expressions relate to children's mathematical competence and verbalization style](individual-differences-metacognitive-expressions.md) — related
+- [Peer interactions supported both children's metacognitive tasks and strategies, with children organizing performance using others' directions and evaluating others' performance](peer-interactions-support-metacognitive-tasks-strategies.md) — related
+- [Children express metacognitive knowledge of self by identifying their own mistakes and weaknesses in academic working skills during measurement activities](knowledge-of-self-expressions-young-children-math.md) — related
+- [Children develop and demonstrate task-specific strategies through peer interaction, including instructing others and explaining why strategies work](task-specific-strategies-scaffolded-peer-interaction.md) — related

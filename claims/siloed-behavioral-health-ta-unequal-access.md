@@ -65,3 +65,4 @@ A COE leader interviewed for the project stated that "There should be equitable 
 - [LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students](lea-ta-needs-four-categories-school-behavioral-health.md) — related
 - California LEAs cobble together school-based behavioral health funding from short-term funds, ongoing education funds, and Medi-Cal reimbursement, with no ongoing dedicated source — related
 - [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — related
+- [Leveraging pre-existing networks or hubs may support greater potential for long-term sustainability of cross-sector reform](preexisting-networks-support-sustainability.md) — related

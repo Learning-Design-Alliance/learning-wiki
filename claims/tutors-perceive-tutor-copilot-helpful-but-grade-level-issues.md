@@ -66,3 +66,4 @@ Same interview study with treatment tutors. Tutors noted areas for improvement, 
 - [Tutor CoPilot's benefit is largest for lower-rated and less-experienced tutors (9 p.p. and 7 p.p.), diminishing as tutor effectiveness increases](tutor-copilot-benefits-concentrated-among-lower-rated-tutors.md) — related
 - [Students whose tutors have access to Tutor CoPilot are 4 percentage points more likely to master lesson topics (pass exit tickets) in live K-12 math tutoring](tutor-copilot-raises-exit-ticket-mastery-4pp.md) — related
 - [Tutor CoPilot shows no statistically significant effects on participation points, student survey outcomes, or end-of-year math test scores](tutor-copilot-no-significant-effects-secondary-outcomes.md) — related
+- [Human oversight remained necessary alongside AI-based tutoring, especially for misconceptions and advanced topics](human-oversight-necessary-alongside-ai-tutoring.md) — related

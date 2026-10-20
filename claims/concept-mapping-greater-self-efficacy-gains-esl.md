@@ -45,3 +45,5 @@ In the same 79-student randomized pretest-posttest experiment, split-plot analys
 ## Related Claims
 - [ESL students taught concept mapping show significantly greater pretest-to-posttest achievement gains than students taught an alternative learning strategy](concept-mapping-greater-achievement-gains-esl.md) — related
 - [ESL students taught concept mapping show significantly greater gains in self-regulation strategies (self-monitoring and knowledge acquisition strategies) than the alternative strategy group](concept-mapping-greater-self-regulation-gains-esl.md) — related
+- [AI-section students showed tool-linked self-efficacy and attenuated metacognitive calibration, with the human-pair contrast group showing larger concept-map gains in cross-links and hierarchy](attenuated-calibration-tool-linked-self-efficacy.md) — related
+- [Students showed significant learning gains on domain knowledge (large effect) and concept maps (medium effect) after a 45-minute SRL-rich learning task](srl-task-learning-gains-domain-concept-maps.md) — related

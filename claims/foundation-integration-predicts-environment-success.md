@@ -49,3 +49,6 @@ Theoretical argument in the Foundations section, illustrated with Figures 2a-2d 
 - Agency develops only within an intensely communal (attachment) relationship — a narrower finding that bears on this claim
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
 - In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship — a narrower finding that bears on this claim
+- [Integrating literacy and science within authentic real-world experiences can produce greater learning in both areas than teaching either separately](integrated-literacy-science-greater-learning-than-separate.md) — related
+- [Leadership practices, teacher competence, and innovation culture collectively determine the success or failure of AI integration initiatives](three-drivers-determine-ai-integration-success.md) — related
+- [Effective learning environments depend on the interaction of four overlapping frames rather than their compartmentalization](four-learning-environment-frames-interact.md) — a narrower finding that bears on this claim

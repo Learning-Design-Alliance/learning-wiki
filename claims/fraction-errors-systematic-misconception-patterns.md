@@ -48,3 +48,5 @@ Analysis of student response distributions for the five most underestimated frac
 ## Related Claims
 - [LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the \"Easy Trap\")](easy-trap-fraction-items-underestimated-by-llms.md) — a broader claim this one bears on
 - [Behavioural analytics alone cannot distinguish the cognitive origins of identical learner errors](behaviour-alone-insufficient-cognitive-origins.md) — related
+- [Correct-answer-trap cases concentrate in specific question types where common flawed reasoning happens to produce the correct numerical answer, with the top two question types accounting for 71% of all TM cases](cat-failures-concentrate-in-two-question-types.md) — related
+- [In Save Patch, different error types were associated with different learning outcomes, attributed to Kerr and Chung (2013b)](save-patch-error-types-associated-with-learning-outcomes.md) — related

@@ -45,3 +45,4 @@ Developer-reported development accounting within the AI-assisted vibe coding wor
 ## Related Claims
 - [The visualizer's flagging mechanisms flagged all tested logs from cases already known to involve plagiarism while still requiring student-level review](plagiarism-cases-flagged-by-thonny-log-visualizer.md) — related
 - [In a five-teacher pilot in a 160-student introductory programming course, teachers valued rapid process-level insight and the pilot drove iterative usability improvements](teacher-pilot-thonny-log-visualizer-160-students.md) — related
+- [A graded likelihood detector prompt produced more consistent separation than a binary yes/no detector prompt](likelihood-prompt-beats-binary-detection.md) — related

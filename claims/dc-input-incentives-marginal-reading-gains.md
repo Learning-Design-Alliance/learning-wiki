@@ -46,3 +46,4 @@ School-level randomized trial in Washington, DC: 34 schools signed up, 17 treate
 - [Paying second-grade students to read books increases reading comprehension by roughly 0.18–0.25 standard deviations in Dallas](dallas-reading-incentive-comprehension-gains.md) — related
 - [Input-based incentives produce achievement gains at lower cost than major education reforms of recent decades](input-incentives-cost-effective-comparison.md) — related
 - [Paying students for performance on standardized tests or for course grades does not increase achievement test scores in urban public schools](output-incentives-no-achievement-gains.md) — related
+- [DC math impacts of about one-third of a standard deviation are similar in magnitude to New Orleans reforms and larger than some well-known interventions](dc-math-impacts-one-third-sd-new-orleans-comparison.md) — reports the opposite

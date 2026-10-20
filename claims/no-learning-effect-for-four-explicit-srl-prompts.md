@@ -52,3 +52,4 @@ In the same regression analysis of explicit compliance rates, the four remaining
 - [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains](review-notes-compliance-predicts-learning-gains.md) — related
 - [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](revise-summary-compliance-predicts-learning-gains.md) — related
 - [Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger proportional learning gains](suggest-subgoal-compliance-predicts-learning-gains.md) — related
+- [Providing subgoals did not help on the Missionaries and Cannibals problem but facilitated performance on an extended 5-Missionaries and 5-Cannibals variant](subgoals-facilitate-performance-larger-problem-space.md) — related

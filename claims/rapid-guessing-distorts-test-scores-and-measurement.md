@@ -115,3 +115,8 @@ The article's abstract states the consequence of the opt-out conceptualization: 
 - [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](disengagement-material-individual-summative-scores-minor-aggregations.md) — related
 - [Test takers generally disengage during only a portion of their items, and these disengaged responses reflect a momentary cessation of measurement](disengagement-portion-of-items-momentary-cessation.md) — related
 - [Seriously disengaged initial testers who stopped rapid-guessing on retest showed large RIT gains, averaging about 6 points in Reading and 12 in Math](serious-disengagement-retest-zero-guessing-gains.md) — related
+- [Rapid-guessing behavior occurs on only about 1% of item responses in a commercially available low-stakes assessment](rapid-guessing-one-percent-commercial-low-stakes-assessment.md) — a narrower finding that bears on this claim
+- [Rapid guessing can be identified from item-level response time, and its proper interpretation depends on contextual requirements](rapid-guessing-identification-and-context.md) — related
+- [Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data](response-styles-construct-irrelevant-bias.md) — related
+- [Subgroup score differences largely reflect differing opportunities to learn, not inherent group traits](subgroup-differences-reflect-opportunities-to-learn.md) — related
+- [Disengaged responding biases observed scores from achievement tests and surveys in practically and statistically significant ways](disengaged-responding-biases-observed-scores.md) — a broader claim this one bears on

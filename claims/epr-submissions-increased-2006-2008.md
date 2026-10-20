@@ -45,3 +45,5 @@ Editorial report of the journal's own submission counts, printed in the editor's
 ## Related Claims
 - [Submissions to Educational Psychology Review grew from 33 manuscripts in 2006 to 89 in 2011, with faster initial decisions](edpr-submissions-grew-33-to-89-2006-2011.md) — related
 - [EDPR's time to first decision decreased from 50 days in 2006 to 25 days in 2013](edpr-decision-time-50-to-25-days.md) — related
+- [The research-into-practice article category at Educational Psychology Review was retired in 2012 after being the most misunderstood category and source of most desk rejects](edpr-retires-research-into-practice-category.md) — related
+- [The EDPR editorial board spans 50 members from 10 countries across 4 continents, and the editor sees more diversity as valuable](edpr-board-geographic-diversity.md) — related

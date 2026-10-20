@@ -67,3 +67,5 @@ Same auxiliary-variable analyses for the English-speaking subsample. The article
 ## Related Claims
 - [Children in higher family engagement profiles had higher total language skills in both language subsamples, most pronounced among English-speaking families](engagement-profiles-language-skills.md) — related
 - [Latent profile analysis identified three family engagement profiles in both Spanish- and English-speaking low-income Latino samples](three-profile-family-engagement-latino-head-start.md) — related
+- [Different engagement dimensions defined the high engagement profiles across language groups: school participation for Spanish-speaking parents, foundational education for English-speaking parents](high-engagement-profiles-differ-by-language-group.md) — related
+- [Demographic predictors of engagement profile membership differed across language groups, with employment the only significant predictor for English-speaking parents](demographic-predictors-differ-by-language-group.md) — related

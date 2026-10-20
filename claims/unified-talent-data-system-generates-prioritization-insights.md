@@ -45,3 +45,5 @@ In its challenges section, the document identifies disconnected data systems for
 ## Related Claims
 - [Piecemeal educator policymaking overburdens educators and can drive talented educators out of the profession](piecemeal-educator-policymaking-drains-talent.md) — related
 - [In practice, data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions](data-often-fails-to-drive-education-decisions.md) — related
+- [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
+- [Teachers and education leaders differ in which OpenSciEd challenges they prioritize: teachers rate student engagement higher, leaders rate materials adaptation and teacher capacity higher.](openscied-teacher-leader-priority-differences.md) — related

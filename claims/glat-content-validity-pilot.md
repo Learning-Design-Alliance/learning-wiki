@@ -45,3 +45,5 @@ Pilot study with 200 higher education students rated six content-validity questi
 ## Related Claims
 - [Pilot test events represented fewer grade levels overall, with more grade levels represented for low- and high-performing students, while the comparison group showed the opposite pattern](pilot-grade-representation-by-ability.md) — related
 - [The Content Proximity spring 2022 pilot study examined validity, reliability, and test score comparability of MAP Growth assessments using the new item-selection algorithm](content-proximity-pilot-validity-reliability-comparability.md) — related
+- [GLAT scores predicted performance on GenAI-supported tasks better than perceived ChatGPT proficiency](glat-predicts-task-performance-better-than-self-report.md) — related
+- [Adapting the scoring mechanism substantially reduced ceiling effects found in the pilot study](skt-srl-scoring-reduced-ceiling-effects.md) — related

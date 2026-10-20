@@ -46,3 +46,4 @@ The survey of 200 Pennsylvania LEAs found that "Most students were in LEAs that 
 ## Related Claims
 - [Requiring masks measurably reduces infection spread in schools, according to simulation models of school operating strategies](masks-reduce-infection-spread-in-schools-model.md) — related
 - [Reducing student density in classrooms and shared school spaces, combined with precautions such as physical distancing, some mask wearing, and good ventilation, allows for a safer school reopening during COVID-19](reduced-density-precautions-safer-school-reopening.md) — related
+- [Most Pennsylvania students were in LEAs that prioritized students with disabilities for in-person instruction, and the pandemic made special education services harder to provide](pa-leas-prioritized-disabilities-in-person.md) — related

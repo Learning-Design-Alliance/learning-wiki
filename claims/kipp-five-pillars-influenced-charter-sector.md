@@ -45,3 +45,6 @@ The report's introductory overview asserts, citing prior publications (Mathews 2
 ## Related Claims
 - This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels — related
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related
+- [KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies](kipp-middle-schools-positive-significant-achievement-effects.md) — related
+- [Attending both a KIPP middle school and a KIPP high school had large positive impacts on college enrollment and persistence](kipp-middle-plus-high-large-enrollment-persistence-impacts.md) — related
+- [KIPP elementary schools have positive, statistically significant, and educationally meaningful impacts on three of four measures of reading and mathematics skills](kipp-elementary-positive-impacts-three-of-four-measures.md) — related

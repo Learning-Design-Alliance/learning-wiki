@@ -58,3 +58,5 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments. — related
 - Pre-test scores strongly predict post-test scores but not normalized learning gains — reports the opposite
 - [mPFC activity during schema-related encoding predicts normalized second-year course grades, with no such relation for MTL activity](mpfc-schema-encoding-predicts-grades.md) — related
+- [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](non-stem-lower-lctsr-pre-scores-than-stem.md) — related
+- [The AI-tutoring advantage holds across prior-ability and scientific-attitude subpopulations](ai-tutor-advantage-holds-subpopulations.md) — reports the opposite

@@ -45,3 +45,4 @@ Descriptive case study documenting one preschool teacher's master's project thro
 ## Related Claims
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — related
 - [Teacher-guided matching activities and peer scaffolding during grid and path games advanced preschool children's one-to-one correspondence and counting skills](guided-matching-and-peer-scaffolding-build-correspondence.md) — related
+- [The guide identifies intentional instruction, interaction and conversation, and sequentially built lessons as important factors in preschool instruction](preschool-instruction-key-factors-wwc.md) — related

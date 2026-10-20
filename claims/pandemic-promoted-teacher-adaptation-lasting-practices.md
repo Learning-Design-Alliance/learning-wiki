@@ -47,3 +47,5 @@ This is the authors' interpretive conclusion (type e) drawn from the survey of 7
 - [No evidence of a significant decline in school climate scores between 2018/19 and 2021/22 in the Pennsylvania sample](no-lasting-pandemic-climate-decline.md) — related
 - [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md) — related
 - [Most surveyed teachers planned to transfer what they learned during pandemic distance teaching to adapt future in-person teaching](teachers-plan-transfer-distance-learning-lessons-in-person.md) — related
+- [Teachers actively synthesize professional-development practices with their own context rather than transferring them intact](teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md) — related
+- [30% of surveyed K-8 teachers planned to adopt transformative teaching practices after pandemic distance teaching](thirty-percent-teachers-transformative-practices-plans.md) — related

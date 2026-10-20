@@ -46,3 +46,5 @@ The fact sheet summarizes recent research on school leadership, stating that "pr
 - [School value added provides very poor information for revealing principals' persistent levels of effectiveness](school-value-added-poor-information-principal-effectiveness.md) — related
 - [School value-added and adjusted school value-added provide, at most, a small amount of information for predicting principals' contributions in the following year](value-added-measures-small-predictive-info-principal-impacts.md) — related
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
+- [School value-added and adjusted school value-added provide at most a small amount of information for predicting principals' future contributions to student achievement](school-value-added-small-predictive-information-principals.md) — related
+- [Principals' access to professional development is significantly associated with teacher retention and student achievement, with gains greatest for historically underserved students](principal-pd-associated-retention-achievement.md) — related

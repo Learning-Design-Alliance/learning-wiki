@@ -68,3 +68,5 @@ When controlling for both general cognitive ability and a third skill, the FT–
 - [Cognitive factors explain about 49% of variance in simulation-based inquiry performance among young adults](cognitive-factors-explain-half-inquiry-variance.md) — related
 - [Written-communication skills significantly correlate with vibe-coding performance, but the association does not remain significant after controlling for domain-general cognitive ability](writing-skills-correlate-with-vibe-coding.md) — related
 - [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md) — related
+- [Functional correspondence predicts simulation learning outcomes better than physical resemblance or appeals to authenticity](functional-correspondence-predicts-outcomes.md) — related
+- [Content knowledge is positively related to the quality of evidence elicitation and evidence sharing, but not to hypotheses sharing](content-knowledge-relates-evidence-elicitation-sharing.md) — related

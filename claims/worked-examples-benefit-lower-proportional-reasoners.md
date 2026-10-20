@@ -45,3 +45,4 @@ Regression interaction from the same cluster-randomized classroom experiment (Mo
 ## Related Claims
 
 - [Prior proportional reasoning knowledge predicts later probabilistic knowledge even after controlling for prior probability knowledge](proportional-reasoning-predicts-probability-learning.md)
+- [Students using a worked-example revised probability textbook improved more in probabilistic reasoning than students using the standard textbook](worked-example-textbook-improves-probability-learning.md) — related

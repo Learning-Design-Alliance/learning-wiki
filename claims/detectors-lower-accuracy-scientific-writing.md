@@ -45,3 +45,9 @@ Chi-square analysis of classification correctness across genre (57 humanities, 1
 ## Related Claims
 - [Originality outperformed Turnitin in overall accuracy and macro-average recall on a balanced EFL-relevant dataset, but both showed limited consistency across classes](originality-outperforms-turnitin-accuracy-recall.md) — related
 - [Originality showed a borderline non-significant trend toward higher accuracy on professional than EFL student writing, while Turnitin showed no significant difference](originality-borderline-efl-accuracy-trend.md) — related
+- [Both detectors performed poorly on hybrid human–AI texts, with Originality showing near-zero recall for the Hybrid class](detectors-fail-hybrid-authorship-texts.md) — related
+- [Detector accuracy declined significantly as text length increased, with both detectors performing best on short texts](detector-accuracy-declines-with-text-length.md) — related
+- [A detector can achieve high aggregate accuracy while producing materially different over-detection rates across author groups](aggregate-accuracy-group-fairness-detectors.md) — related
+- [After humanization with Undetectable AI, fewer than 4% of AI-labeled rewrites remain detectable (FNR > 96%) for Pangram and GPTZero](humanization-drives-detection-below-4-percent.md) — related
+- [Applied to 1,163 real master's theses, Pangram flagged 529 (45.5%) as containing AI-generated content, mostly at low-to-moderate levels](pangram-flagged-45-percent-real-theses.md) — related
+- [On fully AI-generated papers produced with ChatGPT Deep Research, Pangram achieved 65% strict accuracy while Turnitin, GPTZero and Copyleaks classified essentially all papers as false negatives](pangram-outperforms-tools-fully-ai-generated-deep-research.md) — related

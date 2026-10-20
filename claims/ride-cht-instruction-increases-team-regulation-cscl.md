@@ -49,3 +49,8 @@ Study of 48 dyads of 10th grade students (15–17 year-old) using a computer sim
 - [Provided support does not influence task regulation between conditions](support-does-not-influence-task-regulation.md) — related
 - [Support conditions did not differ from control in learning scores within the environment](no-condition-differences-learning-scores-swlep.md) — related
 - [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](instruction-alone-limited-joint-reflection-tool-values.md) — a broader claim this one bears on
+- [Instruction plus the reflection tool improved vocational students' actual collaborative chat behavior compared with control, but instruction alone did not demonstrate any desired collaborative behaviors more often than control](instruction-with-tool-improved-actual-collaborative-behavior.md) — related
+- [Teams receiving part-task congruent representational tools (causal then simulation) outperformed teams with partly matched or mismatched tools on a complex business-economics learning task](matched-representational-tools-better-complex-task-performance.md) — related
+- [RIDE instruction shows no direct effect on discovery learning results (SWLE or domain knowledge posttest)](ride-instruction-no-direct-effect-learning-results.md) — related
+- [RIDE instruction increases some transformative discovery activities and overall regulative discovery activity, with effects limited to specific activities](ride-instruction-increases-some-discovery-activities.md) — related
+- [Both regulation of task performance and regulation of the collaboration process are important for effective CSCL](task-and-collaboration-regulation-both-important.md) — related

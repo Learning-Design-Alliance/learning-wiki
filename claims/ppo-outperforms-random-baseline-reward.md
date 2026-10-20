@@ -44,3 +44,4 @@ Numerical simulation/evaluation result comparing the trained PPO policy against 
 - [Sequencing rather than concept selection explains most of the EVOL–PPO-vanilla EP gap on ASSIST15 L=10](sequencing-explains-evol-ppo-gap.md) — related
 - [Ablation baselines were configured to isolate the contribution of cross-modal attention, PPO clipping and Kalman filtering, but component-level results are not reported in the available text](ablation-baseline-configuration-component-isolation.md) — related
 - [After PPO optimization, auxiliary feedback semantic similarity (SimCSE) reaches 81.3% and 79.3% for the two policy models, higher than evaluated pretrained baselines](races-auxiliary-feedback-simcse-gains.md) — related
+- [RACES configurations improve QWK essay-scoring agreement over evaluated pretrained baselines on ASAP 2.0, with LLaMA2-7B-based configurations slightly outperforming Qwen2.5-Instruct-7B-based ones](races-improves-qwk-over-evaluated-baselines.md) — related

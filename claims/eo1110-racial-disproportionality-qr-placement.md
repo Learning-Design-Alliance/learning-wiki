@@ -52,3 +52,5 @@ Observational analysis of placement status for the 59,790-student 2018 cohort (F
 - [Under EO 1110, students in QR placement categories III and IV attempted and earned more baccalaureate credits in their first year than comparable 'not college ready' students did in 2017](eo1110-supported-placement-more-first-year-credits.md) — related
 - [Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts](eo1110-retention-gaps-widen-by-ethnicity.md) — related
 - [Students who entered CSU without declaring a major were retained at slightly lower rates than students who entered with a declared major](undeclared-majors-lower-retention-csu.md) — related
+- [Culturally and linguistically diverse students are underrepresented in gifted identification nationwide](gifted-underrepresentation-diverse-students.md) — related
+- [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related

@@ -67,3 +67,4 @@ ANCOVA on the transfer task's originality per response score, controlling for th
 - [CREATE improves students' fluency immediately after the intervention relative to control](create-immediate-fluency-gain.md)
 - [CREATE improves students' originality immediately after the intervention across all three originality scoring methods](create-immediate-originality-gain.md)
 - [CREATE meta-creative pedagogy produces a significant omnibus intervention effect on creative thinking components simultaneously in elementary students](create-omnibus-immediate-effect-creative-thinking.md)
+- [Students exposed to CREATE perceive their implementation of meta-creative processes to a greater extent than control students](create-higher-perceived-meta-creative-implementation.md) — related

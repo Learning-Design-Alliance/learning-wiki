@@ -52,3 +52,5 @@ An interview-reported district case during COVID distance learning: teachers cho
 - [Only the discussion of the Flex vs. Plain phonics trial reports that, for students with full week-6 attendance, Flex showed greater gains than Plain on taught-letter alphabetics, decoding, and word reading; its results report no treatment differences or interactions](week6-attendance-interaction-favors-flex.md) — related
 - [Repeated listening improves oral reading fluency in second-grade students, with Listening Only outgaining Reading While Listening and Reading Only](repeated-listening-improves-oral-reading-fluency.md) — related
 - [The strategy intervention improved third graders' adaptive use of strategies relative to untreated classmates](intervention-improved-adaptive-use-versus-classmates.md) — related
+- [A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring](ipad-tutoring-one-grade-level-growth-six-weeks-adhd-case.md) — related
+- [Adequate-dose tutoring showed marginally significant effects for third graders on the NWEA MAP (ES = +0.27)](lightning-squad-adequate-dose-map-grade3.md) — related

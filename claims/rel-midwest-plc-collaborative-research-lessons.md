@@ -45,3 +45,6 @@ Reflection-paper overview of REL Midwest's professional learning community, desc
 ## Related Claims
 - [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related
 - [Over 96 percent of surveyed low-performing schools adopted three SIG-promoted improvement practices: data-informed differentiated instruction, expanded technology access or computer-assisted instruction, and collaborative or leader-facilitated ongoing professional development](sig-schools-adopt-three-improvement-practices.md) — related
+- [Nonfunded research barters, initiated by Global South partners, can foster reciprocity in ICEL without transactional funding](research-barters-foster-reciprocity-icel.md) — related
+- [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
+- [Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content](principals-lack-authentic-job-embedded-learning.md) — related

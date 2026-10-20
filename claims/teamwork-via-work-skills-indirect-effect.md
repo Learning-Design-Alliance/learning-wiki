@@ -68,3 +68,4 @@ Total and direct effect regressions from the same PROCESS model 6 analysis. The 
 - [Teamwork, work skills and educational motivation each significantly predict critical thinking in the full regression (β=.44, .23, .03; R-sq=.3465)](teamwork-skills-motivation-predict-critical-thinking.md) — related
 - [Teamwork predicts critical thinking via educational motivation (Ind2: Twork→EdMot→CThink, β=.052, 95% CI .0318-.0747)](teamwork-via-educational-motivation-indirect-effect.md) — related
 - [The number of substantive comments during discussion mediated the effect of preparatory condition on immediate learning, but not on long-term learning](substantive-comments-mediate-immediate-learning.md) — related
+- [Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior](homework-management-partially-mediates-teacher-involvement-behavior.md) — related

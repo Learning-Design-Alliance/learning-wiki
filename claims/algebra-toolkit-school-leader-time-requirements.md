@@ -45,3 +45,4 @@ Descriptive resource table entry on school leader time in this REL document. The
 ## Related Claims
 - [Full Algebra Toolkit implementation requires roughly 14–22 hours of educator time across PD sessions, preparation, and classroom implementation](algebra-toolkit-educator-time-requirements.md) — related
 - [Each toolkit PLC requires one facilitator who leads sessions and supports educators between them](algebra-toolkit-facilitator-role-requirements.md) — related
+- [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related

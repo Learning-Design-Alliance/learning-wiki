@@ -43,4 +43,5 @@ Hierarchical multiple regression (N = 181) with prior Humanities and Computer Li
 
 
 ## Related Claims
--
+- [Peer grading behaviors do not significantly predict project performance for assessors or assessees](peer-grading-not-significant-predictor.md) — reports the opposite
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related

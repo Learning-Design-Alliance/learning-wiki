@@ -66,3 +66,5 @@ Same SHAP feature-ranking analysis of the N=118 survey responses. The article re
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related
 - [GenAI learning outcomes depend more on use quality (capability, reflective engagement, retained agency) than on frequency of use](genai-use-quality-over-frequency.md) — related
 - [Multi-tool GenAI users report higher support, reliance, and benefit than single-tool users, but lower confidence working without GenAI](multi-tool-users-benefits-lower-independent-confidence.md) — related
+- [Perceived instructor policy is associated with GenAI task use, confidence, reliance, and perceived benefits, with small effect sizes](instructor-policy-associated-small-effects.md) — related
+- [GenAI's effects on higher-order thinking are mixed: support for reflection and idea expansion alongside cognitive offloading and no overall innovativeness gain](genai-higher-order-thinking-mixed.md) — related

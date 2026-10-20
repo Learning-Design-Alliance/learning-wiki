@@ -45,3 +45,5 @@ The article reports, citing Calao et al. (2015), a study in which CT ideas were 
 ## Related Claims
 - [An adaptive AI-based STEM instructional program produced statistically significant differences favoring the experimental group across all deep learning dimensions in sixth-grade science](adaptive-ai-stem-deep-learning-gains-sixth-grade.md) — related
 - [Sixth graders scored significantly higher on posttests that included the seven-step problem-solving plan than on unformatted posttests](formatted-problem-solving-plan-posttest-advantage.md) — related
+- [Computer-supported environments can support development of mathematical understanding toward formalization even when domain experts are not present](vmt-supports-mathematical-formalization-without-experts.md) — related
+- [Embedding test-taking strategies and ACT practice items in algebra improved practice ACT mathematics scores (McMann, 1994; effect size 0.34)](algebra-embedded-act-strategies-improve-math-mcmann.md) — related

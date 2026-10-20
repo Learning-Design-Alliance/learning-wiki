@@ -65,3 +65,4 @@ Category-level policy–enforcement heatmap analysis (Fig. 3) of pair instances 
 - Underexplored PEA configurations center on participation support, AI literacy, and content generation, with two theme-level combinations absent from the corpus — related
 - [Coded prompt logs show different prompting strategies foreground different pedagogical themes, with technical prompts the largest strategy total (398 instances)](prompt-strategies-foreground-different-pedagogical-themes.md) — related
 - [Prompt-Based Constraint is the dominant enforcement mechanism in LLM-based programming support systems](prompt-based-constraint-dominant-enforcement.md) — a narrower finding that bears on this claim
+- [Authority over assistance boundaries is highly centralized in system logic in LLM-based programming support systems](authority-centralized-system-only-llm-programming-support.md) — related

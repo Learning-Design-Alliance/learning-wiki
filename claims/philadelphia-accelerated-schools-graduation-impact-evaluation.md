@@ -44,3 +44,4 @@ The report's own abstract states its evaluation scope: it "evaluates the impacts
 
 ## Related Claims
 - [The evaluation also examines rates of credit accumulation for recent enrollees of Philadelphia's accelerated schools](philadelphia-accelerated-schools-credit-accumulation-evaluation.md) — related
+- [Little evidence that Philadelphia charter schools help or harm achievement of students in nearby district schools](philadelphia-charter-no-spillover-nearby-district-schools.md) — related

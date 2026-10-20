@@ -69,3 +69,4 @@ Descriptive analysis of 2017/18 graduate data by student group (figure 5). The r
 - [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — the general claim this finding bears on, with the studies behind it
 - [Among 2018 on-time graduates, the most frequently unmet CCR requirements were laboratory science (37 percent), fine arts (29 percent), and world languages (23 percent)](most-unmet-requirements-science-arts-languages.md) — related
 - [English learners are strongly underrepresented in the ESA program: 0.6% of ESA students versus 9.2% of public school students statewide](english-learners-underrepresented-esa-program.md)
+- [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related

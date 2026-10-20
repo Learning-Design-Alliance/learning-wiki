@@ -47,3 +47,5 @@ The paper's comparison of roster-confirmed versus unconfirmed teacher/student li
 - Researchers presume grades 4-5 administrative data are better for value-added teacher effectiveness research because of self-contained classrooms and classroom homogeneity — related
 - [The effects of departmentalized instruction on student achievement and teacher retention remain unclear](departmentalization-effects-achievement-retention-unclear.md) — related
 - Using unconfirmed teacher/student links in value-added models affects research differently depending on the circumstances of the data — a broader claim this one bears on
+- [Teacher-confirmed roster data show levels of co-teaching far beyond what appears in administrative data](confirmed-roster-data-reveal-more-co-teaching-than-administrative-data.md) — related
+- [Departmentalized elementary teachers' experiences matched some, but not all, hypothesized benefits and challenges of departmentalized instruction](departmentalized-teacher-experiences-partial-consistency.md) — related

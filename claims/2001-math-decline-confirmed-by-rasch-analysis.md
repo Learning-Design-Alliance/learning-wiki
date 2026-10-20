@@ -48,3 +48,4 @@ Supplementary re-analysis of 2001 CPS math scores using an equated Rasch score (
 - [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — related
 - [Chicago elementary student achievement improved steadily from 1990 to 1999 under local control, with the share of students reaching national norms growing to 35 percent in reading and 43 percent in math](chicago-elementary-achievement-growth-1990-1999.md) — related
 - [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — related
+- [CPS elementary school productivity improvements stalled after 1997, with no evidence of significant productivity growth since then](cps-productivity-improvements-stalled-after-1997.md) — a broader claim this one bears on

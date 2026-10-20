@@ -46,3 +46,5 @@ In the year-one pilot sample, "8 percent of teachers in this sample received at 
 - [Fewer non-tenured teachers were rated in the top two categories under REACH (58%) than under the previous checklist system (87%)](reach-fewer-top-two-ratings-than-checklist.md) — related
 - [Under REACH fewer teachers received ratings in the top two categories than under the prior checklist system](reach-fewer-teachers-top-rating-categories-than-checklist.md) — related
 - [Across 78 observed classrooms, 46% of teacher ratings were at the unsatisfactory or basic level, with AMPS teachers earning generally higher ratings than IDS and Renaissance 2010 teachers](observation-ratings-46-percent-basic-unsatisfactory.md) — related
+- [REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17](reach-ratings-increased-over-time.md) — related
+- [Lower REACH ratings predicted teacher exit: more than half of unsatisfactory-rated teachers left CPS and low-VAM teachers moved out of tested grades/subjects](low-ratings-linked-teacher-exit-and-reassignment.md) — related

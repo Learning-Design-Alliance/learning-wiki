@@ -46,3 +46,4 @@ Narrative review of pharmaco-epidemiological register analyses, reporting a Swed
 
 - [Pharmaco-epidemiological register studies indicate ADHD medication treatment reduces risk of injuries and emergency ward visits in children with ADHD](adhd-medication-reduces-injury-emergency-risk-children.md)
 - [At least 15% of children with ADHD continue to meet full diagnostic criteria by age 25 and a further 50% meet criteria in partial remission, with European estimates of persistence up to 80%](adhd-persistence-into-adulthood-subthreshold.md)
+- [A third systematic review concluded ADHD medication reduced symptoms and impairments but found limited and inconsistent evidence for long-term medication effects on social functioning, academic achievement, employment status, and psychiatric comorbidity](adhd-medication-limited-long-term-functional-effects.md) — related

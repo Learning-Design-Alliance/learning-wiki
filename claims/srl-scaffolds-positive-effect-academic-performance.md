@@ -49,3 +49,6 @@ Random effects meta-analysis of 29 journal articles from Web of Science (2004–
 - [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](srl-strategies-large-effect-academic-achievement.md) — related
 - [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — related
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
+- [Creativity-based learning applications show a large, positive pooled effect on students' academic achievement (ES = 0.850)](cbl-large-positive-effect-academic-achievement.md) — related
+- [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
+- [Multiple kinds of scaffolds are more effective than a unique scaffold for academic performance](multiple-scaffolds-outperform-unique.md) — a narrower finding that bears on this claim

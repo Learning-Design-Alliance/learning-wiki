@@ -46,3 +46,5 @@ Threshold difference-in-differences from linear probability models with HC1 erro
 - [The average effect of verified AI materials attenuates when the lowest pre-intervention marks are removed, while the threshold effect at the upper-second boundary is robust](average-effect-fragile-threshold-robust.md) — related
 - [Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise](did-2-34-mark-advantage-verified-ai-materials.md) — related
 - [Mark dispersion narrowed in the treated half alone, with the Part 2 standard deviation falling from 7.09 to 5.03 while Part 1's was unchanged](dispersion-narrowed-treated-half.md) — related
+- [Peers slightly under-mark their comrades' papers while self-assessors over-mark their own](peers-undermark-self-assessors-overmark.md) — related
+- [Gains from verified AI materials are concentrated in the bottom quintile, which accounts for roughly three-quarters of the average effect](gains-bottom-quintile-verified-ai.md) — related

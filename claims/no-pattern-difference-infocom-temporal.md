@@ -43,3 +43,4 @@ Input-stage cluster comparisons of target speech duration, pause measures, fille
 ## Related Claims
 - [Input-stage, but not output-stage, interaction patterns are significantly associated with interpreting fluency and target language quality, with Intensive Engagers scoring lowest](input-stage-patterns-predict-quality.md) — reports the opposite
 - [K-means clustering of stage-level CACI observations yields four student-AI interaction patterns: Intensive Engagers, Fast Scanners, Traditionalists, and Frequent Switchers](four-caci-interaction-patterns.md) — related
+- [The article interprets Frequent Switchers' balanced AI-note coordination as achieving the best performance, with multiple pathways to adequate performance in CACI](frequent-switchers-best-performance.md) — reports the opposite

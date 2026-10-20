@@ -50,3 +50,4 @@ Narrative review reflection: the authors propose, with hedging, that "students�
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [SSA works differently for different types of students, with particular challenges in helping lower performers](ssa-differential-effects-lower-performers.md) — related

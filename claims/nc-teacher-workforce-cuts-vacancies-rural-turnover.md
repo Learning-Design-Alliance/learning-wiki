@@ -69,3 +69,4 @@ Analysis of district-level teacher turnover data (Exhibit 5) and state vacancy r
 - [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — a broader claim this one bears on
 - Extreme weather events driven by climate change closed schools across the United States in the 2024-25 school year — related
 - Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22 — related
+- [K-12 and postsecondary education in the United States operate in fundamentally different worlds with separate essential structures while students flow across the divide](k12-postsecondary-structural-divide.md) — related

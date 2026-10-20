@@ -43,4 +43,7 @@ Authors' analytical conclusion (type e) drawn from the episode analyses, noting 
 
 
 ## Related Claims
--
+- [Feedback in full-mission simulator training is delivered through recurring, multidimensional, multimodal feedback cycles built on instructors' embedded assessments of the fit between learning objectives and the ongoing task](multimodal-feedback-cycles-embedded-assessment-simulator.md) — related
+- [Students' spatial positions in the simulator display their understanding of bridge work roles, and instructors use these positions as a basis for embedded assessment and correction](spatial-positions-display-work-role-understanding.md) — related
+- [Maritime instructors resisted automated assessment of simulator performance, preferring learning analytics that support their professional judgment and use existing simulator data](instructors-resist-automated-assessment-prefer-judgment-support.md) — related
+- [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related

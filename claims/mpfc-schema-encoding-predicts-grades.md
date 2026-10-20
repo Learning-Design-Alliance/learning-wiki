@@ -47,3 +47,5 @@ Correlational analysis of 25 of the 31 participants who supplied second-year gra
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — related
 - [Question specificity during Socratic AI tutoring correlates mildly but positively with self-reported expected course grade (Pearson r ≈ 0.43), with substantial scatter](question-specificity-correlates-expected-grade.md) — related
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
+- [New facts related to students' prior disciplinary knowledge are better remembered after 24 hours than schema-unrelated facts](schema-related-facts-better-remembered.md) — related
+- [Encoding reaction times do not differ between schema-related and schema-unrelated trials](encoding-rt-no-schema-difference.md) — related

@@ -46,3 +46,5 @@ Comparison of step-by-step interactive planning with one-shot generation of the 
 - [Adaptivity to individual learners is the primary bottleneck for LLMs in KC path planning](adaptivity-bottleneck-llm-path-planning.md) — related
 - [Chain-of-Thought prompting improves KC planning for Qwen models but its effect varies by model and educational stage](cot-effect-varies-model-stage-kc-planning.md) — related
 - [Retrieval augmentation raises path Validity but not the joint Final Pass rate](rag-raises-validity-not-final-pass.md) — related
+- [Removing explicit mastery information from learner profiles mainly degrades Adaptivity](mastery-information-needed-for-adaptivity.md) — related
+- [Shortest remediation paths respecting attribute prerequisites are shorter than random and full-coverage baseline paths](remediation-path-efficiency-baselines.md) — related

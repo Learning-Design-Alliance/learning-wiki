@@ -44,3 +44,5 @@ The editorial reports, citing Schel and Crone (2013), a go/nogo study with a lar
 - [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) — related
 - [Adolescents show disproportionately greater false alarms on happy no-go trials with heightened ventral striatum activity](adolescent-happy-nogo-false-alarm-ventral-striatum.md) — related
 - [Age correlates with detection performance: hits and d′ increase and false alarms decrease with age](age-correlates-detection-performance.md) — related
+- [Emotion regulation and cognitive control discrepancy on emotional go/no-go decreases with age](emotion-cognitive-control-discrepancy-decreases-age.md) — related
+- [Task-demand clusters differ in useful age ranges, with perceptual inhibition developing earliest and motivational inhibition latest](inhibitory-control-task-demands-developmental-ordering.md) — related

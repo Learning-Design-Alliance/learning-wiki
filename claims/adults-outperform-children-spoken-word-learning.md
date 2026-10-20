@@ -46,4 +46,5 @@ Meta-regression (Model 2, k = 102) with age group as a fixed predictor. The univ
 - [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
 
 ## Related Claims
--
+- [Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning](spoken-input-incidental-l2-word-learning-large-gains.md) — related
+- [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related

@@ -47,3 +47,5 @@ Participants reported learning empathy interviews at an early convening and adop
 - Female principals enacted care through a 'listening then deciding' pattern of situational decision making — related
 - [CBE practices at the consortium colleges were identified through document review, site visits, and stakeholder interviews](cbe-practices-identified-via-review-visits-interviews.md) — related
 - [Classroom teachers spontaneously adopted empathy interviews outside the design thinking cycle, using them with students and families for relationship building](empathy-interviews-adopted-beyond-design-cycle.md) — related
+- [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related
+- [Empathy interviews are among the most commonly discussed continuous improvement practices for advancing equity](empathy-interviews-central-equity-practice.md) — related

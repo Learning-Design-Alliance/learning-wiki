@@ -62,4 +62,6 @@ In the same 3A-vs-3B comparison, the "interaction between answer accuracy and Ex
 
 
 ## Related Claims
--
+- [The opt-out and curiosity–accuracy findings replicate in a larger UK sample (Experiment 3A)](opt-out-curiosity-findings-replicate-uk-sample.md) — related
+- [Adults report greater curiosity about answers on incorrect-answer trials than on correct-answer trials](curiosity-higher-incorrect-than-correct-trials.md) — related
+- [Adults opt out of answering more on trials they later answer incorrectly, and curiosity is higher on opted-out trials (metacognitive control)](opt-out-more-on-incorrect-trials-curiosity-higher.md) — related

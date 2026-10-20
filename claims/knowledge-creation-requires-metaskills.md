@@ -45,3 +45,6 @@ The editorial reports, from the Muukkonen and Lakkala article using a coding sch
 ## Related Claims
 
 - [Individual learnity graphs are unique, and their uniqueness becomes a source of innovation and creative problem solving](unique-graphs-source-of-innovation.md)
+- [The Bidea^ dimension was the most frequent (45.87% of total discourse), with Bfact^ dominant in Grade 5 Science and Bopinion^ dominant in Grade 10 Liberal Studies](idea-dimension-most-frequent-fact-vs-opinion.md) — related
+- [Collaborative writing develops through distinct phases, is non-linear and non-cumulative, with sharing of opinions emerging in the last phase](collaborative-writing-phases-nonlinear-opinion-sharing-last.md) — related
+- [Students enact new CSCL technologies according to communication genres of the past, producing informal rather than scholarly discourse](old-genres-shape-threaded-discussion-use.md) — related

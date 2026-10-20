@@ -43,4 +43,7 @@ Group-level Gini-coefficient analysis of utterance distribution within triads in
 
 
 ## Related Claims
--
+- [More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration](unequal-participation-lower-satisfaction.md) — related
+- [Tentative evidence that groups receiving the collaboration support more often achieved near-equal participation, since most groups failing the gini criterion were controls](tentative-support-equal-participation.md) — reports the opposite
+- [Neither a group awareness tool alone nor combined with adaptive prompts significantly changed the equality of participation in university online collaboration](gat-prompt-no-significant-equal-participation-effect.md) — possibly the same claim (merge candidate)
+- [Groups' distribution of the four problem-solving processes deviated less from the ideal distribution (lower Gini coefficients) on scaffolded than non-scaffolded tasks](scaffolds-lower-gini-cps-process-distribution.md) — related

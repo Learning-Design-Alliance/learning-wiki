@@ -43,4 +43,7 @@ Authors' interpretation in the Discussion, resting on the experimental finding o
 
 
 ## Related Claims
--
+- [Reactivity differs by rating scope: item-focused confidence ratings impaired rule learning while task-focused judgments of learning did not](rating-scope-confidence-versus-jol-reactivity.md) — related
+- [Eliciting confidence ratings impairs rule-based category learning compared to both no-rating and judgment-of-learning conditions on ambiguous transfer items](confidence-ratings-impair-rule-learning.md) — a narrower finding that bears on this claim
+- [The confidence-rating impairment on ambiguous transfer items persists among participants who met the learning criterion](rule-learning-impairment-persists-among-learners.md) — related
+- [Confidence ratings do not impede category learning per se: no condition differences in training accuracy or on unambiguous and trained transfer items](no-confidence-rating-effect-training-or-unambiguous-items.md) — related

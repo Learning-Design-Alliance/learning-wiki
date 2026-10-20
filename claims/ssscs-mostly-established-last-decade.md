@@ -46,3 +46,4 @@ Descriptive survey finding on SSSC starting year (Exhibit 2). The article states
 - [Over 65% of surveyed states reported having a state school safety center, and over 96% of those centers were still operational](over-65-percent-states-report-sssc-operational.md) — related
 - [State legislation was the most commonly reported reason SSSCs were created, with school violence incidents cited by 28% of respondents](sssc-creation-legislation-and-violence-incidents.md) — related
 - [Most State School Safety Centers were created in response to a high-profile incident such as a school shooting or natural disaster](ssscs-created-after-high-profile-incidents.md) — related
+- [Most SSSCs have small staffs (over 75% with 10 or fewer staff) yet engage in a wide range of activities, led by technical assistance (93%) and training (86%)](ssscs-small-staff-wide-activity-range.md) — related

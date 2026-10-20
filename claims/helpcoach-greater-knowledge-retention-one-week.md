@@ -46,3 +46,4 @@ In the between-subjects lab study (n=40), participants repeated the same six-ite
 - [Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking](ai-help-seeking-is-a-skill.md) — the general claim this finding bears on, with the studies behind it
 - [HelpCoach increased spontaneous question specificity during chatbot problem-solving compared with pre-task training alone](helpcoach-increased-spontaneous-question-specificity.md) — related
 - [HelpCoach did not significantly outperform Baseline in improving or retaining self-reported self-regulation](helpcoach-no-self-regulation-gain.md) — related
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — reports the opposite

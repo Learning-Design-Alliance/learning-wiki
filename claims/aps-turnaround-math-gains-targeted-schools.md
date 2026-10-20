@@ -47,3 +47,4 @@ The report's key findings summarize its impact analysis of the Strategy in targe
 - [Turnaround partnership schools are producing math improvements, but other effects were mixed, varying by outcome and by partner organization (Kindezi and PBS)](aps-partnership-schools-mixed-effects.md) — possibly the same claim (merge candidate)
 - [There is little evidence that math and reading specialists, one Turnaround Strategy component in targeted schools, had an impact on academic outcomes](aps-specialist-support-little-impact-evidence.md) — related
 - [The first-year APS Turnaround Strategy evaluation reports implementation and impact findings focused on High Impact Tutoring and PBS operation of Thomasville Heights Elementary](aps-turnaround-first-year-report-scope.md) — related
+- [TLTS showed no detectable effect on science achievement after two years](tlts-no-detectable-science-effect.md) — related

@@ -47,3 +47,5 @@ A retrospective quasi-experimental study of K–8 students in 16 schools in a ch
 - Early elementary students using Imagine Math Facts demonstrated significantly more growth on Ren Star math assessments (effect size +0.11) — related
 - TalkingPoints use is associated with significant math score improvements in grades 3-8 — related
 - Bridges students in kindergarten through grade 2 scored significantly higher than matched peers on MAP (effect size +0.06) — related
+- [In a Maryland rural fringe district study of over 700 students in grades K-5, Imagine IM showed significant impacts on Acadience Math (+0.26) and Grade 2 NWEA MAP Growth Math (+0.39), with positive but non-significant effects on the state MCAP assessment](imagine-im-maryland-study-acadience-nwea.md) — related
+- [Math 180 matched comparison study: intervention-eligible students in grades 5-8 showed significantly greater NWEA MAP gains than matched comparison students (ES +0.23)](math-180-matched-comparison-es-023.md) — related

@@ -48,3 +48,4 @@ Findings from the mixed-methods survey of 149 students about the implemented AI-
 - [Students identify exploring GenAI applications across contexts as a second priority area for curriculum development](genai-applications-across-contexts-priority.md) — related
 - [Students identify navigating ethical and legal dimensions of GenAI as a third priority area for curriculum development](genai-ethical-legal-dimensions-priority.md) — related
 - [Students identify understanding and optimising GenAI functionality as a first priority area for curriculum development](genai-functionality-priority-area.md) — related
+- [Undergraduate business students strongly support integrating GenAI knowledge and application into higher education curricula](business-students-support-genai-curriculum-integration.md) — related

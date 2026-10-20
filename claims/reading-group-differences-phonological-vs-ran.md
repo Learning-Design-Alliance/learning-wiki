@@ -65,3 +65,6 @@ Moderator analysis for the control-vs-MD comparison showed a reversed ordering o
 - [The reading deficit profile of children with comorbid RDMD is additive relative to isolated RD and MD](rdmd-reading-deficits-additive.md) — related
 - [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](morphological-awareness-stronger-than-phonological-ran.md) — related
 - [Rapid automatized naming is the only component skill weakly related to reading comprehension in struggling adult readers (r = .15)](ran-weakly-related-adult-comprehension.md) — related
+- [Children with comorbid RDMD are significantly more impaired than children with isolated RD or MD in math, reading, and executive function outcomes](rdmd-more-impaired-than-isolated-groups.md) — related
+- [Group differences in math skills between LD and comorbid groups are more pronounced in symbolic than non-symbolic math tasks](math-group-differences-symbolic-tasks.md) — related
+- [RAN predicts reading deficits but not isolated writing deficits, whereas phonological awareness is worse in children with isolated writing deficits](ran-predicts-reading-not-isolated-writing.md) — related

@@ -51,3 +51,4 @@ Background statement in the Campbell review's executive summary, attributed to S
 - [Classroom behavior problems are linked to worse novice-teacher outcomes, while a welcoming staff and strong school leadership are linked to more positive outcomes](classroom-behavior-problems-school-climate-novice-outcomes.md) — related
 - Teachers report that disruptive behaviors of students in foster care are easily misinterpreted and that purely disciplinary responses can make things worse — related
 - [More teacher time using A2i software is associated with less classroom time in disruption and discipline events](a2i-use-fewer-disruptions.md) — related
+- [Nearly half of Chicago eighth graders and more than a third of tenth graders rate their classes as disruptive or very disruptive, and teachers corroborate frequent disruption](chicago-classroom-disruption-widespread.md) — related

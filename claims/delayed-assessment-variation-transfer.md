@@ -66,3 +66,5 @@ Authors' summary of assessment outcomes for research question 3, covering items 
 ## Related Claims
 - [After introduction, the student used the INSERT text-marking strategy consistently and independently, suggesting transfer](insert-strategy-independent-use-transfer-case.md) — related
 - [Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions](spontaneous-strategy-transfer-one-week-delay.md) — related
+- [Participating in a relevant group discussion, whether explaining or listening, raises immediate recall relative to an irrelevant discussion, but this advantage does not persist one month later](relevant-discussion-immediate-recall-advantage-fades.md) — related
+- [Performance on practiced reasoning items and on transfer items continued to improve after 3-week and 9-month delays](ct-performance-improves-further-after-delay.md) — related

@@ -47,3 +47,4 @@ Descriptive analysis of California Department of Education cohort data for 2017�
 - [Students experiencing homelessness show substantially lower achievement and graduation than housed peers (reported from a New York City study)](homeless-students-lower-achievement-graduation-nyc.md) — a broader claim this one bears on
 - [Students experiencing homelessness show lower academic proficiency than economically disadvantaged but stably housed peers in reading, mathematics, and science](homelessness-lower-academic-proficiency.md) — related
 - [Students experiencing homelessness meet or exceed state achievement standards at far lower rates (29% ELA, 19% mathematics) than students statewide (48%, 37%)](homeless-students-lower-caaspp-achievement.md) — related
+- [Students in foster care graduate from high school and enroll in college at substantially lower rates than their peers](foster-care-graduation-college-gaps.md) — related

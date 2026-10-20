@@ -45,3 +45,5 @@ Qualitative observational data compiled by the study's facilitator on the method
 ## Related Claims
 - [The GoldList Notebook Method increases long-term retention of L2 idioms compared with a vocabulary lesson alone](goldlist-method-improves-l2-vocabulary-retention.md) — related
 - [Only the Standard two-week-interval treatment showed a statistically significant improvement over the Baseline treatment](standard-two-week-spacing-significant-over-baseline.md) — related
+- [Uniform two-week spacing between distillations yielded the greatest benefit among the tested schedules, ranking Standard, Mixed, Frontloaded, then Baseline](two-week-uniform-spacing-greatest-benefit.md) — related
+- [Ethnographically-oriented methods surface five dimensions of classroom context that text-only transcripts omit, including multimodal communication and relationships](ethnographic-methods-surface-context-transcripts-omit.md) — related

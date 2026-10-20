@@ -54,3 +54,4 @@ The brief reports figures from a Mathematica study on changes in financial aid a
 - [PLUS loan volume at HBCUs declined substantially in 2012-13 after credit standards were tightened](plus-loans-declined-substantially-hbcus-2012-13.md) — related
 - [HBCUs experienced larger enrollment declines than other institutions after the PLUS tightening, particularly for first-year students](hbcu-enrollment-declines-larger-than-other-institutions.md) — related
 - [HBCU enrollment continued to decline in 2013-14 despite the partial rebound in PLUS loans](hbcu-enrollment-continued-declining-2013-14.md) — related
+- [PLUS loans at HBCUs increased somewhat in 2013-14 after the Department of Education streamlined the PLUS appeals process](plus-loans-increased-somewhat-2013-14-appeals-streamlined.md) — related

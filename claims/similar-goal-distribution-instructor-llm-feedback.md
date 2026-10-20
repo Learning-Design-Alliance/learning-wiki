@@ -47,3 +47,5 @@ Descriptive analysis of the FOXGLOVE dataset (§3.5) comparing goal distribution
 - [LLMs and instructors agree broadly on where feedback belongs but diverge on exact sentence spans, with span overlap strongly goal-dependent and LLMs highlighting more of each essay](llm-instructor-span-overlap-goal-dependent.md) — related
 - [GenAI-supported peer feedback groups produced more suggestions and explanations and less positive affective feedback than the PF group](genai-peer-feedback-shifts-feedback-quality-profile.md) — related
 - [The PS-GenAI-PF group outperformed the PF group on rebuttal data and warrant and on addressing the opposing view](ps-genai-pf-improves-rebuttals-and-opposing-view.md) — related
+- [Teachers adapt feedback focus across draft stages in five types while the best model shows significant changes in only three](teacher-draft-stage-adaptivity-exceeds-llms.md) — related
+- [LLMs cover most teacher feedback focus types but fail to match teacher feedback focus distributions, with LearnLM closest](llms-cover-types-but-mismatch-teacher-distributions.md) — related

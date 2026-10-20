@@ -127,3 +127,5 @@ Key finding comparing credential completion between CBE participants and nonpart
 
 - [CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) — related
 - [Consortium-wide, 35% of CBE participants completed their program, with high employment rates and above-average wage growth after enrollment](cbe-participants-completion-employment-wages.md) — related
+- [A three-college consortium successfully implemented online competency-based programs as planned, meeting most implementation milestones and outcome targets](cbe-consortium-implemented-programs-as-planned.md) — related
+- [More than four-fifths of 2015 LINCS certification track course completers in five consortium colleges were employed within three quarters after the course, with average quarterly earnings of nearly $7,400](lincs-completers-employment-earnings-2015.md) — related

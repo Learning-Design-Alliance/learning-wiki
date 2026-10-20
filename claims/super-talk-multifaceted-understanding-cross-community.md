@@ -48,3 +48,6 @@ Qualitative content analysis of Super Talk discussion records shared across the 
 ## Related Claims
 - [Fifth-graders in four classrooms generated high-quality super notes reflecting inquiry progress for cross-community sharing](fifth-graders-high-quality-super-notes-cross-classroom.md) — related
 - [Cross-class super notes in Knowledge Forum prompt rise-above syntheses and serve as an epistemic ladder supporting deeper understanding](super-notes-epistemic-ladder-cross-class-knowledge-building.md) — related
+- [The authors report that teachers' lives are enriched by students' deeper understanding of their own stories and openness to authentic stories of others](mutual-enrichment-positionality-work.md) — related
+- [Grade 5 students can sustain productive knowledge-building collaboration over a whole school year with a facilitative rather than guiding teacher](grade-5-sustain-productive-collaboration-whole-year-knowledge-building.md) — related
+- [Automated methods capturing thematic cohesion significantly enrich the analysis of knowledge building over time in student discussion](automated-thematic-cohesion-enriches-knowledge-building-analysis.md) — related

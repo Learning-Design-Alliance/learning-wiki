@@ -65,3 +65,6 @@ Descriptive survey finding on SSSC activities. The article reports technical ass
 - [Over 65% of surveyed states reported having a state school safety center, and over 96% of those centers were still operational](over-65-percent-states-report-sssc-operational.md) — related
 - [SSSC missions most frequently emphasize providing resources, training, and education and creating safer school environments, with some centers serving as school safety hubs](sssc-missions-resources-training-safer-schools.md) — related
 - [Nearly all responding SSSCs conducted trainings in 2021, with reporting centers documenting over a thousand training events reaching tens of thousands of participants](sssc-training-volume-2021.md) — related
+- [Over 70% of operational SSSCs are situated within larger state agencies and are funded mainly through state appropriations and federal or state grants](ssscs-housed-in-state-agencies-state-federal-funding.md) — related
+- [Most state school safety centers are recent: 62% were established between 2010 and 2020](ssscs-mostly-established-last-decade.md) — related
+- [State legislation was the most commonly reported reason SSSCs were created, with school violence incidents cited by 28% of respondents](sssc-creation-legislation-and-violence-incidents.md) — related

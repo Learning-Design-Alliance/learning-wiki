@@ -45,3 +45,6 @@ Within-sample paired t-test across the 92 participants comparing cued recall at 
 ## Related Claims
 - [Greater aerobic fitness is associated with more stable long-term memory retention over 12 hours in young adults](aerobic-fitness-predicts-memory-retention.md) — related
 - [Spending more time sedentary 1 to 2 hours after encoding is associated with better long-term memory retention, implying physical activity in that window is detrimental](post-encoding-activity-detrimental-to-memory.md) — related
+- [Total percentage of time spent sedentary or in moderate-to-vigorous physical activity during the day is unrelated to long-term memory retention in young adults](total-daily-activity-unrelated-to-long-term-memory.md) — related
+- [Physical activity in the hour before memory retrieval is associated with superior memory retention, while sedentary time in that window is negatively associated](pre-retrieval-activity-benefits-memory.md) — related
+- [A combined model of demographics, aerobic fitness, and the two critical activity windows accounts for over 30% of variance in long-term memory retention](combined-model-memory-retention-variance.md) — related

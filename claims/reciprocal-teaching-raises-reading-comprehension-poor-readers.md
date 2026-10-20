@@ -49,3 +49,4 @@ Narrative review attributing the finding to Palincsar and Brown (1984); the arti
 ## Related Claims
 
 - [Reciprocal Teaching Improves Reading Comprehension](reciprocal-teaching-improves-reading-comprehension.md) — possibly the same claim (merge candidate)
+- [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — related

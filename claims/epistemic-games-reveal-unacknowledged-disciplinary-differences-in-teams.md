@@ -58,3 +58,6 @@ This is methodologically careful naturalistic research (q2-q3: peer-reviewed, sy
 - [Students believed interdisciplinary studio experiences would ease their transition into the workforce](studio-experience-prepares-students-for-workforce.md) — related
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
 - The study calls for integrative research designs that combine knowledge from multiple fields, including network, multi-level, and simulation modeling — related
+- [Teachers in one focus-group study show disciplinary variation in how they assess communication](disciplinary-variation-communication-assessment.md) — related
+- [Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines](disciplinary-perspective-critical-thinking.md) — related
+- [Three discourse patterns emerged during collaborative multidisciplinary modeling, differing in the extent to which students merged disciplinary perspectives](three-interdisciplinary-discourse-patterns.md) — related

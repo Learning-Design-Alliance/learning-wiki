@@ -65,3 +65,5 @@ Same 5000-resample bootstrap analysis. The indirect path through basic psycholog
 - [GAI use appears as a core condition only in a supplementary autonomy–relatedness configuration with low unique coverage](gai-core-only-supplementary-autonomy-configuration.md) — related
 - [GAI use is weakly positively associated with basic psychological need satisfaction among medical undergraduates](gai-use-weakly-associated-need-satisfaction-medical-undergraduates.md) — related
 - [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](need-satisfaction-strongly-associated-learning-engagement.md) — related
+- [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](apl-parallel-mediation-deep-revision.md) — related
+- [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related

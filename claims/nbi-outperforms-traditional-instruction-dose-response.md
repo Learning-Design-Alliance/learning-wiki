@@ -43,3 +43,6 @@ The review reports a randomized controlled trial of school garden-based instruct
 ## Related Claims
 
 - [Sustained aerobic exercise improves children's EFs, with dose-response benefits for the most EF-demanding task and math in the high-dose group only](aerobic-exercise-dose-response-ef.md)
+- [Children admitted by random lottery to high-fidelity Montessori schools performed better or the same as waitlisted controls on academic, executive function, and social measures, never worse](montessori-lottery-studies-better-or-same-outcomes.md) — related
+- [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
+- [Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students](booknook-small-positive-map-reading-growth.md) — related

@@ -67,3 +67,5 @@ Post hoc contrasts between indirect effects in the same bootstrap analysis. The 
 - [Teamwork predicts critical thinking directly and via work skills (Ind1: Twork→WSk→CThink, β=.053, 95% CI .0312-.0717)](teamwork-via-work-skills-indirect-effect.md) — related
 - [Teamwork predicts critical thinking via educational motivation (Ind2: Twork→EdMot→CThink, β=.052, 95% CI .0318-.0747)](teamwork-via-educational-motivation-indirect-effect.md) — related
 - [The number of substantive comments during discussion mediated the effect of preparatory condition on immediate learning, but not on long-term learning](substantive-comments-mediate-immediate-learning.md) — related
+- [Teamwork, work skills and educational motivation each significantly predict critical thinking in the full regression (β=.44, .23, .03; R-sq=.3465)](teamwork-skills-motivation-predict-critical-thinking.md) — related
+- [Greater teamwork is positively and significantly correlated with critical thinking in secondary school students (r=.532, p<.001)](teamwork-correlated-critical-thinking-secondary.md) — related

@@ -47,3 +47,5 @@ The grade × operation interaction on retrieval use, F(2, 57) = 5.1, showed a si
 
 ## Related Claims
 - [Retrieval is faster and procedural execution more efficient on addition than on multiplication problems, and these operation effects persist across the primary school years](addition-more-efficient-than-multiplication-children.md) — related
+- [Both a predominantly computational-strategy task and a retrieval-expected task show most support for the computational efficiency model of multiplication difficulty.](computational-efficiency-model-supported-in-both-tasks.md) — related
+- [Retrieval use increases with grade, and the small-versus-large difference in retrieval use decreases significantly between fourth and sixth grade only](retrieval-use-grade-problem-size-interaction.md) — related

@@ -48,3 +48,4 @@ Randomized controlled trial (randomized block design stratified by age and class
 ## Related Claims
 - [Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures](alignment-trained-skill-larger-effects-phonological-awareness.md) — a broader claim this one bears on
 - [Blending outcomes showed no statistically significant effects of DaisyQuest in the Lonigan et al. (2003) trial](daisyquest-blending-outcomes-not-significant.md) — related
+- [Segmentation is the only alphabetics outcome the WWC confirmed statistically significant across multiple studies](segmentation-only-consistently-confirmed-outcome.md) — related

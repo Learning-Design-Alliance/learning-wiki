@@ -51,3 +51,4 @@ ANCOVA on self-rated mental effort (Paas 9-point scale): during learning, EPEP s
 - [Individual instructional design principles show small correlations with self-efficacy, mental effort, and transfer performance](individual-principles-small-correlations-motivation-effort.md) — related
 - [No differences were found on mental effort during instruction or on transfer across illusion-of-control and instruction-method conditions](no-mental-effort-differences.md) — related
 - [In Experiment 2, mental effort over time interacted with condition: the feedback + contrast condition increased effort from learning to test phase while other conditions decreased](exp2-mental-effort-condition-interaction.md)
+- [Solving practice problems invested less mental effort than contrasting or erroneous examples, contrary to the worked-example-effect hypothesis](practice-problems-lower-mental-effort.md) — related

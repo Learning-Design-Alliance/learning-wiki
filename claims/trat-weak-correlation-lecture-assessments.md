@@ -46,3 +46,4 @@ Spearman correlation analysis of the same 69-student cohort's TRAT scores agains
 - [IRAT scores correlate low-to-moderately and significantly with pharmacy calculations lecture assessment scores](irat-low-moderate-correlation-lecture-assessments.md) — related
 - [IRAT performance shows a stronger association with final exam performance than TRAT performance does](irat-stronger-final-exam-association-than-trat.md) — related
 - [Neither IRAT nor TRAT distinguishes itself in correlation with module high scores, with isolated significant correlations on difficult topics](rat-module-high-scores-no-distinction.md) — related
+- [Topic-level assistant question volume correlates significantly with student self-reported topic difficulty (Spearman ρ = 0.491, p = 0.008, 28 matched topics)](question-volume-correlates-self-reported-difficulty.md) — related

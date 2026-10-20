@@ -46,3 +46,4 @@ Pretest accuracy analysis in the experiment with 53 psychology students before a
 - [Argument structure training improved identification of atypical full-fledged arguments at posttest, but not at the 4-week follow-up](training-improved-atypical-arguments-posttest-only.md) — related
 - [Pretest accuracy moderated the training effect for typical full-fledged arguments: students with high pretest scores benefited most](pretest-accuracy-moderates-typical-argument-training.md) — related
 - [Argument structure training did not generally improve component identification, but specifically improved identification of warrants at posttest](training-improved-warrant-identification-only.md) — related
+- [Study performance moderated the training effect: high-achieving students benefited at posttest, low performers did not](study-performance-moderates-training-effect.md) — related

@@ -47,3 +47,6 @@ Thematic analysis of teacher prompting moves in the PPB logs found that topic ad
 
 ## Related Claims
 - [Mathematical hallucinations were rare but teachers used professional knowledge to adjust mathematical properties](teachers-adjust-mathematical-properties-llm-problems.md) — related
+- [Realism issues were detected by agents during generation but were rare in final versions](realism-issues-rare-final-versions.md) — related
+- [The three refinement strategies make distinct trade-offs when personalizing problems to topics that resist natural alignment with the original math](refinement-strategy-trade-offs-in-case-analysis.md) — related
+- [Authenticity and realism are the most frequent failure modes in initial LLM-personalized math problems, and a single refinement iteration substantially reduces failures](single-refinement-iteration-reduces-personalization-failures.md) — related

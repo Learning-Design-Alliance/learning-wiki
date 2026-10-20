@@ -44,4 +44,6 @@ Author's interpretive statement (type e) describing the fifth CRITO stage in the
 
 
 ## Related Claims
--
+- [Language must also be subjective, emotional, inspirational, and aesthetic, so teachers should employ both the method of fact and the method of imagination](language-subjective-emotional-aesthetic.md) — related
+- [User engagement with GAI tools is filtered through imagined affordances rather than direct encounter with software functionalities](imagined-affordances-filter-gai-engagement.md) — related
+- [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related

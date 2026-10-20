@@ -45,3 +45,5 @@ The fact sheet's descriptive definition of student growth measures, stating they
 ## Related Claims
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
 - [Averaging principal performance measures across multiple recent years does not improve their accuracy for predicting principals' contributions in the following year](multiyear-averaging-no-accuracy-gain-principal-measures.md) — related
+- [Eighth graders in the Breakthrough Collaborative math tutoring pilot showed math score growth from beginning to end of year at both affiliates, similar to a national pre-pandemic sample](breakthrough-tutoring-math-gains-similar-national-sample.md) — a narrower finding that bears on this claim
+- [Policy decisions such as shortening or extending the school year depend on accurate within-year learning estimates](school-year-policy-depends-on-growth-estimates.md) — related

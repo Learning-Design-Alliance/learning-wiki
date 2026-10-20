@@ -45,3 +45,4 @@ Review narrative in the Introduction's moderator discussion: the review reports 
 - [Bilingual children solve the Sky Search selective attention task faster than monolinguals across the studies using it](bilingual-faster-sky-search-selective-attention.md)
 - [Largest EF-training benefits emerge on the most demanding EF tasks and task conditions, so outcome measures must test the limits of children's EF abilities](demanding-tasks-reveal-ef-training-benefits.md)
 - [Bilingual children perform worse than monolinguals on attention tasks with verbal stimuli but not non-verbal ones](verbal-stimuli-bilingual-worse-attention-tasks.md)
+- [Sustained aerobic exercise improves children's EFs, with dose-response benefits for the most EF-demanding task and math in the high-dose group only](aerobic-exercise-dose-response-ef.md) — related

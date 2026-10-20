@@ -47,3 +47,5 @@ During-interaction ad-hoc questionnaire (two items, 1-10 scale) completed at the
 - [Abrupt location or character changes mid-scenario co-occur with the lowest story-content coherence ratings](abrupt-setting-changes-lowest-coherence.md) — related
 - [Adults rated the LLM-powered iCub storytelling system as usable, with a total SUS score of 76.70 indicating good product usability](icub-storytelling-sus-76-good-usability.md) — related
 - [The iCub storytelling system achieved 88% trial success and 86% VLM sticker-description agreement, with the LLM adding to human contributions in 8% of trials and never correcting them](icub-storytelling-system-success-rates.md) — related
+- [AI-generated interactive-fiction learning scenarios are perceived as narratively clear and of appropriate length by STEM higher-education participants](ai-generated-if-narrative-clarity-length-accepted.md) — related
+- [Students' writing and storytelling developed substantially, with the majority group publishing 23 school-level stories in Cycle 1 and 38 in Cycle 2 before a school cap limited publications](tprs-mtss-storytelling-publication-growth.md) — related

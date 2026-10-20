@@ -51,3 +51,4 @@ Multiple linear regression analysis in a pilot study of 47 healthy adults found 
 - [Sexual abuse and physical neglect exposure are negatively associated with academic achievement (WRAT-3) scores in healthy adults](sexual-abuse-physical-neglect-wrat3-achievement.md) — related
 - [Memory deficits associated with childhood trauma in healthy adults are not secondary to psychiatric or medical illness](trauma-memory-deficits-not-secondary-to-illness.md) — a broader claim this one bears on
 - [Choice latency is a valid cue for kindergarteners: faster recognition responses are associated with correct answers](choice-latency-valid-cue-kindergarteners.md) — related
+- [Physical neglect exposure is associated with more double errors in the Spatial Working Memory test in healthy adults](physical-neglect-spatial-working-memory-errors.md) — related

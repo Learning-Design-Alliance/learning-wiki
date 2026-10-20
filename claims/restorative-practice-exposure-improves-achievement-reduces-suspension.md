@@ -49,3 +49,6 @@ Large-scale observational analysis combining student survey data from more than 
 - [In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased](partial-implementation-schools-peer-outcomes-declined.md) — related
 - [School culture changes during turnaround coincided with suspension rates falling from roughly one in four students suspended per year to zero suspensions](perry-street-suspension-reduction-culture-turnaround.md) — related
 - [Suspension is associated with lower test scores in the suspended years, with more suspended days related to larger decreases](suspension-lower-test-scores-days-related.md) — related
+- [A suspension decreases math and reading achievement for suspended students](suspension-decreases-suspended-student-achievement.md) — related
+- [Exclusionary discipline is ineffective at improving school safety and harms both suspended students and their non-suspended peers](suspension-ineffective-harms-peers.md) — related
+- [Schools that increased restorative practice utilization saw declines in misbehavior, gang membership, victimization, depressive symptoms, and substance abuse, and improvements in GPA and climate](school-level-restorative-utilization-improves-behavior-climate.md) — related

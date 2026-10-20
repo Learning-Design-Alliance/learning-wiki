@@ -43,4 +43,5 @@ Multilevel analysis of exam score with GPA as predictor in the 2x2 factorial int
 
 
 ## Related Claims
--
+- [The Monitoring Exercise protected against overconfidence in the second exam score prediction but did not affect exam scores](monitoring-exercise-reduced-overconfidence-only.md) — related
+- [The intervention did not increase students' SRL aptitude, yet supported higher course grades](regulatory-support-no-increase-srl-aptitude.md) — related

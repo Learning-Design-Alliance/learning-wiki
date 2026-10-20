@@ -47,3 +47,8 @@ Combined analysis (Figure 8) of matched CPS students at three EXPLORE starting s
 - [Higher course grades predict larger ACT gains regardless of starting PLAN score; students with Ds or Fs lose ground](good-grades-predict-act-gains.md) — a broader claim this one bears on
 - [CHSRI juniors' ACT scores were no different from similar students' and remained well below college readiness benchmarks](chsri-act-scores-no-different-low.md) — related
 - [A ninth-grade EXPLORE composite score of 17 is the tipping point for reaching an ACT score of 20, and can serve as an interim benchmark](explore-17-tipping-point-act-20.md) — related
+- [School academic press is positively related to school-average reading and math achievement gains in Chicago middle grades](academic-press-positive-achievement-gains-chicago.md) — related
+- [The grade students receive in the corresponding subject course is the strongest predictor of improvement from one EPAS test to the next](course-grades-strongest-predictor-epas-improvement.md) — related
+- [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
+- [Academic achievement is more likely in classrooms that combine personalism with a strong press toward academic work](personalism-plus-press-toward-academic-work-achievement.md) — related
+- [Schools with stronger college-going cultures have higher student ACT scores, regardless of student backgrounds](college-going-culture-associated-higher-act-scores.md) — related

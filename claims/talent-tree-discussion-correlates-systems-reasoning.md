@@ -46,3 +46,4 @@ Correlational analysis relating scientific habits of mind codes to WoW content c
 - [Over half of WoW forum posts evince systems-based reasoning, most also showing understanding of feedback among system components](wow-posts-systems-based-reasoning-58-percent.md) — related
 - [Poster character level shows no relationship with the quality or quantity of coded scientific habits of mind, apart from a mild negative correlation with social banter](wow-character-level-unrelated-to-science-reasoning.md) — related
 - [86% of World of Warcraft forum posts constitute social knowledge construction rather than social banter](wow-forum-86-percent-social-knowledge-construction.md) — related
+- [Model-based reasoning appears in about one tenth of WoW forum posts, with model testing, mathematical modeling, and explicit computation progressively rarer](wow-model-based-reasoning-proportions.md) — related

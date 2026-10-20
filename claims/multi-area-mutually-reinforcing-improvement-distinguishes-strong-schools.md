@@ -45,3 +45,5 @@ Longitudinal field research on 12 Annenberg schools over five years (Part Two, '
 ## Related Claims
 - [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](essential-supports-mutual-trust-reinforce-each-other.md) — possibly the same claim (merge candidate)
 - [Science and literacy instruction are connected and mutually reinforcing](science-literacy-instruction-connection-partnership.md) — related
+- [Teacher activities in CHSRI small schools' professional communities were primarily oriented toward supportive rather than developmental practices](chrsi-teachers-oriented-toward-supportive-practices.md) — related
+- [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — related

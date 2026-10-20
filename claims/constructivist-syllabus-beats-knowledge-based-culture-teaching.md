@@ -48,3 +48,5 @@ This is background literature reported second-hand: the review attributes the fi
 - Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries — related
 - Contact between societies does not by itself produce cross-cultural understanding — related
 - [Courses with higher-order learning objectives use and emphasize GAI skills more across its roles](higher-order-objectives-courses-emphasize-gai-skills-more.md) — related
+- [Teachers' adoption of online collaborative learning is associated with constructivist beliefs, facilitator/delegator roles, perceived need for innovation, and institutional conditions](teacher-and-contextual-variables-related-to-innovation-adoption.md) — related
+- [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related

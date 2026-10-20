@@ -53,3 +53,4 @@ The study compared a rule-oriented group (Animated Grammar explicit rule stateme
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — a broader claim this one bears on
 - [Markedness theory, as realized in the Noun Phrase Accessibility Hierarchy, plays an important role in instructed interlanguage development](markedness-role-instructed-il-development.md) — related
 - [Second language instruction increases the rate of acquisition of English relativization by ESL learners](sl-instruction-effective-relativization-rate.md) — a narrower finding that bears on this claim
+- [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](rule-oriented-explicit-outperforms-implicit.md) — related

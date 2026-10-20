@@ -45,3 +45,6 @@ Overview of the evidence base in the guide's introduction: 21 studies met WWC st
 ## Related Claims
 - [Intentionally designed career pathways with multiple entry and exit points and stackable credentials receive moderate evidence of improving student outcomes](career-pathways-design-moderate-evidence.md) — related
 - The guide's recommendations rest on 21 studies meeting WWC standards, with participant samples ranging from 51 to 15,898 students — related
+- [The evidence base for Career Academies in dropout prevention rests on a single randomized controlled trial in which students were randomly assigned to academy enrollment, a waitlist, or a comparison group across nine sites.](career-academies-single-rct-evidence-base.md) — related
+- [Of six academic advising programs with studies meeting WWC standards, two (Talent Search and Sponsor-a-Scholar) improved college enrollment and four had no impact](academic-advising-mixed-college-enrollment.md) — related
+- [In Georgia, a two-month accelerated manufacturing program with micro-credentials led to recent high school graduates being hired, including employers making an exception to their under-21 hiring practice](tcsg-manufacturing-microcredentials-led-to-hiring.md) — related

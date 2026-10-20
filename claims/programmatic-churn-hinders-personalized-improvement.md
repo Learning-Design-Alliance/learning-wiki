@@ -48,3 +48,4 @@ Interview study across 7 CPS schools found "Teachers repeatedly lamented that th
 - [A standing committee structure sustains middle school change despite personnel turnover](committee-structure-sustains-change-despite-turnover.md) — related
 - [CPS currently lacks internal capacity to conduct substantial research, evaluation, or systematic use of data to improve teaching and learning](cps-lacks-capacity-to-use-data-for-improvement.md) — related
 - [Low-income US schools focus most on testing and have the fewest resources for interest-driven activities](low-income-schools-test-prep-crowds-out-interest-activities.md) — related
+- [Between 2020–21 and 2021–22, 15.1% of U.S. public school teachers moved schools or left the profession, and turnover is now about 20% higher than in 1992](us-teacher-turnover-15-percent-2021-22.md) — related

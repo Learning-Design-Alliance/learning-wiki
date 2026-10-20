@@ -45,3 +45,4 @@ Results of paired comparisons of 100 book samples with 100 length-matched CHILDE
 ## Related Claims
 - [The text of children's picture books contains more unique word types than a length-matched sample of child-directed speech](picture-books-more-unique-words-than-child-directed-speech.md) — possibly the same claim (merge candidate)
 - [Individual picture books typically contain more unique words at a given sample size than individual conversations](individual-books-more-diverse-than-individual-conversations.md) — possibly the same claim (merge candidate)
+- [The greater diversity of book input arises mainly because different books sample the language more broadly than different conversations do](different-books-sample-language-more-broadly.md) — a broader claim this one bears on

@@ -123,3 +123,6 @@ The chapter reports Carpenter (2009), in which weak associates were assumed to o
 - Multiple choice practice items produce significantly higher performance during retrieval practice than short answer items, with applied short answer the most difficult condition — related
 - [Recognition tests yield higher word-learning effect sizes than recall tests](recognition-tests-higher-effect-sizes-than-recall.md) — related
 - [Practice retrieval performance did not differ significantly between the three retrieval strategy conditions](practice-retrieval-scores-no-condition-differences.md) — related
+- [Inducing learners to recollect the prior study episode during retrieval practice enhances retention even when reexposure and initial success are held constant](recollecting-the-prior-study-episode-during-retrieval-enhances-retention.md) — related
+- [Subtle indirect cueing feedback tends to have higher impacts on learning outcomes than other forms of feedback, per research the review cites](subtle-cueing-feedback-higher-impact.md) — related
+- [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — related

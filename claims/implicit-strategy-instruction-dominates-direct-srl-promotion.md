@@ -65,3 +65,6 @@ Of the 38 explicit strategy instances coded, most targeted cognitive capabilitie
 - [Most direct SRL promotion targeted cognitive capabilities and rarely mentioned the benefit of strategy use](cognitive-capability-dominance-benefit-rarely-mentioned.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
 - [SRL interventions combining metacognitive, cognitive, and motivational components were most frequent and, per the authors, had the greatest impact](mixed-srl-strategy-interventions-greatest-impact.md) — related
+- [Explicit instruction of SRL strategies is rare among primary teachers in both an iSELF-trained group and an untrained control group](explicit-srl-instruction-rare-primary-teachers-both-conditions.md) — possibly the same claim (merge candidate)
+- [Explicit group regulation in online PBL was infrequent, emerged in response to challenges, and often involved teacher support](explicit-regulation-infrequent-challenge-responsive.md) — related
+- [Teachers typically provide only little explicit support for SRL in their classrooms](teachers-provide-little-explicit-srl-support.md) — a broader claim this one bears on

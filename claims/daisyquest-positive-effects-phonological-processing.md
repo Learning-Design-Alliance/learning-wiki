@@ -64,3 +64,4 @@ WWC synthesis of two randomized controlled trials (Foster et al., 1994; Lonigan 
 - Federally funded evidence reviews have historically reserved their highest quality ratings for randomized control trials — related
 - [Phonological awareness training plus letter knowledge training has positive effects on preschoolers' print knowledge](pat-lk-positive-print-knowledge-preschool.md) — related
 - [Tyler et al. (2003) found no statistically significant differences between phonological awareness training and a morphosyntactic intervention (indeterminate effect)](tyler-2003-phonological-vs-morphosyntactic-indeterminate.md) — related
+- [Phonological awareness training has potentially positive effects on communication/language competencies for preschool children with learning disabilities, with a small extent of evidence](phonological-awareness-training-potentially-positive-communication-effects.md) — related

@@ -67,3 +67,4 @@ Projection study using absenteeism-literature estimates and summer learning anal
 - The 2020 COVID-19 school closures caused a decrease in Flemish grade 6 school-average mathematics scores of roughly 0.19 standard deviations relative to previous cohorts — related
 - [In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started](most-students-still-made-gains-reading-math-covid.md) — related
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
+- [Projected COVID-19 learning loss was not universal, with the top third of students potentially making gains in reading](covid-learning-loss-not-universal-top-third-reading-gains.md) — related

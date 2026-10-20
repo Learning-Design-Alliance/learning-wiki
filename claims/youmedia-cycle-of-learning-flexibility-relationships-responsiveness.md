@@ -47,3 +47,4 @@ The report's observed model (Figure 2), developed from analysis of over 130 hour
 - [Schools running four or more planned continuous improvement cycles show marked improvements in learning conditions, while ad hoc or two-cycle implementations do not](four-plus-improvement-cycles-improve-conditions.md) — related
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
 - [Classroom teachers spontaneously adopted empathy interviews outside the design thinking cycle, using them with students and families for relationship building](empathy-interviews-adopted-beyond-design-cycle.md) — related
+- [Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence](flexibility-supports-agency-productive-sequence.md) — related

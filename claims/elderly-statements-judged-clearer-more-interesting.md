@@ -44,3 +44,4 @@ Judgment task in which raters evaluated the statements produced by the young and
 
 ## Related Claims
 - [Elderly adults show an overall decrement in the complexity of oral and written statements attributable to an age-related loss of left-branching clauses across all three language samples](aging-reduces-syntactic-complexity-left-branching-loss.md) — related
+- [Adults with greater memory capacity, measured by WAIS Digits Backward, produced more complex utterances and used more right- and left-branching clauses](memory-capacity-linked-utterance-complexity.md) — related

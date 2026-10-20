@@ -48,3 +48,4 @@ Null result from the skill-tier analysis in Results §4.1.3: robotics systems sk
 ## Related Claims
 - [GBL and gamified approaches show comparable rates of quantifiable learning gains and affective outcomes in robotics education](comparable-outcomes-gbl-versus-gamified-robotics.md) — related
 - [Gamified robotics studies skew toward higher programming/software development skill tiers than GBL studies](gamified-studies-higher-programming-skill-tiers.md) — related
+- [Gamified robotics studies favor project-based learning while GBL studies favor constructivist pedagogy](gamification-pbl-gbl-constructivist-robotics.md) — related

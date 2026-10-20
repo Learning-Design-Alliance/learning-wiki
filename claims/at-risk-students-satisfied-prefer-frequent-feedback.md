@@ -46,3 +46,4 @@ Email survey of all at-risk students identified in week 5 or week 8, with six ba
 - Students report significantly higher accountability, preference for TBL, satisfaction, and total scores than neutral after the TBL module — related
 - [More than 30% of identified at-risk students visited previously unengaged learning activities within two weeks of the relational feedback email](relational-feedback-email-increases-activity-visits.md) — related
 - [In a pilot study, the TigerGPT survey chatbot achieved a 75% usability rating and an 81% satisfaction score, with 50% of participants preferring it over traditional surveys](tigergpt-pilot-usability-satisfaction.md) — related
+- [The proportion of participating students classified as high-risk fell from 59% in week 4 to 39% by week 6 of the semester](high-risk-classification-declined-week4-to-week6.md) — related

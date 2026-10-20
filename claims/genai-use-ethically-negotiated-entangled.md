@@ -52,3 +52,6 @@ Focus-group analysis of one participant (Howard, arts/psychology) within a study
 - [AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted](ai-use-threatens-computing-identity.md) — related
 - [Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels](ethical-ai-decision-negotiated-across-levels.md) — related
 - [International students expressed frustration at severe punishment for inappropriate citations, and the authors recommend education over pure punishment](plagiarism-cultural-conduct-frustration.md) — related
+- [Qualitative narratives reveal temporal guilt patterns, authenticity concerns, and skill-atrophy fears among academics using AI](ai-guilt-qualitative-themes.md) — related
+- [Evidence on LLM-based family education remains limited across families and educational purposes, especially on sustained personalization, repair labor, and negotiation of authority and rules](llm-family-education-evidence-gaps.md) — related
+- [Neither ecological theory nor CHAT alone fully captures ethical AI use in education](neither-framework-alone-captures-ethical-ai-use.md) — related

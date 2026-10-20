@@ -66,3 +66,8 @@ Descriptive cohort analysis disaggregated by race/ethnicity and gender from CPS 
 - [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
 - [Gateway students graduate at high rates, including 100% of African American, Latina/o, and students with disabilities](gateway-98-percent-four-year-graduation-rate.md) — related
 - SuaCode survey respondents were predominantly male (69.64%), aged 20–29 (70.04%), and in college/university education (76.73%) — related
+- [Gender is unevenly distributed across participation profiles: boys are overrepresented among disconnected and girls among diligent students](gender-distribution-participation-profiles.md) — related
+- [High school civic engagement is associated with higher graduation rates for all students regardless of age at entry, race, or gender](civic-engagement-higher-graduation-all-students.md) — related
+- [About 54 percent of Chicago Public Schools students graduated from CPS by age 19 for the 1998 age-13 cohort and by the fourth year for the 1999 freshman cohort](cps-54-percent-graduated-by-age-19.md) — related
+- [Within the same neighborhoods and schools, boys and Black students are more likely to be overage for grade, a proxy for prior retention](boys-black-students-more-likely-overage.md) — related
+- [Systemwide CPS first-year on-track percentages ranged from 44.8 to 50.8 across the 1997–2001 cohorts](cps-systemwide-first-year-on-track-percentages.md) — related

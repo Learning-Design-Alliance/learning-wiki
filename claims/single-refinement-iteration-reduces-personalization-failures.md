@@ -50,3 +50,4 @@ Quantitative analysis of validator agent failure counts across three refinement 
 - [Validator agent reliability is highest for realism and lowest for authenticity in human evaluation](validator-reliability-highest-realism-lowest-authenticity.md) — related
 - [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related
 - [Realism issues were detected by agents during generation but were rare in final versions](realism-issues-rare-final-versions.md) — related
+- [Teachers adjusted problem topics as the most common refinement move](teachers-adjust-problem-topics-refinement.md) — related

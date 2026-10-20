@@ -47,3 +47,8 @@ The review's synthesis of cross-sectional studies using food-group-based breakfa
 - [Increased frequency of habitual breakfast is consistently positively associated with academic performance in children and adolescents](habitual-breakfast-frequency-academic-performance.md)
 - [School breakfast programs show suggestive positive effects on academic performance, with clearest effects on mathematics and arithmetic grades in undernourished children](sbp-positive-academic-performance-undernourished.md)
 - [Regular breakfast consumption is associated with increased odds of high academic achievement in Norwegian adolescent girls and boys, most strongly in girls](regular-breakfast-associated-high-academic-achievement-norwegian-adolescents.md)
+- [A mid-morning snack benefits on-task behavior only for children who consumed a small breakfast, correcting the energy deficiency](mid-morning-snack-small-breakfast-only.md) — related
+- [Breakfast consumption shows a mainly positive effect on on-task behavior in the classroom in children](breakfast-mainly-positive-on-task-behavior.md) — related
+- [A low glycaemic load breakfast increases time on-task in young children, but the effect is short-lived and specific to the first observation period](low-gl-breakfast-on-task-shortlived.md) — related
+- [Acute experimental studies show inconsistent effects of breakfast on classroom behavior, with three of seven showing an on-task advantage](acute-breakfast-classroom-behavior-inconsistent.md) — related
+- [Robust RCTs of school breakfast programs failed to find behavioral benefits, with low and variable attendance and a shift from at-home to at-school consumption limiting impact](sbp-rcts-null-behavior-attendance-limits.md) — related

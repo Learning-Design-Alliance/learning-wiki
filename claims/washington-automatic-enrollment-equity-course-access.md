@@ -51,3 +51,5 @@ State-level CRDC analysis identifying Washington as an outlier. The report attri
 - AP enrollment in Washington declined slightly (1-2 percentage points) from 2018-19 to 2021-22 among all student groups, with existing racial and income gaps unchanged — related
 - [U.S. high schools with high enrollments of students from low-income families are less likely to offer advanced science courses than low-poverty schools](high-poverty-schools-offer-fewer-advanced-science-courses.md) — related
 - [U.S. high schools with high student of color enrollment are less likely to offer advanced science courses than schools with low student of color enrollment](high-student-of-color-schools-offer-fewer-advanced-science-courses.md) — related
+- [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md) — reports the opposite
+- [Access to computing instruction in US schools is limited and inequitable by school level and poverty](computing-access-limited-inequitable-us-schools.md) — related

@@ -46,3 +46,4 @@ N-gram retention analysis (Table 2) across the n=253 experiment's four condition
 - [AI support during drafting lowers ownership substantially more than support during planning or revision, and planning support preserves more ownership than revision support.](drafting-support-largest-ownership-decrease.md) — related
 - [Engage-to-Unlock participants incorporated less verbatim AI-response text into final essays than Standard Chatbot participants](engage-to-unlock-lower-ai-text-coverage.md) — related
 - [Essays within each tool group showed consistent homogeneity across named entities, n-grams, and topic ontology](nlp-homogeneity-ner-ngrams-ontology-within-groups.md) — related
+- [Essays written under Standard Chatbot sat closest to AI-only essays in semantic embedding space, and Engage-to-Unlock differed significantly from Standard Chatbot along PC1](standard-chatbot-essays-closest-to-ai-only-semantics.md) — related

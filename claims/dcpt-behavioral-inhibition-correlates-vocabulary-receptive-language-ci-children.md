@@ -45,3 +45,7 @@ Retrospective analysis of clinical data from 47 prelingually deaf children with 
 ## Related Claims
 - [Outcome measures are highly interrelated in children with cochlear implants](ci-outcome-measures-interrelated.md) — related
 - [Attention is more strongly associated with reading and cognitive measures than hyperactivity, which correlates mainly with phonemic decoding and memory](attention-more-associated-reading-than-hyperactivity.md) — related
+- [Behavioral inhibition skills of prelingually deaf children are related to several audiological outcome measures after cochlear implantation](behavioral-inhibition-related-audiological-outcomes-ci-children.md) — a broader claim this one bears on
+- [Sustained visual attention (vCPT) performance shows no significant relations with speech or language outcomes in deaf children with cochlear implants](vcpt-sustained-visual-attention-no-relation-outcomes.md) — related
+- [Relations between behavioral inhibition (dCPT) and expressive language and speech intelligibility were significant only at 1 year post implantation](dcpt-expressive-language-intelligibility-only-year-one.md) — related
+- [Word-learning performance correlates with later vocabulary size in children with cochlear implants](word-learning-predicts-vocabulary-ci.md) — related

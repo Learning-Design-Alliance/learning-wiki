@@ -46,3 +46,4 @@ Episode 2 analysis shows students realized the map "does not directly mirror the
 - [Digital mapping tools slow down students' judging and categorizing of online material, prompting collaborative negotiation of how to make sense of a controversy](mapping-tools-slow-categorization-negotiation.md) — related
 - [Students orient to visually prominent nodes (large, central) when beginning to categorize actors on a controversy map](students-orient-to-visually-prominent-nodes.md) — related
 - [Digital network mapping tools support students in critically selecting and reviewing online data on socio-scientific controversies](gephi-mapping-supports-critical-data-review.md) — a broader claim this one bears on
+- [Categorizing claims on a website required students to read and interpret content beyond what the visualization tool provides, including evaluating trustworthiness](categorization-requires-reading-claims.md) — related

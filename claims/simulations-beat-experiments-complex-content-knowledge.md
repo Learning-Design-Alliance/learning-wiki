@@ -62,4 +62,6 @@ Study II table row (Table 7) for the student-laboratory intervention: experiment
 
 
 ## Related Claims
--
+- [Topic complexity moderates the simulation advantage: the multidimensional Baltic Sea topic showed a much larger simulation benefit than the one-dimensional ocean acidification topic](complexity-moderates-simulation-advantage.md) — related
+- [The simulation advantage and interest differences hold across subgroups of age, gender, school form, and grade](no-subgroup-differences-method-comparison.md) — related
+- [Hands-on experiments promote epistemic and value-related situational interest more than computer simulations, while emotional situational interest does not differ](experiments-promote-epistemic-value-interest.md) — related

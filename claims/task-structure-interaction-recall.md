@@ -67,3 +67,4 @@ Figure 1 pattern described in Results text: recall after self-construction was h
 - [Self-constructing a complete concept map produces better delayed recall than completing, sorting a map, or writing a summary, with the largest effect in the I+C structure](self-constructed-cm-better-recall.md) — possibly the same claim (merge candidate)
 - [An individual-then-collaborative activity structure (I+C) yields better delayed recall than collaborative-then-individual (C+I) and fully individual (I) structures](ic-structure-better-recall-than-ci-and-individual.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — a broader claim this one bears on

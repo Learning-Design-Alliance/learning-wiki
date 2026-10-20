@@ -44,3 +44,6 @@ The dissertation's intervention included a comparison group that engaged in the 
 
 ## Related Claims
 - [Apprenticeship-partnered adolescents generate more advanced counterarguments than similar-ability-paired peers](apprenticeship-partners-advanced-counterarguments.md) — related
+- [Adolescents paired with more skilled adult dialogic partners show greater skill using evidence to support claims than peers paired only with similar-ability partners](apprenticeship-partners-greater-evidence-use.md) — related
+- [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — a broader claim this one bears on
+- [Adolescents who engaged in reflective activities alongside dialogic argumentation showed greater gains in using evidence to weaken the opposing position than peers who only argued](reflection-boosts-weakening-other-argument-skill.md) — related

@@ -45,3 +45,4 @@ Narrative review synthesis: the authors state they "explored how SSA works for d
 ## Related Claims
 - [Substantial research exists on SSA accuracy, with known influencing factors and teaching implications](ssa-accuracy-substantial-research-base.md) — related
 - [SSA should also consider students' expectations about their learning](ssa-should-consider-student-expectations.md) — related
+- [Students' expertise on the task may be an important prerequisite for accurate self-assessment](task-expertise-prerequisite-ssa-accuracy.md) — related

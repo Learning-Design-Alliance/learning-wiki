@@ -65,3 +65,6 @@ Interview evidence from the same student in the Awareness section: she stated th
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
 - [Students saw technology and STEM careers as creating concrete possibilities for their own agency](stem-careers-possibilities-agency.md) — related
 - [A student-built CTE webpage redesign coincided with the school adding one computer science course the following year](student-webpage-project-coincided-cs-course-increase.md)
+- [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](modernist-discourses-contradictory-environmental-effects.md) — related
+- [Early exposure to career pathways in high school is reported to enhance students' self-efficacy and occupational awareness](early-career-pathway-exposure-enhances-self-efficacy.md) — a broader claim this one bears on
+- [Students perceived the future as more unpredictable after the course, often finding the openness liberating rather than distressing](course-future-perceived-more-unpredictable.md) — related

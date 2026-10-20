@@ -44,3 +44,8 @@ Synthesis of racial battle fatigue research within the review's analysis section
 
 ## Related Claims
 - [School belonging has powerful long- and short-term implications for students' positive psychological and academic outcomes](school-belonging-implications-psychological-academic-outcomes.md) — related
+- [Positive campus racial climate is vital for Black students' success, while negative climate remains detrimental to students of color in predominantly White schools](positive-campus-racial-climate-vital-black-student-success.md) — a broader claim this one bears on
+- [Black students experience a more hostile campus racial climate than other students of color in schools](black-students-more-hostile-climate-than-other-students-of-color.md) — related
+- [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — related
+- [A welcoming campus racial climate fosters African American students' sense of belonging and intent to continue enrollment in mostly White schools](welcoming-climate-belonging-enrollment-intent.md) — related
+- [Qualitative research shows marginalized students' sense of belonging depends on maintaining connections to their valued identities at school (self-concept fit)](self-concept-fit-qualitative-belonging.md) — related

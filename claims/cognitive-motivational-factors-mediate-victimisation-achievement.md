@@ -45,3 +45,6 @@ Random-effects meta-analysis of seven studies (eight mediation results) of child
 ## Related Claims
 
 - [The bullying-achievement and mediation associations are moderated by design, assessment method, country, age and bullying type](moderators-of-bullying-achievement-association.md)
+- [Bullying involvement is associated with lower cognitive-motivational factors, especially engagement, motivation and self-esteem](bullying-involvement-lower-cognitive-motivational-factors.md) — related
+- [Bullying involvement is associated with lower academic achievement (pooled OR = 0.61)](bullying-involvement-lower-academic-achievement.md) — related
+- [The BPP intervention was followed by a large reduction in bullying victimisation at the research school relative to the control school](bpp-reduced-victimisation-versus-control.md) — related

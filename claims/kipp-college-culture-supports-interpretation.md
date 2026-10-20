@@ -46,3 +46,5 @@ Authors' interpretation, not a tested result in this brief: they draw on previou
 - [For continuing KIPP students, KIPP high schools have positive impacts on college preparation activities and the likelihood of applying to college](kipp-high-school-continuing-students-college-preparation.md) — related
 - [KIPP middle and high schools had a large, statistically significant combined effect on college graduation rates](kipp-combined-significant-college-graduation-effect.md) — related
 - [KIPP Atlanta Collegiate High School shows positive impacts on long-term college persistence](kipp-atlanta-collegiate-college-persistence.md) — related
+- [Students offered KIPP middle school admission usually attended a KIPP middle school and many went on to attend a KIPP high school](kipp-offer-high-compliance-middle-and-high-attendance.md) — related
+- [No detectable effects of KIPP Atlanta Collegiate High School on overall credential completion during the study period](kipp-atlanta-no-credential-completion-effect.md) — related

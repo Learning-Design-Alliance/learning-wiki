@@ -67,3 +67,7 @@ Bar graphs compared SIP assessments in the most and least positive elementary an
 - [Teachers in the lowest achieving schools are more likely to report that reform has changed and will change their classroom practices, though differences are modest](instructional-change-highest-in-lowest-achieving-schools.md) — related
 - In about a third of Chicago elementary schools, expanded local democratic participation served as a strong lever for systemic change focused on improved instruction — related
 - The Chicago reform study joins the politics of local control to school change through intertwined narrative and quantitative analysis — related
+- [School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership](turnaround-is-a-process-not-an-event.md) — related
+- [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — reports the opposite
+- [An estimated 46 percent of Chicago elementary principals display inclusive leadership](principals-inclusive-leadership-46-percent.md) — related
+- [School size is the characteristic most related to teachers' reform and school-quality ratings, with small schools (350 students or fewer) rated most positively](small-schools-more-positive-reform-quality.md) — related

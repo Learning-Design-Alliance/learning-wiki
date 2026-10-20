@@ -44,3 +44,4 @@ Random-effects meta-regression across the coded studies (Table 2). The article r
 
 ## Related Claims
 - [Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students](implementation-duration-community-moderators.md) — related
+- [School-based prevention practices appear effective in reducing alcohol and drug use, dropout and nonattendance, and other conduct problems, with small average effects and considerable heterogeneity across studies](school-based-prevention-small-heterogeneous-effects.md) — related

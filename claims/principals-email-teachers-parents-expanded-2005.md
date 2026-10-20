@@ -45,3 +45,4 @@ Trend analysis of principal survey reports on six communication and work activit
 ## Related Claims
 - [Elementary principals in low-achieving schools spend more time on instruction while those in high-achieving schools spend more on external management](elementary-quartile-time-allocation-differences.md) — related
 - Female principals empowered others through shared ownership, committee involvement, and staff development — related
+- [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](teacher-access-use-rose-assignments-modest.md) — related

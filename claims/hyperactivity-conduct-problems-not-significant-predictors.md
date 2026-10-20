@@ -46,3 +46,5 @@ Multiple regression (N=91) found hyperactivity and conduct problems non-signific
 - [Most students in the high reading comprehension group fall in the low externalizing behavior groups, most strongly for peer problems](high-reading-group-low-externalizing-behaviors.md) — related
 - [Peer problems are the only statistically significant predictor of reading comprehension scores among hyperactivity, conduct problems, and peer problems](peer-problems-only-significant-predictor-reading-comprehension.md) — possibly the same claim (merge candidate)
 - [Teacher-rated hyperactive/impulsive behavior did not predict any first-grade academic outcomes in children with low number sense](hyperactivity-impulsivity-no-prediction-academic-outcomes.md) — related
+- [Peer problems show a significant inverse correlation with reading comprehension (r = -.304)](peer-problems-inverse-correlation-reading-comprehension.md) — related
+- [Students with low peer problems score significantly higher in reading comprehension than students with high peer problems](low-peer-problems-higher-reading-comprehension.md) — related

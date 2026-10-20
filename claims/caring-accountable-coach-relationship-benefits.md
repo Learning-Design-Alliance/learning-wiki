@@ -47,3 +47,5 @@ Qualitative interview responses to the second research question about benefits o
 - [ADHD coaching helped college students with ADHD set more specific goals broken into component steps with incremental deadlines](adhd-coaching-improved-goal-attainment-process.md)
 - [Coaching helped students manage daily stress and enhanced their sense of well-being and self-control](coaching-enhanced-well-being-stress-management.md)
 - [Transgender students report substantially fewer school supports than non-transgender peers, especially caring adult relationships and high expectations](transgender-students-report-fewer-school-supports.md)
+- [Compass Care participants reported increased student self-advocacy and confidence in asking for help](compass-care-student-self-advocacy.md) — related
+- [Coached students reported growing use of self-talk as an executive functioning strategy, with one exception](self-talk-growth-attributed-to-coaching.md) — related

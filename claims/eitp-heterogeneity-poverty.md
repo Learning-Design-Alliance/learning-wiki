@@ -50,3 +50,5 @@ Heterogeneity analysis (table 10) of the randomized comparison: the printed year
 - [Higher-achieving schools realized a bigger first-year reading benefit from the evaluation pilot than lower-achieving schools](eitp-heterogeneity-baseline-achievement.md) — related
 - [The first-year effect of the EITP pilot on school-level math achievement (0.05 SD) was not statistically significant](eitp-year1-math-effect-null.md) — related
 - [After the first year of the EITP pilot, cohort 1 schools improved reading achievement by 0.10 standard deviations relative to cohort 2 schools](eitp-year1-reading-effect-010sd.md) — related
+- [No significant heterogeneity in pilot effects by school racial/ethnic composition was found](eitp-heterogeneity-race-null.md) — related
+- [The reading achievement gap between cohort 1 and cohort 2 schools persisted into the second year, with the year 3 estimate no longer statistically significant](eitp-persistent-reading-gap.md) — related

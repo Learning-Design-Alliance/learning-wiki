@@ -49,3 +49,4 @@ The evaluation's outcome battery as printed: state tests in reading and math, sc
 - [KIPP elementary schools have positive, statistically significant, and educationally meaningful impacts on three of four measures of reading and mathematics skills](kipp-elementary-positive-impacts-three-of-four-measures.md) — related
 - The KIPP evaluation examines student outcomes beyond state test scores, including a nationally norm-referenced test and survey-based measures of attitudes and behavior — possibly the same claim (merge candidate)
 - [An earlier report of the national KIPP evaluation described strong positive achievement impacts in math and reading for 22 KIPP middle schools](kipp-first-report-positive-math-reading-impacts-22-schools.md) — related
+- [The second phase of the national KIPP evaluation nearly doubled the sample to 43 KIPP middle schools and estimated achievement impacts in four subjects](kipp-evaluation-43-middle-schools-four-subjects.md) — related

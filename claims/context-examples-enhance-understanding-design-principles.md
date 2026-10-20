@@ -46,3 +46,4 @@ Questionnaire and oral evaluation of the intervention's form. Almost all respond
 
 - [The prototyping exercise promoted exchange of ideas for HLC development and enhanced a shared image of the HLC among team members](prototyping-exercise-promotes-idea-exchange-shared-image.md)
 - [A boundary crossing intervention led most interprofessional design team members to perceive a set of HLC design principles as useful for structuring knowledge and gaining an overview of HLC design](boundary-crossing-intervention-enhances-perceived-usefulness-design-principles.md) — related
+- [Participants across four design teams almost unanimously judged the set of HLC design principles relevant and complete, with no principles considered redundant or missing](hlc-design-principles-judged-relevant-complete.md) — related

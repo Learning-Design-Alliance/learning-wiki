@@ -43,4 +43,5 @@ Content analysis of discourse functions divided into early and late activity sta
 
 
 ## Related Claims
--
+- [Teacher discourse shifted toward creating new challenging situations (NI) and confirming repeats (R) in the interactive-whiteboard condition, versus providing requested information (IR) and clarification questions (Q) in the traditional-whiteboard condition](iw-condition-ni-r-versus-tw-ir-q-discourse.md) — related
+- [The teacher increased task complexity in the IW condition by deteriorating the patient's vital signs in response to student actions, and decreased complexity in the TW condition by structuring the task](teacher-complexity-adjustment-by-condition.md) — related

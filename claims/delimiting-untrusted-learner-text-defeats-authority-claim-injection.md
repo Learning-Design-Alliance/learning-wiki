@@ -57,3 +57,7 @@ Adversarial payloads appended to 50 real answers from a public, teacher-graded c
 
 - [LLM short-answer graders agree with one human rater more, and the other less, than the two raters agree with each other.](llm-short-answer-graders-can-reach-human-rater-agreement.md) — accuracy is not the only property an assessment needs
 - [Surface formatting changes shift LLM grades, with no consistent penalty detected.](surface-formatting-changes-shift-llm-grades-without-penalising-them.md) — the other way the same grade moves without the work changing
+- [A four-layer multi-layer defense pipeline achieves 46.34% bypass and 0.00% false positive rate on the holdout benchmark](multi-layer-guardrail-46-bypass-zero-fpr.md) — a broader claim this one bears on
+- [Multi-layer defense significantly reduces bypass relative to regex-only filtering (69.65% to 46.34%), confirmed by exact McNemar test](multi-layer-beats-regex-only-bypass.md) — a broader claim this one bears on
+- [Adaptation through prompt injection avoids fine-tuning, so the system works with any OpenAI-compatible LLM and its logic is transparent to educators](prompt-engineering-adaptation-transparency-tradeoff.md) — related
+- [Prompt injection attacks on agents (OpenClaw walletdrain, EchoLeak) bypass the user entirely, and no public AI literacy curriculum addresses this vector](prompt-injection-attacks-bypass-user-literacy.md) — related

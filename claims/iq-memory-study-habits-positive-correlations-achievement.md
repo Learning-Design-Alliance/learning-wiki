@@ -48,3 +48,5 @@ Pearson correlations (age included as a control variable) among IQ, memory, stud
 - [Predictive weights of IQ, memory and study habits do not differ significantly between 3rd and 4th grade](predictor-weights-stable-across-two-grades.md) — related
 - [In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood](sem-iq-only-significant-predictor.md) — related
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
+- [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
+- [Neither IQ nor WMC significantly predicted early mathematics when both were in the same model, explaining only about 5% of variance](early-math-not-predicted-by-iq-or-wmc.md) — related

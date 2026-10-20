@@ -45,3 +45,8 @@ Authors' interpretation offered in the abstract: the experimental threat effects
 ## Related Claims
 - [Low-SES students, but not high-SES students, generate stereotype-consistent inferences linking targets' social class and memory ability](low-ses-students-generate-stereotype-consistent-ability-inferences.md) — related
 - [Students' SES and academic achievement level moderate their use of the SES stereotype](ses-and-achievement-moderate-stereotype-use.md) — related
+- [Making socioeconomic identity salient or presenting a test as diagnostic of intelligence leads low-SES students to perform significantly worse and report lower self-confidence than low-SES participants in non-threatening conditions](ses-stereotype-threat-lowers-low-ses-test-performance.md) — a narrower finding that bears on this claim
+- [Negative stereotype salience combined with high ethnic self-identification inhibits academic performance, while positive stereotypes facilitate it](stereotype-threat-ethnic-identity-performance.md) — a broader claim this one bears on
+- [Brilliance-oriented contexts heighten anxiety among intellectually stigmatized students](brilliance-contexts-heighten-anxiety.md) — related
+- [Sequential mediation through both intellectual helplessness and working memory is not significant](no-sequential-mediation-helplessness-working-memory.md) — related
+- [Predominantly Hispanic and schools serving large numbers of African American and Hispanic students have lower standardized test scores than predominantly White schools even after adjusting for socioeconomic factors](school-level-achievement-gap-beyond-ses.md) — related

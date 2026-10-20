@@ -52,3 +52,5 @@ Percentile-rank-group cohort comparison (equations 3 and 4) contrasting post-pol
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — related
 - [Double-dose algebra was least effective for students with the weakest incoming skills, most of whom received special education services](double-dose-least-effective-weakest-students.md) — possibly the same claim (merge candidate)
 - Students with very low initial math abilities benefited less from double-dose algebra than students close to the national median — related
+- [Evidence on the policy's effects on 10th-grade geometry outcomes was inconsistent across groups and years](double-dose-geometry-outcomes-inconsistent.md) — related
+- [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — a broader claim this one bears on

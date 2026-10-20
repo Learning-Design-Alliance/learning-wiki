@@ -46,3 +46,5 @@ Tenure-moderated validity analysis of FFL scores against value-added; the key fi
 - [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](ffl-scores-correlated-principal-value-added.md) — a broader claim this one bears on
 - [FFL scores were not associated with school leaders' estimated contributions to student achievement growth](ffl-scores-not-associated-achievement-growth.md) — related
 - [The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders](more-evidence-needed-ffl-validity.md) — related
+- [Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals](ffl-middle-school-only-value-added-association.md) — related
+- [The strongest FFL validity relationships are in the systems leadership and professional and community leadership domains](ffl-systems-and-community-leadership-domains-strongest.md) — related

@@ -46,3 +46,6 @@ The review reports a large-scale observational log analysis in which Jirschitzka
 - [Articles edited by more heterogeneous contributors are more balanced, indicating productive friction that counters polarization](heterogeneous-contributors-balance-articles.md) — related
 - [Three big data methods—text classification, cluster analysis, and social network analysis—can each yield insights into learning in mass collaboration](three-big-data-methods-insights-mass-collaboration.md) — a broader claim this one bears on
 - [New Wikipedia knowledge emerges around pivotal articles: high-centrality articles within domains and high-betweenness boundary-spanning articles between domains](new-knowledge-at-pivotal-central-boundary-articles.md) — related
+- [Wikipedia editing reproduces inequalities in editors, topics and credible knowledge, but feminist edit-a-thons can redress cultural injustice](wikipedia-editing-inequality-and-edit-a-thons.md) — related
+- [Wiki pages produced by many anonymous edits exhibit group-generated meaning not attributable to any individual contributor](wiki-page-group-generated-meaning-unplanned-edits.md) — related
+- [Central Wikipedia articles are primarily edited by domain specialists while boundary-spanning articles are authored by generalists](specialists-edit-central-generalists-span-boundaries.md) — related

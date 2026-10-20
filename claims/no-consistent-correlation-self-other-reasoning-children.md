@@ -66,3 +66,6 @@ Experiment 3 (N = 81 children, ages 4–8) used a retrospective confidence parad
 - [Children do not reliably endorse the more accurate informant when no objective reference is available](endorse-judgments-at-chance-children.md)
 - [Children as young as 4 years can reason about their relative confidence by selecting which of two questions they feel most sure of answering](relative-confidence-reasoning-age-four.md)
 - [No trace format supported calibrated self-evaluation: perceived-achieved correlations were low and non-significant in all conditions](no-trace-format-supported-calibrated-self-evaluation.md)
+- [Area discrimination accuracy does not predict children's social judgments; age, not shared decision imprecision, accounts for the task correlations](area-accuracy-no-predictor-age-explains-correlations.md) — related
+- [In Experiment 2, children's confidence-task performance correlated with Winner and Ask choices but not Endorse choices, controlling for age](exp2-confidence-winner-ask-correlation.md) — related
+- [Children aged 6–7 reliably identify the contestant whose copied shapes are closer in size to a target, replicating magnitude-of-error selective social learning](children-detect-relative-error-magnitude-informants.md) — related

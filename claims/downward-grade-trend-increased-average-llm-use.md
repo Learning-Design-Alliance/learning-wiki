@@ -46,3 +46,5 @@ Visual inspection of jittered scatterplots (Figure 3) relating reported LLM use 
 
 - [LLM use for code generation is significantly negatively correlated with student final grades](llm-code-generation-negative-correlation-grades.md)
 - [LLM use for debugging is significantly negatively correlated with student final grades](llm-debugging-negative-correlation-grades.md)
+- [LLM use for seeking additional explanations does not significantly impact final grades](llm-explanations-no-significant-grade-impact.md) — related
+- [Higher average LLM use across all tasks is significantly negatively correlated with final grades in undergraduate programming education](average-llm-use-negative-correlation-final-grades.md) — related

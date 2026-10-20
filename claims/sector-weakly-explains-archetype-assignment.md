@@ -63,3 +63,4 @@ Same artifact-layer corpus, testing sector differences in per-site originality. 
 
 ## Related Claims
 - [Vibe-coded websites built for 73 distinct businesses converge into roughly a dozen recurring visual designs despite an explicit originality incentive](vibe-coding-cohort-visual-concentration.md) — related
+- [Builders' perceived control, satisfaction, and perceived quality show no detectable association with their measured visual atypicality, so convergence goes unnoticed from the inside](perception-uncorrelated-with-measured-originality.md) — related

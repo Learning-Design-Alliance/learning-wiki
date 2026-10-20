@@ -45,3 +45,5 @@ Summary of study one leadership configurations across eight groups. The article 
 ## Related Claims
 
 - [Emergent leadership did not differ between multi-touch table and paper conditions in study one](no-leadership-difference-multi-touch-paper.md)
+- [Distinct intellectual and organizational emergent leader roles, taken by different students, can be identified in about half of collaborative groups](intellectual-and-organizational-leader-roles-distinct.md) — related
+- [Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader](leadership-moves-distributed-among-group-members.md) — related

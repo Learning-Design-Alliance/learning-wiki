@@ -46,3 +46,7 @@ LGC model-fit comparison for the Yao group (Table 6): the linear model outperfor
 
 - [For Han students, metacognitive knowledge followed a quadratic (accelerating) growth model while vocabulary breadth followed a linear growth model, and initially high vocabulary knowledge predicted faster later vocabulary growth](han-mck-quadratic-vk-linear-growth.md)
 - [Han students significantly outperformed Yao students in breadth of English vocabulary knowledge, with a significant time-by-group interaction in development patterns](han-outperform-yao-vk-breadth.md)
+- [In Yao students, metacognitive knowledge and vocabulary breadth showed a common growth trend: higher initial MCK predicted higher initial VK, and faster MCK growth predicted faster VK growth](mck-vk-common-growth-yao.md) — related
+- [In Han students, higher initial metacognitive knowledge predicted both a higher starting point and a faster growth rate of vocabulary breadth](mck-predicts-vk-han-parallel-development.md) — related
+- [Metacognitive knowledge scores increased cumulatively over time, and the time-by-ethnic-group interaction showed Han and Yao students followed different MCK development trends](mck-cumulative-growth-group-interaction.md) — related
+- [Han students' metacognitive knowledge scores were significantly higher than Yao students' at each of four annual measurements from grade 3 to grade 6](han-higher-mck-than-yao-each-year.md) — related

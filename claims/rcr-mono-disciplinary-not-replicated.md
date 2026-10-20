@@ -47,3 +47,5 @@ Hypothesis H6 tested via multivariate meta-regression in the 30-study sample; th
 - [The majority of published RCR education evaluations use measures without reported validation evidence](majority-rcr-evaluations-unvalidated-measures.md) — related
 - [Fifteen unique RCR outcome measures with supporting validation evidence were identified, all covering research integrity but only ten covering research ethics](fifteen-validated-rcr-measures-ri-re-coverage.md) — related
 - [Most validated RCR measures assess a single learning outcome, with attitudes most common and only four measures testing knowledge](rcr-measures-single-learning-outcome-dominance.md) — related
+- [High-school students and researchers tended to learn more from RCR training than higher-education students and non-research professionals](rcr-learner-group-differences-judgment.md) — related
+- [RCR courses produce a pooled mean effect of g = 0.52, with knowledge (0.64) and behavior (0.69) outcomes showing larger average effects than judgment (0.41)](rcr-training-pooled-main-effects.md) — a broader claim this one bears on

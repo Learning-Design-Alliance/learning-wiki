@@ -83,3 +83,4 @@ Per-question t-tests on the 'helpfulness' component, rated by SMEs and students 
 ## Related Claims
 - [SMEs rated ChatGPT's content accuracy acceptable but inconsistent across questions and significantly below human TAs' accuracy](chatgpt-lab-accuracy-acceptable-inconsistent-below-human-tas.md) — related
 - [Students rated human TA responses more favorably overall but preferred ChatGPT responses 40% of the time](students-prefer-human-ta-responses-but-40-percent-prefer-chatgpt.md) — related
+- [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related

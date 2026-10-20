@@ -45,3 +45,6 @@ Observation from phase one of the Knowledge-Building Teacher Network. New teache
 ## Related Claims
 
 - [Students enact new CSCL technologies according to communication genres of the past, producing informal rather than scholarly discourse](old-genres-shape-threaded-discussion-use.md)
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — a broader claim this one bears on
+- [Grade 5 students can sustain productive knowledge-building collaboration over a whole school year with a facilitative rather than guiding teacher](grade-5-sustain-productive-collaboration-whole-year-knowledge-building.md) — reports the opposite
+- [Hong Kong's centralized education reforms provided a favorable macro-context for CSCL classroom innovation despite examination pressure](hong-kong-reforms-favorable-cscl-context.md) — related

@@ -47,3 +47,4 @@ Subject breakdown of the offline evaluation on 2019 NSMQ riddles (Table 5). The 
 - [In offline evaluation on NSMQ Riddles, closed LLMs generally outperform open models and higher reasoning settings improve performance](closed-models-and-high-reasoning-outperform-offline-nsmq.md) — related
 - [LLM performance drops from offline to real-time proxy evaluation when clues arrive incrementally](performance-drops-realtime-proxy-nsmq.md) — related
 - [LLM teaching effectiveness varies substantially across subject domains, strongest where knowledge points apply directly and weakest in physics and chemistry](llm-teaching-effectiveness-varies-by-domain.md) — related
+- [ITS produce significant positive effects at all grade levels and in almost all subject domains evaluated, with exceptions such as chemistry](its-effects-across-grades-subjects-prior-knowledge.md) — related

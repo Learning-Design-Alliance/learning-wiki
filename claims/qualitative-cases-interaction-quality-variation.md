@@ -45,3 +45,4 @@ Phase 3 qualitative case analysis of selected interactions from the second task,
 ## Related Claims
 - [The three groups exhibited three distinct collaboration forms—a centralized model, loosely coordinated collaboration, and balanced and regulated collaboration—with group 3 showing the highest regulative-action percentage (40% during synthesis)](three-discourse-patterns-across-groups.md) — related
 - [Argumentation quality in multiplayer game chat is an attribute of group interaction, not of individual utterances](group-argumentation-attribute-of-group-interaction.md) — related
+- [Productive interactions in long-term small-group collaboration take different forms, with discourse-based and object-oriented patterns the most relevant](productive-interactions-discourse-and-object-oriented-forms.md) — related

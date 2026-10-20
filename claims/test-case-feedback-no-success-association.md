@@ -46,3 +46,4 @@ Logistic regression comparing test case feedback to the no-AI baseline in the sa
 - [Natural language AI feedback is associated with faster convergence to correct solutions](nl-feedback-faster-convergence-correctness.md) — related
 - [Natural language AI feedback is associated with higher eventual success on initially incorrect programming problems](nl-feedback-higher-eventual-success-programming.md) — related
 - [Submissions receiving valid LLM-generated test-case feedback had higher pass rates, but valid test cases were not associated with fewer subsequent submissions](valid-test-cases-not-fewer-submissions.md) — related
+- [Effects of AI-generated test case feedback depend critically on feedback validity](test-case-feedback-effects-depend-on-validity.md) — related

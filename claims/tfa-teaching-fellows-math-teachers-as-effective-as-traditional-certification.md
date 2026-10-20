@@ -57,3 +57,5 @@ A large-scale random assignment study of secondary school math teachers compared
 - Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence — related
 - The authors propose creating America's Teacher Corps through federal legislation to recognize highly effective K-12 public school teachers — related
 - [Students of TFA teachers did not perform significantly differently from students of other under-certified teachers](tfa-no-different-other-undercertified.md) — related
+- [Study designs that randomly assign students within schools involve trade-offs, illustrated by the Teach For America evaluation experience](within-school-randomization-trade-offs-tfa.md) — related
+- [Teach For America teachers had no impacts on other outcomes such as attendance, promotion, or disciplinary incidents](tfa-no-impacts-attendance-promotion-discipline.md) — related

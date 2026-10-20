@@ -46,3 +46,5 @@ Chi-square analysis and cross-tabulations (Table 2) in the national survey of 2,
 
 - [Males were significantly more likely than females to report probable ADHD in the young adult sample (OR=1.56)](males-more-likely-probable-adhd.md)
 - [The authors interpret the maltreatment–ADHD association as partly complicated by symptom overlap between ADHD and PTSD, which may make the two conditions difficult to distinguish](adhd-ptsd-symptom-overlap-misdiagnosis-risk.md)
+- [Abuse typology groups differed significantly on overall ADHD symptom scores, with only the non-abused group differing significantly from the three abuse groups in post hoc analysis](abuse-groups-differ-adhd-scores-anova.md) — related
+- [In a national sample of young Danish adults, all three maltreatment latent classes showed significantly increased risk of probable ADHD relative to the non-abused class, strongest for the overall abuse class (OR=5.08), then emotional abuse (OR=3.09) and sexual abuse (OR=2.07)](maltreatment-classes-increased-probable-adhd-risk.md) — related

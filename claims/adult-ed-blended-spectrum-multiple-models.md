@@ -44,3 +44,5 @@ Observational findings from Digital Promise's technical assistance work with the
 
 ## Related Claims
 - [Blended implementation models matched to learner skill level: high-touch blended for lowest-skilled learners, online courses for more advanced students](blended-high-touch-lowest-skilled-adults.md) — related
+- [Implementation analysis identified student engagement as a challenge for technology-driven tutoring programs](saga-implementation-engagement-challenges.md) — related
+- [The report attributes stagnant learning results to program implementation rather than to the ed-tech tools themselves](implementation-not-tools-stagnant-results.md) — related

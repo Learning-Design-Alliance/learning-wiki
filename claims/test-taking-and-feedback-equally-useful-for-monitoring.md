@@ -43,4 +43,5 @@ Paired-samples t-test in Study 2 on the two five-item monitoring-usefulness scal
 
 
 ## Related Claims
--
+- [Students who received corrective feedback post-processed practice tests more intensely and rated the tests as more useful for monitoring than students without feedback](feedback-raises-post-processing-and-perceived-usefulness.md) — related
+- [Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful](mc-testing-effect-and-net-harm-boundary.md) — related

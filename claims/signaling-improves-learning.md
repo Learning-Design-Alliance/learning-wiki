@@ -151,3 +151,8 @@ Signaling is one of the most consistently supported principles in multimedia lea
 - [Segmentation reduces overall cognitive load during multimedia learning](segmenting-reduces-cognitive-load.md) — related
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](signalling-focuses-attention-reduces-change-detection-elsewhere.md) — related
+- [Material-oriented interventions such as complexity reduction, cueing/signaling, and text-picture integration are empirically tested support procedures for visual displays](material-oriented-interventions-tested.md) — a broader claim this one bears on
+- [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — related
+- [The voluntary/involuntary attention distinction in the embedded-processes model maps onto signaling, coherence, and split-attention principles](voluntary-involuntary-attention-distinction-explains-multimedia-principles.md) — related
+- [Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video](signaling-improves-retention-transfer-video.md) — a narrower finding that bears on this claim
+- [Signaling principle: highlighting essential words improves transfer from multimedia lessons](signaling-principle-mayer-2008.md) — a narrower finding that bears on this claim

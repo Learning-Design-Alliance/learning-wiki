@@ -47,3 +47,4 @@ Regression comparison for attendance outcomes in the 558-child sample. Predicted
 - [Person-oriented and dimensional methods each predicted reading achievement significantly better than the categorical method](dimensional-person-oriented-beat-categorical-reading-prediction.md) — related
 - [No classification method was significantly superior for predicting mathematics achievement](no-method-superior-predicting-math-achievement.md) — related
 - [Person-oriented classification predicts later GPA significantly better than dimensional or categorical methods](person-oriented-classification-best-predicts-gpa.md) — related
+- [After the Focus on High Schools initiative, days absent, days tardy, and student suspensions were lower](focus-high-schools-lower-absences-tardies-suspensions.md) — related

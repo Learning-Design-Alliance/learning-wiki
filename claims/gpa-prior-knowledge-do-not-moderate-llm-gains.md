@@ -50,3 +50,4 @@ Interaction analyses in the randomized experiment testing whether conventional a
 - [LLM-assisted self-study yields higher post-intervention exam performance than traditional resources among early-career knowledge workers](llm-self-study-beats-traditional-resources-exam-performance.md) — related
 - [Most reviewed studies reported significantly positive AI effects on STEM learning performance, with two null results](ai-positive-learning-performance-effects-two-nulls.md) — related
 - [Prior knowledge score did not significantly moderate the sequence effect within either experiment, though each experiment covered a restricted prior-knowledge range](prior-knowledge-not-significant-moderator-within-experiments.md) — related
+- [Exploratory, non-significant pattern suggests students with stronger learner profiles may show larger AI-assisted exam gains](exploratory-profile-interaction-ai-gains.md) — related

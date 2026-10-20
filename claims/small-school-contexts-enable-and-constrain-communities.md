@@ -54,3 +54,8 @@ Fieldwork across seven CHSRI schools found teachers perceived small schools as h
 - [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — related
 - [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related
 - [AI integration shifted staff roles from direct instruction to facilitation and increased workload](ai-integration-shifted-staff-roles-facilitation.md) — related
+- [Collegial interaction among adopting teachers increased over time, spanning informational, personal, management, consequence, and collaboration concerns](increasing-collegial-interaction-across-concern-stages.md) — related
+- [Students report teacher feedback on writing is insufficient, and they value scores over feedback](insufficient-writing-feedback-scores-over-feedback.md) — related
+- [Schools with distinct educational models show positive achievement effects when they feature small size, personalization, positive relationships, and educator collaboration](model-schools-common-features.md) — related
+- [Chicago's professional development spending was not integrated into a comprehensive strategy for improving instruction](cps-pd-spending-not-integrated.md) — related
+- [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](peer-reflective-groups-challenge-student-teacher-views.md) — related

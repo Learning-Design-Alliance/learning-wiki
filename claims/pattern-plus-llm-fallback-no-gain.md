@@ -46,3 +46,5 @@ Joint orchestration analysis on the real corpus comparing a hybrid configuration
 - [Free-tier LLM detection performance varies widely and differs by corpus: gemini-2.0-flash leads on real data while the pattern detector leads on synthetic data for intent detection](llm-detection-variability-across-corpus.md) — related
 - [The deterministic pattern detector achieves high pair precision (73.21%) with explicit abstention but covers only 32% of real queries](pattern-detector-high-precision-low-coverage.md) — reports the opposite
 - In a lymph-node cancer detection study, a combined AI-plus-human approach lowered the error rate to 0.5 percent, an 85 percent reduction, versus 7.5 percent for AI alone and 3.5 percent for a human pathologist — related
+- [Combining human and LLM-generated responses at a 1:1 ratio yields more accurate educational item calibration](human-synthetic-1to1-mix-improves-item-calibration.md) — related
+- [At natural TM prevalence (1.6%), even the best model generates roughly 4.3 false alarms per genuine detection, making fully automated stand-alone screening not viable on its own](false-alarms-make-standalone-screening-impractical.md) — related

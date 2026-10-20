@@ -44,3 +44,5 @@ Workshop discussion in the Ambitious AI-Leveraged Projects room about evaluation
 
 ## Related Claims
 - [Computing educators' interest in AI-era assessment adaptation was spread roughly evenly across seven strategies, dividing between redesigning what is assigned and redesigning how work is verified](flat-interest-across-seven-ai-assessment-strategies.md) — related
+- [Student narratives complicated the educator assumption that copied AI answers imply no learning, revealing invisible post-AI learning activities](invisible-learning-beyond-ai-answers.md) — related
+- [Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment](iterative-verification-of-genai-explanations.md) — related

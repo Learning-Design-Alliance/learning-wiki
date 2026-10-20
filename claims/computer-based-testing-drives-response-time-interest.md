@@ -48,3 +48,8 @@ Framing statement of the commentary: computer-based testing brought "the capabil
 - [Time spent on very difficult math test items is highly correlated with students' academic motivation and self-efficacy](time-on-difficult-items-correlates-motivation-self-efficacy.md) — related
 - [Adding collateral information has little effect on ability and item parameter estimates but more effect on speed parameter estimates](ci-effects-small-on-ability-item-larger-on-speed.md) — related
 - [Rapid guessing can be identified from item-level response time, and its proper interpretation depends on contextual requirements](rapid-guessing-identification-and-context.md) — related
+- [The increased efficiency effect confounds attempts to exploit the speed-ability trade-off central to many response-time models](increased-efficiency-confounds-speed-ability-tradeoff.md) — related
+- [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
+- [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](disengagement-material-individual-summative-scores-minor-aggregations.md) — related
+- [Test-taking disengagement distorts both individual and aggregated test scores](disengagement-distorts-individual-and-aggregated-scores.md) — related
+- [Time students spend on math test questions is studied as a potential source of information about motivation and self-efficacy](math-response-times-motivation-self-efficacy.md) — related

@@ -47,3 +47,8 @@ Behavioral analysis of the acquisition condition found "stress-exposed adolescen
 - [Stress-exposed adolescents learn reward-punishment associations more slowly than controls during acquisition](early-stress-slower-acquisition-learning.md) — related
 - [Stress-exposed adolescents show abnormal neural activation in learning- and attention-related regions](early-stress-abnormal-learning-neural-activation.md) — related
 - [Children's exploratory behavior is related to their question asking](exploration-related-to-question-asking.md) — related
+- [Given unambiguous evidence, preschoolers play indiscriminately and rarely try to isolate candidate causes](preschoolers-play-indiscriminately-unambiguous-evidence.md) — related
+- [The agent's praise was indiscriminate affirmation: validation followed about half of participant turns regardless of what the participant said](indiscriminate-affirmation-reflection-agent.md) — related
+- [Given ambiguous evidence, preschoolers design informative interventions in their exploratory play (Experiment 2)](preschoolers-design-informative-interventions-ambiguous-evidence.md) — related
+- [Given ambiguous evidence, preschoolers select informative interventions in their exploratory play (Experiment 1)](preschoolers-select-informative-interventions-ambiguous-evidence.md) — related
+- [Lifetime stress severity correlates with poorer learning performance and reduced putamen/ACC activation](lifetime-stress-dose-learning-correlation.md) — related

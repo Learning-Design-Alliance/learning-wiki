@@ -49,3 +49,6 @@ Exploratory correlation analysis in the pilot (N = 22) linking questionnaire sub
 - [In a small pilot of one AI pipeline's educational interactive fiction, the dominant free-text criticism was the artificial in-fiction motivation for quiz prompts](artificial-in-fiction-quiz-motivation-dominant-criticism.md) — related
 - [Students associate poor slide quality with AI as the source: perceived quality correlates negatively with AI-source guesses](quality-rating-negative-ai-guess-correlation.md) — related
 - [Pedagogy and production dimensions associated most strongly with global quality (Spearman ρ = 0.68 and 0.66), while content was relatively independent (ρ = 0.46)](bespoke-pedagogy-production-correlate-with-global-quality.md) — related
+- [Perceived tool quality was perfectly rank-associated with panel-rated presentation score among the four GenARch teams (exploratory)](genarch-wblt-quality-presentation-correlation-exploratory.md) — related
+- [Engagement with AI-generated educational interactive fiction is marginal, near the neutral midpoint of the scale](ai-generated-if-engagement-marginal.md) — related
+- [Abrupt location or character changes mid-scenario co-occur with the lowest story-content coherence ratings](abrupt-setting-changes-lowest-coherence.md) — related

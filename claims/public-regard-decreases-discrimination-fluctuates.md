@@ -52,3 +52,4 @@ Repeated measures analyses across the three annual waves (N = 219) of centrality
 - [U.S. public school closure rates dipped during the pandemic and rebounded to essentially pre-pandemic levels by 2024-25](closure-rate-dip-rebound-post-pandemic.md) — related
 - [Contrary to expectations, agent-led reflection sessions typically ended with participants sounding more certain of their plans than when they started](sessions-ended-more-certain.md) — related
 - [Perceived discrimination is negatively related to later public regard, and low public regard buffers discrimination's impact on adjustment](public-regard-discrimination-longitudinal-buffering.md) — related
+- [No cross-lag effects were observed between racial discrimination and racial centrality over three years](no-cross-lag-discrimination-centrality.md) — related

@@ -49,3 +49,7 @@ The study explores the moderating influence of stable students' characteristics 
 - [Mid-year entry effects on stable students are not driven by mid-year entrants' characteristics](mid-year-entry-effects-not-driven-by-entrant-characteristics.md) — related
 - [Mid-year entry continues to negatively influence stable students' math performance beyond the year of exposure](mid-year-entry-negative-math-effects-persist-beyond-exposure-year.md) — related
 - Research on spillovers of mid-year entry to stable classmates is scarce relative to research on mobile students themselves — related
+- [The A4L impact on grade 4 CCU outcomes did not differ significantly between free/reduced-price lunch and non-FRL students](a4l-frl-subgroup-no-difference.md) — related
+- [Field trip effects on science achievement are largest for Hispanic students and students qualifying for free or reduced-price lunch](field-trip-effects-largest-hispanic-frpl-students.md) — related
+- [The interventions did not consistently benefit any baseline subgroup more than another](no-consistent-subgroup-benefit-reading-interventions.md) — related
+- [Exposure to mid-year entrants has small negative short-run effects on stable students' math and ELA test scores in NYC](mid-year-entry-small-negative-short-run-effects-stable-students.md) — a broader claim this one bears on

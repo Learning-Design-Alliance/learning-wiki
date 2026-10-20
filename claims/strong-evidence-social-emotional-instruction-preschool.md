@@ -48,3 +48,5 @@ Systematic review conducted for the WWC practice guide: studies were screened ag
 
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — the general claim this finding bears on, with the studies behind it
 -
+- [A WWC practice-guide panel rates developing and using clear behavior expectations as supported by strong evidence from 14 studies](clear-behavior-expectations-strong-evidence-14-studies.md) — related
+- [The guide identifies intentional instruction, interaction and conversation, and sequentially built lessons as important factors in preschool instruction](preschool-instruction-key-factors-wwc.md) — a broader claim this one bears on

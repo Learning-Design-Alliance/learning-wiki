@@ -48,3 +48,4 @@ Descriptive analysis in Chapter 1 using a school dispersion ratio measuring the 
 ## Related Claims
 - [Ninth-grade enrollment in school types differed by community-area racial/ethnic makeup: 22 of 30 majority-Black areas had at least 25 percent of ninth-graders in charter schools, and no majority-Latinx area had a quarter in selective enrollment](enrollment-school-types-differed-by-community-race.md) — related
 - [Black students and students from the lowest-SES neighborhoods ranked more programs but were less likely to rank a high-accountability school first](gocps-subgroup-ranking-and-accountability-differences.md) — related
+- [GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted](gocps-no-major-enrollment-changes.md) — a broader claim this one bears on

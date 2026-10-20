@@ -43,4 +43,7 @@ The editorial reports, citing Pifarre and Cobos, an observational study of the K
 
 
 ## Related Claims
--
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — a broader claim this one bears on
+- [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — related
+- [KBDeX visualization and knowledge building rubrics engaged PSTs in continuous monitoring, analysis, negotiation, synthesis, and identification of promising inquiry routes](kbdex-rubric-reflection-enabled-continuous-monitoring-synthesis-inquiry.md) — related
+- [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](unsupported-journal-writing-low-strategy-use.md) — related

@@ -45,3 +45,8 @@ The introduction reports, citing Van der Graaf et al. (2023), a read-and-write t
 ## Related Claims
 - [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](revise-summary-compliance-predicts-learning-gains.md) — related
 - [A DLS with multiple scaffolds improved achievement and SRL attitudes, with high-achieving students beating traditional teaching but not flipped classroom](multiple-scaffolds-dls-achievement-srl.md) — related
+- [Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger proportional learning gains](suggest-subgoal-compliance-predicts-learning-gains.md) — related
+- [In the generalized condition, compliance with several suggested actions was associated with higher essay scores, with one exception: note-taking after the last scaffold was associated with lower essay scores.](compliance-suggested-actions-essay-scores-mixed.md) — related
+- [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains](review-notes-compliance-predicts-learning-gains.md) — related
+- [Real-time detection of SRL processes can personalize scaffold content, with all five scaffolds personalized to some extent but to varying degrees (scaffolds 2 and 5 most, scaffold 3 least).](real-time-srl-detection-personalizes-scaffold-content-varying-degrees.md) — related
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — a broader claim this one bears on

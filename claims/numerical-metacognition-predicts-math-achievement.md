@@ -72,3 +72,5 @@ Metacognition measures were not correlated with KBIT-2 general intelligence (emo
 - [Children's metacognitive judgments are not explained by baseline risk preferences or response-time cues](metacognition-not-risk-preference-or-response-time.md) — related
 - [Children aged 5 to 8 show metacognitive sensitivity in a nonverbal wagering task, betting more on correct than incorrect discriminations](young-children-metacognitive-wagering-task.md) — related
 - [Metacognitive efficiency shows partial domain-general structure: strong shared metacognition between lexical decision and emotion recognition tasks](partial-domain-general-metacognition-early-readers.md) — related
+- [Metacognition is significantly positively correlated with math performance in adolescence (pooled r = .37)](metacognition-math-correlation-adolescence-pooled.md) — related
+- [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related

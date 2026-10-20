@@ -52,3 +52,7 @@ The study's summary states it "examined the effects of five design factors on kn
 - Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision — related
 - [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — a broader claim this one bears on
 - [FEIP implementation was associated with improvements in parents' knowledge and attitudes about family engagement and their uptake of family engagement supports](feip-parent-knowledge-attitudes-uptake-improvements.md) — related
+- [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](dc-parents-distance-demographics-academics-drive-choice.md) — related
+- [Number-only displays maximized parents' understanding while graphs maximized satisfaction at the expense of understanding](numbers-understanding-graphs-satisfaction-tradeoff.md) — a narrower finding that bears on this claim
+- [The way school information is presented to parents affects how that information is understood, perceived, and used, according to the study behind the guide](school-info-presentation-affects-parent-understanding.md) — related
+- [Reporting the number of points possible for each metric led to better understanding of how the STAR score is calculated](points-possible-improves-score-understanding.md) — a narrower finding that bears on this claim

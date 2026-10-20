@@ -45,3 +45,6 @@ RAGAs evaluation of KITE's responses on 58 non-procedural questions (42 algorith
 ## Related Claims
 - [KITE's feedback led simulated students to improve revised answers in 24 of 27 non-already-correct interactions (88.89%)](kite-feedback-improves-simulated-student-revisions.md) — related
 - [Generated answers sometimes added correct background knowledge not explicitly supported by retrieved evidence, an unsupported-answer behavior the authors flag as requiring faithfulness evaluation](answers-add-unsupported-background-knowledge.md) — related
+- [Research-question responses score higher Answer Relevancy (0.87) than follow-ups (0.72), while Faithfulness, Context Relevance and Response Groundedness are lower](rq-higher-relevancy-lower-grounding.md) — related
+- [The three specialized chatbot modes achieved their distinct pedagogical goals on RAGAS metrics: Quick Mode highest faithfulness (0.92), Deep Understanding near-perfect context recall (0.98) with intentionally low answer relevancy, Exam Coach highest answer relevancy (0.82)](three-chatbot-modes-ragas-pedagogical-goals.md) — related
+- [Evidence tracing links 96 of 114 generated claims to source chunks, but three claims with retrieval scores of 0.50 or below show retrieval similarity alone is insufficient](evidence-tracing-114-claims-retrieval-limit.md) — related

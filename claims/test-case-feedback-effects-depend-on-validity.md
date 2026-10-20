@@ -45,3 +45,6 @@ Categorization of AI-generated test cases in the classroom dataset as valid, fal
 ## Related Claims
 - [Submissions receiving valid LLM-generated test-case feedback had higher pass rates, but valid test cases were not associated with fewer subsequent submissions](valid-test-cases-not-fewer-submissions.md) — related
 - A reasoning-capable open-weight model detects 84% of hidden misconceptions but at realistic prevalence false alarms outnumber genuine detections roughly 8 to 1 — related
+- [Failing test case feedback shows no significant association with eventual success](test-case-feedback-no-success-association.md) — related
+- [Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions](baseline-post-feedback-gains-near-zero-no-condition-differences.md) — related
+- [ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality](chatgpt-feedback-requires-output-validation.md) — related

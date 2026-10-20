@@ -43,4 +43,5 @@ In SEM Model 2 of Lao teachers' self-reports, "No significant associations were 
 
 
 ## Related Claims
--
+- [Under linguistically difficult instruction, higher language ability is associated with lower expectancies of success — the opposite direction of the hypothesized moderation](difficult-instruction-higher-language-ability-lower-expectancies.md) — related
+- [Mastery goals are associated with task and recognition practices, with recognition shared by both goal types](lao-mastery-goals-task-recognition-shared.md) — related

@@ -49,3 +49,5 @@ Numerical experiment applying text splicing (splitting a question on punctuation
 - [Model retraining on labeled OOD data provides the largest improvement in Bloom classification across models and datasets](model-retraining-largest-ood-improvement.md) — related
 - [AI-generated OOD question datasets are longer, syntactically deeper, and overlap less with Bloom trigger verbs than human-curated IID data](ood-aeq-textual-characteristics-differ-iid.md) — related
 - [BERT and MentalBERT remain resilient under sentence shuffling in ENS-based mental health classification](bert-mentalbert-resilient-sentence-shuffling.md)
+- [Model accuracy on Bloom classification drops with question text length, with LLMs degrading least](bloom-signal-dilution-with-text-length.md) — related
+- [Appending learning objectives to questions improves Bloom classification on the AF dataset](learning-objectives-anchor-bloom-classification.md) — related

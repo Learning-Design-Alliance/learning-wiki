@@ -54,3 +54,4 @@ State-by-state analysis in Appendix A (Table A1) recreating quintile comparisons
 - Students in high-poverty schools are more likely to be taught by inexperienced teachers, and teachers in high-minority schools are twice as likely to leave their school for another — related
 - Whether disparities in access to novice teachers occur between districts or within districts varies widely by state — related
 - [Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools](minority-teachers-disproportionately-in-hard-to-staff-schools.md) — related
+- [Students in the highest-poverty schools are almost twice as likely to be taught by inexperienced teachers](highest-poverty-schools-inexperienced-teachers.md) — related

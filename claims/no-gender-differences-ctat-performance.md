@@ -51,3 +51,4 @@ t-test comparisons of CTAT scores by gender within each pathway in the main stud
 - [College students scored significantly higher on CTAT than vocational school students](college-students-outscore-vocational-on-ctat.md) — related
 - [Girls were on average more accurate than boys in equation rearrangement, with no significant difference in speed](girls-more-accurate-equal-speed-equation-solving.md) — related
 - [Teacher-rated grades show girls rated slightly higher than boys, but gender is unrelated to test performance](gender-grades-not-test-performance.md) — related
+- [No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)](rm-cc5-no-differential-effects-prior-achievement-gender.md) — related

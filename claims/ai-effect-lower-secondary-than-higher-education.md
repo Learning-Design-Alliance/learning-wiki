@@ -45,3 +45,4 @@ The review attributes this to Wu and Yu (2024) and Zhu et al. (2025); the review
 
 - [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](ai-instruction-stem-moderate-positive-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Prior meta-analytic evidence indicates chatbot technology has a substantial positive effect on overall learning outcomes and knowledge retention, but not on critical thinking, engagement, or motivation](chatbot-meta-analysis-learning-outcomes-retention.md) — related
+- [The review reports mixed findings on AI's motivational effects: some studies show enhancement, others nonsignificant or negative effects](ai-motivation-effects-mixed-evidence.md) — related

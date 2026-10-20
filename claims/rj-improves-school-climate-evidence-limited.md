@@ -49,3 +49,6 @@ Narrative review of a Minnesota restorative conferencing pilot study (McMorris e
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
 - Participants in Minnesota's choice options express a high degree of satisfaction, and preliminary studies suggest positive academic outcomes — related
 - Experts call for rigorous outcome-based research, readiness research, a clear RJ definition, and leader training research on RJ in schools — related
+- [Exclusionary discipline is ineffective at improving school safety and harms both suspended students and their non-suspended peers](suspension-ineffective-harms-peers.md) — related
+- [School climate data supported changes to the three schools' discipline systems](climate-data-discipline-system-changes.md) — related
+- [Experts report there is neither a clear definition nor a widely accepted model of restorative justice in schools](no-clear-definition-or-accepted-model-of-school-rj.md) — related

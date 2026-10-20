@@ -45,3 +45,4 @@ Tracking of 1997-retained eighth graders and Transition Center students through 
 ## Related Claims
 - [Nearly a third of eighth graders retained or sent to Transition Centers in 1997 had dropped out by fall 1999, while overall eighth-grade dropout rates stayed stable](retained-eighth-graders-high-dropout.md) — related
 - [Retained students struggled in their second time through the promotional policy, with only about half meeting cutoffs and eighth graders doing worst](retained-students-struggle-second-time-through.md) — related
+- [Sixth graders promoted in 1997 without meeting the test cutoff fared poorly at the eighth-grade gate, while Summer Bridge passers did relatively well](waived-students-poor-outcomes-second-gate.md) — related

@@ -46,3 +46,5 @@ WWC synthesis of the General Certificate of Secondary Education composite measur
 - [Reading Recovery improves writing conventions three years after the intervention, but the effect is significant only against one of the two comparison groups](reading-recovery-improves-writing-conventions-mixed.md) — related
 - [Reading Recovery shows uncertain effects on mathematics achievement three years after the intervention](reading-recovery-uncertain-mathematics-achievement.md) — related
 - [Reading Recovery has positive effects on general reading achievement for beginning readers, based on three randomized controlled trials](reading-recovery-positive-general-reading-achievement.md) — related
+- [Reading Recovery has potentially positive effects on reading fluency, from a single randomized trial](reading-recovery-potentially-positive-reading-fluency.md) — related
+- [Reading Recovery positively impacts grade 1 literacy achievement immediately after the intervention, with moderate evidence from one randomized controlled trial](reading-recovery-improves-grade1-literacy.md) — related

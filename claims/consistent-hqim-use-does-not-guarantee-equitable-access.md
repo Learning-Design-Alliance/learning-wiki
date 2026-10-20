@@ -45,3 +45,6 @@ Spotlight interview with a Magnolia district leader describing what the report n
 ## Related Claims
 - Substantial learning inequalities persist: TPS students in poverty, TPS English learners, and special education students in either setting show significant learning gaps — related
 - [Subgroup categories such as FRL eligibility and multilingual learner status mask wide within-category variation](subgroup-categories-mask-within-category-variation.md) — related
+- [Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.](talladega-disparities-persisted-despite-pathway.md) — related
+- [Students in foster care were consistently outperformed by low-SES students and scored at the two lowest performance levels at twice the statewide rate](foster-care-outperformed-by-low-ses.md) — related
+- [Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup](active-el-reporting-bias.md) — related

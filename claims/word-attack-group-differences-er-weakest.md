@@ -45,3 +45,6 @@ A 2 (Native Language Status) × 5 (reading instruction group) MANCOVA with postt
 ## Related Claims
 - [Learners in K-3 structured decoding curricula adapted for adults (comparison group) did not differ significantly from treatment or control groups on any reading measure](k3-adapted-curricula-no-differential-gains.md) — related
 - [No significant instructional-group effects were detected at the six-month follow-up assessment](no-follow-up-group-effects.md) — reports the opposite
+- [Decoding (Word Attack) showed the strongest gain of the targeted skills, with a moderate effect size of d = .46 overall](word-attack-strongest-gain-d46.md) — related
+- [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
+- [The MSDS structured decoding curriculum produced a small but significant effect on adult learners' pseudoword decoding (WJR Word Attack) relative to control instruction](msds-small-significant-word-attack-effect.md) — related

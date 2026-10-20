@@ -49,3 +49,4 @@ Regression analysis of the 171-student longitudinal sample predicting algebraic 
 - [Frequency of addition fact-retrieval errors predicts poor algebra equation memory but not coordinate plane or expression evaluation performance](retrieval-errors-predict-equation-memory-only.md) — related
 - [Each of the three algebraic cognition measures independently predicts algebra achievement, controlling demographic and domain-general covariates](algebraic-cognition-measures-predict-algebra-achievement.md) — related
 - [ANS acuity is not related to algebra achievement once covariates are controlled, whereas retrieval errors remain predictive](ans-not-related-to-algebra-achievement-after-covariates.md) — related
+- [Coordinate plane placement accuracy shows no x- versus y-axis difference; quadrant errors are driven by sign transpositions in a small subset of students](coordinate-plane-no-axis-effect-transposition-errors.md) — related

@@ -45,3 +45,4 @@ The review contrasts the Bennett et al. meta-analytic review of "34 studies on m
 ## Related Claims
 - [Randomized assignment to a 3-step bedtime routine improved infant and toddler sleep outcomes relative to control](rct-three-step-bedtime-routine-improves-sleep.md) — related
 - [Sleep restriction impairs emotional self-regulation in toddlers, with randomized-trial evidence of moderate-to-large effects](sleep-restriction-emotional-regulation-toddlers.md) — related
+- [Evidence on sleep duration and cognitive development in children aged 0–4 years is mixed, with no consistent association](sleep-cognitive-development-mixed-early-years.md) — related

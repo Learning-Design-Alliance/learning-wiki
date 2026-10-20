@@ -50,3 +50,6 @@ Cross-sectional correlational analysis of 53 adults aged 18–84 performing a st
 - [Combined with adolescent data, the lifespan profile of perceptual metacognitive efficiency is an inverted-U](inverted-u-lifespan-profile-of-metacognition.md) — a broader claim this one bears on
 - [The adolescent improvement in metacognitive ability is independent of perceptual task performance, which was clamped and uncorrelated with age](metacognitive-development-independent-of-task-performance.md) — related
 - [Metacognitive ability increases with age during adolescence and plateaus in adulthood when task performance is held constant](metacognitive-ability-improves-across-adolescence-plateaus-adulthood.md) — related
+- [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — reports the opposite
+- [Metacognitive monitoring declines under high working memory load, suggesting functional dependence of MC on WM](monitoring-declines-under-high-wm-load.md) — related
+- [Perceptual and memory metacognitive efficiencies are positively correlated across individuals, though weakened after outlier removal](cross-domain-metacognitive-efficiency-correlation.md) — related

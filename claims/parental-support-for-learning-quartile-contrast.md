@@ -44,3 +44,4 @@ Descriptive results from the eleven-item student scale on parents' involvement i
 
 ## Related Claims
 - [Parental support for student learning is substantially higher in top-quartile schools than in bottom-quartile schools](parental-support-higher-top-quartile-schools.md) — possibly the same claim (merge candidate)
+- [Mistrust between teachers and parents remained a low-level roadblock in 2017, while lack of parental support had grown as a top roadblock for almost one-third of administrators](parent-support-roadblock-grew-trust-low.md) — related

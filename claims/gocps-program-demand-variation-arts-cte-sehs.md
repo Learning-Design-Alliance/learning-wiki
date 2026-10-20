@@ -49,3 +49,4 @@ First-ever district-wide application-rate analysis enabled by centralized GoCPS 
 - [Top-ranked program choices differed by student background: low-performing students were nearly three times as likely as high-performing students to rank a charter program first, and IB programs were most popular among high-performing students](gocps-preferences-vary-by-student-background.md) — related
 - [Demand for RSF-supported schools was generally strong, with most Cohort 1 and 2 schools oversubscribed by 2007-08](rsf-schools-oversubscribed-strong-demand.md) — related
 - [CTE programs of study vary across CPS high schools and are more common on the south and west sides](cte-programs-vary-and-cluster-south-west-sides.md) — related
+- [CPS concentrated CCL resources in a subset of schools with numerous CTE programs of study](ccl-resources-concentrated-in-strong-cte-schools.md) — related

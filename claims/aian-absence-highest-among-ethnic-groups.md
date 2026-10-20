@@ -51,3 +51,4 @@ Figure 1 of the brief reports percentages of chronically absent students by ethn
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
 - [Chronic absence in West Kern Consortium schools dropped 9 percentage points from its 2021–22 peak, with large district-level reductions](west-kern-chronic-absence-reduction.md) — related
 - [Students experiencing homelessness in California are chronically absent at twice the state average, with rates above 40% for African American and Native American/Alaskan students](homeless-students-chronic-absenteeism-double-state-average.md) — related
+- [Historical legacy of boarding schools and biased attendance responses deepen generational distrust that undermines attendance partnerships with AI/AN families](boarding-school-legacy-distrust-undermines-attendance-efforts.md) — related

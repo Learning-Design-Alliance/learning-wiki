@@ -62,4 +62,9 @@ Off-task behavior detection (Baker 2007, as reported here) relied solely on sema
 
 
 ## Related Claims
--
+- [CCM showed adequate model-data fit for game log data, except for infrequent tasks 7 and 9](ccm-model-data-fit-adequate-except-tasks-7-9.md) — related
+- [Machine-learned detectors of science inquiry skill made accurate inferences after a student ran a simulation three times](inquiry-detectors-accurate-after-three-runs.md) — related
+- [Automated gaming-the-system detectors built with XGBoost reliably recognize gaming in both problem-solving and self-explanation steps](xgboost-gaming-detectors-decimal-point.md) — a narrower finding that bears on this claim
+- [During observed playlist sessions, students were mostly on task and concentrating, though off-task behavior rose when the digital notebook was repeated](bromp-observation-mostly-on-task-concentrating.md) — related
+- [Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time](disengagement-factors-adaptive-platforms.md) — related
+- [An automated agent responding to detected gaming-the-system reduced gaming by half and improved gaming students' learning](gaming-agent-reduced-gaming-improved-learning.md) — related

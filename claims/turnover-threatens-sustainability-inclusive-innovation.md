@@ -50,3 +50,4 @@ Interview study of district-community team members reflecting on the semester af
 - [OBCs drove increased edtech implementation rates, boosted by provider implementation support, despite challenges including buy-in, staff workload, unclear terms, leadership turnover, and time constraints.](obc-increased-implementation-rates.md) — related
 - [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](cross-level-team-composition-buy-in.md) — related
 - [Design-based research is criticized for focusing on individual projects without guidance on long-term viability of innovations](dbr-lacks-guidance-long-term-viability.md) — a broader claim this one bears on
+- [Applying the adapted CTA framework in the discharge pilot uncovered previously unknown stakeholders and barriers](cta-application-revealed-hidden-process-knowledge.md) — related

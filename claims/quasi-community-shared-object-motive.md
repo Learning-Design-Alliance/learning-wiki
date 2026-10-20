@@ -45,3 +45,6 @@ Ethnographic case study evidence from the mariners' course: introductions on day
 ## Related Claims
 
 - [Participation in the quasi-community pedagogy was followed by very high success in the certification examination](quasi-community-high-certification-success.md)
+- [Storytelling from work experience serves as a key vehicle of knowledge production and communication in adult classroom quasi-communities](quasi-community-storytelling-knowledge.md) — related
+- [Ungraded practice tests function as a legitimate mediating practice that empowers learners and redefines the instructor's authority](ungraded-tests-mediating-practice.md) — related
+- [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — related

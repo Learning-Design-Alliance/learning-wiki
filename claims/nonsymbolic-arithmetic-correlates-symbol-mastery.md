@@ -50,3 +50,5 @@ In Experiment 2, verbal number knowledge was assessed by asking which of two ver
 - [Kindergarten children's non-symbolic addition performance correlates with end-of-year mathematics achievement, independent of literacy (Experiment 1)](nonsymbolic-addition-predicts-kindergarten-math-exp1.md) — related
 - [Non-symbolic addition performance correlates with mathematics achievement in a new sample, surviving controls for verbal intelligence and literacy (Experiment 2)](nonsymbolic-addition-predicts-math-exp2.md) — related
 - [Symbol mastery accounts for the association between non-symbolic arithmetic and school mathematics achievement in hierarchical regression](symbol-mastery-mediates-nonsymbolic-math-link.md) — related
+- [Visuo-motor integration and Arabic-numeral knowledge also longitudinally predict kindergarten arithmetic](visuo-motor-integration-and-arabic-numerals-predict-arithmetic.md) — related
+- [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related

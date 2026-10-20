@@ -48,3 +48,4 @@ Theoretical interpretation of the case data: the instructor's design activity de
 - [SCMD activity systems exhibit three categories of rules and four types of participant roles](scmd-rules-and-division-of-labor.md) — related
 - The dialogical pair of responding and responded utterances, not a single utterance, is the minimum unit of analysis for SCMD research — related
 - Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory — related
+- [Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course](expansion-generalization-beyond-classroom.md) — a narrower finding that bears on this claim

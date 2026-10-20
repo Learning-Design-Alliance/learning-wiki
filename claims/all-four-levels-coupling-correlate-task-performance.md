@@ -48,3 +48,5 @@ This is the editors' cross-paper synthesis of the special issue: all four studie
 ## Related Claims
 - [Joint visual attention correlates with collaboration quality, but unbalanced visual participation is negatively correlated with learning gains](joint-visual-attention-correlates-collaboration-quality.md) — a narrower finding that bears on this claim
 - [Awareness visualizations of shared task perception improved reported strategy success and equalized expected effectiveness of planning and teamwork strategies](awareness-visualization-shared-task-perception.md) — related
+- [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md) — a broader claim this one bears on
+- [With a scripted collaboration designed to elicit metacognition, deep-level metacognitive regulation stays rare and students mostly accept rather than co-construct or share regulation](deep-level-shared-regulation-rare-despite-script.md) — related

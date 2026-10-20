@@ -46,3 +46,5 @@ The projection analysis indicates losses were not uniform across students: "the 
 - [Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement](summer-learning-loss-projections-covid-closures.md) — related
 - [Projections indicate students may return in fall 2020 with approximately 63-68% of typical reading learning gains](covid-closures-projected-reading-gains-63-68-percent.md) — related
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — a broader claim this one bears on
+- [Research on seasonal learning and summer learning loss offers insights into the potential achievement impacts of COVID-19 school closures](summer-learning-loss-insights-covid-closures.md) — a broader claim this one bears on
+- [Projected fall 2020 mathematics gains for returning students are approximately 37 to 50% of a typical school year's learning gains](covid-closures-projected-math-gains-37-50-percent.md) — related

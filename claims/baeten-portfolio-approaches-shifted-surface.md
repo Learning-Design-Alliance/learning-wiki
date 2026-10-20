@@ -44,3 +44,5 @@ The editors' summary of the Baeten, Dochy, and Struyven study of experiences wit
 
 ## Related Claims
 - [A constructivist course increased perceived deep-level assessment demands but students still reported more frequent use of surface approaches to learning](gijbels-assessment-demands-not-approaches.md) — possibly the same claim (merge candidate)
+- [Portfolio-based learning environments did not change assessment preferences or deepen learning, and increased surface approaches in first-year students](portfolio-environment-no-deeper-learning-surface-increase.md) — related
+- [In a constructivist learning environment, students' perceptions of assessment shifted toward deeper demands but their actual learning approaches did not, and surface approaches increased](perception-shift-without-approach-change.md) — related

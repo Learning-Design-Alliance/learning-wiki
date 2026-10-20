@@ -43,4 +43,7 @@ Editorial account (the editors describe Wang & Li's experimental manipulation us
 
 
 ## Related Claims
--
+- [Combining algebra tutoring technology with scripting for small-group learning: different team enactments can obscure averaged statistical measures of learning](team-enactments-obscure-averaged-learning-measures.md) — related
+- [Scripting collaboration via role-assigned interfaces produced little difference in learning outcomes compared with an unscripted self-organized condition in a semester-long course](scripting-little-difference-learning-outcomes.md) — related
+- [The three major theories of artifact-people interaction operate at different levels: affordances individual, structuration societal, instrumental genesis small-group](three-theories-artifact-levels-comparison.md) — a broader claim this one bears on
+- [Effects of collaboration scripts combined with heuristic worked examples on mathematical argumentation skills depend on prior knowledge and working-memory capacity, consistent with a Matthew Effect](script-worked-example-fading-matthew-effect.md) — related

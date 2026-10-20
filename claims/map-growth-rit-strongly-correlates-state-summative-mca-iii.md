@@ -47,3 +47,4 @@ Descriptive analysis of Spring 2019 scores from the Minnesota linking study (Tab
 - [MAP Growth spring RIT cut scores classify students as proficient or not proficient on the MCA-III Mathematics test with 0.87–0.90 overall accuracy](map-growth-cut-scores-classification-accuracy-mca-iii.md) — related
 - [Linking studies connect MAP Growth scores to state summative proficiency predictions and external measures](map-growth-linking-studies-predictions.md) — a broader claim this one bears on
 - [Proficiency projections estimate the probability of reaching Meets proficiency on the state test from fall, winter, or spring RIT scores](map-growth-proficiency-projections-rit.md) — related
+- [Linking studies predict proficiency on state summative assessments from MAP Growth scores](map-growth-linking-studies-predict-state-proficiency.md) — related

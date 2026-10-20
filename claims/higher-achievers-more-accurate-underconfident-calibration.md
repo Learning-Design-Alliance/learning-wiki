@@ -41,4 +41,5 @@ Narrative review of calibration studies in educational psychology. The review re
 
 
 ## Related Claims
--
+- [Hard-easy effect: students are more accurate but underconfident on easy items and less accurate but overconfident on difficult items](hard-easy-effect-calibration.md) — related
+- [Guessing biases calibration measures toward underconfidence, strongest for the lowest performers](guessing-biases-calibration-toward-underconfidence.md) — related

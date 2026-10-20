@@ -48,3 +48,4 @@ ROI timecourse analysis of left DLPFC in the same participants. The interaction 
 - [Inferior parietal cortex (BA 39 and 40) shows greater overall activation in adults than children and a more pronounced effect of relational integration in adults](parietal-ipl-greater-activation-adults.md) — related
 - [Children aged 8-12 are disproportionately less accurate than adults on REL-2 problems requiring integration of two relations, but not on REL-1 or REL-0 problems](children-disproportionately-worse-rel2-integration.md) — related
 - [Children and adults do not differ in response times on REL-2 problems, despite children's higher error rate on those trials](no-rt-age-difference-rel2.md) — related
+- [Among children, right RLPFC activation for relational integration increases with age, with no relationship to estimated IQ](rlpfc-activation-increases-with-age-children.md) — related

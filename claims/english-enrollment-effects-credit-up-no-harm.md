@@ -63,3 +63,5 @@ Same RQ2 models; the authors note the English test contained literary material m
 
 ## Related Claims
 - [Enrolling in English I instead of remedial English increased credit earning with no adverse consequences, but few other benefits](english-enrollment-credit-gains-few-benefits.md) — possibly the same claim (merge candidate)
+- [Taking English I instead of remedial English increased English credit earning with no adverse consequences on failure rates or test scores](english-enrollment-effect-increased-credit-no-adverse.md) — possibly the same claim (merge candidate)
+- [The policy substantially increased English I credit earning for low-ability students, with marginal increases in English failure and slightly lower grades](policy-effect-english-credit-increased-marginal-failure.md) — related

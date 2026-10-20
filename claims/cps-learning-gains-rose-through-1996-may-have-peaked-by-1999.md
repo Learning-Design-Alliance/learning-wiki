@@ -67,3 +67,6 @@ Descriptive comparison of 1997 and 1999 gain scores (Part 3, Table E), both comp
 - [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — related
 - Standardized test scores change so slowly that even schools making exceptional gains may appear stagnant — related
 - [Third grade is the notable exception where retained students did not make smaller gains, likely due to the ITBS Level 8 to Level 9 test format change](third-grade-gain-dip-test-format-exception.md) — related
+- [Grouping students by age instead of grade is a viable alternative for tracking ITBS score trends, mirroring the grade-group findings](age-group-reporting-viable-alternative.md) — related
+- [ITBS test form progression systematically influences eighth-grade math gain scores, with Form L-to-M years showing the largest gains and Form K-to-L years the smallest](itbs-test-form-effects-on-eighth-grade-math-gains.md) — related
+- [SWPBIS training showed no significant effect on school-level third- and fifth-grade math and reading proficiency gains](swpbis-no-significant-achievement-effect.md) — related

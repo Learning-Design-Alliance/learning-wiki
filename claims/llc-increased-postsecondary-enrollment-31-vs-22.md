@@ -44,3 +44,5 @@ RCT impact estimate from the 24-month LLC report: the treatment group enrolled i
 
 ## Related Claims
 - [LLC produced large impacts on service use in the two years after enrollment, particularly services the program intended to offer](llc-large-impact-service-use-two-years.md) — related
+- [LLC did not affect employment for all participants within the first 24 months of enrollment](llc-no-employment-impact-all-participants-24-months.md) — related
+- [LLC increased the likelihood of earnings among later enrollees by 11 percentage points](llc-earnings-increase-11-points-later-enrollees.md) — related

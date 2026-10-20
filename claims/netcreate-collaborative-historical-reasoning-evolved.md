@@ -44,3 +44,6 @@ The editorial reports Craig et al.'s in-depth process analysis, using Activity T
 
 ## Related Claims
 - [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — related
+- [The editorial reports epistemic stance as an integrated unit of analysis for online discussion, with learning manifested in evolving shifts of stance objects (Park et al.)](stance-unit-of-analysis-learning-stance-objects.md) — related
+- [The editorial reports that teacher–student collaborative discourse scaffolds data-representation sensemaking and narrative construction](teacher-collaborative-discourse-scaffolds-data-sensemaking.md) — related
+- [In a networked second-language classroom, different small groups of students evolve alternative approaches to appropriating a representational tool during collaborative L2 writing](groups-evolve-alternative-approaches-appropriating-representational-tool.md) — related

@@ -49,3 +49,8 @@ Experiment 3's 2x2 mixed ANOVA on cued-recall performance revealed a significant
 - [Adolescents trained on word pairs in the afternoon show higher word-pair retention after 24 hours than evening-trained adolescents, but the difference is not sustained at 7 days](afternoon-encoding-higher-word-pair-retention-24h.md) — related
 - [The retention gap persisted at 48 hours with no differential forgetting between groups (39% vs 52%)](chatgpt-lower-48h-retention-no-differential-forgetting.md) — related
 - [Individual and paired flashcard learning yield comparable final cued-recall test performance](paired-vs-individual-flashcards-similar-test-performance.md) — related
+- [Learning should be assessed with retention and transfer tests rather than current practice performance](retention-transfer-tests-define-learning.md) — related
+- [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
+- [Sequential presentation of memory items produces less time-based forgetting than simultaneous presentation (Experiment 1)](sequential-presentation-less-forgetting-than-simultaneous.md) — related
+- [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
+- [Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules](paired-flashcards-negative-affect-icebreaker.md) — related

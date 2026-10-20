@@ -48,3 +48,5 @@ PLS-SEM structural results from the Lesotho survey (n = 842) report hedonic moti
 - [Learning motivation is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](learning-motivation-positive-ai-english-acceptance.md) — related
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest direct predictor](se-mov-positive-predict-sdl.md) — related
 - [Personal innovativeness did not significantly influence behavioral intention to use ChatGPT](personal-innovativeness-null-intention.md) — related
+- [Habit shows the strongest direct and competence-mediated associations with teachers' AI use](habit-strongest-association-teacher-ai-use.md) — related
+- [Effort expectancy is associated with AI use only indirectly through competence, whereas hedonic motivation shows a direct positive association](effort-expectancy-mediated-hedonic-motivation-direct.md) — related

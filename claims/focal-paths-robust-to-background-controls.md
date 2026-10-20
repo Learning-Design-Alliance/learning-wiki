@@ -66,3 +66,6 @@ Secondary control-model analysis of the same 548-teacher sample; the quote repor
 - [Exploratory multi-group analyses suggest competence-related paths differ by educational level and gender, with heterogeneity concentrated downstream of intention](mg-sem-competence-paths-subgroups.md) — related
 - [Demographic differences in AI anxiety are small, with only grade showing a significant but modest effect](demographic-differences-ai-anxiety-small-grade-effect.md) — related
 - [General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service](ai-literacy-unrelated-to-ai-use-and-demographics.md) — related
+- [Innovative competence differs by background variables, with AI interest level showing the strongest association](innovative-competence-background-heterogeneity-ai-interest.md) — related
+- [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related
+- [Structural paths are stable when continued-use intention and current use are modeled as separate outcomes, and AI anxiety is not directly related to continued use](outcome-robustness-anxiety-null-direct.md) — related

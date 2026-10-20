@@ -46,3 +46,4 @@ Descriptive analysis of the 109-respondent mixed-methods survey found the remors
 - [Academics who never use AI report higher guilt than users, with significant differences on anticipated remorse and research-writing guilt](ai-non-users-report-higher-guilt-than-users.md) — related
 - [Layer 1 survey (N=54) found mostly daily or weekly but largely passive AI use, with persistent ethical anxiety described as cheating fears or hallucination worries](layer1-survey-passive-use-ethical-anxiety.md) — related
 - [Qualitative narratives reveal temporal guilt patterns, authenticity concerns, and skill-atrophy fears among academics using AI](ai-guilt-qualitative-themes.md) — related
+- [Moral Unease, reported by 190 participants, reflects authorship guilt and a gap between AI output quality and actual understanding](moral-unease-authorship-guilt-understanding-gap.md) — related

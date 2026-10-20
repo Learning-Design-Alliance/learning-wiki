@@ -52,3 +52,4 @@ Attendance analysis of ninth-grade absence data for 36,423 CPS students. On aver
 - [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](academic-disengagement-related-to-test-disengagement.md) — related
 - Students who have experienced three or more ACEs are more likely to experience chronic absenteeism, behavioral problems, and academic failure — related
 - Chronically absent students show worse reading, test, suspension, dropout, and postsecondary outcomes — related
+- [Asthma linked to poor indoor air quality is a causal chain from facilities to chronic absenteeism and lower achievement](asthma-iaq-absenteeism-causal-chain.md) — related

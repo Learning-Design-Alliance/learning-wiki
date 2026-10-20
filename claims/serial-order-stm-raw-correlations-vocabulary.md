@@ -45,3 +45,6 @@ Zero-order correlation analyses in the longitudinal cohort at both assessment pe
 ## Related Claims
 
 - [Serial order STM at Age 4 predicts later nonverbal reasoning, but serial order STM gain does not predict nonverbal reasoning gain](serial-order-stm-predicts-nonverbal-reasoning.md)
+- [Growth in serial order STM from Age 4 to Age 5 predicts growth in vocabulary, whereas growth in item STM does not](serial-order-stm-gain-predicts-vocabulary-gain.md) — related
+- [Vocabulary knowledge at Age 4 does not predict serial order STM development at Age 5 once initial age, nonverbal reasoning and serial order STM are controlled](vocabulary-does-not-predict-later-serial-order-stm.md) — related
+- [Serial order STM at Age 4 predicts vocabulary knowledge at Age 5 over and above initial vocabulary, item STM, age and nonverbal reasoning](serial-order-stm-predicts-later-vocabulary-longitudinal.md) — related

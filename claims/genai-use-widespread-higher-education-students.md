@@ -45,3 +45,4 @@ The review's synthesis of usage patterns across the 38 reviewed studies reports 
 ## Related Claims
 - [GenAI Tutor adoption was widespread but usage intensity was highly skewed, with adoption peaking early in the semester while intensity rose steadily](genai-tutor-adoption-usage-skew.md) — a narrower finding that bears on this claim
 - In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement — related
+- [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related

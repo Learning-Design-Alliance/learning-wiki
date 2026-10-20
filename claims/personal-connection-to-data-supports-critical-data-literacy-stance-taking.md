@@ -53,3 +53,8 @@ This is a single design study in two university teacher-education courses, with 
 - Treating students' personal histories as sources of knowledge makes them part of the classroom curriculum — related
 - [Connectivist MOOC aggregation-remix-repurpose-feed-forward model neglects personal self-transformation](connectivist-mooc-neglects-self-transformation.md) — related
 - [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — related
+- [AI exploration assignments helped students connect physics content to their personal lives and interests](ai-exploration-personal-connections.md) — related
+- [Awareness of discourse patterns lets teachers scaffold students toward an epistemic orientation and stance](discourse-pattern-awareness-scaffolds-epistemic-orientation.md) — related
+- [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related
+- [The editorial reports that teacher–student collaborative discourse scaffolds data-representation sensemaking and narrative construction](teacher-collaborative-discourse-scaffolds-data-sensemaking.md) — related
+- [In the Reading in Four Voices task, students connected story values to a distance–time graph by engaging in both literacy and oracy](reading-four-voices-connects-story-and-graph.md) — related

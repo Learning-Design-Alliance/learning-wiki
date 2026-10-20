@@ -49,3 +49,6 @@ Qualitative discourse analysis of two comparative case-study debrief episodes (N
 - [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](structured-iterative-support-improves-pedagogical-judgment.md) — related
 - [The partnership targets improved teacher instruction in eliciting student thinking, using representations, and focusing on math reasoning](tft-teacher-instruction-improvement-targets.md) — related
 - [Representation-alignment tension between expert externalization and novice comprehension](representation-alignment-tension-expert-novice.md) — related
+- [Reducing extraneous load can also remove affordances for germane processes](extraneous-load-reduction-may-remove-germane-affordances.md) — related
+- [A representational tool offers beneficial affordances that supplement face-to-face communication for second-language learning](representational-tool-affordances-supplement-face-to-face-l2.md) — related
+- [Because learning theories are not operationalized into system structures, pedagogical use of digital resources is delegated to teachers' judgment at the moment of use](pedagogical-use-delegated-to-teacher-judgment.md) — related

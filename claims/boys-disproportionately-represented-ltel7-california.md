@@ -52,3 +52,5 @@ Descriptive analysis of CALPADS enrollment data for 330,733 students designated 
 - [Large performance gaps on grades 6–8 and grade 11 CAASPP ELA and math tests, with LTEL7 students performing at lower levels than other ever-ELs](ltel7-caaspp-performance-gaps.md) — related
 - [More than half of LTEL7 students were in their 7th, 8th, or 9th year of being classified as EL, and more than 20,000 had been classified for 12 or more years](ltel7-years-classified-distribution.md) — related
 - [Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers](rural-counties-higher-ltel7-proportions.md) — related
+- [Students designated as LTEL7 are less likely to attend schools offering the Seal of Biliteracy (78.3% vs. 83.5% of other ever-ELs)](ltel7-less-likely-seal-biliteracy-schools.md) — related
+- [Graduation disparities: 69% of 12th-grade LTEL7 students attained a high school diploma compared to 86% of other ever-EL peers](ltel7-graduation-disparities.md) — related

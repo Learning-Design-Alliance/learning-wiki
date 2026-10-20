@@ -65,3 +65,5 @@ Pearson correlations reported in the Results section of the same 432-participant
 - [AI literacy negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as AI literacy increases](ai-literacy-moderates-trust-reliance.md) — related
 - [The trust–appropriate reliance relationship is non-linear, with the decline attenuating at higher trust and no reversal within the observed data](nonlinear-trust-reliance-no-optimal-trust.md) — a narrower finding that bears on this claim
 - [Need for cognition negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as need for cognition increases](need-for-cognition-moderates-trust-reliance.md) — related
+- [Programming self-efficacy and programming literacy did not significantly moderate the trust–appropriate reliance relationship](programming-measures-no-moderation.md) — related
+- [Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals](reliance-trust-dependency-separate-constructs.md) — related

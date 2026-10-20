@@ -50,3 +50,6 @@ Finding on interagency collaboration from the national PROMISE evaluation. The a
 - [FEIP was associated with improvements in interagency collaboration and organizational capacity to support family engagement](feip-interagency-collaboration-capacity-improvements.md) — related
 - Community organizations and public agencies in Silicon Valley rarely hold formal partnerships with schools, but nearly half report engaging in collaborative community vision setting — related
 - [SSSCs collaborate with a range of state organizations, most commonly through co-branding or sharing information externally](sssc-collaboration-co-branding-information-sharing.md) — related
+- [FEIP was associated with improvements in professionals' knowledge and skills related to family engagement practice](feip-professional-knowledge-skills-improvements.md) — related
+- [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — a broader claim this one bears on
+- [Colorado's financial incentives for community alternatives and an interagency agreement were followed by a decline in residential institutional placements](colorado-deinstitutionalization-incentives-declined-placements.md) — related

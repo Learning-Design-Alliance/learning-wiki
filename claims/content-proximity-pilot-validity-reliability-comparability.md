@@ -54,3 +54,4 @@ The article is an executive summary page for a technical report on the Content P
 - [Post-COVID norm shifts and NWEA's enhanced item selection algorithm change the interpretation of MAP Growth metrics for school accountability](post-covid-norm-shifts-change-map-growth-accountability-metrics.md) — related
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related
 - [A 200-student pilot showed strong content validity across relevance, comprehensiveness, comprehensibility, and face validity](glat-content-validity-pilot.md) — related
+- [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-beats-fixed-form-precision-same-length.md) — related

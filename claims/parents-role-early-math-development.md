@@ -52,3 +52,6 @@ The brief states it draws on research to explain "the important role parents pla
 - [The home environment plays an important role in early childhood development](home-environment-role-early-childhood-development.md) — related
 - [Guided Play Improves Academic Outcomes](play-based-learning-improves-outcomes.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
+- [Social norms shape role positioning in parent-child dyads playing an educational video game, with children sometimes more expert](social-norms-role-positioning-parent-child-game.md) — related
+- [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — related
+- [Early math exposure in young children is linked to development, math confidence, and later math use (authors' assertion)](early-math-exposure-supports-development-confidence-later-use.md) — related

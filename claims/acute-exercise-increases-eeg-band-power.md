@@ -46,4 +46,8 @@ Review (Crabbe and Dishman) of 18 acute exercise EEG studies with protocols of 2
 - [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
--
+- [Brain-to-LLM participants showed higher neural connectivity than the LLM group's sessions 1-3, with a network-wide spike in alpha, beta, theta, and delta band directed connectivity](brain-to-llm-connectivity-spike-across-bands.md) — related
+- [In session 4, LLM-to-Brain participants showed weaker neural connectivity and under-engagement of alpha and beta networks, while Brain-to-LLM participants showed higher memory recall and re-engagement of occipito-parietal and prefrontal nodes](session4-llm-to-brain-weaker-connectivity-brain-to-llm-reengagement.md) — related
+- [Sleep restriction lowers tonic arousal (raises EEG theta power) in a simulated classroom, with a medium effect](sleep-restriction-lowers-tonic-arousal-classroom.md) — related
+- [Brain connectivity during essay writing systematically scales down with the amount of external support, with Brain-only strongest, Search Engine intermediate, and LLM weakest](brain-connectivity-scales-down-with-external-support-essay-writing.md) — related
+- [Adolescents show adult-level dlPFC beta-band power but lower FEF alpha-band power and weaker dlPFC/FEF beta-alpha cross-frequency coupling during antisaccade preparation](adolescent-meg-feb-alpha-coupling-deficit.md) — related

@@ -50,3 +50,4 @@ The authors' characterization of the existing evidence base: prior studies "have
 - [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — a narrower finding that bears on this claim
 - Methodological scope of existing research is limited: small samples, single courses, and short-term interventions — a broader claim this one bears on
 - [Prior charter school research shows mixed student achievement results, which the authors attribute to differing policy environments or methodological assumptions across studies](charter-achievement-mixed-results-attributed-to-policy-and-method-variation.md)
+- [KIPP middle schools' positive effects extend to enrollment in 4-year college programs, not only middle school achievement](kipp-middle-schools-extend-effects-to-four-year-enrollment.md) — related

@@ -43,4 +43,5 @@ Stahl reports Onrubia and Engel's study relating patterns of teacher assistance,
 
 
 ## Related Claims
--
+- [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](teacher-guidance-mediation-cscl.md) — a broader claim this one bears on
+- [A regulation macro script structured collaboration to support socio-cognitive and socio-emotional monitoring among teacher-education students](regulation-macro-script-monitoring-support.md) — related

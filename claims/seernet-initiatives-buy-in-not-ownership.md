@@ -44,3 +44,5 @@ Authors' self-reflective interpretation (type e) drawing on Attygalle's (2017) T
 
 ## Related Claims
 - Female principals empowered others through shared ownership, committee involvement, and staff development — related
+- [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related

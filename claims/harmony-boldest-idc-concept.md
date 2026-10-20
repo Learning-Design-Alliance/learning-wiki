@@ -45,3 +45,4 @@ Theoretical commentary on the habit loop's harmony component. The authors note t
 ## Related Claims
 - [Creativity in IDC starts with imitation, which the commentary argues hatches rather than opposes creation](imitation-hatches-creativity.md) — related
 - [School jazz bands exemplify the IDC loops of interest, creativity, and habit in a participatory group context](jazz-band-exemplifies-idc-loops.md) — related
+- [Preferred emphasis between the two Amico modes differed by context: Italian participants emphasized reflective dialogue while Chinese participants emphasized relational harmony, with AmicoMio valued for technical reliability](amico-cross-context-mode-preferences-differ.md) — related

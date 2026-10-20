@@ -45,3 +45,4 @@ Secondary analysis of the 41-instructor user study comparing preference and lear
 ## Related Claims
 - [In a user study, the GPT-4o-mini baseline was preferred overall, but participants more often attributed learning to the fine-tuned TeachingCoach model](preference-learning-attribution-diverge-chatbots.md) — possibly the same claim (merge candidate)
 - [LLM-annotated empathy dimensions correlate positively with intention to follow, self-efficacy, and chatbot usefulness despite participants not preferring empathetic chatbots](empathy-dimensions-correlate-with-outcomes.md) — related
+- [Users experienced a trade-off between conversational depth and interaction efficiency between the fine-tuned and baseline chatbots](depth-efficiency-tradeoff-instructional-chatbots.md) — related

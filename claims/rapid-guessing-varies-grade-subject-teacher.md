@@ -53,3 +53,4 @@ The article reports an examination of rapid guessing prevalence on achievement t
 - [Rapid-guessing behavior varies by item and is significantly related to item length, item position, and presence of ancillary reading material](rapid-guessing-item-length-position-ancillary-material.md) — related
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
 - [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-self-efficacy-self-management.md) — related
+- [Little was known before this study about students who rapidly guess over the course of several tests](little-known-repeated-rapid-guessing-gap.md) — related

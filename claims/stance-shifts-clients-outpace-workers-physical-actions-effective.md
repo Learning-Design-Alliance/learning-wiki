@@ -65,3 +65,5 @@ The authors compare Excerpt 1 (verbal hint extinguished) with Excerpts 2 and 6 (
 
 - [In encounters where both client and worker are predominantly defensive, the learning cycle stalls before implementing, reflecting and consolidating actions](both-defensive-cycles-stall-before-implementation.md)
 - [Encounters with a mismatch between client's and worker's learning cycles typically contained all or almost all learning actions of the ideal-typical expansive cycle](mismatched-cycles-produce-fuller-learning-cycles.md)
+- [In encounters where both parties are predominantly expansive, early cycle actions such as questioning and modeling are typically absent and the focus is on implementing and consolidating](both-expansive-encounters-skip-early-cycle-actions.md) — related
+- [In 30 home care visits implementing the Mobility Agreement, the most common cycle combination was client-expansive and worker-expansive (40%), yet at least one party was predominantly defensive in 60% of cases](home-care-cycle-combination-distribution.md) — related

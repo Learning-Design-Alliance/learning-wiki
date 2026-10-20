@@ -45,3 +45,10 @@ Hayashi, Y. (2020). Gaze awareness and metacognitive suggestions by a pedagogica
 
 ## Related Claims
 - [Gaze feedback and PCA suggestions show no interaction effect on the collaborative process ratings](no-gaze-pca-interaction-on-process.md) — related
+- [Gaze feedback and PCA suggestions interact on proportional learning gains, with synergy favoring the visible-gaze/visible-agent condition](gaze-pca-interaction-on-learning-gains.md) — related
+- [In a 2x2 experiment on jigsaw dyads, the implicit gaze awareness tool affected dialogue processes much more than the explicit pedagogical conversational agent, which compensated when gaze awareness was absent](gaze-awareness-tool-more-effective-than-explicit-agent-jigsaw-dyads.md) — a broader claim this one bears on
+- [Perspective taking increases the creativity of dyadic interactions](perspective-taking-increases-dyad-creativity.md) — related
+- [Visualizing group awareness information strongly impacts dyads' joint regulation of the collaborative process](group-awareness-visualization-impacts-joint-regulation.md) — related
+- [A successful coordination/high learning-gain correlation appears only for learners receiving both visible gaze feedback and PCA suggestions](process-performance-correlation-only-both-tools.md) — related
+- [Learners' knowledge gains focused particularly on interactions required for solving information pooling tasks, such as sharing information](gains-limited-to-information-pooling-interactions.md) — related
+- [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md) — a broader claim this one bears on

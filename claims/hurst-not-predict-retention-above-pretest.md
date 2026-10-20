@@ -47,3 +47,4 @@ Second linear regression model predicting retention self-explanation quality fro
 - [Deterministic interaction patterns relate to delayed retention self-explanation quality but not posttest performance](hurst-relates-to-retention-not-posttest.md) — related
 - [Hurst exponents are unrelated to the frequency of interacting with any specific game-based feature](hurst-unrelated-to-feature-frequency.md) — related
 - [Surrogate analysis validates that observed Hurst exponents reflect genuine persistence rather than short-series artifacts](surrogate-analysis-validates-hurst-exponents.md) — related
+- [Students who interact more deterministically within iSTART-ME generate higher quality self-explanations during training](deterministic-interaction-patterns-higher-training-self-explanation-quality.md) — related

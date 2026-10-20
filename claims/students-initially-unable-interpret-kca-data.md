@@ -43,4 +43,5 @@ Finding from the early phase of reflective assessment with KCA reported in Resul
 
 
 ## Related Claims
--
+- [Collaboration and synthesis indicators in Knowledge Forum increased over time among low-achieving students.](collaboration-synthesis-indicators-increased-over-time.md) — related
+- [Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings](single-initiative-analysis-limited-agency-wide-impact.md) — related

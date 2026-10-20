@@ -62,4 +62,11 @@ On relative accuracy, negative example standards had a significant but detriment
 
 
 ## Related Claims
--
+- [Example quality does not significantly moderate the effects of the standards on judgment accuracy when aggregated across concepts](example-quality-moderation-null.md) — related
+- [Idea unit standards do not enhance judgment accuracy in evaluating self-generated examples](idea-unit-standards-ineffective-example-generation.md) — related
+- [Expert example standards improve university students' judgment accuracy (bias, absolute accuracy, and relative accuracy) when evaluating self-generated examples](expert-example-standards-improve-judgment-accuracy.md) — related
+- [Providing expert example standards enhances absolute judgment accuracy in evaluating self-generated examples](expert-example-standards-enhance-absolute-accuracy.md) — related
+- [Providing expert example standards reduces bias in learners' evaluations of self-generated examples](expert-example-standards-reduce-bias.md) — related
+- [Expert example standards did not significantly enhance relative accuracy in evaluating self-generated examples](expert-standards-relative-accuracy-null.md) — related
+- [Benefits of expert example standards depend on example quality: largest for incorrect examples, absent for correct ones](expert-standards-benefit-scope-by-example-quality.md) — related
+- [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related

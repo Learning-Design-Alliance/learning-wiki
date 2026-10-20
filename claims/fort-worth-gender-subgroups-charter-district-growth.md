@@ -74,3 +74,5 @@ Subgroup comparison of female students in Fort Worth charter versus other distri
 - [Fort Worth charter school Hispanic students significantly outgrew Fort Worth district school Hispanic students in reading growth](fort-worth-hispanic-students-charter-advantage-reading.md) — related
 - Fort Worth students overall made significantly less reading growth than the state average in 2018-19, with a smaller non-significant math gap — related
 - [No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)](rm-cc5-no-differential-effects-prior-achievement-gender.md) — related
+- [Newark charter school students outgrew similar Newark district school students in reading but not significantly in math in 2018-19](newark-charter-vs-district-within-newark-2018-19.md) — related
+- [Austin charter ELL students outperformed Austin district ELL students in reading growth](austin-charter-ell-students-reading-advantage.md) — related

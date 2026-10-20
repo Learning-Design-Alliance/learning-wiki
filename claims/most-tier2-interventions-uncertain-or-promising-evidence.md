@@ -48,3 +48,5 @@ Systematic review of 20 studies covering 18 interventions, all meeting WWC 5.0 s
 - Across four studies of Lexia Core5, the average effect size on reading outcomes is +0.16 — related
 - [Core5 students in grades 3-5 showed significantly larger reading achievement gains than a matched comparison group (ES = +0.11)](core5-matched-comparison-es-011.md) — related
 - [None of the WWC-standards-meeting studies of Tier 2 literacy interventions were conducted in CNMI or other Pacific islands, limiting generalizability](no-tier2-literacy-studies-conducted-in-cnmi.md) — related
+- [Literacy First shows strong ESSA evidence of positive effects in phonics and related alphabetics, reading fluency, and reading comprehension for grades K–2](literacy-first-strong-evidence-phonics-fluency-comprehension.md) — reports the opposite
+- [Reading Recovery improves receptive communication skills immediately after the intervention, with promising evidence from one small quasi-experimental study](reading-recovery-improves-receptive-communication.md) — a narrower finding that bears on this claim

@@ -43,4 +43,8 @@ Ethnographic analysis of classroom discourse in the mariners' course found story
 
 
 ## Related Claims
--
+- [Mastery in a quasi-community is dynamically and relatively distributed rather than structured as stable core-periphery hierarchy](quasi-community-distributed-mastery.md) — related
+- [Early realization of a shared object/motive bonds adult course participants into a quasi-community](quasi-community-shared-object-motive.md) — related
+- [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related
+- [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related
+- [Participation in the quasi-community pedagogy was followed by very high success in the certification examination](quasi-community-high-certification-success.md) — related

@@ -52,3 +52,4 @@ One-factor ANOVA on the sum of the thirteen TTCT Creative Strengths in the 34-ve
 - [Unmedicated children with ADHD obtain a higher overall TTCT Creativity Index than controls](adhd-children-higher-creativity-index.md) — related
 - [Unmedicated children with ADHD aged 8-13 score higher than matched controls on TTCT-Figurative Fluency](adhd-children-higher-ttct-fluency.md) — related
 - [ADHD children do not differ from controls on Elaboration, Abstractness of Titles or Resistance to Premature Closure](adhd-no-difference-elaboration-abstractness-closure.md) — related
+- [Medication use does not affect creativity measures in adults with ADHD](no-medication-effect-on-creativity-adhd.md) — related

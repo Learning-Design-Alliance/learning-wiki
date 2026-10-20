@@ -46,3 +46,5 @@ Descriptive analysis of portfolio distributions shown in Figure 2, overall and w
 - [Workers closest to the diversity frontier show the strongest adaptive outcomes, while frontier position is not associated with stronger wage sorting](diversity-frontier-predicts-adaptive-capacity.md) — related
 - [Specialisation is strongly associated with sorting into higher-wage occupations but only weakly related to adaptive outcomes](specialisation-predicts-wage-sorting-not-adaptation.md) — related
 - [Bernoulli Mixture Model fits select around 10-12 clusters per question, with no runs finding high cluster counts optimal, indicating specialised skill sets do not generally exist](bmm-selects-ten-to-twelve-clusters.md) — related
+- [Skill portfolio diversity is positively associated with skill acquisition, occupational mobility, and transitions into lower-AI-exposure occupations](diversity-predicts-adaptive-outcomes.md) — related
+- [Skill portfolio measures stratify by demographics: men, younger cohorts, and more educated workers show higher specialisation](specialisation-demographic-stratification-linkedin.md) — related

@@ -46,3 +46,7 @@ Qualitative discourse analysis of two representative excerpts of triad responses
 
 - [Only problematizing scaffolds, not structuring scaffolds, significantly raise domain knowledge](only-problematizing-scaffolds-raise-domain-knowledge.md)
 - [Problematizing scaffolds produced a small significant positive effect on individual metacognitive knowledge compared to structuring scaffolds](problematizing-scaffolds-metacognitive-knowledge.md) — related
+- [Statistical discourse analysis of collaborative learning shows metacognitive planning organizes subsequent cognitive activity while relational activities help enact it](sda-planning-organizes-subsequent-cognition.md) — related
+- [Problematizing scaffolds produced a medium significant positive effect on group performance compared to structuring scaffolds](problematizing-scaffolds-better-group-performance.md) — related
+- [Metacognitive avatar scaffolds increase students' proportion of metacognitive activities, with no significant difference between scaffold types](scaffolds-increase-metacognitive-activities-equally.md) — related
+- [Shared and co-constructed intra-group interaction were significantly correlated with deep-level metacognitive activities during pre-task regulation](shared-coconstructed-interaction-correlated-deep-level.md) — related

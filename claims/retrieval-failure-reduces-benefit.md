@@ -88,3 +88,8 @@ This meta-analysis pooled 159 effect sizes from 61 published and unpublished stu
 - [Taking a practice test before a final test produces a moderately large, statistically significant benefit for learning overall (g = 0.61 fixed-effects; g = 0.70 random-effects)](practice-testing-overall-meta-analytic-benefit.md) — related
 - [Differential scaffold benefits were more salient for the more difficult learning concept](scaffold-benefits-more-salient-for-difficult-concept.md) — related
 - [Retrieval practice produces better retention than restudying, with meta-analytic reviews reporting people 2.5 times as likely to remember tested information and medium-to-large classroom effects](retrieval-practice-beats-restudying.md) — related
+- [Response congruency, elaborated retrieval practice, and initial test performance strongly influence the likelihood of positive transfer](moderators-congruency-elaborated-retrieval-initial-test-performance.md) — related
+- [Higher self-reported confusion predicts a much larger negative effect on future performance when learners answer more questions incorrectly](confusion-amplifies-negative-effect-of-incorrect-trials.md) — related
+- [In open-ended constructivist activities, task success or failure is not a reliable indicator of learning, so learner models based only on performance risk misjudging learners](performance-not-indicator-learning-open-ended.md) — related
+- [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
+- [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related

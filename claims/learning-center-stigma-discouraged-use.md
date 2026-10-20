@@ -43,3 +43,4 @@ Qualitative finding from student listening sessions conducted by district staff 
 ## Related Claims
 - [Struggling students were no more likely than peers to use a district's learning centers](struggling-students-no-more-likely-use-centers.md) — related
 - [In a rural district's flexible scheduling program, students used only 19 percent of daily flex-time for academic activities](flex-time-low-academic-use-rural-district.md) — related
+- [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](legitimacy-disciplinary-identity-resistance.md) — a broader claim this one bears on

@@ -46,3 +46,4 @@ Pilot attitude survey in a class of 29 second-year medical imaging majors in an 
 ## Related Claims
 - The article argues that for quantities represented spatially, such as amplitude and wavelength, the hand itself moving in space may be a more natural control than a slider or input box — a broader claim this one bears on
 - [In the pilot, 93% of students found controlling the wave in the air natural and 86% reported feeling more engaged and focused than in regular learning](ar-gesture-control-felt-natural-and-increased-engagement-pilot.md) — related
+- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related

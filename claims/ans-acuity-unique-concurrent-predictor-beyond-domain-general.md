@@ -48,3 +48,6 @@ Concurrent linear regressions at Time 2 (Table 5) predicting TEMA-3 from ANS acc
 - [Early ANS acuity (accuracy and RT) uniquely predicts preschoolers' math ability six months later, controlling for initial math ability, age, and expressive vocabulary](early-ans-acuity-predicts-math-growth-preschoolers.md) — related
 - [Initial math ability is the largest single predictor of later math ability, accounting for 45% of variance in later TEMA-3 scores](initial-math-ability-largest-predictor-later-math.md) — related
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
+- [Block Play Predicts Math Achievement](block-play-predicts-math-achievement.md) — related
+- [Preschoolers' ANS task performance follows Weber's Law: accuracy decreases as numerical ratio approaches equality, and improves with age over six months](ans-performance-webers-law-ratio-dependence.md) — related
+- [Children's knower level of verbal number words is cross-sectionally associated with ANS acuity even after controlling for age and sex](knower-level-correlated-ans-acuity-cross-sectional.md) — related

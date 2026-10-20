@@ -45,3 +45,4 @@ Descriptive comparison of two SEQ ratings per task (with the tools vs. imagined 
 ## Related Claims
 - [The with/without-tools difficulty gap narrowed as graph size grew, which the authors read as a positive indication of scalability](nev-scalability-gap-narrows-larger-graphs.md) — related
 - [A qualitative study with 14 students found very positive perceived task-difficulty and user-experience assessments for the Nemo+nev environment](nev-study-positive-task-difficulty-ux.md) — related
+- [Participants with higher subject expertise completed tasks and used the tools more easily than less experienced participants](nev-expertise-eases-task-completion.md) — related

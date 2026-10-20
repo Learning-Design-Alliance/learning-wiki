@@ -43,4 +43,6 @@ Secondary correlational analysis reported in the Results section relating diffic
 
 
 ## Related Claims
--
+- [Perceived task difficulty correlates negatively with self-assessed understanding and with interest at essentially all measurement points, while interest and self-assessed understanding correlate positively throughout](difficulty-negative-interest-understanding-positive-correlations.md) — related
+- [Invested mental effort and perceived task difficulty are significantly positively correlated at all measurement points except MP2.5, with correlations increasing as material complexity rises](effort-difficulty-positively-correlated-except-mp25.md) — related
+- [Prior coding experience correlates positively with digital literacy and coding comfort and negatively with perceived task difficulty](coding-experience-correlates-ct-skills.md) — related

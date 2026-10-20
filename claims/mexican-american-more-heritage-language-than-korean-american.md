@@ -47,3 +47,5 @@ Group comparison from the study's home-language data for the 20 children of Mexi
 - [Even bilingual children with limited heritage-language proficiency found creative ways to communicate different linguistic functions as needed](limited-proficiency-children-creative-communicative-workarounds.md) — related
 - [The bilingual children rarely engaged in intersentential code-switching during home interactions](rare-intersentential-code-switching-home.md) — related
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related
+- [Spanish use at home does not limit English learning: young Spanish–English bilinguals with more Spanish at school entry show higher English skills by year's end](spanish-home-use-does-not-limit-english-learning.md) — related
+- [Ethnic constancy and preference are higher among Mexican American than Dominican American children](ma-children-higher-ethnic-constancy-preference-than-da.md) — related

@@ -46,3 +46,5 @@ ONA network comparisons across three disciplinary teams during prototyping sessi
 - [Engineering, product design, and service design teams differ significantly in shared epistemic agency during collaborative prototyping](design-disciplines-differ-shared-epistemic-agency-prototyping.md) — related
 - [Each team showed statistically significant changes in shared epistemic agency across prototyping phases](within-team-phase-transitions-epistemic-agency.md) — related
 - [Differences in shared epistemic agency between design teams change across prototyping phases](epistemic-agency-changes-across-phases.md) — related
+- [Engineering team converged earlier than other teams, concluding prototyping two minutes before the time limit](engineering-team-early-convergence-prototyping.md) — related
+- [Across all three groups, discussion was dominated by epistemic actions—especially generative collaborative actions—with sharing knowledge more common in the synthesis phase and generative collaboration more prevalent in the application phase](generative-collaborative-actions-dominant-across-groups.md) — related

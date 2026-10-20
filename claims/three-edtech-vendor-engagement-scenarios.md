@@ -44,3 +44,4 @@ Descriptive statement in the report's vendor-engagement section enumerating the 
 - Trust amongst peers is high while trust of outsiders is low, and vendor relationships in districts follow a long consultative sales cycle — a narrower finding that bears on this claim
 - [Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products](districts-rely-peer-recommendations-pilots-over-rigorous-evidence.md) — related
 - Education stakeholders report that limited, hard-to-find, and rarely trustworthy information about edtech products creates significant barriers to selection — related
+- [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — related

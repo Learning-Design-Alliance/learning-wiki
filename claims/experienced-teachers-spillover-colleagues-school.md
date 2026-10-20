@@ -47,3 +47,4 @@ The review's executive summary and findings heading state that "more experienced
 - Teachers whose colleagues are more experienced improve more quickly, with novices benefiting most — a narrower finding that bears on this claim
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [Collaboration with colleagues around instruction has consistently positive relationships with math and science instructional practices](colleague-collaboration-consistently-positive-practices.md) — related
+- [Teachers' effectiveness increases at a greater rate in supportive, collegial working environments and when they accumulate experience in the same grade level, subject, or district](experience-gains-greater-in-supportive-environments.md) — related

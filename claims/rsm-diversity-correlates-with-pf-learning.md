@@ -47,3 +47,5 @@ Replication within Kapur's classroom-based variance study with 9th-graders: the 
 - [Mixed-ability groups generated a broader range of RSMs than all-low and all-high ability groups, relating to better uptake of the canonical formula](mixed-ability-groups-broader-rsm-range.md) — related
 - [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](vf-high-as-effective-as-pf.md) — related
 - [Students observing high-diversity vicarious failure (VF-high) significantly outperform students in VF-low and DI conditions on conceptual knowledge](vf-high-outperforms-vf-low-and-di-conceptual.md) — related
+- [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](pf-outperformed-di-variance-conceptual-transfer.md) — related
+- [Number of canonical components in students' PF solutions correlates with conceptual knowledge, but the range of distinct components does not](canonical-components-correlate-conceptual-knowledge.md) — reports the opposite

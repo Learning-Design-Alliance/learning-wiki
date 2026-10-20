@@ -43,3 +43,10 @@ The article reports, citing Mnguni et al. (2024b), that zero-order associations 
 ## Related Claims
 - Geographic distribution of the selected sample shows Asia (18 studies) and North America strongly represented, with Europe, Africa, and South America underrepresented — related
 - [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related
+- [Behavioral attitude, subjective norm, perceived behavioral control, and behavioral intention are each negatively associated with GenAI-assisted learning procrastination](tpb-constructs-negatively-associated-genai-procrastination.md) — related
+- [GenAI use is positively associated with attitude, subjective norm, perceived behavioral control, and behavioral intention toward GenAI-assisted learning](genai-use-positively-associated-tpb-constructs.md) — related
+- [TPB constructs indirectly link GenAI use to lower GenAI-assisted learning procrastination, accounting for about 30.9% of the total association](tpb-indirect-path-genai-use-procrastination.md) — related
+- [CDM-AIR declares four falsification conditions, including moderation nullity and context redundancy](cdm-air-falsification-conditions.md) — related
+- [Learning GenAI anxiety moderates the intention–procrastination association, which is negative and significant at high anxiety but absent at low anxiety](learning-genai-anxiety-moderates-intention-procrastination.md) — related
+- [University students' use of GenAI for learning task completion is negatively associated with GenAI-assisted learning procrastination](genai-use-negatively-associated-genai-learning-procrastination.md) — related
+- [Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak intervention guidance](additive-tpack-belief-models-weak-intervention-guidance.md) — related

@@ -51,3 +51,4 @@ Observational analysis of MAP Growth data from 3.4 million students relating pri
 - [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — related
 - [The research program includes related work on summer learning loss and the relationship between school-year gains and summer loss](related-work-summer-loss-and-gain-loss-relationship.md) — possibly the same claim (merge candidate)
 - [NC Pre-K participants made greater gains than expected for normal developmental growth, with particular benefits for dual language learners and low-income students](nc-prek-gains-dual-language-learners.md) — related
+- [Summer learning loss findings call into question explanations based on summer program access and school-year length](summer-loss-explanations-questioned.md) — related

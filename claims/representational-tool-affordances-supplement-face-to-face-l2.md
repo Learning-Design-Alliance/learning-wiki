@@ -43,4 +43,6 @@ Case-study evidence from collaborative second-language writing activities in a n
 
 
 ## Related Claims
--
+- [In a networked second-language classroom, different small groups of students evolve alternative approaches to appropriating a representational tool during collaborative L2 writing](groups-evolve-alternative-approaches-appropriating-representational-tool.md) — a narrower finding that bears on this claim
+- [The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion](real-world-simulations-embodiment-affordances.md) — related
+- [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — related

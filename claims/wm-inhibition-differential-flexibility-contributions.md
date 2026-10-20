@@ -43,4 +43,8 @@ In Study 1 (n = 112 children aged 8-12), the authors modeled the joint contribut
 
 
 ## Related Claims
--
+- [Bilingual effect evidence appears for inhibition and cognitive flexibility but disappears for working memory in children and adolescents](bilingual-effect-inhibition-flexibility-not-working-memory.md) — related
+- [Spontaneous flexibility, but not reactive flexibility, significantly predicts children's reading comprehension and writing](spontaneous-flexibility-predicts-academic-skills.md) — related
+- [The creativity-related component of flexibility is spontaneous flexibility, the ability to generate diverse responses driven by internal stimuli](spontaneous-flexibility-creativity-children.md) — related
+- [Cognitive flexibility uniquely predicts literacy achievement in Grades 4 and 6, above and beyond fluid intelligence, attention, inhibitory control, working memory, and planning](cognitive-flexibility-unique-predictor-literacy-grades-4-6.md) — related
+- [After controlling for children's level of intelligence, only shifting and inhibition make a significant contribution to creativity](shifting-inhibition-unique-creativity-contribution-children.md) — related

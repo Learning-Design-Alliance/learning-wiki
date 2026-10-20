@@ -46,3 +46,5 @@ In the SEM comparison across models including concentration as a candidate contr
 
 - [Vocabulary is positively associated with listening comprehension in upper elementary children (9-12 years)](vocabulary-positively-associated-listening-comprehension-upper-elementary.md)
 - [Vocabulary mediates the association between academic self-efficacy and listening comprehension](vocabulary-mediates-self-efficacy-listening-comprehension.md)
+- [Verbal short-term memory and academic self-efficacy are positively associated with children's vocabulary](verbal-stm-self-efficacy-positively-associated-vocabulary.md) — related
+- [The indirect association between verbal short-term memory and listening comprehension through vocabulary just missed significance](stm-vocabulary-indirect-path-just-missed-significance.md) — related

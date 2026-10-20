@@ -46,3 +46,5 @@ Narrative review of Marsh et al. (2000), a longitudinal study of a large represe
 - [Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49](bflpe-lower-asc-high-average-ability-schools.md) — a broader claim this one bears on
 - [The BFLPE is domain-specific: school-average achievement affects academic self-concept but not global self-esteem or non-academic self-concept](bflpe-domain-specificity-asc.md) — related
 - [Class-average achievement and chosen upward comparisons each make substantial, unique negative contributions to math self-beliefs when modeled simultaneously](bflpe-generalized-and-specific-others-unique-effects.md) — related
+- [A high proportion of high-performing classmates lowers sixth-graders' situational academic self-concept, an experimental BFLPE at the extreme contrast](bflpe-experimental-situational-self-concept.md) — related
+- [Students who perceived the class performance level as higher reported lower situational self-concept in the IVR classroom](higher-perceived-performance-lowers-situational-self-concept.md) — related

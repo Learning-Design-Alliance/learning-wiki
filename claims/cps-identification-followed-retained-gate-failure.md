@@ -65,3 +65,4 @@ Analysis contrasting first-time gate-grade enrollees before and after the policy
 - [After the promotion gate, general education eighth graders were retained at far higher rates while retention of students with disabilities fell, raising the disabled share of ninth graders](cps-promotion-gate-shifted-retention-to-general-education.md) — related
 - [Retained third and sixth graders were placed in special education at about three times the rate of comparable low-achieving students](retention-increases-special-education-placement.md) — related
 - [Learning disabilities drove almost the entire rise in ninth-grade special education enrollment](learning-disabilities-drove-cps-special-education-increase.md) — related
+- [School closings had no effect on grade retention rates or special education referrals for displaced students](no-effect-retention-special-education-referrals.md) — related

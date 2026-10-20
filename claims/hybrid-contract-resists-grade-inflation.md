@@ -46,3 +46,5 @@ One of four positive reasons the authors give for their hybrid approach of givin
 ## Related Claims
 - [A unilateral grading contract guarantees students a course grade of B based solely on completion of specified activities, not on judged writing quality](contract-guarantees-b-for-completion-not-quality.md) — related
 - [Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure](transcript-grades-blurred-currency.md) — related
+- [Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported](decoupling-evaluation-from-grades-improves-feedback.md) — related
+- [The authors report that fourteen weeks of contract-required work improves writing quality enough to warrant a B](fourteen-weeks-contract-work-warrants-b.md) — related

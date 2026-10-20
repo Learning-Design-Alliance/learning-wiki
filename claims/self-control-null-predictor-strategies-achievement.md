@@ -45,3 +45,4 @@ Multiple regression analysis (Table 5) of strategy use and achievement on four s
 ## Related Claims
 
 - [In regressions predicting self-reported achievement, elaboration positively (Beta = 0.24) and cramming negatively (Beta = -0.30) predicted achievement, but only effort regulation and engagement remained significant in the combined model](elaboration-cramming-achievement-regression.md)
+- [Effort regulation and student engagement were the most consistent predictors of learning strategy use and self-reported achievement](effort-regulation-engagement-consistent-predictors.md) — related

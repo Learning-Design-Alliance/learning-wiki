@@ -43,4 +43,4 @@ GPA data drawn from university records for the seven participants in the pilot. 
 
 
 ## Related Claims
--
+- [Evidence on RJ's impact on academic outcomes is limited and mixed, with graduation-rate gains in one study and no GPA change in another](rj-academic-outcomes-evidence-mixed.md) — related

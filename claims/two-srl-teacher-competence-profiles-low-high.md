@@ -47,3 +47,6 @@ Latent profile analysis of survey data from 191 German primary-school teachers (
 - [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md)
 - [Teachers' initial SRL competence profiles moderate training effectiveness: initially high-competence teachers benefit more from training](competence-profiles-moderate-srl-training-effect.md)
 - [High-competence-profile teachers outperform low-competence-profile teachers on SRL knowledge, beliefs, and self-efficacy, but not on self-reported situated SRL approaches](profile2-outperforms-profile1-competence-indicators.md)
+- [Teachers often hold misconceptions about which students benefit from SRL scaffolding](teachers-misconceptions-srl-beneficiaries.md) — related
+- [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
+- [Latent profile analysis of combined SR and OB factors identifies six distinct teacher profiles spanning overestimation, underestimation, and alignment](six-lpa-profiles-sr-ob-ai-literacy.md) — related

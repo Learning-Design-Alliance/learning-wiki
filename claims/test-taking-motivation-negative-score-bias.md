@@ -63,3 +63,10 @@ The article's abstract frames test-taking motivation as a construct-irrelevant f
 - [Disengagement produced both positive and negative distortion of individual student scores, which tended to cancel out much of the net distortive effect on school means](positive-negative-distortion-cancellation.md) — reports the opposite
 - [Effort-moderated scoring yields more accurate scores than traditional scoring on an adaptive achievement test](effort-moderated-scoring-more-accurate-than-traditional.md) — related
 - [Effort-moderated scoring exhibits improved person fit statistics compared with traditional scoring](effort-moderated-scoring-improved-person-fit.md) — related
+- [Differential student test effort may bias achievement gap estimates](differential-test-effort-may-bias-gap-estimates.md) — related
+- [School-level aggregated scores on the computer-based PISA-Based Test for Schools were highly stable despite considerable differential engagement among schools](school-means-stable-despite-differential-engagement.md) — related
+- [Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data](response-styles-construct-irrelevant-bias.md) — related
+- [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — a broader claim this one bears on
+- [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
+- [Differential rapid guessing often resulted in test events with meaningfully distorted item content representation](differential-rapid-guessing-distorts-content-representation.md) — related
+- [Disengaged responding biases observed scores from achievement tests and surveys in practically and statistically significant ways](disengaged-responding-biases-observed-scores.md) — a broader claim this one bears on

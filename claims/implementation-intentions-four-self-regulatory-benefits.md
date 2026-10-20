@@ -44,3 +44,4 @@ The meta-analysis reports effectiveness across four self-regulatory functions: "
 
 ## Related Claims
 - [Holding a strong goal intention alone does not guarantee goal achievement](goal-intention-alone-insufficient-for-achievement.md) — related
+- [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — related

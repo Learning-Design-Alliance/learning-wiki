@@ -49,3 +49,4 @@ Teacher post-surveys (n=5) in the multiple-case study; teachers reported the fee
 - [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](students-recognize-writing-improvement-ai-feedback.md) — related
 - [Teachers valued CulturAIEd's demographic integration, customization, and rubric feedback as highly efficient](culturaied-perceived-strengths-efficiency.md) — related
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — related
+- [A teacher-initiated report card comment generator built in Solara saw immediate high adoption without formal rollout or training](teacher-initiated-tool-high-adoption.md) — related

@@ -45,3 +45,9 @@ Role congruence ratings favored student tutors in both courses (course 1: F = 23
 ## Related Claims
 - [Student tutors are rated as more cognitively congruent than staff tutors in problem-based tutorial groups](student-tutors-more-cognitively-congruent-than-staff.md) — related
 - [AI exploration assignments helped students connect physics content to their personal lives and interests](ai-exploration-personal-connections.md) — related
+- [Focus group data indicate student tutors show more cognitive congruency than staff tutors, explaining content more clearly and in student-friendly terms](student-tutors-cognitive-congruency-focus-group.md) — related
+- [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](tutor-behavior-ratings-interaction-year.md) — related
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
+- [Focus group data indicate student tutors show more social congruence, being more involved with the group and more open to student opinions](student-tutors-social-congruence-focus-group.md) — related
+- [Staff tutors display more authoritarian behavior than student tutors in problem-based tutorial groups](staff-tutors-more-authoritarian-than-student-tutors.md) — related
+- [Student tutors refer to end-of-course examinations more frequently than staff tutors to direct student learning](student-tutors-more-assessment-oriented.md) — related

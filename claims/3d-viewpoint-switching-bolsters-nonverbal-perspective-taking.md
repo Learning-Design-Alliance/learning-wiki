@@ -47,3 +47,5 @@ Representative excerpt from one triad's discussion of a time-calculation lesson:
 
 ## Related Claims
 - [Reflecting with the 3D manipulable animation made Session #3 reflective discussions more student-centered than reflecting with video only](3d-animation-reflection-more-student-centered.md) — related
+- [The student-centered shift in reflective discussion between Sessions #1 and #3 remained only in the experimental condition, with a medium effect size](student-centered-shift-persisted-only-experimental-group.md) — related
+- [Combining tangible puppets as mediating manipulatives with 3D manipulable animations fostered immediate transfer of imaginary students' perspectives in microteaching role-plays](puppets-3d-manipulatives-perspective-taking-transfer.md) — related

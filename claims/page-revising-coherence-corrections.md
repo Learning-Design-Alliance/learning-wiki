@@ -64,3 +64,5 @@ Experiment 2 null result for lower-level revisions: surface and cohesion improve
 ## Related Claims
 
 - [Reading time did not differ between Page and Scroll, though Page readers tended to backtrack more](reading-time-null-backtracking-tendency.md)
+- [Writers revising in Page mode backtrack more than Scroll writers, with no difference in total revising time](page-revising-more-backtracking.md) — related
+- [Global errors hinder communication while local errors affect only a single sentence element, informing which errors to correct](global-versus-local-errors-correction.md) — related

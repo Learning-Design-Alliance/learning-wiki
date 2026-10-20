@@ -45,3 +45,4 @@ Course-level Spearman correlations between WTS dispersion metrics and course ave
 ## Related Claims
 - [Workload variability and slope metrics correlate strongly with perceived course difficulty](workload-dynamics-correlate-perceived-difficulty.md) — related
 - [Self-reported weekly time-on-task is positively correlated with LMS-based time-on-task and activity measures in engineering courses](self-reported-lms-time-on-task-correlated.md) — related
+- [Workload peaks and slope variability correlate with perceived learning attainment, with LMS dynamics showing no significant correlations](workload-peaks-correlate-learning-attainment.md) — related

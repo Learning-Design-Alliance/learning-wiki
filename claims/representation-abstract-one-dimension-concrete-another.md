@@ -47,3 +47,4 @@ Analytical result of the taxonomy: the article illustrates with "a simulation of
 - [The effectiveness of concrete representations may depend more on how relatable they are than on their real-world existence](concrete-representations-effectiveness-relatability.md) — a narrower finding that bears on this claim
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
+- [Disagreements about concreteness and abstraction in mathematics education may be verbal disputes rooted in word meaning](verbal-disputes-concreteness-abstraction.md) — related

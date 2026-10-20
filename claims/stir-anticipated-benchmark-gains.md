@@ -50,3 +50,5 @@ This is the program description's stated long-term outcome, not a measured resul
 - Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students — related
 - The Once Early-Reading Program improves end-of-year FastBridge Early Reading Composite scores for below-benchmark kindergarten students (quasi-experimental evidence) — related
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a broader claim this one bears on
+- [Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)](air-reading-rct-texas-map-effect.md) — related
+- [Screening assessment benchmarks indicating significant risk shift up and down on the MCAS scale within and across grades, so students with the same skills may be classified differently at different times](benchmark-cut-scores-shift-on-mcas-scale.md) — related

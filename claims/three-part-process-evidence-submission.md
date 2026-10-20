@@ -65,3 +65,5 @@ The facilitator's own follow-up observation on the video-reflection component. T
 - [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](lms-process-indicators-pilot.md) — related
 - [Instructor co-designed tagging transforms raw LMS log data into structured event data reflecting course design and temporal context](clickstream-tagging-transforms-logs-into-contextualized-events.md) — related
 - [Affordance resonance can be documented at scale through AI-generated logs identifying seed contributions and cascading uptake](ai-resonance-logs-catalytic-contributions.md) — related
+- [Both workshops proposed a dual assessment approach combining controlled AI-free testing and open AI-allowed assignments](dual-assessment-ai-free-and-ai-allowed.md) — related
+- [A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance](student-authored-instructor-ai-rules-accountability.md) — related

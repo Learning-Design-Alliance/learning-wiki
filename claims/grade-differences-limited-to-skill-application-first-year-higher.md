@@ -46,3 +46,4 @@ One-way ANOVA across grades in the 1110-response survey, with LSD post hoc compa
 - [AI-TPACK component scores show no significant differences across MTES grades, while self-efficacy and teaching beliefs do differ](no-grade-differences-in-aick.md) — related
 - [Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or appointment type](no-age-or-career-type-differences-tpack-genai.md) — related
 - [All dimensions of perceived learning outcomes differ significantly across major categories, with Education, Food/Pharmaceuticals and Transportation students scoring higher than Civil Engineering, Biology/Chemical and Electronics students](major-category-differences-perceived-learning-outcomes-vocational.md) — related
+- [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related

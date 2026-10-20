@@ -69,3 +69,7 @@ Study 2 footnote analysis of 22 medicated and 24 unmedicated ADHD participants o
 - [ADHD medication status shows no significant interaction with segmentation, though medicated participants made fewer hesitations](medication-status-segmentation-interaction-null.md) — related
 - [A third systematic review concluded ADHD medication reduced symptoms and impairments but found limited and inconsistent evidence for long-term medication effects on social functioning, academic achievement, employment status, and psychiatric comorbidity](adhd-medication-limited-long-term-functional-effects.md) — related
 - [A widened attentional focus of the kind associated with ADHD has been postulated to accompany enhanced creative ability](widened-attentional-focus-postulated-creativity-link.md) — related
+- [Unmedicated children with ADHD score higher than controls on TTCT Creative Strengths](adhd-children-higher-creative-strengths.md) — related
+- [Unmedicated children with ADHD obtain a higher overall TTCT Creativity Index than controls](adhd-children-higher-creativity-index.md) — related
+- [Adolescents with ADHD exhibit selective cognitive advantages and disadvantages on creativity measures relative to healthy controls](adhd-selective-creativity-advantages-disadvantages.md) — related
+- [ADHD symptoms correlate positively with creative achievements and negatively with problem-construction usefulness](adhd-symptom-correlations-creativity-measures.md) — related

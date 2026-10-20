@@ -54,3 +54,6 @@ Longitudinal mixed-effects modeling of the PSID-CDS accelerated longitudinal sam
 - [Cool executive function measures show ascending age-related growth across adolescence, with a growth spurt around age 14–15](cool-ef-ascending-growth-adolescence.md) — related
 - [Antisaccade performance follows a curvilinear developmental trajectory best fit by an inverse function, with intra-subject latency variability decreasing with age](antisaccade-curvilinear-inverse-trajectory.md) — related
 - [Behavioral self-regulation development between ages three and seven is best described by an exponential (nonlinear) growth curve](exponential-growth-behavioral-self-regulation-early-childhood.md) — related
+- [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — related
+- [Music training RCTs show improved verbal working memory (backward digit span), but not visuospatial or forward-span tasks](music-training-verbal-working-memory-backward-span.md) — related
+- [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — related

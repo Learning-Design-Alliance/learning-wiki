@@ -44,3 +44,5 @@ Review comparing four developmental fMRI encoding studies: Ofen et al. (2007) an
 
 ## Related Claims
 - [Attentional focusing is the only effortful control subdomain associated with DLPFC activation when controlling for age and accuracy](attentional-focusing-only-subdomain-associated-with-dlpfc-activation.md) — related
+- [Improvised personal prayer engages the Theory of Mind network, while formalized prayer engages dorsolateral PFC and cerebellum](improvised-prayer-theory-of-mind-network.md) — related
+- [Adults show greater left inferior lateral PFC activation than adolescents during relational integration](adults-greater-left-inferior-pfc-relational-activation.md) — related

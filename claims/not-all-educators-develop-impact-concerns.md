@@ -49,3 +49,5 @@ The authors report an observational finding from their studies: "we have observe
 - Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly — related
 - [First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%](unmentored-first-year-task-concerns-flat.md) — related
 - First-year teachers with mentors declined in self and task concerns and increased impact concerns over the school year — related
+- [Teacher concern development is better characterized as progression and retreat than linear stage movement](teacher-concern-progression-and-retreat.md) — related
+- [Individual teachers' concern profiles vary widely and can diverge from group trends during implementation](individual-concern-profiles-vary-widely.md) — related

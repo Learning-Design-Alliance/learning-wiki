@@ -45,3 +45,4 @@ From hierarchical regression and mediation test results (N=272). The rehearsal a
 ## Related Claims
 - [Positive relationship between DLC interaction and academic achievement persists when controlling for prior metacognitive abilities](dlc-achievement-persists-controlling-prior-metacognition.md) — related
 - [No significant relationship found between DLC interaction and self-reported metacognitive abilities on the MSLQ](no-mslq-relationship-dlc.md) — related
+- [Frequent use of reflective prompts related to better strategic problem-solving and conceptual understanding](reflective-prompts-frequency-problem-solving.md) — related

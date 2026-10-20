@@ -68,3 +68,6 @@ Logistic regression Model 11 in Table 5b. The report describes faculty decision-
 - [Teachers who find their administrators unsupportive are more than twice as likely to leave as those who feel well-supported](administrative-support-double-attrition-odds.md) — related
 - [Administrative support, student discipline, and faculty influence are associated with teacher turnover after controlling for teacher and school characteristics](organizational-conditions-predict-teacher-turnover.md) — related
 - [Both younger and older teachers are more likely to depart than middle-aged teachers](u-shaped-age-turnover-relationship.md) — related
+- [From 1987 to 2012 the number of U.S. minority teachers more than doubled, growing faster than nonminority teachers and minority students](minority-teachers-more-than-doubled-1987-2012.md) — related
+- [Minority teacher turnover rates have been significantly higher than nonminority turnover, and the gap widened after 2004](minority-teacher-turnover-significantly-higher.md) — related
+- [Teachers who strongly disagree that their administration is supportive are more than twice as likely to leave as those who strongly agree](administrative-support-strongest-turnover-predictor.md) — related

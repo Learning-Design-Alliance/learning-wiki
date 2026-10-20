@@ -50,3 +50,4 @@ HLM regression of preliteracy, language, and mathematics on inattention, aggress
 - [Teacher-rated behavioral inattention was not uniquely predictive of any grade 1 math outcome despite significant zero-order correlations](behavioral-inattention-not-unique-predictor.md) — related
 - [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related
 - [Children's positive feelings about school attenuate the relationship between aggression and academic development](feelings-about-school-protective-moderator.md) — related
+- [Early language skills predict later adolescent externalizing behavior problems](early-language-predicts-externalizing.md) — related

@@ -45,3 +45,5 @@ The paper identifies a severe shortage of classroom teachers as the first barrie
 ## Related Claims
 - [Multiple workforce factors contributed to the growth of alternative teacher certification programs](factors-driving-alternative-certification-growth.md) — related
 - [Little is known about teachers certified through alternative certification programs and their experiences after certification](limited-knowledge-alt-cert-teachers-experiences.md) — related
+- [Teachers with little or no pedagogical preparation are 2 to 3 times more likely to leave teaching than comprehensively prepared teachers](underprepared-teachers-leave-at-2-3-times-rate.md) — related
+- [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — related

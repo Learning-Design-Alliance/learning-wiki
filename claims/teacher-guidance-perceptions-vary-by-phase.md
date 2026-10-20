@@ -46,3 +46,4 @@ Teachers' paper-and-pencil questionnaire after each of three sessions (planning,
 
 - [Teachers spent most CSCL class time on task management, content knowledge, technical support and observing, with minimal socio-emotional support](teacher-guidance-focus-distribution-cscl-science.md)
 - [Teacher self-reported affect was compounded by students' self-reported affect across working phases](teacher-student-affect-reciprocity-inquiry.md)
+- [Teachers' guidance and support in collaborative science inquiry differed by teacher perceptions and group outcomes, and teacher affect was compounded by student affect, per the editorial's report of Pietarinen et al.](teacher-guidance-varies-perceptions-outcomes-reciprocal-affect.md) — related

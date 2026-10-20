@@ -47,3 +47,4 @@ The article's observational critique of the Japanese educational system states t
 - [The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language](reverse-transfer-literacy-to-oral-unsupported.md) — related
 - [Sticht's Law holds that reading skill cannot exceed listening skill](sticht-law-reading-cannot-exceed-listening.md) — reports the opposite
 - [Both learners perceived they were expected to talk more in American university English classes than in Japanese university classes](us-classes-expected-more-talk-than-japanese.md) — related
+- [A 2010 teacher guide reports, citing Postovsky (1974, 1975), that delaying oral production and emphasising aural comprehension early in EFL instruction gives better results than intensive oral practice](listening-first-outperforms-intensive-oral-practice.md) — related

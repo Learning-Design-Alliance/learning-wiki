@@ -46,3 +46,4 @@ In the qualitative findings on temporal humanlikeness (§5.1.1), participants su
 - [An agentic cursor increased participants' understanding and predictability of the AI agent's actions during collaborative writing](agentic-cursor-increases-agent-understandability.md) — related
 - [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](synchronous-suggestions-shape-subsequent-writing.md) — related
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related
+- [Planning-stage AI ideas were often redundant with or rejected in favor of writers' own ideas: idea attribution was 17.8% among users versus 2.9% among non-users, but ownership did not differ between users and non-users within ai plan.](planning-ai-ideas-redundant-unused.md) — related

@@ -45,3 +45,4 @@ Comparative evaluation of regression-plus-classifier combinations reported in th
 ## Related Claims
 - [SVM-based regressors outperformed other regressors in the ETF price-delta forecasting benchmark](svm-regressors-outperformed-other-regressors.md) — related
 - [Sentiment scores of LLM-generated replies differ significantly from human replies under both classifiers](llm-vs-human-sentiment-significant-difference.md) — related
+- [Counterfactual fine-tuning reduces sentiment bias in LLM-generated forum replies](counterfactual-fine-tuning-reduces-sentiment-bias.md) — related

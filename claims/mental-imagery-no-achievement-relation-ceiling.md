@@ -44,3 +44,5 @@ ANCOVA results in both tracks showed no significant main effect of mental imager
 - [In the higher track, reading enjoyment and sex show main effects on non-leisure readers' school achievement, with enjoyers of both sexes scoring higher](higher-track-enjoyment-grades-both-sexes.md) — related
 - [Boys read for leisure and enjoy reading less than girls, but no sex differences appear in mental imagery](sex-differences-leisure-reading-enjoyment-not-imagery.md) — related
 - [In the lower track, reading enjoyment relates to school achievement for girls but not for boys among non-leisure readers](lower-track-enjoyment-grades-girls-only.md) — related
+- [Only a minority of Dutch seventh graders read for leisure, with lower prevalence in the pre-vocational track (19.5%) than the pre-academic track (32.5%)](leisure-reading-minority-dutch-seventh-graders.md) — related
+- [Leisure readers are far more likely than non-leisure readers to enjoy reading and to engage in mental imagery, in both educational tracks](leisure-readers-enjoy-imagery-both-tracks.md) — related

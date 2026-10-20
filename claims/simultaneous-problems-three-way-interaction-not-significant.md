@@ -45,3 +45,6 @@ Null three-way interaction from the same vignette-based repeated-measures ANOVA 
 ## Related Claims
 
 - [Comprehension-related problems elicit more cognitive strategies but do not reduce motivational strategy use](comprehension-problems-raise-cognitive-not-cut-motivational.md)
+- [The presence of motivational problems reduces reported strategies at the co- and shared-level but not at the self-level](motivational-problems-reduce-co-and-shared-level-strategies.md) — related
+- [Students respond to motivational problems in study-group vignettes with more motivational but fewer cognitive regulation strategies](motivational-problems-shift-strategy-mix-toward-motivational.md) — related
+- [Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension](retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) — related

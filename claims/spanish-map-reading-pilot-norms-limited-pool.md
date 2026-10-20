@@ -45,3 +45,5 @@ Chapter 9 describes the pilot user norms built from the 2018–2019 pilot year o
 ## Related Claims
 - [Pilot test events largely fulfilled updated blueprint requirements, including increased reading passages per test event](pilot-blueprint-fulfillment.md) — related
 - [Spanish MAP Growth Reading universal screening cut scores correspond to the 40th percentile of Spanish norms, established by linking to English cut scores](spanish-map-growth-reading-40th-percentile-cut-scores.md) — related
+- [Norming-sample testing volume is concentrated in kindergarten and grade 1, which together account for more than 70% of test events](spanish-foundational-skills-testing-volume-concentration.md) — related
+- [The Spanish math test population is predominantly Hispanic (about 78%), unlike the English math test population (about 15%), with implications for Spanish norms](spanish-english-test-population-ethnicity-difference.md) — related

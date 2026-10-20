@@ -48,3 +48,4 @@ The chapter attributes this contextual factor to Vaccaro et al.'s meta-analysis,
 - Meta-analysis finds human–AI combinations perform worse than the best of human or AI alone, moderated by relative competence — possibly the same claim (merge candidate)
 - [Sysadmins find GenAI most effective for accelerating routine tasks such as scripting, troubleshooting, and documentation](genai-accelerates-routine-sysadmin-tasks.md) — related
 - [Meta-analysis beyond education found human-AI integration performed worse than the better performer alone in 58% of studies](human-ai-integration-underperforms-better-alone-58-percent.md)
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related

@@ -44,3 +44,7 @@ Qualitative interview study (2019) of principals and school staff: "Principals c
 
 ## Related Claims
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [Principals actively engaged in prioritizing math at their sites were more likely to organize teacher learning time and involve coaches](engaged-principals-prioritize-teacher-math-learning.md) — related
+- [Integrating principals into district MiC leadership teams grounded CoP conversations in practice and helped teams interpret school-level achievement data](principals-in-leadership-teams-ground-cop-in-practice.md) — related
+- [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
+- [Availability of CAASPP statewide assessment data changed MiC leadership teams' discussions and appeared to accelerate districts' ability to monitor improvement](caaspp-data-accelerated-improvement-monitoring.md) — related

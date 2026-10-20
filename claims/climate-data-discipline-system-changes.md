@@ -49,3 +49,6 @@ Cross-case qualitative finding reported in the executive summary and case chapte
 - [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](restorative-practices-reduce-exclusionary-discipline.md) — related
 - [Time, funding, competing priorities, culture change, resistance, measurement gaps, and sustainability are the main challenges to implementing RJ in schools](rj-implementation-challenges-time-funding-sustainability.md) — related
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
+- [Evidence suggests RJ improves school climate, including student connectedness and staff-perceived climate gains](rj-improves-school-climate-evidence-limited.md) — related
+- [Case-study community schools reported classroom practice shifts—including space arrangement, inclusive curricula, and restorative practices—that they attributed to CSI professional learning](lausd-csi-case-study-practice-shifts.md) — related
+- [Strategies not linked to a problem behavior's specific context are associated with increases in the occurrence of that behavior](context-unlinked-strategies-increase-problem-behavior.md) — related

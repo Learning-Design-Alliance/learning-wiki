@@ -43,3 +43,6 @@ Criterion validity was assessed via Pearson correlations between CMS scores and 
 
 ## Related Claims
 - [CMS metacognition correlates with AQ-J-50 social skills and total scores, but self-judgment accuracy does not](cms-criterion-validity-aq.md) — related
+- [Child-parent communication frequency is not associated with CMS scores](cms-communication-null.md) — related
+- [Metacognitive ability improves across adolescence, with a logarithmic age trajectory](cms-age-effect-metacognition.md) — related
+- [Adolescents showed significantly lower metacognitive ability compared to young adults](cms-adolescents-lower-metacognition.md) — related

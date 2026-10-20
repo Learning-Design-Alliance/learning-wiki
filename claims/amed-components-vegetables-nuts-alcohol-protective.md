@@ -49,3 +49,5 @@ Cross-sectional component analyses (Figure 3) regressing cognitive outcomes on q
 - [Higher Mediterranean diet adherence is associated with higher cognitive test scores, with dose-response associations](mediterranean-diet-adherence-higher-cognitive-scores.md) — related
 - [Higher fish intake is associated with slower cognitive decline over 5 to 10 years in AREDS2](fish-intake-slower-cognitive-decline.md) — related
 - [Higher Mediterranean diet adherence is associated with lower risk of cognitive impairment in older adults without dementia](mediterranean-diet-adherence-lower-cognitive-impairment-risk.md) — related
+- [High intake of fruit and berries is associated with increased odds of high academic achievement in girls and boys, and high vegetable intake in girls](fruit-berries-vegetable-intake-associated-academic-achievement.md) — related
+- [Higher fish intake is associated with lower risk of cognitive impairment in older adults](fish-intake-lower-cognitive-impairment-risk.md) — related

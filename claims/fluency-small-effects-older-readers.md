@@ -45,3 +45,7 @@ Meta-analytic review of fluency interventions for older students, based almost e
 ## Related Claims
 - [End-of-Grade-1 oral reading fluency status predicts later reading comprehension better than growth slope, though slope added to first-grade screening accuracy in one study](orf-status-beats-slope-for-prediction.md) — related
 - [Word study intervention shows a moderate overall effect on word reading and comprehension for older struggling readers](word-study-moderate-effect-older-readers.md) — related
+- [Comprehension strategy instruction shows a large overall effect, but reliability is undermined by few standardized measures](comprehension-strategy-large-effect-unreliable.md) — related
+- [Ladders to Literacy shows potentially positive effects on fluency based on a single non-significant finding with an effect size of 0.72 and an improvement index of +26](ladders-to-literacy-potentially-positive-fluency.md) — related
+- [LiPS shows potentially positive effects on reading fluency: authors found significant effects on GORT–III Reading Accuracy and Reading Rate, but WWC analyses did not confirm significance](lips-reading-fluency-potentially-positive.md) — related
+- [The evidence base for Fluency Formula™ consists of a single small randomized controlled trial, with no studies addressing alphabetics or general reading achievement](fluency-formula-evidence-base-single-small-rct.md) — related

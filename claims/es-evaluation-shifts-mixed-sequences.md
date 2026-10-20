@@ -46,3 +46,6 @@ Linear mixed-model analysis of ES ratings in the HT-LT mixed sequence (n = 72 an
 
 - [References to document sources showed a significant sequence-type by position interaction, driven by first-position texts in the HT-LT sequence; the hypothesized increase in mixed sequences was only partly supported](ds-references-interaction-ht-lt.md)
 - [References to the embedded source did not differ by sequence type, ranging from 17.6% to 35% across conditions](es-references-null-sequence-type.md)
+- [Embedded-source and document-source trustworthiness scores differed, suggesting an interplay between layers rather than one-layered reflection](es-and-ds-scores-differ-interplay.md) — related
+- [Embedded-source trustworthiness evaluations do not change across positions when both document sources have similar trustworthiness](es-evaluation-stable-homogeneous-sequences.md) — related
+- [After reading the first text, embedded-source trustworthiness evaluations did not vary between sequences](es-evaluation-no-sequence-difference-position-one.md) — related

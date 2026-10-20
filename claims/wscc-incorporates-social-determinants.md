@@ -45,3 +45,6 @@ A descriptive statement about the model's design, in the article's discussion of
 ## Related Claims
 - [The WSCC model was developed in 2013 by ASCD and CDC expert panels to unify the Whole Child and coordinated school health approaches](wscc-developed-2013-ascd-cdc-expert-panels.md) — related
 - [Economic and social needs outside of school are statistically significantly associated with the context of schools' English Learner programs](sdoh-needs-associated-with-el-program-context.md) — related
+- [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
+- [Health factors and academic outcomes are linked: meeting nutritional and fitness needs, school-based health centers, and positive school climate are associated with achievement, attendance, and behavior](health-factors-linked-academic-outcomes.md) — related
+- [Elementary principals most frequently want professional development on whole child education, with rural principals especially likely to want physical and mental health content](principals-want-whole-child-pd.md) — related

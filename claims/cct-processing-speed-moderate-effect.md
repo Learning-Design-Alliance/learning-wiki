@@ -49,3 +49,4 @@ Domain-specific random-effects meta-analysis of 33 studies reporting processing 
 - [CCT yields small significant gains in nonverbal memory, working memory, and visuospatial skills, but only weak evidence for verbal memory](cct-domain-gains-nonverbal-wm-visuospatial-verbal-weak.md) — related
 - [Group-based CCT is effective while home-based CCT is not](cct-group-based-effective-home-based-not.md) — related
 - [Training more than three sessions per week neutralizes CCT efficacy, while one or 2–3 sessions per week are effective](cct-frequency-above-three-sessions-ineffective.md) — related
+- [Working-memory-only training shows no positive evidence of efficacy in healthy older adults](wm-only-training-ineffective-older-adults.md) — related

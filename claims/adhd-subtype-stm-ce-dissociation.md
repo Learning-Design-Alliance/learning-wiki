@@ -52,3 +52,5 @@ This is a controlled experimental comparison reported in the study of 27 childre
 - [Impairment on WM, STM, and/or motivation is associated with more inattention symptoms, medication use, and lower IQ scores](impairment-associated-inattention-medication-lower-iq.md) — related
 - [Memory and motivation represent independent neuropsychological domains in children with ADHD](memory-motivation-independent-neuropsychological-domains.md) — related
 - [Visuospatial working memory and short-term memory impairments are most prevalent in children with ADHD-C relative to ADHD-I and typically developing controls](visuospatial-wm-stm-impairments-most-prevalent-adhd-c.md) — related
+- [In the ADHD-I restrictive subtype, visuospatial WM impairments are more prevalent than in controls but STM impairments are not](adhd-i-wm-impaired-stm-not-more-common.md) — related
+- [The majority of children with ADHD-C is impaired on visuospatial working memory](majority-adhd-c-impaired-visuospatial-wm.md) — related

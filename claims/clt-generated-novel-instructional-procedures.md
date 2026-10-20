@@ -43,4 +43,6 @@ The review's abstract reports that the theory's assumed architecture "have been 
 
 
 ## Related Claims
--
+- [The cognitive architecture has been used to design a variety of novel instructional procedures](architecture-generated-novel-instructional-procedures.md) — possibly the same claim (merge candidate)
+- [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](expertise-reversal-prior-knowledge-interaction.md) — related
+- [The worked example effect holds for the schema-acquisition goal, but other instructional goals may be better served by other means](worked-example-effect-goal-dependent.md) — related

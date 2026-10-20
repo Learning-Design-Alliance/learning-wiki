@@ -44,3 +44,6 @@ Descriptive analysis of program participation among the 242,471 eligible student
 
 ## Related Claims
 - [Participation rates rose with eligibility index score, reflecting program prioritization](chicago-connected-participation-rose-with-eligibility-index.md) — related
+- [About 70% of continuously enrolled grade 5-8 CPS students were eligible for Chicago Connected, and approximately 30% of eligible students opted to participate](chicago-connected-eligibility-and-participation-rates.md) — possibly the same claim (merge candidate)
+- [School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement](school-characteristics-chicago-connected-participation.md) — related
+- [Community-area hardship index explained 65% of between-community-area variation; most variation in participation was at the student level](hardship-index-explains-community-variation-chicago-connected.md) — related

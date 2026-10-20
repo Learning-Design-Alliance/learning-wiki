@@ -46,3 +46,8 @@ Analysis of the forum corpus's participation structure, shown in Fig. 7, found t
 - [86% of World of Warcraft forum posts constitute social knowledge construction rather than social banter](wow-forum-86-percent-social-knowledge-construction.md) — related
 - [Cluster profiles of student mathematics performance are dominated by overall ability, with most clusters being linear rescalings of average exam performance](cluster-profiles-dominated-by-overall-ability.md) — related
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
+- [Argumentation quality in multiplayer game chat is an attribute of group interaction, not of individual utterances](group-argumentation-attribute-of-group-interaction.md) — related
+- [Danmaku hosts mass participation as a continuous collective flow while the discussion board divides learners into threaded small groups](danmaku-collective-flow-vs-threaded-small-groups.md) — related
+- [Longer Facebook threads with more interlocutors show distinct structural characteristics compared to the broader corpus](thread-structure-designerly-talk-corpus.md) — related
+- [65% of codable WoW forum posts display an evaluative epistemology, contrasting with Kuhn's finding that only 15% of interviewed Americans held one](wow-forum-evaluative-epistemology-65-percent.md) — related
+- [Effective collaborative learning in discussion forums requires relatively small group sizes](forum-collaborative-learning-small-group-sizes.md) — reports the opposite

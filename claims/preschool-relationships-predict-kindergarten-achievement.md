@@ -50,3 +50,4 @@ First SEM (direct-effects model) in the same 164-child Head Start sample, with b
 - [Preschool emotion knowledge predicts kindergarten academic achievement one year later](preschool-emotion-knowledge-predicts-kindergarten-achievement.md) — related
 - [Positive preschool interpersonal relationships predict gains in emotion knowledge over the prekindergarten year](preschool-relationships-predict-emotion-knowledge-gains.md) — related
 - [Growth in both vocabulary and social communication skills predicts kindergarten math achievement](vocabulary-and-communication-growth-predict-kindergarten-math.md) — related
+- [Initial levels of vocabulary and social communication skills each predict kindergarten reading achievement, but only rate of growth in social communication skills incrementally predicts reading](social-communication-growth-uniquely-predicts-kindergarten-reading.md) — related

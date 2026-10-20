@@ -46,3 +46,4 @@ Analytical derivation in the commentary: assuming standardized parallel items, a
 - [Adding items to a knowledge test can increase reliability without requiring the added items to be redundant with existing items](adding-items-increases-reliability-without-redundancy.md) — related
 - [Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha](single-administration-theoretical-reliability-vectors.md) — related
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
+- [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](meta-analytic-alpha-knowledge-tests-085.md) — related

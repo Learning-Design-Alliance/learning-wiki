@@ -47,3 +47,4 @@ Meta-analytic synthesis of 165 school-based prevention studies. The article stat
 - [Non-cognitive-behavioral counseling, social work, and other therapeutic interventions show consistently negative effects, whereas self-control or social competency promotion instruction using cognitive-behavioral and behavioral instructional methods shows consistently positive effects](cognitive-behavioral-prevention-positive-therapeutic-negative.md) — related
 - [FFI involving extensive instruction directed at simple structures was more likely to succeed in developing implicit knowledge](extensive-ffi-simple-structures-more-likely-to-succeed.md) — related
 - [The success of form-focused instruction in building implicit knowledge depends on the choice of target structure and the extent of the instruction](ffi-success-moderators-structure-and-extent.md) — related
+- [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related

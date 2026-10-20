@@ -64,3 +64,5 @@ Study 1 exploratory analyses of open-ended question codes (marginal, p = .06) an
 ## Related Claims
 
 - [Student-focused noticing marginally increased (Cohen's d = 0.43) while teacher-focused codes showed no change (d = 0.06)](blair2024-student-focused-increase-teacher-flat.md)
+- [A contrasting cases activity shifted the focus of preservice teachers' video noticing from teacher-focused to student-focused codes (significant time × subject-focus interaction)](blair2024-noticing-time-subject-focus-interaction.md) — related
+- [Teacher valence codes showed a nominal non-significant interaction: presence codes decreased while absence/missed-opportunity codes increased](blair2024-teacher-valence-nominal-shift.md) — a broader claim this one bears on

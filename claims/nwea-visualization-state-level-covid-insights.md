@@ -52,3 +52,4 @@ Descriptive statement from the NWEA Research page about the tool's purpose: it w
 - [Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress](middle-school-reading-stagnant-post-covid.md) — related
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
 - [The American Rescue Plan provides $122 billion for COVID recovery in schools](arp-provides-122-billion-covid-school-recovery.md) — related
+- [Assessments are framed as one indicator among many of student impact from COVID-19](assessments-one-indicator-among-many-covid-impact.md) — related

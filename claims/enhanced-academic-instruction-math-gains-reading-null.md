@@ -68,3 +68,6 @@ The same evaluation's reading contrast found no differences versus a regular aft
 - [SMART® tutoring produced a statistically significant positive effect on first-graders' word identification after two years of intervention](smart-significant-word-identification-effect.md) — related
 - [Fast Track produced a positive, statistically significant effect on reading achievement/literacy after one year, significant on the Spache DRS but not on the Woodcock-Johnson Letter-Word Identification subtest](fast-track-positive-reading-achievement-mixed-measures.md) — related
 - [UBMS provides intensive academic instruction in math and science](ubms-intensive-academic-instruction.md) — related
+- [Adaptive learning showed a statistically significant effect on learning skills but not on building factual knowledge in a meta-analysis of 21 Health & Welfare studies](adaptive-learning-effect-learning-skills-not-factual-knowledge.md) — related
+- [Among students receiving at least 24 hours of Air Tutors tutoring, no statistically significant long-term effect on statewide math assessments was detected](air-tutors-24-hour-dosage-no-long-term-impact.md) — related
+- [Intensity of SES services and other provider characteristics are not significantly related to estimated impacts](ses-provider-characteristics-not-related-to-impacts.md) — related

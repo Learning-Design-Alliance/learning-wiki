@@ -44,3 +44,5 @@ Self-report ratings from the same within-subject study with 23 educators. The ar
 ## Related Claims
 - [CTML-guided educator review of AI video scripts yields statistically significant improvements across all 12 CTML principles and overall instructional validity](ctml-review-improves-educator-ratings.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
+- [AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks](ai-no-efficiency-gain-simple-tasks.md) — related
+- [Preservice educators rate generative AI highest for logistical support (time saving, clarity, organizing thought) and lowest for epistemic trust, accuracy and consistency](preservice-educators-rate-ai-logistics-high-trust-low.md) — related

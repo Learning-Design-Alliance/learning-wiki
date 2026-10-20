@@ -64,3 +64,5 @@ Single-student case within the High-Reliance group. S2 used only the Summarizing
 ## Related Claims
 - [Among LLM users, Low-Reliance students (use in under half of submissions) consistently outperformed High-Reliance students by roughly 7-8% across all three midterms](low-reliance-outperformed-high-reliance-midterms.md) — related
 - [Students whose LLM use was mostly student-driven support scored higher on Midterm 1 than LLM-driven users (about 10%), but the two groups converged on later midterms](student-driven-support-better-early-midterms.md) — related
+- [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](llm-scaffolding-over-reliance-paradox.md) — related
+- [Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms](llm-users-lower-midterm1-score-gap-narrowed.md) — related

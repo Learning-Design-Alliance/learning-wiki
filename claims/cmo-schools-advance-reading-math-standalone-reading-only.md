@@ -50,3 +50,4 @@ School-type comparison in the national study finds CMO-affiliated schools ahead 
 - [Austin CMO-affiliated charters outperformed independent Austin charters in both subjects](austin-cmo-vs-independent-charter-growth.md) — related
 - [Houston CMO-affiliated charter students outgrew the state average in both subjects while independent charter students did not differ significantly](houston-cmo-charters-outgrow-state-independents-null.md) — related
 - [Virtual charter schools show far lower achievement, with students losing the equivalent of half a year of learning in reading and a full year in mathematics](virtual-charter-negative-achievement.md) — related
+- [National studies cited in the report found Rhode Island charter students outperformed traditional public school peers in reading and math](ri-charter-students-outperformed-tps-national-studies.md) — related

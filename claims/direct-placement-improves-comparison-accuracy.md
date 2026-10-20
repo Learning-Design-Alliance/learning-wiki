@@ -43,4 +43,4 @@ The article attributes this to prior experiments it did not conduct: Matlen et a
 
 
 ## Related Claims
--
+- [Fewer than half of textbook images requiring comparison have an optimal spatial layout (direct placement) for structural alignment](fewer-than-half-images-direct-placement.md) — related

@@ -43,4 +43,8 @@ The editorial reports, citing the Kajamaa and Kumpulainen sociocultural discours
 
 
 ## Related Claims
--
+- [Cumulative, disputational, and exploratory talk types together mediated students' enactment of makerspace knowledge practices](talk-types-mediate-makerspace-knowledge-practices.md) — related
+- [Students' makerspace knowledge practices are mediated multimodally by discourse, materials, embodied actions, and physical space](multimodal-mediation-makerspace-knowledge-practices.md) — a broader claim this one bears on
+- [Knowledge-building practices are defined at the community unit of analysis but enacted at the small-group discursive unit](practices-community-level-enacted-small-group.md) — related
+- [An adjacent corridor served as an improvised spatial expansion of the makerspace mediating students' knowledge practices](corridor-improvised-spatial-expansion-makerspace.md) — a narrower finding that bears on this claim
+- [Collaborative speech strongly co-occurs with actions on virtual objects and virtual hand gestures in shared VR geometry tasks](speech-co-occurs-with-actions-and-gestures-shared-vr.md) — related

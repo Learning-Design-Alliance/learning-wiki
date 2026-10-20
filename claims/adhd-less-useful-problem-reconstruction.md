@@ -65,3 +65,4 @@ Same Study 1 problem construction task. The article reports no significant group
 - [Adults with ADHD report more real-world creative achievements than healthy controls](adhd-more-real-world-creative-achievements.md) — related
 - [Competition raises idea originality for all participants but does not affect fluency or flexibility](competition-main-effect-originality-not-fluency.md) — related
 - [Adults with ADHD generate more original ideas under competition for a bonus, but not without competition](adhd-originality-increases-under-competition.md) — related
+- [Adolescents with ADHD exhibit selective cognitive advantages and disadvantages on creativity measures relative to healthy controls](adhd-selective-creativity-advantages-disadvantages.md) — related

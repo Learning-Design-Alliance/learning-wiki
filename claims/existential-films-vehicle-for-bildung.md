@@ -47,3 +47,9 @@ Theoretical argument in a philosophy-of-education article: the author reasons th
 - Pippi Longstocking portrays a clash between contemporary educational philosophies (embodied by Pippi) and an Essentialist understanding (embodied by the other social agents). — related
 - Elementary graduate students score higher in Realism and lower in Existentialism than elementary undergraduates — related
 - Elementary undergraduates show greater belief in Existentialism than secondary undergraduates — related
+- [Four dimensions characterize students' meaning making of immersive VR experiences across all eight reflective group dialogues](four-dimensions-of-vr-meaning-making.md) — related
+- [The editorial reports that immersive VR became a resource for collaborative meaning making through 'emancipatory immersion' (Silseth et al.)](vr-collaborative-meaning-making-emancipatory-immersion.md) — related
+- [Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking](childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) — related
+- [Students attended to bodily expressions of people in the VR film as resources for interpreting emotional states and engaging with their stories](attending-to-bodily-expressions-in-vr.md) — related
+- [Students' own bodily responses to the VR film became resources in reflective dialogue for characterizing emotional reactions and reinterpreting prior experiences](students-own-bodily-responses-vr.md) — related
+- [Students characterized their VR experience through a feeling of taking part in conversations, showing co-presence with the people in the film during collaborative reflection](feeling-of-taking-part-in-vr-conversations.md) — related

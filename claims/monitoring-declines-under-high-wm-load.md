@@ -45,3 +45,6 @@ The review reports, citing Bryce et al. 2023, that a study which "experimentally
 ## Related Claims
 - [At low memory loads, older adults report less uncertainty than younger adults despite making larger errors, suggesting an overconfidence bias](older-adults-overconfident-low-load-vstm.md) — related
 - [A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges](shared-resource-storage-processing-wm.md) — a broader claim this one bears on
+- [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](perceptual-metacognitive-efficiency-declines-with-age.md) — related
+- [Memory metacognitive efficiency shows a non-significant negative relationship with age](memory-metacognitive-efficiency-nonsignificant-age-decline.md) — related
+- [Metacognitive regulation of learning imposes additional cognitive load (metacognitive load) on top of the load of actual learning](metacognitive-load-additional-load.md) — related

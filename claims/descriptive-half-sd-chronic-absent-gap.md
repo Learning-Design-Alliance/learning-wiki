@@ -48,3 +48,4 @@ Preliminary descriptive analysis using boxplots of standardized RIT scores by at
 - [Even moderately absent students (0.1-4.9% of days) start the following year at significantly lower mathematics achievement (.07 to .15 SDs) than no-absence peers](moderate-absence-significant-starting-deficit.md) — related
 - [Each single prior-year absence is associated with a .010 to .016 SD decrease in fall mathematics starting achievement the following year](single-absence-cumulative-fall-math-decline.md) — related
 - [Prior-year absence effects on starting achievement are much smaller in reading than mathematics and non-significant in most grade levels](reading-effects-smaller-nonsignificant-most-grades.md) — related
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — a broader claim this one bears on

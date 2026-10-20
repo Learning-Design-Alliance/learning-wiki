@@ -63,3 +63,9 @@ Individual-level analysis (Table 2) confirmed the group-level result: both condi
 
 ## Related Claims
 - [The two conditions performed comparably in using evidence to support their own position, the less demanding argument function](support-own-evidence-comparable-across-conditions.md) — related
+- [Both partnered and comparison groups advanced in individual dialogic argument skills, demonstrating transfer of higher-order skills from social to individual level](dialogic-practice-social-to-individual-gains.md) — related
+- [Meta-level (meta-strategic and epistemic) talk in the two conditions followed a comparable pattern until reflective activities were introduced, after which the patterns differed](meta-level-talk-diverges-after-reflection-introduced.md) — related
+- [Microgenetic analysis showed the reflection condition diverged from the control condition in Weakening-Other usage only after reflective activities were introduced](microgenetic-divergence-weakening-other-after-reflection.md) — related
+- [Adding reflective activities to dialogic argumentation produced greater content-knowledge gains on the intervention topic than argumentation practice alone](reflection-boosts-topic-knowledge-gains.md) — related
+- [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related
+- [Students became better able to develop arguments even prior to interacting with LLMs, per the authors' interpretation of initial-draft gains](argument-gains-without-llm-support.md) — related

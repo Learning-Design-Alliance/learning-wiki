@@ -52,3 +52,5 @@ The abstract frames the article's contribution against the long-standing view th
 - [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — related
 - [The research program includes related work on summer learning loss and the relationship between school-year gains and summer loss](related-work-summer-loss-and-gain-loss-relationship.md) — a narrower finding that bears on this claim
 - [Learning loss varied considerably by school, with some schools seeing slides of 10 percentile points or more and others recording no losses or small gains](school-level-variation-in-learning-loss.md) — related
+- [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — related
+- [Summer learning loss findings call into question explanations based on summer program access and school-year length](summer-loss-explanations-questioned.md) — related

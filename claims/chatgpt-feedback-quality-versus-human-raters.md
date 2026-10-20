@@ -46,3 +46,4 @@ One-way ANOVA comparing blinded coded ratings of human and ChatGPT feedback on t
 - [Human evaluators' prioritization of essential features was significantly better for low-quality essays than for average- and high-scoring essays](human-prioritization-varies-by-essay-quality.md) — a narrower finding that bears on this claim
 - [ChatGPT feedback quality varied by essay quality: accuracy declined as essay quality rose, prioritization was best for average essays, and supportive tone was lowest for low-quality essays](ai-feedback-quality-varies-by-essay-quality.md) — related
 - [Differences between human and ChatGPT feedback quality were small, with means within one point and partial eta-squared ranging from .01 to .12](small-effect-sizes-human-ai-feedback-differences.md) — related
+- [Peers outperformed ChatGPT in identifying problems within essays](peers-better-problem-identification-feedback.md) — related

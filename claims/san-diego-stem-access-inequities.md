@@ -93,3 +93,4 @@ The report's context section, referencing Figure 2 (annual income by gender and 
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — a narrower finding that bears on this claim
 - [Technology access problems during remote learning fell more heavily on minoritized and lower-income students](covid-stem-tech-access-inequity.md) — related
 - [College enrollment gaps by race, gender, and socioeconomic background among CPS graduates were driven primarily by differences in four-year enrollment](cps-enrollment-gaps-driven-by-four-year-enrollment.md) — related
+- [Lack of diversity in computing stems from social and structural barriers, not ability or interest](structural-barriers-not-ability-limit-computing-diversity.md) — a narrower finding that bears on this claim

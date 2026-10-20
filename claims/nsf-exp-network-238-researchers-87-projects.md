@@ -47,3 +47,7 @@ Social network analysis visualizing investigator relationships, with projects (b
 - Equity and social justice research topics rose in prominence in the NSF EXP portfolio between 2017 and 2021 while research became more AI-focused — related
 - Publications from NSF EXP exploratory projects showed more novel topic pairings than a random sample of publications from the same database — related
 - The most frequent research tags in the NSF EXP portfolio were AI, machine learning, modeling and simulation, formative assessment, and augmented/virtual/mixed reality — related
+- [Epistemic network analysis shows high-learning groups integrate re-annotations with knowledge-confirming discourse more densely than low-learning groups](ena-high-learning-dense-reannotation-discourse-networks.md) — related
+- [Principals in implementation networks reported moderate school improvement from working with external partners and other network schools, attributed largely to teacher collaboration](network-participation-moderate-school-improvement.md) — related
+- [Collaborative learning appeared in 36 funded projects, embodied learning in 15, and identity theories in 9](learning-theory-theme-project-counts.md) — related
+- [Coauthorship analysis of workshop organizers yields a 2,197-author network with six communities, 80% of nodes in the largest three, spanning diverse research lineages](coauthorship-network-six-communities.md) — related

@@ -46,3 +46,6 @@ The same logistic regression models across P1 and P2 found edited voice prompts 
 - [Students perceived text input as superior for accuracy, control, and editability, with transcription errors a key voice drawback](text-perceived-accuracy-control-editability.md) — related
 - [Initial prompting method did not explain immediate success on the third problem (P3)](p3-modality-no-effect.md) — related
 - [Students overwhelmingly used text prompting, and prior modality choice did not predict subsequent choice among dual-mode users](text-dominance-modality-choice-independent.md) — related
+- [A substantial share of builders' voiced design intentions never reaches the typed prompt, leaving design choices to the production stack's defaults](translation-loss-voiced-intents-dropped.md) — related
+- [Greater proportion of voice prompts used correlates moderately with greater stated preference for voice](voice-usage-preference-correlation.md) — related
+- [Students reported mixed, task-dependent perceptions of the efficiency and speed of voice versus text input](mixed-efficiency-speed-perceptions.md) — related

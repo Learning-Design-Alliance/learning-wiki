@@ -47,3 +47,4 @@ Scenario-based interviews with 33 US K-12 teachers; structured cross-scenario re
 - [Teachers describe AI companions as a low-stakes rehearsal space for students who struggle socially, including autistic students](ai-companion-rehearsal-space-struggling-students.md) — related
 - [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related
 - [Teachers draw intervention boundaries by visibility, academic-versus-relational character, and a safety override, not by perceived harm](teachers-jurisdiction-tests-visibility-academic-safety.md) — related
+- [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related

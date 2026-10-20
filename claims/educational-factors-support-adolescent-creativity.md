@@ -67,3 +67,5 @@ The review reports, citing a questionnaire study (N = 658, Taiwan) on mobile lea
 - [Recurring benefits of GenAI in STEAM education include engagement, teacher productivity, and creativity when supported by sound pedagogy](genai-steam-benefits-engagement-productivity.md) — related
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](scaffolding-balance-confusion-versus-critical-thinking.md) — related
 - [Parental factors: autonomous motivation relates to adolescent creativity more strongly with high maternal involvement](maternal-involvement-moderates-autonomous-motivation-creativity.md) — related
+- [Play is characterized by four dispositions: involvement, intrinsic motivation, pleasure, and freedom to modify rules](four-play-dispositions-rubin.md) — related
+- [Open questions for learnity graphs include validation, legitimacy, grading avoidance, algorithmic guidance balance, and privacy](learnity-graph-open-questions.md) — related

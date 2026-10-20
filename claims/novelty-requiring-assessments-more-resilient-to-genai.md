@@ -45,3 +45,6 @@ In the case study, creative application tasks (e.g. describing a novel religion 
 ## Related Claims
 - [Advanced prompting improved the pass rate of AI-generated psychology submissions within a one-hour limit](advanced-prompting-improved-ai-pass-rate.md) — related
 - [Visual media assessments (posters, presentations) were not passable because ChatGPT could not produce complete slides or poster content](visual-media-assessments-not-passable-by-chatgpt.md) — related
+- [ChatGPT produced executed, grader-accepted submissions for all three fixed personalized Qiskit assignment instances in 150 of 150 sessions](chatgpt-completes-all-150-qiskit-homework-sessions.md) — related
+- [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — related
+- [ChatGPT produced submissions judged of passing quality for 36 of 40 undergraduate psychology assessments (90%)](chatgpt-passable-36-of-40-psychology-assessments.md) — related

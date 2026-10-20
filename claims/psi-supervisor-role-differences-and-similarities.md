@@ -50,3 +50,4 @@ The report compares principal supervision in PSI districts with that in other ur
 - [Principal supervisors in PSI districts supervised fewer principals than those in other urban districts](psi-supervisors-supervised-fewer-principals.md) — a narrower finding that bears on this claim
 - [PSI districts were more likely than other urban districts to offer programs for new and aspiring supervisors](psi-districts-offer-new-aspiring-supervisor-programs.md) — a narrower finding that bears on this claim
 - [Stronger working relationships emerged among highest-level central office administrators, but rifts and skepticism about systemic change remained among other staff](central-office-relationships-stronger-at-top-with-rifts-among-other-staff.md) — related
+- [The PSI did not improve teachers' perceptions of principals' performance](psi-no-improvement-teacher-perceptions-of-principals.md) — related

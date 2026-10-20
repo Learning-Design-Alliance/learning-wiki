@@ -45,3 +45,4 @@ The brief states, without printed statistics or cited study designs, that AI hir
 ## Related Claims
 - [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](tech-hiring-process-barriers-ats-experience-mismatch.md) — a narrower finding that bears on this claim
 - Generative AI systems carry strong potential for introduced and inherited bias — a broader claim this one bears on
+- [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related

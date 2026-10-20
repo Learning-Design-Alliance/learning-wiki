@@ -68,3 +68,4 @@ End-of-year survey comparing coached and non-coached teachers in the pilot schoo
 - [DLP-coached teachers reported greater increases in frequency of technology use than non-DLP teachers](dlp-coaching-increases-teacher-technology-use-frequency.md) — related
 - [After one year of DLP coaching, coached teachers reported more frequent and more powerful technology use than non-participating colleagues](dlp-teachers-more-frequent-powerful-technology-use.md) — related
 - [DLP teachers reported more confidence than non-DLP teachers in using technology to develop students' six 21st-century skill categories](dlp-teachers-confident-21st-century-skill-technology-use.md) — related
+- [Learning Studio participation increased students' comfort with, and skills around, the Studio technologies](learning-studios-student-technology-comfort-increase.md) — related

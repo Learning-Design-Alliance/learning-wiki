@@ -43,4 +43,7 @@ The digest reports, citing Butler & Nisan (1986) and Grolnick & Ryan (1987), tha
 
 
 ## Related Claims
--
+- [Digital game-based learning supports long-term retention of second-language vocabulary](dgbl-long-term-vocabulary-retention.md) — related
+- [Generation as the sole desirable difficulty produced no detrimental effect on L2 vocabulary recall, in contrast to prior short-term findings](generation-no-detriment-l2-recall.md) — related
+- [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — related
+- [Grading practices can diminish interest, encourage easier paths, and reduce quality of thinking in maker education](grading-harms-maker-education-outcomes.md) — possibly the same claim (merge candidate)

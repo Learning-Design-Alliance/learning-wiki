@@ -64,3 +64,8 @@ Mediation analysis showed the prompt raised integration avoidance (recall: b = 0
 ## Related Claims
 
 - [An irrelevance prompt eliminates the recall cost of seductive details, supporting the diversion explanation](irrelevance-prompt-eliminates-seductive-details-recall-cost.md)
+- [Extraneous cognitive load did not mediate the detrimental effect of seductive details in this online study](ecl-mediation-not-replicated-online.md) — related
+- [No seductive details effect on transfer was observed, and no definitive conclusions about comprehension effects can be drawn from the multiple-choice transfer data](no-transfer-effect-seductive-details.md) — related
+- [Adding seductive details to multimedia instruction significantly worsens recall of pertinent content compared with instruction without seductive details](seductive-details-worsen-recall-versus-control.md) — related
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
+- [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — a broader claim this one bears on

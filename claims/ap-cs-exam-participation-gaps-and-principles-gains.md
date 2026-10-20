@@ -52,3 +52,4 @@ The paper reports AP exam statistics: girls were 23 percent and underrepresented
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
 - Participating districts report large enrollment gaps in CS courses by income and gender — related
 - [Nine out of ten U.S. parents want their children to learn coding at school](parents-support-coding-google-gallup-2015.md)
+- [High school girls and boys take largely similar math and science coursework, with girls more likely to complete biology and chemistry and boys more likely to complete physics and calculus](gender-parity-high-school-math-science-course-taking.md) — related

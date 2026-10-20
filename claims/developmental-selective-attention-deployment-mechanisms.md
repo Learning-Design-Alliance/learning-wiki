@@ -46,3 +46,7 @@ The review's second section, on the developmental time course of selective atten
 ## Related Claims
 
 - [Selective attention processes are hypothesized to relate to language, literacy, and mathematics, three domains important to early academic skills](selective-attention-links-language-literacy-mathematics.md)
+- [Attention and self-regulation skills are trainable in children, with reported behavioral and neural changes across curricula and intervention programs](attention-training-interventions-evidence-note.md) — related
+- [Children of higher maternal education showed a significantly larger attention effect on neural responses (mean attended–unattended difference 1.7 vs. 0.6 μV)](attention-effect-larger-higher-maternal-education.md) — related
+- [The effect of selective auditory attention on early neural processing differs between children of higher and lower maternal education (significant group × attention interaction within 100–200 msec)](erp-group-attention-interaction-maternal-education.md) — related
+- [The group difference in neural attentional modulation is tied to reduced distractor suppression in the unattended channel, not to differences in response to attended stimuli](ses-distractor-suppression-deficit-not-signal-enhancement.md) — related

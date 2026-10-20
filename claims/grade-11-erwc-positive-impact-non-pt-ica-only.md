@@ -46,3 +46,4 @@ Student-level randomized controlled trial in 17 schools in the 2020/21 Evaluatio
 - [In the grade 12 quasi-experimental evaluation, there was no statistically significant difference in achievement between ERWC and comparison students for either the Non-PT ICA or the PT ICA sample](grade-12-erwc-no-significant-impact.md) — related
 - [Teachers viewed the ERWC 3.0 as an improved curriculum that promoted high student engagement and supported students' academic and personal growth](teachers-viewed-erwc-3-engaging-and-growth-supporting.md) — related
 - [Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks](summative-assessment-dual-function-measure-and-support-learning.md) — related
+- [The positive ERWC impact on EPT scores is robust to sensitivity analyses varying matching methods and analytic sample composition](erwc-impact-robust-sensitivity-analyses.md) — related

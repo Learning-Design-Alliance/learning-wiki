@@ -45,3 +45,4 @@ The review's first stated goal: it identifies "the main difficulties that learne
 ## Related Claims
 - [Material-oriented interventions such as complexity reduction, cueing/signaling, and text-picture integration are empirically tested support procedures for visual displays](material-oriented-interventions-tested.md) — related
 - [Learner-oriented interventions such as training of learning prerequisites, pre-training, and prompting are empirically tested support procedures for visual displays](learner-oriented-interventions-tested.md) — related
+- [Higher education students struggle to identify appropriate data representations for AI model training](students-struggle-data-representation-ai-training.md) — a narrower finding that bears on this claim

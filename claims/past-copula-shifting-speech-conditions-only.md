@@ -47,3 +47,4 @@ Among the three morphemes examined in 17 intermediate L2 learners' narratives, t
 - [L2 learners style-shift in past tense accuracy within narrative discourse according to the amount of planning time available](style-shifting-past-tense-planning-time-narrative.md) — a broader claim this one bears on
 - [Regular past tense accuracy is greatest in planned writing, intermediate in planned speech, and least in unplanned speech](regular-past-accuracy-planned-writing-highest.md) — reports the opposite
 - [The three planning conditions produced different accuracy orders for regular and irregular past, questioning the stability of the natural order](condition-dependent-accuracy-orders-natural-order-unstable.md) — related
+- [Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style](monitoring-improves-learnable-rule-accuracy.md) — related

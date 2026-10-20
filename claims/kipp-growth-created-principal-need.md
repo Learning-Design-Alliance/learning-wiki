@@ -47,3 +47,4 @@ Descriptive statement from the publication's overview of KIPP's expansion. The a
 - [Coaches and principals in the DLP grew in confidence and skills over the year](dlp-coach-principal-growth.md) — related
 - [Middle grades principals have lasting effects on students' high school outcomes and young-adult life outcomes, beyond contemporaneous achievement effects](middle-grades-principals-lasting-effects-student-outcomes.md) — related
 - [KIPP identifies principal candidates primarily from a talent pool of assistant principals, similar to the approach used by school districts](kipp-principal-candidates-from-ap-talent-pool.md) — related
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — a broader claim this one bears on

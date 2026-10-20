@@ -48,3 +48,4 @@ Analysis of CAASPP assessment data for 2022–23 shown in Figures 14–17. The r
 - [Schools with higher concentrations of LTEL7 students have higher chronic absenteeism, lower graduation rates, and fewer fully certified teachers](ltel7-school-context-disadvantages.md) — related
 - [Students designated as LTEL7 who reached the recommended CAASPP ELA achievement cut point were not yet reclassified as fluent English proficient](ltel7-caaspp-ela-met-not-reclassified.md) — related
 - [Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers](rural-counties-higher-ltel7-proportions.md) — related
+- [English learners lag behind their peers in achievement and attainment; limited exposure to academic content is offered as a partial explanation, not tested](el-lag-limited-academic-content-exposure.md) — a broader claim this one bears on

@@ -45,3 +45,5 @@ The brief reports this second-hand, citing a mindfulness in schools research pro
 
 - [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — the general claim this finding bears on, with the studies behind it
 - Children in Constructivist kindergarten classrooms showed greater effort resolving interpersonal conflicts than children in eclectic or didactic classrooms — related
+- [Effects of school-based mindfulness interventions differ according to whether delivery is by an outside facilitator or by trained educators/teachers](mindfulness-facilitator-type-moderates-effects.md) — related
+- [All participating girls reported parents helping them navigate school-based conflict, with parents advising silence or non-engagement as a protective strategy](parental-silence-advice-protective-school-conflict.md) — related

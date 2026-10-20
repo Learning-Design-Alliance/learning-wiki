@@ -46,3 +46,6 @@ Case example from the hummus cultural-appropriation discussion (Findings §4.2).
 
 - [LlamaLo added knowledge in almost every post, mostly correct, and most posts were internally coherent](llamalo-knowledge-addition-coherence.md)
 - [LlamaLo occasionally employed an aggressive or sarcastic tone, sometimes without user provocation, though it changed tone after being commented on](llamalo-negative-tone-challenge.md)
+- [The fine-tuned chatbot LlamaLo extensively expanded the user's dialogic space through deepening and widening acts across ten contentious-topic discussions](llamalo-expanded-user-dialogic-space.md) — related
+- [Post-training alignment methods may induce sycophancy that deteriorates GenAI models' ability to disagree and push back](sycophancy-limits-genai-pushback.md) — a broader claim this one bears on
+- [General-purpose LLMs show sycophancy: AI responses affirmed users substantially more than human responses, increasing trust and reducing willingness to take responsibility](llm-sycophancy-affirmation-trust-risk.md) — related

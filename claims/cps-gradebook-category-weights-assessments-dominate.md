@@ -51,3 +51,6 @@ Descriptive analysis of section/category family/student records (N=86,533, Table
 - [In eSpark quests requiring three post-quiz attempts, students reached the 80 percent mastery criterion only 14 percent of the time](espark-post-quiz-mastery-failure-rate.md) — related
 - [Students report that tests dominate assessment, carry too much weight, and create stress, while extended performance-based assessments offer better opportunities to learn and showcase learning](students-report-tests-dominate-and-overweight-grades.md) — related
 - MLME student grades improved across the three course years, shifting from a 60–85 range with a median around 75 in Fall 2021 to concentrations in the high 80s and low 90s by Fall 2023 — related
+- [Most CPS ninth-grade math teachers used two or three grading category families, averaging 2.43 families per section](cps-gradebook-two-or-three-category-families.md) — related
+- [Student mastery increased modestly from 17.5% to 19.2% during TEAM Student implementation](student-mastery-increase-team-student.md) — related
+- [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](gender-gap-varies-by-grading-category-family.md) — related

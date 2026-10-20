@@ -46,3 +46,4 @@ Third-party accreditation reported in Section IV-C: NASBA National Registry revi
 - [Existing upskilling frameworks accelerate single stages and leave four gaps: fragmentation, missing verification, shallow default LLM pedagogy, and lack of external outcome measurement](four-gaps-existing-upskilling-frameworks.md) — related
 - Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials — related
 - Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials — related
+- [Three learners who studied only the framework's knowledge base all passed the NVIDIA Certified Professional in Agentic AI exam](three-learners-passed-ncp-aai-knowledge-base-only.md) — related

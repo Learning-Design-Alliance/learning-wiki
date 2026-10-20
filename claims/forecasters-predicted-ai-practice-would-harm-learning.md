@@ -44,3 +44,4 @@ Pre-registered forecasting study (N=150) in which participants saw screenshots o
 
 ## Related Claims
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) — related
+- [Effort forecasting is driven by recent engagement activity while progress forecasting depends more on learner-centered signals such as ability, difficulty, and consistency](effort-vs-progress-distinct-feature-drivers.md) — related

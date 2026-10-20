@@ -55,3 +55,4 @@ Qualitative analysis of transcript episodes in which students described shorter 
 - Synchronized collective behaviors oriented to strips and worksheets dynamically stabilize the students' initial activity and thinking — related
 - Spreading activation's semantic distance effect is inconsistent: a cow is verified faster as an animal than as a mammal despite semantic distance — related
 - [Linguistic coherence predicts productive collaboration, strengthened by joint visual attention data](linguistic-coherence-predicts-productive-collaboration.md) — related
+- [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related

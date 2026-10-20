@@ -53,3 +53,10 @@ Narrative review synthesis of studies on adversity intensity. The review reports
 - [The probability of school failure increases as a function of the timing and length of children's exposure to relational adversity](cumulative-relational-adversity-school-failure.md) — related
 - [Lower SES adolescents show greater stress-related increase in serotonin transporter gene methylation, associated with greater amygdala reactivity and depression symptoms](ses-linked-methylation-amygdala-reactivity-depression.md) — related
 - [Parenting quality and life stress fully mediate the relationship between SES and children's hippocampal volume](stress-parenting-mediate-ses-hippocampal-volume.md) — related
+- [Exposure to adverse early circumstances affects the developing brain in ways that increase risk for later problems](adversity-affects-developing-brain-increasing-risk.md) — a broader claim this one bears on
+- [Children exposed to early adversity are at increased risk for a broad range of developmental difficulties affecting both cognitive and emotional adjustment](early-adversity-increases-developmental-risk-cognitive-emotional.md) — a broader claim this one bears on
+- [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related
+- [Lower-SES adolescents have smaller hippocampal and DLPFC volumes but do not differ in caudate volumes](ses-hippocampus-dlpfc-not-caudate-volumes.md) — related
+- [Threat-related psychopathology associations appear more consistently mediated by stress response systems than deprivation-related ones](threat-mediated-stress-response-deprivation-less-so.md) — related
+- [Cumulative stress predicts adult outcomes beyond specific stressor types in longitudinal studies](cumulative-adversity-predicts-adult-depression-cortisol.md) — related
+- [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](poverty-cortisol-executive-function-mediation.md) — related

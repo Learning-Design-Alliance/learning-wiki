@@ -63,3 +63,6 @@ Experiment 3 replicated the nil effect of EOL task with 64 participants, F(1, 56
 
 ## Related Claims
 - [Presentation format (sequential vs. simultaneous) does not reliably affect EOL accuracy](presentation-format-no-effect-on-eol-accuracy.md) — a narrower finding that bears on this claim
+- [EOL judgments rely heavily on semantic relatedness, whose predictive validity appears to cap attainable EOL accuracy](semantic-relatedness-cue-caps-eol-accuracy.md) — related
+- [EOL relative accuracy is reliably higher when correlated with a binary recall criterion than with a trials-to-learn criterion](binary-criterion-higher-eol-accuracy-than-ttl-criterion.md) — related
+- [EOL judgments are highly accurate when items vary widely in difficulty within a list, but poorly accurate when variation is small](eol-accuracy-depends-on-within-list-difficulty-variability.md) — related

@@ -53,3 +53,9 @@ Reliability analysis in Study One (N = 293) using Cronbach's alpha on the finali
 - [The TQsrl and SQsrl questionnaires are validated instruments measuring SRL sub-processes with emphasis on reflection](t-sqsrl-validated-srl-questionnaires.md) — related
 - [The MAKQ self-knowledge items show a stable two-factor structure: meta-attention control (15 items) and meta-attention monitoring (5 items)](makq-two-factor-self-knowledge-structure.md) — related
 - [Most subscale reliabilities of the task-specific questionnaire were moderate to low (three of four subscales with 16 students, all four with 190), despite acceptable full-instrument reliability](task-specific-questionnaire-low-subscale-reliabilities.md) — related
+- [Existing online SRL questionnaires show reliability problems, with most having at least one scale outside the acceptable Cronbach's alpha range](existing-online-srl-scales-reliability-issues.md) — related
+- [Self-report subscales do not reliably assess distinct metacognitive subcomponents, with structures of two to nine components found across studies](self-report-subcomponents-unreliable.md) — related
+- [MAKQ dimensions show convergent validity with parent-rated attention and executive functioning (moderate-to-strong negative correlations)](makq-convergent-validity-parent-measures.md) — related
+- [MAKQ strategy knowledge, but not the self-perception scales, converges with behavioural inhibitory control on the Go-No-Go task](makq-strategy-knowledge-inhibitory-control.md) — related
+- [CMS shows acceptable test-retest reliability and internal consistency](cms-reliability-icc-alpha.md) — related
+- [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](skt-srl-reliability.md) — related

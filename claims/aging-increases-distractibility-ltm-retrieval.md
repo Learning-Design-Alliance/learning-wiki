@@ -71,3 +71,4 @@ Mixed-design ANOVA on conditional correct scores in the older-adult study; betwe
 - [Perturbing left VLPFC with rTMS exacerbates the disruptive effect of visual distraction on episodic retrieval, indicating a causal role in resolving interference](rtms-vlpfc-exacerbates-distraction-effect.md) — related
 - [Auditory distraction disrupts episodic retrieval equivalently to visual distraction, indicating a domain-general interference effect in long-term memory](auditory-distraction-domain-general-ltm-interference.md) — related
 - [Older adults show performance decrements in divided-attention visual localization tasks, exacerbated by distractors and greater eccentricity, despite intact central-task performance](older-adults-divided-attention-distractor-decrements.md) — related
+- [Distraction during maintenance impairs working memory, with distractor processing inversely related to recognition accuracy](distraction-during-maintenance-impairs-wm.md) — related

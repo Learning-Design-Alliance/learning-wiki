@@ -44,3 +44,4 @@ The authors' interpretation in the Discussion section, drawn from the retrieved 
 
 ## Related Claims
 - [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](capt-strong-segmentals-weak-prosody.md) — related
+- [Most staff respondents had used a GAI tool, but few held paid subscriptions, suggesting limited sustained engagement](low-sustained-gai-engagement-staff.md) — related

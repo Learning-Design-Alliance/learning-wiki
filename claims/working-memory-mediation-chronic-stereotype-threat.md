@@ -46,3 +46,5 @@ Moderated multiple serial mediation models with 95% confidence intervals tested 
 - [Intellectual helplessness mediates the relation between chronic stereotype threat and mathematical achievement only for highly gender-identified girls](intellectual-helplessness-mediation-stereotype-threat.md) — related
 - [Sequential mediation through both intellectual helplessness and working memory is not significant](no-sequential-mediation-helplessness-working-memory.md) — related
 - [Social identity threat impairs math performance via increased intrusive thoughts and working memory load (being-cognition disfluency)](social-identity-threat-working-memory-performance.md) — related
+- [Negative stereotype salience combined with high ethnic self-identification inhibits academic performance, while positive stereotypes facilitate it](stereotype-threat-ethnic-identity-performance.md) — related
+- [The threat-by-gender pattern in reading occurred only among highly-identified students](stereotype-threat-reading-only-highly-identified.md) — related

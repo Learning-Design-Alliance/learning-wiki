@@ -46,3 +46,4 @@ Review's synthesis of six school-setting studies (D2-test, on-task observation, 
 - [Evidence for effects of acute bouts of physical activity on children's attention is weak and inconclusive](acute-physical-activity-children-attention-weak-evidence.md) — related
 - [Age may moderate acute PA effects on attention: effects appeared for 9–10 year olds but not 7–8 year olds](age-moderates-pa-attention-effect.md) — related
 - [Type of PA may moderate acute effects: coordinative exercises outperformed a normal PE lesson of the same intensity](coordinative-exercises-attention-advantage.md) — a narrower finding that bears on this claim
+- [Five of six laboratory studies found significant effects of acute PA on cognitive control of attention, mainly on accuracy not reaction time](laboratory-studies-acute-pa-attention-accuracy.md) — related

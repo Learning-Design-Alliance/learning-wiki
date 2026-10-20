@@ -71,3 +71,4 @@ Thematic analysis of participant-advisor reflections on showcased LER technologi
 - [HSE learners and workers saw consolidated records, job matchmaking, convenience, auto-translation, and career search as top LER opportunities](top-perceived-ler-opportunities.md) — related
 - [Inaccurate and disjointed information from third-party transcript integrations was a pervasive onboarding problem](transcript-integration-inaccuracies-pervasive.md) — a narrower finding that bears on this claim
 - [HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions](top-wanted-transition-supports.md) — related
+- [A significant portion of participants said they would have exited LER onboarding without live human support](live-support-prevents-ler-onboarding-exit.md) — related

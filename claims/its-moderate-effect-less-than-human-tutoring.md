@@ -48,3 +48,5 @@ This is a meta-analytic finding cited within the review's ITS synthesis section.
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — possibly the same claim (merge candidate)
 - ChatGPT's effect on higher-order thinking is moderated by course type and by ChatGPT's role, with the intelligent-tutor role showing the largest effect — related
 - [Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions](its-meta-analytic-positive-outcomes.md) — possibly the same claim (merge candidate)
+- [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](its-mature-implementation-personalized-learning.md) — related
+- [A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related

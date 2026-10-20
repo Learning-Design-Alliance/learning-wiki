@@ -48,3 +48,6 @@ Quantitative finding from CPS postsecondary data on college application behavior
 - [Application, not acceptance, is the primary barrier preventing CPS students from enrolling in four-year colleges](application-not-acceptance-primary-barrier-cps-college-enrollment.md) — related
 - [Among selective enrollment students, 64 percent are qualified to attend a selective or very selective college but only 37 percent enroll in one](cps-selective-enrollment-qualification-enrollment-mismatch.md) — related
 - [Students with strong qualifications took themselves out of four-year college planning, choosing early two-year enrollment as a low-risk solution when searches felt overwhelming and costly](early-two-year-low-risk-solution.md) — related
+- [College undermatch is widespread among CPS students at all qualification levels, with only 27 percent of selective-access graduates matching](college-undermatch-widespread-all-qualification-levels-cps.md) — related
+- [Even highly qualified students need strong parental support combined with structured school support to conduct an effective college search and enroll in a matched college](parental-and-structured-school-support-college-search.md) — related
+- [Among similarly qualified seniors, the high school attended largely determines coursetaking patterns](school-determines-senior-coursetaking.md) — related

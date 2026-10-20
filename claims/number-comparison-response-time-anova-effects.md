@@ -48,3 +48,5 @@ Response-time ANOVA from the behavioral results of the same fMRI experiment. The
 - [Neither numerical training significantly improves Arabic number comparison performance](no-training-effect-arabic-number-comparison.md) — related
 - [In a number comparison task, adults outperform 6- to 7-year-old children in accuracy, Arabic numerals are easier than dot arrays, and easy 0.5 ratios are easier than difficult 0.8 ratios](number-comparison-accuracy-group-notation-ratio-effects.md) — related
 - [The numerical ratio effect in BOLD activity appears in superior parietal cortex in adults but in inferior frontal gyrus, precentral gyrus, and thalamus in children, with no group-level parietal ratio effect in children](ratio-effect-bold-regions-differ-developmentally.md) — related
+- [Numerosity comparison accuracy is ratio-dependent across grades three to five](numerosity-accuracy-ratio-dependent-grades-3-5.md) — related
+- [Accuracy on approximate addition decreases as ratio approaches 1, with a stronger ratio effect on the non-symbolic task](ratio-effect-approximate-addition.md) — related

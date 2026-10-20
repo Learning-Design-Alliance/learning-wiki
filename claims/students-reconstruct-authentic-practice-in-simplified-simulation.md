@@ -43,4 +43,8 @@ From the analysis of Excerpt 1: the student applies a lifting technique (lifting
 
 
 ## Related Claims
--
+- [Students in simulator training encounter a progression from simplified low-fidelity tasks to more complex higher-fidelity tasks as a deliberate instructional logic.](simulator-task-progression-low-to-high-fidelity.md) — related
+- [VET teachers use the real machine as the benchmark of legitimacy for simulator instruction and shift between teacher and future-colleague positions.](real-machine-benchmark-and-colleague-positioning.md) — related
+- [Simulator-based VET instruction in this study centres on volume training of routine tasks rather than rehearsing specific high-stakes, risky situations.](vet-simulator-instruction-volume-training-not-high-stakes.md) — related
+- [Simulator feedback responds authentically to student error, e.g. logs fall from the cargo when the grapple is opened incorrectly.](simulator-authentic-error-feedback-log-drops.md) — related
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on

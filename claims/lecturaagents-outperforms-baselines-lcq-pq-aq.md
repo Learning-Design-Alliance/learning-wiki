@@ -46,3 +46,5 @@ Comparative evaluation using the same expert-rubric method on 20 lectures per fr
 - [In a small efficacy study, students using LecturaAgents showed the strongest post-learning assessment performance across learner groups](lecturaagents-efficacy-study-assessment-gains.md) — related
 - [Frontier-model choice affects LecturaAgents performance, with Gemini 3 Pro ranking first at 80.4% AAR](lecturaagents-frontier-model-evaluation-aar.md) — related
 - [Students using LecturaAgents reported stronger perceived understanding, assessment readiness, and future learning support than comparison-tool users](lecturaagents-student-survey-perceptions.md) — related
+- [Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation](agentic-multi-agent-systems-lack-empirical-validation.md) — related
+- [Embodied teaching actions are spatially accurate across models, but temporal action–speech alignment remains more variable](lecturaagents-taq-spatial-strong-temporal-variable.md) — related

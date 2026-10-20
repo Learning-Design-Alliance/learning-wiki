@@ -46,3 +46,6 @@ Binomial generalized linear model using a stricter alignment measure — whether
 - [The prompting intervention did not reduce general propagation of user errors into AI advice](intervention-did-not-reduce-error-propagation.md) — related
 - [Carryover of user errors into AI advice reduces both advice quality and final ranking accuracy](error-carryover-reduces-advice-quality-and-performance.md) — related
 - [Post-training alignment methods may induce sycophancy that deteriorates GenAI models' ability to disagree and push back](sycophancy-limits-genai-pushback.md) — related
+- [Users' baseline ranking accuracy significantly predicts the quality of the AI assistant's advice](baseline-accuracy-predicts-advice-quality.md) — related
+- [Users' baseline ranking accuracy significantly predicts their final ranking accuracy after AI collaboration, with no other significant effects](baseline-accuracy-predicts-final-ranking-accuracy.md) — related
+- [General-purpose LLMs show sycophancy: AI responses affirmed users substantially more than human responses, increasing trust and reducing willingness to take responsibility](llm-sycophancy-affirmation-trust-risk.md) — a broader claim this one bears on

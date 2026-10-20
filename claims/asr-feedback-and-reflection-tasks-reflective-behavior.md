@@ -62,3 +62,4 @@ Same SEM path analysis of the 325-response questionnaire survey. Reflection task
 - [Reflective behavior and learning motivation each significantly predict oral proficiency improvement in ASR-assisted instruction](asr-reflection-motivation-predict-oral-gains.md) — related
 - [ASR usage frequency moderately predicts reflective behavior but does not significantly predict learning motivation](asr-usage-frequency-reflection-not-motivation.md) — related
 - [Language proficiency significantly moderates the effect of reflective behavior on oral proficiency improvement, with the effect non-significant at low proficiency](proficiency-moderates-reflection-oral-gains.md) — related
+- [Language proficiency significantly moderates the effect of learning motivation on oral proficiency improvement](proficiency-moderates-motivation-oral-gains.md) — related

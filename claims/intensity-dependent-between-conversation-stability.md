@@ -48,3 +48,4 @@ Experiment I pooled distributions across 50 independent runs, five models, and t
 - [Scripted conversations with recurring task-relevant prompts nearly eliminate observer-rated persona drift, up to a 97% reduction for high-intensity education personas](scripted-interaction-eliminates-observer-drift.md) — related
 - [LLM-simulated students' self-reported ADHD persona scores remain stable throughout extended multi-turn conversations](llm-persona-self-report-stable-within-conversation.md) — related
 - [Model family and prompt format moderate the level of simulated ADHD persona expression](model-and-prompt-moderate-persona-expression.md) — related
+- [LLM observer ratings converge excellently with human expert judgments in applying the CAARS observer instrument to generated narratives](llm-observer-ratings-converge-with-human-experts.md) — related

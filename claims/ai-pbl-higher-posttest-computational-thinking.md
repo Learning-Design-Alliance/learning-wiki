@@ -69,3 +69,10 @@ Simple main effects follow-up from the same ANCOVA study, reported in the Result
 - [Effectiveness of CT instruction varies with year level: first-year students benefited most under general or infusion approaches](year-level-moderates-ct-instruction-effectiveness.md) — related
 - [In an unscaffolded GenAI-permitted instructional design course, the control group outperformed the experimental group on posttest instructional design performance](unscaffolded-genai-lower-instructional-design-performance.md) — related
 - [Effects of P(j)BL on CT are mixed across studies, with positive, null, and negative findings reported](pjbl-ct-effects-mixed.md) — related
+- [STEM students using real-time AI feedback achieved nearly double the mean gain score of students receiving conventional human-led instruction](ai-feedback-nearly-doubles-technical-skill-gain-kwara.md) — related
+- [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
+- [Inquiry skills improved significantly only in the computer-based inquiry group, which outperformed the regular-classroom group at posttest](computer-based-ibl-inquiry-skills-gains.md) — related
+- [More years of coding experience were associated with better performance in AI-supported PBL courses (exploratory)](coding-experience-associated-with-pbl-performance.md) — related
+- [Student engagement is higher during PBL than during traditional instruction](pbl-engagement-higher-than-traditional.md) — related
+- [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related
+- [The post-test advantage of generative AI-supported instruction persists after controlling for pre-test performance (ANCOVA)](genai-geometry-ancova-group-effect.md) — related

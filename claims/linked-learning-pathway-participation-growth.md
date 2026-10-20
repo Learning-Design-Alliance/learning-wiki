@@ -44,3 +44,6 @@ Descriptive district data reported in the district progress section: participati
 
 ## Related Claims
 - [Survey data indicate the ability signal had informational value, leading students to revise self-assessed ability and AP plans consistent with Bayesian learning](ability-signal-informational-value-bayesian-updating.md) — related
+- [New Mexico CTE enrollment shows breadth over depth and demographic underrepresentation, with females only 19% of STEM CTE enrollment versus 49% of the total population](new-mexico-cte-enrollment-breadth-and-equity-gaps.md) — related
+- [The percentage of secondary students reporting high school connectedness on the CHKS increased from 32 percent to 36 percent](cal-well-dnusd-student-school-connectedness-increase.md) — related
+- [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related

@@ -47,3 +47,6 @@ Review synthesis of McClure's (2024) quantitative cohort comparison (n = 181 acr
 - [Test engagement was high across all grades on fall 2020 MAP Growth tests in both administration modes](map-growth-fall-2020-high-test-engagement.md) — related
 - [Remote proctoring is perceived as an effective deterrent against cheating in nursing assessments, with 98–100% of graduate NP students agreeing webcam proctoring and lockdown browsers deterred cheating](remote-proctoring-perceived-deterrent-nursing.md) — related
 - [Remote proctoring supported assessment continuity and uninterrupted student progression during institutional closures](remote-proctoring-supported-continuity-closures.md) — related
+- [Remote and in-person fall 2020 MAP Growth tests show comparable psychometric characteristics and indicators of test quality](remote-in-person-map-growth-comparability-fall-2020.md) — reports the opposite
+- [American Indian/Alaska Native students showed higher disengagement under remote testing than in-school testing](american-indian-alaska-native-higher-disengagement-remote.md) — related
+- [Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations](mixed-anxiety-remote-proctored-exams.md) — related

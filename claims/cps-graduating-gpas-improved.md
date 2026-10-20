@@ -49,3 +49,4 @@ Descriptive analysis of unweighted core-course GPA distributions for CPS graduat
 - CPS graduates' academic qualifications improved steadily from 2003 to 2015, with districtwide ACT rising from 16.97 to 18.81 and GPA from 2.16 to 2.56 — related
 - Rising CPS graduation rates have been accompanied by higher achievement, including ACT and GPA gains — related
 - [Chicago graduation rates improved 17 percentage points (57 to 74 percent) between 2006 and 2015 while the ACT average rose from 17.6 to 18.5](cps-graduation-rate-57-to-74-act-rose.md) — related
+- [Only CPS graduates with access to very selective colleges (above 3.3 GPA and ACT 26+) have four-year college graduation prospects exceeding 50 percent](high-qualifications-needed-for-majority-graduation-odds.md) — related

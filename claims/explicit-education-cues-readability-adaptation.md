@@ -64,3 +64,4 @@ Cross-condition comparison of the QA readability results: under implicit conditi
 ## Related Claims
 - [Higher stated education and SES levels receive responses with more positive sentiment, an implicit bias that can disadvantage lower-education users](education-ses-sentiment-bias-qa.md) — related
 - [Implicit demographic conditioning inflates AES scores in some models, with Llama-70B scores rising 1.57 points over its own default, while GPT models remain stable](implicit-conditioning-inflates-aes-scores-llama-70b.md) — related
+- [Implicit demographic cues produce larger and less predictable effects in open-ended tasks, including longer responses for laptop users and education-related length effects](implicit-cues-unpredictable-effects-open-ended-tasks.md) — related

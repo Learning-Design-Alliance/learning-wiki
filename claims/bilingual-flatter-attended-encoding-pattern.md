@@ -46,3 +46,6 @@ Pairwise between-group comparisons of attended-stream reconstruction accuracy pe
 
 - [Monolingual and bilingual children perform the dichotic comprehension task equivalently, with both groups finding English–English interference hardest](equivalent-comprehension-monolingual-bilingual-children.md)
 - [Unattended Musical Rain streams were better reconstructed than unattended linguistic distractors in both groups, with stronger MuR encoding in monolinguals](unattended-mur-stronger-encoding.md)
+- [Bilingual children perform worse than monolinguals on attention tasks with verbal stimuli but not non-verbal ones](verbal-stimuli-bilingual-worse-attention-tasks.md) — related
+- [Selective attention improves neural encoding of attended speech envelopes in children aged 7–12](attention-improves-speech-envelope-encoding-children.md) — related
+- [The study found no evidence for enhanced attentional capacity in bilingual children, behaviourally or neurally](no-bilingual-attentional-capacity-enhancement.md) — possibly the same claim (merge candidate)

@@ -43,4 +43,6 @@ The editorial's synthesis of the special issue's qualitative studies (forestry, 
 
 
 ## Related Claims
--
+- [System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines](breakthrough-system-reconfiguration-actors-routines.md) — a broader claim this one bears on
+- [GenAI reconfigures group knowledge development from individual to distributed, AI-co-constructed processes](genai-reconfigures-group-knowledge-development.md) — related
+- [Digital mapping tools slow down students' judging and categorizing of online material, prompting collaborative negotiation of how to make sense of a controversy](mapping-tools-slow-categorization-negotiation.md) — related

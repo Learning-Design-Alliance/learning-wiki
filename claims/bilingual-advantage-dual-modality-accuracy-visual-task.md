@@ -66,3 +66,4 @@ Follow-up analysis within the dual-modality condition of the same experiment. "C
 - [Bilingual children show no reaction time cost for their dual-task accuracy advantage](no-rt-cost-bilingual-dual-task-advantage.md) — related
 - [Monolingual and bilingual children perform comparably on single-modality classification tasks in accuracy and speed](no-group-difference-single-modality-classification.md) — related
 - [Match trials are more accurate and faster than mismatch trials in the dual-modality task, with no language group difference](congruence-effect-dual-modality-no-group-difference.md) — reports the opposite
+- [The dual-task condition is more difficult than the single-task condition, with a condition-by-modality interaction in reaction time](dual-task-difficulty-condition-modality-interaction.md) — related

@@ -47,3 +47,4 @@ Moderator analysis of scaffold mode across the 29 studies: 25 studies coded doma
 - [Multiple kinds of scaffolds are more effective than a unique scaffold for academic performance](multiple-scaffolds-outperform-unique.md) — related
 - [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](srl-scaffolds-positive-effect-academic-performance.md) — related
 - [Scaffolds supporting the whole SRL process are more helpful than scaffolds supporting a single phase](whole-process-srl-scaffolding-more-effective.md) — related
+- [Student learning activity combined domain-specific academic practices and generic skill practices, supported partly by teachers' scaffolding and partly by self-organized group work](combined-scaffolding-and-self-organized-group-work.md) — related

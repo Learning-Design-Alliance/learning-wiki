@@ -51,3 +51,6 @@ Moderator analyses (mixed-effects model) comparing studies with versus without g
 - [Time pressure weakens monitoring-based self-regulation of study time: gamma correlations between judgments of learning and study time are stronger in the untimed than the timed condition](time-pressure-weakens-self-regulated-study-time-allocation.md) — related
 - [In the multivariate meta-regression, goal-driven manipulation, judgment timing, and task type remain significant moderators](meta-regression-unique-moderators.md) — related
 - [Effort and monitoring judgments show a medium negative correlation (r = −.355) during learning](negative-effort-monitoring-correlation-meta-analysis.md) — related
+- [Task type moderates the correlation: problem-solving tasks show a stronger negative association than word/paired-associate tasks](problem-solving-tasks-stronger-negative-correlation.md) — related
+- [Monitoring judgment timing moderates the correlation: concurrent judgments show a stronger negative association than prospective judgments](concurrent-stronger-than-prospective-judgments.md) — related
+- [Forced pacing eliminates positive transfer from computer aiding and leads subjects to use strategies requiring many more tests than necessary](forced-pacing-eliminates-aiding-transfer.md) — related

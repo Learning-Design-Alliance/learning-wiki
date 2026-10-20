@@ -44,3 +44,5 @@ Multimodal interaction analysis of Episode 2, in which the instructor, monitorin
 
 ## Related Claims
 - [Analog artefacts such as the nautical paper chart serve as public inscriptions and arenas for reasoning about rule following, making students' intentions assessable to instructors and teammates](paper-chart-inscription-assessment-arena.md) — related
+- [Feedback in full-mission simulator training is delivered through recurring, multidimensional, multimodal feedback cycles built on instructors' embedded assessments of the fit between learning objectives and the ongoing task](multimodal-feedback-cycles-embedded-assessment-simulator.md) — a broader claim this one bears on
+- [Recurring movements between professional (in-role) and educational (out-of-role) contexts during simulation are important for simulator training to fulfil its pedagogical potential](role-shifts-between-professional-and-educational-contexts.md) — related

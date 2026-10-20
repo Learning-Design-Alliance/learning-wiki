@@ -64,3 +64,5 @@ Main-study moderation models on learning gains (Table 9) were non-significant: N
 ## Related Claims
 
 - [In the main study, wiki contribution frequency indirectly mediated the effect of script on post-test learning, while the direct script effect was not significant](contribution-frequency-mediates-script-learning.md)
+- [In the main study, learning gains from pre-test to post-test were not directly influenced by the collaboration script, though all students improved significantly over time](script-no-direct-effect-learning-gains.md) — related
+- [In the main study, the DDR script induced far more talk-page discussion contributions and fewer article edits than the BRD script](ddr-script-more-discussions-fewer-edits.md) — related

@@ -46,3 +46,4 @@ Baseline difference-in-differences heterogeneity analysis interacting parental e
 - COVID-19 learning losses are expected to be concentrated in the early grades and among students who were already struggling before the pandemic — a broader claim this one bears on
 - [Children with poorer parents suffer more, and children of high school educated parents experience the largest welfare losses](ses-heterogeneity-welfare-losses-closures.md) — related
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — a broader claim this one bears on
+- [A 2021 review series aims to provide a definitive account of the best available evidence on how the COVID-19 pandemic affected America's students academically](pandemic-academic-miss-evidence-review-series.md) — a broader claim this one bears on

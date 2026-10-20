@@ -47,3 +47,4 @@ Survey of Cohort 1 students reported in the study characteristics section; the s
 - [Bottom Line increases progression in college (continuous enrollment for three semesters after high school)](bottom-line-increases-progressing-in-college.md) — related
 - The supporting evidence for Bottom Line comes from a randomized controlled trial that meets WWC group design standards without reservations — related
 - [Bottom Line increases enrollment in a four-year college among low-income high school students](bottom-line-increases-four-year-college-enrollment.md) — related
+- [Talent Search participants were more likely than matched comparison students to apply for federal financial aid](talent-search-more-likely-apply-federal-financial-aid.md) — related

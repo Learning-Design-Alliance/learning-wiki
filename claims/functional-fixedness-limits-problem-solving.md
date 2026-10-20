@@ -71,3 +71,5 @@ Functional fixedness and response set are both failures of problem representatio
 - Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. — related
 - The monograph relates beliefs about learner, purpose, content, and learning process to three learning models: problem-solving, acquiring content, and self-actualization — related
 - [Well-defined tasks and accessible materials support shared creative influence in group work](well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) — related
+- [In water-jug problems, presenting information about available moves and their consequences did not enhance planning, though looping moves reliably decreased](move-availability-information-did-not-enhance-water-jug-planning.md) — related
+- [Detailed case study shows a spell checker's affordances are enacted in rich, creative ways beyond designers' intentions](spell-checker-situated-affordances.md) — related

@@ -67,3 +67,5 @@ Accuracy of self-appraisal section comparing Bandura's phobic research (84-92 pe
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
 - [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) — related
 - [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](cognitive-modeling-versus-didactic-instruction-division.md) — related
+- [AI literacy instruction widened a confidence-knowledge gap: students' perceived understanding of AI tools increased significantly after instruction while actual knowledge improved minimally](ai-literacy-confidence-knowledge-gap.md) — related
+- [Teachers report very high self-perceived competence and efficacy that are virtually unrelated to their schools' prior achievement levels](teacher-competency-efficacy-unrelated-achievement.md) — related

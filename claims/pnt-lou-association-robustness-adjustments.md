@@ -62,3 +62,4 @@ Leave-one-institution-out sensitivity analyses on the student sample. The articl
 - [Perceived teacher-referenced GenAI normative tension is positively associated with self-reported learning-oriented GenAI use among Chinese university students](pnt-lou-positive-association-chinese-universities.md) — related
 - [Temporal direction between PNT and LOU could not be identified: the reversed specification was observationally equivalent](pnt-lou-temporal-direction-not-identified.md) — related
 - [Intention to use consolidated LLM reports is associated with motivation and personalisation](intention-to-use-associated-motivation-personalisation.md) — related
+- [The six-path specification was structurally incomplete: exploratory direct paths from PNT to ACS, SRL, and CT improved fit beyond the hypothesised model](six-path-model-structurally-incomplete-exploratory-pnt-paths.md) — related

@@ -67,3 +67,5 @@ The two-way ANOVA's learning material × educational background interaction reac
 - [Learning mechanisms are triggered to a greater extent for non-STEM-background students in the narrative condition and for STEM-background students in the expository condition](learning-mechanisms-moderated-by-educational-background.md) — possibly the same claim (merge candidate)
 - [Narrative and expository instruction produce no significant differences in recall or understanding of biological concepts](narrative-expository-no-recall-understanding-difference.md) — related
 - [Narrative instruction produces higher transfer performance than expository instruction in undergraduate biology learning](narrative-instruction-higher-transfer-biology.md) — related
+- [Background knowledge has a greater impact on comprehension of expository texts than narrative texts for primary children](knowledge-impact-greater-expository-narrative.md) — related
+- [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related

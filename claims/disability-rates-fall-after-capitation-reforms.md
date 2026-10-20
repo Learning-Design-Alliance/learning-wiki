@@ -49,3 +49,4 @@ The study examined state responses to capitation policies for special education 
 - [Post-capitation disability-rate declines were concentrated in subjectively diagnosed categories and occurred more quickly in less severe categories](capitation-declines-subjective-mild-categories.md) — a narrower finding that bears on this claim
 - [Capitation-based special education finance was associated with a rising share of local funding](capitation-rising-local-funding-share.md) — related
 - [Census funding is viewed as a cost-containment approach for special education finance](census-funding-viewed-as-cost-containment.md) — related
+- [Census funding has raised concerns about funding equity](census-funding-equity-concerns.md) — related

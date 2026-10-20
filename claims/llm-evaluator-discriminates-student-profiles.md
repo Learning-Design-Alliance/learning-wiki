@@ -46,3 +46,4 @@ Simulation validity check across the three simulated-student profiles (Motivated
 - LLM-human agreement is highest for identifying whether students listed a concept and lowest for judging definition correctness — related
 - LLMs align better with human coding on concise theories with discrete concepts than on more complex ones — related
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](moderate-motivation-imi-mangomon.md) — related
+- [Motivation prompts shift feedback tone: unmotivated students receive enthusiastic, collaborative encouragement while motivated students receive direct, higher-level critique](motivation-prompt-enthusiasm-pedagogy.md) — related

@@ -48,3 +48,5 @@ Scheffe-corrected ANOVAs on coded feedback ratings for the blocked sample (50 EL
 ## Related Claims
 - [Differences between human and ChatGPT feedback quality were small, with means within one point and partial eta-squared ranging from .01 to .12](small-effect-sizes-human-ai-feedback-differences.md) — related
 - [Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality](zero-shot-feedback-quality-comparable-to-teacher.md) — related
+- [Feedback prompted with ELL status narrows to surface-level grammar and mechanics corrections, assuming limited language competency rather than addressing argument and reasoning](ell-feedback-language-inadequacy-pedagogy.md) — related
+- [VIP effects did not differ between English language learners and fluent English speakers in the study authors' analyses](vip-no-treatment-language-status-interaction.md) — related

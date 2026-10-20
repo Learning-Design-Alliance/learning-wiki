@@ -46,3 +46,6 @@ The review reports, citing Ford et al. (2012) and Hopwood et al. (2016), "extrem
 - The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences — the general claim this finding bears on, with the studies behind it
 - [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — related
 - [Amount of accumulated deliberate practice distinguishes more from less accomplished musicians](deliberate-practice-hours-differentiate-musicians.md) — related
+- [Long-term Buddhist meditation training induces gamma synchrony whose ratio to slow oscillations correlates with cumulative practice hours (r = 0.79)](longterm-meditation-gamma-synchrony-practice-hours.md) — related
+- [Student-generated learning issues are not the sole source on which PBL students base self-study decisions](learning-issues-not-sole-source-of-self-study.md) — a narrower finding that bears on this claim
+- [Evidence that domain-general perceptual-cognitive skills distinguish athletes is mixed; expertise appears domain-specific](expertise-domain-specific-not-general.md) — related

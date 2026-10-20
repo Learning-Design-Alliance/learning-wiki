@@ -46,3 +46,4 @@ An author interpretation about sustainability from the national PROMISE evaluati
 - [Identifying SSI youth for outreach is challenging under the current transition system](identifying-ssi-youth-for-outreach-challenging.md) — related
 - [PROMISE's primary innovations over usual services were intensive case management, facilitating early work experiences, and a family focus](promise-innovations-case-management-early-work-family-focus.md) — related
 - [Many SSI youth received transition services without PROMISE, but there was substantial room for PROMISE to improve service use](promise-ssi-youth-transition-services-baseline-room-for-improvement.md) — related
+- [PROMISE service costs represented relatively large investments](promise-service-costs-relatively-large-investments.md) — related

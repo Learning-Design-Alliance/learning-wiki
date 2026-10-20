@@ -54,3 +54,4 @@ Secondhand report of a Michigan study (Drake et al., 2019) of evaluation ratings
 - Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive — related
 - [Participants rated the arithmetic-error peer agent more harshly than the conceptual-error peer agent, calibrating trust by error observability rather than severity](arithmetic-errors-rated-harsher-than-conceptual-errors.md) — related
 - [Speakers rate their own speeches more harshly than independent judges do](self-assessments-harsher-than-judges.md) — related
+- [Only about half of beginning teachers of color had taken any teaching classes prior to teaching, compared to 59% of beginning White teachers](beginning-teachers-of-color-less-preservice-coursework.md) — related

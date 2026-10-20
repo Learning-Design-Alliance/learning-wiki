@@ -46,3 +46,5 @@ Survey findings from the Malaysian study of 549 Form 4 students, in which episte
 
 - [Australian and Malaysian Muslim learners ranked discord items differently, with Australian students most resistant to anti-science statements and most accepting of divine-cause statements](australian-malaysian-discord-item-differences.md)
 - [Australian Islamic students reconcile discord over evolution by distinguishing belief from knowledge acquisition, learning content while suspending belief in it](belief-knowledge-distinction-reconciles-discord.md)
+- [Among Malaysian Muslim science students, intensity of discord over scientific claims shows no direct link to scientific reasoning ability](no-direct-link-discord-scientific-reasoning-malaysian.md) — related
+- [Scientific reasoning levels are linked directly to sophistication of epistemological beliefs among Malaysian Muslim students](scientific-reasoning-linked-epistemological-sophistication.md) — related

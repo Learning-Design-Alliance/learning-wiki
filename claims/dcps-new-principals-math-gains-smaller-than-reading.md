@@ -49,3 +49,4 @@ Key findings summary of the DCPS principal-replacement analysis. The brief state
 - [Achievement gains under new principals were larger and happened faster in DCPS middle schools than in elementary schools](dcps-principal-gains-larger-faster-middle-schools.md) — related
 - [After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools](dcps-new-principals-reading-gain-4-percentile-points.md) — related
 - [Successor Prep school outcomes appeared similar to other KIPP schools, though substantial differences cannot be ruled out](successor-prep-school-outcomes-similar-to-other-kipp-schools.md) — related
+- [DC math impacts of about one-third of a standard deviation are similar in magnitude to New Orleans reforms and larger than some well-known interventions](dc-math-impacts-one-third-sd-new-orleans-comparison.md) — related

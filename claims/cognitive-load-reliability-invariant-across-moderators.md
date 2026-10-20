@@ -45,3 +45,4 @@ Moderator analyses within the meta-analysis of 67 experiments tested four predef
 ## Related Claims
 - [Subjective cognitive load questionnaires show satisfactory internal consistency across the four most frequently used instruments in experimental multimedia learning research](cognitive-load-questionnaires-satisfactory-internal-consistency.md) — related
 - [No difference in intrinsic cognitive load between visual-only and audio-visual text conditions in VR](vr-modality-no-intrinsic-load-difference.md) — related
+- [Repeated measures of invested mental effort, perceived task difficulty, interest, and self-assessed understanding differ significantly across measurement points within complex learning tasks and are not adequately represented by their mean](repeated-load-interest-measures-vary-within-complex-tasks.md) — related

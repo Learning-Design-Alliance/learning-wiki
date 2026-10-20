@@ -43,4 +43,9 @@ Cluster-randomized classroom experiment with 220 seventh-graders in 10 classroom
 
 
 ## Related Claims
--
+- [The learning benefit of the worked-example textbook was greater for students with lower pretest proportional reasoning skills](worked-examples-benefit-lower-proportional-reasoners.md) — related
+- [Prior proportional reasoning knowledge predicts later probabilistic knowledge even after controlling for prior probability knowledge](proportional-reasoning-predicts-probability-learning.md) — related
+- [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
+- [Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone](self-explanation-prompts-geometry-tutor-robust-learning.md) — related
+- [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — a broader claim this one bears on
+- [Adding self-explanation prompts to heuristic worked examples yields no additional benefit and impedes seventh graders' modeling competency](self-explanation-prompts-no-added-benefit.md) — related

@@ -46,3 +46,6 @@ Descriptive Figure 5 scatterplots comparing each school's pre- and post-pandemic
 - Changes in absence rates from 2018-19 to 2022-23 varied considerably across CPS schools, with most schools showing moderate-to-large increases — possibly the same claim (merge candidate)
 - [Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences](school-absence-variation-net-of-students-neighborhoods.md) — related
 - Official absence rates in CPS increased during the remote/hybrid year, rose further in 2021-22, and remained 3-6 percentage points above 2018-19 levels in 2022-23 — related
+- [Absenteeism severity varies by grade level, peaking in kindergarten, middle school, and 12th grade](absenteeism-severity-grade-level-pattern.md) — related
+- [No-credit rates during the pandemic varied considerably across elementary schools, including among schools serving similar student populations](cps-school-level-variation-nocredit-rates.md) — related
+- [More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic](very-chronic-absence-up-strong-attendance-down.md) — related

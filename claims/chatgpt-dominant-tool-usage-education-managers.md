@@ -50,3 +50,5 @@ Descriptive analysis of a binary tool-usage checklist item in the survey of 395 
 - [Ukrainian educators show high AI adoption (84%) but only 11% can identify specialized AI services beyond ChatGPT](educators-high-ai-adoption-low-specialized-awareness.md) — related
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
 - [Ukrainian education managers' personal AI readiness significantly exceeds their perceived system readiness (d = 0.73)](personal-exceeds-system-ai-readiness-gap-managers.md) — related
+- [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](chatgpt-dominant-platform-assessment-personalization.md) — related
+- [One-third of the Ukrainian general public does not know what AI is, and 64.1% do not use AI chatbots](ukrainian-public-ai-awareness-baseline.md) — related

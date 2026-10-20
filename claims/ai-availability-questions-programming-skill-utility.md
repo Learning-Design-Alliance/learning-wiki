@@ -61,3 +61,5 @@ In the same utility-value section, seven students maintained programming was ess
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Some students described confidence in programming that depended on AI being available](ai-dependent-confidence-expectancy.md) — related
 - [Peer AI use diminished some students' sense of their own effort's value through social comparison, independent of their own AI use](peer-ai-use-social-comparison-devalues-effort.md) — related
+- [Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science](career-fear-apathy-outcomes-over-process.md) — possibly the same claim (merge candidate)
+- [Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop](reliance-awareness-most-valued-outcome.md) — related

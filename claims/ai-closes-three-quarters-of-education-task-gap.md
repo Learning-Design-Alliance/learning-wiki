@@ -66,3 +66,4 @@ Results-section estimate among treated participants: high-education individuals 
 - [AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges](ai-gains-carry-over-followup-not-pure-delegation.md) — related
 - [The equalizing effect of AI assistance operates through both content and writing subcomponents, with incomplete convergence in each](ai-equalizing-effect-through-content-and-writing.md) — related
 - [AI assistance raises the probability of correctly identifying the task's root cause for both education groups, with near-equalization among treated participants](ai-raises-root-cause-detection-near-equalization.md) — related
+- [AI assistance reduces task completion time in both education groups, the only outcome without an equalizing pattern](ai-reduces-completion-time-no-equalizing-pattern.md) — related

@@ -48,3 +48,5 @@ Report's workforce section, drawing on interviews and administrative data across
 - [California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children](california-ece-uneven-quality-standards.md) — related
 - [Large pay disparities persist between TK teachers and other publicly funded preschool teachers, and only San Francisco raised teacher qualifications and compensation at scale](tk-preschool-teacher-pay-disparities-persist.md) — related
 - [Publicly funded ECE programs in California served only 33% of eligible children under age 5 in 2015–16, leaving nearly 650,000 eligible children without access](california-ece-serves-only-33-percent-eligible-children.md) — related
+- [U.S. ECE governance is fragmented across multiple federal and state agencies, creating an incoherent patchwork of programs](ece-governance-fragmented-multi-agency.md) — related
+- [Alabama and New Jersey require and fund salary parity for non-LEA preschool teachers with LEA peers; New York City teachers achieved parity through unionizing](pay-parity-policies-nonlea-teachers.md) — related

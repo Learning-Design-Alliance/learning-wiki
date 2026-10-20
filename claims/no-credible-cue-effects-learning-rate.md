@@ -45,3 +45,4 @@ Null finding from the posterior contrasts in Table 7 of the Multi BKT reanalysis
 ## Related Claims
 - [In the perceptual-cue reanalysis, the only reliable forgetting and slip deviations were a small forgetting reduction under incongruent color and a modest slip reduction under congruent spacing](cue-effects-forgetting-slip-small-reductions.md) — related
 - [In a perceptual-cue intervention reanalysis, incongruent spacing and incongruent color conditions were associated with reduced guessing relative to neutral conditions](incongruent-perceptual-cues-reduce-guessing-bkt.md) — related
+- [Readers' judgment explanations support a cautious hierarchy of perceptual cues: content, then color, then space, then graphic features](cue-hierarchy-content-color-space-graphic.md) — related

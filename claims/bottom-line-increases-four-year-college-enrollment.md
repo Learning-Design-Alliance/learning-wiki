@@ -50,3 +50,4 @@ Findings from the one study meeting WWC standards, a student-level RCT with low 
 - [ASAP likely increases college access and enrollment rates](asap-increases-access-and-enrollment.md) — related
 - [Top-tier nonselective schools improve college enrollment, persistence, and selectivity, while selective schools show no college advantage](top-tier-schools-improve-college-outcomes-selective-do-not.md) — related
 - [FLIGHT may increase college enrollment among disadvantaged students, with 97% of the FLIGHT group versus 83% of the comparison group enrolling in college](flight-potentially-positive-college-enrollment.md) — related
+- [Information barriers disadvantage low-income students in the college transition: bright low-income students miss selective colleges, and mailed information packages raise application and enrollment](college-information-barriers-low-income-students.md) — related

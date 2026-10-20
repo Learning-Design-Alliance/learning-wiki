@@ -62,3 +62,11 @@ ANOVA on posttest-only measures (second diagnosis, intrinsic, germane, and extra
 
 ## Related Claims
 - [Video models do not increase trainee teachers’ self-efficacy for questioning for retrieval relative to restudy](video-model-no-self-efficacy-gain.md) — related
+- [Video models with integrated theory do not improve trainee teachers’ knowledge of questioning for retrieval relative to restudy](video-model-no-knowledge-gain.md) — a narrower finding that bears on this claim
+- [Exposure to a video model improves trainee teachers’ skill in using questioning for retrieval by 0.80 SD relative to restudying the evidence summary](video-model-improves-retrieval-questioning-skill.md) — related
+- [Anticipatory self-explanation prompts induced lower extraneous cognitive load than retrospective prompts](anticipatory-prompts-lower-extraneous-load.md) — related
+- [Lower-prior-knowledge apprentices experienced higher germane cognitive load when learning with retrospective prompts than with anticipatory prompts](retrospective-prompts-higher-germane-load-low-prior-knowledge.md) — related
+- [Lower-prior-knowledge apprentices gained more self-efficacy with retrospective prompts, while anticipatory prompts were detrimental for them](prior-knowledge-moderates-prompt-direction-self-efficacy.md) — related
+- [Anticipatory self-explanation prompts benefited higher-prior-knowledge apprentices on diagnostic strategy description scores, whereas retrospective prompts benefited lower-prior-knowledge apprentices](prior-knowledge-moderates-prompt-direction-strategy-description.md) — related
+- [Restudy of an evidence summary alone produces no measurable skill improvement between simulator attempts](restudy-alone-no-skill-improvement.md) — related
+- [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related

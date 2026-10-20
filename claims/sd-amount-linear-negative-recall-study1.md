@@ -45,3 +45,7 @@ Online regression analysis (PROCESS Model 2) with 191 students randomly assigned
 ## Related Claims
 
 - [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md)
+- [In Study 2 with a longer text and five SD amounts, greater seductive detail amount again worsened recall (b = −0.33, p = .005)](sd-amount-negative-recall-study2.md) — related
+- [Adding seductive details to multimedia instruction significantly worsens recall of pertinent content compared with instruction without seductive details](seductive-details-worsen-recall-versus-control.md) — a broader claim this one bears on
+- [Seductive detail amount did not significantly affect transfer performance in Study 1](sd-amount-no-transfer-effect-study1.md) — related
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on

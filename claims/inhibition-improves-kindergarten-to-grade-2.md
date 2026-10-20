@@ -43,4 +43,7 @@ Repeated measures ANOVA on the Fruit Stroop inverse-efficiency score (accuracy a
 
 
 ## Related Claims
--
+- [Better inhibition skills in kindergarten predict less overconfident metacognitive monitoring in 2nd grade, explaining 11% of variance](kindergarten-inhibition-predicts-less-overconfident-monitoring.md) — related
+- [Inhibition–monitoring links were cross-sectionally significant in kindergarten but not in 2nd grade](cross-sectional-inhibition-monitoring-link-fades-by-grade-2.md) — related
+- [The relationship between inhibition and monitoring is not bidirectional: kindergarten monitoring did not predict later inhibition](monitoring-does-not-predict-later-inhibition.md) — related
+- [A combined inhibition and social cognition classroom training improves selective visual attention in 5- and 6-year-olds](classroom-inhibition-social-cognition-training-improves-selective-attention.md) — related

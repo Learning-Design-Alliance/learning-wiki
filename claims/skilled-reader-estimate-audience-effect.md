@@ -59,3 +59,5 @@ Theoretical argument in the paper: decision-making criteria for writing must be 
 - Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing — related
 - Writing programs should move decision-making from intuition and chance to conscious, explicit, efficient deciding, at the cost of slower early production — related
 - [Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether their writing is understandable and coherent.](skilled-writers-audience-awareness.md) — a narrower finding that bears on this claim
+- [The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background](audience-prior-knowledge-determines-information-density.md) — related
+- [Duplicating readers' experiences helps young writers revise descriptive writing to meet readers' informational needs](duplicating-reader-experiences-meets-informational-needs.md) — related

@@ -67,3 +67,5 @@ In the same assignment analysis, the report reports that in third grade 43 perce
 - [Writing assignments in 1999 showed more intellectual challenge than mathematics, with 48 to 64 percent reaching moderate or extensive challenge depending on grade](writing-assignments-more-challenge-than-math-1999.md) — related
 - [More than 80 percent of sixth and eighth grade mathematics assignments in 1999 provided only minimal or no intellectual challenge](math-assignments-remained-low-challenge-1999.md) — a narrower finding that bears on this claim
 - [Students showed more authentic intellectual work in writing than in mathematics](authentic-work-greater-in-writing-than-math.md) — related
+- [Assignment quality improved between 1997 and 1999, yet math assignment challenge remained very low](assignment-quality-improved-but-math-challenge-low.md) — related
+- [Students whose assignments are more authentic produce more authentic intellectual work in both writing and mathematics](authentic-assignments-yield-authentic-student-work.md) — related

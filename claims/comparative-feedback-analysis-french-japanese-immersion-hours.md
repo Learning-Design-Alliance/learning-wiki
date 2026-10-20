@@ -45,3 +45,7 @@ Descriptive statement of the study's scope: a comparative analysis of teacher-st
 ## Related Claims
 - [Recasts were provided more predominantly than prompts and explicit correction in both French immersion and Japanese immersion elementary classrooms](recasts-predominate-over-prompts-explicit-correction-immersion.md) — related
 - [Learner repair following feedback differed by setting: prompts yielded the largest proportion of repair in French immersion, recasts in Japanese immersion](repair-patterns-vary-by-feedback-type-and-setting.md) — related
+- [The frequency of oral corrective feedback differs across instructional contexts](cf-frequency-varies-across-instructional-contexts.md) — a broader claim this one bears on
+- [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — related
+- [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — related
+- [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — related

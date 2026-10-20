@@ -47,3 +47,5 @@ Interaction analysis of the reconstruction phase of group 7's work, in which stu
 - [Merging different technical understandings of Minecraft items into shared nomenclature enabled parallel division of building work (Extract 2)](merged-technical-understanding-minecraft-nomenclature.md) — related
 - [Premature shared understanding: a group's bypassing of a member's skeptical comment left the social and technology objects misaligned, with partial agreement (Extract 3)](fragmented-premature-shared-understanding.md) — related
 - [The facilitator builds the shared account by shifting between narrator, mentor, and monitor roles and consolidating group consensus](facilitator-role-shifting-shared-account.md) — related
+- [Damşa's study concludes that increased discourse about textual knowledge objects leads to better learning or knowledge building](discourse-about-textual-objects-improves-learning.md) — related
+- [Role-playing in a ship simulator constitutes an activity context whose ephemeral resources can collapse](role-play-activity-context-simulator.md) — related

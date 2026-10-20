@@ -48,3 +48,6 @@ Experiment 1 planned comparison within the low-WMC group (n = 12 per condition):
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [WMC shows a main effect on inference verification but not on essay recall](wmc-main-effect-ivt-not-essay.md) — related
+- [High-WMC readers view fewer seductive illustrations and spend less time on them than low-WMC readers](eye-tracking-high-wmc-ignore-seductive-illustrations.md) — related
+- [In Study 2 with a longer text and five SD amounts, greater seductive detail amount again worsened recall (b = −0.33, p = .005)](sd-amount-negative-recall-study2.md) — related
+- [Adding seductive details to multimedia instruction significantly worsens recall of pertinent content compared with instruction without seductive details](seductive-details-worsen-recall-versus-control.md) — related

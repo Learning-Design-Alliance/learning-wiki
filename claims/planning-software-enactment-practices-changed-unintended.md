@@ -43,4 +43,6 @@ The editorial reports Overdijk et al.'s analysis of a student dyad using plannin
 
 
 ## Related Claims
--
+- [The editorial calls for empirically grounded analysis combining Rabardel's theory with design-based research data to study mutual shaping of CSCL software and group cognition](rabardel-plus-design-based-research-agenda.md) — a broader claim this one bears on
+- [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — related
+- [Dyads collaborating via flexible written paper media exhibit invariant communicative practices across media, participants and topics](invariant-communicative-practices-artifact-mediated-collaboration.md) — related

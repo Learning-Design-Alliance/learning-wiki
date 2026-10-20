@@ -81,4 +81,4 @@ The router extension evaluation used a frozen contract of 32 crossover cases plu
 
 
 ## Related Claims
--
+- [A deterministic slide-image override converts a 0/9 corpus-grounding failure into 9/10 successful slide matches on the same topic](slide-image-override-corpus-grounding-recovery.md) — related

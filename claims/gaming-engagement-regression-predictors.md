@@ -48,3 +48,4 @@ Stepwise linear regression on self-report data from 189 participants, with engag
 - [Male participants were almost twice as likely as females to be engaged in gaming](males-twice-likely-gaming-engagement.md)
 - [Video game skill and time spent playing are associated with gaming motivations](skill-and-hours-associated-with-gaming-motivations.md)
 - [An eight-week commercial video game intervention produced significant gains on all three measured graduate skills relative to control, totalling about 14 hours of play](game-intervention-gains-all-three-graduate-skills.md) — related
+- [Ego orientation and need for cognition did not significantly contribute to predicting gaming engagement](ego-nfc-dropped-from-engagement-model.md) — related

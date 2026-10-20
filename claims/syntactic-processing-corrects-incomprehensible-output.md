@@ -70,3 +70,5 @@ Diary self-study enumerating four situations for eliminating incomprehensible ou
 - [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](untaught-syntax-acquired-taught-agreement-not.md) — related
 - [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — related
 - [Generative AI tools do not possess conceptual knowledge or conscious understanding, relying only on word patterns and probabilities](genai-probabilistic-prediction-not-reasoning.md) — related
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
+- [Native speakers rarely supply negative input, so learners must infer or actively seek it by pushing for comprehensible output](pushing-output-elicits-negative-input.md) — related

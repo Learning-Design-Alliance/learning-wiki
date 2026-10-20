@@ -47,3 +47,4 @@ Independent samples t-test comparing post-test scores of 26 high CT and 26 low C
 - [High CT students significantly exceeded low CT students in task strategies, elaboration, and self-assessment during AICA interactions](high-ct-stronger-srl-cognitive-behaviors.md) — related
 - [Behavioral trends across three tasks showed high CT students maintained stable independent coding while low CT students' AICA use fluctuated](behavioral-trends-three-tasks-ct-groups.md) — related
 - [High CT students used the AICA for code understanding and debugging while low CT students used it for direct answer retrieval](ct-groups-differ-aica-behavioral-patterns.md) — related
+- [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](ena-cognitive-network-ct-groups.md) — related

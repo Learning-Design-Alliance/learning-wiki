@@ -49,3 +49,6 @@ Random-effects meta-analysis of 144 experimental studies (333 outcomes) of compu
 - [Scaffolding effects varied by education population, with traditional learners significantly outperforming underperforming learners](education-population-moderates-scaffolding-effect.md) — related
 - [Scaffolding's influence was greater when measured at the principles assessment level than at the concept level](principles-level-assessment-highest-scaffolding-effect.md) — related
 - [Scaffolding's effect was highest in project-based learning contexts; design-based learning was the only context not significantly greater than zero](project-based-context-highest-scaffolding-effect.md) — related
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
+- [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — related
+- [Scaffolding's effect was greatest among adult learners, though based on a single outcome](scaffolding-effect-greatest-adult-learners.md) — a narrower finding that bears on this claim

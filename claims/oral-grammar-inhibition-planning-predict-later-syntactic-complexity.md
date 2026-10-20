@@ -54,3 +54,5 @@ A second path model on the longitudinal sample tested component-skill predictors
 - [Planning shows no contribution to any level of narrative composition in fourth graders](planning-no-contribution-narrative-composition.md) — related
 - [Executive functions do not directly predict syntactic complexity or story content once transcription and language skills are controlled](ef-no-direct-effect-syntactic-complexity-story-content.md) — reports the opposite
 - [Syntactic complexity of narrative writing increases significantly between fourth and sixth grade, while text length and story content do not](syntactic-complexity-develops-upper-elementary-not-length-content.md) — related
+- [In a cross-sectional path model of fourth graders, handwriting fluency statistically mediated the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](handwriting-fluency-mediates-ef-narrative-writing.md) — related
+- [Inhibition and updating directly predict narrative text length in fourth graders over and above transcription and language skills](inhibition-updating-directly-predict-text-length.md) — related

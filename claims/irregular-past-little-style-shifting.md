@@ -47,3 +47,4 @@ In the study of 17 intermediate L2 learners under three planning conditions, irr
 - [L2 learners style-shift in past tense accuracy within narrative discourse according to the amount of planning time available](style-shifting-past-tense-planning-time-narrative.md) — a broader claim this one bears on
 - [Past copula style shifting occurs only between planned speech and unplanned speech](past-copula-shifting-speech-conditions-only.md) — related
 - [Regular past tense accuracy is greatest in planned writing, intermediate in planned speech, and least in unplanned speech](regular-past-accuracy-planned-writing-highest.md) — related
+- [Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style](monitoring-improves-learnable-rule-accuracy.md) — related

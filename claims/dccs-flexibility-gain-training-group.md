@@ -44,3 +44,8 @@ Repeated-measures ANOVA on 108 experimental and 100 control children. The text c
 
 - [CREATE does not produce a significant immediate interaction effect on flexibility, though the experimental group improved pre-to-post](create-immediate-flexibility-null-interaction.md)
 - [The training group outperforms controls on social problem resolution, with a significant group effect and a marginal interaction](social-problem-resolution-group-effect-marginal-interaction.md) — related
+- [The classroom training improves Theory of Mind performance](classroom-training-improves-theory-of-mind.md) — related
+- [The classroom training improves inhibitory control as measured by the Tongue Task](classroom-training-improves-tongue-task-inhibition.md) — related
+- [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](reflection-training-improves-dccs.md) — related
+- [A 45-minute prompt-based programming lesson produced greater pre-to-post gains in Promptly problem solving than a code-tracing control, though not statistically significant](brief-prompting-lesson-modest-performance-gains.md) — related
+- [DCCS training in preschoolers transfers to false-belief understanding](dccs-training-transfers-false-belief.md) — related

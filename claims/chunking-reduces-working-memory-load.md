@@ -111,3 +111,5 @@ This has a direct design consequence: chunking imposed from outside only helps w
 - [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](collaborative-learning-collective-working-memory-advantage.md) — related
 - [Two subsets of rational-number CCS items demand working memory capacities of 4 or 5 units respectively](rational-number-item-subsets-capacity-demands.md) — related
 - [Children's understanding of whole number advances by one developmental level per additional unit of working memory capacity](whole-number-ccs-one-level-per-wm-unit.md) — related
+- [Short chunking study outlines produce higher test performance than long chunking study outlines](short-cso-improves-test-performance.md) — a narrower finding that bears on this claim
+- [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](cpc-difference-delayed-posttest-only.md) — a narrower finding that bears on this claim

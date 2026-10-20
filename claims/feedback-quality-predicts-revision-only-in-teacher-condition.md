@@ -92,3 +92,4 @@ Multiple regression in the CoT condition (model F(2, 19) = 8.80, p = .002, R2 = 
 - [Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality](zero-shot-feedback-quality-comparable-to-teacher.md) — related
 - [Revising the feedback prompt toward essay-grounded guidance was associated with more specific feedback in an observational before–after comparison](prompt-revision-increased-feedback-specificity.md) — related
 - [Revision conditions offering more reader insight produced contrasting benefits for young writers' descriptive revision](reader-insight-conditions-contrasting-benefits.md) — related
+- [Chain-of-thought prompting yields higher-quality GenAI feedback on argumentative essays than Zero-shot prompting and teacher feedback](cot-prompting-higher-feedback-quality-than-zero-shot-and-teacher.md) — related

@@ -45,3 +45,6 @@ Exploratory ordinal-coded regression of the composite acceptance score on freque
 ## Related Claims
 - [Learning motivation is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](learning-motivation-positive-ai-english-acceptance.md) — related
 - [Anxiety shows positive concurrent associations with acceptance outcomes for AI-assisted English learning, and should not be read as uniformly negative or beneficial](anxiety-positive-concurrent-ai-english-acceptance.md) — related
+- [Practice frequency, not cumulative usage time, was strongly associated with posttest presentation performance after controlling for baseline and demographics](practice-frequency-predicts-posttest-performance.md) — related
+- [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
+- [Self-efficacy is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](self-efficacy-positive-ai-english-acceptance.md) — reports the opposite

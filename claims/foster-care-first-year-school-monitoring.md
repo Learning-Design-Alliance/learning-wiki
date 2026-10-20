@@ -47,3 +47,4 @@ The agenda reports a planning study conducted with Chapin Hall providing descrip
 
 ## Related Claims
 - [At the close of the first full year, PKTP's communication about the importance of transition was unclear to many teacher and parent participants](pktp-transition-message-unclear-to-participants.md) — related
+- [Teachers report that building trust is the first and most important goal with students in foster care, and that trust precedes willingness to work](trust-first-goal-foster-care-students.md) — related

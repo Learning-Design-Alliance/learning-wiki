@@ -50,3 +50,4 @@ Correlational analysis of factor scores from 188 ninth-graders (17% black, 83% w
 - Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents — related
 - Locus of control scores show no significant main effects of behavioral condition (normal vs. delinquent) or sex — related
 - [Baseline intercorrelations among the six tests were small, suggesting the battery covered relatively independent cognitive processes](baseline-intercorrelations-independent-processes.md) — related
+- [Modes of interdependence are weakly or negligibly intercorrelated across brokerage offices](interdependence-modes-weakly-negatively-correlated.md) — related

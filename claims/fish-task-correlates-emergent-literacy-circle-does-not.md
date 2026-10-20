@@ -46,3 +46,7 @@ Zero-order Pearson correlations between Time 1 measures and Time 2 emergent lite
 - [Early expressive vocabulary predicts emergent literacy outcomes only until inhibitory control measures are added, after which it is no longer significant](early-vocabulary-nonsignificant-once-inhibition-added.md) — related
 - [In toddlerhood, interference suppression correlates with expressive vocabulary after controlling for age, whereas response inhibition does not](toddler-interference-suppression-correlates-vocabulary.md) — related
 - [Interference suppression assessed at 28–36 months is the only significant predictor of early orthographic knowledge at 4–6 years in the full regression model](interference-suppression-predicts-early-orthographic-knowledge.md) — related
+- [Inhibition shows moderate to large associations with reading comprehension in most studies, but the association depends on the inhibition task used](inhibition-reading-comprehension-task-dependent.md) — related
+- [Response inhibition shows a small negative association with reading fluency (r = −.15) in a single study](inhibition-reading-fluency-small-negative.md) — related
+- [Associations between inhibition and word reading are task-dependent, ranging from negligible to large (r = .59)](inhibition-word-reading-task-dependent.md) — related
+- [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related

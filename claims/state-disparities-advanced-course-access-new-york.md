@@ -53,3 +53,4 @@ State-by-state analysis (Appendix B, Table B1) of 2017-18 CRDC data sorting each
 - [Washington State's automatic-enrollment academic acceleration policy is associated with more equitable advanced course offerings, reversing the typical gap](washington-automatic-enrollment-equity-course-access.md) — related
 - Massachusetts high schools with majority-Black or majority-Latino enrollment are much less likely to offer any AP course than majority-White schools — related
 - [U.S. high schools with high enrollments of students from low-income families are less likely to offer advanced science courses than low-poverty schools](high-poverty-schools-offer-fewer-advanced-science-courses.md) — related
+- [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md) — a broader claim this one bears on

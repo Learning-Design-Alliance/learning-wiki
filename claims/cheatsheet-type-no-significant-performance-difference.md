@@ -77,3 +77,5 @@ The final-exam t-test did not reach significance, but the article reports a prin
 - [Students using self-created cheat sheets reported greater perceived coverage of needed final exam content than instructor-provided users](self-created-sheets-greater-perceived-final-coverage.md) — related
 - [High- and low-performing students did not differ significantly on the midterm-exam ENA network dimensions despite detected network differences](midterm-ena-no-significant-difference.md) — related
 - [High- and low-performing students differed significantly on the final-exam ENA network X dimension but not the Y dimension](final-exam-ena-x-dimension-significant.md) — related
+- [Most participants reported that cheat sheets boosted their confidence and efficiency during exams](cheatsheets-boost-confidence-efficiency.md) — related
+- [Preferences for instructor-provided sheets were grounded in trust, alignment and efficiency, while self-created preferences reflected personalization, control and studying through creation](trust-efficiency-versus-personalization-choice-rationales.md) — related

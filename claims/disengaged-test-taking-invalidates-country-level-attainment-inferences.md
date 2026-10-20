@@ -49,3 +49,6 @@ The author's statement of the problem motivating the review. The article reports
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — a broader claim this one bears on
 - [Test disengagement could undermine inferences drawn from observed achievement scores](disengagement-undermines-score-inferences.md) — possibly the same claim (merge candidate)
 - [Previous research found a meaningful correlation between countries' mean engagement and mean performance on large-scale international assessments, motivating validity questions about aggregated scores](engagement-performance-correlation-countries.md) — related
+- [Interpreting differences in school-aggregate test scores as real differences in school performance raises accuracy concerns even under routine schooling conditions, which the pandemic may exacerbate](aggregate-score-interpretation-accuracy-concerns.md) — related
+- [Content alignment between a test and its content domain represents key evidence for validating test score inferences](alignment-key-validation-evidence-score-inferences.md) — related
+- [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related

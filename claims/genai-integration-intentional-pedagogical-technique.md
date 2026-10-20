@@ -47,3 +47,4 @@ This is the authors' design rationale, not a tested result: the article states t
 - [Introducing controversial viewpoints via a genAI agent is studied as a mechanism to counter groupthink in collaborative problem-based learning](genai-controversial-viewpoints-counter-groupthink.md) — a narrower finding that bears on this claim
 - [The study examined student perceptions of the genAI agent and its integration into team processes](student-perceptions-genai-agent-team-processes.md) — related
 - [The study examined the genAI agent's influence on team discussion and outcomes and the influence of faculty facilitators on acceptance of the agent](genai-influence-discussion-facilitator-acceptance.md) — related
+- [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](genai-team-interaction-safety-and-reduction.md) — related

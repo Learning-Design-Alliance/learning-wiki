@@ -47,3 +47,5 @@ Experiment 1 behavioral measures from the navigation file: reading time (459 s v
 - [Writers revising in Page mode backtrack more than Scroll writers, with no difference in total revising time](page-revising-more-backtracking.md)
 - [Readers locate sentences more accurately after reading a text in page-by-page presentation than in scrolling presentation](page-presentation-better-sentence-locating.md)
 - [Page writers corrected significantly more coherence errors than Scroll writers, while surface and cohesion corrections did not differ](page-revising-coherence-corrections.md)
+- [Page readers tended to include more details in their summaries than Scroll readers (a marginal result, p = .056), while recall of main ideas did not differ significantly](page-presentation-summary-details-recall.md) — related
+- [Only Page readers tended to locate boundary-zone sentences more accurately than central-zone sentences](boundary-zone-locating-advantage-page-only.md) — related

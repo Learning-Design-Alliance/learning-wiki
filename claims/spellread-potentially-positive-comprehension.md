@@ -53,3 +53,6 @@ WWC synthesis of two randomized controlled trials meeting evidence standards wit
 - [SpellRead™ has potentially positive effects on reading comprehension, with an average improvement index of +20 percentile points](spellread-comprehension-index-twenty.md) — related
 - [Twenty participants aged 3 to 14 with varying disabilities all demonstrated literacy gains through shared story reading](twenty-participants-literacy-gains-shared-story-reading.md) — related
 - [SpellRead™ has potentially positive effects on reading fluency, with an average improvement index of +9 percentile points](spellread-potentially-positive-fluency.md) — related
+- [SpellRead™ has positive effects on alphabetics for struggling beginning readers, with an average improvement index of +18 percentile points](spellread-positive-effects-alphabetics.md) — related
+- [Lexia Reading has potentially positive effects on comprehension](lexia-reading-potentially-positive-comprehension.md) — related
+- [Word-reading interventions yield significant positive effects on adolescent literacy outcomes overall (g = 0.30)](word-reading-interventions-significant-adolescent-literacy-g030.md) — related

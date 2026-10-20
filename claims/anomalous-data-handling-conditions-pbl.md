@@ -43,4 +43,5 @@ From the stimulated recall protocols collected during problem analysis, the stud
 
 
 ## Related Claims
--
+- [Conceptual change by students during PBL problem analysis can be made visible in stimulated recall protocols](stimulated-recall-makes-conceptual-change-visible.md) — related
+- [PBL group discussion during problem analysis mainly concerns theory building, with less data exploration and meta-reasoning](pbl-discussion-mainly-theory-building.md) — related

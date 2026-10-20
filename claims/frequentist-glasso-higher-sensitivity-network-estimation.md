@@ -45,3 +45,5 @@ Simulation results reported in the abstract: "Sensitivity was better for the fre
 ## Related Claims
 - [In simulations, the Bayesian GLASSO performed better than the Horseshoe prior for estimating symptom networks](bayesian-glasso-beats-horseshoe-prior.md) — related
 - [In simulations, Bayesian GLASSO estimation outperforms frequentist GLASSO on bias in edge weights, centrality measures, correlation between estimated and true partial correlations, and specificity](bayesian-glasso-outperforms-frequentist-glasso-network-estimation.md) — related
+- [The frequentist graphical LASSO has difficulty estimating centrality indices and uncertainty in these measures in symptom networks](frequentist-glasso-difficulty-uncertainty-centrality.md) — related
+- [Regularization-based graphical modeling has key drawbacks, including difficulty obtaining valid parameter uncertainty and inflated false positive rates](regularization-drawbacks-uncertainty-false-positives.md) — related

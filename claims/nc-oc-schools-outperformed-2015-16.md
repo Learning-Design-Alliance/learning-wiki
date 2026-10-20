@@ -48,3 +48,5 @@ Figure 3 of the brief, from Denise Watts's April 2018 presentation, shows 59 per
 - [The AIR/Brookings study covered 15,000 students and 300 teachers in three districts over two to three years, with 74 percent Title I schools](air-brookings-study-scope-15000-students.md) — related
 - North Carolina posted the largest mathematics achievement gains of any state in the 1990s and became the first southern state to score above the national average in fourth grade reading and math — related
 - [Opportunity Culture schools spur schoolwide academic growth even in classrooms not led by Opportunity Culture teachers](oc-schoolwide-growth-beyond-oc-classrooms.md) — related
+- [By 2017–18, more than 150 schools in nine states implemented Opportunity Culture, reaching over 41,000 students, with over $3 million in additional pay and 97 percent MCL retention support](oc-scale-2017-18-150-schools.md) — related
+- [Teachers on Multi-Classroom Leader teams produced learning gains equal to top-quartile teachers in math and nearly that in reading](mcl-team-teachers-gains-top-quartile.md) — related

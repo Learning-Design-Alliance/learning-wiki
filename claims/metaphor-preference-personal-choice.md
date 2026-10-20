@@ -47,3 +47,4 @@ Thematic analysis of Activity 2 mock-up discussions found opposing and supportin
 - [Metaphoric competence is proposed to be central to all aspects of language use, including grammatical and sociolinguistic competence](metaphoric-competence-central-to-language-use.md) — related
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — related
 - [Students strongly prefer qualitative tree visualizations over quantitative radar charts of classroom collaboration](students-prefer-qualitative-tree-over-radar.md) — related
+- [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](legitimacy-disciplinary-identity-resistance.md) — related

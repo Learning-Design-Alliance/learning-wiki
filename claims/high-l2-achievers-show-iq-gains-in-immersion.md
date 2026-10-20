@@ -50,3 +50,4 @@ The review reports Barik and Swain's (1976) longitudinal analysis of Ottawa and 
 - [Immersion and submersion programs differ socioculturally, communicating success versus failure to children](immersion-submersion-sociocultural-contrast.md) — related
 - [Dual language programs are associated with higher achievement and with EB/non-EB achievement gap closure by seventh grade](dual-language-programs-gap-closure-longitudinal.md) — related
 - [High performance in old age is associated with higher education, foreign language use and IQ, but not physical activity or personality](high-performance-linked-education-language-iq.md) — related
+- [Dual language learners especially benefit from high-quality early care and dual language immersion programs, and multilingualism is associated with cognitive, linguistic, social, and cultural strengths](dual-language-learners-benefit-from-immersion-programs.md) — a broader claim this one bears on

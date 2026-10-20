@@ -47,3 +47,6 @@ The paper reports that analyses using hidden Markov models, differential sequenc
 
 - [Scaffolded conditions in Betty's Brain showed scaffolding-induced strategy use within the scaffolding time window although the three conditions did not differ in learning gains](scaffolding-alters-strategy-use-not-learning-gains.md) — related
 - [Cluster analysis of coherence metrics on 98 students revealed five distinct behavior profiles, with engaged and efficient students showing the highest reading scores and significantly higher science gains than all other clusters.](coherence-cluster-five-behavior-profiles-outcomes.md)
+- [Students' learning strategies can be detected and interpreted from activity sequences in the Betty's Brain open-ended learning environment](bettys-brain-strategy-detection-activity-sequences.md) — related
+- [Confused guessers had significantly lower pre- and post-test skill scores than most other clusters, but their science learning gains were not significantly different from those of Clusters 1, 2, and 4.](confused-guessers-lower-skills-similar-gains.md) — related
+- [Classroom use of Betty's Brain showed a performance dichotomy: one study found 18 of 40 students made very little progress teaching Betty, while 16 taught a correct or nearly correct map.](betty-brain-classroom-performance-dichotomy.md) — related

@@ -45,3 +45,5 @@ In vivo experiment within a year-long Cognitive Tutor middle-school curriculum, 
 ## Related Claims
 
 - [Students receiving the most Scooter supplementary exercises showed significantly better learning and caught up by post-test, though there was no overall between-condition learning effect](scooter-supplementary-exercises-learning-gains.md)
+- [Students receiving personalized problems gamed the tutoring system less during the personalized unit, with no difference in a later unit](personalization-reduces-gaming-behavior.md) — related
+- [An automated agent responding to detected gaming-the-system reduced gaming by half and improved gaming students' learning](gaming-agent-reduced-gaming-improved-learning.md) — related

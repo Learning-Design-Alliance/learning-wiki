@@ -45,3 +45,7 @@ Mixed-effects analysis of frame-by-frame coded screen recordings from a within-s
 ## Related Claims
 
 - [Text amount and slide position strongly influenced studying durations, but picture type did not affect studying rate in either modality](slide-characteristics-drive-studying-duration.md)
+- [Fifth graders review videos mostly linearly forward, whereas review of illustrated texts combines varied strategies](review-strategies-vary-by-modality.md) — related
+- [Faster initial-pass studying rate predicted better retention, delayed retention, and transfer and lower cognitive load, but the effect was mostly due to modality](faster-studying-rate-predicts-outcomes-and-load.md) — related
+- [Videos were especially beneficial for slower readers, with the largest studying-rate advantages at the lowest percentiles](videos-especially-beneficial-slower-readers.md) — a narrower finding that bears on this claim
+- [Preservice teachers rated the video as simpler and more superficial than the text with the same content](video-rated-simpler-than-text-study2.md) — related

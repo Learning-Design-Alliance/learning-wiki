@@ -47,3 +47,5 @@ A study of skilled typists (Logan & Crump, as reviewed here) in which experiment
 - [Post-error slowing in EF shows no significant association with intelligence or WM in kindergarten children](pes-null-intelligence-wm-kindergarten.md) — related
 - [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](verification-bottleneck-confidence-dissociation.md) — related
 - [AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)](cognitive-surrender-inflates-confidence-after-errors.md) — related
+- [Students envision dual feedback utilization: real-time feedback for immediate adjustment during collaboration and post hoc feedback for reflective, long-term skill development](dual-real-time-post-hoc-feedback-utilization.md) — related
+- [In youth performing an n-back task without feedback, bilateral ventral striatum activates more strongly to correct than incorrect responses](vs-correct-greater-than-incorrect-nback-youth.md) — related

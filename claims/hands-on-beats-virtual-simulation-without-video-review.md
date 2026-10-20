@@ -48,3 +48,5 @@ ANCOVA on post-test skill performance with pre-test as covariate in a randomized
 - [Video review produces more structured reflective behavior patterns, with modality-specific video interaction sequences](video-review-structured-reflective-behavior-patterns.md) — related
 - [Hands-on activity groups show fewer erroneous operations than correct ones, and hands-on with video review students use video more than virtual simulation peers](hands-on-lower-error-frequency-higher-video-use.md) — related
 - [Video review raises learning interest under virtual simulation but not under hands-on activity](video-review-raises-interest-only-in-virtual-simulation.md) — related
+- [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — a broader claim this one bears on
+- [Hands-on experiments promote epistemic and value-related situational interest more than computer simulations, while emotional situational interest does not differ](experiments-promote-epistemic-value-interest.md) — related

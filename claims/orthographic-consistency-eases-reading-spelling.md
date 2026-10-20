@@ -68,3 +68,4 @@ Cross-linguistic spelling study reported by the review: Caravolas and Bruck (199
 - [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
+- [Significant between-study heterogeneity limits interpretation of foreign language attainment differences in poor readers/spellers](heterogeneity-limits-fl-attainment-interpretation.md) — related

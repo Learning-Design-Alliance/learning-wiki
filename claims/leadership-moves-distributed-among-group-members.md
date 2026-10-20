@@ -64,3 +64,10 @@ Coding of 22 groups in a multi-touch classroom study. The article reports "1,377
 ## Related Claims
 
 - [Emergent leadership did not differ between multi-touch table and paper conditions in study one](no-leadership-difference-multi-touch-paper.md)
+- [Distinct intellectual and organizational emergent leader roles, taken by different students, can be identified in about half of collaborative groups](intellectual-and-organizational-leader-roles-distinct.md) — related
+- [Patterns of emergent leadership differed across disciplinary content areas, with some students leading in math but not history](leadership-patterns-vary-across-content-areas.md) — related
+- [Some groups had an intellectual leader without an organizational leader, but no group had an organizational leader without an intellectual leader](intellectual-leader-without-organizational-leader.md) — related
+- [Leadership in collaborative learning is an interactional group phenomenon requiring bids to be taken up](leadership-interactional-group-phenomenon.md) — related
+- [Without assigned roles, all group members generally participate in many core dimensions of group leadership, which emerges as an interactive group phenomenon](distributed-leadership-emergent-group-phenomenon.md) — related
+- [A collaboration kit with joint and private multi-touch table spaces outperformed comparison groups, showing less biased communication and more collaborative processes.](multi-touch-collaboration-kit-reduced-discussion-bias.md) — related
+- [Debriefing analysis and application phases operate as distributed metacognition on the publicly shared account](distributed-metacognition-analysis-application.md) — related

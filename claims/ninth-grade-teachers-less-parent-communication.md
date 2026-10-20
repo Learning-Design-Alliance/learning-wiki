@@ -67,3 +67,4 @@ Same teacher survey data (Figure 3). Ninth-grade teachers were less likely to se
 - [Parental involvement declines as students move from eighth to tenth grade in Chicago and nationally](parental-involvement-declines-high-school-transition.md) — related
 - [Parents want more academic interaction with high schools, but schools focus communication on rules and problems](parents-want-academic-interaction-schools-focus-rules.md) — related
 - [Family engagement typically declines from elementary to middle school for several identified reasons](family-engagement-declines-elementary-to-middle.md) — related
+- [Peer support for academic work declines as Chicago students move from sixth through tenth grade](peer-academic-support-declines-across-grades.md) — related

@@ -46,3 +46,4 @@ Report's analysis of National Center for Homeless Education residence data for 2
 - [Students experiencing homelessness show lower academic proficiency than economically disadvantaged but stably housed peers in reading, mathematics, and science](homelessness-lower-academic-proficiency.md) — related
 - [Homelessness is associated with substantially lower 4-year graduation rates (68% vs. 86% for all students)](homelessness-lower-graduation-rate.md) — related
 - [Students experiencing homelessness show substantially lower achievement and graduation than housed peers (reported from a New York City study)](homeless-students-lower-achievement-graduation-nyc.md) — related
+- [Students with greater economic need participated at higher rates in Chicago Connected](economic-need-higher-chicago-connected-participation.md) — related

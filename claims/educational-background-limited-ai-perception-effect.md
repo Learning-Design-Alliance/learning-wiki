@@ -47,3 +47,6 @@ One-way ANOVA by educational level in the quantitative phase (N = 302). The arti
 - Physical education teachers studying in a graduate program endorse progressivism, perennialism and essentialism more than teachers with an undergraduate degree — related
 - [Primary school teachers report moderately positive overall perceptions of AI in mathematics instruction, with willingness and attitudes higher than personal experience](moderately-positive-teacher-ai-perceptions-primary-math.md) — related
 - [Earlier and mid-career teachers report more positive AI perceptions than teachers with 21 or more years of experience, except in personal experiences](professional-experience-ai-perception-differences.md) — related
+- [Prior AI-related training is associated with higher perception scores in the overall score and the willingness, attitudes, and personal-experiences dimensions](prior-ai-training-associated-perceptions.md) — related
+- [Syntea usage is slightly higher among Bachelor's (58.17%) than Master's students (54.25%), possibly reflecting program structure rather than acceptance](syntea-usage-bachelor-master-difference.md) — related
+- [Higher educational attainment is associated with more positive evaluations of international cooperation efforts](education-level-internationalization-perceptions.md) — related

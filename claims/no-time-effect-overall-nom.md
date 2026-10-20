@@ -46,3 +46,5 @@ Mixed-model result for the general NoM category in the longitudinal study; the n
 - [EFL primary children's meaning negotiation during a spot-the-differences task is low in amount but significantly higher in the L2 than in the L1](efl-child-nom-low-l2-higher-than-l1.md) — related
 - [Mixed proficiency dyads negotiate for meaning more than matched proficiency dyads, irrespective of time and language](mixed-dyads-negotiate-more-than-matched.md) — related
 - [Task condition (decision-making vs. opinion-exchange) did not significantly moderate the amount of meaning negotiation](task-condition-did-not-moderate-meaning-negotiation.md) — related
+- [Mixed dyads outperform matched dyads in meaning negotiation only in the L2 (proficiency pairing × language interaction)](pairing-language-interaction-nom-l2-only.md) — related
+- [All meaning negotiation strategies appear in child EFL peer interaction except comprehension checks, which are absent](no-comprehension-checks-child-efl-nom.md) — related

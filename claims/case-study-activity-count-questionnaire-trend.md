@@ -44,3 +44,5 @@ Descriptive analysis of four case-study students' protocol activity counts versu
 
 ## Related Claims
 - [Planner and reviser questionnaire scores show frequency main effects on several online activities, with no interaction with episode](wsq-main-effects-online-activities.md) — related
+- [A task-specific questionnaire built item-by-item from a think-aloud coding taxonomy correlated r=.51 with think-aloud protocols, higher than the -.07 to .42 regularly reported](task-specific-questionnaire-think-aloud-correlation-51.md) — related
+- [Low questionnaire–think-aloud correlations may have two alternative explanations besides poor self-report ability: the methods may measure different strategies or be aimed at different tasks](alternative-explanations-low-correlations-strategies-tasks.md) — a broader claim this one bears on

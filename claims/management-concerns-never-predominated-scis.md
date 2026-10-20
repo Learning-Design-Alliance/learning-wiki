@@ -46,3 +46,5 @@ Unexpected finding from the longitudinal SCIS SoCQ analyses, where "Management c
 ## Related Claims
 - [Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation](stages-of-concern-developmental-trend.md) — related
 - [Individual teachers' concern profiles vary widely and can diverge from group trends during implementation](individual-concern-profiles-vary-widely.md) — related
+- [The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser patterns toward higher-stage user patterns](workshop-shifts-concerns-toward-user-profile.md) — related
+- [Anticipating a workshop versus having prior workshop experience differentiates teachers' concern profiles](prior-workshop-experience-differentiates-concerns.md) — related

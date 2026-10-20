@@ -44,3 +44,7 @@ Post-test independent-samples t-tests comparing the MITCA experimental group wit
 
 ## Related Claims
 - [The homework management–homework behavior link is stronger for grades 7–8 than for grades 5–6](homework-management-behavior-link-stronger-older-grades.md) — related
+- [MITCA prevented the growth of self-regulatory deficits seen under traditional homework over twelve weeks](mitca-limits-self-regulatory-deficits.md) — related
+- [MITCA homework prescription improved environmental management relative to traditional homework in primary students](mitca-improves-environmental-management.md) — related
+- [MITCA did not improve information-seeking and help management skills relative to traditional homework](mitca-no-gain-information-seeking.md) — related
+- [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](assistments-grade-6-differential-impact.md) — related

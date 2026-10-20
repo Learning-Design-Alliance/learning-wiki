@@ -78,3 +78,5 @@ The report describes early research on the two-generation approach, quoting a 20
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related
 - Being placed in a group does not by itself produce cooperation; structure must be present to make learners work toward a common purpose — related
 - [Short belonging interventions in college settings can produce significant and lasting effects](brief-belonging-interventions-lasting-effects.md) — related
+- [People and connections were the most-used learning transition supports among HSE participant-advisors](people-connections-top-transition-support.md) — related
+- [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related

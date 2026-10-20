@@ -47,3 +47,5 @@ Repeated fixed-instance trial series: for each of three AI-deterrence-modified Q
 - [Deterrence layers failed because seeds changed parameters rather than task structure, scaffolding exposed solution steps, and hidden grading verified output consistency rather than authorship or understanding](why-qiskit-deterrence-layers-failed.md) — a broader claim this one bears on
 - [Optional IBM Quantum hardware execution supplied extra evidence but did not remove substantial AI assistance, as ChatGPT generated the code and could interpret returned noisy data](hardware-execution-did-not-eliminate-llm-assistance.md) — related
 - [In the pilot workshop, the LLM unreliably produced fill-in-the-blank snippets, often returning complete code solutions instead](pilot-llm-unreliable-fill-in-blank.md) — related
+- [Assessments requiring novelty and originality were more resilient to AI-generated output](novelty-requiring-assessments-more-resilient-to-genai.md) — related
+- [Visual media assessments (posters, presentations) were not passable because ChatGPT could not produce complete slides or poster content](visual-media-assessments-not-passable-by-chatgpt.md) — related

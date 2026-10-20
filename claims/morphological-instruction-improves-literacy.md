@@ -97,3 +97,9 @@ Meta-analysis of 22 peer-reviewed studies of morphological intervention with par
 - [Effects of morphology instruction are large for directly trained words in both reading and spelling](morphology-instruction-large-effects-trained-words.md) — a narrower finding that bears on this claim
 - [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](word-reading-interventions-outcome-type-effects.md) — related
 - [Word study intervention shows a moderate overall effect on word reading and comprehension for older struggling readers](word-study-moderate-effect-older-readers.md) — related
+- [In a reservation-school literacy assessment study, fourth-grade AI/AN students were average or above in phonemic awareness, word recognition, vocabulary, and reading rate but low in comprehension](ai-an-fourth-grade-skills-comprehension-split.md) — related
+- [Disadvantaged children may struggle with reading comprehension because they often lack general vocabulary and strategies for organizing information from text](disadvantaged-students-lack-vocabulary-and-comprehension-strategies.md) — related
+- [Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone](emi-raises-efl-reading-comprehension.md) — reports the opposite
+- [No clear differential effects of morphology instruction by child factors: age, reading ability, SES, or linguistic background](morphology-no-child-factor-moderators.md) — related
+- [No significant differences emerged between word-reading intervention approaches, though whole word recognition showed trends toward null effects](no-significant-differences-between-word-reading-approaches.md) — related
+- [Comprehension strategy instruction shows a large overall effect, but reliability is undermined by few standardized measures](comprehension-strategy-large-effect-unreliable.md) — related

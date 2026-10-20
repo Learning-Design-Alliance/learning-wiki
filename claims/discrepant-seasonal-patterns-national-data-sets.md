@@ -48,3 +48,5 @@ The abstract's concluding sentence identifies "discrepant seasonal patterns acro
 - [Seasonal comparisons can test whether schooling exacerbates, reduces, or reproduces overall skill inequality](seasonal-comparisons-test-schooling-inequality-mechanism.md) — related
 - [Prior seasonal studies were limited to social-category skill gaps and early grades](seasonal-studies-limited-categories-early-grades.md) — related
 - [Schooling does not show a compensatory effect on math skill inequality](no-compensatory-effect-math-inequality.md) — related
+- [The CP model fits seasonal achievement data better than a traditional polynomial growth model on RMSE, AIC, and BIC while reducing residual autocorrelation](cp-model-fits-seasonal-growth-better-than-polynomial.md) — related
+- [Schooling has a compensatory effect on inequality in reading, language, and science skills](schooling-compensatory-reading-language-science-inequality.md) — related

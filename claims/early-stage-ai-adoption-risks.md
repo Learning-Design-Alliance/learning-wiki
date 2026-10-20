@@ -48,3 +48,5 @@ This is the authors' analytical argument, not an empirical test: the article off
 - [Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment](few-business-schools-own-ai-policies.md) — related
 - [The article argues that memorization-centered management education faces three specific challenges: theory-practice disconnection, textbook lag, and simulation-reality divide](three-challenges-memorization-management-education.md) — related
 - [The article argues that formal rules and enforcement mechanisms alone are insufficient to shape student AI-use behaviour in practice](rules-and-enforcement-insufficient-for-ai-behaviour.md) — related
+- [Existing upskilling frameworks accelerate single stages and leave four gaps: fragmentation, missing verification, shallow default LLM pedagogy, and lack of external outcome measurement](four-gaps-existing-upskilling-frameworks.md) — related
+- [The article argues that widespread adoption of generative AI creates a viable means of addressing management education's memorization-centered challenges](genai-viable-means-management-education-reform.md) — related

@@ -46,3 +46,6 @@ Descriptive synthesis of the retained studies' ancestry and recruitment: "only 1
 
 - [Sample ancestry significantly moderates polygenic score predictions of educational attainment, with stronger predictions in European-ancestry samples](pgs-attainment-ancestry-moderator.md)
 - [Polygenic score predictions are reduced in African American relative to European ancestry samples, significantly so only for educational attainment](pgs-predictions-reduced-african-american-samples.md)
+- [Polygenic score predictions of education strengthen as GWAS discovery sample sizes increase](pgs-prediction-strength-grows-gwas-sample-size.md) — related
+- [Polygenic scores based on the Lee et al. (2018) GWAS show a meta-analytic association of ρ = 0.27 with educational attainment](pgs-educational-attainment-rho-27-meta.md) — related
+- [Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity](weird-bias-ai-trust-research.md) — a broader claim this one bears on

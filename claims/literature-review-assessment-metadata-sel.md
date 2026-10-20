@@ -46,3 +46,5 @@ The abstract states the study's method: "we conducted a literature review to inv
 - Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs — related
 - [Using item response time metadata to measure students' social-emotional learning shows both promise and limitations](response-time-metadata-sel-promise-and-limitations.md) — a narrower finding that bears on this claim
 - Moderation analyses in reviewed SEL evaluations often lacked conceptual or empirical justification from prior literature or hypotheses — related
+- [Time students spend on math test questions is studied as a potential source of information about motivation and self-efficacy](math-response-times-motivation-self-efficacy.md) — related
+- [Mean item response durations show no strong relationship with math motivation and self-efficacy in general](mean-item-durations-not-strongly-related-motivation-self-efficacy.md) — a narrower finding that bears on this claim

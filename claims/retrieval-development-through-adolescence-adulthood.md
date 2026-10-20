@@ -48,3 +48,6 @@ Cross-sectional ANOVA comparing strategy mixes of children at Time 2, 20 adolesc
 - [Inter-problem multivoxel pattern stability in the hippocampus increases from childhood through adolescence into adulthood, reaching adult-like levels by adolescence](hippocampal-representation-stability-increases-development.md) — related
 - [Uncinate fasciculus and cingulum bundle continue developing into adulthood while fornix integrity is age-invariant from age 5, and uncinate integrity relates to recall](uncinate-cingulum-protracted-development-fornix-age-invariant.md) — related
 - [In adults only, poorer math achievement is associated with greater hippocampal NRE sensitivity](adult-hippocampus-negative-nre-math-association.md) — related
+- [Meaningful engagement with AI as a co-regulatory partner is more likely from middle childhood onwards](ai-co-regulation-middle-childhood-onwards.md) — a broader claim this one bears on
+- [Longitudinal gains in children's retrieval fluency are predicted by increased hippocampal-neocortical functional connectivity, not by hippocampal activation levels](hippocampal-connectivity-predicts-retrieval-gains.md) — related
+- [Hippocampal engagement during arithmetic problem solving increases longitudinally in children while prefrontal-parietal engagement decreases](hippocampal-engagement-increases-prefrontal-parietal-decreases.md) — related

@@ -47,3 +47,5 @@ Proficiency projection analysis (Table 3.4) from the Minnesota MCA-III Mathemati
 - [Norm shifts can raise achievement percentiles for schools serving struggling students even when RIT gains and projected proficiency do not improve](norm-shifts-raise-school-percentiles-struggling-students.md) — related
 - [MAP Growth RIT scores correlate strongly (r = 0.92–0.93) with state summative mathematics scores in the Minnesota MCA-III linking study](map-growth-rit-strongly-correlates-state-summative-mca-iii.md) — related
 - [The conditional growth index serves as a descriptive indicator of student learning progress](conditional-growth-index-descriptive-indicator.md) — related
+- [MAP Growth spring RIT cut scores classify students as proficient or not proficient on the MCA-III Mathematics test with 0.87–0.90 overall accuracy](map-growth-cut-scores-classification-accuracy-mca-iii.md) — related
+- [Linking studies predict proficiency on state summative assessments from MAP Growth scores](map-growth-linking-studies-predict-state-proficiency.md) — a broader claim this one bears on

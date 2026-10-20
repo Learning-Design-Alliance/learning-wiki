@@ -47,3 +47,4 @@ Qualitative thematic analysis of immediate-recall recordings from 6 of the 13 pa
 - [Scenario type (social distance and power differential) did not appear to affect the overall number of nonverbal devices used](scenario-type-no-effect-device-count.md) — related
 - [Mobile-application TE-DCTs capture nonverbal attention-getters in the large majority of both L1 and L2 responses across all scenarios](te-dct-mobile-captures-nonverbal-attention-getters.md) — related
 - [L1 and L2 speakers differed in types of nonverbal devices used, with no significant overall difference in use between groups](l1-l2-nonverbal-device-type-differences.md) — related
+- [Immediately after the discussion, participants who explained did not recall more than participants who only listened](no-immediate-advantage-of-explaining-over-listening.md) — related

@@ -46,3 +46,4 @@ Pre-, post- and delayed post-test analysis of 52 first-year primary science educ
 - [Conceptual change about condensation after PDEODE teaching was retained at delayed post-test for most alternative conceptions, but not for SAC #4 and #6](pdeode-condensation-retention-delayed-posttest.md) — related
 - [Interviewed students at below-average, average, and above-average levels showed improved understanding of condensation after the intervention](pdeode-interviews-improved-understanding-three-levels.md) — related
 - [Responses classified as sound understanding on open-ended condensation items rose after the intervention and were still above pre-test levels at delayed post-test](pdeode-sound-understanding-increase-open-ended-items.md) — related
+- [Participants' pre-teaching conceptions of the republic conflated it with democracy or associated it with Atatürk](pre-teaching-republic-alternative-conceptions.md) — a narrower finding that bears on this claim

@@ -46,3 +46,6 @@ Comparison of CPS student record files for fall 1997 and fall 1999 (Figures 17-1
 - [About half of CPS students do not live within the neighborhood zone of any magnet elementary school](half-cps-students-outside-magnet-neighborhood-zones.md) — related
 - [Areas of Chicago without magnet elementary schools have lower median family income and fewer white residents than areas within magnet neighborhood zones](magnet-location-correlates-with-income-and-race.md) — related
 - [Magnet elementary schools enroll larger percentages of white and Asian students and smaller percentages of Latino and African-American students than non-magnet schools](magnet-elementary-composition-differs-from-cps.md) — related
+- [African-American students travel farther to attend magnet elementary schools than students of other ethnicities](african-american-students-travel-farthest-to-magnets.md) — related
+- [African-American and Asian students are more likely than Latino and white students to live within multiple magnet neighborhood zones](multiple-magnet-zone-access-varies-by-ethnicity.md) — related
+- [Only eight of the 15 regular magnet elementary schools meet the consent decree desegregation standard, after white enrollment declined through the 1990s](half-regular-magnets-fail-desegregation-goals.md) — related

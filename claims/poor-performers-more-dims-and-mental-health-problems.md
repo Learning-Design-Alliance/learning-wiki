@@ -42,3 +42,6 @@ Bivariate comparisons (chi-square and Kruskal-Wallis tests) between the poor aca
 
 ## Related Claims
 - [Sleep education at school improves academic performance in children](sleep-education-improves-academic-performance.md) — related
+- [Persistent sleep problems (DIMS at both ages 7–9 and 11–13) increase the risk of poor academic performance even after adjusting for mental health, gender, pubertal status and SES](persistent-dims-poor-academic-performance.md) — related
+- [The association between sleep problems and poor school performance is partly mediated by children's internalizing and externalizing mental health problems, with a direct effect remaining only for persistent DIMS](dims-mediated-by-mental-health.md) — related
+- [Concurrent sleep problems at age 11–13 do not increase the risk of poor academic performance after controlling for mental health problems](concurrent-dims-no-adjusted-risk.md) — related

@@ -52,3 +52,4 @@ Comparative analysis of journal and blog paragraphs from four sections of a grad
 - [Guided reflection assignments produce roughly twice as much written reflection as free assignments](guided-reflection-produces-longer-reflections.md) — related
 - [Public versus private reflection shows mixed effects: private journals are more analytic/integrative overall, but public blogs elicit more integrative big-picture writing](public-vs-private-reflection-mixed.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — a broader claim this one bears on
+- [MAPS-guided critique preparation led students to identify more expert-aligned weaknesses in an AI solution than independent problem-solving preparation](maps-guided-critique-supports-expert-aligned-evaluation-of-ai-solutions.md) — related

@@ -46,3 +46,8 @@ Thematic analysis of voluntarily shared chat logs from a 30-minute timed hands-o
 - More students embraced LLMs for debugging from Spring to Fall 2025 despite declining course enrollment — related
 - [LLM factual errors during collaborative circuit debugging occurred almost exclusively after image inputs, attributed to limited 3D spatial reasoning from breadboard or PCB photos](llm-factual-errors-after-image-inputs-3d-reasoning.md) — related
 - [LLMs expressed unjustified confidence in recommendations based on visual inputs, asserting incorrect pin-connection diagnoses with high stated certainty](llm-unjustified-confidence-visual-recommendations.md) — related
+- [An LLM debugging assistant provides accurate, detailed descriptions of circuit components and their proper connections](llm-provides-accurate-hardware-information.md) — related
+- [LLM-assisted hardware debugging requires consistent human feedback because the LLM's understanding of the circuit drifts](llm-debugging-requires-consistent-human-feedback.md) — related
+- [Off-the-shelf LLMs without domain-specific fine-tuning suggested true root causes among their zero-shot debugging recommendations for buggy analog circuits](llms-zero-shot-true-root-cause-suggestions.md) — related
+- [An LLM debugging assistant correctly interprets brief, informal natural-language prompts describing circuits](llm-handles-natural-language-circuit-prompts.md) — related
+- [Hardware debugging with an LLM assistant takes multiple prompts and more patience than software debugging](hardware-debugging-takes-multiple-prompts.md) — related

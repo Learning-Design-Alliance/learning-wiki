@@ -46,3 +46,5 @@ The article reports that "Several empirical examples using real-world education 
 - [The variance-bias trade-off for late pretests is addressed both theoretically and empirically for several commonly used impact estimators](late-pretest-analyzed-for-several-estimators.md) — related
 - [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](late-pretest-inclusion-can-bias-posttest-estimates.md) — related
 - Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off — related
+- [In RCTs of interventions to improve student test scores, estimators including late pretests will typically be preferred to estimators excluding them or using other baseline data](late-pretest-estimators-typically-preferred.md) — related
+- [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](late-pretest-preference-conditional-on-slow-early-impact-growth.md) — related

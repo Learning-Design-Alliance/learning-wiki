@@ -43,4 +43,7 @@ The editorial reports, citing Brand et al. (2025), a vicarious problem-solving s
 
 
 ## Related Claims
--
+- [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md) — related
+- [PS-I effects did not replicate in all domains: null sequence effects in Bayesian reasoning, javelin throwing, and inquiry-skill sequencing](ps-i-null-results-new-domains.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Across studies, high solution rates in the initial problem-solving phase co-occur with beneficial PS-I effects and low rates with no beneficial effects, a cross-study pattern not yet tested in a shared sample](solution-rate-moderates-ps-i-benefits.md) — related

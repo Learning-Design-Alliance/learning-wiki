@@ -45,3 +45,4 @@ The review reports this secondhand, citing Liu et al.'s study of praxical teache
 ## Related Claims
 - [AI-supported co-produced feedback achieved comparable quality and statistically significant learning gains with reduced production time and workload](coproduced-feedback-comparable-quality-gains.md) — related
 - [Systematic review finds operational teaming most common (62.5%) and no empirical evidence of synergistic teacher-AI teaming](review-operational-teaming-most-common-no-synergistic.md) — related
+- [Benchmarking shows NLP-based automated essay scoring achieves grading times up to 80% faster than human graders while maintaining comparable accuracy](nlp-grading-80-percent-faster-benchmark.md) — related

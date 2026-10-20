@@ -48,3 +48,5 @@ An fMRI study using an appetitive go/no-go variant with happy and calm face cues
 - [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) — related
 - [Task-relevant emotions affect response inhibition more strongly than task-irrelevant emotions, especially in young children](task-relevant-emotions-stronger-response-inhibition-effect.md) — related
 - [Age correlates with detection performance: hits and d′ increase and false alarms decrease with age](age-correlates-detection-performance.md) — related
+- [Ventral striatum activation to correct responses peaks in mid-adolescence at approximately age 16](vs-activation-peaks-mid-adolescence.md) — related
+- [The VS correct-greater-than-incorrect response is present for both target and foil trials and is not a motor confound](vs-effect-present-targets-foils-not-motor.md) — related

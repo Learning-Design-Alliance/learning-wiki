@@ -66,3 +66,4 @@ Improvement-ranking items from the same survey (N=18). "11 of 18 for more worked
 - [BLEU-4 scored zero on all 179 mathematical-proof responses, which the authors interpret as a property of n-gram metrics rather than system failure](bleu4-zero-mathematical-proofs-metric-limitation.md) — related
 - [Students in a 13-week lecture-free course reported accepting the weekly closed-book gate and rated the format as deeper and faster than lectures](tdaa-student-acceptance-weekly-gate.md) — related
 - [Students ranked the self-paced AI-study block and the weekly closed-book test as the components they would miss most, treating tests as useful accountability](weekly-tests-ranked-accountability.md) — related
+- [The weekly closed-book gate was attainable: 80.1% of recorded student-test observations reached the 100-point credit cap](closed-book-gate-attainable-scores.md) — related

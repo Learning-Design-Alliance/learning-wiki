@@ -50,3 +50,4 @@ Case analysis of two focal students in the ethnographic video study. Cathy prese
 - [When students argue to reach consensus rather than to convince or persuade, they commit to understanding and integrating others' ideas](arguing-to-consensus-fosters-integration.md) — related
 - [The institutionalized “ELL” label positioned labelled students as the Other, depriving them of access to agentive participation in the unit](ell-label-positioned-students-as-other.md) — related
 - [Categorical and binary frameworks inscribed in the mathematics curriculum served as a context for reproducing existing categories through student surveys and graphs](curriculum-categories-reproduced-through-surveys-graphs.md) — related
+- [Community-based mathematical investigations gave students confidence to use mathematics for social change](community-based-math-social-change.md) — a broader claim this one bears on

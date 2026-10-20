@@ -188,3 +188,7 @@ Narrative review of Richland et al. (2009), in which participants attempted five
 - [Active control over the learning experience enhances recognition memory from age 7 into adulthood](active-control-enhances-memory-development.md) — related
 - [Reading passages without intent to learn was classified as rest because participants were not informed of a later test](incidental-reading-classified-as-rest.md) — related
 - [Pretesting before instruction enhances learning of subsequently presented material even when pretest answers are wrong, with multiple-choice pretesting more effective than cued-recall pretesting](pretesting-enhances-learning-mc-beats-cued-recall.md) — a narrower finding that bears on this claim
+- [The pretesting effect on text memory grows with retention interval, being largest at one week](pretesting-effect-grows-with-retention-interval.md) — related
+- [Generation Effect Improves Retention](generation-effect-improves-retention.md) — related
+- [Unsuccessful retrieval attempts confer a smaller benefit to future performance than successful retrievals, whose advantage grows with item difficulty](unsuccessful-retrieval-smaller-benefit-than-successful.md) — related
+- [Students already show a pretest congruency effect: existing knowledge yields better baseline performance for schema-related questions](pretest-schema-congruency-effect.md) — related

@@ -70,3 +70,4 @@ Section heading for the Cohort 1 follow-up subgroup analyses reports that "EIGHT
 - [A national evaluation design was produced to assess supplemental reading comprehension programs for fifth-grade students](national-evaluation-design-supplemental-reading-comprehension-fifth-grade.md) — related
 - Ecological inference methods for subgroup analyses yield large design effects — related
 - [After one year, RSF Cohort 2 students generally performed at the same levels as matched comparison students, with only three statistically significant differences](rsf-cohort2-few-significant-differences-vs-matched-controls.md) — related
+- [Project CRISS, ReadAbout, and Read for Real showed no significant impacts on reading comprehension in the study's first year](three-curricula-no-significant-impacts-year-one.md) — related

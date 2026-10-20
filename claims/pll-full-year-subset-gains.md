@@ -45,3 +45,5 @@ Full-year analysis of the Ohio study, limited to the subset of students who scor
 ## Related Claims
 - Grade 1 students in California schools using 95 Phonics Lesson Library showed significantly higher Acadience Reading composite scores than comparison schools (ES +0.23) — related
 - Fourth and fifth grade students using 95 PLL as Tier 2 and Tier 3 intervention demonstrated significantly greater mid-year growth on Acadience Reading than comparison students (ES +0.18) — related
+- [As a Tier 2 intervention, Bridge to Reading schools significantly outperformed comparison peers on spring NWEA MAP Reading (ES +0.33), with significant effects at both grade levels](bridge-to-reading-tier2-michigan-es-033.md) — related
+- [Students in personalized learning schools made significantly greater mathematics and reading gains over two years than matched comparison students (effect sizes 0.27 mathematics, 0.19 reading)](pl-two-year-gains-math-reading-effect-sizes.md) — related

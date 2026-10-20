@@ -46,3 +46,4 @@ Spearman rank order correlations in the same cross-sectional LOCHI sample; Table
 - [On average, 3-year-old children with hearing loss who received early intervention scored below 1 SD of normative mean on several standardized language measures](early-intervened-children-below-1sd-language-3yo.md) — related
 - [Severity of hearing loss is significantly negatively related to language development in 3-year-old children with hearing aids](hearing-loss-severity-negatively-related-language-3yo.md) — related
 - [Children with language deficits exhibited difficulties in everyday functioning at 3 years of age](language-deficits-everyday-functioning-difficulties.md) — related
+- [Maternal education beyond 12 years is associated with better language skills at 3 years after accounting for hearing loss severity](maternal-education-predicts-language-3yo-hearing-loss.md) — related

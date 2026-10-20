@@ -63,3 +63,5 @@ Association-rule analysis of facet co-occurrences across the 42 studies. The rev
 
 ## Related Claims
 - [Collecting and analyzing data are the most prevalent data practices in K-16 science education research, while cleaning and disseminating data are least reported](data-practice-frequency-collecting-analyzing-most-prevalent.md) — related
+- [K-12 and higher education show distinct, non-overlapping sets of co-occurring data practices](k12-versus-higher-education-distinct-data-practice-patterns.md) — related
+- [Data type shapes practice emphasis: first-hand data aligns with problem understanding and experiment design, second-hand data with statistical analysis and synthesis](data-type-first-hand-second-hand-practice-alignment.md) — related

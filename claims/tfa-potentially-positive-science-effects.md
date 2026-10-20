@@ -49,3 +49,4 @@ This is the review's science achievement domain synthesis, resting on a single q
 - [KIPP charter schools have potentially positive effects on science achievement for middle and high school students](kipp-potentially-positive-science.md) — related
 - [Reading Apprenticeship® has potentially positive effects on student science achievement in grades 7–9, based on one qualifying study](reading-apprenticeship-potentially-positive-science-achievement.md) — related
 - [The evidence base for estimating TFA's effects on student academic outcomes reduces to just four studies](tfa-evidence-base-reduced-to-four-studies.md) — related
+- [A randomized controlled trial found TFA secondary math teachers outperformed non-TFA comparison teachers in mathematics achievement](clark-2013-tfa-secondary-math-rct-positive.md) — related

@@ -49,3 +49,7 @@ YouTube analytics across two course offerings (534 students). The article report
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](mooc-completion-four-percent.md) — related
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [The nine AI demonstrations drew high attendance but modest engagement, with student feedback sharply split on course utility](ai-demonstrations-split-on-course-utility.md) — related
+- [Weekly engagement with course materials varied widely (mean 63.9 page views), and student feedback on the AI-supported format was largely positive](variable-engagement-positive-feedback-ai-course.md) — related
+- [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — a broader claim this one bears on
+- [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related
+- [The analytics agent surfaced a Module 2 dead zone — students stopping around the 42-minute lecture mark where exercises ended — and the instructor revised the exercise set in response](itas-dead-zone-finding.md) — related

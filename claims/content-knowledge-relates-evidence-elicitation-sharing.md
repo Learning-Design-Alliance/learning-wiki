@@ -47,3 +47,6 @@ SEM analysis of pooled data from Studies A, B, and C in the agent-based CDR simu
 - [Collaboration knowledge is positively and consistently related to the quality of evidence sharing across all three studies](collaboration-knowledge-relates-evidence-sharing.md) — related
 - [Evidence elicitation relates positively to diagnostic accuracy and diagnostic efficiency](evidence-elicitation-relates-accuracy-efficiency.md) — related
 - [Evidence sharing relates positively to diagnostic justification quality](evidence-sharing-relates-diagnostic-justification.md) — related
+- [Hypotheses sharing relates positively to diagnostic justification and diagnostic efficiency](hypotheses-sharing-relates-justification-efficiency.md) — related
+- [Social skills are positively related only to evidence elicitation quality, with inconsistent support across studies](social-skills-relate-evidence-elicitation-only.md) — related
+- [Cognitive inquiry skills are positively intercorrelated, but the functional thinking–CVS correlation diminishes when controlling for content knowledge](cognitive-skill-intercorrelations-conditional.md) — related

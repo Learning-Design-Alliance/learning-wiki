@@ -47,3 +47,5 @@ Linear association models (described in Technical Appendix) testing school conte
 - [Graduation disparities: 69% of 12th-grade LTEL7 students attained a high school diploma compared to 86% of other ever-EL peers](ltel7-graduation-disparities.md) — related
 - [Socioeconomic disadvantage is more prevalent among California students designated as LTEL7 (89%) than other ever-ELs (80%)](ses-disadvantage-more-prevalent-ltel7.md) — related
 - [Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers](rural-counties-higher-ltel7-proportions.md) — related
+- [Asthma linked to poor indoor air quality is a causal chain from facilities to chronic absenteeism and lower achievement](asthma-iaq-absenteeism-causal-chain.md) — related
+- [Students designated as LTEL7 are less likely to attend schools offering the Seal of Biliteracy (78.3% vs. 83.5% of other ever-ELs)](ltel7-less-likely-seal-biliteracy-schools.md) — related

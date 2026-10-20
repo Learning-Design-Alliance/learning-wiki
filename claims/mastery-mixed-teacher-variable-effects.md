@@ -49,3 +49,5 @@ Large-scale study by Guskey (1984) involving 117 junior and high school level te
 
 - [Mastery learning improves students' attitudes toward the instruction and toward the subject](mastery-learning-improves-attitudes-toward-instruction.md) — the general claim this finding bears on, with the studies behind it
 - [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](mastery-positive-affective-effects.md) — related
+- [Mathematics teachers differ from other teachers in data use, attitudes, and self-efficacy for DBDM](math-teachers-data-use-attitudes-self-efficacy.md) — related
+- [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](sex-advantage-diminishes-under-mastery-learning.md) — related

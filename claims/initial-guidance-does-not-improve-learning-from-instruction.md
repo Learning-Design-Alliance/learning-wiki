@@ -77,3 +77,6 @@ An independent replication with three conditions (unguided problem solving, guid
 - [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](no-posttest-differences-mvc-convergence.md) — related
 - [Productive failure before instruction outperforms instruction followed by problem-solving](productive-failure-before-instruction-strong-effect.md) — a broader claim this one bears on
 - [Guidance in a computer-based logic environment significantly influences pre- to post-test scores for learning the conditional](guidance-improves-posttest-logic-conditional.md) — related
+- [Productive failure students demonstrated greater representation flexibility in working with graphical representations than students in the other two conditions](pf-greater-representation-flexibility-graphical.md) — related
+- [Receiving instruction before problem solving improves procedural fluency more than problem solving before instruction when both phases are otherwise identical](instruction-first-better-procedural-fluency.md) — related
+- [Differences between the facilitated complex problem solving and lecture-practice conditions did not reach significance on post-test outcomes](fcps-lp-difference-not-significant.md) — related

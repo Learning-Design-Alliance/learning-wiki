@@ -46,3 +46,4 @@ Case-control comparison of 40 ADHD children (mean age 7.68 ± 1.64 years) versus
 - [Learning disability scores correlate negatively with ABR wave III/IV/V latencies, I-III and I-V intervals, and epileptiform EEG activity](learning-disability-correlates-abr-eeg.md) — related
 - [ADHD children show significantly prolonged ABR wave III, IV, V and interpeak I-III, III-V, I-V latencies compared with controls](adhd-prolonged-abr-latencies.md) — related
 - [Children with ADHD perform worse than controls on WISC-IV Coding but not on Coding Copy, indicating deficits beyond graphomotor speed](adhd-coding-deficit-beyond-graphomotor-speed.md) — related
+- [Adults with developmental dyscalculia score significantly lower than controls on the formal NADL test of school-acquired numerical abilities](dd-adults-lower-formal-nadl.md) — related

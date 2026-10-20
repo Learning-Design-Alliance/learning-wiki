@@ -46,3 +46,5 @@ Post-hoc analysis of demographic differences across three reader groups (TR vs. 
 - [Both inadequate responder groups show more teacher-rated attention problems and lower self-reported self-efficacy than typical readers](inadequate-responders-attention-self-efficacy-deficits.md) — related
 - [ELs with identified disabilities made slower progress toward English skills and had lower attendance, and were more likely to opt out of bilingual services](els-with-disabilities-slower-progress-lower-attendance.md) — related
 - [The multivariate omnibus test shows significant cognitive profile differences across the four reader groups](omnibus-cognitive-profile-differences-four-groups.md) — related
+- [Phonological awareness and rapid naming differentiate inadequate responders with word reading deficits from those without](phonological-processing-separates-inadequate-responder-subgroups.md) — related
+- [Different responsiveness-determination approaches (status vs. slope, criteria, domains, cut points) identify different students as adequate and inadequate responders, with little or no overlap](rti-responsiveness-criteria-disagree.md) — related

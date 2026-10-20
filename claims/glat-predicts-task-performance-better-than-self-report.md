@@ -71,3 +71,6 @@ The article reports that GLAT scores predicted performance on a GenAI chatbot-su
 - [Instruction type predicts post-test performance with a large effect size after controls (linear and quantile regression)](ai-tutor-regression-large-effect-size.md) — related
 - [GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model](glat-2pl-structural-validity-reliability.md) — related
 - [Off-line self-report instruments show low concurrent validity with on-line measures and do not predict learning outcomes very well](offline-self-reports-low-concurrent-validity-veenman.md) — a broader claim this one bears on
+- [CTT item selection dropped five low-discrimination items, retaining 20 items of moderate difficulty](glat-item-selection-discrimination.md) — related
+- [A 200-student pilot showed strong content validity across relevance, comprehensiveness, comprehensibility, and face validity](glat-content-validity-pilot.md) — related
+- [Post-2024 instrument development expanded objective AI-literacy measurement, which had been dominated by self-report scales](objective-ai-literacy-measures-expanded-post-2024.md) — a broader claim this one bears on

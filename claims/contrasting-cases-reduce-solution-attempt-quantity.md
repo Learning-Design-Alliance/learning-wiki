@@ -43,4 +43,4 @@ ANCOVA on quantity of solution attempts in the 2×2 experiment (N = 181). The co
 
 
 ## Related Claims
--
+- [Instruction before problem solving leads students to generate fewer but higher-quality solution attempts than problem solving before instruction](instruction-first-fewer-better-solution-attempts.md) — related

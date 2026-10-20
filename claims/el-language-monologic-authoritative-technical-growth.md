@@ -45,3 +45,5 @@ Classroom observation from a RAMPUP field trial of four students in an expert gr
 ## Related Claims
 - [Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners](language-consequence-not-prerequisite-math-el.md) — a broader claim this one bears on
 - [Teacher communicative activities in the analysed undergraduate mathematics lesson were dominated by presentation and correction, reflecting an authoritative communicative approach](teacher-transmission-dominance-undergraduate-math-lesson.md) — related
+- [After the intervention, teachers' responses to dialogue focused on balancing student relations and eliciting dialogic gaps, yet some responses still promoted monologic narratives driven by mathematical correctness](teacher-responses-balancing-versus-monologic.md) — related
+- [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](integrate-oral-written-language-content-teaching.md) — related

@@ -62,3 +62,4 @@ Same two-way ANOVA design for reaction times; printed effect size η2 p = 0.107 
 - [Misconception-task accuracy increases with age between 12 and 15 years, with no age effect on reaction time](misconception-accuracy-increases-with-age.md) — related
 - [Younger students solve letter equations less accurately than number equations, but this difference disappears by age 16–17](number-letter-accuracy-gap-disappears-by-16-17.md) — related
 - [Students become faster and more accurate in equation rearrangement over a short practice session even without feedback](short-practice-improves-equation-rearrangement.md) — related
+- [Students' difficulty rankings of equation types partly mismatch their measured performance, though metacognitive accuracy improves with age](equation-difficulty-self-ranks-mismatch-performance.md) — related

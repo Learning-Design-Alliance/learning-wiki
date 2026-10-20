@@ -62,4 +62,4 @@ The same Moore, Oklahoma teacher-comparison study was recognized by the What Wor
 
 
 ## Related Claims
--
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on

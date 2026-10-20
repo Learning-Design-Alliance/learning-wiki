@@ -49,3 +49,5 @@ Follow-up repeated-measures ANOVA within the older adolescent group (n = 20) fro
 - [No behavioural Audience × Age group interaction: the accuracy decrement was comparable in adolescents and adults](no-behavioural-audience-age-interaction.md)
 - [A peer audience decreases accuracy in the complex relational integration condition in both adolescents and adults](peer-audience-decreases-relational-integration-accuracy.md)
 - [Older adolescents respond faster when observed by an experimenter than by a friend or when alone, while social condition does not affect younger adolescents' or adults' response times](older-adolescents-faster-rt-experimenter-present.md)
+- [Being observed by a friend or an experimenter affects relational reasoning accuracy in adolescents but not in adults](audience-effect-adolescent-relational-reasoning-not-adults.md) — a broader claim this one bears on
+- [The study found no evidence of age differences in relational reasoning performance, possibly due to design choices maximising sensitivity to audience effects](no-age-differences-relational-reasoning-this-task.md) — related

@@ -51,3 +51,6 @@ Qualitative analysis of post-conversation participant interviews from three teac
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [The redesigned unit promoted engagement across all five elements of the Engagement Framework, including professional relevance rated 4.86 on SETL](redesigned-unit-engaged-all-framework-elements.md) — related
 - [AI agents designed for specific educational purposes can support joyful assessment by creating low-stakes opportunities for practice, feedback, reflection, personalization, and multimodal demonstration of learning](ai-agents-support-joyful-assessment.md) — related
+- [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — related
+- [Adult learners expect AI to enhance relevance through real-time goal monitoring, goal breakdown, career companionship, and networking recommendations](ai-enhances-learning-relevance-goal-career.md) — related
+- [Inhibitory social contextual factors include assessment pressures on teachers and emphasis on standardized curricula](standardized-assessment-pressure-inhibits-creativity.md) — related

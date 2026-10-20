@@ -45,3 +45,4 @@ Review's synthesis (Section 3.5.2) of qualitative studies, including a grounded-
 ## Related Claims
 - [Cluster analysis identifies four tentative moral response profiles: Comfortable Adopters, Guilty Non-Users, Cautious Users, and Morally Distressed Avoiders](four-ai-moral-response-profiles.md) — related
 - [Teachers describe AI companions as a low-stakes rehearsal space for students who struggle socially, including autistic students](ai-companion-rehearsal-space-struggling-students.md) — related
+- [Students perceive conversational-agent interventions as disruptive and react to the automatic disruptions differently](agent-interruptions-perceived-disruption-varies.md) — related

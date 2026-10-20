@@ -43,4 +43,5 @@ Mixed 2×2×3 experiment comparing study–test (ST ST ST) and study–study (SS
 
 
 ## Related Claims
--
+- [Resolution of JOLs increases across study–test cycles, improving between Cycles 1 and 2 but not from Cycle 2 to Cycle 3](jol-resolution-increases-across-cycles.md) — related
+- [Calibration of JOLs shifts toward underconfidence across learning cycles for action phrases under both verbal and enactive encoding, without first-cycle overconfidence](uwp-underconfidence-shift-action-phrases.md) — related

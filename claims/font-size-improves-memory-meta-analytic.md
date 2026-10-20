@@ -47,3 +47,4 @@ Meta-analysis of studies contributing memory-performance data on the font size e
 - [JOL-memory dissociation occurs only when font size ranges between very small and intermediate](dissociation-limited-very-small-intermediate-fonts.md)
 - [Larger fonts reliably increase both JOLs and memory only under specific boundary conditions: intermediate-to-very-large sizes, unrelated word lists, immediate JOLs, and brief study time](font-size-effect-boundary-conditions.md)
 - [Larger font sizes produce higher judgments of learning than smaller font sizes, with a small-to-moderate pooled effect](font-size-increases-jols-meta-analytic.md)
+- [JOLs and memory both increase with font size rather than being completely dissociated](jol-and-memory-concordant-font-size.md) — a broader claim this one bears on

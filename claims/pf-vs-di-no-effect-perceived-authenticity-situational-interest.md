@@ -43,4 +43,7 @@ Quasi-experimental study of 152 10th graders (PF n=80, DI n=72, whole classes as
 
 
 ## Related Claims
--
+- [Students who collaborated (in collaborative and combined conditions) reported higher situational interest in the fractions activity](collaborating-students-higher-situational-interest.md) — related
+- [Students' perceived authenticity of the learning activity correlated with their situational interest but not with their knowledge acquisition](perceived-authenticity-correlates-interest-not-knowledge.md) — related
+- [PF students did not outperform DI students when learning social science research methods in two quasi-experimental studies with 10th graders, failing to replicate the STEM-domain PF effect](pf-effect-not-replicated-non-stem-research-methods.md) — related
+- [Students' individual interest in social sciences correlated with their situational interest during the OSL visit (catch r = .27; hold r = .26)](individual-interest-correlates-situational-interest-osl.md) — related

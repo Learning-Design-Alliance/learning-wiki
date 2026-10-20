@@ -44,3 +44,5 @@ Qualitative case-study finding from interviews, observations, and documents at L
 
 ## Related Claims
 - [Qualitative studies report district-provided professional development and adequate preparation time as necessary factors for effective restorative justice implementation](rj-pd-and-time-necessary-for-implementation.md) — related
+- [School climate data supported changes to the three schools' discipline systems](climate-data-discipline-system-changes.md) — related
+- [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — related

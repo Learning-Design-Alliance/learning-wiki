@@ -45,3 +45,6 @@ Single-factor between-subjects experiment with 90 undergraduates randomly assign
 ## Related Claims
 
 - [Strategy guidance yields better delayed recall performance and higher delayed-recall efficiency than continuous presentation](strategy-guidance-beats-continuous-presentation-delayed.md)
+- [Strategy guidance yields better immediate recall and comprehension and higher efficiency than continuous presentation without learner control](strategy-guidance-beats-continuous-presentation-immediate.md) — related
+- [Providing strategy guidance leads learners to pause and scroll back on the video timeline more often than unguided learner control](strategy-guidance-increases-pauses-and-scrollbacks.md) — related
+- [Guided use of a multiple document reading application yields higher multiple document comprehension than access-only, unguided, or traditional pdf viewer use](liquidtext-guidance-comprehension-advantage.md) — related

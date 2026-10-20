@@ -46,3 +46,7 @@ Cross-sectional moderator analysis by cognitive domain (Table 3): perception g =
 
 - [Action video game training causally improves cognitive skills relative to active control training (small effect, g = 0.30)](avg-training-causal-improvement-g-030.md)
 - [Multitasking performance on NeuroRacer declines linearly across the adult lifespan from ages 20 to 79](neuroracer-multitasking-cost-linear-age-decline.md)
+- [Video-game play and mind-brain training literatures suggest the possibility of training selective attention](video-game-and-mind-brain-training-selective-attention.md) — related
+- [Average pointing error increases linearly with age across younger and older adults in a real-world low-vision navigation task](spatial-learning-worsens-with-age-low-vision-navigation.md) — related
+- [Age-related deficits in top-down modulation underlie much of older adults' working memory impairment](aging-top-down-modulation-deficit-wm.md) — related
+- [No significant moderators of the action video game effect were found in either meta-analysis](no-significant-moderators-avg-meta-analysis.md) — reports the opposite

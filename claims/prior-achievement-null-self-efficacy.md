@@ -53,3 +53,5 @@ Two-way ANOVA on self-efficacy (PTFC n=36, CFC n=34): prior achievement level "w
 - [PTFC and CFC differ on general and future self-efficacy dimensions but not on grade-anxiety, in-class, or assignment dimensions](self-efficacy-dimension-differences-ptfc-cfc.md) — related
 - [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-conceptual-understanding.md) — related
 - [Self-efficacy correlates positively with conceptual understanding in both flipped classroom methods](self-efficacy-correlates-conceptual-understanding.md) — related
+- [Student attributes showed no main effects on outcomes except interest in science in graphing, and did not interact with sequence](attributes-no-interaction-with-sequence.md) — related
+- [Prior achievement level affects calculus conceptual understanding, and PTFC outperforms CFC across achievement levels, with no interaction](prior-achievement-affects-conceptual-understanding.md) — related

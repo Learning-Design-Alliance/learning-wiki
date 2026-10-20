@@ -45,3 +45,4 @@ Survey of Melbourne convening participants (23 responses, including all nine tra
 - [District leaders reported the working group created a valued cross-district network, with 96 percent forming new connections to colleagues](sel-working-group-cross-district-connections.md) — related
 - [Most convening participants strongly agreed they could collaborate with district colleagues during the Melbourne convening](convening-collaboration-decision-makers-implementors.md) — related
 - [El Segundo Unified secured board funding for middle and high school wellness centers after observing Melbourne school wellness centers amid rising mental health needs](el-segundo-wellness-center-funding.md) — a narrower finding that bears on this claim
+- [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related

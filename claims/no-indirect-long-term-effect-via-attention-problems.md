@@ -47,3 +47,4 @@ Longitudinal analysis testing academic attention problems as the underlying mech
 - [Academic-media multitasking predicts an increase in subsequent academic attention problems](multitasking-increases-subsequent-academic-attention-problems.md) — related
 - [Academic-media multitasking shows no direct long-term relationship with subsequent academic achievement in adolescents](no-long-term-direct-effect-media-multitasking-achievement.md) — related
 - [Short-term effects of academic-media multitasking on achievement are documented, but long-term support was lacking before this study](short-term-evidence-long-term-gap-multitasking.md) — a broader claim this one bears on
+- [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related

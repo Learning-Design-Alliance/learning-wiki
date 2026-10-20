@@ -45,3 +45,5 @@ Reliability estimation from the finalised CFA solution in the validation sample 
 ## Related Claims
 
 - [SRL-O subscales show convergent validity with corresponding MSLQ scales](srl-o-convergent-validity-mslq.md)
+- [The SRL-O supports both ten lower-order subscales and two superordinate factors (motivational beliefs and learning strategies)](srl-o-bifactor-two-superordinate-factors.md) — related
+- [The SRL-O has a 10-factor structure covering motivational beliefs and learning strategies for online learners](srl-o-ten-factor-structure.md) — related

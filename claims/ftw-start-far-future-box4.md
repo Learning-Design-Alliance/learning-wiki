@@ -43,4 +43,7 @@ Series of pilot studies held during 2001-2 (Vavoula, Sharples, & Rudman, 2002) r
 
 
 ## Related Claims
--
+- [Early FTW pilots produced only general non-functional requirements, prompting method modifications](ftw-pilots-general-requirements-led-to-modifications.md) — related
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — a broader claim this one bears on
+- [Students' perceptions of futures broadened and pluralised, and deterministic thought patterns were questioned](course-pluralised-futures-questioned-determinism.md) — related
+- [Students adopted nondeterministic (SCOT-like) views in which humans influence technological change, supporting agency](students-scot-views-human-steering-technology.md) — related

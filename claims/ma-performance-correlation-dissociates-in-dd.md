@@ -63,3 +63,5 @@ Within-group Spearman correlations in the DD (n = 99) and DD+RD (n = 140) subsam
 
 ## Related Claims
 - [Numerical difficulties in adults with DD are associated with negative emotions and psychosomatic symptoms traceable to primary school age](dd-adults-emotional-impact-numerical-difficulties.md) — related
+- [The majority (77%) of children with high mathematics anxiety have average or above-average mathematics performance](high-math-anxiety-mostly-typical-performance.md) — related
+- [Children with developmental dyscalculia are twice as likely to have high mathematics anxiety as children with typical mathematics performance](dd-children-twice-likely-high-math-anxiety.md) — related

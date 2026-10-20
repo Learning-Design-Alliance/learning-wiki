@@ -46,3 +46,4 @@ Fully controlled regression models on the LinkedIn individual-year panel, with d
 - [Specialisation is strongly associated with sorting into higher-wage occupations but only weakly related to adaptive outcomes](specialisation-predicts-wage-sorting-not-adaptation.md) — related
 - [Workers closest to the diversity frontier show the strongest adaptive outcomes, while frontier position is not associated with stronger wage sorting](diversity-frontier-predicts-adaptive-capacity.md) — related
 - [Skill portfolio measures stratify by demographics: men, younger cohorts, and more educated workers show higher specialisation](specialisation-demographic-stratification-linkedin.md) — related
+- [Mean skill diversity rises from low to moderate specialisation before declining among the most specialised workers](diversity-specialisation-inverse-u-pattern.md) — related

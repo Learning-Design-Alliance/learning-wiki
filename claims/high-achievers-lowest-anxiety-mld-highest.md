@@ -49,3 +49,4 @@ Group-level comparison of math and math anxiety scores plotted by achievement gr
 ## Related Claims
 - [Math anxiety differs significantly across achievement groups, with MLD students not differing from low achievers](math-anxiety-group-differences-mld-low-achievers.md) — related
 - [Children with MLD report higher learning mathematics anxiety than LA, TA, and HA peers, but not higher evaluation anxiety](mld-higher-lma-not-mea.md) — a narrower finding that bears on this claim
+- [The majority (77%) of children with high mathematics anxiety have average or above-average mathematics performance](high-math-anxiety-mostly-typical-performance.md) — related

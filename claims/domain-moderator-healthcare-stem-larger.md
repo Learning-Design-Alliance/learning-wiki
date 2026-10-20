@@ -45,3 +45,4 @@ CHE-model moderator analysis of academic domain. The authors report "Moderate, p
 ## Related Claims
 - [Single-course implementations of problem-driven learning show larger motivation effects than curriculum-wide implementations](single-course-larger-effect-than-curriculum.md) — related
 - [Problem-driven learning shows significantly smaller effects on students' reasons for studying than on other motivation constructs](reasons-for-studying-smaller-effect.md) — related
+- [Creating products as part of problem-driven learning does not change its effect on motivation](product-creation-no-motivation-difference.md) — related

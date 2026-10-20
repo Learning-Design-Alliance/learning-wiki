@@ -45,4 +45,8 @@ Child-level comparisons of 308 children (139 second graders, 169 fourth graders)
 
 
 ## Related Claims
--
+- [Monitoring discrimination and overconfidence improve with age between kindergarten and second grade](monitoring-accuracy-improves-kindergarten-to-second-grade.md) — reports the opposite
+- [Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no significant age difference was found for true-false questions](age-effect-monitoring-open-ended-only.md) — related
+- [Elementary school children show distinct latent profiles of procedural metacognition combining monitoring accuracy, restudy effectiveness, and decision accuracy across tasks](distinct-metacognition-profiles-lpa-children.md) — related
+- [Monitoring-based control (the relation between confidence judgments and maintenance decisions) is stronger for fourth graders than second graders and strengthens over time for open-ended questions](monitoring-based-control-strengthens-age-and-time.md) — related
+- [Effective restudy selection is the metacognitive skill that most distinguishes children's profiles](effective-restudy-distinguishes-metacognition-profiles.md) — related

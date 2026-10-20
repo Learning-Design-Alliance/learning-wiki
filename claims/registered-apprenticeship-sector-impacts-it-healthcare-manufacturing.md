@@ -48,3 +48,4 @@ Sector-level findings from the impact evaluation of the two federally funded app
 - [Unregistered apprenticeships had statistically significant ninth-quarter employment and earnings impacts specifically for advanced manufacturing](unregistered-apprenticeship-advanced-manufacturing-impacts.md) — related
 - [Unregistered apprenticeship programs had positive, statistically significant impacts on ninth-quarter employment, ranging from 3.9 to 4.8 percentage points](unregistered-apprenticeship-ninth-quarter-employment-impacts.md) — related
 - [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related
+- [Apprenticeship expansion into nontraditional industries such as healthcare and education accelerated during the pandemic](nontraditional-industry-expansion-accelerated.md) — related

@@ -44,3 +44,4 @@ Design statement describing the mixed evaluation approach across both studies: c
 
 ## Related Claims
 - [Learners in fully online courses reported positive perceived usefulness and perceived ease of use of both a goal-setting chatbot and a learning buddy chatbot](chatbots-positive-usefulness-ease-of-use-online.md) — a narrower finding that bears on this claim
+- [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — a broader claim this one bears on

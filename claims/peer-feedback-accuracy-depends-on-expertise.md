@@ -127,3 +127,12 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 - [Giving students feedback about their grading bias increased their subsequent grading accuracy](grading-bias-feedback-increases-accuracy.md) — related
 - [Students' expertise on the task may be an important prerequisite for accurate self-assessment](task-expertise-prerequisite-ssa-accuracy.md) — related
 - [A formative assessment script increases the quantity and quality of peer feedback vocational students generate on a peer's draft](fas-improves-peer-feedback-generation.md) — related
+- [Giving feedback that identifies problems in peers' work is a significant predictor of assessors' own project performance](giving-problem-identification-feedback-predicts-assessor-performance.md) — related
+- [Giving suggestions to peers is a significant predictor of assessors' own project performance](giving-suggestions-predicts-assessor-performance.md) — related
+- [Turn-taking test review makes each member's expertise visible, enabling peers to locate and draw on community knowledge](test-review-brings-expertise-to-open.md) — related
+- [Anonymous asynchronous online peer review of writing: lower-skill students sometimes felt inferior yet increased determination, while better writers felt they learned less](anonymous-online-peer-review-differential-responses.md) — related
+- [First-year students do not attach great importance to the tutor's domain specific expertise, which may explain why staff tutors' extra expertise does not yield achievement advantages](domain-expertise-less-important-first-year-pbl.md) — related
+- [Students rated peers' work from their own country 3.6% higher than work from elsewhere](in-group-favoritism-peer-grading-country.md) — related
+- [PeerWise student ratings of multiple-choice questions correlate well with instructor ratings (0.5 and 0.58)](peerwise-student-ratings-correlate-instructor-ratings.md) — related
+- [Peers outperformed ChatGPT in identifying problems within essays](peers-better-problem-identification-feedback.md) — related
+- [Peer ratings of programming assignments correlated significantly with instructor ratings, with students more accurate on objective than subjective judgements](sitthiworachart-peer-ratings-objective-judgements.md) — related

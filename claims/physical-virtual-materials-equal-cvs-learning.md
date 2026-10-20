@@ -68,3 +68,7 @@ In the transfer phase one week after training, all children worked with physical
 - [Individual children in both training conditions were equally likely to become good experimenters or nonlearners after CVS training](good-experimenter-classification-equal-conditions.md) — related
 - [Instruction increased robust CVS use — designing unconfounded experiments plus providing a CVS rationale — in individual interviews](robust-cvs-use-interview-gains.md) — related
 - [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md) — related
+- [Dynamic assessment can teach kindergartners the CVS within a single session](dynamic-assessment-teaches-cvs-single-session.md) — related
+- [Classroom expository CVS instruction dramatically increased fourth graders' CVS performance in individual hands-on interviews](classroom-cvs-instruction-interview-gains.md) — related
+- [Children gained domain knowledge of variable effects indirectly from running experiments, with mixed condition differences on individual variables](domain-knowledge-gains-mixed-condition-effects.md) — related
+- [Learning the CVS with self-generated, vicarious, combined, or no errors during PS-I does not differentially affect CVS posttest performance when controlling for prior knowledge](cvs-error-type-no-posttest-differences.md) — related

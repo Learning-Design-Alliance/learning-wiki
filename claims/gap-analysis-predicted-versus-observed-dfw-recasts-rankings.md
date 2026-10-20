@@ -64,3 +64,4 @@ The same four-year institutional records analysis found courses whose DFW rates 
 ## Related Claims
 - [Core-course failures in freshman year strongly predict non-graduation, similarly across subjects](core-course-failures-predict-non-graduation.md) — related
 - [A course whose DFW grades produced no expected persistence drop suggests some courses may act as guardrails associated with retained persistence after failure](guardrail-courses-attenuate-persistence-drop-after-dfw.md) — related
+- [School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability](within-between-year-effectiveness-correlations-below-090.md) — related

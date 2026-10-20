@@ -49,3 +49,4 @@ Large-scale observational analysis of NWEA assessment data covering 186,139 ever
 - [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related
 - [The study distinguishes three EL service-history groups with distinct achievement and growth profiles](three-el-service-history-groups.md) — related
 - [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — related
+- [All three English Learner groups had lower K-4 test scores than never-ELs](el-groups-lower-k4-achievement-never-els.md) — related

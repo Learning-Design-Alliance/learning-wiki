@@ -49,3 +49,4 @@ Word-decoding mediation model in 55 children with dyslexia: total effect c = 0.0
 - [Semantic abilities indirectly predict pseudoword decoding efficiency in children with dyslexia via phonological awareness and rapid naming](semantics-indirect-pseudoword-decoding-dyslexia.md) — related
 - [Semantic abilities indirectly predict word decoding efficiency in children with dyslexia via phonological awareness and rapid naming](semantics-indirect-word-decoding-dyslexia.md) — related
 - [Semantic ability correlates with phonological awareness, rapid naming, and both decoding measures in children with dyslexia](semantics-correlates-pa-ran-decoding.md) — reports the opposite
+- [Age predicts decoding efficiency in children with dyslexia while working memory and perceptual organization covariate effects are non-significant](age-covariate-effects-decoding-dyslexia.md) — related

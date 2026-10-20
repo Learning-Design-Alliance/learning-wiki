@@ -46,3 +46,4 @@ The review reports, citing Frase and Schwartz (1979), that "Properly segmented t
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — a broader claim this one bears on
 - [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](segmenting-principle-mayer-2008.md) — related
 - [Cognitive Load Management](cognitive-load-management.md) — a broader claim this one bears on
+- [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related

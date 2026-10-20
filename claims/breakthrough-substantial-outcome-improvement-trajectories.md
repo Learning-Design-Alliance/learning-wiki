@@ -48,3 +48,4 @@ Conceptual definition of the substantial-outcome-improvement factor in the field
 - [Generativity: breakthroughs enable follow-on innovations, adaptation, and scaling through recombination](breakthrough-generativity-new-opportunity-spaces.md) — related
 - [Eighth graders in the Breakthrough Collaborative math tutoring pilot showed math score growth from beginning to end of year at both affiliates, similar to a national pre-pandemic sample](breakthrough-tutoring-math-gains-similar-national-sample.md) — related
 - [Effect sizes of Pre-K Mathematics decreased over time as the intervention moved through successive scale-up phases](pre-k-math-effect-sizes-decreased-over-scale-up.md) — related
+- [System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines](breakthrough-system-reconfiguration-actors-routines.md) — related

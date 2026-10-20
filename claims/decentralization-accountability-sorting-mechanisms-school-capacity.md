@@ -51,3 +51,4 @@ The report's synthesis of its own Chicago research program, including the Charti
 - Case studies of six actively restructuring schools show the principal's role recast, growing social support for change, and external ideas and information brought to bear — related
 - [Technology can play a key role in comprehensive reform, but the adaptive capacity of the institution is equally critical for success](technology-role-adaptive-capacity-reform.md) — related
 - [Building capacity is critical for educational reform](reform-progress-depends-on-teacher-and-school-capacity.md) — related
+- [The NCLB era's focus on targets and sanctions without educator capacity-building or component alignment was a key barrier to implementing new standards](nclb-targets-sanctions-without-capacity-barrier.md) — related

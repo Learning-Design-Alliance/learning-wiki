@@ -66,3 +66,4 @@ Authors' interpretation in the discussion of their motif and perception findings
 - [Teams with similar cohesive perceptions report higher task cohesion scores than teams with different perceptions](similar-cohesive-perceptions-higher-task-cohesion-scores.md) — related
 - [Temporal network motifs show promise as a proxy indicator of task cohesion in WIL environments when combined with survey data](temporal-motifs-proxy-task-cohesion-mixed-methods.md) — a broader claim this one bears on
 - [Week 3 performance differs by perception-transition group, with Aligned teams increasing and Multifaceted teams decreasing in scores](aligned-perceptions-performance-increase-multifaceted-decrease.md) — related
+- [Perceived task cohesion strength relates to team performance in collaborative learning teams](task-cohesion-relates-team-performance.md) — related

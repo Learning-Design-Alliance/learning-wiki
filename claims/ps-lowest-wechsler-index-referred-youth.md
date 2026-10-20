@@ -45,3 +45,6 @@ Mixed effects modeling in the LOGIC clinical cohort of 751 referred youth compar
 ## Related Claims
 - [All diagnostic groups of referred youth, including those without full diagnoses, show processing speed below the population norm](ps-below-norms-all-clinical-groups.md) — related
 - [Psychosis, ASD, and ADHD-Inattentive Type independently elevate risk for slow processing speed relative to referred youth without diagnoses](psychosis-asd-adhd-i-elevate-slow-ps-risk.md) — related
+- [Slower processing speed in adults with ASD is associated with greater impairment on ADOS Communication and Reciprocal Social Interaction scores](processing-speed-associated-with-ados-social-communication.md) — related
+- [Full-scale IQ predicts reading comprehension more strongly than word reading, and working memory and processing speed remain significant predictors after IQ is controlled](iq-predicts-comprehension-more-than-word-reading.md) — related
+- [Children with developmental dyslexia show a processing speed impairment relative to controls](dyslexia-processing-speed-impairment.md) — related

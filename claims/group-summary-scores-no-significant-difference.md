@@ -45,3 +45,8 @@ Group summaries submitted via BookRoll's memo function were scored by the senior
 ## Related Claims
 
 - [Most students reported using the Wordcloud for group discussion, and Wordcloud use showed a marginally non-significant advantage on content comprehension but no difference on vocabulary gain](wordcloud-use-survey-and-outcome-comparison.md)
+- [Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome](process-mining-heterogeneous-yellow-group-more-efficient.md) — related
+- [Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics](genai-condition-no-self-efficacy-difference.md) — related
+- [In a high school EFL active-reading setting, mixed genetic algorithm group formation with Wordcloud awareness produced significantly greater vocabulary learning gains than random grouping](mixed-ga-grouping-greater-vocabulary-gain-efl.md) — related
+- [No significant differences between conditions in the quantity or quality of discussion summaries](no-script-effect-on-summary-quantity-quality.md) — related
+- [The mixed-algorithm grouping intervention did not significantly change comprehension test performance despite slightly higher experimental mean](comprehension-no-significant-difference-mixed-ga.md) — related

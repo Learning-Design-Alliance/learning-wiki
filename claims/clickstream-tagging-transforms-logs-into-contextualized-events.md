@@ -48,3 +48,4 @@ Descriptive account of the CLICKSTREAM prototyping process, in which learning sc
 - [A proposed three-part process-evidence submission (deliverable, AI interaction logs, video reflection) shifts displacement upstream rather than eliminating it](three-part-process-evidence-submission.md) — related
 - [In classroom video labeling, high raw agreement (often exceeding 90%) co-occurred with low chance-corrected κ due to temporal misalignment](raw-agreement-kappa-paradox-classroom-video.md) — related
 - [Audit finds the stored context fields do not operationally distinguish contextual-scope Types C and D](context-type-c-d-not-operationally-distinguished.md) — related
+- [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related

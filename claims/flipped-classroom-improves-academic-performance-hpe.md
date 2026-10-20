@@ -60,3 +60,8 @@ Random-effects inverse-variance meta-analysis of 44 studies (n = 7813) comparing
 - [The academic performance advantage of flipped classrooms persists when studies with imputed data are excluded (SMD = 0.54), at low certainty](flipped-classroom-performance-sensitivity-imputed-data.md) — a narrower finding that bears on this claim
 - [Undergraduate health professional students report more positive satisfaction with flipped class learning than with traditional class learning (SMD = 0.48), at low certainty](flipped-classroom-student-satisfaction-positive.md) — related
 - Only a minority of flipped-classroom studies in health professional education are RCTs, and risk of bias in non-randomised studies is high — related
+- [The AI-enhanced flipped classroom raises post-class assignment accuracy over the traditional classroom, an advantage the standard flipped classroom did not show](ai-enhancement-raises-assignment-accuracy.md) — a narrower finding that bears on this claim
+- [The AI-enhanced flipped classroom improves comprehensive assessment and pre-class preparation/PPT quality over the flipped classroom, but not in-class presentation performance or professional knowledge mastery](ai-flipped-boundary-deep-mastery.md) — a narrower finding that bears on this claim
+- [Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy than the traditional classroom](flipped-models-higher-question-accuracy.md) — related
+- [Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time](time-on-task-unequal-in-active-learning-comparisons.md) — related
+- [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related

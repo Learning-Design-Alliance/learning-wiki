@@ -46,3 +46,5 @@ Observational analysis of test volumes and average RIT scores by school year (Fi
 - [Course-specific test volumes dropped sharply in spring 2020 and hit record highs in 2021/22](test-volume-pandemic-drop-and-record-high.md) — related
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
 - [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
+- [The 2021-22 COVID learning study investigated fall 2021 achievement versus pre-pandemic fall 2019 levels and fall 2019 to fall 2021 gains versus normative growth expectations](fall-2021-achievement-compared-to-fall-2019-pre-pandemic.md) — related
+- [The course-specific MAP Growth norms were built from 747,936 test events administered to 342,821 students in Grades 6–12 across 50 states between Fall 2017 and Spring 2019.](map-course-specific-norms-sample-747936-events.md) — related

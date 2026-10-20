@@ -43,4 +43,4 @@ Experimental study by Verkoeijen et al. reviewed here: two PBL student groups re
 
 
 ## Related Claims
--
+- [The PBL assumption that student-generated learning issues guide self-directed learning had never been empirically tested before this study](pbl-learning-issues-assumption-untested.md) — related

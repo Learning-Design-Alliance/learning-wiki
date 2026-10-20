@@ -44,3 +44,6 @@ TF-IDF cosine-similarity coverage estimation over the deployment record, compari
 
 ## Related Claims
 - [At least 20.4% of queries in an online internship programme are status enquiries about pending submissions, which a corpus-grounded AI assistant served only 1.3% of the time](status-enquiries-pending-submissions-assistant-1-3-percent.md) — related
+- [Corpus reuse in the deployed support system is concentrated on a single process step: three certificate/offer-letter entries account for 56.8% of 871 resolutions, with a Gini of 0.586 across entries](corpus-reuse-concentrated-single-process-step-gini-0-586.md) — related
+- [Operational resolution records require workflow-semantic checks before interpretation: one administrator accounts for 72.7% of attributed human resolutions, most administrative closures occur in synchronous bulk events, and the accepted_derived field encodes resolver identity rather than acceptance](resolution-record-semantics-attribution-and-coding-caveats.md) — related
+- [Peer answering in the hybrid support system was fast where it occurred: 70.3% of peer-answered queries closed within one hour, against 1.9% of administrator-answered and 14.8% of script-closed queries](peer-answering-fast-70-percent-within-one-hour.md) — related

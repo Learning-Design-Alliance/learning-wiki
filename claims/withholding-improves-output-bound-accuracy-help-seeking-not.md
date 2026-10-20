@@ -62,4 +62,8 @@ Experiment 2b online replication with monetary incentives; the same ANOVA on sub
 
 
 ## Related Claims
--
+- [Participants seek help less often than they withhold answers when both strategies are available or compared across conditions](help-seeking-less-frequent-than-withholding.md) — related
+- [Primary task accuracy is higher in the info-seeking condition than in the explicit reports and wagering conditions](info-seeking-condition-higher-accuracy.md) — related
+- [Help seeking is guided by a wider variety of considerations beyond improving immediate answer accuracy than withholding answers is](help-seeking-multiple-considerations-beyond-accuracy.md) — a broader claim this one bears on
+- [The association between confidence and help seeking is weaker than the association between confidence and withholding answers](weaker-confidence-help-seeking-than-withholding.md) — related
+- [The overlap in confidence ranges between submitted answers and strategy use is larger for help seeking than for withholding answers](larger-confidence-overlap-help-seeking.md) — related

@@ -43,4 +43,6 @@ SEM path analysis of fifth-grade data (n = 213) showed justification beliefs pre
 
 
 ## Related Claims
--
+- [Mastery and performance-approach goals positively predict self-efficacy while performance-avoidance goals negatively predict it across all three grade levels](achievement-goals-predict-self-efficacy.md) — related
+- [Epistemic beliefs about the development of scientific knowledge directly predict domain knowledge in science across grades 5, 8, and 11](development-epistemic-beliefs-predict-science-knowledge.md) — related
+- [Teacher support positively predicts mastery-approach and performance-approach goals, but not mastery-avoidance or performance-avoidance goals, in AI-assisted English learning](teacher-support-predicts-approach-goals-ai-efl.md) — related

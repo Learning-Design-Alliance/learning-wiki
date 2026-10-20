@@ -67,3 +67,7 @@ Kruskal-Wallis comparison of physical activity indicators across age groups (Tab
 - [The three physical activity indicators (active play, family/peers time, sedentary behavior) are all intercorrelated, with weak sedentary-behavior links](pa-indicators-intercorrelated.md) — related
 - [Regression analysis showed creativity score was not dependent on active play](regression-null-active-play-creativity.md) — related
 - [School-aged children show reduced physical activity and increased sedentary behavior during the summer break across multiple countries](summer-break-reduced-activity-increased-sedentary.md)
+- [Active play is associated with time with family and peers in all age groups (r = 0.485)](active-play-family-peers-association.md) — related
+- [Anthropometric variables, body composition and hand grip strength show no correlation with creativity components in this sample](anthropometrics-no-correlation-creativity.md) — related
+- [Spending more time sedentary 1 to 2 hours after encoding is associated with better long-term memory retention, implying physical activity in that window is detrimental](post-encoding-activity-detrimental-to-memory.md) — related
+- [A combined model of demographics, aerobic fitness, and the two critical activity windows accounts for over 30% of variance in long-term memory retention](combined-model-memory-retention-variance.md) — related

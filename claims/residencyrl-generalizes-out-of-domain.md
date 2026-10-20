@@ -63,3 +63,6 @@ Out-of-domain evaluation on two external benchmarks: AgentClinic-MedQA (215 scen
 
 ## Related Claims
 - [Multi-turn RL training in simulated clinical encounters improves diagnostic accuracy under adversarial conditions, raising rubric-based accuracy from 81.0% to 88.0%](residencyrl-improves-adversarial-diagnostic-accuracy.md) — related
+- [RL training reduces missed red flag rates by approximately one third under adversarial conditions, mitigating premature closure](residencyrl-reduces-missed-red-flags.md) — related
+- [The ASTRA benchmark yields measurable condition-differentiated patterns consistent with its simulation assumptions](astra-benchmark-yields-condition-differentiated-patterns.md) — related
+- [Blinded board-certified clinicians prefer the RL-trained agent in 87.6% of side-by-side comparisons for overall clinical impression](residencyrl-clinician-preference-side-by-side.md) — related

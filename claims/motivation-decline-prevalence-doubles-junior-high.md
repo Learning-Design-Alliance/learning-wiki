@@ -48,3 +48,5 @@ Cross-sectional comparison of 134 elementary and 133 junior high students classi
 - [Intrinsic academic motivation scores are lower in 7th- and 8th-grade junior high students than in 4th-grade elementary students](motivation-scores-lower-junior-high-than-4th-grade.md) — related
 - [Verbal memory test scores correlate positively with intrinsic academic motivation scores in junior high but not elementary students](verbal-memory-correlates-motivation-junior-high-only.md) — related
 - [No cognitive test score is associated with decreased intrinsic academic motivation in elementary school students](no-cognitive-test-associated-elementary-motivation-decline.md) — related
+- [The relationships among perceived parental involvement in homework, student homework behaviors, and academic achievement differ among elementary, junior high, and high school students.](parental-homework-involvement-homework-behaviors-achievement-grade-differences.md) — related
+- [Elementary classrooms score significantly higher on the PERTS academic mindset scale than middle school classrooms](elementary-classrooms-higher-perts-than-middle.md) — related

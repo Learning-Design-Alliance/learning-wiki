@@ -45,3 +45,4 @@ The paper reports, citing Knight and Page (2007), that graduate attributes may r
 ## Related Claims
 
 - [Australian universities' quality assurance of graduate attributes relies on a narrow range of strategies, and assessment data remain largely underutilised](quality-assurance-graduate-attributes-underutilised.md)
+- [Excluding graduate attributes from assessment carries four disadvantages, including that unassessed attributes will not be taken seriously by students or teachers](exclusion-of-attributes-from-assessment-disadvantages.md) — related

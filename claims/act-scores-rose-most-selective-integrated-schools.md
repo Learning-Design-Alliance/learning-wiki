@@ -67,3 +67,5 @@ School-type comparison of ACT score trends during Era 3 (Chapter 4 heading and a
 - [ACT participation is positively selected across schools: higher-achieving schools have higher participation rates](positive-across-school-selection-act-participation.md) — related
 - CPS graduates' academic qualifications improved steadily from 2003 to 2015, with districtwide ACT rising from 16.97 to 18.81 and GPA from 2.16 to 2.56 — related
 - Rising CPS graduation rates have been accompanied by higher achievement, including ACT and GPA gains — related
+- [CPS eleventh-grade PSAE participation in 2004 fell below the NCLB 95 percent requirement even after counting alternative assessments](cps-psae-participation-below-nclb-95-percent.md) — related
+- [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — reports the opposite

@@ -45,3 +45,7 @@ Multilevel mediation tests (Krull and MacKinnon) on metacognitive knowledge: coe
 ## Related Claims
 
 - [Both structuring and problematizing avatar scaffolds raise elementary students' metacognitive knowledge relative to no scaffolding](avatar-metacognitive-scaffolds-raise-metacognitive-knowledge.md)
+- [Students' own cognitive and metacognitive activities predict learning, off-task activity lowers metacognitive knowledge, and group mates' relational activities raise domain knowledge](activity-type-proportions-predict-learning-outcomes.md) — related
+- [Metacognitive avatar scaffolds increase students' proportion of metacognitive activities, with no significant difference between scaffold types](scaffolds-increase-metacognitive-activities-equally.md) — related
+- [Only problematizing scaffolds, not structuring scaffolds, significantly raise domain knowledge](only-problematizing-scaffolds-raise-domain-knowledge.md) — related
+- [Metacognitive scaffolding had no significant effect on individual domain knowledge (recall, knowledge tests, or transfer), with effect sizes close to zero](scaffolding-no-domain-knowledge-effect.md) — related

@@ -58,3 +58,7 @@ The review's synthesis of DA research with clinical and educational groups repor
 - [Dynamic assessment is useful for assessing outcome effects of cognitive education programs aimed at learning-how-to-learn skills](da-assesses-cognitive-education-program-outcomes.md) — related
 - [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — related
 - [Open issues for dynamic assessment include cost-effectiveness, training, reliability and validity, and generalization](da-open-issues-cost-training-reliability-validity.md) — related
+- [Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's non-dynamic feedback does not capture](dialang-cefr-levels-miss-zpd-differences.md) — a narrower finding that bears on this claim
+- [Learning behaviors of typical multilingual development can resemble those of disability, complicating accurate identification](language-development-disability-behavior-overlap.md) — related
+- [Interactionist DA mediation in SCMC reveals learners' microgenetic movement through internalization levels within the ZPD](scmc-da-mediation-reveals-microgenetic-development.md) — related
+- [The mediational strategy is reported as more effective than other intervention approaches such as the graduated prompt](mediational-strategy-more-effective-than-graduated-prompt.md) — related

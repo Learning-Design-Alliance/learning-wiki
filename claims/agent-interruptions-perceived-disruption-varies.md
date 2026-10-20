@@ -43,4 +43,5 @@ The editors report this as a secondary finding of the Tegos et al. conversationa
 
 
 ## Related Claims
--
+- [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related
+- [Qualitative studies describe distress, relational disruption, and meaningful companion loss when chatbot use becomes emotionally significant](qualitative-distress-companion-loss-emotionally-significant-use.md) — related

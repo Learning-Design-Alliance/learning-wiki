@@ -47,3 +47,7 @@ The evaluation's analysis found programs "had only limited influence on academic
 - [The 21st Century Community Learning Centers program had few impacts on student achievement overall](21st-cclc-national-evaluation-no-academic-improvement.md) — a broader claim this one bears on
 - [21st CCLC elementary programs did not affect students' academic outcomes](21st-cclc-no-effect-academic-outcomes-elementary.md) — a narrower finding that bears on this claim
 - [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — related
+- [Elementary participants in the 21st Century Community Learning Centers program were more likely to engage in negative behaviors than students not enrolled](cclc-elementary-participants-more-negative-behaviors.md) — related
+- [Elementary students participating in the 21st Century Community Learning Centers program felt safer than students not enrolled](cclc-elementary-participants-felt-safer.md) — related
+- [21st Century Community Learning Centers after-school programs changed where and with whom students spent some of their after-school time](21st-cclc-changed-after-school-time-location-and-companions.md) — related
+- [21st CCLC afterschool programs changed after-school supervision, with parents less likely to care for their child and other adults more likely](21st-cclc-shifted-after-school-supervision-away-from-parents.md) — related

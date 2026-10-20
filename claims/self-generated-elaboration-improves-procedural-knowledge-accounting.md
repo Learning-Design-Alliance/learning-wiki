@@ -50,3 +50,4 @@ Univariate t-tests among three treatment groups (n = 26, 26, 25) in a pretest/po
 - [In one accounting classroom experiment, self-generated elaboration scored marginally above instructor-assisted elaboration on intellectual skills (p = .06, omnibus test not significant) and no higher than a combined strategy](self-generated-elaboration-improves-intellectual-skills.md) — related
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](elaboration-strategy-affects-posttest-performance.md) — related
 - [GPA predicts procedural knowledge and intellectual skills but not attitudes toward learning](gpa-predicts-knowledge-not-attitudes.md) — related
+- [Elaboration strategy does not significantly affect students' attitudes toward the learning method](elaboration-strategy-no-attitude-effect.md) — related

@@ -51,3 +51,4 @@ Micro-ethnographic episode analysis comparing a first-week "brief me on the expe
 - [Time spent in inter-group interactions increased substantially over the semester in the advanced laboratory course](adlab-intergroup-interaction-time-increased-over-semester.md) — related
 - [Students perceived a jump in accountable disciplinary knowledge in the advanced laboratory, describing more authentic, less prescribed work than in previous labs](adlab-students-perceived-adk-jump-and-authentic-practice.md) — related
 - [Review reports statistically significant growth effects over time in a semester-long graduate humanistic knowledge building community](editorial-kashi-hod-growth-effects-over-time.md) — related
+- [Knowledge-building practices are defined at the community unit of analysis but enacted at the small-group discursive unit](practices-community-level-enacted-small-group.md) — related

@@ -44,3 +44,7 @@ Methodological contribution described in the report's introduction as a departur
 
 ## Related Claims
 - Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls — related
+- [Children from all racial/ethnic groups were projected to gain more in higher-tier programs, but most racial/ethnic differences were not statistically significant](racial-ethnic-gains-higher-tiers-mostly-nonsignificant.md) — related
+- [Students from low income, English learner, special education, and several racial/ethnic groups are more likely to be repeatedly identified as significantly below benchmark, with low income students 2.5 times as likely](massachusetts-k3-risk-inequities-student-groups.md) — related
+- [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related
+- [Pre-policy, White students were far more likely to enroll in full-day pre-k than other racial/ethnic groups regardless of distance](white-students-full-day-enrollment-advantage.md) — related

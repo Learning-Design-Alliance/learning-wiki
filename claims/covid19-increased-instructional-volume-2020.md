@@ -44,3 +44,4 @@ Teacher surveys at three time points in 2020 and Term 4 2019 reported weekly ins
 
 ## Related Claims
 - [Prior syntheses of educational technology effects show inconsistent findings, with mobile learning meta-analysis finding near-zero maths effects and reading interventions comparatively more effective](prior-technology-meta-analyses-inconsistent-effects.md) — related
+- [Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin](enhancing-features-increase-attention-single-language-e-books.md) — related

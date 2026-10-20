@@ -47,3 +47,4 @@ Statewide test analysis of the linked dataset compared foster care students agai
 - [Students in foster care in Arizona constituted an at-risk subgroup demographically distinct from low-SES students](foster-care-distinct-from-low-ses-arizona.md) — related
 - [Statewide testing showed an achievement gap in mathematics and reading for Arizona students in foster care](foster-care-achievement-gap-aims.md) — related
 - [Students in foster care had the lowest statewide testing participation, a dropout rate three times the statewide rate, and a 58 percent grade-12 graduation rate](foster-care-participation-dropout-graduation.md) — related
+- [Even districts with consistent curriculum use encountered persistent equity access gaps for multilingual learners and students with learning differences](consistent-hqim-use-does-not-guarantee-equitable-access.md) — related

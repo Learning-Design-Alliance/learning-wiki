@@ -52,3 +52,6 @@ The review's psychometric synthesis (Section 3.3, Table 3) of instruments develo
 - Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets — a narrower finding that bears on this claim
 - Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity — a narrower finding that bears on this claim
 - [Literature and expert opinion converge on a limited number of key noncognitive attributes that matter for student success, with multiple available instruments](convergence-key-noncognitive-attributes.md) — reports the opposite
+- [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
+- [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related
+- [A low alpha does not necessarily indicate high content validity, because reliability and validity can both be high](low-alpha-not-evidence-of-content-validity.md) — related

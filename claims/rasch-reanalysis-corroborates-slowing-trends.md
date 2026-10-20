@@ -47,3 +47,4 @@ Sensitivity re-analysis of the trend data using an equated Rasch score (logit) t
 - [Reading score trends flattened for ages 9-12 and declined at ages 9 and 12 in the grade equivalent metric by 2000](cps-reading-trends-flattened-declined-younger-ages.md) — related
 - Standardized test scores change so slowly that even schools making exceptional gains may appear stagnant — related
 - [A closer look at New York's first Common Core exam results suggests student achievement may have increased](ny-common-core-achievement-may-have-increased.md) — related
+- [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — related

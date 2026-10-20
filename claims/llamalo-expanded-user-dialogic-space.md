@@ -47,3 +47,7 @@ Qualitative content analysis of ten researcher-led discussions with the fine-tun
 
 - [LlamaLo exhibited bias and presented contested assertions as facts, notably in the Israeli-Palestinian conflict discussion](llamalo-bias-contested-assertions.md)
 - [LlamaLo added knowledge in almost every post, mostly correct, and most posts were internally coherent](llamalo-knowledge-addition-coherence.md)
+- [LlamaLo occasionally employed an aggressive or sarcastic tone, sometimes without user provocation, though it changed tone after being commented on](llamalo-negative-tone-challenge.md) — related
+- [Users experienced a trade-off between conversational depth and interaction efficiency between the fine-tuned and baseline chatbots](depth-efficiency-tradeoff-instructional-chatbots.md) — related
+- [LlamaLo's responses to social posts were solely social and it did not push back to resume the discussion](llamalo-social-shift-no-resume.md) — related
+- [Intersubjective understanding can be achieved through inter-animation of persistently opposed perspectives without convergence](intersubjectivity-amid-persistently-opposed-perspectives.md) — related

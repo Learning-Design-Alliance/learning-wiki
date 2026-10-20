@@ -45,3 +45,8 @@ In the case-control study, accuracy equaled between groups on the spatial symmet
 ## Related Claims
 - [Distance estimation is preserved in adults with developmental dyscalculia](dd-adults-distance-estimation-preserved.md) — related
 - [Adults with dyscalculia perform the number comparison task as accurately as controls but respond significantly more slowly](dyscalculia-equal-accuracy-slower-reaction-time.md) — related
+- [Children with developmental dyscalculia show impaired visuo-spatial short-term and working memory relative to matched controls](dd-visuospatial-stm-wm-impairment.md) — related
+- [Verbal STM/WM and several executive and sensorimotor measures show no robust relation with math in children with normal reading skill](no-relation-verbal-memory-executive-math.md) — related
+- [Children with DD show slower reaction times than TD children during arithmetic problem solving, with no operation-specific RT effect](dd-slower-reaction-times-arithmetic.md) — a broader claim this one bears on
+- [Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children](visuospatial-wm-inhibition-predict-maths.md) — related
+- [Children with developmental dyscalculia are more susceptible to task-irrelevant information than controls across five experiments](dd-interference-suppression-impairment.md) — related

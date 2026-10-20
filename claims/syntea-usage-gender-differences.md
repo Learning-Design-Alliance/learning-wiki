@@ -54,3 +54,4 @@ Descriptive comparison of usage counts by gender from the same February 2025 log
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
 - Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster — related
+- [Syntea adoption is highest among Gen Z students (63.66%) and declines across older generational cohorts](syntea-usage-declines-older-cohorts.md) — related

@@ -44,3 +44,8 @@ Microgenetic analysis of metatalk in the electronic dialogs, with utterances cat
 
 ## Related Claims
 - [The two conditions performed comparably in using evidence to support their own position, the less demanding argument function](support-own-evidence-comparable-across-conditions.md) — related
+- [Editorial reports that meta-level talk about group process, but not about individual actions, is associated with superior group outcomes](editorial-reports-meta-group-talk-aids-group-performance.md) — related
+- [Microgenetic analysis showed the reflection condition diverged from the control condition in Weakening-Other usage only after reflective activities were introduced](microgenetic-divergence-weakening-other-after-reflection.md) — related
+- [Adolescents who engaged in reflective activities alongside dialogic argumentation showed greater gains in using evidence to weaken the opposing position than peers who only argued](reflection-boosts-weakening-other-argument-skill.md) — related
+- [Both conditions improved in overall idea units, evidence-based units and functional units, with no significant condition-by-time differences](argumentation-practice-improves-argument-output-both-conditions.md) — related
+- [Anger-related science talk rose in parallel until an apparent tipping point in group dynamics](anger-science-talk-tipping-point.md) — related

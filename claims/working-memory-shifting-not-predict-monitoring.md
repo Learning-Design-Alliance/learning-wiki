@@ -43,4 +43,6 @@ Second step of the same hierarchical regression in N = 84 children, entering shi
 
 
 ## Related Claims
--
+- [Better inhibition skills in kindergarten predict less overconfident metacognitive monitoring in 2nd grade, explaining 11% of variance](kindergarten-inhibition-predicts-less-overconfident-monitoring.md) — related
+- [The relationship between inhibition and monitoring is not bidirectional: kindergarten monitoring did not predict later inhibition](monitoring-does-not-predict-later-inhibition.md) — related
+- [Inhibition–monitoring links were cross-sectionally significant in kindergarten but not in 2nd grade](cross-sectional-inhibition-monitoring-link-fades-by-grade-2.md) — related

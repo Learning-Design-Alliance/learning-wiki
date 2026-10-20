@@ -47,3 +47,4 @@ WWC synthesis of the two qualifying quasi-experimental studies (Texas effect siz
 - [Talent Search participants in Texas completed high school or GED at a significantly higher rate than matched comparison students (86% vs. 77%)](talent-search-texas-higher-completion-rate.md) — a narrower finding that bears on this claim
 - [The WWC rated Talent Search as having potentially positive effects on completing school, capped below positive because both studies were quasi-experimental](talent-search-potentially-positive-effects-rating.md) — a broader claim this one bears on
 - [Talent Search participants were more likely than matched comparison students to apply for federal financial aid](talent-search-more-likely-apply-federal-financial-aid.md) — related
+- [Talent Search participants were more likely than comparison students to enroll in public postsecondary institutions](talent-search-more-likely-enroll-public-postsecondary.md) — related

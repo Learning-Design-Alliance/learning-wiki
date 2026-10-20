@@ -45,3 +45,5 @@ ANCOVA on self-noted learning time in the randomized experiment with 181 student
 ## Related Claims
 
 - [Case comparison shifts student teachers' beliefs about operant conditioning toward more positive, regardless of experimental condition](case-comparison-shifts-beliefs-operant-conditioning.md)
+- [Providing key features during case comparison improves student teachers' ability to explain teacher behavior with operant conditioning principles, but not lower levels of understanding](key-features-improve-explanation-in-case-comparison.md) — related
+- [In a randomized experiment, personalized paths reduced learning time by 22.0% and improved post-test scores versus a fixed sequence](personalized-paths-experiment-outcomes.md) — related

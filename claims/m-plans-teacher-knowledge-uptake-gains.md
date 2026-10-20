@@ -44,3 +44,6 @@ Development-phase study of more than 20 science teachers across 12 middle school
 
 ## Related Claims
 - [Video analysis showed teachers enacted the same MDP in different ways and situations, while perceiving barriers to consistent implementation](m-plans-enactment-variation-and-implementation-barriers.md) — related
+- [Students' perceptions of motivationally supportive instruction were associated with higher positive motivational beliefs](m-plans-student-perceptions-linked-to-motivation.md) — related
+- [Many teachers' knowledge of students' GC and CoV increased in sophistication over the school year, and teachers reported the professional learning and just-in-time supports were helpful](teacher-knowledge-and-pl-supports-grew.md) — related
+- [Teachers perceive SRL as desirable for students but not feasible to implement in their classrooms](teachers-srl-desirable-but-not-feasible.md) — related

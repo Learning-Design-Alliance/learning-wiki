@@ -51,3 +51,4 @@ In the same statewide Florida study of 2000-2001 and 2001-2002 high school senio
 - [Dual enrollment programs have positive effects on general academic achievement (high school), with an average improvement index of +7 percentile points](dual-enrollment-positive-hs-achievement.md) — related
 - [Dual enrollment programs show no discernible effects on general academic achievement (college)](dual-enrollment-no-effect-college-achievement.md) — related
 - [Dual enrollment programs have positive effects on credit accumulation, with an average improvement index of +14 percentile points](dual-enrollment-positive-credit-accumulation.md) — related
+- [Dual enrollment participation is associated with an approximately 8.5 percentage point increase in college enrollment probability, with larger gains for students from low-income and first-generation backgrounds](dual-enrollment-participation-8-5-point-college-enrollment-gain.md) — related

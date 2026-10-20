@@ -68,3 +68,4 @@ Reflective journal excerpt (RJ-P23) from the intervention, illustrating particip
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — a broader claim this one bears on
 - [Participants envisioned switchable AI roles — strategic advisor, cross-domain translator, and perspective challenger — whose expansion destabilized perceived neutrality and raised authority and accountability concerns](switchable-ai-roles-neutrality-authority-tension.md) — related
+- [Participants reported professional growth through networking and collaboration within the RPIP](pab-networking-professional-growth.md) — related

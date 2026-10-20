@@ -43,4 +43,8 @@ Null ANOVA on inference counts from the same randomized study; the article repor
 
 
 ## Related Claims
--
+- [Problem-based tutorial discussion of a relevant problem before studying an expository text increases the number of accurate propositions recalled from that text](pbl-discussion-prior-to-text-increases-free-recall.md) — related
+- [Participating in a relevant group discussion, whether explaining or listening, raises immediate recall relative to an irrelevant discussion, but this advantage does not persist one month later](relevant-discussion-immediate-recall-advantage-fades.md) — related
+- [The recall benefit of prior problem-based discussion applies to both explanatory and descriptive propositions, with no interaction between treatment and proposition type](pbl-recall-benefit-general-not-explanation-specific.md) — related
+- [Elaboration during a problem-based discussion interacts with relevant prior knowledge on immediate text recall, with the interaction approaching significance at a medium effect size](elaboration-prior-knowledge-interaction-immediate-recall.md) — related
+- [Prior problem-based discussion does not change the number of inaccurate propositions recalled](pbl-discussion-no-change-in-inaccurate-recall.md) — related

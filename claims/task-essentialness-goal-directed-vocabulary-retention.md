@@ -53,3 +53,6 @@ The review reports, citing McCafferty et al. (2001), a preliminary study applyin
 - [Highly informative contexts produce higher retention of word meaning, with context affecting knowledge of meaning rather than form](informative-contexts-produce-higher-word-meaning-retention.md) — related
 - [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — possibly the same claim (merge candidate)
 - [MACE participation increased students' use of daily (tier 1) geometrical words, but not academic (tier 2) geometrical words, which decreased in all conditions](mace-daily-geometrical-words-effect.md) — related
+- [Effort investment is driven differently in CLT (data-driven, task difficulty) versus SRL theories (goal-driven, motivation)](effort-drivers-data-driven-vs-goal-driven.md) — related
+- [Motivational processes are proposed to be instrumental for essential as well as generative processing](motivation-essential-processing-claim.md) — related
+- [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related

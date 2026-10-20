@@ -47,3 +47,4 @@ Propensity score matched comparison of 353 coached and 353 uncoached students fr
 - [Self-reported test preparation showed no significant difference in ACT composite scores in a national sample (Scholes & Lain, 1997, Experiment 2)](self-reported-act-prep-no-significant-difference-scholes-lain.md) — related
 - [Two computerized SAT coaching programs showed no statistically significant effect on SAT scores (McClain, 1999)](computerized-sat-coaching-no-effect-mcclain.md) — related
 - [A school SAT preparation course improved SAT scores at one Texas school (Filizola, 2008; domain average effect size 0.28), driven by the mathematics subtest](sat-prep-course-texas-improves-sat-filizola.md) — related
+- [A 6-week computerized Latin and Greek root-word program improved SAT verbal scores (Holmes & Keffer, 1995; effect size 0.49)](root-word-computer-program-improves-sat-verbal-holmes-keffer.md) — related

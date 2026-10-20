@@ -45,3 +45,5 @@ Binary-scored accuracy data from the ten-participant problem-solving interview, 
 ## Related Claims
 - [Students answered questions requiring coordination of two or more representations less accurately than questions answerable from a single representation](coordination-of-two-representations-correctless.md) — related
 - [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](yunyi-human-agreement-varies-by-dimension.md) — related
+- [Younger students solve letter equations less accurately than number equations, but this difference disappears by age 16–17](number-letter-accuracy-gap-disappears-by-16-17.md) — related
+- [Participants answered the VISIGARP inspection exercises with high accuracy (M = 94.3%)](visigarp-treatment-accuracy.md) — related

@@ -63,3 +63,8 @@ Experiment 1 summarizing task, important-ideas grades: Page 2.61 vs. Scroll 1.83
 
 ## Related Claims
 - [Readers with an entertainment goal make more evaluative comments than readers with a study goal, with no difference in affective responses](entertainment-goal-more-evaluations.md) — related
+- [Reading time did not differ between Page and Scroll, though Page readers tended to backtrack more](reading-time-null-backtracking-tendency.md) — related
+- [Readers locate sentences more accurately after reading a text in page-by-page presentation than in scrolling presentation](page-presentation-better-sentence-locating.md) — related
+- [Only Page readers tended to locate boundary-zone sentences more accurately than central-zone sentences](boundary-zone-locating-advantage-page-only.md) — related
+- [The effect of page-break response cues on locating accuracy depends on the presentation mode read: they help Page readers and hurt Scroll readers](page-break-response-cues-interaction.md) — related
+- [Fifth-grade history textbook excerpts largely fail to answer the frame slot questions, presenting detailed action but missing main ideas](history-textbooks-lack-explanatory-structure.md) — related

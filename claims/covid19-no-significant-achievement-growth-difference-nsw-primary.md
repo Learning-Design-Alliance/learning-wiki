@@ -49,3 +49,4 @@ Linear mixed models compared matched 2019 and 2020 cohorts (3030 students total:
 - [Year 3 regional students in mid-ICSEA schools demonstrated three months additional reading growth in 2020 compared with 2019](covid19-year3-regional-mid-icsea-three-months-additional-reading-growth.md) — related
 - [Year 3 students in mid-ICSEA schools achieved two months additional mathematics growth in 2020 compared with 2019](covid19-year3-mid-icsea-two-months-additional-math-growth.md) — related
 - [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](covid-achievement-impacts-likely-underestimated-attrition.md) — related
+- [No evidence that COVID-19 learning deficits differ between primary and secondary students](covid-deficits-no-grade-level-variation.md) — related

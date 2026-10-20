@@ -52,3 +52,6 @@ An 18-week quasi-experimental study comparing a class of 40 PSTs using a "knowle
 - [The portfolio-principles class scored higher on weighted depth of inquiry than both other Knowledge Forum classes](portfolio-principles-higher-depth-of-inquiry.md) — related
 - [Students with portfolios and knowledge-building principles asked more questions and higher-level questions than both comparison classes](portfolio-principles-more-high-level-questions.md) — related
 - [Knowledge-building portfolio scores correlated with database participation, explanation quality, and conceptual understanding](portfolio-scores-correlate-participation-understanding.md) — related
+- [Knowledge-building discourse improved significantly from before to during reflective assessment, with students contributing more explanation-seeking questions, explanations, and metacognitive questions and statements.](discourse-improved-during-reflective-assessment.md) — related
+- [Students whose beliefs aligned with knowledge building showed more productive participation patterns on Knowledge Forum](kb-aligned-beliefs-productive-participation.md) — related
+- [LO assessment supported by CA tools prompted faculty toward more authentic, participatory, and reflective teaching practices](ca-assessment-prompts-authentic-reflective-teaching.md) — related

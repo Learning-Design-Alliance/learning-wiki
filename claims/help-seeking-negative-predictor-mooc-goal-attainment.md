@@ -45,3 +45,6 @@ Same logistic regression analysis of 4,831 learners across six MOOCs. "the same 
 ## Related Claims
 - [Planning prompts increase payment for certificates in MOOCs by 40%](planning-prompts-increase-certificate-payment.md) — related
 - [The content of MOOC students' plans forecasts completion, with time-focused plans predicting lower completion](time-focused-plans-forecast-lower-mooc-completion.md) — related
+- [Learners inclined to seek help were less likely to pass an assessment after completing a lecture](help-seekers-less-likely-pass-assessment-after-lecture.md) — related
+- [Goal setting and strategic planning positively predict attainment of personal course goals in MOOCs](goal-setting-strategic-planning-predict-mooc-goal-attainment.md) — related
+- [Effort regulation negatively predicts, and general academic help seeking positively predicts, reported AI dependency; time management is non-significant](effort-regulation-buffers-help-seeking-predicts-ai-dependency.md) — related

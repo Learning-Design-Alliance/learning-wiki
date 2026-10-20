@@ -64,3 +64,4 @@ Automated source checks across the four within-case conditions. "The source-veri
 ## Related Claims
 - Conservative manual verification identified 30 hallucinated references across 14 papers in 2025 and 2026 computing education venues — related
 - [Automated verification of AI-drafted content produced mixed results: strong accuracy and integrity scores but only 5 of 10 chapters meeting the pedagogical-progression bar](verification-layer-one-mixed-results.md) — related
+- [AI-generated readings lacked internal traceability: only about 0.80% of pages contained APA-style citations, URLs appeared on about 0.53%, and DOI strings were essentially absent](ai-readings-lack-internal-traceability.md) — related

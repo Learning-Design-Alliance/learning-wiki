@@ -58,3 +58,8 @@ Authors' interpretation in the Interpretive Summary section, not a tested result
 - [Teachers report limited time and uncertainty about best practices as primary barriers to implementing CRP](teacher-crp-implementation-barriers-time-uncertainty.md) — related
 - [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — related
 - [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](rns-collaborative-design-relevant-feasible-sustainable.md) — related
+- [Oakland Unified sustained its full-service community schools initiative through leadership turnover and lean funding by engaging stakeholders, braiding funding sources, and enacting formal policy commitments](ousd-sustained-fscs-through-stakeholders-funding-policy.md) — related
+- [One school district experienced a 25 percent increase in the recruitment of Black male educators through Inclusive Innovation](black-male-educator-recruitment-25-percent-increase.md) — related
+- [Teachers doubted institutionalizing MLE in school documents, and the institutionalization criterion was removed from the final framework](institutionalization-criterion-dropped-mle.md) — related
+- [Practitioner engagement initiatives reflected buy-in rather than ownership because leadership developed ideas and decisions before seeking context-expert input](seernet-initiatives-buy-in-not-ownership.md) — related
+- [Development of collaborative classrooms and effective CSCL curriculum is a multi-year, multi-iteration process requiring sustained institutional commitment](cscl-teacher-development-multi-year-multi-iteration.md) — related

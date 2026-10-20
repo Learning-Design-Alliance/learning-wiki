@@ -46,3 +46,4 @@ The review reports Dupont et al. (in press), showing value-based selection of in
 - [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — related
 - [An effort-based reward did not significantly reduce answer offloading or improve unaided performance](effort-based-reward-no-effect-offloading-or-unaided-performance.md) — related
 - [Developmental change in offloading reflects metacognitive control, not knowledge](child-development-offloading-selectivity.md) — related
+- [Extrinsic incentives have mixed results on effort and achievement, working better when immediate and larger](extrinsic-incentives-mixed-results-effort-achievement.md) — related

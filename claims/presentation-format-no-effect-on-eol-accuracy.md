@@ -45,3 +45,6 @@ Experiment 3 mixed-design study with 64 psychology students compared sequential 
 ## Related Claims
 - [The type of EOL task (difficulty vs. trials-to-learn scale) does not reliably affect EOL accuracy](eol-task-type-no-effect-on-accuracy.md) — a broader claim this one bears on
 - [Older adults show no reliable deficit in assessing item difficulty (EOL accuracy)](no-age-deficit-eol-difficulty-assessment.md) — a broader claim this one bears on
+- [Equating total consolidation time across presentation methods equalizes forgetting rates (Experiment 3)](consolidation-time-equation-equalizes-forgetting.md) — related
+- [Lengthening consolidation time in the simultaneous condition reduces forgetting to a rate comparable to sequential presentation (Experiment 4)](lengthened-consolidation-reduces-forgetting-exp4.md) — related
+- [Equating encoding time across presentation methods does not eliminate the forgetting-rate difference (Experiment 2)](encoding-time-equation-does-not-equalize-forgetting.md) — related

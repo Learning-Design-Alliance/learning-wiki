@@ -126,3 +126,9 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 - [Learner control over pace and order of an animated multimedia instruction improves transfer performance compared with system control](learner-control-improves-transfer-animated-instruction.md) — related
 - [Learner control substantially increases time-on-task in animated multimedia instruction](learner-control-increases-time-on-task.md) — related
 - [Prior knowledge, but not interest or estimated prior knowledge, predicts use of learner control options](prior-knowledge-predicts-interactive-behavior.md) — related
+- [Video-only documentation created a pause-act-rewind cycle, with orientation and navigation-continuity clarity scoring lowest and wiring identification the primary difficulty for first-time builders](video-documentation-pause-act-rewind-bottleneck.md) — related
+- [Students using an annotated interactive videodisc of a film outperformed students who saw the same film on videotape with a lecture, in retention and recall of information](annotated-videodisc-beats-videotape-retention-recall.md) — related
+- [The modality effect tends to be strongest when material is fast-paced and under system control](modality-boundary-conditions-pace-control.md) — related
+- [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related
+- [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation](segmenting-effects-confirmed-system-paced.md) — related
+- [Self-explanation substantially increases time on task, raising questions about its efficiency](self-explanation-time-on-task-cost.md) — related

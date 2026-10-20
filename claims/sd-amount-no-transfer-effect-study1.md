@@ -45,3 +45,6 @@ Regression on transfer scores in the same Study 1 sample of 191 students; the ov
 ## Related Claims
 
 - [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md)
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
+- [Extraneous cognitive load did not mediate the detrimental effect of seductive details in this online study](ecl-mediation-not-replicated-online.md) — related
+- [In Study 1, a greater seductive detail amount linearly worsened recall performance (b = −0.11, p = .030)](sd-amount-linear-negative-recall-study1.md) — related

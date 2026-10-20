@@ -94,3 +94,10 @@ The report's literature review attributes this to a recent meta-analysis of "60 
 
 -
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
+- [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies](coaching-pooled-achievement-effect-0-18-sd.md) — related
+- [Coaching program effects shrink substantially at scale: effectiveness trials of larger programs show only a fraction of efficacy-trial effects](coaching-scale-up-diminishing-effects.md) — related
+- [A practitioner review reports a meta-analysis of causal coaching studies as finding positive effects of coaching on teachers' instructional practice and student achievement, though one contrasting study found coached teachers no more effective](coaching-meta-analysis-positive-effects-instruction-achievement.md) — possibly the same claim (merge candidate)
+- [Coaching effects on instruction and achievement are positively correlated, but large instructional improvements are needed for modest achievement gains](instruction-achievement-weak-link-coaching.md) — related
+- [A teacher-coaching CAL program produces significant intent-to-treat gains in elementary and middle school math performance of 0.12-0.22 standard deviations](cal-teacher-coaching-itt-math-gains-012-022-sd.md) — related
+- [Early Reading First improved instructional content and practices in preschool classrooms](early-reading-first-classroom-practice-impacts.md) — a narrower finding that bears on this claim
+- [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](pd-coaching-expert-support-gains.md) — related

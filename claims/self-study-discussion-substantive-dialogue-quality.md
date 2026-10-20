@@ -64,3 +64,4 @@ Coded transcripts also showed more substantive comments per interaction episode 
 ## Related Claims
 - [Trained students engage in more conversational turns with the GenAI tool](trained-students-more-conversational-turns.md) — related
 - [Collaborative knowledge construction episodes are significantly longer in the conceptual physics task but almost three times more frequent in the robotics task](ckc-longer-simsketch-more-frequent-simua.md) — related
+- [Parents in the intervention condition tended to initiate more conversations before and after episode viewing than comparison parents, with no difference during viewing](second-screen-app-parent-initiations-before-after-viewing.md) — related

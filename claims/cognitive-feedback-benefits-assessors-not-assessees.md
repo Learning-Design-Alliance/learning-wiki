@@ -43,4 +43,10 @@ From the regression and correlational results (N = 181), cognitive feedback rece
 
 
 ## Related Claims
--
+- [Receiving positive affective feedback from peers is a significant predictor of assessees' project performance](receiving-positive-affective-feedback-predicts-assessee-performance.md) — related
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — reports the opposite
+- [Peer grading behaviors do not significantly predict project performance for assessors or assessees](peer-grading-not-significant-predictor.md) — related
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — reports the opposite
+- [Giving feedback that identifies problems in peers' work is a significant predictor of assessors' own project performance](giving-problem-identification-feedback-predicts-assessor-performance.md) — related
+- [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — reports the opposite
+- [Giving suggestions to peers is a significant predictor of assessors' own project performance](giving-suggestions-predicts-assessor-performance.md) — related

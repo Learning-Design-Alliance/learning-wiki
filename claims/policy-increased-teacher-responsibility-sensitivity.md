@@ -45,3 +45,6 @@ Jacob, R. T., Stone, S., & Roderick, M. (2004). Ending Social Promotion: The Res
 ## Related Claims
 - [Educators reported the promotion policy increased parental concern about student progress](promotion-policy-increased-parental-concern.md) — related
 - [Two-thirds of teachers and 72 percent of principals believed the threat of retention motivated students to work harder](retention-threat-motivates-students-teacher-beliefs.md) — related
+- [Most Chicago teachers and principals reported that Summer Bridge and Lighthouse had positive effects on participating students](cps-educators-positive-on-summer-bridge-lighthouse.md) — related
+- [Approximately 40 percent of educators reported spending less time on social studies and science as a result of the promotion policy](policy-reduced-time-social-studies-science.md) — related
+- [Three-quarters of Chicago teachers viewed retention as improving students' long-term chances of success](teachers-view-retention-as-beneficial.md) — related

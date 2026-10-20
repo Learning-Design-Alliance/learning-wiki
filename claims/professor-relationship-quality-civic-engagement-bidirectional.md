@@ -55,3 +55,4 @@ Correlational analyses across all 125 participants examined professor-student NR
 - [Naive hope is negatively related to civic engagement, while existential hope is proposed to be positively associated with it](naive-hope-negatively-related-civic-engagement.md) — related
 - [Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation](ur-mentoring-retention-persistence.md) — related
 - [General academic supports and quality instruction are insufficient to foster civic commitment; supportive teachers and quality instruction were not statistically related to it](academic-outcomes-focus-insufficient-civic-commitment.md) — related
+- [Positive reinforcement and praise correlate positively with learning while criticism correlates negatively](praise-positive-criticism-negative-learning.md) — related

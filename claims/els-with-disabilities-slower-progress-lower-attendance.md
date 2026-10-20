@@ -48,3 +48,5 @@ The report states ELs with identified disabilities "made progress, but at a slow
 - [English learner students with disabilities have backgrounds similar to other English learners but greater functional challenges](elswd-similar-backgrounds-greater-functional-challenges-than-el.md) — related
 - [Low English proficiency screener scores in pre-k relate to lower academic performance but not to attendance](low-screener-scores-performance-not-attendance.md) — related
 - [Inadequate responders were more likely to have identified disabilities and limited English proficiency than adequate responders or typical readers](inadequate-responders-demographic-disproportionality.md) — related
+- [English learner students with disabilities are more likely to struggle academically and less likely to participate in activities than both other students with disabilities and other English learners](elswd-more-academic-struggle-less-activity-participation.md) — related
+- [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related

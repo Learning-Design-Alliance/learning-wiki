@@ -43,4 +43,6 @@ Review reports Langendyk's study in which third-year medical PBL students evalua
 
 
 ## Related Claims
--
+- [A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy](novice-metacognitive-calibration-deficits.md) — related
+- [Speakers rate their own speeches more harshly than independent judges do](self-assessments-harsher-than-judges.md) — related
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on

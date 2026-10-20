@@ -46,3 +46,6 @@ Conceptual-analysis research on prepositions and equivalent vocabulary across En
 ## Related Claims
 - [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style](monitoring-lowers-preposition-accuracy.md) — related
 - Interdisciplinarity is almost impossible to practice without the integrative power of texts, which are foundational to the disciplines — related
+- [In CLIL, teachers perceive conceptual hollowing, a bilingual bluff, translation dependency, and a synthesis illusion](clil-four-ethical-tensions.md) — related
+- [Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners](language-consequence-not-prerequisite-math-el.md) — related
+- [DLLs have smaller vocabularies and slower growth in each language than monolinguals, but comparable conceptual vocabularies](dll-smaller-vocabulary-each-language.md) — related

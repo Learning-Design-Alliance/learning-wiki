@@ -168,3 +168,5 @@ Open questions: how the four levels interact in real classrooms (e.g., whether p
 - [Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity](feedback-medium-overall-effect-d048-heterogeneous.md) — related
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — feedback adds information; excess or mistimed feedback can overload working memory.
 - [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](person-praise-induces-fixed-mindset.md) — related
+- [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](llms-scalable-personalized-feedback-large-courses.md) — related
+- [Hattie's synthesis identifies lesson study, formative evaluation of teaching, discussion of learning, and feedback as instructional factors with high effect sizes on student learning](hattie-high-effect-size-instructional-factors.md) — related

@@ -46,3 +46,6 @@ A 16-week study with 37 university students in an introductory information scien
 
 - [Video-modeling of collaboration, especially with prompted reflection, produced more lasting learning about collaboration than scripted practice once script supports were withdrawn](modeling-outlasts-scripting-after-withdrawal.md) — related
 - [Scripted conditions more often produced a discussion phase on differences between group members, but no quality differences in those discussions were detected](script-increases-discussion-on-differences.md)
+- [Scripting collaboration via role-assigned interfaces produced little difference in learning outcomes compared with an unscripted self-organized condition in a semester-long course](scripting-little-difference-learning-outcomes.md) — related
+- [The PISG and PSGI script sequences showed no statistically significant differences on high- and low-level inquiry processes, with small effect sizes despite descriptive trends favoring PISG on high-level processes](pisg-psgi-no-significant-inquiry-process-difference.md) — related
+- [Learners who reflected collaboratively on their prior collaboration gained more knowledge about effective collaboration than learners guided by an external collaboration script or unsupported learners](reflection-scaffold-beats-script-collaboration-knowledge.md) — related

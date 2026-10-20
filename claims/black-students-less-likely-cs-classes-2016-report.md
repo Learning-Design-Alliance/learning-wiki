@@ -50,3 +50,5 @@ A 2016 report on gaps in secondary schools, cited by the paper, documents struct
 - [Computer science offerings in U.S. secondary schools grew from 25 percent to 40 percent between 2015 and 2016](secondary-schools-offering-cs-grew-25-to-40-percent.md) — related
 - [Nine out of ten U.S. parents want their children to learn coding at school](parents-support-coding-google-gallup-2015.md)
 - [School administrators underestimate parental demand for computer science education and face resource and prioritization barriers](administrators-underestimate-cs-demand-barriers.md) — related
+- [Student access to CS grew faster than school access because larger high schools were more likely to offer CS, reaching 92 percent of students by 2018](student-cs-access-92-percent-2018.md) — related
+- [CS course offerings in CPS high schools more than doubled between 2009 and 2018, with 80 percent of schools offering at least one CS course by 2018](cps-cs-offerings-doubled-2009-2018.md) — related

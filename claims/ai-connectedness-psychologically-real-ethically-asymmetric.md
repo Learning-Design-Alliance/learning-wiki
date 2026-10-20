@@ -65,3 +65,4 @@ Theoretical argument stating that whether risks materialize depends on multiple 
 - [The article claims AI connectedness demonstrates incremental validity beyond usage frequency, anthropomorphism, and AI attachment](ai-connectedness-incremental-validity-claim.md) — related
 - [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
+- [Human-AI collaboration requires refined group-awareness concepts for asymmetrical relationships between users and AI partners](group-awareness-human-ai-partners.md) — related

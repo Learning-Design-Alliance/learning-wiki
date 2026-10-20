@@ -54,3 +54,6 @@ Moderator analysis in the three-level meta-analysis testing five regions. Europe
 - AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation — related
 - [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related
 - [Geographical region moderated several engagement-correlate relations, with Eastern students showing higher relations than Western students](region-moderates-engagement-correlate-relations.md) — related
+- [Research on K‑5 writing motivation self‑reports grew sharply after 2009 and is geographically concentrated in North America and Asia](growth-and-geographic-concentration-writing-motivation-research.md) — related
+- [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
+- [Learning outcome focus significantly moderates effects: knowledge outcomes benefit more than skills, attitudes, or ethics](knowledge-outcomes-benefit-more-than-skills-ethics-attitudes.md) — related

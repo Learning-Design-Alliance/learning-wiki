@@ -46,3 +46,5 @@ Meta-analytic group comparisons of reading outcomes across the 74 included studi
 - [The math deficit profile of children with comorbid RDMD is additive: it equals the sum of the deficits of isolated RD and MD groups](rdmd-math-deficits-additive.md) — related
 - [Children with comorbid RDMD are significantly more impaired than children with isolated RD or MD in math, reading, and executive function outcomes](rdmd-more-impaired-than-isolated-groups.md) — related
 - [In reading-related outcomes, group differences involving RD or RDMD are largest for reading tasks and phonological processing and smallest for RAN](reading-group-differences-phonological-vs-ran.md) — related
+- [Group differences in math skills between LD and comorbid groups are more pronounced in symbolic than non-symbolic math tasks](math-group-differences-symbolic-tasks.md) — related
+- [Executive function deficits in comorbid RDMD show some evidence of under-additivity, especially in inhibition, shifting, and updating](rdmd-executive-function-under-additivity.md) — related

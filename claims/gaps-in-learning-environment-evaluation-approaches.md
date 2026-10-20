@@ -44,3 +44,4 @@ This is the review's synthesis finding, reported in its abstract: "Gaps in these
 
 ## Related Claims
 - [Existing approaches to evaluating higher education and school learning environments fall short when judged against contemporary approaches to teaching and learning](learning-space-evaluation-approaches-pedagogical-gaps.md) — possibly the same claim (merge candidate)
+- [CAI-in-education research shows a framework gap: no end-to-end design guidance, weak CAI-specific usability methods, unclear pedagogical guidance, and limited AI literacy support](cai-framework-gaps-design-guidance-usability-ai-literacy.md) — related

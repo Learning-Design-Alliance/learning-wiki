@@ -46,3 +46,5 @@ Descriptive analysis of NCES revenue-source data cited in the brief: in 2019-20,
 - [US public education could lose $11.5 billion in annual state revenues by 2030–31 as enrollment declines, with 40 states and DC projected to see further declines](enrollment-decline-11-5b-revenue-loss-2030-31.md) — related
 - Stakeholders view parcel taxes—the only local revenue option available to California school districts—as inequitable and regressive — related
 - Because California education funding relies heavily on the personal income tax, state education funds are highly susceptible to economic fluctuations and vulnerable during recessions — a narrower finding that bears on this claim
+- [Thirty-two states and DC guarantee base per-pupil funding, and state legislation can add year-to-year funding guarantees such as California's Proposition 98](guaranteed-funding-floors-32-states.md) — related
+- [U.S. school funding is highly inequitable: districts serving the most students of color spend $1,800 less per student, and wealthier districts spend two to three times what the poorest can](us-school-funding-inequity-property-tax-reliance.md) — related

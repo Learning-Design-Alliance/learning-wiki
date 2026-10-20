@@ -68,3 +68,4 @@ Categorical moderator analysis: mainly typical readers d = 0.36 versus mainly st
 - [Interventions that trigger interest have larger effects on affirming motivations and reading comprehension than interventions that do not](interest-triggering-moderator.md) — related
 - [Programs focusing solely on motivation are equally effective in stimulating affirming motivations and reading comprehension as programs combining motivational support with skills instruction](motivation-only-equally-effective.md) — related
 - [Interventions delivered by researchers have larger effects on reading comprehension than interventions delivered by others, mostly teachers](researcher-delivered-larger-comprehension-effects.md) — related
+- [Effects on affirming motivations were largest for teacher reports, but this rests on a single study](teacher-report-measurement-moderator.md) — related

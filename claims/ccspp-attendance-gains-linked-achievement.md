@@ -47,3 +47,4 @@ Descriptive and interaction analyses of first-cohort CCSPP schools found that sc
 - [LAUSD CCSPP community schools reduced chronic absence by approximately 9% more and improved math proficiency by approximately 10% more than comparable non-CCSPP high-need schools](ccspp-lausd-chronic-absence-math-gains.md) — related
 - [Benefits of CCSPP community schools were largest for Black students, English learners, and socioeconomically disadvantaged students](ccspp-largest-benefits-underserved-students.md) — related
 - [CCSPP community schools improved math achievement by 0.06 standard deviations, roughly 43 additional days of learning](ccspp-math-gains-0-point-06-sd.md) — related
+- [CCSPP community schools reduced suspension rates by roughly 15% (0.5 percentage point) relative to matched comparison schools](ccspp-suspension-reduction-15-percent.md) — related

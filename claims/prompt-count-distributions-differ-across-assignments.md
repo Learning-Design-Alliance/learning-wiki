@@ -63,3 +63,9 @@ Descriptive distribution of prompt counts among LLM users across the seven assig
 ## Related Claims
 - [Students predominantly conceptualize the LLM as an Assistant rather than Peer or Expert, and role distributions differ significantly across assignments](assistant-role-dominates-llm-conceptualization.md) — related
 - [Verification strategy type varies by assignment context: testing is more common in structured tasks (Algorithms 87.8%) while web search is more common in open-ended tasks (HCI 56.0%)](verification-type-varies-by-assignment-context.md) — related
+- [LLM adoption varies substantially across CS subfield assignments under a shared instructional intervention, with highest use in Algorithms (89.6%) and Web Development (80.6%) and lowest in Software Engineering (15.2%)](llm-adoption-varies-by-cs-assignment.md) — related
+- [LLM scaffolding level varies systematically across student request types and across assignments, but high-assistance responses remain dominant](scaffolding-varies-by-request-and-assignment.md) — related
+- [Frequency of generative AI use for homework differs significantly by subject, with natural sciences most resistant and economics most adopted](dual-speed-homework-ai-adoption-subjects.md) — related
+- [In AQUALAB, estimated β is ordered across episode completion status (means 1.181, 1.506, 2.343; Kruskal–Wallis p = 8.62×10−29) and higher-β quintiles complete more content more efficiently](aqualab-beta-completion-and-efficiency.md) — related
+- [Perceived usefulness of AI and intent to continue using it differ significantly across challenge domains, with academic tasks rated most useful](ai-usefulness-differs-across-challenge-domains.md) — related
+- [Students issue fewer prompts on team assignments, a medium-large within-student difference](fewer-prompts-on-team-assignments.md) — related

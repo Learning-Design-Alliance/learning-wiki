@@ -66,3 +66,5 @@ Correlational analyses (N = 63) found no significant FAT-multiplication correlat
 - [Numerical magnitude comparison explains significant unique variance in multiplication fact performance over and above phonological processing, intellectual ability, and general reaction time](magnitude-comparison-unique-variance-multiplication.md) — related
 - [Symbolic magnitude comparison contributes more unique variance to fourth graders' multiplication fact performance than nonsymbolic magnitude comparison](symbolic-beats-nonsymbolic-multiplication-variance.md) — related
 - [Phonological awareness is uniquely associated with multiplication fact retrieval frequency, in both dyslexia and control groups](phonological-awareness-multiplication-fact-retrieval.md) — reports the opposite
+- [The association between phonological awareness and fact retrieval is prominent in multiplication but largely absent in subtraction at the subgroup level](phonological-awareness-multiplication-not-subtraction.md) — related
+- [Inhibition does not uniquely predict arithmetic fact retrieval above numerical magnitude processing](inhibition-no-unique-contribution-fact-retrieval.md) — related

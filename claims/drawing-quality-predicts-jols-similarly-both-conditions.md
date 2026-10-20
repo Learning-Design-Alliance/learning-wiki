@@ -47,3 +47,4 @@ Moderation analysis with z-standardized drawing quality, condition, and their in
 - [Age did not interact with associative relatedness or effective encoding-strategy use in predicting JOLs, indicating no age differences in the use of these two sources of information when making judgments of learning](no-age-difference-jol-information-sources.md) — related
 - [Drawing quality was diagnostic for later test performance only when drawings were made with spatial scaffolds, not when made from scratch](scaffolded-drawing-quality-diagnostic-for-performance.md) — related
 - [Drawing quality was positively associated with learning outcomes across the drawing conditions, replicating the prognostic drawing effect](prognostic-drawing-effect-replicated.md) — related
+- [Scaffolded drawing showed no significant advantage over drawing from scratch for absolute monitoring accuracy](scaffolded-drawing-no-better-than-scratch-absolute-monitoring.md) — related

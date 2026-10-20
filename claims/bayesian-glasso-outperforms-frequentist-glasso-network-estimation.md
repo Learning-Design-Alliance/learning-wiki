@@ -48,3 +48,4 @@ Extensive simulation study comparing estimation of symptom networks with Bayesia
 - [Sensitivity is better for the frequentist GLASSO than for the Bayesian GLASSO, though Bayesian GLASSO performance is usually close](frequentist-glasso-higher-sensitivity-network-estimation.md) — related
 - [The frequentist graphical LASSO has difficulty estimating centrality indices and uncertainty in these measures in symptom networks](frequentist-glasso-difficulty-uncertainty-centrality.md) — related
 - [Changes in ICT career aspirations are not systematically linked to contemporaneous changes in other occupational domains](ict-aspirations-independent-of-other-career-domains.md) — related
+- [Regularization-based graphical modeling has key drawbacks, including difficulty obtaining valid parameter uncertainty and inflated false positive rates](regularization-drawbacks-uncertainty-false-positives.md) — a broader claim this one bears on

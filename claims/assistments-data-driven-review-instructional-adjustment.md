@@ -64,3 +64,5 @@ Post-intervention survey and log data for Step 4. The article states projecting 
 ## Related Claims
 - [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — a broader claim this one bears on
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — a broader claim this one bears on
+- [A possible mediating effect of teacher homework review practices was observed in the ASSISTments trial, but the planned mediation analysis failed to show an effect](assistments-teacher-review-mediation-null.md) — related
+- [Support for data-driven instruction did not increase teachers' data use or change their instructional practices](data-driven-instruction-support-did-not-change-teacher-practice.md) — reports the opposite

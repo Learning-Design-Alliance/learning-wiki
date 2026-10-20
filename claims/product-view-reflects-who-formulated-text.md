@@ -46,3 +46,4 @@ Case study comparing 81 classroom, 81 automated, and 11 copy-typed writing sessi
 - [Identifying copy-typed sessions requires combining product and process views, since neither view is sufficient alone](copy-typing-requires-combining-product-and-process-views.md) — related
 - [Process measures distinguish how text was entered: classroom writers revised most, left the editor often, and wrote actively for 77% of the session](process-view-reflects-how-text-was-entered.md) — related
 - [In the random forest, word count was the most important readability feature while traditional readability formulas ranked near the bottom](word-count-top-traditional-formulas-unimportant.md) — related
+- [Revising texts to improve readability-formula scores often produces nonexistent or insignificant comprehension gains](readability-revision-gains-nonexistent-insignificant.md) — related

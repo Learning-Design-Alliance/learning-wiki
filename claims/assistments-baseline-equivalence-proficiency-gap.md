@@ -54,3 +54,4 @@ Baseline equivalency test of grade 6 EOG math scores between randomized groups. 
 - [Randomization check found no significant pre-intervention differences between treatment and control groups on pre-test or 8th-grade merit rating](randomization-check-no-pre-differences-variation-study.md)
 - [ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends](assistments-long-term-eog-effect-0-10.md) — related
 - [ASSISTments use in grade 7 math homework produces a statistically significant long-term positive effect on grade 8 state test scores one year after the intervention ends](assistments-long-term-math-impact-grade-8.md) — related
+- [Random assignment produced treatment and control groups balanced in mathematical preparedness before the intervention](random-assignment-produced-balanced-math-preparedness-groups.md) — related

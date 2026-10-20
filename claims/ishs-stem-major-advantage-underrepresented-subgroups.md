@@ -53,3 +53,4 @@ Subgroup propensity score-weighted HLM analyses of Texas records (Hispanic n = 5
 - [Attending an inclusive STEM high school is not associated with declaring a STEM major at a two-year college](ishs-no-two-year-stem-major-effect.md) — related
 - [Attending an inclusive STEM high school nearly triples the odds of declaring a Core STEM major at a four-year college two years after high school graduation](ishs-triples-odds-four-year-stem-major.md) — a broader claim this one bears on
 - [ISHS attendance increases the odds of economically disadvantaged students entering a Texas four-year college by 75 to 80 percent, with no significant college-entry effect for students overall](ishs-four-year-entry-economically-disadvantaged.md) — related
+- [Most reviewed studies used samples composed of at least 40 percent economically disadvantaged students](majority-studies-40-percent-economically-disadvantaged.md) — related

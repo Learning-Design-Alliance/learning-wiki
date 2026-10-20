@@ -44,3 +44,4 @@ Descriptive finding from the Phase 2 score-variation analysis: principals "did n
 
 ## Related Claims
 - [Fairness of overall observation scores may not be substantially compromised by principals using different sets of rubric components](component-subset-fairness-observation-scores.md) — related
+- [Variation across schools in principal-assigned professional practice ratings suggests principals' standards may not be fully consistent across schools](pittsburgh-principal-practice-ratings-vary-across-schools.md) — related

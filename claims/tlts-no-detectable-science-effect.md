@@ -49,3 +49,5 @@ In the same RCT, the science outcome was not a focus of TLTS supports. The repor
 - The RD evaluation was powered to detect overall SES impacts of 0.12 standard deviations or larger — related
 - Education evaluators increasingly design studies to detect impacts smaller than 0.20 standard deviations — related
 - [There is little evidence that math and reading specialists, one Turnaround Strategy component in targeted schools, had an impact on academic outcomes](aps-specialist-support-little-impact-evidence.md) — related
+- [After two years, the Turnaround Strategy is producing improvements in math performance in targeted schools, with no evidence of positive impacts on other student outcomes](aps-turnaround-math-gains-targeted-schools.md) — related
+- [TNTP achieved fidelity for TLTS's two key program components across Cohorts 2 and 3](tlts-fidelity-two-key-components.md) — related

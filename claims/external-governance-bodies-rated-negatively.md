@@ -44,3 +44,4 @@ Teachers rated the impact of 12 individuals and organizations on local school im
 
 ## Related Claims
 - [LSC members' self-assessments show little variation among principals, teachers, parents, and community representatives, and fewer than 10 percent view their councils negatively](lsc-self-assessments-little-variation.md) — related
+- [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](leaders-key-to-cross-sector-collaboration.md) — related

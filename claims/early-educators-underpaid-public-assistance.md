@@ -44,3 +44,4 @@ The Background section's workforce discussion reports wage and assistance figure
 
 ## Related Claims
 - [Teachers of color earn a smaller share of non-teacher college-graduate wages than teachers overall](teachers-of-color-compensation-gap.md) — related
+- [Public school teachers earned about 20% less in weekly wages than nonteacher college graduates in 2019](teachers-earn-20-percent-less-weekly-wages-college-graduates.md) — related

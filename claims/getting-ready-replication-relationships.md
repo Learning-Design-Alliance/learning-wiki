@@ -55,3 +55,4 @@ Second cluster randomized trial in publicly funded Nebraska preschool programs w
 - The first trial also found social-emotional gains including increased attachment and initiative and reduced anxiety/withdrawal — related
 - [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](family-engagement-linked-better-outcomes.md) — related
 - [Preschool PATHS increases emotion knowledge and parent- and teacher-rated social competence in Head Start children](paths-preschool-improves-emotion-knowledge-social-competence.md) — related
+- [In a pilot randomized trial, children whose parents received Parental Friendship Coaching were reported by parents and by blind teachers to show better social behaviors and greater peer acceptance than control children](pfc-parent-coaching-pilot-gains.md) — related

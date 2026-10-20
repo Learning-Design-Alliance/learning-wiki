@@ -47,3 +47,5 @@ The report's review of research on eight interdistrict school desegregation prog
 - [Graduates of desegregated 1970s high schools report both benefits from desegregation and experiences of backlash against it](desegregation-graduates-report-benefits-and-backlash.md) — related
 - [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — related
 - Charter school research has historically focused on test scores, with longer-term outcomes only recently examined — related
+- [Attending racially integrated schools is associated with higher academic achievement and improved long-term educational and economic outcomes for students of color, with no academic harm for white students](integrated-schools-academic-and-long-term-benefits.md) — a broader claim this one bears on
+- [Policy design details are likely critical to the effects of school choice programs](choice-program-design-details-critical-to-effects.md) — related

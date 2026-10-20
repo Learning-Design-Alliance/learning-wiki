@@ -43,3 +43,5 @@ Systematic review extent-of-evidence determination. The review states "Three stu
 ## Related Claims
 - [The WWC rated DreamBox Learning as having potentially positive effects on mathematics achievement with a small extent of evidence](dreambox-potentially-positive-effects-small-evidence.md) — related
 - [Odyssey® Math receives a WWC rating of potentially positive effects on primary students' mathematics achievement](odyssey-math-potentially-positive-effects-math-achievement.md) — related
+- [Cornelius (2013) finds a positive, statistically significant effect of Odyssey® Math versus teacher-directed supplemental instruction on STAR Math scores](cornelius-2013-significant-positive-effect-star-math.md) — related
+- [Wijekumar et al. (2009) finds no statistically significant difference between Odyssey® Math and comparison classrooms on grade 4 TerraNova math scores](wijekumar-2009-null-effect-odyssey-math-terranova.md) — related

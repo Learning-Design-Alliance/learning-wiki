@@ -46,3 +46,4 @@ Simultaneous multiple regression analyses entering set size, crowding and pre-cu
 - [Crowding effects, pre-cue dependence and set size effects each correlate significantly with reading and spelling measures](attention-measures-correlate-literacy.md) — related
 - [Kindergarten DIBELS subtests predict first-grade instructional reading, with Letter Naming Fluency the strongest predictor](dibels-predict-first-grade-reading.md) — related
 - [Kindergarten lexical literacy (word reading and spelling) predicts third-grade writing quality in both narrative and expository genres](kindergarten-lexical-literacy-predicts-writing-quality.md) — related
+- [Pre-cues and post-cues eliminate set size effects for controls but not for adults with dyslexia](cues-eliminate-set-size-controls-not-awd.md) — related

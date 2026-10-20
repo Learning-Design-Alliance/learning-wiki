@@ -73,3 +73,4 @@ Policy analysis of the top 100 universities' ChatGPT policies, described in the 
 - [Expert panelists overwhelmingly favor a hybrid governance model combining formal policies and flexible guidelines for GenAI in higher education](genai-hybrid-policy-guidelines-governance-consensus.md) — related
 - [Over 80% of surveyed students reported GenAI use driven primarily by perceived usefulness rather than policy](genai-use-driven-by-usefulness-not-policy.md) — related
 - [A 2024 global survey found 86% of students use AI tools while 80% report institutional policies are unclear or inadequate](survey-86-percent-students-use-ai-80-percent-policies-unclear.md) — related
+- [Most university AI policies are written as neutral suggested guidelines rather than strongly subjective or objective mandates](university-ai-policies-neutral-subjectivity-guidelines.md) — related

@@ -44,3 +44,4 @@ Descriptive comparison of exposed versus non-exposure-flagged problems in the 79
 
 ## Related Claims
 - [Review-based AI overall difficulty correlates strongly with problem-level student pass rate across 79 parallel-class exam problems](review-based-ai-difficulty-problem-level-correlation.md) — related
+- [AI-generated exam questions were somewhat easier than standardized-test questions, with average difficulty βAI = −0.45 versus βSTD = 0.35](ai-exam-items-easier-than-standardized.md) — related

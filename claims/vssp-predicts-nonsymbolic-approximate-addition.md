@@ -51,3 +51,4 @@ Stepwise multiple linear regression on the nonsymbolic approximate task with WM 
 - [Characteristic distance effects occur in both nonsymbolic and symbolic single-digit approximate addition](distance-effect-single-digit-approximate-addition.md) — related
 - [Symbolic approximate addition is predicted by nonsymbolic number line estimation, the VSSP and the CE, consistent with transcoding to the nonsymbolic code](transcoding-in-symbolic-approximate-addition.md) — reports the opposite
 - [Symbolic exact addition is predicted by symbolic number line representation and the phonological loop, reflecting phonological storage of numerical information](phonological-storage-symbolic-exact-addition.md) — related
+- [More accurate symbolic number line representations relate to better performance in exact, but not approximate, addition formats](symbolic-number-line-relates-to-exact-addition.md) — related

@@ -44,3 +44,7 @@ Reliability check on the self-perspective coding scheme: a second researcher ind
 
 ## Related Claims
 - [Scaled qualitative coding of preservice teachers' video-analysis responses reached very good interrater agreement](professional-vision-coding-interrater-agreement-icc.md) — related
+- [The qualitative coding achieved 82% exact interrater agreement, indicating acceptable reliability](82-percent-interrater-agreement-coding.md) — related
+- [The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers](se-review-coding-kappa-089.md) — related
+- [Human coding of other-oriented transacts in the debate corpus reached high inter-coder reliability (kappa 0.72 for reasoning, 0.7 for transactivity, 0.95 for self/other distinction)](transactivity-coding-kappa-reliability-debate-corpus.md) — related
+- [HPT is not a simple shedding of presentist perspectives: multiple selves of one learner intertwine with the target's perspective](hpt-multiple-selves-intertwined.md) — related

@@ -44,3 +44,4 @@ Analysis of prediction error consequences in SDP reports that "The statistical t
 
 ## Related Claims
 - [Four statistical techniques for predicting school-by-grade fall enrollment in SDP differ little in accuracy, with predicted cohort size off by roughly six students across all methods](sdp-enrollment-prediction-methods-similar-accuracy.md) — related
+- [Strict class size caps raise per-student staffing costs as enrollment shrinks—a worked example shows a 44 percent cost increase when 1st grade enrollment falls from 75 to 52 students](class-size-caps-raise-costs-enrollment-decline.md) — related

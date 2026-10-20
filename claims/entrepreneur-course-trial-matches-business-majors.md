@@ -46,3 +46,5 @@ An uncontrolled trial reported anecdotally in the article's closing section: "St
 
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
+- [One-quarter of NFTE alumni respondents launched a business, with launch rates varying by program (over 42 percent for BizCamp and Startup Summer versus 16 percent for a single course)](nfte-alumni-business-launch-rates-vary-by-program.md) — related
+- [89 percent of NFTE alumni survey respondents reported NFTE contributed to their knowledge, skills, and/or personal development, with top areas aligning with entrepreneurial mindset domains](nfte-alumni-89-percent-reported-development-gains.md) — related

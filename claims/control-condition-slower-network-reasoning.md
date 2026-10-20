@@ -48,3 +48,5 @@ Stage 2 completion-time comparison between the control condition (different Stag
 - [GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning](genai-weakens-effort-adjustment-to-incentives.md) — related
 - [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related
 - Adaptive-condition students complete the posttest in significantly less time than Control students — related
+- [Access to an LLM assistant during practice did not significantly lower subsequent unaided test performance](llm-access-no-significant-lower-unaided-performance.md) — related
+- [Prior genAI use and incentives show no clear effects on later memory retention](genai-no-clear-memory-effect.md) — related

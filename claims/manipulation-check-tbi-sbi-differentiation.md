@@ -45,3 +45,4 @@ Two-item 7-point manipulation check administered immediately after the instructi
 - [The TBI advantage over SBI is larger under open-ended tasks than under structured tasks](tbi-advantage-larger-under-oet-interaction.md) — related
 - [Thinking-based instruction produces higher AI literacy performance than skills-based instruction in an AIGC image-generation task](tbi-outperforms-sbi-ai-literacy-performance.md) — related
 - [Students perceived the intended expansive versus bounded framing manipulation (d = 1.4)](students-perceived-framing-manipulation.md)
+- [Instructional approach operates indirectly through autonomy and competence, while task type operates primarily through autonomy](differentiated-mediation-autonomy-competence.md) — related

@@ -43,4 +43,7 @@ Paired samples t-test on the Leuven Research Skills Test in the quasi-experiment
 
 
 ## Related Claims
--
+- [Adding integrated need support did not further improve scores on the research skills test beyond the baseline 4C/ID environment](need-support-no-lrst-effect.md) — related
+- [Students in all three conditions learned significantly from the CSCL environment, with significant pretest-to-posttest gains in each condition](all-conditions-learned-from-cscl-environment.md) — a broader claim this one bears on
+- [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emergency care professionals](no-knowledge-difference-lecture-vs-4cid-consent-training.md) — related
+- [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant](osce-advantage-4cid-not-significant.md) — related

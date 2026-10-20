@@ -45,3 +45,4 @@ Common-sample comparison applying the ERS methodology to NWEA districts and rest
 ## Related Claims
 - [In the full samples, NWEA data show far smaller math recovery (.015 SDs) and negative ELA change (-.008 SDs) than ERS (.045 and .019 SDs)](full-sample-nwea-ers-estimate-gap.md) — related
 - [Sensitivity analyses restricting to students assessed in all 15 terms reproduced the full-sample between-group comparisons](sensitivity-15-term-subsample-same-comparisons.md) — related
+- [After excluding Illinois and Ohio, ELA scores showed essentially no recovery from 2022 to 2023 in the remaining 24 ERS states](ela-no-recovery-24-states-excluding-il-oh.md) — related

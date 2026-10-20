@@ -49,3 +49,4 @@ Multivariate General Linear Modeling compared videotaped classroom observations 
 - [More teacher time using A2i software is associated with less classroom time in disruption and discipline events](a2i-use-fewer-disruptions.md) — related
 - [For first graders with weak initial self-regulation, ISI is associated with greater self-regulation gains, increasing with teachers' A2i use](isi-greater-gains-weak-initial-self-regulation.md) — related
 - [The ISI intervention shows no main effect on first graders' self-regulation gains from fall to spring](isi-no-main-effect-self-regulation-gains.md) — related
+- [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — a broader claim this one bears on

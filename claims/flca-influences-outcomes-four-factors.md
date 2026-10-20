@@ -56,3 +56,5 @@ Findings from this qualitative case study of two Japanese EFL learners indicated
 - [Classroom environment is positively associated with students' self-reported motivation and other noncognitive factors within students](classroom-environment-relates-to-noncognitive-factors.md) — related
 - [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — related
 - [Higher initial self-efficacy increased the odds of students reporting that accomplishing the problems increased their self-efficacy](higher-initial-self-efficacy-predicts-accomplishing-it.md) — related
+- [Students' perceptions of interactions with their teacher lay the stage for future interactions and ultimately influence students' success in school](student-perceptions-stage-future-interactions-school-success.md) — a narrower finding that bears on this claim
+- [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related

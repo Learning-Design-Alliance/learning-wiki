@@ -49,3 +49,5 @@ Confidence-rating analysis (six participants removed for logging errors; one ite
 - [The delayed erroneous-examples advantage replicated at one school but was not statistically significant at the other](delayed-advantage-mixed-across-schools.md) — related
 - [The delayed erroneous-examples benefit holds for both low and high prior knowledge students](erroneous-examples-benefit-both-prior-knowledge-levels.md) — related
 - [Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning](liking-is-not-learning-decimals-tutor.md) — related
+- [Erroneous examples show no general learning benefit over correct examples in most comparisons, but outperform them for negative knowledge in some studies](errexs-vs-correx-mixed-benefit.md) — related
+- [Intelligent Novice error-correction tutoring produced better delayed transfer and immediate isomorphic performance than the Expert tutor in spreadsheet learning](intelligent-novice-error-correction-better-transfer.md) — related

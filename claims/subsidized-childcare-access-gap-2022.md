@@ -51,3 +51,4 @@ The report cites a 2024 memo by Pryor and Saucedo reporting subsidized childcare
 - [Access to subsidized ECE is extremely limited for California infants and toddlers, with approximately 14% of eligible infants and toddlers enrolled](california-infant-toddler-ece-access-14-percent.md) — related
 - [Including subsidized child care, California enrolled about 37% of all 4-year-olds in publicly funded early childhood programs in 2019–20 and 55% in 2023–24](california-prek-coverage-55-percent-with-subsidized-child-care.md) — related
 - [The U.S. lags other industrialized nations in paid parental leave, prenatal care access, and child care cost coverage](us-lags-industrialized-nations-early-family-supports.md)
+- [Early childhood education programs often yield larger benefits for children most in need, such as low-income children, children of color, and those with fewer educational resources](ece-larger-benefits-children-most-in-need.md) — related

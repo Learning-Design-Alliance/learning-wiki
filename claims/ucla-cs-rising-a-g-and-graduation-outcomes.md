@@ -51,3 +51,4 @@ Longitudinal outcome reporting in this case-study report of UCLA-CS, a TK-12 com
 - [The four-year CPS high school graduation rate rose from 62.3 percent for the 2008 cohort to an all-time high of 83.2 percent for the 2020 cohort](cps-graduation-rate-62-to-83-2020.md) — related
 - Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014 — related
 - [Peñasco's high school graduation rate rose above 90% versus 76% statewide, and K-2 students outpaced state peers on formative assessments](penasco-graduation-rate-and-k2-formative-gains.md)
+- [UCLA-CS reports high teacher retention and above-district student and parent satisfaction alongside its academic outcomes](ucla-cs-teacher-retention-and-satisfaction.md) — related

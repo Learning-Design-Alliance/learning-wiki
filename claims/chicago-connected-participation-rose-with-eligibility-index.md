@@ -45,3 +45,6 @@ Descriptive participation rates by eligibility index score among eligible studen
 ## Related Claims
 - [28% of eligible CPS students participated in Chicago Connected by May 2021](chicago-connected-28-percent-eligible-participated.md) — related
 - [Students with greater economic need participated at higher rates in Chicago Connected](economic-need-higher-chicago-connected-participation.md) — related
+- [School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement](school-characteristics-chicago-connected-participation.md) — related
+- [Latinx, Black, and Asian students participated at higher rates than White peers; household size explained Latinx, Black, and Asian differences](race-ethnicity-participation-differences-chicago-connected.md) — related
+- [English Learners participated at higher rates; the disability difference was not statistically significant](english-learners-higher-iep-null-participation.md) — related

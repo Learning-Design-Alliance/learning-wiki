@@ -54,3 +54,4 @@ The same statewide administrative-data analysis applying the MSDE definition of 
 - [Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed](black-students-highest-suspension-rate-persistent.md) — related
 - [Students with disabilities are suspended at more than twice the rate of students without disabilities, and Black students with disabilities face the highest risk at 19%](disability-suspension-disparity.md) — a narrower finding that bears on this claim
 - [Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors](exclusionary-discipline-disproportionate-penalties.md) — related
+- [Within fight pairs, Black and poor students are punished more harshly than the opponents they fight](fight-pairs-black-poor-punished-more-harshly.md) — related

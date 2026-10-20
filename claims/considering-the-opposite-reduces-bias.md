@@ -68,3 +68,4 @@ This PRISMA-based systematic review screened 86 articles down to 12 studies (17 
 - Drawing on the positional reflexivity of two researchers with distinct perspectives can function as a strength for cogenerating themes and theory in policy evaluation — related
 - [Ammons's influential 1956 review concluded that feedback improves learning and motivation without considering the contradictory evidence available to him](ammons-review-ignored-contradictory-evidence.md) — related
 - [Learners design poor experiments: confirmation bias, inconclusive designs, and ineffective variable manipulation are common](poor-experiment-design-in-discovery.md) — related
+- [Programs should facilitate cognitive disequilibrium so students question ethnocentric views and consider other cultural perspectives](programs-facilitate-cognitive-disequilibrium-ethnocentric-views.md) — related

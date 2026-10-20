@@ -43,4 +43,5 @@ Implementation analysis of 32 NGLC schools, combining teacher surveys with stude
 
 
 ## Related Claims
--
+- [Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common](aa-student-choice-rare-reflection-assigned.md) — related
+- [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](teacher-access-use-rose-assignments-modest.md) — related

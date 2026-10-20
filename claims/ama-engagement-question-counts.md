@@ -45,3 +45,5 @@ Quantitative analysis of interaction logs from the 63-student school study measu
 ## Related Claims
 - [Some children in a K-8 school study used a 'trust test' strategy, asking a chatbot questions they already knew the answers to, to evaluate it as a credible information source](children-trust-test-chatbot-with-known-answers.md) — related
 - In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement — related
+- [Dinosaurs was the most popular chatbot topic, especially among first graders, with sneakers and shoes second](ama-topic-popularity-dinosaurs.md) — related
+- [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related

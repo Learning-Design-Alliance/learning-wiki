@@ -44,3 +44,4 @@ Observational cohort comparison of 29,970 final student submissions against 90,0
 
 ## Related Claims
 - [Most reported student–LLM matches involved short snippets, and raising the minimum match length rapidly reduced coverage, making it a key review-workload control](minimum-match-length-controls-coverage.md) — related
+- [Frontier LLMs produced near-perfect solutions to CS1 labs, with mean hidden-instructor-test scores of 98.93–99.99% across model–year combinations](llm-near-perfect-cs1-lab-solutions.md) — related

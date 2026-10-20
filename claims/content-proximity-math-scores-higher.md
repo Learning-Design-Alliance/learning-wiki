@@ -46,3 +46,5 @@ Propensity-score-matched regression analysis (spring score regressed on group in
 - [EISA-based MAP Growth testing produced slightly lower fall Mathematics scores but higher winter and spring Mathematics scores than traditional MAP Growth, and equipercentile linking was used to align the two versions for norming](eisa-fall-math-dip-winter-spring-higher-equipercentile-linking.md) — related
 - [The Content Proximity spring 2022 pilot study examined validity, reliability, and test score comparability of MAP Growth assessments using the new item-selection algorithm](content-proximity-pilot-validity-reliability-comparability.md) — related
 - [Content Proximity pilot tests contained significantly more on-grade items and made better use of adjacent-grade items than traditional MAP Growth tests](content-proximity-more-on-grade-items.md) — related
+- [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-beats-fixed-form-precision-same-length.md) — related
+- [Growth-norms predictions showed larger RMSDs for pilot math scores but similar predictions for reading](norms-prediction-rmsd-math-reading.md) — related

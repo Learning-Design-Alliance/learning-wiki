@@ -48,3 +48,4 @@ Quasi-experimental Texas study of 10 Talent Search projects: 4,027 participants 
 - [The WWC rated Talent Search as having potentially positive effects on completing school, capped below positive because both studies were quasi-experimental](talent-search-potentially-positive-effects-rating.md) — a broader claim this one bears on
 - [Talent Search participants were more likely than matched comparison students to apply for federal financial aid](talent-search-more-likely-apply-federal-financial-aid.md) — related
 - [Talent Search participants were more likely than comparison students to enroll in public postsecondary institutions](talent-search-more-likely-enroll-public-postsecondary.md) — related
+- [Practical college-access information may have been a key service Talent Search delivered](practical-information-key-talent-search-service.md) — related

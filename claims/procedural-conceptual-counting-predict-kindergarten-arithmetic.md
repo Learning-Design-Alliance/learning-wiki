@@ -48,3 +48,4 @@ First preparatory regression on 63 kindergarteners using Tedi-Math subtests; pro
 ## Related Claims
 - [Preschool counting skills and number knowledge directly predict formal arithmetic skills in primary school, together accounting for 40–46% of variance](counting-number-knowledge-predict-arithmetic.md) — related
 - [Expressive language in kindergarten explains 24% of the variance in kindergarten arithmetic controlling for number naming and procedural counting knowledge](expressive-language-explains-24-percent-kindergarten-arithmetic-variance.md) — related
+- [Number naming and number comparison are better predictors of kindergarten arithmetic than number line estimation](number-naming-comparison-better-predictors-than-number-line-estimation.md) — related

@@ -49,3 +49,6 @@ Mixed-effects behavioral analysis with load as fixed factor, subject random, gen
 - [In youth performing an n-back task without feedback, bilateral ventral striatum activates more strongly to correct than incorrect responses](vs-correct-greater-than-incorrect-nback-youth.md) — related
 - [Ventral striatum response to correct responses scales with working memory load in youth](vs-response-scales-with-working-memory-load.md) — related
 - [Accuracy and the proportion of high bets decrease with increasing discrimination difficulty in both domains](difficulty-reduces-accuracy-and-high-bets.md) — related
+- [Post-error slowing occurs in the 2-back condition despite absence of feedback](post-error-slowing-two-back-no-feedback.md) — related
+- [Adults show higher overall working memory accuracy than adolescents, and adults but not adolescents increase startle reactivity with load](adults-higher-accuracy-startle-load-group-interaction.md) — related
+- [Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases](grade4-children-monitor-working-memory-overconfident.md) — related

@@ -62,4 +62,5 @@ Independent samples t-tests on mean differences: both printed effect sizes (d = 
 
 
 ## Related Claims
--
+- [Amotivation increased in both conditions during the intervention, but the increase was smaller in the need-supportive condition](amotivation-increase-lower-need-support.md) — related
+- [Adding integrated need support did not further improve scores on the research skills test beyond the baseline 4C/ID environment](need-support-no-lrst-effect.md) — related

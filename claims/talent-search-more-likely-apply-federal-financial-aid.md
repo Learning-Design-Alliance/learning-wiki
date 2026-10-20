@@ -49,3 +49,6 @@ Quasi-experimental study using administrative data with matched comparison group
 - [Talent Search participants in Texas completed high school or GED at a significantly higher rate than matched comparison students (86% vs. 77%)](talent-search-texas-higher-completion-rate.md) — related
 - [The WWC rated Talent Search as having potentially positive effects on completing school, capped below positive because both studies were quasi-experimental](talent-search-potentially-positive-effects-rating.md) — related
 - [Across the two qualifying studies, Talent Search shows an average improvement index of +17 percentile points on completing school](talent-search-average-improvement-index-completing-school.md) — related
+- [Comparison-group students in the Bottom Line study accessed existing advising and nearly all applied to college and for financial aid](bottom-line-comparison-group-near-universal-application.md) — related
+- [Of six academic advising programs with studies meeting WWC standards, two (Talent Search and Sponsor-a-Scholar) improved college enrollment and four had no impact](academic-advising-mixed-college-enrollment.md) — a broader claim this one bears on
+- [Other types of federal financial aid did not fully make up for the decline in PLUS borrowing at HBCUs](other-federal-aid-did-not-offset-plus-decline.md) — related

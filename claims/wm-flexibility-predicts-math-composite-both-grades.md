@@ -50,3 +50,5 @@ Structural equation model testing whether kindergarten EF components explained m
 - Kindergarten EF is best described by a two-factor model separating inhibition from WM–flexibility — related
 - [In Grade 3, both problem solving and arithmetical facts are predicted by the preschool WM–flexibility component](wm-flexibility-predicts-grade-3-problem-solving-and-facts.md) — related
 - [Verbal working memory directly and positively predicts math performance in grades 3 and 4](verbal-wm-predicts-math-grades-3-4.md) — related
+- [Executive functions and working memory correlate moderately to strongly with mathematics achievement (r = .28 to .40), from preschool through elementary school](executive-functions-and-working-memory-correlate-with-math-achievement.md) — a broader claim this one bears on
+- [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related

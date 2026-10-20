@@ -43,4 +43,9 @@ Randomized experiment with 223 undergraduates in "three treatment groups" (tools
 
 
 ## Related Claims
--
+- [Cognitive and metacognitive prompts did not increase self-reported online strategy use, the quality of strategies in learners' notes, or learning outcomes in hypermedia learning](prompts-no-effect-strategy-use-outcomes-hypermedia.md) — reports the opposite
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related

@@ -49,3 +49,4 @@ Mueller and Dweck (1998) conducted six studies with late grade-school children c
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — related
+- [Gaming participants did not report the negative consequences of task failure; low-stakes experimentation and regeneration supported perseverance](gaming-failure-tolerance-perseverance.md) — related

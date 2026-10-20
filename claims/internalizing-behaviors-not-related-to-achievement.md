@@ -45,3 +45,4 @@ Contrast between behavior types in the cross-sectional sample: externalizing beh
 - [Students with E/BD in K-12 public school settings show large academic achievement deficits across all content areas](ebd-students-large-achievement-deficits-all-content-areas.md) — related
 - [Externalizing behaviors are related to reading, mathematics, and written language achievement in students with E/BD](externalizing-behaviors-related-to-achievement.md) — related
 - [Early Risers shows no discernible effects on emotional/internal behavior for children at risk of emotional disturbance classification](early-risers-no-effect-internal-behavior.md) — related
+- [Academic achievement deficits of students with E/BD appear stable across age, and worsen in the case of mathematics](ebd-math-deficits-worsen-across-age.md) — related

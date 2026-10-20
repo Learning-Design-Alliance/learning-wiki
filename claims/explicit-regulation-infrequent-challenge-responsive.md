@@ -43,4 +43,7 @@ The article reports this pattern of regulatory occurrence from its temporal netw
 
 
 ## Related Claims
--
+- [Script-supported groups mainly engaged in accepted intra-group metacognitive interaction, with co-constructed interaction infrequent and highly variable between groups](accepted-interaction-dominant-co-construction-rare.md) — related
+- [Engaging in argumentation-triggered, information-triggered, or socially-triggered interaction sequences is positively associated with grades, while facilitated discussions is not](initiating-sequence-clusters-associate-grades.md) — related
+- [Direct SRL promotion in observed classrooms was dominated by implicit strategy instruction, metacognitive support, and metacognitive reflection, with explicit strategy instruction rare](implicit-strategy-instruction-dominates-direct-srl-promotion.md) — related
+- [The alerting & guiding dashboard did not increase teacher coregulation more than the mirroring dashboard (H3 not supported); mirroring increased intervention rates (non-significant) while guiding-condition interventions were rare and mostly coregulation strategies](guiding-dashboard-did-not-increase-coregulation.md) — related

@@ -50,3 +50,5 @@ Philosophical critique in the section on what Dewey would say about Kohlberg's m
 - [A meta-analysis of 55 studies found Kohlberg's dilemma discussion approach had a moderate to significant effect on moral education, and Just Community Schools provided a moral culture](dilemma-discussion-meta-analysis-moderate-effect.md) — related
 - The relational taxonomy is argued to support values and moral education because fostering ego strength addresses the gap between moral reasoning and moral behavior — related
 - [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](dewey-morality-in-everyday-problems.md) — related
+- [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — related
+- [Theories of learning have historically operated to justify societal hierarchies through reification and ranking](learning-theories-justify-hierarchies-reification-ranking.md) — related

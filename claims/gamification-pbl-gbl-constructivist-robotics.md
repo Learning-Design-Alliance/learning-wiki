@@ -46,3 +46,4 @@ Syed Tanzim Mubarrat, Byung-Cheol Min, Tianyu Shao, E. Cho Smith, Bedrich Benes,
 - [GBL and gamified approaches show comparable rates of quantifiable learning gains and affective outcomes in robotics education](comparable-outcomes-gbl-versus-gamified-robotics.md) — related
 - [GBL approaches are more prevalent in informal settings while gamification dominates formal classrooms in robotics education](gbl-informal-gamification-formal-robotics-coupling.md) — related
 - [Gamified robotics studies skew toward higher programming/software development skill tiers than GBL studies](gamified-studies-higher-programming-skill-tiers.md) — related
+- [Robotics systems skill levels do not differ between GBL and gamified studies](robotics-systems-skill-levels-no-approach-difference.md) — related

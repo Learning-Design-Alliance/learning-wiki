@@ -45,3 +45,6 @@ Analysis of primary data from the six case study districts reported under the in
 ## Related Claims
 - [More than half of surveyed LEAs employ dedicated family liaisons who bridge schools and multilingual families](sv-leas-family-liaisons-bridge-multilingual-families.md) — reports the opposite
 - [Case study districts' staffing for English Learners falls well below Ohio cost-study recommendations for instructors and bilingual paraprofessionals](el-staffing-gaps-below-ohio-recommendations.md) — related
+- [A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists](family-school-partnerships-need-staff-capacity.md) — related
+- [State community engagement requirements such as public hearings can often be satisfied without obtaining meaningful community input, and collecting feedback differs from proactively assessing community needs](engagement-requirements-without-meaningful-input.md) — related
+- [School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement](school-characteristics-chicago-connected-participation.md) — related

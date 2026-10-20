@@ -43,4 +43,6 @@ Authors' interpretation of the coded actual-need data (discussion section), base
 
 
 ## Related Claims
--
+- [Conceptual counting uniquely predicts fluency, computation, and applied problems but not story problems; procedural counting uniquely predicts only applied problems](counting-type-specificity-grade1-outcomes.md) — related
+- [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](experts-predict-student-errors-and-classroom-events.md) — related
+- [Fact retrieval deficits in LA-Severe children occur alongside intact addition procedural competencies and modest, improving number-task performance](retrieval-deficit-dissociated-from-procedures.md) — related

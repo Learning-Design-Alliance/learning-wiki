@@ -44,3 +44,6 @@ Author's own limitation statement in Part 5.2. The article also lists authentici
 
 ## Related Claims
 - [A reflection-structured assignment produced predominantly Strategic Dialogue content, offering preliminary, non-causal evidence that instructional framing may shift path distribution](instructional-framing-shifts-path-distribution.md) — related
+- [Formal theory offers advantages over common sense for guiding implementation, but empirical evidence of effectiveness is lacking](formal-theory-advantages-over-common-sense.md) — related
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related

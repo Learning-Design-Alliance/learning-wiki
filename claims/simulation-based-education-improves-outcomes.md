@@ -101,3 +101,6 @@ A systematic review and meta-analysis (search through May 2011 across MEDLINE, E
 - [Higher levels of technology support during simulation are associated with greater effects on learning outcomes](technology-support-associated-with-greater-effects.md) — a narrower finding that bears on this claim
 - [Virtual patients show larger advantages over passive traditional learning (lectures, reading) than over active learning](vp-passive-versus-active-comparison.md) — a narrower finding that bears on this claim
 - [Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)](vp-traditional-skills-advantage.md) — a narrower finding that bears on this claim
+- [Intelligent Extended Reality interventions in VET show consistent positive effects on procedural competence, practical skills, and learner motivation](ixr-vet-positive-effects-procedural-motivation.md) — related
+- [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](training-transfer-as-adaptive-reconstruction.md) — related
+- [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related

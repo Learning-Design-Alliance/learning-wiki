@@ -71,3 +71,4 @@ Qualitative questionnaire data on difficulties with listening activities. Other 
 - [Heritage and non-heritage learners perceive textbook listening activities in reversed ways: no HLL found them difficult and no NHLL found them easy](reversed-perceptions-textbook-listening-activities.md) — related
 - [Heritage learners scored only slightly higher than non-heritage learners on listening tasks, with no statistically significant group difference](hll-nhll-listening-scores-not-significant.md) — reports the opposite
 - [Successful and unsuccessful listening performance in this study is associated with learners' strategic behaviour rather than with heritage or non-heritage status](strategy-use-not-group-status-explains-listening-success.md) — related
+- [Heritage learners showed broader attention to the passage and selective second-listening attention, while non-heritage learners focused on local information](hlls-broader-and-selective-listening-attention.md) — related

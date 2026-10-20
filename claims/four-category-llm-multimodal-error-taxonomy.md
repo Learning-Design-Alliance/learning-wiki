@@ -86,3 +86,5 @@ Descriptive observation from the error analysis of the same question sets: compu
 - [LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models](multimodal-physics-accuracy-drops-to-74-percent.md) — reports the opposite
 - In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve — related
 - [The taxonomy decodes overlapping misconceptions behind a single observed loop-tracing error](taxonomy-decodes-overlapping-loop-misconceptions.md) — related
+- [Three publicly available LLMs achieve 96% average accuracy on text-only physics problems with no significant differences among models](llms-96-percent-text-only-physics-accuracy.md) — related
+- [Four process-level error categories account for roughly nine in ten attributed failures in VCoT geometry solving](four-process-error-categories-dominate-failures.md) — related

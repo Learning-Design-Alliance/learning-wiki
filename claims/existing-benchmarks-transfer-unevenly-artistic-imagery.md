@@ -45,3 +45,4 @@ Cross-benchmark correlation analysis using pairwise-available model scores betwe
 ## Related Claims
 - [VLM performance on artistic educational imagery is highly task-dependent, with no model dominating across capabilities](vlm-performance-task-dependent-muse.md) — related
 - [MUSE tasks form coherent but non-redundant capability groups, with Jigsaw Puzzle a distinct compositional capability](muse-tasks-non-redundant-capability-groups.md) — related
+- [A recognition-versus-reasoning divide: scene recognition is comparatively mature while affective interpretation and compositional reasoning lag](recognition-reasoning-divide-muse.md) — related

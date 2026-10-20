@@ -46,3 +46,5 @@ Theoretical synthesis section reporting Bransford et al.'s learning-science acco
 - Review identifies gaps: CDST studies isolate learner from environment and define what constitutes a system vaguely — related
 - Traditional cognitive and CHAT paradigms differ on six dimensions of learning research (definition of learning, technology's role, assessment focus, context, evaluator role, data collection) — related
 - The scholarship of integration is the least examined frame in Boyer's model of scholarship — related
+- [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](essential-supports-mutual-trust-reinforce-each-other.md) — a broader claim this one bears on
+- [The better the five foundations are integrated, the greater the probability of success in the designed setting](foundation-integration-predicts-environment-success.md) — a broader claim this one bears on

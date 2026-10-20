@@ -45,3 +45,7 @@ The review reports Adi-Japha et al. (2007)'s study of ADHD children: "clinically
 ## Related Claims
 
 - [Middle school's escalated executive function demands cause a crash for students with ADHD/EDF, and 504 plans rarely meet EDF needs](middle-school-ef-demands-crash-504-inadequate.md)
+- [ADHD is associated with poor academic outcomes, including lower grade point average, increased grade retention, and lower rates of high-school graduation and post-secondary education](adhd-poor-academic-outcomes-longitudinal.md) — a broader claim this one bears on
+- [Meta-analyses establish that ADHD is associated with poorer performance on tasks measuring inhibition, working memory, planning, and vigilance in children, with overall similar impairment patterns in adults and a strong association with reaction time variability](adhd-cognitive-deficits-children-adults.md) — a broader claim this one bears on
+- [Students with EDF grow into school-assessed learning disabilities, written expression first and reading comprehension next](edf-progresses-to-written-expression-then-reading-comprehension.md) — related
+- [Reading and writing are similar but not symmetric processes, with writing more demanding than reading](reading-writing-asymmetric-processes.md) — related

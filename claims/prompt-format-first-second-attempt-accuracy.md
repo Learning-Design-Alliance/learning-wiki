@@ -65,3 +65,6 @@ The same en route practice ANOVA in the 51-participant experiment found pictoria
 ## Related Claims
 - [Textual instructional prompts yield significantly higher near-transfer posttest performance than pictorial prompts for novice circuit-analysis learners](textual-prompts-better-near-transfer-than-pictorial.md) — related
 - [Textual prompts yield significantly stronger continuing motivation than pictorial prompts](textual-prompts-stronger-continuing-motivation.md) — related
+- [In one 51-learner experiment on help formats in computer-based electrical engineering instruction, far-transfer scores were at the floor in every condition, and time spent on instruction did not differ significantly between conditions](far-transfer-floor-effect-and-equal-time.md) — related
+- [Learners report more positive attitudes toward externally regulated prompts than self-regulated prompts](external-prompt-regulation-more-positive-attitudes.md) — related
+- [Self-regulated vs. externally regulated prompt presentation shows no significant effect on posttest performance and no interaction with prompt format](prompt-presentation-no-performance-effect.md) — related

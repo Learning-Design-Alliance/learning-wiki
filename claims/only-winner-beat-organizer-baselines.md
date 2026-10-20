@@ -45,3 +45,5 @@ Crowd evaluation of the cascaded pipeline, NotebookLM commercial generator, and 
 ## Related Claims
 - [The LLM-judge separates weak submissions but its ranking of the strongest systems has almost no agreement with crowd ranking (Spearman ρ = −0.17)](llm-judge-ranks-strongest-systems-poorly.md) — related
 - [Judge and crowd broadly agree on which criteria matter, but the judge's near-identical top scores make its ranking of strong systems essentially random](judge-crowd-agree-on-criteria-but-scores-separate-nothing.md) — related
+- [Systems adapt to the specified learner persona in ways human raters can perceive, scoring well above chance in persona identification](persona-adaptation-perceptible-to-raters.md) — related
+- [Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest](ai-video-systems-content-stronger-than-delivery.md) — related

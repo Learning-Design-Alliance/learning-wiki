@@ -68,3 +68,5 @@ Syed Tanzim Mubarrat, Byung-Cheol Min, Tianyu Shao, E. Cho Smith, Bedrich Benes,
 - [Gamified robotics studies favor project-based learning while GBL studies favor constructivist pedagogy](gamification-pbl-gbl-constructivist-robotics.md) — related
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
 - [Formal learning context is a significant positive predictor of whether a robotics study reports quantifiable learning gains](formal-context-predicts-learning-gains-robotics.md) — related
+- [Motivational outcomes are the most consistently positive dimension across AI-GBL studies](ai-gbl-motivation-most-consistent-outcome.md) — related
+- [Proportions of significant CT gains vary by instructional approach, but approach alone does not determine effectiveness](instructional-approach-alone-does-not-determine-ct-effectiveness.md) — related

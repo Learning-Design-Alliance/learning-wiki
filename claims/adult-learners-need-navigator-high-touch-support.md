@@ -48,3 +48,4 @@ Key finding stated in this brief about strategies states with Adult Promise gran
 ## Related Claims
 - [The brief reports that adult learners' priorities differ from traditional-age students', making appropriate messages critical to engaging them](adult-learner-priorities-tailored-messages-critical.md) — related
 - [The brief reports that online tools can engage prospective adult learners and make enrollment convenient given work and family demands](online-tools-convenient-enrollment-adult-learners.md) — related
+- [Early childhood credential candidates face financial, time, and navigation barriers that fall hardest on candidates of color](ec-credential-barriers-cost-time-navigation.md) — related

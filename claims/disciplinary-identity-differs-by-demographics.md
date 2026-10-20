@@ -45,3 +45,4 @@ The same four-institution survey documented "key differences in disciplinary ide
 ## Related Claims
 - [Undergraduate researchers' disciplinary identity differs based on the internal motivators of intellectual interest and grit](disciplinary-identity-differs-by-intellectual-interest-and-grit.md) — related
 - [Disciplinary identity among undergraduate researchers varies by student discipline](disciplinary-identity-varies-by-student-discipline.md) — related
+- [Mastery orientation, value, belonging, self-efficacy, and SRL show small demographic differences by gender, ethnicity, and grade](demographic-correlates-identity-motivation.md) — related

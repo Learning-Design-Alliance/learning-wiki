@@ -45,3 +45,5 @@ In the article's experiment, the identical dataset used for the skin rash task w
 ## Related Claims
 - [Subjects highest in numeracy draw valid causal inferences from data better than less numerate subjects when the data are politically uncharged (skin rash treatment framing)](numerate-subjects-better-skin-rash-inference.md) — related
 - [Contrary to the science comprehension thesis, political polarization of data interpretation did not abate among the most numerate subjects but increased](polarization-increases-with-numeracy.md) — related
+- [Numeracy is defined and used as a measure of the ability and disposition to make use of quantitative information in causal-inference tasks](numeracy-quantitative-reasoning-measure.md) — related
+- [Articles edited by more heterogeneous contributors are more balanced, indicating productive friction that counters polarization](heterogeneous-contributors-balance-articles.md) — related

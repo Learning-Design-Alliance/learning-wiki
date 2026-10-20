@@ -48,3 +48,5 @@ ATUS by-activity Tobit decompositions of childcare into physical care, facilitat
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [No statistically significant summer gap in children's reading time by parental education in the APSCC](no-significant-summer-reading-gap-apscc.md) — related
 - [Low-income children spend about 12 fewer minutes per day conversing with adults during summer, marginally significant](summer-conversation-gap-low-income-children.md) — related
+- [Children with poorer parents suffer more, and children of high school educated parents experience the largest welfare losses](ses-heterogeneity-welfare-losses-closures.md) — related
+- [School-aged children show reduced physical activity and increased sedentary behavior during the summer break across multiple countries](summer-break-reduced-activity-increased-sedentary.md) — related

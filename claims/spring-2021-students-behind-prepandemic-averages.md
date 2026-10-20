@@ -53,3 +53,4 @@ Achievement-trend modeling of test scores from 4.9 million U.S. students in Grad
 - Researchers have translated test scores into months of learning to claim how many months or years students are behind in school — related
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
 - [Year 4 students in major cities demonstrated one month's additional reading growth in 2020 compared with 2019](covid19-year4-major-cities-one-month-additional-reading-growth.md) — related
+- [First graders in 2021–22 grew less in math and reading than a typical prepandemic year, by 6–7%](first-graders-2021-22-growth-below-typical-year.md) — related

@@ -45,3 +45,4 @@ Qualitative analysis of participatory design sessions in which six secondary tea
 ## Related Claims
 - [Teachers retain ultimate control over AI systems because professional responsibility cannot be delegated](teachers-retain-ultimate-control-responsibility-not-delegable.md) — a narrower finding that bears on this claim
 - [Teachers sought to preserve student thinking and authorship by bounding chatbot answer-giving and maintaining teacher control over scope](teachers-preserve-student-thinking-bound-answer-giving.md) — a narrower finding that bears on this claim
+- [Lab supervision, staffing, scheduling, and sustainability are key challenges for school AI labs](ai-lab-staffing-supervision-challenges.md) — related

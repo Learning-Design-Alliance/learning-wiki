@@ -46,3 +46,4 @@ The study examined "theory of mind, the understanding of teaching, and learning 
 - [Low-income children show theory of mind development differences compared with typically studied higher-income samples](low-income-children-tom-development-differences.md) — related
 - [Theory of mind predicts concurrent literacy and numeracy outcomes at school entry among low-income children](tom-predicts-concurrent-academic-outcomes.md) — related
 - [Children's understanding of teaching predicts changes in literacy scores over time](understanding-of-teaching-predicts-literacy-growth.md) — related
+- [The cross-sectional ToM–achievement association remains significant after controlling for verbal ability, executive functions, non-verbal ability, and SES](tom-achievement-unique-beyond-covariates.md) — a narrower finding that bears on this claim

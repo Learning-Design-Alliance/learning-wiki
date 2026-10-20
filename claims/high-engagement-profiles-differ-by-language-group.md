@@ -46,3 +46,5 @@ Profile-form comparison across the two language subsamples in the LPA results an
 - [Children in higher family engagement profiles had higher total language skills in both language subsamples, most pronounced among English-speaking families](engagement-profiles-language-skills.md) — related
 - [Demographic predictors of engagement profile membership differed across language groups, with employment the only significant predictor for English-speaking parents](demographic-predictors-differ-by-language-group.md) — related
 - [Latent profile analysis identified three family engagement profiles in both Spanish- and English-speaking low-income Latino samples](three-profile-family-engagement-latino-head-start.md) — a broader claim this one bears on
+- [Higher engagement profiles related to better play interaction for Spanish-speaking children but showed no significant social outcome differences among English-speaking profiles](engagement-profiles-social-outcomes-mixed.md) — related
+- [ELL parents generally place a high value on their children's education](ell-parents-value-education.md) — related

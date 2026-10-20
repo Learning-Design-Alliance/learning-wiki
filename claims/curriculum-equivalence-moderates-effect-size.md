@@ -46,3 +46,6 @@ Methodological-moderator analysis of the 51 contrasts testing six variables: sam
 
 - [Studies in which online learners spent more time on task than face-to-face learners showed a greater benefit for online learning (+0.46 vs. +0.19; Q = 3.88, p < .05).](time-on-task-moderates-online-advantage.md)
 - [Students in online learning conditions performed better on average than those receiving face-to-face instruction (mean effect size +0.24, p < .01, across 51 contrasts).](online-outperforms-face-to-face-meta-analysis.md) — related
+- [A systematic search found almost no rigorous studies contrasting online and face-to-face instruction for K–12 students: none with computable effect sizes through 2006, and only five meeting meta-analysis criteria through July 2008.](few-rigorous-k12-online-studies.md) — related
+- [Blended online-plus-face-to-face instruction showed a larger advantage over face-to-face instruction (+0.35, p < .001) than purely online instruction did (+0.14, p < .05).](blended-larger-advantage-than-pure-online.md) — related
+- [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related

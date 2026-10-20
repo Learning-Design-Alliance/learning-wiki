@@ -47,3 +47,4 @@ Regressions of residualized long-term outcomes on jackknife teacher persistent e
 - [Teacher grade effects show spillovers to students' broader ninth-grade outcomes](teacher-grade-effects-spillover-ninth-grade-outcomes.md) — related
 - [Ninth-grade teachers vary substantially and systematically in the grades they give](teacher-total-grade-effects-vary-substantially.md) — related
 - [Ninth-grade GPA predicts beginning-of-tenth-grade PLAN scores even after controlling for eighth-grade test scores, suggesting grades reflect new learning](ninth-grade-gpa-predicts-plan-scores.md) — related
+- [Grading mismatch correlates negatively with persistent effects, and total effects reflect mismatch more than persistent effects](mismatch-negatively-correlated-persistent-effects.md) — related

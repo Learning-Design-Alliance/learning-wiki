@@ -43,4 +43,4 @@ Narrative review attributing to Sobocinski et al. (2017) a process discovery ana
 
 
 ## Related Claims
--
+- [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related

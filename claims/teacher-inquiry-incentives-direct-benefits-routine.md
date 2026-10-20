@@ -46,3 +46,5 @@ Thematic analysis of open-ended interview responses (Q11) from ten teachers abou
 - [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](teacher-buy-in-mediates-coaching-benefit.md) — related
 - [Teachers pose inquiry questions mostly about their students, not their own teaching, indicating teaching data remains a novel concept](teachers-inquiry-questions-focus-on-students-not-teaching.md) — related
 - [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — a broader claim this one bears on
+- [Teachers see high workload, habits, low-quality data and skills, and predisposition as the main constraints on data-informed analysis, and none regularly collect teaching data](teacher-data-use-obstacles-workload-habits-skills.md) — related
+- [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related

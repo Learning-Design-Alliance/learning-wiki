@@ -55,3 +55,5 @@ A lesson-learned synthesized from classroom trials, instructor and student feedb
 - [The Synthesizer is expected to reduce perceived overload and support affect relative to unstructured comment lists](synthesizer-expected-reduce-overload-support-affect.md) — related
 - [Task design balancing challenge and accessibility determines the success of AI-powered collaborative learning environments](task-design-challenge-accessibility-balance-ai-collaborative.md) — related
 - [Educational factors supportive of adolescent creativity include balancing freedom with guidance, openness to student ideas, trust, and varied learning resources](educational-factors-support-adolescent-creativity.md) — related
+- [FORAP-packaged projects were deployed in 44 classroom trials across seven universities over four academic years, reaching about 2,000 students](forap-44-classroom-trials-seven-universities.md) — related
+- [More teacher support in AI-based instruction is not always better; a review found support worked well when balanced with students' autonomy and independent thinking](teacher-support-benefits-conditional-on-autonomy-balance.md) — related

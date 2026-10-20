@@ -45,3 +45,5 @@ Null result on end-of-year NWEA MAP math scores, stated in the Limitations secti
 ## Related Claims
 - [Tutor Copilot Raises Exit Ticket Mastery 4Pp](tutor-copilot-raises-exit-ticket-mastery-4pp.md)
 - [Tutors perceive Tutor CoPilot as helpful for on-the-spot explanations but flag suggestions that are not grade-level appropriate and 'too smart'](tutors-perceive-tutor-copilot-helpful-but-grade-level-issues.md) — related
+- [Tutor CoPilot's benefit is largest for lower-rated and less-experienced tutors (9 p.p. and 7 p.p.), diminishing as tutor effectiveness increases](tutor-copilot-benefits-concentrated-among-lower-rated-tutors.md) — related
+- [Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant](breakthrough-tutoring-confidence-gain-not-significant.md) — a narrower finding that bears on this claim

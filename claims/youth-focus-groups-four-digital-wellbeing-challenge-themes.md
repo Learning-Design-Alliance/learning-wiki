@@ -46,3 +46,6 @@ Qualitative findings from two 1-hour focus groups with youth ages 14-18, facilit
 - [Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands](systemic-challenges-gaps-isolation-shifting-skills.md) — related
 - [Teens with ASD are described as vulnerable to compulsive internet use that limits in-person social interaction](asd-teens-vulnerable-compulsive-internet-use.md) — related
 - [Pokémon Go play is associated with improved social well-being, belonging, and connection, and reduced anxiety about leaving the house](pokemon-go-social-wellbeing-benefits.md) — related
+- [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — related
+- [Mindfulness interventions consisting of combinations of various mindfulness activities show the largest effects on youth mental health and well-being](mindfulness-activity-combinations-largest-effects.md) — related
+- [Mindfulness interventions delivered during late adolescence (15–18) show the largest effects on youth mental health and well-being outcomes](mindfulness-late-adolescence-largest-effects.md) — related

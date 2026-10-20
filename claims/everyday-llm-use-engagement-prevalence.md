@@ -49,3 +49,5 @@ Observational analysis of 128,569 naturalistic conversations from WildChat, LMSY
 - [Adjacent-turn support–engagement coupling is state- and form-dependent: explaining predicts constructive follow-up after all prior states, while feedback's positive association concentrates after prior passive turns](adjacent-turn-support-engagement-coupling.md) — related
 - [78.8% of student-GenAI turns lack mastery-oriented aims and reliable epistemic strategies](low-epistemic-engagement-788-percent-non-mastery.md) — related
 - [Trained students engage in more conversational turns with the GenAI tool](trained-students-more-conversational-turns.md) — related
+- [Scaffolded assistant support marks richer constructive participation at the conversation level across all six task settings](scaffolded-support-constructive-participation.md) — related
+- [Support form differentiates the scaffolding–engagement association: feedback and explaining align most with constructive engagement, with a task-ecology crossover between instructing and modelling](support-form-differentiates-engagement.md) — related

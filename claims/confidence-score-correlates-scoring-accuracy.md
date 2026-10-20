@@ -44,3 +44,4 @@ Correlational analysis (§4.2) of mean confidence κ(x) versus predictive accura
 
 ## Related Claims
 - [Each of the 12 human raters' scores correlates significantly with AEEGS scores, with coefficients ranging from 0.604 to 0.864](aeegs-pearson-correlations-range-0604-0864.md) — related
+- [Model self-confidence, weighted probabilistic scoring, and ensemble modeling each significantly improve LLM-based divergent thinking scoring, raising correlation with human judges from r = 0.781 to r = 0.823](llm-scoring-three-techniques-raise-human-judge-correlation.md) — related

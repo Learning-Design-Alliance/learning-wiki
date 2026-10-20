@@ -44,3 +44,4 @@ Descriptive finding on teacher and principal evaluation and support, drawn from 
 
 ## Related Claims
 - [Most states adopted and most principals and teachers reported implementing college- and career-readiness-focused state standards in 2013-14](most-states-adopted-college-career-readiness-standards-2013-14.md) — related
+- [Teacher education enrollments dropped 35% between 2009 and 2014, from 691,000 to 451,000](teacher-prep-enrollment-decline-35-percent.md) — related

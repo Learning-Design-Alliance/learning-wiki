@@ -43,4 +43,4 @@ The review reports, citing Scott-Clayton (2011b), an argument that abundant choi
 
 
 ## Related Claims
--
+- [Students with strong qualifications took themselves out of four-year college planning, choosing early two-year enrollment as a low-risk solution when searches felt overwhelming and costly](early-two-year-low-risk-solution.md) — related

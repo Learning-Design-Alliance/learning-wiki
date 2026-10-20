@@ -47,3 +47,4 @@ The article states this second purpose for estimating associations between stude
 - In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools — related
 - [Measurement error in the mediator reduces statistical power for mediator-achievement association estimates](mediator-measurement-error-reduces-power.md) — related
 - The IV approach to mediator analysis in clustered education RCTs has very little statistical power — related
+- [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](teacher-buy-in-mediates-coaching-benefit.md) — related

@@ -50,3 +50,5 @@ Hierarchical multiple regression predicting the literacy factor score in 112 CI-
 - [Shorter duration of deafness, higher performance IQ, and lack of sign enhancement predict higher literacy in adolescents with cochlear implants](duration-of-deafness-piq-sign-enhancement-predict-literacy.md) — related
 - [Early elementary characteristics predict 71% of variance in high school language outcomes of CI users](early-predictors-ci-high-school-language.md) — related
 - [Current adolescent characteristics including digit span, sentence duration and sign enhancement predict high school language outcomes](late-predictors-ci-high-school-language.md) — related
+- [Sign enhancement predicts high school language in opposite directions at elementary versus adolescent measurement](sign-enhancement-direction-reversal.md) — related
+- [Adolescents with cochlear implants spell significantly less accurately than hearing peers, though 55% spell within one standard deviation of them and 45% two or more below](ci-adolescents-spelling-poorer-than-hearing-peers.md) — related

@@ -50,3 +50,4 @@ Observation surfaced in Session 4, where faculty worked through four faculty-sou
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
 - [Learning Quality & Cognitive Dependency discourse is heavily faculty-driven (Fac% 82.3), concentrated in K-12 and professor communities](cognitive-dependency-discourse-faculty-driven.md) — related
 - [Design has not caught up with technology; creating for diverse audiences must be deliberate](design-has-not-caught-up-with-technology.md) — related
+- [Ethical risk management of AI in education proceeds bottom-up through individual faculty guidance and student self-strategies because institutional support is lacking](bottom-up-ethical-risk-management-ai-individual-effort.md) — related

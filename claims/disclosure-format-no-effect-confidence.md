@@ -45,3 +45,4 @@ Post-hoc comparison within the same 187-student between-subjects experiment foun
 ## Related Claims
 - [Detailed data disclosure statements, in either text or nutrition-label format, increase university students' confidence that specific data points are collected compared to a generic disclosure](detailed-disclosure-increases-confidence-data-collected.md) — related
 - [Data disclosure of any format does not change students' acceptance of data collection by their university](disclosure-no-effect-acceptance.md) — related
+- [Detailed disclosure does not make students more conservative about who should have access to their educational data](disclosure-no-effect-access-opinions.md) — related

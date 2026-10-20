@@ -68,3 +68,5 @@ Interview excerpt (Aaron) illustrating the theme 'Deterministic thought patterns
 - [Students adopted nondeterministic (SCOT-like) views in which humans influence technological change, supporting agency](students-scot-views-human-steering-technology.md) — a narrower finding that bears on this claim
 - [Teachers perceived AI-supported futures as increasingly imaginable and linked to present actions](approaching-markers-future-attainability.md) — related
 - [Teachers' visions most often broadened through wider action strategies, futures thinking, and methodological variety](broadening-markers-teacher-ai-visions.md) — related
+- [Starting the FTW process in the far future (Box 4) frees participants from present technological limitations](ftw-start-far-future-box4.md) — related
+- [Imagining preferable futures, especially via backcasting, was seen by students as creating possibilities for agency](preferable-futures-backcasting-agency.md) — related

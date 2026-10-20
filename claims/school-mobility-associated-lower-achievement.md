@@ -47,3 +47,4 @@ Descriptive correlational analysis of 2018–19 CAASPP scores by within-year mob
 - [Students in foster care meet or exceed state standards at much lower rates than other students in English language arts and mathematics](foster-care-low-caaspp-achievement.md) — related
 - [Statewide testing showed an achievement gap in mathematics and reading for Arizona students in foster care](foster-care-achievement-gap-aims.md) — related
 - [Students experiencing homelessness meet or exceed state achievement standards at far lower rates (29% ELA, 19% mathematics) than students statewide (48%, 37%)](homeless-students-lower-caaspp-achievement.md) — related
+- [Academic achievement of students in foster care improved before the pandemic but lost all gains afterward, with only 19 percent meeting ELA standards in 2022–23](foster-care-achievement-pandemic-reversal.md) — related

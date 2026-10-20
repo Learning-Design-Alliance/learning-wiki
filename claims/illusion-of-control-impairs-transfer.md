@@ -43,4 +43,4 @@ Randomized 2×3 factorial experiment with 90 pre-university pupils assigned to s
 
 
 ## Related Claims
--
+- [No differences were found on mental effort during instruction or on transfer across illusion-of-control and instruction-method conditions](no-mental-effort-differences.md) — related

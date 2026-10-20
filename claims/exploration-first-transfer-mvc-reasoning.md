@@ -50,3 +50,4 @@ Repeated-measures ANOVA comparing MVC reasoning on the predation pretest and tra
 - [Exploration-first students transfer MVC-strategy Efficiency better, with condition-by-Task-2 interactions for Efficiency and Quality](exploration-first-transfers-mvc-efficiency.md) — related
 - [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](no-posttest-differences-mvc-convergence.md) — related
 - [Instruction before exploration yields immediate MVC-strategy advantages in the first exploration task, driven by shorter exploration time](instruction-first-immediate-mvc-strategy-task1.md) — related
+- [Giftedness interacts significantly with instruction type on the learning and recall outcomes in the 2×2×2 study](giftedness-instruction-interaction-significant.md) — related

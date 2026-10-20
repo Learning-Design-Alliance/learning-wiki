@@ -44,3 +44,6 @@ Authors' interpretation (Discussion) of the priming results. RCMAS-2 scores "wer
 
 ## Related Claims
 - [Children's self-rated general anxiety was not directly related to math achievement at either assessment time](self-rated-general-anxiety-not-related-to-math.md) — related
+- [Math-related word primes facilitate arithmetic processing in children with DD but inhibit it in typically-developing controls](math-primes-facilitate-dd-inhibit-controls.md) — related
+- [Children with developmental dyscalculia respond faster to simple arithmetic targets after negative than positive affective primes, across all four arithmetic operations](dd-negative-prime-facilitation-arithmetic.md) — related
+- [A significant three-way interaction of group, prime type and arithmetic operation governs arithmetic-affective priming, with DD children slower overall than controls](group-prime-operation-interaction-rt.md) — related

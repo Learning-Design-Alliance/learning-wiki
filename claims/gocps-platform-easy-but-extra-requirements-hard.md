@@ -70,3 +70,4 @@ Same study: students noted confusion about differing requirements for essays, te
 - [Students expected acceptance or rejection notifications from all schools they applied to, and the single-best-offer notification design produced confusion and frustration](notification-expectations-mismatch-gocps.md) — related
 - [Students overwhelmingly relied on GoCPS, CPS, and school websites to learn about potential high schools, but found websites out of date and lacking student-voice information](students-relied-on-online-sources-school-research.md) — related
 - [One-on-one adult support at school, such as a coach or counselor, helped students prioritize and complete college applications](one-on-one-adult-support-college-applications.md) — related
+- [Small additions of research-specific procedures can shift a study out of exempt review](small-procedure-additions-change-review-path.md) — related

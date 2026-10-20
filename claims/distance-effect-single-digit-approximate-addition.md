@@ -51,3 +51,4 @@ Preliminary validation analyses showed children performed above chance (nonsymbo
 - [The visuospatial sketchpad is the best and only unique predictor of kindergarteners' nonsymbolic approximate addition](vssp-predicts-nonsymbolic-approximate-addition.md) — related
 - [Kindergarteners' performance does not differ between approximate and exact single-digit addition formats, and the two dimensions do not interact](no-response-type-effect-single-digit-addition.md) — related
 - [Children succeed at non-symbolic approximate addition above chance with a ratio effect, without relying on non-numerical strategies](kindergartners-succeed-nonsymbolic-addition-ratio-effect.md) — related
+- [Accuracy on approximate addition decreases as ratio approaches 1, with a stronger ratio effect on the non-symbolic task](ratio-effect-approximate-addition.md) — related

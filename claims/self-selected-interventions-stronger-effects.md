@@ -44,3 +44,4 @@ Narrative review assertion citing Deci & Ryan (2012), Giannopoulos & Vella-Brodr
 
 ## Related Claims
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Textual prompts yield significantly stronger continuing motivation than pictorial prompts](textual-prompts-stronger-continuing-motivation.md) — related

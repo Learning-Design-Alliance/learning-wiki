@@ -47,3 +47,5 @@ A separate two-level HLM model tested fall RRRP Parts 1 and 2 against spring WJ-
 - [Conceptual counting uniquely predicts fluency, computation, and applied problems but not story problems; procedural counting uniquely predicts only applied problems](counting-type-specificity-grade1-outcomes.md) — related
 - [Fall RRRP predicted spring reading outcomes, with Part 1 predicting decoding and comprehension and Part 2 predicting vocabulary and gains in comprehension and vocabulary](rrrp-parts-differentially-predict-reading-outcomes.md) — related
 - [RRRP scores were fairly stable across fall to spring in third grade, with a slight decrease in Part 1 and no change in Part 2](rrrp-scores-stable-fall-to-spring.md) — related
+- [Children's ability to wait for 'go' on the RRRP was not a significant predictor of any academic outcome and was removed from the models](wait-for-go-not-predictive-of-academic-outcomes.md) — related
+- [Neither numerosity processing nor figure matching predicts general mathematical achievement](numerosity-figure-matching-not-predict-math-achievement.md) — related

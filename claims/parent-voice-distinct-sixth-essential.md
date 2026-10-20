@@ -50,3 +50,4 @@ Finding from the 2017 validation study, in which a new ECE parent survey was cre
 - [The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates](early-ed-essentials-validation-sample-81-sites.md) — related
 - [The final spring 2015 parent-survey pilot collected 253 parent responses across seven school-based and nine center-based Chicago preschool sites, in English and Spanish](parent-survey-pilot-253-responses.md) — related
 - Including educator voice helps researchers understand educator, student, and system needs — related
+- [Parent focus groups showed parents could not report on specific classroom instructional interactions, so ambitious instruction items were developed for the teacher survey instead, and a new Teacher Care and Responsiveness towards Parents measure was created](parent-focus-groups-shaped-survey-content.md) — related

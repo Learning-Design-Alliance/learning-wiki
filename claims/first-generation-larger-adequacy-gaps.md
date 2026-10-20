@@ -51,3 +51,4 @@ Descriptive 2019/20 analysis comparing actual spending with projected adequate s
 - [Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity](progressive-but-insufficient-funding.md) — related
 - [Colleges with higher percentages of academically disadvantaged students spent less per FTE student, suggesting possible resource inequities](regressive-spending-academically-disadvantaged.md) — related
 - [Smaller community colleges tended to have larger adequacy gaps, with colleges under 4,001 students spending $1,871 (17 percent) below projected adequate cost](small-colleges-larger-adequacy-gaps.md) — related
+- [Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student](need-factors-fewer-success-points-milestones.md) — related

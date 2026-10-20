@@ -44,3 +44,6 @@ Bivariate correlation analysis of vCPT hit rate and false alarm rate against voc
 
 ## Related Claims
 - [Outcome measures are highly interrelated in children with cochlear implants](ci-outcome-measures-interrelated.md) — related
+- [Behavioral inhibition skills of prelingually deaf children are related to several audiological outcome measures after cochlear implantation](behavioral-inhibition-related-audiological-outcomes-ci-children.md) — related
+- [Behavioral inhibition (dCPT) performance is strongly and significantly correlated with vocabulary and receptive language outcomes in prelingually deaf children with cochlear implants](dcpt-behavioral-inhibition-correlates-vocabulary-receptive-language-ci-children.md) — related
+- [Relations between behavioral inhibition (dCPT) and expressive language and speech intelligibility were significant only at 1 year post implantation](dcpt-expressive-language-intelligibility-only-year-one.md) — related

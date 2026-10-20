@@ -74,3 +74,5 @@ Descriptive comparison of ninth-grade Freshman OnTrack status, which the report 
 - [Students who began as ELs were not overidentified for special education services relative to students never classified as ELs](els-not-overidentified-special-education.md) — related
 - [English Learner classification in kindergarten negatively impacts teachers' perceptions of students' academic abilities, with a reduced negative effect in bilingual classroom settings](el-classification-negative-teacher-perceptions.md) — related
 - [In Virginia, Hispanic/Latino children labeled English Learners with low kindergarten literacy were 20 percent less likely to achieve grade-3 reading proficiency than similar peers](el-labeling-virginia-reading-proficiency-gap.md) — related
+- [Attending higher-rated schools (CPS School Quality Rating Policy) is associated with better math, reading, and English proficiency test outcomes for ELs](higher-rated-schools-el-test-outcomes.md) — related
+- [Dual language programs are associated with higher achievement and with EB/non-EB achievement gap closure by seventh grade](dual-language-programs-gap-closure-longitudinal.md) — related

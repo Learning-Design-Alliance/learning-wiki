@@ -74,3 +74,5 @@ Randomized controlled trial of 72 four- and five-year-olds in two Midwestern com
 - [Teaching phonological awareness and print knowledge improved early writing performance with or without early writing instruction](pa-pk-improve-early-writing.md) — related
 - [Four of six standards-meeting studies showed statistically significant positive effects and two showed substantively important positive effects on phonological processing](phonological-awareness-training-six-studies-significance-pattern.md) — related
 - [DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials](daisyquest-positive-effects-phonological-processing.md) — related
+- [The potentially negative oral language effect of phonological awareness plus letter knowledge training is likely an artifact of the comparison condition, not the intervention](pat-lk-oral-language-negative-artifact-of-comparison.md) — related
+- [Ready, Set, Leap!® has no significant effect on preschool phonological processing (domain average effect size 0.06)](ready-set-leap-null-phonological-processing.md) — related

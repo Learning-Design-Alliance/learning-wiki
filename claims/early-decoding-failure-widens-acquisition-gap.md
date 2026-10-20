@@ -53,3 +53,4 @@ Authors' concluding interpretation (type e): even though the two young adult gro
 - In word vocalization, false beginners read irregular words quickly with more unrepaired errors and the highest rate of regularization — related
 - False beginners read passages aloud significantly better than true beginners despite equal written-test scores — related
 - [Failure to transition to literacy early triggers a Matthew effect of widening reading and vocabulary gaps](matthew-effect-literacy-transition.md) — related
+- [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — related

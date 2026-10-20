@@ -44,3 +44,6 @@ Narrative review reporting prevalence and persistence figures from prior studies
 
 ## Related Claims
 - [Serial order short-term memory deficits in dyscalculia persist into adulthood despite typical math achievement history](serial-order-deficit-persists-adulthood-dyscalculia.md) — related
+- [DCD prevalence estimates range from 1.8% to 6.9% with a male predominance of 2:1 to 3:1, and the disorder persists into adulthood for 30–70% of those diagnosed as children](dcd-prevalence-1-8-to-6-9-percent-male-predominance.md) — related
+- [Adults with developmental dyscalculia score significantly lower than controls on the formal NADL test of school-acquired numerical abilities](dd-adults-lower-formal-nadl.md) — related
+- [Adults with developmental dyscalculia show reduced left intraparietal activation during serial order processing relative to controls](dyscalculia-reduced-left-intraparietal-serial-order-activation.md) — related

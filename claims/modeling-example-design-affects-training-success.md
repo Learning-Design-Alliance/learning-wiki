@@ -44,3 +44,4 @@ The authors report, from supplementary Experiments A and B, that screen-recordin
 
 ## Related Claims
 - [In a Web-based teacher education course, screen-capture videos and Flash animations modeling the instructor's internal problem-solving processes were the elements students most strongly associated with cognitive apprenticeship modeling](oms-videos-animations-most-impactful-modeling.md) — related
+- [Students are more attentive to the teacher's model track when they hear their own recording first](student-recording-first-increases-attention-to-model.md) — related

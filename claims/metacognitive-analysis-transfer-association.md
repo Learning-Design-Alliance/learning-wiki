@@ -44,4 +44,7 @@ SEM results from the 44-participant exploratory study. The article reports the p
 
 
 ## Related Claims
--
+- [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
+- [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related
+- [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — related
+- [High cognitive activities were positively associated with essay quality but not with concept maps](high-cognition-essay-not-concept-maps.md) — related

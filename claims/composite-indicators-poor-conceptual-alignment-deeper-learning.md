@@ -48,3 +48,13 @@ The report's conceptual analysis of Oklahoma's A–F letter grades argues that c
 - [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — related
 - [More than three of four ESSA plans (41 of 53, 77%) include a postsecondary readiness indicator as a scoring element in state accountability systems](77-percent-essa-plans-postsecondary-readiness-indicator.md) — related
 - [Oklahoma achievement declined rather than grew across 2012–2014 under the A–F letter grade system, with the largest drops in F schools](oklahoma-achievement-declined-2012-2014-under-a-f.md) — related
+- [Course grades are more predictive than standardized test scores of high school and college success](grades-more-predictive-than-test-scores.md) — related
+- [Analysis of 52 higher-education assessment plans found outcome-based orientation dominant, with dynamic elements subsumed under summative scoring](assessment-plans-outcome-based-dominant.md) — a narrower finding that bears on this claim
+- [Basics of systems thinking and conceptual modeling skills can be imparted within less than one semester](systems-thinking-basics-under-one-semester.md) — related
+- [Postsecondary readiness indicators carry an average weight of 16 percent of high school summative accountability scores, ranging from 5 to 33 percent](postsecondary-indicator-weight-averages-16-percent.md) — related
+- [Nearly 60% of surveyed college students said their summative assessment results matched other college-readiness information not very well or very little](students-report-misalignment-assessment-other-indicators.md) — related
+- [Postsecondary readiness indicators emphasize academic measures (98% of plans) and career measures (83%) far more than military measures (27%)](academic-career-measures-dominate-military-rare.md) — related
+- [The CRIS framework extends existing early warning systems beyond graduation and academic measures](cris-extends-early-warning-systems.md) — related
+- [Many state assessments incorporated more sophisticated response formats to better assess college- and career-readiness](state-assessments-sophisticated-response-formats.md) — related
+- [Reading score distributions within A–F letter grades overlap heavily, so letter grades misrepresent the achievement of many individual students](letter-grades-hide-within-grade-score-variation.md) — a narrower finding that bears on this claim
+- [Raw postsecondary data are useful for descriptive purposes but may not give educators substantial new information beyond high school indicators](raw-postsecondary-data-limited-new-information.md) — related

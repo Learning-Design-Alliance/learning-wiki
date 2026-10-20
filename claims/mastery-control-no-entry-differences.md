@@ -46,3 +46,4 @@ Comparison of pretest, self-concept, and affect means for the 55 mastery and 142
 ## Related Claims
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
 - [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](sex-advantage-diminishes-under-mastery-learning.md) — related
+- [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](mastery-positive-affective-effects.md) — related

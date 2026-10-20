@@ -47,3 +47,9 @@ Cooperation orientation ratings did not differ significantly between tutor types
 - [Staff tutors display more authoritarian behavior than student tutors in problem-based tutorial groups](staff-tutors-more-authoritarian-than-student-tutors.md) — related
 - [Peer tutors evaluated the group's functioning more extensively than staff tutors, and this behavior declined over curriculum years for both](peer-tutors-evaluate-group-functioning-more.md) — related
 - [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](staff-tutoring-small-achievement-advantage-pbl.md) — related
+- [Student tutors are rated as more cognitively congruent than staff tutors in problem-based tutorial groups](student-tutors-more-cognitively-congruent-than-staff.md) — related
+- [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](tutor-behavior-ratings-interaction-year.md) — related
+- [Student perceptions of tutors are generally positive for both staff and student tutors, with significant differences appearing in only one course and not consistently across courses](tutor-perceptions-positive-inconsistent-differences.md) — related
+- [Focus group data indicate student tutors show more social congruence, being more involved with the group and more open to student opinions](student-tutors-social-congruence-focus-group.md) — related
+- [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related
+- [Student tutors refer to end-of-course examinations more frequently than staff tutors to direct student learning](student-tutors-more-assessment-oriented.md) — related

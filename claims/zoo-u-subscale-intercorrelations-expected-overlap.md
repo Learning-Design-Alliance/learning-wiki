@@ -45,3 +45,5 @@ Intercorrelation analysis of Zoo U subscales (Table 3) to check whether composit
 ## Related Claims
 
 - [Students rated Zoo U highly for engagement and likeability, with every usability area rated at least 3.8 on a four-point scale](zoo-u-high-student-engagement-likeability.md)
+- [Perception measures of social distance, treatment amenability, perceived recidivism, and sentencing severity are mostly significantly intercorrelated](perception-measures-intercorrelations.md) — related
+- [Facet difficulty and intercorrelation patterns: analyzing givens was easiest, evaluating progress hardest, and planning correlated 0.98 with the overall estimate](facet-difficulty-and-intercorrelations.md) — related

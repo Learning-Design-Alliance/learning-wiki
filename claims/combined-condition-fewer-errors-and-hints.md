@@ -43,4 +43,8 @@ Process-data analysis of hints and errors over time in the fractions ITS study; 
 
 
 ## Related Claims
--
+- [The combined condition had higher learning gains than individual-only and collaborative-only conditions, but only among 4th grade students](combined-condition-higher-gains-grade-four-restricted.md) — related
+- [Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students](mindful-condition-fewer-steps-hints.md) — related
+- [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — reports the opposite
+- [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — a broader claim this one bears on
+- [4th and 5th grade students learning fractions with an ITS show significant learning gains in individual, collaborative, and combined conditions](all-conditions-significant-fractions-its-gains.md) — related

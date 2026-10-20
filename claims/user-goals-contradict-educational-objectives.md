@@ -67,3 +67,4 @@ The paper reports, citing Perkins (1985), that many student users' individual go
 - Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL — a broader claim this one bears on
 - Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection — a narrower finding that bears on this claim
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
+- [AI's democratizing capacity is structurally contradictory: it amplifies existing capabilities rather than closing gaps between users](ai-democratization-contradiction-multiplier.md) — related

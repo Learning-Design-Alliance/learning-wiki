@@ -45,3 +45,4 @@ Linear mixed-effects model on check-in form data from the six-week within-subjec
 ## Related Claims
 - [In a six-week within-subject study, the Empathetic PA coaching chatbot improves intention to follow and self-efficacy faster over time than the Non-Empathetic condition](empathetic-chatbot-faster-intention-selfefficacy-growth.md) — reports the opposite
 - [Average check-in and weekly ratings show no significant differences between chatbot conditions, with the Non-Empathetic chatbot often rated as more engaging and useful](no-significant-average-differences-nonempathetic-rated-higher.md) — related
+- [Starting interaction with the Empathetic chatbot is associated with the least attrition in the six-week study](empathetic-condition-least-attrition.md) — related

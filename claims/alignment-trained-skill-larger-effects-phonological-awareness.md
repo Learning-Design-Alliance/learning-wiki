@@ -51,3 +51,5 @@ A footnote observation by the WWC across the O'Connor et al. and Slocum et al. s
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — a broader claim this one bears on
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
 - [Blending-focused phonological awareness training produced statistically significant positive differences on blending outcomes in O'Connor et al. (1993)](blending-focus-training-significant-blending-outcomes-oconnor-1993.md) — a narrower finding that bears on this claim
+- [Blending outcomes showed no statistically significant effects of DaisyQuest in the Lonigan et al. (2003) trial](daisyquest-blending-outcomes-not-significant.md) — related
+- [EIR® produced statistically significant positive effects on first-grade alphabetics outcomes (segmentation and blending, vowel sounds)](eir-significant-alphabetics-effects-grade1.md) — related

@@ -62,4 +62,7 @@ Teacher-feedback theme from the senior strand (second to sixth class) in the yea
 
 
 ## Related Claims
--
+- [The authors hypothesize that violent role-playing games appear to engage individuals in ethical reasoning that may foster empathy, tolerance, and understanding rather than inuring them to violence](rpgs-may-foster-empathy-not-inure.md) — related
+- [Building Empathy Improves Intergroup Attitudes](building-empathy-improves-intergroup-attitudes.md) — a broader claim this one bears on
+- [Players of RPGs engage in ethical decision making as part of their game play, and games under the right conditions have the potential to foster critical ethical reasoning](rpg-players-engage-ethical-decision-making.md) — related
+- [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — a broader claim this one bears on

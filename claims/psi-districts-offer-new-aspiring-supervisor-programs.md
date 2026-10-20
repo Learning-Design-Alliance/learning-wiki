@@ -48,3 +48,4 @@ Survey comparison of district offerings for principal supervisors, based on the 
 - [Principal supervisors in PSI districts supervised fewer principals than those in other urban districts](psi-supervisors-supervised-fewer-principals.md) — related
 - [Districts and principal supervisors made substantial changes to principal supervision as a result of the PSI](psi-districts-supervisors-made-substantial-changes.md) — a broader claim this one bears on
 - [Principal supervisor roles in PSI districts differed from other urban districts in key ways while supervisors' work with principals showed important similarities](psi-supervisor-role-differences-and-similarities.md) — a broader claim this one bears on
+- [The PSI did not improve teachers' perceptions of principals' performance](psi-no-improvement-teacher-perceptions-of-principals.md) — related

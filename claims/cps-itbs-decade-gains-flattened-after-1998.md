@@ -55,3 +55,6 @@ Trend analysis of ITBS grade-equivalent scores by age cohort from 1990 to 2001, 
 - [Judging school improvement requires reading learning gain trends and output trends simultaneously, since either trend monitored alone can mislead](single-trend-reading-misleading.md) — related
 - [Mean foundational-skills scores rise from fall to spring with the largest gains in kindergarten and grade 1, and growth flattens by grades 2-3](spanish-foundational-skills-fall-to-spring-gain-pattern.md) — related
 - [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — related
+- [Productivity profiles in adjacent grades are negatively related, so judging a school from selected grades alone can be very misleading](adjacent-grade-profiles-negatively-related.md) — related
+- [A Rasch-score re-analysis corroborates slowing and in some cases declining test score trends, with nine-year-olds an exception](rasch-reanalysis-corroborates-slowing-trends.md) — related
+- [In fifth-grade reading, ITBS scores declined significantly more than ISAT scores from 1999 to 2002](fifth-grade-reading-itbs-greater-decline-than-isat.md) — related

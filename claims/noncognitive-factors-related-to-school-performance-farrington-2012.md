@@ -56,3 +56,5 @@ This white paper reports, citing its predecessor critical review by Farrington e
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — a narrower finding that bears on this claim
 - [The effect of social skills on academic performance is unclear; poor social skills are clearly associated with negative outcomes](social-skills-academic-effect-unclear.md) — related
 - [Math mindsets and academic grit correlate substantially with primary math achievement](mindset-grit-math-achievement-correlations.md) — a narrower finding that bears on this claim
+- [Classroom environment is positively associated with students' self-reported motivation and other noncognitive factors within students](classroom-environment-relates-to-noncognitive-factors.md) — related
+- [Within-student differences in noncognitive factors are associated with differences in course grades across the same student's classes](within-student-noncognitive-factors-relate-to-grades.md) — a narrower finding that bears on this claim

@@ -45,3 +45,4 @@ Check on whether time of recording between October and March related to dialogue
 ## Related Claims
 
 - [Eighteen potential confounds were eliminated, including all participant demographics, for lack of association with dialogue or outcome](eighteen-potential-confounds-eliminated.md)
+- [Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time](mentor-mentee-talk-time-classroom-management-dialogues.md) — related

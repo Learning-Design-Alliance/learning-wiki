@@ -45,3 +45,9 @@ Editorial account (the editors describe Nasir et al.'s multimodal study of dyads
 ## Related Claims
 
 - [Certain multimodal data combinations improve predictive model performance, with audio plus eye-tracking data most effective in one K–8 study](mmla-k8-modality-combinations-prediction.md)
+- [Calm Tinkerers display significantly lower negative valence and arousal than Silent Wanderers, while Expressive Explorers show high arousal and negative valence similar to Silent Wanderers](affect-distinguishes-calm-tinkerers-from-silent-wanderers.md) — a narrower finding that bears on this claim
+- [Among 32 dyads in an open-ended collaborative tabletop task, three behavioral clusters split into two learning (gainer) profiles and one non-learning profile despite similar task performance](three-multimodal-collaborative-learning-profiles.md) — possibly the same claim (merge candidate)
+- [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related
+- [Speech activity and speech overlap distinguish gainer dyads from non-gainer Silent Wanderers across both gainer profiles](speech-overlap-distinguishes-gainers-from-non-gainers.md) — a narrower finding that bears on this claim
+- [Multimodal data can reverse the interpretation of silence in collaborative problem-solving](multimodality-reverses-silence-interpretation-cps.md) — related
+- [The two gainer profiles differ in problem-solving strategy: Expressive Explorers enact global exploration with reflection on past solutions, Calm Tinkerers enact local exploration with in-the-moment correction](global-versus-local-exploration-strategies-gainers.md) — a narrower finding that bears on this claim

@@ -55,3 +55,7 @@ The article reports, citing a recent study, that responses used in E-M scoring "
 - [Current measurement models underlying achievement testing assume students respond effortfully to test items](measurement-models-assume-effortful-responding.md) — a broader claim this one bears on
 - [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related
 - [RTE provides an assessment of test-taking effort down to the level of individual item responses](rte-assesses-effort-at-item-response-level.md) — related
+- [Design effects from aggregation are tolerable with moderate numbers of groups and few covariates](aggregation-design-effects-tolerable-moderate-groups-few-covariates.md) — related
+- [Disengaged student responses raise the issue of whether engaged responses maintain the intended content representation](disengaged-responses-threaten-engaged-content-representation.md) — related
+- [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — related
+- [A modified E-M scoring method using more liberal time thresholds accounts for two-thirds or more of score distortion, outperforming standard thresholds](liberal-threshold-em-scoring-two-thirds-distortion.md) — related

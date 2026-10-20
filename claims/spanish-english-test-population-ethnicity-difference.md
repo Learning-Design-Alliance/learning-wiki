@@ -44,3 +44,6 @@ Descriptive demographic analysis of the person samples (Tables 2.4-2.7) showing 
 
 ## Related Claims
 - [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — related
+- [Adaptive testing explains why about one third of calibrated Spanish math items carry calibration status 10](adaptive-calibration-yields-status-10-third-of-items.md) — related
+- [Old (English-borrowed) and newly calibrated Spanish item RITs differ negligibly, with correlations of 0.98 and no statistically significant paired t-test differences](spanish-item-rit-calibration-negligible-differences.md) — related
+- [Pilot user norms provide basic contextual information but are drawn from a limited, non-representative pool of test events](spanish-map-reading-pilot-norms-limited-pool.md) — related

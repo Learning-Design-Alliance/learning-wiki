@@ -43,3 +43,10 @@ Descriptive analysis of Google Trends data, reported in the discussion and Figur
 ## Related Claims
 - Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024 — related
 - [ChatGPT search activity is higher while local K-12 schools are in session, tracking local school calendars](chatgpt-activity-tracks-local-school-calendars.md) — related
+- [ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days](chatgpt-worse-informal-learning-outcome-trend.md) — related
+- [ChatGPT users began information seeking with narrow, specified queries far more often than Google users](chatgpt-narrow-starting-queries.md) — related
+- [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](web-search-higher-quality-justifications-than-llm.md) — related
+- [AI overviews in an academic search engine showed mixed effects: summaries may reduce mental demand and frustration for some users, with slightly fewer clicks and query reformulations](ai-overviews-mixed-effects-academic-search.md) — related
+- [ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information](chatgpt-artifact-over-principle-bias.md) — related
+- [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — related
+- [Negative sentiment peaks were tied to specific events: AI governance failures in 2019 and 2021 and diffuse academic-integrity anxiety after ChatGPT in 2023](negative-peaks-tied-to-governance-failures-and-integrity-anxiety.md) — related

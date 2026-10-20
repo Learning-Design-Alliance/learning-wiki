@@ -46,3 +46,5 @@ Thematic analysis of the 12 interviews found that "All 12 participants mentioned
 - [Black girls' awareness of difficulties navigating educational settings is coupled with parental support that promotes positive gendered racial identities](parental-support-promotes-positive-gendered-racial-identities.md) — related
 - [Black girls across developmental stages reported awareness of stereotypes specific to Black girls and connected them to negative school experiences](black-girls-stereotype-awareness-school-experiences.md) — related
 - [Middle school girls framed Blackness as celebratory culture while high school girls emphasized individual efforts to overcome negative portrayals](developmental-shift-meaning-of-blackness.md) — related
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
+- [Students who learned mindfulness-based conflict resolution strategies used them outside school with siblings and friends](mindfulness-conflict-resolution-transfer-out-of-school.md) — related

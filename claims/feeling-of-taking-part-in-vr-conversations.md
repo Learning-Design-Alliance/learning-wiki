@@ -48,3 +48,5 @@ Moment-by-moment turn-by-turn analysis of one group's dialogue (three students a
 - [Students in an upper secondary classroom experienced the individually-oriented viewing of the VR film Travelling While Black as highly social, despite sitting silently in headset-wearing groups](students-experienced-vr-film-viewing-as-social.md) — related
 - [Four dimensions characterize students' meaning making of immersive VR experiences across all eight reflective group dialogues](four-dimensions-of-vr-meaning-making.md) — related
 - [Students' own bodily responses to the VR film became resources in reflective dialogue for characterizing emotional reactions and reinterpreting prior experiences](students-own-bodily-responses-vr.md) — related
+- [Films with existential themes can serve as vehicles for Bildung in higher education](existential-films-vehicle-for-bildung.md) — related
+- [No substantial example of emancipatory immersion was found in the family data, despite the framework including it.](no-substantial-emancipatory-immersion-example.md) — related

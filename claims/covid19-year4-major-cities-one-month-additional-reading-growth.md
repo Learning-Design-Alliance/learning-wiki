@@ -48,3 +48,4 @@ Linear mixed models by location found Year 4 major-city students' 2020 reading g
 - [Year 3 students in mid-ICSEA schools achieved two months additional mathematics growth in 2020 compared with 2019](covid19-year3-mid-icsea-two-months-additional-math-growth.md) — related
 - [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](spring-2021-students-behind-prepandemic-averages.md) — related
 - [Year 3 students in low-ICSEA schools achieved significantly less mathematics growth in 2020, equivalent to two months less than the 2019 cohort](covid19-year3-low-icsea-two-months-less-math-growth.md) — related
+- [No significant differences in achievement growth were identified for Indigenous students between 2019 and 2020 cohorts](covid19-no-significant-indigenous-student-achievement-difference.md) — related

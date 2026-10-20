@@ -46,3 +46,5 @@ Component decomposition of meta-d′/d′ in the perceptual task (n = 53). The a
 - [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](perceptual-metacognitive-efficiency-declines-with-age.md) — a broader claim this one bears on
 - [Combined with adolescent data, the lifespan profile of perceptual metacognitive efficiency is an inverted-U](inverted-u-lifespan-profile-of-metacognition.md) — related
 - [Executive function does not explain the age-related decline in perceptual metacognitive efficiency](executive-function-does-not-explain-metacognitive-decline.md) — related
+- [Perceptual and memory metacognitive efficiencies are positively correlated across individuals, though weakened after outlier removal](cross-domain-metacognitive-efficiency-correlation.md) — related
+- [Memory metacognitive efficiency shows a non-significant negative relationship with age](memory-metacognitive-efficiency-nonsignificant-age-decline.md) — related

@@ -46,3 +46,4 @@ A Mathematica Policy Research publication summarizing Lacoe's testimony describe
 - [Many Philadelphia schools did not comply with the policy change prohibiting out-of-school suspension for low-level offenses](many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses.md) — related
 - [Philadelphia's 2012-2013 discipline reform produced a modest decline in suspensions for nonviolent infractions in the year of reform](philadelphia-reform-modest-decline-nonviolent-suspensions.md) — related
 - [A Philadelphia reform prohibiting out-of-school suspension for classroom disorder decreased classroom disorder suspensions among students suspended before the reform](philadelphia-classroom-disorder-oss-ban-reduced-suspensions.md) — related
+- [Serious incidents of student misconduct increased in Philadelphia following the discipline policy reform](philadelphia-reform-serious-incidents-increased.md) — related

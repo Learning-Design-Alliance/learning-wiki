@@ -48,3 +48,4 @@ Special education subgroup analysis comparing Newark magnet school special educa
 ## Related Claims
 - [Magnet schools across the studied cities show strong positive impact on students' performance growth compared to state averages](credo-cohort1-magnet-strong-positive-growth.md) — a broader claim this one bears on
 - Newark students overall made significantly above-state-average math growth in 2018-19, with non-significant reading growth — related
+- [Newark charter school students outgrew the state average in both reading and math in 2018-19](newark-charter-growth-vs-state-2018-19.md) — related

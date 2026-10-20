@@ -67,3 +67,4 @@ The authors' discussion of Nicole's case states the subtraction strategy is nove
 ## Related Claims
 - [After a lesson series, two sixth graders could switch flexibly between perspectives when comparing negative integers; one distinguished number-line order from context-based absolute-value reasoning about debts](post-lesson-flexible-perspective-switching.md) — related
 - [Students' errors on the desk-scale number line cluster on subtracting a negative number, with fewer errors on subtracting a positive from a negative or adding a negative to a positive](snl-errors-subtracting-negative.md) — related
+- [Before instruction, a strong sixth grader infers integer order reasoning from out-of-school thermometer experiences, with zero as a significant concept](tom-thermometer-zero-inference.md) — related

@@ -46,3 +46,7 @@ Theoretical argument in the 'Language Is More Than a Science' section: the autho
 ## Related Claims
 - [Critical science education requires explicit attention to philosophy of science and rival theories](critical-science-education-philosophy-of-science.md) — related
 - [Imagining preferable futures, especially via backcasting, was seen by students as creating possibilities for agency](preferable-futures-backcasting-agency.md) — related
+- [The objections stage is the most difficult stage of CRITO because it demands fallibilism about one's own argument](objections-stage-most-difficult-crito.md) — related
+- [Lacquer-painting imagery characteristics are positively associated with aesthetic responses: sensible scene with emotional resonance, imaginable atmosphere with cognitive evaluation, and virtual-real imagination with behavioral intention](imagery-characteristics-associated-with-aesthetic-responses.md) — related
+- [Sensible scene shows a statistically distinguishable serial indirect association with behavioral intention through emotional resonance and cognitive evaluation in a constrained bootstrap model](serial-indirect-association-sensible-scene-to-behavioral-intention.md) — related
+- [Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data](perceived-digital-affordances-associated-with-lacquer-imagery-characteristics.md) — related

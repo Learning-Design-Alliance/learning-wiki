@@ -47,3 +47,4 @@ Theoretical methodological argument, not a tested comparison: the article lists 
 - [Short online pedagogy courses shifted university teachers’ interpretations of a learning-focused teaching video from knowledge transmission toward learning facilitation](short-online-training-shifts-interpretations-learning-focused-video.md) — related
 - [Scaled qualitative coding of preservice teachers' video-analysis responses reached very good interrater agreement](professional-vision-coding-interrater-agreement-icc.md) — related
 - [Both case-based and model-based interventions increase pre-service teachers' self-reported use of theory-based knowledge when analysing classroom situations](both-interventions-increase-theory-based-knowledge-usage.md) — related
+- [Neither intervention changes pre-service teachers' self-reported reliance on experience-based knowledge when analysing classroom situations](experience-based-knowledge-usage-unchanged.md) — related

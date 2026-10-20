@@ -48,3 +48,5 @@ Preregistered 2×2 ANOVA on the 10-item Stage 3 memory test in the lab experimen
 - [GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning](genai-weakens-effort-adjustment-to-incentives.md) — related
 - [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related
 - Counterbalancing condition did not affect map accuracy and did not interact with test condition — related
+- [GenAI access reduces perceived difficulty of the assisted reasoning task](genai-reduces-perceived-task-difficulty.md) — related
+- [Participants deprived of relevant relational knowledge in Stage 1 take longer on the subsequent network-reasoning task](control-condition-slower-network-reasoning.md) — related

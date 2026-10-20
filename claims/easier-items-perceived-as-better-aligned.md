@@ -45,3 +45,6 @@ Spearman correlation between item difficulty index and student-perceived curricu
 ## Related Claims
 
 - [Undergraduate learners rated CyberAGENTS positively, with scenario authenticity highest and challenge difficulty alignment lowest](cyberagents-positive-learner-perceptions.md)
+- [Student-perceived curricular alignment did not differ between AI and NLE MCQs or among ChatGPT, Gemini and NLE](perceived-alignment-does-not-differ-ai-vs-nle.md) — related
+- [Perceived task difficulty ratings show a strong relation to Rasch-estimated relative task difficulty, supporting construct validity of the single-item scale](perceived-task-difficulty-correlates-with-relative-task-difficulty.md) — related
+- [Students show the highest learning gains in classes that are both challenging and where students actually do work aligned with teachers' expectations; grades are higher in challenging classrooms with high support than in easier classrooms with little support](challenge-plus-support-highest-gains.md) — related

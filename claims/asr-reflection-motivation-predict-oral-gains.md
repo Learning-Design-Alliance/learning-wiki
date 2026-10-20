@@ -62,3 +62,4 @@ Same SEM path analysis. Learning motivation significantly predicted oral profici
 - [Language proficiency significantly moderates the effect of reflective behavior on oral proficiency improvement, with the effect non-significant at low proficiency](proficiency-moderates-reflection-oral-gains.md) — related
 - [Language proficiency significantly moderates the effect of learning motivation on oral proficiency improvement](proficiency-moderates-motivation-oral-gains.md) — related
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
+- [ASR recognition accuracy enhances learning motivation but does not significantly predict reflective behavior](asr-accuracy-motivation-not-reflection.md) — related

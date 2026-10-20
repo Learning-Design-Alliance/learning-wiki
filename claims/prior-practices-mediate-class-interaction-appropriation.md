@@ -49,3 +49,8 @@ Participant-observer analysis of a first-year composition course for internation
 - Participation in composing the Midterm OLR moved students from appropriating labels and surface features toward conceptual underpinnings — related
 - Past and present sociohistorical influences led two similar students in the same class to work toward different grades — related
 - Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content — related
+- [In a networked second-language classroom, different small groups of students evolve alternative approaches to appropriating a representational tool during collaborative L2 writing](groups-evolve-alternative-approaches-appropriating-representational-tool.md) — related
+- [Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course](expansion-generalization-beyond-classroom.md) — related
+- [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related
+- [Students' evaluative judgment of cGPT responses shifted from strict principle compliance toward contextual appropriateness](evolving-evaluative-judgment-cgpt-responses.md) — related
+- [Failure to analyze the broad context is said to lead to failed instructional design initiatives in developing countries](context-analysis-failure-leads-to-failed-initiatives.md) — related

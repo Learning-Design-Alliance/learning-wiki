@@ -49,3 +49,4 @@ Randomized controlled trial with control group crossover at the Model Alternativ
 - [High School Redirection shows no discernible effects on completing school (diploma or GED receipt)](hsr-no-discernible-effects-completing-school.md) — related
 - [The National Guard Youth ChalleNGe Program has potentially positive effects on completing school for at-risk youth, with 61% of the program group reporting a diploma or GED versus 36% of controls 21 months after random assignment](challengge-potentially-positive-completing-school.md) — related
 - [Twelve Together has potentially positive effects on staying in school, based on a lower (non-significant) dropout rate than control](twelve-together-potentially-positive-staying-in-school.md) — related
+- [Adult advocacy interventions show promising but variable effects on staying in and progressing in school](adult-advocacy-mixed-effects-staying-in-school.md) — a broader claim this one bears on

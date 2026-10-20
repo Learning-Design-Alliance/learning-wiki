@@ -46,3 +46,5 @@ MANOVA over fluency, flexibility, and originality in the same experiment. The om
 
 - [Fluency in the Alternative Uses Task was unaffected by stimulus condition and unrelated to selective attention](fluency-unaffected-by-stimulus-condition-and-attention.md)
 - [Children produced more original alternative uses (net of fluency and flexibility) in a low stimulus environment than in a high stimulus environment](low-stimulus-environment-higher-originality-children.md)
+- [Children with better selective attention were more flexible (used more different conceptual categories) in the Alternative Uses Task](selective-attention-predicts-flexibility.md) — related
+- [Selective attention moderated the effect of stimulus condition on children’s originality: better selective attention favoured the low stimulus environment, weaker selective attention the high stimulus environment](selective-attention-moderates-stimulus-effect-originality.md) — related

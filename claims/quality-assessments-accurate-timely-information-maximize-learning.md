@@ -48,3 +48,4 @@ The book's stated aim, as printed in its description: it hopes to "shift the foc
 - [The article argues for shifting from the definition of validity to the concept of effectiveness for classroom assessment score use](shift-from-validity-to-effectiveness.md) — related
 - [Teachers report changing high-quality instruction to match state and interim test formats, limiting deep learning opportunities](teachers-alter-instruction-to-match-test-formats.md) — related
 - [GenAI is argued to create an opportunity to move assessment away from sorting and ranking students toward recognising diverse ways of knowing](genai-opportunity-move-beyond-sorting-ranking.md) — related
+- [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related

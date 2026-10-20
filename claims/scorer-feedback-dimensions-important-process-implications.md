@@ -50,3 +50,4 @@ Scorer feedback collected during the July 2020 Rubric Pilot Session, in which th
 - [World History Project assignments scored higher on most learning opportunity rubric dimensions than other assignments](whp-assignments-scored-higher-opportunity-rubrics.md) — related
 - [Rubric scoring supports answering diagnostic questions about opportunities for and evidence of historical thinking](rubric-scoring-diagnostic-questions.md) — related
 - [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](whp-more-summative-historical-thinking-opportunities.md) — related
+- [The historical thinking rubrics were developed with construct and validity evidence from the literature and teacher/reviewer review](historical-thinking-rubrics-validity-evidence.md) — related

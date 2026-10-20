@@ -44,3 +44,4 @@ SEM analysis of baseline data from the multistate longitudinal intervention-eval
 - [Teachers rated students' capacity for self-determination differently by level of cognitive impairment, but rated opportunities for self-determination similarly across impairment levels](teacher-capacity-ratings-vary-cognitive-impairment-opportunities-do-not.md) — related
 - [The study targeted students with learning disabilities, mild and moderate mental retardation, and other health impairments](self-determination-study-population-disability-categories.md) — related
 - Baseline data from a multistate longitudinal self-determination intervention project were analyzed with structural equation modeling — a broader claim this one bears on
+- [The pattern of predictive relationships for self-determination differed significantly depending on which measure of self-determination was used](self-determination-predictor-patterns-vary-by-measure.md) — related

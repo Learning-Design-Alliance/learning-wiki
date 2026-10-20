@@ -67,3 +67,5 @@ From the same student perspective synthesis, the article reports students' prefe
 - [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — related
 - [Students' perceptions of the fairness of MMLA visualizations in an authentic nursing simulation deployment were mixed, hinging on accuracy and completeness of data representation](mmla-fairness-perceptions-mixed-accuracy.md) — related
 - [Real-time in-session feedback remains rare among presentation-coaching systems](real-time-feedback-rare-in-coaching-systems.md) — related
+- [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
+- [Students supported tiered data access: broad access for self-reflection, educator access for teaching, and restricted access to raw video and audio](mmla-tiered-data-access-preferences.md) — related

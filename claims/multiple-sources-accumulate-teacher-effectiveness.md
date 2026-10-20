@@ -48,3 +48,5 @@ The abstract lists this among the questions the edited volume addresses, indicat
 - [Empirical Bayes shrinkage could be used to address bias in proxy pre-test value-added estimates](empirical-bayes-shrinkage-for-proxy-pretest-bias.md) — related
 - [Proxy pre-test value-added estimates show bias, but may still carry information about teacher effectiveness](proxy-pretest-estimates-biased-but-informative.md) — related
 - [Bias, not precision loss, drives the difference in proxy pre-test value-added estimates](proxy-pretest-difference-driven-by-bias-not-precision.md) — related
+- [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](teacher-team-and-full-roster-methods-produce-similar-estimates.md) — related
+- [The lower a test's score ceiling, the more teacher value-added estimates shrink toward the average teacher, because ceiling scores contain imprecise information about achievement](lower-ceilings-shrink-value-added-toward-average.md) — related

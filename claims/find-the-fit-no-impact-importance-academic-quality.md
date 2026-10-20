@@ -70,3 +70,4 @@ Key findings bullet from the first report of the six-year Upward Bound advising 
 - [Find the Fit did not affect the share of students completing the FAFSA early](find-the-fit-no-effect-early-fafsa-completion.md) — related
 - [Find the Fit led to some changes in advising within Upward Bound and in students' actions related to enrolling in a more selective college](find-the-fit-changed-upward-bound-advising-practices.md) — related
 - [Find the Fit made no significant difference in college persistence into the third year after high school](find-the-fit-no-persistence-effect-third-year.md) — related
+- [Find the Fit increased the share of Upward Bound students who applied to four or more colleges](find-the-fit-increased-four-or-more-college-applications.md) — related

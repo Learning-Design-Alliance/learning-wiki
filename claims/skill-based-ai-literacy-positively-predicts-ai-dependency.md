@@ -45,3 +45,5 @@ Multiple linear regression with 478 Israeli higher education students predicting
 ## Related Claims
 - [AI literacy is the strongest predictor of reliance type: each unit increase in AI literacy is associated with roughly a tenfold reduction in the odds of Dependent versus Strategic classification](ai-literacy-predicts-reliance-type-membership.md) — reports the opposite
 - [Critical-ethical awareness plays a dual role: it negatively predicts general GenAI reliance but positively predicts shortcut reliance](critical-ethical-awareness-dual-role-reliance.md) — related
+- [GenAI literacy dimensions predict critical monitoring beyond traits, use frequency, and perceptions, with critical-ethical awareness the strongest predictor](genai-literacy-predicts-critical-monitoring.md) — related
+- [The eight-predictor model explains 27.3% of variance in AI dependency, and multidimensional AI literacy adds explanatory value over a single aggregate score](multidimensional-ai-literacy-model-explains-27-percent-dependency-variance.md) — related

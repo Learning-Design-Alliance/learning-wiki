@@ -47,3 +47,5 @@ Calibration procedure footnote reporting a t-test on display durations titrated 
 - [The four-way interaction between cue, group, display type and difficulty was significant, with group differences largest for uncued crowded stimuli](four-way-cue-group-display-difficulty-interaction.md) — related
 - [Adults with dyslexia use pre-cues to enhance discrimination accuracy, with pre-cued performance exceeding both post-cued and uncued conditions](awd-pre-cue-signal-enhancement-benefit.md) — related
 - [AwD showed significant set size effects in uncued conditions alongside difficulty effects, unlike controls](awd-uncued-setsize-difficulty-effects.md) — related
+- [Pre-cues and post-cues eliminate set size effects for controls but not for adults with dyslexia](cues-eliminate-set-size-controls-not-awd.md) — related
+- [Crowding effects, pre-cue dependence and set size effects each correlate significantly with reading and spelling measures](attention-measures-correlate-literacy.md) — related

@@ -45,3 +45,5 @@ Cross-case analysis in the Governance section. The report explains that over 200
 ## Related Claims
 - [Most state-funded preschool programs use a mixed delivery system, with some states serving over half of children in non-LEA settings](most-state-preschool-programs-mixed-delivery.md) — related
 - [Alabama and New Jersey require and fund salary parity for non-LEA preschool teachers with LEA peers; New York City teachers achieved parity through unionizing](pay-parity-policies-nonlea-teachers.md) — related
+- [New Jersey's Abbott P-3 credential mandate, with scholarships, pay parity, and expanded higher education capacity, rapidly raised credentialed preschool teacher supply](new-jersey-abbott-p3-credential-scale-up.md) — related
+- [Setting common quality standards for all preschool classes helps address disparities in program quality requirements across the mixed delivery system](common-quality-standards-address-disparities.md) — related

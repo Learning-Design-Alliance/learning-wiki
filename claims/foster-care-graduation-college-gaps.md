@@ -45,3 +45,6 @@ Descriptive analysis of 2018–19 California education data reported in the Exec
 ## Related Claims
 - [CPS alumni college completion (48%) remains below the national average (64%), with 56% of immediate four-year and 32% of immediate two-year enrollees completing within six years](cps-college-completion-below-national.md) — related
 - [Homelessness is associated with substantially lower 4-year graduation rates (68% vs. 86% for all students)](homelessness-lower-graduation-rate.md) — related
+- [California students experiencing homelessness graduate at lower rates (69% vs. 83%) and enroll in college at lower rates (50% vs. 64%) than peers statewide](homeless-students-lower-graduation-college-going.md) — related
+- [In both Colorado and Washington, youth in foster care and youth experiencing homelessness are consistently prioritized in policy and practice, while migrant and justice-involved youth remain less reliably supported](hmy-foster-homeless-prioritized-migrant-justice-overlooked.md) — related
+- [Students experiencing homelessness show substantially lower achievement and graduation than housed peers (reported from a New York City study)](homeless-students-lower-achievement-graduation-nyc.md) — related

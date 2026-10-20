@@ -46,3 +46,5 @@ Manipulation check within the same 118-participant experiment: independent-sampl
 - [High-performance feedback increases performance expectations more than low-performance feedback, with additive effects of age and control beliefs](high-performance-feedback-increases-performance-expectations.md) — related
 - [Participants induced to hold high self-efficacy show greater improvement in visual discrimination sensitivity than participants induced to hold low self-efficacy](high-self-efficacy-improves-visual-discrimination-sensitivity.md) — related
 - [Changes in self-efficacy correlate with changes in visual discrimination sensitivity after regressing out objective ability and baseline self-efficacy](self-efficacy-change-correlates-vds-change.md) — related
+- [Mixed-design ANOVAs reveal significant group-by-time interactions on visual discrimination sensitivity in both tasks](se-group-time-interaction-vds.md) — related
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related

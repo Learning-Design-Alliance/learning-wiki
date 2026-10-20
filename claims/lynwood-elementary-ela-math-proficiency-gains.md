@@ -45,3 +45,5 @@ Descriptive analysis of California Department of Education DataQuest CAASPP data
 ## Related Claims
 - [LAUSD CCSPP community schools reduced chronic absence by approximately 9% more and improved math proficiency by approximately 10% more than comparable non-CCSPP high-need schools](ccspp-lausd-chronic-absence-math-gains.md) — a broader claim this one bears on
 - [By 2023–24, CCSPP Cohort 1 community schools' math and ELA scores exceeded their prepandemic achievement levels, an outcome not observed in comparable non-CCSPP schools](ccspp-cohort1-exceeded-prepandemic.md) — a broader claim this one bears on
+- [Lynwood Unified's custom dashboards and intervention tools were followed by a decrease in high school D/F rates of over 8% and 593 interventions logged in one year](lynwood-dfi-decrease-intervention-tracking.md) — related
+- [In Lynwood Unified, chronic absence fell from 37.1% to 24.5% and average daily attendance rose from 87.4% to 91.5% during the first two years of districtwide community schools implementation.](lynwood-chronic-absence-decline-community-schools.md) — related

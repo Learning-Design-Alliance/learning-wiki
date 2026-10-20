@@ -49,3 +49,4 @@ Randomized control field trial with 16 ABE programs randomly assigned at the pro
 - [Treatment effects on word recognition differed by native status: the curriculum was more effective for native than non-native adults, though subgroup impacts were not individually significant](treatment-native-status-interaction-word-recognition.md) — related
 - [Non-native English learners made significantly greater reading gains than native learners on 7 of 11 measures, while native learners gained more on vocabulary](non-native-learners-larger-reading-gains.md) — related
 - [Decoding (Word Attack) showed the strongest gain of the targeted skills, with a moderate effect size of d = .46 overall](word-attack-strongest-gain-d46.md) — related
+- [Only one between-group difference emerged: the Control/Comparison, Decoding and Fluency, and DCEF groups showed stronger word attack outcomes than the Extensive Reading group](word-attack-group-differences-er-weakest.md) — related

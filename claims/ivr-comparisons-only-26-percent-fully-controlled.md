@@ -46,3 +46,8 @@ Systematic review (PRISMA-guided, pre-registered) coding 50 comparisons from 38 
 
 - [IVR conditions included participatory activities in 50% of comparisons while conventional conditions did so in only 20%](ivr-conditions-more-likely-to-include-activities.md)
 - [IVR conditions outperformed conventional conditions in only 24% of comparisons, with 54% tied, and the review finds no strong evidence IVR is more effective](no-strong-evidence-ivr-more-effective-stem.md) — related
+- [When activities were not controlled, the confound favored the IVR condition in 14 of 17 comparisons](activity-confounds-favor-ivr-condition.md) — related
+- [40% of IVR-vs-conventional comparisons had at least one confound related to instructional method and content](ivr-comparisons-40-percent-confounded.md) — related
+- [Complete operational definitions of conditions were provided in fewer than half of comparisons (42% conventional, 50% IVR)](operational-definitions-incomplete-in-ivr-studies.md) — related
+- [Video benefits learning only when its interactivity matches or exceeds the comparison condition](video-benefit-depends-on-relative-interactivity.md) — related
+- [Most active learning studies did not operationally define the control (lecture) condition](control-condition-operational-definition-missing.md) — related

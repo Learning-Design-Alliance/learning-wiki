@@ -46,3 +46,4 @@ The report's key findings, based on the administrative-data outcomes study, stat
 - [InsideTrack© Coaching shows no discernible effects on college degree completion (attainment)](insidetrack-coaching-no-discernible-attainment-effect.md) — related
 - [Comprehensive, integrated advising interventions improve progression, academic achievement, and postsecondary degree attainment for postsecondary students](comprehensive-integrated-advising-improves-persistence-and-degree-attainment.md) — a broader claim this one bears on
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
+- [One-on-one adult support at school, such as a coach or counselor, helped students prioritize and complete college applications](one-on-one-adult-support-college-applications.md) — related

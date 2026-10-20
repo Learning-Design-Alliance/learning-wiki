@@ -45,3 +45,11 @@ Multi-categorical mediation (PROCESS, 5000 bootstrap samples) on the full sample
 ## Related Claims
 
 - [Case comparison shifts student teachers' beliefs about operant conditioning toward more positive, regardless of experimental condition](case-comparison-shifts-beliefs-operant-conditioning.md)
+- [Providing key features during case comparison improves student teachers' ability to explain teacher behavior with operant conditioning principles, but not lower levels of understanding](key-features-improve-explanation-in-case-comparison.md) — related
+- [The number of substantive comments during discussion mediated the effect of preparatory condition on immediate learning, but not on long-term learning](substantive-comments-mediate-immediate-learning.md) — related
+- [Presenting principles before case comparison yields higher germane load and lower extraneous load than presenting them after](input-before-raises-germane-lowers-extraneous-load.md) — related
+- [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](germane-load-mediates-tool-effect-on-justification-quality.md) — related
+- [Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related
+- [Cognitive load mediates the effect of personalized paths on learning outcomes, with motivation and self-efficacy as complementary mediators](cognitive-load-mediation-pathway.md) — related
+- [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related
+- [Timing of instructional input (before vs. after case comparison) did not significantly affect conceptual knowledge acquisition](input-timing-no-effect-knowledge-case-comparison.md) — related

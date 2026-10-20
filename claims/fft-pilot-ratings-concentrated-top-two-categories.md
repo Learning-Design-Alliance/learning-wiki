@@ -48,3 +48,4 @@ Analysis of pilot observation data from the 2012-2013 school year covering 6,676
 - [Principal practice ratings varied across the score range in New Jersey's pilot year, but most principals received ratings of effective or highly effective](nj-pilot-practice-ratings-varied-most-effective.md) — related
 - [Performance tasks did little to differentiate teachers, with most receiving high scores and over a third receiving default scores due to missing data](reach-performance-tasks-little-differentiation.md) — related
 - [Districts rate ISAT alignment to state learning standards highest among five rated areas, but fewer than half use the top two categories, and month administered and speed of reporting rate lowest](isat-ratings-alignment-highest-timing-lowest.md) — related
+- [Most school leaders received scores in the top two performance categories on FFL-measured practices](ffl-scores-concentrated-in-top-categories.md) — related

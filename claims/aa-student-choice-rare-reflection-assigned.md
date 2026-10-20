@@ -50,3 +50,4 @@ Review coding of student agency across the 37 studies. It reports 'only eight st
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Student self-determination was infrequent and more common during Active, Constructive, and Interactive tasks than Passive tasks](student-self-determination-rare-higher-in-active-tasks.md) — related
+- [Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported sometimes, rarely, or never choosing](pl-student-choice-limited-teacher-driven.md) — related

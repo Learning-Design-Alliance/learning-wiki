@@ -47,3 +47,4 @@ Offline comparative experiment on the English subset of the MARS dataset (4,800 
 - [The CF–KG model attains the highest coverage (0.736) and cross-domain accuracy (0.741) among all compared recommenders](cfkg-highest-coverage-cda.md) — related
 - [The CF–KG hybrid model achieves the highest hit rate among all compared methods, rising from 0.718 to 0.751 across training](cfkg-highest-hit-rate.md) — related
 - [Both CF-only and KG-only ablated variants underperform the full CF–KG model, indicating complementary behavioral and semantic signals](cfkg-component-ablation-complementary.md) — related
+- [Removing any single modality degrades CF–KG only moderately, with text removal causing the largest drop (NDCG 0.625 to 0.593)](cfkg-robust-modality-removal.md) — related

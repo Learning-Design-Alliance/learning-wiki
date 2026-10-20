@@ -49,3 +49,7 @@ The authors' interpretive account of how contract grading changes feedback dynam
 - [A unilateral grading contract guarantees students a course grade of B based solely on completion of specified activities, not on judged writing quality](contract-guarantees-b-for-completion-not-quality.md) — related
 - [Formative assessment practices coherent with OpenSciEd are constrained by grading expectations misaligned with formative goals and by the time cost of evaluating and giving feedback on three-dimensional tasks.](openscied-formative-assessment-feasibility-challenges.md) — related
 - [Students objected to the instructor's visible AI delegation even though AI scores never counted toward grades, so decoupling the stakes did not decouple the resentment](student-objection-visible-instructor-ai-delegation.md) — reports the opposite
+- [The hybrid grading contract helps resist grade inflation by reserving grades above B for exceptionally high quality](hybrid-contract-resists-grade-inflation.md) — related
+- [Students report teacher feedback on writing is insufficient, and they value scores over feedback](insufficient-writing-feedback-scores-over-feedback.md) — related
+- [Ungraded practice tests function as a legitimate mediating practice that empowers learners and redefines the instructor's authority](ungraded-tests-mediating-practice.md) — related
+- [The authors report that fourteen weeks of contract-required work improves writing quality enough to warrant a B](fourteen-weeks-contract-work-warrants-b.md) — related

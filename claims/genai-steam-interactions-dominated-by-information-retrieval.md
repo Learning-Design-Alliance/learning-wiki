@@ -46,3 +46,6 @@ Frequency analysis of 310 student–GenAI interaction log entries from six group
 - [Interaction patterns and perceptions differed between mathematics-engineering and mathematics-arts modules despite similar interaction counts](module-differences-genai-math-engineering-vs-arts.md) — related
 - [Students' GenAI prompts overwhelmingly exact-copy instructions and request information rather than review](genai-prompts-exact-copy-and-information-requests.md) — possibly the same claim (merge candidate)
 - [Students reported high satisfaction with GenAI in STEAM learning, following gradual-improvement and fluctuation patterns](high-satisfaction-genai-steam-gradual-and-fluctuating.md) — related
+- [Without explicit scaffolding, the two lower-agency paths (Passive Review and Direct Question) accounted for 64% of student-AI interactions in the primary sample](paths-1-2-default-64-percent.md) — a broader claim this one bears on
+- [Students perceived eight GenAI roles but lacked engagement and a sense of achievement](eight-perceived-genai-roles-low-achievement.md) — related
+- [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](high-trust-limited-critical-evaluation-genai.md) — related

@@ -66,3 +66,4 @@ Random-effects meta-analysis of blended-learning skills outcomes. The pooled "SM
 - [Virtual patients show larger effects when replacing passive traditional learning (lectures, reading) than active learning (group discussion, mannequin-based)](vp-passive-versus-active-comparison.md) — related
 - [Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-traditional-knowledge-no-difference.md) — related
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
+- [Live simulations with real patients showed the greatest effects among simulation types (g = 2.27, medical education only)](simulation-type-moderates-effectiveness.md) — related

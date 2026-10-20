@@ -48,3 +48,5 @@ Longitudinal mixed-model analysis in AREDS2 with repeated cognitive assessments 
 - [Higher Mediterranean diet adherence is not associated with slower cognitive decline over 5 to 10 years](mediterranean-diet-not-associated-slower-decline.md) — related
 - [Individual aMED components: vegetable, nut, and moderate alcohol intakes show protective associations with cognitive function](amed-components-vegetables-nuts-alcohol-protective.md) — related
 - [Higher Mediterranean diet adherence is associated with lower risk of cognitive impairment in older adults without dementia](mediterranean-diet-adherence-lower-cognitive-impairment-risk.md) — related
+- [Higher Mediterranean diet adherence is associated with higher cognitive test scores, with dose-response associations](mediterranean-diet-adherence-higher-cognitive-scores.md) — related
+- [The aMED–cognition associations persist after adjustment for education level](amed-cognition-robust-to-education-adjustment.md) — related

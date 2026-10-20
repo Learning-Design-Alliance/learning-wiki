@@ -69,3 +69,4 @@ Implementation interviews in the Massachusetts study (Sprague et al., 2012) foun
 - [READ 180 studies in Newark (NJ) and Memphis found no differences from control](read-180-newark-memphis-no-differences.md) — related
 - [Most teachers, students, and principals reported positive perceptions of the Playworks program](playworks-most-stakeholders-positive-perceptions.md) — related
 - Teachers at SFA schools report positive perceptions of the reading program, including benefits for English learners and special education students — related
+- [Most teachers and principals reported satisfaction with professional opportunities, school environment, and the TIF program](tif-most-educators-satisfied.md) — related

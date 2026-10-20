@@ -66,3 +66,4 @@ The review reports an observational analysis from the Human Speechome Project, i
 - [Structural features of child-directed speech—isolated words, short sentence frames, and repetition—facilitate word segmentation, processing, and word learning](cds-structural-features-aid-word-learning.md) — related
 - [Infant look-away follows a U-shaped pattern of information content, consistent with maintaining intermediate rates of information absorption (Goldilocks effect)](infant-goldilocks-look-away-u-shaped.md) — related
 - [Social contingency in parent–child interaction supports early language learning, and infants actively elicit higher-quality input through a social feedback loop](social-feedback-loop-contingency-language.md) — related
+- [DLL infants can discriminate their two languages from early infancy, though within-language contrast discrimination trajectories show mixed findings](dll-infant-speech-discrimination-trajectories.md) — related

@@ -47,3 +47,4 @@ The Key Findings list names this practice among those most consistently related 
 - [Engaging students in defining new words during or after reading a text is among the practices most consistently related to student growth in language and comprehension](word-defining-during-after-reading-related-to-growth.md) — related
 - [Promoting higher-order thinking through questions requiring analysis, explanation, and idea development is among the practices most consistently related to student growth](higher-order-thinking-questions-related-to-growth.md) — related
 - [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](activation-improves-learning.md) — related
+- [Students' prior knowledge about a topic impacts their understanding of text as they read](prior-knowledge-impacts-text-understanding.md) — related

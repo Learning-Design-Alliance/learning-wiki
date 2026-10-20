@@ -71,3 +71,6 @@ School-level predictor models. The intercept variance falls from 0.622 to 0.324 
 - [ACT scores show a weak relationship with college graduation, with slope variation across high schools larger than the average signal](act-weak-inconsistent-predictor-college-graduation.md) — related
 - [College graduation rates vary significantly across high schools among students with the same HSGPA, and about one-fourth of that school-level variation is induced by comparing students with similar HSGPAs](school-variance-same-hsgpa-graduation.md) — a broader claim this one bears on
 - [For four-year (rather than six-year) graduation, ACT scores are slightly predictive but their coefficient is one-sixth the HSGPA coefficient](act-weakly-predicts-four-year-graduation.md) — related
+- [Combining ACT scores with HSGPAs reduces high school variance in college graduation rates relative to HSGPA-only models](act-plus-hsgpa-reduces-high-school-variance.md) — related
+- [Both HSGPA and ACT scores leave large high school effects on college graduation unexplained, which the study recommends measuring and publishing directly](high-school-effects-beyond-gpa-and-act.md) — related
+- [High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates](hsgpa-predicts-college-graduation-more-than-tests.md) — related

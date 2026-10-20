@@ -124,3 +124,7 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — a narrower finding that bears on this claim
 - [Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession](spacing-improves-final-test-performance.md) — related
 - [Learners tend to feel restudying confers more learning than being tested even though the opposite is true, per the review](metacognitive-disconnect-restudy-vs-testing.md) — related
+- [Students rarely open transfer-practice cards immediately after solving; they want such problems organized into delayed, spaced wrong-book review instead](transfer-practice-timing-mismatch-delayed-review.md) — related
+- [Good learners do not always adhere to established practice principles; low contextual interference can still produce good learning](good-learners-violate-practice-principles.md) — related
+- [Spaced retrieval practice outperformed both massed retrieval practice and no-practice control on delayed financial knowledge, while massed and control did not differ](spaced-beats-massed-and-control-financial-knowledge.md) — related
+- [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — related

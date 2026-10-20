@@ -46,3 +46,4 @@ A reported footnote analysis of Experiment 2 data found the grade-level by spaci
 - [First-grade children show the typical spacing effect in free recall with the same picture procedures](first-graders-spacing-effect-free-recall.md) — related
 - [Preschool children do not exhibit a spacing effect in free recall, although they benefit from repetition](preschoolers-no-spacing-effect-free-recall.md) — related
 - [A rehearsal-based deficient-processing account cannot explain the developmental emergence of the spacing effect](rehearsal-account-inconsistent-with-developmental-spacing-pattern.md) — related
+- [Preschool children benefit from repetition in free recall, recalling repeated pictures better than once-presented ones](preschoolers-benefit-from-repetition-free-recall.md) — related

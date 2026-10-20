@@ -48,3 +48,6 @@ Appendix C of the guide reports "domain-level effect sizes across the 34 studies
 - [Corrective Reading produced statistically significant positive effects on oral reading fluency in a randomized controlled trial of third-grade struggling readers](corrective-reading-significant-fluency-effect.md) — related
 - [Repeated reading has potentially positive effects on reading comprehension for students with learning disabilities, with a small extent of evidence](repeated-reading-potentially-positive-comprehension-learning-disabilities.md) — related
 - [A WWC practice guide rests its recommendation to teach academic vocabulary intensively across several days on six studies meeting WWC standards (five RCTs, one quasi-experiment)](academic-vocabulary-intensive-instruction-strong-evidence.md) — related
+- [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — related
+- [Multisyllabic word-reading instruction for struggling readers in grades 4–9 has strong evidence, based on 32 studies](strong-evidence-multisyllabic-word-reading-instruction-grades-4-9.md) — related
+- [Sound Partners tutoring has positive effects on reading fluency of beginning readers](sound-partners-positive-effects-fluency.md) — related

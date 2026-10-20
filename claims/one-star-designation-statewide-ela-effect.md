@@ -51,3 +51,4 @@ Regression discontinuity analysis (RDD) of statewide spring 2024 math and ELA sc
 - Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity — a broader claim this one bears on
 - Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial — a broader claim this one bears on
 - The meta-analysis finds some evidence favoring non-parametric RD methods over parametric ones — a broader claim this one bears on
+- [In NAEP regression discontinuity estimates, exceeding the state threshold increases math achievement by 2.6 points (9.1% of a standard deviation) and reading achievement by 4.4 points (12.2% of a standard deviation)](sbp-mandate-naep-rd-achievement.md) — related

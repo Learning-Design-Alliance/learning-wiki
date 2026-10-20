@@ -47,3 +47,4 @@ Benchmark comparison on three educational datasets (S Math, S Bio, S Phy) with 8
 - [Each SRJudge component contributes: the Reasoner and Judger add measurable F1 gains over the Selector alone](srjudge-ablation-components-contribute.md) — related
 - [SRJudge improves prediction on hard-to-distinguish samples, with larger gains on S Math than on the higher-grade datasets](srjudge-gains-hard-to-distinguish-samples.md) — related
 - [A dynamic position reward in RL training improves tagging performance and prevents overfitting to Selector outputs](dynamic-position-reward-improves-reasoner.md) — related
+- [Pruning low-advantage completions during RL improves F1 up to a middle pruning rate while reducing training time](pruning-mechanism-improves-f1-and-training-time.md) — related

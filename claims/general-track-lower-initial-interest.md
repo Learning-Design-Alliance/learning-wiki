@@ -45,3 +45,8 @@ Multilevel Model 1 results for interest in science. The General Track coefficien
 ## Related Claims
 
 - [All student groups benefited equally in inquiry skills improvement after Web-based collaborative inquiry, with no significant effects of gender, achievement level, or academic track](equal-inquiry-skills-gains-all-groups.md)
+- [Female low achievers from the general track started with the lowest knowledge scores but achieved the highest learning gains in Web-based collaborative inquiry](female-low-achiever-general-track-highest-gain.md) — related
+- [The VR application did not increase students' interest in biodiversity, and only the academic-track control group showed a significant interest increase](vr-did-not-increase-interest.md) — related
+- [Girls started with lower interest in science than boys but gained significantly more, resulting in equal post-intervention interest](girls-lower-initial-interest-higher-gain.md) — related
+- [Web-based collaborative inquiry produces a small but significant improvement in students' interest in science](small-significant-interest-gain-web-inquiry.md) — related
+- [A Web-based collaborative inquiry project produces significant overall learning gains in science knowledge in secondary classrooms](web-based-collaborative-inquiry-significant-knowledge-gains.md) — related

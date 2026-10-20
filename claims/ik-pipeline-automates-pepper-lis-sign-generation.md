@@ -64,3 +64,4 @@ Authoring-time comparison reported in the methodology section: manual sign creat
 ## Related Claims
 - [Recognition of individual Pepper-produced LIS signs varies widely, with several signs significantly above chance and others not significant](pepper-lis-sign-recognition-binomial-tests.md) — related
 - [LIS users recognize Pepper's isolated signs far better than its full signed sentences in an exploratory evaluation](pepper-isolated-signs-recognized-better-than-sentences.md) — related
+- [Thematic coding of sentence misinterpretations yields three categories: lexical confusion, structure misinterpretation, and partial recognition with wrong sequencing](thematic-categories-sentence-misinterpretation.md) — related

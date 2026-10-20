@@ -42,3 +42,5 @@ Theoretical argument in the PETs and Trust section: the article argues that priv
 
 ## Related Claims
 - [PETs trade utility for privacy, limiting use where accuracy is mandated](pets-utility-privacy-tradeoff.md) — related
+- [ε=2.0 provides the best privacy–utility balance, while ε=0.5 introduces excessive noise that degrades performance below baseline on ASSIST09](privacy-budget-epsilon-tradeoff-cognitive-diagnosis.md) — related
+- [SEERNet platforms trade off open science against availability of individual student data, with eTrials and ASU L@S at opposite extremes](seernet-platform-open-science-data-tradeoff.md) — related

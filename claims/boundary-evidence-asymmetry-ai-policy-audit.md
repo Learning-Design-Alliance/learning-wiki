@@ -46,3 +46,4 @@ Policy audit of public generative AI assessment guidance from 30 universities ac
 - [Policy packages fall into four archetypes defined by which design element is missing](four-policy-archetypes-ai-guidance.md) — related
 - [Safeguards in university AI policies are sparse and unevenly covered](safeguard-coverage-sparse-ai-policies.md) — related
 - [Judgement-bearing assistance is the central analytic pivot: delegating evaluation of quality and correctness is normatively more demanding than instrumental assistance](judgement-bearing-assistance-central-pivot.md) — related
+- [Output-verification support is the least covered scenario in policy guidance](output-verification-thinnest-scenario.md) — related

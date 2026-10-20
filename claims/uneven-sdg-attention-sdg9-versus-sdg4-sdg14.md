@@ -48,3 +48,4 @@ A synthesis-stage finding of the scoping review comparing attention across SDGs 
 ## Related Claims
 - [The review reports that AI positively contributes to 128 of the 169 SDG targets](ai-contributes-128-of-169-sdg-targets.md) — related
 - Existing scholarship examines AI–SDG connections in a fragmented way without an integrative literacy framework — related
+- [Most AI-for-sustainability initiatives in higher education remain limited in scope, exploratory, and not integrated into institutional strategies](ai-sustainability-initiatives-limited-exploratory.md) — related

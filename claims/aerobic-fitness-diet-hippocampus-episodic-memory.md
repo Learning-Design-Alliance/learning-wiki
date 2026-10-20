@@ -46,4 +46,9 @@ Review article (Hassevoort, Khan, Hillman, & Cohen) on lifestyle factors, hippoc
 - [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
--
+- [Exercise Increases Hippocampal Volume](exercise-increases-hippocampal-volume.md) — related
+- [Hippocampal volume relates to episodic memory differently across development: adults show head/body associations, children show tail associations](developmental-dissociation-hippocampal-volume-episodic-memory.md) — related
+- [Hippocampal microstructure continues maturing after early childhood: anterior hippocampus loses mass and posterior hippocampus gains mass from age 4 to 25](hippocampus-anterior-loss-posterior-gain-age-4-25.md) — related
+- [Physical well-being — exercise, sleep, and nutrition — impacts learning](physical-wellbeing-impacts-learning.md) — a broader claim this one bears on
+- [The anterior hippocampus becomes functionally specialized for episodic memory around the transition to adolescence](anterior-hippocampus-functional-specialization-adolescence.md) — related
+- [The authors propose aerobic fitness as a possible predictor of developmental cortical thinning and a pathway to enhanced cognition and scholastic performance](aerobic-fitness-possible-predictor-cortical-maturation-pathway.md) — related

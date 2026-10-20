@@ -47,3 +47,4 @@ The editorial reports, citing Wolff et al. (this issue), that novices are distra
 - [Expert teachers interpret complex classroom phenomena more accurately and fluidly than novices and postulants](expert-teachers-interpret-classroom-phenomena-better.md) — related
 - [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](knowledge-driven-vs-image-driven-classroom-perception.md) — related
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
+- [Novices and experts committed similar total error numbers but different error types in computer work](novice-expert-error-type-differences.md) — related

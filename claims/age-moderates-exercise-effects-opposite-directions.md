@@ -61,3 +61,7 @@ Subgroup analysis of chronic exercise effects on working memory by age (Q = 18.0
 - [Age may moderate acute PA effects on attention: effects appeared for 9–10 year olds but not 7–8 year olds](age-moderates-pa-attention-effect.md) — related
 - [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related
 - [Acute exercise significantly improves working memory in children and adolescents with a moderate effect size (SMD = −0.72)](acute-exercise-improves-working-memory-children.md) — related
+- [Meta-regression identifies exercise type, age, and study quality as significant moderators of chronic exercise effects on executive function](meta-regression-moderators-chronic-exercise-ef.md) — related
+- [Open-skill exercises yield larger executive function benefits than closed-skill exercises for inhibitory control and working memory](open-skill-exercise-larger-ef-benefits.md) — related
+- [Exercise session time of 30 minutes or less yields a larger working memory effect than longer sessions in chronic exercise interventions](shorter-session-time-larger-working-memory-effect.md) — related
+- [Chronic exercise significantly improves working memory, inhibitory control, and cognitive flexibility in children and adolescents](chronic-exercise-improves-executive-function-children.md) — related

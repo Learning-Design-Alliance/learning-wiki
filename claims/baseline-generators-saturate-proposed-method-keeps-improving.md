@@ -46,3 +46,4 @@ In-sample evaluation (Figure 2): OLS regression of item difficulty on hypothesis
 - [Adding generated hypotheses as features improves black-box difficulty predictors](hypothesis-features-improve-difficulty-predictors.md) — related
 - [Mixing group-wise and pair-wise contrastive sampling yields better hypotheses than either alone](mixing-group-and-pair-sampling-beats-either-alone.md) — related
 - [A small question budget of about 200 suffices for strong hypothesis quality, with room to scale](small-budget-suffices-for-hypothesis-quality.md) — related
+- [Hypothesis-based predictors match or beat black-box difficulty regressors on unseen questions](hypothesis-predictor-matches-black-box-regressors.md) — related

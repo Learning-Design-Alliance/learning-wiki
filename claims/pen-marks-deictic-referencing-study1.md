@@ -62,3 +62,5 @@ Study 1 questionnaire item (N=16, within-subjects) on ease of referencing specif
 - [Unmediated pen input introduced new pen-specific barriers: lack of visual feedback on referential intent and high interaction cost of handwriting complex queries](pen-specific-barriers-unmediated-ink.md) — related
 - [In Study 1, learners preferred Penquiry V1 for part-scoped, specific-target and short questions, and favored the baseline for general topics and longer interpretive questions](penquiry-v1-question-type-preferences.md) — related
 - [In Study 1, Penquiry V1 reduced physical demand and better maintained learning flow, and received higher TAM ratings, than a keyboard baseline](penquiry-v1-lower-physical-demand-higher-flow.md) — related
+- [Learners using standard keyboard-based LLM workflows during pen-based study face a Referential Barrier and an Expressive Barrier](referential-expressive-barriers-standard-llm-workflow.md) — related
+- [In Study 2, Content Snapping's immediate visual confirmation resolved learners' referential uncertainty about system recognition](content-snapping-resolves-referential-uncertainty.md) — related

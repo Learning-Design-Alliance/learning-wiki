@@ -45,3 +45,7 @@ Discussion of the utterance-level I-position coding across both groups' dialogue
 ## Related Claims
 
 - [Group A, who failed the learning task, devoted most dialogues to orientation and conceptualization and asked yes-no questions at the personal level, while group B, who succeeded, distributed dialogue across investigation and discussion](group-df-distribution-outcome-cscl-dst.md)
+- [Group A's brainstorming was repeatedly unproductive because individual interjections redirected the group's dialogue toward personal concerns](group-a-unproductive-brainstorming-personal-drift.md) — related
+- [In group B, usage of I–we gradually increased and peaked in the final stage during critical evaluation, suggesting intrapersonal collective voice drives critical evaluation of evidence](iwe-usage-peaked-final-stage-group-b.md) — related
+- [Shared technology resources can act as positioning artifacts around which students negotiate power and status differentials in CSCL groups](technology-as-positioning-artifact-power-status.md) — related
+- [Group A's two most common I-positions were I–it and I–me, while group B's were I–me and I–we, indicating different reliance on interpersonal versus intrapersonal voices](iposition-distribution-two-groups-cscl.md) — related

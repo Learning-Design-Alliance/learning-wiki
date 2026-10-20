@@ -48,3 +48,5 @@ The review reports, citing Klenberg, that single correct inhibitory responses ar
 ## Related Claims
 - [Impending rewards improve adolescent antisaccade performance toward adult levels, accompanied by greater nucleus accumbens activation](rewards-improve-adolescent-antisaccade-nacc.md) — related
 - [In the one longitudinal fMRI study, dorsolateral prefrontal engagement reached adult levels by adolescence while dorsal anterior cingulate engagement continued increasing and mediated behavioral improvement](dlpfc-adult-by-adolescence-dacc-mediation.md) — related
+- [Monkey neurophysiology shows adolescent-to-adult antisaccade improvement reflects enhanced representation of the goal and vector inversion, not stronger filtering of the stimulus](monkey-goal-representation-enhancement-not-filtering.md) — a narrower finding that bears on this claim
+- [Better response inhibition (complex No-Go accuracy) is associated with longer reaction times on counterintuitive misconception trials, not better performance](response-inhibition-predicts-longer-misconception-rt.md) — related

@@ -44,3 +44,4 @@ Field study finding from observations and interviews in Chicago elementary schoo
 
 ## Related Claims
 - [ISAT scores are not comparable over time: students with identical earlier and later test scores earned different seventh-grade ISAT scores depending on the year tested](isat-scores-noncomparable-over-time.md) — related
+- [Seasonal growth patterns were examined with math and reading scores for over seven million K-8 students across three within-year test occasions](seven-million-students-three-seasonal-occasions.md) — related

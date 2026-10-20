@@ -68,3 +68,4 @@ Posttest solution optimality (steps) comparison; shorter solutions with fewer st
 - [The DRL policy produced a significantly different scaffolding distribution than Control and BKT, favoring Guided examples (60%) and avoiding Buggy examples (4%)](drl-policy-favors-guided-examples-distribution.md) — related
 - [No significant differences in posttest rule accuracy across scaffolding conditions](no-rule-accuracy-difference-across-conditions.md) — related
 - [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related
+- [Retention and delivered instructional minutes did not differ significantly between experimental and control conditions, and completers received well under planned dosage](ae-trial-attrition-and-insufficient-dosage.md) — related

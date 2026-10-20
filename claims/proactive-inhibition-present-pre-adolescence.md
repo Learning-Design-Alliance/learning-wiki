@@ -47,3 +47,5 @@ Behavioral analysis of the Stop-Signal Anticipation Task in 640 children showed 
 - [Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age](reactive-inhibition-improves-age-8-11.md) — related
 - [Go-trial response times are slower during the stop-signal task than the no-tone task, with no diagnostic group difference](stop-signal-slows-mean-reaction-time-equally.md) — related
 - [Children adopt a more cautious response strategy (higher boundary separation) when intermittent stop trials are introduced](stop-signal-demands-increase-boundary-separation.md) — related
+- [Reward does not alter the speed or variability of response execution in either stop signal task](reward-does-not-alter-response-execution.md) — related
+- [Higher self-regulation in pre-adolescent children is associated with stronger right mid frontal cortex activation during proactive inhibition](self-regulation-frontal-activation-proactive-inhibition.md) — related

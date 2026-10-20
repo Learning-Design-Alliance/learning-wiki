@@ -56,3 +56,4 @@ Trend analysis of CPS administrative data on in-school suspensions by race and g
 - [Students who attend schools with higher suspension rates are more likely to be arrested and incarcerated as adults and less likely to attend a 4-year college](higher-suspension-rates-linked-adult-arrest.md) — related
 - [Students of color and students with disabilities are disproportionately suspended and referred to law enforcement relative to their enrollment](disproportionate-discipline-students-of-color-disabilities.md) — related
 - [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](suspension-disparities-reflect-policies-and-adult-biases.md) — related
+- [A first suspension doubles a student's odds of dropping out of school](first-suspension-doubles-dropout-odds.md) — related

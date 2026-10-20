@@ -43,4 +43,4 @@ The author's stated scope limit from the credibility findings: reasoning about W
 
 
 ## Related Claims
--
+- [Dimensions of historical thinking are conceptually decoupled: sophistication in one second-order concept does not imply sophistication in another](historical-thinking-dimensions-conceptually-decoupled.md) — a broader claim this one bears on

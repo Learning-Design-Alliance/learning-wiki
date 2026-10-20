@@ -49,3 +49,4 @@ Exploratory correlational analyses in the N = 147 sample: mean RT in the incongr
 - [Shifting accuracy and shift cost show no association with intelligence or WM in kindergarten children](shifting-null-intelligence-wm.md) — related
 - [Inhibition accuracy in the Hearts and Flowers incongruent block is positively correlated with fluid intelligence in kindergarten children](inhibition-accuracy-correlates-fluid-intelligence-kindergarten.md) — related
 - [Verbal WM correlates with intelligence but visuospatial WM does not in kindergarten children](verbal-wm-intelligence-visuospatial-null.md) — related
+- [Post-error slowing in EF shows no significant association with intelligence or WM in kindergarten children](pes-null-intelligence-wm-kindergarten.md) — related

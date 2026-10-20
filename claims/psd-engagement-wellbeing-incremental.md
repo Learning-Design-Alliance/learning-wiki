@@ -47,3 +47,5 @@ Hierarchical regressions on the full Study 1 sample (N = 753) tested incremental
 - [PSD dimensions correlate with trait curiosity, and playfulness correlates with designing fun but not designing competition, supporting the scale's convergent and discriminant validity](psd-convergent-discriminant-validity.md) — related
 - [A quasi-experimental PSD training intervention increased students' use of fun and competition when studying, with greater active learning, study task proactivity and absorption over time](psd-training-intervention-increases-use.md) — related
 - [Playful study design is measured as a two-dimensional construct of designing fun and designing competition, supported by exploratory and confirmatory factor analyses](psd-two-factor-structure.md) — related
+- [Locus of control is negatively correlated with and predicts subjective well-being, ranking second after self-esteem](locus-of-control-negatively-predicts-subjective-well-being.md) — related
+- [Exam grades correlate positively with designing competition and near-zero with designing fun in the Study 1 correlation table](designing-competition-exam-grades.md) — related

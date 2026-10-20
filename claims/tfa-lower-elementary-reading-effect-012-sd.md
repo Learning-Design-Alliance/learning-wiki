@@ -47,3 +47,4 @@ The report's key findings state that TFA teachers in lower elementary grades "ha
 - [TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies](tfa-positive-mathematics-achievement-effects.md) — related
 - [Teach For America teachers had no impact on student reading achievement](tfa-no-reading-achievement-impact.md) — reports the opposite
 - [No statistically significant TFA impacts were found for upper elementary grades (3 through 5) in reading or math or for other examined subgroups](tfa-no-significant-impacts-upper-elementary-other-subgroups.md) — related
+- [Teach For America teachers had a positive impact on student math achievement of about 15 percent of a standard deviation, equivalent to about one month of instruction](tfa-positive-math-achievement-impact.md) — related

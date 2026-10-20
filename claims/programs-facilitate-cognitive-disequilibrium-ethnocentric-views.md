@@ -46,3 +46,6 @@ Authors' program-design recommendation in the curriculum-content discussion, pre
 ## Related Claims
 - Egalitarian graduate program design supports culturally responsive leadership development — related
 - Interracial interaction is a key component of program design for developing culturally responsive leaders — related
+- [ACTA study of global leaders identified expertise components including reading people closely, bridging cross-cultural communication, and perspective taking](acta-global-leadership-expertise-components.md) — related
+- [Participants' prior knowledge about the historical event was entirely consistent with their own ethnic group's narrative, with none providing an alternative interpretation](prior-knowledge-ethnocentric-narrative-consistency.md) — related
+- [A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself](considering-the-opposite-reduces-bias.md) — related

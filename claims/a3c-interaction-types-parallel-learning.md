@@ -46,3 +46,4 @@ The editorial reports, attributing this to Jeong et al.'s framework paper in the
 
 - [Interaction in danmaku and discussion boards spanned A3C levels from attendance through cooperation, with collaboration rare and limited to knowledge discussions](a3c-joint-interaction-levels-in-scaled-mooc-tools.md) — a narrower finding that bears on this claim
 - [In a synchronous online environment, self-organization can be seen as a continuum, and there is strong interdependence between processes and content](self-organization-continuum-synchronous-online-interaction.md)
+- [Mass participation formats in online communities depend on the tools used (Danmaku versus discussion board)](mass-participation-depends-on-tools.md) — a narrower finding that bears on this claim

@@ -45,3 +45,4 @@ Qualitative theme from student interviews and comments in the after-school ethno
 ## Related Claims
 - [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related
 - [Students reported ChatGPT limitations in Quantum Theory learning: insufficient in-depth explanations, inability to interpret graphs or graphic equations, and occasional unexplainable mathematical errors](chatgpt-quantum-limitations-graphs-errors.md) — related
+- [Categorical and binary frameworks inscribed in the mathematics curriculum served as a context for reproducing existing categories through student surveys and graphs](curriculum-categories-reproduced-through-surveys-graphs.md) — related

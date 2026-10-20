@@ -47,3 +47,5 @@ Paired samples t-test on the co-regulated learning questionnaire within the expe
 - [Prospective teachers taught with CCCT outperformed a lecture-based control group on academic achievement (g = 0.839)](ccct-outperformed-lecture-achievement.md) — related
 - [Prospective teachers' qualitative feedback credited CCCT with communication, teamwork and engagement gains but noted unequal participation and time constraints](ccct-qualitative-strengths-challenges.md) — related
 - [Within-group achievement gains were significant for the CCCT group but not for the control group](ccct-within-group-achievement-gain.md) — related
+- [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) — related
+- [Training SRAE facilitators significantly increased their self-reported knowledge of self-regulation](srae-co-regulation-training-increases-self-regulation-knowledge.md) — related

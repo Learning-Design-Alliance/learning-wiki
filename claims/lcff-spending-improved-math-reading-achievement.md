@@ -54,3 +54,6 @@ Quasi-experimental analyses (Johnson, 2023, as reported here) exploiting the sta
 - [LCFF-induced spending increases reduced suspensions and expulsions, with larger effects for boys and the most pronounced effects for Black students](lcff-spending-reduces-suspension-expulsion-disparities.md) — related
 - Increases in per-pupil spending improve educational attainment, wages, and adult poverty outcomes, with stronger effects for low-income children — related
 - [Structural and fiscal conditions—including grade-3 class-size incentive cliffs and declining enrollment—jeopardize the bilingual teacher pipeline and program sustainability](structural-fiscal-risks-bilingual-pipeline-sustainability.md) — related
+- [Increases in school funding can improve student outcomes when funds support the specific needs of students](school-funding-improves-outcomes-when-targeted.md) — a broader claim this one bears on
+- [LCFF-induced spending increases reduced the probability of grade repetition, particularly in elementary school](lcff-spending-reduces-grade-repetition-elementary.md) — related
+- [Increased per-pupil spending across all 12 years of public school is associated with more completed education, higher wages, and reduced adult poverty, with larger effects for low-income children](per-pupil-spending-long-term-outcomes.md) — a broader claim this one bears on

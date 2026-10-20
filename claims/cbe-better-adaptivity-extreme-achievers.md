@@ -45,3 +45,6 @@ Adaptivity evaluation based on delta values (difference between item difficulty 
 ## Related Claims
 - [Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow](cbe-better-adaptivity-extreme-achievers-shallow-banks.md) — related
 - [The CBE and COLO engines met content specifications and recovered true scores well for the nine simulated MAP Growth tests](cbe-colo-comparable-content-validity-theta-recovery.md) — related
+- [Within a single administration, COLO administered more items and overexposed fewer items than the CBE, likely due to its randomesque exposure-control procedure](colo-better-within-administration-item-exposure.md) — related
+- [Marginal reliabilities of MAP Growth winter scores are comparable across engines and all in the 0.90s, with CBE showing slightly higher precision (lower SEM)](cbe-colo-reliability-comparable-cbe-higher-precision.md) — related
+- [Item exposure rates are comparable across engines, with most items below 10%, and the CBE Reading item-use rate is lower than COLO's](cbe-colo-item-exposure-comparable.md) — related

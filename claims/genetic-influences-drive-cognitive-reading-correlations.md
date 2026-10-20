@@ -47,3 +47,5 @@ Behavioral genetic analysis of 676 twin pairs (ages 8-16) found that "genetic co
 - [Common cognitive genetic variance is highly correlated with common reading genetic variance](common-cognitive-genetic-variance-correlates-with-reading-genetic-variance.md) — related
 - [Full-scale IQ is genetically related but not redundant with common cognitive variance](fsiq-genetically-related-not-redundant-with-common-cognitive-variance.md) — a narrower finding that bears on this claim
 - [Skill-specific genetic variance in working memory and processing speed predicts reading components](skill-specific-genetic-variance-predicts-reading-components.md) — a narrower finding that bears on this claim
+- [Reading comprehension variance is fully shared with listening comprehension and word reading](reading-comprehension-variance-fully-shared.md) — related
+- [Children's challenging behaviour, not ability (IQ), is the major source of demand on teachers, and one child's disruptive behaviour can reduce classmates' access to the educator](challenging-behaviour-major-teacher-demand.md) — related

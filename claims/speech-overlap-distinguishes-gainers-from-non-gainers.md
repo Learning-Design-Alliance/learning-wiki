@@ -62,4 +62,7 @@ Pairwise Kruskal-Wallis analysis of Calm Tinkerers versus Silent Wanderers (Tabl
 
 
 ## Related Claims
--
+- [Calm Tinkerers display significantly lower negative valence and arousal than Silent Wanderers, while Expressive Explorers show high arousal and negative valence similar to Silent Wanderers](affect-distinguishes-calm-tinkerers-from-silent-wanderers.md) — related
+- [Among 32 dyads in an open-ended collaborative tabletop task, three behavioral clusters split into two learning (gainer) profiles and one non-learning profile despite similar task performance](three-multimodal-collaborative-learning-profiles.md) — a broader claim this one bears on
+- [Multimodal behavioral profiles of dyads' collaborative learning are identifiable by integrating video, audio, and log data, with emergent processes more explanatory than individual behaviors](multimodal-profiles-dyad-collaboration.md) — a broader claim this one bears on
+- [The two gainer profiles differ in problem-solving strategy: Expressive Explorers enact global exploration with reflection on past solutions, Calm Tinkerers enact local exploration with in-the-moment correction](global-versus-local-exploration-strategies-gainers.md) — related

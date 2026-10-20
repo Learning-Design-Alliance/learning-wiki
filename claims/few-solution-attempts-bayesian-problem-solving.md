@@ -46,3 +46,5 @@ Exploratory analysis of the problem-solving worksheets of the 38 students in the
 - [PS-I effects did not replicate in all domains: null sequence effects in Bayesian reasoning, javelin throwing, and inquiry-skill sequencing](ps-i-null-results-new-domains.md) — related
 - [Instruction before problem solving leads students to generate fewer but higher-quality solution attempts than problem solving before instruction](instruction-first-fewer-better-solution-attempts.md) — related
 - [Students' generated solutions rarely matched the erroneous solutions included in the explicit instruction phase](mismatch-generated-instructed-solutions-bayesian.md) — related
+- [In a Bayesian-reasoning replication, problem-solving prior to instruction (PS-I) showed no significant advantage over instruction-first (I-PS) on conceptual knowledge](ps-i-no-effect-conceptual-bayesian-replication.md) — related
+- [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) — related

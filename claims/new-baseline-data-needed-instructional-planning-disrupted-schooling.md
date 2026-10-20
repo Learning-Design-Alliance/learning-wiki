@@ -47,3 +47,4 @@ A guidance premise from NCSI's learning considerations list, stating that "New b
 - [Progress monitoring is needed to guide next steps in planning and providing instruction and interventions](progress-monitoring-guides-next-steps-instruction.md) — related
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — a broader claim this one bears on
 - [IEP processes should be followed to ensure students' due process protections, including amendment, revision, and new data informing present levels](iep-processes-due-process-protections.md) — related
+- [Teachers need support to meet students' varied needs following weather-related disruptions](teachers-need-support-after-weather-disruptions.md) — related

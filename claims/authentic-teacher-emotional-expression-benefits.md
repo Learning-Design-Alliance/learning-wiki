@@ -46,4 +46,4 @@ The review reports, citing Burić & Frenzel (2021) and Keller & Becker (2021), t
 - [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
--
+- [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — related

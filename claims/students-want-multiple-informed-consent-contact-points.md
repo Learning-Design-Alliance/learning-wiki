@@ -44,3 +44,4 @@ Supplemental multiple-choice survey item, not tied to the hypotheses, asked when
 
 ## Related Claims
 - [Detailed disclosure does not make students more conservative about who should have access to their educational data](disclosure-no-effect-access-opinions.md) — related
+- [Detailed data disclosure statements, in either text or nutrition-label format, increase university students' confidence that specific data points are collected compared to a generic disclosure](detailed-disclosure-increases-confidence-data-collected.md) — related

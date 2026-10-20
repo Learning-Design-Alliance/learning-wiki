@@ -66,3 +66,8 @@ Mixed ANOVA on transfer items (N = 155, immediate to 3-week delayed posttest) pr
 - [Explicit CT instruction combined with practice improves students' unbiased reasoning on instructed and practiced heuristics-and-biases items from pretest to immediate posttest](ct-instruction-practice-improves-unbiased-reasoning.md)
 - [Solving practice problems invested less mental effort than contrasting or erroneous examples, contrary to the worked-example-effect hypothesis](practice-problems-lower-mental-effort.md)
 - [Time-on-task during practice was significantly higher for correct and erroneous examples than for contrasting examples and practice problems](time-on-task-example-conditions-higher.md)
+- [Erroneous examples produce significantly higher delayed-test learning gains than problem solving for decimal learning](erroneous-examples-delayed-learning-gain-decimals.md) — related
+- [Contrasting erroneous examples were more often effective than correct examples and problem-solving, sometimes equally or more effective than erroneous examples](con-errex-more-often-effective.md) — reports the opposite
+- [Erroneous examples and problem solving do not differ significantly on an immediate posttest](erroneous-examples-no-immediate-difference.md) — related
+- [Performance on practiced reasoning items and on transfer items continued to improve after 3-week and 9-month delays](ct-performance-improves-further-after-delay.md) — related
+- [The delayed erroneous-examples benefit holds for both low and high prior knowledge students](erroneous-examples-benefit-both-prior-knowledge-levels.md) — related

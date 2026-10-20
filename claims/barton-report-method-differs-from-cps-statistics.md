@@ -47,3 +47,4 @@ Methodological statement in the report's introduction explaining that it uses a 
 - Systemwide CPS cumulative dropout percentages rose from 8.1 to 33.1 over five years — related
 - [The Illinois State Board of Education's graduation-rate method overestimates graduation rates where large numbers of students transfer between schools, as in Chicago](isbe-method-overestimates-graduation-rate.md) — related
 - [Over 40 percent of Chicago Public Schools students drop out by age 19, with a slight downward trend across the 1991–1994 cohorts](cps-cohort-dropout-over-40-percent-slight-decline.md) — related
+- [Including unverified transfers as dropouts yields dropout rates about 4 percent higher at age 19 and eliminates the downward trend](unverified-transfers-raise-rates-remove-trend.md) — related

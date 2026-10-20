@@ -47,3 +47,5 @@ Classification evaluation across the three constructivist question roles. The ar
 - Simple classifiers (Logistic Regression, Naive Bayes) outperformed tree-based models on this small dataset — related
 - Random Forest is the most commonly used NLP-supporting algorithm in LA, while deep learning models (LSTM, BERT) have been widely adopted since 2021 — related
 - [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
+- [Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration](role-design-facilitates-higher-order-behavior-transitions.md) — related
+- [In Study 2, Question Autocompletion was widely adopted and the proportion of knowledge-based questions increased significantly across session stages](question-autocompletion-scaffolds-knowledge-based-questions.md) — related

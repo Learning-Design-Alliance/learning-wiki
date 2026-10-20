@@ -45,3 +45,10 @@ Regression and descriptive comparison of students grouped by total utterances (b
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
 - [Self-reported LLM usage frequency shows Holm-corrected associations with all five baseline AI perception outcomes, strongest for complex-task trust, accuracy trust, and critical-thinking risk](usage-frequency-associates-all-five-baseline-ai-perceptions.md) — related
 - [GenAI/LLM modalities provide the strongest evidence for cognitive and communication outcomes, while chatbots show weak independent effects](genai-llm-strongest-evidence-cognitive-communication.md) — related
+- [Acceptance scores are broadly held across learner characteristics, with frequency of use the only significant and weak predictor](acceptance-frequency-of-use-weak-predictor.md) — related
+- [The article claims AI connectedness demonstrates incremental validity beyond usage frequency, anthropomorphism, and AI attachment](ai-connectedness-incremental-validity-claim.md) — related
+- [Growing Achievers used StatBot significantly more than Declining Performers, driven mainly by initiating new inquiries](growing-achievers-out-use-declining-performers.md) — related
+- [Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters](clustering-report-writers-lower-exam-scores.md) — related
+- [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
+- [Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms](llm-users-lower-midterm1-score-gap-narrowed.md) — related
+- [Student LLM usage patterns varied across data science courses: Course-BD showed the highest frequency and over-reliance with near-zero perceived learning effect](llm-usage-varied-across-data-science-courses.md) — related

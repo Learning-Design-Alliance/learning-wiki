@@ -47,3 +47,4 @@ Study 1a online experiment with 163 undergraduates reading biology texts. Draw j
 - [Text-only students based draw judgments on internal mental images while image-condition students recalled external visuals](internal-vs-external-visual-cue-use-draw-judgments.md) — related
 - [In Studies 1a and 2, instructional visuals produced no significant difference in test performance or in test and explain relative metacomprehension accuracy](instructional-visuals-no-effect-test-performance-or-test-explain-accuracy.md) — related
 - [Students reported using visual cues for draw judgments but not for test or explain judgments](visual-cues-reported-only-for-draw-judgments.md) — related
+- [Students using representation-based cues showed higher draw relative accuracy than those using heuristic cues](representation-based-cues-support-draw-relative-accuracy.md) — related

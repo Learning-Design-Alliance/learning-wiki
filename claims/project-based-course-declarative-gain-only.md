@@ -43,4 +43,7 @@ The commentary reports Dinsmore and colleagues' study using the Model of Domain 
 
 
 ## Related Claims
--
+- [Participation in a collaborative, project-based engineering design course improved declarative knowledge but not procedural or principled knowledge or personal interest](dinsmore-project-based-declarative-only.md) — possibly the same claim (merge candidate)
+- [Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades](studio-authentic-motivation-beyond-grades.md) — reports the opposite
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Empirical studies of constructivist learning environments do not always show the expected learning outcomes](constructivist-effects-not-always-expected.md) — a broader claim this one bears on

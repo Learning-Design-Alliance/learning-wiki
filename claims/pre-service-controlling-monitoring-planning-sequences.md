@@ -65,3 +65,4 @@ The same process-mining comparison of challenge-to-regulation transitions; socio
 - [In-service teachers more often followed socioemotional challenges with monitoring, and the groups differed in recurrent self-loops of controlling versus monitoring](in-service-socioemotional-monitoring-and-self-loops.md) — related
 - [Most coding categories showed no statistically significant frequency differences between pre-service and in-service teachers](no-frequency-differences-remaining-categories.md) — related
 - [Pre-service teachers used sociocognitive controlling strategies significantly more frequently than in-service teachers during collaborative problem-solving](pre-service-higher-sociocognitive-controlling-frequency.md) — related
+- [In-service teachers used motivational regulation significantly more frequently than pre-service teachers during collaborative problem-solving](in-service-higher-motivational-regulation-frequency.md) — related

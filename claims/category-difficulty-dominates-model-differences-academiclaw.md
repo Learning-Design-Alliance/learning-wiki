@@ -45,3 +45,8 @@ Domain-level analysis of the six-model evaluation (Table 4 and Figure 4), report
 ## Related Claims
 - [Risk category explains the largest share of variation in educational attack success, far more than LLM usage context or curriculum topic](risk-category-dominates-educational-safety-variance.md) — related
 - [AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness](agents-differ-knowledge-not-role-performance.md) — related
+- [The knowledge base supported downstream expert-level analysis, yielding 1,267 risk items across 81 categories and 14 domains](knowledge-base-supported-1267-risk-items.md) — related
+- [In the agent-based model, task difficulty and AI quality set the baseline level of overreliance, with difficulty the dominant global factor](simulation-task-difficulty-ai-quality-set-overreliance-baseline.md) — related
+- [Across 17 frontier models, Stage 1 pedagogical-judgment scores are high (mean 0.893) while rank correlations with Stage 2 (ρ=0.24) and Stage 3 (ρ=0.21) are weak, with workflow scores topping out at 0.704](teacharena-stage-rank-reshuffling.md) — related
+- [Model performance varies by task category, with Basic Geometry easiest and Spiral consistently the most challenging category](spiral-hardest-basic-geometry-easiest-categories.md) — a narrower finding that bears on this claim
+- [Within General Capability, model spread concentrates in competition mathematics (AIME), which dominates the aggregate score](aime-dominates-general-capability-spread.md) — related

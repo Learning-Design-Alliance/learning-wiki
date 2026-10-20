@@ -47,3 +47,4 @@ Think-aloud ANOVA from the same experiment: entertainment-goal readers made more
 - [Readers with a study goal generate more backward/explanatory inferences during reading than readers with an entertainment goal](study-goal-more-explanatory-inferences.md) — related
 - [Readers with a study goal generate more forward/predictive inferences during reading than readers with an entertainment goal](study-goal-more-predictive-inferences.md) — reports the opposite
 - [In a follow-up self-paced reading study, readers with a study goal read considerably more slowly than readers with an entertainment goal](study-goal-slower-reading-times.md) — related
+- [Readers with a study goal paraphrase and repeat text more often than readers with an entertainment goal](study-goal-more-paraphrase-repetition.md) — related

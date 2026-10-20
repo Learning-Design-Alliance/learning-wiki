@@ -45,3 +45,4 @@ Whole-brain multiple regression including age and estimated IQ as covariates, ru
 ## Related Claims
 - [FIR analysis shows adults sustain DLPFC, RLPFC and superior parietal activation for relational integration through later time-bins, whereas children's integration-specific activation appears only in the first time-bins and late DLPFC activation is tied to REL-1](fir-sustained-integration-adults-early-children.md) — related
 - [Adults show sustained RLPFC activation for REL-2 problems, whereas children's early RLPFC differentiation of REL-2 from REL-1 is not sustained across the trial](rlpfc-sustained-integration-adults-not-children.md) — related
+- [Children show initially reduced DLPFC activation relative to adults for REL-1 and REL-2 trials, but sustained DLPFC activation for REL-1 problems in the later trial phase](dlpfc-immature-activation-children-rel1.md) — related

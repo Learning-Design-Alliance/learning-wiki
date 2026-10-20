@@ -50,3 +50,4 @@ Authors' discussion-section interpretation attributing this to Gazzaley and Rose
 - The review reports that one-year-olds' exploration covaries with attachment, occurring most when the mother is present — related
 - [Adolescents classified as impatient are more likely to drop out of high school even when they state an intention to finish](adolescent-impatience-predicts-high-school-dropout.md)
 - [Excessive smartphone use in adolescents is associated with reduced frontostriatal connectivity and greater cortisol-related withdrawal symptoms](excessive-smartphone-frontostriatal-cortisol.md)
+- [A majority of young children make choices consistent with hyperbolic discounting, preferring immediate over larger delayed rewards](children-hyperbolic-discounting-bettinger-slonim.md) — related

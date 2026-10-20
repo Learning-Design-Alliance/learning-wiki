@@ -50,3 +50,4 @@ The authors call the size surprising, since creativity is usually stressed at la
 ## Related Claims
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)
+- [General and fluid intelligence correlate strongly with mathematics achievement (r = .41 to .62), and the fluid-intelligence correlation is larger in older samples](intelligence-correlates-strongly-with-math-achievement.md) — related

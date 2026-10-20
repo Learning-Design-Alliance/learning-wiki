@@ -50,3 +50,4 @@ The report's federal funding section states that when IDEA was enacted in 1975 C
 - [From 2012 to 2017, average inflation-adjusted per-pupil revenue and expenditure were greater in rural Utah districts than in non-rural districts](utah-rural-higher-per-pupil-revenue-expenditure.md) — related
 - [States draw on federal, state, and local funding sources to develop and sustain statewide leadership initiatives](funding-sources-statewide-leadership-initiatives.md) — related
 - Michigan's partial reimbursement system shifts special education costs onto districts, which divert more than $500 per pupil of general education funds on average — related
+- [California's statewide high-cost pools are among the lowest-funded in the nation, and SELPA directors report paperwork burdens outweigh their benefit](california-high-cost-pools-lowest-funded.md) — related

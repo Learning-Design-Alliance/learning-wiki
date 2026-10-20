@@ -45,3 +45,7 @@ Cross-sectional secondary analysis of the 2016-17 NSCH (n = 44,686 children ages
 ## Related Claims
 
 - [Moderation by race/ethnicity: White children show significantly greater flourishing decrements as ACEs increase, while Black and Hispanic children show steeper declines in family resilience](race-moderation-white-steeper-flourishing-decline.md)
+- [ACE exposure is unevenly distributed: children below 400% FPL and Black and Hispanic children have higher prevalence of two or more ACEs](ace-prevalence-disparities-fpl-and-race.md) — related
+- [Family resilience partially mediates the association between ACEs and child flourishing, with mediation proportions varying by race/ethnicity and income](family-resilience-partially-mediates-aces-flourishing.md) — related
+- [The moderated-mediation effect of family resilience on the ACEs-curiosity-in-learning relationship is significantly greater for Black than for White children](moderated-mediation-curiosity-greater-black-children.md) — related
+- [Above-FPL children improved more in staying calm and in control as family resilience increased, but no significant FPL moderated-mediation effects emerged](fpl-moderation-calm-control-no-moderated-mediation.md) — related

@@ -50,3 +50,10 @@ The authors read the pattern through the internal/external frame of reference mo
 ## Related Claims
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)
+- [Verbal achievement, reading and language abilities correlate strongly with mathematics achievement (r = .42 to .67)](verbal-and-reading-skills-correlate-strongly-with-math-achievement.md) — related
+- [Mastery goals correlate positively (r = .17) and performance-avoidance goals negatively (r = −.17) with mathematics achievement, while performance-approach goals barely do](mastery-goals-correlate-positively-and-avoidance-goals-negatively-with-math-achievement.md) — related
+- [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related
+- [Spatial ability correlates moderately with mathematics achievement (r = .25), less strongly than verbal ability](spatial-ability-correlates-moderately-with-math-achievement.md) — related
+- [Need for cognition correlates moderately with mathematics achievement (r = .25)](need-for-cognition-correlates-moderately-with-math-achievement.md) — related
+- [Self-regulation and metacognition correlate strongly with mathematics achievement (r = .42 and .37)](self-regulation-and-metacognition-correlate-strongly-with-math-achievement.md) — related
+- [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related

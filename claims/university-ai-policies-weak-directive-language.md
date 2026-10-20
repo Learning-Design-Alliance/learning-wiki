@@ -46,3 +46,4 @@ Clarity-strength analysis of the 130-policy corpus, measured as the difference b
 - [Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment](few-business-schools-own-ai-policies.md) — related
 - [In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak](policy-audit-collection-strong-ai-accountability-weak.md) — related
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
+- [Perceived usefulness has the strongest standardized positive association with trust in AI (β = 0.402), with institutional policy clarity positively but more weakly associated (β = 0.223) in the pooled OLS trust model](usefulness-and-policy-clarity-associate-with-trust.md) — related

@@ -47,3 +47,4 @@ The review reports that it reviews "emerging data pointing to the effectiveness 
 - [Exposure to adverse early circumstances affects the developing brain in ways that increase risk for later problems](adversity-affects-developing-brain-increasing-risk.md)
 - [Children exposed to early adversity are at increased risk for a broad range of developmental difficulties affecting both cognitive and emotional adjustment](early-adversity-increases-developmental-risk-cognitive-emotional.md)
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md)
+- [Maltreated and neglected children show less accurate facial emotion identification, difficulty with positive emotions, and higher rumination](maltreated-children-emotion-identification-deficits.md) — related

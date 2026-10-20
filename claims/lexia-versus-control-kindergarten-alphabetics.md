@@ -46,3 +46,4 @@ Randomized comparison in Gale (2006) of Lexia Early Reading versus control among
 - [In a Florida RCT, Earobics® outperformed no-supplement control on several DIBELS subtests but showed no significant advantage over Lexia Early Reading](earobics-gale-2006-versus-control-and-lexia.md) — related
 - [Lexia Early Reading shows no significant advantage over Earobics on alphabetics, with several negative effects substantively important](lexia-versus-earobics-alphabetics-comparison.md) — related
 - [Lexia Reading shows no discernible effects on reading fluency](lexia-reading-no-discernible-fluency.md) — related
+- [Subgroup advantages for low performers and Title I students exceed full-sample effects in two qualifying studies](lexia-subgroup-advantages-low-performers-title-i.md) — related

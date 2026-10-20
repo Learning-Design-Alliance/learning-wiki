@@ -46,3 +46,4 @@ Transition network analysis (TNA) across all four IA cases, visualizing transiti
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Qualitative case narratives show the chatbot shifted stakeholders from narrow, visually driven readings toward conditional, context-aware interpretations](chatbot-shifts-interpretations-toward-context-aware.md) — related
 - [A FACTRIA-aware chatbot increases the number of biasing sub-factors stakeholders consider when interpreting institutional analytics visualizations](factria-chatbot-increases-subfactors-considered.md) — related
+- [Learner-chatbot EFL writing interaction follows two dominant behavioural loops: a Revision Loop and a Chat Loop](penny-revision-and-chat-loops.md) — related

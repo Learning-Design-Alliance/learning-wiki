@@ -44,4 +44,5 @@ In the same 64-student experiment, the article reports that "Convergence with re
 
 
 ## Related Claims
--
+- [Learning partners converge strongly in their use of knowledge resources during collaboration](strong-convergence-resource-use-during-collaboration.md) — reports the opposite
+- [The equalizing effect of AI assistance operates through both content and writing subcomponents, with incomplete convergence in each](ai-equalizing-effect-through-content-and-writing.md) — related

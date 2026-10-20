@@ -47,3 +47,4 @@ Discussion-section interpretation of the cross-case thematic analysis: AI infras
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — related
 - [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) — related
 - [AI chatbot access lowers teachers' perceived cognitive effort during learning design](ai-access-lowers-cognitive-effort-learning-design.md) — related
+- [Teachers combined high concern about education's future with belief that change requires active effort and that AI is associated with progress](concern-effort-progress-perceptions.md) — related

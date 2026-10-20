@@ -70,3 +70,4 @@ SES-stratified models following a significant safety × SES interaction (p = 0.0
 - [More positive parenting is associated with higher parent-reported curiosity at kindergarten in a nationally representative US sample](positive-parenting-associated-higher-kindergarten-curiosity.md) — related
 - [In very safe neighborhoods, curiosity does not differ between lower-resourced and higher-resourced children, while a gap appears in fairly safe neighborhoods](very-safe-neighborhood-closes-curiosity-gap.md) — related
 - [Higher-quality home environments are associated with higher parent-reported curiosity at kindergarten](home-environment-quality-associated-kindergarten-curiosity.md) — related
+- [Enrollment in center-based preschool was not associated with parent-reported curiosity at kindergarten](center-based-preschool-not-associated-curiosity.md) — related

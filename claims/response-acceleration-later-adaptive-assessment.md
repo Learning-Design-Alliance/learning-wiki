@@ -44,3 +44,6 @@ Large-scale empirical analysis of response time data from the adaptive NWEA MAP 
 
 ## Related Claims
 - [Response acceleration is heterogeneous by ability: lower ability estimates are associated with larger increases in acceleration](acceleration-heterogeneous-by-estimated-ability.md) — a narrower finding that bears on this claim
+- [Response-time reductions lead to lower accuracy relative to expectation for lower ability students](acceleration-lower-accuracy-low-ability-students.md) — related
+- [Rapid-guessing behavior occurs on only about 1% of item responses in a commercially available low-stakes assessment](rapid-guessing-one-percent-commercial-low-stakes-assessment.md) — related
+- [Post-error slowing occurs in the 2-back condition despite absence of feedback](post-error-slowing-two-back-no-feedback.md) — related

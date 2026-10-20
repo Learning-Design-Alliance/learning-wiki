@@ -47,3 +47,4 @@ The article's title states its research question: whether gaps are an "achieveme
 - [Differential student test effort may bias achievement gap estimates](differential-test-effort-may-bias-gap-estimates.md) — a broader claim this one bears on
 - [Basic conclusions about male-female achievement gaps and changes in gaps as students progress through school may change when models account for test effort](male-female-gap-conclusions-sensitive-to-test-effort.md) — a narrower finding that bears on this claim
 - [Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps](rapid-guessing-generally-does-not-change-gap-interpretations.md) — reports the opposite
+- [Time students spend on math test questions is studied as a potential source of information about motivation and self-efficacy](math-response-times-motivation-self-efficacy.md) — related

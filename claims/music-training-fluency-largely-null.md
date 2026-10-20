@@ -42,3 +42,4 @@ The review's fluency domain covered seven articles with 572 children (n = 261 in
 
 ## Related Claims
 - [Unmedicated children with ADHD aged 8-13 score higher than matched controls on TTCT-Figurative Fluency](adhd-children-higher-ttct-fluency.md) — related
+- [In adolescents, prior music training was associated with faster test completion times but no executive function performance differences](music-training-adolescents-faster-completion-times.md) — related

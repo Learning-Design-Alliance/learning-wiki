@@ -166,3 +166,10 @@ Open questions: how durable the recall advantage is over long retention interval
 - [Basic DCT mechanisms can be used to model diverse educational phenomena](dct-mechanisms-model-educational-phenomena.md) — a broader claim this one bears on
 - [Learning from visual displays often yields disappointing outcomes because displays pose substantial demands on learners](visual-displays-pose-demands-disappointing-outcomes.md) — related
 - [Low-WMC readers recall fewer correct causes when text contains seductive illustrations compared with nonillustrated text](low-wmc-seductive-essay-detriment.md) — related
+- [People acquire different knowledge from different media, the closest indirect evidence for symbolic encoding specificity](different-media-yield-different-knowledge-encoding.md) — related
+- [Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school students but not higher-prior-knowledge ones, with the effect eliminated for younger middle-school children](expertise-reversal-iconic-scaffolds-development.md) — related
+- [Material-oriented interventions such as complexity reduction, cueing/signaling, and text-picture integration are empirically tested support procedures for visual displays](material-oriented-interventions-tested.md) — related
+- [Working memory capacity interacts with illustration type: seductive illustrations impair comprehension only for low-WMC readers](wmc-moderates-seductive-details-effect.md) — related
+- [Persistence of inscriptions in the VMT environment supported students explaining postings and establishing collaborative activity](persistence-affordance-supports-collaborative-explanation.md) — related
+- [Generative processing principles: words with pictures and conversational-style words improve transfer over words alone and formal style](generative-processing-principles-mayer-2008.md) — related
+- [Congruent pictures paired with text facilitate reading comprehension better than text alone or pictures alone](congruent-pictures-with-text-facilitate-comprehension.md) — possibly the same claim (merge candidate)

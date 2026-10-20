@@ -48,3 +48,4 @@ Cross-sectional multimodal study of 62 medical residents in 19 teams completing 
 - [SSRL 'Facilitation' codes differ between the 'Beginning' and both the 'Escalation' and 'Peak' segments of medical simulations](facilitation-codes-differ-across-segments.md) — related
 - [SRL 'Execution' strategy codes differ between the 'Beginning' and both the 'Escalation' and 'Peak' segments of medical simulations](execution-codes-differ-across-segments.md) — related
 - [SRL 'Evaluation' strategy codes differ between the 'Beginning' and 'Peak' segments of medical simulations](evaluation-codes-differ-beginning-peak.md) — related
+- [In case examples, leaders and team members showed markedly different average peaks-per-segment EDA values during the same simulation segments](leader-team-member-eda-divergence-case-examples.md) — related

@@ -45,3 +45,7 @@ Moderation regression (Table 4, Model 6) showed a significant TAC × DC interact
 ## Related Claims
 - [Digital competency strengthens the positive relationship between teacher–AI collaboration and psychological availability](digital-competency-strengthens-tac-availability-link.md) — related
 - [Work alienation mediates a negative pathway from teacher–AI collaboration to work engagement](work-alienation-mediation-teacher-ai-engagement.md) — related
+- [Teacher–AI collaboration is positively related to university teachers' work engagement](teacher-ai-collaboration-positively-related-work-engagement.md) — related
+- [Inattention moderates how baseline competence frustration and baseline autonomy translate into perceived AI benefits, weakening both positive associations](inattention-moderates-ai-benefit-associations.md) — related
+- [Learning happens best when students feel a sense of belonging, while alienation and exclusion create cognitive barriers](belonging-reduces-cognitive-barriers.md) — related
+- [Psychological availability mediates the positive pathway from teacher–AI collaboration to work engagement](psychological-availability-mediation-teacher-ai-engagement.md) — related

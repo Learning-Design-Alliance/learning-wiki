@@ -47,3 +47,4 @@ Results section of the nine-model evaluation of ELBench, with 95% bootstrap conf
 - [Within General Capability, model spread concentrates in competition mathematics (AIME), which dominates the aggregate score](aime-dominates-general-capability-spread.md) — related
 - [The two education-specialized models lead neither education module, and the improvement from education-specific post-training is small relative to differences in general capability](education-specialized-models-lead-neither-education-module.md) — related
 - [Claude Opus 4.8 has the highest overall score (0.803) and is the only model ranking in the top three on all three stages, yet does not saturate situated tutoring (0.773) or workflows (0.704)](claude-opus-48-highest-overall-unsaturated.md) — related
+- [Statistical tests show significant grading differences among nearly all pairs of LLMs, with only 7 of 153 pairs statistically indistinguishable](friedman-posthoc-llm-grading-pairs-differ.md) — related

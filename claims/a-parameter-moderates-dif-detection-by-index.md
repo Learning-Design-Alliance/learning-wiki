@@ -49,3 +49,5 @@ Per-item detection rates from Table 5 for studied items with a-parameters of .55
 - [Lord's chi-square identified more DIF items than Raju's unsigned area in the without-purification condition](lords-chi-square-flags-more-dif-items-than-raju-ua.md) — related
 - [The chi-square significance test for NC-DIF is overly sensitive at large sample sizes, requiring an empirical cutoff value](nc-dif-chi-square-overly-sensitive-large-samples.md) — related
 - Type of DIF affected detection: nonuniform DIF items with higher a-parameters were not detected whereas lower a-parameter items were — related
+- [Type I error rates of all three polytomous DIF indices increase as the number of DIF items and DIF magnitude increase](dif-type-i-error-increases-with-dif-items-and-magnitude.md) — related
+- [Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates](polytomous-dfit-factors-little-effect.md) — related

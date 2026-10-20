@@ -62,4 +62,5 @@ In the same regression analysis of PERTS subscale means on self-efficacy, gender
 
 
 ## Related Claims
--
+- [Negative stereotype salience combined with high ethnic self-identification inhibits academic performance, while positive stereotypes facilitate it](stereotype-threat-ethnic-identity-performance.md) — related
+- [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related

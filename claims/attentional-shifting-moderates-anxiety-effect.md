@@ -67,3 +67,4 @@ Parallel regression in the Results section using ACS focusing-subscale scores as
 ## Related Claims
 - [Public speaking anxiety is associated with poorer judged speech performance only among individuals low in attentional control](attentional-control-buffers-speech-anxiety-performance.md) — a broader claim this one bears on
 - [Speech length mediates the anxiety-to-judged-quality link only for individuals low in attentional control](moderated-mediation-speech-length-low-acs.md) — related
+- [Greater public speaking anxiety correlates with shorter and more poorly received speeches](speech-anxiety-correlates-poorer-performance.md) — related

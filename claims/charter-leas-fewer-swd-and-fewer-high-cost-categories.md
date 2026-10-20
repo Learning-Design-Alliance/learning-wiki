@@ -47,3 +47,4 @@ Descriptive analysis of DataQuest 2018/19 data (Figure E-4, Table 2) reports cha
 - [South Carolina charter schools enroll larger shares of white students and smaller shares of students in poverty, ELLs, and special education students than TPS](sc-charter-demographic-composition-differs.md) — a broader claim this one bears on
 - [Additional special education costs vary substantially by primary disability category](disability-category-cost-variation.md) — related
 - [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](rising-need-share-amid-shrinking-enrollment.md) — related
+- [Special education enrollment rose from 6.4 to 7.0 million students (12.9 to 13.7 percent of public enrollment) between 2011–12 and 2017–18](special-education-enrollment-growth-2011-2018.md) — related

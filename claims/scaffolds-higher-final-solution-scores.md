@@ -48,3 +48,6 @@ Repeated-measures ANOVA on rubric-scored final solutions from 11 groups. Scores 
 ## Related Claims
 - [Scaffolded ill-structured tasks elicit a higher proportion of solution-evaluation (P4) turns and a lower proportion of problem-solving (P3) turns than non-scaffolded tasks](scaffolds-shift-cps-turn-proportions-p3-p4.md) — related
 - [Groups' distribution of the four problem-solving processes deviated less from the ideal distribution (lower Gini coefficients) on scaffolded than non-scaffolded tasks](scaffolds-lower-gini-cps-process-distribution.md) — related
+- [Video-graph analysis shows scaffolded tasks produced more diverse process episodes, more fluent transitions between processes, and more P3–P4 oscillation than non-scaffolded tasks](scaffolds-video-graph-episode-diversity-transitions.md) — related
+- [The scaffolding intervention unintentionally increased small groups' independent working time, roughly doubling it from premeasurement to postmeasurement](scaffolding-intervention-increases-independent-working-time.md) — related
+- [Teachers who completed a scaffolding intervention program increased the contingency of their support far more than non-participating teachers](scaffolding-intervention-increases-teacher-contingency.md) — related

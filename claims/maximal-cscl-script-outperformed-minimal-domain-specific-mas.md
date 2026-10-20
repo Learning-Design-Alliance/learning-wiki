@@ -43,4 +43,7 @@ Experiment 1 ANCOVA comparing CSCL script conditions on domain-specific MAS with
 
 
 ## Related Claims
--
+- [In Experiment 1, dyads that more often chose maximum CSCL scaffolding had lower post-test socio-discursive MAS](more-maximal-script-choices-correlated-lower-socio-discursive-mas.md) — related
+- [In Experiment 1, self-regulation skills significantly predicted socio-discursive MAS only in the adaptable CSCL script condition](self-regulation-predicts-socio-discursive-mas-adaptable-script.md) — related
+- [Self-regulation skills are particularly needed when learning with minimally structured or adaptable collaboration scripts in CSCL](self-regulation-needed-minimally-structured-adaptable-scripts.md) — related
+- [Effects of collaboration scripts combined with heuristic worked examples on mathematical argumentation skills depend on prior knowledge and working-memory capacity, consistent with a Matthew Effect](script-worked-example-fading-matthew-effect.md) — related

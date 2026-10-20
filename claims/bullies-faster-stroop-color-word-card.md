@@ -41,4 +41,5 @@ Kruskal–Wallis testing of the Victoria Stroop Color-Word Test across the four 
 
 
 ## Related Claims
--
+- [No significant group differences in Stroop color and word card times or in error rates on any Stroop card](stroop-null-results-color-word-cards-errors.md) — related
+- [Victim group children take longer on Trail Making Test Part B than bullies, indicating lower cognitive flexibility in victims](victims-longer-tmt-b-lower-cognitive-flexibility.md) — related

@@ -43,4 +43,8 @@ ANCOVA on perceived difficulty (extraneous cognitive load) with prior knowledge 
 
 
 ## Related Claims
--
+- [All three drawing conditions scored better than the control condition on the drawing test and performed equally well](drawing-outperforms-control-drawing-test.md) — related
+- [Neither global nor local drawing support increased drawing quality, and local support significantly decreased it relative to unsupported drawing](drawing-support-did-not-increase-quality.md) — related
+- [Prior knowledge and intervention condition predict repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult](prior-knowledge-and-prompting-moderate-load-and-interest.md) — related
+- [Drawing provided no benefit for lower-order recognition knowledge, and the local support condition scored significantly lower than control](drawing-no-recognition-benefit-local-worse.md) — related
+- [Students guided to use LiquidText show lower acceptance of tablets for multiple document work than controls despite better performance](liquidtext-guidance-acceptance-paradox.md) — related

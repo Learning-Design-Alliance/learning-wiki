@@ -46,3 +46,5 @@ Distribution analysis shown in Figure 7 of CALPADS enrollment data for 2022–23
 - [Boys are disproportionately represented among students designated as LTEL7 in California (56% vs. 51% of other ever-ELs)](boys-disproportionately-represented-ltel7-california.md) — related
 - [The proportion of ever-EL students designated as LTEL7 decreases progressively after 6th grade, from about 30% in 7th grade to about 17% in 12th grade](ltel7-proportion-decreases-after-sixth-grade.md) — related
 - [Special education needs are much more prevalent among California students designated as LTEL7 (28%) than other ever-EL peers (11%)](special-education-needs-more-prevalent-ltel7.md) — related
+- [The number of students classified as LTEL in California dropped from almost 380,000 (18% of ever-ELs) in 2021–22 to just over 226,500 (about 11%) in 2022–23](ltel-count-declining-post-pandemic.md) — related
+- [Most LTEL7 students in middle grades began California schooling in kindergarten, but by high school most entered after kindergarten](ltel7-kindergarten-start-declines-by-grade.md) — related

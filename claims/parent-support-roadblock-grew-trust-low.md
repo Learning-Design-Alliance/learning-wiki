@@ -45,3 +45,6 @@ Descriptive analysis of 2017 parent-connection survey items; the brief reports t
 ## Related Claims
 - [The same four roadblocks to school improvement topped principals' rankings across ten years of surveys, with subgroup contrasts in emphasis](cps-roadblocks-stable-top-four.md) — related
 - [Parental support for student learning is substantially higher in top-quartile schools than in bottom-quartile schools](parental-support-higher-top-quartile-schools.md) — related
+- [Latent class analysis of roadblock responses identified three roughly equally sized administrator groups—Limited, Moderate, and Considerable Roadblocks—differing in breadth and depth of concern](three-roadblock-severity-groups-latent-class.md) — related
+- [Students' reports of parental support for learning are far higher in top quartile schools, where two-thirds report moderate or very supportive parents](parental-support-for-learning-quartile-contrast.md) — related
+- [Teacher-parent interaction and trust are lower in bottom-quartile schools, and even top-rated schools show limited very strong trust](teacher-parent-interaction-trust-differences.md) — related

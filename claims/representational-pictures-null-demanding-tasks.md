@@ -45,3 +45,4 @@ Systematic review synthesis of studies of representational pictures with demandi
 ## Related Claims
 - [Cognitive skills are the most probable student characteristic to modify picture effects: low math performers do better without representational pictures, low reading-comprehension students better with them](cognitive-skills-moderate-picture-effects.md) — related
 - [Representational pictures relate to better word problem-solving performance only with relatively simple tasks, with the largest effects for first-position-of-the-unknown problems](representational-pictures-help-simple-word-problems.md) — related
+- [Decorative pictures show consistently null effects on elementary schoolers' word problem-solving performance regardless of task characteristics](decorative-pictures-null-effects.md) — related

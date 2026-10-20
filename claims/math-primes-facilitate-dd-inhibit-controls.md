@@ -65,3 +65,5 @@ Same experiment, control group. Math primes were slower than positive primes in 
 
 - [A significant three-way interaction of group, prime type and arithmetic operation governs arithmetic-affective priming, with DD children slower overall than controls](group-prime-operation-interaction-rt.md)
 - [Children with developmental dyscalculia respond faster to simple arithmetic targets after negative than positive affective primes, across all four arithmetic operations](dd-negative-prime-facilitation-arithmetic.md)
+- [Math anxiety in DD is specific to the math context and occurs in the absence of generalized anxiety](math-anxiety-specific-to-math-context-dd.md) — related
+- [Typically-developing children show the standard affective priming pattern, responding faster to arithmetic targets after positive than negative primes](control-positive-prime-facilitation-arithmetic.md) — related

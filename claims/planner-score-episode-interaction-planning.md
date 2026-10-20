@@ -43,4 +43,7 @@ In the multilevel regression of think-aloud protocols from 20 students, a signif
 
 
 ## Related Claims
--
+- [Planner and reviser questionnaire scores show frequency main effects on several online activities, with no interaction with episode](wsq-main-effects-online-activities.md) — reports the opposite
+- [No effects of reported planner or reviser scores were found on evaluating own text](no-effects-evaluating-own-text.md) — related
+- [Reported reviser scores interact with episode for reading the assignment, with the effect reversing from episode 2 onwards](reviser-score-episode-reading-assignment.md) — related
+- [The occurrence of six (meta)cognitive writing activities varies significantly across episodes of task execution](temporal-distribution-writing-activities.md) — a broader claim this one bears on

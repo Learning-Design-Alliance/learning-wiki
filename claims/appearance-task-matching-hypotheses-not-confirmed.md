@@ -45,3 +45,6 @@ In the N = 81 within-subjects experiment, participants had hypothesized higher t
 ## Related Claims
 - [The interaction between robot appearance and task on trust was only marginal, suggesting appearance may slightly modulate expectations without determining trust](marginal-robot-task-interaction-trust.md) — related
 - [Task type strongly determines trust in educational robots, with highest trust for procedural instruction, moderate trust for teaching, and lowest trust when robots request personal information](task-type-strong-determinant-robot-trust.md) — related
+- [Trust evaluations were strongly and positively correlated across all robot–task combinations, suggesting trust in social robots may be a stable, generalized attitude](trust-stable-generalized-attitude-robots.md) — related
+- [Robot appearance showed no meaningful effect on trust: pairwise robot differences did not reach significance after Bonferroni adjustment](robot-appearance-no-meaningful-trust-effect.md) — possibly the same claim (merge candidate)
+- [A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations](anthropomorphism-benefits-vary-by-context.md) — related

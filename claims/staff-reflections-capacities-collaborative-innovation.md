@@ -50,3 +50,4 @@ Qualitative analysis of structured reflections from 10 researchers and 11 progra
 - [Evaluator staff capacities centered on creating conditions for participation rather than technical control](staff-capacities-creating-conditions.md) — related
 - [Contextual conditions beyond district control shape how a college readiness indicator system can be implemented](outer-context-shapes-cris-implementation.md) — related
 - [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — related
+- [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related

@@ -44,3 +44,4 @@ Interview finding from the case study. Students found asynchronous discussion cl
 
 ## Related Claims
 - [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — related
+- [Moderation of synchronous computer-mediated interaction differs from face-to-face or asynchronous moderation](moderation-synchronous-cmc-differs-from-other-modes.md) — related

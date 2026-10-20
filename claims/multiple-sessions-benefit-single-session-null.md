@@ -69,3 +69,5 @@ Null moderator result from the same meta-regression models: no association betwe
 - [No evidence that learning effects differ by variety of player actions or by inclusion of additional nongame instruction](variety-actions-and-supplemental-instruction-null.md) — related
 - [Theoretically augmented game designs produce better learning outcomes than standard game versions (g = 0.34), with enhanced scaffolding designs showing g = 0.41](value-added-augmented-designs-benefit-learning.md) — related
 - [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](multiple-sessions-moderator-games.md) — possibly the same claim (merge candidate)
+- [Third-person camera perspective games show significant learning benefits while first-person perspective games show no significant benefit](camera-perspective-moderator-games.md) — related
+- [Single noncollaborative, noncompetitive play shows the largest learning effects, significantly larger than single competitive play](single-noncompetitive-play-largest-media-effects.md) — related

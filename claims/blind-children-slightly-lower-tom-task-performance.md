@@ -44,3 +44,7 @@ Behavioral ToM task administered outside the scanner to 12 blind and 21 sighted 
 
 ## Related Claims
 - [Inter-region correlations within the ToM network are lower in blind children, while ToM and language networks remain functionally distinct](lower-within-tom-network-correlations-blind-children.md) — related
+- [Blind children reason about visually sourced mental states similarly to sighted children](blind-children-similar-visual-experience-items.md) — related
+- [RTPJ selectivity correlates with behavioral ToM task performance across blind and sighted children combined](rtpj-selectivity-correlates-tom-behavior.md) — related
+- [Blind and sighted children do not differ in performance on false-belief items of the non-visual ToM task](no-group-difference-false-belief-items.md) — a narrower finding that bears on this claim
+- [The condition-dependent response profile of ToM brain regions is quantitatively weaker in blind than sighted children](weaker-tom-region-response-profile-blind-children.md) — related

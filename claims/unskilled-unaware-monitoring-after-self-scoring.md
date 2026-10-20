@@ -43,4 +43,6 @@ Multilevel regression comparing skill groups after self-scoring (Table 2: multip
 
 
 ## Related Claims
--
+- [Before self-scoring, high-performing primary students make more accurate monitoring judgments of math problem performance than low-performing students (unskilled-and-unaware effect)](unskilled-unaware-monitoring-before-self-scoring-math.md) — related
+- [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](self-scoring-improves-monitoring-accuracy-math.md) — related
+- [In this sample the best-performing university students calibrated slightly worse than the lowest-performing students, so no unskilled-and-unaware effect was supported](best-performers-calibrated-worse-no-unskilled-unaware.md) — related

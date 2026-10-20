@@ -48,3 +48,4 @@ Stoelinga, S. R., with Hart, H. and Schalliol, D. (2008). The Work of Chicago Pu
 - [Principals' email communication with teachers and parents expanded substantially by 2005, though most elementary principals still never emailed parents](principals-email-teachers-parents-expanded-2005.md) — related
 - [Teachers rate principal instructional leadership highly even in many bottom-quartile schools](principal-instructional-leadership-ratings-distribution.md) — related
 - [Principals most commonly cited time for teacher planning, difficulty removing poor teachers, community social problems, apathetic parents, test-score pressure, and problem students as roadblocks](principals-roadblocks-to-school-improvement.md) — related
+- [LSC parent and community members make a substantial time commitment to their schools, beyond formal council duties](lsc-members-substantial-time-commitment.md) — related

@@ -45,3 +45,4 @@ Experiment 2's think-aloud protocol analysis showed that "fading is associated w
 
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — the general claim this finding bears on, with the studies behind it
 - [PIA groups follow a strategic generate-options-to-implement cycle with fewer random idea attempts, while TFA groups loop through repeated metacognitive interactions and unproductive idea testing](pia-strategic-cycle-tfa-random-ideas.md) — related
+- [No effect of fading on productive learning events including self-explanations was found in Experiment 2's think-aloud analysis](fading-no-effect-productive-learning-events.md) — related

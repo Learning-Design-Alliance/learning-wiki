@@ -49,3 +49,7 @@ Correlational analysis of principals' perceived barriers against teacher and stu
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — the general claim this finding bears on, with the studies behind it
 - Students and teachers use technology more, and feel more support, in schools where principals report higher expectations and fewer barriers — related
 - [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](teacher-access-use-rose-assignments-modest.md) — related
+- [CPS principals' overall use of technology in their work rose dramatically between 2001 and 2005](cps-principals-technology-use-rose-dramatically-2001-2005.md) — related
+- [Survey snapshots and trend graphs track school development measure responses from 1994 to 2003](survey-response-trends-1994-2003-report-format.md) — related
+- [Most principals face obstacles to professional learning—time, coverage, and funds—with funding obstacles concentrated in schools serving many students of color](principal-pd-obstacles-time-coverage-funds.md) — related
+- [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — related

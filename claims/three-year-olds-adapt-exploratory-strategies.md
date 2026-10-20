@@ -45,3 +45,4 @@ Study by Ruggeri, Swaboda, et al. (2019): 3- and 4-year-olds searched for an egg
 ## Related Claims
 - [Children aged 7 to 10 adapt their question-asking strategy to the likelihood distribution of hypotheses as promptly as adults](children-adapt-questions-to-distribution.md) — a narrower finding that bears on this claim
 - [Five-year-olds select the more informative question under both uniform and skewed hypothesis distributions despite weak question generation](preschoolers-select-informative-questions.md) — related
+- [Children structure their play to reduce uncertainty and deconfound causal variables](children-play-deconfound-causal-variables.md) — related

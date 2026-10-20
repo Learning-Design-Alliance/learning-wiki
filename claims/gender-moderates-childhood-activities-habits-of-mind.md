@@ -46,3 +46,4 @@ Multivariate regression Model 3 with gender × activity interactions predicting 
 - [Childhood spatial activities are more predictive of spatial habits of mind than of spatial skills](childhood-activities-more-predictive-of-habits-of-mind.md) — related
 - [Childhood, but not adolescent, spatial activity participation predicts adolescents' spatial habits of mind](childhood-activities-predict-spatial-habits-of-mind.md) — related
 - [Childhood spatial activity participation predicts adolescent spatial activity participation, and this consistency is stronger for females than males](childhood-spatial-activities-predict-adolescent-participation.md) — related
+- [Spatial skills show null bivariate correlations with childhood and adolescent spatial activity participation](null-correlation-spatial-skills-activities.md) — related

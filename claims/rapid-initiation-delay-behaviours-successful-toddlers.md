@@ -48,3 +48,5 @@ Latency analysis of second-by-second coded behaviours during the snack delay tas
 - [Teacher-rated, but not parent-rated, self-control relates to the occurrence and timing of delay behaviours in toddlers](teacher-rated-self-control-relates-toddler-delay-behaviours.md)
 - [Probability of visual attention distraction, alone or combined with hands withholding, prevails after about 10–30 seconds of delay](time-course-distraction-withholding-prevails-after-10-30s.md)
 - [Percentage of time distracting visual attention away from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](visual-attention-distraction-predicts-toddler-delay-success.md)
+- [Actively withholding the hands from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](hands-withholding-predicts-toddler-delay-success.md) — related
+- [Self-distraction and avoidance behaviours occur in nearly all successful toddlers but in a minority of unsuccessful ones](delay-behaviours-occur-in-successful-but-not-unsuccessful-toddlers.md) — related

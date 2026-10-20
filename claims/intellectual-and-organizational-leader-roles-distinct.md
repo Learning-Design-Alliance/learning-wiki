@@ -64,3 +64,6 @@ Study two examined emergent leadership in 22 groups of students across six class
 ## Related Claims
 
 - [Emergent leadership did not differ between multi-touch table and paper conditions in study one](no-leadership-difference-multi-touch-paper.md)
+- [Some groups had an intellectual leader without an organizational leader, but no group had an organizational leader without an intellectual leader](intellectual-leader-without-organizational-leader.md) — related
+- [Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader](leadership-moves-distributed-among-group-members.md) — related
+- [Patterns of emergent leadership differed across disciplinary content areas, with some students leading in math but not history](leadership-patterns-vary-across-content-areas.md) — related

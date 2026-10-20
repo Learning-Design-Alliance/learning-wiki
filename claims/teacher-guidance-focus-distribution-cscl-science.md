@@ -49,3 +49,6 @@ Video-analysis of four teachers' real-time guidance across 913 coded activity se
 - [Teachers' self-perceived guidance and affect varied across the three inquiry phases and between teachers](teacher-guidance-perceptions-vary-by-phase.md)
 - [Teacher self-reported affect was compounded by students' self-reported affect across working phases](teacher-student-affect-reciprocity-inquiry.md)
 - [A regulation macro script structured collaboration to support socio-cognitive and socio-emotional monitoring among teacher-education students](regulation-macro-script-monitoring-support.md)
+- [Making rounds minimizes off-task behaviour because pupils monitor for the teacher's approach and adjust their behaviour](rounds-surveillance-minimizes-off-task.md) — related
+- [Teachers use extracted analytics more for supervision than for guidance, with monitoring the dominant observed action](extracted-analytics-more-supervision-than-guidance.md) — related
+- [Teachers' guidance and support in collaborative science inquiry differed by teacher perceptions and group outcomes, and teacher affect was compounded by student affect, per the editorial's report of Pietarinen et al.](teacher-guidance-varies-perceptions-outcomes-reciprocal-affect.md) — related

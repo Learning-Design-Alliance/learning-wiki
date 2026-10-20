@@ -46,3 +46,6 @@ Qualitative coding of discourse across three KF views found the Bidea^ dimension
 
 - [Agency, information, linking, and meta-discourse dimensions appeared infrequently in the dataset despite their theoretical importance](agency-information-linking-meta-discourse-infrequent.md)
 - [Knowledge-sharing discourse was the most common mode in KF discussions, while knowledge-building discourse was comparatively rare](knowledge-sharing-most-common-knowledge-building-rare.md)
+- [Becoming knowledge-creating learners requires developing specific metaskills](knowledge-creation-requires-metaskills.md) — related
+- [Grade 5 Science students predominantly engaged in fact-oriented, repetitive, and cumulative discourse, suggesting difficulty sustaining conversational exchanges online](grade5-fact-oriented-repetitive-cumulative-discourse.md) — related
+- [Only Grade 10 Liberal Studies students engaged in simple argumentation, complex argumentation, and theory-oriented interactions, possibly due to the subject's emphasis on argumentation](argumentation-only-in-liberal-studies.md) — related

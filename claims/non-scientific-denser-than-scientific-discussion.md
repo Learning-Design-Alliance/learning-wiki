@@ -67,3 +67,6 @@ Sociograms of co-contribution networks (Figs. 5 and 6) show all students joined 
 - [Participation in non-scientific discussion was weakly negatively related to participation in scientific discussion (r = 0.14, p < 0.05)](negative-qap-scientific-non-scientific.md)
 - [Students, not expert scientists, played the moderating role by asking questions and making assertions, with one student bridging scientists and students](students-moderating-bridging-role.md)
 - [Classrooms differ in network density and centrality, indicators of social cohesion](classroom-density-centrality-variation.md) — related
+- [Social awareness had much greater effects on interaction and individual performance than knowledge awareness](social-awareness-stronger-effect-than-knowledge-awareness.md) — related
+- [Knowledge artifacts that were novel or unexpected (a non-insect squirrel, a misidentified mosquito) generated the most discussion in an elementary citizen science project](novel-unexpected-artifacts-most-discussion.md) — related
+- [A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board](student-led-discussion-task-sustains-online-participation.md) — related

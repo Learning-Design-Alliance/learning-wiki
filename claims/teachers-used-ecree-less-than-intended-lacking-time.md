@@ -55,3 +55,5 @@ Implementation findings from teacher reports in grade 8-11 ELA classrooms during
 - [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](monthly-coaching-helped-teachers-integrate-mi-write.md) — related
 - [Teachers need time to plan and carry out daily writing instruction to successfully learn and use MI Write](teacher-planning-time-needed-for-mi-write-use.md) — possibly the same claim (merge candidate)
 - [Teachers need tailored technical support and time to understand how to use Ecree and integrate it with their instruction](teachers-need-tailored-support-time-ecree-integration.md) — related
+- [Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year](ecree-improved-writing-quality-especially-less-advanced-writers.md) — related
+- [Teachers find Ecree's feedback less useful when it does not align with their typical content sequence and grading standards](ecree-feedback-less-useful-when-misaligned.md) — related

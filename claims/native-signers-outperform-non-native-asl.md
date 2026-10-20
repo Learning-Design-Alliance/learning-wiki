@@ -62,3 +62,6 @@ The regression results (Table 3) showed non-native signers scored 12 and 13 poin
 - [Non-native signers entering a signing school before age 6 had better ASL abilities than those entering later, but did not equal native signers](early-entry-non-native-better-asl.md) — related
 - [Later age of entry to a signing school for the Deaf is associated with lower ASL syntactic judgment and analogical reasoning scores, with a marked decline for entry after age 12](later-school-entry-lower-asl-scores.md) — related
 - [Native signers of ASL show more proficient bilingual abilities than non-native signers](native-signers-higher-bilingual-abilities.md) — related
+- [Family communication mode and hearing status at birth were not significantly related to bilingual abilities](family-communication-mode-null-bilingual.md) — related
+- [Deaf non-native signers scored lower than hearing children on executive-loaded non-verbal working memory tasks, while deaf native signers did not differ from hearing children](non-native-signers-poorer-executive-loaded-nvwm.md) — related
+- [Deaf parental hearing status, sign language use at home, and attendance at a school for the deaf are each associated with more positive perceptions of deaf children's social success](deaf-parents-sign-language-deaf-schools-social-perceptions.md) — related

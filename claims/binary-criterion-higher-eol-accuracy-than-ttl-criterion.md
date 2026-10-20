@@ -43,4 +43,4 @@ Experiment 1 within-group analysis of EOL accuracy by criterion measure found th
 
 
 ## Related Claims
--
+- [The type of EOL task (difficulty vs. trials-to-learn scale) does not reliably affect EOL accuracy](eol-task-type-no-effect-on-accuracy.md) — related

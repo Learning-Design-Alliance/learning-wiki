@@ -45,3 +45,6 @@ Deployment-hardening rehearsal on staging, reported in Table 4 with 50 completed
 ## Related Claims
 - [Purpose-trained single-pass generation completes a slide in a median of 17 seconds and an interactive page in 59 seconds over 220k production requests, and delivers artifacts at 15–22× lower per-artifact API cost than flagship models](cogevol-single-pass-latency-and-cost.md) — related
 - [A 50-disposable-account staging rehearsal produced 56 evidence rows, with 46 (82.1%) assigned to higher-order Bloom categories](fifty-account-rehearsal-56-rows-82-percent-higher-order.md) — related
+- [A frozen synthetic rehearsal of 120 serial project episodes passed all 3,990 recorded checks with zero unexpected failures](praxis-120-episode-rehearsal-all-checks-passed.md) — related
+- [In three simulated design-studio scenarios, 109 classified evidence rows were produced, with 85 (78.0%) assigned to higher-order Bloom categories](three-studio-simulation-109-rows-78-percent-higher-order.md) — related
+- [Simulated role play sessions cost $0.05-$0.10 each in the EducaSim deployment](educasim-low-cost-per-session.md) — related

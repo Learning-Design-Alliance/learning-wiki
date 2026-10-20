@@ -47,3 +47,8 @@ Theoretical argument by analogy in this conceptual paper: guided Thermomix cooki
 
 - [Scaffolded assistant support marks richer constructive participation at the conversation level across all six task settings](scaffolded-support-constructive-participation.md) — the general claim this finding bears on, with the studies behind it
 -
+- [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](genai-offloading-bypasses-desirable-difficulties.md) — related
+- [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](ai-offloading-stifles-early-development.md) — a broader claim this one bears on
+- [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related
+- [Substitutive offloaders show severe performance decline when external stores become unavailable, while duplicative offloaders maintain accuracy](substitutive-duplicative-offloading-outcomes.md) — a narrower finding that bears on this claim
+- [More experienced AI users showed a Boilerplate Blindspot: uncritically accepting 'trivial' AI-generated code in which later defects originated](boilerplate-blindspot-experienced-students.md) — a narrower finding that bears on this claim

@@ -49,3 +49,6 @@ Narrative literature review of Facebook in higher education. The review reports 
 - [First-year students used Facebook mainly for social purposes and only secondarily for informal student-to-student academic purposes, rarely for formal teaching.](facebook-social-not-formal-teaching.md) — reports the opposite
 - [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](sns-groups-support-informal-design-learning.md) — a narrower finding that bears on this claim
 - [Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio](student-generated-hidden-curriculum-sns.md) — a narrower finding that bears on this claim
+- [Facebook usage in higher education carries potential problems ranging from educators' dominance to privacy concerns](facebook-educator-dominance-privacy-concerns.md) — related
+- [Social media usage in higher education continues to grow, and future empirical research on its educational role is warranted](social-media-growth-future-empirical-research-warranted.md) — related
+- [Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness.](facebook-social-glue-settling-in.md) — related

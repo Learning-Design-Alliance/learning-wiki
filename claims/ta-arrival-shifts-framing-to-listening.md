@@ -46,3 +46,5 @@ Qualitative analysis of the TA-arrival segment in group A's second episode. Stud
 - [Shifts from the blue to the green behavioral cluster correspond to shifts from completing the worksheet to discussing ideas](blue-green-shift-marks-framing-shift.md) — related
 - [A student's animated off-worksheet statements can function as bids for a frame change that the group may accept or ignore](behavioral-bids-for-frame-change.md) — related
 - [The yellow behavioral cluster corresponds to a joking frame in which ambiguous tone protects students who venture risky ideas](yellow-cluster-joking-frame-protects-ideas.md) — related
+- [Precisely coordinated transitions among spatial-orientational behavioral clusters help stabilize local patterns of student thinking](behavioral-clusters-stabilize-thinking.md) — a broader claim this one bears on
+- [A new group member's heavily distanced bid to discuss shifted the Bronze group's norms toward sharing and evaluating ideas](new-member-distanced-bid-shifted-bronze-norms.md) — related

@@ -64,3 +64,5 @@ Experiment 2 transfer t-test showed no significant difference, d = 0.19; metacog
 ## Related Claims
 - [Decorative pictures show consistently null effects on elementary schoolers' word problem-solving performance regardless of task characteristics](decorative-pictures-null-effects.md) — related
 - [Related decorative pictures do not increase triggered or maintained situational interest; in Experiment 2 they reduced maintained interest](related-pictures-no-interest-increase.md) — related
+- [Related decorative pictures improve metacognitive monitoring accuracy for knowledge items in eighth-graders (Experiment 2), but not for transfer items](related-pictures-improve-metacognitive-monitoring-exp2.md) — related
+- [Reading a text with related decorative pictures yields more correct answers to knowledge items than reading the text without pictures (Experiment 1, university students)](related-decorative-pictures-improve-knowledge-exp1.md) — related

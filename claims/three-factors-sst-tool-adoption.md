@@ -46,3 +46,4 @@ Case-study analysis in Table 1, "Key Factors Influencing Adoption." The three fa
 - [The co-designed AI-enabled SST meeting agenda tool saw mixed district-wide adoption despite enthusiasm in facilitated meetings](sst-agenda-tool-mixed-adoption.md) — related
 - [A teacher-initiated report card comment generator built in Solara saw immediate high adoption without formal rollout or training](teacher-initiated-tool-high-adoption.md) — related
 - [Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness](teacher-digital-competence-critical-ai-adoption.md) — related
+- [Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey](enjoyment-predicts-attitude-ease-intention-genai.md) — related

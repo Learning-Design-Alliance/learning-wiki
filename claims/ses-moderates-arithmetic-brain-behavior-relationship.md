@@ -48,3 +48,5 @@ The Perspective reports, citing Demir, Prado and Booth's behavioral and imaging 
 ## Related Claims
 - [Cortical thinning in anterior and superior frontal cortex is associated with better arithmetic achievement across all children](frontal-cortical-thinning-associated-better-arithmetic.md) — related
 - [Obesity relates to lower processing speed and cognitive flexibility only among older adults with low education or low engagement in activities](obesity-cognitive-reserve-moderation-old-age.md) — a broader claim this one bears on
+- [Higher fit preadolescent children show decreased cortical thickness in superior frontal, superior temporal, and lateral occipital cortex relative to lower fit children](higher-fit-children-decreased-cortical-thickness-frontal-temporal-occipital.md) — related
+- [The authors propose aerobic fitness as a possible predictor of developmental cortical thinning and a pathway to enhanced cognition and scholastic performance](aerobic-fitness-possible-predictor-cortical-maturation-pathway.md) — related

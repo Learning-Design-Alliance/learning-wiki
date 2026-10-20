@@ -51,3 +51,4 @@ Survey result reported in the brief's student-gaps section: "57% of respondents 
 - [Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention](students-higher-ethical-awareness-instructors-higher-intention.md) — related
 - [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — related
 - [Student surveys show widespread weekly AI use, requests for instructor guidance, and a substantial minority using AI to produce entire solutions](physics-student-ai-use-survey-findings.md) — related
+- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related

@@ -70,3 +70,4 @@ Pairwise contrast from the same ANCOVA showing the video-review interest benefit
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion](real-world-simulations-embodiment-affordances.md) — related
+- [Hands-on experiments promote epistemic and value-related situational interest more than computer simulations, while emotional situational interest does not differ](experiments-promote-epistemic-value-interest.md) — related

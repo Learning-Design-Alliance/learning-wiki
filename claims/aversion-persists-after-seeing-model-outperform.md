@@ -47,3 +47,4 @@ Chi-square tests across Studies 1, 3a, 3b, and 4 restricted to model-and-human p
 - [Confidence in the algorithm's forecasts mediates the effect of seeing it perform on choosing it](model-confidence-mediates-algorithm-aversion.md) — related
 - [People lose confidence more quickly in algorithms than in humans after seeing the same kind of mistakes](faster-confidence-loss-algorithms-than-humans.md) — related
 - [A belief that the algorithm is less likely to be perfect does not explain experience-driven algorithm aversion](perfection-belief-does-not-explain-aversion.md) — related
+- [Slight control over an algorithm's output reduces algorithm aversion, with process control producing the strongest calibration effects](slight-control-reduces-algorithm-aversion.md) — related

@@ -45,3 +45,6 @@ Qualitative episode analysis of Red City's first gameplay episode in the City Se
 ## Related Claims
 
 - [After a team's tilting episode, its conversation became dominated by anger and lost all game-action talk](tilting-collapses-discussion-quality.md)
+- [Groups' anger-talk proportion was inversely related to science-talk proportion across two teams](anger-science-talk-inverse-groups.md) — related
+- [Anger did not preclude high science talk: the most anger-expressing Red City student also had the group's highest science-talk proportion](anger-compatible-with-science-talk.md) — related
+- [Individual anger trajectories rose alongside science talk until an inflection point, after which engagement dropped sharply](individual-anger-inflection-lisa.md) — related

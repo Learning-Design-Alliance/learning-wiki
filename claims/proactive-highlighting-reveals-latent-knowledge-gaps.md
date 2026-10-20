@@ -65,3 +65,7 @@ Behavioral log measures from the same within-subjects study: query counts, canva
 - [Real-time AI alerts can expand teachers' situational awareness but in some cases overload teachers' attention or draw focus away from their own observation flow](ai-alerts-can-overload-teacher-attention.md) — related
 - [VeriForge raises perceived creativity support and lowers workload relative to a same-retrieval baseline, with mixed survival after correction](veriforge-creativity-support-workload.md) — related
 - [Students perceived non-traditional letter writing as helpful for learning, enjoyable, and superior to traditional writing](students-perceive-letter-writing-helpful-enjoyable.md) — related
+- [Blind expert raters judged VeriForge passages as conveying stronger perceived authorial domain competence, with other quality dimensions showing uncorrected trends](veriforge-expert-domain-grounding-ratings.md) — related
+- [VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)](veriforge-delayed-recall-retention-rate.md) — related
+- [Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow](copilot-embedded-support-real-time-troubleshooting.md) — related
+- [In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance](user-study-proactive-paradigms-preferred.md) — related

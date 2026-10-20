@@ -48,3 +48,4 @@ Experiment 2 solved-versus-not-solved ANOVAs with group as between-subjects fact
 - [Training with longer-duration anagrams improved AS JOS discrimination in blocks 1–3 but not S JOS discrimination](training-improved-as-not-s-jos-discrimination.md) — related
 - [S JOSs were discriminating but not predictive of later solving success in Experiments 1 and 2](s-jos-not-predictive-of-solving.md) — related
 - [In a self-regulated solving phase, S JOSs predicted solving success and AS and NS JOSs predicted effort regulation](exp3-s-jos-predictive-self-regulated-solving.md) — related
+- [JOS discrimination decreased across blocks as anagram presentation duration was reduced, driven by different mechanisms for AS versus S JOSs](jos-discrimination-decreases-shorter-duration.md) — related

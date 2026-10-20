@@ -45,3 +45,6 @@ WWC synthesis of two studies (Brandt et al., 2013; Martin et al., 2009) meeting 
 ## Related Claims
 - [Brandt et al. (2013) finds a statistically significant positive effect of eMINTS on seventh- and eighth-grade mathematics achievement](brandt-2013-significant-math-effect.md) — a narrower finding that bears on this claim
 - [Martin et al. (2009) finds indeterminate effects of eMINTS on both mathematics and literacy achievement in grades 4–5](martin-2009-indeterminate-effects.md) — a narrower finding that bears on this claim
+- [Core-Plus Mathematics has potentially positive effects on mathematics achievement for high school students, with an average improvement index of +15 percentile points](core-plus-math-potentially-positive-effects.md) — related
+- [eMINTS shows no discernible effects on general literacy achievement](emints-no-discernible-literacy-effects.md) — related
+- [Both included studies report high-fidelity implementation of eMINTS](emints-high-fidelity-implementation.md) — related

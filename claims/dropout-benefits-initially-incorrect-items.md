@@ -67,3 +67,4 @@ Experiment 1 conditional analyses (Table 1), t(63) = 1.90, p = .067 versus 5-5-5
 - [A 23-item-ISI dropout schedule achieved final cued-recall performance similar to conventional schedules while using significantly fewer test-restudy trials in two experiments](dropout-long-isi-similar-performance-fewer-trials.md) — related
 - [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](expanding-not-better-than-fixed-interval.md) — related
 - [Normative item difficulty was similar for items assigned to the first and second practice blocks in the experiments.](item-difficulty-balanced-across-blocks.md) — related
+- [A short-ISI dropout schedule (5-drop) used significantly fewer trials but yielded lower final test performance than conventional schedules in Experiment 1](short-isi-dropout-lower-performance.md) — related

@@ -45,3 +45,5 @@ The report cites Bureau of Labor Statistics and secondary projections to argue t
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
 - [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — related
 - [All learning transitions in participants' stories were intersectional, dynamic, and nonlinear](learning-transitions-intersectional-nonlinear.md) — related
+- [Changing job requirements mean students must be prepared to change throughout their entire work lives](changing-job-requirements-students-prepared-for-change.md) — a broader claim this one bears on
+- [Intentionally designed career pathways with multiple entry and exit points and stackable credentials receive moderate evidence of improving student outcomes](career-pathways-design-moderate-evidence.md) — related

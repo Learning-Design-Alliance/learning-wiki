@@ -54,3 +54,6 @@ Theoretical argument, not a tested result: the authors reason from prior work th
 - [Prompting is a form of writing: task definition is a constitutive element of knowledge production, not a neutral procedural step](prompting-as-writing-task-definition-constitutive.md) — a broader claim this one bears on
 - A three-phase human-LLM inductive pipeline produced a hierarchical codebook of 72 items within 19 categories and six domains from 45,000 educator-AI messages — related
 - [All CSCL research is necessarily theory-laden; unreflective research adopts commonsense folk theories](cscl-research-necessarily-theory-laden.md) — related
+- [Teachers hold a complicated mix of scientific conceptions, misconceptions, and uncertainty about dyslexia concepts](teachers-mixed-conceptions-misconceptions-dyslexia.md) — related
+- [Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs](human-refinement-essential-gpt-codebooks.md) — related
+- [GPT-5 used as a third coder introduced a calculation_check category absent from the human codebook, covering 28% of messages and exposing an unnamed recurring request type](gpt5-introduced-calculation-check-category.md) — related

@@ -56,3 +56,8 @@ The article's abstract states the premise of the study: that in computer-based t
 - [A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated](partial-engagement-method-effort-moderated-scores-caution.md) — related
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — possibly the same claim (merge candidate)
 - [Computer-based test advantages can be used to manage the effects of disengagement as a construct-irrelevant factor](cbt-manages-disengagement-construct-irrelevance.md) — related
+- [Student disengagement on an adaptive interim assessment gradually increased across grade level](disengagement-increased-across-grade-level-remote-testing.md) — a narrower finding that bears on this claim
+- [Computer-based test advantages can be used to manage the effects of cheating as a construct-irrelevant factor](cbt-manages-cheating-construct-irrelevance.md) — related
+- [Disengaged test taking in international assessment programs threatens the validity of inferences about a country's educational attainment](disengaged-test-taking-invalidates-country-level-attainment-inferences.md) — related
+- [Academic and test disengagement are connected through a common association with poor self-management](self-management-common-link-disengagement.md) — related
+- [After a proctor notification triggered by rapid-guessing detection, test-taking engagement tended to increase](proctor-notification-increases-engagement.md) — related

@@ -44,3 +44,4 @@ Correlational analysis of Chicago K-2 assessment records. TRC-Spanish showed the
 
 ## Related Claims
 - [K-2 literacy assessments are positively correlated, with MAP showing the strongest correlations with the other assessments](k2-literacy-assessments-positively-correlated-map-strongest.md) — related
+- [Goodness-of-fit results indicate Spanish MAP Growth Reading constructs are at least tau-equivalent across language background groups](spanish-map-reading-tau-equivalent-constructs.md) — related

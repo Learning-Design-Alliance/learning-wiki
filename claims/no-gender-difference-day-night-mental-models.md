@@ -55,3 +55,5 @@ In the results section of the interview study with 46 kindergartners, "The resul
 - Mean response likelihood does not differ significantly between boys and girls, but its variance is 1.46 times greater for girls — related
 - No significant interaction between gender and CREACT on pretest or posttest creative performance — related
 - No significant difference between boys and girls in the degree of animistic or anthropomorphic explanation — related
+- [Kindergartners struggle to give verbal causal explanations, but model-based tasks let most of them express causal ideas](model-tasks-overcome-verbal-explanation-limits.md) — related
+- [The cross-lagged model holds equally for intervention and control groups and for boys and girls](model-invariance-gender-and-intervention-groups.md) — related

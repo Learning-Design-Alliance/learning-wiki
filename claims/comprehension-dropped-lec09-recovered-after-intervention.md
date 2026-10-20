@@ -46,3 +46,4 @@ Observation from comparing AI usage trends (Figure 4) with team comprehension tr
 - [In SDPBL with SDD introduced, AI usage varies greatly by team and phase, with all teams using AI in Implementation and Debugging but large team differences in Investigation and Planning](ai-usage-varies-by-team-and-phase-sdpbl-sdd.md) — related
 - [Students who implemented code without AI (usage level 0) maintained consistently high code comprehension, while level-3 AI users showed very little comprehension in the Mid period](no-ai-use-high-comprehension-level3-low.md) — related
 - [Across the student body as a whole, no clear statistical trend was confirmed between AI usage levels and code comprehension](no-statistical-trend-ai-usage-comprehension.md) — related
+- [Self-reported LLM usage collapses at the first team milestone and recovers only partially on later coding-heavy team tasks](llm-usage-collapses-at-team-onset-partial-recovery.md) — related

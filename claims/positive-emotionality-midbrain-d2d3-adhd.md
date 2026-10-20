@@ -46,3 +46,4 @@ Secondary Pearson correlation analysis of MPQ broad factors against PET DA measu
 - [ADHD adults show lower D2/D3 receptor and DAT availability in nucleus accumbens and midbrain than controls](adhd-lower-da-availability-accumbens-midbrain.md) — related
 - [Lower trait motivation scores in ADHD adults are associated with more severe inattention symptoms, but not hyperactivity](low-motivation-correlates-inattention-adhd.md) — related
 - [In adults with ADHD, dopamine D2/D3 receptor and DAT availability in the reward pathway correlate positively with trait motivation](da-reward-pathway-correlates-trait-motivation-adhd.md) — related
+- [Adults with ADHD score lower on the MPQ Achievement scale, a surrogate trait measure of motivation, than controls](adhd-lower-mpq-achievement-scale.md) — related

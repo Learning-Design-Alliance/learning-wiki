@@ -67,3 +67,10 @@ WWC re-analysis of findings from both studies; corrections for clustering and mu
 - Reading Recovery produces two positive outcomes: reaching average levels within 20 weeks or reliable referral for further testing — related
 - [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) — reports the opposite
 - [Alphabet instruction benefits did not transfer to letter-word identification, phonological awareness, emergent reading, or developmental spelling](alphabet-instruction-no-transfer-emergent-literacy.md) — a narrower finding that bears on this claim
+- [Read, Write & Type!™ shows no discernible effects on reading comprehension or vocabulary for beginning readers](rwt-no-discernible-comprehension-effects.md) — related
+- [The Frechtling, Zhang, and Silverstein (2006) study showed a substantively important positive average alphabetics effect, while Hecht (2003) did not](voyager-study-average-effect-sizes-differ.md) — related
+- [Only the discussion of the Flex vs. Plain phonics trial reports that, for students with full week-6 attendance, Flex showed greater gains than Plain on taught-letter alphabetics, decoding, and word reading; its results report no treatment differences or interactions](week6-attendance-interaction-favors-flex.md) — related
+- [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — reports the opposite
+- [LiPS has potentially negative effects on writing: comparison students significantly outperformed LiPS students on the KTEA Spelling subtest](lips-potentially-negative-writing-spelling.md) — related
+- [Early Reading First had positive, statistically significant impacts on children's print and letter knowledge](early-reading-first-positive-print-letter-knowledge-impacts.md) — related
+- [DaisyQuest outperformed alternative reading software on phonological awareness in at-risk first graders](daisyquest-beats-reading-software-phonological-awareness.md) — reports the opposite

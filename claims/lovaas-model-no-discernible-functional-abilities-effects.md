@@ -46,3 +46,5 @@ WWC review of the one functional ability outcome in Sallows and Graupner (2005).
 - [The Lovaas Model has no discernible effects on communication/language competencies for children with disabilities](lovaas-model-no-discernible-communication-effects.md) — related
 - [The Lovaas Model has no discernible effects on social-emotional development and behavior for children with disabilities](lovaas-model-no-discernible-social-emotional-effects.md) — related
 - [The Lovaas Model has potentially positive effects on cognitive development for children with disabilities, with an improvement index of +27 percentile points](lovaas-model-potentially-positive-cognitive-development.md) — related
+- [Social skills training shows no discernible effects on cognition for preschool children with disabilities](social-skills-training-no-discernible-cognition-effects.md) — related
+- [The guide treats an effect size of +0.25 or higher as substantively important, equivalent to raising performance at least 10 percentile points](effect-size-025-substantively-important-threshold.md) — related

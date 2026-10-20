@@ -65,3 +65,5 @@ The report cites a 2021 study (second-hand attribution) on turnover among underp
 - [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — possibly the same claim (merge candidate)
 - [Every surveyed district filled some vacancies with underprepared teachers, and substandard credentials nearly tripled from 2012–13 to 2019–20](underprepared-teacher-hiring-increased.md) — related
 - [California issued more than 13,000 intern credentials, permits, and waivers in 2017–18, nearly triple the 2012–13 number](california-substandard-credentials-tripled-2012-2018.md) — related
+- [Shortage districts fill vacancies with substandard-credential teachers (55%), substitutes (24%), and out-of-field assignments (22%), with high-poverty districts using substandard credentials most](districts-staff-vacancies-substandard-credentials-substitutes.md) — related
+- [Most new special education teachers in 2015–16 entered on substandard authorizations, outnumbering fully prepared entrants 2:1](special-education-underprepared-majority-new-teachers.md) — related

@@ -43,4 +43,7 @@ Further analysis of refined time slots for all 25 participants, shown in Fig. 5.
 
 
 ## Related Claims
--
+- [Adding peripheral data to navigational logs sharply changes the detected distribution of SRL processes, revealing many more Organisation and far fewer First-reading processes](peripheral-data-changes-srl-process-distribution.md) — a broader claim this one bears on
+- [Adding eye-tracking data corrects inflated Organisation durations and re-distributes First-reading time relative to both other channels](eye-tracking-corrects-organisation-durations.md) — related
+- [Adding peripheral data raises specific transition probabilities in the SRL process map, e.g., Elaboration-to-Monitoring from 24% to 44%](transition-probabilities-increase-with-channels.md) — related
+- [Adding data channels refines roughly 29–52% of detected SRL process time, measured by a new percent-of-processes-refined metric](percent-processes-refined-metric-results.md) — related

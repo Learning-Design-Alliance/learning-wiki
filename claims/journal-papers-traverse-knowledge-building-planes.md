@@ -43,4 +43,6 @@ Theoretical argument about the ijCSCL journal's evolution, citing Latour and Woo
 
 
 ## Related Claims
--
+- [Small-group interaction generates and retains resources across all three planes](small-group-interaction-generates-shared-resources.md) — related
+- [Connections among the planes of learning lack theoretical and empirical analysis](plane-connections-lack-theory-and-data.md) — related
+- [Course-based research experience boundary objects support disciplinary integration and authentic research networks](course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md) — related

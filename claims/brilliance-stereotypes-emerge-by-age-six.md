@@ -47,3 +47,5 @@ The review reports, citing Bian et al. (2017) and Jaxon et al. (2019), that gend
 - [Brilliance cues reduce stigmatized students' interest and intrinsic motivation, with effects emerging by age 6–7 and persisting into adulthood](brilliance-cues-reduce-intrinsic-motivation.md) — related
 - [Endorsement of brilliance-oriented FABs predicts lower self-efficacy among stigmatized students in brilliance-oriented contexts](brilliance-contexts-lower-self-efficacy.md) — related
 - [Field-specific ability beliefs are consensual cultural beliefs, acquired by early elementary school, that associate brilliance with fields like math more than language fields](fabs-consensual-early-acquired.md) — related
+- [Intersectional brilliance stereotypes show mixed patterns, supporting both intersectional invisibility and double jeopardy accounts](intersectional-brilliance-stereotypes-mixed.md) — related
+- [Perceived biased treatment linked to brilliance-oriented FABs explains a substantial portion of the gender gap in entry into brilliance-oriented fields](biased-treatment-explains-gender-gap-entry.md) — related

@@ -46,3 +46,4 @@ The report summarizes its own evaluation work on the integrated simulation tools
 - [Caregivers and healthcare workers perceived Family MUAC with two-way SMS as acceptable, cost-saving, appropriate, and feasible](family-muac-sms-perceived-acceptable-feasible.md) — related
 - [CAT has the potential to be more valid and reliable than non-adaptive tests](cat-potential-more-valid-reliable-than-non-adaptive.md) — related
 - Teachers reported validity, subjectivity, and feasibility concerns in assessing communication and digital literacy — related
+- [Content experts and practitioner reviews supported the content and face validity of the CT–PCK Survey](ct-pck-content-face-validity.md) — related

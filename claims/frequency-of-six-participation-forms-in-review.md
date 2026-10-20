@@ -43,4 +43,4 @@ The review's RQ2 results report per-form study counts in Table 3 and running tex
 
 
 ## Related Claims
--
+- [Script-supported groups mainly engaged in accepted intra-group metacognitive interaction, with co-constructed interaction infrequent and highly variable between groups](accepted-interaction-dominant-co-construction-rare.md) — related

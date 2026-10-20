@@ -63,3 +63,4 @@ The report describes teacher-perception change in the Montebello program: "All p
 
 ## Related Claims
 - [The perception that language minority students bring language disadvantages and knowledge deficiencies from home has too often led to lowered academic expectations for them.](deficit-view-of-minority-households-lowers-academic-expectations.md) — reports the opposite
+- [English learners lag behind their peers in achievement and attainment; limited exposure to academic content is offered as a partial explanation, not tested](el-lag-limited-academic-content-exposure.md) — related

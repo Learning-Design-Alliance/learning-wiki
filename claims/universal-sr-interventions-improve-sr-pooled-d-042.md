@@ -51,3 +51,4 @@ Meta-analysis of 19 studies reporting SR outcomes based on task performance scor
 - [Family-based interventions improved self-regulation in 5 of 9 studies (56%) and had longer follow-up durations than other intervention types.](family-based-interventions-improved-sr-5-of-9.md) — related
 - [Mindfulness and yoga interventions improved self-regulation in 4 of 8 interventions (50%), mostly applied within the adolescent age group.](mindfulness-yoga-interventions-improved-sr-4-of-8.md) — related
 - [Mindfulness training improves EFs most in 7–9 year-olds with initially poorer EFs, and yoga improves EFs where physical training alone does not](mindfulness-yoga-ef-gains-poorest-gain-most.md) — a narrower finding that bears on this claim
+- [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md) — related

@@ -49,3 +49,4 @@ Preregistered subcomponent analysis in the randomized experiment's results secti
 - [AI assistance raises the probability of correctly identifying the task's root cause for both education groups, with near-equalization among treated participants](ai-raises-root-cause-detection-near-equalization.md) — related
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - The bespoke GenAI workflow operated as a modest equalising mechanism, with students reporting inclusive participation regardless of prior AI or drawing experience — related
+- [Outcome convergence after collaboration is low, and higher for application-oriented than factual knowledge](outcome-convergence-low-higher-application-knowledge.md) — related

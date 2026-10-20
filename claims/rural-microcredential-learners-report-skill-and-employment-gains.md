@@ -46,3 +46,5 @@ Qualitative landscape study of four rural postsecondary initiatives using focus 
 - Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners — a broader claim this one bears on
 - Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials — a narrower finding that bears on this claim
 - [In Georgia, a two-month accelerated manufacturing program with micro-credentials led to recent high school graduates being hired, including employers making an exception to their under-21 hiring practice](tcsg-manufacturing-microcredentials-led-to-hiring.md) — a narrower finding that bears on this claim
+- [Workforce-context micro-credential success depends on sustained partnerships, employer recognition, higher-education credit linkage, and time-cost flexibility](workforce-micro-credential-success-practices.md) — related
+- [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related

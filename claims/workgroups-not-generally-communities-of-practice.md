@@ -48,3 +48,4 @@ Transcript analysis of four workgroups against Wenger's fourteen indicators. The
 ## Related Claims
 - [Informal learning in the studied workgroups clustered into three areas: mastery of organisational processes, negotiating the political, and dealing with the atypical](three-areas-informal-workplace-learning.md) — related
 - [Workers in the studied workgroups tended to manage their learning needs to minimise their supervisors' involvement, with supervisors not the contacts of first resort for learning](supervisors-not-first-resort-for-workplace-learning.md) — related
+- [A common learning pattern: workers first consult documentary sources, then nearby peers, then distant peers or more senior roles, then supervisors](escalating-source-sequence-workplace-queries.md) — related

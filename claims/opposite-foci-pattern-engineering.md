@@ -49,3 +49,4 @@ Table 5 reports low-level MR at 26.8% (less successful) vs 49.3% (more successfu
 - [In the engineering context, SSMR focus showed an opposite pattern to veterinary science: the less successful group had proportionally more SSMR-High than the more successful group](opposite-ssmr-foci-engineering.md) — possibly the same claim (merge candidate)
 - [SSMR comprised the majority of social MR turns in both less and more successful outcome groups in Australian university veterinary science and American university engineering contexts](ssmr-majority-university-veterinary-engineering.md) — related
 - [VMSR occurred at low levels across all groups and contexts](vmsr-low-across-contexts.md) — related
+- [Contributions to socially shared metacognitive regulation were significantly higher in higher performing groups than in lower performing groups (reported finding)](ssmr-contributions-higher-vs-lower-performing-groups.md) — related

@@ -86,3 +86,4 @@ Within-community HLM contrast in the early-plus-late sample, inner-city Chicago.
 - [Late-delivered Level A and Level C interventions showed no detectable effect on high-risk children's aggression](late-level-a-c-no-aggression-effect.md) — reports the opposite
 - [Late-elementary (Grades 5–6) small-group peer-skills training (Level B) was associated with higher posttest aggression than control among high-risk children](late-level-b-increased-aggression.md) — related
 - [Early comprehensive (Level C) intervention effects on high-risk children's aggression interacted with community type, decreasing aggression in Aurora but increasing it in Chicago](level-c-early-aggression-community-interaction.md) — related
+- [Early-delivered Level A (classroom-only) and Level B (classroom plus small-group) interventions showed no significant effects on high-risk children's aggression](early-level-a-b-no-aggression-effect.md) — related

@@ -52,3 +52,4 @@ Authors' interpretive argument (type e) from the introduction, illustrated with 
 - [Academic misconduct emerges primarily from systemic pressures rather than individual moral failure, and academic integrity is a collective epistemic practice institutions must sustain](misconduct-from-systemic-pressures-integrity-collective.md) — a broader claim this one bears on
 - [Teachers are positioned as moral gatekeepers of AI use without adequate structural support](teachers-moral-gatekeepers-ai-lacking-support.md) — a broader claim this one bears on
 - [Universities converge on caution toward AI-detection systems, warning against using detection scores as dispositive evidence of misconduct](ai-detector-skepticism-convergence.md)
+- [Institutions diverge in default GenAI permission stances, ranging from unauthorized-unless-authorized to program-level carve-outs where instructors may not ban AI use](genai-default-permission-stance-divergence.md) — related

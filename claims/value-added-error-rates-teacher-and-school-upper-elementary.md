@@ -50,3 +50,5 @@ Scope statement of the analytical study: it addresses "likely error rates for me
 - [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](memphis-model-adjusts-mobility-demographics-measurement-error.md) — related
 - [Lower measurement error rates can be achieved when schools, rather than individual teachers, are the performance unit](school-as-performance-unit-lower-error-rates.md) — related
 - [Overall false positive and false negative error rates in teacher value-added performance classification are about 10 and 20 percent, respectively](value-added-false-positive-negative-rates-10-20-percent.md) — related
+- [Student growth modeling and teacher value-added modeling are complex due to non-random assignment, measurement error, multidimensionality, and covariates](growth-value-added-modeling-complexity-sources.md) — related
+- [Value-added estimates are likely to be noisy with the amount of data typically used in practice](value-added-estimates-noisy-typical-data.md) — related

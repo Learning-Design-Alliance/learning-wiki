@@ -64,3 +64,10 @@ Meta-analytic synthesis across four outcomes. The article reports the "average e
 ## Related Claims
 - [Environmentally focused interventions appear to be particularly effective for reducing delinquency and drug use](environmentally-focused-interventions-delinquency-drug-use.md) — related
 - [One study found the intervention effect on conduct problems was stronger for youth at greater risk of developing conduct problems.](stronger-conduct-problem-prevention-for-higher-risk-youth.md) — related
+- [Unpublished status and higher method quality are associated with smaller estimated effects of dropout programs](method-variables-smaller-dropout-effects.md) — related
+- [Peer programs, including cooperative learning strategies, were concluded to be the single most effective school-based approach for reducing youth alcohol and drug use](peer-programs-most-effective-drug-use-prevention.md) — reports the opposite
+- [Recovery high school attendance may improve absenteeism, abstinence, and reduce marijuana and other drug use, based on a single quasi‐experimental study with serious risk of bias](rhs-improves-absenteeism-abstinence-drug-use-single-qed.md) — related
+- [Recovery high schools were no better or worse than comparison high schools on grade point average, truancy, or alcohol use in the single included study](rhs-no-difference-gpa-truancy-alcohol.md) — related
+- [Mandatory-random student drug testing reduces high school students' reported past-30-day substance use relative to schools without MRSDT](mrsdt-reduces-past-30-day-substance-use.md) — related
+- [School exclusionary policies paradoxically worsen dropout, delinquency, and achievement](school-exclusion-paradox-worse-outcomes.md) — related
+- [Included intervention studies varied considerably in design, methods, quality and transferability](isolation-intervention-studies-varied-quality-transferability.md) — related

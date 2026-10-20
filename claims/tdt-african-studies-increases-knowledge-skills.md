@@ -45,3 +45,5 @@ Synthesis of three mixed-methods design-research studies (Anto 2013, Ethiopia; B
 ## Related Claims
 - [In the Ethiopian TDT study, novice teachers performed as well as facilitators in designing communicative English lessons](ethiopia-novice-teachers-performed-as-facilitators.md) — related
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
+- [Teacher training for inclusive education had a large effect on teachers' knowledge and moderate effects on willingness to change, skills, and beliefs in the fitted Willingness-to-Change model](training-effects-willingness-model-paths.md) — a broader claim this one bears on
+- [Knowledge-to-Practice, Reaction-to-Training, and Practice-to-Belief models were not well-suited to explain empirical transfer data, and Knowledge-Skills-Beliefs fit only in RCT/quasi-experimental subsets](three-transfer-models-failed-fit.md) — related

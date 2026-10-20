@@ -46,3 +46,4 @@ Criterion-related validity analysis in adolescents and university students using
 - [GenAI usage behavior dimensions correlate positively with perceived learning outcomes (r = 0.106–0.418), with usage habits showing the strongest correlation](genai-usage-habits-strongest-correlation-learning-outcomes.md) — related
 - [GAA-LS scores correlate positively with feedback engagement, academic integrity intention, and responsible AI use intention, and differ across known groups](gaa-ls-criterion-known-group-validity.md) — related
 - [SFAILQ shows high reliability, convergent validity with digital literacy (r = 0.49–0.68), and discriminant validity (HTMT below 0.80)](sfailq-reliability-convergent-discriminant.md) — related
+- [All six GenAI-SRL dimensions correlate positively with learners' perceived writing improvement (r = 0.275–0.338)](genai-srl-dimensions-correlate-perceived-writing-gains.md) — related

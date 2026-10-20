@@ -47,3 +47,4 @@ Findings from the protocol-driven contact search across the national sample of d
 - [Contact information for district EL leaders is often incomplete, and few web-form or superintendent emails receive responses](incomplete-contact-info-few-responses.md) — related
 - [English Learner programs and services across districts are led by administrators with varied titles, many without apparent links to English Learners](varied-administrator-titles-el-services.md) — related
 - [Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states](terminology-and-data-sharing-barriers-hmy.md) — related
+- [Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support](sor-priority-uneven-implementation-genai-context.md) — related

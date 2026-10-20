@@ -62,4 +62,8 @@ Within-study contrast (Hernández et al., 2018): with the same WJ Passage Compre
 
 
 ## Related Claims
--
+- [Associations between inhibition and word reading are task-dependent, ranging from negligible to large (r = .59)](inhibition-word-reading-task-dependent.md) — related
+- [Early interference suppression, but not response inhibition, correlates with emergent literacy measures in both 4–5- and 5–6-year-old subsamples](fish-task-correlates-emergent-literacy-circle-does-not.md) — related
+- [In toddlerhood, interference suppression correlates with expressive vocabulary after controlling for age, whereas response inhibition does not](toddler-interference-suppression-correlates-vocabulary.md) — related
+- [Response inhibition shows small to moderate associations with listening comprehension (r = .16 to .42), based on only two studies](inhibition-listening-comprehension-small-moderate.md) — related
+- [Shifting is moderately to strongly associated with reading comprehension, with large associations when reading-specific shifting tasks are paired with literal comprehension measures](shifting-reading-comprehension-moderate-strong.md) — related

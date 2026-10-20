@@ -74,3 +74,4 @@ Narrative review synthesis of human studies of parental buffering. The review re
 - [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — related
 - [Higher serotonin is associated with persisting in challenging situations, and serotonin synthesis is greater when tryptophan is consumed in the morning or early afternoon](serotonin-persistence-tryptophan-timing.md) — related
 - [Early intervention can remediate neurodevelopmental consequences associated with maltreatment or institutional rearing](early-intervention-remediates-adversity-neurodevelopmental-consequences.md)
+- [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — related

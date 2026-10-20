@@ -48,3 +48,4 @@ Meta-analytic test within the same three-level random-effects models of 77 studi
 ## Related Claims
 - [Most measured dimensions of school racial climate are significantly correlated with students' school belonging across educational levels](racial-climate-dimensions-significantly-correlated-belonging.md) — a broader claim this one bears on
 - [Country, marginalized group membership, school level, and publication type were tested as moderators of racial climate–belonging associations](moderators-of-racial-climate-belonging-associations.md) — related
+- [School racial climate subscales showed positive relationships with motivational constructs including interest, belonging, and utility value](school-racial-climate-positive-motivational-relationships.md) — related

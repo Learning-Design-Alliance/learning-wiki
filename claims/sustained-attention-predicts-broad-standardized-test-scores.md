@@ -50,3 +50,4 @@ Linear mixed models predicting Smarter Balanced (SBAC) statewide standardized te
 - [Attention is more predictive of targeted than broad math, but equally predictive of both reading measure types](attention-predicts-targeted-math-more-than-broad-math.md) — related
 - [Sustained attention positively predicts math fluency assessed in group-based school settings](sustained-attention-predicts-school-based-math-fluency.md) — related
 - [Sustained attention positively predicts reading comprehension assessed in group-based school settings](sustained-attention-predicts-school-based-reading-comprehension.md) — related
+- [Attention more strongly predicts targeted math than targeted reading at a trend level](attention-more-predictive-targeted-math-than-reading-trend.md) — related

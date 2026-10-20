@@ -49,3 +49,4 @@ Authors' interpretation in the Discussion of the regression findings: early sign
 - [Early elementary characteristics predict 71% of variance in high school language outcomes of CI users](early-predictors-ci-high-school-language.md) — related
 - [Current adolescent characteristics including digit span, sentence duration and sign enhancement predict high school language outcomes](late-predictors-ci-high-school-language.md) — related
 - [Shorter duration of deafness, higher performance IQ, and lack of sign enhancement predict higher literacy in adolescents with cochlear implants](duration-of-deafness-piq-sign-enhancement-predict-literacy.md) — related
+- [Phonological processing skills account for 38.3% of variance in adolescent literacy after controlling for child, family, and implant characteristics](phonological-processing-predicts-ci-literacy-variance.md) — related

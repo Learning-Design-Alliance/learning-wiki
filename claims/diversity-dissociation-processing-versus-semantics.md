@@ -52,3 +52,5 @@ The article's summary of its own combined PLDT and similarity-rating results: "T
 - [Contextual diversity facilitates episodic recall but impairs recognition](cd-facilitates-recall-impairs-recognition.md) — reports the opposite
 - Semantic integration findings are constrained: integration occurs even with nonsense syllables, limiting schema-based interpretation — related
 - [High-variability passages receive longer study times than low-variability passages](high-variability-passages-longer-study-time.md)
+- [Words encountered in diverse contexts are identified faster, with a mean 26-ms advantage](diverse-contexts-speed-word-identification.md) — a narrower finding that bears on this claim
+- [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) — a broader claim this one bears on

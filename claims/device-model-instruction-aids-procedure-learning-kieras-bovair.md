@@ -45,3 +45,5 @@ The report attributes this to experiments by Kieras and Bovair (1984) in which o
 ## Related Claims
 
 - [The report attributes to Clancey (1984) that GUIDON field-test students had difficulty understanding and remembering MYCIN's production rules because reasoning strategies and system knowledge were not represented](guidon-students-could-not-understand-mycin-rules.md)
+- [The report attributes to expert-novice comparisons that experts relate symptoms to inoperative system functions while novices focus on physically proximal components](expert-deep-versus-novice-surface-device-models.md) — related
+- [Reform-driven mathematics classrooms were more successful at narrowing the achievement gap than classrooms focused on rote memorization and recall of procedures](reform-classrooms-narrow-achievement-gap.md) — related

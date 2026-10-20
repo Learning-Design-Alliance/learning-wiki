@@ -45,3 +45,6 @@ The report summarizes a body of comparative studies of expert and novice technic
 ## Related Claims
 
 - [The report attributes to Clancey (1984) that GUIDON field-test students had difficulty understanding and remembering MYCIN's production rules because reasoning strategies and system knowledge were not represented](guidon-students-could-not-understand-mycin-rules.md)
+- [The report attributes to Glaser et al. (1985) that skilled and less skilled avionics technicians generated plans equally often but differed in plan quality, with experts deploying domain-particularized strong methods](weak-methods-shared-strong-methods-expert-only.md) — related
+- [Representation-alignment tension between expert externalization and novice comprehension](representation-alignment-tension-expert-novice.md) — related
+- [The report attributes to Kieras and Bovair (1984) that device-model instruction improved procedure learning, retention, execution speed, and procedure simplification relative to rote learning](device-model-instruction-aids-procedure-learning-kieras-bovair.md) — related

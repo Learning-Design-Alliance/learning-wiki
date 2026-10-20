@@ -51,3 +51,4 @@ The report describes a qualitative analysis of prompts issued to a GenAI system 
 - [Some content-based offloading profiles differed in prompting volume even though volume was not a clustering variable, suggesting what is offloaded constrains how much is offloaded](offloading-content-constrains-volume.md) — related
 - GenAI systems achieved consistently high scores on programming assessments written entirely in Estonian — related
 - [Behavioural engagement indicators such as platform interaction and task completion do not by themselves establish cognitive engagement with mathematical ideas](behavioural-engagement-not-cognitive-engagement.md) — related
+- [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related

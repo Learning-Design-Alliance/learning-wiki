@@ -43,4 +43,5 @@ The editorial attributes this conclusion to Damşa's analysis of small-group col
 
 
 ## Related Claims
--
+- [In the case discourse, failure to integrate individuals' ideas with sound verification was linked to low-level inquiry outcomes, while successful high-level grounding enabled groups to integrate ideas and negotiate shared knowledge](idea-integration-linked-to-grounding-quality-in-case-discourse.md) — related
+- [The reconstruction phase produced two interdependent objects: a social object leading to a role-play script and a technology object leading to a Minecraft building](social-and-technology-objects-reconstruction-phase.md) — related

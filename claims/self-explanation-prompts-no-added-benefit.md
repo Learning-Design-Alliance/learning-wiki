@@ -46,3 +46,5 @@ In the fifth-grade ANCOVAs, the contrast comparing prompted with unprompted work
 - [Heuristic worked examples do not improve fifth graders' mathematical modeling competency](worked-examples-no-grade5-modeling-competency-effect.md) — related
 - [Heuristic worked examples improve seventh graders' modeling competency and strategy knowledge at posttest](worked-examples-improve-grade7-modeling-competency.md) — related
 - [Closed-book self-explanation prompts show no added value on delayed posttest performance, even with prior active processing of instructional explanations](closed-book-no-delayed-posttest-added-value.md) — related
+- [Students using a worked-example revised probability textbook improved more in probabilistic reasoning than students using the standard textbook](worked-example-textbook-improves-probability-learning.md) — related
+- [Heuristic worked examples improve fifth graders' modeling-specific strategy knowledge at posttest, but the effect fades by follow-up](worked-examples-improve-grade5-strategy-knowledge-posttest.md) — related

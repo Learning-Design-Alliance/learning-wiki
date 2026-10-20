@@ -60,3 +60,7 @@ Layout-only edits that keep every word and its order (whitespace, one paragraph,
 - [Pooling repeated LLM grades does not improve agreement on short answers.](pooling-repeated-llm-grades-does-not-improve-agreement.md) — the intervention this rules out, and why
 - [LLM short-answer graders agree with one human rater more, and the other less, than the two raters agree with each other.](llm-short-answer-graders-can-reach-human-rater-agreement.md) — stability and agreement are separate properties
 - [Fluent illusions mislead self-assessment.](fluent-illusions-mislead-self-assessment.md) — surface fluency affecting judgement, in human readers
+- [Graded Exemplars Shift an LLM Grader by the Level They Are Marked At](graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at.md) — related
+- [Benchmark success on human-designed assessments may not establish that the underlying abilities are being measured](benchmark-scores-may-not-transfer-construct-interpretation.md) — related
+- [Showing an LLM Grader a Learner's Prior Performance Biases the Grade](showing-a-grader-a-learners-prior-performance-biases-the-grade.md) — related
+- [A graded likelihood detector prompt produced more consistent separation than a binary yes/no detector prompt](likelihood-prompt-beats-binary-detection.md) — related

@@ -45,3 +45,10 @@ Mixed-effects analysis of mTRF reconstruction accuracy (Pearson's r) from 48 chi
 ## Related Claims
 
 - [Attention and self-regulation skills are trainable in children, with reported behavioral and neural changes across curricula and intervention programs](attention-training-interventions-evidence-note.md)
+- [Selective attention reduces encoding of unattended information and induces learned inattention that makes future learning more difficult](selectivity-costs-learned-inattention.md) — related
+- [Unattended Musical Rain streams were better reconstructed than unattended linguistic distractors in both groups, with stronger MuR encoding in monolinguals](unattended-mur-stronger-encoding.md) — a narrower finding that bears on this claim
+- [Bilingual children show a flatter pattern of attended-speech encoding across conditions, driven by weaker encoding in low- or no-interference conditions](bilingual-flatter-attended-encoding-pattern.md) — related
+- [The study found no evidence for enhanced attentional capacity in bilingual children, behaviourally or neurally](no-bilingual-attentional-capacity-enhancement.md) — related
+- [Monolingual and bilingual children perform the dichotic comprehension task equivalently, with both groups finding English–English interference hardest](equivalent-comprehension-monolingual-bilingual-children.md) — related
+- [Children of higher maternal education showed a significantly larger attention effect on neural responses (mean attended–unattended difference 1.7 vs. 0.6 μV)](attention-effect-larger-higher-maternal-education.md) — related
+- [The group difference in neural attentional modulation is tied to reduced distractor suppression in the unattended channel, not to differences in response to attended stimuli](ses-distractor-suppression-deficit-not-signal-enhancement.md) — related

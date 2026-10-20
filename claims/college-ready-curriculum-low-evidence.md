@@ -48,3 +48,4 @@ The panel's review of course-taking studies for Recommendation 1. Six studies po
 - [Students who received the personalized AP message were more likely to take an AP exam and passed a higher number of exams, making them eligible for college credit](personalized-ap-message-increases-exam-taking-and-passing.md) — related
 - [Course availability can disrupt community college students' educational trajectories](course-availability-disrupts-community-college-trajectories.md) — related
 - Completing the recommended number of core academic courses does not ensure college preparation because the New Basics curriculum does not specify course content — related
+- [Years of science study in high school are directly related to college entrance exam achievement, and Hispanic and Black students complete advanced science courses at smaller rates](years-science-study-sat-achievement.md) — related

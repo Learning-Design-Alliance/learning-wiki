@@ -63,3 +63,4 @@ Descriptive survey result on the transition to remote instruction: the report pr
 
 ## Related Claims
 - [Surveyed charter schools transitioned to remote education delivery in less than a week after physical closure in March 2020, averaging 3.5 days](charter-schools-remote-transition-35-days.md) — related
+- [COVID-19 school closures highlighted the need to understand promising remote learning strategies when no classroom alternatives exist](covid-closures-highlight-remote-learning-strategy-need.md) — related

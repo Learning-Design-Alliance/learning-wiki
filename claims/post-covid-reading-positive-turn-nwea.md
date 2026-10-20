@@ -44,3 +44,10 @@ The page's description of a NWEA Trends Snapshot states that analysis of MAP Gro
 
 ## Related Claims
 - [US reading achievement showed a positive turn after years of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](map-growth-reading-turnaround-2025-2026.md) — possibly the same claim (merge candidate)
+- [Spring 2025 MAP Growth data show a modest, incremental post-COVID recovery in math achievement](spring-2025-map-growth-modest-math-recovery.md) — related
+- [NWEA reports positive recovery trends in K-2 academic recovery following the COVID pandemic](k2-academic-recovery-positive-trends-post-covid.md) — related
+- [Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind](middle-school-reading-stagnant-lowest-performers-behind.md) — reports the opposite
+- [Reading achievement remained stalled as of Spring 2025 according to MAP Growth national data](spring-2025-map-growth-reading-stalled.md) — reports the opposite
+- [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — reports the opposite
+- [A NWEA brief highlights middle school reading as an urgent challenge in academic recovery, with evidence of post-COVID-19 declines among struggling adolescent readers](struggling-adolescent-readers-post-covid-declines-brief.md) — related
+- [The COVID-19 pandemic impacted historically underserved students more severely than their peers](covid-impacted-historically-underserved-students-more-severely.md) — related

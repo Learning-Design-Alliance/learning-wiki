@@ -55,3 +55,4 @@ The snapshot's key findings report impacts from the third year of a national, mu
 - [Increases in school funding can improve student outcomes when funds support the specific needs of students](school-funding-improves-outcomes-when-targeted.md) — related
 - [Small career-ladder bonuses can affect teacher behavior without necessarily producing large effects](small-bonuses-affect-behavior-not-large-effects.md) — related
 - [Paying students for performance on standardized tests or for course grades does not increase achievement test scores in urban public schools](output-incentives-no-achievement-gains.md) — related
+- [Input-based incentives produce achievement gains at lower cost than major education reforms of recent decades](input-incentives-cost-effective-comparison.md) — related

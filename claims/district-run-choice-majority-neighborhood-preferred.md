@@ -44,3 +44,6 @@ Descriptive analysis of NCES survey data reported in the Tapestry of Public Educ
 
 ## Related Claims
 - [Most U.S. schools of choice are operated by public school districts, with about 6.5 million students enrolled in a chosen public school](most-schools-of-choice-district-run.md) — possibly the same claim (merge candidate)
+- [Public school choice was constrained at the middle and high school levels because many districts have only one middle school and one high school](title-i-choice-constrained-single-secondary-schools.md) — related
+- [Parents of students who used Title I school choice were largely satisfied with the new schools](parents-largely-satisfied-with-choice-schools.md) — related
+- [In a subsample of large urban districts, the average achievement of schools chosen by Title I school choice users was consistently higher than the average achievement of the schools they came from](chosen-schools-higher-achievement-than-origin-schools.md) — related

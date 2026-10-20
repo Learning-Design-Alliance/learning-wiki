@@ -44,3 +44,4 @@ Comparison of pacing trajectories between top-quartile and bottom-quartile schoo
 
 ## Related Claims
 - [High-poverty Chicago schools show instructional pacing that flattens out around fourth grade, while mixed-income schools keep pace with ITBS norms](high-poverty-schools-pacing-flattens-fourth-grade.md) — related
+- [Less than half of Chicago elementary schools keep pace with ITBS grade-level content expectations during the last three years of elementary schooling](less-than-half-chicago-schools-keep-pace-itbs-upper-grades.md) — related

@@ -46,3 +46,5 @@ The article's abstract states the study's purpose: examining screening assessmen
 - [The authors argue the IRLA may help bridge screening and intensive, systematic instruction](irla-bridging-screening-instruction.md) — possibly the same claim (merge candidate)
 - [Validity evidence for the IRLA is disaggregated across grade, program, and race/ethnicity](irla-validity-disaggregated-demographics.md) — related
 - Compressed content, grade retention, and enhanced Response to Intervention show less evidence of substantially shifting outcomes for struggling students, and some carry potential adverse long-term consequences — related
+- [MAP Growth state-test correlations exceed 0.8 for most Grade 3-8 concurrent indices, with mathematics correlations higher than reading](map-growth-criterion-validity-correlations-state-tests.md) — related
+- [End-of-Grade-1 oral reading fluency status predicts later reading comprehension better than growth slope, though slope added to first-grade screening accuracy in one study](orf-status-beats-slope-for-prediction.md) — related

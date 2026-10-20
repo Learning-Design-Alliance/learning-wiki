@@ -48,3 +48,5 @@ Behavioral finding from the Mathematica evaluation of the school's first nine ye
 - [Days lost to suspension at the Kauffman School are small on average relative to instructional time added by its extended school day and year](kauffman-suspension-days-small-versus-extended-time.md) — related
 - [Kauffman students had higher attendance rates than other similar students in Kansas City](kauffman-students-higher-attendance-rates.md) — related
 - [In 2021-22 Kauffman School students were 12 percentage points more likely than comparison students to receive at least one suspension](kauffman-school-2021-22-suspensions-12-points-higher.md) — reports the opposite
+- [In 2021-22 the Kauffman School increased attendance rates by approximately 1 percentage point](kauffman-school-2021-22-attendance-increase.md) — related
+- [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related

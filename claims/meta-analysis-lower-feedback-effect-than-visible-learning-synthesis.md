@@ -43,3 +43,5 @@ Authors' interpretation in the Discussion. They also note the random-effects mod
 
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - Fail-safe N analyses indicate publication bias does not threaten the validity of the meta-analysis findings — related
+- [Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity](feedback-medium-overall-effect-d048-heterogeneous.md) — related
+- [During feedback provision, both content-specific support (g = 0.48) and generic support (g = 0.55) positively affect peer-feedback processes and outcomes, with no significant difference between them](content-specific-and-generic-provision-support-both-effective.md) — related

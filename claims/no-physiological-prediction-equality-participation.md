@@ -48,3 +48,7 @@ GEE models testing tonic EDA slope, %REC, %DET, and ADL as predictors of equalit
 - [Higher physiological synchrony relates to less monitoring with positive valence](synchrony-negative-predictor-positive-valence.md) — related
 - [Session-level physiological synchrony occurred in the two groups that struggled with the collaborative exam, while the two groups that found the task easy showed no synchrony.](physiological-synchrony-occurs-with-difficulties.md) — related
 - [Real collaborative groups show higher physiological synchrony than randomly matched false groups on %REC, %DET, and ADL](real-groups-higher-synchrony-than-false-groups.md) — related
+- [Physiological synchrony among collaborating students related only to cognitive regulation, while motivational regulation changes related to achievement](physiological-synchrony-cognitive-regulation-dindar.md) — related
+- [The editorial reports that a mixed methods study of 42 participant pairs found partly contradictory and partly complementary results on physiological synchrony and collaborative learning](physiological-synchrony-collaborative-learning-mixed-methods.md) — a broader claim this one bears on
+- [Increased physiological arousal relates to less monitoring with neutral valence](arousal-negative-predictor-neutral-valence.md) — related
+- [Individual participation in monitoring processes was consistent with physiological arousal, suggesting an observable indicator of participation](physiological-arousal-consistent-with-monitoring-participation.md) — reports the opposite

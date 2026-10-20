@@ -46,3 +46,6 @@ Independent-samples t-test (Welch's correction) comparing phone-use frequency be
 
 - [Phone-use frequency and duration increase phone-use mental effort, which negatively affects learning performance, mediating the behavior–performance link](mental-effort-mediates-phone-use-learning-cost.md)
 - [Habitual phone use heightens smartphone vigilance but does not directly increase checking frequency; it lengthens use duration only when notifications are hidden](habitual-use-acts-through-vigilance.md) — related
+- [Notification-hidden students showed longer average phone-use duration and no performance difference versus notification-revealed students](no-performance-difference-notification-settings.md) — related
+- [Phone-use behavior under hidden notifications is highly heterogeneous: about half of NH students abstained entirely, and most NR checks were brief glances](heterogeneous-phone-use-under-hidden-notifications.md) — related
+- [Smartphone settings moderate how vigilance translates into phone use: vigilance raises checking frequency more when notifications are revealed, and use duration more when notifications are hidden](settings-moderate-vigilance-phone-use-link.md) — related

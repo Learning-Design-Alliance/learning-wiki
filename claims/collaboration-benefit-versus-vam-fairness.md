@@ -65,3 +65,8 @@ Stakeholder-perception finding from the same eight-district implementation study
 - [Alternative student growth measures, especially student learning objectives, were used for many purposes beyond teacher evaluation](slos-used-for-purposes-beyond-evaluation.md) — related
 - [Evidence on reliability and validity of alternative student growth measures, especially student learning objectives, is limited](limited-reliability-validity-evidence-alternative-growth-measures.md) — related
 - [In every district, more educators agree than disagree that they share a common language for the SLO process](common-language-slo-process.md) — related
+- [Educator agreement with positive TPE statements rose from the 2013 to the 2014 survey, with the strongest increases on SLO support items](year-two-tpe-perceptions-improve-most-on-slo-items.md) — related
+- [Educators report insufficient SLO training and scarce SLO quality rating rubrics as key implementation challenges](slo-implementation-challenges-training-and-quality-rubrics.md) — related
+- [Educator perceptions of TPE become more positive with each year of implementation](tpe-perceptions-improve-with-experience.md) — related
+- [Instructionally focused TPE implementation is seen as more valuable, while compliance-driven implementation increases teacher stress](instructional-versus-compliance-tpe-implementation.md) — related
+- [Teachers in the top quartile of districts on SLO support report receiving at least five SLO support strategies at rates 20 percentage points higher than teachers in the bottom quartile](slo-support-district-quartile-gap.md) — related

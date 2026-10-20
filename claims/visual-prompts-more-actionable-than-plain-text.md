@@ -47,3 +47,5 @@ Qualitative card-sorting activity in three of four first-cycle courses, analyzed
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [LO assessment supported by CA tools prompted faculty toward more authentic, participatory, and reflective teaching practices](ca-assessment-prompts-authentic-reflective-teaching.md) — related
 - [Perceived ease-of-use based on simplicity and familiarity with common chart types heavily influenced teachers' visualization preferences](simplicity-familiarity-drive-dashboard-preference.md) — related
+- [Students strongly prefer qualitative tree visualizations over quantitative radar charts of classroom collaboration](students-prefer-qualitative-tree-over-radar.md) — related
+- [Students and teachers responded positively to automatically generated textbook videos, finding explanations easier to follow than plain text](generated-textbook-videos-easier-to-follow-than-plain-text.md) — related

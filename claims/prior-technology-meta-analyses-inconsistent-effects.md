@@ -50,3 +50,4 @@ The review reports, citing Talan (2020), a meta-analysis of mobile learning acro
 - [Mobile device use in primary classrooms produces a small, statistically significant positive pooled effect on literacy and numeracy outcomes compared with alternative devices or no device](mobile-devices-small-positive-effect-literacy-numeracy.md) — reports the opposite
 - Math shows slower recovery than reading in the full meta-analysis — related
 - [Teachers reported spending more time on literacy and numeracy instruction in 2020 than in 2019, particularly after return to schooling](covid19-increased-instructional-volume-2020.md) — related
+- [Using computerized systems as a differentiation tool has small to moderate positive effects on primary students' language and math performance](computerized-differentiation-systems-positive-effects-primary.md) — related

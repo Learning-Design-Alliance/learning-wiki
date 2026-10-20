@@ -46,3 +46,5 @@ Multilevel regression on 1091 students in 46 classes from eight Dutch secondary 
 - [Grade Effect Driven By Dependent Independent Groups](grade-effect-driven-by-dependent-independent-groups.md)
 - [No Motivation Effect Differentiation](no-motivation-effect-differentiation.md)
 - [Growth On Learning Strategy Scales](growth-on-learning-strategy-scales.md)
+- [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — related
+- [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](assistments-grade-6-differential-impact.md) — related

@@ -45,3 +45,4 @@ Descriptive and regression analysis of 71,405 exams from 2,979 students. "Also b
 ## Related Claims
 
 - [Female students reported significantly lower initial self-efficacy for quantitative biology problems than male students, with small effect sizes](female-students-lower-initial-quantitative-self-efficacy.md)
+- [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related

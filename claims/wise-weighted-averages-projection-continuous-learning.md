@@ -44,3 +44,4 @@ Simulation study under the Continuous Learning Model comparing simple averages, 
 
 ## Related Claims
 - [Simple addition of through-course results is appropriate only when learning is bounded to each testing period](wise-simple-addition-appropriate-bounded-learning.md) — related
+- [Teachers report changing high-quality instruction to match state and interim test formats, limiting deep learning opportunities](teachers-alter-instruction-to-match-test-formats.md) — related

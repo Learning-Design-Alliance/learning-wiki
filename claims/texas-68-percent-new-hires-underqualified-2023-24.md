@@ -47,3 +47,4 @@ Analysis of Texas Education Agency hiring data reported in the brief. The brief 
 - [The share of uncertified teachers among new Texas entrants rose from 16% in 2018–19 to 49% in 2023–24](texas-uncertified-new-teacher-share-rising.md) — possibly the same claim (merge candidate)
 - [Newly hired Texas teachers with standard or intern certificates declined sharply over the past decade while uncertified new hires became the largest category](texas-new-hire-certification-mix-shifted.md) — related
 - [Noncertified Texas teachers show the sharpest retention decline, with fewer than 40% still teaching after 5 years](noncertified-sharpest-retention-decline.md) — related
+- [The share of uncertified teachers in the Texas teacher workforce more than tripled between 2019–20 and 2024–25, reaching 12%](texas-uncertified-teacher-share-tripled.md) — related

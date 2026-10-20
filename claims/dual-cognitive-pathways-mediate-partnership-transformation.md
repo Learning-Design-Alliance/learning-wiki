@@ -48,3 +48,4 @@ PLS-SEM mediation analysis in the 912-student three-wave survey. Both "mediating
 - [Cognitive vigilance is positively associated with transformative learning experience](cognitive-vigilance-predicts-transformative-learning.md) — related
 - [U-shaped dynamics: partnership-vigilance and offloading-transformation relationships are convex, with benefits accelerating only beyond a threshold of engagement](u-shaped-thresholds-vigilance-offloading.md) — related
 - [Human-GenAI pedagogical partnership is positively associated with both cognitive vigilance and cognitive offloading among business students](genai-partnership-activates-vigilance-and-offloading.md) — related
+- [The dual cognitive pathway model is structurally invariant across China, Europe, and the United States, with region-specific intensities](cross-cultural-invariance-dual-pathway-model.md) — related

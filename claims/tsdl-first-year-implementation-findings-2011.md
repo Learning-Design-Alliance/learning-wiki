@@ -44,3 +44,5 @@ Implementation study of the Teacher-Student Data Link project conducted by Mathe
 
 ## Related Claims
 - [SDP and EP partner agencies began working with the programs during the study's first year (2012–2013)](sdp-ep-year1-agencies-began-partnership.md) — related
+- [The EDIT was developed iteratively beginning in 2012 under OPRE commissioning](edit-iterative-development-2012-opre.md) — related
+- [The TSDL project produced three lasting accomplishments: implementation support, ongoing state collaboration, and new TSDL-inspired data activities](tsdl-three-lasting-accomplishments.md) — related

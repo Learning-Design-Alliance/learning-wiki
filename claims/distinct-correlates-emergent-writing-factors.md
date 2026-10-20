@@ -64,3 +64,4 @@ Structural models estimated semi-partial correlations of TOPEL and Block Design 
 ## Related Claims
 - [Preschool emergent writing skills are best described by three correlated but distinct factors: Conceptual Knowledge, Procedural Knowledge, and Generative Knowledge](three-factor-structure-emergent-writing-preschoolers.md) — related
 - [The same three-factor model of emergent writing fits both younger and older preschool children despite skill-level differences](three-factor-model-invariance-across-preschool-ages.md) — related
+- [Preschoolers' writing and writing-related skills increase significantly between ages 3 and 5 on letter, name, and CVC word tasks](preschool-writing-skills-increase-age-3-to-5.md) — related

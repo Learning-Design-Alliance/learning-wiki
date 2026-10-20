@@ -70,3 +70,4 @@ Factorial repeated measures ANOVA on error correction test scores with time and 
 - [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](feedback-most-effective-at-task-and-process-levels.md) — related
 - [Explicit instruction facilitates the acquisition of L2 grammar](explicit-instruction-facilitates-l2-grammar-acquisition.md) — related
 - [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of explicit L2 knowledge two weeks later.](cf-type-explicit-long-term-benefits.md) — related
+- [Explicit correction did not produce evidence of learned morphological generalizations to novel stimuli in adult L2 learners](correction-no-learned-generalizations-novel-stimuli.md) — related

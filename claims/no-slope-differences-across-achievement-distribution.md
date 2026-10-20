@@ -47,3 +47,5 @@ Supplemental spline regression analysis of the fully controlled models examined 
 - [Advanced counting competencies predict fifth grade mathematics achievement whereas basic counting does not when both are included together](advanced-counting-more-predictive-than-basic.md) — related
 - [Basic counting competencies alone are considerably predictive of fifth grade mathematics achievement when modeled without advanced counting](basic-counting-alone-predictive.md) — related
 - [Gains in counting and cardinality during the preschool year are associated with roughly half a standard deviation higher fifth grade mathematics achievement](preschool-counting-gains-predict-fifth-grade.md) — related
+- [The counting and cardinality coefficient is significantly larger than the coefficients for patterning, geometry, and measurement and data](counting-coefficient-larger-than-other-domains.md) — related
+- [ChatGPT exposure effects vary across the school performance distribution, with positive estimates for lower-performing schools and negative for top-performing schools, but this pattern is not robust](chatgpt-exposure-performance-distribution-heterogeneity.md) — related

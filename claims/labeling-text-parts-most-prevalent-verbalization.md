@@ -45,3 +45,6 @@ Coding of the 36 think-aloud protocols showed labeling utterances (valuing text 
 ## Related Claims
 
 - [Linguistic selection reasons were uttered most regardless of the selection task, suggesting a default linguistic selection strategy](linguistic-default-selection-strategy.md)
+- [Tenth-graders show few signs of global task awareness when selecting text fragments, rarely rereading or deeply processing task instructions](few-signs-global-task-awareness-selection.md) — related
+- [The understand-solve-check cognitive model accounted for 71% of protocol subjects' verbalizations](cognitive-model-captures-71-percent-verbalizations.md) — related
+- [Task instruction significantly affected verbalized local-level selection reasons, with the linguistic task yielding more matching verbalizations than the other two tasks](local-task-level-significant-task-verbalization-match.md) — related

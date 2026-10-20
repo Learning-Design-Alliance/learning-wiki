@@ -51,3 +51,4 @@ The study's validation results, as reported in the abstract, show that "even the
 - [Goal setting improves performance](goal-setting-improves-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Teachers can implement the Self-Determined Learning Model of Instruction across varied subjects and settings with students having diverse learning needs](teachers-implement-sdlmi-diverse-settings.md) — a broader claim this one bears on
 - [Students taught with the Self-Determined Learning Model of Instruction gain in self-determination, but not significantly more than a delayed-treatment control group](self-determined-learning-model-of-instruction-improves-self-determination.md) — related
+- [Young children can self-initiate external metacognitive strategies and transfer them across contexts, with flexibility increasing over the preschool and early school years](young-children-self-initiate-external-metacognitive-strategies.md) — related

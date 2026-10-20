@@ -46,3 +46,4 @@ TTR analysis of audit responses shown in Fig. 3. Response length was uniform acr
 - [LLaMA produces a fivefold higher victimization-to-politics vocabulary ratio for the Roma persona (≈0.15) than for elite peers (≈0.03)](agency-theft-victimization-framing.md) — related
 - [LLM history tutors reduce marginalized students' access to contested geopolitical framing, with the coup theory appearing in 2.6% of Low Tier responses versus 7.9% for the baseline](epistemic-gatekeeping-coup-gap.md) — related
 - [Engagement removal lowers the adaptive score, indicating the engagement generator realizes persona-conditioned style choices in narration](engagement-realizes-adaptive-style-in-narration.md) — related
+- [The two personas produced qualitatively different questions on the same essay, indicating the persona constraint mechanism alters the model's analytical focus](persona-constraint-alters-llm-analytical-focus.md) — related

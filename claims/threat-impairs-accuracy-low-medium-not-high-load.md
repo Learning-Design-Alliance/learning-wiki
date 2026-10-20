@@ -48,3 +48,6 @@ Laboratory experiment with 25 adolescents and 25 adults performing a verbal n-ba
 - [No age differences emerge in how threat and cognitive load interact on working memory accuracy or reaction time](no-age-by-threat-by-load-interaction.md) — related
 - [The threat-of-scream manipulation successfully induced sustained anxiety, with equivalent subjective and startle responses in adolescents and adults](scream-threat-manipulation-induced-anxiety-equally.md) — related
 - [Reaction times are faster during threat than safe conditions only on the high-load (3-back) task, in both adolescents and adults](threat-speeds-rt-high-load-only.md) — related
+- [N-back response time increases and accuracy decreases with cognitive load, and Posner cue conditions differ in speed and accuracy trade-offs](cognitive-load-dose-response-nback-posner.md) — related
+- [Social identity threat impairs math performance via increased intrusive thoughts and working memory load (being-cognition disfluency)](social-identity-threat-working-memory-performance.md) — related
+- [Cyberball exclusion reduces n-back verbal working memory accuracy in young adolescent girls but not in mid-adolescents or adults](exclusion-reduces-nback-accuracy-young-adolescent-girls.md) — related

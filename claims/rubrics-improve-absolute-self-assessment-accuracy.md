@@ -49,3 +49,5 @@ Controlled between-subjects experiment with N = 93 eleventh- and twelfth-grade s
 - [The reduction in perceived difficulty does not mediate the benefits of rubrics on self-assessment accuracy](perceived-difficulty-does-not-mediate-rubric-accuracy-benefits.md) — related
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related
 - [ChatGPT use does not change absolute self-evaluation accuracy, but self-evaluation judgments fail to correlate with performance under ChatGPT assistance](chatgpt-no-accuracy-difference-poor-calibration.md) — reports the opposite
+- [Providing a rubric does not significantly improve relative accuracy of self-assessment across criteria](rubrics-no-effect-relative-accuracy.md) — related
+- [Providing a rubric reduces bias in self-assessment, moving judgments closer to expert ratings](rubrics-reduce-self-assessment-bias.md) — related

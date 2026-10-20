@@ -66,3 +66,6 @@ Task 2 post-workshop survey. The article reports "98 percent of educators said t
 - [Educators reported the LVN strategy bank improved their understanding, use, and identification of strategies](lvn-strategy-bank-improves-practice.md) — related
 - [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](peer-reflective-groups-challenge-student-teacher-views.md) — a broader claim this one bears on
 - [Educators reported increased confidence across all four pillars of the whole-child model after LVN use](lvn-confidence-gains-four-pillars.md) — related
+- [Time to plan, more than tools or training, was the largest reported barrier to implementing LVN strategies](time-biggest-barrier-strategy-implementation.md) — related
+- [Educators reported that LVN-selected strategies supported student engagement, content knowledge, confidence, and collaboration](lvn-strategies-support-engagement-and-knowledge.md) — related
+- [Over 90 percent of Bristol teachers who participated in student-led mental health PD reported being more conscious of the experiences of students of color in school](bristol-pd-consciousness-over-90-percent.md) — related

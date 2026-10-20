@@ -46,3 +46,8 @@ Video-based frequency counts of teacher visits across 19 groups in four classroo
 
 - [Teachers visited teams frequently but mostly only briefly, except during phases requiring more intense teacher engagement](claim-teacher-visit-pattern-brief-with-phase-exceptions.md) — related
 - [Teachers spent most CSCL class time on task management, content knowledge, technical support and observing, with minimal socio-emotional support](teacher-guidance-focus-distribution-cscl-science.md)
+- [Teacher guidance distribution tracked perceived willingness to collaborate, not group outcome level or prior science competence](guidance-follows-willingness-not-outcome.md) — a broader claim this one bears on
+- [Guided discovery outperformed both unguided discovery and direct instruction in classic studies](guided-discovery-outperformed-both-extremes.md) — related
+- [Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis](play-based-learning-improves-outcomes.md) — related
+- [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — related
+- [Teachers' guidance and support in collaborative science inquiry differed by teacher perceptions and group outcomes, and teacher affect was compounded by student affect, per the editorial's report of Pietarinen et al.](teacher-guidance-varies-perceptions-outcomes-reciprocal-affect.md) — a broader claim this one bears on

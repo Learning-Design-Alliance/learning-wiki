@@ -45,3 +45,4 @@ Analysis of average ACT scores in early-mover schools before and after on-track 
 ## Related Claims
 - [On-track gains were largest for students with the lowest incoming skills and for African American males](on-track-gains-largest-for-lowest-skills-and-black-males.md) — related
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
+- [Outcome differences between CHSRI new-start and redesigned schools were not statistically significant after accounting for incoming student differences](chsri-new-start-redesigned-no-significant-outcome-differences.md) — related

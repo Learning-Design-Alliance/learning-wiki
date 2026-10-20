@@ -49,3 +49,7 @@ The article’s own description of the research brief’s scope: it “examines 
 - [The lowest-performing middle school readers fell further behind during post-COVID recovery](lowest-performing-middle-school-readers-falling-further-behind.md) — a narrower finding that bears on this claim
 - [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — related
 - Supportive school environments and strong teacher-student relationships speed recovery from learning loss — related
+- [Persistently high chronic absenteeism rates are associated with slower academic recovery in math and reading after COVID-era disruptions](chronic-absenteeism-associated-slower-covid-recovery.md) — a narrower finding that bears on this claim
+- [Post-pandemic summer school is studied for its effects on student achievement and district academic recovery](post-pandemic-summer-school-achievement-recovery-effects.md) — related
+- [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — related
+- [The COVID-19 pandemic influenced U.S. science achievement, as shown by trends in science test scores across seven school years from 2019 through 2024](covid-influenced-science-achievement-seven-school-years.md) — related

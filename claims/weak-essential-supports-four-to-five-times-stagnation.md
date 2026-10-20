@@ -50,3 +50,4 @@ Observational analysis of Chicago elementary schools comparing stagnation in ITB
 - [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — related
 - Factor analysis of the Chicago school surveys produced thirteen composite indicators, which with four stand-alone measures yielded seventeen overall indicators — related
 - Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains — related
+- [About 18 percent of elementary school faculties are highly engaged, with another 33 percent moderately active](faculty-collective-action-18-percent-highly-engaged.md) — related

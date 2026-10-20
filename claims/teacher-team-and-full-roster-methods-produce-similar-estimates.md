@@ -53,3 +53,5 @@ The article compares empirical estimates from the two joint-responsibility metho
 - [The full roster and full roster-plus methods are empirically similar](full-roster-methods-empirically-similar.md) — related
 - [The Teacher Team Method and Full Roster Method provide a more stable approach than the Partial Credit Method for estimating teacher effects when students have multiple teachers for the same subject.](teacher-team-and-full-roster-methods-more-stable-than-partial-credit.md) — related
 - [The report synthesizes 21 empirical studies on value-added model key issues and findings](vam-report-synthesized-21-empirical-studies.md) — related
+- [The partial credit and teacher team methods for co-teaching are impractical](partial-credit-teacher-team-methods-impractical.md) — related
+- [Multiple sources of student information can be accumulated to estimate teacher effectiveness](multiple-sources-accumulate-teacher-effectiveness.md) — related

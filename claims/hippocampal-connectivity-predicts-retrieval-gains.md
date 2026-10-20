@@ -64,3 +64,5 @@ Longitudinal analysis in the same 28 children found hippocampal activation chang
 ## Related Claims
 - [Hippocampal engagement during arithmetic problem solving increases longitudinally in children while prefrontal-parietal engagement decreases](hippocampal-engagement-increases-prefrontal-parietal-decreases.md) — related
 - [Children shift from counting to memory-based retrieval strategies in single-digit addition over a 1.2-year interval in middle childhood](counting-to-retrieval-shift-longitudinal-childhood.md) — related
+- [Inter-problem multivoxel pattern stability in the hippocampus increases from childhood through adolescence into adulthood, reaching adult-like levels by adolescence](hippocampal-representation-stability-increases-development.md) — related
+- [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](retrieval-development-through-adolescence-adulthood.md) — related

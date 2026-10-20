@@ -158,3 +158,5 @@ Read from the related-publications listing on the NWEA page for "Trend Snapshots
 - [School offerings and placement practices limit opportunity for 8th-grade algebra access](school-offerings-and-placement-practices-limit-algebra-opportunity.md) — related
 - [The study explored whether 8th-grade Algebra enrollment varied by gender during and after the pandemic](algebra-enrollment-gender-during-after-pandemic.md) — related
 - [The study examines post-COVID trends in gender gaps in 8th grade STEM skills using three national assessments and Algebra enrollment data](post-covid-gender-gap-trends-8th-grade-stem-three-assessments.md) — related
+- [Gender gap trends in 8th-grade STEM were estimated from five years of TIMSS, NAEP, and MAP Growth data spanning the pandemic](gender-gap-trends-three-national-assessments-8th-grade.md) — related
+- [A two-million-student MAP Growth sample was used to test whether gender gaps widened among low- and high-achieving students](two-million-student-map-growth-gender-gaps-achievement-levels.md) — related

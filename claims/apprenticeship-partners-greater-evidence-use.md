@@ -45,3 +45,4 @@ Multi-week intervention dissertation in which young adolescents engaged in anony
 ## Related Claims
 - [Apprenticeship-partnered adolescents generate more advanced counterarguments than similar-ability-paired peers](apprenticeship-partners-advanced-counterarguments.md) — related
 - [The more skilled adult partners displayed skilled counterargument, evidence use, frequent questioning, and meta-talk about the discourse](skilled-partner-discourse-moves.md) — related
+- [Both partnered and comparison groups advanced in individual dialogic argument skills, demonstrating transfer of higher-order skills from social to individual level](dialogic-practice-social-to-individual-gains.md) — related

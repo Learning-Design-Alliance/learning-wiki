@@ -47,3 +47,4 @@ An observational analysis of Chicago freshman attendance and course-failure reco
 - [Nearly 90 percent of Chicago freshmen who miss less than a week of school per semester graduate, regardless of 8th grade test scores](low-freshman-absence-high-graduation.md) — related
 - [Students who fail Algebra I show far more signs of ninth-grade disengagement, including higher absenteeism and suspension rates](algebra-failure-linked-to-ninth-grade-disengagement.md) — related
 - [Four-year-olds who miss more preschool score lower on kindergarten readiness measures of math, letter recognition, and social-emotional development, even after controlling for incoming skills](preschool-absence-lower-kindergarten-readiness-scores.md) — related
+- [By spring of ninth grade, 64 percent of CPS ninth graders missed two or more weeks of instruction in at least one major subject](cps-ninth-graders-64-percent-miss-two-weeks-major-subject.md) — related

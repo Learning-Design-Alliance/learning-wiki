@@ -49,3 +49,5 @@ Cross-sectional ANCOVA of 136 adolescents in six age groups (12–17), controlli
 - [Working memory capacity is significantly smaller in lower-SES than higher-SES adolescents](lower-ses-smaller-working-memory-capacity.md) — related
 - [Younger students mostly use concrete strategies (e.g., inserting numbers) while older students use abstract rule-based strategies, with the transition around age 14–15](concrete-to-rule-based-strategy-transition-age-14-15.md) — related
 - [Cool EF measures correlate with each other, but no association is found between cool and hot EF measures](cool-hot-ef-uncorrelated.md)
+- [Male and female WM growth trajectories do not differ: sex-by-age interactions are non-significant after multiple-comparison correction](no-sex-differences-wm-growth.md) — related
+- [When PSID-CDS data are restricted to ages 6–11, backward digit span growth is best characterized by a quadratic (not cubic) function](quadratic-best-fit-restricted-age-range.md) — related

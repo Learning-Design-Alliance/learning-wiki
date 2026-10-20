@@ -82,3 +82,9 @@ Interview findings on school climate: experts "frequently stated that the ways R
 - [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](restorative-practices-reduce-exclusionary-discipline.md) — related
 - [Exclusionary discipline is ineffective at improving school safety and harms both suspended students and their non-suspended peers](suspension-ineffective-harms-peers.md) — related
 - Chicago policy changes coincided with steep drops in suspensions and expulsions for girls of color — related
+- [RJ serves a preventative purpose by building students' social and emotional skills, not only responding to offenses](rj-preventative-social-emotional-skill-building.md) — related
+- [Academic benefits of restorative practice exposure are stronger for Black and Latino/a students than for White students, suggesting practices can reduce racial gaps](restorative-practice-benefits-stronger-black-latino-students.md) — related
+- [Restorative practices outcomes follow a slow trajectory: quick low-level successes after training, high-level success in three to five years or more](restorative-practices-three-to-five-year-timeline.md) — related
+- [Experts report there is neither a clear definition nor a widely accepted model of restorative justice in schools](no-clear-definition-or-accepted-model-of-school-rj.md) — related
+- [National school crime indicators show schools became safer as exclusionary discipline reductions were underway, with 79% of schools recording incidents in 2015-16 versus 85-89% in prior years](schools-safer-as-exclusions-declined.md) — related
+- [School exclusionary policies paradoxically worsen dropout, delinquency, and achievement](school-exclusion-paradox-worse-outcomes.md) — related

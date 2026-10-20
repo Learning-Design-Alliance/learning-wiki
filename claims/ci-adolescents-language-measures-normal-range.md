@@ -53,3 +53,4 @@ Results section reports the standardized language battery for the CI-HS sample (
 - [Verbal reasoning subtest scores of long-term CI users increased from elementary grades to high school beyond expected age-related growth](ci-verbal-reasoning-gains-exceed-expected-growth.md) — related
 - [Most adolescents with cochlear implants maintain their reading standing relative to hearing norms from elementary school to high school](ci-students-maintain-reading-standing-over-time.md) — related
 - [Sample selection bias may have led the study to overestimate language outcomes for adolescents with long-term CI use](ci-study-selection-bias-overestimate.md) — related
+- [Adolescents in flexible education settings and state care show very high rates of language and literacy impairment](vulnerable-adolescents-language-literacy-impairment.md) — related

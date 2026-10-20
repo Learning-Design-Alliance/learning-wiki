@@ -48,3 +48,4 @@ Binary logistic regression in the Danish national survey (2,980 interviews, 63% 
 - [Males were significantly more likely than females to report probable ADHD in the young adult sample (OR=1.56)](males-more-likely-probable-adhd.md)
 - [Abuse typology groups differed significantly on overall ADHD symptom scores, with only the non-abused group differing significantly from the three abuse groups in post hoc analysis](abuse-groups-differ-adhd-scores-anova.md)
 - [The authors interpret the maltreatment–ADHD association as partly complicated by symptom overlap between ADHD and PTSD, which may make the two conditions difficult to distinguish](adhd-ptsd-symptom-overlap-misdiagnosis-risk.md)
+- [14.5% of the sample scored above the ASRS cutoff for probable ADHD, and the overall abuse latent class was especially associated with ADHD symptoms (35.9% above cutoff vs 10.1% of the non-abused group)](overall-abuse-class-359-percent-probable-adhd.md) — related

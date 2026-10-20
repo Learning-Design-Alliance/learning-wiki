@@ -51,3 +51,4 @@ Manual inspection of randomly sampled trajectories illustrating five divergence 
 - [Accurate LLM solution diagnosis does not reliably produce pedagogically actionable feedback, with lowest rubric scores on error identification and actionability](accurate-diagnosis-not-actionable-feedback.md) — related
 - [Judge-condition verification did not consistently improve LLM feedback quality and often propagated Peer agents' errors](judge-verification-propagates-peer-errors.md) — related
 - [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](learners-selectively-filter-ai-feedback-agency.md) — related
+- [In the S0-54 tutoring episode, the learner reaches the correct posterior (1/6) yet the three Stage 2 evidence scopes yield different diagnoses, with full trajectory credit withheld because part of the interpretation remains tutor-owned](s0-54-mixed-diagnosis-correct-answer.md) — related

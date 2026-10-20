@@ -49,3 +49,7 @@ Cross-study synthesis combining this article's adult sample (18–84) with Weil 
 - [Metacognitive ability improves across adolescence, with a logarithmic age trajectory](cms-age-effect-metacognition.md) — related
 - [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](perceptual-metacognitive-efficiency-declines-with-age.md) — a narrower finding that bears on this claim
 - [Age-achievement functions take an inverted-U shape, but the quality of contributions remains roughly constant with age, with lower productivity reflecting reduced quantity of output](age-achievement-constant-quality-ratio.md) — related
+- [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — related
+- [Adolescents showed significantly lower metacognitive ability compared to young adults](cms-adolescents-lower-metacognition.md) — reports the opposite
+- [How People Learn II updates and extends the 2000 How People Learn report by synthesizing research on learning from birth through adulthood in formal and informal settings](hpl-ii-updates-extends-hpl-2000-lifespan.md) — related
+- [The adolescent improvement in metacognitive ability is independent of perceptual task performance, which was clamped and uncorrelated with age](metacognitive-development-independent-of-task-performance.md) — related

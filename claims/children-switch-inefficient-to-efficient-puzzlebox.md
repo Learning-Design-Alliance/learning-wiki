@@ -50,3 +50,4 @@ In the Inefficient first condition of the Serialbox experiment with 3–5-year-o
 - [Children who first learned the efficient method switched to the observed inefficient method](children-switch-efficient-to-inefficient-method.md) — related
 - [Children switched to the efficient method more often than chimpanzees on the same puzzlebox task](children-switch-more-than-chimpanzees-serialbox.md) — related
 - [Children who observed the efficient method first switched earlier than children observing the inefficient method first](efficient-first-children-switch-earlier.md) — related
+- [Younger children performed more redundant actions than older children](younger-children-more-redundant-actions.md) — related

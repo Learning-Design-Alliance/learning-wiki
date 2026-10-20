@@ -47,3 +47,6 @@ Paired t-test comparing median response times on correct target trials following
 - [Children showed post-error slowing, unaffected by growth mindset, and no baseline post-error accuracy effect](post-error-slowing-children-no-mindset-effect.md) — related
 - [In youth performing an n-back task without feedback, bilateral ventral striatum activates more strongly to correct than incorrect responses](vs-correct-greater-than-incorrect-nback-youth.md) — related
 - [Ventral striatum response to correct responses scales with working memory load in youth](vs-response-scales-with-working-memory-load.md) — related
+- [Response acceleration occurs in adaptive testing: response time is reduced for responses occurring later in the assessment](response-acceleration-later-adaptive-assessment.md) — related
+- [Working memory load degrades discrimination accuracy and slows responses in youth](load-degrades-discrimination-and-slows-responses.md) — related
+- [The VS correct-greater-than-incorrect response is present for both target and foil trials and is not a motor confound](vs-effect-present-targets-foils-not-motor.md) — related

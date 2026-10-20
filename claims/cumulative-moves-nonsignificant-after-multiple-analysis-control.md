@@ -47,3 +47,4 @@ In the longitudinal analysis of cumulative moves across elementary school, effec
 - No significant correlations were found between MDC speech articulation disorders and paternal separation time, family moves, rank, father's age, child's familial placement, or military occupation — related
 - The study design separately examined recent-year moves and cumulative moves across elementary school in relation to child functioning — a broader claim this one bears on
 - [A recent school move or a single move shows no evidence of relation to children's academic or social functioning](recent-single-school-move-no-functioning-link.md)
+- [Changes in family income and household structure predict higher odds of two or more school moves in elementary school, while family factors are not linked to a recent or single move](family-income-household-changes-predict-cumulative-school-moves.md) — related

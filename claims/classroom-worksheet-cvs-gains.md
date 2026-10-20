@@ -65,3 +65,4 @@ Null result from the same worksheet analysis: comparing the first and last prein
 - [In the underlying laboratory study, only expository instruction combined with probes produced CVS learning, with transfer limited by grade level](lab-expository-instruction-probes-effective.md) — related
 - [Students' experiment-evaluation strategies shifted toward correct CVS after instruction, though 23% still used incorrect strategies](evaluation-strategies-shift-to-cvs.md) — related
 - [Instruction increased students' ability to evaluate experiments designed by others on a paper-and-pencil test](experiment-evaluation-gains.md) — related
+- [Instruction increased robust CVS use — designing unconfounded experiments plus providing a CVS rationale — in individual interviews](robust-cvs-use-interview-gains.md) — related

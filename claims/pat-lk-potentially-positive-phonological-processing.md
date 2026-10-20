@@ -75,3 +75,4 @@ Quasi-experimental study of 129 four-year-old low-income children in 10 Head Sta
 - [Literacy Express has positive effects on phonological processing for preschool children, with significant effects in two of three studies](literacy-express-positive-phonological-processing.md) — related
 - [Phonological awareness training has potentially positive effects on communication/language competencies for preschool children with learning disabilities, with a small extent of evidence](phonological-awareness-training-potentially-positive-communication-effects.md) — related
 - REDI improves preschool language and literacy outcomes with a mean end-of-preschool effect size of +0.23 — related
+- [Sound box training favored over sound sort training on phonological processing (Maslanka & Joseph 2002), with substantively important but non-significant differences averaging +11 percentile points](sound-box-favored-over-sound-sort-maslanka-joseph.md) — related

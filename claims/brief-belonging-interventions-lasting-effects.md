@@ -48,3 +48,5 @@ The article reports, citing Walton & Cohen 2007, Walton & Spencer 2009, and Yeag
 - Dedicated sense-of-belonging courseware features were underused: most students were unaware of the Lumen Community and vaguely remembered the Introduce Yourself module — related
 - [An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence](cohort-support-improves-adult-persistence.md) — related
 - [A sense of belonging can help promote and consolidate online learning](sob-promotes-consolidates-online-learning.md) — related
+- [A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning](sob-linked-attainment-satisfaction-attrition.md) — related
+- [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related

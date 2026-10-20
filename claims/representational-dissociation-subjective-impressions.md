@@ -48,3 +48,4 @@ RSA across 1,148 targets with complete data showed "interactional cue structure 
 - [Judgment-truth dissociation: the same cues that predict ground-truth identity are only weakly incorporated into explicit identity judgments](judgment-truth-dissociation-cues.md) — possibly the same claim (merge candidate)
 - [Participants remain socially sensitive to conversational stance even while categorical identity inference fails](stance-sensitivity-persists-despite-identity-failure.md) — related
 - [Impression narratives rely on weakly diagnostic suspicion heuristics such as response speed, fluency, and perceived scriptedness](suspicion-heuristics-weakly-diagnostic.md)
+- [Dialogue-derived interactional cues robustly encode ground-truth identity, achieving near-ceiling AI identification under cross-validation](cues-encode-identity-near-ceiling-classification.md) — related

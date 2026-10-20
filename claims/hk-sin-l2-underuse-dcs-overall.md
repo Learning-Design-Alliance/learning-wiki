@@ -48,3 +48,4 @@ Corpus comparison of DC frequencies per 50,000 words across HKG_B1_2, SIN_B1_2, 
 - [Thai students overuse the causal connective because, a pattern the article attributes to L1 influence](thai-overuse-because-l1-influence.md) — related
 - [L1 and L2 writers share a core set of high-frequency connectives but with strikingly different frequencies, and is nearly three times more frequent in L1 essays](shared-top-dcs-different-frequencies.md) — related
 - [L2 writers tend to overuse more discourse connectives than they underuse, and both L1 and L2 students have a limited range of DCs at their disposal](l2-overuse-tendency-limited-dc-range.md) — related
+- [The connective and is multifunctional in L1 essays, functioning as resultive and other relations, which may explain its lower frequency in L2 writing](and-multifunctional-l1-essays.md) — related

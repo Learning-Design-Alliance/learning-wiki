@@ -48,3 +48,5 @@ The brief's own description states it examines "the academic diversity of post-C
 - [Increased score variability was primarily driven by spreading out at the bottom end of the achievement distribution](variability-driven-by-bottom-of-distribution.md) — a narrower finding that bears on this claim
 - [Students showed a wider range of achievement levels in spring 2022 than would be expected in a typical school year](wider-achievement-range-spring-2022.md) — a narrower finding that bears on this claim
 - [The share of academically at-risk students increased after the pandemic, requiring a response of matching magnitude](post-pandemic-increase-at-risk-students.md) — related
+- [Post-pandemic classrooms present teachers with students in the same grade who differ more in learning needs than before the pandemic](same-grade-students-differ-more-in-needs.md) — a narrower finding that bears on this claim
+- [Pandemic-era findings support the theory that COVID-19 left students behind academically across the board while worsening existing educational inequities](pandemic-left-students-behind-worsened-inequities.md) — related

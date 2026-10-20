@@ -57,3 +57,5 @@ Analysis of performance on common health tasks in the LitCog study (n = 882 olde
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [Higher total literacy is associated with higher global cognition and all five specific cognitive abilities in older adults without dementia](literacy-associated-cognition-older-adults.md) — related
 - [Measures of everyday functioning and independent living correlate with psychometric cognition, with stronger relations for fluid reasoning than for crystallized knowledge](fluid-cognition-predicts-independent-living.md) — related
+- [Financial literacy, but not health literacy, is associated with mental health indices in older adults without dementia](financial-literacy-associated-mental-health-older-adults.md) — related
+- [Common health literacy measures largely detect individual differences in cognitive abilities](health-literacy-measures-detect-cognitive-ability-differences.md) — related

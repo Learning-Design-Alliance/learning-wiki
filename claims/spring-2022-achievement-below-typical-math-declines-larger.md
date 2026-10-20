@@ -53,3 +53,5 @@ Observational comparison of spring 2022 MAP Growth achievement against a similar
 - [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) — related
 - [The 2021-22 study investigated how student achievement in spring 2022 compared to pre-pandemic levels.](spring-2022-achievement-compared-to-pre-pandemic-levels.md) — related
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
+- [Middle school achievement declines in spring 2022 appear to be mostly unchanged from earlier pandemic levels](middle-school-declines-mostly-unchanged-2022.md) — a narrower finding that bears on this claim
+- [First graders in 2021–22 grew less in math and reading than a typical prepandemic year, by 6–7%](first-graders-2021-22-growth-below-typical-year.md) — related

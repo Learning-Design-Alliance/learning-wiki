@@ -44,3 +44,7 @@ Narrative summary of the Schroeder et al. (2013) meta-analysis of 43 studies inv
 
 ## Related Claims
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Pedagogical agents have a small, statistically significant positive effect on learners' broadly defined 'motivation' (g = 0.20)](pa-small-significant-effect-broad-motivation.md) — related
+- [Pedagogical agents significantly improve learners' self-efficacy expectations (g = 0.29), with effects moderated by grade level, facial expressions, and reliability reporting](pa-improve-self-efficacy-expectations.md) — related
+- [Pedagogical agents significantly improve learners' interest (g = 0.30), with the effect depending on the type of control condition](pa-improve-interest.md) — related
+- [Pedagogical agents do not significantly affect learners' engagement (g = -0.02, non-significant)](pa-no-effect-engagement.md) — related

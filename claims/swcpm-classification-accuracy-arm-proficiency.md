@@ -49,3 +49,5 @@ Classification accuracy analysis of the weighted linking sample (Tables 3.9 and 
 - [SWCPM score ranges corresponding to ARM performance levels show monotonic progression across terms within grades, except in first grade](swcpm-arm-range-monotonic-except-grade-1.md) — related
 - [The KEI threshold was accurate for the cohort despite large individual-level prediction errors (53% of proficient and 73% of non-proficient students correctly classified)](kei-threshold-individual-prediction-errors-large.md) — related
 - [Agreement between K–3 screening assessments on risk classification varied from 47 percent to 85 percent depending on the assessment combination](screening-assessment-agreement-varies-47-85-percent.md) — related
+- [Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model](linear-regression-selected-linking-model.md) — related
+- [A body of work standard setting process produced classification agreement rates ranging from 71% to 97% for an alternate portfolio assessment](body-of-work-agreement-rates-71-97.md) — related

@@ -53,3 +53,5 @@ A fact sheet published by Regional Educational Laboratory Mid-Atlantic in July 2
 - [ICCSD implemented PLTW computing curricula at a growing set of schools, with COVID-19 slowing progress in Years 2 and 3](pltw-implementation-iccsd-covid-slowdown.md) — related
 - [Progress monitoring is needed to guide next steps in planning and providing instruction and interventions](progress-monitoring-guides-next-steps-instruction.md) — related
 - [Remote proctoring supported assessment continuity and uninterrupted student progression during institutional closures](remote-proctoring-supported-continuity-closures.md) — a narrower finding that bears on this claim
+- [Some blended learning interventions improve student outcomes, but whether a positive effect exists varies across interventions and domains of achievement](blended-learning-effects-vary-by-intervention-and-domain.md) — related
+- [Evidence on what works in remote learning is scant, prompting schools and teachers to try many approaches](remote-learning-evidence-scant-2020.md) — related

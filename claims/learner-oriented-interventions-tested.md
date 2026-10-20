@@ -44,3 +44,4 @@ The review defines its second intervention category, covering procedures directe
 
 ## Related Claims
 - [Identifying learners' difficulties with visual displays is an important basis for selecting appropriate support procedures](learner-difficulties-basis-for-support-selection.md) — related
+- [Material-oriented interventions such as complexity reduction, cueing/signaling, and text-picture integration are empirically tested support procedures for visual displays](material-oriented-interventions-tested.md) — related

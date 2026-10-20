@@ -67,3 +67,4 @@ Discussion summary of the growth mixture results: conflict trajectories were not
 - [Low warmth trajectories predict lower achievement gains for boys but not for girls](warmth-trajectories-boys-not-girls.md) — related
 - [Children with early behavioral, academic, and demographic risks are over-represented in adverse teacher-student relationship trajectories](risk-children-overrepresented-adverse-trajectories.md) — related
 - [Teacher-reported warmth follows two trajectory classes per gender: a normative high-declining class and a low-increasing class starting from lower warmth](warmth-trajectory-classes-elementary.md) — related
+- [The probability of school failure increases as a function of the timing and length of children's exposure to relational adversity](cumulative-relational-adversity-school-failure.md) — related

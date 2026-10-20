@@ -67,3 +67,4 @@ Same MoE study; RandomConcat regroups Split sections across books to match Full'
 - [Section quality improves with more source chunks up to k=10, beyond which gains plateau](source-chunk-count-k10-plateau.md) — related
 - [Pipeline components play complementary roles: hierarchical generation has the largest effect, grounding improves specificity and factual accuracy, and cluster-informed TOC planning improves structure and audience fit](pipeline-components-complementary-ablation.md) — related
 - [The book-organization benefit transfers to Llama3-8B, where Full outperforms RandomConcat (+0.86) and Natural Books (+1.51)](book-organization-transfers-llama3-8b.md) — related
+- [Contextual noise from irrelevant textbooks broadly degrades KC planning, most in Validity and Efficiency](contextual-noise-degrades-kc-planning.md) — related

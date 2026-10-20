@@ -44,3 +44,8 @@ Cluster analysis of 48 teams reduced to 32 (children aged 9 to 12) in the JUSThi
 
 ## Related Claims
 - [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related
+- [Calm Tinkerers display significantly lower negative valence and arousal than Silent Wanderers, while Expressive Explorers show high arousal and negative valence similar to Silent Wanderers](affect-distinguishes-calm-tinkerers-from-silent-wanderers.md) — related
+- [Multimodal behavioral profiles of dyads' collaborative learning are identifiable by integrating video, audio, and log data, with emergent processes more explanatory than individual behaviors](multimodal-profiles-dyad-collaboration.md) — possibly the same claim (merge candidate)
+- [Speech activity and speech overlap distinguish gainer dyads from non-gainer Silent Wanderers across both gainer profiles](speech-overlap-distinguishes-gainers-from-non-gainers.md) — a narrower finding that bears on this claim
+- [The two gainer profiles differ in problem-solving strategy: Expressive Explorers enact global exploration with reflection on past solutions, Calm Tinkerers enact local exploration with in-the-moment correction](global-versus-local-exploration-strategies-gainers.md) — a narrower finding that bears on this claim
+- [In open-ended constructivist activities, task success or failure is not a reliable indicator of learning, so learner models based only on performance risk misjudging learners](performance-not-indicator-learning-open-ended.md) — possibly the same claim (merge candidate)

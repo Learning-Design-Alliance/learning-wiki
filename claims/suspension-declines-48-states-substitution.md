@@ -67,3 +67,6 @@ State-level CRDC analysis of whether out-of-school declines reflected genuine re
 - [National out-of-school suspension rates rose from 4% in 1973 to a peak of 7% in 2009–10, then fell to 5% by 2017–18 while remaining above 1970s levels](suspension-rates-rose-then-declined-1973-2018.md) — a broader claim this one bears on
 - [In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted](maryland-disciplinary-removals-declined-disparities-persist.md) — related
 - Oakland Unified gradually reduced out-of-school suspension rates for girls after policy changes — a narrower finding that bears on this claim
+- [Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed](black-students-highest-suspension-rate-persistent.md) — related
+- [Secondary suspension risk declined and the racial gap narrowed slightly since 2009-10, while elementary rates did not decline and some districts saw large increases](suspension-trends-secondary-decline-elementary-flat.md) — related
+- [Interventions are more effective for general suspensions and in-school exclusion than for severe sanctions such as permanent exclusion and out-of-school suspension](exclusion-type-moderates-intervention-effect.md) — related

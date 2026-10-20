@@ -52,3 +52,4 @@ Statewide survey analysis of 2013-2015 responses (2015: 17,344 teachers, 1,160 p
 - [Educator agreement with positive TPE statements rose from the 2013 to the 2014 survey, with the strongest increases on SLO support items](year-two-tpe-perceptions-improve-most-on-slo-items.md) — a narrower finding that bears on this claim
 - [About 45% of teachers still report needing further TPE-related training despite year-over-year improvement](teachers-need-further-tpe-training.md) — related
 - [In every district, more educators agree than disagree that they share a common language for the SLO process](common-language-slo-process.md) — related
+- [Among SLO districts the most frequently reported benefit was increased collaboration, while alternative assessment-based value-added models were perceived as fairer than SLOs](collaboration-benefit-versus-vam-fairness.md) — related

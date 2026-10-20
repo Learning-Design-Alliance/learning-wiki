@@ -45,3 +45,5 @@ Game learning analytics over 15 months showed that "significantly different beha
 - [Game learning analytics showed significant age and gender differences in interests, skills, achievement, and progression through attempts](age-gender-differences-interests-skills-achievement.md) — related
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Race, ethnicity, and class affect teacher perceptions and teacher behavior, including persistence with struggling students](social-cues-shape-teacher-persistence.md) — related
+- [Observed task persistence during challenging tasks predicts teacher-rated academic competence and learning-related behaviors in Head Start graduates](observed-persistence-predicts-school-readiness-head-start.md) — related
+- [Learner characteristics, class assignment, and WIC benefits significantly predicted persistence in adult literacy classes (Greenberg et al.)](learner-characteristics-predict-adult-persistence.md) — related

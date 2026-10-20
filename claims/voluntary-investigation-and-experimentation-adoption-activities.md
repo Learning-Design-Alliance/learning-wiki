@@ -48,3 +48,4 @@ Content analysis of informant interviews with four teachers with the most advanc
 - [Collegial interaction among adopting teachers increased over time, spanning informational, personal, management, consequence, and collaboration concerns](increasing-collegial-interaction-across-concern-stages.md) — related
 - [Switching to an updated synchronous platform catalysed the teacher's ongoing teaching innovation](platform-switch-catalyses-teaching-innovation.md) — related
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related
+- [Teachers' motivation to analyze their teaching falls into four broad categories: self-analysis, understanding students, change, and problems](teacher-motivation-four-categories-self-analysis-students-change-problems.md) — related

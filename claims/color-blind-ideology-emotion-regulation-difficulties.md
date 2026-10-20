@@ -46,3 +46,4 @@ The review reports the DeCuir-Gunby et al. (2020) study, which foregrounded pre-
 - [Racialized emotions are a race-focused construct educational psychologists have yet to explicate in teaching and learning](racialized-emotions-unexplored-construct.md) — a broader claim this one bears on
 - [Payne argues that color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related
 - [Race-reimaging ultimately transforms a race-less construct into a race-focused construct](race-reimaging-creates-race-focused-constructs.md) — related
+- [The argument that excluding demographic predictors amounts to color-blind racism is contested: inclusion can also produce racist decision-making](colorblind-racism-argument-for-inclusion-contested.md) — related

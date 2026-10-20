@@ -48,3 +48,6 @@ Cross-sectional fMRI study of 44 typically developing participants (14 children,
 - [A reliable positive relationship between parietal NRE and math achievement appears only in children, not adolescents or adults](nre-math-achievement-link-only-in-children.md) — related
 - [Numerosity comparison accuracy is ratio-dependent across grades three to five](numerosity-accuracy-ratio-dependent-grades-3-5.md) — related
 - [Ratio-effect scores correlated with mathematics achievement in Experiment 1 but not in Experiment 2 with easier ratios](ratio-effect-math-correlation-mixed.md) — related
+- [Kindergarten children's non-symbolic addition performance correlates with end-of-year mathematics achievement, independent of literacy (Experiment 1)](nonsymbolic-addition-predicts-kindergarten-math-exp1.md) — related
+- [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
+- [Non-symbolic addition performance correlates with mathematics achievement in a new sample, surviving controls for verbal intelligence and literacy (Experiment 2)](nonsymbolic-addition-predicts-math-exp2.md) — related

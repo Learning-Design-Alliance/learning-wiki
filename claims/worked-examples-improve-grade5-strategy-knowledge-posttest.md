@@ -65,3 +65,4 @@ In the same fifth-grade ANCOVA, the strategy knowledge treatment effect was not 
 - [Seventh graders' treatment effects fade by follow-up, with only the strategy knowledge contrast remaining significant](grade7-effects-fade-at-follow-up.md) — related
 - [Heuristic worked examples improve seventh graders' modeling competency and strategy knowledge at posttest](worked-examples-improve-grade7-modeling-competency.md) — related
 - [Heuristic worked examples do not improve fifth graders' mathematical modeling competency](worked-examples-no-grade5-modeling-competency-effect.md) — related
+- [Adding self-explanation prompts to heuristic worked examples yields no additional benefit and impedes seventh graders' modeling competency](self-explanation-prompts-no-added-benefit.md) — related

@@ -51,3 +51,4 @@ A large multi-site cluster randomized study across two cohorts of high schools i
 - [BARR produces a larger statistically significant effect on NWEA MAP math scores in a single-school student-level randomized study, stronger for struggling students](barr-suburban-rct-map-math-es-033.md) — related
 - [Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness](software-effects-changed-between-cohorts.md) — related
 - [A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention](woot-math-rct-adaptivity-significant-effects.md)
+- [Two student-level randomized studies in California, Maine, and Minnesota high schools found significant positive impacts on NWEA MAP reading (average effect size +0.09)](barr-student-level-rcts-nwea-map-reading-009.md) — related

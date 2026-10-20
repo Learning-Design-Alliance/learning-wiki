@@ -45,3 +45,4 @@ Brown–Forsythe variance comparison in the distributional analysis of the same 
 ## Related Claims
 - [Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise](did-2-34-mark-advantage-verified-ai-materials.md) — related
 - [The share of marks below the upper-second classification boundary fell by 24.7 percentage points, with effects significant at every threshold from 23 to 31 marks and at none above](threshold-effect-upper-second-boundary.md) — related
+- [Gains from verified AI materials are concentrated in the bottom quintile, which accounts for roughly three-quarters of the average effect](gains-bottom-quintile-verified-ai.md) — related

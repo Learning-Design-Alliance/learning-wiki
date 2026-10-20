@@ -47,3 +47,4 @@ Moderator analysis of the 54 included studies coded for strategy focus; the auth
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Antecedent-focused emotion regulation strategies are linked to higher-quality teacher-student interactions and better classroom management](antecedent-emotion-regulation-better-interactions.md) — related
+- [Classroom management interventions in primary education show small but significant average effects (g = 0.22) on academic, behavioral, and social-emotional outcomes but not on motivational outcomes](classroom-management-small-significant-effects-g022.md) — related

@@ -66,3 +66,4 @@ Same evaluation test, consistency analysis (N = 74): students correct on at leas
 ## Related Claims
 - [Students' experiment-evaluation strategies shifted toward correct CVS after instruction, though 23% still used incorrect strategies](evaluation-strategies-shift-to-cvs.md) — related
 - [Group CVS performance on classroom worksheets rose after instruction, and experimentation alone without instruction produced no significant gain](classroom-worksheet-cvs-gains.md) — related
+- [Classroom expository CVS instruction dramatically increased fourth graders' CVS performance in individual hands-on interviews](classroom-cvs-instruction-interview-gains.md) — related

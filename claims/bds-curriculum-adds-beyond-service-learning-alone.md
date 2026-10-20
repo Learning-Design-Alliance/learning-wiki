@@ -47,3 +47,4 @@ The WWC reports (footnote to Appendix A3) that Leming (2001) also compared the c
 - [Building Decision Skills plus service learning significantly improved twelfth-graders' ethical perspective relative to a no-character-education comparison](bds-improves-ethical-perspective.md) — related
 - [Building Decision Skills plus service learning showed no statistically significant effects on self-esteem, general social responsibility, or anticipated community participation](bds-null-self-esteem-general-responsibility.md) — related
 - Participating youth appeared to develop perspective-taking skills, with 84% of students reporting greater openness to others' perspectives — related
+- [Building Decision Skills combined with service learning has potentially positive effects on high school students' knowledge, attitudes, and values](bds-service-learning-potentially-positive-kav.md) — a broader claim this one bears on

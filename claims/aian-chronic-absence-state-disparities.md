@@ -51,3 +51,4 @@ Figure 2 of the brief reports state-level chronic absence rates for Native and W
 - [Historical legacy of boarding schools and biased attendance responses deepen generational distrust that undermines attendance partnerships with AI/AN families](boarding-school-legacy-distrust-undermines-attendance-efforts.md) — related
 - [In Western states during 2022–23, multilingual learners' chronic absence averaged 34.3 percent versus 28.9 percent for all students](western-states-34-3-percent-english-learner-absence.md) — related
 - Chronic absenteeism roughly doubled nationwide to about 16 million students after the pandemic — related
+- [Students experiencing homelessness in California are chronically absent at twice the state average, with rates above 40% for African American and Native American/Alaskan students](homeless-students-chronic-absenteeism-double-state-average.md) — related

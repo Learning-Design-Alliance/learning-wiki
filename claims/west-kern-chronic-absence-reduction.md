@@ -71,3 +71,4 @@ Disaggregated district data from the same Chronic Absence section. The report al
 - Every West Kern Consortium district improved ELA proficiency from 2021–22 to 2024–25, with four exceeding the county average — related
 - [California kindergarten English learners' chronic absenteeism nearly tripled from 14.5 percent in 2018–19 to 43.1 percent in 2021–22, easing only gradually to 37.1 percent in 2022–23](california-kindergarten-english-learners-absence-tripled.md) — related
 - [Math proficiency rose in West Kern Consortium districts after the community schools initiative, with three districts exceeding the county average in 2024–25](west-kern-math-proficiency-gains.md)
+- [In Lynwood Unified, chronic absence fell from 37.1% to 24.5% and average daily attendance rose from 87.4% to 91.5% during the first two years of districtwide community schools implementation.](lynwood-chronic-absence-decline-community-schools.md) — related

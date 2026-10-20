@@ -47,3 +47,7 @@ Qualitative analysis of state-level administration, based on document review and
 - County-administered QRIS in California is voluntary, uneven, and destabilized by time-limited categorical funding — a narrower finding that bears on this claim
 - A landscape review found fragmentation in California's teacher workforce infrastructure, with no agency holding singular responsibility for workforce planning — a narrower finding that bears on this claim
 - Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages — related
+- [U.S. ECE governance is fragmented across multiple federal and state agencies, creating an incoherent patchwork of programs](ece-governance-fragmented-multi-agency.md) — a broader claim this one bears on
+- [Piecemeal educator policymaking overburdens educators and can drive talented educators out of the profession](piecemeal-educator-policymaking-drains-talent.md) — related
+- [California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children](california-ece-uneven-quality-standards.md) — related
+- [Mixed delivery early care systems experience fragmentation that creates barriers such as siloed funding, inefficient subsidies, and workforce turnover](mixed-delivery-fragmentation-barriers.md) — related

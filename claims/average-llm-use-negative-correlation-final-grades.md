@@ -46,3 +46,4 @@ Correlational analysis of data from a ten-week experiment with thirty-two second
 - [LLM use for debugging is significantly negatively correlated with student final grades](llm-debugging-negative-correlation-grades.md) — a narrower finding that bears on this claim
 - [LLM use for code generation is significantly negatively correlated with student final grades](llm-code-generation-negative-correlation-grades.md) — a narrower finding that bears on this claim
 - [LLM use for seeking additional explanations does not significantly impact final grades](llm-explanations-no-significant-grade-impact.md) — a narrower finding that bears on this claim
+- [A downward trend in final grades is observed with increased average LLM use across all task types](downward-grade-trend-increased-average-llm-use.md) — related

@@ -53,3 +53,5 @@ Inductive thematic analysis of open-ended survey responses from 163 students. Ap
 - [AI-mediated SSH learning externalizes interpretive cognition as students delegate thematic identification, contextual explanation, and comparative analysis to AI systems](externalization-of-interpretive-cognition.md) — related
 - [Qualitative reflections identify developmental inappropriateness (45%), vagueness and repetition (32%), and implementation feasibility (23%) as the main AI limitations](ai-limitations-themes-early-childhood-science.md) — related
 - [LLMs perform worse on complex, open-ended, or subjective assignments than on short, clearly formulated answers](llm-struggle-open-ended-subjective-tasks.md) — related
+- [MI Write's automated feedback is most useful to students when it supplements, not replaces, teacher feedback](automated-feedback-supplements-not-replaces-teacher-feedback.md) — a narrower finding that bears on this claim
+- [Task complexity moderates whether users experience the constructive information search process](task-complexity-moderates-information-search-process.md) — related

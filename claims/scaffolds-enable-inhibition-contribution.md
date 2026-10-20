@@ -49,3 +49,4 @@ General additive model results (Table 4) for the inhibition smooth term; the pai
 - [The general additive model estimated a main effect of intervention condition on posttest reasoning from irrelevant events](scaffolds-improve-irrelevant-evidence-reasoning-third-graders.md) — related
 - [Teacher-judged logical reasoning combined with prior knowledge to predict learning only under the control condition; scaffolding almost fully diminished the disadvantage of lower logical reasoning](scaffolds-diminish-logical-reasoning-disadvantage.md) — related
 - [Scaffolding mitigated the limiting effect of low prior knowledge: prior knowledge predicted posttest irrelevant-evidence reasoning only under the control condition](scaffolds-mitigate-prior-knowledge-limit.md) — related
+- [Updating ability strongly predicts fluid intelligence, while shifting and inhibition do not significantly predict it.](updating-predicts-fluid-intelligence-not-shifting-inhibition.md) — related

@@ -48,3 +48,5 @@ Review of academic advising studies for Recommendation 1 covering EXCEL, Talent 
 - [Dual enrollment programs have positive effects on college access and enrollment, with an average improvement index of +15 percentile points](dual-enrollment-positive-college-access-enrollment.md) — related
 - [Comprehensive, integrated advising interventions improve progression, academic achievement, and postsecondary degree attainment for postsecondary students](comprehensive-integrated-advising-improves-persistence-and-degree-attainment.md) — related
 - [Talent Search participants were more likely than comparison students to enroll in public postsecondary institutions](talent-search-more-likely-enroll-public-postsecondary.md) — related
+- [Talent Search participants were more likely than matched comparison students to apply for federal financial aid](talent-search-more-likely-apply-federal-financial-aid.md) — a narrower finding that bears on this claim
+- [The five career pathways recommendations are supported by 21 studies with participant samples ranging from 124 to 42,984 students](career-pathways-evidence-base-21-studies.md) — related

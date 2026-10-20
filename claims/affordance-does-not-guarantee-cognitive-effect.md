@@ -54,3 +54,6 @@ The authors' theoretical argument, citing Seidman (1983), that assuming unique f
 - [Students can only improve if they develop the capacity to monitor the quality of their own work during actual production](self-monitoring-during-production-premise.md) — related
 - [Learning from visual displays often yields disappointing outcomes because displays pose substantial demands on learners](visual-displays-pose-demands-disappointing-outcomes.md) — a narrower finding that bears on this claim
 - [Students' self-reports of task effortfulness do not validly indicate a task's object-level cognitive requirements](effort-self-reports-not-valid-cognitive-requirements.md) — a narrower finding that bears on this claim
+- [Holding a strong goal intention alone does not guarantee goal achievement](goal-intention-alone-insufficient-for-achievement.md) — a narrower finding that bears on this claim
+- [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) — related
+- [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](tool-effectiveness-depends-on-context-configuration.md) — related

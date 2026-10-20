@@ -64,3 +64,7 @@ In the factor analyses, planning and time management formed one combined factor 
 ## Related Claims
 
 - [SRL-O subscales show convergent validity with corresponding MSLQ scales](srl-o-convergent-validity-mslq.md)
+- [The SRL-O supports both ten lower-order subscales and two superordinate factors (motivational beliefs and learning strategies)](srl-o-bifactor-two-superordinate-factors.md) — related
+- [The SRL-O has a 10-factor structure covering motivational beliefs and learning strategies for online learners](srl-o-ten-factor-structure.md) — related
+- [The MRIM scale has a three-factor structure of planning, monitoring, and evaluating of interactive metadiscourse, cross-validated by EFA and CFA](mrim-three-factor-structure-pim-mim-eim.md) — related
+- [The MAKQ self-knowledge items show a stable two-factor structure: meta-attention control (15 items) and meta-attention monitoring (5 items)](makq-two-factor-self-knowledge-structure.md) — related

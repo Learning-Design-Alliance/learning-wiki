@@ -45,3 +45,4 @@ Quasi-experimental learning study in one Hong Kong primary school: two teachers 
 ## Related Claims
 - [In chemistry cycle 1, students actively engaged in experimentation still did worse on the volume-rate item, with correct answers falling 6% from pre-test to post-test](active-engagement-insufficient-cycle1-volume-item.md) — related
 - [Redesigning the second research lesson cycle so students compared results across groups raised correct answers on the volume item from 11% to 80%](cycle2-redesign-volume-item-gain-69.md) — related
+- [Students taught by teachers using variation theory showed extremely better mastery of the supply-and-demand price concept than students taught without the theory](variation-theory-teaching-extreme-learning-gain-economics.md) — related

@@ -50,3 +50,4 @@ Observational analysis of two years of dropout data from 196 university-level on
 - [Graphing the Student Momentum Indicator across lessons yields nine dropout-behavior shape categories, with steep wall shapes the most common (25.5%) and flat slope shapes rare (2.6%)](nine-student-momentum-graph-shape-categories.md) — related
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related
 - Research finds concentrated poverty harms achievement, with a tipping point around 50-60% school poverty after which achievement declines dramatically — related
+- [MOOCs failed to deliver on their proponents' promises of transforming higher education](moocs-failed-to-deliver-on-promises.md) — related

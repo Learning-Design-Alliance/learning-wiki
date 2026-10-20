@@ -45,3 +45,4 @@ The editorial reports, citing prior studies by the author's group, that examinat
 ## Related Claims
 - [Nonintervention (observational) studies in educational psychology are producing recommendations for practice at increasing rates](observational-studies-increasingly-produce-practice-recommendations.md) — possibly the same claim (merge candidate)
 - [A convened expert group concluded that prescriptive statements are rarely appropriate in empirical research articles; authors should state study conclusions and leave prescriptions to synthesis outlets](prescriptive-statements-rarely-appropriate-in-empirical-articles.md) — related
+- [The percentage of articles employing randomized experiments in empirical educational psychology journals dropped from 40% in 1983 to 23% in 2010](randomized-experiments-declined-40-to-23-percent-edpsych-journals.md) — possibly the same claim (merge candidate)

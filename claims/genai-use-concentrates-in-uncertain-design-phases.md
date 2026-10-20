@@ -46,3 +46,4 @@ Thematic analysis of semi-structured interviews with a focus group (N=6) in the 
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [Most architecture students in the studios reported that the GenAI models used positively affected their creativity during the design process](students-report-genai-positively-affects-creativity.md) — related
 - [Student workshop participants saw AI's role as fluid — a shortcut for tasks with clear, predictable outcomes and a collaborator for uncertain, creative tasks](student-ai-role-shortcut-versus-collaborator.md) — related
+- [Among GPT-assisted students, proactive and critical engagement patterns are associated with higher exam scores while limited engagement shows little benefit relative to control](proactive-critical-ai-engagement-higher-exam-scores.md) — related

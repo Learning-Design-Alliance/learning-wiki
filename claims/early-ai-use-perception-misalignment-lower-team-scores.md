@@ -46,3 +46,4 @@ Observational three-wave survey study of 103 student pairs in an introductory pr
 - [Teams whose perception of who uses more AI reversed between t1 and t3 achieved lower scores than teams with stable perceptions](perception-reversal-associated-with-lower-scores.md) — related
 - [Perception alignment improves mainly in the early weeks and does not consistently decrease through the project](ai-use-perception-alignment-improves-early-then-plateaus.md) — related
 - [Prior programming performance moderates the misalignment–performance association, with the cost concentrated in lower-performing teams](prior-performance-moderates-ai-perception-misalignment-cost.md) — a narrower finding that bears on this claim
+- [Week 3 performance differs by perception-transition group, with Aligned teams increasing and Multifaceted teams decreasing in scores](aligned-perceptions-performance-increase-multifaceted-decrease.md) — related

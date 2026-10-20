@@ -44,4 +44,4 @@ This paper reports, from the study in Kinnebrew et al. 2013, that "18 of the stu
 
 
 ## Related Claims
--
+- [More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.](more-successful-students-higher-gains-focused-actions.md) — related

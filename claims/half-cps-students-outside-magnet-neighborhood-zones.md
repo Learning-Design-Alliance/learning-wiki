@@ -47,3 +47,4 @@ Descriptive analysis of CPS student record files and school locations for fall 1
 - [Areas of Chicago without magnet elementary schools have lower median family income and fewer white residents than areas within magnet neighborhood zones](magnet-location-correlates-with-income-and-race.md) — related
 - [African-American students travel farther to attend magnet elementary schools than students of other ethnicities](african-american-students-travel-farthest-to-magnets.md) — related
 - [Two years after the comprehensive magnet school policy, overall enrollment patterns by student residence had not changed substantially](policy-did-not-change-overall-enrollment-patterns.md) — related
+- [The CVPromise catchment area was deliberately aligned with the attendance zone of Castle Park Elementary, a low-performing school in program improvement status](cvpromise-catchment-aligned-to-castle-park-elementary-attendance-zone.md) — related

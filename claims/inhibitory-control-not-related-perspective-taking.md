@@ -51,3 +51,6 @@ Inhibitory control was measured via a Stroop interference control task and a sto
 - [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related
 - [Adolescents with weaker communicative perspective-taking report worse peer relations](weaker-perspective-taking-worse-peer-relations.md) — related
 - [Working memory is the strongest predictor of adolescents' communicative perspective-taking](working-memory-predicts-adolescent-communicative-perspective-taking.md) — related
+- [Working memory accounts for the relation between ADHD traits and communicative perspective-taking](working-memory-accounts-adhd-perspective-taking-relation.md) — related
+- [Total childhood ADHD symptoms predict longer adolescent SSRT, but neither symptom domain shows specificity and early precursors do not predict SSRT](ssrt-predicted-by-total-childhood-adhd-symptoms-only.md) — related
+- [In discipline-specific exploratory regressions, neither Stroop RT cost nor complex No-Go accuracy significantly predicted science or maths misconception measures separately](discipline-specific-inhibition-predictions-nonsignificant.md) — related

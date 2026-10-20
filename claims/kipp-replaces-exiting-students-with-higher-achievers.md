@@ -46,3 +46,5 @@ Comparative analysis of replacement patterns in 19 KIPP middle schools versus di
 - [Fewer students are replaced in the later years of KIPP middle school](fewer-student-replacements-in-later-middle-school-years.md) — related
 - [Attrition patterns at KIPP middle schools are typically no different than at nearby schools](kipp-attrition-no-different-than-nearby-schools.md) — related
 - [KIPP middle schools' student attrition and replacement rates can be compared with those of nearby district-run schools using longitudinal student-level data.](kipp-middle-school-attrition-replacement-compared-district-schools.md) — related
+- [The second phase of the national KIPP evaluation nearly doubled the sample to 43 KIPP middle schools and estimated achievement impacts in four subjects](kipp-evaluation-43-middle-schools-four-subjects.md) — related
+- [Average impacts of KIPP middle schools were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-positive-throughout-higher-earlier-years.md) — related

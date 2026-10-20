@@ -46,3 +46,8 @@ Repeated-measures ANOVA on London Bridge Task flexibility (N = 100). The interac
 
 - [CREATE benefits transfer to a new task on all three creativity components: fluency, flexibility, and originality](create-transfer-effects-all-components.md)
 - [The classroom training is associated with a greater DCCS flexibility gain in the experimental group, though the printed ANOVA table reports a non-significant interaction](dccs-flexibility-gain-training-group.md)
+- [CREATE improves students' fluency immediately after the intervention relative to control](create-immediate-fluency-gain.md) — related
+- [CREATE meta-creative pedagogy produces a significant omnibus intervention effect on creative thinking components simultaneously in elementary students](create-omnibus-immediate-effect-creative-thinking.md) — reports the opposite
+- [CREATE improves students' originality immediately after the intervention across all three originality scoring methods](create-immediate-originality-gain.md) — related
+- [Students exposed to CREATE perceive their implementation of meta-creative processes to a greater extent than control students](create-higher-perceived-meta-creative-implementation.md) — related
+- [Music training shows mixed effects on cognitive flexibility: positive in some preschool DCCS studies, null in ten others](music-training-cognitive-flexibility-mixed.md) — related

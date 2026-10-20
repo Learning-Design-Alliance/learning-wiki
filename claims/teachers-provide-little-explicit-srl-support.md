@@ -43,4 +43,7 @@ The editorial reports, citing Dignath & Veenman (2021), that teachers "typically
 
 
 ## Related Claims
--
+- [Child-centered instruction is associated with students' SRL monitoring accuracy](child-centered-instruction-student-monitoring-accuracy.md) — related
+- [Teachers perceive SRL as desirable for students but not feasible to implement in their classrooms](teachers-srl-desirable-but-not-feasible.md) — related
+- [Direct SRL promotion in observed classrooms was dominated by implicit strategy instruction, metacognitive support, and metacognitive reflection, with explicit strategy instruction rare](implicit-strategy-instruction-dominates-direct-srl-promotion.md) — a narrower finding that bears on this claim
+- [Teachers in the SRL-AIDE program showed greater pre-to-post gains than a comparison group in both the explicitness and duration of their in-class SRL practices](srl-aide-greater-gains-explicitness-duration.md) — related

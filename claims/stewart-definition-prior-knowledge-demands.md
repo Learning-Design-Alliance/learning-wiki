@@ -47,3 +47,4 @@ Onto-semiotic analysis (type d) of the general definition in Stewart's section 5
 - [Onto-semiotic analysis of Starbird's intuitive integral presentation identifies five epistemic configurations of practices, objects and processes](starbird-intuitive-integral-five-configurations.md) — related
 - [Abusive generalization processes in the intuitive presentation are a source of potential semiotic conflicts](abusive-generalization-semiotic-conflicts.md) — related
 - [A clinical interviewing study investigated students' understanding of elementary calculus through tasks on integration and limits](orton-clinical-interviews-elementary-calculus.md) — related
+- [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](generative-learning-reorganizing-integrating-prior-knowledge.md) — a broader claim this one bears on

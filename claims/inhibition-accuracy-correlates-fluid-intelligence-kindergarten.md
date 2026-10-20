@@ -48,3 +48,5 @@ Pre-registered correlational analysis of N = 147 kindergarten children (Mage = 6
 - [Exploratory WM-task measures correlate with EF indices: inhibition accuracy with correct colors, PES mixed with verbal span, congruency effect with correct locations](exploratory-wm-measures-ef-correlations.md) — related
 - [Mean RT in the shifting block is positively correlated with intelligence, counterintuitively, in kindergarten children](shifting-rt-positively-intelligence.md) — related
 - [Verbal WM correlates with intelligence but visuospatial WM does not in kindergarten children](verbal-wm-intelligence-visuospatial-null.md) — related
+- [Shifting accuracy and shift cost show no association with intelligence or WM in kindergarten children](shifting-null-intelligence-wm.md) — related
+- [Post-error slowing in EF shows no significant association with intelligence or WM in kindergarten children](pes-null-intelligence-wm-kindergarten.md) — related

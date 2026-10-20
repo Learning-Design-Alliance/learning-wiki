@@ -47,3 +47,4 @@ Topic-by-quarter fixed-effects ramp regression on 3,197,803 ALEKS learning inter
 - [On randomly assigned proctored retention items, odds of correct response on AI-susceptible items decline 25.0% cumulatively after ChatGPT's release](proctored-retention-odds-decline-25-percent.md) — related
 - [The post-ChatGPT response-time divergence on AI-susceptible items vanishes entirely under proctored assessment](proctoring-eliminates-response-time-divergence.md) — related
 - [The same retention estimator applied to non-proctored assessment yields an opposite-signed 85% increase in odds of correct response on AI-susceptible items](nonproctored-retention-reversal-85-percent.md) — related
+- [Workers ages 22 to 25 in the most AI-exposed US occupations experienced a 16% relative employment decline following widespread generative AI adoption](early-career-employment-decline-ai-exposed-occupations.md) — related

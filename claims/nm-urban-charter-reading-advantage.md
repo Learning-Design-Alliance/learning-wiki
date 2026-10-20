@@ -50,3 +50,4 @@ Matched VCR analysis by NCES locale (Figure 8) for brick-and-mortar charters onl
 - [New Mexico charter elementary and middle school students show reading surpluses over TPS virtual twins, while high and multi-level charter students grow similarly](nm-charter-grade-configuration-reading.md) — related
 - No real district–charter difference in benchmark shares, but urban, virtual and high schools show lower shares — related
 - [Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math](wa-charter-school-level-variation-three-of-nine.md) — related
+- [Washington charter students' overall annual reading and math gains do not differ statistically from matched TPS peers](wa-charter-overall-gains-no-significant-difference.md) — related

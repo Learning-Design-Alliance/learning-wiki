@@ -45,3 +45,4 @@ Sequence and process-mining analysis of 13 weekly role sequences built with Tram
 ## Related Claims
 - [Trajectories differed in transition structure: free-rider students migrated from social mediator and leader roles into the peripheral explorer role, and rarely returned to leadership directly.](free-rider-transition-structure.md) — reports the opposite
 - [Free riders earned significantly lower grades than students in the active constructive and social interactive trajectories, whose achievement levels were statistically indistinguishable.](free-riders-lower-grades-two-active-trajectories-equal.md) — related
+- [Positive adaptation showed the highest temporal stability while maladaptive adaptation was the least stable profile across the semester](positive-adaptation-highest-stability-maladaptive-least.md) — related

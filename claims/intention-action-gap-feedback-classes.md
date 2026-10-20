@@ -43,4 +43,5 @@ Thematic analysis of Q2 motivations across classes. The article reports the disc
 
 
 ## Related Claims
--
+- [Latent class analysis of 641 higher education students' survey responses identifies four distinct classes of feedback experience](four-latent-classes-feedback-experiences.md) — possibly the same claim (merge candidate)
+- [Actual classroom use of AI among Ghanaian pre-service science teachers is moderate despite strong intentions, indicating an intention-practice gap](intention-practice-gap-ai-use-ghanaian-pre-service-teachers.md) — related

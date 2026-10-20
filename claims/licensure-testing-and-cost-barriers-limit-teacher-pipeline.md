@@ -47,3 +47,5 @@ Fall 2020 interviews with California district superintendents and human resource
 - [Districts attribute shortages chiefly to a shrinking supply of newly credentialed teachers, cited by 79% of shortage districts](shrinking-teacher-supply-top-cited-shortage-cause.md) — related
 - [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related
 - [Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability](partnership-and-capacity-challenges-residencies.md) — related
+- [Early childhood credential candidates face financial, time, and navigation barriers that fall hardest on candidates of color](ec-credential-barriers-cost-time-navigation.md) — related
+- [Each year thousands of new teachers pass through hundreds of different teacher preparation programs before being hired to teach in the nation's schools](thousands-of-new-teachers-hundreds-of-preparation-programs.md) — related

@@ -68,3 +68,7 @@ The review reports this study on preventing school-based attacks as evidence tha
 ## Related Claims
 - [Student bystanders' willingness to report threats is influenced by positive relationships with adults at school](positive-adult-relationships-drive-threat-reporting.md) — related
 - [Schools that increased restorative practice utilization saw declines in misbehavior, gang membership, victimization, depressive symptoms, and substance abuse, and improvements in GPA and climate](school-level-restorative-utilization-improves-behavior-climate.md) — related
+- [Self-regulation interventions showed positive associations with distal outcomes: academic achievement in 11 of 13 studies (85%), substance abuse in 4 of 5 (80%), and conduct disorders, social skills, depression, behavioral problems, and school suspensions in all reporting studies.](sr-interventions-positive-distal-outcomes-academic-substance-conduct.md) — related
+- [Recovery high school attendance may improve absenteeism, abstinence, and reduce marijuana and other drug use, based on a single quasi‐experimental study with serious risk of bias](rhs-improves-absenteeism-abstinence-drug-use-single-qed.md) — related
+- [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — related
+- [Substance abuse infractions declined by about 80% at both Roswell community schools during 2023–24](substance-abuse-infractions-dropped-80-percent-both-schools.md) — related

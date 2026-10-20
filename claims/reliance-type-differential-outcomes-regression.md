@@ -82,3 +82,4 @@ Same adjusted regression models (N=118). Cognitive reliance had the largest coef
 
 ## Related Claims
 - [The association between early reliance and negative impact strengthens as evaluation literacy increases](early-reliance-evaluation-literacy-interaction.md) — related
+- [Perceived instructor policy is associated with GenAI task use, confidence, reliance, and perceived benefits, with small effect sizes](instructor-policy-associated-small-effects.md) — related

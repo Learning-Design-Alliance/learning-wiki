@@ -48,3 +48,4 @@ Theoretical expectation (Expectation 4), consistent with cited research linking 
 - [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](trainer-expected-improve-comment-quality.md) — related
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](trainer-calibration-expected-align-rater-judgments.md) — related
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — a broader claim this one bears on
+- [Self-monitoring of work quality requires three student capacities: appreciation of high quality, evaluative skill, and a store of modification tactics](three-capacities-for-evaluative-self-monitoring.md) — a broader claim this one bears on

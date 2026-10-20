@@ -56,3 +56,6 @@ The brief's own description states the central assertion without reporting data 
 - [Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss](missing-school-research-informs-covid-learning-loss-projections.md) — related
 - [Research on seasonal learning and summer learning loss offers insights into the potential achievement impacts of COVID-19 school closures](summer-learning-loss-insights-covid-closures.md) — related
 - [New baseline data are needed to support instructional planning for individual students and student groups after disrupted schooling](new-baseline-data-needed-instructional-planning-disrupted-schooling.md) — a narrower finding that bears on this claim
+- [Learning loss varied considerably by school, with some schools seeing slides of 10 percentile points or more and others recording no losses or small gains](school-level-variation-in-learning-loss.md) — related
+- [Educators and evaluators faced open questions about how to measure student performance after COVID disruptions](measuring-student-performance-after-covid-open-question.md) — related
+- [Remote learning implemented during the spring 2020 closures achieved effects similar to no teaching at all during summer vacation](covid-remote-learning-comparable-to-summer-loss.md) — related

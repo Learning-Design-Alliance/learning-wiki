@@ -76,3 +76,8 @@ A PRISMA 2020 systematic review with a narrative (not meta-analytic) synthesis. 
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [Balancing the dataset significantly improved model predictive performance but increased bias under demographic parity](data-balancing-improves-accuracy-increases-bias.md) — related
 - Predicting student outcomes was a common AIEd use in higher education, with ten studies predicting academic performance — related
+- [Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments](early-warning-agents-retention-gains.md) — related
+- [Using predictive analytics while ignoring teacher knowledge may misidentify students at risk of dropping out and negatively influence teacher views](ignoring-teacher-knowledge-misidentifies-risk-students.md) — related
+- [More than 30% of identified at-risk students visited previously unengaged learning activities within two weeks of the relational feedback email](relational-feedback-email-increases-activity-visits.md) — a narrower finding that bears on this claim
+- [Ninth-grade early warning systems around course grades and attendance led to substantial improvements in grades, graduation rates, and test-measured learning gains](ninth-grade-early-warning-systems-improvements.md) — related
+- [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related

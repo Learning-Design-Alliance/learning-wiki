@@ -66,3 +66,4 @@ Baseline descriptive comparison of the intervention (N = 175–191) and control 
 - [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md) — related
 - [Task topic order was associated with sourcing performance and with individual change during the intervention](topic-order-associated-with-sourcing-performance.md) — related
 - [A teacher-led sourcing intervention increased upper secondary students' use of source features in search queries during online inquiry](sourcing-intervention-improves-search-queries.md) — related
+- [Students with the weakest pre-intervention sourcing skills showed the clearest positive change during the intervention](weakest-sourcing-skills-benefited-most.md) — related

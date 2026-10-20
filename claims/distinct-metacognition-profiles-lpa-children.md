@@ -43,4 +43,9 @@ Latent profile analyses of six z-standardized indicators (monitoring accuracy, e
 
 
 ## Related Claims
--
+- [Fourth graders outperform second graders on secret-code performance and restudy effectiveness, but not on self-monitoring discrimination](grade-differences-performance-restudy-not-self-monitoring.md) — related
+- [Task performance relates to metacognition profile membership at the first measurement point but not one year later](performance-profile-relation-dissociates-over-time.md) — related
+- [Metacognition profile classifications differ between second and fourth graders](grade-level-differences-metacognition-profiles.md) — a narrower finding that bears on this claim
+- [Generalizability of metacognitive skills across tasks increases between ages eight and eleven](metacognition-generalizability-develops-with-age.md) — a narrower finding that bears on this claim
+- [Fourth graders with low metacognition tend to remain low one year later, particularly showing ineffective restudy decisions](fourth-graders-at-risk-metacognition-persists.md) — related
+- [Effective restudy selection is the metacognitive skill that most distinguishes children's profiles](effective-restudy-distinguishes-metacognition-profiles.md) — related

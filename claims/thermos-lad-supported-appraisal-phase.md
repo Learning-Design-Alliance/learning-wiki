@@ -65,3 +65,4 @@ In the same interview study, a minority reported no impact on reflection; the ar
 - [Perceived impact of LAD use on study behaviour varied, with most participants reporting no impact](lad-impact-on-study-behaviour-varied-mostly-null.md) — related
 - [Students and tutors rated predetermined LAD constructs similarly in importance but differed in suggesting and ranking new constructs](lad-stakeholders-agree-predetermined-differ-new-constructs.md) — related
 - [The LAD did not support the preparatory phase because most participants did not use the actionable feedback despite perceiving it as potentially useful](thermos-lad-preparatory-phase-not-supported.md) — related
+- [Students reported that the dashboard boosted learning motivation and that predictive and prescriptive insights were beneficial to their learning](sensenablr-boosted-motivation-perceptions.md) — related

@@ -66,3 +66,6 @@ Startle rANOVA interaction in the same experiment. The article reports the Load 
 - [Anxiety-potentiated startle is greater during low- and medium-load tasks than during the high-load task in both age groups](anxiety-potentiated-startle-reduced-high-load.md) — related
 - [Threat of an aversive scream lowers verbal working memory accuracy at low and medium load but not at high load in both adolescents and adults](threat-impairs-accuracy-low-medium-not-high-load.md) — related
 - [Working memory performance increases from baseline to the first post-induction trial across all age groups and conditions, consistent with practice effects](nback-practice-effect-all-groups.md) — related
+- [Reaction times are faster during threat than safe conditions only on the high-load (3-back) task, in both adolescents and adults](threat-speeds-rt-high-load-only.md) — related
+- [Working memory load degrades discrimination accuracy and slows responses in youth](load-degrades-discrimination-and-slows-responses.md) — related
+- [No age differences emerge in how threat and cognitive load interact on working memory accuracy or reaction time](no-age-by-threat-by-load-interaction.md) — related

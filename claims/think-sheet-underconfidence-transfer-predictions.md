@@ -64,3 +64,6 @@ Conditional effects on transfer-prediction bias in the same regression analysis:
 ## Related Claims
 - [More misconceptions lead to overconfident comprehension predictions with a standard text, and both refutation texts and think sheets counteract this overconfidence](refutation-text-think-sheet-counteract-comprehension-overconfidence.md) — related
 - [Misconceptions did not impair transfer in the strong control condition, but learners with more misconceptions in the think-sheet group transferred better](think-sheet-misconceptions-positive-transfer-effect.md) — related
+- [Completing the think sheet more accurately was associated with higher comprehension, transfer, and regulation decision adequacy](think-sheet-quality-relates-outcomes.md) — related
+- [Think sheets counteracted the positive effect of misconceptions on transfer in the control group, though the overall interaction only approached significance](think-sheet-misconception-effect-transfer.md) — related
+- [Students with more misconceptions before studying more strongly underestimated their transfer performance, regardless of instructional method](more-misconceptions-underestimate-transfer.md) — reports the opposite

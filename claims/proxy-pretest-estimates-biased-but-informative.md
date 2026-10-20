@@ -50,3 +50,4 @@ The authors' interpretation from the Oklahoma statewide analysis: proxy pre-test
 - The paper clarifies confusion about the use of value-added information in teacher evaluation — a broader claim this one bears on
 - [Standardized test proficiency provides biased information about school quality, indicating a need for alternative metrics](standardized-tests-biased-school-quality.md) — related
 - [Multiple sources of student information can be accumulated to estimate teacher effectiveness](multiple-sources-accumulate-teacher-effectiveness.md) — related
+- [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related

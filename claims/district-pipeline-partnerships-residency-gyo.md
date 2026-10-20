@@ -46,3 +46,5 @@ Qualitative interview study of district leaders in six purposefully sampled Texa
 - [TRP participants could accept a stipend in exchange for committing to teach in the same district for at least three years](trp-stipend-three-year-commitment.md) — related
 - [A leaky pipeline limits the residency program's district benefits: only about half of completers became CPS principals within four years, at roughly $535,000 cost per new principal](residency-leaky-pipeline-limited-roi.md) — related
 - [Teacher residencies and preparation partnerships proved important to district recruitment during the pandemic](residencies-partnerships-support-pandemic-recruitment.md) — related
+- [In Irving ISD, 56% of educators who served as program coaches since 2017 were promoted to new positions](irving-isd-56-percent-coaches-promoted.md) — related
+- [Grow Your Own program graduates remain in teaching longer than typical beginning teachers and teach in high-need schools at high rates](grow-your-own-graduates-retain-in-high-need-schools.md) — related

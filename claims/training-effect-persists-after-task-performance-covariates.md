@@ -50,3 +50,4 @@ Further analyses in Experiment 1 addressed the alternative account that task dif
 - [Engaging symbolic number representations does not by itself prime subsequent symbolic arithmetic: second test-set performance declined in both training groups](symbolic-activation-insufficient-to-prime-arithmetic.md) — reports the opposite
 - [Non-symbolic numerical addition practice improves accuracy on symbolic arithmetic but not sentence completion, showing the practice effect is specific to mathematics](ans-practice-effect-specific-to-mathematics.md) — related
 - [Symbolic number magnitude training, but not non-symbolic training, significantly improves preschoolers' exact arithmetic](symbolic-magnitude-training-improves-preschool-arithmetic.md) — related
+- [Both numerical training conditions improve magnitude processing more than a story-understanding control condition](numerical-magnitude-training-beats-control.md) — related

@@ -45,3 +45,4 @@ Descriptive announcement of the brief's national analysis of rural schools. It s
 ## Related Claims
 - [Rural students are characterized as a substantially sized but overlooked group, comprising about 20 percent of the national student population](rural-students-forgotten-20-percent-framing.md) — related
 - [Rural students start kindergarten slightly ahead of nonrural students but fall behind by middle school](rural-students-start-ahead-fall-behind-middle-school.md) — a narrower finding that bears on this claim
+- [The rural–nonrural achievement divergence is driven by larger summer losses for rural students](rural-achievement-divergence-driven-by-summer-loss.md) — a narrower finding that bears on this claim

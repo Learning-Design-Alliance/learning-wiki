@@ -46,3 +46,4 @@ Year 2 and year 3 estimates from table 8 of the randomized comparison of 92 scho
 - [The first-year effect of the EITP pilot on school-level math achievement (0.05 SD) was not statistically significant](eitp-year1-math-effect-null.md) — related
 - [After the first year of the EITP pilot, cohort 1 schools improved reading achievement by 0.10 standard deviations relative to cohort 2 schools](eitp-year1-reading-effect-010sd.md) — related
 - [Higher-achieving schools realized a bigger first-year reading benefit from the evaluation pilot than lower-achieving schools](eitp-heterogeneity-baseline-achievement.md) — related
+- [Low-poverty schools benefited more from the evaluation pilot than high-poverty schools, in both math and reading](eitp-heterogeneity-poverty.md) — related

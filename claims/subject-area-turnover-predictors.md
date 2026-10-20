@@ -45,3 +45,5 @@ Multivariate regression on SASS/TFS data predicting turnover by main teaching su
 ## Related Claims
 - [Turnover is highest in ESL/bilingual education (19.0%), foreign languages (18.3%), CTE (17.5%), and special education (16.4%)](high-need-field-teachers-higher-turnover.md) — related
 - [Turnover is about 70% higher in schools serving the most students of color, with even larger gaps for math/science, special education, and alternatively certified teachers](turnover-high-minority-schools-70-percent.md) — related
+- [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — related
+- [Special education teachers are the most likely of all subject-area teachers to have borrowed (65.2%) and to owe their entire balance (15.4%)](special-education-teachers-highest-loan-burdens.md) — related

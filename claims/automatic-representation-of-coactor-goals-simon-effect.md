@@ -44,3 +44,4 @@ A reaction-time study (Sebanz et al., as reviewed here) using a spatial-compatib
 
 ## Related Claims
 - [Two people discussing perceptual decisions can outperform the better individual, via weighted confidence sharing](group-advantage-joint-perceptual-decision-discussion.md) — related
+- [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](discussion-improves-individual-perception.md) — related

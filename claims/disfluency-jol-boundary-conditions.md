@@ -46,3 +46,4 @@ Narrative review of Magreehan et al. (2015) and related studies; the review repo
 - [Medium moderated disfluency effects on reasoning: disfluent text fostered calibration and performance on screen but not on paper](screen-paper-moderates-disfluency-reasoning.md) — related
 - [Disfluency increased study times without improving performance, suggesting time was spent deciphering text rather than processing contents more deeply](disfluency-study-time-decoding-not-deeper.md) — related
 - [All 13 special-issue studies failed to show overall better performance due to disfluency](thirteen-studies-null-disfluency-performance.md) — related
+- [Disfluency affects judgments of learning only when it is the only available cue; item relatedness overpowers it](disfluency-jols-overpowered-by-other-cues.md) — possibly the same claim (merge candidate)

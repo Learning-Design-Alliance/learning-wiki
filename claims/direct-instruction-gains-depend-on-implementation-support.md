@@ -66,3 +66,5 @@ Same ratings analysis comparing the 10 fully-supported Direct Instruction school
 - [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - Simulation estimates that regression-to-the-mean selection bias inflates apparent Target Teach improvement by about .03 per year, leaving a smaller but still significant gain — related
 - SAGE class-size reduction schools showed no statistically significant change in poverty-adjusted effectiveness ratings — related
+- [Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness](coaching-frequency-related-to-induction-effectiveness.md) — related
+- [Principals' confidence in leadership skills related to instructional coaching rose from 60 to 95 percent over the pilot year](dlp-principal-leadership-confidence-growth.md) — related

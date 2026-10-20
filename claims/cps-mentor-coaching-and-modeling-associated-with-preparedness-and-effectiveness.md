@@ -91,3 +91,6 @@ Linking mentor coaching reports to first-year REACH ratings for hired student te
 - [Mentoring residents improves mentors' own teaching practice](mentoring-residents-improves-mentor-practice.md) — related
 - [STEM teachers participating in learning teams deepen their mathematics and science content knowledge and feel more prepared to teach it](stem-plcs-deepen-teacher-content-knowledge.md) — related
 - [Mentoring and coaching programs are associated with stronger principal practices, higher teacher ratings, and better student outcomes](principal-mentoring-coaching-improves-practice.md) — related
+- [Student teachers hired by CPS showed no differences in mentor ratings or feelings of preparation compared with those not hired](cps-hired-vs-not-hired-no-difference-mentor-ratings.md) — related
+- [Student teachers hired by their field-placement school had higher first-year evaluation ratings than those hired elsewhere in CPS](cps-student-teachers-hired-in-placement-school-higher-first-year-ratings.md) — related
+- [Ninety percent of responding completers rated their preparation program effective or very effective and felt at least adequately prepared across all teaching performance expectation domains](completers-rate-preparation-highly-90-percent.md) — related

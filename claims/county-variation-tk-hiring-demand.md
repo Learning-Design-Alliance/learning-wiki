@@ -46,3 +46,6 @@ County-level projection analysis (Findings; Figure 3 shows total demand for TK t
 - [Districts will need to hire between 11,900 and 15,600 additional lead TK teachers by 2025–26 beyond the estimated 4,100 already employed](additional-lead-tk-teachers-11900-15600.md) — a broader claim this one bears on
 - [TK enrollment grew from 88,883 children in 2019–20 to 151,491 in 2023–24, while the share of eligible 4-year-olds enrolled declined to 59%](tk-enrollment-growth-uptake-decline.md) — related
 - Growth in TK teacher demand is projected to be non-linear, with the sharpest increases in 2023–24 and 2025–26 — related
+- [California's universal TK expansion will require an additional 11,900 to 15,600 credentialed teachers with early childhood expertise by 2025–26](tk-expansion-requires-11900-15600-credentialed-teachers.md) — related
+- [TRGP residents were prepared in 31 of 1,019 districts across 21 of 58 counties, concentrated in central and southern California while many rural high-need counties did not participate](trgp-geographic-concentration-rural-gaps.md) — related
+- [TK enrollment in California is projected to reach between 291,000 and 358,000 children by 2025–26 under three modeled uptake scenarios](tk-enrollment-291k-358k-by-2025-26.md) — related

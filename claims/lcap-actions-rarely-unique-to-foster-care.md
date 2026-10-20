@@ -48,3 +48,5 @@ Documentary analysis of the 2022–23 Local Control and Accountability Plans of 
 - [Students in foster care were increasingly identified with disabilities, reaching nearly one in three by 2022–23 and far exceeding other high-need groups](foster-care-disability-identification-increased.md) — related
 - [Academic achievement of students in foster care improved before the pandemic but lost all gains afterward, with only 19 percent meeting ELA standards in 2022–23](foster-care-achievement-pandemic-reversal.md) — related
 - California's Local Control Funding Formula provides districts supplemental grants for each student in foster care that must increase or improve services — related
+- [In 2023–24, 44 states provided unique funding for at-risk students, with all 44 classifying low-income students as at-risk and 22 providing concentration-based funding](44-states-provide-at-risk-funding-2023-24.md) — related
+- [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related

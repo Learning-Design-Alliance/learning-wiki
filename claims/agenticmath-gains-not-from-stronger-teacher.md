@@ -45,3 +45,5 @@ Controlled 10K-sample comparison (Table 5) across MetaMath, DARTMath, ScaleQuest
 ## Related Claims
 - [Each AgenticMath component contributes performance gains, with the review-revise loop playing a particularly important role](agenticmath-ablation-all-modules-contribute.md) — related
 - [At 30K and 60K data scales, AgenticMath outperforms all compared baselines across four base models on six math benchmarks](agenticmath-sota-at-small-data-scales.md) — related
+- [Increasing AgenticMath-generated training data from 7.5K to 22.5K samples yields consistent accuracy gains for Llama3-8B across benchmarks](agenticmath-data-size-positive-correlation-accuracy.md) — related
+- [Review-revise iterations improve synthesized problem quality, with gains largely stabilizing by the third iteration](review-revise-iterations-quality-stabilizes.md) — related

@@ -46,3 +46,5 @@ Delayed posttest from the same between-subjects experiment with 90 undergraduate
 
 - [Strategy guidance in using pause and scrollbar controls yields better immediate comprehension and higher performance efficiency than unguided learner control](strategy-guidance-beats-unguided-learner-control-immediate.md)
 - [Providing strategy guidance leads learners to pause and scroll back on the video timeline more often than unguided learner control](strategy-guidance-increases-pauses-and-scrollbacks.md)
+- [Guided use of a multiple document reading application yields higher multiple document comprehension than access-only, unguided, or traditional pdf viewer use](liquidtext-guidance-comprehension-advantage.md) — related
+- [Strategy guidance yields better immediate recall and comprehension and higher efficiency than continuous presentation without learner control](strategy-guidance-beats-continuous-presentation-immediate.md) — related

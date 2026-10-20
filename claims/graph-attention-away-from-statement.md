@@ -43,4 +43,9 @@ Eye-tracking AOI analysis across the 36 participants; students spent 19.0 ± 10.
 
 
 ## Related Claims
--
+- [Performance was unrelated to dwell time on the graph but increased with dwell time on the problem statement](statement-dwell-predicts-performance.md) — related
+- [Students allocated roughly equal attention to the graph and the molecular model, both above chance, while attending little to the equations](equal-attention-model-graph-low-equations.md) — related
+- [Solving problems with graphs increased mental effort, shown by a higher proportion of silence in think-aloud data](graphs-increase-mental-effort-silence.md) — related
+- [Picture bias: graphs made students more likely to confirm problem statements, irrespective of whether the statements were true](picture-bias-graphs-confirm-statements.md) — related
+- [Frequent eye transitions between graph and problem statement were marginally associated with correct answers](graph-statement-transitions-performance.md) — related
+- [Contrasting problems show the same graph can be helpful or harmful: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present](graph-helpful-harmful-contrasting-cases.md) — related

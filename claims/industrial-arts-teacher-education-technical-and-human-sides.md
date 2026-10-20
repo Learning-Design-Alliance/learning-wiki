@@ -53,3 +53,4 @@ Position argument in the monograph's abstract, not an empirical test. The author
 - Information processing now consumes more societal effort than making goods and rendering services — related
 - By 1973, 70% of the US population lived in the nation's 247 Standard Metropolitan Statistical Areas — related
 - [Changing job requirements mean students must be prepared to change throughout their entire work lives](changing-job-requirements-students-prepared-for-change.md) — related
+- [Expert-led curriculum mapping of two programs shows discipline-specific AIL emphasis: technical programs stress TKS and AP, humanities-oriented programs stress EAR and SIU](curriculum-mapping-discipline-specific-ail-profiles.md) — related

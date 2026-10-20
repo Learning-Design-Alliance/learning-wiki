@@ -45,3 +45,6 @@ Referral coding of the 36 discussion protocols (Table 3: referring to persons 34
 ## Related Claims
 
 - [Anchored discussion supports greater communicative efficiency but not higher mutual understanding](anchored-discussion-communicative-efficiency.md)
+- [Anchored discussion produces more meaning-oriented discussion of academic texts than traditional forum discussion](anchored-discussion-more-meaning-oriented.md) — related
+- [Forum discussion contains more social and regulative comments and longer messages; anchored discussion is briefer with more messages](forum-more-social-regulative-comments.md) — related
+- [Both systems were usable with no significant differences in technical difficulties, practicality, or reading of messages](anchored-vs-forum-usability-comparable.md) — related

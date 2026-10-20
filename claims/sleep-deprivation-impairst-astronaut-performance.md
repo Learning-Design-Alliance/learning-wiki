@@ -46,3 +46,6 @@ Narrative review attribution: the review reports, citing Barger et al. and Jones
 - [Extra honours workload causes stress, less free time and reported grade decreases in the main phase](honours-extra-workload-stress-and-grade-decreases.md) — related
 - [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
 - [Physical well-being — exercise, sleep, and nutrition — impacts learning](physical-wellbeing-impacts-learning.md) — related
+- [Meta-analyses establish that ADHD is associated with poorer performance on tasks measuring inhibition, working memory, planning, and vigilance in children, with overall similar impairment patterns in adults and a strong association with reaction time variability](adhd-cognitive-deficits-children-adults.md) — related
+- [Sleep restriction impairs emotional self-regulation in toddlers, with randomized-trial evidence of moderate-to-large effects](sleep-restriction-emotional-regulation-toddlers.md) — related
+- [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related

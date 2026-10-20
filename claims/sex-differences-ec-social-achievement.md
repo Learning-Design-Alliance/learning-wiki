@@ -53,3 +53,8 @@ T tests in the longitudinal sample (N=214 at T1) showed girls higher on all thre
 - [Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys](gender-moderates-educational-processes-to-social-emotional-competence-link.md) — related
 - [Gender moderates the direct effect of parental beliefs and interests on children's social–emotional competence but not the direct effect of structural family characteristics](gender-moderates-direct-effect-of-parental-beliefs-not-structural-characteristics.md) — related
 - [Teacher-rated grades show girls rated slightly higher than boys, but gender is unrelated to test performance](gender-grades-not-test-performance.md) — related
+- [Boys show greater fitness and physical activity than girls, but academic achievement does not differ by sex in this sample](sex-differences-fitness-activity-not-achievement.md) — reports the opposite
+- [Effortful control predicts social functioning, which predicts achievement, controlling for SES, age, and sex](ec-social-functioning-path-covariates.md) — related
+- [Boys received significantly more process praise than girls, despite equal overall praise](boys-more-process-praise-than-girls.md) — reports the opposite
+- [Boys scored significantly higher than girls on IQ in the sample (p=.001)](sex-difference-iq-boys-higher-sample.md) — related
+- [Gender was not significantly correlated with social–emotional competence in this sample, though it functioned as a moderator](no-zero-order-gender-difference-in-preschoolers-social-emotional-competence.md) — related

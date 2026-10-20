@@ -46,3 +46,4 @@ CHE-model and three-level moderator analysis of product creation (e.g., website,
 - [Problem-based, project-based, and case-based learning do not differ in their effects on students' motivation](no-difference-pbl-pjbl-cbl-motivation.md) — related
 - [Single-course implementations of problem-driven learning show larger motivation effects than curriculum-wide implementations](single-course-larger-effect-than-curriculum.md) — related
 - [Problem-driven learning shows significantly smaller effects on students' reasons for studying than on other motivation constructs](reasons-for-studying-smaller-effect.md) — related
+- [Problem-driven learning shows larger motivation effects in healthcare and STEM domains than in other academic domains](domain-moderator-healthcare-stem-larger.md) — related

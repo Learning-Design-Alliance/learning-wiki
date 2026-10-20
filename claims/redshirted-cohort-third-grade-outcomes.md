@@ -47,3 +47,4 @@ A longitudinal follow-up of the 2021-22 kindergarten cohort through third grade 
 - [Redshirted children may gain a physical maturity advantage over peers, which some parents cite for sports](redshirting-physical-maturity-advantage-sports.md) — related
 - [Redshirting kindergartners likely carries costs that outweigh its academic benefits](redshirting-costs-outweigh-academic-benefits.md) — related
 - [The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade](entry-age-growth-rate-tradeoff.md) — related
+- [Redshirting trends among U.S. kindergartners were examined between fall 2017 and 2025 using data on over three million students](redshirting-trends-2017-2025-map-growth.md) — related

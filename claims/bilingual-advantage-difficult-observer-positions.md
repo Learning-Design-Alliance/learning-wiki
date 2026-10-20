@@ -49,3 +49,4 @@ Follow-up one-way ANOVAs by language group at each observer position in the same
 ## Related Claims
 - [Bilingual 8-year-olds are more accurate than monolingual 8-year-olds on a computerized spatial perspective-taking task](bilingual-advantage-spatial-perspective-taking.md) — a broader claim this one bears on
 - [Monolingual and bilingual children show no differences in the types of errors committed on the perspective-taking task](no-language-group-differences-error-types-perspective-taking.md) — related
+- [Language group predicts perspective-taking accuracy after controlling for receptive vocabulary and fluid intelligence](language-group-predicts-perspective-taking-accuracy-regression.md) — a broader claim this one bears on

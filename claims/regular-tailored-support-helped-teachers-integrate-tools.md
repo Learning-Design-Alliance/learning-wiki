@@ -52,3 +52,5 @@ Key finding on implementation supports: "Regular and tailored support helped tea
 - [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](monthly-coaching-helped-teachers-integrate-mi-write.md) — related
 - [Teachers need time to plan and carry out daily writing instruction to successfully learn and use MI Write](teacher-planning-time-needed-for-mi-write-use.md) — related
 - [Teachers need tailored technical support and time to understand how to use Ecree and integrate it with their instruction](teachers-need-tailored-support-time-ecree-integration.md) — possibly the same claim (merge candidate)
+- [MI Write's automated feedback is most useful to students when it supplements, not replaces, teacher feedback](automated-feedback-supplements-not-replaces-teacher-feedback.md) — related
+- [A key barrier to using MI Write is a lack of both curriculum integration and alignment](curriculum-integration-alignment-barrier-mi-write.md) — related

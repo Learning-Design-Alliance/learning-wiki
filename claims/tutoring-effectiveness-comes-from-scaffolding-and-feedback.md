@@ -121,3 +121,5 @@ A review of experiments comparing human tutoring, several classes of computer tu
 - [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — related
 - [Teacher and researcher coaches both used a cognitive apprenticeship approach but differed in scaffolding style](bioworld-coaching-styles-cognitive-apprenticeship.md) — related
 - [Students who discussed the prompts answered them more often and gave more domain-related answers, and domain-relatedness predicted learning gain](domain-related-prompt-answers-predict-learning-gain.md) — related
+- [Pedagogical experts tutoring in biology generated less deep learning than less pedagogically expert, more interactive tutors](pedagogical-experts-less-deep-learning-tutoring.md) — related
+- [Tutoring is highly effective, and hiring older peers as tutors supports learning gains for both older and younger students](tutoring-and-cross-age-peer-tutors-effective.md) — related

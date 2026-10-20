@@ -71,3 +71,5 @@ Four-way ANOVA over cytoarchitectonic IPS subdivisions (hIP1, hIP2, hIP3) with a
 - [Children with DD show greater brain activation than TD children in parietal, occipito-temporal and prefrontal regions during both addition and subtraction](dd-hyperactivation-multiple-regions.md) — reports the opposite
 - [Children with developmental dyscalculia are disproportionately impaired on subtraction accuracy relative to addition, showing a significant group × operation interaction](dd-subtraction-accuracy-deficit-interaction.md) — related
 - [Arithmetic problem-solving performance improves over 1.2 years in children, with larger gains on standard addition than control problems](arithmetic-performance-improves-longitudinally.md) — related
+- [Children with DD show hyper-connectivity, not reduced connectivity, between the IPS and fronto-parietal and default mode networks during arithmetic](dd-ips-hyperconnectivity-fronto-parietal-dmn.md) — related
+- [Children with DD show slower reaction times than TD children during arithmetic problem solving, with no operation-specific RT effect](dd-slower-reaction-times-arithmetic.md) — related

@@ -47,3 +47,4 @@ Simulation study using hierarchical bootstrapping from the confidence database t
 - [Distributions of meta-d′/d′ and meta-da/da deviate substantially from normality, motivating log transformation before parametric testing](meta-d-ratio-distributions-non-normal.md) — related
 - [T-testing raw meta-d′/d′ or meta-da/da yields a false positive rate below 5%; log transformation or the Mann–Whitney U-test restores an adequate rate](meta-d-ratio-ttest-low-false-positive-rate.md) — related
 - [HMeta-d's false positive rate depends on study design and prior specification: independent group priors inflate it, priors on the group difference fix it, and default priors for continuous predictors yield a rate below 5%](hmeta-d-false-positive-rate-prior-dependent.md) — related
+- [Children's metacognitive judgments are not explained by baseline risk preferences or response-time cues](metacognition-not-risk-preference-or-response-time.md) — related

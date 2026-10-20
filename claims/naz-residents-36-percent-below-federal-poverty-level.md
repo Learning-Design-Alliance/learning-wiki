@@ -46,3 +46,6 @@ Site profile reporting a baseline community indicator for the NAZ zone: "More th
 - [The Buffalo Promise Neighborhood serves a predominantly minority, high-poverty community](buffalo-promise-neighborhood-high-poverty-minority-community.md) — related
 - [The NAZ Zone was selected because it encompasses the area's highest concentration of negative poverty, violence, and low-education indicators](naz-selected-for-highest-concentration-negative-indicators.md) — related
 - Based on the California Poverty Measure, 16.6% of Yolo County children live in poverty — related
+- [Four high-poverty case study schools sustained rising achievement for all subgroups for 5 to 10 years while pursuing personalization](four-equity-schools-rising-achievement-all-subgroups.md) — related
+- [Socioeconomic resources changed meaningfully over early childhood, with household income rising from 290% to 351% of the poverty line, concentrated in the prekindergarten year.](ses-resource-levels-changed-over-early-childhood.md) — related
+- [In 2010, just 29 percent of children entering kindergarten in and near the NAZ Zone met literacy benchmarks on kindergarten readiness tests](naz-29-percent-kindergarten-literacy-benchmarks-2010.md) — related

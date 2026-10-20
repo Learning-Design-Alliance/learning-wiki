@@ -72,3 +72,6 @@ The chapter reports, citing Deen (1991), that cooperative learning "encouraged s
 - [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related
 - After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
+- [Learner-centeredness is a universal theme across SLA theories and language teaching methods](learner-centeredness-universal-theme-sla.md) — related
+- [Teachers dedicating more time to whole-class instruction is associated with increased student math achievement](more-whole-class-instruction-time-higher-math-achievement.md) — reports the opposite
+- [Among language-only interventions, instructional practices and one-on-one or small-group delivery produced significantly larger language gains than curricula and large-group or whole-class delivery](small-group-language-instruction-larger-effects.md) — related

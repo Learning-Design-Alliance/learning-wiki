@@ -45,3 +45,4 @@ Quantitative research review of previous studies on validity degradation, meta-a
 ## Related Claims
 - [At the school level, domain-identical pretests show exceptional prognostic power from grade 5 onward, but are weaker predictors at the student and classroom levels across the school career](ip-exceptional-school-level-prediction-secondary.md) — related
 - [Domain-identical pretests are the most powerful single-level covariate type for student achievement, outperforming cross-domain pretests, fluid intelligence, and sociodemographic characteristics](ip-most-powerful-single-level-covariate-achievement.md) — related
+- [Sociodemographic covariates outweigh domain-identical pretests for predicting between-classroom and between-school variance in elementary school](sc-outweigh-ip-elementary-group-levels.md) — related

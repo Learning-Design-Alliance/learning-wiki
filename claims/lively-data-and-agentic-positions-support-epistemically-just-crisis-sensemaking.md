@@ -57,3 +57,4 @@ This is a qualitative, single-study, small-sample case analysis (4 focal cases, 
 - [Personas developed without care and empathy can create stereotypes](personas-risk-stereotypes-without-empathy.md) — related
 - School leaders entering the 'death spiral' exhibit noticeable behavioral changes such as hostility toward data, crisis mentality, and guarded communication — related
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related
+- [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related

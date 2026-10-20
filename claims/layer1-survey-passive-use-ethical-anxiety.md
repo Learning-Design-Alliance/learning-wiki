@@ -52,3 +52,7 @@ Post-session survey in the Wide-Exposure Layer, administered in 7 of 18 courses 
 - [Among academics, anticipatory AI guilt (credibility and cheating concerns) exceeds post-use guilt (remorse after AI use)](anticipatory-ai-guilt-exceeds-experienced-guilt.md) — related
 - [Assessment design, perceived assessment value, self-confidence, and fear of wrongful plagiarism accusations were the most frequently cited reasons for students' GenAI adoption decisions](reasons-students-cite-genai-assessment-decisions.md) — related
 - [Educators report a certainty–proof gap: high confidence that student work is AI-generated without ability to prove it](certainty-proof-gap-ai-detection.md) — related
+- [Qualitative narratives reveal temporal guilt patterns, authenticity concerns, and skill-atrophy fears among academics using AI](ai-guilt-qualitative-themes.md) — related
+- [Approximately 13 percent of undergraduates decline AI use for ethical rather than practical reasons, a group undetectable through reliance-scale scores](ethical-abstention-group-undetectable-by-scales.md) — related
+- [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — related
+- [GenAI tools are already widely used in the academic work of the surveyed undergraduates](genai-widely-used-in-student-academic-work.md) — related

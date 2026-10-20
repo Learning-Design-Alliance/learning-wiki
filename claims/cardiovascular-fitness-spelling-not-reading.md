@@ -50,3 +50,4 @@ Multilevel analysis in the same 544-child sample relating cardiovascular fitness
 - [Social disadvantage moderates the relationship between cardiovascular fitness and spelling](sdc-moderates-cardiovascular-fitness-spelling-link.md) — related
 - [Higher fit children show superior mathematics achievement but no reading or spelling advantage over lower fit children](higher-fit-children-superior-arithmetic-no-reading-spelling-difference.md) — reports the opposite
 - [Socially disadvantaged children do not differ in physical fitness but score significantly lower on academic performance than non-disadvantaged peers](sdc-lower-academic-performance-equal-fitness.md) — related
+- [Muscular fitness shows no association with academic performance in primary school children](muscular-fitness-no-academic-association.md) — related

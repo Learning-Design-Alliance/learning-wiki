@@ -59,3 +59,5 @@ Teacher quote (T5, 15 years of teaching, Data Control) from the data-sharing the
 
 ## Related Claims
 - [Both students and teachers believe AI cannot capture social dynamics and emotional feelings, but only teachers additionally feared AI use would reduce interpersonal interactions in class](ai-cannot-capture-social-emotional-dynamics.md) — related
+- [Educators want AI systems grounded in their district's specific values, curricula, and student populations rather than generic tools](educators-want-context-grounded-ai.md) — related
+- [Educator involvement in choosing a pilot tool is associated with higher engagement and implementation fidelity, while lack of autonomy contributed to low usage and negative feelings](educator-buy-in-engagement-fidelity-edtech-pilots.md) — related

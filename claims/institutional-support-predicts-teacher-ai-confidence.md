@@ -46,3 +46,5 @@ Cross-sectional survey of 260 teachers in Pampanga, Philippines (52 elementary, 
 
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it
 - [Teacher confidence strongly predicts favorable attitudes toward AI adoption, while the direct effect of support on attitudes is not significant](confidence-predicts-ai-attitudes-support-direct-effect-null.md) — related
+- [Teacher confidence fully mediates the relationship between institutional support and attitudes toward AI adoption](confidence-fully-mediate-support-attitude-relationship.md) — related
+- [Teachers report strongly positive attitudes toward AI, low concern, high confidence in using AI tools, and strong but uneven institutional support](descriptive-profile-teacher-ai-attitudes-concerns-confidence.md) — related

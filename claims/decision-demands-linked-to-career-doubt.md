@@ -44,3 +44,4 @@ Person-level analysis linking coded conversation behavior to the randomized tria
 ## Related Claims
 - [When participants declined to decide and the agent asked again, the resulting commitments were the weakest in the corpus](re-asked-decisions-yield-weakest-commitments.md) — related
 - [Contrary to expectations, agent-led reflection sessions typically ended with participants sounding more certain of their plans than when they started](sessions-ended-more-certain.md) — related
+- [Decisions participants volunteered were worded just as firmly as decisions the agent demanded, and revisions of earlier positions were rare](demanded-versus-spontaneous-decisions-no-firmness-difference.md) — related

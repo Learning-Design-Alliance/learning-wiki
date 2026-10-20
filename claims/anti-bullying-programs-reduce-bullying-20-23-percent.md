@@ -49,3 +49,10 @@ Meta-analysis pooling effect sizes from 44 of 53 program evaluations identified 
 - [School-based anti-bullying programs decrease victimization by 17-20% on average](anti-bullying-programs-reduce-victimization-17-20-percent.md) — related
 - [School-based anti-bullying programs reduce bullying perpetration and victimization globally](anti-bullying-programs-reduce-perpetration-and-victimization-globally.md) — a broader claim this one bears on
 - [Effectiveness of anti-bullying programs varies significantly across evaluations (heterogeneity)](anti-bullying-program-effectiveness-heterogeneous.md) — related
+- [Parent meetings, firm disciplinary methods, and improved playground supervision are program elements associated with decreases in bullying and victimization](parent-meetings-discipline-playground-supervision-reduce-bullying.md) — a narrower finding that bears on this claim
+- [The Olweus Bullying Prevention Program produced the largest effect sizes for bullying perpetration, with effectiveness varying between Norway and USA evaluations](obpp-most-effective-for-perpetration.md) — a narrower finding that bears on this claim
+- [NoTrap! was the most effective program for reducing bullying victimization, while ViSC and fairplayer.manual showed non-significant negative effects](notrap-most-effective-victimization-visc-negative.md) — a narrower finding that bears on this claim
+- [Work with peers in anti-bullying programs is associated with an increase in victimization](peer-work-associated-with-increased-victimization.md) — related
+- [More intensive anti-bullying programs are more effective](more-intensive-anti-bullying-programs-more-effective.md) — related
+- [Regional differences in program effectiveness: North America led for perpetration, Scandinavia for victimization, with no clear overall pattern](anti-bullying-effectiveness-varies-by-region.md) — related
+- [Program effectiveness varies by country: Greece led for perpetration, Italy for victimization](anti-bullying-effectiveness-varies-by-country.md) — related

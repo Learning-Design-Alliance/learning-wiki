@@ -50,3 +50,4 @@ Repeated measures ANOVA of P3 peak amplitude in 212 adolescents: the group main 
 - [Both maltreated and nonmaltreated adolescents are less accurate on no go trials than go trials, with a large trial-type effect](no-go-trials-less-accurate-than-go-trials-adolescents.md) — related
 - [Maltreated adolescents show a reversed N2 pattern during go/no go: more pronounced N2 on go trials than no go trials, unlike nonmaltreated adolescents](reversed-n2-pattern-maltreated-adolescents.md) — related
 - [Maltreated and nonmaltreated adolescents show similar reaction times on go trials of the go/no go task](no-reaction-time-difference-go-trials-groups.md) — related
+- [ERP amplitude shows larger negativity for incongruent and No-Go trials at frontal midline sites](erp-amplitude-incongruent-nogo-frontal-negativity.md) — related

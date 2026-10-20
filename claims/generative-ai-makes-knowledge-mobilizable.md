@@ -49,3 +49,7 @@ A theoretical argument in the section on what generative and agentic AI changes.
 - [AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers](ai-output-error-rates-fabricated-unsafe.md) — related
 - [Checking can coexist with unresolved errors: 7 of 15 students failed a task containing plausible LLM falsehoods despite self-checking](checking-coexists-with-unresolved-error-zhang.md) — related
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
+- [Students often adopt AI-generated solutions quickly, bypassing the effortful meaning-making that constructivist learning requires](ai-answers-bypass-effortful-meaning-making.md) — related
+- [In AI-mediated SSH classrooms, generative sense-making is the most frequent category of AI involvement, with AI used predominantly as interpretive support rather than full substitute](generative-sense-making-most-frequent-ai-involvement.md) — related
+- [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
+- [Existing upskilling frameworks accelerate single stages and leave four gaps: fragmentation, missing verification, shallow default LLM pedagogy, and lack of external outcome measurement](four-gaps-existing-upskilling-frameworks.md) — related

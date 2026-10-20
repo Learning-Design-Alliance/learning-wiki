@@ -43,4 +43,5 @@ The editorial reports on the Szewkis, Nussbaum and colleagues study in Chile, wh
 
 
 ## Related Claims
--
+- [Kindergarten triads sharing one computer with three mice and interdependent roles enhanced social skills](kindergarten-triads-shared-computer-social-skills.md) — related
+- [Collaborative technologies support learning by enabling learners to share and exchange both ideas and their own digital products](collaborative-technologies-enable-sharing-ideas-and-digital-products.md) — a broader claim this one bears on

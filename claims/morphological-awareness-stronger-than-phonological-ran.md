@@ -55,3 +55,7 @@ In the random effects synthesis, significance among predictor effect sizes was d
 - [Rapid automatized naming is the only component skill weakly related to reading comprehension in struggling adult readers (r = .15)](ran-weakly-related-adult-comprehension.md) — related
 - [Word reading efficiency and sentence comprehension show distinct behavioral subcomponent profiles: word reading correlates with phonological subcomponents, comprehension with morphological awareness and orthography-semantic mapping](behavioral-subcomponent-dissociation-word-comprehension.md) — related
 - [In reading-related outcomes, group differences involving RD or RDMD are largest for reading tasks and phonological processing and smallest for RAN](reading-group-differences-phonological-vs-ran.md) — related
+- [Efficiency in phonological and orthographic processing contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — related
+- [Real word decoding relates more strongly to adult reading comprehension (r = .52) than pseudoword decoding (r = .42), though not significantly](real-word-vs-pseudoword-decoding-adults.md) — related
+- [Most predictor effect sizes showed high heterogeneity; only morphological awareness, working memory, and language comprehension fell in the moderate I² range](high-heterogeneity-adult-predictor-effect-sizes.md) — related
+- [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related

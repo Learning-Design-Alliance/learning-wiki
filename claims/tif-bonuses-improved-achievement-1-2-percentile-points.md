@@ -45,3 +45,4 @@ The report's key findings state that "performance bonuses improved reading and m
 ## Related Claims
 - [Offering pay-for-performance bonuses in 10 TIF districts increased student reading achievement by 1 percentile point after two years, with a similar-magnitude but statistically non-significant math effect](tif-bonuses-reading-gain-one-percentile.md) — related
 - [After three years of Teacher Incentive Fund implementation, pay-for-performance bonuses had small positive impacts on student math and reading achievement in ten evaluation districts](tif-pay-for-performance-small-positive-achievement-impacts.md) — related
+- [Providing educators with performance feedback and offering pay-for-performance bonuses can improve student achievement, with positive cumulative impacts on math or reading in some years](performance-feedback-and-pay-for-performance-improve-achievement.md) — a broader claim this one bears on

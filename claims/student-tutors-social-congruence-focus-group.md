@@ -43,4 +43,7 @@ Focus group interview finding coded under the social congruency factor; students
 
 
 ## Related Claims
--
+- [Focus group data indicate student tutors show more cognitive congruency than staff tutors, explaining content more clearly and in student-friendly terms](student-tutors-cognitive-congruency-focus-group.md) — related
+- [Student tutors show greater role congruence, being more interested in students' daily lives and study experiences](student-tutors-greater-role-congruence.md) — related
+- [Student tutors are rated as more cognitively congruent than staff tutors in problem-based tutorial groups](student-tutors-more-cognitively-congruent-than-staff.md) — related
+- [No differences between student and staff tutors in focus on cooperation among group members](no-difference-tutor-cooperation-orientation.md) — related

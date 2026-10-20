@@ -53,3 +53,4 @@ Longitudinal growth curve modeling of 358 preschoolers assessed at three time po
 - [Initial level and growth were negatively related within phonological awareness and letter-name knowledge, consistent with a compensatory pattern](negative-intercept-slope-within-code-related-skills.md) — related
 - [Initial letter-sound knowledge and phonological awareness were not uniquely related to growth in each other](letter-sound-knowledge-no-unique-bidirectional-relation.md) — reports the opposite
 - [Children use letter-name knowledge as a shortcut when inventing phonologically based spellings](letter-names-bootstrap-invented-spellings.md) — related
+- [Vocabulary was largely unrelated to growth in phonological awareness, with significance only for blending](vocabulary-not-related-to-phonological-awareness-growth.md) — related

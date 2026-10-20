@@ -44,3 +44,7 @@ District-wide observational analysis of Chicago discipline data reported in the 
 
 ## Related Claims
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
+- [The likelihood of being identified as at risk increases as historically underserved background characteristics intersect, with variation by gender and race/ethnicity, and school characteristics also matter](intersectional-risk-likelihood.md) — related
+- [School characteristics—percentage of low income students, teacher retention, and attendance—are associated with students' likelihood of being identified as at significant risk in early literacy screening](school-characteristics-affect-literacy-risk.md) — related
+- [School and district factors relate to risk identification: low income concentration correlates with repeated risk identification, and segregation modestly increases it, though some schools outperform model predictions](massachusetts-school-segregation-risk-identification.md) — related
+- [School-level concentration of low income students and racial isolation are associated with higher early literacy risk rates](school-segregation-associated-higher-literacy-risk.md) — related

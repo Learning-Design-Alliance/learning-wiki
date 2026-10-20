@@ -47,3 +47,5 @@ Descriptive coding of guidance tools (action blocking, scripts, teacher or stude
 - [Group awareness tools showing peer presence, peer activities, or multiple artifacts are integrated in many educational VRLs, but performance and teacher-presence indicators are never standalone](group-awareness-tools-multimodal-vrls.md)
 - [Only a minority of VRL studies assess collaboration quality or learning, but most studies that measure learning report positive impact](minority-studies-evaluate-collaboration-learning-vrls.md)
 - [Regulation tools for collaboration are very rare in educational VRLs, identified in only 8 laboratories, mostly supporting regulation by teachers](regulation-tools-very-rare-vrls.md)
+- [Synchronous communication is the most common collaboration support integrated in educational VRLs, and few labs offer none](synchronous-communication-most-common-in-vrls.md) — related
+- [Collaborative VRLs are predominantly STEM-focused, virtual, non co-located, synchronous, and 2D](vrl-collaboration-corpus-properties.md) — related

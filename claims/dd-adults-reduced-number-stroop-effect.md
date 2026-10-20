@@ -48,3 +48,4 @@ Review reports Rubinsten and Henik (2005) Number Stroop study: a "significantly 
 - [Children with developmental dyscalculia are more susceptible to task-irrelevant information than controls across five experiments](dd-interference-suppression-impairment.md) — reports the opposite
 - [Non-symbolic magnitude processing shows mixed associations with inhibition measures](nonsymbolic-nmp-mixed-inhibition-association.md) — related
 - [Groups with reading difficulties perform significantly better than controls on the Stroop interference measure, and only math groups show set-shifting weakness](stroop-advantage-rd-set-shifting-md-only.md) — related
+- [Adults with DD show a smaller subitizing range and impaired enumeration of random sets across visual and tactile modalities](dd-adults-subitizing-enumeration-deficits.md) — related

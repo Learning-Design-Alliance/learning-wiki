@@ -48,3 +48,5 @@ Two cut-score computation methods were applied to panelist ratings of 15 portfol
 - Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment — related
 - [A body of work standard setting process produced classification agreement rates ranging from 71% to 97% for an alternate portfolio assessment](body-of-work-agreement-rates-71-97.md) — related
 - Presenting ordered portfolios led panelists to shift toward a bookmarking-like mental process, contaminating independent classification — related
+- [Person-oriented and dimensional methods each predicted reading achievement significantly better than the categorical method](dimensional-person-oriented-beat-categorical-reading-prediction.md) — related
+- [Percent meeting standards is an imprecise metric whose cut-score concentration produced the Era 2 misconception that Chicago taught basic skills better than high-level skills](percent-meeting-standards-imprecise-metric.md) — related

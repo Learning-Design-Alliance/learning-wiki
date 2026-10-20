@@ -44,3 +44,4 @@ Analysis of participant-advisor reflections identified over 56 perceived opportu
 - [HSE learners and workers perceived accuracy, security, usability, employer use, and access as the top challenges of LERs](retos-percibidos-lers-exactitud-seguridad-acceso.md) — related
 - [Las oportunidades percibidas de los LER incluyen tener todo en un solo lugar, conectar con puestos de trabajo y auto-traducción de destrezas](oportunidades-percibidas-lers-un-solo-lugar.md) — possibly the same claim (merge candidate)
 - [HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions](top-wanted-transition-supports.md) — related
+- [HSE participants found the LER value proposition unclear, questioning how it differed from Indeed and LinkedIn and feeling excluded by linear-journey prompts](unclear-ler-value-proposition-hse-participants.md) — related

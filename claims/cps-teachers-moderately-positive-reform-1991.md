@@ -45,3 +45,4 @@ Citywide survey of CPS elementary teachers administered in late May and June of 
 ## Related Claims
 - [Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior](lsc-contributions-strongest-in-operations-weakest-on-student-behavior.md) — related
 - [Between 1991 and 1994, elementary teachers' test-preparation time increased and responses converged toward moderate agreement on reform items](test-prep-hours-increased-1991-1994.md) — related
+- [The Charting Reform surveys reached 266 elementary schools and 40 high schools in Chicago in Spring 1994](charting-reform-surveys-266-elementary-40-high-schools.md) — related

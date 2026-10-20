@@ -46,3 +46,5 @@ The article asserts a gap between assessment-scaling expertise and practice in s
 - Longitudinal survey growth is typically measured with sum scores or IRT scale scores from a consistent item set administered across multiple school years — related
 - [The effect of response styles on growth estimates varies by psychological construct, response style, and IRT model used](response-style-growth-effects-vary-by-construct-and-model.md) — related
 - [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md) — related
+- [Multidimensional IRT scores that account for latent variable covariances over time produce better recovery of growth parameters in longitudinal growth models than sum scores and other IRT approaches](multidimensional-irt-covariance-scores-better-growth-recovery.md) — related
+- [The multi-rater growth model shows promise relative to cruder approaches like estimating growth from a single rater](multi-rater-lgcm-promising-versus-single-rater.md) — related

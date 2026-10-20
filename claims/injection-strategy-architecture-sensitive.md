@@ -47,3 +47,7 @@ Supplementary experiment (Appendix B.2, Figure 6) comparing Input, Output and Du
 - DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets — related
 - [Injecting the collaborative prior redistributes AKT's attention from local recency bias toward long-range dependencies](mbp-kt-attention-recency-to-long-range.md) — related
 - [Symbolic knowledge injection improves temporal reliability of predictions, yielding lower early- and mid-sequence errors and the lowest prediction inconsistency rates across sequence lengths](responsible-dkt-temporal-reliability.md) — related
+- [Hyperparameter sensitivity in PKT is an inherent characteristic of programming interaction data, varying across models and across assignments within the same model](pkt-hyperparameter-sensitivity-varies-by-model-and-assignment.md) — a broader claim this one bears on
+- [LoRA fine-tuning hyperparameters are not model-agnostic: increasing rank above 64 destroyed LLaMA's feedback generation while Gemma remained robust](lora-rank-sensitivity-architecture-dependent.md) — related
+- [MBP-KT yields significantly greater improvements for learners with fewer interaction records than for learners with more records](mbp-kt-greater-gains-sparse-learners.md) — related
+- [MBP-KT performance is optimal with sliding-window size N between 2 and 4 and is not sensitive to pattern-set length K (variation within 2%)](mbp-kt-hyperparameter-sensitivity-n-k.md) — related

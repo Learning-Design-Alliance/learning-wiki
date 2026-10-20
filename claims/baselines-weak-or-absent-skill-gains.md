@@ -45,3 +45,4 @@ Paired pre/post tests for the Minimally-invasive Assistance baseline group in th
 ## Related Claims
 - [L2C outperformed both the Rule-based Fading and Minimally-invasive Assistance baselines on lap time and failure count](l2c-outperforms-rbf-mia-baselines.md) — related
 - [L2C coaching significantly reduces learners' lap times and failure counts from pre- to post-coaching in FPV drone racing](l2c-within-subject-lap-time-failure-gains.md) — related
+- [Learners rated the L2C coach higher than both baselines on safety, performance, agency, and satisfaction](l2c-higher-subjective-ratings.md) — related

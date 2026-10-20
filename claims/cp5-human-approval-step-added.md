@@ -44,3 +44,6 @@ Instructor-observed pattern at CP5 in the single course instantiation, convertin
 
 ## Related Claims
 - [Checkpoint artifacts prompted Master-level student groups to revise initial AI overestimates after baseline simulation evidence accumulated](cp4-evidence-driven-ai-revision.md) — related
+- [A 4-bit quantized 27B local Teacher LLM generated knowledge in the required format, suggesting accessible-resource implementations may be feasible](quantized-local-teacher-llm-feasible.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
+- [Model size defines a core trade-off: too-large SLMs answer without the cognitive structure while too-small SLMs break instruction-following coherence](curse-of-prior-knowledge-size-tradeoff.md) — related

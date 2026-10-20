@@ -46,3 +46,5 @@ Of the five included studies, two had "statistically significant positive effect
 - [READ 180 shows a modest average effect size of +0.08 across five studies, qualifying it for a Strong evidence rating](read-180-average-effect-size-008.md) — related
 - [Teachers and principals reported satisfaction with READ 180 implementation and positive perceptions of its impacts, while recommending additional professional development](read-180-implementation-satisfaction-and-pd-recommendations.md) — related
 - [READ 180 studies in Newark (NJ) and Memphis found no differences from control](read-180-newark-memphis-no-differences.md) — reports the opposite
+- [A Florida READ 180 study found positive outcomes for students at moderate risk but negative effects for students at high risk (average effect size +0.12)](read-180-florida-effects-vary-by-risk-level.md) — related
+- [READ 180® comprehension effects are inconsistent across cohorts within the same study](read-180-comprehension-inconsistent-across-cohorts.md) — related

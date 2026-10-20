@@ -63,3 +63,11 @@ Editorial report of the study's qualitative component, which contrasted a low pe
 
 ## Related Claims
 - [CSCL needs to promote the inter-animation of complementary quantitative and qualitative perspectives rather than converge on a single ideal method.](cscl-interanimate-quantitative-qualitative-methods.md) — related
+- [Physiological synchrony among collaborating students related only to cognitive regulation, while motivational regulation changes related to achievement](physiological-synchrony-cognitive-regulation-dindar.md) — related
+- [Real collaborative groups show higher physiological synchrony than randomly matched false groups on %REC, %DET, and ADL](real-groups-higher-synchrony-than-false-groups.md) — related
+- [Session-level physiological synchrony occurred in the two groups that struggled with the collaborative exam, while the two groups that found the task easy showed no synchrony.](physiological-synchrony-occurs-with-difficulties.md) — related
+- [Neither physiological arousal nor physiological synchrony predicts equality of participation in monitoring interactions](no-physiological-prediction-equality-participation.md) — a narrower finding that bears on this claim
+- [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — a narrower finding that bears on this claim
+- [Higher equality of participation in monitoring interactions and more monitoring with positive valence predict better collaborative task performance](equality-and-positive-valence-monitoring-predict-collaborative-performance.md) — a narrower finding that bears on this claim
+- [Higher physiological synchrony relates to less monitoring with positive valence](synchrony-negative-predictor-positive-valence.md) — a narrower finding that bears on this claim
+- [During a collaborative exam, every group member contributed to joint monitoring, and students monitored cognition far more often than behaviour or motivation and emotions.](all-members-contribute-monitoring-cognition-dominates-collaborative-exam.md) — a narrower finding that bears on this claim

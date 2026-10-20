@@ -69,3 +69,4 @@ The report finds college choice has little impact on graduation for low-qualific
 - [Only CPS graduates with access to very selective colleges (above 3.3 GPA and ACT 26+) have four-year college graduation prospects exceeding 50 percent](high-qualifications-needed-for-majority-graduation-odds.md) — related
 - [U.S. teachers earned only 77% of what other college graduates earned in 2021, even after adjusting for the work year](teacher-pay-77-percent-of-college-graduates.md) — related
 - Nearly half (49.6 percent) of low-income students under-match into colleges less selective than their credentials warrant, and under-matched students are substantially less likely to graduate — related
+- [The modal post-graduation outcome for CPS graduates with very low college qualifications is neither working nor in school](low-qualification-graduates-out-of-options.md) — related

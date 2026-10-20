@@ -65,3 +65,7 @@ Same retrieval ERP ANOVA: main effect of trial type with "larger P3 amplitude in
 
 - [Adolescents with ADHD show poorer accuracy than non-ADHD peers on all conditions of a visual short-term memory task, with the largest drop on trials requiring WM updating](adhd-poorer-accuracy-wm-change-trials.md)
 - [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md)
+- [Encoding and retrieval P3 amplitudes are significantly correlated only in non-ADHD adolescents, though the between-group difference in correlations was not statistically discriminative](encoding-retrieval-p3-correlation-non-adhd-only.md) — related
+- [Encoding P3 amplitude is reduced in ADHD adolescents during visual WM encoding, in both early and late time windows](reduced-encoding-p3-adhd.md) — related
+- [Visual WM binding of color and shape is intact in ADHD: no group differences behaviorally or electrophysiologically, with Bayesian support for null Group x Condition interactions](wm-binding-intact-in-adhd.md) — reports the opposite
+- [Selective attention facilitates working memory retrieval, and selecting from WM resembles visual search](attention-facilitates-wm-retrieval.md) — related

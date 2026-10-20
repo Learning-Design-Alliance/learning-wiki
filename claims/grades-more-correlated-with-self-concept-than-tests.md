@@ -47,3 +47,4 @@ A narrative-review assertion in the background on achievement indicators, attrib
 
 ## Related Claims
 - [Math self-concept is more highly correlated with intrinsic value and low cost than with attainment and utility value](self-concept-value-component-correlations.md) — related
+- [Meta-analyses show prior academic self-concept predicts subsequent achievement, controlling prior achievement](meta-analyses-asc-predicts-achievement.md) — related

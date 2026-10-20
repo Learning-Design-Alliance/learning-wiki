@@ -44,3 +44,8 @@ Qualitative and content analysis of transcribed DP role-play discourse under the
 
 ## Related Claims
 - [The IRE classroom discourse structure constrains students' everyday mathematical register, conjectures, and participation of lower socioeconomic groups](ire-structure-constrains-math-participation.md) — related
+- [Medical students using an interactive whiteboard with a structured argument template show deeper collaborative and regulatory discourse and better patient-management outcomes than students using traditional whiteboards](interactive-whiteboard-supports-shared-regulation-medical-decision-making.md) — related
+- [The teacher increased task complexity in the IW condition by deteriorating the patient's vital signs in response to student actions, and decreased complexity in the TW condition by structuring the task](teacher-complexity-adjustment-by-condition.md) — related
+- [The IW-supported group needed less teacher scaffolding in the late problem-solving stage, where nurse and instructor discourse decreased, while scaffolding increased from early to late stage in the TW condition](iw-group-less-late-stage-scaffolding.md) — related
+- [Unfocused tasks elicit significantly more confirmation checks and clarification requests than focused tasks](unfocused-tasks-more-confirmation-and-clarification-strategies.md) — related
+- [Shifting away from traditional IRE recitation toward student participation in discussion improves student learning](ire-shift-toward-discussion-improves-learning.md) — related

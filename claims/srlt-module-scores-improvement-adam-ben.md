@@ -44,3 +44,4 @@ Rubric analysis of Adam's final module scored five out of ten potential SRL&T po
 
 ## Related Claims
 - [Students' baseline SRL profiles show help-seeking as the highest and reflection FOR action as the lowest skill in both cohorts](baseline-srl-help-seeking-highest-reflection-for-action-lowest.md) — related
+- [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](iterative-design-steady-growth-no-excellent.md) — related

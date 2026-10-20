@@ -43,4 +43,7 @@ Pearson two-tailed correlation analyses in Experiment 1 between frequency of ada
 
 
 ## Related Claims
--
+- [In Experiment 1, self-regulation skills significantly predicted socio-discursive MAS only in the adaptable CSCL script condition](self-regulation-predicts-socio-discursive-mas-adaptable-script.md) — related
+- [In Experiment 1, the CSCL script condition significantly affected domain-specific MAS, with only the maximal script significantly outperforming the minimal script](maximal-cscl-script-outperformed-minimal-domain-specific-mas.md) — related
+- [Self-regulation skills are particularly needed when learning with minimally structured or adaptable collaboration scripts in CSCL](self-regulation-needed-minimally-structured-adaptable-scripts.md) — related
+- [Learner-chosen adaptivity in a collaboration script was feasible as guidance design, but impacted regulatory actions only among students with more advanced self-regulation skills](learner-agency-adaptive-guidance-only-advanced-regulators.md) — related

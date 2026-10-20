@@ -47,3 +47,4 @@ The paper's framing statement, offered as an analytical description of the crede
 - Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials — related
 - About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested — related
 - Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners — related
+- [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — related

@@ -46,3 +46,4 @@ Descriptive statistics from the 188-participant sample (Table 1) show autonomous
 - [Adult learners' motivation clusters into four profiles combining autonomous and controlled regulation, replicating the structure expected from SDT research with younger students](four-motivational-profiles-adult-learners.md) — related
 - [Autonomous regulation correlates positively with self-efficacy, learning strategies, and behavioral engagement, while controlled regulation shows no significant linear relations with these outcomes](autonomous-regulation-correlations-outcomes.md) — related
 - [Adult learners below secondary education show higher controlled regulation and lower academic self-concept and learning strategies than those above it](educational-level-controlled-regulation-self-concept.md) — related
+- [Men show significantly lower autonomous regulation than women among adult learners](gender-difference-autonomous-regulation-adults.md) — related

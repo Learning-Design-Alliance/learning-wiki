@@ -46,3 +46,4 @@ Pre-focus group survey of college student participants reported alongside Figure
 ## Related Claims
 - Focus group stakeholders across roles see statewide summative assessments as only one indicator of college readiness and want information on additional skills — related
 - 40% of caregivers found statewide assessments very or somewhat helpful for keeping their child on track for college, with Black caregivers more often finding them helpful — related
+- [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — related

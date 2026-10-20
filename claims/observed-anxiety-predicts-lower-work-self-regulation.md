@@ -53,3 +53,5 @@ Hierarchical regression of observed emotion expressions on teacher-rated learnin
 - [Teacher-rated general anxiety negatively predicts concurrent and future math performance in third and fourth graders](teacher-rated-general-anxiety-predicts-math-performance.md) — related
 - [Observed help-seeking during the challenge task is unrelated to teacher-rated learning-related behaviors and academic skills](observed-help-seeking-unrelated-to-school-readiness.md) — related
 - [Observed shame expressions during challenging tasks predict greater teacher-rated social competence, work-related skills, and academic skills](observed-shame-predicts-school-readiness.md) — related
+- [Observed task persistence during challenging tasks predicts teacher-rated academic competence and learning-related behaviors in Head Start graduates](observed-persistence-predicts-school-readiness-head-start.md) — related
+- [Children's self-rated general anxiety was not directly related to math achievement at either assessment time](self-rated-general-anxiety-not-related-to-math.md) — related

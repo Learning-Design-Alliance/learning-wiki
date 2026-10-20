@@ -67,3 +67,7 @@ Exploratory mixed linear regression on trial-level RTs tested whether PES magnit
 - [Post-error behavioural adjustments can occur automatically, dissociated from explicit error detection](implicit-post-error-adjustment-typists.md) — related
 - [Inhibition accuracy is marginally correlated with verbal WM but not visuospatial WM in kindergarten children](inhibition-accuracy-verbal-wm-not-visuospatial.md) — related
 - [Shifting accuracy and shift cost show no association with intelligence or WM in kindergarten children](shifting-null-intelligence-wm.md) — related
+- [PES is robustly present in kindergarten children and decreases over the course of a task block](pes-present-decreases-within-block.md) — related
+- [Mean RT in HF blocks is negatively correlated with visuospatial WM and mixed-block RT positively with intelligence](ef-rt-visuospatial-wm-correlations.md) — related
+- [Inhibition accuracy in the Hearts and Flowers incongruent block is positively correlated with fluid intelligence in kindergarten children](inhibition-accuracy-correlates-fluid-intelligence-kindergarten.md) — related
+- [Mean RT in the shifting block is positively correlated with intelligence, counterintuitively, in kindergarten children](shifting-rt-positively-intelligence.md) — related

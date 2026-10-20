@@ -47,3 +47,7 @@ WWC table shows ethnic identity ES -0.19 (improvement index -7), moral reasoning
 - [Lessons in Character shows no discernible effects on knowledge, attitudes, and values](lessons-in-character-no-discernible-kav-effects.md) — related
 - [Improvement indices favor Lessons in Character across all three outcome domains, largest for academic achievement](lessons-in-character-improvement-index-all-domains.md) — related
 - [Facing History and Ourselves shows no discernible effects on student behavior, with self-reported fighting differences neither statistically significant nor substantively important](fhao-no-discernible-effects-behavior.md) — related
+- [Lessons in Character shows no discernible effects on student behavior](lessons-in-character-no-discernible-behavior-effects.md) — related
+- [In the RCT, the average effect across knowledge, attitudes, and values outcomes was substantively important (0.35) but not statistically significant, with several individual outcomes null](tgfdv-rct-average-effect-not-significant.md) — related
+- [The evidence base for Facing History and Ourselves is limited: only one of eight reviewed studies met WWC evidence standards, and it used a quasi-experimental rather than randomized design](fhao-limited-evidence-base-one-quasi-experiment.md) — related
+- [One item-level attitude finding, on teachers helping students who need extra help, was statistically significant in the randomized trial](lessons-in-character-teacher-help-item-significant.md) — related

@@ -55,3 +55,4 @@ The report's research summary section describes its literature search reflecting
 - The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations — related
 - [The evidence base for ASAP rests on two randomized controlled trials meeting WWC standards without reservations, out of eight identified studies](asap-evidence-base-two-rcts.md) — related
 - [Only one of 10 identified studies of InsideTrack© Coaching met WWC group design standards without reservations](insidetrack-evidence-base-one-study-meets-wwc-standards.md) — related
+- [The evidence base for the Lovaas Model is small: only two of 58 reviewed studies met WWC evidence standards](lovaas-model-evidence-base-small-two-studies.md) — related

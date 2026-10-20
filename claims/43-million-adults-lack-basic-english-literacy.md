@@ -48,3 +48,4 @@ The report states as motivating context that "Nearly 43 million U.S. adults lack
 - US adult education serves only a fraction of an estimated 36 million low-skilled adults, and digital materials receive only about a quarter of the adult instructional-materials budget — related
 - Only 11 percent of the 36 million low-skilled U.S. adults who could benefit from education and training are currently served by the public and private educational system — related
 - Capacity gap in adult education — programs serve about four million of 36 million U.S. adults reading at a 3rd grade level or below — alongside high smart phone ownership among adult education students — related
+- [A review reports that digital skills gaps span demographic groups and are associated with e-learning acceptance, job performance, and earnings](digital-literacy-gaps-span-demographics.md) — related

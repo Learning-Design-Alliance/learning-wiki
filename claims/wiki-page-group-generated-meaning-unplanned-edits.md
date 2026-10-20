@@ -44,3 +44,6 @@ Theoretical argument in the editorial, using an imagined mature Wikipedia page a
 
 ## Related Claims
 - [Anonymity in computer-mediated collaboration can produce a stronger group identity than non-anonymous face-to-face situations](anonymity-strengthens-group-identity-cscl.md) — related
+- [Articles edited by more heterogeneous contributors are more balanced, indicating productive friction that counters polarization](heterogeneous-contributors-balance-articles.md) — related
+- [Wikipedia contributors show confirmation bias by preferentially editing articles consistent with their own views](wikipedia-contributors-confirmation-bias-editing.md) — related
+- [Wikipedia's bold-edit collaboration script led to lower article quality than a discussion-first alternative script](wikipedia-script-lower-article-quality.md) — related

@@ -44,4 +44,5 @@ The editorial reports, citing Ke, Chavez, Causarano and Causarano, a study of id
 
 
 ## Related Claims
--
+- [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](online-labs-better-with-instructor-scaffolds.md) — related
+- [Danmaku learners engage in parasocial greetings and compliments to the instructor and seek co-learning presence, phenomena absent on the discussion board](parasocial-greetings-and-co-learning-presence-in-danmaku.md) — related

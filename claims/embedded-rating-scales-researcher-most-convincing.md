@@ -47,3 +47,5 @@ Chi-square and binomial logistic regression on students' convincingness choice i
 - [Embedded source credibility rating scales during video viewing improve middle-schoolers' source identity recognition, especially at delayed posttest](embedded-rating-scales-improve-source-recognition-videos.md) — related
 - [Watching an instructional video on sourcing before viewing had no significant effect on source recognition or convincingness judgments](instructional-video-no-effect-source-consideration.md) — related
 - [Middle-schoolers judge a speaker presented as a researcher as more expert and more trustworthy than one presented as a consumer](researcher-judged-more-credible-than-consumer.md) — related
+- [Watching the sourcing instructional video unexpectedly lowered students' trustworthiness ratings of the interviewees](instructional-video-lowered-trustworthiness-ratings.md) — related
+- [Combining the instructional video with embedded rating scales yielded the highest immediate recognition, but the advantage faded by delayed posttest](combined-prompts-immediate-recognition-advantage-fades.md) — related

@@ -48,3 +48,7 @@ The report's introduction analyzes state workforce data, reporting that "45,231 
 - [A statewide cohort analysis found 8% of new Texas teachers left after year 1, 26% by year 5, and 46% by year 8](texas-early-career-attrition-cohort-analysis.md)
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md)
 - [Texas teacher turnover cost estimates exceed $10,800 per teacher in rural districts, $13,200 in suburban districts, and $25,200 in urban districts](texas-turnover-replacement-costs-by-district-type.md)
+- [Sierra Middle School staff attrition was cut nearly in half after the 2023–24 school year](sierra-staff-attrition-cut-nearly-in-half.md) — related
+- [Texas teacher attrition has exceeded the national average by about 25% over the past decade, reaching nearly 12% in 2021–22](texas-attrition-above-national-average.md) — related
+- [U.S. teacher attrition averages 8–9% annually, about twice the rate of Canada, Finland, and Singapore, and drives roughly 9 in 10 annual hires](us-teacher-attrition-twice-peer-nations.md) — related
+- [Teacher turnover costs districts billions annually and harms student achievement](teacher-turnover-costs-and-achievement-harm.md) — related

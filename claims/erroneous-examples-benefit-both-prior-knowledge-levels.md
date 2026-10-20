@@ -50,3 +50,5 @@ Median-split analysis (200 low, 190 high prior knowledge) plus a stepwise regres
 - [Erroneous examples produce significantly higher delayed-test learning gains than problem solving for decimal learning](erroneous-examples-delayed-learning-gain-decimals.md) — a broader claim this one bears on
 - [Erroneous examples do not raise general confidence calibration but yield more high-confidence correct answers on the delayed posttest](erroneous-examples-metacognitive-confidence-delayed.md) — related
 - [Erroneous examples benefit learners with more prior knowledge, while correct-only solutions better serve low-prior-knowledge learners](erroneous-examples-prior-knowledge-interaction.md) — reports the opposite
+- [Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning](liking-is-not-learning-decimals-tutor.md) — related
+- [Contrasting examples, correct examples, erroneous examples, and practice problems produced no differences in learning gains or transfer of unbiased-reasoning skills](no-condition-differences-ct-practice-formats.md) — related

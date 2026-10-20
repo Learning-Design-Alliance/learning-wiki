@@ -49,3 +49,4 @@ Qualitative interview analysis across four workgroups. The authors report "Three
 - [Workers in the studied workgroups tended to manage their learning needs to minimise their supervisors' involvement, with supervisors not the contacts of first resort for learning](supervisors-not-first-resort-for-workplace-learning.md) — related
 - [Students' feedback literacy experiences during CEA implementation clustered into seven themes](cea-feedback-literacy-seven-themes.md) — related
 - [Workgroups in the study could generally not be regarded as communities of practice, though subsets operated as communities of practice for specific issues](workgroups-not-generally-communities-of-practice.md) — related
+- [A common learning pattern: workers first consult documentary sources, then nearby peers, then distant peers or more senior roles, then supervisors](escalating-source-sequence-workplace-queries.md) — related

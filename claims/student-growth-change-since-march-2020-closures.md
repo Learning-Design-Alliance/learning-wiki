@@ -46,3 +46,5 @@ The page lists this as the second of three key questions the visualizations expl
 - [The visualizations address how students performed in fall 2020 compared to a typical school year](fall-2020-performance-compared-typical-year.md) — related
 - [The visualizations compare observed fall 2020 student achievement to NWEA’s projections](fall-2020-achievement-versus-nwea-projections.md) — related
 - [Students showed lower math growth in fall 2020 across grades 3-8 relative to peers in the previous, more typical year](fall-2020-lower-math-growth-grades-3-8.md) — a narrower finding that bears on this claim
+- [The report examines how school shutdowns impacted student achievement at the start of the 2020-21 school year](covid-shutdowns-impacted-fall-2020-achievement.md) — related
+- [Educators and evaluators faced open questions about how to measure student performance after COVID disruptions](measuring-student-performance-after-covid-open-question.md) — related

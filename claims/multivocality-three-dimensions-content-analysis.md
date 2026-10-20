@@ -63,3 +63,6 @@ Second editorial sentence on the same paper: the three dimensions are named as t
 
 ## Related Claims
 - [CSCL needs to promote the inter-animation of complementary quantitative and qualitative perspectives rather than converge on a single ideal method.](cscl-interanimate-quantitative-qualitative-methods.md) — possibly the same claim (merge candidate)
+- [Participants identified communication across paradigms, not the absence of a single paradigm, as CSCL's main challenge](cross-paradigm-communication-the-main-cscl-challenge.md) — related
+- [Wise and Schwarz's eight provocations, per Rummel, emphasize important CSCL dimensions but do not develop a common position, prompting a proposed taxonomy for a shared field agenda.](rummel-taxonomy-shared-cscl-agenda.md) — related
+- [A free-flowing online and face-to-face community of teachers, researchers, and students made the expert–novice dialectic visible](cscl-community-expert-novice-dialectic.md) — related

@@ -50,3 +50,5 @@ In the regression over explicit compliance rates from the 28-student MetaTutor s
 - [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains](review-notes-compliance-predicts-learning-gains.md) — related
 - [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](revise-summary-compliance-predicts-learning-gains.md) — related
 - [Compliance with MetaTutor's summarize, stay-on-subgoal, move-to-next-subgoal, and open-diagram prompts shows no significant effect on learning gains](no-learning-effect-for-four-explicit-srl-prompts.md) — related
+- [Personalized SRL scaffolds showed higher compliance than no and non-personalized scaffolds, linked to better essay scores](personalized-scaffolds-compliance-essay-scores.md) — related
+- [Providing subgoals did not help on the Missionaries and Cannibals problem but facilitated performance on an extended 5-Missionaries and 5-Cannibals variant](subgoals-facilitate-performance-larger-problem-space.md) — related

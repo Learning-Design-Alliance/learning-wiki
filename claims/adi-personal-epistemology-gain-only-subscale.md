@@ -65,3 +65,7 @@ Independent-samples t-test on overall SLA-MB scores in the Results section. No s
 
 - [Eighth graders experiencing ADI instruction scored significantly higher on the post-test of demonstrated scientific literacy (SLA-D) than students experiencing structured inquiry](adi-higher-sla-d-posttest-than-structured-inquiry.md)
 - [Interviewed ADI students reported engaging in scientific practices such as identifying variables, finding patterns in data, and developing methods, while no comparison-group students did](interviews-adi-scientific-thinking-practices.md)
+- [ADI students' item-level gains concentrated on items about determining variables for a research question and on scientific inquiry questions](adi-item-level-gains-variables-inquiry-items.md) — related
+- [The ADI group showed significant within-group gains on demonstrated scientific literacy from pre- to post-test, while the structured-inquiry group did not](adi-within-group-sla-d-gain-comparison-null.md) — related
+- [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
+- [No significant difference in motivation for learning science between computer-based and regular-classroom inquiry groups](no-motivation-difference-ibl-environments.md) — related

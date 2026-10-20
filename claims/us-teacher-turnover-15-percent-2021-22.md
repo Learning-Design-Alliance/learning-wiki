@@ -75,3 +75,6 @@ Historical descriptive comparison of NCES turnover rates over time (Figure 3). T
 - Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools — related
 - [Texas teacher attrition has exceeded the national average by about 25% over the past decade, reaching nearly 12% in 2021–22](texas-attrition-above-national-average.md) — related
 - [Teaching has a relatively high turnover rate compared to nursing and national employee turnover benchmarks](teaching-turnover-high-versus-other-occupations.md) — related
+- [Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession](teachers-of-color-higher-attrition-intent.md) — a narrower finding that bears on this claim
+- [A statewide cohort analysis found 8% of new Texas teachers left after year 1, 26% by year 5, and 46% by year 8](texas-early-career-attrition-cohort-analysis.md) — related
+- [Programmatic churn from constant turnover of curricula and initiatives hindered teachers' capacity for personalized, evaluation-driven improvement](programmatic-churn-hinders-personalized-improvement.md) — related

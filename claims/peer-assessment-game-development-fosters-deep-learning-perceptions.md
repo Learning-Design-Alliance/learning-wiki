@@ -47,3 +47,6 @@ Analysis of open-ended question responses from the experiment found that "most o
 
 ## Related Claims
 - [Peer assessment-based game development improves students' perceptions of the use of educational computer games](peer-assessment-game-development-improves-perceptions-of-educational-games.md) — related
+- [A peer assessment-based game development approach promotes elementary students' learning achievement, learning motivation and problem-solving skills more than conventional game development](peer-assessment-game-development-improves-achievement-motivation-problem-solving.md) — related
+- [Relative to traditional PBL, the AI-IVE-PBL model improves vocational students' design ability and creative ability](ai-ive-pbl-improves-design-creativity.md) — related
+- [Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation](genai-design-thinking-four-themes.md) — related

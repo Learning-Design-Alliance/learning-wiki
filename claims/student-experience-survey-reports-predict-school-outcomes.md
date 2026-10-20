@@ -54,3 +54,5 @@ The playbook's research-summary section states that "How students respond to sur
 - The College Experiences Survey was conducted as part of an evaluation of factors associated with college persistence and attrition — related
 - [Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outcome beyond the original validation](elementary-gpa-strong-5essentials-measures.md) — related
 - [As teachers gain experience, their students are more likely to do better on measures beyond test scores, such as school attendance](experience-benefits-beyond-test-scores-attendance.md) — related
+- [School and teacher effects on students' school experiences influence social and educational trajectories more than their effects on academic achievement measures](school-experience-effects-outweigh-achievement-effects.md) — related
+- [Student self-reports of effort, social well-being, and math instruction do not explain the gender grade difference](survey-self-reports-do-not-explain-gender-grade-gap.md) — related

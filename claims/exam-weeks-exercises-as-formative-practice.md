@@ -48,3 +48,5 @@ Weekly epistemic networks for Weeks 6 and 13 (Figure 5) from the same trace-data
 - [On the final exam, high performers had more dominant strategy–time-management links than low performers, who showed dominant catching-up, ahead-with-errors, and video-revision links](final-exam-subtracted-network-group-differences.md) — related
 - [Students in the flipped classroom most often used the preparing and revisiting time management modes together with the summative assessment learning strategy](flipped-classroom-preparing-revisiting-summative-most-used.md) — related
 - [The analytics agent surfaced a Module 2 dead zone — students stopping around the 42-minute lecture mark where exercises ended — and the instructor revised the exercise set in response](itas-dead-zone-finding.md) — related
+- [Learners inclined to seek help were less likely to pass an assessment after completing a lecture](help-seekers-less-likely-pass-assessment-after-lecture.md) — related
+- [Commitment devices such as deadlines show demand but mixed effectiveness for student performance](commitment-devices-mixed-effectiveness-education.md) — related

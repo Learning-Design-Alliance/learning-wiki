@@ -81,3 +81,7 @@ The review attributes to Gulley et al. (2017) the statistics that "75% of BVI st
 - [BVI students in schools with more academic supports outperform on standardized math tests](academic-supports-bvi-math-outperformance.md) — related
 - [Vision is not required for developing number sense and math skills in BVI learners](vision-not-required-for-number-sense-bvi.md) — reports the opposite
 - [Black–White achievement gaps widen during the school year in both rural and nonrural schools](black-white-gaps-widen-during-school-year-rural-and-nonrural.md) — related
+- [Students with visual impairments show lower initial reading achievement in third grade than the national norm](vi-students-lower-third-grade-reading-initial-status.md) — related
+- [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access](disability-inclusion-starts-from-exclusion.md) — related
+- [Failure to transition to literacy early triggers a Matthew effect of widening reading and vocabulary gaps](matthew-effect-literacy-transition.md) — related
+- [Students with visual impairments show accelerated reading growth between 9th and 10th grade while the nationally normed group tends to drop](vi-students-accelerated-growth-ninth-tenth-grade.md) — related

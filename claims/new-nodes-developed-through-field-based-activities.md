@@ -44,3 +44,4 @@ Observation from the Year Three cross-state evaluation based on AD interviews an
 
 ## Related Claims
 - [Cultivating activities in local nodes produced more tangible outcomes than statewide planning and networking](local-nodes-produce-tangible-alignment-outcomes.md) — related
+- [Core to College network interactions were primarily information sharing and making connections between K–12 and higher education](core-to-college-interactions-primarily-information-sharing.md) — related

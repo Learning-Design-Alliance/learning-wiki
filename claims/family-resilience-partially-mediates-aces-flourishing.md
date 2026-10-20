@@ -65,3 +65,6 @@ FPL-stratified indirect-effect estimates from the same probit model; all direct,
 
 - [ACE exposure is unevenly distributed: children below 400% FPL and Black and Hispanic children have higher prevalence of two or more ACEs](ace-prevalence-disparities-fpl-and-race.md)
 - [Moderation by race/ethnicity: White children show significantly greater flourishing decrements as ACEs increase, while Black and Hispanic children show steeper declines in family resilience](race-moderation-white-steeper-flourishing-decline.md)
+- [As cumulative ACEs increase, children's probability of flourishing (learning interest, task completion, self-regulation) and family resilience decrease across race/ethnicity and income groups](aces-decrease-flourishing-and-family-resilience-all-groups.md) — related
+- [The moderated-mediation effect of family resilience on the ACEs-curiosity-in-learning relationship is significantly greater for Black than for White children](moderated-mediation-curiosity-greater-black-children.md) — related
+- [Above-FPL children improved more in staying calm and in control as family resilience increased, but no significant FPL moderated-mediation effects emerged](fpl-moderation-calm-control-no-moderated-mediation.md) — related

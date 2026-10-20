@@ -50,3 +50,5 @@ Districtwide survey of approximately 12,000 CPS teachers plus administrators aft
 - [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](reach-changing-practice-communication-collaboration.md) — possibly the same claim (merge candidate)
 - [Fifty-seven percent of principals were highly enthusiastic about the Framework-based evaluation process while 43 percent held mixed to negative attitudes](principal-attitudes-toward-framework-evaluation.md) — related
 - [Most teachers and administrators report that the REACH observation process supports teacher professional growth and improved instructional conversations](reach-observation-process-supports-growth.md) — related
+- [Teachers and principals remain optimistic about REACH in year two, but teacher satisfaction with the evaluation process declined from year one](reach-year-two-optimism-declining-satisfaction.md) — related
+- [Teachers report the REACH observation process encouraged reflection and that they used observation feedback to improve their teaching](reach-observation-process-reflection-and-feedback-use.md) — related

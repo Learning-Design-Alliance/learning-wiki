@@ -46,3 +46,4 @@ Observational coding of 210 teacher intervals in one undergraduate mathematics d
 - [Active listening was the most common individual student communicative activity in the analysed lesson, with marked individual differences between the three students](active-listening-most-common-student-activity.md) — related
 - [Distinct situational stress changes co-occurred with conflict situations while presenting and communicating mathematical problems](stress-peaks-cooccur-conflict-presenting.md) — related
 - [In RAMPUP field trials, English Learners' mathematical language became more monologic, authoritative, and technical within a single 40-minute jigsaw activity](el-language-monologic-authoritative-technical-growth.md) — related
+- [Positioning students as sources increases productive participation in science discourse](positioning-students-as-sources-increases-productive-participation-in-science-discourse.md) — related

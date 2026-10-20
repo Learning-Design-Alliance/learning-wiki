@@ -47,3 +47,4 @@ Authors' stated limitation of their own regression models: CA subdimensions adde
 - [Greater sense of control over one's character predicts pro-social gaming motivations](sense-of-control-predicts-prosocial-gaming.md)
 - [Video game skill and time spent playing are associated with gaming motivations](skill-and-hours-associated-with-gaming-motivations.md)
 - [Younger male gamers report more anti-social motivations; pro-social gaming is more prevalent in older gamers](younger-male-gamers-antisocial-motivations.md)
+- [Playing games in a variety of modes (local and online multiplayer; cooperative and team-based) is associated with higher adaptability and communication scores](variety-of-play-modes-higher-adaptability.md) — related

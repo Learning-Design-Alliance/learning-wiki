@@ -64,3 +64,6 @@ The review reports inconsistent transportation-noise findings across studies; Lj
 ## Related Claims
 - [Irrelevant changing-state sounds impair children's serial recall of visually presented items, with developmental evidence pointing to two mechanisms](irrelevant-sound-effect-children-serial-recall.md) — related
 - [Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults](noise-impairs-children-listening-comprehension.md) — related
+- [Chronic aircraft noise exposure is associated with lower reading comprehension in children, with a linear exposure–effect relationship](chronic-aircraft-noise-lower-reading-comprehension.md) — related
+- [In the RANCH study, increasing road traffic noise exposure was associated with enhanced episodic memory, an unexplained counter-intuitive finding](ranch-road-traffic-noise-enhanced-episodic-memory.md) — related
+- [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — related

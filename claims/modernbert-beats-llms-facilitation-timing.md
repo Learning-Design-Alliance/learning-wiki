@@ -45,3 +45,4 @@ Comparison of a trained ModernBert classifier against six open-source LLMs on fa
 ## Related Claims
 - [Defining facilitation as speech produced by facilitators imposes a low performance ceiling on predictive facilitative models](facilitator-speech-definition-performance-ceiling.md) — related
 - [EduBehaviors underperforms the fine-tuned RoBERTa encoder trained on expert-labeled TalkMoves data](edubehaviors-underperforms-finetuned-encoder.md) — related
+- [EduBehaviors achieves 0.673 macro-F1 and 0.688 Cohen's kappa on Teacher TalkMoves, generally improving over direct LLM prompting](edubehaviors-matches-direct-llm-prompting-talkmoves.md) — a narrower finding that bears on this claim

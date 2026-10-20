@@ -43,4 +43,5 @@ In the final HLM model's level-2 predictors, GOLDS was significant (t(134) = -4.
 
 
 ## Related Claims
--
+- [Creativity estimate significantly predicts levels solved and silver coins but not gold coins, controlling for pretest](creativity-predicts-game-performance-selective.md) — related
+- [Creativity estimate significantly predicts physics learning and game enjoyment](creativity-predicts-learning-enjoyment.md) — related

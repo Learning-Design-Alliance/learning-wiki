@@ -47,3 +47,4 @@ Three-level random-effects meta-analysis of 139 subsamples (N = 20,154) and 288 
 - [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — related
+- [Problem-driven learning shows significantly smaller effects on students' reasons for studying than on other motivation constructs](reasons-for-studying-smaller-effect.md) — related

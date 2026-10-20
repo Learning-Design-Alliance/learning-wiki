@@ -47,3 +47,4 @@ Exploratory moderator analysis on reward type. All three reward categories showe
 - [The effect of reward on inhibitory control is not moderated by participant age (children vs adults)](age-does-not-moderate-reward-effect-on-inhibitory-control.md)
 - [A meta-analysis found no evidence that clinical status, including ADHD and substance use disorder samples, moderates the effect of reward on inhibitory control](clinical-status-does-not-moderate-reward-effect-on-inhibitory-control.md)
 - [The reward effect on inhibitory control is significant across all six IC task types, but task type significantly moderates the effect, with the largest effect in Stroop tasks](task-type-moderates-reward-effect-on-inhibitory-control.md)
+- [The prospect of reward for successful inhibition significantly improves inhibitory control (SMD = 0.429) compared with no-reward conditions](reward-prospect-improves-inhibitory-control-meta-analysis.md) — related

@@ -47,3 +47,5 @@ Cluster analysis of state education data reported under Key Conclusion #2 for pr
 - Silicon Valley LEAs typically do not integrate home languages into instruction outside formal bilingual programs, though 43 percent of surveyed staff report offering bilingual programs — related
 - [More than half of surveyed LEAs employ dedicated family liaisons who bridge schools and multilingual families](sv-leas-family-liaisons-bridge-multilingual-families.md) — related
 - [California authorizes fewer than half the bilingual teachers it did at its mid-1990s peak, leaving it possibly unprepared for demand under Proposition 58](bilingual-teacher-supply-insufficient-prop58.md) — related
+- [Economic and social needs outside of school are statistically significantly associated with the context of schools' English Learner programs](sdoh-needs-associated-with-el-program-context.md) — related
+- [TRGP residents were prepared in 31 of 1,019 districts across 21 of 58 counties, concentrated in central and southern California while many rural high-need counties did not participate](trgp-geographic-concentration-rural-gaps.md) — related

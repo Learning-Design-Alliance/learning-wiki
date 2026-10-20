@@ -45,3 +45,4 @@ The article's tentative DAG analysis of Gašević et al. (2016), a large analysi
 ## Related Claims
 - Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity — a broader claim this one bears on
 - Restricting a sample to students who used the treatment can block a mediating path and induce overcontrol bias, attenuating estimated effects — related
+- [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](enriched-data-improve-achievement-prediction.md) — related

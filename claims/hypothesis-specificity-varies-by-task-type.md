@@ -62,4 +62,6 @@ Same experiment: fully-specified hypothesis percentages were 14.25% (concrete), 
 
 
 ## Related Claims
--
+- [Learners have a strong natural tendency to induce a rationale from discovered relations, which can evoke erroneous hypotheses about undiscovered relations and reduce inquiry success](natural-tendency-to-induce-rationale-evokes-error-prone-hypotheses.md) — related
+- [Task type did not affect time on task, number of unique experiments, duplicated experiments, or percentage of unspecified hypotheses](task-type-no-effect-time-and-experiment-counts.md) — reports the opposite
+- [Concrete-task participants conducted a significantly lower percentage of exploratory experiments than intermediate-task participants, whose exploratory percentage matched the abstract condition](concrete-task-lower-exploratory-experiments.md) — related

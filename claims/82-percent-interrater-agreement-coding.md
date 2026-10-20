@@ -43,4 +43,6 @@ Quality-measure analysis of the qualitative data across the three DBR phases: tw
 
 
 ## Related Claims
--
+- [Coding of self perspectives reached acceptable interrater agreement (89%, κ=.77)](self-perspective-coding-interrater-agreement.md) — related
+- [The emergent LLM coding pipeline reaches substantial agreement with expert human coding (Cohen's κ = 0.78, raw agreement 84%) on a stratified 10% sample](llm-discourse-coding-kappa-078-expert-agreement.md) — related
+- [The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers](se-review-coding-kappa-089.md) — related

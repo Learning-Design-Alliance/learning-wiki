@@ -46,3 +46,4 @@ Comparative analysis of freshman core GPA for CHSRI versus matched non-CHSRI stu
 - [Freshmen in the three case-study schools had higher on-track rates and/or GPAs than similar students at similar schools, despite entering with below-average achievement](chsri-freshmen-better-than-predicted.md) — related
 - [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related
 - [Outcome differences between CHSRI new-start and redesigned schools were not statistically significant after accounting for incoming student differences](chsri-new-start-redesigned-no-significant-outcome-differences.md) — related
+- [CHSRI freshman on-track rates were typically higher than similar students' but the difference was not statistically significant and converged by 2007-08](chsri-on-track-rates-converged.md) — related

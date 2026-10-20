@@ -56,3 +56,4 @@ Linear discriminant analysis (Box's M = 4.747, p = .593, equal covariance assump
 - [Prior coding experience correlates positively with digital literacy and coding comfort and negatively with perceived task difficulty](coding-experience-correlates-ct-skills.md) — related
 - [Prior programming experience significantly predicted Promptly task performance and prompting self-efficacy](prior-experience-predicts-prompting-outcomes.md) — related
 - [Metacognition is significantly and positively associated with EFL students' critical thinking skills (Model 2)](metacognition-positively-associated-critical-thinking.md) — related
+- [All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing](metacognition-critical-thinking-writing-correlations.md) — related

@@ -64,3 +64,6 @@ Moderator analysis in the learning-time section of the survey: schools with less
 ## Related Claims
 - [Between 70 and 80 percent of schools reported decreased learning time in spring 2020, with one in five reporting significant decreases in ELA and math](learning-time-decreases-spring-2020.md) — a broader claim this one bears on
 - [Self-directed and blended learning time increased for nearly all New York charter schools during remote instruction, regardless of whether those modes were part of their prior models](self-directed-learning-increase-universal.md) — related
+- [Schools reported that about 40 percent of their students experienced considerable or major academic losses since March 2020](charter-schools-reported-student-academic-losses.md) — related
+- [Median achievement losses from spring 2020 school closures were similar for mathematics (−0.10 SD) and reading (−0.09 SD), though individual studies found subject-specific differences](covid-closures-subject-specific-effects.md) — related
+- [Nearly 80 percent of surveyed charter schools operated fully remotely in April 2020, falling to about half by the 2020-21 school year](charter-instructional-modes-remote-to-hybrid-shift.md) — related

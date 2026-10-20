@@ -46,3 +46,6 @@ Qualitative analysis of structured reflections gathered from 10 researchers and 
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
 - The study's findings derive from structured reflections of 10 researchers and 11 program designers, not direct partner reports — related
 - [Staff reflections identify partner skills, knowledge, and dispositions that support full participation in Collaborative Innovation](staff-reflections-capacities-collaborative-innovation.md) — possibly the same claim (merge candidate)
+- [Evaluator staff capacities centered on creating conditions for participation rather than technical control](staff-capacities-creating-conditions.md) — related
+- [Knowledge alone did not ensure meaningful participation; it became influential when clearly communicated and built into programming](knowledge-communication-participation.md) — related
+- [Collaborative Innovation tenets varied in visibility: collective ownership and context expertise were most evidenced, reimagining progress least](tenet-visibility-varied-across-projects.md) — related

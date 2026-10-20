@@ -45,3 +45,4 @@ From the abstract of the pretest-posttest study of question formation in ESL: th
 ## Related Claims
 - [Active participation in interaction matters for second language developmental outcomes](active-participation-in-interaction-drives-development.md) — related
 - [Bilingual education evaluations have produced uninterpretable data by failing to model child-input by treatment interactions](bilingual-evaluations-ignore-interactions.md) — related
+- [Learner age/level moderates the benefit of negotiation of meaning: high school learners relied on it more than college learners](age-moderates-negotiation-benefit.md) — a narrower finding that bears on this claim

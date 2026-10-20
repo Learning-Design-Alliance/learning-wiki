@@ -48,3 +48,4 @@ Program outcome reporting for the UCLA IMPACT ECE/Multiple Subject program (2010
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — a broader claim this one bears on
 - [Fresno Unified's TK–3 residency placed 30 new early-grade teachers in 2 years with an 83% retention rate as of spring 2022](fresno-tk3-residency-30-teachers-83-percent-retention.md) — related
 - [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
+- [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — a broader claim this one bears on

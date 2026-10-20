@@ -50,3 +50,6 @@ Error analysis of omissions in Experiment 1's blocked listening span task. Post 
 - [Omission and commission errors in n-back tasks have different correlates and may represent different processes](nback-omission-commission-different-correlates.md) — related
 - [Age-related decline in span is associated only with the access function of inhibition, and only among skilled readers](access-function-only-link-to-aging-skilled-readers.md) — related
 - [Increased motivation eliminated ADHD–TD differences on most attention measures but differences persisted in complex multitasking and commission errors](motivation-reduces-but-not-eliminates-adhd-deficits.md) — related
+- [Children's text comprehension test performance improved from T1 to T2, driven mainly by second graders, with fewer omission errors over time](test-performance-gains-t1-to-t2.md) — related
+- [Blocked-format span declines after age 20 but mixed-format span does not, implicating proactive interference in aging declines](blocked-decline-mixed-no-decline-aging-span.md) — related
+- [Disabled readers produce more current nonfinal and extraneous intrusions, implicating access and restraint failures](disabled-readers-more-cnf-and-extraneous-intrusions.md) — related

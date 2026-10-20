@@ -45,3 +45,6 @@ Study 1 repeated measures ANCOVA with within-subject factors time, subject-focus
 ## Related Claims
 
 - [After a dialogic-focused professional development intervention, mathematics teachers noticed student dialogue significantly more, in both attending (83 to 170 cases) and responding (24 to 71 cases)](pd-intervention-increases-teacher-dialogue-noticing.md)
+- [Preservice teachers became more likely to notice the absence of students building on each other's ideas and marginally more likely to notice open-ended questions](blair2024-noticing-absences-increase.md) — related
+- [Student-focused noticing marginally increased (Cohen's d = 0.43) while teacher-focused codes showed no change (d = 0.06)](blair2024-student-focused-increase-teacher-flat.md) — related
+- [Teacher valence codes showed a nominal non-significant interaction: presence codes decreased while absence/missed-opportunity codes increased](blair2024-teacher-valence-nominal-shift.md) — related

@@ -45,3 +45,6 @@ The authors' narrative review of existing online SRL questionnaires (Table 1 com
 ## Related Claims
 
 - [The SRL-O supports both ten lower-order subscales and two superordinate factors (motivational beliefs and learning strategies)](srl-o-bifactor-two-superordinate-factors.md)
+- [The SRL-O has a 10-factor structure covering motivational beliefs and learning strategies for online learners](srl-o-ten-factor-structure.md) — related
+- [Existing online SRL questionnaires show reliability problems, with most having at least one scale outside the acceptable Cronbach's alpha range](existing-online-srl-scales-reliability-issues.md) — related
+- [SRL-O subscales show convergent validity with corresponding MSLQ scales](srl-o-convergent-validity-mslq.md) — related

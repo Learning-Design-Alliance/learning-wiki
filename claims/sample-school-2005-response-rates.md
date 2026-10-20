@@ -44,3 +44,4 @@ Survey Response Rates section of the school report, covering 207 eligible grade 
 
 ## Related Claims
 - The 2005 CCSR survey achieved response rates near 90 percent at the sample high school, with respondents closely matching the full student body — related
+- [The Charting Reform surveys reached 266 elementary schools and 40 high schools in Chicago in Spring 1994](charting-reform-surveys-266-elementary-40-high-schools.md) — related

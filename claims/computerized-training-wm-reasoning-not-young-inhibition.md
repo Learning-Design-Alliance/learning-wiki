@@ -69,3 +69,7 @@ Narrative review reporting failed computerized inhibitory-control training in 4-
 - [Computerized training of inhibition in young children shows limited success, and a randomized trial found narrow, skill-specific transfer of working-memory and reasoning training in 4-year-olds](computer-training-inhibition-limited-transfer-narrow.md) — reports the opposite
 - [Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain](narrow-transfer-computerized-ef-training.md) — a broader claim this one bears on
 - [Six months after training, the experimental group showed a slight improvement over the control group in transferring argumentation to teaching practice, especially in mentioning argumentation in practice portfolios](sixmonth-portfolio-transfer-argumentation.md) — related
+- [A combined inhibition and social cognition classroom training improves selective visual attention in 5- and 6-year-olds](classroom-inhibition-social-cognition-training-improves-selective-attention.md) — related
+- [EF training demands must keep increasing as children improve, or few gains will be seen](progressive-challenge-ef-training.md) — a broader claim this one bears on
+- [Task-switching training improves untrained switching and other executive functions in school-aged children, though transfer findings are heterogeneous](task-switching-training-transfer-ef.md) — related
+- [Inhibitory control is the EDF subdomain most repeatedly linked to ADHD](inhibitory-control-repeatedly-adhd-related.md) — related

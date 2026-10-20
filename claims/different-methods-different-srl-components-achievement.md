@@ -43,4 +43,8 @@ Correlational analysis against GPA of the college entrance diploma in 70 college
 
 
 ## Related Claims
--
+- [SRL components show moderate correlations within one assessment level but no correlations across different assessment methods within one component](srl-monomethod-correlations-no-heteromethod.md) — a broader claim this one bears on
+- [The only significant cross-method correlation within one SRL component is motivation assessed by questionnaire and closed-ended microanalytic questions](motivation-questionnaire-microanalysis-only-cross-method-link.md) — related
+- [The SKT-SRL shows low, mostly non-significant correlations with SRL microanalysis (online measure)](skt-srl-microanalysis-low-correlation.md) — related
+- [A multimethod approach provides a richer portrayal of young children's performance than any single measure.](multimethod-approach-richer-portrayal-child-performance.md) — related
+- [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](skt-srl-no-gpa-correlation.md) — reports the opposite

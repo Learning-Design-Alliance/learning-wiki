@@ -47,3 +47,4 @@ Cross-study comparison: Study 1 (hypothetical narratives, N = 80) found no emoti
 - [Children tailor metacognitive strategy type to emotion: changing goals most for sadness, changing thoughts most for fear](children-tailor-metacognitive-strategy-type-to-emotion.md) — a narrower finding that bears on this claim
 - [When recalling their own experiences, 5- and 6-year-olds use metacognitive strategies more to alleviate sadness and fear than anger](metacognitive-strategies-more-for-sadness-fear-than-anger.md) — related
 - [A majority of 5- and 6-year-olds can describe metacognitive emotion regulation strategies when asked about familiar hypothetical situations with multiple prompts](five-six-year-olds-describe-metacognitive-emotion-regulation.md) — related
+- [Five- and six-year-olds describe changing thoughts more often than changing goals as a metacognitive strategy](children-change-thoughts-more-than-goals.md) — related

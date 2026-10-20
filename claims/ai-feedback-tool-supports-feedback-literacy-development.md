@@ -47,3 +47,4 @@ A reflective report of a University-wide T&L pilot project with an AI tool for a
 - [Gains from automated scoring concentrated in linguistic accuracy and logical coherence but were absent in information fidelity and delivery fluency](automated-scoring-gains-uneven-across-dimensions.md) — related
 - [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](ai-assistance-performance-without-internalization.md) — related
 - [Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines](ai-transformative-capacity-guidelines.md) — a broader claim this one bears on
+- [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — related

@@ -45,3 +45,5 @@ Held-out adversarial safety evaluation comparing the ResidencyRL-trained agent t
 ## Related Claims
 - [Multi-turn RL training in simulated clinical encounters improves diagnostic accuracy under adversarial conditions, raising rubric-based accuracy from 81.0% to 88.0%](residencyrl-improves-adversarial-diagnostic-accuracy.md) — related
 - [Multi-strategy adversarial evaluation lowers RPLA robustness scores by 0.174–0.203 points relative to a single-strategy baseline across three personas](multi-strategy-adversarial-testing-lowers-rpla-robustness.md) — related
+- [Procedural competencies from simulation-based RL training generalize to out-of-domain benchmarks including AMIE Mx, AgentClinic, and CRAFT-MD](residencyrl-generalizes-out-of-domain.md) — related
+- [Blinded board-certified clinicians prefer the RL-trained agent in 87.6% of side-by-side comparisons for overall clinical impression](residencyrl-clinician-preference-side-by-side.md) — related

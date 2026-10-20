@@ -48,3 +48,4 @@ Key takeaway from the eight-state administrator discussion groups, reporting acc
 - [State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic](technology-pivot-expanded-apprenticeship-agency-reach.md) — related
 - [The study treats data infrastructure and performance measurement as a dimension of state apprenticeship expansion and success](data-infrastructure-performance-measurement-dimension.md) — related
 - [Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly](providers-adapted-in-person-training-online.md) — related
+- [Registered apprenticeship had strong ninth-quarter employment and earnings impacts for IT, healthcare, and advanced manufacturing sectors](registered-apprenticeship-sector-impacts-it-healthcare-manufacturing.md) — related

@@ -45,3 +45,5 @@ Nonparametric comparison of placement-type frequencies across the 72 images with
 ## Related Claims
 
 - [Over a third of images in middle school life science textbooks prompt students to compare visual units](textbook-images-prompt-comparison-37-percent.md)
+- [Intervening visual units were moderately common and appeared more often in structure diagrams than process diagrams](intervening-units-more-common-structure-diagrams.md) — related
+- [Fewer than half of textbook images requiring comparison have an optimal spatial layout (direct placement) for structural alignment](fewer-than-half-images-direct-placement.md) — related

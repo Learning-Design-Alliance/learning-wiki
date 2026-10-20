@@ -43,4 +43,8 @@ Chi-square analysis of coded interaction utterances from 10 randomly chosen dyad
 
 
 ## Related Claims
--
+- [Summary writing produced no significant comprehension improvement and the most disputational talk, and did not significantly differ from completing a map in learning outcomes](summary-task-weaker-outcomes-and-disputational-talk.md) — related
+- [Summary-writing dyads produce more utterances overall, but most reflect mechanical dictation and copying rather than historical reasoning](summary-writing-more-utterances-more-off-analysis.md) — related
+- [Semiempty concept mapping dyads use substantive historical and metahistorical concepts more often than summary-writing dyads](concept-mapping-more-historical-metahistorical-concepts.md) — related
+- [Interaction during semiempty concept mapping shows higher transactivity: less elicitation and more externalization and integration than summary writing](concept-mapping-higher-transactivity-integration.md) — related
+- [Concept-mapping dyads produce significantly more re-elaborations (corrections and precisions) of partners' ideas, an indicator of collaborative historical reasoning](concept-mapping-more-re-elaboration-causal-relationships.md) — related

@@ -44,3 +44,4 @@ The page's description of the brief "The Power of Connectedness" states it uses 
 
 ## Related Claims
 - [A district case study identifies practices and conditions of a coherent instructional system for reading and science improvement and where it had the most impact](coherent-instructional-system-case-study-impact.md) — possibly the same claim (merge candidate)
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related

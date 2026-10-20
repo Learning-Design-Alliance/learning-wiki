@@ -48,3 +48,4 @@ Interaction analysis (Extract 2, reconstruction phase) of group 7, where Emil, J
 - [Well-defined tasks and accessible materials support shared creative influence in group work](well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) — related
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
 - [The facilitator builds the shared account by shifting between narrator, mentor, and monitor roles and consolidating group consensus](facilitator-role-shifting-shared-account.md) — related
+- [Emergent group understanding is an empirical phenomenon arising from the interplay of a social object and a technology object, revealed by two subprocesses: spontaneous information provision and setting localized goals](emergent-group-understanding-phenomenon.md) — a broader claim this one bears on

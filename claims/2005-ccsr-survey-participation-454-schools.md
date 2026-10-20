@@ -46,3 +46,6 @@ Descriptive reporting section of the school survey report. It states that 'more 
 - [The 2005 Chicago survey reached nearly 130,000 students, teachers, and principals](2005-chicago-survey-nearly-130000-participants.md) — related
 - The 2005 CCSR survey achieved response rates near 90 percent at the sample high school, with respondents closely matching the full student body — related
 - [School survey reports benchmark each school against demographically similar schools and the whole system over a ten-year period](survey-reports-benchmark-similar-schools-over-time.md) — related
+- [The 1997 Chicago surveys achieved the greatest return rate of any Consortium study, with 408 elementary and 62 high schools participating](1997-ccsr-surveys-greatest-return-rate-408-62-schools.md) — related
+- [Ten years of repeated survey participation enables reporting of change over time in school climate measures](ten-years-survey-trend-reporting.md) — related
+- [School survey reports compare each school's responses to demographically similar schools and to the system as a whole](survey-reports-compare-demographically-similar-schools.md) — related

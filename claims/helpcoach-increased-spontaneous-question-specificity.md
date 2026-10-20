@@ -46,3 +46,6 @@ Between-subjects study with 40 college students completing three Vue.js programm
 - [HelpCoach led to greater knowledge retention one week later than pre-task help-seeking training alone](helpcoach-greater-knowledge-retention-one-week.md) — related
 - [Students rarely formulated questions specifying both knowledge component and scaffold type during chatbot problem-solving](students-rarely-ask-specific-questions.md) — related
 - [HelpCoach did not significantly outperform Baseline in improving or retaining self-reported self-regulation](helpcoach-no-self-regulation-gain.md) — related
+- [ADHD coaching helped college students with ADHD set more specific goals broken into component steps with incremental deadlines](adhd-coaching-improved-goal-attainment-process.md) — related
+- [Survey scores show directional consistency with dialogue behavior: students with higher knowledge-based survey scores tended to have above-average question specificity and higher expected grades](survey-dialogue-directional-consistency-chatbot.md) — related
+- [Students' self-assessed question specificity was not significantly correlated with their observed specificity](students-miscalibrate-question-specificity.md) — related

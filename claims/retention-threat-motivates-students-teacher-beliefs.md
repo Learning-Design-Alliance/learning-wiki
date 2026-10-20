@@ -46,3 +46,5 @@ Jacob, R. T., Stone, S., & Roderick, M. (2004). Ending Social Promotion: The Res
 - [Teachers and principals reported the policy made them feel extra responsibility and more sensitive to student needs](policy-increased-teacher-responsibility-sensitivity.md) — related
 - [Approximately 40 percent of educators reported spending less time on social studies and science as a result of the promotion policy](policy-reduced-time-social-studies-science.md) — related
 - [Principals expressed somewhat greater concern about retention's negative effects than teachers](principals-more-concerned-about-retention.md) — related
+- [Educators reported the promotion policy increased parental concern about student progress](promotion-policy-increased-parental-concern.md) — related
+- [Three-quarters of Chicago teachers viewed retention as improving students' long-term chances of success](teachers-view-retention-as-beneficial.md) — related

@@ -46,3 +46,6 @@ Three-level meta-analysis with CHERVE of PA-versus-non-PA comparisons measuring 
 - [Pedagogical agents significantly improve learners' self-efficacy expectations (g = 0.29), with effects moderated by grade level, facial expressions, and reliability reporting](pa-improve-self-efficacy-expectations.md) — related
 - [Pedagogical agents do not significantly affect learners' value beliefs (g = 0.09, non-significant)](pa-no-effect-value-beliefs.md) — related
 - [Pedagogical agents have a small, statistically significant positive effect on learners' broadly defined 'motivation' (g = 0.20)](pa-small-significant-effect-broad-motivation.md) — a broader claim this one bears on
+- [Pedagogical agents show essentially no effect on learners' intrinsic motivation (g = 0.00)](pa-no-effect-intrinsic-motivation.md) — related
+- [Pedagogical agents significantly improve learners' interest (g = 0.30), with the effect depending on the type of control condition](pa-improve-interest.md) — related
+- [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) — related

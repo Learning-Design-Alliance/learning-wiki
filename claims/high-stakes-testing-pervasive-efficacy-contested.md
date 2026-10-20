@@ -44,3 +44,6 @@ A contextual statement by the authors about the policy landscape since the No Ch
 
 ## Related Claims
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — related
+- [NCLB had negative effects on AI/AN education, including declines in Navajo students' standardized test scores of up to 50 percent over three years under scripted English-only programs](nclb-negative-effects-ai-an-students.md) — a narrower finding that bears on this claim
+- [CPS eleventh-grade PSAE participation in 2004 fell below the NCLB 95 percent requirement even after counting alternative assessments](cps-psae-participation-below-nclb-95-percent.md) — a narrower finding that bears on this claim
+- [Only about 53 percent of CPS students who were first-time freshmen in 2000-01 took the PSAE within four years, with rates varying by race and gender](psae-cohort-freshmen-53-percent-tested.md) — related

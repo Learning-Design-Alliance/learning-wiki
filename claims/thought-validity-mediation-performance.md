@@ -47,3 +47,4 @@ Study 3 measured perceived thought validity with two items (r(302) = .378, p < .
 - [Recalling past confidence versus doubt validates or invalidates thoughts and shifts GRE performance accordingly](confidence-doubt-recall-gre-performance.md)
 - [Experimentally manipulated thought validation amplifies the performance impact of self-relevant thoughts on a geometric shapes task](thought-validation-manipulation-shapes-task-performance.md)
 - [Metacognitive confidence moderates the effect of thought valence on academic performance: confidence amplifies positive thoughts' benefits and negative thoughts' harm](metacognitive-confidence-valence-interaction-academic-performance.md)
+- [The reduction in perceived difficulty does not mediate the benefits of rubrics on self-assessment accuracy](perceived-difficulty-does-not-mediate-rubric-accuracy-benefits.md) — related

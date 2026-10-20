@@ -68,3 +68,5 @@ Qualitative analysis observation: LLMKT "tends to predict low mastery when a KC 
 - Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing — related
 - [GRPO training shifts profiles from broad summaries toward diagnostic, behaviorally grounded representations that better support simulation](grpo-refines-profiles-toward-diagnostic-representations.md) — related
 - [Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered](learner-profile-shifts-llm-instructional-strategy-selection.md) — related
+- [Separating ability estimation from correctness prediction yields smoother, more stable learning trajectories than probability-based mastery estimation](ability-difficulty-separation-stable-learning-trajectories.md) — related
+- [Case study shows tutor scaffolding lowers estimated task difficulty after errors while student ability rises steadily](case-study-scaffolding-lowers-difficulty-ability-rises.md) — related

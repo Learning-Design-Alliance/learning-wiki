@@ -48,3 +48,5 @@ Online Study 1 with 71 adults diagnosed with ADHD (42 medicated, 29 nonmedicated
 - [Medication use does not affect creativity measures in adults with ADHD](no-medication-effect-on-creativity-adhd.md) — related
 - [Adults with ADHD score lower on the MPQ Achievement scale, a surrogate trait measure of motivation, than controls](adhd-lower-mpq-achievement-scale.md) — reports the opposite
 - [Adolescents with ADHD exhibit selective cognitive advantages and disadvantages on creativity measures relative to healthy controls](adhd-selective-creativity-advantages-disadvantages.md) — related
+- [A widened attentional focus of the kind associated with ADHD has been postulated to accompany enhanced creative ability](widened-attentional-focus-postulated-creativity-link.md) — a broader claim this one bears on
+- [Adults with ADHD generate more original ideas under competition for a bonus, but not without competition](adhd-originality-increases-under-competition.md) — related

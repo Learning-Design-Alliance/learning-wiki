@@ -44,3 +44,4 @@ Conceptual statement in the framework section defining the taxonomy's organising
 
 ## Related Claims
 - [The high/low-task divide in computational journalism is a relationship shaped by available technologies rather than a fixed property of tasks](high-low-task-divide-technology-dependent.md) — related
+- [Collaborative metaphor workshops helped higher education staff and students make sense of GenAI and raised their awareness of its ethical dimensions](metaphor-workshops-support-genai-sensemaking.md) — related

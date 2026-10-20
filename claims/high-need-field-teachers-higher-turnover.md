@@ -46,3 +46,4 @@ Descriptive analysis of turnover by field of main teaching assignment (Table 2) 
 - [Mathematics/science, special education, and foreign language teachers have predicted turnover rates 37%, 46%, and 87% greater than elementary teachers](subject-area-turnover-predictors.md) — related
 - [Turnover rates are about 50% higher in Title I schools than in non-Title I schools](turnover-50-percent-higher-title-i.md) — related
 - [Turnover is higher in charter schools (17.8%) than traditional public schools (14.9%) and higher in city schools (17.7%) than other locales](school-type-locale-turnover-differences.md) — related
+- [Turnover is about 70% higher in schools serving the most students of color, with even larger gaps for math/science, special education, and alternatively certified teachers](turnover-high-minority-schools-70-percent.md) — related

@@ -52,3 +52,4 @@ Survey of a representative sample of 200 Pennsylvania LEAs found that "Most stud
 - [A 2021 review series aims to provide a definitive account of the best available evidence on how the COVID-19 pandemic affected America's students academically](pandemic-academic-miss-evidence-review-series.md) — related
 - [Students with disabilities may have experienced disproportionate academic impacts from COVID-19, according to NWEA research](swd-disproportionate-covid-academic-impacts.md) — related
 - [Students with disabilities suffered disproportionately from reduced instructional time and disconnection from school communities during COVID-19](students-with-disabilities-disproportionately-hurt-by-covid-instructional-loss.md) — related
+- [Most students were in LEAs adopting a wide range of COVID-19 health and safety measures, but few were in LEAs with regular COVID-19 testing](pa-leas-health-safety-measures-few-testing.md) — related

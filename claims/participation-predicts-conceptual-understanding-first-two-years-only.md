@@ -44,3 +44,6 @@ Linear and Bayesian regressions predicting performance on the two end-of-semeste
 
 ## Related Claims
 - [Students' participation in preparatory exercises positively predicted their final exam grade in every intervention year (β = 0.16–0.31; R² = 0.03–0.16)](participation-preparatory-exercises-predicts-exam-grade.md) — related
+- [PS-I over a year in a university linear algebra course was followed by significantly higher final exam performance versus baseline cohorts](ps-i-linear-algebra-higher-exam-performance.md) — related
+- [The PS-I intervention significantly increased the percentage of students passing the linear algebra final exam in all four cohorts (Cohen's d = 0.21–0.42)](ps-i-preparatory-exercises-increase-pass-rates-linear-algebra.md) — related
+- [During the intervention, linear algebra exam performance rose distinctly above overall first-year performance, a pattern the authors interpret as intervention impact beyond cohort differences](linear-algebra-performance-above-overall-first-year-trend.md) — related

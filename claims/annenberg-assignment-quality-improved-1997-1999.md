@@ -50,3 +50,4 @@ Trend analysis of teacher-submitted writing and mathematics assignments from Ann
 - [Writing assignments in 1999 showed more intellectual challenge than mathematics, with 48 to 64 percent reaching moderate or extensive challenge depending on grade](writing-assignments-more-challenge-than-math-1999.md) — related
 - [A 1998 baseline study found typical Chicago assignments were mostly rudimentary basic-skills exercises, but most students completed the more demanding tasks they were given](baseline-assignments-rudimentary-but-students-completed-demanding-tasks.md) — related
 - Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools — related
+- [Writing assignments made more challenging demands than mathematics assignments across all three grades, with grade-level patterns differing by subject](writing-more-challenging-than-math-assignments.md) — related

@@ -45,3 +45,7 @@ Spearman correlations between group-level gini coefficient and group-mean satisf
 ## Related Claims
 
 - [Neither a group awareness tool alone nor combined with adaptive prompts significantly changed the equality of participation in university online collaboration](gat-prompt-no-significant-equal-participation-effect.md)
+- [Groups' distribution of the four problem-solving processes deviated less from the ideal distribution (lower Gini coefficients) on scaffolded than non-scaffolded tasks](scaffolds-lower-gini-cps-process-distribution.md) — related
+- [Tentative evidence that groups receiving the collaboration support more often achieved near-equal participation, since most groups failing the gini criterion were controls](tentative-support-equal-participation.md) — related
+- [Participation within teams was fairly equal in all conditions, with Gini coefficients close to zero and no significant between-condition differences](equal-participation-across-collaboration-conditions.md) — related
+- [AI agent communities exhibit extreme participation inequality (comment Gini = 0.91), exceeding human online learning communities](ai-agent-communities-extreme-participation-inequality.md) — related

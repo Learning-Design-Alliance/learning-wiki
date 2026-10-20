@@ -48,3 +48,4 @@ Paired Wilcoxon signed-rank tests on pre and post task-specific self-efficacy ra
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related
 - [Higher initial self-efficacy increased the odds of students reporting that accomplishing the problems increased their self-efficacy](higher-initial-self-efficacy-predicts-accomplishing-it.md) — related
 - [Lower initial self-efficacy significantly increased the odds of students reporting that getting help from peers increased their self-efficacy](lower-initial-self-efficacy-predicts-peer-help.md) — related
+- [Descriptive patterns link infrequently reported experiences to initial self-efficacy: teaching others and no impact were reported by higher self-efficacy students, consulting a teacher by lower](infrequent-experiences-descriptive-self-efficacy-patterns.md) — related

@@ -47,3 +47,5 @@ Exploratory Tier 3 analyses separated the Non-ADHD group into neurotypical (n=34
 - [Children adopt a more cautious response strategy (higher boundary separation) when intermittent stop trials are introduced](stop-signal-demands-increase-boundary-separation.md) — related
 - [Introducing intermittent stop trials does not change processing speed (drift rate) in children with or without ADHD](stop-signal-demands-no-drift-rate-change.md) — related
 - [Non-decision time (encoding/motor speed) is unchanged when inhibitory demands are introduced](stop-signal-demands-no-nondecision-time-change.md) — related
+- [A meta-analysis found no evidence that clinical status, including ADHD and substance use disorder samples, moderates the effect of reward on inhibitory control](clinical-status-does-not-moderate-reward-effect-on-inhibitory-control.md) — related
+- [Go-trial response times are slower during the stop-signal task than the no-tone task, with no diagnostic group difference](stop-signal-slows-mean-reaction-time-equally.md) — related

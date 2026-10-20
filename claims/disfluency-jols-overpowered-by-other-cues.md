@@ -43,4 +43,4 @@ Magreehan, Serra, Schwartz, and Narciss's experiments on judgments of learning f
 
 
 ## Related Claims
--
+- [Disfluency affected metacognitive monitoring (JOLs) only under specific conditions: within-subjects manipulation with unrelated word pairs, or on screen rather than paper](disfluency-jol-boundary-conditions.md) — possibly the same claim (merge candidate)

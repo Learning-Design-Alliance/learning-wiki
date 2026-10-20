@@ -45,3 +45,4 @@ Cluster presence across grade levels (Table 1) shows grade-specific profile emer
 ## Related Claims
 - [Game-oriented engagement declines with grade level while assessment-driven engagement peaks in Grade 8](game-orientation-declines-assessment-driven-peaks-grade-8.md) — related
 - [No K–8 student profile showed balanced engagement across all four platform components](no-balanced-engagement-across-platform-components.md) — related
+- [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related

@@ -43,4 +43,4 @@ An analysis of tutor log data during algebra tutor development revealed the cogn
 
 
 ## Related Claims
--
+- [Across a geometry curriculum, overall percent correct stays fairly constant over time while percent correct on actions involving a single skill increases, as ACT-R's knowledge-component claim predicts](constant-error-rate-rising-skill-correct.md) — related

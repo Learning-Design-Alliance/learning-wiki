@@ -45,3 +45,5 @@ Authors' interpretive conclusion drawn from the LitCog correlational and multiva
 ## Related Claims
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
 - [Students did not consistently detect scientific errors in ChatGPT responses, and students with stronger prior knowledge evaluated AI responses more critically](prior-knowledge-supports-critical-ai-evaluation.md) — related
+- [Health literacy measures are strongly correlated with fluid and crystallized cognitive abilities in older adults](health-literacy-measures-correlate-strongly-with-cognitive-abilities.md) — possibly the same claim (merge candidate)
+- [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) — related

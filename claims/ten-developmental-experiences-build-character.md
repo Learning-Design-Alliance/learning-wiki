@@ -48,3 +48,6 @@ Theoretical argument in the paper's overview: drawing on the Foundations for You
 - [For Dewey, moral knowledge is a product of moral inquiry, so character education should add moral problem solving rather than teach fixed principles through example, reward, or punishment](moral-knowledge-product-of-moral-inquiry.md) — related
 - Preservice teachers' reflective judgment levels influence how they perceive and act on complex classroom dilemmas — related
 - In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship — related
+- [The stage-setting hypothesis emphasises long-term developmental interplay among EF, MC, SR and SRL](stage-setting-hypothesis-long-term-developmental-interplay.md) — a broader claim this one bears on
+- [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related

@@ -45,3 +45,4 @@ Model-comparison results from the MASEM analyses (main, same-database k = 163, a
 ## Related Claims
 - [In the fitted model, teachers' knowledge and willingness to change predicted teaching practice, whereas professional beliefs did not significantly influence teaching practice](willingness-predicts-practice-beliefs-do-not.md) — related
 - [Teacher training for inclusive education had a large effect on teachers' knowledge and moderate effects on willingness to change, skills, and beliefs in the fitted Willingness-to-Change model](training-effects-willingness-model-paths.md) — related
+- [Teacher design teams in three African studies (Ethiopia, Ghana, Tanzania) were associated with increases in teachers' knowledge and skills](tdt-african-studies-increases-knowledge-skills.md) — related

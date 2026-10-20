@@ -48,3 +48,6 @@ Analysis from the CCSR ACT preparation study of test score growth from fall elev
 - [Eleventh-grade ACT math scores changed similarly across schools regardless of their level of standards-related professional development](act-scores-similar-across-pd-levels.md) — related
 - [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
+- [The grade students receive in the corresponding subject course is the strongest predictor of improvement from one EPAS test to the next](course-grades-strongest-predictor-epas-improvement.md) — possibly the same claim (merge candidate)
+- [On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds](on-track-gains-not-driven-by-grade-inflation.md) — related
+- [Schools with stronger college-going cultures have higher student ACT scores, regardless of student backgrounds](college-going-culture-associated-higher-act-scores.md) — related

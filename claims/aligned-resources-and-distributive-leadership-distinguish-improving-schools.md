@@ -53,3 +53,8 @@ Longitudinal field research on 12 Annenberg schools over five years. The report 
 - [In selected Chicago schools, external partners sparked documented improvements in instruction, parent involvement, or school climate](partners-sparked-positive-changes-despite-limited-influence.md) — related
 - Strong state-level leadership is reported as a key enabler of school improvement efforts, including through resource allocation and dedicated teams — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related
+- [Schools implementing MTSS demonstrate the framework's hallmarks, including stronger collaboration, data use, and aligned improvement initiatives](kansas-mtss-strong-implementation-hallmarks.md) — related
+- [Foxglove Elementary distributes leadership across staff roles but has few mechanisms to coordinate the work](foxglove-decentralized-leadership-weak-coordination.md) — related
+- [Teachers' ability to deliver strong instruction depends substantially on the school context, family resources and challenges, and the larger community](instruction-delivery-depends-on-school-context.md) — a broader claim this one bears on
+- [Organizational-level support targeted four areas: coordination and leadership, professional norms, monitoring of instruction and learning, and resources](organizational-support-four-target-areas.md) — related
+- [Strong leadership is central to rapid school improvement, per the article's summary of research](leadership-central-rapid-school-improvement.md) — a broader claim this one bears on

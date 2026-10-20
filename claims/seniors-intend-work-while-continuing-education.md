@@ -46,3 +46,6 @@ Senior survey on work hours during high school and intended work hours while con
 - [Nearly 90 percent of seniors report their parents want them to go to college after high school graduation](parents-want-seniors-to-attend-college.md) — related
 - More than 83 percent of Chicago public high school seniors plan to continue their education in the fall, and nearly 80 percent aspire to at least a four-year degree — related
 - [Parents are the most common source of help for seniors' postsecondary planning, cited more often than teachers or counselors](parents-most-common-source-postsecondary-planning-help.md) — related
+- [CPS students' ACT scores fall below both their college aspirations and their own expectations, and most interviewed students scored lower than they expected](act-scores-below-student-expectations.md) — related
+- [Most interviewed CPS seniors describe senior year as unchallenging and easier than previous years](seniors-describe-senior-year-unchallenging.md) — related
+- [Chicago public high school seniors do considerably less homework than high school seniors nationally](cps-seniors-less-homework-than-national.md) — related

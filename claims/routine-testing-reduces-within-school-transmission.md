@@ -45,3 +45,5 @@ Agent-based modeling conducted by Mathematica to understand the potential effect
 ## Related Claims
 - [For higher-risk schools relying on testing, pooled PCR testing is generally the most effective strategy, with serial antigen testing a close second](pooled-pcr-most-effective-testing-strategy.md) — related
 - [The most effective transmission-reducing testing strategies also increase the number of in-person school days lost, creating a tradeoff schools must weigh](testing-effectiveness-traded-against-school-days-lost.md) — related
+- [Reducing student density in classrooms and shared school spaces, combined with precautions such as physical distancing, some mask wearing, and good ventilation, allows for a safer school reopening during COVID-19](reduced-density-precautions-safer-school-reopening.md) — related
+- [In Pennsylvania districts using hybrid instruction with precautions in fall 2020, increases in student and staff infections were no greater than community increases outside school](hybrid-instruction-infection-increases-no-greater-than-community.md) — related

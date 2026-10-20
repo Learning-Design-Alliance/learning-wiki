@@ -49,3 +49,4 @@ Cross-site qualitative finding from interviews and social network analysis in fo
 - [A common learning pattern: workers first consult documentary sources, then nearby peers, then distant peers or more senior roles, then supervisors](escalating-source-sequence-workplace-queries.md) — related
 - [Informal learning in the studied workgroups clustered into three areas: mastery of organisational processes, negotiating the political, and dealing with the atypical](three-areas-informal-workplace-learning.md) — related
 - [Workgroups in the study could generally not be regarded as communities of practice, though subsets operated as communities of practice for specific issues](workgroups-not-generally-communities-of-practice.md) — related
+- [The range of communities of practice and opportunities for informal learning available to an employee increases with seniority in a large organisation](informal-learning-opportunities-increase-with-seniority.md) — related

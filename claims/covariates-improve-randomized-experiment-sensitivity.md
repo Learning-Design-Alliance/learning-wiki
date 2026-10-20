@@ -46,3 +46,4 @@ A methodological argument from the paper's framework section, grounded in the po
 - [The integrated model explains substantially less variance in science achievement at eleventh grade (17%) compared to fifth (41%) and eighth (38%) grades](model-variance-decreases-across-grades.md) — related
 - [Combining domain-identical pretests with cross-domain pretests, fluid intelligence, and/or sociodemographic covariates yields only small incremental gains in explained achievement variance](small-incremental-validity-beyond-ip.md) — related
 - [Sociodemographic covariates outweigh domain-identical pretests for predicting between-classroom and between-school variance in elementary school](sc-outweigh-ip-elementary-group-levels.md) — related
+- [Typical R2Child values with sociodemographic and baseline covariates were around 0.18–0.26 for preschool cognitive and SEL outcomes in US data](preschool-typical-r2child-covariate-sets.md) — a narrower finding that bears on this claim

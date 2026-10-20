@@ -50,3 +50,5 @@ The review reports Byrd's (2017) race-focusing study, which used interracial int
 - [Race-reimaging ultimately transforms a race-less construct into a race-focused construct](race-reimaging-creates-race-focused-constructs.md) — a broader claim this one bears on
 - [Racialized emotions are a race-focused construct educational psychologists have yet to explicate in teaching and learning](racialized-emotions-unexplored-construct.md) — related
 - [Most measured dimensions of school racial climate are significantly correlated with students' school belonging across educational levels](racial-climate-dimensions-significantly-correlated-belonging.md) — related
+- [Color-evasive socialization shows no significant association with school belonging, unlike the other socialization dimensions](color-evasive-socialization-no-significant-association-belonging.md) — related
+- [Interest rarely relates to sourcing while task values show consistent positive relationships](interest-task-values-sourcing.md) — related

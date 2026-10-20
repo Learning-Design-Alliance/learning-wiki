@@ -64,3 +64,9 @@ Same review-reported study: traced goal orientations significantly related to po
 ## Related Claims
 
 - [Students' conceptions of self-regulated learning can diverge from their reported self-regulated learning activities](conceptions-diverge-from-srl-activities.md)
+- [Trace data tend to predict achievement better than self-reports, but self-reports of global SRL intensity can outperform traces](traces-predict-achievement-better-than-self-reports.md) — related
+- [Learning goals predict more positive subjective appraisals of memory performance after controlling for actual performance](learning-goals-predict-positive-subjective-performance.md) — related
+- [Substantial differences existed between the time distribution of trace-extracted and think aloud-coded SRL processes: 41.66% of session duration had no think aloud code while only 3.19% had no trace process](time-distribution-differences-trace-vs-thinkaloud.md) — related
+- [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
+- [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
+- [A gap exists between prescriptive readings on learner-generated drawing and research-based understandings](gap-prescriptive-versus-research-drawing-strategy.md) — related

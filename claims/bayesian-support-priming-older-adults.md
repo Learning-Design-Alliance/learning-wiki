@@ -46,3 +46,5 @@ Bayesian paired t-tests with Cauchy prior 0.707 on contrasts with significant SO
 - [Sign priming effects in addition occur for large, small, and +1 problems but not for tie or +0 problems in older adults](problem-type-priming-pattern-older.md) — related
 - [Presenting the '+' sign 150 ms before operands speeds up addition problem solving in expert older adults, replicating the effect found in young adults](sign-priming-addition-older-adults.md) — a broader claim this one bears on
 - [Older adults' slowdown relative to young adults is far smaller for problems interpreted as procedurally solved than for retrieval-solved problems](differential-aging-cost-procedure-vs-retrieval.md) — related
+- [Problem type modulated solution times, with large problems slowest and +1 problems fastest in both age groups](problem-type-solution-time-structure.md) — related
+- [Older adults were slower than young adults overall on solution times, with no age difference in accuracy](age-slowness-no-accuracy-difference.md) — related

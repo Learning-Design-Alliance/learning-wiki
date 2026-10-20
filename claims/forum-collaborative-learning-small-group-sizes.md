@@ -43,4 +43,5 @@ Editorial summary of the study by Mingzhu Qiu, Jim Hewitt, and Clare Brett in th
 
 
 ## Related Claims
--
+- [A small-scale pilot study explored the impact of a variety of roles on discussion-forum interaction across participative, social, cognitive, and teaching dimensions](role-playing-forum-interaction-pilot.md) — related
+- [Discussion thread length is strongly linearly related to the number of players contributing, indicating collective rather than small-group collaboration](wow-thread-length-linear-with-contributors.md) — reports the opposite

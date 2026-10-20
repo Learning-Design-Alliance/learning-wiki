@@ -44,3 +44,4 @@ The review identifies measurement issues raised across included reviews: student
 
 ## Related Claims
 - [Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment](funds-of-knowledge-tasks-reveal-computational-thinking.md) — related
+- [Family stress and family investment models explain mediating processes of SES influence](ses-family-stress-investment-mediation.md) — related

@@ -69,3 +69,6 @@ Same accuracy ANOVA in the behavioral results section: the notation × ratio int
 - [Response times in number comparison show group, notation, and ratio main effects, with a larger ratio effect for dot arrays than Arabic numerals](number-comparison-response-time-anova-effects.md) — related
 - [The numerical ratio effect in BOLD activity appears in superior parietal cortex in adults but in inferior frontal gyrus, precentral gyrus, and thalamus in children, with no group-level parietal ratio effect in children](ratio-effect-bold-regions-differ-developmentally.md) — related
 - [Accuracy on approximate addition decreases as ratio approaches 1, with a stronger ratio effect on the non-symbolic task](ratio-effect-approximate-addition.md) — related
+- [Children perform better with written numerals than with base-10 blocks or dot arrays on multidigit tasks](numerals-condition-outperforms-blocks-and-dots.md) — related
+- [Numerosity comparison accuracy is ratio-dependent across grades three to five](numerosity-accuracy-ratio-dependent-grades-3-5.md) — related
+- [Children succeed at non-symbolic approximate addition above chance with a ratio effect, without relying on non-numerical strategies](kindergartners-succeed-nonsymbolic-addition-ratio-effect.md) — related

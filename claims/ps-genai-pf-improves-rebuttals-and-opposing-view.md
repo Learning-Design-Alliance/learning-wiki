@@ -68,3 +68,4 @@ Pairwise comparison within the Kruskal-Wallis analysis of argument-quality gains
 - [Most individual argument structure and quality dimensions showed no significant differences across the three peer feedback conditions](null-results-argument-dimensions-genai-peer-feedback.md) — reports the opposite
 - [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — related
 - [Instructors and LLMs distribute feedback similarly across the five argumentative goals, with Claim receiving the most feedback from both](similar-goal-distribution-instructor-llm-feedback.md) — related
+- [Epistemic network analysis linked the PS-GenAI-PF group to negative emotions and higher-order feedback content associations](ena-ps-genai-pf-negative-emotions-higher-order-content.md) — related

@@ -47,3 +47,9 @@ Chi-square test of profile membership by gender in the clustered sample, with ad
 - [Trajectory patterns of teacher-student warmth and conflict differ between boys and girls, with a high-stable conflict class found only for boys](gender-differences-relationship-trajectories.md)
 - [Low warmth trajectories predict lower achievement gains for boys but not for girls](warmth-trajectories-boys-not-girls.md)
 - [The inverse relation between mathematics and reading sex differences also holds within nations across the performance continuum](within-nation-inverse-relation-performance-continuum.md)
+- [Eager students (high talk, high engagement) achieved the best reading literacy scores and disconnected students (low talk, low engagement) the worst, with only the eager–disconnected difference statistically significant](eager-best-disconnected-worst-achievement.md) — related
+- [Cluster membership is significantly associated with gender, with a small-to-moderate effect (χ²(5) = 345.52, Cramér's V = 0.157)](cluster-gender-chi-square.md) — related
+- [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related
+- [Post-training GenAI use patterns were unevenly distributed: efficient collaborators were the largest profile (47.5%), followed by over-revisers (26.2%) and mixed users (21.2%)](uneven-post-training-genai-use-patterns.md) — related
+- [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — reports the opposite
+- [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md) — reports the opposite

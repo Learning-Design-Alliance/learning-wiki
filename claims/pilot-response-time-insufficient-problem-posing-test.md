@@ -44,3 +44,4 @@ Pilot test observation with 30 Grade 3 students from the same school but not in 
 
 ## Related Claims
 - [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](simucase-feedback-insufficient.md) — related
+- [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings](pilot-efa-four-factor-solution.md) — related

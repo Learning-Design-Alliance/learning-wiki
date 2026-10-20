@@ -47,3 +47,4 @@ Path models tested affect (PANAS), motivation (four IMI subscales), and cognitiv
 - [Error conditions differed in negative affect but not positive affect after the PS-phase learning materials](negative-affect-differs-positive-affect-not.md) — related
 - [Cognitive load partially mediates the relationship between AI-based educational technology use and critical thinking](cognitive-load-partially-mediates-ai-critical-thinking.md) — related
 - [Motivation, affect, and learner beliefs shape whether AI evidence is accepted, resisted, or used in singing training](motivation-affect-beliefs-shape-ai-feedback-use.md) — related
+- [Self-regulated learning moderates the indirect effect of AI use on critical thinking through cognitive load](srl-moderates-indirect-ai-effect.md) — related

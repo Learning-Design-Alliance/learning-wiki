@@ -48,3 +48,7 @@ The umbrella review's thematic analysis identifies mediating processes including
 ## Related Claims
 - [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](poverty-cortisol-executive-function-mediation.md) — related
 - [Maternal depression at 33 months was not a significant mediator of the financial difficulty–ADHD association](maternal-depression-null-mediator-ses-adhd.md) — related
+- [SES measurement faces validity and practical challenges including student knowledge of parental data and missing data in single-parent families](ses-measurement-challenges-student-report.md) — related
+- [The immigrant optimism hypothesis holds in some cultural contexts but not in others, depending on cultural congruence, cooperative learning, and family educational investment](immigrant-optimism-holds-conditionally.md) — related
+- [Prior studies support the experiential canalization framework: preschoolers in poverty are almost five times as likely to show disrupted diurnal cortisol patterns, and increased economic hardship is associated with significantly lower cognitive self-regulation](poverty-stress-physiology-self-regulation-evidence.md) — a narrower finding that bears on this claim
+- [Household and community factors—parenting knowledge, stress, depression, and resource scarcity—may mediate or constrain SES-related differences in input and learning](household-community-factors-constrain-input.md) — a narrower finding that bears on this claim

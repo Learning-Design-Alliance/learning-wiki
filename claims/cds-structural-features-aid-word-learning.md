@@ -65,3 +65,4 @@ The review reports a short word-learning paradigm showing immediate repetition a
 - [Infants' preference for and learning benefit from child-directed speech change over development, with CDS advantages diminishing by the third year](cds-benefits-vary-developmental-window.md) — related
 - [Prosodic and sound-level features of child-directed speech support infants' phoneme discrimination, word segmentation, and word learning](cds-prosody-supports-phoneme-segmentation.md) — related
 - [Infant look-away follows a U-shaped pattern of information content, consistent with maintaining intermediate rates of information absorption (Goldilocks effect)](infant-goldilocks-look-away-u-shaped.md) — related
+- [Verbal labels have a special status in influencing visual processing beyond mere association](verbal-labels-special-status-visual-processing.md) — related

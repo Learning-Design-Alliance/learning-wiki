@@ -44,3 +44,6 @@ Observational analysis of eighth-grade math gain scores by test-form transition,
 
 ## Related Claims
 - CPS academic productivity gains peaked in 1997, with 1999 gains uniformly lower than 1997 gains at all grades — related
+- [CPS learning gains were consistently higher in all grades in 1996 than in 1994, but 1999 gains declined slightly relative to 1997 in all grades except third, suggesting productivity gains may have peaked](cps-learning-gains-rose-through-1996-may-have-peaked-by-1999.md) — related
+- [CPS elementary school productivity improvements stalled after 1997, with no evidence of significant productivity growth since then](cps-productivity-improvements-stalled-after-1997.md) — related
+- [Third grade is the notable exception where retained students did not make smaller gains, likely due to the ITBS Level 8 to Level 9 test format change](third-grade-gain-dip-test-format-exception.md) — related

@@ -62,4 +62,8 @@ Participation analysis of the Day 12 discussion, where Eve and Cal advanced conf
 
 
 ## Related Claims
--
+- [A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board](student-led-discussion-task-sustains-online-participation.md) — possibly the same claim (merge candidate)
+- [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — a broader claim this one bears on
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — a broader claim this one bears on
+- [Danmaku questions elicit rapid co-answering and co-confusion, while discussion-board questions often go unanswered or support multi-round elaboration](co-answering-co-confusion-versus-lonely-confusion.md) — related
+- [Ninth graders in a five-week symbolism module increased their participation and facility with literary interpretation practices](symbolism-module-increased-interpretive-participation.md) — related

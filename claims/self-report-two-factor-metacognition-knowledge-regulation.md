@@ -43,4 +43,7 @@ Systematic review (PRISMA) of 22 articles spanning 1993-2018 evaluating factor s
 
 
 ## Related Claims
--
+- [Self-report subscales do not reliably assess distinct metacognitive subcomponents, with structures of two to nine components found across studies](self-report-subcomponents-unreliable.md) — reports the opposite
+- [No single metacognitive self-report can be recommended as the industry standard; the COMEGAM-ro has the strongest statistical support but is unreplicated](no-industry-standard-metacognitive-self-report.md) — related
+- [The MRIM scale has a three-factor structure of planning, monitoring, and evaluating of interactive metadiscourse, cross-validated by EFA and CFA](mrim-three-factor-structure-pim-mim-eim.md) — related
+- [Self-report factors correlate weakly with metacognitive behavior while within-factor subcomponent correlations are larger, per studies reviewed for the meta-analysis](self-report-factors-weakly-relate-to-behavior.md) — related

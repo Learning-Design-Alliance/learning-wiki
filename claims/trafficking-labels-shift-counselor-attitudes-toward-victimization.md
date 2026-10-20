@@ -67,3 +67,5 @@ Table 3 reports all four subscale t-tests as significant (e.g., PSCV: APPS M = 3
 - [Counselors without prior training on prostitution/sex trafficking endorsed more stigmatizing beliefs and more rape myths](lack-of-trafficking-training-linked-stigma-rape-myths.md) — related
 - [Attitudes, gender, and age predict counselors' rape myth acceptance in both label conditions](attitudes-demographics-predict-counselor-rape-myth-acceptance.md) — related
 - [Male counselors reported more rape myth acceptance and lower empathy than female counselors](male-counselors-more-rape-myths-less-empathy.md) — related
+- [Building Empathy Improves Intergroup Attitudes](building-empathy-improves-intergroup-attitudes.md) — related
+- [Prior evidence on whether labels change public perceptions of people with sexual offences is mixed, with some studies finding label effects and others finding none](mixed-prior-evidence-label-effects-forensic.md) — related

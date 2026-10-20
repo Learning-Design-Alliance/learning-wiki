@@ -44,3 +44,9 @@ The report's landscape analysis describes CalSAAS, created by Assembly Bill 1219
 
 ## Related Claims
 - Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages — a broader claim this one bears on
+- [California lacks public data linking bilingual credential attainment to classroom assignments, creating a statewide blind spot on return on investment](ca-blind-spot-bla-assignment-retention-data.md) — related
+- [California's teacher workforce is aging, with about 40% age 50 or older and 14% age 60 or older](aging-teacher-workforce-retirement-wave.md) — related
+- [Retirement accounts for only a small portion of total teacher turnover](retirement-small-portion-of-teacher-turnover.md) — related
+- [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
+- [District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements](pandemic-teacher-workload-increase-burnout-retirement.md) — related
+- [Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving](teachers-of-color-higher-turnover-mover-rates.md) — related

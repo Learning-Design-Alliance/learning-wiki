@@ -51,3 +51,5 @@ The report's summary of its evaluation findings states that students who receive
 - Literacy First tutoring significantly improved grade 2 ITBS passage comprehension in a multisite randomized controlled trial (effect size +0.19) — related
 - A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage — related
 - [A funded evaluation of Experience Corps effects on student reading outcomes was conducted by Washington University's Center for Social Development](experience-corps-reading-outcomes-evaluation.md) — related
+- [Reading Partners tutoring significantly improves reading comprehension for grade 2-4 struggling readers, with a total effect size of +0.10](reading-partners-tutoring-comprehension-effect.md) — related
+- [Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)](air-reading-rct-texas-map-effect.md) — related

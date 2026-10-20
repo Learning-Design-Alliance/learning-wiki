@@ -46,3 +46,4 @@ Cumulative platform engagement analysis (Figure 4a) of the pilot cohort's longit
 - [Class rhythm heatmaps revealed evening-peaked, deadline-driven temporal engagement patterns in the cohort](class-rhythm-heatmap-temporal-patterns.md) — related
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
 - [Explicit API interception from a pilot cohort of 19 students yielded 1,880 events over about 57 active student-hours](vismatic-pilot-cohort-1880-events.md) — related
+- [GenAI Tutor adoption was widespread but usage intensity was highly skewed, with adoption peaking early in the semester while intensity rose steadily](genai-tutor-adoption-usage-skew.md) — related

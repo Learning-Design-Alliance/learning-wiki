@@ -44,3 +44,4 @@ The abstract reports "evidence that student demographics and achievement levels 
 
 ## Related Claims
 - [Teacher mobility behavior is heterogeneous across the teacher performance distribution](heterogeneous-mobility-across-performance-distribution.md) — related
+- [On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools](more-effective-teachers-remain-in-profession-and-school.md) — related

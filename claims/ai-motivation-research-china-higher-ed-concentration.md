@@ -75,3 +75,5 @@ Charted educational levels of the 156 included studies. The review reports highe
 - [AI-STEM research concentrated in higher education, technology and science content, lecture-based instruction, and face-to-face contexts](ai-stem-distribution-higher-ed-lecture-face-to-face.md)
 - [China has overtaken the US as the leading producer of AIEd higher education publications](china-overtakes-us-ai-ed-he-publications.md)
 - [Research on K‑5 writing motivation self‑reports grew sharply after 2009 and is geographically concentrated in North America and Asia](growth-and-geographic-concentration-writing-motivation-research.md) — related
+- [The belief that the United States exclusively dominates the AI arena is challenged by the rapid ascent of China](us-exclusive-ai-dominance-challenged-by-china.md) — related
+- [Teacher-AI co-design research is concentrated in teacher education and higher education, while secondary and primary education settings remain relatively underdeveloped](k12-underrepresented-teacher-ai-codesign-research.md) — related

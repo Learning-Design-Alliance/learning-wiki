@@ -46,3 +46,4 @@ Grade-level analysis shown in Figure 5 of CALPADS enrollment data for 2022–23.
 - [Most LTEL7 students in middle grades began California schooling in kindergarten, but by high school most entered after kindergarten](ltel7-kindergarten-start-declines-by-grade.md) — related
 - [More than half of LTEL7 students were in their 7th, 8th, or 9th year of being classified as EL, and more than 20,000 had been classified for 12 or more years](ltel7-years-classified-distribution.md) — related
 - [Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers](rural-counties-higher-ltel7-proportions.md) — related
+- [The number of students classified as LTEL in California dropped from almost 380,000 (18% of ever-ELs) in 2021–22 to just over 226,500 (about 11%) in 2022–23](ltel-count-declining-post-pandemic.md) — related

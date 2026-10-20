@@ -64,3 +64,5 @@ Across the thirty included studies, the review found that "Nine of the 10 effect
 - [One-to-one social support, advice and information, or health-needs assessment interventions were largely ineffective at reducing social isolation and loneliness among older people](one-to-one-support-interventions-ineffective-older-people-isolation.md) — related
 - [The effectiveness of home visiting and befriending schemes for social isolation and loneliness among older people remains unclear](home-visiting-befriending-effectiveness-unclear.md) — related
 - [Included intervention studies varied considerably in design, methods, quality and transferability](isolation-intervention-studies-varied-quality-transferability.md) — a broader claim this one bears on
+- [Foundations can serve more people by identifying and supporting effective interventions that are ready to be scaled](foundations-scale-by-supporting-ready-interventions.md) — related
+- [Extended chatbot use produced dose-dependent increases in loneliness and emotional dependence alongside lower socialisation (review attribution)](chatbot-use-dose-dependent-loneliness.md) — related

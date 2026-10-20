@@ -118,3 +118,14 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](srl-training-effects-by-outcome-category.md) — related
 - [A 50-minute metacognitive strategy instruction produced positive effects on secondary students' fluency, flexibility and originality of ideas in both cohorts](strategy-instruction-improves-divergent-thinking.md) — a narrower finding that bears on this claim
 - [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](srl-training-programmes-improve-outcomes.md) — related
+- [Short-term self-regulatory strategy training, including within regular mathematics lessons, enhances students' self-regulatory judgments and mathematics performance](short-srl-strategy-training-enhances-math-performance.md) — a narrower finding that bears on this claim
+- [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — a narrower finding that bears on this claim
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — possibly the same claim (merge candidate)
+- [Some SRSD students, particularly those with poor working memory, struggled to implement the planning strategies they were taught](poor-working-memory-hinders-srsd-planning-implementation.md) — a narrower finding that bears on this claim
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — a narrower finding that bears on this claim
+- [Video modeling training of self-assessment and task-selection skills improves secondary students' problem-solving performance after a self-regulated learning phase](video-modeling-srl-training-improves-posttest-performance.md) — a narrower finding that bears on this claim
+- [The pooled effect of self-regulated learning does not differ significantly by school level](srl-effect-no-school-level-difference.md) — related
+- [The pooled effect of self-regulated learning does not differ significantly by strategy type (cognitive, metacognitive, resource management, motivational)](srl-effect-no-strategy-type-difference.md) — related
+- [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](srl-strategies-large-effect-academic-achievement.md) — related
+- [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](low-prior-knowledge-students-struggle-self-regulation.md) — related
+- [Elementary teachers more often instruct cognitive strategies than metacognitive strategies during a standardized lesson](teachers-instruct-cognitive-more-than-metacognitive-strategies.md) — related

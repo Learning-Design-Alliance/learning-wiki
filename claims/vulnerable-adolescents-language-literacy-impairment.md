@@ -63,3 +63,4 @@ Observational study of adolescents in state care (Snow et al., 2020): 92% below 
 
 ## Related Claims
 - [Most children with emotional and behavioral disorders have undiagnosed language impairment](ebd-undiagnosed-language-impairment.md) — related
+- [Two-thirds to three-quarters of adolescent CI users score within the normal range on vocabulary and language content measures](ci-adolescents-language-measures-normal-range.md) — related

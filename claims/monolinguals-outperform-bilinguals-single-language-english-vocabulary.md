@@ -71,3 +71,7 @@ ANCOVA of English expressive vocabulary (Woodcock-Johnson III Picture Vocabulary
 - [DLL children can catch up to monolingual norms in English vocabulary, but need substantial time and exposure to do so](dll-catch-up-over-time.md) — related
 - [Sequential bilinguals score significantly below monolinguals on English vocabulary even with conceptual scoring and SES controlled](sequential-bilinguals-gap-persists-conceptual-scoring.md) — related
 - [Bilingual children show faster trail-making B performance, while Indian bilinguals are faster on Trails A and monolinguals score higher on receptive vocabulary](background-measures-vocabulary-and-trail-making-group-differences.md) — related
+- [DLLs have smaller vocabularies and slower growth in each language than monolinguals, but comparable conceptual vocabularies](dll-smaller-vocabulary-each-language.md) — a broader claim this one bears on
+- [Group differences in receptive language did not hold when controlling for SES, and receptive language was the covariate retained in the main analyses](receptive-language-group-differences-ses-mediated.md) — related
+- [Simultaneous and sequential DLL learners show opposite vocabulary patterns in English versus the home language](simultaneous-sequential-vocabulary-differences.md) — related
+- [Bilingual children score higher in English than Spanish, with the language effect larger in the expressive modality](english-spanish-language-by-modality-interaction.md) — related

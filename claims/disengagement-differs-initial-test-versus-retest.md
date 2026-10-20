@@ -46,3 +46,4 @@ Descriptive finding from the same-day retest analysis: engagement levels were cr
 - [Students who rapid-guess less on a MAP Growth retest tend to see score gains, while those who rapid-guess more tend to see declines](retest-engagement-gains-map-growth.md) — related
 - [Seriously disengaged initial testers who stopped rapid-guessing on retest showed large RIT gains, averaging about 6 points in Reading and 12 in Math](serious-disengagement-retest-zero-guessing-gains.md) — related
 - [E-M scoring partially accounts for observed RIT score differences between disengaged first tests and engaged retests](em-scoring-partially-accounts-retest-score-differences.md) — related
+- [Rapid guesses on MAP Growth reflect a lack of engagement rather than a lack of knowledge](rapid-guessing-reflects-disengagement-not-lack-of-knowledge.md) — related

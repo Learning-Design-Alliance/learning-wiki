@@ -45,3 +45,7 @@ Reporting bias could only be investigated for the word reading SMD due to limite
 ## Related Claims
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - [No evidence of publication bias was found in the meta-analysis](no-publication-bias-ct-gender-meta-analysis.md) — related
+- [Significant between-study heterogeneity limits interpretation of foreign language attainment differences in poor readers/spellers](heterogeneity-limits-fl-attainment-interpretation.md) — related
+- [The text generation research field shows a small-study effect suggesting publication bias](small-study-effect-publication-bias.md) — reports the opposite
+- [Exempting students with poor literacy skills from foreign language instruction is not based on systematic evidence](fl-exemption-policies-lack-evidence.md) — related
+- [Language pairing, onset age of instruction, and age of assessment showed no significant impact on foreign language word reading group differences](no-moderator-effects-fl-word-reading.md) — related

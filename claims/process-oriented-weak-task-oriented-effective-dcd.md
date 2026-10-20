@@ -66,3 +66,4 @@ The review contrasts process-oriented weakness with reviews indicating "the task
 - [DCD prevalence estimates range from 1.8% to 6.9% with a male predominance of 2:1 to 3:1, and the disorder persists into adulthood for 30–70% of those diagnosed as children](dcd-prevalence-1-8-to-6-9-percent-male-predominance.md) — related
 - [Motor imagery training improves motor performance in DCD, with children showing the most severe initial motor deficits benefiting the most](motor-imagery-training-benefits-dcd.md) — related
 - [Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency](handwriting-intervention-type-equivalence.md) — related
+- [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md) — related

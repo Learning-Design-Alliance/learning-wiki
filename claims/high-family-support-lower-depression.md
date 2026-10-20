@@ -51,3 +51,4 @@ Univariate logistic regression on RELACHS depressive symptoms. "Pupils with high
 - [In an East London adolescent cohort, adjusting for friend or family support barely changed the association between being bullied and boys' later depressive symptoms, which the authors read as support not being sufficient protection](social-support-no-buffer-depression.md) — related
 - [Peer problems at age 16 mediate the association between childhood ADHD symptoms and late-adolescent depressive symptoms](peer-problems-mediate-adhd-depression-link.md) — related
 - [Peer problems at age 9.5 mediate the association between childhood ADHD and depressive symptoms at age 13](earlier-peer-problems-mediate-adhd-depression-earlier-ages.md) — related
+- [Clinical ADHD diagnosis in childhood is associated with increased odds of clinically significant adolescent depressive symptoms](clinical-adhd-diagnosis-increased-odds-adolescent-depression.md) — related

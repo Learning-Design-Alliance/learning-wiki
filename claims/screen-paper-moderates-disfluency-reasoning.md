@@ -52,3 +52,5 @@ Narrative review of Sidi et al. (2015), university students solving CRT reasonin
 - [Variations in cognitive activation are reflected in the germane cognitive load scale: prompted imagination and disfluent text raise GCL](activation-variations-reflected-in-gcl-scale.md) — related
 - [Medium of presentation interacts with font fluency: disfluent font yields higher success rates on computer but lower on paper](medium-fluency-interaction-sidi.md)
 - [Reading text and presenting graphics on handheld screens are more difficult than on paper, and interactivity may be compromised](small-screen-usability-limitations.md) — related
+- [Disfluency does not automatically elicit effortful processing; test expectancy improves retention and transfer while disfluency has no effect](disfluency-no-effect-test-expectancy.md) — related
+- [Neither disfluency nor distinctiveness affected memory across three experiments with alien-list stimuli](disfluency-distinctiveness-null-rummer.md) — related

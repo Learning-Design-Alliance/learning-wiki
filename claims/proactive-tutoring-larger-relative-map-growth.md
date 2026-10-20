@@ -47,3 +47,5 @@ DiD comparison of proactive versus reactive tutoring on relative MAP growth (Tab
 - [Introducing human-AI tutoring improves relative MAP academic growth by 61% over an AI-only baseline within the IK bandwidth](human-ai-tutoring-improves-map-growth-over-ai-only.md) — related
 - [Human-AI tutoring increases IXL time on task by 25% with no significant difference between proactive and reactive groups](human-ai-tutoring-increases-time-on-task.md) — related
 - [Human-AI tutoring is associated with a 36% rise in IXL skill proficiency, but the gap widened in favor of reactively tutored students (difference-in-differences preprint)](human-ai-tutoring-skill-proficiency-gap-widens.md) — reports the opposite
+- [Proactive tutoring increases learners' use of metacognitive help tools compared with reactive tutoring](proactive-tutoring-increases-metacognitive-help-use.md) — related
+- [Proactive tutoring increases learners' use of lexical help tools compared with reactive tutoring](proactive-tutoring-increases-lexical-help-use.md) — related

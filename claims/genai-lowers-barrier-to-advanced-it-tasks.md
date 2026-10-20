@@ -47,3 +47,4 @@ Interview theme on extended expertise boundaries: P10, "not a programmer," built
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related
 - [Teachers designing TEL face serious constraints of time, expertise and endorsement](teacher-designers-time-expertise-constraints.md) — related
+- [Teachers without formal training report substantially lower positive beliefs about GenAI than university-prepared teachers](no-formal-training-lower-positive-genai-beliefs.md) — related

@@ -47,3 +47,10 @@ Pairwise moderator comparisons of presentation modality (audio-tape, computer sc
 
 - [Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse](modality-effect-moderated-by-pacing.md) — the general claim this finding bears on, with the studies behind it
 - [Modality effect: hearing text alongside visuals improves learning more than reading text alongside visuals](modality-effect-narration-over-text.md) — a broader claim this one bears on
+- [No difference in intrinsic cognitive load between visual-only and audio-visual text conditions in VR](vr-modality-no-intrinsic-load-difference.md) — related
+- [Bayesian analyses provide strong evidence that the modality effect reverses in VR for recall, comprehension and germane load](vr-reverse-modality-bayesian-evidence.md) — reports the opposite
+- [Visual-only text produces higher germane cognitive load than audio-visual text in VR](vr-visual-only-higher-germane-load.md) — related
+- [No difference in extraneous cognitive load between modality conditions in VR, contrary to the modality principle](vr-modality-no-extraneous-load-difference.md) — related
+- [Visual-only text also yields higher comprehension than audio-visual text in immersive VR](vr-reverse-modality-effect-comprehension.md) — reports the opposite
+- [In an immersive VR learning environment, visual-only text yields higher recall than audio-visual text (reverse modality effect)](vr-reverse-modality-effect-recall.md) — reports the opposite
+- [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](modality-effect-within-subjects-d073.md) — related

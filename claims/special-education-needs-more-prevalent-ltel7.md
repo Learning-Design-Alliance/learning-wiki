@@ -69,3 +69,4 @@ Grade-level analysis shown in Figure 4 of CALPADS program data. The report descr
 - [More than half of LTEL7 students were in their 7th, 8th, or 9th year of being classified as EL, and more than 20,000 had been classified for 12 or more years](ltel7-years-classified-distribution.md) — related
 - [Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers](rural-counties-higher-ltel7-proportions.md) — related
 - [Socioeconomic disadvantage is more prevalent among California students designated as LTEL7 (89%) than other ever-ELs (80%)](ses-disadvantage-more-prevalent-ltel7.md) — related
+- [Special education identification is disproportionate for English learner and socioeconomically disadvantaged students in California](disproportionate-identification-english-learners-socioeconomically-disadvantaged.md) — related

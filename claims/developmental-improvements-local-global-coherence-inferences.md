@@ -71,3 +71,6 @@ The same mixed-factor ANOVA on first-response scores showed a significant main e
 - [Prompting underspecified responses improves children's performance on both local and global coherence inference questions at all ages](prompting-improves-inference-performance.md) — related
 - [Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds](vocabulary-unique-predictor-local-coherence-younger-children.md) — related
 - [Less skilled comprehenders make fewer knowledge-based coherence and elaborative inferences than skilled comprehenders even when the relevant knowledge is equally available](poor-comprehenders-fewer-inferences-equal-knowledge.md) — related
+- [When explicitly required by direct questions, less skilled comprehenders' inference performance improves greatly while skilled comprehenders perform at ceiling](direct-questions-boost-poor-comprehenders-inferences.md) — related
+- [Younger children (3–5-year-olds) answered story comprehension questions less accurately than all older age groups](preschoolers-lower-story-comprehension-accuracy.md) — related
+- [PSP-1 performance increases with age across grades 1–4, with significant differences between adjacent age groups on total score](psp1-performance-increases-with-age.md) — related

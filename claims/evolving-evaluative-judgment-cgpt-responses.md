@@ -45,3 +45,5 @@ Inductive thematic analysis of summer-scholarship SPAR logs. Students learned th
 - [Small edits to cGPT instructions and knowledge bases had unpredictable effects on GPT responses during iterative co-design](cgpt-small-edits-unpredictable-response-effects.md) — related
 - [Placement students reported enhanced agency and ownership from the open-ended cGPT co-creation project](cgpt-co-creation-enhances-student-agency-ownership.md) — related
 - [GPT responses reliably incorporated broad ideas from instructions but resisted precise control](gpt-broad-ideas-incorporated-precise-control-lacking.md) — related
+- [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](high-level-feedback-remains-human-responsibility.md) — related
+- [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](prior-practices-mediate-class-interaction-appropriation.md) — related

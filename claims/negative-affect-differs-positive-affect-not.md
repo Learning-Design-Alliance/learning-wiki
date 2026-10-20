@@ -44,3 +44,4 @@ One-way ANOVAs comparing the four conditions on PANAS positive and negative affe
 
 ## Related Claims
 - [Affect, motivation, and cognitive load did not mediate the relationship between error condition and CVS learning](no-mediation-affect-motivation-cognitive-load.md) — related
+- [Learning the CVS with self-generated, vicarious, combined, or no errors during PS-I does not differentially affect CVS posttest performance when controlling for prior knowledge](cvs-error-type-no-posttest-differences.md) — related

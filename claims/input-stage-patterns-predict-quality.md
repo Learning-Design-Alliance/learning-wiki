@@ -45,3 +45,4 @@ Same product measures re-analyzed with output-stage patterns as grouping factors
 - [Prior CACI training is associated with more stable, AI-oriented interaction patterns across interpreting stages](caci-training-pattern-stability.md) — related
 - [K-means clustering of stage-level CACI observations yields four student-AI interaction patterns: Intensive Engagers, Fast Scanners, Traditionalists, and Frequent Switchers](four-caci-interaction-patterns.md) — related
 - [Interaction patterns show no significant differences in information completeness or temporal speech measures at either stage](no-pattern-difference-infocom-temporal.md) — reports the opposite
+- [The article interprets Frequent Switchers' balanced AI-note coordination as achieving the best performance, with multiple pathways to adequate performance in CACI](frequent-switchers-best-performance.md) — reports the opposite

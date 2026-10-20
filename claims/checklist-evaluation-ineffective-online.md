@@ -112,3 +112,5 @@ First-term nursing students in 12 lab sections had one 110-minute library sessio
 - [After the modules, students engaged in lateral reading far more often, rising from 3 of 87 students at pretest to 67 of 87 at posttest](lateral-reading-increased-post-intervention.md) — related
 - [Students' reliance on surface-level evaluation strategies declined after the modules, including trust in dot-org domains, links, appearance, and About pages](surface-strategies-declined-after-modules.md) — related
 - [The intervention improved students' sourcing in credibility judgments and in written products relative to controls](sourcing-intervention-improves-credibility-judgments-written-products.md) — related
+- [Gains in source evaluation held regardless of the order in which students took the two assessment forms](gains-robust-to-test-form-order.md) — related
+- [Checklist tool use significantly increases Evaluation processes, an effect not observed in the ChatGPT and human-expert groups](checklist-tools-increase-evaluation-processes.md) — related

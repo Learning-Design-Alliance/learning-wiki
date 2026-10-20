@@ -47,3 +47,5 @@ Exploratory statistical cluster-plot analysis (point-wise paired t-tests, alpha 
 - Sensory evoked responses to the cue stimuli did not differ between high- and low-interest blocks, arguing against block-level arousal differences — related
 - [Adolescent anticipatory alpha-band activity lacks the adult-like lateralized suppression pattern, instead showing higher right-parieto-occipital alpha and stronger modulation for cue-left than cue-right](adolescent-alpha-no-lateralized-suppression.md) — related
 - [Adolescents show adult-like anticipatory broadband ERP attention components (ADAN, LDAP, BRN) contralateral to the attended location](adolescent-anticipatory-erp-components-adult-like.md) — related
+- [Adolescents show higher target-detection sensitivity (d-prime) for high-interest than low-interest stimuli, with better performance in the right hemifield](interest-boosts-adolescent-detection-sensitivity.md) — related
+- [Motivation did not interact with visuospatial attention effects on post-stimulus visual evoked potentials to imperative stimuli](motivation-no-post-stimulus-vep-modulation.md) — related

@@ -63,3 +63,5 @@ Paired samples t-tests on condom-use and birth-control intention items (sample s
 
 ## Related Claims
 - [Youth reported a mixed pattern of impact on the success sequence: 60–61 percent were more likely to plan a steady full-time job before having a child or marrying, but only 28–35 percent were more likely to plan to delay sexual intercourse until milestones](project-with-success-sequence-mixed-impact.md) — related
+- [Justice-involved youth who remained at their sites completed an average of 11.0 of 12 Project With lessons, while those who left early completed 5.4](project-with-lesson-completion-retention-effect.md) — related
+- [Youth most positively reported Project With's impact on goal setting, with 81 percent saying it made them more likely to make plans to reach their goals](project-with-perceived-impact-goal-setting.md) — related

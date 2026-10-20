@@ -43,4 +43,8 @@ Student responses coded on a 7-point depth-of-explanation scale (inter-rater rel
 
 
 ## Related Claims
--
+- [Students using portfolios with knowledge-building principles showed higher conceptual understanding on a writing task than the other classes](portfolio-principles-higher-conceptual-understanding.md) — related
+- [Students with portfolios and knowledge-building principles asked more questions and higher-level questions than both comparison classes](portfolio-principles-more-high-level-questions.md) — related
+- [The portfolio-principles class scored higher on weighted depth of inquiry than both other Knowledge Forum classes](portfolio-principles-higher-depth-of-inquiry.md) — related
+- [Ninth graders using Knowledge Forum with portfolios and knowledge-building principles showed higher database inquiry participation than the Knowledge Forum-only class](kf-portfolio-principles-higher-atk-inquiry.md) — related
+- [Knowledge-building portfolio scores correlated with database participation, explanation quality, and conceptual understanding](portfolio-scores-correlate-participation-understanding.md) — related

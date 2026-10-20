@@ -48,3 +48,4 @@ A behavioural study of 100 participants aged 5-28 using an emotional go/no-go ta
 - [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) — related
 - [Self-reported suppression use decreases between ages 9 and 15](suppression-use-decreases-ages-9-15.md) — related
 - [Age correlates with detection performance: hits and d′ increase and false alarms decrease with age](age-correlates-detection-performance.md) — related
+- [Task-relevant emotions affect response inhibition more strongly than task-irrelevant emotions, especially in young children](task-relevant-emotions-stronger-response-inhibition-effect.md) — related

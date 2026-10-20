@@ -48,3 +48,4 @@ A randomized controlled trial (Stockard, 2010) comparing 29 Reading Mastery Sign
 
 ## Related Claims
 - [SpellRead™ shows potentially positive effects on reading fluency for adolescent readers, with an average improvement index of +14](spellread-potentially-positive-reading-fluency.md) — related
+- [Reading Mastery shows no discernible effects on reading comprehension for adolescent learners, with an average improvement index of –7 percentile points](reading-mastery-no-discernible-comprehension-adolescents.md) — related

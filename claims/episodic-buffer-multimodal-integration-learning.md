@@ -48,3 +48,4 @@ Narrative review statement quoting Dehn (2008, p. 25). The EB was added as a fou
 ## Related Claims
 - [The central executive coordinates WM subsystems and supports higher-level language-learning functions such as attention switching and strategy switching](central-executive-coordinates-language-learning-functions.md) — related
 - [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](wm-distinct-from-stm-subsystems-function.md) — related
+- [Binding tasks showed no separate episodic buffer faculty, loading instead with visuospatial tasks or the focus of attention](binding-tasks-load-focus-of-attention-no-episodic-buffer.md) — reports the opposite

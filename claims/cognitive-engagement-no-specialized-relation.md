@@ -47,3 +47,4 @@ This is the article's summary finding across the four meta-analyses (achievement
 - [Emotional engagement is the strongest predictor of student well-being](emotional-engagement-strongest-predictor-well-being.md) — related
 - [Agentic engagement is the strongest predictor of teacher support but not of peer support](agentic-engagement-strongest-predictor-teacher-support.md) — related
 - [Geographical region moderated several engagement-correlate relations, with Eastern students showing higher relations than Western students](region-moderates-engagement-correlate-relations.md) — related
+- [Relative weights analysis identifies behavioral engagement for achievement, agentic for social support, and emotional for motivation and well-being](relative-weights-engagement-correlates.md) — related

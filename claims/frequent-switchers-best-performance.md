@@ -46,3 +46,5 @@ Authors' interpretation in the discussion section, not a tested comparison; Tabl
 - [K-means clustering of stage-level CACI observations yields four student-AI interaction patterns: Intensive Engagers, Fast Scanners, Traditionalists, and Frequent Switchers](four-caci-interaction-patterns.md) — related
 - [Metacognitive development exhibits equifinality: multiple viable trajectories challenge linear developmental models](equifinality-metacognitive-trajectories.md) — a broader claim this one bears on
 - [Multiple sufficient configurations lead to high AI literacy performance (equifinality)](fsqca-multiple-pathways-high-ai-literacy.md) — related
+- [Input-stage, but not output-stage, interaction patterns are significantly associated with interpreting fluency and target language quality, with Intensive Engagers scoring lowest](input-stage-patterns-predict-quality.md) — reports the opposite
+- [Interaction patterns show no significant differences in information completeness or temporal speech measures at either stage](no-pattern-difference-infocom-temporal.md) — reports the opposite

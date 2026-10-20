@@ -47,3 +47,6 @@ Random-effects main-effects analysis (Table 2) of 75 effect sizes from 30 studie
 - [High-school students and researchers tended to learn more from RCR training than higher-education students and non-research professionals](rcr-learner-group-differences-judgment.md) — related
 - [Repeated practice and blended learning showed no advantage in RCR course effectiveness, failing to replicate prior review findings](rcr-repetition-blended-null-results.md) — related
 - [A practical, experiential course emphasis is the best predictor of effective research integrity training across learning outcomes](rcr-experiential-emphasis-best-predictor.md) — related
+- [Knowledge acquisition in RCR training benefits from individualized learning and application of ethical guidelines, and is hindered by mandatory status and purely theoretical emphasis](rcr-knowledge-moderators-individual-guidelines.md) — related
+- [Not teaching ethical guidelines predicted better combined learning outcomes, while guideline coverage supported only knowledge](rcr-guideline-coverage-paradox.md) — related
+- [Mono-disciplinary RCR courses were not more effective than multi-domain courses, contradicting prior reviews](rcr-mono-disciplinary-not-replicated.md) — a narrower finding that bears on this claim

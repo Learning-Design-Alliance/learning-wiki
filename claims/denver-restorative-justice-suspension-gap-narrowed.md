@@ -48,3 +48,6 @@ District-level data from Denver Public Schools after implementing restorative ju
 - [Black and poor students are suspended from US schools at higher rates than White and nonpoor students](black-poor-students-suspended-higher-rates.md) — a broader claim this one bears on
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
 - Massachusetts Chapter 222 coincided with out-of-school suspensions for Black girls falling from 16 to 9 per 100 — related
+- [Academic benefits of restorative practice exposure are stronger for Black and Latino/a students than for White students, suggesting practices can reduce racial gaps](restorative-practice-benefits-stronger-black-latino-students.md) — related
+- [At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school](african-american-boys-suspended-13-points-higher.md) — related
+- [Schurz High School's Cultivate-driven feedback-for-growth improvement work coincided with improved student experiences and out-of-school suspensions dropping to one-half of the prior year's number](schurz-cultivate-improvement-outcomes.md) — related

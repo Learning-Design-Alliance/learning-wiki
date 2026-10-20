@@ -65,3 +65,5 @@ The appreciation analysis reports that group differences were scarce: "A Group e
 
 - [Students' creative writing speed decreased in panel 1 except for students with relatively high Creative Self-Concept, and increased in panel 2](creative-writing-speed-panel-pattern-csc.md)
 - [Implementation fidelity of the creative writing unit was high: absentee rates below about 3% and completion of crucial divergent-thinking and writing assignments between 88% and 94%](cwi-unit-high-fidelity-attendance-completion.md) — related
+- [Creative writing instruction improved creative text quality in panel 1 and showed a transfer effect on argumentative text quality moderated by Creative Self-Concept, a pattern the second panel did not replicate](cwi-transfer-to-argumentative-quality-moderated-by-csc.md) — related
+- [Engagement with AI-generated educational interactive fiction is marginal, near the neutral midpoint of the scale](ai-generated-if-engagement-marginal.md) — related

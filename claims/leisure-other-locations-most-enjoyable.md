@@ -46,3 +46,4 @@ In the same seven-day experience-sampling comparison of activities across contex
 
 - [Doing nothing at school was the least positively rated activity for students with visual impairments](doing-nothing-at-school-least-positive.md)
 - [Participants spent much of their out-of-school time alone at home](vi-students-alone-at-home-out-of-school.md)
+- [High school students with visual impairments fitted in significantly less and felt significantly less accepted at school than in other contexts](vi-students-fit-in-less-accepted-at-school.md) — related

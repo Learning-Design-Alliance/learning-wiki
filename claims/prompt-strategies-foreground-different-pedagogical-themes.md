@@ -61,3 +61,6 @@ Reliability analysis of the 30% double-coded subsample of 96 prompts. The articl
 - ChatGPT research in programming education prioritizes classroom practice and learner interaction, with limited attention to assessment design and governance — related
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related
 - [Policy–enforcement pairings are dominated by prompt-based constraints, and policy themes differ in enforcement breadth](policy-enforcement-pairings-prompt-dominated.md) — related
+- [Students showed bounded trust and uneven verification behavior: 23 of 837 student turns (about 2.7%) contained explicit risk-aware moves](bounded-trust-uneven-verification-behaviors.md) — related
+- [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
+- [Instructional decisions form the hub of decision-type co-occurrence, most strongly with assessment decisions](instructional-decisions-hub-of-co-occurrence-structure.md) — related

@@ -47,3 +47,4 @@ The report's key findings state that "PROMISE treatment group youth had lower le
 - [PROMISE treatment and control group youth enrolled in education and training at similar rates five years after random assignment](promise-similar-education-enrollment-treatment-control.md) — related
 - [PROMISE treatment group youth had higher employment rates than control group youth](promise-higher-employment-rates-than-control.md) — related
 - [PROMISE youth experienced worse education and employment outcomes than ACS youth with and without disabilities](promise-youth-worse-outcomes-than-acs-peers.md) — related
+- [Way2Work Maryland did not affect postsecondary education and training outcomes, but more treatment group members completed high school within two years of enrollment](way2work-high-school-completion-gain-no-postsecondary-effect.md) — related

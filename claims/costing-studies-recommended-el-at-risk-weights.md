@@ -50,3 +50,5 @@ The report's synthesis of five state adequacy studies conducted between 2016 and
 - [California's 20% supplemental grant weight falls below other states' adequacy-study recommendations for English learners and at-risk students](lcff-supplemental-weight-below-adequacy-recommendations.md) — possibly the same claim (merge candidate)
 - Michigan provides the lowest English Learner funding weight among weighting states, allocating about 1% to 11% more versus research recommending at least twice as much — related
 - Michigan's legislated low-income funding weight of 11.5% is among the lowest in the country, and a budget loophole reduces actual spending to about 9% more — related
+- [In 2023–24, 44 states provided unique funding for at-risk students, with all 44 classifying low-income students as at-risk and 22 providing concentration-based funding](44-states-provide-at-risk-funding-2023-24.md) — related
+- [California is one of only five states that counts high-need students unduplicated, unlike 37 of 42 states that allow duplicated funding](unduplicated-count-outlier-among-states.md) — related

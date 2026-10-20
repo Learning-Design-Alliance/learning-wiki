@@ -45,3 +45,7 @@ ANOVA results across transfer-of-knowing, transfer-of-learning, and transfer-aft
 ## Related Claims
 
 - [General biology students in the expansive condition transferred more of what they learned about the differential pressure principle (d = 1.2)](general-biology-transfer-of-learning-differential-pressure.md)
+- [Expansive framing increased transfer-of-knowing of the differential pressure principle (d = .95)](expansive-framing-boosts-differential-pressure-transfer-of-knowing.md) — related
+- [Expansive framing increased high school biology students' transfer-of-knowing of facts between body systems (d = .89)](expansive-framing-boosts-transfer-of-knowing-facts.md) — related
+- [No condition differences in prior knowledge, time-on-task, interest, or amount learned, supporting the framing manipulation's isolation](no-condition-differences-learning-baseline-factors.md) — related
+- [Students perceived the intended expansive versus bounded framing manipulation (d = 1.4)](students-perceived-framing-manipulation.md) — related

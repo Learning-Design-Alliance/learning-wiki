@@ -46,3 +46,4 @@ Tobit interaction estimates from APSCC book-reading time. The article reports th
 - [Low-income children spend about 12 fewer minutes per day conversing with adults during summer, marginally significant](summer-conversation-gap-low-income-children.md) — related
 - [Summer-SES time-use gaps are larger among children of married parents, suggesting results are not driven by single-parent households](summer-gaps-robust-to-household-structure.md) — related
 - [The parental summer education gap is largely college-educated parents spending more time facilitating children's summer activities](college-parents-facilitate-summer-activities.md) — related
+- [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — related

@@ -47,3 +47,5 @@ Observational analysis of CTC TPA records for 14,415 preservice and 3,696 intern
 - [Teacher licensure exams disproportionately fail teacher candidates of color without predicting teaching effectiveness](licensure-exams-disparate-fail-rates-no-effectiveness-prediction.md) — related
 - [Residents pass TPAs on their first attempt at higher rates than student teachers or interns in the linked subsample](residents-higher-initial-tpa-passing.md) — related
 - [Residency completers report more intensive clinical experiences with higher support and are more likely to pass teaching performance assessments on their first attempt](residency-completers-intensive-clinical-first-attempt-pass.md) — related
+- [Elementary and special education candidates from programs rated higher on literacy and math preparation have higher odds of passing the TPA](literacy-math-preparation-predicts-tpa-passing.md) — related
+- [Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates](clinical-feedback-predicts-tpa-passing-preservice-only.md) — related

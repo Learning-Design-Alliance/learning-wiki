@@ -47,3 +47,4 @@ Laboratory experiment with 60 undergraduates learning 30 Eskimo/English pairs wh
 - [The TTST advantage persists in a pure-list design, ruling out differential rehearsal (Experiment 4)](ttst-advantage-not-differential-rehearsal.md) — related
 - [Retrieval before re-presentation (TTST) improves final cued recall of nonsense-syllable/number pairs relative to pure study (Experiment 1)](ttst-beats-pure-st-nonsense-pairs.md) — related
 - [The TTST advantage replicates with meaningful Eskimo/English word pairs (Experiment 2)](ttst-beats-pure-st-eskimo-pairs.md) — related
+- [Preschoolers' recall of repeated items exceeds the maximum predicted by encoding variability theories assuming independent encodings](preschoolers-recall-exceeds-encoding-variability-prediction.md) — related

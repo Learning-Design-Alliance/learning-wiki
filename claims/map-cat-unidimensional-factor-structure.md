@@ -53,3 +53,6 @@ CFA (Proc TCALIS, maximum likelihood) on goal scores from MAP Reading and Mathem
 - State epistemic curiosity and situational interest items load on a single latent factor in confirmatory factor analysis — related
 - Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change — related
 - [Tutor ratings do not entirely tap one underlying trait; one- and two-factor models fit unsatisfactorily](tutor-rating-factors-not-one-trait.md) — related
+- [Confirmatory factor analysis on FICSMath data confirms the 4C/ID Model's four components fit secondary-tertiary mathematics instructional experiences (CFI = 0.907, RMSEA = 0.050)](cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) — related
+- [MLGM model fit failed for the Indiana mathematics test, the sole exception to invariance support](indiana-mathematics-mlgm-fit-exception.md) — related
+- [Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality](knowledge-of-results-no-effect-achievement-test-dimensionality.md) — related

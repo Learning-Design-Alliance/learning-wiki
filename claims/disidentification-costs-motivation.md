@@ -46,3 +46,6 @@ The article presents disidentification, citing Steele (1997), as a psychological
 
 - [Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype](stereotype-threat-compromises-performance.md)
 - [Mastery-focused environments increase motivation to learn while performance-focused environments detract from it for all but the highest achievers](mastery-environments-increase-motivation.md)
+- [Experimental stereotype threat effects in SLD samples are heterogeneous (Hedges's g 0.06–1.16), with effects more robust for motivation-related psychological outcomes than for cognitive or academic performance outcomes](sld-stereotype-threat-heterogeneous-effects.md) — related
+- [Negative stereotype salience combined with high ethnic self-identification inhibits academic performance, while positive stereotypes facilitate it](stereotype-threat-ethnic-identity-performance.md) — related
+- [Racial centrality plays different roles across outcomes: protective against discrimination's effects on mental health but a vulnerability factor for stereotype effects on self-perceptions](centrality-dual-role-discrimination-versus-stereotypes.md) — related

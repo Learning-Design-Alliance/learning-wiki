@@ -48,3 +48,4 @@ In the 62-child sample, parent ratings on the CPRS-R Scale N showed "Girls with 
 ## Related Claims
 - [Childhood ADHD symptoms are associated with higher late-adolescent depressive symptoms in a population cohort](childhood-adhd-predicts-adolescent-depressive-symptoms.md) — related
 - [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related
+- [Motor coordination uniquely predicts written language achievement, and ADHD symptom severity negatively predicts written language, in children with and without ADHD](motor-coordination-adhd-symptoms-predict-written-language.md) — related

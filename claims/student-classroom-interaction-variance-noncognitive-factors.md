@@ -47,3 +47,6 @@ Variance partitioning from empty multilevel models (Table 2) of BEL-S data from 
 - Over a quarter of variance in student growth lies at the school level, and 12-16% of schools significantly overperform average growth — related
 - [Within-student differences in noncognitive factors are associated with differences in course grades across the same student's classes](within-student-noncognitive-factors-relate-to-grades.md) — related
 - [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — related
+- [Only 50% of a school's 5Essentials score is explained by the previous year's score, indicating substantial year-to-year malleability of school climate](5essentials-score-only-half-explained-by-prior-year.md) — related
+- [Teacher effects account for about one-fifth of within-student variation in course grades but average out of GPAs](teacher-effects-one-fifth-within-student-variance.md) — related
+- [Classroom environment has a small positive within-student relationship with course grades that is mediated by student noncognitive factors](classroom-environment-grades-mediated-by-noncognitive-factors.md) — related

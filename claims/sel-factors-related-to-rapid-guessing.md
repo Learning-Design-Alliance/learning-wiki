@@ -61,3 +61,4 @@ The study tested whether social-emotional factors, including "low academic self-
 - [Rapid-guessing behavior is consistently very low across demographic subpopulations](rapid-guessing-low-across-demographic-subpopulations.md) — related
 - [Rapid guessing on achievement tests tends to be fairly state-like rather than a stable trait-like behavior, compared to academic achievement scores which are fairly stable](rapid-guessing-state-like-not-trait.md) — related
 - [Academic self-efficacy is associated with high school graduation rates and mathematics achievement](self-efficacy-associated-graduation-and-math.md) — related
+- [Rapid guessing can be examined over three years using six test administrations to distinguish trait-like from situational disengagement](six-administrations-three-years-rapid-guessing-design.md) — related

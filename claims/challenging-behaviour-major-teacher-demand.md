@@ -65,3 +65,5 @@ The review reports this experimental class-grouping study from the school sector
 - [A cumulative risk index and nonverbal IQ together account for 31% of variance in reading readiness at school entry](cumulative-risk-iq-31-percent-reading-readiness.md) — related
 - [Home literacy environment and family stresses predict attention and behaviour at school entry](hle-family-stresses-predict-attention-behaviour.md) — related
 - [Class composition indexing demand on educators (younger age, higher learning needs, disadvantage, minority status) is associated with reduced observed interactional quality in ECEC, with no association for gender](class-composition-demand-reduced-interactional-quality.md) — related
+- [Larger class size linked to poorer student and teacher performance (review attribution)](larger-class-size-poorer-performance.md) — related
+- [Genetic influences drive the phenotypic correlations between cognitive skills and reading components](genetic-influences-drive-cognitive-reading-correlations.md) — related

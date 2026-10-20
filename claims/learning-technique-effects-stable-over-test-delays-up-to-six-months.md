@@ -51,3 +51,5 @@ The long-delay effects come mostly from the practice techniques, whose benefits 
 
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related
 - [Distributed Practice Improves Retention](spaced-practice-improves-retention.md) — related
+- [Retention interval moderates the testing effect: effects are larger after a day or more than at shorter intervals, where individual studies vary from reliable to null or reversed](retention-interval-moderates-testing-effect.md) — reports the opposite
+- [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](retention-interval-one-to-six-days-largest.md) — reports the opposite

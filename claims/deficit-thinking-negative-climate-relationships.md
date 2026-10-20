@@ -43,4 +43,8 @@ The review's synthesis of studies on White teacher perceptions (e.g., Rolón-Dow
 
 
 ## Related Claims
--
+- [Positive campus racial climate is vital for Black students' success, while negative climate remains detrimental to students of color in predominantly White schools](positive-campus-racial-climate-vital-black-student-success.md) — a broader claim this one bears on
+- [Black students experience a more hostile campus racial climate than other students of color in schools](black-students-more-hostile-climate-than-other-students-of-color.md) — related
+- [A welcoming campus racial climate fosters African American students' sense of belonging and intent to continue enrollment in mostly White schools](welcoming-climate-belonging-enrollment-intent.md) — related
+- [A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students](racial-school-climate-gap-students.md) — related
+- [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related

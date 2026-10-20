@@ -49,3 +49,5 @@ Correlational results the brief labels "Less consistent results ... in three 2nd
 - [Teachers suggesting specific practices in response to students' work is associated with higher math achievement in 1st grade only](suggesting-specific-practices-first-grade-higher-achievement.md) — related
 - [Interactive instruction is more common in classrooms with higher prior achievement; didactic and review are more common in lower-achieving classrooms](instruction-varies-by-class-achievement-composition.md) — related
 - [Schools where students and teachers reported frequent use of standards-aligned practices showed stronger assessment gains than schools with few reports of frequent use](standards-aligned-practices-stronger-gains.md) — related
+- [Interactive instruction declines and didactic instruction increases across elementary grade levels](interactive-declines-didactic-increases-across-grades.md) — related
+- [Elementary teaching practices during a standardized lesson are more often teacher-directed than child-centered, with no grade differences in frequency](teaching-more-teacher-directed-than-child-centered.md) — related

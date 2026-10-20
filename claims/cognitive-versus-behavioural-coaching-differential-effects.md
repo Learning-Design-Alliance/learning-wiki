@@ -72,3 +72,6 @@ Study 2 evaluated a behavioural-based coaching program with trainee accountants.
 - Participation in a solution-focused cognitive-behavioural life coaching program is associated with significantly enhanced mental health, quality of life and increased goal attainment in normal adults. — related
 - [Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions](its-reduces-executive-state-ma-improves-algebra.md) — related
 - [Problem-based curricula enhance deep approaches and discourage surface approaches compared with subject-based curricula](problem-based-curricula-deep-approach-advantage.md) — related
+- [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](mbis-small-positive-effects-all-rcts-youth.md) — related
+- [Students whose anxiety, surprise or enjoyment decreased over the course achieved more positive learning-outcome change than students with stable trajectories in those emotions.](decreasing-emotions-linked-better-learning-gains.md) — related
+- [When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)](active-control-rcts-benefits-restricted.md) — related

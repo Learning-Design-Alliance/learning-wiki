@@ -44,3 +44,7 @@ Experiment with 40 Dutch Grade 10 students randomly assigned to four conditions 
 
 ## Related Claims
 - [Hypermedia learners show the lowest total engagement in learning processes, devoting most processing to superficial activities](hypermedia-lowest-total-process-engagement.md) — possibly the same claim (merge candidate)
+- [Observational learning devotes a significantly lower percentage of learning activity to elaborative processing than the other three approaches](observational-learning-lowest-elaborative-percentage.md) — related
+- [Self-explanation-based and inquiry learning elicit more elaborative processes than hypermedia and observational learning, fully for hypothesis testing and integrating and partly for giving explanations](generation-approaches-elicit-more-elaborative-processes.md) — related
+- [The self-explanation-based environment elicits the most (self-)explanations and the inquiry environment elicits high hypothesis generation](approach-specific-process-profiles.md) — related
+- [Observational learners read and filter more than hypermedia learners, and hypermedia learners check more solution steps than self-explanation learners](superficial-subcategory-contrasts.md) — related

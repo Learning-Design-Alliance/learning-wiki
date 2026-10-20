@@ -45,3 +45,5 @@ Observational analysis linking program-level completer-survey ratings of opportu
 ## Related Claims
 - [Elementary candidates have lower TPA passing rates than secondary and special education candidates, possibly due to added assessment complexity](elementary-candidates-lower-tpa-passing-rates.md) — related
 - [Candidates from programs rated highest on TPA support have 1.7 times higher odds of passing than those from lowest-rated programs](program-tpa-support-rating-predicts-passing.md) — related
+- [Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates](clinical-feedback-predicts-tpa-passing-preservice-only.md) — related
+- [Preservice candidates pass teaching performance assessments at higher rates than intern candidates](preservice-candidates-outpass-interns-on-tpas.md) — related

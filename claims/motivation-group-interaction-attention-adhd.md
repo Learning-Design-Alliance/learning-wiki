@@ -45,3 +45,6 @@ Mixed-design two-way MANOVA (group × motivation) with 30 ADHD and 30 TD childre
 ## Related Claims
 
 - [The motivation manipulation improved attention performance in children with ADHD but did not change TD children's performance](motivation-improves-adhd-not-td-performance.md)
+- [Under normal conditions children with ADHD show deficits in vigilance, visual search and divided attention relative to TD children](adhd-attention-deficits-normal-conditions.md) — related
+- [Increased motivation eliminated ADHD–TD differences on most attention measures but differences persisted in complex multitasking and commission errors](motivation-reduces-but-not-eliminates-adhd-deficits.md) — a narrower finding that bears on this claim
+- [Adults with ADHD generate more original ideas under competition for a bonus, but not without competition](adhd-originality-increases-under-competition.md) — related

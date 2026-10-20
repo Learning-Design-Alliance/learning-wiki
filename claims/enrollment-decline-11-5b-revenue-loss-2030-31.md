@@ -47,3 +47,4 @@ Bellwether analysis applying federal enrollment projections to 2022–23 per-pup
 - [68 percent of K–12 districts experienced enrollment declines between 2018–19 and 2023–24 while still operating roughly the same number of schools](68-percent-districts-declining-enrollment-same-schools.md) — related
 - [School districts that rely more heavily on state revenue experience more revenue volatility, and 24 states received at least half their revenue from state sources in 2019-20](state-revenue-reliance-increases-volatility.md) — related
 - California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals — related
+- [The primary driver of declining enrollment is a sustained drop in birth rates, with slowed immigration and expanded school choice as additional drivers](enrollment-decline-drivers-birth-rates-choice.md) — related

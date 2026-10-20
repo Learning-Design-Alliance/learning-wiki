@@ -44,3 +44,11 @@ The review attributes this pattern to prior research on students' cue-utilizatio
 
 ## Related Claims
 - [Performance cues were found most diagnostic for students' reading comprehension performance](performance-cues-most-diagnostic-reading-comprehension.md) — related
+- [Learners partly use example length as a cue when evaluating their self-generated examples](length-cue-example-evaluation.md) — a narrower finding that bears on this claim
+- [Teachers' self-reported cue utilization attributes are not significantly correlated with their monitoring accuracy (Experiment 2).](teacher-self-reported-cue-use-not-linked-to-accuracy.md) — a narrower finding that bears on this claim
+- [Teachers judging student performance mostly use performance cues and, to a lesser extent, student cues](teachers-mostly-use-performance-cues-judging-performance.md) — related
+- [When making accurate judgments, teachers used diagnostic cues to a greater extent, but also used non-diagnostic cues (IQ and reading self-concept)](accurate-judgments-greater-diagnostic-cue-use-plus-nondiagnostic.md) — related
+- [Postdictions of performance are typically more accurate than predictions](postdictions-more-accurate-than-predictions.md) — related
+- [Subjective effort ratings are affected by invalid cues and only weakly valid as cues to judged learning outcomes](effort-ratings-invalid-cues-weak-validity.md) — related
+- [Impression narratives rely on weakly diagnostic suspicion heuristics such as response speed, fluency, and perceived scriptedness](suspicion-heuristics-weakly-diagnostic.md) — related
+- [Teachers are largely aware which cues are diagnostic, but often mistakenly treat students' interest in the text topic as diagnostic](teacher-awareness-of-cue-diagnosticity-partial.md) — related

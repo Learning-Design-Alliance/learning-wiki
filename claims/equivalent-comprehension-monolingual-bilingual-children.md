@@ -48,3 +48,7 @@ Behavioural analysis of comprehension Z scores from 48 children (24 per group) a
 - [The study found no evidence for enhanced attentional capacity in bilingual children, behaviourally or neurally](no-bilingual-attentional-capacity-enhancement.md)
 - [Unattended Musical Rain streams were better reconstructed than unattended linguistic distractors in both groups, with stronger MuR encoding in monolinguals](unattended-mur-stronger-encoding.md)
 - [A right-ear advantage appears in both dichotic listening tasks and decreases with age on the Dichotic Sentences subtest](right-ear-advantage-dichotic-tasks-decreases-with-age.md)
+- [Bilingual children perform worse than monolinguals on attention tasks with verbal stimuli but not non-verbal ones](verbal-stimuli-bilingual-worse-attention-tasks.md) — related
+- [Socioeconomic status differences between bilingual and monolingual groups may determine study outcomes](ses-moderates-bilingual-executive-function-results.md) — related
+- [Selective attention improves neural encoding of attended speech envelopes in children aged 7–12](attention-improves-speech-envelope-encoding-children.md) — related
+- [Bilingual children solve the Sky Search selective attention task faster than monolinguals across the studies using it](bilingual-faster-sky-search-selective-attention.md) — related

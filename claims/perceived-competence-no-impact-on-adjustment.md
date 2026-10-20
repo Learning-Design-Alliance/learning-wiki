@@ -47,3 +47,4 @@ Within-subject experiment testing hypothesis 2b with mixed models accounting for
 - [Learners change the direction of their assumptions more often to agree with a partner than to disagree](direction-change-more-often-to-agree.md) — related
 - [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](partner-confidence-no-effect-on-change.md) — related
 - [The more confident a learning partner's answers, the more competent the partner is perceived](partner-confidence-raises-perceived-competence.md) — related
+- [Learners with lower own confidence are more inclined to change their assumption in the face of disagreement](low-own-confidence-drives-assumption-change.md) — related
