@@ -1,7 +1,7 @@
 ---
 type: claim
-title: ISHS attendance increases the odds of economically disadvantaged students entering a Texas four-year college by 75 to 80 percent, with no significant college-entry effect for students overall
-description: ISHS attendance increases the odds of economically disadvantaged students entering a Texas four-year college by 75 to 80 percent, with no significant college-entry effect for students overall
+title: ISHS attendance is associated with 75 to 80 percent higher odds of economically disadvantaged students entering a Texas four-year college, with no significant college-entry difference for students overall
+description: ISHS attendance is associated with 75 to 80 percent higher odds of economically disadvantaged students entering a Texas four-year college, with no significant college-entry difference for students overall
 id: ishs-four-year-entry-economically-disadvantaged
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# ISHS attendance increases the odds of economically disadvantaged students entering a Texas four-year college by 75 to 80 percent, with no significant college-entry effect for students overall
+# ISHS attendance is associated with 75 to 80 percent higher odds of economically disadvantaged students entering a Texas four-year college, with no significant college-entry difference for students overall
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
@@ -44,7 +44,7 @@ Means, Wang, Wei, Iwatani, & Peters. (2018). Broadening Participation in STEM Co
 
 `q2 · i?` · `causal · r2`
 
-Propensity score-weighted HLM on Texas higher education enrollment records (Table 3; economically disadvantaged n = 548 ISHS / 1,294 comparison). The printed odds increases of 75% and 80% are percentages, not standardized effect sizes, so impact is null.
+Propensity score-weighted HLM on Texas higher education enrollment records (Table 3; economically disadvantaged n = 548 ISHS / 1,294 comparison). The printed odds increases of 75% and 80% are significant (p < .05) but are not standardized effect sizes, so impact is coded `i?`; that is not a null finding. The comparison is propensity-weighted and observational, and the authors say it cannot rule out selection bias, so it estimates an adjusted association rather than establishing cause.
 
 > "The odds of their entering a Texas four-year college the fall after high school or any time from 2014 to spring 2016 are increased by 75% and 80%, respectively, for economically disadvantaged students who went to an ISHS (p < .05)."
 

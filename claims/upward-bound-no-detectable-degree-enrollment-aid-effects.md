@@ -35,7 +35,7 @@ Neil S. Seftor, Arif Mamun, Allen Schirm. (2009). The Impacts of Regular Upward 
 
 `q2 · i?` · `causal · r?`
 
-Impact estimates from the final round of the national Upward Bound evaluation, based on survey and transcript data plus National Student Clearinghouse and federal Student Financial Aid administrative records. The report states it "finds no detectable effects on postsecondary outcomes" across the listed measures; equivalence was not tested.
+Impact estimates from the final round of the national Upward Bound evaluation, based on survey and transcript data plus National Student Clearinghouse and federal Student Financial Aid administrative records. The report states it "finds no detectable effects on postsecondary outcomes" across the listed measures.
 
 > "the report finds no detectable effects on postsecondary outcomes, including enrollment, financial aid application or receipt, or the completion of bachelor's or associate's degrees"
 

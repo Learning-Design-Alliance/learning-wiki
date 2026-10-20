@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes
-description: Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes
+title: Some outcome-oriented PSMTs (types o and o*) predict single-trial outcomes, and type o* thinkers conflate causality with conditionality
+description: Some outcome-oriented PSMTs (types o and o*) predict single-trial outcomes, and type o* thinkers conflate causality with conditionality
 id: outcome-oriented-causal-conception
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes
+# Some outcome-oriented PSMTs (types o and o*) predict single-trial outcomes, and type o* thinkers conflate causality with conditionality
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Type o and o* thinkers interpreted probability questions as asking when or how a favourable outcome would occur, made yes-no predictions, and o* thinkers assumed a causal relationship between conditioning event and outcome. [→ Elbehary 2021](#elbehary-2021)
+`q2 i?` Type o and o* thinkers interpreted probability questions as asking when or how a favourable outcome would occur, made yes-no predictions, and o* thinkers assumed a causal relationship between conditioning event and outcome. The third outcome-oriented subgroup, o**, used experimental probability without these biases. [→ Elbehary 2021](#elbehary-2021)
 
 ## Evidence
 

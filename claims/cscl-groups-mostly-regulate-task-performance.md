@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Secondary students in CSCL devote most of their communication to regulating task performance, especially planning the task and monitoring task progress
-description: Secondary students in CSCL devote most of their communication to regulating task performance, especially planning the task and monitoring task progress
+title: Secondary students in CSCL devote much of their communication to regulating task performance, especially planning the task and monitoring task progress
+description: Secondary students in CSCL devote much of their communication to regulating task performance, especially planning the task and monitoring task progress
 id: cscl-groups-mostly-regulate-task-performance
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Secondary students in CSCL devote most of their communication to regulating task performance, especially planning the task and monitoring task progress
+# Secondary students in CSCL devote much of their communication to regulating task performance, especially planning the task and monitoring task progress
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Groups spent the largest share of messages on planning the task (19.51%) and monitoring task progress (14.03%). [→ Janssen 2010](#janssen-2010)
+`q2 i?` Planning the task (19.51% of messages) and monitoring task progress (14.03%) were the most frequent task-regulation activities; the single most frequent coded activity was reaching and maintaining shared understanding (21.28%), a social activity. [→ Janssen 2010](#janssen-2010)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Janssen, J., Erkens, G., Kirschner, P. A., & Kanselaar, G. (2010). Task-related 
 
 `q2 · i?` · `associational · r2`
 
-Descriptive analysis of logged chat from 101 groups of secondary students (310 students, aged 15–18) collaborating on history inquiry tasks in VCRI across three studies; groups sent on average 923 messages (SD=547). The article reports "planning the task (19.51%) and monitoring task progress (14.03%)" as the most frequent activities.
+Descriptive analysis of logged chat from 101 groups of secondary students (310 students, aged 15–18) collaborating on history inquiry tasks in VCRI across three studies; groups sent on average 923 messages (SD=547). The article reports that groups were "very busy regulating task performance", mostly by planning the task (19.51%) and monitoring task progress (14.03%), and that social activities were also frequent: "over 20% of all messages" went to reaching and maintaining shared understanding (21.28% in its Table 2), the most frequent single category.
 
 > "During the inquiry task, groups are very busy regulating task performance. Mostly by planning the task (19.51%) and monitoring task progress (14.03%)."
 

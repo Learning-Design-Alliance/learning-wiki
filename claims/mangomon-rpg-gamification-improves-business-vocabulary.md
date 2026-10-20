@@ -37,7 +37,7 @@ Tangkiengsirisin, S., Taylor, P., & Thansirichaisree, P. (2026). The effects of 
 
 `q2 · i3` · `causal · r1`
 
-Quasi-experimental pre-post study of 21 Thai undergraduates practising business English who played Mangomon outside class for four weeks. Paired t-test on 30-item gap-filling vocabulary test showed the post-test mean exceeded the pre-test mean, "statistically significant, t(20) = 6.99, p < .0001"; the article reports Cohen's d = 1.80 as large.
+Quasi-experimental pre-post study of 21 Thai undergraduates practising business English who played Mangomon outside class for four weeks. Paired t-test on 30-item gap-filling vocabulary test showed the post-test mean exceeded the pre-test mean, "statistically significant, t(20) = 6.99, p < .0001"; the article reports Cohen's d = 1.80 as large. The prose gives the post-test mean as 26.18, but Tables 8 and 9 report 26.81 (26.8095), the figure consistent with the reported d; the quotation below keeps the prose as printed.
 
 > "The pre -test mean score (M = 17.14, SD = 7.17) was lower than the post-test mean score (M = 26.18, SD = 2.50), and this difference was statistically significant, t(20) = 6.99, p < .0001"
 

@@ -47,7 +47,7 @@ The physical characteristics of a classroom — daylight, air quality, temperatu
 
 ## Subclaims
 
-`q2 i2` Across 153 primary classrooms, design factors grouped as naturalness, individualisation, and stimulation explained roughly 16% of the variation in pupils' learning progress over one year. [→ Barrett et al. 2015](#barrett-et-al-2015)
+`q2 i2` Across 153 primary classrooms, design factors grouped as naturalness, individualisation, and stimulation were modelled as accounting for roughly 16% of the variation in pupils' learning progress over one year (the range of their predicted effects relative to the range of progress, not an R²). [→ Barrett et al. 2015](#barrett-et-al-2015)
 
 `q2 i2` Naturalness factors — daylight, air quality, and temperature — carry about half the total design effect in this observational model; the study did not test retrofits or other interventions. [→ Barrett et al. 2015](#barrett-et-al-2015)
 
@@ -63,9 +63,9 @@ The physical characteristics of a classroom — daylight, air quality, temperatu
 
 Barrett, P., Davies, F., Zhang, Y., & Barrett, L. (2015). The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis. *Building and Environment, 89*, 118–133. [doi:10.1016/j.buildenv.2015.02.013](https://doi.org/10.1016/j.buildenv.2015.02.013)
 
-`q2 · observational multi-level regression with pupil-level controls (not randomised)` · `i2 · design factors explain ~16% of variance in year-on-year progress` · `n=3766 pupils, 153 classrooms, 27 schools` · `associational · r2`
+`q2 · observational multi-level regression with pupil-level controls (not randomised)` · `i2 · design factors account for ~16% of the range in year-on-year progress` · `n=3766 pupils, 153 classrooms, 27 schools` · `associational · r2`
 
-The HEAD (Holistic Evidence and Design) study surveyed 153 classrooms across 27 English primary schools, coding each room on physical parameters measured on site, and matched them to 3,766 pupils' reading, writing, and mathematics progress across one academic year. A multi-level model controlling for pupils' starting attainment and attainment relative to age, free school meals, EAL and SEN status (gender was tested and was not significant) attributed about 16% of the variation in progress to classroom design. The effects clustered into three groups: **naturalness** (daylight, air quality, temperature) contributing roughly half the total; **individualisation** (ownership of the space, flexibility of layout — [flexible seating](../strategies/flexible-seating.md), display of pupils' own work); and **stimulation** (visual complexity of the room layout, ceiling and displays, and colour), both of which behaved curvilinearly, with high- and low-complexity classrooms scoring lower than intermediate ones.
+The HEAD (Holistic Evidence and Design) study surveyed 153 classrooms across 27 English primary schools, coding each room on physical parameters measured on site, and matched them to 3,766 pupils' reading, writing, and mathematics progress across one academic year. A multi-level model controlling for pupils' starting attainment and attainment relative to age, free school meals, EAL and SEN status (gender was tested and was not significant) attributed about 16% of the variation in progress to classroom design; this figure is the range of model-predicted progress across the classroom factors (7.93 National Curriculum points) divided by the observed range in progress (50 points), not an R² (the whole model's R² was 58%). The effects clustered into three groups: **naturalness** (light, natural and electric and free of glare, air quality, temperature) contributing roughly half the total; **individualisation** (ownership of the space, and flexibility: floor area and shape, breakout and storage space, learning zones; the study did not test [flexible seating](../strategies/flexible-seating.md) as such); and **stimulation** (visual complexity of the room layout, ceiling and displays, and colour); complexity and colour each behaved curvilinearly, with high- and low-complexity classrooms scoring lower than intermediate ones.
 
 ### Barrett et al. 2013
 

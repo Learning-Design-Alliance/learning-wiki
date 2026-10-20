@@ -21,7 +21,8 @@ sources:
     title: "Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A. (2007). The generation effect: A meta-analytic review. *Memory & Cognition, 35*(2), 201–210. [doi:10.3758/BF03193441](https://doi.org/10.3758/BF03193441)"
     author: "Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A."
     q: 4
-    i: "?"
+    i: 2
+    n: "445 generation effects, 17,711 subjects"
     kind: quant-synthesis
     rigour: "?"
 ---
@@ -37,9 +38,9 @@ Information that learners actively generate (completing a word, producing an ans
 
 `q3 i?` Across five experiments, words the learner generated from a cue and a rule were recognised and recalled better than words simply read, with study time and materials otherwise matched. [→ Slamecka & Graf 1978](#slamecka-graf-1978)
 
-`q4 i?` Meta-analysis confirmed a positive overall generation effect and found it strongly moderated — by the type of material, the generation task, and whether the test was recall or recognition. [→ Bertsch et al. 2007](#bertsch-et-al-2007)
+`q4 i2` Meta-analysis confirmed a positive overall generation effect (d = .40 across 445 effects, 17,711 subjects) and found it strongly moderated — by the type of material, the generation task, and whether the test was recall or recognition. [→ Bertsch et al. 2007](#bertsch-et-al-2007)
 
-`q4 i?` The effect is best attested for simple verbal materials generated from a rule. Evidence for complex or novel material, where the learner may not be able to generate anything correct, is much weaker. [→ Bertsch et al. 2007](#bertsch-et-al-2007)
+`q4 i2` The effect was largest for numbers (d = .87) and smaller for words (d = .41), was near zero for nonwords (d = .05) and slightly negative for anagrams; generation tasks the authors rated hard (d = .46) did not show smaller effects than easy (.41) or moderate (.37) ones. [→ Bertsch et al. 2007](#bertsch-et-al-2007)
 
 ## Evidence
 
@@ -55,9 +56,9 @@ The originating demonstration: participants either read word pairs or generated 
 
 Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A. (2007). The generation effect: A meta-analytic review. *Memory & Cognition, 35*(2), 201–210. [doi:10.3758/BF03193441](https://doi.org/10.3758/BF03193441)
 
-`q4` · `i? · no source text available to check; the entry prints no effect size` · `quant-synthesis · r?`
+`q4 · meta-analysis` · `i2 · medium effect, d=.40` · `n=445 generation effects, 17,711 subjects` · `quant-synthesis · r?`
 
-A meta-analytic review of the generation-effect literature. The pooled effect was positive and reliable, and the moderator analysis is the more useful result for design: effects varied substantially with material type and generation task, and the conditions producing the largest effects were not the ones most like authentic instruction.
+A meta-analytic review of the generation-effect literature. Generating material rather than reading it gave "almost a one-half standard deviation advantage (.40) in memory performance". The moderator analysis is the more useful result for design: effects varied with stimulus type (numbers .87, words .41, nonwords .05) and generation task (.28–.92 for every task except anagrams, which gave a small negative effect), and the authors note that their difficulty ratings (easy .41, moderate .37, hard .46) gave counterintuitive results that may be confounded with task type and sample size.
 
 ## Studies bearing on this claim
 

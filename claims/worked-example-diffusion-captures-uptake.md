@@ -35,7 +35,7 @@ Saqr, M., & López-Pernas, S. (2021). Modelling diffusion in computer-supported 
 
 `q1 · i?` · `associational · r2`
 
-A single fictional network scenario with printed centrality values (Table 1): node G, whose reply "sparked a meaningful (promising) conversation", had the highest diffusion centrality and coreness (k=3), while node A with six isolated connections had the third-highest diffusion centrality despite the highest degree.
+A single fictional network scenario with printed centrality values (Table 1): node G, whose reply "sparked a meaningful (promising) conversation", had the highest diffusion centrality and shared the highest coreness (k=3) with nodes H, I and J, while node A, whose six connections were mostly isolated (with just one connection each), had the third-highest diffusion centrality despite the highest degree.
 
 > "This example demonstrates how diffusion-based centrality measures were capable of accurately capturing the uptake and argumentation process compared to the traditional centrality measures"
 

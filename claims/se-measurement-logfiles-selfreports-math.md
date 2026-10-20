@@ -54,7 +54,7 @@ Elissavet Papageorgiou · Jacqueline Wong · Qinyi Liu · Mohammad Khalil · Ann
 
 `q3 · i?` · `review · r3`
 
-Review finding on dimension coverage in process data. The review also notes temporal approaches were rare (n = 7 of 17 online-learning studies used aggregated measures) and few studies combined multiple data sources.
+Review finding on dimension coverage in process data. The review also notes temporal approaches were rare (most online-learning studies used aggregated measures of student engagement, n = 17, and only n = 7 used temporal analyses of change over time) and few studies combined multiple data sources.
 
 > "Cognitive engagement was far less frequently measured via process data and appeared in only two studies using textual analysis (Tucker et al., 2023; Wu, 2021)."
 

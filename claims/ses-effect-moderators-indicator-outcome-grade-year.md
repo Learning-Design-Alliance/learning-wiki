@@ -1,7 +1,7 @@
 ---
 type: claim
-title: SES effect sizes vary by SES indicator type, outcome type, grade level, and study year
-description: SES effect sizes vary by SES indicator type, outcome type, grade level, and study year
+title: SES–learning effect sizes did not differ by SES indicator or outcome type in an umbrella review's meta-regressions; differences by grade level and study year rested on one or two effect sizes
+description: SES–learning effect sizes did not differ by SES indicator or outcome type in an umbrella review's meta-regressions; differences by grade level and study year rested on one or two effect sizes
 id: ses-effect-moderators-indicator-outcome-grade-year
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# SES effect sizes vary by SES indicator type, outcome type, grade level, and study year
+# SES–learning effect sizes did not differ by SES indicator or outcome type in an umbrella review's meta-regressions; differences by grade level and study year rested on one or two effect sizes
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Meta-regressions examined whether SES effect sizes varied with types of SES indicators, types of learning outcomes and grade levels, and year of primary studies. [→ Tan 2024](#tan-2024)
+`q2 i?` Meta-regressions found no significant difference in SES effect sizes by SES indicator (parental education, occupational status, family income, home resources; k = 39) or by outcome type (languages versus STEM; k = 23), and none for secondary or high school compared with kindergarten-elementary students; effects were larger for university students (two effect sizes) and in 1950–1959 than before 1950 (one effect size per decade before 1990), both read with caution by the author. [→ Tan 2024](#tan-2024)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Tan, C. Y. (2024). Socioeconomic Status and Student Learning: Insights from an U
 
 `q2 · i?` · `quant-synthesis · r2`
 
-The second-order meta-analysis included four moderator variables: types of SES indicators (parental education, occupational status, family income, home resources), outcome types (language, STEM), grade levels, and year of primary studies. Meta-regressions tested whether effect sizes varied across these moderators.
+The second-order meta-analysis included four moderator variables: types of SES indicators (parental education, occupational status, family income, home resources), outcome types (language, STEM), grade levels, and year of primary studies. Meta-regressions tested whether effect sizes varied across these moderators (Table 4). SES indicator type did not matter (F(3,35) = 0.20; occupational status β = -0.01, family income β = -0.01, home resources β = 0.02, each against parental education), nor did language versus STEM outcomes (β = -0.00, p = 0.93). By grade level, secondary (β = 0.02, p = 0.74) and high school (β = -0.01, p = 0.94) did not differ from kindergarten-elementary; university students showed larger effects (β = 0.27, p < 0.05) on only two effect sizes. Across time, 1950–1959 was higher than before 1950 (β = 0.17, p < 0.05) and 1960–2000s did not differ, with only one effect size per decade before 1990.
 
 > "Meta-regressions were performed to examine whether SES effect sizes varied with types of SES indicators, types of students’ learning outcomes and grade levels, and year of primary studies."
 

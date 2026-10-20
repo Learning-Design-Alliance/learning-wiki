@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Fine-tuning LLMs on Nigerian Pidgin English improves linguistic naturalness and cultural appropriateness: native speakers rated fine-tuned model outputs as understandable and context-aware"
-description: "Fine-tuning LLMs on Nigerian Pidgin English improves linguistic naturalness and cultural appropriateness: native speakers rated fine-tuned model outputs as understandable and context-aware"
+title: "Native speakers rated outputs of LLMs fine-tuned on Nigerian Pidgin English as understandable and context-aware, though no non-fine-tuned baseline was evaluated"
+description: "Native speakers rated outputs of LLMs fine-tuned on Nigerian Pidgin English as understandable and context-aware, though no non-fine-tuned baseline was evaluated"
 id: pidgin-fine-tuning-improves-linguistic-alignment
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Fine-tuning LLMs on Nigerian Pidgin English improves linguistic naturalness and cultural appropriateness: native speakers rated fine-tuned model outputs as understandable and context-aware
+# Native speakers rated outputs of LLMs fine-tuned on Nigerian Pidgin English as understandable and context-aware, though no non-fine-tuned baseline was evaluated
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Bilingual English–Pidgin speakers consistently rated outputs from the fine-tuned models as understandable and context-aware, confirming improved linguistic alignment relative to non-adapted baselines. [→ Nwogo 2026](#nwogo-2026)
+`q2 i?` Bilingual English–Pidgin speakers consistently rated outputs from the fine-tuned models as understandable and context-aware. The authors read this as improved linguistic alignment relative to non-adapted baselines, but the evaluation compared only three quantisation levels of the fine-tuned model with a GPT-4o reference (which rated highest), with no non-fine-tuned version of the model, so it cannot show that fine-tuning caused the improvement. [→ Nwogo 2026](#nwogo-2026)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A.
 
 `q2 · i?` · `design · r2`
 
-Human-centred cultural and linguistic evaluation: a structured survey was distributed to 50 native Nigerian Pidgin speakers via Google Forms, "yielding 18 valid responses", who rated fluency, coherence, relevance and cultural appropriateness on a five-point Likert scale.
+Human-centred cultural and linguistic evaluation: a structured survey was distributed to 50 native Nigerian Pidgin speakers via Google Forms, "yielding 18 valid responses", who rated fluency, coherence, relevance and cultural appropriateness on a five-point Likert scale. Responses to 14 prompts came from the fine-tuned model at three quantisation levels (Q4, Q5, Q8) and from OpenAI GPT-4o as a reference; no non-fine-tuned model was rated, so the comparison in the authors' sentence below was not tested.
 
 > "Across responses, participants consistently rated outputs from the fine-tuned models as understandable and context- aware, confirming that fine-tuning on Nigerian Pidgin data improves linguistic alignment relative to non-adapted base- lines."
 

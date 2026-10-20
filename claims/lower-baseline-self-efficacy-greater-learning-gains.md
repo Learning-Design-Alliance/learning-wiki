@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format
-description: Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format
+title: Students with lower baseline self-efficacy achieved greater learning gains in both practice formats, though the relationship varied with favorability toward each format
+description: Students with lower baseline self-efficacy achieved greater learning gains in both practice formats, though the relationship varied with favorability toward each format
 id: lower-baseline-self-efficacy-greater-learning-gains
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format
+# Students with lower baseline self-efficacy achieved greater learning gains in both practice formats, though the relationship varied with favorability toward each format
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
@@ -35,7 +35,7 @@ Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. 
 
 `q2 · i?` · `causal · r2`
 
-Same linear mixed-effects model of learning gains in the 54-student within-subject study. Baseline self-efficacy was a significant negative predictor: "t(98.40) =−2.14,p=.035". No effect size printed; impact null.
+Same linear mixed-effects model of learning gains in the 54-student within-subject study. Baseline self-efficacy was a significant negative predictor: "t(98.40) =−2.14,p=.035". The practice format × baseline self-efficacy interaction was not significant (p = .681), but the three-way interaction with favorability was (t(99.8) = −2.58, p = .011), so the relationship varied with favorability and format. Baseline self-efficacy was measured, not assigned, so this is an association. No effect size is printed, so impact is coded `i?`; that is not a null finding.
 
 > "Learning gain was also significantly associated with students' baseline self-efficacy,t(98.40) =−2.14,p=.035, showing that students with lower initial self-efficacy showed greater improvement."
 

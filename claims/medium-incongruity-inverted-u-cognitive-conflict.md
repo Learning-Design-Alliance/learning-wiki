@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
-`q1 i?` Following Hunt (1965), the article proposes an inverted u-shaped relation between incongruity and cognitive conflict: very small or very large incongruity produces no equilibration, while medium incongruity motivates assimilation or accommodation. [→ Ulrike Cress & Joachim Kimmerle 2008](#ulrike-cress-joachim-kimmerle-2008)
+`q1 i?` Following Hunt (1965), the article proposes an inverted u-shaped relation between incongruity and cognitive conflict: very small incongruity leaves no need for equilibration, very large incongruity reduces that need because the wiki and the learner's knowledge are hardly perceived as one topic, and medium incongruity motivates assimilation or accommodation. [→ Ulrike Cress & Joachim Kimmerle 2008](#ulrike-cress-joachim-kimmerle-2008)
 
 ## Evidence
 

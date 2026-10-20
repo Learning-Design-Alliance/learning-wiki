@@ -70,7 +70,7 @@ Contingent scaffolding adjusts the type and level of support in real time based 
 
 `q4 i?` Among forms of dynamic assessment, scaffolding (contingent prompting and mediation) is more effective than coaching but less effective than explicit strategy training for cognitive tasks. [→ Swanson and Lussier 2001](#swanson-and-lussier-2001)
 
-`q3 i?` Contingency, fading, and transfer of responsibility are the three defining characteristics of scaffolding in the literature; they are closely intertwined, and contingent support tends to produce fading and handover of responsibility automatically as learner competence grows. [→ van de Pol et al. 2010](#van-de-pol-et-al-2010)
+`q3 i?` Contingency, fading, and transfer of responsibility are the three defining characteristics of scaffolding in the literature; they are closely intertwined, and the review describes responsibility as being gradually transferred to the learner via contingent fading; it does not test whether contingent support produces fading or transfer. [→ van de Pol et al. 2010](#van-de-pol-et-al-2010)
 
 ## Evidence
 
@@ -106,7 +106,7 @@ van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–st
 
 `q3 · systematic review of 66 articles (8 effectiveness studies)` · `i? · the abstract prints no effect size; the full text may` · `n=66 articles` · `review · r2`
 
-A comprehensive review of scaffolding research from 1998–2009. Identifies contingency, fading, and transfer of responsibility as the three defining characteristics of scaffolding — not as independently ranked causal variables, but as interlocking features: contingent teaching tends to produce fading, which produces transfer of responsibility. The review finds that scaffolding is generally effective, but cautions that the evidence base is thin (only 8 quasi-experimental studies), measurement is inconsistent across studies, and most evidence comes from one-to-one tutoring rather than classroom settings. Importantly, the review does not claim contingency is more effective than fading or transfer of responsibility — all three are treated as necessary features of the same process.
+A comprehensive review of scaffolding research from 1998–2009. Identifies contingency, fading, and transfer of responsibility as the three defining characteristics of scaffolding — not as independently ranked causal variables, but as interlocking features: responsibility is gradually transferred to the learner via contingent fading. The review finds that scaffolding is generally effective, but cautions that the evidence base is thin (only eight effectiveness studies, of mixed experimental, quasi-experimental and correlational designs, plus one meta-analysis), measurement is inconsistent across studies, and most evidence comes from one-to-one tutoring rather than classroom settings. Importantly, the review does not claim contingency is more effective than fading or transfer of responsibility — all three are treated as necessary features of the same process.
 
 ### Wood et al. 1976
 

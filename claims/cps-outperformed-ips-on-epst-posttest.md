@@ -35,7 +35,7 @@ Jiun-Wei Guo · Hsiao-Ching She · Meng-Jun Chen · Pei-Yi Tsai. (2023). Can CPS
 
 `q3 · i?` · `causal · r2`
 
-A two-factor ANCOVA on posttest EPST scores of 109 8th graders (CPS N=56, IPS N=53), with pretest as covariate, showed "students’ EPST posttest performance was significantly affected by the type of problem-solving"; the CPS group outperformed the IPS group. No standardised effect size beyond partial η² is printed for this contrast in a directly interpretable form.
+A two-factor ANCOVA on posttest EPST scores of 109 8th graders (CPS N=56, IPS N=53), with pretest as covariate, showed "students’ EPST posttest performance was significantly affected by the type of problem-solving"; the CPS group outperformed the IPS group. The prose prints partial η² = 0.51, but Table 1 gives 0.051 (F = 5.55, p = .020), which matches the article's label of a small effect.
 
 > "students’ EPST posttest performance was significantly affected by the type of problem-solving (F = 5.55, p < 0.05, partial η2 = 0.51, effect size = small)"
 

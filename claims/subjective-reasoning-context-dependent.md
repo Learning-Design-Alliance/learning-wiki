@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
-`q2 i?` About 60% of PSMTs (41 of 68) reasoned subjectively in the giving-birth context, but no subjective reasoning appeared in the die task; in this one comparison of two items, the realistic context elicited subjective reasoning and the die task did not (other realistic contexts and randomising devices were not tested). [→ Elbehary 2021](#elbehary-2021)
+`q2 i?` About 60% of PSMTs (41 of 68) reasoned subjectively in the giving-birth context, but no subjective reasoning appeared in the die task; in this qualitative comparison of responses to two items, subjective reasoning appeared in the realistic-context item and not in the die item, which the author reads as suggesting the fruitfulness of realistic contexts for displaying subjective probability (other realistic contexts and randomising devices were not tested). [→ Elbehary 2021](#elbehary-2021)
 
 ## Evidence
 

@@ -33,9 +33,9 @@ sources:
 
 Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 
-`q3 · i? · only a partial eta squared (.04) for the interaction is printed; no standardised mean difference` · `causal · r2`
+`q3 · i? · only an eta squared (.04, not labelled as partial) for the interaction is printed; no standardised mean difference` · `causal · r2`
 
-In a 2 x 2 x 2 factorial experiment with college students solving simultaneous equations, the ANOVA found "a significant three-way between-subjects effects by posttest (F1, 107 = 4.61, p < .05, ŋ2 = .04)", and "no significant three-way interaction for types of cognitive load was detected".
+In a 2 x 2 x 2 factorial design with college students solving simultaneous equations (worked-example type and task difficulty randomly assigned; prior knowledge measured and categorised, not manipulated), the ANOVA found "a significant three-way between-subjects effects by posttest (F1, 107 = 4.61, p < .05, ŋ2 = .04)", and "no significant three-way interaction for types of cognitive load was detected".
 
 > "There was a significant three-way between-subjects effects by posttest (F1, 107 = 4.61, p < .05, ŋ2 = .04) (Figure 2), but no significant three-way interaction for types of cognitive load was detected."
 

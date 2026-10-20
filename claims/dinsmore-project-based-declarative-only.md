@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Participation in a collaborative, project-based engineering design course improved declarative knowledge but not procedural or principled knowledge or personal interest
-description: Participation in a collaborative, project-based engineering design course improved declarative knowledge but not procedural or principled knowledge or personal interest
+title: Students in a collaborative, project-based engineering design course gained declarative knowledge but not procedural or principled knowledge or personal interest
+description: Students in a collaborative, project-based engineering design course gained declarative knowledge but not procedural or principled knowledge or personal interest
 id: dinsmore-project-based-declarative-only
 aliases: [project-based-course-declarative-gain-only]
 status: review
@@ -28,14 +28,14 @@ sources:
     rigour: 2
 ---
 
-# Participation in a collaborative, project-based engineering design course improved declarative knowledge but not procedural or principled knowledge or personal interest
+# Students in a collaborative, project-based engineering design course gained declarative knowledge but not procedural or principled knowledge or personal interest
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 review `r2`, 1 theoretical `r3` · `q2`
 
 ## Subclaims
 
-`q2 i?` A collaborative, project-based engineering design course produced significant effects on students' declarative knowledge, but not on procedural or principled knowledge, nor on personal interest in engineering. [→ Loyens 2008](#loyens-2008)
+`q2 i?` A special-issue introduction reports that Dinsmore and colleagues, studying students in a collaborative, project-based engineering design course, found significant effects for declarative knowledge but not for procedural or principled knowledge, nor for personal interest in engineering; the summary gives neither the direction of the effect nor the design. [→ Loyens 2008](#loyens-2008)
 
 `q2 i?` Contrary to expectations, Dinsmore and colleagues found some gain in declarative knowledge from a project-based engineering design course, while procedural and principled knowledge and personal interest did not change. [→ Remy M. J. P. Rikers 2008](#remy-m-j-p-rikers-2008)
 
@@ -47,7 +47,7 @@ Loyens, S. M. M., & Gijbels, D. (2008). Understanding the effects of constructiv
 
 `q2 · i?` · `theoretical · r3`
 
-Summary of the Dinsmore, Alexander, and Loughlin study scrutinizing the effects of students' participation in a collaborative, project-based engineering design course on domain knowledge, interests, and strategic processing. Outcomes diverged by knowledge type; no effect sizes are printed.
+The special-issue introduction's summary of the Dinsmore, Alexander, and Loughlin study of students' participation in a collaborative, project-based engineering design course and their domain knowledge, interests, and strategic processing. Outcomes diverged by knowledge type; the summary does not state the direction of the declarative-knowledge effect or how it was established, and prints no effect sizes.
 
 > "Signiﬁcant effects were found for students’ declarative knowledge, but not for students’ procedural or principled knowledge, nor for students’ personal interest in the domain of engineering"
 

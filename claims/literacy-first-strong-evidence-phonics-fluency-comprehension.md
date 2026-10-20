@@ -35,7 +35,7 @@ Porowski, A., Tamang, S., Westall, J., Brown, K., & Bogia, M. (2024). Evidence a
 
 `q3 · i?` · `review · r2`
 
-Systematic review under WWC 5.0 standards reports that Literacy First, a K–2 tutoring program offering "one- on-one tutoring offered in both English and Spanish for 20–30 minutes each day", showed strong ESSA evidence in three domains; the EGM shows improvement indices of +13, +8, and +14 for those domains and +8 (uncertain) for literacy achievement.
+Systematic review under WWC 5.0 standards reports that Literacy First, a K–2 tutoring program offering "one- on-one tutoring offered in both English and Spanish for 20–30 minutes each day", showed strong ESSA evidence in three domains; the EGM shows improvement indices of +13 for phonics and related alphabetics, +14 for reading fluency and +8 for reading comprehension, and +8 (uncertain) for literacy achievement.
 
 > "This intervention had strong evidence of positive effects in phonics and related alphabetics, reading fluency, and reading comprehension."
 

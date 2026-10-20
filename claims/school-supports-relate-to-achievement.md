@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · qualitative `r?` · `q3`
 
 ## Subclaims
-`q3 i?` Academic press, social support, interactive teaching practices, and instructional program coherence are each significantly related to student academic achievement gains. [→ Smylie 2006](#smylie-2006)
+`q3 i?` Chicago Annenberg studies relate three supports to student achievement gains: academic press and social support together (gains where students experienced high levels of both, not separate effects of each), interactive teaching practices, and instructional program coherence. [→ Smylie 2006](#smylie-2006)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Smylie, Mark A., and Stacy A. Wenzel. (2006). Promoting Instructional Improvemen
 
 `q3 · i?` · `qualitative · r?`
 
-Chicago Annenberg Research Project studies used citywide teacher and student surveys with ITBS scores. Lee, Perry, and Smith found gains where students experienced both high support and high academic press; Smith, Lee, and Newmann found greater gains with more interactive teaching; Newmann et al. found coherence related to improvement.
+Chicago Annenberg Research Project studies of ITBS gains, as summarised in this report. Lee, Perry, and Smith, using citywide teacher and student surveys with ITBS scores, found gains where students experienced both high support and high academic press; Smith, Lee, and Newmann found greater gains with more interactive teaching; Newmann et al., using ITBS scores and teacher survey data, found coherence related to improvement.
 
 > "These studies show that such supports are related significantly to student academic achievement."
 

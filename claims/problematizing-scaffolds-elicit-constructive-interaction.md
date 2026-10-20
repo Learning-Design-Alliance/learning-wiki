@@ -35,7 +35,7 @@ Molenaar, I., Chiu, M. M., Sleegers, P., & van Boxtel, C. (2011). Scaffolding of
 
 `q2 · i?` · `causal · r2`
 
-Qualitative discourse analysis of two representative excerpts of triad responses to scaffolds; illustrative, not statistical, so impact is null. The authors call the difference qualitatively different student involvement.
+Qualitative discourse analysis of two representative excerpts of triad responses to scaffolds; illustrative, not statistical, so no effect size is coded for this finding (`i?`). The study's separate multilevel analyses did find effects: both scaffold types led to more metacognitive knowledge than the control, mediated by metacognitive activities, and only problematizing scaffolds led to more domain knowledge. The authors call the difference qualitatively different student involvement.
 
 > "A structuring scaffold is typically followed by either the implementation of the scaffold example or a group discussion elaborating on the example. On the other hand, problematizing scaffolds elicit student activities, leading the group to elaborate, share knowledge, resolve a conflict or co-construct new metacognitive activities."
 

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Fiber crafting develops proportional reasoning through nested, personally-defined units
+title: Fiber crafting can engage proportional reasoning through nested, personally-defined units
 id: fiber-crafting-develops-proportional-reasoning-through-unitizing
 status: review
 generated:
@@ -19,19 +19,19 @@ sources:
     rigour: "?"
 ---
 
-# Fiber crafting develops proportional reasoning through nested, personally-defined units
+# Fiber crafting can engage proportional reasoning through nested, personally-defined units
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2` · n=3 focal youth (ages 9-11) selected from a 17-participant, 3-day public-library summer camp
 
-Three youth engaging in knitting, crochet, and fabric pleating each developed and used multiplicative proportional reasoning specific to their craft's material structure — gauge in knitting, sector growth in crochet, and hidden-layer ratios in pleating — with material properties (tension, needle size, fabric spring-back) actively shaping what unit each child defined and discovered.
+Three youth engaging in knitting, crochet, and fabric pleating each engaged with multiplicative proportional relationships specific to their craft's material structure — gauge in knitting, sector growth in crochet, and hidden-layer ratios in pleating — with material properties (tension, needle size, fabric spring-back) actively shaping what unit each child defined and discovered.
 
 ## Subclaims
-`q2 i?` A 10-year-old knitter, after unraveling and restarting her project 12 times, discovered her stitch height did not equal her stitch width (i.e., her personal gauge was not 1:1), revised her row-count plan from 10 to 8 rows accordingly, and reframed the resulting extra dimension as an intentional design feature (a bag flap) rather than a mistake to fix. [→ Peppler et al. 2025](#peppler-et-al-2025)
+`q2 i?` A 10-year-old knitter, after unraveling and restarting her project 12 times, had planned squares of ten stitches by ten rows on the assumption that a stitch is as tall as it is wide; her implemented project had eight rows instead of the planned ten and still came out as a rectangle rather than a square, and instead of redoing her design she adjusted it to the physical outcome, describing the extra dimension as a bag flap rather than a mistake to fix. [→ Peppler et al. 2025](#peppler-et-al-2025)
 
 `q2 i?` A 9-year-old crocheter distributing stitches across a magic-circle foundation to keep the shape flat (target ratio 1:6, 2:12, 3:18 stitches per row) produced an uneven distribution in one row (five double-stitches instead of six), then corrected the resulting shape by deliberately loosening the tension on one stitch — compensating for a proportional error using material tension rather than recounting stitches. [→ Peppler et al. 2025](#peppler-et-al-2025)
 
-`q2 i?` An 11-year-old pleater produced six fabric segments corresponding to two pleats, articulating the underlying 3:1 unfolded-to-folded ratio (equivalently 6:2 segments) via the formula L=l+2np, and only succeeded in fixing this ratio into a persistent, buildable pattern unit after inventing ironing as a fixation strategy when pinning alone failed to hold the folds. [→ Peppler et al. 2025](#peppler-et-al-2025)
+`q2 i?` An 11-year-old pleater produced six fabric segments forming two pleats, a structure the researchers describe as a 3:1 unfolded-to-folded ratio (equivalently 6:2 segments) and later expressed as the formula L=l+2np (the authors state this notation was not part of the camp experience); she made the folds hold only after turning to ironing, which a facilitator introduced, when pinning alone failed to hold them. [→ Peppler et al. 2025](#peppler-et-al-2025)
 
 ## Evidence
 

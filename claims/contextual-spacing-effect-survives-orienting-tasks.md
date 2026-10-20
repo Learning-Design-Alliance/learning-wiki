@@ -1,7 +1,7 @@
 ---
 type: claim
-title: With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations
-description: With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations
+title: With incidental orienting tasks that focus processing on individual words and give no incentive to form associations, distributed presentations produce better free recall than massed presentations
+description: With incidental orienting tasks that focus processing on individual words and give no incentive to form associations, distributed presentations produce better free recall than massed presentations
 id: contextual-spacing-effect-survives-orienting-tasks
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: "?"
 ---
 
-# With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations
+# With incidental orienting tasks that focus processing on individual words and give no incentive to form associations, distributed presentations produce better free recall than massed presentations
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
-`q2 i?` In incidental learning with orienting tasks that preclude association formation, free recall after distributed presentations was superior to recall after massed presentations, supporting a contextual-component spacing effect. [→ Glenberg 1979](#glenberg-1979)
+`q2 i?` In incidental learning with orienting tasks that forced processing of individual words and gave no incentive to form associations, free recall after distributed presentations was superior to recall after massed presentations, supporting a contextual-component spacing effect. [→ Glenberg 1979](#glenberg-1979)
 
 ## Evidence
 

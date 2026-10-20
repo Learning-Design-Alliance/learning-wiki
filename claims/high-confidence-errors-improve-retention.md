@@ -1,6 +1,6 @@
 ---
 type: claim
-title: High-confidence errors lead to better retention after correction than low-confidence errors.
+title: High-confidence errors are more likely than low-confidence errors to be corrected and retained after feedback.
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -28,7 +28,7 @@ id: high-confidence-errors-improve-retention
 evidence_strength: strong
 ---
 
-# High-confidence errors lead to better retention after correction than low-confidence errors.
+# High-confidence errors are more likely than low-confidence errors to be corrected and retained after feedback.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 review `r?` · `q2`–`q3`

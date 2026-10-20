@@ -11,16 +11,16 @@ evidence_strength: moderate
 sources:
   - id: gupta-2020
     resource: "https://doi.org/10.20897/ejsteme/9252"
-    title: "Zheng, R. Z., & Gupta, U. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
-    author: "Zheng, R. Z., & Gupta, U."
+    title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
+    author: "Gupta, U., & Zheng, R. Z."
     q: 3
     i: "?"
     kind: causal
     rigour: 2
   - id: gupta-2020-2
     resource: "https://doi.org/10.20897/ejsteme/9252"
-    title: "Zheng, R. Z., & Gupta, U. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
-    author: "Zheng, R. Z., & Gupta, U."
+    title: "Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252"
+    author: "Gupta, U., & Zheng, R. Z."
     q: 3
     i: "?"
     kind: causal
@@ -40,17 +40,17 @@ sources:
 
 ### Gupta 2020
 
-Zheng, R. Z., & Gupta, U. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
+Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 
-`q3 · i? · only a partial eta squared (.04) for the interaction is printed; no standardised mean difference` · `causal · r2`
+`q3 · i? · only an eta squared (.04, not labelled as partial) for the interaction is printed; no standardised mean difference` · `causal · r2`
 
-In a 2 x 2 x 2 factorial experiment with college students solving simultaneous equations, with cognitive load measured by Leppink et al.'s self-report CLM, "a significant interaction by germane cognitive load (F1, 107 = 4.72, p < .05, ŋ2 = .04) was found between prior knowledge and worked example".
+In a 2 x 2 x 2 factorial design with college students solving simultaneous equations (worked-example type and task difficulty randomly assigned; prior knowledge measured and categorised, not manipulated), with cognitive load measured by Leppink et al.'s self-report CLM, "a significant interaction by germane cognitive load (F1, 107 = 4.72, p < .05, ŋ2 = .04) was found between prior knowledge and worked example".
 
 > "However, a significant interaction by germane cognitive load (F1, 107 = 4.72, p < .05, ŋ2 = .04) was found between prior knowledge and worked example, suggesting germane cognitive load may serve as a valid indicator for the cognitive process of high - and low-prior knowledge learners when studying with worked examples."
 
 ### Gupta 2020 (2)
 
-Zheng, R. Z., & Gupta, U. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
+Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of Motivation and the Interaction Among Prior Knowledge, Worked Examples, and Task Difficulty. European Journal of STEM Education, 5(1), 05. https://doi.org/10.20897/ejsteme/9252
 
 `q3 · i?` · `causal · r2`
 
