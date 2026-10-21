@@ -43,7 +43,7 @@ Small-scale random-effects meta-analysis of the study's eight delayed final test
 
 
 ## Related Claims
-- [Testing via identical problem solving after studying identical worked examples does not enhance delayed test performance compared with restudying identical examples (Experiment 2)](exp2-no-testing-effect-identical-problems.md) — a narrower finding that bears on this claim
+- [Testing via identical problem solving after studying identical worked examples did not significantly improve delayed test performance compared with restudying identical examples (Experiment 2)](exp2-no-testing-effect-identical-problems.md) — a narrower finding that bears on this claim
 - [Testing after studying four worked examples does not enhance delayed test performance compared with restudy among vocational education students in probability calculation (Experiment 4)](exp4-no-testing-effect-vocational-probability.md) — a narrower finding that bears on this claim
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](testing-effect-robust-versus-restudy-control.md) — a broader claim this one bears on
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on

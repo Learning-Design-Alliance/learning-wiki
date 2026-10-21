@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Across eight experiments with varied problem-solving tasks, student populations and practice test types, practice testing after worked example study showed no retention benefit over restudy on delayed final tests. [→ van Gog 2015](#van-gog-2015)
+`q2 i?` Across eight experiments with varied problem-solving tasks, student populations and practice test types, practice testing after worked example study showed no testing effect over restudy; two of the experiments (Leahy et al., experiments 1 and 2) used only an immediate final test, where restudy came out ahead. [→ van Gog 2015](#van-gog-2015)
 
 ## Evidence
 

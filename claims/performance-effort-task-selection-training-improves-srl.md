@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but does not transfer to a new problem domain
-description: Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but does not transfer to a new problem...
+title: Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but one follow-up study found no transfer to a new problem domain
+description: Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but one follow-up study found no transfer to a new problem domain
 id: performance-effort-task-selection-training-improves-srl
 status: review
 generated:
@@ -35,7 +35,7 @@ sources:
     rigour: 2
 ---
 
-# Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but does not transfer to a new problem domain
+# Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but one follow-up study found no transfer to a new problem domain
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q3`
@@ -43,7 +43,7 @@ sources:
 ## Subclaims
 `q3 i?` Video-modeling training on a performance-plus-effort task selection rule enhanced self-assessment accuracy and task selection accuracy. [→ Tamara van Gog & Vincent Hoogerheide & Milou van Harsel 2020](#tamara-van-gog-vincent-hoogerheide-milou-van-harsel-2020)
 `q3 i?` Trained students outperformed control students on posttest problems after a self-regulated learning phase, a finding replicated with a more general heuristic. [→ Tamara van Gog & Vincent Hoogerheide & Milou van Harsel 2020 (2)](#tamara-van-gog-vincent-hoogerheide-milou-van-harsel-2020-2)
-`q3 i?` Training in a biology problem context did not improve posttest performance on math problems in a different domain. [→ Tamara van Gog & Vincent Hoogerheide & Milou van Harsel 2020 (3)](#tamara-van-gog-vincent-hoogerheide-milou-van-harsel-2020-3)
+`q3 i?` In one follow-up study, training in a biology problem context did not improve posttest performance on math problems in a different domain. [→ Tamara van Gog & Vincent Hoogerheide & Milou van Harsel 2020 (3)](#tamara-van-gog-vincent-hoogerheide-milou-van-harsel-2020-3)
 
 ## Evidence
 
@@ -73,7 +73,7 @@ Tamara van Gog & Vincent Hoogerheide & Milou van Harsel. (2020). The Role of Men
 
 `q3 · i?` · `review · r2`
 
-The review reports the Raaijmakers et al. (2018a) follow-up: biology-trained students "did not show better math posttest performance than students who did not receive the training" on linear equation problems. No effect size is printed; equivalence was not tested.
+The review reports the Raaijmakers et al. (2018a) follow-up: biology-trained students "did not show better math posttest performance than students who did not receive the training" on linear equation problems. No effect size is printed; equivalence was not tested. The review itself says "it is as yet unclear" whether the training effects can transfer to self-regulated learning in other problem contexts.
 
 > "students who first received the self-assessment and task selection training in the context of the biology problems and then had to engage in a self-regulated learning with math problems (linear equation problems consisting of 3 steps; organized in a database with 5 complexity and 2 support levels) did not show better math posttest perfor- mance than students who did not receive the training."
 

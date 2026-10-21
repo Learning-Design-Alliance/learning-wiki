@@ -43,7 +43,7 @@ Experiment 3 mental effort ratings (Paas 9-point scale) during the testing/restu
 
 
 ## Related Claims
-- [Testing via identical problem solving after studying identical worked examples does not enhance delayed test performance compared with restudying identical examples (Experiment 2)](exp2-no-testing-effect-identical-problems.md) — related
+- [Testing via identical problem solving after studying identical worked examples did not significantly improve delayed test performance compared with restudying identical examples (Experiment 2)](exp2-no-testing-effect-identical-problems.md) — related
 - [Testing or restudying with isomorphic tasks yields better delayed test performance than with identical tasks (Experiment 3)](exp3-isomorphic-task-format-advantage.md) — related
 - [Testing after studying four worked examples is not more effective for delayed test performance than restudying examples, with isomorphic or identical tasks (Experiment 3)](exp3-no-testing-effect-after-four-examples.md) — related
 - [Testing after studying four worked examples does not enhance delayed test performance compared with restudy among vocational education students in probability calculation (Experiment 4)](exp4-no-testing-effect-vocational-probability.md) — related

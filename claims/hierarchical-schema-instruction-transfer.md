@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
-`q2 i?` Hierarchically organized schema-based instruction proceeding from general to detailed descriptions produced better transfer posttest performance than single-level schema-based and conventional nonschema-based instruction in novices. [→ Slava Kalyuga 2010](#slava-kalyuga-2010)
+`q2 i?` In a study by Kalyuga and Hanham (in press at the time) that this theoretical article reports, hierarchically organized schema-based instruction proceeding from general to detailed descriptions produced better transfer posttest performance than single-level schema-based and conventional nonschema-based instruction in novices; no statistics are given. [→ Slava Kalyuga 2010](#slava-kalyuga-2010)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Slava Kalyuga, Alexander Renkl, Fred Paas. (2010). Facilitating Flexible Problem
 
 `q2 · i?` · `theoretical · r3`
 
-Study of schema-based instruction in operation of the air-conditioning system with 45 novice undergraduate students assigned to hierarchical schema-based, single-level schema-based, or control conditions; retention and transfer posttests plus verbal protocols were collected. The hierarchical group "outperformed the single-level and control groups on transfer posttest problems."
+This theoretical article does not run an experiment of its own; it reports a study by Kalyuga and Hanham (cited as in press) of schema-based instruction in operation of the air-conditioning system with 45 novice undergraduate students assigned to hierarchical schema-based, single-level schema-based, or control conditions; retention and transfer posttests plus verbal protocols were collected. As the article reports it, the hierarchical group "outperformed the single-level and control groups on transfer posttest problems."
 
 > "Results indicated that the hierarchical schema-based instruction group outperformed the single-level and control groups on transfer posttest problems. The gradual introduction of the supporting schematic framework in a top-down way enhanced transfer performance in this study."
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Testing via identical problem solving after studying identical worked examples does not enhance delayed test performance compared with restudying identical examples (Experiment 2)
-description: Testing via identical problem solving after studying identical worked examples does not enhance delayed test performance compared with restudying identical examples (Experiment 2)
+title: Testing via identical problem solving after studying identical worked examples did not significantly improve delayed test performance compared with restudying identical examples (Experiment 2)
+description: Testing via identical problem solving after studying identical worked examples did not significantly improve delayed test performance compared with restudying identical examples (Experiment 2)
 id: exp2-no-testing-effect-identical-problems
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Testing via identical problem solving after studying identical worked examples does not enhance delayed test performance compared with restudying identical examples (Experiment 2)
+# Testing via identical problem solving after studying identical worked examples did not significantly improve delayed test performance compared with restudying identical examples (Experiment 2)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
@@ -35,7 +35,7 @@ Tamara van Gog & Liesbeth Kester & Kim Dirkx & Vincent Hoogerheide & Joris Boerb
 
 `q3 · i?` · `causal · r2`
 
-Experiment 2, a randomized 2x2x2 between-subjects experiment with 124 Belgian university students; the restudy condition used identical examples and the testing condition identical problems. The delayed-test ANOVA "showed no main effect of instruction, F(1,115)=1.35, p=0.247, ηp2=0.012"; final test format (identical vs. isomorphic) also showed no significant main effect.
+Experiment 2, a randomized 2x2x2 between-subjects experiment with 124 Belgian university students; the restudy condition used identical examples and the testing condition identical problems. The delayed-test ANOVA "showed no main effect of instruction, F(1,115)=1.35, p=0.247, ηp2=0.012"; final test format (identical vs. isomorphic) also showed no significant main effect. The null result shows no detected benefit of testing; equivalence was not tested.
 
 > "showed no main effect of instruction, F(1,115)=1.35, p=0.247, ηp2=0.012 and a significant main effect of final test moment, F(1,115)=14.13, p<0.001, ηp2=0.109"
 

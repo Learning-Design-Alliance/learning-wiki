@@ -43,7 +43,7 @@ Experiment 3, a randomized 2x2 experiment with 129 Belgian university students w
 
 
 ## Related Claims
-- [Testing via identical problem solving after studying identical worked examples does not enhance delayed test performance compared with restudying identical examples (Experiment 2)](exp2-no-testing-effect-identical-problems.md) — related
+- [Testing via identical problem solving after studying identical worked examples did not significantly improve delayed test performance compared with restudying identical examples (Experiment 2)](exp2-no-testing-effect-identical-problems.md) — related
 - [Testing or restudying with isomorphic tasks yields better delayed test performance than with identical tasks (Experiment 3)](exp3-isomorphic-task-format-advantage.md) — related
 - [Testing after worked example study invests more mental effort than restudying examples, so restudy is more instructionally efficient at equal delayed performance (Experiment 3)](testing-more-effortful-than-restudy-exp3.md) — related
 - [Testing after studying four worked examples does not enhance delayed test performance compared with restudy among vocational education students in probability calculation (Experiment 4)](exp4-no-testing-effect-vocational-probability.md) — related

@@ -44,7 +44,7 @@ Experiment 4, a randomized two-condition experiment with 75 vocational education
 
 ## Related Claims
 - [Testing after studying four worked examples is not more effective for delayed test performance than restudying examples, with isomorphic or identical tasks (Experiment 3)](exp3-no-testing-effect-after-four-examples.md) — related
-- [Testing via identical problem solving after studying identical worked examples does not enhance delayed test performance compared with restudying identical examples (Experiment 2)](exp2-no-testing-effect-identical-problems.md) — related
+- [Testing via identical problem solving after studying identical worked examples did not significantly improve delayed test performance compared with restudying identical examples (Experiment 2)](exp2-no-testing-effect-identical-problems.md) — related
 - [Testing after worked example study invests more mental effort than restudying examples, so restudy is more instructionally efficient at equal delayed performance (Experiment 3)](testing-more-effortful-than-restudy-exp3.md) — related
 - [Testing or restudying with isomorphic tasks yields better delayed test performance than with identical tasks (Experiment 3)](exp3-isomorphic-task-format-advantage.md) — related
 - [No testing effect was found for acquiring problem-solving skills through worked example study across eight experiments](testing-effect-absent-worked-example-study.md) — a broader claim this one bears on

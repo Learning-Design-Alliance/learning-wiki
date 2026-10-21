@@ -67561,12 +67561,12 @@
 "type":"claim"
 },
 {
-"description":"Testing via identical problem solving after studying identical worked examples does not enhance delayed test performance compared with restudying identical examples (Experiment 2)",
+"description":"Testing via identical problem solving after studying identical worked examples did not significantly improve delayed test performance compared with restudying identical examples (Experiment 2)",
 "evidence_strength":"moderate",
 "id":"exp2-no-testing-effect-identical-problems",
 "path":"claims/exp2-no-testing-effect-identical-problems.md",
 "status":"review",
-"title":"Testing via identical problem solving after studying identical worked examples does not enhance delayed test performance compared with restudying identical examples (Experiment 2)",
+"title":"Testing via identical problem solving after studying identical worked examples did not significantly improve delayed test performance compared with restudying identical examples (Experiment 2)",
 "type":"claim"
 },
 {
@@ -143926,12 +143926,12 @@
 "type":"claim"
 },
 {
-"description":"Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but does not transfer to a new problem...",
+"description":"Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but one follow-up study found no transfer to a new problem domain",
 "evidence_strength":"mixed",
 "id":"performance-effort-task-selection-training-improves-srl",
 "path":"claims/performance-effort-task-selection-training-improves-srl.md",
 "status":"review",
-"title":"Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but does not transfer to a new problem domain",
+"title":"Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but one follow-up study found no transfer to a new problem domain",
 "type":"claim"
 },
 {
