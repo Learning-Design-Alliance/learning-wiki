@@ -24,7 +24,7 @@ sources:
 # Modeling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (21 for, 7 mixed) · 40 studies (13 causal, 7 review, 5 quant-synthesis, 5 qualitative, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 4 of 40 report an effect size · 18 claims rest on one study
+> **Evidence** · 30 claims (23 for, 7 mixed) · 41 studies (13 causal, 8 review, 5 quant-synthesis, 5 qualitative, 4 theoretical, 3 associational, 3 design), `q1`–`q4` · 4 of 41 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,8 @@ Claims that mention modelling but bear on this page little or not at all:
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [Exposure to a video model improves trainee teachers’ skill in using questioning for retrieval by 0.80 SD relative to restudying the evidence summary](../claims/video-model-improves-retrieval-questioning-skill.md) [+M] — attached 2026-10-18 from Sam Sims et al. (2026), which proposed "Incorporate observable video models when training early-career teachers in evidence-based teaching practices"; tests this page's relationship.
 - [Peer-expert modeling videos interspersed with instructional guidance produce significant medium-to-large positive effects on IPS performance compared to practice-only groups](../claims/peer-expert-modeling-improves-ips-performance.md) [+W] — attached 2026-10-20 from Boetje et al. (2026), which proposed "Provide opportunities for students to observe short fragments of peer-expert models interspersed with instructional guidance to increase IPS performance"; tests this page's relationship.
+- [Learner-controlled pacing of a video model was heavily used and associated with better understanding of underlying processes and less practice time, especially as task difficulty increased](../claims/pacing-control-video-model-understanding.md) [+W] — attached 2026-10-21 from Wouters et al. (2007), which proposed "Guidelines for interactivity in video-based modeling mapped to cognitive processes and skill-acquisition stages"; tests this page's relationship.
+- [Observers of peer models who made and corrected key errors learned to identify and eliminate such errors, whereas observers of expert models missed the error-correction information](../claims/peer-model-error-correction-observers.md) [+W] — attached 2026-10-21 from Wouters et al. (2007), which proposed "Guidelines for interactivity in video-based modeling mapped to cognitive processes and skill-acquisition stages"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

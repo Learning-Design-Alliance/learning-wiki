@@ -46,6 +46,7 @@ The review recommends methodological approaches that integrate different data ty
 
 - [Track interactional resources across levels as a research approach for CSCL](track-interactional-resources-across-levels.md)
 - [Use multimodal data channels combining subjective and objective measures to overcome single-channel constraints in SSRL research](multimodal-multichannel-ssrl-measurement.md)
+- [Research agenda: investigate affective dynamics with within-person, longitudinal, and multi-channel methods](affective-dynamics-research-agenda-curiosity-interest.md)
 
 ## Examples
 -

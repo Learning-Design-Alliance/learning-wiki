@@ -55,3 +55,4 @@ Primary outcome domain C in the within-participants comparison of 20 students; W
 - [Students trained with MPathic-VR report significantly more positive attitudes toward their learning experience than computer-based learning students](mpathic-vr-more-positive-attitudes.md) — related
 - [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — reports the opposite
 - [Second-year medical students improve their intercultural and interprofessional communication performance between first and second run-throughs of MPathic-VR scenarios](mpathic-vr-repeat-runthrough-improvement.md) — related
+- [Corrective feedback plus either GLA significantly improved students' safety behavior in VR, with no difference between re-experiencing and self-explaining](gla-corrective-feedback-improve-safety-vr.md) — related

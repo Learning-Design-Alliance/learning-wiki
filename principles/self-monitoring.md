@@ -30,7 +30,7 @@ sources:
 # Self-monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (9 for, 13 mixed, 3 against) · 28 studies (10 causal, 8 quant-synthesis, 4 review, 3 associational, 3 theoretical), `q1`–`q4` · 6 of 28 report an effect size · 16 claims rest on one study
+> **Evidence** · 26 claims (10 for, 13 mixed, 3 against) · 29 studies (11 causal, 8 quant-synthesis, 4 review, 3 associational, 3 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,7 @@ None of these measures whether a self-monitoring habit persists after prompts ar
 - [Fluent Illusions Mislead Self Assessment](../claims/fluent-illusions-mislead-self-assessment.md) [-M]: carries the same two evidence entries ([Carpenter et al. 2013](https://doi.org/10.3758/s13423-013-0442-z); [Rhodes & Castel 2008](https://doi.org/10.1037/a0013684)) as [Judgments of learning are often inaccurate](../claims/fluent-illusions-mislead-self-assessment.md) [-M], which is cited in the model above; a likely duplicate. Its own entries do not support the "misdirects further study" half of its title.
 - [Providing grade estimates after each exam improved secondary students' calibration accuracy over a school year, regardless of the level of reflection support](../claims/grade-estimates-improve-calibration-secondary.md) [+W] — attached 2026-10-19 from Nederhand et al. (2020), which proposed "Ask students for grade estimates after each exam as an easy-to-implement way to improve calibration accuracy in secondary education"; tests this page's relationship.
 - [Whole-task, metacognitive knowledge, and external standard interventions significantly improve monitoring accuracy in problem solving](../claims/whole-task-metacognitive-knowledge-external-standard-interventions-improve-monitoring-accuracy.md) [+W] — attached 2026-10-21 from Noortje Janssen · Ard W. Lazonder (2024), which proposed "For problem-solving tasks, use whole-task, metacognitive knowledge, or external standard interventions and avoid timing interventions".
+- [Informing learners about the to-be-monitored cue before the problem-solving phase improves self-assessment accuracy compared with informing them only afterwards](../claims/inform-learners-before-problem-solving-improves-accuracy.md) [+W] — attached 2026-10-21 from Waldeyer et al. (2024), which proposed "Inform learners about the to-be-monitored self-assessment cue before, not after, the problem-solving phase".
 
 ## Objective and learner-valued goal
 

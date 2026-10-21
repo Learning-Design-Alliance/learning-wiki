@@ -49,3 +49,4 @@ Embedded case study of eight Grade 5-6 rural teachers completing ten AI-guided m
 - [Teachers' engagement growth was negotiated through balancing challenges and cognitive load, with some experiences of strain and isolation](ai-pd-cognitive-strain-isolation.md) — a narrower finding that bears on this claim
 - [On CK items, GradeOpt showed near-perfect alignment with human codes (κ = .88 and .85; QWK = .89 and .94), comparable to human–human agreement](gradeopt-near-perfect-ck-agreement.md) — related
 - [The multi-agent LLM GradeOpt achieved substantial agreement with human coders on overall PCK items (κ = .68, QWK = .79) and outperformed RoBERTa, SBERT, and naïve GPT-4o prompting](gradeopt-substantial-agreement-pck-outperforms-baselines.md) — related
+- [Teachers' knowledge of SRL is partial and unevenly developed across all three dimensions](teachers-srl-knowledge-partial-uneven.md) — related

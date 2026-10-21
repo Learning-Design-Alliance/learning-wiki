@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 73 claims (30 for, 40 mixed, 3 against) · 55 studies (25 causal, 12 quant-synthesis, 10 review, 4 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 17 of 55 report an effect size · 65 claims rest on one study
+> **Evidence** · 75 claims (31 for, 41 mixed, 3 against) · 58 studies (25 causal, 13 quant-synthesis, 12 review, 4 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 17 of 58 report an effect size · 66 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,8 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Decorative pictures show consistently null effects on elementary schoolers' word problem-solving performance regardless of task characteristics](../claims/decorative-pictures-null-effects.md) [~W]
 - [The mental integration task showed no general advantage of the dynamic over the static visual design in overall accuracy](../claims/no-general-dynamic-advantage-mental-integration.md) [~W]
 - [All four original multimedia experiments showed a main effect favoring the dynamic visualization, especially for transfer tasks](../claims/four-experiments-dynamic-visualization-main-effect.md) [+W]
+- [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](../claims/synced-audio-visual-presentation-better-learning.md) [+W]
+- [Most EMME experiments that measured immediate learning scores reported at least one positive effect of gaze visualization on immediate learning](../claims/emme-positive-immediate-learning-effects.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

@@ -47,3 +47,4 @@ The commentary reports Richardson's (2013) cross-sectional study using data from
 - [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) — related
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related
 - [Cohen's small, medium, and large effect size benchmarks are arbitrary and should not be interpreted rigidly](cohen-benchmarks-arbitrary.md) — related
+- [Deep approaches to learning correlate positively and surface approaches negatively with academic achievement](deep-approach-positive-surface-negative-correlation.md) — related

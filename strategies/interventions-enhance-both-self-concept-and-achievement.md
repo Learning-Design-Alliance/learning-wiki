@@ -17,7 +17,7 @@ sources:
 # Interventions should simultaneously enhance academic self-concept and achievement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 2 of 4 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 5 studies (2 quant-synthesis, 2 associational, 1 review), `q2`–`q4` · 2 of 5 report an effect size · 2 claims rest on one study
 
 ## Description
 A practice recommendation drawn from the reciprocal effects model: because self-concept and achievement each sustain the other, interventions targeting only one are unlikely to produce lasting gains. The article quotes Marsh and Craven (2006): "If practitioners enhance self-concepts without improving performance, then the gains in self-concept are likely to be short-lived." Symmetrically, performance gains are unlikely to be long-lasting without fostering self-beliefs.

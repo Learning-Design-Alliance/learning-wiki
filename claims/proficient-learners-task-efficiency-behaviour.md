@@ -87,3 +87,4 @@ ANOVA on playground exploration time showed Proficient learners spent less time 
 - [Proficient learners report lower perceived task difficulty than Novice learners on the CT task](proficient-lower-perceived-difficulty.md) — related
 - [The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)](cft-hypertext-design-faster-test-completion.md) — related
 - [Window 1 profiles complicate the assumption that greater pre-query effort signals better progress: Cold Start learners completed at 97% while Struggling learners completed at 67%](pre-query-effort-completion-descriptive-profiles.md) — related
+- [Isolated nonverbal cues require novice proficiency and receptiveness to be effective](nonverbal-cues-require-novice-proficiency.md) — related

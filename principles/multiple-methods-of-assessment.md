@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (21 for, 16 mixed, 2 against) · 45 studies (12 causal, 8 review, 7 theoretical, 5 quant-synthesis, 5 qualitative, 4 associational, 4 design), `q1`–`q4` · 4 of 45 report an effect size · 33 claims rest on one study
+> **Evidence** · 40 claims (21 for, 17 mixed, 2 against) · 46 studies (12 causal, 9 review, 7 theoretical, 5 quant-synthesis, 5 qualitative, 4 associational, 4 design), `q1`–`q4` · 4 of 46 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -181,6 +181,7 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [Vygotsky Zone Of Proximal Development](../theories/vygotsky-zone-of-proximal-development.md) [+S]
 - [Low questionnaire–think-aloud correlations may have two alternative explanations besides poor self-report ability: the methods may measure different strategies or be aimed at different tasks](../claims/alternative-explanations-low-correlations-strategies-tasks.md) [~W]
 - [Combining peer assessment with self-assessment brings marks closer to the teacher's marks](../claims/peer-plus-self-assessment-closer-to-teacher.md) [~W]
+- [Forest-school benefits are measured with heterogeneous methods, mostly questionnaires and tasks administered to children, with only two studies using objective measures](../claims/forest-school-measurement-methods-heterogeneous.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — multiple methods improve formative interpretation when different evidence streams inform next steps.

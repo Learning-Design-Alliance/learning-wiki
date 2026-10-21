@@ -52,3 +52,4 @@ The review's summary of Olaru et al. (2024), an RCT with active control of 552 p
 - [Digital coaching significantly increased trait conscientiousness, with effects stable one year after the intervention ended](digital-coaching-increases-trait-conscientiousness-durable.md) — related
 - [Intervention gains in conscientiousness were generally maintained at follow-up, but mediation was never tested and only one intervention examined moderation](maintenance-evident-mechanisms-untested.md) — a broader claim this one bears on
 - [One in-person coaching intervention produced a small significant reduction in conscientiousness while the control group showed no change](coaching-produced-small-reduction-in-conscientiousness.md) — reports the opposite
+- [Digital VPC interventions produce goal-consistent personality changes, with self-reported effects in the large range and smaller observer-reported effects](digital-vpc-intervention-goal-consistent-change.md) — related

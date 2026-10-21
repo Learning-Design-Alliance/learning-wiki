@@ -12,7 +12,7 @@ generated:
 # Triarchic Theory of Intelligence
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Robert Sternberg's (1988) triarchic theory of intelligence proposes three distinct components of intelligence — **analytical**, **creative**, and **practical** — offered partly as a rebuttal to both Spearman's single-factor "g" and Cattell's fluid/crystallized split. Analytical intelligence is closely aligned with academic problem-solving: the ability to analyze, evaluate, judge, compare, and contrast, of the kind exercised in comparing literary characters or working a multi-step math problem. Creative intelligence is the ability to invent or imagine a novel solution to a problem or situation. Practical intelligence — sometimes compared to "street smarts" — is the ability to find solutions that work in everyday life by applying knowledge from one's own experience, and Sternberg's own research indicates it is empirically separable from the other two: a person can score high on practical intelligence without scoring comparably on analytical or creative measures, or vice versa.
@@ -43,6 +43,8 @@ The theory illustrates its analytical/creative/practical separability with a rea
 - Positioned as an alternative to Spearman's single-factor "g" model and Cattell's fluid/crystallized intelligence split, both of which treat intelligence as a smaller number of general factors rather than three functionally distinct components
 
 ## Claims
+
+- [Intelligence and creativity share more variance than the traditional assumption of distinct abilities holds](../claims/intelligence-creativity-more-in-common.md) [-W]
 
 ## Related Theories
 - [Multiple Intelligences Theory](multiple-intelligences-theory.md) — a more finely subdivided (eight-part) alternative to the same single-factor "g" model this theory also rejects, though the two frameworks propose different numbers and kinds of components

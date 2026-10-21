@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (54 show a difference, 18 mixed, 8 no difference) · 54 studies (22 causal, 12 review, 11 quant-synthesis, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 21 of 54 report an effect size · 73 claims rest on one study
+> **Evidence** · 88 claims (59 show a difference, 19 mixed, 10 no difference) · 58 studies (23 causal, 14 review, 11 quant-synthesis, 4 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 22 of 58 report an effect size · 81 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -115,6 +115,14 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Cued-recall testing can impair later memory for competitive, related but non-practiced information (retrieval-induced forgetting)](../claims/retrieval-induced-forgetting-cued-recall.md) [+M] — instruction changes it
 - [Group testing shows advantages in some studies but mixed results overall for long-term retention and transfer](../claims/collaborative-testing-mixed-results.md) [~M] — instruction changes it
 - [Pretesting before instruction enhances learning of subsequently presented material even when pretest answers are wrong, with multiple-choice pretesting more effective than cued-recall pretesting](../claims/pretesting-enhances-learning-mc-beats-cued-recall.md) [+M] — instruction changes it
+- [Cue-only JOLs performed similarly to overt retrieval, and cue–target JOLs similarly to restudy, on Phase B memory and transfer (Experiment 1)](../claims/cue-only-jols-match-overt-retrieval.md) [-M] — instruction changes it
+- [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](../claims/distributed-practice-beats-massed-with-exception.md) [+M] — instruction changes it
+- [Experts' complex movements are flexibly controlled via mental basic action concepts stored in long-term memory, as shown with tennis serves](../claims/bacs-long-term-memory-experts.md) [+M] — learners who differ on it differ in outcomes
+- [In Experiment 1, cue-only JOLs produced significantly better Phase B memory and transfer than restudy, while overt retrieval's memory advantage over restudy was only marginal](../claims/cue-only-jols-beat-restudy-forward.md) [~W] — instruction changes it
+- [In Experiment 1, interim tasks with high retrieval probability (overt retrieval, cue-only JOLs) enhanced new inductive learning more than low-retrieval tasks (cue–target JOLs, restudy) on both memory and transfer](../claims/high-retrieval-tasks-forward-effect-inductive-learning.md) [+W] — instruction changes it
+- [In Experiment 1, the interim learning task did not affect Phase A posttest performance, indicating the forward benefit was not due to improved prior learning](../claims/no-backward-effect-phase-a-null.md) [-M] — instruction changes it
+- [Motor activities combined with high integration and high relevance produce the largest positive effects on memory, per a meta-analysis cited by the review](../claims/high-integration-relevance-motor-activity-memory-effects.md) [+M] — instruction changes it
+- [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](../claims/fluency-misleads-judgments-of-learning.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

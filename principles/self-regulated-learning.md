@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 138 claims (59 for, 72 mixed, 7 against) · 97 studies (31 causal, 20 review, 17 associational, 15 quant-synthesis, 10 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 27 of 97 report an effect size · 127 claims rest on one study
+> **Evidence** · 140 claims (59 for, 74 mixed, 7 against) · 98 studies (31 causal, 20 review, 17 associational, 15 quant-synthesis, 11 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 27 of 98 report an effect size · 129 claims rest on one study
 
 ## Conditional relationship
 
@@ -230,6 +230,8 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Reflection prompts combined with tutor feedback had positive effects on the development of students' self-regulated learning competence](../claims/reflection-prompts-tutor-feedback-self-regulation.md) [+W]
 - [Metacognition and comprehension strategy use are weakly to moderately associated with intertextual integration among K-12 students](../claims/metacognition-strategy-use-correlates-intertextual-integration.md) [~W]
 - [Interventions to improve monitoring accuracy in problem-solving tasks have a small positive overall effect (g = 0.25)](../claims/monitoring-accuracy-interventions-small-positive-effect-problem-solving.md) [~W]
+- [SRL interventions produce large average effects on academic and motivational outcomes, per meta-analytic syntheses](../claims/srl-interventions-large-average-effects.md) [~W]
+- [SRL intervention effects are moderated by delivery agent, duration, domain, and student age, with inconsistent duration findings](../claims/srl-intervention-moderators-agent-domain-age.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)
@@ -261,6 +263,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [App-based metacognitive monitoring training program with paired-associates memory tasks and feedback](../designs/app-based-metacognitive-monitoring-training-kindergarten.md)
 - [Indirect training: prompting metacognitive regulation in regular subject classes to promote transfer across contexts](../strategies/indirect-training-prompted-metacognitive-regulation.md)
 - [Use self-scoring against correct answers as a tool to foster primary students' monitoring accuracy during math problem-solving practice](../strategies/self-scoring-foster-monitoring-accuracy-strategy.md)
+- [Train transfer actively and leverage environmental cues to strengthen persistence and generalizability of SRL interventions](../strategies/actively-train-transfer-and-leverage-environmental-cues.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

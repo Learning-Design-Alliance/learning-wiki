@@ -54,3 +54,4 @@ The review reports, citing Makransky et al. (2019), a comparison of three learni
 - [VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)](vr-training-higher-safety-awareness-ratings.md) — related
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
 - [In a piloted virtual reality WIL, most students reported improved crisis-problem-solving understanding and high enjoyment](vr-wil-crisis-pilot-outcomes.md) — related
+- [VR improved movement-based transfer test performance versus reading in security training, while learning in VR without the possibility to act was detrimental](vr-transfer-benefit-but-actionless-vr-detrimental.md) — related

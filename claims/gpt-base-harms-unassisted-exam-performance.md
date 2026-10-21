@@ -51,3 +51,4 @@ Preregistered primary analysis: intention-to-treat regression on unassisted exam
 - [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related
 - [Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)](answer-offloading-associated-lower-unaided-performance-exploratory.md) — related
 - [Developers who used AI assistance scored 17% lower on a subsequent comprehension assessment than developers who completed the same tasks without AI, per the cited controlled study](ai-assistance-lower-comprehension-17-percent.md) — related
+- [Chatbot access during mathematics practice improved practice performance but lowered subsequent unaided exam performance, and a hint-giving interface eliminated the penalty](chatbot-crutch-unaided-exam-penalty.md) — a broader claim this one bears on

@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 61 claims (41 show a difference, 14 mixed, 6 no difference) · 32 studies (12 causal, 9 associational, 7 review, 2 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 7 of 32 report an effect size · 57 claims rest on one study
+> **Evidence** · 63 claims (42 show a difference, 15 mixed, 6 no difference) · 33 studies (12 causal, 9 associational, 8 review, 2 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 7 of 33 report an effect size · 59 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -98,6 +98,8 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Vigorous physical activity is positively and significantly correlated with fluency, originality, flexibility and overall creativity in 10–11-year-old children](../claims/vigorous-activity-correlates-divergent-thinking.md) [+M] — learners who differ on it differ in outcomes
 - [Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration](../claims/vigorous-activity-predicts-o-flu-fle-not-ela.md) [~W] — learners who differ on it differ in outcomes
 - [Participation in dialogic-interaction interventions is associated with improved well-being, self-confidence and quality of life](../claims/dialogic-leadership-improves-wellbeing-self-confidence.md) [+W] — instruction changes it
+- [Greenspace schoolyards increase students' physical activity in most studies, with effects persisting at 16-month follow-up](../claims/greenspace-schoolyards-increase-physical-activity.md) [+M] — instruction changes it
+- [Outdoor learning in nature significantly increases students' physical activity in most studies, with some null results](../claims/outdoor-learning-increases-student-physical-activity.md) [~W] — instruction changes it
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

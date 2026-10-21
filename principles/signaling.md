@@ -66,7 +66,7 @@ sources:
 # Signaling Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (13 for, 15 mixed, 1 against) · 21 studies (9 causal, 7 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 21 report an effect size · 25 claims rest on one study
+> **Evidence** · 31 claims (15 for, 15 mixed, 1 against) · 23 studies (10 causal, 8 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 8 of 23 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,6 +190,8 @@ The expectation should weaken if comparisons with comparable novice learners, ho
 - [In 5-year-olds the transparent-cue benefit appears only with finger tracking, producing a significant Cue × Tracking interaction](../claims/cue-tracking-interaction-5yo-recall.md) [~W]
 - [Expert revisers' improvements are inconsistent across texts, with only signaling-structure strategies reliably corresponding to improved retention](../claims/expert-revisers-strategies-inconsistent-signaling-works.md) [+W]
 - [Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video](../claims/signaling-improves-retention-transfer-video.md) [+W]
+- [Combined verbal and nonverbal cueing most often draws attention to landmarks and clarifies tool use](../claims/combined-cueing-landmarks-and-tools.md) [+W]
+- [In a three-group eye-tracking experiment, the pointing group significantly outperformed both the tracing group and the no-touch group on comprehension performance](../claims/pointing-outperforms-tracing-and-no-touch-comprehension.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 146 claims (101 show a difference, 29 mixed, 16 no difference) · 98 studies (36 associational, 20 causal, 16 review, 9 qualitative, 7 quant-synthesis, 6 theoretical, 4 design), `q1`–`q4` · 26 of 98 report an effect size · 140 claims rest on one study
+> **Evidence** · 148 claims (102 show a difference, 30 mixed, 16 no difference) · 100 studies (36 associational, 20 causal, 18 review, 9 qualitative, 7 quant-synthesis, 6 theoretical, 4 design), `q1`–`q4` · 26 of 100 report an effect size · 142 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -186,6 +186,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [School meditation studies show significant improvements in emotional regulation, including reduced involuntary stress responses and behavioural dysregulation](../claims/meditation-improves-emotional-regulation.md) [+M] — instruction changes it
 - [Worry did not explain unique variance in students' test performance or mathematics grade, challenging the worry-based explanation of the test anxiety-performance link](../claims/worry-no-unique-variance-performance.md) [-M] — learners who differ on it differ in outcomes
 - [Some SECs show no association with engagement dimensions in individual studies, including emotion regulation with behavioural engagement and intentional self-regulation compensation](../claims/null-associations-some-secs-engagement.md) [-W] — learners who differ on it differ in outcomes
+- [Children's self-regulation and intrapersonal skills such as emotional control, adaptability and optimism are linked to more successful transitions, and negative pre-transfer expectations tend to be self-fulfilling](../claims/intrapersonal-skills-linked-transition-success.md) [+W] — learners who differ on it differ in outcomes
+- [Outdoor learning in nature reduces student stress (cortisol decline), but stress-restoration findings are mixed by measure and age](../claims/outdoor-learning-reduces-student-stress-cortisol.md) [~M] — instruction changes it
 
 ## The evidence by question
 

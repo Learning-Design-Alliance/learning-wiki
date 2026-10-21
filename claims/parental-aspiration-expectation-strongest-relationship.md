@@ -52,3 +52,4 @@ The meta-analysis's moderator analysis compared involvement components; it found
 - [The strongest college-readiness predictors measure four broad constructs: academic preparation, aspirations and expectations, socioeconomic status, and teacher perceptions](four-college-readiness-constructs-factor-analysis.md) — related
 - [Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education](parent-involvement-ideas-inhibit-equity.md) — related
 - [Parenting self-efficacy correlates most strongly with home-based participation and parental expectations and aspirations, and least with parent-teacher communication and relationships](pse-strongest-home-based-and-expectations.md) — related
+- [Labeling children as visual versus hands-on learners biases adults' and children's judgments of intelligence and subject expectations](learning-style-labeling-bias-judgments.md) — related

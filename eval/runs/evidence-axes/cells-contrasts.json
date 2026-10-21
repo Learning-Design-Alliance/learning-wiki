@@ -37022,5 +37022,201 @@
  "worked-examples\tstudying worked examples\tsolving equivalent problems": {
   "label": "studying worked examples vs solving equivalent problems",
   "treatment_is_a": true
+ },
+ "active-learning\tgesture-enriched vocabulary learning\tnon-enriched vocabulary learning": {
+  "label": "gesture-enriched vocabulary learning vs non-enriched vocabulary learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tgesture-enriched vocabulary learning\tpicture-enriched vocabulary learning": {
+  "label": "gesture-enriched vocabulary learning vs picture-enriched vocabulary learning",
+  "treatment_is_a": true
+ },
+ "debriefing\tcorrective feedback plus re-experiencing\tlesson alone": {
+  "label": "Corrective feedback plus re-experiencing vs lesson alone",
+  "treatment_is_a": true
+ },
+ "debriefing\tcorrective feedback plus self-explaining\tlesson alone": {
+  "label": "Corrective feedback plus self-explaining vs lesson alone",
+  "treatment_is_a": true
+ },
+ "debriefing\tre-experiencing\tself-explaining": {
+  "label": "Re-experiencing vs self-explaining",
+  "treatment_is_a": true
+ },
+ "debriefing\tre-experiencing after corrective feedback\tpre-GLA performance": {
+  "label": "Re-experiencing after corrective feedback vs pre-GLA performance",
+  "treatment_is_a": true
+ },
+ "debriefing\tself-explaining after corrective feedback\tpre-GLA performance": {
+  "label": "Self-explaining after corrective feedback vs pre-GLA performance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSRL strategy interventions\tcontrol groups": {
+  "label": "self-regulated learning strategy instruction vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive and metacognitive strategy interventions\tcontrol groups": {
+  "label": "cognitive and metacognitive strategy instruction vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmetacognitive strategy interventions\tcontrol or pre-intervention outcomes": {
+  "label": "metacognitive strategy instruction vs control",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tcue-only JOLs with item-by-item feedback\tcue-only JOLs without feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "media-design\tdraw-and-tell narrative condition\ttell-only narrative condition": {
+  "label": "draw-and-tell vs tell-only",
+  "treatment_is_a": true
+ },
+ "media-design\tdynamic visualizations\tstatic visualizations": {
+  "label": "dynamic visualizations vs static visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\textraneous-load condition\tcomparison condition": {
+  "label": "extraneous load vs no extraneous load",
+  "treatment_is_a": true
+ },
+ "prompts\tcue information before problem-solving\tcue information after problem-solving": {
+  "label": "cue information before vs after problem-solving",
+  "treatment_is_a": true
+ },
+ "prompts\tcue prompt before problem-solving\tcue prompt after problem-solving": {
+  "label": "cue prompt before vs after problem-solving",
+  "treatment_is_a": true
+ },
+ "prompts\tcue-only JOLs\tcue–target JOLs": {
+  "label": "cue-only JOLs vs cue–target JOLs",
+  "treatment_is_a": true
+ },
+ "prompts\tcue-only JOLs\trestudy": {
+  "label": "cue-only JOLs vs restudy",
+  "treatment_is_a": true
+ },
+ "prompts\tcue–target JOLs\trestudy": {
+  "label": "cue–target JOLs vs restudy",
+  "treatment_is_a": true
+ },
+ "prompts\texplanation-based cue prompt\tperformance-based cue prompt": {
+  "label": "explanation-based cue prompt vs performance-based cue prompt",
+  "treatment_is_a": true
+ },
+ "prompts\thigher self-reported retrieval during cue-only JOLs\tlower self-reported retrieval during cue-only JOLs": {
+  "label": "higher vs lower self-reported retrieval during cue-only JOLs",
+  "treatment_is_a": true
+ },
+ "prompts\tinformed about the cue before problem-solving\tinformed about the cue only after problem-solving": {
+  "label": "informed about the cue before vs only after problem-solving",
+  "treatment_is_a": true
+ },
+ "prompts\tinteraction of prompted cue type and timing of cue prompt\tno interaction": {
+  "label": "prompted cue type × cue-prompt timing interaction vs no interaction",
+  "treatment_is_a": true
+ },
+ "prompts\tovert retrieval\tcue-only JOLs": {
+  "label": "overt retrieval vs cue-only JOLs",
+  "treatment_is_a": true
+ },
+ "prompts\ttarget absent during judgment\ttarget present during judgment": {
+  "label": "target absent vs target present during judgment",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tcourse with daily quizzes in 2011\tcourse without daily quizzes in 2008": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tdaily online testing cohort in 2011\ttraditional instruction cohort in 2008": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tdaily online testing course cohort\ttraditional instruction course cohort": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tdaily online testing in 2011\ttraditional instruction without daily quizzes in 2008": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tovert retrieval\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tovert retrieval or cue-only JOLs\tcue–target JOLs or restudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tself-testing\tmore fluent or easier learning strategies": {
+  "label": "retrieval practice vs other learning strategies",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting condition\tcomparison condition": {
+  "label": "retrieval practice vs comparison condition",
+  "treatment_is_a": true
+ },
+ "scaffolding\tCollaborative Gaze Control or gaze guidance\tother gaze-control condition": {
+  "label": "Gaze guidance or collaborative gaze control vs other gaze-control conditions",
+  "treatment_is_a": true
+ },
+ "scaffolding\tactive verbal chunking\tother scaffolding categories": {
+  "label": "Active verbal chunking vs other scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tactive verbal cueing\tother coded scaffolding behaviours": {
+  "label": "Active verbal cueing vs other scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tactive verbal cueing\tother scaffolding categories": {
+  "label": "Active verbal cueing vs other scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcombined verbal and nonverbal cueing\tverbal-only cueing": {
+  "label": "Combined verbal and nonverbal cueing vs verbal-only cueing",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplanations after the initial step or action\texplanations during the initial step or action": {
+  "label": "Explanations after the initial step or action vs explanations during the initial step or action",
+  "treatment_is_a": true
+ },
+ "scaffolding\tnovice controlled the microscope slide\texpert controlled the microscope slide": {
+  "label": "Novice-controlled vs expert-controlled microscope slide",
+  "treatment_is_a": true
+ },
+ "scaffolding\treassurance through pumping, echoing, and agreeing\tconfrontational negative feedback": {
+  "label": "Reassuring positive feedback vs confrontational negative feedback",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explaining\tre-experiencing": {
+  "label": "self-explaining vs re-experiencing",
+  "treatment_is_a": true
+ },
+ "spacing\tdistributed practice over longer periods\tmassed practice within a short period": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced practice\tmore fluent or easier learning strategies": {
+  "label": "spaced vs more fluent or easier learning strategies",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced quiz questions\tmassed quiz questions": {
+  "label": "spaced vs massed quizzing",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced quizzing\tmassed quizzing": {
+  "label": "spaced vs massed quizzing",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced retrieval practice on the first question\tmassed retrieval practice on the first question": {
+  "label": "spaced vs massed retrieval practice",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced retrieval practice on the second question\tmassed retrieval practice on the second question": {
+  "label": "spaced vs massed retrieval practice",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced retrieval practice on the third question\tmassed retrieval practice on the third question": {
+  "label": "spaced vs massed retrieval practice",
+  "treatment_is_a": true
  }
 }

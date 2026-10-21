@@ -47,7 +47,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 85 claims (51 for, 33 mixed, 1 against) · 84 studies (24 review, 19 causal, 10 associational, 10 theoretical, 9 qualitative, 8 quant-synthesis, 4 design), `q1`–`q4` · 9 of 84 report an effect size · 71 claims rest on one study
+> **Evidence** · 86 claims (51 for, 34 mixed, 1 against) · 85 studies (24 review, 19 causal, 10 associational, 10 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 9 of 85 report an effect size · 72 claims rest on one study
 
 ## Conditional relationship
 
@@ -220,6 +220,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Pedagogical agents show a small-to-moderate but non-significant effect on learners' utility beliefs (g = 0.34, p = 0.05)](../claims/pa-non-significant-utility-beliefs.md) [~W]
 - [A small a priori set of motivational constructs risks three failures in explaining situated motivated action](../claims/a-priori-construct-sets-risk-three-failures.md) [~W]
 - [College students' attributions of motivation problems to lack of value and interest strongly predict lower intention to take additional classes in the field](../claims/value-interest-attributions-predict-attrition-intention.md) [+W]
+- [Effort was consistently described as willful, motivation-dependent investment, whereas load was described as imposed and difficult to control](../claims/effort-willful-load-imposed.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

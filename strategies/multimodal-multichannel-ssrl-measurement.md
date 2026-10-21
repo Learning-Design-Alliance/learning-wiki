@@ -44,6 +44,7 @@ The review's stated forward methodological path is to widen data channels toward
 - [Triangulate physiological data with other CSCL data streams ( such as video or logfile traces ) to uncover otherwise unidentifiable psychophysiological reactions](triangulate-physiological-data-with-video-or-logs.md)
 - [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
 - [Integrate physiological, dialog, video, and self-report data to analyze collaboration at individual and group levels](multimodal-data-integration-collaborative-learning.md)
+- [Research agenda: investigate affective dynamics with within-person, longitudinal, and multi-channel methods](affective-dynamics-research-agenda-curiosity-interest.md)
 
 ## Examples
 -

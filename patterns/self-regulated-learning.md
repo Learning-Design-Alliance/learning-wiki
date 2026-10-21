@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 64 claims (23 for, 38 mixed, 3 against) · 57 studies (21 causal, 10 review, 10 associational, 8 quant-synthesis, 6 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 57 report an effect size · 57 claims rest on one study
+> **Evidence** · 66 claims (23 for, 40 mixed, 3 against) · 58 studies (21 causal, 10 review, 10 associational, 8 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 58 report an effect size · 59 claims rest on one study
 
 ## Description and scope
 
@@ -130,6 +130,8 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 
 - [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](../claims/metacognitive-displacement-illusion-of-competence.md) [~W]
 - [Reflection prompts combined with tutor feedback had positive effects on the development of students' self-regulated learning competence](../claims/reflection-prompts-tutor-feedback-self-regulation.md) [+W]
+- [SRL interventions produce large average effects on academic and motivational outcomes, per meta-analytic syntheses](../claims/srl-interventions-large-average-effects.md) [~W]
+- [SRL intervention effects are moderated by delivery agent, duration, domain, and student age, with inconsistent duration findings](../claims/srl-intervention-moderators-agent-domain-age.md) [~W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

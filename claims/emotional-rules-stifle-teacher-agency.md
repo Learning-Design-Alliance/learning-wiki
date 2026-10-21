@@ -51,3 +51,4 @@ The editorial describes Horn et al.'s (2025) study of the emotional rules vetera
 - [Consultation with trusted colleagues offered new interpretations of a student's behavior, lessening a teacher's emotional labor and shifting her from surface acting to deep acting (Linda case)](linda-consultation-shifted-surface-to-deep-acting.md) — related
 - [LLMs redistributed educational labor while family and institutional rules left parents and professionals responsible for interpreting outputs and deciding how they entered practice](llm-redistributed-labor-rules-leave-interpretation-responsibility.md) — related
 - [In Case 2, persistent strong negative self-critique led teachers to assign deficit narratives to students as having missed opportunities, serving as foils for teachers](case2-students-foils-missed-opportunities.md) — related
+- [Organized PD groups reported fewer negative emotions than teachers learning informally](organized-pd-fewer-negative-emotions.md) — related

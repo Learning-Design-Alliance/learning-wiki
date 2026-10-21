@@ -52,3 +52,4 @@ Pairwise correlations of raw data at each of the 21 measurement points (Fig. 10)
 - [Model-based posterior-prediction correlations between the four variables show distinct dynamic patterns across the 21 time points and four intervention groups](posterior-prediction-correlations-dynamic-across-groups.md) — related
 - [Greater time and effort invested in the task correlate with better integration and smaller calibration error](engagement-correlates-integration-calibration.md) — related
 - [Invested mental effort and perceived task difficulty are strongly correlated yet relate differently to relative task difficulty, indicating the two ratings measure different aspects of overall cognitive load](mental-effort-and-task-difficulty-ratings-differ.md) — related
+- [Mental effort is more suitably modeled as a non-linear than linear predictor of learning outcomes in most re-analyzed studies](mental-effort-nonlinear-predictor-reanalyses.md) — related

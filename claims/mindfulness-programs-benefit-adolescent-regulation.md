@@ -64,3 +64,4 @@ The brief's summary of its review of preventive self-regulation interventions re
 - [Studies of emotional training of aspiring and practicing teachers report positive outcomes for dealing with emotions and reducing stress and burnout](teacher-emotional-training-studies-positive-outcomes.md) — related
 - [School meditation studies show significant improvements in emotional regulation, including reduced involuntary stress responses and behavioural dysregulation](meditation-improves-emotional-regulation.md) — a narrower finding that bears on this claim
 - [Family-based interventions improved self-regulation in 5 of 9 studies (56%) and had longer follow-up durations than other intervention types.](family-based-interventions-improved-sr-5-of-9.md) — related
+- [Some social-emotional and cognitive-behavioural initiatives showed no effect or a negative effect on educator wellbeing](some-initiatives-no-or-negative-effect.md) — related

@@ -64,3 +64,4 @@ The review's assessment-strategy analysis identifies "the so-called library bias
 ## Related Claims
 - [AI training for pre-service primary teachers is predominantly short-term interventions embedded within existing courses rather than standalone AI courses](ai-training-short-term-embedded-existing-courses.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [Existing educator wellbeing initiatives predominantly target individual rather than systematic determinants of wellbeing](initiatives-target-individual-not-systemic-determinants.md) — related

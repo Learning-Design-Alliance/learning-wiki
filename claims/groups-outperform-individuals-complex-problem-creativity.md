@@ -48,3 +48,4 @@ The article reports, citing Sawyer (2012), that "groups outperform individuals" 
 - [Classifying and combining group ideas generated new ideas in the quarry problem, including acoustic volume measurement](idea-classification-generated-new-ideas.md) — a narrower finding that bears on this claim
 - [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — related
 - [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — related
+- [Collaborative learning is beneficial or detrimental depending on individual and situational factors](collaborative-learning-conditionally-beneficial.md) — related

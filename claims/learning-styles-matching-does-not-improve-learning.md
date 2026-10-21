@@ -154,3 +154,5 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 - [Study preferences exist and show some stability, but this alone does not justify learning-styles assessment in education](study-preferences-exist-but-insufficient.md) — related
 - [Cook et al. (2009) found no support for sensing/intuitive style-by-sequence interaction in medical education](cook-medical-education-no-style-interaction.md) — a narrower finding that bears on this claim
 - [No significant interaction between learning mode and learning style on gain scores, while the learning-mode main effect was significant](no-mode-by-style-interaction-vr-gains.md) — a narrower finding that bears on this claim
+- [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](learning-style-achievement-correlations-r24.md) — related
+- [Meta-analyses testing the matching hypothesis show a negligible overall effect of matching teaching to students' learning styles (d = 0.04)](matching-learning-styles-negligible-effect.md) — possibly the same claim (merge candidate)

@@ -87,3 +87,5 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [Math anxiety relates more strongly to Mathematical Reasoning than to Numerical Operations in second and third graders](math-anxiety-stronger-mathematical-reasoning-than-numerical-operations.md) — a narrower finding that bears on this claim
 - [Math anxiety correlates negatively with math achievement, grades, enjoyment, motivation, and amount of math taken](math-anxiety-negative-correlations-achievement.md) — related
 - [Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction](student-characteristics-moderate-inquiry-effectiveness.md) — a narrower finding that bears on this claim
+- [Conscientiousness correlates more strongly with grades than with standardized test scores, across both language and STEM domains](conscientiousness-grades-vs-test-scores.md) — related
+- [Conscientiousness shows the strongest links to SRL and robustly predicts academic performance even after accounting for cognitive ability](conscientiousness-predicts-achievement-srl-link.md) — related

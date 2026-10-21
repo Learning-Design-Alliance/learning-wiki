@@ -67,6 +67,7 @@ Anticipating emotional states supports self-regulated learning by giving learner
 - [Action Planning](action_planning.md) — the general planning skill this strategy applies to the emotional domain
 - [Achievable Micro-Goals](achievable_micro-goals.md) — coping plans often take the form of small, concrete process goals
 - [Run a pre-class Scout ritual: identify 2-3 cognitive-emotional bottlenecks, prepare 1-2 interventions each, and anticipate logistical failures](pre-class-scout-ritual-proactive-emotional-scaffolding.md)
+- [Use short-horizon emotion forecasting to time timely, tailored learner support (e.g., pre-empting boredom-prone self-study, scaffolding before anxiety-prone speaking tasks)](forecast-informed-timely-learner-support.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the element that operationalizes emotion identification before and after activities

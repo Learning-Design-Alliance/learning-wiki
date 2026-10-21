@@ -49,3 +49,4 @@ Reflexive thematic analysis of think-aloud and interview transcripts from the 19
 - [Journal analysis shows heavy GenAI reliance in secondary research and transcription but student autonomy in planning and interpretation of primary research](journals-secondary-research-heavy-genai-primary-autonomy.md) — related
 - [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](qualitative-selective-verification-intensive-use.md) — related
 - [Secondary students most frequently use generative AI for step-by-step theoretical explanation and for checking their own solutions, more than for calculations](ai-as-explanation-scaffold-verification-secondary-stem.md) — related
+- [Biologically primary motor actions such as finger tracing can provide cognitive benefits without causing cognitive load](primary-motor-actions-benefits-without-load.md) — related

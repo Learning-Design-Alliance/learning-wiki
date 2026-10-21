@@ -49,3 +49,4 @@ Meta-regression moderator analyses testing instrument, academic level, achieveme
 - [Reduced efficacy shows the largest negative correlation with academic achievement (rc+ = −.39)](reduced-efficacy-largest-negative-achievement.md)
 - [Total academic burnout is significantly negatively related to academic achievement (rc+ = −.24)](total-burnout-negative-achievement-meta-analysis.md)
 - [Gender did not significantly moderate relationships between social functioning and academic development in preschoolers](gender-does-not-moderate-social-academic-relations.md)
+- [Gender and academic level do not moderate the perfectionism–academic achievement relationships](gender-academic-level-not-moderators.md) — related

@@ -74,3 +74,4 @@ The same meta-analytic section reports "Negative associations were also found be
 - [Statistically significant differences in approaches to learning can constitute small effects of little theoretical or practical importance](significant-differences-small-effects-approaches.md) — related
 - [Mathematics self-concept correlates strongly with mathematics achievement (r = .43), while verbal self-concept barely does (r = .12)](math-self-concept-correlates-strongly-with-math-achievement.md) — related
 - [Mastery-approach goals are positively related to time management, while performance-approach relations are inconsistent and performance-avoidance goals show no association](mastery-approach-goals-time-management.md) — related
+- [Mastery-approach goals are negatively related to anxiety (r = −.10) across 34 samples](mastery-approach-goals-negative-anxiety-meta.md) — related

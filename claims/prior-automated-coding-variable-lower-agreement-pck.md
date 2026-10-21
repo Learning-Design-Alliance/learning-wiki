@@ -51,3 +51,4 @@ Narrative review synthesis in the literature review, citing Wahlen et al. (2020)
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background](coder-background-varies-feedback-interpretation.md) — related
 - [Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency](cohens-kappa-paradox-decision-consistency.md) — related
+- [Studies of teachers' SRL knowledge use heterogeneous, often implicit definitions, limiting comparability](heterogeneous-definitions-limit-comparability.md) — related

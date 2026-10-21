@@ -19,7 +19,7 @@ sources:
 # Three-level RTI prevention model for identifying learning disabilities
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A response-to-intervention framework that organizes general instruction, targeted tutoring, and special education evaluation around students' measured progress and responsiveness.
@@ -27,8 +27,11 @@ A response-to-intervention framework that organizes general instruction, targete
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Three-tier RTI model for primary-grade reading: Tier 1 core instruction, Tier 2 supplemental intervention, Tier 3 intensive intervention**: The article describes RTI for early reading as a schoolwide, multitiered prevention framework in which "students are provided with evidence-based classroom reading instruction and supplemental intervention when it is needed, and decisions related to intervention are based on student assessment data." Tier 1 is evidence-based core classroom instruction with universal screening; Tier 2 is supplemental intervention for at-risk students; Tier 3 is more intensive intervention for inadequate responders. Progress is monitored with repeated curriculum-based measures, and teacher professional development supports fidelity. (Denton Carolyn A (2012))
+- **The Three Tier (RTI/MTSS) model as a data-informed tiered support framework in which screening is one component of broader placement decisions**: The Three Tier model (also called MTSS with three tiers or a three-tier RTI model) is a prevention-oriented framework providing universal Tier 1 instruction, targeted Tier 2 supplemental interventions, and intensive, individualized Tier 3 support. The review emphasizes that "universal screening is not intended to serve as a definitive placement mechanism into Tiers 1, 2, or 3"; instead, screening is an initial risk-identification step within a dynamic process combining teacher judgment, contextual information, and response to intervention. The review synthesizes the validity of the screening tools that feed this process. (Keles et al. (2025))
 
 ### Claims
+- [Screening tools in the Three Tier model show a moderate pooled correlation with academic achievement outcomes (r = .51), with very high heterogeneity](../claims/screening-pooled-correlation-r51-three-tier.md) [+M]
+- [Very few studies (18 of 127) provide validity data for screening tools used in tier assignment, and none test whether screening itself improves achievement](../claims/few-studies-assess-screening-validity.md) [~M]
 
 ## Related Products and Programmes
 -
@@ -37,6 +40,7 @@ A response-to-intervention framework that organizes general instruction, targete
 - Powell, S. R., & Seethaler, P. M. (2007). Grade One: Math Computation (Math Case Study #1). https://eric.ed.gov/?id=ED502453
 <!-- merged 2026-10-10 from theories/three-level-rti-prevention-model-case-study ("Three-level RTI prevention model for identifying learning disabilities"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Denton Carolyn A. (2012). Response to Intervention for Reading Difficulties in the Primary Grades: Some Answers and Lingering Questions. Journal of Learning Disabilities. https://doi.org/10.1177/0022219412442155
+- Keles, S., ten Braak, D., Hagen, Å. M., & Melby-Lervåg, M. (2025). Validity of Early-Grade Screening Tools in the Three Tier (RTI/MTSS) Model: A Systematic Review and Meta-Analysis of Literacy, Language, and Mathematics. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10077-5
 
 # Three-level RTI prevention model for identifying learning disabilities
 

@@ -299,3 +299,4 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [A general-purpose LLM used as a tutor without pedagogical prompting overwhelmingly provides high assistance, with more than 95% of responses classified as Explaining or Solving](default-llm-tutoring-high-assistance-concentration.md) — related
 - [Ambient consumer AI use in the holdout did not close the structured-tutor gap](ambient-consumer-ai-did-not-close-tutor-gap.md) — related
 - [In math problem solving, a tutor LLM alone significantly improved unassisted test accuracy over no-agent control, while peer-like error agents alone did not reach significance](tutor-alone-significant-peers-alone-not-math.md) — related
+- [Chatbot access during mathematics practice improved practice performance but lowered subsequent unaided exam performance, and a hint-giving interface eliminated the penalty](chatbot-crutch-unaided-exam-penalty.md) — possibly the same claim (merge candidate)

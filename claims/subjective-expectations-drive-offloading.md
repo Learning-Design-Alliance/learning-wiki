@@ -57,3 +57,4 @@ Experimental study (Dunn & Risko, 2016) manipulating word rotation and layout fr
 - [Social comparison information affects the magnitude of metacognitive judgments, with greater magnitude for higher peer performance](social-comparisons-affect-metacognitive-judgments.md) — related
 - [Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias](reminder-bias-overuse-external-aids.md) — related
 - [Creative performance weakly predicts metacognitive judgments, with perceived difficulty and task interest serving as additional cues](performance-difficulty-interest-cues-judgments.md) — related
+- [GenAI fluency corrupts metacognitive monitoring by producing cognitive ease that is misread as comprehension, weakening the regulation needed to keep offloading beneficial](metacognitive-trap-genai-fluency.md) — related

@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (16 for, 8 mixed) · 28 studies (12 causal, 8 quant-synthesis, 6 review, 1 design, 1 theoretical), `q1`–`q4` · 10 of 28 report an effect size · 19 claims rest on one study
+> **Evidence** · 25 claims (16 for, 9 mixed) · 29 studies (12 causal, 9 quant-synthesis, 6 review, 1 design, 1 theoretical), `q1`–`q4` · 10 of 29 report an effect size · 20 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -60,6 +60,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference](../claims/yoshii-text-picture-definition-supply-only.md) [+W]
 - [All four original multimedia experiments showed a main effect favoring the dynamic visualization, especially for transfer tasks](../claims/four-experiments-dynamic-visualization-main-effect.md) [+W]
 - [The mental integration task showed no general advantage of the dynamic over the static visual design in overall accuracy](../claims/no-general-dynamic-advantage-mental-integration.md) [~W]
+- [Dynamic visualizations show a small average benefit over static visualizations, with gender among the moderators](../claims/dynamic-vs-static-visualization-meta-analysis-small-benefit.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

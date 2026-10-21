@@ -12,7 +12,7 @@ generated:
 # Four-Phase Model of Interest Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (5 for, 3 mixed, 1 against) · 12 studies (10 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 5 of 12 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (5 for, 4 mixed, 1 against) · 13 studies (10 causal, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q3` · 5 of 13 report an effect size · 9 claims rest on one study
 
 ## Description
 Interest, distinct from effort, is a source of intrinsic motivation: when students learn from interest rather than pure effort, they devote more attention to the topic and tend to use more thoughtful learning strategies ([Hidi & Renninger, 2006](https://doi.org/10.1207/s15326985ep4102_4); Hidi, 2001). The distinction between interest and effort is often artificial in practice — the two commonly blend, as when a student works hard at a skill they also genuinely enjoy — but the useful instructional target is to draw on interest as much as possible so that required effort stays within a reasonable, sustainable range.
@@ -62,6 +62,7 @@ The model is widely cited but only partially validated: it has received limited 
 - [Students' individual interest in social sciences correlated with their situational interest during the OSL visit (catch r = .27; hold r = .26)](../claims/individual-interest-correlates-situational-interest-osl.md) [~W]
 - [Motivation modulates anticipatory attentional processing: high-interest stimuli produced larger LDAP-period amplitude over right parieto-occipital cortex](../claims/motivation-modulates-ldap-right-parieto-occipital.md) [+W]
 - [Invested mental effort and interest are only weakly and inconsistently positively correlated across measurement points, with some correlations non-significant](../claims/effort-interest-weak-inconsistent-positive-correlation.md) [~W]
+- [Curiosity is a special case of interest, with the two constructs overlapping in a part-whole rather than mutually exclusive relationship](../claims/curiosity-special-case-of-interest.md) [~W]
 
 ## Related Theories
 - [ARCS Model of Motivational Design](arcs-model.md) — Keller's Attention category operationalizes the triggering and maintaining of situational interest as design tactics

@@ -49,3 +49,4 @@ The review quotes Paas et al. (2004) on nonlinear hypertext environments, where 
 - [Adding equations to tree diagrams reduced cognitive load but did not improve learning outcomes](adding-equations-to-diagrams-reduced-load-not-outcomes.md) — related
 - [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — related
 - [Learning with tree diagrams increased experienced cognitive load across intrinsic, extraneous, germane, and overall measures](tree-diagrams-increase-cognitive-load.md) — related
+- [Tracing along a poster displaying a cycle reduced extraneous cognitive load and improved learning outcomes](tracing-water-cycle-reduces-extraneous-load.md) — related

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 222 claims (89 for, 118 mixed, 15 against) · 167 studies (56 associational, 44 design, 25 review, 19 theoretical, 16 causal, 4 quant-synthesis, 3 qualitative), `q1`–`q3` · 13 of 167 report an effect size · 216 claims rest on one study
+> **Evidence** · 224 claims (91 for, 118 mixed, 15 against) · 168 studies (56 associational, 44 design, 25 review, 19 theoretical, 17 causal, 4 quant-synthesis, 3 qualitative), `q1`–`q3` · 13 of 168 report an effect size · 218 claims rest on one study
 
 ## Conditional relationship
 
@@ -207,6 +207,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Subjective cognitive load questionnaires show satisfactory internal consistency across the four most frequently used instruments in experimental multimedia learning research](../claims/cognitive-load-questionnaires-satisfactory-internal-consistency.md) [+W] — attached 2026-10-19 from Felix Krieglstein et al. (2022), which proposed "Use multi-item multidimensional cognitive load scales rather than single-item measures to enable reliability estimation and differentiation of load types".
 - [A low alpha does not necessarily indicate high content validity, because reliability and validity can both be high](../claims/low-alpha-not-evidence-of-content-validity.md) [+W] — attached 2026-10-19 from Steffen Zitzmann (2025), which proposed "Keep well justified alpha thresholds as rough guidelines rather than abandoning them, and view a low alpha as a threat rather than a sign of validity"; tests this page's relationship.
 - [Cronbach's alpha equals the reliability of the scale score under classical test theory, domain sampling, and generalizability theory, and should be interpreted as a reliability coefficient](../claims/alpha-is-reliability-coefficient-knowledge-tests.md) [+W] — attached 2026-10-19 from Steffen Zitzmann (2025), which proposed "Keep well justified alpha thresholds as rough guidelines rather than abandoning them, and view a low alpha as a threat rather than a sign of validity".
+- [In a preregistered within-subjects experiment (N = 131, eight measurements), the translated scale showed criterion validity via sensitivity to task complexity, extraneous load, and motivation](../claims/mel-ts-criterion-validity.md) [+W] — attached 2026-10-21 from Tino Endres et al. (2025), which proposed "Use four effort and load items within a reference point evaluation as best practice for translingual cognitive demand assessment"; tests this page's relationship.
+- [The scale showed convergent and incremental validity through medium-size correlations with established cognitive load measures](../claims/mel-ts-convergent-incremental-validity.md) [+W] — attached 2026-10-21 from Tino Endres et al. (2025), which proposed "Use four effort and load items within a reference point evaluation as best practice for translingual cognitive demand assessment"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

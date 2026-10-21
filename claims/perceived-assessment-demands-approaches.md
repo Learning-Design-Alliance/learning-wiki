@@ -68,3 +68,4 @@ Review reports correlational evidence on perceived assessment appropriateness an
 - [Portfolio-based learning environments did not change assessment preferences or deepen learning, and increased surface approaches in first-year students](portfolio-environment-no-deeper-learning-surface-increase.md) — reports the opposite
 - [Students who perceive teaching as good, and perceive clear goals, supportiveness and relevant courses, are more inclined towards a deep approach](perceived-teaching-quality-deep-approach.md) — related
 - [Student-centred learning environments show mixed effects on students' approaches to learning, with several studies reporting increased surface or decreased deep approaches](student-centred-environments-mixed-effects-approaches.md) — related
+- [Deep approaches to learning correlate positively and surface approaches negatively with academic achievement](deep-approach-positive-surface-negative-correlation.md) — related

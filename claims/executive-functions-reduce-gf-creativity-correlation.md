@@ -58,3 +58,4 @@ SEM structural model result reported in Section 3.2 of the same study. After reg
 - [Men scored higher than women on rated divergent thinking creativity in this sample, with no sex differences in fluid intelligence or the executive functions.](sex-difference-creative-potential-sample.md) — related
 - [Fluid intelligence strongly predicts the creative quality of produced metaphors (β = .45)](gf-predicts-creative-metaphor-quality.md) — related
 - [Executive functions and intelligence play an important role in creative thinking, but the relationship in children had been under-studied](efs-intelligence-role-creative-thinking-children-gap.md) — related
+- [Intelligence and creativity share more variance than the traditional assumption of distinct abilities holds](intelligence-creativity-more-in-common.md) — possibly the same claim (merge candidate)

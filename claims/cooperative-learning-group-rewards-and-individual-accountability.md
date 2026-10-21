@@ -162,3 +162,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [A game-based collaboration script with assigned in-game roles shifted elementary students' attitudes towards collaboration](game-script-shifted-collaboration-attitudes.md) — related
 - [Individual rewards yield significant mCSCL effects while group reward methods do not](mcscl-individual-rewards-significant.md) — related
 - [Successful groups respond more appropriately to proposals and maintain joint attention better than less successful groups, and their members outperform on individual mastery and transfer tests](successful-groups-engaged-responses-joint-attention.md) — related
+- [Individualized instruction shows low effects compared to cooperative and collaborative learning](individualized-instruction-low-effects-versus-collaborative.md) — related

@@ -48,3 +48,4 @@ Microanalysis of a steering committee meeting episode where a teacher shared str
 - [The three strategies highest in both recognizing and exploring emotions were all identified in the same 20-minute emotional event](three-opening-strategies-same-emotional-event.md) — related
 - [Quick transition from emotion to practice indirectly recognizes the emotion to a somewhat greater extent than ignoring it](quick-transition-emotion-to-practice-partial-recognition.md) — related
 - [Common threat-mitigation strategies preceded and failed to prevent deficit narratives, whose introduction followed the failure of mitigation to restore the emotional regime](mitigation-failure-precedes-deficit-narratives.md) — related
+- [Pleasant emotions in PD facilitated implementation while unpleasant emotions hindered it, per teacher reports](pleasant-emotions-facilitate-implementation.md) — related

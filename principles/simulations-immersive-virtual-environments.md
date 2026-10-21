@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 94 claims (35 for, 52 mixed, 7 against) · 64 studies (18 causal, 16 review, 11 quant-synthesis, 9 qualitative, 5 theoretical, 4 design, 1 associational), `q1`–`q4` · 16 of 64 report an effect size · 89 claims rest on one study
+> **Evidence** · 95 claims (36 for, 52 mixed, 7 against) · 65 studies (18 causal, 17 review, 11 quant-synthesis, 9 qualitative, 5 theoretical, 4 design, 1 associational), `q1`–`q4` · 16 of 65 report an effect size · 90 claims rest on one study
 
 ## Conditional relationship
 
@@ -325,6 +325,10 @@ The expectation should weaken if simulation practice shows no advantage over equ
 For laboratories, the substitution rule above (a guided virtual lab may stand in for concepts, not for manipulative skill) should change if a trial comparing a guided virtual lab with an equally guided hands-on lab finds no difference on a real-equipment skill test, or finds the conceptual equivalence fails at a delay; it should change for remote labs and technology sandboxes only once claims about them exist in this wiki.
 
 Success inside the simulation, immediate performance outside it, delayed retention, transfer to the real setting and effects on patients or clients are separate claims. The present evidence sets no number of runs, no debrief length and no fidelity level.
+
+## Claims
+
+- [VR improved movement-based transfer test performance versus reading in security training, while learning in VR without the possibility to act was detrimental](../claims/vr-transfer-benefit-but-actionless-vr-detrimental.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

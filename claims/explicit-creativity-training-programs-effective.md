@@ -51,3 +51,4 @@ Thematic synthesis of the 36 studies addressing RQ1 on explicit interventions. T
 - [Ideation-based interventions are a robustly implemented explicit approach that improves creative performance](ideation-interventions-improve-creative-performance.md) — a narrower finding that bears on this claim
 - [Systemic barriers—rigid curricula, limited teacher training, and innate-creativity misconceptions—marginalize creativity in mainstream education](systemic-barriers-marginalize-creativity.md) — related
 - [Creativity-supportive school climates combine autonomy, psychological safety, teacher encouragement, and rich resources](creativity-supportive-climate-factors.md) — related
+- [Most reviewed studies defending domain-generality are minimalist, and none treats creativity as an innate faculty](minimalist-position-dominates-domain-general-studies.md) — related

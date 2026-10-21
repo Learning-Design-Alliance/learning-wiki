@@ -55,3 +55,4 @@ The authors propose, based on the Oklahoma analysis, that "empirical Bayes shrin
 - [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](teacher-team-and-full-roster-methods-produce-similar-estimates.md) — related
 - The paper clarifies confusion about the use of value-added information in teacher evaluation — a broader claim this one bears on
 - [Multiple sources of student information can be accumulated to estimate teacher effectiveness](multiple-sources-accumulate-teacher-effectiveness.md) — related
+- [Precision-weighted shrinkage in MAIHDA yields reliable conservative estimates for small strata and helps solve the multiple-testing problem](maihda-shrinkage-small-strata-advantages.md) — related

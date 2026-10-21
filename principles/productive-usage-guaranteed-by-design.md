@@ -19,7 +19,7 @@ sources:
 # Design tools so productive usage is guaranteed by affordances and constraints rather than instructions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (16 for, 11 mixed) · 24 studies (8 causal, 6 theoretical, 3 qualitative, 3 design, 2 review, 2 associational), `q1`–`q3` · 6 of 24 report an effect size · 24 claims rest on one study
+> **Evidence** · 28 claims (17 for, 11 mixed) · 25 studies (8 causal, 7 theoretical, 3 qualitative, 3 design, 2 review, 2 associational), `q1`–`q3` · 6 of 25 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,7 @@ Claims read for this page and used only for a limit or a row, or bearing on it f
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](../claims/ai-scaffolding-fading-learned-helplessness.md) [~W] — a review's argued risk, no data; it argues for teaching self-regulated use rather than only constraining the tool.
 - [Hint-not-solution is the most challenging rubric dimension, with scores ranging from 6% to 81% across models](../claims/hint-not-solution-most-challenging-dimension.md) [~W] — whether a hints-only configuration holds depends on the model; used in the default design's configuration test.
 - [AI-generated homework hints were positively associated with exam performance only when exam questions closely matched the homework content](../claims/ai-hints-aligned-exam-performance-only.md) [~W] — an association reported in a review (382 physics students); bears on what an unaided check should include.
+- [Chatbot access during mathematics practice improved practice performance but lowered subsequent unaided exam performance, and a hint-giving interface eliminated the penalty](../claims/chatbot-crutch-unaided-exam-penalty.md) [+W] — attached 2026-10-21 from Daiki Nakamura (2026), which proposed "Design tasks and tools so that constitutive work stays with the learner: withhold answers, demand justification, and reward unaided capability"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

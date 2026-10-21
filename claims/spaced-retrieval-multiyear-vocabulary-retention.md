@@ -54,3 +54,4 @@ The review attributes this to Bahrick, Bahrick, Bahrick and Phelps (1993), descr
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
+- [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — related

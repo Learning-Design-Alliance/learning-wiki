@@ -27,7 +27,7 @@ sources:
 # Dual Coding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (12 for, 12 mixed, 6 against) · 40 studies (16 causal, 12 review, 9 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 40 report an effect size · 21 claims rest on one study
+> **Evidence** · 31 claims (13 for, 12 mixed, 6 against) · 41 studies (16 causal, 13 review, 9 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 41 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 
 - [Cognitive skills are the most probable student characteristic to modify picture effects: low math performers do better without representational pictures, low reading-comprehension students better with them](../claims/cognitive-skills-moderate-picture-effects.md) [~W]
 - [Representational pictures show consistently null effects for word problems with demanding characteristics such as rational numbers, probabilistic reasoning, or realistic considerations](../claims/representational-pictures-null-demanding-tasks.md) [~W]
+- [Learning by drawing outperforms text-based strategies but is often less effective than studying pre-made drawings, with guidance and drawing training as key determinants](../claims/drawing-beats-text-loses-to-premade-visuals.md) [+W]
 
 ## Related Principles
 - [Multimodal Instruction](multimodal-instruction.md)

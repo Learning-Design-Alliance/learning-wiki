@@ -53,3 +53,4 @@ The editorial reports, from Ingulfsen et al.'s detailed interaction analysis of 
 - [Teacher interviews identified five types of monitored information and, via the Kano method, four highest-priority dashboard indicators for CSCL monitoring](teacher-interviews-prioritize-dashboard-indicators.md) — related
 - [In computer-mediated problem solving, students may attribute their problems to the technology rather than to their own work, complicating how they frame the problem context](students-attribute-problems-to-technology-not-own-work.md) — related
 - [Computer-supported environments can support development of mathematical understanding toward formalization even when domain experts are not present](vmt-supports-mathematical-formalization-without-experts.md) — related
+- [Experts introduce procedure and planning explanations over time, typically after an initial step or action is completed](planning-explanations-later-in-turn.md) — related

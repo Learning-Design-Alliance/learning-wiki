@@ -53,3 +53,4 @@ Moderator analysis across primary (k=4), secondary (k=8), and undergraduate (k=8
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
 - [The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect](srl-effect-no-course-type-difference.md) — related
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
+- [SRL interventions produce large average effects on academic and motivational outcomes, per meta-analytic syntheses](srl-interventions-large-average-effects.md) — related

@@ -51,3 +51,4 @@ The editor's observational assessment of methodological trends over the last dec
 - Distinguishing metacognitive knowledge from skills, and metacognition from self-regulated learning, is an unresolved field-wide issue — related
 - [Mind wandering can both prompt SRL and function as a regulatory strategy, and multimodal machine-learning sensing offers scalable assessment of attentive states](mind-wandering-dual-role-srl-regulatory-strategy.md) — related
 - [Think-aloud reports are incomplete and sometimes nonveridical, particularly for metacognitive processes](think-aloud-veridicality-incomplete-reports.md) — related
+- [Research on teachers' SRL knowledge is methodologically dominated by cross-sectional quantitative designs with non-standardized measures](cross-sectional-quantitative-dominance-srl-teacher-knowledge.md) — related

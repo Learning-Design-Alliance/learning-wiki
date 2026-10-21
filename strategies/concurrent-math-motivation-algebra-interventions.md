@@ -48,6 +48,7 @@ The review recommends that interventions for algebra address both domains at onc
 
 - [Reduce math anxiety by addressing the anxiety rather than training math alone](address-anxiety-not-only-math-training.md)
 - [Reduce math anxiety in children with DD by improving math achievement early through targeted interventions](early-achievement-interventions-reduce-math-anxiety-dd.md)
+- [Design intervention programs that reduce the links between achievement goals and internalizing problems](interventions-reducing-goal-internalizing-links.md)
 
 ## Examples
 -

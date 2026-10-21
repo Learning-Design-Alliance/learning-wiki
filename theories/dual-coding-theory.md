@@ -12,7 +12,7 @@ generated:
 # Dual Coding Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 4 studies (2 review, 1 causal, 1 qualitative), `q2`–`q3` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 5 studies (3 review, 1 causal, 1 qualitative), `q2`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems. Learning can improve when instruction coordinates language with meaningful imagery or other visual representation.
@@ -30,6 +30,7 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 - [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](../claims/modality-matching-complementary-channels-video.md) [+W]
 - [Students perceived data comics as more accessible, more engaging, and easier to retain information from than conventional visualisations](../claims/students-perceive-data-comics-accessible-engaging-memorable.md) [+W]
 - [Verbal labels have a special status in influencing visual processing beyond mere association](../claims/verbal-labels-special-status-visual-processing.md) [+W]
+- [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](../claims/synced-audio-visual-presentation-better-learning.md) [+W]
 
 ## Related Theories
 

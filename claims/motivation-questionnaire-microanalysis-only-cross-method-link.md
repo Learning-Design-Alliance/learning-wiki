@@ -50,3 +50,4 @@ Monotrait-heteromethod correlational analysis (Table 7) in 70 college students; 
 - [Whether an SRL component correlates with GPA depends on how it is assessed: cognition via a strategy knowledge test, motivation via questionnaire, metacognition via an open-ended microanalytic question](different-methods-different-srl-components-achievement.md) — related
 - Of 289 studies on motivation regulation, approximately three quarters examined university students, used cross-sectional designs, and relied on self-report questionnaires — related
 - [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](skt-srl-no-gpa-correlation.md) — related
+- [Research on teachers' SRL knowledge is methodologically dominated by cross-sectional quantitative designs with non-standardized measures](cross-sectional-quantitative-dominance-srl-teacher-knowledge.md) — related

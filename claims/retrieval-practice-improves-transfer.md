@@ -117,3 +117,4 @@ Participants studied prose passages and then either repeatedly restudied them or
 - [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](limited-support-semantic-elaboration-testing-accounts.md) — related
 - [Practice tests benefit retention (g = 0.63) and transfer (g = 0.53) outcomes without a significant difference between them](practice-tests-aid-retention-and-transfer.md) — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
+- [The testing effect from frequent retrieval is revealed only on later comprehensive tests, not in performance in other courses](testing-effect-limited-to-comprehensive-tests.md) — related

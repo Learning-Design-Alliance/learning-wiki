@@ -19,7 +19,7 @@ sources:
 # Mathematical Imagery Trainer for Proportion
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 An embodied mathematics-learning environment developed by Dor Abrahamson and colleagues in which learners manipulate on-screen cursors to construct proportional relationships through staged visual and numerical overlays.
@@ -27,16 +27,18 @@ An embodied mathematics-learning environment developed by Dor Abrahamson and col
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Mathematical Imagery Trainer for Proportion (MIT-P): an embodied-interaction environment where the screen turns green only when cursor heights relate by a target ratio**: The MIT-P is a design solution to students' enduring challenges with proportional relations: a student sits before a large red screen and is asked to 'make the screen green', which occurs only when the cursors' heights relate by the correct ratio (e.g., 1:2). The activity advances through stages, each launched when the instructor introduces a new display overlay — cursors, a grid, numerals along the y-axis — after the student satisfies a protocol criterion, with a full design including a ratio table for indirect control. An iPad version was released at the printed URL. (Dor Abrahamson et al. (2015))
+- **Mathematics Imagery Trainer: a technologically enabled activity architecture for embodied mathematics learning**: The Mathematics Imagery Trainer is a technologically enabled activity architecture in which students manipulate a geometrical figure, such as a rectangle, with both hands along orthogonal axes while color feedback signals a target ratio. The student is "tasked first to make the rectangle green and, once that is accomplished, to keep moving the two vertices while keeping the rectangle green". After a performance criterion is met, a human or virtual tutor introduces grids and numerals, and activities then move to paper-and-pen tasks formalizing the attentional anchor. (Dor Abrahamson · Franz Mechsner (2022))
 
 ### Claims
+- [Students solving bimanual proportion tasks spontaneously develop attentional anchors, such as an imaginary diagonal line, that guide coordinated movement](../claims/attentional-anchors-emerge-math-trainer.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Dor Abrahamson & Raúl Sánchez–García. (2015). A Call to Action: Towards an Ecological-Dynamics Theory of Mathematics Learning, Teaching, and Design. Proceedings of the 37th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education. http://www.tinyurl.com/FreeMITP
-
 <!-- merged 2026-10-10 from elements/mitp-mathematical-imagery-trainer-proportion ("Mathematical Imagery Trainer for Proportion (MIT-P): an embodied-interaction environment where the screen turns green only when cursor heights relate by a target ratio"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Dor Abrahamson · Franz Mechsner. (2022). Toward Synergizing Educational Research and Movement Sciences: a Dialogue on Learning as Developing Perception for Action. Educational Psychology Review. https://doi.org/10.1007/s10648-022-09668-3
 
 # Mathematical Imagery Trainer for Proportion (MIT-P): an embodied-interaction environment where the screen turns green only when cursor heights relate by a target ratio
 

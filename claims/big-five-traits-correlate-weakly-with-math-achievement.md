@@ -56,3 +56,8 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [Other-reports of teacher personality are more strongly associated with teacher outcomes than self-reports](other-report-personality-stronger-than-self-report.md) — related
 - [Big Five personality factors show few consistent effects on metacognitive judgments in domain-specific tests](big-five-few-consistent-effects-on-judgments.md) — related
 - [Mathematics self-concept correlates strongly with mathematics achievement (r = .43), while verbal self-concept barely does (r = .12)](math-self-concept-correlates-strongly-with-math-achievement.md) — related
+- [Conscientiousness correlates more strongly with grades than with standardized test scores, across both language and STEM domains](conscientiousness-grades-vs-test-scores.md) — related
+- [Conscientiousness shows the strongest links to SRL and robustly predicts academic performance even after accounting for cognitive ability](conscientiousness-predicts-achievement-srl-link.md) — related
+- [Extraversion correlates positively with achievement in language domains but not in STEM, a domain pattern driven by grades](extraversion-language-domain-pattern.md) — related
+- [Funnel plot asymmetry for openness, extraversion, and neuroticism appears attributable to reasons other than publication bias](funnel-asymmetry-not-publication-bias.md) — related
+- [Neuroticism correlates negatively with achievement overall, most strongly with STEM test scores](neuroticism-negative-achievement-association.md) — related

@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 22 claims (9 for, 11 mixed, 2 against) · 17 studies (10 causal, 3 review, 3 theoretical, 1 design), `q2`–`q3` · 1 of 17 report an effect size · 20 claims rest on one study
+> **Evidence** · 23 claims (9 for, 12 mixed, 2 against) · 18 studies (10 causal, 4 review, 3 theoretical, 1 design), `q2`–`q3` · 1 of 18 report an effect size · 21 claims rest on one study
 
 ## Description and scope
 
@@ -110,6 +110,7 @@ This pattern is scoped to selecting solution support for structured tasks. Open-
 - [Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning](../claims/liking-is-not-learning-decimals-tutor.md) [~W]
 - [Students using a worked-example revised probability textbook improved more in probabilistic reasoning than students using the standard textbook](../claims/worked-example-textbook-improves-probability-learning.md) [+W]
 - [The worked example effect failed to replicate for geometry and kinematics problems, and was reinstated when worked examples were restructured to reduce split attention](../claims/worked-example-effect-split-attention-replication-history.md) [~W]
+- [Combining tracing with imagining (tracing with closed eyes) reduced problem-solving times compared to no tracing and imagining in worked-example mathematics learning](../claims/tracing-imagining-combination-reduces-solving-times.md) [~W]
 
 ## Key Sources
 

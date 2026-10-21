@@ -29,7 +29,8 @@ A publicly available toolkit by Bicakci et al. providing annotated R scripts and
 - [Under bias-adjusted planning assumptions, approximately 14 independent moderator effect sizes per moderator level are needed for 80% power, and about 60.2% of corpus effect sizes fell below this threshold](../claims/moderator-power-14-effect-sizes.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Annotated R syntax and OSF repository for replicating MAIHDA analyses](annotated-r-syntax-and-osf-repository-for-replicating-maihda-analyses.md)
 
 ## Key Sources
 - Bicakci, M., Heller, F., Stoeger, H., & Ziegler, A. (2026). From RAMSing to Rigor: Improving Moderator Analysis in STEM Education Meta-Research. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10172-1

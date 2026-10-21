@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (6 for, 37 mixed, 2 against) · 28 studies (10 associational, 7 causal, 7 review, 2 design, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 3 of 28 report an effect size · 44 claims rest on one study
+> **Evidence** · 46 claims (6 for, 38 mixed, 2 against) · 29 studies (10 associational, 7 causal, 7 review, 2 design, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q3` · 3 of 29 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -174,6 +174,7 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - [ACT scores show significant subgroup misprediction by race, ethnicity, and gender that HSGPA models do not, and school-level variance is smaller among students with the same ACT score than the same HSGPA](../claims/act-subgroup-misprediction-and-school-variance.md) [~W]
 - [Across everyday-mathematics studies, individuals tended to score higher on tasks linked to their everyday practices than on school-format versions of the same questions](../claims/everyday-practice-tasks-scored-higher-than-school-format.md) [~W]
 - [The authors interpret stereotype threat as a partial explanation for the standardized-test achievement gap between low- and high-SES students](../claims/stereotype-threat-partly-explains-ses-achievement-gap.md) [~W]
+- [The 'heart and soul' effort item is suitable for learning contexts in Mandarin Chinese and Spanish but not in the other interviewed cultures](../claims/lifeblood-item-culture-limited.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here

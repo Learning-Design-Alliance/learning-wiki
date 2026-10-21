@@ -51,3 +51,4 @@ Pearson's correlation analysis (Table 2) in the survey of 462 students, correlat
 - [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related
 - [Higher model quality was associated with less goal viewing and note taking, while lab report scores correlated positively with regulative tool use and negatively with helpfile viewing](tool-use-outcome-correlations-diverge.md) — related
 - [Students rate their knowledge about cognition higher than their regulation of cognition](knowledge-cognition-rated-higher-than-regulation.md) — related
+- [Deep approaches to learning correlate positively and surface approaches negatively with academic achievement](deep-approach-positive-surface-negative-correlation.md) — related

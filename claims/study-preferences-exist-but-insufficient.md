@@ -45,3 +45,4 @@ Review's conceptual analysis distinguishing preference existence from the learni
 ## Related Claims
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — related
 - [In one author's classroom media experiments, intuitive learners tended to score above sensing learners, though not in every format comparison](intuitive-learners-outperform-sensing-learners.md) — related
+- [Meta-analyses testing the matching hypothesis show a negligible overall effect of matching teaching to students' learning styles (d = 0.04)](matching-learning-styles-negligible-effect.md) — related

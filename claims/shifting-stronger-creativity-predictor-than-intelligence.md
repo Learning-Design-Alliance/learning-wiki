@@ -54,3 +54,4 @@ Authors' summary conclusion from the correlational and SEM analyses of 209 8- to
 - [After controlling for children's level of intelligence, only shifting and inhibition make a significant contribution to creativity](shifting-inhibition-unique-creativity-contribution-children.md) — related
 - [Updating ability, together with openness, explains a substantial part of the shared variance between fluid intelligence and creativity.](updating-explains-intelligence-creativity-shared-variance.md) — related
 - [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](openness-predicts-creativity-not-gf.md) — related
+- [Intelligence and creativity share more variance than the traditional assumption of distinct abilities holds](intelligence-creativity-more-in-common.md) — related

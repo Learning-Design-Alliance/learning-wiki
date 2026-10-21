@@ -56,3 +56,5 @@ ONA of retrospective cued-recall affect reports from 9 groups completing a situa
 - [Situational motivation is highly context-dependent and fluctuates within and between learners, but most studies rely on self-reports](situational-motivation-context-dependent-fluctuating-self-report-dominated.md) — related
 - [Curiosity gains depend on operator sequencing: how operators are ordered across turns, not only which operator is applied, shapes curiosity induction](operator-sequencing-affects-curiosity-gains.md) — related
 - [Low-achieving students' emotions in Knowledge Building threads tended to transition to the same or similar emotions](emotion-transition-similar-emotions-lsa.md) — a narrower finding that bears on this claim
+- [Curiosity is a special case of interest, with the two constructs overlapping in a part-whole rather than mutually exclusive relationship](curiosity-special-case-of-interest.md) — related
+- [A UK-wide expert panel (n=30) conceptualised transitions-context emotional wellbeing as affective state, tangible signs of adjustment, and mechanisms to maintain a stable affective state](expert-panel-three-conceptualisation-categories.md) — related

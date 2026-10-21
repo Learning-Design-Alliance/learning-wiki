@@ -70,3 +70,4 @@ Review synthesis across multiple cited studies covering perceived clarity of goa
 - [In a constructivist portfolio-assessment course, deep approaches decreased, surface approaches increased, and preferences for student participation and permanent evaluation decreased significantly](baeten-portfolio-approaches-shifted-surface.md) — reports the opposite
 - [Portfolio-based learning environments did not change assessment preferences or deepen learning, and increased surface approaches in first-year students](portfolio-environment-no-deeper-learning-surface-increase.md) — reports the opposite
 - [Excessive perceived workload is positively associated with a surface approach and negatively with a deep approach to learning](perceived-workload-surface-approach.md) — related
+- [Deep approaches to learning correlate positively and surface approaches negatively with academic achievement](deep-approach-positive-surface-negative-correlation.md) — related

@@ -59,3 +59,4 @@ Perception finding from interviews with central office administrators and school
 - [School leaders should be viewed and trained as instructional leaders](school-leaders-as-instructional-leaders.md) — related
 - [Time constraints, student attendance, and slow central-office approval of Statements of Work were the major implementation barriers reported by coordinators, principals, and vendors](coc-implementation-barriers-time-attendance-sow.md) — related
 - [Teachers give the most negative impact ratings to distant governance bodies: state policy (32 percent positive), subdistricts (30 percent), and central office (27 percent)](external-governance-bodies-rated-negatively.md) — related
+- [Transition Leaders play a central role in coordinating collaboration between schools and stakeholders, but their effectiveness depends on sufficient flexibility and resources](transition-leaders-coordinate-collaboration.md) — a narrower finding that bears on this claim

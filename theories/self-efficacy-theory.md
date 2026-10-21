@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 73 claims (49 for, 22 mixed, 2 against) · 54 studies (24 associational, 14 review, 12 causal, 2 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 12 of 54 report an effect size · 72 claims rest on one study
+> **Evidence** · 74 claims (50 for, 22 mixed, 2 against) · 55 studies (24 associational, 14 review, 13 causal, 2 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 13 of 55 report an effect size · 73 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -120,6 +120,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [No individual support activity other than feedback on lesson plans significantly moderated the intervention effect](../claims/no-other-support-activity-moderators-significant.md) [~W] — attached 2026-10-21 from Mok et al. (2022), which proposed "Individual support activities taxonomy linking mentoring activities to Bandura's sources of self-efficacy".
 - [Preservice teachers report higher self-efficacy for inclusive education than in-service teachers](../claims/preservice-higher-self-efficacy-inclusion-than-inservice.md) [~W]
 - [Time management interventions show conflicting evidence for raising self-efficacy](../claims/time-management-interventions-self-efficacy-mixed.md) [~W]
+- [Both GLA groups showed a large, significant increase in pipetting self-efficacy, with no difference between conditions](../claims/gla-self-efficacy-increase-vr.md) [+W]
 
 ## The evidence by question
 
