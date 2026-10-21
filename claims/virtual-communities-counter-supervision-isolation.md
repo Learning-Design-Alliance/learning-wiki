@@ -58,3 +58,4 @@ Conclusion drawn from the study's consultations and implementation case study; t
 - [SPICE learners report that the virtual Center reduced their rural isolation and made learning enjoyable](spice-learners-report-reduced-isolation.md) — a narrower finding that bears on this claim
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
 - [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](cop-relationships-combat-aie-director-isolation.md) — related
+- [Online environments function as virtual youth centres and hubs for bonding and bridging social capital](online-relatedness-virtual-youth-centres-social-capital.md) — related

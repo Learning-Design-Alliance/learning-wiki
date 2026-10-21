@@ -49,3 +49,4 @@ Whole-brain regression analysis with AU-score as covariate of interest on the AU
 - [Generating alternative uses relative to ordinary characteristics recruits mainly left temporo-parietal regions (left SMG, left AG, bilateral MTG) in both adolescents and adults](creative-idea-generation-left-temporo-parietal-recruitment.md) — related
 - [More solutions are generated in the OC condition than the AU condition, and adults generate more answers than adolescents in general, with no condition-specific age difference](condition-and-age-effects-solution-generation.md) — related
 - [Adults show greater left inferior lateral PFC activation than adolescents during relational integration](adults-greater-left-inferior-pfc-relational-activation.md) — related
+- [Ideation-based interventions are a robustly implemented explicit approach that improves creative performance](ideation-interventions-improve-creative-performance.md) — related

@@ -26,7 +26,8 @@ The article proposes two orthogonal ways to differentiate instructional support 
 - [Feedback provision support has a positive medium-sized effect (g = 0.51) whereas feedback reception support shows no significant effect](../claims/provision-support-beats-reception-support.md) [+M]
 
 ## Related Research Methods
--
+
+- [MISCA model (Message, Implementation, Student Characteristics, Context, Agents)](misca-model-message-implementation-student-characteristics-context-agents.md)
 
 ## Key Sources
 - Hornstein, J., Keller, M. V., Greisel, M., Dresel, M., & Kollar, I. (2025). Enhancing the Peer-Feedback Process Through Instructional Support: A Meta-Analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10017-3

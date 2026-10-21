@@ -59,10 +59,12 @@ Note taking supports learning only when it induces generative processing; verbat
 5. Use notes as the basis for retrieval practice or discussion, closing the loop between recording and using ([Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - Guided Notes — a pre-structured variant that reduces transcription load for novices
 - Cornell Note Taking — the canonical two-column format with built-in summary and cue sections
 - Sketchnoting — visual-spatial variant emphasizing dual coding
 - Pause Procedure — lecture pacing technique that creates the interaction windows
+- [Advise students on note-taking conditionally: consider cognitive ability, lecture format, and note-taking method rather than recommending note-taking universally](conditional-note-taking-advice.md)
 
 ## Examples
 - **Cornell note-taking system** (Cornell University Learning Strategies Center) — widely adopted two-column format with cue, note, and summary zones: https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/

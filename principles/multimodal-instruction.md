@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (8 for, 11 mixed, 3 against) · 33 studies (14 causal, 10 review, 5 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 7 of 33 report an effect size · 16 claims rest on one study
+> **Evidence** · 23 claims (9 for, 11 mixed, 3 against) · 34 studies (14 causal, 10 review, 6 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 8 of 34 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -120,6 +120,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Video Treatment Significant Macs Pre Post Gain](../claims/video-treatment-significant-macs-pre-post-gain.md) [+M]
 - [Combining voiced auditory descriptions with tactile graphics increased braille readers' likelihood of answering assessment items correctly](../claims/auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment.md) [+W] — attached 2026-10-09 from Steinbach (2022), which proposed "Provide BVI students with a mixed-representational, multi-sensory approach to mathematical materials"; tests this page's relationship.
+- [Movement-meaning congruency is the only moderator consistently associated with stronger embodied vocabulary learning effects across both research designs](../claims/movement-meaning-congruency-moderates-vocabulary-learning.md) [+M] — attached 2026-10-21 from Xiaoxuan Li · Julia Chatain · Fan Wang · Manu Kapur (2026), which proposed "Design embodied vocabulary activities so learners' movements meaningfully align with target word meanings"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

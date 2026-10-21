@@ -53,3 +53,4 @@ Behavior sequential analysis (GSEQ) of the two heterogeneous groups' RTC logs, w
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related
 - [In the collaborative MIT App Inventor study, significant interaction patterns signified coordination of behavior between team participants, and no lower self-efficacy emerged for non-CS-background participants](coordination-patterns-app-inventor-collaboration.md) — related
 - [The AMOEBA system's automated collaboration-pairing recommendations led to improved learning and more sophisticated programming by students](amoeba-live-analytics-improved-learning-pairing.md) — related
+- [Individual engagement with an educational robot yielded greater divergent-thinking gains than pair work](individual-robot-engagement-beats-pairs-divergent-thinking.md) — related

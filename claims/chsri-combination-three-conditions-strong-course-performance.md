@@ -50,3 +50,4 @@ Comparative analysis of ten CHSRI small schools using survey measures, qualitati
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](supports-matter-in-combined-clusters.md) — a broader claim this one bears on
 - Knowledge of the on-track indicator and its use in district accountability were not enough to change school practice — related
 - [In one school, well-defined instructional priorities plus deliberate leadership facilitated sustained developmental practices](developmental-practices-require-clear-priorities-and-leadership.md) — related
+- [Creativity-supportive school climates combine autonomy, psychological safety, teacher encouragement, and rich resources](creativity-supportive-climate-factors.md) — related

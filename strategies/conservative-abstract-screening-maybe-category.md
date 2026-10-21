@@ -44,6 +44,7 @@ At abstract screening, the team "intentionally adopted a conservative screening 
 
 - [Use practice rounds with independent dual extraction and third-reviewer consensus to strengthen data extraction consistency](practice-rounds-dual-extraction-consensus.md)
 - [Future AI-SRL research should broaden search strategies, include educators and younger learners, address motivation, and apply longitudinal designs](ai-srl-future-research-recommendations.md)
+- [Use broad and specific keywords and develop methodological search filters to improve retrieval of arts-based research](abr-keyword-indexation-strategy.md)
 
 ## Examples
 -

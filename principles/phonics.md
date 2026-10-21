@@ -31,7 +31,7 @@ sources:
 # Phonics
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (16 for, 8 mixed) · 41 studies (12 quant-synthesis, 10 causal, 8 review, 5 associational, 5 theoretical, 1 qualitative), `q1`–`q4` · 11 of 41 report an effect size · 12 claims rest on one study
+> **Evidence** · 25 claims (17 for, 8 mixed) · 42 studies (13 quant-synthesis, 10 causal, 8 review, 5 associational, 5 theoretical, 1 qualitative), `q1`–`q4` · 12 of 42 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Read against the model on 2026-10-19. Of the twelve bullets that were here, ten 
 Now in the model: [Automatization of the phonological component through pronunciation practice improves ESP students' reading comprehension more than traditional translation-based instruction](../claims/phonological-automatization-improves-esp-reading-comprehension.md) [+M] (listed here twice, as +M and +W; now the foreign-language row, Evidence and qualifications, and the evidence by question), [Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time](../claims/early-decoding-failure-widens-acquisition-gap.md) [+W] (foreign-language row), [Low reading-group first graders read far fewer words than high-group peers, limiting elaboration](../claims/low-group-first-graders-read-few-words.md) [~W] (whole-class row and the falling-behind diagnosis), [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](../claims/young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) [~W] (context-guessing diagnosis), [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M] (step 8), [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] (low-confidence row), [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] (step 5), [Combined letter name and sound instruction produced greater letter sound gains than number instruction, with a trend over letter sound only instruction](../claims/combined-lnls-letter-sound-gains-over-control.md) [+M] (step 8, pre-reader row, Evidence and qualifications, evidence by question), [Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not](../claims/systematic-phonics-benefits-spelling-and-reading.md) [+M] (step 3 and Evidence and qualifications).
 
 <!-- deprecated (2026-10-05, the two claims were merged): - [Phonological Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+M] — carries the same single entry (Ehri et al. 2001, phonemic awareness) and the same subclaim as the phonemic-awareness claim above; a merge candidate. -->
+- [Phonics instruction has a large overall effect on the decoding skills of students with intellectual disability (g = 1.42)](../claims/phonics-large-effect-decoding-intellectual-disability.md) [+W] — attached 2026-10-21 from Sermier Dessemontet et al. (2019), which proposed "Phonics instruction for students with intellectual disability was typically delivered as systematic, direct instruction in a one-to-one format"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -179,6 +180,7 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 - [QR-code phonics video lessons embedded in decodable books](../products/just-right-reader-take-everywhere-literacy-packs.md)
 - [SIPPS foundational skills reading curriculum](../products/sipps.md)
 - [Structured scope-and-sequence lesson pattern with daily 20-30 minute explicit phonics instruction](../designs/95-pcp-scope-sequence-daily-phonics-pattern.md)
+- [Use systematic, direct phonics instruction delivered one-to-one when teaching decoding to students with intellectual disability](../strategies/systematic-direct-phonics-one-to-one-strategy-id.md)
 
 ### Validated
 - Ehri, Nunes, Stahl & Willows (2001) meta-analyzed 38 studies and found systematic phonics instruction significantly outperformed unsystematic or no phonics on word reading, decoding, and comprehension, with the largest effects in kindergarten and first grade [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.3102/00346543071003393) [+S]

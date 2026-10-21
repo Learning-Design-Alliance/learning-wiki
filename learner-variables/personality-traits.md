@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 33 claims (16 show a difference, 12 mixed, 5 no difference) · 17 studies (9 review, 5 associational, 2 causal, 1 quant-synthesis), `q2`–`q3` · 6 of 17 report an effect size · 33 claims rest on one study
+> **Evidence** · 38 claims (20 show a difference, 13 mixed, 5 no difference) · 18 studies (9 review, 5 associational, 2 causal, 2 quant-synthesis), `q2`–`q3` · 6 of 18 report an effect size · 38 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -68,6 +68,11 @@ Personality traits are relatively stable individual differences, most often meas
 - [Most investigated counselor personality variables are not significantly related to effectiveness criteria, and variables significant in one study often show contrary results when re-investigated](../claims/counselor-traits-mostly-unrelated-to-effectiveness.md) [~M] — learners who differ on it differ in outcomes
 - [Student factors — older age, personality traits, intrinsic motivation and self-efficacy — are associated with deeper approaches to learning](../claims/student-factors-deep-approach.md) [+M] — learners who differ on it differ in outcomes
 - [Fit influences career progress and personal resources during the transition from higher education to the labour market](../claims/fit-influences-career-progress-and-personal-resources.md) [+M] — learners who differ on it differ in outcomes
+- [Children's agreeableness, conscientiousness, extraversion, and openness are positively associated with positive parent–child relationships and negatively associated with negative parent–child relationships](../claims/child-positive-personality-traits-parent-child-relationship-quality.md) [+M] — learners who differ on it differ in outcomes
+- [Children's neuroticism is negatively associated with positive parent–child relationships and positively associated with negative parent–child relationships](../claims/child-neuroticism-parent-child-relationship-quality.md) [+M] — learners who differ on it differ in outcomes
+- [Parents' personality traits show patterns comparable to children's, except that parents' openness is not significantly associated with parent–child relationship quality](../claims/parent-personality-traits-parent-child-relationship-quality.md) [~M] — learners who differ on it differ in outcomes
+- [Personality similarity appears to be positively associated with positive adult–child relationships (preliminary evidence)](../claims/personality-similarity-positive-adult-child-relationships.md) [+M] — learners who differ on it differ in outcomes
+- [Personality traits of both children and teachers may be associated with teacher–child relationships, especially for relational positivity](../claims/personality-traits-teacher-child-relationships.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

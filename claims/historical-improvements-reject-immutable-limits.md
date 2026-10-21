@@ -51,3 +51,4 @@ Historical-comparison evidence reviewed by the authors, described as the best si
 - [A review reports that relative-age effects tied to cohort cutoff dates bias selection into elite youth soccer and hockey](relative-age-effect-talent-selection-bias.md) — related
 - In a changing world, today's excellence may be tomorrow's ignorance, so schools should perhaps strive for adaptability — related
 - [Test scores measure accumulated knowledge at a moment in time, not innate student ability](test-scores-measure-opportunity-not-innate-ability.md) — a narrower finding that bears on this claim
+- [Systemic barriers—rigid curricula, limited teacher training, and innate-creativity misconceptions—marginalize creativity in mainstream education](systemic-barriers-marginalize-creativity.md) — related

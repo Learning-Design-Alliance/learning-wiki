@@ -54,3 +54,4 @@ The review's narrative synthesis of 22 primary empirical studies, summarized des
 - [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](individual-supportive-factors-adolescent-creativity.md) — related
 - [Self-assessed creative performance correlates moderately with divergent thinking, but self-assessed idea creativity does not](performance-self-assessment-tracks-dt-idea-self-assessment-does-not.md) — related
 - [ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance](chatgpt-boosts-self-efficacy-not-performance.md) — related
+- [Individual engagement with an educational robot yielded greater divergent-thinking gains than pair work](individual-robot-engagement-beats-pairs-divergent-thinking.md) — related

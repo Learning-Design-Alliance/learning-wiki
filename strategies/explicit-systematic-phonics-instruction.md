@@ -104,6 +104,7 @@ Phonics instruction is one of the most consistently supported findings in educat
 - [Decodable Text Reading](decodable-text-reading-practice.md) — the application context that consolidates taught correspondences
 - [Repeated Reading](repeated-reading.md) — builds fluency once decoding is in place
 - [Vocabulary Instruction](explicit-vocabulary-instruction.md) — the comprehension-side partner that phonics alone cannot supply
+- [Use systematic, direct phonics instruction delivered one-to-one when teaching decoding to students with intellectual disability](systematic-direct-phonics-one-to-one-strategy-id.md)
 
 ## Examples
 - **[Letters and Sounds](https://www.gov.uk/government/publications/letters-and-sounds)** (England) — a national six-phase synthetic phonics program with a fixed teaching sequence and decodable text requirements.

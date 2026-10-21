@@ -78,3 +78,4 @@ Case-study evidence on principals' role in enabling LSCs reports that "they make
 - [Teachers' ability to deliver strong instruction depends substantially on the school context, family resources and challenges, and the larger community](instruction-delivery-depends-on-school-context.md) — a broader claim this one bears on
 - [A regional collective initiative (Teaching is My Favorite Color) provided teachers of color a safe space, belonging, and authentic identity expression](teaching-is-my-favorite-color-belonging-impact.md) — related
 - [Participants and school staff described noticeable improvements in grades and achievement among Compass Care students](compass-care-reported-achievement-improvements.md) — a narrower finding that bears on this claim
+- [Creativity-supportive school climates combine autonomy, psychological safety, teacher encouragement, and rich resources](creativity-supportive-climate-factors.md) — related

@@ -57,3 +57,4 @@ The essay reports, citing Szpunar et al. (2013), a comparison of interpolated-qu
 - [Task-unrelated thoughts are consistently associated with lower test performance, accounting for approximately 7% of the variation in learning outcomes](tut-lower-test-performance-7-percent-variance.md) — related
 - [Properly segmented text facilitates decoding, encoding, and retrieval better than poorly segmented text](segmentation-idea-units-improve-learning.md) — related
 - [Guiding questions and student control over video movement improve learning outcomes and satisfaction](guiding-questions-and-video-control-improve-learning.md) — related
+- [Continuously thematically structured lectures led to worse free recall than discontinuous lectures, contrary to intuition](lecture-structure-worse-recall-continuous.md) — related

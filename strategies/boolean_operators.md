@@ -74,6 +74,7 @@ Search is a problem-solving task with a hidden logic layer; without instruction,
 - Source evaluation instruction — the necessary complement, since precise retrieval does not guarantee credible sources
 - Inquiry-based research projects — authentic tasks that give operator practice a purpose
 - [Broaden search terminology and bibliographic databases in future eWIL reviews](ewil-future-review-search-strategy.md)
+- [Use broad and specific keywords and develop methodological search filters to improve retrieval of arts-based research](abr-keyword-indexation-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — operators only become fluent through repeated, feedback-rich search attempts

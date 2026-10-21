@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (13 for, 10 mixed, 2 against) · 24 studies (7 review, 6 causal, 5 associational, 3 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 24 report an effect size · 23 claims rest on one study
+> **Evidence** · 26 claims (14 for, 10 mixed, 2 against) · 25 studies (8 review, 6 causal, 5 associational, 3 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 25 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,7 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - [Time-reversed analysis of simulated data suggests a decreasing rather than increasing effect of self-concept on achievement, yielding inconsistent conclusions from the same data](../claims/time-reversed-model-suggests-decreasing-self-concept-effect.md) [+W] — attached 2026-10-19 from Kimmo Sorjonen et al. (2025), which proposed "True causal hypotheses should survive testing with a broad set of different analyses; model-choice-sensitive support warrants suspended judgement"; tests this page's relationship.
 - No active learning intervention study in the Freeman et al. (2014) set or the 2015–2022 sample met all 12 internal validity controls [+W] — attached 2026-10-20 from Amedee Marchand Martella et al. (2023), which proposed "Active learning intervention studies should incorporate internal validity controls such as randomization, group equivalence checks, matched instructors, dosage matching, and implementation fidelity assessment".
 - Implementation fidelity was assessed in fewer than 8% of active learning intervention studies [+W] — attached 2026-10-20 from Amedee Marchand Martella et al. (2023), which proposed "Active learning intervention studies should incorporate internal validity controls such as randomization, group equivalence checks, matched instructors, dosage matching, and implementation fidelity assessment".
+- [Only four included articles achieved theoretical grounding with empirical validation](../claims/eer-few-empirically-validated-theory.md) [+W] — attached 2026-10-21 from Vorderobermeier et al. (2024), which proposed "Interweave theory, didactic instruction, and practice in future EER research and development".
 
 ## Objective and learner-valued goal
 

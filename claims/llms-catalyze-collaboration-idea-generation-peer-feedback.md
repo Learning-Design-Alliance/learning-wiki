@@ -55,3 +55,4 @@ Synthesis in the RQ1 findings section of the review: LLMs can "simulate evaluati
 - [Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training](llm-support-learning-across-education-levels.md) — a broader claim this one bears on
 - [AI's democratizing capacity is structurally contradictory: it amplifies existing capabilities rather than closing gaps between users](ai-democratization-contradiction-multiplier.md) — reports the opposite
 - [GenAI is reframed from a threat to academic integrity into a catalyst for more equitable assessment](genai-reframed-integrity-threat-to-equity-catalyst.md) — related
+- [Most studies used online peer feedback to improve students' task performance](peer-feedback-function-task-performance-dominant.md) — related

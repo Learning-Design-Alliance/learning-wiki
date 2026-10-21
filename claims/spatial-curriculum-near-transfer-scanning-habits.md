@@ -89,3 +89,4 @@ Mental rotation task (three-dimensional rotation, not strongly related to the tw
 - [Neural change during spatial scanning predicts verbal reasoning transfer better than traditional performance-based assessments, and best prediction combines both](neural-change-outpredicts-traditional-assessments.md) — related
 - [The spatial curriculum produced longitudinal neural changes during reasoning: increased aIPS activity, increased SpatialMap-to-DLPFC connectivity, and increased nonspatial-to-spatial representational similarity](spatial-curriculum-neural-changes-reasoning.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — a broader claim this one bears on
+- [Ideation training benefits transfer by domain: verbal training raised verbal and figural creativity, figural training only figural](ideation-training-domain-specific-transfer.md) — related
