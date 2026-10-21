@@ -44,7 +44,7 @@ Random-effects moderator analysis of intervention duration. Table 4 reports g = 
 
 ## Related Claims
 - [mCSCL effects are larger in mathematics and science than in social studies and specific abilities](mcscl-domain-subject-moderator.md) — related
-- [Group size moderates mCSCL effects, with tetrads showing the largest effect and dyads not significant](mcscl-group-size-moderator.md) — related
+- [mCSCL effects do not differ significantly by group size, though tetrads show the largest subgroup effect and dyads alone are not significant](mcscl-group-size-moderator.md) — related
 - [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — related
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related
 - [mCSCL outperforms individual learning and non-mobile collaborative learning, but shows no significant advantage over desktop CSCL](mcscl-vs-control-group-types.md) — related

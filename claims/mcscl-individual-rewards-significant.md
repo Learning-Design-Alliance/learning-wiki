@@ -44,7 +44,7 @@ Random-effects moderator analysis of reward methods. Table 4 reports individual 
 
 ## Related Claims
 - [mCSCL effects are larger in mathematics and science than in social studies and specific abilities](mcscl-domain-subject-moderator.md) — related
-- [Group size moderates mCSCL effects, with tetrads showing the largest effect and dyads not significant](mcscl-group-size-moderator.md) — related
+- [mCSCL effects do not differ significantly by group size, though tetrads show the largest subgroup effect and dyads alone are not significant](mcscl-group-size-moderator.md) — related
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [mCSCL produces a medium overall effect on learning performance (Hedges's g = 0.516)](mcscl-medium-overall-effect-0-516.md) — related
 - [mCSCL outperforms individual learning and non-mobile collaborative learning, but shows no significant advantage over desktop CSCL](mcscl-vs-control-group-types.md) — related

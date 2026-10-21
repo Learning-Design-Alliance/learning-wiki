@@ -44,7 +44,7 @@ Random-effects meta-analysis integrating 163 effect sizes from 48 articles (5,29
 
 ## Related Claims
 - [mCSCL benefits learning achievement, learning attitude, and peer interaction, with the largest effect on achievement](mcscl-benefits-three-outcome-types.md) — related
-- [Group size moderates mCSCL effects, with tetrads showing the largest effect and dyads not significant](mcscl-group-size-moderator.md) — related
+- [mCSCL effects do not differ significantly by group size, though tetrads show the largest subgroup effect and dyads alone are not significant](mcscl-group-size-moderator.md) — related
 - [mCSCL outperforms individual learning and non-mobile collaborative learning, but shows no significant advantage over desktop CSCL](mcscl-vs-control-group-types.md) — related
 - [Structured and ill-structured mCSCL teaching methods show similar effects; competitive methods (TGT, STAD) were not significant](mcscl-teaching-method-moderator.md) — related
 - [Individual rewards yield significant mCSCL effects while group reward methods do not](mcscl-individual-rewards-significant.md) — related

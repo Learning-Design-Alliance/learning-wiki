@@ -44,7 +44,7 @@ Random-effects moderator analysis of teaching methods. Table 4 reports LT g = 0.
 
 ## Related Claims
 - [mCSCL effects are larger in mathematics and science than in social studies and specific abilities](mcscl-domain-subject-moderator.md) — related
-- [Group size moderates mCSCL effects, with tetrads showing the largest effect and dyads not significant](mcscl-group-size-moderator.md) — related
+- [mCSCL effects do not differ significantly by group size, though tetrads show the largest subgroup effect and dyads alone are not significant](mcscl-group-size-moderator.md) — related
 - [mCSCL produces a medium overall effect on learning performance (Hedges's g = 0.516)](mcscl-medium-overall-effect-0-516.md) — related
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](secondary-cooperative-learning-newmann-thompson.md) — related
 - [mCSCL outperforms individual learning and non-mobile collaborative learning, but shows no significant advantage over desktop CSCL](mcscl-vs-control-group-types.md) — related

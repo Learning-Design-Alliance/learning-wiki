@@ -176,7 +176,7 @@ Group performance during the task, individual understanding straight after it, d
 
 ## Claims
 
-- [Group size moderates mCSCL effects, with tetrads showing the largest effect and dyads not significant](../claims/mcscl-group-size-moderator.md) [~W]
+- [mCSCL effects do not differ significantly by group size, though tetrads show the largest subgroup effect and dyads alone are not significant](../claims/mcscl-group-size-moderator.md) [~W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

@@ -45,7 +45,7 @@ Random-effects moderator analysis of domain subjects. Table 4 reports mathematic
 ## Related Claims
 - [mCSCL benefits learning achievement, learning attitude, and peer interaction, with the largest effect on achievement](mcscl-benefits-three-outcome-types.md) — related
 - [mCSCL effects vary significantly by intervention duration, peaking at 1–4 weeks](mcscl-intervention-duration-moderator.md) — related
-- [Group size moderates mCSCL effects, with tetrads showing the largest effect and dyads not significant](mcscl-group-size-moderator.md) — related
+- [mCSCL effects do not differ significantly by group size, though tetrads show the largest subgroup effect and dyads alone are not significant](mcscl-group-size-moderator.md) — related
 - [mCSCL outperforms individual learning and non-mobile collaborative learning, but shows no significant advantage over desktop CSCL](mcscl-vs-control-group-types.md) — related
 - [Structured and ill-structured mCSCL teaching methods show similar effects; competitive methods (TGT, STAD) were not significant](mcscl-teaching-method-moderator.md) — related
 - [Individual rewards yield significant mCSCL effects while group reward methods do not](mcscl-individual-rewards-significant.md) — related
