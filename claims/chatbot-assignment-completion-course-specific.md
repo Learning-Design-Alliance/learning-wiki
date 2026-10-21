@@ -11,7 +11,7 @@ evidence_strength: mixed
 sources:
   - id: meyer-2026
     resource: "https://doi.org/10.3386/w35397"
-    title: "Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564 [doi:10.3386/w35397](https://doi.org/10.3386/w35397)"
+    title: "Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance (NBER Working Paper No. 35397). National Bureau of Economic Research. [doi:10.3386/w35397](https://doi.org/10.3386/w35397). Also released as EdWorkingPaper 22-564, Annenberg Institute at Brown University: https://edworkingpapers.com/ai22-564"
     author: Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Meyer 2026
 
-Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564 [doi:10.3386/w35397](https://doi.org/10.3386/w35397)
+Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance (NBER Working Paper No. 35397). National Bureau of Economic Research. [doi:10.3386/w35397](https://doi.org/10.3386/w35397). Also released as EdWorkingPaper 22-564, Annenberg Institute at Brown University: https://edworkingpapers.com/ai22-564
 
 `q3 · i?` · `causal · r3`
 

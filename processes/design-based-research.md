@@ -1,7 +1,7 @@
 ---
 type: process
 id: design-based-research
-moved_from: [research-method/design-based-research]
+moved_from: [research-method/design-based-research, research-method/design-based-research-dbr]
 title: Design-Based Research
 description: A design process run as research. An intervention is designed and revised over repeated cycles in a real learning setting, in collaboration with practitioners, so that each cycle both improves the design and builds or tests theory about learning.
 status: review
@@ -110,6 +110,7 @@ The literature offers no single sequence. This composite follows the stages Bann
 ## Key Sources
 - Christensen, K. D. N., & West, R. E. (2018). The development of design-based research. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 323–339). EdTech Books. https://edtechbooks.org/lidtfoundations/development_of_design-based_research
 - Friedman, K., Benge-Steele, C., & Woods, A.D. (2026). ATS Field Note: Breakthrough Innovation. ATS Hub Field Note Series. https://doi.org/10.51388/20.500.12265/297
+- Sten Ludvigsen. (2016). CSCL towards the future: The second decade of ijCSCL. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-016-9230-x
 
 <!-- merged 2026-10-20 from research-methods/design-based-research ("Design-Based Research"), design-based research is a design process, not a research method (maintainer 2026-10-20): its body as it stood. Its bullets this page lacked were added above.
 
@@ -134,4 +135,28 @@ Because education systems are structurally resistant to change, the article argu
 
 ## Key Sources
 - Friedman, K., Benge-Steele, C., & Woods, A.D. (2026). ATS Field Note: Breakthrough Innovation. ATS Hub Field Note Series. https://doi.org/10.51388/20.500.12265/297
+-->
+
+<!-- merged 2026-10-21 from research-methods/design-based-research-dbr ("Design-Based Research (DBR)"), misfiled as a research-method and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Design-Based Research (DBR)
+
+> **Research Method** · [All research methods](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The editorial endorses design-based research as a methodological approach tightly related to CSCL. As printed: "In the CSCL field, DBR is an approach that makes it possible to test new technological features and representations (e.g., visualizations) with a clear scope and rigor (Jeong et al. 2014)." The editorial notes DBR principles have been altered toward use of both experimental and ethnographic methods, beyond the classical pre-posttest design with control groups in naturalistic settings.
+
+## Accounts
+<!- - How each source describes or uses the method - ->
+- **Use design-based research in CSCL to test new technological features and representations with clear scope and rigor**: The editorial endorses design-based research as a methodological approach tightly related to CSCL. As printed: "In the CSCL field, DBR is an approach that makes it possible to test new technological features and representations (e.g., visualizations) with a clear scope and rigor (Jeong et al. 2014)." The editorial notes DBR principles have been altered toward use of both experimental and ethnographic methods, beyond the classical pre-posttest design with control groups in naturalistic settings. (Sten Ludvigsen (2016))
+
+### Claims
+
+
+## Related Research Methods
+-
+
+## Key Sources
+- Sten Ludvigsen. (2016). CSCL towards the future: The second decade of ijCSCL. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-016-9230-x
 -->

@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: ritter-2007
     resource: "https://doi.org/10.3758/bf03194060"
-    title: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060"
+    title: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 14(2), 249-255. https://doi.org/10.3758/bf03194060"
     author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A."
     q: 2
     i: "?"
@@ -19,7 +19,7 @@ sources:
     rigour: 1
   - id: ritter-2007-2
     resource: "https://doi.org/10.3758/bf03194060"
-    title: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060"
+    title: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 14(2), 249-255. https://doi.org/10.3758/bf03194060"
     author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A."
     q: 2
     i: "?"
@@ -39,7 +39,7 @@ sources:
 
 ### Ritter 2007
 
-Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060
+Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 14(2), 249-255. https://doi.org/10.3758/bf03194060
 
 `q2 · i?` · `review · r1`
 
@@ -49,7 +49,7 @@ The same Miami-Dade analysis reported particularly dramatic findings for special
 
 ### Ritter 2007 (2)
 
-Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060
+Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 14(2), 249-255. https://doi.org/10.3758/bf03194060
 
 `q2 · i?` · `design · r2`
 
