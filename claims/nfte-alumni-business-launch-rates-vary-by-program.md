@@ -49,3 +49,4 @@ Descriptive survey analysis comparing business launch rates across NFTE program 
 - [The self-employment rate among employed NFTE alumni respondents (16 percent) was higher than the national rate of 6 percent for young adults ages 25–34](nfte-alumni-self-employment-above-national-rate.md) — related
 - [A majority of NFTE alumni respondents were attending or had finished college, and 91 percent of college finishers completed a four-year degree or higher](nfte-alumni-majority-college-enrollment.md) — related
 - [In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors](entrepreneur-course-trial-matches-business-majors.md) — related
+- [Review reports Bolashak scholarship alumni had above-95% employment but very few became entrepreneurs despite desire to start businesses](bolashak-employment-few-entrepreneurs.md) — related

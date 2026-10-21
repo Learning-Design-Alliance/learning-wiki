@@ -47,5 +47,5 @@ Qualitative synthesis of the 80 included studies reports "65% (n = 40) provided 
 
 ## Related Claims
 - [Interconnections between motivational constructs and learning are complex and temporal, evidenced by 78% (n = 14) of momentary-wave studies](complex-temporal-interconnections-motivation-learning.md) — related
-- [Situational motivation research splits into two waves: situation-specific offline measurement (n = 62) dominates, while momentary online measurement (n = 18) remains scarce](two-waves-situational-motivation-research.md) — related
+- Situational motivation research splits into two waves: situation-specific offline measurement (n = 62) dominates, while momentary online measurement (n = 18) remains scarce — related
 - [Situational motivation is highly context-dependent and fluctuates within and between learners, but most studies rely on self-reports](situational-motivation-context-dependent-fluctuating-self-report-dominated.md) — a broader claim this one bears on

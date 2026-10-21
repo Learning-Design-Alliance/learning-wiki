@@ -17,7 +17,7 @@ sources:
 # Additional empirical studies are needed to determine whether rest and its effect on working memory matter for the spacing effect
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The authors close by agreeing that further work is required: "whether rest and its effect on working memory is important when analysing the spacing effect must ultimately be determined empirically". They identify Chen et al. (2018) as the only published study they know that has tested the hypothesis, and they acknowledge they do not know how rapidly working memory depletes or recovers under various circumstances.
@@ -41,7 +41,6 @@ The authors close by agreeing that further work is required: "whether rest and i
 
 ## Claims
 
-- [Verbal learning tasks with intervals filled with other to-be-learned items test the discriminative-contrast hypothesis rather than the spacing effect](../claims/verbal-learning-tasks-test-discriminative-contrast.md) [~W]
 
 ## Related Strategies
 - 

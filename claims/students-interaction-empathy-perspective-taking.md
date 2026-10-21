@@ -65,3 +65,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related
 - [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](students-lasting-personal-growth-experiences.md) — related
 - [Included research studies suggest TES with land-based and experiential pedagogies deepens student engagement in post-secondary education](tes-land-based-experiential-engagement.md) — related
+- [Review reports exposure abroad alone does not guarantee gains in social-change competencies, calling the learning mechanism a black box](social-change-exposure-black-box.md) — related

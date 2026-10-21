@@ -45,4 +45,4 @@ Synthesis of 165 eligible articles on teacher self-efficacy via a criteria-based
 ## Related Claims
 - [A small number of studies indicated indirect effects of TSE through instructional support and through classroom organization](tse-indirect-effects-instructional-support-classroom-organization.md) — related
 - [Teacher self-efficacy shows positive links with students' academic adjustment](tse-positive-links-student-academic-adjustment.md) — related
-- [The review identifies gaps in the measurement and analysis of TSE in the educational literature](tse-measurement-analysis-gaps.md) — related
+- The review identifies gaps in the measurement and analysis of TSE in the educational literature — related

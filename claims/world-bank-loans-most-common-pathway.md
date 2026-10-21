@@ -44,7 +44,7 @@ Synthesis of the retained literature in the review's results section: the review
 
 ## Related Claims
 - [Loan conditionalities compel policy reform, with SAP-era requirements later evolving into subtler forms such as Poverty Reduction Strategy Papers and impact-evaluation demands](world-bank-conditionality-evolved-subtler.md) — related
-- [Most reviewed World Bank studies do not explicitly state their theoretical orientation or methods, an area the review flags for improvement](world-bank-literature-theory-method-gaps.md) — related
-- [Pathway mentions in the literature rose over time, suggesting the World Bank diversified its influence strategies beyond lending](world-bank-pathway-diversification-over-time.md) — related
+- Most reviewed World Bank studies do not explicitly state their theoretical orientation or methods, an area the review flags for improvement — related
+- Pathway mentions in the literature rose over time, suggesting the World Bank diversified its influence strategies beyond lending — related
 - [Pilot projects serve as a pathway for testing models, gaining organizational footholds, and building political support before scale-up](world-bank-pilot-projects-foothold-pathway.md) — related
 - [Technical assistance functions as a structural constraint that embeds World Bank frameworks in national policymaking, not merely as advice](world-bank-technical-assistance-structural-constraint.md) — related

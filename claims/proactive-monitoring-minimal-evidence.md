@@ -57,3 +57,4 @@ The guide's Summary of Evidence for Recommendation 1 reports six contributing st
 - [Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments](early-warning-agents-retention-gains.md) — a narrower finding that bears on this claim
 - [Adult advocacy interventions show promising but variable effects on staying in and progressing in school](adult-advocacy-mixed-effects-staying-in-school.md) — related
 - [Ninth-grade early warning systems around course grades and attendance led to substantial improvements in grades, graduation rates, and test-measured learning gains](ninth-grade-early-warning-systems-improvements.md) — related
+- [A substantial share of dropouts show no clear signs of disengagement or major problems in the years before dropping out](forty-percent-dropouts-no-clear-disengagement.md) — related

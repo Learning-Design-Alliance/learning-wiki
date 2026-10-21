@@ -54,3 +54,4 @@ Moderator analysis of treatment duration across six coded bands in the 29 studie
 - [Educational level, instructor support, instructional strategy, interactive type, intervention duration, robotic type, and control group condition were not significant moderators of robotics effects](non-significant-moderators-robotics-stem.md) — related
 - [Multiple kinds of scaffolds are more effective than a unique scaffold for academic performance](multiple-scaffolds-outperform-unique.md) — related
 - [Scaffolding shows a particularly large pre–post effect among students with learning disabilities (ḡ = 3.13), though this estimate is tentative, and a large effect among ELL students (ḡ = 0.92)](scaffolding-learning-disabilities-large-effect.md) — related
+- [mCSCL effects vary significantly by intervention duration, peaking at 1–4 weeks](mcscl-intervention-duration-moderator.md) — related

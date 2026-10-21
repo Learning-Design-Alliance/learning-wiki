@@ -57,3 +57,4 @@ The authors' theoretical argument, citing Seidman (1983), that assuming unique f
 - [Holding a strong goal intention alone does not guarantee goal achievement](goal-intention-alone-insufficient-for-achievement.md) — a narrower finding that bears on this claim
 - [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) — related
 - [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](tool-effectiveness-depends-on-context-configuration.md) — related
+- [Review reports exposure abroad alone does not guarantee gains in social-change competencies, calling the learning mechanism a black box](social-change-exposure-black-box.md) — a narrower finding that bears on this claim

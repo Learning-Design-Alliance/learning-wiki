@@ -48,6 +48,6 @@ Descriptive coding of collaboration regulation tools across the 62 reviewed publ
 - [Only a minority of VRL studies assess collaboration quality or learning, but most studies that measure learning report positive impact](minority-studies-evaluate-collaboration-learning-vrls.md)
 - [Guidance tools supporting collaboration are relatively uncommon in educational VRLs, integrated in only 13 of 62 reviewed systems](guidance-tools-uncommon-vrls.md)
 - [With a scripted collaboration designed to elicit metacognition, deep-level metacognitive regulation stays rare and students mostly accept rather than co-construct or share regulation](deep-level-shared-regulation-rare-despite-script.md)
-- [A systematic review found literature reviews on collaborative learning in VR use very broad VR definitions, with few included papers using HMDs](vr-review-reviews-broad-definition-few-hmd.md) — related
+- A systematic review found literature reviews on collaborative learning in VR use very broad VR definitions, with few included papers using HMDs — related
 - [Comparison and integration of different types of group awareness information is a research gap despite firmly established positive tool effects](group-awareness-information-types-comparison-gap.md) — related
 - [Collaborative VRLs are predominantly STEM-focused, virtual, non co-located, synchronous, and 2D](vrl-collaboration-corpus-properties.md) — related

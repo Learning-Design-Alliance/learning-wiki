@@ -69,4 +69,4 @@ Review synthesis of the 26 studies assessing learning outcomes of collaborative 
 - [Regulation tools for collaboration are very rare in educational VRLs, identified in only 8 laboratories, mostly supporting regulation by teachers](regulation-tools-very-rare-vrls.md)
 - [Synchronous communication is the most common collaboration support integrated in educational VRLs, and few labs offer none](synchronous-communication-most-common-in-vrls.md)
 - [Collaborative VRLs are predominantly STEM-focused, virtual, non co-located, synchronous, and 2D](vrl-collaboration-corpus-properties.md)
-- [A systematic review found literature reviews on collaborative learning in VR use very broad VR definitions, with few included papers using HMDs](vr-review-reviews-broad-definition-few-hmd.md) — related
+- A systematic review found literature reviews on collaborative learning in VR use very broad VR definitions, with few included papers using HMDs — related

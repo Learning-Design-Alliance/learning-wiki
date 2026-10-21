@@ -51,3 +51,4 @@ Narrative background synthesis of parent-perception studies cited in the protoco
 - [Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism](unrealistic-goals-lead-discouragement.md) — related
 - [Many children with communication needs who require AAC lack access to appropriate supports, and embedding AAC interventions in the classroom is challenging](aac-classroom-access-barriers-challenge.md) — related
 - [AAC users report device useability difficulties, high cognitive load when learning communication systems, and poor physical and sensory access](aac-user-barriers-cognitive-load-access.md) — related
+- [Conflated program rationales can place competing and unrealistic expectations on scholarship students](competing-rationales-burden-students.md) — related

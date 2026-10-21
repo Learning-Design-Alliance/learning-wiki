@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 51 claims (22 for, 26 mixed, 3 against) · 41 studies (13 causal, 6 associational, 5 review, 5 qualitative, 5 theoretical, 4 quant-synthesis, 3 design), `q1`–`q4` · 10 of 41 report an effect size · 49 claims rest on one study
+> **Evidence** · 52 claims (22 for, 27 mixed, 3 against) · 42 studies (13 causal, 6 associational, 5 quant-synthesis, 5 review, 5 qualitative, 5 theoretical, 3 design), `q1`–`q4` · 10 of 42 report an effect size · 50 claims rest on one study
 
 ## Description and scope
 
@@ -129,6 +129,10 @@ Record: **individual starting response → group, task and structure as delivere
 [Collaboration](../elements/collaboration.md), [group work](../elements/group-work.md), [collaborative problem solving](../elements/collaborative-problem-solving.md), [peer explanation](../elements/peer-explanation.md), [group roles](../elements/group-roles.md), [individual accountability](../elements/individual-accountability.md) and [group processing](../elements/group-processing.md).
 
 This pattern is scoped to pairs and small groups where each member's individual learning is the target. Collaboration skill as an outcome (beyond the one situation row above), belonging and peer relationships, long-running project teams, adult workplace teams and open-ended creative group work each need their own outcome measures and evidence. The policy supports observation and design reasoning; its predictive accuracy and the role of learners' valued goals remain to be tested with actual learners.
+
+## Claims
+
+- [mCSCL effects do not differ significantly by group size, though tetrads show the largest subgroup effect and dyads alone are not significant](../claims/mcscl-group-size-moderator.md) [~W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

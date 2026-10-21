@@ -47,3 +47,4 @@ The review reports, citing Baylor and Kim (2008), that "facial expressions were 
 - [Most agent characteristics, including nonverbal communication, motion, and voice, did not moderate the instructional effectiveness of pedagogical agents](agent-characteristics-mostly-not-moderators.md) — reports the opposite
 - [Pedagogical agents significantly improve learners' interest (g = 0.30), with the effect depending on the type of control condition](pa-improve-interest.md) — related
 - [Facial expression was the most common nonverbal attention-getting device, and the open hand the most common hand gesture](facial-expression-most-common-nonverbal-device.md) — related
+- [Learning outcomes attributed to study away are most commonly psychosocial or attitudinal](study-away-outcomes-psychosocial-attitudinal.md) — related

@@ -50,4 +50,4 @@ Discourse analysis of SCMD transcript excerpts (e.g., Henry and Amy's proofreadi
 - [SCMD activity systems exhibit three categories of rules and four types of participant roles](scmd-rules-and-division-of-labor.md) — related
 - [Interactionist DA mediation in SCMC reveals learners' microgenetic movement through internalization levels within the ZPD](scmc-da-mediation-reveals-microgenetic-development.md) — related
 - [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
-- [The appropriate unit of analysis for studying learning is goal-directed, tool-mediated activity, with training sessions treated as the theoretically compelling period in which learning occurs](unit-of-analysis-tool-mediated-activity.md) — related
+- The appropriate unit of analysis for studying learning is goal-directed, tool-mediated activity, with training sessions treated as the theoretically compelling period in which learning occurs — related

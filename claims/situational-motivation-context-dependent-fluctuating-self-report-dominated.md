@@ -52,6 +52,6 @@ The commentary summarizes Törmänen et al.'s (2025) systematic review of 80 emp
 - [A small a priori set of motivational constructs risks three failures in explaining situated motivated action](a-priori-construct-sets-risk-three-failures.md) — related
 - [Interconnections between motivational constructs and learning are complex and temporal, evidenced by 78% (n = 14) of momentary-wave studies](complex-temporal-interconnections-motivation-learning.md) — related
 - [Situational motivation is influenced by the learning context, with evidence mainly from situation-specific studies (65%) rather than momentary studies (28%)](situational-motivation-influenced-by-learning-context.md) — a narrower finding that bears on this claim
-- [Situational motivation research splits into two waves: situation-specific offline measurement (n = 62) dominates, while momentary online measurement (n = 18) remains scarce](two-waves-situational-motivation-research.md) — possibly the same claim (merge candidate)
+- Situational motivation research splits into two waves: situation-specific offline measurement (n = 62) dominates, while momentary online measurement (n = 18) remains scarce — possibly the same claim (merge candidate)
 - [Optimal task design determined in laboratory studies may depend on learners' level of effort-by-allocation](task-design-depends-on-effort-allocation.md) — related
 - Most theorized individual difference constructs have been examined in sourcing research, but several motivation and personality constructs remain unstudied — related

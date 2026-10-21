@@ -67,3 +67,4 @@ Author's interpretation (type e) of why the intercultural adaptation items under
 - [The global civic activism measurement model was fully valid with no items removed, appearing valid across contexts](global-civic-activism-model-fully-valid.md) — related
 - [The social responsibility measurement model required the most item removals, with global justice and personal responsibility items dropped in the Vietnamese context](social-responsibility-model-items-removed-vietnam.md) — related
 - The measurement model showed adequate reliability and convergent validity, and BI and UB models showed substantial explanatory power — related
+- [Intercultural development progress occurred for students in intentionally designed courses regardless of whether study away was a component](idi-progress-regardless-of-study-away.md) — related

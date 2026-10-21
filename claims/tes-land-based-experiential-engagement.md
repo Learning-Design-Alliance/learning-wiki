@@ -44,8 +44,8 @@ The review's summary of the six included research studies reports that "Four of 
 
 ## Related Claims
 - [Reviewed articles identify tokenism, resource limitations, loss of Elders, and emotional-political challenges as risks in using TES](tes-implementation-challenges-tokenism-resources.md) — related
-- [TES literature in P-20 education is concentrated in science education and post-secondary settings](tes-literature-science-postsecondary-concentration.md) — related
+- TES literature in P-20 education is concentrated in science education and post-secondary settings — related
 - [The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion](real-world-simulations-embodiment-affordances.md) — related
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Peer-reviewed literature on Two-Eyed Seeing in P-20 education is concentrated in Canada and published between 2009 and 2021](tes-p20-literature-canadian-concentration.md) — related
-- [Research studies on TES in P-20 education rely almost entirely on qualitative methods with sparse methodological detail](tes-research-qualitative-methods-gap.md) — related
+- Research studies on TES in P-20 education rely almost entirely on qualitative methods with sparse methodological detail — related

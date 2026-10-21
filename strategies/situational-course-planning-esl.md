@@ -43,6 +43,7 @@ The article recommends organizing an adult second language course around real-li
 ## Related Strategies
 
 - [Use situational communication exercises, normal speech, ad hoc grammar explanations, and echo-expansion correction](immersion-classroom-techniques-esl.md)
+- [Have students verbally share personal life and reading experiences with others in exploratory dialogues](exploratory-dialogues-sharing-reading-experiences.md)
 
 ## Examples
 -

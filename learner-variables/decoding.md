@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 69 claims (48 show a difference, 10 mixed, 11 no difference) · 48 studies (14 associational, 12 quant-synthesis, 11 causal, 6 review, 3 design, 2 theoretical), `q1`–`q4` · 16 of 48 report an effect size · 64 claims rest on one study
+> **Evidence** · 70 claims (49 show a difference, 10 mixed, 11 no difference) · 49 studies (14 associational, 13 quant-synthesis, 11 causal, 6 review, 3 design, 2 theoretical), `q1`–`q4` · 17 of 49 report an effect size · 65 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -110,6 +110,7 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Prior reviews report positive word-reading intervention effects for adolescents but with a wide range (0-1.31) due to broad outcome conceptualization](../claims/prior-adolescent-reading-reviews-wide-effect-range.md) [~M] — instruction changes it
 - [Strategic use of MLs' L1 during decoding instruction was effective: shared letter-sound correspondences did not have to be retaught, and Spanish CVC segmentation instruction increased English decoding](../claims/l1-use-in-decoding-instruction-effective.md) [+M] — instruction changes it
 - [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](../claims/word-reading-interventions-outcome-type-effects.md) [+W] — instruction changes it
+- [Early reading interventions in grades K–2 increase foundational reading processes with an average effect size of 0.51](../claims/k2-spanish-reading-interventions-es-051.md) [+M] — instruction changes it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

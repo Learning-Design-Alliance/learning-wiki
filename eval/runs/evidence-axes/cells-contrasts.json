@@ -36442,5 +36442,17 @@
  "scaffolding\ttargeted peer tutoring pairing a more knowledgeable pupil with one who does not yet understand\tnot stated": {
   "label": "Targeted peer tutoring vs no reported peer tutoring",
   "treatment_is_a": true
+ },
+ "rewards-incentives\tgroup rewards for group outcomes\tother reward methods": {
+  "label": "Group rewards for group outcomes vs other reward methods",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tgroup rewards for individual learning\tother reward methods": {
+  "label": "Group rewards for individual learning vs other reward methods",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tindividual rewards\tother reward methods": {
+  "label": "Individual rewards vs other reward methods",
+  "treatment_is_a": true
  }
 }

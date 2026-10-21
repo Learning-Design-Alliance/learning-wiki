@@ -13,7 +13,7 @@ generated:
 # Alphabet Knowledge and Print Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 46 claims (23 show a difference, 12 mixed, 11 no difference) · 26 studies (15 causal, 5 quant-synthesis, 3 associational, 1 review, 1 qualitative, 1 design), `q1`–`q3` · 18 of 26 report an effect size · 45 claims rest on one study
+> **Evidence** · 47 claims (23 show a difference, 12 mixed, 12 no difference) · 27 studies (15 causal, 6 quant-synthesis, 3 associational, 1 review, 1 qualitative, 1 design), `q1`–`q3` · 18 of 27 report an effect size · 46 claims rest on one study
 
 ## Description
 Alphabet knowledge is knowing the names, written forms and sounds of letters, including letter combinations that represent a single sound. Print awareness is the understanding that print carries meaning and has different functions, and of how it works on the page (that text is read in a set direction, that words are separated by spaces, and so on), something experienced readers forget they had to learn. Both are measured in early childhood: alphabet knowledge by asking children to name and sound out randomly ordered upper- and lower-case letters, print awareness by informal assessments in which a child handles a book.
@@ -86,6 +86,7 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [Family literacy programs produce a medium average effect (d = 0.50) on low-SES children's emergent literacy at immediate posttest but only a marginal effect (d = 0.16) at follow-up](../claims/flp-medium-immediate-marginal-followup-effect.md) [~M] — instruction changes it
 - [Programs offering only literacy-related activities yield larger effects than programs also targeting other cognitive or socioemotional skills](../claims/flp-literacy-only-programs-larger-effects.md) [+M] — instruction changes it
 - [Family literacy programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no statistically significant effects](../claims/flp-center-based-component-negatively-associated.md) [~M] — instruction changes it
+- [Impacts on concepts of print outcomes were negative and nonsignificant across the three studies measuring them](../claims/concepts-of-print-negative-nonsignificant.md) [-W] — instruction changes it
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

@@ -17,7 +17,7 @@ sources:
 # Raise student and colleague awareness of AI-related privacy risks through research-ethics curricula
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (1 review, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes informing students and colleagues about the novel risks of online data collection so best practices and alternatives are established quickly. Raising students' awareness "for instance in courses on research ethics or data collection, will help to prepare them to consider this aspect in their research early on." The author adds that guidelines for AI-related privacy education within psychology curricula will need to be established collaboratively with legal departments and ethics committees.
@@ -39,7 +39,6 @@ The article proposes informing students and colleagues about the novel risks of 
 
 ## Claims
 
-- [Researchers may need to treat all remotely collected data as potentially identifiable personal data](../claims/treat-remote-data-as-potentially-identifiable.md) [+W]
 - [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](../claims/privacy-transparency-lags-proctoring-adoption.md) [+W]
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](../claims/mmla-data-misuse-concerns-four-themes.md) [+W]
 

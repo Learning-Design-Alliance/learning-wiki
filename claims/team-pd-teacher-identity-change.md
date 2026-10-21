@@ -46,6 +46,8 @@ Theme supported by two studies (Deni & Malakolunthu, 2013; W. Green et al., 2013
 - [Identity](../learner-variables/identity.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Teams that narrowed the first problem and ran small Plan-Do-Study-Act tests before scaling saw themselves as more effective improvers](small-pdsa-cycles-narrow-first-problem.md) — related
 - [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](vils-coach-time-associated-better-teaching-outcomes.md) — related
 - [Teachers reported increased motivation knowledge and feasible, impactful MDP implementation after M-PLANS professional learning](m-plans-teacher-knowledge-uptake-gains.md) — related
+- [One reviewed intervention affected students’ insight into themselves](one-intervention-affected-insight-into-self.md)

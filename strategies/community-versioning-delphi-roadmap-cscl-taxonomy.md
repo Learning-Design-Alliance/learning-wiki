@@ -17,7 +17,7 @@ sources:
 # Refine the taxonomy draft through versioned community governance, Delphi processes, and consecutive workshops
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes sustaining the taxonomy through a controlled revision process modeled on decentralized software development. The plan starts with an initial core taxonomy built collaboratively, then extends and revises it over time via change requests debated by the community. The authors state "a future CSCL taxonomy must combine both representativeness and flexibility", and plan flexible versioning, inclusive governance, ongoing revision, and a hybrid Delphi method engaging senior and junior CSCL members, continuing with a 2026 workshop dedicated to refining the draft.
@@ -43,7 +43,6 @@ The article proposes sustaining the taxonomy through a controlled revision proce
 
 - [Participants identified communication across paradigms, not the absence of a single paradigm, as CSCL's main challenge](../claims/cross-paradigm-communication-the-main-cscl-challenge.md) [+W]
 - [CSCL workshop participants concluded that building a single shared CSCL paradigm was neither feasible nor desirable, favoring maintained paradigm diversity](../claims/cscl-paradigm-building-deemed-infeasible-2025-workshop.md) [+W]
-- [Panel members framed the variety of CSCL definitions and theories as a strength representing the field's richness of perspectives](../claims/theory-diversity-as-strength-cross-fertilization.md) [+W]
 
 ## Related Strategies
 - Cscl Taxonomy Draft Tagging System

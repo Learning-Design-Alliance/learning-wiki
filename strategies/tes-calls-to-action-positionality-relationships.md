@@ -17,7 +17,7 @@ sources:
 # Calls to action: establish positionality and relationships before TES work, and expand US-based and quantitative TES research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 From the mapping review, the authors developed four calls to action for educators and researchers seeking to interweave Indigenous knowledges into colonized science curricula. The first holds that "it is absolutely imperative that educators and researchers, before embarking upon TES work, understand their own positionality, limitations, biases, and privilege," and that relationship building must be rooted in mutual respect, reciprocity, and a commitment to longevity. Further calls urge more US-based research (particularly quantitative studies delineating P-12 versus higher-education contexts), research on TES effectiveness as an instructional strategy, and adoption of the guidelines at both classroom and institutional levels with professional development and funding support.
@@ -42,7 +42,6 @@ From the mapping review, the authors developed four calls to action for educator
 ## Claims
 
 - [Peer-reviewed literature on Two-Eyed Seeing in P-20 education is concentrated in Canada and published between 2009 and 2021](../claims/tes-p20-literature-canadian-concentration.md) [+W]
-- [Research studies on TES in P-20 education rely almost entirely on qualitative methods with sparse methodological detail](../claims/tes-research-qualitative-methods-gap.md) [+W]
 - [Reviewed articles identify tokenism, resource limitations, loss of Elders, and emotional-political challenges as risks in using TES](../claims/tes-implementation-challenges-tokenism-resources.md) [~W]
 
 ## Related Strategies

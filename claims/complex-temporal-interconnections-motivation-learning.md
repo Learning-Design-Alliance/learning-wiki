@@ -43,6 +43,6 @@ Qualitative synthesis across both waves reports "the momentary wave had most of 
 
 
 ## Related Claims
-- [Situational motivation research splits into two waves: situation-specific offline measurement (n = 62) dominates, while momentary online measurement (n = 18) remains scarce](two-waves-situational-motivation-research.md) — related
+- Situational motivation research splits into two waves: situation-specific offline measurement (n = 62) dominates, while momentary online measurement (n = 18) remains scarce — related
 - [Situational motivation is influenced by the learning context, with evidence mainly from situation-specific studies (65%) rather than momentary studies (28%)](situational-motivation-influenced-by-learning-context.md) — related
 - [Situational motivation is highly context-dependent and fluctuates within and between learners, but most studies rely on self-reports](situational-motivation-context-dependent-fluctuating-self-report-dominated.md) — related

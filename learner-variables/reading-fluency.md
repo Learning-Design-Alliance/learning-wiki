@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 47 claims (29 show a difference, 8 mixed, 10 no difference) · 36 studies (10 causal, 8 review, 7 quant-synthesis, 7 associational, 2 design, 2 theoretical), `q1`–`q3` · 11 of 36 report an effect size · 46 claims rest on one study
+> **Evidence** · 48 claims (30 show a difference, 8 mixed, 10 no difference) · 37 studies (10 causal, 8 quant-synthesis, 8 review, 7 associational, 2 design, 2 theoretical), `q1`–`q3` · 12 of 37 report an effect size · 47 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -87,6 +87,7 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [The oral–silent reading difference increases with reading experience, plausibly because a less extensive orthographic lexicon forces dyslexic readers to rely on phonological processing during silent reading](../claims/oral-silent-divergence-increases-with-reading-experience.md) [~W] — instruction changes it
 - [Phonological awareness and fluency show the largest effect-size relations with reading comprehension among Spanish-speaking children's essential reading components.](../claims/pa-fluency-largest-relations-comprehension-spanish.md) [+W] — learners who differ on it differ in outcomes
 - [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](../claims/word-reading-interventions-outcome-type-effects.md) [-W] — instruction changes it
+- [Oral word-reading fluency instruction shows a high effect size of 0.66, but evidence rests on a single study](../claims/spanish-reading-fluency-es-066-single-study.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

@@ -53,3 +53,4 @@ The guide's stated rationale for contextualizing growth goals with NWEA normativ
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — a broader claim this one bears on
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Teachers treat resilience under challenge as a teachable skill that current routines and dashboards do little to support](resilience-teachable-skill-unsupported.md) — related
+- [Conflated program rationales can place competing and unrealistic expectations on scholarship students](competing-rationales-burden-students.md) — a narrower finding that bears on this claim
