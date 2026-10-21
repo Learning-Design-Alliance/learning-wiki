@@ -49,3 +49,4 @@ Meta-analysis of non-randomised studies comparing inclusive versus segregated pl
 - [Prior reviews of inclusion published before 2000 reported equivocal effects, including a pooled effect size of 0.33 favouring inclusion](prior-inclusion-reviews-equivocal-wang-baker-033.md) — related
 - The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria — related
 - [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](inclusion-evidence-low-quality-serious-risk-of-bias.md) — related
+- [National Student Exchange participants showed higher pretest psychosocial development but no statistically significant pretest-to-posttest growth](nse-pretest-advantage-no-significant-growth.md) — related

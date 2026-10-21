@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 75 claims (27 for, 44 mixed, 4 against) · 78 studies (18 causal, 14 review, 14 theoretical, 10 associational, 9 quant-synthesis, 9 qualitative, 4 design), `q1`–`q4` · 11 of 78 report an effect size · 69 claims rest on one study
+> **Evidence** · 76 claims (27 for, 45 mixed, 4 against) · 79 studies (18 causal, 14 review, 14 theoretical, 10 quant-synthesis, 10 associational, 9 qualitative, 4 design), `q1`–`q4` · 11 of 79 report an effect size · 70 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,10 @@ For example, a secondary-school physics student working in a pair at a simulatio
 The expectation should weaken if comparable learners doing a task jointly fail to outperform matched learners doing the same task alone, on individually measured, independent outcomes at the horizon that matters. If gains turn out to be carried by the individual checks, feedback, extra time or teacher monitoring rather than by learners engaging with each other's reasoning, the model should credit those components instead. If group self-reports and individual knowledge keep coming apart, as the online-group study above found, treat self-reports as observations of the group's process only. Do not protect the model by relabelling every failure as "not real collaboration" after the fact; record the task and structure in advance.
 
 Group performance during the task, individual understanding straight after it, delayed retention, collaboration skill and satisfaction are separate claims. The present evidence in the wiki does not establish an optimal group size (the one synthesis that breaks effects down by size does so across studies, not by manipulating it), composition (one study with self-chosen pairs found no difference by composition, which is not evidence of none) or script (the script meta-analysis rests on three or four studies per combination, and the one script study here with a learning outcome changed the talk but not the gains), whether coordination tools such as shared gaze change learning rather than process, effects for adult workplace teams or online groups in general, or benefit for every learner in a group.
+
+## Claims
+
+- [Group size moderates mCSCL effects, with tetrads showing the largest effect and dyads not significant](../claims/mcscl-group-size-moderator.md) [~W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

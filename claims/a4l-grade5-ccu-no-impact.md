@@ -53,3 +53,4 @@ Exploratory CCU analyses in 12 schools; Exhibit E-2 prints grade 5 effect sizes 
 - [The A4L Lessons Project had no statistically significant impact on students' OAKS Reading/Literature achievement after one, two, or three years of participation](a4l-no-impact-oaks-reading.md) — related
 - [No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)](rm-cc5-no-differential-effects-prior-achievement-gender.md) — related
 - [After one school year of implementation (first cohort), the curricula produced no statistically significant positive impacts, and four statistically significant negative impacts were observed.](year-one-curricula-no-positive-impacts-four-negative.md) — related
+- [Impacts on concepts of print outcomes were negative and nonsignificant across the three studies measuring them](concepts-of-print-negative-nonsignificant.md) — related

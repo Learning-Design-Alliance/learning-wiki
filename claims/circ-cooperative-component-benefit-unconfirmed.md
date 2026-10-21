@@ -45,3 +45,4 @@ Alternate contrast from the same cluster randomized trial (Appendix D.3): CIRC v
 - [In a cluster randomized trial, CIRC produced a statistically significant positive effect on main idea identification (effect size 0.85) but not on inference questions](circ-rct-main-idea-significant-inference-null.md) — related
 - [In a quasi-experimental study, CIRC showed no statistically significant effect on comprehension outcomes after WWC clustering and multiple-comparison adjustments](circ-qed-comprehension-indeterminate.md) — related
 - [CIRC has potentially positive effects on comprehension for beginning readers, with an average improvement index of +12 percentile points across two studies](circ-potentially-positive-comprehension-effects.md) — related
+- [Reading comprehension strategy programs in grades 3–6 yield a medium average effect size of 0.34](grades36-comprehension-programs-es-034.md) — related

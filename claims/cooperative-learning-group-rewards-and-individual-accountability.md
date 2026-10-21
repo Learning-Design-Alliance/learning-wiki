@@ -160,3 +160,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence](large-group-size-limited-participation-confidence.md) — reports the opposite
 - [In one reviewed study, students who first collaborate and then complete an activity individually in the VRL are more successful than students who complete an individual task first and then collaborate](collaborate-first-then-individual-more-successful-vrl.md) — related
 - [A game-based collaboration script with assigned in-game roles shifted elementary students' attitudes towards collaboration](game-script-shifted-collaboration-attitudes.md) — related
+- [Individual rewards yield significant mCSCL effects while group reward methods do not](mcscl-individual-rewards-significant.md) — related

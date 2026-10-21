@@ -74,3 +74,4 @@ Same RCT analysis sample of 74 students. Appendix A3.1 shows effect sizes of 0.0
 - [In a Florida RCT, Earobics® outperformed no-supplement control on several DIBELS subtests but showed no significant advantage over Lexia Early Reading](earobics-gale-2006-versus-control-and-lexia.md) — related
 - [Lexia Early Reading shows no significant advantage over Earobics on alphabetics, with several negative effects substantively important](lexia-versus-earobics-alphabetics-comparison.md) — related
 - [Teaching phonological awareness and print knowledge improved decoding performance even without decoding instruction, and adding decoding instruction more than doubled the weighted effect size](pa-pk-improve-decoding-without-decoding-instruction.md) — related
+- [Early reading interventions in grades K–2 increase foundational reading processes with an average effect size of 0.51](k2-spanish-reading-interventions-es-051.md) — related

@@ -53,3 +53,4 @@ Descriptive survey analysis of alumni respondents. The report also states 91 per
 - [Among NFTE alumni respondents who launched businesses, 47 percent had a business open in the past year, 65 percent of open businesses were profitable, and 52 percent employed at least one other person](nfte-alumni-businesses-profitable-and-employing-others.md) — related
 - [The self-employment rate among employed NFTE alumni respondents (16 percent) was higher than the national rate of 6 percent for young adults ages 25–34](nfte-alumni-self-employment-above-national-rate.md) — related
 - [Startup Summer participants launched businesses at much higher rates (71 percent) than other alumni respondents (24 percent)](startup-summer-participants-higher-business-launch-rate.md) — related
+- [Review reports Bolashak scholarship alumni had above-95% employment but very few became entrepreneurs despite desire to start businesses](bolashak-employment-few-entrepreneurs.md) — related

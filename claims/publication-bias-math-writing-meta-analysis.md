@@ -77,3 +77,4 @@ Sensitivity analyses across the 211 included studies. The pooled estimate stayed
 - [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](active-breaks-pooled-estimates-robust-sensitivity.md) — related
 - [Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent](publication-bias-reduces-intercept-no-transfer-without-moderators.md) — related
 - [Experimental designs and study-specific measures are associated with larger program effects, while peer-reviewed status shows no indication of publication bias](flp-design-and-measure-modulators.md) — reports the opposite
+- [Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36](publication-bias-adjusted-effect-036.md) — related

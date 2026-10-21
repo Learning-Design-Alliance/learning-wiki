@@ -19,7 +19,7 @@ sources:
 # Preserve Heritage Language While Acquiring an Additional Language
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (26 for, 5 mixed) · 22 studies (5 review, 5 theoretical, 4 associational, 3 quant-synthesis, 3 qualitative, 2 causal), `q1`–`q3` · 2 of 22 report an effect size · 29 claims rest on one study
+> **Evidence** · 32 claims (27 for, 5 mixed) · 23 studies (5 review, 5 theoretical, 4 quant-synthesis, 4 associational, 3 qualitative, 2 causal), `q1`–`q3` · 3 of 23 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,7 @@ Heritage-language proficiency, school-language conversational fluency, school-la
 ## Claims
 
 - [ELs who received bilingual education services had higher long-run attendance and academic outcomes than kindergartners who refused bilingual services](../claims/bilingual-services-higher-el-outcomes-than-refusal.md) [+W]
+- [Spanish reading instructional programs in grades K–6 produce a positive, statistically significant average effect on reading outcomes (g = 0.49)](../claims/spanish-reading-programs-overall-effect-049.md) [+W]
 
 ## Related Principles
 - [Support Early Language Development](supporting-early-language-development.md) — the same responsive-interaction principle, applied specifically to maintaining a heritage language alongside a new one

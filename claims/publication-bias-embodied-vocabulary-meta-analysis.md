@@ -52,3 +52,4 @@ Multilevel Egger's regression tests on the meta-analytic corpus showed a signifi
 - [Egger's test indicates asymmetry bias in the cross-sectional ToM–achievement evidence base despite a right-skewed p-curve](egger-asymmetry-bias-tom-achievement.md) — related
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
 - [No clear evidence of publication bias or small study effects in the collaborative instruction literature](no-publication-bias-collaborative-instruction.md) — related
+- [Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36](publication-bias-adjusted-effect-036.md) — related

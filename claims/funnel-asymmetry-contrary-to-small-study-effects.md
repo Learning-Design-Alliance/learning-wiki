@@ -55,3 +55,4 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 - [Longer exercise intervention duration is consistently associated with larger effect sizes on ADHD functional outcomes](longer-exercise-interventions-larger-adhd-effects.md) — related
 - [Funnel-plot analysis finds no evidence of missing small-effect studies, though asymmetry from few negative estimates suggests possible small bias against null-negative results](publication-bias-grant-aid-meta-analysis.md) — related
 - [No evidence of publication bias, and extra-large-sample studies do not differ from the rest](no-publication-bias-digital-reading-meta-analysis.md) — related
+- [Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36](publication-bias-adjusted-effect-036.md) — related

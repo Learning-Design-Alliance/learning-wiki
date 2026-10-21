@@ -71,3 +71,4 @@ In the same duration moderator analysis, the 1–7 day group showed a small, non
 - [Programme characteristics — longer duration, higher frequency, teacher delivery and older students — were tentatively associated with more significant well-being effects](meditation-programme-characteristics-moderators.md) — related
 - [Teacher-supported learning scaffolds show the largest effect (ES = 0.92), and longer intervention durations yield larger effects](teacher-scaffolds-and-longer-duration-stronger-cps-effects.md) — reports the opposite
 - [Educational robotics has a moderate positive overall effect on K-16 students' STEM learning compared to non-robotics instruction](educational-robotics-moderate-overall-effect-stem-learning.md) — related
+- [mCSCL effects vary significantly by intervention duration, peaking at 1–4 weeks](mcscl-intervention-duration-moderator.md) — related

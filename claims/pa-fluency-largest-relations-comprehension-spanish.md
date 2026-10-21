@@ -52,3 +52,4 @@ Meta-analysis using a random effects model with Fisher's z as the effect-size in
 - [Most studies of Spanish-speaking children's reading have focused on phonological awareness or alphabetic principle in relation to reading comprehension.](most-studies-focus-pa-alphabetic-principle.md) — related
 - [Effect sizes linking reading components to comprehension are highly heterogeneous across studies, partly explained by age, country, and comprehension test used.](heterogeneity-age-country-comprehension-tests.md) — related
 - [Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages](bilingual-advantage-reading-acquisition.md) — related
+- [Phonological awareness instruction shows one of the highest outcome-specific effects (0.57) in Spanish reading programs](phonological-awareness-es-057.md) — related

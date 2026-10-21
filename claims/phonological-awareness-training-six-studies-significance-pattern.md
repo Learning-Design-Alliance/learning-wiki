@@ -62,3 +62,4 @@ The WWC's findings summary for the phonological processing domain across the six
 - [Dialogic Reading combined with Sound Foundations shows potentially positive effects on print knowledge and early reading/writing but not oral language](dialogic-reading-sound-foundations-combined-outcomes.md) — related
 - [DaisyQuest improved phonological awareness over regular kindergarten curriculum on three of four measures](daisyquest-kindergarten-significant-gains.md) — a narrower finding that bears on this claim
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — related
+- [Early reading interventions in grades K–2 increase foundational reading processes with an average effect size of 0.51](k2-spanish-reading-interventions-es-051.md) — related

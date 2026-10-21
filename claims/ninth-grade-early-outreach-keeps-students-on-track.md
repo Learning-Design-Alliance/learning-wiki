@@ -67,3 +67,4 @@ The chapter's overview asserts, citing prior research, that dropout risk signs a
 - [Former students who dropped out want colleges to proactively invite them to return and explain how to return](noncompleters-want-proactive-return-outreach.md) — related
 - [Predictive learning analytics can generate early warnings of dropout risk and trigger targeted interventions in adult education](predictive-analytics-early-warning-dropout-adults.md) — related
 - [Ninth-grade early warning systems around course grades and attendance led to substantial improvements in grades, graduation rates, and test-measured learning gains](ninth-grade-early-warning-systems-improvements.md) — related
+- [A substantial share of dropouts show no clear signs of disengagement or major problems in the years before dropping out](forty-percent-dropouts-no-clear-disengagement.md) — related

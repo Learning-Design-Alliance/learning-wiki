@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":22949,
+"claim":22988,
 "design":965,
 "element":1057,
 "learner-variable":75,
@@ -10,7 +10,7 @@
 "process":18,
 "product":1827,
 "research-method":514,
-"strategy":6337,
+"strategy":6340,
 "theory":1359
 },
 "kinds":[
@@ -23128,6 +23128,15 @@
 "type":"claim"
 },
 {
+"description":"Review reports Bolashak scholarship alumni had above-95% employment but very few became entrepreneurs despite desire to start businesses",
+"evidence_strength":"weak",
+"id":"bolashak-employment-few-entrepreneurs",
+"path":"claims/bolashak-employment-few-entrepreneurs.md",
+"status":"review",
+"title":"Review reports Bolashak scholarship alumni had above-95% employment but very few became entrepreneurs despite desire to start businesses",
+"type":"claim"
+},
+{
 "description":"A Alabama coalition's provider-recruitment effort coincided with FCPK access rising from 7.9% to 21.4% of children in central Alabama between 2014 and 2018",
 "evidence_strength":"weak",
 "id":"bold-goals-coalition-fcpk-access-increase",
@@ -23674,6 +23683,15 @@
 "path":"claims/brain-connectivity-scales-down-with-external-support-essay-writing.md",
 "status":"review",
 "title":"Brain connectivity during essay writing systematically scales down with the amount of external support, with Brain-only strongest, Search Engine intermediate, and LLM weakest",
+"type":"claim"
+},
+{
+"description":"Brain drain is a prominent critique of human capital scholarships: graduates may take needed skills elsewhere",
+"evidence_strength":"mixed",
+"id":"brain-drain-critique-scholarships",
+"path":"claims/brain-drain-critique-scholarships.md",
+"status":"review",
+"title":"Brain drain is a prominent critique of human capital scholarships: graduates may take needed skills elsewhere",
 "type":"claim"
 },
 {
@@ -37112,6 +37130,15 @@
 "type":"claim"
 },
 {
+"description":"Conflated program rationales can place competing and unrealistic expectations on scholarship students",
+"evidence_strength":"moderate",
+"id":"competing-rationales-burden-students",
+"path":"claims/competing-rationales-burden-students.md",
+"status":"review",
+"title":"Conflated program rationales can place competing and unrealistic expectations on scholarship students",
+"type":"claim"
+},
+{
 "description":"Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum",
 "evidence_strength":"moderate",
 "id":"competing-time-priorities-dominant-barrier-language-curriculum",
@@ -38048,6 +38075,15 @@
 "path":"claims/conceptions-diverge-from-srl-activities.md",
 "status":"review",
 "title":"Students' conceptions of self-regulated learning can diverge from their reported self-regulated learning activities",
+"type":"claim"
+},
+{
+"description":"Impacts on concepts of print outcomes were negative and nonsignificant across the three studies measuring them",
+"evidence_strength":"weak",
+"id":"concepts-of-print-negative-nonsignificant",
+"path":"claims/concepts-of-print-negative-nonsignificant.md",
+"status":"review",
+"title":"Impacts on concepts of print outcomes were negative and nonsignificant across the three studies measuring them",
 "type":"claim"
 },
 {
@@ -51305,6 +51341,15 @@
 "type":"claim"
 },
 {
+"description":"Diplomatic rationale frames scholarships as cultivating well-disposed future leaders to strengthen bilateral relations",
+"evidence_strength":"moderate",
+"id":"diplomatic-rationale-opinion-leaders",
+"path":"claims/diplomatic-rationale-opinion-leaders.md",
+"status":"review",
+"title":"Diplomatic rationale frames scholarships as cultivating well-disposed future leaders to strengthen bilateral relations",
+"type":"claim"
+},
+{
 "description":"Direct conditions descriptively show higher post-task full comprehension than Socratic conditions, with Direct + Full Context highest and Socratic + Full Context lowest",
 "evidence_strength":"weak",
 "id":"direct-conditions-higher-full-comprehension",
@@ -53764,6 +53809,15 @@
 "type":"claim"
 },
 {
+"description":"Domestic study away experiences with experiential and cross-cultural elements can be as effective as international experiences for multicultural competence and critical thinking",
+"evidence_strength":"weak",
+"id":"domestic-study-away-as-effective-as-international",
+"path":"claims/domestic-study-away-as-effective-as-international.md",
+"status":"review",
+"title":"Domestic study away experiences with experiential and cross-cultural elements can be as effective as international experiences for multicultural competence and critical thinking",
+"type":"claim"
+},
+{
 "description":"Bilingual preschoolers silently reading dual-language e-books attend more to their dominant language (English) than the nondominant language (Mandarin)",
 "evidence_strength":"moderate",
 "id":"dominant-language-attention-bias-dual-language-e-books",
@@ -54529,6 +54583,15 @@
 "path":"claims/dropout-programs-or-163-completion.md",
 "status":"review",
 "title":"Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63",
+"type":"claim"
+},
+{
+"description":"Major dropout theories acknowledge precipitating events only as side notes rather than central model components",
+"evidence_strength":"weak",
+"id":"dropout-theories-treat-precipitants-as-side-notes",
+"path":"claims/dropout-theories-treat-precipitants-as-side-notes.md",
+"status":"review",
+"title":"Major dropout theories acknowledge precipitating events only as side notes rather than central model components",
 "type":"claim"
 },
 {
@@ -73388,6 +73451,15 @@
 "type":"claim"
 },
 {
+"description":"A substantial share of dropouts show no clear signs of disengagement or major problems in the years before dropping out",
+"evidence_strength":"weak",
+"id":"forty-percent-dropouts-no-clear-disengagement",
+"path":"claims/forty-percent-dropouts-no-clear-disengagement.md",
+"status":"review",
+"title":"A substantial share of dropouts show no clear signs of disengagement or major problems in the years before dropping out",
+"type":"claim"
+},
+{
 "description":"Effective collaborative learning in discussion forums requires relatively small group sizes",
 "evidence_strength":"weak",
 "id":"forum-collaborative-learning-small-group-sizes",
@@ -82703,6 +82775,15 @@
 "type":"claim"
 },
 {
+"description":"Reading comprehension strategy programs in grades 3–6 yield a medium average effect size of 0.34",
+"evidence_strength":"moderate",
+"id":"grades36-comprehension-programs-es-034",
+"path":"claims/grades36-comprehension-programs-es-034.md",
+"status":"review",
+"title":"Reading comprehension strategy programs in grades 3–6 yield a medium average effect size of 0.34",
+"type":"claim"
+},
+{
 "description":"Giving students feedback about their grading bias increased their subsequent grading accuracy",
 "evidence_strength":"moderate",
 "id":"grading-bias-feedback-increases-accuracy",
@@ -88604,6 +88685,15 @@
 "type":"claim"
 },
 {
+"description":"The review identifies human capital development as the leading rationale, operating at micro, meso, and macro levels",
+"evidence_strength":"moderate",
+"id":"human-capital-rationale-scholarships",
+"path":"claims/human-capital-rationale-scholarships.md",
+"status":"review",
+"title":"The review identifies human capital development as the leading rationale, operating at micro, meso, and macro levels",
+"type":"claim"
+},
+{
 "description":"Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with...",
 "evidence_strength":"mixed",
 "id":"human-embodiment-video-presence-effects",
@@ -89987,6 +90077,15 @@
 "path":"claims/idf-reweighting-improves-kc-retrieval.md",
 "status":"review",
 "title":"IDF reweighting of knowledge vectors improves retrieval over binary KC-incidence vectors, with the largest gains in mAP",
+"type":"claim"
+},
+{
+"description":"Intercultural development progress occurred for students in intentionally designed courses regardless of whether study away was a component",
+"evidence_strength":"weak",
+"id":"idi-progress-regardless-of-study-away",
+"path":"claims/idi-progress-regardless-of-study-away.md",
+"status":"review",
+"title":"Intercultural development progress occurred for students in intentionally designed courses regardless of whether study away was a component",
 "type":"claim"
 },
 {
@@ -98736,6 +98835,15 @@
 "type":"claim"
 },
 {
+"description":"Early reading interventions in grades K–2 increase foundational reading processes with an average effect size of 0.51",
+"evidence_strength":"moderate",
+"id":"k2-spanish-reading-interventions-es-051",
+"path":"claims/k2-spanish-reading-interventions-es-051.md",
+"status":"review",
+"title":"Early reading interventions in grades K–2 increase foundational reading processes with an average effect size of 0.51",
+"type":"claim"
+},
+{
 "description":"Learners in K-3 structured decoding curricula adapted for adults (comparison group) did not differ significantly from treatment or control groups on any reading measure",
 "evidence_strength":"moderate",
 "id":"k3-adapted-curricula-no-differential-gains",
@@ -100736,6 +100844,15 @@
 "path":"claims/koku-secondary-outcomes-mixed.md",
 "status":"review",
 "title":"KOKU improves lower-limb function, concerns about falling and health-related quality of life, but not mood, physical activity, fatigue or fall rate",
+"type":"claim"
+},
+{
+"description":"Kolb's Experiential Learning Theory is the most widely used framework in empirical study away research",
+"evidence_strength":"moderate",
+"id":"kolb-elt-most-used-study-away-framework",
+"path":"claims/kolb-elt-most-used-study-away-framework.md",
+"status":"review",
+"title":"Kolb's Experiential Learning Theory is the most widely used framework in empirical study away research",
 "type":"claim"
 },
 {
@@ -105782,6 +105899,15 @@
 "path":"claims/literal-memory-difference-simile-null.md",
 "status":"review",
 "title":"Skilled comprehenders recall more literal story content than less skilled comprehenders, but the groups do not differ significantly in interpreting novel similes",
+"type":"claim"
+},
+{
+"description":"Under certain conditions, literature education may foster adolescent students’ insight into human nature",
+"evidence_strength":"moderate",
+"id":"literature-education-fosters-insight-human-nature",
+"path":"claims/literature-education-fosters-insight-human-nature.md",
+"status":"review",
+"title":"Under certain conditions, literature education may foster adolescent students’ insight into human nature",
 "type":"claim"
 },
 {
@@ -114069,6 +114195,78 @@
 "path":"claims/mcs-explicitness-effect-size-d208.md",
 "status":"review",
 "title":"In the SRL-AIDE group, MCS explicitness showed a larger pre-post gain (d = 2.08) than KC explicitness (d = 1.03), and SRL-AIDE's KC gain exceeded the comparison group's (d = 1.03 vs d = 0.31)",
+"type":"claim"
+},
+{
+"description":"mCSCL benefits learning achievement, learning attitude, and peer interaction, with the largest effect on achievement",
+"evidence_strength":"moderate",
+"id":"mcscl-benefits-three-outcome-types",
+"path":"claims/mcscl-benefits-three-outcome-types.md",
+"status":"review",
+"title":"mCSCL benefits learning achievement, learning attitude, and peer interaction, with the largest effect on achievement",
+"type":"claim"
+},
+{
+"description":"mCSCL effects are larger in mathematics and science than in social studies and specific abilities",
+"evidence_strength":"moderate",
+"id":"mcscl-domain-subject-moderator",
+"path":"claims/mcscl-domain-subject-moderator.md",
+"status":"review",
+"title":"mCSCL effects are larger in mathematics and science than in social studies and specific abilities",
+"type":"claim"
+},
+{
+"description":"Group size moderates mCSCL effects, with tetrads showing the largest effect and dyads not significant",
+"evidence_strength":"moderate",
+"id":"mcscl-group-size-moderator",
+"path":"claims/mcscl-group-size-moderator.md",
+"status":"review",
+"title":"Group size moderates mCSCL effects, with tetrads showing the largest effect and dyads not significant",
+"type":"claim"
+},
+{
+"description":"Individual rewards yield significant mCSCL effects while group reward methods do not",
+"evidence_strength":"moderate",
+"id":"mcscl-individual-rewards-significant",
+"path":"claims/mcscl-individual-rewards-significant.md",
+"status":"review",
+"title":"Individual rewards yield significant mCSCL effects while group reward methods do not",
+"type":"claim"
+},
+{
+"description":"mCSCL effects vary significantly by intervention duration, peaking at 1–4 weeks",
+"evidence_strength":"moderate",
+"id":"mcscl-intervention-duration-moderator",
+"path":"claims/mcscl-intervention-duration-moderator.md",
+"status":"review",
+"title":"mCSCL effects vary significantly by intervention duration, peaking at 1–4 weeks",
+"type":"claim"
+},
+{
+"description":"mCSCL produces a medium overall effect on learning performance (Hedges's g = 0.516)",
+"evidence_strength":"moderate",
+"id":"mcscl-medium-overall-effect-0-516",
+"path":"claims/mcscl-medium-overall-effect-0-516.md",
+"status":"review",
+"title":"mCSCL produces a medium overall effect on learning performance (Hedges's g = 0.516)",
+"type":"claim"
+},
+{
+"description":"Structured and ill-structured mCSCL teaching methods show similar effects; competitive methods (TGT, STAD) were not significant",
+"evidence_strength":"moderate",
+"id":"mcscl-teaching-method-moderator",
+"path":"claims/mcscl-teaching-method-moderator.md",
+"status":"review",
+"title":"Structured and ill-structured mCSCL teaching methods show similar effects; competitive methods (TGT, STAD) were not significant",
+"type":"claim"
+},
+{
+"description":"mCSCL outperforms individual learning and non-mobile collaborative learning, but shows no significant advantage over desktop CSCL",
+"evidence_strength":"moderate",
+"id":"mcscl-vs-control-group-types",
+"path":"claims/mcscl-vs-control-group-types.md",
+"status":"review",
+"title":"mCSCL outperforms individual learning and non-mobile collaborative learning, but shows no significant advantage over desktop CSCL",
 "type":"claim"
 },
 {
@@ -127275,6 +127473,15 @@
 "type":"claim"
 },
 {
+"description":"Neither grade level nor outcome type significantly moderates the effects of Spanish reading programs",
+"evidence_strength":"weak",
+"id":"no-moderator-effects-grade-or-outcome",
+"path":"claims/no-moderator-effects-grade-or-outcome.md",
+"status":"review",
+"title":"Neither grade level nor outcome type significantly moderates the effects of Spanish reading programs",
+"type":"claim"
+},
+{
 "description":"Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation",
 "evidence_strength":"weak",
 "id":"no-moderators-life-events-self-control",
@@ -129634,6 +129841,15 @@
 "type":"claim"
 },
 {
+"description":"National Student Exchange participants showed higher pretest psychosocial development but no statistically significant pretest-to-posttest growth",
+"evidence_strength":"weak",
+"id":"nse-pretest-advantage-no-significant-growth",
+"path":"claims/nse-pretest-advantage-no-significant-growth.md",
+"status":"review",
+"title":"National Student Exchange participants showed higher pretest psychosocial development but no statistically significant pretest-to-posttest growth",
+"type":"claim"
+},
+{
 "description":"The NSF EXP collaboration network connected 238 researchers across 87 projects and 116 expertise areas",
 "evidence_strength":"weak",
 "id":"nsf-exp-network-238-researchers-87-projects",
@@ -131513,6 +131729,15 @@
 "path":"claims/one-in-six-grade-4-5-teachers-mislinked-unconfirmed-data.md",
 "status":"review",
 "title":"About one in six grade 4 and 5 math and reading/ELA teachers is linked in unconfirmed administrative data to a subject they do not teach",
+"type":"claim"
+},
+{
+"description":"One reviewed intervention affected students’ insight into themselves",
+"evidence_strength":"weak",
+"id":"one-intervention-affected-insight-into-self",
+"path":"claims/one-intervention-affected-insight-into-self.md",
+"status":"review",
+"title":"One reviewed intervention affected students’ insight into themselves",
 "type":"claim"
 },
 {
@@ -140281,6 +140506,15 @@
 "path":"claims/phonological-automatization-improves-esp-reading-comprehension.md",
 "status":"review",
 "title":"Automatization of the phonological component through pronunciation practice improves ESP students' reading comprehension more than traditional translation-based instruction",
+"type":"claim"
+},
+{
+"description":"Phonological awareness instruction shows one of the highest outcome-specific effects (0.57) in Spanish reading programs",
+"evidence_strength":"moderate",
+"id":"phonological-awareness-es-057",
+"path":"claims/phonological-awareness-es-057.md",
+"status":"review",
+"title":"Phonological awareness instruction shows one of the highest outcome-specific effects (0.57) in Spanish reading programs",
 "type":"claim"
 },
 {
@@ -150272,6 +150506,24 @@
 "type":"claim"
 },
 {
+"description":"The association between proximal events and dropout is moderated by event severity and students' prior vulnerability",
+"evidence_strength":"weak",
+"id":"proximal-event-effects-moderated-by-prior-vulnerability",
+"path":"claims/proximal-event-effects-moderated-by-prior-vulnerability.md",
+"status":"review",
+"title":"The association between proximal events and dropout is moderated by event severity and students' prior vulnerability",
+"type":"claim"
+},
+{
+"description":"Proximal events emerging during high school are associated with dropout over and above pre-existing vulnerabilities",
+"evidence_strength":"weak",
+"id":"proximal-events-associated-with-dropout",
+"path":"claims/proximal-events-associated-with-dropout.md",
+"status":"review",
+"title":"Proximal events emerging during high school are associated with dropout over and above pre-existing vulnerabilities",
+"type":"claim"
+},
+{
 "description":"Proximal goals produced higher motivation, skill, self-efficacy, and intrinsic interest than distant or general goals",
 "evidence_strength":"moderate",
 "id":"proximal-goals-benefit-efficacy-and-skill",
@@ -151055,6 +151307,15 @@
 "path":"claims/publication-and-consent-top-validated-rcr-measure-topics.md",
 "status":"review",
 "title":"Publication and dissemination is the most frequent research integrity item topic, and consent the most frequent research ethics topic, in validated RCR measures",
+"type":"claim"
+},
+{
+"description":"Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36",
+"evidence_strength":"weak",
+"id":"publication-bias-adjusted-effect-036",
+"path":"claims/publication-bias-adjusted-effect-036.md",
+"status":"review",
+"title":"Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36",
 "type":"claim"
 },
 {
@@ -158903,6 +159164,15 @@
 "path":"claims/retro-cues-dynamically-modulate-wm-maintenance.md",
 "status":"review",
 "title":"Retro-cues during maintenance dynamically modulate working memory representations and confer large performance benefits",
+"type":"claim"
+},
+{
+"description":"Dropouts' own accounts point to recent precipitating events, with pivotal events present in almost 50% of cases in interview studies",
+"evidence_strength":"weak",
+"id":"retrospective-accounts-pivotal-events-half-of-cases",
+"path":"claims/retrospective-accounts-pivotal-events-half-of-cases.md",
+"status":"review",
+"title":"Dropouts' own accounts point to recent precipitating events, with pivotal events present in almost 50% of cases in interview studies",
 "type":"claim"
 },
 {
@@ -171891,6 +172161,15 @@
 "type":"claim"
 },
 {
+"description":"Six reviewed interventions affected students’ understanding of, views on, or intended behavior toward real-world others",
+"evidence_strength":"weak",
+"id":"six-interventions-affected-real-world-others",
+"path":"claims/six-interventions-affected-real-world-others.md",
+"status":"review",
+"title":"Six reviewed interventions affected students’ understanding of, views on, or intended behavior toward real-world others",
+"type":"claim"
+},
+{
 "description":"The six key principles of a trauma-informed approach span safety, trustworthiness, peer support, collaboration, empowerment, and cultural issues",
 "evidence_strength":"weak",
 "id":"six-key-principles-trauma-informed-approach",
@@ -173486,6 +173765,15 @@
 "type":"claim"
 },
 {
+"description":"Review reports exposure abroad alone does not guarantee gains in social-change competencies, calling the learning mechanism a black box",
+"evidence_strength":"weak",
+"id":"social-change-exposure-black-box",
+"path":"claims/social-change-exposure-black-box.md",
+"status":"review",
+"title":"Review reports exposure abroad alone does not guarantee gains in social-change competencies, calling the learning mechanism a black box",
+"type":"claim"
+},
+{
 "description":"Social-cognitive regions show quadratic activation patterns with age, with adolescents showing lower reactivity-related but higher reappraisal-related activation",
 "evidence_strength":"moderate",
 "id":"social-cognitive-regions-quadratic-adolescent-pattern",
@@ -175045,12 +175333,30 @@
 "type":"claim"
 },
 {
+"description":"Oral word-reading fluency instruction shows a high effect size of 0.66, but evidence rests on a single study",
+"evidence_strength":"weak",
+"id":"spanish-reading-fluency-es-066-single-study",
+"path":"claims/spanish-reading-fluency-es-066-single-study.md",
+"status":"review",
+"title":"Oral word-reading fluency instruction shows a high effect size of 0.66, but evidence rests on a single study",
+"type":"claim"
+},
+{
 "description":"Spanish Reading items show gradually increasing mean p values and stable discrimination with no negatively discriminating items",
 "evidence_strength":"moderate",
 "id":"spanish-reading-item-statistics-stable",
 "path":"claims/spanish-reading-item-statistics-stable.md",
 "status":"review",
 "title":"Spanish Reading items show gradually increasing mean p values and stable discrimination with no negatively discriminating items",
+"type":"claim"
+},
+{
+"description":"Spanish reading instructional programs in grades K–6 produce a positive, statistically significant average effect on reading outcomes (g = 0.49)",
+"evidence_strength":"moderate",
+"id":"spanish-reading-programs-overall-effect-049",
+"path":"claims/spanish-reading-programs-overall-effect-049.md",
+"status":"review",
+"title":"Spanish reading instructional programs in grades K–6 produce a positive, statistically significant average effect on reading outcomes (g = 0.49)",
 "type":"claim"
 },
 {
@@ -182979,6 +183285,42 @@
 "path":"claims/studio-experience-prepares-students-for-workforce.md",
 "status":"review",
 "title":"Students believed interdisciplinary studio experiences would ease their transition into the workforce",
+"type":"claim"
+},
+{
+"description":"Domestic study away is most often left undefined in both empirical and professional literature",
+"evidence_strength":"moderate",
+"id":"study-away-often-undefined",
+"path":"claims/study-away-often-undefined.md",
+"status":"review",
+"title":"Domestic study away is most often left undefined in both empirical and professional literature",
+"type":"claim"
+},
+{
+"description":"Learning outcomes attributed to study away are most commonly psychosocial or attitudinal",
+"evidence_strength":"moderate",
+"id":"study-away-outcomes-psychosocial-attitudinal",
+"path":"claims/study-away-outcomes-psychosocial-attitudinal.md",
+"status":"review",
+"title":"Learning outcomes attributed to study away are most commonly psychosocial or attitudinal",
+"type":"claim"
+},
+{
+"description":"Most domestic study away programs described in the literature are short term, under a semester",
+"evidence_strength":"moderate",
+"id":"study-away-programs-mostly-short-term",
+"path":"claims/study-away-programs-mostly-short-term.md",
+"status":"review",
+"title":"Most domestic study away programs described in the literature are short term, under a semester",
+"type":"claim"
+},
+{
+"description":"Around half of empirical study away studies use no theoretical or conceptual framework",
+"evidence_strength":"moderate",
+"id":"study-away-studies-lack-frameworks",
+"path":"claims/study-away-studies-lack-frameworks.md",
+"status":"review",
+"title":"Around half of empirical study away studies use no theoretical or conceptual framework",
 "type":"claim"
 },
 {
@@ -198390,6 +198732,15 @@
 "path":"claims/two-gendered-classroom-cultures.md",
 "status":"review",
 "title":"Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space",
+"type":"claim"
+},
+{
+"description":"Two reviewed interventions affected students’ understanding of fictional others",
+"evidence_strength":"weak",
+"id":"two-interventions-affected-understanding-fictional-others",
+"path":"claims/two-interventions-affected-understanding-fictional-others.md",
+"status":"review",
+"title":"Two reviewed interventions affected students’ understanding of fictional others",
 "type":"claim"
 },
 {
@@ -252008,6 +252359,14 @@
 "type":"strategy"
 },
 {
+"description":"The article recommends combining theoretical and methodological developments to study the interplay of early risks and proximal precipitants.",
+"id":"capture-proximal-events-in-dropout-research",
+"path":"strategies/capture-proximal-events-in-dropout-research.md",
+"status":"review",
+"title":"Study dropout with designs and analyses that capture proximal precipitating events alongside long-term risks",
+"type":"strategy"
+},
+{
 "description":"Learners sort a set of cards — each bearing a concept, example, or statement — into categories, either following given criteria or generating their own, to surface and consolidate conceptual structure.",
 "id":"card-sorting",
 "path":"strategies/card-sorting.md",
@@ -259705,6 +260064,14 @@
 "type":"strategy"
 },
 {
+"description":"The review recommends that educators expand the portfolio of intercultural program options beyond international travel.",
+"id":"domestic-study-away-program-offering-strategy",
+"path":"strategies/domestic-study-away-program-offering-strategy.md",
+"status":"review",
+"title":"Offer domestic study away alongside study abroad and community-engaged learning to broaden intercultural access",
+"type":"strategy"
+},
+{
 "description":"Resist the urge to immediately find solutions; listen and understand first, then collaborate on what support the learner actually wants.",
 "id":"dont_jump_into_fix_it_mode",
 "path":"strategies/dont_jump_into_fix_it_mode.md",
@@ -263323,6 +263690,14 @@
 "path":"strategies/exploration_station_for_multimodal_pathways.md",
 "status":"review",
 "title":"Exploration Station for Multimodal Pathways",
+"type":"strategy"
+},
+{
+"description":"A second design principle the review derives concerns classroom dialogue: \\\"verbally sharing these experiences with others in exploratory dialogues\\\".",
+"id":"exploratory-dialogues-sharing-reading-experiences",
+"path":"strategies/exploratory-dialogues-sharing-reading-experiences.md",
+"status":"review",
+"title":"Have students verbally share personal life and reading experiences with others in exploratory dialogues",
 "type":"strategy"
 },
 {
@@ -311529,6 +311904,7 @@
 "body-of-work-agreement-rates-71-97":"body-of-work-agreement-rates-71-97",
 "boilerplate-blindspot-experienced-students":"boilerplate-blindspot-experienced-students",
 "boiling-task-environment-effect":"boiling-task-environment-effect",
+"bolashak-employment-few-entrepreneurs":"bolashak-employment-few-entrepreneurs",
 "bold-goals-coalition-fcpk-access-increase":"bold-goals-coalition-fcpk-access-increase",
 "book-cover-recognition-predicts-literacy-beyond-intelligence":"book-cover-recognition-predicts-literacy-beyond-intelligence",
 "book-exposure-predicts-letter-knowledge":"book-exposure-predicts-letter-knowledge",
@@ -311591,6 +311967,7 @@
 "brain-behavior-ratio-correlations-children":"brain-behavior-ratio-correlations-children",
 "brain-breaks-teacher-adoption-after-presentation":"brain-breaks-teacher-adoption-after-presentation",
 "brain-connectivity-scales-down-with-external-support-essay-writing":"brain-connectivity-scales-down-with-external-support-essay-writing",
+"brain-drain-critique-scholarships":"brain-drain-critique-scholarships",
 "brain-gains-modest-no-far-transfer":"brain-gains-modest-no-far-transfer",
 "brain-to-llm-connectivity-spike-across-bands":"brain-to-llm-connectivity-spike-across-bands",
 "brainpop-esl-no-significant-lexile-growth":"brainpop-esl-no-significant-lexile-growth",
@@ -313103,6 +313480,7 @@
 "competency-knowledge-integration-links-differ-by-context":"competency-knowledge-integration-links-differ-by-context",
 "competency-model-as-banking-model":"competency-model-as-banking-model",
 "competency-progression-limited-grade-level-emphasis":"competency-progression-limited-grade-level-emphasis",
+"competing-rationales-burden-students":"competing-rationales-burden-students",
 "competing-time-priorities-dominant-barrier-language-curriculum":"competing-time-priorities-dominant-barrier-language-curriculum",
 "competition-enjoyment-task-focused-evaluation":"competition-enjoyment-task-focused-evaluation",
 "competition-main-effect-originality-not-fluency":"competition-main-effect-originality-not-fluency",
@@ -313208,6 +313586,7 @@
 "concept-selection-bottleneck-baselines":"concept-selection-bottleneck-baselines",
 "conceptions-constructivist-learning-relate-to-regulation-processing":"conceptions-constructivist-learning-relate-to-regulation-processing",
 "conceptions-diverge-from-srl-activities":"conceptions-diverge-from-srl-activities",
+"concepts-of-print-negative-nonsignificant":"concepts-of-print-negative-nonsignificant",
 "conceptual-ambiguity-impedes-theory-integration":"conceptual-ambiguity-impedes-theory-integration",
 "conceptual-deviation-awareness-guides-teacher-attention":"conceptual-deviation-awareness-guides-teacher-attention",
 "conceptual-instruction-no-added-fact-retrieval-benefit":"conceptual-instruction-no-added-fact-retrieval-benefit",
@@ -314704,6 +315083,7 @@
 "dina-fit-fci-emcs-good-fmce-marginal":"dina-fit-fci-emcs-good-fmce-marginal",
 "dinosaur-context-evokes-value-and-method-limit-concerns":"dinosaur-context-evokes-value-and-method-limit-concerns",
 "dinsmore-project-based-declarative-only":"dinsmore-project-based-declarative-only",
+"diplomatic-rationale-opinion-leaders":"diplomatic-rationale-opinion-leaders",
 "direct-conditions-higher-full-comprehension":"direct-conditions-higher-full-comprehension",
 "direct-ct-instruction-outperforms-implicit-strategies":"direct-ct-instruction-outperforms-implicit-strategies",
 "direct-disagreement-invisible-versus-present-peers":"direct-disagreement-invisible-versus-present-peers",
@@ -314982,6 +315362,7 @@
 "domain-specialized-32b-outperforms-larger-models":"domain-specialized-32b-outperforms-larger-models",
 "domain-specific-interference-basis-of-multimedia-learning":"domain-specific-interference-basis-of-multimedia-learning",
 "domain-specific-self-concept-predicts-judgments":"domain-specific-self-concept-predicts-judgments",
+"domestic-study-away-as-effective-as-international":"domestic-study-away-as-effective-as-international",
 "dominant-language-attention-bias-dual-language-e-books":"dominant-language-attention-bias-dual-language-e-books",
 "dominant-outcomes-overreliance-constrains-students-of-color":"dominant-outcomes-overreliance-constrains-students-of-color",
 "dominant-transitions-vary-by-week":"dominant-transitions-vary-by-week",
@@ -315069,6 +315450,7 @@
 "dropout-program-effects-heterogeneous":"dropout-program-effects-heterogeneous",
 "dropout-program-type-effectiveness":"dropout-program-type-effectiveness",
 "dropout-programs-or-163-completion":"dropout-programs-or-163-completion",
+"dropout-theories-treat-precipitants-as-side-notes":"dropout-theories-treat-precipitants-as-side-notes",
 "ds-items-faster-more-accurate-than-ia-items":"ds-items-faster-more-accurate-than-ia-items",
 "ds-references-interaction-ht-lt":"ds-references-interaction-ht-lt",
 "dsmri-role-identity-formation-attractor-repellor":"dsmri-role-identity-formation-attractor-repellor",
@@ -317205,6 +317587,7 @@
 "fort-worth-gender-subgroups-charter-district-growth":"fort-worth-gender-subgroups-charter-district-growth",
 "fort-worth-hispanic-students-charter-advantage-reading":"fort-worth-hispanic-students-charter-advantage-reading",
 "fort-worth-poverty-students-charter-advantage-reading":"fort-worth-poverty-students-charter-advantage-reading",
+"forty-percent-dropouts-no-clear-disengagement":"forty-percent-dropouts-no-clear-disengagement",
 "forum-collaborative-learning-small-group-sizes":"forum-collaborative-learning-small-group-sizes",
 "forum-more-social-regulative-comments":"forum-more-social-regulative-comments",
 "foster-1994-daisyquest-significant-both-measures":"daisyquest-child-care-significant-gains",
@@ -318257,6 +318640,7 @@
 "grades-predict-enrollment-more-than-act-chicago":"grades-predict-enrollment-more-than-act-chicago",
 "grades-rose-tests-attendance-fell":"grades-rose-tests-attendance-fell",
 "grades-strongest-indicator-academic-preparation":"grades-strongest-indicator-academic-preparation",
+"grades36-comprehension-programs-es-034":"grades36-comprehension-programs-es-034",
 "grading-bias-feedback-increases-accuracy":"grading-bias-feedback-increases-accuracy",
 "grading-differences-small-gpa-averages-teacher-differences":"grading-differences-small-gpa-averages-teacher-differences",
 "grading-harms-maker-education-outcomes":"grading-harms-maker-education-outcomes",
@@ -318927,6 +319311,7 @@
 "human-ai-tutoring-skill-proficiency-gap-widens":"human-ai-tutoring-skill-proficiency-gap-widens",
 "human-assessor-agrees-with-gpt-feedback-on-uncommented-aspects":"human-assessor-agrees-with-gpt-feedback-on-uncommented-aspects",
 "human-bash-scores-bimodal-zero-or-near-full":"human-bash-scores-bimodal-zero-or-near-full",
+"human-capital-rationale-scholarships":"human-capital-rationale-scholarships",
 "human-embodiment-video-presence-effects":"human-embodiment-video-presence-effects",
 "human-evaluation-interactivity-hardening":"human-evaluation-interactivity-hardening",
 "human-evaluation-prefers-prototype-refine-simulations":"human-evaluation-prefers-prototype-refine-simulations",
@@ -319081,6 +319466,7 @@
 "identity-core-of-sead-for-students-of-color":"identity-core-of-sead-for-students-of-color",
 "identity-presence-deeper-discussion-threads":"identity-presence-deeper-discussion-threads",
 "idf-reweighting-improves-kc-retrieval":"idf-reweighting-improves-kc-retrieval",
+"idi-progress-regardless-of-study-away":"idi-progress-regardless-of-study-away",
 "ids-no-growth-difference-explore-plan":"ids-no-growth-difference-explore-plan",
 "ids-recognize-dispositions-as-learning-goals":"ids-recognize-dispositions-as-learning-goals",
 "ids-varied-definitions-of-dispositions":"ids-varied-definitions-of-dispositions",
@@ -320066,6 +320452,7 @@
 "k2-literacy-assessments-positively-correlated-map-strongest":"k2-literacy-assessments-positively-correlated-map-strongest",
 "k2-outperforms-k1-cvs-scores":"k2-outperforms-k1-cvs-scores",
 "k2-scores-predict-third-grade-ela-grades":"k2-scores-predict-third-grade-ela-grades",
+"k2-spanish-reading-interventions-es-051":"k2-spanish-reading-interventions-es-051",
 "k3-adapted-curricula-no-differential-gains":"k3-adapted-curricula-no-differential-gains",
 "k3-at-risk-decreases-larger-earlier-grades":"k3-at-risk-decreases-larger-earlier-grades",
 "k3-growth-less-valid-than-grade3-4-similar-precision":"k3-growth-less-valid-than-grade3-4-similar-precision",
@@ -320295,6 +320682,7 @@
 "koku-improves-balance-12-weeks-older-adults":"koku-improves-balance-12-weeks-older-adults",
 "koku-qualitative-acceptability-themes":"koku-qualitative-acceptability-themes",
 "koku-secondary-outcomes-mixed":"koku-secondary-outcomes-mixed",
+"kolb-elt-most-used-study-away-framework":"kolb-elt-most-used-study-away-framework",
 "kolb-inventory-limited-validity-career-and-personality":"kolb-inventory-limited-validity-career-and-personality",
 "kolb-learning-style-stable-over-one-year":"kolb-learning-style-stable-over-one-year",
 "kra-overall-score-predicts-grade3-as-well-as-subscores":"kra-overall-score-predicts-grade3-as-well-as-subscores",
@@ -320868,6 +321256,7 @@
 "literacy-math-preparation-predicts-tpa-passing":"literacy-math-preparation-predicts-tpa-passing",
 "literacy-physical-activity-null-fully-adjusted":"literacy-physical-activity-null-fully-adjusted",
 "literal-memory-difference-simile-null":"literal-memory-difference-simile-null",
+"literature-education-fosters-insight-human-nature":"literature-education-fosters-insight-human-nature",
 "literature-review-assessment-metadata-sel":"literature-review-assessment-metadata-sel",
 "little-achievement-evidence-elsewhere-common-core":"little-achievement-evidence-elsewhere-common-core",
 "little-books-evidence-base-small-one-domain":"little-books-evidence-base-small-one-domain",
@@ -321804,6 +322193,14 @@
 "mcl-team-teachers-gains-top-quartile":"mcl-team-teachers-gains-top-quartile",
 "mcq-accuracy-no-significant-condition-difference":"mcq-accuracy-no-significant-condition-difference",
 "mcs-explicitness-effect-size-d208":"mcs-explicitness-effect-size-d208",
+"mcscl-benefits-three-outcome-types":"mcscl-benefits-three-outcome-types",
+"mcscl-domain-subject-moderator":"mcscl-domain-subject-moderator",
+"mcscl-group-size-moderator":"mcscl-group-size-moderator",
+"mcscl-individual-rewards-significant":"mcscl-individual-rewards-significant",
+"mcscl-intervention-duration-moderator":"mcscl-intervention-duration-moderator",
+"mcscl-medium-overall-effect-0-516":"mcscl-medium-overall-effect-0-516",
+"mcscl-teaching-method-moderator":"mcscl-teaching-method-moderator",
+"mcscl-vs-control-group-types":"mcscl-vs-control-group-types",
 "mct-pd-increased-teaching-quality-more-than-control":"mct-pd-increased-teaching-quality-more-than-control",
 "mct-pd-more-complete-contingent-teaching-cycles":"mct-pd-more-complete-contingent-teaching-cycles",
 "md-only-fact-retrieval-tutoring-gains":"md-only-fact-retrieval-tutoring-gains",
@@ -323296,6 +323693,7 @@
 "no-moderation-gender-objectivity-stage":"no-moderation-gender-objectivity-stage",
 "no-moderation-sex-age-ses":"no-moderation-sex-age-ses",
 "no-moderator-effects-fl-word-reading":"no-moderator-effects-fl-word-reading",
+"no-moderator-effects-grade-or-outcome":"no-moderator-effects-grade-or-outcome",
 "no-moderators-life-events-self-control":"no-moderators-life-events-self-control",
 "no-motivation-difference-ibl-environments":"no-motivation-difference-ibl-environments",
 "no-motivation-effect-differentiation":"no-motivation-effect-differentiation",
@@ -323558,6 +323956,7 @@
 "nsc-iccb-any-credential-completion-alignment":"nsc-iccb-any-credential-completion-alignment",
 "nsc-iccb-enrollment-alignment-96-percent":"nsc-iccb-enrollment-alignment-96-percent",
 "nsch-wisconsin-diverge-from-nhes-after-2007":"nsch-wisconsin-diverge-from-nhes-after-2007",
+"nse-pretest-advantage-no-significant-growth":"nse-pretest-advantage-no-significant-growth",
 "nsf-exp-network-238-researchers-87-projects":"nsf-exp-network-238-researchers-87-projects",
 "nsf-strategy-increases-helped-students-busy-normal-queues":"nsf-strategy-increases-helped-students-busy-normal-queues",
 "nsi-network-cohesion-low-but-improving":"nsi-network-cohesion-low-but-improving",
@@ -323772,6 +324171,7 @@
 "one-exposure-context-learning-probability-extrapolation":"one-exposure-context-learning-probability-extrapolation",
 "one-in-six-elementary-teachers-linked-to-untaught-subject":"one-in-six-elementary-teachers-linked-to-untaught-subject",
 "one-in-six-grade-4-5-teachers-mislinked-unconfirmed-data":"one-in-six-grade-4-5-teachers-mislinked-unconfirmed-data",
+"one-intervention-affected-insight-into-self":"one-intervention-affected-insight-into-self",
 "one-of-ten-software-products-significant-positive-effects":"one-of-ten-software-products-significant-positive-effects",
 "one-on-one-adult-support-college-applications":"one-on-one-adult-support-college-applications",
 "one-shot-generation-lowers-adaptivity":"one-shot-generation-lowers-adaptivity",
@@ -324762,6 +325162,7 @@
 "phonics-instruction-improves-word-reading":"phonics-instruction-outperforms-whole-word-for-generalization",
 "phonics-instruction-outperforms-whole-word-for-generalization":"phonics-instruction-outperforms-whole-word-for-generalization",
 "phonological-automatization-improves-esp-reading-comprehension":"phonological-automatization-improves-esp-reading-comprehension",
+"phonological-awareness-es-057":"phonological-awareness-es-057",
 "phonological-awareness-memory-most-contribute-reading-writing":"phonological-awareness-memory-most-contribute-reading-writing",
 "phonological-awareness-multiplication-fact-retrieval":"phonological-awareness-multiplication-fact-retrieval",
 "phonological-awareness-multiplication-not-subtraction":"phonological-awareness-multiplication-not-subtraction",
@@ -325887,6 +326288,8 @@
 "provision-support-improves-both-process-qualities":"provision-support-improves-both-process-qualities",
 "prox-far-mutual-gaze-monitoring-pathway":"prox-far-mutual-gaze-monitoring-pathway",
 "proxemic-configuration-rr1-relational-shift":"proxemic-configuration-rr1-relational-shift",
+"proximal-event-effects-moderated-by-prior-vulnerability":"proximal-event-effects-moderated-by-prior-vulnerability",
+"proximal-events-associated-with-dropout":"proximal-events-associated-with-dropout",
 "proximal-goals-benefit-efficacy-and-skill":"proximal-goals-benefit-efficacy-and-skill",
 "proximal-goals-feedback-peer-models-build-learning-efficacy":"proximal-goals-feedback-peer-models-build-learning-efficacy",
 "proximal-practices-predict-behaviors-mindsets":"proximal-practices-predict-behaviors-mindsets",
@@ -325976,6 +326379,7 @@
 "public-source-benchmark-corrected-scores-rise-dramatically":"public-source-benchmark-corrected-scores-rise-dramatically",
 "public-vs-private-reflection-mixed":"public-vs-private-reflection-mixed",
 "publication-and-consent-top-validated-rcr-measure-topics":"publication-and-consent-top-validated-rcr-measure-topics",
+"publication-bias-adjusted-effect-036":"publication-bias-adjusted-effect-036",
 "publication-bias-corrected-psi-effect-strong":"publication-bias-corrected-psi-effect-strong",
 "publication-bias-cross-sectional-avg-data":"publication-bias-cross-sectional-avg-data",
 "publication-bias-embodied-vocabulary-meta-analysis":"publication-bias-embodied-vocabulary-meta-analysis",
@@ -326871,6 +327275,7 @@
 "retrieval-practice-review-50-classroom-experiments":"retrieval-practice-review-50-classroom-experiments",
 "retrieval-use-grade-problem-size-interaction":"retrieval-use-grade-problem-size-interaction",
 "retro-cues-dynamically-modulate-wm-maintenance":"retro-cues-dynamically-modulate-wm-maintenance",
+"retrospective-accounts-pivotal-events-half-of-cases":"retrospective-accounts-pivotal-events-half-of-cases",
 "retrospective-confidence-gains-me373":"retrospective-confidence-gains-me373",
 "retrospective-discrepancy-predicts-metacognitive-sensitivity":"retrospective-discrepancy-predicts-metacognitive-sensitivity",
 "retrospective-not-prospective-accuracy-strategy-selection":"retrospective-not-prospective-accuracy-strategy-selection",
@@ -328349,6 +328754,7 @@
 "six-historical-thinking-dimensions-rubric-targets":"six-historical-thinking-dimensions-rubric-targets",
 "six-implementation-modes-customized-ai-writing":"six-implementation-modes-customized-ai-writing",
 "six-insights-test-taking-disengagement-international-programs":"six-insights-test-taking-disengagement-international-programs",
+"six-interventions-affected-real-world-others":"six-interventions-affected-real-world-others",
 "six-key-principles-trauma-informed-approach":"six-key-principles-trauma-informed-approach",
 "six-latent-prereading-profiles-kindergarten":"six-latent-prereading-profiles-kindergarten",
 "six-learning-outcomes-mathematics-methodology-ca":"six-learning-outcomes-mathematics-methodology-ca",
@@ -328527,6 +328933,7 @@
 "social-barriers-teacher-stigma-hunter-gatherer":"social-barriers-teacher-stigma-hunter-gatherer",
 "social-belonging-intervention-improves-outcomes-but-misuse-risk":"social-belonging-intervention-improves-outcomes-but-misuse-risk",
 "social-capital-online-pd-intervention-success":"social-capital-online-pd-intervention-success",
+"social-change-exposure-black-box":"social-change-exposure-black-box",
 "social-cognitive-regions-quadratic-adolescent-pattern":"social-cognitive-regions-quadratic-adolescent-pattern",
 "social-communication-growth-uniquely-predicts-kindergarten-reading":"social-communication-growth-uniquely-predicts-kindergarten-reading",
 "social-communication-uniquely-predicts-kindergarten-executive-functions":"social-communication-uniquely-predicts-kindergarten-executive-functions",
@@ -328711,7 +329118,9 @@
 "spanish-map-reading-test-retest-reliability-050-083":"spanish-map-reading-test-retest-reliability-050-083",
 "spanish-math-item-difficulty-discrimination-stable":"spanish-math-item-difficulty-discrimination-stable",
 "spanish-proficiency-associated-less-residual-inhibition":"spanish-proficiency-associated-less-residual-inhibition",
+"spanish-reading-fluency-es-066-single-study":"spanish-reading-fluency-es-066-single-study",
 "spanish-reading-item-statistics-stable":"spanish-reading-item-statistics-stable",
+"spanish-reading-programs-overall-effect-049":"spanish-reading-programs-overall-effect-049",
 "spanish-receptive-language-growth-predicts-spanish-reading-first-grade":"spanish-receptive-language-growth-predicts-spanish-reading-first-grade",
 "spanish-reliability-marginal-test-retest":"spanish-reliability-marginal-test-retest",
 "spanish-rit-scores-increase-by-grade":"spanish-rit-scores-increase-by-grade",
@@ -329604,6 +330013,10 @@
 "studies-underway-learning-benefits-pedagogical-partnership":"studies-underway-learning-benefits-pedagogical-partnership",
 "studio-authentic-motivation-beyond-grades":"studio-authentic-motivation-beyond-grades",
 "studio-experience-prepares-students-for-workforce":"studio-experience-prepares-students-for-workforce",
+"study-away-often-undefined":"study-away-often-undefined",
+"study-away-outcomes-psychosocial-attitudinal":"study-away-outcomes-psychosocial-attitudinal",
+"study-away-programs-mostly-short-term":"study-away-programs-mostly-short-term",
+"study-away-studies-lack-frameworks":"study-away-studies-lack-frameworks",
 "study-efficiency-increases-with-age":"study-efficiency-increases-with-age",
 "study-goal-better-free-recall":"study-goal-better-free-recall",
 "study-goal-more-explanatory-inferences":"study-goal-more-explanatory-inferences",
@@ -331353,6 +331766,7 @@
 "two-dimensions-metacognitive-awareness-university-students":"two-dimensions-metacognitive-awareness-university-students",
 "two-force-plate-impulse-asymmetry-student-project":"two-force-plate-impulse-asymmetry-student-project",
 "two-gendered-classroom-cultures":"two-gendered-classroom-cultures",
+"two-interventions-affected-understanding-fictional-others":"two-interventions-affected-understanding-fictional-others",
 "two-level-sem-approaches-teaching-studying-biology-achievement":"two-level-sem-approaches-teaching-studying-biology-achievement",
 "two-million-student-map-growth-gender-gaps-achievement-levels":"two-million-student-map-growth-gender-gaps-achievement-levels",
 "two-part-collaborative-assessment-learning-experience":"two-part-collaborative-assessment-learning-experience",
@@ -338235,6 +338649,7 @@
 "cap-background-lecture-complex-lab":"cap-background-lecture-complex-lab",
 "capit-onboarding-data-coaching-strategy":"capit-onboarding-data-coaching-strategy",
 "captioning-guidelines-for-mlearning-messages":"captioning-guidelines-for-mlearning-messages",
+"capture-proximal-events-in-dropout-research":"capture-proximal-events-in-dropout-research",
 "card-sorting":"card-sorting",
 "career-academy-employer-partnership-work-based-learning":"career-academy-employer-partnership-work-based-learning",
 "career-centric-reverse-academic-planning":"career-centric-reverse-academic-planning",
@@ -339246,6 +339661,7 @@
 "domain-experts-throughout-child-safety-evaluation":"domain-experts-throughout-child-safety-evaluation",
 "domain-specific-fine-tuning-for-trustworthy-generative-ai":"domain-specific-fine-tuning-for-trustworthy-generative-ai",
 "domain_check":"domain_check",
+"domestic-study-away-program-offering-strategy":"domestic-study-away-program-offering-strategy",
 "dont_jump_into_fix_it_mode":"dont_jump_into_fix_it_mode",
 "dont_say_my_number":"dont_say_my_number",
 "dos-and-donts-school-performance-data-interpretation":"dos-and-donts-school-performance-data-interpretation",
@@ -339727,6 +340143,7 @@
 "exploit-marginalized-difference-against-somatic-response":"exploit-marginalized-difference-against-somatic-response",
 "exploration_station":"exploration_station",
 "exploration_station_for_multimodal_pathways":"exploration_station_for_multimodal_pathways",
+"exploratory-dialogues-sharing-reading-experiences":"exploratory-dialogues-sharing-reading-experiences",
 "explore-data-distributions-before-stabilization":"explore-data-distributions-before-stabilization",
 "explore-fidelity-barriers-embed-criteria-in-policy":"explore-fidelity-barriers-embed-criteria-in-policy",
 "expose-girls-female-math-science-role-models":"expose-girls-female-math-science-role-models",

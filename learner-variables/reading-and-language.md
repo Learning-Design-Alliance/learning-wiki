@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 169 claims (105 show a difference, 25 mixed, 39 no difference) · 124 studies (34 causal, 28 associational, 26 quant-synthesis, 22 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 27 of 124 report an effect size · 160 claims rest on one study
+> **Evidence** · 170 claims (106 show a difference, 25 mixed, 39 no difference) · 125 studies (34 causal, 28 associational, 27 quant-synthesis, 22 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 28 of 125 report an effect size · 161 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -220,6 +220,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](../claims/word-reading-interventions-outcome-type-effects.md) [~W] — instruction changes it
 - [Leisure digital reading habits show a small positive association with reading comprehension (r = .055), much smaller than for print reading habits](../claims/leisure-digital-reading-small-positive-comprehension-association.md) [+M] — learners who differ on it differ in outcomes
 - [RALL studies report learning gains when social robots are used to teach vocabulary, reading skills, speaking skills, grammar, and sign language](../claims/rall-learning-gains-five-language-domains.md) [+M] — instruction changes it
+- [Oral word-reading fluency instruction shows a high effect size of 0.66, but evidence rests on a single study](../claims/spanish-reading-fluency-es-066-single-study.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

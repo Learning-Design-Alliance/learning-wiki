@@ -52,3 +52,4 @@ Publication-bias assessment of the cross-sectional three-level model: visual fun
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
 - [No clear evidence of publication bias or small study effects in the collaborative instruction literature](no-publication-bias-collaborative-instruction.md) — related
+- [Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36](publication-bias-adjusted-effect-036.md) — related

@@ -47,3 +47,4 @@ Descriptive finding from the meta-analysis of 33 studies on the distribution of 
 - [Phonological awareness and fluency show the largest effect-size relations with reading comprehension among Spanish-speaking children's essential reading components.](pa-fluency-largest-relations-comprehension-spanish.md) — related
 - [Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages](bilingual-advantage-reading-acquisition.md) — related
 - [Effect sizes linking reading components to comprehension are highly heterogeneous across studies, partly explained by age, country, and comprehension test used.](heterogeneity-age-country-comprehension-tests.md) — related
+- [Phonological awareness instruction shows one of the highest outcome-specific effects (0.57) in Spanish reading programs](phonological-awareness-es-057.md) — related
