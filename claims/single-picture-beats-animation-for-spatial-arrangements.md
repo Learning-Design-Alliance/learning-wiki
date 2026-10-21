@@ -49,3 +49,4 @@ Same three-group experiment (N = 88). On arrangement identification the single-p
 - [A re-analysis of a meta-analysis found learning from animations more effective than static pictures only when features of the displayed changes were relevant to learning](reanalysis-features-of-change-moderator.md) — reports the opposite
 - [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — reports the opposite
 - [Learning from an animation is significantly more successful than learning from static pictures when identifying the specific motions of a gear mechanism's links](animation-beats-static-pictures-for-identifying-motions.md) — related
+- [The three touch-based-action groups did not differ significantly on the identification test](no-group-difference-identification-test.md) — related

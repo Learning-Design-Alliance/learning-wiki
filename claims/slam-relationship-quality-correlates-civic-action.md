@@ -53,3 +53,4 @@ Correlational analyses of CASQ and NRI-SPV scores among mentored students (MG, n
 - [Peer mentoring shows a trend toward higher posttest social justice attitudes](peer-mentoring-trend-social-justice-attitudes.md) — related
 - [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — a broader claim this one bears on
 - [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — a broader claim this one bears on
+- [Experts scaffold by reassuring novices to continue acting or thinking, removing uncertainty about whether they chose the right action](reassurance-cues-sustain-novice-continuation.md) — related

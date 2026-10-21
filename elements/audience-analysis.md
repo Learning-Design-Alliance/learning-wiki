@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (13 for, 7 mixed) · 26 studies (10 associational, 5 theoretical, 4 causal, 3 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 2 of 26 report an effect size · 16 claims rest on one study
+> **Evidence** · 21 claims (13 for, 8 mixed) · 27 studies (10 associational, 5 theoretical, 4 causal, 4 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 2 of 27 report an effect size · 17 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -69,6 +69,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [Among similarly qualified seniors, the high school attended largely determines coursetaking patterns](../claims/school-determines-senior-coursetaking.md) [~W]
 - [Self-reported SRL strategies vary by individual learner characteristics including demographics, prior experience, and motivations](../claims/srl-varies-by-individual-characteristics.md) [+W]
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](../claims/three-ct-profiles-preservice-teachers-lpa.md) [+W]
+- [Teachers often rely on informal impressions rather than systematic, theory-grounded diagnostic procedures when judging students' SRL](../claims/teachers-rely-on-informal-diagnostic-judgments-srl.md) [~W]
 
 ## The evidence by question
 

@@ -128,3 +128,4 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [Good learners do not always adhere to established practice principles; low contextual interference can still produce good learning](good-learners-violate-practice-principles.md) — related
 - [Spaced retrieval practice outperformed both massed retrieval practice and no-practice control on delayed financial knowledge, while massed and control did not differ](spaced-beats-massed-and-control-financial-knowledge.md) — related
 - [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — related
+- [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](fluency-misleads-judgments-of-learning.md) — related

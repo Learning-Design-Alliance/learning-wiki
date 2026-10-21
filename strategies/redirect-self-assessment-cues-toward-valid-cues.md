@@ -46,6 +46,7 @@ Because self-assessment feedback did not improve accuracy in either experiment, 
 ## Related Strategies
 
 - [Direct SSA research toward the five identified known unknowns](ssa-research-agenda-five-known-unknowns.md)
+- [Prompt learners to monitor performance-based rather than explanation-based cues in the initial problem-solving phase](prompt-performance-based-cues-strategy.md)
 
 ## Examples
 -

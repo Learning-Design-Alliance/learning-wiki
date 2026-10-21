@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (8 for, 3 mixed, 2 against) · 19 studies (9 causal, 5 quant-synthesis, 3 review, 2 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (9 for, 3 mixed, 2 against) · 20 studies (9 causal, 5 quant-synthesis, 4 review, 2 theoretical), `q1`–`q4` · 4 of 20 report an effect size · 10 claims rest on one study
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -61,6 +61,7 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - [Amount of sensorimotor engagement, target language, proficiency, and type of embodied interaction do not significantly moderate embodied vocabulary learning effects](../claims/non-significant-moderators-embodied-vocabulary.md) [+W]
 - [A prior meta-analysis reports that embodied designs helped improve learning efficiency and academic performance in education, including language education](../claims/zhang-meta-analysis-embodied-designs-improve-learning.md) [+M]
 - [Empirical research on embodied learning in language education is a small but rapidly growing area, with 41 studies identified and most published 2019–2020](../claims/embodied-language-learning-research-growing-41-studies.md) [~W]
+- [VR improved movement-based transfer test performance versus reading in security training, while learning in VR without the possibility to act was detrimental](../claims/vr-transfer-benefit-but-actionless-vr-detrimental.md) [+W]
 
 ## The evidence by question
 

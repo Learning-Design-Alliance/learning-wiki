@@ -66,3 +66,4 @@ Follow-up t-tests comparing the prompt and no-prompt groups at the during-learni
 - [The 45-minute prompting lesson significantly increased prompting self-efficacy relative to a business-as-usual control lesson](prompting-lesson-raises-self-efficacy.md) — related
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
 - [Prompted and control groups show no significant differences in separative elaborations within domains or in additions](no-prompt-effect-within-domain-elaborations-additions.md) — related
+- [Both GLA groups showed a large, significant increase in pipetting self-efficacy, with no difference between conditions](gla-self-efficacy-increase-vr.md) — related

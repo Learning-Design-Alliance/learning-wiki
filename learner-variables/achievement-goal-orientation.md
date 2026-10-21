@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 33 claims (16 show a difference, 12 mixed, 5 no difference) · 21 studies (10 associational, 4 causal, 4 review, 3 theoretical), `q2`–`q3` · 9 of 21 report an effect size · 31 claims rest on one study
+> **Evidence** · 39 claims (19 show a difference, 14 mixed, 6 no difference) · 22 studies (10 associational, 4 causal, 4 review, 3 theoretical, 1 quant-synthesis), `q2`–`q4` · 10 of 22 report an effect size · 37 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -68,6 +68,12 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre](../claims/profile-varying-predictive-effects-writing-achievement.md) [~W] — an instructional effect differs with it
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](../claims/achievement-goals-small-correlations-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [Mastery-approach goals are positively related to time management, while performance-approach relations are inconsistent and performance-avoidance goals show no association](../claims/mastery-approach-goals-time-management.md) [~M] — learners who differ on it differ in outcomes
+- [Mastery-approach goals are negatively related to anxiety (r = −.10) across 34 samples](../claims/mastery-approach-goals-negative-anxiety-meta.md) [+M] — learners who differ on it differ in outcomes
+- [Mastery-approach goals are negatively related to depression (r = −.18) across 36 samples](../claims/mastery-approach-goals-negative-depression-meta.md) [+M] — learners who differ on it differ in outcomes
+- [Mastery-avoidance goals are not significantly related to anxiety or depression](../claims/mastery-avoidance-goals-null-internalizing.md) [-M] — learners who differ on it differ in outcomes
+- [Performance-approach goals are positively related to anxiety (r = .15) but not significantly related to depression (r = .05)](../claims/performance-approach-goals-anxiety-not-depression.md) [~M] — learners who differ on it differ in outcomes
+- [Performance-avoidance goals are positively related to both anxiety (r = .25) and depression (r = .16)](../claims/performance-avoidance-goals-positive-internalizing-meta.md) [+M] — learners who differ on it differ in outcomes
+- [The goal–internalizing relations are moderated by goal terminology, goal setting, education level, goal model, and cultural context](../claims/moderators-achievement-goals-internalizing.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

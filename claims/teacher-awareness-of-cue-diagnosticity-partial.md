@@ -47,3 +47,4 @@ Ranking-task analysis in the same study: after condition 3, teachers ranked all 
 - [The cue-diagnosticity intervention steered cue utilization: diagnostic cue use increased and non-diagnostic cue use decreased](diagnosticity-intervention-steers-cue-utilization.md)
 - [Performance cues were found most diagnostic for students' reading comprehension performance](performance-cues-most-diagnostic-reading-comprehension.md) — related
 - [Students tend to rely on non-diagnostic cues when judging their own performance, resulting in inaccurate judgments](students-rely-on-nondiagnostic-cues-inaccurate-monitoring.md) — related
+- [Teachers often rely on informal impressions rather than systematic, theory-grounded diagnostic procedures when judging students' SRL](teachers-rely-on-informal-diagnostic-judgments-srl.md) — related

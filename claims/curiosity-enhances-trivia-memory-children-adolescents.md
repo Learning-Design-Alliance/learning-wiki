@@ -50,3 +50,4 @@ ANOVA on proportion correctly recalled trivia answers in N = 60 participants (ch
 - [Positive information prediction errors enhance memory for low-curiosity answers increasingly with age](positive-ipe-memory-low-curiosity-answers-increase-with-age.md) — related
 - [Children with greater curiosity-related trivia memory benefits also show greater curiosity-related incidental face memory benefits](curiosity-answer-face-memory-benefit-correlation.md) — related
 - [High-curiosity states did not enhance recognition memory for incidental face images in children or adolescents](no-curiosity-spillover-incidental-faces-children.md) — related
+- [Curiosity is a special case of interest, with the two constructs overlapping in a part-whole rather than mutually exclusive relationship](curiosity-special-case-of-interest.md) — related

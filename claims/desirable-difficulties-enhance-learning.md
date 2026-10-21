@@ -159,3 +159,4 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - Some participants used external memory aids such as notes or web sources during practice, and Experiment 2 analyses were checked excluding these participants. — related
 - [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — related
 - [Interleaved practice outperformed blocked practice across eight STEM classrooms](interleaving-beats-blocking-across-stem-classes.md) — related
+- [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](fluency-misleads-judgments-of-learning.md) — related

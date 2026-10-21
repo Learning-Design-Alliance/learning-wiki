@@ -51,3 +51,4 @@ HLM regression of preliteracy, language, and mathematics on inattention, aggress
 - [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related
 - [Children's positive feelings about school attenuate the relationship between aggression and academic development](feelings-about-school-protective-moderator.md) — related
 - [Early language skills predict later adolescent externalizing behavior problems](early-language-predicts-externalizing.md) — related
+- [Prevalence of sustained shared thinking in preschool settings predicts children's outcomes on academic and social-behavioral measures](sustained-shared-thinking-predicts-child-outcomes.md) — related

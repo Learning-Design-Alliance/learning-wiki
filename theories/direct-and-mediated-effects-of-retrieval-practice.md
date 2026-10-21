@@ -17,7 +17,7 @@ sources:
 # Direct versus Mediated Effects of Retrieval Practice
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 1 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 A distinction the chapter uses to organize retrieval research. Mediated effects arise when a test guides later study, informs teachers, or motivates effort; in contrast, "Any gains in learning from practicing retrieval, without restudy or feedback, represent direct effects of retrieval processes on learning". The chapter credits the mediated-effects idea to Roediger and Karpicke (2006a).
@@ -38,7 +38,9 @@ A distinction the chapter uses to organize retrieval research. Mediated effects 
 - Distinguish learning caused by the act of retrieval from learning caused by feedback, restudy, or motivation
 
 ### Claims
+
 - [Repeated Recall Without Feedback Beats Repeated Study At One Week But Not Five Minutes](../claims/repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) [+W]
+- [Self-reported retrieval use moderated the forward benefit of cue-only JOLs: higher retrieval ratings predicted better Phase B memory and transfer only in the cue-only JOLs condition](../claims/retrieval-self-report-moderates-cue-only-jol-benefit.md) [+W] — attached 2026-10-21 from Ritter et al. (2025), which proposed "Covert-retrieval account of forward effects of judgments of learning"; tests this page's relationship.
 
 ## Related Theories
 - [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+M]

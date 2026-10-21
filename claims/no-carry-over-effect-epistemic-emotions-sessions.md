@@ -48,3 +48,4 @@ DSEM lagged models on the 212 within-person session observations. Model 2 with s
 - [Low-achieving students' emotions in Knowledge Building threads tended to transition to the same or similar emotions](emotion-transition-similar-emotions-lsa.md) — related
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
 - [The session-type-by-time interaction showed anxiety increasing in game sessions while decreasing in lectures, and confusion declining more steeply in game sessions.](session-type-time-interaction-anxiety-confusion.md) — related
+- [Emotional variability in L2 learning episodes is primarily intraindividual (62–68%), with modest lag-1 inertia (r ≈ .17–.19) and weak long-term trends or weekly cycles](l2-emotion-variability-within-person-inertia-modest.md) — reports the opposite

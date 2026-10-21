@@ -43,7 +43,8 @@ The review endorses Cui's (2013) call that 'future research on social presence a
 - [Proliferating definitions and incompatible measures of social presence have produced a confounding situation that prevents a coherent research field](../claims/social-presence-confounding-situation-jingle-fallacy.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop context-specific child self-report measures through separate conceptualisation and operationalisation stages with child partnership](p-s-wells-context-specific-scale-development-strategy.md)
 
 ## Examples
 -

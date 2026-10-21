@@ -53,3 +53,4 @@ Latent variable regression in a 230-participant SEM study (fluid intelligence an
 - [Synchronous observed-variable correlations between WMC and intelligence are modest (r = 0.17 to 0.40), lower than latent-variable correlations](wmc-iq-observed-correlations-modest.md)
 - [Scaffolding enabled students' inhibition ability to contribute to learning reasoning from irrelevant events: inhibition predicted posttest scores only under the experimental condition](scaffolds-enable-inhibition-contribution.md) — related
 - [Men scored higher than women on rated divergent thinking creativity in this sample, with no sex differences in fluid intelligence or the executive functions.](sex-difference-creative-potential-sample.md) — related
+- [Intelligence and creativity share more variance than the traditional assumption of distinct abilities holds](intelligence-creativity-more-in-common.md) — related

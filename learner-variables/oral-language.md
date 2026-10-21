@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 86 claims (51 show a difference, 14 mixed, 21 no difference) · 65 studies (21 associational, 15 review, 14 quant-synthesis, 12 causal, 2 theoretical, 1 design), `q1`–`q3` · 21 of 65 report an effect size · 83 claims rest on one study
+> **Evidence** · 88 claims (53 show a difference, 14 mixed, 21 no difference) · 66 studies (21 associational, 16 review, 14 quant-synthesis, 12 causal, 2 theoretical, 1 design), `q1`–`q3` · 21 of 66 report an effect size · 85 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -123,6 +123,8 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [RALL studies report learning gains when social robots are used to teach vocabulary, reading skills, speaking skills, grammar, and sign language](../claims/rall-learning-gains-five-language-domains.md) [+W] — instruction changes it
 - [DLG implementation is associated with improved language and reading skills and more positive attitudes towards learning and reading](../claims/dlg-improve-language-reading-skills.md) [+M] — instruction changes it
 - [The review proposes that embodied language learning engages learners holistically while promoting language skills and adding emotional and motivational benefits](../claims/embodied-language-learning-holistic-engagement-emotional-benefits.md) [+M] — instruction changes it
+- [Elaborative reminiscing delivered by non-parents benefits children, with strongest effects for low-SES and lower-ability children](../claims/non-parent-elaborative-reminiscing-low-ses-benefits.md) [+M] — an instructional effect differs with it
+- [Intervention studies suggest elaborative style during reminiscing plays a causal role in children's language, narrative and theory-of-mind development](../claims/elaborative-reminiscing-interventions-causal-role.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

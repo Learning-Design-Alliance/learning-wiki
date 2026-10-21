@@ -54,3 +54,4 @@ Exploratory item-level logistic mixed-effects model (3,348 items from 558 partic
 - [AI-assisted performance during skill-building does not transfer to subsequent unassisted performance](ai-assisted-performance-no-unassisted-transfer.md) — related
 - [Unfettered GPT-4 access during practice harms subsequent unassisted exam performance in high school mathematics](gpt-base-harms-unassisted-exam-performance.md) — related
 - [Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance](students-unaware-of-ai-learning-harm.md) — related
+- [Chatbot access during mathematics practice improved practice performance but lowered subsequent unaided exam performance, and a hint-giving interface eliminated the penalty](chatbot-crutch-unaided-exam-penalty.md) — related

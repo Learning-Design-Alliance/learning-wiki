@@ -58,3 +58,4 @@ Theoretical explanation in the review: novices solving problems use means-ends a
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on
 - [The intrinsic–extraneous–germane distinction is conceptually problematic: definitions are tautological and expertise-dependent](load-type-distinction-conceptually-problematic.md) — related
 - [Element interactivity and expertise reversal effects: cognitive load effects diminish and may reverse as expertise increases because known elements chunk into single elements](expertise-reversal-effect-element-interactivity.md) — a broader claim this one bears on
+- [Low variability materials enhanced learning regardless of guidance; expertise reversal found for variability in Experiment 2](variability-effect-expertise-reversal-two-experiments.md) — related

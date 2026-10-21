@@ -48,3 +48,4 @@ Faculty perspectives from the interview study. A balance was described between m
 - [Fear is perceived to impair cognition broadly yet increase conscientiousness and attention to detail, promoting quality outcomes](fear-impairs-cognition-increases-conscientiousness.md) — related
 - [Emotional stability shows the strongest negative association with decline in students' subjective well-being under martial law](emotional-stability-strongest-protective-wellbeing-wartime.md) — related
 - [Negative emotions are perceived to have either positive or negative impacts on learning, with faculty more likely than students to recognize their functional benefits](negative-emotions-dual-impact-faculty-see-benefits.md) — a broader claim this one bears on
+- [Negative emotions sometimes promoted implementation of novel practices in PD](negative-emotions-promote-implementation.md) — a narrower finding that bears on this claim

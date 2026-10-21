@@ -34,7 +34,8 @@ An eight-item self-report assessment developed by Klepsch and colleagues for mea
 - [Subjective cognitive load questionnaires show satisfactory internal consistency across the four most frequently used instruments in experimental multimedia learning research](../claims/cognitive-load-questionnaires-satisfactory-internal-consistency.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [MEL-TS: a translingual set of mental effort and mental load self-rating items in six languages](mel-ts-a-translingual-set-of-mental-effort-and-mental-load-self-rating-items-in-six-langua.md)
 
 ## Key Sources
 - Melina Klepsch, Tina Seufert. (2020). Understanding instructional design effects by differentiated measurement of intrinsic, extraneous, and germane cognitive load. Instructional Science (2020) 48:45–77. https://doi.org/10.1007/s11251-020-09502-9

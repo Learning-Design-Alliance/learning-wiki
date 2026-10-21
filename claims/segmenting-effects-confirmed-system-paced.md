@@ -3,6 +3,7 @@ type: claim
 title: The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation
 description: The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation
 id: segmenting-effects-confirmed-system-paced
+aliases: [segmenting-effect-system-paced-meta-analysis]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: quant-synthesis
     rigour: "?"
+  - id: paul-ginns-jimmie-leppink-2019
+    resource: "https://doi.org/10.1007/s10648-019-09474-4"
+    title: "Paul Ginns & Jimmie Leppink. (2019). Special Issue on Cognitive Load Theory: Editorial. Educational Psychology Review, 31, 255–259. https://doi.org/10.1007/s10648-019-09474-4"
+    author: "Paul Ginns & Jimmie Leppink"
+    q: 2
+    i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q2`–`q3`
 
 ## Subclaims
+
 `q3 i?` The effects on retention, transfer, cognitive load, and learning time hold not only for learner-paced segmentation but also for system-paced segmentation. [→ Rey 2019](#rey-2019)
+
+`q2 i?` In a meta-analysis of 57 individual studies of the segmenting effect, for system-paced instruction segmentation increased learning time, reduced cognitive load, and improved retention and transfer test performance. [→ Paul Ginns & Jimmie Leppink 2019](#paul-ginns-jimmie-leppink-2019)
 
 ## Evidence
 
@@ -39,9 +51,22 @@ Moderation/subgroup analysis within the meta-analysis: the four reported effects
 
 > "These four effects are confirmed for a system-paced segmentation."
 
+### Paul Ginns & Jimmie Leppink 2019
+
+Paul Ginns & Jimmie Leppink. (2019). Special Issue on Cognitive Load Theory: Editorial. Educational Psychology Review, 31, 255–259. https://doi.org/10.1007/s10648-019-09474-4
+
+`q2 · i?` · `quant-synthesis · r?`
+
+Meta-analysis of the segmenting effect derived from Mayer's CTML, summarized in the editorial: "identified 57 individual studies for inclusion in the meta-analysis," with the stated outcomes for system-paced instruction. No effect size value is printed in the editorial.
+
+> "Rey and colleagues identified 57 individual studies for inclusion in the meta-analysis, finding that for system-paced instruction, segmentation increased learning time, reduced cognitive load, and improved retention and transfer test performance."
+
 ## Discussion
 
+
+
 ## Learner Variables
+
 - [Working Memory](../learner-variables/working-memory.md) — outcome: instruction changes it
 
 ## Related Claims
@@ -54,3 +79,4 @@ Moderation/subgroup analysis within the meta-analysis: the four reported effects
 - [Segmentation increases learning time](segmenting-increases-learning-time.md) — a broader claim this one bears on
 - [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](segmenting-principle-mayer-2008.md) — related
 - [Learner control over pace and order of an animated multimedia instruction improves transfer performance compared with system control](learner-control-improves-transfer-animated-instruction.md) — related
+- [The reviewed tracing studies consistently confirm learning benefits of tracing across retention, comprehension, and transfer measures, though cognitive-load hypotheses were not confirmed in all studies](tracing-review-consistent-benefits-mixed-load.md) — related

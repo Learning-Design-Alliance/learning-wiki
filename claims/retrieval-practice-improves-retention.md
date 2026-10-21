@@ -291,3 +291,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](testing-effect-robust-versus-restudy-control.md) — a broader claim this one bears on
 - [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — related
 - [The retrieval benefit occurs at the level of individual items, not through general practice at retrieval](retrieval-benefit-item-level.md) — a narrower finding that bears on this claim
+- [Failure to obtain a testing effect with immediate tests may be partly due to working memory depletion](testing-effect-working-memory-depletion-immediate-tests.md) — related

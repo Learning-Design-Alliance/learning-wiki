@@ -58,3 +58,4 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 - [The acquired strategy-selection knowledge did not make PROTO-TEG more efficient in terms of student performance](proto-teg-self-improvement-no-student-performance-gain.md) — a narrower finding that bears on this claim
 - [The association between RT propensity and learning rate is moderated by prior proficiency: slower propensities predict greater learning efficiency for higher-proficiency students but are weakly negative for lower-proficiency students](rt-propensity-proficiency-interaction-learning.md) — related
 - [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — related
+- [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](fluency-misleads-judgments-of-learning.md) — related

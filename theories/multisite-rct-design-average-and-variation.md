@@ -47,7 +47,8 @@ The article presents multisite randomized controlled trials, in which "individua
 - [Design-based estimation framework extended from two-group RCTs to multi-armed RCTs](../research-methods/multi-armed-randomized-trial-analysis.md)
 
 ## Examples
--
+
+- [Randomly assign students to treatment and control sections when course-level interventions can enroll large numbers](../strategies/random-assign-large-course-sections.md)
 
 ## Key Sources
 - Michael J. Weiss, Howard S. Bloom, Natalya Verbitsky-Savitz, Himani Gupta, Alma E. Vigil, Daniel N. Cullinan. (2017). How Much Do the Effects of Education and Training Programs Vary Across Sites? Evidence from Past Multisite Randomized Trials. Journal of Research on Educational Effectiveness, vol. 10, issue 4. https://www.mathematica.org/publications/how-much-do-the-effects-of-education-and-training-programs-vary-across-sites-evidence

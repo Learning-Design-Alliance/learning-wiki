@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 391 claims (188 for, 182 mixed, 21 against) · 195 studies (97 causal, 45 associational, 16 review, 14 theoretical, 10 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 73 of 195 report an effect size · 384 claims rest on one study
+> **Evidence** · 395 claims (189 for, 185 mixed, 21 against) · 197 studies (99 causal, 45 associational, 16 review, 14 theoretical, 10 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 74 of 197 report an effect size · 388 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -434,6 +434,10 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Monitoring accuracy interventions are more effective for retrospective confidence judgments than for judgments of learning](../claims/interventions-more-effective-rcj-than-jol.md) [~W]
 - [Monitoring accuracy interventions are less effective for secondary school students than for elementary students and adults](../claims/monitoring-accuracy-interventions-least-effective-secondary-students.md) [~W]
 - [Metacognition and comprehension strategy use are weakly to moderately associated with intertextual integration among K-12 students](../claims/metacognition-strategy-use-correlates-intertextual-integration.md) [+W]
+- [Prompting learners to infer self-assessments from performance-based cues yields better self-assessment accuracy than prompting explanation-based cues in the initial problem-solving phase](../claims/performance-based-cues-better-self-assessment-accuracy.md) [+M] — attached 2026-10-21 from Waldeyer et al. (2024), which proposed "Cue-utilization framework of self-assessment".
+- [Mental effort correlates negatively with self-assessments regardless of whether learners receive up-front cue information](../claims/mental-effort-negative-correlation-self-assessments.md) [~W]
+- [Experiment 2 replicated the forward effect of cue-only JOLs over restudy with rock categories, and item-by-item feedback did not change the effect](../claims/cue-only-jol-forward-effect-feedback-null-replication.md) [~M]
+- [Cue-only JOLs, but not cue–target JOLs, showed the inverted U-shaped JOL–response-time relationship taken as a behavioral signature of covert retrieval (Experiment 1)](../claims/cue-only-jol-rt-inverted-u-signature.md) [~W]
 
 ## The evidence by question
 

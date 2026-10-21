@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 61 claims (34 for, 26 mixed, 1 against) · 41 studies (22 causal, 9 quant-synthesis, 9 review, 1 theoretical), `q1`–`q4` · 12 of 41 report an effect size · 54 claims rest on one study
+> **Evidence** · 64 claims (35 for, 28 mixed, 1 against) · 42 studies (23 causal, 9 quant-synthesis, 9 review, 1 theoretical), `q1`–`q4` · 13 of 42 report an effect size · 57 claims rest on one study
 
 ## Description
 
@@ -170,6 +170,8 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Topic-wise gains were heterogeneous, with some topics showing no meaningful change](../claims/podcast-topic-wise-gain-heterogeneity.md) [~W] — read 2026-10-15: gains varied by topic; no spacing contrast
 - [All 48 reviewed spacing studies obtained the spacing effect using rest-from-deliberate-learning periods](../claims/spacing-effect-requires-rest-from-deliberate-learning.md) [+W] — attached 2026-10-21 from Ouhao Chen et al. (2021), which proposed "Use spaced instruction when learners need mental rest and interleaved instruction when learners must discriminate between similar areas"; tests this page's relationship.
 - [Five null studies with spacing but no rest and dissimilar materials showed neither spacing nor interleaving effects](../claims/five-null-studies-support-both-hypotheses.md) [~W] — attached 2026-10-21 from Ouhao Chen et al. (2021), which proposed "Use spaced instruction when learners need mental rest and interleaved instruction when learners must discriminate between similar areas"; tests this page's relationship.
+- [Spaced quizzing increases end-of-semester retention of calculus learning objectives relative to massed quizzing](../claims/spacing-increases-calculus-retention.md) [+M] — attached 2026-10-21 from Keith B. Lyle et al. (2022), which proposed "Distribute calculus practice across multiple quizzes and accept lower short-term practice performance for better long-term retention"; tests this page's relationship.
+- [Spaced quizzing reduces overall performance on calculus practice quizzes relative to massed quizzing](../claims/spacing-reduces-quiz-practice-performance.md) [~M] — attached 2026-10-21 from Keith B. Lyle et al. (2022), which proposed "Distribute calculus practice across multiple quizzes and accept lower short-term practice performance for better long-term retention".
 
 ## Source verification and open tests
 
@@ -462,6 +464,7 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 ## Claims
 
 - [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](../claims/expanding-uniform-spacing-retention-interval-moderator.md) [~W]
+- [The spacing-induced practice decrement is confined to the first two quiz questions, with no difference on the third](../claims/spacing-decrement-limited-to-first-two-questions.md) [~W]
 
 ## Key Sources
 

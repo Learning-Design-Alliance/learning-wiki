@@ -55,3 +55,4 @@ Extended SEM in Section 3.3 of the same study, adding personality (NEO-FFI openn
 - [Fluid intelligence strongly predicts the creative quality of produced metaphors (β = .45)](gf-predicts-creative-metaphor-quality.md) — related
 - [Openness to experience predicts creative metaphor quality, and controlling for personality reduces Gc's creative-metaphor effect to zero](openness-predicts-creative-metaphor.md) — related
 - [In children, shifting is a more powerful predictor of creativity than fluid and crystallized intelligence](shifting-stronger-creativity-predictor-than-intelligence.md) — related
+- [Intelligence and creativity share more variance than the traditional assumption of distinct abilities holds](intelligence-creativity-more-in-common.md) — related

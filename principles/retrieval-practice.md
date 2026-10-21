@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 88 claims (47 for, 39 mixed, 2 against) · 39 studies (15 causal, 8 quant-synthesis, 8 review, 3 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 12 of 39 report an effect size · 81 claims rest on one study
+> **Evidence** · 89 claims (47 for, 40 mixed, 2 against) · 40 studies (15 causal, 8 quant-synthesis, 8 review, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 12 of 40 report an effect size · 82 claims rest on one study
 
 ## Conditional relationship
 
@@ -214,6 +214,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [The TTST advantage replicates with meaningful Eskimo/English word pairs (Experiment 2)](../claims/ttst-beats-pure-st-eskimo-pairs.md) [+W]
 - [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](../claims/retrieval-practice-review-50-classroom-experiments.md) [~W]
 - [Correct-answer feedback alone was insufficient for generalization: significantly worse than lecture in Study 1, with the difference not significant in Study 2](../claims/correct-answer-feedback-insufficient-for-generalization.md) [~W]
+- [The testing effect from frequent retrieval is revealed only on later comprehensive tests, not in performance in other courses](../claims/testing-effect-limited-to-comprehensive-tests.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

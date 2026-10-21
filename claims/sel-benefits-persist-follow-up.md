@@ -131,3 +131,4 @@ Open questions: how large effects remain beyond the typical 1–2 year follow-up
 - [SEL programs improve students' engagement and academic performance, with an 11-percentile-point achievement gain in the Durlak meta-analysis](sel-programs-improve-academic-performance.md) — related
 - [Brief social-belonging interventions improve academic outcomes and well-being, especially for students facing identity threat, but risk being used to fix students rather than structures](social-belonging-intervention-improves-outcomes-but-misuse-risk.md) — a narrower finding that bears on this claim
 - [Short belonging interventions in college settings can produce significant and lasting effects](brief-belonging-interventions-lasting-effects.md) — related
+- [Personality changes achieved through digital VPC interventions persist, remaining sustained or amplified at three-month and one-year follow-ups](vpc-change-persistence-follow-ups.md) — related

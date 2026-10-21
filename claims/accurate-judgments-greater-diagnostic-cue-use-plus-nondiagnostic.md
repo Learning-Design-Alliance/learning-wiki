@@ -50,3 +50,4 @@ Explorative study of 46 secondary teachers judging 406 students; the article rep
 - [Teachers judge more accurately with only diagnostic cues than with a mix of diagnostic and non-diagnostic cues](non-diagnostic-cues-hinder-teacher-judgment-accuracy.md) — related
 - [Teachers' judgments of students' text comprehension are significantly more accurate when diagnostic performance cues are available than when only non-diagnostic student cues are available](diagnostic-cues-improve-teacher-judgment-accuracy.md) — related
 - [Students tend to rely on non-diagnostic cues when judging their own performance, resulting in inaccurate judgments](students-rely-on-nondiagnostic-cues-inaccurate-monitoring.md) — related
+- [Teachers often rely on informal impressions rather than systematic, theory-grounded diagnostic procedures when judging students' SRL](teachers-rely-on-informal-diagnostic-judgments-srl.md) — related

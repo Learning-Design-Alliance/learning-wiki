@@ -49,3 +49,4 @@ Null finding from the same adjusted main-effects regression on the weighted ECLS
 - [Higher-quality home environments are associated with higher parent-reported curiosity at kindergarten](home-environment-quality-associated-kindergarten-curiosity.md) — related
 - [More positive parenting is associated with higher parent-reported curiosity at kindergarten in a nationally representative US sample](positive-parenting-associated-higher-kindergarten-curiosity.md) — related
 - [Living in a very safe neighborhood is associated with higher kindergarten curiosity, but only for lower- and middle-resourced children](very-safe-neighborhood-higher-curiosity-lower-middle-ses.md) — related
+- [Forest preschool shows mixed subjective-outcome effects: improved sleep, resilience, and curiosity, but no changes in academic readiness or illness and injury incidence](forest-school-subjective-outcomes-mixed.md) — related

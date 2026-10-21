@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 39 claims (20 show a difference, 14 mixed, 5 no difference) · 19 studies (10 review, 5 associational, 2 causal, 2 quant-synthesis), `q2`–`q3` · 6 of 19 report an effect size · 39 claims rest on one study
+> **Evidence** · 47 claims (25 show a difference, 14 mixed, 8 no difference) · 21 studies (11 review, 5 associational, 3 quant-synthesis, 2 causal), `q2`–`q4` · 7 of 21 report an effect size · 47 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -74,6 +74,14 @@ Personality traits are relatively stable individual differences, most often meas
 - [Personality similarity appears to be positively associated with positive adult–child relationships (preliminary evidence)](../claims/personality-similarity-positive-adult-child-relationships.md) [+M] — learners who differ on it differ in outcomes
 - [Personality traits of both children and teachers may be associated with teacher–child relationships, especially for relational positivity](../claims/personality-traits-teacher-child-relationships.md) [+M] — learners who differ on it differ in outcomes
 - [Interest-enhancing strategies predict persistence for students lower in conscientiousness but not those higher in conscientiousness](../claims/conscientiousness-moderates-interest-regulation-persistence.md) [~M] — an instructional effect differs with it
+- [Conscientiousness correlates more strongly with grades than with standardized test scores, across both language and STEM domains](../claims/conscientiousness-grades-vs-test-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Conscientiousness shows the strongest links to SRL and robustly predicts academic performance even after accounting for cognitive ability](../claims/conscientiousness-predicts-achievement-srl-link.md) [+W] — learners who differ on it differ in outcomes
+- [Digital VPC interventions produce goal-consistent personality changes, with self-reported effects in the large range and smaller observer-reported effects](../claims/digital-vpc-intervention-goal-consistent-change.md) [+M] — instruction changes it
+- [Extraversion correlates positively with achievement in language domains but not in STEM, a domain pattern driven by grades](../claims/extraversion-language-domain-pattern.md) [-W] — learners who differ on it differ in outcomes
+- [For agreeableness, the language–STEM difference in achievement correlations is significant only for test scores, yielding a significant domain × measure interaction](../claims/agreeableness-domain-measure-interaction.md) [-W] — learners who differ on it differ in outcomes
+- [Neuroticism correlates negatively with achievement overall, most strongly with STEM test scores](../claims/neuroticism-negative-achievement-association.md) [-W] — learners who differ on it differ in outcomes
+- [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](../claims/openness-language-stem-domain-moderation.md) [+M] — learners who differ on it differ in outcomes
+- [Personality changes achieved through digital VPC interventions persist, remaining sustained or amplified at three-month and one-year follow-ups](../claims/vpc-change-persistence-follow-ups.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

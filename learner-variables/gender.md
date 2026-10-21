@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 204 claims (130 show a difference, 45 mixed, 29 no difference) · 149 studies (97 associational, 25 causal, 7 quant-synthesis, 6 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 24 of 149 report an effect size · 196 claims rest on one study
+> **Evidence** · 206 claims (130 show a difference, 46 mixed, 30 no difference) · 151 studies (97 associational, 25 causal, 9 quant-synthesis, 6 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 24 of 151 report an effect size · 198 claims rest on one study
 
 ## How to read this page
 
@@ -242,6 +242,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Sex differences in mathematics tend to be somewhat larger in more gender-equal countries (GGGI coefficient B = 0.921, p = .051), controlling for region](../claims/gender-equality-paradox-mathematics-meta-analysis.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Sex differences in mathematics vary by content domain, with male advantages for geometry (d = 0.218), broad mathematics (d = 0.145), computation (d = 0.089), and national tests (d = 0.068), but near-zero differences for advanced mathematics and basic numeracy](../claims/content-domain-moderation-sex-differences-mathematics.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The magnitude of sex differences in mathematics varies across geographical regions, with larger estimated effects in Central Europe (d = 0.164) and Central and South America (d = 0.153) than in North America (d = 0.047)](../claims/geographic-region-moderation-sex-differences-mathematics.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender and academic level do not moderate the perfectionism–academic achievement relationships](../claims/gender-academic-level-not-moderators.md) [-M] — an instructional effect differs by group
+- [The wellbeing effects of school-led nature interventions show a gender effect, with girls benefiting in PA in some studies, but inconclusive findings for age](../claims/gender-effect-school-nature-interventions.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

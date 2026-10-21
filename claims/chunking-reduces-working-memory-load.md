@@ -113,3 +113,4 @@ This has a direct design consequence: chunking imposed from outside only helps w
 - [Children's understanding of whole number advances by one developmental level per additional unit of working memory capacity](whole-number-ccs-one-level-per-wm-unit.md) — related
 - [Short chunking study outlines produce higher test performance than long chunking study outlines](short-cso-improves-test-performance.md) — a narrower finding that bears on this claim
 - [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](cpc-difference-delayed-posttest-only.md) — a narrower finding that bears on this claim
+- [Failure to obtain a testing effect with immediate tests may be partly due to working memory depletion](testing-effect-working-memory-depletion-immediate-tests.md) — related

@@ -45,7 +45,8 @@ The review's future-research section sets out implementable methodological recom
 - [Perfectionistic concerns are consistently related to maladaptive outcomes in academically gifted students while perfectionistic strivings show mixed outcomes](../claims/pc-debilitating-ps-mixed-gifted-students.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Future perfectionism–achievement research should adopt longitudinal and diary designs and test within-person combinations of the two dimensions](longitudinal-designs-perfectionism-research.md)
 
 ## Examples
 -

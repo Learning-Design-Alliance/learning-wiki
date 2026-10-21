@@ -68,3 +68,4 @@ Cortisol reactivity analysis comparing the stress group with a randomly-selected
 - [During an exam, students' expectancy for success decreased and the change in expectancy was negatively associated with change in salivary cortisol](expectancy-decline-linked-cortisol-exam.md) — related
 - [Acute psychosocial stress differentially affects cognitive flexibility by sex (significant Sex × Condition interaction on perseverative errors)](acute-stress-sex-specific-cognitive-flexibility.md) — related
 - [Changes in cortisol did not predict perseverative errors in any sex](cortisol-change-not-predict-flexibility.md) — related
+- [Outdoor learning in nature reduces student stress (cortisol decline), but stress-restoration findings are mixed by measure and age](outdoor-learning-reduces-student-stress-cortisol.md) — related

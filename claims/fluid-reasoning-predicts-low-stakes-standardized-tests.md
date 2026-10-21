@@ -49,3 +49,4 @@ Multivariate regression on N = 3,146 trainees; Table 2 prints fluid reasoning sl
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — a broader claim this one bears on
 - [Trait self-control is significantly associated with major GPA beyond fluid reasoning and conscientiousness in vocational trainees](trait-self-control-incremental-mgpa-vocational-trainees.md) — related
 - [Trait self-control and conscientiousness overlap substantially, and conscientiousness slightly outperforms self-control for grades](tsc-conscientiousness-overlap-and-comparison.md) — related
+- [Conscientiousness correlates more strongly with grades than with standardized test scores, across both language and STEM domains](conscientiousness-grades-vs-test-scores.md) — related

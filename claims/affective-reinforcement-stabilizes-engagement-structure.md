@@ -55,3 +55,4 @@ Qualitative analysis of one episode in which the teacher watched Dema without sp
 - [Emotional micro-interventions perform three simultaneous functions: validate the emotion, reframe the cognitive appraisal, and connect struggle to a larger narrative](micro-intervention-triple-function-validate-reframe-connect.md) — related
 - [NGI functioned as a mechanism for emotional coordination, restoring individual members' affective states through shared laughter](ngi-emotional-coordination-shared-affect.md) — related
 - [In-situ analysis of challenge episodes reveals a wide range of cognitive, motivational, emotional, and socially oriented micro-level challenges in collaborative learning](challenge-episodes-reveal-micro-level-challenges.md) — a broader claim this one bears on
+- [Experts scaffold by reassuring novices to continue acting or thinking, removing uncertainty about whether they chose the right action](reassurance-cues-sustain-novice-continuation.md) — related

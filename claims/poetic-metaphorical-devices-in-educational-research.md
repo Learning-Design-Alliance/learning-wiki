@@ -45,3 +45,4 @@ A verse commentary (originally composed April 2003, published 2011) responding t
 ## Related Claims
 - [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — related
 - [Metaphoric competence is proposed to be central to all aspects of language use, including grammatical and sociolinguistic competence](metaphoric-competence-central-to-language-use.md) — related
+- [The editor reports that Levin's response to poetic-inquiry advocacy was rejected by Educational Researcher without review](levin-response-rejected-without-review.md) — related

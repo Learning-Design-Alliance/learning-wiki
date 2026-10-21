@@ -75,3 +75,4 @@ Subgroup analysis by intervention duration (Table 4): 1–4 weeks (4 effect quan
 - [Collaborative problem-solving significantly improves students' critical thinking overall (ES = 0.82)](collaborative-problem-solving-improves-critical-thinking-overall.md) — related
 - [Individual treatment organization and delivery form significantly moderate scaffold effects; classroom settings and Web-based environments show the largest effects](delivery-organization-environment-moderators.md) — related
 - [Scaffolding shows a particularly large pre–post effect among students with learning disabilities (ḡ = 3.13), though this estimate is tentative, and a large effect among ELL students (ḡ = 0.92)](scaffolding-learning-disabilities-large-effect.md) — related
+- [SRL intervention effects are moderated by delivery agent, duration, domain, and student age, with inconsistent duration findings](srl-intervention-moderators-agent-domain-age.md) — reports the opposite

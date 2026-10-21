@@ -50,3 +50,4 @@ The review reports, citing Deng and Yu (2023), that "Chatbot technology demonstr
 - [The review reports mixed findings on AI's motivational effects: some studies show enhancement, others nonsignificant or negative effects](ai-motivation-effects-mixed-evidence.md) — a broader claim this one bears on
 - [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — related
 - [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](ai-instruction-stem-moderate-positive-effect.md) — related
+- [Meta-analytic evidence on GenAI and critical thinking shows a positive mean association with a prediction interval spanning harm to benefit](genai-critical-thinking-metaanalysis-heterogeneity.md) — related

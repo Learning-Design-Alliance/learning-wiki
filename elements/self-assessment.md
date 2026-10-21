@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 54 claims (13 for, 28 mixed, 13 against) · 44 studies (21 causal, 10 associational, 4 review, 4 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 17 of 44 report an effect size · 50 claims rest on one study
+> **Evidence** · 57 claims (13 for, 31 mixed, 13 against) · 46 studies (23 causal, 10 associational, 4 review, 4 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 18 of 46 report an effect size · 53 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -104,6 +104,9 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Effort-rating item wording changes what learners reflect on: requirement wording correlates negatively and engagement wording positively with judgments of learning](../claims/effort-item-wording-flips-correlation-direction.md) [~W]
 - [The relationship between invested mental effort and self-assessed understanding is weak and inconsistent, with most correlations non-significant and mixed directions](../claims/effort-understanding-weak-inconsistent-relationship.md) [-W]
 - [The tribute reports students tend to overestimate their sport performance, and four-level model instruction may improve calibration accuracy](../claims/students-overestimate-sport-performance-calibration.md) [+W]
+- [Experiment 2 replicated the forward effect of cue-only JOLs over restudy with rock categories, and item-by-item feedback did not change the effect](../claims/cue-only-jol-forward-effect-feedback-null-replication.md) [~M]
+- [Prompted cue type and timing of cue prompt do not interact in their effect on self-assessment accuracy (Experiment 1)](../claims/cue-type-timing-no-interaction-accuracy.md) [~W]
+- [Mental effort correlates negatively with self-assessments regardless of whether learners receive up-front cue information](../claims/mental-effort-negative-correlation-self-assessments.md) [~W]
 
 ## The evidence by question
 

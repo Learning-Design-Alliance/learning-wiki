@@ -50,3 +50,4 @@ Textual analysis of voluntary written withdrawal requests coded by student servi
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related
 - [Online attrition during Orientation Week is twice that of onground classes' first week](orientation-week-attrition-double-online.md) — related
 - Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method — related
+- [Differential attrition may explain the reported reduction in achievement gaps under daily online testing](differential-attrition-may-explain-gap-reduction.md) — related

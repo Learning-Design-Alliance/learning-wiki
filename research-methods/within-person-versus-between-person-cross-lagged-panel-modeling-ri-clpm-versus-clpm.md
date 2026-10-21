@@ -12,7 +12,7 @@ generated:
 # Within-person versus between-person cross-lagged panel modeling (RI-CLPM versus CLPM)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (1 review, 1 associational), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 3 studies (2 associational, 1 review), `q1`–`q2` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 A methodological framework distinguishing two ways of analyzing cross-lagged panel data. RI-CLPMs add stable trait factors and evaluate how "within-person deviations in one construct are related to subsequent within-person deviations in another construct," whereas "CLPMs confound the within- and between-person processes." The article argues the two models address different research questions, produce different interpretations, and should be juxtaposed rather than one treated as the default, with model choice resting on theoretical grounds as well as fit.

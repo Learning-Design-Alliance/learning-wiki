@@ -73,3 +73,4 @@ The review-style brief reports, citing Frank, Reibel, Broderick, Cantrell, and M
 - [Review reports a game-based learning course increased adolescents' empathy and compassion in migration/refugee context](game-based-learning-empathy-sec.md) — related
 - [Studies of emotional training of aspiring and practicing teachers report positive outcomes for dealing with emotions and reducing stress and burnout](teacher-emotional-training-studies-positive-outcomes.md) — related
 - [Mindfulness and meditation interventions supported teacher well-being in 10 of 12 studies, with two studies showing non-significant changes](mindfulness-interventions-support-teacher-wellbeing.md) — related
+- [Mindfulness-based wellbeing initiatives have a positive effect on the wellbeing of primary and secondary educators](mindfulness-initiatives-improve-educator-wellbeing.md) — related

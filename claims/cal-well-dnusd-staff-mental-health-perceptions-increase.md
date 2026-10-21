@@ -49,3 +49,4 @@ Descriptive results from the School Staff Survey administered by DNUSD, as repor
 - [DNUSD trained 184 mental health workforce members and 757 non-workforce individuals in mental health prevention and awareness strategies from fall 2020 through December 2023](cal-well-dnusd-mental-health-training-reach.md) — related
 - [The percentage of secondary students reporting high school connectedness on the CHKS increased from 32 percent to 36 percent](cal-well-dnusd-student-school-connectedness-increase.md) — related
 - [Secondary students in PUSD increasingly reported open mental health conversations at school and knowing where to go for help from 2020/21 to 2022/23](pusd-chks-open-talk-help-seeking-increase.md) — related
+- [Mental Health First Aid training improved school staff mental health knowledge, attitudes and confidence in helping colleagues](mhfa-improves-staff-mental-health-literacy.md) — related

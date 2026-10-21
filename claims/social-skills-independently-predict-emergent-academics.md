@@ -54,3 +54,4 @@ HLM models with 467 children in 84 classrooms, using the SSRS teacher-rated soci
 - [Among kindergartners with low number sense, attention problems and executive functioning each uniquely predict first-grade mathematics outcomes](ef-attention-unique-predictors-first-grade-math-low-number-sense.md) — related
 - [Children's positive feelings about school attenuate the relationship between aggression and academic development](feelings-about-school-protective-moderator.md) — related
 - [Child maltreatment has a documented independent negative impact on children's language development](maltreatment-independent-impact-language.md) — related
+- [Prevalence of sustained shared thinking in preschool settings predicts children's outcomes on academic and social-behavioral measures](sustained-shared-thinking-predicts-child-outcomes.md) — related

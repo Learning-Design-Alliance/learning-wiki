@@ -70,3 +70,5 @@ This meta-analysis pooled 29 controlled pre-post studies (N = 3,765, k = 89 effe
 - [Children develop locative literacy through informal collaborative digital mapping with family members using Google Earth](locative-literacy-informal-collaborative-mapping.md) — related
 - [Five hours of Tetris play improved some mental rotation measures but not most spatial skill measures](tetris-play-selective-mental-rotation-gains.md) — a narrower finding that bears on this claim
 - [The spatial curriculum produced near transfer to improved spatial scanning and increased self-reported spatial habits of mind, but not to mental rotation](spatial-curriculum-near-transfer-scanning-habits.md) — a narrower finding that bears on this claim
+- [Evidence for spatial training improving STEM achievement is promising but insufficient; rigorous research is still needed](spatial-training-stem-achievement-evidence-limited.md) — related
+- [Working memory training shows short-term near-transfer gains but no compelling evidence of consistent long-term academic achievement gains](working-memory-training-no-long-term-academic-gains.md) — related

@@ -49,3 +49,4 @@ The review's percentage-of-significant-effects analysis of programme characteris
 - [Teacher-supported learning scaffolds show the largest effect (ES = 0.92), and longer intervention durations yield larger effects](teacher-scaffolds-and-longer-duration-stronger-cps-effects.md) — related
 - [Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students](implementation-duration-community-moderators.md) — related
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related
+- [SRL intervention effects are moderated by delivery agent, duration, domain, and student age, with inconsistent duration findings](srl-intervention-moderators-agent-domain-age.md) — reports the opposite

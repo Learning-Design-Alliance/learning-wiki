@@ -51,3 +51,4 @@ Intention-to-treat regression from the RCT (2,848 observations, classroom-cluste
 - [High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)](gpt4-access-worse-after-removal-math.md) — a broader claim this one bears on
 - [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related
 - [Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance](students-unaware-of-ai-learning-harm.md) — related
+- [Chatbot access during mathematics practice improved practice performance but lowered subsequent unaided exam performance, and a hint-giving interface eliminated the penalty](chatbot-crutch-unaided-exam-penalty.md) — a broader claim this one bears on

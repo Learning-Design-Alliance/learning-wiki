@@ -49,3 +49,4 @@ RSA across 1,148 targets with complete data showed "interactional cue structure 
 - [Participants remain socially sensitive to conversational stance even while categorical identity inference fails](stance-sensitivity-persists-despite-identity-failure.md) — related
 - [Impression narratives rely on weakly diagnostic suspicion heuristics such as response speed, fluency, and perceived scriptedness](suspicion-heuristics-weakly-diagnostic.md)
 - [Dialogue-derived interactional cues robustly encode ground-truth identity, achieving near-ceiling AI identification under cross-validation](cues-encode-identity-near-ceiling-classification.md) — related
+- [Teachers often rely on informal impressions rather than systematic, theory-grounded diagnostic procedures when judging students' SRL](teachers-rely-on-informal-diagnostic-judgments-srl.md) — related

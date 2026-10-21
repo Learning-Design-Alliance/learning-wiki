@@ -50,6 +50,7 @@ The commentary recommends moving beyond isolated laboratory tasks toward real-wo
 - [Study creative metacognition in extended real-life processes rather than only in laboratory experiments](study-creative-metacognition-beyond-laboratory.md)
 - [Integrate autonomy and agency paradigms, standardise instruments, probe non-demographic moderators, and extend evaluations to longitudinal real-world settings](integrate-paradigms-longitudinal-hri-autonomy-research.md)
 - [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
+- [Research agenda: investigate affective dynamics with within-person, longitudinal, and multi-channel methods](affective-dynamics-research-agenda-curiosity-interest.md)
 
 ## Examples
 -

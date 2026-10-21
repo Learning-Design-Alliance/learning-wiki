@@ -91,3 +91,4 @@ A meta-analysis of research on undergraduate science, mathematics, engineering, 
 - [Active participation in interaction matters for second language developmental outcomes](active-participation-in-interaction-drives-development.md) — a narrower finding that bears on this claim
 - [Competitive (norm-referenced) grading pits students against one another and discourages cooperation, according to the author's argument](competitive-grading-pits-students-against-each-other.md) — related
 - [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](discussion-improves-individual-perception.md) — a narrower finding that bears on this claim
+- [Individualized instruction shows low effects compared to cooperative and collaborative learning](individualized-instruction-low-effects-versus-collaborative.md) — related

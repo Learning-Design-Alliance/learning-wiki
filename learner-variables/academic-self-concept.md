@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 57 claims (47 show a difference, 7 mixed, 3 no difference) · 31 studies (11 associational, 7 review, 6 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 8 of 31 report an effect size · 56 claims rest on one study
+> **Evidence** · 58 claims (48 show a difference, 7 mixed, 3 no difference) · 32 studies (12 associational, 7 review, 6 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 8 of 32 report an effect size · 56 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -92,6 +92,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [The 2I/E model is supported: social comparison effects are moderate, dimensional comparison effects small to moderate, and temporal comparison effects small on math and verbal self-concepts](../claims/ipd-meta-2ie-model-supported-moderate-social-small-temporal-effects.md) [+M] — instruction changes it
 - [The contextual-mean effect remains negative across every achievement decile and across MSC quantiles, with no systematic attenuation at the top](../claims/bflpe-robust-across-deciles-and-quantiles.md) [+M] — instruction changes it
 - [The negative contextual-mean effect persists for the top-ranked student in each class, constraining rank-sufficiency accounts](../claims/bflpe-persists-for-top-ranked-students.md) [+M] — instruction changes it
+- [Effects of academic self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)](../claims/asc-achievement-temporal-asymmetry.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

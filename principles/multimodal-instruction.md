@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (9 for, 11 mixed, 3 against) · 34 studies (14 causal, 10 review, 6 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 8 of 34 report an effect size · 17 claims rest on one study
+> **Evidence** · 28 claims (11 for, 14 mixed, 3 against) · 35 studies (15 causal, 10 review, 6 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 9 of 35 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,6 +121,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Video Treatment Significant Macs Pre Post Gain](../claims/video-treatment-significant-macs-pre-post-gain.md) [+M]
 - [Combining voiced auditory descriptions with tactile graphics increased braille readers' likelihood of answering assessment items correctly](../claims/auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment.md) [+W] — attached 2026-10-09 from Steinbach (2022), which proposed "Provide BVI students with a mixed-representational, multi-sensory approach to mathematical materials"; tests this page's relationship.
 - [Movement-meaning congruency is the only moderator consistently associated with stronger embodied vocabulary learning effects across both research designs](../claims/movement-meaning-congruency-moderates-vocabulary-learning.md) [+M] — attached 2026-10-21 from Xiaoxuan Li · Julia Chatain · Fan Wang · Manu Kapur (2026), which proposed "Design embodied vocabulary activities so learners' movements meaningfully align with target word meanings"; tests this page's relationship.
+- [Gesture-enriched learning improves 8-year-olds' L2 vocabulary translation and free recall compared with non-enriched learning, persisting up to 6 months](../claims/gesture-enrichment-l2-vocabulary-children.md) [+W] — attached 2026-10-21 from Andrä et al. (2020), which proposed "Enrich auditorily presented L2 vocabulary with self-performed gestures or pictures to boost children's vocabulary memory over months"; tests this page's relationship.
+- [Gesture and picture enrichment produced similar benefits on children's L2 vocabulary learning, contrary to adult findings favoring gestures](../claims/gesture-picture-similar-benefits-children.md) [~W] — attached 2026-10-21 from Andrä et al. (2020), which proposed "Enrich auditorily presented L2 vocabulary with self-performed gestures or pictures to boost children's vocabulary memory over months".
+- [Both gesture and picture enrichment enhanced children's test performance compared with non-enriched learning, with benefits persisting up to 6 months for concrete and abstract words](../claims/enrichment-benefits-persist-six-months.md) [+W] — attached 2026-10-21 from Andrä et al. (2020), which proposed "Enrich auditorily presented L2 vocabulary with self-performed gestures or pictures to boost children's vocabulary memory over months"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -148,6 +151,8 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - [Folk-tales were used in every session, with photos (78%), videos (74%), songs (67%), classical tales (70%) and crafts (55%) as multimodal materials](../claims/folktale-program-material-frequencies-multimodal.md) [+W]
 - [The effect of learning mode on children’s SSI applications was largest among elementary school children](../claims/learning-mode-effect-largest-elementary-children.md) [~W]
 - [Embodied learning environments using students' own motion immediately linked to its graphical representation are most effective in terms of learning outcomes for graphing motion](../claims/immediate-own-motion-most-effective-graphing-motion.md) [+W]
+- [Gesture enrichment specifically aided translation of abstract words in Experiment 1, but this word-type specificity did not replicate in Experiment 2](../claims/gesture-benefit-abstract-word-specificity-mixed.md) [~W]
+- [Children's age did not moderate gesture enrichment benefits on vocabulary test performance in Experiment 1](../claims/age-does-not-moderate-gesture-enrichment.md) [~W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.

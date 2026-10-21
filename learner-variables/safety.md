@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (52 show a difference, 17 mixed, 6 no difference) · 45 studies (16 associational, 10 review, 6 qualitative, 5 causal, 4 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 2 of 45 report an effect size · 75 claims rest on one study
+> **Evidence** · 76 claims (53 show a difference, 17 mixed, 6 no difference) · 46 studies (16 associational, 10 review, 6 causal, 6 qualitative, 4 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 3 of 46 report an effect size · 76 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -111,6 +111,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](../claims/vad-stress-psychological-safety-threat.md) [+M] — instruction changes it
 - [Qualitative research shows resource fit—safety and financial resources—shapes marginalized students' sense of belonging](../claims/resource-fit-qualitative-belonging.md) [+M] — learners who differ on it differ in outcomes
 - [School racial climate subscales showed positive relationships with motivational constructs including interest, belonging, and utility value](../claims/school-racial-climate-positive-motivational-relationships.md) [+M] — learners who differ on it differ in outcomes
+- [Corrective feedback plus either GLA significantly improved students' safety behavior in VR, with no difference between re-experiencing and self-explaining](../claims/gla-corrective-feedback-improve-safety-vr.md) [+M] — instruction changes it
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

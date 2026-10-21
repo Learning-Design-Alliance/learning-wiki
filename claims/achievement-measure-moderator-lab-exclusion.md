@@ -52,3 +52,4 @@ Sensitivity analysis excluding 24 laboratory-based effect sizes from Meta-Analys
 - [More frequent exams are associated with better learning outcomes, including better grades and lower dropout, in classroom comparisons](frequent-exams-better-outcomes-leeming.md) — related
 - [Developmental stage moderates the mind-set–achievement correlation, which is nonsignificant for adults](developmental-stage-moderates-mindset-correlation.md) — related
 - [No correlation between an intervention's attitude effect and its achievement effect across studies](no-attitude-achievement-correlation-across-studies.md) — related
+- [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](learning-style-achievement-correlations-r24.md) — related

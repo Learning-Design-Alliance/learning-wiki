@@ -22,7 +22,7 @@ sources:
 # Universal Early Literacy Screening
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (9 for, 26 mixed) · 16 studies (11 associational, 2 design, 1 causal, 1 review, 1 theoretical), `q1`–`q3` · 0 of 16 report an effect size · 34 claims rest on one study
+> **Evidence** · 38 claims (9 for, 29 mixed) · 17 studies (11 associational, 2 design, 1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 0 of 17 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,12 @@ The designer's objective is usually that every child reads at grade level by the
 The expectation should weaken if comparisons of schools or cohorts that screen universally against those that rely on referral show no difference in how early children receive added instruction or in later reading; if screening does not change who gets instruction (flagged children receive nothing more); or if a screener's accuracy for the local outcome turns out too low to add anything to teacher judgement. It should change if home-language or untimed screening substantially changes which English learners are flagged, in which case English-only screening is mostly measuring English. If three screens a year identify no more children in time than one or two, the schedule is a cost rather than a benefit. Do not protect the model by calling every disappointing result "poor implementation" after the fact.
 
 Accurate identification, timely added instruction, reading at grade level and children's own experience of being screened are separate claims. The present evidence establishes no schedule, cut score or screener.
+
+## Claims
+
+- [Screening domain is a significant moderator of validity: literacy-literacy correlations (r = .55) exceed language-literacy (r = .38) and mathematics/literacy-achievement (r = .27)](../claims/domain-moderates-screening-validity.md) [~W]
+- [Screening classification errors carry asymmetric costs: false positives risk unnecessary intensive placement while false negatives delay early intervention](../claims/false-positive-false-negative-screening-tradeoff.md) [~W]
+- [Sensitivity and specificity of Three Tier screening tools vary widely, and no studies report language-domain-only accuracy](../claims/screening-sensitivity-specificity-vary-widely.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — using evidence of learning to adapt teaching; screening is its coarse, whole-population form

@@ -56,3 +56,4 @@ Summary finding of the 29-school randomized evaluation, in which impacts were es
 - [Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class](playworks-better-recess-behavior-and-class-readiness.md) — related
 - [Most teachers, students, and principals reported positive perceptions of the Playworks program](playworks-most-stakeholders-positive-perceptions.md) — related
 - [Students in Playworks schools reported better behavior and attention in class after sports, games, and play](playworks-students-reported-better-behavior-attention-after-play.md) — related
+- [The wellbeing effects of school-led nature interventions show a gender effect, with girls benefiting in PA in some studies, but inconclusive findings for age](gender-effect-school-nature-interventions.md) — related

@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 73 claims (47 show a difference, 17 mixed, 9 no difference) · 62 studies (18 causal, 17 associational, 14 review, 8 quant-synthesis, 3 qualitative, 2 theoretical), `q1`–`q4` · 11 of 62 report an effect size · 68 claims rest on one study
+> **Evidence** · 75 claims (47 show a difference, 19 mixed, 9 no difference) · 64 studies (18 causal, 17 associational, 15 review, 9 quant-synthesis, 3 qualitative, 2 theoretical), `q1`–`q4` · 11 of 64 report an effect size · 69 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -116,6 +116,8 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Moderate-to-vigorous intensity active breaks are associated with slightly greater working-memory improvements than moderate intensity, in exploratory meta-regression](../claims/mvpa-intensity-moderates-working-memory-effect.md) [~M] — instruction changes it
 - [Readers with higher working memory capacity make more transitions between sentences (higher strength)](../claims/wmc-increases-strength-reading-networks.md) [+M] — learners who differ on it differ in outcomes
 - [In a visual-spatial integration task, the interaction between visual-spatial working memory capacity and visual design is quadratic, with the inverted-U progression more strongly accentuated for the dynamic design](../claims/quadratic-ati-spatial-ability-visual-design-study1.md) [~W] — an instructional effect differs with it
+- [Failure to obtain a testing effect with immediate tests may be partly due to working memory depletion](../claims/testing-effect-working-memory-depletion-immediate-tests.md) [~M] — instruction changes it
+- [Working memory training shows short-term near-transfer gains but no compelling evidence of consistent long-term academic achievement gains](../claims/working-memory-training-no-long-term-academic-gains.md) [~M] — instruction changes it
 
 ## The evidence by question
 

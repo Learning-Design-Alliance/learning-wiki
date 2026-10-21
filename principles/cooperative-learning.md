@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (11 for, 18 mixed) · 28 studies (12 quant-synthesis, 10 causal, 4 review, 2 design), `q2`–`q4` · 11 of 28 report an effect size · 22 claims rest on one study
+> **Evidence** · 30 claims (12 for, 18 mixed) · 29 studies (12 quant-synthesis, 10 causal, 5 review, 2 design), `q2`–`q4` · 11 of 29 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -100,6 +100,7 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [Cooperative learning with Think-Pair-Share and RoundTable was followed by larger critical thinking gains than traditional teaching in 4th graders, in a two-class quasi-experiment](../claims/tps-roundtable-cooperative-learning-critical-thinking-gains.md) [+W]
 - [Across cultures, classroom arrangements facilitating cooperative learning are more effective in supporting motivation and achievement than individual or competitive goal structures](../claims/cooperative-learning-more-effective-than-competitive-structures.md) [+W]
 - [Individual rewards yield significant mCSCL effects while group reward methods do not](../claims/mcscl-individual-rewards-significant.md) [~W]
+- [Individualized instruction shows low effects compared to cooperative and collaborative learning](../claims/individualized-instruction-low-effects-versus-collaborative.md) [+W]
 
 ## Related Principles
 

@@ -67,3 +67,4 @@ The review attributes to two intervention studies that combining "integrated phy
 - [A 9-month afterschool physical activity program improved cardiorespiratory fitness and the cognitive control of working memory, with ERP evidence of more effective cognitive control](kamijo-afterschool-fitness-working-memory.md) — related
 - [Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD](mvpa-associated-executive-function-adhd-boys.md) — related
 - [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — related
+- [Motor activities combined with high integration and high relevance produce the largest positive effects on memory, per a meta-analysis cited by the review](high-integration-relevance-motor-activity-memory-effects.md) — related

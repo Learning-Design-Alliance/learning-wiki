@@ -50,3 +50,4 @@ Baseline change model for Group A (n = 219) with four measurement points over si
 - [The COMPASS intervention significantly increases students' math self-concept immediately after participation in both an intervention group and a waiting-list control group](compass-increases-math-self-concept-immediately.md) — related
 - [Changes in math self-concept correlate positively with changes in both comparison-related beliefs after the COMPASS intervention](self-concept-change-correlates-belief-change.md) — related
 - [The COMPASS intervention significantly increases students' belief in the changeability of abilities immediately and at follow-ups in both groups](compass-increases-temporal-comparison-belief.md) — related
+- [Personality changes achieved through digital VPC interventions persist, remaining sustained or amplified at three-month and one-year follow-ups](vpc-change-persistence-follow-ups.md) — related

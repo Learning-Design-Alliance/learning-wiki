@@ -57,3 +57,4 @@ Random-effects meta-analysis of 61 primary studies (N = 7036) comparing animated
 - [Learning from an animation is significantly more successful than learning from static pictures when identifying the specific motions of a gear mechanism's links](animation-beats-static-pictures-for-identifying-motions.md) — a narrower finding that bears on this claim
 - [A re-analysis of a meta-analysis found learning from animations more effective than static pictures only when features of the displayed changes were relevant to learning](reanalysis-features-of-change-moderator.md) — a narrower finding that bears on this claim
 - [For transfer, only learners studying collaboratively benefited from animated over static graphics](collaboration-enables-transfer-benefit-of-animation.md) — related
+- [Dynamic visualizations show a small average benefit over static visualizations, with gender among the moderators](dynamic-vs-static-visualization-meta-analysis-small-benefit.md) — related

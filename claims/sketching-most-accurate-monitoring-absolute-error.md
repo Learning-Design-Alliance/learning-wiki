@@ -54,3 +54,4 @@ Same 120-participant experiment; absolute error was the absolute difference betw
 - [Pre-structured diagrams improved metacomprehension accuracy while self-assessment cues showed no differences](diagramming-metacomprehension-accuracy-cues-null.md) — related
 - [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related
 - [Instructional condition did not significantly affect readers' predictive judgments of understanding](no-condition-effect-predictive-judgments.md) — related
+- [Learning by drawing outperforms text-based strategies but is often less effective than studying pre-made drawings, with guidance and drawing training as key determinants](drawing-beats-text-loses-to-premade-visuals.md) — related

@@ -52,3 +52,4 @@ The report summarizes prior Consortium research on school leadership, citing Dem
 - [Partner success varies substantially between schools based on teacher and administrator willingness to collaborate](partner-success-varies-by-school-willingness.md) — related
 - [Respondents viewed local foundations, businesses, and community groups as promoting cross-sector collaboration, while competition, political divisions, and teachers' unions may hinder it](community-actors-promote-competition-unions-hinder-collaboration.md) — related
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
+- [Transition Leaders play a central role in coordinating collaboration between schools and stakeholders, but their effectiveness depends on sufficient flexibility and resources](transition-leaders-coordinate-collaboration.md) — related

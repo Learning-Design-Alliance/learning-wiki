@@ -50,3 +50,4 @@ Quantitative meta-analysis (k = 39) following PRISMA guidelines examined associa
 - [Parents' personality traits show patterns comparable to children's, except that parents' openness is not significantly associated with parent–child relationship quality](parent-personality-traits-parent-child-relationship-quality.md) — related
 - [Personality similarity appears to be positively associated with positive adult–child relationships (preliminary evidence)](personality-similarity-positive-adult-child-relationships.md) — related
 - [Personality traits of both children and teachers may be associated with teacher–child relationships, especially for relational positivity](personality-traits-teacher-child-relationships.md) — related
+- [Funnel plot asymmetry for openness, extraversion, and neuroticism appears attributable to reasons other than publication bias](funnel-asymmetry-not-publication-bias.md) — related

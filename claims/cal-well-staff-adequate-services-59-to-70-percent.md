@@ -51,3 +51,4 @@ Annual Project Cal-Well School Staff Survey administered by Cohort 2 LEAs to ass
 - Nearly 70% of school principals said they could not meet students' growing pandemic-era mental health needs with existing staff — related
 - [El Segundo Unified secured board funding for middle and high school wellness centers after observing Melbourne school wellness centers amid rising mental health needs](el-segundo-wellness-center-funding.md) — related
 - [Secondary students in PUSD increasingly reported open mental health conversations at school and knowing where to go for help from 2020/21 to 2022/23](pusd-chks-open-talk-help-seeking-increase.md) — related
+- [Mental Health First Aid training improved school staff mental health knowledge, attitudes and confidence in helping colleagues](mhfa-improves-staff-mental-health-literacy.md) — related

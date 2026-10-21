@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 85 claims (53 for, 23 mixed, 9 against) · 69 studies (29 causal, 17 review, 11 quant-synthesis, 11 theoretical, 1 design), `q1`–`q4` · 11 of 69 report an effect size · 75 claims rest on one study
+> **Evidence** · 87 claims (54 for, 24 mixed, 9 against) · 71 studies (29 causal, 18 review, 12 theoretical, 11 quant-synthesis, 1 design), `q1`–`q4` · 11 of 71 report an effect size · 77 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -155,6 +155,8 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Element interactivity and expertise reversal effects: cognitive load effects diminish and may reverse as expertise increases because known elements chunk into single elements](../claims/expertise-reversal-effect-element-interactivity.md) [+W] — attached 2026-10-21 from John Sweller (2023), which proposed "Current cognitive load theory: biologically secondary knowledge, limited working memory, vast long-term memory, and element interactivity determining intrinsic and extraneous load"; tests this page's relationship.
 - [Redundancy effect: when one source of information is intelligible in isolation, physically integrating it with another source fails to help and eliminating the redundant source facilitates learning](../claims/redundancy-effect-elimination-of-redundant-text.md) [+W] — attached 2026-10-21 from John Sweller (2023), which proposed "Current cognitive load theory: biologically secondary knowledge, limited working memory, vast long-term memory, and element interactivity determining intrinsic and extraneous load"; tests this page's relationship.
 - [Transient information effect: lengthy spoken text can reverse the modality effect, while shorter spoken text restores the conventional modality advantage](../claims/transient-information-effect-reverse-modality-length.md) [+W]
+- [Biologically primary motor actions such as finger tracing can provide cognitive benefits without causing cognitive load](../claims/primary-motor-actions-benefits-without-load.md) [+W] — attached 2026-10-21 from Alexander Skulmowski (2024), which proposed "Integrated cognitive framework for analyzing activity-based learning: cognitive load theory, biologically primary/secondary knowledge, and layers of action planning".
+- [LLM-supported socio-scientific inquiry lowered cognitive load but produced lower-quality reasoning and argumentation than conventional search](../claims/llm-inquiry-lower-load-lower-reasoning.md) [~W]
 
 ## The evidence by question
 

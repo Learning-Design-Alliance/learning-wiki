@@ -145,3 +145,4 @@ This meta-analysis covered 39 classroom (not laboratory) studies from 1980 onwar
 - [Cooperative learning gains were large for observation and interpretation but small for analysis in 4th graders](cooperative-learning-skill-specific-ct-gains.md) — related
 - [Collaborative pedagogies such as problem- and project-based learning are more likely to promote students' sense of belonging than lecture-based pedagogies, but effects depend on the group's attributes](collaborative-pedagogy-promotes-belonging.md) — related
 - [Children develop locative literacy through informal collaborative digital mapping with family members using Google Earth](locative-literacy-informal-collaborative-mapping.md) — a narrower finding that bears on this claim
+- [Individualized instruction shows low effects compared to cooperative and collaborative learning](individualized-instruction-low-effects-versus-collaborative.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (71 show a difference, 21 mixed, 13 no difference) · 76 studies (30 causal, 14 associational, 9 review, 8 theoretical, 7 qualitative, 6 quant-synthesis, 2 design), `q1`–`q4` · 23 of 76 report an effect size · 104 claims rest on one study
+> **Evidence** · 108 claims (73 show a difference, 22 mixed, 13 no difference) · 79 studies (31 causal, 14 associational, 10 theoretical, 9 review, 7 qualitative, 6 quant-synthesis, 2 design), `q1`–`q4` · 24 of 79 report an effect size · 107 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -147,6 +147,9 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Higher teacher-student conflict is associated with lower levels of specific metacognitive skills, while closeness is positively associated with metacognition in upper elementary school](../claims/dyadic-conflict-lower-metacognition.md) [+M] — instruction changes it
 - [High-performing readers use more monitoring strategies while under-performing readers rely more on cognitive strategies like memorization](../claims/high-performers-monitor-more-than-low-performers.md) [+W] — learners who differ on it differ in outcomes
 - [Whole-task, metacognitive knowledge, and external standard interventions significantly improve monitoring accuracy in problem solving](../claims/whole-task-metacognitive-knowledge-external-standard-interventions-improve-monitoring-accuracy.md) [+M] — instruction changes it
+- [Evidence on long-term persistence of self-regulation intervention effects is mixed: no fadeout for metacognitive strategy interventions versus substantial fadeout in higher-quality RCT syntheses](../claims/srl-persistence-fadeout-mixed-evidence.md) [~M] — instruction changes it
+- [GenAI fluency corrupts metacognitive monitoring by producing cognitive ease that is misread as comprehension, weakening the regulation needed to keep offloading beneficial](../claims/metacognitive-trap-genai-fluency.md) [+W] — instruction changes it
+- [Informing learners about the to-be-monitored cue before the problem-solving phase improves self-assessment accuracy compared with informing them only afterwards](../claims/inform-learners-before-problem-solving-improves-accuracy.md) [+M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

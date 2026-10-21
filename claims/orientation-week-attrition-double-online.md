@@ -52,3 +52,4 @@ Analysis of drop timing across the two-year data set (Table 5): 8 percent of onl
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related
 - [Self-reported withdrawal reasons are largely similar online and onground, led by no/other reason, transfer, and schedule conflict](withdrawal-reasons-similar-across-modalities.md) — related
 - Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration — related
+- [Differential attrition may explain the reported reduction in achievement gaps under daily online testing](differential-attrition-may-explain-gap-reduction.md) — related

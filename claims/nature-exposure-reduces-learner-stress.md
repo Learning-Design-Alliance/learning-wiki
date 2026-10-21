@@ -66,3 +66,6 @@ The review reports a study comparing outdoor forest schooling one day a week wit
 - [Classroom views of greenery improve children's concentration compared with built views or windowless classrooms](green-classroom-views-boost-concentration.md) — related
 - [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — a broader claim this one bears on
 - [Student motivation, enjoyment, and engagement are higher in natural learning settings, including spillover to subsequent indoor lessons](nature-settings-boost-motivation-engagement.md) — related
+- [Forest preschool attendance is associated with higher nature connectedness on some measures, with no significant changes in environmentally responsible behaviors](forest-school-nature-connectedness-mixed.md) — related
+- [Outdoor learning in nature significantly increases students' physical activity in most studies, with some null results](outdoor-learning-increases-student-physical-activity.md) — related
+- [Outdoor learning in nature reduces student stress (cortisol decline), but stress-restoration findings are mixed by measure and age](outdoor-learning-reduces-student-stress-cortisol.md) — related

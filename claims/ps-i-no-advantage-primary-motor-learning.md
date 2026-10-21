@@ -68,3 +68,4 @@ Repeated measures ANOVA on movement features in PS-I vs I-PS showed a significan
 - [Adding a practice phase after instruction (PS-I + P) did not improve javelin throwing performance over PS-I alone](additional-practice-no-effect-primary-javelin.md) — related
 - [PS-I effects did not replicate in all domains: null sequence effects in Bayesian reasoning, javelin throwing, and inquiry-skill sequencing](ps-i-null-results-new-domains.md) — a broader claim this one bears on
 - [Working memory capacity did not moderate learning gains in PS-I and I-PS, but digit recall correlated with declarative knowledge of the features](working-memory-no-moderation-correlated-declarative.md) — related
+- [The three groups did not differ significantly in prior knowledge, working memory capacity, spatial ability, learning motivation, or baseline eye-movement measures](control-variables-no-group-differences.md) — related

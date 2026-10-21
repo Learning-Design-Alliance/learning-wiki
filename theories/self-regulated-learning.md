@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 195 claims (92 for, 95 mixed, 8 against) · 148 studies (51 associational, 41 causal, 20 review, 15 quant-synthesis, 8 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 36 of 148 report an effect size · 179 claims rest on one study
+> **Evidence** · 198 claims (92 for, 98 mixed, 8 against) · 150 studies (51 associational, 41 causal, 20 review, 15 quant-synthesis, 10 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 36 of 150 report an effect size · 182 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -242,6 +242,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Metacognitive and composite SRL strategy measures show the strongest relationships with learning performance in continuing education](../claims/srl-strategy-type-performance-differences.md) [~W]
 - [Monitoring accuracy interventions are less effective for secondary school students than for elementary students and adults](../claims/monitoring-accuracy-interventions-least-effective-secondary-students.md) [~W]
 - [Timing interventions significantly decrease monitoring accuracy in problem-solving tasks and differ from all other intervention types](../claims/timing-interventions-decrease-monitoring-accuracy-problem-solving.md) [-W]
+- [GenAI fluency corrupts metacognitive monitoring by producing cognitive ease that is misread as comprehension, weakening the regulation needed to keep offloading beneficial](../claims/metacognitive-trap-genai-fluency.md) [~W] — attached 2026-10-21 from Daiki Nakamura (2026), which proposed "Offloading regulation: a learning-oriented dimension of AI literacy comprising partition discernment, calibrated monitoring, disciplinary verification, and re-internalization".
+- [SRL interventions produce large average effects on academic and motivational outcomes, per meta-analytic syntheses](../claims/srl-interventions-large-average-effects.md) [~W]
+- [SRL intervention effects are moderated by delivery agent, duration, domain, and student age, with inconsistent duration findings](../claims/srl-intervention-moderators-agent-domain-age.md) [~W]
 
 ## The evidence by question
 

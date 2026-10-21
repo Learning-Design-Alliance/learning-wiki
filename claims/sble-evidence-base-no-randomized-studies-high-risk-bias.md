@@ -56,3 +56,4 @@ In the Results section on risk of bias, the review reports "The risk of bias in 
 - [SBLE presence is unrelated to learning outcomes including achievement, proficiency, and attendance](sble-unrelated-learning-outcomes.md) — related
 - Experimental designs and study-specific measures are associated with larger program effects, while peer-reviewed status shows no indication of publication bias — related
 - [All included studies were coded high risk for selection bias and nearly half high risk for information bias](included-studies-high-risk-selection-bias.md) — related
+- [The methodological quality of forest-school studies is poor: most are at high or moderate risk of bias, with no follow-ups and inadequate statistical procedures](forest-school-studies-high-risk-of-bias.md) — related

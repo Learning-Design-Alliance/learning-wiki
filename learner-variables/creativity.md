@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 70 claims (51 show a difference, 15 mixed, 4 no difference) · 38 studies (12 causal, 11 associational, 8 review, 3 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 10 of 38 report an effect size · 68 claims rest on one study
+> **Evidence** · 71 claims (52 show a difference, 15 mixed, 4 no difference) · 39 studies (12 causal, 11 associational, 9 review, 3 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 10 of 39 report an effect size · 69 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -105,6 +105,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Individual engagement with an educational robot yielded greater divergent-thinking gains than pair work](../claims/individual-robot-engagement-beats-pairs-divergent-thinking.md) [+M] — instruction changes it
 - [Systemic barriers—rigid curricula, limited teacher training, and innate-creativity misconceptions—marginalize creativity in mainstream education](../claims/systemic-barriers-marginalize-creativity.md) [+M] — instruction changes it
 - [Generative AI use shows divergent effects on creativity: weakened creative writing but increased creative problem-solving and idea quality](../claims/generative-ai-creativity-divergent-effects.md) [~M] — instruction changes it
+- [Forest preschool attendance is associated with improvements in creative thinking in preschool children, with only forest-school groups improving on all creative dimensions](../claims/forest-school-improves-preschool-creativity.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

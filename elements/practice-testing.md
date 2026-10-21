@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 46 claims (27 for, 19 mixed) · 29 studies (14 causal, 6 quant-synthesis, 5 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 29 report an effect size · 42 claims rest on one study
+> **Evidence** · 47 claims (27 for, 20 mixed) · 30 studies (15 causal, 6 quant-synthesis, 5 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 30 report an effect size · 43 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -97,6 +97,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Self-regulating students choose to complete multiple-choice practice questions until each item has been answered correctly about one time during practice.](../claims/srl-mc-practice-to-one-correct-answer.md) [+W] — attached 2026-10-20 from Badali et al. (2023), which proposed "Self-regulated practice task with restudy, practice-test, and item-removal options".
 - [Self-regulated multiple-choice students scored lower on final tests than experimenter-controlled groups but spent less time practicing, making their one-correct criterion comparatively time-efficient.](../claims/srl-mc-lower-final-test-less-time.md) [~W] — attached 2026-10-20 from Badali et al. (2023), which proposed "Self-regulated practice task with restudy, practice-test, and item-removal options".
 - [In-person but not online self-regulated multiple-choice students completed fewer restudy trials before their first practice test than cued-recall students.](../claims/restudy-before-first-test-format-interaction.md) [~W]
+- [The spacing-induced practice decrement is confined to the first two quiz questions, with no difference on the third](../claims/spacing-decrement-limited-to-first-two-questions.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

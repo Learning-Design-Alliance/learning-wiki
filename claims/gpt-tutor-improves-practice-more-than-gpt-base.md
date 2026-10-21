@@ -55,3 +55,4 @@ Same intention-to-treat regression; the GPT Tutor coefficient was 0.361 (P < 0.0
 - [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related
 - [Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance](students-unaware-of-ai-learning-harm.md) — related
 - [During development testing, Taklif.AI guardrails rejected roughly 12% of interests, 8% of input documents, and 3% of generated assignments](guardrails-rejection-rates-development-testing.md) — related
+- [Chatbot access during mathematics practice improved practice performance but lowered subsequent unaided exam performance, and a hint-giving interface eliminated the penalty](chatbot-crutch-unaided-exam-penalty.md) — related

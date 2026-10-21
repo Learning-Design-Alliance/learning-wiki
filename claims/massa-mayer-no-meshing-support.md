@@ -46,3 +46,4 @@ Set of three experiments using a computer-based electronics lesson with verbal o
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — a broader claim this one bears on
 - [Learning style (visual-verbal) shows no significant correlation with the effectiveness of pictorial elucidation for adolescent EFL learners](learning-style-no-correlation-pictorial-elucidation-effect.md) — a narrower finding that bears on this claim
 - [In one author's classroom media experiments, intuitive learners tended to score above sensing learners, though not in every format comparison](intuitive-learners-outperform-sensing-learners.md) — related
+- [Meta-analyses testing the matching hypothesis show a negligible overall effect of matching teaching to students' learning styles (d = 0.04)](matching-learning-styles-negligible-effect.md) — a broader claim this one bears on

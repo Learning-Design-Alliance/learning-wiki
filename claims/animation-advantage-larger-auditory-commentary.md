@@ -50,3 +50,4 @@ Moderator analysis within the random-effects meta-analysis of animated vs. stati
 - [Animation is overall beneficial to retention compared with static graphics in multimedia instruction about dynamic systems](animation-benefits-retention-over-static-graphics.md) — a broader claim this one bears on
 - [Prior research failed to find clear evidence that animated graphics improve comprehension over static graphics](animation-research-lacks-clear-evidence-over-static.md) — reports the opposite
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
+- [Dynamic visualizations show a small average benefit over static visualizations, with gender among the moderators](dynamic-vs-static-visualization-meta-analysis-small-benefit.md) — related
