@@ -122,3 +122,4 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Guidance increases the effectiveness of inquiry-based learning, and all six guidance types were equally effective](guidance-boosts-inquiry-half-sd.md) — related
 - [Instructional approaches that include inquiry learning are more effective than direct instruction for acquiring conceptual knowledge, per the review's synthesis of meta-analyses](inquiry-more-effective-than-direct-conceptual-knowledge.md) — related
 - [The relation between frequency of inquiry activities and science achievement is curvilinear, with the highest gains where inquiry combines with direct teacher-based instruction](pisa-curvilinear-inquiry-achievement.md) — related
+- [Well-controlled comparison studies show clear advantages of inquiry-based instruction over direct instruction for science conceptual learning](controlled-studies-advantage-guided-inquiry-over-direct-instruction.md) — related

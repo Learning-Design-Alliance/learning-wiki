@@ -66,3 +66,4 @@ This is a single-domain (natural selection), single-population (undergraduates, 
 - [AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction](ai-ibi-improves-creative-mathematical-performance.md) — related
 - [The learning cycle is reported as an effective means for learning science concepts and processes](learning-cycle-effective-science-learning.md) — related
 - [Nature-based instruction improves academic achievement over traditional instruction, with larger gains at larger doses](nbi-outperforms-traditional-instruction-dose-response.md) — related
+- [Well-controlled comparison studies show clear advantages of inquiry-based instruction over direct instruction for science conceptual learning](controlled-studies-advantage-guided-inquiry-over-direct-instruction.md) — related

@@ -49,3 +49,4 @@ Bayesian network meta-analysis of within-subject (pre–post) differences from s
 - [Mathematics and technology show the highest pre–post scaffolding effect sizes among STEM disciplines (ḡ = 1.29 and ḡ = 1.06)](scaffolding-stem-discipline-moderation.md) — a narrower finding that bears on this claim
 - [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](computer-based-scaffolding-positive-cognitive-outcomes-stem.md) — a broader claim this one bears on
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
+- [Scaffolding shows a moderate positive effect on conceptual learning outcomes in STEM pedagogical interventions other than direct instruction](scaffolding-moderate-effect-stem-conceptual-learning.md) — related

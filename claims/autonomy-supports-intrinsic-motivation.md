@@ -186,3 +186,4 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Educator involvement in choosing a pilot tool is associated with higher engagement and implementation fidelity, while lack of autonomy contributed to low usage and negative feelings](educator-buy-in-engagement-fidelity-edtech-pilots.md) — a narrower finding that bears on this claim
 - [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](ten-developmental-experiences-build-character.md) — related
 - [Teachers hold conflicting attitudes about whether gameful assessments support students’ intrinsic motivation and desire to learn](teacher-attitudes-gameful-assessment-conflicted.md) — related
+- [Open inquiry affects students' motivation, though one reviewed study found no significant difference in collaborative attitudes](open-inquiry-student-motivation.md) — related

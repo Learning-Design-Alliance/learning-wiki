@@ -98,3 +98,4 @@ This systematic review searched for studies (1977–2020) comparing guided play 
 - [Preschoolers constrain exploration after direct instruction and after overhearing instruction to another child, but not after overhearing instruction to an adult or a non-pedagogical intentional action](pedagogical-inference-extends-to-overheard-child-instruction.md) — related
 - [Highest-outcome groups did not receive more guidance than other groups](high-outcome-groups-not-guided-more.md) — related
 - [Structuring the discovery process can outperform unstructured environments, but effects depend on learner characteristics and the knowledge test used](structuring-discovery-process-effects.md) — related
+- [Guided play outperformed direct instruction for executive functioning and numeracy in early childhood, but not for literacy or socioemotional outcomes](guided-play-versus-direct-instruction-early-childhood.md) — possibly the same claim (merge candidate)

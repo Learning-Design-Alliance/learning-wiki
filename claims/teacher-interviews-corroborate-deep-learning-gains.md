@@ -53,3 +53,5 @@ Qualitative component of the concurrent mixed-methods design: semi-structured in
 - [Interviewed students at below-average, average, and above-average levels showed improved understanding of condensation after the intervention](pdeode-interviews-improved-understanding-three-levels.md) — related
 - [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — a broader claim this one bears on
 - [Teachers reported that simulations, adaptive feedback, and hands-on STEM activities supported students' conceptual understanding and engagement with scientific problem solving](simulations-adaptive-feedback-support-engagement.md) — related
+- [Open inquiry improves students' conceptual understanding of science, supported by seven reviewed studies](open-inquiry-improves-conceptual-understanding.md) — related
+- [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — related

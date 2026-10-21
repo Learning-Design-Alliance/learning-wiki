@@ -61,3 +61,4 @@ This is a single-session collaborative task in one academic context (pre-service
 - [Visualization support at the planning phase helped collaborating groups report more effective planning and teamwork strategies than groups without it](visualization-support-planning-improves-group-strategies.md) — related
 - [Providing cognitive and metacognitive group awareness information did not have the expected impact on learning outcomes despite knowledge and confidence gains](group-awareness-information-no-impact-on-learning-outcomes.md) — related
 - [Groups that initiated collaboration early, coordinated before problem-solving, and interacted continuously tended to achieve equal participation and higher satisfaction](early-coordination-continuous-interaction-equal-participation.md) — related
+- [Teams that coordinate, communicate, and document intermediate results solve EER problems more successfully](eer-structured-teams-solve-better.md) — related

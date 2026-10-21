@@ -64,3 +64,4 @@ Study 1 thematic network analysis (Attride-Stirling method) of instructor interv
 - [A majority of YOUmedia participants report improved digital media skills due to the program](youmedia-majority-report-improved-digital-media-skills.md) — related
 - [Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education](experiential-learning-engagement-skills-ethical-reasoning.md) — related
 - [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](students-lasting-personal-growth-experiences.md) — related
+- [Open inquiry positively influences students' attitudes towards science, including satisfaction, collaboration and self-confidence](open-inquiry-attitudes-towards-science.md) — related

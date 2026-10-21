@@ -159,3 +159,5 @@ The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies 
 - [Guided inquiry was positively associated with science achievement in all 16 PISA 2015 regions where it was applied](guided-inquiry-positive-all-regions.md) — a narrower finding that bears on this claim
 - [Instructional approaches that include inquiry learning are more effective than direct instruction for acquiring conceptual knowledge, per the review's synthesis of meta-analyses](inquiry-more-effective-than-direct-conceptual-knowledge.md) — related
 - [The relation between frequency of inquiry activities and science achievement is curvilinear, with the highest gains where inquiry combines with direct teacher-based instruction](pisa-curvilinear-inquiry-achievement.md) — related
+- [Well-controlled comparison studies show clear advantages of inquiry-based instruction over direct instruction for science conceptual learning](controlled-studies-advantage-guided-inquiry-over-direct-instruction.md) — related
+- [The highest level of inquiry may not be the 'best' approach for science learning](open-inquiry-highest-level-not-best.md) — related

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1832 entries** · 0 stable · 1832 in review · 0 drafts
+**1833 entries** · 0 stable · 1833 in review · 0 drafts
 
 ---
 
@@ -320,6 +320,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Corpus of 22 peer-reviewed LLM-in-higher-education studies (2023–2024) with geographic, publisher and keyword-cluster profile](corpus-of-22-peer-reviewed-llm-in-higher-education-studies-20232024-with-geographic-publis.md) - A curated corpus of 22 English-language peer-reviewed journal studies on direct student use of large language models in higher education, assembled by Martínez-Peláez et al.
 * [Corpus of 48 peer-selected empirical studies of SE in undergraduate mathematics (2009–2024)](corpus-of-48-peer-selected-empirical-studies-of-se-in-undergraduate-mathematics-20092024.md) - A curated evidence corpus of 48 empirical studies on student engagement in undergraduate mathematics, assembled by Papageorgiou, Wong, Liu, Khalil, and Cabo through PRISMA-guided searching and screening.
 * [Corpus of 500 annotated competency-based assessments in higher education for developing and evaluating the Teacher Evaluator](corpus-of-500-annotated-competency-based-assessments-in-higher-education-for-developing-an.md) - A corpus of 500 anonymized, annotated higher-education competency-based assessments compiled by Agerri et al.
+* [Corpus of 77 peer-reviewed K-12 data literacy education studies yielding 611 purpose expressions](corpus-of-77-peer-reviewed-k-12-data-literacy-education-studies-yielding-611-purpose-expre.md) - A corpus compiled by Fagerlund et al.
 * [Corpus of GenAI policies from thirty QS-ranked universities across the top ten countries for AI preparedness](corpus-of-genai-policies-from-thirty-qs-ranked-universities-across-the-top-ten-countries-f.md) - A corpus assembled by Adarkwah et al.
 * [Corpus of nine empirical studies of collaborative learning for AI literacy (2015-2023)](corpus-of-nine-empirical-studies-of-collaborative-learning-for-ai-literacy-2015-2023.md) - A Hingle (2024) corpus compiling nine empirical studies of collaborative learning for AI literacy identified through PRISMA screening across major scholarly databases.
 * [Corrective Reading](corrective-reading.md) - Corrective Reading is a scripted, structured reading intervention curriculum for upper-elementary struggling readers, focused on phonics, fluency, and comprehension.

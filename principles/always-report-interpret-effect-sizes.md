@@ -23,7 +23,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (15 for, 8 mixed) · 24 studies (9 quant-synthesis, 6 causal, 5 review, 4 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 22 claims rest on one study
+> **Evidence** · 24 claims (16 for, 8 mixed) · 25 studies (10 quant-synthesis, 6 causal, 5 review, 4 theoretical), `q1`–`q4` · 6 of 25 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,7 @@ None of these claims measures what a reader does differently with an effect size
 - [Cohen's small, medium, and large effect size benchmarks are arbitrary and should not be interpreted rigidly](../claims/cohen-benchmarks-arbitrary.md) [+W] — attached 2026-10-16 from Lakens (2013), which proposed "Always report effect sizes, specify the standardizer used, report generalized eta squared for ANOVAs, and interpret effect sizes rather than relying on Cohen's benchmarks".
 - Effect size indices are almost never reported in published educational research using ANOVA, MANOVA, or repeated-measures analyses [+W] — attached 2026-10-20 from Keselman et al. (1998), which proposed "Use robust test procedures, focused hypothesis tests, and routine effect size reporting when analyzing between-subjects designs".
 - Effect size indices and power analyses are rarely reported in educational research across all four design paradigms [+W] — attached 2026-10-21 from Keselman et al. (1998), which proposed "Adopt robust statistical test procedures and routinely report effect sizes when analyzing group differences".
+- [STEM field benchmarks differ markedly: science shows the largest quartiles and mathematics the smallest](../claims/stem-field-benchmark-heterogeneity.md) [+W] — attached 2026-10-21 from Mehmet Bicakci et al. (2026), which proposed "Interpret STEM education intervention effects against empirically derived, context-sensitive benchmark distributions rather than Cohen's universal thresholds".
 
 ## Objective and learner-valued goal
 

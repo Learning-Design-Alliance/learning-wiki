@@ -13,7 +13,7 @@ generated:
 # Inquiry-Based Exploration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (9 for, 3 mixed, 2 against) · 21 studies (6 causal, 6 review, 5 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 10 claims rest on one study
+> **Evidence** · 17 claims (11 for, 4 mixed, 2 against) · 22 studies (7 review, 6 causal, 5 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 7 of 22 report an effect size · 13 claims rest on one study
 
 ## Description
 Inquiry-based exploration places learners in front of an open-ended problem, question, or phenomenon and asks them to investigate it — gathering information, forming hypotheses, testing ideas, and generating solutions — rather than first receiving a fully worked explanation. The instructor's role shifts from transmitter to designer of the problem and facilitator of the investigation.
@@ -62,6 +62,9 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - [Open-ended tasks are associated with higher disciplinary engagement in the same observation interval](../claims/open-ended-tasks-higher-disciplinary-engagement.md) [+W]
 - [In open-ended constructivist activities, task success or failure is not a reliable indicator of learning, so learner models based only on performance risk misjudging learners](../claims/performance-not-indicator-learning-open-ended.md) [~W]
 - [Task type did not affect time on task, number of unique experiments, duplicated experiments, or percentage of unspecified hypotheses](../claims/task-type-no-effect-time-and-experiment-counts.md) [~W]
+- [Open inquiry positively influences students' attitudes towards science, including satisfaction, collaboration and self-confidence](../claims/open-inquiry-attitudes-towards-science.md) [+W]
+- [Open inquiry improves students' conceptual understanding of science, supported by seven reviewed studies](../claims/open-inquiry-improves-conceptual-understanding.md) [+W]
+- [Open inquiry affects students' motivation, though one reviewed study found no significant difference in collaborative attitudes](../claims/open-inquiry-student-motivation.md) [~W]
 
 ## The evidence by question
 - *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]

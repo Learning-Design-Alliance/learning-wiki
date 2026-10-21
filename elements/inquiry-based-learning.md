@@ -14,7 +14,7 @@ generated:
 # Inquiry-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (12 for, 3 mixed, 3 against) · 19 studies (7 causal, 4 quant-synthesis, 4 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (13 for, 3 mixed, 3 against) · 20 studies (7 causal, 5 review, 4 quant-synthesis, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 20 report an effect size · 15 claims rest on one study
 
 ## Description
 Inquiry-based learning is the element in which learners investigate questions, evidence, or problems in order to build understanding through guided exploration.
@@ -67,11 +67,16 @@ Inquiry-based learning is the element in which learners investigate questions, e
 - [Students in computer-based inquiry environments still held misconceptions about force and energy after instruction](../claims/persistent-misconceptions-computer-based-ibl.md) [-W]
 - [Web-based collaborative inquiry produces a small but significant improvement in students' interest in science](../claims/small-significant-interest-gain-web-inquiry.md) [+W]
 - [Guidance increases the effectiveness of inquiry-based learning, and all six guidance types were equally effective](../claims/guidance-boosts-inquiry-half-sd.md) [+W]
+- [Open inquiry enhances students' science literacy and related skills such as environmental literacy, argumentation, autonomy and reflection](../claims/open-inquiry-science-literacy-skills.md) [+W]
 
 ## The evidence by question
 - *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]
 - *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]
 - *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+
+## Examples
+
+- [Use AI-based analysis of student log files to scaffold inquiry competencies and guide teachers in real time](../strategies/ai-log-file-scaffolding-and-teacher-dashboards-for-inquiry.md)
 
 ## Related Elements
 - [Guided Inquiry](guided-inquiry.md)

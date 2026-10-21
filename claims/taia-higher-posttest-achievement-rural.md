@@ -53,3 +53,5 @@ One-way ANCOVA in the six-week quasi-experiment (final sample 94 students; EG n 
 - [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — related
 - [Perceived teacher support in the hypothesis and experimentation phases correlated positively with post-test achievement in both groups; argumentation-support and enjoyment correlations emerged only across the pooled sample](perceived-support-correlates-achievement.md) — related
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related
+- [Open inquiry enhances students' science literacy and related skills such as environmental literacy, argumentation, autonomy and reflection](open-inquiry-science-literacy-skills.md) — related
+- [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — related

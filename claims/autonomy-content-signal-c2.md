@@ -50,3 +50,4 @@ Orthogonal-contrast GLM (C2: autonomy vs competence + relatedness) over the 64-v
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related
 - [The BPNSFS 3×2 six-facet structure (three needs × satisfaction/frustration) fits Australian school-leader data excellently and better than models collapsing valence](bpnsfs-3x2-structure-excellent-fit-school-leaders.md) — related
 - [Bivariate SDT-based predictions about BPNSFS correlates were largely upheld: valence predictions correct for 95.2% and content predictions for 91.4% of scored cases](bivariate-prediction-accuracy-nomological-network.md) — a broader claim this one bears on
+- [In EERs, autonomy, competence, and relatedness are each supported by specific design features per self-determination theory](eer-sdt-needs-design-features.md) — related

@@ -48,6 +48,7 @@ Based on identified gaps, the review recommends that future reviews use "broader
 - [Diversify AIED: use diverse technologies, address big problems, and reuse existing resources rather than reinventing content](aied-diversify-technologies-big-problems-existing-resources.md)
 - [Future shared story reading research should extend to nonfiction texts, inclusive settings, and include practicality statements](shared-story-reading-future-research-directions.md)
 - [Research and practice recommendations: activate knowledge during and after reading, study narrative texts and younger learners, and clarify definitions](activation-research-recommendations-hattan-review.md)
+- [Broaden search terminology and bibliographic databases in future eWIL reviews](ewil-future-review-search-strategy.md)
 
 ## Examples
 -

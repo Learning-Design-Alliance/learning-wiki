@@ -93,3 +93,4 @@ A second reviewed finding attributes greater social responsibility, community aw
 - [Traditional student participation mechanisms in Spain have been shown to be inefficient for promoting civic commitment](traditional-student-participation-inefficient-spain.md) — related
 - [Extracurricular activities provide only modest support for civic commitment, and sports participation is unrelated to it](extracurriculars-modest-sports-unrelated-civic-commitment.md) — related
 - [Building Decision Skills combined with service learning has potentially positive effects on high school students' knowledge, attitudes, and values](bds-service-learning-potentially-positive-kav.md) — related
+- [Open inquiry positively influences students' attitudes towards science, including satisfaction, collaboration and self-confidence](open-inquiry-attitudes-towards-science.md) — related

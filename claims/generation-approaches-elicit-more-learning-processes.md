@@ -48,3 +48,4 @@ Experiment with 40 Dutch Grade 10 students randomly assigned to four conditions 
 - [Self-explanation-based and inquiry learning elicit more elaborative processes than hypermedia and observational learning, fully for hypothesis testing and integrating and partly for giving explanations](generation-approaches-elicit-more-elaborative-processes.md) — related
 - [The self-explanation-based environment elicits the most (self-)explanations and the inquiry environment elicits high hypothesis generation](approach-specific-process-profiles.md) — related
 - [Observational learners read and filter more than hypermedia learners, and hypermedia learners check more solution steps than self-explanation learners](superficial-subcategory-contrasts.md) — related
+- [Generative instructional conditions (inquiry and explanation) outperformed receptive conditions on far transfer, with inquiry best on far transfer problems](eysink-four-methods-inquiry-far-transfer-advantage.md) — related
