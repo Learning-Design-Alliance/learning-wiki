@@ -13,7 +13,7 @@ generated:
 # Social Presence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (24 for, 12 mixed, 1 against) · 31 studies (6 causal, 6 review, 5 associational, 5 qualitative, 5 design, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 3 of 31 report an effect size · 34 claims rest on one study
+> **Evidence** · 38 claims (25 for, 12 mixed, 1 against) · 32 studies (7 review, 6 causal, 5 associational, 5 qualitative, 5 design, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 3 of 32 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ Perceived presence, participation, satisfaction, persistence and individual lear
 - [Danmaku learners engage in parasocial greetings and compliments to the instructor and seek co-learning presence, phenomena absent on the discussion board](../claims/parasocial-greetings-and-co-learning-presence-in-danmaku.md) [+W]
 - [Human–human pair programming fostered the highest perceptions of collaboration and social presence, surpassing both AI-assisted and individual conditions](../claims/human-pairing-highest-collaboration-social-presence.md) [+W]
 - [Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies](../claims/icebreaker-collaboration-top-learner-learner-strategies.md) [+W]
+- [Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning](../claims/introductory-f2f-meeting-stimulates-interaction.md) [+W]
 
 ## Related Principles
 - [Community of Inquiry](community-of-inquiry.md) — the parent framework situating social presence alongside teaching and cognitive presence

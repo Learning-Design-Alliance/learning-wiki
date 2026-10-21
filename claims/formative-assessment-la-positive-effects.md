@@ -88,3 +88,5 @@ The review reports Yang and Lu's (2021) finding that reading time predicted lear
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
 - [Teacher use of LA for DBDM makes DLS use more effective for learning, and teacher support increases student usage](teacher-dbdm-use-increases-dls-effectiveness.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [LA is used in higher-education feedback studies for a range of objectives beyond improving feedback itself, with reflection the most common (43% of studies)](la-feedback-objectives-reflection-most-common.md) — related
+- [LA-based feedback shows potential to save educators time compared with traditional one-by-one feedback provision](la-feedback-saves-educator-time.md) — related

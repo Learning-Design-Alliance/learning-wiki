@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 48 claims (39 show a difference, 6 mixed, 3 no difference) · 27 studies (10 associational, 6 causal, 6 review, 2 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 8 of 27 report an effect size · 47 claims rest on one study
+> **Evidence** · 49 claims (40 show a difference, 6 mixed, 3 no difference) · 28 studies (10 associational, 7 review, 6 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 8 of 28 report an effect size · 48 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -83,6 +83,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [School grades tend to be more highly correlated with academic self-concept than standardized test scores](../claims/grades-more-correlated-with-self-concept-than-tests.md) [+M] — learners who differ on it differ in outcomes
 - [Students' domain-specific self-concept moderates non-interactive teaching: low self-concept students profit, high self-concept students do not](../claims/self-concept-moderates-noninteractive-teaching.md) [+M] — an instructional effect differs with it
 - [The COMPASS intervention significantly increases students' math self-concept immediately after participation in both an intervention group and a waiting-list control group](../claims/compass-increases-math-self-concept-immediately.md) [+M] — instruction changes it
+- [Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction](../claims/student-characteristics-moderate-inquiry-effectiveness.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

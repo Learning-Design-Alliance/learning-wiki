@@ -75,3 +75,4 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [Emotion Labeling Improves Regulation](emotion-labeling-improves-regulation.md) — related
 - [Students use strategies to regulate their own motivation and affect](students-regulate-motivation-affect-strategies.md) — related
 - [An emotion-control strategy is expected to lower state anxiety early in training, with a stronger negative relationship for trainees high in trait anxiety](emotion-control-lowers-state-anxiety-trait-moderation.md) — related
+- [Blended learning designs pay most affective-climate attention to motivating and mental-effort tasks while neglecting appraising and dealing with emotions](affective-climate-neglected-blended-designs.md) — related

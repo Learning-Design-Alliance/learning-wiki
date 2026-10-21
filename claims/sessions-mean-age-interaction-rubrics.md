@@ -52,3 +52,4 @@ Posteriori secondary meta-regression on standardized mean differences for academ
 - [Most moderator variables are not significantly related to rubric effects on academic performance, including rubric design specifics](rubric-moderators-mostly-non-significant.md) — reports the opposite
 - [Public speaking anxiety is associated with poorer judged speech performance only among individuals low in attentional control](attentional-control-buffers-speech-anxiety-performance.md) — related
 - [Adolescents showed a marginally decreased number of punishments before switching in reversal learning](marginal-fewer-punishments-before-adolescent-switches.md) — related
+- [Attitude effects of innovative teaching decrease with student grade level](attitude-effects-decrease-with-grade-level.md) — related

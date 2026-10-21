@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (19 for, 15 mixed) · 44 studies (12 quant-synthesis, 11 causal, 10 review, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 15 of 44 report an effect size · 22 claims rest on one study
+> **Evidence** · 35 claims (20 for, 15 mixed) · 45 studies (12 quant-synthesis, 11 causal, 11 review, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 15 of 45 report an effect size · 23 claims rest on one study
 
 ## Description
 
@@ -265,6 +265,7 @@ The article recommends that pronunciation-focused audio discussions be embedded 
 - [High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future](../claims/high-level-feedback-remains-human-responsibility.md) [~W]
 - [Providing a rubric reduces perceived difficulty of self-assessment but not invested mental effort](../claims/rubrics-reduce-perceived-difficulty-not-mental-effort.md) [+W]
 - [Peer assessment of oral presentations improves self-concept relative to control and improves presentation performance, but outcome studies remain few](../claims/peer-oral-presentation-outcomes.md) [+W]
+- [LA-enhanced feedback practices are associated with improved student academic performance, the most frequently reported pedagogical objective (37% of studies)](../claims/la-feedback-academic-performance-improved.md) [+W]
 
 ## Key Sources
 

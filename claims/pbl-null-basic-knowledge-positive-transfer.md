@@ -72,3 +72,4 @@ The article synthesizes meta-analytic comparisons of PBL with traditional direct
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — related
 - [Traditional instruction is more effective than PBL for short-term retention as measured by standardized board exams](traditional-instruction-short-term-retention-board-exams.md) — related
 - [Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching](pbl-knowledge-generation-application-dissemination.md) — related
+- [Instructional approaches that include inquiry learning are more effective than direct instruction for acquiring conceptual knowledge, per the review's synthesis of meta-analyses](inquiry-more-effective-than-direct-conceptual-knowledge.md) — related

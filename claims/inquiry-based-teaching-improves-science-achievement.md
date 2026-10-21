@@ -155,3 +155,7 @@ The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies 
 - [Guidance during inquiry learning produces a medium-to-large improvement in learners' use of inquiry skills during the inquiry](guidance-improves-inquiry-learning-activities.md) — related
 - [Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)](minimal-guidance-inquiry-inferior-explicit-instruction.md) — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
+- [Guidance increases the effectiveness of inquiry-based learning, and all six guidance types were equally effective](guidance-boosts-inquiry-half-sd.md) — related
+- [Guided inquiry was positively associated with science achievement in all 16 PISA 2015 regions where it was applied](guided-inquiry-positive-all-regions.md) — a narrower finding that bears on this claim
+- [Instructional approaches that include inquiry learning are more effective than direct instruction for acquiring conceptual knowledge, per the review's synthesis of meta-analyses](inquiry-more-effective-than-direct-conceptual-knowledge.md) — related
+- [The relation between frequency of inquiry activities and science achievement is curvilinear, with the highest gains where inquiry combines with direct teacher-based instruction](pisa-curvilinear-inquiry-achievement.md) — related

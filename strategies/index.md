@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**6347 entries** · 0 stable · 6347 in review · 0 drafts
+**6348 entries** · 0 stable · 6348 in review · 0 drafts
 
 ---
 
@@ -2633,6 +2633,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Improve LLM grading alignment through LLM-optimized guidelines, calibration examples, and median-of-parallels grading](llm-grading-alignment-optimization-strategies.md) - The article recommends concrete steps for future LLM-assisted grading: writing grading guidelines that are easier for LLMs to comprehend with no prior course knowledge, converting qualitative qualities into observable...
 * [Improve LLMs' scientific and mathematical reasoning under uncertainty to enable AI tutors for science and maths learning](improve-llm-reasoning-under-uncertainty-ai-tutors.md) - The authors propose that the benchmark's findings motivate targeted improvement of LLMs on scientific and mathematical reasoning in contexts of uncertainty, where answers must be given from incomplete, progressively r...
 * [Improve relationships between evidence producers and decision-makers and build staff capacity and government infrastructure for accessing relevant research](improve-relationships-and-capacity-for-evidence-use.md) - This strategy, drawn from the report's literature review, addresses barriers to evidence use in government decision-making by improving relationships between those who produce research evidence and those who use it, a...
+* [Improve research designs, competence conceptualization, and teaching-method description in future research on teaching for democracy](future-research-agenda-democracy-teaching.md) - The review's forward-looking recommendation is a research agenda addressing three gaps.
 * [Improve transmedia-curriculum professional development with classroom observation, Q&A-only webinars, and later scheduling](tec-pd-improvement-suggestions.md) - Teachers in the evaluation offered concrete suggestions for improving the professional development accompanying the TEC Summer Learning Program.
 * [Improve UI consistency and network system before scaling VR classroom use](improve-ui-consistency-vr-classroom.md) - The authors' forward-looking recommendation is to improve usability through enhancements to the UI and network system, and to develop a wider variety of learning materials based on the proposed system.
 * [Improve visibility, alignment, and concrete strategies of the Transforming Schools Framework and resources](improve-framework-visibility-alignment-concrete-strategies.md) - Based on interview findings, the report recommends improving Alaska's Trauma-Engaged Schools resources so that they are \"visible, are aligned to other initiatives, and provide concrete strategies for translating conce...

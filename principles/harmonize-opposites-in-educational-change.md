@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (15 for, 11 mixed) · 20 studies (6 review, 5 theoretical, 4 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 20 report an effect size · 24 claims rest on one study
+> **Evidence** · 27 claims (16 for, 11 mixed) · 21 studies (7 review, 5 theoretical, 4 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 21 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,7 @@ Combining two methods, the share of time each gets, the order of the two, and th
 ## Claims
 
 - [Educational factors supportive of adolescent creativity include balancing freedom with guidance, openness to student ideas, trust, and varied learning resources](../claims/educational-factors-support-adolescent-creativity.md) [+W]
+- [The relation between frequency of inquiry activities and science achievement is curvilinear, with the highest gains where inquiry combines with direct teacher-based instruction](../claims/pisa-curvilinear-inquiry-achievement.md) [+W]
 
 ## Related Principles
 

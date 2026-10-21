@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 30 claims (15 for, 14 mixed, 1 against) · 32 studies (12 quant-synthesis, 7 causal, 7 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 32 report an effect size · 23 claims rest on one study
+> **Evidence** · 32 claims (15 for, 15 mixed, 2 against) · 33 studies (12 quant-synthesis, 8 review, 7 causal, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 33 report an effect size · 25 claims rest on one study
 
 ## Description and scope
 
@@ -179,6 +179,8 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [Guided discovery outperformed both unguided discovery and direct instruction in classic studies](../claims/guided-discovery-outperformed-both-extremes.md) [-W]
 - [Peer instruction is less effective than explicit teacher creativity teaching for lower-level students](../claims/peer-instruction-less-effective-low-achievers-creativity.md) [~W]
 - [No differential effect of explicit instruction depending on the variable complexity](../claims/no-differential-explicit-instruction-effect-complexity.md) [~W]
+- [Explicit teaching of the control-of-variables strategy shows no advantage over not explicitly teaching it, per the Schwichow et al. meta-analysis cited in the review](../claims/cvs-explicit-teaching-no-advantage.md) [-W]
+- [The relation between frequency of inquiry activities and science achievement is curvilinear, with the highest gains where inquiry combines with direct teacher-based instruction](../claims/pisa-curvilinear-inquiry-achievement.md) [~W]
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md) — a related but distinct term Hunter explicitly distinguishes her model from

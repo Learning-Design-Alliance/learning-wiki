@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 147 claims (91 show a difference, 37 mixed, 19 no difference) · 117 studies (49 associational, 21 causal, 16 review, 15 quant-synthesis, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 17 of 117 report an effect size · 145 claims rest on one study
+> **Evidence** · 148 claims (92 show a difference, 37 mixed, 19 no difference) · 118 studies (49 associational, 21 causal, 16 quant-synthesis, 16 review, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 17 of 118 report an effect size · 146 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -179,6 +179,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [The association between school discipline and social-emotional self-control is stronger for older students](../claims/social-emotional-self-control-age-moderation.md) [+M] — an instructional effect differs with it
 - [Neither grade level nor outcome type significantly moderates the effects of Spanish reading programs](../claims/no-moderator-effects-grade-or-outcome.md) [-M] — an instructional effect differs with it
 - [Studies reporting age and gender differences in student engagement unanimously show higher engagement for girls and younger students](../claims/girls-younger-students-higher-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [Attitude effects of innovative teaching decrease with student grade level](../claims/attitude-effects-decrease-with-grade-level.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

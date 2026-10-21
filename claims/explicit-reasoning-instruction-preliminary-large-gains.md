@@ -65,3 +65,4 @@ Preliminary test class (15 students from both physics-major and general-educatio
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — a broader claim this one bears on
 - [Productive discourse practices correlate with improved performance on standardized tests of reasoning](discourse-practices-correlate-reasoning-tests.md) — related
+- [Explicit teaching of the control-of-variables strategy shows no advantage over not explicitly teaching it, per the Schwichow et al. meta-analysis cited in the review](cvs-explicit-teaching-no-advantage.md) — related

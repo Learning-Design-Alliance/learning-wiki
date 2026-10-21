@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 68 claims (20 for, 40 mixed, 8 against) · 48 studies (26 causal, 7 review, 5 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 16 of 48 report an effect size · 61 claims rest on one study
+> **Evidence** · 69 claims (20 for, 41 mixed, 8 against) · 49 studies (26 causal, 8 review, 5 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 16 of 49 report an effect size · 62 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,10 @@ For example, an adult returning to study may want to submit a correct statistics
 The expectation should weaken if supported attempts fail to beat unsupported ones on aligned outcomes measured without the support, for comparable learners, outside one-to-one tutoring and computer-based STEM problem solving. It should also weaken if explicit strategy instruction matches or exceeds the gain at lower cost, as the dynamic-assessment synthesis suggests. If the benefit appears only while the support is present, the page is describing assisted performance, not learning, and should say so. If one kind of support (for example, support that does part of the task) consistently fails where another succeeds, the relationship belongs to that kind, not to support in general; local drawing support, which lowered accuracy and recognition below unsupported drawing in one experiment, is the wiki's one instance so far, and metacognitive prompts that left domain knowledge unchanged show support helping only the outcome it targets. Do not protect the model by relabelling every failure as "the wrong support" or "outside the zone of proximal development" after the outcome is seen.
 
 Assisted performance, unassisted immediate performance, delayed retention, transfer and use in the learner's own setting are separate claims. The evidence above establishes no best kind or amount of support, no individual readiness criterion and no classroom-scale effect.
+
+## Claims
+
+- [Contingency is not treated as a necessary condition of scaffolding in bilingual education research, unlike broader educational research](../claims/contingency-not-necessary-condition-bilingual-education-scaffolding.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

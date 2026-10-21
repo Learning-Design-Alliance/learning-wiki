@@ -13,7 +13,7 @@ generated:
 # Guided Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (3 review, 2 quant-synthesis, 1 causal, 1 qualitative), `q2`–`q4` · 2 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 8 studies (4 review, 2 quant-synthesis, 1 causal, 1 qualitative), `q2`–`q4` · 2 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Guided inquiry is the element in which learners investigate questions or problems with structured prompts, facilitator support, or staged resources that keep the inquiry productive. It is useful when the goal is inquiry with support rather than direct telling or unguided discovery.
@@ -41,6 +41,7 @@ Guided inquiry is the element in which learners investigate questions or problem
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
 - [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]
 - [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](../claims/llm-participants-stage-goal-clarification.md) [+W]
+- [Guided inquiry was positively associated with science achievement in all 16 PISA 2015 regions where it was applied](../claims/guided-inquiry-positive-all-regions.md) [+W]
 
 ## Related Elements
 - [Guided Discovery](guided-discovery.md)

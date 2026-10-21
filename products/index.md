@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1828 entries** · 0 stable · 1828 in review · 0 drafts
+**1829 entries** · 0 stable · 1829 in review · 0 drafts
 
 ---
 
@@ -1605,6 +1605,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Syntea](syntea.md) - Syntea is IU International University of Applied Sciences' AI-based learning-assistant software for question answering, interactive tutoring, personalized feedback, progress tracking, and exam preparation.
 * [Synthesis Lab](synthesis-lab.md) - Synthesis Lab is a web application that integrates with social annotation tools to help learners categorize peer annotations into conceptual building blocks and develop knowledge syntheses.
 * [Systematic literature review corpus of 54 documents on academic careers from 21 national contexts (Scopus and Scielo, 2000–2021)](systematic-literature-review-corpus-of-54-documents-on-academic-careers-from-21-national-c.md) - A corpus of 54 theoretical and empirical documents on academic careers selected from Scopus and Scielo searches, covering 21 national contexts and publications from 2000–2021, assembled by Oliveira et al.
+* [Systematic PRISMA-based review corpus of 20 blended learning design studies](systematic-prisma-based-review-corpus-of-20-blended-learning-design-studies.md) - A corpus of 20 higher-education and high-school studies on course-level blended-learning design, selected through staged PRISMA-based screening and coded across 18 instructional-design variables by Boelens et al.
 * [Systematic review corpus of 69 jigsaw studies (1978–2022)](systematic-review-corpus-of-69-jigsaw-studies-19782022.md) - A corpus of 69 studies conducted from 1978 through 2022 that met review criteria for examining jigsaw's effects on academic performance and psychosocial outcomes.
 * [Systematic review evidence corpus: 49 studies of learning approaches and academic performance in medical and dental education (2000–2023)](systematic-review-evidence-corpus-49-studies-of-learning-approaches-and-academic-performan.md) - A PRISMA-guided corpus of 49 empirical studies on learning approaches and academic performance among undergraduate medical and dental students, assembled by Marlen A.
 * [Systems Review](systems-review.md) - Systems Review is an inquiry-based, systems-focused approach for teams working to improve a system, developed and facilitated by R15CC.

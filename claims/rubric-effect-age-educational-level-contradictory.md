@@ -66,3 +66,4 @@ Moderator analysis of standardized mean changes by educational level; secondary 
 - [Most moderator variables are not significantly related to rubric effects on academic performance, including rubric design specifics](rubric-moderators-mostly-non-significant.md) — related
 - [Number of rubric sessions interacts negatively with mean age: intervention length matters less for older students](sessions-mean-age-interaction-rubrics.md) — related
 - [Elementary classrooms score significantly higher on the PERTS academic mindset scale than middle school classrooms](elementary-classrooms-higher-perts-than-middle.md) — related
+- [Attitude effects of innovative teaching decrease with student grade level](attitude-effects-decrease-with-grade-level.md) — related

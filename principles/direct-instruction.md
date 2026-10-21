@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (14 for, 15 mixed, 2 against) · 37 studies (12 causal, 12 quant-synthesis, 5 review, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 8 of 37 report an effect size · 23 claims rest on one study
+> **Evidence** · 33 claims (14 for, 15 mixed, 4 against) · 38 studies (12 causal, 12 quant-synthesis, 6 review, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 8 of 38 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +116,8 @@ Immediate procedural performance, conceptual understanding, transfer, delayed re
 - [Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)](../claims/minimal-guidance-inquiry-inferior-explicit-instruction.md) [+W]
 - [No differential effect of explicit instruction depending on the variable complexity](../claims/no-differential-explicit-instruction-effect-complexity.md) [~W]
 - [Prior studies reviewed show exploratory learning outperformed proceduralized instruction for training performance and transfer](../claims/prior-evidence-exploratory-beats-proceduralized.md) [-W]
+- [Instructional approaches that include inquiry learning are more effective than direct instruction for acquiring conceptual knowledge, per the review's synthesis of meta-analyses](../claims/inquiry-more-effective-than-direct-conceptual-knowledge.md) [-W]
+- [Explicit teaching of the control-of-variables strategy shows no advantage over not explicitly teaching it, per the Schwichow et al. meta-analysis cited in the review](../claims/cvs-explicit-teaching-no-advantage.md) [-W]
 
 ## Related Principles
 - [Modeling](modeling.md) — direct instruction depends on visible demonstration, not verbal explanation alone

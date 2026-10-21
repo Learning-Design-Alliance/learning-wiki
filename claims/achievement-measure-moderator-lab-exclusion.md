@@ -51,3 +51,4 @@ Sensitivity analysis excluding 24 laboratory-based effect sizes from Meta-Analys
 - [The anxiety–achievement correlation varies across types of language achievement measures](anxiety-achievement-varies-by-achievement-measure-type.md) — related
 - [More frequent exams are associated with better learning outcomes, including better grades and lower dropout, in classroom comparisons](frequent-exams-better-outcomes-leeming.md) — related
 - [Developmental stage moderates the mind-set–achievement correlation, which is nonsignificant for adults](developmental-stage-moderates-mindset-correlation.md) — related
+- [No correlation between an intervention's attitude effect and its achievement effect across studies](no-attitude-achievement-correlation-across-studies.md) — related

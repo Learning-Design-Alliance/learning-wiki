@@ -72,3 +72,4 @@ Q-test moderator analyses in the same meta-analysis examined whether between-stu
 - [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — related
 - [Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)](minimal-guidance-inquiry-inferior-explicit-instruction.md) — related
 - [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — a broader claim this one bears on
+- [Guidance increases the effectiveness of inquiry-based learning, and all six guidance types were equally effective](guidance-boosts-inquiry-half-sd.md) — related
