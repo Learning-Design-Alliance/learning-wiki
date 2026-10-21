@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (12 for, 8 mixed) · 20 studies (5 causal, 5 review, 3 associational, 3 qualitative, 2 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 3 of 20 report an effect size · 19 claims rest on one study
+> **Evidence** · 21 claims (13 for, 8 mixed) · 21 studies (5 causal, 5 review, 3 quant-synthesis, 3 associational, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 21 report an effect size · 20 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -72,6 +72,7 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [The grade effect of learning-strategy differentiation is driven by instruction-dependent and instruction-independent students, not the average group](../claims/grade-effect-driven-by-dependent-independent-groups.md) [~W]
 - [Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect](../claims/mastery-probability-covariate-ancova-favors-adaptive.md) [~W]
 - [Personalization and differentiated instruction are rare in blended learning designs](../claims/personalization-limited-blended-designs.md) [~W]
+- [Adaptive scaffolding shows descriptively higher effects than adaptable scaffolding in simulation-based learning, though the difference is not statistically significant](../claims/adaptive-scaffolding-descriptively-higher-than-adaptable.md) [+W]
 
 ## The evidence by question
 - *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]

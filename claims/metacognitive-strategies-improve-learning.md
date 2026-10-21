@@ -129,3 +129,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](srl-strategies-large-effect-academic-achievement.md) — related
 - [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](low-prior-knowledge-students-struggle-self-regulation.md) — related
 - [Elementary teachers more often instruct cognitive strategies than metacognitive strategies during a standardized lesson](teachers-instruct-cognitive-more-than-metacognitive-strategies.md) — related
+- [Self-regulated reading processes are positively associated with reading and learning outcomes](self-regulated-reading-associated-with-outcomes.md) — a narrower finding that bears on this claim

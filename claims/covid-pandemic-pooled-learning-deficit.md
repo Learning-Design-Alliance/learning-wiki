@@ -69,3 +69,5 @@ Interpretive benchmarking against cited literature that students gain about 0.4 
 - [COVID-19 restrictions inhibited implementation of later activities in the learning sequence](covid-restrictions-later-activities-inhibited.md) — related
 - [The achievement divide between high and low achievers widened significantly over the last two years of the pandemic](achievement-divide-widened-significantly.md) — related
 - [Low achievers experienced larger initial pandemic impacts and less improvement during 2021-22](low-achievers-larger-impacts-less-improvement.md) — related
+- [Covid-19 school closures depressed student achievement on average by about 0.19 standard deviations](covid-closures-average-learning-deficit-0-19-sd.md) — related
+- [Pandemic-related learning delays did not statistically differ across primary, secondary and tertiary education levels](covid-learning-delays-similar-across-education-levels.md) — a narrower finding that bears on this claim

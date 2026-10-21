@@ -56,3 +56,4 @@ Theoretical argument in the article's review section: questionnaires aimed at 'o
 - [External validity of the special-issue strategy measures was mixed: low-to-moderate comprehension correlations for Bräten and Strømsø and Magliano et al., indeterminate for Schellings and Winne and Muis](external-validity-mixed-across-new-strategy-instruments.md) — related
 - [Task-based and questionnaire-based EF measures show consistently low correlations and may assess partially distinct phenomena](ef-task-questionnaire-low-correlations.md) — related
 - [A general self-report metacognition questionnaire shows no relationship with word problem solving performance and no convergence with on-line metacognitive measures in grade 5](self-report-questionnaire-no-convergence-online-metacognition.md) — related
+- [Think-aloud reports are incomplete and sometimes nonveridical, particularly for metacognitive processes](think-aloud-veridicality-incomplete-reports.md) — related

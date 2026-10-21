@@ -57,3 +57,4 @@ Mixed-effects regression on posttest problem scores with Condition and Prior Kno
 - [Scaffolding mitigated the limiting effect of low prior knowledge: prior knowledge predicted posttest irrelevant-evidence reasoning only under the control condition](scaffolds-mitigate-prior-knowledge-limit.md) — related
 - [Study performance moderated the training effect: high-achieving students benefited at posttest, low performers did not](study-performance-moderates-training-effect.md) — related
 - [Scaffolded third-graders outperformed control students on reasoning based on irrelevant evidence after instruction](scaffolds-improve-irrelevant-evidence-reasoning-third-graders.md) — related
+- [Adaptive scaffolding combined with adaptable task progression is descriptively most effective for high prior knowledge learners but not for low prior knowledge learners](adaptive-scaffolding-adaptable-progression-high-prior-knowledge.md) — reports the opposite

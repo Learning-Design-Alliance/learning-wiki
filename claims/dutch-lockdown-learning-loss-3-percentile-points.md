@@ -56,3 +56,5 @@ Difference-in-differences analysis of biannual national test scores (n ≈ 350,0
 - [Most of the lockdown learning loss reflects reduced knowledge learned rather than transitory day-of-test influences](learning-loss-reflects-knowledge-learned-not-transitory.md) — related
 - [Year 3 students in low-ICSEA schools achieved significantly less mathematics growth in 2020, equivalent to two months less than the 2019 cohort](covid19-year3-low-icsea-two-months-less-math-growth.md) — related
 - [Average fall 2021 reading scores in Grades 3–8 were .09–.18 SD lower than same-grade peers' fall 2019 scores](covid-reading-decline-009-018-sd-grades-3-8.md) — related
+- [Covid-19 school closures depressed student achievement on average by about 0.19 standard deviations](covid-closures-average-learning-deficit-0-19-sd.md) — related
+- [One year or more after the first lockdown, students had not recovered the learning deficits caused by Covid-19 school closures](covid-no-catch-up-one-year-after-lockdown.md) — related

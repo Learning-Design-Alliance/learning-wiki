@@ -18,7 +18,7 @@ sources:
 # Adaptive Difficulty
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 8 studies (2 quant-synthesis, 2 design, 1 causal, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 8 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 9 studies (3 quant-synthesis, 2 design, 1 causal, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 9 report an effect size · 7 claims rest on one study
 
 ## Description
 Adaptive difficulty adjusts task challenge in response to learner performance so work remains demanding enough to promote growth without becoming discouraging or trivial.
@@ -58,6 +58,7 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation](../claims/effort-guided-adaptive-test-alleviates-mistargeting.md) [~W]
 - [In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest](../claims/optimal-challenge-sustains-gaming-engagement.md) [+W]
 - [Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect](../claims/mastery-probability-covariate-ancova-favors-adaptive.md) [~W]
+- [Adaptable task progression is descriptively more beneficial than fixed task progression in simulation-based learning](../claims/adaptable-task-progression-higher-effects.md) [+W]
 
 ## The evidence by question
 

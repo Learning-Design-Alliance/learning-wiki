@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 2 mixed, 2 against) · 18 studies (9 causal, 5 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 4 of 18 report an effect size · 7 claims rest on one study
+> **Evidence** · 13 claims (8 for, 3 mixed, 2 against) · 19 studies (9 causal, 5 quant-synthesis, 3 review, 2 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 9 claims rest on one study
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -59,6 +59,8 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - [Embodied learning significantly improves vocabulary learning outcomes compared with non-embodied conditions in between-subject designs (Hedges' g = 0.65)](../claims/embodied-learning-between-subject-vocabulary-g-0-65.md) [+W]
 - [Movement-meaning congruency is the only moderator consistently associated with stronger embodied vocabulary learning effects across both research designs](../claims/movement-meaning-congruency-moderates-vocabulary-learning.md) [~W]
 - [Amount of sensorimotor engagement, target language, proficiency, and type of embodied interaction do not significantly moderate embodied vocabulary learning effects](../claims/non-significant-moderators-embodied-vocabulary.md) [+W]
+- [A prior meta-analysis reports that embodied designs helped improve learning efficiency and academic performance in education, including language education](../claims/zhang-meta-analysis-embodied-designs-improve-learning.md) [+M]
+- [Empirical research on embodied learning in language education is a small but rapidly growing area, with 41 studies identified and most published 2019–2020](../claims/embodied-language-learning-research-growing-41-studies.md) [~W]
 
 ## The evidence by question
 

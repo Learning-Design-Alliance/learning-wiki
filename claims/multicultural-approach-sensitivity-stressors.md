@@ -51,3 +51,4 @@ Narrative review attribution in the Person dimension section: the article states
 - [The six key principles of a trauma-informed approach span safety, trustworthiness, peer support, collaboration, empowerment, and cultural issues](six-key-principles-trauma-informed-approach.md) — related
 - [Culturally and religiously grounded educational contexts function as sensitivity amplifiers revealing conditional dynamics of AI integration](value-based-contexts-sensitivity-amplifiers.md) — related
 - [Review reports a multicultural collaborative competence model offering a more vivid image of online intergroup discussion quality than a general model](editorial-mcc-vivid-image-collaboration-sensitive-topics.md) — related
+- [Dialogic leadership values diversity as an asset and fosters inclusion of marginalized groups](dialogic-leadership-diversity-inclusion.md) — related

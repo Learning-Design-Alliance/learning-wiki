@@ -185,3 +185,4 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [Teachers in the chemistry learning study concluded that what counts is not active participation but experiencing a pattern of variation and invariance that allows discernment](teachers-learned-pattern-of-variation-counts.md) — related
 - [The effectiveness of open-ended prompts varies by grade level and collaboration, with individual written prompts not supporting fifth and sixth grade comprehension but peer discussion and older students' use showing positive outcomes](open-ended-prompts-effectiveness-varies-grade-collaboration.md) — related
 - [Reading comprehension strategy programs in grades 3–6 yield a medium average effect size of 0.34](grades36-comprehension-programs-es-034.md) — related
+- [DLGs create egalitarian spaces for dialogue and exchange in which pupils contribute most of the talk](dlg-spaces-dialogue-exchange-pupil-talk.md) — related

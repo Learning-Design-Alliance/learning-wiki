@@ -49,6 +49,7 @@ The review recommends that future research and learning-technology design exploi
 - [Combine log-derived behavioral engagement measures with process data and self-report to assess learner engagement in AI-supported practice](combine-log-effort-with-process-and-selfreport-data.md)
 - [Study effort regulation in real-world, personally relevant contexts over longer timeframes, including via ecological momentary assessment](study-effort-regulation-real-world-contexts.md)
 - [Use automated mind-wandering detection in attention-aware learning technologies to trigger real-time interventions that promote SRL strategies](attention-aware-mw-detection-srl-interventions.md)
+- [Future team-learning change research should use mixed methods with more than three measurement points in short intervals](mixed-methods-many-measurement-points-team-learning.md)
 
 ## Examples
 -

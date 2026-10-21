@@ -45,6 +45,7 @@ A core BARR strategy is regular teacher team meetings: "teacher teams meeting re
 - [Data-Based Decision-Making for Core Instruction](data-based_decision-making_for_core_instruction.md)
 - [Formative Assessment to Gauge Student Progress and Guide Instruction](formative_assessment_to_gauge_student_progress_and_guide_instruction.md)
 - [Run regular teacher-team data meetings around student-level indicator reports to identify struggling students, assign interventions, and coordinate support](ewi-team-data-meetings-coordinate-interventions.md)
+- [Schedule regular meetings and keep learning spaces openly available to enable dialogic leadership](regular-meetings-and-open-learning-spaces-for-dialogic-leadership.md)
 
 ## Examples
 -

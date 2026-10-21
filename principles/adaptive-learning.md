@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (30 for, 26 mixed, 4 against) · 59 studies (22 causal, 14 review, 8 design, 6 quant-synthesis, 5 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 59 report an effect size · 53 claims rest on one study
+> **Evidence** · 62 claims (32 for, 26 mixed, 4 against) · 60 studies (22 causal, 14 review, 8 design, 7 quant-synthesis, 5 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 60 report an effect size · 55 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,6 +180,8 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Individualized Knowledge Tracing parameters fit student data significantly better and change mastery-learning practice decisions for many students](../claims/individualized-kt-parameters-change-practice-decisions.md) [~W]
 - [Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect](../claims/mastery-probability-covariate-ancova-favors-adaptive.md) [~W]
 - [A multi-skill prior strategy yielded lower prediction error in 33 of 42 problem sets](../claims/multi-skill-prior-strategy-best-prediction-error.md) [~W]
+- [Adaptive scaffolding shows descriptively higher effects than adaptable scaffolding in simulation-based learning, though the difference is not statistically significant](../claims/adaptive-scaffolding-descriptively-higher-than-adaptable.md) [+W]
+- [Adaptable task progression is descriptively more beneficial than fixed task progression in simulation-based learning](../claims/adaptable-task-progression-higher-effects.md) [+W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

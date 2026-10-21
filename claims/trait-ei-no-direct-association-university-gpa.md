@@ -53,3 +53,4 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [Trait self-control is significantly associated with major GPA beyond fluid reasoning and conscientiousness in vocational trainees](trait-self-control-incremental-mgpa-vocational-trainees.md) — related
 - [Previous academic performance is the strongest predictor of university GPA, and adding cognitive predictors raises explained variance to about 44–50%](previous-ap-strongest-predictor-gpa-up-to-50-percent.md) — related
 - [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](skt-srl-no-gpa-correlation.md) — related
+- [Metacognitive and composite SRL strategy measures show the strongest relationships with learning performance in continuing education](srl-strategy-type-performance-differences.md) — related

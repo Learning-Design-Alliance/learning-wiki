@@ -48,3 +48,4 @@ The study's comparative assertion that its observed declines are "more substanti
 - The COVID-19 pandemic increased classroom disruptions and negatively affected students' social and emotional development — related
 - [COVID-19 restrictions inhibited implementation of later activities in the learning sequence](covid-restrictions-later-activities-inhibited.md) — related
 - [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — related
+- [One year or more after the first lockdown, students had not recovered the learning deficits caused by Covid-19 school closures](covid-no-catch-up-one-year-after-lockdown.md) — related

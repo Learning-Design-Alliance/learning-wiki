@@ -51,3 +51,5 @@ Bivariate comparison grouping estimates from Brazil, Colombia, Mexico and South 
 - [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — related
 - [Learning deficits during the pandemic are larger in maths than in reading](covid-deficits-larger-maths-than-reading.md) — related
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
+- [Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies](covid-deficit-larger-quasi-experimental-designs.md) — related
+- [Estimated learning deficits are smaller in European studies than in studies from the rest of the world](covid-deficit-smaller-europe-than-rest-of-world.md) — related

@@ -315,3 +315,4 @@ Open questions that evidence entries should address include: which strategy fami
 - [AI introduced without pedagogical scaffolding can replace rather than reinforce learners' self-regulatory processes](unscaffolded-ai-replaces-self-regulation.md) — related
 - [Attention and self-regulation skills are trainable in children, with reported behavioral and neural changes across curricula and intervention programs](attention-training-interventions-evidence-note.md) — related
 - The evidence base is concentrated in self-reported metacognitive regulation, with planning support and non-self-report measures under-represented — related
+- [Self-regulated reading processes are positively associated with reading and learning outcomes](self-regulated-reading-associated-with-outcomes.md) — a narrower finding that bears on this claim

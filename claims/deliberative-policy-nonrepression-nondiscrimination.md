@@ -48,3 +48,4 @@ The review's analysis of deliberative educational policy reports Gutmann's two p
 - [The authors argue deliberative democracy theory needs elaboration to reflect real-life politics](deliberative-democracy-theory-needs-real-life-elaboration.md) — related
 - [Families appreciated school engagement efforts, but some family and community members expressed dissatisfaction with their inclusion in school governance](family-engagement-appreciation-governance-dissatisfaction.md) — related
 - [Participatory discourse privileges action and praxis over communication and consensus, and treats elitism as antidemocratic](participatory-discourse-action-praxis.md) — related
+- [Dialogic leadership is democratic: every participating individual has agency and power in decision-making](dialogic-leadership-democratic-decision-making.md) — related

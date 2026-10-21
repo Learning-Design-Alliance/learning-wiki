@@ -53,3 +53,5 @@ The primer's social-and-cognitive-benefits section reports, citing Clarke et al.
 - [Familiarity with the target improves SPT accuracy](target-familiarity-improves-spt-accuracy.md) — related
 - [Collaborative technologies support learning by enabling learners to share and exchange both ideas and their own digital products](collaborative-technologies-enable-sharing-ideas-and-digital-products.md) — related
 - [The Grade 10 Visual Arts class was the only class to engage in social (chitchat) discourse, which the authors suggest may reflect a warm classroom climate](chitchat-only-in-visual-arts-class.md) — related
+- [Participation in dialogic-interaction interventions is associated with improved well-being, self-confidence and quality of life](dialogic-leadership-improves-wellbeing-self-confidence.md) — related
+- [Dialogic leadership is associated with increased social cohesion, including social unity, lasting friendships and greater community involvement](dialogic-leadership-increases-social-cohesion.md) — related

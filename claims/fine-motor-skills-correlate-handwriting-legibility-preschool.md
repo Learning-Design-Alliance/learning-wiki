@@ -88,3 +88,4 @@ Pearson correlation in the same 52-child sample between handwriting legibility a
 - [Explicit Handwriting Instruction Improves Legibility](explicit-handwriting-instruction-improves-legibility.md) — related
 - [Only in the 5th-grade group were moderate positive correlations found, between visual-motor integration and motor coordination (r = 0.748) and between visual perception and dysgraphia classification (r = 0.643)](grade5-correlations-vmi-mc-vp-dysgraphia.md) — related
 - [Automaticity of handwriting predicts orthographic skills even when visual-motor integration is included in the model](automaticity-predicts-orthographic-skills.md) — related
+- [Fine motor skills show a significant moderate overall correlation (r = .329) with academic-cognitive skills in children and adolescents](fms-moderate-correlation-academic-cognitive.md) — related

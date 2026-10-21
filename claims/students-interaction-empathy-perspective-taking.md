@@ -67,3 +67,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Included research studies suggest TES with land-based and experiential pedagogies deepens student engagement in post-secondary education](tes-land-based-experiential-engagement.md) — related
 - [Review reports exposure abroad alone does not guarantee gains in social-change competencies, calling the learning mechanism a black box](social-change-exposure-black-box.md) — related
 - [Students enact agency toward groups by fostering relational awareness, building interpersonal relationships, holding dialogue, and seeing from other perspectives](agency-toward-groups-actions.md) — related
+- [Drama and theatre-based work forms in teacher education are associated with equity-related outcomes including empathy, perspective-taking, collaboration, attitude shifts, and advocacy](drama-work-forms-equity-outcomes-empathy-advocacy.md) — related

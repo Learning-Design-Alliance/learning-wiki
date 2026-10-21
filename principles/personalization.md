@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 74 claims (36 for, 32 mixed, 6 against) · 75 studies (25 review, 20 causal, 8 qualitative, 8 theoretical, 5 associational, 5 design, 4 quant-synthesis), `q1`–`q4` · 7 of 75 report an effect size · 69 claims rest on one study
+> **Evidence** · 75 claims (36 for, 33 mixed, 6 against) · 76 studies (25 review, 20 causal, 8 qualitative, 8 theoretical, 5 quant-synthesis, 5 associational, 5 design), `q1`–`q4` · 7 of 76 report an effect size · 70 claims rest on one study
 
 ## Conditional relationship
 
@@ -184,6 +184,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 ## Claims
 
 - [Teachers in African mainstream classrooms responded to diverse learner needs through curriculum and task adaptations and individualized instruction](../claims/teachers-adapt-curriculum-tasks-individualized-instruction-africa.md) [+W]
+- [Most primary studies in simulation-based learning do not personalize scaffolding or task progression](../claims/most-studies-lack-personalization.md) [~W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing
@@ -209,6 +210,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Mathbot](../products/mathbot.md)
 - [Choose individual texts and videos appropriate for specific students rather than deciding by representational format](../strategies/choose-materials-individually-not-by-format.md)
 - [Tailor practice format to students' motivational profiles, particularly baseline self-efficacy and format favorability](../strategies/tailor-practice-format-to-motivational-profiles.md)
+- [Adapt DLG materials and routines to include students with special educational needs](../strategies/dlg-special-education-adaptation-strategies.md)
 
 ### Validated
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M] — Walkington (2013) personalized algebra word problems to individual learners' out-of-school interests (sports, music, gaming) and found improved performance relative to standard contexts, with the largest gains for struggling learners.

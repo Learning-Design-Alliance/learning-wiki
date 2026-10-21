@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 133 claims (58 for, 68 mixed, 7 against) · 93 studies (31 causal, 18 review, 17 associational, 13 quant-synthesis, 10 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 25 of 93 report an effect size · 122 claims rest on one study
+> **Evidence** · 134 claims (58 for, 69 mixed, 7 against) · 94 studies (31 causal, 18 review, 17 associational, 14 quant-synthesis, 10 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 26 of 94 report an effect size · 123 claims rest on one study
 
 ## Conditional relationship
 
@@ -225,6 +225,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Self-monitoring of work quality requires three student capacities: appreciation of high quality, evaluative skill, and a store of modification tactics](../claims/three-capacities-for-evaluative-self-monitoring.md) [~W]
 - [SRL training programs targeting older students and students with lower prior academic achievement show larger effects on resource management strategies](../claims/student-characteristics-moderate-resource-management-effects.md) [~W]
 - [Task motivation and time on task are proposed as factors potentially influencing SRL intervention effectiveness](../claims/task-motivation-time-on-task-moderators-hypothesis.md) [~W]
+- [Metacognitive and composite SRL strategy measures show the strongest relationships with learning performance in continuing education](../claims/srl-strategy-type-performance-differences.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

@@ -75,3 +75,4 @@ The report cites a recent cost-benefit study of Children's Aid community schools
 - [Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects](positive-school-climate-improves-attendance-achievement.md) — related
 - [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](family-partnership-reduced-chronic-absenteeism-15-percent.md) — a narrower finding that bears on this claim
 - [Comprehensive community school interventions show positive impacts on student outcomes including attendance, achievement, graduation, and reduced achievement gaps](community-schools-comprehensive-positive-impact.md) — a broader claim this one bears on
+- [Implementing dialogic leadership is associated with improved academic outcomes, reduced absenteeism and increased learning progress](dialogic-leadership-improves-academic-outcomes.md) — related

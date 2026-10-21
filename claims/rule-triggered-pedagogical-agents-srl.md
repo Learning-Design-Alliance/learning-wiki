@@ -47,3 +47,4 @@ The introduction reports, citing Dever et al. (this issue), an experiment in whi
 - [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
 - [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — related
 - [Personalized scaffolds increased frequencies of high cognition and monitoring relative to control, but learning outcomes did not differ between conditions.](scaffolds-changed-srl-processes-not-outcomes.md) — related
+- [Pedagogical interventions and scaffolds increase learners' use of self-regulated reading strategies](pedagogy-increases-self-regulated-reading-strategies.md) — related

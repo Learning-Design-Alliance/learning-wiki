@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 386 claims (185 for, 180 mixed, 21 against) · 192 studies (97 causal, 45 associational, 14 review, 14 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 72 of 192 report an effect size · 379 claims rest on one study
+> **Evidence** · 387 claims (186 for, 180 mixed, 21 against) · 193 studies (97 causal, 45 associational, 15 review, 14 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 72 of 193 report an effect size · 380 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -429,6 +429,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [The tribute reports students tend to overestimate their sport performance, and four-level model instruction may improve calibration accuracy](../claims/students-overestimate-sport-performance-calibration.md) [+W]
 - [Metacognitive monitoring declines under high working memory load, suggesting functional dependence of MC on WM](../claims/monitoring-declines-under-high-wm-load.md) [+W]
 - [In-person but not online self-regulated multiple-choice students completed fewer restudy trials before their first practice test than cued-recall students.](../claims/restudy-before-first-test-format-interaction.md) [~W]
+- [Think-aloud protocols reveal that self-regulated reading is dynamic across time, responsive to context, and varies by reading purpose](../claims/think-aloud-reveals-dynamic-self-regulated-reading.md) [+W]
 
 ## The evidence by question
 

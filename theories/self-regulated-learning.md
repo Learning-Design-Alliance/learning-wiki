@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 186 claims (89 for, 90 mixed, 7 against) · 145 studies (51 associational, 41 causal, 19 review, 13 quant-synthesis, 8 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 35 of 145 report an effect size · 170 claims rest on one study
+> **Evidence** · 193 claims (92 for, 94 mixed, 7 against) · 147 studies (51 associational, 41 causal, 20 review, 14 quant-synthesis, 8 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 36 of 147 report an effect size · 177 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -233,6 +233,13 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [AI-directed problem selection may diminish the metacognitive dimension of self-testing while preserving retrieval practice](../claims/ai-directed-self-testing-diminishes-metacognitive-judgment.md) [~W]
 - [The learning patterns model differs from SRL models by being multi-dimensional, non-normative, and including external regulation and lack of regulation](../claims/learning-patterns-versus-srl-models.md) [~W]
 - [Daily SR of students is positively associated with their perceived daily academic success at the within-person level](../claims/daily-sr-within-person-academic-success.md) [+W]
+- [SRL strategies in continuing education are significantly and positively related to learning performance and learner engagement, and negatively to avoidance behavior](../claims/srl-strategies-ce-learning-process-outcomes.md) [+W] — attached 2026-10-21 from Yvonne M. Hemmler (2024), which proposed "Four-category framework of factors associated with SRL strategies in continuing education".
+- [Demographic and experience-related learner factors show no or only weak relationships with SRL strategies in continuing education](../claims/srl-strategies-ce-learner-factors-null-weak.md) [~W] — attached 2026-10-21 from Yvonne M. Hemmler (2024), which proposed "Four-category framework of factors associated with SRL strategies in continuing education".
+- [Work-related factors (organizational learning culture, job control, job demands) are significantly positively related to SRL strategies in continuing education](../claims/srl-strategies-ce-work-related-factors.md) [~W] — attached 2026-10-21 from Yvonne M. Hemmler (2024), which proposed "Four-category framework of factors associated with SRL strategies in continuing education".
+- [Instructional design features of CE activities (peer interaction, feedback, self-assessments, flipped classroom) are positively associated with SRL strategies](../claims/ce-instructional-features-associated-srl.md) [+M] — attached 2026-10-21 from Yvonne M. Hemmler (2024), which proposed "Four-category framework of factors associated with SRL strategies in continuing education".
+- [Operationalization of variables, setting, and work-relatedness of the CE activity moderate the relationships between SRL strategies and associated factors](../claims/srl-ce-moderators-operationalization-setting-work-relatedness.md) [~W]
+- [Think-aloud protocols reveal that self-regulated reading is dynamic across time, responsive to context, and varies by reading purpose](../claims/think-aloud-reveals-dynamic-self-regulated-reading.md) [+W]
+- [Metacognitive and composite SRL strategy measures show the strongest relationships with learning performance in continuing education](../claims/srl-strategy-type-performance-differences.md) [~W]
 
 ## The evidence by question
 

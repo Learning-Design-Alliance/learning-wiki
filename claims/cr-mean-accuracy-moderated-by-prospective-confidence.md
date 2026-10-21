@@ -65,3 +65,4 @@ Johnson-Neyman probing of the Mean Accuracy moderation showed the CR-versus-cont
 - [Eliciting confidence ratings leads to poorer metacognitive monitoring in older adults](cr-poorer-metacognitive-monitoring-miscalibration.md) — related
 - [Confidence ratings shift time allocation on a timed task in opposite directions for high- versus low-confidence older adults](cr-response-time-moderated-by-prospective-confidence.md) — related
 - [Eliciting confidence ratings produces no significant difference in overall accuracy on a timed reasoning task in older adults](cr-no-overall-accuracy-effect-older-adults.md) — related
+- [Think-aloud reactivity effects on reading outcomes are inconclusive, moderated by report type, task language, and participant age](think-aloud-reactivity-inconclusive-moderated.md) — related

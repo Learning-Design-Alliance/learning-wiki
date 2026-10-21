@@ -56,3 +56,4 @@ Country categorization of all 183 publications by author affiliations shows "73%
 - [RL-based educational applications concentrate on STEM subjects (n = 39 of 62 papers specifying a subject) and on college/higher-education learners (n = 30), with 36 papers not specifying a target group](rl-education-stem-higher-ed-concentration.md) — related
 - [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related
 - The 209 included articles were primarily North American (132), mostly qualitative in design, with 15% quantitative, 15% mixed methods, and nearly a fifth non-empirical — related
+- [The evidence base is dominated by US studies and quantitative designs, with sample sizes ranging from one teacher to 53 schools and 1,323 teachers](descriptive-overview-51-studies.md) — related
