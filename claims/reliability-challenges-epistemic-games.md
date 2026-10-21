@@ -66,3 +66,4 @@ Theoretical argument in the paper's reliability section. The authors argue that 
 - [Easy, highly specific simulated tasks compress the range of the WD statistic across learner types, while well-designed tasks widen it](easy-highly-specific-tasks-shrink-wd-range.md) — related
 - [In simulated epistemic games, the weighted density statistic distinguishes simulated learner types with distinct mastery trajectories, with the expert trajectory showing the largest WD values](wd-detects-simulated-learner-trajectory-differences.md) — related
 - [Measurement models based on vaguely quantified behavioral frequency reports differ in structure from those based on numerically quantified reports](vague-vs-numeric-frequency-measurement-models-differ.md) — related
+- [Formal education exhibits the defining properties of a complex system](education-as-complex-system-properties.md) — related

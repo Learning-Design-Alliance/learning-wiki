@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 198 claims (129 show a difference, 40 mixed, 29 no difference) · 145 studies (97 associational, 25 causal, 5 review, 5 qualitative, 5 theoretical, 4 quant-synthesis, 4 design), `q1`–`q4` · 24 of 145 report an effect size · 190 claims rest on one study
+> **Evidence** · 199 claims (130 show a difference, 40 mixed, 29 no difference) · 146 studies (97 associational, 25 causal, 6 review, 5 qualitative, 5 theoretical, 4 quant-synthesis, 4 design), `q1`–`q4` · 24 of 146 report an effect size · 191 claims rest on one study
 
 ## How to read this page
 
@@ -236,6 +236,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Perceived biased treatment linked to brilliance-oriented FABs explains a substantial portion of the gender gap in entry into brilliance-oriented fields](../claims/biased-treatment-explains-gender-gap-entry.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The learning benefit of mathematics test practice is larger for boys than for girls](../claims/math-practice-effect-larger-for-boys.md) [+M] — an instructional effect differs by group
 - [No gender differences in writing self-efficacy were found in any included postsecondary study](../claims/no-gender-differences-writing-self-efficacy.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Studies reporting age and gender differences in student engagement unanimously show higher engagement for girls and younger students](../claims/girls-younger-students-higher-engagement.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

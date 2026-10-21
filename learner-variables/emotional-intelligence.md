@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 37 claims (29 show a difference, 3 mixed, 5 no difference) · 28 studies (8 causal, 7 review, 6 quant-synthesis, 5 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 28 report an effect size · 36 claims rest on one study
+> **Evidence** · 39 claims (30 show a difference, 3 mixed, 6 no difference) · 29 studies (8 causal, 8 review, 6 quant-synthesis, 5 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 29 report an effect size · 38 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -73,6 +73,8 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Emotion differentiation is linked to more effective emotion regulation and more accurate understanding of others' emotions](../claims/emotion-differentiation-linked-regulation-and-understanding.md) [+M] — learners who differ on it differ in outcomes
 - [Studies of emotional training of aspiring and practicing teachers report positive outcomes for dealing with emotions and reducing stress and burnout](../claims/teacher-emotional-training-studies-positive-outcomes.md) [+M] — instruction changes it
 - [Teachers' authentic emotional expression supports instructional clarity and student emotions, while concealment lowers perceived clarity](../claims/authentic-teacher-emotional-expression-benefits.md) [+M] — learners who differ on it differ in outcomes
+- [Most studies show social and emotional competencies are positively associated with student engagement and negatively associated with disengagement across school levels and backgrounds](../claims/secs-positively-associated-student-engagement.md) [+W] — learners who differ on it differ in outcomes
+- [Some SECs show no association with engagement dimensions in individual studies, including emotion regulation with behavioural engagement and intentional self-regulation compensation](../claims/null-associations-some-secs-engagement.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

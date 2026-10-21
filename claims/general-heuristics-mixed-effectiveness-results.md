@@ -48,3 +48,4 @@ The review reports that studies of Larson's and Odell's general question-based h
 - [Hillocks's meta-analysis found task-specific composing instruction the most effective focus contrasted](hillocks-task-specific-focus-most-effective.md) — related
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related
 - [Hillocks's meta-analysis found task-specific inquiry-focused instruction the most effective composition focus contrasted](hillocks-metaanalysis-task-specific-inquiry-most-effective.md) — related
+- [Program-based studies show mixed results: a large inquiry-curriculum study found higher achievement, while two carefully designed comparison studies found no differences](program-based-studies-mixed-results.md) — related

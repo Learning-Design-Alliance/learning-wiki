@@ -90,3 +90,4 @@ The Effectiveness Summary section states the WWC rating rationale: one study sho
 - [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](clustering-effects-large-school-samples-education-trials.md) — related
 - [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — related
 - [The WWC rates The Expert Mathematician as having potentially positive effects on middle school mathematics achievement](wwc-potentially-positive-rating-expert-mathematician.md) — a narrower finding that bears on this claim
+- [Earlier meta-analyses report small positive effects for computer-assisted literacy instruction (0.19; 0.16)](prior-meta-analyses-small-positive-effects.md) — related

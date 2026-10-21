@@ -95,3 +95,4 @@ The review synthesises behavioural outcomes across three guiding-analytics studi
 - [Poorly designed or misused assessment practices can harm students through increased anxiety, lost learning time, and deficit-based messages](poor-assessment-practices-harm-students-anxiety-lost-time.md) — related
 - [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](srl-training-programmes-improve-outcomes.md) — related
 - [An LLM-based Q&A practice system reduced presentation anxiety and improved perceived preparedness among first-time conference participants](llm-qa-practice-reduces-presentation-anxiety.md) — related
+- [LA-enhanced feedback practices are associated with improved student academic performance, the most frequently reported pedagogical objective (37% of studies)](la-feedback-academic-performance-improved.md) — related

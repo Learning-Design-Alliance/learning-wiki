@@ -52,3 +52,4 @@ Mixed-effects moderator analysis of developmental stage in Meta-Analysis 1 was s
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related
 - [Academic risk status does not significantly moderate the mind-set–achievement correlation](academic-risk-not-moderator-mindset-correlation.md) — related
 - [Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04](achievement-measure-moderator-lab-exclusion.md) — related
+- [No correlation between an intervention's attitude effect and its achievement effect across studies](no-attitude-achievement-correlation-across-studies.md) — related

@@ -42,6 +42,7 @@ The article recommends developing "a theoretically grounded data structure for s
 ## Related Strategies
 
 - [Validate the empirical-findings component and balance alignment against generalizability when injecting prior study results into agent prompts](validate-empirical-findings-component-balance.md)
+- [Study learning dynamics through intensive, long-term, fine-grained repeated observation](intensive-longitudinal-complexity-inquiry.md)
 
 ## Examples
 -

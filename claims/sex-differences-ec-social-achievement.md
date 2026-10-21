@@ -58,3 +58,4 @@ T tests in the longitudinal sample (N=214 at T1) showed girls higher on all thre
 - [Boys received significantly more process praise than girls, despite equal overall praise](boys-more-process-praise-than-girls.md) — reports the opposite
 - [Boys scored significantly higher than girls on IQ in the sample (p=.001)](sex-difference-iq-boys-higher-sample.md) — related
 - [Gender was not significantly correlated with social–emotional competence in this sample, though it functioned as a moderator](no-zero-order-gender-difference-in-preschoolers-social-emotional-competence.md) — related
+- [Studies reporting age and gender differences in student engagement unanimously show higher engagement for girls and younger students](girls-younger-students-higher-engagement.md) — related

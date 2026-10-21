@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 45 claims (34 show a difference, 6 mixed, 5 no difference) · 39 studies (10 causal, 9 qualitative, 8 review, 5 associational, 4 design, 3 theoretical), `q1`–`q3` · 3 of 39 report an effect size · 45 claims rest on one study
+> **Evidence** · 46 claims (35 show a difference, 6 mixed, 5 no difference) · 40 studies (10 causal, 9 review, 9 qualitative, 5 associational, 4 design, 3 theoretical), `q1`–`q3` · 3 of 40 report an effect size · 46 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -87,6 +87,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Collaborative and individual problem solving in traditional PF do not differ in conceptual knowledge after instruction](../claims/pf-collaborative-individual-no-conceptual-knowledge-difference.md) [-M] — learners who differ on it differ in outcomes
 - [Participants reported increased confidence, readiness and teamwork after completing the SimLab programme](../claims/simlab-confidence-teamwork-gains.md) [+M] — instruction changes it
 - [The effectiveness of open-ended prompts varies by grade level and collaboration, with individual written prompts not supporting fifth and sixth grade comprehension but peer discussion and older students' use showing positive outcomes](../claims/open-ended-prompts-effectiveness-varies-grade-collaboration.md) [~M] — an instructional effect differs with it
+- [Students enact agency toward groups by fostering relational awareness, building interpersonal relationships, holding dialogue, and seeing from other perspectives](../claims/agency-toward-groups-actions.md) [+M] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

@@ -58,9 +58,11 @@ Communication boards convert expressive language demands into recognition and se
 5. **Monitor and expand** — track communicative functions used, add vocabulary as the learner plateaus, and fade partner prompting toward spontaneous initiation.
 
 ## Related Strategies
+
 - [Accommodations](../elements/accommodations.md) — communication boards function as an expressive-language accommodation within broader universal design
 - [Visual Supports](visual-supports.md) — boards are one member of the visual-support family that also includes schedules and cue cards
 - [Peer-Mediated Instruction](peer-mediated-instruction.md) — training classmates as communication partners is among the strongest evidence-based delivery models for AAC
+- [Enable students with complex communication needs to respond nonverbally by pointing to multiple-choice answer options during shared text reading](nonverbal-response-modes-aac-shared-reading.md)
 
 ## Examples
 - **[Project Core](http://www.project-core.com)** (UNC Chapel Hill) — a research-validated implementation of low-tech core boards with professional development for teachers of students with significant disabilities.

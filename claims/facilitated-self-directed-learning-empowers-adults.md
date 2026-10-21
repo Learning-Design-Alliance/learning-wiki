@@ -70,3 +70,4 @@ First-person case reflection from the author's adult education classroom experie
 - [Former students reported positive changes in self-perception and self-confidence after participating in prison higher education](prison-college-improved-self-perception-women.md) — related
 - [Immigration discussion frequency shows no significant association with critical reflection or sociopolitical efficacy](immigration-discussion-null-critical-consciousness.md) — related
 - [Discussing immigration more frequently than fellow GSA members predicts increased perceived peer validation by year's end](immigration-discussion-in-gsas-predicts-peer-validation.md) — related
+- [Participants enact agency through others by empowering across participant categories: educational staff empower students, while societal partners and students empower each other](agency-empowering-others.md) — related

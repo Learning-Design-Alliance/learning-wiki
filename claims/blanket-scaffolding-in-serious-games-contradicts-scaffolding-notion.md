@@ -46,3 +46,4 @@ A literature-analysis section (§4 Problems and Solutions) of this narrative rev
 
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Instructional support suited to novices can have negative effects for more expert learners (expertise-reversal effect), so instructional design should be tailored to learner experience](expertise-reversal-effect.md) — a broader claim this one bears on
+- [Contingency is not treated as a necessary condition of scaffolding in bilingual education research, unlike broader educational research](contingency-not-necessary-condition-bilingual-education-scaffolding.md) — related

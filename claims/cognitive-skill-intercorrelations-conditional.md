@@ -70,3 +70,4 @@ When controlling for both general cognitive ability and a third skill, the FT–
 - [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md) — related
 - [Functional correspondence predicts simulation learning outcomes better than physical resemblance or appeals to authenticity](functional-correspondence-predicts-outcomes.md) — related
 - [Content knowledge is positively related to the quality of evidence elicitation and evidence sharing, but not to hypotheses sharing](content-knowledge-relates-evidence-elicitation-sharing.md) — related
+- [Explicit teaching of the control-of-variables strategy shows no advantage over not explicitly teaching it, per the Schwichow et al. meta-analysis cited in the review](cvs-explicit-teaching-no-advantage.md) — related

@@ -147,12 +147,14 @@ Assisted success in practice, unaided performance in class, performance in the r
 - [Supporting Students with Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — a neighbouring page on another group of students who often share classes and supports
 
 ## Examples
+
 - [Self-Determined Learning Model of Instruction](../products/self-determined-learning-model-of-instruction.md) — students set, plan and review their own goals
 - [Student-Led IEPs](../strategies/student-led-ieps.md) — the student introduces the team, reports progress and states new goals
 - [Visual Schedules](../strategies/visual-schedules.md) — a picture checklist for the steps of a routine
 - [Concrete-Representational-Abstract Sequencing](../strategies/concrete-representational-abstract-cra.md) — teaching arithmetic from objects to pictures to symbols
 - [Acronyms and Acrostics](../strategies/acronyms_and_acrostics.md) — memory cues for facts and vocabulary
 - [Communication Boards](../strategies/communication_boards.md) — a way to respond for students with limited speech
+- [Adapt age-appropriate texts by shortening and simplifying them, and enrich them with pictures, objects, and vocabulary definitions during shared reading](../strategies/adapt-and-enrich-texts-shared-reading-id.md)
 
 ## Key Sources
 - American Association on Mental Retardation. (2002). *Mental retardation: Definition, classification, and systems of supports* (10th ed.).

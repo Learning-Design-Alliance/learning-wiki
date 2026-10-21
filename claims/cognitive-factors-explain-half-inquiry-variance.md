@@ -53,3 +53,4 @@ Hierarchical multiple regression of inquiry task factor scores of 232 young adul
 - [Simulating higher-cognitive-ability students is easier: simulation quality correlates positively with student cognitive score](simulation-quality-correlates-with-cognitive-ability.md) — related
 - [The four collaborative-activity factors jointly explain almost 50% of the variance in group performance](collaboration-factors-explain-half-performance-variance.md) — related
 - [Canfield's learning style variables predicted academic success where cognitive style did not](canfield-learning-style-predicts-academic-success.md) — related
+- [Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction](student-characteristics-moderate-inquiry-effectiveness.md) — related

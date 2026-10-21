@@ -67,3 +67,4 @@ Qualitative finding from the dispositions analysis: dispositions "should not be 
 - [Participation supports were most effective when deliberately matched to the specific constraints participants faced](supports-matched-to-barriers.md) — related
 - [Systematic role rotation structured pre-service educational psychologists' engagement in AI-supported case-based learning by distributing problem-framing, analytical, intervention-oriented, and reflective responsibilities](role-rotation-distributes-professional-engagement-ai-cases.md) — a narrower finding that bears on this claim
 - [Power should be conceptualized as diffuse and structural, and as people's capacity to act under constraint](power-as-structural-and-capacity-to-act.md) — related
+- [Participants enact agency through others by empowering across participant categories: educational staff empower students, while societal partners and students empower each other](agency-empowering-others.md) — related

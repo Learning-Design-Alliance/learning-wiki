@@ -66,3 +66,4 @@ The review reports these two head-to-head comparisons as exceptions to the posit
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
 - [Generating keywords after a delay increases relative judgment accuracy compared with no keyword generation, replicating the keyword effect with a new sample and new materials](keyword-effect-delayed-generation-relative-accuracy-replication.md) — related
 - [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — related
+- [Effect sizes are higher against education-as-usual controls and lower against reading-treatment control conditions](control-condition-moderates-word-reading-effects.md) — related

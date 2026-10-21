@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**965 entries** · 0 stable · 965 in review · 0 drafts
+**966 entries** · 0 stable · 966 in review · 0 drafts
 
 ---
 
@@ -368,6 +368,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Four showcased LER technologies introduced via onboarding videos](four-showcased-ler-technologies.md) - The study introduced participant-advisors to four LER technologies: \"Teacher Wallet (RANDA Solutions), MilGears (SOLID Inc), LearnCard (LEF), and Career Wallet (Velocity Network).\" Each technology partner delivered a...
 * [Four specialized evaluation agents for LLM-generated problems](four-specialized-evaluation-agents-llm-problems.md) - The system employs four agents that each evaluate a different dimension of generated problems: an Authenticity agent evaluating whether the context is age-appropriate and likely to be relatable for middle school learn...
 * [Four structural features plus one instructional choice that foster a classroom community of practice in an advanced laboratory](adlab-structural-features-community-formation.md) - The article identifies four structural features of AdLab: \"Paucity of instructor time\", \"All in the room together\", \"Experiments long and hard\", and \"Same experiments at diﬀerent times\".
+* [Four-challenge framework for designing blended learning environments](four-challenges-blended-learning-design-framework.md) - The article presents a framework organizing blended learning design around four key challenges: incorporating flexibility, stimulating interaction, facilitating students' learning processes, and fostering an affective...
 * [Four-component lesson plan representation schema grounded in curriculum studies and differentiated instruction](adapt-lesson-plan-representation-schema.md) - AdaPT decomposes lesson plans into four components: curriculum standards, learning objectives, learning profile analysis, and learning tasks.
 * [Four-condition communicative task treatment contrasting negative feedback and modified output opportunities](four-condition-communicative-task-treatment.md) - The treatment consisted of a series of communicative tasks carried out with native English speakers under four conditions that differed in the negative feedback and modified output opportunities they provided.
 * [Four-condition computerized training design for implicit, incidental, rule-search, and instructed L2 rule learning](four-condition-computerized-l2-rule-training.md) - A computerized training apparatus in which 104 adult ESL learners were randomly assigned to implicit, incidental, rule-search, or instructed conditions, then judged novel tokens of easy and hard rule sentence types.

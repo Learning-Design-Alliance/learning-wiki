@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 16 claims (5 for, 9 mixed, 2 against) · 25 studies (5 causal, 5 theoretical, 4 quant-synthesis, 4 associational, 3 design, 2 review, 2 qualitative), `q1`–`q4` · 4 of 25 report an effect size · 12 claims rest on one study
+> **Evidence** · 17 claims (6 for, 9 mixed, 2 against) · 26 studies (5 causal, 5 theoretical, 4 quant-synthesis, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 4 of 26 report an effect size · 13 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.
@@ -52,6 +52,7 @@ In instruction, constructivism is less a single method than a family resemblance
 - [In a constructivist learning environment, students' perceptions of assessment shifted toward deeper demands but their actual learning approaches did not, and surface approaches increased](../claims/perception-shift-without-approach-change.md) [-W]
 - [Persistence of inscriptions in the VMT environment supported students explaining postings and establishing collaborative activity](../claims/persistence-affordance-supports-collaborative-explanation.md) [~W]
 - [In a CSCL biology problem-solving session, procedural problem solving tended to dominate students' interactions, with conceptual knowledge construction present only where strictly necessary](../claims/procedural-dominance-cscl-biology.md) [-W]
+- [Teachers oriented towards students and changing students' conceptions are associated with students reporting deeper approaches to learning](../claims/teacher-orientation-deep-approaches.md) [+W]
 
 ## The evidence by question
 - *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]

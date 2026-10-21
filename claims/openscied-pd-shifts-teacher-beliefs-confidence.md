@@ -74,3 +74,4 @@ Same longitudinal survey analysis (Lowell, 2022); the review notes confidence in
 - [Belief that a global environmental problem needs addressing was already high before the workshop and did not significantly change](pph-workshop-no-significant-belief-change.md) — related
 - [Post-course survey respondents reported the most growth on rethinking ideas about disability, with 27 of 33 noting definite growth and 17 describing a shift away from deficit thinking](survey-definite-growth-rethinking-disability.md) — a narrower finding that bears on this claim
 - [Short-term creativity interventions can be effective in changing creativity positively](short-term-interventions-change-creativity.md) — related
+- [Teachers oriented towards students and changing students' conceptions are associated with students reporting deeper approaches to learning](teacher-orientation-deep-approaches.md) — related

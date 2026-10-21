@@ -18,7 +18,7 @@ sources:
 # Progress Tracking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (1 for, 6 mixed) · 6 studies (2 causal, 2 theoretical, 1 review, 1 qualitative), `q1`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (2 for, 6 mixed) · 7 studies (2 causal, 2 review, 2 theoretical, 1 qualitative), `q1`–`q3` · 0 of 7 report an effect size · 8 claims rest on one study
 
 ## Description
 Progress tracking is the element in which learners or instructors monitor advancement through goals, tasks, competencies, or milestones over time. It is useful when visibility into progress supports planning, motivation, and coordination.
@@ -48,6 +48,7 @@ Progress tracking is the element in which learners or instructors monitor advanc
 - [Mirroring-condition teachers consulted the dashboard more often than guiding-condition teachers (137 vs 95 consultations) but missed aspects needing reaction](../claims/mirroring-more-dashboard-consultation-focused-on-content.md) [~W]
 - [Mirroring-condition teachers relied more on indicator views while alerting and advising teachers opened more group overviews](../claims/mirroring-teachers-rely-on-indicators-not-group-overviews.md) [~W]
 - [Reported cognitive load was lowest in the mirroring condition (5.4), compared with no dashboard (5.6) and guiding (6.2)](../claims/mirroring-lowest-reported-cognitive-load.md) [~W]
+- [Face-to-face components are used mainly for orientation while monitoring of learning progress is carried out online](../claims/f2f-orientation-online-monitoring-division.md) [+W]
 
 ## Examples
 

@@ -69,3 +69,4 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - The text generation research field shows a small-study effect suggesting publication bias — reports the opposite
 - No clear evidence of publication bias or small study effects in the collaborative instruction literature — related
 - No evidence of publication bias, and extra-large-sample studies do not differ from the rest — related
+- [Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample](no-publication-bias-teacher-self-efficacy-meta-analysis.md) — related

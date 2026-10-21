@@ -36454,5 +36454,129 @@
  "rewards-incentives\tindividual rewards\tother reward methods": {
   "label": "Individual rewards vs other reward methods",
   "treatment_is_a": true
+ },
+ "active-learning\tsocially embedded and collaborative learning opportunities\tother professional-learning opportunities": {
+  "label": "collaborative/social learning vs other professional learning",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearning through personal interests and ownership\tless personally meaningful or less autonomous participation": {
+  "label": "autonomy-supportive vs controlling instruction",
+  "treatment_is_a": true
+ },
+ "debriefing\tinterventions including guided reflection\tinterventions without guided reflection": {
+  "label": "guided reflection vs no guided reflection",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in text-comprehension strategies\tbaseline or shared reading without explicit strategy instruction": {
+  "label": "explicit text-comprehension strategy instruction vs no explicit text-comprehension strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction of text comprehension strategies\tno explicit instruction of text comprehension strategies": {
+  "label": "explicit text-comprehension strategy instruction vs no explicit text-comprehension strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching the meaning of wh-words\tnot teaching the meaning of wh-words": {
+  "label": "explicit wh-word meaning instruction vs no explicit wh-word meaning instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback on lesson plans\tno feedback on lesson plans": {
+  "label": "feedback on lesson plans vs no feedback on lesson plans",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tintervention including feedback on lesson plans\tintervention without feedback on lesson plans": {
+  "label": "feedback on lesson plans vs no feedback on lesson plans",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tintervention providing feedback on lesson plans\tintervention not providing feedback on lesson plans": {
+  "label": "feedback on lesson plans vs no feedback on lesson plans",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tinterventions providing feedback on lesson plans\tinterventions not providing feedback on lesson plans": {
+  "label": "feedback on lesson plans vs no feedback on lesson plans",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tinterventions providing feedback on observed lessons\tinterventions not providing feedback on observed lessons": {
+  "label": "feedback on observed lessons vs no feedback on observed lessons",
+  "treatment_is_a": true
+ },
+ "prompts\tleast-to-most intrusive prompts during shared reading\tbaseline or shared reading without the strategy": {
+  "label": "least-to-most prompting vs no prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tleast-to-most prompting\tno least-to-most prompting": {
+  "label": "least-to-most prompting vs no prompting",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centred teaching methods\ttraditional or less student-centred teaching": {
+  "label": "active learning vs traditional or less student-centred teaching",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearner-controlled realization of the blend\tinstructor-controlled realization of the blend": {
+  "label": "learner-controlled realization vs instructor-controlled realization",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tInquiry learning combined with direct teacher-based instruction\tOther instructional combinations": {
+  "label": "Inquiry plus direct instruction vs other instructional combinations",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect instruction\tinquiry learning": {
+  "label": "Direct instruction vs inquiry learning",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect-instruction guidance\tfive other guidance types": {
+  "label": "Direct-instruction guidance vs other guidance types",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicitly taught a control-of-variables strategy rule\tcontrol-of-variables strategy rules not explicitly taught": {
+  "label": "Explicitly taught strategy rules vs strategy rules not explicitly taught",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinquiry-based instruction\tdirect instruction": {
+  "label": "Direct instruction vs inquiry learning",
+  "treatment_is_a": false
+ },
+ "feedback-type\twarning feedback with encouragement\twarning-only LA feedback": {
+  "label": "warning feedback with encouragement vs warning-only feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\twarning-only LA feedback\twarning feedback with encouragement": {
+  "label": "warning feedback with encouragement vs warning-only feedback",
+  "treatment_is_a": false
+ },
+ "formative-assessment\tOnline formative peer- and teacher assessment\tFace-to-face assessment": {
+  "label": "online vs face-to-face formative assessment",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tassisted inquiry\texplicit instruction": {
+  "label": "guided discovery vs explicit instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tinquiry-based approaches with guidance\tinquiry-based approaches without guidance": {
+  "label": "guided discovery vs unguided discovery",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tunassisted or unguided discovery\texplicit instruction": {
+  "label": "unguided discovery vs explicit instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdisciplinary literacy scaffolding\tcontent and language scaffolding": {
+  "label": "disciplinary literacy scaffolding vs content-and-language scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tlanguage scaffolding in bilingual education\tscaffolding in broader educational research contexts": {
+  "label": "bilingual education contexts vs broader educational research contexts",
+  "treatment_is_a": true
+ },
+ "scaffolding\tlanguage scaffolding in bilingual secondary education\tnot stated": {
+  "label": "language scaffolding in bilingual secondary education vs unspecified scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding aimed at disciplinary literacy\tscaffolding aimed at content and language": {
+  "label": "disciplinary literacy scaffolding vs content-and-language scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding in bilingual education research\tscaffolding in broader educational research": {
+  "label": "bilingual education contexts vs broader educational research contexts",
+  "treatment_is_a": true
  }
 }

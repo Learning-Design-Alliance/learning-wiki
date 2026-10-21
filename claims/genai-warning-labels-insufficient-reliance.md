@@ -71,3 +71,4 @@ The review reports these reliance findings as consistent with automation-bias re
 - [Better awareness calibration co-occurs with lower incorrect-advice acceptance and lower attribution bias, interpreted associationally only](calibration-negatively-associated-overreliance.md) — related
 - [A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone](reflection-reduces-incorrect-ai-advice-acceptance.md) — related
 - [Providing LLM pre-labels can decrease human annotation accuracy when the model is incorrect, due to automation bias](llm-prelabels-decrease-human-accuracy.md) — related
+- [Warning-only LA feedback can increase mental load, whereas pairing warnings with encouragement leads to higher emotional and cognitive engagement](la-feedback-warnings-encouragement-cognitive-load.md) — related

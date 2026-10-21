@@ -62,3 +62,4 @@ The study tested whether social-emotional factors, including "low academic self-
 - [Rapid guessing on achievement tests tends to be fairly state-like rather than a stable trait-like behavior, compared to academic achievement scores which are fairly stable](rapid-guessing-state-like-not-trait.md) — related
 - [Academic self-efficacy is associated with high school graduation rates and mathematics achievement](self-efficacy-associated-graduation-and-math.md) — related
 - [Rapid guessing can be examined over three years using six test administrations to distinguish trait-like from situational disengagement](six-administrations-three-years-rapid-guessing-design.md) — related
+- [Most studies show social and emotional competencies are positively associated with student engagement and negatively associated with disengagement across school levels and backgrounds](secs-positively-associated-student-engagement.md) — related

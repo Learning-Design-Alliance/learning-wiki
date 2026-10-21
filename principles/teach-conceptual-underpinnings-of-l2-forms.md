@@ -16,7 +16,7 @@ sources:
 # Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (9 for, 7 mixed, 2 against) · 15 studies (5 theoretical, 3 quant-synthesis, 2 causal, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 0 of 15 report an effect size · 15 claims rest on one study
+> **Evidence** · 19 claims (10 for, 7 mixed, 2 against) · 16 studies (5 theoretical, 3 causal, 3 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 0 of 16 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,7 @@ Learners, forms and sources differ across these claims, so do not rank them by l
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [-W] — an authorial assertion, no data; the opposing position on grammar focus.
 - [Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style](../claims/monitoring-improves-learnable-rule-accuracy.md) [~W] — the same single-learner study as the preposition finding above, for rule-like forms; bears on which forms conscious checking helps.
 - [L2 writers tend to overuse more discourse connectives than they underuse, and both L1 and L2 students have a limited range of DCs at their disposal](../claims/l2-overuse-tendency-limited-dc-range.md) [+W] — the same corpus as the Thai finding; used above in the observation table.
+- [Traditional form-focused instruction produces significant gains in production but not in comprehension](../claims/traditional-instruction-gains-production-only.md) [+W] — attached 2026-10-21 from Bill VanPatten et al. (1993), which proposed "Design explicit grammar instruction around input processing rather than output practice".
 
 ## Objective and learner-valued goal
 

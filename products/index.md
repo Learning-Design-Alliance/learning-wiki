@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1827 entries** · 0 stable · 1827 in review · 0 drafts
+**1829 entries** · 0 stable · 1829 in review · 0 drafts
 
 ---
 
@@ -1274,6 +1274,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Prior Research Table](prior-research-table.md) - A Mathematica-developed documentation framework that helps education organizations record prior research on a solution and its priority community before planning future evaluations.
 * [PRISM (Program for Research Into Self-Modifying Systems)](prism-program-for-research-into-self-modifying-systems.md) - A production-system interpreter developed by Pat Langley and Neches that augments LISP and lets users select among alternative architectural mechanisms and control options.
 * [PRISMA 2020 systematic review corpus of 27 studies on AI-based collaborative learning in higher education](prisma-2020-systematic-review-corpus-of-27-studies-on-ai-based-collaborative-learning-in-h.md) - A corpus of 27 English-language empirical, case-study, or meta-analytic studies published from 2014 to 2024 on AI-based collaborative learning in higher education, selected from Scopus using PRISMA 2020 procedures by Kovari (2025).
+* [PRISMA-guided systematic review corpus of 66 empirical items (2004-2019)](prisma-guided-systematic-review-corpus-of-66-empirical-items-2004-2019.md) - A corpus of 66 empirical studies on social capital among teachers and teacher professional learning, assembled by Demir through PRISMA-guided eligibility screening and Weight of Evidence appraisal.
 * [PRISMA-LLM 16-item universal reporting checklist](prisma-llm-16-item-universal-reporting-checklist.md) - PRISMA-LLM is a 16-item reporting framework proposed by Zabaleta et al.
 * [PrivacyAI](privacyai.md) - PrivacyAI is an open-source GPT-4o-mini-based pipeline released by the authors for detecting, labeling, extracting, and verifying personally identifiable information in educational text.
 * [Prober.ai](proberai.md) - Prober.ai is a research-logging software platform that records consented participant sessions, events, drafts, challenges, unlocks, and reflection-coaching interactions for studying learning behavior.
@@ -1604,6 +1605,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Syntea](syntea.md) - Syntea is IU International University of Applied Sciences' AI-based learning-assistant software for question answering, interactive tutoring, personalized feedback, progress tracking, and exam preparation.
 * [Synthesis Lab](synthesis-lab.md) - Synthesis Lab is a web application that integrates with social annotation tools to help learners categorize peer annotations into conceptual building blocks and develop knowledge syntheses.
 * [Systematic literature review corpus of 54 documents on academic careers from 21 national contexts (Scopus and Scielo, 2000–2021)](systematic-literature-review-corpus-of-54-documents-on-academic-careers-from-21-national-c.md) - A corpus of 54 theoretical and empirical documents on academic careers selected from Scopus and Scielo searches, covering 21 national contexts and publications from 2000–2021, assembled by Oliveira et al.
+* [Systematic PRISMA-based review corpus of 20 blended learning design studies](systematic-prisma-based-review-corpus-of-20-blended-learning-design-studies.md) - A corpus of 20 higher-education and high-school studies on course-level blended-learning design, selected through staged PRISMA-based screening and coded across 18 instructional-design variables by Boelens et al.
 * [Systematic review corpus of 69 jigsaw studies (1978–2022)](systematic-review-corpus-of-69-jigsaw-studies-19782022.md) - A corpus of 69 studies conducted from 1978 through 2022 that met review criteria for examining jigsaw's effects on academic performance and psychosocial outcomes.
 * [Systematic review evidence corpus: 49 studies of learning approaches and academic performance in medical and dental education (2000–2023)](systematic-review-evidence-corpus-49-studies-of-learning-approaches-and-academic-performan.md) - A PRISMA-guided corpus of 49 empirical studies on learning approaches and academic performance among undergraduate medical and dental students, assembled by Marlen A.
 * [Systems Review](systems-review.md) - Systems Review is an inquiry-based, systems-focused approach for teams working to improve a system, developed and facilitated by R15CC.

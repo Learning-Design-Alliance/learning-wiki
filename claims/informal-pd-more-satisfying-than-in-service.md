@@ -58,3 +58,4 @@ A Digital Promise and Grunwald Associates (2015) survey of teachers, presented a
 - [Most teachers and principals reported satisfaction with professional opportunities, school environment, and the TIF program](tif-most-educators-satisfied.md) — related
 - [Potential early adopters of micro-credentials are driven by intrinsic motivations and heavy informal professional learning, while late adopters are more experienced and driven by extrinsic motivations](early-vs-late-adopter-motivation-profiles.md) — related
 - [Most respondents found grant training useful, applied the information in their school, and shared it with others](grant-training-useful-applied-shared.md) — related
+- [Professional learning for late-career teachers is operationalised in varied ways, from formal structured programmes to informal workplace-embedded practices](late-career-professional-learning-operationalisation-varied.md) — related

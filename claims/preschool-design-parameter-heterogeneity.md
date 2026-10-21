@@ -47,3 +47,4 @@ Meta-analytic integration (Stage 2) of design parameters estimated from the Germ
 - [Effects of game-based learning in STEM education vary substantially across studies, with prediction intervals spanning trivial-to-negative through very strong effects](games-stem-substantial-heterogeneity-prediction-intervals.md) — related
 - [Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval](ai-literacy-intervention-effects-highly-heterogeneous.md) — related
 - The study estimated 237 single-level, 589 two-level, and 226 three-level design parameters from German preschool probability samples — related
+- [Effect sizes vary widely between studies and especially between comparisons within studies](large-variation-word-reading-intervention-effects.md) — related

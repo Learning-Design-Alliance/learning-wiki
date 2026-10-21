@@ -46,6 +46,7 @@ For targeting professional learning opportunities, the guide's practice descript
 - [Deliver school-based, job-embedded professional learning in varied well-matched formats](job-embedded-school-based-professional-learning.md)
 - [Provide job-embedded coaching to school leaders to translate learning into sustainable practice](job-embedded-coaching-school-leaders.md)
 - [Policy and practice recommendations for supporting evidence-based professional development](pd-policy-recommendations.md)
+- [Provide socially embedded, collaborative professional learning — mentoring, dialogue and reflective practice — for late-career teachers](collaborative-professional-learning-late-career-teachers.md)
 
 ## Examples
 -

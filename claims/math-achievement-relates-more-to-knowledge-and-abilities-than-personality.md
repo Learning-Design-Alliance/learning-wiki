@@ -86,3 +86,4 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](numerical-metacognition-predicts-math-achievement.md) — related
 - [Math anxiety relates more strongly to Mathematical Reasoning than to Numerical Operations in second and third graders](math-anxiety-stronger-mathematical-reasoning-than-numerical-operations.md) — a narrower finding that bears on this claim
 - [Math anxiety correlates negatively with math achievement, grades, enjoyment, motivation, and amount of math taken](math-anxiety-negative-correlations-achievement.md) — related
+- [Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction](student-characteristics-moderate-inquiry-effectiveness.md) — a narrower finding that bears on this claim

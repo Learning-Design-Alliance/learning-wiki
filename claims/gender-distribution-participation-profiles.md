@@ -53,3 +53,4 @@ Chi-square test of profile membership by gender in the clustered sample, with ad
 - [Post-training GenAI use patterns were unevenly distributed: efficient collaborators were the largest profile (47.5%), followed by over-revisers (26.2%) and mixed users (21.2%)](uneven-post-training-genai-use-patterns.md) — related
 - [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — reports the opposite
 - [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md) — reports the opposite
+- [Studies reporting age and gender differences in student engagement unanimously show higher engagement for girls and younger students](girls-younger-students-higher-engagement.md) — related

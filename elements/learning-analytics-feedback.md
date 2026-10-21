@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 54 claims (20 for, 25 mixed, 9 against) · 48 studies (15 review, 14 associational, 7 theoretical, 4 causal, 4 qualitative, 4 design), `q1`–`q3` · 4 of 48 report an effect size · 51 claims rest on one study
+> **Evidence** · 56 claims (21 for, 26 mixed, 9 against) · 49 studies (16 review, 14 associational, 7 theoretical, 4 causal, 4 qualitative, 4 design), `q1`–`q3` · 4 of 49 report an effect size · 53 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -100,6 +100,8 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [The single-task Random Forest achieves the best average predictive performance but is optimal for only 7 of 15 concepts](../claims/single-task-rf-best-average-not-universally-optimal.md) [~W]
 - [Tutors reason differently about effort versus progress goals in ways that mirror the target-specific feature patterns, and trust clearly defined feature-backed explanations](../claims/tutors-reason-by-target-type-mirroring-feature-patterns.md) [~W]
 - [Learning analytics tools can provide personalized feedback on students' academic writing by identifying mistakes and offering constructive suggestions (e.g., AcaWriter)](../claims/acawriter-personalized-writing-feedback.md) [+W]
+- [Warning-only LA feedback can increase mental load, whereas pairing warnings with encouragement leads to higher emotional and cognitive engagement](../claims/la-feedback-warnings-encouragement-cognitive-load.md) [~W]
+- [LA-based feedback shows potential to save educators time compared with traditional one-by-one feedback provision](../claims/la-feedback-saves-educator-time.md) [+W]
 
 ## The evidence by question
 

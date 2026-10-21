@@ -50,3 +50,4 @@ Two publication-bias assessments using PET-PEESE and various selection methods w
 - Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses — related
 - [Published studies of simulation games report substantially larger effects than unpublished studies, indicating publication bias](publication-bias-in-simulation-games-research.md) — related
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
+- [Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample](no-publication-bias-teacher-self-efficacy-meta-analysis.md) — related

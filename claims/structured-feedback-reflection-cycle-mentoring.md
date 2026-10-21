@@ -76,3 +76,4 @@ Analysis of the mentee's 15 written reflections showed she internalised a three-
 - [Findings suggest VR-mediated mentoring with 360VR supports newly qualified teachers' noticing, classroom management competencies and self-efficacy](abc-vr-mentoring-supports-teacher-noticing-self-efficacy.md) — related
 - [Teachers reported that CRS-and-TEFA use gave them more information about student thinking and that they changed lessons in response to that formative information](tefa-formative-information-changed-lessons.md) — related
 - [Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices](mentor-modelling-strategies-transfer-mentee-behaviour-management.md) — related
+- [Late-career teachers prefer socially embedded and collaborative learning opportunities such as mentoring, dialogue and reflective practice](late-career-teachers-prefer-socially-embedded-learning.md) — related

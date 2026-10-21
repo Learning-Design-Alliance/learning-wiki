@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 145 claims (101 show a difference, 29 mixed, 15 no difference) · 97 studies (36 associational, 20 causal, 15 review, 9 qualitative, 7 quant-synthesis, 6 theoretical, 4 design), `q1`–`q4` · 26 of 97 report an effect size · 139 claims rest on one study
+> **Evidence** · 146 claims (101 show a difference, 29 mixed, 16 no difference) · 98 studies (36 associational, 20 causal, 16 review, 9 qualitative, 7 quant-synthesis, 6 theoretical, 4 design), `q1`–`q4` · 26 of 98 report an effect size · 140 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -185,6 +185,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Arousal showed a positive relationship with final high school mathematics grade when controlling for the other test anxiety facets](../claims/arousal-positive-mathematics-grade.md) [+M] — learners who differ on it differ in outcomes
 - [School meditation studies show significant improvements in emotional regulation, including reduced involuntary stress responses and behavioural dysregulation](../claims/meditation-improves-emotional-regulation.md) [+M] — instruction changes it
 - [Worry did not explain unique variance in students' test performance or mathematics grade, challenging the worry-based explanation of the test anxiety-performance link](../claims/worry-no-unique-variance-performance.md) [-M] — learners who differ on it differ in outcomes
+- [Some SECs show no association with engagement dimensions in individual studies, including emotion regulation with behavioural engagement and intentional self-regulation compensation](../claims/null-associations-some-secs-engagement.md) [-W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

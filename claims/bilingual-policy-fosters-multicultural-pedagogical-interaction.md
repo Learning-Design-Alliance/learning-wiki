@@ -49,3 +49,4 @@ In the findings' language-and-bilingual-policy-in-practice section, the meta-ana
 - [Immersion and submersion programs differ socioculturally, communicating success versus failure to children](immersion-submersion-sociocultural-contrast.md) — a broader claim this one bears on
 - [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — a broader claim this one bears on
 - [Teacher repetition and translation as unplanned scaffolding can hinder rather than facilitate learning](repetition-translation-scaffolding-hinders-learning.md) — related
+- [In bilingual education, scaffolding denotes support that allows learners to engage with content in a language they only partially know](scaffolding-support-partially-known-language-bilingual-education.md) — related

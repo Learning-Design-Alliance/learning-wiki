@@ -56,3 +56,4 @@ Theoretical argument from the article's abstract, the fourth perspective. It pro
 - [Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention](task-essentialness-goal-directed-vocabulary-retention.md) — related
 - [Task difficulty shows a u-shaped relation to regulatory activities, with competing CLT-based and motivational explanations that cannot yet be distinguished](u-shaped-task-difficulty-regulation.md) — related
 - [Model-observer gender combination affects mental effort invested during example study: male students invest less effort with a male model, female students more effort with a male model](gender-interaction-mental-effort-example-study.md) — related
+- [Blended learning designs pay most affective-climate attention to motivating and mental-effort tasks while neglecting appraising and dealing with emotions](affective-climate-neglected-blended-designs.md) — related

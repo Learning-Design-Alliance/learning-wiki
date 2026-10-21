@@ -56,3 +56,4 @@ This is the review's framing statement about the dual scope of AI's influence �
 - [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — a narrower finding that bears on this claim
 - [System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines](breakthrough-system-reconfiguration-actors-routines.md) — related
 - [Teachers have far more power to shape what happens to students than investors or scouts, partly through their opinions of each child](teachers-shape-student-outcomes-through-opinions.md) — related
+- [Personalization and differentiated instruction are rare in blended learning designs](personalization-limited-blended-designs.md) — reports the opposite

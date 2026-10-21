@@ -78,3 +78,4 @@ Random-effects meta-analysis of 273 effect sizes from 162 independent samples (N
 - [Academic behaviors have the most immediate effect on course grades; directly targeting grit is not an evidenced lever](academic-behaviors-most-immediate-effect-grades.md) — possibly the same claim (merge candidate)
 - [Academic grit has a significant positive effect on primary students' math achievement](academic-grit-positive-effect-primary-math-achievement.md) — related
 - [Fixed math mindset negatively predicts primary math achievement while growth math mindset shows no direct effect](fixed-math-mindset-negative-direct-effect-primary.md) — related
+- [No correlation between an intervention's attitude effect and its achievement effect across studies](no-attitude-achievement-correlation-across-studies.md) — related

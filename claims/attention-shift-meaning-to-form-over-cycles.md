@@ -53,3 +53,4 @@ The article draws on Schmidt's (2001) claim that attention is a limited resource
 - [Structured repetition gains in fluency depend on repeating the same task](structured-repetition-fluency-task-specific.md) — related
 - [Task repetition can be used as a form of integrative planning in language learning and teaching](task-repetition-integrative-planning.md) — related
 - [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](children-drawings-notice-integration-elements.md) — related
+- [In bilingual education, scaffolding denotes support that allows learners to engage with content in a language they only partially know](scaffolding-support-partially-known-language-bilingual-education.md) — related

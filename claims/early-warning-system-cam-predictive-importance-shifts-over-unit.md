@@ -65,3 +65,4 @@ In the same study, the authors applied a range of machine learning methods; "boo
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related
 - [An agentic AI instructor sustained and deepened student engagement across successive course modules in a field deployment](agentic-instructor-sustained-engagement-iisc.md) — related
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
+- [Warning-only LA feedback can increase mental load, whereas pairing warnings with encouragement leads to higher emotional and cognitive engagement](la-feedback-warnings-encouragement-cognitive-load.md) — related
