@@ -48,3 +48,4 @@ The article's abstract states the study's purpose: examining screening assessmen
 - Compressed content, grade retention, and enhanced Response to Intervention show less evidence of substantially shifting outcomes for struggling students, and some carry potential adverse long-term consequences — related
 - [MAP Growth state-test correlations exceed 0.8 for most Grade 3-8 concurrent indices, with mathematics correlations higher than reading](map-growth-criterion-validity-correlations-state-tests.md) — related
 - [End-of-Grade-1 oral reading fluency status predicts later reading comprehension better than growth slope, though slope added to first-grade screening accuracy in one study](orf-status-beats-slope-for-prediction.md) — related
+- [Concurrent validity evidence is sparse: only 11 assessments and one screener aligned with other validated measurement tools](concurrent-validity-sparse-11-assessments-one-screener.md) — related

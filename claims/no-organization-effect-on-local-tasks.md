@@ -48,3 +48,4 @@ Experiment 1 null result: t-tests on the composite scores for all local tasks, w
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — related
 - [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
+- [Hierarchical top-down schema-based instruction improved transfer performance compared with single-level and control instruction](hierarchical-schema-instruction-transfer.md) — related

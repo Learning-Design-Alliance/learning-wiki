@@ -17,7 +17,7 @@ sources:
 # Strength and Retrieval Effort Account (New Theory of Disuse and Bifurcation)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 10 studies (6 quant-synthesis, 3 causal, 1 review), `q1`–`q4` · 4 of 10 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (5 for, 5 mixed, 1 against) · 11 studies (6 quant-synthesis, 4 causal, 1 review), `q1`–`q4` · 5 of 11 report an effect size · 10 claims rest on one study
 
 ## Description
 This account holds that effortful retrieval strengthens knowledge and that "The degree to which knowledge is strengthened is assumed to be proportional to the amount of effort involved in retrieval". Bjork and Bjork's new theory of disuse distinguishes storage and retrieval strength; the bifurcation account of Kornell et al. (2011) adds that only retrieved items are strengthened, explaining delay-dependent effects.
@@ -47,6 +47,7 @@ This account holds that effortful retrieval strengthens knowledge and that "The 
 - [The retrieval benefit occurs at the level of individual items, not through general practice at retrieval](../claims/retrieval-benefit-item-level.md) [~W]
 - [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](../claims/retention-interval-one-to-six-days-largest.md) [+W]
 - [When total learning time is fixed, permitting learners to skip feedback after retrieval improves delayed final recall compared with mandatory feedback](../claims/skipping-feedback-fixed-time-improves-recall.md) [~W]
+- [Testing after worked example study invests more mental effort than restudying examples, so restudy is more instructionally efficient at equal delayed performance (Experiment 3)](../claims/testing-more-effortful-than-restudy-exp3.md) [-W]
 
 ## The evidence by question
 

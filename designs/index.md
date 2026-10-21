@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**970 entries** · 0 stable · 970 in review · 0 drafts
+**971 entries** · 0 stable · 971 in review · 0 drafts
 
 ---
 
@@ -659,6 +659,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Pedagogical friction: reflection-gated feedback architecture in which cognitive effort precedes support](pedagogical-friction-reflection-gating.md) - The article introduces pedagogical friction as a first-class architectural primitive: revision suggestions are gated behind an intelligent reflection gate that assesses the student's written defense for substance and,...
 * [Pepper robot with 52 co-designed LIS signs and four SOV-order signed sentences](pepper-52-lis-signs-element.md) - The element is the Pepper social robot configured as a LIS signing agent: the authors co-designed and implemented \"a total of 52 LIS signs\" spanning school-related terms, common actions and nouns, and work-related voc...
 * [Performance-objective-driven curriculum pattern pairing each stated objective with matched student activities](objective-activity-matched-curriculum-guide-pattern.md) - The guide states six lettered performance objectives (A through F) and then organizes its entire activity section objective by objective, so each activity serves a stated objective.
+* [Pergamon multimedia learning environment with temple reconstructions and uncertainty expressions](pergamon-uncertainty-learning-environment.md) - A computer-based, linear learning environment about the ancient city Pergamon used as the study material.
 * [Persona progression model: a four-stage AI-instructor persona (Guide→Collaborator→Peer→Launcher) operationalizing the Gradual Release of Responsibility framework for AI-mediated instruction](persona-progression-model-ai-instruction.md) - The persona progression model ties the AI instructor's tone and scaffolding depth to the learner's position in the module sequence across four stages: Guide (patient teacher, explains every concept), Collaborator (wor...
 * [Perspectival coordination framework: egocentric-to-allocentric coordination as the cognitive process of symbol grounding in embodied mathematics designs](egocentric-allocentric-perspectival-coordination.md) - The article proposes that embodied designs stage a coordination between an egocentric perspective, in which actions are experienced with respect to one's own body, and an allocentric perspective, in which objects are...
 * [Perturbation model of CSCL macro script design](perturbation-model-cscl-macro-scripts.md) - The article proposes a pedagogical model for designing collaboration scripts in which the script's core action is perturbation: \"a script disturbs the natural convergence of a team and in doing so increases the intens...

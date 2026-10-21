@@ -52,3 +52,5 @@ Document analysis within the review: the authors note the 1998 CLT theory articl
 - [Techniques yield learning gains only when they compensate for otherwise too-low focus support or reward (baseline-levels condition)](baseline-levels-condition-technique-effects.md) — related
 - [Effort investment is driven differently in CLT (data-driven, task difficulty) versus SRL theories (goal-driven, motivation)](effort-drivers-data-driven-vs-goal-driven.md) — related
 - [Task difficulty shows a u-shaped relation to regulatory activities, with competing CLT-based and motivational explanations that cannot yet be distinguished](u-shaped-task-difficulty-regulation.md) — related
+- [CLT can serve as a framework for teaching generalized knowledge and skills, including learning strategies](clt-framework-generalized-skills.md) — related
+- [Cognitive-motivational techniques that increase both focus support and reward are hypothesized to be most effective for learning](fore-h3-cognitive-motivational-techniques-most-effective.md) — related

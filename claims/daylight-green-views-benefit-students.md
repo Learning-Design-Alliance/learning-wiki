@@ -51,3 +51,4 @@ The brief reports this from Li & Sullivan (2016), citing it alongside research o
 - [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — possibly the same claim (merge candidate)
 - [Classroom views of greenery improve children's concentration compared with built views or windowless classrooms](green-classroom-views-boost-concentration.md) — possibly the same claim (merge candidate)
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](nature-exposure-reduces-learner-stress.md) — related
+- [In secondary school students, breaks with green views or walks in larger green spaces improve attention performance](green-exposure-secondary-school-attention.md) — related

@@ -50,3 +50,4 @@ Experiment 1, 2 × 2 ANOVA (N = 129) on absolute accuracy. The main effect of ti
 - [Informing learners about the to-be-monitored cue before problem-solving did not affect mental effort or problem-solving performance (Experiment 1)](cue-timing-no-effect-effort-performance.md) — related
 - [Prompted cue type and timing of cue prompt do not interact in their effect on self-assessment accuracy (Experiment 1)](cue-type-timing-no-interaction-accuracy.md) — related
 - [Prompting learners to infer self-assessments from performance-based cues yields better self-assessment accuracy than prompting explanation-based cues in the initial problem-solving phase](performance-based-cues-better-self-assessment-accuracy.md) — related
+- [Effortful generative learning activities during problem-solving example study provide cues that improve students' item-level self-monitoring accuracy](generative-activities-improve-problem-solving-monitoring.md) — related

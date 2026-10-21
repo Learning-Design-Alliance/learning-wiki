@@ -99,3 +99,4 @@ This systematic review searched for studies (1977–2020) comparing guided play 
 - [Highest-outcome groups did not receive more guidance than other groups](high-outcome-groups-not-guided-more.md) — related
 - [Structuring the discovery process can outperform unstructured environments, but effects depend on learner characteristics and the knowledge test used](structuring-discovery-process-effects.md) — related
 - [Guided play outperformed direct instruction for executive functioning and numeracy in early childhood, but not for literacy or socioemotional outcomes](guided-play-versus-direct-instruction-early-childhood.md) — possibly the same claim (merge candidate)
+- [Consistency of association with child outcomes varies across interaction quality dimensions, improving for supporting play but remaining low for instructional support even against aligned outcomes](interaction-dimension-consistency-varies-supporting-play-instructional-support.md) — related

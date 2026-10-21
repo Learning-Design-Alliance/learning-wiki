@@ -47,3 +47,4 @@ Meta-regression with 239 estimates; the Europe dummy is positive and significant
 - [Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries](covid-deficits-larger-middle-income-countries.md) — related
 - [Learning deficits during the pandemic are larger in maths than in reading](covid-deficits-larger-maths-than-reading.md) — related
 - [Country of publication moderates multigrade cognitive effects, with a small negative effect only for European studies](country-moderates-multigrade-effects.md) — related
+- [Concept-mapping effects are larger in low- and middle-income countries (g = 1.053) than high-income countries (g = 0.626)](concept-map-effects-larger-low-middle-income-countries.md) — related

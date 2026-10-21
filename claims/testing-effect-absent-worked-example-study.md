@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Across eight experiments with varied problem-solving tasks, student populations and practice test types, practice testing after worked example study showed no retention benefit over restudy on delayed final tests. [→ van Gog 2015](#van-gog-2015)
+`q2 i?` Across eight experiments with varied problem-solving tasks, student populations and practice test types, practice testing after worked example study showed no testing effect over restudy; two of the experiments (Leahy et al., experiments 1 and 2) used only an immediate final test, where restudy came out ahead. [→ van Gog 2015](#van-gog-2015)
 
 ## Evidence
 
@@ -50,3 +50,7 @@ The review's synthesis of the special-issue worked example experiments (van Gog 
 - [The training-by-content interaction did not vary with retention interval duration in the human experiment](no-training-retention-interval-interaction.md) — related
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](worked-example-effect-element-interactivity-explanation.md) — related
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related
+- [Testing after studying four worked examples does not enhance delayed test performance compared with restudy among vocational education students in probability calculation (Experiment 4)](exp4-no-testing-effect-vocational-probability.md) — a narrower finding that bears on this claim
+- [Across eight delayed-test comparisons, testing showed a small numerical advantage over restudy, but confidence intervals were wide and the combined effect imprecise](small-scale-meta-analysis-testing-restudy-imprecise.md) — related
+- [The testing effect has been demonstrated across a variety of mostly low-element-interactivity materials, but problem-solving tasks had received very little testing-effect research attention](testing-effect-established-verbal-materials-not-problem-solving.md) — related
+- [Testing after worked example study invests more mental effort than restudying examples, so restudy is more instructionally efficient at equal delayed performance (Experiment 3)](testing-more-effortful-than-restudy-exp3.md) — a narrower finding that bears on this claim

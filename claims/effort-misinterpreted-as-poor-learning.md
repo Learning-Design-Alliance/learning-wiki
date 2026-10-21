@@ -69,3 +69,4 @@ The article's summary of its qualitative findings: students' initial beliefs abo
 - [Strategy efficacy beliefs shift toward the strategy a student chooses: choosers of blocked practice raised blocked beliefs and lowered interleaved beliefs, and vice versa](strategy-beliefs-shift-toward-chosen-strategy.md) — related
 - [Students in active learning environments learned more but felt they learned less, mistaking mental effort for failure](active-learning-felt-learning-paradox.md) — related
 - [The share of students choosing interleaved practice rose from 13% to 40% across the session, but the visual feedback prompt did not further increase interleaved practice choices](vfp-did-not-improve-strategy-choices.md) — related
+- [Perceived effort is higher and perceived learning lower for interleaving than blocking, and experience-mediated increases in perceived learning raise interleaving choices](interleaving-effort-learning-ratings-onan.md) — related

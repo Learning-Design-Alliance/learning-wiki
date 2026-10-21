@@ -79,3 +79,4 @@ Experiment 3 correlational observation: the two subjects whose retrieval paths c
 - [Treatment x verbal ability interaction replicated only after excluding the high-variance middle ability group (Experiment 2)](treatment-ability-interaction-middle-group-excluded.md) — related
 - [Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not Levels 1 and 4](proficiency-moderates-gloss-vocabulary-effects.md) — related
 - [Test-taker abilities and prior knowledge show inconsistent moderating effects on multimedia testing effects](test-taker-abilities-inconsistent-moderators.md) — reports the opposite
+- [Hierarchical top-down schema-based instruction improved transfer performance compared with single-level and control instruction](hierarchical-schema-instruction-transfer.md) — related

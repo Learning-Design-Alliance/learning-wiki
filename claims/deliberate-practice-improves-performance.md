@@ -122,3 +122,4 @@ The article reports that the meta-analysis by Macnamara et al. (2014), echoed by
 - [The association between musical training and school performance appears general and non-specific across subjects, with no evidence for special links to single domains](music-school-association-non-specific-no-special-links.md) — related
 - [Deliberate practice interventions produce higher real estate licensing exam pass rates than traditional study methods](deliberate-practice-raises-licensing-pass-rate.md) — related
 - [Note-level singing correctness rises with practice repetition in a negatively accelerated curve, gaining about 7 percentage points over 30 repetitions](singing-accuracy-negatively-accurated-repetition-curve.md) — a narrower finding that bears on this claim
+- [Not every hour of study time is equally productive; the benefit of an additional hour depends on the student's position on their learning curve](comsa-study-hours-unequal-productivity.md) — related

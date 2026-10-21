@@ -158,3 +158,5 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 - [High cognitive activities were positively associated with essay quality but not with concept maps](high-cognition-essay-not-concept-maps.md) — related
 - [No evidence for a mapping between representational format and enhancement of a specific kind of understanding](no-format-knowledge-type-mapping.md) — reports the opposite
 - [Triads with access to each other's concept maps were more efficient in collaborative problem solving](shared-concept-maps-improve-triad-efficiency.md) — a narrower finding that bears on this claim
+- [Concept mapping has a moderate overall positive effect on science achievement for elementary and secondary students (g = 0.776)](concept-maps-moderate-overall-science-achievement-effect.md) — related
+- [Active-processing focus-support techniques such as testing, self-explaining, concept mapping, and drawing show positive effects on learning](focus-support-active-processing-techniques-positive-effects.md) — a broader claim this one bears on

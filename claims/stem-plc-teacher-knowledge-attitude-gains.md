@@ -72,3 +72,4 @@ The synthesis's own strength-of-knowledge judgment in the section on the source 
 - [Teacher resistance as an exercise of teacher agency is a fundamental challenge to current PLC formulations](teacher-resistance-agency-challenges-plc.md) — related
 - [Existing STEM PLC research is methodologically weak by Standards of Evidence review, with no studies rated adequate, but collectively builds a supportive case for valued PLC effects](stem-plc-research-methodological-rigor-weak.md) — related
 - [Evidence on teacher attitude change as an outcome of team-based professional development in higher education is insufficient; only one study mentioned attitudes](team-pd-attitude-outcome-insufficient-evidence.md) — related
+- [Sociocultural contexts—school, professional community, policy, and society—shape teachers' motivational beliefs about TSRs](sociocultural-contexts-shape-tsr-beliefs.md) — related

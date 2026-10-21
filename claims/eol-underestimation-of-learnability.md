@@ -47,3 +47,4 @@ Absolute-accuracy secondary analysis in Experiment 1 compared mean TTL judgments
 - [The more underconfident participants are about their memory abilities, the larger their reminder bias, regardless of framing](underconfidence-predicts-reminder-bias.md) — related
 - [Guessing biases calibration measures toward underconfidence, strongest for the lowest performers](guessing-biases-calibration-toward-underconfidence.md) — related
 - [Underconfidence-with-practice effect: learners overestimate learning after one study trial but underestimate it after repeated restudying](underconfidence-with-practice-effect-jols.md) — related
+- [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related

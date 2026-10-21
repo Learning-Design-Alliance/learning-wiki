@@ -50,3 +50,5 @@ The review attributes this finding to meta-analytic and synthesis work it cites 
 - [Measures of individual children's experiences within the ECEC group predict child development outcomes with higher effect sizes than global quality measures](individualised-measures-better-prediction-than-global.md) — related
 - [Test-based Quality Rating and Improvement Systems have been costly, inefficient, and subject to manipulation, while collaborative quality-improvement approaches are emerging](qris-test-based-costly-manipulated-collaborative-emerging.md) — related
 - [In-service professional development for ECEC teachers produces a medium improvement in externally rated process quality (ES = 0.68)](inservice-pd-medium-effect-process-quality-ecec.md) — related
+- [Global ECEC quality indices show little evidence of relating to child outcomes](global-ecec-quality-indices-little-evidence-child-outcomes.md) — related
+- [Prior meta-analyses report few or weak associations between ECEC quality indices and child progress, with process quality more predictive than structural quality](prior-meta-analyses-weak-quality-outcome-associations.md) — related

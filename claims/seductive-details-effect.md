@@ -260,3 +260,4 @@ This study found that the seductive details effect was not uniform: readers with
 - [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](coherence-principle-extraneous-material-effect.md) — related
 - [Redundant and decorative elements, including emotional design embellishments, can enhance learning despite constituting potential extraneous load](emotional-design-redundancy-enhance-learning.md) — reports the opposite
 - [Realistic visual detail can raise retention despite higher extraneous load ratings (the realism paradox), with benefits tied to test objectives](realism-paradox-detail-retention-load.md) — related
+- [Weeding seductive details fostered learning only in a mandatory (high-reward) learning situation, not a voluntary one](weeding-effective-only-mandatory-learning.md) — related

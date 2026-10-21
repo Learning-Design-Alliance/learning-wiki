@@ -76,3 +76,4 @@ Same ANCOVA with a time factor (one-day vs one-week posttest); the article repor
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related
 - [Reflection on a prediction failure shifted students' isomorphism awareness from structural recognition to boundary awareness](prediction-failure-reflection-builds-boundary-awareness.md)
 - [Merely delaying instruction until after problem solving does not improve conceptual understanding when no additional measures trigger knowledge-gap awareness or deep-feature discovery](delaying-instruction-alone-no-conceptual-gain.md) — reports the opposite
+- [Solving an isomorphic practice problem after studying a worked example improves prospective monitoring accuracy, with mixed effects on regulation accuracy](practice-problem-after-example-improves-monitoring.md) — related

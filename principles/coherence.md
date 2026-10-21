@@ -64,7 +64,7 @@ sources:
 # Coherence Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (14 for, 19 mixed, 2 against) · 35 studies (16 causal, 6 review, 5 quant-synthesis, 4 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 10 of 35 report an effect size · 28 claims rest on one study
+> **Evidence** · 36 claims (14 for, 20 mixed, 2 against) · 36 studies (16 causal, 6 review, 5 quant-synthesis, 5 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 10 of 36 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -184,6 +184,7 @@ The expectation should weaken if independent comparisons with comparable learner
 - [Weeding extraneous information such as music and complex backgrounds improves retention and transfer from video](../claims/weeding-extraneous-content-improves-video-learning.md) [+W]
 - [Working memory capacity interacts with illustration type: seductive illustrations impair comprehension only for low-WMC readers](../claims/wmc-moderates-seductive-details-effect.md) [~W]
 - [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](../claims/coherence-principle-extraneous-material-effect.md) [+W]
+- [Weeding seductive details fostered learning only in a mandatory (high-reward) learning situation, not a voluntary one](../claims/weeding-effective-only-mandatory-learning.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

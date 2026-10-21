@@ -13,7 +13,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (13 for, 2 mixed) · 14 studies (7 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 10 of 14 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (13 for, 2 mixed, 1 against) · 15 studies (8 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 10 of 15 report an effect size · 13 claims rest on one study
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
@@ -50,6 +50,7 @@ Retrieval practice is the element in which learners recall information from memo
 - [Holistic retrieval via free-recall raises self-efficacy, fully mediated by performance during retrieval practice](../claims/free-recall-raises-self-efficacy-via-perceived-success.md) [~W]
 - [Taking a multiple-choice test boosts performance on later tests compared with nontested control conditions, including with complex SAT II materials](../claims/mc-testing-boosts-later-performance.md) [+W]
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](../claims/test-restudy-beats-controls.md) [+M]
+- [Testing via identical problem solving after studying identical worked examples did not significantly improve delayed test performance compared with restudying identical examples (Experiment 2)](../claims/exp2-no-testing-effect-identical-problems.md) [-W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

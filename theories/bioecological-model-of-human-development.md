@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 29 claims (14 for, 14 mixed, 1 against) · 24 studies (13 associational, 6 review, 4 quant-synthesis, 1 theoretical), `q2`–`q3` · 4 of 24 report an effect size · 27 claims rest on one study
+> **Evidence** · 30 claims (15 for, 14 mixed, 1 against) · 25 studies (13 associational, 7 review, 4 quant-synthesis, 1 theoretical), `q2`–`q3` · 4 of 25 report an effect size · 28 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -70,6 +70,7 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [Children's challenging behaviour, not ability (IQ), is the major source of demand on teachers, and one child's disruptive behaviour can reduce classmates' access to the educator](../claims/challenging-behaviour-major-teacher-demand.md) [+W] — attached 2026-10-19 from Bly et al. (2026), which proposed "Classroom ecological model of ECEC quality as co-created by educator, child, and collective of children".
 - [Measures of individual children's experiences within the ECEC group predict child development outcomes with higher effect sizes than global quality measures](../claims/individualised-measures-better-prediction-than-global.md) [~W]
 - [Country and school level moderate the relationship between CMSE and many correlates](../claims/cmse-country-school-level-moderators.md) [~W]
+- [The review's evidence base comprises 90 studies reporting 870 associations of interaction quality with child developmental and educational outcomes, covering 108,693 children](../claims/ecec-quality-review-90-studies-870-associations.md) [+W]
 
 ## The evidence by question
 - *Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+M]

@@ -46,3 +46,5 @@ Theoretical prediction in the reply, illustrated with emotional design: Endres e
 - [Techniques yield learning gains only when they compensate for otherwise too-low focus support or reward (baseline-levels condition)](baseline-levels-condition-technique-effects.md) — a narrower finding that bears on this claim
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related
 - [Techniques raising both focus support and reward simultaneously are predicted to foster learning best; content-irrelevant humor is predicted not to](direction-of-change-condition.md) — related
+- [Effective instruction requires both focus support and reward: high focus support with low reward, or reward without focus support, yields poor learning](fore-h1-both-focus-support-and-reward-needed.md) — related
+- [A medium degree of both focus support and reward is sufficient for good learning outcomes](fore-h2-medium-degree-sufficient.md) — related

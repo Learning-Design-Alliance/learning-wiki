@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 396 claims (189 for, 186 mixed, 21 against) · 198 studies (99 causal, 45 associational, 17 review, 14 theoretical, 10 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 74 of 198 report an effect size · 389 claims rest on one study
+> **Evidence** · 404 claims (193 for, 190 mixed, 21 against) · 203 studies (100 causal, 45 associational, 19 review, 15 theoretical, 10 qualitative, 9 quant-synthesis, 5 design), `q1`–`q4` · 75 of 203 report an effect size · 397 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -439,6 +439,14 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Experiment 2 replicated the forward effect of cue-only JOLs over restudy with rock categories, and item-by-item feedback did not change the effect](../claims/cue-only-jol-forward-effect-feedback-null-replication.md) [~M]
 - [Cue-only JOLs, but not cue–target JOLs, showed the inverted U-shaped JOL–response-time relationship taken as a behavioral signature of covert retrieval (Experiment 1)](../claims/cue-only-jol-rt-inverted-u-signature.md) [~W]
 - [Underconfidence-with-practice effect: learners overestimate learning after one study trial but underestimate it after repeated restudying](../claims/underconfidence-with-practice-effect-jols.md) [~W]
+- [Effortful generative learning activities during problem-solving example study provide cues that improve students' item-level self-monitoring accuracy](../claims/generative-activities-improve-problem-solving-monitoring.md) [+W] — attached 2026-10-21 from Tamara van Gog et al. (2020), which proposed "Cue-utilization framework: monitoring judgments rest on cues whose diagnosticity determines accuracy, with invested mental effort as a candidate cue"; tests this page's relationship.
+- [Completing steps in partially worked-out examples leads students to underestimate their test performance and report higher mental effort than studying fully worked examples](../claims/completion-problems-underestimation-higher-effort.md) [+W] — attached 2026-10-21 from Tamara van Gog et al. (2020), which proposed "Cue-utilization framework: monitoring judgments rest on cues whose diagnosticity determines accuracy, with invested mental effort as a candidate cue".
+- [Non-interactive teaching produces stronger under-confidence (metacognitive bias) than restudy immediately after learning](../claims/non-interactive-teaching-under-confidence-bias.md) [~W]
+- [Solving an isomorphic practice problem after studying a worked example improves prospective monitoring accuracy, with mixed effects on regulation accuracy](../claims/practice-problem-after-example-improves-monitoring.md) [~W]
+- [Perceived effort ratings are metacognitive judgments based on heuristic cue processing and prone to bias](../claims/perceived-effort-metacognitive-judgment.md) [+W]
+- [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](../claims/comsa-metacognitive-monitoring-stopping.md) [~W]
+- [Providing a standard answer to compare against improves the accuracy of students' retrospective monitoring judgments](../claims/answer-standard-improves-retrospective-monitoring.md) [+W]
+- [In Experiment 1, the extent of informative interleaving did not correlate with category assignment performance, which the authors interpret as a utilization deficiency](../claims/spontaneous-interleaving-no-performance-correlation-exp1.md) [~W]
 
 ## The evidence by question
 

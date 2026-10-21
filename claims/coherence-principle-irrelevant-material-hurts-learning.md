@@ -150,3 +150,4 @@ Program of controlled experiments in the author's lab comparing concise versus e
 - [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](coherence-principle-extraneous-material-effect.md) — possibly the same claim (merge candidate)
 - [The CTML research base grew from 45 experimental comparisons and 7 principles (2001) to 201 comparisons and 15 principles (2021)](ctml-research-base-growth-across-editions.md) — related
 - [Redundant and decorative elements, including emotional design embellishments, can enhance learning despite constituting potential extraneous load](emotional-design-redundancy-enhance-learning.md) — reports the opposite
+- [Weeding seductive details fostered learning only in a mandatory (high-reward) learning situation, not a voluntary one](weeding-effective-only-mandatory-learning.md) — related

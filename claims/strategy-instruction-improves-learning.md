@@ -98,3 +98,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Elementary teachers more often instruct cognitive strategies than metacognitive strategies during a standardized lesson](teachers-instruct-cognitive-more-than-metacognitive-strategies.md) — related
 - [Pedagogical interventions and scaffolds increase learners' use of self-regulated reading strategies](pedagogy-increases-self-regulated-reading-strategies.md) — a narrower finding that bears on this claim
 - [Self-regulated reading processes are positively associated with reading and learning outcomes](self-regulated-reading-associated-with-outcomes.md) — a narrower finding that bears on this claim
+- [Advanced learners may benefit from learner-controlled selection of learning tasks and levels of generality](learner-control-advanced-learners-flexibility.md) — a narrower finding that bears on this claim

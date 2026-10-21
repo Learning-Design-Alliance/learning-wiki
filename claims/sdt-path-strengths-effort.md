@@ -55,3 +55,4 @@ SEM results for the SDT model (n = 511) show standardized path coefficients to i
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — a narrower finding that bears on this claim
 - [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — related
 - [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](adhd-motivation-profile-sdt-dimensions.md) — related
+- [Introjected regulation is positively related to Korean students' achievement and self-regulated learning despite its association with academic stress](introjected-regulation-positive-korean-achievement.md) — related

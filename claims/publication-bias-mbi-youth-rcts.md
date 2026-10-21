@@ -54,3 +54,4 @@ Begg's funnel plots and Egger's regressions conducted for each meta-analysis. Th
 - [Total training hours significantly moderate MBI effects on negative behaviour across all RCTs, with more hours associated with larger reductions](training-dose-moderates-negative-behaviour.md) — related
 - [No publication bias is detected in the collected Covid-19 achievement estimates](covid-meta-analysis-no-publication-bias.md) — related
 - [Publication bias is indicated for the performance-approach and performance-avoidance anxiety effects but not for the depression effects](publication-bias-performance-goal-anxiety-effects.md) — related
+- [Funnel-plot asymmetry indicates small-study effects for some emotion–learning models](funnel-plot-asymmetry-emotion-learning-models.md) — related

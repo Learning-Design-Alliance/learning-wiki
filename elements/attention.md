@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (15 for, 5 mixed, 3 against) · 33 studies (11 causal, 10 review, 7 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 5 of 33 report an effect size · 16 claims rest on one study
+> **Evidence** · 24 claims (16 for, 5 mixed, 3 against) · 34 studies (12 causal, 10 review, 7 quant-synthesis, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 6 of 34 report an effect size · 17 claims rest on one study
 
 ## Description
 Attention is the gateway to learning: information that is not attended to is not encoded, regardless of its quality or presentation. As an instructional element, "attention" refers to the deliberate design moves — signaling, salience, segmentation, and distraction management — that direct learners' limited attentional resources toward the content and interactions that matter.
@@ -68,6 +68,7 @@ Because working memory is severely limited and attention is selective, instructi
 - [Performance was unrelated to dwell time on the graph but increased with dwell time on the problem statement](../claims/statement-dwell-predicts-performance.md) [+W]
 - [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](../claims/task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) [~W]
 - [Evidence that perceptual attention and WM maintenance share a limited resource is not yet convincing](../claims/shared-resource-perceptual-attention-wm-unconvincing.md) [~W]
+- [In Experiment 1, differences-matter instruction shifted learners' self-reported effort allocation toward detecting differences and away from detecting commonalities](../claims/differences-matter-instruction-shifts-effort-allocation.md) [+W]
 
 ## The evidence by question
 - *Do cues that highlight the essential material and its organisation improve learning, and by how much?* [Signaling Improves Learning](../claims/signaling-improves-learning.md) [+S]

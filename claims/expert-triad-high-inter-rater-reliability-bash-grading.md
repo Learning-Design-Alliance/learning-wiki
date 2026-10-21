@@ -67,3 +67,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Disciplinary AI interaction competencies are observable in student response artifacts and scorable with rubrics grounded in student data and expert knowledge](ai-interaction-competencies-observable-scorable.md) — related
 - [Human inter-rater agreement on the writing rubric is imperfect: no rubric item reaches full agreement and the most discrepant rater generally falls below 80%](human-inter-rater-agreement-imperfect-upper-bound.md) — reports the opposite
 - [Experts rated KITE's feedback positively on scaffolding, guidance, coherence, and tone in 93.18% of judgments, with high interrater agreement (κ = 0.88)](kite-feedback-high-expert-rubric-ratings.md) — related
+- [Risk of bias among included studies was mixed, with Newcastle–Ottawa ratings ranging from 3 to 9 and high inter-rater agreement](newcastle-ottawa-risk-of-bias-mixed-across-included-studies.md)

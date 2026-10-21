@@ -84,3 +84,4 @@ The article reports, citing Zhai et al., that frequent chatbot interaction for a
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
 - [Metacognitive analysis activities were positively associated with transfer, but metacognitive activities showed no association with essay quality](metacognitive-analysis-transfer-association.md) — related
 - [Generative AI support can foster self-regulated learning more effectively than traditional AI-based implementations](generative-ai-supports-self-regulated-learning.md) — related
+- [Advanced learners may benefit from learner-controlled selection of learning tasks and levels of generality](learner-control-advanced-learners-flexibility.md) — related

@@ -47,3 +47,4 @@ Meta-analysis of (quasi)-experimental studies evaluating in-service training for
 - [In-service PD shows a small effect on child development (ES = 0.14) in studies reporting both quality and child outcomes](inservice-pd-small-child-level-effect.md) — related
 - [Child-level PD effects are significantly related to in-service effects on quality ratings, with 53% explained variance](quality-improvement-mechanism-child-outcomes.md) — related
 - [Interventions that change educator behaviour to match standard global definitions of quality have delivered negligible effects on children's developmental outcomes](educator-behaviour-interventions-negligible-child-outcomes.md) — related
+- [Prior meta-analyses report few or weak associations between ECEC quality indices and child progress, with process quality more predictive than structural quality](prior-meta-analyses-weak-quality-outcome-associations.md) — related

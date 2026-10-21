@@ -50,3 +50,4 @@ Theoretical argument in Section 3.3 of the position paper: the authors argue, wi
 - [Students report that GenAI creates an uneven playing field in assessment, favoring students who use it over those who work independently](genai-uneven-playing-field-assessment-fairness.md) — related
 - [Time spent getting to know each other paradoxically amplifies perceived group heterogeneity in first-language heterogeneous CSCL groups](getting-to-know-time-increases-perceived-heterogeneity.md) — related
 - [Initial-phase task-related communication moderates the negative relationship between first-language heterogeneity and self-efficacy gains, while getting-to-know-each-other time does not](task-related-communication-moderates-heterogeneity-self-efficacy-effect.md) — related
+- [Not every hour of study time is equally productive; the benefit of an additional hour depends on the student's position on their learning curve](comsa-study-hours-unequal-productivity.md) — related

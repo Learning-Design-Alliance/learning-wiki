@@ -44,3 +44,4 @@ Descriptive preliminary analysis of the 322-teacher sample reported in the Resul
 
 ## Related Claims
 - [Teachers' perceived severity of bullying predicts their likelihood of reacting to incidents of aggression](perceived-severity-predicts-teacher-reaction.md) — related
+- [Well-being is more strongly related to verbal and particularly relational victimization than to physical victimization](well-being-more-tied-to-relational-verbal-victimization.md) — related

@@ -12,7 +12,7 @@ generated:
 # Krashen's input hypothesis and Monitor Model of second language acquisition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (7 for, 3 mixed, 3 against) · 14 studies (5 causal, 3 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 2 of 14 report an effect size · 12 claims rest on one study
+> **Evidence** · 14 claims (7 for, 4 mixed, 3 against) · 15 studies (5 causal, 4 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 2 of 15 report an effect size · 13 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed226607, eric-ed294203, eric-ed242194, eric-ej1071042, eric-ed338037, eric-ed367161, eric-ej1095572, eric-ej420159, eric-ej912917, eric-ed512082, eric-ej1051487. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -53,6 +53,7 @@ The critiques are sharper than the defences. Adamson argues that the absolute sp
 - [Regular past tense accuracy is greatest in planned writing, intermediate in planned speech, and least in unplanned speech](../claims/regular-past-accuracy-planned-writing-highest.md) [+W]
 - [L2 learners style-shift in past tense accuracy within narrative discourse according to the amount of planning time available](../claims/style-shifting-past-tense-planning-time-narrative.md) [~W]
 - [All three input/interaction conditions produced significant gains in vocabulary recognition and acquisition of Japanese locative structures](../claims/significant-gains-all-three-input-conditions.md) [+W]
+- [Language proficiency moderates the effect of non-interactive teaching on immediate monitoring accuracy](../claims/language-proficiency-moderates-monitoring-accuracy.md) [~W]
 
 ## The evidence by question
 - *Is exposure to meaningful input enough for learners to acquire L2 grammar, or do some forms need explicit instruction and practice?* [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [-M]

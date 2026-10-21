@@ -65,3 +65,4 @@ Bootstrap mediation for task type in the same model: only the autonomy pathway w
 - [The instructional manipulation check confirmed that TBI and SBI videos were perceived as intended](manipulation-check-tbi-sbi-differentiation.md) — related
 - [Autonomy, diversity, interactivity, openness and Web 2.0 showed a positive significant effect on students' achievement in a structural model](connectivist-principles-positive-effect-achievement.md) — related
 - [Open-ended tasks produce higher AI literacy performance than structured tasks](oet-outperforms-stt-ai-literacy-performance.md) — related
+- [Teacher beliefs about individual students relate to differentiated need support: students with higher teacher-reported expectations perceive more need support](teacher-expectations-relate-to-perceived-need-support.md) — related

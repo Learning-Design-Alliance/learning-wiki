@@ -90,3 +90,5 @@ Post-hoc contrast of bias on the one-week delayed test: the single-reading group
 - [JOL magnitudes decline across successive lists in both JOL groups, reflecting learners' belief that recall decreases with continued new learning](jol-magnitudes-decline-across-lists.md) — related
 - [Students' JoL ratings became more consistent over time and evolved from under-rating to over-rating to accurate judgement](jol-consistency-and-rating-evolution.md) — related
 - [Judgments of learning add no new self-assessment information beyond performance estimates for single tasks](jols-redundant-with-performance-estimates.md) — related
+- [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related
+- [Non-interactive teaching produces stronger under-confidence (metacognitive bias) than restudy immediately after learning](non-interactive-teaching-under-confidence-bias.md) — related

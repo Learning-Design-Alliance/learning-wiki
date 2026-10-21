@@ -48,3 +48,4 @@ Conceptual/historical argument from the abstract contrasting the origins of the 
 - [A dual intrinsic/extraneous load framework is sufficient, non-redundant, and makes the boundaries of cognitive load theory transparent](dual-intrinsic-extraneous-framework-sufficient.md) — related
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [Germane cognitive load can be defined in terms of intrinsic cognitive load, associating it with element interactivity](germane-load-defined-via-intrinsic-load.md) — related
+- [The results suggest a new interpretation of intrinsic and extrinsic load as related to the time needed to process information](load-interpretation-time-to-process.md) — related

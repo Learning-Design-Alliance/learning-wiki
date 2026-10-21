@@ -68,3 +68,4 @@ In the same CB-SEM structural model of 498 medical undergraduates, the path from
 - [School-side support (teacher, instructional, and institutional provision) is associated with learners' motivation, engagement, and need satisfaction](school-side-support-genai-engagement.md) — related
 - [Retention programs interpreted as meeting all three SDT needs show higher persistence and standing](retention-programs-meeting-all-three-needs-higher-persistence.md) — a narrower finding that bears on this claim
 - [Both autonomy support and structure elevate students' motivation, engagement, and need satisfaction with moderate to large effect sizes](autonomy-structure-student-outcomes.md) — related
+- [A key divergence: SDT theorizes need thwarting as an active, independent dimension predicting unique negative outcomes, while HET focuses on positive teaching dimensions](need-thwarting-divergence-het-sdt.md) — related

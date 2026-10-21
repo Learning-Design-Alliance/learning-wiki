@@ -114,3 +114,4 @@ This has a direct design consequence: chunking imposed from outside only helps w
 - [Short chunking study outlines produce higher test performance than long chunking study outlines](short-cso-improves-test-performance.md) — a narrower finding that bears on this claim
 - [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](cpc-difference-delayed-posttest-only.md) — a narrower finding that bears on this claim
 - [Failure to obtain a testing effect with immediate tests may be partly due to working memory depletion](testing-effect-working-memory-depletion-immediate-tests.md) — related
+- [Cognitive Load Theory has traditionally used slot-based working memory capacity models](clt-traditionally-used-slot-models.md) — related

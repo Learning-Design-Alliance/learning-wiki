@@ -65,3 +65,4 @@ This finding qualifies the whole-task approach, suggesting that [part-task pract
 - [Real-life complex tasks carry high intrinsic cognitive load, requiring new load-management methods](real-life-tasks-high-intrinsic-load-need-management.md) — related
 - [Pretraining principle: pre-lessons on names, locations, and characteristics of key components improve transfer](pretraining-principle-mayer-2008.md) — related
 - [Current cognitive load measures cannot detect overload because the critical level indicating overload is unknown](load-measures-cannot-detect-overload.md) — related
+- [High task variability can overload working memory and reduce learning efficiency in some cases](task-variability-overload-tradeoff.md) — related

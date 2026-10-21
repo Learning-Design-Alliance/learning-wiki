@@ -73,3 +73,4 @@ The commentary reports, citing Abel et al. (2024), an experiment on learners' pr
 - [Total adherence to instructional design principles does not correlate with learning outcomes, mental effort, or motivational variables](principle-adherence-no-correlation-with-outcomes.md) — related
 - [Physiological measures have limited validity for effort, especially for distinguishing data-driven from goal-driven effort](physiological-effort-measures-limited-validity.md) — a narrower finding that bears on this claim
 - [Effort was consistently described as willful, motivation-dependent investment, whereas load was described as imposed and difficult to control](effort-willful-load-imposed.md) — related
+- [CLT can serve as a framework for teaching generalized knowledge and skills, including learning strategies](clt-framework-generalized-skills.md) — related

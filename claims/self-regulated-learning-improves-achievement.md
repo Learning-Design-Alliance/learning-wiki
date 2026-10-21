@@ -316,3 +316,4 @@ Open questions that evidence entries should address include: which strategy fami
 - [Attention and self-regulation skills are trainable in children, with reported behavioral and neural changes across curricula and intervention programs](attention-training-interventions-evidence-note.md) — related
 - The evidence base is concentrated in self-reported metacognitive regulation, with planning support and non-self-report measures under-represented — related
 - [Self-regulated reading processes are positively associated with reading and learning outcomes](self-regulated-reading-associated-with-outcomes.md) — a narrower finding that bears on this claim
+- [Advanced learners may benefit from learner-controlled selection of learning tasks and levels of generality](learner-control-advanced-learners-flexibility.md) — a narrower finding that bears on this claim

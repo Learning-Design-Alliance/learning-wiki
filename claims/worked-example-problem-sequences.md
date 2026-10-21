@@ -138,3 +138,4 @@ Do not conflate example→problem pairs with completion problems: the latter omi
 - [Solving practice problems invested less mental effort than contrasting or erroneous examples, contrary to the worked-example-effect hypothesis](practice-problems-lower-mental-effort.md) — related
 - [Presenting primary knowledge first and then secondary knowledge was more efficient in both performance and motivation](primary-first-sequencing-benefits.md) — related
 - [Restudy of worked examples invested much less mental effort than testing after four examples, but this difference was not replicated with vocational students](restudy-effort-lower-after-four-examples.md) — related
+- [Completing steps in partially worked-out examples leads students to underestimate their test performance and report higher mental effort than studying fully worked examples](completion-problems-underestimation-higher-effort.md) — related

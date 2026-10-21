@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 72 claims (58 show a difference, 12 mixed, 2 no difference) · 62 studies (19 review, 12 qualitative, 10 causal, 8 associational, 5 design, 5 theoretical, 3 quant-synthesis), `q1`–`q4` · 2 of 62 report an effect size · 67 claims rest on one study
+> **Evidence** · 73 claims (58 show a difference, 13 mixed, 2 no difference) · 63 studies (20 review, 12 qualitative, 10 causal, 8 associational, 5 design, 5 theoretical, 3 quant-synthesis), `q1`–`q4` · 2 of 63 report an effect size · 68 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -109,6 +109,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Sense of belonging to mathematics is positively related to algebraic thinking in reviewed studies](../claims/belonging-mathematics-positive-algebra.md) [+M] — learners who differ on it differ in outcomes
 - [The review argues that ignoring the social side of school carries costs including reified achievement gaps, diminished belonging and dropout, and unsafe school climates](../claims/costs-of-ignoring-social-side-of-school.md) [+W] — instruction changes it
 - [Randomly assigned use of public space significantly reduced the SES gap in belonging, but the race-by-condition interaction was not significant](../claims/assigned-public-space-use-reduces-ses-belonging-gap.md) [~M] — instruction changes it
+- [A sense of relatedness moderates East Asian learners' internalization of others' choices, with benefits of other-made choices diminishing without belongingness](../claims/relatedness-moderates-other-made-choices.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

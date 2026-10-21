@@ -50,3 +50,4 @@ Secondary qualitative finding from the gateway math study of faculty and student
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — related
 - [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](life-science-examples-increase-interest-and-relevance.md) — related
+- [Most teacher programs required significant time, effort, and resources, with mean program attrition of 12.69% and rates reaching 66.67%, suggesting time demands may limit real-world translation](teacher-program-time-burden-attrition.md) — related

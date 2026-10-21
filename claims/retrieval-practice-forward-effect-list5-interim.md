@@ -69,3 +69,4 @@ Planned contrast comparing overt retrieval practice with JOLs with word stems on
 - [Making JOLs with word stems enhances interim recall of new List-5 material compared to restudy](jol-word-stems-enhance-list5-interim-recall.md) — related
 - [Retrieval practice enhances final-test recollection of contextual details and speeds final retrieval, as shown by list discrimination, response time, and cumulative recall measures](retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency.md) — a broader claim this one bears on
 - [JOLs with word stems and retrieval practice reduce prior-list intrusions on the List-5 test, whereas JOLs with complete words do not](word-stem-jols-reduce-prior-list-intrusions.md) — related
+- [Both overt and covert retrieval practice outperform restudy when practice and test match (the testing effect)](both-retrieval-formats-beat-restudy.md) — related

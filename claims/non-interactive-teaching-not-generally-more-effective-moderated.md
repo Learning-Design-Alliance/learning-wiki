@@ -65,3 +65,4 @@ Moderation analyses in the same within-participants schooling study (N = 191) id
 - [Students' domain-specific self-concept moderates non-interactive teaching: low self-concept students profit, high self-concept students do not](self-concept-moderates-noninteractive-teaching.md) — related
 - [High levels of induced social presence during non-interactive teaching can impair learning relative to restudy (a double-edged sword)](social-presence-double-edged-sword-noninteractive-teaching.md) — related
 - [Prior knowledge moderates non-interactive teaching: low conceptual knowledge learners profit more, but very low-knowledge learners may not benefit at all](prior-knowledge-moderates-noninteractive-teaching.md) — related
+- [Non-interactive teaching yields higher immediate scientific knowledge than restudy in secondary physics classrooms](non-interactive-teaching-immediate-knowledge-advantage.md) — reports the opposite

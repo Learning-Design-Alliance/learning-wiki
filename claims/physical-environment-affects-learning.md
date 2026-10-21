@@ -51,3 +51,4 @@ The synthesis reports that "views of nature from the classroom" and sunlight boo
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](nature-exposure-reduces-learner-stress.md) — a narrower finding that bears on this claim
 - [Classroom views of greenery improve children's concentration compared with built views or windowless classrooms](green-classroom-views-boost-concentration.md) — a narrower finding that bears on this claim
 - [The school-built environment, including access to nature and green spaces, positively impacts children, teachers, and the school community](school-built-environment-positive-impact.md) — a broader claim this one bears on
+- [In secondary school students, breaks with green views or walks in larger green spaces improve attention performance](green-exposure-secondary-school-attention.md) — a narrower finding that bears on this claim

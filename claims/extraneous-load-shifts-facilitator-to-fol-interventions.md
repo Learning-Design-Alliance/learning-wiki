@@ -52,3 +52,4 @@ Interpretive analysis of co-occurrence data from the rule-based case study. The 
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on
 - [In an open simulation game with wide scope and low distance, second-order interventions effectively elicited second-order responses](open-sg-sol-interventions-elicit-sol-responses.md) — related
 - [In an open simulation game, third-order interventions effectively evoked third-order responses](open-sg-tol-interventions-elicit-tol-responses.md) — related
+- [High task variability can overload working memory and reduce learning efficiency in some cases](task-variability-overload-tradeoff.md) — related

@@ -19,7 +19,7 @@ sources:
 # Guided Discovery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 4 mixed) · 9 studies (4 quant-synthesis, 2 review, 1 causal, 1 design, 1 theoretical), `q2`–`q4` · 3 of 9 report an effect size · 7 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 10 studies (5 quant-synthesis, 2 review, 1 causal, 1 design, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size · 8 claims rest on one study
 
 ## Description
 Guided discovery is the element in which learners investigate, infer, or notice patterns for themselves, but with prompts, constraints, examples, or feedback that keep the exploration productive. It is useful when the goal is active sensemaking without leaving learners entirely unguided.
@@ -57,6 +57,7 @@ Guided discovery is the element in which learners investigate, infer, or notice 
 - [Guided discovery outperformed both unguided discovery and direct instruction in classic studies](../claims/guided-discovery-outperformed-both-extremes.md) [+W]
 - [Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)](../claims/minimal-guidance-inquiry-inferior-explicit-instruction.md) [~W]
 - [One review reports that more teacher guidance within inquiry is associated with larger advantages over traditional instruction, though the two meta-analyses it cites differ in magnitude](../claims/teacher-guided-inquiry-larger-effects.md) [+M]
+- [High teaching guidance in concept mapping yields larger effects than low guidance, though marginal after excluding influential studies](../claims/high-teaching-guidance-larger-concept-map-effects.md) [~W]
 
 ## The evidence by question
 - *Does discovery with guidance (prompts, feedback, worked examples, elicited explanations) produce more learning than unassisted discovery or other instruction?* [Enhanced discovery learning produces greater learning than other forms of instruction](../claims/enhanced-discovery-beats-other-instruction.md) [+M]

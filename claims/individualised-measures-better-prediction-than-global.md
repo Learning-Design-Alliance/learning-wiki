@@ -44,3 +44,5 @@ The review reports this comparison citing Burchinal et al. (2021) and Jeon et al
 
 ## Related Claims
 - [Interventions that change educator behaviour to match standard global definitions of quality have delivered negligible effects on children's developmental outcomes](educator-behaviour-interventions-negligible-child-outcomes.md) — related
+- [Global ECEC quality indices show little evidence of relating to child outcomes](global-ecec-quality-indices-little-evidence-child-outcomes.md) — related
+- [Prior meta-analyses report few or weak associations between ECEC quality indices and child progress, with process quality more predictive than structural quality](prior-meta-analyses-weak-quality-outcome-associations.md) — related

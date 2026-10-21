@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 93 claims (48 for, 43 mixed, 2 against) · 41 studies (15 causal, 9 review, 8 quant-synthesis, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 12 of 41 report an effect size · 86 claims rest on one study
+> **Evidence** · 104 claims (52 for, 46 mixed, 6 against) · 43 studies (17 causal, 9 review, 8 quant-synthesis, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 14 of 43 report an effect size · 97 claims rest on one study
 
 ## Conditional relationship
 
@@ -99,6 +99,8 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [No testing effect was found for acquiring problem-solving skills through worked example study across eight experiments](../claims/testing-effect-absent-worked-example-study.md) [~W] — attached 2026-10-21 from van Gog et al. (2015), which proposed "Consider the complexity of learning materials when deciding between practice testing and further study"; tests this page's relationship.
 - [Testing effect disappears for a coherent complex text but reappears, as reduced forgetting, when the same sentences are scrambled](../claims/testing-effect-disappears-coherent-text-reappears-scrambled.md) [~W] — attached 2026-10-21 from van Gog et al. (2015), which proposed "Consider the complexity of learning materials when deciding between practice testing and further study"; tests this page's relationship.
 - [The advantage of recitation over rereading is greater the less connected the learning material (Kühn 1914; Gates 1917)](../claims/recitation-advantage-decreases-material-connectedness-gates-kuehn.md) [+W] — attached 2026-10-21 from van Gog et al. (2015), which proposed "Consider the complexity of learning materials when deciding between practice testing and further study"; tests this page's relationship.
+- [Overt retrieval practice produces higher delayed recall of definitions than covert retrieval practice for learners studying declarative concepts](../claims/overt-beats-covert-retrieval-definitions.md) [+M] — attached 2026-10-21 from Michelle L. Rivers et al. (2025), which proposed "Students should prioritize overt retrieval when mastering complex information such as definitions".
+- [Covert retrieval is the most time-efficient practice strategy, yielding the largest gains per minute of practice for both terms and definitions](../claims/covert-retrieval-most-efficient-gains-per-minute.md) [~M] — attached 2026-10-21 from Michelle L. Rivers et al. (2025), which proposed "Students should prioritize overt retrieval when mastering complex information such as definitions".
 
 ## Objective and learner-valued goal
 
@@ -219,6 +221,15 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Correct-answer feedback alone was insufficient for generalization: significantly worse than lecture in Study 1, with the difference not significant in Study 2](../claims/correct-answer-feedback-insufficient-for-generalization.md) [~W]
 - [The testing effect from frequent retrieval is revealed only on later comprehensive tests, not in performance in other courses](../claims/testing-effect-limited-to-comprehensive-tests.md) [~W]
 - [Restudy of worked examples invested much less mental effort than testing after four examples, but this difference was not replicated with vocational students](../claims/restudy-effort-lower-after-four-examples.md) [~W]
+- [Transfer across response formats is incomplete: practicing terms benefited definition recall, but practicing definitions showed no overt-over-covert advantage on a term test](../claims/transfer-across-term-definition-formats-mixed.md) [~M]
+- [Testing after studying four worked examples does not enhance delayed test performance compared with restudy among vocational education students in probability calculation (Experiment 4)](../claims/exp4-no-testing-effect-vocational-probability.md) [-W]
+- [Taking an immediate plus delayed final test yields higher delayed test performance with less invested effort than taking only a delayed test (Experiment 2)](../claims/immediate-plus-delayed-test-advantage-exp2.md) [+W]
+- [Across eight delayed-test comparisons, testing showed a small numerical advantage over restudy, but confidence intervals were wide and the combined effect imprecise](../claims/small-scale-meta-analysis-testing-restudy-imprecise.md) [+W]
+- [The overt-retrieval advantage does not significantly differ by definition complexity (number of idea units), contrary to a retrieval-dynamics prediction](../claims/overt-advantage-not-moderated-by-idea-units.md) [~W]
+- [The testing effect has been demonstrated across a variety of mostly low-element-interactivity materials, but problem-solving tasks had received very little testing-effect research attention](../claims/testing-effect-established-verbal-materials-not-problem-solving.md) [+W]
+- [Testing via identical problem solving after studying identical worked examples did not significantly improve delayed test performance compared with restudying identical examples (Experiment 2)](../claims/exp2-no-testing-effect-identical-problems.md) [-W]
+- [Testing after worked example study invests more mental effort than restudying examples, so restudy is more instructionally efficient at equal delayed performance (Experiment 3)](../claims/testing-more-effortful-than-restudy-exp3.md) [-W]
+- [Testing after studying four worked examples is not more effective for delayed test performance than restudying examples, with isomorphic or identical tasks (Experiment 3)](../claims/exp3-no-testing-effect-after-four-examples.md) [-W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

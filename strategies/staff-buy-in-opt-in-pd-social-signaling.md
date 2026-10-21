@@ -44,6 +44,7 @@ The report recommends developing staff mastery of restorative practices because 
 - [Build authentic stakeholder buy-in through relational strategies: show don't tell, slow down to speed up, engage resistors, and asset framing](relational-buy-in-strategies-restorative-implementation.md)
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Structural supports for restorative practices: funding, people, time, discipline policy, and equity](structural-supports-restorative-implementation.md)
+- [Embed relationship-building supports in school structures, teacher preparation, and policy signals](embed-tsr-supports-in-contexts.md)
 
 ## Examples
 -

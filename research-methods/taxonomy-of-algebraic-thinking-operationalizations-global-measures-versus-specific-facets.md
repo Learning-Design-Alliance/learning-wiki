@@ -26,6 +26,7 @@ The review organizes algebra outcome measures into a taxonomy distinguishing glo
 ## Related Research Methods
 
 - [Three-tiered classification system of self-regulation: categories, domains, and facets](three-tiered-classification-system-of-self-regulation-categories-domains-and-facets.md)
+- [Classification framework distinguishing global quality, global process quality, quality pedagogical interactions, and quality interactions related to curriculum content](classification-framework-distinguishing-global-quality-global-process-quality-quality-peda.md)
 
 ## Key Sources
 - Silla, E. M., Guba, T.-P., Rodrigues, A., Anisiobi, O. C., Scanniello, A., & Barbieri, C. A. (2026). A Systematic Review of Mathematical, Motivational, and Socioemotional Propensities Related to Algebraic Thinking. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10111-6

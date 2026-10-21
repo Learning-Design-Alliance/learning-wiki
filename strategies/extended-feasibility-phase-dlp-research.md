@@ -41,6 +41,7 @@ A key SEERNet learning is the benefit of an extended feasibility process involvi
 - [Conduct a smaller sequence of rapid-cycle studies that build on one another instead of planning a single large confirmatory study](sequence-of-smaller-rapid-cycle-dlp-studies.md)
 - [Five recommendations for integrating Improvement Science with SEERNet](five-recommendations-seernet-improvement-integration.md)
 - [Run conversational office hours in which practitioners and researchers co-design research questions with platform representatives](office-hours-co-design-research-questions.md)
+- [Pair rapid evidence synthesis with community co-development to speed usable implementation plans](rapid-evidence-synthesis-with-community-codevelopment.md)
 
 ## Examples
 -

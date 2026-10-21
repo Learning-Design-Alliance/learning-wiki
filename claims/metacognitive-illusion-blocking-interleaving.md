@@ -52,3 +52,4 @@ Post-test judgment among the 114 Experiment 2 participants: 65% (37/57) favored 
 - [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](larger-spacing-better-interleaved-induction.md) — related
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
 - [Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65](interleaving-memory-benefit-meta-analysis.md) — related
+- [Even when motivated to distinguish and informed that differences matter, learners in Experiment 1 blocked 68% of their study sequence choices](blocking-persists-despite-motivation-and-instruction.md) — related

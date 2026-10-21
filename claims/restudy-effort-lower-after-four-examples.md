@@ -45,3 +45,5 @@ The review reports invested mental effort ratings from van Gog et al.'s experime
 ## Related Claims
 - [No testing effect was found for acquiring problem-solving skills through worked example study across eight experiments](testing-effect-absent-worked-example-study.md) — related
 - [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — related
+- [Testing after studying four worked examples does not enhance delayed test performance compared with restudy among vocational education students in probability calculation (Experiment 4)](exp4-no-testing-effect-vocational-probability.md) — related
+- [Testing after worked example study invests more mental effort than restudying examples, so restudy is more instructionally efficient at equal delayed performance (Experiment 3)](testing-more-effortful-than-restudy-exp3.md) — related

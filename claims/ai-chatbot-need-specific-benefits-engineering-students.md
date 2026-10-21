@@ -74,3 +74,4 @@ Discussion of the same cross-sectional survey; descriptive means show perceived 
 - [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no significant independent effect](competence-strongest-predictor-relatedness-null.md) — related
 - [Managers perceive the greatest AI potential in data analytics, document automation, and quality monitoring, and the least in personalization](application-potential-analytics-automation-monitoring.md) — related
 - [Chatbot support systems in online learning are associated with higher learner satisfaction and engagement when perceived as useful](chatbot-support-raises-satisfaction.md) — related
+- [A key divergence: SDT theorizes need thwarting as an active, independent dimension predicting unique negative outcomes, while HET focuses on positive teaching dimensions](need-thwarting-divergence-het-sdt.md) — related

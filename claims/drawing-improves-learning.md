@@ -70,3 +70,4 @@ A meta-analysis of STEM-learning studies published 2005–2020 (35 articles, 160
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related
 - [Empirical evidence on learner-generated drawing is inconsistent, and the review organizes it around hypotheses grounded in cognitive and strategic processing](inconsistent-drawing-evidence-organized-by-hypotheses.md) — related
 - [No evidence for a mapping between representational format and enhancement of a specific kind of understanding](no-format-knowledge-type-mapping.md) — related
+- [Active-processing focus-support techniques such as testing, self-explaining, concept mapping, and drawing show positive effects on learning](focus-support-active-processing-techniques-positive-effects.md) — a broader claim this one bears on

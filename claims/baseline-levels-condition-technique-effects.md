@@ -48,3 +48,6 @@ Theoretical rationale in the reply, applied to reinterpret prior findings: signa
 - [Stronger reward manipulations are predicted to yield learning gains with higher likelihood (magnitude-of-change condition)](magnitude-of-change-condition.md) — a broader claim this one bears on
 - [Reward prediction error: achieving less than expected causes a dopamine dip below baseline that discourages future effort, while external reward surges are followed by compensatory dips](dopamine-reward-prediction-error-crash.md) — related
 - [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related
+- [Effective instruction requires both focus support and reward: high focus support with low reward, or reward without focus support, yields poor learning](fore-h1-both-focus-support-and-reward-needed.md) — related
+- [A medium degree of both focus support and reward is sufficient for good learning outcomes](fore-h2-medium-degree-sufficient.md) — related
+- [Weeding seductive details fostered learning only in a mandatory (high-reward) learning situation, not a voluntary one](weeding-effective-only-mandatory-learning.md) — a narrower finding that bears on this claim

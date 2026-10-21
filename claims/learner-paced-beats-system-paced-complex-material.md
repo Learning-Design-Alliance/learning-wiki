@@ -135,3 +135,5 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 - [Self-explanation substantially increases time on task, raising questions about its efficiency](self-explanation-time-on-task-cost.md) — related
 - [Successful low-prior-knowledge inquiry learners managed cognitive load by exploring simple circuits first and pausing during learning](cognitive-load-management-in-inquiry-simulation-learning.md) — a narrower finding that bears on this claim
 - [Learner-controlled pacing of a video model was heavily used and associated with better understanding of underlying processes and less practice time, especially as task difficulty increased](pacing-control-video-model-understanding.md) — a narrower finding that bears on this claim
+- [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — related
+- [TBRS-model-derived hypotheses about presentation-pace effects were supported in two experiments, provided prior knowledge is taken into account](tbrs-hypotheses-tested-two-experiments.md) — related

@@ -80,3 +80,4 @@ Meta-analysis of the segmenting effect derived from Mayer's CTML, summarized in 
 - [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](segmenting-principle-mayer-2008.md) — related
 - [Learner control over pace and order of an animated multimedia instruction improves transfer performance compared with system control](learner-control-improves-transfer-animated-instruction.md) — related
 - [The reviewed tracing studies consistently confirm learning benefits of tracing across retention, comprehension, and transfer measures, though cognitive-load hypotheses were not confirmed in all studies](tracing-review-consistent-benefits-mixed-load.md) — related
+- [TBRS-model-derived hypotheses about presentation-pace effects were supported in two experiments, provided prior knowledge is taken into account](tbrs-hypotheses-tested-two-experiments.md) — related

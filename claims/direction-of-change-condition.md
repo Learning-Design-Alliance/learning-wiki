@@ -48,3 +48,6 @@ Theoretical prediction in the reply, illustrated with humor in instruction. The 
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related
 - [Stronger reward manipulations are predicted to yield learning gains with higher likelihood (magnitude-of-change condition)](magnitude-of-change-condition.md) — related
+- [Effective instruction requires both focus support and reward: high focus support with low reward, or reward without focus support, yields poor learning](fore-h1-both-focus-support-and-reward-needed.md) — related
+- [A medium degree of both focus support and reward is sufficient for good learning outcomes](fore-h2-medium-degree-sufficient.md) — related
+- [Cognitive-motivational techniques that increase both focus support and reward are hypothesized to be most effective for learning](fore-h3-cognitive-motivational-techniques-most-effective.md) — possibly the same claim (merge candidate)

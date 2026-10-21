@@ -64,3 +64,4 @@ Triangulated publication-bias assessment: funnel plot, Egger's mixed-effects tes
 ## Related Claims
 - [Fine motor skills correlate more strongly with overall academic-cognitive skills (r = .302) than gross motor skills (r = .170) in children aged 3–16](fims-stronger-than-gms-overall-academic-cognitive.md) — related
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related
+- [Female percentage and mean age significantly moderate the ER difficulties–burnout association; study quality does not](female-percentage-age-moderate-er-burnout.md) — reports the opposite

@@ -44,3 +44,5 @@ The review reports Pouta et al.'s mobile eye-tracking study of experienced and s
 
 ## Related Claims
 - [Joint attention between teachers and pupils depends on situational differences and teachers' agency and communion](joint-attention-depends-on-situation-agency-communion.md) — related
+- [Student teachers and experienced teachers do not differ in attending to students' mathematical thinking or fraction content during one-on-one teaching](no-group-difference-attending-mathematical-thinking.md) — related
+- [Student teachers' fraction instruction is less understanding-supportive than experienced teachers' despite their more advanced interpretations](student-teachers-less-supportive-instruction.md) — related

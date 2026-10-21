@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 208 claims (130 show a difference, 47 mixed, 31 no difference) · 152 studies (97 associational, 25 causal, 10 quant-synthesis, 6 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 24 of 152 report an effect size · 200 claims rest on one study
+> **Evidence** · 213 claims (133 show a difference, 48 mixed, 32 no difference) · 155 studies (98 associational, 25 causal, 11 quant-synthesis, 7 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 24 of 155 report an effect size · 205 claims rest on one study
 
 ## How to read this page
 
@@ -246,6 +246,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [The wellbeing effects of school-led nature interventions show a gender effect, with girls benefiting in PA in some studies, but inconclusive findings for age](../claims/gender-effect-school-nature-interventions.md) [~M] — an instructional effect differs by group
 - [Gender differences on WISC subtests and factors are generally smaller or unchanged with newer WISC versions, never larger](../claims/wisc-newer-versions-smaller-gender-differences.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Gender differences on WISC working memory (gSM) are negligible and not statistically significant](../claims/wisc-working-memory-no-gender-difference.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A medium gender difference in mental rotation favouring boys exists across adolescence and is already apparent at the beginning of adolescence](../claims/mental-rotation-gender-gap-adolescence-medium.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A small gender difference in visualisation favouring boys exists across adolescence and is robust across measurement instruments](../claims/visualisation-gender-gap-adolescence-small.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Age moderates gender differences in both mental rotation and visualisation, with gaps continuing to grow during adolescence](../claims/age-moderates-spatial-gender-differences.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Studies of preservice teachers found no statistically significant associations between gender or other sociodemographic variables and AHS](../claims/no-gender-sociodemographic-ahs-association.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The temporal asymmetry holds across gender and initial ability levels, with a cautious gender difference in the French lagged effect](../claims/temporal-asymmetry-gender-ability-invariance.md) [~M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

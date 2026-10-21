@@ -49,3 +49,4 @@ Multiple-group invariance tests in the longitudinal SEM compared constrained and
 - [The achievement goal model's pattern of results holds for both younger and older adult age groups](goal-model-holds-across-age-groups.md) — related
 - [The same cognitive processes account for variability in arithmetic skills in children at family-risk of dyslexia and typically developing controls](same-cognitive-processes-arithmetic-fr-td.md) — related
 - [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related
+- [The temporal asymmetry holds across gender and initial ability levels, with a cautious gender difference in the French lagged effect](temporal-asymmetry-gender-ability-invariance.md) — related

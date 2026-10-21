@@ -46,3 +46,4 @@ The review reports an experimental study in which random assignment to classroom
 - [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) — a broader claim this one bears on
 - [The school-built environment, including access to nature and green spaces, positively impacts children, teachers, and the school community](school-built-environment-positive-impact.md) — a broader claim this one bears on
 - [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — a broader claim this one bears on
+- [In secondary school students, breaks with green views or walks in larger green spaces improve attention performance](green-exposure-secondary-school-attention.md) — possibly the same claim (merge candidate)

@@ -134,3 +134,4 @@ The founding cognitive load paper. It argues that conventional problem solving b
 - [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](coherence-principle-extraneous-material-effect.md) — a narrower finding that bears on this claim
 - [Redundant and decorative elements, including emotional design embellishments, can enhance learning despite constituting potential extraneous load](emotional-design-redundancy-enhance-learning.md) — related
 - [Whether working memory has a single capacity limit or multiple capacity limits from functional specialization is highly relevant for the design of multimedia materials](single-versus-multiple-capacity-limits-multimedia-design.md) — related
+- [High task variability can overload working memory and reduce learning efficiency in some cases](task-variability-overload-tradeoff.md) — a narrower finding that bears on this claim

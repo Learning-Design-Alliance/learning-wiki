@@ -21,7 +21,7 @@ sources:
 # Elaboration Theory
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (2 for, 9 mixed) · 13 studies (4 causal, 4 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 13 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (3 for, 9 mixed) · 14 studies (4 causal, 4 quant-synthesis, 3 review, 2 theoretical, 1 associational), `q2`–`q4` · 2 of 14 report an effect size · 9 claims rest on one study
 
 ## Description and scope
 
@@ -122,6 +122,10 @@ Record: **opening sketch and placed details → epitome and level given → synt
 [Epitome](../elements/epitome-elaboration-theory.md), [simple-to-complex sequencing](../elements/simple-to-complex-sequencing.md), [advance organizers](../elements/advance-organizers.md), [conceptual overviews](../elements/conceptual-overviews.md), [concept maps](../elements/concept-map.md), [summarization and synthesis](../elements/summarization-and-synthesis.md), [analogies](../elements/analogies.md), [activation](../elements/activation.md), [part-task practice](../elements/part-task-practice.md), [practice](../elements/practice.md), [reflection](../elements/reflection.md) and [spiral curriculum](../elements/spiral-curriculum.md). The pattern also applies [metaphors and analogies](../principles/analogical-reasoning.md), [creating visual representations](../principles/dual-coding.md), [guided practice](../principles/guided-practice.md), [worked examples](../principles/worked-examples.md), [scaffolding](../principles/scaffolding.md) and [cognitive load theory](../principles/cognitive-load-theory.md).
 
 This pattern is scoped to sequencing organised content over a unit or course; it is a poor fit for isolated facts, and a forced epitome can distort a domain with no single organising idea. Its design cost is real: choosing the epitome and the levels is a content analysis that needs someone who knows the domain. The evidence above tests a hierarchical organisation of knowledge in small physics studies, not the sequence, and the conditional branches remain to be tested with learners.
+
+## Claims
+
+- [Hierarchical top-down schema-based instruction improved transfer performance compared with single-level and control instruction](../claims/hierarchical-schema-instruction-transfer.md) [+W]
 
 ## Related Patterns
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md)

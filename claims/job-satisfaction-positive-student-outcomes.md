@@ -45,3 +45,4 @@ Random-effects meta-analyses of students' motivation (k = 6, N = 3,144, r = 0.29
 ## Related Claims
 - [Job satisfaction correlates with performance outcomes for external reports as well as teacher self-reports, though self-report effect sizes are larger](rater-perspective-moderates-job-satisfaction-links.md) — a broader claim this one bears on
 - [Teachers' job satisfaction is positively associated with the quality of teacher-student interactions, with the largest pooled correlation for general interactions (r = 0.28)](job-satisfaction-positive-teacher-student-interactions.md) — related
+- [Teachers report that relationships with students are a primary source of enjoyment, motivation, and job satisfaction](student-relationships-primary-source-teacher-enjoyment.md) — related

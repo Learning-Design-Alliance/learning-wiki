@@ -50,3 +50,4 @@ Authors' interpretive argument (type e) in the discussion, not a tested result: 
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process](minimally-guided-instruction-less-effective-than-strong-guidance.md) — related
 - [Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy](prompting-paralysis-and-authority-bias.md) — related
+- [High teaching guidance in concept mapping yields larger effects than low guidance, though marginal after excluding influential studies](high-teaching-guidance-larger-concept-map-effects.md) — related

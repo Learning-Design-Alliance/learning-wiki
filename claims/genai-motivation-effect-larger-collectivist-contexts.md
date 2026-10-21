@@ -52,3 +52,4 @@ Exploratory subgroup analysis of cultural context (collectivist k = 49; individu
 - [The motivational effect of GenAI is larger in higher education than in primary and secondary education (exploratory)](genai-motivation-effect-larger-university-than-school.md) — related
 - [GenAI's motivational effect varies by subject domain, largest for language learning and smallest for science (exploratory)](genai-motivation-effect-varies-subject-domain-language-largest.md) — related
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related
+- [The adverse effects of an external locus of causality on anxiety are less pronounced in collectivistic than individualistic samples](external-locus-less-adverse-collectivistic.md) — related

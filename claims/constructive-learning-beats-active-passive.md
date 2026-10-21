@@ -133,3 +133,4 @@ Open questions include how much scaffolding converts a failing constructive atte
 - [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](discussion-improves-individual-perception.md) — a narrower finding that bears on this claim
 - [No evidence for a mapping between representational format and enhancement of a specific kind of understanding](no-format-knowledge-type-mapping.md) — related
 - [Triads with access to each other's concept maps were more efficient in collaborative problem solving](shared-concept-maps-improve-triad-efficiency.md) — a narrower finding that bears on this claim
+- [Active-processing focus-support techniques such as testing, self-explaining, concept mapping, and drawing show positive effects on learning](focus-support-active-processing-techniques-positive-effects.md) — related

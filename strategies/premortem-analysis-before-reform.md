@@ -46,6 +46,7 @@ A premortem, developed by Robert Sutton and Huggy Rao, asks people to imagine wh
 - [Identifying Obstacles](identifying_obstacles.md)
 - [After Action Review](after-action-review.md)
 - [What Would Their Day Look Like?](what_would_their_day_look_like.md)
+- [Use premortem brainwriting focus groups early in intervention design to surface barriers](premortem-brainwriting-focus-groups-implementation-barriers.md)
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Semantic network theory of learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 5 studies (3 causal, 2 quant-synthesis), `q1`–`q4` · 2 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 6 studies (3 causal, 3 quant-synthesis), `q1`–`q4` · 3 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 Knowledge is represented as semantic networks of nodes and links; learning consists of building new structures by constructing new nodes and interrelating them with existing nodes. The article uses this framework to define structural knowledge as knowledge of how concepts are interrelated, and frames learning as reorganization of the learner's knowledge structure to resemble the expert's, which mapping exercises are meant to induce.
@@ -44,6 +44,7 @@ Knowledge is represented as semantic networks of nodes and links; learning consi
 - [ESL students taught concept mapping show significantly greater pretest-to-posttest achievement gains than students taught an alternative learning strategy](../claims/concept-mapping-greater-achievement-gains-esl.md) [+W] — attached 2026-10-16 from Pasana Chularut (2001), which proposed "Concept mapping as a metacognitive learning strategy grounded in Ausubel's assimilation theory of meaningful learning".
 - [Concepts become more interrelated with practice under discriminate instructions, and more isolated with practice under image instructions](../claims/practice-changes-concept-interrelatedness.md) [~W]
 - [Whether a prototype or caricature is categorized more easily is predicted to depend on concept interrelatedness: prototype advantage for isolated, caricature advantage for interrelated concepts](../claims/prototype-caricature-interrelatedness-prediction.md) [~W]
+- [Concept-mapping effect sizes vary by science subject (physics/earth science g = 1.040, biology g = 0.671, chemistry g = 0.590) but not significantly](../claims/concept-map-effects-vary-by-science-subject.md) [+W]
 
 ## Related Theories
 

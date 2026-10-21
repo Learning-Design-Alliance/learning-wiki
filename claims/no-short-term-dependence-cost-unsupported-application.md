@@ -47,3 +47,4 @@ Two-way ANOVA (Table 7) on immediate unsupported application — an unseen acade
 - [Differentiated-AI materials exceeded unified-AI materials on reading comprehension within each proficiency stratum, most strongly for high-proficiency learners (d = 1.40)](within-stratum-differentiated-advantage-reading-comprehension.md) — related
 - [Expert EAP reviewers rated GenAI-generated differentiated materials favorably for academic fidelity, proficiency appropriateness, and teachability](genai-eap-materials-favorable-expert-ratings.md) — related
 - [No significant interaction between condition and pre-test knowledge on learning outcomes in either topic](no-condition-pretest-interaction-we-ps.md) — related
+- [Language proficiency moderates the effect of non-interactive teaching on immediate monitoring accuracy](language-proficiency-moderates-monitoring-accuracy.md) — related

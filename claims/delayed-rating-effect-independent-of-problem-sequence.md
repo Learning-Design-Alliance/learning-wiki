@@ -71,3 +71,4 @@ Experiment 2 Group 2 (n = 51) received problems in decreasing-complexity order. 
 - [ECL ratings also follow the complexity sequence, rising in the increasing condition and falling in the decreasing condition, though ECL was not manipulated](ecl-ratings-follow-complexity-sequence.md) — related
 - [ICL ratings track the manipulated complexity sequence: increasing across units in the increasing condition and decreasing in the decreasing condition](icl-ratings-track-complexity-sequence.md) — related
 - [The first impression of complexity best predicts the overall post-learning cognitive load assessment, indicating a primacy effect in learning contexts](first-impression-primacy-effect-overall-icl.md) — related
+- [Taking an immediate plus delayed final test yields higher delayed test performance with less invested effort than taking only a delayed test (Experiment 2)](immediate-plus-delayed-test-advantage-exp2.md) — related

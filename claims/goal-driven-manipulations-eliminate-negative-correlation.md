@@ -54,3 +54,4 @@ Moderator analyses (mixed-effects model) comparing studies with versus without g
 - [Task type moderates the correlation: problem-solving tasks show a stronger negative association than word/paired-associate tasks](problem-solving-tasks-stronger-negative-correlation.md) — related
 - [Monitoring judgment timing moderates the correlation: concurrent judgments show a stronger negative association than prospective judgments](concurrent-stronger-than-prospective-judgments.md) — related
 - [Forced pacing eliminates positive transfer from computer aiding and leads subjects to use strategies requiring many more tests than necessary](forced-pacing-eliminates-aiding-transfer.md) — related
+- [Effort ratings correlate negatively with judgments of learning (r = −0.355), but the correlation disappears under a goal-driven interpretation of effort](negative-effort-jol-correlation-meta-analysis.md) — related

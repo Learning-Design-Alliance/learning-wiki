@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 25 claims (12 for, 11 mixed, 2 against) · 38 studies (17 causal, 8 quant-synthesis, 7 review, 3 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 7 of 38 report an effect size · 17 claims rest on one study
+> **Evidence** · 26 claims (13 for, 11 mixed, 2 against) · 39 studies (17 causal, 8 quant-synthesis, 7 review, 4 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 7 of 39 report an effect size · 18 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,7 @@ This pattern is scoped to building understanding of a `concept` or `principle` o
 - [Readers with misconceptions spend more time reading law sentences than readers without misconceptions, but only in refutation texts](../claims/misconception-slower-reading-refutation-law-sentences.md) [~M]
 - [Prompting self-explanation in a physics electricity unit led to accelerated future learning in a subsequent magnetism unit](../claims/self-explanation-accelerated-future-learning-physics.md) [+W]
 - [Conceptual change interventions in biology produce large effects on conceptual understanding compared with traditional teaching, with refutational text the most effective single intervention type](../claims/biology-cc-interventions-large-effects-refutational-text-best.md) [~W]
+- [Active-processing focus-support techniques such as testing, self-explaining, concept mapping, and drawing show positive effects on learning](../claims/focus-support-active-processing-techniques-positive-effects.md) [+W]
 
 ## Related Patterns
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)

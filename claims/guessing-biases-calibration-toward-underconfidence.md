@@ -48,3 +48,4 @@ Analytical argument in the simulation study's discussion section: because guesse
 - [Observed performance-resolution slopes in the mathematics data were not greater than those produced by guessing in simulation](observed-slopes-not-greater-than-simulated.md) — related
 - [Higher-achieving students tend to be more accurate but more underconfident in calibration than lower-achieving students](higher-achievers-more-accurate-underconfident-calibration.md) — related
 - [Learners generally underestimate how fast they will learn word pairs, and this underconfidence is larger for low-variability lists](eol-underestimation-of-learnability.md) — related
+- [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related

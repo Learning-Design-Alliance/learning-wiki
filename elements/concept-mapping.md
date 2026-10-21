@@ -13,7 +13,7 @@ generated:
 # Concept Mapping
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 8 studies (3 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 5 of 8 report an effect size · 4 claims rest on one study
+> **Evidence** · 10 claims (5 for, 5 mixed) · 9 studies (3 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 5 of 9 report an effect size · 7 claims rest on one study
 
 ## Description
 Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links. It is useful for organizing prior knowledge, identifying structure, and making connections visible before, during, or after learning.
@@ -48,6 +48,9 @@ Concept mapping is the element in which learners represent concepts and their re
 - [AI-section students showed tool-linked self-efficacy and attenuated metacognitive calibration, with the human-pair contrast group showing larger concept-map gains in cross-links and hierarchy](../claims/attenuated-calibration-tool-linked-self-efficacy.md) [~W]
 - [Younger adults outperform older adults in concept-map performance, and older adults show no concept-map improvement](../claims/concept-map-performance-age-difference.md) [~W]
 - [ESL students taught concept mapping show significantly greater gains in self-efficacy for learning from text than students taught an alternative learning strategy](../claims/concept-mapping-greater-self-efficacy-gains-esl.md) [+W]
+- [Concept mapping shows a large effect for low-achieving students (g = 2.019) and moderate effect for high-achieving students (g = 0.610), not significantly different](../claims/concept-maps-large-effect-low-achieving-students.md) [~W]
+- [High teaching guidance in concept mapping yields larger effects than low guidance, though marginal after excluding influential studies](../claims/high-teaching-guidance-larger-concept-map-effects.md) [~W]
+- [Concept-mapping effects are larger in low- and middle-income countries (g = 1.053) than high-income countries (g = 0.626)](../claims/concept-map-effects-larger-low-middle-income-countries.md) [~W]
 
 ## The evidence by question
 

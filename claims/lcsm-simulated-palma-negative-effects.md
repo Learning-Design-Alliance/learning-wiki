@@ -48,3 +48,5 @@ Latent change score model fitted on the same simulated data (acceptable fit: χ2
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — reports the opposite
 - [STARTS model shows a positive effect of prior achievement on subsequent self-concept but no effect of prior self-concept on subsequent achievement](starts-null-self-concept-effect.md) — reports the opposite
 - [Validation with simulated TRAIN-like data replicates the divergence: RI-CLPM positive, LCSM negative, ESDM no-direct-effects](train-validation-divergent-model-findings.md) — related
+- [Academic self-concept predicts lagged (across-semester) changes in academic skills in both mathematics and French](self-concept-lagged-effects-on-skills.md) — reports the opposite
+- [Academic skills predict contemporaneous (within-semester) changes in academic self-concept in both mathematics and French](skills-contemporaneous-effects-on-self-concept.md) — reports the opposite

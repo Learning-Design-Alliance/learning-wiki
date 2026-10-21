@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 57 claims (13 for, 31 mixed, 13 against) · 46 studies (23 causal, 10 associational, 4 review, 4 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 18 of 46 report an effect size · 53 claims rest on one study
+> **Evidence** · 58 claims (14 for, 31 mixed, 13 against) · 47 studies (23 causal, 10 associational, 5 review, 4 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 18 of 47 report an effect size · 54 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -107,6 +107,7 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Experiment 2 replicated the forward effect of cue-only JOLs over restudy with rock categories, and item-by-item feedback did not change the effect](../claims/cue-only-jol-forward-effect-feedback-null-replication.md) [~M]
 - [Prompted cue type and timing of cue prompt do not interact in their effect on self-assessment accuracy (Experiment 1)](../claims/cue-type-timing-no-interaction-accuracy.md) [~W]
 - [Mental effort correlates negatively with self-assessments regardless of whether learners receive up-front cue information](../claims/mental-effort-negative-correlation-self-assessments.md) [~W]
+- [Providing a standard answer to compare against improves the accuracy of students' retrospective monitoring judgments](../claims/answer-standard-improves-retrospective-monitoring.md) [+W]
 
 ## The evidence by question
 

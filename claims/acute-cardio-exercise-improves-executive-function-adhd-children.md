@@ -74,3 +74,4 @@ The review reports improved academic performance "in both children with ADHD and
 - [CB-PA interventions show no significant improvement in attention or on-task behavior in two of the twenty reviewed studies](cbpa-null-results-two-studies.md) — related
 - [Physical exercise has a significant modest positive effect on functional outcomes (executive functions and motor skills) in children with ADHD](exercise-improves-adhd-functional-outcomes.md) — a broader claim this one bears on
 - [In a randomized three-arm trial, medication but not physical exercise or neurofeedback was related to improved response inhibition and reduced theta power in children with ADHD](medication-not-exercise-improved-response-inhibition-janssen.md) — related
+- [In university students, walks or sitting in natural settings after cognitive fatigue improve some attention and working memory measures, with null results for others](green-exposure-university-cognitive-benefits.md) — related
