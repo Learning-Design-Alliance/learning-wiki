@@ -6,14 +6,14 @@ description: A learner's existing domain knowledge in the subject area before in
 canonical: true
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-10-21
 ---
 
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 150 claims (88 show a difference, 45 mixed, 17 no difference) · 118 studies (35 causal, 26 review, 17 theoretical, 15 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 118 report an effect size · 135 claims rest on one study
+> **Evidence** · 151 claims (89 show a difference, 45 mixed, 17 no difference) · 119 studies (35 causal, 26 review, 17 theoretical, 16 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 119 report an effect size · 136 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -198,6 +198,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Element interactivity and expertise reversal effects: cognitive load effects diminish and may reverse as expertise increases because known elements chunk into single elements](../claims/expertise-reversal-effect-element-interactivity.md) [+W] — an instructional effect differs with it
 - [Isolated nonverbal cues require novice proficiency and receptiveness to be effective](../claims/nonverbal-cues-require-novice-proficiency.md) [~M] — an instructional effect differs with it
 - [Low variability materials enhanced learning regardless of guidance; expertise reversal found for variability in Experiment 2](../claims/variability-effect-expertise-reversal-two-experiments.md) [~M] — an instructional effect differs with it
+- [Students' rules of operation for signed-number arithmetic are applied inconsistently by non-masters and stably by masters](../claims/arithmetic-rule-use-inconsistent-below-mastery-stable-at-mastery.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]
