@@ -47,3 +47,4 @@ Induction pilot with one Faculty (WELS) in autumn 2025. The article states: "At 
 - [In an exploratory randomised trial, the AIDA-supported group showed a higher learning gain than the control group, though the authors caution about the small volunteer sample](aida-experimental-group-higher-learning-gain.md) — related
 - [AIDA-supported participants spent on average twice as long in the course platform as controls, but the difference in usage time was not statistically significant](aida-usage-time-doubled-not-significant.md) — related
 - [After hands-on use, 96% of students wanted AIDA in their studies, with the quiz function the most liked feature](aida-post-use-96-percent-quiz-most-liked.md) — related
+- [Teachers refused monetary rewards for team participation, fearing harm to sustainability, but wanted team accomplishments counted in promotion decisions](rewards-refusal-promotion-recognition-team-pd.md) — related

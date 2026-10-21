@@ -48,3 +48,4 @@ Content analysis of 79 MANOVA articles from educational journals. The review rep
 - [Effect size indices are almost never reported in published educational research using ANOVA, MANOVA, or repeated-measures analyses](effect-sizes-rarely-reported-educational-research.md)
 - [Educational researchers rarely examine the validity assumptions of their ANOVA-type analyses, with under 20% of reviewed articles mentioning assumption violations](researchers-rarely-verify-anova-assumptions.md)
 - [In repeated-measures designs, researchers rarely address the sphericity assumption even though conventional ANOVA tests of within-subjects effects are vulnerable to Type I error under nonsphericity](sphericity-rarely-addressed-rm-designs.md)
+- [In most MANOVA studies researchers interpret multiple univariate results rather than the MANOVA results themselves](manova-results-rarely-used-univariate-interpretation.md) — possibly the same claim (merge candidate)

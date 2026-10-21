@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1826 entries** · 0 stable · 1826 in review · 0 drafts
+**1827 entries** · 0 stable · 1827 in review · 0 drafts
 
 ---
 
@@ -1603,6 +1603,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Symphony Math](symphony-math.md) - Symphony Math is a web-browser and iPad technology intervention program that provides individualized mathematics practice for K–8 students, developed and distributed as the Symphony Math program.
 * [Syntea](syntea.md) - Syntea is IU International University of Applied Sciences' AI-based learning-assistant software for question answering, interactive tutoring, personalized feedback, progress tracking, and exam preparation.
 * [Synthesis Lab](synthesis-lab.md) - Synthesis Lab is a web application that integrates with social annotation tools to help learners categorize peer annotations into conceptual building blocks and develop knowledge syntheses.
+* [Systematic literature review corpus of 54 documents on academic careers from 21 national contexts (Scopus and Scielo, 2000–2021)](systematic-literature-review-corpus-of-54-documents-on-academic-careers-from-21-national-c.md) - A corpus of 54 theoretical and empirical documents on academic careers selected from Scopus and Scielo searches, covering 21 national contexts and publications from 2000–2021, assembled by Oliveira et al.
 * [Systematic review corpus of 69 jigsaw studies (1978–2022)](systematic-review-corpus-of-69-jigsaw-studies-19782022.md) - A corpus of 69 studies conducted from 1978 through 2022 that met review criteria for examining jigsaw's effects on academic performance and psychosocial outcomes.
 * [Systematic review evidence corpus: 49 studies of learning approaches and academic performance in medical and dental education (2000–2023)](systematic-review-evidence-corpus-49-studies-of-learning-approaches-and-academic-performan.md) - A PRISMA-guided corpus of 49 empirical studies on learning approaches and academic performance among undergraduate medical and dental students, assembled by Marlen A.
 * [Systems Review](systems-review.md) - Systems Review is an inquiry-based, systems-focused approach for teams working to improve a system, developed and facilitated by R15CC.

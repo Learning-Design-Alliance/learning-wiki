@@ -73,3 +73,4 @@ Partnership Team survey data show administrative capacity gaps: "40 percent of p
 - [Some employers were reluctant to hire new apprentices during pandemic economic uncertainty, but no mass cancellations of apprenticeships were reported](employer-reluctance-no-mass-cancellations.md) — related
 - [Prior residency experience of vetted EPPs and high district engagement enabled TCLAS uptake](prior-experience-and-district-engagement-uptake.md) — related
 - [Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels](illinois-principal-preparation-resource-limitations.md) — related
+- [Teachers refused monetary rewards for team participation, fearing harm to sustainability, but wanted team accomplishments counted in promotion decisions](rewards-refusal-promotion-recognition-team-pd.md) — related

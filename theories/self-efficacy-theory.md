@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 68 claims (47 for, 19 mixed, 2 against) · 50 studies (24 associational, 12 causal, 12 review, 1 design, 1 theoretical), `q1`–`q3` · 11 of 50 report an effect size · 67 claims rest on one study
+> **Evidence** · 69 claims (48 for, 19 mixed, 2 against) · 51 studies (24 associational, 13 review, 12 causal, 1 design, 1 theoretical), `q1`–`q3` · 11 of 51 report an effect size · 68 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -115,6 +115,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [The effect of feedback valence on expected effort required is fully mediated by self-efficacy (Experiments 1 and 2) and threat (Experiment 1)](../claims/feedback-effort-mediated-by-self-efficacy-threat.md) [+M]
 - [Writing apprehension and anxiety show strong negative correlations with writing self-efficacy in postsecondary students](../claims/writing-apprehension-negative-correlation-self-efficacy.md) [+W] — attached 2026-10-20 from Kim M. Mitchell et al. (2023), which proposed "Writing self-efficacy as beliefs about writing ability within Bandura's social cognitive framework of triadic reciprocality".
 - [Writing self-efficacy typically improves over a single academic term but fluctuates and drops when students enter new writing contexts](../claims/writing-self-efficacy-change-over-time.md) [+W] — attached 2026-10-20 from Kim M. Mitchell et al. (2023), which proposed "Writing self-efficacy as beliefs about writing ability within Bandura's social cognitive framework of triadic reciprocality".
+- [Teacher self-efficacy shows positive links with patterns of teacher behavior and practices related to classroom quality](../claims/tse-positive-links-classroom-quality-practices.md) [+W] — attached 2026-10-21 from M. Zee (2016), which proposed "Teacher self-efficacy as an organizing framework for classroom processes, student adjustment, and teacher well-being"; tests this page's relationship.
 
 ## The evidence by question
 

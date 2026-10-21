@@ -58,3 +58,4 @@ Simultaneous multiple regression on the 24-child sample using averaged visuo-spa
 - [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — related
 - [Reading deficits are uniquely associated with phoneme awareness and naming speed, whereas math deficits are uniquely associated with set shifting](disorder-specific-phoneme-naming-set-shifting.md) — related
 - [Spatial processing is preserved but slower in developmental dyscalculia, with slow trail-making and mental rotation speed attributed to WM/inhibition impairment](dd-spatial-processing-preserved-but-slow.md) — related
+- [Working-memory task type moderates MLD deficits: processing speed and updating yield larger effects than inhibition, independent of numerical content](wm-task-type-moderates-mld-deficit.md) — related

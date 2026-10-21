@@ -67,3 +67,4 @@ Review synthesis of secondary benefit outcomes. The review separately reports th
 - [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related
 - [Empirical research on the Pepper robot in formal education is recent, concentrated in primary education, and dominated by qualitative designs with small samples](pepper-formal-education-evidence-small-qualitative.md) — related
 - [In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets](pepper-vs-tablets-higher-participation-sen-language.md) — a narrower finding that bears on this claim
+- [RALL studies report learning gains when social robots are used to teach vocabulary, reading skills, speaking skills, grammar, and sign language](rall-learning-gains-five-language-domains.md) — related

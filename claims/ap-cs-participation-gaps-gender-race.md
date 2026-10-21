@@ -58,3 +58,4 @@ The report's current-state section, citing Code.org et al. (2020), reports that 
 - [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](iccsd-cs-enrollment-unrepresentative.md) — related
 - [Black Americans comprise only 8% of the 5.3 million tech occupation jobs in the U.S.](black-americans-8-percent-tech-occupation-jobs.md) — related
 - [The reviewed literature shows limited engagement with specialist diversity concepts such as gender or race and little attention to teacher educators' own knowledge](limited-specialist-engagement-teacher-educator-knowledge.md) — related
+- [Boys, African American, and Hispanic children, and children with disabilities are disproportionately excluded from early care and education settings, though few studies computed disproportionality.](ecce-exclusion-racial-gender-disproportionality.md) — related

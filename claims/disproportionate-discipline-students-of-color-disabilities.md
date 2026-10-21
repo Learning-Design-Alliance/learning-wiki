@@ -59,3 +59,4 @@ Analysis of the U.S. Department of Education's Civil Rights Data Collection for 
 - [A first suspension doubles a student's odds of dropping out of school](first-suspension-doubles-dropout-odds.md) — related
 - [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — related
 - [Schools using the CSTAG model show fewer disciplinary infractions, suspensions, expulsions, and law enforcement actions than schools using general threat assessment approaches](cstag-fewer-exclusionary-discipline-than-general-approach.md) — related
+- [Boys, African American, and Hispanic children, and children with disabilities are disproportionately excluded from early care and education settings, though few studies computed disproportionality.](ecce-exclusion-racial-gender-disproportionality.md) — a broader claim this one bears on

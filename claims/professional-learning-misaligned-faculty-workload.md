@@ -69,3 +69,4 @@ Focus group evidence: a biweekly 20-minute single-tool session was reported to y
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — reports the opposite
 - KMSD's micro-credential compensation model supported teacher collaboration, with groups of 5 to 60 teachers earning together — reports the opposite
 - [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related
+- [Lack of time and heavy workload are organizational barriers to team-based professional development in higher education](time-workload-barriers-team-pd.md) — related

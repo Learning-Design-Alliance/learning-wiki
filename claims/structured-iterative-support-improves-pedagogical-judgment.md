@@ -52,3 +52,4 @@ Qualitative design-based case analysis of three teacher candidates' weekly writt
 - [Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation](clinical-supervision-effectiveness-inconclusive.md) — related
 - [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — a broader claim this one bears on
 - [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](iterative-lesson-planning-before-clinical-placement.md) — related
+- [Specific training was associated with more advanced strategy use, but most teachers used strategies inconsistently and generically](training-advanced-strategies-inconsistent-use.md) — related

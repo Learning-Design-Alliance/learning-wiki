@@ -51,3 +51,4 @@ Qualitative analysis of teachers' artifacts, expressions and reflections in the 
 - After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging — related
 - [Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them](students-need-time-learn-technology-first.md) — related
 - [Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds](novice-idc-growth-simplification-linearity-dogmatism.md) — related
+- [Team-based professional development is associated with shifts toward more student-centered teaching in qualitative studies, but not in one quantitative online-training study](team-pd-teaching-approach-shift.md) — related

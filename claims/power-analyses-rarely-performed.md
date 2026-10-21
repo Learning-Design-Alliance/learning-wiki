@@ -46,3 +46,4 @@ Content analysis of 226 repeated-measures design articles. The review reports "I
 - [Effect size indices are almost never reported in published educational research using ANOVA, MANOVA, or repeated-measures analyses](effect-sizes-rarely-reported-educational-research.md) — related
 - [In repeated-measures designs, researchers rarely address the sphericity assumption even though conventional ANOVA tests of within-subjects effects are vulnerable to Type I error under nonsphericity](sphericity-rarely-addressed-rm-designs.md) — related
 - [Educational researchers rarely examine the validity assumptions of their ANOVA-type analyses, with under 20% of reviewed articles mentioning assumption violations](researchers-rarely-verify-anova-assumptions.md) — related
+- [Effect size indices and power analyses are rarely reported in educational research across all four design paradigms](effect-sizes-and-power-rarely-reported.md) — a broader claim this one bears on

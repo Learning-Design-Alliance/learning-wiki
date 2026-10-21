@@ -48,3 +48,4 @@ First-grade administration of the Working Memory Test Battery for Children to 27
 ## Related Claims
 - [After controlling for domain-general abilities and reading, MLD children show deficits on all mathematical cognition tasks while LA-Severe children show a specific counting-string intrusion deficit](adjusted-group-differences-math-cognition-tasks.md) — related
 - [Children with LA show a less severe impairment pattern than children with MLD, differing only on symbolic approximate addition](la-less-severe-pattern-than-mld.md) — related
+- [People with MLD show medium pooled deficits in working memory (g = 0.68) and rapid automatized naming (g = 0.70)](mld-working-memory-ran-deficits.md) — related

@@ -48,3 +48,4 @@ The paper's framing statement, offered as an analytical description of the crede
 - About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested — related
 - Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners — related
 - [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — related
+- [Quantifiable outputs such as publishing and obtaining funding have become central to enabling or developing an academic career in marketized systems](quantifiable-outputs-central-academic-careers.md) — related

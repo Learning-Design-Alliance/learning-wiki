@@ -51,3 +51,6 @@ Authors' interpretation of the post-hoc comparisons across the comparison and ap
 - [Counting-string intrusion errors are as common in LA-Severe Fact Retrieval children as in children with MLD, but decline across grades only for the MLD group](counting-string-intrusions-mld-vs-la-severe.md) — reports the opposite
 - [Children with MLD show pervasive working memory deficits while both LA groups score in the average range on all three working memory components](mld-pervasive-working-memory-deficits.md) — related
 - [Fact retrieval deficits in LA-Severe children occur alongside intact addition procedural competencies and modest, improving number-task performance](retrieval-deficit-dissociated-from-procedures.md) — related
+- [People with MLD show a large pooled deficit in mathematics performance versus typically performing peers (g = 1.52)](mld-large-pooled-math-deficit.md) — related
+- [People with MLD show lower number sense than typically developing peers (g = 0.88), with the largest deficits on mapping tasks](mld-number-sense-deficit-mapping-largest.md) — related
+- [No profile distinguishes more severe, persistent, or specific MLD from less severe MLD on cognitive skills](no-distinct-mld-subtype-profile.md) — reports the opposite

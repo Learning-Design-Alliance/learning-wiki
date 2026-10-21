@@ -53,3 +53,4 @@ Repeated measures analysis of covariance on standardized intercept scores for in
 - [Fact retrieval deficits in LA-Severe children occur alongside intact addition procedural competencies and modest, improving number-task performance](retrieval-deficit-dissociated-from-procedures.md) — related
 - [Second graders with MLD commit at least 2.5 times more counting errors than children in the other groups but narrow the gap by fourth grade](mld-elevated-counting-errors-second-grade.md) — related
 - [Children with MLD show pervasive working memory deficits while both LA groups score in the average range on all three working memory components](mld-pervasive-working-memory-deficits.md) — related
+- [No profile distinguishes more severe, persistent, or specific MLD from less severe MLD on cognitive skills](no-distinct-mld-subtype-profile.md) — reports the opposite

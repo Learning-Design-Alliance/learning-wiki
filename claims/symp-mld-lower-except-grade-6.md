@@ -50,3 +50,4 @@ Criterion-related validity analysis comparing children below the 10th percentile
 - [First graders with MLD are slower than typically achieving peers on symbolic but not non-symbolic numerical magnitude comparison](mld-symbolic-comparison-slower-first-grade.md) — related
 - [Children with MLD are less accurate than TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8 and than LA peers from Grade 5, with no group differences in growth rates on the total score](mld-lower-fraction-comparison-accuracy-no-growth-differences.md) — related
 - [The association between one-digit comparison and mathematics achievement decreases across grades, while the two-digit association remains stable](one-digit-math-association-decreases-with-grade.md) — related
+- [People with MLD show lower number sense than typically developing peers (g = 0.88), with the largest deficits on mapping tasks](mld-number-sense-deficit-mapping-largest.md) — related

@@ -39,7 +39,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (29 for, 14 mixed, 3 against) · 29 studies (9 design, 6 review, 5 associational, 4 qualitative, 3 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 29 report an effect size · 44 claims rest on one study
+> **Evidence** · 48 claims (29 for, 16 mixed, 3 against) · 30 studies (9 design, 7 review, 5 associational, 4 qualitative, 3 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 30 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,8 @@ Observed practice, student achievement, teacher satisfaction and maintenance aft
 ## Claims
 
 - [Per-participant implementation costs fall substantially in leaner implementation models without a warm-up year or local coach](../claims/assistments-sensitivity-lower-cost-scenarios.md) [-W]
+- [Team-based professional development is associated with shifts toward more student-centered teaching in qualitative studies, but not in one quantitative online-training study](../claims/team-pd-teaching-approach-shift.md) [~W]
+- [Lack of time and heavy workload are organizational barriers to team-based professional development in higher education](../claims/time-workload-barriers-team-pd.md) [~W]
 
 ## Related Principles
 

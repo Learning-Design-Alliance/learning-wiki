@@ -53,3 +53,4 @@ The guide’s background section states, citing cited research, that "these diff
 - [Students with disabilities are suspended at more than twice the rate of students without disabilities, and Black students with disabilities face the highest risk at 19%](disability-suspension-disparity.md) — related
 - [A first suspension doubles a student's odds of dropping out of school](first-suspension-doubles-dropout-odds.md) — related
 - [Students in alternative schools experience extraordinarily high lost-instruction rates, with Black boys losing 235 days per 100 enrolled](alternative-schools-extreme-lost-instruction.md) — related
+- [Boys, African American, and Hispanic children, and children with disabilities are disproportionately excluded from early care and education settings, though few studies computed disproportionality.](ecce-exclusion-racial-gender-disproportionality.md) — related

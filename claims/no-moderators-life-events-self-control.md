@@ -48,3 +48,4 @@ Exploratory moderator analyses reported in the Limitations section, with results
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [The mediated EC-achievement model is not moderated by children's sex, age, or SES](no-moderation-sex-age-ses.md) — related
 - [Negative life events predict rank-order decreases in self-control in early adolescents over time, controlling for baseline self-control and demographics](negative-life-events-predict-self-control-decreases.md) — related
+- [The discipline–self-control association is similar in magnitude across discipline components, gender, age, region, informant, reliability, and research design](discipline-self-control-moderators-null.md) — related

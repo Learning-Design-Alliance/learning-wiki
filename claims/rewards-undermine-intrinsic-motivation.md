@@ -218,3 +218,4 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - [People expecting a reward for a task perform worse than those expecting nothing, especially on tasks requiring cognitive sophistication and open-ended thinking](rewards-reduce-task-performance.md) — related
 - [Financial incentives do not decrease intrinsic motivation, though point estimates are too imprecise to detect any effect](incentives-no-intrinsic-motivation-harm.md) — reports the opposite
 - [Most African students enrolled in the SuaCode smartphone coding course for intrinsic rather than extrinsic reasons (68.7% vs 31.3% of coded motivations)](suacode-african-students-intrinsically-motivated.md) — a narrower finding that bears on this claim
+- [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](targeted-support-feedback-reinforcers-dd.md) — related

@@ -13,7 +13,7 @@ generated:
 # Reinforcement
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (3 for, 4 mixed, 3 against) · 10 studies (3 causal, 3 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (4 for, 4 mixed, 3 against) · 11 studies (4 review, 3 causal, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 10 claims rest on one study
 
 ## Description
 Reinforcement is the contingent delivery of a consequence following a target behavior, making that behavior more likely to recur. Rooted in operant conditioning [Behaviorism](../theories/behaviorism.md), it encompasses positive reinforcement (adding a desirable outcome — points, praise, privileges), negative reinforcement (removing an undesirable condition), and the scheduling of these consequences (continuous vs. intermittent). In learning design, reinforcement overlaps with but is distinct from [Feedback](feedback.md): reinforcement strengthens behavior; feedback supplies information about performance quality.
@@ -62,6 +62,7 @@ Reinforcement reliably increases the frequency and persistence of the behaviors 
 - [The prospect of reward for successful inhibition significantly improves inhibitory control (SMD = 0.429) compared with no-reward conditions](../claims/reward-prospect-improves-inhibitory-control-meta-analysis.md) [+W]
 - [People expecting a reward for a task perform worse than those expecting nothing, especially on tasks requiring cognitive sophistication and open-ended thinking](../claims/rewards-reduce-task-performance.md) [-W]
 - [Go-trial accuracy was lower under reward conditions, an effect mediated by task version and administration order](../claims/reward-lowered-go-trial-accuracy-order-dependent.md) [~W]
+- [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](../claims/targeted-support-feedback-reinforcers-dd.md) [+W]
 
 ## Related Elements
 - [Feedback](feedback.md) — informational counterpart; reinforcement changes probability, feedback changes understanding, and the two are most powerful combined

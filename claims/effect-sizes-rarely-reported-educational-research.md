@@ -67,3 +67,5 @@ Content analysis of 79 MANOVA articles. The review reports "Effect size index va
 - [Educational researchers rarely perform power analyses to determine sample size requirements](power-analyses-rarely-performed.md) — related
 - [The conventional ANOVA F test is overwhelmingly favored by educational researchers despite its sensitivity to variance heterogeneity, particularly with unequal group sizes](anova-f-overwhelmingly-favored-despite-nonrobustness.md) — related
 - [Researchers conducting MANOVA rarely interpret its multivariate results, instead drawing substantive conclusions from multiple univariate analyses in 84% of studies](manova-results-rarely-interpreted-univariate-instead.md)
+- [Effect size indices and power analyses are rarely reported in educational research across all four design paradigms](effect-sizes-and-power-rarely-reported.md) — related
+- [In most MANOVA studies researchers interpret multiple univariate results rather than the MANOVA results themselves](manova-results-rarely-used-univariate-interpretation.md) — related

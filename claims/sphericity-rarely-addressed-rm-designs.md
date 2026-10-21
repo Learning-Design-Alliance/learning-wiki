@@ -48,3 +48,5 @@ Content analysis of 226 repeated-measures articles. The review states "It is imp
 - [Educational researchers rarely perform power analyses to determine sample size requirements](power-analyses-rarely-performed.md) — related
 - [Educational researchers rarely examine the validity assumptions of their ANOVA-type analyses, with under 20% of reviewed articles mentioning assumption violations](researchers-rarely-verify-anova-assumptions.md) — a broader claim this one bears on
 - [Researchers conducting MANOVA rarely interpret its multivariate results, instead drawing substantive conclusions from multiple univariate analyses in 84% of studies](manova-results-rarely-interpreted-univariate-instead.md)
+- [In most MANOVA studies researchers interpret multiple univariate results rather than the MANOVA results themselves](manova-results-rarely-used-univariate-interpretation.md) — related
+- [Sphericity and other repeated-measures assumption violations receive little attention, and simple-effect probing of interactions is the dominant but inappropriate strategy](rm-sphericity-ignored-interaction-probing-flawed.md) — possibly the same claim (merge candidate)

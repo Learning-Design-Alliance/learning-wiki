@@ -13,7 +13,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (10 for, 10 mixed, 1 against) · 23 studies (7 review, 5 quant-synthesis, 3 causal, 3 qualitative, 2 associational, 2 design, 1 theoretical), `q2`–`q4` · 4 of 23 report an effect size · 16 claims rest on one study
+> **Evidence** · 22 claims (11 for, 10 mixed, 1 against) · 24 studies (8 review, 5 quant-synthesis, 3 causal, 3 qualitative, 2 associational, 2 design, 1 theoretical), `q2`–`q4` · 4 of 24 report an effect size · 17 claims rest on one study
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
@@ -68,6 +68,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Students who preferred AI feedback cited clarity, understandability, consistency, specificity, and 24/7 availability](../claims/ai-feedback-preference-clarity-availability-reasons.md) [+W]
 - [Feedback direction moderates effects: student-to-student feedback is most effective (d = 0.85), teacher-to-student d = 0.47, student-to-teacher d = 0.35](../claims/feedback-direction-moderator-student-student-highest.md) [~W]
 - [Learners prefer receiving corrective feedback more than teachers feel they should provide it](../claims/learners-prefer-cf-more-than-teachers-provide.md) [+W]
+- [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](../claims/targeted-support-feedback-reinforcers-dd.md) [+W]
 
 ## The evidence by question
 - *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [+S]

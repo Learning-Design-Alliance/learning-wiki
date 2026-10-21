@@ -52,3 +52,4 @@ Pre/post study of an online PD program with ten K–12 educators who created exp
 - [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
 - [Instruction in STEAM AI literacy is predominantly technology-enhanced (82.1% of studies) rather than unplugged (17.9%)](steam-ai-literacy-instruction-technology-enhanced-dominant.md) — related
 - [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — related
+- [Teachers in online team-based training reported significantly greater confidence in their technological pedagogical content knowledge after training](team-pd-tpck-confidence-gain.md) — related

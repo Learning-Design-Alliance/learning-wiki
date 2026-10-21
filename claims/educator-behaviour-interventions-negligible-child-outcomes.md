@@ -49,3 +49,4 @@ The review attributes this finding to meta-analytic and synthesis work it cites 
 - [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — related
 - [Measures of individual children's experiences within the ECEC group predict child development outcomes with higher effect sizes than global quality measures](individualised-measures-better-prediction-than-global.md) — related
 - [Test-based Quality Rating and Improvement Systems have been costly, inefficient, and subject to manipulation, while collaborative quality-improvement approaches are emerging](qris-test-based-costly-manipulated-collaborative-emerging.md) — related
+- [In-service professional development for ECEC teachers produces a medium improvement in externally rated process quality (ES = 0.68)](inservice-pd-medium-effect-process-quality-ecec.md) — related
