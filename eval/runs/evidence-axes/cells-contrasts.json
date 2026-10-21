@@ -36454,5 +36454,57 @@
  "rewards-incentives\tindividual rewards\tother reward methods": {
   "label": "Individual rewards vs other reward methods",
   "treatment_is_a": true
+ },
+ "active-learning\tsocially embedded and collaborative learning opportunities\tother professional-learning opportunities": {
+  "label": "collaborative/social learning vs other professional learning",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearning through personal interests and ownership\tless personally meaningful or less autonomous participation": {
+  "label": "autonomy-supportive vs controlling instruction",
+  "treatment_is_a": true
+ },
+ "debriefing\tinterventions including guided reflection\tinterventions without guided reflection": {
+  "label": "guided reflection vs no guided reflection",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in text-comprehension strategies\tbaseline or shared reading without explicit strategy instruction": {
+  "label": "explicit text-comprehension strategy instruction vs no explicit text-comprehension strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction of text comprehension strategies\tno explicit instruction of text comprehension strategies": {
+  "label": "explicit text-comprehension strategy instruction vs no explicit text-comprehension strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching the meaning of wh-words\tnot teaching the meaning of wh-words": {
+  "label": "explicit wh-word meaning instruction vs no explicit wh-word meaning instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback on lesson plans\tno feedback on lesson plans": {
+  "label": "feedback on lesson plans vs no feedback on lesson plans",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tintervention including feedback on lesson plans\tintervention without feedback on lesson plans": {
+  "label": "feedback on lesson plans vs no feedback on lesson plans",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tintervention providing feedback on lesson plans\tintervention not providing feedback on lesson plans": {
+  "label": "feedback on lesson plans vs no feedback on lesson plans",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tinterventions providing feedback on lesson plans\tinterventions not providing feedback on lesson plans": {
+  "label": "feedback on lesson plans vs no feedback on lesson plans",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tinterventions providing feedback on observed lessons\tinterventions not providing feedback on observed lessons": {
+  "label": "feedback on observed lessons vs no feedback on observed lessons",
+  "treatment_is_a": true
+ },
+ "prompts\tleast-to-most intrusive prompts during shared reading\tbaseline or shared reading without the strategy": {
+  "label": "least-to-most prompting vs no prompting",
+  "treatment_is_a": true
+ },
+ "prompts\tleast-to-most prompting\tno least-to-most prompting": {
+  "label": "least-to-most prompting vs no prompting",
+  "treatment_is_a": true
  }
 }

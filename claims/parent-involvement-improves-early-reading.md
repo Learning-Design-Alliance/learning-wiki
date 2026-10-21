@@ -97,3 +97,4 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [The parental summer education gap is largely college-educated parents spending more time facilitating children's summer activities](college-parents-facilitate-summer-activities.md) — related
 - [Early reading interventions (Grades K–1) show larger effects than interventions provided in Grades 2–5](earlier-reading-intervention-larger-effects.md) — related
 - [Family literacy programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no statistically significant effects](flp-center-based-component-negatively-associated.md) — related
+- [Earlier meta-analyses report small positive effects for computer-assisted literacy instruction (0.19; 0.16)](prior-meta-analyses-small-positive-effects.md) — related

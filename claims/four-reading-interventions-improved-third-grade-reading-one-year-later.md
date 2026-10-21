@@ -66,3 +66,4 @@ Randomized trial in which 50 schools were assigned to four interventions and stu
 - [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related
 - [The Power4Kids first-year report presents impacts on reading achievement at the end of the intervention year, with nearly 800 children in the study](power4kids-first-year-reading-achievement-impacts.md) — related
 - [One year after the intervention ended, SpellRead™ effects were not statistically significant on the supplemental Torgesen et al. (2007) outcomes](spellread-one-year-followup-not-significant.md) — related
+- [Remedial reading programs show effects around 0.49 for struggling readers and 0.54 for more severe difficulties](remedial-reading-programs-effectful-struggling-readers.md) — a broader claim this one bears on

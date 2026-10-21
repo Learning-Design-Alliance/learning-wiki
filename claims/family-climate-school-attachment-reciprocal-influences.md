@@ -49,3 +49,4 @@ Cross-lag SEM over four waves of the longitudinal study of 979 6th graders showe
 - [Academic self-regulation in 8th grade robustly predicts both GPA and school adjustment in 9th grade](asr-predicts-gpa-and-school-adjustment.md) — related
 - [The cross-lagged model holds equally for intervention and control groups and for boys and girls](model-invariance-gender-and-intervention-groups.md) — related
 - [Perceived neighborhood safety is positively associated with school attachment among 15-year-olds after controlling for individual, family, school, and external neighborhood factors](perceived-neighborhood-safety-school-attachment-association.md) — related
+- [Longitudinal studies suggest reciprocal associations between some SECs and student engagement over time](reciprocal-sec-engagement-longitudinal.md) — related

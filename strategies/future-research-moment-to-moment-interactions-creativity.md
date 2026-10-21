@@ -43,7 +43,8 @@ Building on their review finding that creativity is usually measured statically,
 
 
 ## Related Strategies
-- 
+
+- [Study learning dynamics through intensive, long-term, fine-grained repeated observation](intensive-longitudinal-complexity-inquiry.md)
 
 ## Examples
 -

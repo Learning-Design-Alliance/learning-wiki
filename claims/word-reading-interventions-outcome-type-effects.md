@@ -56,3 +56,4 @@ Subgroup summary effects by outcome type from the RVE meta-analysis, compared us
 - [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
 - [Word-reading interventions yield significant positive effects on adolescent literacy outcomes overall (g = 0.30)](word-reading-interventions-significant-adolescent-literacy-g030.md) — related
 - [Multisyllabic word-reading instruction for struggling readers in grades 4–9 has strong evidence, based on 32 studies](strong-evidence-multisyllabic-word-reading-instruction-grades-4-9.md) — related
+- [Computer-assisted word reading interventions yield an average effect size of 0.36 on word reading outcomes across program types and languages in primary grades](computer-word-reading-interventions-average-effect-036.md) — a broader claim this one bears on

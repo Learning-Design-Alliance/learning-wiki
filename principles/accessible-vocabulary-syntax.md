@@ -146,7 +146,6 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - [Teach writing based on reading so learners use meaningful input to accomplish output tasks](process-based-writing.md)
 
 ## Examples
-
 <!-- Links to elements or patterns that apply this principle -->
 - [Accessible Syntax](../strategies/accessible_syntax.md) — revises sentence complexity while preserving the core concept
 - [Relevant Vocabulary Instruction](../strategies/relevant_vocabulary_instruction.md) — explicitly selects and revisits high-value terms
@@ -156,6 +155,7 @@ Immediate comprehension of a simplified text, comprehension of the original, del
 - [Simplifying Language](../strategies/simplifying-language.md)
 - [Student-Authored Texts for Conceptual Change](../designs/student-authored-texts-for-conceptual-change.md)
 - [Apply six questioning techniques in whole-class discussion: simplify, moderate, provoke thought, challenge, follow up, and relate to students](../strategies/six-teacher-questioning-techniques-reading-discussion.md)
+- [Adapt age-appropriate texts by shortening and simplifying them, and enrich them with pictures, objects, and vocabulary definitions during shared reading](../strategies/adapt-and-enrich-texts-shared-reading-id.md)
 
 ## Key Sources
 - Binder, K. S., Tremblay, K. A., & Joseph, A. (2020). Vocabulary accessibility and acquisition: Do you get more from a financestor or a sociophite? *Journal of Research in Reading, 43*(4), 395-416. [doi:10.1111/1467-9817.12314](https://doi.org/10.1111/1467-9817.12314)

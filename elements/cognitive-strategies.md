@@ -26,7 +26,7 @@ sources:
 # Cognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (9 for, 4 mixed, 1 against) · 20 studies (7 review, 6 causal, 4 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 9 claims rest on one study
+> **Evidence** · 15 claims (10 for, 4 mixed, 1 against) · 21 studies (7 review, 6 causal, 5 quant-synthesis, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 10 claims rest on one study
 
 ## Description
 Cognitive strategies are deliberate mental procedures learners apply to process information: **rehearsal** (repeating or copying), **elaboration** (connecting new material to prior knowledge), **organization** (imposing structure such as outlines or hierarchies), and **comprehension monitoring** (checking understanding while working). As an instructional element, cognitive strategy instruction means explicitly teaching these procedures — naming them, modeling them, and prompting their use — rather than assuming learners will discover them independently.
@@ -74,6 +74,7 @@ Strategy instruction improves learning most when strategies are taught explicitl
 - [During revision, supported groups (AI, human expert, checklist) engage more in elaboration, organisation and orientation, while AI and human-expert groups read less than the control group](../claims/agent-support-srl-frequency-differences-revision.md) [+W]
 - [The imagination effect (cognitive rehearsal of example procedures) enhances learning only for learners with prior knowledge](../claims/imagination-effect-expertise-reversal.md) [~W]
 - [Undergraduate students reported using relatively effective strategies (elaboration, organisation, spacing) more than less effective ones, with elaboration most endorsed and self-testing least endorsed](../claims/nz-undergrads-endorse-effective-strategies-more.md) [+W]
+- [Least-to-most prompting and teaching wh-word meanings meet evidence-based criteria; explicit comprehension-strategy instruction is potentially evidence-based](../claims/evidence-based-strategies-shared-reading-id.md) [+W]
 
 ## The evidence by question
 

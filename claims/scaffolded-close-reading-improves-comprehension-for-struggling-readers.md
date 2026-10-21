@@ -87,3 +87,4 @@ A synthesis of 29 intervention studies (1994–2004) with Grades 6–12 students
 - [Text generation interventions improve learning with texts compared to reading them, with a medium overall effect (g = 0.41)](text-generation-overall-effect.md) — related
 - [Four remedial reading interventions combined improved phonemic decoding, word reading accuracy and fluency, and reading comprehension for third-grade struggling readers one year after the interventions ended, though not on all measures](four-reading-interventions-improved-third-grade-reading-one-year-later.md) — related
 - [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — related
+- [Remedial reading programs show effects around 0.49 for struggling readers and 0.54 for more severe difficulties](remedial-reading-programs-effectful-struggling-readers.md) — related

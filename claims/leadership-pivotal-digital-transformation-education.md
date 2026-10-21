@@ -53,3 +53,4 @@ The review's synthesis of the literature identifies leadership as central to dig
 - [Inclusive school leadership plays a critical role in building teachers' capacity for school improvement](inclusive-leadership-builds-teacher-capacity.md) — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers](faculty-mentors-pivotal-responsible-research-development.md) — related
+- [Organisational structures play a pervasive moderating role in the relationship between teacher social capital and its outcomes](organisational-structures-moderate-teacher-social-capital.md) — related

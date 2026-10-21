@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 164 claims (114 show a difference, 31 mixed, 19 no difference) · 119 studies (33 associational, 30 causal, 26 review, 12 quant-synthesis, 9 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 23 of 119 report an effect size · 155 claims rest on one study
+> **Evidence** · 165 claims (114 show a difference, 31 mixed, 20 no difference) · 120 studies (33 associational, 30 causal, 27 review, 12 quant-synthesis, 9 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 23 of 120 report an effect size · 156 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -213,6 +213,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Comprehension strategy use distinguished better ML readers more accurately than English reading fluency did](../claims/strategy-use-distinguishes-better-ml-readers.md) [+M] — learners who differ on it differ in outcomes
 - [Within-person reminders of implementation intentions improve students' short-term study behaviour](../claims/within-person-reminders-improve-study-behaviour.md) [+M] — instruction changes it
 - [Specific training was associated with more advanced strategy use, but most teachers used strategies inconsistently and generically](../claims/training-advanced-strategies-inconsistent-use.md) [+M] — instruction changes it
+- [Some SECs show no association with engagement dimensions in individual studies, including emotion regulation with behavioural engagement and intentional self-regulation compensation](../claims/null-associations-some-secs-engagement.md) [-W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

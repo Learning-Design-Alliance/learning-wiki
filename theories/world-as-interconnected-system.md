@@ -17,7 +17,7 @@ sources:
 # The world as an interconnected system: replacing simple cause and effect with complex interaction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Dimension 4 argues the world is best conceived as a system of interconnected elements rather than a machine or organism. Understanding it means, in the essay's words, "we must put aside simple notions of cause and effect" because things interact in complex and surprising ways, with effects looping back as causes. The essay holds that systems concepts such as feedback can enter popular knowledge and that accessible principles replace simplistic explanations, as in the case of high birth rates, where a systems view assumes hidden complexity and multiple connected factors.
@@ -39,6 +39,7 @@ Dimension 4 argues the world is best conceived as a system of interconnected ele
 ### Claims
 
 - [Identifying interconnections and feedback is the most universally reported systems thinking aspect, proposed by all 27 reviewed manuscripts](../claims/st3-feedback-universal-across-st-literature.md) [+W]
+- [Certain conditions of complex emergence can be deliberately tinkered with in educational settings](../claims/tinkerable-conditions-complex-emergence.md) [+W]
 
 ## Related Theories
 

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1827 entries** · 0 stable · 1827 in review · 0 drafts
+**1828 entries** · 0 stable · 1828 in review · 0 drafts
 
 ---
 
@@ -1274,6 +1274,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Prior Research Table](prior-research-table.md) - A Mathematica-developed documentation framework that helps education organizations record prior research on a solution and its priority community before planning future evaluations.
 * [PRISM (Program for Research Into Self-Modifying Systems)](prism-program-for-research-into-self-modifying-systems.md) - A production-system interpreter developed by Pat Langley and Neches that augments LISP and lets users select among alternative architectural mechanisms and control options.
 * [PRISMA 2020 systematic review corpus of 27 studies on AI-based collaborative learning in higher education](prisma-2020-systematic-review-corpus-of-27-studies-on-ai-based-collaborative-learning-in-h.md) - A corpus of 27 English-language empirical, case-study, or meta-analytic studies published from 2014 to 2024 on AI-based collaborative learning in higher education, selected from Scopus using PRISMA 2020 procedures by Kovari (2025).
+* [PRISMA-guided systematic review corpus of 66 empirical items (2004-2019)](prisma-guided-systematic-review-corpus-of-66-empirical-items-2004-2019.md) - A corpus of 66 empirical studies on social capital among teachers and teacher professional learning, assembled by Demir through PRISMA-guided eligibility screening and Weight of Evidence appraisal.
 * [PRISMA-LLM 16-item universal reporting checklist](prisma-llm-16-item-universal-reporting-checklist.md) - PRISMA-LLM is a 16-item reporting framework proposed by Zabaleta et al.
 * [PrivacyAI](privacyai.md) - PrivacyAI is an open-source GPT-4o-mini-based pipeline released by the authors for detecting, labeling, extracting, and verifying personally identifiable information in educational text.
 * [Prober.ai](proberai.md) - Prober.ai is a research-logging software platform that records consented participant sessions, events, drafts, challenges, unlocks, and reflection-coaching interactions for studying learning behavior.

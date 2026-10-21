@@ -40,7 +40,7 @@ sources:
 # Reflection
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (13 for, 8 mixed) · 26 studies (7 causal, 5 quant-synthesis, 5 theoretical, 4 review, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 6 of 26 report an effect size · 15 claims rest on one study
+> **Evidence** · 22 claims (13 for, 9 mixed) · 27 studies (7 causal, 6 quant-synthesis, 5 theoretical, 4 review, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 6 of 27 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Better reflections, higher course exams, changed practice, and delayed or transf
 ## Claims
 
 - [The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback](../claims/synthesizer-expected-support-uptake-action-planning.md) [+W]
+- [Guided reflection was the most frequently applied individual support activity in the included interventions](../claims/guided-reflection-most-frequent-support-activity.md) [~W]
 
 ## Related Principles
 - [Metacognition](self-regulated-learning.md)

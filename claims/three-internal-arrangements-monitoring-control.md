@@ -49,3 +49,4 @@ Definitional statement from the theoretical framework section, grounded in Nelso
 - [Metacognitive development exhibits equifinality: multiple viable trajectories challenge linear developmental models](equifinality-metacognitive-trajectories.md) — related
 - [AI literacy priorities manifest as developmentally distinct pedagogical patterns across educational phases](developmentally-distinct-ai-literacy-patterns-by-phase.md) — related
 - [Combinatorial enumeration yields 216 scenarios, filtered to 24 priority scenarios across three developmental tiers](216-scenarios-filtered-to-24-priority.md) — related
+- [Formal education exhibits the defining properties of a complex system](education-as-complex-system-properties.md) — related

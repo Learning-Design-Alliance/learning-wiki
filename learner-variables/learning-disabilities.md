@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 96 claims (71 show a difference, 15 mixed, 10 no difference) · 53 studies (31 associational, 9 review, 6 causal, 3 quant-synthesis, 3 theoretical, 1 qualitative), `q1`–`q3` · 7 of 53 report an effect size · 94 claims rest on one study
+> **Evidence** · 97 claims (71 show a difference, 15 mixed, 11 no difference) · 54 studies (31 associational, 9 review, 6 causal, 4 quant-synthesis, 3 theoretical, 1 qualitative), `q1`–`q3` · 7 of 54 report an effect size · 95 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -130,6 +130,7 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Children with specific language impairment show reduced selective attention to and integration of audiovisual speech](../claims/sli-reduced-audiovisual-speech-attention-integration.md) [+M] — learners who differ on it differ in outcomes
 - [Individuals with dyslexia show impairments in audiovisual integration beyond phoneme-grapheme mapping](../claims/dyslexia-audiovisual-integration-impairments.md) [+M] — learners who differ on it differ in outcomes
 - [Multisensory temporal precision in autism is linked to speech integration, language abilities, and clinical symptomatology](../claims/autism-temporal-precision-links-language-symptoms.md) [+W] — learners who differ on it differ in outcomes
+- [Shared text reading benefits students with intellectual disability whether or not they need augmentative and alternative communication systems](../claims/shared-reading-effective-regardless-aac-status.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

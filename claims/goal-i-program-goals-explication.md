@@ -46,3 +46,4 @@ The Goal I section enumerates six program goals, including helping students 'bec
 ## Related Claims
 - The framework directs social sciences programs toward five stated student outcomes including understandings, skills, respect for diversity, values clarification, and participation — related
 - Social sciences instruction is drawn from seven disciplines: anthropology, economics, geography, history, political science, psychology, and sociology — related
+- [Learning concepts such as multiplication are transphenomenal, spanning genetic structure, bodily activity, social interaction and cultural tools](transphenomenal-nature-of-learning-concepts.md) — related

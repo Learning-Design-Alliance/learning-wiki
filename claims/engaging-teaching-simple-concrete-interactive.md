@@ -45,3 +45,4 @@ Thematic synthesis of qualitative extracts. Visual aids were mentioned in ten st
 ## Related Claims
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related
+- [Learning concepts such as multiplication are transphenomenal, spanning genetic structure, bodily activity, social interaction and cultural tools](transphenomenal-nature-of-learning-concepts.md) — related

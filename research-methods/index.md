@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**514 entries** · 0 stable · 514 in review · 0 drafts
+**515 entries** · 0 stable · 515 in review · 0 drafts
 
 ---
 
@@ -214,6 +214,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Four-stage dataset preparation workflow for assessment research](four-stage-dataset-preparation-workflow-for-assessment-research.md) - A reproducible preparation pattern for consolidating heterogeneous examiner files into an answer-level dataset.
 * [Four-stage dropout timing definitions for cross-institutional persistence comparison](four-stage-dropout-timing-definitions-for-cross-institutional-persistence-comparison.md) - The article collapses Simpson's nine potential dropout stages into four timing-based definitions of dropout (Table 2), distinguishing drops before course start, during the initial or Orientation week, and during instruction, and counting only \"active drops\" while excluding dormant (MIA) students.
 * [Four-step methodological framework for measuring LLM alignment to intended impact in high-noise contexts](four-step-methodological-framework-for-measuring-llm-alignment-to-intended-impact-in-high.md) - The article proposes a general framework for evaluating whether LLM judgments align with real-world outcomes when experimental control is infeasible.
+* [Four-type taxonomy of computer-assisted word reading interventions](four-type-taxonomy-of-computer-assisted-word-reading-interventions.md) - The article organizes computer-supported word reading interventions into four program types: foundational (comprehensive) reading instruction, supplementary alphabetics, reading fluency programs, and remedial reading programs for at-risk students in higher grades.
 * [Framework of computer-based scaffolding design characteristics and moderators](framework-of-computer-based-scaffolding-design-characteristics-and-moderators.md) - The article organizes computer-based scaffolding research along several coded dimensions: context of use (problem-based, case-based, design-based, project-based, inquiry-based, modeling/visualization, problem solving), scaffolding change (none, fading, adding, fading/adding), scaffolding logic (none
 * [Framework of reliability and validity evidence categories for classifying RCR outcome-measure validation](framework-of-reliability-and-validity-evidence-categories-for-classifying-rcr-outcome-meas.md) - The review develops a coding framework distinguishing forms of reliability evidence (test–retest, parallel forms, split-half, internal consistency via Cronbach's alpha or Kuder–Richardson formulas) and validity evidence (content validity including cognitive interviews and S-CVIs, face validity, crit
 * [Framework of teachers' judgments of students' monitoring skills with three accuracy measures](framework-of-teachers-judgments-of-students-monitoring-skills-with-three-accuracy-measures.md) - The article introduces a framework that integrates teachers' judgments of students' performance, teachers' judgments of students' monitoring judgments, and students' actual performance and monitoring judgments.

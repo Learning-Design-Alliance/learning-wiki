@@ -143,3 +143,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Current evidence does not establish that embodied representations are necessary for semantic understanding](embodiment-necessity-not-established.md) — related
 - [Participants used a limited, polymorphic repertoire of materials, gestures and symbols whose meanings were context-derived](limited-polymorphic-repertoire-written-collaboration.md) — related
 - [Engaging whole-class teaching used simple communication, concrete and visual aids, and simple interactive activities](engaging-teaching-simple-concrete-interactive.md) — a narrower finding that bears on this claim
+- [Learning concepts such as multiplication are transphenomenal, spanning genetic structure, bodily activity, social interaction and cultural tools](transphenomenal-nature-of-learning-concepts.md) — related
