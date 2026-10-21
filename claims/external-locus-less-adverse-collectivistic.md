@@ -44,3 +44,4 @@ The review reports this meta-analytic finding, attributing it to Cheng and colle
 
 ## Related Claims
 - [GenAI's motivational effect is larger in collectivistic than individualistic cultural contexts (exploratory)](genai-motivation-effect-larger-collectivist-contexts.md) — related
+- [Cultural background influences emotional experiences in language learning, with collectivist-background students tending to experience heightened anxiety](cultural-background-heightened-language-anxiety.md) — related

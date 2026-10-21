@@ -51,3 +51,4 @@ Narrative review attributing this finding to Harackiewicz et al. (2016) and subs
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Performance benefits of UVIs may be limited to the perceived-useful content unless usefulness generalizes or interest develops](uvi-performance-benefits-context-limited.md) — related
 - [College students' attributions of motivation problems to lack of value and interest strongly predict lower intention to take additional classes in the field](value-interest-attributions-predict-attrition-intention.md) — related
+- [Attribution reframing interventions improved outcomes for struggling students (review-reported)](attribution-reframing-improves-struggling-student-outcomes.md) — related

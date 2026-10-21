@@ -121,3 +121,4 @@ The article's abstract states the consequence of the opt-out conceptualization: 
 - [Subgroup score differences largely reflect differing opportunities to learn, not inherent group traits](subgroup-differences-reflect-opportunities-to-learn.md) — related
 - [Disengaged responding biases observed scores from achievement tests and surveys in practically and statistically significant ways](disengaged-responding-biases-observed-scores.md) — a broader claim this one bears on
 - [Representational pictures enhance test-taker enjoyment, response certainty, and reduce rapid-guessing behaviour](representational-pictures-affective-metacognitive-benefits.md) — related
+- [Opting out has disadvantages: it can obscure implicit knowledge, enable excessive opting out, and complicate assessment](opting-out-disadvantages-assessment.md) — related

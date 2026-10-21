@@ -34,7 +34,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (17 for, 10 mixed, 2 against) · 43 studies (12 causal, 9 quant-synthesis, 9 review, 5 design, 4 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 7 of 43 report an effect size · 20 claims rest on one study
+> **Evidence** · 30 claims (18 for, 10 mixed, 2 against) · 44 studies (13 causal, 9 quant-synthesis, 9 review, 5 design, 4 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 8 of 44 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,7 @@ Claims this page has read and does not use in the model above, with how far each
 
 - [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need](../claims/lvn-generator-feedback-loop-case.md) [+W]: read; a design case about feedback loops between organisations in product development, a different sense of "feedback loop"; it does not bear on learners' loops. The principle [Prefer feedback loops over one-directional feedback systems](feedback-loops.md) holds that sense.
 - [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](../claims/maker-cohort-amplifier-case.md) [+W]
+- [Individual performance feedback increased retrieval practice choice only among students who had actually benefited from retrieval practice (Experiment 1)](../claims/individual-feedback-increases-retrieval-practice-choice-only-for-beneficiaries.md) [+W] — attached 2026-10-21 from Luotong Hui et al. (2021), which proposed "Show learners their own performance feedback comparing strategies so they experience a strategy's benefits before expecting them to adopt it"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

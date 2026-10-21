@@ -47,3 +47,4 @@ Reported finding from the study of 50 middle school students: the authors state 
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — related
 - [Scientific literacy post-test scores, critiquing performance, and inquiry performance were closely related](posttest-critique-inquiry-performance-relation.md) — related
+- [Performance during the virtual pipetting lesson predicts real-life transfer test performance](in-lesson-performance-predicts-real-life-transfer.md) — related

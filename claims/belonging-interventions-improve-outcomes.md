@@ -117,3 +117,4 @@ Open questions include durability (whether effects persist beyond the transition
 - [The different elements of the Engagement Framework are interrelated in practice, with gains in one dimension reinforcing others](framework-elements-interrelated-in-practice.md) — a broader claim this one bears on
 - [The review argues that ignoring the social side of school carries costs including reified achievement gaps, diminished belonging and dropout, and unsafe school climates](costs-of-ignoring-social-side-of-school.md) — related
 - [The review reports that a brief values-affirmation writing assignment raised Black students' semester grades, narrowing the Black-White achievement gap](values-affirmation-grade-gains-reported.md) — related
+- [Attribution reframing interventions improved outcomes for struggling students (review-reported)](attribution-reframing-improves-struggling-student-outcomes.md) — related

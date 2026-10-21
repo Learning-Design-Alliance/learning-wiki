@@ -69,3 +69,4 @@ Theoretical argument in the commentary: the same physiological indicators would 
 - [Current cognitive load measures cannot detect overload because the critical level indicating overload is unknown](load-measures-cannot-detect-overload.md) — related
 - [Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups](chatgpt-flatter-mental-effort-trajectory.md) — related
 - [Effort investment is driven differently in CLT (data-driven, task difficulty) versus SRL theories (goal-driven, motivation)](effort-drivers-data-driven-vs-goal-driven.md) — a broader claim this one bears on
+- [Studies collecting both subjective and objective effort measures reveal dissociations between the two types of measures](dissociations-between-subjective-and-objective-effort-measures.md) — related

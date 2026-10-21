@@ -64,3 +64,4 @@ The review reports Vansteenkiste et al.'s two-sample study of Chinese students i
 ## Related Claims
 - [Autonomous motivation types positively relate to school achievement while controlled types show weak negative or null relations](autonomous-vs-controlled-motivation-achievement.md) — related
 - [Autonomous regulation correlates positively with self-efficacy, learning strategies, and behavioral engagement, while controlled regulation shows no significant linear relations with these outcomes](autonomous-regulation-correlations-outcomes.md) — related
+- [Teachers' load-reducing strategies and motivating styles correlate with lower cognitive load and higher motivation, engagement, and achievement (Evans et al., 2024)](load-reducing-teaching-strategies-motivation-engagement.md) — related

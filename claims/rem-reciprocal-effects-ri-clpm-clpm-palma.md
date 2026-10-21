@@ -85,3 +85,4 @@ Reanalysis of the PALMA longitudinal study (five annual waves of mathematics dat
 - [Reciprocal effects are robust to time-invariant confounders, but the French lagged self-concept effect did not survive the lag2 carryover stress test](robustness-to-confounders-french-lagged-mixed.md) — related
 - [Academic skills predict contemporaneous (within-semester) changes in academic self-concept in both mathematics and French](skills-contemporaneous-effects-on-self-concept.md) — related
 - [The temporal asymmetry in effect sizes: contemporaneous skill effects on self-concept are moderate (d = 0.33 in French) while alternative cross-effects are null or negligible](temporal-asymmetry-effect-sizes.md) — related
+- [Bidirectional EF–mathematics relationships are reported but the longitudinal evidence is mixed and method-dependent](ef-math-bidirectionality-mixed.md) — related

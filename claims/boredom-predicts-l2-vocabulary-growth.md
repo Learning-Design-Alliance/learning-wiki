@@ -53,3 +53,4 @@ The final multilevel model on repeated vocabulary measures included enjoyment, b
 - [Academic emotions—enjoyment, anxiety, and boredom—mediate the association between perceived AI-adaptive environments and SRL, accounting for 54.8% of the total effect](academic-emotions-mediate-ai-environment-srl.md) — related
 - [Metacognitive confidence judgments and control predict English vocabulary performance from the beginning to the end of the school year in primary school children](metacognition-predicts-l2-vocabulary-growth-primary-school.md) — related
 - [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — related
+- [Anxiety, enjoyment and boredom are three critical emotions in language learning that affect outcomes and engagement](anxiety-enjoyment-boredom-critical-sla-emotions.md) — related

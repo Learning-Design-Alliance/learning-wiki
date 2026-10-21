@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1855 entries** · 0 stable · 1855 in review · 0 drafts
+**1860 entries** · 0 stable · 1860 in review · 0 drafts
 
 ---
 
@@ -112,6 +112,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [ASEAN subregional EE curriculum prototypes for primary and secondary schools and pre-/in-service teacher training](asean-subregional-ee-curriculum-prototypes-for-primary-and-secondary-schools-and-pre-in-se.md) - A set of adaptable environmental-education curriculum prototypes for primary and secondary schools and teacher education, developed by UNESCO-UNEP's International Environmental Education Programme with Malaysia's Curriculum Development Centre and the University of the Philippines' ISMED.
 * [Ask Me Anything (AMA)](ask-me-anything-ama.md) - A Python and ChatGPT API chatbot developed by Saniya Vahedian Movahed et al.
 * [Aspiring to Educate](aspiring-to-educate.md) - A Pennsylvania state-supported programme that creates multiple pathways into teaching through preparation partnerships and financial supports for high school students, adults, paraprofessionals, and college students.
+* [ASReview](asreview.md) - ASReview is an open-source machine-learning platform developed for efficient abstract screening in systematic reviews by iteratively prioritizing records for reviewer classification.
 * [Assessment Integration Management (AIM)](assessment-integration-management-aim.md) - Assessment Integration Management (AIM) is a web-based system for creating tests, uploading test models and item pools, and running large-scale computerized-based-exam simulations with configurable testing and student parameters.
 * [ASSISTments](assistments.md) - ASSISTments is a free web-based platform developed and operated by the ASSISTments Project for assigning mathematics practice, providing feedback, and reporting student-performance data to teachers.
 * [ASSISTments2009, EdNet-KT1, and XES3G5M knowledge-tracing benchmark datasets](assistments2009-ednet-kt1-and-xes3g5m-knowledge-tracing-benchmark-datasets.md) - A set of publicly used learner–question interaction datasets from online tutoring and exercise platforms, used to develop and evaluate knowledge-tracing models.
@@ -995,6 +996,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Math Garden single-digit multiplication error dataset and 14-category error classification](math-garden-single-digit-multiplication-error-dataset-and-14-category-error-classification.md) - A research dataset and 14-category taxonomy of single-digit multiplication errors collected from the Math Garden computerized arithmetic practice environment and analyzed by Savi et al.
 * [Math Mysteries](math-mysteries.md) - A teacher-developed, AI-powered, storytelling-based gamified mathematics learning platform for middle school students, created using Google AI Studio by the Song et al.
 * [Math with Matt](math-with-matt.md) - Math with Matt is a CTAT-based intelligent tutoring system developed by Rief et al.
+* [Math-gender Misconceptions Questionnaire short version (MGMQ-s)](math-gender-misconceptions-questionnaire-short-version-mgmq-s.md) - A short self-report questionnaire developed by Dersch, Thacker, and Eitel that measures in-service and student teachers' empathizing-systemizing and girls' compensation misconceptions using agreement and certainty responses.
 * [Mathbot](mathbot.md) - Mathbot is an AI-based personalized elementary mathematics learning platform developed to adapt instruction and feedback to individual learners while incorporating students' interests into fraction problems.
 * [Mathematica's M&E approach and associated toolkit](mathematicas-me-approach-and-associated-toolkit.md) - A Mathematica framework and toolkit that structures evidence gathering and decision-making across four phases of evidence-based solution development.
 * [Mathematical Imagery Trainer for Proportion](mathematical-imagery-trainer-for-proportion.md) - An embodied mathematics-learning environment developed by Dor Abrahamson and colleagues in which learners manipulate on-screen cursors to construct proportional relationships through staged visual and numerical overlays.
@@ -1219,6 +1221,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### P {: #letter-p }
 
+* [Paas 9-point mental effort rating scale](paas-9-point-mental-effort-rating-scale.md) - A single-item nine-point subjective rating scale developed by Paas for measuring perceived mental effort invested in completing a learning or problem-solving task.
 * [Paired self-report and objective-based AI literacy assessment instruments for K–12 teachers](paired-self-report-and-objective-based-ai-literacy-assessment-instruments-for-k12-teachers.md) - A psychometrically validated scenario-based multiple-choice test and Likert self-report scale developed to measure K–12 teachers' AI literacy across knowledge, application, evaluation and creation, and ethics.
 * [Paired synthetic evaluation datasets: a 2,482-case edge-case benchmark and a 570-case human-reviewed egregious-failure set](paired-synthetic-evaluation-datasets-a-2482-case-edge-case-benchmark-and-a-570-case-human.md) - A dataset pair created by Chris Rohlfs et al.
 * [Panamath](panamath.md) - Panamath, the Psychophysical Assessment of Numerical Approximation, is a free software tool developed by the Halberda Lab for administering non-symbolic numerical comparison tasks and recording accuracy and response time in children and other learners.
@@ -1277,6 +1280,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [PLEDGE platform](pledge-platform.md) - PLEDGE is Greenfield Learning's online professional-learning platform, where participating educators complete screeners, set goals, access personalized content, and upload application artifacts.
 * [PoETA](poeta.md) - PoETA is a curated toolbox framework developed by Lucciarini and Boniwell for integrating brief, stand-alone, flexible positive-psychology interventions into mainstream classrooms with minimal specialised training.
 * [Polygence authentic learning dataset](polygence-authentic-learning-dataset.md) - A large anonymized multimodal dataset of more than 100,000 hours of longitudinal one-on-one project-based tutoring interactions between PhD-level mentors and K–12 or pre-college students, collected and maintained by Polygence.
+* [Pooled correlational dataset of 288 independent samples (N = 47,121) with OSF repository](pooled-correlational-dataset-of-288-independent-samples-n-47121-with-osf-repository.md) - A pooled correlation-matrix dataset of Chinese-speaking children's cognitive-linguistic skills and word-reading outcomes, released by the study authors through an OSF repository.
 * [Positive Action](positive-action.md) - A K–12 curriculum developed and delivered by Positive Action, Inc.
 * [Positive Behavioral Interventions and Supports (PBIS)](positive-behavioral-interventions-and-supports-pbis.md) - PBIS is an evidence-based, multitiered framework used by schools to organize data, systems, and behavioral practices through universal, targeted, and individualized supports.
 * [Post-secondary Attainment Index (PAI)](post-secondary-attainment-index-pai.md) - The University of Chicago Consortium on School Research's Post-secondary Attainment Index is a district-level indicator combining high-school graduation, college enrollment, and college-completion rates to estimate post-secondary attainment for CPS students.
@@ -1497,6 +1501,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Simba Wachanga](simba-wachanga.md) - A year-long interdisciplinary rites-of-passage programme for African-American boys, implemented by the East End Neighborhood House in Cleveland through Elders, resource people, and Big Brothers.
 * [SimCalc](simcalc.md) - SimCalc is a mathematics curriculum package developed by the SimCalc project that integrates dynamic representation software, student workbooks, and teacher professional development for teaching rate, proportionality, and linear functions.
 * [Simple Solutions](simple-solutions.md) - A branded supplemental curriculum from Simple Solutions that provides brief daily distributed-practice lessons with spiral review and optional online resources for K–8 subjects.
+* [SIMS80 cross-national longitudinal database](sims80-cross-national-longitudinal-database.md) - A cross-national longitudinal mathematics achievement and self-concept database from the IEA's Second International Mathematics Study, covering 13-year-old students, schools, and classroom and student background variables in the USA, Ontario, and New Zealand.
 * [SimSE](simse.md) - SimSE is a dataset of 1,135 simulated five-minute teaching sessions by pre-service teachers, annotated for metacognitive modeling components and collected through the TeachSim platform by Xu and colleagues.
 * [Simucase](simucase.md) - Simucase is a clinical simulation platform developed and operated by Simucase for speech-language pathology, audiology, and occupational therapy education.
 * [SINE](sine.md) - SINE is a domain-agnostic pipeline that uses an open-weight language model, deterministic validation, and automated repair to generate playable choice-based interactive-fiction scenarios from structured educational content.

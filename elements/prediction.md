@@ -13,7 +13,7 @@ generated:
 # Prediction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 9 studies (5 causal, 1 quant-synthesis, 1 review, 1 associational, 1 qualitative), `q2`–`q3` · 3 of 9 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (5 for, 4 mixed) · 10 studies (5 causal, 2 review, 1 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q3` · 3 of 10 report an effect size · 7 claims rest on one study
 
 ## Description
 A prediction asks learners to commit to an answer, outcome, or explanation *before* receiving instruction — guessing the result of an experiment, the next step in a demonstration, or the answer to a question about material not yet taught. The act of committing, even incorrectly, prepares learners to encode the corrective information that follows.
@@ -57,6 +57,7 @@ Predictions leverage the pretesting effect: attempting to answer before instruct
 - [Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes](../claims/pretesting-enhances-memory-tested-video.md) [+W]
 - [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](../claims/classroom-pretesting-exam-gains.md) [+W]
 - [Positive information prediction errors enhance memory for low-curiosity answers increasingly with age](../claims/positive-ipe-memory-low-curiosity-answers-increase-with-age.md) [~W]
+- [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](../claims/immediate-feedback-partial-resolution-increases-curiosity.md) [+W]
 
 ## The evidence by question
 - *Does attempting questions on material before studying it improve later memory of the questioned content, and under what conditions on the answer and the material?* [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+S]

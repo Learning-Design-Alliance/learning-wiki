@@ -48,3 +48,5 @@ Meta-synthesis finding across the qualitative corpus: the review reports that "o
 - [Online environments build adolescent competence through pride in achievements, social confidence, and creative confidence](online-competence-pride-confidence-creativity.md) — related
 - [Online environments function as virtual youth centres and hubs for bonding and bridging social capital](online-relatedness-virtual-youth-centres-social-capital.md) — related
 - [Identity-centered making supports simultaneous STEM engagement and identity affirmation for queer youth](identity-centered-making-supports-stem-engagement-and-identity-affirmation.md) — a narrower finding that bears on this claim
+- [Schools and teachers unintentionally communicate identity messages to adolescents through the hidden curriculum](hidden-curriculum-unintentional-identity-messages.md) — related
+- [Peer norms can deny access to identity positions and stigmatize positions adolescents would otherwise take up](peer-norms-restrict-identity-positions.md) — related

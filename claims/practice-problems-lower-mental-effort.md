@@ -49,3 +49,4 @@ One-way ANOVA on 9-point mental-effort ratings during practice printed a main ef
 - [Task sequence effects on mental effort reverse between learning phase and transfer test](effort-reversal-learning-versus-transfer-phase.md) — related
 - [Time-on-task during practice was significantly higher for correct and erroneous examples than for contrasting examples and practice problems](time-on-task-example-conditions-higher.md) — related
 - [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — related
+- [For novice learners, worked examples are more effective and often more efficient than conventional problem solving (the worked example effect)](worked-example-effect-novices-review.md) — reports the opposite

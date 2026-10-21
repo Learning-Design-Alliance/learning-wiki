@@ -49,3 +49,4 @@ Pearson correlations among the three MAKQ dimensions in Study One (N = 293), all
 - [The MAKQ self-knowledge items show a stable two-factor structure: meta-attention control (15 items) and meta-attention monitoring (5 items)](makq-two-factor-self-knowledge-structure.md) — related
 - [All measured graduate attribute scores correlate positively with one another, with the Resourcefulness Scale correlating most weakly](positive-correlations-among-graduate-attribute-measures.md)
 - [Self-report factors correlate weakly with metacognitive behavior while within-factor subcomponent correlations are larger, per studies reviewed for the meta-analysis](self-report-factors-weakly-relate-to-behavior.md)
+- [Metacognitive awareness is weakly correlated with intelligence and independently predicts performance (review-reported)](metacognitive-awareness-independently-predicts-performance.md) — related

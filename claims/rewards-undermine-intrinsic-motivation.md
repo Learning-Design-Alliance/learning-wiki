@@ -221,3 +221,5 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](targeted-support-feedback-reinforcers-dd.md) — related
 - [Receiving grades is positively associated with achievement and external motivation compared with receiving no performance feedback (review-reported meta-analysis)](grades-versus-no-feedback-koenka.md) — related
 - [Reward techniques show positive meta-analytic effects for gamification and personalization, but perceptual fluency did not directly affect learning outcomes](reward-techniques-meta-analytic-effects-mixed.md) — related
+- [External rewards can undermine intrinsic motivation for learners who are already motivated](external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) — a broader claim this one bears on
+- [Most of the 45 reviewed studies report positive gamification effects on motivation and engagement in mathematics; only four report negative effects](gamification-mathematics-mostly-positive-four-negative.md) — related

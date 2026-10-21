@@ -51,3 +51,5 @@ Theoretical proposal in the Motivational processes section, displayed in Fig. 3 
 - [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — related
 - [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md) — related
 - [Low and medium Knowledge Confidence heighten curiosity, contradicting the predicted inverted U-shaped relationship](low-medium-knowledge-confidence-heighten-curiosity.md) — related
+- [Backward curiosity may be an optimal starting point for promoting student learning](backward-curiosity-promotes-learning.md) — related
+- [Information seeking follows a cost–benefit analysis of resolving curiosity](curiosity-cost-benefit-information-seeking.md) — related

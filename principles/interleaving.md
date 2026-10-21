@@ -47,7 +47,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (15 for, 21 mixed, 1 against) · 21 studies (9 causal, 4 quant-synthesis, 4 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 10 of 21 report an effect size · 34 claims rest on one study
+> **Evidence** · 38 claims (16 for, 21 mixed, 1 against) · 22 studies (10 causal, 4 quant-synthesis, 4 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 10 of 22 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,7 @@ The expectation should weaken if comparisons with comparable learners find no ad
 - [Low (blocked) and high (random/serial) contextual interference practice do not differ significantly in acute skill gains (Δ pre-post) in PE and sports contexts](../claims/ci-no-acquisition-advantage-difference.md) [~W]
 - [Interleaved practice yields better category learning than blocked practice, and students who choose interleaved practice outperform those who choose blocked practice on novel materials](../claims/interleaving-effect-category-learning-paintings.md) [+M]
 - [In Experiment 1, learners interleaved more only when high utility value of distinguishing was combined with instruction that differences matter, with the two factors interacting rather than showing main effects](../claims/interleaving-requires-utility-value-plus-differences-matter-instruction.md) [~W]
+- [Combining utility value of distinguishing with conditional knowledge fosters interleaving of confusable categories (Abel et al., 2024)](../claims/utility-value-conditional-knowledge-foster-interleaving.md) [+W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

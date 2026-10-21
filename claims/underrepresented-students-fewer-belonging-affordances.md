@@ -49,3 +49,5 @@ The essay reports, citing Kroeper et al. (2025), a multi-campus study of institu
 - [Black students experience a more hostile campus racial climate than other students of color in schools](black-students-more-hostile-climate-than-other-students-of-color.md) — related
 - [Campus symbols such as antebellum architecture signal belonging to White and high-SES students and unwelcomeness to marginalized students](campus-symbols-signal-unwelcomeness-to-marginalized-students.md) — a narrower finding that bears on this claim
 - [Racially marginalized faculty self-report using inclusive pedagogy at slightly but significantly higher rates than White faculty](marginalized-faculty-self-report-inclusive-pedagogy-higher.md) — related
+- [Exceptionalism as a script of acceptance carries psychological costs for marginalized high-achieving students](exceptionalism-script-psychological-costs.md) — a narrower finding that bears on this claim
+- [First-generation faculty role models increase first-generation students' university belonging](first-gen-faculty-role-models-increase-belonging.md) — related

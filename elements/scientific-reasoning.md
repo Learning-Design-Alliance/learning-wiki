@@ -18,7 +18,7 @@ sources:
 # Scientific Reasoning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 8 studies (2 causal, 2 associational, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 2 of 8 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (7 for, 3 mixed, 1 against) · 9 studies (3 causal, 2 associational, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 3 of 9 report an effect size · 10 claims rest on one study
 
 ## Description
 Scientific reasoning is the element in which learners generate explanations, evaluate evidence, test claims, and revise models using disciplinary norms of inquiry. It is useful when understanding depends on explanation and evidence, not memorization alone.
@@ -52,6 +52,7 @@ Scientific reasoning is the element in which learners generate explanations, eva
 - [Among Malaysian Muslim science students, intensity of discord over scientific claims shows no direct link to scientific reasoning ability](../claims/no-direct-link-discord-scientific-reasoning-malaysian.md) [~W]
 - [Scientific reasoning levels are linked directly to sophistication of epistemological beliefs among Malaysian Muslim students](../claims/scientific-reasoning-linked-epistemological-sophistication.md) [~W]
 - [LLM-supported socio-scientific inquiry lowered cognitive load but produced lower-quality reasoning and argumentation than conventional search](../claims/llm-inquiry-lower-load-lower-reasoning.md) [-W]
+- [Video modeling conditions show stronger co-occurrence of self-regulation with scientific reasoning processes than unguided inquiry (ENA)](../claims/ena-stronger-reasoning-selfregulation-cooccurrence-vm.md) [+W]
 
 ## The evidence by question
 - *Does teaching reasoning patterns explicitly develop learners' scientific reasoning more than content instruction or unguided inquiry does?* [Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)](../claims/explicit-reasoning-instruction-preliminary-large-gains.md) [+W]

@@ -49,3 +49,4 @@ Mediation analysis following Baron and Kenny on the same longitudinal SEM sample
 - [Initial motivation in kindergarten has no significant direct effect on mathematical performance two years later](no-direct-effect-of-kindergarten-motivation-on-math.md)
 - [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
 - [Executive skills, but not nonverbal IQ, at age 3–4 predict preschool counting and number knowledge](executive-skills-not-nonverbal-iq-predict-number-skills.md) — related
+- [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — related

@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 71 claims (55 show a difference, 12 mixed, 4 no difference) · 36 studies (14 associational, 8 review, 7 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 10 of 36 report an effect size · 69 claims rest on one study
+> **Evidence** · 75 claims (57 show a difference, 14 mixed, 4 no difference) · 39 studies (16 associational, 9 review, 7 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 39 report an effect size · 72 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -106,6 +106,10 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Reciprocal effects are robust to time-invariant confounders, but the French lagged self-concept effect did not survive the lag2 carryover stress test](../claims/robustness-to-confounders-french-lagged-mixed.md) [~M] — learners who differ on it differ in outcomes
 - [The temporal asymmetry holds across gender and initial ability levels, with a cautious gender difference in the French lagged effect](../claims/temporal-asymmetry-gender-ability-invariance.md) [~M] — learners who differ on it differ in outcomes
 - [The temporal asymmetry in effect sizes: contemporaneous skill effects on self-concept are moderate (d = 0.33 in French) while alternative cross-effects are null or negligible](../claims/temporal-asymmetry-effect-sizes.md) [~M] — instruction changes it
+- [Adolescents' self-understandings are informed by their perceptions of teacher expectations, which may differ across student groups](../claims/teacher-expectations-inform-self-understandings.md) [~M] — instruction changes it
+- [Class-average achievement shows a small negative indirect effect on subsequent mathematics achievement mediated through mathematics self-concept](../claims/bflpe-negative-mediation-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [The Big-Fish-Little-Pond effect on mathematics self-concept is negative and statistically significant in all three countries under a fully specified doubly latent model](../claims/bflpe-negative-significant-all-countries.md) [+M] — instruction changes it
+- [When compositional effects are constrained equal across countries, the overall peer spillover effect is negative and non-significant while the BFLPE remains negative and significant](../claims/restricted-model-null-spillover-significant-bflpe.md) [~W] — instruction changes it
 
 ## Related Learner Variables
 

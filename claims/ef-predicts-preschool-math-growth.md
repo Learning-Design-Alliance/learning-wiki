@@ -77,3 +77,5 @@ Longitudinal study of a racially/ethnically and linguistically diverse sample of
 - [Preschool math ability significantly predicts kindergarten math ability on both the ECLS-K Math battery and the Applied Problems subtest](preschool-math-predicts-kindergarten-math-both-measures.md) — related
 - [Children with lower pre-test executive function and social cognition skills improve more, while attendance, teacher involvement, age and school year do not predict gains](lower-pretest-skills-greater-gains-moderators-null.md) — related
 - [Executive functioning and early numeracy skills assessed in kindergarten directly predict mathematical performance in second grade, jointly explaining 57.3% of its variance](ef-and-early-numeracy-directly-predict-grade-2-math.md) — related
+- [Bidirectional EF–mathematics relationships are reported but the longitudinal evidence is mixed and method-dependent](ef-math-bidirectionality-mixed.md) — related
+- [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — a broader claim this one bears on

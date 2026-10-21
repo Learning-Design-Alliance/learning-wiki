@@ -47,3 +47,5 @@ Structural equation modeling of 180 children assessed at T1 (kindergarten) and T
 - [Executive function and spatial skills jointly predict 70% of the variance in age-4 mathematics performance without an explicit number-knowledge measure](ef-and-spatial-predict-70-percent-preschool-math-variance.md) — related
 - [Preschool working memory–flexibility predicts later math achievement, especially in Grade 3](preschool-wm-flexibility-predicts-math-achievement.md) — related
 - [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
+- [Bidirectional EF–mathematics relationships are reported but the longitudinal evidence is mixed and method-dependent](ef-math-bidirectionality-mixed.md) — related
+- [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — a broader claim this one bears on

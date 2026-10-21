@@ -72,3 +72,4 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [Visual-only text yields higher transfer than audio-visual text in immersive VR](vr-reverse-modality-effect-transfer.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
+- [Mental simulation training increased children's reading motivation in both grades, while control-group motivation did not change](mental-simulation-training-raises-reading-motivation.md) — related

@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (48 show a difference, 23 mixed, 9 no difference) · 68 studies (18 causal, 18 review, 17 associational, 9 quant-synthesis, 3 qualitative, 3 theoretical), `q1`–`q4` · 12 of 68 report an effect size · 74 claims rest on one study
+> **Evidence** · 83 claims (49 show a difference, 23 mixed, 11 no difference) · 70 studies (19 review, 18 causal, 17 associational, 10 quant-synthesis, 3 qualitative, 3 theoretical), `q1`–`q4` · 12 of 70 report an effect size · 77 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -123,6 +123,9 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [High task variability can overload working memory and reduce learning efficiency in some cases](../claims/task-variability-overload-tradeoff.md) [~W] — instruction changes it
 - [In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed](../claims/green-breaks-elementary-attention-restoration.md) [+M] — instruction changes it
 - [In university students, walks or sitting in natural settings after cognitive fatigue improve some attention and working memory measures, with null results for others](../claims/green-exposure-university-cognitive-benefits.md) [~M] — instruction changes it
+- [Increasing germane cognitive load is not a significant moderator of drawing support effects on comprehension](../claims/germane-load-increase-non-significant-moderator.md) [-M] — an instructional effect differs with it
+- [Reducing extraneous cognitive load is not a significant moderator of drawing support effects on comprehension](../claims/extraneous-load-reduction-non-significant-moderator.md) [-M] — an instructional effect differs with it
+- [Teachers' load-reducing strategies and motivating styles correlate with lower cognitive load and higher motivation, engagement, and achievement (Evans et al., 2024)](../claims/load-reducing-teaching-strategies-motivation-engagement.md) [+M] — instruction changes it
 
 ## The evidence by question
 

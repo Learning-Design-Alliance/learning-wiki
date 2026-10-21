@@ -47,3 +47,4 @@ Charting of the review's 134-paper corpus during data extraction. The review rep
 - [Growth in RSE research has been accompanied by divergence rather than convergence of content](rse-content-divergence.md) — related
 - [Evaluation methods for RSE are varied and hybridised, with qualitative methods most common](rse-evaluation-methods-varied.md) — related
 - [Over a third of RSE studies report no outcomes, and student outcome measurement prioritises knowledge](rse-outcomes-knowledge-prioritised.md) — related
+- [Previous research on authentic learning lacks clear definitions and operationalizations of authentic learning](authentic-learning-lacks-clear-definitions.md) — related

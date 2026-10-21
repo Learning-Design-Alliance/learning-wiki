@@ -76,3 +76,5 @@ The same meta-analytic section reports "Negative associations were also found be
 - [Mastery-approach goals are positively related to time management, while performance-approach relations are inconsistent and performance-avoidance goals show no association](mastery-approach-goals-time-management.md) — related
 - [Mastery-approach goals are negatively related to anxiety (r = −.10) across 34 samples](mastery-approach-goals-negative-anxiety-meta.md) — related
 - [Work-avoidance goals are particularly related to negative activity emotions](work-avoidance-goals-negative-activity-emotions.md) — related
+- [Implicit theories of ability predict achievement goals, with performance goals mediating or suppressing entity theory effects on math performance](implicit-theories-predict-achievement-goals-math.md) — a narrower finding that bears on this claim
+- [Trait test anxiety predicts performance-based goals, and state worry and emotionality mediate performance-avoidance goal effects on exam performance](test-anxiety-goal-complex-mediation.md) — a narrower finding that bears on this claim

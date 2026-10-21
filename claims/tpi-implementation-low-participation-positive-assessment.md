@@ -66,3 +66,4 @@ Authors' interpretation (type e) offered in the conclusions to explain low parti
 - [Tutors and trainee researchers most value supportive attitude, mastery of the research field, and accessibility in a research project supervisor](supervisor-desirable-characteristics-survey.md) — related
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related
 - [Small additions of research-specific procedures can shift a study out of exempt review](small-procedure-additions-change-review-path.md) — related
+- [External feedback from supervisors, tutors, and peers supports students' completion and accuracy of self-assessment, with high achievers more likely to use tutor feedback](external-feedback-supports-self-assessment-implementation.md) — related

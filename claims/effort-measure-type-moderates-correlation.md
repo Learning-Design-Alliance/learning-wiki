@@ -51,3 +51,5 @@ Moderator analysis of effort measurement type (k reported in Table 1: objective 
 - [Task type moderates the correlation: problem-solving tasks show a stronger negative association than word/paired-associate tasks](problem-solving-tasks-stronger-negative-correlation.md) — related
 - [Physiological measures have limited validity for effort, especially for distinguishing data-driven from goal-driven effort](physiological-effort-measures-limited-validity.md) — related
 - [Effort ratings correlate negatively with judgments of learning (r = −0.355), but the correlation disappears under a goal-driven interpretation of effort](negative-effort-jol-correlation-meta-analysis.md) — related
+- [Perceived mental effort serves as a cue for monitoring judgments, which mediate the effort–outcome relation (David et al., 2024 meta-analysis)](david-2024-effort-cue-monitoring-meta-analysis.md) — related
+- [Studies collecting both subjective and objective effort measures reveal dissociations between the two types of measures](dissociations-between-subjective-and-objective-effort-measures.md) — related

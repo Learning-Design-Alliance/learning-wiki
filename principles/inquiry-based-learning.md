@@ -52,7 +52,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (32 for, 19 mixed, 6 against) · 65 studies (18 causal, 15 quant-synthesis, 9 review, 8 theoretical, 6 qualitative, 6 design, 3 associational), `q1`–`q4` · 15 of 65 report an effect size · 44 claims rest on one study
+> **Evidence** · 60 claims (33 for, 20 mixed, 7 against) · 67 studies (19 causal, 15 quant-synthesis, 10 review, 8 theoretical, 6 qualitative, 6 design, 3 associational), `q1`–`q4` · 16 of 67 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -189,6 +189,9 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Instructional approaches that include inquiry learning are more effective than direct instruction for acquiring conceptual knowledge, per the review's synthesis of meta-analyses](../claims/inquiry-more-effective-than-direct-conceptual-knowledge.md) [+W]
 - [Open inquiry enhances students' science literacy and related skills such as environmental literacy, argumentation, autonomy and reflection](../claims/open-inquiry-science-literacy-skills.md) [~W]
 - [Student-led inquiry-based investigation is identified as the least effective instructional element in PISA 2015 analyses](../claims/student-led-inquiry-least-effective-instructional-element.md) [-W]
+- [Unguided inquiry students overestimate their hypothesis quality in the transfer task more than video modeling students](../claims/control-overestimates-hypothesis-quality-transfer.md) [-W]
+- [Reviewed authentic settings typically implemented more than four design elements (never all eight), relied most on inquiry/investigation, and were usually compared to conventional teacher-led instruction](../claims/design-elements-implemented-reviewed-studies.md) [~W]
+- [Video modeling examples improve hypothesis and argumentation quality in an inquiry training task compared to unguided inquiry](../claims/video-modeling-improves-inquiry-products-training.md) [+W]
 
 ## Related Principles
 

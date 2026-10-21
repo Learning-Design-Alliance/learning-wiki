@@ -155,3 +155,4 @@ Meta-analysis of school-based writing-to-learn task assignments including inform
 - [Self-explanation prompting is potentially effective across a range of instructional conditions](self-explanation-effective-across-instructional-conditions.md) — related
 - [Generative learning strategy prompts with metacognitive feedback yield higher self-regulation, strategy-use quality, recall and comprehension than strategy tools alone, controlling for prior knowledge](prompts-metacognitive-feedback-beat-tools-alone-generative-learning.md) — related
 - [Students find reflective prompts accompanied by visual elements more actionable and easier to interpret than plain-text prompts](visual-prompts-more-actionable-than-plain-text.md) — related
+- [Goal-setting interventions with action plans and public commitment improved academic performance (review-reported)](goal-setting-intervention-academic-performance-gains.md) — related

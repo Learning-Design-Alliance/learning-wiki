@@ -26,7 +26,7 @@ sources:
 # Goal Setting & Monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 16 studies (5 quant-synthesis, 5 review, 3 causal, 3 theoretical), `q1`–`q4` · 3 of 16 report an effect size · 4 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 17 studies (5 quant-synthesis, 5 review, 4 theoretical, 3 causal), `q1`–`q4` · 3 of 17 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,7 @@ Effects on effort, persistence, completion, on-task behaviour, self-efficacy, im
 
 - [Proximal goals produced higher motivation, skill, self-efficacy, and intrinsic interest than distant or general goals](../claims/proximal-goals-benefit-efficacy-and-skill.md) [+W]
 - [The tribute reports that process and transitional goals could outperform outcome goals in dart-throwing practice](../claims/process-transitional-goals-outperform-outcome-goals-dart-throwing.md) [~W]
+- [Goal-setting interventions with action plans and public commitment improved academic performance (review-reported)](../claims/goal-setting-intervention-academic-performance-gains.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — goals provide the structure that can be scaffolded and then faded.

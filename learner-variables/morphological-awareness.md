@@ -13,7 +13,7 @@ generated:
 # Morphological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 11 claims (7 show a difference, 2 mixed, 2 no difference) · 8 studies (3 causal, 3 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q3` · 4 of 8 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (8 show a difference, 5 mixed, 2 no difference) · 9 studies (4 quant-synthesis, 3 causal, 1 associational, 1 qualitative), `q2`–`q3` · 4 of 9 report an effect size · 14 claims rest on one study
 
 ## Description
 Morphological awareness is recognising and using morphemes, the smallest meaningful parts of words, such as the root and prefix in *replay*. This page also covers morphological knowledge, the LVN's name for the same capacity in older children. Learners who understand morphemes can treat them as building blocks, recognising, understanding and producing longer, more complex words when reading and writing. It also includes knowing how stress and pronunciation change between related words (*sign* and *signature*) and how some morphemes carry grammatical meaning (adding *-ed* for the past tense). It is measured with tasks in which learners choose or complete the right word form, such as picking the suffix that fits a sentence.
@@ -52,6 +52,10 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](../claims/morphological-awareness-stronger-than-phonological-ran.md) [+M] — learners who differ on it differ in outcomes
 - [Most predictor effect sizes showed high heterogeneity; only morphological awareness, working memory, and language comprehension fell in the moderate I² range](../claims/high-heterogeneity-adult-predictor-effect-sizes.md) [~M] — learners who differ on it differ in outcomes
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](../claims/six-strong-component-skills-adult-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Across grade levels, children shift from a phonology-based strategy (PA) to a meaning-based strategy (MA and vocabulary) in Chinese word reading, while RAN and OA effects remain stable](../claims/developmental-shift-phonology-to-meaning-chinese-reading.md) [~M] — learners who differ on it differ in outcomes
+- [All five cognitive-linguistic skills (RAN, OA, PA, MA, vocabulary) significantly and independently predict Chinese word reading, with MA and vocabulary showing the largest effects](../claims/masem-five-skills-predict-chinese-word-reading.md) [+M] — learners who differ on it differ in outcomes
+- [Children reading traditional Chinese script rely more heavily on morphological awareness for word reading than children reading simplified script](../claims/traditional-script-greater-morphological-awareness-effect.md) [~M] — learners who differ on it differ in outcomes
+- [Phonological instruction (Pinyin/Bopomofo) strengthens the role of phonological awareness but reduces reliance on morphological awareness in Chinese word reading](../claims/phonological-instruction-strengthens-pa-reduces-ma.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **The Suffix Choice Test** (Nagy et al., 2003): recognising, understanding and using morphemes by choosing the right suffixed form.

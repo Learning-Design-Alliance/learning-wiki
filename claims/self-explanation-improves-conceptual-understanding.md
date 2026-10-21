@@ -238,3 +238,4 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) — related
 - [Prompts and scaffolds for paraphrasing, criticizing, questioning, and synthesizing arguments produce significantly more domain-specific and domain-general knowledge](argumentation-prompts-scaffolds-knowledge-gains.md) — related
 - [Experts introduce procedure and planning explanations over time, typically after an initial step or action is completed](planning-explanations-later-in-turn.md) — related
+- [Adding instructional explanations to worked examples yields a small positive effect on learning, stronger for conceptual than procedural knowledge](instructional-explanations-in-worked-examples-small-effect.md) — related

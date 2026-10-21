@@ -53,3 +53,4 @@ Multi-level model analysis of the experiment with N = 77 university students per
 - [In the mental integration task, low-span and high-span groups showed no significant static-vs-dynamic differences (d = 0.09 and d = 0.03)](low-high-span-no-design-difference-study1.md) — related
 - [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — a broader claim this one bears on
 - [U-shaped dynamics: partnership-vigilance and offloading-transformation relationships are convex, with benefits accelerating only beyond a threshold of engagement](u-shaped-thresholds-vigilance-offloading.md) — related
+- [Mental effort relates to self-rated certainty in a cubic (declining–flat–declining) rather than linear pattern](mental-effort-certainty-cubic.md) — related

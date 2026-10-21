@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 24 claims (9 for, 13 mixed, 2 against) · 19 studies (10 causal, 5 review, 3 theoretical, 1 design), `q2`–`q3` · 1 of 19 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (10 for, 13 mixed, 2 against) · 20 studies (10 causal, 6 review, 3 theoretical, 1 design), `q2`–`q3` · 1 of 20 report an effect size · 23 claims rest on one study
 
 ## Description and scope
 
@@ -112,6 +112,7 @@ This pattern is scoped to selecting solution support for structured tasks. Open-
 - [The worked example effect failed to replicate for geometry and kinematics problems, and was reinstated when worked examples were restructured to reduce split attention](../claims/worked-example-effect-split-attention-replication-history.md) [~W]
 - [Combining tracing with imagining (tracing with closed eyes) reduced problem-solving times compared to no tracing and imagining in worked-example mathematics learning](../claims/tracing-imagining-combination-reduces-solving-times.md) [~W]
 - [Restudy of worked examples invested much less mental effort than testing after four examples, but this difference was not replicated with vocational students](../claims/restudy-effort-lower-after-four-examples.md) [~W]
+- [Worked examples benefit learning even compared to tutored problem solving with on-demand guidance, indicating the effect is not an artefact of weak control conditions](../claims/worked-examples-beat-tutored-problem-solving.md) [+W]
 
 ## Key Sources
 

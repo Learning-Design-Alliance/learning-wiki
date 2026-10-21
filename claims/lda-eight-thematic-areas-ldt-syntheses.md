@@ -53,3 +53,4 @@ An LDA analysis of titles and abstracts from the 242 catalogued syntheses "revea
 - [BERTopic analysis of 1,048 AIOL publications identifies research themes including adaptive learning systems, sentiment analysis, and predictive analytics](bertopic-aiol-major-research-themes.md) — related
 - [Language learning was the most common subject domain for AIEd in higher education, at 17%](language-learning-top-subject-domain-ai-ed-he.md) — related
 - [GenAI education discourse on Reddit spans 17 themes across 5 clusters, with Academic Integrity the largest at 37.1% of records](genai-education-reddit-17-theme-taxonomy.md) — related
+- [Topic modeling reveals 20 topics in six communities, with special education and collaborative knowledge construction thematically isolated](twenty-topics-six-communities-isolated-clusters.md) — related

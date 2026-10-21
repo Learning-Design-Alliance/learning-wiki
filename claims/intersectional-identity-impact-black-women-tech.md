@@ -58,3 +58,4 @@ Qualitative thematic analysis of participant responses on identity. Participants
 - [Disciplinary authenticity in computing education, as conceived in the Learning Sciences, is predicated on the erasure of endarkened people in computing](disciplinary-authenticity-computing-erasure-endarkened-people.md) — a broader claim this one bears on
 - [A regional collective initiative (Teaching is My Favorite Color) provided teachers of color a safe space, belonging, and authentic identity expression](teaching-is-my-favorite-color-belonging-impact.md) — related
 - [Intersectional brilliance stereotypes show mixed patterns, supporting both intersectional invisibility and double jeopardy accounts](intersectional-brilliance-stereotypes-mixed.md) — related
+- [Shallow multiculturalism undermines Latinx students' belonging by reinforcing intersectional invisibility](shallow-multiculturalism-undermines-latinx-belonging.md) — related

@@ -45,3 +45,5 @@ Theoretical argument in the introduction, attributed to de Bruin et al. (2020), 
 ## Related Claims
 - [Emotions may act as extraneous cognitive load by competing for limited working memory resources with task-irrelevant processing](emotion-as-extraneous-cognitive-load.md) — a broader claim this one bears on
 - [Metacognitive monitoring declines under high working memory load, suggesting functional dependence of MC on WM](monitoring-declines-under-high-wm-load.md) — related
+- [Cognitive learning strategy training yields preliminary evidence of far metacognitive transfer to effort regulation (Wirth et al., 2025)](far-metacognitive-transfer-effort-regulation.md) — related
+- [Task difficulty shows an inverted U-shaped relation with cognitive strategy use and a positive linear relation with metacognitive strategy use, mediated by cognitive load (Seufert et al., 2024)](task-difficulty-inverted-u-strategy-use.md) — related

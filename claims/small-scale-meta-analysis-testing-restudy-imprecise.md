@@ -48,3 +48,4 @@ Small-scale random-effects meta-analysis of the study's eight delayed final test
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](testing-effect-robust-versus-restudy-control.md) — a broader claim this one bears on
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [No testing effect was found for acquiring problem-solving skills through worked example study across eight experiments](testing-effect-absent-worked-example-study.md) — related
+- [Retrieval practice yields better delayed test performance than restudy (the testing effect) in both experiments](testing-effect-confirmed-anatomical-image-name-pairs.md) — related

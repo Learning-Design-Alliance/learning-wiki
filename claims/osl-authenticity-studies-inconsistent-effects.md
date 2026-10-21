@@ -45,3 +45,4 @@ Narrative review of eight OSL studies tabulated in Table 1: the review reports "
 ## Related Claims
 - [Students' perceived authenticity of the learning activity correlated with their situational interest but not with their knowledge acquisition](perceived-authenticity-correlates-interest-not-knowledge.md) — a narrower finding that bears on this claim
 - [Students' individual interest in social sciences correlated with their situational interest during the OSL visit (catch r = .27; hold r = .26)](individual-interest-correlates-situational-interest-osl.md) — related
+- [The review describes effects of authentically designed settings on motivational outcomes and learners' perceived authenticity alongside cognitive outcomes](motivational-and-perceived-authenticity-outcomes-reviewed.md) — related

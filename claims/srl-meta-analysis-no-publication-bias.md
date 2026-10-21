@@ -70,3 +70,5 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - [No publication bias is detected in the collected Covid-19 achievement estimates](covid-meta-analysis-no-publication-bias.md) — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
 - [Publication bias is indicated for the performance-approach and performance-avoidance anxiety effects but not for the depression effects](publication-bias-performance-goal-anxiety-effects.md) — related
+- [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — possibly the same claim (merge candidate)
+- [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](publication-bias-overall-dt.md) — related

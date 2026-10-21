@@ -49,3 +49,4 @@ The review reports this survey of undergraduate health science students' self-re
 - [Nursing academics hold divergent attitudes toward GenAI, from scepticism to pragmatic acceptance, and worry it may replace rather than support student learning](divergent-academic-attitudes-genai-nursing.md) — related
 - [Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment](genai-scaffolded-augments-human-judgment-design-thinking.md) — a broader claim this one bears on
 - [Experimental-group students framed AI as a flexible writing scaffold supporting their own composing rather than a substitute for authorship](ai-scaffold-authorship-retained-theme1.md) — a broader claim this one bears on
+- [Educational HRV research is concentrated on stress and on undergraduate, largely health-science, participants](hrv-research-concentrated-stress-undergraduates.md)

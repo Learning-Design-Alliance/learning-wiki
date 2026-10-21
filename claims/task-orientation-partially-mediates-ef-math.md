@@ -54,3 +54,4 @@ Longitudinal mediation analysis in the study of 467 preschoolers found that grow
 - [Mindsets relate to kindergarteners' achievement indirectly through executive functions and classroom behavioral self-regulation as mediators](mindsets-achievement-indirect-via-self-regulation.md) — related
 - [Gesture mediated collaborative learning in an AR-headset astronomy task, including exploration, orientation, sharing and synthesizing AR perspectives, and sharing symbolic conception](gesture-mediated-collaboration-ar-headsets-astronomy.md) — related
 - [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](motivation-indirect-effect-mediated-by-ef-and-numeracy.md)
+- [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — related

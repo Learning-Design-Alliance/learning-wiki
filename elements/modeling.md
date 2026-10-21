@@ -13,7 +13,7 @@ generated:
 # Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (8 for, 6 mixed) · 12 studies (6 causal, 4 review, 1 associational, 1 theoretical), `q1`–`q3` · 2 of 12 report an effect size · 11 claims rest on one study
+> **Evidence** · 15 claims (8 for, 7 mixed) · 13 studies (7 causal, 4 review, 1 associational, 1 theoretical), `q1`–`q3` · 3 of 13 report an effect size · 12 claims rest on one study
 
 ## Description
 Modeling is the instructional element in which an instructor, expert, or advanced peer demonstrates expert thinking and behavior — making both the actions and the reasoning behind them visible. It functions as the observational entry point to skill acquisition: learners study a competent performance, including its decision points and self-monitoring, before producing their own attempts.
@@ -64,6 +64,7 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 - [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](../claims/cognitive-modeling-versus-didactic-instruction-division.md) [+W]
 - [Peer models raised self-efficacy and skill better than teacher models, but model-competence findings conflict across studies](../claims/peer-model-similarity-effects-mixed-evidence.md) [~W]
 - [Self-modeling raised self-efficacy for learning, motivation, and posttest skill among below-grade-level children](../claims/self-modeling-raises-efficacy-and-skill.md) [+W]
+- [Video modeling examples improve hypothesis quality but not argumentation quality in a transfer task](../claims/video-modeling-transfer-hypothesis-not-argumentation.md) [~W]
 
 ## The evidence by question
 - *Should modelling come before the learner's first attempts?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
@@ -92,6 +93,7 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 
 **[National Writing Project](https://www.nwp.org)** — Teachers write alongside students, modeling drafting and revision decisions in real time rather than only presenting finished texts.
 - [Train self-assessment and task-selection with video modeling examples before a self-regulated learning phase](../strategies/video-modeling-examples-train-self-assessment-task-selection.md)
+- [Select and train motivational mentors who regulate their own motivation and use autonomy-supportive behaviors](../strategies/select-train-autonomy-supportive-motivational-mentors.md)
 
 ## Key Sources
 - Bandura, A. (1977). Social learning theory. *Englewood Cliffs, NJ: Prentice Hall.*

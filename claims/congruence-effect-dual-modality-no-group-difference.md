@@ -67,3 +67,4 @@ Bialystok Ellen. (2011). Coordination of Executive Functions in Monolingual and 
 - [Monolingual and bilingual children perform comparably on single-modality classification tasks in accuracy and speed](no-group-difference-single-modality-classification.md) — related
 - [Bilingual children show no reaction time cost for their dual-task accuracy advantage](no-rt-cost-bilingual-dual-task-advantage.md) — related
 - [Children are more accurate and faster on NonStroop than Stroop trials of the Pet Store Stroop task](nonstroop-more-accurate-faster-than-stroop.md) — related
+- [Children showed match advantages in both the sentence-picture verification task and the sentence-sensibility judgment task, replicating prior embodied-comprehension findings](match-advantages-replicated-spvt-ssjt.md) — related

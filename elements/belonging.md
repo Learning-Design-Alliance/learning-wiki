@@ -18,7 +18,7 @@ sources:
 # Belonging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (22 for, 11 mixed, 2 against) · 26 studies (7 review, 5 qualitative, 5 theoretical, 3 causal, 3 associational, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 26 report an effect size · 32 claims rest on one study
+> **Evidence** · 37 claims (23 for, 12 mixed, 2 against) · 27 studies (8 review, 5 qualitative, 5 theoretical, 3 causal, 3 associational, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 27 report an effect size · 34 claims rest on one study
 
 ## Description
 Belonging is a learner's subjective sense of being a valued member of a learning community — accepted by peers and instructors, and confident that they fit there. It is not an activity but a psychological state that instructional designs can foster or undermine. Because belonging shapes persistence, engagement, and interpretation of difficulty, it functions as a motivational foundation on which other elements depend.
@@ -94,6 +94,8 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 - [Belonging is multi-faceted and context-dependent, with different expressions (group membership, momentary feeling, durable sense) often conflated in research](../claims/belonging-multifaceted-context-dependent.md) [~W]
 - [Belonging-related theories are underutilized in educational practice, partly because translating theoretical concepts into implementable strategies is difficult](../claims/belonging-theory-practice-gap.md) [~W]
 - [Prosocial behavior is associated with peer acceptance and aggression with rejection, though aggression can be accepted in some classrooms](../claims/behavior-acceptance-rejection-associations.md) [~W]
+- [Shallow multiculturalism undermines Latinx students' belonging by reinforcing intersectional invisibility](../claims/shallow-multiculturalism-undermines-latinx-belonging.md) [+W] — attached 2026-10-21 from Rebecca Covarrubias (2024), which proposed "Counterspaces with three processes for sustaining marginalized students' belonging".
+- [Exceptionalism as a script of acceptance carries psychological costs for marginalized high-achieving students](../claims/exceptionalism-script-psychological-costs.md) [~W]
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

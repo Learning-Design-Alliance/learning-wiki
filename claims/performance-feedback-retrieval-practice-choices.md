@@ -44,3 +44,4 @@ The review reports this task-level intervention study by Hui and colleagues (202
 
 ## Related Claims
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
+- [Only individual performance feedback, not general instruction about the testing effect, produced long-term increases in retrieval practice use, and only for students who benefited from retrieval practice](individual-feedback-superior-to-general-instruction-long-term.md) — possibly the same claim (merge candidate)

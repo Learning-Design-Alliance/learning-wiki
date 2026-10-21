@@ -52,3 +52,4 @@ Theoretical argument in the review's framing section, citing Fine (1991) and Juv
 - [Educational opportunity and achievement gaps impose large societal costs, including an estimated $156 billion loss in tax revenues and income per yearly cohort of nongraduates](achievement-gap-societal-costs.md) — related
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — related
 - [A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning](sob-linked-attainment-satisfaction-attrition.md) — related
+- [Exceptionalism as a script of acceptance carries psychological costs for marginalized high-achieving students](exceptionalism-script-psychological-costs.md) — a narrower finding that bears on this claim

@@ -56,3 +56,4 @@ Longitudinal SEM study of 175 children assessed at age 5 on six EF measures and 
 - [Executive skills, but not nonverbal IQ, at age 3–4 predict preschool counting and number knowledge](executive-skills-not-nonverbal-iq-predict-number-skills.md) — related
 - [Executive functions and working memory correlate moderately to strongly with mathematics achievement (r = .28 to .40), from preschool through elementary school](executive-functions-and-working-memory-correlate-with-math-achievement.md) — a broader claim this one bears on
 - [Executive functioning and early numeracy skills assessed in kindergarten directly predict mathematical performance in second grade, jointly explaining 57.3% of its variance](ef-and-early-numeracy-directly-predict-grade-2-math.md) — related
+- [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — a broader claim this one bears on

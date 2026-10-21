@@ -48,3 +48,4 @@ Manipulation check in Experiment 1 (N = 190): "participants learning poisonous a
 ## Related Claims
 - [In Experiment 1, metacognitive preference for interleaving showed main effects of utility value and differences-matter instruction without an interaction](metacognitive-preference-main-effects-exp1.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
+- [Combining utility value of distinguishing with conditional knowledge fosters interleaving of confusable categories (Abel et al., 2024)](utility-value-conditional-knowledge-foster-interleaving.md) — related

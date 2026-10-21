@@ -122,3 +122,4 @@ The one meta-analysis recorded above (Carbonneau et al., 2013) supports a small-
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — a broader claim this one bears on
 - [Four sequences of macro, micro, and symbolic chemistry representations produced no statistically significant differences in students' learning performance](chemistry-representation-sequences-no-significant-differences.md) — related
 - [Concreteness fading may not be as broadly generalizable across mathematics and natural science domains as has been suggested](concreteness-fading-limited-domain-generalizability.md) — related
+- [Transfer-outcome format can favor symbolic controls over manipulative conditions (transfer-appropriate processing), potentially explaining inconsistent transfer findings](transfer-appropriate-processing-manipulatives-inconsistent-transfer.md) — related

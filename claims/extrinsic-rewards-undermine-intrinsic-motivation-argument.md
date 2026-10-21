@@ -60,3 +60,5 @@ The essay's 'Learning Motivation' section reports, citing Deci, Koestner & Ryan 
 - [Play is characterized by four dispositions: involvement, intrinsic motivation, pleasure, and freedom to modify rules](four-play-dispositions-rubin.md) — related
 - [Rewards cause people to lose interest in whatever they were rewarded for doing, undermining intrinsic motivation](rewards-undermine-intrinsic-interest.md) — related
 - [Extrinsic motivation to please teachers is positively related to intrinsic motivation among Asian American students but negatively among Caucasian students](extrinsic-intrinsic-positive-link-asian-american.md) — related
+- [External rewards can undermine intrinsic motivation for learners who are already motivated](external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) — related
+- [Most of the 45 reviewed studies report positive gamification effects on motivation and engagement in mathematics; only four report negative effects](gamification-mathematics-mostly-positive-four-negative.md) — related

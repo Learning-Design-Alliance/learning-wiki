@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 77 claims (37 for, 34 mixed, 6 against) · 78 studies (26 review, 20 causal, 9 theoretical, 8 qualitative, 5 quant-synthesis, 5 associational, 5 design), `q1`–`q4` · 7 of 78 report an effect size · 72 claims rest on one study
+> **Evidence** · 78 claims (38 for, 34 mixed, 6 against) · 79 studies (26 review, 21 causal, 9 theoretical, 8 qualitative, 5 quant-synthesis, 5 associational, 5 design), `q1`–`q4` · 7 of 79 report an effect size · 73 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [Different learner contexts supplied to an AI tutor produce qualitatively different, persona-aligned explanations of the same problem](../claims/learner-context-personalizes-ai-tutor-explanations.md) [+W] — a demonstration with two invented personas; shows the output varied with the learner description, not that the variation helped anyone. It frames explanations by a learner's verbal against mathematical proficiency, a reading of skill on the task, not a learning style.
 - [Policy in reviewed systems is commonly expressed as a set of assistance boundaries, concentrated on response constraints, scaffolding, and personalization](../claims/policy-multilabel-concentrated-constraints-scaffolding-personalization.md) [~W] — a scoping review of 90 programming-support systems, counting how often personalization appears among their rules. What systems do, not whether it works; does not bear on the relationship.
 - [Verbosity preference is associated with systematic variation in LLM response length](../claims/verbosity-preference-response-length.md) [+W] — an AI teaching assistant's answers grew longer or shorter with a learner's stated preference across 2,910 generated responses; shows the setting took effect, not that learners learned more. Bears at most on the AI row's suggestion that learners set how the tool behaves.
+- [Personalized refutation text significantly predicts stronger conceptual change among teachers who held both math-gender misconceptions at pre-test](../claims/personalized-refutation-text-conceptual-change-misconception-holders.md) [+W] — attached 2026-10-21 from Anna-Sophia Dersch · Ian Thacker · Alexander Eitel (2026), which proposed "Adapt personalized (refutation) interventions to individuals' prior knowledge and misconceptions"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

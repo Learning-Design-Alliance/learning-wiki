@@ -47,3 +47,4 @@ In the design and training section of the training study, the authors report a m
 - [Hybrid training improves fifth-graders' application of metacognitive skills in near-transfer tasks compared to non-hybrid and control training](hybrid-training-improves-near-transfer-metacognitive-skills.md)
 - [Hybrid training fosters far transfer of metacognitive skills to a new cognitive strategy, though one hybrid condition did not beat control](hybrid-training-fosters-far-transfer-metacognitive-skills.md)
 - [Cognitive strategy application in a far-transfer task after hybrid training depends on the specific strategy: text highlighting transferred, conducting experiments did not versus non-hybrid training](far-transfer-cognitive-strategy-application-strategy-dependent.md) — related
+- [Cognitive learning strategy training yields preliminary evidence of far metacognitive transfer to effort regulation (Wirth et al., 2025)](far-metacognitive-transfer-effort-regulation.md) — related

@@ -68,3 +68,4 @@ The review attributes this full-mediation finding to the same study, noting the 
 - [Perceived learning is higher for blocked than interleaved practice at onset but increases over time for interleaved practice only](perceived-learning-increases-over-time-interleaved.md) — possibly the same claim (merge candidate)
 - [Strategy efficacy beliefs shift toward the strategy a student chooses: choosers of blocked practice raised blocked beliefs and lowered interleaved beliefs, and vice versa](strategy-beliefs-shift-toward-chosen-strategy.md) — related
 - [Qualitative findings: students initially held inaccurate beliefs about strategy efficacy, and high effort from interleaved practice was misinterpreted as a sign of poor learning](effort-misinterpreted-as-poor-learning.md) — related
+- [Learners associate higher effort with less effective study strategies, indicating negative connotations of effort](learners-associate-effort-with-ineffective-strategies.md) — related

@@ -67,3 +67,4 @@ Experiment 2b online replication with monetary incentives; the same ANOVA on sub
 - [Help seeking is guided by a wider variety of considerations beyond improving immediate answer accuracy than withholding answers is](help-seeking-multiple-considerations-beyond-accuracy.md) — a broader claim this one bears on
 - [The association between confidence and help seeking is weaker than the association between confidence and withholding answers](weaker-confidence-help-seeking-than-withholding.md) — related
 - [The overlap in confidence ranges between submitted answers and strategy use is larger for help seeking than for withholding answers](larger-confidence-overlap-help-seeking.md) — related
+- [Allowing opt-out options improves output-bound accuracy in adults, primary-school children, and preschoolers](opting-out-improves-output-bound-accuracy.md) — a broader claim this one bears on

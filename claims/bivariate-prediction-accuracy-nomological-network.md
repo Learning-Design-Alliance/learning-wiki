@@ -47,3 +47,4 @@ Descriptive Pred-vs-Obs summary (Table 3) of bivariate associations between the 
 - [Three-facet MTMM (content × valence × time) supports the SDT 3×2 architecture, with content the stronger separative force and 20 of 21 planned comparisons supported](three-facet-mtmm-content-valence.md) — related
 - [Classic two-facet MTMM analysis supports convergent and discriminant validity of the six BPNSFS facets across time](mtmm-two-facet-bpnsfs-validity.md) — related
 - [Autonomy shows a strong content signal: 53 of 64 outcomes satisfy the a priori autonomy rule, with exceptions for self-efficacy (competence) and collegial support (relatedness)](autonomy-content-signal-c2.md) — a narrower finding that bears on this claim
+- [Consistent with the dual process model, autonomy-outcome correlations are stronger when the valence of need experience and outcome match](dual-process-matched-valence-stronger-k12.md) — a narrower finding that bears on this claim

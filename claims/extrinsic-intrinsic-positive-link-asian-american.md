@@ -48,3 +48,4 @@ The review reports, citing Lepper et al. (2005), a study in which extrinsic moti
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
 - [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](extrinsic-rewards-deplete-intrinsic-motivation.md) — related
 - [Other-made choices produce similar or better motivation and performance than self-made choices for East Asian youth, contrary to Western choice findings](other-made-choices-beneficial-east-asian-youth.md) — related
+- [External rewards can undermine intrinsic motivation for learners who are already motivated](external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) — related

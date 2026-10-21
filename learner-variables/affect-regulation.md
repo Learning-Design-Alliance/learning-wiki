@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 149 claims (103 show a difference, 30 mixed, 16 no difference) · 101 studies (36 associational, 20 causal, 18 review, 9 qualitative, 8 quant-synthesis, 6 theoretical, 4 design), `q1`–`q4` · 27 of 101 report an effect size · 143 claims rest on one study
+> **Evidence** · 150 claims (104 show a difference, 30 mixed, 16 no difference) · 102 studies (36 associational, 20 causal, 19 review, 9 qualitative, 8 quant-synthesis, 6 theoretical, 4 design), `q1`–`q4` · 27 of 102 report an effect size · 144 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -189,6 +189,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Children's self-regulation and intrapersonal skills such as emotional control, adaptability and optimism are linked to more successful transitions, and negative pre-transfer expectations tend to be self-fulfilling](../claims/intrapersonal-skills-linked-transition-success.md) [+W] — learners who differ on it differ in outcomes
 - [Outdoor learning in nature reduces student stress (cortisol decline), but stress-restoration findings are mixed by measure and age](../claims/outdoor-learning-reduces-student-stress-cortisol.md) [~M] — instruction changes it
 - [Emotion regulation difficulties are positively associated with overall academic burnout in youth (pooled r = 0.25)](../claims/er-difficulties-positive-overall-burnout.md) [+M] — learners who differ on it differ in outcomes
+- [Trait test anxiety predicts performance-based goals, and state worry and emotionality mediate performance-avoidance goal effects on exam performance](../claims/test-anxiety-goal-complex-mediation.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

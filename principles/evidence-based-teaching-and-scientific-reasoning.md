@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (17 for, 11 mixed, 2 against) · 29 studies (8 review, 6 causal, 6 associational, 5 theoretical, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 29 report an effect size · 28 claims rest on one study
+> **Evidence** · 31 claims (18 for, 11 mixed, 2 against) · 30 studies (8 review, 6 causal, 6 associational, 6 theoretical, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 30 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,7 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - [Program-based studies cannot isolate the effect of inquiry-based instruction because they vary many program elements simultaneously](../claims/program-based-studies-cannot-isolate-inquiry-effect.md) [+W] — attached 2026-10-21 from Lin Zhang et al. (2022), which proposed "Educational standards should represent a balanced view of all available research categories rather than relying on one methodology".
 - [Differential attrition may explain the reported reduction in achievement gaps under daily online testing](../claims/differential-attrition-may-explain-gap-reduction.md) [+W] — attached 2026-10-21 from Robinson (2021), which proposed "Vet widely cited educational claims for internal-validity threats before acting on them, and expose unsupported extravagant claims".
 - [Heterogeneity in teacher program effects was high for stress, psychological distress, and burnout in RCTs, and methodological quality was generally poor across both trial types](../claims/teacher-programs-heterogeneity-risk-of-bias.md) [+W] — attached 2026-10-21 from Joanne R. Beames et al. (2023), which proposed "Design future teacher mental health program research with methodologically rigorous designs, co-design with teachers, and attention to implementation factors".
+- [Nonexperimental designs, including natural experiments and structural equation modeling, can inform cause-effect relationships to a degree that depends on study design and analysis](../claims/nonexperimental-designs-inform-causal-effects.md) [+W] — attached 2026-10-21 from Grosz (2023), which proposed "Researchers should discuss practical implications in their articles regardless of design, while transparently communicating limitations and assumptions".
 
 ## Objective and learner-valued goal
 

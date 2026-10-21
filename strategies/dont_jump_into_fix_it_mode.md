@@ -58,9 +58,11 @@ Premature solutions undermine the autonomy that fuels intrinsic motivation; supp
 5. **Follow up.** Check in later on how the chosen approach went ([Check-Ins](../principles/check-ins.md)), reinforcing that the student's judgment is taken seriously.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the core skill that makes the pause before fixing possible
 - [Actively Listen to What Students Say](../strategies/actively_listen_to_what_students_say.md) — classroom variant of the same listening discipline
 - [Action Planning](../strategies/action_planning.md) — the structured follow-on once a student has chosen a course of action
+- [Select and train motivational mentors who regulate their own motivation and use autonomy-supportive behaviors](select-train-autonomy-supportive-motivational-mentors.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the facilitative stance that replaces directive problem-solving

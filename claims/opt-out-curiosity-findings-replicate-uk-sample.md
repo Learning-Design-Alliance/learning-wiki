@@ -49,3 +49,6 @@ Experiment 3A (final N = 40 UK adults recruited via Prolific; Gorilla platform; 
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md)
 - [Exposure to others' discrepant curiosity ratings reduces the curiosity gap between opted-out and non-opted-out trials and between incorrect and correct trials, altering metacognitive control](others-curiosity-discrepancy-alters-metacognitive-control.md) — related
 - [Participants' feedback-skipping decisions diverge from the optimal computer algorithm: they skip after some incorrect responses and fail to skip after many correct responses](skipping-decisions-diverge-from-computer.md) — related
+- [Heuristic cues — response time, familiarity, problem complexity, and context reinstating — guide opting-out decisions](heuristic-cues-guide-opting-out.md) — related
+- [Opting out can improve thinking efficiency by cutting wasted effort on doomed attempts](opting-out-improves-thinking-efficiency.md) — related
+- [People underuse opt-out options, and explicit presentation substantially increases their use](opting-out-underuse-explicit-presentation-increases-use.md) — related

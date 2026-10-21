@@ -22,7 +22,7 @@ sources:
 # Cognitive Disequilibrium
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (14 for, 12 mixed, 2 against) · 29 studies (12 causal, 5 quant-synthesis, 4 review, 3 theoretical, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 8 of 29 report an effect size · 23 claims rest on one study
+> **Evidence** · 29 claims (15 for, 12 mixed, 2 against) · 30 studies (12 causal, 5 quant-synthesis, 5 review, 3 theoretical, 2 qualitative, 2 design, 1 associational), `q1`–`q4` · 8 of 30 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,6 +114,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [The interaction of interventions with age and curricular undertaking is not significant at the .05 level](../claims/intervention-age-curriculum-interaction-not-significant.md) [~W]
 - [Students' teleologic explanations and anthropomorphic languages correlate with age and are associated with curricular undertaking](../claims/teleologic-anthropomorphic-language-related-to-age-and-curriculum.md) [+W]
 - [Anthropomorphic explanations appear in older children but less frequently, with only a minority of 14-year-olds' fuse explanations anthropomorphic](../claims/anthropomorphic-explanations-lessen-with-age.md) [+W]
+- [Backward curiosity may be an optimal starting point for promoting student learning](../claims/backward-curiosity-promotes-learning.md) [+W] — attached 2026-10-21 from Shin et al. (2019), which proposed "Design learning environments around an optimal knowledge gap, valued information, and curiosity-reinforcing feedback"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

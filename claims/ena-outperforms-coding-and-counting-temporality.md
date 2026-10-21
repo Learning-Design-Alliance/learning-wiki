@@ -59,3 +59,4 @@ The editorial reports that Csanadi et al. analyzed one dataset with both epistem
 - [Trace data can capture the temporal progress of regulation as learners engage in learning tasks over time](trace-data-capture-temporal-regulation.md) — related
 - Documented CSCL empirical corpus 2005–2009 relies mostly on questionnaires and code-and-count, not post-cognitive group-process approaches — related
 - [A temporal extraction rule classified the GENERAL INSTRUCTION -> PLANNER action pattern as Planning in the first 15 minutes but as Monitoring in the last 30 minutes](temporal-rule-planning-monitoring-distinction.md) — related
+- [ENA contrasting-cases analysis shows high- and low-effectiveness studies differ significantly in their design-element and intention networks](ena-contrasting-cases-cognitive-he-le-differ.md) — related

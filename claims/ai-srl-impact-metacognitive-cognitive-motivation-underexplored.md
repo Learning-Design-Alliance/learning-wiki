@@ -59,3 +59,5 @@ The review categorized direct impacts of AI on SRL into cognition, metacognition
 - [Learners perceive AI applications as useful for regulating their learning but not for regulating motivation](ai-supports-srl-not-motivation-regulation.md) — related
 - [Teacher-AI co-design research is concentrated in teacher education and higher education, while secondary and primary education settings remain relatively underdeveloped](k12-underrepresented-teacher-ai-codesign-research.md) — related
 - Affective and motivational SRL processes received little to no attention in mind-wandering research, and few studies used integrated multimodal-plus-SRL analytic approaches — related
+- [Among 50 reviewed studies, 42 examined cognitive effects, with most showing large effects (d ≥ 0.8) but seven showing no or negative effects](cognitive-effects-distribution-42-studies.md) — related
+- [SRL interventions for pre-service teachers unevenly cover SRL areas: cognition (n = 62) and metacognition (n = 55) dominate, while emotion (8 interventions) and context regulation (n = 6) are rare](uneven-srl-area-coverage-pst-interventions.md) — related

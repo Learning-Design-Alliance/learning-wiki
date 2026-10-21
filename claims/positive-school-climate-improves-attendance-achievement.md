@@ -74,3 +74,4 @@ A cited pathway study reported in the review found "the strongest linkage to be 
 - [Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment](effective-principals-positive-student-outcomes.md) — related
 - [Principal turnover often has negative effects on student achievement, teacher retention, and school culture unless a much more effective principal replaces the prior one](principal-turnover-negative-effects.md) — related
 - [Among school-level factors, only principal leadership and school culture correlate positively with CMSE](cmse-school-level-correlates.md) — related
+- [Study resources buffer the negative impact of study demands on student psychological well-being](study-resources-buffer-demand-impact.md) — related

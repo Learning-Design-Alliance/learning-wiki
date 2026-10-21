@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 30 claims (18 show a difference, 9 mixed, 3 no difference) · 18 studies (8 associational, 5 review, 3 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 4 of 18 report an effect size · 28 claims rest on one study
+> **Evidence** · 31 claims (19 show a difference, 9 mixed, 3 no difference) · 19 studies (8 associational, 5 review, 3 causal, 2 theoretical, 1 quant-synthesis), `q2`–`q4` · 4 of 19 report an effect size · 29 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -61,6 +61,7 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Mastery orientation relates to classroom behavioral self-regulation only indirectly via executive functions, while trait beliefs relate mainly directly](../claims/sem-differential-paths-mindsets-cbsr.md) [+M] — learners who differ on it differ in outcomes
 - [Mindsets relate to kindergarteners' achievement indirectly through executive functions and classroom behavioral self-regulation as mediators](../claims/mindsets-achievement-indirect-via-self-regulation.md) [+M] — learners who differ on it differ in outcomes
 - [The review reports that college tutors who espoused a malleable view of intelligence to their tutees improved their own academic performance, with benefits for tutees as well](../claims/tutor-espousing-malleable-intelligence-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Implicit theories of ability predict achievement goals, with performance goals mediating or suppressing entity theory effects on math performance](../claims/implicit-theories-predict-achievement-goals-math.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

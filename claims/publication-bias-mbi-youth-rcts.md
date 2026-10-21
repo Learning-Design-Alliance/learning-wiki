@@ -55,3 +55,4 @@ Begg's funnel plots and Egger's regressions conducted for each meta-analysis. Th
 - [No publication bias is detected in the collected Covid-19 achievement estimates](covid-meta-analysis-no-publication-bias.md) — related
 - [Publication bias is indicated for the performance-approach and performance-avoidance anxiety effects but not for the depression effects](publication-bias-performance-goal-anxiety-effects.md) — related
 - [Funnel-plot asymmetry indicates small-study effects for some emotion–learning models](funnel-plot-asymmetry-emotion-learning-models.md) — related
+- [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](publication-bias-overall-dt.md) — related

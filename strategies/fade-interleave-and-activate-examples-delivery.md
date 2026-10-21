@@ -17,7 +17,7 @@ sources:
 # Deliver examples with fading (completion strategy) and random (interleaved) sequencing, and promote active processing via self-explanation, subgoal labeling, and comparison
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 3 studies (3 review), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The review's design and delivery recommendations: use completion problems with increasingly more learner-completed steps as a bridge from examples to problem solving, preferably backward fading; sequence problems randomly rather than blocked by type, which increases training load and lowers training performance but improves learning and transfer; foster active processing by prompting self-explanation, making subgoals explicit through labeling or visually isolating step sets, comparing different solution methods, and completing partially worked-out examples.

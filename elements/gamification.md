@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 8 studies (3 review, 2 quant-synthesis, 1 causal, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (3 for, 5 mixed, 1 against) · 9 studies (3 quant-synthesis, 3 review, 1 causal, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 9 report an effect size · 8 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -28,6 +28,11 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Evidence on gamification's effect on engagement in adaptive learning platforms is mixed, with claims of greatest impact alongside reports of minimal effect](../claims/gamification-engagement-mixed-evidence.md) [~W]
 - [In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest](../claims/optimal-challenge-sustains-gaming-engagement.md) [~W]
 - [Reward techniques show positive meta-analytic effects for gamification and personalization, but perceptual fluency did not directly affect learning outcomes](../claims/reward-techniques-meta-analytic-effects-mixed.md) [+W]
+- [Educational level, methodological quality, and competitiveness of design do not significantly moderate gamification's effect on mathematics motivation](../claims/gamification-mathematics-moderators-nonsignificant.md) [~W] — attached 2026-10-21 from Ratinho et al. (2026), which proposed "Table 4 mapping of gamification elements to learner motivational characteristics".
+- [Effects of gamification on mathematics motivation show substantial heterogeneity (I² = 80.74%), mostly within-study](../claims/gamification-mathematics-heterogeneity-substantial.md) [~W]
+- [Gamification produces a statistically significant small-to-moderate positive effect on motivation in secondary and higher education mathematics (g = .383)](../claims/gamification-motivation-mathematics-meta-effect.md) [+W]
+- [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](../claims/gamification-mathematics-robustness-publication-bias.md) [+W]
+- [Engagement in gamified mathematics is rarely measured with validated instruments, preventing its meta-analytic synthesis](../claims/engagement-measurement-gap-gamified-mathematics.md) [~W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

@@ -116,3 +116,4 @@ narrow claim may be better supported than a general "interleaving improves learn
 - [Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65](interleaving-memory-benefit-meta-analysis.md) — related
 - [Interleaved practice yields better category learning than blocked practice, and students who choose interleaved practice outperform those who choose blocked practice on novel materials](interleaving-effect-category-learning-paintings.md) — a broader claim this one bears on
 - [Even when motivated to distinguish and informed that differences matter, learners in Experiment 1 blocked 68% of their study sequence choices](blocking-persists-despite-motivation-and-instruction.md) — related
+- [Combining utility value of distinguishing with conditional knowledge fosters interleaving of confusable categories (Abel et al., 2024)](utility-value-conditional-knowledge-foster-interleaving.md) — related

@@ -73,3 +73,6 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - [No publication bias is detected in the collected Covid-19 achievement estimates](covid-meta-analysis-no-publication-bias.md) — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
 - [Publication bias is indicated for the performance-approach and performance-avoidance anxiety effects but not for the depression effects](publication-bias-performance-goal-anxiety-effects.md) — related
+- [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — possibly the same claim (merge candidate)
+- [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](gamification-mathematics-robustness-publication-bias.md) — related
+- [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](publication-bias-overall-dt.md) — related

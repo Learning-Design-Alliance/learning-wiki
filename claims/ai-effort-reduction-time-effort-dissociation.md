@@ -82,3 +82,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [Users alter expectations and behavior based on perceived AI capabilities even when actual AI performance is unchanged (the placebo effect of AI)](placebo-effect-of-ai-perceived-capabilities.md) — related
 - [No single control-timing paradigm dominates across subjective measures: eight of ten questionnaire items show no significant differences between paradigms](no-single-paradigm-dominates-subjective-ratings.md) — related
 - [Motivational interventions can lower perceived cognitive load and improve retention and transfer, indicating load perception is partly independent of task difficulty](motivation-intervention-lowers-perceived-load.md) — related
+- [Studies collecting both subjective and objective effort measures reveal dissociations between the two types of measures](dissociations-between-subjective-and-objective-effort-measures.md) — related

@@ -53,3 +53,4 @@ Publication-bias assessment of the meta-analytic sample using Egger's regression
 - [The bias-adjusted mean moderator effect in STEM education meta-analyses is g = 0.27 with substantial heterogeneity, and the published record shows overwhelming evidence of publication-bias-type selection](bias-adjusted-moderator-effect-stem.md) — reports the opposite
 - [No substantial evidence of publication bias or small-study effects in the screening validity meta-analysis](no-publication-bias-screening-validity.md) — possibly the same claim (merge candidate)
 - [Publication bias is indicated for the performance-approach and performance-avoidance anxiety effects but not for the depression effects](publication-bias-performance-goal-anxiety-effects.md) — related
+- [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](publication-bias-overall-dt.md) — related

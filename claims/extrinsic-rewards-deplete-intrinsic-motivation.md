@@ -56,3 +56,5 @@ The review reports, citing Deci et al. (1999), that "using extrinsic rewards dep
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
 - [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — a narrower finding that bears on this claim
 - [Extrinsic motivation to please teachers is positively related to intrinsic motivation among Asian American students but negatively among Caucasian students](extrinsic-intrinsic-positive-link-asian-american.md) — related
+- [External rewards can undermine intrinsic motivation for learners who are already motivated](external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) — possibly the same claim (merge candidate)
+- [Most of the 45 reviewed studies report positive gamification effects on motivation and engagement in mathematics; only four report negative effects](gamification-mathematics-mostly-positive-four-negative.md) — related

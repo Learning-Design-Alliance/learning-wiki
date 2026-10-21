@@ -72,7 +72,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (43 for, 10 mixed) · 49 studies (14 qualitative, 11 causal, 8 design, 6 review, 5 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 49 report an effect size · 47 claims rest on one study
+> **Evidence** · 54 claims (44 for, 10 mixed) · 50 studies (14 qualitative, 12 causal, 8 design, 6 review, 5 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q4` · 3 of 50 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -198,6 +198,7 @@ Read 2026-10-19 and moved into the model above: the gateway-mathematics, story-p
 - [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](../claims/m-thinkers-equiprobability-insensitivity-biases.md) [+W]
 - [A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task](../claims/o-star-star-law-of-large-numbers.md) [+W]
 - [Some outcome-oriented PSMTs (types o and o*) predict single-trial outcomes, and type o* thinkers conflate causality with conditionality](../claims/outcome-oriented-causal-conception.md) [+W]
+- [Framing formal logical problems in primary knowledge contexts makes learners more efficient, more motivated, more confident and lowers cognitive load compared with secondary knowledge framing](../claims/primary-knowledge-framing-efficiency-motivation.md) [+W] — attached 2026-10-21 from Florence Lespiau (2019), which proposed "Frame practice of formal reasoning in evolutionary-salient primary knowledge contexts to motivate learners"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

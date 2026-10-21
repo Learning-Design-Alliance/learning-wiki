@@ -52,3 +52,4 @@ The review reports, citing Baars, Wijnia, de Bruin, and Paas, a meta-analysis fi
 - [Training learners with an effort-and-performance algorithm via video modeling improved monitoring accuracy, task selection accuracy, and learning outcomes](effort-performance-algorithm-training-improves-task-selection.md) — related
 - [Task type moderates the correlation: problem-solving tasks show a stronger negative association than word/paired-associate tasks](problem-solving-tasks-stronger-negative-correlation.md) — related
 - [Effort ratings correlate negatively with judgments of learning (r = −0.355), but the correlation disappears under a goal-driven interpretation of effort](negative-effort-jol-correlation-meta-analysis.md) — related
+- [Perceived mental effort serves as a cue for monitoring judgments, which mediate the effort–outcome relation (David et al., 2024 meta-analysis)](david-2024-effort-cue-monitoring-meta-analysis.md) — possibly the same claim (merge candidate)

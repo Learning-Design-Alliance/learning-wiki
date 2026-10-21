@@ -63,3 +63,4 @@ The chapter reports studies where students restudied correct answers after multi
 - [Pretesting before instruction enhances learning of subsequently presented material even when pretest answers are wrong, with multiple-choice pretesting more effective than cued-recall pretesting](pretesting-enhances-learning-mc-beats-cued-recall.md) — related
 - [Immediate-feedback tutors allow learning from errors but deny learning from their downstream consequences](immediate-feedback-limits-downstream-error-learning.md) — related
 - [Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low](effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md) — related
+- [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](immediate-feedback-partial-resolution-increases-curiosity.md) — related

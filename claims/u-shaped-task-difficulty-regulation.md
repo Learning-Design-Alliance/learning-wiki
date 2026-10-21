@@ -69,3 +69,4 @@ Theoretical argument from Atkinson's (1957) theory as presented in the commentar
 - [Invested mental effort and perceived task difficulty are significantly positively correlated at all measurement points except MP2.5, with correlations increasing as material complexity rises](effort-difficulty-positively-correlated-except-mp25.md) — related
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
 - [Self-regulatory activities mediate the relationship between person, context, and achievement](srl-activities-mediate-person-context-achievement.md) — related
+- [Task difficulty shows an inverted U-shaped relation with cognitive strategy use and a positive linear relation with metacognitive strategy use, mediated by cognitive load (Seufert et al., 2024)](task-difficulty-inverted-u-strategy-use.md) — related

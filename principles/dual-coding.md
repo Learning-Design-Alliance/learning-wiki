@@ -27,7 +27,7 @@ sources:
 # Dual Coding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (13 for, 12 mixed, 6 against) · 41 studies (16 causal, 13 review, 9 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 41 report an effect size · 22 claims rest on one study
+> **Evidence** · 32 claims (14 for, 12 mixed, 6 against) · 42 studies (16 causal, 13 review, 10 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 42 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -122,7 +122,6 @@ Learners, tasks and outcomes differ across these claims (readers of a text, STEM
 - *Does support for learner drawing help?* [Drawing outperforms a read-only control on transfer](../claims/drawing-outperforms-control-transfer.md) [+M], with [drawing support raising perceived difficulty](../claims/drawing-support-increased-perceived-difficulty.md) [-M]: one study in the wiki, beside the meta-analysis in [drawing in STEM](../claims/drawing-improves-learning.md) [+M].
 
 ## Further evidence, not yet read against this model
-
 <!-- Re-read 2026-10-19 (wave 2): the 12 bullets the orphan-claim linker appended under "## Claims", and the unannotated "Interpretation support" bullet here, were read from their Evidence entries. 12 moved into the model (Mayer 2008, Park & Hannafin 1993, Wiley 2019, Jaeger & Fiorella 2024 three times, Ögren et al. 2017 twice, Schmidgall et al. 2020 twice, Van Meter & Garner 2005, and the self-explanation claim in step 3); the WestEd perceptions claim stays below. The "## Claims" section was removed once every link in it appeared elsewhere on the page. -->
 Claims the earlier page cited or that bear on this page but have not been used in the model above.
 
@@ -130,6 +129,7 @@ Claims the earlier page cited or that bear on this page but have not been used i
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — cited by the earlier page for the idea that a visual reduces the burden of inferring structure. It is about working-memory capacity and chunking, with no visual condition, so it does not test dual coding; its sources are reviews and one experiment, read from abstracts.
 - [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](../claims/media-combinations-affect-recall-and-retention.md) [+W] — one in-class conference experiment (n=37) reporting results in the direction dual coding theory predicts, with no effect size; no source text was available to check it.
 - [A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words](../claims/multimedia-principle-words-and-pictures-outcomes.md) [+W] — a practice-to-theory article reporting others' findings second-hand, no effect sizes; it belongs with [Multimedia Learning](multimedia-learning.md).
+- [Drawing support that facilitates integration significantly increases comprehension, while support not expected to facilitate integration does not](../claims/integration-facilitation-significant-moderator.md) [+W] — attached 2026-10-21 from Detlev Leutner · Johanna Biele (2025), which proposed "Design drawing support to facilitate integration of verbal and pictorial models, not merely to reduce load or increase generative activity".
 
 ## Objective and learner-valued goal
 

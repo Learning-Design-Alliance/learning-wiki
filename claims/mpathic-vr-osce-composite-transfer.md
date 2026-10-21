@@ -54,3 +54,4 @@ ANOVA on the global composite of four OSCE rating items (coefficient alpha = 0.8
 - [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant](osce-advantage-4cid-not-significant.md) — related
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — related
 - [Second-year medical students improve their intercultural and interprofessional communication performance between first and second run-throughs of MPathic-VR scenarios](mpathic-vr-repeat-runthrough-improvement.md) — related
+- [Experimental groups differed significantly on prior VR experience and gender composition, which were used as covariates](groups-differed-on-vr-experience-and-gender.md) — related

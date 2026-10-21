@@ -49,3 +49,4 @@ Consultation with 14 experienced online supervisors (from 23 invited across 16 P
 - Staff qualifications, ideology, and self-sufficiency were the major determinants of success in surveyed youth-serving institutions — related
 - [The reviewed corpus mostly targets introductory learners in short-term studies, with supervision level structurally tied to deployment context](corpus-introductory-short-term-supervision-environment-association.md) — related
 - Institutional and supervisor support are associated with adaptive motivation among final-year master's thesis students — related
+- [External feedback from supervisors, tutors, and peers supports students' completion and accuracy of self-assessment, with high achievers more likely to use tutor feedback](external-feedback-supports-self-assessment-implementation.md) — related

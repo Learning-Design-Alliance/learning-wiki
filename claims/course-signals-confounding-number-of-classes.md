@@ -77,3 +77,4 @@ The paper's review of the Course Signals deployment, piloted at Purdue in 2007, 
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](prior-cross-sectional-platform-usage-achievement-link.md) — related
 - [Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments](early-warning-agents-retention-gains.md) — reports the opposite
 - [General composing heuristics produced mixed results in studies of their effectiveness](general-heuristics-mixed-effectiveness-results.md) — related
+- [Causal inference always goes beyond the data, even in randomized experiments, because experimental manipulations may affect other variables that caused the effect](causal-inference-goes-beyond-data-even-in-experiments.md) — related

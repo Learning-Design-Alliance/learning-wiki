@@ -48,3 +48,4 @@ As reported in the article's abstract, Study 3 was a quasi-experimental evaluati
 - [Playful study design is measured as a two-dimensional construct of designing fun and designing competition, supported by exploratory and confirmatory factor analyses](psd-two-factor-structure.md) — related
 - [Exam grades correlate positively with designing competition and near-zero with designing fun in the Study 1 correlation table](designing-competition-exam-grades.md) — related
 - [Designing fun explains additional variance in peer interactions and popularity beyond core self-evaluations and PsyCap, whereas designing competition does not](designing-fun-social-integration.md) — related
+- [Playful study design fosters engagement, flow, and goal attainment, with strongest effects for students high in proactive personality](playful-study-design-engagement.md) — related

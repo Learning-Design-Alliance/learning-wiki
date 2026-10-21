@@ -59,3 +59,4 @@ RDSEM within-person trend models (Model 3) on 212 session surveys; standardised 
 - [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](competition-enjoyment-task-focused-evaluation.md) — reports the opposite
 - [Emotional variability in L2 learning episodes is primarily intraindividual (62–68%), with modest lag-1 inertia (r ≈ .17–.19) and weak long-term trends or weekly cycles](l2-emotion-variability-within-person-inertia-modest.md) — related
 - [Time-series forecasting with TabPFN-TS markedly improves prediction of next-episode emotions and perceived proficiency over a static model (e.g., anxiety R² 0.458→0.866; boredom 0.596→0.953)](tabpfn-ts-forecasting-l2-emotions-high-accuracy.md) — related
+- [Anxiety, enjoyment and boredom are three critical emotions in language learning that affect outcomes and engagement](anxiety-enjoyment-boredom-critical-sla-emotions.md) — related

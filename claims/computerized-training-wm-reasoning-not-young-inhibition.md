@@ -73,3 +73,4 @@ Narrative review reporting failed computerized inhibitory-control training in 4-
 - [EF training demands must keep increasing as children improve, or few gains will be seen](progressive-challenge-ef-training.md) — a broader claim this one bears on
 - [Task-switching training improves untrained switching and other executive functions in school-aged children, though transfer findings are heterogeneous](task-switching-training-transfer-ef.md) — related
 - [Inhibitory control is the EDF subdomain most repeatedly linked to ADHD](inhibitory-control-repeatedly-adhd-related.md) — related
+- [Isolated EF interventions show robust near-term EF gains but poor transfer, including to early mathematics](isolated-ef-interventions-poor-transfer.md) — related

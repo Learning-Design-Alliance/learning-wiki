@@ -52,3 +52,4 @@ Statistical comparison of projected ENA scores for 162 students split by median 
 - [General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service](ai-literacy-unrelated-to-ai-use-and-demographics.md) — related
 - [The Most Improved profile showed an integrated AI-support pattern with strong ENA connections among coaching, modeling, and reflection and frequent model uptake in group discussion](most-improved-profile-integrated-ai-support-pattern.md) — related
 - [Epistemic network analysis shows high-learning groups integrate re-annotations with knowledge-confirming discourse more densely than low-learning groups](ena-high-learning-dense-reannotation-discourse-networks.md) — related
+- [ENA contrasting-cases analysis shows high- and low-effectiveness studies differ significantly in their design-element and intention networks](ena-contrasting-cases-cognitive-he-le-differ.md) — related

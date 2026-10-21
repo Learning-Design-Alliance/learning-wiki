@@ -47,7 +47,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 86 claims (51 for, 34 mixed, 1 against) · 85 studies (24 review, 19 causal, 10 associational, 10 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 9 of 85 report an effect size · 72 claims rest on one study
+> **Evidence** · 88 claims (52 for, 35 mixed, 1 against) · 87 studies (25 review, 20 causal, 10 associational, 10 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 10 of 87 report an effect size · 74 claims rest on one study
 
 ## Conditional relationship
 
@@ -221,6 +221,8 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [A small a priori set of motivational constructs risks three failures in explaining situated motivated action](../claims/a-priori-construct-sets-risk-three-failures.md) [~W]
 - [College students' attributions of motivation problems to lack of value and interest strongly predict lower intention to take additional classes in the field](../claims/value-interest-attributions-predict-attrition-intention.md) [+W]
 - [Effort was consistently described as willful, motivation-dependent investment, whereas load was described as imposed and difficult to control](../claims/effort-willful-load-imposed.md) [~W]
+- [Individual feedback impacted perceived utility only to a limited extent, and general feedback lowered perceived utility of retrieval practice (Experiment 2)](../claims/perceived-utility-limited-impact-individual-feedback.md) [~W]
+- [Attribution reframing interventions improved outcomes for struggling students (review-reported)](../claims/attribution-reframing-improves-struggling-student-outcomes.md) [+W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

@@ -41,7 +41,8 @@ The authors recommend that educational games embed a stealth assessment of persi
 - [Stealth Assessment Persistence Time On Task](../research-methods/stealth-assessment.md)
 
 ## Related Strategies
-- 
+
+- [Embed adaptive, intentional EF challenge within age-appropriate mathematics activities rather than reducing EF demands](adaptive-ef-challenge-in-mathematics-activities.md)
 
 ## Examples
 -
