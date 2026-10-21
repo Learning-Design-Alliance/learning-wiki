@@ -76,7 +76,11 @@ UNPAYWALL_EMAIL = "david@learningdesignalliance.org"
 # A repository copy filed under an article's DOI can be the author's thesis of the same title
 # (Marcus 1996, "Understanding instructions": UNSWorks holds her 1998 PhD thesis).
 THESIS_RE = re.compile(r"thesis submitted|dissertation submitted|in (?:partial )?fulfil+ment of|"
-                       r"degree of (?:doctor|master)|doctor of philosophy", re.I)
+                       r"degree of (?:doctor|master)|doctor of philosophy|"
+                       # the same front matter in Spanish, Portuguese, French and German: Hattie &
+                       # Timperley (2007) fetched a Colombian master's thesis on 2026-10-21
+                       r"trabajo de (?:grado|tesis)|tesis (?:de|para) |t[ií]tulo de (?:mag[ií]ster|maestr|doctor)|"
+                       r"disserta[cç][aã]o|m[ée]moire de|masterarbeit|zur erlangung", re.I)
 
 SYSTEM = """\
 You are checking one evidence entry on a learning-science wiki page against the study it \
