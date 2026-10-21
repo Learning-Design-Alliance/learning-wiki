@@ -49,3 +49,4 @@ Post-hoc comparisons across academic-cognitive domains in the multilevel meta-re
 - [Fine motor skills show a significant moderate overall correlation (r = .329) with academic-cognitive skills in children and adolescents](fms-moderate-correlation-academic-cognitive.md) — related
 - [FMS subdomain correlations vary within academic domains: nonword reading strongest, letter reading weakest, intelligence strongest among cognitive skills](fms-subdomain-differentiated-links.md) — related
 - [Graphomotor skills show the strongest links of the FMS subdomains with academic-cognitive skills, significantly exceeding dexterity](graphomotor-strongest-fms-subdomain.md) — related
+- [FiMS relate more strongly than GMS to reading, writing, mathematics, general academics and cognition, but not to language; GMS show no significant link to general academic skills](fims-gms-domain-specific-associations.md) — related

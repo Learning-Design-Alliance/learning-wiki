@@ -49,3 +49,4 @@ Large-scale online questionnaire survey of 31,010 secondary vocational students 
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
 - [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related
 - [Interpersonal relationships are the most prominent student concern in qualitative interviews (30.61% of coded responses)](interpersonal-relationships-top-student-concern-30-61.md) — related
+- [Participants view mental health knowledge, help-seeking, and coping skills as vital content for school-based MHL programs](mhl-program-content-priorities.md) — related

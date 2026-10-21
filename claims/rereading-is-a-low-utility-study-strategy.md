@@ -102,3 +102,4 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — related
 - [Learners tend to feel restudying confers more learning than being tested even though the opposite is true, per the review](metacognitive-disconnect-restudy-vs-testing.md) — related
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related
+- [The advantage of recitation over rereading is greater the less connected the learning material (Kühn 1914; Gates 1917)](recitation-advantage-decreases-material-connectedness-gates-kuehn.md) — related

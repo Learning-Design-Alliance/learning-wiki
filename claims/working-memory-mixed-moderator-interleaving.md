@@ -53,3 +53,4 @@ Narrative synthesis of working memory span studies. Sana et al. (2017) found the
 - [Working memory capacity moderated disfluency effects in one study but not another](wmc-moderates-disfluency-mixed.md) — related
 - [Interleaving benefits low-skilled students more than high-skilled students when learning math problem categories](interleaving-benefit-low-skilled-students.md) — related
 - [Interleaved practice outperformed blocked practice across eight STEM classrooms](interleaving-beats-blocking-across-stem-classes.md) — related
+- [Only low-working-memory-capacity students benefited from making pointing gestures when explaining number equations (review attributes this to Marstaller & Burianová, 2013)](low-wmc-students-benefit-from-pointing-gestures.md) — related

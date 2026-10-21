@@ -45,6 +45,7 @@ The article recommends that research on pedagogical agents move beyond performan
 - [Design AI tutors for complementarity across role paradigms and move beyond static prompting toward dynamic learner modeling](design-for-complementarity-and-dynamic-learner-modeling.md)
 - [Pair convenient platform analytics with transparent, education-specific evaluation criteria rather than trusting either alone](pair-platform-analytics-with-transparent-criteria.md)
 - [Evaluate LLM-supported learning beyond binary access by measuring enacted interaction and preserving no-help assessments](evaluate-llm-learning-beyond-access.md)
+- [Expand research methodologies to monitor learning processes during multimedia instruction](expand-methodologies-monitor-multimedia-learning-processes.md)
 
 ## Examples
 -

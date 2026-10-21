@@ -54,3 +54,4 @@ The guide's summary of the two of six studies that taught reflective questioning
 - [After-school setting offered richer activity diversity, dialogue, and peer interaction than regular classrooms](after-school-richer-interaction-than-classroom.md) — related
 - [Alternative-strategy practices are most effective for improving procedural flexibility, with weaker evidence for conceptual and procedural knowledge](alternative-strategies-most-effective-for-procedural-flexibility.md) — related
 - [Studying solved problems improves algebra achievement compared to solving practice problems alone, though the evidence base is rated minimal and one study found negative effects](solved-problems-improve-algebra-achievement.md) — related
+- [No testing effect was found for acquiring problem-solving skills through worked example study across eight experiments](testing-effect-absent-worked-example-study.md) — related

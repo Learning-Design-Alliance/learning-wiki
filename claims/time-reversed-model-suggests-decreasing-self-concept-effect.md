@@ -49,3 +49,5 @@ Simulation analysis fitting both the RI-CCLPM-C and a time-reversed model to SIM
 - [The alternative models proposed by Sorjonen et al. relied on specifications that raised model-validity concerns or did not fully capture the extended REM's temporal structure](sorjonen-models-specification-validity-concerns.md) — related
 - [Temporal direction between PNT and LOU could not be identified: the reversed specification was observationally equivalent](pnt-lou-temporal-direction-not-identified.md) — related
 - [With young primary-school readers, REM support appeared in CLPMs but not RI-CLPMs, motivating tests with older students](ehm-reading-rem-clpm-not-ri-clpm.md) — related
+- [Good fit of the ESDM indicates the PALMA data could have been generated without any prospective effects between achievement and self-concept](esdm-fit-suggests-spurious-prospective-effects.md) — related
+- [Validation with simulated TRAIN-like data replicates the divergence: RI-CLPM positive, LCSM negative, ESDM no-direct-effects](train-validation-divergent-model-findings.md) — related

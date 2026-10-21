@@ -107,3 +107,4 @@ A systematic review evaluating ten learning techniques against generalisability,
 - [A math teacher whose students had typically prepared for tests by rereading notes implemented three retrieval-practice strategies after learning that rereading is not effective for long-term retention](retrieval-practice-implementation-case-newell.md) — related
 - [Reading comprehension ability predicts monitoring accuracy after a single reading but not after rereading (Experiments 1 and 2)](comprehension-ability-by-rereading-interaction.md) — related
 - [Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy](monitoring-effects-without-test-performance-gains.md) — related
+- [The advantage of recitation over rereading is greater the less connected the learning material (Kühn 1914; Gates 1917)](recitation-advantage-decreases-material-connectedness-gates-kuehn.md) — related

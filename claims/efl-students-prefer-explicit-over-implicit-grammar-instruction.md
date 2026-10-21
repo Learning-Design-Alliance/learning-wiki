@@ -52,3 +52,4 @@ Descriptive survey results from 927 preparatory and undergraduate students. The 
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](grammar-as-skill-is-a-conflation.md) — related
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](rule-oriented-explicit-outperforms-implicit.md) — related
 - [Majorities of students believed inductive instruction more effective for simple structures and, conversely, for difficult structures](student-beliefs-inductive-effectiveness-structure-complexity.md) — related
+- [Deductive reasoning develops in stages: explicit inference around ages 5-6, modus tollens around 9-10, and explicit metalogic in adolescence](deductive-reasoning-stages-explicit-metalogic.md) — related

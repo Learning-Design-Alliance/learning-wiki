@@ -51,3 +51,4 @@ This is the authors' interpretive rationale in the Early Childhood Development s
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — related
 - [Children exhibited creative and communicative ways of thinking and working in collaborative tasks](preschoolers-creative-communicative-collaborative-tasks.md) — related
 - [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](conscientization-fits-adventure-therapy.md) — related
+- [Evolutionary theory can inform more-enlightened teaching methods yielding more enjoyable and successful learning](evolutionary-theory-informs-teaching-methods.md) — related

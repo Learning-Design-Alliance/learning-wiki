@@ -47,7 +47,8 @@ The review recommends that future research on pictures in test items systematica
 - [Test-taker abilities and prior knowledge show inconsistent moderating effects on multimedia testing effects](../claims/test-taker-abilities-inconsistent-moderators.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Expand research methodologies to monitor learning processes during multimedia instruction](expand-methodologies-monitor-multimedia-learning-processes.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ ANCOVA on intrinsic cognitive load measured with the Differentiated Cognitive Lo
 - [Reliability estimates of cognitive load questionnaires did not differ between educational settings, instructional domains, presentation modes, or number of scale points](cognitive-load-reliability-invariant-across-moderators.md) — related
 - [In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes](modality-effect-stronger-in-virtual-reality.md) — related
 - [Modality effect sizes differ across fields of study, with social science effects negative and science effects largest](modality-effect-field-of-study-moderator.md) — related
+- [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related

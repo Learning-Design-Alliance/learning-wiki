@@ -72,3 +72,5 @@ In the full model with end-of-year test performance and teacher-rated grade as o
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — reports the opposite
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — a broader claim this one bears on
 - [Sixth-graders' mathematics self-concept and individual interest both decline over one school year](math-self-concept-interest-decline-one-school-year.md) — related
+- [Engagement profiles do not differ in prior knowledge, chemistry self-concept, or interest, addressing a motivation confound](no-profile-differences-prior-knowledge-motivation.md) — related
+- [Graded versus verbal-report elementary students showed no systematic differences except declining joy of learning in mathematics for graded students (review-reported)](wagner-valtin-grades-verbal-reports.md) — related

@@ -53,3 +53,5 @@ ANCOVA on extraneous cognitive load in the VR modality experiment, controlling f
 - [Visual-only text also yields higher comprehension than audio-visual text in immersive VR](vr-reverse-modality-effect-comprehension.md) — related
 - [Bayesian analyses provide strong evidence that the modality effect reverses in VR for recall, comprehension and germane load](vr-reverse-modality-bayesian-evidence.md) — related
 - [In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes](modality-effect-stronger-in-virtual-reality.md) — related
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
+- [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related

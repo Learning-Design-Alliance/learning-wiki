@@ -43,6 +43,7 @@ The review recommends methodological expansion for studying co-regulation as a g
 ## Related Strategies
 
 - [Use multimodal data channels combining subjective and objective measures to overcome single-channel constraints in SSRL research](multimodal-multichannel-ssrl-measurement.md)
+- [Adopt an integrative methodological toolkit using machine learning and computational models to capture SR's multi-level, temporal, and social dynamics](integrative-methodological-toolkit-machine-learning-sr.md)
 
 ## Examples
 -

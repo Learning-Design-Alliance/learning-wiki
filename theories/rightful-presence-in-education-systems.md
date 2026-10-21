@@ -49,6 +49,7 @@ The brief defines rightful presence as a systems-level extension of a concept fr
 - [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](../patterns/shared-power-co-creation-of-educational-systems.md)
 - [Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start](../elements/belonging.md)
 - [Rightful Presence Implementation Guide (swiftschools.org)](../elements/rightful-presence-implementation-guide.md)
+- [Reimagine campus physical spaces as part of institutional diversity, equity, and inclusion commitments](../strategies/reimagine-campus-physical-spaces-for-inclusion.md)
 
 ## Key Sources
 - SWIFT Education Center. (2025, May). Rightful presence in education systems. https://swiftschools.org

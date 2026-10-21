@@ -55,3 +55,5 @@ Authors' interpretive claim (type e) framing their exploratory findings: experts
 - [Experts detect and correct small changes before events become full-blown, while novices are distracted by possibly irrelevant phenomena](expert-monitoring-prevents-full-blown-events.md) — related
 - [Novices skipped more classroom areas than experts in all four videos, missing areas that experts continually monitored](novices-skip-more-classroom-areas.md) — related
 - [Experienced teachers diagnose underestimating, overestimating, and uninterested student profiles more accurately than novices, with partial eye-tracking support](seidel-experienced-teachers-diagnose-student-profiles.md) — related
+- [Experienced teachers can deduce student engagement profiles from visual observation, while beginning teachers struggle](experienced-teachers-deduce-engagement-profiles-visually.md) — related
+- [Combining eye-tracking with verbal reports can capture differences between more- and less-experienced teachers in detecting critical incidents](eye-tracking-verbal-reports-professional-vision-experience-differences.md) — related

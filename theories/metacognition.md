@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 395 claims (189 for, 185 mixed, 21 against) · 197 studies (99 causal, 45 associational, 16 review, 14 theoretical, 10 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 74 of 197 report an effect size · 388 claims rest on one study
+> **Evidence** · 396 claims (189 for, 186 mixed, 21 against) · 198 studies (99 causal, 45 associational, 17 review, 14 theoretical, 10 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 74 of 198 report an effect size · 389 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -438,6 +438,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Mental effort correlates negatively with self-assessments regardless of whether learners receive up-front cue information](../claims/mental-effort-negative-correlation-self-assessments.md) [~W]
 - [Experiment 2 replicated the forward effect of cue-only JOLs over restudy with rock categories, and item-by-item feedback did not change the effect](../claims/cue-only-jol-forward-effect-feedback-null-replication.md) [~M]
 - [Cue-only JOLs, but not cue–target JOLs, showed the inverted U-shaped JOL–response-time relationship taken as a behavioral signature of covert retrieval (Experiment 1)](../claims/cue-only-jol-rt-inverted-u-signature.md) [~W]
+- [Underconfidence-with-practice effect: learners overestimate learning after one study trial but underestimate it after repeated restudying](../claims/underconfidence-with-practice-effect-jols.md) [~W]
 
 ## The evidence by question
 

@@ -74,3 +74,4 @@ The article reports, citing Zhang et al. (2016), a team-composition study whose 
 - [Design guidelines beneficial for novice learners can be ineffective or even detrimental when applied to experts (expertise reversal)](expertise-reversal-interactivity-guidelines.md) — related
 - [Collaborating learners learn more effectively and efficiently than individual learners on cognitively challenging tasks, but group work becomes disadvantageous on cognitively unchallenging tasks](task-complexity-moderates-group-learning-advantage.md) — related
 - [Collaborative learning is beneficial or detrimental depending on individual and situational factors](collaborative-learning-conditionally-beneficial.md) — possibly the same claim (merge candidate)
+- [Expertise reversal effect: instructional aids effective for low-knowledge learners hinder high-knowledge learners across all three layers](expertise-reversal-effect-instructional-aids.md) — related

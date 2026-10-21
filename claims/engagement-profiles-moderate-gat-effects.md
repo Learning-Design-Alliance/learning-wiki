@@ -51,3 +51,4 @@ Exploratory k-means clustering (k=3) on standardized CAP engagement dimensions a
 - [Across both institutions, GATs showed no significant effect on long-term summative exam performance](gats-no-long-term-exam-effect.md) — related
 - [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](moderate-agency-better-learning-outcomes.md) — related
 - [Teachers' initial SRL competence profiles moderate training effectiveness: initially high-competence teachers benefit more from training](competence-profiles-moderate-srl-training-effect.md) — related
+- [High Overall Engagement and Metacognitive-but-not-Constructive profiles show the highest immediate and delayed knowledge, with metacognitive engagement marking the key difference from lower performers](high-engagement-metacognitive-profiles-best-outcomes.md) — related

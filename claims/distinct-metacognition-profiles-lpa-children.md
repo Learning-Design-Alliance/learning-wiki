@@ -49,3 +49,4 @@ Latent profile analyses of six z-standardized indicators (monitoring accuracy, e
 - [Generalizability of metacognitive skills across tasks increases between ages eight and eleven](metacognition-generalizability-develops-with-age.md) — a narrower finding that bears on this claim
 - [Fourth graders with low metacognition tend to remain low one year later, particularly showing ineffective restudy decisions](fourth-graders-at-risk-metacognition-persists.md) — related
 - [Effective restudy selection is the metacognitive skill that most distinguishes children's profiles](effective-restudy-distinguishes-metacognition-profiles.md) — related
+- [Latent profile analysis of secondary students' log-file engagement in a digital chemistry textbook identifies six distinct cognitive and metacognitive engagement profiles](six-latent-profiles-engagement-digital-chemistry-textbook.md) — related

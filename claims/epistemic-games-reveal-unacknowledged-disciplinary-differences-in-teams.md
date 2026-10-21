@@ -61,3 +61,4 @@ This is methodologically careful naturalistic research (q2-q3: peer-reviewed, sy
 - [Teachers in one focus-group study show disciplinary variation in how they assess communication](disciplinary-variation-communication-assessment.md) — related
 - [Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines](disciplinary-perspective-critical-thinking.md) — related
 - [Three discourse patterns emerged during collaborative multidisciplinary modeling, differing in the extent to which students merged disciplinary perspectives](three-interdisciplinary-discourse-patterns.md) — related
+- [Prior epistemic thinking frameworks were insufficient for addressing educational problems because they described epistemic thinking as broad beliefs or perspectives rather than situated practices](prior-epistemic-frameworks-insufficient-situated-practices.md) — related

@@ -63,3 +63,4 @@ Correlational analyses in the study of 209 children administered measures of cre
 - [AU and OC conditions show distinct correlation patterns with external creativity and fluency measures, supporting their differentiation as divergent thinking versus verbal ability conditions](au-oc-conditions-distinct-correlation-patterns.md) — related
 - [The dynamic systems model is used to explain differing views on education's role in developing children's creativity](model-explains-differing-views-education-role-creativity.md) — related
 - [Intelligence and creativity share more variance than the traditional assumption of distinct abilities holds](intelligence-creativity-more-in-common.md) — a narrower finding that bears on this claim
+- [Cognitive resources play a dual role in SR, both enabling self-regulatory processes and constraining how Learning Activities unfold](cognitive-resources-dual-role-enable-and-constrain-sr.md) — related

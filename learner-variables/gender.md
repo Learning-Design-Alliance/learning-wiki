@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 206 claims (130 show a difference, 46 mixed, 30 no difference) · 151 studies (97 associational, 25 causal, 9 quant-synthesis, 6 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 24 of 151 report an effect size · 198 claims rest on one study
+> **Evidence** · 208 claims (130 show a difference, 47 mixed, 31 no difference) · 152 studies (97 associational, 25 causal, 10 quant-synthesis, 6 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 24 of 152 report an effect size · 200 claims rest on one study
 
 ## How to read this page
 
@@ -244,6 +244,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [The magnitude of sex differences in mathematics varies across geographical regions, with larger estimated effects in Central Europe (d = 0.164) and Central and South America (d = 0.153) than in North America (d = 0.047)](../claims/geographic-region-moderation-sex-differences-mathematics.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Gender and academic level do not moderate the perfectionism–academic achievement relationships](../claims/gender-academic-level-not-moderators.md) [-M] — an instructional effect differs by group
 - [The wellbeing effects of school-led nature interventions show a gender effect, with girls benefiting in PA in some studies, but inconclusive findings for age](../claims/gender-effect-school-nature-interventions.md) [~M] — an instructional effect differs by group
+- [Gender differences on WISC subtests and factors are generally smaller or unchanged with newer WISC versions, never larger](../claims/wisc-newer-versions-smaller-gender-differences.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender differences on WISC working memory (gSM) are negligible and not statistically significant](../claims/wisc-working-memory-no-gender-difference.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

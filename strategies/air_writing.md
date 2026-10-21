@@ -58,8 +58,10 @@ Air writing exploits the finding that motor production shapes letter representat
 5. Assess transfer with paper-based letter formation and spelling tasks
 
 ## Related Strategies
+
 - **Sandpaper/traced letters (Montessori)** — the tactile-surface variant of the same motor-plus-visual encoding logic
 - **Multisensory structured literacy (Orton-Gillingham)** — embeds air writing as the kinesthetic channel of its VAKT (visual–auditory–kinesthetic–tactile) routine
+- [Combine movement specifically with conditional letter-sounds for children who already master standard sounds](combine-movement-with-conditional-letter-sounds.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — repeated synchronized production is the mechanism, not a follow-on

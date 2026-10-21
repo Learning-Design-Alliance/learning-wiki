@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 58 claims (48 show a difference, 7 mixed, 3 no difference) · 32 studies (12 associational, 7 review, 6 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 8 of 32 report an effect size · 56 claims rest on one study
+> **Evidence** · 66 claims (53 show a difference, 9 mixed, 4 no difference) · 35 studies (13 associational, 8 review, 7 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 9 of 35 report an effect size · 64 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -93,6 +93,14 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [The contextual-mean effect remains negative across every achievement decile and across MSC quantiles, with no systematic attenuation at the top](../claims/bflpe-robust-across-deciles-and-quantiles.md) [+M] — instruction changes it
 - [The negative contextual-mean effect persists for the top-ranked student in each class, constraining rank-sufficiency accounts](../claims/bflpe-persists-for-top-ranked-students.md) [+M] — instruction changes it
 - [In German secondary-school mathematics, effects of self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)](../claims/asc-achievement-temporal-asymmetry.md) [+M] — learners who differ on it differ in outcomes
+- [Abolishing grades in elementary schools showed no statistically significant effects on achievement, self-concepts, anxiety, joy of learning, well-being, or classroom climate by end of Grade 3, except math interest](../claims/lpf-trial-no-effects-except-math-interest.md) [-M] — instruction changes it
+- [Additional modified models suggest a positive effect of change in achievement on contemporaneous change in self-concept](../claims/change-in-achievement-predicts-contemporaneous-self-concept-change.md) [+M] — instruction changes it
+- [Dimensional comparison effects extend to subjective task values, with contrast effects strongest for intrinsic value and costs and lowest for utility value, often mediated by self-concept](../claims/dimensional-comparisons-affect-task-values.md) [+M] — learners who differ on it differ in outcomes
+- [Dimensional comparisons carried out by teachers and classmates show no contrast effects on students' self-concepts, unlike students' own comparisons](../claims/teacher-classmate-dimensional-comparisons-no-contrast.md) [~M] — instruction changes it
+- [Dimensional comparisons predict cross-domain academic course and major choice, with negative effects of verbal-domain beliefs on math-related choices](../claims/dimensional-comparisons-predict-course-choice.md) [+M] — learners who differ on it differ in outcomes
+- [Meta-analytic path analyses show math and verbal achievements correlate highly positively while the corresponding self-concepts correlate near zero, with significant negative cross-domain paths](../claims/ie-model-meta-analysis-achievement-self-concept-divergence.md) [+M] — instruction changes it
+- [STARTS model shows a positive effect of prior achievement on subsequent self-concept but no effect of prior self-concept on subsequent achievement](../claims/starts-null-self-concept-effect.md) [+M] — instruction changes it
+- [Subject similarity moderates dimensional comparison effects: far comparisons (e.g., math vs. verbal) yield strong contrast effects, near comparisons yield weaker contrast or assimilation effects](../claims/subject-similarity-moderates-dimensional-comparisons.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 

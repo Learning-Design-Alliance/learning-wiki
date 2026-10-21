@@ -69,3 +69,4 @@ Moderator analysis within the meta-analysis of 50 effects, using the article's d
 - [Contiguity effects are larger under one-on-one testing (d = .89) than under group testing (d = .65), but remain educationally significant in both](testing-format-moderates-contiguity-effect.md) — related
 - [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) — related
 - [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related
+- [Moderate levels of interactivity tend to be most beneficial for learning, with benefits depending on task integration and assessment format](moderate-interactivity-benefits-learning.md) — related

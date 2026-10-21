@@ -62,3 +62,4 @@ Narrative synthesis in the "Environments Filled With Safety and Belonging" scien
 - [Anticipatory test anxiety can set off a downward spiral of maladaptive cognitions, emotions, and behaviors](anticipatory-test-anxiety-downward-spiral.md) — related
 - [After school-wide positive and restorative discipline training, Black-White and LGBTQ-straight differences in perceived bullying converged at one majority-minority school](swprd-converged-bullying-perceptions.md) — related
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — a narrower finding that bears on this claim
+- [Stress-adapted children possess hidden talents that educators can take advantage of](hidden-talents-stress-adapted-children.md) — reports the opposite

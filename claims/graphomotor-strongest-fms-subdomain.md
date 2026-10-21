@@ -47,3 +47,4 @@ Post-hoc ANOVA comparisons within the multilevel meta-regression of FMS subdomai
 - [FMS subdomain correlations vary within academic domains: nonword reading strongest, letter reading weakest, intelligence strongest among cognitive skills](fms-subdomain-differentiated-links.md) — related
 - [Writing shows the strongest FMS correlation among academic domains, exceeding reading](writing-strongest-academic-domain-fms.md) — related
 - [MASEM suggests cognitive skills partially mediate the link between FMS and academic skills, which drops from r = .334 to .200](cognitive-skills-mediate-fms-academic-link.md) — related
+- [Among motor subskills, general FiMS and graphomotor skills show the strongest links to overall academic-cognitive skills, and miscellaneous GMS and balance the strongest among GMS subskills](motor-subskill-differential-links.md) — related

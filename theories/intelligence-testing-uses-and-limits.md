@@ -13,7 +13,7 @@ generated:
 # Intelligence Testing: Uses and Limits
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 18 claims (11 for, 7 mixed) · 16 studies (11 associational, 4 review, 1 theoretical), `q1`–`q3` · 1 of 16 report an effect size · 17 claims rest on one study
+> **Evidence** · 20 claims (11 for, 9 mixed) · 17 studies (11 associational, 4 review, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 1 of 17 report an effect size · 19 claims rest on one study
 
 ## Description
 The first intelligence test, the Binet-Simon test, grew out of Alfred Binet's 1904 appointment as France's Minister of Public Education, where he sought a way to identify children with developmental disabilities so they could receive appropriate support — Binet believed "abnormality" could be remediated, and strongly supported special education on that basis. It was the first test to distinguish "normal" children from those with developmental disabilities, and its later revision became the Stanford-Binet, one of the most widely used intelligence tests (Zimmerman & Schunk, 2003). Binet's original purpose — identifying students who need support — sits in some tension with how intelligence-test scores are more often used today, as a general ranking or classification device (see Constraints below).
@@ -69,6 +69,8 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [Specific processing speed measured at the start of Grade 7 predicts mathematics achievement on the high school entrance examination at the end of Grade 9](../claims/specific-processing-speed-predicts-grade9-entrance-exam-math.md) [+W]
 - [Specific processing speed generalises beyond mathematics, significantly predicting Chinese and English achievement in both Grade 7 and Grade 9](../claims/specific-processing-speed-generalises-to-all-academic-achievements.md) [+W]
 - [Fluid reasoning and self-control jointly explain far more variance in standardized test scores than in grades](../claims/variance-explained-tests-versus-grades.md) [+W]
+- [Males show a statistically significant but practically negligible advantage on WISC Full-Scale IQ (d = 0.09), which becomes non-significant with newer WISC versions](../claims/wisc-fsiq-negligible-male-advantage.md) [~W]
+- [Gender differences in fluid intelligence (gF) on the WISC are negligible, and newer fluid-reasoning subtests show no difference or favour females](../claims/wisc-fluid-intelligence-no-gender-difference.md) [~W]
 
 ## Related Principles
 - [Supporting Gifted and Talented Students](../principles/supporting-gifted-and-talented-students.md) — giftedness classification is conventionally IQ-threshold-based, inheriting all of this principle's measurement caveats

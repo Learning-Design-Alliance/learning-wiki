@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**969 entries** · 0 stable · 969 in review · 0 drafts
+**970 entries** · 0 stable · 970 in review · 0 drafts
 
 ---
 
@@ -561,6 +561,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Logic model of how technology mediation may reduce anxiety in viva voce performance-based assessments](logic-model-technology-reduces-pba-anxiety.md) - The article proposes a logic model structuring how technology may reduce anxiety in viva voce assessments, organised as Inputs (technology mediation, assessment context, learner factors), Theoretical Mechanisms (socia...
 * [Logic-aware segmented video intervention with fixed 4-second system-defined pauses](logic-aware-segmented-video-intervention.md) - A post-hoc video processing intervention for instructional programming videos: after recording, content is cut at logical action boundaries and a fixed pause is injected after each step.
 * [Los Padillas Wildlife Sanctuary (5-acre experiential education facility)](los-padillas-wildlife-sanctuary.md) - The Los Padillas Wildlife Sanctuary is a 5-acre experiential education facility on the school campus that was \"in disrepair and out of use\" in 2017 and revived at community insistence as an outdoor learning space.
+* [LPF school trial: grade abolishment with standards-based competency grids, learning-development meetings, and formative feedback](lpf-school-trial-element.md) - The Learning-enhanced Performance Feedback (LPF) school trial was a quasi-experimental intervention in 35 Baden-Württemberg elementary schools beginning in the 2022/2023 school year, compared with 40 control schools.
 * [Luminous Science Transdisciplinary Curriculum](luminous-science-transdisciplinary-curriculum.md) - A project genre that anchors art, science, and computing instruction in students' construction of computationally-rich, aesthetic representations (e.g., programmable sculptural lanterns) of a shared living phenomenon, forcing teachers and students to negotiate epistemic criteria across disciplines rather than treat one discipline's standards as primary.
 
 #### M {: #letter-m }

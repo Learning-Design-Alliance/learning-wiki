@@ -82,3 +82,4 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 - [Student self-reports of effort, social well-being, and math instruction do not explain the gender grade difference](survey-self-reports-do-not-explain-gender-grade-gap.md) — related
 - [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](gender-gap-varies-by-grading-category-family.md) — related
 - [The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status](tutoring-gpa-advantage-no-interaction-background.md) — related
+- [Teacher-assigned grades are susceptible to systematic biases, including halo effects and ethnicity-based grading differences (review-reported)](grading-biases-halo-ethnicity.md) — related

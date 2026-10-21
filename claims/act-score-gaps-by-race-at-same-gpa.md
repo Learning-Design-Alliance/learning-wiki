@@ -53,3 +53,4 @@ Comparative analysis of CPS and national ACT data by GPA band and race/ethnicity
 - [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related
 - [Student test effort differs substantially across student gender and racial subgroups](test-effort-differs-across-gender-racial-subgroups.md) — related
 - [ACT scores show significant subgroup misprediction by race, ethnicity, and gender that HSGPA models do not, and school-level variance is smaller among students with the same ACT score than the same HSGPA](act-subgroup-misprediction-and-school-variance.md) — related
+- [Teacher-assigned grades are susceptible to systematic biases, including halo effects and ethnicity-based grading differences (review-reported)](grading-biases-halo-ethnicity.md) — related

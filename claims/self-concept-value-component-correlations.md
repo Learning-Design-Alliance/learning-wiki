@@ -48,3 +48,4 @@ Latent correlations from the second-order CFA (Model FO-4V) in 1,868 ninth-grade
 - [School grades tend to be more highly correlated with academic self-concept than standardized test scores](grades-more-correlated-with-self-concept-than-tests.md) — related
 - [Self-concept and global value interact synergistically and positively in predicting achievement, effort, and teacher-rated engagement](synergistic-self-concept-global-value-interaction.md) — related
 - [Only the self-concept-by-low-cost interaction adds predictive power for achievement beyond the self-concept-by-global-value interaction](self-concept-low-cost-interaction-achievement.md) — related
+- [Dimensional comparison effects extend to subjective task values, with contrast effects strongest for intrinsic value and costs and lowest for utility value, often mediated by self-concept](dimensional-comparisons-affect-task-values.md) — related

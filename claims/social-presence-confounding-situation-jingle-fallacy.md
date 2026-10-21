@@ -44,3 +44,4 @@ The review's synthesis of the measurement literature (Table 2) argues that measu
 
 ## Related Claims
 - [Education problems resemble problems in many social settings: they lack clear definitions, have many potential causes, lack simple solutions, and defy straightforward measurement](education-problems-lack-clear-definitions-and-simple-solutions.md) — a broader claim this one bears on
+- [Jingle-jangle fallacies fragment SR research in education and impede cumulative progress](jingle-jangle-fallacies-fragment-sr-research.md) — a broader claim this one bears on

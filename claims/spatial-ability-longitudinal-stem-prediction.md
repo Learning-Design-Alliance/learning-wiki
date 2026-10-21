@@ -74,3 +74,4 @@ The review attributes to Wai et al. (2009) the finding, based on Project TALENT 
 - [Spatial assembly skill measured at age 3 (TOSA) strongly correlates with mathematics performance one year later at age 4](tosa-age-3-predicts-age-4-math.md) — related
 - [Spatial ability interventions have increased STEM performance and retention, but a causal effect remains categorically unestablished](spatial-interventions-gains-causal-gap.md) — related
 - [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — related
+- [Five specialized structural systems emerge as separate factors in factorial studies from preschool age to adulthood](five-sss-separate-factors-factorial-studies.md) — related

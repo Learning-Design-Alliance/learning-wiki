@@ -146,3 +146,4 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [Effect sizes linking growth mind-set to achievement are highly heterogeneous and often nonsignificant](mindset-achievement-heterogeneity-high.md) — related
 - [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with no significant variation in this effect detected across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — related
 - [Brief social-belonging interventions improve academic outcomes and well-being, especially for students facing identity threat, but risk being used to fix students rather than structures](social-belonging-intervention-improves-outcomes-but-misuse-risk.md) — related
+- [Motivational interventions can lower perceived cognitive load and improve retention and transfer, indicating load perception is partly independent of task difficulty](motivation-intervention-lowers-perceived-load.md) — related

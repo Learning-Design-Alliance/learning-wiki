@@ -49,3 +49,4 @@ ANCOVA on transfer in the VR modality experiment, controlling for prior knowledg
 - [Visual-only text also yields higher comprehension than audio-visual text in immersive VR](vr-reverse-modality-effect-comprehension.md) — related
 - [In an immersive VR learning environment, visual-only text yields higher recall than audio-visual text (reverse modality effect)](vr-reverse-modality-effect-recall.md) — related
 - [Visual-only text produces higher germane cognitive load than audio-visual text in VR](vr-visual-only-higher-germane-load.md) — related
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related

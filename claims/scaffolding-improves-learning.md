@@ -148,3 +148,4 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 - [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — related
 - [Computer-based scaffolding produces consistently strong within-subject (pre–post) cognitive gains in STEM education across student populations, disciplines, and assessment levels](scaffolding-strong-prepost-gains-stem.md) — related
 - [Scaffolding shows a moderate positive effect on conceptual learning outcomes in STEM pedagogical interventions other than direct instruction](scaffolding-moderate-effect-stem-conceptual-learning.md) — related
+- [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](fading-out-prompts-beat-permanent-prompts.md) — related

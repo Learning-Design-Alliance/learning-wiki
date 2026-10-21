@@ -80,3 +80,4 @@ Reanalysis of the PALMA longitudinal study (five annual waves of mathematics dat
 - [RI-CLPMs control unmeasured time-invariant covariates better than CLPMs, but neither controls unmeasured time-varying covariates well](ri-clpm-unmeasured-covariate-control.md) — related
 - [In German secondary-school mathematics, effects of self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)](asc-achievement-temporal-asymmetry.md) — related
 - [Random-intercept and lag2 panel models rest on different assumptions and offer alternative perspectives on controlling covariates](ri-lag2-different-assumptions-covariates.md) — related
+- [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — related

@@ -68,3 +68,4 @@ Parameter estimates from the three-factor CFA for the combined sample (N = 372) 
 - [Preschoolers' writing and writing-related skills increase significantly between ages 3 and 5 on letter, name, and CVC word tasks](preschool-writing-skills-increase-age-3-to-5.md) — related
 - The four cognitive measures form four distinct but significantly correlated latent factors whose relations are stable across the two age groups — related
 - [Older preschoolers outperformed younger preschoolers on most writing measures but not on the generative composing tasks](age-differences-emergent-writing-tasks.md) — related
+- [Confirmatory factor analysis supports both distinct 11-factor and four higher-order group structures of the Wheel across educational levels](wheel-cfa-structure-support.md) — related

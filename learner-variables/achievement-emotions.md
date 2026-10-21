@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 81 claims (56 show a difference, 18 mixed, 7 no difference) · 59 studies (16 causal, 14 associational, 11 review, 9 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 10 of 59 report an effect size · 78 claims rest on one study
+> **Evidence** · 83 claims (58 show a difference, 18 mixed, 7 no difference) · 61 studies (16 causal, 14 associational, 12 review, 9 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 10 of 61 report an effect size · 80 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -116,6 +116,8 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Online environments build adolescent competence through pride in achievements, social confidence, and creative confidence](../claims/online-competence-pride-confidence-creativity.md) [+M] — learners who differ on it differ in outcomes
 - [Representational pictures enhance test-taker enjoyment, response certainty, and reduce rapid-guessing behaviour](../claims/representational-pictures-affective-metacognitive-benefits.md) [+W] — instruction changes it
 - [Organized PD groups reported fewer negative emotions than teachers learning informally](../claims/organized-pd-fewer-negative-emotions.md) [+M] — instruction changes it
+- [Evolutionary theory can inform more-enlightened teaching methods yielding more enjoyable and successful learning](../claims/evolutionary-theory-informs-teaching-methods.md) [+W] — instruction changes it
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](../claims/immersion-cost-benefit-transfer-motivation.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

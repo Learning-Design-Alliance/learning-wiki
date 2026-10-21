@@ -65,3 +65,4 @@ Same Goldberg et al. gold standard study; despite the ML measure's economy, manu
 - [LLM ratings of classroom transcripts are more correlated with each other than with expert human ratings, across the same and different tasks](llm-llm-agreement-exceeds-llm-human-classroom-ratings.md) — related
 - [AI-based analyses of student learning may perform unevenly across student populations, limiting comparability of findings across settings](ai-uneven-performance-across-student-populations.md) — related
 - [Head-pose-estimation-based proctoring systems report widely varying accuracies, from 75.6% for cheating detection to 100% for yaw-angle estimation](head-pose-proctoring-accuracy-range.md) — related
+- [Machine learning analysis of regular video recordings can support conclusions on learners' visual perception in lectures](machine-learning-video-learners-visual-perception.md) — related

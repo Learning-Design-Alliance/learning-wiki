@@ -57,3 +57,5 @@ This is a self-report interview study of one national population (Finnish academ
 - [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) — related
 - [Immersion in IBL improves student teachers' self-reported understanding of the interpretative nature of historical research](ibl-immersion-improves-understanding-historical-inquiry.md) — related
 - [High-school students do not spontaneously use contextualization, sourcing, and corroboration heuristics when reading documents](students-not-spontaneously-use-sourcing-heuristics.md) — related
+- [Empirical studies across diverse learner populations show that people's epistemic aims, ideals, and processes are tailored to the information sources and tasks they engage in](epistemic-thinking-contextualized-tasks-sources.md) — a broader claim this one bears on
+- [Prior epistemic thinking frameworks were insufficient for addressing educational problems because they described epistemic thinking as broad beliefs or perspectives rather than situated practices](prior-epistemic-frameworks-insufficient-situated-practices.md) — related

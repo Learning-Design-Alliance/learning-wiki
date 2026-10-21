@@ -48,7 +48,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (19 for, 19 mixed, 2 against) · 41 studies (14 causal, 9 review, 7 theoretical, 4 associational, 4 qualitative, 2 quant-synthesis, 1 design), `q1`–`q4` · 4 of 41 report an effect size · 33 claims rest on one study
+> **Evidence** · 41 claims (20 for, 19 mixed, 2 against) · 42 studies (14 causal, 10 review, 7 theoretical, 4 associational, 4 qualitative, 2 quant-synthesis, 1 design), `q1`–`q4` · 4 of 42 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Cognitive and metacognitive prompts in learning journals helped early in a term but became detrimental by its end; adaptive fading-out mitigated this](../claims/expertise-reversal-writing-journal-prompts-fading.md) [+W]
 - [Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied](../claims/journal-writing-improves-outcomes-with-support.md) [~W]
 - [Contingency is not treated as a necessary condition of scaffolding in bilingual education research, unlike broader educational research](../claims/contingency-not-necessary-condition-bilingual-education-scaffolding.md) [~W]
+- [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](../claims/fading-out-prompts-beat-permanent-prompts.md) [+W]
 
 ## Related Principles
 - [Concreteness Fading](concreteness-fading.md)

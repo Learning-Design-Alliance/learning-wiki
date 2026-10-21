@@ -13,7 +13,7 @@ generated:
 # Adverse Experiences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (26 show a difference, 2 mixed, 3 no difference) · 18 studies (7 review, 6 associational, 2 theoretical, 1 causal, 1 quant-synthesis, 1 design), `q1`–`q3` · 3 of 18 report an effect size · 31 claims rest on one study
+> **Evidence** · 32 claims (27 show a difference, 2 mixed, 3 no difference) · 19 studies (7 review, 6 associational, 3 theoretical, 1 causal, 1 quant-synthesis, 1 design), `q1`–`q3` · 3 of 19 report an effect size · 32 claims rest on one study
 
 ## Description
 Adverse experiences are events that can be traumatic: physical, sexual or emotional abuse and neglect, witnessing violence at home or in the community, family instability, and discrimination experienced as racial trauma. The concern for learning is the stress response they set off. Repeated or prolonged stress releases stress hormones that can change how the body and brain develop, and childhood is a sensitive period for this, so effects on cognition, health, emotional well-being and achievement can carry into adulthood. Exposure is usually measured with self-report or parent-report trauma checklists. The LVN treats it as relevant at every age it covers, from pre-kindergarten to adult education: for children it bears on learning to read, write and do mathematics, and for adults it includes earlier negative experiences of school that make returning to learning harder. The summaries are equally clear that harm is not fixed: children's brains are plastic enough to recover, evidence-based interventions exist, and protective factors such as [social supports](social-supports.md), a [sense of belonging](belonging.md) and a positive [identity](identity.md) can buffer the effects. It overlaps with [affect regulation](affect-regulation.md), which covers the emotional side, and with [safety](safety.md).
@@ -67,6 +67,7 @@ Adverse experiences are events that can be traumatic: physical, sexual or emotio
 - [Maltreated and nonmaltreated adolescents do not differ in P3 amplitude during the go/no go task](../claims/no-group-difference-p3-amplitude-go-no-go.md) [-M] — learners who differ on it differ in outcomes
 - [Nonmaltreated adolescents are more accurate than maltreated adolescents on a go/no go task, with the group difference more pronounced on no go trials requiring inhibitory control](../claims/maltreated-adolescents-less-accurate-no-go-trials.md) [+W] — learners who differ on it differ in outcomes
 - [The probability of school failure increases as a function of the timing and length of children's exposure to relational adversity](../claims/cumulative-relational-adversity-school-failure.md) [+M] — learners who differ on it differ in outcomes
+- [Stress-adapted children possess hidden talents that educators can take advantage of](../claims/hidden-talents-stress-adapted-children.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Brief Trauma Questionnaire** (Schnurr et al., 2002): self-report of lifetime exposure to traumatic events such as accidents, combat, illness, abuse and disasters.

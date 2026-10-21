@@ -47,3 +47,5 @@ The essay reports, citing Kroeper et al. (2025), a multi-campus study of institu
 - [Belongingness is more strongly associated with academic achievement among marginalized students than among white students](belonging-achievement-stronger-marginalized-students.md) — related
 - [National racial violence significantly reduced belonging and confidence among Black and Latinx STEM students relative to white peers](national-racial-violence-racialized-belonging-declines.md) — related
 - [Black students experience a more hostile campus racial climate than other students of color in schools](black-students-more-hostile-climate-than-other-students-of-color.md) — related
+- [Campus symbols such as antebellum architecture signal belonging to White and high-SES students and unwelcomeness to marginalized students](campus-symbols-signal-unwelcomeness-to-marginalized-students.md) — a narrower finding that bears on this claim
+- [Racially marginalized faculty self-report using inclusive pedagogy at slightly but significantly higher rates than White faculty](marginalized-faculty-self-report-inclusive-pedagogy-higher.md) — related

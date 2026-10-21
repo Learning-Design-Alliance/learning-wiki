@@ -60,3 +60,5 @@ This is a qualitative, non-experimental design study without a comparison condit
 - Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics — related
 - Models can only be understood with respect to the aims and intentions of a cognitive agent, not solely in terms of representation — related
 - [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](critical-speculative-design-supports-critical-consciousness-in-science.md) — related
+- [Empirical studies across diverse learner populations show that people's epistemic aims, ideals, and processes are tailored to the information sources and tasks they engage in](epistemic-thinking-contextualized-tasks-sources.md) — a broader claim this one bears on
+- [Prior epistemic thinking frameworks were insufficient for addressing educational problems because they described epistemic thinking as broad beliefs or perspectives rather than situated practices](prior-epistemic-frameworks-insufficient-situated-practices.md) — related

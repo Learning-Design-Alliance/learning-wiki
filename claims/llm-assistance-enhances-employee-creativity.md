@@ -54,3 +54,4 @@ The brief cites early research, without reporting study designs or effect sizes,
 - [LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings](llms-catalyze-collaboration-idea-generation-peer-feedback.md) — related
 - Writers themselves perceive no creativity benefit from GenAI access even though evaluators do — reports the opposite
 - [LLM-assisted self-study yields higher post-intervention exam performance than traditional resources among early-career knowledge workers](llm-self-study-beats-traditional-resources-exam-performance.md) — related
+- [Nature exposure at work did not significantly predict employee creativity in a longitudinal study where job autonomy and workload were the significant predictors](workplace-nature-null-creativity-korpela.md) — related

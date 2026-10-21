@@ -70,3 +70,4 @@ The chapter reports Smith et al. (2016), in which "prompting students to describ
 - [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — related
 - [Adopting mastery goals rather than performance goals during initial learning promotes transfer](mastery-goals-promote-transfer.md) — related
 - [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — related
+- [Retrieval practice improved literal premise recall but did not improve deductive inference transfer compared to restudy](retrieval-practice-premise-recall-not-inference-transfer.md) — related

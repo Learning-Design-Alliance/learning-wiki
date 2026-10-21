@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 17 claims (7 for, 10 mixed) · 14 studies (3 causal, 3 review, 3 qualitative, 2 associational, 1 quant-synthesis, 1 design, 1 theoretical), `q2`–`q3` · 4 of 14 report an effect size · 16 claims rest on one study
+> **Evidence** · 18 claims (8 for, 10 mixed) · 15 studies (4 review, 3 causal, 3 qualitative, 2 associational, 1 quant-synthesis, 1 design, 1 theoretical), `q2`–`q3` · 4 of 15 report an effect size · 17 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -75,6 +75,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Pedagogical agents show a small-to-moderate but non-significant effect on learners' utility beliefs (g = 0.34, p = 0.05)](../claims/pa-non-significant-utility-beliefs.md) [~W]
 - [College students' attributions of motivation problems to lack of value and interest strongly predict lower intention to take additional classes in the field](../claims/value-interest-attributions-predict-attrition-intention.md) [+W]
 - [Subjective task value shows a positive connection with time management, but expectancies for success and costs remain largely unexamined](../claims/task-value-positive-connection-time-management.md) [~W]
+- [Dimensional comparison effects extend to subjective task values, with contrast effects strongest for intrinsic value and costs and lowest for utility value, often mediated by self-concept](../claims/dimensional-comparisons-affect-task-values.md) [+W] — attached 2026-10-21 from Jens Möller (2024), which proposed "Integration of dimensional comparisons into situated expectancy-value theory (SEVT): relativistic expectancy and value formation across domains".
 
 ## Related Theories
 

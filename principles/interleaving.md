@@ -47,7 +47,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (14 for, 19 mixed) · 18 studies (7 causal, 4 review, 3 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 18 report an effect size · 30 claims rest on one study
+> **Evidence** · 36 claims (15 for, 20 mixed, 1 against) · 20 studies (8 causal, 4 quant-synthesis, 4 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 20 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ Taken together: mixing kinds in practice reliably helps learners tell confusable
 - [Learners prefer massed study despite its inferior outcomes](../claims/learners-misjudge-spacing-benefits.md) [~M]: the same misjudgement as Kornell & Bjork's learners, for spacing; it bears on why interleaving needs to be built into materials rather than left to learners.
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice](../claims/dtech-teachers-adopt-retrieval-interleaving.md) [+W]: adoption by teachers, not a learning outcome.
 - [Accuracy in the mixed block decreases across trials while PES also decreases, independent of intelligence](../claims/accuracy-decreases-mixed-block-trials.md) [~W] — read 2026-10-19 (not about this page): a "mixed block" of an executive-function task in kindergarten children, where accuracy fell with fatigue; it is not mixed practice of kinds to be learned.
+- [High and low CI practice do not differ significantly in overall relatively permanent gains (Δ pre-retention)](../claims/ci-no-long-term-gain-difference.md) [-W] — attached 2026-10-21 from Achraf Ammar et al. (2024), which proposed "Do not assume high contextual interference (random) practice guarantees a longer-term performance advantage in PE and sports"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -159,6 +160,8 @@ The expectation should weaken if comparisons with comparable learners find no ad
 - [All 67 reviewed interleaving studies demonstrated the interleaving effect using very similar interleaved concepts](../claims/interleaving-effect-requires-similar-discriminable-materials.md) [~W]
 - [Interleaving is more effective for materials with a low degree of discriminability](../claims/interleaving-effectiveness-low-discriminability.md) [~W]
 - [Interleaved practice outperformed blocked practice across eight STEM classrooms](../claims/interleaving-beats-blocking-across-stem-classes.md) [+W]
+- [Low (blocked) and high (random/serial) contextual interference practice do not differ significantly in acute skill gains (Δ pre-post) in PE and sports contexts](../claims/ci-no-acquisition-advantage-difference.md) [~W]
+- [Interleaved practice yields better category learning than blocked practice, and students who choose interleaved practice outperform those who choose blocked practice on novel materials](../claims/interleaving-effect-category-learning-paintings.md) [+M]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

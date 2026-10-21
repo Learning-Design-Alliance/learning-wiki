@@ -69,3 +69,4 @@ Same Haataja et al. naturalistic eye-tracking study; gaze expressing communion e
 - [Expert teachers begin gaze sequences with student fixation and return to students throughout, whereas Hong Kong experts intersperse student scans that UK experts never use](expert-scanpaths-student-fixation-recycling.md) — related
 - [Gaze-based assistance produced a significantly higher follow-up fixation rate on the spoken secondary AOI than the baseline](gaze-assistance-higher-secondary-aoi-followup.md) — related
 - [Only a minority of teacher educators interpreted a critical classroom-management incident as theoretically expected, despite marked eye-tracking differences](wyss-critical-incident-rarely-interpreted-as-expected.md) — related
+- [Joint attention between teachers and pupils depends on situational differences and teachers' agency and communion](joint-attention-depends-on-situation-agency-communion.md) — related

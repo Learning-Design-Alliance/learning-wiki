@@ -54,3 +54,4 @@ Null moderator results from three-way interaction Bayesian models (SI Appendix, 
 - [Writing intervention effects for US ELL students do not vary significantly by study quality indicators, participant characteristics, or intervention characteristics](no-significant-moderators-ell-writing-effects.md) — related
 - [Active learning benefits students in all class sizes, with the greatest effects in classes of 50 or fewer students](active-learning-strongest-small-classes.md) — related
 - [LEA's course-agnostic architecture was operationalised across three courses with no changes to the orchestrator, mastery tracker, or scaffolding engine](orchestration-layer-generalises-knowledge-layer-adapts.md) — related
+- [Active learning and inclusive practices are associated with better outcomes and reduced equity gaps, though evidence is contested and uptake remains low](active-learning-reduces-equity-gaps-contested.md) — a broader claim this one bears on

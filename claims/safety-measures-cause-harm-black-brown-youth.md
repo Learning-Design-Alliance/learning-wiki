@@ -57,3 +57,4 @@ The guide asserts, in its Paradigm of Safety section, that "Attempts to bring sa
 - Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks — related
 - [District leaders filtered student and community voices through their own perspectives, so neither district fully removed security personnel despite calls to end policing in schools](leaders-filter-community-voices-security-retained.md) — related
 - [Security cameras show no evidence of improving school safety, and evidence does not support expanding metal detector use](security-cameras-and-metal-detectors-lack-safety-evidence.md) — a narrower finding that bears on this claim
+- [Campus policing and surveillance disproportionately burden students of color, who mostly report police do not make them feel safer](campus-surveillance-disproportionately-burdens-students-of-color.md) — a narrower finding that bears on this claim

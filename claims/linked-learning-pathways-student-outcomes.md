@@ -46,3 +46,4 @@ The same SRI evaluation found low-achieving students "made significantly better 
 - [MDRC's experimental career academies evaluation found males earned as much as 17% more than peers for 8 years after high school, alongside attendance, course-taking, and on-time-credit gains](career-academies-mdrc-male-earnings-gains.md) — related
 - [Linked Learning benefits occurred only in pathways independently certified as high-quality on seven implementation dimensions](pathway-quality-certification-gating-effects.md) — related
 - [Gateway students graduate at high rates, including 100% of African American, Latina/o, and students with disabilities](gateway-98-percent-four-year-graduation-rate.md) — related
+- [Grading showed differential effects by student group in Swedish quasi-experimental data: low-ability students fared worse when graded, girls better (review-reported)](klapp-differential-grading-effects.md) — related

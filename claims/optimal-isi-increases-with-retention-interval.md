@@ -70,3 +70,4 @@ Meta-analytic lag analyses binning accuracy differences and absolute accuracy by
 - [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](retention-interval-one-to-six-days-largest.md) — related
 - [Eight-day review improved a five-week science test versus one-day review in a simulated university classroom](eight-day-review-improves-five-week-science-test-versus-one-day-review.md) — a narrower finding that bears on this claim
 - [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](distributed-practice-limits-l2.md) — related
+- [Proportional measurement of relearning intervals poses a scaling problem for mapping optimal relearning schedules](relearning-interval-scaling-measurement-problem.md) — related

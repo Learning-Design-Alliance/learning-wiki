@@ -88,3 +88,4 @@ Spada and Tomita (2010), a meta-analysis of 41 studies, found larger effects for
 - [No differential effect of explicit instruction depending on the variable morphology/syntax](no-differential-explicit-instruction-effect-morphology-syntax.md) — reports the opposite
 - [The usefulness of induction and errorful learning varies with the type of terminal task being taught](task-type-moderates-induction-error-usefulness.md) — related
 - [FFI involving extensive instruction directed at simple structures was more likely to succeed in developing implicit knowledge](extensive-ffi-simple-structures-more-likely-to-succeed.md) — related
+- [Deductive reasoning develops in stages: explicit inference around ages 5-6, modus tollens around 9-10, and explicit metalogic in adolescence](deductive-reasoning-stages-explicit-metalogic.md) — related

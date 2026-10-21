@@ -45,3 +45,4 @@ Meta-synthesis subtheme on emotional relief: examples included distraction durin
 ## Related Claims
 - [A meta-synthesis of 90 qualitative studies across 26 countries identifies adolescents' positive online experiences with digital flourishing](meta-synthesis-90-studies-adolescent-digital-flourishing.md) — a broader claim this one bears on
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
+- [Qualitative studies identify potential mechanisms linking nature and creativity, including solitude, relaxation, inspiration, and disconnection from technology](qualitative-mechanisms-nature-creativity.md) — related

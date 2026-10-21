@@ -50,3 +50,4 @@ Descriptive survey results from 927 students grouped by year of study. The artic
 - [Focus on form was the least preferred method of grammar instruction regardless of year of study](fonf-least-preferred-grammar-instruction.md) — related
 - [Preferred instruction type shifted by year: Prep School, freshman and sophomore students preferred implicit instruction while junior and senior students preferred meaning-focused instruction](year-of-study-shifts-preferred-grammar-instruction.md) — related
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
+- [Deductive reasoning develops in stages: explicit inference around ages 5-6, modus tollens around 9-10, and explicit metalogic in adolescence](deductive-reasoning-stages-explicit-metalogic.md) — related

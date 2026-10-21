@@ -24,7 +24,7 @@ sources:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (17 for, 10 mixed) · 27 studies (11 causal, 5 review, 4 quant-synthesis, 4 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 27 report an effect size · 23 claims rest on one study
+> **Evidence** · 28 claims (18 for, 10 mixed) · 28 studies (11 causal, 5 review, 5 theoretical, 4 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 28 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,7 @@ Recall of the taught items, near transfer, far transfer, delayed transfer and us
 - [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](../claims/learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) [~M]
 - [Variation-theory-based teaching significantly improves students' alternation of points of view on novel, untaught societal issues (transfer), with smaller effects than on the taught task](../claims/variation-theory-transfer-novel-issues.md) [+W]
 - [Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features](../claims/structure-emphasizing-cover-stories-categorization.md) [+W]
+- [A review of approximately 80 studies found cognitive training teaching both discrimination and generalization effective for inductive reasoning and problem-solving transfer](../claims/cognitive-training-discrimination-generalization-review.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md)

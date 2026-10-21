@@ -49,3 +49,4 @@ In Study II with 92 sixth- and seventh-graders, item analysis identified "2 subs
 - [Hippocampal malleability from resource-demand mismatch implies students benefit most from challenges matched to individual capacity](hippocampal-plasticity-mismatch-individual-capacity.md) — related
 - [A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges](shared-resource-storage-processing-wm.md) — a broader claim this one bears on
 - [People can selectively remove no-longer-relevant information from WM, but removal of an arbitrary subset of items is inefficient](wm-removal-efficient-sets-limited-subsets.md) — related
+- [Short-term storage capacity increases from two units at ages 3-4 to four units at ages 10-11 when executive operations are minimal](short-term-storage-capacity-two-to-four-units.md) — related

@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 59 claims (52 show a difference, 4 mixed, 3 no difference) · 53 studies (15 associational, 14 qualitative, 10 review, 5 causal, 3 quant-synthesis, 3 design, 3 theoretical), `q1`–`q3` · 2 of 53 report an effect size · 59 claims rest on one study
+> **Evidence** · 60 claims (53 show a difference, 4 mixed, 3 no difference) · 54 studies (15 associational, 14 qualitative, 10 review, 5 causal, 4 theoretical, 3 quant-synthesis, 3 design), `q1`–`q3` · 2 of 54 report an effect size · 60 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -95,6 +95,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [Teacher–student relationship quality partially mediates the association between student behavior and peer relationships](../claims/tsr-partially-mediates-behavior-peer-association.md) [+M] — learners who differ on it differ in outcomes
 - [DLGs bring the community in and take new learnings out, with family involvement increasing children's motivation](../claims/dlg-community-involvement-family-motivation.md) [+M] — learners who differ on it differ in outcomes
 - [DLGs contribute to a non-violent, supportive climate of coexistence, including reduced bullying and dialogues oriented to non-violent relationships](../claims/dlg-non-violent-supportive-climate.md) [+M] — instruction changes it
+- [Interpersonal relationships are framed as supports for motivation at school](../claims/interpersonal-relationships-support-school-motivation.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

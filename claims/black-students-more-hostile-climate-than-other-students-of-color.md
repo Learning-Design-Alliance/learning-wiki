@@ -52,3 +52,4 @@ Comparative synthesis within the review's literature analysis, citing multiple p
 - [Within the same neighborhoods and schools, boys and Black students are more likely to be overage for grade, a proxy for prior retention](boys-black-students-more-likely-overage.md) — related
 - [Most measured dimensions of school racial climate are significantly correlated with students' school belonging across educational levels](racial-climate-dimensions-significantly-correlated-belonging.md) — related
 - [Teachers of color in focus groups report five workforce challenges: antagonistic culture, feeling undervalued, deprived agency and autonomy, unfavorable working conditions, and high personal costs](five-challenges-teachers-of-color-face.md) — related
+- [Campus symbols such as antebellum architecture signal belonging to White and high-SES students and unwelcomeness to marginalized students](campus-symbols-signal-unwelcomeness-to-marginalized-students.md) — related

@@ -50,3 +50,4 @@ Qualitative content analysis of classroom observations and videos, online discou
 - [Cross-classroom Super Talk built a multifaceted understanding of 'how people grow' that enriched discourse within each classroom](super-talk-multifaceted-understanding-cross-community.md) — related
 - [Grade 5 students can sustain productive knowledge-building collaboration over a whole school year with a facilitative rather than guiding teacher](grade-5-sustain-productive-collaboration-whole-year-knowledge-building.md) — related
 - [Automated methods capturing thematic cohesion significantly enrich the analysis of knowledge building over time in student discussion](automated-thematic-cohesion-enriches-knowledge-building-analysis.md) — related
+- [Learners given appropriate materials and prompts can successfully develop, articulate, and elaborate rich epistemic ideals for good models and good sources](learners-develop-elaborate-epistemic-ideals.md) — related

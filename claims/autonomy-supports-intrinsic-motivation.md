@@ -188,3 +188,5 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Teachers hold conflicting attitudes about whether gameful assessments support students’ intrinsic motivation and desire to learn](teacher-attitudes-gameful-assessment-conflicted.md) — related
 - [Open inquiry affects students' motivation, though one reviewed study found no significant difference in collaborative attitudes](open-inquiry-student-motivation.md) — related
 - [Creativity-supportive school climates combine autonomy, psychological safety, teacher encouragement, and rich resources](creativity-supportive-climate-factors.md) — related
+- [Receiving grades is positively associated with achievement and external motivation compared with receiving no performance feedback (review-reported meta-analysis)](grades-versus-no-feedback-koenka.md) — related
+- [Teachers who facilitate both autonomy and structure report motivation to teach and felt teaching effectiveness](teacher-outcomes-autonomy-structure.md) — a narrower finding that bears on this claim

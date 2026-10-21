@@ -78,6 +78,7 @@ Guided play leverages children's intrinsic motivation by preserving autonomy whi
 6. Assess through observation: track children's use of target vocabulary, problem-solving, and connections to real-world contexts during play.
 
 ## Related Strategies
+
 - **Scaffolding** — guided play is scaffolding embedded in a play context; the adult's questions and comments function as contingent support
 - **Direct instruction** — the comparison point; guided play trades instructional efficiency for motivation and transfer in early learners
 - **Inquiry-based learning** — shares the child-led exploration structure, but guided play adds the play frame and affective engagement
@@ -86,6 +87,7 @@ Guided play leverages children's intrinsic motivation by preserving autonomy whi
 - [Anchored Instruction](anchored-instruction.md) — shares the design of a rich context around a target problem, but with adult- rather than child-led activity
 - [Case-Based Learning](case-based-learning.md) — a later-development analogue of learning embedded in meaningful, motivating contexts
 - [Use mathematical language during play interactions and everyday routines to move children from behavioral to representational understanding](math-language-in-play-to-representational-understanding.md)
+- [Provide autonomy-supportive outdoor play in nature-rich settings to foster children's creativity](autonomy-supportive-nature-play-creativity.md)
 
 ## Examples
 - **Restaurant scenario:** children create menus, write orders, and calculate bills, reinforcing numeracy and literacy within pretend play; the adult asks, "How much do two soups and a salad cost?"

@@ -52,3 +52,4 @@ Three-level HLM analysis with trust relations as level-1 outcomes, teacher predi
 - [Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)](leadership-instruction-within-schools-program-quality.md) — related
 - [Teacher-reported trust and influence vary sharply between top- and bottom-quartile schools on leadership measures](teacher-trust-influence-quartile-differences.md) — related
 - [ParentCorps improves family engagement measures (Inclusive Leadership, Trust in School Leader, Communication and Trust in Teacher) in a 61-school trial](parentcorps-family-engagement-school-survey.md) — related
+- [Among school-level factors, only principal leadership and school culture correlate positively with CMSE](cmse-school-level-correlates.md) — related

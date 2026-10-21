@@ -51,3 +51,4 @@ Subgroup moderator analysis of the 79 effect quantities across 36 studies (Table
 - [Intervention duration does not significantly predict GenAI writing effect sizes, which the authors attribute to limited temporal diversity in the evidence base](duration-nonsignificant-moderator-genai-writing.md) — related
 - [Scaffolding's effect was highest in project-based learning contexts; design-based learning was the only context not significantly greater than zero](project-based-context-highest-scaffolding-effect.md) — related
 - [Collaborative problem-solving significantly improves students' critical thinking overall (ES = 0.82)](collaborative-problem-solving-improves-critical-thinking-overall.md) — related
+- [Dynamic (adaptive) scaffolding is linked to stronger effects of ICT-supported writing interventions](dynamic-scaffolding-stronger-writing-effects.md) — related

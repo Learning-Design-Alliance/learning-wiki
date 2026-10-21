@@ -49,3 +49,4 @@ The paper reports, citing Deslauriers et al., that "students in active learning 
 - [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](effortless-ai-use-creates-illusion-of-learning.md) — possibly the same claim (merge candidate)
 - [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Qualitative findings: students initially held inaccurate beliefs about strategy efficacy, and high effort from interleaved practice was misinterpreted as a sign of poor learning](effort-misinterpreted-as-poor-learning.md) — related

@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 108 claims (70 show a difference, 25 mixed, 13 no difference) · 70 studies (29 associational, 15 review, 12 causal, 5 qualitative, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 18 of 70 report an effect size · 102 claims rest on one study
+> **Evidence** · 109 claims (70 show a difference, 25 mixed, 14 no difference) · 71 studies (29 associational, 15 review, 13 causal, 5 qualitative, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 18 of 71 report an effect size · 103 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -144,6 +144,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Worry did not explain unique variance in students' test performance or mathematics grade, challenging the worry-based explanation of the test anxiety-performance link](../claims/worry-no-unique-variance-performance.md) [-M] — learners who differ on it differ in outcomes
 - [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](../claims/srl-training-programmes-improve-outcomes.md) [+M] — instruction changes it
 - [Mathematics anxiety shows mixed relations to algebraic thinking across studies](../claims/math-anxiety-mixed-algebra-relations.md) [~M] — learners who differ on it differ in outcomes
+- [Abolishing grades in elementary schools showed no statistically significant effects on achievement, self-concepts, anxiety, joy of learning, well-being, or classroom climate by end of Grade 3, except math interest](../claims/lpf-trial-no-effects-except-math-interest.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

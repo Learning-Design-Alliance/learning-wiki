@@ -69,3 +69,4 @@ The review reports a study comparing outdoor forest schooling one day a week wit
 - [Forest preschool attendance is associated with higher nature connectedness on some measures, with no significant changes in environmentally responsible behaviors](forest-school-nature-connectedness-mixed.md) — related
 - [Outdoor learning in nature significantly increases students' physical activity in most studies, with some null results](outdoor-learning-increases-student-physical-activity.md) — related
 - [Outdoor learning in nature reduces student stress (cortisol decline), but stress-restoration findings are mixed by measure and age](outdoor-learning-reduces-student-stress-cortisol.md) — related
+- [Effects of nature exposure on divergent thinking are mixed: five of eight reviewed studies showed significant effects while others found null or partial effects](divergent-thinking-nature-effects-mixed.md) — related

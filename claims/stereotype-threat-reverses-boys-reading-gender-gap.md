@@ -54,3 +54,4 @@ Controlled experiment in which eighty third-grade students took a reading test a
 - [The gender gap in reading is three times bigger than the gender gap in math](reading-gender-gap-three-times-math-gap.md) — related
 - [Brilliance cues reduce stigmatized students' interest and intrinsic motivation, with effects emerging by age 6–7 and persisting into adulthood](brilliance-cues-reduce-intrinsic-motivation.md) — related
 - [Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype](stereotype-threat-compromises-performance.md) — a broader claim this one bears on
+- [Grading showed differential effects by student group in Swedish quasi-experimental data: low-ability students fared worse when graded, girls better (review-reported)](klapp-differential-grading-effects.md) — related

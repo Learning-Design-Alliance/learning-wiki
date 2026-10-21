@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 71 claims (52 show a difference, 15 mixed, 4 no difference) · 39 studies (12 causal, 11 associational, 9 review, 3 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 10 of 39 report an effect size · 69 claims rest on one study
+> **Evidence** · 75 claims (53 show a difference, 17 mixed, 5 no difference) · 40 studies (12 causal, 11 associational, 10 review, 3 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 10 of 40 report an effect size · 73 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -106,6 +106,10 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Systemic barriers—rigid curricula, limited teacher training, and innate-creativity misconceptions—marginalize creativity in mainstream education](../claims/systemic-barriers-marginalize-creativity.md) [+M] — instruction changes it
 - [Generative AI use shows divergent effects on creativity: weakened creative writing but increased creative problem-solving and idea quality](../claims/generative-ai-creativity-divergent-effects.md) [~M] — instruction changes it
 - [Forest preschool attendance is associated with improvements in creative thinking in preschool children, with only forest-school groups improving on all creative dimensions](../claims/forest-school-improves-preschool-creativity.md) [+M] — instruction changes it
+- [Effects of nature exposure on divergent thinking are mixed: five of eight reviewed studies showed significant effects while others found null or partial effects](../claims/divergent-thinking-nature-effects-mixed.md) [~M] — instruction changes it
+- [Nature exposure at work did not significantly predict employee creativity in a longitudinal study where job autonomy and workload were the significant predictors](../claims/workplace-nature-null-creativity-korpela.md) [-M] — instruction changes it
+- [Qualitative studies identify potential mechanisms linking nature and creativity, including solitude, relaxation, inspiration, and disconnection from technology](../claims/qualitative-mechanisms-nature-creativity.md) [~W] — instruction changes it
+- [Wilderness immersion experiences improve convergent creative thinking, with reported gains including a 50% increase on the RAT after four days in nature](../claims/wilderness-immersion-improves-convergent-creativity.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

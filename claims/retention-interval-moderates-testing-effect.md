@@ -70,3 +70,4 @@ Meta-analytic review of testing versus restudy (159 effect sizes from 61 studies
 - [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](testing-effect-robust-versus-restudy-control.md) — related
 - [Retrieval interval length may moderate the testing effect in mathematics: restricting to intervals over one day raises the effect to g = 0.378 (exploratory).](retrieval-interval-moderator-testing-mathematics.md) — related
+- [Testing effect disappears for a coherent complex text but reappears, as reduced forgetting, when the same sentences are scrambled](testing-effect-disappears-coherent-text-reappears-scrambled.md) — related

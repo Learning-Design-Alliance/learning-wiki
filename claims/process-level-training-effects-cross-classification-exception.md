@@ -59,3 +59,4 @@ Factor-level analysis of the same intervention study (Table 7): Similarity corre
 
 ## Related Claims
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
+- [A review of approximately 80 studies found cognitive training teaching both discrimination and generalization effective for inductive reasoning and problem-solving transfer](cognitive-training-discrimination-generalization-review.md) — related

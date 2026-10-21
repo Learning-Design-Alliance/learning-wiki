@@ -73,3 +73,4 @@ The review reports, citing Yang et al. (2016), that students "significantly prog
 - [Interviewed ADI students reported engaging in scientific practices such as identifying variables, finding patterns in data, and developing methods, while no comparison-group students did](interviews-adi-scientific-thinking-practices.md) — related
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
 - [AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills](ai-ibi-no-significant-gain-critical-problem-solving.md) — related
+- [Wilderness immersion experiences improve convergent creative thinking, with reported gains including a 50% increase on the RAT after four days in nature](wilderness-immersion-improves-convergent-creativity.md) — related

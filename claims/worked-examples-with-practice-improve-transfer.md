@@ -115,3 +115,4 @@ This claim is about sequence design, not mere inclusion. Examples that are never
 - [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](alternating-example-problem-pairs.md) — related
 - [Peer-expert modeling videos interspersed with instructional guidance produce significant medium-to-large positive effects on IPS performance compared to practice-only groups](peer-expert-modeling-improves-ips-performance.md) — a narrower finding that bears on this claim
 - [Combining tracing with imagining (tracing with closed eyes) reduced problem-solving times compared to no tracing and imagining in worked-example mathematics learning](tracing-imagining-combination-reduces-solving-times.md) — related
+- [Presenting primary knowledge first and then secondary knowledge was more efficient in both performance and motivation](primary-first-sequencing-benefits.md) — related

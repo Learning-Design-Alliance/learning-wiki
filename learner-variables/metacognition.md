@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 108 claims (73 show a difference, 22 mixed, 13 no difference) · 79 studies (31 causal, 14 associational, 10 theoretical, 9 review, 7 qualitative, 6 quant-synthesis, 2 design), `q1`–`q4` · 24 of 79 report an effect size · 107 claims rest on one study
+> **Evidence** · 110 claims (74 show a difference, 23 mixed, 13 no difference) · 81 studies (31 causal, 15 associational, 10 review, 10 theoretical, 7 qualitative, 6 quant-synthesis, 2 design), `q1`–`q4` · 26 of 81 report an effect size · 109 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -150,6 +150,8 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Evidence on long-term persistence of self-regulation intervention effects is mixed: no fadeout for metacognitive strategy interventions versus substantial fadeout in higher-quality RCT syntheses](../claims/srl-persistence-fadeout-mixed-evidence.md) [~M] — instruction changes it
 - [GenAI fluency corrupts metacognitive monitoring by producing cognitive ease that is misread as comprehension, weakening the regulation needed to keep offloading beneficial](../claims/metacognitive-trap-genai-fluency.md) [+W] — instruction changes it
 - [Informing learners about the to-be-monitored cue before the problem-solving phase improves self-assessment accuracy compared with informing them only afterwards](../claims/inform-learners-before-problem-solving-improves-accuracy.md) [+M] — instruction changes it
+- [High Overall Engagement and Metacognitive-but-not-Constructive profiles show the highest immediate and delayed knowledge, with metacognitive engagement marking the key difference from lower performers](../claims/high-engagement-metacognitive-profiles-best-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Metacognitive strategy use correlates with comprehension non-monotonically across grades, which the model attributes to unconscious self-regulation in experienced learners](../claims/metacognitive-strategy-correlation-nonmonotonic-grades.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

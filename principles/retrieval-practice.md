@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 89 claims (47 for, 40 mixed, 2 against) · 40 studies (15 causal, 8 quant-synthesis, 8 review, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 12 of 40 report an effect size · 82 claims rest on one study
+> **Evidence** · 93 claims (48 for, 43 mixed, 2 against) · 41 studies (15 causal, 9 review, 8 quant-synthesis, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 12 of 41 report an effect size · 86 claims rest on one study
 
 ## Conditional relationship
 
@@ -96,6 +96,9 @@ Each question below links a general claim that gathers the studies behind it int
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite. Reread 2026-10-15: all sixteen were read against the model and worked into the situation rows and the evidence-and-qualifications section above, with markers capped by each claim's recorded evidence. -->
 None at present. The sixteen restored claims were read on 2026-10-15; the eleven attached by the linker between 2026-10-15 and 2026-10-19 were read on 2026-10-19 and all bear on the model, so each now sits where it informs it: Butler & Roediger (2008) in the multiple-choice and novice rows, the feedback qualification and the feedback decision; Carrier & Pashler (1992) under Observation, state and explanation, as tests of rival explanations; Hays et al. (2010) in a new fixed-time row and the feedback decision; Endres et al. (2020) in the format row and decision; Naujoks et al. (2022) in the classroom row and the settings qualification; Avvisati & Borgonovi (2020) in the transfer row, qualification and decision.
+- [No testing effect was found for acquiring problem-solving skills through worked example study across eight experiments](../claims/testing-effect-absent-worked-example-study.md) [~W] — attached 2026-10-21 from van Gog et al. (2015), which proposed "Consider the complexity of learning materials when deciding between practice testing and further study"; tests this page's relationship.
+- [Testing effect disappears for a coherent complex text but reappears, as reduced forgetting, when the same sentences are scrambled](../claims/testing-effect-disappears-coherent-text-reappears-scrambled.md) [~W] — attached 2026-10-21 from van Gog et al. (2015), which proposed "Consider the complexity of learning materials when deciding between practice testing and further study"; tests this page's relationship.
+- [The advantage of recitation over rereading is greater the less connected the learning material (Kühn 1914; Gates 1917)](../claims/recitation-advantage-decreases-material-connectedness-gates-kuehn.md) [+W] — attached 2026-10-21 from van Gog et al. (2015), which proposed "Consider the complexity of learning materials when deciding between practice testing and further study"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -215,6 +218,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](../claims/retrieval-practice-review-50-classroom-experiments.md) [~W]
 - [Correct-answer feedback alone was insufficient for generalization: significantly worse than lecture in Study 1, with the difference not significant in Study 2](../claims/correct-answer-feedback-insufficient-for-generalization.md) [~W]
 - [The testing effect from frequent retrieval is revealed only on later comprehensive tests, not in performance in other courses](../claims/testing-effect-limited-to-comprehensive-tests.md) [~W]
+- [Restudy of worked examples invested much less mental effort than testing after four examples, but this difference was not replicated with vocational students](../claims/restudy-effort-lower-after-four-examples.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

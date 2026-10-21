@@ -184,3 +184,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Teachers' belief that their students were ready for argumentative writing significantly predicted student growth within the first prompt](teacher-readiness-belief-predicts-first-prompt-growth.md) — a narrower finding that bears on this claim
 - [Field testing the Persuasion across Time and Space unit changed teachers' beliefs about ELL students' capabilities](complex-texts-unit-changed-teacher-beliefs.md) — related
 - [Most studies show social and emotional competencies are positively associated with student engagement and negatively associated with disengagement across school levels and backgrounds](secs-positively-associated-student-engagement.md) — related
+- [Stable Dispositions such as conscientiousness predict academic success partly through effort, with some independence from cognitive ability](stable-dispositions-predict-academic-success-through-effort.md) — related

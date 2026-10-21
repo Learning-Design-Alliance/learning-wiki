@@ -66,3 +66,4 @@ The review reports mixed cognitive-load findings: "hypotheses concerning cogniti
 - [Combining tracing with imagining (tracing with closed eyes) reduced problem-solving times compared to no tracing and imagining in worked-example mathematics learning](tracing-imagining-combination-reduces-solving-times.md) — a narrower finding that bears on this claim
 - [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation](segmenting-effects-confirmed-system-paced.md) — related
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
+- [Pointing and tracing gestures improved retention and comprehension over no gesturing (review attributes this to Macken & Ginns, 2014)](pointing-tracing-gestures-improve-retention-comprehension.md) — a narrower finding that bears on this claim

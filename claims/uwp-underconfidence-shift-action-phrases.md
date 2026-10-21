@@ -49,3 +49,4 @@ Controlled lab experiment with 59 undergraduates learning 36 action phrases over
 - [Enactment impairs resolution of JOLs relative to verbal encoding of action phrases](enactment-impairs-jol-resolution.md) — related
 - [Learners' JOLs are sensitive to the enactment benefit even when encoding type is manipulated between subjects](jols-sensitive-to-enactment-between-subjects.md) — related
 - [Resolution of JOLs increases across study–test cycles, improving between Cycles 1 and 2 but not from Cycle 2 to Cycle 3](jol-resolution-increases-across-cycles.md) — related
+- [Underconfidence-with-practice effect: learners overestimate learning after one study trial but underestimate it after repeated restudying](underconfidence-with-practice-effect-jols.md) — related

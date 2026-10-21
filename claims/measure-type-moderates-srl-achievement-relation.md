@@ -48,3 +48,4 @@ The article cites a meta-analysis by Dent and Koenka (in press) as demonstrating
 - [Heterogeneity between studies of the metacognition–math association is significant and remains high in all moderator analyses](metacognition-math-heterogeneity-high.md) — related
 - [Metacognitive measures show large variability, and online measures relate to each other more than to offline measures](online-offline-metacognitive-measures-dissociate.md) — related
 - [Operationalization of variables, setting, and work-relatedness of the CE activity moderate the relationships between SRL strategies and associated factors](srl-ce-moderators-operationalization-setting-work-relatedness.md) — related
+- [The autonomy support–structure relationship is moderated by data collection method and school level](autonomy-structure-relationship-moderators.md) — related

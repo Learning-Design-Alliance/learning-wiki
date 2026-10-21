@@ -181,6 +181,7 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 - [SIPPS foundational skills reading curriculum](../products/sipps.md)
 - [Structured scope-and-sequence lesson pattern with daily 20-30 minute explicit phonics instruction](../designs/95-pcp-scope-sequence-daily-phonics-pattern.md)
 - [Use systematic, direct phonics instruction delivered one-to-one when teaching decoding to students with intellectual disability](../strategies/systematic-direct-phonics-one-to-one-strategy-id.md)
+- [Combine movement specifically with conditional letter-sounds for children who already master standard sounds](../strategies/combine-movement-with-conditional-letter-sounds.md)
 
 ### Validated
 - Ehri, Nunes, Stahl & Willows (2001) meta-analyzed 38 studies and found systematic phonics instruction significantly outperformed unsystematic or no phonics on word reading, decoding, and comprehension, with the largest effects in kindergarten and first grade [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.3102/00346543071003393) [+S]

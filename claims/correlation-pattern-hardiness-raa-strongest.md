@@ -69,3 +69,4 @@ Correlational analysis of the same survey sample. AI-assisted autonomous learnin
 - [Educators report affective costs of AI-related grading, including derealisation, exhaustion, and burnout](educator-affective-toll-ai-grading.md) — related
 - [Exhaustion is significantly negatively related to academic achievement (rc+ = −.15)](exhaustion-negative-achievement.md) — related
 - [Reduced efficacy shows the largest negative correlation with academic achievement (rc+ = −.39)](reduced-efficacy-largest-negative-achievement.md) — related
+- [Teacher burnout dimensions show the strongest correlations with CMSE among teacher-level psychometric constructs](cmse-teacher-burnout-strongest-teacher-level-correlate.md) — related

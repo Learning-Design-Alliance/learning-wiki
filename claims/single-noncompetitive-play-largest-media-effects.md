@@ -68,3 +68,4 @@ Sensitivity re-estimation controlling for visual realism, anthropomorphism, vari
 - [Playing games in a variety of modes (local and online multiplayer; cooperative and team-based) is associated with higher adaptability and communication scores](variety-of-play-modes-higher-adaptability.md)
 - [Multi-session game conditions outperform nongame conditions while single-session games do not, though total play duration shows no association with effect size](multiple-sessions-benefit-single-session-null.md) — related
 - [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](multiple-sessions-moderator-games.md) — related
+- [Digital game-based ICT was associated with significantly smaller effects on writing quality, but the finding rests on a single study](digital-games-smaller-writing-effects-single-study.md) — related

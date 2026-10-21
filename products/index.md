@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1845 entries** · 0 stable · 1845 in review · 0 drafts
+**1848 entries** · 0 stable · 1848 in review · 0 drafts
 
 ---
 
@@ -466,6 +466,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [EarthTime](earthtime.md) - EarthTime is an interactive geospatial data-visualization platform developed and maintained by CREATE Lab at Carnegie Mellon University for exploring large datasets through maps and time-lapse imagery.
 * [East Alabama Regional Cybersecurity Alliance (EARCA)](east-alabama-regional-cybersecurity-alliance-earca.md) - A regional alliance run by partner school districts, industry, and postsecondary organizations in Alabama Workforce Region 2 to expand rural cybersecurity education, workforce preparation, and career opportunities.
 * [ECED](eced.md) - Every Classroom, Every Day (ECED) is a two-year stand-alone high-school literacy and mathematics curriculum programme using Reading Matters, Writing Matters, and Power 10 strategies.
+* [eChemBook digital chemistry textbook for the particle model of matter](echembook-digital-chemistry-textbook-for-the-particle-model-of-matter.md) - A publisher-scientist-developed interactive digital chemistry textbook with learning units, multimedia, activities, summaries, nonlinear navigation, and activity logging for teaching the particle model of matter.
 * [ECNUClaw](ecnuclaw.md) - An open-source Python framework developed by Yizhou Zhou et al.
 * [ECoach](ecoach.md) - ECoach is a web-based student-success coaching platform developed and operated by the University of Michigan to provide course-specific guidance, feedback, progress tracking, and study-support tools.
 * [Ecree automated writing feedback tool](ecree-automated-writing-feedback-tool.md) - Ecree is an automated writing-feedback software tool used by teachers and students to support writing instruction and revision in classroom settings.
@@ -1057,6 +1058,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Morphology+](morphology.md) - IMSE's Morphology+ is a structured literacy curriculum and educator-training program developed by the Institute for Multisensory Education for grades 3–5 morphology, vocabulary, and comprehension instruction.
 * [MotiBo](motibo.md) - MotiBo is an interactive digital storytelling system designed by Fung et al.
 * [Motivated Strategies for Learning Questionnaire (MSLQ)](motivated-strategies-for-learning-questionnaire-mslq.md) - The MSLQ is Pintrich and colleagues' self-report assessment of students' motivation and learning-strategy use, comprising motivation and self-regulated-learning scales for college and high-school learners.
+* [Motivation and Engagement Scale (MES)](motivation-and-engagement-scale-mes.md) - A 44-item self-report assessment developed by Andrew J.
 * [Motivation for Incidental Vocabulary Learning Scale (MIVLS), Incidental Vocabulary Learning Anxiety Scale (IVLAS), and Mastery of Incidental Vocabulary Learning Strategies Scale (MIVLSS)](motivation-for-incidental-vocabulary-learning-scale-mivls-incidental-vocabulary-learning-a.md) - A set of three Zhao et al.
 * [Motivational Framework for Culturally Responsive Teaching (MFCRT)](motivational-framework-for-culturally-responsive-teaching-mfcrt.md) - A framework developed by Wlodkowski and Ginsberg for designing culturally responsive instruction through the motivational conditions of inclusion, attitude, meaning, and competence.
 * [MPathic-VR virtual human conversation simulation](mpathic-vr-virtual-human-conversation-simulation.md) - MPathic-VR is a computer-based virtual-human conversation simulation for healthcare learners, developed for practicing and assessing advanced intercultural and interprofessional communication skills.
@@ -1652,6 +1654,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Teach For America Summer Training Institute](teach-for-america-summer-training-institute.md) - A branded 5- to 7-week teacher-preparation programme run by Teach For America in which corps members teach summer school under supervision while receiving coaching, feedback, and coursework.
 * [TEACHARENA benchmark](teacharena-benchmark.md) - A source-grounded benchmark and evaluation harness created by Zixin Chen et al.
 * [TeachBench knowledge-structured benchmark](teachbench-knowledge-structured-benchmark.md) - A benchmark dataset developed by Zheng Li et al.
+* [Teacher as Social Context Questionnaire (TASC) and Situations in School Questionnaire (SIS)](teacher-as-social-context-questionnaire-tasc-and-situations-in-school-questionnaire-sis.md) - The TASC and SIS are questionnaire-based assessment instruments used to measure students' or teachers' perceptions of teacher autonomy support, structure, involvement, control, and chaos in K–12 and post-secondary educational settings.
 * [Teacher Assessment of College-going Climate measure](teacher-assessment-of-college-going-climate-measure.md) - A school-level survey-based measure developed by Roderick et al.
 * [Teacher Incentive Fund](teacher-incentive-fund.md) - A U.S.
 * [Teacher Moments](teacher-moments.md) - Teacher Moments is a free, openly licensed digital teaching-simulation platform developed by the MIT Teaching Systems Lab for immersive, scenario-based practice in teaching decisions.

@@ -54,3 +54,5 @@ Theoretical argument from the review's abstract, presented as the third of four 
 - [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related
 - [Mathematics education literature uses the terms concrete and abstract with multiple distinct meanings](concrete-abstract-polysemy-in-literature.md) — related
 - [Disagreements about concreteness and abstraction in mathematics education may be verbal disputes rooted in word meaning](verbal-disputes-concreteness-abstraction.md) — related
+- [Concreteness fading may not be as broadly generalizable across mathematics and natural science domains as has been suggested](concreteness-fading-limited-domain-generalizability.md) — related
+- [Physics studies show no clear-cut advantage for concreteness fading, with some results favoring concrete-only or reversed (concreteness introduction) sequences](physics-concreteness-fading-no-clear-advantage.md) — related

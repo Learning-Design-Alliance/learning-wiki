@@ -51,3 +51,4 @@ Conceptual-theoretical argument, not an empirical result. The paper distinguishe
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
 - [Assessment shifts from the quality of AI-generated text to articulating tasks, justifying prompt choices, and reflexively evaluating AI behaviour](assessment-shift-task-articulation-over-text-quality.md) — a narrower finding that bears on this claim
+- [Learners given appropriate materials and prompts can successfully develop, articulate, and elaborate rich epistemic ideals for good models and good sources](learners-develop-elaborate-epistemic-ideals.md) — related

@@ -49,3 +49,4 @@ Scoping review synthesis of actions toward groups, mostly from student perspecti
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — related
 - [Group A's brainstorming was repeatedly unproductive because individual interjections redirected the group's dialogue toward personal concerns](group-a-unproductive-brainstorming-personal-drift.md) — related
+- [Interpersonal relationships are framed as supports for motivation at school](interpersonal-relationships-support-school-motivation.md) — related

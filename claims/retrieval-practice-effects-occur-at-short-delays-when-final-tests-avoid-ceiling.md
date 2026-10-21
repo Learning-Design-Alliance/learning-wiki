@@ -76,3 +76,4 @@ The chapter's own methodological argument: because restudy reexposes the whole s
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — related
 - [The retrieval benefit occurs at the level of individual items, not through general practice at retrieval](retrieval-benefit-item-level.md) — a narrower finding that bears on this claim
 - [Retrieval interval length may moderate the testing effect in mathematics: restricting to intervals over one day raises the effect to g = 0.378 (exploratory).](retrieval-interval-moderator-testing-mathematics.md) — related
+- [Testing effect disappears for a coherent complex text but reappears, as reduced forgetting, when the same sentences are scrambled](testing-effect-disappears-coherent-text-reappears-scrambled.md) — related

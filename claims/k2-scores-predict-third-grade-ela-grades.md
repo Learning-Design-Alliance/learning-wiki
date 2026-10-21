@@ -49,3 +49,4 @@ Predictive analysis of Chicago data using teacher-assigned literacy-standard gra
 - [CCM-estimated skill profiles showed minor positive correlations with external pre- and post-test scores, ranging from .018 to .495](ccm-external-validation-correlations-pre-post-tests.md) — related
 - [Students with higher spring reading assessment scores in kindergarten through grade 3 also had higher KEI and grade 3 PSSA ELA scores](spring-reading-assessments-align-kei-pssa.md) — related
 - [Kindergarten entry scores predict grade 3 reading proficiency: Philadelphia kindergarteners with higher KEI scores in 2014/15 had higher grade 3 PSSA ELA scores](higher-kei-scores-predict-higher-grade3-ela-pssa.md) — related
+- [Teacher-assigned grades show moderate-to-strong correlations with external performance measures and predict long-term outcomes (review-reported)](grades-correlate-external-measures-review.md) — related
