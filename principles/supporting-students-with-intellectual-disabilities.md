@@ -13,7 +13,7 @@ generated:
 # Supporting Students with Intellectual Disabilities
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (11 for, 3 mixed) · 22 studies (10 quant-synthesis, 5 causal, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 22 report an effect size · 7 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 23 studies (10 quant-synthesis, 6 review, 5 causal, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 23 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,10 @@ For example, a 16-year-old student with an intellectual disability may want to g
 The expectation should weaken if comparisons with students with intellectual disabilities show that age-appropriate targets broken into steps do no better than simplified younger-age materials on unaided performance in the real setting, or that gains at the end of a unit disappear within weeks. If functional framing slows academic learning without improving daily-life performance, it is a choice of goal and not an accelerator. If full participation in class activities does not change participation skills or peer relationships compared with partial participation, that move is a value commitment and not an evidence-based one (it may still be right for other reasons). If the student-voice moves do not outperform usual instruction, as the one trial of the self-determined learning model suggests, they should be kept for the student's right to a say, not for a predicted gain.
 
 Assisted success in practice, unaided performance in class, performance in the real setting, retention over weeks, participation and self-determination are separate claims. The present evidence establishes no practice dose, no step size and no criterion for moving on for students with intellectual disabilities.
+
+## Claims
+
+- [Whole-class inclusive strategies were recommended and common, but some differentiation and extra-support practices created unhelpful divisions](../claims/whole-class-approach-unhelpful-divisions.md) [~W]
 
 ## Related Principles
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — intellectual disability classification depends on IQ scores read alongside adaptive functioning, precisely because IQ alone is an incomplete measure

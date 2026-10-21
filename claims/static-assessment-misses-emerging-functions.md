@@ -51,7 +51,7 @@ Theoretical argument in this review paper, attributed to Vygotsky, that static i
 - [Interactionist DA mediation in SCMC reveals learners' microgenetic movement through internalization levels within the ZPD](scmc-da-mediation-reveals-microgenetic-development.md) — a narrower finding that bears on this claim
 - [Learning pitched at the edge of students' current abilities — the ZPD — is more effective than learning that is too easy or too frustrating](zpd-edge-learning-english-learners.md) — related
 - [Dynamic assessment reflects young children's learning potential more accurately than static tests, especially with minority and learning disabled children](da-more-accurate-than-static-tests-young-children.md) — related
-- [Sociocultural theory emerged from the Russian Revolution, and English translations systematically deleted its Marxist references](sociocultural-theory-marxist-origins-deleted-translations.md) — related
+- Sociocultural theory emerged from the Russian Revolution, and English translations systematically deleted its Marxist references — related
 - [Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's non-dynamic feedback does not capture](dialang-cefr-levels-miss-zpd-differences.md) — a narrower finding that bears on this claim
 - [Dynamic assessment is useful for assessing outcome effects of cognitive education programs aimed at learning-how-to-learn skills](da-assesses-cognitive-education-program-outcomes.md) — a narrower finding that bears on this claim
 - [The appropriate unit of analysis for studying learning is goal-directed, tool-mediated activity, with training sessions treated as the theoretically compelling period in which learning occurs](unit-of-analysis-tool-mediated-activity.md) — related

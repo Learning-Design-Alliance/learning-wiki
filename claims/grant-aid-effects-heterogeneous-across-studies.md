@@ -48,4 +48,4 @@ Heterogeneity statistics reported in the Results for the on-time completion outc
 - [Grant aid increases postsecondary persistence, raising within-year persistence by 3.2 and year-to-year persistence by 1.8 percentage points in U.S. causal studies](grant-aid-increases-postsecondary-persistence.md) — related
 - [Need-based grant aid improves persistence and completion while merit-only aid shows no detectable effect on these outcomes](need-based-aid-effective-merit-only-not.md) — related
 - [An additional $1,000 of grant aid improves year-to-year persistence by a statistically significant 1.2 percentage points, with smaller statistically insignificant effects on degree completion](thousand-dollars-aid-persistence-dose.md) — related
-- [Funnel-plot analysis finds no evidence of missing small-effect studies, though asymmetry from few negative estimates suggests possible small bias against null-negative results](publication-bias-grant-aid-meta-analysis.md) — related
+- Funnel-plot analysis finds no evidence of missing small-effect studies, though asymmetry from few negative estimates suggests possible small bias against null-negative results — related

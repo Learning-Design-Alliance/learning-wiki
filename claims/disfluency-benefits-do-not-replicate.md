@@ -44,7 +44,6 @@ The authors' synthesis of the six special-issue studies, which collectively exam
 
 ## Related Claims
 
-- [Disfluency is not clearly defined across the literature, hindering replication and precise measurement](disfluency-definition-problem.md)
 - [Any positive effects of responding to disfluency are most likely to appear on later perceptual tasks, not content recall](disfluency-transfer-to-perceptual-tasks.md) — related
 - [Disfluency increased study times without improving performance, suggesting time was spent deciphering text rather than processing contents more deeply](disfluency-study-time-decoding-not-deeper.md) — related
 - [In a pre-registered direct replication (N = 96), the disfluency × WMC interaction did not significantly predict retention, failing to replicate Lehmann et al. (2016)](replication-null-wmc-disfluency-interaction-retention.md) — related

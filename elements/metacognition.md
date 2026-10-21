@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 4 mixed) · 16 studies (6 quant-synthesis, 5 causal, 2 review, 2 associational, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (6 for, 3 mixed) · 15 studies (6 quant-synthesis, 5 causal, 2 review, 2 associational), `q2`–`q4` · 6 of 15 report an effect size · 3 claims rest on one study
 
 ## Description
 Metacognition is the element in which learners monitor, explain, and regulate their own thinking.
@@ -28,7 +28,6 @@ Metacognition is the element in which learners monitor, explain, and regulate th
 - [Metacognitive Strategies Improve Learning](../claims/metacognitive-strategies-improve-learning.md) [+S]
 - [Learners misjudge which learning strategies are effective](../claims/learners-misjudge-effective-learning-strategies.md) [+M]
 - [Prior Knowledge Needed For Accurate Self Assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [+M]
-- [Distinguishing metacognitive knowledge from skills, and metacognition from self-regulated learning, is an unresolved field-wide issue](../claims/metacognition-knowledge-skills-distinction-unresolved.md) [~W]
 - [Related decorative pictures improve metacognitive monitoring accuracy for knowledge items in eighth-graders (Experiment 2), but not for transfer items](../claims/related-pictures-improve-metacognitive-monitoring-exp2.md) [~W]
 - [Completing the think sheet more accurately was associated with higher comprehension, transfer, and regulation decision adequacy](../claims/think-sheet-quality-relates-outcomes.md) [+W]
 - [Sixth-graders' own monitoring accuracy is low and does not differ between no-cue, keyword, and summary cue-prompt conditions (Experiment 1).](../claims/student-monitoring-accuracy-low-no-cue-prompt-effect-exp1.md) [~W]

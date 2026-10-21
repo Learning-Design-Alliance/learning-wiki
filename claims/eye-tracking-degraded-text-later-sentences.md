@@ -43,6 +43,6 @@ Strukelj, Scheiter, Nystrom, and Holmqvist used eye tracking to measure how lear
 
 
 ## Related Claims
-- [Disfluency is not clearly defined across the literature, hindering replication and precise measurement](disfluency-definition-problem.md) — a broader claim this one bears on
+- Disfluency is not clearly defined across the literature, hindering replication and precise measurement — a broader claim this one bears on
 - [Any positive effects of responding to disfluency are most likely to appear on later perceptual tasks, not content recall](disfluency-transfer-to-perceptual-tasks.md) — related
 - [Working memory capacity moderated disfluency effects in one study but not another](wmc-moderates-disfluency-mixed.md) — related

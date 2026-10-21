@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 73 claims (35 for, 32 mixed, 6 against) · 74 studies (24 review, 20 causal, 8 qualitative, 8 theoretical, 5 associational, 5 design, 4 quant-synthesis), `q1`–`q4` · 7 of 74 report an effect size · 68 claims rest on one study
+> **Evidence** · 74 claims (36 for, 32 mixed, 6 against) · 75 studies (25 review, 20 causal, 8 qualitative, 8 theoretical, 5 associational, 5 design, 4 quant-synthesis), `q1`–`q4` · 7 of 75 report an effect size · 69 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,6 +180,10 @@ For example, a child learning to request with an AAC system may value being unde
 The expectation should weaken if experiments that hold content and final assessment constant find personalized paths no better than a fixed sequence on delayed or transfer outcomes, or if the time saving in the one path experiment here does not replicate beyond one topic and one session. If learner-named contexts do not raise interest or achievement more than standard contexts in randomized comparisons, step 6 should be dropped to a motivational option. If preference-matched AAC systems are not acquired or maintained better than non-preferred ones, preference assessment becomes a matter of the child's voice rather than learning. If school-level personalization stays near +0.1 SD even with full implementation, the model's gains belong to the tutoring and diagnosis, not to personalization as a program. Do not protect the model by calling every null result "not personalized enough" after the fact.
 
 Engagement, immediate achievement on an aligned test, time saved, delayed retention and the outcome a learner values are separate claims. The present evidence sets no number of options, no diagnostic length and no pace threshold.
+
+## Claims
+
+- [Teachers in African mainstream classrooms responded to diverse learner needs through curriculum and task adaptations and individualized instruction](../claims/teachers-adapt-curriculum-tasks-individualized-instruction-africa.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

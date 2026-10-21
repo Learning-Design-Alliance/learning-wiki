@@ -63,6 +63,6 @@ The authors' own review of scaffolding frameworks: an examination of 14 publishe
 
 ## Related Claims
 - [The field moved toward step-based problem solving and increased support for collaboration, while focusing on domain-level knowledge](aied-step-based-domain-focus-collaboration-growth.md) — related
-- [Most theorized individual difference constructs have been examined in sourcing research, but several motivation and personality constructs remain unstudied](individual-difference-constructs-examined-sourcing.md) — related
+- Most theorized individual difference constructs have been examined in sourcing research, but several motivation and personality constructs remain unstudied — related
 - [Mainstream motivation theories have extended toward identity and culture but keep explanatory constructs within individuals](mainstream-motivation-theories-individual-constructs.md) — related
-- [Integrated multimodal SRL studies are increasing, but motivational and affective processes remain underrepresented and temporal alignment of data streams is rarely done](integrated-multimodal-srl-studies-affect-motivation-underrepresented.md) — related
+- Integrated multimodal SRL studies are increasing, but motivational and affective processes remain underrepresented and temporal alignment of data streams is rarely done — related

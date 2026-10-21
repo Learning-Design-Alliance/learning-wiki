@@ -46,6 +46,7 @@ A methodology developed in the Canadian context, formalized by Albert and Murden
 ## Examples
 
 - [Invite local Elders into classrooms as co-teachers of Indigenous Knowledge](../strategies/invite-local-elders-as-co-teachers.md)
+- [Base inclusive-strategy training on indigenous pedagogies and enable use of advanced evidence-based techniques](../strategies/indigenous-pedagogy-training-inclusive-strategies.md)
 
 ## Key Sources
 - Acharibasam, J. B., & McVittie, J. (2021). The use of a two-eyed seeing approach to include Indigenous Knowledge in Early Childhood Care and Development in Ghana. International Education Journal: Comparative Perspectives, 20(1). https://eric.ed.gov/?id=EJ1329976

@@ -47,6 +47,6 @@ Timeline-aligned comparison across the three channels for all 25 participants us
 - [Adding eye-tracking data corrects inflated Organisation durations and re-distributes First-reading time relative to both other channels](eye-tracking-corrects-organisation-durations.md)
 - [Adding peripheral data to navigational logs sharply changes the detected distribution of SRL processes, revealing many more Organisation and far fewer First-reading processes](peripheral-data-changes-srl-process-distribution.md)
 - [Eye-tracking data enables detection of more frequent Monitoring and Evaluation processes that navigational and peripheral channels miss](eye-tracking-detects-monitoring-evaluation.md) — a narrower finding that bears on this claim
-- [Only with eye-tracking data does Monitoring appear as an intermediate process linking most other SRL processes in the process map](eye-tracking-reveals-monitoring-intermediate.md) — a narrower finding that bears on this claim
+- Only with eye-tracking data does Monitoring appear as an intermediate process linking most other SRL processes in the process map — a narrower finding that bears on this claim
 - [Adding peripheral data raises specific transition probabilities in the SRL process map, e.g., Elaboration-to-Monitoring from 24% to 44%](transition-probabilities-increase-with-channels.md) — related
 - [Most refinements from adding peripheral data convert First-reading or Re-reading into Organisation, and eye-tracking then corrects many back to First-reading](refined-processes-reading-to-organisation.md) — related

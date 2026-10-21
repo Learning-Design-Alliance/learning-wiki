@@ -45,4 +45,4 @@ Level-1 content analysis of the 43 most-used measures. The two subscales are "Yo
 ## Related Claims
 - [Nearly all (90.7%) of the most-used school climate measures include subscales conceptually related to SEL support, covering 55.04% of all subscales](sel-related-subscale-prevalence-school-climate.md) — related
 - [About 6% of items in the most-used measures operationalize students' social and emotional skills, appearing in 58.14% of measures](sel-skills-items-in-school-climate-measures.md) — related
-- [School climate measurement shows a proliferation of instruments, with 965 studies using 404 different measures, two thirds of which are used only once](school-climate-measure-proliferation-404-instruments.md) — related
+- School climate measurement shows a proliferation of instruments, with 965 studies using 404 different measures, two thirds of which are used only once — related

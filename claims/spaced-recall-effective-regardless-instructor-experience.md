@@ -44,5 +44,4 @@ Two-way ANOVA (treatment/control by instructor) on retention index in the USMAPS
 
 ## Related Claims
 
-- [Study lead instructors did not differ from non-study-lead instructors in student retention performance](no-study-lead-bias-in-student-performance.md)
 - [Weekly spaced recall quizzes on fundamental concepts significantly improve 6-month retention of those concepts in a precalculus course](spaced-recall-quizzes-improve-long-term-retention-fundamental-math-concepts.md) — related

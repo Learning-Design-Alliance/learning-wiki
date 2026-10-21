@@ -46,6 +46,7 @@ The authors close by pointing the field toward further work: "We discuss the fin
 
 - [Pursue SCT-L2 research on L2 as a psychological tool, the teaching-learning dialectic, Dynamic Assessment, and comparative theory work](sct-l2-research-avenues-strategy.md)
 - [Future AI-WTC research should use longitudinal designs, triangulated WTC measures, diverse samples, comparative tool research, pedagogically guided AI integration, and theory-driven models](ai-wtc-future-research-directions.md)
+- [Direct future RALL research toward the directions the review identifies for social robots in language education](rall-future-research-directions.md)
 
 ## Examples
 -

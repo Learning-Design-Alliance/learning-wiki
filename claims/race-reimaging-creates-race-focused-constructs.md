@@ -46,4 +46,4 @@ This is the authors' theoretical argument about the relationship between the two
 - [Pre-service teachers with higher color-blind racial ideology scores had difficulties regulating emotions in racial situations](color-blind-ideology-emotion-regulation-difficulties.md) — related
 - [Racialized emotions are a race-focused construct educational psychologists have yet to explicate in teaching and learning](racialized-emotions-unexplored-construct.md) — a narrower finding that bears on this claim
 - [School racial climate subscales showed positive relationships with motivational constructs including interest, belonging, and utility value](school-racial-climate-positive-motivational-relationships.md) — a narrower finding that bears on this claim
-- [Only 1.3% of articles in top-tier educational psychology journals focused on race](edpsych-journals-1-3-percent-race-articles.md) — related
+- Only 1.3% of articles in top-tier educational psychology journals focused on race — related

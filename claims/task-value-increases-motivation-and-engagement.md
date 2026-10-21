@@ -179,7 +179,7 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Students with positive perceptions of the instrumentality of schoolwork for future goals are more motivated, use more effective learning strategies, and perform better in school](positive-instrumentality-enhances-motivation-learning.md) — a narrower finding that bears on this claim
 - [Expectancies for success predict academic achievement more strongly than task values](expectancy-success-predicts-achievement.md) — related
 - [The teacher behaviours most predictive of engagement change do not neatly fit within any single motivational theory, supporting theoretical integration](influential-behaviours-span-multiple-motivational-theories.md) — related
-- [Attitude is the most frequently measured motivation construct in K‑5 writing‑motivation self‑report studies, within the interest‑and‑value component](attitude-most-measured-writing-motivation-construct.md) — related
+- Attitude is the most frequently measured motivation construct in K‑5 writing‑motivation self‑report studies, within the interest‑and‑value component — related
 - [Daily SR of students is positively associated with their perceived daily academic success at the within-person level](daily-sr-within-person-academic-success.md) — a narrower finding that bears on this claim
 - [Motivational processes are proposed to be instrumental for essential as well as generative processing](motivation-essential-processing-claim.md) — a broader claim this one bears on
 - [Students in active learning environments learned more but felt they learned less, mistaking mental effort for failure](active-learning-felt-learning-paradox.md) — related

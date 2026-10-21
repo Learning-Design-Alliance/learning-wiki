@@ -12,7 +12,7 @@ generated:
 # Triangulated three-method analysis of collaborative problem-solving enactment
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article develops a triangulated analysis method combining three equally valued approaches to understand CPS at group level: "(a) directed content analysis of the actualized CPS in groups, (b) process analysis and visualizations, and (c) qualitative cases". All analyses rest on video recordings of co-located group sessions. Content analysis provides cumulative frequency accounts, process analysis adds the temporal order and intensity of social and cognitive states, and qualitative cases return attention to micro-interaction processes. The authors argue this produces "a unified depiction in understanding CPS in this context" and divergent ways to understand CPS.
@@ -24,7 +24,6 @@ The article develops a triangulated analysis method combining three equally valu
 ### Claims
 
 - [Frequency-based content analysis shows little variation in how CPS was actualized across groups and tasks, with Problem Reanalysis the most frequent sub-element in both task designs](../claims/content-analysis-little-variation-problem-reanalysis-most-frequent.md) [+W]
-- [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](../claims/process-analysis-temporal-differences-groups-tasks.md) [+W]
 
 ## Related Research Methods
 

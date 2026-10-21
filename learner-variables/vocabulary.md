@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 78 claims (58 show a difference, 10 mixed, 10 no difference) · 58 studies (19 causal, 18 associational, 13 quant-synthesis, 5 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 17 of 58 report an effect size · 75 claims rest on one study
+> **Evidence** · 79 claims (59 show a difference, 10 mixed, 10 no difference) · 59 studies (19 causal, 18 associational, 13 quant-synthesis, 6 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 17 of 59 report an effect size · 76 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -119,6 +119,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [The association between family SES and children's reading is partially mediated, statistically, in parallel by phonological awareness and vocabulary knowledge](../claims/ses-reading-partial-parallel-mediation-linguistic-skills.md) [+M] — learners who differ on it differ in outcomes
 - [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](../claims/longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) [+M] — learners who differ on it differ in outcomes
 - [Explicit instruction in individual English word meanings, rich in-depth vocabulary instruction, visuals, L1 use, and word-learning strategies improved MLs' English vocabulary](../claims/vocabulary-instruction-practices-improve-ml-english-vocabulary.md) [+M] — instruction changes it
+- [RALL studies report learning gains when social robots are used to teach vocabulary, reading skills, speaking skills, grammar, and sign language](../claims/rall-learning-gains-five-language-domains.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

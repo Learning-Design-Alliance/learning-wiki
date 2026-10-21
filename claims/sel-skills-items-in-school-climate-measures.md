@@ -44,6 +44,6 @@ Level-2 item-level content analysis of the 43 most-used measures. Examples inclu
 
 ## Related Claims
 - [Only 4.65% of the 43 most-used school climate measures include an explicitly SEL-oriented subscale](few-school-climate-measures-explicit-sel-subscale.md) — related
-- [School climate measurement shows a proliferation of instruments, with 965 studies using 404 different measures, two thirds of which are used only once](school-climate-measure-proliferation-404-instruments.md) — related
+- School climate measurement shows a proliferation of instruments, with 965 studies using 404 different measures, two thirds of which are used only once — related
 - [Nearly all (90.7%) of the most-used school climate measures include subscales conceptually related to SEL support, covering 55.04% of all subscales](sel-related-subscale-prevalence-school-climate.md) — related
 - [Prominent quantitative measures of belonging focus overwhelmingly on social connectedness and general fit, with only 1 of 70 items assessing resource fit](belonging-measures-focus-social-fit-content-analysis.md) — related

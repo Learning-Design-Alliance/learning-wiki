@@ -57,3 +57,4 @@ Final multiple regression analyses (Table 6) entered all ten neuropsychological 
 - [Verbal STM/WM and several executive and sensorimotor measures show no robust relation with math in children with normal reading skill](no-relation-verbal-memory-executive-math.md) — related
 - [Full-scale IQ predicts reading comprehension more strongly than word reading, and working memory and processing speed remain significant predictors after IQ is controlled](iq-predicts-comprehension-more-than-word-reading.md) — related
 - [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — related
+- [Working-memory task type moderates MLD deficits: processing speed and updating yield larger effects than inhibition, independent of numerical content](wm-task-type-moderates-mld-deficit.md) — related

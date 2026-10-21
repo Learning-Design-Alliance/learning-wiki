@@ -48,4 +48,4 @@ The editorial authors, synthesizing recent reviews of teacher emotion research, 
 - [Emotional rules in workplaces can stifle veteran mathematics teachers' epistemic and relational agency and thus their ability to learn](emotional-rules-stifle-teacher-agency.md)
 - [Epistemic empathy, an affective phenomenon, dovetails with science teachers' learning of responsive teaching](epistemic-empathy-dovetails-responsive-teaching.md)
 - [Racialized emotions are a race-focused construct educational psychologists have yet to explicate in teaching and learning](racialized-emotions-unexplored-construct.md) — related
-- [Integrated multimodal SRL studies are increasing, but motivational and affective processes remain underrepresented and temporal alignment of data streams is rarely done](integrated-multimodal-srl-studies-affect-motivation-underrepresented.md) — related
+- Integrated multimodal SRL studies are increasing, but motivational and affective processes remain underrepresented and temporal alignment of data streams is rarely done — related

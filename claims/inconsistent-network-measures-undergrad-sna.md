@@ -61,7 +61,7 @@ The review reports a common practice of comparing operationalizations: studies "
 
 
 ## Related Claims
-- [Sociometric designs dominate undergraduate SNA studies, with egocentric designs less common and latent networks a small distinct category](sociometric-dominance-undergrad-sna.md) — related
+- Sociometric designs dominate undergraduate SNA studies, with egocentric designs less common and latent networks a small distinct category — related
 - [Prior SNA studies of centrality-achievement links in CSCL show inconsistent, mostly small-sample results, with betweenness and closeness the most inconsistent measures](traditional-centralities-inconsistent-literature.md) — related
-- [Undergraduate SNA studies generally lack integration of network theory, positioning it as a future direction](lack-network-theory-integration.md) — related
+- Undergraduate SNA studies generally lack integration of network theory, positioning it as a future direction — related
 - [Evidence that classroom network structure relates to course outcomes under interactive pedagogies is mixed](mixed-evidence-network-density-course-outcomes.md) — a narrower finding that bears on this claim

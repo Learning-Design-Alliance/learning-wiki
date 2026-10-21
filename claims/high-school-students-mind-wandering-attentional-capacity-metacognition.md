@@ -48,4 +48,4 @@ The review reports, citing Preiss et al. (2019), that "high school students are 
 - [Metacognition may limit creativity during the generative stage but facilitate it during the exploratory stage](metacognition-dual-impact-generative-exploratory-stages.md) — related
 - [Mind wandering episodes during incubation are correlated with individuals' ability to solve creative problems](mind-wandering-incubation-correlated-creative-problem-solving.md) — related
 - [Mind wandering can both prompt SRL and function as a regulatory strategy, and multimodal machine-learning sensing offers scalable assessment of attentive states](mind-wandering-dual-role-srl-regulatory-strategy.md) — related
-- [Among 134 reviewed studies, a significant number examined mind wandering alongside cognitive and metacognitive SRL processes, predominantly using self-report measures](mw-studies-cognitive-metacognitive-self-report.md) — related
+- Among 134 reviewed studies, a significant number examined mind wandering alongside cognitive and metacognitive SRL processes, predominantly using self-report measures — related

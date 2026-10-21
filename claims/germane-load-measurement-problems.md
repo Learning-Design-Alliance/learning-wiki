@@ -63,7 +63,7 @@ Narrative account of the Klepsch et al. (2017) validation using informed and na�
 
 ## Related Claims
 - [Subjective cognitive load questionnaires show satisfactory internal consistency across the four most frequently used instruments in experimental multimedia learning research](cognitive-load-questionnaires-satisfactory-internal-consistency.md) — related
-- [Correlations of cognitive load types with learning outcomes and prior knowledge support CLT assumptions, and results support the three-factor model](criterion-validity-supports-three-factor-model.md) — reports the opposite
+- Correlations of cognitive load types with learning outcomes and prior knowledge support CLT assumptions, and results support the three-factor model — reports the opposite
 - [Self-reported germane cognitive load correlates positively with interest (QCM) among college students solving algebra problems](germane-cognitive-load-correlates-positively-with-interest.md) — related
 - [Correlations among cognitive load types partially contradict theory-based assumptions of the additivity hypothesis](load-type-correlations-partially-contradict-clt.md) — related
 - [GCL-raising activations did not improve learning outcomes: neither prompted imagination nor disfluency produced a significant task-performance advantage](gcl-activation-no-task-performance-effect.md) — related

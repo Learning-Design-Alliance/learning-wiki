@@ -47,5 +47,5 @@ Descriptive synthesis across the 289 included studies in the evidence and gap ma
 - [High-proficiency EFL learners use more metacognitive strategies, effort regulation, and coping with problems than low-proficiency learners](high-proficiency-learners-use-more-strategies.md) — related
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
-- [Most studies provide an explicit definition of motivation regulation, and most definitions describe complex action programs such as strategies](motivation-regulation-definitions-explicit-and-action-program-based.md) — related
+- Most studies provide an explicit definition of motivation regulation, and most definitions describe complex action programs such as strategies — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related

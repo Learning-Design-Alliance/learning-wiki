@@ -51,3 +51,4 @@ Secondary qualitative finding from the gateway math faculty and student study. T
 - [Students struggle to manage math assignments alongside busy schedules, and faculty need efficient grading, due-date, and extension tools](task-time-management-gateway-math.md) — related
 - [AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics](ai-pbl-assessment-underdeveloped-gap.md) — related
 - [Instructors widely relaxed deadlines and adjusted grading to accommodate pandemic circumstances, while balancing compassion with academic rigor](instructors-flexible-deadlines-grading-covid.md) — related
+- [Large class sizes of 40 to 80 children limited teachers' ability to provide individualized support](large-class-sizes-barrier-individualized-support.md) — related

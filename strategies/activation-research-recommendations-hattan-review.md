@@ -17,7 +17,7 @@ sources:
 # Research and practice recommendations: activate knowledge during and after reading, study narrative texts and younger learners, and clarify definitions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Based on its findings, the review forwards recommendations for future inquiry, "including suggested definitions of prior knowledge and prior knowledge activation." It argues the Construction-Integration Model implies the importance of "also scaffolding students' knowledge activation during or after reading," calls narrative-text processing an under-researched area, notes a dearth of research on activation techniques for younger students, and calls for more research on shared versus individual knowledge activation and on students with limited, ill-matched, or inaccurate knowledge.
@@ -42,7 +42,6 @@ Based on its findings, the review forwards recommendations for future inquiry, "
 - [The relevance and level of students' knowledge moderates activation effectiveness: mobilizing irrelevant information impaired comprehension, while open-ended mobilization benefited students with lower topic knowledge more](../claims/knowledge-relevance-and-level-moderate-activation-effects.md) [~W]
 - [Misconceptions were addressed in nine reviewed articles, all in science, via augmented activation, refutation texts, or analogical reasoning, though one study found activating inaccurate information may not be detrimental](../claims/misconception-addressing-techniques-science-review.md) [~W]
 - [The effectiveness of open-ended prompts varies by grade level and collaboration, with individual written prompts not supporting fifth and sixth grade comprehension but peer discussion and older students' use showing positive outcomes](../claims/open-ended-prompts-effectiveness-varies-grade-collaboration.md) [~W]
-- [Prior knowledge and prior knowledge activation are often vaguely defined in the activation literature, with only 10 of 54 articles explicitly defining prior knowledge](../claims/prior-knowledge-definitions-vague-in-activation-research.md) [+W]
 - [Procedural and strategic supports during reading tended to positively affect comprehension compared to no-treatment controls, with exceptions when compared against mobilization](../claims/procedural-strategic-supports-tended-positive-versus-control.md) [+W]
 
 ## Related Strategies

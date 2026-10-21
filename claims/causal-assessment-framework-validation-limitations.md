@@ -46,4 +46,4 @@ Authors' stated limitations in the conclusions section. Benchmarking is limited 
 - [Expert-elicited causal model is compatible with observed data but slightly less predictive than a data-learned Bayesian network](expert-causal-model-vs-data-learned-bn-predictive-accuracy.md) — possibly the same claim (merge candidate)
 - [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — a broader claim this one bears on
 - [The framework offers a scalable alternative to manual curation, but the small dataset and label dependence limit current conclusions](scalable-curation-alternative-with-limits.md) — related
-- [Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts](benefits-of-formal-modelling-theory.md) — related
+- Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts — related

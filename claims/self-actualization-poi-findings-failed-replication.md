@@ -49,4 +49,4 @@ The review reports Foulds's POI studies with 30 practicum students rated by trai
 - [Quality of the therapeutic relationship and counseling effectiveness are not correlated with each other, though both correlate with therapist experience](therapeutic-relationship-quality-uncorrelated-with-effectiveness.md) — related
 - [Standardized test batteries are poor predictors of counselor trainee success](standardized-tests-poor-predictors-trainee-success.md) — related
 - [Calls to use the 16PF for selecting counselor trainees are premature because findings vary and the specification equation lacks cross-validation](16pf-counselor-selection-premature.md) — related
-- [Significant findings about counselor characteristics often failed to replicate, with contrary results shown on re-investigation](counselor-characteristic-findings-fail-to-replicate.md) — a broader claim this one bears on
+- Significant findings about counselor characteristics often failed to replicate, with contrary results shown on re-investigation — a broader claim this one bears on

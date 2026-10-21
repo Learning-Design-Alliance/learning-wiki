@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (18 for, 29 mixed, 3 against) · 47 studies (10 review, 9 causal, 8 quant-synthesis, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 7 of 47 report an effect size · 45 claims rest on one study
+> **Evidence** · 49 claims (17 for, 29 mixed, 3 against) · 46 studies (9 causal, 9 review, 8 quant-synthesis, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 7 of 46 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,7 +146,6 @@ At the curriculum level, the expectation of a small and variable average should 
 
 ## Claims
 
-- [The review identifies design issues in P(j)BL effect studies, such as lack of control groups, that question reported outcomes](../claims/pjbl-effect-study-design-issues.md) [+W]
 - [Student-centered, problem-driven learning has a small, positive, heterogeneous effect on students' motivation compared to teacher-centered instruction (d = 0.498)](../claims/problem-driven-learning-small-positive-effect-motivation.md) [~W]
 
 ## Related Principles

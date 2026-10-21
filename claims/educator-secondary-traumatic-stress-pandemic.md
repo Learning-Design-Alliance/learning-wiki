@@ -69,3 +69,4 @@ The brief asserts that community trauma, including "grief and collective hardshi
 - [Participants described significant psychosocial stress related to uncorrected poor vision, with different etiologies for parents, teachers, and students](uncorrected-poor-vision-causes-stress.md) — related
 - [Positive school-based relationships support secondary students' learning and well-being, especially for youth experiencing poverty, trauma, and discrimination](positive-relationships-support-secondary-learning-wellbeing.md) — related
 - [Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes](trauma-exposure-adverse-school-outcomes.md) — related
+- [Narratives of love and happiness for academic work intertwine with normalization of exploitation, producing a \"passion trap\" of pain and fatigue amid unstable contracts](passion-trap-normalizes-academic-exploitation.md) — related

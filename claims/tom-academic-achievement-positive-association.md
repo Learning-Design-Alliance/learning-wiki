@@ -44,7 +44,7 @@ Three-level meta-analysis of 33 eligible cross-sectional papers and 89 effect si
 
 ## Related Claims
 - [Earlier academic achievement longitudinally predicts later theory of mind (pooled r = .32), based on few studies](early-achievement-predicts-later-tom.md) — related
-- [Egger's test indicates asymmetry bias in the cross-sectional ToM–achievement evidence base despite a right-skewed p-curve](egger-asymmetry-bias-tom-achievement.md) — related
+- Egger's test indicates asymmetry bias in the cross-sectional ToM–achievement evidence base despite a right-skewed p-curve — related
 - [The cross-sectional ToM–achievement association remains significant after controlling for verbal ability, executive functions, non-verbal ability, and SES](tom-achievement-unique-beyond-covariates.md) — related
 - [The ToM–achievement association does not differ significantly across reading comprehension, math, and general academic performance domains](tom-achievement-domain-nonspecific.md) — related
 - [Earlier theory of mind longitudinally predicts later academic achievement (pooled r = .28), largely on zero-order associations](early-tom-predicts-later-achievement.md) — related

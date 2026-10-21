@@ -44,6 +44,6 @@ Editorial summary of Alterman and Larusson's extended theoretical and empirical 
 
 ## Related Claims
 - [The three groups exhibited three distinct collaboration forms—a centralized model, loosely coordinated collaboration, and balanced and regulated collaboration—with group 3 showing the highest regulative-action percentage (40% during synthesis)](three-discourse-patterns-across-groups.md) — related
-- [CATPCA of openness components yielded two dimensions largely matching the theoretical cognitive/social framework, with transactivity not included](catpca-two-dimensions-openness.md) — related
+- CATPCA of openness components yielded two dimensions largely matching the theoretical cognitive/social framework, with transactivity not included — related
 - [Component frequencies: elaboration, other transactivity and expert authority are frequent; multiple justification, personal positioning and questioning are rare](openness-component-frequency-pattern.md) — related
 - [Communication and coordination costs of transactive activities can annul the benefit of sharing cognitive load in a group](transactive-costs-annul-load-sharing-benefit.md) — related

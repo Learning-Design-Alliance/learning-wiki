@@ -43,7 +43,7 @@ Synthesis of prior reviews' measurement-quality conclusions: the review reports 
 
 
 ## Related Claims
-- [A systematic review identified 52 instruments assessing teachers' competence for inclusive teaching of autistic children, with 28 assessing knowledge, 26 beliefs, and 11 motivation](52-instruments-teacher-competence-autistic-children.md) — related
+- A systematic review identified 52 instruments assessing teachers' competence for inclusive teaching of autistic children, with 28 assessing knowledge, 26 beliefs, and 11 motivation — related
 - [Reported teacher self-efficacy for teaching autistic children differs across countries, with relatively high levels in Ireland and the opposite conclusion for German teachers](country-differences-teacher-self-efficacy-autistic-children.md) — related
 - [The evidence base for school mindfulness interventions is heterogeneous and many studies are underpowered](mindfulness-schools-heterogeneous-underpowered.md) — related
 - [Validation evidence across the 15 RCR measures is partial and heterogeneous, with no test–retest, criterion validity or factor-analytic evidence reported](rcr-measure-validation-evidence-heterogeneous-limited.md) — a narrower finding that bears on this claim

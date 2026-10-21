@@ -48,6 +48,6 @@ Weighted linear regression moderator analysis across cross-sectional effect size
 - [The dual cognitive pathway model is structurally invariant across China, Europe, and the United States, with region-specific intensities](cross-cultural-invariance-dual-pathway-model.md) — related
 - [Sample ancestry significantly moderates polygenic score predictions of educational attainment, with stronger predictions in European-ancestry samples](pgs-attainment-ancestry-moderator.md) — related
 - [Children's theory of mind shows a significant positive cross-sectional association with academic achievement (r = 0.32)](tom-academic-achievement-positive-association.md) — related
-- [Research on K‑5 writing motivation self‑reports grew sharply after 2009 and is geographically concentrated in North America and Asia](growth-and-geographic-concentration-writing-motivation-research.md) — related
+- Research on K‑5 writing motivation self‑reports grew sharply after 2009 and is geographically concentrated in North America and Asia — related
 - [Geographical region moderated several engagement-correlate relations, with Eastern students showing higher relations than Western students](region-moderates-engagement-correlate-relations.md) — related
 - [The ToM–achievement association does not differ significantly across reading comprehension, math, and general academic performance domains](tom-achievement-domain-nonspecific.md) — related

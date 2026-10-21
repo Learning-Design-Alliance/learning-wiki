@@ -45,4 +45,4 @@ The review's motivation statement, assessing the state of the jigsaw literature 
 ## Related Claims
 - [Evidence on meditation and academic achievement is scant: only three published studies, with the strongest from TM programmes on standardised test scores](meditation-academic-achievement-insufficient-evidence.md) — related
 - [Many popular school-based prevention approaches have not been well studied to date](popular-prevention-approaches-understudied.md) — related
-- [The jigsaw review revealed research trends, research gaps, and issues of research integrity in the jigsaw literature](jigsaw-review-revealed-trends-gaps-integrity-issues.md) — a narrower finding that bears on this claim
+- The jigsaw review revealed research trends, research gaps, and issues of research integrity in the jigsaw literature — a narrower finding that bears on this claim

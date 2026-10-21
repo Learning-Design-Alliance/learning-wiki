@@ -43,5 +43,5 @@ Descriptive synthesis across the 93 included studies coding learning analytics u
 
 
 ## Related Claims
-- [Among studies supporting formative teacher assessment, 45% focused on 'where the learner is now' and 40% on 'where the learner is now' plus 'where the learner is going'](teacher-assessment-studies-stage-distribution.md) — related
+- Among studies supporting formative teacher assessment, 45% focused on 'where the learner is now' and 40% on 'where the learner is now' plus 'where the learner is going' — related
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — a broader claim this one bears on

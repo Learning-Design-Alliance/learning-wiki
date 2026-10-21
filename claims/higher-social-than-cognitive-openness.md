@@ -44,7 +44,6 @@ Quantitative analysis of 594 analyzed KF units from two cohorts of Master of Edu
 
 ## Related Claims
 
-- [CATPCA of openness components yielded two dimensions largely matching the theoretical cognitive/social framework, with transactivity not included](catpca-two-dimensions-openness.md)
 - [Component frequencies: elaboration, other transactivity and expert authority are frequent; multiple justification, personal positioning and questioning are rare](openness-component-frequency-pattern.md)
 - [Social openness components transactivity and authority are associated with less follow-up, and dimension-level openness shows no significant association with follow-up](social-openness-components-less-followup.md)
 - [Context characteristics (community type, trimester, teacher-student role) have little impact on openness; teachers contribute more social openness and receive less follow-up](context-effects-on-openness-and-teacher-followup.md) — related

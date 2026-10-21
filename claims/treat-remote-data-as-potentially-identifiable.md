@@ -43,7 +43,7 @@ The author's normative argument in the Ethical and Legal Consequences section: r
 
 
 ## Related Claims
-- [AI-related changes to consumer software threaten the anonymity of remotely collected research data](ai-changes-threaten-remote-data-anonymity.md) — a narrower finding that bears on this claim
+- AI-related changes to consumer software threaten the anonymity of remotely collected research data — a narrower finding that bears on this claim
 - [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related
 - [Privacy protection in the framework is partial: three residual leakage channels remain open](partial-privacy-three-residual-leakage-channels.md) — related
 - [Anonymization algorithms preserving result patterns may require sample sizes far larger than typical experiments](anonymization-requires-larger-samples.md) — related

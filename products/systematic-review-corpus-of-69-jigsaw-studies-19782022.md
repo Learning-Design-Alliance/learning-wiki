@@ -13,7 +13,7 @@ generated:
 # Systematic review corpus of 69 jigsaw studies (1978–2022)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A corpus of 69 studies conducted from 1978 through 2022 that met review criteria for examining jigsaw's effects on academic performance and psychosocial outcomes.
@@ -22,7 +22,6 @@ A corpus of 69 studies conducted from 1978 through 2022 that met review criteria
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Sixty-nine studies on jigsaw met the review's inclusion criteria for the 1978–2022 period](../claims/jigsaw-review-69-studies-inclusion-criteria.md) [+M]
 
 ## Related Products and Programmes
 -

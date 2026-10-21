@@ -44,8 +44,6 @@ The editorial restates the position attributed to Veenman et al. (2006) on domai
 
 ## Related Claims
 
-- [The complex interaction between cognition and metacognition is hard to disentangle because the constructs rely on and influence each other and share processes](cognition-metacognition-interaction-dilemma.md)
-- [The field of metacognition lacks a unified definition, impeding theoretical integration across disciplines](metacognition-lacks-unified-definition.md)
 - [Theoretical expectation: hybrid metacognitive skill training benefits content knowledge acquisition more in near than in far transfer because far transfer is more cognitively demanding](near-transfer-working-memory-advantage-hypothesis.md) — a narrower finding that bears on this claim
 - [Metacognitive skills initially develop in separate domains and later become generalized across domains, but the transfer processes remain unknown](metacognitive-skills-domain-development-trajectory.md) — a narrower finding that bears on this claim
-- [Distinguishing metacognitive knowledge from skills, and metacognition from self-regulated learning, is an unresolved field-wide issue](metacognition-knowledge-skills-distinction-unresolved.md) — related
+- Distinguishing metacognitive knowledge from skills, and metacognition from self-regulated learning, is an unresolved field-wide issue — related

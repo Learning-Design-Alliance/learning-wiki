@@ -44,7 +44,6 @@ Rummer, Schweppe, and Schwede presented lists of aliens and their characteristic
 
 ## Related Claims
 
-- [Disfluency is not clearly defined across the literature, hindering replication and precise measurement](disfluency-definition-problem.md)
 - [Disfluency and WMC × disfluency did not affect intrinsic or germane cognitive load](no-icl-gcl-effects-disfluency.md) — related
 - [Disfluency and WMC × disfluency did not affect extraneous cognitive load, contrary to hypotheses](no-ecl-effect-disfluency.md) — related
 - [Medium moderated disfluency effects on reasoning: disfluent text fostered calibration and performance on screen but not on paper](screen-paper-moderates-disfluency-reasoning.md) — related

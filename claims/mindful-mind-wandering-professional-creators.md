@@ -48,4 +48,4 @@ Theoretical argument in the review: as creators develop expertise, they recogniz
 - [Mind wandering episodes during incubation are correlated with individuals' ability to solve creative problems](mind-wandering-incubation-correlated-creative-problem-solving.md) — related
 - [Trait mind wandering predicts verbal creativity over fluid intelligence, reading difficulties, and declarative knowledge of metacognitive strategies in tertiary-level students](trait-mind-wandering-predicts-verbal-creativity-tertiary-students.md) — related
 - [Experienced meditators show reduced default mode network activation with enhanced PCC–dorsolateral PFC connectivity during meditation](meditation-dmn-reduction-pcc-dlpfc-connectivity.md) — related
-- [Among 134 reviewed studies, a significant number examined mind wandering alongside cognitive and metacognitive SRL processes, predominantly using self-report measures](mw-studies-cognitive-metacognitive-self-report.md) — related
+- Among 134 reviewed studies, a significant number examined mind wandering alongside cognitive and metacognitive SRL processes, predominantly using self-report measures — related

@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (19 for, 9 mixed) · 36 studies (10 causal, 8 quant-synthesis, 7 qualitative, 4 review, 4 theoretical, 2 associational, 1 design), `q1`–`q4` · 7 of 36 report an effect size · 22 claims rest on one study
+> **Evidence** · 29 claims (20 for, 9 mixed) · 37 studies (10 causal, 8 quant-synthesis, 7 qualitative, 5 review, 4 theoretical, 2 associational, 1 design), `q1`–`q4` · 7 of 37 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates](../claims/clinical-feedback-predicts-tpa-passing-preservice-only.md) [~W]
 - [High school students in a project-based robotics + AI curriculum developed robotics understanding by troubleshooting hardware and operational factors of physical robots](../claims/hardware-troubleshooting-builds-robotics-understanding.md) [+W]
 - [Playful and creative engagement with robots supported students' learning of robotics and AI, including recognizing that robot behavior is driven by sensor data rather than human-like perception](../claims/playful-exploration-supports-robotics-ai-learning.md) [+W]
+- [Included research studies suggest TES with land-based and experiential pedagogies deepens student engagement in post-secondary education](../claims/tes-land-based-experiential-engagement.md) [+W]
 
 ## Related Principles
 - [Debriefing](debriefing.md) — a core mechanism for making experience educative

@@ -46,5 +46,5 @@ The commentary summarizes the three key findings Dinsmore extracts from his revi
 
 - [Dinsmore's review of 134 studies argues that models of strategic processing among college students must be multidimensional and dynamic](strategic-processing-multidimensional-dynamic-college.md)
 - [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md) — related
-- [The special issue's contributions divide between narrative-review and systematic-review methodologies](sal-srl-special-issue-narrative-systematic-divide.md) — related
-- [Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely](conceptual-ambiguity-impedes-theory-integration.md) — related
+- The special issue's contributions divide between narrative-review and systematic-review methodologies — related
+- Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely — related

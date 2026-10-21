@@ -57,5 +57,5 @@ Theoretical reformulation in this narrative review, motivated because "Numerous 
 - [Reduction of cognitive load can sometimes impair learning rather than enhance it](load-reduction-can-impair-learning.md) — related
 - [ARPG+ shifts cognitive load composition toward productive effort and reduces overload frequency in simulation](arpg-plus-load-composition-shift-and-overload-reduction.md) — a narrower finding that bears on this claim
 - [Intrinsic and extraneous load are distinguished by whether element interactivity is essential to the task or a function of instructional procedures](intrinsic-extraneous-distinction-essential-vs-instructional.md) — related
-- [Correlations of cognitive load types with learning outcomes and prior knowledge support CLT assumptions, and results support the three-factor model](criterion-validity-supports-three-factor-model.md) — related
+- Correlations of cognitive load types with learning outcomes and prior knowledge support CLT assumptions, and results support the three-factor model — related
 - [Germane cognitive load was added to the cognitive load framework on theoretical grounds rather than because of empirical results requiring the concept](germane-load-added-on-theoretical-not-empirical-grounds.md) — related

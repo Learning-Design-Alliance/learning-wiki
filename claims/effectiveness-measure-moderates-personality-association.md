@@ -49,5 +49,5 @@ Moderator analysis reported in Table 2 of the random-effects meta-analysis: for 
 - [Other-reports of teacher personality are more strongly associated with teacher outcomes than self-reports](other-report-personality-stronger-than-self-report.md) — related
 - [Teacher extraversion, conscientiousness, emotional stability, and openness are each positively associated with teacher effectiveness, while agreeableness is not a significant correlate](big-five-teacher-effectiveness-meta-analysis.md) — related
 - [A prior meta-analysis found only a small teacher personality–effectiveness relationship (r = .08), attributed to treating personality as unidimensional and pooling effectiveness measures](prior-teacher-personality-meta-analysis-small-effect.md) — related
-- [Associations between teacher personality and effectiveness vary substantially across studies, justifying moderator analysis](teacher-personality-effect-heterogeneity.md) — related
+- Associations between teacher personality and effectiveness vary substantially across studies, justifying moderator analysis — related
 - [Classroom observations revealed subtle but decisive teaching differences correlated with the difference in learning outcomes](observed-classroom-differences-correlated-with-outcomes.md) — related

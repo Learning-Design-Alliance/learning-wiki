@@ -44,6 +44,6 @@ Group-comparison simulations from the confidence database resampling; ratio meas
 
 ## Related Claims
 - [HMeta-d's false positive rate depends on study design and prior specification: independent group priors inflate it, priors on the group difference fix it, and default priors for continuous predictors yield a rate below 5%](hmeta-d-false-positive-rate-prior-dependent.md) — related
-- [Logistic mixed-model regression of confidence on accuracy shows dramatically inflated false positive rates when random slopes are omitted, but an adequate rate when random slopes are included](logistic-mixed-model-fixed-slopes-inflated-false-positives.md) — related
-- [Distributions of meta-d′/d′ and meta-da/da deviate substantially from normality, motivating log transformation before parametric testing](meta-d-ratio-distributions-non-normal.md) — related
+- Logistic mixed-model regression of confidence on accuracy shows dramatically inflated false positive rates when random slopes are omitted, but an adequate rate when random slopes are included — related
+- Distributions of meta-d′/d′ and meta-da/da deviate substantially from normality, motivating log transformation before parametric testing — related
 - [Summary-statistic measures of metacognitive accuracy (gamma, type 2 ROC, meta-d′, meta-da) maintain a false positive rate consistent with the nominal 5% alpha level in group comparisons](summary-statistics-metacognitive-accuracy-adequate-false-positive-rate.md) — related

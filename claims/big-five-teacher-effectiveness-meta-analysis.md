@@ -51,4 +51,4 @@ Random-effects meta-analysis of 25 studies (total N = 6294) pooling Pearson r co
 - [Other-reports of teacher personality are more strongly associated with teacher outcomes than self-reports](other-report-personality-stronger-than-self-report.md) — related
 - [A prior meta-analysis found only a small teacher personality–effectiveness relationship (r = .08), attributed to treating personality as unidimensional and pooling effectiveness measures](prior-teacher-personality-meta-analysis-small-effect.md) — related
 - [Teacher Big Five domains show their largest associations with burnout for emotional stability and conscientiousness, but none of the burnout effects are statistically significant](teacher-personality-burnout-null-findings.md) — related
-- [Associations between teacher personality and effectiveness vary substantially across studies, justifying moderator analysis](teacher-personality-effect-heterogeneity.md) — related
+- Associations between teacher personality and effectiveness vary substantially across studies, justifying moderator analysis — related

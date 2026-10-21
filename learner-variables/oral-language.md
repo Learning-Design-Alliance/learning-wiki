@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (48 show a difference, 14 mixed, 21 no difference) · 62 studies (21 associational, 14 quant-synthesis, 12 causal, 12 review, 2 theoretical, 1 design), `q1`–`q3` · 21 of 62 report an effect size · 80 claims rest on one study
+> **Evidence** · 84 claims (49 show a difference, 14 mixed, 21 no difference) · 63 studies (21 associational, 14 quant-synthesis, 13 review, 12 causal, 2 theoretical, 1 design), `q1`–`q3` · 21 of 63 report an effect size · 81 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -120,6 +120,7 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Third-grade reading comprehension is predicted by third-grade word reading and listening comprehension, with no direct attention effect](../claims/grade3-comprehension-predicted-by-word-reading-and-listening.md) [+M] — learners who differ on it differ in outcomes
 - [Children/adolescents with poor literacy skills show similar average foreign language receptive vocabulary knowledge to peers with typical literacy skills](../claims/poor-literacy-similar-fl-receptive-vocabulary.md) [-M] — instruction changes it
 - [L2 oral language shows a moderate to strong positive relationship with L2 reading comprehension for multilingual learners, and the correlation increases with age](../claims/l2-oral-language-correlates-english-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [RALL studies report learning gains when social robots are used to teach vocabulary, reading skills, speaking skills, grammar, and sign language](../claims/rall-learning-gains-five-language-domains.md) [+W] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

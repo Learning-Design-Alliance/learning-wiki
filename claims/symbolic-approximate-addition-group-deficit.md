@@ -50,3 +50,6 @@ Repeated measures ANOVA on accuracy in symbolic and non-symbolic approximate add
 - [Group differences on symbolic tasks persist after controlling for number identification skill](symbolic-deficit-not-explained-by-number-identification.md) — a narrower finding that bears on this claim
 - [First graders with MLD are slower than typically achieving peers on symbolic but not non-symbolic numerical magnitude comparison](mld-symbolic-comparison-slower-first-grade.md) — related
 - [Children succeed at non-symbolic approximate addition above chance with a ratio effect, without relying on non-numerical strategies](kindergartners-succeed-nonsymbolic-addition-ratio-effect.md) — related
+- [People with MLD show a large pooled deficit in mathematics performance versus typically performing peers (g = 1.52)](mld-large-pooled-math-deficit.md) — related
+- [People with MLD show lower number sense than typically developing peers (g = 0.88), with the largest deficits on mapping tasks](mld-number-sense-deficit-mapping-largest.md) — related
+- [No profile distinguishes more severe, persistent, or specific MLD from less severe MLD on cognitive skills](no-distinct-mld-subtype-profile.md) — related

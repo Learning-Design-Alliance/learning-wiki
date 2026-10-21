@@ -45,4 +45,4 @@ In the research-agenda section, the article cites the small-scale study of Bosch
 ## Related Claims
 - [Emerging research suggests a need to integrate teachers' knowledge and skill development with instructional materials, but further evidence on the effectiveness of this approach is necessary](emerging-research-integrate-teacher-development-with-materials.md) — related
 - [Elaborated discussion of narrated emotions supports teacher professional learning](elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md) — related
-- [McKenney et al.'s ecological framework emphasizes knowing but not applying design knowledge](mckenney-framework-knowing-insufficient.md) — related
+- McKenney et al.'s ecological framework emphasizes knowing but not applying design knowledge — related

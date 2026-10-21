@@ -43,6 +43,6 @@ Systematic review of jigsaw studies from 1978 through 2022; the review's synthes
 
 
 ## Related Claims
-- [Sixty-nine studies on jigsaw met the review's inclusion criteria for the 1978–2022 period](jigsaw-review-69-studies-inclusion-criteria.md) — related
+- Sixty-nine studies on jigsaw met the review's inclusion criteria for the 1978–2022 period — related
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](secondary-cooperative-learning-newmann-thompson.md) — related
-- [The jigsaw review revealed research trends, research gaps, and issues of research integrity in the jigsaw literature](jigsaw-review-revealed-trends-gaps-integrity-issues.md) — a broader claim this one bears on
+- The jigsaw review revealed research trends, research gaps, and issues of research integrity in the jigsaw literature — a broader claim this one bears on

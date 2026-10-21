@@ -48,5 +48,5 @@ Quasi-experimental baseline check comparing the two intact classes on previous-s
 - The evaluation used a three-class design contrasting a traditional-approach control class with two experimental classes using digital content and a chatbot-based method — related
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
 - [Before intervention, treatment and control kindergartners did not differ on age, demographics, vocabulary, phoneme segmentation, letter knowledge, or reading](pretest-equivalence-phoneme-awareness-kindergarten-trial.md) — related
-- [Random assignment produced treatment and control groups balanced in mathematical preparedness before the intervention](random-assignment-produced-balanced-math-preparedness-groups.md) — related
+- Random assignment produced treatment and control groups balanced in mathematical preparedness before the intervention — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related

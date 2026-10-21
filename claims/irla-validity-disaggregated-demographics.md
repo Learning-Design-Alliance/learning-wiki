@@ -51,5 +51,5 @@ The abstract states the study "builds on existing literature by disaggregating t
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [Kindergarten entry-age effects do not differ by gender or race](entry-age-effects-no-gender-race-differences.md) — related
 - [Disaggregating by race and income can show aggregate subgroup gaps largely reflect differing subgroup compositions (hypothetical example)](intersectional-disaggregation-closes-aggregate-gaps-hypothetical.md) — related
-- [Only 1.3% of articles in top-tier educational psychology journals focused on race](edpsych-journals-1-3-percent-race-articles.md) — related
+- Only 1.3% of articles in top-tier educational psychology journals focused on race — related
 - [The authors argue the IRLA may help bridge screening and intensive, systematic instruction](irla-bridging-screening-instruction.md) — related

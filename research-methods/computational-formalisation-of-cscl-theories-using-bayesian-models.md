@@ -12,7 +12,7 @@ generated:
 # Computational formalisation of CSCL theories using Bayesian models
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 theoretical), `q1`–`q2` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend striving for a unified language, such as a formalisation strategy, in which different CSCL theories can be expressed, proposing the Bayesian framework as a formal language within reach for CSCL researchers. Formal modelling "makes us think deeply about our theories", highlights gaps and lack of clarity, contributes to open theorising by making assumptions explicit, and yields compact, easily exchanged theories.
@@ -25,7 +25,6 @@ The authors recommend striving for a unified language, such as a formalisation s
 ### Claims
 
 - [An automatic measure of speech style accommodation significantly positively correlates with prevalence of other-oriented transacts in dyadic debates (R = .36, p < .05)](../claims/speech-accommodation-correlates-other-oriented-transacts.md) [+M]
-- [Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts](../claims/benefits-of-formal-modelling-theory.md) [+W]
 
 ## Related Research Methods
 

@@ -13,7 +13,7 @@ generated:
 # Classroom Space and Procedural Design
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (8 for, 7 mixed) · 24 studies (5 causal, 5 review, 5 qualitative, 3 quant-synthesis, 3 associational, 3 theoretical), `q1`–`q4` · 4 of 24 report an effect size · 11 claims rest on one study
+> **Evidence** · 16 claims (9 for, 7 mixed) · 25 studies (6 review, 5 causal, 5 qualitative, 3 quant-synthesis, 3 associational, 3 theoretical), `q1`–`q4` · 4 of 25 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,10 @@ The designer's objective is usually time and attention spent on learning: lesson
 The expectation should weaken if classrooms that teach procedures and prepare transitions show no less lost time or disruption than comparable classrooms that do not, once the teacher's other practice is held constant, or if the gain at the start of a term is gone by its end. If the universal-management effect turns out to rest on relationships and responses rather than on rooms and routines, this page's moves are a convenience, not a cause. If structured assignments help learners with learning difficulties without reducing the quality of their thinking, the warning against over-specification should narrow to learners who can already start unaided. If moderate display stops predicting progress once school quality is controlled, step 2 is a preference. Do not protect the model by calling every failure "not taught enough" after the fact.
 
 Less disruption, more minutes on task, learners' sense of predictability and achievement are separate claims. The present evidence establishes no layout, no number of rules, no transition time and no amount of assignment structure.
+
+## Claims
+
+- [Teachers promoted inclusive classroom environments by organizing time and space and fostering peer inclusion](../claims/inclusive-environment-time-space-peer-inclusion.md) [+W]
 
 ## Related Principles
 - [Scaffolding & Fading](scaffolding-and-fading.md) — the general principle behind moderate, calibrated structure that fades over time

@@ -46,6 +46,6 @@ Exploratory analysis: coded forum and wiki actions (coordination, monitoring, ma
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related
 - [Interactions kindle similar-level interactions: argumentation triggers high-cognitive exchanges while sharing and discussing without reasoning keep interactions low-cognitive](high-cognitive-kindles-high-cognitive.md) — related
 - [Engaging in argumentation-triggered, information-triggered, or socially-triggered interaction sequences is positively associated with grades, while facilitated discussions is not](initiating-sequence-clusters-associate-grades.md) — related
-- [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — related
+- Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time — related
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — related
 - [Collaborative dynamic-geometry problem solving relies on coordinating math-content and social/collaborative resources](oner-coordinated-math-social-resources.md) — related

@@ -43,6 +43,6 @@ Scoping review synthesis of 54 experiments with primary school children (Mage = 
 
 
 ## Related Claims
-- [Grouping the reviewed experiments revealed 15 distinct primary school learning topics involving inhibitory control](fifteen-learning-topics-inhibitory-control.md) — related
+- Grouping the reviewed experiments revealed 15 distinct primary school learning topics involving inhibitory control — related
 - [Incongruent items in school-topic tasks are generally associated with longer response times and lower accuracy, patterns consistent with inhibitory control recruitment](incongruent-items-longer-rt-lower-accuracy.md) — a narrower finding that bears on this claim
 - [Negative priming effects are generally larger in mathematics than in language or science, particularly in arithmetic tasks](np-effects-larger-mathematics-arithmetic.md) — related

@@ -50,3 +50,4 @@ Re-analysis of the approximate addition ANOVA with number identification accurac
 - [Children with MLD and LA are less accurate than TA children on symbolic but not non-symbolic approximate addition](symbolic-approximate-addition-group-deficit.md) — a broader claim this one bears on
 - [Accuracy on approximate addition decreases as ratio approaches 1, with a stronger ratio effect on the non-symbolic task](ratio-effect-approximate-addition.md) — related
 - [First graders with MLD are slower than typically achieving peers on symbolic but not non-symbolic numerical magnitude comparison](mld-symbolic-comparison-slower-first-grade.md) — related
+- [People with MLD show lower number sense than typically developing peers (g = 0.88), with the largest deficits on mapping tasks](mld-number-sense-deficit-mapping-largest.md) — related

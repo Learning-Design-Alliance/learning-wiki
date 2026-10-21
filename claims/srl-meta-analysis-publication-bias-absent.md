@@ -55,17 +55,17 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias — related
 - [Published studies of simulation games report substantially larger effects than unpublished studies, indicating publication bias](publication-bias-in-simulation-games-research.md) — reports the opposite
 - Funnel plot and trim-and-fill analyses do not indicate publication bias in the meta-analytic effects of CSCL scripts — related
-- [A cluster-robust Egger-type test found no statistically detectable small-study effects, interpreted as absence of evidence rather than evidence of no publication bias](egger-test-no-detectable-small-study-effects.md) — related
-- [The meta-analysis finds no major publication bias in the teacher personality–outcome associations](no-major-publication-bias-teacher-personality.md) — related
-- [No evidence of publication bias was found in the meta-analysis](no-publication-bias-ct-gender-meta-analysis.md) — related
-- [Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses](publication-bias-math-writing-meta-analysis.md) — related
+- A cluster-robust Egger-type test found no statistically detectable small-study effects, interpreted as absence of evidence rather than evidence of no publication bias — related
+- The meta-analysis finds no major publication bias in the teacher personality–outcome associations — related
+- No evidence of publication bias was found in the meta-analysis — related
+- Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses — related
 - [Publication bias analyses suggest the negative correlation is robust but trim-and-fill adjusts it to r = −.227](publication-bias-trim-and-fill-adjustment.md) — related
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
-- [No evidence of reporting bias was found for the foreign language word reading SMD meta-analysis](no-reporting-bias-fl-word-reading.md) — related
+- No evidence of reporting bias was found for the foreign language word reading SMD meta-analysis — related
 - [The active-learning advantage is robust to publication bias and to variation in methodological rigor of the included studies](active-learning-effect-robust-bias-and-rigor.md) — a narrower finding that bears on this claim
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
-- [The text generation research field shows a small-study effect suggesting publication bias](small-study-effect-publication-bias.md) — reports the opposite
-- [No clear evidence of publication bias or small study effects in the collaborative instruction literature](no-publication-bias-collaborative-instruction.md) — related
-- [No evidence of publication bias, and extra-large-sample studies do not differ from the rest](no-publication-bias-digital-reading-meta-analysis.md) — related
+- The text generation research field shows a small-study effect suggesting publication bias — reports the opposite
+- No clear evidence of publication bias or small study effects in the collaborative instruction literature — related
+- No evidence of publication bias, and extra-large-sample studies do not differ from the rest — related

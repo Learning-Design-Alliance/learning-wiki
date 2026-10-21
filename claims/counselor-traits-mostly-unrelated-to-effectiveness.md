@@ -47,9 +47,9 @@ The review's summary of the studies using scales and rating devices, stating tha
 
 ## Related Claims
 - [Standardized test batteries are poor predictors of counselor trainee success](standardized-tests-poor-predictors-trainee-success.md) — related
-- [Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive](global-judgment-criteria-replication-fruitless.md) — related
+- Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive — related
 - [16PF-derived predicted-effectiveness indices correlate with supervisor and client ratings (.41, .87), but the review judges use of the 16PF for trainee selection premature](16pf-specification-equation-correlations-premature.md) — related
 - [Clients of high-facilitative counselors engage in significantly more self-exploration than clients of low-facilitative counselors](high-facilitative-counselors-more-client-self-exploration.md) — related
 - [Calls to use the 16PF for selecting counselor trainees are premature because findings vary and the specification equation lacks cross-validation](16pf-counselor-selection-premature.md) — a narrower finding that bears on this claim
-- [Significant findings about counselor characteristics often failed to replicate, with contrary results shown on re-investigation](counselor-characteristic-findings-fail-to-replicate.md) — possibly the same claim (merge candidate)
+- Significant findings about counselor characteristics often failed to replicate, with contrary results shown on re-investigation — possibly the same claim (merge candidate)
 - [Most counselor personality variables investigated since 1960 were not significantly related to the effectiveness criteria employed](rowe-1975-counselor-traits-unrelated.md) — possibly the same claim (merge candidate)

@@ -51,7 +51,7 @@ Document analysis of IT and security unit guidance across the 50-institution cor
 - [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — related
 - [PGR students strongly opposed uploading human-participant or sensitive qualitative data to GenAI platforms or using GenAI to interpret such data](opposition-genai-human-centred-research-data.md) — related
 - [Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value](institutional-privacy-practical-barriers-chatbot-adoption.md) — related
-- [AI-related changes to consumer software threaten the anonymity of remotely collected research data](ai-changes-threaten-remote-data-anonymity.md) — related
+- AI-related changes to consumer software threaten the anonymity of remotely collected research data — related
 - [Data privacy mitigations centered on data governance and monitoring (68.9%), while technical reliability mitigations centered on human involvement (36.9%)](rfi-privacy-reliability-mitigation-distribution.md) — related
 - [A datafication-to-commodification governance pathway can shift education from a value-based practice toward a commodified service](datafication-to-commodification-governance-pathway.md) — related
 - [The institution maintained privacy primarily through role-based access limiting data by user role and through technological security protocols such as single sign-on and encryption](role-based-access-and-security-privacy-methods.md) — related

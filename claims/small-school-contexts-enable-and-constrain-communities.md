@@ -59,3 +59,4 @@ Fieldwork across seven CHSRI schools found teachers perceived small schools as h
 - [Schools with distinct educational models show positive achievement effects when they feature small size, personalization, positive relationships, and educator collaboration](model-schools-common-features.md) — related
 - [Chicago's professional development spending was not integrated into a comprehensive strategy for improving instruction](cps-pd-spending-not-integrated.md) — related
 - [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](peer-reflective-groups-challenge-student-teacher-views.md) — related
+- [Lack of time and heavy workload are organizational barriers to team-based professional development in higher education](time-workload-barriers-team-pd.md) — related

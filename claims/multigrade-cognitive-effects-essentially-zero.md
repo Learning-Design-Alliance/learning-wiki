@@ -50,4 +50,4 @@ Meta-analysis following Hedges and Olkin (1985) of multigrade studies, using a r
 - [Staff development for multigrade teachers improved time-on-task and teaching skills but did not raise achievement relative to untrained single-grade classes](staff-development-multigrade-teachers-effects.md) — related
 - [Noncognitive outcomes of multigrade classes show essentially zero overall effect after outlier removal](multigrade-noncognitive-effects-near-zero.md) — related
 - [Country of publication moderates multigrade cognitive effects, with a small negative effect only for European studies](country-moderates-multigrade-effects.md) — a narrower finding that bears on this claim
-- [Evidence for a selection bias favoring multigrade classes is limited, found explicitly in only 4 of 51 studies](limited-evidence-multigrade-selection-bias.md) — related
+- Evidence for a selection bias favoring multigrade classes is limited, found explicitly in only 4 of 51 studies — related

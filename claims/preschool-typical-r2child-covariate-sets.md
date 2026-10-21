@@ -46,7 +46,7 @@ Child = 0.26/0.18 for SEL outcomes when using teacher/parent reports."
 
 ## Related Claims
 - [Between-center differences in preschool cognitive and SEL outcomes were mostly small in the United States but more pronounced in Germany and the United Kingdom](preschool-between-center-differences-vary-by-country.md) — related
-- [The study estimated 237 single-level, 589 two-level, and 226 three-level design parameters from German preschool probability samples](preschool-design-parameters-estimated-counts.md) — related
+- The study estimated 237 single-level, 589 two-level, and 226 three-level design parameters from German preschool probability samples — related
 - [Domain-identical pretests are the most powerful single-level covariate type for student achievement, outperforming cross-domain pretests, fluid intelligence, and sociodemographic characteristics](ip-most-powerful-single-level-covariate-achievement.md) — related
 - [Sociodemographic covariates outweigh domain-identical pretests for predicting between-classroom and between-school variance in elementary school](sc-outweigh-ip-elementary-group-levels.md) — related
-- [Covariates explaining substantial outcome variance efficiently decrease the MDES and reduce required sample size in randomized experiments](covariates-improve-randomized-experiment-sensitivity.md) — a broader claim this one bears on
+- Covariates explaining substantial outcome variance efficiently decrease the MDES and reduce required sample size in randomized experiments — a broader claim this one bears on

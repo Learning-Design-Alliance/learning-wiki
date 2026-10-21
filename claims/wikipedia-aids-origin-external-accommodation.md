@@ -45,7 +45,6 @@ Qualitative analysis of the Wikipedia article "AIDS origin" history pages, traci
 ## Related Claims
 
 - [Wikipedia history analysis shows external assimilation: a user added only the CSILE/Knowledge Forum link without further changes](wikipedia-cscl-external-assimilation-example.md)
-- [Wikipedia clusters representing social and biomedical views on schizophrenia merged toward the integrative diathesis-stress model while the psychoanalytic cluster stayed isolated](schizophrenia-cluster-merger-diathesis-stress.md)
 - [Accommodation policies drift over time as public or industry expectations change and new technology arises](accommodation-policies-drift-with-expectations-and-technology.md) — related
-- [Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis](artifact-structure-operationalizes-collective-knowledge.md) — a broader claim this one bears on
+- Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis — a broader claim this one bears on
 - [Four forms of learning and knowledge building with wikis: internal and external assimilation and accommodation](four-processes-assimilation-accommodation-wikis.md) — a broader claim this one bears on

@@ -44,4 +44,4 @@ Correlational analysis by ACCESS score level in Chicago K-2 data. For students s
 
 ## Related Claims
 - [One-to-one correspondence between ITBS national quartiles and ISAT performance categories breaks down at the first and fourth quartiles](quartile-category-correspondence-breaks-extremes.md) — related
-- [Metacognitive skill level may moderate the factor structure of self-reported metacognition, with lower-scoring respondents showing a unidimensional structure](skill-level-moderates-metacognition-factor-structure.md) — related
+- Metacognitive skill level may moderate the factor structure of self-reported metacognition, with lower-scoring respondents showing a unidimensional structure — related

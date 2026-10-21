@@ -36402,5 +36402,45 @@
  "scaffolding\tcomputer-based scaffolding posttest\tpretest before scaffolding": {
   "label": "computer-based scaffolding vs no scaffolding/baseline",
   "treatment_is_a": true
+ },
+ "active-learning\tsimulations, debates, games, storytelling, and peer tutoring\tnot stated": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstep-by-step teaching at a slower pace\tnot stated": {
+  "label": "explicit instruction vs unspecified instruction",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tImmediate feedback during teaching and tasks\tDelayed feedback or no feedback; not reported": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual aids and concrete objects to communicate content\tnot stated": {
+  "label": "visual aids and concrete objects vs no visual aids or concrete objects",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tVerbal praise, preferred activities, stickers, and sweets as reinforcers\tNo reinforcer or alternative reinforcer; not reported": {
+  "label": "Rewards/reinforcement vs no rewards/reinforcement",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tmonetary rewards for team participation\tno monetary rewards": {
+  "label": "Monetary rewards for team participation vs no monetary rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tteam accomplishments considered in promotion decisions\tteam accomplishments not considered in promotion decisions": {
+  "label": "Team accomplishments considered in promotion vs team accomplishments not considered in promotion",
+  "treatment_is_a": true
+ },
+ "scaffolding\tTeacher monitoring and targeted support adjusted to learners' needs\tNot reported": {
+  "label": "Teacher monitoring and targeted support vs no reported support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tindividualized instruction and strategy selection responsive to learner needs\tnon-individualized instruction": {
+  "label": "Individualized instruction and strategy selection vs non-individualized instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttargeted peer tutoring pairing a more knowledgeable pupil with one who does not yet understand\tnot stated": {
+  "label": "Targeted peer tutoring vs no reported peer tutoring",
+  "treatment_is_a": true
  }
 }

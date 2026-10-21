@@ -47,6 +47,6 @@ Only three of 11 planned moderator analyses could be conducted (data from fewer 
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Significant between-study heterogeneity limits interpretation of foreign language attainment differences in poor readers/spellers](heterogeneity-limits-fl-attainment-interpretation.md) — related
+- Significant between-study heterogeneity limits interpretation of foreign language attainment differences in poor readers/spellers — related
 - [Exempting students with poor literacy skills from foreign language instruction is not based on systematic evidence](fl-exemption-policies-lack-evidence.md) — related
-- [No evidence of reporting bias was found for the foreign language word reading SMD meta-analysis](no-reporting-bias-fl-word-reading.md) — related
+- No evidence of reporting bias was found for the foreign language word reading SMD meta-analysis — related

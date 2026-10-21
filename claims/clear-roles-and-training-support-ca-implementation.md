@@ -57,3 +57,4 @@ Cross-case qualitative finding (RQ1-3) from documents, interviews, and walkthrou
 - [AI integration shifted staff roles from direct instruction to facilitation and increased workload](ai-integration-shifted-staff-roles-facilitation.md) — reports the opposite
 - [Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work](teacher-inquiry-incentives-direct-benefits-routine.md) — related
 - [Substitute teachers enable school improvement efforts by freeing other teachers' time for professional learning, administrative duties, and personal matters](substitute-teachers-enable-release-time.md) — related
+- [Lack of time and heavy workload are organizational barriers to team-based professional development in higher education](time-workload-barriers-team-pd.md) — related

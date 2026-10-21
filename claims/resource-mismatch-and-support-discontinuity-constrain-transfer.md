@@ -63,3 +63,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Training outcomes extend from individual clinical care to teaching, quality improvement, and specialty development roles](transfer-extends-to-specialty-development-roles.md) — related
 - [Hippocampal malleability from resource-demand mismatch implies students benefit most from challenges matched to individual capacity](hippocampal-plasticity-mismatch-individual-capacity.md) — related
 - [Professional development participation is mainly a matter of individual teacher initiative, with the teachers most in need of development least likely to pursue it](professional-development-individual-initiative-pattern.md) — related
+- [Lack of time and heavy workload are organizational barriers to team-based professional development in higher education](time-workload-barriers-team-pd.md) — related

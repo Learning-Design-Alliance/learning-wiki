@@ -45,4 +45,4 @@ Theoretical argument in the commentary's synthesis of the control mapping proble
 ## Related Claims
 - [Effort investment is driven differently in CLT (data-driven, task difficulty) versus SRL theories (goal-driven, motivation)](effort-drivers-data-driven-vs-goal-driven.md) — related
 - [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — possibly the same claim (merge candidate)
-- [Only nine of 66 reviewed studies specified a theoretical basis, with seven using regulation of learning theory and two using Community of Inquiry](nine-studies-theoretical-bases-individual-participation.md) — related
+- Only nine of 66 reviewed studies specified a theoretical basis, with seven using regulation of learning theory and two using Community of Inquiry — related

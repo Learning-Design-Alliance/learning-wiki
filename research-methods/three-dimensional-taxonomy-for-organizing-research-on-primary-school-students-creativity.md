@@ -12,7 +12,7 @@ generated:
 # Three-dimensional taxonomy for organizing research on primary school students' creativity
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article introduces a three-dimensional taxonomy as the organizing scheme for its empirical integration. The taxonomy structured the systematic review of recent literature on primary school students' creativity, allowing the authors to classify the 184 reviewed studies and to identify dominant measurement practices in the field, such as treating creativity as a static, aggregated construct.
@@ -22,7 +22,6 @@ The article introduces a three-dimensional taxonomy as the organizing scheme for
 - **A three-dimensional taxonomy for organizing research on primary school students' creativity**: The article introduces a three-dimensional taxonomy as the organizing scheme for its empirical integration. The taxonomy structured the systematic review of recent literature on primary school students' creativity, allowing the authors to classify the 184 reviewed studies and to identify dominant measurement practices in the field, such as treating creativity as a static, aggregated construct. (Kupers et al. (2019))
 
 ### Claims
-- [Systematic review finds creativity in primary school research most often measured as a static, aggregated construct](../claims/creativity-most-often-measured-static-aggregated-construct.md) [+M]
 
 ## Related Research Methods
 -

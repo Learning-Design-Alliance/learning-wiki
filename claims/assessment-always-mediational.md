@@ -45,5 +45,5 @@ Theoretical argument drawing on Moll and Greenberg (1990) and Gardner (1983): th
 ## Related Claims
 - [Every assessment procedure or instrument embodies a sense of telos, producing data that locate people along the researcher's assumed developmental path](assessment-instruments-embed-telos.md) — possibly the same claim (merge candidate)
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — a broader claim this one bears on
-- [Luria's Uzbekistan cognition research is of questionable validity because its mediational means were culturally inappropriate](luria-questionable-validity.md) — a narrower finding that bears on this claim
-- [Data on learning in the ZPD are social constructs, so the purity-of-data metaphor is inappropriate](data-social-constructs-zpd.md) — a narrower finding that bears on this claim
+- Luria's Uzbekistan cognition research is of questionable validity because its mediational means were culturally inappropriate — a narrower finding that bears on this claim
+- Data on learning in the ZPD are social constructs, so the purity-of-data metaphor is inappropriate — a narrower finding that bears on this claim

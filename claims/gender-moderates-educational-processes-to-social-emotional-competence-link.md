@@ -70,3 +70,4 @@ Simple slope tests probing the gender interaction. The association between educa
 - [Gender did not significantly moderate relationships between social functioning and academic development in preschoolers](gender-does-not-moderate-social-academic-relations.md) — related
 - [Educational processes fully mediate the effects of structural family characteristics and parental beliefs and interests on children's social–emotional competence](educational-processes-fully-mediate-home-environment-effects-on-social-emotional-competence.md) — related
 - [Gains in emotion knowledge during preschool mediate the association between preschool relationships and kindergarten achievement](emotion-knowledge-gains-mediate-relationships-achievement.md) — related
+- [The association between school discipline and social-emotional self-control is stronger for older students](social-emotional-self-control-age-moderation.md) — related

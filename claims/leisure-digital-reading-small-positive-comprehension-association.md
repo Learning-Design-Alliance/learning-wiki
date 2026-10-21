@@ -49,4 +49,4 @@ Three-level random-effects meta-analysis of 39 effect sizes from 26 studies (469
 ## Related Claims
 - [Educational stage significantly moderates the digital reading-comprehension association: negative at primary and middle school, positive at high school and university](educational-stage-moderates-digital-reading-comprehension.md) — related
 - [Data collection year does not significantly predict the digital reading-comprehension association, though it becomes significant when an outlier is included](data-collection-year-moderation-mixed.md) — related
-- [No evidence of publication bias, and extra-large-sample studies do not differ from the rest](no-publication-bias-digital-reading-meta-analysis.md) — related
+- No evidence of publication bias, and extra-large-sample studies do not differ from the rest — related

@@ -63,7 +63,6 @@ Analysis of teacher-student role among 65 of the analyzed notes (10.9%) contribu
 
 ## Related Claims
 
-- [CATPCA of openness components yielded two dimensions largely matching the theoretical cognitive/social framework, with transactivity not included](catpca-two-dimensions-openness.md)
 - [At the discourse-act level, notes expressing uncertainty are associated with more follow-up and notes open on community orientation with less, and notes lacking building-knowledge openness receive less follow-up](uncertainty-discourse-act-more-followup.md) — related
 - [Social openness components transactivity and authority are associated with less follow-up, and dimension-level openness shows no significant association with follow-up](social-openness-components-less-followup.md) — related
 - [Contributions to online knowledge building discourse show moderate socio-cognitive openness, with higher social than cognitive openness](higher-social-than-cognitive-openness.md) — related

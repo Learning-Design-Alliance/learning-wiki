@@ -63,5 +63,5 @@ Per-predictor regression results against argumentative writing performance with 
 
 ## Related Claims
 - [Monitoring of interactive metadiscourse has the strongest predictive power among the three MRIM strategies for L2 argumentative writing](mim-strongest-predictor-of-l2-writing.md) — a narrower finding that bears on this claim
-- [The MRIM scale has a three-factor structure of planning, monitoring, and evaluating of interactive metadiscourse, cross-validated by EFA and CFA](mrim-three-factor-structure-pim-mim-eim.md) — related
+- The MRIM scale has a three-factor structure of planning, monitoring, and evaluating of interactive metadiscourse, cross-validated by EFA and CFA — related
 - [The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre](profile-varying-predictive-effects-writing-achievement.md) — related

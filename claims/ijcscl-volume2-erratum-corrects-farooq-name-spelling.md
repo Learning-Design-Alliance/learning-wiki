@@ -44,4 +44,3 @@ The erratum's full substantive statement: it announces that "The original versio
 
 ## Related Claims
 
-- [In its first year the international journal of CSCL was adopted by the CSCL research community as a formal publication and feedback venue.](ijcscl-adopted-by-cscl-community-first-year.md)

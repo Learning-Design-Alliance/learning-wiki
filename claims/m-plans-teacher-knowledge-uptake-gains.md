@@ -47,3 +47,4 @@ Development-phase study of more than 20 science teachers across 12 middle school
 - [Students' perceptions of motivationally supportive instruction were associated with higher positive motivational beliefs](m-plans-student-perceptions-linked-to-motivation.md) — related
 - [Many teachers' knowledge of students' GC and CoV increased in sophistication over the school year, and teachers reported the professional learning and just-in-time supports were helpful](teacher-knowledge-and-pl-supports-grew.md) — related
 - [Teachers perceive SRL as desirable for students but not feasible to implement in their classrooms](teachers-srl-desirable-but-not-feasible.md) — related
+- [Participating in team-based professional development changed how higher education teachers perceived themselves and their role as teachers](team-pd-teacher-identity-change.md) — related

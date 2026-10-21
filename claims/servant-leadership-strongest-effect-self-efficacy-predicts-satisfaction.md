@@ -47,3 +47,4 @@ Structural paths from the WLSMV SEM (N=506). The article reports servant leaders
 - [Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction](self-efficacy-positive-career-persistence-agriculture-teachers.md) — related
 - Posttest self-efficacy accounts for a significant increment in posttest skill variability, but its relation to persistence is mixed in learning settings — related
 - [School-family balance is predicted by both academic and parental self-efficacy and in turn predicts school and family satisfaction](school-family-balance-predicted-by-efficacy-predicts-satisfaction.md) — related
+- [Teacher self-efficacy shows positive links with personal accomplishment, job satisfaction, and commitment](tse-positive-links-well-being-factors.md) — related

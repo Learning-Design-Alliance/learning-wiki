@@ -53,3 +53,4 @@ The review reports Swan (2005) found "17% of the variance in career intent could
 - [Vicarious experiences are positively related to agriculture teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance](vicarious-experiences-positive-teaching-efficacy.md) — related
 - [The effect of social persuasion on student teacher efficacy depends on its form: verbal feedback from cooperating teachers is positive while structured communication tools and peer pairing show no benefit](social-persuasion-form-moderates-efficacy-effect.md) — related
 - [Mastery experiences may not be the optimal method for initially increasing preservice agriculture teachers' self-efficacy](mastery-experiences-not-optimal-initially-preservice-efficacy.md) — related
+- [Teacher self-efficacy shows positive links with personal accomplishment, job satisfaction, and commitment](tse-positive-links-well-being-factors.md) — related

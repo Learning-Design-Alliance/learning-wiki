@@ -13,7 +13,7 @@ generated:
 # Meta-analytic corpus of 42 U.S. causal studies yielding 73 effect estimates of grant aid on persistence and degree attainment
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 quant-synthesis), `q4` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q4` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A research dataset compiling causal effect estimates from U.S. studies of grant aid on postsecondary persistence and degree attainment, assembled by Nguyen et al. (2018).
@@ -24,7 +24,6 @@ A research dataset compiling causal effect estimates from U.S. studies of grant 
 ### Claims
 
 - [Need-based grant aid improves persistence and completion while merit-only aid shows no detectable effect on these outcomes](../claims/need-based-aid-effective-merit-only-not.md) [+M]
-- [Funnel-plot analysis finds no evidence of missing small-effect studies, though asymmetry from few negative estimates suggests possible small bias against null-negative results](../claims/publication-bias-grant-aid-meta-analysis.md) [+W]
 - [Effects of grant aid on persistence and completion are heterogeneous across studies, justifying random-effects meta-analysis](../claims/grant-aid-effects-heterogeneous-across-studies.md) [+M]
 - [Grant aid increases degree completion, raising on-time completion by 2.4 and delayed completion by 2.5 percentage points in U.S. causal studies](../claims/grant-aid-increases-degree-completion.md) [+M]
 - [Grant aid increases postsecondary persistence, raising within-year persistence by 3.2 and year-to-year persistence by 1.8 percentage points in U.S. causal studies](../claims/grant-aid-increases-postsecondary-persistence.md) [+M]

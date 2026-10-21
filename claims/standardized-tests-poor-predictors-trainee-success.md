@@ -47,5 +47,5 @@ The review reports Bernos (1966), who compared 57 counselor selection criteria v
 - [16PF-derived predicted-effectiveness indices correlate with supervisor and client ratings (.41, .87), but the review judges use of the 16PF for trainee selection premature](16pf-specification-equation-correlations-premature.md) — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
 - [Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertiary academic performance in the heterogeneous sample](no-significant-predictors-tertiary-gpa.md) — related
-- [Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive](global-judgment-criteria-replication-fruitless.md) — related
+- Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive — related
 - [Self-actualization (POI) correlates of rated counseling performance reported by Foulds could not be confirmed on replication](self-actualization-poi-findings-failed-replication.md) — related

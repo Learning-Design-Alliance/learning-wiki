@@ -52,4 +52,4 @@ Quasi-experiment in community college technical mathematics: two teachers each t
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — related
 - Middle school students began the study with weak information problem-solving knowledge and especially weak application ability — related
 - [Objective learning gains did not differ significantly by condition in the primary ANCOVA, but KBD showed a significant positive effect on learning gains in exploratory regressions accounting for learner covariates](kbd-objective-learning-gains-ancova-null-exploratory-positive.md) — related
-- [Random assignment produced treatment and control groups balanced in mathematical preparedness before the intervention](random-assignment-produced-balanced-math-preparedness-groups.md) — related
+- Random assignment produced treatment and control groups balanced in mathematical preparedness before the intervention — related

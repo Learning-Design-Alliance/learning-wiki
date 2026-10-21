@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 189 claims (90 for, 91 mixed, 8 against) · 148 studies (51 associational, 41 causal, 20 review, 13 quant-synthesis, 8 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 35 of 148 report an effect size · 173 claims rest on one study
+> **Evidence** · 186 claims (89 for, 90 mixed, 7 against) · 145 studies (51 associational, 41 causal, 19 review, 13 quant-synthesis, 8 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 35 of 145 report an effect size · 170 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -134,7 +134,6 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [In the case study, the student with the most coded activities scored highest on the questionnaire and the student with the fewest scored lowest, but all four over-rated Orienting & planning relative to their protocols](../claims/case-study-activity-count-questionnaire-trend.md) [~W]
 - [Academic engagement and regulation of behavior and context show incremental validity over cognitive predictors of university GPA](../claims/engagement-and-behavior-context-regulation-incremental-validity.md) [+W]
 - [In regressions predicting self-reported achievement, elaboration positively (Beta = 0.24) and cramming negatively (Beta = -0.30) predicted achievement, but only effort regulation and engagement remained significant in the combined model](../claims/elaboration-cramming-achievement-regression.md) [~W]
-- [Only with eye-tracking data does Monitoring appear as an intermediate process linking most other SRL processes in the process map](../claims/eye-tracking-reveals-monitoring-intermediate.md) [+W]
 - [Secondary students in CSCL devote much of their communication to regulating task performance, especially planning the task and monitoring task progress](../claims/cscl-groups-mostly-regulate-task-performance.md) [~W]
 - [Effective self-regulators score significantly higher than less effective self-regulators on achievement goals, metacognition, all four study strategies and exam scores, with equal intellectual ability](../claims/effective-regulators-higher-goals-metacognition-strategies-exam.md) [+W]
 - [When SRL is measured at a fine grain size (specific strategies), self-reports show low calibration with behavioral measures](../claims/fine-grained-srl-self-reports-low-calibration.md) [~W]
@@ -178,7 +177,6 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [SRL writing-stage clusters differed in production and revision but not in pausing](../claims/srl-writing-clusters-production-revision.md) [~W]
 - [Teacher homework involvement positively predicts students' use of homework management strategies in secondary school students](../claims/teacher-involvement-predicts-homework-management.md) [+W]
 - [Teachers show stronger regulation than students: both select lower-JOL texts for restudy, but the JOL–restudy correlation is significantly stronger for teachers (Experiment 1).](../claims/teacher-regulation-stronger-than-student-regulation.md) [+W]
-- [Metacognition items loaded as a single factor, and time management combined with planning, in the SRL-O structure](../claims/srl-o-metacognition-single-factor-planning-time-management.md) [~W]
 - [SRL intervention groups had significantly lower dropout than control in a MOOC, with no difference between the two intervention modes](../claims/srl-interventions-reduced-mooc-dropout.md) [+W]
 - [Students self-report help-seeking as their strongest SRL skill and reflection for action as their weakest](../claims/students-help-seeking-strong-reflection-for-action-weak.md) [~W]
 - [Training activity scores in cognitive, metacognitive, and behavioral/environmental regulation each significantly related to subsequent exam performance after controlling for prior knowledge](../claims/training-scores-partial-correlations-exams.md) [+W]
@@ -202,7 +200,6 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Metacognition is significantly positively correlated with math performance in adolescence (pooled r = .37)](../claims/metacognition-math-correlation-adolescence-pooled.md) [+W]
 - [No group differences appear in self-regulation, strategies, or motivation across the four mathematics achievement groups](../claims/no-group-differences-other-metacognition.md) [~W]
 - [Adequacy of regulation decisions did not depend on misconceptions or instructional method](../claims/no-effect-regulation-decision-adequacy.md) [~W]
-- [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](../claims/need-micro-level-theory-and-method-guidelines-ssrl.md) [-W]
 - [Case analysis shows regulation strategies did not always align with the challenges faced, leading to recurring difficulties within the group](../claims/regulation-misalignment-recurring-group-difficulties.md) [-W]
 - [Physiological synchrony among collaborating students related only to cognitive regulation, while motivational regulation changes related to achievement](../claims/physiological-synchrony-cognitive-regulation-dindar.md) [~W]
 - [Self-assessment accuracy in PBL depends on achievement level: low achievers graded generously, high achievers accurately](../claims/self-assessment-accuracy-achievement-level-pbl.md) [~W]

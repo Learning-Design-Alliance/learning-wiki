@@ -17,7 +17,7 @@ sources:
 # Shift counselor education research and training emphasis from what the counselor is to what the counselor can perform
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 1 study (1 review), `q2` · 1 of 1 report an effect size · 10 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 1 study (1 review), `q2` · 1 of 1 report an effect size · 8 claims rest on one study
 
 ## Description
 The review recommends replacing the pursuit of an ideal counselor personality with identification of specific counseling skills, behaviors, and interactions and their relationship to counseling outcome. It reports Mosher's (1967) "call for a change in emphasis from what the counselor is to what he can perform," and points to Carkhuff's skill-training programs and Ivey's microcounseling as initial efforts with optimistic results.
@@ -40,8 +40,6 @@ The review recommends replacing the pursuit of an ideal counselor personality wi
 ## Claims
 
 - [Calls to use the 16PF for selecting counselor trainees are premature because findings vary and the specification equation lacks cross-validation](../claims/16pf-counselor-selection-premature.md) [~W]
-- [Significant findings about counselor characteristics often failed to replicate, with contrary results shown on re-investigation](../claims/counselor-characteristic-findings-fail-to-replicate.md) [+W]
-- [Global-judgment criteria of counseling effectiveness lack clarity, making replication of characteristic studies fruitless](../claims/global-judgment-criteria-replication-fruitless.md) [+W]
 - [Microcounseling has been shown effective in teaching numerous behaviorally defined interviewer skills](../claims/microcounseling-teaches-interviewer-skills.md) [+W]
 - [Most counselor personality variables investigated since 1960 were not significantly related to the effectiveness criteria employed](../claims/rowe-1975-counselor-traits-unrelated.md) [+W]
 - [Clients of high-facilitative counselors engaged in significantly more self-exploration than clients of low-facilitative counselors](../claims/high-facilitative-counselors-more-client-self-exploration.md) [+W]

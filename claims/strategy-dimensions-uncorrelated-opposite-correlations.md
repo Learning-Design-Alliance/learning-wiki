@@ -45,5 +45,5 @@ Zero-order correlations in the 71-student subsample (Table 3). The two strategy 
 ## Related Claims
 - [Self-reported multiple-text strategies did not predict intratextual comprehension, where prior knowledge was the unique predictor](strategies-not-predict-intratextual-comprehension.md) — related
 - [Self-reported accumulation negatively predicts intertextual comprehension while cross-text elaboration positively predicts it, after controlling for prior knowledge](strategies-predict-intertextual-comprehension.md) — related
-- [A task-specific multiple-text strategy inventory yields two correlated strategy dimensions: cross-text elaboration and accumulation of information](mtsi-two-factor-strategy-dimensions.md) — related
+- A task-specific multiple-text strategy inventory yields two correlated strategy dimensions: cross-text elaboration and accumulation of information — related
 - [External validity of the special-issue strategy measures was mixed: low-to-moderate comprehension correlations for Bräten and Strømsø and Magliano et al., indeterminate for Schellings and Winne and Muis](external-validity-mixed-across-new-strategy-instruments.md) — related

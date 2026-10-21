@@ -48,3 +48,4 @@ The review cites prior empirical work by Zhao et al. (2019) showing that facial 
 - [Trust evaluations were strongly and positively correlated across all robot–task combinations, suggesting trust in social robots may be a stable, generalized attitude](trust-stable-generalized-attitude-robots.md) — related
 - [Robot communication cues affect sense of agency: predicted-path display and averted gaze reduce it, direct gaze raises it, and facial expression shows no effect](robot-communication-cues-sense-of-agency.md) — related
 - [Participants generally felt humanlikeness should not be a design goal for a writing-support agent used as a tool](participants-prefer-tool-over-humanlike-agent.md) — a narrower finding that bears on this claim
+- [RALL studies raise general issues regarding robots' social behavior in learning situations](rall-robot-social-behavior-issues.md) — related

@@ -54,3 +54,4 @@ Digital Promise researchers' analysis of three surveys administered across the 2
 - [Monthly external coaching from Digital Promise held Design Teams accountable and generated ideas no one else in the room had](external-coaching-accountability-idea-generation.md) — related
 - [A majority of surveyed teachers (61%) reported that participating in the Verizon Innovative Learning Schools program improved their job satisfaction](vils-teachers-61-percent-improved-job-satisfaction.md) — related
 - [Dynamic Learning Project research found teachers who worked with edtech coaches used technology more frequently and felt more confident than peers who did not](dlp-coaching-technology-use-confidence.md) — a broader claim this one bears on
+- [Participating in team-based professional development changed how higher education teachers perceived themselves and their role as teachers](team-pd-teacher-identity-change.md) — related

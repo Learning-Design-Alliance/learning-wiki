@@ -17,7 +17,7 @@ sources:
 # Align formal instruction with students' prior culturally fostered tool use
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article argues that teaching requires providing mediation involving students in problem-solving with appropriate cultural tools: 'a teacher who demands that students use tools outside their cultural repertoires for tasks that do not build on their prior problem-solving experiences is not teaching, but assigning and testing'. When there is little congruence between formal instruction and students' prior tool use, and no reciprocal relationship regarding tool use, instruction will fail. Heath (1991) is cited noting school mediational means must be congruent in some way with students' prior learning experiences.
@@ -42,7 +42,6 @@ The article argues that teaching requires providing mediation involving students
 ## Claims
 
 - [Moll and Greenberg found Mexican American students judged deficient in school displayed complex cognition in their home community](../claims/moll-greenberg-culture-laden-evaluative-mediation.md) [+W]
-- [Luria's Uzbekistan cognition research is of questionable validity because its mediational means were culturally inappropriate](../claims/luria-questionable-validity.md) [~W]
 
 ## Related Strategies
 - 

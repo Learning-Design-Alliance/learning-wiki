@@ -49,4 +49,4 @@ The editorial reports the Steier, Kersting, and Silseth qualitative study of a w
 - [Joint attention is a group phenomenon not reducible to either individual's mental representations](joint-attention-group-phenomenon.md) — related
 - [Virtual objects in shared VR environments can serve as effective media for collaborative knowledge building among in-service teachers manipulating geometric shapes](virtual-objects-shared-vr-collaborative-knowledge-building.md) — related
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — related
-- [Group engagement can be operationalized as a differentiated, evolving, multi-faceted construct at the group unit of analysis](group-engagement-multifaceted-group-level.md) — related
+- Group engagement can be operationalized as a differentiated, evolving, multi-faceted construct at the group unit of analysis — related

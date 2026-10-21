@@ -43,6 +43,6 @@ The review's own summary judgment of the studies it surveys in its section on sc
 
 
 ## Related Claims
-- [Significant findings about counselor characteristics often failed to replicate, with contrary results shown on re-investigation](counselor-characteristic-findings-fail-to-replicate.md) — a narrower finding that bears on this claim
+- Significant findings about counselor characteristics often failed to replicate, with contrary results shown on re-investigation — a narrower finding that bears on this claim
 - [Most investigated counselor personality variables are not significantly related to effectiveness criteria, and variables significant in one study often show contrary results when re-investigated](counselor-traits-mostly-unrelated-to-effectiveness.md) — possibly the same claim (merge candidate)
-- [Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive](global-judgment-criteria-replication-fruitless.md) — related
+- Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive — related

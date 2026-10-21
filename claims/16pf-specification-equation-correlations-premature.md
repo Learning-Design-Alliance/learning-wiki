@@ -63,7 +63,7 @@ The review reports Shelton's (1973) study using a composite client-rating on the
 
 ## Related Claims
 - [Quality of the therapeutic relationship and counseling effectiveness are not correlated with each other, though both correlate with therapist experience](therapeutic-relationship-quality-uncorrelated-with-effectiveness.md) — related
-- [Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive](global-judgment-criteria-replication-fruitless.md) — related
+- Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive — related
 - [Clients of high-facilitative counselors engage in significantly more self-exploration than clients of low-facilitative counselors](high-facilitative-counselors-more-client-self-exploration.md) — related
 - [Standardized test batteries are poor predictors of counselor trainee success](standardized-tests-poor-predictors-trainee-success.md) — related
 - [Most investigated counselor personality variables are not significantly related to effectiveness criteria, and variables significant in one study often show contrary results when re-investigated](counselor-traits-mostly-unrelated-to-effectiveness.md) — related

@@ -45,6 +45,6 @@ Comparison of first-order Markov models built with pMineR from the three channel
 ## Related Claims
 
 - [Adding peripheral data to navigational logs sharply changes the detected distribution of SRL processes, revealing many more Organisation and far fewer First-reading processes](peripheral-data-changes-srl-process-distribution.md)
-- [Only with eye-tracking data does Monitoring appear as an intermediate process linking most other SRL processes in the process map](eye-tracking-reveals-monitoring-intermediate.md) — related
+- Only with eye-tracking data does Monitoring appear as an intermediate process linking most other SRL processes in the process map — related
 - [Most refinements from adding peripheral data convert First-reading or Re-reading into Organisation, and eye-tracking then corrects many back to First-reading](refined-processes-reading-to-organisation.md) — related
 - [Adding data channels refines roughly 29–52% of detected SRL process time, measured by a new percent-of-processes-refined metric](percent-processes-refined-metric-results.md) — related

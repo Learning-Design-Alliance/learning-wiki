@@ -44,12 +44,11 @@ The editorial reports that Holtz et al. describe three prototypical big data met
 
 ## Related Claims
 
-- [Wikipedia clusters representing social and biomedical views on schizophrenia merged toward the integrative diathesis-stress model while the psychoanalytic cluster stayed isolated](schizophrenia-cluster-merger-diathesis-stress.md) — a narrower finding that bears on this claim
+- Wikipedia clusters representing social and biomedical views on schizophrenia merged toward the integrative diathesis-stress model while the psychoanalytic cluster stayed isolated — a narrower finding that bears on this claim
 - [New Wikipedia knowledge emerges around pivotal articles: high-centrality articles within domains and high-betweenness boundary-spanning articles between domains](new-knowledge-at-pivotal-central-boundary-articles.md) — a narrower finding that bears on this claim
 - [Central Wikipedia articles are primarily edited by domain specialists while boundary-spanning articles are authored by generalists](specialists-edit-central-generalists-span-boundaries.md) — a narrower finding that bears on this claim
 - [Wikipedia contributors show confirmation bias by preferentially editing articles consistent with their own views](wikipedia-contributors-confirmation-bias-editing.md) — a narrower finding that bears on this claim
 - [Articles edited by more heterogeneous contributors are more balanced, indicating productive friction that counters polarization](heterogeneous-contributors-balance-articles.md) — a narrower finding that bears on this claim
-- [Cluster analysis of blog networks yields five distinct social-role categories](blog-network-cluster-five-social-roles.md) — related
-- [Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis](artifact-structure-operationalizes-collective-knowledge.md) — related
-- [In reviewed studies, individual data types were analyzed mainly with descriptive analysis, content analysis, network analysis, and clustering](four-analytical-methods-individual-participation.md)
+- Cluster analysis of blog networks yields five distinct social-role categories — related
+- Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis — related
 - [Wikipedia history analysis shows external assimilation: a user added only the CSILE/Knowledge Forum link without further changes](wikipedia-cscl-external-assimilation-example.md) — a narrower finding that bears on this claim

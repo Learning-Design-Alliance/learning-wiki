@@ -51,5 +51,5 @@ Meta-analysis of 11 multi-age studies (Table 2): cognitive effects d = -.05 (N =
 - [Noncognitive outcomes of multigrade classes show essentially zero overall effect after outlier removal](multigrade-noncognitive-effects-near-zero.md) — possibly the same claim (merge candidate)
 - [Country of publication moderates multigrade cognitive effects, with a small negative effect only for European studies](country-moderates-multigrade-effects.md) — related
 - [Multigrade classes show negative weighted effects for science and social studies but not English as a foreign language](multigrade-science-social-studies-negative.md) — related
-- [Evidence for a selection bias favoring multigrade classes is limited, found explicitly in only 4 of 51 studies](limited-evidence-multigrade-selection-bias.md) — related
+- Evidence for a selection bias favoring multigrade classes is limited, found explicitly in only 4 of 51 studies — related
 - [Staff development for multigrade teachers improved time-on-task and teaching skills but did not raise achievement relative to untrained single-grade classes](staff-development-multigrade-teachers-effects.md) — related

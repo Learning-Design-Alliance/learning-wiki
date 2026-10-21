@@ -45,6 +45,6 @@ Conceptual analysis of the Hong Kong macro-context. The article argues that alth
 ## Related Claims
 - [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — related
 - [Four changes in CSCL over thirty years include mainstream collaborative pedagogies, collaboration technology becoming infrastructure, changed definitions of learning, and collaboration changing scale](four-changes-cscl-evolution.md) — related
-- [CSCL 2011 marked a significant increase in Asian participation in CSCL research, drawing over 400 registrants from more than 30 countries](cscl2011-asian-participation-growth.md) — related
+- CSCL 2011 marked a significant increase in Asian participation in CSCL research, drawing over 400 registrants from more than 30 countries — related
 - [Scaling up educational innovation requires attention to breadth of use, depth of understanding, sustainability, and teachers' ability to refine the innovation](scaling-up-dimensions-breadth-depth-sustainability.md) — a broader claim this one bears on
 - [New teachers introduced to Knowledge Forum first tended to use it for teacher-directed instruction rather than collaborative knowledge building](premature-knowledge-forum-lethal-mutation.md) — related

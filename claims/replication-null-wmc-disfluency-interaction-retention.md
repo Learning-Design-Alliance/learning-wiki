@@ -50,7 +50,7 @@ Pre-registered supervised online replication experiment (final N = 96; fluent n 
 - [Disfluency and WMC × disfluency did not affect extraneous cognitive load, contrary to hypotheses](no-ecl-effect-disfluency.md) — related
 - [Across the four existing experiments on WMC moderation of disfluency, results are inconsistent: one finds the effect restricted to high-span, one to low-span, and two find null moderation](inconsistent-wmc-disfluency-moderation-literature.md) — a broader claim this one bears on
 - [Working memory capacity moderated disfluency effects in one study but not another](wmc-moderates-disfluency-mixed.md) — a broader claim this one bears on
-- [The primary study (Lehmann et al., 2016) had only about 45% power to detect its observed interaction effect; roughly 150 participants would be needed for 80% power](primary-study-underpowered-interaction-45-percent.md) — related
+- The primary study (Lehmann et al., 2016) had only about 45% power to detect its observed interaction effect; roughly 150 participants would be needed for 80% power — related
 - [Disfluency and WMC × disfluency did not affect intrinsic or germane cognitive load](no-icl-gcl-effects-disfluency.md) — related
 - [The learning benefits of perceptual disfluency reported by Diemand-Yauman et al. (2011) do not replicate in any general way](disfluency-benefits-do-not-replicate.md) — related
 - [All 13 special-issue studies failed to show overall better performance due to disfluency](thirteen-studies-null-disfluency-performance.md) — related

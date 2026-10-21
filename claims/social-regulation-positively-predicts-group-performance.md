@@ -46,7 +46,6 @@ Multiple regression analysis using the four interaction factor scores to predict
 
 - [Performing social activities negatively predicts group performance in CSCL inquiry tasks](social-activities-negatively-predict-group-performance.md)
 - [Information discussion and regulation of task-related activities did not significantly predict group performance](information-discussion-task-regulation-no-performance-effect.md)
-- [Collaborative activities in CSCL chat cluster into four factors: information discussion, regulation of task-related activities, regulation of social activities, and social activities](four-factor-structure-collaborative-activities.md)
 - [The four collaborative-activity factors jointly explain almost 50% of the variance in group performance](collaboration-factors-explain-half-performance-variance.md)
 - [Regulation of social activities positively affected group performance (Janssen et al.)](social-activities-regulation-group-performance.md) — possibly the same claim (merge candidate)
 - [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md) — a broader claim this one bears on

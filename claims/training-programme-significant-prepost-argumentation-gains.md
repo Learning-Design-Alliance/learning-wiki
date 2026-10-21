@@ -63,5 +63,5 @@ Wilcoxon effect sizes for the experimental group's pre-post gains were calculate
 
 ## Related Claims
 - [At the end of the programme, the trained experimental group differed significantly from the control group in argumentation competence](posttest-experimental-beats-control-argumentation.md) — related
-- [Before the training, experimental and control PESTs were largely equivalent in argumentative competence, except justifications in the tree growth activity where the control group scored lower](pretest-group-equivalence-justification-difference.md) — related
+- Before the training, experimental and control PESTs were largely equivalent in argumentative competence, except justifications in the tree growth activity where the control group scored lower — related
 - [Six months after training, the experimental group showed a slight improvement over the control group in transferring argumentation to teaching practice, especially in mentioning argumentation in practice portfolios](sixmonth-portfolio-transfer-argumentation.md) — related

@@ -12,7 +12,7 @@ generated:
 # Deriving observational self-regulation coding items from adult-reported measures
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review recommends grounding observational tool development in analysis of adult-reported measures because such tools emphasize overt behaviors across diverse daily contexts and informants. As the authors argue, "adult-reported tools emphasize overt and observable behaviors. This makes them a valuable source for identifying candidate behaviors to serve as coding items in observational tools." Item wording overlap and variation across measures can also inform operational definitions of target behaviors.
@@ -22,7 +22,6 @@ The review recommends grounding observational tool development in analysis of ad
 - **Analyze adult-reported measures as a conceptual foundation for developing observational self-regulation tools**: The review recommends grounding observational tool development in analysis of adult-reported measures because such tools emphasize overt behaviors across diverse daily contexts and informants. As the authors argue, "adult-reported tools emphasize overt and observable behaviors. This makes them a valuable source for identifying candidate behaviors to serve as coding items in observational tools." Item wording overlap and variation across measures can also inform operational definitions of target behaviors. (Jiang et al. (2025))
 
 ### Claims
-- [Systematic review identified 19 adult-reported self-regulation measures, 138 unique terms, 62 codes, and 25 facets](../claims/sr-review-19-measures-25-facets.md) [+M]
 
 ## Related Research Methods
 -

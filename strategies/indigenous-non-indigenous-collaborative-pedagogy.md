@@ -42,6 +42,7 @@ The paper presents collaboration between Indigenous and non-Indigenous academics
 ## Related Strategies
 
 - [Cultivation of Multiple Ways of Knowing and Making Meaning](cultivate_multiple_ways_of_knowing_and_making_meaning.md)
+- [Base inclusive-strategy training on indigenous pedagogies and enable use of advanced evidence-based techniques](indigenous-pedagogy-training-inclusive-strategies.md)
 
 ## Examples
 -

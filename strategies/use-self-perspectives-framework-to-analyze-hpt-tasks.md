@@ -17,7 +17,7 @@ sources:
 # Use the self-perspectives framework to analyze how seemingly similar HPT tasks elicit different processes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Educators and researchers can apply the four-self-perspectives framework to diagnose what different HPT tasks actually ask of learners, since tasks operationalized as constructing hypothetical people, weighing prominent figures' thoughts, or reasoning abstractly may elicit different self perspectives. The article states the framework "can help educators to test new ways of facilitating HPT" and aims to "demonstrate how learning scientists and history educators can use the framework to understand how seemingly similar tasks may elicit very different processes among learners."
@@ -44,7 +44,6 @@ Educators and researchers can apply the four-self-perspectives framework to diag
 - [HPT is not a simple shedding of presentist perspectives: multiple selves of one learner intertwine with the target's perspective](../claims/hpt-multiple-selves-intertwined.md) [+W]
 - [Imagining (imagined past self) may give learners a greater feeling of entry into a historical situation than hypothesizing](../claims/imagined-past-self-greater-entry.md) [+W]
 - [The now-self functions as an anchor in HPT: participants began in now-self and frequently returned to it](../claims/now-self-anchors-hpt.md) [+W]
-- [Coding of self perspectives reached acceptable interrater agreement (89%, κ=.77)](../claims/self-perspective-coding-interrater-agreement.md) [+W]
 - [Shifts among self perspectives are locatable moments of learning in which the self develops and expands](../claims/self-perspective-shifts-as-learning.md) [+W]
 
 ## Related Strategies
