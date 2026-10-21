@@ -36,7 +36,7 @@ Damsgaard, L., Nielsen, A.-M. V., Topor, M. K., Hansen, R. A., Jensen, S. K., Ma
 
 `q3 · i3` · `causal · r2`
 
-Randomized controlled trial with 52 grade 1 children assigned to MOVE (n=24) or CON (n=29), analyzed with linear mixed models. The direct training effect on letter-sound naming showed "a significantly larger improvement in all letter-sound from T1 to T2 for MOVE compared to CON" with d = 2.0 and d = 2.3 for conditional sounds.
+Randomized controlled trial with 53 grade 1 children assigned to MOVE (n=24) or CON (n=29), 52 of whom completed the post-test (T2), analyzed with linear mixed models. The direct training effect on letter-sound naming showed "a significantly larger improvement in all letter-sound from T1 to T2 for MOVE compared to CON" with d = 2.0 and d = 2.3 for conditional sounds.
 
 > "Between-group analysis showed a significantly larger improvement in all letter-sound from T1 to T2 for MOVE compared to CON (p < 0.001, mean = 3.9, 95% CI (2.8, 4.9), d = 2.0). There was also a significantly larger improvement for conditional sounds in MOVE compared to CON (p < 0.001, mean = 3.5, 95% CI (2.6, 4.3), d = 2.3)"
 
