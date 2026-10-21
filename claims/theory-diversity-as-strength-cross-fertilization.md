@@ -45,4 +45,4 @@ Panel discussion during the first workshop group session on CSCL definitions. Pa
 ## Related Claims
 - [Participants identified communication across paradigms, not the absence of a single paradigm, as CSCL's main challenge](cross-paradigm-communication-the-main-cscl-challenge.md) — related
 - [CSCL workshop participants concluded that building a single shared CSCL paradigm was neither feasible nor desirable, favoring maintained paradigm diversity](cscl-paradigm-building-deemed-infeasible-2025-workshop.md) — related
-- [Wise and Schwarz's eight provocations, per Rummel, emphasize important CSCL dimensions but do not develop a common position, prompting a proposed taxonomy for a shared field agenda.](rummel-taxonomy-shared-cscl-agenda.md) — related
+- Wise and Schwarz's eight provocations, per Rummel, emphasize important CSCL dimensions but do not develop a common position, prompting a proposed taxonomy for a shared field agenda. — related

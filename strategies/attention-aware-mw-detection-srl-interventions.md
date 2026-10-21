@@ -17,7 +17,7 @@ sources:
 # Use automated mind-wandering detection in attention-aware learning technologies to trigger real-time interventions that promote SRL strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (3 review), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (2 review, 1 quant-synthesis), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The review recommends that automated, unobtrusive mind-wandering detection via multimodal data streams and machine learning be used in attention-aware, adaptive learning technologies to deliver targeted interventions. It states that integrating mind-wandering research into SRL frameworks "can improve the effectiveness of real-time interventions based on automated mind-wandering detection in attention-aware learning technologies, thereby supporting SRL," for instance by promoting SRL strategies when detection signals disengagement.
@@ -44,7 +44,6 @@ The review recommends that automated, unobtrusive mind-wandering detection via m
 ## Claims
 
 - [Learners engage in mind wandering approximately 30% of the time spent in educational activities, and this is associated with deteriorated learning outcomes](../claims/mind-wandering-30-percent-educational-time.md) [+W]
-- [An equal number of reviewed studies measured mind wandering unobtrusively via multimodal data streams, with 27% using machine learning](../claims/mw-multimodal-unobtrusive-27-percent-ml.md) [+W]
 - [Task-unrelated thoughts are consistently associated with lower test performance, accounting for approximately 7% of the variation in learning outcomes](../claims/tut-lower-test-performance-7-percent-variance.md) [+W]
 - [Mind wandering can both prompt SRL and function as a regulatory strategy, and multimodal machine-learning sensing offers scalable assessment of attentive states](../claims/mind-wandering-dual-role-srl-regulatory-strategy.md) [+W]
 - [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](../claims/elaborate-feedback-raises-engagement-perceptions.md) [+W]

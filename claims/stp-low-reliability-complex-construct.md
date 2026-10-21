@@ -59,7 +59,7 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related
 - Think aloud coding achieved inter-rater reliability of k = .53-.65 (kmax = .81-.82) between two coders using ELAN software — related
 - [Human coding of other-oriented transacts in the debate corpus reached high inter-coder reliability (kappa 0.72 for reasoning, 0.7 for transactivity, 0.95 for self/other distinction)](transactivity-coding-kappa-reliability-debate-corpus.md)
-- [The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers](se-review-coding-kappa-089.md) — related
+- The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers — related
 - [High agreement between two LLM screeners indicates consistency among outputs, not accuracy, because models may exhibit correlated failure patterns](llm-agreement-is-consistency-not-accuracy.md) — related
 - [Rubric-based assessment showed substantial to almost-perfect inter-rater reliability across all three time points](rubric-interrater-reliability-visualization-assessment.md) — related
 - [Inter-annotator agreement was moderate (combined mean Fleiss's κ of 0.62 across 23 groups), yet most students reported having reached consensus](moderate-kappa-versus-perceived-consensus-gap.md) — related

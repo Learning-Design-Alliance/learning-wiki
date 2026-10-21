@@ -141,7 +141,7 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance](online-growth-mindset-intervention-modest-effects.md) — possibly the same claim (merge candidate)
 - [In the pilot A/B experiments, indirect framing outperformed direct framing, refuting the fixed mindset backfired for strong fixed-mindset holders, and celebrity endorsements increased adoption](ab-testing-mindset-content-findings.md) — related
 - [GMT as a standalone intervention shows small average effects that approach zero when publication bias is controlled, per the review's account of Macnamara and Burgoyne's meta-analysis](gmt-standalone-small-mixed-effects.md) — related
-- [Authors with a financial interest in GMT were 2.5 times as likely to report significant effects, per the review's account of Macnamara and Burgoyne](gmt-financial-interest-significant-effects.md) — related
+- Authors with a financial interest in GMT were 2.5 times as likely to report significant effects, per the review's account of Macnamara and Burgoyne — related
 - [Fixed mindset correlates negatively with GPA among U.S. 9th-grade students (average r = −.22) in a nationally representative sample](fixed-mindset-gpa-correlation-national-sample.md) — related
 - [Effect sizes linking growth mind-set to achievement are highly heterogeneous and often nonsignificant](mindset-achievement-heterogeneity-high.md) — related
 - [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with no significant variation in this effect detected across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — related

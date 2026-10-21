@@ -45,7 +45,7 @@ Statistical discourse analysis combined with content analysis and discourse anal
 
 
 ## Related Claims
-- [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](need-micro-level-theory-and-method-guidelines-ssrl.md) — related
+- The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains — related
 - [Statistical discourse analysis of collaborative learning shows metacognitive planning organizes subsequent cognitive activity while relational activities help enact it](sda-planning-organizes-subsequent-cognition.md) — possibly the same claim (merge candidate)
 - [Scaffolded conditions in Betty's Brain showed scaffolding-induced strategy use within the scaffolding time window although the three conditions did not differ in learning gains](scaffolding-alters-strategy-use-not-learning-gains.md) — related
 - [Metacognitive scaffolding did not significantly affect group performance of collaborating triads, though the effect size indicated a small to medium positive effect](scaffolding-no-significant-group-performance-effect.md) — related

@@ -45,4 +45,4 @@ Stated limitation in the Challenges and Limitations section. The article adds th
 ## Related Claims
 - [High school teachers report more OpenSciEd engagement challenges than middle school teachers, and urban respondents rate challenges as occurring more often than suburban and rural respondents.](openscied-subgroup-setting-differences.md) — related
 - [Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face](rural-setting-exacerbates-school-improvement-challenges.md) — related
-- [Special issue findings are soft: small-scale case studies limit generalizability](tad-tel-case-studies-limited-generalizability.md) — related
+- Special issue findings are soft: small-scale case studies limit generalizability — related

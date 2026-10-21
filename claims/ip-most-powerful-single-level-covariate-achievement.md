@@ -50,4 +50,4 @@ Meta-analytic integration of single-level design parameters estimated from six G
 - [General and fluid intelligence correlate strongly with mathematics achievement (r = .41 to .62), and the fluid-intelligence correlation is larger in older samples](intelligence-correlates-strongly-with-math-achievement.md) — related
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
 - [Typical R2Child values with sociodemographic and baseline covariates were around 0.18–0.26 for preschool cognitive and SEL outcomes in US data](preschool-typical-r2child-covariate-sets.md) — related
-- [The study estimated 237 single-level, 589 two-level, and 226 three-level design parameters from German preschool probability samples](preschool-design-parameters-estimated-counts.md) — related
+- The study estimated 237 single-level, 589 two-level, and 226 three-level design parameters from German preschool probability samples — related

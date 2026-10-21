@@ -51,4 +51,4 @@ Moderator analysis on immediate posttests (k overall = 48) coded whether a famil
 - [Programs offering only literacy-related activities yield larger effects than programs also targeting other cognitive or socioemotional skills](flp-literacy-only-programs-larger-effects.md) — related
 - [Family literacy programs produce a medium average effect (d = 0.50) on low-SES children's emergent literacy at immediate posttest but only a marginal effect (d = 0.16) at follow-up](flp-medium-immediate-marginal-followup-effect.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
-- [Experimental designs and study-specific measures are associated with larger program effects, while peer-reviewed status shows no indication of publication bias](flp-design-and-measure-modulators.md) — related
+- Experimental designs and study-specific measures are associated with larger program effects, while peer-reviewed status shows no indication of publication bias — related

@@ -50,4 +50,4 @@ Meta-analysis of 35 intervention studies (7701 students aged 6–16) using Robus
 - [Moderate-to-vigorous intensity active breaks are associated with slightly greater working-memory improvements than moderate intensity, in exploratory meta-regression](mvpa-intensity-moderates-working-memory-effect.md) — a narrower finding that bears on this claim
 - [Effects of active breaks on mathematical achievement are small and lose significance under Robust Variance Estimation](active-breaks-math-achievement-mixed-significance.md) — related
 - [Classroom active breaks show no reliable effect on mathematical fluency](active-breaks-null-effect-mathematical-fluency.md) — related
-- [The pooled association is robust to dependence, baseline-adjustment, risk-of-bias, and effect-size-derivation sensitivity analyses](pooled-association-robust-sensitivity-analyses.md) — related
+- The pooled association is robust to dependence, baseline-adjustment, risk-of-bias, and effect-size-derivation sensitivity analyses — related

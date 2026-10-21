@@ -13,7 +13,7 @@ generated:
 # Multiple-Text Strategy Inventory (MTSI)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (1 associational, 1 theoretical), `q2` · 1 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 associational, 1 theoretical), `q2` · 1 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A 15-item questionnaire developed by Ivar Bråten and colleagues to assess undergraduates' self-reported accumulation and cross-text elaboration strategies immediately after reading multiple texts.
@@ -23,7 +23,6 @@ A 15-item questionnaire developed by Ivar Bråten and colleagues to assess under
 
 ### Claims
 
-- [A task-specific multiple-text strategy inventory yields two correlated strategy dimensions: cross-text elaboration and accumulation of information](../claims/mtsi-two-factor-strategy-dimensions.md) [+M]
 - [Self-reported accumulation negatively predicts intertextual comprehension while cross-text elaboration positively predicts it, after controlling for prior knowledge](../claims/strategies-predict-intertextual-comprehension.md) [+M]
 - [Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension](../claims/strategy-dimensions-uncorrelated-opposite-correlations.md) [+W]
 - [Self-reported multiple-text strategies did not predict intratextual comprehension, where prior knowledge was the unique predictor](../claims/strategies-not-predict-intratextual-comprehension.md) [~W]

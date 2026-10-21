@@ -45,6 +45,6 @@ This is the authors' forward-looking assessment, citing Bonilla-Silva's (2019) d
 ## Related Claims
 - [Pre-service teachers with higher color-blind racial ideology scores had difficulties regulating emotions in racial situations](color-blind-ideology-emotion-regulation-difficulties.md) — a narrower finding that bears on this claim
 - [Race-reimaging ultimately transforms a race-less construct into a race-focused construct](race-reimaging-creates-race-focused-constructs.md) — a broader claim this one bears on
-- [Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely](conceptual-ambiguity-impedes-theory-integration.md) — a broader claim this one bears on
+- Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely — a broader claim this one bears on
 - [School racial climate subscales showed positive relationships with motivational constructs including interest, belonging, and utility value](school-racial-climate-positive-motivational-relationships.md) — related
 - [The role of affect in STEM teacher learning remains seriously underexplored despite growing research on teacher emotion](affect-in-stem-teacher-learning-underexplored.md) — related

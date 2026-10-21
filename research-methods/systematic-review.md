@@ -18,7 +18,7 @@ sources:
 # Systematic review
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (6 for) · 3 studies (3 quant-synthesis), `q3` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (3 quant-synthesis), `q3` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The article defines systematic reviews as a distinct genre of research synthesis. It states that "It is important to define what we mean by a systematic review to distinguish it from simple summaries of research", and that "Systematic reviews are designed to answer a question and prevent the information overload that decision makers at all levels may face." The framework positions the systematic review as a purposeful, question-anchored alternative to ad hoc summaries, used to support evidence-based decision making at all levels.
@@ -39,7 +39,6 @@ The article defines systematic reviews as a distinct genre of research synthesis
 - [Differentiation embedded in a broader program or reform has small to moderate positive effects on primary students' performance](../claims/differentiation-within-broader-program-positive-effects.md) [+M]
 - [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](../claims/homogeneous-ability-grouping-negative-low-ability.md) [+M]
 - [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](../claims/anti-bullying-programs-reduce-bullying-20-23-percent.md) [+M]
-- [Self-report measures of metacognition support a two-factor structure separating metacognitive knowledge from metacognitive regulation](../claims/self-report-two-factor-metacognition-knowledge-regulation.md) [+M]
 - [Self-report subscales do not reliably assess distinct metacognitive subcomponents, with structures of two to nine components found across studies](../claims/self-report-subcomponents-unreliable.md) [+M]
 
 ## Related Research Methods

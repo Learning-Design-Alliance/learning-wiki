@@ -43,5 +43,5 @@ The review reports, citing Foliano et al. (2019), a randomized controlled trial 
 
 
 ## Related Claims
-- [Authors with a financial interest in GMT were 2.5 times as likely to report significant effects, per the review's account of Macnamara and Burgoyne](gmt-financial-interest-significant-effects.md) — related
+- Authors with a financial interest in GMT were 2.5 times as likely to report significant effects, per the review's account of Macnamara and Burgoyne — related
 - [GMT as a standalone intervention shows small average effects that approach zero when publication bias is controlled, per the review's account of Macnamara and Burgoyne's meta-analysis](gmt-standalone-small-mixed-effects.md) — related

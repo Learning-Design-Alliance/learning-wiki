@@ -65,7 +65,7 @@ The review reports, citing Schellings (2011) and Van Hout-Wolters & Schellings (
 
 - [Self-report subscales do not reliably assess distinct metacognitive subcomponents, with structures of two to nine components found across studies](self-report-subcomponents-unreliable.md)
 - [MAKQ dimensions correlate moderately with each other, with strategy knowledge only weakly related to the self-perception scales](makq-intercorrelations-self-strategy.md)
-- [Self-report measures of metacognition support a two-factor structure separating metacognitive knowledge from metacognitive regulation](self-report-two-factor-metacognition-knowledge-regulation.md) — related
+- Self-report measures of metacognition support a two-factor structure separating metacognitive knowledge from metacognitive regulation — related
 - [A task-specific questionnaire built item-by-item from a think-aloud coding taxonomy correlated r=.51 with think-aloud protocols, higher than the -.07 to .42 regularly reported](task-specific-questionnaire-think-aloud-correlation-51.md) — a narrower finding that bears on this claim
 - [Low questionnaire–think-aloud correlations may have two alternative explanations besides poor self-report ability: the methods may measure different strategies or be aimed at different tasks](alternative-explanations-low-correlations-strategies-tasks.md) — related
 - [When SRL is measured at a coarse grain size (global self-regulation), students are relatively well able to report on their strategy use](coarse-grained-srl-self-reports-relatively-calibrated.md) — related

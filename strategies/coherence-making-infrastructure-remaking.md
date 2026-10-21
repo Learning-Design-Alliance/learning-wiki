@@ -17,7 +17,7 @@ sources:
 # Rally for coherence-making and infrastructure remaking activities between innovation and practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 This fourth IMPROV action area increases the fit between an intended innovation and organizational practice. The article states that "Coherence-making activities are pivotal for increasing the ﬁt between the intended innovation and organizational practice." These activities require participation of both researchers and practitioners on a continual basis, involve negotiation among actors with different professional conventions, and constantly reshape power relations.
@@ -40,7 +40,6 @@ This fourth IMPROV action area increases the fit between an intended innovation 
 
 ## Claims
 
-- [Design-based research is criticized for focusing on individual projects without guidance on long-term viability of innovations](../claims/dbr-lacks-guidance-long-term-viability.md) [+W]
 
 ## Related Strategies
 

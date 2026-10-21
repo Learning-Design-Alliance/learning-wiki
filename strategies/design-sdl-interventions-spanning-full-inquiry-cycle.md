@@ -17,7 +17,7 @@ sources:
 # Design SDL interventions that span the full inquiry cycle, including the underemphasized cleaning and disseminating practices
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because the review found Cleaning Data (n = 24) and Disseminating Results (n = 19) least frequently reported among the 42 studies, it calls for instructional designs that integrate data practices "across the full cycle of scientific inquiry" rather than concentrating on analysis and visualization. Interventions should deliberately include data cleaning facets (handling missing values, filtering, removing outliers, formatting) and dissemination facets (communicating findings to broader audiences) alongside collecting and analyzing data.
@@ -42,7 +42,6 @@ Because the review found Cleaning Data (n = 24) and Disseminating Results (n = 1
 
 ## Claims
 
-- [Collecting and analyzing data are the most prevalent data practices in K-16 science education research, while cleaning and disseminating data are least reported](../claims/data-practice-frequency-collecting-analyzing-most-prevalent.md) [+W]
 - [Engagement in data practices is associated with both cognitive and non-cognitive learning outcomes](../claims/data-practices-associated-cognitive-noncognitive-outcomes.md) [+W]
 
 ## Related Strategies

@@ -186,7 +186,7 @@ Narrative review of Richland et al. (2009), in which participants attempted five
 - [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
 - [Active control over the learning experience enhances recognition memory from age 7 into adulthood](active-control-enhances-memory-development.md) — related
-- [Reading passages without intent to learn was classified as rest because participants were not informed of a later test](incidental-reading-classified-as-rest.md) — related
+- Reading passages without intent to learn was classified as rest because participants were not informed of a later test — related
 - [Pretesting before instruction enhances learning of subsequently presented material even when pretest answers are wrong, with multiple-choice pretesting more effective than cued-recall pretesting](pretesting-enhances-learning-mc-beats-cued-recall.md) — a narrower finding that bears on this claim
 - [The pretesting effect on text memory grows with retention interval, being largest at one week](pretesting-effect-grows-with-retention-interval.md) — related
 - [Generation Effect Improves Retention](generation-effect-improves-retention.md) — related

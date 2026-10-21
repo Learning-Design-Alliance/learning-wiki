@@ -47,4 +47,4 @@ Qualitative analysis of the Wikipedia article "Computer-supported collaborative 
 - [Wikipedia history analysis shows external accommodation: the AIDS origin article progressively weakened and integrated the contentious polio vaccine theory](wikipedia-aids-origin-external-accommodation.md)
 - [Four forms of learning and knowledge building with wikis: internal and external assimilation and accommodation](four-processes-assimilation-accommodation-wikis.md) — a broader claim this one bears on
 - [Three big data methods—text classification, cluster analysis, and social network analysis—can each yield insights into learning in mass collaboration](three-big-data-methods-insights-mass-collaboration.md) — a broader claim this one bears on
-- [Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis](artifact-structure-operationalizes-collective-knowledge.md) — a broader claim this one bears on
+- Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis — a broader claim this one bears on

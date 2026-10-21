@@ -47,7 +47,7 @@ The commentary reports that Vermunt and Donche (2017) focused on 23 studies cond
 - [Zusho concludes SRL, SAL, and engagement perspectives all entail learner adaptation, and that models of student learning mismatch how they are measured](srl-sal-engagement-adaptation-measurement-mismatch.md)
 - [Fryer argues perceived control and need for competence may bridge differences among models of higher-education learning toward a mega-theory](perceived-control-competence-mega-theory-bridge.md)
 - [Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment](cultural-background-influences-learning-style-measurement.md)
-- [The special issue's contributions divide between narrative-review and systematic-review methodologies](sal-srl-special-issue-narrative-systematic-divide.md) — related
+- The special issue's contributions divide between narrative-review and systematic-review methodologies — related
 - [Learning patterns are associated with personal factors (personality, motivation, beliefs, prior education, age, gender); their associations with personality are weak to moderate, indicating learning patterns are not stable traits](learning-patterns-personal-factors.md) — related
 - [Studies since 2004 confirm strong interrelations among processing strategies, regulation strategies, conceptions, and motivations of learning patterns](learning-pattern-components-interrelated.md) — related
 - [The learning patterns model differs from SRL models by being multi-dimensional, non-normative, and including external regulation and lack of regulation](learning-patterns-versus-srl-models.md) — related

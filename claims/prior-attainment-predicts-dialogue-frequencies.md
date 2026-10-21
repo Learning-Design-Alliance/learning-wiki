@@ -44,7 +44,6 @@ Preliminary multiple regression analyses (11 backward elimination analyses with 
 
 ## Related Claims
 
-- [Eighteen potential confounds were eliminated, including all participant demographics, for lack of association with dialogue or outcome](eighteen-potential-confounds-eliminated.md)
 - [Prior biology knowledge predicted new AI knowledge in Lessons 1 and 2 but not in Lessons 3 and 4](prior-biology-predicts-ai-lessons-one-two-not-three-four.md)
-- [Turn-level dialogue codes cluster into three components: Elaborated, Reasoned and Non-Dialogic](dialogue-codes-three-component-pca-solution.md) — related
+- Turn-level dialogue codes cluster into three components: Elaborated, Reasoned and Non-Dialogic — related
 - [Expert rankings validate the Ratio variables, not absolute frequencies, as meaningful proxies for productive dialogue](expert-rankings-validate-ratio-variables.md) — related

@@ -64,6 +64,6 @@ Review's Table 3 codes the longitudinal RCT of mental health consultation (176 c
 
 
 ## Related Claims
-- [Research on early childhood exclusionary discipline is accelerating but remains dominated by cross-sectional designs and convenience samples of a few hundred teachers.](ecce-exclusion-research-accelerating-cross-sectional.md) — related
+- Research on early childhood exclusionary discipline is accelerating but remains dominated by cross-sectional designs and convenience samples of a few hundred teachers. — related
 - [Children's prior expulsion history is positively associated with expulsion risk, while rated disruptiveness of behavior was not a significant predictor in the one study testing both.](prior-expulsion-history-predicts-expulsion-risk.md) — related
 - [Exploratory ITT analyses showed small to medium negative effect estimates favoring control on confidence, hope, self-stigma, and personal recovery](story-mine-negative-exploratory-effects.md) — related

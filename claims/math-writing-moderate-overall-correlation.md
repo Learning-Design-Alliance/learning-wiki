@@ -48,6 +48,6 @@ Random-effects meta-analysis (Robust Variance Estimation) of 211 studies with 56
 ## Related Claims
 - [Mathematics and writing subskill category (lower vs. higher order) does not significantly moderate the mathematics–writing relation](subskill-category-no-moderation.md) — related
 - [The mathematics–writing correlation is stronger in primary grades (r = 0.52) than in university and beyond (r = 0.30)](math-writing-relation-stronger-primary-grades.md) — related
-- [Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses](publication-bias-math-writing-meta-analysis.md) — related
+- Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses — related
 - [Standardized, normed writing assessments show a stronger mathematics–writing correlation (r = 0.50) than non-standardized writing assessments (r = 0.31)](standardized-writing-tasks-stronger-relation.md) — related
 - [In primary grades, lower order writing and lower order mathematics skills show the strongest relation (r = 0.59); in adulthood the higher order pair is weak (r = 0.26)](subskill-pairs-relation-varies-by-grade.md) — a narrower finding that bears on this claim

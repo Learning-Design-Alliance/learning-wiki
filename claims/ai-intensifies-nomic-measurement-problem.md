@@ -49,6 +49,6 @@ Conceptual analysis in Phase 2 (instrumentation and measurement), applying Chang
 - [GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability, with substitution capacity depending on task cognitive demands](genai-disrupts-evidence-rules-asymmetrically.md) — related
 - [Group-level marginal inferences identify population propensity and autonomy but are nearly vacuous for higher algorithmic skill levels](group-marginal-inferences-cat-skills-propensity.md) — related
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related
-- [Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts](benefits-of-formal-modelling-theory.md) — related
+- Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts — related
 - [AI systems relying on black-box models should not be used for high-stakes applications](black-box-ai-not-for-high-stakes-applications.md) — related
 - [Cognitive process inference in computerized testing rarely rests on strong process data](weak-process-data-in-computerized-testing.md) — related

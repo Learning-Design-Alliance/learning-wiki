@@ -65,5 +65,5 @@ Enrollment analysis of the California State University system, which historicall
 - [Estimated teacher hires increased 43% between 2013–14 and 2017–18, outpacing growth in credential issuance](teacher-hire-demand-increased-43-percent.md) — related
 - [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related
 - [TRGP-funded residents made up between 20 and 40 percent of all California residents between 2020-21 and 2022-23, and about 11 percent of teacher preparation completers self-identified as residency-prepared in 2022-23](trgp-residents-share-of-statewide-preparation.md) — related
-- [Annual output in Instructional Science rose markedly from around 2008, peaked at about 55 documents in the early 2010s, then declined to roughly 30–40 papers annually](instructional-science-publication-trend-2008-peak-decline.md) — related
+- Annual output in Instructional Science rose markedly from around 2008, peaked at about 55 documents in the early 2010s, then declined to roughly 30–40 papers annually — related
 - [Teacher preparation enrollments in California declined more than 75% between 2001–02 and 2013–14](california-preparation-enrollment-decline-75-percent.md) — related

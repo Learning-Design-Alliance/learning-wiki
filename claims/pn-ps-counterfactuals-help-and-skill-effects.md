@@ -46,4 +46,4 @@ Group-level counterfactual inference (generalised probabilities of necessity and
 - [Group-level marginal inferences identify population propensity and autonomy but are nearly vacuous for higher algorithmic skill levels](group-marginal-inferences-cat-skills-propensity.md) — related
 - [Individualised counterfactual inferences estimate whether a specific student would have performed differently under different help conditions](individual-counterfactuals-student-help-conditions.md) — related
 - [Marginal luck probabilities diagnose question calibration, flagging questions 7–9 as prone to over-performance and question 12 as particularly challenging](luck-marginals-question-calibration-diagnostic.md) — related
-- [Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts](benefits-of-formal-modelling-theory.md) — a broader claim this one bears on
+- Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts — a broader claim this one bears on

@@ -43,7 +43,7 @@ Construct validity part of the meta-analysis: correlations between ICL, ECL, and
 
 
 ## Related Claims
-- [Correlations of cognitive load types with learning outcomes and prior knowledge support CLT assumptions, and results support the three-factor model](criterion-validity-supports-three-factor-model.md) — related
+- Correlations of cognitive load types with learning outcomes and prior knowledge support CLT assumptions, and results support the three-factor model — related
 - [Germane load measurement is problematic: GCL-outcome correlations and item understanding show weaknesses across instruments](germane-load-measurement-problems.md) — related
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [Delayed post-learning assessments of ICL, ECL, and GCL do not differ between increasing and decreasing complexity sequences](delayed-assessments-invariant-to-sequence.md) — related

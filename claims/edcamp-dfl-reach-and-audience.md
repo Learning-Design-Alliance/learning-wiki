@@ -45,4 +45,3 @@ Outreach and demographic reporting in the Series Outreach and Study Methodology 
 - [Participants reported increased familiarity with each Designing for Learning topic after attending the Edcamp sessions](edcamp-dfl-increased-topic-familiarity.md) — related
 - [Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators](edcamp-dfl-comfort-sharing-with-peers.md) — related
 - [Serving as panelists or moderators increased educators' reported expertise, peer-support confidence, and leadership confidence](edcamp-dfl-panelist-moderator-leadership-growth.md) — related
-- [CSCL 2011 marked a significant increase in Asian participation in CSCL research, drawing over 400 registrants from more than 30 countries](cscl2011-asian-participation-growth.md)

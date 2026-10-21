@@ -44,5 +44,5 @@ Theoretical argument in the premise section: the author reasons by analogy to ot
 
 ## Related Claims
 - [Teachers designing TEL face serious constraints of time, expertise and endorsement](teacher-designers-time-expertise-constraints.md) — related
-- [Special issue findings are soft: small-scale case studies limit generalizability](tad-tel-case-studies-limited-generalizability.md) — related
+- Special issue findings are soft: small-scale case studies limit generalizability — related
 - [Practitioners hold that general instructional design principles are universal but must be separated from culturally specific applications](universal-principles-separated-from-applications.md) — related

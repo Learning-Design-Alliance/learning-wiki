@@ -43,11 +43,11 @@ Narrative review of trace-methodology work following Winne's idea of trace as da
 
 
 ## Related Claims
-- [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — a narrower finding that bears on this claim
+- Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time — a narrower finding that bears on this claim
 - [A temporal extraction rule classified the GENERAL INSTRUCTION -> PLANNER action pattern as Planning in the first 15 minutes but as Monitoring in the last 30 minutes](temporal-rule-planning-monitoring-distinction.md) — a narrower finding that bears on this claim
 - [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
 - [T-pattern analysis detected temporal-structure differences between children with specific language disorder and typically developing children that frequency and sequential lag analyses did not](t-pattern-analysis-detects-group-differences-sli.md) — related
 - [Groups' progress during collaboration falls into four data-driven categories differing in sequence frequencies and the regulation phases groups return to](four-categories-group-progress-monitoring-sequences.md) — related
 - [Most PBL groups settled into stable regulatory patterns early in the course, with transitions usually between similar patterns](stable-early-regulatory-patterns-limited-change.md) — related
 - [Model-based clustering of tied durations identifies four weekly regulation patterns in PBL group discussions](four-weekly-regulation-patterns-pbl.md) — related
-- [Weekly group data on PBL interactions showed substantial between-group variability (ICC 0.4), requiring multilevel growth models](group-variability-icc-multilevel-growth-models.md) — related
+- Weekly group data on PBL interactions showed substantial between-group variability (ICC 0.4), requiring multilevel growth models — related

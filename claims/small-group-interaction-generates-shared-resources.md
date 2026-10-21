@@ -43,6 +43,6 @@ Theoretical argument in the article's account of how planes connect: interaction
 
 
 ## Related Claims
-- [Journal papers function as resources traversing planes of community knowledge building](journal-papers-traverse-knowledge-building-planes.md) — related
+- Journal papers function as resources traversing planes of community knowledge building — related
 - [Positioning students as sources increases productive participation in science discourse](positioning-students-as-sources-increases-productive-participation-in-science-discourse.md) — related
-- [Connections among the planes of learning lack theoretical and empirical analysis](plane-connections-lack-theory-and-data.md) — related
+- Connections among the planes of learning lack theoretical and empirical analysis — related

@@ -46,4 +46,4 @@ Reflexive thematic analysis of semi-structured exit interviews conducted after v
 
 - [Supplying learners' own engagement-definition codes as context raised exploratory prediction from 64.6% to 71.5% balanced 1-off accuracy in an eighteen-participant cohort](definition-codes-improve-engagement-calibration.md) — related
 - [Only support for affective engagement predicts its matching engagement dimension; behavioral and cognitive support do not, contradicting the ACE framework's alignment](affective-support-predicts-all-engagement-dimensions.md) — related
-- [Fewer than half of undergraduate mathematics SE studies define engagement explicitly, and definitions vary in their use of multidimensionality, psychological investment, and observable behavior](se-definitions-heterogeneous-math.md) — related
+- Fewer than half of undergraduate mathematics SE studies define engagement explicitly, and definitions vary in their use of multidimensionality, psychological investment, and observable behavior — related

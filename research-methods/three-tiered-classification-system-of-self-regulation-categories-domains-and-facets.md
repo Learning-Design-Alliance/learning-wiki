@@ -12,7 +12,7 @@ generated:
 # Three-tiered classification system of self-regulation: categories, domains, and facets
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review establishes a hierarchical taxonomy for organizing the variety of self-regulation terms found in early-childhood measures. As the authors state, "a three-tiered classification system was established, starting with the most detailed processes (facets), which form the domains that, in turn, contribute to the broader categories." Facets are specific processes or skills (e.g., adaptability, attention shifting), which group into domains such as cognitive flexibility, which belong to the broader categories of cognitive, emotion, or behavior regulation. The system was built by open-coding terms from measure manuals and mapping facets to established constructs.
@@ -23,7 +23,6 @@ The review establishes a hierarchical taxonomy for organizing the variety of sel
 
 ### Claims
 
-- [Systematic review identified 19 adult-reported self-regulation measures, 138 unique terms, 62 codes, and 25 facets](../claims/sr-review-19-measures-25-facets.md) [+W]
 
 ## Related Research Methods
 

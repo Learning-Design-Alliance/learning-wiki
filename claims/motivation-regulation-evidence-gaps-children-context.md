@@ -45,4 +45,4 @@ Gap analysis of the evidence and gap map built from the 289 included studies, id
 
 ## Related Claims
 - [Prior work has elucidated factors contributing to middle and high school students' perceptions, but less is known about elementary students' perceptions](less-known-about-elementary-students-perceptions-of-teacher-interactions.md) — related
-- [Of 289 studies on motivation regulation, approximately three quarters examined university students, used cross-sectional designs, and relied on self-report questionnaires](motivation-regulation-research-dominated-by-university-cross-sectional-self-report.md) — related
+- Of 289 studies on motivation regulation, approximately three quarters examined university students, used cross-sectional designs, and relied on self-report questionnaires — related

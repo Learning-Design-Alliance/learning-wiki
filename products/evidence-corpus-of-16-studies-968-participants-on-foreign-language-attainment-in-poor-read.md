@@ -13,7 +13,7 @@ generated:
 # Evidence corpus of 16 studies (968 participants) on foreign language attainment in poor readers/spellers, with datasets and code on the Open Science Framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A von Hagen et al. evidence corpus of 16 foreign-language attainment comparison studies, with participant-level study data, meta-analytic datasets, and analysis code released through the Open Science Framework.
@@ -23,7 +23,6 @@ A von Hagen et al. evidence corpus of 16 foreign-language attainment comparison 
 
 ### Claims
 - [Children/adolescents with poor literacy skills score poorer on foreign language phonological awareness, letter knowledge, and reading comprehension than peers with typical literacy skills](../claims/poor-literacy-lower-fl-phonological-awareness-letter-knowledge-reading-comprehension.md) [+M]
-- [Significant between-study heterogeneity limits interpretation of foreign language attainment differences in poor readers/spellers](../claims/heterogeneity-limits-fl-attainment-interpretation.md) [+M]
 
 ## Related Products and Programmes
 -

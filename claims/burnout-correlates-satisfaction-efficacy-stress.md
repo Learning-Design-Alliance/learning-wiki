@@ -45,5 +45,5 @@ Systematic review of correlates across 99 studies. The most assessed constructs 
 ## Related Claims
 - [Burnout is the strongest predictor of principals' motivation to quit and mediates other predictors](burnout-predicts-motivation-to-quit.md) — related
 - [Professional development interventions showed mixed outcomes, with 14 of 20 studies supportive and 6 non-supportive](professional-development-interventions-mixed-outcomes.md) — related
-- [A third of principal burnout studies are of low quality and most imitate prior work rather than replicate it](low-quality-principal-burnout-studies.md) — related
+- A third of principal burnout studies are of low quality and most imitate prior work rather than replicate it — related
 - [Teacher self-efficacy shows negative associations with burnout factors](tse-negative-associations-burnout.md) — related

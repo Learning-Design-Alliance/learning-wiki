@@ -61,7 +61,7 @@ Category 4 groups stayed mostly in the task enactment phase; the study reports "
 
 
 ## Related Claims
-- [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — related
+- Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time — related
 - [Most groups maintain stable deliberation patterns across triggering events and fail to adapt to emerging regulatory needs](groups-stable-deliberation-patterns-fail-adapt.md) — related
 - [Novices showed marginally higher complexity of SRL phase sequences than experts (frequent but predictable transitions), with no group differences in entropy or transition number](novices-higher-srl-complexity-experts-moderate-diversity.md) — related
 - [Most PBL groups settled into stable regulatory patterns early in the course, with transitions usually between similar patterns](stable-early-regulatory-patterns-limited-change.md) — related

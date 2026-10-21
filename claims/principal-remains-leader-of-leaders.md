@@ -43,6 +43,6 @@ Same SciMAT bibliometric and thematic analysis of the PIL field; the results sta
 
 
 ## Related Claims
-- [The principal instructional leadership knowledge base evolved from a top-down, directive conception of leadership into a more indirect and integrated perspective between 1941 and 2024](pil-evolved-top-down-to-integrated-perspective.md) — related
-- [Over 85 years, the PIL knowledge base shifted from principals as chief school administrators, to the roles of principals and teachers, to more integrated investigations](pil-knowledge-base-three-stage-shift.md) — related
+- The principal instructional leadership knowledge base evolved from a top-down, directive conception of leadership into a more indirect and integrated perspective between 1941 and 2024 — related
+- Over 85 years, the PIL knowledge base shifted from principals as chief school administrators, to the roles of principals and teachers, to more integrated investigations — related
 - [Principal leadership, school orientation toward innovation, and teacher professional community promote professional development quality, with mutual reinforcement](school-supports-promote-pd-quality.md) — related

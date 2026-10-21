@@ -45,7 +45,4 @@ Frequency coding of Categories 3 and 4 across 50 comparisons. The review reports
 ## Related Claims
 
 - [When activities were not controlled, the confound favored the IVR condition in 14 of 17 comparisons](activity-confounds-favor-ivr-condition.md)
-- [40% of IVR-vs-conventional comparisons had at least one confound related to instructional method and content](ivr-comparisons-40-percent-confounded.md)
-- [Only 26% of IVR-vs-conventional comparisons in STEM media comparison studies were fully controlled on five key control criteria](ivr-comparisons-only-26-percent-fully-controlled.md)
-- [Complete operational definitions of conditions were provided in fewer than half of comparisons (42% conventional, 50% IVR)](operational-definitions-incomplete-in-ivr-studies.md)
 - [IVR conditions outperformed conventional conditions in only 24% of comparisons, with 54% tied, and the review finds no strong evidence IVR is more effective](no-strong-evidence-ivr-more-effective-stem.md) — related

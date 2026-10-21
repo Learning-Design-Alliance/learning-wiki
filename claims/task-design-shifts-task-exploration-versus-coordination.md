@@ -44,4 +44,4 @@ Phase 1 descriptive comparison of cognitive sub-element emphases across the two 
 
 ## Related Claims
 - [Frequency-based content analysis shows little variation in how CPS was actualized across groups and tasks, with Problem Reanalysis the most frequent sub-element in both task designs](content-analysis-little-variation-problem-reanalysis-most-frequent.md) — related
-- [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — related
+- Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time — related

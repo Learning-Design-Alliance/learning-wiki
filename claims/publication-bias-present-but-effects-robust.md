@@ -47,7 +47,7 @@ Publication-bias assessment via funnel plots and a three-parameter selection mod
 - [GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction](genai-learning-effects-heterogeneous-conditional.md) — related
 - [Adding supplementary video to existing teaching produces strong learning benefits (g = 0.88)](supplementary-video-strong-benefit.md) — related
 - Funnel-plot and fail-safe N analyses indicate small publication bias, and one-study-removal analysis indicates stable pooled effects — related
-- [Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses](publication-bias-math-writing-meta-analysis.md) — related
+- Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses — related
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
 - [Publication bias is detected in the cross-sectional data set, and bias-corrected estimates are highly heterogeneous](publication-bias-cross-sectional-avg-data.md) — related

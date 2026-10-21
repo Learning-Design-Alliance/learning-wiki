@@ -50,4 +50,4 @@ Second-year (Fall 1975-Spring 1976) rating procedure in which the interviewer's 
 - The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives — related
 - The interview coding achieved high inter-rater reliability, with Cohen's Kappa of 0.82 between independent coders — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
-- [The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers](se-review-coding-kappa-089.md) — related
+- The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers — related

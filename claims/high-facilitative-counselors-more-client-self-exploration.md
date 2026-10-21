@@ -69,5 +69,5 @@ The review reports, citing Banks, Berenson, and Carkhuff (1966), that "clients o
 
 - [16PF-derived predicted-effectiveness indices correlate with supervisor and client ratings (.41, .87), but the review judges use of the 16PF for trainee selection premature](16pf-specification-equation-correlations-premature.md) — related
 - [Quality of the therapeutic relationship and counseling effectiveness are not correlated with each other, though both correlate with therapist experience](therapeutic-relationship-quality-uncorrelated-with-effectiveness.md) — related
-- [Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive](global-judgment-criteria-replication-fruitless.md) — related
+- Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive — related
 - [Most investigated counselor personality variables are not significantly related to effectiveness criteria, and variables significant in one study often show contrary results when re-investigated](counselor-traits-mostly-unrelated-to-effectiveness.md) — related

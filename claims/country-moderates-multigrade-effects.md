@@ -44,7 +44,7 @@ Between-study analysis of the multigrade cognitive subset (Table 3): United Stat
 
 ## Related Claims
 - [Grade level moderates multigrade cognitive effects, with a diminishing positive effect from lower to higher grades](grade-level-moderates-multigrade-effects.md) — related
-- [Evidence for a selection bias favoring multigrade classes is limited, found explicitly in only 4 of 51 studies](limited-evidence-multigrade-selection-bias.md) — related
+- Evidence for a selection bias favoring multigrade classes is limited, found explicitly in only 4 of 51 studies — related
 - [Multi-age classes show no significant cognitive or noncognitive differences from single-age classes](multi-age-effects-near-zero.md) — related
 - [Study quality, publication source, locality, socioeconomic status, years in multigrade classes, and publication year did not significantly predict multigrade cognitive effects](null-moderators-multigrade-cognitive.md) — reports the opposite
 - [Meta-analysis shows no significant difference in cognitive outcomes between multigrade and single-grade classes](multigrade-cognitive-effects-essentially-zero.md) — a broader claim this one bears on

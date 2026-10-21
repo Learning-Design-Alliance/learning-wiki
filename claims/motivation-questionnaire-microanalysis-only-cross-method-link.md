@@ -48,5 +48,5 @@ Monotrait-heteromethod correlational analysis (Table 7) in 70 college students; 
 - [A task-specific questionnaire built item-by-item from a think-aloud coding taxonomy correlated r=.51 with think-aloud protocols, higher than the -.07 to .42 regularly reported](task-specific-questionnaire-think-aloud-correlation-51.md) — related
 - [The SKT-SRL correlates moderately with self-reported SRL strategy usage (convergent validity)](skt-srl-convergent-validity-questionnaire.md) — related
 - [Whether an SRL component correlates with GPA depends on how it is assessed: cognition via a strategy knowledge test, motivation via questionnaire, metacognition via an open-ended microanalytic question](different-methods-different-srl-components-achievement.md) — related
-- [Of 289 studies on motivation regulation, approximately three quarters examined university students, used cross-sectional designs, and relied on self-report questionnaires](motivation-regulation-research-dominated-by-university-cross-sectional-self-report.md) — related
+- Of 289 studies on motivation regulation, approximately three quarters examined university students, used cross-sectional designs, and relied on self-report questionnaires — related
 - [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](skt-srl-no-gpa-correlation.md) — related

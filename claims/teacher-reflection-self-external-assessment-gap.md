@@ -66,4 +66,4 @@ Thematic analysis of 215 reflective responses using van Manen's levels, extended
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
 - [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](reflection-improves-awareness-calibration.md) — related
 - [Teachers' and students' SRL profiles differ more than they are alike, sharing only insufficient reflection practice](teacher-student-srl-profiles-differ-except-reflection.md) — related
-- [Research on teacher-student interactions and elementary SRL shows major gaps: no studies of emotion regulation, few on cognition regulation, and 70% reliance on student self-reports](srl-interaction-research-gaps-self-reports-emotions.md) — related
+- Research on teacher-student interactions and elementary SRL shows major gaps: no studies of emotion regulation, few on cognition regulation, and 70% reliance on student self-reports — related

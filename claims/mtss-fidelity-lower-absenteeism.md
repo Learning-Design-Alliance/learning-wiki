@@ -51,4 +51,4 @@ The review reports, citing Freeman et al. (2016), an observational comparison of
 - [Implementation fidelity of the creative writing unit was high: absentee rates below about 3% and completion of crucial divergent-thinking and writing assignments between 88% and 94%](cwi-unit-high-fidelity-attendance-completion.md) — related
 - [Students in MTSS-coached schools were significantly less likely to have at least one behavior incident](mtss-coaching-lower-likelihood-behavior-incident.md) — related
 - [PBIS effects on collegial leadership and institutional integrity were significant only when implementation fidelity was included in the model](pbis-collegial-leadership-fidelity-model.md) — related
-- [Implementation fidelity was assessed in fewer than 8% of active learning intervention studies](implementation-fidelity-rarely-assessed-active-learning.md) — related
+- Implementation fidelity was assessed in fewer than 8% of active learning intervention studies — related

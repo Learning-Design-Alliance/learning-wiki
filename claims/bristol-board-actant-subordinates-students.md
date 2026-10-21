@@ -43,6 +43,6 @@ Qualitative ANT analysis of an episode from the third focus day's interdisciplin
 
 
 ## Related Claims
-- [SEDA identifies co-construction and dialogic shifts but does not explain their mechanisms, whereas ANT explains shifts via changing power relations among actors](ant-explains-shifts-seda-does-not.md) — a broader claim this one bears on
+- SEDA identifies co-construction and dialogic shifts but does not explain their mechanisms, whereas ANT explains shifts via changing power relations among actors — a broader claim this one bears on
 - [A single student's open question can trigger dissolution of a non-dialogic network and autonomous dialogic argumentation](student-question-triggers-dialogic-network.md) — related
 - [Dialogic networks in classroom talk can dissolve into non-dialogic ones when task instructions and artifacts regain power over students](dialogic-network-dissolves-to-task-compliance.md) — related

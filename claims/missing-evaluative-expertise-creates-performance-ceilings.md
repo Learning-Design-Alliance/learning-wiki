@@ -48,4 +48,4 @@ Theoretical argument from the article's abstract, presented as the design implic
 ## Related Claims
 - [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
-- [The most cited papers in Instructional Science are Sadler's 1989 formative assessment paper (1,686 citations) and Marton's 1981 phenomenography paper (1,547 citations)](most-cited-instructional-science-papers-sadler-marton.md) — related
+- The most cited papers in Instructional Science are Sadler's 1989 formative assessment paper (1,686 citations) and Marton's 1981 phenomenography paper (1,547 citations) — related

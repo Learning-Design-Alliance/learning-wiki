@@ -43,8 +43,8 @@ Editorial report of journal operations: the printed figures are 50 days in 2006 
 
 
 ## Related Claims
-- [Submissions to Educational Psychology Review grew from 33 manuscripts in 2006 to 89 in 2011, with faster initial decisions](edpr-submissions-grew-33-to-89-2006-2011.md) — related
-- [Educational Psychology Review publishes a variety of article types, not only review articles](edpr-publishes-variety-of-article-types.md) — related
-- [Manuscript submissions to Educational Psychology Review increased sharply between 2006 and 2008, which the editor attributes to timely, high-quality reviews and increasing journal visibility](epr-submissions-increased-2006-2008.md) — related
-- [The research-into-practice article category at Educational Psychology Review was retired in 2012 after being the most misunderstood category and source of most desk rejects](edpr-retires-research-into-practice-category.md) — related
+- Submissions to Educational Psychology Review grew from 33 manuscripts in 2006 to 89 in 2011, with faster initial decisions — related
+- Educational Psychology Review publishes a variety of article types, not only review articles — related
+- Manuscript submissions to Educational Psychology Review increased sharply between 2006 and 2008, which the editor attributes to timely, high-quality reviews and increasing journal visibility — related
+- The research-into-practice article category at Educational Psychology Review was retired in 2012 after being the most misunderstood category and source of most desk rejects — related
 - [The EDPR editorial board spans 50 members from 10 countries across 4 continents, and the editor sees more diversity as valuable](edpr-board-geographic-diversity.md) — related

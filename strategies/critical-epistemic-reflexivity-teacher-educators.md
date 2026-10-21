@@ -17,7 +17,7 @@ sources:
 # Teacher educators should develop enhanced critical epistemic reflexivity about the knowledge claims underpinning preparation for diversity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review concludes that teacher educators should engage in enhanced critical epistemic reflexivity — critically examining the knowledge claims and foundational assumptions about what preparation for diversity actually involves that underpin their program decisions. The paper argues this is needed because the literature is far from unified and a lack of clarity about competing messages can affect decision effectiveness. The authors state: "The paper concludes with implications for teacher educators, arguing for enhanced critical epistemic reflexivity."
@@ -41,7 +41,6 @@ The review concludes that teacher educators should engage in enhanced critical e
 ## Claims
 
 - [A systematic review of 209 peer-reviewed articles (2009-2019) identifies three qualitatively different clusters of claims about how teachers can be prepared for diversity](../claims/three-claims-clusters-preparing-teachers-diversity.md) [+W]
-- [The reviewed literature shows limited engagement with specialist diversity concepts such as gender or race and little attention to teacher educators' own knowledge](../claims/limited-specialist-engagement-teacher-educator-knowledge.md) [+W]
 
 ## Related Strategies
 - 

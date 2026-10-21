@@ -85,7 +85,7 @@ Descriptive three-way cross-tabulation of guidance, feedback timing, and learner
 - [Progressively larger treatment estimates among intervention students crossing engagement thresholds are hypothesis-generating only](medly-engagement-threshold-estimates-hypothesis-generating.md) — related
 - [Immediate experiential advantages in knowledge of cognition and engagement converged with the instructional group by five weeks](five-week-convergence-aie-mkc.md) — related
 - [In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)](unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive.md) — related
-- [Study design and post-test timing show only borderline moderating effects in between-subject analyses, not significant in within-subject analyses](borderline-moderators-design-and-post-test-timing.md) — related
+- Study design and post-test timing show only borderline moderating effects in between-subject analyses, not significant in within-subject analyses — related
 - [Feedback direction moderates effects: student-to-student feedback is most effective (d = 0.85), teacher-to-student d = 0.47, student-to-teacher d = 0.35](feedback-direction-moderator-student-student-highest.md) — related
-- [The pooled association is robust to dependence, baseline-adjustment, risk-of-bias, and effect-size-derivation sensitivity analyses](pooled-association-robust-sensitivity-analyses.md) — related
+- The pooled association is robust to dependence, baseline-adjustment, risk-of-bias, and effect-size-derivation sensitivity analyses — related
 - [Technology type did not significantly moderate effects on metacognitive outcomes, though generative-AI interventions showed a descriptively larger estimate](technology-type-did-not-moderate-metacognition-effects.md) — related

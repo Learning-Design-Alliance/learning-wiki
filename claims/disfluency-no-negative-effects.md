@@ -44,7 +44,6 @@ The authors' interpretive claim in the commentary's discussion, offered as an im
 
 ## Related Claims
 
-- [Disfluency is not clearly defined across the literature, hindering replication and precise measurement](disfluency-definition-problem.md)
 - [The null effect of the disfluency × WMC interaction on transfer replicated the primary study's null finding, with both studies showing negative coefficients](transfer-null-interaction-replicated.md)
 - [Working memory capacity predicts retention performance only in the disfluency condition, with higher WMC yielding better retention](wmc-predicts-retention-only-disfluency-condition.md)
 - [Working memory capacity predicts comprehension performance only in the disfluency condition, with higher WMC yielding better comprehension](wmc-predicts-comprehension-only-disfluency-condition.md)

@@ -49,4 +49,4 @@ Narrative synthesis in the Discussion of the four experiments testing WMC modera
 - [Working memory capacity moderated disfluency effects in one study but not another](wmc-moderates-disfluency-mixed.md) — possibly the same claim (merge candidate)
 - [Working memory capacity predicts comprehension performance only in the disfluency condition, with higher WMC yielding better comprehension](wmc-predicts-comprehension-only-disfluency-condition.md) — related
 - [The learning benefits of perceptual disfluency reported by Diemand-Yauman et al. (2011) do not replicate in any general way](disfluency-benefits-do-not-replicate.md) — related
-- [The primary study (Lehmann et al., 2016) had only about 45% power to detect its observed interaction effect; roughly 150 participants would be needed for 80% power](primary-study-underpowered-interaction-45-percent.md) — related
+- The primary study (Lehmann et al., 2016) had only about 45% power to detect its observed interaction effect; roughly 150 participants would be needed for 80% power — related

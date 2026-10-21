@@ -53,4 +53,4 @@ Classroom experiment with 100 first-year Cognitive Psychology undergraduates in 
 - [The training-by-content interaction did not vary with retention interval duration in the human experiment](no-training-retention-interval-interaction.md) — related
 - [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](retention-interval-by-levels-of-thinking-interaction-not-significant.md) — related
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — related
-- [Study design and post-test timing show only borderline moderating effects in between-subject analyses, not significant in within-subject analyses](borderline-moderators-design-and-post-test-timing.md) — related
+- Study design and post-test timing show only borderline moderating effects in between-subject analyses, not significant in within-subject analyses — related

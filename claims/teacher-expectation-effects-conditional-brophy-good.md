@@ -43,6 +43,6 @@ Tom Good's tribute recounts the joint Brophy–Good teacher expectation research
 
 
 ## Related Claims
-- [Between 1969 and 1983 Brophy and colleagues conducted more process-outcome studies than any other researcher, correlating teacher classroom practices with student achievement gains](brophy-process-outcome-studies-1969-1983.md) — related
-- [Brophy's dyadic observational system coded student responses to teacher questions as correct, partly correct, do not know, or error, and coded each teacher's response to those student responses](brophy-dyadic-observational-system.md) — related
+- Between 1969 and 1983 Brophy and colleagues conducted more process-outcome studies than any other researcher, correlating teacher classroom practices with student achievement gains — related
+- Brophy's dyadic observational system coded student responses to teacher questions as correct, partly correct, do not know, or error, and coded each teacher's response to those student responses — related
 - [The phrase and idea of teaching in small steps originated with Brophy's analysis of correlations showing teachers whose students had high proportions of correct responses](teaching-in-small-steps-origin-brophy.md) — related

@@ -51,4 +51,4 @@ Cognitive-ethnographic analysis of one video-recorded nursing debriefing (Excerp
 - [Knowledge-building practices are defined at the community unit of analysis but enacted at the small-group discursive unit](practices-community-level-enacted-small-group.md) — related
 - [In post-wargaming debriefings, teachers and students delineate tactics from related areas of military competence such as teamwork, communication, and technology](tactics-delineated-from-related-competence-debriefing.md) — related
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related
-- [Videographed bilingual-lesson discussions are analysed qualitatively with interaction analysis to reconstruct negotiated taken-as-shared meaning](interaction-analysis-bilingual-math-discussions.md) — related
+- Videographed bilingual-lesson discussions are analysed qualitatively with interaction analysis to reconstruct negotiated taken-as-shared meaning — related

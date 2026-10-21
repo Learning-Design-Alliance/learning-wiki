@@ -63,7 +63,7 @@ Comparison of quarter three final exam (open response, group-graded) scores betw
 
 ## Related Claims
 - [Weekly spaced recall quizzes on fundamental concepts significantly improve 6-month retention of those concepts in a precalculus course](spaced-recall-quizzes-improve-long-term-retention-fundamental-math-concepts.md) — related
-- [Random assignment produced treatment and control groups balanced in mathematical preparedness before the intervention](random-assignment-produced-balanced-math-preparedness-groups.md) — related
+- Random assignment produced treatment and control groups balanced in mathematical preparedness before the intervention — related
 - [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](testing-effect-persists-without-immediate-feedback.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — a broader claim this one bears on

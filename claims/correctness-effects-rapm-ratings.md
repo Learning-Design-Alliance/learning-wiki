@@ -65,6 +65,6 @@ Same BANOVA: the Certainty item × correctness interaction was reliable (BF10 = 
 - [Suddenness and Certainty ratings decrease as RAPM item difficulty increases, with Certainty showing a strong effect](suddenness-certainty-decrease-rapm-difficulty.md) — related
 - [Across participants, RAPM scores correlate positively with Certainty but not with Intuition or Suddenness](rapm-score-correlates-certainty-only.md) — related
 - [Intuition ratings are unaffected by RAPM item difficulty, indicating stable strategy across items](intuition-unaffected-rapm-difficulty.md) — related
-- [Pleasure and Certainty ratings are strongly inter-correlated, questioning the independence of the subjective-experience dimensions](pleasure-certainty-overlap-ratings.md) — related
+- Pleasure and Certainty ratings are strongly inter-correlated, questioning the independence of the subjective-experience dimensions — related
 - [Mean solution time almost perfectly predicts item-level Suddenness and Certainty, and fast performance signals easy items while deliberation signals hard ones](solution-time-predicts-insight-like-ratings.md) — related
 - [The four-dimensional subjective-experience ratings are validated against classic insight and analytic problems, with Intuition and Suddenness differentiating the problem categories](subjective-ratings-validated-insight-analytic.md) — related

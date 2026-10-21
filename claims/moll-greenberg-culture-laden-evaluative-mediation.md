@@ -70,4 +70,4 @@ The article reports, citing Moll and Greenberg (1990), that students judged 'fai
 - [The perception that language minority students bring language disadvantages and knowledge deficiencies from home has too often led to lowered academic expectations for them.](deficit-view-of-minority-households-lowers-academic-expectations.md) — a broader claim this one bears on
 - [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](funds-of-knowledge-research-raises-teacher-expectations.md) — related
 - [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](household-exchange-networks-are-reciprocal-and-build-trust.md) — related
-- [Luria's Uzbekistan cognition research is of questionable validity because its mediational means were culturally inappropriate](luria-questionable-validity.md) — related
+- Luria's Uzbekistan cognition research is of questionable validity because its mediational means were culturally inappropriate — related

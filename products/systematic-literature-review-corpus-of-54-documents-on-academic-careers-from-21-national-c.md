@@ -13,7 +13,7 @@ generated:
 # Systematic literature review corpus of 54 documents on academic careers from 21 national contexts (Scopus and Scielo, 2000–2021)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A corpus of 54 theoretical and empirical documents on academic careers selected from Scopus and Scielo searches, covering 21 national contexts and publications from 2000–2021, assembled by Oliveira et al. for studying academic-career marketization.
@@ -22,7 +22,6 @@ A corpus of 54 theoretical and empirical documents on academic careers selected 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Only 2 of the 54 reviewed documents directly reflected on academics' reactions to the escalating deterioration of their working conditions](../claims/few-documents-address-academic-resistance.md) [+M]
 
 ## Related Products and Programmes
 -

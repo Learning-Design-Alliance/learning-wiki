@@ -44,13 +44,12 @@ The commentary reports Zusho's (2017) conclusions from reviewing the literature 
 
 ## Related Claims
 
-- [Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely](conceptual-ambiguity-impedes-theory-integration.md)
 - [Review of 23 ILS studies since 2004 finds more dimensionality in learning patterns than previously considered](ils-learning-patterns-greater-dimensionality.md)
 - [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md)
 - [Fryer argues perceived control and need for competence may bridge differences among models of higher-education learning toward a mega-theory](perceived-control-competence-mega-theory-bridge.md)
 - [Dinsmore's review of 134 studies argues that models of strategic processing among college students must be multidimensional and dynamic](strategic-processing-multidimensional-dynamic-college.md)
-- [Fewer than half of undergraduate mathematics SE studies define engagement explicitly, and definitions vary in their use of multidimensionality, psychological investment, and observable behavior](se-definitions-heterogeneous-math.md) — related
+- Fewer than half of undergraduate mathematics SE studies define engagement explicitly, and definitions vary in their use of multidimensionality, psychological investment, and observable behavior — related
 - [The learning patterns model differs from SRL models by being multi-dimensional, non-normative, and including external regulation and lack of regulation](learning-patterns-versus-srl-models.md) — related
-- [The special issue's contributions divide between narrative-review and systematic-review methodologies](sal-srl-special-issue-narrative-systematic-divide.md) — related
+- The special issue's contributions divide between narrative-review and systematic-review methodologies — related
 - [Emotions are seldom explicitly analyzed in conversational CSCL contexts and must be balanced with cognition in conversation conceptualization](emotions-neglected-cscl-emotional-talk.md) — related
 - [S-SRL strategy use is dynamic over time, contexts and student characteristics, supporting an event-based conceptualization of self and socially regulated learning](ssrl-strategy-use-dynamic-event-based.md) — related

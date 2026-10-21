@@ -45,6 +45,6 @@ Qualitative content analysis of the 46 studies' intervention focus, reported in 
 ## Related Claims
 - [Teacher activities in CHSRI small schools' professional communities were primarily oriented toward supportive rather than developmental practices](chrsi-teachers-oriented-toward-supportive-practices.md) — related
 - [PLC in mathematics in prior research pursue three distinct objects, with developing teachers' repertoire of teaching actions the most common](plc-mathematics-three-objects-repertoire-most-common.md) — related
-- [A scoping review identified 46 peer-reviewed teacher well-being and burnout intervention studies covering 7369 participants in 15 countries, mostly quantitative](scoping-review-46-teacher-wellbeing-intervention-studies.md) — related
+- A scoping review identified 46 peer-reviewed teacher well-being and burnout intervention studies covering 7369 participants in 15 countries, mostly quantitative — related
 - [Most reviewed teacher well-being interventions (37 of 46) were categorised supportive, while 9 showed no significant impacts](most-teacher-wellbeing-interventions-supportive.md) — related
 - [Gratitude, therapy-based, and the single physical activity intervention positively contributed to teacher well-being, though the physical activity intervention did not mitigate burnout](gratitude-therapy-physical-activity-intervention-outcomes.md) — related

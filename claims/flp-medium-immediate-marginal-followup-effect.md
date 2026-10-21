@@ -49,7 +49,7 @@ Random-effects meta-analysis of 48 (quasi-)experimental studies of family litera
 ## Related Claims
 - [Programs offering only literacy-related activities yield larger effects than programs also targeting other cognitive or socioemotional skills](flp-literacy-only-programs-larger-effects.md) — related
 - [Family literacy programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no statistically significant effects](flp-center-based-component-negatively-associated.md) — related
-- [Experimental designs and study-specific measures are associated with larger program effects, while peer-reviewed status shows no indication of publication bias](flp-design-and-measure-modulators.md) — related
+- Experimental designs and study-specific measures are associated with larger program effects, while peer-reviewed status shows no indication of publication bias — related
 - [Sample characteristics (immigrant/minority status, L2 status, age) show no significant moderator effects, and several program and delivery features are also nonsignificant](flp-nonsignificant-moderators.md) — related
 - [Training in a single setting (home only or center/school only) yields larger comprehension-related effects than training in both contexts or no training](flp-single-setting-training-larger-comprehension-effects.md) — related
 - [Programs offering only shared reading yield the largest comprehension-related effects, and combining shared reading with other activity types reduces effects](flp-shared-reading-only-largest-comprehension-effect.md) — related

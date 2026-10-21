@@ -12,7 +12,7 @@ generated:
 # Situated-interaction analysis of CSCL processes
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (2 qualitative, 1 theoretical), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 qualitative, 1 theoretical), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The editorial's closing design recommendation for CSCL research: computer-supported collaborative learning opens a multi-dimensional shared world in an evolving, co-created context, where "Knowledge, roles, space, and time are not simple givens whose characteristics can be assumed". Each must be studied in each case through detailed analysis of the situated interaction. The editorial adds that many research questions can still be rigorously pursued within established perspectives, and the journal welcomes both kinds of studies.
@@ -25,7 +25,6 @@ The editorial's closing design recommendation for CSCL research: computer-suppor
 
 ### Claims
 
-- [Sequential analysis of discourse reveals meaning-making processes in small-group CSCL interactions](../claims/sequential-analysis-of-small-group-cognition.md) [+M]
 - [CSCL should focus analytic attention on small-group interactions rather than individuals or society](../claims/small-group-unit-of-analysis-cscl.md) [+M]
 - [Students' collaborative historical reasoning evolved over two days while co-constructing network representations with Net.Create, per the editorial's report of Craig et al.](../claims/netcreate-collaborative-historical-reasoning-evolved.md) [+W]
 - [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](../claims/multimodal-representations-as-metaphors-joint-reasoning.md) [+W]

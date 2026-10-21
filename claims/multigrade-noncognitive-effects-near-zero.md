@@ -49,4 +49,4 @@ Meta-analysis of noncognitive effects of multigrade classes (Table 2): with outl
 - [Multigrade classes show negative weighted effects for science and social studies but not English as a foreign language](multigrade-science-social-studies-negative.md) — related
 - [Grade level moderates multigrade cognitive effects, with a diminishing positive effect from lower to higher grades](grade-level-moderates-multigrade-effects.md) — related
 - [Staff development for multigrade teachers improved time-on-task and teaching skills but did not raise achievement relative to untrained single-grade classes](staff-development-multigrade-teachers-effects.md) — related
-- [Evidence for a selection bias favoring multigrade classes is limited, found explicitly in only 4 of 51 studies](limited-evidence-multigrade-selection-bias.md) — related
+- Evidence for a selection bias favoring multigrade classes is limited, found explicitly in only 4 of 51 studies — related

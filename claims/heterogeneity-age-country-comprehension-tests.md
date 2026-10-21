@@ -43,8 +43,8 @@ Moderator analysis within the random-effects meta-analysis of component–compre
 
 
 ## Related Claims
-- [The evidence base comprises 33 studies yielding 146 effect sizes on reading components and comprehension in monolingual Spanish-speaking children (2000–2021).](33-studies-146-effect-sizes-spanish-reading.md) — related
+- The evidence base comprises 33 studies yielding 146 effect sizes on reading components and comprehension in monolingual Spanish-speaking children (2000–2021). — related
 - [Most predictor effect sizes showed high heterogeneity; only morphological awareness, working memory, and language comprehension fell in the moderate I² range](high-heterogeneity-adult-predictor-effect-sizes.md) — related
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — related
 - [Phonological awareness and fluency show the largest effect-size relations with reading comprehension among Spanish-speaking children's essential reading components.](pa-fluency-largest-relations-comprehension-spanish.md) — related
-- [Most studies of Spanish-speaking children's reading have focused on phonological awareness or alphabetic principle in relation to reading comprehension.](most-studies-focus-pa-alphabetic-principle.md) — related
+- Most studies of Spanish-speaking children's reading have focused on phonological awareness or alphabetic principle in relation to reading comprehension. — related

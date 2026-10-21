@@ -44,7 +44,6 @@ The article reports this trajectory finding from its sequence and transition ana
 
 ## Related Claims
 
-- [Weekly group data on PBL interactions showed substantial between-group variability (ICC 0.4), requiring multilevel growth models](group-variability-icc-multilevel-growth-models.md)
 - [Model-based clustering of tied durations identifies four weekly regulation patterns in PBL group discussions](four-weekly-regulation-patterns-pbl.md)
 - [Students using interactive socioemotional or regulated constructive patterns were more productive cognitively and in knowledge productivity](socioemotional-regulated-patterns-more-productive.md) — related
 - [Groups' progress during collaboration falls into four data-driven categories differing in sequence frequencies and the regulation phases groups return to](four-categories-group-progress-monitoring-sequences.md) — related

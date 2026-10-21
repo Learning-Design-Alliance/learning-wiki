@@ -17,7 +17,7 @@ sources:
 # Use proxy baseline measures (vocabulary knowledge for cognitive outcomes, disruptive behavior for SEL outcomes) when identical baseline measures are unavailable
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because strong developmental dynamics in early childhood make identical baseline (IB) measures impossible for some outcomes, the article proposes proxy baseline (PB) measures as covariates in power-analysis planning. Specifically, "we used children's vocabulary knowledge as a PB measure for cognitive outcomes because it is known to predict future learning in many cognitive domains", and children's disruptive behavior (from parent or educator reports, same method as the SEL outcome) as the PB measure for SEL outcomes.
@@ -40,7 +40,6 @@ Because strong developmental dynamics in early childhood make identical baseline
 
 ## Claims
 
-- [Covariates explaining substantial outcome variance efficiently decrease the MDES and reduce required sample size in randomized experiments](../claims/covariates-improve-randomized-experiment-sensitivity.md) [+W]
 - [Typical R2Child values with sociodemographic and baseline covariates were around 0.18–0.26 for preschool cognitive and SEL outcomes in US data](../claims/preschool-typical-r2child-covariate-sets.md) [+W]
 
 ## Related Strategies

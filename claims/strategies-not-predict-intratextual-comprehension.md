@@ -44,7 +44,6 @@ Hierarchical multiple regression with intratextual comprehension (IntraVT) as th
 
 ## Related Claims
 
-- [A task-specific multiple-text strategy inventory yields two correlated strategy dimensions: cross-text elaboration and accumulation of information](mtsi-two-factor-strategy-dimensions.md)
 - [Intratextual integration dominates while intertextual integration is rare in sixth graders' multiple-text writing](intratextual-dominates-intertextual-rare-sixth-graders.md)
 - [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](open-questions-comprehension-unique-predictor-integration.md)
 - [Self-reported accumulation negatively predicts intertextual comprehension while cross-text elaboration positively predicts it, after controlling for prior knowledge](strategies-predict-intertextual-comprehension.md)

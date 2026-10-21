@@ -65,5 +65,5 @@ Discussion section statement that the teaching activities participants mentioned
 - [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](public-capstone-epportfolio-showcase-audience-effect.md) — a narrower finding that bears on this claim
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — related
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — related
-- [P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently](ct-processes-over-dispositions-pjbl.md) — related
+- P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently — related
 - [Most assessment methods for dispositions were suggestions rather than implemented practices, and some designers had no assessment ideas](disposition-assessment-mostly-unimplemented.md) — a narrower finding that bears on this claim

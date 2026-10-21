@@ -44,7 +44,7 @@ Process mining (fuzzy data mining combined with content analysis) of think aloud
 
 
 ## Related Claims
-- [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](need-micro-level-theory-and-method-guidelines-ssrl.md) — related
+- The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains — related
 - [Successful hypermedia learners showed more orientation and planning before processing content, deeper elaboration, constant monitoring, and evaluation compared to less successful students](process-mining-successful-learners-orientation-planning.md) — possibly the same claim (merge candidate)
 - [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md) — related
 - [Successful seventh-grade co-invention teams spent a much larger share of their embodied making actions on model making and experimenting than the unsuccessful team](model-making-experimenting-share-successful-co-invention-teams.md) — related

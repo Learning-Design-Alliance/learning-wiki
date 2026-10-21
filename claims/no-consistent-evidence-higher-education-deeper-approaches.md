@@ -43,6 +43,6 @@ The commentary reports that Asikainen and Gijbels' (2017) systematic review of s
 
 
 ## Related Claims
-- [The special issue's contributions divide between narrative-review and systematic-review methodologies](sal-srl-special-issue-narrative-systematic-divide.md) — related
+- The special issue's contributions divide between narrative-review and systematic-review methodologies — related
 - [Over-reliance on AI dialogue systems reduces students' critical and analytical thinking skills, especially when they become overly dependent on AI-generated content](overreliance-ai-dialogue-reduces-critical-analytical-thinking.md) — related
 - [GenAI's effects on higher-order thinking are mixed: support for reflection and idea expansion alongside cognitive offloading and no overall innovativeness gain](genai-higher-order-thinking-mixed.md) — related

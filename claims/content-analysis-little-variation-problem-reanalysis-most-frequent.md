@@ -62,7 +62,7 @@ Descriptive statistics across Tables 7 and 8 show proportions such as Problem Re
 
 
 ## Related Claims
-- [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — related
+- Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time — related
 - [Pairs with at least one member high in both social and cognitive CPS skills conducted more actions with more frequent and more dispersed action transitions than other pairs](high-social-cognitive-pairs-more-actions-and-transitions.md) — related
 - [CPS skill profiles of 166 students fell into three groups and yielded five distinguishable pair compositions among the 83 working dyads](cps-pair-compositions-from-social-cognitive-profiles.md) — related
 - [Task design relates to emphases within the cognitive elements: the technology-enhanced task elicited more task exploration, while the physical-objects task elicited more coordination](task-design-shifts-task-exploration-versus-coordination.md) — related

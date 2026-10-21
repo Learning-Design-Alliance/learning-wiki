@@ -43,8 +43,8 @@ Descriptive study-level results of the scoping review (Table 1). The review repo
 
 
 ## Related Claims
-- [School climate measurement shows a proliferation of instruments, with 965 studies using 404 different measures, two thirds of which are used only once](school-climate-measure-proliferation-404-instruments.md) — related
-- [Of 289 studies on motivation regulation, approximately three quarters examined university students, used cross-sectional designs, and relied on self-report questionnaires](motivation-regulation-research-dominated-by-university-cross-sectional-self-report.md) — related
+- School climate measurement shows a proliferation of instruments, with 965 studies using 404 different measures, two thirds of which are used only once — related
+- Of 289 studies on motivation regulation, approximately three quarters examined university students, used cross-sectional designs, and relied on self-report questionnaires — related
 - [Using multiple data sources, including site-specific data, helped schools develop a more comprehensive understanding of their school climate](multiple-data-sources-holistic-climate-understanding.md) — related
-- [Documented CSCL empirical corpus 2005–2009 relies mostly on questionnaires and code-and-count, not post-cognitive group-process approaches](cscl-2005-2009-corpus-questionnaire-code-and-count-dominance.md) — related
+- Documented CSCL empirical corpus 2005–2009 relies mostly on questionnaires and code-and-count, not post-cognitive group-process approaches — related
 - [Focal math teachers relied primarily on their own observations of student behavior to understand students' feelings about math, supplemented by surveys, with disaggregated data rare](teacher-observation-primary-perception-data-source.md) — related

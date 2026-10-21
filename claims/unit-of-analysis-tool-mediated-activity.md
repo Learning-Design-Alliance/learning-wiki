@@ -43,7 +43,7 @@ Analytical argument in the Unit of Analysis section, attributing to Vygotsky (19
 
 
 ## Related Claims
-- [From a neo-Vygotskian perspective, research data are social constructs produced by the relationship of researcher, participants, context, and means of data collection](data-are-social-constructs-neo-vygotskian.md) — related
+- From a neo-Vygotskian perspective, research data are social constructs produced by the relationship of researcher, participants, context, and means of data collection — related
 - [A collective unit of subjects emerges when two utterances form a dialogical pair in SCMD](collective-subject-emergence-dialogical-pair.md) — related
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related
 - [SCMD discourse activity is best understood as an ecology of nested activity systems within and beyond the classroom](ecology-of-activity-systems-scmd.md) — related

@@ -17,7 +17,7 @@ sources:
 # Use the MRIM scale as a diagnostic and pedagogical tool for teaching L2 argumentative writing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors offer the MRIM scale as "a new tool for teaching and researching L2 writing". Teachers can use it to diagnose which metacognitive regulation strategies (planning, monitoring, or evaluating of interactive metadiscourse) individual students employ, and to raise learners' awareness of how to employ metadiscourse strategies before, during, and after writing. The authors speculate that as students become more aware of how to reflect on their writing, they will deploy these strategies to become more independent writers.
@@ -40,7 +40,6 @@ The authors offer the MRIM scale as "a new tool for teaching and researching L2 
 
 - [Monitoring of interactive metadiscourse has the strongest predictive power among the three MRIM strategies for L2 argumentative writing](../claims/mim-strongest-predictor-of-l2-writing.md) [+W]
 - [Metacognitive regulation of interactive metadiscourse strategies significantly predicts L2 argumentative writing performance, explaining about 11.3% of variance](../claims/mrim-predicts-l2-argumentative-writing-performance.md) [+W]
-- [The MRIM scale has a three-factor structure of planning, monitoring, and evaluating of interactive metadiscourse, cross-validated by EFA and CFA](../claims/mrim-three-factor-structure-pim-mim-eim.md) [+W]
 
 ## Related Strategies
 

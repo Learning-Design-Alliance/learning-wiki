@@ -71,4 +71,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [Expert evaluation refined the draft heuristics around language clarity, usability-accessibility separation, and meaningful data interpretation](expert-evaluation-refined-lxd-heuristics-two-rounds.md) — related
 - [Directly prompted GPT-4o surface-level corrective edits were judged necessary and effective in 96.14% of 2049 identified edits](wraft-surface-feedback-96-percent-precision.md) — a narrower finding that bears on this claim
 - [Performance assessments can be reliably scored when designed appropriately and used with other measures](performance-assessments-reliably-scoreable.md) — related
-- [Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive](global-judgment-criteria-replication-fruitless.md) — related
+- Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive — related
