@@ -51,6 +51,13 @@ SCRAPE_STATE_PATH = RUNS_DIR / ".scrape_state.json"
 SCRAPE_HISTORY_PATH = RUNS_DIR / ".scrape_history.json"
 SCRAPE_CONSOLE_LOG_PATH = RUNS_DIR / ".scrape_console.log"
 QUEUE_FAILED = RUNS_DIR / "queues" / "fetch-failed.ndjson"   # queue entries no fetch could read
+
+
+def _proxy_down(e: Exception) -> bool:
+    """Whether a fetch failed because the local proxy could not be reached at all, which says
+    nothing about the article. fetch_article folds the cause into its message, so test the text."""
+    s = str(e)
+    return "Unable to connect to proxy" in s or ("ProxyError" in s and "Connection refused" in s)
 SCRAPE_REPORT_PATH = RUNS_DIR / "scrape.html"
 MAX_HISTORY = 20
 
@@ -263,6 +270,12 @@ def run(args) -> None:
                                                    "chars_or_detail": f"{len(text):,} chars"})
                 print(f"[OK]   {entry['id']:20s} {len(text):>8,} chars — {entry['title'][:60]}", flush=True)
             except Exception as e:  # noqa: BLE001 - one bad article must not abort the whole batch
+                if _proxy_down(e):
+                    # Not this article's failure: the sandbox proxy moved (a container restart
+                    # changes its port) or is down. Recording it would retire the entry for good,
+                    # as 361 Educational Psychology Review articles were on 2026-10-21.
+                    print(f"PROXY UNREACHABLE at {entry['id']}: {str(e)[:200]}", flush=True)
+                    sys.exit(3)
                 state["fetch"]["fail"] += 1
                 state["fetch"]["results"].append({"id": entry["id"], "ok": False, "chars_or_detail": str(e)})
                 if entry.get("list_key"):
