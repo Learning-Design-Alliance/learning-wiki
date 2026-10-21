@@ -43,7 +43,7 @@ Daniel R. Espinas, Brennan W. Chandler. (2024). Correlates of K-12 Students' Int
 
 `q3 · i?` · `review · r3`
 
-Norwegian secondary-level survey study (n = 279) of multiple-text strategy use with intertextual integration measured via summary and argumentative essays. The review reports "a correlation of r = 0.36 (p < 0.001)".
+Systematic review of 25 K–12 studies. It summarises a Norwegian survey of first-year secondary students (Bråten et al., 2014, n = 279) that related multiple-text strategy use to intertextual integration measured via summary and argumentative essays, and reports "a correlation of r = 0.36 (p < 0.001)".
 
 > "Bråten et al. (2014) surveyed Norwegian students in the first year of secondary school (n = 279) about their use of strategies for comparing, contrasting, and integrating multiple texts, finding a correlation of r = 0.36 (p < 0.001) between this and intertextual integration."
 
@@ -53,7 +53,7 @@ Daniel R. Espinas, Brennan W. Chandler. (2024). Correlates of K-12 Students' Int
 
 `q3 · i?` · `review · r3`
 
-US sixth-grade study (Braasch et al., 2022, n = 54) measuring metacognitive awareness by self-report ratings and intertextual integration with an argumentative essay. The review reports weak, non-significant correlations of r = 0.11 and r = 0.10 for belief-consistent and belief-inconsistent idea inclusion.
+The same review summarises a US sixth-grade study (Braasch et al., 2022, n = 54) measuring metacognitive awareness by self-report ratings and intertextual integration with an argumentative essay. The review reports weak, non-significant correlations of r = 0.11 and r = 0.10 for belief-consistent and belief-inconsistent idea inclusion.
 
 > "They found that metacognitive scores were weakly correlated with students’ inclusion of belief-consistent (r = 0.11 (p > 0.05) and belief-inconsistent"
 

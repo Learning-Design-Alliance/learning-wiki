@@ -35,7 +35,7 @@ Ouhao Chen & Fred Paas & John Sweller. (2021). Spacing and Interleaving Effects 
 
 `q2 · i?` · `review · r2`
 
-Narrative review of spacing-schedule studies, attributing this finding to Küpper-Tetzel et al. (2014), who compared uniform (3-day intervals), expanding (1 then 5 days), and contracting (5 then 1 day) spaced practice with word pairs. The review reports "expanding and uniform spaced practices were better for long retention intervals compared to contracting spaced practice."
+Systematic review of 119 spacing and interleaving studies, attributing this finding to Küpper-Tetzel et al. (2014), who compared uniform (3-day intervals), expanding (1 then 5 days), and contracting (5 then 1 day) spaced practice with word pairs. The review reports "expanding and uniform spaced practices were better for long retention intervals compared to contracting spaced practice."
 
 > "Results indicated that expanding and uniform spaced practices were better for long retention intervals compared to contracting spaced practice, which was better for shorter retention intervals."
 
