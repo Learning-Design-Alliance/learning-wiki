@@ -4,8 +4,8 @@ title: "Mental models framework: children's conceptual understandings as coheren
 description: "The article adopts Vosniadou and colleagues' account in which \"children represent scientific concepts in the form of theory-like structures that are internally coherent and empirically accurate,\" structures \"constrain..."
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-09-26
+  by: claude/unspecified
+  at: 2026-10-21
 sources:
   - id: saçkes-2015
     resource: "https://doi.org/10.12738/estp.2015.4.2741"
@@ -40,7 +40,7 @@ The article adopts Vosniadou and colleagues' account in which "children represen
 - [Few Kindergartners Synthetic Scientific Models](../claims/few-kindergartners-synthetic-scientific-models.md) [+M]
 
 ## Related Theories
-- 
+- [Knowledge in Pieces](knowledge-in-pieces.md) — the contrasting view, that intuitive ideas are many context-cued elements rather than coherent models
 
 ## Examples
 -

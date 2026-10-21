@@ -6,14 +6,14 @@ description: A diagnostic question or task designed to surface learners' incorre
 canonical: true
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-10-21
 ---
 
 # Misconception Probes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 11 studies (4 causal, 3 quant-synthesis, 2 qualitative, 1 review, 1 design), `q1`–`q4` · 2 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 12 claims (5 for, 7 mixed) · 16 studies (4 causal, 3 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 2 of 16 report an effect size · 9 claims rest on one study
 
 ## Description
 A misconception probe is a carefully constructed question, scenario, or two-tier item (answer plus reasoning) that targets a known, documented misconception. Learners commit to an answer *before* instruction, making their intuitive model visible to themselves and the instructor. The probe functions as diagnosis, not assessment — its purpose is to activate the faulty schema so that subsequent instruction can directly challenge it.
@@ -57,6 +57,11 @@ Probes work because learners cannot revise a belief they do not realize they hol
 - [A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected](../claims/prediction-graphing-reveals-classification-thinking.md) [+W]
 - [Mined misconception labels match personas' assigned misconceptions at F1 ≈ 0.56, a score that does not test whether generated questions elicit the named misconception](../claims/collearn-misconception-mining-f1.md) [~W]
 - [In the underlying laboratory study, only expository instruction combined with probes produced CVS learning, with transfer limited by grade level](../claims/lab-expository-instruction-probes-effective.md) [~W]
+- [Students' rules of operation for signed-number arithmetic are applied inconsistently by non-masters and stably by masters](../claims/arithmetic-rule-use-inconsistent-below-mastery-stable-at-mastery.md) [~M] — one probe response from a non-master is weak evidence of a stable misconception
+- [Students' algebra mal-rules are used very irregularly, are severely skewed in frequency, and differ in explanatory power from school to school](../claims/algebra-mal-rules-are-unstable-skewed-and-school-specific.md) [~M] — an inventory built in one population may not carry over
+- [On distractor-driven science items, instruction can first strengthen students' attraction to an alternative conception before that preference declines](../claims/instruction-can-raise-attraction-to-alternative-conceptions-before-decline.md) [~M] — a rise in a misconception-matched distractor after instruction can mark progress
+- [LLM-generated distractors for math multiple-choice questions are judged mathematically valid more often than plausible to students, and rarely reproduce the full set of human-written distractors](../claims/llm-math-distractors-more-valid-than-plausible.md) [~M] — generated probe distractors need checking against real student responses
+- [Student misconceptions can be read as knowledge elements that serve in some contexts and are refined and reorganised during learning, rather than as strongly held flawed ideas that instruction must confront and replace](../claims/misconceptions-are-knowledge-elements-refined-not-replaced.md) [~W] — the [knowledge-in-pieces](../theories/knowledge-in-pieces.md) reading of what a probe surfaces
 
 ## The evidence by question
 

@@ -6,14 +6,14 @@ description: A learner's existing domain knowledge in the subject area before in
 canonical: true
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-10-21
 ---
 
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 152 claims (90 show a difference, 45 mixed, 17 no difference) · 120 studies (35 causal, 27 review, 18 theoretical, 15 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 120 report an effect size · 137 claims rest on one study
+> **Evidence** · 153 claims (91 show a difference, 45 mixed, 17 no difference) · 121 studies (35 causal, 27 review, 18 theoretical, 16 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 121 report an effect size · 138 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -200,6 +200,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Low variability materials enhanced learning regardless of guidance; expertise reversal found for variability in Experiment 2](../claims/variability-effect-expertise-reversal-two-experiments.md) [~M] — an instructional effect differs with it
 - [Expertise reversal effect: instructional aids effective for low-knowledge learners hinder high-knowledge learners across all three layers](../claims/expertise-reversal-effect-instructional-aids.md) [+M] — an instructional effect differs with it
 - [Expertise reversal effect: learners with developed fluency do not benefit from unnecessarily explicit instruction and benefit more from open problem-solving approaches](../claims/expertise-reversal-effect-lri.md) [+M] — an instructional effect differs with it
+- [Students' rules of operation for signed-number arithmetic are applied inconsistently by non-masters and stably by masters](../claims/arithmetic-rule-use-inconsistent-below-mastery-stable-at-mastery.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]
