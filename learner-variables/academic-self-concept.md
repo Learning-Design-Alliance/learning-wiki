@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 66 claims (53 show a difference, 9 mixed, 4 no difference) · 35 studies (13 associational, 8 review, 7 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 9 of 35 report an effect size · 64 claims rest on one study
+> **Evidence** · 71 claims (55 show a difference, 12 mixed, 4 no difference) · 36 studies (14 associational, 8 review, 7 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 10 of 36 report an effect size · 69 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -101,6 +101,11 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Meta-analytic path analyses show math and verbal achievements correlate highly positively while the corresponding self-concepts correlate near zero, with significant negative cross-domain paths](../claims/ie-model-meta-analysis-achievement-self-concept-divergence.md) [+M] — instruction changes it
 - [STARTS model shows a positive effect of prior achievement on subsequent self-concept but no effect of prior self-concept on subsequent achievement](../claims/starts-null-self-concept-effect.md) [+M] — instruction changes it
 - [Subject similarity moderates dimensional comparison effects: far comparisons (e.g., math vs. verbal) yield strong contrast effects, near comparisons yield weaker contrast or assimilation effects](../claims/subject-similarity-moderates-dimensional-comparisons.md) [~M] — instruction changes it
+- [Academic self-concept predicts lagged (across-semester) changes in academic skills in both mathematics and French](../claims/self-concept-lagged-effects-on-skills.md) [+M] — learners who differ on it differ in outcomes
+- [Academic skills predict contemporaneous (within-semester) changes in academic self-concept in both mathematics and French](../claims/skills-contemporaneous-effects-on-self-concept.md) [+M] — instruction changes it
+- [Reciprocal effects are robust to time-invariant confounders, but the French lagged self-concept effect did not survive the lag2 carryover stress test](../claims/robustness-to-confounders-french-lagged-mixed.md) [~M] — learners who differ on it differ in outcomes
+- [The temporal asymmetry holds across gender and initial ability levels, with a cautious gender difference in the French lagged effect](../claims/temporal-asymmetry-gender-ability-invariance.md) [~M] — learners who differ on it differ in outcomes
+- [The temporal asymmetry in effect sizes: contemporaneous skill effects on self-concept are moderate (d = 0.33 in French) while alternative cross-effects are null or negligible](../claims/temporal-asymmetry-effect-sizes.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 

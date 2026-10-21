@@ -52,3 +52,4 @@ The report's introduction analyzes state workforce data, reporting that "45,231 
 - [Texas teacher attrition has exceeded the national average by about 25% over the past decade, reaching nearly 12% in 2021–22](texas-attrition-above-national-average.md) — related
 - [U.S. teacher attrition averages 8–9% annually, about twice the rate of Canada, Finland, and Singapore, and drives roughly 9 in 10 annual hires](us-teacher-attrition-twice-peer-nations.md) — related
 - [Teacher turnover costs districts billions annually and harms student achievement](teacher-turnover-costs-and-achievement-harm.md) — related
+- [Most teacher programs required significant time, effort, and resources, with mean program attrition of 12.69% and rates reaching 66.67%, suggesting time demands may limit real-world translation](teacher-program-time-burden-attrition.md) — related

@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 213 claims (148 show a difference, 43 mixed, 22 no difference) · 169 studies (54 associational, 45 causal, 29 review, 13 quant-synthesis, 12 theoretical, 10 qualitative, 6 design), `q1`–`q4` · 42 of 169 report an effect size · 201 claims rest on one study
+> **Evidence** · 215 claims (148 show a difference, 45 mixed, 22 no difference) · 171 studies (55 associational, 45 causal, 29 review, 14 quant-synthesis, 12 theoretical, 10 qualitative, 6 design), `q1`–`q4` · 42 of 171 report an effect size · 203 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -263,6 +263,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Motivation and engagement relate cyclically: prior motivation predicts subsequent engagement and prior engagement predicts subsequent motivation](../claims/cyclical-motivation-engagement-relation.md) [+M] — learners who differ on it differ in outcomes
 - [Primary knowledge content favored learners' involvement and persistence in the training phase regardless of their personal characteristics, unlike secondary knowledge](../claims/primary-knowledge-involvement-persistence.md) [+M] — instruction changes it
 - [School or cultural contexts are framed as sustaining student motivation](../claims/school-cultural-contexts-sustain-motivation.md) [+W] — instruction changes it
+- [Physics interest moderates long-term retention: low- and medium-interest students benefit from non-interactive teaching at eight weeks, high-interest students do not](../claims/interest-moderates-long-term-retention-teaching.md) [~M] — an instructional effect differs with it
+- [SDT-based predictions on motivation and achievement hold for about 93% of students but may not generalize to extreme states of autonomous or controlled motivation](../claims/sdt-predictions-93-percent-extreme-states-limit.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

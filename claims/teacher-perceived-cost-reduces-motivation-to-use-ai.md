@@ -118,3 +118,4 @@ Theoretical argument about risk and uncertainty in the cost section, with no dat
 - [Educational game adoption is hindered along socio-cultural, educational, and technological dimensions, including social rejection, limited accessibility to games and technology, and high development costs.](barriers-to-educational-games-three-dimensions.md) — related
 - [Chatbot integration in a smart classroom is expected by the authors to increase learner engagement and academic achievement](chatbot-engagement-achievement-expectation.md) — related
 - [Research on five of six teacher-identified concerns increased between AERA's 2005–2014 and 2022–2025 conference eras, led by mental health (+670%) and technology/AI (+145%)](teacher-concern-research-increased-between-aera-eras.md) — related
+- [Teachers' subjective task values for TSRs—intrinsic, attainment, utility, and cost—shape their motivation to build relationships](teacher-values-shape-tsr-motivation.md) — related

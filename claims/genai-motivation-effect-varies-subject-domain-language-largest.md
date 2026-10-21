@@ -53,3 +53,4 @@ Exploratory subgroup analysis of subject domain within the meta-analysis. The ar
 - [GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)](genai-positive-both-intrinsic-extrinsic-motivation-no-difference.md) — related
 - [AI-supported game-based learning shows positive learning effects across diverse subject domains in the majority of included studies](ai-gbl-positive-knowledge-acquisition-effects.md) — related
 - [Immersion significantly moderated within-subject effects, but the estimate rests on very few effect sizes and should be read as exploratory](immersion-within-subject-moderator-exploratory.md) — related
+- [Concept-mapping effect sizes vary by science subject (physics/earth science g = 1.040, biology g = 0.671, chemistry g = 0.590) but not significantly](concept-map-effects-vary-by-science-subject.md) — related

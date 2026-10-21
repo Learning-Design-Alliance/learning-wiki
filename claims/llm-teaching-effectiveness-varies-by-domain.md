@@ -70,3 +70,4 @@ Table 4 row for Qwen3-235B: accuracy changes of -6.30 in Chemistry and -5.65 in 
 - [DeepTutor's interactive tutoring gains are stable across five university-level domains, varying only 0.16 points in overall quality](deeptutor-gains-stable-across-five-domains.md) — related
 - [Positive subject-specific effects of Medly in Physics, Chemistry and Biology, with no evidence the effect differed across subjects](medly-positive-effects-all-three-science-subjects.md) — related
 - [SFT on K12-Train improves out-of-domain subjects (Chinese, Humanities Math), suggesting acquisition of a transferable structurally-grounded answer style](k12-train-cross-subject-transfer.md) — related
+- [Concept-mapping effect sizes vary by science subject (physics/earth science g = 1.040, biology g = 0.671, chemistry g = 0.590) but not significantly](concept-map-effects-vary-by-science-subject.md) — related

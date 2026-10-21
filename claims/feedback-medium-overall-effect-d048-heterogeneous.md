@@ -64,3 +64,4 @@ Q-test of homogeneity across all 994 effect sizes shows "The probability of homo
 - [Feedback Addressing Task Improves Learning](feedback-most-effective-at-task-and-process-levels.md) — related
 - [During feedback provision, both content-specific support (g = 0.48) and generic support (g = 0.55) positively affect peer-feedback processes and outcomes, with no significant difference between them](content-specific-and-generic-provision-support-both-effective.md) — related
 - [Meta-analysis yields a lower feedback effect (d = 0.48) than the Visible Learning meta-synthesis (d = 0.79), with three synthesized values overestimated](meta-analysis-lower-feedback-effect-than-visible-learning-synthesis.md) — related
+- [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — related

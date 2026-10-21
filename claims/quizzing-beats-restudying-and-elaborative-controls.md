@@ -66,3 +66,4 @@ Meta-analytic moderator analysis of control-condition strategy across classroom 
 - [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](retrieval-practice-review-50-classroom-experiments.md) — related
 - [Exposure to a video model improves trainee teachers’ skill in using questioning for retrieval by 0.80 SD relative to restudying the evidence summary](video-model-improves-retrieval-questioning-skill.md) — a narrower finding that bears on this claim
 - [The classroom testing effect increases with the number of test repetitions on the same content.](test-repetitions-positive-relationship-classroom.md) — related
+- [Non-interactive teaching yields higher immediate scientific knowledge than restudy in secondary physics classrooms](non-interactive-teaching-immediate-knowledge-advantage.md) — a narrower finding that bears on this claim

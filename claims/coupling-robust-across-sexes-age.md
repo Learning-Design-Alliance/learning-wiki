@@ -46,3 +46,4 @@ Control analysis in the Results section of the two-wave cohort study; a separate
 - [Higher starting scores in vocabulary predicted greater gains in matrix reasoning and vice versa (bidirectional positive coupling)](bidirectional-coupling-vocabulary-reasoning-gains.md) — related
 - [The mutualism model provides the best account of longitudinal changes in vocabulary and matrix reasoning, with by far the highest normalized model-selection probability](mutualism-model-best-fit-vocabulary-reasoning.md) — related
 - [The cross-lagged model holds equally for intervention and control groups and for boys and girls](model-invariance-gender-and-intervention-groups.md) — related
+- [The temporal asymmetry holds across gender and initial ability levels, with a cautious gender difference in the French lagged effect](temporal-asymmetry-gender-ability-invariance.md) — related

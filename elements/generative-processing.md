@@ -13,7 +13,7 @@ generated:
 # Generative Processing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (6 for, 7 mixed) · 21 studies (7 causal, 5 quant-synthesis, 5 review, 4 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 8 claims rest on one study
+> **Evidence** · 14 claims (7 for, 7 mixed) · 22 studies (7 causal, 5 quant-synthesis, 5 review, 5 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 9 claims rest on one study
 
 ## Description
 Generative processing is the cognitive work learners do to actively construct meaning from instructional material — summarizing, self-explaining, drawing, mapping, questioning, or teaching — rather than passively receiving it. It originates in generative learning theory (Wittrock), which holds that learning occurs when learners generate relations between new content and their prior knowledge and between different parts of the material. In Mayer's cognitive theory of multimedia learning, generative processing is one of three demands on working memory, alongside extraneous processing and essential processing; instruction must manage the first two to leave capacity for the third.
@@ -60,6 +60,7 @@ Learning improves when learners are prompted to generate content-relevant cognit
 - [Closed-book self-explanation prompts reduce the number of generated self-explanations when learners are not prompted to actively process the instructional explanations beforehand](../claims/closed-book-prompts-reduce-self-explanations-without-active-processing.md) [~W]
 - [Anticipatory self-explanation prompts induced lower extraneous cognitive load than retrospective prompts](../claims/anticipatory-prompts-lower-extraneous-load.md) [~W]
 - [Extraneous, essential, and generative processing are tapped by different assessment instruments, partially validating the triarchic theory](../claims/triarchic-processing-separable-measures.md) [~W]
+- [Active-processing focus-support techniques such as testing, self-explaining, concept mapping, and drawing show positive effects on learning](../claims/focus-support-active-processing-techniques-positive-effects.md) [+W]
 
 ## The evidence by question
 - *Does having learners generate their own elaborations improve learning, compared with no elaboration or with elaborations supplied to them?* [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](../claims/generative-processing-improves-learning.md) [+M]

@@ -46,3 +46,4 @@ The article's central proposal, stated in the abstract: the "dual intrinsic/extr
 - [Element interactivity underlies extraneous cognitive load as well as intrinsic cognitive load](element-interactivity-underlies-extraneous-load.md) — related
 - [In its traditional treatment, germane cognitive load is essentially indistinguishable from intrinsic load and may be a redundant concept](germane-load-indistinguishable-from-intrinsic-load.md) — related
 - [Germane cognitive load was added to the cognitive load framework on theoretical grounds rather than because of empirical results requiring the concept](germane-load-added-on-theoretical-not-empirical-grounds.md) — related
+- [The results suggest a new interpretation of intrinsic and extrinsic load as related to the time needed to process information](load-interpretation-time-to-process.md) — related

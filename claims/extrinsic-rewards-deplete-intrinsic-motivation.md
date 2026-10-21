@@ -55,3 +55,4 @@ The review reports, citing Deci et al. (1999), that "using extrinsic rewards dep
 - [People offered a reward generally choose the easiest possible task, whereas children without rewards pick tasks just beyond their current ability](rewards-easiest-task-choice.md) — related
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
 - [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — a narrower finding that bears on this claim
+- [Extrinsic motivation to please teachers is positively related to intrinsic motivation among Asian American students but negatively among Caucasian students](extrinsic-intrinsic-positive-link-asian-american.md) — related

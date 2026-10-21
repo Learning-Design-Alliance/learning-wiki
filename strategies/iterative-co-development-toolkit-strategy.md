@@ -43,6 +43,7 @@ The partnership builds the toolkit through joint development with participating 
 - [Engage teachers, families, and designers in participatory, iterative co-design of CT learning activities rather than adopting packaged solutions](participatory-iterative-co-design-ct.md)
 - [Ensure communication and co-development with school leaders throughout edtech process rollout](edtech-process-communication-co-development.md)
 - [Phase the intervention through cohorts that move from development to usability/feasibility testing to efficacy testing](phased-cohort-development-usability-efficacy-testing.md)
+- [Pair rapid evidence synthesis with community co-development to speed usable implementation plans](rapid-evidence-synthesis-with-community-codevelopment.md)
 
 ## Examples
 -

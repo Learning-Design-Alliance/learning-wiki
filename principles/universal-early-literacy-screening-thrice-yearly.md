@@ -22,7 +22,7 @@ sources:
 # Universal Early Literacy Screening
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (9 for, 29 mixed) · 17 studies (11 associational, 2 design, 1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 0 of 17 report an effect size · 37 claims rest on one study
+> **Evidence** · 39 claims (9 for, 30 mixed) · 18 studies (11 associational, 2 quant-synthesis, 2 design, 1 causal, 1 review, 1 theoretical), `q1`–`q3` · 0 of 18 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Accurate identification, timely added instruction, reading at grade level and ch
 - [Screening domain is a significant moderator of validity: literacy-literacy correlations (r = .55) exceed language-literacy (r = .38) and mathematics/literacy-achievement (r = .27)](../claims/domain-moderates-screening-validity.md) [~W]
 - [Screening classification errors carry asymmetric costs: false positives risk unnecessary intensive placement while false negatives delay early intervention](../claims/false-positive-false-negative-screening-tradeoff.md) [~W]
 - [Sensitivity and specificity of Three Tier screening tools vary widely, and no studies report language-domain-only accuracy](../claims/screening-sensitivity-specificity-vary-widely.md) [~W]
+- [Content validity evidence was reported for only eight assessments and four screeners, and over half of tools were developed in WEIRD societies or in English](../claims/content-validity-and-weird-skew-in-early-maths-tools.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md) — using evidence of learning to adapt teaching; screening is its coarse, whole-population form

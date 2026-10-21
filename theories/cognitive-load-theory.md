@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 88 claims (55 for, 24 mixed, 9 against) · 72 studies (29 causal, 18 review, 13 theoretical, 11 quant-synthesis, 1 design), `q1`–`q4` · 12 of 72 report an effect size · 78 claims rest on one study
+> **Evidence** · 91 claims (56 for, 26 mixed, 9 against) · 74 studies (30 causal, 18 review, 14 theoretical, 11 quant-synthesis, 1 design), `q1`–`q4` · 12 of 74 report an effect size · 81 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -158,6 +158,9 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Biologically primary motor actions such as finger tracing can provide cognitive benefits without causing cognitive load](../claims/primary-motor-actions-benefits-without-load.md) [+W] — attached 2026-10-21 from Alexander Skulmowski (2024), which proposed "Integrated cognitive framework for analyzing activity-based learning: cognitive load theory, biologically primary/secondary knowledge, and layers of action planning".
 - [LLM-supported socio-scientific inquiry lowered cognitive load but produced lower-quality reasoning and argumentation than conventional search](../claims/llm-inquiry-lower-load-lower-reasoning.md) [~W]
 - [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](../claims/coherence-principle-extraneous-material-effect.md) [+W]
+- [CLT can serve as a framework for teaching generalized knowledge and skills, including learning strategies](../claims/clt-framework-generalized-skills.md) [+W]
+- [The results suggest a new interpretation of intrinsic and extrinsic load as related to the time needed to process information](../claims/load-interpretation-time-to-process.md) [~W]
+- [Cognitive Load Theory has traditionally used slot-based working memory capacity models](../claims/clt-traditionally-used-slot-models.md) [~W]
 
 ## The evidence by question
 

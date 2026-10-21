@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (16 for, 11 mixed, 2 against) · 28 studies (8 review, 6 causal, 6 associational, 5 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 28 report an effect size · 27 claims rest on one study
+> **Evidence** · 30 claims (17 for, 11 mixed, 2 against) · 29 studies (8 review, 6 causal, 6 associational, 5 theoretical, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 29 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - [Only four included articles achieved theoretical grounding with empirical validation](../claims/eer-few-empirically-validated-theory.md) [+W] — attached 2026-10-21 from Vorderobermeier et al. (2024), which proposed "Interweave theory, didactic instruction, and practice in future EER research and development".
 - [Program-based studies cannot isolate the effect of inquiry-based instruction because they vary many program elements simultaneously](../claims/program-based-studies-cannot-isolate-inquiry-effect.md) [+W] — attached 2026-10-21 from Lin Zhang et al. (2022), which proposed "Educational standards should represent a balanced view of all available research categories rather than relying on one methodology".
 - [Differential attrition may explain the reported reduction in achievement gaps under daily online testing](../claims/differential-attrition-may-explain-gap-reduction.md) [+W] — attached 2026-10-21 from Robinson (2021), which proposed "Vet widely cited educational claims for internal-validity threats before acting on them, and expose unsupported extravagant claims".
+- [Heterogeneity in teacher program effects was high for stress, psychological distress, and burnout in RCTs, and methodological quality was generally poor across both trial types](../claims/teacher-programs-heterogeneity-risk-of-bias.md) [+W] — attached 2026-10-21 from Joanne R. Beames et al. (2023), which proposed "Design future teacher mental health program research with methodologically rigorous designs, co-design with teachers, and attention to implementation factors".
 
 ## Objective and learner-valued goal
 

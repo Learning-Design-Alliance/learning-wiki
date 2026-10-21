@@ -49,3 +49,4 @@ Which factors the review counts as spatial, and so which can be separated at all
 - [Effects of two-dimensional mental rotation training on children's mathematics performance are mixed, with significant correlations between rotation and mathematics measures](2d-rotation-training-math-effects-mixed.md) — related
 - A confirmatory factor analysis supported a two-factor Gf–Gc representation of the cognitive measures, with a significant .33 correlation between the factors — related
 - [Imagery and perceptual illusions each comprise multiple factors rather than the single CHC factors](multiple-imagery-and-illusion-factors.md) — related
+- [Structural equation models of RIF platform data support mental rotation and visualisation task groups as two discrete factors](rif-two-factor-discriminant-validity.md) — related

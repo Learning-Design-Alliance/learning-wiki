@@ -50,3 +50,4 @@ CHAT contradiction analysis mapping interview-identified barriers onto activity 
 - [Engineering students perceive AI chatbot benefits as strongest for relief from competence frustration, moderate for autonomy, and weakest for relatedness](ai-chatbot-need-specific-benefits-engineering-students.md) — related
 - [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no significant independent effect](competence-strongest-predictor-relatedness-null.md) — related
 - [Experienced effort-by-need frustration is neither a necessary requirement nor a typical concomitant of high-quality learning](need-frustration-not-necessary-for-learning.md) — related
+- [A key divergence: SDT theorizes need thwarting as an active, independent dimension predicting unique negative outcomes, while HET focuses on positive teaching dimensions](need-thwarting-divergence-het-sdt.md) — related

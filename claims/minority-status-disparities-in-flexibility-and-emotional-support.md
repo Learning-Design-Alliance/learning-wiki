@@ -47,3 +47,4 @@ Bivariate correlational analyses (Table 3) of minority status with DCCS flexibil
 - [Maternal cognitive support was only modestly associated with emotional support and largely independent of intrusiveness and negativity](cognitive-support-largely-independent-of-emotional-support.md) — related
 - [Greater maternal emotional support during problem-solving predicts greater child cognitive flexibility one year later, in both the preschool-to-kindergarten and kindergarten-to-first-grade intervals](maternal-emotional-support-predicts-cognitive-flexibility-gains.md) — related
 - [Better emotional scaffolding is associated with higher ECERS-R Interaction scores](emotional-scaffolding-associated-with-ecers-interactions.md) — related
+- [Teachers' internalized negative feelings about a child are related to displays of negative affect in observed interactions with that child](internalized-negative-feelings-negative-affect-displays.md) — related

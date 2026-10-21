@@ -49,3 +49,4 @@ Exploratory moderator analyses on clinical samples versus healthy controls, incl
 - [The effect of reward on inhibitory control is not moderated by reward type (monetary vs points vs other)](reward-type-does-not-moderate-inhibitory-control-effect.md)
 - [The reward effect on inhibitory control is significant across all six IC task types, but task type significantly moderates the effect, with the largest effect in Stroop tasks](task-type-moderates-reward-effect-on-inhibitory-control.md)
 - [Equivalent performance-adjustment effects hold when clinical control and neurotypical children are analyzed separately](three-group-exploratory-analyses-consistent.md) — related
+- [No coded study characteristics moderated the emotion–political learning associations in Bayesian regularized meta-analysis](no-moderators-emotion-political-learning.md) — related

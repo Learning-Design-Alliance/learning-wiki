@@ -64,3 +64,4 @@ Moderator analyses in Table 2 for these five variables showed non-significant Q-
 - Meta-analysis offers additional strengths of increased statistical power, moderator analyses, and model testing — a broader claim this one bears on
 - [The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies](cooperative-learning-location-moderator.md) — related
 - [Study quality (risk of bias) and publication year do not moderate the attitude–proficiency association](robustness-null-moderators-quality-year.md) — related
+- [No coded study characteristics moderated the emotion–political learning associations in Bayesian regularized meta-analysis](no-moderators-emotion-political-learning.md) — related

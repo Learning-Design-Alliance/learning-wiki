@@ -13,7 +13,7 @@ generated:
 # Bullying Prevention and Intervention
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (23 for, 6 mixed) · 17 studies (6 causal, 5 review, 3 associational, 2 design, 1 theoretical), `q1`–`q3` · 3 of 17 report an effect size · 29 claims rest on one study
+> **Evidence** · 31 claims (23 for, 7 mixed, 1 against) · 18 studies (6 causal, 5 review, 4 associational, 2 design, 1 theoretical), `q1`–`q3` · 4 of 18 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -111,6 +111,7 @@ Learners, outcomes and reporters differ across these claims (teacher ratings in 
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](../claims/toxic-stress-impedes-learning.md) [+W] — a narrative synthesis giving the mechanism behind step 8; no data printed.
 - [School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings](../claims/shooters-not-bullied-loners.md) [~M] — a review brief; limits what bullying prevention is expected to prevent, used in the threat row.
 - [Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction](../claims/role-play-discussion-built-knowledge-empathy.md) [+W] — attached 2026-10-16 from Peadar Donohoe et al. (2015), which proposed "No name, no blame discussion of bullying incidents".
+- [Anti-bullying intervention effects are weak, and RCT designs show even smaller effects than earlier meta-analyses suggested](../claims/anti-bullying-intervention-effects-weak.md) [-W] — attached 2026-10-21 from Herbert W. Marsh et al. (2023), which proposed "Interventions and anti-bullying policies should address relational and verbal victimization, not only physical victimization".
 
 ## Objective and learner-valued goal
 
@@ -132,6 +133,7 @@ Bullying rated by teachers, bullying reported by students, fear of bullying, bys
 - [A two-year quasi-experimental study in Hong Kong found full-implementation restorative whole-school approach students reported significantly less bullying and larger empathy and self-esteem gains than control students](../claims/rwsa-hong-kong-less-bullying-empathy-gains.md) [+W]
 - [School-based cyberbullying prevention has the largest review base, with clear findings replicated across multiple reviews](../claims/cyberbullying-prevention-reviews-effective-content.md) [+W]
 - [By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders](../claims/learners-learned-definition-and-defending.md) [+W]
+- [Gender differences in victimization vary systematically across the physical, verbal, and relational components](../claims/gender-differences-vary-across-victimization-components.md) [~W]
 
 ## Related Principles
 - [Character Education](character-education.md) — schoolwide relationship-focused, non-punitive climate is a preventive foundation bullying-specific intervention builds on

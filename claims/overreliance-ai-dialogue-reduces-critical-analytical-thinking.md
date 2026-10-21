@@ -55,3 +55,4 @@ Systematic review synthesis answering research question 1, integrating findings 
 - [GenAI shows a dual-mechanism profile: meta-analytic learning benefits coexist with dependence-related costs to critical thinking](genai-dual-mechanism-amplifier-substitute.md) — related
 - [Systematic review of 43 investigations finds no consistent evidence that higher education produces more critical analytic ways of thinking](no-consistent-evidence-higher-education-deeper-approaches.md) — related
 - [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](llm-scaffolding-over-reliance-paradox.md) — related
+- [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — related

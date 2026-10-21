@@ -52,3 +52,4 @@ Linear regression analyses predicting problem-solving performance from the ratin
 - [Informing learners about the to-be-monitored cue before problem-solving did not affect mental effort or problem-solving performance (Experiment 1)](cue-timing-no-effect-effort-performance.md) — related
 - [In a preregistered within-subjects experiment (N = 131, eight measurements), the translated scale showed criterion validity via sensitivity to task complexity, extraneous load, and motivation](mel-ts-criterion-validity.md) — related
 - [Mental effort is more suitably modeled as a non-linear than linear predictor of learning outcomes in most re-analyzed studies](mental-effort-nonlinear-predictor-reanalyses.md) — related
+- [Taking an immediate plus delayed final test yields higher delayed test performance with less invested effort than taking only a delayed test (Experiment 2)](immediate-plus-delayed-test-advantage-exp2.md) — related

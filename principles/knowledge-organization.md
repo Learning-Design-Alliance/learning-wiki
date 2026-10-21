@@ -19,7 +19,7 @@ sources:
 # Knowledge Organization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (16 for, 9 mixed) · 27 studies (10 causal, 6 review, 5 quant-synthesis, 2 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 27 report an effect size · 20 claims rest on one study
+> **Evidence** · 28 claims (17 for, 11 mixed) · 29 studies (10 causal, 6 quant-synthesis, 6 review, 3 theoretical, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 29 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,9 @@ Assisted sorting, unaided rebuilding, integrative-task performance, detail recal
 - [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](../claims/cooperative-concept-mapping-better-than-individual.md) [~W]
 - [Well-organized texts following rhetorical schemata are better remembered than disorganized texts, and high-structure information is more likely to be recalled](../claims/organized-text-high-structure-recall-advantage.md) [+W]
 - [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](../claims/structural-signals-aid-problem-solving-not-recall.md) [~W]
+- [Hierarchical top-down schema-based instruction improved transfer performance compared with single-level and control instruction](../claims/hierarchical-schema-instruction-transfer.md) [~W]
+- [Technology type, collaboration level, and intervention duration show no significant differences in concept-mapping effects](../claims/concept-map-effects-null-technology-collaboration-duration.md) [~W]
+- [Concept-mapping effect sizes vary by science subject (physics/earth science g = 1.040, biology g = 0.671, chemistry g = 0.590) but not significantly](../claims/concept-map-effects-vary-by-science-subject.md) [+W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — knowledge organization is often one concrete route to load reduction

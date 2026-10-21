@@ -68,3 +68,4 @@ Experiment 1: 36 paid volunteers from an introductory college physics course, bl
 - [Participants in higher hierarchy positions were more active and showed better learning performance than those at lower levels](higher-hierarchy-position-more-active-better-performance.md) — related
 - [Adding a teachable agent to the standard science curriculum improved fourth-graders' learning gains on both curriculum tests and researcher-designed hierarchical reasoning tests](ta-improves-basic-and-added-value-gains-fourth-grade.md) — related
 - [Topic complexity moderates the simulation advantage: the multidimensional Baltic Sea topic showed a much larger simulation benefit than the one-dimensional ocean acidification topic](complexity-moderates-simulation-advantage.md) — related
+- [Hierarchical top-down schema-based instruction improved transfer performance compared with single-level and control instruction](hierarchical-schema-instruction-transfer.md) — related

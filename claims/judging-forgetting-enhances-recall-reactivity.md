@@ -69,3 +69,4 @@ Self-paced replication with 62 undergraduates (mean 97.16 s per list). Forget wo
 - [In self-cued directed forgetting, selected words were better recalled than unselected words regardless of whether they were designated to-be-remembered or to-be-forgotten](self-cued-directed-forgetting-selection-benefit.md) — related
 - [Relative to random choice, a metacognitive judgment of remembering boosted recall while a judgment of forgetting was associated with a memory cost](metacognitive-judgment-versus-random-choice.md) — related
 - [Merely selecting words by clicking on them, without any memorability instructions, enhanced their recall (a choice effect)](word-selection-choice-effect-enhances-recall.md) — related
+- [For a fixed quantity of information, the mere pace of information presentation can affect learning performance](presentation-pace-affects-learning-performance.md) — related

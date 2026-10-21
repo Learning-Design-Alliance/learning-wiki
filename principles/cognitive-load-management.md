@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (25 for, 37 mixed, 3 against) · 55 studies (25 causal, 12 review, 9 quant-synthesis, 7 theoretical, 1 associational, 1 design), `q1`–`q4` · 22 of 55 report an effect size · 57 claims rest on one study
+> **Evidence** · 66 claims (26 for, 37 mixed, 3 against) · 56 studies (26 causal, 12 review, 9 quant-synthesis, 7 theoretical, 1 associational, 1 design), `q1`–`q4` · 22 of 56 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Solving problems with graphs increased mental effort, shown by a higher proportion of silence in think-aloud data](../claims/graphs-increase-mental-effort-silence.md) [~W] — read 2026-10-19: silence rose from 62% to 66% with a graph, marginal (p = .07), interpreted by the authors as effort; an observation-method lead, not a learning comparison.
 - [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](../claims/multimodal-valued-complex-visualizations-hinder.md) [+W] — read 2026-10-19: participant reports from a small mixed-reality toolkit user study (r1); consistent with the coherence advice in the revising-materials row, no learning outcome compared.
 - [The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background](../claims/audience-prior-knowledge-determines-information-density.md) [~W] — read 2026-10-19: a 1977 theoretical paper on writing decisions; consistent with the expertise qualification, no data.
+- [TBRS-model-derived hypotheses about presentation-pace effects were supported in two experiments, provided prior knowledge is taken into account](../claims/tbrs-hypotheses-tested-two-experiments.md) [+W] — attached 2026-10-21 from Sébastien Puma et al. (2018), which proposed "When investigating presentation-pace effects during learning, take learners' prior knowledge into account".
 
 ## Objective and learner-valued goal
 

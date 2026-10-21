@@ -15,7 +15,7 @@ grain_size: course
 # Self-Directed Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (9 for, 7 mixed, 2 against) · 27 studies (9 quant-synthesis, 7 causal, 5 review, 4 theoretical, 2 associational), `q1`–`q4` · 8 of 27 report an effect size · 9 claims rest on one study
+> **Evidence** · 19 claims (9 for, 8 mixed, 2 against) · 28 studies (9 quant-synthesis, 7 causal, 6 review, 4 theoretical, 2 associational), `q1`–`q4` · 8 of 28 report an effect size · 10 claims rest on one study
 
 ## Description and scope
 
@@ -140,6 +140,7 @@ This pattern is scoped to a course or unit in which control is handed to learner
 ## Claims
 
 - [Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported sometimes, rarely, or never choosing](../claims/pl-student-choice-limited-teacher-driven.md) [-W]
+- [Students make substantial use of worked examples during self-regulated learning, but task selection patterns differ across studies and between high- and low-scoring students](../claims/task-selection-patterns-examples-practice-problems.md) [~W]
 
 ## Related Patterns
 - [Self-Regulated Learning](self-regulated-learning.md) — the within-task plan–monitor–act prompting this pattern uses in its teaching step

@@ -50,3 +50,4 @@ Three-facet MTMM recoding of the same latent matrix from 1,950 Australian school
 - [Autonomy shows a strong content signal: 53 of 64 outcomes satisfy the a priori autonomy rule, with exceptions for self-efficacy (competence) and collegial support (relatedness)](autonomy-content-signal-c2.md) — related
 - [Competence and relatedness show distinct content pathways: competence with capability indicators (self-efficacy, progress, resilience) and relatedness with interpersonal-climate indicators (collegial support, trust, social capital)](competence-relatedness-content-pathways-c3.md) — a narrower finding that bears on this claim
 - [In EERs, autonomy, competence, and relatedness are each supported by specific design features per self-determination theory](eer-sdt-needs-design-features.md) — related
+- [HET's three principles conceptually align with SDT's autonomy support, structure, and involvement](het-sdt-teaching-practices-converge.md) — related

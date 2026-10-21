@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 47 claims (27 for, 20 mixed) · 30 studies (15 causal, 6 quant-synthesis, 5 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 30 report an effect size · 43 claims rest on one study
+> **Evidence** · 55 claims (29 for, 23 mixed, 3 against) · 32 studies (17 causal, 6 quant-synthesis, 5 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 16 of 32 report an effect size · 51 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -98,6 +98,14 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Self-regulated multiple-choice students scored lower on final tests than experimenter-controlled groups but spent less time practicing, making their one-correct criterion comparatively time-efficient.](../claims/srl-mc-lower-final-test-less-time.md) [~W] — attached 2026-10-20 from Badali et al. (2023), which proposed "Self-regulated practice task with restudy, practice-test, and item-removal options".
 - [In-person but not online self-regulated multiple-choice students completed fewer restudy trials before their first practice test than cued-recall students.](../claims/restudy-before-first-test-format-interaction.md) [~W]
 - [The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third](../claims/spacing-decrement-limited-to-first-two-questions.md) [~W]
+- [Testing after studying four worked examples is not more effective for delayed test performance than restudying examples, with isomorphic or identical tasks (Experiment 3)](../claims/exp3-no-testing-effect-after-four-examples.md) [-W]
+- [Testing via identical problem solving after studying identical worked examples does not enhance delayed test performance compared with restudying identical examples (Experiment 2)](../claims/exp2-no-testing-effect-identical-problems.md) [-W]
+- [The overt-retrieval advantage does not significantly differ by definition complexity (number of idea units), contrary to a retrieval-dynamics prediction](../claims/overt-advantage-not-moderated-by-idea-units.md) [~W]
+- [Across eight delayed-test comparisons, testing showed a small numerical advantage over restudy, but confidence intervals were wide and the combined effect imprecise](../claims/small-scale-meta-analysis-testing-restudy-imprecise.md) [+W]
+- [Taking an immediate plus delayed final test yields higher delayed test performance with less invested effort than taking only a delayed test (Experiment 2)](../claims/immediate-plus-delayed-test-advantage-exp2.md) [+W]
+- [Testing after studying four worked examples does not enhance delayed test performance compared with restudy among vocational education students in probability calculation (Experiment 4)](../claims/exp4-no-testing-effect-vocational-probability.md) [-W]
+- [Overt retrieval also outperforms covert retrieval for key terms, but with a smaller advantage than for definitions](../claims/overt-beats-covert-retrieval-key-terms-smaller.md) [~W]
+- [Transfer across response formats is incomplete: practicing terms benefited definition recall, but practicing definitions showed no overt-over-covert advantage on a term test](../claims/transfer-across-term-definition-formats-mixed.md) [~M]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

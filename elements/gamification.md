@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 mixed, 1 against) · 7 studies (3 review, 2 quant-synthesis, 1 causal, 1 qualitative), `q2`–`q4` · 1 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 8 studies (3 review, 2 quant-synthesis, 1 causal, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -27,6 +27,7 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [-M]
 - [Evidence on gamification's effect on engagement in adaptive learning platforms is mixed, with claims of greatest impact alongside reports of minimal effect](../claims/gamification-engagement-mixed-evidence.md) [~W]
 - [In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest](../claims/optimal-challenge-sustains-gaming-engagement.md) [~W]
+- [Reward techniques show positive meta-analytic effects for gamification and personalization, but perceptual fluency did not directly affect learning outcomes](../claims/reward-techniques-meta-analytic-effects-mixed.md) [+W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

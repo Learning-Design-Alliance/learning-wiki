@@ -45,3 +45,4 @@ Experiment 1, a 2 × 2 between-subjects ANOVA with N = 129 university students l
 ## Related Claims
 - [Prompted cue type and timing of cue prompt do not interact in their effect on self-assessment accuracy (Experiment 1)](cue-type-timing-no-interaction-accuracy.md) — related
 - [Informing learners about the to-be-monitored cue before the problem-solving phase improves self-assessment accuracy compared with informing them only afterwards](inform-learners-before-problem-solving-improves-accuracy.md) — related
+- [Effortful generative learning activities during problem-solving example study provide cues that improve students' item-level self-monitoring accuracy](generative-activities-improve-problem-solving-monitoring.md) — related

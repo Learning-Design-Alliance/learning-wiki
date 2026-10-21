@@ -43,6 +43,7 @@ The report recommends that schools provide training to teachers and staff on con
 - [Restorative Questions](restorative-questions.md)
 - [Increase adult presence in the areas where students feel least safe, particularly just outside and around the school building](increase-adult-presence-unsafe-areas.md)
 - [Focus reduction efforts on high schools, racial/achievement disparities, and conflict prevention/de-escalation](three-focus-areas-reducing-exclusionary-discipline.md)
+- [Support teachers' relational pedagogy through reflection and corrective experiences to prevent conflict escalation and emotional exhaustion](relational-pedagogy-support-reflection-strategy.md)
 
 ## Examples
 -

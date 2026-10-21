@@ -52,3 +52,4 @@ Correlational study of 73 Grade 4 children who completed the WMPT at five diffic
 - [At low memory loads, older adults report less uncertainty than younger adults despite making larger errors, suggesting an overconfidence bias](older-adults-overconfident-low-load-vstm.md) — related
 - [A minority of item judgments show downregulation of confidence after pre-monitoring, suggesting differentiated evaluation can sometimes trigger more accurate monitoring](confidence-downregulation-after-pre-monitoring.md) — related
 - [Hard-easy effect: students are more accurate but underconfident on easy items and less accurate but overconfident on difficult items](hard-easy-effect-calibration.md) — a broader claim this one bears on
+- [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related

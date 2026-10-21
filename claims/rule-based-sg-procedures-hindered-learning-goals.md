@@ -52,3 +52,4 @@ Qualitative finding from the two-case study comparing an extreme rule-based SG a
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [ARPG+ shifts cognitive load composition toward productive effort and reduces overload frequency in simulation](arpg-plus-load-composition-shift-and-overload-reduction.md) — related
 - [In an open simulation game with wide scope and low distance, second-order interventions effectively elicited second-order responses](open-sg-sol-interventions-elicit-sol-responses.md) — related
+- [High task variability can overload working memory and reduce learning efficiency in some cases](task-variability-overload-tradeoff.md) — related

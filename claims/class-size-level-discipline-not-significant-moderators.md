@@ -55,3 +55,4 @@ Null moderator results from three-way interaction Bayesian models (SI Appendix, 
 - [Active learning benefits students in all class sizes, with the greatest effects in classes of 50 or fewer students](active-learning-strongest-small-classes.md) — related
 - [LEA's course-agnostic architecture was operationalised across three courses with no changes to the orchestrator, mastery tracker, or scaffolding engine](orchestration-layer-generalises-knowledge-layer-adapts.md) — related
 - [Active learning and inclusive practices are associated with better outcomes and reduced equity gaps, though evidence is contested and uptake remains low](active-learning-reduces-equity-gaps-contested.md) — a broader claim this one bears on
+- [No coded study characteristics moderated the emotion–political learning associations in Bayesian regularized meta-analysis](no-moderators-emotion-political-learning.md) — related

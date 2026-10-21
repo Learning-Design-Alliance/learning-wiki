@@ -192,3 +192,4 @@ Finally, van de Pol et al. treat contingency as definitionally necessary for sca
 - [Contingency is not treated as a necessary condition of scaffolding in bilingual education research, unlike broader educational research](contingency-not-necessary-condition-bilingual-education-scaffolding.md) — a narrower finding that bears on this claim
 - [Dynamic (adaptive) scaffolding is linked to stronger effects of ICT-supported writing interventions](dynamic-scaffolding-stronger-writing-effects.md) — related
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](fading-out-prompts-beat-permanent-prompts.md) — related
+- [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — reports the opposite

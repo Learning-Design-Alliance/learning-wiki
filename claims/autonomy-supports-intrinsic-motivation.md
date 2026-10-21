@@ -190,3 +190,6 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Creativity-supportive school climates combine autonomy, psychological safety, teacher encouragement, and rich resources](creativity-supportive-climate-factors.md) — related
 - [Receiving grades is positively associated with achievement and external motivation compared with receiving no performance feedback (review-reported meta-analysis)](grades-versus-no-feedback-koenka.md) — related
 - [Teachers who facilitate both autonomy and structure report motivation to teach and felt teaching effectiveness](teacher-outcomes-autonomy-structure.md) — a narrower finding that bears on this claim
+- [A key divergence: SDT theorizes need thwarting as an active, independent dimension predicting unique negative outcomes, while HET focuses on positive teaching dimensions](need-thwarting-divergence-het-sdt.md) — related
+- [Other-made choices produce similar or better motivation and performance than self-made choices for East Asian youth, contrary to Western choice findings](other-made-choices-beneficial-east-asian-youth.md) — reports the opposite
+- [Teacher beliefs about individual students relate to differentiated need support: students with higher teacher-reported expectations perceive more need support](teacher-expectations-relate-to-perceived-need-support.md) — related

@@ -68,3 +68,4 @@ Two-step mediation (prompt → perceived relevance → relative processing time 
 - [Extraneous cognitive load did not mediate the detrimental effect of seductive details in this online study](ecl-mediation-not-replicated-online.md)
 - [Adding seductive details to multimedia instruction significantly worsens recall of pertinent content compared with instruction without seductive details](seductive-details-worsen-recall-versus-control.md) — related
 - [Self-explanation promotes transfer of general patterns but can reduce recall of details and cause overgeneralization](self-explanation-improves-transfer-reduces-detail-recall.md) — related
+- [A medium degree of both focus support and reward is sufficient for good learning outcomes](fore-h2-medium-degree-sufficient.md) — related

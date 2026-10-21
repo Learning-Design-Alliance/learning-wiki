@@ -158,3 +158,4 @@ Open questions: most of the evidence base predates modern multimedia learning re
 - [Graphic organizers such as concept maps improve comprehension and retention with a medium average effect; that novices benefit more rests on a few small subgroups](graphic-organizers-support-novice-comprehension.md) — related
 - [Aptitude-by-treatment interactions for instructional structure show mixed support: crossovers in some studies, nulls in others](ati-structure-ability-interactions-mixed.md) — related
 - [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) — related
+- [Hierarchical top-down schema-based instruction improved transfer performance compared with single-level and control instruction](hierarchical-schema-instruction-transfer.md) — related

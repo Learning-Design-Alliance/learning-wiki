@@ -94,3 +94,4 @@ For learning designers, the practical implication is risk management, not exploi
 - [Prompting a learning disability shifts feedback toward word- and sentence-level remediation, simplified vocabulary, and lowered expectations](learning-disability-feedback-lowered-expectations.md) — related
 - [Teachers underrefer culturally and linguistically diverse students for gifted identification](teacher-underreferral-diverse-gifted.md) — related
 - [Using demographic variables as predictors risks reinforcing biases embedded in training labels, including self-fulfilling prophecies](demographic-predictors-reinforce-training-label-bias.md) — a broader claim this one bears on
+- [Students in high expectation teachers' classrooms show large achievement gains over one year, while students in low expectation classrooms show very small gains](high-expectation-teachers-large-achievement-gains.md) — related

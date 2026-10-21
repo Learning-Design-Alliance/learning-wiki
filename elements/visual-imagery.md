@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (8 for, 5 mixed, 3 against) · 24 studies (12 causal, 8 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 24 report an effect size · 12 claims rest on one study
+> **Evidence** · 17 claims (8 for, 5 mixed, 4 against) · 25 studies (13 causal, 8 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 25 report an effect size · 13 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -63,6 +63,7 @@ Imagery-based encoding improves recall and comprehension because information sto
 - [Imagery instructions yield more isolated concepts than discriminating-feature instructions, as shown by greater influence of nondiagnostic features on categorization accuracy](../claims/image-instructions-isolated-concepts-nondiagnostic-features.md) [-W]
 - [Concepts become more interrelated with practice under discriminate instructions, and more isolated with practice under image instructions](../claims/practice-changes-concept-interrelatedness.md) [-W]
 - [Spatial memory correlates with spatial imagery in the congenitally blind but not the sighted](../claims/spatial-memory-imagery-correlation-blind-only.md) [~W]
+- [For uncertain architectural elements, geometric contrast yielded worse memory of appearance than no visualization, stop light colors, or both visualizations](../claims/geometric-contrast-impairs-uncertain-element-memory.md) [-W]
 
 ## The evidence by question
 

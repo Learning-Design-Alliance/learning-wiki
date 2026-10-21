@@ -13,7 +13,7 @@ generated:
 # Digital learning platform process-data analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 5 studies (3 associational, 1 review, 1 design), `q2` · 1 of 5 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (8 for, 2 mixed) · 6 studies (3 associational, 1 review, 1 design, 1 theoretical), `q2` · 1 of 6 report an effect size · 10 claims rest on one study
 
 ## Description
 The report urges researchers to use the robust log data DLPs generate, such as which tasks students begin, time spent, and detailed progress. Such data can reveal attrition or compliance indirectly and "may serve as a measure of important intermediate outcomes, or mediators, that are often very difficult to collect in conventional research settings." Researchers unfamiliar with log data should work with platform teams and review codebooks and data dictionaries.
@@ -27,9 +27,9 @@ The report urges researchers to use the robust log data DLPs generate, such as w
 - **Explore existing platform data before fully specifying a research plan to inform questions, design, and sample selection**: The report advises that DLPs offer access to data on large numbers of users or full user populations, usable for secondary analysis or to refine hypotheses and run power calculations. The stated consideration is "taking time to explore this available data before fully specifying a research plan," because existing data reveal available data structures and user behavior and help relate a planned experimental contrast to current platform activity. (Considerations for Conducting Research in Digital Learning Platforms)
 - **Researchers should take time to understand a digital learning platform's learning environment and capabilities before planning research within it**: The report's first consideration holds that researchers must conduct due diligence on a DLP before planning studies, because research must fit within learning environments that already exist. Researchers should inquire about the learning setting, theory of action, typical implementation, and available content, since "researchers will need to be prepared to explore, modify, and study their ideas within learning environments that already exist." This saves the expense of building a platform while requiring creativity in fitting research interests to it. (Considerations for Conducting Research in Digital Learning Platforms)
 - **Record game telemetry at the finest usable grain size with sufficient context to reconstruct events**: The chapter defines "ﬁnest usable grain size" as "a data element that has a clear deﬁnition associated with it"; a bare click is unusable, whereas a qualified datum such as clicking the reset button is usable. It recommends that "game telemetry should contain sufﬁcient information to describe the context in which the event occurred" in enough detail to link data to a specific school, teacher, period, player, game level, and game state, illustrated by an index-card reconstruction test. (Gregory K.W.K. Chung (2015))
+- **Measure utilization of instructional features via process data rather than only comparing learning outcomes**: The article argues that research focusing only on the direct path—the effect of digital tools on outcomes versus another scenario—allows only limited interpretation. Instead, students' interaction with implemented instructional features (the external behavioral side of learning activities) should be treated as a theoretical and empirical mediator of achievement. The framework treats "process data" as an umbrella term encompassing tool-logged interactions and other process indicators obtained from accompanying assessments during learning. (Frank Reinhold et al. (2024))
 
 ### Claims
-
 - [Delayed start during math practice predicts standardized ELA test performance (β=.10 SD, p<.001)](../claims/delayed-start-math-predicts-ela-outcomes.md) [+M]
 - [Early starters (<5 min delay) show greater outcome growth while chronic delayers (>13 min) show negative trends relative to regular starters](../claims/early-starter-chronic-delayer-subgroups.md) [+M]
 - [Question specificity during Socratic AI tutoring correlates mildly but positively with self-reported expected course grade (Pearson r ≈ 0.43), with substantial scatter](../claims/question-specificity-correlates-expected-grade.md) [+M]
@@ -39,6 +39,7 @@ The report urges researchers to use the robust log data DLPs generate, such as w
 - [Behavioural engagement indicators such as platform interaction and task completion do not by themselves establish cognitive engagement with mathematical ideas](../claims/behavioural-engagement-not-cognitive-engagement.md) [~W]
 - [Classroom-relativized delayed start shows stronger predictive power and model fit than raw minutes, especially for ELA outcomes](../claims/relative-delayed-start-stronger-fit.md) [~W]
 - [SEERNet's five DLPs each have more than 100,000 regular users, which the network cites as grounding research in practice](../claims/seernet-dlps-over-100000-regular-users.md) [+W]
+- [Usage amount moderated the effect of a formative assessment tool in Koedinger et al. (2010)](../claims/koedinger-2010-usage-moderates-tool-effect.md) [+M]
 
 ## Related Research Methods
 
@@ -51,6 +52,7 @@ The report urges researchers to use the robust log data DLPs generate, such as w
 - Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević. (2026). Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use. arXiv preprint. https://arxiv.org/abs/2602.00447
 <!-- merged 2026-10-17 from research-methods/exploratory-digital-learning-platform-data-analysis-for-research-planning ("Exploratory digital learning platform data analysis for research planning"), thin research-method page folded into the method it is a variant of (maintainer, 2026-10-17): its body as it stood. Its bullets this page lacked were added above.
 - Gregory K.W.K. Chung. (2015). Guidelines for the Design and Implementation of Game Telemetry for Serious Games Analytics. In C.S. Loh et al. (eds.), Serious Games Analytics. https://doi.org/10.1007/978-3-319-05834-4_3
+- Frank Reinhold, Timo Leuders, Katharina Loibl, Matthias Nückles, Maik Beege, Jan M. Boelmann (2024). Learning Mechanisms Explaining Learning With Digital Tools in Educational Settings: a Cognitive Process Framework. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09845-6
 
 # Exploratory digital learning platform data analysis for research planning
 

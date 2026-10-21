@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 140 claims (59 for, 74 mixed, 7 against) · 98 studies (31 causal, 20 review, 17 associational, 15 quant-synthesis, 11 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 27 of 98 report an effect size · 129 claims rest on one study
+> **Evidence** · 142 claims (60 for, 75 mixed, 7 against) · 100 studies (31 causal, 21 review, 17 associational, 15 quant-synthesis, 12 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 27 of 100 report an effect size · 131 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,7 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Primary teachers who participated in the iSELF professional development program showed significantly higher explicit SRL strategy instruction at post-test than control teachers](../claims/iself-pdp-increases-explicit-srl-instruction.md) [+W] — attached 2026-10-19 from Patrick Sins et al. (2024), which proposed "Instruct SRL strategies explicitly and integrated within subject-matter teaching rather than in decontextualized study lessons".
 - [Metacognitive strategies directly and positively predict writing performance in both L1 and L2 task-situated writing](../claims/metacognitive-strategies-predict-l1-l2-writing-performance.md) [+W] — attached 2026-10-19 from Wandong Xu (2024), which proposed "Embed metacognitive strategy training in writing classrooms with explicit, practical guidance across task interpreting, planning, monitoring, and evaluating".
 - [Metacognitive regulation of interactive metadiscourse strategies significantly predicts L2 argumentative writing performance, explaining about 11.3% of variance](../claims/mrim-predicts-l2-argumentative-writing-performance.md) [+W] — attached 2026-10-19 from Chenghui Chen (2025), which proposed "Attend to monitoring of interactive metadiscourse during writing, since it is the strongest predictor of L2 argumentative writing performance"; tests this page's relationship.
+- [Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but does not transfer to a new problem domain](../claims/performance-effort-task-selection-training-improves-srl.md) [+W] — attached 2026-10-21 from Tamara van Gog et al. (2020), which proposed "Teach students a simple task selection rule that combines self-assessed performance and invested mental effort when choosing the next problem-solving task"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -232,6 +233,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Interventions to improve monitoring accuracy in problem-solving tasks have a small positive overall effect (g = 0.25)](../claims/monitoring-accuracy-interventions-small-positive-effect-problem-solving.md) [~W]
 - [SRL interventions produce large average effects on academic and motivational outcomes, per meta-analytic syntheses](../claims/srl-interventions-large-average-effects.md) [~W]
 - [SRL intervention effects are moderated by delivery agent, duration, domain, and student age, with inconsistent duration findings](../claims/srl-intervention-moderators-agent-domain-age.md) [~W]
+- [Advanced learners may benefit from learner-controlled selection of learning tasks and levels of generality](../claims/learner-control-advanced-learners-flexibility.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

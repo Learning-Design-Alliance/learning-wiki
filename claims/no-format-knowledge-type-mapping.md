@@ -73,3 +73,4 @@ ANCOVA on procedural knowledge (max 10, covariates math grade and time-on-task) 
 - [An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](interactive-beats-constructive-concept-mapping.md) — related
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
 - [The format of a representational tool shapes the amount and type of historical reasoning](representational-tool-format-shapes-historical-reasoning.md) — related
+- [Technology type, collaboration level, and intervention duration show no significant differences in concept-mapping effects](concept-map-effects-null-technology-collaboration-duration.md) — related

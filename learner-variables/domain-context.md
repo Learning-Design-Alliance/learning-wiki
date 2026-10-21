@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 48 claims (37 show a difference, 10 mixed, 1 no difference) · 47 studies (14 review, 11 qualitative, 6 causal, 6 design, 5 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 6 of 47 report an effect size · 44 claims rest on one study
+> **Evidence** · 49 claims (37 show a difference, 11 mixed, 1 no difference) · 48 studies (15 review, 11 qualitative, 6 causal, 6 design, 5 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 6 of 48 report an effect size · 45 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -89,6 +89,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [The relevance and level of students' knowledge moderates activation effectiveness: mobilizing irrelevant information impaired comprehension, while open-ended mobilization benefited students with lower topic knowledge more](../claims/knowledge-relevance-and-level-moderate-activation-effects.md) [~M] — an instructional effect differs with it
 - [Common features distinguish more efficacious dementia educational programs, including role relevance, active face-to-face participation, theory-underpinned practice learning, experienced facilitation, and support for applying learning in practice](../claims/common-features-efficacious-dementia-education-programs.md) [+M] — learners who differ on it differ in outcomes
 - [Motor activities combined with high integration and high relevance produce the largest positive effects on memory, per a meta-analysis cited by the review](../claims/high-integration-relevance-motor-activity-memory-effects.md) [~M] — an instructional effect differs with it
+- [Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but does not transfer to a new problem domain](../claims/performance-effort-task-selection-training-improves-srl.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

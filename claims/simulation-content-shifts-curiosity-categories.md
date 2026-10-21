@@ -47,3 +47,4 @@ Results for the inductance calculator simulation: 35 comments from 35 students, 
 - [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related
 - [Every student present submitted at least one question response for each simulation, without external incentives](full-participation-question-submission.md) — related
 - [Student chat questions in the pilot were distributed across seven categories, dominated by study strategies (23%), conceptual quantum (20%), and mathematical formalism (17%)](itas-question-category-distribution.md) — related
+- [The relationship between prior knowledge and knowledge gains shows context-dependent patterns in the CoMSA simulation](comsa-prior-knowledge-gains-patterns.md) — related

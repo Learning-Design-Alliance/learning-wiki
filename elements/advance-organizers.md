@@ -26,7 +26,7 @@ sources:
 # Advance Organizers
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (2 causal, 1 review), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 1 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 An advance organizer is introductory material — a concept map, outline, analogy, or brief prose passage — presented *before* instruction to provide an anchoring framework into which new content can be assimilated. Introduced by Ausubel (1968), the organizer works by making relevant existing knowledge active and by pre-structuring the relationships among ideas the learner is about to encounter — for example, "Listen to this story and think of the three things the duckling did" primes a listener to organize what follows around a specific retrieval structure before hearing it.
@@ -72,6 +72,7 @@ Advance organizers improve comprehension and retention by giving learners a subs
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Advance organizers facilitate conceptual retention and far transfer of unfamiliar technical material for learners lacking relevant prior knowledge](../claims/advance-organizers-far-transfer-unfamiliar-technical-material.md) [+W]
+- [Concept mapping has a moderate overall positive effect on science achievement for elementary and secondary students (g = 0.776)](../claims/concept-maps-moderate-overall-science-achievement-effect.md) [~W]
 
 ## Related Elements
 - [Concept Mapping](concept-mapping.md) — a learner-generated organizer; the advance organizer is instructor-provided, the concept map learner-constructed

@@ -180,3 +180,4 @@ A systematic search of bibliographic databases identified 69 effect sizes from 6
 - [Enforcing an explicit multi-step reasoning structure yields no significant improvement for the two studied models, which already self-organize an effective reasoning structure](enforced-structure-no-gain-self-organized-reasoning.md) — related
 - [Receiving elaborate explanations benefits learning only when the receiver can apply the explanation in a related task](receiving-explanations-effective-when-applicable.md) — related
 - [Learners given appropriate materials and prompts can successfully develop, articulate, and elaborate rich epistemic ideals for good models and good sources](learners-develop-elaborate-epistemic-ideals.md) — related
+- [Active-processing focus-support techniques such as testing, self-explaining, concept mapping, and drawing show positive effects on learning](focus-support-active-processing-techniques-positive-effects.md) — a broader claim this one bears on

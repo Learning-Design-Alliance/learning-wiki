@@ -51,3 +51,4 @@ Random-effects meta-analytic correlations (corrected for reliability, robust var
 - [Need satisfaction and autonomy support did not predict external regulation, and introjected associations did not hold in the full model](needs-autonomy-support-not-predict-external-regulation.md) — possibly the same claim (merge candidate)
 - [Teacher autonomy support predicts students' need satisfaction and self-determined motivation more strongly than parental autonomy support](teacher-autonomy-support-stronger-than-parental.md) — related
 - [The intervention does not change general motivation for mathematics measured by the SRQ-A](no-change-general-mathematics-motivation-srq-a.md) — related
+- [Introjected regulation is positively related to Korean students' achievement and self-regulated learning despite its association with academic stress](introjected-regulation-positive-korean-achievement.md) — related

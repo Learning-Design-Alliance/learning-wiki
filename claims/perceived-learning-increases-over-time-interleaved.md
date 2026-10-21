@@ -65,3 +65,4 @@ The same LMM showed perceived learning rose across units only for interleaved pr
 - [Perceived effort is higher for interleaved than blocked practice and decreases over time for interleaved practice only](perceived-effort-interleaved-decreases-over-time.md) — related
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — related
 - [The share of students choosing interleaved practice rose from 13% to 40% across the session, but the visual feedback prompt did not further increase interleaved practice choices](vfp-did-not-improve-strategy-choices.md) — related
+- [Perceived effort is higher and perceived learning lower for interleaving than blocking, and experience-mediated increases in perceived learning raise interleaving choices](interleaving-effort-learning-ratings-onan.md) — possibly the same claim (merge candidate)

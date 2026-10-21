@@ -53,3 +53,4 @@ Moderator analyses accompanying three separate meta-analyses (intervention–ach
 - [Writing intervention effects for US ELL students do not vary significantly by study quality indicators, participant characteristics, or intervention characteristics](no-significant-moderators-ell-writing-effects.md) — a narrower finding that bears on this claim
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [Effects of educational technology literacy interventions differ according to characteristics of the interventions and participants](edtech-effects-differ-by-intervention-participant-characteristics.md) — reports the opposite
+- [No coded study characteristics moderated the emotion–political learning associations in Bayesian regularized meta-analysis](no-moderators-emotion-political-learning.md) — related

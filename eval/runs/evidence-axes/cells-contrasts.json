@@ -37518,5 +37518,301 @@
  "worked-examples\tICT and teacher jointly provide examples\tteacher-only provides examples": {
   "label": "ICT-and-teacher-provided examples vs teacher-only-provided examples",
   "treatment_is_a": true
+ },
+ "active-learning\tcooperative-learning conditions (jigsaw and cooperation)\tbusiness-as-usual individual work": {
+  "label": "cooperative learning vs individual learning",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tactive need thwarting\tlack of need support": {
+  "label": "active need thwarting vs lack of need support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearner-controlled selection and structuring of learning tasks or level of generality\tsystem-controlled instruction": {
+  "label": "learner-controlled vs system-controlled instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tmaternal choice\tpersonal choice": {
+  "label": "maternal choice vs personal choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tpersonal choice\tmaternal choice": {
+  "label": "maternal choice vs personal choice",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tpressures from above\tnot stated": {
+  "label": "pressures from above vs no stated pressure",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tselecting worked examples\tselecting practice problems": {
+  "label": "worked examples vs practice problems",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\ttask selections later in training\ttask selections earlier in training": {
+  "label": "later vs earlier task selections",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tworked example followed by an isomorphic practice problem\tworked example only": {
+  "label": "worked example followed by practice vs worked example only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdifferences-matter instruction, high utility value\tno instruction, high utility value": {
+  "label": "differences-matter instruction vs no differences-matter instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdifferences-matter instruction, low utility value\tno instruction, low utility value": {
+  "label": "differences-matter instruction vs no differences-matter instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\thierarchical schema-based instruction\tconventional single-level nonschema-based control instruction": {
+  "label": "hierarchical schema-based instruction vs conventional single-level nonschema-based instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\thierarchical schema-based instruction\tsingle-level schema-based instruction": {
+  "label": "hierarchical schema-based instruction vs single-level schema-based instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\thierarchically organized schema-based instruction from general to specific\tconventional single-level nonschema-based instruction": {
+  "label": "hierarchical schema-based instruction vs conventional single-level nonschema-based instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\thierarchically organized schema-based instruction from general to specific\tsingle-level schema-based instruction": {
+  "label": "hierarchical schema-based instruction vs single-level schema-based instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction that detecting differences matters for distinguishing\tno differences-matter instruction": {
+  "label": "differences-matter instruction vs no differences-matter instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction that differences matter for distinguishing\tno instruction": {
+  "label": "differences-matter instruction vs no differences-matter instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction that differences matter for distinguishing\tno such instruction": {
+  "label": "differences-matter instruction vs no differences-matter instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstructional support\tother interaction-quality dimensions": {
+  "label": "instructional support vs other interaction-quality dimensions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvideo modeling of the performance-assessment-selection cycle\tvideo modeling of performance only": {
+  "label": "video modeling of the performance-assessment-selection cycle vs video modeling of performance only",
+  "treatment_is_a": true
+ },
+ "fading\tpartially worked-out completion problems\tfully worked-out examples": {
+  "label": "faded worked examples vs fully worked examples",
+  "treatment_is_a": true
+ },
+ "feedback-type\telaborative feedback\tcomparison condition": {
+  "label": "elaborative feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tindividual performance feedback\tgeneral instruction explaining retrieval-practice benefits": {
+  "label": "individual performance feedback vs general instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified learning\tnon-gamified learning": {
+  "label": "gamified learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided inquiry\tcomparison condition": {
+  "label": "guided inquiry vs comparison condition",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tsimulation without guidance\tsimulation with guidance": {
+  "label": "guided simulation vs unguided simulation",
+  "treatment_is_a": false
+ },
+ "interleaving\tincreased utility value of distinguishing plus instruction that detecting differences matters\tlower utility value and no such instruction": {
+  "label": "higher utility value of distinguishing plus difference-focused instruction vs lower utility value and no such instruction",
+  "treatment_is_a": true
+ },
+ "interleaving\tinstruction that differences matter for distinguishing\tno such instruction": {
+  "label": "difference-focused instruction vs no such instruction",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved study of painting styles\tblocked study of painting styles": {
+  "label": "interleaved vs blocked study",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved study sequence choices\tblocked study sequence choices": {
+  "label": "interleaved vs blocked study",
+  "treatment_is_a": true
+ },
+ "media-design\tboth uncertainty visualizations\twithout uncertainty visualization": {
+  "label": "both uncertainty visualizations vs without uncertainty visualization",
+  "treatment_is_a": true
+ },
+ "media-design\tcertain architectural content\tuncertain architectural content": {
+  "label": "certain architectural content vs uncertain architectural content",
+  "treatment_is_a": true
+ },
+ "media-design\temotional design in coherent learning materials\tlearning materials without emotional design": {
+  "label": "emotional design vs no emotional design",
+  "treatment_is_a": true
+ },
+ "media-design\tfour uncertainty-visualization conditions\tbetween-condition omnibus comparison": {
+  "label": "four uncertainty-visualization conditions vs between-condition omnibus comparison",
+  "treatment_is_a": true
+ },
+ "media-design\tgeometric contrast uncertainty visualization\tstop light colors uncertainty visualization": {
+  "label": "geometric contrast vs stop light colors",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructional videos using cognitive but not motivational design techniques\tinstructional videos using cognitive and motivational design techniques": {
+  "label": "cognitive design only vs cognitive and motivational design",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia\tnot stated": {
+  "label": "multimedia vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia instruction\tcomparison condition": {
+  "label": "multimedia instruction vs comparison condition",
+  "treatment_is_a": true
+ },
+ "media-design\tsignaling irrelevance of seductive details\tweeding by eliminating seductive details": {
+  "label": "signaling irrelevance of seductive details vs weeding seductive details",
+  "treatment_is_a": true
+ },
+ "media-design\tstop light colors\tboth uncertainty visualizations": {
+  "label": "both uncertainty visualizations vs stop light colors",
+  "treatment_is_a": false
+ },
+ "media-design\tstop light colors\tgeometric contrast": {
+  "label": "geometric contrast vs stop light colors",
+  "treatment_is_a": false
+ },
+ "media-design\tstop light colors\twithout uncertainty visualization": {
+  "label": "stop light colors vs without uncertainty visualization",
+  "treatment_is_a": true
+ },
+ "media-design\tweeding seductive details in a mandatory learning unit for payment\tno weeding in a mandatory learning unit for payment": {
+  "label": "weeding seductive details vs no weeding",
+  "treatment_is_a": true
+ },
+ "media-design\tweeding seductive details in a voluntary learning unit with payment regardless of completion\tno weeding in a voluntary learning unit with payment regardless of completion": {
+  "label": "weeding seductive details vs no weeding",
+  "treatment_is_a": true
+ },
+ "media-design\twithout uncertainty visualization\tboth uncertainty visualizations": {
+  "label": "both uncertainty visualizations vs without uncertainty visualization",
+  "treatment_is_a": false
+ },
+ "media-design\twithout uncertainty visualization\tgeometric contrast": {
+  "label": "geometric contrast vs without uncertainty visualization",
+  "treatment_is_a": false
+ },
+ "practice-amount\ta significant number of worked examples paired with problem-solving tasks\tless or no such extensive worked-example practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tadditional study time during the steep part of the learning curve\tadditional study time during the floor or ceiling portions of the curve": {
+  "label": "practice during steep learning vs practice during floor or ceiling portions",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tcovert retrieval\tovert retrieval": {
+  "label": "overt retrieval vs covert retrieval",
+  "treatment_is_a": false
+ },
+ "retrieval-practice\tcovert retrieval\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tcovert retrieval of definitions\trestudying definitions": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tcovert retrieval practice\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\texample study followed by a practice problem\texample study without a practice problem": {
+  "label": "practice problem vs no practice problem",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\timmediate plus delayed final testing\tdelayed final test only": {
+  "label": "immediate plus delayed testing vs delayed-only testing",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tisomorphic problem solving or example recall after worked-example study\tcontinued study of isomorphic worked examples": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tovert retrieval\tcovert retrieval": {
+  "label": "overt retrieval vs covert retrieval",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tovert retrieval practice\tcovert retrieval practice": {
+  "label": "overt retrieval vs covert retrieval",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tovert retrieval practice\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tsolving an identical problem after studying an identical worked example\trestudying an identical worked example": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tsolving identical problems\trestudying identical examples": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting\tno testing or restudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting after four worked examples\trestudying after four worked examples": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting after studying four examples\trestudying two examples": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting after studying four worked examples\trestudying two worked examples": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting by solving practice problems after studying worked examples\trestudying worked examples": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "scaffolding\tsystem-controlled adaptive dynamic instruction\tnonadaptive static instruction": {
+  "label": "adaptive dynamic instruction vs nonadaptive static instruction",
+  "treatment_is_a": true
+ },
+ "self-explanation\tSelf-explaining after studying examples or solving problems\tNo self-explanation": {
+  "label": "self-explanation vs no self-explanation",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explaining\tno self-explanation": {
+  "label": "self-explanation vs no self-explanation",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explaining after studying examples or solving problems\tnot self-explaining": {
+  "label": "self-explanation vs no self-explanation",
+  "treatment_is_a": true
+ },
+ "test-format\tidentical final-test problems\tisomorphic final-test problems": {
+  "label": "identical vs isomorphic test problems",
+  "treatment_is_a": true
+ },
+ "test-format\tisomorphic tasks\tidentical tasks": {
+  "label": "identical vs isomorphic test problems",
+  "treatment_is_a": false
+ },
+ "worked-examples\tstudying worked examples paired with problem-solving tasks or completing partly worked-out problems\tsolving conventional problems": {
+  "label": "worked examples or partly worked problems vs conventional problem solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples or partly worked-out problems combined with conventional problem solving\tconventional problem solving alone": {
+  "label": "worked examples or partly worked problems vs conventional problem solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples with varied problem conditions\tworked examples without stated variation": {
+  "label": "varied worked examples vs non-varied worked examples",
+  "treatment_is_a": true
  }
 }

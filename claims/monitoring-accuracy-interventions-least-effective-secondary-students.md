@@ -46,3 +46,4 @@ Exploratory moderator analysis of school level in the 35-study meta-analysis; Ta
 - [The level of reflection support (practice-only, grade comparison, or reflection prompts) did not differentially affect the improvement of secondary students' calibration accuracy over time](reflection-support-no-differential-calibration-gain.md) — related
 - [Comprehension-test expectancy tended to be more effective than delayed-keywords listing and rereading, though interventions did not substantially differ overall](test-expectancy-tendency-larger-than-keywords-rereading.md) — related
 - [Monitoring accuracy interventions are more effective for retrospective confidence judgments than for judgments of learning](interventions-more-effective-rcj-than-jol.md) — related
+- [Self-explaining does not improve retrospective monitoring accuracy, while problem complexity reduces it](self-explanation-null-complexity-hurts-monitoring.md) — related

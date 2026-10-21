@@ -51,3 +51,4 @@ Report's program quality section, based on document analysis and county intervie
 - [Test-based Quality Rating and Improvement Systems have been costly, inefficient, and subject to manipulation, while collaborative quality-improvement approaches are emerging](qris-test-based-costly-manipulated-collaborative-emerging.md) — related
 - [U.S. ECE governance is fragmented across multiple federal and state agencies, creating an incoherent patchwork of programs](ece-governance-fragmented-multi-agency.md) — a broader claim this one bears on
 - [California's ECE system is a fragmented patchwork of programs accountable to multiple uncoordinated agencies](california-ece-fragmented-multi-agency-patchwork.md) — related
+- [National quality rating systems show divergent operationalisations across countries, and links between ratings and child development are often shielded from scrutiny](national-quality-rating-systems-divergent-and-opaque.md) — related

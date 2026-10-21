@@ -54,3 +54,4 @@ Full mediation SEM model (CFI = 0.946, RMSEA = 0.075, SRMR = 0.051) with 525 stu
 - [Teamwork predicts critical thinking directly and via work skills (Ind1: Twork→WSk→CThink, β=.053, 95% CI .0312-.0717)](teamwork-via-work-skills-indirect-effect.md) — related
 - [Learning agency mediates the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](learning-agency-mediation-genai-literacy-srlb.md) — related
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related
+- [Preliminary evidence suggests perceived problem behavior effects on teaching stress are mediated by teachers' perceptions of relationship conflict](conflict-perceptions-mediate-misbehavior-stress.md) — related

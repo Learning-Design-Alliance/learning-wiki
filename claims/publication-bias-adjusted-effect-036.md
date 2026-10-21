@@ -49,3 +49,4 @@ Publication bias assessment using funnel plot inspection and selection modeling 
 - [No publication bias is detected in the collected Covid-19 achievement estimates](covid-meta-analysis-no-publication-bias.md) — related
 - [The bias-adjusted mean moderator effect in STEM education meta-analyses is g = 0.27 with substantial heterogeneity, and the published record shows overwhelming evidence of publication-bias-type selection](bias-adjusted-moderator-effect-stem.md) — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — reports the opposite
+- [Journal-published studies show larger concept-mapping effects than dissertations and conference papers (g = 1.039 vs. 0.254)](journal-publication-larger-effect-sizes-grey-literature.md) — related

@@ -50,3 +50,4 @@ Calibration analysis comparing completeness scores to confidence ratings (1: Not
 - [Bias scores did not improve over the school year, but school year level mattered: year 1 students became less overconfident while year 3 students improved their underconfidence](bias-no-change-year-level-effects.md) — related
 - [Email-detection confidence judgments show good calibration but poor resolution, with aggregate overconfidence of 18%](phishing-metacognition-good-calibration-poor-resolution.md) — a narrower finding that bears on this claim
 - [Target strategy use did not vary by instructional support condition for any of the three fraction comparison tasks](target-strategy-use-did-not-vary-by-condition.md) — related
+- [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related

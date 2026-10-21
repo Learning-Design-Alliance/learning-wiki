@@ -48,3 +48,4 @@ Mann-Whitney U group comparison of post-intervention emotion scores in the clust
 - [Learning performance improved over time and differed by group, but ADA showed no significant group-by-time interaction advantage over conventional materials](ada-no-significant-performance-interaction.md) — related
 - [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
+- [Negative-deactivating emotions show no association with political learning, but the evidence base is very small](negative-deactivating-emotions-no-association-political-learning.md) — related

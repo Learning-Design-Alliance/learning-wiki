@@ -65,3 +65,4 @@ The review describes emerging collaborative QRIS approaches citing Alston (2025)
 - [California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children](california-ece-uneven-quality-standards.md) — related
 - [California's ECE data collection is fragmented and unaggregated, limiting its utility for improving the system](california-ece-fragmented-data-systems.md) — related
 - [Interventions that change educator behaviour to match standard global definitions of quality have delivered negligible effects on children's developmental outcomes](educator-behaviour-interventions-negligible-child-outcomes.md) — related
+- [National quality rating systems show divergent operationalisations across countries, and links between ratings and child development are often shielded from scrutiny](national-quality-rating-systems-divergent-and-opaque.md) — related

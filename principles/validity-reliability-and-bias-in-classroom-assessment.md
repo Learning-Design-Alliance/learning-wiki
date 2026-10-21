@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 225 claims (92 for, 118 mixed, 15 against) · 169 studies (56 associational, 44 design, 26 review, 19 theoretical, 17 causal, 4 quant-synthesis, 3 qualitative), `q1`–`q3` · 14 of 169 report an effect size · 219 claims rest on one study
+> **Evidence** · 229 claims (93 for, 120 mixed, 16 against) · 171 studies (56 associational, 44 design, 26 review, 19 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 15 of 171 report an effect size · 223 claims rest on one study
 
 ## Conditional relationship
 
@@ -299,6 +299,10 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Alpha of knowledge tests is substantially related to the number of items in the test](../claims/knowledge-test-alpha-test-length.md) [+W]
 - [Reliability estimates of cognitive load questionnaires did not differ between educational settings, instructional domains, presentation modes, or number of scale points](../claims/cognitive-load-reliability-invariant-across-moderators.md) [~W]
 - [Teacher-assigned grades show moderate-to-strong correlations with external performance measures and predict long-term outcomes (review-reported)](../claims/grades-correlate-external-measures-review.md) [+W]
+- [Concurrent validity evidence is sparse: only 11 assessments and one screener aligned with other validated measurement tools](../claims/concurrent-validity-sparse-11-assessments-one-screener.md) [~W]
+- [Only one mathematical assessment and one screener (NSS) met the acceptability threshold for predictive validity](../claims/predictive-validity-rarely-established.md) [~W]
+- [Content validity evidence was reported for only eight assessments and four screeners, and over half of tools were developed in WEIRD societies or in English](../claims/content-validity-and-weird-skew-in-early-maths-tools.md) [-W]
+- [Re-analyses support PSVT:R structural validity: degree of rotation explains 66.9% of item-difficulty variance, though modified problematic items show no rotation-difficulty relationship](../claims/psvtr-rotation-difficulty-validity-reanalysis.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

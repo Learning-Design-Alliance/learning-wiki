@@ -45,3 +45,4 @@ Descriptive synthesis of study characteristics in the review's Results section, 
 ## Related Claims
 - [Metacognition assessment is shifting from self-report questionnaires toward process-oriented multimodal methods, which face validity and data-alignment challenges](process-oriented-metacognition-assessment-shift.md) — related
 - [The only significant cross-method correlation within one SRL component is motivation assessed by questionnaire and closed-ended microanalytic questions](motivation-questionnaire-microanalysis-only-cross-method-link.md) — related
+- [The 32 included studies were predominantly quantitative and cross-sectional, with questionnaire sample sizes ranging from 17 to 815 students](ahs-pst-study-design-profile.md) — related

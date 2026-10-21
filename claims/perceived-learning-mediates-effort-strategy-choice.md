@@ -64,3 +64,4 @@ The direct path c' was B = 0.35, 95% CI [-2.15, 2.89], with the indirect effect 
 ## Related Claims
 - [Perceived effort is higher for interleaved than blocked practice and decreases over time for interleaved practice only](perceived-effort-interleaved-decreases-over-time.md) — related
 - [The share of students choosing interleaved practice rose from 13% to 40% across the session, but the visual feedback prompt did not further increase interleaved practice choices](vfp-did-not-improve-strategy-choices.md) — related
+- [Perceived effort is higher and perceived learning lower for interleaving than blocking, and experience-mediated increases in perceived learning raise interleaving choices](interleaving-effort-learning-ratings-onan.md) — related

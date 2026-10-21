@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 128 claims (100 show a difference, 16 mixed, 12 no difference) · 110 studies (41 associational, 22 causal, 15 review, 14 qualitative, 8 design, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 22 of 110 report an effect size · 124 claims rest on one study
+> **Evidence** · 131 claims (100 show a difference, 19 mixed, 12 no difference) · 113 studies (41 associational, 22 causal, 17 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 22 of 113 report an effect size · 127 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -159,6 +159,9 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Training and interventions improve teachers' cognitive appraisal (d = 0.63), emotional appraisal (d = 0.63), and self-efficacy toward inclusive practices (d = 0.93)](../claims/inclusion-training-improves-teacher-beliefs.md) [+M] — instruction changes it
 - [Qualitative findings: students initially held inaccurate beliefs about strategy efficacy, and high effort from interleaved practice was misinterpreted as a sign of poor learning](../claims/effort-misinterpreted-as-poor-learning.md) [+M] — instruction changes it
 - [Strategy efficacy beliefs shift toward the strategy a student chooses: choosers of blocked practice raised blocked beliefs and lowered interleaved beliefs, and vice versa](../claims/strategy-beliefs-shift-toward-chosen-strategy.md) [+M] — instruction changes it
+- [AHS is frequently associated with self-regulation and self-efficacy, but these associations are not consistent across studies](../claims/ahs-self-regulation-self-efficacy-inconsistent.md) [~M] — learners who differ on it differ in outcomes
+- [Teacher-reported relationship conflict, but not closeness, is modestly related to teacher efficacy beliefs and depression, though findings are mixed](../claims/relationship-conflict-linked-teacher-efficacy-depression.md) [~M] — learners who differ on it differ in outcomes
+- [Teachers' relational self-efficacy—beliefs in their capability to form, maintain, and repair relationships—is hypothesized to motivate TSR-building, but existing global self-efficacy measures show mixed links to TSR quality](../claims/relational-self-efficacy-mixed-evidence.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

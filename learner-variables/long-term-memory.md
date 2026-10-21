@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 90 claims (59 show a difference, 20 mixed, 11 no difference) · 60 studies (23 causal, 15 review, 12 quant-synthesis, 4 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 23 of 60 report an effect size · 83 claims rest on one study
+> **Evidence** · 94 claims (61 show a difference, 21 mixed, 12 no difference) · 62 studies (24 causal, 15 review, 13 quant-synthesis, 4 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 24 of 62 report an effect size · 87 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -125,6 +125,10 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](../claims/fluency-misleads-judgments-of-learning.md) [+M] — instruction changes it
 - [High and low CI practice do not differ significantly in overall relatively permanent gains (Δ pre-retention)](../claims/ci-no-long-term-gain-difference.md) [-M] — instruction changes it
 - [Only low-working-memory-capacity students benefited from making pointing gestures when explaining number equations (review attributes this to Marstaller & Burianová, 2013)](../claims/low-wmc-students-benefit-from-pointing-gestures.md) [~M] — an instructional effect differs with it
+- [Both overt and covert retrieval practice outperform restudy when practice and test match (the testing effect)](../claims/both-retrieval-formats-beat-restudy.md) [+M] — instruction changes it
+- [Non-interactive teaching does not enhance long-term retention relative to restudy at eight weeks](../claims/non-interactive-teaching-no-long-term-retention.md) [-M] — instruction changes it
+- [Overt retrieval practice produces higher delayed recall of definitions than covert retrieval practice for learners studying declarative concepts](../claims/overt-beats-covert-retrieval-definitions.md) [+M] — instruction changes it
+- [Physics interest moderates long-term retention: low- and medium-interest students benefit from non-interactive teaching at eight weeks, high-interest students do not](../claims/interest-moderates-long-term-retention-teaching.md) [~M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

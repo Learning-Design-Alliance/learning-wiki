@@ -50,3 +50,4 @@ Exploratory moderator analysis of judgment type in the 35-study meta-analysis; T
 - [Monitoring accuracy interventions are less effective for secondary school students than for elementary students and adults](monitoring-accuracy-interventions-least-effective-secondary-students.md) — related
 - [Interventions to improve monitoring accuracy in problem-solving tasks have a small positive overall effect (g = 0.25)](monitoring-accuracy-interventions-small-positive-effect-problem-solving.md) — a broader claim this one bears on
 - [Timing interventions significantly decrease monitoring accuracy in problem-solving tasks and differ from all other intervention types](timing-interventions-decrease-monitoring-accuracy-problem-solving.md) — related
+- [Self-explaining does not improve retrospective monitoring accuracy, while problem complexity reduces it](self-explanation-null-complexity-hurts-monitoring.md) — related

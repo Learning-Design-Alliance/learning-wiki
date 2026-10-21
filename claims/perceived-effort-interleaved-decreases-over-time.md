@@ -64,3 +64,4 @@ The same LMM showed the time effect was driven by the strategy × time interacti
 ## Related Claims
 - [Perceived learning is higher for blocked than interleaved practice at onset but increases over time for interleaved practice only](perceived-learning-increases-over-time-interleaved.md) — related
 - [Temporal increase in perceived learning fully mediates the effect of temporal decrease in perceived effort on choosing interleaved practice](perceived-learning-mediates-effort-strategy-choice.md) — related
+- [Perceived effort is higher and perceived learning lower for interleaving than blocking, and experience-mediated increases in perceived learning raise interleaving choices](interleaving-effort-learning-ratings-onan.md) — possibly the same claim (merge candidate)

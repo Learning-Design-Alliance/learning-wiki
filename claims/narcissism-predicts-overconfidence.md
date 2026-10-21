@@ -69,3 +69,4 @@ Multiple regression on absolute accuracy during the Monitoring Exercise (t=1a) f
 - [The Monitoring Exercise protected against overconfidence in the second exam score prediction but did not affect exam scores](monitoring-exercise-reduced-overconfidence-only.md) — related
 - [Bias scores did not improve over the school year, but school year level mattered: year 1 students became less overconfident while year 3 students improved their underconfidence](bias-no-change-year-level-effects.md) — related
 - [Monitoring accuracy in exam score predictions and in key-term definition judgments during the Monitoring Exercise were uncorrelated, suggesting different cues underlie the two measures](prediction-accuracy-measures-uncorrelated.md) — related
+- [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related

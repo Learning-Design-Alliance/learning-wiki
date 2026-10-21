@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 172 claims (121 show a difference, 31 mixed, 20 no difference) · 125 studies (33 associational, 32 causal, 29 review, 12 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 25 of 125 report an effect size · 163 claims rest on one study
+> **Evidence** · 174 claims (122 show a difference, 32 mixed, 20 no difference) · 126 studies (33 associational, 32 causal, 30 review, 12 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 25 of 126 report an effect size · 165 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -221,6 +221,8 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Informing learners about the to-be-monitored cue before the problem-solving phase improves self-assessment accuracy compared with informing them only afterwards](../claims/inform-learners-before-problem-solving-improves-accuracy.md) [+W] — instruction changes it
 - [Executive functions, especially working memory, inhibition, and cognitive flexibility, are consistently associated with core SRL activities](../claims/executive-functions-associated-with-core-srl-activities.md) [+M] — learners who differ on it differ in outcomes
 - [Strategy efficacy beliefs shift toward the strategy a student chooses: choosers of blocked practice raised blocked beliefs and lowered interleaved beliefs, and vice versa](../claims/strategy-beliefs-shift-toward-chosen-strategy.md) [+M] — instruction changes it
+- [Effortful generative learning activities during problem-solving example study provide cues that improve students' item-level self-monitoring accuracy](../claims/generative-activities-improve-problem-solving-monitoring.md) [+M] — instruction changes it
+- [Self-explaining does not improve retrospective monitoring accuracy, while problem complexity reduces it](../claims/self-explanation-null-complexity-hurts-monitoring.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

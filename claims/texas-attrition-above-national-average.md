@@ -51,3 +51,4 @@ Descriptive analysis of statewide attrition data in the Teacher Attrition sectio
 - [Teaching has a relatively high turnover rate compared to nursing and national employee turnover benchmarks](teaching-turnover-high-versus-other-occupations.md) — a broader claim this one bears on
 - [Texas teacher attrition exceeds the national average by over 50%, with about 12% of teachers exiting districts before the 2023–24 school year](texas-teacher-attrition-exceeds-national-average.md) — related
 - [U.S. teacher attrition averages 8–9% annually, about twice the rate of Canada, Finland, and Singapore, and drives roughly 9 in 10 annual hires](us-teacher-attrition-twice-peer-nations.md) — related
+- [Most teacher programs required significant time, effort, and resources, with mean program attrition of 12.69% and rates reaching 66.67%, suggesting time demands may limit real-world translation](teacher-program-time-burden-attrition.md) — related

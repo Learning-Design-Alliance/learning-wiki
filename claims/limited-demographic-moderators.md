@@ -53,3 +53,4 @@ Meta-regression and subgroup analyses on M1 tested child gender, parent gender, 
 - [Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation](no-moderators-life-events-self-control.md) — related
 - [Family nativity status moderates the direction of association between family ethnic socialization and youth ethnic identity](nativity-status-moderates-ethnic-socialization-direction.md) — related
 - [Parenting self-efficacy shows a small to medium positive correlation with parents' contributions to the home-school partnership among primary school families](pse-hsp-overall-correlation.md) — a broader claim this one bears on
+- [No coded study characteristics moderated the emotion–political learning associations in Bayesian regularized meta-analysis](no-moderators-emotion-political-learning.md) — related
