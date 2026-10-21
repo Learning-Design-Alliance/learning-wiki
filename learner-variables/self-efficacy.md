@@ -7,13 +7,13 @@ canonical: true
 status: review
 generated:
   by: claude/unspecified
-  at: 2026-10-15
+  at: 2026-10-21
 ---
 
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 123 claims (96 show a difference, 15 mixed, 12 no difference) · 104 studies (41 associational, 21 causal, 14 qualitative, 13 review, 8 design, 5 theoretical, 2 quant-synthesis), `q1`–`q3` · 18 of 104 report an effect size · 120 claims rest on one study
+> **Evidence** · 124 claims (96 show a difference, 16 mixed, 12 no difference) · 107 studies (41 associational, 21 causal, 15 review, 14 qualitative, 8 design, 5 theoretical, 3 quant-synthesis), `q1`–`q4` · 19 of 107 report an effect size · 120 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -61,6 +61,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Early math exposure in young children is linked to development, math confidence, and later math use (authors' assertion)](../claims/early-math-exposure-supports-development-confidence-later-use.md) [+W] — instruction changes it
 - [Educational cross-sectional studies link stronger AI reliance or dependence scores with lower academic self-efficacy, higher academic stress, and stronger performance expectations](../claims/academic-reliance-linked-stress-low-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
 - [Faculty confidence in guiding student AI use rose markedly after the six-week institute, with high-confidence responses increasing from 0% to 60%](../claims/ubridge-confidence-gains-pre-post.md) [+M] — instruction changes it
+- [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](../claims/feedback-levels-task-process-self-regulation-effective.md) [~W] — an instructional effect differs with it
 - [Feedback quality influences SRL only indirectly through learning motivation, not through self-efficacy or satisfaction](../claims/feedback-quality-motivation-mediated-srl-path.md) [-W] — learners who differ on it differ in outcomes
 - [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](../claims/sex-advantage-diminishes-under-mastery-learning.md) [~M] — instruction changes it
 - [Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth](../claims/self-efficacy-intercept-predicts-achievement-growth-mediation.md) [+M] — learners who differ on it differ in outcomes
