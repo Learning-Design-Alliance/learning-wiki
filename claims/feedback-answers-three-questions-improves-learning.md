@@ -4,7 +4,7 @@ title: Feedback that answers three questions (Where am I going? How am I doing? 
 status: review
 generated:
   by: claude/unspecified
-  at: 2026-09-25
+  at: 2026-10-21
 id: feedback-answers-three-questions-improves-learning
 aliases: [feedback-answers-three-questions]
 evidence_strength:
@@ -39,7 +39,9 @@ Hattie, J., & Timperley, H. (2007). The Power of Feedback. *Review of Educationa
 
 `q2 · conceptual analysis and narrative review of the feedback literature (not a meta-analysis with a pooled effect size)` · `i? · no single effect size reported for the three-question framework itself` · `n=N/A (a synthesis, not a study of individual participants)` · `review · r?`
 
-This is the paper's origin: Hattie and Timperley propose a model in which effective feedback answers three questions — "Where am I going?", "How am I doing?", and "Where to next?" — operating across four levels (task, process, self-regulation, self), and argue this reduces the discrepancy between current understanding and a learning goal. They synthesize prior empirical and theoretical work on feedback's effect on learning and achievement to build the model rather than reporting a new primary study or a pooled quantitative estimate specific to the three-question structure. I could not obtain the full text (publisher page, ResearchGate mirror, and the University of Auckland repository's PDF were all inaccessible from this environment — the repository lists only a restricted-access full-text bitstream); this entry is built from the Crossref-verified abstract and the matching repository citation record only, so no numeric effect size, sample size, or study count could be verified from the source text and none is asserted here.
+This is the paper's origin: Hattie and Timperley propose a model in which effective feedback answers three questions — "Where am I going?", "How am I doing?", and "Where to next?" — operating across four levels (task, process, self-regulation, self), and argue this reduces the discrepancy between current understanding and a learning goal. They synthesize prior empirical and theoretical work on feedback's effect on learning and achievement to build the model rather than reporting a new primary study or a pooled quantitative estimate specific to the three-question structure. Re-read in full text (2026-10-21). The review calls the three questions feed up, feed back and feed forward, and says of "Where to next?" that the feed-forward question "can have some of the most powerful impacts on learning"; it also notes that too often students learn that the answer to "Where to next?" is simply "more" tasks. It prints effect sizes only from earlier meta-analyses it summarises (its Tables 1–3), none of which tests the three-question structure, so the `i?` stands.
+
+> "This feed-forward question can have some of the most powerful impacts on learning."
 
 ## Discussion
 
