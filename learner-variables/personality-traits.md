@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 47 claims (25 show a difference, 14 mixed, 8 no difference) · 21 studies (11 review, 5 associational, 3 quant-synthesis, 2 causal), `q2`–`q4` · 7 of 21 report an effect size · 47 claims rest on one study
+> **Evidence** · 48 claims (26 show a difference, 14 mixed, 8 no difference) · 22 studies (11 review, 5 associational, 3 quant-synthesis, 2 causal, 1 theoretical), `q2`–`q4` · 7 of 22 report an effect size · 48 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -82,6 +82,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [Neuroticism correlates negatively with achievement overall, most strongly with STEM test scores](../claims/neuroticism-negative-achievement-association.md) [-W] — learners who differ on it differ in outcomes
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](../claims/openness-language-stem-domain-moderation.md) [+M] — learners who differ on it differ in outcomes
 - [Personality changes achieved through digital VPC interventions persist, remaining sustained or amplified at three-month and one-year follow-ups](../claims/vpc-change-persistence-follow-ups.md) [+W] — instruction changes it
+- [Stable Dispositions such as conscientiousness predict academic success partly through effort, with some independence from cognitive ability](../claims/stable-dispositions-predict-academic-success-through-effort.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -49,3 +49,4 @@ In a cross-sectional comparison of 41 children with ADHD and 21 controls (ages 9
 - [Children with ADHD exhibit significantly lower visual-motor integration and math and written language achievement than Non-ADHD peers, but intact visual perception and reading](adhd-lower-vmi-intact-visual-perception.md) — related
 - [Children with ADHD show significantly lower learning ability scores than control children](adhd-lower-learning-ability-scores-than-controls.md) — related
 - [Non-graphomotor processing speed (residualized Coding) predicts oral reading fluency similarly in children with and without ADHD](coding-r-predicts-oral-reading-fluency.md) — related
+- [Females outperform males on WISC processing speed (gS) with a medium advantage (d = -0.37), larger for Coding than Symbol search](wisc-processing-speed-female-advantage.md) — related

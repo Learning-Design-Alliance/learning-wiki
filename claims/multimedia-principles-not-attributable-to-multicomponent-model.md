@@ -48,3 +48,4 @@ Theoretical review argument from Schweppe and Rummer (2014), restated in this re
 - [2D pedagogical agents tended to be more effective than 3D agents (g+ = 0.38 vs. g+ = 0.11), as predicted by the redundancy effect and the coherence principle](2d-agents-tend-more-effective-than-3d.md) — related
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
+- [Schweppe and Rummer's rejection of the multicomponent model as a basis for multimedia theories rests on a misinterpretation of the working memory–long-term memory relationship](s-r-misinterpret-multicomponent-model-structural-separation.md) — related

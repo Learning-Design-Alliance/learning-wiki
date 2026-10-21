@@ -43,7 +43,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (12 for, 23 mixed, 2 against) · 41 studies (12 review, 7 theoretical, 6 causal, 6 qualitative, 4 associational, 3 quant-synthesis, 3 design), `q1`–`q4` · 5 of 41 report an effect size · 29 claims rest on one study
+> **Evidence** · 42 claims (15 for, 25 mixed, 2 against) · 42 studies (12 review, 7 theoretical, 6 causal, 6 qualitative, 4 quant-synthesis, 4 associational, 3 design), `q1`–`q4` · 6 of 42 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,9 @@ Read against the model on 2026-10-19. Of the eighteen claims that had gathered h
 - [Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking](../claims/childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) [+W] — read 2026-10-19: four children interviewed about video of their own play, with no autonomy manipulation. It is closer to a way of eliciting what young children value (`## Objective and learner-valued goal`) than to evidence about autonomy support.
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](../claims/positive-student-response-cross-cultural-activities.md) [+W] — read 2026-10-19: course-evaluation comments from one EFL course; the activities were not compared with a less autonomous version and no learning was measured. Satisfaction only, the case the last situation row warns about. Marker lowered from `M` because nothing in the entry tests autonomy.
 - [Educators view ANVIL as a creative collaborator requiring instructor control and editability, not an autonomous content creator](../claims/anvil-educators-instructor-control-editability.md) [~W] — (not about this page) read 2026-10-19: nine educators in focus groups wanted control over an AI lesson-video generator. It concerns teachers' control of an authoring tool, not learners' autonomy.
+- [Teacher autonomy support and provision of structure are positively correlated across studies, with a pooled correlation of r = 0.53](../claims/autonomy-support-structure-positive-correlation.md) [+M] — attached 2026-10-21 from Alexandra Patzak (2025), which proposed "Blend teacher autonomy support with provision of structure rather than treating them as opposites"; tests this page's relationship.
+- [Both autonomy support and structure elevate students' motivation, engagement, and need satisfaction with moderate to large effect sizes](../claims/autonomy-structure-student-outcomes.md) [+M] — attached 2026-10-21 from Alexandra Patzak (2025), which proposed "Blend teacher autonomy support with provision of structure rather than treating them as opposites".
+- [A minority of studies report negative autonomy support–structure correlations, concentrated among teacher-report measures](../claims/negative-correlations-teacher-reports.md) [~W] — attached 2026-10-21 from Alexandra Patzak (2025), which proposed "Blend teacher autonomy support with provision of structure rather than treating them as opposites"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -171,6 +174,8 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Meaningful choice about learning tasks increases interest, but only under boundary conditions](../claims/meaningful-choice-increases-interest-limited.md) [~W]
 - [Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported sometimes, rarely, or never choosing](../claims/pl-student-choice-limited-teacher-driven.md) [-W]
 - [People offered a reward generally choose the easiest possible task, whereas children without rewards pick tasks just beyond their current ability](../claims/rewards-easiest-task-choice.md) [+W]
+- [The autonomy support–structure relationship is moderated by data collection method and school level](../claims/autonomy-structure-relationship-moderators.md) [~W]
+- [Teachers who facilitate both autonomy and structure report motivation to teach and felt teaching effectiveness](../claims/teacher-outcomes-autonomy-structure.md) [+W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — regular, non-controlling check-ins are a core teacher behavior of autonomy support, signaling interest rather than surveillance

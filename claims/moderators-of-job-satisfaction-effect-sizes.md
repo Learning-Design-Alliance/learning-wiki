@@ -67,3 +67,4 @@ Subgroup meta-regressions by grade level taught. General teacher-student interac
 - [Teachers' job satisfaction is positively associated with the quality of teacher-student interactions, with the largest pooled correlation for general interactions (r = 0.28)](job-satisfaction-positive-teacher-student-interactions.md) — related
 - [Satisfaction with the nature of work, colleagues, and context factors each correlate moderately with turnover intentions (r = −0.32 to −0.36)](job-satisfaction-facets-turnover-intentions.md) — related
 - [Job satisfaction correlates with performance outcomes for external reports as well as teacher self-reports, though self-report effect sizes are larger](rater-perspective-moderates-job-satisfaction-links.md) — related
+- [The autonomy support–structure relationship is moderated by data collection method and school level](autonomy-structure-relationship-moderators.md) — related

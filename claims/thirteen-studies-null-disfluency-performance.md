@@ -53,3 +53,4 @@ Editorial synthesis of the special issue's six manuscripts, 13 experiments with 
 - Disfluency is not clearly defined across the literature, hindering replication and precise measurement — related
 - [In a pre-registered direct replication (N = 96), the disfluency × WMC interaction did not significantly predict retention, failing to replicate Lehmann et al. (2016)](replication-null-wmc-disfluency-interaction-retention.md) — related
 - [Disfluency benefits retention and comprehension only for learners with high working memory capacity](disfluency-benefits-high-working-memory-only.md) — related
+- [Low to medium disfluency does not harm learning and sometimes descriptively improves it, though the effect is unstable](disfluency-low-levels-not-harm-learning.md) — reports the opposite

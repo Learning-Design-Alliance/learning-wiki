@@ -66,3 +66,4 @@ The article's abstract states the central finding of the two computer-based expe
 - [Learners learned most about those principles that were faded](learners-learn-most-about-faded-principles.md) — a narrower finding that bears on this claim
 - [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](faded-steps-hypothesized-trigger-self-explanations.md) — related
 - [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](faded-step-position-no-learning-outcome-effect.md) — related
+- [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](fading-out-prompts-beat-permanent-prompts.md) — related

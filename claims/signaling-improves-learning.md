@@ -156,3 +156,4 @@ Signaling is one of the most consistently supported principles in multimedia lea
 - [The voluntary/involuntary attention distinction in the embedded-processes model maps onto signaling, coherence, and split-attention principles](voluntary-involuntary-attention-distinction-explains-multimedia-principles.md) — related
 - [Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video](signaling-improves-retention-transfer-video.md) — a narrower finding that bears on this claim
 - [Signaling principle: highlighting essential words improves transfer from multimedia lessons](signaling-principle-mayer-2008.md) — a narrower finding that bears on this claim
+- [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](coherence-principle-extraneous-material-effect.md) — related

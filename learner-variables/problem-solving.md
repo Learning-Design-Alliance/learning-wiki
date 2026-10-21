@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 59 claims (45 show a difference, 8 mixed, 6 no difference) · 50 studies (25 causal, 8 review, 5 associational, 4 theoretical, 3 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 13 of 50 report an effect size · 57 claims rest on one study
+> **Evidence** · 60 claims (45 show a difference, 8 mixed, 7 no difference) · 51 studies (25 causal, 9 review, 5 associational, 4 theoretical, 3 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 13 of 51 report an effect size · 58 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -97,6 +97,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Intervention length may matter: a prior review found positive associations for decision-making and skill execution for interventions longer than 8 hours](../claims/intervention-length-over-8-hours-decision-making.md) [~M] — instruction changes it
 - [Generative AI use shows divergent effects on creativity: weakened creative writing but increased creative problem-solving and idea quality](../claims/generative-ai-creativity-divergent-effects.md) [~W] — instruction changes it
 - [Informing learners about the to-be-monitored cue before problem-solving did not affect mental effort or problem-solving performance (Experiment 1)](../claims/cue-timing-no-effect-effort-performance.md) [-W] — instruction changes it
+- [No testing effect was found for acquiring problem-solving skills through worked example study across eight experiments](../claims/testing-effect-absent-worked-example-study.md) [-M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

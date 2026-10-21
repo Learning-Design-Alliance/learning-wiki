@@ -101,3 +101,4 @@ This is sometimes called the "completion effect" in cognitive load literature. H
 - [Scaffolding's effect did not vary by customization (fading/adding), change logic, or scope, and motivation scaffolds alone showed no significant effect](scaffolding-design-features-no-moderation.md) — related
 - [Fading is associated with fewer unproductive learning events, which the authors link to better learning outcomes](fading-fewer-unproductive-learning-events.md) — related
 - [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) — a narrower finding that bears on this claim
+- [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](fading-out-prompts-beat-permanent-prompts.md) — a narrower finding that bears on this claim

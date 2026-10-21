@@ -45,6 +45,7 @@ The review's stated forward methodological path is to widen data channels toward
 - [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
 - [Integrate physiological, dialog, video, and self-report data to analyze collaboration at individual and group levels](multimodal-data-integration-collaborative-learning.md)
 - [Research agenda: investigate affective dynamics with within-person, longitudinal, and multi-channel methods](affective-dynamics-research-agenda-curiosity-interest.md)
+- [Adopt an integrative methodological toolkit using machine learning and computational models to capture SR's multi-level, temporal, and social dynamics](integrative-methodological-toolkit-machine-learning-sr.md)
 
 ## Examples
 -

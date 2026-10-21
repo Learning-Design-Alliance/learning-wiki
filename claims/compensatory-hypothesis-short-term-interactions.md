@@ -44,3 +44,4 @@ The review's abstract introduces the compensatory hypothesis as the second guidi
 
 ## Related Claims
 - [The stage-setting hypothesis emphasises long-term developmental interplay among EF, MC, SR and SRL](stage-setting-hypothesis-long-term-developmental-interplay.md) — related
+- [SR mechanisms across the four traditions intersect in redundant, complementary, and compensatory ways](sr-traditions-redundant-complementary-compensatory-interactions.md) — related

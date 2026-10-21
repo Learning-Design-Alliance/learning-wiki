@@ -164,3 +164,4 @@ Multilevel random-effects meta-analysis of 59 studies (238 effect sizes, 158 sam
 - [Five null studies with spacing but no rest and dissimilar materials showed neither spacing nor interleaving effects](five-null-studies-support-both-hypotheses.md) — related
 - [All 67 reviewed interleaving studies demonstrated the interleaving effect using very similar interleaved concepts](interleaving-effect-requires-similar-discriminable-materials.md) — a narrower finding that bears on this claim
 - [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — related
+- [Interleaved practice yields better category learning than blocked practice, and students who choose interleaved practice outperform those who choose blocked practice on novel materials](interleaving-effect-category-learning-paintings.md) — a narrower finding that bears on this claim

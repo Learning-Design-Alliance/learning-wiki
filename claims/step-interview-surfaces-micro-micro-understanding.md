@@ -47,3 +47,4 @@ Descriptive comparison of student performance on the two most difficult multiple
 - [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](external-evidence-can-refute-computational-models-of-particle-interactions.md) — related
 - [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](young-children-collaborative-gestures-mr-science.md) — related
 - [Students in computer-based inquiry environments still held misconceptions about force and energy after instruction](persistent-misconceptions-computer-based-ibl.md) — related
+- [Four sequences of macro, micro, and symbolic chemistry representations produced no statistically significant differences in students' learning performance](chemistry-representation-sequences-no-significant-differences.md) — related

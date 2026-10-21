@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 126 claims (98 show a difference, 16 mixed, 12 no difference) · 109 studies (41 associational, 21 causal, 15 review, 14 qualitative, 8 design, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 21 of 109 report an effect size · 122 claims rest on one study
+> **Evidence** · 128 claims (100 show a difference, 16 mixed, 12 no difference) · 110 studies (41 associational, 22 causal, 15 review, 14 qualitative, 8 design, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 22 of 110 report an effect size · 124 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -157,6 +157,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [In Study 1, differences in self-efficacy between the three conditions did not reach significance](../claims/chattutor-self-efficacy-null-study1.md) [-M] — instruction changes it
 - [Education-focused parenting self-efficacy correlates more strongly with home-school partnership outcomes than general parenting self-efficacy](../claims/education-focused-pse-stronger-than-general.md) [+W] — learners who differ on it differ in outcomes
 - [Training and interventions improve teachers' cognitive appraisal (d = 0.63), emotional appraisal (d = 0.63), and self-efficacy toward inclusive practices (d = 0.93)](../claims/inclusion-training-improves-teacher-beliefs.md) [+M] — instruction changes it
+- [Qualitative findings: students initially held inaccurate beliefs about strategy efficacy, and high effort from interleaved practice was misinterpreted as a sign of poor learning](../claims/effort-misinterpreted-as-poor-learning.md) [+M] — instruction changes it
+- [Strategy efficacy beliefs shift toward the strategy a student chooses: choosers of blocked practice raised blocked beliefs and lowered interleaved beliefs, and vice versa](../claims/strategy-beliefs-shift-toward-chosen-strategy.md) [+M] — instruction changes it
 
 ## The evidence by question
 

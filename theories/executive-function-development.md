@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 194 claims (88 for, 102 mixed, 4 against) · 107 studies (60 associational, 20 review, 15 causal, 9 quant-synthesis, 3 theoretical), `q1`–`q4` · 43 of 107 report an effect size · 186 claims rest on one study
+> **Evidence** · 195 claims (89 for, 102 mixed, 4 against) · 108 studies (60 associational, 21 review, 15 causal, 9 quant-synthesis, 3 theoretical), `q1`–`q4` · 43 of 108 report an effect size · 187 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -235,6 +235,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [School meditation studies show significant improvements on several cognitive functioning measures, though effects vary by measure and study](../claims/meditation-improves-cognitive-functioning-measures.md) [~W]
 - [Instructional moderators: effects significant against passive controls and for researcher-delivered, high-dose, and experimenter-designed trained-item tasks, but moderator contrasts not significant](../claims/morphology-moderators-control-type-dose-instructor-task.md) [~W]
 - [Evidence on cognitive function benefits of forest preschool is mixed: teacher-rated global cognition improved, but executive functions and working memory showed no significant differences](../claims/forest-school-cognitive-function-mixed.md) [~W]
+- [Short-term storage capacity increases from two units at ages 3-4 to four units at ages 10-11 when executive operations are minimal](../claims/short-term-storage-capacity-two-to-four-units.md) [+W]
 
 ## Related Theories
 

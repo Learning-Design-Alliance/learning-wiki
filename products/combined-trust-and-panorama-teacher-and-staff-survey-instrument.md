@@ -36,6 +36,7 @@ A teacher-and-staff survey instrument assembled by Tommy Wells et al. from the T
 
 - [California Healthy Kids Survey (CHKS)](california-healthy-kids-survey-chks.md)
 - [Ten-item Greek-language trust questionnaire assembled from established HRI trust scales with Lawshe content validation](ten-item-greek-language-trust-questionnaire-assembled-from-established-hri-trust-scales-wi.md)
+- [Teacher as Social Context Questionnaire (TASC) and Situations in School Questionnaire (SIS)](teacher-as-social-context-questionnaire-tasc-and-situations-in-school-questionnaire-sis.md)
 
 ## Key Sources
 - Tommy Wells & Amy Auletto. (2024). Understanding the Impact of Educators' Social-emotional Learning (SEL) Skills on Student Academic Growth. E4 Center. https://e4.northwestern.edu/2024/08/21/understanding-the-impact-of-educators-social-emotional-learning-sel-skills-on-student-academic-growth/

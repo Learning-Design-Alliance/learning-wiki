@@ -50,7 +50,7 @@ sources:
 # Concreteness Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (12 for, 10 mixed, 1 against) · 26 studies (14 causal, 4 quant-synthesis, 3 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 26 report an effect size · 19 claims rest on one study
+> **Evidence** · 27 claims (12 for, 13 mixed, 2 against) · 27 studies (14 causal, 4 quant-synthesis, 4 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 27 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,10 @@ The expectation should weaken if direct comparisons with comparable learners and
 ## Claims
 
 - [Concrete-task participants conducted a significantly lower percentage of exploratory experiments than intermediate-task participants, whose exploratory percentage matched the abstract condition](../claims/concrete-task-lower-exploratory-experiments.md) [~W]
+- [Concreteness fading may not be as broadly generalizable across mathematics and natural science domains as has been suggested](../claims/concreteness-fading-limited-domain-generalizability.md) [~W]
+- [Concreteness fading studies in mathematics show mixed transfer results, with some studies favoring fading and others favoring generic symbols or reversed sequences](../claims/math-concreteness-fading-mixed-transfer-results.md) [~W]
+- [Physics studies show no clear-cut advantage for concreteness fading, with some results favoring concrete-only or reversed (concreteness introduction) sequences](../claims/physics-concreteness-fading-no-clear-advantage.md) [-W]
+- [Four sequences of macro, micro, and symbolic chemistry representations produced no statistically significant differences in students' learning performance](../claims/chemistry-representation-sequences-no-significant-differences.md) [~W]
 
 ## Related Principles
 

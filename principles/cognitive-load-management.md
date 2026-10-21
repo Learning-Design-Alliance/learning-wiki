@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 63 claims (24 for, 36 mixed, 3 against) · 53 studies (24 causal, 12 review, 9 quant-synthesis, 6 theoretical, 1 associational, 1 design), `q1`–`q4` · 21 of 53 report an effect size · 55 claims rest on one study
+> **Evidence** · 65 claims (25 for, 37 mixed, 3 against) · 55 studies (25 causal, 12 review, 9 quant-synthesis, 7 theoretical, 1 associational, 1 design), `q1`–`q4` · 22 of 55 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,8 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Invested mental effort and perceived task difficulty are significantly positively correlated at all measurement points except MP2.5, with correlations increasing as material complexity rises](../claims/effort-difficulty-positively-correlated-except-mp25.md) [~W]
 - [Delayed cognitive load assessments after learning exceed the average of during-learning assessments only when complexity decreases across the learning material](../claims/delayed-icl-exceeds-average-only-decreasing-complexity.md) [~W]
 - [Prior knowledge correlates negatively with delayed ICL and ECL and positively with delayed GCL, consistent with meta-analytic findings](../claims/prior-knowledge-correlates-with-load-types.md) [~W]
+- [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](../claims/coherence-principle-extraneous-material-effect.md) [~W]
+- [Presenting primary knowledge first and then secondary knowledge was more efficient in both performance and motivation](../claims/primary-first-sequencing-benefits.md) [+W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

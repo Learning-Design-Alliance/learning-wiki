@@ -76,3 +76,4 @@ The review's synthesis of psychological research on belonging, implicit theories
 - [Illusory correlations, like the belief that a full moon affects behavior, persist through confirmation bias despite having no basis in evidence](illusory-correlations-persist-through-confirmation-bias.md) — related
 - [Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor](belonging-task-relevance-mindset-predict-self-efficacy.md) — a narrower finding that bears on this claim
 - [Expectancies for success predict academic achievement more strongly than task values](expectancy-success-predicts-achievement.md) — related
+- [Stable Dispositions such as conscientiousness predict academic success partly through effort, with some independence from cognitive ability](stable-dispositions-predict-academic-success-through-effort.md) — related

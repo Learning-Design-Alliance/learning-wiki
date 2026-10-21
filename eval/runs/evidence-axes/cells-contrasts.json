@@ -37218,5 +37218,305 @@
  "spacing\tspaced retrieval practice on the third question\tmassed retrieval practice on the third question": {
   "label": "spaced vs massed retrieval practice",
   "treatment_is_a": true
+ },
+ "active-learning\tactive-learning interventions\tcontrol conditions": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning strategies\tcontrol-group classrooms": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tfreely pointed and traced connections with the fingers\tlearned without gesturing": {
+  "label": "gesturing vs no gesturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tmore student interaction and less didactic lecturing\tdidactic lecturing or no student interaction": {
+  "label": "interactive learning vs didactic lecturing",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudents dragged angles with a computer mouse\tobserved the researcher dragging angles": {
+  "label": "hands-on manipulation vs observation",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy support and structure\tnot stated": {
+  "label": "autonomy support and structure vs lower or absent autonomy support and structure",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy support plus structure\tlower or absent autonomy support and structure": {
+  "label": "autonomy support and structure vs lower or absent autonomy support and structure",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteacher autonomy support\tprovision of structure": {
+  "label": "teacher autonomy support vs teacher-provided structure",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteacher autonomy support\tteacher provision of structure": {
+  "label": "teacher autonomy support vs teacher-provided structure",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteacher autonomy support and structure\tnot specified": {
+  "label": "autonomy support and structure vs lower or absent autonomy support and structure",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteachers facilitating autonomy and structure\tnot stated": {
+  "label": "autonomy support and structure vs lower or absent autonomy support and structure",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteachers who facilitate autonomy and structure\tnot specified": {
+  "label": "autonomy support and structure vs lower or absent autonomy support and structure",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tprimary knowledge first, then secondary knowledge\tsecondary knowledge first, then secondary knowledge": {
+  "label": "primary knowledge first vs secondary knowledge first",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tprimary-knowledge problems first, followed by secondary-knowledge training\tsecondary-knowledge problems first, followed by secondary-knowledge training": {
+  "label": "primary-knowledge problems first vs secondary-knowledge problems first",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect instruction\tno direct instruction": {
+  "label": "direct instruction vs no direct instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction followed by guided independent learning\tother sequencing of instruction and guided independence": {
+  "label": "explicit instruction followed by guided independent learning vs other sequencing of instruction and guided independence",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tunnecessarily explicit and structured instruction\topen problem-solving approaches": {
+  "label": "explicit and structured instruction vs open problem-solving approaches",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\twritten objectives and direct instruction\tinterventions without these activities": {
+  "label": "written objectives and direct instruction vs neither written objectives nor direct instruction",
+  "treatment_is_a": true
+ },
+ "fading\tconcreteness fading\tconcrete condition": {
+  "label": "concreteness fading vs concrete condition",
+  "treatment_is_a": true
+ },
+ "fading\tconcreteness fading\tconcreteness introduction condition": {
+  "label": "concreteness fading vs concreteness introduction",
+  "treatment_is_a": true
+ },
+ "fading\tconcreteness fading\tidealized condition": {
+  "label": "concreteness fading vs idealized condition",
+  "treatment_is_a": true
+ },
+ "fading\tfading-out prompts\tpermanent prompts": {
+  "label": "fading-out prompts vs permanent prompts",
+  "treatment_is_a": true
+ },
+ "feedback-presence\treceiving grades\treceiving no performance feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tinterventions containing each coded feedback indicator\tinterventions without the corresponding feedback indicator": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tgrades abolished with competency grids, learning-development meetings, and formative feedback\ttraditional grades retained": {
+  "label": "formative assessment vs traditional grading",
+  "treatment_is_a": true
+ },
+ "interleaving\tchange in blocked-practice efficacy belief\tchange in interleaved-practice efficacy belief": {
+  "label": "interleaved-practice efficacy belief vs blocked-practice efficacy belief",
+  "treatment_is_a": false
+ },
+ "interleaving\thigh contextual interference (random/serial practice)\tlow contextual interference (blocked practice)": {
+  "label": "high contextual interference (random/serial practice) vs low contextual interference (blocked practice)",
+  "treatment_is_a": true
+ },
+ "interleaving\thigh contextual interference: random or serial practice\tlow contextual interference: blocked practice": {
+  "label": "high contextual interference (random/serial practice) vs low contextual interference (blocked practice)",
+  "treatment_is_a": true
+ },
+ "interleaving\thigh contextual interference: random/serial practice\tlow contextual interference: blocked practice": {
+  "label": "high contextual interference (random/serial practice) vs low contextual interference (blocked practice)",
+  "treatment_is_a": true
+ },
+ "interleaving\thybrid interleaving cognitive training\tnot stated": {
+  "label": "hybrid interleaving cognitive training vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved practice over time\tblocked practice over time": {
+  "label": "interleaved practice over time vs blocked practice over time",
+  "treatment_is_a": true
+ },
+ "interleaving\tlater interleaved-practice choice\thabitual interleaved-practice choice before study": {
+  "label": "later interleaved-practice choice vs habitual pre-study interleaved-practice choice",
+  "treatment_is_a": true
+ },
+ "interleaving\tlater interleaved-practice experience\tearlier interleaved-practice experience": {
+  "label": "later interleaved-practice experience vs earlier interleaved-practice experience",
+  "treatment_is_a": true
+ },
+ "interleaving\tlater strategy-choice occasion\tinitial strategy-choice occasion": {
+  "label": "later strategy-choice occasion vs initial strategy-choice occasion",
+  "treatment_is_a": true
+ },
+ "interleaving\tpost-study blocked-practice efficacy belief\tpre-study blocked-practice efficacy belief": {
+  "label": "post-study blocked-practice efficacy belief vs pre-study blocked-practice efficacy belief",
+  "treatment_is_a": true
+ },
+ "interleaving\tpost-study interleaved-practice efficacy belief\tpre-study interleaved-practice efficacy belief": {
+  "label": "post-study interleaved-practice efficacy belief vs pre-study interleaved-practice efficacy belief",
+  "treatment_is_a": true
+ },
+ "interleaving\tstrategy choice after experiencing the task\tinitial strategy choice": {
+  "label": "strategy choice after experiencing the task vs initial strategy choice",
+  "treatment_is_a": true
+ },
+ "media-design\t3D immersive virtual reality\tcorresponding 2D desktop presentation": {
+  "label": "3D immersive virtual reality vs 2D desktop presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tconversational wording\tformal wording": {
+  "label": "conversational wording vs formal wording",
+  "treatment_is_a": true
+ },
+ "media-design\tdetail-rich realistic combination\tother visualization combination": {
+  "label": "detail-rich realistic visualization combination vs other visualization combination",
+  "treatment_is_a": true
+ },
+ "media-design\tembellished charts\tcharts without embellishment": {
+  "label": "embellished charts vs unembellished charts",
+  "treatment_is_a": true
+ },
+ "media-design\textraneous material excluded\textraneous material included": {
+  "label": "extraneous material excluded vs extraneous material included",
+  "treatment_is_a": true
+ },
+ "media-design\thighly immersive virtual reality training\tless immersive learning setting": {
+  "label": "highly immersive virtual reality vs less immersive learning setting",
+  "treatment_is_a": true
+ },
+ "media-design\tlesson with unneeded visual and verbal material removed\tlesson containing unneeded visual and verbal material": {
+  "label": "extraneous material excluded vs extraneous material included",
+  "treatment_is_a": true
+ },
+ "media-design\tlow text legibility (high disfluency)\tlegible text (fluent control)": {
+  "label": "high text disfluency vs low text disfluency",
+  "treatment_is_a": true
+ },
+ "media-design\tmedium disfluency\thigh disfluency": {
+  "label": "high text disfluency vs medium text disfluency",
+  "treatment_is_a": false
+ },
+ "media-design\tmoderate interactivity\tlower or higher interactivity": {
+  "label": "moderate interactivity vs non-moderate interactivity",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia lesson with generative learning activities\tlesson without the added generative learning activities": {
+  "label": "generative learning activities vs no added generative learning activities",
+  "treatment_is_a": true
+ },
+ "media-design\tnarration plus a few on-screen keywords\tnarration without on-screen keywords": {
+  "label": "narration plus on-screen keywords vs narration without on-screen keywords",
+  "treatment_is_a": true
+ },
+ "media-design\trealistic visualizations\tschematic visualizations": {
+  "label": "realistic visualizations vs schematic visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\trealistic visualizations and details\tsimplified or schematic visualizations": {
+  "label": "realistic detailed visualizations vs simplified or schematic visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\twarm colors and baby-like faces\tno such emotional-design elements": {
+  "label": "emotional-design elements present vs absent",
+  "treatment_is_a": true
+ },
+ "media-design\twords and pictures\twords alone": {
+  "label": "words and pictures vs words alone",
+  "treatment_is_a": true
+ },
+ "other\t$1,000 more grant aid\tlower amount of grant aid": {
+  "label": "$1,000 more grant aid vs lower amount of grant aid",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlonger or more intensive interventions\tshorter or less intensive interventions": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trestudying the material\tstudying the material once": {
+  "label": "restudying vs studying once",
+  "treatment_is_a": true
+ },
+ "prompts\tappropriate materials and prompts\tnot stated": {
+  "label": "prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tvisual feedback prompt\tcontrol condition without the prompt": {
+  "label": "visual feedback prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tvisual metacognitive feedback prompt\tcontrol condition without the prompt": {
+  "label": "visual metacognitive feedback prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tvisual metacognitive prompt\tno visual metacognitive prompt": {
+  "label": "visual metacognitive prompts vs no visual metacognitive prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ta comprehensive final exam\tno comprehensive final exam": {
+  "label": "comprehensive final exam vs no comprehensive final exam",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfill-in-the-gap test\trestudying the text": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfill-in-the-gap testing\trestudying the text": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpractice retrieval\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpractice testing after worked-example study\tfurther worked-example study": {
+  "label": "retrieval practice vs further worked-example study",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\trecitation of biographies\treading biographies": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\trecitation of less connected material\treading less connected material": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\trecitation of nonsense syllables\treading nonsense syllables": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\treciting nonsense syllables\treading nonsense syllables": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting after studying four examples\trestudying after studying four examples": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdynamic adaptive scaffolding\tother or non-dynamic scaffolding": {
+  "label": "dynamic adaptive scaffolding vs other/non-dynamic scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdynamic adaptive scaffolding\tother scaffolding or no dynamic scaffolding": {
+  "label": "dynamic adaptive scaffolding vs other/non-dynamic scaffolding",
+  "treatment_is_a": true
+ },
+ "spacing\tdistributed learning\tmassed learning": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "test-format\tgraphics-tablet assessment after full-body motion-tracking learning\tmouse assessment after full-body motion-tracking learning": {
+  "label": "graphics-tablet assessment vs mouse assessment",
+  "treatment_is_a": true
+ },
+ "worked-examples\tICT and teacher jointly provide examples\tteacher-only provides examples": {
+  "label": "ICT-and-teacher-provided examples vs teacher-only-provided examples",
+  "treatment_is_a": true
  }
 }

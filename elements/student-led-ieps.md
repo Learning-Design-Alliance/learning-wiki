@@ -74,6 +74,7 @@ Student-led IEPs convert a compliance meeting into a learning event, giving stud
 **[Zarrow Center for Learning Enrichment](https://www.ou.edu/zarrow)** (University of Oklahoma) — publishes the *Self-Directed IEP* curriculum (Martin et al.), a step-by-step instructional package for preparing students to lead their meetings.
 
 **[SDLMI](https://www.kucdd.org)** — the Self-Determined Learning Model of Instruction, in which students set and work toward education goals with teacher facilitation, culminating naturally in student-led goal review.
+- [Target distributed-learning research at IEPs, remedial math and reading programs, and study-skills time-management instruction](../strategies/distributed-learning-application-targets.md)
 
 ## Key Sources
 - Test, D. W., Fowler, C. H., Wood, W. M., Brewer, D. M., & Eddy, S. (2005). A conceptual framework of self-advocacy for students with disabilities. *Remedial and Special Education, 26*(1), 43–54. [doi:10.1177/07419325050260010601](https://doi.org/10.1177/07419325050260010601)

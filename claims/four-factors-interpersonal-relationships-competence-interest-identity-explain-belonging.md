@@ -47,3 +47,4 @@ Frequency counts of belonging-explanation codes from the interviews, shown in Fi
 - [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
 - [Interpersonal relationships are the most prominent student concern in qualitative interviews (30.61% of coded responses)](interpersonal-relationships-top-student-concern-30-61.md) — related
 - [Belonging measures were typically validated on small, primarily White and middle-class samples without testing factor-structure differences by demographics](belonging-measures-validation-sampling-limits.md) — related
+- [Interpersonal relationships are framed as supports for motivation at school](interpersonal-relationships-support-school-motivation.md) — related

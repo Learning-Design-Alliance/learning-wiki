@@ -54,3 +54,4 @@ The paper reports evaluations of parent education initiatives within ECD program
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
 - [FEIP implementation was associated with improvements in parents' knowledge and attitudes about family engagement and their uptake of family engagement supports](feip-parent-knowledge-attitudes-uptake-improvements.md) — related
 - [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](conscientization-fits-adventure-therapy.md) — related
+- [Evolutionary theory can inform more-enlightened teaching methods yielding more enjoyable and successful learning](evolutionary-theory-informs-teaching-methods.md) — related

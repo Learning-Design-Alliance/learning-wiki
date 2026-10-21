@@ -48,3 +48,4 @@ The review reports a meta-analysis by Wu et al. covering "results from 68 longit
 ## Related Claims
 - [Huang's meta-analysis of 39 independent samples reported average cross-lagged correlations between self-concept and achievement of roughly .19 to .27](huang-2011-meta-analysis-self-concept-achievement-correlations.md) — related
 - [Meta-analyses show prior academic self-concept predicts subsequent achievement, controlling prior achievement](meta-analyses-asc-predicts-achievement.md) — possibly the same claim (merge candidate)
+- [STARTS model shows a positive effect of prior achievement on subsequent self-concept but no effect of prior self-concept on subsequent achievement](starts-null-self-concept-effect.md) — reports the opposite

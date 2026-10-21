@@ -69,3 +69,4 @@ The review reports a null result from Greenwood and Gatersleben's RCT with 120 s
 - [Outdoor learning in nature significantly increases students' physical activity in most studies, with some null results](outdoor-learning-increases-student-physical-activity.md) — related
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](nature-exposure-reduces-learner-stress.md) — related
 - [The TSST-G stress induction increased negative affect and cortisol relative to control](tsst-g-manipulation-check-affect-cortisol.md) — related
+- [Effects of nature exposure on divergent thinking are mixed: five of eight reviewed studies showed significant effects while others found null or partial effects](divergent-thinking-nature-effects-mixed.md) — related

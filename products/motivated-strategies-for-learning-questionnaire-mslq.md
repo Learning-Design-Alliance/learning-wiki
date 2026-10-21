@@ -28,6 +28,7 @@ The MSLQ is Pintrich and colleagues' self-report assessment of students' motivat
 - [SRL-O questionnaire: a 44-item self-report measure of online self-regulated learning](srl-o-questionnaire-a-44-item-self-report-measure-of-online-self-regulated-learning.md)
 - [Microanalytic SRL assessment tool with open-ended and closed-ended questions across the three SRL phases](microanalytic-srl-assessment-tool-with-open-ended-and-closed-ended-questions-across-the-th.md)
 - [T-SQsrl paired teacher and student SRL questionnaires](t-sqsrl-paired-teacher-and-student-srl-questionnaires.md)
+- [Motivation and Engagement Scale (MES)](motivation-and-engagement-scale-mes.md)
 
 ## Key Sources
 - Panadero E. (2017). A Review of Self-regulated Learning: Six Models and Four Directions for Research. Front. Psychol. 8:422. https://doi.org/10.3389/fpsyg.2017.00422

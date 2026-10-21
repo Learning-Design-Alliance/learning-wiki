@@ -69,3 +69,4 @@ Post hoc analysis of scaffolding combinations, with printed effect "g = 1.60, SE
 - [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](instruction-alone-limited-joint-reflection-tool-values.md) — related
 - [Instruction-only vocational students matched control on all univariate communication variables, showing no significant differences between the two conditions in this study](instruction-alone-no-effect-on-collaborative-behavior.md) — related
 - [Scaffolding's effect did not vary by customization (fading/adding), change logic, or scope, and motivation scaffolds alone showed no significant effect](scaffolding-design-features-no-moderation.md) — related
+- [Example-based instructional activities yield larger effects when delivered jointly by ICT and teachers than by teachers alone](examples-joint-ict-teacher-delivery-larger-effects.md) — related

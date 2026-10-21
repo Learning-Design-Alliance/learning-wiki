@@ -52,3 +52,4 @@ Partial correlation analysis in the same 713-adolescent cross-sectional sample, 
 - [Bilingual effect evidence appears for inhibition and cognitive flexibility but disappears for working memory in children and adolescents](bilingual-effect-inhibition-flexibility-not-working-memory.md) — related
 - [Working memory and processing speed, but not inhibition or non-alphanumeric naming speed, uniquely predict both word reading and reading comprehension in children ages 8 to 16](wm-and-processing-speed-unique-predictors-reading.md) — related
 - [Specific physical fitness components are differentially associated with specific executive function domains in adolescents](pf-components-map-onto-ef-domains.md) — related
+- [Executive functions, especially working memory, inhibition, and cognitive flexibility, are consistently associated with core SRL activities](executive-functions-associated-with-core-srl-activities.md) — related

@@ -48,3 +48,4 @@ Experiment 1, 24 participants, four study–test cycles; the triple interaction 
 - [Test experience alleviates the foresight bias more effectively than study experience](test-experience-beats-study-experience-for-debiasing.md) — related
 - [Delaying judgments of learning after study markedly reduces, but does not eliminate, the foresight bias](delayed-jols-reduce-foresight-bias.md) — related
 - [Monitoring resolution improves with study–test practice, with larger gains for backward than for forward pairs](jol-resolution-improves-with-practice.md) — a broader claim this one bears on
+- [Underconfidence-with-practice effect: learners overestimate learning after one study trial but underestimate it after repeated restudying](underconfidence-with-practice-effect-jols.md) — related

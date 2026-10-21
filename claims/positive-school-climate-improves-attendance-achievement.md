@@ -73,3 +73,4 @@ A cited pathway study reported in the review found "the strongest linkage to be 
 - [Health factors and academic outcomes are linked: meeting nutritional and fitness needs, school-based health centers, and positive school climate are associated with achievement, attendance, and behavior](health-factors-linked-academic-outcomes.md) — a broader claim this one bears on
 - [Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment](effective-principals-positive-student-outcomes.md) — related
 - [Principal turnover often has negative effects on student achievement, teacher retention, and school culture unless a much more effective principal replaces the prior one](principal-turnover-negative-effects.md) — related
+- [Among school-level factors, only principal leadership and school culture correlate positively with CMSE](cmse-school-level-correlates.md) — related

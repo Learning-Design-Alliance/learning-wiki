@@ -69,3 +69,4 @@ As part of RQ1, the review coded disciplinary origin (first author's affiliation
 - School belonging research is marked by definitional ambiguity and terminology confusion, including conflation of belonging with acceptance, inclusion, and participation — related
 - P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently — related
 - Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely — a broader claim this one bears on
+- [Jingle-jangle fallacies fragment SR research in education and impede cumulative progress](jingle-jangle-fallacies-fragment-sr-research.md) — a broader claim this one bears on

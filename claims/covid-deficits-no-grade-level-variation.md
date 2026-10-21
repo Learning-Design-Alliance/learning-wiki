@@ -50,3 +50,4 @@ Bivariate comparison by level of education (Fig. 6b; medians primary −0.12, se
 - [Year 3 and Year 4 student achievement growth in mathematics and reading showed no significant differences between 2019 and 2020 cohorts in NSW primary schools](covid19-no-significant-achievement-growth-difference-nsw-primary.md) — related
 - [Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies](covid-deficit-larger-quasi-experimental-designs.md) — related
 - [Pandemic-related learning delays did not statistically differ across primary, secondary and tertiary education levels](covid-learning-delays-similar-across-education-levels.md) — related
+- [No significant mean differences in perspectives between primary and secondary school staff](no-primary-secondary-difference-mhl-perspectives.md) — related

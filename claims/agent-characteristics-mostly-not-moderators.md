@@ -50,3 +50,4 @@ Meta-analytic moderator analyses across the 32 pooled effect sizes examined agen
 - [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — reports the opposite
 - [Pedagogical agents significantly improve learners' self-efficacy expectations (g = 0.29), with effects moderated by grade level, facial expressions, and reliability reporting](pa-improve-self-efficacy-expectations.md) — reports the opposite
 - [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) — related
+- [Specific pointing by pedagogical agents was more effective than nonspecific pointing, which beat non-pointing gestures (review attributes this to Li et al., 2019)](specific-pointing-signaling-more-effective.md) — reports the opposite

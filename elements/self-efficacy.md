@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 70 claims (42 for, 26 mixed, 2 against) · 57 studies (24 associational, 13 review, 12 causal, 4 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 15 of 57 report an effect size · 66 claims rest on one study
+> **Evidence** · 71 claims (42 for, 27 mixed, 2 against) · 58 studies (24 associational, 13 review, 12 causal, 5 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 16 of 58 report an effect size · 67 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -118,6 +118,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Time management interventions show conflicting evidence for raising self-efficacy](../claims/time-management-interventions-self-efficacy-mixed.md) [~W]
 - [Students' perceived self-efficacy is positively associated with their reported time management](../claims/self-efficacy-positive-association-time-management.md) [+W]
 - [Both GLA groups showed a large, significant increase in pipetting self-efficacy, with no difference between conditions](../claims/gla-self-efficacy-increase-vr.md) [+W]
+- [Teacher burnout dimensions show the strongest correlations with CMSE among teacher-level psychometric constructs](../claims/cmse-teacher-burnout-strongest-teacher-level-correlate.md) [~W]
 
 ## The evidence by question
 

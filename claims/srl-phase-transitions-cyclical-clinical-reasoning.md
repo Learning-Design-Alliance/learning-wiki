@@ -49,3 +49,4 @@ Sequential pattern mining with the TraMineR package on think-aloud-derived SRL p
 - [Empirical studies support Zimmerman's cyclical and multi-level SRL models, including a linear trend favoring training more SRL phases](zimmerman-cyclical-model-empirical-support.md) — a broader claim this one bears on
 - [The relation between medical expertise and diagnostic accuracy was case-dependent: positive for Case 4, negative for Case 1 (novices outperformed experts), and absent for Cases 2, 3, and 5](expertise-diagnostic-accuracy-case-dependent.md) — related
 - [Empirical studies support Zimmerman's SRL models, including expert-novice differences and phase-training effects](empirical-support-zimmerman-srl-models.md) — a broader claim this one bears on
+- [Motivation and engagement relate cyclically: prior motivation predicts subsequent engagement and prior engagement predicts subsequent motivation](cyclical-motivation-engagement-relation.md) — related

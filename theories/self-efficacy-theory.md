@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 74 claims (50 for, 22 mixed, 2 against) · 55 studies (24 associational, 14 review, 13 causal, 2 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 13 of 55 report an effect size · 73 claims rest on one study
+> **Evidence** · 76 claims (50 for, 24 mixed, 2 against) · 56 studies (24 associational, 14 review, 13 causal, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 14 of 56 report an effect size · 75 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -121,6 +121,8 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Preservice teachers report higher self-efficacy for inclusive education than in-service teachers](../claims/preservice-higher-self-efficacy-inclusion-than-inservice.md) [~W]
 - [Time management interventions show conflicting evidence for raising self-efficacy](../claims/time-management-interventions-self-efficacy-mixed.md) [~W]
 - [Both GLA groups showed a large, significant increase in pipetting self-efficacy, with no difference between conditions](../claims/gla-self-efficacy-increase-vr.md) [+W]
+- [Country and school level moderate the relationship between CMSE and many correlates](../claims/cmse-country-school-level-moderators.md) [~W]
+- [Teacher burnout dimensions show the strongest correlations with CMSE among teacher-level psychometric constructs](../claims/cmse-teacher-burnout-strongest-teacher-level-correlate.md) [~W]
 
 ## The evidence by question
 

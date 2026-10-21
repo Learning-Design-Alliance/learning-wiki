@@ -136,3 +136,5 @@ Do not conflate example→problem pairs with completion problems: the latter omi
 - [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related
 - [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — related
 - [Solving practice problems invested less mental effort than contrasting or erroneous examples, contrary to the worked-example-effect hypothesis](practice-problems-lower-mental-effort.md) — related
+- [Presenting primary knowledge first and then secondary knowledge was more efficient in both performance and motivation](primary-first-sequencing-benefits.md) — related
+- [Restudy of worked examples invested much less mental effort than testing after four examples, but this difference was not replicated with vocational students](restudy-effort-lower-after-four-examples.md) — related

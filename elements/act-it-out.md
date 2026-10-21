@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (9 for, 3 mixed, 2 against) · 20 studies (9 causal, 5 quant-synthesis, 4 review, 2 theoretical), `q1`–`q4` · 4 of 20 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (10 for, 3 mixed, 2 against) · 21 studies (10 causal, 5 quant-synthesis, 4 review, 2 theoretical), `q1`–`q4` · 5 of 21 report an effect size · 11 claims rest on one study
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -62,6 +62,7 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - [A prior meta-analysis reports that embodied designs helped improve learning efficiency and academic performance in education, including language education](../claims/zhang-meta-analysis-embodied-designs-improve-learning.md) [+M]
 - [Empirical research on embodied learning in language education is a small but rapidly growing area, with 41 studies identified and most published 2019–2020](../claims/embodied-language-learning-research-growing-41-studies.md) [~W]
 - [VR improved movement-based transfer test performance versus reading in security training, while learning in VR without the possibility to act was detrimental](../claims/vr-transfer-benefit-but-actionless-vr-detrimental.md) [+W]
+- [A 4-week embodied learning intervention with movement-phonemes improves grade 1 children's letter-sound knowledge more than regular classroom teaching](../claims/movement-phonemes-improve-letter-sound-knowledge-grade-1.md) [+W] — attached 2026-10-21 from Damsgaard et al. (2023), which proposed "Movement-phoneme activity program: paired whole-body letter-sound exercises over 4 weeks"; tests this page's relationship.
 
 ## The evidence by question
 

@@ -51,3 +51,4 @@ Camera view moderator rows from Table 3 of the media-comparison meta-regression;
 - [Digital game conditions significantly enhance K–16 student learning relative to nongame comparison conditions (g = 0.33)](digital-games-outperform-nongame-media-comparisons.md) — a broader claim this one bears on
 - [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](multiple-sessions-moderator-games.md) — related
 - [Multi-session game conditions outperform nongame conditions while single-session games do not, though total play duration shows no association with effect size](multiple-sessions-benefit-single-session-null.md) — related
+- [Digital game-based ICT was associated with significantly smaller effects on writing quality, but the finding rests on a single study](digital-games-smaller-writing-effects-single-study.md) — related

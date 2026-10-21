@@ -28,6 +28,7 @@ The article organizes frameworks for conceptualizing instructional quality along
 - [Adapted Personalized Learning Continuum Framework (PLCF)](adapted-personalized-learning-continuum-framework-plcf.md)
 - [A taxonomy classifying authentic CSCL learning environments into simulation and hybrid environments with five descriptors](a-taxonomy-classifying-authentic-cscl-learning-environments-into-simulation-and-hybrid-env.md)
 - [Four-level rubric for teachers' reflective prompts adapted from Van Manen's reflective levels](four-level-rubric-for-teachers-reflective-prompts-adapted-from-van-manens-reflective-level.md)
+- [Actor-perspective by setting taxonomy for classroom eye-tracking research](actor-perspective-by-setting-taxonomy-for-classroom-eye-tracking-research.md)
 
 ## Key Sources
 - Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6

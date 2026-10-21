@@ -43,6 +43,7 @@ The article recommends that CSCL researchers employ social, temporal, and spatia
 ## Related Strategies
 
 - [Use SNA at the whole-network level to study all ties within a defined group](sna-whole-network-defined-group-strategy.md)
+- [Adopt an integrative methodological toolkit using machine learning and computational models to capture SR's multi-level, temporal, and social dynamics](integrative-methodological-toolkit-machine-learning-sr.md)
 
 ## Examples
 -

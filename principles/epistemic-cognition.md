@@ -40,7 +40,7 @@ sources:
 # Epistemic Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (11 for, 13 mixed, 2 against) · 38 studies (16 causal, 5 review, 5 theoretical, 4 quant-synthesis, 4 qualitative, 3 associational, 1 design), `q1`–`q4` · 4 of 38 report an effect size · 18 claims rest on one study
+> **Evidence** · 28 claims (13 for, 13 mixed, 2 against) · 39 studies (16 causal, 6 theoretical, 5 review, 4 quant-synthesis, 4 qualitative, 3 associational, 1 design), `q1`–`q4` · 4 of 39 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,7 @@ Re-read against the model on 2026-10-19. Of the thirteen claims listed here then
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — cited by the folded Model-Evidence Link pattern; its studies are tutoring of long division and of biology content, not epistemic judgment.
 - [Modernist discourses have produced contradictory environmental effects, raising awareness of problems while helping cultivate stories that construe the earth as an object of instrumental value](../claims/modernist-discourses-contradictory-environmental-effects.md) [+W] — (not about this page) a theoretical argument about environmental education, cited by a folded critical-communication page.
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — (not about this page) list-recall experiments on memory capacity, cited by the folded Model-Evidence Link pattern as a caution against overload.
+- [Learners given appropriate materials and prompts can successfully develop, articulate, and elaborate rich epistemic ideals for good models and good sources](../claims/learners-develop-elaborate-epistemic-ideals.md) [+W] — attached 2026-10-21 from Sarit Barzilai et al. (2024), which proposed "Design epistemic learning environments by creating opportunities for learners and teachers to collaboratively notice, articulate, elaborate, and evaluate epistemic ideals and processes".
 
 ## Objective and learner-valued goal
 
@@ -162,6 +163,7 @@ A shift in the reasons learners write, a better verdict on new material, durabil
 - [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](../claims/ai-intuition-epistemic-judgment-not-prompt-engineering.md) [~W]
 - [Epistemic beliefs about the development of scientific knowledge directly predict domain knowledge in science across grades 5, 8, and 11](../claims/development-epistemic-beliefs-predict-science-knowledge.md) [~W]
 - [Scientific reasoning levels are linked directly to sophistication of epistemological beliefs among Malaysian Muslim students](../claims/scientific-reasoning-linked-epistemological-sophistication.md) [~W]
+- [Prior epistemic thinking frameworks were insufficient for addressing educational problems because they described epistemic thinking as broad beliefs or perspectives rather than situated practices](../claims/prior-epistemic-frameworks-insufficient-situated-practices.md) [+W]
 
 ## Related Principles
 - [Evaluating Sources](evaluating-sources.md) — directly operationalizes epistemic judgment around credibility and evidence

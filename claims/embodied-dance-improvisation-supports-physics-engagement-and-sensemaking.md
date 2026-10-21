@@ -63,3 +63,4 @@ This is exploratory, proof-of-concept research (the authors' own characterizatio
 - [Learning styles impact teachers, pedagogy, student engagement, and assessment in K-12 education](learning-styles-impact-teachers-pedagogy-engagement-assessment.md) — related
 - [A language-based AI facilitator has access only to verbal traces of embodied inquiry and steers inquiry toward what can be put into words](language-facilitator-verbal-channel-limit.md) — related
 - [The review proposes that embodied language learning engages learners holistically while promoting language skills and adding emotional and motivational benefits](embodied-language-learning-holistic-engagement-emotional-benefits.md) — related
+- [Making human movements tends to be more beneficial for learning than observing them (review's synthesis)](making-movements-more-beneficial-than-observing.md) — related

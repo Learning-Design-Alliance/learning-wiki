@@ -52,3 +52,4 @@ Competing-model confirmatory factor analysis in a survey of 382 undergraduates (
 - [Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals](reliance-trust-dependency-separate-constructs.md) — related
 - [The 28 GenAI literacy criteria function coherently as indicators of a single underlying construct in a Rasch partial credit analysis](genai-literacy-items-single-construct-rasch-fit.md) — related
 - [Scalar measurement invariance of the GenAI-RTS holds across gender, first-generation status, and STEM/non-STEM majors](genai-rts-scalar-invariance-demographic-groups.md) — related
+- [Confirmatory factor analysis supports both distinct 11-factor and four higher-order group structures of the Wheel across educational levels](wheel-cfa-structure-support.md) — related

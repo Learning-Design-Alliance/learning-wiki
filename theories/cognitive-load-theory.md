@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 87 claims (54 for, 24 mixed, 9 against) · 71 studies (29 causal, 18 review, 12 theoretical, 11 quant-synthesis, 1 design), `q1`–`q4` · 11 of 71 report an effect size · 77 claims rest on one study
+> **Evidence** · 88 claims (55 for, 24 mixed, 9 against) · 72 studies (29 causal, 18 review, 13 theoretical, 11 quant-synthesis, 1 design), `q1`–`q4` · 12 of 72 report an effect size · 78 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -157,6 +157,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Transient information effect: lengthy spoken text can reverse the modality effect, while shorter spoken text restores the conventional modality advantage](../claims/transient-information-effect-reverse-modality-length.md) [+W]
 - [Biologically primary motor actions such as finger tracing can provide cognitive benefits without causing cognitive load](../claims/primary-motor-actions-benefits-without-load.md) [+W] — attached 2026-10-21 from Alexander Skulmowski (2024), which proposed "Integrated cognitive framework for analyzing activity-based learning: cognitive load theory, biologically primary/secondary knowledge, and layers of action planning".
 - [LLM-supported socio-scientific inquiry lowered cognitive load but produced lower-quality reasoning and argumentation than conventional search](../claims/llm-inquiry-lower-load-lower-reasoning.md) [~W]
+- [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](../claims/coherence-principle-extraneous-material-effect.md) [+W]
 
 ## The evidence by question
 
@@ -187,6 +188,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 **[User-Centered Design for Learning](../principles/user-centered-design-for-learning.md)** — applies CLT's extraneous-load concept to interface design: confusing navigation and inconsistent terminology impose extraneous load exactly as an unnecessarily split-attention diagram does.
 - [Manage the three load types: reduce extraneous load, optimize intrinsic load, and increase germane load](../principles/cognitive-load-management.md)
 - [Select interaction types based on content type rather than random variation to preserve format-meaning coherence](../strategies/content-type-based-interaction-selection.md)
+- [Balance cognitive load in digital learning by aligning design-factor costs and benefits with desired learning outcomes via constructive alignment](../strategies/align-cognitive-load-with-learning-outcomes-digital.md)
 
 ## Key Sources
 - Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. [doi:10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)

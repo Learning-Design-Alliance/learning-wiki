@@ -60,9 +60,11 @@ Explicit instruction in evaluation techniques substantially improves learners' a
 5. **Corroboration requirement** — enforce a minimum independent-source standard ([3-Source Rule](3-source_rule.md)) in finished work
 
 ## Related Strategies
+
 - [3-Source Rule](3-source_rule.md) — a corroboration requirement that operationalizes evaluation in student work
 - [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — a framework for locating and assessing factual claims
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the demonstration method for making expert evaluation visible
+- [Teach students a broad set of strategies including sourcing, scrutinizing evidence, and corroboration to enable judging the accuracy of diverse online claims](broad-strategy-set-online-claim-accuracy.md)
 
 ## Examples
 - **Stanford History Education Group (SHEG) civic online reasoning curriculum** ([https://cor.stanford.edu](https://cor.stanford.edu)) — classroom lessons built on fact-checker strategies (lateral reading, click restraint, provenance), validated in large-scale assessments

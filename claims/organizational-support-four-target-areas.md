@@ -48,3 +48,4 @@ From the provider strategies analysis of how partners and probation managers bui
 - [Providers located low performance within schools and targeted the instructional unit of teachers, materials, and students](providers-target-instructional-unit-teachers-materials-students.md) — related
 - [Most partner professional development relied on traditional short-term workshops with little classroom-level intensive assistance](probation-support-relies-on-traditional-workshops.md) — related
 - [Improving schools secured external resources aligned with a development agenda and employed them strategically, and cultivated strong distributive leadership with a make-or-break principal role](aligned-resources-and-distributive-leadership-distinguish-improving-schools.md) — related
+- [SR mechanisms across the four traditions intersect in redundant, complementary, and compensatory ways](sr-traditions-redundant-complementary-compensatory-interactions.md) — related

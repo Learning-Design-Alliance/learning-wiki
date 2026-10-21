@@ -71,3 +71,4 @@ Null moderator result from the same meta-regression models: no association betwe
 - [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](multiple-sessions-moderator-games.md) — possibly the same claim (merge candidate)
 - [Third-person camera perspective games show significant learning benefits while first-person perspective games show no significant benefit](camera-perspective-moderator-games.md) — related
 - [Single noncollaborative, noncompetitive play shows the largest learning effects, significantly larger than single competitive play](single-noncompetitive-play-largest-media-effects.md) — related
+- [Digital game-based ICT was associated with significantly smaller effects on writing quality, but the finding rests on a single study](digital-games-smaller-writing-effects-single-study.md) — related

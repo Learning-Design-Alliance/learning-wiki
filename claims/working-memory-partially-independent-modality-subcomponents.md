@@ -67,3 +67,4 @@ The review's statement of cognitive load theory's core architectural assumption,
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
 - [Adults with DD show a smaller subitizing range and impaired enumeration of random sets across visual and tactile modalities](dd-adults-subitizing-enumeration-deficits.md) — related
+- [Whether working memory has a single capacity limit or multiple capacity limits from functional specialization is highly relevant for the design of multimedia materials](single-versus-multiple-capacity-limits-multimedia-design.md) — related

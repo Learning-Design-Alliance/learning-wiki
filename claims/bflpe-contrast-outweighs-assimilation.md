@@ -48,3 +48,4 @@ Narrative review of Marsh et al. (2000), a longitudinal study of a large represe
 - [Class-average achievement and chosen upward comparisons each make substantial, unique negative contributions to math self-beliefs when modeled simultaneously](bflpe-generalized-and-specific-others-unique-effects.md) — related
 - [A high proportion of high-performing classmates lowers sixth-graders' situational academic self-concept, an experimental BFLPE at the extreme contrast](bflpe-experimental-situational-self-concept.md) — related
 - [Students who perceived the class performance level as higher reported lower situational self-concept in the IVR classroom](higher-perceived-performance-lowers-situational-self-concept.md) — related
+- [The net effect of dimensional comparisons is contested: early evidence suggested a positive net effect, but later experiments found downward and upward effects cancel out](net-effect-of-dimensional-comparisons-mixed.md) — related

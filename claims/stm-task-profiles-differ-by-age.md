@@ -71,3 +71,4 @@ In the younger group, spatial and verbal spans did not differ, "t(60) = 0.884 p 
 - [A single bout of closed-skill exercise improves short-term memory performance only in older primary-school children (9–10 years), not in 7–8-year-olds.](closed-skill-exercise-improves-stm-older-children-only.md) — related
 - [A single bout of open-skill exercise improves short-term memory performance in primary-school children of both age groups (7–8 and 9–10 years).](open-skill-exercise-improves-stm-both-ages.md) — related
 - [Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple](serial-motor-task-complexity-age.md) — related
+- [Extensive Chinese logographic literacy training is associated with higher visuospatial short-term storage that does not generalize to phonological storage](chinese-training-visuospatial-storage-domain-specific.md) — related

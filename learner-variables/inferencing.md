@@ -13,7 +13,7 @@ generated:
 # Inferencing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 24 claims (19 show a difference, 3 mixed, 2 no difference) · 11 studies (6 causal, 3 review, 2 associational), `q1`–`q3` · 2 of 11 report an effect size · 23 claims rest on one study
+> **Evidence** · 25 claims (19 show a difference, 3 mixed, 3 no difference) · 12 studies (6 causal, 4 review, 2 associational), `q1`–`q3` · 2 of 12 report an effect size · 24 claims rest on one study
 
 ## Description
 Inferencing is the work a reader does to supply meaning a text does not state outright: linking one sentence to another, connecting the text to what the reader already knows or has experienced, and adding what is learned to existing knowledge. It supports reading comprehension, and the Learner Variability Navigator notes that it develops with age, moving from inferences drawn from within the text towards deeper inferences that draw on the reader's own knowledge. It is usually assessed through comprehension questions that ask for information the text implies rather than states; LVN lists no dedicated measure for it.
@@ -60,6 +60,7 @@ It matters most in middle and high school, where subject-specific texts assume b
 - [Double-content examples had no significant effect on generating alternatives of action, drawing inferences, or taking multiple perspectives](../claims/double-content-examples-no-effect-other-measures.md) [-M] — instruction changes it
 - [ABM students engage more frequently in embodied reasoning strategies—first-to-third-person perspective shifts, causal inference making, and gestures—than video students, who rely more on third-person perspectives and information retrieval](../claims/abm-students-more-embodied-reasoning-strategies.md) [+W] — instruction changes it
 - [First-to-third-person perspective shifting, causal inference making, and gesture use correlate positively with explanatory and transfer scores, while information retrieval and handwriting correlate negatively](../claims/embodied-strategies-correlate-explanatory-transfer-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Retrieval practice improved literal premise recall but did not improve deductive inference transfer compared to restudy](../claims/retrieval-practice-premise-recall-not-inference-transfer.md) [-W] — instruction changes it
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

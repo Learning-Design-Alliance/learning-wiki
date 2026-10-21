@@ -51,3 +51,4 @@ Two-step hierarchical regression with 203 sixth graders predicting teacher-assig
 - [Cognitive flexibility does not add unique explained variance to literacy or mathematics achievement in Grade 2](cognitive-flexibility-no-unique-contribution-grade-2.md) — related
 - [The set of executive-function and intelligence predictors of academic achievement differs across Grades 2, 4, and 6, with EF contributions appearing cumulative as students get older](ef-predictors-of-achievement-differ-across-grades.md) — related
 - [Working memory and inhibition both contribute to spontaneous flexibility, whereas only inhibition contributes to reactive flexibility](wm-inhibition-differential-flexibility-contributions.md) — related
+- [Executive functions, especially working memory, inhibition, and cognitive flexibility, are consistently associated with core SRL activities](executive-functions-associated-with-core-srl-activities.md) — related

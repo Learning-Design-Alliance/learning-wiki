@@ -69,3 +69,4 @@ The authors' summary of the same confirmatory factor analysis, stating the "four
 - [Confirmatory factor analysis on FICSMath data confirms the 4C/ID Model's four components fit secondary-tertiary mathematics instructional experiences (CFI = 0.907, RMSEA = 0.050)](cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) — related
 - [No statistically significant association between QCGE dimension ratings and the collaborative product grade](qcge-dimensions-nonsignificant-learning-outcome-grade.md) — related
 - [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](tefa-t-syntax-construct-validity-cfa.md) — related
+- [Confirmatory factor analysis supports both distinct 11-factor and four higher-order group structures of the Wheel across educational levels](wheel-cfa-structure-support.md) — related

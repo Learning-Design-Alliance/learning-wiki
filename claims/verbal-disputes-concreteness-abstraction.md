@@ -52,3 +52,4 @@ Theoretical argument applying philosophy of language: the article quotes Chalmer
 - [Students apply precision-of-language as a distinct evaluation criterion, flagging hedging phrases as open to interpretation and proposing concrete substitutions](precision-of-language-evaluation-criterion.md) — related
 - [A single representation can be abstract along one dimension and concrete along another, and concrete for one learner but abstract for another](representation-abstract-one-dimension-concrete-another.md) — related
 - [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — related
+- [Concreteness fading may not be as broadly generalizable across mathematics and natural science domains as has been suggested](concreteness-fading-limited-domain-generalizability.md) — related

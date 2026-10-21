@@ -52,3 +52,4 @@ The essay reports, citing Mayer and Moreno (2003), Guo et al. (2014), and Thomso
 - [Symbolic training transfers to the auditory modality, improving spoken number-word magnitude comparison](symbolic-training-transfers-verbal-comparison.md) — a narrower finding that bears on this claim
 - [Congruent pictures paired with text facilitate reading comprehension better than text alone or pictures alone](congruent-pictures-with-text-facilitate-comprehension.md) — a narrower finding that bears on this claim
 - [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](synced-audio-visual-presentation-better-learning.md) — related
+- [Observing gestures aids recall more when gestures provide complementary rather than redundant information (review attributes this to Austin et al., 2018)](nonredundant-observed-gestures-aid-recall.md) — a narrower finding that bears on this claim

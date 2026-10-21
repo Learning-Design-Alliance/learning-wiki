@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 198 claims (92 for, 98 mixed, 8 against) · 150 studies (51 associational, 41 causal, 20 review, 15 quant-synthesis, 10 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 36 of 150 report an effect size · 182 claims rest on one study
+> **Evidence** · 199 claims (92 for, 99 mixed, 8 against) · 151 studies (51 associational, 41 causal, 20 review, 15 quant-synthesis, 11 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 36 of 151 report an effect size · 183 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -245,6 +245,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [GenAI fluency corrupts metacognitive monitoring by producing cognitive ease that is misread as comprehension, weakening the regulation needed to keep offloading beneficial](../claims/metacognitive-trap-genai-fluency.md) [~W] — attached 2026-10-21 from Daiki Nakamura (2026), which proposed "Offloading regulation: a learning-oriented dimension of AI literacy comprising partition discernment, calibrated monitoring, disciplinary verification, and re-internalization".
 - [SRL interventions produce large average effects on academic and motivational outcomes, per meta-analytic syntheses](../claims/srl-interventions-large-average-effects.md) [~W]
 - [SRL intervention effects are moderated by delivery agent, duration, domain, and student age, with inconsistent duration findings](../claims/srl-intervention-moderators-agent-domain-age.md) [~W]
+- [Cognitive resources play a dual role in SR, both enabling self-regulatory processes and constraining how Learning Activities unfold](../claims/cognitive-resources-dual-role-enable-and-constrain-sr.md) [~W]
 
 ## The evidence by question
 

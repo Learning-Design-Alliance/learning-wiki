@@ -69,3 +69,4 @@ Linear regression found digit recall predicted declarative knowledge of features
 - [In primary school children learning javelin throwing, PS-I did not outperform I-PS on throwing distance or movement-feature execution](ps-i-no-advantage-primary-motor-learning.md) — related
 - [Prior knowledge and working memory capacity did not moderate the worked example effect](no-prior-knowledge-wmc-moderation-worked-examples.md) — related
 - [Movement-feature performance predicted javelin throwing distance, with the bracing step contributing most](movement-features-predict-throwing-distance.md) — related
+- [Only low-working-memory-capacity students benefited from making pointing gestures when explaining number equations (review attributes this to Marstaller & Burianová, 2013)](low-wmc-students-benefit-from-pointing-gestures.md) — related

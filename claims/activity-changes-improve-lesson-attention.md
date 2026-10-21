@@ -53,3 +53,4 @@ Narrative review attribution: the review cites Bunce et al. (2010) on attentiona
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [Student motivation, enjoyment, and engagement are higher in natural learning settings, including spillover to subsequent indoor lessons](nature-settings-boost-motivation-engagement.md) — related
 - [Scoping review identifies 64 brief, stand-alone, evidence-based PPIs potentially adaptable to classroom lesson timeframes](sixty-four-brief-stand-alone-ppis-identified.md) — related
+- [University students' visual engagement in real lectures is higher than practitioners often expect and can remain high despite fluctuations](student-engagement-higher-than-expected-real-lectures.md) — related

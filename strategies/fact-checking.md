@@ -59,9 +59,11 @@ Fact checking instruction improves learners' ability to evaluate online informat
 6. **Assess with transfer tasks.** Evaluate with novel sources not seen in instruction, since the goal is a portable disposition, not recall of a checklist [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
 
 ## Related Strategies
+
 - [Lateral Reading](lateral-reading.md) — the core professional technique that fact checking instruction centers on
 - [Source Evaluation](source-evaluation.md) — the broader judgment skill of which fact checking is the active, verification-based component
 - [Media Literacy Education](media-literacy-education.md) — the wider curriculum context addressing bias, framing, and production of media
+- [Teach students a broad set of strategies including sourcing, scrutinizing evidence, and corroboration to enable judging the accuracy of diverse online claims](broad-strategy-set-online-claim-accuracy.md)
 
 ## Examples
 - **Stanford History Education Group (SHEG) / Digital Inquiry Group** — curriculum built on the 2019 study of professional fact checkers; free lateral-reading lessons and assessments at [https://inquirygroup.org](https://inquirygroup.org)

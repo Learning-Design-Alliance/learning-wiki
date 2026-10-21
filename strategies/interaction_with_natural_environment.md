@@ -61,8 +61,10 @@ Nature exposure functions as a low-cost lever on the attentional resources that 
 - [Natural lighting and green window views benefit mood, sleep, cognition, and test performance](../claims/daylight-green-views-benefit-students.md) [+W]
 
 ## Related Strategies
+
 - Physical activity breaks — share the attention-restoration rationale; movement and green exposure are often combined
 - Classroom climate and lighting design — part of the same environmental-levers family alongside acoustics and air quality
+- [Provide autonomy-supportive outdoor play in nature-rich settings to foster children's creativity](autonomy-supportive-nature-play-creativity.md)
 
 ## Examples
 - **Li & Sullivan classroom window study (2016)**: high school students in classrooms with views of greenery showed significantly better attention test scores and stress recovery than peers facing built views or windowless walls

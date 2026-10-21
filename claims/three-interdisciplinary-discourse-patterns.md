@@ -47,3 +47,4 @@ Discourse and model analysis of the three cases: Group 2's model was based on th
 - [Groups' success in merging perspectives was related to the time they allocated to the interdisciplinary cognitive processes, especially transforming knowledge and critical stance](time-allocation-relates-to-merging-extent.md) — related
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
 - [Patterns of emergent leadership differed across disciplinary content areas, with some students leading in math but not history](leadership-patterns-vary-across-content-areas.md) — related
+- [Empirical studies across diverse learner populations show that people's epistemic aims, ideals, and processes are tailored to the information sources and tasks they engage in](epistemic-thinking-contextualized-tasks-sources.md) — a broader claim this one bears on

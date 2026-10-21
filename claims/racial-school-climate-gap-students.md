@@ -75,3 +75,4 @@ Two reports using Cal-SCHLS data from different years confirmed significant conn
 - [White teachers' deficit thinking about Black students produces a negative campus racial climate and unfriendly teacher-student relationships](deficit-thinking-negative-climate-relationships.md) — related
 - [Hispanic parents feel least able to support their children's high school work and report the least school support](hispanic-parents-least-able-support.md) — related
 - [National racial violence significantly reduced belonging and confidence among Black and Latinx STEM students relative to white peers](national-racial-violence-racialized-belonging-declines.md) — related
+- [Campus symbols such as antebellum architecture signal belonging to White and high-SES students and unwelcomeness to marginalized students](campus-symbols-signal-unwelcomeness-to-marginalized-students.md) — related

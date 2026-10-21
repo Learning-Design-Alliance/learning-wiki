@@ -50,3 +50,4 @@ The review attributes this synthesis to meta-analyses including Huang (2011), Va
 - [A meta-analysis of 68 longitudinal studies found prior achievement predicted subsequent self-concept and prior self-concept predicted subsequent achievement](wu-2021-meta-analysis-reciprocal-self-concept-achievement.md) — possibly the same claim (merge candidate)
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — related
 - [School grades tend to be more highly correlated with academic self-concept than standardized test scores](grades-more-correlated-with-self-concept-than-tests.md) — related
+- [STARTS model shows a positive effect of prior achievement on subsequent self-concept but no effect of prior self-concept on subsequent achievement](starts-null-self-concept-effect.md) — reports the opposite

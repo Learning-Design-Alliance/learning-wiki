@@ -47,3 +47,4 @@ Panel regression with fixed effects on 71,405 exams estimating "an average drop 
 - [Achievement across the four instructional units followed a non-linear, sinusoid-like pattern with a pronounced drop in the final measure, and a non-linear latent growth model fit better than a linear one](nonlinear-achievement-growth-pattern.md) — related
 - [Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M](scalar-instruction-interferes-with-vector-responses.md) — related
 - [Area-of-law-specific and general exam practice contribute about equally and independently to performance development](area-specific-and-general-practice-contribute-equally.md) — related
+- [Motivation and engagement relate cyclically: prior motivation predicts subsequent engagement and prior engagement predicts subsequent motivation](cyclical-motivation-engagement-relation.md) — related

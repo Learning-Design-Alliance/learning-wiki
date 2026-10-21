@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (65 show a difference, 18 mixed, 12 no difference) · 64 studies (22 causal, 19 associational, 9 quant-synthesis, 8 review, 3 design, 3 theoretical), `q1`–`q4` · 22 of 64 report an effect size · 90 claims rest on one study
+> **Evidence** · 101 claims (69 show a difference, 18 mixed, 14 no difference) · 65 studies (22 causal, 19 associational, 10 quant-synthesis, 8 review, 3 design, 3 theoretical), `q1`–`q4` · 23 of 65 report an effect size · 96 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -133,6 +133,12 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Writing shows the strongest FMS correlation among academic domains, exceeding reading](../claims/writing-strongest-academic-domain-fms.md) [+M] — learners who differ on it differ in outcomes
 - [Generative AI use shows divergent effects on creativity: weakened creative writing but increased creative problem-solving and idea quality](../claims/generative-ai-creativity-divergent-effects.md) [~M] — instruction changes it
 - [Students' historical argumentation rarely includes counterarguments or weighing of arguments](../claims/students-argumentation-lacks-counterarguments.md) [+M] — instruction changes it
+- [Contextual variables (educational level, language context, study design, duration, intensity) do not significantly moderate the effects of ICT-supported writing interventions](../claims/contextual-variables-no-moderation-ict-writing.md) [-W] — an instructional effect differs with it
+- [Digital game-based ICT was associated with significantly smaller effects on writing quality, but the finding rests on a single study](../claims/digital-games-smaller-writing-effects-single-study.md) [+W] — an instructional effect differs with it
+- [Dynamic (adaptive) scaffolding is linked to stronger effects of ICT-supported writing interventions](../claims/dynamic-scaffolding-stronger-writing-effects.md) [+W] — an instructional effect differs with it
+- [ICT-supported writing interventions targeting higher-level writing processes show a large overall positive effect on students' writing quality (g = 1.264)](../claims/ict-writing-interventions-large-overall-effect.md) [+W] — instruction changes it
+- [Merrill's instructional design principles and feedback features did not significantly moderate the effects of ICT-supported writing interventions](../claims/merrill-principles-feedback-no-moderation.md) [-W] — an instructional effect differs with it
+- [Written presentation of objectives and direct instruction are instructional activities linked to stronger effects of ICT-supported writing interventions](../claims/written-objectives-direct-instruction-moderate-effects.md) [+W] — an instructional effect differs with it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

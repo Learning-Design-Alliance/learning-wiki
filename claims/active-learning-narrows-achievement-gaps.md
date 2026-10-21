@@ -94,3 +94,4 @@ Both studies share a structure worth noting for design purposes: the achievement
 - [Socially disadvantaged children do not differ in physical fitness but score significantly lower on academic performance than non-disadvantaged peers](sdc-lower-academic-performance-equal-fitness.md) — related
 - [Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average](active-learning-narrows-passing-rate-gap-45-percent.md) — related
 - [Active learning reduces the examination-score achievement gap between minoritized-group and non-minoritized students in undergraduate STEM by 33% on average](active-learning-reduces-exam-achievement-gaps-33-percent.md) — related
+- [Active learning and inclusive practices are associated with better outcomes and reduced equity gaps, though evidence is contested and uptake remains low](active-learning-reduces-equity-gaps-contested.md) — a broader claim this one bears on

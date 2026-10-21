@@ -190,3 +190,5 @@ Finally, van de Pol et al. treat contingency as definitionally necessary for sca
 - [The association between tutor questioning and impasse recovery decays as impasses persist, while addressing the student's error becomes more beneficial](questioning-benefit-decays-with-impasse-depth.md) — related
 - [Current serious games give all learners the same unregulated scaffolding, which the authors argue contradicts the notion of scaffolding](blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion.md) — related
 - [Contingency is not treated as a necessary condition of scaffolding in bilingual education research, unlike broader educational research](contingency-not-necessary-condition-bilingual-education-scaffolding.md) — a narrower finding that bears on this claim
+- [Dynamic (adaptive) scaffolding is linked to stronger effects of ICT-supported writing interventions](dynamic-scaffolding-stronger-writing-effects.md) — related
+- [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](fading-out-prompts-beat-permanent-prompts.md) — related

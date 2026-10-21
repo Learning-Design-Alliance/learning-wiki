@@ -46,3 +46,4 @@ SEM path in the 1,264-student survey; the hardiness-to-reduced-accomplishment pa
 - [AI-assisted autonomous learning is negatively associated with hardiness among vocational college students](ai-autonomous-learning-negatively-associated-hardiness.md) — related
 - [AI-assisted autonomous learning is positively associated with reduced academic accomplishment](ai-autonomous-learning-positive-reduced-accomplishment.md) — related
 - [Hardiness shows its strongest burnout correlation with reduced academic accomplishment, while AI-assisted learning is not correlated with emotional exhaustion](correlation-pattern-hardiness-raa-strongest.md) — possibly the same claim (merge candidate)
+- [Teacher burnout dimensions show the strongest correlations with CMSE among teacher-level psychometric constructs](cmse-teacher-burnout-strongest-teacher-level-correlate.md) — related

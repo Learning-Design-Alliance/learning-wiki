@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 70 claims (21 for, 41 mixed, 8 against) · 50 studies (26 causal, 9 review, 5 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 16 of 50 report an effect size · 63 claims rest on one study
+> **Evidence** · 71 claims (22 for, 41 mixed, 8 against) · 51 studies (26 causal, 10 review, 5 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 16 of 51 report an effect size · 64 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 
 - [Contingency is not treated as a necessary condition of scaffolding in bilingual education research, unlike broader educational research](../claims/contingency-not-necessary-condition-bilingual-education-scaffolding.md) [~W]
 - [Scaffolding shows a moderate positive effect on conceptual learning outcomes in STEM pedagogical interventions other than direct instruction](../claims/scaffolding-moderate-effect-stem-conceptual-learning.md) [+W]
+- [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](../claims/fading-out-prompts-beat-permanent-prompts.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

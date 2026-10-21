@@ -41,6 +41,7 @@ The article recommends three methodological advances: complement self-report wit
 - [Use multimodal data channels combining subjective and objective measures to overcome single-channel constraints in SSRL research](multimodal-multichannel-ssrl-measurement.md)
 - [Integrate physiological, dialog, video, and self-report data to analyze collaboration at individual and group levels](multimodal-data-integration-collaborative-learning.md)
 - [Study effort regulation in real-world, personally relevant contexts over longer timeframes, including via ecological momentary assessment](study-effort-regulation-real-world-contexts.md)
+- [Adopt an integrative methodological toolkit using machine learning and computational models to capture SR's multi-level, temporal, and social dynamics](integrative-methodological-toolkit-machine-learning-sr.md)
 
 ## Examples
 -

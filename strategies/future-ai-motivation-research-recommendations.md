@@ -44,6 +44,7 @@ The review's forward-looking recommendations urge researchers to move "beyond is
 - [Integrate autonomy and agency paradigms, standardise instruments, probe non-demographic moderators, and extend evaluations to longitudinal real-world settings](integrate-paradigms-longitudinal-hri-autonomy-research.md)
 - [Research agenda for advancing transformative communication environments: sociocultural theory, conversational analysis, and beyond-face-to-face affordances](transformative-communication-research-agenda.md)
 - [Move beyond explorative expert-novice comparisons to hypothesis-driven designs investigating application of evidence-based pedagogical principles](hypothesis-driven-designs-beyond-expert-novice.md)
+- [Pursue new research avenues on motivation that serve both the field and practitioners](motivation-research-avenues-serving-field-and-practitioners.md)
 
 ## Examples
 -

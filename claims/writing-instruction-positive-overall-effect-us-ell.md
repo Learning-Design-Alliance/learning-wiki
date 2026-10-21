@@ -52,3 +52,4 @@ Meta-analytic synthesis of 39 treatment-control comparisons across 20 experiment
 - [Writing interventions improve writing quality, the most frequently assessed outcome, with an effect of 0.33 for US ELL students](writing-quality-effect-us-ell.md) — possibly the same claim (merge candidate)
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Strategy instruction significantly improves the writing of US ELL students (g = 0.36)](strategy-instruction-significant-us-ell-writing.md) — a narrower finding that bears on this claim
+- [ICT-supported writing interventions targeting higher-level writing processes show a large overall positive effect on students' writing quality (g = 1.264)](ict-writing-interventions-large-overall-effect.md) — related

@@ -22,7 +22,7 @@ sources:
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 38 claims (28 for, 10 mixed) · 53 studies (16 review, 15 causal, 14 quant-synthesis, 4 design, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 17 of 53 report an effect size · 24 claims rest on one study
+> **Evidence** · 39 claims (28 for, 11 mixed) · 54 studies (16 review, 15 causal, 14 quant-synthesis, 4 design, 3 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 17 of 54 report an effect size · 25 claims rest on one study
 
 ## Description and scope
 
@@ -165,6 +165,7 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [Zoo U subscales are intercorrelated in patterns the authors attribute to real-world overlap among social skills competencies](../claims/zoo-u-subscale-intercorrelations-expected-overlap.md) [~W]
 - [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](../claims/sel-interventions-improve-school-outcomes.md) [+W]
 - [Programme characteristics — longer duration, higher frequency, teacher delivery and older students — were tentatively associated with more significant well-being effects](../claims/meditation-programme-characteristics-moderators.md) [+W]
+- [Most school-based mental health programs reported in Australian schools were social and emotional learning programs, some without an evidence base](../claims/sel-dominates-school-mental-health-programs.md) [~W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — depends on the relationship skills SEL develops; the two patterns are mutually reinforcing when group work carries individual accountability

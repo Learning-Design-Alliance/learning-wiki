@@ -47,3 +47,4 @@ The review reports Henshaw's (1992) study, which "calls for eleven year-old reme
 - [Poor beginning readers overrely on a single information source rather than integrating all available cues](poor-readers-overrely-single-information-source.md) — related
 - [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) — related
 - [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](reader-fluency-prior-knowledge-moderate-redundancy.md) — related
+- [SR mechanisms across the four traditions intersect in redundant, complementary, and compensatory ways](sr-traditions-redundant-complementary-compensatory-interactions.md) — a broader claim this one bears on

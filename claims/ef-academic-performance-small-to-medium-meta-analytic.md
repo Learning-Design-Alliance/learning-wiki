@@ -72,3 +72,4 @@ The review reports, citing Jacob and Parkinson 2015, a ranked pattern across EF 
 - [Response inhibition shows a small negative association with reading fluency (r = −.15) in a single study](inhibition-reading-fluency-small-negative.md) — a narrower finding that bears on this claim
 - [Gender differences appear in academic achievement and several cognitive parameters but not in inhibition/interference or social skills](gender-differences-aa-cognitive-parameters.md) — related
 - [Executive functions show significant associations with reading outcomes in elementary school children (meta-analysis of 60 studies, 275 effect sizes)](ef-significantly-associated-with-reading-meta-analysis.md) — a narrower finding that bears on this claim
+- [Executive functions, especially working memory, inhibition, and cognitive flexibility, are consistently associated with core SRL activities](executive-functions-associated-with-core-srl-activities.md) — related

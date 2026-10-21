@@ -49,3 +49,4 @@ Set of random-effects meta-analyses per cognitive subdomain with SiN collapsed (
 - [Cognitive performance shows a pooled association of r = .31 with speech-in-noise perception across adult unaided listeners](cognition-sin-pooled-association-r31.md) — related
 - [Degree of unaided hearing loss (normal-to-mild vs normal-to-moderate) does not moderate the cognition–SiN association](hearing-loss-does-not-moderate-cognition-sin.md) — related
 - [The effects of physical activity on cognition and academic outcomes depend on the subdomain examined](physical-activity-effects-depend-on-subdomain.md) — related
+- [Males show a small but significant advantage on WISC crystallized intelligence (gC, d = 0.14), driven mainly by the Information subtest](wisc-crystallized-intelligence-male-advantage.md) — related

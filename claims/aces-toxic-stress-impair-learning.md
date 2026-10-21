@@ -83,3 +83,4 @@ The report presents the Center on the Developing Child at Harvard University's i
 - [Many students and staff will return to school with trauma that can adversely affect teaching and learning](covid-trauma-adversely-affects-teaching-and-learning.md) — a narrower finding that bears on this claim
 - [Coaching helped students manage daily stress and enhanced their sense of well-being and self-control](coaching-enhanced-well-being-stress-management.md) — related
 - [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](relationships-offset-trauma-effects.md) — related
+- [Stress-adapted children possess hidden talents that educators can take advantage of](hidden-talents-stress-adapted-children.md) — reports the opposite

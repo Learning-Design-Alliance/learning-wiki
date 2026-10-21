@@ -54,3 +54,4 @@ Narrative review of Sidi et al. (2015), university students solving CRT reasonin
 - [Reading text and presenting graphics on handheld screens are more difficult than on paper, and interactivity may be compromised](small-screen-usability-limitations.md) — related
 - [Disfluency does not automatically elicit effortful processing; test expectancy improves retention and transfer while disfluency has no effect](disfluency-no-effect-test-expectancy.md) — related
 - [Neither disfluency nor distinctiveness affected memory across three experiments with alien-list stimuli](disfluency-distinctiveness-null-rummer.md) — related
+- [Low to medium disfluency does not harm learning and sometimes descriptively improves it, though the effect is unstable](disfluency-low-levels-not-harm-learning.md) — related

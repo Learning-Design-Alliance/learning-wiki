@@ -46,3 +46,4 @@ Authors' interpretive argument from their own experience as students and parents
 - [Creativity in IDC starts with imitation, which the commentary argues hatches rather than opposes creation](imitation-hatches-creativity.md) — related
 - [IDC's interest cycle requires educators to treat interests as launching points for deeper immersion, not static topics](interest-cycle-triggering-immersing-extending.md) — related
 - [The commentary poses harmony as IDC's boldest and most challenging concept for Western readers](harmony-boldest-idc-concept.md) — related
+- [School or cultural contexts are framed as sustaining student motivation](school-cultural-contexts-sustain-motivation.md) — a broader claim this one bears on

@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 39 claims (19 show a difference, 14 mixed, 6 no difference) · 22 studies (10 associational, 4 causal, 4 review, 3 theoretical, 1 quant-synthesis), `q2`–`q4` · 10 of 22 report an effect size · 37 claims rest on one study
+> **Evidence** · 43 claims (22 show a difference, 15 mixed, 6 no difference) · 23 studies (10 associational, 4 causal, 4 review, 3 theoretical, 2 quant-synthesis), `q2`–`q4` · 10 of 23 report an effect size · 41 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -74,6 +74,10 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Performance-approach goals are positively related to anxiety (r = .15) but not significantly related to depression (r = .05)](../claims/performance-approach-goals-anxiety-not-depression.md) [~M] — learners who differ on it differ in outcomes
 - [Performance-avoidance goals are positively related to both anxiety (r = .25) and depression (r = .16)](../claims/performance-avoidance-goals-positive-internalizing-meta.md) [+M] — learners who differ on it differ in outcomes
 - [The goal–internalizing relations are moderated by goal terminology, goal setting, education level, goal model, and cultural context](../claims/moderators-achievement-goals-internalizing.md) [~M] — learners who differ on it differ in outcomes
+- [Achievement goals and achievement emotions are systematically interrelated across 2,644 effect sizes from 355 studies](../claims/goals-emotions-interrelations-meta-analysis.md) [+M] — learners who differ on it differ in outcomes
+- [Facets of mastery goals, but not population, moderate goal-emotion interrelations](../claims/mastery-facets-moderate-goal-emotion-links.md) [~M] — an instructional effect differs with it
+- [Mastery and performance goals show associations with both activity and outcome emotions](../claims/mastery-performance-goals-activity-outcome-emotions.md) [+M] — learners who differ on it differ in outcomes
+- [Work-avoidance goals are particularly related to negative activity emotions](../claims/work-avoidance-goals-negative-activity-emotions.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

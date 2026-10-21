@@ -49,3 +49,4 @@ Meta-analytic subset of the systematic review comparing interleaved versus block
 - [Interleaving is most useful when differences between items are subtle; blocking can be preferable when category members are diverse](interleaving-similarity-boundary-condition.md) — related
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — possibly the same claim (merge candidate)
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — related
+- [Interleaved practice yields better category learning than blocked practice, and students who choose interleaved practice outperform those who choose blocked practice on novel materials](interleaving-effect-category-learning-paintings.md) — possibly the same claim (merge candidate)

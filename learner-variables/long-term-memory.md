@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 88 claims (59 show a difference, 19 mixed, 10 no difference) · 58 studies (23 causal, 14 review, 11 quant-synthesis, 4 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 22 of 58 report an effect size · 81 claims rest on one study
+> **Evidence** · 90 claims (59 show a difference, 20 mixed, 11 no difference) · 60 studies (23 causal, 15 review, 12 quant-synthesis, 4 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 23 of 60 report an effect size · 83 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -123,6 +123,8 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [In Experiment 1, the interim learning task did not affect Phase A posttest performance, indicating the forward benefit was not due to improved prior learning](../claims/no-backward-effect-phase-a-null.md) [-M] — instruction changes it
 - [Motor activities combined with high integration and high relevance produce the largest positive effects on memory, per a meta-analysis cited by the review](../claims/high-integration-relevance-motor-activity-memory-effects.md) [+M] — instruction changes it
 - [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](../claims/fluency-misleads-judgments-of-learning.md) [+M] — instruction changes it
+- [High and low CI practice do not differ significantly in overall relatively permanent gains (Δ pre-retention)](../claims/ci-no-long-term-gain-difference.md) [-M] — instruction changes it
+- [Only low-working-memory-capacity students benefited from making pointing gestures when explaining number equations (review attributes this to Marstaller & Burianová, 2013)](../claims/low-wmc-students-benefit-from-pointing-gestures.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.
