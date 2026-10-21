@@ -55,3 +55,4 @@ Case study data: a biology student described retaining little across 20-minute v
 - [Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video](segmenting-supports-video-engagement-learning.md) — related
 - [Changing activities during lessons improves student attention during the activity and subsequent lecture segments](activity-changes-improve-lesson-attention.md) — related
 - [Recorded lectures are a controversial accessibility strategy: faculty cite decimated attendance and poorer grades, while acknowledging benefits for some student groups](recorded-lectures-controversial-accessibility-strategy.md) — related
+- [Continuously thematically structured lectures led to worse free recall than discontinuous lectures, contrary to intuition](lecture-structure-worse-recall-continuous.md) — related

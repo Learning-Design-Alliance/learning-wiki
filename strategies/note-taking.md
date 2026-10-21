@@ -64,6 +64,7 @@ Note taking improves learning primarily when it requires generative processing �
 - [Concept Mapping](../elements/concept-mapping.md) — a graphical note format that makes relationships explicit [Concept mapping improves learning.](../claims/concept-mapping-improves-learning.md) [+M]
 - [Retrieval Practice](../principles/retrieval-practice.md) — the most effective way to use notes after the fact
 - [Assign guided or scaffolded note-taking to be completed while watching lecture videos to keep video viewing active rather than passive](guided-note-taking-while-watching-videos.md)
+- [Advise students on note-taking conditionally: consider cognitive ability, lecture format, and note-taking method rather than recommending note-taking universally](conditional-note-taking-advice.md)
 
 ## Examples
 - **Cornell Notes system** — page divided into cues, notes, and summary columns; widely adopted in K–12 study-skills curricula ([https://en.wikipedia.org/wiki/Cornell_Notes](https://en.wikipedia.org/wiki/Cornell_Notes))

@@ -68,3 +68,4 @@ Interview study on misuse of data and consequences; thematic analysis identified
 - [Maritime students supported MMLA but preferred on-demand post-simulation access via mobile application over real-time in-simulation dashboards](students-support-mmla-prefer-post-hoc-mobile-access.md) — related
 - Researchers may need to treat all remotely collected data as potentially identifiable personal data — related
 - [Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development](neurophysiological-ai-ethics-consent-transparency.md) — related
+- [Arts-based methods in community-based research raise specific ethical challenges around anonymity, ownership, representation and emotions, alongside practical limits of time, training and cost](abr-ethical-practical-challenges.md) — related

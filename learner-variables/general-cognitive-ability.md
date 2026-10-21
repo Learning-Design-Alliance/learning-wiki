@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 89 claims (58 show a difference, 18 mixed, 13 no difference) · 61 studies (23 associational, 19 causal, 9 review, 6 quant-synthesis, 4 theoretical), `q1`–`q4` · 16 of 61 report an effect size · 86 claims rest on one study
+> **Evidence** · 90 claims (58 show a difference, 19 mixed, 13 no difference) · 62 studies (23 associational, 19 causal, 10 review, 6 quant-synthesis, 4 theoretical), `q1`–`q4` · 16 of 62 report an effect size · 87 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -125,6 +125,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Building extensive, well-organized domain knowledge may enhance functional use of intelligence in novel problems](../claims/organized-knowledge-enhances-functional-intelligence.md) [~W] — learners who differ on it differ in outcomes
 - [Intelligence is positively associated with SPT accuracy, with strength varying by measure](../claims/intelligence-correlates-with-spt-accuracy.md) [+M] — learners who differ on it differ in outcomes
 - [The present results replicate Donati et al.'s (2019) finding that interference and lack of confidence, but not worry, relate to arithmetic test performance, extending it to unique variance and domain-general intelligence](../claims/replication-donati-interference-lack-confidence.md) [+M] — learners who differ on it differ in outcomes
+- [Cognitive ability moderates the encoding effect: higher-ability students benefit more, and lower-ability students may be harmed by note-taking](../claims/cognitive-ability-moderates-encoding-effect.md) [~W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

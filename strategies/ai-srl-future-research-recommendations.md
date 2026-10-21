@@ -49,6 +49,7 @@ Based on identified gaps, the review recommends that future reviews use "broader
 - [Future shared story reading research should extend to nonfiction texts, inclusive settings, and include practicality statements](shared-story-reading-future-research-directions.md)
 - [Research and practice recommendations: activate knowledge during and after reading, study narrative texts and younger learners, and clarify definitions](activation-research-recommendations-hattan-review.md)
 - [Broaden search terminology and bibliographic databases in future eWIL reviews](ewil-future-review-search-strategy.md)
+- [Use broad and specific keywords and develop methodological search filters to improve retrieval of arts-based research](abr-keyword-indexation-strategy.md)
 
 ## Examples
 -

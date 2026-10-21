@@ -26,7 +26,7 @@ sources:
 # Note-taking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (7 for, 7 mixed) · 29 studies (10 causal, 7 quant-synthesis, 6 review, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 10 of 29 report an effect size · 4 claims rest on one study
+> **Evidence** · 19 claims (9 for, 10 mixed) · 30 studies (10 causal, 7 quant-synthesis, 7 review, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 10 of 30 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,11 @@ Note completeness, note accuracy, immediate performance, delayed retention, tran
 ## Claims
 
 - [Taking and reviewing handwritten notes yields slightly higher achievement than typing notes among college students, by one meta-analysis reported second-hand](../claims/handwritten-notes-higher-achievement-than-typing.md) [~W]
+- [Laptop versus longhand note-taking effects are mixed: typing benefited memory in some studies but longhand benefited conceptual questions in others](../claims/laptop-longhand-divergent-effects.md) [~W]
+- [Spaced note-taking during lecture breaks outperformed parallel and no note-taking, and memory was worse at once-double lecture speed](../claims/lecture-speed-spaced-note-taking-aiken.md) [+W]
+- [Better note quality and quantity relate to better memory, verbatim overlap relates negatively, and noted propositions are far more likely to be recalled](../claims/note-quality-quantity-verbatim-overlap-effects.md) [+W]
+- [Transcribed versus organised note-taking effects depend on lecture format: transcription won with audio lectures, summarising won with text](../claims/note-structure-transcribe-organise-format-dependent.md) [~W]
+- [Test format and timing moderate note-taking effects: congruent note-taking and testing modalities improved performance, and transcribed notes won only at immediate test](../claims/test-format-timing-moderate-note-taking-effects.md) [~W]
 
 ## Related Principles
 - [Graphic Organizers](graphic-organizers.md) — graphic note formats can make structure and relationships more visible.

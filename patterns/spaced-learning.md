@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 43 claims (21 for, 21 mixed, 1 against) · 29 studies (14 causal, 7 quant-synthesis, 5 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 29 report an effect size · 38 claims rest on one study
+> **Evidence** · 44 claims (22 for, 21 mixed, 1 against) · 30 studies (14 causal, 7 quant-synthesis, 6 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 30 report an effect size · 39 claims rest on one study
 
 ## Description
 
@@ -118,6 +118,10 @@ Twenty-one more were linked to this page by the orphan-claim linker after that a
 Karpicke & Bauernschmidt (2011), [author-hosted full text](https://learninglab.psych.purdue.edu/downloads/2011/2011_Karpicke_Bauernschmidt_JEPLMC.pdf). Method and results checked for the bounded contrast above.
 
 The examples are local design instances, not additional observations from those studies. Test the proposed interpretation and activity branches with new learner responses; compare competing designs under matched conditions before claiming a causal or predictive advantage. Reassess the model when the observations disagree with it.
+
+## Claims
+
+- [Spaced note-taking during lecture breaks outperformed parallel and no note-taking, and memory was worse at once-double lecture speed](../claims/lecture-speed-spaced-note-taking-aiken.md) [+W]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

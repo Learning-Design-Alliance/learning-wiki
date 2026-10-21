@@ -36706,5 +36706,117 @@
  "scaffolding\tscaffolded STEM interventions\tunstated comparator": {
   "label": "scaffolded vs unscaffolded",
   "treatment_is_a": true
+ },
+ "active-learning\tarts-based participatory methods\tresearch conducted on participants using conventional methods": {
+  "label": "active/participatory methods vs conventional/passive methods",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tcreativity-supportive environment with autonomy, creative expression, and play-based learning\tnot stated": {
+  "label": "autonomy-supportive environment vs unspecified environment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tphonics instruction\tbaseline or comparison conditions": {
+  "label": "phonics instruction vs comparison/no phonics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tphonics instruction\tcomparison conditions": {
+  "label": "phonics instruction vs comparison/no phonics instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tspecific creativity training programs or techniques\tnot stated": {
+  "label": "specific creativity instruction vs no stated instruction",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcognitive feedback content\tmetacognitive feedback content": {
+  "label": "cognitive feedback vs metacognitive feedback",
+  "treatment_is_a": true
+ },
+ "learner-difference\t14 constructs examined\t5 proposed constructs not examined": {
+  "label": "constructs examined vs constructs proposed but not examined",
+  "treatment_is_a": true
+ },
+ "learner-difference\t14-year-olds\t10-year-olds": {
+  "label": "older learners vs younger learners",
+  "treatment_is_a": true
+ },
+ "learner-difference\t16PF specification-equation index\tGRE score": {
+  "label": "16PF specification-equation index vs GRE score",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 Hispanic-White adjusted reading gap\t2010 Hispanic-White adjusted reading gap": {
+  "label": "2017 adjusted Hispanic-White reading gap vs 2010 adjusted Hispanic-White reading gap",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 kindergarten cohort\t2010 kindergarten cohort": {
+  "label": "2017 kindergarten cohort vs 2010 kindergarten cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 race/ethnicity achievement inequalities\t2010 race/ethnicity achievement inequalities": {
+  "label": "2017 race/ethnicity achievement inequalities vs 2010 race/ethnicity achievement inequalities",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 race/ethnicity gaps\t2010 race/ethnicity gaps": {
+  "label": "2017 race/ethnicity gaps vs 2010 race/ethnicity gaps",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 resource-need rankings\t2016 resource-need rankings": {
+  "label": "2017 resource-need rankings vs 2016 resource-need rankings",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 school-poverty achievement inequalities\t2010 school-poverty achievement inequalities": {
+  "label": "2017 school-poverty achievement inequalities vs 2010 school-poverty achievement inequalities",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 school-poverty gaps\t2010 school-poverty gaps": {
+  "label": "2017 school-poverty gaps vs 2010 school-poverty gaps",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017 survey respondents\t2016 survey respondents": {
+  "label": "2017 survey respondents vs 2016 survey respondents",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017/18 graduating class\t2013/14 graduating class": {
+  "label": "2017/18 graduating class vs 2013/14 graduating class",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2017–18 secondary-school suspension rates\t2011–12 secondary-school suspension rates": {
+  "label": "2017–18 secondary-school suspension rates vs 2011–12 secondary-school suspension rates",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2018 Category IV Black/African American students\t2017 not-college-ready Black/African American students": {
+  "label": "2018 Category IV Black/African American students vs 2017 not-college-ready Black/African American students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2018 Category IV Hispanic/Latino students\t2017 not-college-ready Hispanic/Latino students": {
+  "label": "2018 Category IV Hispanic/Latino students vs 2017 not-college-ready Hispanic/Latino students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2018 QR Category III\t2017 QR not college ready": {
+  "label": "2018 QR Category III vs 2017 QR not college ready",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2018 QR Category III students\t2017 QR 'not college ready' students": {
+  "label": "2018 QR Category III students vs 2017 QR not-college-ready students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2018 QR Category IV\t2017 QR not college ready": {
+  "label": "2018 QR Category IV vs 2017 QR not college ready",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2018 QR placement categories III and IV\t2017 students designated not college ready": {
+  "label": "2018 QR placement Categories III and IV vs 2017 not-college-ready students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2018 kindergarten EL cohort\t2006 kindergarten EL cohort": {
+  "label": "2018 kindergarten EL cohort vs 2006 kindergarten EL cohort",
+  "treatment_is_a": true
+ },
+ "media-design\tstructured audio lecture with organizational keywords\tsame audio lecture without organizational keywords": {
+  "label": "organizational keywords vs no organizational keywords",
+  "treatment_is_a": true
+ },
+ "media-design\twritten lecture material\tspoken or video lecture material": {
+  "label": "written vs spoken or video",
+  "treatment_is_a": true
  }
 }

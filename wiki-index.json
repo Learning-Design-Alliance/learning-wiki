@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":22989,
+"claim":23034,
 "design":966,
 "element":1057,
 "learner-variable":75,
@@ -8,9 +8,9 @@
 "pattern":54,
 "principle":170,
 "process":18,
-"product":1833,
-"research-method":527,
-"strategy":6362,
+"product":1836,
+"research-method":531,
+"strategy":6368,
 "theory":1359
 },
 "kinds":[
@@ -2838,6 +2838,60 @@
 "path":"claims/above-norm-score-gains-peer-ability-spillover.md",
 "status":"review",
 "title":"In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra",
+"type":"claim"
+},
+{
+"description":"Photography was the most popular visual art form, theatre the most used performing art form, and poetry the most used literary art form in community-based arts-based research, with 64% of studies combining multiple ar...",
+"evidence_strength":"moderate",
+"id":"abr-art-form-distribution-community-research",
+"path":"claims/abr-art-form-distribution-community-research.md",
+"status":"review",
+"title":"Photography was the most popular visual art form, theatre the most used performing art form, and poetry the most used literary art form in community-based arts-based research, with 64% of studies combining multiple art genres",
+"type":"claim"
+},
+{
+"description":"Arts-based methods in community-based research with vulnerable populations grew steadily in use from 1993 to 2013, with 90% of the 131 reviewed studies published between 2004 and 2013",
+"evidence_strength":"moderate",
+"id":"abr-community-based-inquiry-growth-1993-2013",
+"path":"claims/abr-community-based-inquiry-growth-1993-2013.md",
+"status":"review",
+"title":"Arts-based methods in community-based research with vulnerable populations grew steadily in use from 1993 to 2013, with 90% of the 131 reviewed studies published between 2004 and 2013",
+"type":"claim"
+},
+{
+"description":"Analyzing arts-based data was one of the biggest challenges in community-based arts-based research: what counts as data was unclear, conventional textual analyses dominated, and researcher-led versus participant-led i...",
+"evidence_strength":"moderate",
+"id":"abr-data-analysis-challenge",
+"path":"claims/abr-data-analysis-challenge.md",
+"status":"review",
+"title":"Analyzing arts-based data was one of the biggest challenges in community-based arts-based research: what counts as data was unclear, conventional textual analyses dominated, and researcher-led versus participant-led interpretation each risked stereotyping",
+"type":"claim"
+},
+{
+"description":"Arts-based methods in community-based research raise specific ethical challenges around anonymity, ownership, representation and emotions, alongside practical limits of time, training and cost",
+"evidence_strength":"moderate",
+"id":"abr-ethical-practical-challenges",
+"path":"claims/abr-ethical-practical-challenges.md",
+"status":"review",
+"title":"Arts-based methods in community-based research raise specific ethical challenges around anonymity, ownership, representation and emotions, alongside practical limits of time, training and cost",
+"type":"claim"
+},
+{
+"description":"Researchers adopt arts-based methods in community-based inquiry to challenge language-oriented methods, reduce power imbalances, give voice to vulnerable participants, engage hard-to-verbalize issues, motivate partici...",
+"evidence_strength":"weak",
+"id":"abr-rationales-vulnerable-populations",
+"path":"claims/abr-rationales-vulnerable-populations.md",
+"status":"review",
+"title":"Researchers adopt arts-based methods in community-based inquiry to challenge language-oriented methods, reduce power imbalances, give voice to vulnerable participants, engage hard-to-verbalize issues, motivate participation, and reach wider audiences",
+"type":"claim"
+},
+{
+"description":"Reported strengths of arts-based methods include participant-driven engagement, personal, institutional and audience transformation, and richer data than traditional interviews, but few studies evaluated these outcomes",
+"evidence_strength":"weak",
+"id":"abr-reported-strengths-transformation",
+"path":"claims/abr-reported-strengths-transformation.md",
+"status":"review",
+"title":"Reported strengths of arts-based methods include participant-driven engagement, personal, institutional and audience transformation, and richer data than traditional interviews, but few studies evaluated these outcomes",
 "type":"claim"
 },
 {
@@ -30068,6 +30122,24 @@
 "type":"claim"
 },
 {
+"description":"Children's neuroticism is negatively associated with positive parent–child relationships and positively associated with negative parent–child relationships",
+"evidence_strength":"moderate",
+"id":"child-neuroticism-parent-child-relationship-quality",
+"path":"claims/child-neuroticism-parent-child-relationship-quality.md",
+"status":"review",
+"title":"Children's neuroticism is negatively associated with positive parent–child relationships and positively associated with negative parent–child relationships",
+"type":"claim"
+},
+{
+"description":"Children's agreeableness, conscientiousness, extraversion, and openness are positively associated with positive parent–child relationships and negatively associated with negative parent–child relationships",
+"evidence_strength":"moderate",
+"id":"child-positive-personality-traits-parent-child-relationship-quality",
+"path":"claims/child-positive-personality-traits-parent-child-relationship-quality.md",
+"status":"review",
+"title":"Children's agreeableness, conscientiousness, extraversion, and openness are positively associated with positive parent–child relationships and negatively associated with negative parent–child relationships",
+"type":"claim"
+},
+{
 "description":"Child self-control at baseline is negatively associated with parents' work-family conflict at baseline and fathers' conflict at wave two",
 "evidence_strength":"weak",
 "id":"child-self-control-negatively-linked-parent-wfc",
@@ -34123,6 +34195,15 @@
 "type":"claim"
 },
 {
+"description":"Cognitive ability moderates the encoding effect: higher-ability students benefit more, and lower-ability students may be harmed by note-taking",
+"evidence_strength":"moderate",
+"id":"cognitive-ability-moderates-encoding-effect",
+"path":"claims/cognitive-ability-moderates-encoding-effect.md",
+"status":"review",
+"title":"Cognitive ability moderates the encoding effect: higher-ability students benefit more, and lower-ability students may be harmed by note-taking",
+"type":"claim"
+},
+{
 "description":"Cognitive ability is expected to moderate exploration effects: enhancing metacognition for high-ability trainees but inhibiting it for low-ability trainees",
 "evidence_strength":"weak",
 "id":"cognitive-ability-moderates-exploration-metacognition",
@@ -34201,6 +34282,15 @@
 "path":"claims/cognitive-capability-dominance-benefit-rarely-mentioned.md",
 "status":"review",
 "title":"Most direct SRL promotion targeted cognitive capabilities and rarely mentioned the benefit of strategy use",
+"type":"claim"
+},
+{
+"description":"Cognitive feedback comments were the most frequently identified content in online peer feedback studies",
+"evidence_strength":"moderate",
+"id":"cognitive-content-most-frequent-online-peer-feedback",
+"path":"claims/cognitive-content-most-frequent-online-peer-feedback.md",
+"status":"review",
+"title":"Cognitive feedback comments were the most frequently identified content in online peer feedback studies",
 "type":"claim"
 },
 {
@@ -44012,6 +44102,15 @@
 "path":"claims/creativity-predicts-learning-enjoyment.md",
 "status":"review",
 "title":"Creativity estimate significantly predicts physics learning and game enjoyment",
+"type":"claim"
+},
+{
+"description":"Creativity-supportive school climates combine autonomy, psychological safety, teacher encouragement, and rich resources",
+"evidence_strength":"moderate",
+"id":"creativity-supportive-climate-factors",
+"path":"claims/creativity-supportive-climate-factors.md",
+"status":"review",
+"title":"Creativity-supportive school climates combine autonomy, psychological safety, teacher encouragement, and rich resources",
 "type":"claim"
 },
 {
@@ -67051,6 +67150,15 @@
 "type":"claim"
 },
 {
+"description":"Explicit creativity training programs are effective in fostering creativity in formal schooling",
+"evidence_strength":"moderate",
+"id":"explicit-creativity-training-programs-effective",
+"path":"claims/explicit-creativity-training-programs-effective.md",
+"status":"review",
+"title":"Explicit creativity training programs are effective in fostering creativity in formal schooling",
+"type":"claim"
+},
+{
 "description":"Both physical and virtual training conditions produced equal gains in children's explicit verbal knowledge of the control of variables strategy",
 "evidence_strength":"moderate",
 "id":"explicit-cvs-knowledge-equal-conditions",
@@ -70688,6 +70796,15 @@
 "path":"claims/few-student-subgroup-impact-differences-significant.md",
 "status":"review",
 "title":"Student subgroup impact differences were rarely statistically significant: six of 288 differences in the second cohort and eight of 360 subgroup analyses in the follow-up year.",
+"type":"claim"
+},
+{
+"description":"Only six reviewed studies combined peer feedback with feedback from other sources",
+"evidence_strength":"moderate",
+"id":"few-studies-combine-multi-source-feedback",
+"path":"claims/few-studies-combine-multi-source-feedback.md",
+"status":"review",
+"title":"Only six reviewed studies combined peer feedback with feedback from other sources",
 "type":"claim"
 },
 {
@@ -90178,6 +90295,24 @@
 "type":"claim"
 },
 {
+"description":"Ideation-based interventions are a robustly implemented explicit approach that improves creative performance",
+"evidence_strength":"moderate",
+"id":"ideation-interventions-improve-creative-performance",
+"path":"claims/ideation-interventions-improve-creative-performance.md",
+"status":"review",
+"title":"Ideation-based interventions are a robustly implemented explicit approach that improves creative performance",
+"type":"claim"
+},
+{
+"description":"Ideation training benefits transfer by domain: verbal training raised verbal and figural creativity, figural training only figural",
+"evidence_strength":"weak",
+"id":"ideation-training-domain-specific-transfer",
+"path":"claims/ideation-training-domain-specific-transfer.md",
+"status":"review",
+"title":"Ideation training benefits transfer by domain: verbal training raised verbal and figural creativity, figural training only figural",
+"type":"claim"
+},
+{
 "description":"Identical example–problem pairs showed an early order advantage but no detected final-test difference",
 "evidence_strength":"moderate",
 "id":"identical-example-problem-order-advantage-not-detected-at-final-test",
@@ -91365,6 +91500,15 @@
 "path":"claims/implicit-not-superior-complex-rules.md",
 "status":"review",
 "title":"Implicit learners do not outperform other learners on complex second language rules",
+"type":"claim"
+},
+{
+"description":"Implicit pedagogical approaches—inquiry, open-ended tasks, cross-disciplinary and student-centered learning—contribute significantly to creativity development",
+"evidence_strength":"moderate",
+"id":"implicit-pedagogies-foster-creativity",
+"path":"claims/implicit-pedagogies-foster-creativity.md",
+"status":"review",
+"title":"Implicit pedagogical approaches—inquiry, open-ended tasks, cross-disciplinary and student-centered learning—contribute significantly to creativity development",
 "type":"claim"
 },
 {
@@ -92572,6 +92716,15 @@
 "path":"claims/individual-reflection-prompts-insufficient-vocational-students.md",
 "status":"review",
 "title":"Individually processed reflection prompts alone were insufficient to foster knowledge acquisition in secondary vocational students",
+"type":"claim"
+},
+{
+"description":"Individual engagement with an educational robot yielded greater divergent-thinking gains than pair work",
+"evidence_strength":"weak",
+"id":"individual-robot-engagement-beats-pairs-divergent-thinking",
+"path":"claims/individual-robot-engagement-beats-pairs-divergent-thinking.md",
+"status":"review",
+"title":"Individual engagement with an educational robot yielded greater divergent-thinking gains than pair work",
 "type":"claim"
 },
 {
@@ -96381,6 +96534,15 @@
 "path":"claims/intervention-year-els-reached-higher-developmental-levels.md",
 "status":"review",
 "title":"Intervention-year ELs reached higher DRDP developmental levels by spring than prior-year ELs, while Non-ELs showed no discernable difference or a slight prior-year advantage",
+"type":"claim"
+},
+{
+"description":"Type of interventionist was not a significant moderator of phonics instruction effects on decoding for students with intellectual disability",
+"evidence_strength":"moderate",
+"id":"interventionist-type-not-significant-moderator-phonics-id",
+"path":"claims/interventionist-type-not-significant-moderator-phonics-id.md",
+"status":"review",
+"title":"Type of interventionist was not a significant moderator of phonics instruction effects on decoding for students with intellectual disability",
 "type":"claim"
 },
 {
@@ -101944,6 +102106,15 @@
 "type":"claim"
 },
 {
+"description":"Laptop versus longhand note-taking effects are mixed: typing benefited memory in some studies but longhand benefited conceptual questions in others",
+"evidence_strength":"mixed",
+"id":"laptop-longhand-divergent-effects",
+"path":"claims/laptop-longhand-divergent-effects.md",
+"status":"review",
+"title":"Laptop versus longhand note-taking effects are mixed: typing benefited memory in some studies but longhand benefited conceptual questions in others",
+"type":"claim"
+},
+{
 "description":"",
 "evidence_strength":"weak",
 "id":"laptop-notes-verbatim-shallower",
@@ -104393,6 +104564,33 @@
 "path":"claims/lecture-decreases-discussion-groupwork-increase-engagement.md",
 "status":"review",
 "title":"Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more",
+"type":"claim"
+},
+{
+"description":"Lecture modality (written, audio, video, live) shows no consistent effect on memory for lecture content or on the note-taking effect",
+"evidence_strength":"weak",
+"id":"lecture-modality-no-effect-note-taking-memory",
+"path":"claims/lecture-modality-no-effect-note-taking-memory.md",
+"status":"review",
+"title":"Lecture modality (written, audio, video, live) shows no consistent effect on memory for lecture content or on the note-taking effect",
+"type":"claim"
+},
+{
+"description":"Spaced note-taking during lecture breaks outperformed parallel and no note-taking, and memory was worse at once-double lecture speed",
+"evidence_strength":"weak",
+"id":"lecture-speed-spaced-note-taking-aiken",
+"path":"claims/lecture-speed-spaced-note-taking-aiken.md",
+"status":"review",
+"title":"Spaced note-taking during lecture breaks outperformed parallel and no note-taking, and memory was worse at once-double lecture speed",
+"type":"claim"
+},
+{
+"description":"Continuously thematically structured lectures led to worse free recall than discontinuous lectures, contrary to intuition",
+"evidence_strength":"weak",
+"id":"lecture-structure-worse-recall-continuous",
+"path":"claims/lecture-structure-worse-recall-continuous.md",
+"status":"review",
+"title":"Continuously thematically structured lectures led to worse free recall than discontinuous lectures, contrary to intuition",
 "type":"claim"
 },
 {
@@ -115584,6 +115782,15 @@
 "type":"claim"
 },
 {
+"description":"A meta-synthesis of 90 qualitative studies across 26 countries identifies adolescents' positive online experiences with digital flourishing",
+"evidence_strength":"moderate",
+"id":"meta-synthesis-90-studies-adolescent-digital-flourishing",
+"path":"claims/meta-synthesis-90-studies-adolescent-digital-flourishing.md",
+"status":"review",
+"title":"A meta-synthesis of 90 qualitative studies across 26 countries identifies adolescents' positive online experiences with digital flourishing",
+"type":"claim"
+},
+{
 "description":"In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05",
 "evidence_strength":"moderate",
 "id":"meta-utaut-hypotheses-accepted-mall-efl",
@@ -118120,6 +118327,15 @@
 "path":"claims/mixed-evidence-network-density-course-outcomes.md",
 "status":"review",
 "title":"Evidence that classroom network structure relates to course outcomes under interactive pedagogies is mixed",
+"type":"claim"
+},
+{
+"description":"Developmental patterns for general creativity and some subdimensions are less pronounced when tasks combine figural and verbal responses",
+"evidence_strength":"moderate",
+"id":"mixed-figural-verbal-response-tasks-weaker-patterns",
+"path":"claims/mixed-figural-verbal-response-tasks-weaker-patterns.md",
+"status":"review",
+"title":"Developmental patterns for general creativity and some subdimensions are less pronounced when tasks combine figural and verbal responses",
 "type":"claim"
 },
 {
@@ -129444,6 +129660,24 @@
 "type":"claim"
 },
 {
+"description":"Better note quality and quantity relate to better memory, verbatim overlap relates negatively, and noted propositions are far more likely to be recalled",
+"evidence_strength":"moderate",
+"id":"note-quality-quantity-verbatim-overlap-effects",
+"path":"claims/note-quality-quantity-verbatim-overlap-effects.md",
+"status":"review",
+"title":"Better note quality and quantity relate to better memory, verbatim overlap relates negatively, and noted propositions are far more likely to be recalled",
+"type":"claim"
+},
+{
+"description":"Transcribed versus organised note-taking effects depend on lecture format: transcription won with audio lectures, summarising won with text",
+"evidence_strength":"mixed",
+"id":"note-structure-transcribe-organise-format-dependent",
+"path":"claims/note-structure-transcribe-organise-format-dependent.md",
+"status":"review",
+"title":"Transcribed versus organised note-taking effects depend on lecture format: transcription won with audio lectures, summarising won with text",
+"type":"claim"
+},
+{
 "description":"Notetaking as a feedback tool facilitates resolution of lexical problems but leaves grammatical problems unresolved, suggesting reformulation as an alternative",
 "evidence_strength":"weak",
 "id":"notetaking-feedback-limits-grammar-resolution",
@@ -131848,6 +132082,15 @@
 "type":"claim"
 },
 {
+"description":"Adolescents experience autonomy online through self-discovery, anonymity, and judgement-free self-expression",
+"evidence_strength":"moderate",
+"id":"online-autonomy-self-discovery-anonymity",
+"path":"claims/online-autonomy-self-discovery-anonymity.md",
+"status":"review",
+"title":"Adolescents experience autonomy online through self-discovery, anonymity, and judgement-free self-expression",
+"type":"claim"
+},
+{
 "description":"Online concept-mapping behaviour may play a critical role in transforming verbal-discourse knowledge into deep-level co-construction; Type 3's lowest behavioural knowledge construction accompanied its lowest performance",
 "evidence_strength":"weak",
 "id":"online-behaviour-transforms-discourse-knowledge",
@@ -131926,6 +132169,15 @@
 "path":"claims/online-community-requires-conscious-effort.md",
 "status":"review",
 "title":"Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence",
+"type":"claim"
+},
+{
+"description":"Online environments build adolescent competence through pride in achievements, social confidence, and creative confidence",
+"evidence_strength":"moderate",
+"id":"online-competence-pride-confidence-creativity",
+"path":"claims/online-competence-pride-confidence-creativity.md",
+"status":"review",
+"title":"Online environments build adolescent competence through pride in achievements, social confidence, and creative confidence",
 "type":"claim"
 },
 {
@@ -132109,12 +132361,39 @@
 "type":"claim"
 },
 {
+"description":"Online environments function as virtual youth centres and hubs for bonding and bridging social capital",
+"evidence_strength":"moderate",
+"id":"online-relatedness-virtual-youth-centres-social-capital",
+"path":"claims/online-relatedness-virtual-youth-centres-social-capital.md",
+"status":"review",
+"title":"Online environments function as virtual youth centres and hubs for bonding and bridging social capital",
+"type":"claim"
+},
+{
+"description":"Online spaces hold distinctive value for underrepresented adolescents for identity expression, supportive peer networks, and friendships",
+"evidence_strength":"moderate",
+"id":"online-spaces-distinctive-value-underrepresented-adolescents",
+"path":"claims/online-spaces-distinctive-value-underrepresented-adolescents.md",
+"status":"review",
+"title":"Online spaces hold distinctive value for underrepresented adolescents for identity expression, supportive peer networks, and friendships",
+"type":"claim"
+},
+{
 "description":"Online students' learning needs centre on course support and communication with tutors and other students",
 "evidence_strength":"moderate",
 "id":"online-students-learning-needs-support-communication",
 "path":"claims/online-students-learning-needs-support-communication.md",
 "status":"review",
 "title":"Online students' learning needs centre on course support and communication with tutors and other students",
+"type":"claim"
+},
+{
+"description":"Adolescents proactively use online technologies to unwind, escape stress, and regulate emotions",
+"evidence_strength":"moderate",
+"id":"online-technologies-proactive-emotional-coping",
+"path":"claims/online-technologies-proactive-emotional-coping.md",
+"status":"review",
+"title":"Adolescents proactively use online technologies to unwind, escape stress, and regulate emotions",
 "type":"claim"
 },
 {
@@ -133243,6 +133522,15 @@
 "type":"claim"
 },
 {
+"description":"Organizational cues during a lecture have a large effect on understanding of lecture structure and memory for details",
+"evidence_strength":"weak",
+"id":"organizational-cues-large-effect-lecture",
+"path":"claims/organizational-cues-large-effect-lecture.md",
+"status":"review",
+"title":"Organizational cues during a lecture have a large effect on understanding of lecture structure and memory for details",
+"type":"claim"
+},
+{
 "description":"Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer",
 "evidence_strength":"moderate",
 "id":"organizational-empowerment-enables-transfer",
@@ -133375,6 +133663,15 @@
 "path":"claims/originality-outperforms-turnitin-accuracy-recall.md",
 "status":"review",
 "title":"Originality outperformed Turnitin in overall accuracy and macro-average recall on a balanced EFL-relevant dataset, but both showed limited consistency across classes",
+"type":"claim"
+},
+{
+"description":"Developmental patterns are less pronounced for the originality subdimension of creativity in open-ended fragmenting tasks",
+"evidence_strength":"moderate",
+"id":"originality-subdimension-less-pronounced-development",
+"path":"claims/originality-subdimension-less-pronounced-development.md",
+"status":"review",
+"title":"Developmental patterns are less pronounced for the originality subdimension of creativity in open-ended fragmenting tasks",
 "type":"claim"
 },
 {
@@ -135270,6 +135567,15 @@
 "path":"claims/parent-number-talk-frequency-description.md",
 "status":"review",
 "title":"Parent number talk is infrequent but varies widely, and most of it concerns counting or labeling sets, with present-object small-set talk the most common type",
+"type":"claim"
+},
+{
+"description":"Parents' personality traits show patterns comparable to children's, except that parents' openness is not significantly associated with parent–child relationship quality",
+"evidence_strength":"moderate",
+"id":"parent-personality-traits-parent-child-relationship-quality",
+"path":"claims/parent-personality-traits-parent-child-relationship-quality.md",
+"status":"review",
+"title":"Parents' personality traits show patterns comparable to children's, except that parents' openness is not significantly associated with parent–child relationship quality",
 "type":"claim"
 },
 {
@@ -137517,6 +137823,15 @@
 "type":"claim"
 },
 {
+"description":"Most studies used online peer feedback to improve students' task performance",
+"evidence_strength":"moderate",
+"id":"peer-feedback-function-task-performance-dominant",
+"path":"claims/peer-feedback-function-task-performance-dominant.md",
+"status":"review",
+"title":"Most studies used online peer feedback to improve students' task performance",
+"type":"claim"
+},
+{
 "description":"With peer feedback groups added to web-based SRL training (Group TDP), students showed statistically significant gains in self-motivation, volition and reflection, beyond the planning and metacognition gains also seen...",
 "evidence_strength":"moderate",
 "id":"peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training",
@@ -139679,6 +139994,24 @@
 "type":"claim"
 },
 {
+"description":"Personality similarity appears to be positively associated with positive adult–child relationships (preliminary evidence)",
+"evidence_strength":"weak",
+"id":"personality-similarity-positive-adult-child-relationships",
+"path":"claims/personality-similarity-positive-adult-child-relationships.md",
+"status":"review",
+"title":"Personality similarity appears to be positively associated with positive adult–child relationships (preliminary evidence)",
+"type":"claim"
+},
+{
+"description":"Personality traits of both children and teachers may be associated with teacher–child relationships, especially for relational positivity",
+"evidence_strength":"weak",
+"id":"personality-traits-teacher-child-relationships",
+"path":"claims/personality-traits-teacher-child-relationships.md",
+"status":"review",
+"title":"Personality traits of both children and teachers may be associated with teacher–child relationships, especially for relational positivity",
+"type":"claim"
+},
+{
 "description":"Personalizing algebra story problems to student interests improved accuracy on easy knowledge components within the tutoring unit",
 "evidence_strength":"moderate",
 "id":"personalization-improves-easy-kc-accuracy-algebra-its",
@@ -140523,6 +140856,15 @@
 "path":"claims/phonics-instruction-outperforms-whole-word-for-generalization.md",
 "status":"review",
 "title":"Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested",
+"type":"claim"
+},
+{
+"description":"Phonics instruction has a large overall effect on the decoding skills of students with intellectual disability (g = 1.42)",
+"evidence_strength":"moderate",
+"id":"phonics-large-effect-decoding-intellectual-disability",
+"path":"claims/phonics-large-effect-decoding-intellectual-disability.md",
+"status":"review",
+"title":"Phonics instruction has a large overall effect on the decoding skills of students with intellectual disability (g = 1.42)",
 "type":"claim"
 },
 {
@@ -157803,6 +158145,15 @@
 "type":"claim"
 },
 {
+"description":"Researcher-designed decoding tests yielded larger effect sizes than standardized tests in studies of phonics instruction for students with intellectual disability",
+"evidence_strength":"weak",
+"id":"researcher-designed-tests-larger-effects-than-standardized",
+"path":"claims/researcher-designed-tests-larger-effects-than-standardized.md",
+"status":"review",
+"title":"Researcher-designed decoding tests yielded larger effect sizes than standardized tests in studies of phonics instruction for students with intellectual disability",
+"type":"claim"
+},
+{
 "description":"Language and early writing interventions showed larger effects on researcher-developed than standardized outcome measures, while phonological awareness, print knowledge, and decoding effects were comparable across mea...",
 "evidence_strength":"moderate",
 "id":"researcher-developed-measures-larger-language-effects",
@@ -161476,6 +161827,15 @@
 "path":"claims/rubric-wording-lower-grading-variance.md",
 "status":"review",
 "title":"Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%",
+"type":"claim"
+},
+{
+"description":"Rubrics and training were the most frequently implemented presentation modes of online peer feedback",
+"evidence_strength":"moderate",
+"id":"rubrics-and-training-most-frequent-presentation-modes",
+"path":"claims/rubrics-and-training-most-frequent-presentation-modes.md",
+"status":"review",
+"title":"Rubrics and training were the most frequently implemented presentation modes of online peer feedback",
 "type":"claim"
 },
 {
@@ -171628,6 +171988,15 @@
 "type":"claim"
 },
 {
+"description":"Single-case studies yielded a larger average effect size (g = 1.94) than group studies (g = 0.41) in this meta-analysis",
+"evidence_strength":"moderate",
+"id":"single-case-larger-effects-than-group-studies-phonics-id",
+"path":"claims/single-case-larger-effects-than-group-studies-phonics-id.md",
+"status":"review",
+"title":"Single-case studies yielded a larger average effect size (g = 1.94) than group studies (g = 0.41) in this meta-analysis",
+"type":"claim"
+},
+{
 "description":"Single-course implementations of problem-driven learning show larger motivation effects than curriculum-wide implementations",
 "evidence_strength":"moderate",
 "id":"single-course-larger-effect-than-curriculum",
@@ -180711,6 +181080,15 @@
 "type":"claim"
 },
 {
+"description":"Fewer than a quarter of studies evaluated student characteristics, with ability level and gender most explored",
+"evidence_strength":"moderate",
+"id":"student-characteristics-understudied-peer-feedback",
+"path":"claims/student-characteristics-understudied-peer-feedback.md",
+"status":"review",
+"title":"Fewer than a quarter of studies evaluated student characteristics, with ability level and gender most explored",
+"type":"claim"
+},
+{
 "description":"Student-by-classroom interaction accounts for a substantial share of variation in noncognitive factors, indicating context-specific malleability",
 "evidence_strength":"moderate",
 "id":"student-classroom-interaction-variance-noncognitive-factors",
@@ -186218,6 +186596,15 @@
 "path":"claims/systemic-approach-in-service-teacher-education.md",
 "status":"review",
 "title":"Systemic approach in in-service teacher education promotes holistic thinking but short, fragmented training hinders it (review reports Khisty, 1997)",
+"type":"claim"
+},
+{
+"description":"Systemic barriers—rigid curricula, limited teacher training, and innate-creativity misconceptions—marginalize creativity in mainstream education",
+"evidence_strength":"weak",
+"id":"systemic-barriers-marginalize-creativity",
+"path":"claims/systemic-barriers-marginalize-creativity.md",
+"status":"review",
+"title":"Systemic barriers—rigid curricula, limited teacher training, and innate-creativity misconceptions—marginalize creativity in mainstream education",
 "type":"claim"
 },
 {
@@ -192244,6 +192631,15 @@
 "path":"claims/test-experience-beats-study-experience-for-debiasing.md",
 "status":"review",
 "title":"Test experience alleviates the foresight bias more effectively than study experience",
+"type":"claim"
+},
+{
+"description":"Test format and timing moderate note-taking effects: congruent note-taking and testing modalities improved performance, and transcribed notes won only at immediate test",
+"evidence_strength":"weak",
+"id":"test-format-timing-moderate-note-taking-effects",
+"path":"claims/test-format-timing-moderate-note-taking-effects.md",
+"status":"review",
+"title":"Test format and timing moderate note-taking effects: congruent note-taking and testing modalities improved performance, and transcribed notes won only at immediate test",
 "type":"claim"
 },
 {
@@ -201498,6 +201894,15 @@
 "path":"claims/varied-administrator-titles-el-services.md",
 "status":"review",
 "title":"English Learner programs and services across districts are led by administrators with varied titles, many without apparent links to English Learners",
+"type":"claim"
+},
+{
+"description":"The creativity research body shows a varied picture of measurement, with open-ended integrating and open-ended fragmenting tasks most frequently used",
+"evidence_strength":"moderate",
+"id":"varied-creativity-measurement-open-ended-tasks-frequent",
+"path":"claims/varied-creativity-measurement-open-ended-tasks-frequent.md",
+"status":"review",
+"title":"The creativity research body shows a varied picture of measurement, with open-ended integrating and open-ended fragmenting tasks most frequently used",
 "type":"claim"
 },
 {
@@ -231383,6 +231788,22 @@
 "type":"product"
 },
 {
+"description":"A corpus of 52 studies on primary-school children's creativity development and task characteristics assembled by O.T.A.",
+"id":"corpus-of-52-studies-on-creativity-development-in-primary-education-analyzed-descriptively",
+"path":"products/corpus-of-52-studies-on-creativity-development-in-primary-education-analyzed-descriptively.md",
+"status":"review",
+"title":"Corpus of 52 studies on creativity development in primary education analyzed descriptively and meta-analytically",
+"type":"product"
+},
+{
+"description":"A corpus of 73 English-language peer-reviewed empirical studies on written online or blended peer feedback among higher-education students, compiled by Gao et al.",
+"id":"corpus-of-73-peer-reviewed-studies-on-online-peer-feedback-in-higher-education-20002022",
+"path":"products/corpus-of-73-peer-reviewed-studies-on-online-peer-feedback-in-higher-education-20002022.md",
+"status":"review",
+"title":"Corpus of 73 peer-reviewed studies on online peer feedback in higher education (2000–2022)",
+"type":"product"
+},
+{
 "description":"A corpus compiled by Fagerlund et al.",
 "id":"corpus-of-77-peer-reviewed-k-12-data-literacy-education-studies-yielding-611-purpose-expre",
 "path":"products/corpus-of-77-peer-reviewed-k-12-data-literacy-education-studies-yielding-611-purpose-expre.md",
@@ -236697,6 +237118,14 @@
 "path":"products/meta-analytic-dataset-of-componentcomprehension-correlations-in-spanish-speaking-children.md",
 "status":"review",
 "title":"Meta-analytic dataset of component–comprehension correlations in Spanish-speaking children",
+"type":"product"
+},
+{
+"description":"A corpus of eight single-case and six group experimental or quasi-experimental studies comprising 297 participants, assembled to synthesize evidence on phonics instruction and decoding outcomes for students with intellectual disability.",
+"id":"meta-analytic-evidence-base-of-14-studies-on-phonics-instruction-for-students-with-intelle",
+"path":"products/meta-analytic-evidence-base-of-14-studies-on-phonics-instruction-for-students-with-intelle.md",
+"status":"review",
+"title":"Meta-analytic evidence base of 14 studies on phonics instruction for students with intellectual disability",
 "type":"product"
 },
 {
@@ -243490,6 +243919,14 @@
 "type":"research-method"
 },
 {
+"description":"The review proposes a shared definition to address the \\\"confusing plethora of terms\\\" in the field: \\\"The use of artistically inspired methods by researchers and participants in a collaborative research environment where members of the community are actively involved either in creating art in the sear",
+"id":"arts-based-research-abr",
+"path":"research-methods/arts-based-research-abr.md",
+"status":"review",
+"title":"Arts-based research (ABR)",
+"type":"research-method"
+},
+{
 "description":"The article proposes that assessment metadata — data about how students behave on a test or survey, including disengagement indicators — can function as naturally occurring, direct measures of social-emotional competencies, offering an alternative to deliberately administered SEL surveys.",
 "id":"assessment-metadata-as-naturally-occurring-direct-sel-measurement",
 "path":"research-methods/assessment-metadata-as-naturally-occurring-direct-sel-measurement.md",
@@ -244478,6 +244915,14 @@
 "type":"research-method"
 },
 {
+"description":"The review organizes school-based creativity support into two branches.",
+"id":"explicit-vs-implicit-interventions-as-a-two-branch-taxonomy-of-school-based-creativity-sup",
+"path":"research-methods/explicit-vs-implicit-interventions-as-a-two-branch-taxonomy-of-school-based-creativity-sup.md",
+"status":"review",
+"title":"Explicit vs. implicit interventions as a two-branch taxonomy of school-based creativity support",
+"type":"research-method"
+},
+{
 "description":"The ELSD model represents syntax acquisition as \\\"a simple exponential learning process\\\" in which grammatical proficiency grows with experience, with an experience discount factor modeled separately for simultaneous bilinguals, immigrants, and non-immersion learners.",
 "id":"exponential-learning-with-sigmoidal-decay-elsd-model-of-syntax-acquisition",
 "path":"research-methods/exponential-learning-with-sigmoidal-decay-elsd-model-of-syntax-acquisition.md",
@@ -245191,6 +245636,14 @@
 "type":"research-method"
 },
 {
+"description":"The editorial argues against folk-theory conceptions that label individuals as leader, follower, lurker or lazy, and against simply assigning a leadership role to one student per group.",
+"id":"interactional-analysis-of-emergent-distributed-leadership-in-collaborative-learning",
+"path":"research-methods/interactional-analysis-of-emergent-distributed-leadership-in-collaborative-learning.md",
+"status":"review",
+"title":"Interactional analysis of emergent distributed leadership in collaborative learning",
+"type":"research-method"
+},
+{
 "description":"The editorial describes Bridges et al.'s methodological lens, Interactional Ethnography (IE), as \\\"a logic-of-inquiry that can be used to examine collaborative processes\\\" as undergraduate students and their facilitator work with multimodal text.",
 "id":"interactional-ethnography-and-dialogic-intervisualizing",
 "path":"research-methods/interactional-ethnography-and-dialogic-intervisualizing.md",
@@ -245500,6 +245953,14 @@
 "path":"research-methods/microscopic-network-measures-as-indicators-of-sentence-level-integration-during-reading.md",
 "status":"review",
 "title":"Microscopic network measures as indicators of sentence-level integration during reading",
+"type":"research-method"
+},
+{
+"description":"The review adopts the MISCA (Message, Implementation, Student Characteristics, Context, Agents) model proposed by Panadero and Lipnevich (2022), which integrates five common components for classifying feedback practices: Content, Function, Student Characteristics, Presentation, and Source.",
+"id":"misca-model-message-implementation-student-characteristics-context-agents",
+"path":"research-methods/misca-model-message-implementation-student-characteristics-context-agents.md",
+"status":"review",
+"title":"MISCA model (Message, Implementation, Student Characteristics, Context, Agents)",
 "type":"research-method"
 },
 {
@@ -247629,6 +248090,14 @@
 "path":"strategies/abcvr-actionable-knowledge-artifacts.md",
 "status":"review",
 "title":"Support construction of actionable knowledge through post-VR mock performance and reified artefacts such as storyboards",
+"type":"strategy"
+},
+{
+"description":"To facilitate information retrieval in a field with no shared vocabulary, the review recommends that ABR researchers \\\"use broad as well as specific key-terms in the indexation of their articles\\\" and combine methodolog...",
+"id":"abr-keyword-indexation-strategy",
+"path":"strategies/abr-keyword-indexation-strategy.md",
+"status":"review",
+"title":"Use broad and specific keywords and develop methodological search filters to improve retrieval of arts-based research",
 "type":"strategy"
 },
 {
@@ -255652,6 +256121,14 @@
 "path":"strategies/conditional-growth-percentiles-peer-comparison.md",
 "status":"review",
 "title":"Use conditional growth percentiles to judge whether a student grew like their academic peers",
+"type":"strategy"
+},
+{
+"description":"The review concludes that note-taking \\\"may not always be beneficial, and depends on the way lectures are presented, how notes are taken, and individual differences in cognitive abilities.\\\" It recommends that moderatin...",
+"id":"conditional-note-taking-advice",
+"path":"strategies/conditional-note-taking-advice.md",
+"status":"review",
+"title":"Advise students on note-taking conditionally: consider cognitive ability, lecture format, and note-taking method rather than recommending note-taking universally",
 "type":"strategy"
 },
 {
@@ -278187,6 +278664,14 @@
 "type":"strategy"
 },
 {
+"description":"The review recommends leveraging online platforms and instructional supports when implementing peer feedback, because online settings address limitations of offline practice.",
+"id":"online-platforms-address-offline-peer-feedback-limits",
+"path":"strategies/online-platforms-address-offline-peer-feedback-limits.md",
+"status":"review",
+"title":"Use online peer feedback platforms and supports to address offline peer feedback limitations",
+"type":"strategy"
+},
+{
 "description":"Participants who took the web-based SRL training were placed in groups; \\\"Participants in Group TDP were assigned to peer feedback groups of five persons each\\\", drawn where possible from the same field of study.",
 "id":"online-srl-peer-feedback-groups-after-each-training-lesson",
 "path":"strategies/online-srl-peer-feedback-groups-after-each-training-lesson.md",
@@ -292499,6 +292984,14 @@
 "type":"strategy"
 },
 {
+"description":"The review's forward-looking recommendation is that policy and pedagogy should harness digital technologies for positive development rather than focusing solely on risk reduction.",
+"id":"supportive-accessible-welcoming-digital-spaces-strategy",
+"path":"strategies/supportive-accessible-welcoming-digital-spaces-strategy.md",
+"status":"review",
+"title":"Develop policies and pedagogical practices that create supportive, accessible, and welcoming digital spaces for adolescents",
+"type":"strategy"
+},
+{
 "description":"The brief recommends that early childhood programs support teachers acting on assessment information through three channels: more opportunities for formal training, ongoing supervisory support, and collaboration with...",
 "id":"supports-for-acting-on-child-assessment-information",
 "path":"strategies/supports-for-acting-on-child-assessment-information.md",
@@ -292800,6 +293293,14 @@
 "path":"strategies/system-of-least-prompts-graceful-exit.md",
 "status":"review",
 "title":"System of Least Prompts: a four-step graduated scaffolding hierarchy ending in graceful exit with direct instruction",
+"type":"strategy"
+},
+{
+"description":"The article's implications for practice rest on its finding that phonics instruction improves decoding for students with intellectual disability, with most effective studies using \\\"a systematic and direct instruction...",
+"id":"systematic-direct-phonics-one-to-one-strategy-id",
+"path":"strategies/systematic-direct-phonics-one-to-one-strategy-id.md",
+"status":"review",
+"title":"Use systematic, direct phonics instruction delivered one-to-one when teaching decoding to students with intellectual disability",
 "type":"strategy"
 },
 {
@@ -296590,6 +297091,14 @@
 "path":"strategies/use-creact-discussions-in-classroom.md",
 "status":"review",
 "title":"Use CREACT discussions in classroom environments to develop students' creative performance",
+"type":"strategy"
+},
+{
+"description":"The review recommends its taxonomy of creativity tasks as a practical tool for educational practice and research communication.",
+"id":"use-creativity-task-taxonomy-for-design-and-discourse",
+"path":"strategies/use-creativity-task-taxonomy-for-design-and-discourse.md",
+"status":"review",
+"title":"Use the creativity task taxonomy to design creativity activities and clarify research discussions",
 "type":"strategy"
 },
 {
@@ -309975,6 +310484,12 @@
 "about-half-of-students-found-ecree-easy-and-helpful":"about-half-of-students-found-ecree-easy-and-helpful",
 "above-average-growth-probability-high-poverty-schools":"above-average-growth-probability-high-poverty-schools",
 "above-norm-score-gains-peer-ability-spillover":"above-norm-score-gains-peer-ability-spillover",
+"abr-art-form-distribution-community-research":"abr-art-form-distribution-community-research",
+"abr-community-based-inquiry-growth-1993-2013":"abr-community-based-inquiry-growth-1993-2013",
+"abr-data-analysis-challenge":"abr-data-analysis-challenge",
+"abr-ethical-practical-challenges":"abr-ethical-practical-challenges",
+"abr-rationales-vulnerable-populations":"abr-rationales-vulnerable-populations",
+"abr-reported-strengths-transformation":"abr-reported-strengths-transformation",
 "abrupt-setting-changes-lowest-coherence":"abrupt-setting-changes-lowest-coherence",
 "absence-achievement-link-persists-post-pandemic":"absence-achievement-link-persists-post-pandemic",
 "absences-explain-course-performance-gaps-disabilities":"absences-explain-course-performance-gaps-disabilities",
@@ -313029,6 +313544,8 @@
 "child-flexibility-did-not-predict-maternal-behaviors":"child-flexibility-did-not-predict-maternal-behaviors",
 "child-guardian-reports-minimal-power-beyond-teacher":"child-guardian-reports-minimal-power-beyond-teacher",
 "child-initiated-questions-increase-paratutor":"child-initiated-questions-increase-paratutor",
+"child-neuroticism-parent-child-relationship-quality":"child-neuroticism-parent-child-relationship-quality",
+"child-positive-personality-traits-parent-child-relationship-quality":"child-positive-personality-traits-parent-child-relationship-quality",
 "child-self-control-negatively-linked-parent-wfc":"child-self-control-negatively-linked-parent-wfc",
 "child-sleep-problem-prevalence-range":"child-sleep-problem-prevalence-range",
 "childhood-activities-more-predictive-of-habits-of-mind":"childhood-activities-more-predictive-of-habits-of-mind",
@@ -313486,6 +314003,7 @@
 "cognitive-abilities-correlate-decimal-label-use":"cognitive-abilities-correlate-decimal-label-use",
 "cognitive-ability-correlates-equation-efficiency":"cognitive-ability-correlates-equation-efficiency",
 "cognitive-ability-curiosity-positive-correlation":"cognitive-ability-curiosity-positive-correlation",
+"cognitive-ability-moderates-encoding-effect":"cognitive-ability-moderates-encoding-effect",
 "cognitive-ability-moderates-exploration-metacognition":"cognitive-ability-moderates-exploration-metacognition",
 "cognitive-ability-mortality-risk":"cognitive-ability-mortality-risk",
 "cognitive-ability-predicts-secondary-gpa-more-than-curiosity":"cognitive-ability-predicts-secondary-gpa-more-than-curiosity",
@@ -313495,6 +314013,7 @@
 "cognitive-apprenticeship-no-significant-exam-differences-technical-math":"cognitive-apprenticeship-no-significant-exam-differences-technical-math",
 "cognitive-behavioral-prevention-positive-therapeutic-negative":"cognitive-behavioral-prevention-positive-therapeutic-negative",
 "cognitive-capability-dominance-benefit-rarely-mentioned":"cognitive-capability-dominance-benefit-rarely-mentioned",
+"cognitive-content-most-frequent-online-peer-feedback":"cognitive-content-most-frequent-online-peer-feedback",
 "cognitive-control-does-not-moderate-book-exposure":"cognitive-control-does-not-moderate-book-exposure",
 "cognitive-debt-reactive-ai-approaches-insufficient":"cognitive-debt-reactive-ai-approaches-insufficient",
 "cognitive-decline-associated-low-health-literacy-memory-only-robust":"cognitive-decline-associated-low-health-literacy-memory-only-robust",
@@ -314599,6 +315118,7 @@
 "creativity-correlates-strongly-with-math-achievement":"creativity-correlates-strongly-with-math-achievement",
 "creativity-predicts-game-performance-selective":"creativity-predicts-game-performance-selective",
 "creativity-predicts-learning-enjoyment":"creativity-predicts-learning-enjoyment",
+"creativity-supportive-climate-factors":"creativity-supportive-climate-factors",
 "credential-supply-lags-demand-california":"credential-supply-lags-demand-california",
 "credentialing-market-demand-shorter-competency-credentials":"credentialing-market-demand-shorter-competency-credentials",
 "credentials-difference-observation-only-not-value-added":"experience-credentials-teacher-evaluation-scores",
@@ -317197,6 +317717,7 @@
 "explicit-communicative-pronunciation-instruction-works":"explicit-communicative-pronunciation-instruction-works",
 "explicit-contextualization-instruction-improves-writing-procedure-not-scores":"explicit-contextualization-instruction-improves-writing-procedure-not-scores",
 "explicit-correction-improves-feedback-session-responses":"explicit-correction-improves-feedback-session-responses",
+"explicit-creativity-training-programs-effective":"explicit-creativity-training-programs-effective",
 "explicit-cvs-knowledge-equal-conditions":"explicit-cvs-knowledge-equal-conditions",
 "explicit-education-cues-readability-adaptation":"explicit-education-cues-readability-adaptation",
 "explicit-environment-more-complex-task-specific-strategies":"explicit-environment-more-complex-task-specific-strategies",
@@ -317612,6 +318133,7 @@
 "few-solution-attempts-bayesian-problem-solving":"few-solution-attempts-bayesian-problem-solving",
 "few-splits-identify-high-risk-students":"few-splits-identify-high-risk-students",
 "few-student-subgroup-impact-differences-significant":"few-student-subgroup-impact-differences-significant",
+"few-studies-combine-multi-source-feedback":"few-studies-combine-multi-source-feedback",
 "few-studies-deliver-ewil":"few-studies-deliver-ewil",
 "few-tif-districts-aligned-bonuses-with-grant-guidance":"few-districts-aligned-bonuses-with-tif-guidance",
 "fewer-behavioral-than-academic-indicator-differences":"fewer-behavioral-than-academic-indicator-differences",
@@ -319820,6 +320342,8 @@
 "idea-integration-linked-to-grounding-quality-in-case-discourse":"idea-integration-linked-to-grounding-quality-in-case-discourse",
 "idea-unit-standards-ineffective-example-generation":"idea-unit-standards-ineffective-example-generation",
 "ideal-l2-self-predicts-self-efficacy":"ideal-l2-self-predicts-self-efficacy",
+"ideation-interventions-improve-creative-performance":"ideation-interventions-improve-creative-performance",
+"ideation-training-domain-specific-transfer":"ideation-training-domain-specific-transfer",
 "identical-example-problem-order-advantage-not-detected-at-final-test":"identical-example-problem-order-advantage-not-detected-at-final-test",
 "identical-item-difficulty-ranking-ctt-mfrm":"identical-item-difficulty-ranking-ctt-mfrm",
 "identification-related-to-knowledge-construction":"identification-related-to-knowledge-construction",
@@ -319956,6 +320480,7 @@
 "implicit-explicit-no-difference-accurate-strategy-use":"implicit-explicit-no-difference-accurate-strategy-use",
 "implicit-explicit-no-difference-adaptive-strategy-use":"implicit-explicit-no-difference-adaptive-strategy-use",
 "implicit-not-superior-complex-rules":"implicit-not-superior-complex-rules",
+"implicit-pedagogies-foster-creativity":"implicit-pedagogies-foster-creativity",
 "implicit-post-error-adjustment-typists":"implicit-post-error-adjustment-typists",
 "implicit-representation-of-others-knowledge-perspective":"implicit-representation-of-others-knowledge-perspective",
 "implicit-scaffolding-supports-immediate-exploration":"implicit-scaffolding-supports-immediate-exploration",
@@ -320092,6 +320617,7 @@
 "individual-noticing-trajectories-vary":"individual-noticing-trajectories-vary",
 "individual-principles-small-correlations-motivation-effort":"individual-principles-small-correlations-motivation-effort",
 "individual-reflection-prompts-insufficient-vocational-students":"individual-reflection-prompts-insufficient-vocational-students",
+"individual-robot-engagement-beats-pairs-divergent-thinking":"individual-robot-engagement-beats-pairs-divergent-thinking",
 "individual-score-gains-range-6-3-to-30-8-percent":"individual-score-gains-range-6-3-to-30-8-percent",
 "individual-sourcing-change-rci-percentages":"individual-sourcing-change-rci-percentages",
 "individual-supportive-factors-adolescent-creativity":"individual-supportive-factors-adolescent-creativity",
@@ -320521,6 +321047,7 @@
 "intervention-value-depends-stakeholder-vantage-point":"intervention-value-depends-stakeholder-vantage-point",
 "intervention-vocabulary-depth-significant-breadth-not":"intervention-vocabulary-depth-significant-breadth-not",
 "intervention-year-els-reached-higher-developmental-levels":"intervention-year-els-reached-higher-developmental-levels",
+"interventionist-type-not-significant-moderator-phonics-id":"interventionist-type-not-significant-moderator-phonics-id",
 "interventions-did-not-improve-pssa-scores":"interventions-did-not-improve-pssa-scores",
 "interventions-medium-effect-teacher-self-efficacy":"interventions-medium-effect-teacher-self-efficacy",
 "interventions-narrowed-reading-gap-word-attack":"interventions-narrowed-reading-gap-word-attack",
@@ -321148,6 +321675,7 @@
 "lao-similar-goal-endorsement-levels":"lao-similar-goal-endorsement-levels",
 "lao-strong-mastery-relational-goal-correlation":"lao-strong-mastery-relational-goal-correlation",
 "laplace-ldp-superior-gaussian-bounded-outputs":"laplace-ldp-superior-gaussian-bounded-outputs",
+"laptop-longhand-divergent-effects":"laptop-longhand-divergent-effects",
 "laptop-notes-verbatim-shallower":"laptop-notes-verbatim-shallower",
 "large-arrays-exceed-childrens-attentional-resources":"large-arrays-exceed-childrens-attentional-resources",
 "large-class-sizes-barrier-individualized-support":"large-class-sizes-barrier-individualized-support",
@@ -321432,6 +321960,9 @@
 "lecturaagents-student-survey-perceptions":"lecturaagents-student-survey-perceptions",
 "lecturaagents-taq-spatial-strong-temporal-variable":"lecturaagents-taq-spatial-strong-temporal-variable",
 "lecture-decreases-discussion-groupwork-increase-engagement":"lecture-decreases-discussion-groupwork-increase-engagement",
+"lecture-modality-no-effect-note-taking-memory":"lecture-modality-no-effect-note-taking-memory",
+"lecture-speed-spaced-note-taking-aiken":"lecture-speed-spaced-note-taking-aiken",
+"lecture-structure-worse-recall-continuous":"lecture-structure-worse-recall-continuous",
 "lecturer-discourse-variability-in-styles-and-routines":"lecturer-discourse-variability-in-styles-and-routines",
 "lecturer-meta-rules-endorsed-and-enacted":"lecturer-meta-rules-endorsed-and-enacted",
 "lecturing-increases-stem-failure-rates":"lecturing-increases-stem-failure-rates",
@@ -322692,6 +323223,7 @@
 "meta-procedural-requests-socratic-ai-tutor":"meta-procedural-requests-socratic-ai-tutor",
 "meta-regression-moderators-chronic-exercise-ef":"meta-regression-moderators-chronic-exercise-ef",
 "meta-regression-unique-moderators":"meta-regression-unique-moderators",
+"meta-synthesis-90-studies-adolescent-digital-flourishing":"meta-synthesis-90-studies-adolescent-digital-flourishing",
 "meta-utaut-hypotheses-accepted-mall-efl":"meta-utaut-hypotheses-accepted-mall-efl",
 "metacognition-coding-experience-predict-ct-profile":"metacognition-coding-experience-predict-ct-profile",
 "metacognition-critical-thinking-writing-correlations":"metacognition-critical-thinking-writing-correlations",
@@ -322980,6 +323512,7 @@
 "mixed-efficiency-speed-perceptions":"mixed-efficiency-speed-perceptions",
 "mixed-evidence-demographic-predictor-performance":"mixed-evidence-demographic-predictor-performance",
 "mixed-evidence-network-density-course-outcomes":"mixed-evidence-network-density-course-outcomes",
+"mixed-figural-verbal-response-tasks-weaker-patterns":"mixed-figural-verbal-response-tasks-weaker-patterns",
 "mixed-ga-grouping-greater-vocabulary-gain-efl":"mixed-ga-grouping-greater-vocabulary-gain-efl",
 "mixed-homogeneous-heterogeneous-grouping":"mixed-homogeneous-heterogeneous-grouping",
 "mixed-model-detection-error-underestimation":"mixed-model-detection-error-underestimation",
@@ -324255,6 +324788,8 @@
 "not-all-educators-develop-impact-concerns":"not-all-educators-develop-impact-concerns",
 "not-sure-knowledge-confidence-predicts-recall":"not-sure-knowledge-confidence-predicts-recall",
 "not-sure-students-intermediate-outcomes":"not-sure-students-intermediate-outcomes",
+"note-quality-quantity-verbatim-overlap-effects":"note-quality-quantity-verbatim-overlap-effects",
+"note-structure-transcribe-organise-format-dependent":"note-structure-transcribe-organise-format-dependent",
 "notetaking-feedback-limits-grammar-resolution":"notetaking-feedback-limits-grammar-resolution",
 "noticing-errors-decreases-errors-preserves-quality":"noticing-errors-decreases-errors-preserves-quality",
 "noticing-generation-advantage-predicts-strategy-change":"noticing-generation-advantage-predicts-strategy-change",
@@ -324528,6 +325063,7 @@
 "oner-coordinated-math-social-resources":"oner-coordinated-math-social-resources",
 "ongoing-pd-mentorship-critical-coach-growth":"ongoing-pd-mentorship-critical-coach-growth",
 "online-apprenticeship-learning-flexibility-tradeoffs":"online-apprenticeship-learning-flexibility-tradeoffs",
+"online-autonomy-self-discovery-anonymity":"online-autonomy-self-discovery-anonymity",
 "online-behaviour-transforms-discourse-knowledge":"online-behaviour-transforms-discourse-knowledge",
 "online-charter-schools-200-schools-200000-students":"online-charter-schools-200-schools-200000-students",
 "online-charters-dominant-independent-study-mode":"online-charters-dominant-independent-study-mode",
@@ -324537,6 +325073,7 @@
 "online-charters-parent-participation-expectations":"online-charters-parent-participation-expectations",
 "online-communities-must-be-designed-and-scaffolded":"online-communities-must-be-designed-and-scaffolded",
 "online-community-requires-conscious-effort":"online-community-requires-conscious-effort",
+"online-competence-pride-confidence-creativity":"online-competence-pride-confidence-creativity",
 "online-complex-combination-largest-effects":"online-complex-combination-largest-effects",
 "online-continuing-education-persistence-lower-than-onground":"online-continuing-education-persistence-lower-than-onground",
 "online-course-effects-local-to-dual-option-students":"online-course-effects-local-to-dual-option-students",
@@ -324557,7 +325094,10 @@
 "online-peer-assessment-shifts-assessment-control-to-students":"online-peer-assessment-shifts-assessment-control-to-students",
 "online-ps-solutions-predict-posttests":"online-ps-solutions-predict-posttests",
 "online-reading-academic-multicomponent-activity":"online-reading-academic-multicomponent-activity",
+"online-relatedness-virtual-youth-centres-social-capital":"online-relatedness-virtual-youth-centres-social-capital",
+"online-spaces-distinctive-value-underrepresented-adolescents":"online-spaces-distinctive-value-underrepresented-adolescents",
 "online-students-learning-needs-support-communication":"online-students-learning-needs-support-communication",
+"online-technologies-proactive-emotional-coping":"online-technologies-proactive-emotional-coping",
 "online-tools-convenient-enrollment-adult-learners":"online-tools-convenient-enrollment-adult-learners",
 "online-tpack-program-shift-student-centered-strategies":"online-tpack-program-shift-student-centered-strategies",
 "online-vocabulary-intervention-no-comprehension-effect":"online-vocabulary-intervention-no-comprehension-effect",
@@ -324683,6 +325223,7 @@
 "organizational-conditions-account-for-minority-turnover-gap":"organizational-conditions-account-for-minority-turnover-gap",
 "organizational-conditions-drive-minority-teacher-turnover":"organizational-conditions-drive-minority-teacher-turnover",
 "organizational-conditions-predict-teacher-turnover":"organizational-conditions-predict-teacher-turnover",
+"organizational-cues-large-effect-lecture":"organizational-cues-large-effect-lecture",
 "organizational-empowerment-enables-transfer":"organizational-empowerment-enables-transfer",
 "organizational-gains-without-instructional-gains":"organizational-gains-without-instructional-gains",
 "organizational-health-mediates-pbis-student-outcomes":"organizational-health-mediates-pbis-student-outcomes",
@@ -324698,6 +325239,7 @@
 "original-contact-selective-attention-to-central-concepts":"original-contact-selective-attention-to-central-concepts",
 "originality-borderline-efl-accuracy-trend":"originality-borderline-efl-accuracy-trend",
 "originality-outperforms-turnitin-accuracy-recall":"originality-outperforms-turnitin-accuracy-recall",
+"originality-subdimension-less-pronounced-development":"originality-subdimension-less-pronounced-development",
 "orthographic-autonomy-requires-instruction":"orthographic-autonomy-requires-instruction",
 "orthographic-consistency-eases-reading-spelling":"orthographic-consistency-eases-reading-spelling",
 "orthographic-ltm-deficits-frontal-ventral-temporal":"orthographic-ltm-deficits-frontal-ventral-temporal",
@@ -324913,6 +325455,7 @@
 "parent-involvement-increased-three-years":"parent-involvement-increased-three-years",
 "parent-meetings-discipline-playground-supervision-reduce-bullying":"parent-meetings-discipline-playground-supervision-reduce-bullying",
 "parent-number-talk-frequency-description":"parent-number-talk-frequency-description",
+"parent-personality-traits-parent-child-relationship-quality":"parent-personality-traits-parent-child-relationship-quality",
 "parent-reported-inhibitory-control-no-growth":"parent-reported-inhibitory-control-no-growth",
 "parent-ses-predicts-cardinal-knowledge":"parent-ses-predicts-cardinal-knowledge",
 "parent-support-declined-middle-grades":"parent-support-declined-middle-grades",
@@ -325168,6 +325711,7 @@
 "peer-expert-modeling-improves-ips-performance":"peer-expert-modeling-improves-ips-performance",
 "peer-feedback-accuracy-depends-on-expertise":"peer-feedback-accuracy-depends-on-expertise",
 "peer-feedback-first-no-effect-internal-feedback":"peer-feedback-first-no-effect-internal-feedback",
+"peer-feedback-function-task-performance-dominant":"peer-feedback-function-task-performance-dominant",
 "peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training":"peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training",
 "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score":"peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score",
 "peer-feedback-improves-work-quality":"peer-assessment-improves-performance",
@@ -325411,6 +325955,8 @@
 "personalism-plus-press-toward-academic-work-achievement":"personalism-plus-press-toward-academic-work-achievement",
 "personalism-press-combined-engagement":"personalism-press-combined-engagement",
 "personality-mindset-workshop-reduced-aggression":"personality-mindset-workshop-reduced-aggression",
+"personality-similarity-positive-adult-child-relationships":"personality-similarity-positive-adult-child-relationships",
+"personality-traits-teacher-child-relationships":"personality-traits-teacher-child-relationships",
 "personalization-improves-easy-kc-accuracy-algebra-its":"personalization-improves-easy-kc-accuracy-algebra-its",
 "personalization-improves-hard-kc-accuracy-algebra-its":"personalization-improves-hard-kc-accuracy-algebra-its",
 "personalization-limited-blended-designs":"personalization-limited-blended-designs",
@@ -325507,6 +326053,7 @@
 "phonemic-segmentation-favored-over-rhyme-alliteration-yeh":"phonemic-segmentation-favored-over-rhyme-alliteration-yeh",
 "phonics-instruction-improves-word-reading":"phonics-instruction-outperforms-whole-word-for-generalization",
 "phonics-instruction-outperforms-whole-word-for-generalization":"phonics-instruction-outperforms-whole-word-for-generalization",
+"phonics-large-effect-decoding-intellectual-disability":"phonics-large-effect-decoding-intellectual-disability",
 "phonological-automatization-improves-esp-reading-comprehension":"phonological-automatization-improves-esp-reading-comprehension",
 "phonological-awareness-es-057":"phonological-awareness-es-057",
 "phonological-awareness-memory-most-contribute-reading-writing":"phonological-awareness-memory-most-contribute-reading-writing",
@@ -327458,6 +328005,7 @@
 "research-driven-guidelines-promote-responsibility-pbl":"research-driven-guidelines-promote-responsibility-pbl",
 "research-questions-rarely-designed-with-practitioners":"research-questions-rarely-designed-with-practitioners",
 "researcher-delivered-larger-comprehension-effects":"researcher-delivered-larger-comprehension-effects",
+"researcher-designed-tests-larger-effects-than-standardized":"researcher-designed-tests-larger-effects-than-standardized",
 "researcher-developed-measures-larger-language-effects":"researcher-developed-measures-larger-language-effects",
 "researcher-judged-more-credible-than-consumer":"researcher-judged-more-credible-than-consumer",
 "resegregation-intensely-segregated-schools-tripled":"resegregation-intensely-segregated-schools-tripled",
@@ -327876,6 +328424,7 @@
 "rubric-revision-improves-machine-alignment":"rubric-revision-improves-machine-alignment",
 "rubric-scoring-diagnostic-questions":"rubric-scoring-diagnostic-questions",
 "rubric-wording-lower-grading-variance":"rubric-wording-lower-grading-variance",
+"rubrics-and-training-most-frequent-presentation-modes":"rubrics-and-training-most-frequent-presentation-modes",
 "rubrics-improve-absolute-self-assessment-accuracy":"rubrics-improve-absolute-self-assessment-accuracy",
 "rubrics-improve-peer-feedback-quality":"rubrics-improve-peer-feedback-quality",
 "rubrics-improve-student-work":"rubrics-improve-student-work",
@@ -329036,6 +329585,7 @@
 "single-absence-cumulative-fall-math-decline":"single-absence-cumulative-fall-math-decline",
 "single-administration-theoretical-reliability-vectors":"single-administration-theoretical-reliability-vectors",
 "single-author-materials-deployed-by-six-professors":"single-author-materials-deployed-by-six-professors",
+"single-case-larger-effects-than-group-studies-phonics-id":"single-case-larger-effects-than-group-studies-phonics-id",
 "single-course-larger-effect-than-curriculum":"single-course-larger-effect-than-curriculum",
 "single-discipline-students-higher-baseline":"single-discipline-students-higher-baseline",
 "single-district-selpas-lower-inclusion-restrictive-settings":"single-district-selpas-lower-inclusion-restrictive-settings",
@@ -330068,6 +330618,7 @@
 "student-characteristics-completion-gaps":"student-characteristics-completion-gaps",
 "student-characteristics-moderate-inquiry-effectiveness":"student-characteristics-moderate-inquiry-effectiveness",
 "student-characteristics-moderate-resource-management-effects":"student-characteristics-moderate-resource-management-effects",
+"student-characteristics-understudied-peer-feedback":"student-characteristics-understudied-peer-feedback",
 "student-classroom-interaction-variance-noncognitive-factors":"student-classroom-interaction-variance-noncognitive-factors",
 "student-coauthorship-enacts-epistemic-equity":"student-coauthorship-enacts-epistemic-equity",
 "student-concern-unintentional-genai-academic-misconduct":"student-concern-unintentional-genai-academic-misconduct",
@@ -330686,6 +331237,7 @@
 "systematic-phonics-improves-word-reading":"phonics-instruction-outperforms-whole-word-for-generalization",
 "systematic-review-26-articles-drama-equity-literacy":"systematic-review-26-articles-drama-equity-literacy",
 "systemic-approach-in-service-teacher-education":"systemic-approach-in-service-teacher-education",
+"systemic-barriers-marginalize-creativity":"systemic-barriers-marginalize-creativity",
 "systemic-challenges-gaps-isolation-shifting-skills":"systemic-challenges-gaps-isolation-shifting-skills",
 "systemic-versus-unfocused-change-classification":"systemic-versus-unfocused-change-classification",
 "systems-level-aac-implementation-barriers":"systems-level-aac-implementation-barriers",
@@ -331374,6 +331926,7 @@
 "test-effort-differs-by-subgroup-rapid-guessing":"test-effort-differs-by-subgroup-rapid-guessing",
 "test-expectancy-tendency-larger-than-keywords-rereading":"test-expectancy-tendency-larger-than-keywords-rereading",
 "test-experience-beats-study-experience-for-debiasing":"test-experience-beats-study-experience-for-debiasing",
+"test-format-timing-moderate-note-taking-effects":"test-format-timing-moderate-note-taking-effects",
 "test-item-construction-affects-kvl-difficulty-scores":"test-item-construction-affects-kvl-difficulty-scores",
 "test-performance-gains-t1-to-t2":"test-performance-gains-t1-to-t2",
 "test-performance-higher-no-cue-than-summary-condition":"test-performance-higher-no-cue-than-summary-condition",
@@ -332423,6 +332976,7 @@
 "variation-theory-teaching-gains-alternating-points-of-view-taught-task":"variation-theory-teaching-gains-alternating-points-of-view-taught-task",
 "variation-theory-transfer-novel-issues":"variation-theory-transfer-novel-issues",
 "varied-administrator-titles-el-services":"varied-administrator-titles-el-services",
+"varied-creativity-measurement-open-ended-tasks-frequent":"varied-creativity-measurement-open-ended-tasks-frequent",
 "varied-student-perceptions-video-annotation":"varied-student-perceptions-video-annotation",
 "varied-success-definitions-hinder-evaluation":"varied-success-definitions-hinder-evaluation",
 "variety-actions-and-supplemental-instruction-null":"variety-actions-and-supplemental-instruction-null",
@@ -336313,6 +336867,8 @@
 "corpus-of-22-peer-reviewed-llm-in-higher-education-studies-20232024-with-geographic-publis":"corpus-of-22-peer-reviewed-llm-in-higher-education-studies-20232024-with-geographic-publis",
 "corpus-of-48-peer-selected-empirical-studies-of-se-in-undergraduate-mathematics-20092024":"corpus-of-48-peer-selected-empirical-studies-of-se-in-undergraduate-mathematics-20092024",
 "corpus-of-500-annotated-competency-based-assessments-in-higher-education-for-developing-an":"corpus-of-500-annotated-competency-based-assessments-in-higher-education-for-developing-an",
+"corpus-of-52-studies-on-creativity-development-in-primary-education-analyzed-descriptively":"corpus-of-52-studies-on-creativity-development-in-primary-education-analyzed-descriptively",
+"corpus-of-73-peer-reviewed-studies-on-online-peer-feedback-in-higher-education-20002022":"corpus-of-73-peer-reviewed-studies-on-online-peer-feedback-in-higher-education-20002022",
 "corpus-of-77-peer-reviewed-k-12-data-literacy-education-studies-yielding-611-purpose-expre":"corpus-of-77-peer-reviewed-k-12-data-literacy-education-studies-yielding-611-purpose-expre",
 "corpus-of-genai-policies-from-thirty-qs-ranked-universities-across-the-top-ten-countries-f":"corpus-of-genai-policies-from-thirty-qs-ranked-universities-across-the-top-ten-countries-f",
 "corpus-of-nine-empirical-studies-of-collaborative-learning-for-ai-literacy-2015-2023":"corpus-of-nine-empirical-studies-of-collaborative-learning-for-ai-literacy-2015-2023",
@@ -336988,6 +337544,7 @@
 "meta-analytic-dataset-of-118-fmsacademic-cognitive-correlational-studies-1110-effect-sizes":"meta-analytic-dataset-of-118-fmsacademic-cognitive-correlational-studies-1110-effect-sizes",
 "meta-analytic-dataset-of-38-rae-studies-across-14-sports-and-16-countries":"meta-analytic-dataset-of-38-rae-studies-across-14-sports-and-16-countries",
 "meta-analytic-dataset-of-componentcomprehension-correlations-in-spanish-speaking-children":"meta-analytic-dataset-of-componentcomprehension-correlations-in-spanish-speaking-children",
+"meta-analytic-evidence-base-of-14-studies-on-phonics-instruction-for-students-with-intelle":"meta-analytic-evidence-base-of-14-studies-on-phonics-instruction-for-students-with-intelle",
 "metacognitive-awareness-of-reading-strategies-inventory":"metacognitive-awareness-of-reading-strategies-inventory",
 "metacognitive-interview-form-for-younger-and-older-students":"metacognitive-interview-form-for-younger-and-older-students",
 "metacognitive-interview-form-for-younger-students":"metacognitive-interview-form-for-younger-students",
@@ -337848,6 +338405,7 @@
 "amova-accumulative-manifold-validation-analysis":"amova-accumulative-manifold-validation-analysis",
 "approachcontextpedagogy-coupling-framework-for-game-based-and-gamified-robotics-education":"approachcontextpedagogy-coupling-framework-for-game-based-and-gamified-robotics-education",
 "architecturally-enforced-novice-like-student-simulation":"architecturally-enforced-novice-like-student-simulation",
+"arts-based-research-abr":"arts-based-research-abr",
 "assessment-metadata-as-naturally-occurring-direct-sel-measurement":"assessment-metadata-as-naturally-occurring-direct-sel-measurement",
 "atc21s-collaborative-problem-solving-framework":"atc21s-collaborative-problem-solving-framework",
 "attainment-based-evaluation-of-charter-schools-as-a-complement-to-achievement-test-based-s":"attainment-based-evaluation-of-charter-schools-as-a-complement-to-achievement-test-based-s",
@@ -337975,6 +338533,7 @@
 "executive-llm-adaptive-assessment-method":"executive-llm-adaptive-assessment-method",
 "expert-panel-interpretation-of-compiled-educational-evidence":"expert-panel-interpretation-of-compiled-educational-evidence",
 "explainable-by-design-framework-coupling-dual-lens-hierarchical-attention-trust-gated-infe":"explainable-by-design-framework-coupling-dual-lens-hierarchical-attention-trust-gated-infe",
+"explicit-vs-implicit-interventions-as-a-two-branch-taxonomy-of-school-based-creativity-sup":"explicit-vs-implicit-interventions-as-a-two-branch-taxonomy-of-school-based-creativity-sup",
 "exploratory-digital-learning-platform-data-analysis-for-research-planning":"digital-learning-platform-process-data-analysis",
 "exponential-learning-with-sigmoidal-decay-elsd-model-of-syntax-acquisition":"exponential-learning-with-sigmoidal-decay-elsd-model-of-syntax-acquisition",
 "extended-strobel-taxonomy-of-five-studentgenai-entanglement-types":"extended-strobel-taxonomy-of-five-studentgenai-entanglement-types",
@@ -338068,6 +338627,7 @@
 "integrated-framework-linking-cognitive-ownership-mutual-evaluation-and-outcome-aligned-ver":"integrated-framework-linking-cognitive-ownership-mutual-evaluation-and-outcome-aligned-ver",
 "integrative-review":"integrative-review",
 "interaction-geography":"interaction-geography",
+"interactional-analysis-of-emergent-distributed-leadership-in-collaborative-learning":"interactional-analysis-of-emergent-distributed-leadership-in-collaborative-learning",
 "interactional-ethnography-and-dialogic-intervisualizing":"interactional-ethnography-and-dialogic-intervisualizing",
 "interpersonal-multilevel-analysis-of-regulation-in-collaborative-learning":"interpersonal-multilevel-analysis-of-regulation-in-collaborative-learning",
 "intersectional-disaggregation-of-school-climate-survey-data":"intersectional-disaggregation-of-school-climate-survey-data",
@@ -338108,6 +338668,7 @@
 "meta-d-as-a-performance-normalized-measure-of-metacognitive-efficiency":"meta-d-as-a-performance-normalized-measure-of-metacognitive-efficiency",
 "micro-ecological-approach-to-cross-level-cscl-analysis":"micro-ecological-approach-to-cross-level-cscl-analysis",
 "microscopic-network-measures-as-indicators-of-sentence-level-integration-during-reading":"microscopic-network-measures-as-indicators-of-sentence-level-integration-during-reading",
+"misca-model-message-implementation-student-characteristics-context-agents":"misca-model-message-implementation-student-characteristics-context-agents",
 "mobile-eye-tracking-methodology-for-capturing-joint-visual-attention-in-co-located-groups":"mobile-eye-tracking-methodology-for-capturing-joint-visual-attention-in-co-located-groups",
 "model-based-multivariate-true-score-norming-procedure":"multivariate-true-score-model-for-achievement-and-growth-norming",
 "model-of-collaborative-knowledge-building-across-interconnected-planes":"model-of-collaborative-knowledge-building-across-interconnected-planes",
@@ -338386,6 +338947,7 @@
 "a_finders_guide_to_facts":"a_finders_guide_to_facts",
 "aba-withdrawal-design-summer-break":"aba-withdrawal-design-summer-break",
 "abcvr-actionable-knowledge-artifacts":"abcvr-actionable-knowledge-artifacts",
+"abr-keyword-indexation-strategy":"abr-keyword-indexation-strategy",
 "academic-choice-planning-working-reflecting":"academic-choice-planning-working-reflecting",
 "academic-support-enrichment-dropout-strategy":"academic-support-enrichment-dropout-strategy",
 "accelerated-advanced-programs-high-poverty-schools":"accelerated-advanced-programs-high-poverty-schools",
@@ -339429,6 +339991,7 @@
 "concrete-representational-abstract_cra_sequence":"concrete-representational-abstract-cra",
 "concreteness-classification-templates":"concreteness-classification-templates",
 "conditional-growth-percentiles-peer-comparison":"conditional-growth-percentiles-peer-comparison",
+"conditional-note-taking-advice":"conditional-note-taking-advice",
 "conditioning-natural-reinforcers":"conditioning-natural-reinforcers",
 "conditions-supporting-challenge-based-coaching-success":"conditions-supporting-challenge-based-coaching-success",
 "conferencing":"conferencing",
@@ -342380,6 +342943,7 @@
 "online-calibration-item-bank-growth":"online-calibration-item-bank-growth",
 "online-environments-validity-and-secondary-curriculum-link":"online-environments-validity-and-secondary-curriculum-link",
 "online-measures-strategy-use-learning-analytics":"online-measures-strategy-use-learning-analytics",
+"online-platforms-address-offline-peer-feedback-limits":"online-platforms-address-offline-peer-feedback-limits",
 "online-srl-peer-feedback-groups-after-each-training-lesson":"online-srl-peer-feedback-groups-after-each-training-lesson",
 "online_videos_for_family_learning":"online_videos_for_family_learning",
 "open-cc-licensed-pd-slides-strategy":"open-cc-licensed-pd-slides-strategy",
@@ -344289,6 +344853,7 @@
 "support-tla-adoption-success-experiences-no-audit":"support-tla-adoption-success-experiences-no-audit",
 "supported_independent_reading":"independent-reading-time",
 "supporting_self-regulation":"supporting_self-regulation",
+"supportive-accessible-welcoming-digital-spaces-strategy":"supportive-accessible-welcoming-digital-spaces-strategy",
 "supports-for-acting-on-child-assessment-information":"supports-for-acting-on-child-assessment-information",
 "supports-to-raise-teacher-expectancy-and-value-for-ai-use":"supports-to-raise-teacher-expectancy-and-value-for-ai-use",
 "surface-best-practices-from-local-leader-perspectives":"surface-best-practices-from-local-leader-perspectives",
@@ -344327,6 +344892,7 @@
 "synthetic-negative-examples-llm-dataset-balancing":"synthetic-negative-examples-llm-dataset-balancing",
 "system-level-strategies-powerful-learning-conditions":"system-level-strategies-powerful-learning-conditions",
 "system-of-least-prompts-graceful-exit":"system-of-least-prompts-graceful-exit",
+"systematic-direct-phonics-one-to-one-strategy-id":"systematic-direct-phonics-one-to-one-strategy-id",
 "systematic-educator-training-for-playlist-implementation":"systematic-educator-training-for-playlist-implementation",
 "systematic-follow-up-instructional-shifts":"systematic-follow-up-instructional-shifts",
 "systematic-online-material-access-high-risk-children":"systematic-online-material-access-high-risk-children",
@@ -344819,6 +345385,7 @@
 "use-community-demographic-data-for-school-planning":"use-community-demographic-data-for-school-planning",
 "use-completer-surveys-accreditation-continuous-improvement":"use-completer-surveys-accreditation-continuous-improvement",
 "use-creact-discussions-in-classroom":"use-creact-discussions-in-classroom",
+"use-creativity-task-taxonomy-for-design-and-discourse":"use-creativity-task-taxonomy-for-design-and-discourse",
 "use-ct-pck-survey-for-professional-learning-planning":"use-ct-pck-survey-for-professional-learning-planning",
 "use-current-events-fictional-characters":"use-current-events-fictional-characters",
 "use-design-based-methods-randomized-studies":"use-design-based-methods-randomized-studies",

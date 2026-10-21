@@ -13,7 +13,7 @@ generated:
 # Annotating
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (8 for, 13 mixed, 3 against) · 32 studies (13 causal, 6 quant-synthesis, 6 review, 3 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 32 report an effect size · 15 claims rest on one study
+> **Evidence** · 25 claims (9 for, 13 mixed, 3 against) · 33 studies (13 causal, 7 review, 6 quant-synthesis, 3 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 33 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -108,6 +108,7 @@ Part 1 should weaken if well-selected learner highlighting fails to improve perf
 - [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](../claims/annotation-engagement-no-comprehension-effect.md) [~W]
 - [After introduction, the student used the INSERT text-marking strategy consistently and independently, suggesting transfer](../claims/insert-strategy-independent-use-transfer-case.md) [~W]
 - [Snippet selection contributes to integration quality over and above reading fluency and reading comprehension](../claims/snippet-selection-predicts-integration-above-reading-skills.md) [+W]
+- [Better note quality and quantity relate to better memory, verbatim overlap relates negatively, and noted propositions are far more likely to be recalled](../claims/note-quality-quantity-verbatim-overlap-effects.md) [+W]
 
 ## Related Principles
 - [Note-taking](note-taking.md) — annotation is note-taking anchored directly to a source text

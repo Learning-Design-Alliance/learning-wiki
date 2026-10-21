@@ -89,3 +89,7 @@ A direct replication of Mueller and Oppenheimer (2014) that added an eWriter gro
 - [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-principle.md) — related
 - [Taking and reviewing handwritten notes yields slightly higher achievement than typing notes among college students, by one meta-analysis reported second-hand](handwritten-notes-higher-achievement-than-typing.md) — related
+- [Laptop versus longhand note-taking effects are mixed: typing benefited memory in some studies but longhand benefited conceptual questions in others](laptop-longhand-divergent-effects.md) — related
+- [Lecture modality (written, audio, video, live) shows no consistent effect on memory for lecture content or on the note-taking effect](lecture-modality-no-effect-note-taking-memory.md) — related
+- [Spaced note-taking during lecture breaks outperformed parallel and no note-taking, and memory was worse at once-double lecture speed](lecture-speed-spaced-note-taking-aiken.md) — related
+- [Better note quality and quantity relate to better memory, verbatim overlap relates negatively, and noted propositions are far more likely to be recalled](note-quality-quantity-verbatim-overlap-effects.md) — related

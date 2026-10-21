@@ -28,7 +28,7 @@ sources:
 # Fostering Creative Thinking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (18 for, 8 mixed, 2 against) · 27 studies (9 causal, 6 review, 4 theoretical, 3 design, 2 quant-synthesis, 2 associational, 1 qualitative), `q1`–`q4` · 8 of 27 report an effect size · 24 claims rest on one study
+> **Evidence** · 29 claims (18 for, 9 mixed, 2 against) · 28 studies (9 causal, 7 review, 4 theoretical, 3 design, 2 quant-synthesis, 2 associational, 1 qualitative), `q1`–`q4` · 8 of 28 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ Output during an activity, originality judged by raters, interest afterwards, un
 - [PGR students rejected GenAI generation of research ideas, original arguments, or whole papers as violating authorship norms, while accepting surface-level support](../claims/genai-authorship-boundary-rejected-substitution.md) [+W]
 - [Immediate responders generate fewer ideas than conscious and unconscious thinkers (Experiment 1)](../claims/immediate-condition-fewer-ideas-exp1.md) [+W]
 - [People expecting a reward for a task perform worse than those expecting nothing, especially on tasks requiring cognitive sophistication and open-ended thinking](../claims/rewards-reduce-task-performance.md) [+W]
+- [Ideation training benefits transfer by domain: verbal training raised verbal and figural creativity, figural training only figural](../claims/ideation-training-domain-specific-transfer.md) [~W]
 
 ## Related Principles
 - [Transfer of Learning](transfer-of-learning.md) — divergent, abstraction-oriented thinking is also one of the general mechanisms that supports transfer

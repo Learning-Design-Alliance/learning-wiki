@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 62 claims (45 show a difference, 13 mixed, 4 no difference) · 35 studies (12 causal, 11 associational, 6 review, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 10 of 35 report an effect size · 60 claims rest on one study
+> **Evidence** · 69 claims (51 show a difference, 14 mixed, 4 no difference) · 37 studies (12 causal, 11 associational, 7 review, 3 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 10 of 37 report an effect size · 67 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -97,6 +97,13 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Vigorous physical activity is positively and significantly correlated with fluency, originality, flexibility and overall creativity in 10–11-year-old children](../claims/vigorous-activity-correlates-divergent-thinking.md) [+M] — instruction changes it
 - [Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration](../claims/vigorous-activity-predicts-o-flu-fle-not-ela.md) [~W] — instruction changes it
 - [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](../claims/open-inquiry-scientific-thinking-skills.md) [+M] — instruction changes it
+- [Creativity-supportive school climates combine autonomy, psychological safety, teacher encouragement, and rich resources](../claims/creativity-supportive-climate-factors.md) [+M] — instruction changes it
+- [Developmental patterns are less pronounced for the originality subdimension of creativity in open-ended fragmenting tasks](../claims/originality-subdimension-less-pronounced-development.md) [~W] — instruction changes it
+- [Explicit creativity training programs are effective in fostering creativity in formal schooling](../claims/explicit-creativity-training-programs-effective.md) [+M] — instruction changes it
+- [Ideation-based interventions are a robustly implemented explicit approach that improves creative performance](../claims/ideation-interventions-improve-creative-performance.md) [+M] — instruction changes it
+- [Implicit pedagogical approaches—inquiry, open-ended tasks, cross-disciplinary and student-centered learning—contribute significantly to creativity development](../claims/implicit-pedagogies-foster-creativity.md) [+M] — instruction changes it
+- [Individual engagement with an educational robot yielded greater divergent-thinking gains than pair work](../claims/individual-robot-engagement-beats-pairs-divergent-thinking.md) [+M] — instruction changes it
+- [Systemic barriers—rigid curricula, limited teacher training, and innate-creativity misconceptions—marginalize creativity in mainstream education](../claims/systemic-barriers-marginalize-creativity.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

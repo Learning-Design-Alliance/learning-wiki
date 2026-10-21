@@ -61,8 +61,10 @@ Explicit, systematic phonics produces stronger word-reading and decoding outcome
 6. **Apply in decodable text** — students read connected text composed mostly of taught patterns, transferring blending to real reading.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — phoneme awareness activities activate the oral-language base that letter–sound mapping attaches to
 - Cumulative review and retrieval routines — phonics sequences depend on spaced, cumulative practice to reach automaticity
+- [Use systematic, direct phonics instruction delivered one-to-one when teaching decoding to students with intellectual disability](systematic-direct-phonics-one-to-one-strategy-id.md)
 
 ## Examples
 - **[Reading Mastery](https://www.mheonline.com)** — a Direct Instruction program with tightly scripted phonics lessons, choral responding, and built-in correction procedures.

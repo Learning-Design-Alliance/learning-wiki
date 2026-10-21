@@ -50,3 +50,4 @@ Experiment 1 with 255 sixth-graders and 14 teachers: teachers gave text-by-text 
 - [Teachers show stronger regulation than students: both select lower-JOL texts for restudy, but the JOL–restudy correlation is significantly stronger for teachers (Experiment 1).](teacher-regulation-stronger-than-student-regulation.md) — related
 - [Test performance differs by cue-prompt condition in Experiment 1, with higher scores in the no-cue condition than the summary condition.](test-performance-higher-no-cue-than-summary-condition.md) — related
 - [The keyword-quality–JOL correlation increases after comparison with expert keywords, indicating learners exploit keyword quality as a cue only when given external standards](keyword-quality-jol-correlation-increases-with-expert-standards.md) — related
+- [Organizational cues during a lecture have a large effect on understanding of lecture structure and memory for details](organizational-cues-large-effect-lecture.md) — related

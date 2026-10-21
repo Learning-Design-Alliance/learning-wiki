@@ -53,3 +53,4 @@ Experiment with 191 fifth-grade children randomly assigned to Control, Immediate
 - Baseline performance differed by later treatment group for two tasks, with the delayed-reward group giving fewer baseline responses, while no sex or order effects emerged — related
 - The creativity dimension appears strongly in lower-SES urban black fifth-grade children and shows little relation to IQ — related
 - [Peer response groups increase the number of idea units in English learners' writing but show no significant effect on composition quality or sentences written (Prater & Bermudez, 1993)](peer-response-groups-writing-idea-units.md) — related
+- [Ideation training benefits transfer by domain: verbal training raised verbal and figural creativity, figural training only figural](ideation-training-domain-specific-transfer.md) — related

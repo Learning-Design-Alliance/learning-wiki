@@ -89,6 +89,7 @@ Search is a procedural skill with a large novice search space: unguided, novices
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the instructional method for making expert search reasoning visible
 - [Metacognitive Reflection Prompts](metacognitive_reflection_prompts.md) — structures the reflection component of this strategy
 - [Broaden search terminology and bibliographic databases in future eWIL reviews](ewil-future-review-search-strategy.md)
+- [Use broad and specific keywords and develop methodological search filters to improve retrieval of arts-based research](abr-keyword-indexation-strategy.md)
 
 ## Examples
 - **The Big6 information literacy framework** (Eisenberg & Berkowitz) — a widely adopted K–12 curriculum that explicitly teaches task definition, information-seeking strategies, and source evaluation as sequenced steps ([https://thebig6.org](https://thebig6.org)).

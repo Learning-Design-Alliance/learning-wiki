@@ -50,3 +50,4 @@ Meta-analysis of 75 single-case design studies (236 participants, 456 effects) u
 - [Prompted self-monitoring is the most frequently used self-management configuration in school-based single-case research](prompted-self-monitoring-most-frequent-configuration.md) — a narrower finding that bears on this claim
 - [Self-management intervention configurations show strong mean effect sizes but substantial effect size heterogeneity in single-case research](self-management-strong-mean-effects-with-heterogeneity.md) — related
 - [Group-design studies show a significant main effect of self-management interventions on classroom behaviors (g = 0.63), but rest on only four studies](sm-group-design-main-effect-g063.md) — related
+- [Single-case studies yielded a larger average effect size (g = 1.94) than group studies (g = 0.41) in this meta-analysis](single-case-larger-effects-than-group-studies-phonics-id.md) — related

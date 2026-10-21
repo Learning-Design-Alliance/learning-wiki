@@ -57,8 +57,10 @@ Explicit, systematic phonics instruction produces stronger word-reading and gene
 5. Assess mastery and reteach before introducing new correspondences; cumulative review of previously taught patterns
 
 ## Related Strategies
+
 - Repeated reading and fluency practice — builds the automaticity that explicit decoding initiates
 - Vocabulary and comprehension instruction — the necessary complement once decoding is secure
+- [Use systematic, direct phonics instruction delivered one-to-one when teaching decoding to students with intellectual disability](systematic-direct-phonics-one-to-one-strategy-id.md)
 
 ## Examples
 - **[Direct Instruction](../patterns/direct-instruction.md)** programs such as *Reading Mastery* deliver scripted, sequenced phonics lessons with choral responding and immediate correction.
