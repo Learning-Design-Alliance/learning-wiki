@@ -98,4 +98,4 @@ source would be reasonable if a third study disagreed.
 - Integrative motivation sustains long-term language-learning motivation better than instrumental motivation — related
 - [Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively](ideal-l2-self-predicts-self-efficacy.md) — related
 - [Criterion measures, attitudes towards learning English, instrumentality promotion, and ideal L2 self are the strongest predictors of L2 self-efficacy](strongest-motivation-predictors-of-self-efficacy.md) — related
-- [Only about a third of K‑5 writing‑motivation studies explicitly referred to motivation theory to justify the design or choice of their motivation measure](weak-theoretical-rationale-motivation-measures.md) — related
+- Only about a third of K‑5 writing‑motivation studies explicitly referred to motivation theory to justify the design or choice of their motivation measure — related

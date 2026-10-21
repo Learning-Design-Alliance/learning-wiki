@@ -43,7 +43,7 @@ Content analysis of the 13 included articles in this systematic mapping literatu
 
 
 ## Related Claims
-- [TES literature in P-20 education is concentrated in science education and post-secondary settings](tes-literature-science-postsecondary-concentration.md) — related
-- [Research studies on TES in P-20 education rely almost entirely on qualitative methods with sparse methodological detail](tes-research-qualitative-methods-gap.md) — related
+- TES literature in P-20 education is concentrated in science education and post-secondary settings — related
+- Research studies on TES in P-20 education rely almost entirely on qualitative methods with sparse methodological detail — related
 - [Reviewed articles identify tokenism, resource limitations, loss of Elders, and emotional-political challenges as risks in using TES](tes-implementation-challenges-tokenism-resources.md) — related
 - [Included research studies suggest TES with land-based and experiential pedagogies deepens student engagement in post-secondary education](tes-land-based-experiential-engagement.md) — related

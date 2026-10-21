@@ -44,7 +44,7 @@ The authors' narrative review of the spacing and interleaving literatures report
 
 ## Related Claims
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
-- [Verbal learning tasks with intervals filled with other to-be-learned items test the discriminative-contrast hypothesis rather than the spacing effect](verbal-learning-tasks-test-discriminative-contrast.md) — possibly the same claim (merge candidate)
+- Verbal learning tasks with intervals filled with other to-be-learned items test the discriminative-contrast hypothesis rather than the spacing effect — possibly the same claim (merge candidate)
 - [Inserting trivia questions between interleaved exemplars impairs inductive learning when it disrupts juxtaposition of categories, with total spacing held constant](interrupting-juxtaposition-impairs-inductive-learning.md) — related
 - [When trivia questions space out exemplars, spacing and interleaving are subadditive: interleaving beats blocking only with contiguous presentation, and spacing helps blocked but not interleaved study](spacing-interleaving-subadditive-interaction.md) — related
 - [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — related

@@ -44,4 +44,4 @@ The review's synthesis of studies on conditionalities: structural adjustment loa
 
 ## Related Claims
 - [Loans are the most common pathway of World Bank influence, and their scale and discretionary weight amplify their impact](world-bank-loans-most-common-pathway.md) — related
-- [Pathway mentions in the literature rose over time, suggesting the World Bank diversified its influence strategies beyond lending](world-bank-pathway-diversification-over-time.md) — related
+- Pathway mentions in the literature rose over time, suggesting the World Bank diversified its influence strategies beyond lending — related

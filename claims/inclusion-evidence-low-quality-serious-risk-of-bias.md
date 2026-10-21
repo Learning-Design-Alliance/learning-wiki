@@ -50,4 +50,4 @@ Risk of bias assessment using ROBINS-I across the 15 studies in the synthesis; t
 - [The SBLE evidence base contains no randomized experiments and carries high risk of bias](sble-evidence-base-no-randomized-studies-high-risk-bias.md) — related
 - The evidence base on COVID-19 learning is geographically skewed toward high-income countries and about half of studies carry serious or critical risk of bias, with no evidence of publication bias — related
 - [Inclusion shows a small, non-significant pooled advantage over segregated placement for overall psychosocial adjustment of children with SEN](inclusion-psychosocial-adjustment-smd-020-nonsignificant.md) — related
-- [Reporting quality of comparative TGA studies was mostly low, with moderate to serious risk of bias](tga-studies-low-reporting-quality-rob.md) — related
+- Reporting quality of comparative TGA studies was mostly low, with moderate to serious risk of bias — related

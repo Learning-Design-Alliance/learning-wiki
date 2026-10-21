@@ -13,7 +13,7 @@ generated:
 # Redesigned TALIS-PISA Link (rTPL) database
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A linked database combining TALIS 2013 mathematics-teacher responses with PISA 2012 student responses from the same schools to support analysis of mathematics instructional quality from multiple perspectives.
@@ -24,7 +24,6 @@ A linked database combining TALIS 2013 mathematics-teacher responses with PISA 2
 
 ### Claims
 
-- [Teacher-reported mathematics instructional quality in pooled TALIS 2013 data from seven countries has three dimensions: classroom disciplinary climate, teacher support, and cognitive activation](../claims/teacher-three-dimensions-math-iq-talis.md) [+W]
 - [The three-dimensional teacher-reported model does not hold in all countries, so configural invariance was not achieved and cross-country comparison of teacher-perceived instructional quality was hardly possible](../claims/teacher-model-configural-invariance-fails.md) [+W]
 - [Mexico's measurement models differed from all other countries, so Mexico was excluded and the study reports seven countries](../claims/mexico-excluded-different-measurement-models.md) [+W]
 

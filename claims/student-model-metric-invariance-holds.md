@@ -64,7 +64,6 @@ Second invariance step for the student model. Because "the metric and the scalar
 ## Related Claims
 
 - [The three-dimensional teacher-reported model does not hold in all countries, so configural invariance was not achieved and cross-country comparison of teacher-perceived instructional quality was hardly possible](teacher-model-configural-invariance-fails.md)
-- [Teacher-reported mathematics instructional quality in pooled TALIS 2013 data from seven countries has three dimensions: classroom disciplinary climate, teacher support, and cognitive activation](teacher-three-dimensions-math-iq-talis.md)
 - [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related
 - Student-reported mathematics instructional quality in pooled PISA 2012 data has five dimensions: teacher support, cognitive activation, classroom disciplinary climate, classroom management, and student-orientated instruction — related
 - A higher-order general instructional quality factor fits the student data in all seven countries but does not hold for teacher data — related

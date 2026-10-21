@@ -17,7 +17,7 @@ sources:
 # Use multimodal data and time-sensitive analyses to capture situational motivational processes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The review recommends that future research and learning-technology design exploit multimodal data sources — such as physiological measures, log data, and wearable-device tracking correlated with self-reports — together with time-sensitive analyses, to capture moment-to-moment motivational fluctuation in authentic learning. The authors state: "Future research should explore the potential of multimodal data and the more extensive use of time-sensitive analyses to capture the complexity and developmental aspects of motivational processes." This knowledge is intended to inform personalized AI-based support systems that respond in the moment to students' motivational needs as part of self-regulated learning.
@@ -41,7 +41,6 @@ The review recommends that future research and learning-technology design exploi
 - [Interconnections between motivational constructs and learning are complex and temporal, evidenced by 78% (n = 14) of momentary-wave studies](../claims/complex-temporal-interconnections-motivation-learning.md) [+W]
 - [During an exam, students' expectancy for success decreased and the change in expectancy was negatively associated with change in salivary cortisol](../claims/expectancy-decline-linked-cortisol-exam.md) [+W]
 - [Situational motivation is influenced by the learning context, with evidence mainly from situation-specific studies (65%) rather than momentary studies (28%)](../claims/situational-motivation-influenced-by-learning-context.md) [+W]
-- [Situational motivation research splits into two waves: situation-specific offline measurement (n = 62) dominates, while momentary online measurement (n = 18) remains scarce](../claims/two-waves-situational-motivation-research.md) [+W]
 
 ## Related Strategies
 

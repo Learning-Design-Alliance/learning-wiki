@@ -44,7 +44,7 @@ The review's synthesis of 24 included comparative studies in school PE, summariz
 
 ## Related Claims
 - [A prior meta-analysis found tactical interventions significantly improved decision-making but not skill execution compared with technical approaches](prior-meta-analysis-decision-making-not-skill-execution.md) — related
-- [Comparative TGA research is concentrated in Western Europe, equally split between primary and secondary schools, mostly single-sport and quasi-experimental](tga-comparative-study-characteristics.md) — related
-- [Reporting quality of comparative TGA studies was mostly low, with moderate to serious risk of bias](tga-studies-low-reporting-quality-rob.md) — related
+- Comparative TGA research is concentrated in Western Europe, equally split between primary and secondary schools, mostly single-sport and quasi-experimental — related
+- Reporting quality of comparative TGA studies was mostly low, with moderate to serious risk of bias — related
 - [Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.](teaching-games-for-understanding-improves-tactical-decision-making.md) — related
 - [Intervention length may matter: a prior review found positive associations for decision-making and skill execution for interventions longer than 8 hours](intervention-length-over-8-hours-decision-making.md) — related

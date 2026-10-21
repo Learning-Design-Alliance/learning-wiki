@@ -47,4 +47,4 @@ Synthesis of 165 eligible articles on teacher self-efficacy via a criteria-based
 - [Teacher self-efficacy shows positive links with patterns of teacher behavior and practices related to classroom quality](tse-positive-links-classroom-quality-practices.md) — related
 - [Teacher self-efficacy shows positive links with personal accomplishment, job satisfaction, and commitment](tse-positive-links-well-being-factors.md) — related
 - [Teacher self-efficacy shows negative associations with burnout factors](tse-negative-associations-burnout.md) — related
-- [The review identifies gaps in the measurement and analysis of TSE in the educational literature](tse-measurement-analysis-gaps.md) — related
+- The review identifies gaps in the measurement and analysis of TSE in the educational literature — related

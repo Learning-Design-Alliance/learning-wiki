@@ -17,7 +17,7 @@ sources:
 # Specify pathways of influence rather than making general claims of policy imposition or agenda-shaping
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The review recommends that scholars of international organizations in education move beyond general claims of policy imposition or agenda-shaping and instead analyze the specific avenues through which influence is exercised. It offers its 11-pathway typology as the analytic tool for doing so, arguing that conceptually-informed discussions of World Bank influence are few and that pathway-level analysis also contributes to the policy diffusion literature by focusing on one organization's actions at the national level.
@@ -41,7 +41,6 @@ The review recommends that scholars of international organizations in education 
 
 - [Loan conditionalities compel policy reform, with SAP-era requirements later evolving into subtler forms such as Poverty Reduction Strategy Papers and impact-evaluation demands](../claims/world-bank-conditionality-evolved-subtler.md) [+W]
 - [Loans are the most common pathway of World Bank influence, and their scale and discretionary weight amplify their impact](../claims/world-bank-loans-most-common-pathway.md) [+W]
-- [Pathway mentions in the literature rose over time, suggesting the World Bank diversified its influence strategies beyond lending](../claims/world-bank-pathway-diversification-over-time.md) [+W]
 - [Pilot projects serve as a pathway for testing models, gaining organizational footholds, and building political support before scale-up](../claims/world-bank-pilot-projects-foothold-pathway.md) [+W]
 - [Technical assistance functions as a structural constraint that embeds World Bank frameworks in national policymaking, not merely as advice](../claims/world-bank-technical-assistance-structural-constraint.md) [+W]
 

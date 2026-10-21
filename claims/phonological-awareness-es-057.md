@@ -44,4 +44,3 @@ Outcome-specific synthesis of six studies using either a commercial program (Pal
 
 ## Related Claims
 - [Phonological awareness and fluency show the largest effect-size relations with reading comprehension among Spanish-speaking children's essential reading components.](pa-fluency-largest-relations-comprehension-spanish.md) — related
-- [Most studies of Spanish-speaking children's reading have focused on phonological awareness or alphabetic principle in relation to reading comprehension.](most-studies-focus-pa-alphabetic-principle.md) — related
