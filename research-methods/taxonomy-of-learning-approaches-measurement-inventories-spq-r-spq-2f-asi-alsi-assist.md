@@ -28,7 +28,7 @@ The review describes the family of questionnaires used to measure learning appro
 
 ## Related Research Methods
 
-- [Systematic review evidence corpus: 49 studies of learning approaches and academic performance in medical and dental education (2000–2023)](../products/systematic-review-evidence-corpus-49-studies-of-learning-approaches-and-academic-performan.md): the review's corpus of studies using these inventories
+- Systematic review evidence corpus: 49 studies of learning approaches and academic performance in medical and dental education (2000–2023): the review's corpus of studies using these inventories
 - [Deep versus surface learning strategies as determinants of scientific text understanding](../theories/deep-surface-strategy-distinction-text-processing.md): the deep-surface distinction the inventories measure
 
 ## Key Sources

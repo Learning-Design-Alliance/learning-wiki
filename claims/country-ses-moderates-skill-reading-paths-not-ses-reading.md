@@ -10,17 +10,17 @@ generated:
 evidence_strength: moderate
 sources:
   - id: li-2023
-    resource: "https://doi.org/10.31234/osf.io/7yv6r"
-    title: "Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling [Preprint]. PsyArXiv. [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r) (published as Li, Peng, Ma, Ding & Zhao, 2023, *Educational Psychology Review, 35*, 119)"
-    author: "Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J."
+    resource: "https://doi.org/10.1007/s10648-023-09834-1"
+    title: "Li, J., Peng, P., Ma, X., Ding, N., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. *Educational Psychology Review, 35*(4), 119. [doi:10.1007/s10648-023-09834-1](https://doi.org/10.1007/s10648-023-09834-1) (read from the PsyArXiv preprint, [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r))"
+    author: "Li, J., Peng, P., Ma, X., Ding, N., & Zhao, J."
     q: 3
     i: "?"
     kind: quant-synthesis
     rigour: 2
   - id: li-2023-2
-    resource: "https://doi.org/10.31234/osf.io/7yv6r"
-    title: "Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling [Preprint]. PsyArXiv. [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r) (published as Li, Peng, Ma, Ding & Zhao, 2023, *Educational Psychology Review, 35*, 119)"
-    author: "Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J."
+    resource: "https://doi.org/10.1007/s10648-023-09834-1"
+    title: "Li, J., Peng, P., Ma, X., Ding, N., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. *Educational Psychology Review, 35*(4), 119. [doi:10.1007/s10648-023-09834-1](https://doi.org/10.1007/s10648-023-09834-1) (read from the PsyArXiv preprint, [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r))"
+    author: "Li, J., Peng, P., Ma, X., Ding, N., & Zhao, J."
     q: 3
     i: "?"
     kind: quant-synthesis
@@ -40,7 +40,7 @@ sources:
 
 ### Li 2023
 
-Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling [Preprint]. PsyArXiv. [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r) (published as Li, Peng, Ma, Ding & Zhao, 2023, *Educational Psychology Review, 35*, 119)
+Li, J., Peng, P., Ma, X., Ding, N., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. *Educational Psychology Review, 35*(4), 119. [doi:10.1007/s10648-023-09834-1](https://doi.org/10.1007/s10648-023-09834-1) (read from the PsyArXiv preprint, [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r))
 
 `q3 · i?` · `quant-synthesis · r2`
 
@@ -50,7 +50,7 @@ OSMASEM on the reading accuracy model (omnibus χ2(5) = 40.92, p < 0.001), with 
 
 ### Li 2023 (2)
 
-Li, J., Peng, P., Ding, N., Ma, X., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling [Preprint]. PsyArXiv. [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r) (published as Li, Peng, Ma, Ding & Zhao, 2023, *Educational Psychology Review, 35*, 119)
+Li, J., Peng, P., Ma, X., Ding, N., & Zhao, J. (2023). How does family socioeconomic status influence children's reading ability? Evidence from meta-analytic structural equation modeling. *Educational Psychology Review, 35*(4), 119. [doi:10.1007/s10648-023-09834-1](https://doi.org/10.1007/s10648-023-09834-1) (read from the PsyArXiv preprint, [doi:10.31234/osf.io/7yv6r](https://doi.org/10.31234/osf.io/7yv6r))
 
 `q3 · i?` · `quant-synthesis · r3`
 

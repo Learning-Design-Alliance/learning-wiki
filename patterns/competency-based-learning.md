@@ -207,7 +207,7 @@ This pattern is scoped to a course organised around a competency map with criter
 - Bastani, H., Bastani, O., Sungu, A., Ge, H., Kabakcı, Ö., & Mariman, R. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. *PNAS*. [doi:10.1073/pnas.2422633122](https://doi.org/10.1073/pnas.2422633122)
 - Yang, L., et al. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. [doi:10.48550/arxiv.2609.10939](https://doi.org/10.48550/arxiv.2609.10939)
 - Patrick, S. K. (2024). How preparation predicts teaching performance assessment results in California. Learning Policy Institute. [doi:10.54300/544.849](https://doi.org/10.54300/544.849)
-- Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Learning Policy Institute. [doi:10.54300/559.310](https://doi.org/10.54300/559.310)
+- Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. [doi:10.54300/559.310](https://doi.org/10.54300/559.310)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The page's earlier body, kept verbatim:
 

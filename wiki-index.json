@@ -8,8 +8,8 @@
 "pattern":54,
 "principle":170,
 "process":18,
-"product":1860,
-"research-method":569,
+"product":1829,
+"research-method":568,
 "strategy":6453,
 "theory":1360
 },
@@ -371,7 +371,6 @@
 "cwpt-learning-management-system":"product/cwpt-learning-management-system-cwptlms",
 "daisyquest-software-bundle":"product/daisyquest",
 "danielson-framework-for-teaching-observation-tool":"product/framework-for-teaching",
-"dataset-31-studies-innovative-learning-problem-solving":"product/coded-dataset-of-31-studies-comparing-innovative-and-conventional-learning-on-junior-high",
 "day2day-environment-dataset":"product/day2day-environment-multimodal-longitudinal-dataset",
 "dbph-talking-book-audio-service-network":"product/library-of-congress-dbph-talking-book-audio-service-network",
 "dc-early-childhood-educator-pay-equity-fund":"product/washington-dcs-early-childhood-educator-pay-equity-fund-pef",
@@ -1334,6 +1333,7 @@
 },
 "research-method":{
 "design-based-research":"process/design-based-research",
+"design-based-research-dbr":"process/design-based-research",
 "me-checklist":"product/me-checklist"
 },
 "strategy":{
@@ -237644,14 +237644,6 @@
 "type":"product"
 },
 {
-"description":"A corpus of 36 peer-reviewed studies on generative-AI integration in higher education, assembled by Alvedi Sabani et al.",
-"id":"36-study-prisma-systematic-review-corpus-on-genai-in-higher-education-20232025",
-"path":"products/36-study-prisma-systematic-review-corpus-on-genai-in-higher-education-20232025.md",
-"status":"review",
-"title":"36-study PRISMA systematic review corpus on GenAI in higher education (2023–2025)",
-"type":"product"
-},
-{
 "description":"A programme run through Oculus VR for Good in which young people produce 360-degree films using emerging technology, educator support, professional mentors, prompts, and an authentic audience.",
 "id":"360-filmmakers-challenge",
 "path":"products/360-filmmakers-challenge.md",
@@ -237724,14 +237716,6 @@
 "type":"product"
 },
 {
-"description":"A corpus of 53 screened studies on GenAI effects on academic achievement, higher-order thinking, and writing, assembled and quality-rated by Ying Dong through a PRISMA-based review.",
-"id":"53-study-prisma-screened-evidence-corpus-on-genai-and-educational-outcomes",
-"path":"products/53-study-prisma-screened-evidence-corpus-on-genai-and-educational-outcomes.md",
-"status":"review",
-"title":"53-study PRISMA-screened evidence corpus on GenAI and educational outcomes",
-"type":"product"
-},
-{
 "description":"A researcher-constructed questionnaire measuring ninth-grade students’ self-reported cognitive and metacognitive activities while studying a specific history text, developed by Gonny Schellings.",
 "id":"58-item-task-specific-learning-strategy-questionnaire",
 "path":"products/58-item-task-specific-learning-strategy-questionnaire.md",
@@ -237769,14 +237753,6 @@
 "path":"products/6to16-college-readiness-and-social-capital-curriculum.md",
 "status":"review",
 "title":"6to16 college-readiness and social capital curriculum",
-"type":"product"
-},
-{
-"description":"A corpus of 75 papers published from 2022–2025 on perceptions of generative AI in Global South higher education, categorized across five areas and with data files available from the authors by request.",
-"id":"75-paper-prisma-scr-corpus-on-genai-perceptions-in-global-south-higher-education-2022-2025",
-"path":"products/75-paper-prisma-scr-corpus-on-genai-perceptions-in-global-south-higher-education-2022-2025.md",
-"status":"review",
-"title":"75-paper PRISMA-ScR corpus on GenAI perceptions in Global South higher education (2022-2025)",
 "type":"product"
 },
 {
@@ -238066,14 +238042,6 @@
 "path":"products/adult-promise-initiative.md",
 "status":"review",
 "title":"Adult Promise initiative",
-"type":"product"
-},
-{
-"description":"A meta-analytic dataset and coding manual assembled by Daniel J.",
-"id":"adventure-therapy-outcome-meta-analytic-dataset-and-coding-manual",
-"path":"products/adventure-therapy-outcome-meta-analytic-dataset-and-coding-manual.md",
-"status":"review",
-"title":"Adventure therapy outcome meta-analytic dataset and coding manual",
 "type":"product"
 },
 {
@@ -239776,22 +239744,6 @@
 "type":"product"
 },
 {
-"description":"A research dataset assembled by Ridwan et al.",
-"id":"coded-dataset-of-31-studies-comparing-innovative-and-conventional-learning-on-junior-high",
-"path":"products/coded-dataset-of-31-studies-comparing-innovative-and-conventional-learning-on-junior-high.md",
-"status":"review",
-"title":"Coded dataset of 31 studies comparing innovative and conventional learning on junior high school mathematics problem-solving ability",
-"type":"product"
-},
-{
-"description":"An open coded dataset from Emhardt et al.'s review of 72 EMME studies and 78 experiments, released through the DANS repository for researchers studying gaze-based instruction.",
-"id":"coded-dataset-of-72-emme-studies-published-via-dans",
-"path":"products/coded-dataset-of-72-emme-studies-published-via-dans.md",
-"status":"review",
-"title":"Coded dataset of 72 EMME studies published via DANS",
-"type":"product"
-},
-{
 "description":"CogEvol-4B is an Apache 2.0-licensed open-weight model and deployment package from the CogEvol Team for generating presentation slides and interactive HTML courseware, including an on-device GGUF build and MAIC-UI editing harness.",
 "id":"cogevol-4b-open-weight-model-release-with-gguf-build-and-maic-ui-editing-harness",
 "path":"products/cogevol-4b-open-weight-model-release-with-gguf-build-and-maic-ui-editing-harness.md",
@@ -240241,46 +240193,6 @@
 "type":"product"
 },
 {
-"description":"A research corpus assembled and synthesized by Davis et al.",
-"id":"corpus-of-16-single-subject-self-monitoring-studies-with-28-unique-participants-with-asd",
-"path":"products/corpus-of-16-single-subject-self-monitoring-studies-with-28-unique-participants-with-asd.md",
-"status":"review",
-"title":"Corpus of 16 single-subject self-monitoring studies with 28 unique participants with ASD",
-"type":"product"
-},
-{
-"description":"A corpus compiled by Espino et al.",
-"id":"corpus-of-213-peer-reviewed-journal-articles-on-ai-in-business-education-dimensions-201520",
-"path":"products/corpus-of-213-peer-reviewed-journal-articles-on-ai-in-business-education-dimensions-201520.md",
-"status":"review",
-"title":"Corpus of 213 peer-reviewed journal articles on AI in business education (Dimensions, 2015–2024)",
-"type":"product"
-},
-{
-"description":"A curated corpus of 22 English-language peer-reviewed journal studies on direct student use of large language models in higher education, assembled by Martínez-Peláez et al.",
-"id":"corpus-of-22-peer-reviewed-llm-in-higher-education-studies-20232024-with-geographic-publis",
-"path":"products/corpus-of-22-peer-reviewed-llm-in-higher-education-studies-20232024-with-geographic-publis.md",
-"status":"review",
-"title":"Corpus of 22 peer-reviewed LLM-in-higher-education studies (2023–2024) with geographic, publisher and keyword-cluster profile",
-"type":"product"
-},
-{
-"description":"A curated evidence corpus of 48 empirical studies on student engagement in undergraduate mathematics, assembled by Papageorgiou, Wong, Liu, Khalil, and Cabo through PRISMA-guided searching and screening.",
-"id":"corpus-of-48-peer-selected-empirical-studies-of-se-in-undergraduate-mathematics-20092024",
-"path":"products/corpus-of-48-peer-selected-empirical-studies-of-se-in-undergraduate-mathematics-20092024.md",
-"status":"review",
-"title":"Corpus of 48 peer-selected empirical studies of SE in undergraduate mathematics (2009–2024)",
-"type":"product"
-},
-{
-"description":"A corpus compiled by Tianyi Ma et al.",
-"id":"corpus-of-50-studies-with-185-effect-sizes-on-parenting-self-efficacy-and-home-school-part",
-"path":"products/corpus-of-50-studies-with-185-effect-sizes-on-parenting-self-efficacy-and-home-school-part.md",
-"status":"review",
-"title":"Corpus of 50 studies with 185 effect sizes on parenting self-efficacy and home-school partnership",
-"type":"product"
-},
-{
 "description":"A corpus of 500 anonymized, annotated higher-education competency-based assessments compiled by Agerri et al.",
 "id":"corpus-of-500-annotated-competency-based-assessments-in-higher-education-for-developing-an",
 "path":"products/corpus-of-500-annotated-competency-based-assessments-in-higher-education-for-developing-an.md",
@@ -240289,43 +240201,11 @@
 "type":"product"
 },
 {
-"description":"A corpus of 52 studies on primary-school children's creativity development and task characteristics assembled by O.T.A.",
-"id":"corpus-of-52-studies-on-creativity-development-in-primary-education-analyzed-descriptively",
-"path":"products/corpus-of-52-studies-on-creativity-development-in-primary-education-analyzed-descriptively.md",
-"status":"review",
-"title":"Corpus of 52 studies on creativity development in primary education analyzed descriptively and meta-analytically",
-"type":"product"
-},
-{
-"description":"A corpus of 73 English-language peer-reviewed empirical studies on written online or blended peer feedback among higher-education students, compiled by Gao et al.",
-"id":"corpus-of-73-peer-reviewed-studies-on-online-peer-feedback-in-higher-education-20002022",
-"path":"products/corpus-of-73-peer-reviewed-studies-on-online-peer-feedback-in-higher-education-20002022.md",
-"status":"review",
-"title":"Corpus of 73 peer-reviewed studies on online peer feedback in higher education (2000–2022)",
-"type":"product"
-},
-{
-"description":"A corpus compiled by Fagerlund et al.",
-"id":"corpus-of-77-peer-reviewed-k-12-data-literacy-education-studies-yielding-611-purpose-expre",
-"path":"products/corpus-of-77-peer-reviewed-k-12-data-literacy-education-studies-yielding-611-purpose-expre.md",
-"status":"review",
-"title":"Corpus of 77 peer-reviewed K-12 data literacy education studies yielding 611 purpose expressions",
-"type":"product"
-},
-{
 "description":"A corpus assembled by Adarkwah et al.",
 "id":"corpus-of-genai-policies-from-thirty-qs-ranked-universities-across-the-top-ten-countries-f",
 "path":"products/corpus-of-genai-policies-from-thirty-qs-ranked-universities-across-the-top-ten-countries-f.md",
 "status":"review",
 "title":"Corpus of GenAI policies from thirty QS-ranked universities across the top ten countries for AI preparedness",
-"type":"product"
-},
-{
-"description":"A Hingle (2024) corpus compiling nine empirical studies of collaborative learning for AI literacy identified through PRISMA screening across major scholarly databases.",
-"id":"corpus-of-nine-empirical-studies-of-collaborative-learning-for-ai-literacy-2015-2023",
-"path":"products/corpus-of-nine-empirical-studies-of-collaborative-learning-for-ai-literacy-2015-2023.md",
-"status":"review",
-"title":"Corpus of nine empirical studies of collaborative learning for AI literacy (2015-2023)",
 "type":"product"
 },
 {
@@ -242053,14 +241933,6 @@
 "path":"products/everyday-mathematics.md",
 "status":"review",
 "title":"Everyday Mathematics®",
-"type":"product"
-},
-{
-"description":"A von Hagen et al.",
-"id":"evidence-corpus-of-16-studies-968-participants-on-foreign-language-attainment-in-poor-read",
-"path":"products/evidence-corpus-of-16-studies-968-participants-on-foreign-language-attainment-in-poor-read.md",
-"status":"review",
-"title":"Evidence corpus of 16 studies (968 participants) on foreign language attainment in poor readers/spellers, with datasets and code on the Open Science Framework",
 "type":"product"
 },
 {
@@ -245614,62 +245486,6 @@
 "type":"product"
 },
 {
-"description":"A research dataset compiling causal effect estimates from U.S.",
-"id":"meta-analytic-corpus-of-42-us-causal-studies-yielding-73-effect-estimates-of-grant-aid-on",
-"path":"products/meta-analytic-corpus-of-42-us-causal-studies-yielding-73-effect-estimates-of-grant-aid-on.md",
-"status":"review",
-"title":"Meta-analytic corpus of 42 U.S. causal studies yielding 73 effect estimates of grant aid on persistence and degree attainment",
-"type":"product"
-},
-{
-"description":"A research corpus assembled by Christy M.",
-"id":"meta-analytic-corpus-of-77-studies-and-276-effect-sizes-on-school-racial-climate-and-belon",
-"path":"products/meta-analytic-corpus-of-77-studies-and-276-effect-sizes-on-school-racial-climate-and-belon.md",
-"status":"review",
-"title":"Meta-analytic corpus of 77 studies and 276 effect sizes on school racial climate and belonging",
-"type":"product"
-},
-{
-"description":"An open meta-analytic corpus assembled by Yasser Teimouri and colleagues from reports on second-language anxiety and achievement, with coded effect sizes and moderator information available through the IRIS database.",
-"id":"meta-analytic-corpus-of-97-reports-105-independent-samples-and-216-effect-sizes-on-l2-anxi",
-"path":"products/meta-analytic-corpus-of-97-reports-105-independent-samples-and-216-effect-sizes-on-l2-anxi.md",
-"status":"review",
-"title":"Meta-analytic corpus of 97 reports, 105 independent samples, and 216 effect sizes on L2 anxiety and achievement",
-"type":"product"
-},
-{
-"description":"An OSF-shared corpus of coded correlational studies linking children's fine motor skills with academic-cognitive outcomes, assembled and released by Sebastian P.",
-"id":"meta-analytic-dataset-of-118-fmsacademic-cognitive-correlational-studies-1110-effect-sizes",
-"path":"products/meta-analytic-dataset-of-118-fmsacademic-cognitive-correlational-studies-1110-effect-sizes.md",
-"status":"review",
-"title":"Meta-analytic dataset of 118 FMS–academic-cognitive correlational studies (1110 effect sizes, N = 79,856)",
-"type":"product"
-},
-{
-"description":"A dataset assembled and reanalysed by Cobley et al.",
-"id":"meta-analytic-dataset-of-38-rae-studies-across-14-sports-and-16-countries",
-"path":"products/meta-analytic-dataset-of-38-rae-studies-across-14-sports-and-16-countries.md",
-"status":"review",
-"title":"Meta-analytic dataset of 38 RAE studies across 14 sports and 16 countries",
-"type":"product"
-},
-{
-"description":"A dataset assembled by Baker et al.",
-"id":"meta-analytic-dataset-of-componentcomprehension-correlations-in-spanish-speaking-children",
-"path":"products/meta-analytic-dataset-of-componentcomprehension-correlations-in-spanish-speaking-children.md",
-"status":"review",
-"title":"Meta-analytic dataset of component–comprehension correlations in Spanish-speaking children",
-"type":"product"
-},
-{
-"description":"A corpus of eight single-case and six group experimental or quasi-experimental studies comprising 297 participants, assembled to synthesize evidence on phonics instruction and decoding outcomes for students with intellectual disability.",
-"id":"meta-analytic-evidence-base-of-14-studies-on-phonics-instruction-for-students-with-intelle",
-"path":"products/meta-analytic-evidence-base-of-14-studies-on-phonics-instruction-for-students-with-intelle.md",
-"status":"review",
-"title":"Meta-analytic evidence base of 14 studies on phonics instruction for students with intellectual disability",
-"type":"product"
-},
-{
 "description":"MARSI is a self-report assessment developed by Mokhtari and Reichard to measure learners' awareness and use of global, problem-solving, and support reading strategies.",
 "id":"metacognitive-awareness-of-reading-strategies-inventory",
 "path":"products/metacognitive-awareness-of-reading-strategies-inventory.md",
@@ -247743,30 +247559,6 @@
 "type":"product"
 },
 {
-"description":"A corpus of 27 English-language empirical, case-study, or meta-analytic studies published from 2014 to 2024 on AI-based collaborative learning in higher education, selected from Scopus using PRISMA 2020 procedures by Kovari (2025).",
-"id":"prisma-2020-systematic-review-corpus-of-27-studies-on-ai-based-collaborative-learning-in-h",
-"path":"products/prisma-2020-systematic-review-corpus-of-27-studies-on-ai-based-collaborative-learning-in-h.md",
-"status":"review",
-"title":"PRISMA 2020 systematic review corpus of 27 studies on AI-based collaborative learning in higher education",
-"type":"product"
-},
-{
-"description":"A coded corpus of 33 empirical studies on compulsory-education teachers' knowledge and assessment of self-regulated learning, assembled by Yves Karlen and Charlotte Dignath through PRISMA-guided searching and screening.",
-"id":"prisma-guided-corpus-of-33-studies-on-teachers-knowledge-of-srl-19902024",
-"path":"products/prisma-guided-corpus-of-33-studies-on-teachers-knowledge-of-srl-19902024.md",
-"status":"review",
-"title":"PRISMA-guided corpus of 33 studies on teachers' knowledge of SRL (1990–2024)",
-"type":"product"
-},
-{
-"description":"A corpus of 66 empirical studies on social capital among teachers and teacher professional learning, assembled by Demir through PRISMA-guided eligibility screening and Weight of Evidence appraisal.",
-"id":"prisma-guided-systematic-review-corpus-of-66-empirical-items-2004-2019",
-"path":"products/prisma-guided-systematic-review-corpus-of-66-empirical-items-2004-2019.md",
-"status":"review",
-"title":"PRISMA-guided systematic review corpus of 66 empirical items (2004-2019)",
-"type":"product"
-},
-{
 "description":"PRISMA-LLM is a 16-item reporting framework proposed by Zabaleta et al.",
 "id":"prisma-llm-16-item-universal-reporting-checklist",
 "path":"products/prisma-llm-16-item-universal-reporting-checklist.md",
@@ -248708,14 +248500,6 @@
 "path":"products/reusable-unity-package-for-blackboard-learn-api-integration.md",
 "status":"review",
 "title":"Reusable Unity package for Blackboard Learn API integration",
-"type":"product"
-},
-{
-"description":"A literature-review evidence corpus assembled by Carolien Duijzer et al.",
-"id":"review-corpus-of-44-peer-reviewed-articles-comprising-62-embodied-learning-environments-fo",
-"path":"products/review-corpus-of-44-peer-reviewed-articles-comprising-62-embodied-learning-environments-fo.md",
-"status":"review",
-"title":"Review corpus of 44 peer-reviewed articles comprising 62 embodied learning environments for graphing motion",
 "type":"product"
 },
 {
@@ -250366,38 +250150,6 @@
 "path":"products/synthesis-lab.md",
 "status":"review",
 "title":"Synthesis Lab",
-"type":"product"
-},
-{
-"description":"A corpus of 54 theoretical and empirical documents on academic careers selected from Scopus and Scielo searches, covering 21 national contexts and publications from 2000–2021, assembled by Oliveira et al.",
-"id":"systematic-literature-review-corpus-of-54-documents-on-academic-careers-from-21-national-c",
-"path":"products/systematic-literature-review-corpus-of-54-documents-on-academic-careers-from-21-national-c.md",
-"status":"review",
-"title":"Systematic literature review corpus of 54 documents on academic careers from 21 national contexts (Scopus and Scielo, 2000–2021)",
-"type":"product"
-},
-{
-"description":"A corpus of 20 higher-education and high-school studies on course-level blended-learning design, selected through staged PRISMA-based screening and coded across 18 instructional-design variables by Boelens et al.",
-"id":"systematic-prisma-based-review-corpus-of-20-blended-learning-design-studies",
-"path":"products/systematic-prisma-based-review-corpus-of-20-blended-learning-design-studies.md",
-"status":"review",
-"title":"Systematic PRISMA-based review corpus of 20 blended learning design studies",
-"type":"product"
-},
-{
-"description":"A corpus of 69 studies conducted from 1978 through 2022 that met review criteria for examining jigsaw's effects on academic performance and psychosocial outcomes.",
-"id":"systematic-review-corpus-of-69-jigsaw-studies-19782022",
-"path":"products/systematic-review-corpus-of-69-jigsaw-studies-19782022.md",
-"status":"review",
-"title":"Systematic review corpus of 69 jigsaw studies (1978–2022)",
-"type":"product"
-},
-{
-"description":"A PRISMA-guided corpus of 49 empirical studies on learning approaches and academic performance among undergraduate medical and dental students, assembled by Marlen A.",
-"id":"systematic-review-evidence-corpus-49-studies-of-learning-approaches-and-academic-performan",
-"path":"products/systematic-review-evidence-corpus-49-studies-of-learning-approaches-and-academic-performan.md",
-"status":"review",
-"title":"Systematic review evidence corpus: 49 studies of learning approaches and academic performance in medical and dental education (2000–2023)",
 "type":"product"
 },
 {
@@ -253211,14 +252963,6 @@
 "path":"research-methods/design-based-rct-analysis-with-grouped-administrative-data.md",
 "status":"review",
 "title":"Design-based RCT analysis with grouped administrative data",
-"type":"research-method"
-},
-{
-"description":"The editorial endorses design-based research as a methodological approach tightly related to CSCL.",
-"id":"design-based-research-dbr",
-"path":"research-methods/design-based-research-dbr.md",
-"status":"review",
-"title":"Design-Based Research (DBR)",
 "type":"research-method"
 },
 {
@@ -347096,7 +346840,6 @@
 "31-item-five-scale-questionnaire-measuring-ai-support-mediators-and-innovative-competence":"31-item-five-scale-questionnaire-measuring-ai-support-mediators-and-innovative-competence",
 "32-item-global-citizenship-perspectives-questionnaire":"32-item-global-citizenship-perspectives-questionnaire",
 "34-item-community-of-inquiry-survey":"34-item-community-of-inquiry-survey",
-"36-study-prisma-systematic-review-corpus-on-genai-in-higher-education-20232025":"36-study-prisma-systematic-review-corpus-on-genai-in-higher-education-20232025",
 "360-filmmakers-challenge":"360-filmmakers-challenge",
 "360-sample-linear-control-systems-question-answering-dataset-with-four-part-user-messages":"360-sample-linear-control-systems-question-answering-dataset-with-four-part-user-messages",
 "360-team-learning-foundation":"360-team-learning-foundation",
@@ -347106,13 +346849,11 @@
 "3b-breaking-bad-behaviors":"3b-breaking-bad-behaviors",
 "44-item-ethical-genai-use-questionnaire":"44-item-ethical-genai-use-questionnaire",
 "4cid-model":"4cid-model",
-"53-study-prisma-screened-evidence-corpus-on-genai-and-educational-outcomes":"53-study-prisma-screened-evidence-corpus-on-genai-and-educational-outcomes",
 "58-item-task-specific-learning-strategy-questionnaire":"58-item-task-specific-learning-strategy-questionnaire",
 "585-command-expert-annotated-linuxbash-dataset-with-balanced-four-level-representation":"585-command-expert-annotated-linuxbash-dataset-with-balanced-four-level-representation",
 "5essentials":"5essentials",
 "5essentials-survey":"5essentials-survey",
 "6to16-college-readiness-and-social-capital-curriculum":"6to16-college-readiness-and-social-capital-curriculum",
-"75-paper-prisma-scr-corpus-on-genai-perceptions-in-global-south-higher-education-2022-2025":"75-paper-prisma-scr-corpus-on-genai-perceptions-in-global-south-higher-education-2022-2025",
 "95-phonics-core-program":"95-phonics-core-program",
 "95-phonics-lesson-library-pll":"95-phonics-lesson-library-pll",
 "95-phonics-screener-for-intervention":"95-phonics-screener-for-intervention",
@@ -347150,7 +346891,6 @@
 "admiral-squad":"admiral-squad",
 "adult-adhd-self-report-scale-asrs-v11":"adult-adhd-self-report-scale-asrs-v11",
 "adult-promise-initiative":"adult-promise-initiative",
-"adventure-therapy-outcome-meta-analytic-dataset-and-coding-manual":"adventure-therapy-outcome-meta-analytic-dataset-and-coding-manual",
 "aeq-es-adapted-to-english-as-l2-for-primary-school-children":"aeq-es-adapted-to-english-as-l2-for-primary-school-children",
 "agent4edu":"agent4edu",
 "agenticmath":"agenticmath",
@@ -347366,8 +347106,6 @@
 "cocoflow":"cocoflow",
 "code-gen":"code-gen",
 "codecarbon":"codecarbon",
-"coded-dataset-of-31-studies-comparing-innovative-and-conventional-learning-on-junior-high":"coded-dataset-of-31-studies-comparing-innovative-and-conventional-learning-on-junior-high",
-"coded-dataset-of-72-emme-studies-published-via-dans":"coded-dataset-of-72-emme-studies-published-via-dans",
 "cogevol-4b-open-weight-model-release-with-gguf-build-and-maic-ui-editing-harness":"cogevol-4b-open-weight-model-release-with-gguf-build-and-maic-ui-editing-harness",
 "cogmath-948":"cogmath-948",
 "cognitive-flexibility-scale":"cognitive-flexibility-scale",
@@ -347425,17 +347163,8 @@
 "cooperative-integrated-reading-and-composition":"cooperative-integrated-reading-and-composition",
 "core-plus-mathematics":"core-plus-mathematics",
 "corpus-of-100-childrens-picture-books-68103-words":"corpus-of-100-childrens-picture-books-68103-words",
-"corpus-of-16-single-subject-self-monitoring-studies-with-28-unique-participants-with-asd":"corpus-of-16-single-subject-self-monitoring-studies-with-28-unique-participants-with-asd",
-"corpus-of-213-peer-reviewed-journal-articles-on-ai-in-business-education-dimensions-201520":"corpus-of-213-peer-reviewed-journal-articles-on-ai-in-business-education-dimensions-201520",
-"corpus-of-22-peer-reviewed-llm-in-higher-education-studies-20232024-with-geographic-publis":"corpus-of-22-peer-reviewed-llm-in-higher-education-studies-20232024-with-geographic-publis",
-"corpus-of-48-peer-selected-empirical-studies-of-se-in-undergraduate-mathematics-20092024":"corpus-of-48-peer-selected-empirical-studies-of-se-in-undergraduate-mathematics-20092024",
-"corpus-of-50-studies-with-185-effect-sizes-on-parenting-self-efficacy-and-home-school-part":"corpus-of-50-studies-with-185-effect-sizes-on-parenting-self-efficacy-and-home-school-part",
 "corpus-of-500-annotated-competency-based-assessments-in-higher-education-for-developing-an":"corpus-of-500-annotated-competency-based-assessments-in-higher-education-for-developing-an",
-"corpus-of-52-studies-on-creativity-development-in-primary-education-analyzed-descriptively":"corpus-of-52-studies-on-creativity-development-in-primary-education-analyzed-descriptively",
-"corpus-of-73-peer-reviewed-studies-on-online-peer-feedback-in-higher-education-20002022":"corpus-of-73-peer-reviewed-studies-on-online-peer-feedback-in-higher-education-20002022",
-"corpus-of-77-peer-reviewed-k-12-data-literacy-education-studies-yielding-611-purpose-expre":"corpus-of-77-peer-reviewed-k-12-data-literacy-education-studies-yielding-611-purpose-expre",
 "corpus-of-genai-policies-from-thirty-qs-ranked-universities-across-the-top-ten-countries-f":"corpus-of-genai-policies-from-thirty-qs-ranked-universities-across-the-top-ten-countries-f",
-"corpus-of-nine-empirical-studies-of-collaborative-learning-for-ai-literacy-2015-2023":"corpus-of-nine-empirical-studies-of-collaborative-learning-for-ai-literacy-2015-2023",
 "corrective-reading":"corrective-reading",
 "cortex":"cortex",
 "corubric":"corubric",
@@ -347656,7 +347385,6 @@
 "every-learner-everywhere-lighthouse-institution-program-and-technical-assistance-model":"every-learner-everywhere-lighthouse-institution-program-and-technical-assistance-model",
 "everyday-intervention":"everyday-intervention",
 "everyday-mathematics":"everyday-mathematics",
-"evidence-corpus-of-16-studies-968-participants-on-foreign-language-attainment-in-poor-read":"evidence-corpus-of-16-studies-968-participants-on-foreign-language-attainment-in-poor-read",
 "evidence-to-insights-e2i-coach":"evidence-to-insights-e2i-coach",
 "exact-path":"edmentum-exact-path",
 "expeditionary-learning":"expeditionary-learning",
@@ -348107,13 +347835,6 @@
 "mentira":"mentira",
 "mentor-tech":"mentor-tech",
 "menu-of-measures":"menu-of-measures",
-"meta-analytic-corpus-of-42-us-causal-studies-yielding-73-effect-estimates-of-grant-aid-on":"meta-analytic-corpus-of-42-us-causal-studies-yielding-73-effect-estimates-of-grant-aid-on",
-"meta-analytic-corpus-of-77-studies-and-276-effect-sizes-on-school-racial-climate-and-belon":"meta-analytic-corpus-of-77-studies-and-276-effect-sizes-on-school-racial-climate-and-belon",
-"meta-analytic-corpus-of-97-reports-105-independent-samples-and-216-effect-sizes-on-l2-anxi":"meta-analytic-corpus-of-97-reports-105-independent-samples-and-216-effect-sizes-on-l2-anxi",
-"meta-analytic-dataset-of-118-fmsacademic-cognitive-correlational-studies-1110-effect-sizes":"meta-analytic-dataset-of-118-fmsacademic-cognitive-correlational-studies-1110-effect-sizes",
-"meta-analytic-dataset-of-38-rae-studies-across-14-sports-and-16-countries":"meta-analytic-dataset-of-38-rae-studies-across-14-sports-and-16-countries",
-"meta-analytic-dataset-of-componentcomprehension-correlations-in-spanish-speaking-children":"meta-analytic-dataset-of-componentcomprehension-correlations-in-spanish-speaking-children",
-"meta-analytic-evidence-base-of-14-studies-on-phonics-instruction-for-students-with-intelle":"meta-analytic-evidence-base-of-14-studies-on-phonics-instruction-for-students-with-intelle",
 "metacognitive-awareness-of-reading-strategies-inventory":"metacognitive-awareness-of-reading-strategies-inventory",
 "metacognitive-interview-form-for-younger-and-older-students":"metacognitive-interview-form-for-younger-and-older-students",
 "metacognitive-interview-form-for-younger-students":"metacognitive-interview-form-for-younger-students",
@@ -348376,9 +348097,6 @@
 "principals-pursuing-excellence-ppe":"principals-pursuing-excellence-ppe",
 "prior-research-table":"prior-research-table",
 "prism-program-for-research-into-self-modifying-systems":"prism-program-for-research-into-self-modifying-systems",
-"prisma-2020-systematic-review-corpus-of-27-studies-on-ai-based-collaborative-learning-in-h":"prisma-2020-systematic-review-corpus-of-27-studies-on-ai-based-collaborative-learning-in-h",
-"prisma-guided-corpus-of-33-studies-on-teachers-knowledge-of-srl-19902024":"prisma-guided-corpus-of-33-studies-on-teachers-knowledge-of-srl-19902024",
-"prisma-guided-systematic-review-corpus-of-66-empirical-items-2004-2019":"prisma-guided-systematic-review-corpus-of-66-empirical-items-2004-2019",
 "prisma-llm-16-item-universal-reporting-checklist":"prisma-llm-16-item-universal-reporting-checklist",
 "privacyai":"privacyai",
 "proberai":"proberai",
@@ -348497,7 +348215,6 @@
 "rethinks-health-sciences-education":"rethinks-health-sciences-education",
 "retrospective-cued-recall-dataset-of-affective-states-from-27-participants-in-9-groups-com":"retrospective-cued-recall-dataset-of-affective-states-from-27-participants-in-9-groups-com",
 "reusable-unity-package-for-blackboard-learn-api-integration":"reusable-unity-package-for-blackboard-learn-api-integration",
-"review-corpus-of-44-peer-reviewed-articles-comprising-62-embodied-learning-environments-fo":"review-corpus-of-44-peer-reviewed-articles-comprising-62-embodied-learning-environments-fo",
 "revised-23-item-foreign-language-classroom-anxiety-scale-flcas":"revised-23-item-foreign-language-classroom-anxiety-scale-flcas",
 "revised-ai-literacy-framework-tiecd-dimensions-specified-into-ten-ai-literacy-elements-ail":"revised-ai-literacy-framework-tiecd-dimensions-specified-into-ten-ai-literacy-elements-ail",
 "rhode-island-charter-feeder-tps-and-statewide-tps-demographic-comparison-dataset":"rhode-island-charter-feeder-tps-and-statewide-tps-demographic-comparison-dataset",
@@ -348705,10 +348422,6 @@
 "symphony-math":"symphony-math",
 "syntea":"syntea",
 "synthesis-lab":"synthesis-lab",
-"systematic-literature-review-corpus-of-54-documents-on-academic-careers-from-21-national-c":"systematic-literature-review-corpus-of-54-documents-on-academic-careers-from-21-national-c",
-"systematic-prisma-based-review-corpus-of-20-blended-learning-design-studies":"systematic-prisma-based-review-corpus-of-20-blended-learning-design-studies",
-"systematic-review-corpus-of-69-jigsaw-studies-19782022":"systematic-review-corpus-of-69-jigsaw-studies-19782022",
-"systematic-review-evidence-corpus-49-studies-of-learning-approaches-and-academic-performan":"systematic-review-evidence-corpus-49-studies-of-learning-approaches-and-academic-performan",
 "systems-review":"systems-review",
 "t-sqsrl-paired-teacher-and-student-srl-questionnaires":"t-sqsrl-paired-teacher-and-student-srl-questionnaires",
 "t3-turnaround-teacher-teams":"t3-turnaround-teacher-teams",
@@ -349070,7 +348783,6 @@
 "deriving-observational-self-regulation-coding-items-from-adult-reported-measures":"deriving-observational-self-regulation-coding-items-from-adult-reported-measures",
 "design-based-implementation-research-dbir":"design-based-implementation-research-dbir",
 "design-based-rct-analysis-with-grouped-administrative-data":"design-based-rct-analysis-with-grouped-administrative-data",
-"design-based-research-dbr":"design-based-research-dbr",
 "design-parameter-matching-in-a-priori-power-analysis":"design-parameter-matching-in-a-priori-power-analysis",
 "design-science-research-dsr-for-cscl":"design-science-research-dsr-for-cscl",
 "design-thinking-methodology-for-improving-and-scaling-psychological-interventions":"design-thinking-methodology-for-improving-and-scaling-psychological-interventions",

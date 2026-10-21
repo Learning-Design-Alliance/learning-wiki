@@ -5,6 +5,27 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-21 — misfiled products and research methods; title variants
+
+- **31 review corpora removed from `products/`.** Batches had filed a review's or meta-analysis's set of
+  included studies as a product ("PRISMA-guided corpus of 33 studies…", "Meta-analytic dataset of 38 RAE
+  studies…"). A product is something others adopt or use; a review's study list is not, and its findings
+  are already claims. Removed with `remove_pages.py` (log in `eval/removed/pages.ndjson`). Kept: named
+  datasets others reuse (annotated corpora, benchmarks, a de-identified student-report dataset, the
+  PRISMA-LLM checklist).
+- **`research-methods/design-based-research-dbr` folded into `processes/design-based-research`**
+  (`merge_pages.py`, `moved_from` recorded). The cause was the batch prompt: `settle_candidates.py`
+  listed design-based research as an example research method, against the maintainer's 2026-10-20
+  ruling. Both prompt passages now say it is a process, and that a review's study set is "drop".
+- **`lint.py --type misfiled_kind`** fails on either misfiling, so a batch that brings one back stops
+  for triage (lint is in the batch guard).
+- **Four "invented title" citations were variants, not inventions**: each title matches Crossref. They
+  were aligned to the form that matches the DOI: Meyer et al. (2026) to the NBER working paper its DOI
+  names (17 citations had called it EdWorkingPaper 22-564 under the NBER DOI); Ritter et al. (2007)
+  without the repeated year; Carver-Thomas (2018) with its place of publication; Li et al. (2023) to the
+  published *Educational Psychology Review* article (Crossref author order Li, Peng, Ma, Ding, Zhao),
+  noting the preprint it was read from. The batch guard now holds on a nonzero invented-title count.
+
 ## 2026-10-20 (later) — open items cleared before the sweep resumes; batches now clean up after themselves
 
 - **Batches clean up after themselves** (`run_scrape_batch.py`; CLAUDE.md "Every batch cleans up after

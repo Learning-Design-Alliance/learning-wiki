@@ -140,12 +140,15 @@ Outcomes:
   tool all belong to "To&Through Project"; the CRIS Menu belongs to "College Readiness Indicator Systems
   (CRIS)"), "product_kind" (one of software,
   curriculum, assessment, dataset, programme, framework) and "product_description", one sentence on what
-  that product or programme is and who makes or runs it.
+  that product or programme is and who makes or runs it. The set of studies a review or meta-analysis
+  included is not a product, whatever the source calls it ("corpus of 36 studies", "meta-analytic
+  dataset"): "drop" it, because its findings are claims. A named dataset others reuse is a product.
 - "research-method": a method for studying learning or evaluating education that is specific to education
   or especially useful there: cluster-randomised trials of schools and their power, evidence standards such
-  as the What Works Clearinghouse's, design-based research, knowledge tracing, learning analytics methods,
-  growth and value-added models, early-warning indicator construction. Give "name". A general social-science
-  method (regression, surveys, interviews, factor analysis, qualitative coding) is "drop".
+  as the What Works Clearinghouse's, knowledge tracing, learning analytics methods, growth and value-added
+  models, early-warning indicator construction. Give "name". A general social-science method (regression,
+  surveys, interviews, factor analysis, qualitative coding) is "drop". Design-based research is a design
+  process, never a research-method: "attach" it to the process page if one is offered, else "drop".
 - "drop": not a page: it restates one empirical finding (that is a claim), or is an aspiration or opinion
   with no actionable design content, or is too vague to act on.
 
@@ -197,12 +200,15 @@ Outcomes:
   tool all belong to "To&Through Project"; the CRIS Menu belongs to "College Readiness Indicator Systems
   (CRIS)"), "product_kind" (one of software,
   curriculum, assessment, dataset, programme, framework) and "product_description", one sentence on what
-  that product or programme is and who makes or runs it.
+  that product or programme is and who makes or runs it. The set of studies a review or meta-analysis
+  included is not a product, whatever the source calls it ("corpus of 36 studies", "meta-analytic
+  dataset"): "drop" it, because its findings are claims. A named dataset others reuse is a product.
 - "research-method": a method for studying learning or evaluating education that is specific to education
   or especially useful there: cluster-randomised trials of schools and their power, evidence standards such
-  as the What Works Clearinghouse's, design-based research, knowledge tracing, learning analytics methods,
-  growth and value-added models, early-warning indicator construction. Give "name". A general social-science
-  method (regression, surveys, interviews, factor analysis, qualitative coding) is "drop".
+  as the What Works Clearinghouse's, knowledge tracing, learning analytics methods, growth and value-added
+  models, early-warning indicator construction. Give "name". A general social-science method (regression,
+  surveys, interviews, factor analysis, qualitative coding) is "drop". Design-based research is a design
+  process, never a research-method: "attach" it to the process page if one is offered, else "drop".
 - "drop": not a page: it restates one empirical finding (that is a claim), or is too vague to act on.
 
 For "attach" only, judge each of the candidate's claims against THAT page: "bears" (is the claim directly

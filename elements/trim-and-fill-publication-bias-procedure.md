@@ -42,7 +42,6 @@ The article applies the trim and fill method (Duval & Tweedie) as its publicatio
 
 ## Related Elements
 
-- [Coded dataset of 31 studies comparing innovative and conventional learning on junior high school mathematics problem-solving ability](../products/coded-dataset-of-31-studies-comparing-innovative-and-conventional-learning-on-junior-high.md)
 
 ## Examples
 

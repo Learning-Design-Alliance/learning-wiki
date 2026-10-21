@@ -138,6 +138,9 @@ work is done, not that the check is broken.
   **Design-based research is a design process** (`processes/design-based-research`), not a research method
   (maintainer, 2026-10-20). `research-methods/` is secondary and may eventually go away, so where a page
   could sit in either, it belongs with the design side.
+  **A review's or meta-analysis's set of included studies is not a product** ("corpus of 36 studies",
+  "meta-analytic dataset"): its findings are claims. A named dataset others reuse is. `lint.py`'s
+  `misfiled_kind` fails on either kind of misfiling, and `settle_candidates.py` refuses both (2026-10-21).
 
 **When you finish something wiki-wide, add a dated entry at the top of
 [`history/agent-log.md`](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/history/agent-log.md)**, newest first, as every session before you
