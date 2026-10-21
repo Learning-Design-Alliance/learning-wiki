@@ -49,3 +49,4 @@ The brief's comparative framing reports DC math impacts of "one-third of a stand
 - [Paying middle-school students for attendance, behavior, uniforms, and homework yields marginally significant reading gains and non-significant math gains in Washington, DC](dc-input-incentives-marginal-reading-gains.md) — reports the opposite
 - [The DC reforms were associated with grade 8 math gains, especially for cohorts with more exposure, but not grade 8 reading gains](dc-reform-gains-grade-8-math-not-reading-brief.md) — related
 - [New principals' math achievement gains followed a similar trend to reading but were smaller](dcps-new-principals-math-gains-smaller-than-reading.md) — related
+- [Learning deficits in math/science were larger than in other subjects (about 0.17 SD smaller achievement)](covid-learning-deficit-larger-math-science.md) — related

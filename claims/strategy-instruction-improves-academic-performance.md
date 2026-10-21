@@ -122,3 +122,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Review evidence: students' SRL improves from cognitive-approach PD interventions only when students themselves participate, not when only their teachers are trained](student-srl-improves-only-with-direct-student-intervention.md) — related
 - [SRL interventions are effective in improving both SRL activity and achievement in higher education](srl-interventions-improve-activity-achievement.md) — related
 - [Elementary teachers more often instruct cognitive strategies than metacognitive strategies during a standardized lesson](teachers-instruct-cognitive-more-than-metacognitive-strategies.md) — related
+- [Self-regulated reading processes are positively associated with reading and learning outcomes](self-regulated-reading-associated-with-outcomes.md) — a narrower finding that bears on this claim

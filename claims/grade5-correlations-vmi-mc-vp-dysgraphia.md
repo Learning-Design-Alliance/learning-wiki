@@ -55,3 +55,4 @@ Correlation analysis across VMI, VP, MC and dysgraphia classification for the wh
 - [Acquisition of visual perception, motor coordination and visual-motor integration does not progress linearly across grades 1 to 5](nonlinear-grade-progression-visomotor-skills.md) — related
 - [No significant difference was found between grade groups in the classification distribution of VMI, VP and MC performance levels](no-group-difference-performance-classification.md) — related
 - [First-grade students show inferior visual-motor integration, visual perception and motor coordination performance compared with the other grade groups](grade1-inferior-vmi-vp-mc-performance.md) — related
+- [Fine motor skills show a significant moderate overall correlation (r = .329) with academic-cognitive skills in children and adolescents](fms-moderate-correlation-academic-cognitive.md) — related

@@ -47,3 +47,4 @@ Regression analysis of team learning behaviors predicting shared mental model in
 - [Shared mental model development mediates the effect of team learning behaviors on actual team performance](shared-mental-models-mediate-team-learning-performance.md) — a broader claim this one bears on
 - [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](personal-construction-required-stable-conceptual-change.md) — related
 - [Specific teamwork challenges hinder development of mutual trust and shared mental models in a hackathon CSCL setting](challenges-hinder-mutual-trust-shared-mental-models.md) — related
+- [Qualitative studies identify dynamics, patterns, and development in team learning behaviours, linked to situated knowledge and transactivity](qualitative-studies-dynamics-patterns-development.md) — related

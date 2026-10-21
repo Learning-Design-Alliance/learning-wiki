@@ -46,3 +46,4 @@ The report's introduction states, citing prior literature, that "more than a doz
 - [Between February 2019 and January 2021, legislative initiatives requiring ethnic studies in K-12 standards or curricula were identified in 19 states and the District of Columbia](nineteen-states-dc-ethnic-studies-initiatives-2019-2021.md) — possibly the same claim (merge candidate)
 - [States interpret ethnic studies in both broad and narrow terms, ranging from single-group history mandates to intersectional diversity coursework](states-interpret-ethnic-studies-broad-narrow.md) — related
 - [State ethnic studies policies vary in whether coursework is a graduation requirement, an elective, or offered without student mandates](ethnic-studies-mandate-variation-graduation-elective.md) — related
+- [Dialogic leadership values diversity as an asset and fosters inclusion of marginalized groups](dialogic-leadership-diversity-inclusion.md) — related

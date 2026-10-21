@@ -69,3 +69,4 @@ Review reports Wang (2015), a multimethod chemistry problem-solving study using 
 - [Self-report factors correlate weakly with metacognitive behavior while within-factor subcomponent correlations are larger, per studies reviewed for the meta-analysis](self-report-factors-weakly-relate-to-behavior.md) — related
 - [Tenth-graders show few signs of global task awareness when selecting text fragments, rarely rereading or deeply processing task instructions](few-signs-global-task-awareness-selection.md) — related
 - [A general self-report metacognition questionnaire shows no relationship with word problem solving performance and no convergence with on-line metacognitive measures in grade 5](self-report-questionnaire-no-convergence-online-metacognition.md) — related
+- [Think-aloud reports are incomplete and sometimes nonveridical, particularly for metacognitive processes](think-aloud-veridicality-incomplete-reports.md) — related

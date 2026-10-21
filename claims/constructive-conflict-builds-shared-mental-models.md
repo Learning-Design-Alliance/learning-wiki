@@ -48,3 +48,4 @@ Multiple regression analysis on 27 student teams in a business simulation game r
 - [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](personal-construction-required-stable-conceptual-change.md) — related
 - [Shared mental models of the task predict actual team performance in a business simulation game](shared-mental-models-predict-actual-team-performance.md) — related
 - [Specific teamwork challenges hinder development of mutual trust and shared mental models in a hackathon CSCL setting](challenges-hinder-mutual-trust-shared-mental-models.md) — related
+- [Qualitative studies identify dynamics, patterns, and development in team learning behaviours, linked to situated knowledge and transactivity](qualitative-studies-dynamics-patterns-development.md) — related

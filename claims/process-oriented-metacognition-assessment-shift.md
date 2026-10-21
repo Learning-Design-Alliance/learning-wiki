@@ -50,3 +50,4 @@ The editor's observational assessment of methodological trends over the last dec
 - [Off-line self-report instruments show low concurrent validity with on-line measures and do not predict learning outcomes very well](offline-self-reports-low-concurrent-validity-veenman.md) — possibly the same claim (merge candidate)
 - Distinguishing metacognitive knowledge from skills, and metacognition from self-regulated learning, is an unresolved field-wide issue — related
 - [Mind wandering can both prompt SRL and function as a regulatory strategy, and multimodal machine-learning sensing offers scalable assessment of attentive states](mind-wandering-dual-role-srl-regulatory-strategy.md) — related
+- [Think-aloud reports are incomplete and sometimes nonveridical, particularly for metacognitive processes](think-aloud-veridicality-incomplete-reports.md) — related

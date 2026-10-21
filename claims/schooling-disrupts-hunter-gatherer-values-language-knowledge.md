@@ -67,3 +67,4 @@ The review attributes to Mafela (2009) that formal education plays a central rol
 - [When hunter-gatherer languages are not used in schools, children often drop out because they do not understand the language of instruction](language-of-instruction-dropout-hunter-gatherer.md) — related
 - [Social barriers—teachers from dominant groups, poor teacher-parent relations, and stigma and discrimination from teachers and peers—undermine hunter-gatherer children's schooling](social-barriers-teacher-stigma-hunter-gatherer.md) — related
 - [Hunter-gatherer communities also view schooling positively, as a means of asserting rights, socioeconomic empowerment, and new social relationships](schooling-viewed-as-empowerment-hunter-gatherer.md) — related
+- [Dialogic leadership is characterized by egalitarianism, signifying the absence of hierarchical levels of leaders and followers](dialogic-leadership-egalitarian-absence-of-hierarchy.md) — related

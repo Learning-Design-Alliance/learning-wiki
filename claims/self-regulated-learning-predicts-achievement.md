@@ -135,3 +135,5 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Lack of knowledge of cognition, regulation of cognition, and intrinsic motivation hinder learners' metacognitive strategy use](problems-hindering-metacognitive-strategy-use.md) — a narrower finding that bears on this claim
 - [Elementary teachers more often instruct cognitive strategies than metacognitive strategies during a standardized lesson](teachers-instruct-cognitive-more-than-metacognitive-strategies.md) — related
 - [Feedback in course design predicts larger SRL training effects for metacognitive strategies, resource management strategies, and motivation](feedback-moderates-srl-training-effects.md) — a narrower finding that bears on this claim
+- [Self-regulated reading processes are positively associated with reading and learning outcomes](self-regulated-reading-associated-with-outcomes.md) — a narrower finding that bears on this claim
+- [Metacognitive and composite SRL strategy measures show the strongest relationships with learning performance in continuing education](srl-strategy-type-performance-differences.md) — related

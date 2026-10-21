@@ -67,3 +67,4 @@ Participation analysis of the Day 12 discussion, where Eve and Cal advanced conf
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — a broader claim this one bears on
 - [Danmaku questions elicit rapid co-answering and co-confusion, while discussion-board questions often go unanswered or support multi-round elaboration](co-answering-co-confusion-versus-lonely-confusion.md) — related
 - [Ninth graders in a five-week symbolism module increased their participation and facility with literary interpretation practices](symbolism-module-increased-interpretive-participation.md) — related
+- [DLGs create egalitarian spaces for dialogue and exchange in which pupils contribute most of the talk](dlg-spaces-dialogue-exchange-pupil-talk.md) — related

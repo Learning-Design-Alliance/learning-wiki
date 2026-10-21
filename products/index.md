@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1829 entries** · 0 stable · 1829 in review · 0 drafts
+**1832 entries** · 0 stable · 1832 in review · 0 drafts
 
 ---
 
@@ -669,6 +669,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Gold and ultra-gold benchmark subsets](gold-and-ultra-gold-benchmark-subsets.md) - Croteau et al.
 * [Good Behavior Game](good-behavior-game.md) - A classroom behavior-management programme originally developed at Johns Hopkins University in which students work in teams and receive recognition for meeting classroom behavior expectations, with implementations including PAX and AIR versions.
 * [Google Expeditions](google-expeditions.md) - A Google programme that supplied schools with virtual-reality field-trip kits, content, equipment, and teacher training for conducting virtual expeditions.
+* [Gorski's equity literacy approach](gorskis-equity-literacy-approach.md) - A framework developed by Paul Gorski for helping educators recognize, analyze, and respond to inequity through equity-oriented knowledge, skills, dispositions, and action.
 * [GPT Tutor](gpt-tutor.md) - GPT Tutor is a GPT-4 chat-based mathematics tutoring interface developed and studied by Bastani Hamsa et al.
 * [GPT-2 Output Detector Demo](gpt-2-output-detector-demo.md) - A language-analysis tool developed by OpenAI that estimates whether submitted text resembles AI-generated writing, particularly GPT-2-style output.
 * [GRAD Partnership Student Success Systems](grad-partnership-student-success-systems.md) - A framework developed by the GRAD Partnership for organizing secondary-school supports around relationships, holistic data, strategic improvement actions, and student-centered mindsets.
@@ -742,6 +743,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [IMPROV framework](improv-framework.md) - Chen's framework guides learning-science researchers, designers, educators, and practitioners through six interconnected action areas for infrastructuring and sustaining educational innovations while building practitioner-led design capacity.
 * [Improving Chicago Schools: The Students Speak, 1997 and Improving Chicago Schools: The Teachers' Turn, 1997](improving-chicago-schools-the-students-speak-1997-and-improving-chicago-schools-the-teache.md) - A pair of student and teacher surveys administered by the Consortium on Chicago School Research to measure views of school environment, classroom learning, parent involvement, school governance, and teachers' professional work life.
 * [Improving Chicago's Schools biannual survey](improving-chicagos-schools-biannual-survey.md) - A biannual Consortium on Chicago School Research survey that collects students' reports on school experiences and educators' reports on instruction and working conditions across Chicago Public Schools.
+* [INCLUD-ED project](includ-ed-project.md) - A European research project that identified Successful Educational Actions, including dialogic leadership and interactive groups, for inclusive school transformation and community participation.
 * [Indiana College Core](indiana-college-core.md) - The Indiana Commission for Higher Education's Indiana College Core programme enables high school students to earn transferable college credits, supported by the My College Core interactive planning tool and counselor guidance.
 * [Indiana grant and scholarship programs (21st Century Scholars, Frank O'Bannon, Mitch Daniels Early Graduation, Workforce Ready)](indiana-grant-and-scholarship-programs-21st-century-scholars-frank-obannon-mitch-daniels-e.md) - Indiana state financial-aid programmes that provide grants or scholarships to eligible students pursuing postsecondary education or workforce credentials.
 * [Indicators-of-distress framework](indicators-of-distress-framework.md) - A National Charter School Resource Center framework that organizes leading signs of charter-school decline across six domains to help leaders, boards, authorizers, and support organizations identify risks and target interventions.
@@ -1006,6 +1008,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Meta-analytic corpus of 42 U.S. causal studies yielding 73 effect estimates of grant aid on persistence and degree attainment](meta-analytic-corpus-of-42-us-causal-studies-yielding-73-effect-estimates-of-grant-aid-on.md) - A research dataset compiling causal effect estimates from U.S.
 * [Meta-analytic corpus of 77 studies and 276 effect sizes on school racial climate and belonging](meta-analytic-corpus-of-77-studies-and-276-effect-sizes-on-school-racial-climate-and-belon.md) - A research corpus assembled by Christy M.
 * [Meta-analytic corpus of 97 reports, 105 independent samples, and 216 effect sizes on L2 anxiety and achievement](meta-analytic-corpus-of-97-reports-105-independent-samples-and-216-effect-sizes-on-l2-anxi.md) - An open meta-analytic corpus assembled by Yasser Teimouri and colleagues from reports on second-language anxiety and achievement, with coded effect sizes and moderator information available through the IRIS database.
+* [Meta-analytic dataset of 118 FMS–academic-cognitive correlational studies (1110 effect sizes, N = 79,856)](meta-analytic-dataset-of-118-fmsacademic-cognitive-correlational-studies-1110-effect-sizes.md) - An OSF-shared corpus of coded correlational studies linking children's fine motor skills with academic-cognitive outcomes, assembled and released by Sebastian P.
 * [Meta-analytic dataset of 38 RAE studies across 14 sports and 16 countries](meta-analytic-dataset-of-38-rae-studies-across-14-sports-and-16-countries.md) - A dataset assembled and reanalysed by Cobley et al.
 * [Meta-analytic dataset of component–comprehension correlations in Spanish-speaking children](meta-analytic-dataset-of-componentcomprehension-correlations-in-spanish-speaking-children.md) - A dataset assembled by Baker et al.
 * [Metacognitive Awareness of Reading Strategies Inventory](metacognitive-awareness-of-reading-strategies-inventory.md) - MARSI is a self-report assessment developed by Mokhtari and Reichard to measure learners' awareness and use of global, problem-solving, and support reading strategies.

@@ -48,3 +48,5 @@ Bivariate comparison by level of education (Fig. 6b; medians primary −0.12, se
 - [Learning deficits during the pandemic are larger in maths than in reading](covid-deficits-larger-maths-than-reading.md) — related
 - [Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries](covid-deficits-larger-middle-income-countries.md) — related
 - [Year 3 and Year 4 student achievement growth in mathematics and reading showed no significant differences between 2019 and 2020 cohorts in NSW primary schools](covid19-no-significant-achievement-growth-difference-nsw-primary.md) — related
+- [Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies](covid-deficit-larger-quasi-experimental-designs.md) — related
+- [Pandemic-related learning delays did not statistically differ across primary, secondary and tertiary education levels](covid-learning-delays-similar-across-education-levels.md) — related

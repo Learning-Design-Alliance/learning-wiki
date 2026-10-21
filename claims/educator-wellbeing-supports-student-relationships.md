@@ -57,3 +57,4 @@ The brief asserts, citing prior work (endnote 2), that educator wellbeing contri
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
 - [Studies of emotional training of aspiring and practicing teachers report positive outcomes for dealing with emotions and reducing stress and burnout](teacher-emotional-training-studies-positive-outcomes.md) — related
 - [Artistic and social-emotional competencies are mutually reinforcing](artistic-sel-competencies-mutually-reinforcing.md) — related
+- [DLG participation is associated with increased self-esteem across primary, special, and adult education](dlg-increase-self-esteem.md) — related

@@ -50,3 +50,4 @@ Between-study analysis of the multigrade cognitive subset (Table 3): United Stat
 - [Meta-analysis shows no significant difference in cognitive outcomes between multigrade and single-grade classes](multigrade-cognitive-effects-essentially-zero.md) — a broader claim this one bears on
 - [Noncognitive outcomes of multigrade classes show essentially zero overall effect after outlier removal](multigrade-noncognitive-effects-near-zero.md) — related
 - [Multigrade classes show negative weighted effects for science and social studies but not English as a foreign language](multigrade-science-social-studies-negative.md) — related
+- [Estimated learning deficits are smaller in European studies than in studies from the rest of the world](covid-deficit-smaller-europe-than-rest-of-world.md) — related

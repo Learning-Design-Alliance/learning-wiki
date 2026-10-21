@@ -48,3 +48,4 @@ Focus-group finding with middle school teachers discussing family night and lite
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — related
 - [Virtual meeting options gave parents more flexible scheduling opportunities to communicate with educators during remote schooling](virtual-meetings-flexible-parent-communication.md) — related
 - [School improvement is related to staff interactions, staff relationships with families, and ties to the broader school community](improvement-related-to-staff-family-community-relationships.md) — a broader claim this one bears on
+- [DLGs bring the community in and take new learnings out, with family involvement increasing children's motivation](dlg-community-involvement-family-motivation.md) — related

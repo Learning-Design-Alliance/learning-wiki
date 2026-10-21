@@ -42,7 +42,8 @@ Based on the meta-analysis and review, the authors recommend that "future resear
 - [PF students did not outperform DI students when learning social science research methods in two quasi-experimental studies with 10th graders, failing to replicate the STEM-domain PF effect](../claims/pf-effect-not-replicated-non-stem-research-methods.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Future team-learning change research should use mixed methods with more than three measurement points in short intervals](mixed-methods-many-measurement-points-team-learning.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (69 show a difference, 21 mixed, 13 no difference) · 74 studies (30 causal, 14 associational, 8 review, 8 theoretical, 7 qualitative, 5 quant-synthesis, 2 design), `q1`–`q4` · 22 of 74 report an effect size · 102 claims rest on one study
+> **Evidence** · 104 claims (70 show a difference, 21 mixed, 13 no difference) · 75 studies (30 causal, 14 associational, 9 review, 8 theoretical, 7 qualitative, 5 quant-synthesis, 2 design), `q1`–`q4` · 22 of 75 report an effect size · 103 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -145,6 +145,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Goal-driven manipulations weaken the negative effort–monitoring correlation, which is nonsignificant under incentives, time pressure or self-agency ratings taken singly](../claims/goal-driven-manipulations-eliminate-negative-correlation.md) [~M] — an instructional effect differs with it
 - [Classroom-level instructional support, organization, and emotional support are each positively associated with upper elementary students' metacognitive strategy use](../claims/classroom-interaction-domains-positive-metacognition.md) [+M] — instruction changes it
 - [Higher teacher-student conflict is associated with lower levels of specific metacognitive skills, while closeness is positively associated with metacognition in upper elementary school](../claims/dyadic-conflict-lower-metacognition.md) [+M] — instruction changes it
+- [High-performing readers use more monitoring strategies while under-performing readers rely more on cognitive strategies like memorization](../claims/high-performers-monitor-more-than-low-performers.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

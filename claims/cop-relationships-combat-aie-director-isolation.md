@@ -51,3 +51,4 @@ Participant-reported outcomes from a 5-year UEPC evaluation of R15CC support to 
 - [Academy graduates report feeling more empowered and staying on the job longer](academy-graduates-empowered-retention.md) — related
 - [SPICE learners report that the virtual Center reduced their rural isolation and made learning enjoyable](spice-learners-report-reduced-isolation.md) — related
 - [The OBC model benefits from clearly defined roles and shared responsibilities across district, school, and provider teams.](obc-clear-roles-shared-responsibility.md) — related
+- [The social network perspective rests on three assumptions: interdependence, relationships as resource exchanges, and structure enabling or constraining access to resources](social-network-perspective-three-assumptions.md) — a broader claim this one bears on

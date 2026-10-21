@@ -54,3 +54,4 @@ Comparative study in which 16 ninth-graders studied a 1,650-word history text th
 - [Self-report factors correlate weakly with metacognitive behavior while within-factor subcomponent correlations are larger, per studies reviewed for the meta-analysis](self-report-factors-weakly-relate-to-behavior.md) — a broader claim this one bears on
 - [Task-based and questionnaire-based EF measures show consistently low correlations and may assess partially distinct phenomena](ef-task-questionnaire-low-correlations.md) — related
 - [A general self-report metacognition questionnaire shows no relationship with word problem solving performance and no convergence with on-line metacognitive measures in grade 5](self-report-questionnaire-no-convergence-online-metacognition.md) — related
+- [Think-aloud reports are incomplete and sometimes nonveridical, particularly for metacognitive processes](think-aloud-veridicality-incomplete-reports.md) — related

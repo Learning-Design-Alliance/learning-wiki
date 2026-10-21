@@ -52,3 +52,4 @@ Participant testimony gathered by R15CC from members of the NDE More Rigorous In
 - [Community members reported that participating in a Community Socratic Circle helped them feel comfortable with teachers facilitating classroom racial discourse](community-socratic-circle-built-comfort-support.md) — related
 - [Positive classroom climate is associated with more frequent socially shared regulation of learning](positive-climate-promotes-shared-regulation.md) — related
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
+- [Participation in dialogic-interaction interventions is associated with improved well-being, self-confidence and quality of life](dialogic-leadership-improves-wellbeing-self-confidence.md) — related

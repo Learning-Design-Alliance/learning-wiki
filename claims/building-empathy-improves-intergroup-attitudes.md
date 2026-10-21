@@ -129,3 +129,4 @@ The authors review 418 prejudice-reduction experiments published 2007–2019, es
 - [Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes](csl-one-on-one-partner-contact-disrupts-stereotypes.md) — related
 - [Honours community members report isolation and negative bias from regular students and lecturers](honours-community-isolation-from-regular-students.md) — related
 - [Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction](role-play-discussion-built-knowledge-empathy.md) — a narrower finding that bears on this claim
+- [Drama and theatre-based work forms in teacher education are associated with equity-related outcomes including empathy, perspective-taking, collaboration, attitude shifts, and advocacy](drama-work-forms-equity-outcomes-empathy-advocacy.md) — related

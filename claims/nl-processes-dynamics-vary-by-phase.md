@@ -49,3 +49,4 @@ Authors' conclusion from the timeline analysis of the two NLCs, in which activit
 - [The NLC with the experienced teacher showed higher and more stable network density than the beginner's NLC, whose density dropped from 36% to 26% in the end phase](nlc1-higher-stable-density-than-nlc2.md) — a narrower finding that bears on this claim
 - Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time — related
 - [Both teachers remained peripherally active and concentrated their contributions on tutoring, with the experienced teacher also acting as a learner on an equal basis](peripheral-teacher-tutoring-contributions.md) — a narrower finding that bears on this claim
+- [Think-aloud protocols reveal that self-regulated reading is dynamic across time, responsive to context, and varies by reading purpose](think-aloud-reveals-dynamic-self-regulated-reading.md) — related

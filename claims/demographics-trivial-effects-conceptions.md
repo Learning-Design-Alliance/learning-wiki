@@ -56,3 +56,4 @@ MANCOVAs with ANCOVA follow-ups on 304 prospective teachers testing gender, year
 - [Institutional initiatives, demographics, teaching practices, and information sources show weak or null associations with AI pedagogical orientation and use](institutional-and-information-variables-weakly-related-to-ai-use.md) — related
 - [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](demographics-differentiate-genai-personas.md) — reports the opposite
 - [Gevinson identified five dimensions of expert literary reading behavior shared across expert readers](gevinson-five-dimensions-expert-literary-reading.md) — related
+- [Demographic and experience-related learner factors show no or only weak relationships with SRL strategies in continuing education](srl-strategies-ce-learner-factors-null-weak.md) — related

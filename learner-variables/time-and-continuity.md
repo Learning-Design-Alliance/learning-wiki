@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 104 claims (70 show a difference, 26 mixed, 8 no difference) · 94 studies (39 causal, 18 associational, 16 review, 9 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 19 of 94 report an effect size · 100 claims rest on one study
+> **Evidence** · 105 claims (71 show a difference, 26 mixed, 8 no difference) · 95 studies (39 causal, 18 associational, 16 review, 10 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 19 of 95 report an effect size · 101 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -161,6 +161,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Learner control substantially increases time-on-task in animated multimedia instruction](../claims/learner-control-increases-time-on-task.md) [+M] — instruction changes it
 - [Pre-reading relevance instructions did not change reading time on sentences targeted by the questions](../claims/no-reading-time-difference-targeted-sentences.md) [-M] — instruction changes it
 - [Practice with feedback is more efficient than lecture, saving about 24% of instructional time in Study 1 and yielding 2–3 times higher learning rates in Study 2](../claims/practice-feedback-more-efficient-than-lecture.md) [+M] — instruction changes it
+- [Lack of time available for learning is a barrier to cognitive, metacognitive, and peer learning strategies, making time management a prerequisite for other SRL strategies in CE](../claims/lack-of-time-barrier-srl-continuing-education.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

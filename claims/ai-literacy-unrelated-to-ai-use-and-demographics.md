@@ -75,3 +75,4 @@ Same survey subsample; correlations of AI literacy with age, gender, and years o
 - [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md)
 - [Teachers who see AI usage opportunities more frequently use AI significantly more often (r = .45 in class)](seen-opportunities-correlate-with-ai-use.md) — related
 - [Teaching experience is a minor negative predictor of digital data use, while age and gender show no significant effect](experience-negative-age-gender-null-data-use.md) — related
+- [Demographic and experience-related learner factors show no or only weak relationships with SRL strategies in continuing education](srl-strategies-ce-learner-factors-null-weak.md) — related

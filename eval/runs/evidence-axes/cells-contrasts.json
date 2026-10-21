@@ -36578,5 +36578,77 @@
  "scaffolding\tscaffolding in bilingual education research\tscaffolding in broader educational research": {
   "label": "bilingual education contexts vs broader educational research contexts",
   "treatment_is_a": true
+ },
+ "active-learning\tDialogic Literary Gatherings\tno comparison condition stated": {
+  "label": "Dialogic literary gatherings vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tDialogic literary gatherings\tnot stated": {
+  "label": "Dialogic literary gatherings vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tclassroom intervention based on dialogic interactions\tnot stated": {
+  "label": "Dialogic literary gatherings vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tdialogic literary gathering\tnot stated": {
+  "label": "Dialogic literary gatherings vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tdialogic literary gathering on The Odyssey\tbefore participation in the DLG": {
+  "label": "Dialogic literary gatherings vs pre-participation baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tinstructional unit with peer discussion and reflection\tbefore the instructional unit": {
+  "label": "Peer discussion and reflection vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer interaction\tno peer interaction": {
+  "label": "Peer interaction vs no peer interaction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback\tno feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tself-assessments\tno self-assessments": {
+  "label": "self-assessments vs no self-assessments",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptable scaffolding\tnon-personalized scaffolding": {
+  "label": "adaptable scaffolding vs non-personalized scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptable scaffolding with non-personalized task progression\tnon-personalized scaffolding with non-personalized task progression": {
+  "label": "adaptable scaffolding vs non-personalized scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive scaffolding\tadaptable scaffolding": {
+  "label": "adaptive scaffolding vs adaptable scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive scaffolding\tnon-personalized scaffolding": {
+  "label": "adaptive scaffolding vs non-personalized scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive scaffolding with adaptable task progression\tcomparison condition, not specified": {
+  "label": "adaptive scaffolding with adaptable task progression vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive scaffolding, with the computer making decisions\tadaptable scaffolding, with individual learners making decisions": {
+  "label": "adaptive scaffolding vs adaptable scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tconceptual scaffolds\tno conceptual scaffolds": {
+  "label": "conceptual scaffolds vs no conceptual scaffolds",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfamily involvement in DLG\tnot stated": {
+  "label": "family involvement in DLG vs no stated family involvement",
+  "treatment_is_a": true
+ },
+ "scaffolding\tself-regulated reading facilitated by tutors\tself-regulated reading without tutor facilitation": {
+  "label": "tutor-facilitated self-regulated reading vs self-regulated reading without tutor facilitation",
+  "treatment_is_a": true
  }
 }

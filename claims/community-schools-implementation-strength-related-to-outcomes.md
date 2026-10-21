@@ -70,3 +70,4 @@ The research review reports that recent research finds "longer and more sustaine
 - [Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects](positive-school-climate-improves-attendance-achievement.md) — related
 - [Profiled New Mexico community schools showed improvement across attendance, graduation, achievement, climate, health access, and family engagement indicators](nm-community-schools-improved-outcomes-three-sites.md) — a narrower finding that bears on this claim
 - [Longer operating and better implemented community school programs yield more positive results for students and schools](implementation-dose-response-community-schools.md) — possibly the same claim (merge candidate)
+- [Implementing dialogic leadership is associated with improved academic outcomes, reduced absenteeism and increased learning progress](dialogic-leadership-improves-academic-outcomes.md) — related

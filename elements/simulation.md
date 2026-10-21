@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 54 claims (33 for, 18 mixed, 3 against) · 51 studies (12 causal, 12 quant-synthesis, 12 review, 7 design, 4 qualitative, 3 theoretical, 1 associational), `q1`–`q4` · 11 of 51 report an effect size · 44 claims rest on one study
+> **Evidence** · 55 claims (33 for, 19 mixed, 3 against) · 52 studies (13 quant-synthesis, 12 causal, 12 review, 7 design, 4 qualitative, 3 theoretical, 1 associational), `q1`–`q4` · 11 of 52 report an effect size · 45 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -109,6 +109,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [In simulations, superficial reflection stays at consistently low frequency across all reflection-reward levels, and misuse remains negligible, indicating the main governance challenge is normalised opportunistic AI use rather than overt misconduct](../claims/superficial-reflection-low-misuse-negligible.md) [~W]
 - [Simulation games are more effective when they actively rather than passively convey course material](../claims/simulation-games-effective-when-instruction-active.md) [+W]
 - [Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions](../claims/vp-satisfaction-generally-positive.md) [+W]
+- [Adaptable task progression is descriptively more beneficial than fixed task progression in simulation-based learning](../claims/adaptable-task-progression-higher-effects.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

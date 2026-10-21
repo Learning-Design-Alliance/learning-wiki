@@ -39,7 +39,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (30 for, 16 mixed, 3 against) · 31 studies (9 design, 7 review, 5 associational, 4 qualitative, 3 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 31 report an effect size · 47 claims rest on one study
+> **Evidence** · 50 claims (30 for, 17 mixed, 3 against) · 32 studies (9 design, 8 review, 5 associational, 4 qualitative, 3 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 32 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ Observed practice, student achievement, teacher satisfaction and maintenance aft
 - [Team-based professional development is associated with shifts toward more student-centered teaching in qualitative studies, but not in one quantitative online-training study](../claims/team-pd-teaching-approach-shift.md) [~W]
 - [Lack of time and heavy workload are organizational barriers to team-based professional development in higher education](../claims/time-workload-barriers-team-pd.md) [~W]
 - [Late-career teachers prefer socially embedded and collaborative learning opportunities such as mentoring, dialogue and reflective practice](../claims/late-career-teachers-prefer-socially-embedded-learning.md) [+W]
+- [The most common rationale treats the teacher network as a source of professional development (32 of 51 studies)](../claims/network-as-source-of-tpd-rationale.md) [~W]
 
 ## Related Principles
 

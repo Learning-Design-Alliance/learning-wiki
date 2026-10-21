@@ -67,3 +67,4 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - [Regulation-of-learning interventions in programming education show an average effect of 0.59 on programming learning](regulation-interventions-programming-average-effect.md) — related
 - No clear evidence of publication bias or small study effects in the collaborative instruction literature — related
 - [Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample](no-publication-bias-teacher-self-efficacy-meta-analysis.md) — related
+- [No publication bias is detected in the collected Covid-19 achievement estimates](covid-meta-analysis-no-publication-bias.md) — related

@@ -54,3 +54,4 @@ The report's synthesis finding for Pillar 3, based on 29 studies including 13 re
 - [Schools that mitigated proximity-to-homicide effects had stronger, more positive school climates, including engaging instruction and trusting relationships](positive-school-climate-mitigates-homicide-effects.md) — related
 - [ParentCorps improves family engagement measures (Inclusive Leadership, Trust in School Leader, Communication and Trust in Teacher) in a 61-school trial](parentcorps-family-engagement-school-survey.md) — related
 - [Family engagement in schools is closely linked to improved student academic achievement, social skills, and fewer behavior issues](family-engagement-linked-student-outcomes.md) — related
+- [Implementing dialogic leadership is associated with improved academic outcomes, reduced absenteeism and increased learning progress](dialogic-leadership-improves-academic-outcomes.md) — related

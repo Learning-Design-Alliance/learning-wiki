@@ -13,7 +13,7 @@ generated:
 # Social Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (13 for, 8 mixed) · 19 studies (6 qualitative, 5 quant-synthesis, 4 causal, 1 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 19 claims rest on one study
+> **Evidence** · 22 claims (14 for, 8 mixed) · 20 studies (6 qualitative, 5 quant-synthesis, 4 causal, 2 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 4 of 20 report an effect size · 20 claims rest on one study
 
 ## Description
 Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.
@@ -45,6 +45,7 @@ Social learning is the element in which interaction with peers, models, or commu
 - [Proactive PALs yielded higher recall than responsive PALs, with the advantage differing by learner academic strength](../claims/proactive-pal-higher-recall-than-responsive.md) [~W]
 - [Students preferred robot-assisted storytelling and some students treated the robot as a more equal communication partner than the instructor](../claims/students-prefer-and-trust-robot-storytelling-partner.md) [~W]
 - [mCSCL benefits learning achievement, learning attitude, and peer interaction, with the largest effect on achievement](../claims/mcscl-benefits-three-outcome-types.md) [+W]
+- [DLGs help overcome stereotypes and cultural barriers, including prejudices about Roma people, Muslim immigrant women, and learners without basic education](../claims/dlg-overcome-stereotypes-cultural-barriers.md) [+W]
 
 ## The evidence by question
 - *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]

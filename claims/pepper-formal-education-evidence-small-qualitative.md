@@ -56,3 +56,4 @@ Scoping review synthesis of 13 peer-reviewed empirical studies on Pepper in form
 - Special issue findings are soft: small-scale case studies limit generalizability — related
 - [Research on AI support for EL literacy remains limited, narrow in scope, and lacking for diverse EL subgroups](ai-el-literacy-research-gaps.md) — a broader claim this one bears on
 - [Robot-assisted language learning is a rapidly developing field with increasing implementation of robots as language tutors](rall-field-rapid-development.md) — related
+- [The evidence base is dominated by US studies and quantitative designs, with sample sizes ranging from one teacher to 53 schools and 1,323 teachers](descriptive-overview-51-studies.md) — related

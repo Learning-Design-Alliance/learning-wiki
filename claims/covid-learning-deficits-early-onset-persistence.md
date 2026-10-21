@@ -71,3 +71,5 @@ Supplementary within-country analyses for the United States, the UK and the Neth
 - [The study tracked the achievement gap between COVID-year student cohorts and their pre-pandemic peers](covid-cohort-achievement-gap-tracked.md) — related
 - [Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries](covid-deficits-larger-middle-income-countries.md) — related
 - [Observed COVID-19 achievement declines were more substantial than declines during other recent disruptions such as natural disasters](covid-declines-exceed-natural-disaster-declines.md) — related
+- [Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies](covid-deficit-larger-quasi-experimental-designs.md) — related
+- [One year or more after the first lockdown, students had not recovered the learning deficits caused by Covid-19 school closures](covid-no-catch-up-one-year-after-lockdown.md) — possibly the same claim (merge candidate)
