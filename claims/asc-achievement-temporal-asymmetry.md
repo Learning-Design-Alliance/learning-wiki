@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Effects of academic self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)
-description: Effects of academic self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)
+title: In German secondary-school mathematics, effects of self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)
+description: In German secondary-school mathematics, effects of self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)
 id: asc-achievement-temporal-asymmetry
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 3
 ---
 
-# Effects of academic self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)
+# In German secondary-school mathematics, effects of self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`

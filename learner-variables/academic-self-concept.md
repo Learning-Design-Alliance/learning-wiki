@@ -92,7 +92,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [The 2I/E model is supported: social comparison effects are moderate, dimensional comparison effects small to moderate, and temporal comparison effects small on math and verbal self-concepts](../claims/ipd-meta-2ie-model-supported-moderate-social-small-temporal-effects.md) [+M] — instruction changes it
 - [The contextual-mean effect remains negative across every achievement decile and across MSC quantiles, with no systematic attenuation at the top](../claims/bflpe-robust-across-deciles-and-quantiles.md) [+M] — instruction changes it
 - [The negative contextual-mean effect persists for the top-ranked student in each class, constraining rank-sufficiency accounts](../claims/bflpe-persists-for-top-ranked-students.md) [+M] — instruction changes it
-- [Effects of academic self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)](../claims/asc-achievement-temporal-asymmetry.md) [+M] — learners who differ on it differ in outcomes
+- [In German secondary-school mathematics, effects of self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)](../claims/asc-achievement-temporal-asymmetry.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

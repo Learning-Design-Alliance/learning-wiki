@@ -123,7 +123,7 @@ The examples are local design instances, not additional observations from those 
 
 - [Spaced note-taking during lecture breaks outperformed parallel and no note-taking, and memory was worse at once-double lecture speed](../claims/lecture-speed-spaced-note-taking-aiken.md) [+W]
 - [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](../claims/expanding-uniform-spacing-retention-interval-moderator.md) [~W]
-- [The spacing-induced practice decrement is confined to the first two quiz questions, with no difference on the third](../claims/spacing-decrement-limited-to-first-two-questions.md) [~W]
+- [The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third](../claims/spacing-decrement-limited-to-first-two-questions.md) [~W]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

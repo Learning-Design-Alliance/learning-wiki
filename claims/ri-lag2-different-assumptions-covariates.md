@@ -43,7 +43,7 @@ Theoretical-methodological argument in the research-hypotheses section, not an e
 
 
 ## Related Claims
-- [Effects of academic self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)](asc-achievement-temporal-asymmetry.md) — related
+- [In German secondary-school mathematics, effects of self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)](asc-achievement-temporal-asymmetry.md) — related
 - [A taxonomy of panel models incorporating lag0, lag1, and lag2 effects, random intercepts, and covariates supports reciprocal effects between academic self-concept and achievement](rem-reciprocal-effects-ri-clpm-clpm-palma.md) — related
 - [RI-CLPMs control unmeasured time-invariant covariates better than CLPMs, but neither controls unmeasured time-varying covariates well](ri-clpm-unmeasured-covariate-control.md) — related
 - [Adding lag-2 paths to CLPMs substantially improves fit and provides stronger controls for preexisting differences, positioning extended CLPMs as viable alternatives to RI-CLPMs](lag-2-paths-improve-clpm-fit-and-control.md) — related

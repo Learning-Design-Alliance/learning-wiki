@@ -43,6 +43,6 @@ Completely within-participants 2 (timing) × 3 (question order) ANOVA on quiz sc
 
 
 ## Related Claims
-- [The spacing-induced practice decrement is confined to the first two quiz questions, with no difference on the third](spacing-decrement-limited-to-first-two-questions.md) — related
+- [The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third](spacing-decrement-limited-to-first-two-questions.md) — related
 - [Spaced quizzing increases end-of-semester retention of calculus learning objectives relative to massed quizzing](spacing-increases-calculus-retention.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related

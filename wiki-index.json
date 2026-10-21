@@ -17049,12 +17049,12 @@
 "type":"claim"
 },
 {
-"description":"Effects of academic self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)",
+"description":"In German secondary-school mathematics, effects of self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)",
 "evidence_strength":"moderate",
 "id":"asc-achievement-temporal-asymmetry",
 "path":"claims/asc-achievement-temporal-asymmetry.md",
 "status":"review",
-"title":"Effects of academic self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)",
+"title":"In German secondary-school mathematics, effects of self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)",
 "type":"claim"
 },
 {
@@ -178268,12 +178268,12 @@
 "type":"claim"
 },
 {
-"description":"The spacing-induced practice decrement is confined to the first two quiz questions, with no difference on the third",
+"description":"The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third",
 "evidence_strength":"moderate",
 "id":"spacing-decrement-limited-to-first-two-questions",
 "path":"claims/spacing-decrement-limited-to-first-two-questions.md",
 "status":"review",
-"title":"The spacing-induced practice decrement is confined to the first two quiz questions, with no difference on the third",
+"title":"The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third",
 "type":"claim"
 },
 {

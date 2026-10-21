@@ -464,7 +464,7 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 ## Claims
 
 - [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](../claims/expanding-uniform-spacing-retention-interval-moderator.md) [~W]
-- [The spacing-induced practice decrement is confined to the first two quiz questions, with no difference on the third](../claims/spacing-decrement-limited-to-first-two-questions.md) [~W]
+- [The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third](../claims/spacing-decrement-limited-to-first-two-questions.md) [~W]
 
 ## Key Sources
 

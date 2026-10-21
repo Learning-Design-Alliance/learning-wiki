@@ -43,7 +43,7 @@ Within-participants classroom experiment in a Fall 2020 calculus course for engi
 
 
 ## Related Claims
-- [The spacing-induced practice decrement is confined to the first two quiz questions, with no difference on the third](spacing-decrement-limited-to-first-two-questions.md) — related
+- [The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third](spacing-decrement-limited-to-first-two-questions.md) — related
 - [Spaced quizzing reduces overall performance on calculus practice quizzes relative to massed quizzing](spacing-reduces-quiz-practice-performance.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — a broader claim this one bears on
 - [Weekly spaced recall quizzes on fundamental concepts significantly improve 6-month retention of those concepts in a precalculus course](spaced-recall-quizzes-improve-long-term-retention-fundamental-math-concepts.md) — related

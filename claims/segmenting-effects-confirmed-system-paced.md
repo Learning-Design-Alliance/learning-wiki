@@ -37,7 +37,7 @@ sources:
 
 `q3 i?` The effects on retention, transfer, cognitive load, and learning time hold not only for learner-paced segmentation but also for system-paced segmentation. [→ Rey 2019](#rey-2019)
 
-`q2 i?` In a meta-analysis of 57 individual studies of the segmenting effect, for system-paced instruction segmentation increased learning time, reduced cognitive load, and improved retention and transfer test performance. [→ Paul Ginns & Jimmie Leppink 2019](#paul-ginns-jimmie-leppink-2019)
+`q2 i?` The special-issue editorial summarises Rey et al.'s meta-analysis (57 studies by the editorial's count; the meta-analysis itself reports 56 investigations and 88 comparisons): for system-paced instruction segmentation increased learning time, reduced cognitive load, and improved retention and transfer test performance. [→ Paul Ginns & Jimmie Leppink 2019](#paul-ginns-jimmie-leppink-2019)
 
 ## Evidence
 
@@ -57,7 +57,7 @@ Paul Ginns & Jimmie Leppink. (2019). Special Issue on Cognitive Load Theory: Edi
 
 `q2 · i?` · `quant-synthesis · r?`
 
-Meta-analysis of the segmenting effect derived from Mayer's CTML, summarized in the editorial: "identified 57 individual studies for inclusion in the meta-analysis," with the stated outcomes for system-paced instruction. No effect size value is printed in the editorial.
+Meta-analysis of the segmenting effect derived from Mayer's CTML, summarized in the editorial (a secondary account; Rey et al.'s own abstract reports 56 investigations and 88 pairwise comparisons): "identified 57 individual studies for inclusion in the meta-analysis," with the stated outcomes for system-paced instruction. No effect size value is printed in the editorial.
 
 > "Rey and colleagues identified 57 individual studies for inclusion in the meta-analysis, finding that for system-paced instruction, segmentation increased learning time, reduced cognitive load, and improved retention and transfer test performance."
 

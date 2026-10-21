@@ -97,7 +97,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Self-regulating students choose to complete multiple-choice practice questions until each item has been answered correctly about one time during practice.](../claims/srl-mc-practice-to-one-correct-answer.md) [+W] — attached 2026-10-20 from Badali et al. (2023), which proposed "Self-regulated practice task with restudy, practice-test, and item-removal options".
 - [Self-regulated multiple-choice students scored lower on final tests than experimenter-controlled groups but spent less time practicing, making their one-correct criterion comparatively time-efficient.](../claims/srl-mc-lower-final-test-less-time.md) [~W] — attached 2026-10-20 from Badali et al. (2023), which proposed "Self-regulated practice task with restudy, practice-test, and item-removal options".
 - [In-person but not online self-regulated multiple-choice students completed fewer restudy trials before their first practice test than cued-recall students.](../claims/restudy-before-first-test-format-interaction.md) [~W]
-- [The spacing-induced practice decrement is confined to the first two quiz questions, with no difference on the third](../claims/spacing-decrement-limited-to-first-two-questions.md) [~W]
+- [The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third](../claims/spacing-decrement-limited-to-first-two-questions.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

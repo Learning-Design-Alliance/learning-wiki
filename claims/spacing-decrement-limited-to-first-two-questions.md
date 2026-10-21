@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The spacing-induced practice decrement is confined to the first two quiz questions, with no difference on the third
-description: The spacing-induced practice decrement is confined to the first two quiz questions, with no difference on the third
+title: The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third
+description: The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third
 id: spacing-decrement-limited-to-first-two-questions
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# The spacing-induced practice decrement is confined to the first two quiz questions, with no difference on the third
+# The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium

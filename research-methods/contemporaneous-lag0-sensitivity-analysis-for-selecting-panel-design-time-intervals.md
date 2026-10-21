@@ -22,7 +22,7 @@ Because effect sizes vary with the interval between measurement waves and there 
 - **Treat tests of contemporaneous (lag0) effects as a sensitivity analysis of whether panel-design time intervals are appropriate**: Because effect sizes vary with the interval between measurement waves and there is no optimal interval, the article proposes testing lag0 paths within each wave as a practical check on design. "Tests of contemporaneous (lag0) effect in CLPMs are heuristic and offer a practical sensitivity analysis of whether the research design is based on appropriate time intervals." Significant lag0 effects may not be truly instantaneous but may signal that effects occur between waves, motivating shorter intervals; researchers should consider alternative intervals since failure to find lagged effects at one interval does not preclude effects at others. (Marsh et al. (2024))
 
 ### Claims
-- [Effects of academic self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)](../claims/asc-achievement-temporal-asymmetry.md) [+M]
+- [In German secondary-school mathematics, effects of self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)](../claims/asc-achievement-temporal-asymmetry.md) [+M]
 
 ## Related Research Methods
 -
