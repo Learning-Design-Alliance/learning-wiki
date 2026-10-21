@@ -5,14 +5,14 @@ title: Conceptual Change
 description: Instruction designed to replace learners' intuitive but inaccurate prior conceptions with scientifically accurate ones, typically by surfacing misconceptions and creating cognitive conflict.
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-30
+  by: claude/unspecified
+  at: 2026-10-21
 ---
 
 # Conceptual Change
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (5 causal, 4 quant-synthesis), `q3`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 5 claims (3 for, 2 mixed) · 11 studies (5 causal, 4 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 2 claims rest on one study
 
 ## Description
 Conceptual change instruction targets learners' entrenched intuitive theories — misconceptions that are coherent, functional, and resistant to direct correction. The strategy first makes prior conceptions explicit, then confronts them with evidence or explanations they cannot account for, and finally supports construction of the replacement conception. It is carried out through prediction tasks, contrasting cases, refutational texts, and discussion rather than simple transmission of correct information.
@@ -33,6 +33,7 @@ Learners do not enter instruction as blank slates; intuitive misconceptions (e.g
 - Direct refutation ("that's wrong, actually…") often fails when the misconception still usefully predicts everyday experience; the new conception must also be shown to be more parsimonious or more broadly applicable
 - Misconceptions frequently resurface under stress or transfer contexts even after successful instruction — "cold" conceptual change without continued practice is fragile
 - Less effective when learners lack the prerequisite knowledge to understand the replacement conception; the gap must be bridged first
+- The strategy assumes a misconception is a coherent idea to be displaced. On the [knowledge-in-pieces](../theories/knowledge-in-pieces.md) view it is a set of context-cued elements, some of them productive, that instruction should refine and connect rather than replace [Misconceptions as knowledge elements refined, not replaced](../claims/misconceptions-are-knowledge-elements-refined-not-replaced.md) [~W]; below mastery, the error a learner shows on one item may not recur on an identical one [Rule use inconsistent below mastery](../claims/arithmetic-rule-use-inconsistent-below-mastery-stable-at-mastery.md) [~M]
 
 #### Implementation Variability
 - **Refutational texts**: explicitly state the misconception, refute it, and present the correct conception — effective in reading-to-learn contexts
