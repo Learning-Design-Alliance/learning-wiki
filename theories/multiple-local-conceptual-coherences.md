@@ -4,8 +4,8 @@ title: "Multiple local conceptual coherences: student understanding as locally s
 description: The framework holds that student understanding and behavior are variable yet exhibit stabilities local to moments and settings.
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-09-25
+  by: claude/unspecified
+  at: 2026-10-21
 sources:
   - id: frank-2009
     resource: "https://eric.ed.gov"
@@ -40,6 +40,7 @@ The framework holds that student understanding and behavior are variable yet exh
 
 ## Related Theories
 
+- [Knowledge in Pieces](knowledge-in-pieces.md) — the knowledge-based account of variable thinking this framework draws on
 - [Multiple local coherences: stability of student thinking as sustained by real-time activity](multiple-local-coherences-real-time-stability.md)
 
 ## Examples

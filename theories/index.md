@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**1359 entries** · 0 stable · 1359 in review · 0 drafts
+**1360 entries** · 0 stable · 1360 in review · 0 drafts
 
 ---
 
@@ -718,6 +718,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Kentucky Academic Standards structure Data & Analysis into storage, collection/visualization/transformation, inference & models, and impacts of computing](kas-data-analysis-standards-structure.md) - The webinar organizes the K-2 Computer Science standards for Data & Analysis into three sub-areas plus an ethics-related impacts standard: \"E-DA-01: Appropriately store and modify digital files\"; \"E-DA-02: Standard 2:...
 * [Kentucky K-8 computing framework: five key concepts of CS and seven big ideas of technology](ky-cs-technology-framework-concepts.md) - The TAN project organizes K-8 computing learning in Kentucky around two complementary taxonomies: five key concepts of computer science and seven big ideas of technology.
 * [King and Kitchener's Reflective Judgment Model: a seven-stage developmental framework of epistemic assumptions and justification](rjm-seven-stage-epistemic-framework.md) - The Reflective Judgment Model (RJM) is a theoretical framework organizing how people make and justify judgments about ill-defined problems, which \"cannot be defined with a high degree of completeness and...
+* [Knowledge in Pieces](knowledge-in-pieces.md) - Knowledge in pieces holds that learners' intuitive ideas, including misconceptions, are many small context-cued knowledge elements that are refined and reorganised during learning, in contrast to the view that misconceptions are coherent, stable theories to be replaced.
 * [Knowledge Objects and Knowledge Practices](knowledge-objects-and-knowledge-practices.md) - A framework for analyzing collaborative knowledge-building through the evolving artifacts a group constructs (knowledge objects) and the epistemic practices they use to construct and negotiate them (knowledge practices).
 * [Knowledge Tracing as a Learner-Modeling Task](knowledge-tracing-learner-modeling-task.md) - The survey defines knowledge tracing (KT) as a learner-modeling task over sequences of exercise interactions: \"knowledge tracing aims to monitor students’ evolving knowledge states during the learning process and pred...
 * [Knowledge tracing set transformers (KTSTs)](ktst-model-class.md) - KTSTs are a model class for knowledge tracing that predicts the correctness of a student's next response from their interaction history with a learning system.

@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":23779,
+"claim":23786,
 "design":971,
 "element":1057,
 "learner-variable":75,
@@ -11,7 +11,7 @@
 "product":1855,
 "research-method":562,
 "strategy":6433,
-"theory":1359
+"theory":1360
 },
 "kinds":[
 "claim",
@@ -13980,6 +13980,15 @@
 "type":"claim"
 },
 {
+"description":"In a study of elementary algebra errors in three schools, mal-rules were very unstable within students, a few were frequent and many rare, and different mal-rules explained errors in different schools.",
+"evidence_strength":"weak",
+"id":"algebra-mal-rules-are-unstable-skewed-and-school-specific",
+"path":"claims/algebra-mal-rules-are-unstable-skewed-and-school-specific.md",
+"status":"review",
+"title":"Students' algebra mal-rules are used very irregularly, are severely skewed in frequency, and differ in explanatory power from school to school",
+"type":"claim"
+},
+{
 "description":"The brief examines how outcomes were affected for students who were or were not ready for 8th-grade Algebra",
 "evidence_strength":"weak",
 "id":"algebra-outcomes-ready-versus-not-ready-students",
@@ -16767,6 +16776,15 @@
 "path":"claims/arithmetic-predicts-algebra-better-than-fraction-knowledge.md",
 "status":"review",
 "title":"Arithmetic skill may predict algebra understanding better than fraction conceptual knowledge or magnitude understanding",
+"type":"claim"
+},
+{
+"description":"When 161 eighth graders answered the same 32 signed-number items twice in different random orders, students who had not mastered the operations commonly switched the rules they used, while masters applied rules stably.",
+"evidence_strength":"weak",
+"id":"arithmetic-rule-use-inconsistent-below-mastery-stable-at-mastery",
+"path":"claims/arithmetic-rule-use-inconsistent-below-mastery-stable-at-mastery.md",
+"status":"review",
+"title":"Students' rules of operation for signed-number arithmetic are applied inconsistently by non-masters and stably by masters",
 "type":"claim"
 },
 {
@@ -31145,6 +31163,15 @@
 "path":"claims/children-with-disabilities-larger-gains-higher-tiers.md",
 "status":"review",
 "title":"Children with disabilities showed larger gains in higher-tier programs than children without disabilities",
+"type":"claim"
+},
+{
+"description":"First-, third- and fifth-grade children's contradictory answers about the earth were largely accounted for by assuming each child consistently used one of five alternative mental models, constrained by presuppositions from everyday experience.",
+"evidence_strength":"weak",
+"id":"childrens-inconsistent-earth-answers-reflect-coherent-mental-models",
+"path":"claims/childrens-inconsistent-earth-answers-reflect-coherent-mental-models.md",
+"status":"review",
+"title":"Children's apparently inconsistent answers about the earth's shape are largely explained by consistent use of alternative mental models",
 "type":"claim"
 },
 {
@@ -96986,6 +97013,15 @@
 "type":"claim"
 },
 {
+"description":"Psychometric modelling of distractor-driven astronomy items given to 1,250 grade 8–12 students before and after their courses found that support for alternative conceptions rose with instruction before eventually falling.",
+"evidence_strength":"weak",
+"id":"instruction-can-raise-attraction-to-alternative-conceptions-before-decline",
+"path":"claims/instruction-can-raise-attraction-to-alternative-conceptions-before-decline.md",
+"status":"review",
+"title":"On distractor-driven science items, instruction can first strengthen students' attraction to an alternative conception before that preference declines",
+"type":"claim"
+},
+{
 "description":"Teachers' ability to deliver strong instruction depends substantially on the school context, family resources and challenges, and the larger community",
 "evidence_strength":"weak",
 "id":"instruction-delivery-depends-on-school-context",
@@ -110296,6 +110332,15 @@
 "type":"claim"
 },
 {
+"description":"Across 3,202 four-option MCQs with real student response distributions, LLaMA and Qwen models (0.5B–72B) assigned distractor probabilities that correlated with student selection at Pearson r = 0.28–0.37, and when wrong chose students' most common wrong answer about 51–59% of the time.",
+"evidence_strength":"weak",
+"id":"llm-distractor-likelihood-moderately-tracks-student-choices",
+"path":"claims/llm-distractor-likelihood-moderately-tracks-student-choices.md",
+"status":"review",
+"title":"LLMs' generation probabilities for multiple-choice distractors correlate moderately with how often students choose them",
+"type":"claim"
+},
+{
 "description":"LLMs predict common distractors above chance but fall 15 percentage points below chance at predicting which errors students rarely select",
 "evidence_strength":"moderate",
 "id":"llm-distractor-prediction-asymmetry",
@@ -110906,6 +110951,15 @@
 "path":"claims/llm-low-final-pass-kc-planning.md",
 "status":"review",
 "title":"Strongest LLMs reach only about 29.5% final pass rate on Basic Education KC planning and drop to 14.6% on Higher Education",
+"type":"claim"
+},
+{
+"description":"On Eedi math MCQs, the best LLM method matched all three human-authored distractors on 10.95% of test questions, and teacher-raters scored LLM distractors below human ones, with a larger gap for plausibility (2.68 vs 3.72) than validity (3.28 vs 3.99).",
+"evidence_strength":"weak",
+"id":"llm-math-distractors-more-valid-than-plausible",
+"path":"claims/llm-math-distractors-more-valid-than-plausible.md",
+"status":"review",
+"title":"LLM-generated distractors for math multiple-choice questions are judged mathematically valid more often than plausible to students, and rarely reproduce the full set of human-written distractors",
 "type":"claim"
 },
 {
@@ -121675,6 +121729,15 @@
 "path":"claims/misconception-tutor-higher-relscore-all-assignments.md",
 "status":"review",
 "title":"MisconceptionTutor achieves substantially higher feedback relevance (RelScore) than BaselineTutor on every assignment",
+"type":"claim"
+},
+{
+"description":"A constructivist reanalysis of misconceptions research argues that students' prior conceptions are productive resources, continuous with expert knowledge, and that learning refines and reorganises them rather than replacing them.",
+"evidence_strength":"weak",
+"id":"misconceptions-are-knowledge-elements-refined-not-replaced",
+"path":"claims/misconceptions-are-knowledge-elements-refined-not-replaced.md",
+"status":"review",
+"title":"Student misconceptions can be read as knowledge elements that serve in some contexts and are refined and reorganised during learning, rather than as strongly held flawed ideas that instruction must confront and replace",
 "type":"claim"
 },
 {
@@ -312740,6 +312803,15 @@
 },
 {
 "canonical":true,
+"description":"Knowledge in pieces holds that learners' intuitive ideas, including misconceptions, are many small context-cued knowledge elements that are refined and reorganised during learning, in contrast to the view that misconceptions are coherent, stable theories to be replaced.",
+"id":"knowledge-in-pieces",
+"path":"theories/knowledge-in-pieces.md",
+"status":"review",
+"title":"Knowledge in Pieces",
+"type":"theory"
+},
+{
+"canonical":true,
 "description":"A framework for analyzing collaborative knowledge-building through the evolving artifacts a group constructs (knowledge objects) and the epistemic practices they use to construct and negotiate them (knowledge practices).",
 "id":"knowledge-objects-and-knowledge-practices",
 "path":"theories/knowledge-objects-and-knowledge-practices.md",
@@ -319401,6 +319473,7 @@
 "algebra-failure-linked-to-incoming-academic-deficits":"algebra-failure-linked-to-incoming-academic-deficits",
 "algebra-failure-linked-to-ninth-grade-disengagement":"algebra-failure-linked-to-ninth-grade-disengagement",
 "algebra-i-failers-more-likely-male-african-american":"algebra-i-failers-more-likely-male-african-american",
+"algebra-mal-rules-are-unstable-skewed-and-school-specific":"algebra-mal-rules-are-unstable-skewed-and-school-specific",
 "algebra-outcomes-ready-versus-not-ready-students":"algebra-outcomes-ready-versus-not-ready-students",
 "algebra-placement-8th-versus-9th-grade-brief":"nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief",
 "algebra-placement-8th-versus-9th-grade-outcomes":"nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief",
@@ -319714,6 +319787,7 @@
 "arithmetic-fluency-gradient-complex-multiplication-null-for-math":"arithmetic-fluency-gradient-complex-multiplication-null-for-math",
 "arithmetic-performance-improves-longitudinally":"arithmetic-performance-improves-longitudinally",
 "arithmetic-predicts-algebra-better-than-fraction-knowledge":"arithmetic-predicts-algebra-better-than-fraction-knowledge",
+"arithmetic-rule-use-inconsistent-below-mastery-stable-at-mastery":"arithmetic-rule-use-inconsistent-below-mastery-stable-at-mastery",
 "arithmetic-skills-predict-explicit-math-anxiety":"arithmetic-skills-predict-explicit-math-anxiety",
 "arizona-disconnected-youth-lifetime-losses":"arizona-disconnected-youth-lifetime-losses",
 "arizona-dropout-fiscal-loss-135730":"arizona-dropout-fiscal-loss-135730",
@@ -321325,6 +321399,7 @@
 "children-trust-test-chatbot-with-known-answers":"children-trust-test-chatbot-with-known-answers",
 "children-underline-subordinate-details-not-superordinate-material":"children-underline-subordinate-details-not-superordinate-material",
 "children-with-disabilities-larger-gains-higher-tiers":"children-with-disabilities-larger-gains-higher-tiers",
+"childrens-inconsistent-earth-answers-reflect-coherent-mental-models":"childrens-inconsistent-earth-answers-reflect-coherent-mental-models",
 "childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking":"childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking",
 "china-listening-exam-widened-rural-urban-gap":"china-listening-exam-widened-rural-urban-gap",
 "china-middle-school-teachers-used-traditional-methods-late-1980s":"china-middle-school-teachers-used-traditional-methods-late-1980s",
@@ -328759,6 +328834,7 @@
 "instruction-achievement-weak-link-coaching":"instruction-achievement-weak-link-coaching",
 "instruction-alone-limited-joint-reflection-tool-values":"instruction-alone-limited-joint-reflection-tool-values",
 "instruction-alone-no-effect-on-collaborative-behavior":"instruction-alone-no-effect-on-collaborative-behavior",
+"instruction-can-raise-attraction-to-alternative-conceptions-before-decline":"instruction-can-raise-attraction-to-alternative-conceptions-before-decline",
 "instruction-delivery-depends-on-school-context":"instruction-delivery-depends-on-school-context",
 "instruction-first-better-procedural-fluency":"instruction-first-better-procedural-fluency",
 "instruction-first-fewer-better-solution-attempts":"instruction-first-fewer-better-solution-attempts",
@@ -330266,6 +330342,7 @@
 "llm-difficulty-magnitude-error-varies-across-models":"llm-difficulty-magnitude-error-varies-across-models",
 "llm-difficulty-moderate-rank-alignment-arithmetic":"llm-difficulty-moderate-rank-alignment-arithmetic",
 "llm-discourse-coding-kappa-078-expert-agreement":"llm-discourse-coding-kappa-078-expert-agreement",
+"llm-distractor-likelihood-moderately-tracks-student-choices":"llm-distractor-likelihood-moderately-tracks-student-choices",
 "llm-distractor-prediction-asymmetry":"llm-distractor-prediction-asymmetry",
 "llm-dp-quality-failure-modes":"llm-dp-quality-failure-modes",
 "llm-effects-on-group-dynamics-idea-generation-consensus-productivity":"llm-effects-on-group-dynamics-idea-generation-consensus-productivity",
@@ -330334,6 +330411,7 @@
 "llm-llm-agreement-exceeds-llm-human-classroom-ratings":"llm-llm-agreement-exceeds-llm-human-classroom-ratings",
 "llm-logical-inconsistency-scoring-feedback":"llm-logical-inconsistency-scoring-feedback",
 "llm-low-final-pass-kc-planning":"llm-low-final-pass-kc-planning",
+"llm-math-distractors-more-valid-than-plausible":"llm-math-distractors-more-valid-than-plausible",
 "llm-math-explanation-fallacies-vary-by-family":"llm-math-explanation-fallacies-vary-by-family",
 "llm-math-interactions-request-dominated-grade9":"llm-math-interactions-request-dominated-grade9",
 "llm-misconception-analysis-reveals-insights-beyond-performance-data":"llm-misconception-analysis-reveals-insights-beyond-performance-data",
@@ -331550,6 +331628,7 @@
 "misconception-trials-lower-accuracy-longer-rt-than-control":"misconception-trials-lower-accuracy-longer-rt-than-control",
 "misconception-tutor-higher-damr-pedagogical-quality":"misconception-tutor-higher-damr-pedagogical-quality",
 "misconception-tutor-higher-relscore-all-assignments":"misconception-tutor-higher-relscore-all-assignments",
+"misconceptions-are-knowledge-elements-refined-not-replaced":"misconceptions-are-knowledge-elements-refined-not-replaced",
 "misconceptions-decreased-similarly-all-methods":"misconceptions-decreased-similarly-all-methods",
 "misconceptions-inference-content-during-reading":"misconceptions-inference-content-during-reading",
 "misconceptions-inhibit-reading-comprehension":"misconceptions-inhibit-reading-comprehension",
@@ -354934,6 +355013,7 @@
 "kas-data-analysis-standards-structure":"kas-data-analysis-standards-structure",
 "kendon-gesture-continuum-framework":"kendon-gesture-continuum-framework",
 "knowledge-creation-metaphor-of-learning":"knowledge-creation-metaphor-of-learning",
+"knowledge-in-pieces":"knowledge-in-pieces",
 "knowledge-objects-and-knowledge-practices":"knowledge-objects-and-knowledge-practices",
 "knowledge-tracing-broader-applications":"knowledge-tracing-broader-applications",
 "knowledge-tracing-learner-modeling-task":"knowledge-tracing-learner-modeling-task",
