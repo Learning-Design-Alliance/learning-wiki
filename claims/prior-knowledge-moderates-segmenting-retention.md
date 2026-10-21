@@ -66,3 +66,4 @@ Moderation analysis within the meta-analysis of 56 investigations found that "le
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [Multimedia Principles Benefit Novices](expertise-reversal-effect.md) — related
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — related
+- [Test-taker abilities and prior knowledge show inconsistent moderating effects on multimedia testing effects](test-taker-abilities-inconsistent-moderators.md) — related

@@ -52,3 +52,4 @@ The review reports a randomized controlled trial with 86 K-12 students evaluatin
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
 - [A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention](woot-math-rct-adaptivity-significant-effects.md) — related
+- [Reflection prompts combined with tutor feedback had positive effects on the development of students' self-regulated learning competence](reflection-prompts-tutor-feedback-self-regulation.md) — related

@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 44 claims (22 for, 21 mixed, 1 against) · 30 studies (14 causal, 7 quant-synthesis, 6 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 30 report an effect size · 39 claims rest on one study
+> **Evidence** · 45 claims (22 for, 22 mixed, 1 against) · 31 studies (14 causal, 7 quant-synthesis, 7 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 31 report an effect size · 40 claims rest on one study
 
 ## Description
 
@@ -122,6 +122,7 @@ The examples are local design instances, not additional observations from those 
 ## Claims
 
 - [Spaced note-taking during lecture breaks outperformed parallel and no note-taking, and memory was worse at once-double lecture speed](../claims/lecture-speed-spaced-note-taking-aiken.md) [+W]
+- [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](../claims/expanding-uniform-spacing-retention-interval-moderator.md) [~W]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

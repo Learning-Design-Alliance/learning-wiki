@@ -88,3 +88,4 @@ A second meta-analysis reported in the same section found introjected and extern
 - [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](adhd-motivation-profile-sdt-dimensions.md) — related
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — related
 - [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — related
+- [Autonomous and intrinsic forms of motivation are positively associated with time management, while controlled motivation and amotivation show negative or null associations](autonomous-motivation-time-management.md) — related

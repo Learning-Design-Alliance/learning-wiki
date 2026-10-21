@@ -12,7 +12,7 @@ generated:
 # Social Learning Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (5 for, 3 mixed, 3 against) · 8 studies (4 causal, 2 associational, 1 review, 1 qualitative), `q2`–`q3` · 3 of 8 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (7 for, 3 mixed, 3 against) · 9 studies (4 causal, 2 review, 2 associational, 1 qualitative), `q2`–`q3` · 3 of 9 report an effect size · 13 claims rest on one study
 
 ## Description
 Social Learning Theory, developed primarily by Albert Bandura, proposes that learning occurs not only through direct reinforcement (as behaviorism holds) but also through observation of others and the cognitive processing of those observations. The core mechanism is *modeling*: learners observe a model performing a behavior, encode the behavioral pattern, and reproduce it — with reproduction mediated by attention, retention, motor reproduction, and motivation. Bandura's Bobo doll studies (Bandura, Ross, & Ross, 1961) are the theory's signature demonstration: children who watched an adult model act aggressively toward an inflatable doll reproduced that aggression themselves. Observational learning can occur in at least three ways (Lefrançois, 2012): a learner acquires an entirely new response; a learner decides whether to imitate a model based on what happened to the model; or a learner extracts a general rule applicable beyond the specific modeled instance. Bandura distinguished three kinds of models: a **live model** demonstrates the behavior in person; a **verbal instructional model** describes or explains the behavior without performing it (e.g., a coach describing correct kicking technique); and a **symbolic model** is a real or fictional figure demonstrating behavior through media (books, film, television, video games, the internet).
@@ -62,6 +62,8 @@ Social Cognitive Theory is not a fully unified theory: the literature offers no 
 - [Long video-based modelling examples did not improve diagnostic strategy knowledge, skills, self-efficacy, or cognitive load relative to independently practising in a computer simulation](../claims/modelling-examples-no-effect-complex-diagnostic-strategy.md) [-W]
 - [Observing a male model enhances perceived competence more from pretest to posttest than observing a female model, for both male and female observers](../claims/male-model-boosts-perceived-competence.md) [~W]
 - [Peer models raised self-efficacy and skill better than teacher models, but model-competence findings conflict across studies](../claims/peer-model-similarity-effects-mixed-evidence.md) [~W]
+- [Observers of peer models who made and corrected key errors learned to identify and eliminate such errors, whereas observers of expert models missed the error-correction information](../claims/peer-model-error-correction-observers.md) [+W] — attached 2026-10-21 from Wouters et al. (2007), which proposed "Social cognitive model of sequential skill acquisition"; tests this page's relationship.
+- [Alternating observation and performance in dyads yielded better transfer than individual practice or a control condition in a video-game task](../claims/dyad-observation-performance-alternation-transfer.md) [+W] — attached 2026-10-21 from Wouters et al. (2007), which proposed "Social cognitive model of sequential skill acquisition"; tests this page's relationship.
 
 ## Related Theories
 

@@ -51,6 +51,7 @@ The paper introduces a Bayesian framework for factorial experiments in education
 ## Examples
 
 - [Simulation-based power calculation procedure comparing classical and Bayesian MDEs across factorial designs](../elements/factorial-mde-simulation-procedure.md)
+- [Use Bayesian inference, equivalence testing, and multiple operationalizations to make null effects theoretically informative](../strategies/bayesian-equivalence-testing-for-null-effects.md)
 
 ## Key Sources
 - Daniel Kassler, Ira Nichols-Barrer, Mariel Finucane. (2018). Beyond "Treatment versus Control": How Bayesian Analysis Makes Factorial Experiments Feasible in Education Research. Working Paper 61. Cambridge, MA: Mathematica Policy Research. https://www.mathematica.org/publications/beyond-treatment-versus-control-how-bayesian-analysis-makes-factorial-experiments-feasible

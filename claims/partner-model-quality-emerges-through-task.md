@@ -68,3 +68,4 @@ The editorial reports this symmetry result from the same five experiments by Dil
 - [Symmetry of partner models does not rule out a contribution of individual modelling abilities to mutual modelling quality](individual-abilities-still-contribute-to-mutual-models.md) — related
 - [The five mutual-modelling experiments varied how important it was to build an accurate model (task) and how difficult it was to build one (setting)](mutual-modelling-experiments-vary-task-and-setting.md) — related
 - [The quality of mutual models appears to depend more on the quality of interactions than on individual representational abilities](interaction-quality-drives-mutual-modelling.md) — a narrower finding that bears on this claim
+- [Collaboration does not emerge spontaneously just by placing students together](collaboration-not-spontaneous-from-grouping.md) — related

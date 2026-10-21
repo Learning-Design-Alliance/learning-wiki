@@ -66,3 +66,4 @@ SEM results (Table 3) show supported paths from mastery-approach (β = 0.312), p
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related
 - [Mastery and performance-approach goals positively predict self-efficacy while performance-avoidance goals negatively predict it across all three grade levels](achievement-goals-predict-self-efficacy.md) — related
 - [Performance-avoidance goals negatively predict both self-concept and self-efficacy across all three grade levels](performance-avoidance-goals-negative-self-beliefs.md) — related
+- [Mastery-approach goals are positively related to time management, while performance-approach relations are inconsistent and performance-avoidance goals show no association](mastery-approach-goals-time-management.md) — related

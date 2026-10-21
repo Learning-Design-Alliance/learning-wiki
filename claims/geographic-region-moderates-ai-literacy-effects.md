@@ -57,3 +57,4 @@ Moderator analysis in the three-level meta-analysis testing five regions. Europe
 - Research on K‑5 writing motivation self‑reports grew sharply after 2009 and is geographically concentrated in North America and Asia — related
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
 - [Learning outcome focus significantly moderates effects: knowledge outcomes benefit more than skills, attitudes, or ethics](knowledge-outcomes-benefit-more-than-skills-ethics-attitudes.md) — related
+- [The magnitude of sex differences in mathematics varies across geographical regions, with larger estimated effects in Central Europe (d = 0.164) and Central and South America (d = 0.153) than in North America (d = 0.047)](geographic-region-moderation-sex-differences-mathematics.md) — related

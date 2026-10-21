@@ -55,3 +55,4 @@ External-validity discussion of a questionnaire study assessing shallow informat
 - [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](questionnaires-measure-perception-not-performed-strategies.md) — a broader claim this one bears on
 - [Low questionnaire–think-aloud correlations may have two alternative explanations besides poor self-report ability: the methods may measure different strategies or be aimed at different tasks](alternative-explanations-low-correlations-strategies-tasks.md) — related
 - [Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension](strategy-dimensions-uncorrelated-opposite-correlations.md) — related
+- [Metacognition and comprehension strategy use are weakly to moderately associated with intertextual integration among K-12 students](metacognition-strategy-use-correlates-intertextual-integration.md) — related

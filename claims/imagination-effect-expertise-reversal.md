@@ -48,3 +48,4 @@ Narrative review citing Cooper et al. and Ginns et al.: imagining benefits knowl
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a broader claim this one bears on
 - [Variations in cognitive activation are reflected in the germane cognitive load scale: prompted imagination and disfluent text raise GCL](activation-variations-reflected-in-gcl-scale.md) — related
 - [Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata](expertise-reversal-worked-examples.md) — related
+- [Design guidelines beneficial for novice learners can be ineffective or even detrimental when applied to experts (expertise reversal)](expertise-reversal-interactivity-guidelines.md) — a broader claim this one bears on

@@ -70,3 +70,4 @@ Narrative review attribution: the article reports Pedler et al.'s (2022) finding
 - [A sense of belonging can help promote and consolidate online learning](sob-promotes-consolidates-online-learning.md) — a narrower finding that bears on this claim
 - [Teacher emotional support buffers the negative association between low math self-efficacy and low engagement](teacher-emotional-support-buffers-low-efficacy-engagement.md) — related
 - [Belonging mediates the relationship between racial/ethnic identity and both academic achievement and emotional symptoms](belonging-mediates-identity-achievement.md) — a narrower finding that bears on this claim
+- [The review argues that ignoring the social side of school carries costs including reified achievement gaps, diminished belonging and dropout, and unsafe school climates](costs-of-ignoring-social-side-of-school.md) — possibly the same claim (merge candidate)

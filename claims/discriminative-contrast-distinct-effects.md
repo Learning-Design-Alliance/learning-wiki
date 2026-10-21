@@ -49,3 +49,8 @@ The authors' narrative review of the spacing and interleaving literatures report
 - [When trivia questions space out exemplars, spacing and interleaving are subadditive: interleaving beats blocking only with contiguous presentation, and spacing helps blocked but not interleaved study](spacing-interleaving-subadditive-interaction.md) — related
 - [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — related
 - [Interleaving effects are stronger when material is more similar between categories, less similar within categories, and more complex](similarity-and-complexity-moderate-interleaving.md) — related
+- [Five null studies with spacing but no rest and dissimilar materials showed neither spacing nor interleaving effects](five-null-studies-support-both-hypotheses.md) — a narrower finding that bears on this claim
+- [Interleaved practice outperformed blocked practice across eight STEM classrooms](interleaving-beats-blocking-across-stem-classes.md) — related
+- [All 67 reviewed interleaving studies demonstrated the interleaving effect using very similar interleaved concepts](interleaving-effect-requires-similar-discriminable-materials.md) — related
+- [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — a narrower finding that bears on this claim
+- [All 48 reviewed spacing studies obtained the spacing effect using rest-from-deliberate-learning periods](spacing-effect-requires-rest-from-deliberate-learning.md) — related

@@ -50,3 +50,4 @@ Post-scenario difficulty ratings (1 = easy to 5 = difficult) in the 30-participa
 - [Delayed perceived task difficulty ratings relate more strongly to the relative difficulty of the more demanding items within a task set, consistent with delayed ratings being affected by the most demanding item](delayed-ratings-track-most-demanding-items.md) — related
 - [Task complexity and task difficulty are distinct concepts](task-complexity-distinct-from-difficulty.md) — related
 - [LLM-generated robot control code succeeds on 100%, 94.4%, and 88.9% of simple, composite, and complex instructions respectively](llm-code-success-rate-declines-with-instruction-difficulty.md) — related
+- [Item complexity moderates picture function effects, with informational pictures potentially helping on difficult items but hindering on easy ones](item-complexity-moderates-picture-effects.md) — related

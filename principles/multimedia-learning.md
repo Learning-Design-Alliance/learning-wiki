@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (29 for, 39 mixed, 3 against) · 54 studies (24 causal, 12 quant-synthesis, 10 review, 4 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 17 of 54 report an effect size · 63 claims rest on one study
+> **Evidence** · 73 claims (30 for, 40 mixed, 3 against) · 55 studies (25 causal, 12 quant-synthesis, 10 review, 4 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 17 of 55 report an effect size · 65 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,8 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Cognitive skills are the most probable student characteristic to modify picture effects: low math performers do better without representational pictures, low reading-comprehension students better with them](../claims/cognitive-skills-moderate-picture-effects.md) [~W]
 - [Affective variables and gender do not relate to picture effects on elementary schoolers' word problem-solving performance](../claims/affective-gender-no-moderation.md) [~W]
 - [Decorative pictures show consistently null effects on elementary schoolers' word problem-solving performance regardless of task characteristics](../claims/decorative-pictures-null-effects.md) [~W]
+- [The mental integration task showed no general advantage of the dynamic over the static visual design in overall accuracy](../claims/no-general-dynamic-advantage-mental-integration.md) [~W]
+- [All four original multimedia experiments showed a main effect favoring the dynamic visualization, especially for transfer tasks](../claims/four-experiments-dynamic-visualization-main-effect.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

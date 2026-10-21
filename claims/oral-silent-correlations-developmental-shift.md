@@ -70,3 +70,4 @@ Study 2 correlations: oral–silent r = 0.784 overall, r = 0.646 (dyslexia) and 
 - [Adolescents read silently faster than orally, and this oral–silent difference is smaller for adolescents with dyslexia than for typical readers](adolescents-silent-faster-than-oral-reading.md) — related
 - [The oral–silent reading difference increases with reading experience, plausibly because a less extensive orthographic lexicon forces dyslexic readers to rely on phonological processing during silent reading](oral-silent-divergence-increases-with-reading-experience.md) — related
 - [For children in Grades 3–5, with and without dyslexia, oral and silent text reading fluency do not differ](children-oral-silent-reading-fluency-do-not-differ.md) — related
+- [Word-level reading fluency is positively associated with intertextual integration among K-12 students, including readers with developmental dyslexia](word-reading-fluency-correlates-intertextual-integration.md) — related

@@ -53,3 +53,4 @@ The authors' two quasi-experimental studies with 212 and 152 10th graders, condu
 - [Productive failure before instruction outperforms instruction followed by problem-solving](productive-failure-before-instruction-strong-effect.md) — related
 - [In an out-of-school lab for social sciences, the authenticity level of the learning activity (Productive Failure vs. Direct Instruction) did not affect students' perceived authenticity or situational interest](pf-vs-di-no-effect-perceived-authenticity-situational-interest.md) — related
 - [Students observing high-diversity vicarious failure (VF-high) significantly outperform students in VF-low and DI conditions on conceptual knowledge](vf-high-outperforms-vf-low-and-di-conceptual.md) — related
+- [Conceptual replication failure can stem from inadequate theory and, once discovered, becomes a component of subsequent theory development](conceptual-replication-failure-drives-theory-development.md) — related

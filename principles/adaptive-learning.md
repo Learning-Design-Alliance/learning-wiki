@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 62 claims (32 for, 26 mixed, 4 against) · 60 studies (22 causal, 14 review, 8 design, 7 quant-synthesis, 5 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 10 of 60 report an effect size · 55 claims rest on one study
+> **Evidence** · 63 claims (33 for, 26 mixed, 4 against) · 61 studies (22 causal, 14 review, 8 design, 7 quant-synthesis, 5 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 10 of 61 report an effect size · 56 claims rest on one study
 
 ## Conditional relationship
 
@@ -182,6 +182,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [A multi-skill prior strategy yielded lower prediction error in 33 of 42 problem sets](../claims/multi-skill-prior-strategy-best-prediction-error.md) [~W]
 - [Adaptive scaffolding shows descriptively higher effects than adaptable scaffolding in simulation-based learning, though the difference is not statistically significant](../claims/adaptive-scaffolding-descriptively-higher-than-adaptable.md) [+W]
 - [Adaptable task progression is descriptively more beneficial than fixed task progression in simulation-based learning](../claims/adaptable-task-progression-higher-effects.md) [+W]
+- [Technology-supported adaptive teaching units showed significant learning gains, larger for low-prior-knowledge students and high implementation fidelity](../claims/adaptive-teaching-units-learning-gains-moderated.md) [+W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

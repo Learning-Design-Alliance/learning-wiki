@@ -48,3 +48,4 @@ Coding of the historical-events characteristic in the 38 interview narratives, d
 - [Nation concept shifts from essentialist to constructivist across grades](nation-concept-constructivist-increases-grade-11.md) — related
 - [Identification with the historical subject ('us') does not change across grades](identification-us-constant-across-grades.md) — related
 - Identification is statistically unrelated to the other three narrative characteristics — related
+- [Students tend to explain historical events from an intentionalist, personalistic point of view](students-personalistic-historical-explanations.md) — related

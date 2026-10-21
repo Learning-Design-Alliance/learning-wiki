@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 39 claims (23 show a difference, 11 mixed, 5 no difference) · 27 studies (15 causal, 4 associational, 2 review, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 6 of 27 report an effect size · 36 claims rest on one study
+> **Evidence** · 45 claims (27 show a difference, 13 mixed, 5 no difference) · 28 studies (15 causal, 4 associational, 3 review, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 6 of 28 report an effect size · 42 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -76,6 +76,12 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Sequence of worked examples and problems had no significant effect on self-reported cognitive load, but higher prior knowledge was associated with lower load in experimental design](../claims/cognitive-load-no-sequence-effect.md) [+W] — learners who differ on it differ in outcomes
 - [Teams in the matched condition had more elaborate discussions of the domain than teams in the mismatched condition, especially about relations and mathematical relationships](../claims/matched-condition-elaborate-domain-discussion.md) [+M] — instruction changes it
 - [Teams with part-task congruent tools adjusted their representations across phases—broad causal representations first, then more selective algebraic specification—unlike single-tool teams](../claims/matched-tools-phase-appropriate-representations.md) [+M] — instruction changes it
+- [Arithmetic skill may predict algebra understanding better than fraction conceptual knowledge or magnitude understanding](../claims/arithmetic-predicts-algebra-better-than-fraction-knowledge.md) [+M] — learners who differ on it differ in outcomes
+- [Fraction knowledge is consistently linked to algebra success, though findings vary by measure](../claims/fraction-knowledge-predicts-algebra.md) [~W] — learners who differ on it differ in outcomes
+- [Integrated models combining mathematical and motivational propensities significantly explain algebra performance](../claims/integrated-propensity-model-explains-algebra-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Mathematics anxiety shows mixed relations to algebraic thinking across studies](../claims/math-anxiety-mixed-algebra-relations.md) [~W] — learners who differ on it differ in outcomes
+- [Mathematics self-efficacy is the most commonly studied motivational propensity and is usually positively related to algebraic thinking](../claims/math-self-efficacy-positive-algebra.md) [+W] — learners who differ on it differ in outcomes
+- [Sense of belonging to mathematics is positively related to algebraic thinking in reviewed studies](../claims/belonging-mathematics-positive-algebra.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

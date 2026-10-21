@@ -51,3 +51,4 @@ Randomized experiment with 52 university students assigned to learner-control or
 - [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation](segmenting-effects-confirmed-system-paced.md) — related
 - [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — a broader claim this one bears on
 - [Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464](flow-control-unused-no-learning-correlation.md) — related
+- [All four original multimedia experiments showed a main effect favoring the dynamic visualization, especially for transfer tasks](four-experiments-dynamic-visualization-main-effect.md) — related

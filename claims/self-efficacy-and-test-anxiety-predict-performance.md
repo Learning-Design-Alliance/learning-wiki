@@ -72,3 +72,4 @@ Across the regression analyses in the same survey, "students who reported higher
 - [The relations among motivational, strategy use, and performance constructs were similar across mathematics, English, and social studies](motivation-cognition-relations-similar-across-subjects.md) — related
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related
+- [Pre-service teachers' assessment quality is negatively related to self-efficacy and perceived costs of engaging with scientific evidence](evidence-engagement-costs-negatively-related-assessment-quality.md) — related

@@ -13,7 +13,7 @@ generated:
 # Self-Monitoring
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (4 for, 9 mixed) · 12 studies (5 quant-synthesis, 4 causal, 2 associational, 1 theoretical), `q2`–`q4` · 5 of 12 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (5 for, 9 mixed) · 13 studies (6 quant-synthesis, 4 causal, 2 associational, 1 theoretical), `q2`–`q4` · 6 of 13 report an effect size · 10 claims rest on one study
 
 ## Description
 Self-monitoring is the element in which learners track their own attention, behavior, progress, or accuracy during learning.
@@ -39,6 +39,7 @@ Self-monitoring is the element in which learners track their own attention, beha
 - [Little or no relation between absolute and relative accuracy in metacomprehension research](../claims/little-relation-absolute-relative-accuracy.md) [~W]
 - [Before self-scoring, the unskilled-and-unaware effect in regulation accuracy appears on multiplication but not on division tasks](../claims/unskilled-unaware-regulation-before-self-scoring-task-dependent.md) [~W]
 - [WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty](../claims/wmpt-measures-vary-with-difficulty.md) [~W]
+- [Interventions to improve monitoring accuracy in problem-solving tasks have a small positive overall effect (g = 0.25)](../claims/monitoring-accuracy-interventions-small-positive-effect-problem-solving.md) [+W]
 
 ## The evidence by question
 - *Does having learners record their own on-task behaviour at set intervals improve that behaviour, and for whom?* [Self Monitoring Improves On Task Behavior](../claims/self-monitoring-improves-on-task-behavior.md) [+S]

@@ -67,3 +67,4 @@ Bootstrapped mediation analysis (1000 draws) of the same survey data. The parent
 - [Family satisfaction fully mediates the relationship between school-family balance and life satisfaction among student parents](family-satisfaction-fully-mediates-balance-life-satisfaction.md) — related
 - [School-family balance is predicted by both academic and parental self-efficacy and in turn predicts school and family satisfaction](school-family-balance-predicted-by-efficacy-predicts-satisfaction.md) — related
 - [Partnered student parents report higher school and family satisfaction, and part-time enrolment is associated with higher family satisfaction](partner-status-enrolment-subgroup-satisfaction-differences.md) — related
+- [Parenting self-efficacy shows a small to medium positive correlation with parents' contributions to the home-school partnership among primary school families](pse-hsp-overall-correlation.md) — related

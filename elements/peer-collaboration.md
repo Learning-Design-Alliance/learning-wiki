@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 53 claims (19 for, 33 mixed, 1 against) · 48 studies (11 causal, 10 qualitative, 9 associational, 7 review, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 5 of 48 report an effect size · 51 claims rest on one study
+> **Evidence** · 54 claims (19 for, 33 mixed, 2 against) · 49 studies (11 causal, 10 qualitative, 9 associational, 8 review, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 5 of 49 report an effect size · 52 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.
@@ -103,6 +103,7 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [Students report regulation strategies mainly at the self- and shared-level, with significantly fewer strategies at the co-level](../claims/shared-and-self-level-dominate-over-co-level.md) [~W]
 - [Evidence indicates socially shared regulation of learning occurs across SRL areas and may promote learning and performance](../claims/ssrl-empirical-evidence-occurrence-and-effects.md) [+W]
 - [mCSCL outperforms individual learning and non-mobile collaborative learning, but shows no significant advantage over desktop CSCL](../claims/mcscl-vs-control-group-types.md) [~W]
+- [Teacher-guided whole-class discussions show more contextualization, explanatory questions, and abstract concepts than student dyad discussions](../claims/whole-class-more-contextualization-than-dyads.md) [-W]
 
 ## The evidence by question
 

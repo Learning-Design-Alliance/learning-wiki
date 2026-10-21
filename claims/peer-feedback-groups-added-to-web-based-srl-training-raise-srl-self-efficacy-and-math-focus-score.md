@@ -76,3 +76,4 @@ Same planned contrasts on the mathematics focus score (ten self-chosen chapters)
 - [ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant](its-practice-no-self-efficacy-gain.md) — related
 - [Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy](diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) — related
 - [Self-regulated learning abilities improved significantly in the GPT-feedback VR group, supporting self-reflection, goal setting, and strategy adjustment](gpt-feedback-vr-improves-srl.md) — related
+- [Time management interventions show conflicting evidence for raising self-efficacy](time-management-interventions-self-efficacy-mixed.md) — related

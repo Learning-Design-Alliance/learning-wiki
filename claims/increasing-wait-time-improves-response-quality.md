@@ -94,3 +94,4 @@ Rowe's review distinguishes wait time 1 (the pause after asking a question) and 
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — the broader claim; it cites the same Tobin (1987) review for wait time
 - [Teachers give disinvited students less wait time than invited students when they cannot answer questions](wait-time-invited-disinvited-students.md) — related
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related
+- [Collaborative speech features differ under high versus low cognitive load: longer speech pauses and less use of singular pronouns in high-load conditions](speech-features-index-collaborative-cognitive-load.md) — related

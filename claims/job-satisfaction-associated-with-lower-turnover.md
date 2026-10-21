@@ -51,3 +51,5 @@ Multivariate regression on NTPS/TFS data using the job and workplace satisfactio
 - Dissatisfaction with leadership and staff cohesion predicts staying only in high-poverty schools — related
 - [Minority teachers who depart rarely cite retirement; dissatisfaction, pursuit of better jobs, and personal reasons dominate their reported turnover reasons](minority-teacher-departure-reasons-self-report.md) — related
 - [Teachers of color leave the teaching profession at higher rates than white teachers (about 19 percent vs. 15 percent turnover).](toc-higher-turnover-than-white-teachers.md) — related
+- [Teachers' job satisfaction is negatively associated with absenteeism (pooled r = −0.18)](job-satisfaction-negative-absenteeism.md) — related
+- [Teachers' job satisfaction is negatively associated with turnover intentions (pooled r = −0.46)](job-satisfaction-negative-turnover-intentions.md) — related

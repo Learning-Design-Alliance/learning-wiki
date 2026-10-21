@@ -51,3 +51,4 @@ GEE model predicting positive valence monitoring duration from physiological syn
 - [Students' reactivity to monitoring events showed no significant correlation with EDA peaks.](no-correlation-eda-peaks-reactivity.md) — related
 - [The editorial reports that a mixed methods study of 42 participant pairs found partly contradictory and partly complementary results on physiological synchrony and collaborative learning](physiological-synchrony-collaborative-learning-mixed-methods.md) — a broader claim this one bears on
 - [Individual participation in monitoring processes was consistent with physiological arousal, suggesting an observable indicator of participation](physiological-arousal-consistent-with-monitoring-participation.md) — related
+- [Physiological synchrony during collaborative interaction shows initial positive correlations with collaboration quality, task performance, and learning gains](physiological-synchrony-collaboration-quality-correlation.md) — related

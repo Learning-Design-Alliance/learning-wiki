@@ -68,3 +68,4 @@ Regional comparison for victimization outcomes; the authors report that for perp
 - [School-based anti-bullying programs reduce bullying perpetration and victimization globally](anti-bullying-programs-reduce-perpetration-and-victimization-globally.md) — related
 - [NoTrap! was the most effective program for reducing bullying victimization, while ViSC and fairplayer.manual showed non-significant negative effects](notrap-most-effective-victimization-visc-negative.md) — related
 - [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](anti-bullying-programs-reduce-bullying-20-23-percent.md) — related
+- [The magnitude of sex differences in mathematics varies across geographical regions, with larger estimated effects in Central Europe (d = 0.164) and Central and South America (d = 0.153) than in North America (d = 0.047)](geographic-region-moderation-sex-differences-mathematics.md) — related

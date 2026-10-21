@@ -51,3 +51,4 @@ The authors' revisit of the literature cites the Minner et al. (2010) research s
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Large randomized evaluations of project-based learning programs show advantages over traditional science teaching of about 0.2 standard deviations](project-based-learning-rct-advantage-traditional-instruction.md) — related
+- [Controlled studies comparing exploration-based investigation with explicit instruction overwhelmingly favor explicit instruction for science content learning](controlled-studies-favor-explicit-instruction-over-inquiry.md) — reports the opposite

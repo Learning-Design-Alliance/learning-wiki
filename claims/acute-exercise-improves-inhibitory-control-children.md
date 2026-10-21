@@ -47,3 +47,5 @@ Meta-analysis of 23 studies of acute exercise effects on inhibitory control meas
 - [Open-skill exercises yield larger executive function benefits than closed-skill exercises for inhibitory control and working memory](open-skill-exercise-larger-ef-benefits.md) — related
 - [Acute exercise significantly improves working memory in children and adolescents with a moderate effect size (SMD = −0.72)](acute-exercise-improves-working-memory-children.md) — related
 - [Chronic exercise significantly improves working memory, inhibitory control, and cognitive flexibility in children and adolescents](chronic-exercise-improves-executive-function-children.md) — related
+- [Brief pre-class exercise selectively enhanced mathematics-specific inhibitory control while domain-general interference control (Flanker) showed no reliable change, per Zhang et al. (2026)](brief-exercise-selective-math-inhibition-dissociation.md) — a narrower finding that bears on this claim
+- [Null Flanker effects under ecologically realistic exercise constrain claims of broad, generalized enhancement of executive control](null-flanker-effects-constrain-generalized-enhancement.md) — reports the opposite

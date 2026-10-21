@@ -69,3 +69,4 @@ Secondary control-model analysis of the same 548-teacher sample; the quote repor
 - [Innovative competence differs by background variables, with AI interest level showing the strongest association](innovative-competence-background-heterogeneity-ai-interest.md) — related
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related
 - [Structural paths are stable when continued-use intention and current use are modeled as separate outcomes, and AI anxiety is not directly related to continued use](outcome-robustness-anxiety-null-direct.md) — related
+- [Gender and migration background have only very small impacts on the strength of single comparison effects](ipd-meta-gender-migration-negligible-moderation.md) — related

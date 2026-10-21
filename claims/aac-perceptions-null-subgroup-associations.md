@@ -83,3 +83,4 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Perceptions of engagement strategies were analyzed for differences by age, gender, and online learning experience](demographic-differences-engagement-strategy-perceptions.md)
 - [Parents' postimplant experiences of children's outcomes largely matched their preimplant expectations, with about four fifths reporting expectations met](ci-parent-expectations-matched-experiences.md) — related
 - [Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation](no-moderators-life-events-self-control.md) — related
+- [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](limited-demographic-moderators.md) — related

@@ -31,7 +31,7 @@ sources:
 # Within-study comparison (WSC) methodology
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 4 studies (2 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q3` · 1 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 A within-study comparison examines "whether and in what context nonexperimental methods can successfully replicate the results of randomized experiments." The article situates its contribution in this growing literature and applies a WSC to charter school effects on student achievement, using a randomized study with control-group crossover as the experimental benchmark.
@@ -46,11 +46,13 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - **A new replication approach comparing nonexperimental estimates to experimental ITT estimates rather than CACE**: The article develops a replication method for within-study comparisons in settings with control-group noncompliance. Instead of requiring the nonexperimental estimate to match the complier average causal effect, the approach uses "nonexperimental methods to produce an estimate that can be compared to the experimental intent-to-treat (ITT) impact estimate rather than the CACE." This aligns the causal estimands when some control-group members are always-takers who receive treatment anyway. (Brian Gill et al. (2016))
 - **Benchmark nonexperimental methods against experimental ITT estimates, accounting for control crossover**: When judging whether nonexperimental methods can recover causal impacts, the article recommends using the experimental ITT estimate as the standard of comparison. It notes that "Ideally, nonexperimental methods that aim to replicate the results of rigorous randomized experiments focus on the intent to treat (ITT) experimental impact estimate," and that the comparison must handle "substantial control crossover" in the experiment. (Brian Gill et al. (2013))
 - **Synthetic within-study comparison design for assessing RD performance**: A methodological artifact in which the authors "generate synthetic RD data sets from experimental data sets" from two recent evaluations of educational interventions—the Educational Technology Study and the Teach for America Study—and "compare the RD impact estimates to the experimental estimates of the same intervention." This lets RD performance be benchmarked against randomized estimates for the same interventions. The article uses it both to test well-implemented RD and to study manipulation bias. (Philip Gleason et al. (2018))
+- **Measurement local optima: canonical executive function tasks may reflect measurement inertia rather than genuine invariance**: The article argues that operationalizations of psychological constructs settle into "local optima": "definitions that are reliable, interpretable, and widely accepted, yet not necessarily epistemically optimal for addressing all theoretical questions." Canonical tasks like the Flanker and Stroop are optimized for reliability, comparability, and stable individual differences, which can reduce sensitivity to transient, state-based perturbations. Apparent stability under perturbation may therefore reflect properties of the measurement instrument rather than genuine invariance of the underlying process. (David Moreau (2026))
 
 ### Claims
 - [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](../claims/rd-individual-estimates-substantial-bias-variation.md) [+W]
 - [When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average](../claims/rd-well-implemented-matches-experimental-estimates.md) [+W]
 - [Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course](../claims/peer-assessment-improves-unit-quiz-achievement.md) [+M]
+- [Brief pre-class exercise selectively enhanced mathematics-specific inhibitory control while domain-general interference control (Flanker) showed no reliable change, per Zhang et al. (2026)](../claims/brief-exercise-selective-math-inhibition-dissociation.md) [+M]
 
 ## Related Research Methods
 -
@@ -60,10 +62,10 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - Duncan D. Chaplin, Thomas D. Cook, Jelena Zurovac, Jared S. Coopersmith, Mariel M. Finucane, Lauren N. Vollmer, Rebecca E. Morris. (2018). The Internal and External Validity of the Regression Discontinuity Design: A Meta-Analysis of 15 Within-Study Comparisons. Journal of Policy Analysis and Management, vol. 37, issue 2. https://www.mathematica.org/publications/the-internal-and-external-validity-of-the-regression-discontinuity-design-a-meta-analysis-of-15
 - Kenneth Fortson, Philip Gleason, Emma Kopa, Natalya Verbitsky-Savitz. (2015). Horseshoes, Hand Grenades, and Treatment Effects? Reassessing Whether Nonexperimental Estimators are Biased. Economics of Education Review, vol. 44. https://www.mathematica.org/publications/horseshoes-hand-grenades-and-treatment-effects-reassessing-whether-nonexperimental-estimators
 - Philip Gleason, Alexandra Resch, Jillian Berk. (2018). RD or Not RD: Using Experimental Studies to Assess the Performance of the Regression Discontinuity Approach. Evaluation Review, vol. 42. https://www.mathematica.org/publications/rd-or-not-rd-using-experimental-studies-to-assess-the-performance-of-the-regression-discontinuity
-
 <!-- merged 2026-10-10 from elements/within-study-comparison-wsc-methodology ("Within-study comparison (WSC) methodology"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Duncan D. Chaplin, Thomas D. Cook, Jelena Zurovac, Jared S. Coopersmith, Mariel M. Finucane, Lauren N. Vollmer, Rebecca E. Morris. (2018). The Internal and External Validity of the Regression Discontinuity Design: A Meta-Analysis of 15 Within-Study Comparisons. Journal of Policy Analysis and Management, vol. 37, issue 2. https://www.mathematica.org/publications/the-internal-and-external-validity-of-the-regression-discontinuity-design-a-meta-analysis-of-15
 - Sun DL, Harris N, Walther G, Baiocchi M (2015) Peer Assessment Enhances Student Learning: The Results of a Matched Randomized Crossover Experiment in a College Statistics Class. PLoS ONE 10(12): e0143177. https://doi.org/10.1371/journal.pone.0143177
+- David Moreau, Kristina Wiebels. (2026). Interventions as Probes of Cognitive Architecture: Commentary on Zhang et al. (2026). Educational Psychology Review. https://doi.org/10.1007/s10648-026-10150-7
 
 # Within-study comparison (WSC) methodology
 

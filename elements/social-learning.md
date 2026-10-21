@@ -13,7 +13,7 @@ generated:
 # Social Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (14 for, 8 mixed) · 20 studies (6 qualitative, 5 quant-synthesis, 4 causal, 2 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 4 of 20 report an effect size · 20 claims rest on one study
+> **Evidence** · 23 claims (14 for, 9 mixed) · 21 studies (6 qualitative, 5 quant-synthesis, 4 causal, 3 review, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 4 of 21 report an effect size · 21 claims rest on one study
 
 ## Description
 Social learning is the element in which interaction with peers, models, or communities is treated as a direct source of learning.
@@ -46,6 +46,7 @@ Social learning is the element in which interaction with peers, models, or commu
 - [Students preferred robot-assisted storytelling and some students treated the robot as a more equal communication partner than the instructor](../claims/students-prefer-and-trust-robot-storytelling-partner.md) [~W]
 - [mCSCL benefits learning achievement, learning attitude, and peer interaction, with the largest effect on achievement](../claims/mcscl-benefits-three-outcome-types.md) [+W]
 - [DLGs help overcome stereotypes and cultural barriers, including prejudices about Roma people, Muslim immigrant women, and learners without basic education](../claims/dlg-overcome-stereotypes-cultural-barriers.md) [+W]
+- [Social presence influences how social interaction unfolds in online group learning, which in turn affects learning outcomes](../claims/social-presence-shapes-online-group-interaction-and-outcomes.md) [~W]
 
 ## The evidence by question
 - *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]

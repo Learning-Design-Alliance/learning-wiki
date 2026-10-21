@@ -48,3 +48,4 @@ Post hoc descriptive analysis of judgment shifts: "22.6% of judgments were found
 - [Pre-monitoring and retrospective confidence judgments are highly consistent, with most agreement at the highest scale level regardless of correctness](pre-monitoring-confidence-judgment-consistency.md) — related
 - [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style](monitoring-lowers-preposition-accuracy.md) — related
 - [Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases](grade4-children-monitor-working-memory-overconfident.md) — related
+- [Monitoring accuracy interventions are more effective for retrospective confidence judgments than for judgments of learning](interventions-more-effective-rcj-than-jol.md) — related

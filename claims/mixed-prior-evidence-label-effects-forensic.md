@@ -49,3 +49,4 @@ Narrative review of prior label-effects research in the article's background and
 - [Victim age (adult vs. child) did not significantly affect public perceptions in this vignette experiment, contrary to prior findings](victim-age-no-effect-perceptions-vignette.md) — related
 - [Counselors exposed to 'sex trafficking' labels reported more victimization-oriented attitudes than counselors exposed to 'prostitute' labels](trafficking-labels-shift-counselor-attitudes-toward-victimization.md) — related
 - [Perception measures of social distance, treatment amenability, perceived recidivism, and sentencing severity are mostly significantly intercorrelated](perception-measures-intercorrelations.md) — related
+- [Label effects are non-significant for attitudes toward the child, attributions of problem causes, and treatment-strategy evaluations](label-effect-null-attitudes-cause-treatment.md) — a narrower finding that bears on this claim

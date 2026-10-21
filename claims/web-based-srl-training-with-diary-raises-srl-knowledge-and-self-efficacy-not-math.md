@@ -104,3 +104,5 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - [Most included studies report a significant positive metacognition–math association, with some null and mixed findings](most-studies-significant-positive-association.md) — related
 - [The intervention did not increase students' SRL aptitude, yet supported higher course grades](regulatory-support-no-increase-srl-aptitude.md) — related
 - [CCCT participation improved prospective teachers' co-regulation situations (g = 0.512)](ccct-improved-co-regulation.md) — related
+- [Reflection prompts combined with tutor feedback had positive effects on the development of students' self-regulated learning competence](reflection-prompts-tutor-feedback-self-regulation.md) — related
+- [Time management interventions show conflicting evidence for raising self-efficacy](time-management-interventions-self-efficacy-mixed.md) — related

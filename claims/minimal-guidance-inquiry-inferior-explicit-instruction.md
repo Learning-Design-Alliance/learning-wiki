@@ -57,3 +57,4 @@ Narrative review section reporting a prior meta-analysis; the review attributes 
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process](minimally-guided-instruction-less-effective-than-strong-guidance.md) — a broader claim this one bears on
 - [Meta-analysis of 164 studies found assisted inquiry more effective than explicit instruction](alfieri-meta-analysis-assisted-inquiry-beats-explicit-instruction.md) — possibly the same claim (merge candidate)
+- [Controlled studies comparing exploration-based investigation with explicit instruction overwhelmingly favor explicit instruction for science content learning](controlled-studies-favor-explicit-instruction-over-inquiry.md) — related

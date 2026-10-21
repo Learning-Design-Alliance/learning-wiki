@@ -70,3 +70,4 @@ Review synthesis of predictive studies (Box 1.1), citing University of Californi
 - [Across the college-going population, course grades are consistently the strongest indicators of students' general academic preparation](grades-strongest-indicator-academic-preparation.md) — related
 - [Demanding excellence for the many rather than the few is questionable, and academic excellence defined as test success is too narrow](excellence-for-all-questionable.md) — related
 - [Standardized test batteries are poor predictors of counselor trainee success](standardized-tests-poor-predictors-trainee-success.md) — related
+- [Social and temporal comparison effects are stronger in studies using grades rather than test scores as achievement indicators](ipd-meta-grades-stronger-social-temporal-effects-than-test-scores.md) — related

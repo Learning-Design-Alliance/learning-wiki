@@ -161,3 +161,6 @@ Multilevel random-effects meta-analysis of 59 studies (238 effect sizes, 158 sam
 - [Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65](interleaving-memory-benefit-meta-analysis.md) — a narrower finding that bears on this claim
 - [Interleaving effects are stronger when material is more similar between categories, less similar within categories, and more complex](similarity-and-complexity-moderate-interleaving.md) — a narrower finding that bears on this claim
 - [Training effects varied by inductive reasoning process: all processes except Cross classification developed significantly, with the largest effects in Recognizing and Differentiating relationships](process-level-training-effects-cross-classification-exception.md) — related
+- [Five null studies with spacing but no rest and dissimilar materials showed neither spacing nor interleaving effects](five-null-studies-support-both-hypotheses.md) — related
+- [All 67 reviewed interleaving studies demonstrated the interleaving effect using very similar interleaved concepts](interleaving-effect-requires-similar-discriminable-materials.md) — a narrower finding that bears on this claim
+- [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — related

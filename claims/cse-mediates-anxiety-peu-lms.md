@@ -46,3 +46,4 @@ Mediation analysis (Baron & Kenny criteria plus Sobel/Goodman test in XLSTAT) on
 - [Computer anxiety negatively affects students' perceived ease of use of a learning management system](computer-anxiety-negative-effect-lms-peu.md) — related
 - [CSE partially mediates anxiety's effect on PEU: the direct ANX–PEU path remains significant but weaker](cse-partial-mediation-anx-peu-weakened.md) — possibly the same claim (merge candidate)
 - [Computer self-efficacy has a strong significant relationship with computer anxiety](cse-strong-relationship-computer-anxiety.md) — related
+- [Students' perceived self-efficacy is positively associated with their reported time management](self-efficacy-positive-association-time-management.md) — related

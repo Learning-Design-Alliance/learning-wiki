@@ -89,3 +89,4 @@ Descriptive three-way cross-tabulation of guidance, feedback timing, and learner
 - [Feedback direction moderates effects: student-to-student feedback is most effective (d = 0.85), teacher-to-student d = 0.47, student-to-teacher d = 0.35](feedback-direction-moderator-student-student-highest.md) — related
 - The pooled association is robust to dependence, baseline-adjustment, risk-of-bias, and effect-size-derivation sensitivity analyses — related
 - [Technology type did not significantly moderate effects on metacognitive outcomes, though generative-AI interventions showed a descriptively larger estimate](technology-type-did-not-moderate-metacognition-effects.md) — related
+- [Under bias-adjusted planning assumptions, approximately 14 independent moderator effect sizes per moderator level are needed for 80% power, and about 60.2% of corpus effect sizes fell below this threshold](moderator-power-14-effect-sizes.md) — related

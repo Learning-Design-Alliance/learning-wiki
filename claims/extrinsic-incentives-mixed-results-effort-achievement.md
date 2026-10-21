@@ -65,3 +65,4 @@ Field experiment reported by the review: Levitt et al. (2012) rewarded improveme
 - [All program types show positive effects when controlling for other influences, with attendance monitoring and incentives, child care, community service, and school restructuring producing the best results](dropout-program-type-effectiveness.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Higher-value intentions are more likely to be offloaded than lower-value ones](value-drives-offloading-selection.md) — related
+- [ManyClasses study found no effect of delayed versus immediate feedback or study incentives across 38 classrooms](manyclasses-no-feedback-timing-incentive-effect.md) — related

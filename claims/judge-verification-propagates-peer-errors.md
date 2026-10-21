@@ -48,3 +48,4 @@ Verification-condition analysis (RQ3, Figure 12): Judge agents anchored feedback
 - [Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers](agent-identifies-confusing-content-actionable-feedback.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Students did not consistently detect scientific errors in ChatGPT responses, and students with stronger prior knowledge evaluated AI responses more critically](prior-knowledge-supports-critical-ai-evaluation.md) — related
+- [Observers of peer models who made and corrected key errors learned to identify and eliminate such errors, whereas observers of expert models missed the error-correction information](peer-model-error-correction-observers.md) — related

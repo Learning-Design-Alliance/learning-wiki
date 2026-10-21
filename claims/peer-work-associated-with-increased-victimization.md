@@ -53,3 +53,4 @@ Element moderator analysis across the coded programs found that "Work with peers
 - [School-based anti-bullying programs reduce bullying perpetration and victimization globally](anti-bullying-programs-reduce-perpetration-and-victimization-globally.md) — reports the opposite
 - [RJ-based responses to bullying may help, but require trained adult facilitators and may leave victims uncomfortable facing bullies](rj-bullying-response-requires-trained-facilitators.md) — related
 - [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](anti-bullying-programs-reduce-bullying-20-23-percent.md) — related
+- [Antibullying attitudes are positively related to disciplining bullies, victim support, parental involvement, and involving peer bystanders](attitudes-positive-active-responses.md) — related

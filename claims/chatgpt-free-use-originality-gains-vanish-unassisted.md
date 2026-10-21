@@ -98,3 +98,4 @@ The paper reports this secondhand, citing Wong and Qiu (2026): university studen
 - [ChatGPT use does not change absolute self-evaluation accuracy, but self-evaluation judgments fail to correlate with performance under ChatGPT assistance](chatgpt-no-accuracy-difference-poor-calibration.md) — related
 - [AI-assisted performance during skill-building does not transfer to subsequent unassisted performance](ai-assisted-performance-no-unassisted-transfer.md) — a broader claim this one bears on
 - [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](genai-possible-benefits-children-creative-thinking.md) — related
+- [Generative AI use shows divergent effects on creativity: weakened creative writing but increased creative problem-solving and idea quality](generative-ai-creativity-divergent-effects.md) — related

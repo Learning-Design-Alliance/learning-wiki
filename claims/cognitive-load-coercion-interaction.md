@@ -49,3 +49,4 @@ Mental-effort self-reports compared between Idiosyncratic and Stringent conditio
 - [The low- and high-coercion versions of NTool did not differ on perceived sociability or social presence](ntool-no-social-aspect-differences.md) — related
 - [Cognitive load when studying depended on instructional method (highest in the worked-out examples condition), but no prior knowledge or test-phase effects emerged](cognitive-load-method-effect-studying.md) — related
 - [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
+- [Collaborative speech features differ under high versus low cognitive load: longer speech pauses and less use of singular pronouns in high-load conditions](speech-features-index-collaborative-cognitive-load.md) — related

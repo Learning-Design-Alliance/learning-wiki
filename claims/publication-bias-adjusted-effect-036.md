@@ -47,3 +47,5 @@ Publication bias assessment using funnel plot inspection and selection modeling 
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
 - [Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample](no-publication-bias-teacher-self-efficacy-meta-analysis.md) — reports the opposite
 - [No publication bias is detected in the collected Covid-19 achievement estimates](covid-meta-analysis-no-publication-bias.md) — related
+- [The bias-adjusted mean moderator effect in STEM education meta-analyses is g = 0.27 with substantial heterogeneity, and the published record shows overwhelming evidence of publication-bias-type selection](bias-adjusted-moderator-effect-stem.md) — related
+- [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — reports the opposite

@@ -51,3 +51,4 @@ Burnout meta-analysis from the same random-effects synthesis of 25 studies; the 
 - [Other-reports of teacher personality are more strongly associated with teacher outcomes than self-reports](other-report-personality-stronger-than-self-report.md) — related
 - Associations between teacher personality and effectiveness vary substantially across studies, justifying moderator analysis — related
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
+- [Teacher ill-being shows a small negative association with student motivation and achievement (r = –.13)](teacher-ill-being-negative-student-outcomes-r13.md) — related

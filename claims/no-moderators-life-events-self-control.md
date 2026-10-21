@@ -49,3 +49,4 @@ Exploratory moderator analyses reported in the Limitations section, with results
 - [The mediated EC-achievement model is not moderated by children's sex, age, or SES](no-moderation-sex-age-ses.md) — related
 - [Negative life events predict rank-order decreases in self-control in early adolescents over time, controlling for baseline self-control and demographics](negative-life-events-predict-self-control-decreases.md) — related
 - [The discipline–self-control association is similar in magnitude across discipline components, gender, age, region, informant, reliability, and research design](discipline-self-control-moderators-null.md) — related
+- [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](limited-demographic-moderators.md) — related

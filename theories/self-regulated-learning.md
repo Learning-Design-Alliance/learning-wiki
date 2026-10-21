@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 193 claims (92 for, 94 mixed, 7 against) · 147 studies (51 associational, 41 causal, 20 review, 14 quant-synthesis, 8 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 36 of 147 report an effect size · 177 claims rest on one study
+> **Evidence** · 195 claims (92 for, 95 mixed, 8 against) · 148 studies (51 associational, 41 causal, 20 review, 15 quant-synthesis, 8 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 36 of 148 report an effect size · 179 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -240,6 +240,8 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Operationalization of variables, setting, and work-relatedness of the CE activity moderate the relationships between SRL strategies and associated factors](../claims/srl-ce-moderators-operationalization-setting-work-relatedness.md) [~W]
 - [Think-aloud protocols reveal that self-regulated reading is dynamic across time, responsive to context, and varies by reading purpose](../claims/think-aloud-reveals-dynamic-self-regulated-reading.md) [+W]
 - [Metacognitive and composite SRL strategy measures show the strongest relationships with learning performance in continuing education](../claims/srl-strategy-type-performance-differences.md) [~W]
+- [Monitoring accuracy interventions are less effective for secondary school students than for elementary students and adults](../claims/monitoring-accuracy-interventions-least-effective-secondary-students.md) [~W]
+- [Timing interventions significantly decrease monitoring accuracy in problem-solving tasks and differ from all other intervention types](../claims/timing-interventions-decrease-monitoring-accuracy-problem-solving.md) [-W]
 
 ## The evidence by question
 

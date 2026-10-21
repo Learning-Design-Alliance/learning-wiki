@@ -47,3 +47,4 @@ Design Principle 5 section, a narrative synthesis, states that "tutoring can be 
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
+- [The review reports that college tutors who espoused a malleable view of intelligence to their tutees improved their own academic performance, with benefits for tutees as well](tutor-espousing-malleable-intelligence-gains.md) — related

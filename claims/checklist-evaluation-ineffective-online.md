@@ -114,3 +114,4 @@ First-term nursing students in 12 lab sections had one 110-minute library sessio
 - [The intervention improved students' sourcing in credibility judgments and in written products relative to controls](sourcing-intervention-improves-credibility-judgments-written-products.md) — related
 - [Gains in source evaluation held regardless of the order in which students took the two assessment forms](gains-robust-to-test-form-order.md) — related
 - [Checklist tool use significantly increases Evaluation processes, an effect not observed in the ChatGPT and human-expert groups](checklist-tools-increase-evaluation-processes.md) — related
+- [High-school students do not spontaneously use contextualization, sourcing, and corroboration heuristics when reading documents](students-not-spontaneously-use-sourcing-heuristics.md) — related

@@ -60,3 +60,4 @@ The review attributes this to Kalyuga et al. (2000), experiments on using indust
 - [Reviews report that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners: Kalyuga et al. (2003) cite Kalyuga et al. (1998) and Yeung et al. (1998), and Ginns (2006) cites Kalyuga et al. (1998)](expertise-reversal-split-attention-redundancy-review.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](modality-effect-within-subjects-d073.md) — related
+- [Transient information effect: lengthy spoken text can reverse the modality effect, while shorter spoken text restores the conventional modality advantage](transient-information-effect-reverse-modality-length.md) — related

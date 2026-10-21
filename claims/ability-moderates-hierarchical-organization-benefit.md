@@ -78,3 +78,4 @@ Experiment 3 correlational observation: the two subjects whose retrieval paths c
 - [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](self-questioning-benefits-low-verbal-ability-more.md) — related
 - [Treatment x verbal ability interaction replicated only after excluding the high-variance middle ability group (Experiment 2)](treatment-ability-interaction-middle-group-excluded.md) — related
 - [Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not Levels 1 and 4](proficiency-moderates-gloss-vocabulary-effects.md) — related
+- [Test-taker abilities and prior knowledge show inconsistent moderating effects on multimedia testing effects](test-taker-abilities-inconsistent-moderators.md) — reports the opposite

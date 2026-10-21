@@ -65,3 +65,4 @@ The review reports Chen et al. (2017) found from PISA 2015 data that "the highes
 - [Guided inquiry was positively associated with science achievement in all 16 PISA 2015 regions where it was applied](guided-inquiry-positive-all-regions.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
+- [Student-led inquiry-based investigation is identified as the least effective instructional element in PISA 2015 analyses](student-led-inquiry-least-effective-instructional-element.md) — related

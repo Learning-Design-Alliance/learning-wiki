@@ -56,3 +56,4 @@ Same PLS-SEM path analysis (Table 6). MOV was the strongest direct predictor of 
 - [Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior](hedonic-motivation-habit-strongest-intention-predictors.md) — related
 - [Reflective AI use predicts programming self-efficacy and engagement, while PSE does not predict engagement (survey SEM)](ru-predicts-pse-and-engagement-pse-null.md) — related
 - [Teachers' self-efficacy for SRL promotion, but not their attainment value, is positively related to their self-reported SRL promotion when both are modelled simultaneously](teacher-self-efficacy-predicts-srl-promotion.md) — related
+- [College students' attributions of motivation problems to lack of value and interest strongly predict lower intention to take additional classes in the field](value-interest-attributions-predict-attrition-intention.md) — related

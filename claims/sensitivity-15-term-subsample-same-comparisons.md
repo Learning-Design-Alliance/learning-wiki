@@ -49,3 +49,4 @@ Sensitivity check addressing student attrition: the restricted subsample had sli
 - [Pooled effect sizes for deployment on mental health are robust across components of methodological quality in sensitivity analyses](deployment-meta-analysis-robust-sensitivity.md) — a broader claim this one bears on
 - [The dashboard's cohort view restricts results to students who consistently tested across selected terms, and those outcomes may be positively biased](cohort-view-consistent-testers-positive-bias.md) — related
 - [The dashboard's cross-sectional view compares same-grade students across terms using the full sample of testers, but attrition is not random](cross-sectional-view-full-sample-attrition-caveat.md) — related
+- [The intervention effects on mathematics are robust across model specifications and did not differ between RCT and COVID-affected implementation contexts](math-effects-robust-across-rct-and-covid-contexts.md) — related

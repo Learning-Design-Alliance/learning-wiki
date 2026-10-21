@@ -49,3 +49,4 @@ Robust variance random-effects meta-analysis pooling reduced-efficacy–achievem
 - [Cynicism is significantly negatively related to academic achievement (rc+ = −.24)](cynicism-negative-achievement.md)
 - [Total academic burnout is significantly negatively related to academic achievement (rc+ = −.24)](total-burnout-negative-achievement-meta-analysis.md)
 - [Hardiness shows its strongest burnout correlation with reduced academic accomplishment, while AI-assisted learning is not correlated with emotional exhaustion](correlation-pattern-hardiness-raa-strongest.md) — related
+- [Teacher ill-being shows a small negative association with student motivation and achievement (r = –.13)](teacher-ill-being-negative-student-outcomes-r13.md) — related

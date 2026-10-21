@@ -56,3 +56,4 @@ This is a self-report interview study of one national population (Finnish academ
 - [Teachers' visions most often broadened through wider action strategies, futures thinking, and methodological variety](broadening-markers-teacher-ai-visions.md) — related
 - [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) — related
 - [Immersion in IBL improves student teachers' self-reported understanding of the interpretative nature of historical research](ibl-immersion-improves-understanding-historical-inquiry.md) — related
+- [High-school students do not spontaneously use contextualization, sourcing, and corroboration heuristics when reading documents](students-not-spontaneously-use-sourcing-heuristics.md) — related

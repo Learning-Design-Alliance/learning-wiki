@@ -72,3 +72,4 @@ Descriptive analysis of the structured reflection instrument (Table 4): AI impro
 - [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — related
 - [ChatGPT-assisted students reported substantially lower ownership of their submitted code across self-attributed ownership, psychological ownership, and authorship attribution](chatgpt-lower-code-ownership.md) — related
 - [Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection](minority-health-students-genai-reflective-writing.md) — a narrower finding that bears on this claim
+- [AI ghostwriter effect: users do not claim ownership of AI-generated texts yet fail to publicly acknowledge the AI's contribution](ai-ghostwriter-effect-nonacknowledgment.md) — reports the opposite

@@ -53,3 +53,4 @@ The introduction's summary of the Tu, Danish, Humburg, Zhou, Mathayas, Enyedy, a
 - [Embodied GenAI agents in mixed reality raised engagement and lowered cognitive load for 26 post-secondary learners during collaborative problem-solving](embodied-mr-agents-engagement-cognitive-load-26-learners.md) — related
 - [Persistence of inscriptions in the VMT environment supported students explaining postings and establishing collaborative activity](persistence-affordance-supports-collaborative-explanation.md) — related
 - [Children aged 6–8 combining augmented reality with socio-dramatic play make significant progress toward explicit physics discourse](augmented-reality-play-physics-trajectory-young-children.md) — related
+- [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](gestures-material-scaffolding-collaboration.md) — related

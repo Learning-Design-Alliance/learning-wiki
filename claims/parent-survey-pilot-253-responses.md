@@ -51,3 +51,4 @@ Field pilot of the parent survey conducted May-June 2015 by data-collection team
 - [Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool](aptt-spring-multilingual-parents-felt-more-connected.md) — related
 - [Parents who attended APTT meetings, and multilingual-home parents, agreed more strongly that APTT and the preschool helped them prepare their child for kindergarten](aptt-attendance-linked-parent-readiness-capacity-agreement.md) — related
 - [The Early Education Essentials is reliable across multiple ECE settings](early-education-essentials-reliable-multiple-settings.md) — related
+- [Most school-based intensive longitudinal studies collect data digitally (65.3%), and paper-and-pencil use has decreased significantly since 2020](ilm-digital-data-collection-majority.md) — related

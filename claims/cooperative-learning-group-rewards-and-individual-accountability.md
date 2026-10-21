@@ -161,3 +161,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [In one reviewed study, students who first collaborate and then complete an activity individually in the VRL are more successful than students who complete an individual task first and then collaborate](collaborate-first-then-individual-more-successful-vrl.md) — related
 - [A game-based collaboration script with assigned in-game roles shifted elementary students' attitudes towards collaboration](game-script-shifted-collaboration-attitudes.md) — related
 - [Individual rewards yield significant mCSCL effects while group reward methods do not](mcscl-individual-rewards-significant.md) — related
+- [Successful groups respond more appropriately to proposals and maintain joint attention better than less successful groups, and their members outperform on individual mastery and transfer tests](successful-groups-engaged-responses-joint-attention.md) — related

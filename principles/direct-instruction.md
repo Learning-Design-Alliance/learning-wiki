@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (14 for, 15 mixed, 4 against) · 38 studies (12 causal, 12 quant-synthesis, 6 review, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 8 of 38 report an effect size · 25 claims rest on one study
+> **Evidence** · 34 claims (14 for, 16 mixed, 4 against) · 39 studies (12 causal, 12 quant-synthesis, 6 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 8 of 39 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -118,6 +118,7 @@ Immediate procedural performance, conceptual understanding, transfer, delayed re
 - [Prior studies reviewed show exploratory learning outperformed proceduralized instruction for training performance and transfer](../claims/prior-evidence-exploratory-beats-proceduralized.md) [-W]
 - [Instructional approaches that include inquiry learning are more effective than direct instruction for acquiring conceptual knowledge, per the review's synthesis of meta-analyses](../claims/inquiry-more-effective-than-direct-conceptual-knowledge.md) [-W]
 - [Explicit teaching of the control-of-variables strategy shows no advantage over not explicitly teaching it, per the Schwichow et al. meta-analysis cited in the review](../claims/cvs-explicit-teaching-no-advantage.md) [-W]
+- [Sequencing of exploration and explicit instruction shows inconsistent results, moderated by task complexity per the expertise reversal account](../claims/exploration-first-versus-instruction-first-sequencing-mixed.md) [~W]
 
 ## Related Principles
 - [Modeling](modeling.md) — direct instruction depends on visible demonstration, not verbal explanation alone

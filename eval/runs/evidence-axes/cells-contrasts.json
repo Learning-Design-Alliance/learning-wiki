@@ -36818,5 +36818,209 @@
  "media-design\twritten lecture material\tspoken or video lecture material": {
   "label": "written vs spoken or video",
   "treatment_is_a": true
+ },
+ "?\tmodel including propensity and classroom factors\tunspecified comparison model": {
+  "label": "adjusted model vs unspecified comparison model",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative learning on cognitively challenging tasks\tindividual learning": {
+  "label": "collaborative learning vs individual learning",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tfront-loaded hard examples (hard example mining)\tsimple-to-complex sequencing": {
+  "label": "hard-to-easy vs easy-to-hard",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect explicit instruction\texploration-based investigations": {
+  "label": "explicit instruction vs exploration-based investigation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texploration followed by direct instruction that specifically explains the solutions\texploration followed by instruction that does not specifically and directly explain the solutions": {
+  "label": "direct explanation of solutions vs no direct explanation of solutions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texploration-based investigation\tdirect explicit instruction": {
+  "label": "explicit instruction vs exploration-based investigation",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\texploration-based investigation instruction\tdirect explicit instruction": {
+  "label": "explicit instruction vs exploration-based investigation",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tinquiry-based, exploration-type investigations\tother instructional approaches": {
+  "label": "inquiry-based exploration vs other instructional approaches",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinquiry-based, exploration-type investigations\tother teaching approaches": {
+  "label": "inquiry-based exploration vs other instructional approaches",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tparticipation in the Kids as Global Scientists inquiry program\tstudents’ pre-program performance": {
+  "label": "inquiry-program participation vs pre-program performance",
+  "treatment_is_a": true
+ },
+ "feedback-presence\texternal-standard support\tno external-standard support": {
+  "label": "external-standard support vs no external-standard support",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tdelayed feedback\timmediate feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tRLHF using human evaluators’ preference judgments\tprinciple-level generalization without reliance on rater-specific compliance": {
+  "label": "human-preference feedback vs principle-based feedback",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved paintings from different artists\tpaintings from the same artist interleaved with easily discriminated cartoons": {
+  "label": "interleaving similar items vs interleaving dissimilar items",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved practice of different concepts or skills\tblocked practice": {
+  "label": "interleaved vs blocked practice",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved retrieval practice\tblocked retrieval practice": {
+  "label": "interleaved vs blocked retrieval practice",
+  "treatment_is_a": true
+ },
+ "media-design\tanimation\tstatic picture": {
+  "label": "animation vs static picture",
+  "treatment_is_a": true
+ },
+ "media-design\tdecorative pictures\tother item content": {
+  "label": "decorative pictures vs other item content",
+  "treatment_is_a": true
+ },
+ "media-design\tdecorative pictures\ttext-only items": {
+  "label": "decorative pictures with text vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\tdecorative pictures with text\ttext-only": {
+  "label": "decorative pictures with text vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\tdecorative pictures with text\ttext-only items": {
+  "label": "decorative pictures with text vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\tdynamic visual design\tstatic visual design": {
+  "label": "dynamic visual design vs static visual design",
+  "treatment_is_a": true
+ },
+ "media-design\tinformational pictures\ttext-only items": {
+  "label": "informational pictures vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\tinformational pictures on complex items\tother picture types on complex items": {
+  "label": "informational pictures vs other picture types on complex items",
+  "treatment_is_a": true
+ },
+ "media-design\tinformational pictures on easy items\tother picture types on easy items": {
+  "label": "informational pictures vs other picture types on easy items",
+  "treatment_is_a": true
+ },
+ "media-design\tinformational pictures with text\ttext-only items": {
+  "label": "informational pictures with text vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\torganizational pictures\ttext-only items": {
+  "label": "organizational pictures vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\torganizational pictures with text\ttext-only items": {
+  "label": "organizational pictures with text vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\trepresentational pictures\ttext-only items": {
+  "label": "representational pictures vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\trepresentational pictures in test items\ttext-only test items": {
+  "label": "representational pictures vs text-only test items",
+  "treatment_is_a": true
+ },
+ "media-design\trepresentational pictures with text\ttext-only items": {
+  "label": "representational pictures with text vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\tsingle-modality presentation\tdual-modality presentation": {
+  "label": "dual-modality presentation vs single-modality presentation",
+  "treatment_is_a": false
+ },
+ "media-design\ttext items with representational pictures\ttext-only items": {
+  "label": "representational pictures with text vs text-only items",
+  "treatment_is_a": true
+ },
+ "media-design\twritten information eliminated from diagrams\twritten information integrated with diagrams": {
+  "label": "written information integrated with diagrams vs written information eliminated from diagrams",
+  "treatment_is_a": false
+ },
+ "prompts\treflection prompts combined with tutor feedback\tnot stated": {
+  "label": "Reflection prompts with tutor feedback vs no reflection prompts or tutor feedback",
+  "treatment_is_a": true
+ },
+ "prompts\tutility-value intervention\tstudents without the intervention": {
+  "label": "Utility-value prompts vs no utility-value prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\ttesting or retrieval practice\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tstudy incentive\tno study incentive": {
+  "label": "study incentive vs no study incentive",
+  "treatment_is_a": true
+ },
+ "spacing\tcontracting spaced practice\texpanding spaced practice": {
+  "label": "expanding vs contracting",
+  "treatment_is_a": false
+ },
+ "spacing\tcontracting spaced practice\tuniform spaced practice": {
+  "label": "uniform vs contracting",
+  "treatment_is_a": false
+ },
+ "spacing\texpanding spaced practice\tcontracting spaced practice": {
+  "label": "expanding vs contracting",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced practice\tmassed practice": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced practice embedded in a course\tmassed practice": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced practice embedded in a course\tmassed practice embedded in a course": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced practice over 3 days\tmassed practice in 1 day": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced practice with rest-from-deliberate-learning\tmassed practice without rest-from-deliberate-learning": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tspacing between different concepts or skills\tmassed practice": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tuniform spaced practice\tcontracting spaced practice": {
+  "label": "uniform vs contracting",
+  "treatment_is_a": true
+ },
+ "worked-examples\tphysically integrated geometry or kinematics worked examples\tworked examples with split attention": {
+  "label": "physically integrated worked examples vs split-attention worked examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tproblem solving\tstudying worked examples": {
+  "label": "studying worked examples vs problem solving",
+  "treatment_is_a": false
+ },
+ "worked-examples\tstudying worked examples\tsolving equivalent problems": {
+  "label": "studying worked examples vs solving equivalent problems",
+  "treatment_is_a": true
  }
 }

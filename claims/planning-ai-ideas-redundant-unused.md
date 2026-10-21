@@ -49,3 +49,4 @@ Thematic analysis of optional free-response survey answers (87% of participants 
 - [Students reported text supports structured, iterative planning while some valued voice for getting initial ideas out](modality-shapes-planning-and-idea-generation.md) — related
 - Evaluators attribute substantially less ownership to writers who used GenAI ideas, but impose only a marginal profit-sharing penalty — related
 - [Synchronous collaboration with an artificial agent amplifies contextual misalignment because the agent only sees ongoing output, not the writer's planning process](synchronous-ai-contextual-misalignment.md) — related
+- [AI ghostwriter effect: users do not claim ownership of AI-generated texts yet fail to publicly acknowledge the AI's contribution](ai-ghostwriter-effect-nonacknowledgment.md) — related

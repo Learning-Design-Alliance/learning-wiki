@@ -54,3 +54,4 @@ This evidence supports considering a longer gap when planning delayed recall and
 - [Distributed Practice Improves Retention](spaced-practice-improves-retention.md)
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md)
 - [High school students taught with self-study followed by discussion achieved higher immediate retention and near-transfer scores than those taught with lecture followed by discussion](self-study-discussion-immediate-retention-transfer-high-school.md) — related
+- [Chen et al. (2018): spaced practice superiority was associated with increased availability of working memory resources](chen-2018-spaced-superiority-associated-with-wm-recovery.md) — related

@@ -47,7 +47,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (13 for, 17 mixed) · 16 studies (7 causal, 3 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 16 report an effect size · 27 claims rest on one study
+> **Evidence** · 33 claims (14 for, 19 mixed) · 18 studies (7 causal, 4 review, 3 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 18 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,9 @@ The expectation should weaken if comparisons with comparable learners find no ad
 
 - [Interleaving benefits low-skilled students more than high-skilled students when learning math problem categories](../claims/interleaving-benefit-low-skilled-students.md) [~W]
 - [The discriminative-contrast hypothesis treats spacing and interleaving as distinct effects, with interleaving benefits more likely for similar than dissimilar interleaved tasks](../claims/discriminative-contrast-distinct-effects.md) [~W]
+- [All 67 reviewed interleaving studies demonstrated the interleaving effect using very similar interleaved concepts](../claims/interleaving-effect-requires-similar-discriminable-materials.md) [~W]
+- [Interleaving is more effective for materials with a low degree of discriminability](../claims/interleaving-effectiveness-low-discriminability.md) [~W]
+- [Interleaved practice outperformed blocked practice across eight STEM classrooms](../claims/interleaving-beats-blocking-across-stem-classes.md) [+W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

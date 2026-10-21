@@ -54,6 +54,7 @@ The theory's most distinctive claim is about designer cognition: designers predi
 - A course visibly built around PowerPoint slide templates and video-hosting conventions (media-centric) versus one built by first mapping the domain's own concept/rule/task structure and only then choosing media to represent it (model-centric)
 - Revising a course's video platform (a representation/media-logic change) without needing to rewrite its underlying strategy or content structure — evidence of well-articulated layers
 - [Disclose to learners what changes (visual presentation) and what does not (question content, scoring, time allowed)](../strategies/disclose-visual-presentation-not-content-scoring-time.md)
+- [Ensure learners master lower task layers before allowing AI automation of those components](../strategies/master-lower-layers-before-ai-automation.md)
 
 ## Key Sources
 - Gibbons, A. S. (2018). What and how do designers design? A theory of design structure and layers. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/what_and_how_do_designers_design](https://edtechbooks.org/lidtfoundations/what_and_how_do_designers_design) (originally published as Gibbons, A. S. (2003). *TechTrends, 47*(5), 22–25.)

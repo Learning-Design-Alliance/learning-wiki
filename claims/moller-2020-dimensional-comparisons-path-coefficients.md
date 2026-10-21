@@ -48,3 +48,4 @@ The review reports, citing Möller et al. (2020), a meta-analysis on dimensional
 ## Related Claims
 - [Performance-avoidance goals negatively predict both self-concept and self-efficacy across all three grade levels](performance-avoidance-goals-negative-self-beliefs.md) — related
 - [Domain knowledge predicts science achievement directly and indirectly via self-concept at all three grade levels](knowledge-predicts-achievement-via-self-concept.md) — related
+- [Within-subject achievement effects in the classic I/E model confound social and dimensional comparisons; using the math–verbal achievement difference as predictor isolates each comparison type](ie-within-subject-paths-confound-social-and-dimensional-comparisons.md) — related

@@ -69,3 +69,4 @@ Meta-analytic review of testing versus restudy (159 effect sizes from 61 studies
 - [The effect of retrieval practice format on reading comprehension does not differ significantly between an immediate and a three-week-delayed final test](retrieval-format-by-retention-interval-interaction-not-significant.md) — related
 - [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](testing-effect-robust-versus-restudy-control.md) — related
+- [Retrieval interval length may moderate the testing effect in mathematics: restricting to intervals over one day raises the effect to g = 0.378 (exploratory).](retrieval-interval-moderator-testing-mathematics.md) — related

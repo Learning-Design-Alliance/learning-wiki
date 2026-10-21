@@ -71,3 +71,4 @@ The authors warn, citing Rosenthal & Jacobson (1968), of "a risk of creating a s
 - [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](teacher-expectation-effects-on-achievement.md) — a narrower finding that bears on this claim
 - [Standard ML models predicting student pass/fail from VLE data exhibit biased true-positive rates across demographic subgroups](baseline-ml-models-biased-tpr-oulad.md) — related
 - [Even with skill-based qualifications, LLM team assignment remains gender-biased: when two teams are equally valid, models favor Core Development for male personas over Interface Design](llm-team-formation-gender-bias-skill-based.md) — related
+- [Teacher expectancy effects: seeded expectations led treated students to outperform peers (as reported by the review)](teacher-expectancy-self-fulfilling-prophecy.md) — related

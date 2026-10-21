@@ -72,3 +72,4 @@ Null results for two rubric dimensions in the same historical-cohort comparison:
 - [Creative Inquiry course produced a significant increase in participants' creative self-efficacy](creative-inquiry-course-creative-self-efficacy-increase.md) — related
 - [Gen-AI's effect on HOT is strongest for problem-solving ability (g = 0.745), followed by critical thinking (g = 0.691), with a smaller effect on creativity (g = 0.444)](genai-hot-dimension-effect-sizes.md) — reports the opposite
 - [GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity](gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity.md) — reports the opposite
+- [Generative AI use shows divergent effects on creativity: weakened creative writing but increased creative problem-solving and idea quality](generative-ai-creativity-divergent-effects.md) — a broader claim this one bears on

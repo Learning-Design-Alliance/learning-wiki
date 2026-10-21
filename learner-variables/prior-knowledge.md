@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 146 claims (86 show a difference, 43 mixed, 17 no difference) · 114 studies (35 causal, 23 review, 16 theoretical, 15 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 114 report an effect size · 131 claims rest on one study
+> **Evidence** · 148 claims (88 show a difference, 43 mixed, 17 no difference) · 116 studies (35 causal, 24 review, 17 theoretical, 15 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 116 report an effect size · 133 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -194,6 +194,8 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Prior knowledge moderates non-interactive teaching: low conceptual knowledge learners profit more, but very low-knowledge learners may not benefit at all](../claims/prior-knowledge-moderates-noninteractive-teaching.md) [~M] — an instructional effect differs with it
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](../claims/worked-example-effect-element-interactivity-explanation.md) [+M] — an instructional effect differs with it
 - [Adaptive scaffolding combined with adaptable task progression is descriptively most effective for high prior knowledge learners but not for low prior knowledge learners](../claims/adaptive-scaffolding-adaptable-progression-high-prior-knowledge.md) [+M] — an instructional effect differs with it
+- [Design guidelines beneficial for novice learners can be ineffective or even detrimental when applied to experts (expertise reversal)](../claims/expertise-reversal-interactivity-guidelines.md) [+W] — an instructional effect differs with it
+- [Element interactivity and expertise reversal effects: cognitive load effects diminish and may reverse as expertise increases because known elements chunk into single elements](../claims/expertise-reversal-effect-element-interactivity.md) [+W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

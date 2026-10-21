@@ -77,3 +77,6 @@ The same follow-up study found "non-Asian racial and ethnic minority students re
 - [Prior proportional reasoning knowledge predicts later probabilistic knowledge even after controlling for prior probability knowledge](proportional-reasoning-predicts-probability-learning.md) — a narrower finding that bears on this claim
 - [Middle school mathematics teachers frame low persistence in i-Ready Math as an interaction among motivational, cognitive, and contextual factors, with four recurring themes](teachers-frame-low-persistence-four-themes.md) — related
 - [Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor](belonging-task-relevance-mindset-predict-self-efficacy.md) — related
+- [Sense of belonging to mathematics is positively related to algebraic thinking in reviewed studies](belonging-mathematics-positive-algebra.md) — a broader claim this one bears on
+- [Few algebra studies examine mathematical and motivational/socioemotional propensities in tandem](few-algebra-studies-integrate-propensities.md) — related
+- [Mathematics self-efficacy is the most commonly studied motivational propensity and is usually positively related to algebraic thinking](math-self-efficacy-positive-algebra.md) — related

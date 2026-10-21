@@ -52,3 +52,4 @@ Second macro-transformation reported in Section 4.2 from the observational analy
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — related
 - [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](learners-selectively-filter-ai-feedback-agency.md) — related
 - [Humanizer sites deploy mystification through opaque algorithm references, scale claims, and unexplained success-rate claims](humanizer-mystification-success-rate-claims.md) — related
+- [AI ghostwriter effect: users do not claim ownership of AI-generated texts yet fail to publicly acknowledge the AI's contribution](ai-ghostwriter-effect-nonacknowledgment.md) — related

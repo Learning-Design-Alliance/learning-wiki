@@ -66,3 +66,4 @@ Repeated measures ANOVA on self-efficacy in the same quasi-experiment. "the tuto
 - [DBT-based video tutorials significantly improve procedural knowledge for software tasks from pre-test to practice and post-tests](dbt-video-tutorials-improve-procedural-knowledge.md) — related
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
 - [Procedural knowledge gained during video training declines significantly from practice to the post-tests](practice-to-posttest-decline-software-video.md) — related
+- [Training and interventions improve teachers' cognitive appraisal (d = 0.63), emotional appraisal (d = 0.63), and self-efficacy toward inclusive practices (d = 0.93)](inclusion-training-improves-teacher-beliefs.md) — related

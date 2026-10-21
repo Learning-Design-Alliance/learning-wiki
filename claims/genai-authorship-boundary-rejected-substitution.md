@@ -56,3 +56,5 @@ RQ2 thematic analysis found ethical acceptability framed around whether GenAI us
 - [Hybridization of authorship blends human and AI-generated content, often without learners' explicit awareness of the boundary, normalizing formulaic rhetorical structures](hybridization-of-authorship-argumentation.md) — related
 - Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators — related
 - [Judgement-bearing assistance is the central analytic pivot: delegating evaluation of quality and correctness is normatively more demanding than instrumental assistance](judgement-bearing-assistance-central-pivot.md) — related
+- [RLHF rapidly shapes model outputs toward rater-endorsed norms, improving surface compliance while leaving principle-level generalization unresolved](rlhf-surface-compliance-gap.md) — related
+- [Students and educators disagree on the acceptability of unacknowledged generative AI use across academic writing subtasks](student-educator-ai-acceptability-gaps.md) — related

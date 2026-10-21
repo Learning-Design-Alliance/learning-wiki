@@ -72,3 +72,4 @@ Pre-policy bottom panel of Table 3. The article links this pattern to a frog pon
 - [Classroom peer skill levels explain about 20% of post-policy test score improvements among above-norm algebra students in Chicago](above-norm-score-gains-peer-ability-spillover.md) — related
 - [Average test scores are higher when classes are sorted by skill, driven by large learning gains for high-skilled students and slightly lower scores for low-skilled students](sorting-raises-test-scores-via-high-skill-gains.md) — related
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related
+- [Quality of explanations is higher in groups containing above-average students than in groups without them](group-expertise-raises-explanation-quality.md) — related

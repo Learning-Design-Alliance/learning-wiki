@@ -46,3 +46,4 @@ In the same PLS-SEM structural model of the 398-student survey, learner engageme
 - [Learning motivation and perceived social presence are both positively associated with learner engagement in agentic AI-supported online learning](motivation-social-presence-boost-engagement-agentic-ai.md) — related
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related
 - [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](affordances-positive-social-presence-agentic-ai.md) — related
+- [Social presence influences how social interaction unfolds in online group learning, which in turn affects learning outcomes](social-presence-shapes-online-group-interaction-and-outcomes.md) — related

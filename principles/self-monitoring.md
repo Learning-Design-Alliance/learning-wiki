@@ -30,7 +30,7 @@ sources:
 # Self-monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (7 for, 11 mixed, 3 against) · 27 studies (10 causal, 7 quant-synthesis, 4 review, 3 associational, 3 theoretical), `q1`–`q4` · 5 of 27 report an effect size · 12 claims rest on one study
+> **Evidence** · 25 claims (9 for, 13 mixed, 3 against) · 28 studies (10 causal, 8 quant-synthesis, 4 review, 3 associational, 3 theoretical), `q1`–`q4` · 6 of 28 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,7 @@ None of these measures whether a self-monitoring habit persists after prompts ar
 
 - [Fluent Illusions Mislead Self Assessment](../claims/fluent-illusions-mislead-self-assessment.md) [-M]: carries the same two evidence entries ([Carpenter et al. 2013](https://doi.org/10.3758/s13423-013-0442-z); [Rhodes & Castel 2008](https://doi.org/10.1037/a0013684)) as [Judgments of learning are often inaccurate](../claims/fluent-illusions-mislead-self-assessment.md) [-M], which is cited in the model above; a likely duplicate. Its own entries do not support the "misdirects further study" half of its title.
 - [Providing grade estimates after each exam improved secondary students' calibration accuracy over a school year, regardless of the level of reflection support](../claims/grade-estimates-improve-calibration-secondary.md) [+W] — attached 2026-10-19 from Nederhand et al. (2020), which proposed "Ask students for grade estimates after each exam as an easy-to-implement way to improve calibration accuracy in secondary education"; tests this page's relationship.
+- [Whole-task, metacognitive knowledge, and external standard interventions significantly improve monitoring accuracy in problem solving](../claims/whole-task-metacognitive-knowledge-external-standard-interventions-improve-monitoring-accuracy.md) [+W] — attached 2026-10-21 from Noortje Janssen · Ard W. Lazonder (2024), which proposed "For problem-solving tasks, use whole-task, metacognitive knowledge, or external standard interventions and avoid timing interventions".
 
 ## Objective and learner-valued goal
 
@@ -151,6 +152,9 @@ Accuracy of judgement, on-task behaviour, immediate task performance, delayed re
 - [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](../claims/gender-difference-monitoring-judgments-health-math.md) [~W]
 - [After self-scoring, the monitoring-accuracy gap between low- and high-performing students remains on multiplication (small) but disappears on division](../claims/unskilled-unaware-monitoring-after-self-scoring.md) [~W]
 - [Explicit metacognition has severely limited access to underlying cognitive processes, and metacognitive reports can be inaccurate](../claims/explicit-metacognition-limited-access-inaccurate-reports.md) [-W]
+- [Monitoring accuracy interventions are less effective for secondary school students than for elementary students and adults](../claims/monitoring-accuracy-interventions-least-effective-secondary-students.md) [~W]
+- [Interventions to improve monitoring accuracy in problem-solving tasks have a small positive overall effect (g = 0.25)](../claims/monitoring-accuracy-interventions-small-positive-effect-problem-solving.md) [+W]
+- [Monitoring accuracy interventions show larger effects in laboratory settings than in classroom settings, but classroom effects remain significantly positive](../claims/laboratory-larger-effects-than-classroom-monitoring-accuracy-interventions.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — monitoring depends on having a target worth tracking.

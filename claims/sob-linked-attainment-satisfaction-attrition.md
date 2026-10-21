@@ -52,3 +52,4 @@ The article's opening review statement reports that in campus-based learning, So
 - [A welcoming campus racial climate fosters African American students' sense of belonging and intent to continue enrollment in mostly White schools](welcoming-climate-belonging-enrollment-intent.md) — related
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related
 - [Student engagement in online courses is associated with satisfaction, motivation, reduced isolation, and improved performance](engagement-benefits-satisfaction-motivation-isolation-performance.md) — related
+- [The review argues that ignoring the social side of school carries costs including reified achievement gaps, diminished belonging and dropout, and unsafe school climates](costs-of-ignoring-social-side-of-school.md) — related

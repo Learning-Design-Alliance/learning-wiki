@@ -49,3 +49,4 @@ Robust variance random-effects meta-analysis pooling exhaustion–achievement co
 - [Total academic burnout is significantly negatively related to academic achievement (rc+ = −.24)](total-burnout-negative-achievement-meta-analysis.md)
 - [Gender, achievement-measure objectivity, and education stage did not moderate the burnout–achievement relationship](no-moderation-gender-objectivity-stage.md)
 - [Hardiness shows its strongest burnout correlation with reduced academic accomplishment, while AI-assisted learning is not correlated with emotional exhaustion](correlation-pattern-hardiness-raa-strongest.md) — related
+- [Teacher ill-being shows a small negative association with student motivation and achievement (r = –.13)](teacher-ill-being-negative-student-outcomes-r13.md) — related

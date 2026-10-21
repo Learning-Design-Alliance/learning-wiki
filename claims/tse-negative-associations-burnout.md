@@ -47,3 +47,4 @@ Synthesis of 165 eligible articles on teacher self-efficacy via a criteria-based
 - The review identifies gaps in the measurement and analysis of TSE in the educational literature — related
 - [Principal burnout is negatively related to job satisfaction and self-efficacy and co-occurs with stress](burnout-correlates-satisfaction-efficacy-stress.md) — related
 - [Teacher self-efficacy shows positive links with students' academic adjustment](tse-positive-links-student-academic-adjustment.md) — related
+- [Teacher ill-being shows a small negative association with student motivation and achievement (r = –.13)](teacher-ill-being-negative-student-outcomes-r13.md) — related

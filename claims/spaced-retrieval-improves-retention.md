@@ -140,3 +140,5 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [Recent research identifies time intervals during which spaced study should occur to maximize memory retention](optimal-spacing-intervals-maximize-retention.md) — related
 - [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — related
 - [The retrieval benefit occurs at the level of individual items, not through general practice at retrieval](retrieval-benefit-item-level.md) — a narrower finding that bears on this claim
+- [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](expanding-uniform-spacing-retention-interval-moderator.md) — reports the opposite
+- [Spaced practice produces a robust small-to-medium retention advantage over massed practice for mathematics learning overall (g = 0.26).](spacing-effect-mathematics-overall-meta-analysis.md) — related

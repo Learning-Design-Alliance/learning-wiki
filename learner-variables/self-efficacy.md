@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 124 claims (96 show a difference, 16 mixed, 12 no difference) · 107 studies (41 associational, 21 causal, 15 review, 14 qualitative, 8 design, 5 theoretical, 3 quant-synthesis), `q1`–`q4` · 19 of 107 report an effect size · 120 claims rest on one study
+> **Evidence** · 126 claims (98 show a difference, 16 mixed, 12 no difference) · 109 studies (41 associational, 21 causal, 15 review, 14 qualitative, 8 design, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 21 of 109 report an effect size · 122 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -155,6 +155,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Pedagogical agents significantly improve learners' self-efficacy expectations (g = 0.29), with effects moderated by grade level, facial expressions, and reliability reporting](../claims/pa-improve-self-efficacy-expectations.md) [+M] — instruction changes it
 - [Self-efficacy is moderately related to academic achievement but is more a product of past performance than a driver of future performance](../claims/self-efficacy-achievement-and-past-performance.md) [+M] — learners who differ on it differ in outcomes
 - [In Study 1, differences in self-efficacy between the three conditions did not reach significance](../claims/chattutor-self-efficacy-null-study1.md) [-M] — instruction changes it
+- [Education-focused parenting self-efficacy correlates more strongly with home-school partnership outcomes than general parenting self-efficacy](../claims/education-focused-pse-stronger-than-general.md) [+W] — learners who differ on it differ in outcomes
+- [Training and interventions improve teachers' cognitive appraisal (d = 0.63), emotional appraisal (d = 0.63), and self-efficacy toward inclusive practices (d = 0.93)](../claims/inclusion-training-improves-teacher-beliefs.md) [+M] — instruction changes it
 
 ## The evidence by question
 

@@ -51,3 +51,4 @@ RQ2 theme on protecting learning and critical thinking: the analysis reports tha
 - [Students raised ethical concerns about GenAI-assisted data comic creation, most frequently misinformation, bias, ownership, and reduced trustworthiness](student-ethical-concerns-genai-data-comics.md) — related
 - [Students express profound confusion about whether GenAI-assisted coursework is original work and whether they can claim authorship](student-confusion-genai-originality-authorship.md) — a narrower finding that bears on this claim
 - Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators — a narrower finding that bears on this claim
+- [Students and educators disagree on the acceptability of unacknowledged generative AI use across academic writing subtasks](student-educator-ai-acceptability-gaps.md) — a narrower finding that bears on this claim

@@ -57,3 +57,4 @@ The article reports, citing Doshi and Hauser, that generative AI assistance "sig
 - [Single-LLM writing assistance increased idea-level homogenization across writers, while a role-specialized duo of architecturally distinct LLMs preserved baseline diversity](role-specialized-duo-preserves-idea-diversity.md) — a narrower finding that bears on this claim
 - [Groups outperform individuals when devising creative solutions to real-world complex problems](groups-outperform-individuals-complex-problem-creativity.md) — related
 - [Students perceive GenAI-assisted translation as challenged by inadequate outputs, limited prompt engineering, and risks to creativity and employment](genai-translation-challenges-adequacy-prompting.md) — related
+- [Generative AI use shows divergent effects on creativity: weakened creative writing but increased creative problem-solving and idea quality](generative-ai-creativity-divergent-effects.md) — related

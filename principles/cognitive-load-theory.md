@@ -32,7 +32,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (21 for, 34 mixed, 1 against) · 53 studies (25 causal, 12 review, 9 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 12 of 53 report an effect size · 45 claims rest on one study
+> **Evidence** · 58 claims (21 for, 36 mixed, 1 against) · 55 studies (25 causal, 12 review, 11 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 12 of 55 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,8 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 ## Claims
 
 - [Element interactivity can be estimated by counting interacting elements, illustrated with about 28 elements for solving a/b = c and about 25 for a composite geometry area problem](../claims/counting-interacting-elements-examples.md) [+W]
+- [Sequencing of exploration and explicit instruction shows inconsistent results, moderated by task complexity per the expertise reversal account](../claims/exploration-first-versus-instruction-first-sequencing-mixed.md) [~W]
+- [The worked example effect failed to replicate for geometry and kinematics problems, and was reinstated when worked examples were restructured to reduce split attention](../claims/worked-example-effect-split-attention-replication-history.md) [~W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md)
