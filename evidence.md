@@ -6,7 +6,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **6,118 distinct studies** behind 22,960 claims. What they add up to (the sections below have the detail):
+The wiki holds **6,118 distinct studies** behind 22,949 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 30% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 58% are quasi-experiments, observational studies or narrative reviews, and 12% are case studies, opinion or theory.
 - **Few print an effect size.** 1,412 of 6,118 studies (23%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
@@ -21,10 +21,10 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 22,960 |
-| Evidence entries | 27,427 |
+| Claims | 22,949 |
+| Evidence entries | 27,413 |
 | Distinct studies | 6,118 |
-| Claims resting on one study | 22,442 (98%) |
+| Claims resting on one study | 22,431 (98%) |
 | Claims with no coded evidence | 0 |
 | Studies reporting an effect size | 1,412 of 6,118 (23%) |
 
@@ -46,7 +46,7 @@ These figures describe two things at once: what education research has produced,
 |---|---|---|---|
 | 759 (12%) | 3,542 (58%) | 1,682 (27%) | 135 (2%) |
 
-**Studies per claim:** 0: 0, 1: 22,442, 2: 436, 3: 66, 4 or more: 16.
+**Studies per claim:** 0: 0, 1: 22,431, 2: 436, 3: 66, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -67,7 +67,6 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Dominguez, X., Rood, E., Kamdar, D., Leones, T., & Huynh, K. (2021). Splash and Bubbles for Parents App: …](claims/app-child-initiated-science-conversations-higher.md) | q2 | 14 | 14 |
 | [Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make …](claims/achievement-focused-mission-charter-impacts.md) | q2 | 13 | 13 |
 | [Crompton, H., Burke, D., Nickel, C., Bozkurt, A., Miao, F., Sharples, M., Greene, J. A., Parsons, D., …](claims/academic-integrity-paramount-genai-policy-concern.md) | q2 | 13 | 13 |
-| [Keselman, H.J., Huberty, C.J., Lix, L.M., Olejnik, S., Cribbie, R.A., Donahue, B., Kowalchuk, R.K., Lowman, …](claims/anova-f-overwhelmingly-favored-despite-nonrobustness.md) | q2 | 12 | 12 |
 | [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Too Good for Drugs …](claims/tgfdv-intentions-null-results.md) | q3 | 12 | 12 |
 | [Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' …](claims/annotating-improves-learning.md) | q2 | 12 | 8 |
 | [Karen E. Smith and Seth D. Pollak. (2020). Early life stress and development: potential mechanisms for …](claims/abused-children-anger-sensitivity.md) | q2 | 12 | 12 |
@@ -76,6 +75,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Merging Cognitive Science and Curriculum to Strengthen Middle School Math. (2014). WestEd R&D Alert, Vol. 15, …](claims/decorative-images-distract-from-math-problems.md) | q2 | 11 | 11 |
 | [Bjork, R. A., & Yue, C. L. (2016). Commentary: Is disfluency desirable? Metacognition Learning, 11, 133–137. …](claims/disfluency-benefits-do-not-replicate.md) | q3 | 11 | 11 |
 | [Clark Douglas B., Tanner-Smith Emily E., Killingsworth Stephen S. (2016). Digital Games, Design, and …](claims/camera-perspective-moderator-games.md) | q3 | 11 | 11 |
+| [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
 
 ## Citation load against evidence base
 

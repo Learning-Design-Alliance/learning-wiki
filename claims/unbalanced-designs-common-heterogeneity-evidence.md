@@ -62,5 +62,5 @@ Assessment of variance heterogeneity across 86 dependent variables in one-way de
 
 
 ## Related Claims
-- [The conventional ANOVA F test is overwhelmingly favored by educational researchers despite its sensitivity to variance heterogeneity, particularly with unequal group sizes](anova-f-overwhelmingly-favored-despite-nonrobustness.md) — related
-- [Educational researchers rarely examine the validity assumptions of their ANOVA-type analyses, with under 20% of reviewed articles mentioning assumption violations](researchers-rarely-verify-anova-assumptions.md) — related
+- The conventional ANOVA F test is overwhelmingly favored by educational researchers despite its sensitivity to variance heterogeneity, particularly with unequal group sizes — related
+- Educational researchers rarely examine the validity assumptions of their ANOVA-type analyses, with under 20% of reviewed articles mentioning assumption violations — related

@@ -23,7 +23,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (17 for, 8 mixed) · 25 studies (9 quant-synthesis, 6 causal, 6 review, 4 theoretical), `q1`–`q4` · 6 of 25 report an effect size · 24 claims rest on one study
+> **Evidence** · 23 claims (15 for, 8 mixed) · 24 studies (9 quant-synthesis, 6 causal, 5 review, 4 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,8 +133,8 @@ None of these claims measures what a reader does differently with an effect size
 - [Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04](../claims/achievement-measure-moderator-lab-exclusion.md) [+M]: a growth-mindset meta-analysis's sensitivity analysis; a correlational outcome, so it bears on the measure question only indirectly.
 - For within-subjects designs, the author recommends reporting Cohen's d_rm or Cohen's d_av rather than Cohen's dz [+W] — attached 2026-10-16 from Lakens (2013), which proposed "Always report effect sizes, specify the standardizer used, report generalized eta squared for ANOVAs, and interpret effect sizes rather than relying on Cohen's benchmarks".
 - [Cohen's small, medium, and large effect size benchmarks are arbitrary and should not be interpreted rigidly](../claims/cohen-benchmarks-arbitrary.md) [+W] — attached 2026-10-16 from Lakens (2013), which proposed "Always report effect sizes, specify the standardizer used, report generalized eta squared for ANOVAs, and interpret effect sizes rather than relying on Cohen's benchmarks".
-- [Effect size indices are almost never reported in published educational research using ANOVA, MANOVA, or repeated-measures analyses](../claims/effect-sizes-rarely-reported-educational-research.md) [+W] — attached 2026-10-20 from Keselman et al. (1998), which proposed "Use robust test procedures, focused hypothesis tests, and routine effect size reporting when analyzing between-subjects designs".
-- [Effect size indices and power analyses are rarely reported in educational research across all four design paradigms](../claims/effect-sizes-and-power-rarely-reported.md) [+W] — attached 2026-10-21 from Keselman et al. (1998), which proposed "Adopt robust statistical test procedures and routinely report effect sizes when analyzing group differences".
+- Effect size indices are almost never reported in published educational research using ANOVA, MANOVA, or repeated-measures analyses [+W] — attached 2026-10-20 from Keselman et al. (1998), which proposed "Use robust test procedures, focused hypothesis tests, and routine effect size reporting when analyzing between-subjects designs".
+- Effect size indices and power analyses are rarely reported in educational research across all four design paradigms [+W] — attached 2026-10-21 from Keselman et al. (1998), which proposed "Adopt robust statistical test procedures and routinely report effect sizes when analyzing group differences".
 
 ## Objective and learner-valued goal
 
