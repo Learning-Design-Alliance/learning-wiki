@@ -18,7 +18,7 @@ sources:
 # Provide positive comments alongside constructive criticism when responding to student writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (5 for, 11 mixed, 5 against) · 23 studies (6 causal, 6 review, 4 quant-synthesis, 3 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 23 report an effect size · 16 claims rest on one study
+> **Evidence** · 21 claims (5 for, 11 mixed, 5 against) · 24 studies (7 review, 6 causal, 4 quant-synthesis, 3 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 24 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 

@@ -17,7 +17,7 @@ sources:
 # Four-level feedback framework (task, processing, self-regulation, self-as-person) for supporting group learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 2 review), `q2`–`q4` · 3 of 4 report an effect size
 
 ## Description
 The primer's appendix presents Hattie and Timperley's (2007) four levels of feedback: about the task, about the processes involved in the task, about self-regulation, and about the self as a person. "Of the four levels, feedback about 'self as a person' is the least effective for helping further learning, as it contains no information related to the task." Feedback about self-regulation can help learners create their own internal feedback routines, and the primer recommends combining the first three levels for increased positive impact.

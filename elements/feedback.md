@@ -6,14 +6,14 @@ description: Learners receive input from instructors or peers to refine their wo
 canonical: true
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-29
+  by: claude/unspecified
+  at: 2026-10-21
 ---
 
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 176 claims (81 for, 82 mixed, 13 against) · 132 studies (49 causal, 23 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 7 theoretical), `q1`–`q4` · 34 of 132 report an effect size · 155 claims rest on one study
+> **Evidence** · 177 claims (81 for, 82 mixed, 14 against) · 134 studies (49 causal, 25 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 7 theoretical), `q1`–`q4` · 35 of 134 report an effect size · 155 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -233,9 +233,11 @@ Feedback is among the most powerful influences on learning, but its effects are 
 ### What should the feedback say?
 - **Default:** tell the learner what was right or wrong and how to improve on the task or the process, not just a score, a reward or praise. Across 435 education studies feedback averaged d = 0.48, rising with information content: reinforcement or punishment d = 0.24, corrective feedback d = 0.46, high-information feedback d = 0.99 — [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [+S], [Feedback Most Effective At Task And Process Levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 - **Changes when:** the feedback turns attention to the learner rather than the task → expect it to help less or to hurt; more than a third of 607 feedback interventions lowered performance, and effectiveness fell as feedback moved toward the self — [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [-S]
+- **Changes when:** the comment judges the person, discourages, or threatens self-esteem → expect little or harm; in Kluger and DeNisi's moderator data as Hattie and Timperley tabulate it, praise averaged 0.09 against 0.34 without it, feedback designed to discourage −0.14, and feedback under much threat to self-esteem 0.08 against 0.47. Whether feedback is positive or negative mattered less than whether it was about the person or the work, so the main lever is aiming comments at the work and what to do next, more than making their tone warmer — [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](../claims/feedback-levels-task-process-self-regulation-effective.md) [-M]
+- **Changes when:** the learner has low self-efficacy → negative feedback is more likely to bring negative affect, less motivation on the next task and attributions to ability, by a review's account of earlier studies with no effect size; one more reason to aim criticism at the work and pair it with a next step — [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](../claims/feedback-levels-task-process-self-regulation-effective.md) [~W]
 - **Changes when:** the feedback is praise for ability ("you must be smart") → children praised this way did worse after a later failure than children praised for effort; the harm is moderated by age and gender and is specific to person- or ability-directed praise — [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](../claims/feedback-praise-reduces-learning.md) [-M]
 - **Tested with:** school and university learners across subjects (Wisniewski et al., 435 studies); laboratory and workplace tasks as well as education (Kluger & DeNisi); fifth graders for the praise experiments.
-- **Not settled:** the claims cannot separate task, process and self-regulation levels (the 2020 meta-analysis coded information content, not levels), and no claim here tests whether giving learners a required revision step after feedback changes its effect, although the page's Requirements assume it.
+- **Not settled:** the claims cannot separate task, process and self-regulation levels (the 2020 meta-analysis coded information content, not levels, and the four-level ranking is a review's argument resting on between-study moderator contrasts), and no claim here tests whether giving learners a required revision step after feedback changes its effect, although the page's Requirements assume it.
 
 ### Which responses should get feedback?
 - **Default:** make sure errors are corrected; supplying the correct answer after a wrong retrieval raised one-week retention by 494% in a word-pair experiment, while feedback after correct answers made little difference even when learners were unsure — [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+S]
