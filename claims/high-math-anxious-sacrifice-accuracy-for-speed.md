@@ -46,3 +46,4 @@ The review reports, citing Faust, Ashcraft, & Fleck (1996), that "high-math-anxi
 - [Math anxiety's negative impact on math achievement is limited to more difficult math, emerging around late elementary school content](math-anxiety-impact-limited-to-difficult-math.md) — related
 - [Design studies found that timing adults' oral reading led them to sacrifice accuracy for speed, motivating untimed repeated reading practice in the curriculum](timed-reading-adults-sacrifice-accuracy.md) — related
 - [Higher prior proficiency is associated with faster step-level response-time propensities](higher-proficiency-faster-step-responses.md) — related
+- [Cognitive efficiency motives lead perceivers to sacrifice accuracy in person perception](cognitive-efficiency-sacrifices-accuracy.md) — related

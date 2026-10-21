@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 79 claims (54 show a difference, 18 mixed, 7 no difference) · 57 studies (16 causal, 14 associational, 9 review, 9 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 10 of 57 report an effect size · 76 claims rest on one study
+> **Evidence** · 80 claims (55 show a difference, 18 mixed, 7 no difference) · 58 studies (16 causal, 14 associational, 10 review, 9 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 10 of 58 report an effect size · 77 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -114,6 +114,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Emotional factors show inconsistent associations with gifted underachievement, depending on the aspect of emotion measured](../claims/emotion-findings-inconsistent-gifted-underachievement.md) [~M] — learners who differ on it differ in outcomes
 - [In a piloted virtual reality WIL, most students reported improved crisis-problem-solving understanding and high enjoyment](../claims/vr-wil-crisis-pilot-outcomes.md) [+M] — instruction changes it
 - [Online environments build adolescent competence through pride in achievements, social confidence, and creative confidence](../claims/online-competence-pride-confidence-creativity.md) [+M] — learners who differ on it differ in outcomes
+- [Representational pictures enhance test-taker enjoyment, response certainty, and reduce rapid-guessing behaviour](../claims/representational-pictures-affective-metacognitive-benefits.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

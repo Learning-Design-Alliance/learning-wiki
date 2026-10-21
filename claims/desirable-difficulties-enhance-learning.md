@@ -158,3 +158,4 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65](interleaving-memory-benefit-meta-analysis.md) — related
 - Some participants used external memory aids such as notes or web sources during practice, and Experiment 2 analyses were checked excluding these participants. — related
 - [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — related
+- [Interleaved practice outperformed blocked practice across eight STEM classrooms](interleaving-beats-blocking-across-stem-classes.md) — related

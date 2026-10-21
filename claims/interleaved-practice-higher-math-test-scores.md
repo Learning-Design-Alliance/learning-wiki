@@ -55,3 +55,4 @@ Classroom experiment with 126 seventh-graders practicing the same graph and slop
 - [Interleaving is especially useful for inductive, subtle pattern learning without a clear verbal rule, but can equal or exceed blocking in rule-based domains too](interleaving-rule-based-learning-boundary.md) — related
 - [Interleaved practice improves delayed posttest performance compared with blocked practice](interleaved-practice-improves-posttest-performance.md) — a broader claim this one bears on
 - [Interleaving benefits low-skilled students more than high-skilled students when learning math problem categories](interleaving-benefit-low-skilled-students.md) — related
+- [Interleaved practice outperformed blocked practice across eight STEM classrooms](interleaving-beats-blocking-across-stem-classes.md) — possibly the same claim (merge candidate)

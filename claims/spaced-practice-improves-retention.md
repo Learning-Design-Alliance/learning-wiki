@@ -347,3 +347,5 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [A rehearsal-based deficient-processing account cannot explain the developmental emergence of the spacing effect](rehearsal-account-inconsistent-with-developmental-spacing-pattern.md) — a narrower finding that bears on this claim
 - [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](retrieval-practice-enhances-learning-applied-settings.md) — related
 - [Eight-day review improved a five-week science test versus one-day review in a simulated university classroom](eight-day-review-improves-five-week-science-test-versus-one-day-review.md) — related
+- [Chen et al. (2018): spaced practice superiority was associated with increased availability of working memory resources](chen-2018-spaced-superiority-associated-with-wm-recovery.md) — a narrower finding that bears on this claim
+- [Spaced practice produces a robust small-to-medium retention advantage over massed practice for mathematics learning overall (g = 0.26).](spacing-effect-mathematics-overall-meta-analysis.md) — related

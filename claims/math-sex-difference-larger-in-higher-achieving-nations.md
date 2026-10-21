@@ -69,3 +69,4 @@ Figure 4 and Table 4 analysis of non-OECD countries, where mathematics sex diffe
 - [Girls scored lower than boys on fifth grade Numerical Operations, with the gap smaller in earlier grades, but no sex difference in fifth grade word reading](sex-difference-fifth-grade-numerical-operations.md) — related
 - [The learning benefit of mathematics test practice is larger for boys than for girls](math-practice-effect-larger-for-boys.md) — related
 - [No statistically significant sex differences in the direct associations among EF, task orientation, and mathematics or in the mediating effect of task orientation](no-sex-differences-ef-task-orientation-math-pathways.md) — related
+- [Sex differences in mathematics tend to be somewhat larger in more gender-equal countries (GGGI coefficient B = 0.921, p = .051), controlling for region](gender-equality-paradox-mathematics-meta-analysis.md) — related

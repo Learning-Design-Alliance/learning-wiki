@@ -49,3 +49,4 @@ The article reports, as prior work rather than its own analysis, that previous r
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — a broader claim this one bears on
 - [Country differences in reported levels of use of instructional practices were highly consistent across TIMSS waves (ClassListen r = .70; ClassDaily r = .91)](country-practice-levels-consistent-across-waves.md) — related
 - [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](disengagement-material-individual-summative-scores-minor-aggregations.md) — related
+- [Correlational studies using large international datasets find negative associations between inquiry-based investigation involvement and science achievement](correlational-studies-negative-inquiry-achievement-association.md) — related

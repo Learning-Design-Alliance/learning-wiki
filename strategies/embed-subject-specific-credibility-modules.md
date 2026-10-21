@@ -52,6 +52,7 @@ The authors recommend that "curriculum developers could create subject-specific 
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
 - [Embed AIL across disciplines by adding modules to existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars](embed-ail-modules-and-interdisciplinary-seminars.md)
+- [Infuse social psychological concepts into existing pre-service courses and professional development rather than new standalone courses](infuse-social-psychology-teacher-education.md)
 
 ## Examples
 -

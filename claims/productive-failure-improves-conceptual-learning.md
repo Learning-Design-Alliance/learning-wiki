@@ -228,3 +228,4 @@ The article reports a randomized-controlled experiment comparing problem solving
 - [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) — a narrower finding that bears on this claim
 - [In PS-I, prompting students to generate multiple strategies during the initial phase generally outperformed inventing one strategy or I-PS](multiple-strategies-prompt-outperformed-other-conditions.md) — related
 - [Well-controlled comparison studies show clear advantages of inquiry-based instruction over direct instruction for science conceptual learning](controlled-studies-advantage-guided-inquiry-over-direct-instruction.md) — related
+- [Sequencing of exploration and explicit instruction shows inconsistent results, moderated by task complexity per the expertise reversal account](exploration-first-versus-instruction-first-sequencing-mixed.md) — related

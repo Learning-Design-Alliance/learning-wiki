@@ -43,7 +43,8 @@ The authors close by agreeing that further work is required: "whether rest and i
 
 
 ## Related Strategies
-- 
+
+- [Future research direction: verify the proposed resting effect, whereby spacing benefits may arise from working memory recovery after depletion](resting-effect-working-memory-recovery-research-direction.md)
 
 ## Examples
 -

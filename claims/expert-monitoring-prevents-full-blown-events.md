@@ -48,3 +48,4 @@ The editorial reports, citing Wolff et al. (this issue), that novices are distra
 - [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](knowledge-driven-vs-image-driven-classroom-perception.md) — related
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Novices and experts committed similar total error numbers but different error types in computer work](novice-expert-error-type-differences.md) — related
+- [Observers of peer models who made and corrected key errors learned to identify and eliminate such errors, whereas observers of expert models missed the error-correction information](peer-model-error-correction-observers.md) — related

@@ -51,3 +51,4 @@ Stated as the digest's opening premise: the deficit perception "has too often le
 - [Teachers underrefer culturally and linguistically diverse students for gifted identification](teacher-underreferral-diverse-gifted.md) — related
 - [In the Montebello blended science-language program, sentence frames limited student responses and teachers raised their expectations of English learners](montebello-program-teacher-insights.md) — reports the opposite
 - [Moll and Greenberg found that Mexican American students judged cognitively deficient in school performed complex cognitive tasks in their home communities, attributing the deficit judgment to culture-laden evaluative mediation](moll-greenberg-culture-laden-evaluative-mediation.md) — a narrower finding that bears on this claim
+- [Teacher expectancy effects: seeded expectations led treated students to outperform peers (as reported by the review)](teacher-expectancy-self-fulfilling-prophecy.md) — related

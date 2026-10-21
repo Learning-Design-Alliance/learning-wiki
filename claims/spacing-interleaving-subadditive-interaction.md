@@ -90,3 +90,4 @@ Planned comparison within the blocked condition of the same experiment showed sp
 - [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — related
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — related
 - [The discriminative-contrast hypothesis treats spacing and interleaving as distinct effects, with interleaving benefits more likely for similar than dissimilar interleaved tasks](discriminative-contrast-distinct-effects.md) — related
+- [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — related

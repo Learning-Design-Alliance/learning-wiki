@@ -50,7 +50,7 @@ sources:
 # Segmenting Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (10 for, 14 mixed) · 19 studies (5 causal, 5 quant-synthesis, 5 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 19 report an effect size · 20 claims rest on one study
+> **Evidence** · 26 claims (12 for, 14 mixed) · 20 studies (6 review, 5 causal, 5 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,11 @@ The designer's objective is usually understanding of how a process works, retain
 ## What would revise this model?
 
 The expectation should weaken if comparisons with comparable learners and material, holding content equal, find no retention or transfer advantage for segments placed at conceptual breaks, or if the advantage seen on immediate tests disappears at a delay. The prior-knowledge qualification should be revised once a study crosses prior knowledge with both retention and transfer outcomes in one design. A study that varies segment length, or that compares segments with and without a prompt at each break, would replace the untested dose in the default design.
+
+## Claims
+
+- [A tracing strategy combining segmentation and prediction produced more efficient learning than a non-interactive instructional condition](../claims/tracing-strategy-segmentation-prediction-efficiency.md) [+W]
+- [Learner-controlled pacing of a video model was heavily used and associated with better understanding of underlying processes and less practice time, especially as task difficulty increased](../claims/pacing-control-video-model-understanding.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

@@ -47,6 +47,7 @@ The article recommends that techniques for reducing the link between math anxiet
 
 - [Reducing Test Anxiety](reducing-test-anxiety.md)
 - [Reduce math anxiety in children with DD by improving math achievement early through targeted interventions](early-achievement-interventions-reduce-math-anxiety-dd.md)
+- [Design interventions that address mathematical and motivational/socioemotional dimensions concurrently](concurrent-math-motivation-algebra-interventions.md)
 
 ## Examples
 -

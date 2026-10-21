@@ -71,3 +71,4 @@ The same material-type moderator analysis found a blocking advantage for word ma
 - [Interleaving benefits low-skilled students more than high-skilled students when learning math problem categories](interleaving-benefit-low-skilled-students.md) — related
 - [Interleaving is most useful when differences between items are subtle; blocking can be preferable when category members are diverse](interleaving-similarity-boundary-condition.md) — related
 - [The discriminative-contrast hypothesis treats spacing and interleaving as distinct effects, with interleaving benefits more likely for similar than dissimilar interleaved tasks](discriminative-contrast-distinct-effects.md) — related
+- [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — related

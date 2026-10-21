@@ -52,3 +52,4 @@ Narrative synthesis of working memory span studies. Sana et al. (2017) found the
 - [Working memory capacity is a robust indicator of success or failure in language learning](wm-capacity-predicts-language-learning-success.md) — related
 - [Working memory capacity moderated disfluency effects in one study but not another](wmc-moderates-disfluency-mixed.md) — related
 - [Interleaving benefits low-skilled students more than high-skilled students when learning math problem categories](interleaving-benefit-low-skilled-students.md) — related
+- [Interleaved practice outperformed blocked practice across eight STEM classrooms](interleaving-beats-blocking-across-stem-classes.md) — related

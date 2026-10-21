@@ -75,3 +75,4 @@ Main-effect t-tests of gender on pretest and posttest scores; both non-significa
 - [Pre-experimental knowledge and education level relate to specific knowledge categories](prior-knowledge-education-relate-knowledge-categories.md) — related
 - [No significant gender differences in CTAT performance within either educational pathway](no-gender-differences-ctat-performance.md) — related
 - [No significant gender differences on anxiety or reading measures at either time point](no-gender-differences-anxiety-reading-measures.md) — related
+- [Sex differences in mathematics vary by content domain, with male advantages for geometry (d = 0.218), broad mathematics (d = 0.145), computation (d = 0.089), and national tests (d = 0.068), but near-zero differences for advanced mathematics and basic numeracy](content-domain-moderation-sex-differences-mathematics.md) — related

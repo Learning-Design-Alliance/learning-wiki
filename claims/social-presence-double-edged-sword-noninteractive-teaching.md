@@ -48,3 +48,4 @@ Table 1 entry for Hoogerheide, Renkl, et al. (2020), Experiment 1 with universit
 - [Students' domain-specific self-concept moderates non-interactive teaching: low self-concept students profit, high self-concept students do not](self-concept-moderates-noninteractive-teaching.md) — related
 - [Eliciting confidence ratings impairs rule-based category learning compared to both no-rating and judgment-of-learning conditions on ambiguous transfer items](confidence-ratings-impair-rule-learning.md) — related
 - [The low- and high-coercion versions of NTool did not differ on perceived sociability or social presence](ntool-no-social-aspect-differences.md) — related
+- [Non-interactive teaching was not generally more effective than restudy, but was more effective in humanities, upper secondary education, and when graded](non-interactive-teaching-not-generally-more-effective-moderated.md) — related

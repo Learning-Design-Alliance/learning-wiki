@@ -47,3 +47,4 @@ Structural equation modeling of the hypothesized model fitted to 421 effective s
 - [Six relationships in the model differ for less effective self-regulators, including performance-avoidance goals being unrelated to metacognition](model-differences-less-effective-self-regulators.md) — related
 - [Performance-approach goals are directly related to the use of surface cognitive and resource management strategies in effective self-regulators](performance-approach-goals-surface-resource-strategies.md) — related
 - [Most motivational and self-regulation measures did not differ by competitive preference, though overall interest in educational psychology declined over the semester](no-competitiveness-differences-motivation-measures.md) — related
+- [Mastery-approach goals are positively related to time management, while performance-approach relations are inconsistent and performance-avoidance goals show no association](mastery-approach-goals-time-management.md) — related

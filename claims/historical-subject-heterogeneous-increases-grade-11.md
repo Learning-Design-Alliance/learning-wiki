@@ -52,3 +52,4 @@ Comparative analysis of semistructured interview narratives from 18 8th graders 
 - Identification is statistically unrelated to the other three narrative characteristics — related
 - [Historical-method inquiry tasks center on uniformitarianism and taxonomy construction, and evaluating independent lines of inquiry for convergence is entirely absent](historical-method-uniformitarianism-dominates.md) — related
 - [Identification with the historical subject ('us') does not change across grades](identification-us-constant-across-grades.md) — related
+- [Students tend to explain historical events from an intentionalist, personalistic point of view](students-personalistic-historical-explanations.md) — related

@@ -46,3 +46,4 @@ Meta-analysis of 128 effect sizes from 36 studies (39 samples) using inverse-var
 - [Outcome type significantly moderates the FSR–outcome association, with persistence showing stronger correlations than achievement](outcome-type-moderator-fsr-association.md) — related
 - [FSRs correlate positively but weakly with GPA (r = .17) and course grades (r = .16)](fsr-weak-correlation-gpa-grades.md) — related
 - [FSRs correlate more strongly with persistence (r = .33) than with achievement outcomes in postsecondary settings](fsr-strongest-correlation-persistence.md) — related
+- [Teacher well-being shows a small positive association with student motivation and achievement (r = .18) across 186 articles](teacher-well-being-positive-student-outcomes-r18.md) — related

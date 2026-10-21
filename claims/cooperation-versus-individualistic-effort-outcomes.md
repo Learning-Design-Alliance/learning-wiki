@@ -58,3 +58,4 @@ The project report's rationale section asserts this as established by research o
 - [Instructional practices aligned to the Belonging MDP were associated with significant declines in students' perceptions that science required too much effort or threatened self-esteem](belonging-mdp-reduces-effort-and-threat-perceptions.md) — related
 - [The LI(A)RA project produced competitive, scholarly, and educational outcomes that validated the framework's practices](liara-outcomes-validate-framework.md) — related
 - [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](cooperative-concept-mapping-better-than-individual.md) — a narrower finding that bears on this claim
+- [The review reports that jigsaw classrooms produced gains in self-esteem, interpersonal attraction, empathy, and minority academic achievement without cost to majority students](jigsaw-classroom-benefits-reported.md) — related

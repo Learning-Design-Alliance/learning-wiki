@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (33 for, 24 mixed, 1 against) · 40 studies (22 causal, 9 quant-synthesis, 8 review, 1 theoretical), `q1`–`q4` · 12 of 40 report an effect size · 51 claims rest on one study
+> **Evidence** · 61 claims (34 for, 26 mixed, 1 against) · 41 studies (22 causal, 9 quant-synthesis, 9 review, 1 theoretical), `q1`–`q4` · 12 of 41 report an effect size · 54 claims rest on one study
 
 ## Description
 
@@ -168,6 +168,8 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](../claims/podcast-design-barriers-pauses-voice-monotony.md) [+W] — read 2026-10-15: learners' views of podcast design (pauses, voice); does not bear on spacing
 - [Podcast gains extend beyond recall to higher-order application and analysis items at both centres](../claims/podcast-gains-higher-order-domains.md) [+W] — read 2026-10-15: immediate gains on higher-order items, no spacing contrast
 - [Topic-wise gains were heterogeneous, with some topics showing no meaningful change](../claims/podcast-topic-wise-gain-heterogeneity.md) [~W] — read 2026-10-15: gains varied by topic; no spacing contrast
+- [All 48 reviewed spacing studies obtained the spacing effect using rest-from-deliberate-learning periods](../claims/spacing-effect-requires-rest-from-deliberate-learning.md) [+W] — attached 2026-10-21 from Ouhao Chen et al. (2021), which proposed "Use spaced instruction when learners need mental rest and interleaved instruction when learners must discriminate between similar areas"; tests this page's relationship.
+- [Five null studies with spacing but no rest and dissimilar materials showed neither spacing nor interleaving effects](../claims/five-null-studies-support-both-hypotheses.md) [~W] — attached 2026-10-21 from Ouhao Chen et al. (2021), which proposed "Use spaced instruction when learners need mental rest and interleaved instruction when learners must discriminate between similar areas"; tests this page's relationship.
 
 ## Source verification and open tests
 
@@ -456,6 +458,10 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 ## Key Sources
 - Joshi U, Sarkar A, Shukla A, Shrimali S, Bezbaruah NK, B Sanjay Kini, Baisil S, Sheth Z, Bhargava P, Shah S. (2026). Ears for examinations: a multicentre quasi-experimental evaluation of AI-generated revision podcasts on learning outcomes and retention among medical students. BMC Medical Education. https://doi.org/10.1186/s12909-026-10080-6
 -->
+
+## Claims
+
+- [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](../claims/expanding-uniform-spacing-retention-interval-moderator.md) [~W]
 
 ## Key Sources
 

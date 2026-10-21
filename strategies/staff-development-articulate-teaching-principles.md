@@ -43,6 +43,7 @@ The article recommends that university teachers articulate their theories and be
 - [Support the evolving instructor role with professional development beyond product training, articulated role expectations, and communities of practice](instructor-role-evolution-support.md)
 - [Know Your Own Perspectives](know_your_own_perspectives.md)
 - [I Used To Think Now I Think](i-used-to-think-now-i-think.md)
+- [Design teacher training on inclusive education to combine belief reflection with practical experience in inclusive classrooms](inclusion-training-reflection-with-practical-experience.md)
 
 ## Examples
 -

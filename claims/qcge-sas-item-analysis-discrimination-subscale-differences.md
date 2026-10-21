@@ -68,3 +68,4 @@ Same item analysis of the full item set reported in the Results section: discrim
 - [Most subscale reliabilities of the task-specific questionnaire were moderate to low (three of four subscales with 16 students, all four with 190), despite acceptable full-instrument reliability](task-specific-questionnaire-low-subscale-reliabilities.md) — related
 - [Behavioural, cognitive and conceptual-to-consequential subscales of the QCGE-SAS show acceptable reliability, while the social engagement subscale shows unacceptable internal consistency](qcge-sas-social-subscale-unacceptable-reliability.md) — related
 - [CTT item selection dropped five low-discrimination items, retaining 20 items of moderate difficulty](glat-item-selection-discrimination.md) — related
+- [The social presence subscale of the CoI survey instrument shows inconsistent dimensionality across validation studies](coi-survey-social-presence-subscale-dimensionality-inconsistent.md) — related

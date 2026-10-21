@@ -64,3 +64,4 @@ Systematic literature review (PRISMA framework) synthesizing recent studies of A
 - [Control-group students framed sustainability as an external obligation and held techno-optimistic views of AI centered on efficiency with little ethical reflection](control-external-obligation-techno-optimism.md) — related
 - [The study examined the genAI agent's influence on team discussion and outcomes and the influence of faculty facilitators on acceptance of the agent](genai-influence-discussion-facilitator-acceptance.md) — related
 - [Students recognised both the benefits and limitations of GenAI, demonstrating ethical awareness and critical evaluation of its role in academic work](students-recognise-genai-benefits-and-limitations.md) — related
+- [RLHF rapidly shapes model outputs toward rater-endorsed norms, improving surface compliance while leaving principle-level generalization unresolved](rlhf-surface-compliance-gap.md) — related

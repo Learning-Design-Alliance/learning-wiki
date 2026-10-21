@@ -49,3 +49,4 @@ Heterogeneity observation from the multilevel meta-analysis of 694 effect sizes 
 - [Effects of game-based learning in STEM education vary substantially across studies, with prediction intervals spanning trivial-to-negative through very strong effects](games-stem-substantial-heterogeneity-prediction-intervals.md) — related
 - [Technology-supported educational interventions are associated with higher metacognitive outcomes on average (g = 0.653), with substantial between-study heterogeneity](technology-interventions-positive-pooled-metacognition-effect.md) — related
 - [Substantial unexplained heterogeneity characterises short-term effects of targeted K-6 interventions](substantial-heterogeneity-short-term-effects.md) — related
+- [Label-effect sizes are highly heterogeneous, with variance split between and within studies](label-effect-heterogeneity-multilevel-variance.md) — related

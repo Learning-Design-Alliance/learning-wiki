@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 177 claims (81 for, 82 mixed, 14 against) · 134 studies (49 causal, 25 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 7 theoretical), `q1`–`q4` · 35 of 134 report an effect size · 155 claims rest on one study
+> **Evidence** · 178 claims (81 for, 83 mixed, 14 against) · 135 studies (49 causal, 25 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 35 of 135 report an effect size · 156 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -225,6 +225,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Correct-answer feedback alone was insufficient for generalization: significantly worse than lecture in Study 1, with the difference not significant in Study 2](../claims/correct-answer-feedback-insufficient-for-generalization.md) [~W]
 - [Neither content-specific nor generic support during feedback reception shows significant effects on feedback reception quality or subject-matter-related knowledge, but the evidence base is too small to interpret](../claims/reception-support-effects-uninterpretable.md) [~W]
 - [Learning analytics tools can provide personalized feedback on students' academic writing by identifying mistakes and offering constructive suggestions (e.g., AcaWriter)](../claims/acawriter-personalized-writing-feedback.md) [+W]
+- [ManyClasses study found no effect of delayed versus immediate feedback or study incentives across 38 classrooms](../claims/manyclasses-no-feedback-timing-incentive-effect.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -53,3 +53,4 @@ Moderator analysis of pictorial components: without images (g = 0.45) or animati
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](spoken-versus-signaled-written-null.md) — related
 - [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related
 - [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — related
+- [Redundancy effect: when one source of information is intelligible in isolation, physically integrating it with another source fails to help and eliminating the redundant source facilitates learning](redundancy-effect-elimination-of-redundant-text.md) — related

@@ -135,3 +135,5 @@ Meta-analysis of the segmenting effect covering "56 investigations including 88 
 - [Segmented videos reduce hesitations for participants with ADHD by approximately 79% compared to non-segmented videos](segmentation-reduces-hesitations-adhd-participants.md) — a narrower finding that bears on this claim
 - [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related
 - [Successful low-prior-knowledge inquiry learners managed cognitive load by exploring simple circuits first and pausing during learning](cognitive-load-management-in-inquiry-simulation-learning.md) — a narrower finding that bears on this claim
+- [All four original multimedia experiments showed a main effect favoring the dynamic visualization, especially for transfer tasks](four-experiments-dynamic-visualization-main-effect.md) — related
+- [Learner-controlled pacing of a video model was heavily used and associated with better understanding of underlying processes and less practice time, especially as task difficulty increased](pacing-control-video-model-understanding.md) — related

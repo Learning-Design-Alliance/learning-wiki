@@ -131,3 +131,4 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm](outcome-feedback-impedes-complex-task-learning-mcpl.md) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality](knowledge-of-results-no-effect-achievement-test-dimensionality.md) — reports the opposite
+- [ManyClasses study found no effect of delayed versus immediate feedback or study incentives across 38 classrooms](manyclasses-no-feedback-timing-incentive-effect.md) — related

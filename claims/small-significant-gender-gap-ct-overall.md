@@ -54,3 +54,4 @@ Three-level random-effects meta-analysis (REML, metafor in R) of 53 studies yiel
 - [Gender differences in assessment points earned remained small but statistically significant after controlling for math course type and level](gender-gap-persists-controlling-course-enrollment.md) — related
 - [Even with skill-based qualifications, LLM team assignment remains gender-biased: when two teams are equally valid, models favor Core Development for male personas over Interface Design](llm-team-formation-gender-bias-skill-based.md) — related
 - [The reading sex difference favoring girls grew over the decade and was driven by very poor performance of boys at the low end](reading-gap-growing-driven-by-low-performing-boys.md) — related
+- [Males show a small overall advantage in mathematics performance (d = 0.083) across studies published 2010–2022](small-overall-male-advantage-mathematics-meta-analysis.md) — related

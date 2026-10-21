@@ -53,3 +53,4 @@ Chi-square difference test comparing constrained and unconstrained multiple-grou
 - [Family ethnic socialization drives ERI in immigrant families, whereas youth ERI drives family socialization in U.S.-born families](immigrant-status-bidirectional-family-ethnic-socialization.md) — a narrower finding that bears on this claim
 - [For U.S.-born Mexican-origin youth with U.S.-born parents, youth ethnic identity predicts later family ethnic socialization but not vice versa (a youth-driven process)](youth-driven-ethnic-socialization-us-born-families.md) — related
 - [No gender differences emerged in the associations between family ethnic socialization and ethnic identity](no-gender-differences-ethnic-socialization-identity.md) — related
+- [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](limited-demographic-moderators.md) — related

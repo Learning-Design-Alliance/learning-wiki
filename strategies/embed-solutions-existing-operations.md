@@ -43,6 +43,7 @@ The article recommends routinizing a solution by attaching it to structures and 
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
 - [Integrate tutoring into the regular school day rather than scheduling it outside instructional time](integrate-tutoring-into-regular-school-day.md)
 - [Integrate caregiver-led child nutrition monitoring with other health services to increase sustainability](integrate-family-muac-with-other-health-services.md)
+- [Infuse social psychological concepts into existing pre-service courses and professional development rather than new standalone courses](infuse-social-psychology-teacher-education.md)
 
 ## Examples
 -

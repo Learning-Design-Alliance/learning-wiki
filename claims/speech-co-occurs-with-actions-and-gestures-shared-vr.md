@@ -49,3 +49,4 @@ Multimodal analysis of 108 episodes of video from three groups of in-service tea
 - [Virtual objects serve as effective media for collaborative knowledge building in shared VR environments](virtual-objects-effective-media-collaborative-knowledge-vr.md) — related
 - [Students in a school-based makerspace enact four intertwined multimodal knowledge practices combining embodied action, talk, space and artifact use](four-multimodal-knowledge-practices-makerspace.md) — related
 - [VET teachers use body gestures and pointing to recreate the three-dimensional machine space represented two-dimensionally on the simulator screen.](teacher-gestures-recreate-3d-space-on-2d-screen.md) — related
+- [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](gestures-material-scaffolding-collaboration.md) — related

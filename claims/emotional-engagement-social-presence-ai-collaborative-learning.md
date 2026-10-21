@@ -54,3 +54,4 @@ The review's synthesis of affective-factor studies (narrative review attributing
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — reports the opposite
 - [AI use also carries negative outcomes: technical instability, negative emotional impacts, over-reliance, and contextual contingency](ai-wtc-negative-outcomes-challenges.md) — related
+- [Social presence influences how social interaction unfolds in online group learning, which in turn affects learning outcomes](social-presence-shapes-online-group-interaction-and-outcomes.md) — related

@@ -54,3 +54,4 @@ Experiment with 53 UCLA undergraduates studying 16 butterfly species, all interl
 - The most effective intervention types provided counterstereotypical exemplar experience, evaluative conditioning, or strategies to override biases — related
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — related
 - Verbal learning tasks with intervals filled with other to-be-learned items test the discriminative-contrast hypothesis rather than the spacing effect — related
+- [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — related

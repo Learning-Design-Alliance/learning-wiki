@@ -50,3 +50,4 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
 - [Longer exercise intervention duration is consistently associated with larger effect sizes on ADHD functional outcomes](longer-exercise-interventions-larger-adhd-effects.md) — related
 - [Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36](publication-bias-adjusted-effect-036.md) — related
+- [Publication-bias evidence differs by subset: significant funnel-plot asymmetry for course-embedded spacing studies but no strong evidence of bias for isolated-material studies.](publication-bias-spacing-subsets-mathematics.md) — related

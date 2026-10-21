@@ -66,3 +66,4 @@ Narrative review synthesis of narrative and meta-analytic reviews of acute exerc
 - [Metacognition interventions positively impact children's executive functions, a novel outcome in this literature](metacognition-interventions-improve-executive-functions.md) — related
 - [Chronic cardio exercise programs improve executive functions, attention, and behavior in children with ADHD](chronic-cardio-exercise-benefits-adhd-children.md) — related
 - [Chronic exercise significantly improves working memory, inhibitory control, and cognitive flexibility in children and adolescents](chronic-exercise-improves-executive-function-children.md) — related
+- [Null Flanker effects under ecologically realistic exercise constrain claims of broad, generalized enhancement of executive control](null-flanker-effects-constrain-generalized-enhancement.md) — reports the opposite

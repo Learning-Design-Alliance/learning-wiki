@@ -70,3 +70,4 @@ The review cites Lachner et al. (2020, Experiment 1), Lachner et al. (2021), and
 - [High levels of induced social presence during non-interactive teaching can impair learning relative to restudy (a double-edged sword)](social-presence-double-edged-sword-noninteractive-teaching.md) — related
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related
 - [Teaching expectancy may moderate the non-interactive teaching effect, but this moderation often fails to replicate](teaching-expectancy-moderation-mixed.md) — related
+- [Non-interactive teaching was not generally more effective than restudy, but was more effective in humanities, upper secondary education, and when graded](non-interactive-teaching-not-generally-more-effective-moderated.md) — related

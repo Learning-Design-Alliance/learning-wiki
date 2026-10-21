@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 207 claims (142 show a difference, 43 mixed, 22 no difference) · 164 studies (53 associational, 42 causal, 29 review, 13 quant-synthesis, 11 theoretical, 10 qualitative, 6 design), `q1`–`q4` · 42 of 164 report an effect size · 195 claims rest on one study
+> **Evidence** · 208 claims (143 show a difference, 43 mixed, 22 no difference) · 165 studies (53 associational, 43 causal, 29 review, 13 quant-synthesis, 11 theoretical, 10 qualitative, 6 design), `q1`–`q4` · 42 of 165 report an effect size · 196 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -257,6 +257,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Student age and sample gender composition moderate associations between motivation antecedents and motivation types](../claims/age-gender-moderate-motivation-antecedents.md) [~M] — an instructional effect differs with it
 - [General interest (d = 0.22) and career interest (d = 0.40) show significant positive effects; other attitude subscales do not](../claims/attitude-subscale-effects-general-career-interest.md) [~W] — learners who differ on it differ in outcomes
 - [Gifted underachievers consistently report lower motivation than gifted achievers across reviewed studies](../claims/motivation-lower-in-gifted-underachievers.md) [+W] — learners who differ on it differ in outcomes
+- [In-session autonomy, competence and intrinsic motivation are higher during basketball mathematics than during classroom mathematics](../claims/higher-in-session-motivation-during-basketball-mathematics.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

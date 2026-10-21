@@ -186,3 +186,5 @@ A narrative review reports this meta-analysis of more than 90 PreK–12 articles
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — related
 - [Brief social-belonging interventions improve academic outcomes and well-being, especially for students facing identity threat, but risk being used to fix students rather than structures](social-belonging-intervention-improves-outcomes-but-misuse-risk.md) — related
 - [Negative aspects of the teacher–student relationship are particularly predictive of peer relationships](negative-tsr-aspects-most-predictive-of-peer-relationships.md) — related
+- [The review argues that ignoring the social side of school carries costs including reified achievement gaps, diminished belonging and dropout, and unsafe school climates](costs-of-ignoring-social-side-of-school.md) — related
+- [Teacher well-being shows a small positive association with student motivation and achievement (r = .18) across 186 articles](teacher-well-being-positive-student-outcomes-r18.md) — related

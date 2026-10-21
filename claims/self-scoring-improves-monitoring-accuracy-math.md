@@ -48,3 +48,5 @@ Multilevel regression at the before/after level for the whole sample and both sk
 - [After self-scoring, the monitoring-accuracy gap between low- and high-performing students remains on multiplication (small) but disappears on division](unskilled-unaware-monitoring-after-self-scoring.md) — related
 - [Students' monitoring judgments predict their regulation judgments before and after self-scoring](monitoring-judgments-predict-regulation-judgments.md) — related
 - [Postdictions of performance are typically more accurate than predictions](postdictions-more-accurate-than-predictions.md) — related
+- [Interventions to improve monitoring accuracy in problem-solving tasks have a small positive overall effect (g = 0.25)](monitoring-accuracy-interventions-small-positive-effect-problem-solving.md) — related
+- [Whole-task, metacognitive knowledge, and external standard interventions significantly improve monitoring accuracy in problem solving](whole-task-metacognitive-knowledge-external-standard-interventions-improve-monitoring-accuracy.md) — related

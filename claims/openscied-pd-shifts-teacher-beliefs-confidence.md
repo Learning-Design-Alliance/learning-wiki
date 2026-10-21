@@ -75,3 +75,4 @@ Same longitudinal survey analysis (Lowell, 2022); the review notes confidence in
 - [Post-course survey respondents reported the most growth on rethinking ideas about disability, with 27 of 33 noting definite growth and 17 describing a shift away from deficit thinking](survey-definite-growth-rethinking-disability.md) — a narrower finding that bears on this claim
 - [Short-term creativity interventions can be effective in changing creativity positively](short-term-interventions-change-creativity.md) — related
 - [Teachers oriented towards students and changing students' conceptions are associated with students reporting deeper approaches to learning](teacher-orientation-deep-approaches.md) — related
+- [Training facilitates belief change particularly when it encourages reflection of beliefs and teachers gain practical experience in inclusive classrooms](belief-change-reflection-plus-practical-inclusive-experience.md) — related

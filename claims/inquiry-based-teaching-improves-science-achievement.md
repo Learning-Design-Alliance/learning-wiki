@@ -161,3 +161,5 @@ The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies 
 - [The relation between frequency of inquiry activities and science achievement is curvilinear, with the highest gains where inquiry combines with direct teacher-based instruction](pisa-curvilinear-inquiry-achievement.md) — related
 - [Well-controlled comparison studies show clear advantages of inquiry-based instruction over direct instruction for science conceptual learning](controlled-studies-advantage-guided-inquiry-over-direct-instruction.md) — related
 - [The highest level of inquiry may not be the 'best' approach for science learning](open-inquiry-highest-level-not-best.md) — related
+- [Controlled studies comparing exploration-based investigation with explicit instruction overwhelmingly favor explicit instruction for science content learning](controlled-studies-favor-explicit-instruction-over-inquiry.md) — related
+- [Student-led inquiry-based investigation is identified as the least effective instructional element in PISA 2015 analyses](student-led-inquiry-least-effective-instructional-element.md) — related

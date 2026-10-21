@@ -127,3 +127,4 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 - [Weeding extraneous information such as music and complex backgrounds improves retention and transfer from video](weeding-extraneous-content-improves-video-learning.md) — related
 - [Spoken–written presentations do not outperform written-only presentations but do outperform spoken-only presentations](spoken-written-beats-spoken-only-not-written-only.md) — related
 - [Congruent pictures paired with text facilitate reading comprehension better than text alone or pictures alone](congruent-pictures-with-text-facilitate-comprehension.md) — related
+- [Redundancy effect: when one source of information is intelligible in isolation, physically integrating it with another source fails to help and eliminating the redundant source facilitates learning](redundancy-effect-elimination-of-redundant-text.md) — related

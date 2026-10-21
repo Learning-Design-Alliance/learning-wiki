@@ -49,3 +49,4 @@ Meta-analysis (subset 2) aggregating 54 effect sizes from studies comparing expa
 - [Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) — related
 - [Uniform two-week spacing between distillations yielded the greatest benefit among the tested schedules, ranking Standard, Mixed, Frontloaded, then Baseline](two-week-uniform-spacing-greatest-benefit.md) — related
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — reports the opposite
+- [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](expanding-uniform-spacing-retention-interval-moderator.md) — reports the opposite

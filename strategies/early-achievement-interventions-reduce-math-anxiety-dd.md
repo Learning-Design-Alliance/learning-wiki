@@ -41,6 +41,7 @@ The authors recommend that as educators appreciate the role of math anxiety, int
 - [Reduce math anxiety by addressing the anxiety rather than training math alone](address-anxiety-not-only-math-training.md)
 - [Monitor children's math anxiety from the earliest stages of schooling to support proficient math performance](monitor-math-anxiety-early-schooling.md)
 - [Start early: foster a positive math climate at home and school to prevent the distal avoidance pathway](early-positive-math-climate-prevention.md)
+- [Design interventions that address mathematical and motivational/socioemotional dimensions concurrently](concurrent-math-motivation-algebra-interventions.md)
 
 ## Examples
 -

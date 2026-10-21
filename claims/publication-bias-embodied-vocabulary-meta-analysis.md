@@ -51,3 +51,4 @@ Multilevel Egger's regression tests on the meta-analytic corpus showed a signifi
 - [Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36](publication-bias-adjusted-effect-036.md) — related
 - [Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample](no-publication-bias-teacher-self-efficacy-meta-analysis.md) — reports the opposite
 - [No publication bias is detected in the collected Covid-19 achievement estimates](covid-meta-analysis-no-publication-bias.md) — related
+- [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — reports the opposite

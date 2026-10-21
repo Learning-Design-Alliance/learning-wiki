@@ -51,3 +51,4 @@ The originality findings from the thematic analysis report that "The views of pa
 - [Student perceptions of AI use in academic work are neutral and range from viewing AI as valid learning assistance to viewing it as cheating, depending on task type, transparency, and assessment design](student-ai-perceptions-neutral-task-dependent.md) — a broader claim this one bears on
 - [Whether student GenAI use constitutes academic misconduct depends fundamentally on the prior question of the university's purpose](genai-misconduct-depends-on-university-purpose.md) — related
 - Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators — related
+- [Students and educators disagree on the acceptability of unacknowledged generative AI use across academic writing subtasks](student-educator-ai-acceptability-gaps.md) — related

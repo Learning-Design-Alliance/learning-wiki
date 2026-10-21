@@ -49,3 +49,4 @@ The review's thematic synthesis of multiple reviewed studies reports that "using
 - Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators — a narrower finding that bears on this claim
 - [Design students' GenAI use concentrates on research, writing and brainstorming tasks, with low use for image, media and code generation](genai-use-concentrated-research-writing-brainstorming.md) — related
 - [Undergraduate students hold mixed views on whether using GenAI for coursework constitutes plagiarism, ranging from not misconduct to serious misconduct](students-mixed-views-genai-plagiarism.md) — related
+- [Students and educators disagree on the acceptability of unacknowledged generative AI use across academic writing subtasks](student-educator-ai-acceptability-gaps.md) — related

@@ -50,3 +50,4 @@ Behavioral results from the combined Flanker-Go/No-Go task in 37 children. The s
 - [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related
 - [Incongruent items in school-topic tasks are generally associated with longer response times and lower accuracy, patterns consistent with inhibitory control recruitment](incongruent-items-longer-rt-lower-accuracy.md) — a broader claim this one bears on
 - [ERP amplitude shows larger negativity for incongruent and No-Go trials at frontal midline sites](erp-amplitude-incongruent-nogo-frontal-negativity.md) — related
+- [Brief pre-class exercise selectively enhanced mathematics-specific inhibitory control while domain-general interference control (Flanker) showed no reliable change, per Zhang et al. (2026)](brief-exercise-selective-math-inhibition-dissociation.md) — related

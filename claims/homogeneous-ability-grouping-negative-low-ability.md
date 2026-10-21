@@ -76,3 +76,4 @@ Meta-analysis of studies on differentiation practices in primary education. The 
 - [When classes are sorted by skill level, low-skilled students are at higher risk of being in disruptive classrooms, weakening their instructional environment](sorting-puts-low-skilled-in-disruptive-classrooms.md) — related
 - [Differentiating curriculum for students above grade level is associated with higher math achievement in 2nd grade only](differentiating-above-grade-level-second-grade-achievement.md) — related
 - [Below-norm students' test scores improved post-policy (0.88 points total), and the relationship between classroom average ability and their scores was no longer statistically significant post-policy](below-norm-score-gains-composition-null-post-policy.md) — related
+- [Quality of explanations is higher in groups containing above-average students than in groups without them](group-expertise-raises-explanation-quality.md) — related

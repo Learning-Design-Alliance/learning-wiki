@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (40 show a difference, 6 mixed, 3 no difference) · 28 studies (10 associational, 7 review, 6 causal, 2 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 8 of 28 report an effect size · 48 claims rest on one study
+> **Evidence** · 57 claims (47 show a difference, 7 mixed, 3 no difference) · 31 studies (11 associational, 7 review, 6 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 8 of 31 report an effect size · 56 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -84,6 +84,14 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Students' domain-specific self-concept moderates non-interactive teaching: low self-concept students profit, high self-concept students do not](../claims/self-concept-moderates-noninteractive-teaching.md) [+M] — an instructional effect differs with it
 - [The COMPASS intervention significantly increases students' math self-concept immediately after participation in both an intervention group and a waiting-list control group](../claims/compass-increases-math-self-concept-immediately.md) [+M] — instruction changes it
 - [Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction](../claims/student-characteristics-moderate-inquiry-effectiveness.md) [+M] — an instructional effect differs with it
+- [Adding a quadratic achievement term leaves the negative contextual-mean effect essentially unchanged](../claims/curvature-adjustment-does-not-eliminate-bflpe.md) [+M] — instruction changes it
+- [Class-average achievement negatively predicts mathematics self-concept after controlling individual achievement (BFLPE replication in TIMSS 2019)](../claims/bflpe-replication-timss-2019-contextual-mean-effect.md) [+M] — instruction changes it
+- [Contextual-mean effects show little moderation by individual achievement; apparent positive moderation is illusory when the quadratic term is omitted](../claims/bflpe-moderation-by-achievement-small-and-illusory.md) [+M] — instruction changes it
+- [Integrative models indicate much of the apparent ordinal-rank effect reflects distributionally scaled relative achievement, while contextual means remain the most robust comparative indicator](../claims/integrative-contextual-scaling-ordinal-standing-not-sufficient.md) [+W] — instruction changes it
+- [Nonlinear epistemic belief profiles show a diverging pattern for science self-concept: multiplistic profiles score similarly or lower than absolutistic, while evidence-based profiles score similarly or higher than sophisticated](../claims/nonlinear-profiles-diverge-self-concept.md) [~M] — instruction changes it
+- [The 2I/E model is supported: social comparison effects are moderate, dimensional comparison effects small to moderate, and temporal comparison effects small on math and verbal self-concepts](../claims/ipd-meta-2ie-model-supported-moderate-social-small-temporal-effects.md) [+M] — instruction changes it
+- [The contextual-mean effect remains negative across every achievement decile and across MSC quantiles, with no systematic attenuation at the top](../claims/bflpe-robust-across-deciles-and-quantiles.md) [+M] — instruction changes it
+- [The negative contextual-mean effect persists for the top-ranked student in each class, constraining rank-sufficiency accounts](../claims/bflpe-persists-for-top-ranked-students.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

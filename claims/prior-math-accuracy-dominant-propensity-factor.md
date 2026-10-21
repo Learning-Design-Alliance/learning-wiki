@@ -46,3 +46,4 @@ Longitudinal January–June testing of Belgian elementary children. The abstract
 - [Mathematical accuracy and fluency have overlapping yet different predictors, supporting attention to both aspects in mathematics teaching](accuracy-and-fluency-different-predictors.md) — a broader claim this one bears on
 - [Using performance on each individual question as features yields only a small improvement over a single-ability logistic regression model](small-gain-from-question-level-features.md) — related
 - [Cluster profiles of student mathematics performance are dominated by overall ability, with most clusters being linear rescalings of average exam performance](cluster-profiles-dominated-by-overall-ability.md) — related
+- [Integrated models combining mathematical and motivational propensities significantly explain algebra performance](integrated-propensity-model-explains-algebra-performance.md) — related

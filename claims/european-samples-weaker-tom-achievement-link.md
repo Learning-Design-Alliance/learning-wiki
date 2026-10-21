@@ -51,3 +51,4 @@ Weighted linear regression moderator analysis across cross-sectional effect size
 - Research on K‑5 writing motivation self‑reports grew sharply after 2009 and is geographically concentrated in North America and Asia — related
 - [Geographical region moderated several engagement-correlate relations, with Eastern students showing higher relations than Western students](region-moderates-engagement-correlate-relations.md) — related
 - [The ToM–achievement association does not differ significantly across reading comprehension, math, and general academic performance domains](tom-achievement-domain-nonspecific.md) — related
+- [The magnitude of sex differences in mathematics varies across geographical regions, with larger estimated effects in Central Europe (d = 0.164) and Central and South America (d = 0.153) than in North America (d = 0.047)](geographic-region-moderation-sex-differences-mathematics.md) — related

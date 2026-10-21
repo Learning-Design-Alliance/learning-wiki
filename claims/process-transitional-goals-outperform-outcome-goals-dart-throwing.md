@@ -47,3 +47,4 @@ A tribute commentary (Mandell) reports, citing Kitsantas and Zimmerman (2006), a
 - [Empirical studies support Zimmerman's cyclical and multi-level SRL models, including a linear trend favoring training more SRL phases](zimmerman-cyclical-model-empirical-support.md) — related
 - [The tribute reports students tend to overestimate their sport performance, and four-level model instruction may improve calibration accuracy](students-overestimate-sport-performance-calibration.md) — related
 - [Empirical studies support Zimmerman's SRL models, including expert-novice differences and phase-training effects](empirical-support-zimmerman-srl-models.md) — related
+- [Observers of peer models who made and corrected key errors learned to identify and eliminate such errors, whereas observers of expert models missed the error-correction information](peer-model-error-correction-observers.md) — related

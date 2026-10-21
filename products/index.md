@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1836 entries** · 0 stable · 1836 in review · 0 drafts
+**1840 entries** · 0 stable · 1840 in review · 0 drafts
 
 ---
 
@@ -94,6 +94,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Annotated student-utterance emotion dataset (224 turns) for text-based emotion recognition in math tutoring](annotated-student-utterance-emotion-dataset-224-turns-for-text-based-emotion-recognition-i.md) - Debanjana Kar et al.'s dataset contains 224 manually annotated MathDial-Bridge student turns with boredom, engagement, or neutral labels and polarity scores for developing emotion-recognition models in math tutoring dialogues.
 * [Anonymized Dutch student-monitoring test-score dataset covering 15% of primary schools, 2017 to 2020](anonymized-dutch-student-monitoring-test-score-dataset-covering-15-of-primary-schools-2017.md) - A confidential, anonymized dataset assembled by Engzell et al.
 * [ANSYS Workbench](ansys-workbench.md) - ANSYS Workbench is an engineering simulation platform made by Ansys, Inc., used to build and analyze finite-element models for applications such as heat transfer.
+* [Anti-RAMSing toolkit: annotated R scripts and worked example dataset on OSF](anti-ramsing-toolkit-annotated-r-scripts-and-worked-example-dataset-on-osf.md) - A publicly available toolkit by Bicakci et al.
 * [AntiSkillBench](antiskillbench.md) - AntiSkillBench is a benchmark dataset and evaluation suite created by Yongli Xiang et al.
 * [ANVIL](anvil.md) - ANVIL is an open-source generative software pipeline developed by Noviello et al.
 * [APLUS (Artificial Peer Learning Using SimStudent)](aplus-artificial-peer-learning-using-simstudent.md) - APLUS is an online learning-by-teaching environment developed by its researchers in which students tutor the SimStudent virtual agent to solve algebraic equations through guided problem solving.
@@ -133,6 +134,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Balloons: A Concepts About Print Assessment](balloons-a-concepts-about-print-assessment.md) - A locally constructed, criterion-referenced 17-item assessment in the Kindergarten Assessment Portfolio used by program teachers to measure kindergarten pupils' concepts about print.
 * [BASIE](basie.md) - A downloadable software tool released by John Deke et al.
 * [BASIE R and Stan code](basie-r-and-stan-code.md) - The BASIE R and Stan code is a released implementation by John Deke et al.
+* [Basketball Mathematics (BM) intervention program](basketball-mathematics-bm-intervention-program.md) - An 8-week programme run by trained instructors that integrates fraction learning into basketball drills within existing physical-education lessons for grades 6–7.
 * [BATS-R-US (Block-Adaptive-Tree Solarwind Roe Upwind Scheme)](bats-r-us-block-adaptive-tree-solarwind-roe-upwind-scheme.md) - A three-dimensional global magnetohydrodynamics simulation code developed by the University of Michigan and made publicly runnable through NASA's Community Coordinated Modeling Center.
 * [Bayes Net Toolbox for Matlab](bayes-net-toolbox-for-matlab.md) - Bayes Net Toolbox for Matlab is a software toolbox developed by Kevin Murphy for representing, manipulating, and performing inference with Bayesian networks.
 * [bcause](bcause.md) - bcause is open-source software for causal inference in Bayesian and credal networks, supporting exact Bayesian-network inference and interventional and counterfactual queries.
@@ -319,6 +321,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Corpus of 213 peer-reviewed journal articles on AI in business education (Dimensions, 2015–2024)](corpus-of-213-peer-reviewed-journal-articles-on-ai-in-business-education-dimensions-201520.md) - A corpus compiled by Espino et al.
 * [Corpus of 22 peer-reviewed LLM-in-higher-education studies (2023–2024) with geographic, publisher and keyword-cluster profile](corpus-of-22-peer-reviewed-llm-in-higher-education-studies-20232024-with-geographic-publis.md) - A curated corpus of 22 English-language peer-reviewed journal studies on direct student use of large language models in higher education, assembled by Martínez-Peláez et al.
 * [Corpus of 48 peer-selected empirical studies of SE in undergraduate mathematics (2009–2024)](corpus-of-48-peer-selected-empirical-studies-of-se-in-undergraduate-mathematics-20092024.md) - A curated evidence corpus of 48 empirical studies on student engagement in undergraduate mathematics, assembled by Papageorgiou, Wong, Liu, Khalil, and Cabo through PRISMA-guided searching and screening.
+* [Corpus of 50 studies with 185 effect sizes on parenting self-efficacy and home-school partnership](corpus-of-50-studies-with-185-effect-sizes-on-parenting-self-efficacy-and-home-school-part.md) - A corpus compiled by Tianyi Ma et al.
 * [Corpus of 500 annotated competency-based assessments in higher education for developing and evaluating the Teacher Evaluator](corpus-of-500-annotated-competency-based-assessments-in-higher-education-for-developing-an.md) - A corpus of 500 anonymized, annotated higher-education competency-based assessments compiled by Agerri et al.
 * [Corpus of 52 studies on creativity development in primary education analyzed descriptively and meta-analytically](corpus-of-52-studies-on-creativity-development-in-primary-education-analyzed-descriptively.md) - A corpus of 52 studies on primary-school children's creativity development and task characteristics assembled by O.T.A.
 * [Corpus of 73 peer-reviewed studies on online peer feedback in higher education (2000–2022)](corpus-of-73-peer-reviewed-studies-on-online-peer-feedback-in-higher-education-20002022.md) - A corpus of 73 English-language peer-reviewed empirical studies on written online or blended peer feedback among higher-education students, compiled by Gao et al.
@@ -1511,6 +1514,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [SMART®](smart.md) - Start Making a Reader Today (SMART®) is a low-cost Oregon school-based programme that provides volunteer one-on-one reading tutoring and free books to K–2 students at risk of reading failure.
 * [SMDEP](smdep.md) - SMDEP is a free six-week residential science-enrichment programme run at 12 national sites for minority and socioeconomically disadvantaged undergraduates interested in medical or dental careers.
 * [Sobrato Early Academic Language (SEAL) model](sobrato-early-academic-language-seal-model.md) - A PreK–Grade 3 oral-language development model developed by the Sobrato Family Foundation for multilingual learners, including English learners with disabilities.
+* [Social Presence Measure (Kreijns et al., 2020)](social-presence-measure-kreijns-et-al-2020.md) - A 27-item Rasch-validated, two-dimensional self-report instrument developed by Kreijns et al.
 * [Social Problem Situations Inventory for Children (SPSIC)](social-problem-situations-inventory-for-children-spsic.md) - A researcher-developed performance assessment by Yılmaz and colleagues that measures children's social problem-solving across six dimensions through scored responses to social problem situations.
 * [Social Sciences Education Framework for California Public Schools](social-sciences-education-framework-for-california-public-schools.md) - A California state education framework that organizes K–12 social sciences curricula around disciplinary understanding, skills, diversity, values, and civic participation.
 * [Social, Academic, and Emotional Behavior Risk Screener (SAEBRS)](social-academic-and-emotional-behavior-risk-screener-saebrs.md) - SAEBRS is a universal screening assessment for students’ social, academic, and emotional behavior risk, used by schools and districts to identify needs and guide mental-health supports.

@@ -68,3 +68,4 @@ Step 2 regression coefficients for the two MTSI scales predicting intertextual c
 - [Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension](strategy-dimensions-uncorrelated-opposite-correlations.md) — related
 - [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](open-questions-comprehension-unique-predictor-integration.md) — related
 - A task-specific multiple-text strategy inventory yields two correlated strategy dimensions: cross-text elaboration and accumulation of information — related
+- [Metacognition and comprehension strategy use are weakly to moderately associated with intertextual integration among K-12 students](metacognition-strategy-use-correlates-intertextual-integration.md) — related

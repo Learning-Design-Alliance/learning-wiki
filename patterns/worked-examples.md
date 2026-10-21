@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (9 for, 10 mixed, 2 against) · 16 studies (10 causal, 3 review, 2 theoretical, 1 design), `q2`–`q3` · 1 of 16 report an effect size · 19 claims rest on one study
+> **Evidence** · 22 claims (9 for, 11 mixed, 2 against) · 17 studies (10 causal, 3 review, 3 theoretical, 1 design), `q2`–`q3` · 1 of 17 report an effect size · 20 claims rest on one study
 
 ## Description and scope
 
@@ -109,6 +109,7 @@ This pattern is scoped to selecting solution support for structured tasks. Open-
 - [Erroneous examples and problem solving do not differ significantly on an immediate posttest](../claims/erroneous-examples-no-immediate-difference.md) [~W]
 - [Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning](../claims/liking-is-not-learning-decimals-tutor.md) [~W]
 - [Students using a worked-example revised probability textbook improved more in probabilistic reasoning than students using the standard textbook](../claims/worked-example-textbook-improves-probability-learning.md) [+W]
+- [The worked example effect failed to replicate for geometry and kinematics problems, and was reinstated when worked examples were restructured to reduce split attention](../claims/worked-example-effect-split-attention-replication-history.md) [~W]
 
 ## Key Sources
 

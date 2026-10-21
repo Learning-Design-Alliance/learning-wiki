@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 49 claims (33 for, 15 mixed, 1 against) · 40 studies (11 review, 11 associational, 7 causal, 4 quant-synthesis, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 10 of 40 report an effect size · 43 claims rest on one study
+> **Evidence** · 50 claims (34 for, 15 mixed, 1 against) · 41 studies (12 review, 11 associational, 7 causal, 4 quant-synthesis, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 10 of 41 report an effect size · 44 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -104,6 +104,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Three-facet MTMM (content × valence × time) supports the SDT 3×2 architecture, with content the stronger separative force and 20 of 21 planned comparisons supported](../claims/three-facet-mtmm-content-valence.md) [+W]
 - [Competence need satisfaction is the strongest psychological-need predictor of students' self-determined motivation types](../claims/competence-strongest-need-predictor-student-motivation.md) [+M] — attached 2026-10-20 from Bureau et al. (2022), which proposed "Self-determination theory's motivational sequence: autonomy support → psychological need satisfaction → motivation quality"; tests this page's relationship.
 - [Teacher autonomy support predicts students' need satisfaction and self-determined motivation more strongly than parental autonomy support](../claims/teacher-autonomy-support-stronger-than-parental.md) [+M] — attached 2026-10-20 from Bureau et al. (2022), which proposed "Self-determination theory's motivational sequence: autonomy support → psychological need satisfaction → motivation quality"; tests this page's relationship.
+- [Autonomous and intrinsic forms of motivation are positively associated with time management, while controlled motivation and amotivation show negative or null associations](../claims/autonomous-motivation-time-management.md) [+W]
 
 ## The evidence by question
 

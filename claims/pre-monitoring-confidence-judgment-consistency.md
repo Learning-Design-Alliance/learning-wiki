@@ -50,3 +50,4 @@ Post hoc descriptive comparison of pre-monitoring and confidence judgments. "The
 - [Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no significant age difference was found for true-false questions](age-effect-monitoring-open-ended-only.md) — related
 - [All children in the study showed adequate metacognitive processes before and during test taking](all-children-adequate-metacognitive-processes-test-taking.md) — related
 - [In retrospective within-subject comparison, no core metric distinguished synthesized TTS narration from recorded instructor voice, and equivalence testing supported non-inferiority](tts-narration-equivalent-instructor-voice-retrospective.md) — related
+- [Monitoring accuracy interventions are more effective for retrospective confidence judgments than for judgments of learning](interventions-more-effective-rcj-than-jol.md) — related

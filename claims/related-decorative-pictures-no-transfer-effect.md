@@ -66,3 +66,4 @@ Experiment 2 transfer t-test showed no significant difference, d = 0.19; metacog
 - [Related decorative pictures do not increase triggered or maintained situational interest; in Experiment 2 they reduced maintained interest](related-pictures-no-interest-increase.md) — related
 - [Related decorative pictures improve metacognitive monitoring accuracy for knowledge items in eighth-graders (Experiment 2), but not for transfer items](related-pictures-improve-metacognitive-monitoring-exp2.md) — related
 - [Reading a text with related decorative pictures yields more correct answers to knowledge items than reading the text without pictures (Experiment 1, university students)](related-decorative-pictures-improve-knowledge-exp1.md) — related
+- [Decorative pictures in test items show no meaningful effect on performance, time on task, or metacognition compared to text-only items](decorative-pictures-no-effect-mmt.md) — related

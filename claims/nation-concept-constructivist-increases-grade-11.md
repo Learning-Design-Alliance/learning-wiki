@@ -48,3 +48,4 @@ Coding of the nation-concept characteristic in the 38 narratives, distinguishing
 - Identification is statistically unrelated to the other three narrative characteristics — related
 - [Predominantly master-narrative accounts drop from 83% in 8th grade to 25% in 11th grade](narrative-patterns-master-narrative-decreases-grade-11.md) — related
 - [Identification with the historical subject ('us') does not change across grades](identification-us-constant-across-grades.md) — related
+- [Students tend to explain historical events from an intentionalist, personalistic point of view](students-personalistic-historical-explanations.md) — related

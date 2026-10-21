@@ -72,3 +72,5 @@ Learners studied and retrieved pairs to one correct recall, then items were assi
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — reports the opposite
 - [Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: more tests favour the expanding schedule](exposures-moderate-expanding-schedule-benefit.md) — related
 - [Retrieval before re-presentation (TTST) improves final cued recall of nonsense-syllable/number pairs relative to pure study (Experiment 1)](ttst-beats-pure-st-nonsense-pairs.md) — related
+- [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](expanding-uniform-spacing-retention-interval-moderator.md) — related
+- [Spaced practice produces a robust small-to-medium retention advantage over massed practice for mathematics learning overall (g = 0.26).](spacing-effect-mathematics-overall-meta-analysis.md) — related

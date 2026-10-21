@@ -85,3 +85,4 @@ Pre-registered Study 2 (prediction sample N=600, completion sample N=1001 on Pro
 - [Students' actual task selections deviate about half a difficulty level and half a support level from SRLTS model-based selections](selections-deviate-half-level-from-srlts.md) — related
 - [Prior AI use carries over: brief AI exposure increases subsequent AI adoption and exacerbates the speedup illusion, while independent exposure does not reduce AI use](ai-exposure-carryover-effect.md) — related
 - [People use AI on simple tasks at a rate significantly higher than they predict for themselves (self-estimate miscalibration), especially on easy task variants](self-estimate-miscalibration-ai-use-simple-tasks.md) — related
+- [AI-related placebo effects lead users to overestimate their own abilities while or after being assisted by an AI](ai-placebo-effect-overestimation.md) — related

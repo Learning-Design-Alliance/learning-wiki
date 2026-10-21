@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 199 claims (130 show a difference, 40 mixed, 29 no difference) · 146 studies (97 associational, 25 causal, 6 review, 5 qualitative, 5 theoretical, 4 quant-synthesis, 4 design), `q1`–`q4` · 24 of 146 report an effect size · 191 claims rest on one study
+> **Evidence** · 204 claims (130 show a difference, 45 mixed, 29 no difference) · 149 studies (97 associational, 25 causal, 7 quant-synthesis, 6 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 24 of 149 report an effect size · 196 claims rest on one study
 
 ## How to read this page
 
@@ -237,6 +237,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [The learning benefit of mathematics test practice is larger for boys than for girls](../claims/math-practice-effect-larger-for-boys.md) [+M] — an instructional effect differs by group
 - [No gender differences in writing self-efficacy were found in any included postsecondary study](../claims/no-gender-differences-writing-self-efficacy.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Studies reporting age and gender differences in student engagement unanimously show higher engagement for girls and younger students](../claims/girls-younger-students-higher-engagement.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](../claims/limited-demographic-moderators.md) [~M] — an instructional effect differs by group
+- [Gender and migration background have only very small impacts on the strength of single comparison effects](../claims/ipd-meta-gender-migration-negligible-moderation.md) [~M] — an instructional effect differs by group
+- [Sex differences in mathematics tend to be somewhat larger in more gender-equal countries (GGGI coefficient B = 0.921, p = .051), controlling for region](../claims/gender-equality-paradox-mathematics-meta-analysis.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex differences in mathematics vary by content domain, with male advantages for geometry (d = 0.218), broad mathematics (d = 0.145), computation (d = 0.089), and national tests (d = 0.068), but near-zero differences for advanced mathematics and basic numeracy](../claims/content-domain-moderation-sex-differences-mathematics.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The magnitude of sex differences in mathematics varies across geographical regions, with larger estimated effects in Central Europe (d = 0.164) and Central and South America (d = 0.153) than in North America (d = 0.047)](../claims/geographic-region-moderation-sex-differences-mathematics.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

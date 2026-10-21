@@ -51,3 +51,4 @@ The review reports this finding from British progression research (attributed to
 - [Empirical progression research is uneven across historical thinking dimensions: most research covers causal reasoning and sourcing, while contextualization and comparison remain thin](uneven-progression-research-across-dimensions.md) — related
 - [Feedback topology matters differentially across development: novices use simpler external topologies while experts use richer connectivity](feedback-topology-differential-across-development.md) — related
 - [A few students reasoned second-order about Wikipedia's distributed oversight, but not about specific content](second-order-wikipedia-oversight-reasoning.md) — a narrower finding that bears on this claim
+- [Children's ideas about historical evidence progress through six identifiable steps between ages seven and fourteen](six-step-progression-ideas-historical-evidence.md) — related

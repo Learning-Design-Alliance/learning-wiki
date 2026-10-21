@@ -54,3 +54,4 @@ The review reports that Maskarinec and Thompson (1976, Experiment 2) and Shaughn
 - [Unintentional learning of word associations occurs when items co-occur in the focus of attention](focus-of-attention-incidental-binding.md) — related
 - [A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition](within-list-lag-persists-with-interitem-associations.md) — related
 - [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — a narrower finding that bears on this claim
+- [Chen et al. (2018): spaced practice superiority was associated with increased availability of working memory resources](chen-2018-spaced-superiority-associated-with-wm-recovery.md) — related

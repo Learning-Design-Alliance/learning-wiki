@@ -31,7 +31,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (17 for, 13 mixed, 3 against) · 28 studies (20 causal, 3 quant-synthesis, 3 theoretical, 2 review), `q2`–`q4` · 7 of 28 report an effect size · 28 claims rest on one study
+> **Evidence** · 34 claims (17 for, 14 mixed, 3 against) · 29 studies (20 causal, 4 theoretical, 3 quant-synthesis, 2 review), `q2`–`q4` · 7 of 29 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ The authors recommend assigning worked-example type by prior knowledge: "by appl
 - [Erroneous examples and problem solving do not differ significantly on an immediate posttest](../claims/erroneous-examples-no-immediate-difference.md) [~W]
 - [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](../claims/expertise-reversal-conceptual-understanding-statistics.md) [~W]
 - [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](../claims/no-posttest-differences-mvc-convergence.md) [~W]
+- [The worked example effect failed to replicate for geometry and kinematics problems, and was reinstated when worked examples were restructured to reduce split attention](../claims/worked-example-effect-split-attention-replication-history.md) [~W]
 
 ## Key Sources
 

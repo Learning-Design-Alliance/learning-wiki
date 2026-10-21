@@ -50,3 +50,4 @@ Narrative synthesis of British cognitive-oriented empirical history education re
 - [Empirical progression research is uneven across historical thinking dimensions: most research covers causal reasoning and sourcing, while contextualization and comparison remain thin](uneven-progression-research-across-dimensions.md) — related
 - [Dimensions of historical thinking are conceptually decoupled: sophistication in one second-order concept does not imply sophistication in another](historical-thinking-dimensions-conceptually-decoupled.md) — related
 - [Before developing historical thinking skills, students approach the past with common sense, including presentism — seeing past people as sharing contemporary values](novice-presentism-common-sense-historical-understanding.md) — related
+- [Children's ideas about historical evidence progress through six identifiable steps between ages seven and fourteen](six-step-progression-ideas-historical-evidence.md) — related

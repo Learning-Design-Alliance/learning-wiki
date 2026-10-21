@@ -63,3 +63,4 @@ The synthesis reports that autonomy and meaningful goals improve intrinsic motiv
 - [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](extrinsic-rewards-deplete-intrinsic-motivation.md) — related
 - [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related
 - [The review proposes that embodied language learning engages learners holistically while promoting language skills and adding emotional and motivational benefits](embodied-language-learning-holistic-engagement-emotional-benefits.md) — related
+- [Performance benefits of UVIs may be limited to the perceived-useful content unless usefulness generalizes or interest develops](uvi-performance-benefits-context-limited.md) — related

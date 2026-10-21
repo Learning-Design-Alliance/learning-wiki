@@ -13,7 +13,7 @@ generated:
 # Continuous Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (3 causal, 2 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 9 report an effect size
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 10 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Continuous review is the systematic revisiting of previously taught material at expanding intervals throughout a course, rather than treating each topic as "covered" once and moving on. It functions as a structural commitment: earlier content is deliberately woven into later tasks, assessments, and warm-ups so that retention is maintained by design rather than left to chance.
@@ -53,7 +53,7 @@ Continuous review counters the steep forgetting curve by re-exposing learners to
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Publication-bias evidence differs by subset: significant funnel-plot asymmetry for course-embedded spacing studies but no strong evidence of bias for isolated-material studies.](../claims/publication-bias-spacing-subsets-mathematics.md) [-W]
 
 ## Related Elements
 

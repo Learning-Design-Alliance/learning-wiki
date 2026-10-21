@@ -47,3 +47,5 @@ Preliminary correlational analysis in the Results section of the teacher sample.
 - [The three PSRBVBQ scales show good internal consistency, with Cronbach's alphas of .732 (perceived severity), .841 (response to bully) and .897 (response to victim)](psrbvbq-scales-internal-consistency.md) — related
 - [More teachers rate verbal aggression as serious (38.6%) than rate relational aggression as very serious (23.8%)](verbal-rated-more-serious-than-relational-aggression.md) — related
 - [RJ-based responses to bullying may help, but require trained adult facilitators and may leave victims uncomfortable facing bullies](rj-bullying-response-requires-trained-facilitators.md) — related
+- [Teachers' antibullying attitudes are positively associated with intervention likelihood in hypothetical bullying scenarios (r = 0.48)](antibullying-attitudes-intervention-likelihood-positive.md) — related
+- [The association between antibullying attitudes and intervention likelihood does not differ by form of bullying](no-moderation-form-of-bullying.md) — related

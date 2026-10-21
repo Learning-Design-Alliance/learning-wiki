@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 23 claims (14 show a difference, 6 mixed, 3 no difference) · 13 studies (4 design, 3 associational, 2 causal, 2 review, 2 qualitative), `q1`–`q3` · 1 of 13 report an effect size · 23 claims rest on one study
+> **Evidence** · 25 claims (15 show a difference, 7 mixed, 3 no difference) · 15 studies (4 design, 3 associational, 2 causal, 2 quant-synthesis, 2 review, 2 qualitative), `q1`–`q3` · 1 of 15 report an effect size · 25 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -55,6 +55,8 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Epistemic beliefs, prior knowledge, and the think-aloud emotion of anger jointly predict low-epistemic processing during reading of the other-side text](../claims/epistemic-beliefs-anger-predict-low-epistemic-processing.md) [+M] — learners who differ on it differ in outcomes
 - [Participants with evaluativist epistemic beliefs are more likely to write two-sided reports than those with absolutist or multiplist epistemic beliefs](../claims/evaluativist-beliefs-two-sided-reports.md) [+M] — learners who differ on it differ in outcomes
 - [Learning patterns are associated with personal factors (personality, motivation, beliefs, prior education, age, gender); their associations with personality are weak to moderate, indicating learning patterns are not stable traits](../claims/learning-patterns-personal-factors.md) [+W] — learners who differ on it differ in outcomes
+- [A positive relation exists between the level of sophistication of epistemic belief profiles and understanding of the control-of-variables strategy](../claims/epistemic-profiles-cvs-positive-relation.md) [+M] — learners who differ on it differ in outcomes
+- [Training facilitates belief change particularly when it encourages reflection of beliefs and teachers gain practical experience in inclusive classrooms](../claims/belief-change-reflection-plus-practical-inclusive-experience.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

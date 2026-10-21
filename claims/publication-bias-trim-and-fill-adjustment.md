@@ -49,3 +49,4 @@ Publication bias assessment using funnel plot, Egger's regression intercept (t(1
 - No evidence of publication bias was found in the meta-analysis — related
 - A cluster-robust Egger-type test found no statistically detectable small-study effects, interpreted as absence of evidence rather than evidence of no publication bias — related
 - No evidence of publication bias, and extra-large-sample studies do not differ from the rest — related
+- [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related

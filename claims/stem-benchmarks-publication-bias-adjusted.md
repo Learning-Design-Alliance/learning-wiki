@@ -46,3 +46,4 @@ Limit meta-analysis re-estimated effects at the limit of infinite precision unde
 - [Benchmarks are sensitive to precision and publication bias, but subgroup ordering remains stable and one-per-primary-study quartiles are broadly similar to raw values](benchmark-robustness-subgroup-ordering-stable.md) — related
 - [Raw effect size quartiles for STEM education interventions overall are 0.21, 0.48, and 0.86 at the 25th, 50th, and 75th percentiles](stem-raw-overall-benchmark-quartiles.md) — related
 - [Desired outcomes show markedly larger benchmarks than undesired outcomes, the strongest contrast in the study](valence-benchmark-contrast.md) — related
+- [Bias-adjusted posterior-predictive benchmarks for STEM moderator effect sizes (0.18, 0.38, 0.64 at the 25th, 50th, 75th percentiles) fall below both Cohen's conventional thresholds and raw empirical quartiles](bias-adjusted-moderator-benchmarks-stem.md) — related

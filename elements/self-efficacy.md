@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 66 claims (40 for, 24 mixed, 2 against) · 54 studies (24 associational, 12 review, 11 causal, 3 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 14 of 54 report an effect size · 62 claims rest on one study
+> **Evidence** · 69 claims (41 for, 26 mixed, 2 against) · 56 studies (24 associational, 13 review, 11 causal, 4 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 14 of 56 report an effect size · 65 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -114,6 +114,9 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [In the absence of feedback, self-efficacy after problem solving was not associated with invested, expected, or willingness-to-invest effort, and threat was not associated with any effort measure (Experiments 3 and 4)](../claims/no-feedback-effort-associations-null.md) [-W]
 - [Competence and relatedness show distinct content pathways: competence with capability indicators (self-efficacy, progress, resilience) and relatedness with interpersonal-climate indicators (collegial support, trust, social capital)](../claims/competence-relatedness-content-pathways-c3.md) [+W]
 - [Principal burnout is negatively related to job satisfaction and self-efficacy and co-occurs with stress](../claims/burnout-correlates-satisfaction-efficacy-stress.md) [~W]
+- [Preservice teachers report higher self-efficacy for inclusive education than in-service teachers](../claims/preservice-higher-self-efficacy-inclusion-than-inservice.md) [~W]
+- [Time management interventions show conflicting evidence for raising self-efficacy](../claims/time-management-interventions-self-efficacy-mixed.md) [~W]
+- [Students' perceived self-efficacy is positively associated with their reported time management](../claims/self-efficacy-positive-association-time-management.md) [+W]
 
 ## The evidence by question
 

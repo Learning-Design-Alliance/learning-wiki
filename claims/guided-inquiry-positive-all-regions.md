@@ -45,3 +45,4 @@ The review reports Aditomo and Klieme (2020) analyzed PISA 2015 data from the 10
 ## Related Claims
 - [The relation between frequency of inquiry activities and science achievement is curvilinear, with the highest gains where inquiry combines with direct teacher-based instruction](pisa-curvilinear-inquiry-achievement.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — a broader claim this one bears on
+- [Student-led inquiry-based investigation is identified as the least effective instructional element in PISA 2015 analyses](student-led-inquiry-least-effective-instructional-element.md) — reports the opposite

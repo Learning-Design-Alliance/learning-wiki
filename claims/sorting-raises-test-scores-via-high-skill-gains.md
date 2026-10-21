@@ -52,3 +52,4 @@ The CCSR report compares Chicago Public Schools reforms that sorted algebra stud
 - [When classes are sorted by skill level, low-skilled students are at higher risk of being in disruptive classrooms, weakening their instructional environment](sorting-puts-low-skilled-in-disruptive-classrooms.md) — related
 - [Pre-policy, classroom average ability related positively to test scores but positively to failure, with effects strongest for high-ability students](pre-policy-composition-test-scores-failure-opposite.md) — related
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — reports the opposite
+- [Quality of explanations is higher in groups containing above-average students than in groups without them](group-expertise-raises-explanation-quality.md) — related

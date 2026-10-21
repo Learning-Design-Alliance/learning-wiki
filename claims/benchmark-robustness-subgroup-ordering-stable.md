@@ -48,3 +48,4 @@ Robustness analyses (precision weighting and one-per-primary-study specification
 - [Desired outcomes show markedly larger benchmarks than undesired outcomes, the strongest contrast in the study](valence-benchmark-contrast.md) — related
 - [STEM field benchmarks differ markedly: science shows the largest quartiles and mathematics the smallest](stem-field-benchmark-heterogeneity.md) — related
 - [Cognitive, metacognitive, and strategic learning supports show the largest intervention-category benchmarks, while assessment and contextual interventions show the smallest](intervention-category-benchmark-heterogeneity.md) — related
+- [Bias-adjusted posterior-predictive benchmarks for STEM moderator effect sizes (0.18, 0.38, 0.64 at the 25th, 50th, 75th percentiles) fall below both Cohen's conventional thresholds and raw empirical quartiles](bias-adjusted-moderator-benchmarks-stem.md) — related

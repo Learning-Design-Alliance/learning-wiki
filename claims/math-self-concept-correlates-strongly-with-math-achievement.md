@@ -57,3 +57,4 @@ The authors read the pattern through the internal/external frame of reference mo
 - [Need for cognition correlates moderately with mathematics achievement (r = .25)](need-for-cognition-correlates-moderately-with-math-achievement.md) — related
 - [Self-regulation and metacognition correlate strongly with mathematics achievement (r = .42 and .37)](self-regulation-and-metacognition-correlate-strongly-with-math-achievement.md) — related
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
+- [Students' math and verbal self-concepts are near-zero correlated even though their math and verbal achievement levels are strongly positively correlated](ipd-meta-near-zero-self-concept-correlation-strong-achievement-correlation.md) — related

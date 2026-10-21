@@ -96,3 +96,4 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [No significant gender differences on anxiety or reading measures at either time point](no-gender-differences-anxiety-reading-measures.md) — related
 - [Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)](small-significant-gender-gap-ct-overall.md) — related
 - [No statistically significant sex differences in the direct associations among EF, task orientation, and mathematics or in the mediating effect of task orientation](no-sex-differences-ef-task-orientation-math-pathways.md) — related
+- [Males show a small overall advantage in mathematics performance (d = 0.083) across studies published 2010–2022](small-overall-male-advantage-mathematics-meta-analysis.md) — related

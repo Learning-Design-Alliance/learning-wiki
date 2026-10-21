@@ -49,3 +49,4 @@ The fully unconditional HLM model on 3,803 observations from 137 students showed
 - [Physics understanding difficulty is a stronger predictor of in-game persistence than game mechanics difficulty in Physics Playground](pu-difficulty-stronger-than-gm-predicts-persistence.md) — related
 - Weekly group data on PBL interactions showed substantial between-group variability (ICC 0.4), requiring multilevel growth models — related
 - [Game mechanics difficulty positively predicts persistence in Physics Playground problems](gm-difficulty-positively-predicts-persistence.md) — related
+- [Label-effect sizes are highly heterogeneous, with variance split between and within studies](label-effect-heterogeneity-multilevel-variance.md) — related

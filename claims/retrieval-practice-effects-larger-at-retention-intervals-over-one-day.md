@@ -66,3 +66,4 @@ In the same meta-analysis reported by the chapter, the effect at "tion intervals
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) — related
 - [Retention interval moderates the testing effect: effects are larger after a day or more than at shorter intervals, where individual studies vary from reliable to null or reversed](retention-interval-moderates-testing-effect.md) — related
 - [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](retention-interval-one-to-six-days-largest.md) — related
+- [Retrieval interval length may moderate the testing effect in mathematics: restricting to intervals over one day raises the effect to g = 0.378 (exploratory).](retrieval-interval-moderator-testing-mathematics.md) — related

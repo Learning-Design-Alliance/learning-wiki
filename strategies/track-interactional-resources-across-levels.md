@@ -39,6 +39,7 @@ The article recommends that CSCL research generate, compile and analyze data she
 ## Related Strategies
 
 - [Use fine-grained observation of real-time teacher and student behavior in video-guided coaching to analyze interactional fit](video-guided-coaching-real-time-behavior-observation.md)
+- [Integrate physiological, dialog, video, and self-report data to analyze collaboration at individual and group levels](multimodal-data-integration-collaborative-learning.md)
 
 ## Examples
 -

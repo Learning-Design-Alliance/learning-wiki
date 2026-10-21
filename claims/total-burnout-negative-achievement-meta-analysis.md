@@ -48,3 +48,4 @@ Robust variance random-effects meta-analysis of 29 studies reporting 89 effect s
 - [Gender, achievement-measure objectivity, and education stage did not moderate the burnout–achievement relationship](no-moderation-gender-objectivity-stage.md)
 - [Reduced efficacy shows the largest negative correlation with academic achievement (rc+ = −.39)](reduced-efficacy-largest-negative-achievement.md)
 - [Cynicism is significantly negatively related to academic achievement (rc+ = −.24)](cynicism-negative-achievement.md) — related
+- [Teacher ill-being shows a small negative association with student motivation and achievement (r = –.13)](teacher-ill-being-negative-student-outcomes-r13.md) — related

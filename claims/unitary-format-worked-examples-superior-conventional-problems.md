@@ -47,3 +47,4 @@ Experiments 4 and 5 with school students learning circle geometry, reported in t
 - [Under many circumstances, studying worked examples produced superior learning compared to active problem solving, as suggested by previous research](worked-examples-superior-to-problem-solving-many-circumstances.md) — a broader claim this one bears on
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — related
 - [Variability of practice interacts with problem format: high variability aids learning from worked examples but harms learning from conventional problems](variability-effect-format-interaction.md) — related
+- [The worked example effect failed to replicate for geometry and kinematics problems, and was reinstated when worked examples were restructured to reduce split attention](worked-example-effect-split-attention-replication-history.md) — related

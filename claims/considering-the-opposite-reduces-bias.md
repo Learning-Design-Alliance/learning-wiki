@@ -69,3 +69,5 @@ This PRISMA-based systematic review screened 86 articles down to 12 studies (17 
 - [Ammons's influential 1956 review concluded that feedback improves learning and motivation without considering the contradictory evidence available to him](ammons-review-ignored-contradictory-evidence.md) — related
 - [Learners design poor experiments: confirmation bias, inconclusive designs, and ineffective variable manipulation are common](poor-experiment-design-in-discovery.md) — related
 - [Programs should facilitate cognitive disequilibrium so students question ethnocentric views and consider other cultural perspectives](programs-facilitate-cognitive-disequilibrium-ethnocentric-views.md) — related
+- [Anchoring-and-adjusting perspective taking saves effort but adjustments systematically fall short](anchoring-adjustment-insufficient.md) — related
+- [Boundary conditions: some biases fit the two meta-biases only with argument or for some subgroups](meta-bias-boundary-conditions.md) — related

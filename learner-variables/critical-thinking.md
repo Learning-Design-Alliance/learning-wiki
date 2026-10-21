@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 55 claims (38 show a difference, 12 mixed, 5 no difference) · 45 studies (15 causal, 9 associational, 8 review, 5 qualitative, 4 theoretical, 3 design, 1 quant-synthesis), `q1`–`q3` · 9 of 45 report an effect size · 53 claims rest on one study
+> **Evidence** · 56 claims (39 show a difference, 12 mixed, 5 no difference) · 46 studies (15 causal, 9 review, 9 associational, 5 qualitative, 4 theoretical, 3 design, 1 quant-synthesis), `q1`–`q3` · 9 of 46 report an effect size · 54 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -95,6 +95,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing](../claims/metacognition-critical-thinking-writing-correlations.md) [+M] — learners who differ on it differ in outcomes
 - [Metacognition is significantly and positively associated with EFL students' critical thinking skills (Model 2)](../claims/metacognition-positively-associated-critical-thinking.md) [+M] — learners who differ on it differ in outcomes
 - [Effects of P(j)BL on CT are mixed across studies, with positive, null, and negative findings reported](../claims/pjbl-ct-effects-mixed.md) [~M] — instruction changes it
+- [Evaluative questions elicit more historical reasoning than explanatory questions](../claims/evaluative-questions-elicit-more-historical-reasoning.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

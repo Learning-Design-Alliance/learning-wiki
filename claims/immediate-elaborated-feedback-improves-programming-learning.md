@@ -52,3 +52,4 @@ Narrative review attribution: the review reports, citing Hooshyar et al. [125], 
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — a broader claim this one bears on
 - [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — related
 - [Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest](incidental-vocabulary-retention-problems.md) — related
+- [ManyClasses study found no effect of delayed versus immediate feedback or study incentives across 38 classrooms](manyclasses-no-feedback-timing-incentive-effect.md) — reports the opposite

@@ -130,3 +130,5 @@ The review reports Spanjers et al.'s (2010) experiment on probability calculatio
 - [Lesson variability benefits transfer only in combination with worked-example instruction, as shown by a variability-by-instruction interaction](example-variability-interaction-with-cognitive-load.md) — related
 - [High experienced effort-by-complexity is not necessarily indicative of better learning outcomes](high-effort-not-indicative-better-learning.md) — related
 - [Successful low-prior-knowledge inquiry learners managed cognitive load by exploring simple circuits first and pausing during learning](cognitive-load-management-in-inquiry-simulation-learning.md) — a narrower finding that bears on this claim
+- [Element interactivity and expertise reversal effects: cognitive load effects diminish and may reverse as expertise increases because known elements chunk into single elements](expertise-reversal-effect-element-interactivity.md) — a broader claim this one bears on
+- [A tracing strategy combining segmentation and prediction produced more efficient learning than a non-interactive instructional condition](tracing-strategy-segmentation-prediction-efficiency.md) — related

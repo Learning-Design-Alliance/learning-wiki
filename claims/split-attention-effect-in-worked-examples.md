@@ -85,3 +85,4 @@ The review reports, citing Tarmizi and Sweller, that Experiments 4 and 5 with an
 - [Variability of practice interacts with problem format: high variability aids learning from worked examples but harms learning from conventional problems](variability-effect-format-interaction.md) — related
 - [Lesson variability benefits transfer only in combination with worked-example instruction, as shown by a variability-by-instruction interaction](example-variability-interaction-with-cognitive-load.md) — related
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — related
+- [The worked example effect failed to replicate for geometry and kinematics problems, and was reinstated when worked examples were restructured to reduce split attention](worked-example-effect-split-attention-replication-history.md) — possibly the same claim (merge candidate)

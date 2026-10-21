@@ -46,3 +46,4 @@ Mixed-design ANOVA on the 63-item Self-Regulation Questionnaire (pilot reliabili
 - [Unscaffolded GenAI access did not significantly change pre-service teachers' self-regulated learning relative to traditional learning](unscaffolded-genai-no-srl-change.md) — reports the opposite
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
+- [Generative AI support can foster self-regulated learning more effectively than traditional AI-based implementations](generative-ai-supports-self-regulated-learning.md) — related

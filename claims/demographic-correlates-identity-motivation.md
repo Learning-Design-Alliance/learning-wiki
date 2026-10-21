@@ -51,3 +51,4 @@ Initial descriptive correlational analyses (Table 1) of the 600-adolescent sampl
 - [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](moderated-mediation-belonging-srl-efficacy.md) — related
 - [Self-efficacy did not significantly moderate the mediation of the value-to-mastery relation through SRL](no-efficacy-moderation-value-path.md) — related
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
+- [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](limited-demographic-moderators.md) — related

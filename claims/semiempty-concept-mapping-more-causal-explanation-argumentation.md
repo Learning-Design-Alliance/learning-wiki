@@ -48,3 +48,5 @@ Chi-square analysis of coded interaction utterances from 10 randomly chosen dyad
 - [Semiempty concept mapping dyads use substantive historical and metahistorical concepts more often than summary-writing dyads](concept-mapping-more-historical-metahistorical-concepts.md) — related
 - [Interaction during semiempty concept mapping shows higher transactivity: less elicitation and more externalization and integration than summary writing](concept-mapping-higher-transactivity-integration.md) — related
 - [Concept-mapping dyads produce significantly more re-elaborations (corrections and precisions) of partners' ideas, an indicator of collaborative historical reasoning](concept-mapping-more-re-elaboration-causal-relationships.md) — related
+- [Evaluative questions elicit more historical reasoning than explanatory questions](evaluative-questions-elicit-more-historical-reasoning.md) — related
+- [Teacher-guided whole-class discussions show more contextualization, explanatory questions, and abstract concepts than student dyad discussions](whole-class-more-contextualization-than-dyads.md) — related

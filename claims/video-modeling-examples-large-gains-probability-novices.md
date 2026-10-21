@@ -66,3 +66,4 @@ Same mixed ANOVA on the two near transfer items: posttest (M = 1.85) significant
 - [Model gender and observer gender do not affect learning outcomes or near transfer from video modeling examples](no-gender-effects-learning-transfer-video-modeling.md) — related
 - [Studying instructional and video modeling examples improved heredity problem-solving performance and self-assessment accuracy from pretest to posttest](video-modeling-pretest-posttest-gains.md) — related
 - [Observing a male model enhances perceived competence more from pretest to posttest than observing a female model, for both male and female observers](male-model-boosts-perceived-competence.md) — related
+- [Alternating observation and performance in dyads yielded better transfer than individual practice or a control condition in a video-game task](dyad-observation-performance-alternation-transfer.md) — related

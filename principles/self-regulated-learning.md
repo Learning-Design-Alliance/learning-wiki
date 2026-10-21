@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 134 claims (58 for, 69 mixed, 7 against) · 94 studies (31 causal, 18 review, 17 associational, 14 quant-synthesis, 10 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 26 of 94 report an effect size · 123 claims rest on one study
+> **Evidence** · 138 claims (59 for, 72 mixed, 7 against) · 97 studies (31 causal, 20 review, 17 associational, 15 quant-synthesis, 10 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 27 of 97 report an effect size · 127 claims rest on one study
 
 ## Conditional relationship
 
@@ -226,6 +226,10 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [SRL training programs targeting older students and students with lower prior academic achievement show larger effects on resource management strategies](../claims/student-characteristics-moderate-resource-management-effects.md) [~W]
 - [Task motivation and time on task are proposed as factors potentially influencing SRL intervention effectiveness](../claims/task-motivation-time-on-task-moderators-hypothesis.md) [~W]
 - [Metacognitive and composite SRL strategy measures show the strongest relationships with learning performance in continuing education](../claims/srl-strategy-type-performance-differences.md) [~W]
+- [Monitoring accuracy interventions show larger effects in laboratory settings than in classroom settings, but classroom effects remain significantly positive](../claims/laboratory-larger-effects-than-classroom-monitoring-accuracy-interventions.md) [~W]
+- [Reflection prompts combined with tutor feedback had positive effects on the development of students' self-regulated learning competence](../claims/reflection-prompts-tutor-feedback-self-regulation.md) [+W]
+- [Metacognition and comprehension strategy use are weakly to moderately associated with intertextual integration among K-12 students](../claims/metacognition-strategy-use-correlates-intertextual-integration.md) [~W]
+- [Interventions to improve monitoring accuracy in problem-solving tasks have a small positive overall effect (g = 0.25)](../claims/monitoring-accuracy-interventions-small-positive-effect-problem-solving.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 93 claims (64 show a difference, 17 mixed, 12 no difference) · 62 studies (22 causal, 19 associational, 9 quant-synthesis, 6 review, 3 design, 3 theoretical), `q1`–`q4` · 22 of 62 report an effect size · 88 claims rest on one study
+> **Evidence** · 95 claims (65 show a difference, 18 mixed, 12 no difference) · 64 studies (22 causal, 19 associational, 9 quant-synthesis, 8 review, 3 design, 3 theoretical), `q1`–`q4` · 22 of 64 report an effect size · 90 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -131,6 +131,8 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [The genre-by-generation-task interaction: sentence unscrambling beats letter completion in expository texts, and letter completion beats sentence unscrambling descriptively in narratives](../claims/genre-by-generation-task-interaction-map.md) [~M] — instruction changes it
 - [Educational technology interventions show positive effects on writing proficiency in elementary school](../claims/edtech-positive-effects-writing-proficiency.md) [+M] — instruction changes it
 - [Writing shows the strongest FMS correlation among academic domains, exceeding reading](../claims/writing-strongest-academic-domain-fms.md) [+M] — learners who differ on it differ in outcomes
+- [Generative AI use shows divergent effects on creativity: weakened creative writing but increased creative problem-solving and idea quality](../claims/generative-ai-creativity-divergent-effects.md) [~M] — instruction changes it
+- [Students' historical argumentation rarely includes counterarguments or weighing of arguments](../claims/students-argumentation-lacks-counterarguments.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

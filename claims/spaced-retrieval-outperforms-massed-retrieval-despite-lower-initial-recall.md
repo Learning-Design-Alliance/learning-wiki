@@ -104,3 +104,4 @@ In the same Karpicke and Bauernschmidt (2011) experiment, as the chapter reports
 - [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](testing-effect-persists-without-immediate-feedback.md) — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — possibly the same claim (merge candidate)
+- [Spaced practice produces a robust small-to-medium retention advantage over massed practice for mathematics learning overall (g = 0.26).](spacing-effect-mathematics-overall-meta-analysis.md) — related

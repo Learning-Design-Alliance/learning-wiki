@@ -50,3 +50,4 @@ In the same experiment's RQ2 results, the ai draft condition's idea attribution 
 - [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](synchronous-suggestions-shape-subsequent-writing.md) — related
 - [LLM-group participants reported low ownership of their essays and fell behind in their ability to quote from essays written minutes earlier](llm-group-low-ownership-poor-quoting-own-essays.md) — related
 - Evaluators attribute substantially less ownership to writers who used GenAI ideas, but impose only a marginal profit-sharing penalty — related
+- [AI ghostwriter effect: users do not claim ownership of AI-generated texts yet fail to publicly acknowledge the AI's contribution](ai-ghostwriter-effect-nonacknowledgment.md) — related

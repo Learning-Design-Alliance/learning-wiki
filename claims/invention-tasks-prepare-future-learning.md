@@ -73,3 +73,4 @@ Open questions include how much scaffolding invention tasks should provide, how 
 - [Exploration-first students transfer MVC-strategy Efficiency better, with condition-by-Task-2 interactions for Efficiency and Quality](exploration-first-transfers-mvc-efficiency.md) — a narrower finding that bears on this claim
 - [Success in developing the canonical solution is not a necessary condition for learning from generation, but failure is not claimed to be indispensable either](canonical-success-not-necessary-for-learning.md) — related
 - [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) — related
+- [Sequencing of exploration and explicit instruction shows inconsistent results, moderated by task complexity per the expertise reversal account](exploration-first-versus-instruction-first-sequencing-mixed.md) — related

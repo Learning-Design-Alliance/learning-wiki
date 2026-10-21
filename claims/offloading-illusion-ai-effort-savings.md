@@ -54,3 +54,4 @@ Study 2 completion/prediction samples measured subjective mental effort with the
 - [No differences were found on mental effort during instruction or on transfer across illusion-of-control and instruction-method conditions](no-mental-effort-differences.md) — related
 - [People use AI on simple tasks at a rate significantly higher than they predict for themselves (self-estimate miscalibration), especially on easy task variants](self-estimate-miscalibration-ai-use-simple-tasks.md) — related
 - [Participants more averse to thinking are more susceptible to the speedup illusion; AI familiarity measures do not predict calibration error](thinking-aversion-predicts-speedup-illusion.md) — related
+- [AI-related placebo effects lead users to overestimate their own abilities while or after being assisted by an AI](ai-placebo-effect-overestimation.md) — related

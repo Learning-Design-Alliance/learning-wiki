@@ -58,3 +58,4 @@ The authors note that these correlations run against the expectation that numeri
 - [Kindergarten predictors correlate robustly with grade 1 math outcomes, weakest for computation](predictor-outcome-correlations-weakest-computation.md) — related
 - [Number naming and number comparison are better predictors of kindergarten arithmetic than number line estimation](number-naming-comparison-better-predictors-than-number-line-estimation.md) — related
 - [The association between numerical magnitude processing and subtraction is more prominent for items eliciting indirect addition than for direct subtraction items](magnitude-processing-stronger-indirect-addition-items.md) — related
+- [Arithmetic skill may predict algebra understanding better than fraction conceptual knowledge or magnitude understanding](arithmetic-predicts-algebra-better-than-fraction-knowledge.md) — related

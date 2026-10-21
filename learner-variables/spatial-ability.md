@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 30 claims (24 show a difference, 2 mixed, 4 no difference) · 19 studies (10 associational, 4 causal, 2 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 4 of 19 report an effect size · 29 claims rest on one study
+> **Evidence** · 34 claims (26 show a difference, 3 mixed, 5 no difference) · 20 studies (10 associational, 5 causal, 2 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 5 of 20 report an effect size · 33 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -66,6 +66,10 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Effects of two-dimensional mental rotation training on children's mathematics performance are mixed, with significant correlations between rotation and mathematics measures](../claims/2d-rotation-training-math-effects-mixed.md) [~M] — learners who differ on it differ in outcomes
 - [Longitudinal evidence shows spatial ability predicts STEM educational and occupational outcomes beyond mathematical and verbal ability](../claims/spatial-ability-longitudinal-stem-prediction.md) [+M] — learners who differ on it differ in outcomes
 - [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](../claims/spatial-ability-correlates-stem-performance.md) [+M] — learners who differ on it differ in outcomes
+- [In a visual-spatial integration task, the interaction between visual-spatial working memory capacity and visual design is quadratic, with the inverted-U progression more strongly accentuated for the dynamic design](../claims/quadratic-ati-spatial-ability-visual-design-study1.md) [+M] — an instructional effect differs with it
+- [In the mental integration task, low-span and high-span groups showed no significant static-vs-dynamic differences (d = 0.09 and d = 0.03)](../claims/low-high-span-no-design-difference-study1.md) [-W] — an instructional effect differs with it
+- [In the mental integration task, the static-vs-dynamic difference was descriptively largest for the medium-span group but only marginal (d = 0.20, p = .062)](../claims/medium-span-largest-descriptive-difference-study1.md) [~W] — an instructional effect differs with it
+- [Reanalysis of pooled data from four multimedia learning experiments found quadratic interactions, with the largest design difference at medium ability](../claims/pooled-reanalysis-quadratic-interactions-multimedia.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

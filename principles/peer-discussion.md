@@ -22,7 +22,7 @@ sources:
 # Peer Discussion
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (9 for, 14 mixed, 1 against) · 33 studies (12 causal, 8 quant-synthesis, 8 review, 3 associational, 2 theoretical), `q1`–`q4` · 10 of 33 report an effect size · 15 claims rest on one study
+> **Evidence** · 25 claims (9 for, 15 mixed, 1 against) · 34 studies (12 causal, 9 review, 8 quant-synthesis, 3 associational, 2 theoretical), `q1`–`q4` · 10 of 34 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,6 +110,7 @@ An immediate isomorphic-question gain, delayed retention, transfer to an unfamil
 - [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](../claims/partner-confidence-no-effect-on-change.md) [~W]
 - [In the pre-study, dyads using the DDR script were far more likely to integrate their partner's evidence into their answers on the main topic question](../claims/prestudy-ddr-perspective-integration.md) [+W]
 - [The script improved adherence to the prescribed order of grounding discussions before group activities, with an additional effect of the structured interface](../claims/script-improves-adherence-activity-order.md) [+W]
+- [Quality of explanations is higher in groups containing above-average students than in groups without them](../claims/group-expertise-raises-explanation-quality.md) [~W]
 
 ## Related Principles
 - [Peer Feedback/Peer Review](peer-learning.md) — feedback is one specific form of peer discussion centered on improvement of work.

@@ -13,7 +13,7 @@ generated:
 # Physical Education
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 12 studies (5 quant-synthesis, 4 review, 2 causal, 1 associational), `q2`–`q4` · 4 of 12 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 13 studies (5 quant-synthesis, 4 review, 3 causal, 1 associational), `q2`–`q4` · 4 of 13 report an effect size · 4 claims rest on one study
 
 ## Description
 Physical Education is a curricular domain in which the primary content is movement itself: motor skills, game tactics, physical fitness, and health-related dispositions. Because performance is embodied and immediate, PE relies on instructional elements — demonstration, practice, feedback, and game play — that operate in real time and in shared physical space, making it a distinctive context for applying learning design principles.
@@ -56,6 +56,7 @@ Effective PE instruction sequences observation, guided practice, and application
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [In adolescents, physical fitness components except balance are positively associated with academic achievement, with aerobic endurance the strongest (r=0.49)](../claims/pf-components-associated-adolescent-academic-achievement.md) [~W]
 - [Comparative studies commonly show TGAs improving tactical skill, skill execution, affective, procedural knowledge and/or physical activity, while TAs improve skill execution and technical skill](../claims/tga-vs-ta-outcome-patterns-pe-review.md) [~W]
+- [Slalom dribbling improves equally with basketball mathematics and basketball-only PE, and not in regular PE](../claims/slalom-dribbling-improves-bm-and-bcon-equally.md) [+W]
 
 ## The evidence by question
 - *Does feedback improve physical and motor skill outcomes, and does letting learners decide when they receive it help?* [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](../claims/feedback-outcome-measure-moderator-cognitive-physical.md) [+M]

@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 75 claims (35 for, 38 mixed, 2 against) · 57 studies (31 causal, 10 quant-synthesis, 9 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 17 of 57 report an effect size · 66 claims rest on one study
+> **Evidence** · 78 claims (36 for, 40 mixed, 2 against) · 59 studies (32 causal, 10 quant-synthesis, 10 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 17 of 59 report an effect size · 69 claims rest on one study
 
 ## Description and scope
 
@@ -140,6 +140,9 @@ This pattern is scoped to explanations of structures, processes and relations pr
 
 - [Cognitive skills are the most probable student characteristic to modify picture effects: low math performers do better without representational pictures, low reading-comprehension students better with them](../claims/cognitive-skills-moderate-picture-effects.md) [~W]
 - [Affective variables and gender do not relate to picture effects on elementary schoolers' word problem-solving performance](../claims/affective-gender-no-moderation.md) [~W]
+- [Learner-controlled pacing of a video model was heavily used and associated with better understanding of underlying processes and less practice time, especially as task difficulty increased](../claims/pacing-control-video-model-understanding.md) [+W]
+- [The mental integration task showed no general advantage of the dynamic over the static visual design in overall accuracy](../claims/no-general-dynamic-advantage-mental-integration.md) [~W]
+- [A tracing strategy combining segmentation and prediction produced more efficient learning than a non-interactive instructional condition](../claims/tracing-strategy-segmentation-prediction-efficiency.md) [~W]
 
 ## Examples
 

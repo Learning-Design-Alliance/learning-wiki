@@ -55,3 +55,4 @@ Follow-up regression with retrospective appraisal as criterion showed Overall Ac
 - [Lower (better) retrospective discrepancy scores predict higher metacognitive sensitivity on a memory task](retrospective-discrepancy-predicts-metacognitive-sensitivity.md) — related
 - [Social comparison information affects the magnitude of metacognitive judgments, with greater magnitude for higher peer performance](social-comparisons-affect-metacognitive-judgments.md) — related
 - [Collecting metacognitive judgments did not disrupt typical strategy selection and execution: both age groups selected the better strategy more on rounding-up homogeneous problems and executed rounding-down faster on homogeneous problems](problem-features-replicated-strategy-selection-execution.md) — related
+- [Monitoring accuracy interventions are more effective for retrospective confidence judgments than for judgments of learning](interventions-more-effective-rcj-than-jol.md) — related

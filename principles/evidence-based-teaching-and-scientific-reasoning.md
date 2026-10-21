@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (14 for, 10 mixed, 2 against) · 25 studies (8 review, 6 causal, 5 associational, 3 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 25 report an effect size · 24 claims rest on one study
+> **Evidence** · 28 claims (15 for, 11 mixed, 2 against) · 27 studies (8 review, 6 causal, 5 associational, 5 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 27 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,7 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - No active learning intervention study in the Freeman et al. (2014) set or the 2015–2022 sample met all 12 internal validity controls [+W] — attached 2026-10-20 from Amedee Marchand Martella et al. (2023), which proposed "Active learning intervention studies should incorporate internal validity controls such as randomization, group equivalence checks, matched instructors, dosage matching, and implementation fidelity assessment".
 - Implementation fidelity was assessed in fewer than 8% of active learning intervention studies [+W] — attached 2026-10-20 from Amedee Marchand Martella et al. (2023), which proposed "Active learning intervention studies should incorporate internal validity controls such as randomization, group equivalence checks, matched instructors, dosage matching, and implementation fidelity assessment".
 - [Only four included articles achieved theoretical grounding with empirical validation](../claims/eer-few-empirically-validated-theory.md) [+W] — attached 2026-10-21 from Vorderobermeier et al. (2024), which proposed "Interweave theory, didactic instruction, and practice in future EER research and development".
+- [Program-based studies cannot isolate the effect of inquiry-based instruction because they vary many program elements simultaneously](../claims/program-based-studies-cannot-isolate-inquiry-effect.md) [+W] — attached 2026-10-21 from Lin Zhang et al. (2022), which proposed "Educational standards should represent a balanced view of all available research categories rather than relying on one methodology".
 
 ## Objective and learner-valued goal
 
@@ -179,6 +180,7 @@ Choosing on evidence, the quality of the evidence chosen on, the outcome for lea
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](../claims/psm-baseline-equivalence-mtss-study.md) [~W]
 - [The evidence base for Read, Write & Type!™ is a single small-extent randomized trial, limiting confidence in the effectiveness ratings](../claims/rwt-evidence-base-single-small-trial.md) [~W]
 - [About two-thirds of Freeman et al. (2014) articles reported results favoring only the active learning group, but most comparisons were active learning versus lecture with weak internal validity controls](../claims/active-learning-results-favor-experimental-group.md) [~M]
+- [About one-third of surveyed educators report that research is not localized enough to guide their school problems](../claims/educators-find-research-insufficiently-localized.md) [~W]
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)

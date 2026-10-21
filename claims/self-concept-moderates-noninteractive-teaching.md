@@ -49,3 +49,4 @@ The review's ability-beliefs section reports Jacob et al. (2020b), a study after
 - [Prior knowledge moderates non-interactive teaching: low conceptual knowledge learners profit more, but very low-knowledge learners may not benefit at all](prior-knowledge-moderates-noninteractive-teaching.md) — related
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related
 - [High levels of induced social presence during non-interactive teaching can impair learning relative to restudy (a double-edged sword)](social-presence-double-edged-sword-noninteractive-teaching.md) — related
+- [Non-interactive teaching was not generally more effective than restudy, but was more effective in humanities, upper secondary education, and when graded](non-interactive-teaching-not-generally-more-effective-moderated.md) — related

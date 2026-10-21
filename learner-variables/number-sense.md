@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 70 claims (48 show a difference, 14 mixed, 8 no difference) · 28 studies (16 associational, 5 causal, 2 qualitative, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 11 of 28 report an effect size · 68 claims rest on one study
+> **Evidence** · 71 claims (48 show a difference, 14 mixed, 9 no difference) · 29 studies (16 associational, 5 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 11 of 29 report an effect size · 69 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -105,6 +105,7 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [The authors hypothesize DD children's first deficit is dysfunction in building the exact representation of symbolic numbers, with reduced ANS acuity as a consequence rather than a cause](../claims/dd-first-deficit-exact-representation-ans-secondary.md) [+W] — learners who differ on it differ in outcomes
 - [Training effects on the non-symbolic number line are size-specific: non-symbolic training improves large numerosities, symbolic training small numerosities](../claims/number-line-training-size-specific-effects.md) [~M] — instruction changes it
 - [Typically achieving children outperform children with mathematical learning difficulties on the SYMP one-digit subtest in Grades 1–5 and the two-digit subtest in Grades 2–5, but not in Grade 6](../claims/symp-mld-lower-except-grade-6.md) [~M] — instruction changes it
+- [Arithmetic skill may predict algebra understanding better than fraction conceptual knowledge or magnitude understanding](../claims/arithmetic-predicts-algebra-better-than-fraction-knowledge.md) [-W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

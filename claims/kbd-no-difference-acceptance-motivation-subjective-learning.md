@@ -71,3 +71,4 @@ Welch t-test on the Perceived Competence subscale; the control group (M = 4.71, 
 - [Qualitative transcript analysis showed the KBD robot used Socratic questioning, slide-grounded sourced claims, and explained feedback far more often, while the control robot produced false statements and never cited sources](kbd-manipulation-check-behavioral-differences-transcripts.md) — related
 - [Adaptive versus non-adaptive ITS condition showed no significant differences in mental effort, subjective difficulty, or enjoyment](adaptive-its-no-difference-cognitive-load-enjoyment.md) — related
 - [Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset](ai-tutor-engagement-motivation-higher.md) — related
+- [In-session autonomy, competence and intrinsic motivation are higher during basketball mathematics than during classroom mathematics](higher-in-session-motivation-during-basketball-mathematics.md) — related

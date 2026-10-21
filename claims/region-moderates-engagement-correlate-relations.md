@@ -49,3 +49,4 @@ Moderator analyses tested gender, age, grade level, publication status, publicat
 - [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related
 - Research on K‑5 writing motivation self‑reports grew sharply after 2009 and is geographically concentrated in North America and Asia — related
 - [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related
+- [The magnitude of sex differences in mathematics varies across geographical regions, with larger estimated effects in Central Europe (d = 0.164) and Central and South America (d = 0.153) than in North America (d = 0.047)](geographic-region-moderation-sex-differences-mathematics.md) — related

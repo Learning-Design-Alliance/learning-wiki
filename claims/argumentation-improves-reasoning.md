@@ -110,3 +110,5 @@ Over several years, two cohorts of young adolescents argued about social issues 
 - [Adolescents who engaged in reflective activities alongside dialogic argumentation showed greater gains in using evidence to weaken the opposing position than peers who only argued](reflection-boosts-weakening-other-argument-skill.md) — related
 - [Conceptualizations of critical thinking lack precision, reduce CT to cognitive skills, and are constrained by narrow criteriological and normative perspectives](ct-conceptualizations-narrow-criteriological.md) — related
 - [Prompts and scaffolds for paraphrasing, criticizing, questioning, and synthesizing arguments produce significantly more domain-specific and domain-general knowledge](argumentation-prompts-scaffolds-knowledge-gains.md) — related
+- [Boundary conditions: some biases fit the two meta-biases only with argument or for some subgroups](meta-bias-boundary-conditions.md) — related
+- [Students' historical argumentation rarely includes counterarguments or weighing of arguments](students-argumentation-lacks-counterarguments.md) — related

@@ -47,3 +47,4 @@ Exploratory logistic regression (McFadden's pseudo-R² = 0.091, AIC = 118.32) pr
 - [GBL approaches are more prevalent in informal settings while gamification dominates formal classrooms in robotics education](gbl-informal-gamification-formal-robotics-coupling.md) — related
 - [Gamified robotics studies skew toward higher programming/software development skill tiers than GBL studies](gamified-studies-higher-programming-skill-tiers.md) — related
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
+- [Both publication year and journal five-year impact factor statistically significantly predict adherence to intensive longitudinal reporting guidelines](ilm-year-impact-factor-predict-adherence.md) — related

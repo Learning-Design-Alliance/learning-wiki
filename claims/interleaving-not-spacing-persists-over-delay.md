@@ -56,3 +56,4 @@ Narrative synthesis of seven studies with longer retention intervals (24 hours t
 - [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](alternating-example-problem-pairs.md) — related
 - [The interleaving benefit appears in three of four problem-type-by-delay comparisons; the slope-problem effect at 1 day was not statistically significant](interleaving-benefit-by-problem-type-and-delay.md) — related
 - [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](larger-spacing-better-interleaved-induction.md) — related
+- [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — related

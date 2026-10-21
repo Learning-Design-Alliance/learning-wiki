@@ -47,3 +47,4 @@ A 2024 Digital Promise survey sample of teachers in Jefferson County, Kentucky, 
 - Participating schools report more positive teacher and staff perceptions of teaching and learning conditions — related
 - [Most teachers and principals reported satisfaction with professional opportunities, school environment, and the TIF program](tif-most-educators-satisfied.md) — related
 - [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](vils-coach-time-associated-better-teaching-outcomes.md) — related
+- [Teachers' job satisfaction is negatively associated with turnover intentions (pooled r = −0.46)](job-satisfaction-negative-turnover-intentions.md) — related

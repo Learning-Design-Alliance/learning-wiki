@@ -70,3 +70,4 @@ The essay's synthesis of critique literature (Johnson, 2022; Matthews et al., 20
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — a broader claim this one bears on
 - [Expressive Writing Improves Health Outcomes](expressive-writing-improves-health-outcomes.md) — related
+- [The review reports that a brief values-affirmation writing assignment raised Black students' semester grades, narrowing the Black-White achievement gap](values-affirmation-grade-gains-reported.md) — related

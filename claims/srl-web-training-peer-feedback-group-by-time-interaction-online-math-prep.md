@@ -115,3 +115,4 @@ Follow-up univariate repeated-measures ANOVAs in the same randomized trial: SRL 
 - [LASSI Self-Regulation cluster scores showed the greatest pre/post gain among coached students, with increasing trends in all three clusters](lassi-self-regulation-gains-adhd-coaching.md) — related
 - [The intervention did not increase students' SRL aptitude, yet supported higher course grades](regulatory-support-no-increase-srl-aptitude.md) — related
 - [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](no-academic-performance-improvement.md) — reports the opposite
+- [Time management interventions show conflicting evidence for raising self-efficacy](time-management-interventions-self-efficacy-mixed.md) — related

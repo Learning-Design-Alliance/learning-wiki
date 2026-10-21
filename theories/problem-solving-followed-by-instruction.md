@@ -17,7 +17,7 @@ sources:
 # Problem-Solving Followed by Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 43 claims (14 for, 21 mixed, 8 against) · 25 studies (18 causal, 3 review, 3 theoretical, 1 quant-synthesis), `q1`–`q4` · 10 of 25 report an effect size · 42 claims rest on one study
+> **Evidence** · 44 claims (14 for, 22 mixed, 8 against) · 26 studies (18 causal, 4 theoretical, 3 review, 1 quant-synthesis), `q1`–`q4` · 10 of 26 report an effect size · 43 claims rest on one study
 
 ## Description
 Problem-solving followed by instruction (PS-I, closely related to "productive failure") reverses the conventional tell-then-practice sequence: students first attempt a problem — typically without succeeding at a canonical solution — and only afterward receive direct instruction on the correct method. The prior attempt activates relevant prior knowledge, surfaces students' own (often suboptimal) representations, and raises motivation to learn the canonical method by making its advantages concrete rather than abstract. A meta-analysis across 166 comparisons found PS-I outperforms instruction-first sequencing with Hedge's g=0.36 [95% CI 0.20, 0.51] (Sinha & Kapur, 2021). The underlying attempt can be left unguided ("productive failure" proper, where students generate as many solution representations as they can) or shaped by scaffolds that deliberately steer students toward specific representations before instruction corrects them — see [Failure-Driven Scaffolding](../strategies/failure-driven-scaffolding.md).
@@ -79,6 +79,7 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 - [The proposed cognitive mechanisms explain both positive and negative effects of PS-I](../claims/mechanisms-explain-positive-and-negative-ps-i-effects.md) [~W]
 - [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](../claims/no-posttest-differences-mvc-convergence.md) [~W]
 - [Neither the quantity nor the quality of PF students' own solution attempts correlated with their conceptual knowledge acquisition](../claims/solution-attempts-not-correlated-with-conceptual-knowledge.md) [-W]
+- [Sequencing of exploration and explicit instruction shows inconsistent results, moderated by task complexity per the expertise reversal account](../claims/exploration-first-versus-instruction-first-sequencing-mixed.md) [~W]
 
 ## The evidence by question
 

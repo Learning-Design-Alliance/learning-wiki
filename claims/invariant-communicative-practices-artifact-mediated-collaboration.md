@@ -46,3 +46,4 @@ Grounded-theory video analysis of six pairs of community college and university 
 - [Student dyads given planning software enacted changed practices not intended by designers or facilitators](planning-software-enactment-practices-changed-unintended.md) — related
 - [Participants used a limited, polymorphic repertoire of materials, gestures and symbols whose meanings were context-derived](limited-polymorphic-repertoire-written-collaboration.md) — a narrower finding that bears on this claim
 - [Written media afford simultaneous production and comprehension, which pairs appropriate to manage multiple discussion threads](written-media-simultaneity-multiple-threads.md) — a narrower finding that bears on this claim
+- [Teacher-guided whole-class discussions show more contextualization, explanatory questions, and abstract concepts than student dyad discussions](whole-class-more-contextualization-than-dyads.md) — related
