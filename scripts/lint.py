@@ -888,6 +888,35 @@ def check_evidence_dimensions(pages: dict[str, Path]) -> list[dict]:
     return issues
 
 
+# A review's set of included studies filed as a product ("corpus of 36 studies"), and design-based
+# research filed as a research method. Both were written by batches against the maintainer's rules
+# (products and research-methods, 2026-10-10; DBR is a process, 2026-10-20); settle_candidates now
+# refuses them, and this keeps a batch from bringing them back.
+_NUM = r"(?:\d[\d,]*|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)"
+REVIEW_CORPUS_RE = re.compile(
+    rf"\b{_NUM}\s+(?:[\w'-]+\s+){{0,6}}?(?:studies|articles|papers|reports|documents)\b"
+    r"|\bPRISMA(?!-LLM)|review corpus|evidence corpus|meta-analytic (?:corpus|dataset|evidence base)", re.I)
+DBR_RE = re.compile(r"design[- ]based research", re.I)
+
+
+def check_misfiled_kind(pages: dict[str, Path]) -> list[dict]:
+    issues = []
+    for slug, path in each_page(pages):
+        folder = path.parent.name
+        if folder not in ("products", "research-methods"):
+            continue
+        m = re.search(r'^title:\s*"?(.+?)"?\s*$', path.read_text(encoding="utf-8"), re.MULTILINE)
+        title = m.group(1) if m else ""
+        if folder == "products" and any("student" not in m.group(0).lower() for m in REVIEW_CORPUS_RE.finditer(title)):
+            detail = "a review's set of included studies is not a product: remove it (its findings are claims)"
+        elif folder == "research-methods" and DBR_RE.search(title):
+            detail = "design-based research is a design process: fold into processes/design-based-research"
+        else:
+            continue
+        issues.append({"file": str(path.relative_to(WIKI_ROOT)), "type": "misfiled_kind", "detail": detail})
+    return issues
+
+
 CHECKS = {
     "broken_links":  check_broken_links,
     "embargo":       check_embargo,
@@ -909,6 +938,7 @@ CHECKS = {
     "observations":  check_observations,
     "research":      check_research,
     "dimensions":    check_evidence_dimensions,
+    "misfiled_kind": check_misfiled_kind,
 }
 
 
