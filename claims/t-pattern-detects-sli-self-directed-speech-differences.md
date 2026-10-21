@@ -45,4 +45,4 @@ The commentary reports, citing Kuvalja et al., an illustrative analysis comparin
 ## Related Claims
 - [T-pattern analysis detected temporal-structure differences between children with specific language disorder and typically developing children that frequency and sequential lag analyses did not](t-pattern-analysis-detects-group-differences-sli.md) — possibly the same claim (merge candidate)
 - [Lag-sequential Analysis reveals temporal ordering patterns in CSCL interaction that traditional coding-and-counting approaches hide](lag-sequential-analysis-reveals-interaction-ordering.md) — related
-- [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — a narrower finding that bears on this claim
+- Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time — a narrower finding that bears on this claim

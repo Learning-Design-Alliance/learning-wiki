@@ -47,4 +47,4 @@ The editorial reports on van Aalst's classroom case study of four groups using K
 - [Community and Questions codes most strongly separated the four groups, especially Group A from the others](community-questions-codes-separate-groups.md) — a narrower finding that bears on this claim
 - [All four groups showed a tendency toward knowledge sharing, presenting information without interpretation or evaluation](information-sharing-without-interpretation-prevalent.md) — related
 - [Group A's discourse contained the idea units needed for knowledge construction but only rare rise-above moves, indicating a threshold rather than well-developed knowledge-creation discourse](group-a-threshold-knowledge-creation-discourse.md) — related
-- [Group engagement can be operationalized as a differentiated, evolving, multi-faceted construct at the group unit of analysis](group-engagement-multifaceted-group-level.md) — related
+- Group engagement can be operationalized as a differentiated, evolving, multi-faceted construct at the group unit of analysis — related

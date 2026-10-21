@@ -45,7 +45,7 @@ The article asserts, as a conceptual statement introducing the special issue, th
 ## Related Claims
 - [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md) — a narrower finding that bears on this claim
 - [Regulation of social activities positively predicts group performance in CSCL inquiry tasks](social-regulation-positively-predicts-group-performance.md) — a narrower finding that bears on this claim
-- [Collaborative activities in CSCL chat cluster into four factors: information discussion, regulation of task-related activities, regulation of social activities, and social activities](four-factor-structure-collaborative-activities.md) — related
+- Collaborative activities in CSCL chat cluster into four factors: information discussion, regulation of task-related activities, regulation of social activities, and social activities — related
 - [Instruction combining communication rules (RIDE) and a hypothesis tool (CHT) increases team regulation in computer-supported collaborative inquiry, and team regulation relates to learning outcomes only in that combined condition](ride-cht-instruction-increases-team-regulation-cscl.md) — related
 - [Secondary students in CSCL devote much of their communication to regulating task performance, especially planning the task and monitoring task progress](cscl-groups-mostly-regulate-task-performance.md) — related
 - [Performing social activities negatively predicts group performance in CSCL inquiry tasks](social-activities-negatively-predict-group-performance.md) — related

@@ -17,7 +17,7 @@ sources:
 # Future creativity research should study moment-to-moment interactions and mechanisms connecting levels of creativity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Building on their review finding that creativity is usually measured statically, the authors recommend that future research elaborate on "the moment-to-moment interactions that form the basis of long-term creative development" and on "the mechanisms that connect different levels of creativity." This directs researchers toward process-oriented, multi-level study designs consistent with their dynamic systems framework.
@@ -41,7 +41,6 @@ Building on their review finding that creativity is usually measured statically,
 
 ## Claims
 
-- [Systematic review finds creativity in primary school research most often measured as a static, aggregated construct](../claims/creativity-most-often-measured-static-aggregated-construct.md) [+W]
 
 ## Related Strategies
 - 

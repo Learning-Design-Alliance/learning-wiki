@@ -64,8 +64,8 @@ Model-fit indices for the pooled three-factor teacher model estimated with MLR i
 ## Related Claims
 
 - [The five-dimensional student model achieved metric but not scalar measurement invariance across the seven countries, permitting association comparisons but not latent mean comparisons](student-model-metric-invariance-holds.md)
-- [Classroom management and classroom disciplinary climate emerged as substantially different dimensions of mathematics instructional quality in student data](classroom-management-distinct-from-disciplinary-climate.md) — related
+- Classroom management and classroom disciplinary climate emerged as substantially different dimensions of mathematics instructional quality in student data — related
 - [The three-dimensional teacher-reported model does not hold in all countries, so configural invariance was not achieved and cross-country comparison of teacher-perceived instructional quality was hardly possible](teacher-model-configural-invariance-fails.md) — reports the opposite
 - [Mexico's measurement models differed from all other countries, so Mexico was excluded and the study reports seven countries](mexico-excluded-different-measurement-models.md) — related
-- [Student-reported mathematics instructional quality in pooled PISA 2012 data has five dimensions: teacher support, cognitive activation, classroom disciplinary climate, classroom management, and student-orientated instruction](student-five-dimensions-math-iq-pisa.md) — related
-- [A higher-order general instructional quality factor fits the student data in all seven countries but does not hold for teacher data](higher-order-general-factor-student-only.md) — related
+- Student-reported mathematics instructional quality in pooled PISA 2012 data has five dimensions: teacher support, cognitive activation, classroom disciplinary climate, classroom management, and student-orientated instruction — related
+- A higher-order general instructional quality factor fits the student data in all seven countries but does not hold for teacher data — related

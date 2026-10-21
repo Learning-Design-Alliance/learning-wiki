@@ -49,5 +49,5 @@ Clustering analysis of 113,255 conversation sessions using ten engineered featur
 - [STEM students adopt the GenAI Tutor less and use it differently than non-STEM students, with more shallow and routine-learning engagement](stem-nonstem-engagement-differences.md) — related
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related
 - [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related
-- [In reviewed studies, individual data types were analyzed mainly with descriptive analysis, content analysis, network analysis, and clustering](four-analytical-methods-individual-participation.md) — a broader claim this one bears on
+- In reviewed studies, individual data types were analyzed mainly with descriptive analysis, content analysis, network analysis, and clustering — a broader claim this one bears on
 - [Equity disparities in GenAI Tutor use appear in how students engage, not in whether or how much they use the tool](equity-in-how-not-how-much-genai-use.md) — related

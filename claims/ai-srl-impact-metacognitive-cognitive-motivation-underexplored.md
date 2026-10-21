@@ -55,7 +55,7 @@ The review categorized direct impacts of AI on SRL into cognition, metacognition
 - [Evidence for agentic AI in education is strongest for formative tutoring and SRL coaching, while orchestration and assessment applications remain at mid technology-readiness stages](agentic-ai-evidence-strongest-tutoring-srl-coaching.md) — related
 - [GCLA does not bolster motivational aspects of SRL: traditional ChatGPT users showed higher intrinsic motivation and higher amotivation than GCLA users](gcla-no-motivation-advantage.md) — related
 - [Most direct SRL promotion targeted cognitive capabilities and rarely mentioned the benefit of strategy use](cognitive-capability-dominance-benefit-rarely-mentioned.md) — related
-- [Integrated multimodal SRL studies are increasing, but motivational and affective processes remain underrepresented and temporal alignment of data streams is rarely done](integrated-multimodal-srl-studies-affect-motivation-underrepresented.md) — related
+- Integrated multimodal SRL studies are increasing, but motivational and affective processes remain underrepresented and temporal alignment of data streams is rarely done — related
 - [Learners perceive AI applications as useful for regulating their learning but not for regulating motivation](ai-supports-srl-not-motivation-regulation.md) — related
 - [Teacher-AI co-design research is concentrated in teacher education and higher education, while secondary and primary education settings remain relatively underdeveloped](k12-underrepresented-teacher-ai-codesign-research.md) — related
-- [Affective and motivational SRL processes received little to no attention in mind-wandering research, and few studies used integrated multimodal-plus-SRL analytic approaches](mw-affective-motivational-blind-spot.md) — related
+- Affective and motivational SRL processes received little to no attention in mind-wandering research, and few studies used integrated multimodal-plus-SRL analytic approaches — related

@@ -45,7 +45,7 @@ Which factors the review counts as spatial, and so which can be separated at all
 
 
 ## Related Claims
-- [Dynamic spatial ability is distinguishable from static spatial ability as independent factors](dynamic-spatial-ability-distinct-from-static.md) — related
+- Dynamic spatial ability is distinguishable from static spatial ability as independent factors — related
 - [Effects of two-dimensional mental rotation training on children's mathematics performance are mixed, with significant correlations between rotation and mathematics measures](2d-rotation-training-math-effects-mixed.md) — related
-- [A confirmatory factor analysis supported a two-factor Gf–Gc representation of the cognitive measures, with a significant .33 correlation between the factors](cfa-two-factor-gf-gc-structure.md) — related
+- A confirmatory factor analysis supported a two-factor Gf–Gc representation of the cognitive measures, with a significant .33 correlation between the factors — related
 - [Imagery and perceptual illusions each comprise multiple factors rather than the single CHC factors](multiple-imagery-and-illusion-factors.md) — related

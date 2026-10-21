@@ -63,7 +63,6 @@ McNemar's tests relating dimension-level scores to follow-up among the 594 analy
 
 ## Related Claims
 
-- [CATPCA of openness components yielded two dimensions largely matching the theoretical cognitive/social framework, with transactivity not included](catpca-two-dimensions-openness.md)
 - [Component frequencies: elaboration, other transactivity and expert authority are frequent; multiple justification, personal positioning and questioning are rare](openness-component-frequency-pattern.md)
 - [Contributions to online knowledge building discourse show moderate socio-cognitive openness, with higher social than cognitive openness](higher-social-than-cognitive-openness.md)
 - [Context characteristics (community type, trimester, teacher-student role) have little impact on openness; teachers contribute more social openness and receive less follow-up](context-effects-on-openness-and-teacher-followup.md) — related

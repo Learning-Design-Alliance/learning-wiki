@@ -46,5 +46,5 @@ Confirmatory factor analysis of the four tutor-rating items. The one-factor mode
 - [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](map-cat-unidimensional-factor-structure.md) — related
 - [The six-process structure of inductive reasoning fits fifth graders' figurative-test data better than a unidimensional model](six-process-model-fits-better-than-unidimensional.md) — related
 - [In kindergarteners, trait beliefs and goal orientations form two separate but related factors rather than a coherent growth/fixed mindset](kindergarten-mindsets-two-factor-structure.md) — related
-- [A confirmatory factor analysis supported a two-factor Gf–Gc representation of the cognitive measures, with a significant .33 correlation between the factors](cfa-two-factor-gf-gc-structure.md) — related
+- A confirmatory factor analysis supported a two-factor Gf–Gc representation of the cognitive measures, with a significant .33 correlation between the factors — related
 - [A two-factor (reactive–proactive) model of the Turkish RPQ fits adolescent data better than a one-factor general aggression model](rpq-two-factor-model-fits-better-turkish-adolescents.md) — related

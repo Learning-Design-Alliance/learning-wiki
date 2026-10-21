@@ -45,11 +45,10 @@ Reliability evaluation of the manual three-step transactivity coding over the fu
 ## Related Claims
 
 - [Speech-style accommodation correlates with prevalence of other-oriented transactions, enabling acoustic prediction of transactivity](speech-accommodation-predicts-transactivity.md)
-- [Coder agreement ranged from 68.57% (identical) to 95% (category coding) across coding stages](sr-coding-interrater-agreement-rates.md)
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md)
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md)
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md)
-- [The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers](se-review-coding-kappa-089.md) — related
+- The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers — related
 - [An automatic measure of speech style accommodation significantly positively correlates with prevalence of other-oriented transacts in dyadic debates (R = .36, p < .05)](speech-accommodation-correlates-other-oriented-transacts.md) — related
-- [Coding of self perspectives reached acceptable interrater agreement (89%, κ=.77)](self-perspective-coding-interrater-agreement.md) — related
+- Coding of self perspectives reached acceptable interrater agreement (89%, κ=.77) — related
 - [Expert human raters established an inter-rater reliability benchmark above ICC 0.89 on all four IELTS dimensions for the essay corpus](human-inter-rater-benchmark-icc-above-089-essays.md) — related

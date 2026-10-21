@@ -44,7 +44,6 @@ Theoretical comparison in the editorial's discussion of the issue's first articl
 
 ## Related Claims
 
-- [The editorial calls for empirically grounded analysis combining Rabardel's theory with design-based research data to study mutual shaping of CSCL software and group cognition](rabardel-plus-design-based-research-agenda.md)
 - [Combining algebra tutoring technology with scripting for small-group learning: different team enactments can obscure averaged statistical measures of learning](team-enactments-obscure-averaged-learning-measures.md)
 - [CSCL should focus analytic attention on small-group interactions rather than individuals or society](small-group-unit-of-analysis-cscl.md)
 - [The complexity of successful instrumental genesis translates into severe barriers to adopting CSCL technologies, pedagogies, chronotypes, and educational philosophies in established school institutions](instrumental-genesis-complexity-adoption-barriers.md) — related

@@ -17,7 +17,7 @@ sources:
 # Limit the number of instructions and tasks in dialogic activities, since too many impair dialogue
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 From the ANT analysis of the vaccination lesson, the authors draw a design lesson for dialogic education: designers envisioned that card classification would enrich dialogue, but "Too many instructions, too many tasks to do, impair dialogue". The classification task black-boxed the network into production of a material product, dissolving the dialogic network. Designers of dialogic activities should therefore keep task demands light enough that argumentation can persist.
@@ -38,7 +38,6 @@ From the ANT analysis of the vaccination lesson, the authors draw a design lesso
 
 ## Claims
 
-- [SEDA identifies co-construction and dialogic shifts but does not explain their mechanisms, whereas ANT explains shifts via changing power relations among actors](../claims/ant-explains-shifts-seda-does-not.md) [+W]
 - [Non-human actants such as a Bristol board and task instructions can subordinate students and render classroom talk non-dialogic](../claims/bristol-board-actant-subordinates-students.md) [+W]
 - [Dialogic networks in classroom talk can dissolve into non-dialogic ones when task instructions and artifacts regain power over students](../claims/dialogic-network-dissolves-to-task-compliance.md) [+W]
 

@@ -49,4 +49,4 @@ Theoretical claim from the conclusion, argued via the architectonic tradition: d
 - Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks — related
 - [If writing and thinking are forms of conversation, collaborative learning is an extension of social constructionism into the composition classroom](collaborative-learning-is-an-extension-of-social-constructionism-into-composition.md) — related
 - [DL2F aligns with social and cognitive constructivist theories of learning](dl2f-constructivist-alignment.md) — related
-- [Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis](artifact-structure-operationalizes-collective-knowledge.md) — related
+- Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis — related

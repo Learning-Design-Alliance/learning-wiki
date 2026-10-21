@@ -17,7 +17,7 @@ sources:
 # Combine existing school climate instruments with theoretically aligned SEL modules rather than developing new measures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 To address the scarcity of explicit SEL measurement without adding to the overabundance of near-duplicate instruments, the review recommends pairing school climate measures with SEL surveys developed under the same conceptual framework. The article states "one solution would be to combine school climate instruments with theoretically aligned SEL modules", citing the Delaware School Climate Survey combined with social and emotional learning and competencies surveys as an example of complementary instruments providing a detailed picture of how the two constructs interact in a school.
@@ -39,7 +39,6 @@ To address the scarcity of explicit SEL measurement without adding to the overab
 ## Claims
 
 - [Only 4.65% of the 43 most-used school climate measures include an explicitly SEL-oriented subscale](../claims/few-school-climate-measures-explicit-sel-subscale.md) [+W]
-- [School climate measurement shows a proliferation of instruments, with 965 studies using 404 different measures, two thirds of which are used only once](../claims/school-climate-measure-proliferation-404-instruments.md) [+W]
 - [Nearly all (90.7%) of the most-used school climate measures include subscales conceptually related to SEL support, covering 55.04% of all subscales](../claims/sel-related-subscale-prevalence-school-climate.md) [~W]
 - [About 6% of items in the most-used measures operationalize students' social and emotional skills, appearing in 58.14% of measures](../claims/sel-skills-items-in-school-climate-measures.md) [~W]
 

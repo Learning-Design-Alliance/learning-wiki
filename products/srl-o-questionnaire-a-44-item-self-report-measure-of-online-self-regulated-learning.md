@@ -13,7 +13,7 @@ generated:
 # SRL-O questionnaire: a 44-item self-report measure of online self-regulated learning
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 A publicly available 44-item, 7-point questionnaire developed by Broadbent et al. to measure undergraduate learners’ motivational beliefs and self-regulated learning strategies in online and blended higher education.
@@ -28,7 +28,6 @@ A publicly available 44-item, 7-point questionnaire developed by Broadbent et al
 - [SRL-O subscales show convergent validity with corresponding MSLQ scales](../claims/srl-o-convergent-validity-mslq.md) [+M]
 - [No existing online SRL questionnaire covers the breadth of motivational beliefs and learning strategies the SRL-O covers](../claims/no-online-srl-measure-covers-breadth.md) [+W]
 - [The SRL-O supports both ten lower-order subscales and two superordinate factors (motivational beliefs and learning strategies)](../claims/srl-o-bifactor-two-superordinate-factors.md) [+W]
-- [Metacognition items loaded as a single factor, and time management combined with planning, in the SRL-O structure](../claims/srl-o-metacognition-single-factor-planning-time-management.md) [~W]
 - [Self-report measures of SRL capture perceptions of strategy use rather than implementation quality, and a combined trace-data approach may be best](../claims/self-report-srl-limitations-combined-approach.md) [~W]
 - [Nine of the ten SRL-O subscales showed internal consistency above 0.70, with study environment lower (omega = 0.665)](../claims/srl-o-internal-consistency.md) [+W]
 

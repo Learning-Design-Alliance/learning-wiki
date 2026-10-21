@@ -43,7 +43,7 @@ Narrative summary from the review's Motivation section: two studies analyzing cu
 
 
 ## Related Claims
-- [A systematic review identified 52 instruments assessing teachers' competence for inclusive teaching of autistic children, with 28 assessing knowledge, 26 beliefs, and 11 motivation](52-instruments-teacher-competence-autistic-children.md) — related
+- A systematic review identified 52 instruments assessing teachers' competence for inclusive teaching of autistic children, with 28 assessing knowledge, 26 beliefs, and 11 motivation — related
 - [Reviews of teachers' beliefs about autistic children reach contradictory conclusions, with one finding neutral-to-negative attitudes and others finding positive attitudes accompanied by major concerns](contradictory-review-findings-teacher-attitudes-autistic-children.md) — related
 - [Instruments show great heterogeneity in measurement quality, with validity or reliability information lacking in many cases](heterogeneous-measurement-quality-teacher-competence-instruments.md) — related
-- [No instruments were found measuring teachers' self-regulation in relation to inclusive teaching of autistic children, a gap the review flags for future research](self-regulation-measurement-gap-autism-inclusive-teaching.md) — related
+- No instruments were found measuring teachers' self-regulation in relation to inclusive teaching of autistic children, a gap the review flags for future research — related

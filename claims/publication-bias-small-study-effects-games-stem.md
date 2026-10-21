@@ -46,5 +46,5 @@ Publication-bias analysis using Egger's regression test and Duval & Tweedie's tr
 
 - [School level shows a marginal moderating effect on motivational outcomes, with secondary students experiencing a lower motivating effect than primary students](school-level-motivation-moderating-effect-marginal.md)
 - [Game-based learning in primary and early secondary STEM education shows moderate positive effects on cognition, motivation, and behaviour compared to traditional classrooms](games-stem-moderate-positive-effects-cognition-motivation-behaviour.md) — related
-- [The text generation research field shows a small-study effect suggesting publication bias](small-study-effect-publication-bias.md) — related
+- The text generation research field shows a small-study effect suggesting publication bias — related
 - [Publication bias is detected in the cross-sectional data set, and bias-corrected estimates are highly heterogeneous](publication-bias-cross-sectional-avg-data.md) — related

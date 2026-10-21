@@ -50,6 +50,6 @@ Editorial synthesis of the special issue's six manuscripts, 13 experiments with 
 - [Disfluency does not automatically elicit effortful processing; test expectancy improves retention and transfer while disfluency has no effect](disfluency-no-effect-test-expectancy.md) — a narrower finding that bears on this claim
 - [The learning benefits of perceptual disfluency reported by Diemand-Yauman et al. (2011) do not replicate in any general way](disfluency-benefits-do-not-replicate.md) — a narrower finding that bears on this claim
 - [Medium of presentation interacts with font fluency: disfluent font yields higher success rates on computer but lower on paper](medium-fluency-interaction-sidi.md) — related
-- [Disfluency is not clearly defined across the literature, hindering replication and precise measurement](disfluency-definition-problem.md) — related
+- Disfluency is not clearly defined across the literature, hindering replication and precise measurement — related
 - [In a pre-registered direct replication (N = 96), the disfluency × WMC interaction did not significantly predict retention, failing to replicate Lehmann et al. (2016)](replication-null-wmc-disfluency-interaction-retention.md) — related
 - [Disfluency benefits retention and comprehension only for learners with high working memory capacity](disfluency-benefits-high-working-memory-only.md) — related

@@ -62,7 +62,7 @@ The commentary reports the authors' interpretation of the SDA findings from the 
 
 
 ## Related Claims
-- [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](need-micro-level-theory-and-method-guidelines-ssrl.md) — related
+- The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains — related
 - [During collaborative learning, low and high cognition have remarkably long lasting (6 lags) positive effects on themselves, planning induces low cognition which sparks high cognition, and scaffolding does not alter these sequences](statistical-discourse-analysis-regulation-cognition-sequences.md) — possibly the same claim (merge candidate)
 - [Problematizing scaffolds elicit constructive, interaction-embedded metacognitive activities, whereas structuring scaffolds elicit application of examples](problematizing-scaffolds-elicit-constructive-interaction.md) — related
 - [BEAGLE's HIGH and LOW performer profiles differentiate by SRL strategy: HIGH performers allocate 72% of steps to PLANNING and MONITORING while LOW performers spend 50.8% trapped in ENACTING](beagle-profile-strategy-differentiation.md) — related

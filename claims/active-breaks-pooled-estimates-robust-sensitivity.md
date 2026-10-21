@@ -48,9 +48,9 @@ Sensitivity analyses of the RVE models: LOSO exclusions produced maximum changes
 - [Classroom active breaks show no statistically significant effect on inhibitory control in schoolchildren](active-breaks-no-significant-effect-inhibitory-control.md) — related
 - [Classroom active breaks show no reliable effect on mathematical fluency](active-breaks-null-effect-mathematical-fluency.md) — related
 - [Leave-one-out sensitivity analysis confirms the pooled productivity effect is robust (g = 0.24–0.38, all p < 0.05), with two studies (P002, P004) exerting disproportionate influence.](leave-one-out-productivity-robustness.md) — related
-- [The pooled association is robust to dependence, baseline-adjustment, risk-of-bias, and effect-size-derivation sensitivity analyses](pooled-association-robust-sensitivity-analyses.md) — related
+- The pooled association is robust to dependence, baseline-adjustment, risk-of-bias, and effect-size-derivation sensitivity analyses — related
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
 - [Pooled effect sizes for deployment on mental health are robust across components of methodological quality in sensitivity analyses](deployment-meta-analysis-robust-sensitivity.md) — related
-- [Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses](publication-bias-math-writing-meta-analysis.md) — related
+- Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses — related
 - [Classroom active breaks produce a small but statistically significant positive effect on working memory in schoolchildren aged 6–16](active-breaks-small-positive-effect-working-memory.md) — related
 - [Moderate-to-vigorous intensity active breaks are associated with slightly greater working-memory improvements than moderate intensity, in exploratory meta-regression](mvpa-intensity-moderates-working-memory-effect.md) — related

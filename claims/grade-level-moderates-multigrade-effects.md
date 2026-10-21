@@ -51,5 +51,5 @@ Between-study homogeneity analysis of the multigrade cognitive subset (Table 3):
 - [Meta-analysis shows no significant difference in cognitive outcomes between multigrade and single-grade classes](multigrade-cognitive-effects-essentially-zero.md) — a broader claim this one bears on
 - [Multi-age classes show no significant cognitive or noncognitive differences from single-age classes](multi-age-effects-near-zero.md) — related
 - [Multigrade classes show negative weighted effects for science and social studies but not English as a foreign language](multigrade-science-social-studies-negative.md) — related
-- [Evidence for a selection bias favoring multigrade classes is limited, found explicitly in only 4 of 51 studies](limited-evidence-multigrade-selection-bias.md) — related
+- Evidence for a selection bias favoring multigrade classes is limited, found explicitly in only 4 of 51 studies — related
 - [Noncognitive outcomes of multigrade classes show essentially zero overall effect after outlier removal](multigrade-noncognitive-effects-near-zero.md) — related

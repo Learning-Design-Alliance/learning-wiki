@@ -45,4 +45,4 @@ Review synthesis of program/teacher-level rates: studies with program or classro
 ## Related Claims
 - [Annual expulsion rates in early care and education settings range widely, from 6 to 43.3 per 1,000 children enrolled, varying by program type and jurisdiction.](ecce-expulsion-rates-6-to-43-per-1000.md) — related
 - [Boys, African American, and Hispanic children, and children with disabilities are disproportionately excluded from early care and education settings, though few studies computed disproportionality.](ecce-exclusion-racial-gender-disproportionality.md) — related
-- [Research on early childhood exclusionary discipline is accelerating but remains dominated by cross-sectional designs and convenience samples of a few hundred teachers.](ecce-exclusion-research-accelerating-cross-sectional.md) — related
+- Research on early childhood exclusionary discipline is accelerating but remains dominated by cross-sectional designs and convenience samples of a few hundred teachers. — related

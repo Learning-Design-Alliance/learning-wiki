@@ -12,7 +12,7 @@ generated:
 # Trace parser with action library and process library for measuring SRL from multi-channel data
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 2 studies (2 design), `q2`–`q3` · 0 of 2 report an effect size · 10 claims rest on one study
+> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 2 studies (2 design), `q2`–`q3` · 0 of 2 report an effect size · 9 claims rest on one study
 
 ## Description
 A trace-based measurement protocol that converts raw multi-channel trace data into SRL processes. Its trace parser has two components: "the action library and the process library" — the action library labels raw log data with 12 learning actions, and the process library detects SRL processes from action sequences. The study examined "the eight groups of SRL processes: four groups of metacognitive and four groups of cognitive processes, including Orientation, Planning, Monitoring, Evaluation, First-reading, Re-reading, Elaborating and Organising", grounded in Bannert's (2007) theoretical framework and validated through theory-driven and data-driven perspectives.
@@ -30,7 +30,6 @@ A trace-based measurement protocol that converts raw multi-channel trace data in
 - [Adding peripheral data to navigational logs sharply changes the detected distribution of SRL processes, revealing many more Organisation and far fewer First-reading processes](../claims/peripheral-data-changes-srl-process-distribution.md) [+W]
 - [The largest source of mismatch between trace-based and think aloud SRL processes was confusion between elaboration/organisation and first-reading processes](../claims/mismatch-elaboration-first-reading.md) [-W]
 - [Adding data channels refines roughly 29–52% of detected SRL process time, measured by a new percent-of-processes-refined metric](../claims/percent-processes-refined-metric-results.md) [+W]
-- [Only with eye-tracking data does Monitoring appear as an intermediate process linking most other SRL processes in the process map](../claims/eye-tracking-reveals-monitoring-intermediate.md) [+W]
 - [The combined theory-driven and data-driven validation approach improved the match rate between trace-based SRL processes and think aloud data from 38.97% to 54.24% (training) and 34.54% to 55.09% (testing)](../claims/validation-approach-improves-match-rate.md) [+W]
 - [Substantial differences existed between the time distribution of trace-extracted and think aloud-coded SRL processes: 41.66% of session duration had no think aloud code while only 3.19% had no trace process](../claims/time-distribution-differences-trace-vs-thinkaloud.md) [~W]
 

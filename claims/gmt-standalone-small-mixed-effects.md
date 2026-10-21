@@ -43,7 +43,7 @@ Narrative review attributing this to Macnamara and Burgoyne (2023a): their meta-
 
 
 ## Related Claims
-- [Authors with a financial interest in GMT were 2.5 times as likely to report significant effects, per the review's account of Macnamara and Burgoyne](gmt-financial-interest-significant-effects.md) — related
+- Authors with a financial interest in GMT were 2.5 times as likely to report significant effects, per the review's account of Macnamara and Burgoyne — related
 - [A large randomized controlled trial in England found no advantages for students who received GMT, as reported by the review](gmt-rct-no-advantage-foliano.md) — related
 - [Mind-set interventions show weak overall effects on achievement, with some support that low-SES or academically at-risk students might benefit](mindset-intervention-effects-weak-subgroup-benefit.md) — a broader claim this one bears on
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related

@@ -45,4 +45,4 @@ Method section of the systematic review reporting the screening outcome across 2
 ## Related Claims
 - [Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity](weird-bias-ai-trust-research.md) — related
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
-- [Of 289 studies on motivation regulation, approximately three quarters examined university students, used cross-sectional designs, and relied on self-report questionnaires](motivation-regulation-research-dominated-by-university-cross-sectional-self-report.md) — related
+- Of 289 studies on motivation regulation, approximately three quarters examined university students, used cross-sectional designs, and relied on self-report questionnaires — related

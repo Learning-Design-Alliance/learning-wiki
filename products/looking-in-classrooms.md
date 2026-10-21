@@ -13,7 +13,7 @@ generated:
 # Looking in Classrooms
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A textbook on effective teaching and classroom observation authored by Jere Brophy and Thomas Good for undergraduate and graduate education students.
@@ -24,7 +24,6 @@ A textbook on effective teaching and classroom observation authored by Jere Brop
 ### Claims
 
 - [Teacher expectation effects are conditional: some teachers exhibit markedly different behavior and opportunities based on perceived student ability while others do not](../claims/teacher-expectation-effects-conditional-brophy-good.md) [+W]
-- [Brophy's dyadic observational system coded student responses to teacher questions as correct, partly correct, do not know, or error, and coded each teacher's response to those student responses](../claims/brophy-dyadic-observational-system.md) [+W]
 
 ## Related Products and Programmes
 -

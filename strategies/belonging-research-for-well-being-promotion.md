@@ -17,7 +17,7 @@ sources:
 # Use belonging research to inform understanding of human behavior and promotion of well-being in educational settings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 3 studies (2 review, 1 qualitative), `q1` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 review), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article positions belonging research as a resource for promoting well-being: the interview with Baumeister and Leary explores "the value and relevance of belonging for understanding human behavior and promoting well-being." Educational psychologists and schools can draw on the belonging literature, particularly work on school belonging and its links to positive psychological and academic outcomes, when designing efforts to support students. The article presents this as the applied relevance of the foundational construct.
@@ -44,7 +44,6 @@ The article positions belonging research as a resource for promoting well-being:
 - [The need to belong is relevant to all academic disciplines that study human behavior, with immense importance to educational psychology](../claims/need-to-belong-relevance-educational-psychology.md) [+W]
 - [School belonging has powerful long- and short-term implications for students' positive psychological and academic outcomes](../claims/school-belonging-implications-psychological-academic-outcomes.md) [+M]
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](../claims/sel-skills-plus-academics-full-potential.md) [+W]
-- [School belonging research is marked by definitional ambiguity and terminology confusion, including conflation of belonging with acceptance, inclusion, and participation](../claims/school-belonging-definitional-ambiguity.md) [-W]
 
 ## Related Strategies
 - 

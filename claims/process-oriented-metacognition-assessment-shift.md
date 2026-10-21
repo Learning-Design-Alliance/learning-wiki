@@ -44,10 +44,9 @@ The editor's observational assessment of methodological trends over the last dec
 
 ## Related Claims
 
-- [The field of metacognition lacks a unified definition, impeding theoretical integration across disciplines](metacognition-lacks-unified-definition.md)
-- [Integrated multimodal SRL studies are increasing, but motivational and affective processes remain underrepresented and temporal alignment of data streams is rarely done](integrated-multimodal-srl-studies-affect-motivation-underrepresented.md) — related
-- [An equal number of reviewed studies measured mind wandering unobtrusively via multimodal data streams, with 27% using machine learning](mw-multimodal-unobtrusive-27-percent-ml.md) — related
+- Integrated multimodal SRL studies are increasing, but motivational and affective processes remain underrepresented and temporal alignment of data streams is rarely done — related
+- An equal number of reviewed studies measured mind wandering unobtrusively via multimodal data streams, with 27% using machine learning — related
 - [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](questionnaires-measure-perception-not-performed-strategies.md) — related
 - [Off-line self-report instruments show low concurrent validity with on-line measures and do not predict learning outcomes very well](offline-self-reports-low-concurrent-validity-veenman.md) — possibly the same claim (merge candidate)
-- [Distinguishing metacognitive knowledge from skills, and metacognition from self-regulated learning, is an unresolved field-wide issue](metacognition-knowledge-skills-distinction-unresolved.md) — related
+- Distinguishing metacognitive knowledge from skills, and metacognition from self-regulated learning, is an unresolved field-wide issue — related
 - [Mind wandering can both prompt SRL and function as a regulatory strategy, and multimodal machine-learning sensing offers scalable assessment of attentive states](mind-wandering-dual-role-srl-regulatory-strategy.md) — related

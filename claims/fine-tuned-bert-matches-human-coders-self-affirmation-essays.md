@@ -56,7 +56,6 @@ Interrater reliability analysis on an out-of-sample comparison dataset of 134 do
 - An independent human second coder reached moderate agreement (kappa = 0.395) with the AI-assisted primary coding on the five-category outcome — related
 - [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions](gpt4-almost-perfect-irr-after-rubric-engineering.md) — a narrower finding that bears on this claim
 - [Transformer-based NLP models achieve automated essay scoring with correlations to human grading exceeding 0.85](bert-essay-scoring-correlation-085.md) — related
-- [Coder agreement ranged from 68.57% (identical) to 95% (category coding) across coding stages](sr-coding-interrater-agreement-rates.md)
-- [The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers](se-review-coding-kappa-089.md) — related
+- The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers — related
 - [Rubric-based assessment showed substantial to almost-perfect inter-rater reliability across all three time points](rubric-interrater-reliability-visualization-assessment.md) — related
-- [Scaled qualitative coding of preservice teachers' video-analysis responses reached very good interrater agreement](professional-vision-coding-interrater-agreement-icc.md) — related
+- Scaled qualitative coding of preservice teachers' video-analysis responses reached very good interrater agreement — related

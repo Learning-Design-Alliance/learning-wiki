@@ -46,6 +46,6 @@ In this observational multilevel regression study of 8,009 coded interactions, a
 - [Engaging in argumentation-triggered, information-triggered, or socially-triggered interaction sequences is positively associated with grades, while facilitated discussions is not](initiating-sequence-clusters-associate-grades.md) — related
 - [PTA-derived traits significantly improve explained exam-score variance over a prior-outcome baseline in one semester of StudyChat but not the other](pta-traits-explain-studychat-exam-variance-semester-inconsistent.md) — related
 - [PTA traits show stronger statistical explanatory power than dialogue-act and Bloom's taxonomy coded baselines on StudyChat](pta-traits-beat-dialogue-act-bloom-baselines.md) — related
-- [Weekly group data on PBL interactions showed substantial between-group variability (ICC 0.4), requiring multilevel growth models](group-variability-icc-multilevel-growth-models.md) — related
+- Weekly group data on PBL interactions showed substantial between-group variability (ICC 0.4), requiring multilevel growth models — related
 - [Interactions kindle similar-level interactions: argumentation triggers high-cognitive exchanges while sharing and discussing without reasoning keep interactions low-cognitive](high-cognitive-kindles-high-cognitive.md) — related
 - [Online PBL group interaction follows the scripted sequence initially, but co-regulation derails over time into social bonding with fewer high-cognitive interactions](pbl-group-sequence-derails-to-social.md) — related

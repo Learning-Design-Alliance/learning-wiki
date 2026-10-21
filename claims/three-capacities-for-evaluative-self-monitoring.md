@@ -49,5 +49,5 @@ Definitional/theoretical statement from the article's abstract, presented as wha
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [The Trainer is expected to develop feedback literacy capacities](trainer-expected-develop-feedback-literacy.md) — a narrower finding that bears on this claim
-- [The most cited papers in Instructional Science are Sadler's 1989 formative assessment paper (1,686 citations) and Marton's 1981 phenomenography paper (1,547 citations)](most-cited-instructional-science-papers-sadler-marton.md) — related
+- The most cited papers in Instructional Science are Sadler's 1989 formative assessment paper (1,686 citations) and Marton's 1981 phenomenography paper (1,547 citations) — related
 - [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md) — related

@@ -44,4 +44,4 @@ Critical interpretive synthesis of 152 included papers on dementia education, un
 - [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [The evidence base on dementia workforce education comprises 152 included papers of variable quality](dementia-education-evidence-152-papers-variable-quality.md) — related
+- The evidence base on dementia workforce education comprises 152 included papers of variable quality — related

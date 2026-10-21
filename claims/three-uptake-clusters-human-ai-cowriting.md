@@ -52,4 +52,4 @@ In the preregistered study (n = 131 participants who interacted with ChatGPT), r
 - [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)
 - [Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges](three-strategy-clusters-from-ngram-flip-sequences.md)
 - [Affordance resonance can be documented at scale through AI-generated logs identifying seed contributions and cascading uptake](ai-resonance-logs-catalytic-contributions.md) — related
-- [In reviewed studies, individual data types were analyzed mainly with descriptive analysis, content analysis, network analysis, and clustering](four-analytical-methods-individual-participation.md) — a broader claim this one bears on
+- In reviewed studies, individual data types were analyzed mainly with descriptive analysis, content analysis, network analysis, and clustering — a broader claim this one bears on

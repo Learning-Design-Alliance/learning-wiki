@@ -44,4 +44,4 @@ Theoretical argument advanced in the abstract. The author argues that "this lack
 
 ## Related Claims
 - [Approaches to test score use and test purpose lack well-developed methodological guidelines and established sources of evidence, unlike score interpretation](test-score-use-lacks-methodological-guidelines.md) — possibly the same claim (merge candidate)
-- [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](need-micro-level-theory-and-method-guidelines-ssrl.md) — related
+- The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains — related

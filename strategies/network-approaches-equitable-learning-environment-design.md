@@ -17,7 +17,7 @@ sources:
 # Use network approaches to advance equitable learning environment design for college students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review's forward-looking recommendation is a shared interdisciplinary project using network methods to design more equitable campus learning environments. It argues that "institutions could intervene to build infrastructure that supports different kinds of relationship formation, potentially addressing inequalities that result as a byproduct of students' self-sorting, and fostering learner communities where individuals have equal access to opportunities." The strategy calls for processual attention to how communities form, persist, and dissolve, and for studying relational structure across the multiple contexts in which students make ties.
@@ -41,11 +41,8 @@ The review's forward-looking recommendation is a shared interdisciplinary projec
 
 ## Claims
 
-- [Very few undergraduate SNA studies predict network structure or change, though these offer design implications](../claims/few-studies-predict-network-change.md) [+W]
 - [Network measurement in undergraduate SNA research shows little consistency even when research questions overlap](../claims/inconsistent-network-measures-undergrad-sna.md) [~W]
-- [Undergraduate SNA studies generally lack integration of network theory, positioning it as a future direction](../claims/lack-network-theory-integration.md) [+W]
 - [Evidence that classroom network structure relates to course outcomes under interactive pedagogies is mixed](../claims/mixed-evidence-network-density-course-outcomes.md) [~W]
-- [Sociometric designs dominate undergraduate SNA studies, with egocentric designs less common and latent networks a small distinct category](../claims/sociometric-dominance-undergrad-sna.md) [~W]
 
 ## Related Strategies
 - 

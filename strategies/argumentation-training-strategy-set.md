@@ -17,7 +17,7 @@ sources:
 # Combine element identification, rubric design, peer assessment and role-playing on socio-scientific issues to train argumentation competence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The training programme combined four strategies to help improve PESTs' argumentative competence: identification of the essential elements in a written argument, designing evaluation rubrics based on a basic rubric, peer assessment with and without rubrics, and role-playing to promote argumentation on socio-scientific issues. The article presents this combination as the new perspective of the proposal, since it combines peer assessment with specific activities on argumentation, creating a rich educational framework in which PESTs were offered different opportunities, through contexts and contents, to enhance their argumentation competence.
@@ -44,7 +44,6 @@ The training programme combined four strategies to help improve PESTs' argumenta
 ## Claims
 
 - [At the end of the programme, the trained experimental group differed significantly from the control group in argumentation competence](../claims/posttest-experimental-beats-control-argumentation.md) [+W]
-- [Before the training, experimental and control PESTs were largely equivalent in argumentative competence, except justifications in the tree growth activity where the control group scored lower](../claims/pretest-group-equivalence-justification-difference.md) [+W]
 - [Six months after training, the experimental group showed a slight improvement over the control group in transferring argumentation to teaching practice, especially in mentioning argumentation in practice portfolios](../claims/sixmonth-portfolio-transfer-argumentation.md) [+W]
 - [Preservice elementary science teachers who completed the argumentation training programme made significant pre-to-post gains across the three argument elements and overall argumentative performance](../claims/training-programme-significant-prepost-argumentation-gains.md) [+W]
 

@@ -69,4 +69,4 @@ Spearman's rank correlation analysis of coding by researchers versus teachers on
 - [A general-purpose LLM assessing team emails' emotional tone was biased toward interpreting messages as anxiety-related only](llm-emotional-tone-bias-incident-words.md) — related
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
 - [Prior non-LLM automated coding approaches yielded variable and often lower agreement with human coders on teacher knowledge measures, especially PCK](prior-automated-coding-variable-lower-agreement-pck.md) — related
-- [Coder agreement ranged from 68.57% (identical) to 95% (category coding) across coding stages](sr-coding-interrater-agreement-rates.md) — related
+- Coder agreement ranged from 68.57% (identical) to 95% (category coding) across coding stages — related

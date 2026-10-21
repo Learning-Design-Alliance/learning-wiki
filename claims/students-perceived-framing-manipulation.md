@@ -52,4 +52,4 @@ Manipulation check using a nine-question Likert-style post-tutoring survey aggre
 - [A non-significant trend favored expansive framing on transfer-of-learning of facts (36% vs. 13%, p = .09)](transfer-of-learning-facts-trend-expansive.md) — related
 - [Expansive framing increased spontaneous transfer of the diagram-drawing learning strategy (7 of 12 vs. 1 of 12 students)](expansive-framing-boosts-diagram-strategy-transfer.md) — related
 - [No evidence that framing affected transfer of the surface area principle](no-framing-effect-surface-area-principle-transfer.md) — related
-- [No condition differences in prior knowledge, time-on-task, interest, or amount learned, supporting the framing manipulation's isolation](no-condition-differences-learning-baseline-factors.md) — related
+- No condition differences in prior knowledge, time-on-task, interest, or amount learned, supporting the framing manipulation's isolation — related

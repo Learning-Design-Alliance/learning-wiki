@@ -54,4 +54,4 @@ Technical findings across the cohort on using AI to evaluate AI outputs, reporte
 - [Case-based learning benefits were reported particularly when GenAI was embedded in faculty-guided teaching, while complex cases and team workflows showed null or unfavorable effects](genai-cbl-faculty-guided-conditional-benefits.md) — related
 - The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible — related
 - [Humans are more certain when judging that facilitation is not needed than when judging it is](humans-certain-when-not-facilitating.md) — related
-- [Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive](global-judgment-criteria-replication-fruitless.md) — related
+- Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive — related

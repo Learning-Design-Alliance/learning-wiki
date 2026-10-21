@@ -64,6 +64,6 @@ Meta-analysis of partial correlations for math (20 effect sizes controlling for 
 ## Related Claims
 - [Earlier theory of mind longitudinally predicts later academic achievement (pooled r = .28), largely on zero-order associations](early-tom-predicts-later-achievement.md) — related
 - [Children's theory of mind shows a significant positive cross-sectional association with academic achievement (r = 0.32)](tom-academic-achievement-positive-association.md) — related
-- [Egger's test indicates asymmetry bias in the cross-sectional ToM–achievement evidence base despite a right-skewed p-curve](egger-asymmetry-bias-tom-achievement.md) — related
+- Egger's test indicates asymmetry bias in the cross-sectional ToM–achievement evidence base despite a right-skewed p-curve — related
 - [Earlier academic achievement longitudinally predicts later theory of mind (pooled r = .32), based on few studies](early-achievement-predicts-later-tom.md) — related
 - [A combination of sociocognitive variables predicts concurrent academic outcomes at school entry](sociocognitive-combination-predicts-school-entry-outcomes.md) — a broader claim this one bears on

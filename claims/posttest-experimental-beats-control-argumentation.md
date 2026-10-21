@@ -43,6 +43,6 @@ Mann–Whitney U comparison of the post-test rubric scores of the 57 E-PESTs and
 
 
 ## Related Claims
-- [Before the training, experimental and control PESTs were largely equivalent in argumentative competence, except justifications in the tree growth activity where the control group scored lower](pretest-group-equivalence-justification-difference.md) — related
+- Before the training, experimental and control PESTs were largely equivalent in argumentative competence, except justifications in the tree growth activity where the control group scored lower — related
 - [Preservice elementary science teachers who completed the argumentation training programme made significant pre-to-post gains across the three argument elements and overall argumentative performance](training-programme-significant-prepost-argumentation-gains.md) — related
 - [Six months after training, the experimental group showed a slight improvement over the control group in transferring argumentation to teaching practice, especially in mentioning argumentation in practice portfolios](sixmonth-portfolio-transfer-argumentation.md) — related

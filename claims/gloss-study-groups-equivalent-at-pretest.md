@@ -52,7 +52,6 @@ Pretest administration of the researcher-devised 50-item vocabulary test to both
 - Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related
 - [The online vocabulary intervention did not significantly improve reading comprehension](online-vocabulary-intervention-no-comprehension-effect.md) — related
 - [Background measures show no group differences in age, intelligence, or English vocabulary, confirming group matching](group-matching-background-measures.md) — related
-- [Randomization check found no significant pre-intervention differences between treatment and control groups on pre-test or 8th-grade merit rating](randomization-check-no-pre-differences-variation-study.md)
-- [Before the training, experimental and control PESTs were largely equivalent in argumentative competence, except justifications in the tree growth activity where the control group scored lower](pretest-group-equivalence-justification-difference.md) — related
+- Before the training, experimental and control PESTs were largely equivalent in argumentative competence, except justifications in the tree growth activity where the control group scored lower — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related

@@ -44,4 +44,4 @@ Statement of the project's research aim in this short report. The author frames 
 
 ## Related Claims
 - [Bilingual mathematics classes may support acquisition of mathematical knowledge by building technical terms in two language structures](bilingual-math-classes-two-language-term-building.md) — related
-- [Videographed bilingual-lesson discussions are analysed qualitatively with interaction analysis to reconstruct negotiated taken-as-shared meaning](interaction-analysis-bilingual-math-discussions.md) — related
+- Videographed bilingual-lesson discussions are analysed qualitatively with interaction analysis to reconstruct negotiated taken-as-shared meaning — related

@@ -63,7 +63,6 @@ Simulations with a randomly sampled continuous between-subject predictor tested 
 
 ## Related Claims
 
-- [Logistic mixed-model regression of confidence on accuracy shows dramatically inflated false positive rates when random slopes are omitted, but an adequate rate when random slopes are included](logistic-mixed-model-fixed-slopes-inflated-false-positives.md) — related
+- Logistic mixed-model regression of confidence on accuracy shows dramatically inflated false positive rates when random slopes are omitted, but an adequate rate when random slopes are included — related
 - [T-testing raw meta-d′/d′ or meta-da/da yields a false positive rate below 5%; log transformation or the Mann–Whitney U-test restores an adequate rate](meta-d-ratio-ttest-low-false-positive-rate.md) — related
 - [Summary-statistic measures of metacognitive accuracy (gamma, type 2 ROC, meta-d′, meta-da) maintain a false positive rate consistent with the nominal 5% alpha level in group comparisons](summary-statistics-metacognitive-accuracy-adequate-false-positive-rate.md) — related
-- [Distributions of meta-d′/d′ and meta-da/da deviate substantially from normality, motivating log transformation before parametric testing](meta-d-ratio-distributions-non-normal.md)

@@ -51,4 +51,4 @@ Systematic review of 57 comparison studies (88 active learning conditions) from 
 - [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](active-learning-conditions-more-other-pedagogical-features.md) — related
 - Post-2014 comparison studies still most commonly contrast one active learning condition with one lecture condition — related
 - Group tasks are the most frequent active learning activity in college science active learning conditions, followed by activity sheets — related
-- [Most active learning studies did not report group equivalence measures directly related to the dependent variable](group-equivalence-directly-related-rarely-reported.md) — related
+- Most active learning studies did not report group equivalence measures directly related to the dependent variable — related

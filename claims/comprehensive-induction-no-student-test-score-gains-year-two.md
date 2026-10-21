@@ -50,6 +50,6 @@ Second-year findings from Mathematica's national randomized controlled evaluatio
 - [Mathematica is examining whether high-intensity teacher induction programs lead to higher retention rates and other positive teacher and student outcomes](high-intensity-teacher-induction-retention-outcomes-study.md) — a broader claim this one bears on
 - [Participation in an induction program alone does not improve the chances teachers will remain; induction quality matters, and almost 20 percent of new teachers report not participating](induction-participation-alone-insufficient-quality-matters.md) — related
 - [Comprehensive teacher induction showed no impacts on outcomes other than student achievement](induction-no-other-outcome-impacts.md) — related
-- [Study lead instructors did not differ from non-study-lead instructors in student retention performance](no-study-lead-bias-in-student-performance.md) — related
+- Study lead instructors did not differ from non-study-lead instructors in student retention performance — related
 - [Comprehensive teacher induction generated no significant improvements in student achievement in the first year](comprehensive-induction-no-student-achievement-gains-first-year.md) — related
 - [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](comprehensive-induction-no-retention-gain-first-year.md) — related

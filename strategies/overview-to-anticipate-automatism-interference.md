@@ -17,7 +17,7 @@ sources:
 # Use the review's topic overview to anticipate where students will experience interference from automatisms
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The review offers teachers a structured overview of primary school learning topics with empirical evidence of inhibitory control involvement, arguing this is particularly relevant because primary teachers are typically generalists responsible for all subjects. "Such an overview may help identify situations in which students are likely to experience difficulties due to interfering automatisms in order to support their learning." Teachers can use the 15 identified topics and the four automatism characteristics to anticipate interference points across the curriculum.
@@ -38,7 +38,6 @@ The review offers teachers a structured overview of primary school learning topi
 
 ## Claims
 
-- [Grouping the reviewed experiments revealed 15 distinct primary school learning topics involving inhibitory control](../claims/fifteen-learning-topics-inhibitory-control.md) [+W]
 - [Incongruent items in school-topic tasks are generally associated with longer response times and lower accuracy, patterns consistent with inhibitory control recruitment](../claims/incongruent-items-longer-rt-lower-accuracy.md) [+W]
 - [Experimental evidence consistent with inhibitory control involvement spans primary school learning topics primarily in mathematics, but also science and language](../claims/inhibitory-control-evidence-spans-primary-topics-math-science-language.md) [+W]
 - [Negative priming effects are generally larger in mathematics than in language or science, particularly in arithmetic tasks](../claims/np-effects-larger-mathematics-arithmetic.md) [+W]

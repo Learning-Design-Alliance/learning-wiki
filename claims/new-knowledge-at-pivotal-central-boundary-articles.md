@@ -50,4 +50,4 @@ The review reports a social network analysis using snapshots of the link structu
 - [Wikipedia contributors show confirmation bias by preferentially editing articles consistent with their own views](wikipedia-contributors-confirmation-bias-editing.md) — related
 - [Boundary spanning perceptions and actions are critical mechanisms for productive divergent collaboration](bsp-bsa-critical-mechanisms-divergent-collaboration.md)
 - [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) — related
-- [Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis](artifact-structure-operationalizes-collective-knowledge.md) — a broader claim this one bears on
+- Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis — a broader claim this one bears on

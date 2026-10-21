@@ -67,5 +67,5 @@ The review attributes this finding to Zeng et al. (2020), a secondary analysis o
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related
 - [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](suspension-disparities-reflect-policies-and-adult-biases.md) — related
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
-- [Research on early childhood exclusionary discipline is accelerating but remains dominated by cross-sectional designs and convenience samples of a few hundred teachers.](ecce-exclusion-research-accelerating-cross-sectional.md) — related
+- Research on early childhood exclusionary discipline is accelerating but remains dominated by cross-sectional designs and convenience samples of a few hundred teachers. — related
 - [Children's prior expulsion history is positively associated with expulsion risk, while rated disruptiveness of behavior was not a significant predictor in the one study testing both.](prior-expulsion-history-predicts-expulsion-risk.md) — related

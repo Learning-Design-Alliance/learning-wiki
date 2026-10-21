@@ -12,7 +12,7 @@ generated:
 # SMA-grid and what/when/how/by-whom-or-what frameworks for characterizing SRL scaffolds
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The introduction uses two frameworks to compare the special-issue studies. The SMA-grid (Molenaar et al., 2023) characterizes each study by CAMM processes (Cognition, Affect, Metacognition, Motivation), data streams (physiological, behavioral, contextual), and analytical approach (unimodal, horizontal, vertical, integrated). Alongside it, the what, when, how, and by whom or what of scaffolding (Azevedo & Jacobson, 2008) distinguishes what to scaffold, when to provide a scaffold, how it is delivered, and the delivery mechanism. Together these axes organize the seven contributions' similarities and differences.
@@ -24,9 +24,6 @@ The introduction uses two frameworks to compare the special-issue studies. The S
 - **Adapted SMA grid adding a mind-wandering column to map mind-wandering research onto SRL processes, data streams, and analytical approaches**: The SMA grid (Molenaar et al., 2023) organizes SRL research along axes of multimodal data streams, CAMM SRL processes (cognition, affect, metacognition, motivation), and analytical approaches. The review extends it by adding a mind-wandering column and redefining the analytical approaches: "our adaptation modifies the horizontal approach to specifically include analyses that assess mind wandering alongside at least one other CAMM process." Unimodal approaches cover only mind wandering with one modality; vertical approaches cover only mind wandering with multiple streams; integrated approaches combine mind wandering, at least one CAMM process, and multiple streams. (Bühler et al. (2025))
 
 ### Claims
-- [Among 134 reviewed studies, a significant number examined mind wandering alongside cognitive and metacognitive SRL processes, predominantly using self-report measures](../claims/mw-studies-cognitive-metacognitive-self-report.md) [+M]
-- [An equal number of reviewed studies measured mind wandering unobtrusively via multimodal data streams, with 27% using machine learning](../claims/mw-multimodal-unobtrusive-27-percent-ml.md) [+M]
-- [Affective and motivational SRL processes received little to no attention in mind-wandering research, and few studies used integrated multimodal-plus-SRL analytic approaches](../claims/mw-affective-motivational-blind-spot.md) [+M]
 
 ## Related Research Methods
 -

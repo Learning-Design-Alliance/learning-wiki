@@ -50,5 +50,5 @@ Pilot EFA (principal axis factoring with oblimin rotation) with an independent s
 - [Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance](gaa-ls-five-factor-efa-structure.md) — related
 - [The 18-item PSRBVBQ yields a balanced three-factor structure (perceived severity, likelihood of responding to the bully, likelihood of responding to the victim) in Romanian middle school teachers](psrbvbq-three-factor-structure-romanian-teachers.md) — related
 - [Item-to-factor loading patterns qualitatively differ between human and LLM EFA solutions](human-llm-loading-structures-qualitatively-different.md) — related
-- [The MRIM scale has a three-factor structure of planning, monitoring, and evaluating of interactive metadiscourse, cross-validated by EFA and CFA](mrim-three-factor-structure-pim-mim-eim.md) — related
+- The MRIM scale has a three-factor structure of planning, monitoring, and evaluating of interactive metadiscourse, cross-validated by EFA and CFA — related
 - [Pilot testing found the initial problem posing test response time too short, with most pilot students unable to complete all three items](pilot-response-time-insufficient-problem-posing-test.md) — related

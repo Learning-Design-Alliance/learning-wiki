@@ -12,7 +12,7 @@ generated:
 # Four-characteristic model of national historical master narratives
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article presents a model distinguishing four characteristics of national historical master narratives: the historical subject established by inclusion and exclusion, identification processes attaching affect and value judgments, historical events simplified around one common narrative theme, and a romantic and essentialist concept of the nation. The model was developed as a unit of analysis for studying how students consume master narratives, and the study applies it to Argentine students' narratives about May 25, 1810. The authors state it 'could be applied to master narratives in other countries, for example, on the American continent.'
@@ -24,7 +24,6 @@ The article presents a model distinguishing four characteristics of national his
 ### Claims
 
 - [Narratives of historical events become more complex from 8th to 11th grade](../claims/historical-events-complexity-increases-grade-11.md) [+W]
-- [Identification is statistically unrelated to the other three narrative characteristics](../claims/identification-dissociated-from-other-narrative-characteristics.md) [+W]
 - [Predominantly master-narrative accounts drop from 83% in 8th grade to 25% in 11th grade](../claims/narrative-patterns-master-narrative-decreases-grade-11.md) [+W]
 - [Identification with the historical subject ('us') does not change across grades](../claims/identification-us-constant-across-grades.md) [+W]
 - [Older students more often represent the historical subject as heterogeneous](../claims/historical-subject-heterogeneous-increases-grade-11.md) [+W]

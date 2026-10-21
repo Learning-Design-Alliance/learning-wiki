@@ -43,7 +43,7 @@ Expert interview with Richard Lee in this qualitative narrative-analysis study. 
 
 
 ## Related Claims
-- [School belonging research is marked by definitional ambiguity and terminology confusion, including conflation of belonging with acceptance, inclusion, and participation](school-belonging-definitional-ambiguity.md) — a broader claim this one bears on
+- School belonging research is marked by definitional ambiguity and terminology confusion, including conflation of belonging with acceptance, inclusion, and participation — a broader claim this one bears on
 - [Qualitative research shows marginalized students' sense of belonging depends on maintaining connections to their valued identities at school (self-concept fit)](self-concept-fit-qualitative-belonging.md) — related
 - [AMPT gave students the opportunity to express themselves and see their interests reflected in the math domain](ampt-interests-reflected-in-math.md) — related
 - [Collaborative pedagogies such as problem- and project-based learning are more likely to promote students' sense of belonging than lecture-based pedagogies, but effects depend on the group's attributes](collaborative-pedagogy-promotes-belonging.md) — related

@@ -63,6 +63,6 @@ Confirmatory factor analysis in a non-duplicate hold-out sample of 321 students 
 
 ## Related Claims
 - [The SRL-O supports both ten lower-order subscales and two superordinate factors (motivational beliefs and learning strategies)](srl-o-bifactor-two-superordinate-factors.md) — related
-- [Metacognition items loaded as a single factor, and time management combined with planning, in the SRL-O structure](srl-o-metacognition-single-factor-planning-time-management.md) — related
+- Metacognition items loaded as a single factor, and time management combined with planning, in the SRL-O structure — related
 - [No existing online SRL questionnaire covers the breadth of motivational beliefs and learning strategies the SRL-O covers](no-online-srl-measure-covers-breadth.md) — related
 - [Nine of the ten SRL-O subscales showed internal consistency above 0.70, with study environment lower (omega = 0.665)](srl-o-internal-consistency.md) — related

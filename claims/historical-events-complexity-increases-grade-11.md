@@ -47,4 +47,4 @@ Coding of the historical-events characteristic in the 38 interview narratives, d
 - [Predominantly master-narrative accounts drop from 83% in 8th grade to 25% in 11th grade](narrative-patterns-master-narrative-decreases-grade-11.md) — related
 - [Nation concept shifts from essentialist to constructivist across grades](nation-concept-constructivist-increases-grade-11.md) — related
 - [Identification with the historical subject ('us') does not change across grades](identification-us-constant-across-grades.md) — related
-- [Identification is statistically unrelated to the other three narrative characteristics](identification-dissociated-from-other-narrative-characteristics.md) — related
+- Identification is statistically unrelated to the other three narrative characteristics — related

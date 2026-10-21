@@ -44,12 +44,11 @@ Editors' framing (type e) of the Suthers, Dwyer, Medina and Vatrapu opening arti
 
 ## Related Claims
 
-- [Sequential analysis of discourse reveals meaning-making processes in small-group CSCL interactions](sequential-analysis-of-small-group-cognition.md)
 - [Diffusion-based centralities elucidate information exchange and uptake in large-scale collaboration, validated against achievement and qualitative analysis, according to the editors' account of Saqr and López-Pernas's study](diffusion-centralities-role-taking-cscl.md)
-- [Co-citation analysis identified eight seminal CSCL works with little overlap with an earlier corpus study, possibly over-generalizing to a European sub-network](co-citation-seminal-works-low-overlap-subnetwork-bias.md) — related
+- Co-citation analysis identified eight seminal CSCL works with little overlap with an earlier corpus study, possibly over-generalizing to a European sub-network — related
 - [Lag-sequential Analysis reveals temporal ordering patterns in CSCL interaction that traditional coding-and-counting approaches hide](lag-sequential-analysis-reveals-interaction-ordering.md) — related
 - [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
 - [Sequential analysis methods for discussion forums avoid the loss of sequential interaction information in coded-posting statistics](sequential-analysis-preserves-interaction-information.md) — related
-- [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](need-micro-level-theory-and-method-guidelines-ssrl.md) — related
+- The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains — related
 - [CSCL relations matter in two ways: interventions informed by empirical studies can support collaboration, and CSCL environments can foster key competencies](cscl-relations-matter-two-ways.md) — related
-- [CSCL theory has contributed more to understanding collaboration and group cognition than to technology design and analytic methodology](cscl-theory-stronger-than-design-methodology.md) — related
+- CSCL theory has contributed more to understanding collaboration and group cognition than to technology design and analytic methodology — related

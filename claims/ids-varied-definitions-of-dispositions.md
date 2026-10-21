@@ -47,5 +47,5 @@ Interview findings (RQ1 definition category): participants defined dispositions 
 - [Higher education instructional designers recognize dispositions as important learning goals in their course designs](ids-recognize-dispositions-as-learning-goals.md) — related
 - [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](varied-success-definitions-hinder-evaluation.md) — related
 - [Soft skills play an equally important role in education investments and outcomes as cognitive skills](soft-skills-equally-important-as-cognitive-skills.md)
-- [P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently](ct-processes-over-dispositions-pjbl.md) — related
-- [School belonging research is marked by definitional ambiguity and terminology confusion, including conflation of belonging with acceptance, inclusion, and participation](school-belonging-definitional-ambiguity.md) — related
+- P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently — related
+- School belonging research is marked by definitional ambiguity and terminology confusion, including conflation of belonging with acceptance, inclusion, and participation — related

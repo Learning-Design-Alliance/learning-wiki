@@ -44,8 +44,8 @@ Outcome coding (Category 6) across the 50 comparisons in the systematic review. 
 
 
 ## Related Claims
-- [Only 26% of IVR-vs-conventional comparisons in STEM media comparison studies were fully controlled on five key control criteria](ivr-comparisons-only-26-percent-fully-controlled.md) — related
+- Only 26% of IVR-vs-conventional comparisons in STEM media comparison studies were fully controlled on five key control criteria — related
 - [IVR conditions included participatory activities in 50% of comparisons while conventional conditions did so in only 20%](ivr-conditions-more-likely-to-include-activities.md) — related
 - [When activities were not controlled, the confound favored the IVR condition in 14 of 17 comparisons](activity-confounds-favor-ivr-condition.md) — related
-- [Complete operational definitions of conditions were provided in fewer than half of comparisons (42% conventional, 50% IVR)](operational-definitions-incomplete-in-ivr-studies.md) — related
-- [40% of IVR-vs-conventional comparisons had at least one confound related to instructional method and content](ivr-comparisons-40-percent-confounded.md) — related
+- Complete operational definitions of conditions were provided in fewer than half of comparisons (42% conventional, 50% IVR) — related
+- 40% of IVR-vs-conventional comparisons had at least one confound related to instructional method and content — related

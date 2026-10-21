@@ -12,7 +12,7 @@ generated:
 # Instrumental genesis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Instrumental genesis, developed in France by Pierre Rabardel and colleagues, describes how the agent-artifact connection evolves over time through usage and re-design. The editorial argues it can more naturally be applied to the small-group collective level central to CSCL than affordances theory (individual-focused) or structuration (societal-level), introducing it to the CSCL community at methodological, technological, and theoretical levels.
@@ -24,7 +24,6 @@ Instrumental genesis, developed in France by Pierre Rabardel and colleagues, des
 
 ### Claims
 
-- [The editorial calls for empirically grounded analysis combining Rabardel's theory with design-based research data to study mutual shaping of CSCL software and group cognition](../claims/rabardel-plus-design-based-research-agenda.md) [~W]
 - [Student dyads given planning software enacted changed practices not intended by designers or facilitators](../claims/planning-software-enactment-practices-changed-unintended.md) [+W]
 
 ## Related Research Methods

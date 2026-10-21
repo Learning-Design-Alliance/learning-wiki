@@ -46,5 +46,5 @@ Narrative synthesis finding: the review reports that co-constructions within loa
 - [Loaded moments (de)escalate through moment-by-moment co-construction such as mutual trade-offs, turnings, or refusals](co-construction-drives-de-escalation-trade-offs-turnings-refusals.md) — related
 - [Loaded moments emerge when instigating circumstances co-construct incompatibilities between teacher and students](instigating-circumstances-co-construct-incompatibility.md) — related
 - [Online PBL group interaction follows the scripted sequence initially, but co-regulation derails over time into social bonding with fewer high-cognitive interactions](pbl-group-sequence-derails-to-social.md) — related
-- [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — related
+- Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time — related
 - [Macro-level social contexts and existing classroom patterns set the scene for loaded moments](macro-contexts-set-scene-for-loaded-moments.md) — related

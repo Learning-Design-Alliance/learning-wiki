@@ -17,7 +17,7 @@ sources:
 # Foster and, if necessary, enforce socio-cognitive conflicts that lead to productive solutions as a strategy to optimize learning outcomes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 3 studies (2 review, 1 qualitative), `q2`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 3 studies (2 review, 1 qualitative), `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Arguing that socio-cognitive conflicts and productive friction are indispensable for learning and knowledge construction, the article recommends that fostering, and if necessary enforcing, such conflicts "that lead to a productive solution can be a fruitful strategy to optimize learning outcomes." It links this to productive failure in mathematics teaching (Kapur 2008), where learners first try out different, often false, solutions collaboratively before the correct solution is discovered. The article notes future research must show whether similar approaches work at large scale.
@@ -44,7 +44,6 @@ Arguing that socio-cognitive conflicts and productive friction are indispensable
 
 - [Articles edited by more heterogeneous contributors are more balanced, indicating productive friction that counters polarization](../claims/heterogeneous-contributors-balance-articles.md) [+W]
 - [Wikipedia contributors show confirmation bias by preferentially editing articles consistent with their own views](../claims/wikipedia-contributors-confirmation-bias-editing.md) [-W]
-- [Wikipedia clusters representing social and biomedical views on schizophrenia merged toward the integrative diathesis-stress model while the psychoanalytic cluster stayed isolated](../claims/schizophrenia-cluster-merger-diathesis-stress.md) [+W]
 - [PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented](../claims/ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) [+W]
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](../claims/cscl-simulation-conceptual-change-cognitive-engagement.md) [+W]
 

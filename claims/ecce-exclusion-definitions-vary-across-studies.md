@@ -44,6 +44,6 @@ Review synthesis of Table 2 coding: definitions varied, one study provided no de
 
 ## Related Claims
 - [Definitions of developmental dyscalculia vary widely across studies, with diagnostic cutoffs ranging from below the 3rd to below the 25th percentile](dd-diagnostic-cutoff-variation.md) — related
-- [Research on early childhood exclusionary discipline is accelerating but remains dominated by cross-sectional designs and convenience samples of a few hundred teachers.](ecce-exclusion-research-accelerating-cross-sectional.md) — related
+- Research on early childhood exclusionary discipline is accelerating but remains dominated by cross-sectional designs and convenience samples of a few hundred teachers. — related
 - [Annual expulsion rates in early care and education settings range widely, from 6 to 43.3 per 1,000 children enrolled, varying by program type and jurisdiction.](ecce-expulsion-rates-6-to-43-per-1000.md) — related
 - [Children's prior expulsion history is positively associated with expulsion risk, while rated disruptiveness of behavior was not a significant predictor in the one study testing both.](prior-expulsion-history-predicts-expulsion-risk.md) — related

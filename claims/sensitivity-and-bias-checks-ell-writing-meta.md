@@ -62,7 +62,7 @@ Publication bias assessment using funnel plots, trim-and-fill, and Egger's regre
 
 ## Related Claims
 - [Writing intervention effects for US ELL students do not vary significantly by study quality indicators, participant characteristics, or intervention characteristics](no-significant-moderators-ell-writing-effects.md) — related
-- [Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses](publication-bias-math-writing-meta-analysis.md) — related
+- Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
 - [Writing instruction produces a statistically significant positive overall effect on the writing performance of K-12 English language learners in the United States (g = 0.33)](writing-instruction-positive-overall-effect-us-ell.md) — possibly the same claim (merge candidate)
@@ -71,10 +71,10 @@ Publication bias assessment using funnel plots, trim-and-fill, and Egger's regre
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
 - [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](active-breaks-pooled-estimates-robust-sensitivity.md) — related
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
-- [The text generation research field shows a small-study effect suggesting publication bias](small-study-effect-publication-bias.md) — related
-- [No evidence of publication bias was found in the meta-analysis](no-publication-bias-ct-gender-meta-analysis.md) — related
+- The text generation research field shows a small-study effect suggesting publication bias — related
+- No evidence of publication bias was found in the meta-analysis — related
 - [Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent](publication-bias-reduces-intercept-no-transfer-without-moderators.md) — related
 - [Process writing yields a meaningful but not statistically significant effect (g = 0.51) on US ELL students' writing](process-writing-nonsignificant-us-ell-writing.md) — a narrower finding that bears on this claim
 - [Strategy instruction significantly improves the writing of US ELL students (g = 0.36)](strategy-instruction-significant-us-ell-writing.md) — related
-- [A cluster-robust Egger-type test found no statistically detectable small-study effects, interpreted as absence of evidence rather than evidence of no publication bias](egger-test-no-detectable-small-study-effects.md) — related
-- [Funnel-plot analysis finds no evidence of missing small-effect studies, though asymmetry from few negative estimates suggests possible small bias against null-negative results](publication-bias-grant-aid-meta-analysis.md) — related
+- A cluster-robust Egger-type test found no statistically detectable small-study effects, interpreted as absence of evidence rather than evidence of no publication bias — related
+- Funnel-plot analysis finds no evidence of missing small-effect studies, though asymmetry from few negative estimates suggests possible small bias against null-negative results — related

@@ -47,5 +47,5 @@ Simulation results (Tables 7 and 8) comparing model fit across Designs 1-4, whic
 - [Existing item fit statistics are derived for linear tests under assumptions of no missing responses and normal ability distributions, leaving adaptive testing contexts understudied](item-fit-statistics-derived-for-linear-tests-only.md) — related
 - [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](parceling-testlet-level-recovers-cat-construct.md) — related
 - [A semi-supervised deep learning architecture recovers the ability distribution of anchor students more accurately than direct 2PL-IRT fitting under simulated nonignorable missingness](semi-supervised-deep-learning-unbiased-ability-estimates.md) — related
-- [Missing data in the analysis samples occurred largely at random](missing-data-largely-at-random-training-study.md) — related
+- Missing data in the analysis samples occurred largely at random — related
 - [The trifactor model's performance across sample sizes and model specifications was examined via simulation studies comparing model fit, bias, and convergence rates](trifactor-simulation-performance-sample-size-specification.md) — related

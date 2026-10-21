@@ -46,8 +46,8 @@ The editorial reports, citing Wise and Chiu, a methodological contribution model
 
 - [Lag-sequential Analysis reveals temporal ordering patterns in CSCL interaction that traditional coding-and-counting approaches hide](lag-sequential-analysis-reveals-interaction-ordering.md)
 - [A small-scale pilot study explored the impact of a variety of roles on discussion-forum interaction across participative, social, cognitive, and teaching dimensions](role-playing-forum-interaction-pilot.md)
-- [Sequential analysis of discourse reveals meaning-making processes in small-group CSCL interactions](sequential-analysis-of-small-group-cognition.md) — related
+- Sequential analysis of discourse reveals meaning-making processes in small-group CSCL interactions — related
 - [Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration](role-design-facilitates-higher-order-behavior-transitions.md) — related
 - [Only the Collaborator group shows a complete significant sequential metacognitive chain from orientation through elaboration; the Replacement Tool group shows only self-loops](lsa-complete-chain-collaborator-only.md) — related
 - [The editors identify sequentiality of CSCL discourse — how one action takes up a previous action in online interaction — as a central, under-theorized problem](sequentiality-central-problem-cscl-discourse.md) — related
-- [Documented CSCL empirical corpus 2005–2009 relies mostly on questionnaires and code-and-count, not post-cognitive group-process approaches](cscl-2005-2009-corpus-questionnaire-code-and-count-dominance.md) — related
+- Documented CSCL empirical corpus 2005–2009 relies mostly on questionnaires and code-and-count, not post-cognitive group-process approaches — related

@@ -43,7 +43,7 @@ Meta-analytic covariate-combination results from the German samples quantify inc
 
 
 ## Related Claims
-- [Covariates explaining substantial outcome variance efficiently decrease the MDES and reduce required sample size in randomized experiments](covariates-improve-randomized-experiment-sensitivity.md) — related
+- Covariates explaining substantial outcome variance efficiently decrease the MDES and reduce required sample size in randomized experiments — related
 - [At the school level, domain-identical pretests show exceptional prognostic power from grade 5 onward, but are weaker predictors at the student and classroom levels across the school career](ip-exceptional-school-level-prediction-secondary.md) — related
 - [Domain-identical pretests are the most powerful single-level covariate type for student achievement, outperforming cross-domain pretests, fluid intelligence, and sociodemographic characteristics](ip-most-powerful-single-level-covariate-achievement.md) — related
 - [Sociodemographic covariates outweigh domain-identical pretests for predicting between-classroom and between-school variance in elementary school](sc-outweigh-ip-elementary-group-levels.md) — related

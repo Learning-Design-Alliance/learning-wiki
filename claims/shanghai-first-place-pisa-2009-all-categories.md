@@ -44,6 +44,5 @@ The editorial reports the released PISA 2009 results, in which "Shanghai took fi
 
 ## Related Claims
 
-- [CSCL 2011 marked a significant increase in Asian participation in CSCL research, drawing over 400 registrants from more than 30 countries](cscl2011-asian-participation-growth.md)
 - [The inverse relation between mathematics and reading sex differences also holds within nations across the performance continuum](within-nation-inverse-relation-performance-continuum.md)
 - [The reading sex difference favoring girls grew over the decade and was driven by very poor performance of boys at the low end](reading-gap-growing-driven-by-low-performing-boys.md)

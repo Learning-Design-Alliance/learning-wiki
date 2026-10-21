@@ -43,6 +43,6 @@ SEM results across three grade levels showed R² for achievement of 0.41 (fifth 
 
 
 ## Related Claims
-- [Covariates explaining substantial outcome variance efficiently decrease the MDES and reduce required sample size in randomized experiments](covariates-improve-randomized-experiment-sensitivity.md) — related
+- Covariates explaining substantial outcome variance efficiently decrease the MDES and reduce required sample size in randomized experiments — related
 - [Domain knowledge predicts science achievement directly and indirectly via self-concept at all three grade levels](knowledge-predicts-achievement-via-self-concept.md) — related
 - [Epistemic beliefs about the development of scientific knowledge directly predict domain knowledge in science across grades 5, 8, and 11](development-epistemic-beliefs-predict-science-knowledge.md) — related

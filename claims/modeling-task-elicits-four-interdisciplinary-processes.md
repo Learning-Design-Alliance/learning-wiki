@@ -46,6 +46,6 @@ Multiple case study of three multidisciplinary group discussions (audio-recorded
 - [Groups' success in merging perspectives was related to the time they allocated to the interdisciplinary cognitive processes, especially transforming knowledge and critical stance](time-allocation-relates-to-merging-extent.md) — related
 - [Three discourse patterns emerged during collaborative multidisciplinary modeling, differing in the extent to which students merged disciplinary perspectives](three-interdisciplinary-discourse-patterns.md) — related
 - [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) — related
-- [Sequential analysis of discourse reveals meaning-making processes in small-group CSCL interactions](sequential-analysis-of-small-group-cognition.md) — related
+- Sequential analysis of discourse reveals meaning-making processes in small-group CSCL interactions — related
 - [Newell's complex systems theory of interdisciplinarity fails to explain integration, as its critics and Newell himself acknowledge](newell-complex-systems-theory-integration-gap.md) — related
 - [Gee's engagement with game studies was instrumental multidisciplinarity, not substantive interdisciplinarity](gee-instrumental-multidisciplinarity-not-interdisciplinarity.md) — related

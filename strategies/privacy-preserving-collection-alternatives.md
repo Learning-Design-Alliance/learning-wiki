@@ -17,7 +17,7 @@ sources:
 # Offer privacy-preserving participation alternatives such as on-site labs and bootable privacy-oriented operating systems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 For sensitive data, the article recommends moving participation on-site into lab rooms allowing anonymous participation with privacy-oriented software, or having participants boot a privacy-oriented operating system from a USB flash drive. Such systems "neither record any data onto the hard drive nor transfer user data", enabling anonymous remote participation. The author notes the preparation requires participant effort and may strongly limit the number of willing participants, and that laboratories should use PCs whose operating systems do not transfer user data.
@@ -39,7 +39,6 @@ For sensitive data, the article recommends moving participation on-site into lab
 
 ## Claims
 
-- [AI-related changes to consumer software threaten the anonymity of remotely collected research data](../claims/ai-changes-threaten-remote-data-anonymity.md) [+W]
 - [Researchers may need to treat all remotely collected data as potentially identifiable personal data](../claims/treat-remote-data-as-potentially-identifiable.md) [+W]
 
 ## Related Strategies

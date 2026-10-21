@@ -45,7 +45,7 @@ Publication bias assessment using funnel plot, Egger's regression intercept (t(1
 ## Related Claims
 - [Effort and monitoring judgments show a medium negative correlation (r = −.355) during learning](negative-effort-monitoring-correlation-meta-analysis.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
-- [The text generation research field shows a small-study effect suggesting publication bias](small-study-effect-publication-bias.md) — related
-- [No evidence of publication bias was found in the meta-analysis](no-publication-bias-ct-gender-meta-analysis.md) — related
-- [A cluster-robust Egger-type test found no statistically detectable small-study effects, interpreted as absence of evidence rather than evidence of no publication bias](egger-test-no-detectable-small-study-effects.md) — related
-- [No evidence of publication bias, and extra-large-sample studies do not differ from the rest](no-publication-bias-digital-reading-meta-analysis.md) — related
+- The text generation research field shows a small-study effect suggesting publication bias — related
+- No evidence of publication bias was found in the meta-analysis — related
+- A cluster-robust Egger-type test found no statistically detectable small-study effects, interpreted as absence of evidence rather than evidence of no publication bias — related
+- No evidence of publication bias, and extra-large-sample studies do not differ from the rest — related

@@ -49,4 +49,4 @@ Theoretical literature analysis: the author's survey of sociocultural SLA studie
 - [Review reports that reticent non-local students who resisted local classroom norms were academically superior on other performance kinds (Duff, 2002)](reticent-students-academically-superior-duff.md) — related
 - [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](el-collaborative-discussion-sociocultural-benefit.md) — related
 - [Mainstream motivation theories have extended toward identity and culture but keep explanatory constructs within individuals](mainstream-motivation-theories-individual-constructs.md) — related
-- [Sociocultural theory emerged from the Russian Revolution, and English translations systematically deleted its Marxist references](sociocultural-theory-marxist-origins-deleted-translations.md) — related
+- Sociocultural theory emerged from the Russian Revolution, and English translations systematically deleted its Marxist references — related

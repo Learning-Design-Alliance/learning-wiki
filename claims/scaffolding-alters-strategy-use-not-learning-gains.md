@@ -45,7 +45,7 @@ Exploratory data mining (hierarchical clustering, sequential pattern mining, hea
 
 ## Related Claims
 - [Students' learning strategies can be detected and interpreted from activity sequences in the Betty's Brain open-ended learning environment](bettys-brain-strategy-detection-activity-sequences.md) — related
-- [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](need-micro-level-theory-and-method-guidelines-ssrl.md) — related
+- The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains — related
 - [More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.](more-successful-students-higher-gains-focused-actions.md) — related
 - [During collaborative learning, low and high cognition have remarkably long lasting (6 lags) positive effects on themselves, planning induces low cognition which sparks high cognition, and scaffolding does not alter these sequences](statistical-discourse-analysis-regulation-cognition-sequences.md) — related
 - [In one video study of Betty's Brain, 77% of the feedback delivered by the agents was ignored by students.](betty-brain-feedback-ignored-77-percent.md) — related

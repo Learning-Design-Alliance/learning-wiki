@@ -43,7 +43,7 @@ Multilevel meta-analytic results for the total student population in elementary 
 
 
 ## Related Claims
-- [Covariates explaining substantial outcome variance efficiently decrease the MDES and reduce required sample size in randomized experiments](covariates-improve-randomized-experiment-sensitivity.md) — related
+- Covariates explaining substantial outcome variance efficiently decrease the MDES and reduce required sample size in randomized experiments — related
 - [At the school level, domain-identical pretests show exceptional prognostic power from grade 5 onward, but are weaker predictors at the student and classroom levels across the school career](ip-exceptional-school-level-prediction-secondary.md) — related
 - [Domain-identical pretests are the most powerful single-level covariate type for student achievement, outperforming cross-domain pretests, fluid intelligence, and sociodemographic characteristics](ip-most-powerful-single-level-covariate-achievement.md) — related
 - [Typical R2Child values with sociodemographic and baseline covariates were around 0.18–0.26 for preschool cognitive and SEL outcomes in US data](preschool-typical-r2child-covariate-sets.md) — related

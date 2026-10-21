@@ -52,9 +52,8 @@ Cluster analysis of proportion vectors of SEDA-adapted dialogue codes from 173 s
 - [Unsupervised hierarchical clustering of knowledge vectors recovers expert bundle structure without bundle labels](clustering-recovers-expert-bundles.md) — related
 - [A secondary ENA adding ICAP engagement codes showed proactive interactions linked constructive engagement with adequate reasoning, while reactive dialogues emphasised procedural pairings](proactive-engagement-constructive-adequate-reasoning-link.md) — related
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — related
-- [Turn-level dialogue codes cluster into three components: Elaborated, Reasoned and Non-Dialogic](dialogue-codes-three-component-pca-solution.md)
 - [Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges](three-strategy-clusters-from-ngram-flip-sequences.md)
-- [Cluster analysis of blog networks yields five distinct social-role categories](blog-network-cluster-five-social-roles.md) — related
+- Cluster analysis of blog networks yields five distinct social-role categories — related
 - [Human and AI discourse differ functionally: students lead invitations, connection, and regulation moves, while AI leads reasoning, coordination, and agreement](human-ai-discourse-functional-differences.md) — related
 - [Collaboration aids learning of mathematical elaboration skills but not procedural skills](collaboration-aids-elaboration-not-procedural-skills.md) — related
 - [Epistemic network analysis showed Type 1 concentrating on behaviour-related code connections, Type 2 on both communication- and behaviour-related connections, and Type 3 on communication-related connections](ena-structural-profiles-pattern-types.md) — related

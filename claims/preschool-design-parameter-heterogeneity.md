@@ -46,4 +46,4 @@ Meta-analytic integration (Stage 2) of design parameters estimated from the Germ
 - [Between-center differences in preschool cognitive and SEL outcomes were mostly small in the United States but more pronounced in Germany and the United Kingdom](preschool-between-center-differences-vary-by-country.md) — related
 - [Effects of game-based learning in STEM education vary substantially across studies, with prediction intervals spanning trivial-to-negative through very strong effects](games-stem-substantial-heterogeneity-prediction-intervals.md) — related
 - [Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval](ai-literacy-intervention-effects-highly-heterogeneous.md) — related
-- [The study estimated 237 single-level, 589 two-level, and 226 three-level design parameters from German preschool probability samples](preschool-design-parameters-estimated-counts.md) — related
+- The study estimated 237 single-level, 589 two-level, and 226 three-level design parameters from German preschool probability samples — related

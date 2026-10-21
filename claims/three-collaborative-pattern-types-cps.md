@@ -50,7 +50,7 @@ Application of the MCSA pipeline (optimal matching plus Ward's clustering) to 24
 - [Type 2 groups showed a communication–behaviour-synergistic transition, Type 1 a behaviour-oriented, and Type 3 a communication-oriented transition in hidden Markov models](hmm-transitional-regularities-pattern-types.md) — related
 - [Model-based clustering of tied durations identifies four weekly regulation patterns in PBL group discussions](four-weekly-regulation-patterns-pbl.md)
 - [Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges](three-strategy-clusters-from-ngram-flip-sequences.md)
-- [In reviewed studies, individual data types were analyzed mainly with descriptive analysis, content analysis, network analysis, and clustering](four-analytical-methods-individual-participation.md) — a broader claim this one bears on
+- In reviewed studies, individual data types were analyzed mainly with descriptive analysis, content analysis, network analysis, and clustering — a broader claim this one bears on
 - [Groups' progress during collaboration falls into four data-driven categories differing in sequence frequencies and the regulation phases groups return to](four-categories-group-progress-monitoring-sequences.md) — related
 - [Regulation in collaborative learning is layered: the portfolio of regulation layers needs itself to be regulated](layered-self-regulation-meta-metacognition.md) — related
 - [Groups that initiated collaboration early, coordinated before problem-solving, and interacted continuously tended to achieve equal participation and higher satisfaction](early-coordination-continuous-interaction-equal-participation.md) — related

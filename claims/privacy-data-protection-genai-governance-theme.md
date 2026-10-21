@@ -47,7 +47,7 @@ Grounded-coding finding from the Delphi panel: "Over half the panel (55%)" expli
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [PGR students strongly opposed uploading human-participant or sensitive qualitative data to GenAI platforms or using GenAI to interpret such data](opposition-genai-human-centred-research-data.md) — a narrower finding that bears on this claim
 - [Universities converge on privacy-oriented data guardrails, warning against entering sensitive data into consumer AI tools and encouraging institutionally approved services](genai-privacy-data-guardrails-convergence.md) — related
-- [AI-related changes to consumer software threaten the anonymity of remotely collected research data](ai-changes-threaten-remote-data-anonymity.md) — related
+- AI-related changes to consumer software threaten the anonymity of remotely collected research data — related
 - [Expert panelists overwhelmingly favor a hybrid governance model combining formal policies and flexible guidelines for GenAI in higher education](genai-hybrid-policy-guidelines-governance-consensus.md) — related
 - [Researchers may need to treat all remotely collected data as potentially identifiable personal data](treat-remote-data-as-potentially-identifiable.md) — related
 - [Institutions diverge in tooling strategy between protected, institutionally hosted AI environments and consumer tools governed by risk controls](genai-tooling-strategy-divergence.md) — related
