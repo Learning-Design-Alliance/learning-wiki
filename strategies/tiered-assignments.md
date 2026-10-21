@@ -91,6 +91,7 @@ Tiering operationalizes instruction within each learner's zone of proximal devel
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the mechanism by which lower tiers support rather than dilute learning
 - [Differentiate CT scaffolding by initial CT level: open-ended challenges for moderate-CT, constraint-based tasks for high-CT, structured pathways for low-CT learners](differentiated-scaffolding-by-initial-ct-level.md)
 - [Let students choose the complexity level of the LLM feedback](student-selected-feedback-complexity-level.md)
+- [Support low-ability students in open inquiry with graduated scaffolds such as general procedures and worked examples](graduated-scaffolds-low-ability-open-inquiry.md)
 
 ## Examples
 - **Parallel math tasks (Marilyn Burns / NCTM tradition)**: all students investigate the same relationship (e.g., patterns in perimeter), with tiers offering manipulatives and sentence frames, open investigation, or a generalization-and-proof challenge.

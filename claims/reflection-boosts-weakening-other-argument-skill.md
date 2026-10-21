@@ -69,3 +69,4 @@ Individual-level analysis (Table 2) confirmed the group-level result: both condi
 - [Adding reflective activities to dialogic argumentation produced greater content-knowledge gains on the intervention topic than argumentation practice alone](reflection-boosts-topic-knowledge-gains.md) — related
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related
 - [Students became better able to develop arguments even prior to interacting with LLMs, per the authors' interpretation of initial-draft gains](argument-gains-without-llm-support.md) — related
+- [Open inquiry enhances students' science literacy and related skills such as environmental literacy, argumentation, autonomy and reflection](open-inquiry-science-literacy-skills.md) — related

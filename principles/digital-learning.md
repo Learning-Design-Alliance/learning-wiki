@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 70 claims (35 for, 32 mixed, 3 against) · 76 studies (19 causal, 16 review, 12 quant-synthesis, 12 theoretical, 6 associational, 6 design, 5 qualitative), `q1`–`q4` · 13 of 76 report an effect size · 60 claims rest on one study
+> **Evidence** · 71 claims (35 for, 33 mixed, 3 against) · 77 studies (19 causal, 17 review, 12 quant-synthesis, 12 theoretical, 6 associational, 6 design, 5 qualitative), `q1`–`q4` · 13 of 77 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -184,6 +184,10 @@ The model should change in five cases:
 Do not protect the model by calling every failure "poor implementation" after the fact. Record the configuration before the results.
 
 Access, use, assisted success, unaided immediate performance, delayed retention and transfer are separate outcomes. The present evidence establishes no dose of digital practice, no threshold for moving on, and no effect of the medium itself.
+
+## Claims
+
+- [Technology can remove geographical barriers and allow rural and external students to engage in WIL activities](../claims/ewil-removes-geographical-barriers.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

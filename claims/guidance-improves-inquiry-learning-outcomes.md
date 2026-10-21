@@ -99,3 +99,4 @@ Narrative review reporting the D'Angelo et al. (2014) meta-analysis: supplementi
 - [Explicit teaching of the control-of-variables strategy shows no advantage over not explicitly teaching it, per the Schwichow et al. meta-analysis cited in the review](cvs-explicit-teaching-no-advantage.md) — related
 - [Guidance increases the effectiveness of inquiry-based learning, and all six guidance types were equally effective](guidance-boosts-inquiry-half-sd.md) — related
 - [Instructional approaches that include inquiry learning are more effective than direct instruction for acquiring conceptual knowledge, per the review's synthesis of meta-analyses](inquiry-more-effective-than-direct-conceptual-knowledge.md) — related
+- [Meta-analysis of 164 studies found assisted inquiry more effective than explicit instruction](alfieri-meta-analysis-assisted-inquiry-beats-explicit-instruction.md) — related

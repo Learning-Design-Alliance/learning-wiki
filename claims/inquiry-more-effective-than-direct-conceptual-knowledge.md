@@ -67,3 +67,5 @@ The review attributes to the Alfieri et al. (2011) meta-analysis of 164 primary 
 - [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — related
 - [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
+- [Meta-analysis of 164 studies found assisted inquiry more effective than explicit instruction](alfieri-meta-analysis-assisted-inquiry-beats-explicit-instruction.md) — a narrower finding that bears on this claim
+- [The highest level of inquiry may not be the 'best' approach for science learning](open-inquiry-highest-level-not-best.md) — related

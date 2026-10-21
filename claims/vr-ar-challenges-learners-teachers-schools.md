@@ -51,3 +51,5 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [Four current challenges impede AI literacy implementation: inconsistent policies, uneven knowledge, resistance, and cost barriers](four-challenges-ai-literacy-implementation.md) — related
 - [Educational game adoption is hindered along socio-cultural, educational, and technological dimensions, including social rejection, limited accessibility to games and technology, and high development costs.](barriers-to-educational-games-three-dimensions.md) — related
 - [Teachers' limited skills in facilitating conversations and managing classrooms was the second most salient implementation barrier](skill-barriers-conversation-facilitation-classroom-management.md) — related
+- [Open inquiry implementation faces challenges requiring classroom management, flexible teaching, teacher-student interaction and teacher support](open-inquiry-implementation-challenges.md) — related
+- [In a piloted virtual reality WIL, most students reported improved crisis-problem-solving understanding and high enjoyment](vr-wil-crisis-pilot-outcomes.md) — related

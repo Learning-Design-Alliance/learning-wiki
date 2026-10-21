@@ -49,3 +49,4 @@ Moderator analysis of scaffolding intervention type (conceptual, strategic, meta
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
 - [Presence versus absence of individual scaffolding types did not support the added-value hypothesis, but scaffolding combinations partly did](scaffolding-added-value-partly-supported.md) — related
 - [Scaffolding's influence was greater when measured at the principles assessment level than at the concept level](principles-level-assessment-highest-scaffolding-effect.md) — related
+- [Scaffolding shows a moderate positive effect on conceptual learning outcomes in STEM pedagogical interventions other than direct instruction](scaffolding-moderate-effect-stem-conceptual-learning.md) — related

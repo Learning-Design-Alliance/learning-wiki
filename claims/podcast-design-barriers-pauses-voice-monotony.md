@@ -48,3 +48,4 @@ Qualitative Framework Analysis of four FGDs (three at Centre 1, one at Centre 2;
 - Grounded theory analysis of 1,054 university students identifies five dimensions of AI fatigue, each with two indicators — related
 - [Reviewer free-text comments identified synthetic voice, slide–narration reveal timing, and slide layout as the main remaining quality issues](bespoke-free-text-voice-reveal-layout-issues.md) — related
 - [Podcast gains extend beyond recall to higher-order application and analysis items at both centres](podcast-gains-higher-order-domains.md) — related
+- [Successful low-prior-knowledge inquiry learners managed cognitive load by exploring simple circuits first and pausing during learning](cognitive-load-management-in-inquiry-simulation-learning.md) — related

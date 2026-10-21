@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 32 claims (15 show a difference, 12 mixed, 5 no difference) · 16 studies (8 review, 5 associational, 2 causal, 1 quant-synthesis), `q2`–`q3` · 6 of 16 report an effect size · 32 claims rest on one study
+> **Evidence** · 33 claims (16 show a difference, 12 mixed, 5 no difference) · 17 studies (9 review, 5 associational, 2 causal, 1 quant-synthesis), `q2`–`q3` · 6 of 17 report an effect size · 33 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -67,6 +67,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [Perfectionistic concerns are consistently related to maladaptive outcomes in academically gifted students while perfectionistic strivings show mixed outcomes](../claims/pc-debilitating-ps-mixed-gifted-students.md) [~W] — learners who differ on it differ in outcomes
 - [Most investigated counselor personality variables are not significantly related to effectiveness criteria, and variables significant in one study often show contrary results when re-investigated](../claims/counselor-traits-mostly-unrelated-to-effectiveness.md) [~M] — learners who differ on it differ in outcomes
 - [Student factors — older age, personality traits, intrinsic motivation and self-efficacy — are associated with deeper approaches to learning](../claims/student-factors-deep-approach.md) [+M] — learners who differ on it differ in outcomes
+- [Fit influences career progress and personal resources during the transition from higher education to the labour market](../claims/fit-influences-career-progress-and-personal-resources.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

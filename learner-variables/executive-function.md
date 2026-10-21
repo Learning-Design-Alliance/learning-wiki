@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (52 show a difference, 13 mixed, 18 no difference) · 48 studies (21 associational, 11 causal, 9 review, 5 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 12 of 48 report an effect size · 81 claims rest on one study
+> **Evidence** · 84 claims (53 show a difference, 13 mixed, 18 no difference) · 49 studies (21 associational, 11 causal, 10 review, 5 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 13 of 49 report an effect size · 82 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -120,6 +120,7 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Classroom active breaks show no statistically significant effect on inhibitory control in schoolchildren](../claims/active-breaks-no-significant-effect-inhibitory-control.md) [-W] — instruction changes it
 - [Meta-analytic findings show small-to-medium relations between EF and academic performance, with cognitive flexibility showing the strongest effects](../claims/ef-academic-performance-small-to-medium-meta-analytic.md) [+W] — learners who differ on it differ in outcomes
 - [Student characteristics beyond prior knowledge — inhibitory control, reading comprehension, and self-concept — moderate the effectiveness of inquiry-based instruction](../claims/student-characteristics-moderate-inquiry-effectiveness.md) [+W] — an instructional effect differs with it
+- [Guided play outperformed direct instruction for executive functioning and numeracy in early childhood, but not for literacy or socioemotional outcomes](../claims/guided-play-versus-direct-instruction-early-childhood.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

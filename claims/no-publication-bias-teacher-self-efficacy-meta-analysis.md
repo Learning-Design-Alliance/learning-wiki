@@ -49,3 +49,4 @@ Publication-bias assessment of the meta-analytic sample using Egger's regression
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36](publication-bias-adjusted-effect-036.md) — reports the opposite
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — reports the opposite
+- [Effect sizes of biology conceptual change interventions were strongly influenced by sample size and publication bias](biology-cc-effect-sizes-sample-size-publication-bias.md) — reports the opposite

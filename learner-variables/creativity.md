@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 61 claims (44 show a difference, 13 mixed, 4 no difference) · 34 studies (12 causal, 11 associational, 5 review, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 10 of 34 report an effect size · 59 claims rest on one study
+> **Evidence** · 62 claims (45 show a difference, 13 mixed, 4 no difference) · 35 studies (12 causal, 11 associational, 6 review, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 10 of 35 report an effect size · 60 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -96,6 +96,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Unmedicated children with ADHD score higher than controls on TTCT-Figurative Originality](../claims/adhd-children-higher-ttct-originality.md) [+M] — instruction changes it
 - [Vigorous physical activity is positively and significantly correlated with fluency, originality, flexibility and overall creativity in 10–11-year-old children](../claims/vigorous-activity-correlates-divergent-thinking.md) [+M] — instruction changes it
 - [Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration](../claims/vigorous-activity-predicts-o-flu-fle-not-ela.md) [~W] — instruction changes it
+- [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](../claims/open-inquiry-scientific-thinking-skills.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

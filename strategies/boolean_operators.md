@@ -69,9 +69,11 @@ Search is a problem-solving task with a hidden logic layer; without instruction,
 - Improved independence in inquiry and research projects
 
 ## Related Strategies
+
 - Search strategy instruction generally — Boolean operators are the syntax component of broader search strategy training
 - Source evaluation instruction — the necessary complement, since precise retrieval does not guarantee credible sources
 - Inquiry-based research projects — authentic tasks that give operator practice a purpose
+- [Broaden search terminology and bibliographic databases in future eWIL reviews](ewil-future-review-search-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — operators only become fluent through repeated, feedback-rich search attempts

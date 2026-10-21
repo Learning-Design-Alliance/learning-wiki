@@ -52,7 +52,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (32 for, 18 mixed, 5 against) · 63 studies (18 causal, 15 quant-synthesis, 8 review, 7 theoretical, 6 qualitative, 6 design, 3 associational), `q1`–`q4` · 15 of 63 report an effect size · 42 claims rest on one study
+> **Evidence** · 56 claims (32 for, 19 mixed, 5 against) · 64 studies (18 causal, 15 quant-synthesis, 9 review, 7 theoretical, 6 qualitative, 6 design, 3 associational), `q1`–`q4` · 15 of 64 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -187,6 +187,7 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Guided inquiry was positively associated with science achievement in all 16 PISA 2015 regions where it was applied](../claims/guided-inquiry-positive-all-regions.md) [+W]
 - [Program-based studies show mixed results: a large inquiry-curriculum study found higher achievement, while two carefully designed comparison studies found no differences](../claims/program-based-studies-mixed-results.md) [~M]
 - [Instructional approaches that include inquiry learning are more effective than direct instruction for acquiring conceptual knowledge, per the review's synthesis of meta-analyses](../claims/inquiry-more-effective-than-direct-conceptual-knowledge.md) [+W]
+- [Open inquiry enhances students' science literacy and related skills such as environmental literacy, argumentation, autonomy and reflection](../claims/open-inquiry-science-literacy-skills.md) [~W]
 
 ## Related Principles
 

@@ -47,3 +47,4 @@ Percentage analysis of coded think-aloud utterances from the 40-participant expe
 - [Self-explanation-based and inquiry learning environments elicit significantly more total learning-process instances than hypermedia and observational learning environments](generation-approaches-elicit-more-learning-processes.md) — related
 - [Hypermedia learners show the lowest total engagement in learning processes, devoting most processing to superficial activities](hypermedia-lowest-total-process-engagement.md) — reports the opposite
 - [The self-explanation-based environment elicits the most (self-)explanations and the inquiry environment elicits high hypothesis generation](approach-specific-process-profiles.md) — related
+- [Generative instructional conditions (inquiry and explanation) outperformed receptive conditions on far transfer, with inquiry best on far transfer problems](eysink-four-methods-inquiry-far-transfer-advantage.md) — related

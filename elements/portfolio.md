@@ -13,7 +13,7 @@ generated:
 # Portfolio
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 5 studies (1 causal, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 5 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 6 studies (1 causal, 1 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 6 report an effect size · 8 claims rest on one study
 
 ## Description
 A portfolio is a purposeful collection of learner work — artifacts, drafts, and reflections — assembled over time to document progress, demonstrate competence, and support self-evaluation. Unlike point-in-time [assessment](assessment.md), it captures process as well as product, and the learner typically participates in selecting and annotating what is included.
@@ -58,6 +58,7 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 - [Ninth graders using Knowledge Forum with portfolios and knowledge-building principles showed higher database inquiry participation than the Knowledge Forum-only class](../claims/kf-portfolio-principles-higher-atk-inquiry.md) [+W]
 - [The portfolio-principles class produced more high-level explanations and deeper explanations than the other two Knowledge Forum classes](../claims/portfolio-principles-deeper-explanations.md) [+W]
 - [Students with portfolios and knowledge-building principles asked more questions and higher-level questions than both comparison classes](../claims/portfolio-principles-more-high-level-questions.md) [+W]
+- [Technologies are used to assess student performance during WIL, commonly via online reflective journals and e-portfolios](../claims/technology-assessment-reflective-journals-ewil.md) [+W]
 
 ## The evidence by question
 - *Does building a portfolio in a course raise learners' engagement, achievement and persistence?* [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](../claims/epportfolio-courses-engagement-grades-persistence.md) [+W]

@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 75 claims (36 for, 33 mixed, 6 against) · 76 studies (25 review, 20 causal, 8 qualitative, 8 theoretical, 5 quant-synthesis, 5 associational, 5 design), `q1`–`q4` · 7 of 76 report an effect size · 70 claims rest on one study
+> **Evidence** · 76 claims (37 for, 33 mixed, 6 against) · 77 studies (26 review, 20 causal, 8 qualitative, 8 theoretical, 5 quant-synthesis, 5 associational, 5 design), `q1`–`q4` · 7 of 77 report an effect size · 71 claims rest on one study
 
 ## Conditional relationship
 
@@ -185,6 +185,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 
 - [Teachers in African mainstream classrooms responded to diverse learner needs through curriculum and task adaptations and individualized instruction](../claims/teachers-adapt-curriculum-tasks-individualized-instruction-africa.md) [+W]
 - [Most primary studies in simulation-based learning do not personalize scaffolding or task progression](../claims/most-studies-lack-personalization.md) [~W]
+- [Prior reviews identify interactive, well-timed, tailored programs delivered by trained personnel as effective](../claims/prior-reviews-effective-rse-features.md) [+W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing
