@@ -55,9 +55,12 @@ QUEUE_FAILED = RUNS_DIR / "queues" / "fetch-failed.ndjson"   # queue entries no 
 
 def _proxy_down(e: Exception) -> bool:
     """Whether a fetch failed because the local proxy could not be reached at all, which says
-    nothing about the article. fetch_article folds the cause into its message, so test the text."""
+    nothing about the article. fetch_article folds the cause into its message, so test the text.
+    "Unable to connect to proxy" alone is not enough: a remote host dropping its tunnel reads the
+    same (RemoteDisconnected), and stopping the sweep for one bad repository is wrong. A proxy that
+    is down or has moved refuses the connection."""
     s = str(e)
-    return "Unable to connect to proxy" in s or ("ProxyError" in s and "Connection refused" in s)
+    return "ProxyError" in s and ("Connection refused" in s or "Errno 111" in s or "NewConnectionError" in s)
 SCRAPE_REPORT_PATH = RUNS_DIR / "scrape.html"
 MAX_HISTORY = 20
 
