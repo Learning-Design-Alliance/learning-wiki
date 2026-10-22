@@ -226,7 +226,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [DLG implementation is associated with improved language and reading skills and more positive attitudes towards learning and reading](../claims/dlg-improve-language-reading-skills.md) [+M] — instruction changes it
 - [For postdiction bias on factual questions, underestimation was prevalent for females, higher reading skill, and lower self-perceived topic knowledge and metacomprehension ability](../claims/factual-postdiction-underestimation-pattern.md) [+M] — learners who differ on it differ in outcomes
 - [Extensive reading effects are larger when sample members have different first languages](../claims/er-mixed-first-language-larger-effects.md) [+M] — an instructional effect differs with it
-- [Extensive reading has a small, significant positive short-term effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons)](../claims/er-positive-effect-second-foreign-language.md) [+M] — instruction changes it
+- [Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)](../claims/er-positive-effect-second-foreign-language.md) [+M] — instruction changes it
 - [Extensive reading shows small-to-medium significant positive effects on every measured language domain, including vocabulary, reading comprehension, and general proficiency](../claims/er-effects-across-language-domains.md) [+W] — instruction changes it
 
 ## The evidence by question

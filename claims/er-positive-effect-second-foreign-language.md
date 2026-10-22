@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Extensive reading has a small, significant positive short-term effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons)
-description: Extensive reading has a small, significant positive short-term effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons)
+title: Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)
+description: Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)
 id: er-positive-effect-second-foreign-language
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 3
 ---
 
-# Extensive reading has a small, significant positive short-term effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons)
+# Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i2` Across 86 experimental comparisons, extensive reading produced a small, significant positive effect on second/foreign language learning (Cohen's d = 0.41). [→ Sangers 2025](#sangers-2025)
+`q3 i2` Across 86 experimental comparisons (82 immediate, 4 follow-up), extensive reading produced a small, significant positive effect on second/foreign language learning (Cohen's d = 0.41); restricted to the 82 immediate comparisons, d = 0.38. [→ Sangers 2025](#sangers-2025)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Sangers, N. L., van der Sande, L., Welie, C., Dobber, M., & van Steensel, R. (20
 
 `q3 · i2` · `quant-synthesis · r3`
 
-Random-effects meta-analysis of 86 experimental comparisons from 73 studies of extensive reading interventions in second/foreign language contexts. The article reports "a small, significant positive effect (Cohen’s d = 0.41; SE = 0.07)". A sensitivity analysis excluding the four L2 studies left effects essentially unchanged (d = 0.40).
+Random-effects meta-analysis of 86 experimental comparisons from 73 studies of extensive reading interventions in second/foreign language contexts. The article reports "a small, significant positive effect (Cohen’s d = 0.41; SE = 0.07)" across all 86 comparisons, four of them follow-up measurements. Because follow-ups were so few, the analyses use only immediate effects (k = 82; d = 0.38, SE = 0.07), so the finding is about short-term effects; no long-term effect could be established for lack of follow-up measurements. A sensitivity analysis excluding the four L2 studies left effects essentially unchanged (d = 0.40).
 
 > "We first analyzed the overall intervention effects based on 86 experimental comparisons. This revealed a small, significant positive effect (Cohen’s d = 0.41; SE = 0.07)."
 

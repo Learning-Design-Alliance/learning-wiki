@@ -66508,12 +66508,12 @@
 "type":"claim"
 },
 {
-"description":"Extensive reading has a small, significant positive short-term effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons)",
+"description":"Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)",
 "evidence_strength":"moderate",
 "id":"er-positive-effect-second-foreign-language",
 "path":"claims/er-positive-effect-second-foreign-language.md",
 "status":"review",
-"title":"Extensive reading has a small, significant positive short-term effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons)",
+"title":"Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)",
 "type":"claim"
 },
 {

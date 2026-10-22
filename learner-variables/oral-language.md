@@ -125,7 +125,7 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [The review proposes that embodied language learning engages learners holistically while promoting language skills and adding emotional and motivational benefits](../claims/embodied-language-learning-holistic-engagement-emotional-benefits.md) [+M] — instruction changes it
 - [Elaborative reminiscing delivered by non-parents benefits children, with strongest effects for low-SES and lower-ability children](../claims/non-parent-elaborative-reminiscing-low-ses-benefits.md) [+M] — an instructional effect differs with it
 - [Intervention studies suggest elaborative style during reminiscing plays a causal role in children's language, narrative and theory-of-mind development](../claims/elaborative-reminiscing-interventions-causal-role.md) [+M] — instruction changes it
-- [Extensive reading has a small, significant positive short-term effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons)](../claims/er-positive-effect-second-foreign-language.md) [+M] — instruction changes it
+- [Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)](../claims/er-positive-effect-second-foreign-language.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

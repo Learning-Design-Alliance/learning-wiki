@@ -66,5 +66,5 @@ Table 2 row for the different-first-language category: k = 5 comparisons, d = 1.
 
 ## Related Claims
 - [Participant background (local vs. immigrant) did not significantly moderate the attitude–proficiency association](participant-background-null-moderator.md) — related
-- [Extensive reading has a small, significant positive short-term effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons)](er-positive-effect-second-foreign-language.md) — related
+- [Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)](er-positive-effect-second-foreign-language.md) — related
 - [Extensive reading effects are larger when learners' text choice is limited (e.g., by reading level)](er-text-limitation-larger-effects.md) — related

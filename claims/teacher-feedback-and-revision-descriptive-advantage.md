@@ -35,7 +35,7 @@ Dignath, C., van Ewijk, R., Perels, F., & Fabriz, S. (2023). Let Learners Monito
 
 `q3 · i?` · `quant-synthesis · r?`
 
-Descriptive moderator finding from the meta-analysis of 32 studies (teacher feedback coded yes n = 11, no n = 18). The review reports "higher effects were found in favor of monitoring interventions that included teacher feedback on self-monitoring entries".
+Descriptive moderator finding from the meta-analysis of 32 interventions reported in 29 articles (teacher feedback coded yes n = 11, no n = 18). The review reports "higher effects were found in favor of monitoring interventions that included teacher feedback on self-monitoring entries". In the meta-regression teacher feedback was not a significant moderator (B = 0.32, p = .20); the revision finding comes from the narrative analysis, in which five of the feedback studies let learners revise, including all three with high effects on achievement.
 
 > "On a descriptive level, higher effects were found in favor of monitoring interventions that included teacher feedback on self-monitoring entries and allowed learners to directly revise their work based on this feedback."
 
