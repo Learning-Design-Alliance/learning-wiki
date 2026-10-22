@@ -29,4 +29,4 @@ A 36-item assessment developed by Lowrie and colleagues to measure Grades 4–6 
 -
 
 ## Key Sources
-- Lowrie, Tom and Diezmann, Carmel. (2010). Solving graphics tasks: Gender differences in middle-school students. Learning and Instruction. http://eprints.qut.edu.au/
+- Lowrie, Tom and Diezmann, Carmel. (2010). Solving graphics tasks: Gender differences in middle-school students. Learning and Instruction. https://doi.org/10.1016/j.learninstruc.2009.11.005
