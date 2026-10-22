@@ -46,3 +46,4 @@ Control-variable analyses in the latent variable model of the 226-child sample. 
 - [The developmental precedence of EF over ToM persists from 4 to 5 years of age](ef-precedence-persists-4-to-5.md) — related
 - [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related
 - [Family income-to-needs at age 3 predicts both EF and ToM through age 5](income-to-needs-predicts-ef-and-tom.md) — related
+- [Girls showed more SRL strategic behaviours than boys but did not outperform boys on task performance; child age correlated with metacognitive, motivational behaviours and performance](gender-age-differences-kindergarten-srl.md) — related

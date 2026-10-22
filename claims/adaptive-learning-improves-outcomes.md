@@ -170,3 +170,4 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [Intelligent tutoring systems with dynamic student modeling increase learning gains over regular instruction](its-dynamic-modeling-effective.md) — possibly the same claim (merge candidate)
 - [ITS augmentation: meta-analyses find medium to large learning benefits of ITS over unsupported learning and small to medium gains over less adaptive computer-assisted learning](its-augmentation-benefits-over-unsupported-learning.md) — related
 - [ITS substitution: meta-analyses find no significant cognitive learning differences between ITS and human tutoring or small-group instruction](its-substitution-equivalent-to-human-tutoring.md) — related
+- [Cognitive-load-based quiz adaptation raised learning gains while domain-specific confidence-based adaptation did not](cognitive-load-adaptation-beats-confidence-adaptation.md) — a narrower finding that bears on this claim

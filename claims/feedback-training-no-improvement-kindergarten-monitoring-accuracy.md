@@ -48,3 +48,4 @@ Pretest-training-posttest multilevel analysis of 214 kindergarteners randomly as
 - [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — related
 - [Pre-monitoring does not significantly improve children's relative monitoring accuracy (discrimination between correct and incorrect answers)](pre-monitoring-no-discrimination-improvement.md) — related
 - [Monitoring discrimination and overconfidence improve with age between kindergarten and second grade](monitoring-accuracy-improves-kindergarten-to-second-grade.md) — related
+- [Technology-enhanced adaptive teaching shows no significant effects on monitoring accuracy, subject-specific interest, or self-efficacy](adaptive-teaching-no-metacognitive-motivational-effects.md) — related

@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 66 claims (35 for, 27 mixed, 4 against) · 65 studies (22 causal, 17 review, 8 design, 7 quant-synthesis, 5 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 10 of 65 report an effect size · 59 claims rest on one study
+> **Evidence** · 68 claims (36 for, 28 mixed, 4 against) · 66 studies (23 causal, 17 review, 8 design, 7 quant-synthesis, 5 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 11 of 66 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,8 @@ Re-read 2026-10-15: the claims below were read against the model above and do no
 - [Adaptive G Ukt Competitive Performance Sparse Regimes](../claims/adaptive-g-ukt-competitive-performance-sparse-regimes.md) [+M]
 - [Identifying learners' difficulties with visual displays is an important basis for selecting appropriate support procedures](../claims/learner-difficulties-basis-for-support-selection.md) [+M] — attached 2026-10-15 from Renkl et al. (2017), which proposed "Choose support procedures for visual displays based on knowledge of the difficulties learners have with them".
 - [Intelligent tutoring systems with dynamic student modeling increase learning gains over regular instruction](../claims/its-dynamic-modeling-effective.md) [+W] — attached 2026-10-22 from Leonard Tetzlaff et al. (2021), which proposed "Measure relevant learner characteristics repeatedly during learning and adapt instruction systematically"; tests this page's relationship.
+- [Degree of adaptivity moderates the adaptive teaching effect: only highly adaptive units outperform control, and boost self-efficacy](../claims/degree-of-adaptivity-moderates-adaptive-teaching-effect.md) [+M] — attached 2026-10-22 from Sibley et al. (2025), which proposed "Implement adaptive teaching with high fidelity: apply adaptive elements constantly, since benefits emerge only in highly adaptive units"; tests this page's relationship.
+- [Subject domain moderates the adaptive teaching effect: benefits in languages, none in STEM or humanities](../claims/domain-moderates-adaptive-teaching-effect.md) [~M] — attached 2026-10-22 from Sibley et al. (2025), which proposed "Implement adaptive teaching with high fidelity: apply adaptive elements constantly, since benefits emerge only in highly adaptive units"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (78 show a difference, 19 mixed, 16 no difference) · 70 studies (24 causal, 20 associational, 10 quant-synthesis, 9 review, 4 theoretical, 3 design), `q1`–`q4` · 25 of 70 report an effect size · 108 claims rest on one study
+> **Evidence** · 117 claims (80 show a difference, 21 mixed, 16 no difference) · 71 studies (25 causal, 20 associational, 10 quant-synthesis, 9 review, 4 theoretical, 3 design), `q1`–`q4` · 26 of 71 report an effect size · 112 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -151,6 +151,10 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Stepwise handwriting instruction produced transfer of shape-analysis to new tasks such as Arabic writing, blueprints, and drawings](../claims/galperin-handwriting-transfer-experiment.md) [+M] — instruction changes it
 - [Students at all levels have serious difficulties constructing proofs, with instruction explicitly teaching expert heuristics substantially increasing proof-writing ability](../claims/students-difficulty-constructing-proofs.md) [+M] — instruction changes it
 - [The contrast between implicit and explicit organization is the source of a fundamental conflict in writing](../claims/implicit-explicit-organization-conflict-in-writing.md) [+W] — learners who differ on it differ in outcomes
+- [Graphemic complexity of the final letters has only marginal effects, limited to letter size](../claims/graphemic-complexity-marginal-letter-size-effect.md) [~M] — instruction changes it
+- [Handwriting duration of the first letter improves massively between Grade 1 and Grade 3, then plateaus](../claims/handwriting-duration-improves-grade1-to-grade3.md) [+M] — instruction changes it
+- [The graphomotor difficulty of the first letter affects handwriting duration, velocity, stops and size in all grades](../claims/first-letter-graphomotor-constraint-affects-all-grades.md) [+M] — instruction changes it
+- [The lexical frequency effect on writing a difficult first letter is present only in 1st graders, indicating spelling-motor interference before handwriting automation](../claims/frequency-interacts-with-letter-difficulty-in-grade-1-handwriting.md) [~W] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

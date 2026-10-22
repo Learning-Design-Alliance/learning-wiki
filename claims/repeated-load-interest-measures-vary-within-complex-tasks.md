@@ -59,3 +59,4 @@ Repeated-measures study of N = 360 lower-secondary students in chemistry lessons
 - [Invested mental effort and interest are only weakly and inconsistently positively correlated across measurement points, with some correlations non-significant](effort-interest-weak-inconsistent-positive-correlation.md) — related
 - [Mental effort is more suitably modeled as a non-linear than linear predictor of learning outcomes in most re-analyzed studies](mental-effort-nonlinear-predictor-reanalyses.md) — related
 - [The model's assumed negative correlation between cognitive load and learner resources was not supported; the overall correlation was positive](load-resources-negative-correlation-not-supported.md) — related
+- [Lower secondary students' situation-specific engagement varies most strongly between lessons within students, with smaller between-student variation](engagement-varies-most-between-lessons-within-students.md) — related

@@ -47,3 +47,5 @@ Longitudinal studies using AEQ trait or state scales with university students, w
 
 ## Related Claims
 - [Positive academic emotions correlate positively with interest, effort, flexible learning strategies, and perceived self-regulation, while boredom and hopelessness correlate negatively with all of these motivational variables](emotions-correlate-motivation-strategies-resources.md) — related
+- [Within-person deviations of enjoyment and pride correlate positively with grade deviations (r = .12 to .55), and negative-emotion deviations correlate negatively (r = −.17 to −.44)](within-person-grade-emotion-correlations.md) — related
+- [Within persons, grades negatively predict subsequent anger and hopelessness, and anger, anxiety, boredom, and hopelessness negatively predict subsequent grades](grades-negative-emotions-within-person-effects.md) — related

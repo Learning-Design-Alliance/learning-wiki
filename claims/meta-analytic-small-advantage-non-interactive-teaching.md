@@ -49,3 +49,4 @@ Background meta-analytic evidence reported in the article's introduction: the ar
 - [Non-interactive teaching yields higher immediate scientific knowledge than restudy in secondary physics classrooms](non-interactive-teaching-immediate-knowledge-advantage.md)
 - [Non-interactive teaching does not enhance long-term retention relative to restudy at eight weeks](non-interactive-teaching-no-long-term-retention.md)
 - [Non-interactive teaching produces stronger under-confidence (metacognitive bias) than restudy immediately after learning](non-interactive-teaching-under-confidence-bias.md)
+- [Answer format moderates the adaptive teaching effect: with open-answer items controlled, immediate learning benefits also emerge](answer-format-moderates-adaptive-teaching-effect.md) — related

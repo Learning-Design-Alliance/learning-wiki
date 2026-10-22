@@ -49,3 +49,4 @@ Narrative review attribution in Section 2.2: the paper reports Sailer et al.'s e
 - [A feedback provision scaffold of prompts plus a sample solution significantly improves the quality of feedback messages pre-service teachers provide on peers' case analyses](feedback-provision-scaffold-improves-feedback-quality.md) — related
 - [Evidence sharing relates positively to diagnostic justification quality](evidence-sharing-relates-diagnostic-justification.md) — related
 - [NLP-based feedback generation for textual student answers in large courses reduced grading effort by up to 85% with high precision (reported from Bernius et al.)](nlp-feedback-reduced-grading-effort-85-percent.md) — related
+- [Adaptive feedback outperforms generic feedback for pre-service teachers' noticing in a virtual classroom](adaptive-noticing-feedback-outperforms-generic.md) — related

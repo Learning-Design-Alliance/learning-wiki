@@ -32,6 +32,7 @@ The article recaps Lüdtke et al.'s (2008) multilevel latent covariate model, in
 ## Related Research Methods
 
 - [Multilevel latent variable model (ML-LVM) of judgment accuracy](multilevel-latent-variable-model-ml-lvm-of-judgment-accuracy.md)
+- [Multilevel conceptualization of autonomy support: climate, contextual, and perceived-difference constructs](multilevel-conceptualization-of-autonomy-support-climate-contextual-and-perceived-differen.md)
 
 ## Key Sources
 - Steffen Zitzmann, Wolfgang Wagner, Martin Hecht, Christoph Helm, Christian Fischer, Lisa Bardach, Richard Göllner. (2021). How Many Classes and Students Should Ideally be Sampled When Assessing the Role of Classroom Climate via Student Ratings on a Limited Budget? An Optimal Design Perspective. Educational Psychology Review (2022) 34:511–536. https://doi.org/10.1007/s10648-021-09635-4

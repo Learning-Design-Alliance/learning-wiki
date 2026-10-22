@@ -77,3 +77,4 @@ Follow-up univariate tests and Tukey HSD comparisons (Table 3): self-efficacy F 
 - [At Time 3, profile membership was significantly associated with Japanese learning self-efficacy and learning burnout, with all three profiles differing pairwise](profiles-predict-self-efficacy-and-burnout.md) — related
 - [Adult learners below secondary education show higher controlled regulation and lower academic self-concept and learning strategies than those above it](educational-level-controlled-regulation-self-concept.md) — related
 - [Receiver characteristics such as academic self-concept, self-efficacy, and achievement are proposed to moderate learners' engagement with feedback, but the achievement relation is conflicting](receiver-characteristics-moderate-recipience.md) — related
+- [Engagement profiles predict who benefits most from accuracy-based adaptive support](engagement-profiles-predict-adaptive-benefit.md) — related

@@ -39934,5 +39934,93 @@
  "scaffolding\tindividualized explanations for high-visual-spatial-ability VS students\tno-scaffold control": {
   "label": "individualized explanations tailored to learner characteristics vs no scaffolding",
   "treatment_is_a": true
+ },
+ "autonomy-support\thigher individual and class-directed autonomy support\tlower autonomy support": {
+  "label": "higher individual and class-directed autonomy support vs lower individual and class-directed autonomy support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher perceived class-directed autonomy support\tlower perceived class-directed autonomy support": {
+  "label": "higher class-directed autonomy support vs lower class-directed autonomy support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher perceived individual and class-directed autonomy support\tlower perceived individual and class-directed autonomy support": {
+  "label": "higher individual and class-directed autonomy support vs lower individual and class-directed autonomy support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher perceived individual autonomy support\tlower perceived individual autonomy support": {
+  "label": "higher individual autonomy support vs lower individual autonomy support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher perceived relative lack of autonomy support\tlower perceived relative lack of autonomy support": {
+  "label": "higher autonomy support vs lower autonomy support",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tmerged individual and class-directed choice-provision factors\tseparate individual choice-provision factor": {
+  "label": "merged individual and class-directed choice provision vs separate individual choice provision",
+  "treatment_is_a": true
+ },
+ "debriefing\treflected case-based training\tno training": {
+  "label": "debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit strategy instruction without adaptive tutoring\treflected case-based training alone": {
+  "label": "explicit strategy instruction vs reflected case-based training alone",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\treflected case training with explicit strategy instruction\treflected case training without explicit strategy instruction": {
+  "label": "explicit strategy instruction vs no explicit strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\treflected case-based training plus explicit strategy instruction\tno training": {
+  "label": "reflected case-based training plus explicit strategy instruction vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\treflected case-based training plus explicit strategy instruction\treflected case-based training alone": {
+  "label": "explicit strategy instruction vs no explicit strategy instruction",
+  "treatment_is_a": true
+ },
+ "formative-assessment\ttechnology-enhanced adaptive teaching\tbusiness-as-usual teaching": {
+  "label": "adaptive teaching vs business-as-usual teaching",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcontingent parental scaffolding\tcognitive and emotional parental support": {
+  "label": "Contingent scaffolding vs cognitive and emotional support",
+  "treatment_is_a": true
+ },
+ "scaffolding\texplicit strategy instruction with adaptive tutoring\treflected case-based training alone and explicit instruction without tutoring": {
+  "label": "Adaptive tutoring vs no adaptive tutoring",
+  "treatment_is_a": true
+ },
+ "scaffolding\tparental emotional support added after contingency\tmodel without emotional support": {
+  "label": "Emotional support added to contingent scaffolding vs contingent scaffolding alone",
+  "treatment_is_a": true
+ },
+ "feedback-type\tadaptive feedback\tgeneric feedback": {
+  "label": "adaptive vs generic feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdomain-specific adaptive feedback tailored to the misconception\tcomparison condition not specified": {
+  "label": "adaptive vs non-adaptive feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tcognitive-load-based adaptive task difficulty\tnon-adaptive control": {
+  "label": "Cognitive-load-based adaptive task difficulty vs non-adaptive task difficulty",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdomain-specific self-assessed performance adaptive task difficulty\tnon-adaptive control": {
+  "label": "Domain-specific self-assessed-performance adaptive task difficulty vs non-adaptive task difficulty",
+  "treatment_is_a": true
+ },
+ "media-design\taddition format for large-distance S > D problems\tsubtraction format for the same problems": {
+  "label": "addition format vs subtraction format",
+  "treatment_is_a": true
+ },
+ "media-design\tsubtraction format for large-distance S < D problems\taddition format for the same problems": {
+  "label": "addition format vs subtraction format",
+  "treatment_is_a": false
+ },
+ "scaffolding\tadaptive scaffolding\tnon-adaptive support": {
+  "label": "adaptive vs non-adaptive scaffolding",
+  "treatment_is_a": true
  }
 }

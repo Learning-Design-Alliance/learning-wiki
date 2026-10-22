@@ -47,3 +47,4 @@ Authors' interpretation of the fitted arithmetic SEM (N = 170 adults): beyond th
 - [Working memory and symbolic number processing are both linked to adult arithmetic and numeracy, replicating prior research](wm-np-predict-adult-math.md) — related
 - [Math anxiety impairs numeracy primarily through working memory, with no significant indirect effect through number processing](ma-wm-pathway-numeracy.md) — related
 - [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
+- [Higher mathematics test anxiety predicts earlier practice-session exit, mediating lower learning gains in an adaptive math program](math-anxiety-earlier-exit-lower-gains.md) — related

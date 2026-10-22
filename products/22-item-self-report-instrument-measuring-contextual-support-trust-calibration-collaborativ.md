@@ -28,6 +28,7 @@ A five-point Likert-scale instrument developed by Fan Bu et al. to measure conte
 
 - [AI adaptive learning environment perception scale (15 items, three dimensions)](ai-adaptive-learning-environment-perception-scale-15-items-three-dimensions.md)
 - [PERMA-based AI well-being scale for faculty in AI-integrated teaching](perma-based-ai-well-being-scale-for-faculty-in-ai-integrated-teaching.md)
+- [InSitu (InSituations) instrument](insitu-insituations-instrument.md)
 
 ## Key Sources
 - Fan Bu and Wei Li (2026). Trust calibration and perceived developmental gains in university students' collaboration with generative AI: an exploratory sequential mixed methods study. Front. Psychol. 17:1861072. https://doi.org/10.3389/fpsyg.2026.1861072

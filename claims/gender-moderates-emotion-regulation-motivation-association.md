@@ -70,3 +70,4 @@ Simple slope analyses illustrated in Figure 2, from the same moderated regressio
 - [The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students](moderated-mediation-indirect-effect-stronger-male-students.md) — related
 - [AI anxiety is negatively associated with academic motivation among university students, in both bivariate and regression analyses](ai-anxiety-negatively-associated-academic-motivation.md) — related
 - [The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender](gender-moderates-tuga-effects.md) — related
+- [Gender related to students' emotions but showed no significant effects on math grades, while intelligence and SES related positively to grades](covariates-gender-intelligence-ses-effects.md) — related

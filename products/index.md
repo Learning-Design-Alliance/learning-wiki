@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1842 entries** · 0 stable · 1842 in review · 0 drafts
+**1843 entries** · 0 stable · 1843 in review · 0 drafts
 
 ---
 
@@ -759,6 +759,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [InkSurvey](inksurvey.md) - InkSurvey is free, web-based software developed for educators that collects keyed or digital-ink student responses in real time and enables anonymous display to a class.
 * [InsideTrack Coaching](insidetrack-coaching.md) - InsideTrack© Coaching is a postsecondary student-support programme run by InsideTrack that provides proactive, personalized coaching through multiple communication channels to help students overcome academic and non-academic barriers to persistence and graduation.
 * [INSIGHTS into Children's Temperament](insights-into-childrens-temperament.md) - INSIGHTS into Children's Temperament is an evidence-based intervention programme that equips educators, parents, and young children to understand and respond to children's temperament through professional development, classroom sessions, and facilitated parent lessons.
+* [InSitu (InSituations) instrument](insitu-insituations-instrument.md) - A mobile-based 17-item self-report instrument introduced by Pöysä et al.
 * [Insta-Reviewer](insta-reviewer.md) - Insta-Reviewer is a research-developed software system that extracts salient sentences from student project reports and uses a fine-tuned BART model to generate textual feedback.
 * [Instruction Study](instruction-study.md) - A Chicago Public Schools district-wide dataset created by Stevens et al.
 * [Instructional coherence framework: four student-centered approaches share commitments to identity, agency, equity, and community](instructional-coherence-framework-four-student-centered-approaches-share-commitments-to-id.md) - A framework developed by Browning et al.

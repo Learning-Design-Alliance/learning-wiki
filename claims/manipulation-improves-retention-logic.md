@@ -49,3 +49,4 @@ In the same 72-student experiment in Tarski's World, the manipulation variable w
 - [No significant differences between conditions on the retention test, and scores of the Visual and Timeline conditions decreased significantly from post-test to retention](timeline-effect-disappears-at-retention.md) — reports the opposite
 - [Virtual objects in shared VR environments can serve as effective media for collaborative knowledge building among in-service teachers manipulating geometric shapes](virtual-objects-shared-vr-collaborative-knowledge-building.md) — related
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
+- [Tarski's World facilitated conditional reasoning relative to only-situated or only-formal instruction](tarski-world-facilitated-conditional-reasoning.md) — related

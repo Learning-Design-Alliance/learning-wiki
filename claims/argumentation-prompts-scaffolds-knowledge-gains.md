@@ -47,3 +47,4 @@ The primer reports, citing Firetto et al. (2019) and Noroozi et al. (2013), that
 - [Inserted questions elicit more correct and fewer incorrect elaborations than post-reading questions, with no condition differences in paraphrases](inserted-questions-more-correct-elaborations.md) — related
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
 - [Computer-supported argument scaffolds improve argumentation within the scaffolded task, but argumentation does not mediate effects on domain-specific knowledge acquisition](argument-scaffolds-proximal-success-no-knowledge-mediation.md) — related
+- [Real-time adaptive scaffolding based on note-coded proof indicators elicited more elaborate diagnostic reasoning](adaptive-scaffolding-diagnostic-reasoning.md) — related

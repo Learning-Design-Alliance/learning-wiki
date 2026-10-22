@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 249 claims (170 show a difference, 51 mixed, 28 no difference) · 190 studies (62 associational, 49 causal, 34 review, 15 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 50 of 190 report an effect size · 237 claims rest on one study
+> **Evidence** · 250 claims (171 show a difference, 51 mixed, 28 no difference) · 191 studies (63 associational, 49 causal, 34 review, 15 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 50 of 191 report an effect size · 238 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -299,6 +299,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Prior Domain interest predicted interest in the most practical task (Task6, β=.25) and post Domain interest (β=.24), but not Course interest.](../claims/prior-domain-interest-practical-task-and-post-domain.md) [~M] — learners who differ on it differ in outcomes
 - [Task interest was strongly interconnected across the course, with each task's interest predicting interest in the next tasks.](../claims/task-interest-strong-proximal-interconnections.md) [+M] — learners who differ on it differ in outcomes
 - [Higher attainment value with higher academic self-efficacy predicts challenge appraisal, whereas higher attainment value with lower academic self-efficacy predicts threat appraisal](../claims/value-and-efficacy-antecedents-of-fear-appeal-appraisal.md) [~M] — learners who differ on it differ in outcomes
+- [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](../claims/autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

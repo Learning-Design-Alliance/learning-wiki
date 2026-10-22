@@ -80,3 +80,4 @@ Authors' interpretation in the section on games as a culture medium: intrinsic i
 - [Effective instruction requires both focus support and reward: high focus support with low reward, or reward without focus support, yields poor learning](fore-h1-both-focus-support-and-reward-needed.md) — related
 - [Motivation theories in education have converged on a learner-centered focus over recent decades](motivation-theories-converged-learner-centered.md) — a broader claim this one bears on
 - [Self-determination theory grew incrementally by adding mini-theories as evidence accumulated](sdt-grew-brick-by-brick.md) — related
+- [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) — related

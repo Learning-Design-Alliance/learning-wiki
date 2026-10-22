@@ -176,6 +176,7 @@ Speed of the test cycle, number of cycles, guidance, immediate understanding, de
 - [Four recommendations for deepening mathematics integration in science investigations](../strategies/four-recommendations-math-in-science.md)
 - [Use AI-based analysis of student log files to scaffold inquiry competencies and guide teachers in real time](../strategies/ai-log-file-scaffolding-and-teacher-dashboards-for-inquiry.md)
 - [Guide and time generative learning activities to overcome barriers to sense-making](../strategies/guide-and-time-glas-strategy.md)
+- [Support engagement particularly in academic subjects by incorporating exploration and learning by doing](../strategies/support-engagement-in-academic-subjects-exploration.md)
 
 ## Key Sources
 - Collins, Allan. (1988). Cognitive Apprenticeship and Instructional Technology. Technical Report. BBN Report No. 6899, BBN Labs, Inc. https://eric.ed.gov/?id=ED331465

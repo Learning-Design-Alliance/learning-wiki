@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (67 show a difference, 25 mixed, 9 no difference) · 73 studies (20 causal, 19 associational, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 14 of 73 report an effect size · 98 claims rest on one study
+> **Evidence** · 105 claims (71 show a difference, 25 mixed, 9 no difference) · 74 studies (20 causal, 20 associational, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 15 of 74 report an effect size · 102 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -136,6 +136,10 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Open classroom climate is positively related to enjoyment and negatively related to anxiety and boredom in civic education, with no relation to shame](../claims/open-classroom-climate-enjoyment-anxiety-boredom-civic.md) [~M] — instruction changes it
 - [Achievement goal instructions show no main effects on achievement emotions in game-based learning](../claims/goal-instructions-no-emotion-effects-gbl.md) [-M] — instruction changes it
 - [Negative feedback lowered math self-concept indirectly via enjoyment and hope; positive feedback raised it via hope](../claims/feedback-indirect-effects-math-self-concept.md) [~M] — instruction changes it
+- [Grades and positive affect show significant positive reciprocal within-person effects, and grades and negative affect show significant negative reciprocal effects](../claims/grades-affect-tripartite-reciprocal.md) [+M] — learners who differ on it differ in outcomes
+- [Within persons, better-than-usual math grades positively predict subsequent enjoyment and pride, and enjoyment and pride positively predict subsequent grades](../claims/grades-positive-emotions-within-person-reciprocal.md) [+M] — learners who differ on it differ in outcomes
+- [Within persons, grades negatively predict subsequent anger and hopelessness, and anger, anxiety, boredom, and hopelessness negatively predict subsequent grades](../claims/grades-negative-emotions-within-person-effects.md) [+M] — learners who differ on it differ in outcomes
+- [Within-person deviations of enjoyment and pride correlate positively with grade deviations (r = .12 to .55), and negative-emotion deviations correlate negatively (r = −.17 to −.44)](../claims/within-person-grade-emotion-correlations.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

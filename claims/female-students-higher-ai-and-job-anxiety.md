@@ -74,3 +74,4 @@ Same gender t-test analysis; for positive AI attitudes the test was non-signific
 - [Second-year students report higher job finding anxiety and AI anxiety than students in other academic years](second-year-students-higher-job-finding-anxiety.md) — related
 - [Learning strategies relate to test anxiety: persistence positively, environmental structuring negatively, time management not significantly, and women report higher test anxiety](learning-strategies-test-anxiety-effects.md) — related
 - [The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students](moderated-mediation-indirect-effect-stronger-male-students.md) — related
+- [Gender related to students' emotions but showed no significant effects on math grades, while intelligence and SES related positively to grades](covariates-gender-intelligence-ses-effects.md) — related
