@@ -31,7 +31,7 @@ sources:
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (22 for, 9 mixed) · 34 studies (12 causal, 7 quant-synthesis, 7 review, 5 qualitative, 3 theoretical), `q1`–`q4` · 8 of 34 report an effect size · 22 claims rest on one study
+> **Evidence** · 32 claims (22 for, 10 mixed) · 35 studies (12 causal, 7 quant-synthesis, 7 review, 5 qualitative, 4 theoretical), `q1`–`q4` · 8 of 35 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -125,6 +125,7 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - [Maker Education Assessment Principles Practices Framework](../theories/maker-education-assessment-principles-practices-framework.md) [+M]
 - [Well-organized texts following rhetorical schemata are better remembered than disorganized texts, and high-structure information is more likely to be recalled](../claims/organized-text-high-structure-recall-advantage.md) [+W]
 - [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](../claims/structural-signals-aid-problem-solving-not-recall.md) [~W]
+- [Orienting charts can be learned with unusual ease and without deliberate memorization while performing learning tasks](../claims/orienting-charts-ease-of-learning.md) [~W]
 
 ## Related Principles
 

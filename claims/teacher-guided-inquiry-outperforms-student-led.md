@@ -126,3 +126,4 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Controlled studies comparing exploration-based investigation with explicit instruction overwhelmingly favor explicit instruction for science content learning](controlled-studies-favor-explicit-instruction-over-inquiry.md) — related
 - [Student-led inquiry-based investigation is identified as the least effective instructional element in PISA 2015 analyses](student-led-inquiry-least-effective-instructional-element.md) — related
 - [Scaffolding effectiveness depends on knowledge base: high-guidance scaffolding suits less advanced learners, high-self-regulation scaffolding suits advanced learners](scaffolding-guidance-self-regulation-moderated-by-knowledge-base.md) — related
+- [Quasi-experimental and experimental interventions can positively change epistemic cognition, but the theory-of-change remains unidentified](interventions-change-epistemic-cognition.md) — related

@@ -72,3 +72,4 @@ Same matched longitudinal LMM analysis of NIH Toolbox scores. The article report
 - [Bullying involvement is associated with lower academic achievement (pooled OR = 0.61)](bullying-involvement-lower-academic-achievement.md) — a broader claim this one bears on
 - [Bullied preadolescent children show greater behavioral problems across CBCL domains than non-bullied peers](bullying-associated-with-greater-behavioral-problems.md) — related
 - [Caregiver-reported bullying victimization is associated with higher odds of NSSI/passive suicidality and active suicidality in preadolescent children](bullying-associated-with-nssi-and-suicidality-preadolescents.md) — related
+- [Peer victimization is associated with more school absences and lower grades and achievement among school-aged students](peer-victimization-academic-costs.md) — a broader claim this one bears on

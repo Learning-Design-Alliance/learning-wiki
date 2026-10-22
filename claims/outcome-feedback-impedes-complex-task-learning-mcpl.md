@@ -50,3 +50,4 @@ Narrative review attribution: the authors report, citing multiple MCPL-paradigm 
 - [Critical constructive feedback is neglected at multiple, independently measurable processing stages](critical-constructive-feedback-is-neglected-at-multiple-stages.md) — related
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — related
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related
+- [The feedback research field may already be experiencing a paradigm shift that five further steps could solidify](feedback-field-potential-paradigm-shift-five-steps.md) — related

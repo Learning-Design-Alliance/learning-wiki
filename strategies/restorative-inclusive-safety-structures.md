@@ -53,6 +53,7 @@ The brief recommends that secondary schools replace structures that segregate an
 - [Replace exclusionary discipline with restorative practices and implement data-driven attendance monitoring](restorative-practices-attendance-monitoring-strategy.md)
 - [Empathic Discipline](empathic-discipline.md)
 - [Six-part state and local policy strategy for reducing exclusionary discipline and suspension gaps](six-strategies-reduce-exclusionary-discipline.md)
+- [Use extracurricular activities and inclusion-oriented clubs to build cross-group connections, while removing access barriers](extracurricular-shared-goals-cross-group-connections.md)
 
 ## Examples
 -

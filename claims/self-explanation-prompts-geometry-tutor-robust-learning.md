@@ -51,3 +51,4 @@ In vivo classroom experiment comparing an Explanation Condition of the Geometry 
 - [Help Tutor metacognitive instruction produced no domain-level geometry learning gains and no lasting help-seeking procedural knowledge](help-tutor-no-domain-learning-gains.md) — related
 - [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](tutor-practice-greater-learning-gains-than-paper.md) — related
 - [Learning from examples depends on the explaining mode: prompting principle-based self-explanations and guided comparison of examples improves transfer](examples-facilitate-explaining.md) — related
+- [Galperin-based geometry instruction enabled poorly performing sixth graders to identify geometric items correctly, with 93% giving conceptual explanations](galperin-geometry-concept-teaching-experiment.md) — related

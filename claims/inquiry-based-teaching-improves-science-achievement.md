@@ -163,3 +163,4 @@ The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies 
 - [The highest level of inquiry may not be the 'best' approach for science learning](open-inquiry-highest-level-not-best.md) — related
 - [Controlled studies comparing exploration-based investigation with explicit instruction overwhelmingly favor explicit instruction for science content learning](controlled-studies-favor-explicit-instruction-over-inquiry.md) — related
 - [Student-led inquiry-based investigation is identified as the least effective instructional element in PISA 2015 analyses](student-led-inquiry-least-effective-instructional-element.md) — related
+- [Quasi-experimental and experimental interventions can positively change epistemic cognition, but the theory-of-change remains unidentified](interventions-change-epistemic-cognition.md) — related

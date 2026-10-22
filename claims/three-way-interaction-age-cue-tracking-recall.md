@@ -46,3 +46,4 @@ Omnibus ANCOVA on recall scores across the four experimental conditions in both 
 - [In 5-year-olds the transparent-cue benefit appears only with finger tracking, producing a significant Cue × Tracking interaction](cue-tracking-interaction-5yo-recall.md) — a narrower finding that bears on this claim
 - [Five-year-olds recall more words in a Brown-Peterson task when they finger-track a transparent goal cue during the retention interval](finger-tracking-transparent-goal-cue-improves-5yo-recall.md) — related
 - [Four-year-olds showed no benefit of transparent goal cues in either visual or finger tracking conditions](no-goal-cue-benefit-4yo-recall.md) — a narrower finding that bears on this claim
+- [Children's tool use progresses from unspecific manual use to specific instrumental use governed by the tool's culturally established mode of acting](galperin-tool-use-developmental-study.md) — related

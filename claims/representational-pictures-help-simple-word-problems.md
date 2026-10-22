@@ -50,3 +50,4 @@ Systematic review synthesis of 14 studies of representational pictures in elemen
 - [Informative pictures relate to poorer word problem-solving performance, with negative effects from g = −1.08 to −0.08](informative-pictures-negative-effects.md) — related
 - [Representational pictures show consistently null effects for word problems with demanding characteristics such as rational numbers, probabilistic reasoning, or realistic considerations](representational-pictures-null-demanding-tasks.md) — related
 - [Decorative pictures show consistently null effects on elementary schoolers' word problem-solving performance regardless of task characteristics](decorative-pictures-null-effects.md) — related
+- [Minor rewording of structurally identical change problems raises children's success from 36% to 55%](rewording-raises-change-problem-success.md) — related

@@ -230,3 +230,4 @@ The article reports a randomized-controlled experiment comparing problem solving
 - [Well-controlled comparison studies show clear advantages of inquiry-based instruction over direct instruction for science conceptual learning](controlled-studies-advantage-guided-inquiry-over-direct-instruction.md) — related
 - [Sequencing of exploration and explicit instruction shows inconsistent results, moderated by task complexity per the expertise reversal account](exploration-first-versus-instruction-first-sequencing-mixed.md) — related
 - [Presenting primary knowledge first and then secondary knowledge was more efficient in both performance and motivation](primary-first-sequencing-benefits.md) — reports the opposite
+- [Transfer of a permutation algorithm succeeds for objects-assigned-to-people problems but fails for people-assigned-to-objects problems](bassok-transfer-objects-people-asymmetry.md) — a narrower finding that bears on this claim

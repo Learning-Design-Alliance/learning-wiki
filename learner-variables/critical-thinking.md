@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 57 claims (39 show a difference, 13 mixed, 5 no difference) · 47 studies (15 causal, 9 review, 9 associational, 5 qualitative, 5 theoretical, 3 design, 1 quant-synthesis), `q1`–`q3` · 10 of 47 report an effect size · 55 claims rest on one study
+> **Evidence** · 63 claims (44 show a difference, 14 mixed, 5 no difference) · 48 studies (15 causal, 9 review, 9 associational, 6 theoretical, 5 qualitative, 3 design, 1 quant-synthesis), `q1`–`q3` · 10 of 48 report an effect size · 61 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -97,6 +97,12 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Effects of P(j)BL on CT are mixed across studies, with positive, null, and negative findings reported](../claims/pjbl-ct-effects-mixed.md) [~M] — instruction changes it
 - [Evaluative questions elicit more historical reasoning than explanatory questions](../claims/evaluative-questions-elicit-more-historical-reasoning.md) [+M] — instruction changes it
 - [Meta-analytic evidence on GenAI and critical thinking shows a positive mean association with a prediction interval spanning harm to benefit](../claims/genai-critical-thinking-metaanalysis-heterogeneity.md) [~W] — instruction changes it
+- [Five prior knowledge types map onto first-, second-, and third-hand credibility evaluation strategies](../claims/five-knowledge-types-map-onto-evaluation-strategy-tiers.md) [+M] — learners who differ on it differ in outcomes
+- [Gaps in source knowledge hinder source-credibility judgments, particularly inferences about benevolence](../claims/source-knowledge-gaps-hinder-benevolence-judgments.md) [+M] — learners who differ on it differ in outcomes
+- [Instruction improves adolescents' metastrategic knowledge of sourcing and corroboration, with gains reflected in evaluation performance](../claims/instruction-improves-metastrategic-knowledge-and-evaluation.md) [+M] — instruction changes it
+- [Online genre knowledge shapes credibility expectations and guides credibility evaluations](../claims/online-genre-knowledge-shapes-credibility-evaluations.md) [+M] — learners who differ on it differ in outcomes
+- [Prior knowledge can hinder credibility evaluation through selective attention and overconfidence](../claims/prior-knowledge-can-hinder-credibility-evaluation.md) [~M] — learners who differ on it differ in outcomes
+- [Topical vocabulary knowledge is positively associated with adolescents' multiple-source integration, evaluation, and synthesis performance](../claims/topical-vocabulary-associated-with-multiple-source-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

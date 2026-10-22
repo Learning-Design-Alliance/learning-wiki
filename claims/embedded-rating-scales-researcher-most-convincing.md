@@ -49,3 +49,4 @@ Chi-square and binomial logistic regression on students' convincingness choice i
 - [Middle-schoolers judge a speaker presented as a researcher as more expert and more trustworthy than one presented as a consumer](researcher-judged-more-credible-than-consumer.md) — related
 - [Watching the sourcing instructional video unexpectedly lowered students' trustworthiness ratings of the interviewees](instructional-video-lowered-trustworthiness-ratings.md) — related
 - [Combining the instructional video with embedded rating scales yielded the highest immediate recognition, but the advantage faded by delayed posttest](combined-prompts-immediate-recognition-advantage-fades.md) — related
+- [Learners are more willing to act on feedback when they perceive the sender as credible and trustworthy](sender-credibility-supports-feedback-use.md) — related

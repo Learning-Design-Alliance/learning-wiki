@@ -58,8 +58,10 @@ Lateral reading works because it shifts evaluation from judging a source's self-
 5. Only then decide whether to read, cite, or share the original source; pair the routine with [Case Studies](../patterns/case-based-learning.md) using real deceptive sites to build discrimination.
 
 ## Related Strategies
+
 - [3-Source Rule](3-source_rule.md) — a corroboration heuristic that operationalizes lateral triangulation for content claims
 - [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — complementary framing for locating authoritative sources before evaluating claims
+- [Use corroboration across multiple sources, including lateral reading, when lacking relevant prior knowledge](corroboration-lateral-reading-for-laypersons.md)
 
 ## Examples
 - **Stanford History Education Group (SHEG) "Civic Online Reasoning" curriculum** (https://cor.stanford.edu) — free lessons and assessments that teach lateral reading through live-web tasks; the research base for the strategy's strongest evidence.

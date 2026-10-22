@@ -50,3 +50,4 @@ Integrative review statement of a shared assumption across SRL models: self-regu
 - [Task difficulty shows a u-shaped relation to regulatory activities, with competing CLT-based and motivational explanations that cannot yet be distinguished](u-shaped-task-difficulty-regulation.md) — related
 - [Operationalization of variables, setting, and work-relatedness of the CE activity moderate the relationships between SRL strategies and associated factors](srl-ce-moderators-operationalization-setting-work-relatedness.md) — related
 - [Metacognition mediates the relationship between EF and SRL](metacognition-mediation-ef-srl.md) — a narrower finding that bears on this claim
+- [Motivation theories underspecify causal mechanisms, so empirical findings on mediation cannot refute or challenge them](underspecified-mechanisms-immune-to-refutation.md) — related

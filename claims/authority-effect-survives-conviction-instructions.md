@@ -46,3 +46,5 @@ Experiment 3 with 214 research-active mathematicians used reworded instructions 
 ## Related Claims
 - [Knowing an argument was written by an expert mathematician increases reported persuasion for a heuristic argument among both students and researchers](authority-increases-persuasion-heuristic-argument.md) — related
 - [Authority figures do not increase persuasion for formal proofs, regardless of proof complexity or author eminence](no-authority-effect-formal-proofs.md) — related
+- [An argument's named authoritative author increased mathematicians' persuasiveness ratings, but the authority effect vanished for deductive proofs](author-reputation-persuasiveness-rating.md) — related
+- [A majority of surveyed mathematicians report believing proofs are correct because of journal publication, journal quality, or a trusted authoritative source](mathematicians-authoritarian-conviction-survey.md) — related

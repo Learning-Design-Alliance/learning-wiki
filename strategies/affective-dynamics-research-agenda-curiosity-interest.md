@@ -44,6 +44,8 @@ The article recommends three methodological advances: complement self-report wit
 - [Adopt an integrative methodological toolkit using machine learning and computational models to capture SR's multi-level, temporal, and social dynamics](integrative-methodological-toolkit-machine-learning-sr.md)
 - [Assess motivational development with multi-faceted, ongoing, longitudinal measures including scaffolding observation](multifaceted-ongoing-motivational-development-assessment.md)
 - [Specify the knowledge-acquisition component when using curiosity and interest terms, and prefer experience-sampling over one-shot self-report](specify-process-components-curiosity-interest-terminology.md)
+- [Use formal computational modelling to specify dynamic causal processes in motivation theories](computational-modelling-for-motivation-theory.md)
+- [Employ multimodal methods to capture the multifaceted feedback process](multimodal-methods-feedback-process.md)
 
 ## Examples
 -

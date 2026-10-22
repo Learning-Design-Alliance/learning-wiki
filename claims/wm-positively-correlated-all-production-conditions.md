@@ -50,3 +50,4 @@ Pearson correlations between a composite WM-capacity index (average of digits-fo
 - [WM capacity is significantly and negatively correlated with age in Korean adults](wm-negatively-correlated-with-age.md) — related
 - [After controlling for age, WM correlates significantly only with the most demanding condition (priming task, noncanonical word order)](wm-partial-correlation-only-priming-noncanonical.md) — reports the opposite
 - [Adults with greater memory capacity, measured by WAIS Digits Backward, produced more complex utterances and used more right- and left-branching clauses](memory-capacity-linked-utterance-complexity.md) — related
+- [Two distinct implicit cognitive processes show different predictive links: implicit learning predicts skill learning, associative memory activation predicts language task success](implicit-processes-differential-predictive-links.md) — related

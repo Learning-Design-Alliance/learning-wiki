@@ -51,3 +51,4 @@ The review reports, citing Lew et al. (2016), an analysis of one lecture's proof
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [The three equivalence approaches offer students multiple avenues for mathematical connections and arguments](equivalence-approaches-multiple-avenues-connections.md) — related
 - [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
+- [Students from middle school through university frequently offer empirical justifications on proof tasks, though empirical arguments become rare among advanced mathematics majors](students-frequent-empirical-justifications.md) — related

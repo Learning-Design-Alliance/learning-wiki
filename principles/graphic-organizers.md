@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (14 for, 16 mixed, 2 against) · 43 studies (18 causal, 10 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 12 of 43 report an effect size · 21 claims rest on one study
+> **Evidence** · 34 claims (16 for, 16 mixed, 2 against) · 44 studies (18 causal, 11 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 12 of 44 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,8 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - [Concept mapping has a moderate overall positive effect on science achievement for elementary and secondary students (g = 0.776)](../claims/concept-maps-moderate-overall-science-achievement-effect.md) [~W]
 - [Concept-mapping effects are larger in low- and middle-income countries (g = 1.053) than high-income countries (g = 0.626)](../claims/concept-map-effects-larger-low-middle-income-countries.md) [~W]
 - [Self-generated concept mapping benefits learning from grade 4 onwards with similar effect sizes across grades 4–8, 9–12, and college](../claims/concept-mapping-effective-grade-4-onwards.md) [~W]
+- [Even adults learning substantially new content often need at least partial materialization with supports like orienting charts](../claims/materialization-needed-for-adult-novel-learning.md) [+W]
+- [Orienting charts can be learned with unusual ease and without deliberate memorization while performing learning tasks](../claims/orienting-charts-ease-of-learning.md) [+W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — graphic organizers are one concrete form of visual externalization.

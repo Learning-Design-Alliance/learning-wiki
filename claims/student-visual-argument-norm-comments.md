@@ -46,3 +46,4 @@ Qualitative coding of explanatory comments from roughly 20% of Experiment 1 part
 - [Authority figures do not increase persuasion for formal proofs, regardless of proof complexity or author eminence](no-authority-effect-formal-proofs.md) — related
 - [Expert teachers interpret complex classroom phenomena more accurately and fluidly than novices and postulants](expert-teachers-interpret-classroom-phenomena-better.md) — related
 - [In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking](rubrics-improve-peer-feedback-quality.md) — related
+- [Students at all levels have serious difficulties constructing proofs, with instruction explicitly teaching expert heuristics substantially increasing proof-writing ability](students-difficulty-constructing-proofs.md) — related

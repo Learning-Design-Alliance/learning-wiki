@@ -59,9 +59,11 @@ Corroboration shifts learners from evaluating a source in isolation to evaluatin
 6. **Decide and justify.** Classify the claim as confirmed / disputed / unverifiable and state the evidential basis — a form of [Argument Construction](../elements/argument-construction.md).
 
 ## Related Strategies
+
 - [Lateral Reading](lateral-reading.md) — the companion heuristic; establish what a source is before weighing its claim
 - [3-Source Rule](../strategies/3-source_rule.md) — a concrete corroboration threshold learners can apply habitually
 - [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md) — teaches the source-incentive analysis that makes corroboration discriminating
+- [Use corroboration across multiple sources, including lateral reading, when lacking relevant prior knowledge](corroboration-lateral-reading-for-laypersons.md)
 
 ## Examples
 - **Stanford History Education Group — Civic Online Reasoning curriculum** ([https://cor.stanford.edu](https://cor.stanford.edu)): free classroom tasks in which students corroborate breaking-news claims across outlets; field-tested in dozens of districts.

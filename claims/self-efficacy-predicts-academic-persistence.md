@@ -190,3 +190,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Personal resources have a reciprocal relationship with study resources and relate to engagement and achievement](personal-resources-reciprocal-study-resources.md) — related
 - [Belonging may be more predictive of students' classroom participation and learning behavior than self-efficacy](belonging-more-predictive-than-self-efficacy.md) — related
 - [A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type](growth-mindset-no-effect-vocabulary-learning.md) — related
+- [Receiver characteristics such as academic self-concept, self-efficacy, and achievement are proposed to moderate learners' engagement with feedback, but the achievement relation is conflicting](receiver-characteristics-moderate-recipience.md) — related

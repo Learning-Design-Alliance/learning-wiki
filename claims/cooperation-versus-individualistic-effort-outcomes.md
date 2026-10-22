@@ -59,3 +59,4 @@ The project report's rationale section asserts this as established by research o
 - [The LI(A)RA project produced competitive, scholarly, and educational outcomes that validated the framework's practices](liara-outcomes-validate-framework.md) — related
 - [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](cooperative-concept-mapping-better-than-individual.md) — a narrower finding that bears on this claim
 - [The review reports that jigsaw classrooms produced gains in self-esteem, interpersonal attraction, empathy, and minority academic achievement without cost to majority students](jigsaw-classroom-benefits-reported.md) — related
+- [Cooperative learning is associated with greater peer acceptance and cross-group friendships and has been shown to reduce bullying and perceived stress among marginalized students](cooperative-learning-promotes-inclusion.md) — a narrower finding that bears on this claim

@@ -69,3 +69,6 @@ Simple slopes analyses (Preacher, Curran, & Bauer technique) at 1 SD below mean 
 - [School belonging and GPA were modestly positively correlated among Latino sixth graders (r = .20)](belonging-gpa-correlation-latino-sixth-graders.md) — related
 - [Positive ethnic-racial affect is usually promotive but was linked to declining academic adjustment for Latino early adolescents in one study](eri-affirmation-academic-adjustment-context-dependent.md) — related
 - [Racial/ethnic composition of classrooms and schools shapes Black and Latine students' sense of belonging in mathematics](racial-ethnic-composition-shapes-math-belonging.md) — related
+- [Positive effects of school-level ethnic diversity on outgroup attitudes and perceived fair treatment no longer hold when students' classes are less diverse than their schools](diversity-benefits-require-equitable-class-representation.md) — related
+- [Ingroup representation and racial/ethnic diversity are distinct constructs that are often conflated in school diversity research](ingroup-representation-distinct-from-diversity.md) — related
+- [Greater ethnic diversity in schools is associated with students feeling safer, less bullied, and less lonely, and weight diversity is unrelated to achievement disparities](school-diversity-inclusion-benefits.md) — related

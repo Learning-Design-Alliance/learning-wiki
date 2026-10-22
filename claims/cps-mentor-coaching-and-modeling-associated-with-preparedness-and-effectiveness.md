@@ -94,3 +94,4 @@ Linking mentor coaching reports to first-year REACH ratings for hired student te
 - [Student teachers hired by CPS showed no differences in mentor ratings or feelings of preparation compared with those not hired](cps-hired-vs-not-hired-no-difference-mentor-ratings.md) — related
 - [Student teachers hired by their field-placement school had higher first-year evaluation ratings than those hired elsewhere in CPS](cps-student-teachers-hired-in-placement-school-higher-first-year-ratings.md) — related
 - [Ninety percent of responding completers rated their preparation program effective or very effective and felt at least adequately prepared across all teaching performance expectation domains](completers-rate-preparation-highly-90-percent.md) — related
+- [Learners are more willing to act on feedback when they perceive the sender as credible and trustworthy](sender-credibility-supports-feedback-use.md) — related

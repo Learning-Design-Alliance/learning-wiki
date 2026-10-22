@@ -71,3 +71,4 @@ RI-CCLPM analysis of ProFAN French data (N = 9,041). Self-concept predicted "sub
 - [STARTS model shows a positive effect of prior achievement on subsequent self-concept but no effect of prior self-concept on subsequent achievement](starts-null-self-concept-effect.md) — reports the opposite
 - [Academic skills predict contemporaneous (within-semester) changes in academic self-concept in both mathematics and French](skills-contemporaneous-effects-on-self-concept.md) — related
 - [The temporal asymmetry in effect sizes: contemporaneous skill effects on self-concept are moderate (d = 0.33 in French) while alternative cross-effects are null or negligible](temporal-asymmetry-effect-sizes.md) — related
+- [The meaning of theoretical arrows (causal vs predictive, timescale, functional form, magnitude) is unclear, and cross-lagged effect signs can change with assessment intervals](statistical-convenience-obscures-theory-specification.md) — related

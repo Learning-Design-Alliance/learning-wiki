@@ -51,3 +51,4 @@ Analytical first-order approximation (Section III) combining random pre- and pos
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - Pre-test scores strongly predict post-test scores but not normalized learning gains — related
 - [Average homework H-scores correlate negatively with proctored exam performance, with the correlation strengthening from Spring 2024 to Spring 2026](h-score-negative-exam-correlation-strengthening.md) — related
+- [An approximately hour-long interactive computer tutorial on orthographic projection produced significant pre–post performance gains for most students](orthographic-projection-tutorial-gains.md) — related

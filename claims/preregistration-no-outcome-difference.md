@@ -44,3 +44,4 @@ The article cites von den Akker et al. (2024) second-hand to argue that pre-regi
 
 ## Related Claims
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](wwc-corrections-eliminate-author-reported-significance.md) — related
+- [Registered reports were rated higher than typical papers on all nineteen evaluated quality criteria by 353 peer reviewers](registered-reports-rated-higher-on-nineteen-criteria.md) — related

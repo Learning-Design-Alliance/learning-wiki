@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1835 entries** · 0 stable · 1835 in review · 0 drafts
+**1836 entries** · 0 stable · 1836 in review · 0 drafts
 
 ---
 
@@ -618,6 +618,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Framework for Leading Next Generation Science Standards Implementation](framework-for-leading-next-generation-science-standards-implementation.md) - A leadership framework developed by Stiles et al.
 * [Framework for Powerful Learning with Emerging Technology](framework-for-powerful-learning-with-emerging-technology.md) - A three-principle framework developed by its authors to guide educators, caregivers, and learners in using emerging technologies through learner-centered, evidence-based, and skill-building practices.
 * [Framework for Teaching](framework-for-teaching.md) - The Charlotte Danielson Framework for Teaching is a framework developed by Charlotte Danielson for evaluating and supporting classroom teaching through observable components across four domains and four performance levels.
+* [Frequentist-based Representative Diversity (FRD) index](frequentist-based-representative-diversity-frd-index.md) - A proposed index by Chan et al.
 * [Freshman OnTrack](freshman-ontrack.md) - A school early-warning indicator and dashboard system that combines student attendance, grades, discipline, and momentum data to monitor freshman on-track status and guide support.
 * [Freshman OnTrack indicator](freshman-ontrack-indicator.md) - A research-based early-warning measurement developed and used by the University of Chicago Consortium and Chicago Public Schools to identify ninth-grade students at risk of not graduating.
 * [Freshman Success](freshman-success.md) - Freshman Success is a school-based ninth-grade monitoring and support programme that uses real-time reports to help staff keep students on track during the freshman year.

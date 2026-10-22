@@ -12,7 +12,7 @@ generated:
 # Research Design Taxonomy — Quantitative/Qualitative and Descriptive/Correlational/Experimental
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (2 for, 3 mixed, 1 unmarked) · 6 studies (2 review, 2 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (3 for, 3 mixed, 1 unmarked) · 7 studies (2 review, 2 associational, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 7 report an effect size · 7 claims rest on one study
 
 ## Description
 **Quantitative research** typically starts with a focused research question or hypothesis, collects a small amount of data from each of a large number of individuals, describes the resulting data with statistical techniques, and draws general conclusions about a population. It is comparatively weak at generating novel, interesting research questions or providing rich description of behavior in particular situations. **Qualitative research** does the reverse: it can generate new questions and hypotheses, collects large amounts of relatively unfiltered data from a relatively small number of individuals, describes that data with non-statistical techniques, and can produce rich, detailed description of behavior in the real-world contexts where it occurs — what qualitative researchers call the "lived experience" of participants. Because the two approaches have complementary strengths, some researchers combine them into **mixed-methods research**, either by using qualitative work to generate hypotheses that quantitative work then tests, or through **triangulation** — using both approaches simultaneously on the same question and comparing results. Convergent results reinforce and enrich each other; divergent results raise a genuinely useful further question: why do they diverge, and how can that be reconciled?
@@ -46,6 +46,7 @@ People also perceive relationships between variables that don't actually exist a
 - [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](../claims/learning-style-achievement-correlations-r24.md) [+M] — attached 2026-10-21 from John Hattie (2025), which proposed "Two-stories framework: matching-hypothesis (d) studies versus correlational (r) studies of learning styles"; tests this page's relationship.
 - [Whether results represent causal effects requires knowledge and assumptions about data, design, and methods in both experimental and non-experimental work](../claims/causal-claims-require-assumptions-in-both-designs.md) [~W]
 - [Mixed methods articles were rare (2.55% of empirical articles) in five educational psychology journals from 2016 to 2022, with most articles quantitative](../claims/mmr-prevalence-2-55-percent-ed-psych.md) [~W]
+- [Readers often struggle to match evidence types to claims, especially distinguishing correlational from causal evidence](../claims/readers-struggle-matching-evidence-types-to-claims.md) [+W]
 
 ## The evidence by question
 

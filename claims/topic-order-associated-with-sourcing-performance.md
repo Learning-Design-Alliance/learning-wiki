@@ -66,3 +66,4 @@ Crosstabulation with χ2 tests and Cramer's V related topic order to RCI change 
 - [The intervention improved students' sourcing in credibility judgments and in written products relative to controls](sourcing-intervention-improves-credibility-judgments-written-products.md) — related
 - [A teacher-led sourcing intervention increased upper secondary students' use of source features in search queries during online inquiry](sourcing-intervention-improves-search-queries.md) — related
 - [Students with the weakest pre-intervention sourcing skills showed the clearest positive change during the intervention](weakest-sourcing-skills-benefited-most.md) — related
+- [Topical vocabulary knowledge is positively associated with adolescents' multiple-source integration, evaluation, and synthesis performance](topical-vocabulary-associated-with-multiple-source-performance.md) — related

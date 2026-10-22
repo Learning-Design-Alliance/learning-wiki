@@ -47,6 +47,7 @@ The article recommends combining physiological sensors with other data sources t
 - [Use multimodal data channels combining subjective and objective measures to overcome single-channel constraints in SSRL research](multimodal-multichannel-ssrl-measurement.md)
 - [Combine system logs, eye-tracking, and speech recognition to capture professional performance, communication, and collaboration for automated feedback in full-mission simulator training](mmla-sensor-set-simulator-feedback.md)
 - [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
+- [Employ multimodal methods to capture the multifaceted feedback process](multimodal-methods-feedback-process.md)
 
 ## Examples
 -

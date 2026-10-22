@@ -51,3 +51,4 @@ Study 1 was an experiment in which "low versus high achievers with a low versus 
 - [Students' SES and academic achievement level moderate their use of the SES stereotype](ses-and-achievement-moderate-stereotype-use.md) — possibly the same claim (merge candidate)
 - [The authors interpret stereotype threat as a partial explanation for the standardized-test achievement gap between low- and high-SES students](stereotype-threat-partly-explains-ses-achievement-gap.md) — related
 - [Making socioeconomic identity salient or presenting a test as diagnostic of intelligence leads low-SES students to perform significantly worse and report lower self-confidence than low-SES participants in non-threatening conditions](ses-stereotype-threat-lowers-low-ses-test-performance.md) — related
+- [Gaps in source knowledge hinder source-credibility judgments, particularly inferences about benevolence](source-knowledge-gaps-hinder-benevolence-judgments.md) — related

@@ -51,3 +51,5 @@ The review's coding found misconception-addressing work concentrated in science,
 - [Learners with more misconceptions made more overconfident comprehension predictions after a standard text with a misconception list, an association not seen with refutation texts or think sheets](refutation-text-think-sheet-counteract-comprehension-overconfidence.md) — related
 - [Anger does not mediate the effect of concessive refutation statements on conceptual change or transfer](anger-does-not-mediate-concession-effects.md) — related
 - [Learners with more misconceptions who completed a think sheet were more underconfident in predicting their transfer performance](think-sheet-underconfidence-transfer-predictions.md) — related
+- [Inaccurate prior beliefs undermine readers' ability to question online misinformation](inaccurate-beliefs-undermine-misinformation-questioning.md) — related
+- [Prior knowledge can hinder credibility evaluation through selective attention and overconfidence](prior-knowledge-can-hinder-credibility-evaluation.md) — related
