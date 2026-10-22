@@ -47,3 +47,4 @@ Theoretical argument in Section 4, consistent with the paper's cited broader fin
 - [Habitual self-formative dialogue with a synthetic position tends to absorb the integrative authorship of the meta- and promoter positions (synthetic promotion)](synthetic-promotion-cedes-promoter-function.md) — possibly the same claim (merge candidate)
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md) — related
+- [Habits tend to override intentions primarily under unfavorable conditions such as stress, time pressure, or low self-control](habits-override-intentions-under-stress.md) — related

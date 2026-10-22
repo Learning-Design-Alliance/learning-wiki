@@ -50,3 +50,4 @@ Latent change score model fitted on the same simulated data (acceptable fit: χ2
 - [Validation with simulated TRAIN-like data replicates the divergence: RI-CLPM positive, LCSM negative, ESDM no-direct-effects](train-validation-divergent-model-findings.md) — related
 - [Academic self-concept predicts lagged (across-semester) changes in academic skills in both mathematics and French](self-concept-lagged-effects-on-skills.md) — reports the opposite
 - [Academic skills predict contemporaneous (within-semester) changes in academic self-concept in both mathematics and French](skills-contemporaneous-effects-on-self-concept.md) — reports the opposite
+- [EF longitudinally predicts later SRL in children, supporting the notion that EF predicts SRL but not vice versa](ef-predicts-srl-longitudinally.md) — related

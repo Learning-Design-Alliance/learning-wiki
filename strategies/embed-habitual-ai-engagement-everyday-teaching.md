@@ -43,6 +43,7 @@ Because habit showed the strongest direct and competence-mediated associations w
 
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 - [Deliberately scaffold AI-output verification habits rather than assume they develop alongside rising AI use](scaffold-ai-verification-habits-deliberately.md)
+- [Habit-based intervention implications: habituate the instigation of effective strategies, not their full execution](habituate-strategy-instigation.md)
 
 ## Examples
 -

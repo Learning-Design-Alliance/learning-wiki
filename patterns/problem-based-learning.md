@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 58 claims (15 for, 39 mixed, 4 against) · 45 studies (15 causal, 8 review, 7 theoretical, 5 quant-synthesis, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 7 of 45 report an effect size · 53 claims rest on one study
+> **Evidence** · 60 claims (16 for, 40 mixed, 4 against) · 46 studies (15 causal, 8 review, 7 theoretical, 6 quant-synthesis, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 8 of 46 report an effect size · 55 claims rest on one study
 
 ## Description and scope
 
@@ -150,6 +150,8 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 
 - [Prior knowledge correlates negatively with delayed ICL and ECL and positively with delayed GCL, consistent with meta-analytic findings](../claims/prior-knowledge-correlates-with-load-types.md) [~W]
 - [Creating products as part of problem-driven learning does not change its effect on motivation](../claims/product-creation-no-motivation-difference.md) [~W]
+- [Computer-based scaffolding improves cognitive outcomes in problem-based learning in STEM education with an overall effect of g = 0.385](../claims/cbs-pbl-stem-overall-effect-g-0-385.md) [+W]
+- [Scaffolding effects in PBL are higher in Engineering, Technology, and Mathematics than in Science, and relatively low in integrated STEM education](../claims/discipline-moderator-scaffolding-effects-bma.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

@@ -77,3 +77,5 @@ The review's synthesis of psychological research on belonging, implicit theories
 - [Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor](belonging-task-relevance-mindset-predict-self-efficacy.md) — a narrower finding that bears on this claim
 - [Expectancies for success predict academic achievement more strongly than task values](expectancy-success-predicts-achievement.md) — related
 - [Stable Dispositions such as conscientiousness predict academic success partly through effort, with some independence from cognitive ability](stable-dispositions-predict-academic-success-through-effort.md) — related
+- [Specific observable mindset-signaling behaviors have been identified that convey peers' implicit beliefs about ability](mindset-signaling-behaviors-identified.md) — related
+- [Teachers' growth mindset is positively associated with their self-efficacy (r = .180)](teacher-growth-mindset-self-efficacy-association.md) — related

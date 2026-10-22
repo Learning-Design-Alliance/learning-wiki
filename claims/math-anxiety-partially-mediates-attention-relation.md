@@ -54,3 +54,4 @@ Exploratory SEM pathway in 330 children; the article describes this as an explor
 - [Working memory mediates the indirect effects of anxiety on math performance](wm-mediates-anxiety-effect-on-math.md) — related
 - [Processing speed affects math achievement directly and both reading and math indirectly through working memory](ps-direct-math-indirect-wm-academic-effects.md) — related
 - [Math anxiety mediated the effect of gender on pretest monitoring judgments in exploratory analyses](math-anxiety-mediates-gender-effect-on-monitoring.md) — related
+- [Math anxiety correlates weakly with working memory (r = −.18), and WM's mediating role between anxiety and math achievement is negligible](wm-weak-link-negligible-mediation.md) — related

@@ -47,3 +47,4 @@ The review's critique of existing RL applications, citing prior work: "RL often 
 - [An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards](rl-reward-misalignment-failure-modes.md) — related
 - [Among RL papers statistically outperforming baselines, normalized learning gain was the most common effective reward source, used in over half of the papers (n = 10)](normalized-learning-gain-effective-reward-source.md) — related
 - [Curriculum strategies in AI training often yield faster convergence and better generalization, but difficulty in ML reflects optimization rather than learner readiness](curriculum-learning-sequencing-gains-and-limits.md) — related
+- [Reinforcement learning operationalizes motivational constructs by representing motivation in the reward function](rl-reward-function-operationalizes-motivation.md) — related

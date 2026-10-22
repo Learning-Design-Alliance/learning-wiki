@@ -57,3 +57,4 @@ PLS-SEM structural model with the three psychological needs, measured after the 
 - [CHAT analysis identified three Type 2 secondary contradictions whose operation through psychological need frustration explained motivational decline despite growing competence](type2-contradictions-thwart-sdt-needs.md) — related
 - [Competence need satisfaction is the strongest psychological-need predictor of students' self-determined motivation types](competence-strongest-need-predictor-student-motivation.md) — related
 - [In EERs, autonomy, competence, and relatedness are each supported by specific design features per self-determination theory](eer-sdt-needs-design-features.md) — related
+- [Self-determination theory grew incrementally by adding mini-theories as evidence accumulated](sdt-grew-brick-by-brick.md) — related

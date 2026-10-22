@@ -13,7 +13,7 @@ generated:
 # Retrieval
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (9 for, 5 mixed) · 15 studies (9 causal, 4 quant-synthesis, 2 review), `q2`–`q4` · 9 of 15 report an effect size · 12 claims rest on one study
+> **Evidence** · 15 claims (9 for, 5 mixed, 1 against) · 16 studies (9 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 9 of 16 report an effect size · 13 claims rest on one study
 
 ## Description
 Retrieval practice (the "testing effect") requires learners to pull information out of memory — via free recall, short-answer questions, quizzes, or self-explanation — instead of passively reviewing it. The act of successful retrieval itself modifies memory, making the retrieved knowledge more accessible later than equivalent time spent re-reading.
@@ -63,6 +63,7 @@ Retrieval is one of the most robust findings in learning science: testing as a l
 - [The overt-retrieval advantage does not significantly differ by definition complexity (number of idea units), contrary to a retrieval-dynamics prediction](../claims/overt-advantage-not-moderated-by-idea-units.md) [~W]
 - [Overt retrieval also outperforms covert retrieval for key terms, but with a smaller advantage than for definitions](../claims/overt-beats-covert-retrieval-key-terms-smaller.md) [~W]
 - [Across eight delayed-test comparisons, testing showed a small numerical advantage over restudy, but confidence intervals were wide and the combined effect imprecise](../claims/small-scale-meta-analysis-testing-restudy-imprecise.md) [+W]
+- [Retrieval practice mostly increases susceptibility to misinformation (retrieval-enhanced suggestibility)](../claims/retrieval-practice-increases-misinformation-susceptibility.md) [-W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

@@ -12,7 +12,7 @@ generated:
 # Cognitive Apprenticeship
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 4 studies (2 causal, 1 associational, 1 qualitative), `q1`–`q2` · 0 of 4 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 5 studies (2 causal, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 Cognitive apprenticeship is the theory that complex thinking is learned through modeled expert performance, coached participation, scaffolding, articulation, reflection, and gradual fading in authentic tasks.
@@ -25,6 +25,7 @@ Cognitive apprenticeship is the theory that complex thinking is learned through 
 - [Adolescents paired with more skilled adult dialogic partners show greater skill using evidence to support claims than peers paired only with similar-ability partners](../claims/apprenticeship-partners-greater-evidence-use.md) [+W] — attached 2026-10-18 from Song (2023), which proposed "Apprenticeship model of dialogic argumentation skill development"; tests this page's relationship.
 - [Apprenticeship-partnered adolescents generate more advanced counterarguments than similar-ability-paired peers](../claims/apprenticeship-partners-advanced-counterarguments.md) [+W] — attached 2026-10-18 from Song (2023), which proposed "Apprenticeship model of dialogic argumentation skill development"; tests this page's relationship.
 - [The more skilled adult partners displayed skilled counterargument, evidence use, frequent questioning, and meta-talk about the discourse](../claims/skilled-partner-discourse-moves.md) [+W]
+- [Computer-supported argument scaffolds improve argumentation within the scaffolded task, but argumentation does not mediate effects on domain-specific knowledge acquisition](../claims/argument-scaffolds-proximal-success-no-knowledge-mediation.md) [+W] — attached 2026-10-22 from Noroozi et al. (2018), which proposed "Distinction between first-order scaffolding (task performance) and second-order scaffolding (self-directed learning)".
 
 ## Related Theories
 

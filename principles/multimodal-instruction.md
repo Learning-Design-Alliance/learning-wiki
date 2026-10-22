@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (11 for, 14 mixed, 3 against) · 35 studies (15 causal, 10 review, 6 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 9 of 35 report an effect size · 22 claims rest on one study
+> **Evidence** · 30 claims (11 for, 15 mixed, 4 against) · 36 studies (16 causal, 10 review, 6 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 9 of 36 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,8 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - [Embodied learning environments using students' own motion immediately linked to its graphical representation are most effective in terms of learning outcomes for graphing motion](../claims/immediate-own-motion-most-effective-graphing-motion.md) [+W]
 - [Gesture enrichment specifically aided translation of abstract words in Experiment 1, but this word-type specificity did not replicate in Experiment 2](../claims/gesture-benefit-abstract-word-specificity-mixed.md) [~W]
 - [Children's age did not moderate gesture enrichment benefits on vocabulary test performance in Experiment 1](../claims/age-does-not-moderate-gesture-enrichment.md) [~W]
+- [Gesture instructions hindered specific recall for participants with lower propensity to gesture (Study 2)](../claims/gesture-instruction-hinders-low-propensity-gesturers.md) [~W]
+- [Instructing adults to gesture while reading narratives aloud hindered free recall relative to spontaneous gesturing (Study 1)](../claims/instructed-gesture-hinders-narrative-free-recall.md) [-W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.

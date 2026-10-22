@@ -138,3 +138,4 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — related
 - [TBRS-model-derived hypotheses about presentation-pace effects were supported in two experiments, provided prior knowledge is taken into account](tbrs-hypotheses-tested-two-experiments.md) — related
 - [Segmentation improves learning from dynamic visualizations, but because studies always used pauses, whether the pause's processing time or its segment-end signal drives the effect is unclear](segmentation-effect-cause-unclear.md) — related
+- [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](animations-transience-working-memory-load.md) — related

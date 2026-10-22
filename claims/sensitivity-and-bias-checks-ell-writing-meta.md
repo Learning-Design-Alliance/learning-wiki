@@ -80,3 +80,6 @@ Publication bias assessment using funnel plots, trim-and-fill, and Egger's regre
 - Funnel-plot analysis finds no evidence of missing small-effect studies, though asymmetry from few negative estimates suggests possible small bias against null-negative results — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
 - [Publication bias is indicated for the performance-approach and performance-avoidance anxiety effects but not for the depression effects](publication-bias-performance-goal-anxiety-effects.md) — related
+- [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](cross-age-tutoring-publication-bias-mixed.md) — related
+- [Publication bias analyses suggest possible small-sample bias for SCED studies, with trim-and-fill reducing the adjusted mean effect to 1.01](sced-publication-bias-trim-and-fill-101.md) — related
+- [No evidence of dissemination bias was detected in the meta-analysis](teacher-growth-mindset-no-dissemination-bias.md) — related

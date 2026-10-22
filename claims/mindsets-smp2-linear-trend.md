@@ -53,3 +53,4 @@ Three-time-point CLMM on the SMP dataset with polynomial contrasts and a challen
 - [Students showed a large, statistically significant increase in engagement from pre- to post-intervention in the 5-week Mindsets program (d ≈ 1.11)](mindsets-engagement-pre-post-increase.md) — related
 - [Engagement peaked at the middle of the Mindsets program and declined slightly by post-test, showing a significant negative quadratic trend](mindsets-engagement-peaks-midpoint.md) — related
 - [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — related
+- [Non-linear (Goldilocks) effects of expectations and aspirations on outcomes are small and largely non-significant](goldilocks-effect-not-supported-expectations.md) — related

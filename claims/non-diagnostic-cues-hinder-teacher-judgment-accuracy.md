@@ -49,3 +49,4 @@ Multilevel regression in the same within-subjects experiment (N = 33 teachers) f
 - [The cue-diagnosticity intervention steered cue utilization: diagnostic cue use increased and non-diagnostic cue use decreased](diagnosticity-intervention-steers-cue-utilization.md) — related
 - [When making accurate judgments, teachers used diagnostic cues to a greater extent, but also used non-diagnostic cues (IQ and reading self-concept)](accurate-judgments-greater-diagnostic-cue-use-plus-nondiagnostic.md) — related
 - [Performance cues were found most diagnostic for students' reading comprehension performance](performance-cues-most-diagnostic-reading-comprehension.md) — related
+- [Accurately judging cue manifestations, not merely using diagnostic cues, improves teachers' monitoring accuracy; non-diagnostic student cues hamper it](accurate-cue-manifestation-judgment-improves-teacher-monitoring.md) — related

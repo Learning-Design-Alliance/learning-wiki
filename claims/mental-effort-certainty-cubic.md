@@ -50,3 +50,4 @@ Reanalysis of repeated-measurement data (10 tasks per participant) from Blissett
 - [Mental effort relates to article viewing time linearly; no evidence against the linear model was found](mental-effort-viewing-time-linear.md) — related
 - [In a visual-spatial integration task, the interaction between visual-spatial working memory capacity and visual design is quadratic, with the inverted-U progression more strongly accentuated for the dynamic design](quadratic-ati-spatial-ability-visual-design-study1.md) — related
 - [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — related
+- [Non-linear (Goldilocks) effects of expectations and aspirations on outcomes are small and largely non-significant](goldilocks-effect-not-supported-expectations.md) — related

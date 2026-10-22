@@ -50,3 +50,4 @@ Randomized controlled trial (91 Hispanic first-grade English language learners, 
 - [The Frechtling, Zhang, and Silverstein (2006) study showed a substantively important positive average alphabetics effect, while Hecht (2003) did not](voyager-study-average-effect-sizes-differ.md) — related
 - [PALS has potentially positive effects on reading achievement for English language learners, with a combined effect size of 0.31 but no statistically significant effects on individual measures](pals-potentially-positive-reading-effects-ells.md) — possibly the same claim (merge candidate)
 - [Supplemental first-grade interventions for ELLs improved phonological and word-level skills but not comprehension, with comprehension gains emerging at one-year follow-up](ell-early-reading-intervention-word-level-gains.md) — related
+- [Interventions targeting SRL or EF show little evidence of far transfer to the other construct](srl-ef-interventions-no-far-transfer.md) — related

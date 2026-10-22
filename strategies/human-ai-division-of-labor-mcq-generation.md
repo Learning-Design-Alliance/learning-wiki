@@ -54,6 +54,7 @@ The article's central design recommendation is a principled division of labor: a
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 - [Use AI chatbots to assist human-led coaching with routine support between sessions while humans retain challenge and goal clarification](hybrid-human-ai-coaching-division-of-labor.md)
 - [Design assignments that explicitly specify which tasks may be delegated to AI and which may not](specify-ai-delegable-tasks-in-assignments.md)
+- [Evaluate LLM data extraction through a staged meaningful-human-control sequence before integrating it into evidence synthesis](staged-meaningful-human-control-evaluation.md)
 
 ## Examples
 -

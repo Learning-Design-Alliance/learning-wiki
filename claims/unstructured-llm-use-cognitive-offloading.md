@@ -56,3 +56,4 @@ A conceptual, normative and design-oriented paper that states it does not report
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related
 - [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](metacognitive-displacement-illusion-of-competence.md) — related
 - [LLM-supported socio-scientific inquiry lowered cognitive load but produced lower-quality reasoning and argumentation than conventional search](llm-inquiry-lower-load-lower-reasoning.md) — a narrower finding that bears on this claim
+- [Learners who construct good single arguments individually are not always able to apply that competence in comparable collaborative tasks](solo-argument-competence-not-applied-collaboratively.md) — related

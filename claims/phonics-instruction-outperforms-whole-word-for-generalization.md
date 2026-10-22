@@ -164,3 +164,4 @@ Open questions include the optimal pacing of the letter–sound sequence, how mu
 - [Phonics/word study occupied the largest share of observed resource-room reading instruction (32%) at high-average quality, but a quarter was rated weak](word-study-largest-component-high-average-quality.md) — a narrower finding that bears on this claim
 - [Earlier meta-analyses report small positive effects for computer-assisted literacy instruction (0.19; 0.16)](prior-meta-analyses-small-positive-effects.md) — related
 - [Remedial reading programs show effects around 0.49 for struggling readers and 0.54 for more severe difficulties](remedial-reading-programs-effectful-struggling-readers.md) — related
+- [Spelling and reading test scores correlate moderately to highly (r = 0.5–0.9), and spelling instruction is associated with improved reading skills, though causality is unestablished](spelling-reading-links-correlations.md) — related

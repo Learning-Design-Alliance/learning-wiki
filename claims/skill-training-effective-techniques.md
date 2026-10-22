@@ -56,3 +56,4 @@ The monograph reports an extensive review by Showers, Joyce, and Bennett (1987) 
 - [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) — related
 - [More effective programs used brief 1–3 h laboratory sessions with skill-based activities and multiple media](brief-skill-based-multimedia-sessions-moderator.md) — related
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](intensive-professional-development-stronger-epportfolio-outcomes.md) — related
+- [Active learning opportunities in professional development moderate gains in teachers' skills, with alternating input-praxis design far outperforming blocked design for teaching-method use](active-learning-moderates-skill-gains.md) — a narrower finding that bears on this claim

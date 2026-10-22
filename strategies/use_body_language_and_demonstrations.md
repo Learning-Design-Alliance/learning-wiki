@@ -59,9 +59,11 @@ Observation of a modeled performance reduces the working-memory and comprehensio
 5. Where misconceptions are predictable, contrast a correct demonstration with a flawed one [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ## Related Strategies
+
 - [Act It Out](act_it_out.md) — learners enact content bodily, the learner-side counterpart to instructor demonstration
 - [Acting-Role-Play](acting-role-play.md) — dramatization for social and interpersonal skills
 - [Think-Aloud Modeling](think-aloud-modeling.md) — verbalizes the invisible reasoning that physical demonstration cannot show
+- [Use four embodied strategies — gestures, manipulation, body metaphors, and reconstructive eye movements — to ground animation movements in learners' bodies](four-embodied-strategies-dynamic-visualizations.md)
 
 ## Examples
 - A chemistry instructor demonstrates proper titration technique — hand position, swirl motion, reading the meniscus at eye level — while narrating each decision, then circulates as students replicate it.

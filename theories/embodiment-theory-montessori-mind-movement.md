@@ -53,6 +53,7 @@ The theory of embodiment sees meaning and cognition as deeply rooted in physical
 - [Bigger/Smaller/Equal](../strategies/bigger-smaller-equal.md)
 - [Organise Embodied Hands-on and Cognitive Hands-on deliberately according to different learning objectives](../strategies/organise-hands-on-forms-by-learning-objectives.md)
 - [Four modalities of embodied collaboration in shared VR environments](../designs/four-modalities-embodied-vr-collaboration.md)
+- [Use four embodied strategies — gestures, manipulation, body metaphors, and reconstructive eye movements — to ground animation movements in learners' bodies](../strategies/four-embodied-strategies-dynamic-visualizations.md)
 
 ## Key Sources
 - Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr. [doi:10.17161/jomr.v6i1.12051](https://doi.org/10.17161/jomr.v6i1.12051)

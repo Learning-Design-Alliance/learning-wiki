@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 35 claims (27 show a difference, 3 mixed, 5 no difference) · 21 studies (10 associational, 5 causal, 3 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 5 of 21 report an effect size · 34 claims rest on one study
+> **Evidence** · 36 claims (28 show a difference, 3 mixed, 5 no difference) · 22 studies (10 associational, 5 causal, 4 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 5 of 22 report an effect size · 35 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -71,6 +71,7 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [In the mental integration task, the static-vs-dynamic difference was descriptively largest for the medium-span group but only marginal (d = 0.20, p = .062)](../claims/medium-span-largest-descriptive-difference-study1.md) [~W] — an instructional effect differs with it
 - [Reanalysis of pooled data from four multimedia learning experiments found quadratic interactions, with the largest design difference at medium ability](../claims/pooled-reanalysis-quadratic-interactions-multimedia.md) [+M] — an instructional effect differs with it
 - [Extensive Chinese logographic literacy training is associated with higher visuospatial short-term storage that does not generalize to phonological storage](../claims/chinese-training-visuospatial-storage-domain-specific.md) [+M] — instruction changes it
+- [Adding body metaphors to abstract stimuli improves mental rotation performance](../claims/body-metaphors-improve-mental-rotation.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

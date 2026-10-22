@@ -64,3 +64,4 @@ Multivariate logistic regression on SASS/TFS data controlling for student, teach
 - [Noncertified Texas teachers show the sharpest retention decline, with fewer than 40% still teaching after 5 years](noncertified-sharpest-retention-decline.md) — related
 - [Despite rapid expansion of alternative routes into teaching, little research exists to guide judgments about the effectiveness of different teacher training strategies](little-research-teacher-training-strategy-effectiveness.md) — related
 - [Turnover rates are about 50% higher in Title I schools than in non-Title I schools](turnover-50-percent-higher-title-i.md) — related
+- [Offering certification after program completion is associated with larger teacher knowledge gains (g = 1.39 vs. 0.86)](certification-associated-larger-knowledge-gains.md) — related

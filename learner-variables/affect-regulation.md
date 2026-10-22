@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 150 claims (104 show a difference, 30 mixed, 16 no difference) · 102 studies (36 associational, 20 causal, 19 review, 9 qualitative, 8 quant-synthesis, 6 theoretical, 4 design), `q1`–`q4` · 27 of 102 report an effect size · 144 claims rest on one study
+> **Evidence** · 156 claims (109 show a difference, 31 mixed, 16 no difference) · 104 studies (36 associational, 20 causal, 20 review, 9 quant-synthesis, 9 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 28 of 104 report an effect size · 150 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -190,6 +190,12 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Outdoor learning in nature reduces student stress (cortisol decline), but stress-restoration findings are mixed by measure and age](../claims/outdoor-learning-reduces-student-stress-cortisol.md) [~M] — instruction changes it
 - [Emotion regulation difficulties are positively associated with overall academic burnout in youth (pooled r = 0.25)](../claims/er-difficulties-positive-overall-burnout.md) [+M] — learners who differ on it differ in outcomes
 - [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](../claims/test-anxiety-goal-complex-mediation.md) [+W] — learners who differ on it differ in outcomes
+- [In medical simulation training, socially shared regulation relates to subsequent emotional stabilization, with electrodermal activity modeled as a dependent variable](../claims/socially-shared-regulation-emotional-stabilization-eda.md) [+W] — learners who differ on it differ in outcomes
+- [Math anxiety correlates negatively with math performance at a pooled r = −.30 across 169 independent samples](../claims/math-anxiety-negative-correlation-math-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Math anxiety correlates weakly with working memory (r = −.18), and WM's mediating role between anxiety and math achievement is negligible](../claims/wm-weak-link-negligible-mediation.md) [+M] — learners who differ on it differ in outcomes
+- [Test anxiety correlates negatively with math achievement at a pooled r = −.23, weaker than math anxiety's correlation](../claims/test-anxiety-negative-correlation-math-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Test anxiety correlates weakly with working memory (r = −.18), with a much stronger correlation for spatial than verbal material](../claims/ta-wm-spatial-verbal-moderation.md) [+W] — learners who differ on it differ in outcomes
+- [Type of math task moderates the math anxiety–performance link: basic numerical knowledge shows the weakest correlation (r = −.22) and applied math among the strongest (r = −.31)](../claims/math-task-type-moderates-ma-link.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

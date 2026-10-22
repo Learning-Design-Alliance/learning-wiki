@@ -164,3 +164,5 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 - [Qualitative findings: students initially held inaccurate beliefs about strategy efficacy, and high effort from interleaved practice was misinterpreted as a sign of poor learning](effort-misinterpreted-as-poor-learning.md) — a narrower finding that bears on this claim
 - [Individual performance feedback leads to more long-term choices for retrieval practice than general instruction on its benefits](performance-feedback-retrieval-practice-choices.md) — related
 - [Students make substantial use of worked examples during self-regulated learning, but task selection patterns differ across studies and between high- and low-scoring students](task-selection-patterns-examples-practice-problems.md) — related
+- [Generative activities improve students' monitoring accuracy but not their actual learning after restudy](generative-activities-improve-monitoring-not-restudy-learning.md) — related
+- [Ineffective learning strategies show substantially higher habit strength than effective strategies in a proof-of-concept survey](ineffective-strategies-higher-habit-strength.md) — related

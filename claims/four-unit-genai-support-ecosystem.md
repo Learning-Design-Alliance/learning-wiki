@@ -51,3 +51,4 @@ Document analysis mapping institutional support resources across the 50-institut
 - [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](associate-deans-report-no-official-ai-policies-localized-guidelines.md) — related
 - [Institutions diverge in tooling strategy between protected, institutionally hosted AI environments and consumer tools governed by risk controls](genai-tooling-strategy-divergence.md) — related
 - [GenAI guidelines at top U.S. universities cluster into four topics: learning and assessment integration, visual/multimodal media, security and ethics, and academic integrity](four-topics-genai-guidelines-heis.md) — related
+- [Teachers' practical confusion stems mainly from institutional policies conflicting with student-centered evidence, not from multiple theories](policy-not-theories-confuses-teachers.md) — related

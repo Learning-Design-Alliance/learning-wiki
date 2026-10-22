@@ -53,3 +53,6 @@ The meta-analysis's moderator analysis compared involvement components; it found
 - [Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education](parent-involvement-ideas-inhibit-equity.md) — related
 - [Parenting self-efficacy correlates most strongly with home-based participation and parental expectations and aspirations, and least with parent-teacher communication and relationships](pse-strongest-home-based-and-expectations.md) — related
 - [Labeling children as visual versus hands-on learners biases adults' and children's judgments of intelligence and subject expectations](learning-style-labeling-bias-judgments.md) — related
+- [The parental aspiration-expectation gap negatively predicts student expectations, academic self-concept, GPA, and age-26 outcomes](aspiration-expectation-gap-negative-effects.md) — related
+- [Effects of parent aspirations on student outcomes are predominantly small and mixed in direction](parent-aspirations-small-mixed-effects.md) — reports the opposite
+- [Teacher expectations correlate most strongly with achievement among Year-10 expectation and aspiration measures](teacher-expectations-highest-achievement-correlations.md) — related

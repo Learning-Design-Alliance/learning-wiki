@@ -45,7 +45,8 @@ The editorial argues that isolated CSCL advances must be consolidated into large
 - [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](../claims/rns-collaborative-design-relevant-feasible-sustainable.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use consensus processes, editorial strategies, and institutional policies to make theory integration impactful](consensus-processes-editorial-institutional-support-integration.md)
 
 ## Examples
 -

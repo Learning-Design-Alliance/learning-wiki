@@ -79,3 +79,4 @@ Random-effects meta-analysis of 273 effect sizes from 162 independent samples (N
 - [Academic grit has a significant positive effect on primary students' math achievement](academic-grit-positive-effect-primary-math-achievement.md) — related
 - [Fixed math mindset negatively predicts primary math achievement while growth math mindset shows no direct effect](fixed-math-mindset-negative-direct-effect-primary.md) — related
 - [No correlation between an intervention's attitude effect and its achievement effect across studies](no-attitude-achievement-correlation-across-studies.md) — related
+- [Teachers' growth mindset shows a small positive overall association with combined teacher, instructional, and student outcomes (r = .111)](teacher-growth-mindset-small-overall-association.md) — related

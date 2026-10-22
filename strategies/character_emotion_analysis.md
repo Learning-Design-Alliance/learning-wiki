@@ -60,9 +60,11 @@ Reading narrative fiction requires tracking characters' goals, beliefs, and emot
 6. Extend with role-play or rewriting from another character's perspective ([Acting-Role-Play](acting-role-play.md)).
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — enacting the scene converts inferred emotion into embodied practice
 - ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — builds the emotion vocabulary that analysis depends on
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting character emotions to students' own experiences is a form of prior-knowledge activation
+- [Model social imagination of fictional characters' perspectives using connection stems, character-focused questions, and letters to characters](model-social-imagination-connection-stems.md)
 
 ## Related Elements
 - [Think-Aloud](../elements/think-aloud.md) — makes the emotion-inference process visible for novices

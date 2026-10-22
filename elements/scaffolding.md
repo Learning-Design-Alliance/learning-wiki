@@ -13,7 +13,7 @@ generated:
 # Scaffolding
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 3 studies (2 causal, 1 associational), `q3` · 1 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 4 studies (2 causal, 1 quant-synthesis, 1 associational), `q3` · 2 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Scaffolding is the element in which support is added temporarily so learners can perform tasks they could not yet complete independently.
@@ -39,6 +39,7 @@ Scaffolding is the element in which support is added temporarily so learners can
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The scaffolding intervention unintentionally increased small groups' independent working time, roughly doubling it from premeasurement to postmeasurement](../claims/scaffolding-intervention-increases-independent-working-time.md) [+W]
 - [Complete and faded double-content examples did not differentially affect student teachers' professional vision](../claims/fading-no-differential-effect-pvcm.md) [~W]
+- [Customized scaffolding (fading/adding) outperforms non-customized scaffolding in PBL-STEM, with fading/adding highest at g = 0.590](../claims/scaffolding-customization-fading-adding-highest.md) [~W]
 
 ## Related Elements
 - [Fading](fading.md)

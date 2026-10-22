@@ -52,3 +52,4 @@ The review reports, citing Dörrenbächer-Ulrich and Bregulla (2024), this concl
 - [Inhibition/interference, working memory and processing speed correlate with adolescent academic achievement, while cognitive flexibility and social skills do not](ef-domains-associated-adolescent-academic-achievement.md) — related
 - [Cognitive flexibility uniquely predicts literacy achievement in Grades 4 and 6, above and beyond fluid intelligence, attention, inhibitory control, working memory, and planning](cognitive-flexibility-unique-predictor-literacy-grades-4-6.md) — related
 - [Metacognition interventions positively impact children's executive functions, a novel outcome in this literature](metacognition-interventions-improve-executive-functions.md) — related
+- [EF explains substantial achievement variance (about 20–60% in school children) while SRL shows positive but low-effect-size relations to achievement](ef-achievement-variance-srl-low-effect.md) — related

@@ -55,3 +55,4 @@ Multilevel Model 2 (Table 1) predicting mathematics self-concept from student ac
 - [Class-average achievement shows a small negative indirect effect on subsequent mathematics achievement mediated through mathematics self-concept](bflpe-negative-mediation-achievement.md) — related
 - [The Big-Fish-Little-Pond effect on mathematics self-concept is negative and statistically significant in all three countries under a fully specified doubly latent model](bflpe-negative-significant-all-countries.md) — related
 - [Positive class-level peer spillover effects on mathematics achievement fail to replicate once measurement error is controlled with doubly latent models](peer-spillover-disappears-doubly-latent-models.md) — related
+- [School-average achievement negatively predicts parent, teacher, and student expectations and parent aspirations, with larger adverse effects for parents and especially teachers than students](bflpe-generalizes-expectations-aspirations.md) — related

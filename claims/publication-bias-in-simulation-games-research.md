@@ -46,3 +46,4 @@ Meta-analytic publication-status moderator analysis from Table 2: 44 effect size
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — reports the opposite
 - [Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent](publication-bias-reduces-intercept-no-transfer-without-moderators.md) — related
 - [Journal-published studies show larger concept-mapping effects than dissertations and conference papers (g = 1.039 vs. 0.254)](journal-publication-larger-effect-sizes-grey-literature.md) — related
+- [Publication bias is present to a varying degree, with published studies reporting larger belief and student-behavior effects than unpublished studies](publication-bias-beliefs-student-behavior.md) — related

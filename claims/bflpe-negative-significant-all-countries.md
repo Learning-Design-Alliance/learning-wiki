@@ -51,3 +51,4 @@ In the integrated doubly latent path model with all covariates, the BFLPE on pos
 - [Positive class-level peer spillover effects on mathematics achievement fail to replicate once measurement error is controlled with doubly latent models](peer-spillover-disappears-doubly-latent-models.md) — related
 - [Measurement error bias inflates peer spillover effects while attenuating the BFLPE; controls strengthen the BFLPE and weaken the spillover effect](measurement-error-bias-compositional-effects.md) — related
 - [Class-average achievement negatively predicts mathematics self-concept after controlling individual achievement (BFLPE replication in TIMSS 2019)](bflpe-replication-timss-2019-contextual-mean-effect.md) — related
+- [School-average achievement negatively predicts parent, teacher, and student expectations and parent aspirations, with larger adverse effects for parents and especially teachers than students](bflpe-generalizes-expectations-aspirations.md) — related

@@ -46,3 +46,4 @@ Simultaneous regression analyses across the TerraNova outcomes found Nonsense Wo
 - [Kindergarten DIBELS subtests significantly predict first-grade TerraNova vocabulary, language, and reading outcomes](dibels-predict-terranova-first-grade.md) — a broader claim this one bears on
 - [Kindergarten DIBELS subtests predict first-grade instructional reading, with Letter Naming Fluency the strongest predictor](dibels-predict-first-grade-reading.md) — a broader claim this one bears on
 - [Kindergarten DIBELS subtests show significant concurrent positive relationships with standardized early literacy measures in urban kindergartners](dibels-kindergarten-concurrent-literacy-validity.md) — related
+- [Fewer learner characteristics predicted judgment bias than previous bivariate research suggests, because interdependencies reduce or mask effects when characteristics are considered simultaneously](simultaneous-predictors-fewer-relevant.md) — related

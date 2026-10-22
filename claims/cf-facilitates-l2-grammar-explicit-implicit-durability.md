@@ -84,3 +84,4 @@ The review reports two findings from the same meta-analysis: explicit feedback b
 - [On the immediate posttest of implicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.](cf-type-implicit-short-term-differences.md) — a narrower finding that bears on this claim
 - [Prompts raised learners' pragmatic awareness of refusals more than explicit feedback or control after a 10-week treatment](prompts-beat-explicit-feedback-refusal-awareness.md) — related
 - [High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.](high-confidence-errors-improve-retention.md) — related
+- [Feature-focused information-literacy trainings appear effective, but lack delayed-posttest evidence](feature-focused-info-literacy-trainings-effective.md) — related

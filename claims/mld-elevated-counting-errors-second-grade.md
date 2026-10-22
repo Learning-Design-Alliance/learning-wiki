@@ -45,3 +45,4 @@ Multilevel analysis of counting errors on the choice addition task in second thr
 ## Related Claims
 - [Counting-string intrusion errors are as common in LA-Severe Fact Retrieval children as in children with MLD, but decline across grades only for the MLD group](counting-string-intrusions-mld-vs-la-severe.md) — related
 - [After controlling for domain-general abilities and reading, MLD children show deficits on all mathematical cognition tasks while LA-Severe children show a specific counting-string intrusion deficit](adjusted-group-differences-math-cognition-tasks.md) — related
+- [Children with mathematical learning disabilities use finger counting more often and switch to memory-based strategies later than typically developing peers](mld-children-finger-counting-longer-later-switch.md) — related

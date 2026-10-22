@@ -61,3 +61,4 @@ SEM analysis (Full Mediation model, best fitting for NO) in 330 children; this s
 - [Modeling mathematics anxiety as the mediator of metacognition's effect on word problem solving yields no mediating effect](ma-as-mediator-null.md) — related
 - [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and is linked to Grade 3 math only indirectly](visuospatial-sketchpad-predicts-higher-qnc.md) — related
 - [Math anxiety compromises working memory only when the anxiety is aroused by computation-based tasks, not on verbal span assessments](math-anxiety-compromises-working-memory-when-aroused.md) — related
+- [Math anxiety correlates weakly with working memory (r = −.18), and WM's mediating role between anxiety and math achievement is negligible](wm-weak-link-negligible-mediation.md) — reports the opposite

@@ -45,3 +45,4 @@ Narrative review of animation research (citing Ayres and Paas 2007; Höffler and
 
 ## Related Claims
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](animations-transience-working-memory-load.md) — possibly the same claim (merge candidate)

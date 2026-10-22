@@ -49,3 +49,4 @@ Narrative review of the aptitude-by-treatment interaction literature, citing Cra
 - [Empirical patterns of the expertise reversal effect fit those found in Aptitude Treatment Interaction studies initiated in the mid-60s](expertise-reversal-fits-ati-patterns.md) — related
 - [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — related
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
+- [Grasping virtual objects benefits low language aptitude learners but not high language aptitude learners relative to audiovisual baseline](grasping-benefits-low-aptitude-not-high-aptitude-learners.md) — a narrower finding that bears on this claim

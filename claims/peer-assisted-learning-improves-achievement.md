@@ -80,3 +80,4 @@ Earlier Related Claims:
 - [Younger children performed more redundant actions than older children](younger-children-more-redundant-actions.md) — related
 - [Purely peer groups working purposefully out-of-reach problems did not fully succeed but still made significant progress, internalizable by individual members](peer-groups-did-not-fully-succeed-out-of-reach-problems.md) — a narrower finding that bears on this claim
 - [In adjusted meta-regressions, peer-assisted and small-group instruction outperform computer-assisted instruction, coaching, incentives, and progress monitoring](peer-small-group-outperform-other-methods.md) — related
+- [Cross-age tutoring produces a small-to-moderate positive effect on academic outcomes for both tutors and tutees](cross-age-tutoring-positive-academic-effects-both-roles.md) — a narrower finding that bears on this claim

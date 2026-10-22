@@ -47,6 +47,7 @@ Based on its findings, the review forwards recommendations for future inquiry, "
 ## Related Strategies
 
 - [Future AI-SRL research should broaden search strategies, include educators and younger learners, address motivation, and apply longitudinal designs](ai-srl-future-research-recommendations.md)
+- [Use statistical and conceptual procedures to distinguish sibling constructs and compare sibling theories' predictions](lawson-robins-sibling-construct-validation.md)
 
 ## Examples
 -

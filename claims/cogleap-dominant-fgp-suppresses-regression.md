@@ -66,3 +66,4 @@ Comparison of cognitive shift distributions between CoT and FGP on the computer 
 - [Both models target Higher Bloom levels far more accurately than Lower levels, with the general model outperforming the coder model upward](tza-higher-versus-lower-bloom-targets.md) — a narrower finding that bears on this claim
 - [Fine-grained prompting substantially improves question uniqueness and usability of LLM-generated educational questions compared with Chain-of-Thought prompting](fgp-improves-question-uniqueness-usability.md) — related
 - [Under Chain-of-Thought prompting, higher Bloom-level classification accuracy correlates with lower category consistency in generated questions](negative-correlation-classification-catcons.md) — related
+- [Cognitive architectures reproduce fine-grained educational phenomena beyond final accuracy, including reaction time distributions and qualitative error patterns](cognitive-architectures-reproduce-fine-grained-phenomena.md) — related

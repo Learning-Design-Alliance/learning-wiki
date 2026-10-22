@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 128 claims (100 show a difference, 17 mixed, 11 no difference) · 102 studies (36 causal, 23 associational, 16 review, 12 design, 7 quant-synthesis, 5 qualitative, 3 theoretical), `q1`–`q4` · 22 of 102 report an effect size · 123 claims rest on one study
+> **Evidence** · 130 claims (100 show a difference, 17 mixed, 13 no difference) · 105 studies (37 causal, 23 associational, 16 review, 12 design, 7 quant-synthesis, 5 qualitative, 5 theoretical), `q1`–`q4` · 22 of 105 report an effect size · 124 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -152,7 +152,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Prior knowledge and intervention condition predict repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult](../claims/prior-knowledge-and-prompting-moderate-load-and-interest.md) [+M] — instruction changes it
 - [Repeated measures of invested mental effort, perceived task difficulty, interest, and self-assessed understanding differ significantly across measurement points within complex learning tasks and are not adequately represented by their mean](../claims/repeated-load-interest-measures-vary-within-complex-tasks.md) [+M] — instruction changes it
 - [Individual interest is a stable positive predictor of academic achievement, while seductive details harm recall and transfer](../claims/individual-interest-predicts-achievement.md) [+W] — learners who differ on it differ in outcomes
-- [The teacher behaviours most predictive of engagement change do not neatly fit within any single motivational theory, supporting theoretical integration](../claims/influential-behaviours-span-multiple-motivational-theories.md) [+W] — instruction changes it
+- [The teacher behaviours most predictive of engagement change do not neatly fit within any single motivational theory, supporting theoretical integration](../claims/cross-theoretical-71-teacher-behaviors-predict-engagement.md) [+W] — instruction changes it
 - [School racial climate subscales showed positive relationships with motivational constructs including interest, belonging, and utility value](../claims/school-racial-climate-positive-motivational-relationships.md) [+M] — instruction changes it
 - [General interest (d = 0.22) and career interest (d = 0.40) show significant positive effects; other attitude subscales do not](../claims/attitude-subscale-effects-general-career-interest.md) [~W] — learners who differ on it differ in outcomes
 - [Performance benefits of UVIs may be limited to the perceived-useful content unless usefulness generalizes or interest develops](../claims/uvi-performance-benefits-context-limited.md) [~W] — an instructional effect differs with it
@@ -163,6 +163,8 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Labelling mushrooms as poisonous versus edible successfully raised the perceived utility value of distinguishing, interest, and perceived authenticity in Experiment 1](../claims/utility-value-label-manipulation-check-exp1.md) [+M] — instruction changes it
 - [Physics interest moderates long-term retention: low- and medium-interest students benefit from non-interactive teaching at eight weeks, high-interest students do not](../claims/interest-moderates-long-term-retention-teaching.md) [~M] — an instructional effect differs with it
 - [Iterative curiosity–resolution cycles can build knowledge networks and a foundation for individual interest](../claims/curiosity-resolution-cycle-individual-interest.md) [+M] — instruction changes it
+- [Haptic experience in the first showroom does not transfer to increased engagement or knowledge in a second showroom with poster information](../claims/haptics-no-transfer-second-showroom.md) [-M] — instruction changes it
+- [Haptic exploration does not increase situational interest, duration of stay, or number of objects inspected in the first showroom](../claims/haptics-no-effect-attention-interest-showroom1.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

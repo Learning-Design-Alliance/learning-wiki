@@ -80,3 +80,4 @@ Same overview: students recognize durable skills like time management, collabora
 - [Changing job requirements mean students must be prepared to change throughout their entire work lives](changing-job-requirements-students-prepared-for-change.md) — related
 - [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](early-fraction-foundations-given-rational-number-difficulty.md) — related
 - [Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science](career-fear-apathy-outcomes-over-process.md) — related
+- [Motivation theories in education have converged on a learner-centered focus over recent decades](motivation-theories-converged-learner-centered.md) — related

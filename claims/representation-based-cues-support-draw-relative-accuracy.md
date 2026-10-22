@@ -48,3 +48,4 @@ Study 2 ANOVA on draw relative accuracy (Pearson) with 48 undergraduates reading
 - [Text-only students based draw judgments on internal mental images while image-condition students recalled external visuals](internal-vs-external-visual-cue-use-draw-judgments.md) — related
 - [Students reported using visual cues for draw judgments but not for test or explain judgments](visual-cues-reported-only-for-draw-judgments.md) — related
 - [Students in the image condition gave higher draw judgment magnitude than text-only students in Study 1a](image-condition-inflated-draw-judgment-magnitude.md) — related
+- [Instructing students to draw relations between text ideas (organizational drawing) improves relative monitoring accuracy more than representational drawing](organizational-drawing-instruction-improves-monitoring-accuracy.md) — related

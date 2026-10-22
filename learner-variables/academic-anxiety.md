@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 112 claims (72 show a difference, 26 mixed, 14 no difference) · 74 studies (29 associational, 17 review, 13 causal, 5 quant-synthesis, 5 qualitative, 4 theoretical, 1 design), `q1`–`q4` · 19 of 74 report an effect size · 106 claims rest on one study
+> **Evidence** · 118 claims (75 show a difference, 29 mixed, 14 no difference) · 75 studies (29 associational, 17 review, 13 causal, 6 quant-synthesis, 5 qualitative, 4 theoretical, 1 design), `q1`–`q4` · 20 of 75 report an effect size · 112 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -148,6 +148,12 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [In non-randomised controlled trials, teacher programs show moderate effects on stress (g=0.50) and small effects on anxiety and wellbeing (g=0.38 each) at post-intervention, with non-significant effects at short-term follow-up](../claims/teacher-programs-nrct-effects.md) [~M] — instruction changes it
 - [Anxiety, enjoyment and boredom are three critical emotions in language learning that affect outcomes and engagement](../claims/anxiety-enjoyment-boredom-critical-sla-emotions.md) [+M] — learners who differ on it differ in outcomes
 - [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](../claims/test-anxiety-goal-complex-mediation.md) [+M] — learners who differ on it differ in outcomes
+- [Gender is not a significant moderator of the math anxiety–performance relationship](../claims/gender-not-moderator-ma-math-link.md) [+M] — learners who differ on it differ in outcomes
+- [Math anxiety correlates negatively with math performance at a pooled r = −.30 across 169 independent samples](../claims/math-anxiety-negative-correlation-math-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Math anxiety correlates weakly with working memory (r = −.18), and WM's mediating role between anxiety and math achievement is negligible](../claims/wm-weak-link-negligible-mediation.md) [~M] — learners who differ on it differ in outcomes
+- [Test anxiety correlates negatively with math achievement at a pooled r = −.23, weaker than math anxiety's correlation](../claims/test-anxiety-negative-correlation-math-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Test anxiety correlates weakly with working memory (r = −.18), with a much stronger correlation for spatial than verbal material](../claims/ta-wm-spatial-verbal-moderation.md) [~W] — learners who differ on it differ in outcomes
+- [Type of math task moderates the math anxiety–performance link: basic numerical knowledge shows the weakest correlation (r = −.22) and applied math among the strongest (r = −.31)](../claims/math-task-type-moderates-ma-link.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 104 claims (52 for, 51 mixed, 1 against) · 63 studies (22 associational, 19 causal, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 12 of 63 report an effect size · 101 claims rest on one study
+> **Evidence** · 105 claims (53 for, 51 mixed, 1 against) · 64 studies (22 associational, 20 causal, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 13 of 64 report an effect size · 102 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -167,6 +167,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Metacognitive monitoring declines under high working memory load, suggesting functional dependence of MC on WM](../claims/monitoring-declines-under-high-wm-load.md) [~W]
 - [Schweppe and Rummer's rejection of the multicomponent model as a basis for multimedia theories rests on a misinterpretation of the working memory–long-term memory relationship](../claims/s-r-misinterpret-multicomponent-model-structural-separation.md) [+W] — attached 2026-10-21 from Soemer (2015), which proposed "Baddeley's multicomponent model is a functional, not structural, working memory model compatible with activated long-term memory representations forming part of working memory".
 - [Short-term storage capacity increases from two units at ages 3-4 to four units at ages 10-11 when executive operations are minimal](../claims/short-term-storage-capacity-two-to-four-units.md) [+W]
+- [Haptic exploration of real objects improves long-term recall of those objects three weeks later, with vision-and-haptics outperforming only-vision](../claims/haptic-object-recall-advantage-followup.md) [+W] — attached 2026-10-22 from Magdalena Novak et al. (2021), which proposed "Cognitive-Affective Theory of Learning with Media (CATLM) as a framework for haptic learning".
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

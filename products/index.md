@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1829 entries** · 0 stable · 1829 in review · 0 drafts
+**1830 entries** · 0 stable · 1830 in review · 0 drafts
 
 ---
 
@@ -506,6 +506,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Elevate Math summer program](elevate-math-summer-program.md) - Elevate Math is a Silicon Valley Education Foundation summer mathematics support programme that combines a Common Core–aligned curriculum, blended instruction, Khan Academy practice, college-readiness activities, and professional development for its teachers and assistants.
 * [Ellevation Education student-level EL records database](ellevation-education-student-level-el-records-database.md) - A longitudinal database constructed with Ellevation Education containing individual English-learner proficiency, assessment, demographic, grade-level, and reclassification records from 2016–17 to 2023–24 across four states.
 * [ELLM/Plus curriculum](ellmplus-curriculum.md) - ELLM/Plus is a literacy-focused comprehensive curriculum for young children from low-income families, comprising theme-based instructional packets, children’s books, support materials, and home/school activities.
+* [ELS:2002 longitudinal database](els2002-longitudinal-database.md) - A nationally representative U.S.
 * [Embodied simulated-patient training application for ACT-oriented psychotherapy practice with spoken dialogue](embodied-simulated-patient-training-application-for-act-oriented-psychotherapy-practice-wi.md) - A Unity application developed by Pascal Riachi et al.
 * [Emergent writing assessment battery of conceptual, procedural, and generative subtests for preschoolers](emergent-writing-assessment-battery-of-conceptual-procedural-and-generative-subtests-for-p.md) - Puranik et al.'s individually administered assessment battery measures preschoolers' conceptual, procedural, and generative emergent-writing skills through structured writing and language tasks.
 * [Emerging Technology Adoption Framework](emerging-technology-adoption-framework.md) - A living edtech evaluation and procurement framework developed by Digital Promise and Educator CIRCLS, organizing stakeholder questions and criteria across initial evaluation, adoption, and post-adoption stages.

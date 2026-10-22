@@ -78,3 +78,4 @@ The same meta-analytic section reports "Negative associations were also found be
 - [Work-avoidance goals are particularly related to negative activity emotions](work-avoidance-goals-negative-activity-emotions.md) — related
 - [Implicit theories of ability predict achievement goals, with performance goals mediating or suppressing entity theory effects on math performance](implicit-theories-predict-achievement-goals-math.md) — a narrower finding that bears on this claim
 - [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](test-anxiety-goal-complex-mediation.md) — a narrower finding that bears on this claim
+- [Teachers' growth mindset is unrelated to performance-approach goals, performance-avoidance goals, teachers' test performance, and student achievement](teacher-growth-mindset-null-performance-student-achievement.md) — related

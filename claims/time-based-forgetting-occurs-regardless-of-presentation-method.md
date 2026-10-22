@@ -71,3 +71,4 @@ Cross-experiment synthesis in the General Discussion comparing mean items forgot
 - [Sequential presentation of memory items produces less time-based forgetting than simultaneous presentation (Experiment 1)](sequential-presentation-less-forgetting-than-simultaneous.md) — a narrower finding that bears on this claim
 - [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
 - [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
+- [The retention-interval main effect shows forgetting occurred over one week in both experiments](one-week-forgetting-main-effect-both-experiments.md) — a narrower finding that bears on this claim

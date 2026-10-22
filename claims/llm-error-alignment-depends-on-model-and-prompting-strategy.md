@@ -52,3 +52,4 @@ Two-stage structural alignment analysis comparing each LLM-generated error again
 - [INSIDE fine-tuning achieves the highest alignment between generated internal dialogue and ground-truth student code edits, up to 57.9%](inside-highest-reasoning-alignment-57-9.md) — related
 - [Fine-tuning with INSIDE internal dialogue achieves the lowest Wasserstein distances to real student code distributions on test_OP across all action-fidelity metrics](inside-lowest-wasserstein-action-fidelity-test-op.md) — related
 - [High self-consistency between a simulator's reasoning and its own generated code does not imply alignment with real student reasoning or behavior](self-consistency-does-not-imply-student-alignment.md) — related
+- [Behavioral similarity between LLMs and learners does not guarantee mechanistic similarity](llm-behavioral-similarity-not-mechanistic-similarity.md) — related

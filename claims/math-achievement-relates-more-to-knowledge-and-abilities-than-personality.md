@@ -92,3 +92,5 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [Teacher-assigned grades show moderate-to-strong correlations with external performance measures and predict long-term outcomes (review-reported)](grades-correlate-external-measures-review.md) — related
 - [Stable Dispositions such as conscientiousness predict academic success partly through effort, with some independence from cognitive ability](stable-dispositions-predict-academic-success-through-effort.md) — reports the opposite
 - [Metacognitive awareness is weakly correlated with intelligence and independently predicts performance (review-reported)](metacognitive-awareness-independently-predicts-performance.md) — related
+- [Math anxiety correlates negatively with math performance at a pooled r = −.30 across 169 independent samples](math-anxiety-negative-correlation-math-performance.md) — a narrower finding that bears on this claim
+- [Test anxiety correlates negatively with math achievement at a pooled r = −.23, weaker than math anxiety's correlation](test-anxiety-negative-correlation-math-achievement.md) — related

@@ -51,3 +51,4 @@ Wald test comparing regression models with and without an ADHD × sex interactio
 - [Clinical ADHD diagnosis in childhood is associated with increased odds of clinically significant adolescent depressive symptoms](clinical-adhd-diagnosis-increased-odds-adolescent-depression.md) — related
 - [Males were significantly more likely than females to report probable ADHD in the young adult sample (OR=1.56)](males-more-likely-probable-adhd.md)
 - [Gender is not related to self-concept in children with ADHD, though females report more internalizing problems](gender-not-related-self-concept-adhd-females-more-internalizing.md) — related
+- [Gender is not a significant moderator of the math anxiety–performance relationship](gender-not-moderator-ma-math-link.md) — related

@@ -70,3 +70,4 @@ Same multilevel comparison; "Teachers reported using students' Dutch grade as a 
 - [Self-assessments of diagram boxes are more accurate than comprehension judgments and strongly correlated with them in the diagramming paradigm](self-assessments-more-accurate-than-comprehension-judgments.md) — related
 - [Teachers judge more accurately with only diagnostic cues than with a mix of diagnostic and non-diagnostic cues](non-diagnostic-cues-hinder-teacher-judgment-accuracy.md) — related
 - [Prompted self-assessment decreases utilization of the low-diagnosticity commission-errors cue](self-assessment-decreases-commission-errors-cue-utilization.md) — related
+- [Accurately judging cue manifestations, not merely using diagnostic cues, improves teachers' monitoring accuracy; non-diagnostic student cues hamper it](accurate-cue-manifestation-judgment-improves-teacher-monitoring.md) — related

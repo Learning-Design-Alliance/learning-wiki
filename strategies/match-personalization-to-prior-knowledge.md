@@ -46,7 +46,8 @@ Based on the moderator results, the article recommends that personalization stra
 - [For learners with low prior knowledge, adaptable scaffolding shows the worst effects, while non-personalized scaffolding with adaptable task progression is descriptively most beneficial](../claims/low-prior-knowledge-personalization-patterns.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Match scaffolding type to learners' prior professional knowledge level](match-scaffolding-type-to-prior-knowledge-level.md)
 
 ## Examples
 -

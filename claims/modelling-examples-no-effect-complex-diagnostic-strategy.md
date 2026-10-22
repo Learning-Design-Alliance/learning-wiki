@@ -70,3 +70,4 @@ ANOVA on posttest-only measures (second diagnosis, intrinsic, germane, and extra
 - [Anticipatory self-explanation prompts benefited higher-prior-knowledge apprentices on diagnostic strategy description scores, whereas retrospective prompts benefited lower-prior-knowledge apprentices](prior-knowledge-moderates-prompt-direction-strategy-description.md) — related
 - [Restudy of an evidence summary alone produces no measurable skill improvement between simulator attempts](restudy-alone-no-skill-improvement.md) — related
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
+- [Problem-solving facilitates diagnostic competences independent of learners' professional knowledge base](problem-solving-facilitates-diagnostic-competences-regardless-knowledge-base.md) — related

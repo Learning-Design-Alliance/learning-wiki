@@ -80,3 +80,4 @@ An independent replication with three conditions (unguided problem solving, guid
 - [Productive failure students demonstrated greater representation flexibility in working with graphical representations than students in the other two conditions](pf-greater-representation-flexibility-graphical.md) — related
 - [Receiving instruction before problem solving improves procedural fluency more than problem solving before instruction when both phases are otherwise identical](instruction-first-better-procedural-fluency.md) — related
 - [Differences between the facilitated complex problem solving and lecture-practice conditions did not reach significance on post-test outcomes](fcps-lp-difference-not-significant.md) — related
+- [Problem-solving facilitates diagnostic competences independent of learners' professional knowledge base](problem-solving-facilitates-diagnostic-competences-regardless-knowledge-base.md) — related

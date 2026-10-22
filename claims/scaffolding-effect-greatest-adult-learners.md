@@ -52,3 +52,4 @@ Moderator analysis of education level (primary, middle, secondary, college, adul
 - [Teacher-supported learning scaffolds show the largest effect (ES = 0.92), and longer intervention durations yield larger effects](teacher-scaffolds-and-longer-duration-stronger-cps-effects.md) — related
 - [Pre–post scaffolding gains are highest among college- and graduate-level learners (ḡ = 1.16 and ḡ = 1.2), with secondary education an exception](scaffolding-gains-highest-college-graduate.md) — reports the opposite
 - [Scaffolding shows a particularly large pre–post effect among students with learning disabilities (ḡ = 3.13), though this estimate is tentative, and a large effect among ELL students (ḡ = 0.92)](scaffolding-learning-disabilities-large-effect.md) — related
+- [Scaffolding targeting analysis-level skills yields much larger effects (g = 0.537) than scaffolding targeting synthesis or evaluation](analysis-level-scaffolding-outperforms-synthesis-evaluation.md) — related

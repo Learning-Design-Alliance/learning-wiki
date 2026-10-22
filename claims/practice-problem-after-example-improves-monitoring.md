@@ -65,3 +65,4 @@ The review reports the Baars et al. (2017) secondary-education study on heredity
 - [Effortful generative learning activities during problem-solving example study provide cues that improve students' item-level self-monitoring accuracy](generative-activities-improve-problem-solving-monitoring.md) — related
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
 - [Micro productive failure (problem solving before instruction) improved sixth-graders' isomorphic algebraic procedural problem solving, with the advantage stable across one-day and one-week delays](micro-productive-failure-improves-isomorphic-procedural-problems.md) — related
+- [Generative activities improve students' monitoring accuracy but not their actual learning after restudy](generative-activities-improve-monitoring-not-restudy-learning.md) — related

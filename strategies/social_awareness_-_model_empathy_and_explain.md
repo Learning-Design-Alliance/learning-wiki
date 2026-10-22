@@ -61,9 +61,11 @@ Modeling works because learners acquire social-cognitive skills by observing a c
 7. **Debrief the process** — ask learners what cues they used and where their inferences might fail, building transferable metacognition ([Coaching](../elements/coaching.md)).
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — embodied rehearsal of the perspectives discussed
 - [Active Listening](active-listening.md) — the discussion protocol that operationalizes empathy during conversation
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — extends perspective analysis to systemic framing
+- [Model social imagination of fictional characters' perspectives using connection stems, character-focused questions, and letters to characters](model-social-imagination-connection-stems.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the primary rehearsal format

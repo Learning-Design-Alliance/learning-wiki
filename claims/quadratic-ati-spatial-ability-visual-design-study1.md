@@ -54,3 +54,4 @@ Multi-level model analysis of the experiment with N = 77 university students per
 - [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — a broader claim this one bears on
 - [U-shaped dynamics: partnership-vigilance and offloading-transformation relationships are convex, with benefits accelerating only beyond a threshold of engagement](u-shaped-thresholds-vigilance-offloading.md) — related
 - [Mental effort relates to self-rated certainty in a cubic (declining–flat–declining) rather than linear pattern](mental-effort-certainty-cubic.md) — related
+- [Non-linear (Goldilocks) effects of expectations and aspirations on outcomes are small and largely non-significant](goldilocks-effect-not-supported-expectations.md) — related

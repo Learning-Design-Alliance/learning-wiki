@@ -66,3 +66,4 @@ In the same study, the authors applied a range of machine learning methods; "boo
 - [An agentic AI instructor sustained and deepened student engagement across successive course modules in a field deployment](agentic-instructor-sustained-engagement-iisc.md) — related
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
 - [Warning-only LA feedback can increase mental load, whereas pairing warnings with encouragement leads to higher emotional and cognitive engagement](la-feedback-warnings-encouragement-cognitive-load.md) — related
+- [Machine-learning analysis of multimodal classroom indicators can predict student productivity, and prior knowledge becomes relevant later in the regulation process](kubsch-multimodal-prediction-prior-knowledge-timing.md) — possibly the same claim (merge candidate)

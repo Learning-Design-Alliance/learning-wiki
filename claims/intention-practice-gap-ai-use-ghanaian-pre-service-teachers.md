@@ -70,3 +70,4 @@ Authors' discussion of the intention-behaviour gap in the survey findings. They 
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related
 - [Students' stated beliefs about AI use diverge from their actual practice, including hidden or unrecognized policy-violating use](ai-belief-behavior-mismatch-writing.md) — a narrower finding that bears on this claim
 - [Inconsistent Action Takers and Feedback Appreciators showed an intention-action gap: high commitment to feedback but low actual action-taking](intention-action-gap-feedback-classes.md) — related
+- [Metacognitive knowledge and intentions to use effective strategies do not reliably translate into actual strategy use (intention-behavior gap)](intention-behavior-gap-strategy-use.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ The article cites psychological research and theory as the basis for the claim t
 - [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](worked-example-effect-element-interactivity-explanation.md) — related
 - [Inquiry-based learning strategies in laboratory courses are reported to significantly improve critical thinking skills](inquiry-based-lab-learning-improves-ct.md) — a narrower finding that bears on this claim
+- [Problem-solving facilitates diagnostic competences independent of learners' professional knowledge base](problem-solving-facilitates-diagnostic-competences-regardless-knowledge-base.md) — a narrower finding that bears on this claim

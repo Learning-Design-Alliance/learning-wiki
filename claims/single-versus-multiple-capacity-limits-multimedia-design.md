@@ -46,3 +46,4 @@ Theoretical argument: both CLT and CTML assume the visual and auditory modalitie
 - [Schweppe and Rummer's rejection of the multicomponent model as a basis for multimedia theories rests on a misinterpretation of the working memory–long-term memory relationship](s-r-misinterpret-multicomponent-model-structural-separation.md) — related
 - [Working memory includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information](working-memory-partially-independent-modality-subcomponents.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
+- [Standard unconstrained neural networks do not naturally separate working memory from long-term memory or impose human-like capacity limits](unconstrained-neural-networks-lack-memory-capacity-limits.md) — related

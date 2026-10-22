@@ -67,3 +67,4 @@ Bivariate correlations between kindergarten DIBELS and first-grade DRA instructi
 - [Nonsense Word Fluency adds no unique predictive information about first-grade reading when considered simultaneously with other DIBELS subtests](nwf-no-unique-predictive-contribution.md) — a narrower finding that bears on this claim
 - [Kindergarten DIBELS subtests significantly predict first-grade TerraNova vocabulary, language, and reading outcomes](dibels-predict-terranova-first-grade.md) — related
 - [DIBELS subtests share a significant multivariate relationship with TERA early reading dimensions (Early Literacy Competence variate)](dibels-tera-canonical-early-literacy-competence.md) — related
+- [Fewer learner characteristics predicted judgment bias than previous bivariate research suggests, because interdependencies reduce or mask effects when characteristics are considered simultaneously](simultaneous-predictors-fewer-relevant.md) — related

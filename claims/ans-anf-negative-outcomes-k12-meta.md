@@ -47,3 +47,4 @@ Random-effects multilevel meta-analysis of correlations from 90 reports on K-12 
 - [Autonomy need satisfaction and autonomy need frustration are each positively correlated with psychological well-being among K-12 youth](ans-anf-positive-well-being-k12-meta.md) — possibly the same claim (merge candidate)
 - [Consistent with the dual process model, autonomy-outcome correlations are stronger when the valence of need experience and outcome match](dual-process-matched-valence-stronger-k12.md) — related
 - [Study region significantly moderates the ANS-well-being correlation among K-12 youth, with the abstract reporting a stronger association in East Asian contexts](region-moderates-ans-wellbeing-k12.md) — related
+- [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](autonomy-universality-meta-analytic-support.md) — related

@@ -54,3 +54,4 @@ Interview data on the module progression; teachers described a "live progression
 - [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](scaffolded-task-progression-diagnostic-shift.md) — related
 - [Sequenced explicit instruction then guided independent learning: students benefit from explicit instruction early and guided independence as fluency develops](sequenced-explicit-then-independent-learning.md) — related
 - [Motivational apprenticeship progresses through three phases from expert-directed to learner-directed control](motivational-apprenticeship-three-phases.md) — related
+- [Fading of instructional support in collaborative argumentation has produced mixed results, with effectiveness depending on the fading criterion used](fading-collaborative-argumentation-mixed-results.md) — related

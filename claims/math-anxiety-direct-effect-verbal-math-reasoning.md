@@ -80,3 +80,4 @@ SEM model comparison for NO in the same sample; the direct math-anxiety path was
 - [The direct path from mathematics anxiety to word problem solving is non-significant once metacognition is modeled](ma-direct-path-wps-nonsignificant.md) — related
 - [Modeling mathematics anxiety as the mediator of metacognition's effect on word problem solving yields no mediating effect](ma-as-mediator-null.md) — related
 - [Math anxiety explained variance in posttest monitoring judgments beyond trait anxiety, supporting its distinctness from general anxiety](math-anxiety-distinct-from-trait-anxiety-in-monitoring.md) — related
+- [Math anxiety correlates weakly with working memory (r = −.18), and WM's mediating role between anxiety and math achievement is negligible](wm-weak-link-negligible-mediation.md) — reports the opposite

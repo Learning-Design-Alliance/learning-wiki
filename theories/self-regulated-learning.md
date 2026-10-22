@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 205 claims (95 for, 102 mixed, 8 against) · 155 studies (51 associational, 43 causal, 21 review, 15 quant-synthesis, 12 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 36 of 155 report an effect size · 189 claims rest on one study
+> **Evidence** · 210 claims (97 for, 105 mixed, 8 against) · 157 studies (51 associational, 43 causal, 23 review, 15 quant-synthesis, 12 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 36 of 157 report an effect size · 194 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -252,6 +252,11 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Negative performance feedback raises expected future mental effort and affects perceived effort and willingness to invest effort via challenge and threat (van Gog et al., 2024)](../claims/feedback-valence-affects-effort-via-challenge-threat.md) [+W] — attached 2026-10-21 from de Bruin et al. (2025), which proposed "The Effort Monitoring and Regulation (EMR) model integrates self-regulated learning and cognitive load theory".
 - [Process mining shows VM conditions exhibit unique reasoning–self-regulation sequences and self-loops absent in the control condition](../claims/process-mining-vm-sequences-selfloops.md) [~W]
 - [Cognitive learning strategy training yields preliminary evidence of far metacognitive transfer to effort regulation (Wirth et al., 2025)](../claims/far-metacognitive-transfer-effort-regulation.md) [+W]
+- [General pre-warnings mostly show null effects, but monitoring with susceptibility feedback reduces susceptibility](../claims/pre-warnings-null-effects-susceptibility-feedback-effective.md) [+W]
+- [EF explains substantial achievement variance (about 20–60% in school children) while SRL shows positive but low-effect-size relations to achievement](../claims/ef-achievement-variance-srl-low-effect.md) [~W]
+- [EF longitudinally predicts later SRL in children, supporting the notion that EF predicts SRL but not vice versa](../claims/ef-predicts-srl-longitudinally.md) [~W]
+- [Metacognition mediates the relationship between EF and SRL](../claims/metacognition-mediation-ef-srl.md) [+W]
+- [SRL and EF show primarily low to moderate correlations across age groups, with no detectable pattern depending on age](../claims/srl-ef-low-moderate-correlations-across-age.md) [~W]
 
 ## The evidence by question
 

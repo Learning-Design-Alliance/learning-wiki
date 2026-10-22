@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 60 claims (42 for, 17 mixed, 1 against) · 46 studies (13 review, 12 associational, 7 causal, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 13 of 46 report an effect size · 54 claims rest on one study
+> **Evidence** · 61 claims (43 for, 17 mixed, 1 against) · 47 studies (13 review, 12 associational, 7 causal, 6 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 13 of 47 report an effect size · 55 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -115,6 +115,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Introjected regulation is positively related to Korean students' achievement and self-regulated learning despite its association with academic stress](../claims/introjected-regulation-positive-korean-achievement.md) [~W]
 - [Consistent with the dual process model, autonomy-outcome correlations are stronger when the valence of need experience and outcome match](../claims/dual-process-matched-valence-stronger-k12.md) [+W] — attached 2026-10-21 from Amanda Vite et al. (2024), which proposed "Dual process model of basic psychological need satisfaction and frustration".
 - [Autonomy need satisfaction and autonomy need frustration are each negatively correlated with outcomes among K-12 youth (ill-being and well-being respectively)](../claims/ans-anf-negative-outcomes-k12-meta.md) [+W]
+- [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](../claims/autonomy-universality-meta-analytic-support.md) [+W]
 
 ## The evidence by question
 

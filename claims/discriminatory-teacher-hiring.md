@@ -75,3 +75,4 @@ Secondhand report of a meta-study of more than 24 hiring field experiments over 
 - [Teachers of color disproportionately teach in schools serving more than 75% students of color and more than 75% students from low-income families](teachers-of-color-concentrated-in-underresourced-schools.md) — related
 - [Few teachers receive regular mentoring, and early-career teachers of color report less access to mentoring and induction than White peers](limited-mentoring-access-early-career-teachers-of-color.md) — related
 - [Black TECTA participants were 30.8% less likely than white counterparts to obtain further credentials after their initial orientation](black-tecta-participants-less-likely-further-credentials.md) — related
+- [Spelling errors damage job applicants' prospects and recruiters' impressions of professional capabilities](spelling-errors-hiring-penalties.md) — related

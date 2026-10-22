@@ -97,6 +97,7 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
 - [Teachers adopting EAI should address digital literacy and ethical design challenges identified for each AI dimension](teacher-challenges-eai-inclusion-digital-literacy-ethics.md)
 - [Define institutional value from the bottom up, incorporating learning outcomes, community engagement, and career readiness beyond earnings thresholds](bottom-up-value-definition-beyond-earnings.md)
+- [Use consensus processes, editorial strategies, and institutional policies to make theory integration impactful](consensus-processes-editorial-institutional-support-integration.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Analysis of the 2024 calibration phase (50 texts, each scored 10 times by the AI
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
 - [AI grading of the exam is highly stable across five independent runs at the total-score level (ICC(A,1) = 0.967), with lower but still strong cell-level stability (ICC(A,1) = 0.836)](ai-grading-run-to-run-reliability-icc.md) — related
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — related
+- [Spellcheck and autocorrect are not foolproof: efficacy is bounded near 80% and the most common student writing error is now correctly spelled but inappropriate words](spellcheck-not-foolproof-wrong-word-errors.md) — related

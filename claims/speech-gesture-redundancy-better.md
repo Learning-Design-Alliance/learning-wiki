@@ -51,3 +51,4 @@ Review reports Buisine and Martin's (2007) comparison of two modes of speech-ges
 - [Most agent characteristics, including nonverbal communication, motion, and voice, did not moderate the instructional effectiveness of pedagogical agents](agent-characteristics-mostly-not-moderators.md) — reports the opposite
 - [APA presentations tend to overload the visual channel, especially with high element interactivity content](apa-visual-channel-overload.md) — related
 - [Observing gestures aids recall more when gestures provide complementary rather than redundant information (review attributes this to Austin et al., 2018)](nonredundant-observed-gestures-aid-recall.md) — reports the opposite
+- [Observing gestures embedded in instruction aids learning, especially when gestures convey a different strategy than speech](observing-gestures-in-instruction-aids-learning.md) — reports the opposite

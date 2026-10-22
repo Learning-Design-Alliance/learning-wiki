@@ -46,3 +46,4 @@ Reverse cross-lagged paths in the final panel model (N = 278) testing child-to-p
 - [Greater maternal emotional support during problem-solving predicts greater child cognitive flexibility one year later, in both the preschool-to-kindergarten and kindergarten-to-first-grade intervals](maternal-emotional-support-predicts-cognitive-flexibility-gains.md) — related
 - [Mothers' cognitive support during problem-solving did not predict children's later cognitive flexibility](maternal-cognitive-support-did-not-predict-flexibility.md) — related
 - [Non-Hispanic White children showed better cognitive flexibility and received more emotionally supportive caregiving than children from minority backgrounds](minority-status-disparities-in-flexibility-and-emotional-support.md) — related
+- [Parents' mental state talk during shared book reading predicts children's ToM, unidirectionally](parent-mental-state-talk-predicts-child-tom.md) — related

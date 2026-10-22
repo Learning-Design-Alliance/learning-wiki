@@ -46,3 +46,4 @@ Pooled random-effects correlation between adaptive ER strategies and overall bur
 - [ER difficulties are positively associated with each burnout dimension: cynicism, emotional exhaustion, and lack of efficacy](er-difficulties-burnout-dimensions.md) — related
 - [Emotion regulation difficulties are positively associated with overall academic burnout in youth (pooled r = 0.25)](er-difficulties-positive-overall-burnout.md) — related
 - [Publication-bias adjustments render the ER difficulties–lack of efficacy and adaptive ER–emotional exhaustion effects non-significant](publication-bias-weakens-some-er-burnout-effects.md) — related
+- [Student burnout is positively associated with dropout intentions, with a pooled meta-analytic correlation of r+ = .46](burnout-dropout-intentions-pooled-r46.md) — related

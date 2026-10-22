@@ -49,3 +49,4 @@ Robust variance random-effects meta-analysis pooling cynicism–achievement corr
 - [Reduced efficacy shows the largest negative correlation with academic achievement (rc+ = −.39)](reduced-efficacy-largest-negative-achievement.md)
 - [Total academic burnout is significantly negatively related to academic achievement (rc+ = −.24)](total-burnout-negative-achievement-meta-analysis.md) — related
 - [Teacher ill-being shows a small negative association with student motivation and achievement (r = –.13)](teacher-ill-being-negative-student-outcomes-r13.md) — related
+- [The burnout–dropout intentions association is moderated by burnout dimension, being highest for cynicism](burnout-dimension-moderates-dropout-intentions.md) — related

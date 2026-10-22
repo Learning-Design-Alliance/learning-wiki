@@ -44,3 +44,4 @@ Response-time analysis of the sentence-picture verification task at pretest. The
 
 ## Related Claims
 - [Match trials are more accurate and faster than mismatch trials in the dual-modality task, with no language group difference](congruence-effect-dual-modality-no-group-difference.md) — related
+- [Adding body metaphors to abstract stimuli improves mental rotation performance](body-metaphors-improve-mental-rotation.md) — related

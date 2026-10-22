@@ -189,3 +189,4 @@ A narrative review reports this meta-analysis of more than 90 PreK–12 articles
 - [The review argues that ignoring the social side of school carries costs including reified achievement gaps, diminished belonging and dropout, and unsafe school climates](costs-of-ignoring-social-side-of-school.md) — related
 - [Teacher well-being shows a small positive association with student motivation and achievement (r = .18) across 186 articles](teacher-well-being-positive-student-outcomes-r18.md) — related
 - [Teachers' (not students') perceptions of the TSR correlate most strongly with student academic achievement](teacher-perceptions-correlate-achievement.md) — related
+- [Meta-analytic longitudinal evidence shows achievement affects later motivation about twice as strongly as motivation affects later achievement, with both pooled effects small](scharmer-pooled-achievement-motivation-effects-twice.md) — related

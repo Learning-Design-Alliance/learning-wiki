@@ -319,3 +319,5 @@ Open questions that evidence entries should address include: which strategy fami
 - [Advanced learners may benefit from learner-controlled selection of learning tasks and levels of generality](learner-control-advanced-learners-flexibility.md) — a narrower finding that bears on this claim
 - [The largest reported effects came from interventions training reflection on own learning and teaching through metacognitive judgements (Michalsky 2021: d = 3.12; Pieschl et al. 2021: d = 2.9)](metacognitive-judgement-reflection-interventions-largest-effects.md) — a narrower finding that bears on this claim
 - [Motivational apprenticeship progresses through three phases from expert-directed to learner-directed control](motivational-apprenticeship-three-phases.md) — related
+- [Scaffolding effectiveness depends on knowledge base: high-guidance scaffolding suits less advanced learners, high-self-regulation scaffolding suits advanced learners](scaffolding-guidance-self-regulation-moderated-by-knowledge-base.md) — related
+- [Interventions targeting SRL or EF show little evidence of far transfer to the other construct](srl-ef-interventions-no-far-transfer.md) — related

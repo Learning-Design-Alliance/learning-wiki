@@ -124,3 +124,4 @@ A review of experiments comparing human tutoring, several classes of computer tu
 - [Pedagogical experts tutoring in biology generated less deep learning than less pedagogically expert, more interactive tutors](pedagogical-experts-less-deep-learning-tutoring.md) — related
 - [Tutoring is highly effective, and hiring older peers as tutors supports learning gains for both older and younger students](tutoring-and-cross-age-peer-tutors-effective.md) — related
 - [Contingency is not treated as a necessary condition of scaffolding in bilingual education research, unlike broader educational research](contingency-not-necessary-condition-bilingual-education-scaffolding.md) — related
+- [Expert modeling, feedback, hints, and multiple strategies improve cognitive outcomes, but question prompts show no evident difference from control](scaffolding-strategy-moderator-question-prompts-null.md) — related

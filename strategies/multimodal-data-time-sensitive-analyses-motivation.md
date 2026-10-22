@@ -50,6 +50,7 @@ The review recommends that future research and learning-technology design exploi
 - [Study effort regulation in real-world, personally relevant contexts over longer timeframes, including via ecological momentary assessment](study-effort-regulation-real-world-contexts.md)
 - [Use automated mind-wandering detection in attention-aware learning technologies to trigger real-time interventions that promote SRL strategies](attention-aware-mw-detection-srl-interventions.md)
 - [Future team-learning change research should use mixed methods with more than three measurement points in short intervals](mixed-methods-many-measurement-points-team-learning.md)
+- [Supplement self-report questionnaires with process-oriented and online measures of motivation during learning](alternatives-to-self-reports-motivation-measurement.md)
 
 ## Examples
 -

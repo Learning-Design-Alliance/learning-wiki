@@ -76,3 +76,6 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — possibly the same claim (merge candidate)
 - [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](gamification-mathematics-robustness-publication-bias.md) — related
 - [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](publication-bias-overall-dt.md) — related
+- [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](cross-age-tutoring-publication-bias-mixed.md) — related
+- [The pooled burnout–dropout intentions effect appears robust to outliers and minimally influenced by publication bias](meta-analysis-robustness-burnout-dropout.md) — related
+- [No evidence of dissemination bias was detected in the meta-analysis](teacher-growth-mindset-no-dissemination-bias.md) — related

@@ -60,3 +60,4 @@ The introduction reports, citing Pijeira-Díaz et al. (this issue), a three-cond
 - [Generative and visualizing tasks improve metacomprehension and monitoring accuracy but show small or null effects on learning outcomes](generative-tasks-monitoring-accuracy-not-outcomes.md) — a broader claim this one bears on
 - [Teachers' self-reported cue utilization attributes are not significantly correlated with their monitoring accuracy (Experiment 2).](teacher-self-reported-cue-use-not-linked-to-accuracy.md) — related
 - [Little or no relation between absolute and relative accuracy in metacomprehension research](little-relation-absolute-relative-accuracy.md) — related
+- [Delayed diagram completion improves students' relative monitoring accuracy of text comprehension compared with no diagramming](delayed-diagram-completion-improves-relative-monitoring-accuracy.md) — related

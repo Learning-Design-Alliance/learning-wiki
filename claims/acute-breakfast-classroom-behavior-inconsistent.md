@@ -48,3 +48,4 @@ The review's synthesis of seven within-subjects acute experimental studies of br
 - [A mid-morning snack benefits on-task behavior only for children who consumed a small breakfast, correcting the energy deficiency](mid-morning-snack-small-breakfast-only.md) — related
 - [Robust RCTs of school breakfast programs failed to find behavioral benefits, with low and variable attendance and a shift from at-home to at-school consumption limiting impact](sbp-rcts-null-behavior-attendance-limits.md) — reports the opposite
 - [Quality of habitual breakfast, in terms of variety of food groups and adequate energy, is positively related to school performance](breakfast-quality-school-performance.md) — related
+- [Evidence for a direct socialization effect of classic stories on children's moral behavior is weak and inconsistent](classic-stories-weak-inconsistent-moral-behavior-effects.md) — related

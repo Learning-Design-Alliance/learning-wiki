@@ -51,3 +51,4 @@ Explorative study of 46 secondary teachers judging 406 students; the article rep
 - [Teachers' judgments of students' text comprehension are significantly more accurate when diagnostic performance cues are available than when only non-diagnostic student cues are available](diagnostic-cues-improve-teacher-judgment-accuracy.md) — related
 - [Students tend to rely on non-diagnostic cues when judging their own performance, resulting in inaccurate judgments](students-rely-on-nondiagnostic-cues-inaccurate-monitoring.md) — related
 - [Teachers often rely on informal impressions rather than systematic, theory-grounded diagnostic procedures when judging students' SRL](teachers-rely-on-informal-diagnostic-judgments-srl.md) — related
+- [Accurately judging cue manifestations, not merely using diagnostic cues, improves teachers' monitoring accuracy; non-diagnostic student cues hamper it](accurate-cue-manifestation-judgment-improves-teacher-monitoring.md) — related

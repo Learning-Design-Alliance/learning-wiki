@@ -47,3 +47,4 @@ Pooled random-effects correlations between ER difficulties and the three burnout
 - [Publication-bias adjustments render the ER difficulties–lack of efficacy and adaptive ER–emotional exhaustion effects non-significant](publication-bias-weakens-some-er-burnout-effects.md) — related
 - [Emotion regulation difficulties are positively associated with overall academic burnout in youth (pooled r = 0.25)](er-difficulties-positive-overall-burnout.md) — related
 - [Perceived student misbehavior is consistently identified as a key source of teacher stress and is positively associated with emotional exhaustion](student-misbehavior-teacher-stress-emotional-exhaustion.md) — related
+- [Student burnout is positively associated with dropout intentions, with a pooled meta-analytic correlation of r+ = .46](burnout-dropout-intentions-pooled-r46.md) — related

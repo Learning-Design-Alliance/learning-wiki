@@ -38,7 +38,7 @@ grain_size: course, unit
 # Cognitive Apprenticeship
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 26 claims (11 for, 12 mixed, 3 against) · 25 studies (9 causal, 4 quant-synthesis, 4 review, 4 qualitative, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 2 of 25 report an effect size · 22 claims rest on one study
+> **Evidence** · 28 claims (12 for, 13 mixed, 3 against) · 26 studies (9 causal, 5 quant-synthesis, 4 review, 4 qualitative, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 3 of 26 report an effect size · 24 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,8 @@ This pattern is general across domains; a clinical round, a writing workshop or 
 - [Experts introduce procedure and planning explanations over time, typically after an initial step or action is completed](../claims/planning-explanations-later-in-turn.md) [+W]
 - [Experts scaffold by reassuring novices to continue acting or thinking, removing uncertainty about whether they chose the right action](../claims/reassurance-cues-sustain-novice-continuation.md) [~W]
 - [Active verbal cues from experts most often prompt nonverbal action from novices, often preceding explanatory information](../claims/verbal-cues-prompt-nonverbal-action.md) [~W]
+- [Customized scaffolding (fading/adding) outperforms non-customized scaffolding in PBL-STEM, with fading/adding highest at g = 0.590](../claims/scaffolding-customization-fading-adding-highest.md) [~W]
+- [Expert modeling, feedback, hints, and multiple strategies improve cognitive outcomes, but question prompts show no evident difference from control](../claims/scaffolding-strategy-moderator-question-prompts-null.md) [+W]
 
 ## Related Patterns
 - [Four-Component Instructional Design](4cid-four-component-instructional-design.md) — shares the principle of worked examples fading to full tasks; provides more formal scaffolding design rules for complex learning

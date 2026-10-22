@@ -50,3 +50,4 @@ The review attributes this conclusion to Salden, Paas, van der Pal and van Merri
 - [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](llm-scaffolding-over-reliance-paradox.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Shared control combined with high task variability improved transfer, while system control was better under low variability](shared-control-variability-transfer-interaction.md)
+- [Self-selected scaffolding customization yields higher effects than fixed time interval and performance-adapted customization](self-selected-customization-highest-effect.md) — related

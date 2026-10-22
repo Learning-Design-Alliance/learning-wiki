@@ -49,3 +49,4 @@ Fully interacted models in Tables 5 and 6 show similar male and female coefficie
 - [Science club participation is positively associated with high school science GPA, significant across all three propensity score matching methods](science-club-participation-higher-science-gpa.md) — related
 - [Science club participation shows no statistically significant relationship with selecting a STEM college major](science-club-no-stem-major-association.md) — related
 - [STEM club participants differ descriptively from non-participants in GPA, course-taking, test scores, and college desire](stem-club-participants-descriptive-differences.md) — related
+- [Gender is not a significant moderator of the math anxiety–performance relationship](gender-not-moderator-ma-math-link.md) — related

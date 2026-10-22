@@ -47,3 +47,4 @@ Randomized experiment with 84 native Chinese-speaking adults studying a 12-page 
 - [Pointing and tracing gestures improved retention and comprehension over no gesturing (review attributes this to Macken & Ginns, 2014)](pointing-tracing-gestures-improve-retention-comprehension.md) — related
 - [In a three-group eye-tracking experiment, the pointing group significantly outperformed both the tracing group and the no-touch group on comprehension performance](pointing-outperforms-tracing-and-no-touch-comprehension.md) — related
 - [Terminology test advantage of tracing and pointing is not robust to adjustment for prior knowledge](tracing-pointing-terminology-not-robust-ancova.md) — related
+- [Gesturing during learning improves retention and reduces cognitive load](gesturing-during-learning-retention-load.md) — related

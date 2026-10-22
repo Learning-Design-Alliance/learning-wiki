@@ -66,3 +66,4 @@ The authors' own review of scaffolding frameworks: an examination of 14 publishe
 - Most theorized individual difference constructs have been examined in sourcing research, but several motivation and personality constructs remain unstudied — related
 - [Mainstream motivation theories have extended toward identity and culture but keep explanatory constructs within individuals](mainstream-motivation-theories-individual-constructs.md) — related
 - Integrated multimodal SRL studies are increasing, but motivational and affective processes remain underrepresented and temporal alignment of data streams is rarely done — related
+- [Multimodal SRL research shows a historical shift from unimodal toward integrated analytical designs, but motivational and affective dimensions remain underrepresented](srl-multimodal-shift-integrated-designs-motivation-affect-gap.md) — related

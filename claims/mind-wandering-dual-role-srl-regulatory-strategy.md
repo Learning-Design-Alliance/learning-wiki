@@ -53,3 +53,4 @@ The commentary summarizes Bühler et al.'s (2025) systematic review of 134 studi
 - [High school students capitalize on the creative potential of mind wandering at the highest levels of attentional capacity and metacognition](high-school-students-mind-wandering-attentional-capacity-metacognition.md) — related
 - Integrated multimodal SRL studies are increasing, but motivational and affective processes remain underrepresented and temporal alignment of data streams is rarely done — related
 - [Metacognition assessment is shifting from self-report questionnaires toward process-oriented multimodal methods, which face validity and data-alignment challenges](process-oriented-metacognition-assessment-shift.md) — related
+- [Mind wandering can function as a resource for regulation when learners have metacognitive awareness of attentional shifts](mind-wandering-resource-for-regulation.md) — possibly the same claim (merge candidate)

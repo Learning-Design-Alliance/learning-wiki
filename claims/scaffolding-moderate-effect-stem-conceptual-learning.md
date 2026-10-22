@@ -47,3 +47,4 @@ The article cites the Belland et al. (2017) meta-analysis, which "found a modera
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
 - [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](computer-based-scaffolding-positive-cognitive-outcomes-stem.md) — a broader claim this one bears on
 - [Computer-based scaffolding produces consistently strong within-subject (pre–post) cognitive gains in STEM education across student populations, disciplines, and assessment levels](scaffolding-strong-prepost-gains-stem.md) — related
+- [Customized scaffolding (fading/adding) outperforms non-customized scaffolding in PBL-STEM, with fading/adding highest at g = 0.590](scaffolding-customization-fading-adding-highest.md) — a narrower finding that bears on this claim

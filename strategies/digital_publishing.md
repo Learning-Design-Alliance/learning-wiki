@@ -57,8 +57,10 @@ Publishing for real readers changes both motivation and revision behavior: when 
 5. Revise again based on reception, then reflect on how audience shaped the text ([Enhance Retention and Transfer](../elements/enhance-retention-and-transfer.md))
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — structures the audience response so it targets the work, not the writer
 - [Acting-Role-Play](acting-role-play.md) — a related way of making audience and purpose authentic through embodied performance
+- [Solicit and formally review unsolicited scholarly responses when publishing a controversial position](solicit-reviewed-responses-to-controversial-positions.md)
 
 ## Examples
 - **[Storybird](https://storybird.com)** — students create and publish illustrated digital books for a community of readers.

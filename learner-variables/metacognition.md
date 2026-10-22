@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (76 show a difference, 23 mixed, 14 no difference) · 83 studies (31 causal, 15 associational, 11 review, 10 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 26 of 83 report an effect size · 112 claims rest on one study
+> **Evidence** · 118 claims (79 show a difference, 25 mixed, 14 no difference) · 86 studies (31 causal, 16 associational, 12 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 26 of 86 report an effect size · 117 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -155,6 +155,11 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Effortful generative learning activities during problem-solving example study provide cues that improve students' item-level self-monitoring accuracy](../claims/generative-activities-improve-problem-solving-monitoring.md) [+M] — instruction changes it
 - [Self-explaining does not improve retrospective monitoring accuracy, while problem complexity reduces it](../claims/self-explanation-null-complexity-hurts-monitoring.md) [-M] — instruction changes it
 - [Metacognitive awareness is weakly correlated with intelligence and independently predicts performance (review-reported)](../claims/metacognitive-awareness-independently-predicts-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Delayed diagram completion improves students' relative monitoring accuracy of text comprehension compared with no diagramming](../claims/delayed-diagram-completion-improves-relative-monitoring-accuracy.md) [+M] — instruction changes it
+- [For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies were associated with stronger overestimation, with openness associated only for predictions](../claims/inference-bias-predictors.md) [+M] — learners who differ on it differ in outcomes
+- [Generative activities improve students' monitoring accuracy but not their actual learning after restudy](../claims/generative-activities-improve-monitoring-not-restudy-learning.md) [+M] — instruction changes it
+- [Giving teachers access to students' diagrams improves teachers' regulation accuracy but not their monitoring accuracy](../claims/teacher-diagram-access-improves-regulation-not-monitoring.md) [~M] — instruction changes it
+- [Mind wandering can function as a resource for regulation when learners have metacognitive awareness of attentional shifts](../claims/mind-wandering-resource-for-regulation.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

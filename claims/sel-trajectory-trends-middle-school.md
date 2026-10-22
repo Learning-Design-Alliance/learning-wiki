@@ -50,3 +50,4 @@ Descriptive/latent-growth results for the district cohort shown in Figure 1, bas
 - [Self-management and self-efficacy show highly collinear growth during middle school, with slopes correlated .95 and intercepts .74](sel-growth-construct-collinearity.md) — related
 - [Teacher emotional support buffers the negative association between low math self-efficacy and low engagement](teacher-emotional-support-buffers-low-efficacy-engagement.md) — related
 - [Engagement peaked at the middle of the Mindsets program and declined slightly by post-test, showing a significant negative quadratic trend](mindsets-engagement-peaks-midpoint.md) — related
+- [Teachers' growth mindset is positively associated with their self-efficacy (r = .180)](teacher-growth-mindset-self-efficacy-association.md) — related

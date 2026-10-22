@@ -13,7 +13,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 35 claims (26 show a difference, 5 mixed, 4 no difference) · 19 studies (8 causal, 6 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 19 report an effect size · 34 claims rest on one study
+> **Evidence** · 38 claims (27 show a difference, 7 mixed, 4 no difference) · 20 studies (8 causal, 6 associational, 2 quant-synthesis, 2 design, 1 review, 1 qualitative), `q1`–`q4` · 5 of 20 report an effect size · 37 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -72,6 +72,9 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [MLS-WEPs intervention predicted higher Unit 1 calculation and explanation scores among English learners when controlling for prior knowledge](../claims/mls-weps-improved-unit1-calculation-explanation.md) [+M] — instruction changes it
 - [MLS-WEPs intervention predicted higher Unit 2 (functions) calculation and explanation scores when controlling for prior knowledge](../claims/mls-weps-improved-unit2-calculation-explanation.md) [+M] — instruction changes it
 - [The Text + Arithmetic format specifically improved procedural knowledge (executing action sequences to solve problems)](../claims/text-arithmetic-improved-procedural-knowledge.md) [+M] — instruction changes it
+- [Fine motor skills training improves children's arithmetic skills in some trials but not others](../claims/fine-motor-training-arithmetic-mixed.md) [~W] — instruction changes it
+- [Suppressing or restricting hand movements disrupts children's arithmetic performance, suggesting gestures play a functional role in calculation](../claims/hand-movement-interference-disrupts-calculation.md) [+W] — instruction changes it
+- [Training children to explicitly use finger strategies improves calculation performance in most studies, though results are not uniform](../claims/finger-strategy-training-improves-calculation.md) [~W] — instruction changes it
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

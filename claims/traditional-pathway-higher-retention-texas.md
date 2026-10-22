@@ -53,3 +53,4 @@ Analysis of Texas Education Agency retention data by preparation pathway (Figure
 - [Alternative certification enrollment growth in Texas did not increase teacher supply because completion rates were low](alternative-certification-low-completion-supply.md) — related
 - [Little is known about teachers certified through alternative certification programs and their experiences after certification](limited-knowledge-alt-cert-teachers-experiences.md) — related
 - [Teacher residency completers are more effective and more likely to stay in teaching than teachers entering through other pathways or without preparation](residency-completers-more-effective-and-retained.md) — related
+- [Offering certification after program completion is associated with larger teacher knowledge gains (g = 1.39 vs. 0.86)](certification-associated-larger-knowledge-gains.md) — related

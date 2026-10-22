@@ -69,3 +69,4 @@ The review reports mixed cognitive-load findings: "hypotheses concerning cogniti
 - [Pointing and tracing gestures improved retention and comprehension over no gesturing (review attributes this to Macken & Ginns, 2014)](pointing-tracing-gestures-improve-retention-comprehension.md) — a narrower finding that bears on this claim
 - [Tracing and pointing during a paper-based multimedia lesson improves comprehension test performance in Chinese-speaking adults](tracing-pointing-improve-comprehension-chinese-sample.md) — a narrower finding that bears on this claim
 - [Tracing and pointing lowers extraneous cognitive load under a floor-effect-adjusted test, but not in the unadjusted comparison](tracing-pointing-lower-extraneous-load-floor-effect.md) — related
+- [Gesturing during learning improves retention and reduces cognitive load](gesturing-during-learning-retention-load.md) — a narrower finding that bears on this claim

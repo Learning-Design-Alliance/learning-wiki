@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (22 for, 21 mixed) · 48 studies (12 causal, 12 quant-synthesis, 7 review, 5 associational, 5 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 13 of 48 report an effect size · 35 claims rest on one study
+> **Evidence** · 44 claims (22 for, 22 mixed) · 49 studies (13 quant-synthesis, 12 causal, 7 review, 5 associational, 5 qualitative, 4 design, 3 theoretical), `q1`–`q4` · 13 of 49 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -183,6 +183,10 @@ For example, a nursing student may want to be able to explain a medication chang
 The expectation should weaken if comparisons of peer explanation with an equal-time individual alternative (self-explaining, retrieval practice, a worked example) find no advantage for the peer arrangement; then the page should recommend explaining, with or without a partner, rather than peer learning as such. If a study measuring both partners finds the learner who only listens and agrees gains as much as the one who explains, the role swap (step 4) is a fairness rule rather than a learning one. If the explainer's gain disappears when the partner asks no questions, the interactive element is the active ingredient and the role card should centre on questioning. If studies of untrained, unscripted peer pairs show gains as large as structured programmes, the training and script steps are a preference, not a condition. If delayed tests show the peer-tutoring gains fade, the model should say "immediate" throughout. If further randomised tests of peer assessment keep finding effects near d = .1, the peer-assessment step should be framed as practice in judging quality rather than as an achievement intervention; if adding AI feedback to peer review keeps outperforming peer review alone, the AI-feedback row should move into the default design for writing. Do not protect the model by calling every failure "too little structure" after the fact.
 
 Pair performance, each learner's immediate unaided performance, delayed retention, transfer and the learner's own valued use are separate claims. The present evidence establishes no session length, no number of rounds and no rule for when to swap roles.
+
+## Claims
+
+- [Cross-age tutoring effects on tutees do not significantly differ by number of sessions, tutor type, tutee risk type, or subject area](../claims/cross-age-tutoring-tutee-moderators-null.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — one of the clearest vehicles for peer learning

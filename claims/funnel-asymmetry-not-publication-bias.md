@@ -65,3 +65,4 @@ Trim-and-fill analyses (Duval & Tweedie, 2004) were conducted for openness, extr
 - [Children's agreeableness, conscientiousness, extraversion, and openness are positively associated with positive parent–child relationships and negatively associated with negative parent–child relationships](child-positive-personality-traits-parent-child-relationship-quality.md) — related
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
 - [Funnel-plot asymmetry indicates small-study effects for some emotion–learning models](funnel-plot-asymmetry-emotion-learning-models.md) — related
+- [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](cross-age-tutoring-publication-bias-mixed.md) — related

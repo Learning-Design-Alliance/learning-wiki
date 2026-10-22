@@ -48,3 +48,4 @@ The article's overview table of hypotheses and findings reports, for the explora
 ## Related Claims
 - [Monitoring accuracy predicts comprehension-based regulation accuracy, and cue availability also has an indirect effect on regulation accuracy via monitoring accuracy](monitoring-accuracy-predicts-regulation-accuracy-indirect-effect.md) — related
 - [Teachers' monitoring accuracy does not differ significantly between the name-only condition and either diagram condition](teacher-monitoring-accuracy-null-differences-name-only-vs-diagram-conditions.md) — related
+- [Giving teachers access to students' diagrams improves teachers' regulation accuracy but not their monitoring accuracy](teacher-diagram-access-improves-regulation-not-monitoring.md) — related

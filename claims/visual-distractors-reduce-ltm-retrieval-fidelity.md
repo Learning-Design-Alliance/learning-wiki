@@ -53,3 +53,4 @@ Behavioral study in which younger adults studied object images, then after a 1-h
 - [Perturbing left VLPFC with rTMS exacerbates the disruptive effect of visual distraction on episodic retrieval, indicating a causal role in resolving interference](rtms-vlpfc-exacerbates-distraction-effect.md) — related
 - [Distraction during maintenance impairs working memory, with distractor processing inversely related to recognition accuracy](distraction-during-maintenance-impairs-wm.md) — related
 - [Irrelevant changing-state sounds impair children's serial recall of visually presented items, with developmental evidence pointing to two mechanisms](irrelevant-sound-effect-children-serial-recall.md) — related
+- [Eye movements during retrieval reenact encoding eye movements and predict memory accuracy](eye-movement-reenactment-retrieval.md) — related

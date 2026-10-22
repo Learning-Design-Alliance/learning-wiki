@@ -45,3 +45,4 @@ Meta-regression moderator analyses across 1084 effect sizes. The article also re
 ## Related Claims
 - [Progressively larger treatment estimates among intervention students crossing engagement thresholds are hypothesis-generating only](medly-engagement-threshold-estimates-hypothesis-generating.md) — related
 - [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related
+- [Intervention studies report larger skill effects than cross-sectional studies, but study design does not moderate knowledge, beliefs, or student-behavior effects](study-design-moderates-only-skills.md) — related

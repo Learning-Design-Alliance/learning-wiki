@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (57 show a difference, 14 mixed, 4 no difference) · 39 studies (16 associational, 9 review, 7 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 39 report an effect size · 72 claims rest on one study
+> **Evidence** · 77 claims (59 show a difference, 14 mixed, 4 no difference) · 40 studies (17 associational, 9 review, 7 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 40 report an effect size · 74 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -110,6 +110,8 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Class-average achievement shows a small negative indirect effect on subsequent mathematics achievement mediated through mathematics self-concept](../claims/bflpe-negative-mediation-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [The Big-Fish-Little-Pond effect on mathematics self-concept is negative and statistically significant in all three countries under a fully specified doubly latent model](../claims/bflpe-negative-significant-all-countries.md) [+M] — instruction changes it
 - [When compositional effects are constrained equal across countries, the overall peer spillover effect is negative and non-significant while the BFLPE remains negative and significant](../claims/restricted-model-null-spillover-significant-bflpe.md) [~W] — instruction changes it
+- [The parental aspiration-expectation gap negatively predicts student expectations, academic self-concept, GPA, and age-26 outcomes](../claims/aspiration-expectation-gap-negative-effects.md) [+W] — instruction changes it
+- [Year 10 teacher and parent educational expectations have consistently positive effects on student expectations, academic self-concept, GPA, and age-26 outcomes](../claims/teacher-parent-expectations-positive-effects.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 
