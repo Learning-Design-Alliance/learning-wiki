@@ -144,7 +144,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [The mental integration task showed no general advantage of the dynamic over the static visual design in overall accuracy](../claims/no-general-dynamic-advantage-mental-integration.md) [~W]
 - [A tracing strategy combining segmentation and prediction produced more efficient learning than a non-interactive instructional condition](../claims/tracing-strategy-segmentation-prediction-efficiency.md) [~W]
 - [Textual slide content yields a small comprehension advantage over pictorial slide content in speeded audio-visual lectures, with no effect of speed](../claims/textual-beats-pictorial-slides-speeded-lectures.md) [~W]
-- [Animations are superior to static graphics for learning tasks involving human motor movement](../claims/human-movement-effect-animations-motor-tasks.md) [~W]
+- [Animations can be superior to static graphics for learning tasks involving human motor movement](../claims/human-movement-effect-animations-motor-tasks.md) [~W]
 - [Test type determines realism benefits: realistic detail aids retention as retrieval cues, schematic visuals aid transfer](../claims/test-type-moderates-realism-benefits.md) [~W]
 
 ## Examples

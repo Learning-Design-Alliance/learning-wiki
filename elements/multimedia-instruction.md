@@ -62,7 +62,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [The mental integration task showed no general advantage of the dynamic over the static visual design in overall accuracy](../claims/no-general-dynamic-advantage-mental-integration.md) [~W]
 - [Dynamic visualizations show a small average benefit over static visualizations, with gender among the moderators](../claims/dynamic-vs-static-visualization-meta-analysis-small-benefit.md) [~W]
 - [Textual slide content yields a small comprehension advantage over pictorial slide content in speeded audio-visual lectures, with no effect of speed](../claims/textual-beats-pictorial-slides-speeded-lectures.md) [~W]
-- [Animations are superior to static graphics for learning tasks involving human motor movement](../claims/human-movement-effect-animations-motor-tasks.md) [~W]
+- [Animations can be superior to static graphics for learning tasks involving human motor movement](../claims/human-movement-effect-animations-motor-tasks.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

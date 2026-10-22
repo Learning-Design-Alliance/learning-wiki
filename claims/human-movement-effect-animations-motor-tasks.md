@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Animations are superior to static graphics for learning tasks involving human motor movement
-description: Animations are superior to static graphics for learning tasks involving human motor movement
+title: Animations can be superior to static graphics for learning tasks involving human motor movement
+description: Animations can be superior to static graphics for learning tasks involving human motor movement
 id: human-movement-effect-animations-motor-tasks
 status: review
 generated:
@@ -13,19 +13,19 @@ sources:
     resource: "https://doi.org/10.1007/s10648-011-9179-2"
     title: "Fred Paas & John Sweller. (2011). An Evolutionary Upgrade of Cognitive Load Theory: Using the Human Motor System and Collaboration to Support the Learning of Complex Cognitive Tasks. Educ Psychol Rev (2012) 24:27–45. https://doi.org/10.1007/s10648-011-9179-2"
     author: "Fred Paas & John Sweller"
-    q: 3
+    q: 2
     i: "?"
     kind: theoretical
     rigour: 3
 ---
 
-# Animations are superior to static graphics for learning tasks involving human motor movement
+# Animations can be superior to static graphics for learning tasks involving human motor movement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · theoretical `r3` · `q3`
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
-`q3 i?` When learning tasks involve human motor skill, dynamic animations outperform equivalent static representations, despite the transient information they contain. [→ Fred Paas & John Sweller 2011](#fred-paas-john-sweller-2011)
+`q2 i?` A theoretical review reports two studies of human motor skills (origami; knot-tying and puzzle rings) in which observing a dynamic animation and imitating it led to better performance than a static representation, and concludes that animations showing human movement can be superior to static graphics despite their transient information. [→ Fred Paas & John Sweller 2011](#fred-paas-john-sweller-2011)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Fred Paas & John Sweller. (2011). An Evolutionary Upgrade of Cognitive Load Theory: Using the Human Motor System and Collaboration to Support the Learning of Complex Cognitive Tasks. Educ Psychol Rev (2012) 24:27–45. https://doi.org/10.1007/s10648-011-9179-2
 
-`q3 · i?` · `theoretical · r3`
+`q2 · theoretical review` · `i?` · `theoretical · r3`
 
-Two cognitive load studies: primary school students learning origami skills (Wong et al. 2009) and university students learning to tie knots and complete puzzle rings (Ayres et al. 2009). Both found superior performance for observing dynamic rather than static representations with manual task completion.
+A theoretical review in cognitive load theory, which reports two studies by other authors rather than new data: primary school students learning origami skills (Wong et al. 2009) and university students learning to tie knots and complete puzzle rings (Ayres et al. 2009). Both found superior performance for observing dynamic rather than static representations with manual task completion. The authors generalise only to tasks involving human movement, saying animations "can be superior" there, and leave non-motor tasks to future research.
 
 > "Both studies found superior performance when learners observed a dynamic representation rather than a static representation and when they manually had to complete the tasks (observe and imitate)."
 

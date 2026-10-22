@@ -95149,12 +95149,12 @@
 "type":"claim"
 },
 {
-"description":"Animations are superior to static graphics for learning tasks involving human motor movement",
+"description":"Animations can be superior to static graphics for learning tasks involving human motor movement",
 "evidence_strength":"moderate",
 "id":"human-movement-effect-animations-motor-tasks",
 "path":"claims/human-movement-effect-animations-motor-tasks.md",
 "status":"review",
-"title":"Animations are superior to static graphics for learning tasks involving human motor movement",
+"title":"Animations can be superior to static graphics for learning tasks involving human motor movement",
 "type":"claim"
 },
 {
@@ -116150,12 +116150,12 @@
 "type":"claim"
 },
 {
-"description":"Teachers' load-reducing strategies and motivating styles correlate with lower cognitive load and higher motivation, engagement, and achievement (Evans et al., 2024)",
+"description":"Teachers' load-reducing strategies correlate with lower cognitive load and higher motivation, engagement, and achievement, and their motivating styles with lower load and higher motivation and engagement (Evans et al., 2024)",
 "evidence_strength":"weak",
 "id":"load-reducing-teaching-strategies-motivation-engagement",
 "path":"claims/load-reducing-teaching-strategies-motivation-engagement.md",
 "status":"review",
-"title":"Teachers' load-reducing strategies and motivating styles correlate with lower cognitive load and higher motivation, engagement, and achievement (Evans et al., 2024)",
+"title":"Teachers' load-reducing strategies correlate with lower cognitive load and higher motivation, engagement, and achievement, and their motivating styles with lower load and higher motivation and engagement (Evans et al., 2024)",
 "type":"claim"
 },
 {

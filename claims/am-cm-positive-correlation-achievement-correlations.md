@@ -83,4 +83,4 @@ Bivariate correlation in the TIMSS 2019 descriptive statistics: achievement rela
 ## Related Claims
 - [Across 37 countries, polynomial models with nonlinear or interactive effects of autonomous and controlled motivation on mathematics achievement always fit better than linear additive-only models](nonlinear-interactive-motivation-models-fit-better-than-linear.md) — related
 - [In 14 countries, a cubic effect of autonomous motivation best fit the motivation-achievement relation, explaining 10.7% of achievement variance (an 8.1% increase over the additive model)](group1-cubic-autonomy-effect-14-countries.md) — related
-- [Teachers' load-reducing strategies and motivating styles correlate with lower cognitive load and higher motivation, engagement, and achievement (Evans et al., 2024)](load-reducing-teaching-strategies-motivation-engagement.md) — related
+- [Teachers' load-reducing strategies correlate with lower cognitive load and higher motivation, engagement, and achievement, and their motivating styles with lower load and higher motivation and engagement (Evans et al., 2024)](load-reducing-teaching-strategies-motivation-engagement.md) — related

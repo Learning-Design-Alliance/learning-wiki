@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Teachers' load-reducing strategies and motivating styles correlate with lower cognitive load and higher motivation, engagement, and achievement (Evans et al., 2024)"
-description: "Teachers' load-reducing strategies and motivating styles correlate with lower cognitive load and higher motivation, engagement, and achievement (Evans et al., 2024)"
+title: "Teachers' load-reducing strategies correlate with lower cognitive load and higher motivation, engagement, and achievement, and their motivating styles with lower load and higher motivation and engagement (Evans et al., 2024)"
+description: "Teachers' load-reducing strategies correlate with lower cognitive load and higher motivation, engagement, and achievement, and their motivating styles with lower load and higher motivation and engagement (Evans et al., 2024)"
 id: load-reducing-teaching-strategies-motivation-engagement
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Teachers' load-reducing strategies and motivating styles correlate with lower cognitive load and higher motivation, engagement, and achievement (Evans et al., 2024)
+# Teachers' load-reducing strategies correlate with lower cognitive load and higher motivation, engagement, and achievement, and their motivating styles with lower load and higher motivation and engagement (Evans et al., 2024)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Teachers' use of load-reducing strategies correlated with lower cognitive load and higher autonomous motivation, engagement, and achievement among high-school students. [→ de Bruin 2025](#de-bruin-2025)
-`q2 i?` Teachers' motivating styles emphasizing autonomy support and structure were linked to reduced cognitive load and increased motivation and engagement. [→ de Bruin 2025 (2)](#de-bruin-2025-2)
+`q2 i?` An editorial reports that, in Evans et al.'s (2024) survey, teachers' use of load-reducing strategies correlated with lower cognitive load and higher autonomous motivation, engagement, and achievement among high-school students. [→ de Bruin 2025](#de-bruin-2025)
+`q2 i?` An editorial reports that, in Evans et al.'s (2024) survey, teachers' motivating styles emphasizing autonomy support and structure were linked to reduced cognitive load and increased motivation and engagement; the editorial states no achievement result for motivating styles. [→ de Bruin 2025 (2)](#de-bruin-2025-2)
 
 ## Evidence
 
@@ -54,7 +54,7 @@ de Bruin, A. B. H., Janssen, E. M., Waldeyer, J., & Stebner, F. (2025). Cognitiv
 
 `q2 · i?` · `review · r2`
 
-Same survey study of 1287 Australian high-school students by Evans et al. (2024), reporting the link between motivating styles (autonomy support and structure) and reduced load with increased motivation and engagement. No effect size is printed.
+Same survey study of 1287 Australian high-school students by Evans et al. (2024), summarized in this editorial, which reports the link between motivating styles (autonomy support and structure) and reduced load with increased motivation and engagement. The editorial mentions achievement only for load-reducing strategies and states no achievement result for motivating styles. No effect size is printed.
 
 > "Additionally, teachers’ motivating styles, emphasizing autonomy support and structure, were linked to reduced cognitive load and increased motivation and engagement."
 

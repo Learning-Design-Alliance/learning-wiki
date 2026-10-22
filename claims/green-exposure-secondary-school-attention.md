@@ -33,7 +33,7 @@ sources:
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i?` Li and Sullivan (2016) found attentional performance after a break was significantly higher in the classroom with a green window view than in the no-window and built-view conditions. [→ Lucia Mason 2022](#lucia-mason-2022)
+`q3 i?` A review reports that Li and Sullivan (2016) found attentional performance after a break was significantly higher in the classroom with a green window view than in the no-window and built-view conditions combined, which did not differ from each other. [→ Lucia Mason 2022](#lucia-mason-2022)
 `q3 i2` Wallner et al. (2018) found greater d2-R accuracy and time scores after the large urban park than the small park (g = 0.74) and forest (g = 0.90). [→ Lucia Mason 2022 (2)](#lucia-mason-2022-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Lucia Mason, Angelica Ronconi, Sara Scrimin, Francesca Pazzaglia. (2022). Short-
 
 `q3 · i?` · `review · r2`
 
-Between-subjects experiment with N = 94 high schoolers randomly assigned to classrooms without windows, with built landscape windows, or with green landscape windows, after attention-fatiguing activities including a modified Trier Social Stress Test. The green-view condition showed significantly higher digit span performance after the break.
+The review reports Li and Sullivan (2016), a between-subjects experiment with N = 94 high schoolers randomly assigned to classrooms without windows, with built landscape windows, or with green landscape windows, after attention-fatiguing activities including a modified Trier Social Stress Test. After the break, the green-view condition showed significantly higher digit span performance than the other two conditions combined, which did not differ from each other; the review does not report separate comparisons with each.
 
 > "differences emerged after the break, as attentional performance in the classroom condition of green window view was significantly higher than in the other two window conditions combined, which did not differ each other."
 
