@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (71 show a difference, 16 mixed, 11 no difference) · 55 studies (31 associational, 9 review, 6 causal, 5 quant-synthesis, 3 theoretical, 1 qualitative), `q1`–`q4` · 8 of 55 report an effect size · 96 claims rest on one study
+> **Evidence** · 99 claims (72 show a difference, 16 mixed, 11 no difference) · 56 studies (31 associational, 9 review, 6 causal, 6 quant-synthesis, 3 theoretical, 1 qualitative), `q1`–`q4` · 9 of 56 report an effect size · 97 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -132,6 +132,7 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Multisensory temporal precision in autism is linked to speech integration, language abilities, and clinical symptomatology](../claims/autism-temporal-precision-links-language-symptoms.md) [+W] — learners who differ on it differ in outcomes
 - [Shared text reading benefits students with intellectual disability whether or not they need augmentative and alternative communication systems](../claims/shared-reading-effective-regardless-aac-status.md) [-M] — an instructional effect differs with it
 - [Label effects do not differ significantly across superordinate diagnostic categories, but subcategories differ, with combined intellectual-and-learning-disability labels most negative](../claims/diagnostic-category-moderation-label-effects.md) [~M] — learners who differ on it differ in outcomes
+- [Children with dyslexia benefit more from reading interventions than typically developing children (g = 0.87 vs 0.49)](../claims/dyslexia-benefit-more-than-typical-children.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

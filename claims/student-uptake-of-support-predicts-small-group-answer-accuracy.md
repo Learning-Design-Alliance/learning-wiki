@@ -58,3 +58,4 @@ This study's honest null result (contingency did not predict uptake) is as impor
 - [On a text channel, fading holds when the learner's turn is aimed at the decision under support, regardless of its depth](aim-warrant-for-fading-ai-tutor.md) — related
 - McKenney et al.'s ecological framework emphasizes knowing but not applying design knowledge — related
 - [Coached peer review improves the specificity of reviewer comments and receivers' uptake of feedback](coached-peer-review-improves-comment-quality-and-uptake.md) — related
+- [Regular and explicit teacher addressing of metacognitive strategies is linked to students applying more metacognitive strategies over time](explicit-metacognitive-addressing-increases-student-strategy-use.md) — related

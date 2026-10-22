@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/ml-lvm-more-accurate-individual-level-estimates.md
+---
+
+# Revision history: [claims/ml-lvm-more-accurate-individual-level-estimates](../claims/ml-lvm-more-accurate-individual-level-estimates.md)
+
+### 2026-10-22 · ingest · process:wiki-ingest
+Ingested from jrnl-dd3b99c3be02 (A More Comprehensive, More Reliable Multilevel Approach for Assessing and Modeling Teacher Judgment Accuracy Using Latent Variables) via eval_harness.py + ingest_extractions.py

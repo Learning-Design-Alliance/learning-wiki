@@ -70,3 +70,4 @@ Sensitivity analysis reported in §4.2 using G*Power 3.1 (two-tailed independent
 - The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards — related
 - Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods — related
 - [Edpuzzle qualifies for a Promising evidence rating based on one school-level randomized study](edpuzzle-promising-evidence-rating.md) — related
+- [Randomization does not ensure baseline equivalence in small-sample motor learning studies, so unbalanced pre-tests can overstate random-practice benefits](randomization-no-baseline-equivalence.md) — related

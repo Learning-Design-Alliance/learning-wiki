@@ -61,7 +61,7 @@ Separate multi-level model on the same survey data comparing exam types. The stu
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does the format and setting of an assessment change how anxious learners are about it?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **14 distinct studies** (4 review, 3 causal, 2 associational, 2 qualitative, 1 quant-synthesis, 1 theoretical, 1 kind not coded), `q2`–`q4`, 2 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does the format and setting of an assessment change how anxious learners are about it?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **14 distinct studies** (4 review, 3 causal, 2 associational, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q2`–`q4`, 2 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -78,7 +78,7 @@ Separate multi-level model on the same survey data comparing exam types. The stu
 | [O'Meara and Lovett 2026](https://doi.org/10.1080/10615806.2025.2552857) | q4 · quant-synthesis · r3 | i0 · negligible effect, r=.06 (n.s.) on performance after outlier removal; r=−.05/−.10 on anxiety | [Brief expressive writing before an exam can raise test-anxious students' scores, but acros](expressive-writing-improves-exam-performance.md) (qualifies) |
 | [Steven Wise 2018](https://doi.org/10.1080/20004508.2018.1490127) | q2 · theoretical · r? | i? | [Computer-based test advantages can be used to manage the effects of test anxiety as a cons](cbt-manages-anxiety-construct-irrelevance.md) (qualifies) |
 | [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [Most middle and high school students surveyed after classroom retrieval practice programs ](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) (supports) |
-| [Pooja K. Agarwal 2024](https://doi.org/10.1007/s10648-023-09839-w) | q2 | i? | [Most middle and high school students surveyed after classroom retrieval practice programs ](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) (supports) |
+| [Pooja K. Agarwal 2024](https://doi.org/10.1007/s10648-023-09839-w) | q2 · theoretical · r2 | i? | [Most middle and high school students surveyed after classroom retrieval practice programs ](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

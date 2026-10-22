@@ -58,3 +58,4 @@ Comparison reported in the Results section across the same four-course module-le
 - [SVM-based regressors outperformed other regressors in the ETF price-delta forecasting benchmark](svm-regressors-outperformed-other-regressors.md) — related
 - [CFS and GR feature selection shrink decision trees to 3.2-4.7 leaf nodes without degrading predictive performance](feature-selection-reduces-tree-size-maintains-accuracy.md) — related
 - [CatBoost achieved the best classification performance among tested algorithms for predicting course completion risk (F-measure .77, accuracy 78%, AUC .87)](catboost-best-performing-risk-classifier.md) — related
+- [Boosting models (XGBoost) achieved the highest predictive accuracy among the compared ML models, while logistic regression showed the lowest](boosting-highest-accuracy-logistic-lowest.md) — reports the opposite

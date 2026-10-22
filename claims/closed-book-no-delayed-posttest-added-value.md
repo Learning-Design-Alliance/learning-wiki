@@ -68,3 +68,5 @@ ANCOVA on delayed posttest performance in Experiment 1 found no format × active
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — a broader claim this one bears on
 - [Active processing of instructional explanation prompts increase coverage of main content items](active-processing-prompts-increase-main-content-coverage.md) — related
 - [Adding self-explanation prompts to heuristic worked examples yields no additional benefit and impedes seventh graders' modeling competency](self-explanation-prompts-no-added-benefit.md) — related
+- [Closed-book generative tasks can outperform open-book ones when learners can later reinspect the material](closed-book-advantage-with-reinspection.md) — related
+- [Learning-outcome effects of open- versus closed-book generative tasks are mixed](open-closed-book-outcome-effects-mixed.md) — related

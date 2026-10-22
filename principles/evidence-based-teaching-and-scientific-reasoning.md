@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (18 for, 12 mixed, 2 against) · 31 studies (8 review, 6 causal, 6 associational, 6 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 31 report an effect size · 30 claims rest on one study
+> **Evidence** · 33 claims (19 for, 12 mixed, 2 against) · 32 studies (8 review, 7 theoretical, 6 causal, 6 associational, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 32 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,7 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - [Differential attrition may explain the reported reduction in achievement gaps under daily online testing](../claims/differential-attrition-may-explain-gap-reduction.md) [+W] — attached 2026-10-21 from Robinson (2021), which proposed "Vet widely cited educational claims for internal-validity threats before acting on them, and expose unsupported extravagant claims".
 - [Heterogeneity in teacher program effects was high for stress, psychological distress, and burnout in RCTs, and methodological quality was generally poor across both trial types](../claims/teacher-programs-heterogeneity-risk-of-bias.md) [+W] — attached 2026-10-21 from Joanne R. Beames et al. (2023), which proposed "Design future teacher mental health program research with methodologically rigorous designs, co-design with teachers, and attention to implementation factors".
 - [Nonexperimental designs, including natural experiments and structural equation modeling, can inform cause-effect relationships to a degree that depends on study design and analysis](../claims/nonexperimental-designs-inform-causal-effects.md) [+W] — attached 2026-10-21 from Grosz (2023), which proposed "Researchers should discuss practical implications in their articles regardless of design, while transparently communicating limitations and assumptions".
+- [Retrieval practice has been implemented and studied in authentic middle school classrooms, with general recommendations for applied research](../claims/retrieval-practice-implementation-middle-school-classrooms.md) [+W] — attached 2026-10-22 from Pooja K. Agarwal (2012), which proposed "Apply a century of cognitive psychology research on human learning and memory to real-world education to ground practice in evidence rather than doctrine".
 
 ## Objective and learner-valued goal
 

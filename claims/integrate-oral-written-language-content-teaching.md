@@ -64,3 +64,4 @@ The guide's evidence summary for Recommendation 2 reports "Five randomized contr
 - [Integrating science and literacy instruction benefits elementary students](integrated-science-literacy-instruction-benefits-elementary.md) — related
 - [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](experience-mediate-connection-academic-language-vibration.md) — a narrower finding that bears on this claim
 - [Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners](language-consequence-not-prerequisite-math-el.md) — related
+- [Learning from fiction is a research area with both recommendations and areas of caution for education](learning-from-fiction-recommendations-and-cautions.md) — related

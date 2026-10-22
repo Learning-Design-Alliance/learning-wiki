@@ -52,3 +52,5 @@ Random-effects meta-analysis reporting heterogeneity statistics: I2 ranges from 
 - [Game-based learning in primary and early secondary STEM education shows moderate positive effects on cognition, motivation, and behaviour compared to traditional classrooms](games-stem-moderate-positive-effects-cognition-motivation-behaviour.md) — related
 - [Effect sizes vary widely between studies and especially between comparisons within studies](large-variation-word-reading-intervention-effects.md) — related
 - [Effect sizes across shared text reading studies show substantial true heterogeneity (I2 = 80.09)](substantial-heterogeneity-shared-reading-effects.md) — related
+- [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
+- [Effect sizes for gender differences in L2 achievement are highly heterogeneous across studies (I² = 89.82%)](high-heterogeneity-l2-gender-effect-sizes.md) — related

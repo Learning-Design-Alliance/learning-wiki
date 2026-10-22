@@ -145,10 +145,12 @@ Comprehension with the aid, comprehension of a new text without it, delayed rete
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how to withdraw the aid as readers become independent.
 
 ## Examples
+
 - **Annotated handouts**: Headings, callouts, examples, and margin notes help learners identify what matters during reading.
 - **Digital reading guides**: A course page breaks a text into sections with preview questions and interpretation prompts.
 - **Visual glosses and cueing**: Key vocabulary, symbols, or process markers are visually highlighted to support comprehension.
 - **Structured note guides**: Learners receive a partial outline or concept frame to complete while reading or listening.
+- [Guide and time generative learning activities to overcome barriers to sense-making](../strategies/guide-and-time-glas-strategy.md)
 
 ## Key Sources
 - Carlson, R., Padron, K., & Andrews, C. (2018). Evidence-based instructional strategies for adult learners: A review of the literature. *Codex, 4*(4), 29-47.

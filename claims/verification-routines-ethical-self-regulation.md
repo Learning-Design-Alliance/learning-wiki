@@ -76,3 +76,4 @@ Qualitative thematic analysis of the same reflections (Theme 4, metacognitive re
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [Surface validation can function while substantive validation fails: most participants detected flawed AI recommendations yet continued following them](surface-validation-works-substantive-validation-fails.md) — reports the opposite
 - [Review-attributed evidence: fabricated model-generated references clustered in disciplinary journals in a student verification exercise](fabricated-references-cluster-disciplinary-journals.md) — related
+- [Adolescent digital self-regulation is enacted through a typology of four strategy types differing in executive effort versus external scaffolding](adolescent-digital-self-regulation-strategy-typology.md) — related

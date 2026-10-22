@@ -103,3 +103,4 @@ This paper synthesizes meta-analytic evidence on learning strategies into a mode
 - [Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded](increasing-wait-time-improves-response-quality.md) — related
 - [Answering inserted adjunct questions with the text available produces higher delayed transfer learning than answering post-reading questions](inserted-adjunct-questions-better-learning-than-post-reading.md) — related
 - [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) — related
+- [Higher-level quiz questions engage learners in generative activities as well as retrieval](higher-level-quiz-questions-engage-generative-activities.md) — related

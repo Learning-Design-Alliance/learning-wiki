@@ -49,3 +49,4 @@ The review attributes, citing Goldin-Meadow and colleagues and Roth's review, th
 - [Much bodily-material coordination in touchscreen collaboration occurs in the space off the screen](bodily-material-interaction-off-screen.md) — related
 - [Collaborative speech strongly co-occurs with actions on virtual objects and virtual hand gestures in shared VR geometry tasks](speech-co-occurs-with-actions-and-gestures-shared-vr.md) — related
 - [Gesturing during learning improves retention and reduces cognitive load](gesturing-during-learning-retention-load.md) — related
+- [Enacting support—gestures and manipulatives—facilitates explanation quality and problem-solving, partly by adding strategies to verbal explanations](enacting-support-facilitates-explaining.md) — a narrower finding that bears on this claim

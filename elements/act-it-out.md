@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (10 for, 4 mixed, 2 against) · 24 studies (11 causal, 6 review, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 5 of 24 report an effect size · 12 claims rest on one study
+> **Evidence** · 18 claims (12 for, 4 mixed, 2 against) · 25 studies (12 causal, 6 review, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 6 of 25 report an effect size · 14 claims rest on one study
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -64,6 +64,8 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - [VR improved movement-based transfer test performance versus reading in security training, while learning in VR without the possibility to act was detrimental](../claims/vr-transfer-benefit-but-actionless-vr-detrimental.md) [+W]
 - [A 4-week embodied learning intervention with movement-phonemes improves grade 1 children's letter-sound knowledge more than regular classroom teaching](../claims/movement-phonemes-improve-letter-sound-knowledge-grade-1.md) [+W] — attached 2026-10-21 from Damsgaard et al. (2023), which proposed "Movement-phoneme activity program: paired whole-body letter-sound exercises over 4 weeks"; tests this page's relationship.
 - [Gesture instructions impaired narrative recall only for participants with average or above-average verbal memory, not those below average (Study 1)](../claims/gesture-instruction-harms-recall-high-verbal-memory.md) [~W]
+- [Full-body movement training during number building exercises significantly increases first-graders' final math test performance compared to non-movement control training](../claims/full-body-movement-improves-number-building-test.md) [+W]
+- [Movement conditions outperform non-movement controls during the practice phase on both position and instruction scores](../claims/movement-training-better-practice-phase.md) [+W]
 
 ## The evidence by question
 

@@ -240,3 +240,5 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Experts introduce procedure and planning explanations over time, typically after an initial step or action is completed](planning-explanations-later-in-turn.md) — related
 - [Adding instructional explanations to worked examples yields a small positive effect on learning, stronger for conceptual than procedural knowledge](instructional-explanations-in-worked-examples-small-effect.md) — related
 - [Self-explanation benefits learning across ages, but evidence is mixed for elementary-school children and effects shrink when time on task is equated](self-explanation-mixed-elementary.md) — related
+- [Learning from examples depends on the explaining mode: prompting principle-based self-explanations and guided comparison of examples improves transfer](examples-facilitate-explaining.md) — a narrower finding that bears on this claim
+- [Provided visuals can act as a crutch: explaining with provided visuals yielded higher-quality explanations but no transfer advantage over explaining without them](provided-visuals-crutch-no-transfer-advantage.md) — related

@@ -118,3 +118,7 @@ Participants studied prose passages and then either repeatedly restudied them or
 - [Practice tests benefit retention (g = 0.63) and transfer (g = 0.53) outcomes without a significant difference between them](practice-tests-aid-retention-and-transfer.md) — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [The testing effect from frequent retrieval is revealed only on later comprehensive tests, not in performance in other courses](testing-effect-limited-to-comprehensive-tests.md) — related
+- [Drawing benefits depend on knowledge type assessed, with recent meta-analytic evidence contradicting the higher-level-knowledge account](drawing-knowledge-type-dependence.md) — related
+- [Higher-level quiz questions engage learners in generative activities as well as retrieval](higher-level-quiz-questions-engage-generative-activities.md) — related
+- [Without initial instruction, repeated worked examples produce better generalization than repeated retrieval practice](repeated-worked-examples-beat-repeated-retrieval-without-instruction.md) — reports the opposite
+- [When learners receive initial instruction, retrieval practice yields better generalization than worked examples regardless of item variability](retrieval-practice-beats-worked-examples-with-initial-instruction.md) — a narrower finding that bears on this claim

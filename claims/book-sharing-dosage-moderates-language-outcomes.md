@@ -55,3 +55,4 @@ Pre-specified subgroup meta-regression on expressive and receptive language outc
 - [Caregiver-directed shared book-reading interventions have a small positive effect on child receptive language (d=0.26)](book-sharing-receptive-language-small-effect.md) — related
 - [Level of implementation moderates Dialogic Reading's effects on children's oral language](implementation-level-moderates-dialogic-reading-effects.md) — a narrower finding that bears on this claim
 - [The authors judge insufficient instructional intensity (dosage) as the primary factor behind the null result of learning strategies instruction in adult education](insufficient-dosage-primary-factor-null-strategy-outcome.md) — related
+- [Outcome proximity moderates the dose–response relation: distal outcomes outperform proximal outcomes at dosages at or below 5.43 h, while proximal outcomes exceed distal outcomes at or above 22.6 h](proximity-by-dosage-interaction.md) — related

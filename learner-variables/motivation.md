@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 225 claims (156 show a difference, 46 mixed, 23 no difference) · 180 studies (55 associational, 48 causal, 34 review, 14 quant-synthesis, 13 theoretical, 10 qualitative, 6 design), `q1`–`q4` · 43 of 180 report an effect size · 213 claims rest on one study
+> **Evidence** · 230 claims (158 show a difference, 47 mixed, 25 no difference) · 183 studies (56 associational, 49 causal, 34 review, 14 quant-synthesis, 14 theoretical, 10 qualitative, 6 design), `q1`–`q4` · 45 of 183 report an effect size · 218 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -275,6 +275,11 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Interest and self-efficacy are distinct yet reciprocally related in supporting learning](../claims/interest-self-efficacy-reciprocal-relation.md) [+M] — learners who differ on it differ in outcomes
 - [Students who engaged more meaningfully with the GenAI tended to have more sustained interest than control students (exploratory)](../claims/meaningful-genai-engagement-sustained-interest.md) [+M] — instruction changes it
 - [Students' expectancies for success are the strongest direct predictor of subsequent math performance, while the importance attached to math is the strongest direct predictor of intentions to continue taking math](../claims/expectancies-predict-performance-values-predict-intentions.md) [+M] — learners who differ on it differ in outcomes
+- [A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type](../claims/growth-mindset-no-effect-vocabulary-learning.md) [-M] — instruction changes it
+- [Across 11 CORI studies, mean effect sizes ranged from 0.49 for self-efficacy to 1.20 for intrinsic motivation, generally exceeding average motivation-intervention effects](../claims/cori-meta-analysis-mean-effect-sizes.md) [+M] — instruction changes it
+- [In the HghLBO profile, boredom and enjoyment lose nearly all predictive power for persistence, though they predict persistence in full-sample and multigroup analyses](../claims/boredom-enjoyment-prediction-lost-in-hghlbo.md) [~M] — learners who differ on it differ in outcomes
+- [The effect of a growth mindset intervention does not interact with knowledge type for motivation, cognitive load, or recall](../claims/no-knowledge-type-mindset-interaction.md) [-M] — instruction changes it
+- [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](../claims/mindset-belief-fostered-without-outcome-change.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

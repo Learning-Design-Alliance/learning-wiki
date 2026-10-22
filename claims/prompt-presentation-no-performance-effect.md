@@ -68,3 +68,4 @@ The posttest ANOVA in the same experiment reported that "there was  no significa
 - [Textual instructional prompts yield significantly higher near-transfer posttest performance than pictorial prompts for novice circuit-analysis learners](textual-prompts-better-near-transfer-than-pictorial.md) — related
 - [Textual prompts yield significantly stronger continuing motivation than pictorial prompts](textual-prompts-stronger-continuing-motivation.md) — related
 - [Textual prompts produce higher first-attempt practice accuracy, while pictorial prompts produce higher second-attempt accuracy](prompt-format-first-second-attempt-accuracy.md) — related
+- [Dissonant combinations of regulation and processing strategies impair performance, and dissonance produces affective strain](dissonance-in-learning-patterns.md) — related

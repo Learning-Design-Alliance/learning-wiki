@@ -98,3 +98,4 @@ The review reports, citing Gerlich (2025a), a mixed-methods study of 666 partici
 - [AI-based educational technology use is positively associated with critical thinking among undergraduate medical students](ai-use-positively-associated-critical-thinking-medical-students.md) — reports the opposite
 - [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](llm-scaffolding-over-reliance-paradox.md) — related
 - [80% of IB student essays explicitly link reliance on AI to reduced thinking](essays-link-ai-reliance-to-reduced-thinking.md) — a narrower finding that bears on this claim
+- [Digital literacy develops unevenly rather than robustly for many adolescents](uneven-digital-literacy-development-unicef.md) — related

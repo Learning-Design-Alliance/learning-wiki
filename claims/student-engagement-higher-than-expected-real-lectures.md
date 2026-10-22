@@ -45,3 +45,4 @@ The review reports Rosengrant et al.'s study, which used mobile eye-trackers wit
 ## Related Claims
 - [University students remain highly on-task throughout 70-minute lectures, refuting the 15–20 minute attention-span myth](rosengrant-vigilance-no-15-minute-decline.md) — possibly the same claim (merge candidate)
 - [Changing activities during lessons improves student attention during the activity and subsequent lecture segments](activity-changes-improve-lesson-attention.md) — related
+- [Analyzing fluctuation of engagement over time rather than averaging on-task and off-task instances across a lecture provides novel insights into student behavior](engagement-fluctuation-over-averaging.md) — related

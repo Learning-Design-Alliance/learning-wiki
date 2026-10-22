@@ -48,3 +48,4 @@ Value-added study conducted in the author's UCSB lab comparing students who play
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — a broader claim this one bears on
 - [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
 - [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) — related
+- [Learning from examples depends on the explaining mode: prompting principle-based self-explanations and guided comparison of examples improves transfer](examples-facilitate-explaining.md) — related

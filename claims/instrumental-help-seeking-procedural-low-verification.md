@@ -52,3 +52,4 @@ AI-coded help-seeking typology over the 96 students with at least one REQUEST tu
 - [Meta-procedural requests are prominent in student discourse with a Socratic AI tutor: Next Step Guidance is the second-most common discourse move despite the tutor being designed not to direct students](meta-procedural-requests-socratic-ai-tutor.md) — related
 - [Students' stated pre-interaction intentions only weakly correspond to their enacted help-seeking with an LLM](stated-intentions-weakly-match-enacted-help-seeking.md) — related
 - [Chat-driven vibe-coding builders converge on a single generate-and-check script whose dominant time cost is dead waiting for the tool](shared-generate-and-check-loop-script.md) — related
+- [Adolescent digital self-regulation is enacted through a typology of four strategy types differing in executive effort versus external scaffolding](adolescent-digital-self-regulation-strategy-typology.md) — related

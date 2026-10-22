@@ -18,7 +18,7 @@ sources:
 # Balanced pronunciation curriculum covering suprasegmentals, segmentals, and fluency, with a short list of central features selected by diagnosis
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 20 claims (7 for, 13 mixed) · 12 studies (3 quant-synthesis, 3 review, 3 design, 2 theoretical, 1 causal), `q1`–`q3` · 4 of 12 report an effect size · 15 claims rest on one study
+> **Evidence** · 21 claims (8 for, 13 mixed) · 13 studies (4 quant-synthesis, 3 review, 3 design, 2 theoretical, 1 causal), `q1`–`q4` · 5 of 13 report an effect size · 16 claims rest on one study
 
 ## Description and scope
 
@@ -130,6 +130,10 @@ Record: **learner's first language and listeners who matter → baseline spontan
 [Modeling](../elements/modeling.md), [practice](../elements/practice.md), [feedback](../elements/feedback.md), [speech-to-text](../elements/speech-to-text.md), [observation and shadowing](../elements/observation-shadowing.md), [self-assessment](../elements/self-assessment.md) and [assessment](../elements/assessment.md). Principles and patterns it draws on: [Deliberate Practice](../principles/deliberate-practice.md), [Formative Assessment](../principles/formative-assessment.md), [Immediate Feedback](../principles/immediate-feedback.md) and [Post-task focus on form](../theories/schmidt-noticing-hypothesis.md). Strategies that fit its steps: [integrate pronunciation, start early, raise its priority](../strategies/integrate-start-early-raise-priority-pronunciation.md), [address mother-tongue interference](../strategies/address_mother_tongue_interference.md), [ASR read-aloud, compare, repeat](../strategies/asr-read-aloud-compare-repeat-strategy.md), [multisensory pronunciation exercises](../strategies/multisensory-pronunciation-comprehension-exercises.md) and [technology-integrated pronunciation practice](../strategies/technology-integrated-pronunciation-practice.md).
 
 This pattern is scoped to pronunciation for intelligibility and comprehensibility in a second language. Reading fluency for young readers, phonics and accent imitation for performance are other configurations. The policy supports observation and design reasoning; whether a diagnosis-based list across three areas improves listener-rated understanding of spontaneous speech more than a fixed segmental syllabus, for which learners, at what cost in teacher time and at what horizon, remains to be tested.
+
+## Claims
+
+- [Fluency training shows the largest intervention effect (g = 1.78) among intervention methods](../claims/fluency-training-largest-effect-chinese-children.md) [+W]
 
 ## Related Patterns
 - 

@@ -43,6 +43,7 @@ An OSF-hosted replication package from Zambrano et al. containing the prompts, G
 - [Reference implementation of the classroom feedback mediation layer](reference-implementation-of-the-classroom-feedback-mediation-layer.md)
 - [Open online dataset and statistical analyses of the mutual-modelling emotions study](open-online-dataset-and-statistical-analyses-of-the-mutual-modelling-emotions-study.md)
 - [Annotated R syntax and OSF repository for replicating MAIHDA analyses](annotated-r-syntax-and-osf-repository-for-replicating-maihda-analyses.md)
+- [Open-source database of SRL constructs and multimodal indicators](open-source-database-of-srl-constructs-and-multimodal-indicators.md)
 
 ## Key Sources
 - Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C. (2026). Data Plus Theory Equals Codebook: Leveraging LLMs for Human-AI Codebook Development. Journal of Educational Data Mining, Volume 18, No 1. https://osf.io/g3z4x. [doi:10.35542/osf.io/4wyqc_v1](https://doi.org/10.35542/osf.io/4wyqc_v1)

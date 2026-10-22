@@ -13,7 +13,7 @@ generated:
 # Generation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies (2 quant-synthesis, 1 causal, 1 design, 1 theoretical), `q2`–`q4` · 2 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 6 studies (2 quant-synthesis, 1 causal, 1 review, 1 design, 1 theoretical), `q2`–`q4` · 2 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 Generation asks learners to actively produce content — completing a missing word, stating a rule, drawing a diagram, or answering a question before seeing the answer — instead of passively reading the same material. The act of constructing the response, even an incorrect one, creates richer encoding than reception. It is the constructive counterpart to [Practice](practice.md): where practice strengthens retrieval of already-taught material, generation forces the learner to build the response before instruction confirms it.
@@ -56,6 +56,7 @@ Generation reliably improves retention of the generated material relative to rea
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](../claims/generative-processing-improves-learning.md) [+M]
 - [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](../claims/ai-removing-struggle-short-circuits-desirable-difficulties.md) [+W]
 - [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](../claims/constructive-beats-passive-young-children.md) [+W]
+- [Drawing can underperform the generative strategy of explaining, particularly on verbally aligned tests](../claims/explaining-outperforms-drawing.md) [~W]
 
 ## The evidence by question
 - *Does generating an answer or item, rather than reading it, improve later memory of it, and for which materials?* [Generation Effect Improves Retention](../claims/generation-effect-improves-retention.md) [+S]

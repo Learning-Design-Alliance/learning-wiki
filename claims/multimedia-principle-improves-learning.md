@@ -63,7 +63,7 @@ Adults (Experiment 1, N=207) and youth (Experiment 2, N=193) were each randomly 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do words with a relevant picture beat words alone?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **17 distinct studies** (7 causal, 5 review, 2 theoretical, 1 quant-synthesis, 1 design, 1 kind not coded), `q1`–`q4`, 6 of 17 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do words with a relevant picture beat words alone?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **17 distinct studies** (7 causal, 6 review, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4`, 6 of 17 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -83,7 +83,7 @@ Adults (Experiment 1, N=207) and youth (Experiment 2, N=193) were each randomly 
 | [Kalyuga et al. 1998](https://doi.org/10.1518/001872098779480587) | q3 · causal · r? | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | Obikwelu 2013 | q1 · theoretical · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | [Slava Kalyuga 2010](https://doi.org/10.1007/s11251-009-9102-0) | q2 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
-| [Leonard Tetzlaff 2021](https://doi.org/10.1007/s10648-020-09570-w) | q2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
+| [Leonard Tetzlaff 2021](https://doi.org/10.1007/s10648-020-09570-w) | q2 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

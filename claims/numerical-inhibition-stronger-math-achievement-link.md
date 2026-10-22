@@ -65,3 +65,4 @@ Zero-order correlations in the cross-sectional study of 209 participants aged 11
 - [Dot comparison performance no longer predicts mathematics achievement once inhibition skill is accounted for, but inhibition explains variance over and above dot comparison](inhibition-accounts-for-dot-comparison-math-link.md) — related
 - [Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval](symbolic-nmp-strong-predictor-fact-retrieval.md) — related
 - [Inhibition does not uniquely predict arithmetic fact retrieval above numerical magnitude processing](inhibition-no-unique-contribution-fact-retrieval.md) — related
+- [Interference inhibition correlates more strongly with mathematical ability than response inhibition](interference-inhibition-stronger-than-response-inhibition-math.md) — related

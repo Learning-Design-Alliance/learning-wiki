@@ -46,3 +46,4 @@ Random-effects meta-analysis of internal consistency coefficients (log-transform
 - [Reliability estimates vary by region and instrument, with ARS showing α/ω = 0.90 and ABS α/ω = 0.82, and the evidence base geographically uneven](regional-instrument-reliability-variation.md) — a narrower finding that bears on this claim
 - [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](meta-analytic-alpha-knowledge-tests-085.md) — related
 - [Pooled construct validity correlation between academic resilience measures and external criteria is moderate (r = .55) with substantial variability across outcome domains](pooled-validity-correlation-resilience.md) — related
+- [Effect sizes for gender differences in L2 achievement are highly heterogeneous across studies (I² = 89.82%)](high-heterogeneity-l2-gender-effect-sizes.md) — related

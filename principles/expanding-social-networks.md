@@ -164,6 +164,7 @@ Ties formed, ties used, reduced isolation, persistence, and employment or settle
 - [Adopt power-sharing and reciprocity strategies such as mentoring and cooperative learning to strengthen social bonds and build protective factors](../strategies/power-sharing-strategies-build-protective-factors.md)
 - [Latino/a Affinity Group at Huntley 158: an affinity space fostering belonging and retention of Latino/a teachers](../designs/latina-affinity-group-huntley-158.md)
 - [Support informal workplace learning by recognising and rendering visible the informal networks through which workers actually learn](../strategies/render-informal-workplace-learning-visible.md)
+- [Offer pre-arrival materials and self-evaluation paired with developmental exercises, plus peer mentoring, to foster adaptive traits and social support before students arrive on campus](../strategies/pre-arrival-self-evaluation-peer-mentoring-strategy.md)
 
 ## Key Sources
 - Department for Education. (2018). *Decisions of adult learners*. Kantar Public and Learning and Work Institute.

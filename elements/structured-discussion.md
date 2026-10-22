@@ -18,7 +18,7 @@ sources:
 # Structured Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 1 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 5 studies (2 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Structured discussion is the element in which talk is guided by prompts, roles, turns, protocols, or evidence requirements rather than left entirely open. It is useful when the goal is to make discussion more equitable, rigorous, and productive.
@@ -50,6 +50,7 @@ Structured discussion is the element in which talk is guided by prompts, roles, 
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
 - [Prompt specificity changes AI tutor pedagogy: a no-direct-answer guardrail alone produces uniform questioning, while a detailed guided protocol produces varied, impasse-sensitive responses](../claims/prompt-specificity-shapes-tutor-pedagogy.md) [+W]
 - [Deliberative discourse promotes pedagogies of public deliberation, which are critiqued for exclusion and consensus bias](../claims/deliberative-discourse-pedagogies-critique.md) [~W]
+- [Teacher role grows more concrete from low-structured sensemaking to high-structured deliberation and vanishes in dialectic deliberation](../claims/teacher-role-shift-across-lta-patterns.md) [~W]
 
 ## Related Elements
 - [Discussion Prompt](discussion-prompt.md)

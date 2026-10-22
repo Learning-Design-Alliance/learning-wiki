@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (65 show a difference, 16 mixed, 2 no difference) · 67 studies (23 review, 12 qualitative, 10 causal, 8 associational, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 2 of 67 report an effect size · 78 claims rest on one study
+> **Evidence** · 85 claims (66 show a difference, 17 mixed, 2 no difference) · 68 studies (23 review, 12 qualitative, 10 causal, 9 associational, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 2 of 68 report an effect size · 80 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -120,6 +120,8 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [During inquiry-informed learning, students' interest, self-efficacy, and belonging were increasingly coordinated over time](../claims/interest-self-efficacy-belonging-coordinated-over-time.md) [+M] — instruction changes it
 - [Sense of belonging in learning contexts is robustly associated with psychological well-being, academic motivation, and academic performance](../claims/belonging-associated-wellbeing-motivation-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Teachers' empathetic caring is associated with stronger mathematics classroom connectedness among Black and Latine students than transactional care](../claims/empathetic-care-math-connectedness.md) [+M] — instruction changes it
+- [School belonging is associated with better academic achievement in almost all countries, but the strength of the correlations varies significantly across countries](../claims/pisa2018-belonging-achievement-correlation-heterogeneity.md) [+M] — learners who differ on it differ in outcomes
+- [The belonging–outcome association is stronger in some cultural groups than others: reported moderation by ethnicity and by individualism–collectivism](../claims/structure-oriented-moderation-belonging-outcomes.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

@@ -38638,5 +38638,269 @@
  "spacing\tthree spaced retrieval opportunities\tother retrieval-practice schedules": {
   "label": "three spaced retrieval opportunities vs other retrieval-practice schedules",
   "treatment_is_a": true
+ },
+ "active-learning\tdrawing an explanation of the video lesson\twriting an explanation": {
+  "label": "drawing/sketching vs writing/verbal explanations",
+  "treatment_is_a": true
+ },
+ "active-learning\tdrawing pictures while learning\treading only": {
+  "label": "drawing/sketching vs reading only",
+  "treatment_is_a": true
+ },
+ "active-learning\tdrawing video content\tgenerating verbal explanations": {
+  "label": "drawing/sketching vs writing/verbal explanations",
+  "treatment_is_a": true
+ },
+ "active-learning\tgenerating sketches after reading about the greenhouse effect\twriting self-explanations": {
+  "label": "drawing/sketching vs writing/verbal explanations",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive, capacity-building digital regulation\trestrictive external control and access limitation": {
+  "label": "autonomy-supportive vs controlling",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher degree of autonomy\tlower degree of autonomy": {
+  "label": "higher vs lower autonomy",
+  "treatment_is_a": true
+ },
+ "case-comparison\tprompted to compare two cases\tstudied the cases separately": {
+  "label": "case comparison vs separate study",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tclassroom with regular, explicit strategy instruction\tcomparison classroom": {
+  "label": "explicit strategy instruction vs usual/no explicit strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect strategy instruction\tindirect activation through the learning environment": {
+  "label": "direct strategy instruction vs indirect strategy activation",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect strategy instruction\tlittle or no direct strategy instruction": {
+  "label": "direct strategy instruction vs little or no direct strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit strategy instruction\timplicit strategy instruction": {
+  "label": "explicit strategy instruction vs implicit strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\thigher direct instructional support\tlower direct instructional support": {
+  "label": "higher vs lower direct instructional support",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tregular, explicit attention to metacognitive strategies\tless regular or less explicit attention to metacognitive strategies": {
+  "label": "regular, explicit metacognitive-strategy instruction vs less regular or less explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tschool-based mathematics interventions\tbusiness-as-usual control": {
+  "label": "school-based intervention vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tdelayed feedback\tcomparison feedback condition": {
+  "label": "delayed vs immediate feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate feedback\tcomparison feedback condition": {
+  "label": "delayed vs immediate feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tfeedback focusing on reading self-efficacy\tother feedback or comparison condition": {
+  "label": "reading-self-efficacy-focused feedback vs other feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tgoal setting combined with performance feedback\tperformance feedback without goal setting": {
+  "label": "goal setting plus performance feedback vs performance feedback alone",
+  "treatment_is_a": true
+ },
+ "feedback-type\thigher-order questions as implicit feedback\tlower-order questions as implicit feedback": {
+  "label": "higher-order vs lower-order implicit-feedback questions",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmeaning-based feedback\tword-reading feedback": {
+  "label": "meaning-based vs word-reading feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmeaning-based feedback combined with instruction\tdecoding-focused feedback": {
+  "label": "meaning-based feedback plus instruction vs decoding-focused feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative feedback indicating number of errors\tother feedback or comparison condition": {
+  "label": "error-number feedback vs other feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tno feedback\tword-reading feedback": {
+  "label": "word-reading feedback vs no feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tperformance feedback during oral reading\tother or no performance feedback": {
+  "label": "performance feedback during oral reading vs other or no performance feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tphonics feedback\tother word-reading feedback methods": {
+  "label": "phonics vs other word-reading feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tprosody-focused feedback\tunspecified feedback comparison": {
+  "label": "prosody-focused vs unspecified feedback",
+  "treatment_is_a": true
+ },
+ "interleaving\tdifferent concept presented after a concept\trepetition of the same concept": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\thigh contextual interference (random practice)\tlow contextual interference (blocked practice)": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\thigh contextual interference/random practice\tlow contextual interference/blocked practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tpresent a different concept after each concept\trepeat the same concept": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tpresent a different concept next\trepeat the same concept": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\trandom practice\tblocked practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "media-design\texplanation with provided lesson visuals\texplanation without provided visuals": {
+  "label": "illustrations/visuals vs no illustrations/visuals",
+  "treatment_is_a": true
+ },
+ "media-design\tinformation presented in a permanent written format\tinformation presented transiently through slides and speech": {
+  "label": "permanent/non-transient information vs transient information",
+  "treatment_is_a": true
+ },
+ "media-design\tno illustrations\tillustrations": {
+  "label": "illustrations vs no illustrations",
+  "treatment_is_a": false
+ },
+ "media-design\tpermanent written or otherwise non-transient information\ttransient spoken or disappearing information": {
+  "label": "permanent/non-transient information vs transient information",
+  "treatment_is_a": true
+ },
+ "media-design\tself-explaining diagrams\tself-explaining text": {
+  "label": "self-explaining diagrams vs self-explaining text",
+  "treatment_is_a": true
+ },
+ "media-design\ttransient information\tnon-transient information": {
+  "label": "permanent/non-transient information vs transient information",
+  "treatment_is_a": false
+ },
+ "practice-amount\thigher dosage for proximal outcomes\thigher dosage for distal outcomes": {
+  "label": "higher dosage for proximal outcomes vs higher dosage for distal outcomes",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher total intervention dosage\tlower total intervention dosage": {
+  "label": "higher total intervention dosage vs lower total intervention dosage",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tclosed-book follow-up tasks with later material reinspection\topen-book follow-up tasks": {
+  "label": "closed-book vs open-book",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tclosed-book generative task with later review opportunity\topen-book generative task": {
+  "label": "closed-book vs open-book",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfree recall\tmainly generative learning task": {
+  "label": "retrieval practice vs generative learning activities",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfree recall\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\thigher-level quiz questions\trestudy or note-taking": {
+  "label": "retrieval practice vs restudy or note-taking",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\topen-book generative task\tclosed-book generative task": {
+  "label": "closed-book vs open-book",
+  "treatment_is_a": false
+ },
+ "retrieval-practice\tretrieval practice\t?": {
+  "label": "retrieval practice vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice\tgenerative learning activities": {
+  "label": "retrieval practice vs generative learning activities",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice\tworked examples": {
+  "label": "retrieval practice vs worked examples",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice after initial instruction with repeated items\tworked examples after initial instruction with repeated items": {
+  "label": "retrieval practice vs worked examples",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice after initial instruction with varied items\tworked examples after initial instruction with varied items": {
+  "label": "retrieval practice vs worked examples",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice after initial instruction, with varied or repeated items\tworked examples after initial instruction, with varied or repeated items": {
+  "label": "retrieval practice vs worked examples",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice with repeated items and no initial instruction\tworked examples with repeated items and no initial instruction": {
+  "label": "retrieval practice vs worked examples",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice with varied items\tretrieval practice with repeated items": {
+  "label": "varied items vs repeated items",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice with varied items\tworked examples with varied items": {
+  "label": "retrieval practice vs worked examples",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice with varied items and no initial instruction\tworked examples with varied items and no initial instruction": {
+  "label": "retrieval practice vs worked examples",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice without initial instruction on repeated items\tworked examples without initial instruction on repeated items": {
+  "label": "retrieval practice vs worked examples",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice without initial instruction on varied items\tworked examples without initial instruction on varied items": {
+  "label": "retrieval practice vs worked examples",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval-based learning\t?": {
+  "label": "retrieval practice vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\toral-reading feedback combined with rewards or goals\toral-reading feedback without added rewards or goals": {
+  "label": "Added rewards or goals vs no added rewards or goals",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\trewards such as stickers\tother feedback or comparison condition": {
+  "label": "Rewards or incentives vs other feedback or comparison condition",
+  "treatment_is_a": true
+ },
+ "self-explanation\tprompted self-explanation identifying the underlying principle\tno prompt to self-explain": {
+  "label": "prompted self-explanation vs no prompted self-explanation",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced practice with gaps or delays between presentations\tnot stated": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "worked-examples\trepeated worked examples\trepeated retrieval practice": {
+  "label": "worked examples vs retrieval practice",
+  "treatment_is_a": true
+ },
+ "worked-examples\tstudying worked examples\tretrieval practice": {
+  "label": "worked examples vs retrieval practice",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples with repeated items\tretrieval practice with repeated items": {
+  "label": "worked examples vs retrieval practice",
+  "treatment_is_a": true
  }
 }

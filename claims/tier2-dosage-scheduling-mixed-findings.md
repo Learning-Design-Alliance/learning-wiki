@@ -70,3 +70,4 @@ The review reports this randomized first-grade scheduling study comparing three 
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [In the prior 2025 evaluation, Air Tutors showed positive short-term benchmark gains at sufficient dosage but negative short-term statewide effects in the full sample](air-tutors-short-term-effects-varied-by-measure.md) — related
 - [Among students receiving at least 24 hours of Air Tutors tutoring, the program showed no significant impact on statewide summative assessments but a positive, statistically significant impact on district benchmark assessments in both districts (effect sizes 0.13 and 0.33)](air-tutors-24-hour-dosage-benchmark-gains.md) — related
+- [Dosage significantly predicts intervention effects in a linear model (β = 0.03 per hour), but the dosage main effect is no longer significant after controlling for moderators](dosage-slope-nonsignificant-with-moderators.md) — related

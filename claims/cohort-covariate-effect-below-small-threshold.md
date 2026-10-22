@@ -48,3 +48,4 @@ Three-level random-intercept regression models (lme4 in R) compared R2 with and 
 ## Related Claims
 - [One year after emergency remote instruction, Norwegian second-graders showed no statistically significant differences from a pre-pandemic cohort in writing quality, handwriting fluency, or attitude toward writing](covid-writing-losses-dissipated-by-second-grade.md) — related
 - [In the prior first-grade study, the During COVID-19 cohort scored significantly lower than the Before COVID-19 cohort on all three writing measures immediately after remote instruction ended](first-grade-covid-writing-losses-immediately-post-remote.md) — related
+- [Cohort effects on activity emotions are minimal across fourteen years, with cohort accounting for only 0.2% to 1.2% of variance in mean emotion scores](cohort-effects-minimal-activity-emotions.md) — related

@@ -13,7 +13,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (14 for, 4 mixed, 2 against) · 18 studies (11 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 12 of 18 report an effect size · 17 claims rest on one study
+> **Evidence** · 22 claims (15 for, 5 mixed, 2 against) · 20 studies (12 causal, 4 quant-synthesis, 4 review), `q2`–`q4` · 13 of 20 report an effect size · 19 claims rest on one study
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
@@ -55,6 +55,8 @@ Retrieval practice is the element in which learners recall information from memo
 - [Students gave higher judgments of learning after restudy than after retrieval practice in Experiment 2 but not in Experiment 1](../claims/higher-jols-after-restudy-than-retrieval-practice.md) [-W]
 - [Taking a fill-in-the-blank test is more time-consuming than restudying the same material](../claims/fill-in-blank-testing-more-time-consuming-than-restudy.md) [~W]
 - [The memory rating requirement moderated the restudy-versus-retrieval pattern: interference on retrieval trials and facilitation on restudy trials both contributed to the restudy superiority.](../claims/memory-rating-reactivity-moderates-restudy-advantage.md) [~W]
+- [Text quality after initial study moderates whether free recall beats generative tasks](../claims/text-quality-moderates-recall-vs-generative-sequence.md) [~W]
+- [When learners receive initial instruction, retrieval practice yields better generalization than worked examples regardless of item variability](../claims/retrieval-practice-beats-worked-examples-with-initial-instruction.md) [+W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 66 claims (31 for, 28 mixed, 7 against) · 49 studies (12 causal, 10 review, 10 associational, 9 qualitative, 3 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 6 of 49 report an effect size · 62 claims rest on one study
+> **Evidence** · 67 claims (32 for, 28 mixed, 7 against) · 50 studies (12 causal, 11 review, 10 associational, 9 qualitative, 3 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 6 of 50 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -173,6 +173,7 @@ Observed practice, the coached person's students' achievement, persistence, comp
 ## Claims
 
 - [Mentors from marginalised groups are asked to perform disproportionally more mentoring than scholars from privileged backgrounds](../claims/minority-mentors-disproportionate-mentoring-load.md) [~W]
+- [Coach-based and task-based methods are the main fostering methods for LTA across studies](../claims/lta-fostering-methods-distribution.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — coaching often operates through contingent support and gradual release.

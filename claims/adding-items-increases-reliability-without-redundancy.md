@@ -47,3 +47,4 @@ Theoretical argument from the alpha formula: since error variance depends on the
 - [Cronbach's alpha equals the reliability of the scale score under classical test theory, domain sampling, and generalizability theory, and should be interpreted as a reliability coefficient](alpha-is-reliability-coefficient-knowledge-tests.md) — related
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [Alpha of knowledge tests is substantially related to the number of items in the test](knowledge-test-alpha-test-length.md) — a narrower finding that bears on this claim
+- [Cronbach's alpha does not generally indicate the reliability of knowledge tests because knowledge is a heterogeneous construct](alpha-not-reliability-knowledge-tests.md) — related

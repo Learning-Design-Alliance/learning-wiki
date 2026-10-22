@@ -78,3 +78,4 @@ The chapter's own methodological argument: because restudy reexposes the whole s
 - [Retrieval interval length may moderate the testing effect in mathematics: restricting to intervals over one day raises the effect to g = 0.378 (exploratory).](retrieval-interval-moderator-testing-mathematics.md) — related
 - [Testing effect disappears for a coherent complex text but reappears, as reduced forgetting, when the same sentences are scrambled](testing-effect-disappears-coherent-text-reappears-scrambled.md) — related
 - [Retrieval practice yields better delayed test performance than restudy (the testing effect) in both experiments](testing-effect-confirmed-anatomical-image-name-pairs.md) — related
+- [Retrieval-practice-first sequences show small advantages over generative-first in some conditions](retrieval-first-sequence-small-advantage.md) — related

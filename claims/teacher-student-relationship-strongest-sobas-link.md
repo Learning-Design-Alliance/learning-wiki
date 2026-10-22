@@ -50,3 +50,4 @@ Multilevel analyses of survey and test data from 193,073 15-year-old students in
 - [Family, schoolmate, teacher, and student characteristics are linked to SOBAS and account for most of its variance](multi-level-characteristics-linked-sobas.md) — a broader claim this one bears on
 - [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related
+- [The belonging–outcome association is stronger in some cultural groups than others: reported moderation by ethnicity and by individualism–collectivism](structure-oriented-moderation-belonging-outcomes.md) — related

@@ -52,3 +52,4 @@ Analysis of hyperparameter sensitivity for Code-DKT and ECKT (Section 3.3) on Co
 - [There is no universal optimal injection position for the collaborative prior; effectiveness is an architecture-sensitive design choice](injection-strategy-architecture-sensitive.md) — a narrower finding that bears on this claim
 - [ProPRL is sensitive to learning rate but comparatively insensitive to its structural hyperparameters, with propagation depth around 5 capturing most multi-hop benefit](proprl-hyperparameter-sensitivity.md) — related
 - [Diagnostic model performance remains relatively stable across moderate hyperparameter ranges, with 8 attention heads and a 512 hidden dimension yielding optimal results](hyperparameter-stability-oral-diagnostic-model.md) — related
+- [Students' strategy use is partly context-specific and partly individual-bound, varying across courses yet consistent over courses](strategy-use-context-specific-and-individual-bound.md) — related

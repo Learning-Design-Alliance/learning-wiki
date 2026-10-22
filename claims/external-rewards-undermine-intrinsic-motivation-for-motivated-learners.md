@@ -53,3 +53,4 @@ Narrative review attribution within the coaching section on positive reinforceme
 - [Rewards cause people to lose interest in whatever they were rewarded for doing, undermining intrinsic motivation](rewards-undermine-intrinsic-interest.md) — related
 - [Receiving grades is positively associated with achievement and external motivation compared with receiving no performance feedback (review-reported meta-analysis)](grades-versus-no-feedback-koenka.md) — related
 - [Extrinsic motivation to please teachers is positively related to intrinsic motivation among Asian American students but negatively among Caucasian students](extrinsic-intrinsic-positive-link-asian-american.md) — related
+- [Feedback targeting reading self-efficacy had a positive effect on motivation, while error-focused feedback and rewards had mixed effects on long-term interest and engagement](feedback-motivation-self-efficacy-positive-rewards-mixed.md) — related

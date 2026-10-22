@@ -52,3 +52,6 @@ Qualitative theme 3 asked students what forms of support they consider effective
 - [Effort regulation negatively predicts, and general academic help seeking positively predicts, reported AI dependency; time management is non-significant](effort-regulation-buffers-help-seeking-predicts-ai-dependency.md) — related
 - [Mediation effects of self-disclosure preference on interpersonal behaviors are significant in HK adolescents but largely non-significant in US adolescents, where maladaptive coping mediates toward more bullying](self-disclosure-mediation-regional-differences.md) — related
 - [Adolescents proactively use online technologies to unwind, escape stress, and regulate emotions](online-technologies-proactive-emotional-coping.md) — related
+- [Affective reactivity can override adolescents' regulatory intentions for digital engagement](affective-reactivity-overrides-digital-regulation-intentions.md) — related
+- [Digital literacy alone does not guarantee effective digital regulation](digital-literacy-alone-does-not-guarantee-regulation.md) — related
+- [Population-level surveys indicate adolescent digital regulation failures are not rare](hbsc-problematic-social-media-use-prevalence.md) — related

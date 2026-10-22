@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 154 claims (90 show a difference, 47 mixed, 17 no difference) · 125 studies (35 causal, 29 review, 20 theoretical, 16 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 125 report an effect size · 138 claims rest on one study
+> **Evidence** · 155 claims (91 show a difference, 47 mixed, 17 no difference) · 126 studies (35 causal, 29 review, 21 theoretical, 16 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 126 report an effect size · 139 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -202,6 +202,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [The relationship between prior knowledge and knowledge gains shows context-dependent patterns in the CoMSA simulation](../claims/comsa-prior-knowledge-gains-patterns.md) [~M] — learners who differ on it differ in outcomes
 - [Students' rules of operation for signed-number arithmetic are applied inconsistently by non-masters and stably by masters](../claims/arithmetic-rule-use-inconsistent-below-mastery-stable-at-mastery.md) [+M] — learners who differ on it differ in outcomes
 - [Imagining worked examples benefits learners with adequate prior knowledge but harms performance for low-knowledge learners](../claims/imagined-worked-examples-prior-knowledge.md) [~M] — an instructional effect differs with it
+- [Cognitive barriers—insufficient background knowledge or working memory capacity—impede productive engagement in generative learning activities](../claims/cognitive-barriers-impede-glas.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

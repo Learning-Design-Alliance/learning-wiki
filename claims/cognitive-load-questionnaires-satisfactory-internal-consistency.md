@@ -46,3 +46,5 @@ Meta-analysis of 53 articles including 67 experiments (N = 7413 participants) fr
 - [Germane load measurement is problematic: GCL-outcome correlations and item understanding show weaknesses across instruments](germane-load-measurement-problems.md) — related
 - [Reliability estimates of cognitive load questionnaires did not differ between educational settings, instructional domains, presentation modes, or number of scale points](cognitive-load-reliability-invariant-across-moderators.md) — related
 - Correlations of cognitive load types with learning outcomes and prior knowledge support CLT assumptions, and results support the three-factor model — related
+- [The revised questionnaire shows satisfactory internal consistencies for each cognitive load type across Studies 1 and 2](cognitive-load-questionnaire-satisfactory-internal-consistencies.md) — a narrower finding that bears on this claim
+- [Currently available multidimensional cognitive load questionnaires show psychometric limitations, including missing manipulation-check experiments and too few items per factor](psychometric-limitations-existing-clt-questionnaires.md) — reports the opposite

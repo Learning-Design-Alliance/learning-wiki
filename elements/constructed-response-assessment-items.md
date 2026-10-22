@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 46 claims (13 for, 31 mixed, 2 against) · 35 studies (13 design, 9 associational, 6 causal, 3 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 7 of 35 report an effect size · 46 claims rest on one study
+> **Evidence** · 47 claims (14 for, 31 mixed, 2 against) · 36 studies (13 design, 10 associational, 6 causal, 3 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 7 of 36 report an effect size · 47 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -90,6 +90,7 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Removing detailed rubric explanations from prompts improved grading accuracy across all approaches in an ablation study](../claims/simplified-prompts-outperform-detailed-rubrics.md) [~W]
 - [Word count correlates with suggested final grade, with the ordering Gemini Pro > humans > ChatGPT > Gemini among statistically significant correlations (human Spearman's rho = 0.603)](../claims/wordcount-grade-correlation-llm-human.md) [~W]
 - [Open response format is associated with higher Alpha than multiple choice in knowledge tests](../claims/knowledge-test-alpha-response-format.md) [+W]
+- [Cognitive artifact scoring in the digital workbook achieved high intercoder reliability, with average Spearman's rho of 0.97 overall](../claims/high-intercoder-reliability-workbook-scoring.md) [+W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

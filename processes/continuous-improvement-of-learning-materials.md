@@ -14,7 +14,7 @@ grain_size: course
 # Continuous Improvement of Learning Materials
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 11 claims (8 for, 2 mixed, 1 against) · 15 studies (5 quant-synthesis, 4 causal, 2 review, 2 design, 1 associational, 1 qualitative), `q2`–`q4` · 5 of 15 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (8 for, 3 mixed, 1 against) · 16 studies (5 quant-synthesis, 4 causal, 3 review, 2 design, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 16 report an effect size · 9 claims rest on one study
 
 ## Description
 Most design processes end at release. Continuous improvement begins there: the shipped course is treated as the current best hypothesis, instrumented so that every subsequent cohort produces evidence about which of its parts are working, and revised in small, targeted increments rather than in periodic wholesale rewrites.
@@ -81,6 +81,7 @@ This is a *design* process, not an analytics dashboard. Its precondition is a li
 - [Stakeholder survey rated achievability lowest across Framework elements, especially Element 5 (continuous improvement)](../claims/framework-achievability-ratings-low.md) [-W]
 - [HMH Personal Math Trainer use was associated with math gains in grades 4, 5, and 8 but negatively associated in grade 7, and teacher-created assignments showed the strongest association](../claims/hmh-usage-grade-pattern-teacher-created-strongest.md) [~W]
 - [High CI practice shows a statistically significant but small advantage in Δ post-retention change favoring high CI](../claims/ci-small-post-retention-advantage.md) [+W]
+- [Longer eye fixation time is ambiguous between processing difficulty and extra processing effort, so eye movement data should be validated with outcome measures](../claims/fixation-time-ambiguity-validation.md) [~W]
 
 #### Supporting
 - [Feedback is most effective when directed at the task and process rather than the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — the loop is feedback to the *design*, and the same conditions apply: task-level and specific beats global and evaluative

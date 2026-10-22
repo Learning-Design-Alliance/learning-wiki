@@ -73,3 +73,4 @@ Kim and Webb's (2022) meta-analysis supports the benefit of spacing for L2 learn
 - FH2T was evaluated with nine 30-minute sessions spread across one academic year as a supplemental program — related
 - [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related
 - [All 48 reviewed spacing studies obtained the spacing effect using rest-from-deliberate-learning periods](spacing-effect-requires-rest-from-deliberate-learning.md) — related
+- [Spaced practice research addresses the potential for optimal gaps or delays between presentations of the same concept](spaced-practice-optimal-gaps-between-presentations.md) — related

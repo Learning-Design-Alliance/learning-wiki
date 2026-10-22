@@ -151,3 +151,5 @@ Reviewed studies of "wait time" — the duration of pauses separating utterances
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
 - [Across a review of 50 classroom experiments, lessons with question prompts consistently increased student learning compared to lessons without them](retrieval-practice-classroom-review-consistent-benefits.md) — related
+- [Higher-level quiz questions engage learners in generative activities as well as retrieval](higher-level-quiz-questions-engage-generative-activities.md) — related
+- [Implicit feedback via higher- and lower-order questions showed no significant effect on first-graders' reading comprehension](implicit-question-feedback-no-comprehension-effect.md) — related

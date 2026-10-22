@@ -50,3 +50,4 @@ The article reports, citing Tofel-Grehl and Feldon (2013), a meta-analysis of 20
 - [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
 - [Taking and reviewing handwritten notes yields slightly higher achievement than typing notes among college students, by one meta-analysis reported second-hand](handwritten-notes-higher-achievement-than-typing.md) — related
 - [Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65](interleaving-memory-benefit-meta-analysis.md) — related
+- [Fluency training shows the largest intervention effect (g = 1.78) among intervention methods](fluency-training-largest-effect-chinese-children.md) — related

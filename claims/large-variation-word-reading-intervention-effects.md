@@ -51,3 +51,5 @@ Heterogeneity observation from the multilevel meta-analysis of 694 effect sizes 
 - [Substantial unexplained heterogeneity characterises short-term effects of targeted K-6 interventions](substantial-heterogeneity-short-term-effects.md) — related
 - [Label-effect sizes are highly heterogeneous, with variance split between and within studies](label-effect-heterogeneity-multilevel-variance.md) — related
 - [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — related
+- [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
+- [Effect sizes for gender differences in L2 achievement are highly heterogeneous across studies (I² = 89.82%)](high-heterogeneity-l2-gender-effect-sizes.md) — related

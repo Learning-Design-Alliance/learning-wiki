@@ -17,7 +17,7 @@ sources:
 # Implement early-warning systems in real classrooms using easily accessible data and transparent machine learning techniques
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size
 
 ## Description
 The article recommends that SRL support tools such as early-warning systems can be implemented in authentic classrooms without heavy technological investment. As the authors state, "The findings support the implementation of early-warning systems in real classrooms using easily accessible data and transparent machine learning techniques without requiring heavy technological investments." Predictive and explanatory models together allow teachers to understand not just who needs support, but why, while maintaining teachers' agency in human-AI interactions.
@@ -45,6 +45,7 @@ The article recommends that SRL support tools such as early-warning systems can 
 - [Deploy ML-based early-warning prediction to shift retention support from reactive to proactive intervention](ml-early-warning-proactive-retention-support.md)
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](early-warning-system-target-resources-near-term-risks.md)
 - [Build early-warning indicators and leverage online-learning-system process data to support students before gaps widen in Grade 3](early-indicators-online-system-process-data.md)
+- [Use explainable machine learning early warning systems to help teachers identify struggling inquiry learners early](early-warning-system-teacher-support-inquiry.md)
 
 ## Examples
 -

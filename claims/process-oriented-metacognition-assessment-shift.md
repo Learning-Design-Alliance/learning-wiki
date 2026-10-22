@@ -55,3 +55,6 @@ The editor's observational assessment of methodological trends over the last dec
 - [Machine-learning analysis of multimodal classroom indicators can predict student productivity, and prior knowledge becomes relevant later in the regulation process](kubsch-multimodal-prediction-prior-knowledge-timing.md) — related
 - [Motivational and affective dimensions remain underrepresented in multimodal SRL research despite theoretical consensus on their importance](motivation-affect-underrepresented-multimodal-srl.md) — related
 - [Multimodal SRL research shows a historical shift from unimodal toward integrated analytical designs, but motivational and affective dimensions remain underrepresented](srl-multimodal-shift-integrated-designs-motivation-affect-gap.md) — related
+- [Standard descriptive statistics dominate SRL multimodal analysis even in integrated approaches](descriptive-statistics-dominate-srl-analysis.md) — related
+- [Eye tracking can be used to study student engagement, teacher expertise, and teacher-student interaction in naturalistic classroom contexts](eye-tracking-classroom-naturalistic-contexts.md) — related
+- [Multimodal data collection is increasingly common but analyses rarely align data streams temporally](rare-alignment-of-multimodal-data-streams.md) — possibly the same claim (merge candidate)

@@ -54,3 +54,4 @@ Publication bias detection in the cross-sectional meta-analysis using modified E
 - [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — related
 - [The included scaffolding studies show small-study effects, which the Bayesian approach addresses by shrinking overweighted effect sizes](small-study-effects-bma-shrinking.md) — related
 - [No evidence of dissemination bias was detected in the meta-analysis](teacher-growth-mindset-no-dissemination-bias.md) — reports the opposite
+- [Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis](no-publication-bias-math-interventions-co-occurring.md) — related

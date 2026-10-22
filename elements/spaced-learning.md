@@ -13,7 +13,7 @@ generated:
 # Spaced Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (11 for, 6 mixed) · 16 studies (8 causal, 4 quant-synthesis, 4 review), `q2`–`q4` · 3 of 16 report an effect size · 15 claims rest on one study
+> **Evidence** · 18 claims (12 for, 6 mixed) · 17 studies (8 causal, 5 review, 4 quant-synthesis), `q2`–`q4` · 3 of 17 report an effect size · 16 claims rest on one study
 
 ## Description
 Spaced learning is the element in which practice or review is distributed over time rather than massed together.
@@ -38,6 +38,7 @@ Spaced learning is the element in which practice or review is distributed over t
 - [Distributed presentations are recalled better than massed presentations in free recall (the spacing effect), and requiring likelihood ratings does not alter this effect](../claims/spacing-effect-free-recall-dp-beats-mp.md) [+W]
 - [A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition](../claims/within-list-lag-persists-with-interitem-associations.md) [~W]
 - [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](../claims/expanding-uniform-spacing-retention-interval-moderator.md) [~W]
+- [Spaced practice research addresses the potential for optimal gaps or delays between presentations of the same concept](../claims/spaced-practice-optimal-gaps-between-presentations.md) [+W]
 
 ## The evidence by question
 - *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]

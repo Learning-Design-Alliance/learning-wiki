@@ -52,3 +52,4 @@ Random-effects meta-analysis of 25 studies (total N = 6294) pooling Pearson r co
 - [A prior meta-analysis found only a small teacher personality–effectiveness relationship (r = .08), attributed to treating personality as unidimensional and pooling effectiveness measures](prior-teacher-personality-meta-analysis-small-effect.md) — related
 - [Teacher Big Five domains show their largest associations with burnout for emotional stability and conscientiousness, but none of the burnout effects are statistically significant](teacher-personality-burnout-null-findings.md) — related
 - Associations between teacher personality and effectiveness vary substantially across studies, justifying moderator analysis — related
+- [Most extracted associations are small: 219 of nearly 500 coefficients fall below a medium effect size, with conscientiousness–academic adjustment (.64) the largest](mostly-small-associations-conscientiousness-largest.md) — related

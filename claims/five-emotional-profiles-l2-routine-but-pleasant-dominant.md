@@ -45,3 +45,4 @@ Gaussian mixture clustering of pooled momentary emotion ratings from the 21-day 
 ## Related Claims
 - [Writing shifts episodes toward the Intense but Engaging profile (OR = 1.24) and classroom settings toward Stressful and Tedious (OR = 1.48), but the classroom effect likely reflects modality mix](modality-classroom-effects-emotional-profiles-gee.md) — a narrower finding that bears on this claim
 - [Time-series forecasting with TabPFN-TS markedly improves prediction of next-episode emotions and perceived proficiency over a static model (e.g., anxiety R² 0.458→0.866; boredom 0.596→0.953)](tabpfn-ts-forecasting-l2-emotions-high-accuracy.md) — related
+- [Latent profile analysis of four learning-related achievement emotions yields a five-class solution: four academic-control gradient profiles plus a distinct high-boredom profile](five-latent-emotion-profiles-lpa.md) — related

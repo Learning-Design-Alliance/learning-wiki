@@ -53,3 +53,4 @@ Mixed-effects multilevel regression of spring 2022 SCCS elementary student data 
 - [Students reported significantly higher perception of instructor Caring on the MUSIC Inventory in Fall 2025 after DURA course updates](dura-updates-higher-music-caring-perception.md) — related
 - [MindMatters evaluations show improved resilience and school climate, with modest overall effects in the German secondary-school adaptation](mindmatters-evaluation-mixed-effects.md) — related
 - [Teachers' empathetic caring is associated with stronger mathematics classroom connectedness among Black and Latine students than transactional care](empathetic-care-math-connectedness.md) — related
+- [The five MUSIC model motivational climate components are positively related to students' engagement, domain identification, course ratings, and achievement, per a recent meta-analysis](music-model-components-positive-relations.md) — related

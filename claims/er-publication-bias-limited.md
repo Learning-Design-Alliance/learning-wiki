@@ -51,3 +51,6 @@ Publication-bias assessment of the meta-analytic dataset: a funnel plot of overa
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
 - [Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample](no-publication-bias-teacher-self-efficacy-meta-analysis.md) — related
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
+- [No evidence of publication bias was found in the achievement goal–dishonesty literature](no-publication-bias-goal-dishonesty.md) — related
+- [No evidence of publication bias was detected in the pooled L2 gender-difference literature](no-publication-bias-l2-gender-meta-analysis.md) — related
+- [Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis](no-publication-bias-math-interventions-co-occurring.md) — related

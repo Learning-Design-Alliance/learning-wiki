@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 54 claims (29 show a difference, 17 mixed, 8 no difference) · 26 studies (10 associational, 6 review, 4 causal, 3 quant-synthesis, 3 theoretical), `q2`–`q4` · 11 of 26 report an effect size · 52 claims rest on one study
+> **Evidence** · 59 claims (31 show a difference, 19 mixed, 9 no difference) · 27 studies (10 associational, 6 review, 4 causal, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 12 of 27 report an effect size · 57 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -89,6 +89,11 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Mastery aims are strongly bound to autonomous reasons and only weakly to controlled reasons](../claims/mastery-aims-bound-to-autonomous-reasons.md) [+M] — learners who differ on it differ in outcomes
 - [Performance aims are ambiguously aligned, tied nearly equally to autonomous and controlled reasons](../claims/performance-aims-ambiguously-aligned-with-reasons.md) [-M] — learners who differ on it differ in outcomes
 - [Positive links between intrinsic life aspirations and performance goals appear only in athletic samples, not classical educational contexts](../claims/intrinsic-aspirations-performance-goals-athletic-contexts.md) [~W] — learners who differ on it differ in outcomes
+- [Educational level moderates the mastery-approach–dishonesty association, with no correlation in elementary samples](../claims/educational-level-moderates-mastery-approach-dishonesty.md) [~W] — learners who differ on it differ in outcomes
+- [Mastery goals are negatively associated with academic dishonesty across studies](../claims/mastery-goals-negative-academic-dishonesty.md) [+M] — learners who differ on it differ in outcomes
+- [Mastery-avoidance goals show no significant association with academic dishonesty](../claims/mastery-avoidance-null-dishonesty.md) [-W] — learners who differ on it differ in outcomes
+- [Performance goals show heterogeneous, near-zero average associations with academic dishonesty](../claims/performance-goals-heterogeneous-dishonesty.md) [~W] — learners who differ on it differ in outcomes
+- [Work-avoidance goals show a small positive association with academic dishonesty](../claims/work-avoidance-goals-positive-dishonesty.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -51,3 +51,4 @@ A series of computer-based visual pattern copying experiments (Grinschgl, Papenm
 - [In one preregistered experiment, metacognitive feedback on learners' own LLM use lowered the odds of answer offloading and raised the odds of a correct unaided answer on one-sided tests, with 95% intervals reaching no effect](metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance.md) — related
 - [Substitutive offloaders show severe performance decline when external stores become unavailable, while duplicative offloaders maintain accuracy](substitutive-duplicative-offloading-outcomes.md) — related
 - [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](ai-offloading-stifles-early-development.md) — related
+- [Cognitive offloading does not guarantee representational permanence and memory can suffer if the external record becomes unavailable](offloading-does-not-guarantee-permanence.md) — related

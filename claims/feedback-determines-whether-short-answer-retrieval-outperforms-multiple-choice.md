@@ -96,3 +96,4 @@ The chapter reports Little et al. (2012), who found multiple-choice better witho
 - [Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful](mc-testing-effect-and-net-harm-boundary.md) — related
 - [In authentic undergraduate courses, taking more voluntary practice tests predicts higher final-exam performance, with and without corrective feedback](practice-test-frequency-predicts-exam-performance.md) — related
 - [Students who received corrective feedback post-processed practice tests more intensely and rated the tests as more useful for monitoring than students without feedback](feedback-raises-post-processing-and-perceived-usefulness.md) — related
+- [Retrieval-based learning research emphasizes both direct and indirect effects of retrieval on learning](retrieval-based-learning-direct-indirect-effects.md) — related

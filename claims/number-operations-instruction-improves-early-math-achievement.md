@@ -69,3 +69,4 @@ Across the reviewed WWC-standards studies of curricula focused on number and ope
 - [Block Play Predicts Math Achievement](block-play-predicts-math-achievement.md) — related
 - [All five of the guide's data-use recommendations are supported by low levels of evidence](data-use-recommendations-low-evidence.md) — related
 - [Studies relying exclusively on the Applied Problems subtest are likely to miss small but meaningful influences on early math achievement because the measure is less sensitive to variation among young children](applied-problems-misses-small-moderation-effects.md) — related
+- [Instructional focus (number and operations vs. word-problem solving) and intervention implementer (researcher vs. school personnel) did not significantly predict effect sizes or moderate the dose–response relation](focus-and-implementer-null-moderators.md) — related

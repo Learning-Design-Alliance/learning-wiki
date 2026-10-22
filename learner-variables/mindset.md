@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 40 claims (22 show a difference, 14 mixed, 4 no difference) · 21 studies (8 associational, 5 review, 3 causal, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 5 of 21 report an effect size · 38 claims rest on one study
+> **Evidence** · 42 claims (23 show a difference, 14 mixed, 5 no difference) · 22 studies (8 associational, 5 review, 4 causal, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 6 of 22 report an effect size · 40 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -71,6 +71,8 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Teachers' growth mindset is positively associated with their self-efficacy (r = .180)](../claims/teacher-growth-mindset-self-efficacy-association.md) [+M] — learners who differ on it differ in outcomes
 - [Teachers' growth mindset is unrelated to performance-approach goals, performance-avoidance goals, teachers' test performance, and student achievement](../claims/teacher-growth-mindset-null-performance-student-achievement.md) [-M] — learners who differ on it differ in outcomes
 - [Teachers' growth mindset shows a small positive overall association with combined teacher, instructional, and student outcomes (r = .111)](../claims/teacher-growth-mindset-small-overall-association.md) [+M] — learners who differ on it differ in outcomes
+- [A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type](../claims/growth-mindset-no-effect-vocabulary-learning.md) [-M] — instruction changes it
+- [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](../claims/mindset-belief-fostered-without-outcome-change.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

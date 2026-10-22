@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 213 claims (98 for, 107 mixed, 8 against) · 159 studies (51 associational, 43 causal, 23 review, 16 quant-synthesis, 13 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 37 of 159 report an effect size · 197 claims rest on one study
+> **Evidence** · 216 claims (100 for, 108 mixed, 8 against) · 161 studies (51 associational, 43 causal, 24 review, 16 quant-synthesis, 14 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 37 of 161 report an effect size · 200 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -260,6 +260,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Effects of monitoring tools are highest when tools address both learning content and learning behavior and stimulate metacognitive monitoring](../claims/monitoring-tool-moderators-focus-and-type.md) [+W]
 - [Mental effort and judgments of learning show a medium-sized negative correlation, moderated by regulation mode and task type](../claims/mental-effort-jol-negative-correlation-moderators.md) [~W]
 - [Monitoring tools show low effects on learning motivation (d = 0.17)](../claims/monitoring-tools-motivation-d017.md) [~W]
+- [Explicit strategy instruction, unlike implicit strategy instruction, is associated with a gain in student performance](../claims/explicit-strategy-instruction-associated-with-performance-gain.md) [+W] — attached 2026-10-22 from Charlotte Dignath et al. (2021), which proposed "Framework of direct and indirect teacher approaches to activate self-regulated learning".
+- [Teachers' direct instructional support is associated with students' use of self-regulation strategies, while autonomy as indirect activation was negatively associated with reading performance](../claims/direct-support-strategy-use-autonomy-negative-reading.md) [+W]
+- [Adolescent digital self-regulation is enacted through a typology of four strategy types differing in executive effort versus external scaffolding](../claims/adolescent-digital-self-regulation-strategy-typology.md) [~W]
 
 ## The evidence by question
 

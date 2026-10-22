@@ -13,7 +13,7 @@ generated:
 # Research Data Collection Methods
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 3 studies (2 causal, 1 review), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 4 studies (2 causal, 2 review), `q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 People tend to change their behavior when they know they're being watched — the **Hawthorne effect**. Observational research can be done **naturalistically**, in the participants' natural environment where they are usually unaware they're being observed (reducing the likelihood of the Hawthorne effect), or in a **laboratory** setting, where the researcher can control confounding factors and distractions at the cost of ecological validity and the expense of maintaining the controlled setting. A naturalistic classroom observation loses control — a substitute teacher on the observation day, for instance, could change student behavior and skew the data — that a laboratory setting would avoid, but at the price of studying behavior somewhat removed from its natural context.
@@ -42,6 +42,7 @@ People tend to change their behavior when they know they're being watched — th
 - [End-of-course survey respondents strongly recommended the chatbot, but attitudinal outcomes showed no consistent treatment effects and survey participation was differentially selective](../claims/chatbot-student-attitudes-null-survey-selective.md) [-W]
 - [Observation scores and student surveys were moderately correlated with student learning and likely captured different dimensions of teaching quality](../claims/ratings-moderately-correlated-with-student-learning.md) [+M]
 - [Most school-based intensive longitudinal studies collect data digitally (65.3%), and paper-and-pencil use has decreased significantly since 2020](../claims/ilm-digital-data-collection-majority.md) [~W]
+- [Eye tracking can be used to study student engagement, teacher expertise, and teacher-student interaction in naturalistic classroom contexts](../claims/eye-tracking-classroom-naturalistic-contexts.md) [+W]
 
 ## Related Elements
 

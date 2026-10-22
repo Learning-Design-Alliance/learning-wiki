@@ -47,3 +47,4 @@ The review reports, citing Beege et al. (2020), two experiments (N = 229, 80% fe
 - [Pointing and tracing gestures improved retention and comprehension over no gesturing (review attributes this to Macken & Ginns, 2014)](pointing-tracing-gestures-improve-retention-comprehension.md) — related
 - [Observing gestures aids recall more when gestures provide complementary rather than redundant information (review attributes this to Austin et al., 2018)](nonredundant-observed-gestures-aid-recall.md) — related
 - [Only low-working-memory-capacity students benefited from making pointing gestures when explaining number equations (review attributes this to Marstaller & Burianová, 2013)](low-wmc-students-benefit-from-pointing-gestures.md) — related
+- [Observing typical gestures significantly benefits narrative comprehension compared with atypical or no gestures, which do not differ significantly](typical-gestures-benefit-narrative-comprehension.md) — related

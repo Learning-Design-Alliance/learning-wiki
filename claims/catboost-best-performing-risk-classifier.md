@@ -54,3 +54,4 @@ Model evaluation using a modified k-fold cross-validation training on nine cours
 - [k-nearest neighbours achieves the highest recall of the tested models, making it better suited when identifying which students know a topic matters](knn-highest-recall-for-identifying-students.md) — related
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — a broader claim this one bears on
 - [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related
+- [Boosting models (XGBoost) achieved the highest predictive accuracy among the compared ML models, while logistic regression showed the lowest](boosting-highest-accuracy-logistic-lowest.md) — related

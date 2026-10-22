@@ -96,3 +96,4 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [Test anxiety correlates negatively with math achievement at a pooled r = −.23, weaker than math anxiety's correlation](test-anxiety-negative-correlation-math-achievement.md) — related
 - [Conscientiousness is robustly associated with academic performance across primary, secondary, and tertiary education, with openness the next strongest predictor](conscientiousness-predicts-academic-performance-review.md) — related
 - [Spatial ability scores are positively associated with mathematics performance across children and adults, as the review reports](spatial-ability-associated-mathematics-performance.md) — a narrower finding that bears on this claim
+- [The inhibitory control–mathematical ability correlation does not differ across domains of mathematical ability](no-domain-moderation-inhibitory-control-math.md) — a narrower finding that bears on this claim

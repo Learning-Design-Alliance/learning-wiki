@@ -44,7 +44,7 @@ Experiment with 256 undergraduate computer literacy students randomly assigned w
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*After a model, does practice with support and feedback produce better unaided performance than no practice or unguided practice?* This table gathers the studies behind this claim and the 22 narrower claims that bear on it: **31 distinct studies** (12 causal, 7 review, 7 theoretical, 3 qualitative, 1 quant-synthesis, 1 kind not coded), `q1`–`q4`, 1 of 31 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*After a model, does practice with support and feedback produce better unaided performance than no practice or unguided practice?* This table gathers the studies behind this claim and the 22 narrower claims that bear on it: **31 distinct studies** (12 causal, 8 review, 7 theoretical, 3 qualitative, 1 quant-synthesis), `q1`–`q4`, 1 of 31 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -71,7 +71,7 @@ Experiment with 256 undergraduate computer literacy students randomly assigned w
 | [Kalyuga et al. 1998](https://doi.org/10.1518/001872098779480587) | q3 · causal · r? | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | Obikwelu 2013 | q1 · theoretical · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | [Slava Kalyuga 2010](https://doi.org/10.1007/s11251-009-9102-0) | q2 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
-| [Leonard Tetzlaff 2021](https://doi.org/10.1007/s10648-020-09570-w) | q2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
+| [Leonard Tetzlaff 2021](https://doi.org/10.1007/s10648-020-09570-w) | q2 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | [van Merriënboer et al. 2006](https://doi.org/10.1002/acp.1250) | q2 · theoretical · r? | i? | [A training-design argument, not tested by any study recorded here, holds that practising w](whole-task-performance-improves-transfer.md) (qualifies) |
 | [Aydinbek C 2022](https://doi.org/10.5897/err2022.4230) | q2 · review · r2 | i? | [Practice of grammar rules improves only the practiced skill, showing skill specificity of ](skill-specificity-l2-grammar-practice.md) (qualifies); [Automatization of L2 skills requires extensive practice in a consistent environment, not r](automatization-requires-practice-consistent-environment.md) (qualifies) |
 | [Robert M. DeKeyser 1997](https://doi.org/10.1017/s0272263197002040) | q3 · causal · r? | i? | [Practice of grammar rules improves only the practiced skill, showing skill specificity of ](skill-specificity-l2-grammar-practice.md) (qualifies) |

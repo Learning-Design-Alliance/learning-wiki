@@ -47,3 +47,4 @@ Study 1 (N = 100) free recall model showed a significant main effect of emotiona
 - [Instructing adults to gesture while reading narratives aloud hindered free recall relative to spontaneous gesturing (Study 1)](instructed-gesture-hinders-narrative-free-recall.md) — related
 - [Gesture instructions impaired narrative recall only for participants with average or above-average verbal memory, not those below average (Study 1)](gesture-instruction-harms-recall-high-verbal-memory.md) — related
 - [Emotional valence consistently influences narrative recall, with negative narratives most memorable, while instructed gesturing shows mixed effectiveness](emotional-valence-narrative-recall-gesture-mixed.md) — a broader claim this one bears on
+- [Gesture effects on narrative comprehension are not moderated by total task difficulty or age when measured through free recall and specific questions](gesture-comprehension-not-moderated-by-difficulty-or-age.md) — related

@@ -51,3 +51,4 @@ Zero-order correlational analysis on the full sample (descriptive statistics in 
 - [Invested mental effort and perceived task difficulty are strongly correlated yet relate differently to relative task difficulty, indicating the two ratings measure different aspects of overall cognitive load](mental-effort-and-task-difficulty-ratings-differ.md) — related
 - [University students spent longer processing time watching two complementary videos than reading two complementary digital texts](videos-longer-processing-time-than-texts.md) — related
 - [No significant medium, context, or interaction effects on integration of information across complementary texts or videos](no-medium-context-effect-integration.md) — related
+- [Longer eye fixation time is ambiguous between processing difficulty and extra processing effort, so eye movement data should be validated with outcome measures](fixation-time-ambiguity-validation.md) — related

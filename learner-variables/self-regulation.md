@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 177 claims (124 show a difference, 32 mixed, 21 no difference) · 129 studies (34 associational, 32 causal, 31 review, 13 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 26 of 129 report an effect size · 168 claims rest on one study
+> **Evidence** · 178 claims (125 show a difference, 32 mixed, 21 no difference) · 130 studies (34 associational, 32 causal, 32 review, 13 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 26 of 130 report an effect size · 169 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -226,6 +226,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](../claims/preschool-ef-predicts-mathematics.md) [+M] — learners who differ on it differ in outcomes
 - [For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies were associated with stronger overestimation, with openness associated only for predictions](../claims/inference-bias-predictors.md) [+M] — learners who differ on it differ in outcomes
 - [Monitoring tools show low effects on self-regulated learning (d = 0.19)](../claims/monitoring-tools-srl-d019.md) [-W] — instruction changes it
+- [Regular and explicit teacher addressing of metacognitive strategies is linked to students applying more metacognitive strategies over time](../claims/explicit-metacognitive-addressing-increases-student-strategy-use.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

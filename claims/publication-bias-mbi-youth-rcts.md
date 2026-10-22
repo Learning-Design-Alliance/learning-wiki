@@ -56,3 +56,4 @@ Begg's funnel plots and Egger's regressions conducted for each meta-analysis. Th
 - [Publication bias is indicated for the performance-approach and performance-avoidance anxiety effects but not for the depression effects](publication-bias-performance-goal-anxiety-effects.md) — related
 - [Funnel-plot asymmetry indicates small-study effects for some emotion–learning models](funnel-plot-asymmetry-emotion-learning-models.md) — related
 - [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](publication-bias-overall-dt.md) — related
+- [No evidence of publication bias was found in the achievement goal–dishonesty literature](no-publication-bias-goal-dishonesty.md) — related

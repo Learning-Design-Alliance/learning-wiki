@@ -46,6 +46,7 @@ The article recommends that research on pedagogical agents move beyond performan
 - [Pair convenient platform analytics with transparent, education-specific evaluation criteria rather than trusting either alone](pair-platform-analytics-with-transparent-criteria.md)
 - [Evaluate LLM-supported learning beyond binary access by measuring enacted interaction and preserving no-help assessments](evaluate-llm-learning-beyond-access.md)
 - [Expand research methodologies to monitor learning processes during multimedia instruction](expand-methodologies-monitor-multimedia-learning-processes.md)
+- [Future eye tracking research in education should examine interacting pairs and groups, emotions, and combinations with other process measures](eye-tracking-future-directions-classroom.md)
 
 ## Examples
 -

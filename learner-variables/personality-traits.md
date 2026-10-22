@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 51 claims (29 show a difference, 14 mixed, 8 no difference) · 23 studies (12 review, 5 associational, 3 quant-synthesis, 2 causal, 1 theoretical), `q2`–`q4` · 7 of 23 report an effect size · 51 claims rest on one study
+> **Evidence** · 53 claims (31 show a difference, 14 mixed, 8 no difference) · 25 studies (12 review, 5 quant-synthesis, 5 associational, 2 causal, 1 theoretical), `q2`–`q4` · 9 of 25 report an effect size · 53 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -86,6 +86,8 @@ Personality traits are relatively stable individual differences, most often meas
 - [Conscientiousness is robustly associated with academic performance across primary, secondary, and tertiary education, with openness the next strongest predictor](../claims/conscientiousness-predicts-academic-performance-review.md) [+M] — learners who differ on it differ in outcomes
 - [In trait-change interventions, participants who completed more trait-relevant behavioural challenges showed greater trait change over 15 weeks](../claims/behavioural-challenges-produce-trait-change.md) [+M] — instruction changes it
 - [Personality traits change across the lifespan and in response to interventions, with the greatest change in adolescence and early adulthood](../claims/personality-traits-are-malleable.md) [+M] — instruction changes it
+- [Most extracted associations are small: 219 of nearly 500 coefficients fall below a medium effect size, with conscientiousness–academic adjustment (.64) the largest](../claims/mostly-small-associations-conscientiousness-largest.md) [+M] — learners who differ on it differ in outcomes
+- [Neuroticism and disengagement coping are the strongest negative predictors of teacher wellbeing](../claims/neuroticism-disengagement-coping-negative-predictors.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

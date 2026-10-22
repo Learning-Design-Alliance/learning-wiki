@@ -48,6 +48,7 @@ The article recommends that identifying the students most likely to have certain
 - [Use early cheating-risk predictions only for low-stakes support with human review, never for disciplinary decisions](support-oriented-use-of-cheating-risk-predictions.md)
 - [Use early-session timing signals, interpreted relative to proficiency, to identify students needing adaptive support](early-session-timing-signals-target-adaptive-support.md)
 - [Implement early-warning systems in real classrooms using easily accessible data and transparent machine learning techniques](early-warning-systems-accessible-data-transparent-ml.md)
+- [Use explainable machine learning early warning systems to help teachers identify struggling inquiry learners early](early-warning-system-teacher-support-inquiry.md)
 
 ## Examples
 -

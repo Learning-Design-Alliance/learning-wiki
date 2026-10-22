@@ -53,3 +53,4 @@ Theoretical argument in the commentary about measurement limits: relying on self
 - [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](reflective-scaffolding-habituation-deskilling.md) — related
 - [Engagement inferred from log data must be treated with caution because digital traces reflect unevenly distributed social and material conditions](log-data-engagement-inference-caution.md) — related
 - [Overall validity of eye-tracking measures of learning in IVR is limited, averaging 1.93 of 4, with data quality the weakest component](ivr-eye-tracking-overall-validity-limited.md) — related
+- [Longer eye fixation time is ambiguous between processing difficulty and extra processing effort, so eye movement data should be validated with outcome measures](fixation-time-ambiguity-validation.md) — a narrower finding that bears on this claim

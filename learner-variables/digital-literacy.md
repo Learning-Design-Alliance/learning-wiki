@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 50 claims (36 show a difference, 7 mixed, 7 no difference) · 41 studies (15 associational, 9 causal, 5 review, 5 qualitative, 3 quant-synthesis, 3 design, 1 theoretical), `q1`–`q4` · 9 of 41 report an effect size · 48 claims rest on one study
+> **Evidence** · 52 claims (36 show a difference, 9 mixed, 7 no difference) · 42 studies (15 associational, 9 causal, 5 review, 5 qualitative, 3 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 9 of 42 report an effect size · 50 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -84,6 +84,8 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Digital technology in family–school partnerships provides new opportunities but raises concerns for families with limited access or digital skills](../claims/digital-technology-opportunities-and-access-concerns.md) [~M] — an instructional effect differs with it
 - [The multilevel digital divide presents multiple challenges for parents in technology-integrated family–school partnerships](../claims/multilevel-digital-divide-challenges-parents-partnerships.md) [+M] — an instructional effect differs with it
 - [The second-level digital divide (skills and usage gaps) limits the benefits of technology-integrated family–school partnerships for many parents](../claims/second-level-digital-divide-limits-partnership-benefits.md) [+M] — an instructional effect differs with it
+- [Digital literacy alone does not guarantee effective digital regulation](../claims/digital-literacy-alone-does-not-guarantee-regulation.md) [~W] — learners who differ on it differ in outcomes
+- [Digital literacy develops unevenly rather than robustly for many adolescents](../claims/uneven-digital-literacy-development-unicef.md) [~W] — instruction changes it
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

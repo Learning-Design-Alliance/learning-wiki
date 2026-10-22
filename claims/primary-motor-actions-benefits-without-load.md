@@ -46,3 +46,4 @@ The review summarizes several studies applying the biologically primary/secondar
 - [Tracing along a poster displaying a cycle reduced extraneous cognitive load and improved learning outcomes](tracing-water-cycle-reduces-extraneous-load.md) — related
 - [Five-year-olds recall more words in a Brown-Peterson task when they finger-track a transparent goal cue during the retention interval](finger-tracking-transparent-goal-cue-improves-5yo-recall.md) — related
 - [Students used visualizations to verify their own reasoning rather than as primary explanation tools, valuing control over their cognitive effort (agency)](agency-control-over-cognitive-effort.md) — related
+- [Learning biologically primary words is perceived as less difficult and less effortful than learning biologically secondary words](primary-words-less-difficulty-effort.md) — related

@@ -53,3 +53,5 @@ Moderator analyses on immediate posttests found no significant effects for immig
 - [Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students](implementation-duration-community-moderators.md) — related
 - [Participant background (local vs. immigrant) did not significantly moderate the attitude–proficiency association](participant-background-null-moderator.md) — related
 - [No coded study characteristics moderated the emotion–political learning associations in Bayesian regularized meta-analysis](no-moderators-emotion-political-learning.md) — related
+- [Associations with teacher wellbeing are moderated by sample type (in-service vs pre-service) and educational setting, while age and education show nonsignificant associations](moderators-sample-type-educational-setting.md) — related
+- [Most study characteristics (publication year, mean age, sampling, target language, L2 major, proficiency, measure, mode) do not significantly moderate the gender gap](non-significant-moderators-l2-gender-gap.md) — related

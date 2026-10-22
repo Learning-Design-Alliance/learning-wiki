@@ -58,8 +58,10 @@ Vocabulary instruction works best when the words taught are ones learners will a
 5. For learners with needs outside the group consensus, assign individualized word sets with tailored resources and check progress at [Check-Ins](../elements/check-in.md).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — linking new words to known concepts strengthens encoding
 - [Acting-Role-Play](../strategies/acting-role-play.md) — a productive-use format that makes new vocabulary communicatively necessary
+- [Sequence vocabulary curricula to present primary knowledge content first and set evolutionarily relevant contexts](primary-content-first-vocabulary-instruction.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — productive use is the consolidation step; presentation alone rarely sticks

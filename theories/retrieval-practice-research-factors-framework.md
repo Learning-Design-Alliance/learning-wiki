@@ -17,7 +17,7 @@ sources:
 # Retrieval Practice Experiment Architecture and Factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (7 for, 7 mixed) · 16 studies (11 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q3`–`q4` · 9 of 16 report an effect size · 13 claims rest on one study
+> **Evidence** · 16 claims (7 for, 9 mixed) · 18 studies (12 causal, 3 quant-synthesis, 2 review, 1 theoretical), `q2`–`q4` · 10 of 18 report an effect size · 15 claims rest on one study
 
 ## Description
 The chapter's organizing framework: learners study materials, a retrieval practice condition completes initial retrieval activities while a control does not, and all take a final criterial assessment. The factors explored include "aspects of the initial retrieval practice conditions, the conditions of the ﬁnal criterial assessment, characteristics of the learners, the nature of the materials, and the setting of the study", which structure the chapter's sections.
@@ -53,6 +53,8 @@ The chapter's organizing framework: learners study materials, a retrieval practi
 - [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](../claims/retrieval-practice-review-50-classroom-experiments.md) [~W]
 - [In Study 1, the three conditions did not differ significantly on the immediate post-test of conceptual knowledge](../claims/chattutor-immediate-posttest-null-study1.md) [~W]
 - [Taking an immediate plus delayed final test yields higher delayed test performance with less invested effort than taking only a delayed test (Experiment 2)](../claims/immediate-plus-delayed-test-advantage-exp2.md) [+W]
+- [Higher-level quiz questions engage learners in generative activities as well as retrieval](../claims/higher-level-quiz-questions-engage-generative-activities.md) [~W]
+- [When learners receive initial instruction, retrieval practice yields better generalization than worked examples regardless of item variability](../claims/retrieval-practice-beats-worked-examples-with-initial-instruction.md) [~W]
 
 ## Related Theories
 - 

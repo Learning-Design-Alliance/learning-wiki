@@ -49,3 +49,4 @@ The review reports, citing Müller et al. (2018), a multimodal low-rapport detec
 - [AI-powered multimodal approaches tracking emotional and physiological responses increase student engagement and motivation in collaborative learning](ai-multimodal-monitoring-increases-engagement.md) — related
 - [SHAP modality attributions aligned with each BARS dimension's behavioral focus, supporting interpretable feedback](shap-modality-contributions-align-with-bars-dimensions.md) — related
 - [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](middle-grades-grades-attendance-best-prediction.md) — related
+- [Combining eye tracking with other process measures such as machine vision features provides useful information about student engagement](multimodal-engagement-measurement.md) — related

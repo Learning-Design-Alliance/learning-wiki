@@ -50,3 +50,4 @@ Meta-analytic subset of the systematic review comparing interleaved versus block
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — possibly the same claim (merge candidate)
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — related
 - [Interleaved practice yields better category learning than blocked practice, and students who choose interleaved practice outperform those who choose blocked practice on novel materials](interleaving-effect-category-learning-paintings.md) — possibly the same claim (merge candidate)
+- [Interleaving—presenting different concepts in alternation rather than repeating the same concept—improves students' discrimination among similar concepts, terms, and principles](interleaving-improves-discrimination-similar-concepts.md) — related

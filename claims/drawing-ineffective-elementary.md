@@ -66,3 +66,4 @@ Van Meter et al. (2006) compared fourth- and sixth-graders: only sixth-graders b
 - [Learning by drawing outperforms text-based strategies but is often less effective than studying pre-made drawings, with guidance and drawing training as key determinants](drawing-beats-text-loses-to-premade-visuals.md) — related
 - [Instructional drawing support does not significantly improve students' comprehension or transfer compared with unsupported drawing overall](drawing-support-no-overall-effect.md) — reports the opposite
 - [Generating questions is effective for university students but likely ineffective for younger elementary students, working at intermediate ages only with instructional scaffolding](question-generation-ineffective-young.md) — related
+- [Drawing to learn shows positive effects on learning performance compared with non-generative and text-focused learning strategies](drawing-beats-text-focused-strategies.md) — related

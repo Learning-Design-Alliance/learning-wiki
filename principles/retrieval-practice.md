@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 115 claims (56 for, 50 mixed, 9 against) · 49 studies (20 causal, 11 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 18 of 49 report an effect size · 108 claims rest on one study
+> **Evidence** · 121 claims (56 for, 56 mixed, 9 against) · 51 studies (20 causal, 13 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 18 of 51 report an effect size · 114 claims rest on one study
 
 ## Conditional relationship
 
@@ -241,6 +241,12 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [In the author's cited longitudinal classroom experiments, lessons with retrieval practice raised course grades from a C to an A level, and three spaced retrieval opportunities were optimal even nine months later](../claims/classroom-experiments-retrieval-grades-and-spacing.md) [+M]
 - [The memory rating requirement moderated the restudy-versus-retrieval pattern: interference on retrieval trials and facilitation on restudy trials both contributed to the restudy superiority.](../claims/memory-rating-reactivity-moderates-restudy-advantage.md) [~W]
 - [The restudy advantage in Experiment 1 was not explained by longer exposure during the memory rating: restudy participants spent the least time on the rating.](../claims/restudy-advantage-not-explained-by-rating-exposure.md) [-W]
+- [Higher-level quiz questions engage learners in generative activities as well as retrieval](../claims/higher-level-quiz-questions-engage-generative-activities.md) [~W]
+- [Retrieval practice mainly improves metamemory whereas generative activities mainly improve metacomprehension](../claims/metamemory-versus-metacomprehension-indirect-effects.md) [~W]
+- [Retrieval-based learning research emphasizes both direct and indirect effects of retrieval on learning](../claims/retrieval-based-learning-direct-indirect-effects.md) [~W]
+- [Retrieval practice research extends to determining the optimal amount of practice testing for individual students](../claims/optimal-amount-of-practice-testing-individual-students.md) [~W]
+- [Retrieval-practice-first sequences show small advantages over generative-first in some conditions](../claims/retrieval-first-sequence-small-advantage.md) [~W]
+- [Text quality after initial study moderates whether free recall beats generative tasks](../claims/text-quality-moderates-recall-vs-generative-sequence.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

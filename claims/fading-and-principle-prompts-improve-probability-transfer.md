@@ -53,3 +53,4 @@ Experiment 1 randomized 78 university students in a 2×2 design. Tasks taught pr
 - [Adding a self-explanation feature to a base game improved transfer performance](self-explanation-feature-improved-game-transfer.md) — related
 - [Learners learned most about those principles that were faded](learners-learn-most-about-faded-principles.md) — related
 - [Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied](journal-writing-improves-outcomes-with-support.md) — related
+- [Learning from examples depends on the explaining mode: prompting principle-based self-explanations and guided comparison of examples improves transfer](examples-facilitate-explaining.md) — possibly the same claim (merge candidate)

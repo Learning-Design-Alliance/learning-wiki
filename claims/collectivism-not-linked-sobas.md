@@ -47,3 +47,4 @@ In the multilevel analyses of survey and test data from 193,073 15-year-old stud
 - [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](teacher-student-relationship-strongest-sobas-link.md) — related
 - [Students in more egalitarian cultures often have higher sense of belonging at school than students in more hierarchical cultures](egalitarian-cultures-higher-sobas.md) — related
 - [Family, schoolmate, teacher, and student characteristics are linked to SOBAS and account for most of its variance](multi-level-characteristics-linked-sobas.md) — related
+- [The belonging–outcome association is stronger in some cultural groups than others: reported moderation by ethnicity and by individualism–collectivism](structure-oriented-moderation-belonging-outcomes.md) — related

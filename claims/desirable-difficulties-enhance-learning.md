@@ -161,3 +161,5 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [Interleaved practice outperformed blocked practice across eight STEM classrooms](interleaving-beats-blocking-across-stem-classes.md) — related
 - [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](fluency-misleads-judgments-of-learning.md) — related
 - [Interleaved practice yields better category learning than blocked practice, and students who choose interleaved practice outperform those who choose blocked practice on novel materials](interleaving-effect-category-learning-paintings.md) — related
+- [Feedback likely supported both consolidation and rule induction in the observed retrieval practice benefits](feedback-role-in-retrieval-practice-benefits.md) — a narrower finding that bears on this claim
+- [In applied settings, the beneficial effect of random practice on retention is almost negligible, as the competing meta-analysis itself reports](random-practice-retention-negligible-applied.md) — related

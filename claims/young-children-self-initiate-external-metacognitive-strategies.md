@@ -50,3 +50,4 @@ Overall finding of the preregistered study (N = 72, ages 3–8, Australia): chil
 - [Young children ages 5-6 can set learning goals and use the Self-Determined Learning Model of Instruction to achieve them](young-children-set-goals-sdlmi-achieve.md) — related
 - [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](reflection-training-improves-dccs.md) — related
 - [Children's cognitive flexibility improved on average from preschool to first grade](cognitive-flexibility-increases-preschool-to-first-grade.md) — related
+- [Shifting information to external aids enhances task performance with greater gains under high cognitive load](offloading-enhances-performance-under-load.md) — related

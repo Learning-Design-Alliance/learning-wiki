@@ -55,3 +55,4 @@ Conceptual analysis of cognitive offloading risks (Section 5.4). The authors arg
 - [Fully offloading schoolwork to generative AI without personal input forgoes meaningful engagement and skill development](full-ai-offloading-forgoes-engagement-and-skills.md) — a narrower finding that bears on this claim
 - [Washington's insistence on the correctness of his Tuskegee method stifled the emergence of new ideas and narrowed his system's application](washington-tuskegee-method-stifled-new-ideas.md) — related
 - [Offloading information to external stores is associated with lower memory performance, moderated by awareness of a later test](offloading-associated-with-lower-memory-performance.md) — related
+- [Cognitive offloading does not guarantee representational permanence and memory can suffer if the external record becomes unavailable](offloading-does-not-guarantee-permanence.md) — related

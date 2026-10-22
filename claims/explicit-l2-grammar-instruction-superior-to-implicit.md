@@ -156,3 +156,4 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 - [FFI involving extensive instruction directed at simple structures was more likely to succeed in developing implicit knowledge](extensive-ffi-simple-structures-more-likely-to-succeed.md) — related
 - [A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition](instruction-little-effect-on-route-of-acquisition.md) — reports the opposite
 - [Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks](explicit-rules-learned-faster-in-communicative-tasks.md) — a narrower finding that bears on this claim
+- [Explicit strategy instruction, unlike implicit strategy instruction, is associated with a gain in student performance](explicit-strategy-instruction-associated-with-performance-gain.md) — related

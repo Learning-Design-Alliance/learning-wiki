@@ -70,3 +70,4 @@ The chapter reports Blunt and Karpicke (2014): on a 1-week short-answer assessme
 - [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](retrieval-practice-review-50-classroom-experiments.md) — a broader claim this one bears on
 - [Retrieval practice produces better retention than restudying, with meta-analytic reviews reporting people 2.5 times as likely to remember tested information and medium-to-large classroom effects](retrieval-practice-beats-restudying.md) — a broader claim this one bears on
 - [Students created and took peer assessments in Forms, learning through writing quiz questions and answer options](forms-peer-collaboration-quiz-authoring.md) — related
+- [Closed-book generative tasks can outperform open-book ones when learners can later reinspect the material](closed-book-advantage-with-reinspection.md) — related

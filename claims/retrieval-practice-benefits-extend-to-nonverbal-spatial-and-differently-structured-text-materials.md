@@ -92,3 +92,4 @@ The chapter reports Karpicke and Blunt (2011, Experiment 2), which compared enum
 - [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](retrieval-practice-improves-final-inference-and-transfer-questions.md) — related
 - Neuroimaging and stimulation evidence supports shared mechanisms: primary visual cortex activation during imagery — related
 - [The testing benefit for map learning holds under both quadrant-based and relative-position-based scoring, liberal and stringent](testing-benefit-all-four-scoring-procedures.md) — a narrower finding that bears on this claim
+- [Retrieval-based learning research emphasizes both direct and indirect effects of retrieval on learning](retrieval-based-learning-direct-indirect-effects.md) — related

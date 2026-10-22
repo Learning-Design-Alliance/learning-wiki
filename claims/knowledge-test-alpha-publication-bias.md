@@ -83,3 +83,4 @@ Frequency distributions showed "moderate yet salient peaks in the numbers of rep
 ## Related Claims
 - [Alpha of knowledge tests is substantially related to the number of items in the test](knowledge-test-alpha-test-length.md) — related
 - [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](meta-analytic-alpha-knowledge-tests-085.md) — related
+- [Fixed alpha cutoff values create publication bias so knowledge tests with low alphas are underrepresented in the literature](alpha-cutoffs-publication-bias.md) — possibly the same claim (merge candidate)

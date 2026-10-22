@@ -77,3 +77,4 @@ The chapter reports Hinze and Rapp (2014), who "found that inducing test anxiety
 - [AI simulation induced higher state anxiety than standardized patient simulation in one RCT, while qualitative studies reported reduced anxiety](ai-simulation-anxiety-divergent.md) — related
 - [Anxiety is a multifaceted construct with several differentiated types](anxiety-multifaceted-types-taxonomy.md) — related
 - [Survey data cited by the author indicate frequent retrieval practice reduced test anxiety for nearly 75% of students](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) — related
+- [Retrieval-based learning research emphasizes both direct and indirect effects of retrieval on learning](retrieval-based-learning-direct-indirect-effects.md) — related

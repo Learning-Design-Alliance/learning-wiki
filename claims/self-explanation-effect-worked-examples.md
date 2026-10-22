@@ -92,3 +92,4 @@ The review reports, citing Renkl, a study of qualitative differences in college 
 - [Prompting self-explanation in a physics electricity unit led to accelerated future learning in a subsequent magnetism unit](self-explanation-accelerated-future-learning-physics.md) — related
 - [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems](subgoal-labels-worked-examples-transfer.md) — related
 - [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](worked-example-self-explanation-journal-transfer.md) — related
+- [Learning from examples depends on the explaining mode: prompting principle-based self-explanations and guided comparison of examples improves transfer](examples-facilitate-explaining.md) — a narrower finding that bears on this claim

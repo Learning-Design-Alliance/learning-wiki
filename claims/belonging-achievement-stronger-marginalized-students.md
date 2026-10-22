@@ -55,3 +55,4 @@ The review reports, citing Fong et al. (2024), a scoping review finding that "be
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — related
 - [Underrepresented racial and first-generation students systematically report fewer institutional belonging opportunities than white and continuing-generation peers](underrepresented-students-fewer-belonging-affordances.md) — related
 - [Sense of belonging in learning contexts is robustly associated with psychological well-being, academic motivation, and academic performance](belonging-associated-wellbeing-motivation-performance.md) — related
+- [The belonging–outcome association is stronger in some cultural groups than others: reported moderation by ethnicity and by individualism–collectivism](structure-oriented-moderation-belonging-outcomes.md) — possibly the same claim (merge candidate)

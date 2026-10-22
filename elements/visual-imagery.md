@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (8 for, 6 mixed, 4 against) · 28 studies (13 causal, 10 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 28 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (8 for, 7 mixed, 4 against) · 29 studies (13 causal, 11 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 29 report an effect size · 15 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -65,6 +65,7 @@ Imagery-based encoding improves recall and comprehension because information sto
 - [Spatial memory correlates with spatial imagery in the congenitally blind but not the sighted](../claims/spatial-memory-imagery-correlation-blind-only.md) [~W]
 - [For uncertain architectural elements, geometric contrast yielded worse memory of appearance than no visualization, stop light colors, or both visualizations](../claims/geometric-contrast-impairs-uncertain-element-memory.md) [-W]
 - [Effect sizes across drawing-support studies show significant heterogeneity for both comprehension and transfer outcomes](../claims/drawing-support-heterogeneity-significant.md) [~W]
+- [Combining drawing with mentally imagining produces a negative effect of drawing, qualified by a significant interaction](../claims/drawing-mental-imagery-negative-interaction.md) [~W]
 
 ## The evidence by question
 

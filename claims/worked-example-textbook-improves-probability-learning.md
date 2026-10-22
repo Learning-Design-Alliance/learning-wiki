@@ -49,3 +49,4 @@ Cluster-randomized classroom experiment with 220 seventh-graders in 10 classroom
 - [Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone](self-explanation-prompts-geometry-tutor-robust-learning.md) — related
 - [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — a broader claim this one bears on
 - [Adding self-explanation prompts to heuristic worked examples yields no additional benefit and impedes seventh graders' modeling competency](self-explanation-prompts-no-added-benefit.md) — related
+- [Learning from examples depends on the explaining mode: prompting principle-based self-explanations and guided comparison of examples improves transfer](examples-facilitate-explaining.md) — related

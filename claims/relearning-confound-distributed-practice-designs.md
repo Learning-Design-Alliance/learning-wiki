@@ -50,3 +50,4 @@ Methodological argument, not a tested result: the authors identify criterion-tra
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — related
 - [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — related
 - [Proportional measurement of relearning intervals poses a scaling problem for mapping optimal relearning schedules](relearning-interval-scaling-measurement-problem.md) — related
+- [Retrieval practice research extends to determining the optimal amount of practice testing for individual students](optimal-amount-of-practice-testing-individual-students.md) — related

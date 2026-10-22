@@ -71,3 +71,4 @@ An eight-year study of 850,000 New York City 4th- and 5th-grade students cited i
 - [Educational opportunity and achievement gaps impose large societal costs, including an estimated $156 billion loss in tax revenues and income per yearly cohort of nongraduates](achievement-gap-societal-costs.md) — related
 - [Principal turnover is common: 18% of principals leave schools each year and half of new principals leave within three years, with cascading consequences](principal-turnover-18-percent-annually.md) — related
 - [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](school-leadership-associated-with-lower-turnover.md) — related
+- [Occupational commitment is the strongest positive consequence and turnover intentions the strongest negative consequence of teacher wellbeing](wellbeing-consequences-commitment-turnover.md) — related

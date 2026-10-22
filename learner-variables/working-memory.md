@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (49 show a difference, 23 mixed, 11 no difference) · 70 studies (19 review, 18 causal, 17 associational, 10 quant-synthesis, 3 qualitative, 3 theoretical), `q1`–`q4` · 12 of 70 report an effect size · 77 claims rest on one study
+> **Evidence** · 84 claims (50 show a difference, 23 mixed, 11 no difference) · 71 studies (19 review, 18 causal, 17 associational, 10 quant-synthesis, 4 theoretical, 3 qualitative), `q1`–`q4` · 12 of 71 report an effect size · 78 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -126,6 +126,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Increasing germane cognitive load is not a significant moderator of drawing support effects on comprehension](../claims/germane-load-increase-non-significant-moderator.md) [-M] — an instructional effect differs with it
 - [Reducing extraneous cognitive load is not a significant moderator of drawing support effects on comprehension](../claims/extraneous-load-reduction-non-significant-moderator.md) [-M] — an instructional effect differs with it
 - [Teachers' load-reducing strategies and motivating styles correlate with lower cognitive load and higher motivation, engagement, and achievement (Evans et al., 2024)](../claims/load-reducing-teaching-strategies-motivation-engagement.md) [+M] — instruction changes it
+- [Cognitive barriers—insufficient background knowledge or working memory capacity—impede productive engagement in generative learning activities](../claims/cognitive-barriers-impede-glas.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

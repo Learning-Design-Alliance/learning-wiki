@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/affective-reactivity-overrides-digital-regulation-intentions.md
+---
+
+# Revision history: [claims/affective-reactivity-overrides-digital-regulation-intentions](../claims/affective-reactivity-overrides-digital-regulation-intentions.md)
+
+### 2026-10-22 · ingest · process:wiki-ingest
+Ingested from jrnl-e324d901b477 (Developing Digital Self-Regulation in Adolescence: A Developmental Self-Determination Model of Digital Self-Regulation) via eval_harness.py + ingest_extractions.py

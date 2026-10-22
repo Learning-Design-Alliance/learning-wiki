@@ -13,7 +13,7 @@ generated:
 # Alphabet Knowledge and Print Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 51 claims (26 show a difference, 12 mixed, 13 no difference) · 28 studies (16 causal, 6 quant-synthesis, 3 associational, 1 review, 1 qualitative, 1 design), `q1`–`q3` · 19 of 28 report an effect size · 50 claims rest on one study
+> **Evidence** · 56 claims (28 show a difference, 14 mixed, 14 no difference) · 29 studies (17 causal, 6 quant-synthesis, 3 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 20 of 29 report an effect size · 55 claims rest on one study
 
 ## Description
 Alphabet knowledge is knowing the names, written forms and sounds of letters, including letter combinations that represent a single sound. Print awareness is the understanding that print carries meaning and has different functions, and of how it works on the page (that text is read in a set direction, that words are separated by spaces, and so on), something experienced readers forget they had to learn. Both are measured in early childhood: alphabet knowledge by asking children to name and sound out randomly ordered upper- and lower-case letters, print awareness by informal assessments in which a child handles a book.
@@ -91,6 +91,11 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [Embodied learning gains do not differ between low and high baseline performers within the movement group](../claims/no-low-high-performer-difference-within-move.md) [-M] — instruction changes it
 - [High baseline word-reading performers also benefit from the embodied learning intervention in letter-sound knowledge and spelling](../claims/high-performers-benefit-embodied-letter-sound-spelling.md) [+M] — instruction changes it
 - [Low baseline word-reading performers in the embodied learning group improve letter-sound knowledge and spelling more than low performers in regular teaching](../claims/low-performers-benefit-embodied-letter-sound-spelling.md) [+M] — instruction changes it
+- [Arm training improves letter recognition and letter-name knowledge relative to the other training conditions](../claims/arm-training-improves-letter-recognition-and-name-knowledge.md) [+M] — instruction changes it
+- [Arm training with nested handwriting exercises yields the greatest overall acquisitions in letter knowledge and script, while arm-body training reduces them](../claims/arm-training-best-overall-letter-knowledge-gains.md) [~M] — instruction changes it
+- [Arm-body training reduces letters written under dictation relative to the other conditions](../claims/arm-body-training-detrimental-letters-dictation.md) [+M] — instruction changes it
+- [Initial skills moderate embodied training effects: arm-body training harms low-skilled students on dictation and legibility, and benefits high-skilled students on dictation](../claims/initial-skills-moderate-embodied-training-effects.md) [~M] — an instructional effect differs with it
+- [No training condition affects letter script stroke direction](../claims/no-training-effect-stroke-direction.md) [-M] — instruction changes it
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

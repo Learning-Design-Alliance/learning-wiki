@@ -45,3 +45,4 @@ Authors' interpretation (type e) of their cross-sectional regression findings, c
 ## Related Claims
 - [Cognitive flexibility uniquely predicts mathematics achievement in Grades 4 and 6, with a larger effect in Grade 6 than in Grade 4](cognitive-flexibility-unique-predictor-math-grades-4-6.md) — a narrower finding that bears on this claim
 - [The set of executive-function and intelligence predictors of academic achievement differs across Grades 2, 4, and 6, with EF contributions appearing cumulative as students get older](ef-predictors-of-achievement-differ-across-grades.md) — a broader claim this one bears on
+- [Learning-pattern differentiation and integration increase with educational progression within one type of education, while context change induces temporary diffuse patterns](development-versus-context-hypothesis-learning-patterns.md) — related

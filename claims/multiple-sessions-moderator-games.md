@@ -69,3 +69,4 @@ Null moderator result from the same meta-regression models; media comparison gam
 - [Single noncollaborative, noncompetitive play shows the largest learning effects, significantly larger than single competitive play](single-noncompetitive-play-largest-media-effects.md) — related
 - [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](coaching-dosage-null-effect.md) — related
 - [Digital game-based ICT was associated with significantly smaller effects on writing quality, but the finding rests on a single study](digital-games-smaller-writing-effects-single-study.md) — related
+- [Dosage significantly predicts intervention effects in a linear model (β = 0.03 per hour), but the dosage main effect is no longer significant after controlling for moderators](dosage-slope-nonsignificant-with-moderators.md) — related
