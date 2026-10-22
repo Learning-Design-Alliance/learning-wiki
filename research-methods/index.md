@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**608 entries** · 0 stable · 608 in review · 0 drafts
+**609 entries** · 0 stable · 609 in review · 0 drafts
 
 ---
 
@@ -18,6 +18,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [A four-step adapted cognitive task analysis framework for clinical environments](a-four-step-adapted-cognitive-task-analysis-framework-for-clinical-environments.md) - The article develops a health care setting-adapted version of cognitive task analysis, a suite of methods for studying cognitive processes such as reasoning, problem-solving, and decision-making.
 * [A four-step evaluative framework for judging educational practices and beliefs](a-four-step-evaluative-framework-for-judging-educational-practices-and-beliefs.md) - The editorial describes a shared evaluation process modeled by every article in the special issue.
 * [A four-type hierarchy of evidence for judging educational technology effectiveness](a-four-type-hierarchy-of-evidence-for-judging-educational-technology-effectiveness.md) - The guide presents an organizing framework of four evidence types that educators encounter when evaluating product effectiveness claims.
+* [A framework and operationalization of study designs and statistical approaches for studying academic resilience in literacy](a-framework-and-operationalization-of-study-designs-and-statistical-approaches-for-studyin.md) - The special issue's theoretical backbone distinguishes promotive effects (factors benefiting all learners), protective effects (factors offsetting risk), and compensatory mechanisms.
 * [A hierarchical taxonomy of novice difficulties with selection and iteration in code reading](a-hierarchical-taxonomy-of-novice-difficulties-with-selection-and-iteration-in-code-readin.md) - The article introduces a fine-grained taxonomy categorizing novice programmers' difficulties with reading control flow constructs.
 * [A taxonomy classifying authentic CSCL learning environments into simulation and hybrid environments with five descriptors](a-taxonomy-classifying-authentic-cscl-learning-environments-into-simulation-and-hybrid-env.md) - This conceptualization, from Hod and Sagy, categorizes and compares authentic learning scenarios.
 * [A ten-strategy taxonomy of distractor-generation strategies grounded in learning-science literature and observed LLM reasoning](a-ten-strategy-taxonomy-of-distractor-generation-strategies-grounded-in-learning-science-l.md) - The article introduces a taxonomy of ten distractor-generation strategies, \"grounded in learning-science literature and empirical observations of LLMs’ reasoning traces\", spanning task understanding (INTER, CORR), candidate construction (LINK, ERR_DESC, ERR_SIM, INST), quality control and selection 

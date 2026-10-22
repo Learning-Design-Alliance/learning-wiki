@@ -51,3 +51,4 @@ Qualitative comparison drawn from student comments in both project sites. Marlen
 - [CLASP made limited progress on cooperative activities and little progress on developing replicable collaboration models](clasp-limited-collaboration-models.md) — related
 - [Middle school students in inquiry-based computer-based learning environments gain more conceptual understanding of force and energy than peers in regular inquiry-based classrooms](computer-based-ibl-greater-conceptual-understanding-gains.md) — related
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related
+- [DI students relied on notes rather than exploring the agent-based models, while PF classes showed lively collaborative exploration and questioning](di-passive-note-reliance-vs-pf-exploration.md) — related

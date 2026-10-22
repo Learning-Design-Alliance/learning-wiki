@@ -52,3 +52,4 @@ The editorial describes Näykki et al.'s exploratory study: video segmented and 
 - [Secondary students in CSCL devote much of their communication to regulating task performance, especially planning the task and monitoring task progress](cscl-groups-mostly-regulate-task-performance.md) — related
 - [In Experiment 1, self-regulation skills significantly predicted socio-discursive MAS only in the adaptable CSCL script condition](self-regulation-predicts-socio-discursive-mas-adaptable-script.md) — related
 - [Learner-chosen adaptivity in a collaboration script was feasible as guidance design, but impacted regulatory actions only among students with more advanced self-regulation skills](learner-agency-adaptive-guidance-only-advanced-regulators.md) — related
+- [Classroom-level teacher structure is linked with students' behavioral, cognitive and emotional engagement in language classes](classroom-structure-linked-three-engagement-components.md) — related

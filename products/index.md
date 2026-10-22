@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1840 entries** · 0 stable · 1840 in review · 0 drafts
+**1842 entries** · 0 stable · 1842 in review · 0 drafts
 
 ---
 
@@ -680,6 +680,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [GradeOpt](gradeopt.md) - GradeOpt is a multi-agent LLM coding framework developed by Copur-Gencturk et al.
 * [GRAIL combined dataset of three classroom experiments on non-interactive teaching in optics](grail-combined-dataset-of-three-classroom-experiments-on-non-interactive-teaching-in-optic.md) - A combined dataset of three randomized classroom experiments with German secondary physics students comparing restudy with voice-message explanation after instruction on converging lenses, produced by Lachner et al.
 * [Graph4Learn (G4L) intelligent tutoring system](graph4learn-g4l-intelligent-tutoring-system.md) - A Python-based intelligent tutoring web application developed by Csépányi-Fürjes et al.
+* [Graphical Languages in Mathematics (GLIM) test](graphical-languages-in-mathematics-glim-test.md) - A 36-item assessment developed by Lowrie and colleagues to measure Grades 4–6 students' decoding of six graphical languages in mathematics, including number lines, graphs, maps, and diagrams.
 * [Grasha-Riechmann Learning Style Inventory](grasha-riechmann-learning-style-inventory.md) - A 60-item Likert-scale assessment developed by Anthony Grasha to measure students' social-interaction learning-style preferences across independent-dependent, avoidant-participant, and collaborative-competitive dimensions; this study used a Turkish adaptation.
 * [Green Dot Public Schools](green-dot-public-schools.md) - A nonprofit charter-school programme and school-design model run by Green Dot Public Schools that creates small community high schools organized around teacher support, autonomous leadership, college preparation, comprehensive student services, family engagement, and replicability.
 * [Group and representation tool (GRT)](group-and-representation-tool-grt.md) - The Group and representation tool (GRT), developed by Erkens, Bodemer, and Hoppe, transforms students' written text into variables to support heterogeneous group formation and cognitive group-awareness visualization.
@@ -1309,6 +1310,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Prompt Programming](prompt-programming.md) - Prompt Programming is a web-based dialogue tool described by Victor-Alexandru Pădurean et al.
 * [PromptDecipher](promptdecipher.md) - A web-based chatbot-authoring system developed by Miina Koyama and colleagues that lets educators create and refine AI tutoring chatbots by directly correcting simulated bot responses.
 * [ProPACT](propact.md) - ProPACT is an AI-driven adaptive collaborative tutor that uses multimodal dyadic sensing and forecast-driven prompts to support undergraduate and master's students during pair-programming debugging.
+* [Prosodiya](prosodiya.md) - Prosodiya is an adaptive digital game-based spelling-training application for mobile touch devices, developed for primary-school children with spelling difficulties.
 * [PROTO-TEG](proto-teg.md) - PROTO-TEG is a self-improving intelligent tutoring system for geometry that selects didactic strategies using a student model and knowledge learned from recorded tutoring episodes.
 * [Proxy-labeled AI-detection error-analysis corpus and released evaluation pipeline](proxy-labeled-ai-detection-error-analysis-corpus-and-released-evaluation-pipeline.md) - Karr et al.'s released corpus and code evaluate commercial AI-text-detector errors using published abstracts, model rewrites, and humanized texts.
 * [PS2 Pal](ps2-pal.md) - A GPT-4-based AI tutoring platform developed by Kestin et al.

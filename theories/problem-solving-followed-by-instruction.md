@@ -17,7 +17,7 @@ sources:
 # Problem-Solving Followed by Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 44 claims (14 for, 22 mixed, 8 against) · 26 studies (18 causal, 4 theoretical, 3 review, 1 quant-synthesis), `q1`–`q4` · 10 of 26 report an effect size · 43 claims rest on one study
+> **Evidence** · 50 claims (19 for, 23 mixed, 8 against) · 27 studies (19 causal, 4 theoretical, 3 review, 1 quant-synthesis), `q1`–`q4` · 11 of 27 report an effect size · 49 claims rest on one study
 
 ## Description
 Problem-solving followed by instruction (PS-I, closely related to "productive failure") reverses the conventional tell-then-practice sequence: students first attempt a problem — typically without succeeding at a canonical solution — and only afterward receive direct instruction on the correct method. The prior attempt activates relevant prior knowledge, surfaces students' own (often suboptimal) representations, and raises motivation to learn the canonical method by making its advantages concrete rather than abstract. A meta-analysis across 166 comparisons found PS-I outperforms instruction-first sequencing with Hedge's g=0.36 [95% CI 0.20, 0.51] (Sinha & Kapur, 2021). The underlying attempt can be left unguided ("productive failure" proper, where students generate as many solution representations as they can) or shaped by scaffolds that deliberately steer students toward specific representations before instruction corrects them — see [Failure-Driven Scaffolding](../strategies/failure-driven-scaffolding.md).
@@ -80,6 +80,12 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 - [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](../claims/no-posttest-differences-mvc-convergence.md) [~W]
 - [Neither the quantity nor the quality of PF students' own solution attempts correlated with their conceptual knowledge acquisition](../claims/solution-attempts-not-correlated-with-conceptual-knowledge.md) [-W]
 - [Sequencing of exploration and explicit instruction shows inconsistent results, moderated by task complexity per the expertise reversal account](../claims/exploration-first-versus-instruction-first-sequencing-mixed.md) [~W]
+- [Ninth-grade students in a Productive Failure design scored significantly higher than Direct Instruction students on complex systems explanatory knowledge about climate](../claims/pf-beats-di-complex-systems-explanatory-knowledge.md) [+W] — attached 2026-10-22 from Jacobson et al. (2017), which proposed "Productive Failure two-phase learning design"; tests this page's relationship.
+- [PF students scored significantly higher than DI students on climate explanatory knowledge](../claims/pf-beats-di-climate-explanatory-knowledge.md) [+M] — attached 2026-10-22 from Jacobson et al. (2017), which proposed "Productive Failure two-phase learning design"; tests this page's relationship.
+- [PF students scored significantly higher than DI students on near transfer (butterfly effect problem)](../claims/pf-beats-di-near-transfer-butterfly-effect.md) [+M] — attached 2026-10-22 from Jacobson et al. (2017), which proposed "Productive Failure two-phase learning design"; tests this page's relationship.
+- [PF students scored significantly higher than DI students on far transfer (robot mining problem), with an independent teacher experience effect](../claims/pf-beats-di-far-transfer-robot-mining.md) [+M] — attached 2026-10-22 from Jacobson et al. (2017), which proposed "Productive Failure two-phase learning design"; tests this page's relationship.
+- [PF and DI groups showed no significant difference in climate declarative knowledge gains](../claims/no-group-difference-climate-declarative-knowledge.md) [~M] — attached 2026-10-22 from Jacobson et al. (2017), which proposed "Productive Failure two-phase learning design"; tests this page's relationship.
+- [DI students relied on notes rather than exploring the agent-based models, while PF classes showed lively collaborative exploration and questioning](../claims/di-passive-note-reliance-vs-pf-exploration.md) [+W]
 
 ## The evidence by question
 

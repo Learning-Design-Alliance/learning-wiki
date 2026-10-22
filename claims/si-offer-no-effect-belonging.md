@@ -49,3 +49,4 @@ Post-test ANOVA on the Meeuwisse et al. (2010) six-item belonging scale in the r
 - [Being offered Supplemental Instruction shows no significant effect on first-year students' mental well-being](si-offer-no-effect-mental-wellbeing.md) — related
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — related
 - [Offering Supplemental Instruction raises first-year students' course grades (d = 0.26) in a randomized field experiment](si-offer-raises-grades-rct.md) — related
+- [SI-PASS participation showed no significant effect on socio-affective dimensions including well-being and academic adjustment](si-pass-no-socio-affective-effect.md) — a broader claim this one bears on

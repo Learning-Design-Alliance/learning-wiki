@@ -45,3 +45,4 @@ Post-test ANOVA in the randomized field experiment (S-WEMWBS scale, T1 n = 320) 
 ## Related Claims
 - [Being offered Supplemental Instruction shows no significant effect on sense of belonging, measured with a low-reliability scale](si-offer-no-effect-belonging.md) — related
 - [Offering Supplemental Instruction raises first-year students' course grades (d = 0.26) in a randomized field experiment](si-offer-raises-grades-rct.md) — related
+- [SI-PASS participation showed no significant effect on socio-affective dimensions including well-being and academic adjustment](si-pass-no-socio-affective-effect.md) — a broader claim this one bears on

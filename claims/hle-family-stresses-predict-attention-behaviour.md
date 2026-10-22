@@ -52,3 +52,4 @@ Hierarchical regression predicting parental ratings of attention and behaviour (
 - [Family-risk of dyslexia and preschool language impairment are additive risk factors for reading readiness and attention and behaviour](fr-li-additive-risk-factors-outcomes.md) — related
 - [Children's challenging behaviour, not ability (IQ), is the major source of demand on teachers, and one child's disruptive behaviour can reduce classmates' access to the educator](challenging-behaviour-major-teacher-demand.md) — related
 - [Children at family-risk of dyslexia and children with preschool language difficulties experience more environmental and health risks than controls](fr-li-children-more-environmental-health-risks.md) — related
+- [Formal math activities in the home environment mitigated the risk of parental math difficulties for children's math development (reported by the editors, citing Torppa et al.)](home-formal-math-activities-protect-against-parental-math-risk.md) — related

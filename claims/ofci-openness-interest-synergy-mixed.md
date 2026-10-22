@@ -48,3 +48,4 @@ The review reports, citing the named studies, the state of evidence for the Open
 ## Related Claims
 - [Trait-level constructs such as novelty seeking, need for cognition, and vocational interests can be modeled as generalized reward values of knowledge formed through reward-learning generalization](trait-curiosity-generalized-reward-value.md) — related
 - [Self-concept and global value interact synergistically and positively in predicting achievement, effort, and teacher-rated engagement](synergistic-self-concept-global-value-interaction.md) — related
+- [Adaptive task difficulty compensates low interest but not low self-concept among vocational-school students during repeated practice](adaptive-task-difficulty-compensates-low-interest-vs-students.md) — related

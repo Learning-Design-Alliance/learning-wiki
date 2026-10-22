@@ -55,3 +55,4 @@ Randomized classroom experiment with 367 introductory biology students assigned 
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
 - [Neither instructional sequence produced significant far-transfer effects in either experiment](no-significant-far-transfer-effect-either-sequence.md) — related
 - [A biology learning chatbot system had a positive impact on grade 7 students' biology learning achievement in a quasi-experiment](biology-chatbot-improves-learning-achievement.md) — related
+- [PF students scored significantly higher than DI students on near transfer (butterfly effect problem)](pf-beats-di-near-transfer-butterfly-effect.md) — related

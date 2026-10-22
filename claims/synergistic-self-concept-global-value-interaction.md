@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Latent interactions between self-concept and global value significantly and positively predicted all three outcomes (achievement β = .15, effort β = .10, engagement β = .05), supporting a synergistic relation. [→ Guo 2016](#guo-2016)
+`q2 i?` Latent interactions between self-concept and global value significantly and positively predicted all three outcomes (standardized path coefficients: achievement β = .15, effort β = .10, engagement β = .05), supporting a synergistic relation. [→ Guo 2016](#guo-2016)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambr
 
 `q2 · i?` · `associational · r2`
 
-LMS latent interaction SEM (Model D1 vs. C1; ΔAIC = 211, ΔBIC = 227) in the sample of 1,868 ninth-graders. The article prints unstandardized-magnitude interaction coefficients (achievement β = .15, effort β = .10, engagement β = .05) but no standardized effect size for the interactions; response-surface plots show the effect of self-concept on achievement is "weaker with low value and substantially stronger with high value".
+LMS latent interaction SEM (Model D1 vs. C1; ΔAIC = 211, ΔBIC = 227) in the sample of 1,868 ninth-graders. The article reports the interactions as standardized path coefficients (Table 5: achievement β = .15, effort β = .10, engagement β = .05) and gives no separate d-type effect size for them; the design is correlational, so the interactions describe prediction, not cause; response-surface plots show the effect of self-concept on achievement is "weaker with low value and substantially stronger with high value".
 
 > "the interactions between self-concept and global value were consistently found to be significant and positive, thus providing support for synergistic relationships in predicting the three outcomes."
 
@@ -53,3 +53,4 @@ LMS latent interaction SEM (Model D1 vs. C1; ΔAIC = 211, ΔBIC = 227) in the sa
 - [Different value components differentially predict outcomes: low cost for achievement, attainment value for effort, and utility value uniquely predicting none](value-components-differential-prediction-outcomes.md) — related
 - [Math self-concept is more highly correlated with intrinsic value and low cost than with attainment and utility value](self-concept-value-component-correlations.md) — related
 - [Evidence on synergistic openness–interest effects on knowledge attainment is mixed, with supporting, compensating, and zero findings reported](ofci-openness-interest-synergy-mixed.md) — related
+- [Adaptive task difficulty compensates low interest but not low self-concept among vocational-school students during repeated practice](adaptive-task-difficulty-compensates-low-interest-vs-students.md) — related

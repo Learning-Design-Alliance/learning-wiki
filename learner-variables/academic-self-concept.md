@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 87 claims (64 show a difference, 17 mixed, 6 no difference) · 44 studies (20 associational, 10 review, 7 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 44 report an effect size · 84 claims rest on one study
+> **Evidence** · 90 claims (65 show a difference, 18 mixed, 7 no difference) · 46 studies (20 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 12 of 46 report an effect size · 87 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -122,6 +122,9 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Individual mathematics achievement is positively associated with students' ASC development over the school year](../claims/individual-achievement-positive-asc-change.md) [+M] — instruction changes it
 - [No statistically significant assimilation effect (BIRGE) of belonging to a higher-achieving clique within the classroom on ASC change](../claims/no-birge-assimilation-clique-level.md) [-M] — instruction changes it
 - [Variance in ASC change is statistically significant at individual, clique, and classroom levels, with a slight average decline in ASC across the school year](../claims/asc-change-variance-all-three-levels.md) [+M] — instruction changes it
+- [Adaptive task difficulty compensates low interest but not low self-concept among vocational-school students during repeated practice](../claims/adaptive-task-difficulty-compensates-low-interest-vs-students.md) [-W] — an instructional effect differs with it
+- [Negative feedback lowered math self-concept indirectly via enjoyment and hope; positive feedback raised it via hope](../claims/feedback-indirect-effects-math-self-concept.md) [+W] — instruction changes it
+- [Prior math self-concept moderated positive feedback on self-concept: positive feedback strengthened pre-existing self-concept](../claims/prior-self-concept-moderates-positive-feedback-self-concept.md) [~W] — an instructional effect differs with it
 
 ## Related Learner Variables
 

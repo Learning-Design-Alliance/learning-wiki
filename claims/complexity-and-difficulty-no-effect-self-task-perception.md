@@ -47,3 +47,5 @@ The RQ3 MANOVA on post-intervention intrinsic interest and expectancies for succ
 - [The interaction of complexity and desirable difficulty does not significantly affect posttest performance](complexity-difficulty-interaction-not-significant-performance.md) — related
 - [Under linguistically difficult instruction, higher language ability is associated with lower expectancies of success — the opposite direction of the hypothesized moderation](difficult-instruction-higher-language-ability-lower-expectancies.md) — related
 - [Task complexity and task difficulty are distinct concepts](task-complexity-distinct-from-difficulty.md) — related
+- [Task complexity has no significant impact on intrinsic interest](complexity-no-intrinsic-interest-effect.md) — a narrower finding that bears on this claim
+- [Task complexity has a strong omnibus multivariate effect on performance, GCL, meta-awareness, and intrinsic interest combined](complexity-omnibus-manova-effect.md) — reports the opposite

@@ -51,7 +51,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (20 for, 26 mixed) · 38 studies (13 quant-synthesis, 10 review, 8 causal, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 14 of 38 report an effect size · 40 claims rest on one study
+> **Evidence** · 48 claims (21 for, 27 mixed) · 39 studies (13 quant-synthesis, 10 review, 9 causal, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 15 of 39 report an effect size · 42 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,11 @@ For example, a secondary-school student playing a city-budget simulation game ma
 The model should weaken if games whose core move carries the content, with modelling and a debrief, fail to beat a non-game version with the same content, time and talk on an aligned outside measure; or if, like the colour-only board, games with content-free moves produce the same gains, which would point to the adult's talk or the time spent rather than the game. If modelling inside games keeps helping while play alone adds little, the model should be restated as practice with modelling, delivered in a game format. If enjoyment and later persistence turn out to predict learning well, revise the separation of the two outcomes. If within-game comparisons (the same game played in one session against several, or embedded against standalone) fail to reproduce the between-study moderators, drop steps 5 and 6's reliance on them. If games keep matching but not beating active non-game instruction, restate the page's case for a game as access, practice volume or interest rather than a learning gain. Do not protect the model by calling every failure a badly designed game.
 
 A gain in the game, a gain on an aligned outside test, delayed retention, transfer to a new task and continued voluntary practice are separate claims. The wiki's evidence does not yet establish a dose beyond one preschool schedule and the meta-analyses' averages, which game genres help which goals, why secondary pupils gain less than primary, or whether games beat active non-game practice for anyone.
+
+## Claims
+
+- [Mastery-approach and performance-approach goal instructions do not interact on learning outcomes in game-based learning](../claims/goal-instructions-no-interaction-gbl.md) [~W]
+- [Students learned chemistry content from the game-based learning session, with significant pretest-to-posttest gains](../claims/learning-occurred-cosmiclean-session.md) [+W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

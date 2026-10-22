@@ -69,3 +69,4 @@ Path analyses showed "the significant indirect effects of feedback on willingnes
 - [In the absence of feedback, self-efficacy after problem solving was not associated with invested, expected, or willingness-to-invest effort, and threat was not associated with any effort measure (Experiments 3 and 4)](no-feedback-effort-associations-null.md) — related
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
 - [Negative performance feedback raises expected future mental effort and affects perceived effort and willingness to invest effort via challenge and threat (van Gog et al., 2024)](feedback-valence-affects-effort-via-challenge-threat.md) — related
+- [Negative feedback lowered math self-concept indirectly via enjoyment and hope; positive feedback raised it via hope](feedback-indirect-effects-math-self-concept.md) — related

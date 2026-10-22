@@ -54,3 +54,4 @@ Theoretical argument in the commentary about measurement limits: relying on self
 - [Engagement inferred from log data must be treated with caution because digital traces reflect unevenly distributed social and material conditions](log-data-engagement-inference-caution.md) — related
 - [Overall validity of eye-tracking measures of learning in IVR is limited, averaging 1.93 of 4, with data quality the weakest component](ivr-eye-tracking-overall-validity-limited.md) — related
 - [Longer eye fixation time is ambiguous between processing difficulty and extra processing effort, so eye movement data should be validated with outcome measures](fixation-time-ambiguity-validation.md) — a narrower finding that bears on this claim
+- [University students adapt their behavioral processing of discrepant science content as a function of their epistemic cognition and discrepancy type](srl-processing-adapts-to-epistemic-cognition-and-discrepancy-type.md) — related

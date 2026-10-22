@@ -39834,5 +39834,105 @@
  "technology-tool\tAI-driven mannequin simulation\tother AI modalities and conventional methods": {
   "label": "AI-driven mannequin simulation vs other AI modalities and conventional methods",
   "treatment_is_a": true
+ },
+ "active-learning\tSI-PASS peer-learning sessions\tcontrol condition without SI-PASS during the first semester": {
+  "label": "peer-learning sessions vs no peer-learning sessions",
+  "treatment_is_a": true
+ },
+ "active-learning\tSI-PASS peer-learning sessions\trandomized control group without SI-PASS in the first semester": {
+  "label": "peer-learning sessions vs no peer-learning sessions",
+  "treatment_is_a": true
+ },
+ "active-learning\tSI-PASS peer-learning sessions\twaiting-list control": {
+  "label": "peer-learning sessions vs no peer-learning sessions",
+  "treatment_is_a": true
+ },
+ "active-learning\tSI-PASS peer-learning sessions\twaiting-list control group": {
+  "label": "peer-learning sessions vs no peer-learning sessions",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tgreater classroom autonomy support\tless classroom autonomy support": {
+  "label": "greater classroom autonomy support vs less classroom autonomy support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher classroom autonomy support\tlower classroom autonomy support": {
+  "label": "greater classroom autonomy support vs less classroom autonomy support",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative normative feedback\tno feedback": {
+  "label": "negative normative feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative normative feedback, with indirect effect via enjoyment\tno feedback": {
+  "label": "negative normative feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative normative feedback, with indirect effect via hope\tno feedback": {
+  "label": "negative normative feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpositive normative feedback\tno feedback": {
+  "label": "positive normative feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpositive normative feedback, with indirect effect via hope\tno feedback": {
+  "label": "positive normative feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "media-design\tdynamic visualizations during analogy learning\tstatic visualizations without the dynamic-visualization scaffold": {
+  "label": "dynamic visualizations vs static visualizations",
+  "treatment_is_a": true
+ },
+ "problem-first\tProductive Failure\tDirect Instruction": {
+  "label": "Problem-first (productive failure) vs instruction-first (direct instruction)",
+  "treatment_is_a": true
+ },
+ "problem-first\tProductive Failure: model-based problem solving before instruction\tDirect Instruction: teacher instruction before model-based problem solving": {
+  "label": "Problem-first (productive failure) vs instruction-first (direct instruction)",
+  "treatment_is_a": true
+ },
+ "problem-first\tProductive Failure: models and challenge problems before instruction\tDirect Instruction: teacher instruction before models and challenge problems": {
+  "label": "Problem-first (productive failure) vs instruction-first (direct instruction)",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive task difficulty based on previous performance\tcontrol group without scaffolds": {
+  "label": "adaptive task difficulty vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive task difficulty during repeated practice\tcontrol condition without scaffolds": {
+  "label": "adaptive task difficulty vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadaptive task difficulty during repeated practice\tno scaffold": {
+  "label": "adaptive task difficulty vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdynamic visualizations with analogy learning\tno scaffold": {
+  "label": "dynamic visualizations with analogies vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdynamic visualizations with learning analogies\tcontrol without scaffolds": {
+  "label": "dynamic visualizations with analogies vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tindividualized explanations based on typical mistakes during repeated practice\tcontrol group without scaffolds": {
+  "label": "individualized explanations based on typical mistakes vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tindividualized explanations based on typical mistakes during repeated practice\tno scaffold": {
+  "label": "individualized explanations based on typical mistakes vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tindividualized explanations for high-interest VS students\tno-scaffold control": {
+  "label": "individualized explanations tailored to learner characteristics vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tindividualized explanations for high-self-concept VS students\tno-scaffold control": {
+  "label": "individualized explanations tailored to learner characteristics vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tindividualized explanations for high-visual-spatial-ability VS students\tno-scaffold control": {
+  "label": "individualized explanations tailored to learner characteristics vs no scaffolding",
+  "treatment_is_a": true
  }
 }

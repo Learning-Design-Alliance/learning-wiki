@@ -69,3 +69,4 @@ In both experiments, ANOVAs showed challenge and threat differed significantly b
 - [Predominantly negative feedback leads students to expect a next round of problems will require more effort than predominantly positive feedback (Experiments 1 and 2)](negative-feedback-raises-anticipated-effort.md) — related
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
 - [Negative performance feedback raises expected future mental effort and affects perceived effort and willingness to invest effort via challenge and threat (van Gog et al., 2024)](feedback-valence-affects-effort-via-challenge-threat.md) — related
+- [Higher attainment value with higher academic self-efficacy predicts challenge appraisal, whereas higher attainment value with lower academic self-efficacy predicts threat appraisal](value-and-efficacy-antecedents-of-fear-appeal-appraisal.md) — related

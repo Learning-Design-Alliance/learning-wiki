@@ -46,6 +46,7 @@ The article's methodological recommendations for metacognition research are draw
 
 - [Use large samples, true experimental designs, and moderate treatment durations when evaluating SRL scaffolds](meta-analysis-design-recommendations-srl-scaffolds.md)
 - [Develop online measures of students' strategy use, linking learning analytics with retrospective task reports](online-measures-strategy-use-learning-analytics.md)
+- [Use a multi-study mixed method design combining process data (eye tracking), concurrent think-aloud, and retrospective interviews to study SRL adaptation](mixed-method-eye-tracking-think-aloud-retrospective-srl-strategy.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ The article's meta-analysis of the quantitative literature on parental involveme
 - [Offering FAST produced no meaningful, enduring effects on family functioning, family-school relationships, academic learning, or social-behavioral outcomes in a 60-school cluster RCT](fast-rct-no-meaningful-enduring-effects.md) — related
 - [Meta-analyses find parental involvement associated with better student outcomes, effect sizes 0.2 to 0.75 standard deviations](parental-involvement-meta-analyses-effect-sizes.md) — a narrower finding that bears on this claim
 - [Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education](parent-involvement-ideas-inhibit-equity.md) — related
+- [Children show high unassisted home engagement with the training, comparable to supervised settings](prosodiya-high-home-engagement.md) — related

@@ -12,7 +12,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 35 claims (24 for, 11 mixed) · 19 studies (9 associational, 3 quant-synthesis, 3 review, 2 causal, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 35 claims rest on one study
+> **Evidence** · 36 claims (25 for, 11 mixed) · 20 studies (9 associational, 3 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 4 of 20 report an effect size · 36 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -96,6 +96,7 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Mastery aims are strongly bound to autonomous reasons and only weakly to controlled reasons](../claims/mastery-aims-bound-to-autonomous-reasons.md) [+W] — attached 2026-10-22 from Janke (2024), which proposed "Dynamic versus static goal regulation: two accounts of how aims and autonomous/controlled reasons align"; tests this page's relationship.
 - [Performance aims are ambiguously aligned, tied nearly equally to autonomous and controlled reasons](../claims/performance-aims-ambiguously-aligned-with-reasons.md) [~W] — attached 2026-10-22 from Janke (2024), which proposed "Dynamic versus static goal regulation: two accounts of how aims and autonomous/controlled reasons align"; tests this page's relationship.
 - [Intrinsic life aspirations are moderately linked to mastery approach goals, extrinsic aspirations to performance approach goals, with cross-links near zero](../claims/life-aspirations-differentially-linked-to-goal-types.md) [+W] — attached 2026-10-22 from Janke (2024), which proposed "Dynamic versus static goal regulation: two accounts of how aims and autonomous/controlled reasons align"; tests this page's relationship.
+- [Prior mastery-approach goals moderate the effect of performance-approach goal instructions on mental effort](../claims/prior-mastery-goals-moderate-effort-effect.md) [+W] — attached 2026-10-22 from Hu et al. (2024), which proposed "Multiple goal perspective mechanisms and match/mismatch hypotheses for achievement goal instructions"; tests this page's relationship.
 
 ## The evidence by question
 

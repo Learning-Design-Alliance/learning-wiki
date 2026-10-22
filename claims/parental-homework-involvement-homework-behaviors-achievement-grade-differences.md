@@ -52,3 +52,4 @@ The article's title states its focus: relationships among "perceived parental in
 - [Prevalence of decreased intrinsic academic motivation is approximately twice as high in junior high as in elementary students](motivation-decline-prevalence-doubles-junior-high.md) — related
 - [Parental home supervision has the weakest relationship with students' academic achievement among involvement components](parental-home-supervision-weakest-relationship.md) — related
 - [Students who use homework management skills at a high level are more likely to complete their homework](homework-management-predicts-completion.md) — related
+- [Children show high unassisted home engagement with the training, comparable to supervised settings](prosodiya-high-home-engagement.md) — related

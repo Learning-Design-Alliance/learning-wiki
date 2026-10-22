@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (60 show a difference, 21 mixed, 14 no difference) · 66 studies (23 associational, 21 causal, 10 review, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 18 of 66 report an effect size · 92 claims rest on one study
+> **Evidence** · 97 claims (61 show a difference, 22 mixed, 14 no difference) · 67 studies (23 associational, 22 causal, 10 review, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 18 of 67 report an effect size · 94 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -131,6 +131,8 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Grasping virtual objects benefits low language aptitude learners but not high language aptitude learners relative to audiovisual baseline](../claims/grasping-benefits-low-aptitude-not-high-aptitude-learners.md) [~M] — an instructional effect differs with it
 - [Language aptitude correlates with vocabulary retention after audiovisual learning but not after grasping-based learning](../claims/aptitude-vocabulary-correlation-eliminated-by-grasping.md) [~M] — learners who differ on it differ in outcomes
 - [Physical activity interventions in childhood improve fluid intelligence with a small summary effect, based on moderate-certainty evidence](../claims/pa-interventions-improve-fluid-intelligence-childhood.md) [+M] — instruction changes it
+- [Dynamic visualizations compensate vocational-school students with low general reasoning when learning with analogies](../claims/dynamic-visualizations-compensate-low-general-reasoning-vs-students.md) [+M] — an instructional effect differs with it
+- [Hypothesized ATI effects of individualized explanations based on typical mistakes were not supported; exploratory benefits emerged for high-resource vocational-school students](../claims/individualized-explanations-ati-hypotheses-not-supported.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

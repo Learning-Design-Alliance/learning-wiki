@@ -48,3 +48,7 @@ The abstract reports the headline comparison across two studies: observing "typi
 - [Typical gestures are rated as more semantically related to accompanying speech than atypical gestures](typical-gestures-rated-more-semantically-related.md) — related
 - [Meaningful pointing gestures produced higher retention scores than beat gestures (review attributes this to Beege et al., 2020)](meaningful-gestures-beat-beat-gestures.md) — related
 - [Pointing during multimedia learning leads to superior comprehension and increased attentional focus compared with tracing or no hand movements](pointing-superior-comprehension-multimedia.md) — related
+- [Observing and producing gestures can enhance comprehension of verbal messages including narratives](gesture-enhances-verbal-comprehension-established.md) — a broader claim this one bears on
+- [Gesture production does not moderate the differential effects of observing typical versus atypical gestures on narrative comprehension](gesture-production-does-not-moderate-observation-effects.md) — related
+- [Producing gestures shows no significant benefit for adult narrative comprehension](gesture-production-no-benefit-narrative-comprehension.md) — related
+- [Observing typical gestures, but not atypical gestures, significantly benefits adult narrative comprehension](observing-typical-gestures-benefits-narrative-comprehension.md) — possibly the same claim (merge candidate)

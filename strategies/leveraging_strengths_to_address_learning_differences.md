@@ -67,6 +67,7 @@ Strengths-based differentiation works because it pairs compensatory access with 
 - [Activities for Student Self-Reflection](../strategies/activities_for_student_self-reflection.md) — the self-awareness routines that make the strategy learner-owned
 - [Leverage what students do well and enjoy to address their learning challenges](leverage-strengths-to-mitigate-challenges.md)
 - [Personalize professional development by differentiating it and assigning educators by strengths and student needs](personalized-differentiated-teacher-pd.md)
+- [Individualize instruction by conditioning scaffolds on the mechanisms underlying specific learning activities](condition-scaffolds-on-learning-activity-mechanisms.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the one-to-one vehicle for profiling and strategy alignment

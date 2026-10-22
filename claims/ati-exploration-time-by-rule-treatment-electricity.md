@@ -66,3 +66,4 @@ The article's summary of Shute and Towle (2003) reports the group-level contrast
 
 ## Related Claims
 - [Instruction before exploration yields immediate MVC-strategy advantages in the first exploration task, driven by shorter exploration time](instruction-first-immediate-mvc-strategy-task1.md) — related
+- [Hypothesized ATI effects of individualized explanations based on typical mistakes were not supported; exploratory benefits emerged for high-resource vocational-school students](individualized-explanations-ati-hypotheses-not-supported.md) — related

@@ -51,3 +51,4 @@ Correlational analyses (N = 358) showed all achievement emotions significantly r
 - [Stronger positive emotions are associated with less underconfident postdictions, and anxiety and shame with more underconfident postdictions](emotions-postdiction-accuracy-underconfidence.md) — related
 - [Stronger positive emotions are associated with more overconfident predictions, and stronger negative emotions (anxiety, shame, hopelessness) with more underconfident predictions](emotions-prediction-accuracy-over-underconfidence.md) — related
 - [Greater anger, hopelessness, and negative emotions overall during reading are associated with poorer text comprehension, while positive emotions show no relation](negative-achievement-emotions-poorer-text-comprehension.md) — related
+- [Negative normative feedback lowered math performance indirectly via reduced hope](negative-feedback-indirect-lowered-performance-hope.md) — related

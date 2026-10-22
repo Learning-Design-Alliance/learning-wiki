@@ -52,3 +52,4 @@ Pearson's correlation analysis (Table 2) in the survey of 462 students, correlat
 - [Higher model quality was associated with less goal viewing and note taking, while lab report scores correlated positively with regulative tool use and negatively with helpfile viewing](tool-use-outcome-correlations-diverge.md) — related
 - [Students rate their knowledge about cognition higher than their regulation of cognition](knowledge-cognition-rated-higher-than-regulation.md) — related
 - [Deep approaches to learning correlate positively and surface approaches negatively with academic achievement](deep-approach-positive-surface-negative-correlation.md) — related
+- [Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not in the consistently high complexity group](metacognition-meta-awareness-correlation-by-condition.md) — related

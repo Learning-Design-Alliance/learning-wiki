@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (80 show a difference, 26 mixed, 14 no difference) · 88 studies (32 causal, 16 associational, 13 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 26 of 88 report an effect size · 119 claims rest on one study
+> **Evidence** · 122 claims (80 show a difference, 28 mixed, 14 no difference) · 89 studies (33 causal, 16 associational, 13 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 27 of 89 report an effect size · 121 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -162,6 +162,8 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Mind wandering can function as a resource for regulation when learners have metacognitive awareness of attentional shifts](../claims/mind-wandering-resource-for-regulation.md) [~M] — an instructional effect differs with it
 - [Offloading information to external stores is associated with lower memory performance, moderated by awareness of a later test](../claims/offloading-associated-with-lower-memory-performance.md) [~M] — an instructional effect differs with it
 - [Regular and explicit teacher addressing of metacognitive strategies is linked to students applying more metacognitive strategies over time](../claims/explicit-metacognitive-addressing-increases-student-strategy-use.md) [+M] — instruction changes it
+- [Consistently high complexity raises meta-awareness in Round 1 but not in later rounds](../claims/complexity-meta-awareness-round-1.md) [~M] — instruction changes it
+- [Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not in the consistently high complexity group](../claims/metacognition-meta-awareness-correlation-by-condition.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

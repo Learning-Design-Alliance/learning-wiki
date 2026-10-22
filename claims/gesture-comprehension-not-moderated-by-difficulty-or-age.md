@@ -51,3 +51,7 @@ The abstract reports null moderation results across the two studies: the gesture
 - [Gesture instructions impaired narrative recall only for participants with average or above-average verbal memory, not those below average (Study 1)](gesture-instruction-harms-recall-high-verbal-memory.md) — related
 - [Emotional valence benefited narrative recall: negative narratives were recalled best and neutral narratives worst (Study 1)](emotional-valence-benefits-narrative-recall-study1.md) — related
 - [Children's age did not moderate gesture enrichment benefits on vocabulary test performance in Experiment 1](age-does-not-moderate-gesture-enrichment.md) — related
+- [Observing and producing gestures can enhance comprehension of verbal messages including narratives](gesture-enhances-verbal-comprehension-established.md) — related
+- [Gesture production does not moderate the differential effects of observing typical versus atypical gestures on narrative comprehension](gesture-production-does-not-moderate-observation-effects.md) — a narrower finding that bears on this claim
+- [Producing gestures shows no significant benefit for adult narrative comprehension](gesture-production-no-benefit-narrative-comprehension.md) — related
+- [Observing typical gestures, but not atypical gestures, significantly benefits adult narrative comprehension](observing-typical-gestures-benefits-narrative-comprehension.md) — related
