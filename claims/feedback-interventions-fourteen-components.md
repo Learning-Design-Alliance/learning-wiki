@@ -9,15 +9,15 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 sources:
-  - id: winstone-2014
-    title: "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2014). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. Educational Psychologist (in press)."
+  - id: winstone-2017
+    title: "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. *Educational Psychologist, 52*(1), 17–37. [doi:10.1080/00461520.2016.1207538](https://doi.org/10.1080/00461520.2016.1207538)"
     author: "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J."
     q: 2
     i: "?"
     kind: review
     rigour: 3
-  - id: winstone-2014-2
-    title: "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2014). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. Educational Psychologist (in press)."
+  - id: winstone-2017-2
+    title: "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. *Educational Psychologist, 52*(1), 17–37. [doi:10.1080/00461520.2016.1207538](https://doi.org/10.1080/00461520.2016.1207538)"
     author: "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J."
     q: 2
     i: "?"
@@ -31,14 +31,14 @@ sources:
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
 
 ## Subclaims
-`q2 i?` The review distinguished 14 intervention component categories plus an 'other' category, but could not meta-analyze component effects because most evidence was descriptive or anecdotal. [→ Winstone 2014](#winstone-2014)
-`q2 i?` Peer-assessment interventions showed self-report benefits including improved reflection and appreciation of grading criteria, but peers do not always identify flaws and their grades often misalign with expert graders. [→ Winstone 2014 (2)](#winstone-2014-2)
+`q2 i?` The review distinguished 14 intervention component categories plus an 'other' category, but could not meta-analyze component effects because most evidence was descriptive or anecdotal. [→ Winstone 2017](#winstone-2017)
+`q2 i?` Peer-assessment interventions showed self-report benefits including improved reflection and appreciation of grading criteria, but peers do not always identify flaws and their grades often misalign with expert graders. [→ Winstone 2017 (2)](#winstone-2017-2)
 
 ## Evidence
 
-### Winstone 2014
+### Winstone 2017
 
-Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2014). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. Educational Psychologist (in press).
+Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. *Educational Psychologist, 52*(1), 17–37. [doi:10.1080/00461520.2016.1207538](https://doi.org/10.1080/00461520.2016.1207538)
 
 `q2 · i?` · `review · r3`
 
@@ -46,9 +46,9 @@ Narrative summary across the 105 intervention papers in the systematic review. B
 
 > "a large proportion of the evidence on different interventions came only from descriptive analysis, and anecdotal reports from learners and from the researchers themselves"
 
-### Winstone 2014 (2)
+### Winstone 2017 (2)
 
-Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2014). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. Educational Psychologist (in press).
+Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. *Educational Psychologist, 52*(1), 17–37. [doi:10.1080/00461520.2016.1207538](https://doi.org/10.1080/00461520.2016.1207538)
 
 `q2 · i?` · `review · r2`
 

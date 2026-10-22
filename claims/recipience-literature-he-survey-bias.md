@@ -9,8 +9,8 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 sources:
-  - id: winstone-2014
-    title: "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2014). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. Educational Psychologist (in press)."
+  - id: winstone-2017
+    title: "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. *Educational Psychologist, 52*(1), 17–37. [doi:10.1080/00461520.2016.1207538](https://doi.org/10.1080/00461520.2016.1207538)"
     author: "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J."
     q: 3
     i: "?"
@@ -24,13 +24,13 @@ sources:
 > **Evidence** · 1 study · review `r3` · `q3`
 
 ## Subclaims
-`q3 i?` Of 159 empirical papers on proactive recipience, 55% used surveys, only 19% assessed learners' actual behavior, and 55% sampled only undergraduates, so the evidence base is skewed toward Higher Education and self-report. [→ Winstone 2014](#winstone-2014)
+`q3 i?` Of 159 empirical papers on proactive recipience, 55% used surveys, only 19% assessed learners' actual behavior, and 55% sampled only undergraduates, so the evidence base is skewed toward Higher Education and self-report. [→ Winstone 2017](#winstone-2017)
 
 ## Evidence
 
-### Winstone 2014
+### Winstone 2017
 
-Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2014). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. Educational Psychologist (in press).
+Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. *Educational Psychologist, 52*(1), 17–37. [doi:10.1080/00461520.2016.1207538](https://doi.org/10.1080/00461520.2016.1207538)
 
 `q3 · i?` · `review · r3`
 

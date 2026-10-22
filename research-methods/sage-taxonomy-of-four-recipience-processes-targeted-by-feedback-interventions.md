@@ -28,4 +28,4 @@ The SAGE taxonomy is a data-driven framework of four distinct recipience process
 -
 
 ## Key Sources
-- Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2014). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. Educational Psychologist (in press). https://doi.org/10.1080/00461520.2017.1359635
+- Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. *Educational Psychologist, 52*(1), 17–37. [doi:10.1080/00461520.2016.1207538](https://doi.org/10.1080/00461520.2016.1207538)
