@@ -70,3 +70,4 @@ The review reports this moderator from the same meta-analysis: under goal-driven
 - [Task type moderates the correlation: problem-solving tasks show a stronger negative association than word/paired-associate tasks](problem-solving-tasks-stronger-negative-correlation.md) — related
 - [Effort appraisals correlate negatively with monitoring judgments: high mental effort is associated with poorer performance judgments](effort-appraisals-negative-correlation-monitoring.md) — related
 - [Publication bias analyses suggest the negative correlation is robust but trim-and-fill adjusts it to r = −.227](publication-bias-trim-and-fill-adjustment.md) — related
+- [Perceived mental effort serves as a cue for monitoring judgments, which mediate the effort–outcome relation (David et al., 2024 meta-analysis)](david-2024-effort-cue-monitoring-meta-analysis.md) — possibly the same claim (merge candidate)

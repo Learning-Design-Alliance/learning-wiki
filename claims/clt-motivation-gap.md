@@ -54,3 +54,4 @@ Document analysis within the review: the authors note the 1998 CLT theory articl
 - [Task difficulty shows a u-shaped relation to regulatory activities, with competing CLT-based and motivational explanations that cannot yet be distinguished](u-shaped-task-difficulty-regulation.md) — related
 - [CLT can serve as a framework for teaching generalized knowledge and skills, including learning strategies](clt-framework-generalized-skills.md) — related
 - [Cognitive-motivational techniques that increase both focus support and reward are hypothesized to be most effective for learning](fore-h3-cognitive-motivational-techniques-most-effective.md) — related
+- [Study crafting is fostered by study resources via engagement and improves engagement and well-being, including in a randomized intervention](study-crafting-engagement-gain-spiral.md) — related

@@ -55,3 +55,4 @@ The review's synthesis of affective-factor studies (narrative review attributing
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — reports the opposite
 - [AI use also carries negative outcomes: technical instability, negative emotional impacts, over-reliance, and contextual contingency](ai-wtc-negative-outcomes-challenges.md) — related
 - [Social presence influences how social interaction unfolds in online group learning, which in turn affects learning outcomes](social-presence-shapes-online-group-interaction-and-outcomes.md) — related
+- [Challenging study demands combined with resources boost emotional engagement, though interaction effects on cognitive and behavioral engagement were mainly nonsignificant](boost-hypothesis-study-demands-resources.md) — related

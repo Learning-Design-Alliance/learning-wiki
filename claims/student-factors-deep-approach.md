@@ -107,3 +107,4 @@ Review synthesis of correlational studies on self-confidence, self-efficacy and 
 - [Students who perceive teaching as good, and perceive clear goals, supportiveness and relevant courses, are more inclined towards a deep approach](perceived-teaching-quality-deep-approach.md) — related
 - [Excessive perceived workload is positively associated with a surface approach and negatively with a deep approach to learning](perceived-workload-surface-approach.md) — related
 - [Learning patterns are associated with personal factors (personality, motivation, beliefs, prior education, age, gender); their associations with personality are weak to moderate, indicating learning patterns are not stable traits](learning-patterns-personal-factors.md) — a broader claim this one bears on
+- [Personal resources have a reciprocal relationship with study resources and relate to engagement and achievement](personal-resources-reciprocal-study-resources.md) — related

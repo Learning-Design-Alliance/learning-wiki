@@ -45,3 +45,4 @@ Analytical argument (with an algebraic rearrangement of the I/E regression equat
 ## Related Claims
 - [Dimensional comparisons: achievement–self-concept paths are positive in similar subjects but negative in dissimilar subjects](moller-2020-dimensional-comparisons-path-coefficients.md) — related
 - [The 2I/E model is supported: social comparison effects are moderate, dimensional comparison effects small to moderate, and temporal comparison effects small on math and verbal self-concepts](ipd-meta-2ie-model-supported-moderate-social-small-temporal-effects.md) — related
+- [Within-domain effects in the difference I/E model decrease after controlling for between-domain effects when classic I/E between-domain effects are negative](difference-ie-within-effects-decrease-controlling-between-domain.md) — related

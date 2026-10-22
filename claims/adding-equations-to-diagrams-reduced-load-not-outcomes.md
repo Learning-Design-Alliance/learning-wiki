@@ -52,3 +52,4 @@ Summary of ANOVA results from the five-condition experiment; the quote reports "
 - [Reducing extraneous load can also remove affordances for germane processes](extraneous-load-reduction-may-remove-germane-affordances.md) — related
 - [Learners working with tree diagrams performed fewer manipulations in the simulations than learners in other conditions](diagram-condition-fewer-simulation-manipulations.md) — related
 - [In inquiry learning of combinatorics, learners given a Text + Arithmetic representation outperformed learners given tree diagrams on total post-test scores](text-arithmetic-outperformed-diagram-total-posttest.md) — related
+- [Reducing extraneous cognitive load is not a significant moderator of drawing support effects on comprehension](extraneous-load-reduction-non-significant-moderator.md) — related

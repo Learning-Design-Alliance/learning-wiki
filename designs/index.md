@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**971 entries** · 0 stable · 971 in review · 0 drafts
+**974 entries** · 0 stable · 974 in review · 0 drafts
 
 ---
 
@@ -573,6 +573,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Maryland SLO implementation process and state support tools](maryland-slo-process-and-msde-support-tools.md) - The Maryland SLO component is an instructional process embedded in the TPE evaluation system, in which SLOs are \"the predominate measure of student growth for teachers and principals\" and may account for 30%-50% of th...
 * [Mathbot's design framework: Constructionism combined with Reinforcement Learning Theory for adaptive AI-driven learning](mathbot-constructionism-reinforcement-framework.md) - The Mathbot intervention is grounded in a dual theoretical foundation combining Papert's Constructionism and Skinner's Reinforcement Learning Theory.
 * [Mental and behavioral health referral pathways and community of practice](cal-well-referral-pathways-community-of-practice.md) - Referral pathways are site-level processes for routing students to behavioral and mental health supports.
+* [Mental simulation training program: eight 30-min lessons alternating group instruction and individual computer-based practice](mental-simulation-training-program-element.md) - A 4-week reading strategy training in which \"Mental simulation was taught in a 4-week training program containing eight 30-min lessons (two lessons per week)\", alternating group instruction lessons with individual com...
 * [Michigan Diverse Educator Advisory Group and director of diversity, equity, and inclusion](michigan-diverse-educator-advisory-group.md) - Michigan established the Diverse Educator Advisory Group in 2021 \"to provide recommendations for changes to educator workforce policy\", with results under review by department staff.
 * [Micro-R&D: teachers test new tools and ideas on a small scale before successful practices enter the broader curriculum](micro-rd-small-scale-teacher-testing.md) - At South Fayette Township School District (PA), R&D operates as a culture of experimentation rather than a department.
 * [Middle school biotechnology fermented-drinks lesson demonstrating asset-based instruction and divergent formative assessment](middle-school-biotechnology-fermented-drinks-lesson.md) - A snapshot vignette of a middle school science lesson in which English learners at various proficiency levels work with non-English learner peers to apply biotechnology principles: researching fermented drinks made by...
@@ -986,6 +987,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### U {: #letter-u }
 
 * [UBRIDGE Institute: a six-week synchronous interdisciplinary faculty development program for ethical AI integration](ubridge-six-week-faculty-ai-institute.md) - The UBRIDGE (Universal design, Bloom's taxonomy, Reflection, Integration, Design thinking, Growth mindset, Ethics) Institute was a six-session synchronous Zoom program, two hours weekly, for interdisciplinary faculty...
+* [UCLA Migrant Student Leadership Institute as a third space](ucla-migrant-student-leadership-institute-third-space.md) - The MSLI is presented as an illustrative example of a third space—an approach or zone of development that transforms 'conflict and difference into rich zones of collaboration and learning.' It reorganized educational...
 * [UK high school Students as Researchers partnership running since 1996](uk-high-school-students-as-researchers-since-1996.md) - A long-running joint project in a UK high school in which students act as researchers, developed since 1996 and described as still current at the time of writing.
 * [Undergraduate climatology course using scientific visualization at the University of Chicago](undergraduate-climatology-course-visualization.md) - The third educational example is \"an undergraduate climatology course at the University of Chicago,\" in which scientific visualization was used within instruction.
 * [Unicode perturbation families implemented as system-prompt soft barriers](unicode-perturbation-soft-barrier-families.md) - The paper implements soft barriers as a system prompt instructing the model to inject specific Unicode characters into user-defined identifiers during generation, leaving keywords, operators, literals, and built-in na...
@@ -1002,6 +1004,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [VCU University College model: cohort-based first-year core curriculum with centralized support and proactive advising](vcu-university-college-first-year-model.md) - Virginia Commonwealth University's University College, launched in 2006, is built around \"a cohesive core curriculum with a limited set of course options and small class sizes,\" taught by dedicated cross-disciplinary...
 * [Verification-centered Johnstone-3P architecture for GenAI in university chemistry education](verification-centered-johnstone-3p-genai-architecture.md) - The review proposes an explanatory architecture in which Johnstone's chemistry triplet (macroscopic, submicroscopic, symbolic domains, with representational translation as a cross-domain process rather than a fourth l...
+* [Virtual pipetting simulation with tutorial and test phases in four condition variants](virtual-pipetting-simulation-four-conditions.md) - The learning material was an adapted version of a simulation used by Petersen et al.
 * [Virtual professional learning community (vPLC) for ASSISTments teacher training](assistments-vplc-teacher-training-element.md) - The vPLC is a virtual professional learning model designed to connect rural and geographically isolated teachers with peers and learning opportunities.
 * [Voluntary video game teaching basic computational concepts to early-age children, grounded in intrinsic motivation](voluntary-intrinsic-motivation-programming-game.md) - A voluntary video game addressing basic computational concepts, deployed for early ages and grounded in intrinsic motivation.
 * [vPLC-augmented ASSISTments intervention with four-step formative assessment process](vplc-augmented-assistments-intervention.md) - The intervention combines WPI's ASSISTments online math platform with a virtual professional learning community (vPLC) designed to enhance scalability, reducing travel and scheduling barriers especially for rural dist...

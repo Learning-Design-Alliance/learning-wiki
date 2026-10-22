@@ -75,3 +75,4 @@ The chapter reports, citing Bernik et al. (2025), a comparative study of large l
 - [Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors](human-in-the-loop-ai-design-pf.md) — related
 - [AI-assisted practice applications improved music students' performance outcomes, self-efficacy, and self-regulated learning](ai-practice-apps-improve-music-learning-outcomes.md) — related
 - [Across studies, ChatGPT serves as a convenient tool assisting teachers, students and researchers in various tasks, with the consistent underlying motivation of seeking personal benefits and reducing academic burdens.](chatgpt-convenient-tool-personal-benefit-motivation.md) — related
+- [Drawing support that facilitates integration significantly increases comprehension, while support not expected to facilitate integration does not](integration-facilitation-significant-moderator.md) — related

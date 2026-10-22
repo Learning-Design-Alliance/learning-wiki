@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 201 claims (92 for, 101 mixed, 8 against) · 153 studies (51 associational, 41 causal, 21 review, 15 quant-synthesis, 12 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 36 of 153 report an effect size · 185 claims rest on one study
+> **Evidence** · 205 claims (95 for, 102 mixed, 8 against) · 155 studies (51 associational, 43 causal, 21 review, 15 quant-synthesis, 12 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 36 of 155 report an effect size · 189 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -248,6 +248,10 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Cognitive resources play a dual role in SR, both enabling self-regulatory processes and constraining how Learning Activities unfold](../claims/cognitive-resources-dual-role-enable-and-constrain-sr.md) [~W]
 - [Students make substantial use of worked examples during self-regulated learning, but task selection patterns differ across studies and between high- and low-scoring students](../claims/task-selection-patterns-examples-practice-problems.md) [~W]
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](../claims/comsa-metacognitive-monitoring-stopping.md) [~W]
+- [Perceived mental effort serves as a cue for monitoring judgments, which mediate the effort–outcome relation (David et al., 2024 meta-analysis)](../claims/david-2024-effort-cue-monitoring-meta-analysis.md) [+W] — attached 2026-10-21 from de Bruin et al. (2025), which proposed "The Effort Monitoring and Regulation (EMR) model integrates self-regulated learning and cognitive load theory".
+- [Negative performance feedback raises expected future mental effort and affects perceived effort and willingness to invest effort via challenge and threat (van Gog et al., 2024)](../claims/feedback-valence-affects-effort-via-challenge-threat.md) [+W] — attached 2026-10-21 from de Bruin et al. (2025), which proposed "The Effort Monitoring and Regulation (EMR) model integrates self-regulated learning and cognitive load theory".
+- [Process mining shows VM conditions exhibit unique reasoning–self-regulation sequences and self-loops absent in the control condition](../claims/process-mining-vm-sequences-selfloops.md) [~W]
+- [Cognitive learning strategy training yields preliminary evidence of far metacognitive transfer to effort regulation (Wirth et al., 2025)](../claims/far-metacognitive-transfer-effort-regulation.md) [+W]
 
 ## The evidence by question
 

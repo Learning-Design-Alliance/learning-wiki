@@ -49,3 +49,4 @@ The commentary reports, citing Evans et al. (2024) in the special issue, a cross
 - [Autonomous motivation types positively relate to school achievement while controlled types show weak negative or null relations](autonomous-vs-controlled-motivation-achievement.md) — related
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related
 - [Effort was consistently described as willful, motivation-dependent investment, whereas load was described as imposed and difficult to control](effort-willful-load-imposed.md) — related
+- [Teachers' load-reducing strategies and motivating styles correlate with lower cognitive load and higher motivation, engagement, and achievement (Evans et al., 2024)](load-reducing-teaching-strategies-motivation-engagement.md) — possibly the same claim (merge candidate)

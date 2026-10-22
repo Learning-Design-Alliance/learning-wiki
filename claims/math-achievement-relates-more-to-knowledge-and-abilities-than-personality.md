@@ -91,3 +91,4 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [Conscientiousness shows the strongest links to SRL and robustly predicts academic performance even after accounting for cognitive ability](conscientiousness-predicts-achievement-srl-link.md) — related
 - [Teacher-assigned grades show moderate-to-strong correlations with external performance measures and predict long-term outcomes (review-reported)](grades-correlate-external-measures-review.md) — related
 - [Stable Dispositions such as conscientiousness predict academic success partly through effort, with some independence from cognitive ability](stable-dispositions-predict-academic-success-through-effort.md) — reports the opposite
+- [Metacognitive awareness is weakly correlated with intelligence and independently predicts performance (review-reported)](metacognitive-awareness-independently-predicts-performance.md) — related

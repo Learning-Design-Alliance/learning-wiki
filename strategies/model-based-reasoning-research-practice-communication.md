@@ -41,7 +41,8 @@ Drawing on Mislevy (2009), the commentary recommends developing a model-based re
 - [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](../claims/instructional-design-models-are-validated-by-adoption-not-testing.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Examine manipulative strategies across populations, domains, outcomes, and settings before issuing broad professional recommendations](examine-manipulatives-before-broad-recommendations.md)
 
 ## Examples
 -

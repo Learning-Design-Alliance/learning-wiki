@@ -53,3 +53,4 @@ One laboratory and one classroom experiment compared individualized (adaptive) f
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — related
 - [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](faded-step-position-no-learning-outcome-effect.md) — related
+- [Worked examples benefit learning even compared to tutored problem solving with on-demand guidance, indicating the effect is not an artefact of weak control conditions](worked-examples-beat-tutored-problem-solving.md) — related

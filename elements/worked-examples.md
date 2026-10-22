@@ -13,7 +13,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (15 for, 14 mixed, 4 against) · 36 studies (19 causal, 8 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 6 of 36 report an effect size · 24 claims rest on one study
+> **Evidence** · 35 claims (17 for, 14 mixed, 4 against) · 37 studies (19 causal, 9 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 6 of 37 report an effect size · 26 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -67,6 +67,8 @@ Worked examples are the element in which learners study complete or partial solu
 - [Time on task does not explain the erroneous-examples delayed learning advantage](../claims/time-on-task-does-not-explain-delayed-advantage.md) [~W]
 - [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](../claims/worked-example-self-explanation-journal-transfer.md) [+W]
 - [Combining tracing with imagining (tracing with closed eyes) reduced problem-solving times compared to no tracing and imagining in worked-example mathematics learning](../claims/tracing-imagining-combination-reduces-solving-times.md) [~W]
+- [Adding instructional explanations to worked examples yields a small positive effect on learning, stronger for conceptual than procedural knowledge](../claims/instructional-explanations-in-worked-examples-small-effect.md) [+W]
+- [Worked examples benefit learning even compared to tutored problem solving with on-demand guidance, indicating the effect is not an artefact of weak control conditions](../claims/worked-examples-beat-tutored-problem-solving.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

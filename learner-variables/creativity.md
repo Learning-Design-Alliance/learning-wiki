@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (53 show a difference, 17 mixed, 5 no difference) · 40 studies (12 causal, 11 associational, 10 review, 3 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 10 of 40 report an effect size · 73 claims rest on one study
+> **Evidence** · 82 claims (55 show a difference, 21 mixed, 6 no difference) · 41 studies (12 causal, 11 associational, 10 review, 4 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 10 of 41 report an effect size · 80 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -110,6 +110,13 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Nature exposure at work did not significantly predict employee creativity in a longitudinal study where job autonomy and workload were the significant predictors](../claims/workplace-nature-null-creativity-korpela.md) [-M] — instruction changes it
 - [Qualitative studies identify potential mechanisms linking nature and creativity, including solitude, relaxation, inspiration, and disconnection from technology](../claims/qualitative-mechanisms-nature-creativity.md) [~W] — instruction changes it
 - [Wilderness immersion experiences improve convergent creative thinking, with reported gains including a 50% increase on the RAT after four days in nature](../claims/wilderness-immersion-improves-convergent-creativity.md) [+M] — instruction changes it
+- [A seventh-grade slump in divergent thinking is observed at the overall and indicator level](../claims/seventh-grade-slump-dt.md) [+W] — instruction changes it
+- [Divergent thinking shows an overall upward developmental trend across Grades 1–12, peaking in Grade 9, with significant drops in Grades 7, 10, and 11](../claims/dt-upward-trend-peak-grade-9.md) [+W] — instruction changes it
+- [DT test and country of study significantly moderate the Grade 3–4 originality trend, with a drop for WKCT and for eastern-country samples](../claims/test-and-country-moderate-grade4-originality.md) [~W] — instruction changes it
+- [Intellectual giftedness significantly moderates the Grade 3–4 fluency trend: gifted subjects tend to increase while non-gifted subjects tend to decline](../claims/giftedness-moderates-grade4-fluency.md) [~W] — instruction changes it
+- [No general fourth-grade slump in divergent thinking: Grade 4 shows a plateau relative to Grade 3](../claims/no-general-fourth-grade-slump.md) [-W] — instruction changes it
+- [Task content domain significantly moderates the Grade 3–4 DT difference, with a positive SMD for figural tasks and a negative SMD for verbal tasks](../claims/content-domain-moderates-grade4-dt.md) [~W] — instruction changes it
+- [The seventh-grade slump is moderated by DT test, task content domain, and gender, with larger drops for WKCT, figural tasks, and a higher proportion of males](../claims/seventh-grade-slump-moderators.md) [~W] — instruction changes it
 
 ## Related Learner Variables
 

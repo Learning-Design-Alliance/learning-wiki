@@ -55,3 +55,4 @@ Narrative review argument synthesizing research on autonomous motivation, flow, 
 - [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](frustration-boredom-no-significant-impact.md) — related
 - [CHAT analysis identified three Type 2 secondary contradictions whose operation through psychological need frustration explained motivational decline despite growing competence](type2-contradictions-thwart-sdt-needs.md) — related
 - [Students perceive manageable challenge matched to their skills, with a sense of accomplishment, as an intrinsically rewarding element of fun in formal learning](challenge-accomplishment-fun-primary.md) — related
+- [Challenging study demands combined with resources boost emotional engagement, though interaction effects on cognitive and behavioral engagement were mainly nonsignificant](boost-hypothesis-study-demands-resources.md) — related

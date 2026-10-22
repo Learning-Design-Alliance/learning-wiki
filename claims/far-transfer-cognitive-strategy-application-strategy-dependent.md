@@ -47,3 +47,4 @@ ANCOVA on the MST_T at T3 controlling for T2 cognitive strategy application foun
 - [Theoretical expectation: hybrid metacognitive skill training benefits content knowledge acquisition more in near than in far transfer because far transfer is more cognitively demanding](near-transfer-working-memory-advantage-hypothesis.md) — related
 - [Hybrid training fosters far transfer of metacognitive skills to a new cognitive strategy, though one hybrid condition did not beat control](hybrid-training-fosters-far-transfer-metacognitive-skills.md) — related
 - [Hybrid training improves fifth-graders' application of metacognitive skills in near-transfer tasks compared to non-hybrid and control training](hybrid-training-improves-near-transfer-metacognitive-skills.md) — related
+- [Cognitive learning strategy training yields preliminary evidence of far metacognitive transfer to effort regulation (Wirth et al., 2025)](far-metacognitive-transfer-effort-regulation.md) — related

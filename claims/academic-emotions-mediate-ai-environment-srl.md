@@ -67,3 +67,4 @@ The structural model retained a significant direct path after including the thre
 - [Perceived AI-adaptive learning environments are negatively associated with college students' self-regulated learning in a three-wave longitudinal survey](ai-adaptive-environment-negative-srl-longitudinal.md) — related
 - [Negative emotional associations of AI-adaptive environments are pronounced among students with low AI literacy but substantially attenuated among those with high AI literacy](simple-slopes-ai-literacy-low-high.md) — related
 - [Boredom is the only achievement emotion predicting English vocabulary growth in primary school L2 learners; enjoyment and anxiety show no significant effect](boredom-predicts-l2-vocabulary-growth.md) — related
+- [Anxiety, enjoyment and boredom are three critical emotions in language learning that affect outcomes and engagement](anxiety-enjoyment-boredom-critical-sla-emotions.md) — related

@@ -51,3 +51,4 @@ Same linear mixed-effects model of curiosity ratings from 100 adults across 6000
 - [Curiosity ratings are functionally distinct from subjective uncertainty ratings: uncertainty declines near-linearly with confidence while curiosity is inverted-U shaped](curiosity-distinct-from-subjective-uncertainty.md) — reports the opposite
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related
 - [Yes/no feedback that participants were correct nearly quenched curiosity for correct answers, whereas without feedback curiosity peaked at moderate-to-high confidence](yes-no-feedback-correct-answers-quench-curiosity.md) — related
+- [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](immediate-feedback-partial-resolution-increases-curiosity.md) — related

@@ -56,3 +56,4 @@ Randomized experiment with 60 undergraduates assigned to retrieval practice inst
 - [Lay forecasters predicted that practicing alone would produce more learning than practicing with AI, contrary to the experimental results](forecasters-predicted-ai-practice-would-harm-learning.md) — related
 - [VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)](veriforge-delayed-recall-retention-rate.md) — related
 - [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](mixed-effects-across-experiments-criterion-failures.md) — related
+- [Mental effort did not explain the testing effect: retrieval practice effort did not predict delayed test scores](mental-effort-does-not-explain-testing-effect.md) — related

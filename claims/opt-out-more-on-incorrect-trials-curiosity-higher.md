@@ -68,3 +68,6 @@ Same Experiment 2 mixed-effects regression on curiosity and opt-out choice found
 - [Exposure to others' discrepant curiosity ratings reduces the curiosity gap between opted-out and non-opted-out trials and between incorrect and correct trials, altering metacognitive control](others-curiosity-discrepancy-alters-metacognitive-control.md) — related
 - [Adults' confidence judgments track answer accuracy: confidence is higher on correct than incorrect general-knowledge trials (metacognitive monitoring)](confidence-higher-correct-than-incorrect-trials.md) — related
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related
+- [Heuristic cues — response time, familiarity, problem complexity, and context reinstating — guide opting-out decisions](heuristic-cues-guide-opting-out.md) — related
+- [Allowing opt-out options improves output-bound accuracy in adults, primary-school children, and preschoolers](opting-out-improves-output-bound-accuracy.md) — related
+- [People underuse opt-out options, and explicit presentation substantially increases their use](opting-out-underuse-explicit-presentation-increases-use.md) — related

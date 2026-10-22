@@ -45,6 +45,7 @@ The report distills UCLA Community School's approach into six key practices: kno
 
 - [Community Integrated Data System for coordinating student supports](community-integrated-data-system-ucla-cs.md)
 - [Four core competencies and three core beliefs guiding teaching and learning at UCLA-CS](ucla-cs-four-core-competencies.md)
+- [UCLA Migrant Student Leadership Institute as a third space](ucla-migrant-student-leadership-institute-third-space.md)
 
 ## Examples
 -

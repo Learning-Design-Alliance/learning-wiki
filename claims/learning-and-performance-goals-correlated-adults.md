@@ -49,3 +49,4 @@ Inter-correlation in the pooled sample, consistent with prior college-student fi
 - [Entity theory correlates positively with performance goal orientation and incremental theory with learning goal orientation among student teachers](mindset-goal-orientation-correlation-student-teachers.md) — related
 - [Age negatively and education positively predict memory self-efficacy, and age negatively predicts memory performance](age-education-predict-memory-self-efficacy-and-performance.md) — related
 - [The correlation between mastery and relational goals is unusually strong (r = .64) in the Lao sample compared with Western teacher samples](lao-strong-mastery-relational-goal-correlation.md) — related
+- [Implicit theories of ability predict achievement goals, with performance goals mediating or suppressing entity theory effects on math performance](implicit-theories-predict-achievement-goals-math.md) — related

@@ -51,3 +51,4 @@ Analysis of five Facebook groups in an HCI/d Master's program found student-crea
 - [Facebook is used in myriad ways as an educational instrument for learning and teaching in higher education](facebook-myriad-educational-uses-higher-education.md) — a broader claim this one bears on
 - [First-year students used Facebook mainly for social purposes and only secondarily for informal student-to-student academic purposes, rarely for formal teaching.](facebook-social-not-formal-teaching.md) — related
 - [Students were generally opposed to tutors contacting them via Facebook for formal teaching, though a majority saw some role for departmental and module-level administrative uses.](student-opposition-tutor-facebook-contact.md) — related
+- [Schools and teachers unintentionally communicate identity messages to adolescents through the hidden curriculum](hidden-curriculum-unintentional-identity-messages.md) — related

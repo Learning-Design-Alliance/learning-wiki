@@ -48,3 +48,4 @@ Controlled experiment with 68 UCLA undergraduates learning Swahili–English pai
 - [Permitting feedback skipping increases the number of retrieval attempts completed within a fixed learning time](skipping-permits-more-retrieval-attempts.md) — related
 - [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
 - [Participants' feedback-skipping decisions diverge from the optimal computer algorithm: they skip after some incorrect responses and fail to skip after many correct responses](skipping-decisions-diverge-from-computer.md) — related
+- [Self-regulated dropping of already-known items during restudy conferred no significant learning advantage and was sometimes mildly detrimental](dropping-known-items-no-learning-advantage.md) — related

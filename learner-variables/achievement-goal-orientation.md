@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 44 claims (23 show a difference, 15 mixed, 6 no difference) · 24 studies (10 associational, 5 review, 4 causal, 3 theoretical, 2 quant-synthesis), `q2`–`q4` · 10 of 24 report an effect size · 42 claims rest on one study
+> **Evidence** · 47 claims (26 show a difference, 15 mixed, 6 no difference) · 25 studies (10 associational, 6 review, 4 causal, 3 theoretical, 2 quant-synthesis), `q2`–`q4` · 10 of 25 report an effect size · 45 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -79,6 +79,9 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Mastery and performance goals show associations with both activity and outcome emotions](../claims/mastery-performance-goals-activity-outcome-emotions.md) [+M] — learners who differ on it differ in outcomes
 - [Work-avoidance goals are particularly related to negative activity emotions](../claims/work-avoidance-goals-negative-activity-emotions.md) [+W] — learners who differ on it differ in outcomes
 - [Parental pressure frequently predicts positive academic outcomes among East Asian children, including stronger mastery goals and higher self-efficacy](../claims/parental-pressure-positive-outcomes-east-asian-children.md) [+M] — instruction changes it
+- [Autonomous achievement goal complexes predict adaptive outcomes over and above goals alone and reasons alone](../claims/autonomous-goal-complexes-predict-adaptive-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Implicit theories of ability predict achievement goals, with performance goals mediating or suppressing entity theory effects on math performance](../claims/implicit-theories-predict-achievement-goals-math.md) [+M] — learners who differ on it differ in outcomes
+- [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](../claims/test-anxiety-goal-complex-mediation.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

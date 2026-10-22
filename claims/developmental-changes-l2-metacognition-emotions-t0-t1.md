@@ -72,3 +72,4 @@ Paired t tests on the AEQ-ES emotion scales showed boredom rising from M = 1.51 
 - [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — related
 - [Metacognitive efficiency at Grade 1 predicts children's performance improvement 10 months later in both a linguistic and a non-linguistic task](metacognitive-efficiency-predicts-longitudinal-learning.md) — related
 - [Musical play intervention significantly increased children's metacognitive knowledge of strategies at interview](musical-play-intervention-metacognitive-knowledge-of-strategies-gains.md) — related
+- [Anxiety, enjoyment and boredom are three critical emotions in language learning that affect outcomes and engagement](anxiety-enjoyment-boredom-critical-sla-emotions.md) — related

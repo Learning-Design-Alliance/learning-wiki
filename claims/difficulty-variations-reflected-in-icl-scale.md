@@ -47,3 +47,5 @@ Between-subject experiment (N = 62) in which quiz question difficulty was varied
 - [Task difficulty strongly determined task performance: boredom conditions scored highest and overload conditions lowest in both ICL studies](difficulty-determines-task-performance-boredom-highest.md) — related
 - [An unexpected effect: task difficulty variation in the Tetris study also produced differences in reported extraneous cognitive load](unexpected-ecl-effect-tetris-study.md) — related
 - [In a preregistered within-subjects experiment (N = 131, eight measurements), the translated scale showed criterion validity via sensitivity to task complexity, extraneous load, and motivation](mel-ts-criterion-validity.md) — related
+- [Subjective effort ratings are sensitive to variations in task complexity, with higher ratings for complex tasks](subjective-effort-ratings-sensitive-to-task-complexity.md) — related
+- [Task difficulty shows an inverted U-shaped relation with cognitive strategy use and a positive linear relation with metacognitive strategy use, mediated by cognitive load (Seufert et al., 2024)](task-difficulty-inverted-u-strategy-use.md) — related

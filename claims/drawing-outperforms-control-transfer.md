@@ -46,3 +46,4 @@ ANCOVA on transfer performance with prior knowledge as covariate in a randomized
 - [All three drawing conditions scored better than the control condition on the drawing test and performed equally well](drawing-outperforms-control-drawing-test.md) — related
 - [Drawing provided no benefit for lower-order recognition knowledge, and the local support condition scored significantly lower than control](drawing-no-recognition-benefit-local-worse.md) — related
 - [Neither global nor local drawing support increased drawing quality, and local support significantly decreased it relative to unsupported drawing](drawing-support-did-not-increase-quality.md) — related
+- [Instructional drawing support does not significantly improve students' comprehension or transfer compared with unsupported drawing overall](drawing-support-no-overall-effect.md) — related

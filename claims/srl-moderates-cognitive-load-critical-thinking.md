@@ -49,3 +49,4 @@ Moderated mediation analysis (PROCESS Model 14) in the 480-student survey. At lo
 - [Cognitive load partially mediates the relationship between AI-based educational technology use and critical thinking](cognitive-load-partially-mediates-ai-critical-thinking.md) — related
 - [Self-regulated learning moderates the indirect effect of AI use on critical thinking through cognitive load](srl-moderates-indirect-ai-effect.md) — a broader claim this one bears on
 - [Self-regulated learning ability significantly moderates Gen-AI's effect on HOT: high-SRL students show ES = 0.863 versus ES = 0.284 for low-SRL students](genai-srl-moderator.md) — related
+- [Study resources buffer the negative impact of study demands on student psychological well-being](study-resources-buffer-demand-impact.md) — related

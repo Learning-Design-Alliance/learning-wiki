@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 185 claims (155 show a difference, 25 mixed, 5 no difference) · 139 studies (83 associational, 23 review, 13 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 139 report an effect size · 183 claims rest on one study
+> **Evidence** · 186 claims (156 show a difference, 25 mixed, 5 no difference) · 140 studies (83 associational, 24 review, 13 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 140 report an effect size · 184 claims rest on one study
 
 ## How to read this page
 
@@ -222,6 +222,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Belonging mediates the relationship between racial/ethnic identity and both academic achievement and emotional symptoms](../claims/belonging-mediates-identity-achievement.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The review reports that a brief values-affirmation writing assignment raised Black students' semester grades, narrowing the Black-White achievement gap](../claims/values-affirmation-grade-gains-reported.md) [+M] — an instructional effect differs by group
 - [The review reports that jigsaw classrooms produced gains in self-esteem, interpersonal attraction, empathy, and minority academic achievement without cost to majority students](../claims/jigsaw-classroom-benefits-reported.md) [+M] — an instructional effect differs by group
+- [Shallow multiculturalism undermines Latinx students' belonging by reinforcing intersectional invisibility](../claims/shallow-multiculturalism-undermines-latinx-belonging.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

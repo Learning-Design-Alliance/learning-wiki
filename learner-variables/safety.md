@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 78 claims (54 show a difference, 18 mixed, 6 no difference) · 47 studies (17 associational, 10 review, 6 causal, 6 qualitative, 4 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 3 of 47 report an effect size · 78 claims rest on one study
+> **Evidence** · 79 claims (55 show a difference, 18 mixed, 6 no difference) · 48 studies (17 associational, 11 review, 6 causal, 6 qualitative, 4 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 3 of 48 report an effect size · 79 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -114,6 +114,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Corrective feedback plus either GLA significantly improved students' safety behavior in VR, with no difference between re-experiencing and self-explaining](../claims/gla-corrective-feedback-improve-safety-vr.md) [+M] — instruction changes it
 - [The Pro-Bully Paradox: victimization relates to weaker anti-bullying attitudes, an effect largely specific to physical victimization](../claims/pro-bully-paradox-physical-victimization.md) [~M] — learners who differ on it differ in outcomes
 - [Well-being is more strongly related to verbal and particularly relational victimization than to physical victimization](../claims/well-being-more-tied-to-relational-verbal-victimization.md) [+M] — learners who differ on it differ in outcomes
+- [Students' implementation of self-assessment is influenced by perceived usefulness, affective attitude, self-efficacy, important others, and psychological safety](../claims/individual-factors-self-assessment-implementation.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

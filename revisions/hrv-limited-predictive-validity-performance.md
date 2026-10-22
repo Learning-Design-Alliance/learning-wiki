@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/hrv-limited-predictive-validity-performance.md
+---
+
+# Revision history: [claims/hrv-limited-predictive-validity-performance](../claims/hrv-limited-predictive-validity-performance.md)
+
+### 2026-10-21 · ingest · process:wiki-ingest
+Ingested from jrnl-a3787aef73ed (The Validity of Heart Rate Variability (HRV) in Educational Research and a Synthesis of Recommendations) via eval_harness.py + ingest_extractions.py

@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 112 claims (75 show a difference, 23 mixed, 14 no difference) · 82 studies (31 causal, 15 associational, 11 review, 10 theoretical, 7 qualitative, 6 quant-synthesis, 2 design), `q1`–`q4` · 26 of 82 report an effect size · 111 claims rest on one study
+> **Evidence** · 113 claims (76 show a difference, 23 mixed, 14 no difference) · 83 studies (31 causal, 15 associational, 11 review, 10 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 26 of 83 report an effect size · 112 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -154,6 +154,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Metacognitive strategy use correlates with comprehension non-monotonically across grades, which the model attributes to unconscious self-regulation in experienced learners](../claims/metacognitive-strategy-correlation-nonmonotonic-grades.md) [~W] — learners who differ on it differ in outcomes
 - [Effortful generative learning activities during problem-solving example study provide cues that improve students' item-level self-monitoring accuracy](../claims/generative-activities-improve-problem-solving-monitoring.md) [+M] — instruction changes it
 - [Self-explaining does not improve retrospective monitoring accuracy, while problem complexity reduces it](../claims/self-explanation-null-complexity-hurts-monitoring.md) [-M] — instruction changes it
+- [Metacognitive awareness is weakly correlated with intelligence and independently predicts performance (review-reported)](../claims/metacognitive-awareness-independently-predicts-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

@@ -67,3 +67,5 @@ The review reports mixed cognitive-load findings: "hypotheses concerning cogniti
 - [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation](segmenting-effects-confirmed-system-paced.md) — related
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
 - [Pointing and tracing gestures improved retention and comprehension over no gesturing (review attributes this to Macken & Ginns, 2014)](pointing-tracing-gestures-improve-retention-comprehension.md) — a narrower finding that bears on this claim
+- [Tracing and pointing during a paper-based multimedia lesson improves comprehension test performance in Chinese-speaking adults](tracing-pointing-improve-comprehension-chinese-sample.md) — a narrower finding that bears on this claim
+- [Tracing and pointing lowers extraneous cognitive load under a floor-effect-adjusted test, but not in the unadjusted comparison](tracing-pointing-lower-extraneous-load-floor-effect.md) — related

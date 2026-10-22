@@ -111,3 +111,4 @@ Multilevel meta-analysis of 223 studies from research conducted 1992–2018 (pub
 - [At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance](motivation-anxiety-correlate-with-programming-performance.md) — a narrower finding that bears on this claim
 - [Math anxiety explained variance in posttest monitoring judgments beyond trait anxiety, supporting its distinctness from general anxiety](math-anxiety-distinct-from-trait-anxiety-in-monitoring.md) — related
 - [The goal–internalizing relations are moderated by goal terminology, goal setting, education level, goal model, and cultural context](moderators-achievement-goals-internalizing.md) — related
+- [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](test-anxiety-goal-complex-mediation.md) — related

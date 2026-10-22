@@ -49,3 +49,4 @@ Hierarchical regressions on the full Study 1 sample (N = 753) tested incremental
 - [Playful study design is measured as a two-dimensional construct of designing fun and designing competition, supported by exploratory and confirmatory factor analyses](psd-two-factor-structure.md) — related
 - [Locus of control is negatively correlated with and predicts subjective well-being, ranking second after self-esteem](locus-of-control-negatively-predicts-subjective-well-being.md) — related
 - [Exam grades correlate positively with designing competition and near-zero with designing fun in the Study 1 correlation table](designing-competition-exam-grades.md) — related
+- [Playful study design fosters engagement, flow, and goal attainment, with strongest effects for students high in proactive personality](playful-study-design-engagement.md) — related

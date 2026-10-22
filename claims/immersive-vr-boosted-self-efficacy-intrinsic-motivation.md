@@ -57,3 +57,4 @@ The review reports, citing Makransky et al. (2019), a comparison of three learni
 - [VR improved movement-based transfer test performance versus reading in security training, while learning in VR without the possibility to act was detrimental](vr-transfer-benefit-but-actionless-vr-detrimental.md) — related
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
+- [Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change](mental-simulation-training-raises-reading-motivation.md) — related

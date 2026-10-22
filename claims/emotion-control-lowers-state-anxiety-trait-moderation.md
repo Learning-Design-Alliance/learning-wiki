@@ -45,3 +45,4 @@ Theoretical argument in the Emotion-Control section: negative emotions consume a
 ## Related Claims
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
 - [Emotion regulation variables predict academic outcomes (GPA and academic honors) beyond Big Five personality traits and gender in high school students](era-predicts-academic-outcomes-beyond-big-five.md) — related
+- [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](test-anxiety-goal-complex-mediation.md) — related

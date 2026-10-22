@@ -43,6 +43,7 @@ Comparison of cardiac sensing configurations at different body locations (chest 
 
 
 ## Related Claims
+
 - [Videos experienced as higher attention difficulty were associated with lower normalized quiz learning gains, providing convergent evidence that the probe captures an educationally meaningful aspect of momentary engagement](attention-difficulty-inversely-related-quiz-gains.md) — related
 - [Predictive performance of sensor configurations does not change monotonically with the number of sensing streams; preferred configuration depends on target metric and sensing cost](sensor-stream-performance-non-monotonic.md) — related
 - [Combining more modalities does not always improve detection of learner mental states](more-modalities-not-always-better-mental-state-detection.md) — a broader claim this one bears on
@@ -53,3 +54,4 @@ Comparison of cardiac sensing configurations at different body locations (chest 
 - [One-minute-ahead direct forecasting performs similarly to contemporaneous estimation, but performance degrades at longer horizons and a carry-forward baseline outperforms the sensor model at every future horizon](engagement-forecasting-horizon-degradation.md) — related
 - [Densely sampled visual frames and sensor representations offered no reliable predictive advantage over the 1 FPS setting in the higher-frequency experiment](higher-frequency-sampling-no-reliable-advantage-over-1fps.md) — related
 - [Certain multimodal data combinations improve predictive model performance, with audio plus eye-tracking data most effective in one K–8 study](mmla-k8-modality-combinations-prediction.md) — related
+- [Static HRV devices were associated with high-correlation studies, while wristband and chest belt wearables showed no significant difference in correlation levels](hrv-device-accuracy-static-vs-wearable.md)

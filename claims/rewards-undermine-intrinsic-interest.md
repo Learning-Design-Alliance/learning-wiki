@@ -52,3 +52,4 @@ The digest describes one representative study (Birch et al., 1984) in which youn
 - [Behavior modification programs relying on rewards rarely produce lasting changes in attitudes or behavior, and children whose parents frequently use rewards tend to be less generous](rewards-fail-lasting-change-values.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
+- [External rewards can undermine intrinsic motivation for learners who are already motivated](external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) — related

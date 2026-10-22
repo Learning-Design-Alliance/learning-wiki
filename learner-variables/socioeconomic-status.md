@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 116 claims (69 show a difference, 30 mixed, 17 no difference) · 89 studies (50 associational, 17 causal, 10 review, 7 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 8 of 89 report an effect size · 115 claims rest on one study
+> **Evidence** · 117 claims (70 show a difference, 30 mixed, 17 no difference) · 90 studies (50 associational, 17 causal, 11 review, 7 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 8 of 90 report an effect size · 116 claims rest on one study
 
 ## How to read this page
 
@@ -201,6 +201,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Study quality, publication source, locality, socioeconomic status, years in multigrade classes, and publication year did not significantly predict multigrade cognitive effects](../claims/null-moderators-multigrade-cognitive.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Educational domain, cultural orientation, age, gender, and socioeconomic status are candidate moderators of model effects](../claims/tcm-candidate-moderators-of-model-effects.md) [~W] — an instructional effect differs by group
 - [A positive relation exists between the level of sophistication of epistemic belief profiles and socioeconomic status, with profile z-score ranges from -0.25 to 0.45](../claims/epistemic-profile-sophistication-ses-relation.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [First-generation faculty role models increase first-generation students' university belonging](../claims/first-gen-faculty-role-models-increase-belonging.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

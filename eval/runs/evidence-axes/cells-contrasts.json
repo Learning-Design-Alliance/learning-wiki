@@ -37814,5 +37814,249 @@
  "worked-examples\tworked examples with varied problem conditions\tworked examples without stated variation": {
   "label": "varied worked examples vs non-varied worked examples",
   "treatment_is_a": true
+ },
+ "autonomy-support\thigh demands combined with autonomy and support\tnot stated": {
+  "label": "High demands with autonomy support vs not stated",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteachers’ autonomy-supportive and structuring motivating styles\tless autonomy-supportive and structuring styles": {
+  "label": "More autonomy-supportive and structuring vs less autonomy-supportive and structuring",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t4-week mental simulation strategy training\tschools’ regular reading comprehension instruction": {
+  "label": "mental-simulation strategy instruction vs regular reading-comprehension instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tInterventions addressing direct and implicit SRL instruction\tInterventions not addressing both direct and implicit SRL instruction": {
+  "label": "direct and implicit SRL instruction vs no direct or implicit SRL instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconditional knowledge that interleaving highlights differences\twithout the conditional-knowledge instruction": {
+  "label": "conditional-knowledge instruction about interleaving vs no conditional-knowledge instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect cognitive-strategy and metacognitive-regulation training\tcontrol condition": {
+  "label": "cognitive-strategy and metacognitive-regulation instruction vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmental simulation strategy training\tschools’ regular reading comprehension instruction": {
+  "label": "mental-simulation strategy instruction vs regular reading-comprehension instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmental simulation training\tregular reading comprehension instruction": {
+  "label": "mental-simulation strategy instruction vs regular reading-comprehension instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tself-assessment with relevant practice and training\tself-assessment without relevant practice or training": {
+  "label": "trained self-assessment with relevant practice vs untrained self-assessment",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvideo modeling, with or without prompts\tunguided inquiry": {
+  "label": "video modeling with or without prompts vs unguided inquiry",
+  "treatment_is_a": true
+ },
+ "fading\texpert-guided motivational apprenticeship\tincreasingly independent learner regulation": {
+  "label": "more expert guidance vs increasingly independent regulation",
+  "treatment_is_a": true
+ },
+ "feedback-presence\texternal feedback provided\tno external feedback": {
+  "label": "external feedback provided vs no external feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tself-assessment accompanied by external feedback\tself-assessment without external feedback": {
+  "label": "external feedback provided vs no external feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tself-assessment with external feedback\tself-assessment without external feedback": {
+  "label": "external feedback provided vs no external feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tteacher feedback provided\tfeedback absent": {
+  "label": "external feedback provided vs no external feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate corrective feedback\tdelayed corrective feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate corrective feedback after each prediction\tdelayed corrective feedback after all guesses": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate external feedback from trainers\tno immediate external feedback": {
+  "label": "immediate vs no immediate feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback valence condition\tother feedback-valence condition(s)": {
+  "label": "one feedback valence vs another feedback valence",
+  "treatment_is_a": true
+ },
+ "feedback-type\tgeneral feedback\tbaseline retrieval-practice choice": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tgeneral feedback about the testing effect\tday-1 baseline before feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tgeneral feedback about the testing effect\tpre-feedback baseline": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tindividual performance feedback\tbaseline retrieval-practice choice": {
+  "label": "individual performance feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tindividual performance feedback\tbefore feedback": {
+  "label": "individual performance feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tindividual performance feedback\tbefore individual feedback": {
+  "label": "individual performance feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tindividual performance feedback\tbefore receiving feedback": {
+  "label": "individual performance feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tindividual performance feedback\tgeneral feedback": {
+  "label": "individual performance feedback vs general feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tindividual performance feedback\tgeneral instruction about the testing effect": {
+  "label": "individual performance feedback vs general feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tindividual performance feedback\tpre-feedback baseline": {
+  "label": "individual performance feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tindividual performance feedback showing the personal testing effect\tday-1 baseline before feedback": {
+  "label": "individual performance feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative performance feedback\tpositive or no feedback": {
+  "label": "negative vs positive or no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative performance feedback\tpositive or no performance feedback": {
+  "label": "negative vs positive or no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpersonalized refutation text\tcommon refutation, personalized expository, and common expository texts": {
+  "label": "personalized refutation feedback vs common refutation or expository feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tself-assessment serving a formative learning purpose\tself-assessment serving a summative purpose": {
+  "label": "formative-purpose self-assessment vs summative-purpose self-assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified mathematics instruction\tnon-gamified or comparison instruction where available": {
+  "label": "gamified vs non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified mathematics instruction\ttraditional non-gamified instruction": {
+  "label": "gamified vs non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified mathematics instruction\ttraditional, non-gamified instruction": {
+  "label": "gamified vs non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tone hypertext version\tanother hypertext version": {
+  "label": "one hypertext version vs another hypertext version",
+  "treatment_is_a": true
+ },
+ "media-design\tsegmented animation with pauses\tcontinuous, unsegmented animation": {
+  "label": "segmented animation with pauses vs continuous, unsegmented animation",
+  "treatment_is_a": true
+ },
+ "media-design\tsegmented animation with pauses between segments\tunsegmented animation": {
+  "label": "segmented animation with pauses vs continuous, unsegmented animation",
+  "treatment_is_a": true
+ },
+ "prompts\tVMP, VM, and control conditions\tthree-group comparison": {
+  "label": "prompted video modeling vs video modeling/control (three-arm comparison)",
+  "treatment_is_a": true
+ },
+ "prompts\tcognitive and metacognitive prompt labels\tother prompt-label combinations": {
+  "label": "cognitive plus metacognitive prompts vs other prompt-label combinations",
+  "treatment_is_a": true
+ },
+ "prompts\tdirect cognitive-strategy plus indirect metacognitive-regulation training\tcontrol condition": {
+  "label": "combined cognitive-strategy and metacognitive-regulation training vs control",
+  "treatment_is_a": true
+ },
+ "prompts\tdrawing support facilitating integration\tunsupported or non-integration drawing support": {
+  "label": "integrative drawing support vs non-integrative or unsupported drawing support",
+  "treatment_is_a": true
+ },
+ "prompts\tfunction labels\tpresentation labels": {
+  "label": "function labels vs presentation labels",
+  "treatment_is_a": true
+ },
+ "prompts\tmetacognitive and self-explanation prompt research clusters\tintegration between the two research traditions": {
+  "label": "separate metacognitive and self-explanation prompt traditions vs integrated prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tprompt labels that co-occurred with another label\tprompt labels that did not co-occur with another label": {
+  "label": "co-occurring prompts vs standalone prompts",
+  "treatment_is_a": true
+ },
+ "prompts\treflection through metacognitive judgements\tunspecified comparison": {
+  "label": "metacognitive-judgement reflection prompts vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "prompts\tsame-prompt-type studies\tall possible citation connections": {
+  "label": "same-prompt-type citation connections vs cross-prompt-type citation connections",
+  "treatment_is_a": true
+ },
+ "prompts\tvideo modeling examples plus metacognitive prompts\tvideo modeling examples only": {
+  "label": "video modeling plus metacognitive prompts vs video modeling only",
+  "treatment_is_a": true
+ },
+ "prompts\tvideo modeling plus metacognitive prompts\tvideo modeling only": {
+  "label": "video modeling plus metacognitive prompts vs video modeling only",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\texternal rewards for already motivated learners\tno external rewards": {
+  "label": "external rewards vs no external rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\texternal rewards for learners with no motivation\tno external rewards": {
+  "label": "external rewards vs no external rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tincentives for self-assessment\tno incentives for self-assessment": {
+  "label": "incentives for self-assessment vs no incentives for self-assessment",
+  "treatment_is_a": true
+ },
+ "scaffolding\tself-assessment using instruments such as rubrics or checklists\tself-assessment without specified instruments": {
+  "label": "instrument-supported self-assessment vs unsupported self-assessment",
+  "treatment_is_a": true
+ },
+ "self-explanation\tinstructional explanations in worked examples\tprompts to provide self-explanations": {
+  "label": "self-explanation prompts vs instructional explanations",
+  "treatment_is_a": false
+ },
+ "worked-examples\tstudying worked examples in cognitive tutoring systems\ttutored problem solving with on-demand guidance": {
+  "label": "worked examples vs tutored problem solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\tvideo modeling conditions (VM and VMP)\tunguided inquiry control": {
+  "label": "worked examples (video modeling) vs unguided inquiry",
+  "treatment_is_a": true
+ },
+ "worked-examples\tvideo modeling examples\tunguided inquiry control": {
+  "label": "worked examples (video modeling) vs unguided inquiry",
+  "treatment_is_a": true
+ },
+ "worked-examples\tvideo modeling examples with or without prompts\tunguided inquiry": {
+  "label": "worked examples (video modeling) vs unguided inquiry",
+  "treatment_is_a": true
+ },
+ "worked-examples\tvideo modeling examples, with or without metacognitive prompts\tunguided inquiry": {
+  "label": "worked examples (video modeling) vs unguided inquiry",
+  "treatment_is_a": true
  }
 }

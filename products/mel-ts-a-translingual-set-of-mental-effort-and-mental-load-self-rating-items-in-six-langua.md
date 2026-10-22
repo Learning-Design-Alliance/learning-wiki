@@ -34,6 +34,7 @@ A multilingual self-report instrument developed by Tino Endres et al. for assess
 ## Related Products and Programmes
 
 - [Cognitive Load Questionnaire (CLQ) by Klepsch et al. (2017)](cognitive-load-questionnaire-clq-by-klepsch-et-al-2017.md)
+- [Paas 9-point mental effort rating scale](paas-9-point-mental-effort-rating-scale.md)
 
 ## Key Sources
 - Tino Endres, Lisa Bender, Stoo Sepp, Shirong Zhang, Louise David, Melanie Trypke, et al. (2025). Developing the Mental Effort and Load–Translingual Scale (MEL‑TS) as a Foundation for Translingual Research in Self‑Regulated Learning. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09978-8

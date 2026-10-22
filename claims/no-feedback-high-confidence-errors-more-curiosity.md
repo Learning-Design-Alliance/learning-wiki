@@ -76,3 +76,4 @@ Experiment 4, 98 online adults randomly assigned to curiosity or subjective-unce
 - [Adults opt out of answering more on trials they later answer incorrectly, and curiosity is higher on opted-out trials (metacognitive control)](opt-out-more-on-incorrect-trials-curiosity-higher.md) — related
 - [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related
 - [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — related
+- [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](immediate-feedback-partial-resolution-increases-curiosity.md) — related

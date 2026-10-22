@@ -81,3 +81,4 @@ The page's abstract reports a study of test-taking engagement on a large-scale s
 - [Rapid-guessing behavior occurs on only about 1% of item responses in a commercially available low-stakes assessment](rapid-guessing-one-percent-commercial-low-stakes-assessment.md) — related
 - [Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement](computer-based-testing-drives-response-time-interest.md) — related
 - [Disengagement produced both positive and negative distortion of individual student scores, which tended to cancel out much of the net distortive effect on school means](positive-negative-distortion-cancellation.md) — related
+- [Opting out has disadvantages: it can obscure implicit knowledge, enable excessive opting out, and complicate assessment](opting-out-disadvantages-assessment.md) — related

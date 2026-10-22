@@ -49,3 +49,4 @@ Post-task survey (5-point Likert items on perceived AI influence, counterfactual
 - [A gender-biased system prompt induces large gender-differentiated language in LLM-generated career essays, while a neutral prompt does not](biased-prompt-induces-gender-differentiated-llm-essays.md) — related
 - [Bias transfer is asymmetric: prompt condition affects agency in female-target essays but not male-target essays, suppressing female agency while male writing remains stable](asymmetric-female-agency-suppression-bias-transfer.md) — related
 - [A neutrally configured LLM assistant produced the lowest rate of gender-stereotypic occupation suggestions, below even the no-AI control condition](neutral-llm-assistant-attenuates-baseline-stereotyping.md) — related
+- [The video-task awareness measure did not correlate with misconceptions or conceptual change and is considered exploratory](awareness-video-task-null-correlations.md) — related

@@ -70,3 +70,5 @@ Model 4 (without L1²) in the same sample produced "an apparently moderate posit
 - [The negative contextual-mean effect persists for the top-ranked student in each class, constraining rank-sufficiency accounts](bflpe-persists-for-top-ranked-students.md) — related
 - [Class-average achievement negatively predicts mathematics self-concept after controlling individual achievement (BFLPE replication in TIMSS 2019)](bflpe-replication-timss-2019-contextual-mean-effect.md) — related
 - [The contextual-mean effect remains negative across every achievement decile and across MSC quantiles, with no systematic attenuation at the top](bflpe-robust-across-deciles-and-quantiles.md) — related
+- [Measurement error bias inflates peer spillover effects while attenuating the BFLPE; controls strengthen the BFLPE and weaken the spillover effect](measurement-error-bias-compositional-effects.md) — related
+- [Positive class-level peer spillover effects on mathematics achievement fail to replicate once measurement error is controlled with doubly latent models](peer-spillover-disappears-doubly-latent-models.md) — related

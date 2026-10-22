@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 20 claims (9 for, 11 mixed) · 17 studies (4 causal, 4 review, 3 qualitative, 2 associational, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 5 of 17 report an effect size · 19 claims rest on one study
+> **Evidence** · 21 claims (9 for, 12 mixed) · 18 studies (5 causal, 4 review, 3 qualitative, 2 associational, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 5 of 18 report an effect size · 20 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -78,6 +78,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Dimensional comparison effects extend to subjective task values, with contrast effects strongest for intrinsic value and costs and lowest for utility value, often mediated by self-concept](../claims/dimensional-comparisons-affect-task-values.md) [+W] — attached 2026-10-21 from Jens Möller (2024), which proposed "Integration of dimensional comparisons into situated expectancy-value theory (SEVT): relativistic expectancy and value formation across domains".
 - [Teachers' subjective task values for TSRs—intrinsic, attainment, utility, and cost—shape their motivation to build relationships](../claims/teacher-values-shape-tsr-motivation.md) [+W]
 - [In Experiment 1, learners interleaved more only when high utility value of distinguishing was combined with instruction that differences matter, with the two factors interacting rather than showing main effects](../claims/interleaving-requires-utility-value-plus-differences-matter-instruction.md) [~W]
+- [Combining utility value of distinguishing with conditional knowledge fosters interleaving of confusable categories (Abel et al., 2024)](../claims/utility-value-conditional-knowledge-foster-interleaving.md) [~W]
 
 ## Related Theories
 

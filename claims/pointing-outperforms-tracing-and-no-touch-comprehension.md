@@ -66,3 +66,4 @@ Univariate testing within the learning-performance MANOVA in the same experiment
 - [The learning-performance MANOVA showed an overall effect of learning instruction across identification, terminology, and comprehension](omnibus-manova-learning-performance-effect.md) — related
 - [Pointing outperformed tracing on the terminology test, while neither touch-based group differed significantly from the no-touch group on terminology](pointing-beats-tracing-terminology-only.md) — related
 - [The reviewed tracing studies consistently confirm learning benefits of tracing across retention, comprehension, and transfer measures, though cognitive-load hypotheses were not confirmed in all studies](tracing-review-consistent-benefits-mixed-load.md) — related
+- [Tracing and pointing during a paper-based multimedia lesson improves comprehension test performance in Chinese-speaking adults](tracing-pointing-improve-comprehension-chinese-sample.md) — related

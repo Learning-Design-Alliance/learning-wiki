@@ -45,3 +45,4 @@ Exploratory correlational analysis of drawing quality scores (ranging from 3.33 
 ## Related Claims
 - [Drawing quality predicted JOLs to a similar extent in both drawing conditions, contrary to the expectation that scaffolds would strengthen this cue use](drawing-quality-predicts-jols-similarly-both-conditions.md) — related
 - [All three drawing conditions scored better than the control condition on the drawing test and performed equally well](drawing-outperforms-control-drawing-test.md) — related
+- [Effect sizes across drawing-support studies show significant heterogeneity for both comprehension and transfer outcomes](drawing-support-heterogeneity-significant.md) — related

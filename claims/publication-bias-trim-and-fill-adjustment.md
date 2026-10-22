@@ -51,3 +51,4 @@ Publication bias assessment using funnel plot, Egger's regression intercept (t(1
 - No evidence of publication bias, and extra-large-sample studies do not differ from the rest — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
 - [Effort ratings correlate negatively with judgments of learning (r = −0.355), but the correlation disappears under a goal-driven interpretation of effort](negative-effort-jol-correlation-meta-analysis.md) — related
+- [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — related

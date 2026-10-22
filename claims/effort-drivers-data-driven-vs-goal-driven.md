@@ -74,3 +74,5 @@ The commentary reports, citing Abel et al. (2024), an experiment on learners' pr
 - [Physiological measures have limited validity for effort, especially for distinguishing data-driven from goal-driven effort](physiological-effort-measures-limited-validity.md) — a narrower finding that bears on this claim
 - [Effort was consistently described as willful, motivation-dependent investment, whereas load was described as imposed and difficult to control](effort-willful-load-imposed.md) — related
 - [CLT can serve as a framework for teaching generalized knowledge and skills, including learning strategies](clt-framework-generalized-skills.md) — related
+- [Task difficulty shows an inverted U-shaped relation with cognitive strategy use and a positive linear relation with metacognitive strategy use, mediated by cognitive load (Seufert et al., 2024)](task-difficulty-inverted-u-strategy-use.md) — related
+- [Combining utility value of distinguishing with conditional knowledge fosters interleaving of confusable categories (Abel et al., 2024)](utility-value-conditional-knowledge-foster-interleaving.md) — a narrower finding that bears on this claim

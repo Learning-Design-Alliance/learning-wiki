@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 404 claims (193 for, 190 mixed, 21 against) · 203 studies (100 causal, 45 associational, 19 review, 15 theoretical, 10 qualitative, 9 quant-synthesis, 5 design), `q1`–`q4` · 75 of 203 report an effect size · 397 claims rest on one study
+> **Evidence** · 411 claims (196 for, 194 mixed, 21 against) · 209 studies (102 causal, 46 associational, 21 review, 15 theoretical, 10 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 77 of 209 report an effect size · 404 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -447,6 +447,13 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](../claims/comsa-metacognitive-monitoring-stopping.md) [~W]
 - [Providing a standard answer to compare against improves the accuracy of students' retrospective monitoring judgments](../claims/answer-standard-improves-retrospective-monitoring.md) [+W]
 - [In Experiment 1, the extent of informative interleaving did not correlate with category assignment performance, which the authors interpret as a utilization deficiency](../claims/spontaneous-interleaving-no-performance-correlation-exp1.md) [~W]
+- [Learners associate higher effort with less effective study strategies, indicating negative connotations of effort](../claims/learners-associate-effort-with-ineffective-strategies.md) [+W] — attached 2026-10-21 from Scheiter et al. (2020), which proposed "Effort appraisals are a type of metacognitive judgment that may be prone to biases through heuristic cue utilization".
+- [Cognitive learning strategy training yields preliminary evidence of far metacognitive transfer to effort regulation (Wirth et al., 2025)](../claims/far-metacognitive-transfer-effort-regulation.md) [+W]
+- [Heuristic cues — response time, familiarity, problem complexity, and context reinstating — guide opting-out decisions](../claims/heuristic-cues-guide-opting-out.md) [~W]
+- [Self-regulated dropping of already-known items during restudy conferred no significant learning advantage and was sometimes mildly detrimental](../claims/dropping-known-items-no-learning-advantage.md) [~W]
+- [Certainty predicts diagnostic performance; mental effort adds no predictive value beyond certainty](../claims/certainty-predicts-performance-effort-adds-nothing.md) [~W]
+- [The largest reported effects came from interventions training reflection on own learning and teaching through metacognitive judgements (Michalsky 2021: d = 3.12; Pieschl et al. 2021: d = 2.9)](../claims/metacognitive-judgement-reflection-interventions-largest-effects.md) [+W]
+- [Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups showed no statistically significant change (Experiment 1)](../claims/individual-feedback-changes-retrieval-practice-beliefs-only-for-beneficiaries.md) [~W]
 
 ## The evidence by question
 

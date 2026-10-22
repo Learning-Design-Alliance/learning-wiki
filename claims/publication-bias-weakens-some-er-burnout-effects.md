@@ -46,3 +46,4 @@ Publication-bias assessment via funnel plots, Duval and Tweedie's trim-and-fill,
 - [ER difficulties are positively associated with each burnout dimension: cynicism, emotional exhaustion, and lack of efficacy](er-difficulties-burnout-dimensions.md) — related
 - [Emotion regulation difficulties are positively associated with overall academic burnout in youth (pooled r = 0.25)](er-difficulties-positive-overall-burnout.md) — related
 - [Adaptive ER strategies are negatively associated with overall student burnout, but not significantly with any single dimension](adaptive-er-negative-overall-burnout.md) — related
+- [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — related

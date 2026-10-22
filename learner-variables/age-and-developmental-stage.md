@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 152 claims (95 show a difference, 38 mixed, 19 no difference) · 122 studies (50 associational, 21 causal, 18 quant-synthesis, 17 review, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 17 of 122 report an effect size · 150 claims rest on one study
+> **Evidence** · 154 claims (97 show a difference, 38 mixed, 19 no difference) · 124 studies (50 associational, 21 causal, 19 quant-synthesis, 18 review, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 17 of 124 report an effect size · 152 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -184,6 +184,8 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Older students show weaker social comparison effects but stronger dimensional comparison effects than younger students](../claims/ipd-meta-age-weakens-social-strengthens-dimensional-effects.md) [~M] — an instructional effect differs with it
 - [Deductive reasoning develops in stages: explicit inference around ages 5-6, modus tollens around 9-10, and explicit metalogic in adolescence](../claims/deductive-reasoning-stages-explicit-metalogic.md) [+M] — learners who differ on it differ in outcomes
 - [Age moderates gender differences in both mental rotation and visualisation, with gaps continuing to grow during adolescence](../claims/age-moderates-spatial-gender-differences.md) [+M] — an instructional effect differs with it
+- [A seventh-grade slump in divergent thinking is observed at the overall and indicator level](../claims/seventh-grade-slump-dt.md) [+W] — learners who differ on it differ in outcomes
+- [Older students perceive self-assessment as more useful than younger students, while no gender differences were reported](../claims/age-positive-gender-null-perceived-usefulness-self-assessment.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

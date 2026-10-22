@@ -53,3 +53,4 @@ Step-2 change statistic of the final hierarchical regression in the same 44-chil
 - [Higher-SES preschoolers outperform lower-SES peers on math, spatial, EF, and vocabulary measures, except the Tap Test where the difference is a non-significant trend](ses-gaps-in-early-spatial-ef-math-skills.md) — related
 - [Cognitive flexibility uniquely predicts mathematics achievement in Grades 4 and 6, with a larger effect in Grade 6 than in Grade 4](cognitive-flexibility-unique-predictor-math-grades-4-6.md) — related
 - [Longitudinal evidence shows spatial ability predicts STEM educational and occupational outcomes beyond mathematical and verbal ability](spatial-ability-longitudinal-stem-prediction.md) — related
+- [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — related

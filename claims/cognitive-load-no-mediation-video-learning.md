@@ -51,3 +51,4 @@ Exploratory mediation path analysis with the two features as predictors and the 
 - [Exploratory tests found no significant interaction between receiving a rubric and learners' task performance on self-assessment accuracy or cognitive load](rubric-benefits-independent-of-task-performance.md) — related
 - [The hypothesised mediation of prompt effects on self-efficacy via strategy use was not confirmed because prompts did not affect strategy use](strategy-mediation-of-prompt-self-efficacy-not-confirmed.md) — related
 - [Higher germane load and lower extraneous load mediate the effect of instructional guidance on conceptual knowledge](cognitive-load-mediates-guidance-effect.md) — related
+- [Increasing germane cognitive load is not a significant moderator of drawing support effects on comprehension](germane-load-increase-non-significant-moderator.md) — related

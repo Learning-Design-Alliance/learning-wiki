@@ -13,7 +13,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 74 claims (43 show a difference, 12 mixed, 19 no difference) · 46 studies (19 associational, 16 causal, 6 quant-synthesis, 3 review, 2 design), `q1`–`q3` · 15 of 46 report an effect size · 72 claims rest on one study
+> **Evidence** · 78 claims (46 show a difference, 13 mixed, 19 no difference) · 47 studies (19 associational, 16 causal, 7 quant-synthesis, 3 review, 2 design), `q1`–`q3` · 15 of 47 report an effect size · 76 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -115,6 +115,10 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Children/adolescents with poor literacy skills score poorer on foreign language phonological awareness, letter knowledge, and reading comprehension than peers with typical literacy skills](../claims/poor-literacy-lower-fl-phonological-awareness-letter-knowledge-reading-comprehension.md) [+W] — learners who differ on it differ in outcomes
 - [Peer pairing, peer tutoring, and small collaborative/cooperative groupings improved MLs' English phonological awareness, decoding, and fluency across grade levels](../claims/peer-pairing-tutoring-grouping-improve-ml-reading-skills.md) [+M] — instruction changes it
 - [Poor readers/spellers vary significantly more than controls in foreign language phonological awareness performance](../claims/poor-literacy-more-variable-fl-phonological-awareness.md) [+W] — learners who differ on it differ in outcomes
+- [Across grade levels, children shift from a phonology-based strategy (PA) to a meaning-based strategy (MA and vocabulary) in Chinese word reading, while RAN and OA effects remain stable](../claims/developmental-shift-phonology-to-meaning-chinese-reading.md) [~W] — learners who differ on it differ in outcomes
+- [All five cognitive-linguistic skills (RAN, OA, PA, MA, vocabulary) significantly and independently predict Chinese word reading, with MA and vocabulary showing the largest effects](../claims/masem-five-skills-predict-chinese-word-reading.md) [+W] — learners who differ on it differ in outcomes
+- [Phonological awareness significantly predicts Chinese word reading even among children taught without any phonetic coding system](../claims/pa-significant-without-phonological-instruction.md) [+W] — learners who differ on it differ in outcomes
+- [Phonological instruction (Pinyin/Bopomofo) strengthens the role of phonological awareness but reduces reliance on morphological awareness in Chinese word reading](../claims/phonological-instruction-strengthens-pa-reduces-ma.md) [+W] — an instructional effect differs with it
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

@@ -47,3 +47,4 @@ Theoretical argument in the commentary, derived from the author's common-core de
 - [Affective experience during situated collaborative problem solving is organized around a stable epistemic core linking curiosity, optimism, and confusion with short-range persistence](stable-epistemic-core-curiosity-optimism-confusion-cps.md) — related
 - [States of high pre-answer curiosity enhance memory for trivia answers similarly in children and adolescents](curiosity-enhances-trivia-memory-children-adolescents.md) — related
 - [Jingle-jangle fallacies fragment SR research in education and impede cumulative progress](jingle-jangle-fallacies-fragment-sr-research.md) — related
+- [Curiosity and situational interest differ on five dimensions: theoretical account, biology, triggers, affect, and information search](curiosity-situational-interest-five-dimensions.md) — reports the opposite

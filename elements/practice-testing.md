@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 55 claims (29 for, 23 mixed, 3 against) · 32 studies (17 causal, 6 quant-synthesis, 5 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 16 of 32 report an effect size · 51 claims rest on one study
+> **Evidence** · 59 claims (30 for, 26 mixed, 3 against) · 33 studies (18 causal, 6 quant-synthesis, 5 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 17 of 33 report an effect size · 55 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -106,6 +106,10 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Testing after studying four worked examples does not enhance delayed test performance compared with restudy among vocational education students in probability calculation (Experiment 4)](../claims/exp4-no-testing-effect-vocational-probability.md) [-W]
 - [Overt retrieval also outperforms covert retrieval for key terms, but with a smaller advantage than for definitions](../claims/overt-beats-covert-retrieval-key-terms-smaller.md) [~W]
 - [Transfer across response formats is incomplete: practicing terms benefited definition recall, but practicing definitions showed no overt-over-covert advantage on a term test](../claims/transfer-across-term-definition-formats-mixed.md) [~M]
+- [Only individual performance feedback, not general instruction about the testing effect, produced long-term increases in retrieval practice use, and only for students who benefited from retrieval practice](../claims/individual-feedback-superior-to-general-instruction-long-term.md) [~W]
+- [Retrieval practice yields better delayed test performance than restudy (the testing effect) in both experiments](../claims/testing-effect-confirmed-anatomical-image-name-pairs.md) [+W]
+- [Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups showed no statistically significant change (Experiment 1)](../claims/individual-feedback-changes-retrieval-practice-beliefs-only-for-beneficiaries.md) [~W]
+- [Individual feedback impacted perceived utility only to a limited extent, and general feedback lowered perceived utility of retrieval practice (Experiment 2)](../claims/perceived-utility-limited-impact-individual-feedback.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

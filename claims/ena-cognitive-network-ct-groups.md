@@ -55,3 +55,4 @@ Epistemic Network Analysis of reflection journals visualized on the ENA platform
 - [High CT students used the AICA for code understanding and debugging while low CT students used it for direct answer retrieval](ct-groups-differ-aica-behavioral-patterns.md) — related
 - [Students' SRL profile under automated scoring was uneven, and only Execution-and-Monitoring was significantly associated with score gains](srl-uneven-only-execution-monitoring-predicts-gains.md) — related
 - [High CT students significantly outperformed low CT students on the post-test after AICA-assisted coding instruction](high-ct-outperformed-low-ct-posttest-aica.md) — related
+- [ENA contrasting-cases analysis shows high- and low-effectiveness studies differ significantly in their design-element and intention networks](ena-contrasting-cases-cognitive-he-le-differ.md) — related

@@ -51,3 +51,5 @@ Three publication-bias tests were applied. Published studies had larger effect s
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — reports the opposite
 - [Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36](publication-bias-adjusted-effect-036.md) — reports the opposite
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
+- [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — related
+- [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](gamification-mathematics-robustness-publication-bias.md) — related

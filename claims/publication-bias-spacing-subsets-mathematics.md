@@ -65,3 +65,4 @@ Risk-of-bias analysis of the isolated-material spacing subset. Despite visible f
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [When spacing is embedded into a course, spaced practice retains a robust but numerically smaller effect (g = 0.24) than for isolated material.](spacing-course-embedded-mathematics-g024.md) — related
 - [Funnel-plot asymmetry indicates small-study effects for some emotion–learning models](funnel-plot-asymmetry-emotion-learning-models.md) — related
+- [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — related

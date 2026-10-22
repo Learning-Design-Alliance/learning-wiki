@@ -45,3 +45,4 @@ The review's synthesis of the four studies (8%) measuring writing attitude, oper
 ## Related Claims
 - [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-self-efficacy-self-management.md) — related
 - [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](math-circle-positive-attitude-survey.md) — related
+- [Students' implementation of self-assessment is influenced by perceived usefulness, affective attitude, self-efficacy, important others, and psychological safety](individual-factors-self-assessment-implementation.md) — related

@@ -71,3 +71,4 @@ The same behavioral correlation analysis in the Results section shows sentence c
 - [Efficiency in phonological and orthographic processing contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — related
 - [In Chinese children aged 10-12, oral word reading efficiency is positively correlated with cortical thickness in the LSTG, LITG, LSMG and RSTG](word-reading-ct-temporoparietal-occipitotemporal-chinese-children.md) — related
 - [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](moderate-metalinguistic-pseudoword-adult-comprehension.md) — related
+- [Phonological awareness significantly predicts Chinese word reading even among children taught without any phonetic coding system](pa-significant-without-phonological-instruction.md) — related

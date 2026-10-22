@@ -51,3 +51,4 @@ Thematic analysis of student perceptions, triangulated with usage trace data, fr
 - [Middle school students engaged directly and positively with AI-generated rubric feedback, including conversing with the AI](students-engage-positively-with-ai-feedback.md) — reports the opposite
 - [Students value GenAI corrective feedback with rationales and report increased motivation and confidence](genai-corrective-feedback-motivation-benefits.md) — related
 - [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](business-writing-students-value-ai-feedback-but-find-it-general.md) — related
+- [Students generally hold positive perceptions of the usefulness of self-assessment, but findings across studies are inconclusive](students-generally-positive-but-inconclusive-perceived-usefulness-self-assessment.md) — related

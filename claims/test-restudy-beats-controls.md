@@ -66,3 +66,4 @@ Experiment 2 mixed-factor ANOVA, F(1,63) = 96.2, p < .001; schedule main effect 
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) — related
 - [Both overt and covert retrieval practice outperform restudy when practice and test match (the testing effect)](both-retrieval-formats-beat-restudy.md) — a broader claim this one bears on
+- [Retrieval practice yields better delayed test performance than restudy (the testing effect) in both experiments](testing-effect-confirmed-anatomical-image-name-pairs.md) — related

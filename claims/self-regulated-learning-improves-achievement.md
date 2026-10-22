@@ -317,3 +317,5 @@ Open questions that evidence entries should address include: which strategy fami
 - The evidence base is concentrated in self-reported metacognitive regulation, with planning support and non-self-report measures under-represented — related
 - [Self-regulated reading processes are positively associated with reading and learning outcomes](self-regulated-reading-associated-with-outcomes.md) — a narrower finding that bears on this claim
 - [Advanced learners may benefit from learner-controlled selection of learning tasks and levels of generality](learner-control-advanced-learners-flexibility.md) — a narrower finding that bears on this claim
+- [The largest reported effects came from interventions training reflection on own learning and teaching through metacognitive judgements (Michalsky 2021: d = 3.12; Pieschl et al. 2021: d = 2.9)](metacognitive-judgement-reflection-interventions-largest-effects.md) — a narrower finding that bears on this claim
+- [Motivational apprenticeship progresses through three phases from expert-directed to learner-directed control](motivational-apprenticeship-three-phases.md) — related

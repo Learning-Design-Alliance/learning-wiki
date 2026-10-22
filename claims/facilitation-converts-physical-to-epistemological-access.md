@@ -54,3 +54,4 @@ Conceptual argument (§4.2), drawing the physical/epistemological access distinc
 - [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](auto-updates-drew-users-from-explanations.md) — a narrower finding that bears on this claim
 - [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
+- [Drawing support that facilitates integration significantly increases comprehension, while support not expected to facilitate integration does not](integration-facilitation-significant-moderator.md) — related

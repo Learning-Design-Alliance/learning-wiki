@@ -53,3 +53,4 @@ Synthesis of post-project student focus group feedback in the Student Feedback s
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - [Students' perception of possessing local knowledge that professional urban planners lack rose from 9% at baseline to 45% at endline in City at Play](ccs-student-local-expertise-perception-growth.md) — related
+- [Most reviewed studies pursued real-life-experience authenticity, and no study combined all four intentions of authenticity](intentions-of-authenticity-implemented-studies.md) — related

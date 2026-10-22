@@ -55,3 +55,4 @@ Publication-bias assessment via funnel plots and a three-parameter selection mod
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Video replacing static media (e.g., text) benefits learning more than video replacing a teacher](video-vs-static-media-stronger-than-vs-teacher.md) — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
+- [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](gamification-mathematics-robustness-publication-bias.md) — related

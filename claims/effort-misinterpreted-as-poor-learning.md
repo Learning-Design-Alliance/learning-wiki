@@ -44,7 +44,7 @@ Onan, E., Wiradhany, W., Biwer, F., Janssen, E. M., & de Bruin, A. B. H. (2022).
 
 `q2 · i?` · `causal · r3`
 
-Template analysis of open-ended responses about strategy choices and VFP prompt questions, coded iteratively by three authors with blind coding of 30% of data (intraclass correlation = 0.89). Participants "were vulnerable to misinterpretation of effort", which led them to choose blocked practice.
+Template analysis of open-ended responses about strategy choices and VFP prompt questions, coded iteratively by three authors, with a blind third coder applying the template to the first two datasets (50% of responses); a separate scoring of how well VFP answers matched participants' actual ratings was independently re-scored on 30% of the data (intraclass correlation = 0.89). Participants "were vulnerable to misinterpretation of effort", which led them to choose blocked practice.
 
 > "In monit oring effort, we observed that participants were vulnerable to misinterpretation of effort: High effort, associated with interleaved practice, indicated poor learning; whereas, low effort, associated with blocked prac- tice, indicated high learning."
 
@@ -70,3 +70,4 @@ The article's summary of its qualitative findings: students' initial beliefs abo
 - [Students in active learning environments learned more but felt they learned less, mistaking mental effort for failure](active-learning-felt-learning-paradox.md) — related
 - [The share of students choosing interleaved practice rose from 13% to 40% across the session, but the visual feedback prompt did not further increase interleaved practice choices](vfp-did-not-improve-strategy-choices.md) — related
 - [Perceived effort is higher and perceived learning lower for interleaving than blocking, and experience-mediated increases in perceived learning raise interleaving choices](interleaving-effort-learning-ratings-onan.md) — related
+- [Learners associate higher effort with less effective study strategies, indicating negative connotations of effort](learners-associate-effort-with-ineffective-strategies.md) — possibly the same claim (merge candidate)

@@ -52,3 +52,4 @@ Two-factorial ANOVA on Lists 1–4 interim JOL magnitudes for both JOL groups in
 - [Delayed JOL bias: multiple text readers are underconfident, rereaders overconfident at one day, and single readers overconfident at one week](mtr-underconfident-rr-overconfident-bias.md) — related
 - [Anchoring-and-adjustment explains the underconfidence-with-practice effect, with JOLs anchored between 30 and 50% correct recall](anchoring-explains-underconfidence-with-practice.md) — related
 - [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — related
+- [Students gave higher judgments of learning after restudy than after retrieval practice in Experiment 2 but not in Experiment 1](higher-jols-after-restudy-than-retrieval-practice.md) — related

@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 56 claims (34 for, 19 mixed, 3 against) · 53 studies (13 quant-synthesis, 13 review, 12 causal, 7 design, 4 qualitative, 3 theoretical, 1 associational), `q1`–`q4` · 11 of 53 report an effect size · 46 claims rest on one study
+> **Evidence** · 57 claims (35 for, 19 mixed, 3 against) · 54 studies (13 causal, 13 quant-synthesis, 13 review, 7 design, 4 qualitative, 3 theoretical, 1 associational), `q1`–`q4` · 11 of 54 report an effect size · 47 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -111,6 +111,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions](../claims/vp-satisfaction-generally-positive.md) [+W]
 - [Adaptable task progression is descriptively more beneficial than fixed task progression in simulation-based learning](../claims/adaptable-task-progression-higher-effects.md) [~W]
 - [VR improved movement-based transfer test performance versus reading in security training, while learning in VR without the possibility to act was detrimental](../claims/vr-transfer-benefit-but-actionless-vr-detrimental.md) [+W]
+- [Performance during the virtual pipetting lesson predicts real-life transfer test performance](../claims/in-lesson-performance-predicts-real-life-transfer.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

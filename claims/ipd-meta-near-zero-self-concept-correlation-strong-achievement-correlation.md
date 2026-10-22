@@ -47,3 +47,4 @@ Preliminary bivariate correlation analysis of the pooled IPD dataset (N = 45,248
 - [Students' math and verbal achievement changes are positively correlated](ipd-meta-achievement-changes-positively-correlated.md) — related
 - [Mathematics self-concept correlates strongly with mathematics achievement (r = .43), while verbal self-concept barely does (r = .12)](math-self-concept-correlates-strongly-with-math-achievement.md) — related
 - [Meta-analytic path analyses show math and verbal achievements correlate highly positively while the corresponding self-concepts correlate near zero, with significant negative cross-domain paths](ie-model-meta-analysis-achievement-self-concept-divergence.md) — possibly the same claim (merge candidate)
+- [Meta-analytic evidence supports strong positive within-domain effects and small to moderate negative between-domain effects in the classic I/E model](moller-2020-dimensional-comparisons-path-coefficients.md) — related

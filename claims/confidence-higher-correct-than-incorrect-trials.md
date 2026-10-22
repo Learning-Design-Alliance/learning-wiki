@@ -48,3 +48,4 @@ Experiment 1 (65 Hungarian adults, 40 general-knowledge trials with two answer o
 - [The literature is mixed on age differences in the accuracy of retrospective confidence judgments during recognition memory tests, with older adults sometimes producing more high-confidence false alarms and poorer resolution with deceptive lures](mixed-age-differences-confidence-judgment-resolution.md) — related
 - [Second-order metacognitive judgments of subjective uncertainty show a small high-confidence error/correct difference, smaller than curiosity ratings show](second-order-metacognition-smaller-error-difference.md) — related
 - [Providing a standard answer to compare against improves the accuracy of students' retrospective monitoring judgments](answer-standard-improves-retrospective-monitoring.md) — related
+- [Heuristic cues — response time, familiarity, problem complexity, and context reinstating — guide opting-out decisions](heuristic-cues-guide-opting-out.md) — related

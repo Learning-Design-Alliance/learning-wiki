@@ -72,3 +72,4 @@ After mediated pathways were included, direct paths from executive function and 
 - [Phonological awareness at age 4–5 does not predict later arithmetic skills despite being predicted by early oral language](phonological-awareness-not-arithmetic-predictor.md) — related
 - [The same cognitive processes account for variability in arithmetic skills in children at family-risk of dyslexia and typically developing controls](same-cognitive-processes-arithmetic-fr-td.md) — related
 - [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](motivation-indirect-effect-mediated-by-ef-and-numeracy.md)
+- [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — a broader claim this one bears on

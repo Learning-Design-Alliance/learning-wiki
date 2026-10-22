@@ -178,6 +178,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Worked Examples](worked-examples.md)
 
 ## Examples
+
 - [Learning Mechanic](../elements/learning-mechanic.md) — the unit a game's teaching is actually built from: the theory-grounded activity repeated throughout play, which a concrete game mechanic instantiates.
 - [Assessment Mechanic](../elements/assessment-mechanic.md) — its measurement counterpart, designed so the game's own log yields interpretable evidence rather than only a score.
 - **Scenario-based digital games**: Learners manage resources, make choices, and see consequences unfold across rounds or levels.
@@ -186,6 +187,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - **Collaborative mission games**: Teams solve a shared problem, requiring explanation, coordination, and iterative strategy updates.
 - [Epistemic Games](../patterns/epistemic-games.md) — a pattern where the embedding is total: the repeated activity is the professional community's actual work, so there is no separable "learning part" to bolt on
 - [Game-Based Mastery Learning](../patterns/game-based-mastery-learning.md) — a pattern where the tension is live, since the mechanics sustaining repetition are not the mechanics carrying the concept
+- [Frame simulation lessons as a movie-director game with scaffolding, varied texts, and reflective discussion to sustain engagement](../strategies/movie-director-framing-scaffolding-engagement.md)
 
 ## Key Sources
 - Eseryel, D., Law, V., Ifenthaler, D., Ge, X., & Miller, R. (2014). An investigation of the interrelationships between motivation, engagement, and complex problem solving in game-based learning. *Educational Technology & Society, 17*(1), 42-53.

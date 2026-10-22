@@ -13,7 +13,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (13 for, 2 mixed, 1 against) · 15 studies (8 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 10 of 15 report an effect size · 13 claims rest on one study
+> **Evidence** · 18 claims (14 for, 2 mixed, 2 against) · 16 studies (9 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 11 of 16 report an effect size · 15 claims rest on one study
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
@@ -51,6 +51,8 @@ Retrieval practice is the element in which learners recall information from memo
 - [Taking a multiple-choice test boosts performance on later tests compared with nontested control conditions, including with complex SAT II materials](../claims/mc-testing-boosts-later-performance.md) [+W]
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](../claims/test-restudy-beats-controls.md) [+M]
 - [Testing via identical problem solving after studying identical worked examples did not significantly improve delayed test performance compared with restudying identical examples (Experiment 2)](../claims/exp2-no-testing-effect-identical-problems.md) [-W]
+- [Retrieval practice yields better delayed test performance than restudy (the testing effect) in both experiments](../claims/testing-effect-confirmed-anatomical-image-name-pairs.md) [+W]
+- [Students gave higher judgments of learning after restudy than after retrieval practice in Experiment 2 but not in Experiment 1](../claims/higher-jols-after-restudy-than-retrieval-practice.md) [-W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 91 claims (56 for, 26 mixed, 9 against) · 74 studies (30 causal, 18 review, 14 theoretical, 11 quant-synthesis, 1 design), `q1`–`q4` · 12 of 74 report an effect size · 81 claims rest on one study
+> **Evidence** · 94 claims (57 for, 28 mixed, 9 against) · 77 studies (31 causal, 20 review, 14 theoretical, 11 quant-synthesis, 1 design), `q1`–`q4` · 13 of 77 report an effect size · 83 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -161,6 +161,9 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [CLT can serve as a framework for teaching generalized knowledge and skills, including learning strategies](../claims/clt-framework-generalized-skills.md) [+W]
 - [The results suggest a new interpretation of intrinsic and extrinsic load as related to the time needed to process information](../claims/load-interpretation-time-to-process.md) [~W]
 - [Cognitive Load Theory has traditionally used slot-based working memory capacity models](../claims/clt-traditionally-used-slot-models.md) [~W]
+- [Tracing and pointing lowers extraneous cognitive load under a floor-effect-adjusted test, but not in the unadjusted comparison](../claims/tracing-pointing-lower-extraneous-load-floor-effect.md) [+W] — attached 2026-10-21 from Yining Wang et al. (2025), which proposed "Biologically primary tracing and pointing actions support acquisition of biologically secondary knowledge (cognitive load theory evolutionary account)"; tests this page's relationship.
+- [Tracing and pointing does not significantly reduce self-reported intrinsic cognitive load](../claims/tracing-pointing-no-intrinsic-load-reduction.md) [~W] — attached 2026-10-21 from Yining Wang et al. (2025), which proposed "Biologically primary tracing and pointing actions support acquisition of biologically secondary knowledge (cognitive load theory evolutionary account)".
+- [Task difficulty shows an inverted U-shaped relation with cognitive strategy use and a positive linear relation with metacognitive strategy use, mediated by cognitive load (Seufert et al., 2024)](../claims/task-difficulty-inverted-u-strategy-use.md) [~W]
 
 ## The evidence by question
 

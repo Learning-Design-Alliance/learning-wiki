@@ -47,3 +47,4 @@ Descriptive statement from the report about the program's scale and target popul
 - [The NIH Undergraduate Scholarship Program appears to be operating as intended, with scholars achieving career milestones at high rates](nih-ugsp-operating-as-intended-career-milestones.md) — related
 - [Participation in NIH loan repayment programs is associated with longer stays at the NIH and in research careers](loan-repayment-participation-longer-research-stays.md) — related
 - [Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs](service-scholarships-recruit-retain-when-generous.md) — a broader claim this one bears on
+- [Exceptionalism as a script of acceptance carries psychological costs for marginalized high-achieving students](exceptionalism-script-psychological-costs.md) — related

@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (13 for, 17 mixed, 2 against) · 42 studies (15 causal, 11 quant-synthesis, 10 review, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 11 of 42 report an effect size · 24 claims rest on one study
+> **Evidence** · 36 claims (16 for, 18 mixed, 2 against) · 43 studies (15 causal, 12 quant-synthesis, 10 review, 3 associational, 2 theoretical, 1 design), `q1`–`q4` · 12 of 43 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +126,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+M] — (not about this page) two randomised brief belonging interventions at entry to college (92 students; 26,911 students at 22 institutions), which reframe doubts about belonging; the earlier page cited it for team and community mechanics, but neither study involves game mechanics.
 - [Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.](../claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) [+W] — 48 Ukrainian children aged 6–7, Kahoot! and outdoor games against traditional teaching over four weeks (171.9 against 139.3 words, no standardised effect size); confounds format, novelty, competition and being outdoors, and is a game used as the activity rather than a layer added to practice. Belongs mainly to [Game-based Learning](game-based-learning.md); too confounded to support the child row.
 - Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children [+W] — a 1970 narrative survey of behaviour-modification studies, no effect sizes; the behaviourist side of the reward question. It does not separate rewards for accuracy from rewards for activity and does not test later free-choice engagement, so it does not change step 2.
+- [Most of the 45 reviewed studies report positive gamification effects on motivation and engagement in mathematics; only four report negative effects](../claims/gamification-mathematics-mostly-positive-four-negative.md) [+W] — attached 2026-10-21 from Ratinho et al. (2026), which proposed "Align gamification design with students' psychological needs, limiting excessive competition and prioritizing personal progress and cooperative tasks".
 
 ## Objective and learner-valued goal
 
@@ -198,6 +199,9 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Both PSD dimensions explain variance in study engagement and subjective well-being beyond core self-evaluations and PsyCap, with designing competition contributing most to engagement](../claims/psd-engagement-wellbeing-incremental.md) [~W]
 - [Individual rewards yield significant mCSCL effects while group reward methods do not](../claims/mcscl-individual-rewards-significant.md) [~W]
 - [Reward techniques show positive meta-analytic effects for gamification and personalization, but perceptual fluency did not directly affect learning outcomes](../claims/reward-techniques-meta-analytic-effects-mixed.md) [+W]
+- [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](../claims/gamification-mathematics-robustness-publication-bias.md) [+W]
+- [Gamification produces a statistically significant small-to-moderate positive effect on motivation in secondary and higher education mathematics (g = .383)](../claims/gamification-motivation-mathematics-meta-effect.md) [+W]
+- [Effects of gamification on mathematics motivation show substantial heterogeneity (I² = 80.74%), mostly within-study](../claims/gamification-mathematics-heterogeneity-substantial.md) [~W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

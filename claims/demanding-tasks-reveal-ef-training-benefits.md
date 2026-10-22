@@ -49,3 +49,4 @@ Narrative review synthesis across EF-intervention studies (citing C. L. Davis et
 - [EF training demands must keep increasing as children improve, or few gains will be seen](progressive-challenge-ef-training.md) — related
 - [The bilingual effect tends to emerge in more complex experimental tasks with higher control demands](task-complexity-moderates-bilingual-effect.md)
 - [Whether EF gains are seen depends on the amount of time children spend doggedly practicing and pushing themselves to improve](repeated-practice-key-ef-gains.md) — related
+- [Reducing EF demands benefits struggling learners, whereas calibrated EF challenge is hypothesised to benefit beginning learners](ef-load-reduction-for-struggling-learners.md) — related

@@ -115,3 +115,4 @@ and transfer"
 - [Self-explanation promotes transfer of general patterns but can reduce recall of details and cause overgeneralization](self-explanation-improves-transfer-reduces-detail-recall.md) — related
 - [Self-explanation substantially increases time on task, raising questions about its efficiency](self-explanation-time-on-task-cost.md) — related
 - [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
+- [Adding instructional explanations to worked examples yields a small positive effect on learning, stronger for conceptual than procedural knowledge](instructional-explanations-in-worked-examples-small-effect.md) — related

@@ -48,3 +48,4 @@ Conceptual argument in Section 2.1 (type e), citing psychological evidence that 
 - [Limited contextual understanding of pragmatic, cultural, and discourse information is a major technical limitation, reported in 16 of 54 studies (30%)](limited-contextual-understanding-ai-efl-technical.md) — related
 - [Learners showed reliable pre–post changes in facial, vocal, and lexical expressive signals after sustained system use](prepost-changes-expressive-emotion-signals.md) — related
 - [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related
+- [Existing SLA emotion research methods cannot capture the dynamic nature of emotions in language learning situations](sla-emotion-methods-cannot-capture-dynamics.md) — related

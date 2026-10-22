@@ -65,3 +65,4 @@ The essay reports, citing Zhang et al. (2006), Guo et al. (2014), and Ibrahim et
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related
 - [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related
 - [Guiding questions and student control over video movement improve learning outcomes and satisfaction](guiding-questions-and-video-control-improve-learning.md) — related
+- [Segmentation improves learning from dynamic visualizations, but because studies always used pauses, whether the pause's processing time or its segment-end signal drives the effect is unclear](segmentation-effect-cause-unclear.md) — related

@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 104 claims (52 for, 46 mixed, 6 against) · 43 studies (17 causal, 9 review, 8 quant-synthesis, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 14 of 43 report an effect size · 97 claims rest on one study
+> **Evidence** · 107 claims (53 for, 47 mixed, 7 against) · 44 studies (18 causal, 9 review, 8 quant-synthesis, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 15 of 44 report an effect size · 100 claims rest on one study
 
 ## Conditional relationship
 
@@ -230,6 +230,9 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Testing via identical problem solving after studying identical worked examples did not significantly improve delayed test performance compared with restudying identical examples (Experiment 2)](../claims/exp2-no-testing-effect-identical-problems.md) [-W]
 - [Testing after worked example study invests more mental effort than restudying examples, so restudy is more instructionally efficient at equal delayed performance (Experiment 3)](../claims/testing-more-effortful-than-restudy-exp3.md) [-W]
 - [Testing after studying four worked examples is not more effective for delayed test performance than restudying examples, with isomorphic or identical tasks (Experiment 3)](../claims/exp3-no-testing-effect-after-four-examples.md) [-W]
+- [Retrieval practice yields better delayed test performance than restudy (the testing effect) in both experiments](../claims/testing-effect-confirmed-anatomical-image-name-pairs.md) [+W]
+- [Only individual performance feedback, not general instruction about the testing effect, produced long-term increases in retrieval practice use, and only for students who benefited from retrieval practice](../claims/individual-feedback-superior-to-general-instruction-long-term.md) [~W]
+- [Students gave higher judgments of learning after restudy than after retrieval practice in Experiment 2 but not in Experiment 1](../claims/higher-jols-after-restudy-than-retrieval-practice.md) [-W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

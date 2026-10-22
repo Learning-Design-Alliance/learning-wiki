@@ -52,3 +52,4 @@ Two-sample t-tests with Bonferroni correction comparing ENA networks of students
 - [University students with high versus low GenAI literacy scores show significantly different ENA interaction structures during an AI-assisted abstract writing task](genai-literacy-groups-differ-in-ena-interaction-structure.md) — related
 - [No significant urban–rural difference in AI literacy scores, though the p-value approaches threshold](no-urban-rural-ai-literacy-difference.md) — related
 - [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](ena-cognitive-network-ct-groups.md) — related
+- [ENA contrasting-cases analysis shows high- and low-effectiveness studies differ significantly in their design-element and intention networks](ena-contrasting-cases-cognitive-he-le-differ.md) — related

@@ -46,3 +46,4 @@ The review reports the Koenka et al. (2021) meta-analysis finding that "receivin
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Autonomous motivation types positively relate to school achievement while controlled types show weak negative or null relations](autonomous-vs-controlled-motivation-achievement.md) — related
+- [External rewards can undermine intrinsic motivation for learners who are already motivated](external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) — related

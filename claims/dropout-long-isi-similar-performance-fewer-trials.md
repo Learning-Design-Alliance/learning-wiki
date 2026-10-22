@@ -69,3 +69,4 @@ Replication experiment with 66 undergraduates in three groups (5-5-5, 23-23-23, 
 - [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](expanding-not-better-than-fixed-interval.md) — related
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — related
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related
+- [Self-regulated dropping of already-known items during restudy conferred no significant learning advantage and was sometimes mildly detrimental](dropping-known-items-no-learning-advantage.md) — related

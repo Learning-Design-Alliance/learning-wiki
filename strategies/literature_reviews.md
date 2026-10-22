@@ -66,6 +66,7 @@ Literature reviews develop disciplinary reasoning because learners must weigh co
 - [Case-Based Learning](../strategies/case-based-learning.md) — single-case analysis that literature reviews scale up to many cases
 - [Use the Mentefacto Map to define keywords and inclusion/exclusion criteria in systematic reviews](mentefacto-map-review-criteria.md)
 - [Use this methodological baseline to target improvements in interpreting risk of bias, reporting study funding, and citing protocols in systematic reviews](baseline-strategy-address-review-limitations.md)
+- [Use the prompt typology to foster terminological coherence and improve literature search strategies in the age of AI](typology-for-terminological-coherence-and-search.md)
 
 ## Examples
 - **Graduate thesis proposals** — the required literature review chapter; strongest when advisors require a synthesis matrix before drafting.

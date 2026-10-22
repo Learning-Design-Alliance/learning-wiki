@@ -48,3 +48,4 @@ ANCOVA on drawing test performance (visuo-spatial knowledge) with prior knowledg
 - [Drawing provided no benefit for lower-order recognition knowledge, and the local support condition scored significantly lower than control](drawing-no-recognition-benefit-local-worse.md) — related
 - [Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload](drawing-support-increased-perceived-difficulty.md) — related
 - [Drawing quality was positively associated with learning outcomes across the drawing conditions, replicating the prognostic drawing effect](prognostic-drawing-effect-replicated.md) — related
+- [Instructional drawing support does not significantly improve students' comprehension or transfer compared with unsupported drawing overall](drawing-support-no-overall-effect.md) — related

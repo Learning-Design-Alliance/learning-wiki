@@ -53,3 +53,4 @@ The review's own synthesis of 91 included studies (92879 youth students, ages 10
 - [Longitudinal studies suggest reciprocal associations between some SECs and student engagement over time](reciprocal-sec-engagement-longitudinal.md) — related
 - [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](sel-factors-related-to-rapid-guessing.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
+- [Personal resources have a reciprocal relationship with study resources and relate to engagement and achievement](personal-resources-reciprocal-study-resources.md) — related

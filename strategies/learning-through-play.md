@@ -67,6 +67,7 @@ Play leverages intrinsic motivation and active engagement, which support attenti
 - [Simulation](../elements/simulation.md) — structured play applied to authentic professional scenarios
 - [Use direct-experience formats — simulation games, extracurricular activities, action learning, peer teaching — to pursue relational-domain objectives](experiential-formats-relational-objectives.md)
 - [Pursue three leads for teaching discovery behavior: operant analysis, cognitive simulation, and exploratory-drive research](three-leads-teaching-for-discovery.md)
+- [Frame simulation lessons as a movie-director game with scaffolding, varied texts, and reflective discussion to sustain engagement](movie-director-framing-scaffolding-engagement.md)
 
 ## Examples
 - **Tools of the Mind** (https://toolsofthemind.org) — a pre-K/kindergarten curriculum built on Vygotskian play, using mature dramatic play to develop self-regulation.

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/resolution-methodology-for-effort-appraisals.md
+---
+
+# Revision history: [strategies/resolution-methodology-for-effort-appraisals](../strategies/resolution-methodology-for-effort-appraisals.md)
+
+### 2026-10-21 · ingest · process:wiki-ingest
+Ingested from jrnl-a8f013f43649 (Looking at Mental Effort Appraisals through a Metacognitive Lens: Are they Biased?) via eval_harness.py + ingest_extractions.py

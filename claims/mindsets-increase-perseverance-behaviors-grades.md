@@ -68,3 +68,4 @@ Review synthesis in Chapter 2 of psychological evidence on mindsets. The review 
 - [Classroom environment is positively associated with students' self-reported motivation and other noncognitive factors within students](classroom-environment-relates-to-noncognitive-factors.md) — related
 - [Non-tested outcomes are predicted by teaching practices most proximal to these measures, including teachers' emotional support and classroom organization](proximal-practices-predict-behaviors-mindsets.md) — related
 - [Within-student differences in noncognitive factors are associated with differences in course grades across the same student's classes](within-student-noncognitive-factors-relate-to-grades.md) — a narrower finding that bears on this claim
+- [Personal resources have a reciprocal relationship with study resources and relate to engagement and achievement](personal-resources-reciprocal-study-resources.md) — related

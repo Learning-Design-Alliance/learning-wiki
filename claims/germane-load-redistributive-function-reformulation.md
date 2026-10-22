@@ -59,3 +59,4 @@ Theoretical reformulation in this narrative review, motivated because "Numerous 
 - [Intrinsic and extraneous load are distinguished by whether element interactivity is essential to the task or a function of instructional procedures](intrinsic-extraneous-distinction-essential-vs-instructional.md) — related
 - Correlations of cognitive load types with learning outcomes and prior knowledge support CLT assumptions, and results support the three-factor model — related
 - [Germane cognitive load was added to the cognitive load framework on theoretical grounds rather than because of empirical results requiring the concept](germane-load-added-on-theoretical-not-empirical-grounds.md) — related
+- [Reducing extraneous cognitive load is not a significant moderator of drawing support effects on comprehension](extraneous-load-reduction-non-significant-moderator.md) — related
