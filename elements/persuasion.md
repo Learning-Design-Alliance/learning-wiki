@@ -13,7 +13,7 @@ generated:
 # Persuasion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 review, 1 causal), `q2`–`q3` · 0 of 4 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 5 studies (3 review, 2 causal), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Persuasion tasks ask learners to construct and deliver arguments designed to change an audience's beliefs or actions, using logic, evidence, and rhetorical technique. Unlike [Argumentation](argumentation.md), which emphasizes reasoned justification, persuasion foregrounds audience awareness — tailoring claims, credibility, and emotional appeal to the listeners being addressed.
@@ -54,7 +54,7 @@ Persuasion tasks integrate knowledge by requiring learners to select, organize, 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [An argument's named authoritative author increased mathematicians' persuasiveness ratings, but the authority effect vanished for deductive proofs](../claims/author-reputation-persuasiveness-rating.md) [~W]
 
 ## Related Elements
 - [Argumentation](argumentation.md) — the reasoning backbone; persuasion without argumentation is mere assertion

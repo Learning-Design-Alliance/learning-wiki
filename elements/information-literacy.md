@@ -13,7 +13,7 @@ generated:
 # Information Literacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (6 for, 7 mixed, 3 against) · 17 studies (6 causal, 4 qualitative, 2 review, 2 associational, 2 theoretical, 1 design), `q1`–`q3` · 1 of 17 report an effect size · 15 claims rest on one study
+> **Evidence** · 17 claims (6 for, 8 mixed, 3 against) · 18 studies (6 causal, 4 qualitative, 3 associational, 2 review, 2 theoretical, 1 design), `q1`–`q3` · 1 of 18 report an effect size · 16 claims rest on one study
 
 ## Description
 Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly. It is useful when tasks require judgment about evidence rather than mere retrieval.
@@ -52,6 +52,7 @@ Information literacy is the element in which learners identify information needs
 - [The predominant student evaluation of LLMs (42%) is positive but conditional on the student's own verification work](../claims/students-positive-with-caveat-llm-evaluation.md) [~W]
 - [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](../claims/sysadmin-expertise-shifts-to-validating-genai-output.md) [+W]
 - [Students described the verification label as a reason to engage with AI-generated material that did not end their own scrutiny of it](../claims/verification-label-engagement-scrutiny.md) [+W]
+- [A majority of surveyed mathematicians report believing proofs are correct because of journal publication, journal quality, or a trusted authoritative source](../claims/mathematicians-authoritarian-conviction-survey.md) [~W]
 
 ## The evidence by question
 - *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]

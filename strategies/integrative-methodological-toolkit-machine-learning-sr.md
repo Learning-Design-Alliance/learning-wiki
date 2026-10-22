@@ -43,6 +43,7 @@ The article recommends that research on SR in education move beyond single-tradi
 - [Broaden co-regulation methodology using trace data, server logs, episodic coding and multilevel modelling](trace-data-multilevel-methods-for-co-regulation.md)
 - [Advance the use of structural-configurational methods such as SNA and ENA toward empirically testable models](structural-configurational-methods-toward-testable-models.md)
 - [Model assets and threats to availability by blending inter-individual self-reports with process-oriented intraindividual online measures](blended-observational-intraindividual-availability-paradigm.md)
+- [Leverage self-regulated learning measurement methods in feedback research](leverage-srl-measurement-methods-feedback-research.md)
 
 ## Examples
 -

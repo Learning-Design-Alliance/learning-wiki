@@ -64,3 +64,4 @@ This is a single-school qualitative discourse study without a comparison school 
 - [Linguistic-level discourse analysis of students restating animation descriptions in their own words documents collaborative behavior and informs task redesign](karlsson-linguistic-discourse-analysis-restating.md) — related
 - [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](network-of-intuitive-ideas-stabilizes-thinking.md) — related
 - [Students' differing values about a campus predator-prey problem produced no agreed definition of the issue and no agreed action](differing-values-no-agreed-environmental-decision.md) — related
+- [Epistemic reflexivity requires internal dialogue that references both teaching practices and epistemic cognition as a calibration process](epistemic-reflexivity-calibration-teaching-practices.md) — related

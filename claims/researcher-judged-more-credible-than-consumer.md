@@ -65,3 +65,4 @@ Mixed ANOVA on perceived trustworthiness ratings (α=0.85) with effect size "η�
 - [Embedded rating scales make middle-schoolers more likely to judge the expert (researcher) speaker as the most convincing](embedded-rating-scales-researcher-most-convincing.md) — related
 - [Students exposed to embedded rating scales mention interviewees' expertise more often in their convincingness justifications](embedded-rating-scales-expertise-justifications.md) — related
 - [Watching the sourcing instructional video unexpectedly lowered students' trustworthiness ratings of the interviewees](instructional-video-lowered-trustworthiness-ratings.md) — related
+- [Learners are more willing to act on feedback when they perceive the sender as credible and trustworthy](sender-credibility-supports-feedback-use.md) — related

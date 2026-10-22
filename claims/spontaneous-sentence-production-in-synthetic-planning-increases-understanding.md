@@ -62,3 +62,4 @@ The understanding measure is a single pre/post self-rating on a 7-point scale (a
 - [Keystroke patterns during web-based DP exams suggested planning, revision, and sustained cognitive engagement](keystroke-patterns-suggest-cognitive-engagement.md) — related
 - [SRL writing-stage clusters differed in production and revision but not in pausing](srl-writing-clusters-production-revision.md) — related
 - [Installing the synthetic position as promoter can raise self-narrative coherence while lowering authorship of it (authorship-coherence dissociation)](authorship-coherence-dissociation-prediction.md) — related
+- [A knowledge-constituting process synthesizes writing content from constraints within semantic memory](knowledge-constituting-process-semantic-memory.md) — related

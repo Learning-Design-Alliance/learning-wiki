@@ -44,6 +44,7 @@ The article recommends that groups addressing equity and justice, such as GSAs, 
 - [Use direct-experience formats — simulation games, extracurricular activities, action learning, peer teaching — to pursue relational-domain objectives](experiential-formats-relational-objectives.md)
 - [Follow-up After Discussions](follow-up_after_discussions.md)
 - [Prepare for Parental Reactions](prepare_for_parental_reactions.md)
+- [Use extracurricular activities and inclusion-oriented clubs to build cross-group connections, while removing access barriers](extracurricular-shared-goals-cross-group-connections.md)
 
 ## Examples
 -

@@ -84,3 +84,4 @@ The playbook summarizes prior research (citing Attendance Works' compilation of 
 - [Good attendance is more strongly related to academic gains for students who enter preschool with lower incoming skills than for those entering with higher skills](attendance-benefits-strongest-low-incoming-skills.md) — a narrower finding that bears on this claim
 - [Each single prior-year absence is associated with a .010 to .016 SD decrease in fall mathematics starting achievement the following year](single-absence-cumulative-fall-math-decline.md) — a narrower finding that bears on this claim
 - [Ninth grade truancy rates do not differ much by gender, undercutting the hypothesis that gang activity primarily drives absenteeism](truancy-rates-similar-by-gender.md) — related
+- [Peer victimization is associated with more school absences and lower grades and achievement among school-aged students](peer-victimization-academic-costs.md) — a narrower finding that bears on this claim

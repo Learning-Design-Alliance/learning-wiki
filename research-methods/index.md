@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**606 entries** · 0 stable · 606 in review · 0 drafts
+**607 entries** · 0 stable · 607 in review · 0 drafts
 
 ---
 
@@ -478,6 +478,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### S {: #letter-s }
 
+* [SAGE taxonomy of four recipience processes targeted by feedback interventions](sage-taxonomy-of-four-recipience-processes-targeted-by-feedback-interventions.md) - The SAGE taxonomy is a data-driven framework of four distinct recipience processes that feedback interventions target: Self-appraisal (making judgments about oneself, one's traits, or one's behavior), Assessment literacy (understanding the grading process and applying it to make academic judgments),
 * [SAVVY content-derived visual and auditory information density metrics](savvy-content-derived-visual-and-auditory-information-density-metrics.md) - Grounded in the Limited Capacity Model of Motivated Mediated Message Processing (LC4MP), SAVVY quantifies information density of both visual and auditory channels per slide-transition-induced event segment.
 * [SC2R: semantics-constrained counterfactual recourse framework for educational decision support](sc2r-semantics-constrained-counterfactual-recourse-framework-for-educational-decision-supp.md) - SC2R is a three-component pipeline for educational decision support: a predictive component estimating next-assessment success, an integer-programming recourse component generating candidate intervention plans over a discrete action space, and a semantic validation layer using SHACL.
 * [Scaffolding types arranged on a continuum of self-regulation of problem-solving](scaffolding-types-arranged-on-a-continuum-of-self-regulation-of-problem-solving.md) - The article proposes ordering scaffolding techniques by the degrees of freedom they leave the learner: \"we suggest locating the scaffolding types on different positions on a scale of self-regulation of problem-solving, with examples located from a rather low level followed by role assignments and pr

@@ -68,6 +68,7 @@ The strategy inverts the usual instruction-then-practice sequence: exploration p
 - [Use examples of another student's complete failed problem-solving process prior to instruction as an implementable alternative to productive failure](observe-complete-failure-process-before-instruction.md)
 - [Include student solutions in explicit instruction that are actually typical for the taught sample](align-instruction-with-actually-generated-solutions.md)
 - [Provide feedback in the problem-solving phase to foster negative knowledge and multiple solution attempts](feedback-in-problem-solving-phase-negative-knowledge.md)
+- [Teach learners to recode semantically incongruent representations by comparing strategies and studying the problem's deep structure](deep-structure-recoding-training.md)
 
 ## Examples
 - **Kapur's mathematics classrooms (Singapore):** middle-school students explored standard-deviation problems in groups before instruction on the canonical formula; exploration classes showed lower success during the lesson but outperformed direct-instruction peers on conceptual and transfer post-tests (see Kapur, 2008, below).

@@ -13,7 +13,7 @@ generated:
 # Identity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (63 show a difference, 14 mixed, 3 no difference) · 45 studies (15 review, 9 associational, 9 qualitative, 5 causal, 4 theoretical, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 45 report an effect size · 79 claims rest on one study
+> **Evidence** · 81 claims (64 show a difference, 14 mixed, 3 no difference) · 46 studies (16 review, 9 associational, 9 qualitative, 5 causal, 4 theoretical, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 46 report an effect size · 80 claims rest on one study
 
 ## Description
 Identity is a learner's sense of self and understanding of who they are, which shapes how they engage with the world. It begins forming in infancy, develops most intensely during adolescence, and keeps changing in adult life. Commonly named aspects include race, ethnicity, gender, cultural background, language and disability status. In early childhood children begin to form identities as they learn about themselves and their world; in middle childhood they come to understand social categories in more depth and start to take on social identities through interaction with peers and educators; in adolescence peers and social life take on more weight and learners navigate social spaces more independently. The LVN summaries tie identity to learning in three ways: a positive ethnic-racial identity is associated with achievement and self-esteem, it can buffer the harm of discrimination, and identity-based stereotypes can produce [stereotype threat](stereotype-threat.md) and weaken [belonging](belonging.md). It is measured mainly with ethnic and racial identity scales for older children and adolescents. The group categories themselves are not causes of learning outcomes: see the wiki's pages on [race and ethnicity](race-and-ethnicity.md) and [gender](gender.md), where differences are read as reflecting circumstances and treatment. The LVN covers identity for pre-kindergarten to grade 12 only.
@@ -116,6 +116,7 @@ Identity is a learner's sense of self and understanding of who they are, which s
 - [Minoritized students reported lower belonging where peers endorsed more fixed mindset beliefs, with an asymmetric pattern](../claims/minoritized-students-belonging-peer-fixed-mindset.md) [+M] — an instructional effect differs with it
 - [Sense of belonging in learning contexts is robustly associated with psychological well-being, academic motivation, and academic performance](../claims/belonging-associated-wellbeing-motivation-performance.md) [+M] — learners who differ on it differ in outcomes
 - [The belonging–outcome association is stronger in some cultural groups than others: reported moderation by ethnicity and by individualism–collectivism](../claims/structure-oriented-moderation-belonging-outcomes.md) [~W] — an instructional effect differs with it
+- [Identity- or bias-based harassment shows negative social-emotional and academic consequences over and above general victimization](../claims/bias-based-harassment-added-harm.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Multigroup Ethnic Identity Measure, Revised (MEIM-R)** (Phinney & Ong, 2007): a brief survey of affiliation with one's ethnic group for older elementary students and adolescents.

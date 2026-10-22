@@ -45,3 +45,4 @@ The review reports, citing Newton and Salvi (2020), a systematic review of 37 st
 ## Related Claims
 - [University students remain highly on-task throughout 70-minute lectures, refuting the 15–20 minute attention-span myth](rosengrant-vigilance-no-15-minute-decline.md) — related
 - [Meta-analyses testing the matching hypothesis show a negligible overall effect of matching teaching to students' learning styles (d = 0.04)](matching-learning-styles-negligible-effect.md) — related
+- [Inaccurate prior beliefs undermine readers' ability to question online misinformation](inaccurate-beliefs-undermine-misinformation-questioning.md) — related

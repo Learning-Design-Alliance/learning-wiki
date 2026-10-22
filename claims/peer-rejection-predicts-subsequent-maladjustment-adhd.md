@@ -72,3 +72,4 @@ One cited study found independent longitudinal contributions of peer rejection a
 - [Findings are mixed on whether friendship buffers the negative effects of peer rejection for children with ADHD](friendship-buffering-peer-rejection-mixed-evidence.md) — a narrower finding that bears on this claim
 - [Perceived responsibility of the target character for his/her condition predicts acceptance of peers with mental health problems](perceived-responsibility-predicts-acceptance.md) — related
 - [Existing child-focused treatments for ADHD, including the MTA's intensive behavioral management and medication, and clinic-based social skills training, have not improved peers' liking of children with ADHD](existing-treatments-fail-improve-peer-regard-adhd.md) — related
+- [Identity- or bias-based harassment shows negative social-emotional and academic consequences over and above general victimization](bias-based-harassment-added-harm.md) — related

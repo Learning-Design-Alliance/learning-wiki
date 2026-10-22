@@ -60,3 +60,4 @@ The dissertation reports, citing a large-scale log analysis of 6.9 million MOOC 
 - [mLearning students prefer video-based materials with each video under 5 minutes](mlearning-students-prefer-short-videos-under-5-minutes.md) — related
 - [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](students-pause-video-to-view-segment-menu.md) — related
 - [Overall quality was similar across durations and across the 21-lecture held-out set unused during system development](bespoke-quality-stable-across-durations-and-held-out-lectures.md) — related
+- [In a four-wave MOOC intervention study, statistically significant first-wave findings failed to replicate in subsequent preregistered waves](mooc-intervention-first-wave-findings-failed-to-replicate.md) — related

@@ -64,6 +64,7 @@ Lateral reading outperforms the checklist approaches (e.g., CRAAP tests) histori
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — background knowledge of the information ecosystem determines what learners can infer during evaluation
 - [Parents and educators should search multiple sources — app stores, expert review sites, and producers' websites — when selecting literacy apps](cross-source-app-search-strategy.md)
 - [Teach students a broad set of strategies including sourcing, scrutinizing evidence, and corroboration to enable judging the accuracy of diverse online claims](broad-strategy-set-online-claim-accuracy.md)
+- [Use corroboration across multiple sources, including lateral reading, when lacking relevant prior knowledge](corroboration-lateral-reading-for-laypersons.md)
 
 ## Examples
 - **[Stanford History Education Group — Civic Online Reasoning](https://cor.stanford.edu)** — Free curriculum built on lateral reading research; lessons use real websites and professional fact-checker strategies [+S]

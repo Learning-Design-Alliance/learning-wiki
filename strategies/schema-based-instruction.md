@@ -73,11 +73,13 @@ Schema-based instruction works because expert problem solving is driven by recog
 5. Assess by asking students to name the schema and justify the classification, not only to produce the answer ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies
+
 - [Worked Examples](worked-examples-first.md) — solved problems are the vehicle for demonstrating each schema in action
 - [Erroneous Examples](../strategies/erroneous_examples.md) — flawed keyword-based solutions sharpen schema discrimination
 - [Graphic Organizers](graphic-organizers.md) — schema diagrams are a domain-specific instance of this family
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the method for making schema classification visible
 - [Comparing Cases](../elements/comparing-cases.md) — side-by-side problems with the same schema but different surface features build structural recognition
+- [Teach learners to recode semantically incongruent representations by comparing strategies and studying the problem's deep structure](deep-structure-recoding-training.md)
 
 ## Examples
 - **Jitendra's schema-based instruction program** — a line of intervention studies teaching addition/subtraction and multiplication/division schemas with diagrams to elementary and middle school students, including students with disabilities; consistently improved word-problem accuracy relative to comparison instruction [Xin & Jitendra, 1999](https://doi.org/10.1080/00220679909597622).

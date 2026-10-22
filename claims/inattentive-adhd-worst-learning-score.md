@@ -55,3 +55,4 @@ One-way comparison of learning disability scores across ADHD subtypes (28 combin
 - [Adults with ADHD-Inattentive type make significantly more fearful affect recognition errors than non-ADHD controls on the DANVA](adhd-inattentive-adults-more-fearful-affect-errors.md) — related
 - [Inattentive symptoms are significantly positively correlated with fearful and vocal channel affect recognition errors](inattentive-symptoms-fearful-vocal-error-correlations.md) — related
 - [Learning disability scores correlate negatively with ABR wave III/IV/V latencies, I-III and I-V intervals, and epileptiform EEG activity](learning-disability-correlates-abr-eeg.md) — related
+- [Stepwise formation teaching reduced spelling-checking errors in inattentive children from a mean of 6.4 to 0.2 errors per task](galperin-attention-spelling-teaching-experiment.md) — related

@@ -51,3 +51,4 @@ MANCOVA on Task 1 log files comparing Exploration-first (n = 35) and Instruction
 - [Exploration-first students show more advanced MVC reasoning on the transfer task than Instruction-first students](exploration-first-transfer-mvc-reasoning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [PS-I with a virus transmission simulation showed better transfer of multivariable causality to a new context, despite similar end-of-intervention performance to I-PS](ps-i-simulation-better-mvc-transfer.md) — related
+- [In a computer learning environment for electricity, the benefit of exploratory simulation time depended on instructional treatment (rule induction vs. rule application)](ati-exploration-time-by-rule-treatment-electricity.md) — related

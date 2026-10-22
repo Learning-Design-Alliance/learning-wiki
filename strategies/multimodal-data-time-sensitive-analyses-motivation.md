@@ -52,6 +52,7 @@ The review recommends that future research and learning-technology design exploi
 - [Future team-learning change research should use mixed methods with more than three measurement points in short intervals](mixed-methods-many-measurement-points-team-learning.md)
 - [Supplement self-report questionnaires with process-oriented and online measures of motivation during learning](alternatives-to-self-reports-motivation-measurement.md)
 - [Model assets and threats to availability by blending inter-individual self-reports with process-oriented intraindividual online measures](blended-observational-intraindividual-availability-paradigm.md)
+- [Employ multimodal methods to capture the multifaceted feedback process](multimodal-methods-feedback-process.md)
 
 ## Examples
 -

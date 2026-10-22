@@ -48,3 +48,5 @@ Qualitative analysis of conversation transcripts and observations from the explo
 - [Students generally trusted the chatbot's responses, often rating them like responses from teachers or friends](students-trusted-ama-responses.md) — related
 - [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related
 - [Children were split about confiding in the chatbot, with about half willing to share secrets or ask advice and half not](children-split-on-confiding-in-chatbot.md) — related
+- [Five prior knowledge types map onto first-, second-, and third-hand credibility evaluation strategies](five-knowledge-types-map-onto-evaluation-strategy-tiers.md) — related
+- [Learners are more willing to act on feedback when they perceive the sender as credible and trustworthy](sender-credibility-supports-feedback-use.md) — related

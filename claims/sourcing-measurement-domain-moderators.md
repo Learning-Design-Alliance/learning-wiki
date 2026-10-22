@@ -48,3 +48,4 @@ This is the review's own synthesis conclusion, stated in its abstract, drawing o
 - [Reading comprehension relates to sourcing in half of reviewed studies, with no age-based explanation for the split](reading-comprehension-sourcing-mixed.md) — a narrower finding that bears on this claim
 - [Comprehension strategy use relates to sourcing in most reviewed studies, especially complex multiple-text strategies among university students](comprehension-strategies-sourcing-supported.md) — a narrower finding that bears on this claim
 - [Cognitive style shows a weak, measure-dependent relationship with SPT accuracy](cognitive-style-weak-spt-accuracy-relation.md) — related
+- [Topical vocabulary knowledge is positively associated with adolescents' multiple-source integration, evaluation, and synthesis performance](topical-vocabulary-associated-with-multiple-source-performance.md) — related

@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (60 show a difference, 10 mixed, 10 no difference) · 60 studies (19 causal, 18 associational, 13 quant-synthesis, 6 review, 2 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 17 of 60 report an effect size · 77 claims rest on one study
+> **Evidence** · 81 claims (61 show a difference, 10 mixed, 10 no difference) · 61 studies (19 causal, 19 associational, 13 quant-synthesis, 6 review, 2 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 17 of 61 report an effect size · 78 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -121,6 +121,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Explicit instruction in individual English word meanings, rich in-depth vocabulary instruction, visuals, L1 use, and word-learning strategies improved MLs' English vocabulary](../claims/vocabulary-instruction-practices-improve-ml-english-vocabulary.md) [+M] — instruction changes it
 - [RALL studies report learning gains when social robots are used to teach vocabulary, reading skills, speaking skills, grammar, and sign language](../claims/rall-learning-gains-five-language-domains.md) [+M] — instruction changes it
 - [Semantically congruent iconic gestures improve L2 vocabulary retention relative to meaningless or incongruent gestures](../claims/iconic-congruent-gestures-improve-retention.md) [+M] — instruction changes it
+- [Topical vocabulary knowledge is positively associated with adolescents' multiple-source integration, evaluation, and synthesis performance](../claims/topical-vocabulary-associated-with-multiple-source-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

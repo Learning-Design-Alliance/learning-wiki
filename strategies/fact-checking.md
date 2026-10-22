@@ -64,6 +64,7 @@ Fact checking instruction improves learners' ability to evaluate online informat
 - [Source Evaluation](source-evaluation.md) — the broader judgment skill of which fact checking is the active, verification-based component
 - [Media Literacy Education](media-literacy-education.md) — the wider curriculum context addressing bias, framing, and production of media
 - [Teach students a broad set of strategies including sourcing, scrutinizing evidence, and corroboration to enable judging the accuracy of diverse online claims](broad-strategy-set-online-claim-accuracy.md)
+- [Use corroboration across multiple sources, including lateral reading, when lacking relevant prior knowledge](corroboration-lateral-reading-for-laypersons.md)
 
 ## Examples
 - **Stanford History Education Group (SHEG) / Digital Inquiry Group** — curriculum built on the 2019 study of professional fact checkers; free lateral-reading lessons and assessments at [https://inquirygroup.org](https://inquirygroup.org)

@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 14 claims (10 show a difference, 3 mixed, 1 no difference) · 11 studies (4 causal, 4 qualitative, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q3` · 1 of 11 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (11 show a difference, 3 mixed, 1 no difference) · 12 studies (5 causal, 4 qualitative, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q3` · 1 of 12 report an effect size · 15 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -51,6 +51,7 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [Students' ability to understand and explain geometric phenomena improved in all conditions, with no difference between MACE and regular geometry lessons](../claims/mace-no-gat-advantage.md) [+M] — instruction changes it
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](../claims/worked-example-effect-element-interactivity-explanation.md) [~W] — an instructional effect differs with it
 - [The inhibitory control–mathematical ability correlation does not differ across domains of mathematical ability](../claims/no-domain-moderation-inhibitory-control-math.md) [-M] — learners who differ on it differ in outcomes
+- [Galperin-based geometry instruction enabled poorly performing sixth graders to identify geometric items correctly, with 93% giving conceptual explanations](../claims/galperin-geometry-concept-teaching-experiment.md) [+M] — instruction changes it
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

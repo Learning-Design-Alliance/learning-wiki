@@ -151,3 +151,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Concrete models eventually break; teachers devise patches that may obscure underlying concepts, and learner reasoning at breaking points is unknown](manipulative-model-breaks-teacher-patches-obscure-concepts.md) — related
 - [Fading of instructional support in collaborative argumentation has produced mixed results, with effectiveness depending on the fading criterion used](fading-collaborative-argumentation-mixed-results.md) — related
 - [Realism effects on learning depend on knowledge type: advantages for surface learning, disadvantages for abstract content](knowledge-type-moderates-realism-effects.md) — related
+- [Transfer of a permutation algorithm succeeds for objects-assigned-to-people problems but fails for people-assigned-to-objects problems](bassok-transfer-objects-people-asymmetry.md) — related

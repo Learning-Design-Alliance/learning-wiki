@@ -54,3 +54,4 @@ RQ2 finding on fostering collaborative and socially constructed learning in the 
 - [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md) — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
 - [Teachers observe AI tools foster students' scientific identity and agency, shifting them from knowledge learners toward scientific practitioners](ai-fosters-scientific-identity-agency.md) — related
+- [Meaning negotiation and appropriation are mechanisms for achieving conceptual change in scientific thinking](conceptual-change-via-meaning-negotiation-appropriation.md) — related

@@ -39478,5 +39478,53 @@
  "technology-tool\tAI-assisted writing\twriting without AI assistance": {
   "label": "AI-assisted writing vs writing without AI assistance",
   "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning\tnot stated": {
+  "label": "cooperative learning vs non-cooperative learning",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tGalperin method for analyzing letter contours\tnot stated": {
+  "label": "explicit instruction in letter-contour analysis vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction on sourcing and corroboration\tnot stated": {
+  "label": "explicit instruction in sourcing and corroboration vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmaterial, verbal, and covert-speech spelling-monitoring instruction with an orientation chart\tpre-test before instruction": {
+  "label": "spelling-monitoring instruction vs assessment-only",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tshort waits for feedback\tlong waits for feedback": {
+  "label": "short waits for feedback vs long waits for feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback that clearly locates problems, proposes solutions, and provides a summary\tSurface-feature feedback such as spelling and grammar comments": {
+  "label": "Substantive vs surface-feature feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tFeedback that directly identifies issues to be addressed\tSurface-feature comments such as spelling and grammar": {
+  "label": "Substantive vs surface-feature feedback",
+  "treatment_is_a": true
+ },
+ "prompts\tinterventions with modified exclusion criteria\tno intervention": {
+  "label": "modified-exclusion-criteria prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tlearning-support interventions\tno intervention": {
+  "label": "learning-support prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tpreregistered learning-support interventions\tno intervention": {
+  "label": "learning-support prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tvalue relevance affirmation\tno intervention": {
+  "label": "value-relevance affirmation prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "scaffolding\torienting charts for geometry concepts\tpretest performance without the intervention": {
+  "label": "scaffolding vs no scaffolding",
+  "treatment_is_a": true
  }
 }

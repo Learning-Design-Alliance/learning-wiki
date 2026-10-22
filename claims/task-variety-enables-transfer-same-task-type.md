@@ -46,3 +46,4 @@ A theoretical assertion in the task-progression section of this conceptual paper
 ## Related Claims
 - [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — related
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
+- [Stepwise handwriting instruction produced transfer of shape-analysis to new tasks such as Arabic writing, blueprints, and drawings](galperin-handwriting-transfer-experiment.md) — a narrower finding that bears on this claim

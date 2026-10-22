@@ -49,3 +49,4 @@ Hierarchical regression (Model 2, REML mixed-effects) of 1,552 students nested i
 - [School ethnic composition moderates change in ERI affirmation during adolescence](school-ethnic-composition-moderates-eri-affirmation.md) — related
 - [School racial/ethnic diversity and same-racial/ethnic peer proportion jointly predict higher reading achievement in kindergarten, with matching benefits concentrated in more diverse schools](school-diversity-matching-jointly-predict-reading-achievement.md) — related
 - [Racial/ethnic composition of classrooms and schools shapes Black and Latine students' sense of belonging in mathematics](racial-ethnic-composition-shapes-math-belonging.md) — related
+- [Ingroup representation and racial/ethnic diversity are distinct constructs that are often conflated in school diversity research](ingroup-representation-distinct-from-diversity.md) — related

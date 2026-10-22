@@ -52,3 +52,4 @@ Theoretical exposition in the article's section on learning, arguing that constr
 - [Adding friction to objectively meaningless tasks increases their appraised sense of purpose and meaning](added-friction-increases-appraised-purpose.md) — related
 - [In observed Australian secondary classrooms, only a minority of lesson tasks stimulated Constructive or Interactive engagement](paucity-constructive-interactive-lesson-tasks.md) — related
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — a narrower finding that bears on this claim
+- [Galperin argued objective psychological study requires abandoning mere observation in favor of active construction and guided transformation of actions](galperin-methodology-active-construction.md) — related

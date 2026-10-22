@@ -36,7 +36,7 @@ sources:
 # Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (26 for, 9 mixed) · 29 studies (8 review, 6 causal, 4 associational, 4 qualitative, 3 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 5 of 29 report an effect size · 31 claims rest on one study
+> **Evidence** · 36 claims (27 for, 9 mixed) · 30 studies (8 review, 6 causal, 4 associational, 4 qualitative, 4 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 5 of 30 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,7 @@ Read against the model on 2026-10-19 and moved into it: the AI writing-dialogue 
 - [The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations](../claims/calp-can-precede-bics-in-certain-situations.md) [~W]
 - [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](../claims/integrate-oral-written-language-content-teaching.md) [+M]
 - [BICS-level language can be acquired in about two years regardless of age on arrival and first language](../claims/bics-acquired-two-years-all-ages.md) [~W]
+- [Meaning negotiation and appropriation are mechanisms for achieving conceptual change in scientific thinking](../claims/conceptual-change-via-meaning-negotiation-appropriation.md) [+W] — attached 2026-10-22 from Roy D. Pea (1994), which proposed "Design and study of learning environments should follow from a sociocultural perspective on conceptual change".
 
 ## Objective and learner-valued goal
 

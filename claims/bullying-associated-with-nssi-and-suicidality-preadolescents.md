@@ -54,3 +54,4 @@ Cross-sectional analysis of 11,015 ABCD Study children aged 9–10 using caregiv
 - [Bullied preadolescents score lower than matched non-bullied peers on reading, processing speed, and inhibitory control/attention over two years](bullying-lower-reading-processing-speed-inhibitory-control.md) — related
 - [Bullied preadolescent children have lower cognitive scores than non-bullied peers](bullying-associated-with-lower-cognitive-scores.md) — related
 - [Bullied preadolescents show larger cortical volumes in left entorhinal, left superior parietal, and right fusiform regions than matched non-bullied peers](bullying-larger-cortical-volumes-entorhinal-parietal-fusiform.md) — related
+- [Peer victimization is associated with more school absences and lower grades and achievement among school-aged students](peer-victimization-academic-costs.md) — related
