@@ -8,7 +8,7 @@
 "pattern":54,
 "principle":170,
 "process":18,
-"product":1836,
+"product":1835,
 "research-method":606,
 "strategy":6531,
 "theory":1360
@@ -254326,14 +254326,6 @@
 "type":"product"
 },
 {
-"description":"Louise David et al.'s OSF dataset contains coded correlations, sample sizes, and moderator coding from studies of self-reported mental effort, metacognitive monitoring, and outcomes for meta-analytic secondary analysis and replication.",
-"id":"open-meta-analytic-dataset-of-effortmonitoringoutcome-correlations-on-osf",
-"path":"products/open-meta-analytic-dataset-of-effortmonitoringoutcome-correlations-on-osf.md",
-"status":"review",
-"title":"Open meta-analytic dataset of effort–monitoring–outcome correlations on OSF",
-"type":"product"
-},
-{
 "description":"A GitHub repository released by Dillenbourg et al.",
 "id":"open-online-dataset-and-statistical-analyses-of-the-mutual-modelling-emotions-study",
 "path":"products/open-online-dataset-and-statistical-analyses-of-the-mutual-modelling-emotions-study.md",
@@ -357334,7 +357326,6 @@
 "open-executable-module-library-of-six-jupyter-notebooks-for-ai-in-power-systems":"open-executable-module-library-of-six-jupyter-notebooks-for-ai-in-power-systems",
 "open-learning-analytics-platform":"open-learning-analytics-platform",
 "open-learning-initiative-oli":"open-learning-initiative-oli",
-"open-meta-analytic-dataset-of-effortmonitoringoutcome-correlations-on-osf":"open-meta-analytic-dataset-of-effortmonitoringoutcome-correlations-on-osf",
 "open-online-dataset-and-statistical-analyses-of-the-mutual-modelling-emotions-study":"open-online-dataset-and-statistical-analyses-of-the-mutual-modelling-emotions-study",
 "open-science-framework-analytic-script-generating-and-analyzing-the-simulated-data-osfio9p":"open-science-framework-analytic-script-generating-and-analyzing-the-simulated-data-osfio9p",
 "open-source-adversarial-stress-testing-platform-for-rplas-with-fastapi-backend-and-react-d":"open-source-adversarial-stress-testing-platform-for-rplas-with-fastapi-backend-and-react-d",
