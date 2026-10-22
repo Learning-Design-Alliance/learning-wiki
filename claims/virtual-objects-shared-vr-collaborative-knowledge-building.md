@@ -50,3 +50,4 @@ The introduction's summary of the Huang, Walkington, and Nathan study reports th
 - [Object manipulation in a visual representation significantly improves scores from post-test to retention test after two weeks of non-instruction](manipulation-improves-retention-logic.md) — related
 - [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — related
 - [Manipulating objects during learning improves comprehension, and virtual manipulation can be as effective as physical manipulation](object-manipulation-improves-comprehension.md) — related
+- [Physically or imaginatively manipulating objects during reading improves children's reading comprehension](moved-by-reading-object-manipulation-comprehension.md) — related

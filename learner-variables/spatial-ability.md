@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 40 claims (32 show a difference, 3 mixed, 5 no difference) · 24 studies (10 associational, 6 causal, 5 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 6 of 24 report an effect size · 39 claims rest on one study
+> **Evidence** · 46 claims (33 show a difference, 8 mixed, 5 no difference) · 26 studies (10 associational, 7 review, 6 causal, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 6 of 26 report an effect size · 45 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -76,6 +76,12 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Learners with higher visuospatial ability outperform lower-visuospatial-ability learners on recognition and factual knowledge when learning fish movements in Desktop-VR](../claims/vsa-main-effect-learning-desktop-vr.md) [+M] — learners who differ on it differ in outcomes
 - [Spatial ability scores are positively associated with mathematics performance across children and adults, as the review reports](../claims/spatial-ability-associated-mathematics-performance.md) [+W] — learners who differ on it differ in outcomes
 - [Visuospatial ability moderated the effect of interaction format on difficult recognition in Desktop-VR, with camera movement benefiting higher-ability learners](../claims/vsa-moderates-difficult-recognition-desktop-vr.md) [+M] — an instructional effect differs with it
+- [Cannabis effects on visuospatial processing tend to be lower than on other cognitive functions](../claims/cannabis-visuospatial-effects-lower-than-other-cognitive-functions.md) [~M] — instruction changes it
+- [Cannabis use may moderately impair visuospatial processing and learning in nondependent high school students](../claims/cannabis-moderately-impairs-visuospatial-processing-high-school-students.md) [~M] — instruction changes it
+- [Learners' spatial ability moderates whether realistic visualizations help or hinder learning](../claims/spatial-ability-moderates-realism-effects.md) [~M] — an instructional effect differs with it
+- [Stereoscopic display of realistic visualizations may support spatial perception and transfer-oriented learning](../claims/stereoscopic-realism-transfer-potential.md) [~M] — instruction changes it
+- [Visuospatial processing effects of cannabis could disappear under abstinence in nondependent high school students](../claims/cannabis-visuospatial-effects-disappear-under-abstinence.md) [~M] — instruction changes it
+- [Visuospatial processing plays a pivotal role for learning](../claims/visuospatial-processing-pivotal-for-learning.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

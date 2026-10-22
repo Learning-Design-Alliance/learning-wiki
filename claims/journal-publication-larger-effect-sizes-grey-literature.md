@@ -47,3 +47,4 @@ Moderator analysis of publication type across 40 journal and 18 grey-literature 
 - [Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36](publication-bias-adjusted-effect-036.md) — related
 - [Publication bias is present to a varying degree, with published studies reporting larger belief and student-behavior effects than unpublished studies](publication-bias-beliefs-student-behavior.md) — related
 - [No evidence of publication bias was found in the achievement goal–dishonesty literature](no-publication-bias-goal-dishonesty.md) — related
+- [Studies published before 1998 report much larger private-schooling civic effects than studies from 1998 onward, which the authors treat as evidence of publication bias limited to earlier studies.](pre-1998-studies-larger-private-schooling-civic-effects.md) — a narrower finding that bears on this claim

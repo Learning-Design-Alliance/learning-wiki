@@ -52,7 +52,9 @@ Onto-epistemic heterogeneity (OEH) proposes that ontology (who learners are, the
 - [Four contexts of knowing framework based on regulativeness and constitutiveness of knowledge and community](four-contexts-of-knowing-regulative-constitutive-framework.md)
 
 ## Examples
+
 - [Cultural & Life Experiences Connections](../principles/cultural-life-experiences-connections.md) — OEH gives a theoretical account of why treating learners' lived experience as an epistemic resource (not just a motivational hook) supports deeper, more critical understanding
+- [Three design heuristics for leveraging stimming pedagogically: offer stim affordances, legitimize stims as discursive resource, and leverage stims as epistemic actions](../strategies/stimming-design-heuristics.md)
 
 ## Key Sources
 - Higgs, J. M., Kaimana, M., & Isero, M. (2026). Leveraging Onto-Epistemic Heterogeneity for "Outward" Exploration: Cultivating Critical AI Awareness in the ELA Classroom. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2686084](https://doi.org/10.1080/10508406.2026.2686084)

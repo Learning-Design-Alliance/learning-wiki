@@ -47,3 +47,4 @@ The editorial restates the position attributed to Veenman et al. (2006) on domai
 - [Theoretical expectation: hybrid metacognitive skill training benefits content knowledge acquisition more in near than in far transfer because far transfer is more cognitively demanding](near-transfer-working-memory-advantage-hypothesis.md) — a narrower finding that bears on this claim
 - [Metacognitive skills initially develop in separate domains and later become generalized across domains, but the transfer processes remain unknown](metacognitive-skills-domain-development-trajectory.md) — a narrower finding that bears on this claim
 - Distinguishing metacognitive knowledge from skills, and metacognition from self-regulated learning, is an unresolved field-wide issue — related
+- [Very general skills may be biologically primary and therefore unteachable; claimed general-skills training should be tested with far transfer](general-skills-possibly-primary-unteachable.md) — related

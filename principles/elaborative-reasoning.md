@@ -36,7 +36,7 @@ sources:
 # Elaborative Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (21 for, 17 mixed, 4 against) · 34 studies (20 causal, 7 quant-synthesis, 3 review, 3 associational, 1 qualitative), `q2`–`q4` · 13 of 34 report an effect size · 37 claims rest on one study
+> **Evidence** · 42 claims (21 for, 17 mixed, 4 against) · 35 studies (20 causal, 7 quant-synthesis, 4 review, 3 associational, 1 qualitative), `q2`–`q4` · 13 of 35 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 

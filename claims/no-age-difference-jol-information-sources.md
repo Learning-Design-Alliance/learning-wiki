@@ -48,3 +48,4 @@ Multilevel modeling analysis of item relatedness and reported encoding-strategy 
 - [Delaying judgments of learning after study markedly reduces, but does not eliminate, the foresight bias](delayed-jols-reduce-foresight-bias.md) — related
 - [Drawing quality predicted JOLs to a similar extent in both drawing conditions, contrary to the expectation that scaffolds would strengthen this cue use](drawing-quality-predicts-jols-similarly-both-conditions.md) — related
 - [Training metacognitive self-regulation (self-testing plus selective restudy) produced greater paired-associate learning improvements in older adults than traditional encoding-strategy training when study was self-paced](metacognitive-selfregulation-training-beats-strategy-training.md) — related
+- [Monitoring judgments are positively associated with learning outcomes (β = 0.29)](monitoring-judgments-positively-related-to-learning-outcomes-masem.md) — related

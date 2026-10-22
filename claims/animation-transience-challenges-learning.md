@@ -47,3 +47,4 @@ Narrative review of animation research (citing Ayres and Paas 2007; Höffler and
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](animations-transience-working-memory-load.md) — possibly the same claim (merge candidate)
 - [The transient information effect states that learning from transient presentations leads to inferior learning compared to permanent presentations](transient-information-effect-definition.md) — a broader claim this one bears on
+- [Animations are superior to static graphics for learning tasks involving human motor movement](human-movement-effect-animations-motor-tasks.md) — related

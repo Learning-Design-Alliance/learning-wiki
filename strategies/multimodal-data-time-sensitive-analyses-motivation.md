@@ -51,6 +51,7 @@ The review recommends that future research and learning-technology design exploi
 - [Use automated mind-wandering detection in attention-aware learning technologies to trigger real-time interventions that promote SRL strategies](attention-aware-mw-detection-srl-interventions.md)
 - [Future team-learning change research should use mixed methods with more than three measurement points in short intervals](mixed-methods-many-measurement-points-team-learning.md)
 - [Supplement self-report questionnaires with process-oriented and online measures of motivation during learning](alternatives-to-self-reports-motivation-measurement.md)
+- [Model assets and threats to availability by blending inter-individual self-reports with process-oriented intraindividual online measures](blended-observational-intraindividual-availability-paradigm.md)
 
 ## Examples
 -

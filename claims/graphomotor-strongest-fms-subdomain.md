@@ -49,3 +49,4 @@ Post-hoc ANOVA comparisons within the multilevel meta-regression of FMS subdomai
 - [MASEM suggests cognitive skills partially mediate the link between FMS and academic skills, which drops from r = .334 to .200](cognitive-skills-mediate-fms-academic-link.md) — related
 - [Among motor subskills, general FiMS and graphomotor skills show the strongest links to overall academic-cognitive skills, and miscellaneous GMS and balance the strongest among GMS subskills](motor-subskill-differential-links.md) — related
 - [Finger gnosia is associated with arithmetic skills in some studies but not others, with age and cognitive profile moderating the relation](finger-gnosia-arithmetic-mixed-evidence.md) — related
+- [Children's baseline motor skills do not correlate with reading-related outcomes or with their use of movement when naming letter-sounds](motor-skills-no-correlation-reading-outcomes.md) — reports the opposite

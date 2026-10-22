@@ -47,3 +47,4 @@ The article states in its abstract that the two effects "share similar underlyin
 - [The transient information effect states that learning from transient presentations leads to inferior learning compared to permanent presentations](transient-information-effect-definition.md) — a narrower finding that bears on this claim
 - [Shifting information to external aids enhances task performance with greater gains under high cognitive load](offloading-enhances-performance-under-load.md) — related
 - [Element interactivity moderates the effectiveness of cognitive offloading, with greater benefit for high element interactivity materials](element-interactivity-moderates-offloading.md) — related
+- [Learning with more than two external representations in STEM has advantageous effects on students' cognitive load and performance compared to learning with two representations.](more-than-two-representations-benefit-load-and-performance.md) — related

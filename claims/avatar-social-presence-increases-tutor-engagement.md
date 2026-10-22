@@ -74,3 +74,4 @@ The paper cites Basori et al. (2011) for the claim that realistic avatars commun
 - [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — related
 - [Minimal human-like cues suffice to trigger automatic social reactions to embodied agents, though the role of visual social cues remains contested](minimal-social-cues-trigger-automatic-social-reactions.md) — related
 - [The authors argue instructor presence is unlikely to improve learning outcomes unless the instructor's visible behavior provides information learners can directly use for the task](instructor-presence-requires-usable-task-relevant-information.md) — related
+- [Social presence from social cues can improve task performance (social facilitation) but may impair performance on complex tasks (social inhibition)](social-facilitation-social-presence-performance.md) — related

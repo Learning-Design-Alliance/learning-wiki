@@ -13,7 +13,7 @@ generated:
 # Educational Readiness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (14 for, 6 mixed) · 21 studies (8 associational, 5 review, 2 causal, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 1 of 21 report an effect size · 19 claims rest on one study
+> **Evidence** · 20 claims (14 for, 6 mixed) · 22 studies (8 associational, 6 review, 2 causal, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 1 of 22 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 

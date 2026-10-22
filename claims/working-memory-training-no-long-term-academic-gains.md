@@ -48,3 +48,4 @@ The editorial reports, citing Redick et al. (2015), a review of evidence on work
 ## Related Claims
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
 - [Isolated EF interventions show robust near-term EF gains but poor transfer, including to early mathematics](isolated-ef-interventions-poor-transfer.md) — a narrower finding that bears on this claim
+- [Digitalised task training shows highly inconsistent evidence, appearing particularly suited to improving working memory](digitalised-task-training-inconsistent-wm.md) — a narrower finding that bears on this claim

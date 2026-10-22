@@ -49,3 +49,5 @@ Conceptual synthesis in the technical foundation section of the review, arguing 
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
 - [Students reported challenges with generated-model scale fidelity, shared attention in multi-user XR, motion comfort, and control over generation](genarch-challenges-scale-shared-attention-control.md) — related
+- [Immersion has a medium-sized effect on physical presence, with user tracking, stereoscopic visuals, and wider fields of view the most important features](immersion-medium-effect-physical-presence.md) — related
+- [Stereoscopic display of realistic visualizations may support spatial perception and transfer-oriented learning](stereoscopic-realism-transfer-potential.md) — related

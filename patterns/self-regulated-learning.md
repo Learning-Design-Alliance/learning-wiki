@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 71 claims (25 for, 42 mixed, 4 against) · 62 studies (22 causal, 12 review, 10 associational, 9 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 62 report an effect size · 64 claims rest on one study
+> **Evidence** · 72 claims (25 for, 43 mixed, 4 against) · 63 studies (22 causal, 12 review, 10 associational, 9 quant-synthesis, 8 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 63 report an effect size · 65 claims rest on one study
 
 ## Description and scope
 
@@ -137,6 +137,7 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 - [Process mining shows VM conditions exhibit unique reasoning–self-regulation sequences and self-loops absent in the control condition](../claims/process-mining-vm-sequences-selfloops.md) [~W]
 - [General pre-warnings mostly show null effects, but monitoring with susceptibility feedback reduces susceptibility](../claims/pre-warnings-null-effects-susceptibility-feedback-effective.md) [+W]
 - [Teachers' direct instructional support is associated with students' use of self-regulation strategies, while autonomy as indirect activation was negatively associated with reading performance](../claims/direct-support-strategy-use-autonomy-negative-reading.md) [+W]
+- [Contemporary SRL models largely omit the broader social context and implicitly assume all learners are available to learn](../claims/srl-models-assume-availability-omit-context.md) [~W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

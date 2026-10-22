@@ -55,3 +55,4 @@ The brief's synthesis of the science of learning and development states that pos
 - [An open classroom climate at school can partially compensate for the disadvantages of young people with low socioeconomic status](open-classroom-climate-compensates-low-ses.md) — a narrower finding that bears on this claim
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
 - [Students' success in school and beyond is inextricably linked to healthy social and emotional development](school-success-linked-social-emotional-development.md) — a broader claim this one bears on
+- [Microsystem conditions such as poverty and unmet basic needs undermine learners' availability to learn](microsystem-poverty-basic-needs-unavailability.md) — related

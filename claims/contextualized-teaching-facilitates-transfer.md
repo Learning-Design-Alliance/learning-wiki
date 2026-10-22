@@ -93,3 +93,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
 - [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](authentic-tasks-meaningful-l2-learning.md) — related
 - [Performance during the virtual pipetting lesson predicts real-life transfer test performance](in-lesson-performance-predicts-real-life-transfer.md) — a narrower finding that bears on this claim
+- [Through experience with real cases, causal knowledge transforms into narrative illness scripts](causal-knowledge-transforms-illness-scripts.md) — related

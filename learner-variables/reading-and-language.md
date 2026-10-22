@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 178 claims (114 show a difference, 25 mixed, 39 no difference) · 130 studies (34 causal, 29 quant-synthesis, 29 associational, 24 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 30 of 130 report an effect size · 169 claims rest on one study
+> **Evidence** · 179 claims (114 show a difference, 26 mixed, 39 no difference) · 131 studies (34 causal, 30 associational, 29 quant-synthesis, 24 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 30 of 131 report an effect size · 170 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -229,6 +229,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)](../claims/er-positive-effect-second-foreign-language.md) [+M] — instruction changes it
 - [Extensive reading shows small-to-medium significant positive effects on every measured language domain, including vocabulary, reading comprehension, and general proficiency](../claims/er-effects-across-language-domains.md) [+W] — instruction changes it
 - [Goal setting combined with performance feedback showed a positive effect on reading fluency](../claims/goal-setting-plus-performance-feedback-fluency.md) [+W] — instruction changes it
+- [An instructional focus on advanced reading abilities benefits poor comprehenders while good readers suffer under that focus](../claims/advanced-reading-focus-benefits-poor-comprehenders.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

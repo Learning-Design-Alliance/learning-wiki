@@ -68,3 +68,4 @@ Normalized verbal-code differences across P3 and P4 show that with a graph, part
 - [Frequent eye transitions between graph and problem statement were marginally associated with correct answers](graph-statement-transitions-performance.md) — related
 - [Graphs drew visual attention away from text: proportion of dwell time on input and problem statement was significantly shorter when a graph was present](graph-attention-away-from-statement.md) — related
 - [Eye fixation data corroborated verbal protocols on the primary representation used (disagreement on only one trial) and revealed additional representations consulted but never mentioned verbally](eye-data-uncovers-unmentioned-representations.md) — related
+- [Some studies found that presenting more than two representations negatively impacted learning and problem-solving, especially for students with low prior knowledge.](more-than-two-representations-negative-effects-low-prior-knowledge.md) — related

@@ -75,3 +75,4 @@ The article reports, citing Zhang et al. (2016), a team-composition study whose 
 - [Collaborating learners learn more effectively and efficiently than individual learners on cognitively challenging tasks, but group work becomes disadvantageous on cognitively unchallenging tasks](task-complexity-moderates-group-learning-advantage.md) — related
 - [Collaborative learning is beneficial or detrimental depending on individual and situational factors](collaborative-learning-conditionally-beneficial.md) — possibly the same claim (merge candidate)
 - [Expertise reversal effect: instructional aids effective for low-knowledge learners hinder high-knowledge learners across all three layers](expertise-reversal-effect-instructional-aids.md) — related
+- [Collaborative learning is more efficient than individual learning for high-load tasks, but less efficient for low-load tasks](collective-working-memory-effect-complexity-dependent.md) — related

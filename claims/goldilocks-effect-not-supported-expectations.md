@@ -52,3 +52,4 @@ Supplemental SEM (Model 4) testing quadratic effects of zero-mean-centered expec
 - [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — related
 - [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md) — related
 - [Effects of parent aspirations on student outcomes are predominantly small and mixed in direction](parent-aspirations-small-mixed-effects.md) — related
+- [Perceived task difficulty relates to metacognitive strategy use only linearly, with no significant quadratic component](task-difficulty-linear-metacognitive-strategies.md) — related

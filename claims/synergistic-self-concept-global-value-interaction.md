@@ -52,3 +52,4 @@ LMS latent interaction SEM (Model D1 vs. C1; ΔAIC = 211, ΔBIC = 227) in the sa
 - [Self-concept and value beliefs emerge as equally important predictors of teacher-rated behavioral engagement](self-concept-and-value-equal-predictors-teacher-engagement.md) — related
 - [Different value components differentially predict outcomes: low cost for achievement, attainment value for effort, and utility value uniquely predicting none](value-components-differential-prediction-outcomes.md) — related
 - [Math self-concept is more highly correlated with intrinsic value and low cost than with attainment and utility value](self-concept-value-component-correlations.md) — related
+- [Evidence on synergistic openness–interest effects on knowledge attainment is mixed, with supporting, compensating, and zero findings reported](ofci-openness-interest-synergy-mixed.md) — related

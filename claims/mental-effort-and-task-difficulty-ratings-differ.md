@@ -76,3 +76,4 @@ Dependent-samples comparison of correlations on the same 32 tasks: the mental-ef
 - [The scale showed convergent and incremental validity through medium-size correlations with established cognitive load measures](mel-ts-convergent-incremental-validity.md) — related
 - [Students invest more mental effort in paper-based questions than in equivalent computer-based questions](greater-mental-effort-paper-questions.md) — related
 - [Learning biologically primary words is perceived as less difficult and less effortful than learning biologically secondary words](primary-words-less-difficulty-effort.md) — related
+- [The four exam subjects differed in perceived task difficulty, cognitive load, and strategy use, with Mathematics and the profile subject rated more difficult than English](exam-subjects-differ-difficulty-load-strategies.md) — related

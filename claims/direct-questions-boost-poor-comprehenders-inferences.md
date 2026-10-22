@@ -52,3 +52,4 @@ Descriptive analysis of total inferences made across initial questions, prompts,
 - [Skilled comprehenders recall more literal story content than less skilled comprehenders, but the groups do not differ significantly in interpreting novel similes](literal-memory-difference-simile-null.md) — related
 - [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — related
 - [Low-skilled readers with strong background knowledge partially compensate for poor reading skill at the textbase level but not for inferencing](knowledge-compensates-textbase-not-inference.md) — related
+- [An instructional focus on advanced reading abilities benefits poor comprehenders while good readers suffer under that focus](advanced-reading-focus-benefits-poor-comprehenders.md) — related

@@ -132,3 +132,4 @@ Open questions: how large effects remain beyond the typical 1–2 year follow-up
 - [Brief social-belonging interventions improve academic outcomes and well-being, especially for students facing identity threat, but risk being used to fix students rather than structures](social-belonging-intervention-improves-outcomes-but-misuse-risk.md) — a narrower finding that bears on this claim
 - [Short belonging interventions in college settings can produce significant and lasting effects](brief-belonging-interventions-lasting-effects.md) — related
 - [Personality changes achieved through digital VPC interventions persist, remaining sustained or amplified at three-month and one-year follow-ups](vpc-change-persistence-follow-ups.md) — related
+- [SEL programs with explicit skill teaching and regular practice can promote preschool EF, possibly including inhibitory control](sel-programs-preschool-ef-efficacy.md) — a narrower finding that bears on this claim

@@ -54,3 +54,4 @@ The paper, a workshop-informed white paper and curriculum-oriented position arti
 - [Meta-analytic evidence reviewed reports medium-to-large positive effects of AI-enabled adaptive learning on cognitive outcomes (g = 0.50–0.70)](ai-adaptive-learning-medium-large-effects-reviewed.md) — related
 - [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](its-mature-implementation-personalized-learning.md) — related
 - [Intelligent tutoring systems with dynamic student modeling increase learning gains over regular instruction](its-dynamic-modeling-effective.md) — related
+- [ITS augmentation: meta-analyses find medium to large learning benefits of ITS over unsupported learning and small to medium gains over less adaptive computer-assisted learning](its-augmentation-benefits-over-unsupported-learning.md) — related

@@ -48,3 +48,4 @@ Moderator analysis within the random-effects meta-analysis of component–compre
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — related
 - [Phonological awareness and fluency show the largest effect-size relations with reading comprehension among Spanish-speaking children's essential reading components.](pa-fluency-largest-relations-comprehension-spanish.md) — related
 - Most studies of Spanish-speaking children's reading have focused on phonological awareness or alphabetic principle in relation to reading comprehension. — related
+- [Prior knowledge research is conducted mostly with adults (40.71%) and in postsecondary education (46.31%), based on available database records](prior-knowledge-research-adult-postsecondary-skew.md) — related

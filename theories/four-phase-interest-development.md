@@ -12,7 +12,7 @@ generated:
 # Four-Phase Model of Interest Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (5 for, 5 mixed, 1 against) · 14 studies (10 causal, 1 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q3` · 5 of 14 report an effect size · 10 claims rest on one study
+> **Evidence** · 13 claims (6 for, 6 mixed, 1 against) · 15 studies (10 causal, 2 theoretical, 1 quant-synthesis, 1 review, 1 associational), `q1`–`q3` · 5 of 15 report an effect size · 12 claims rest on one study
 
 ## Description
 Interest, distinct from effort, is a source of intrinsic motivation: when students learn from interest rather than pure effort, they devote more attention to the topic and tend to use more thoughtful learning strategies ([Hidi & Renninger, 2006](https://doi.org/10.1207/s15326985ep4102_4); Hidi, 2001). The distinction between interest and effort is often artificial in practice — the two commonly blend, as when a student works hard at a skill they also genuinely enjoy — but the useful instructional target is to draw on interest as much as possible so that required effort stays within a reasonable, sustainable range.
@@ -64,6 +64,8 @@ The model is widely cited but only partially validated: it has received limited 
 - [Invested mental effort and interest are only weakly and inconsistently positively correlated across measurement points, with some correlations non-significant](../claims/effort-interest-weak-inconsistent-positive-correlation.md) [~W]
 - [Curiosity is a special case of interest, with the two constructs overlapping in a part-whole rather than mutually exclusive relationship](../claims/curiosity-special-case-of-interest.md) [~W]
 - [Curiosity and situational interest differ on five dimensions: theoretical account, biology, triggers, affect, and information search](../claims/curiosity-situational-interest-five-dimensions.md) [~W]
+- [Situational and individual interest can be interpreted as phases of the same reward-learning knowledge-acquisition process](../claims/situational-individual-interest-reward-learning-phases.md) [+W]
+- [Trait-level constructs such as novelty seeking, need for cognition, and vocational interests can be modeled as generalized reward values of knowledge formed through reward-learning generalization](../claims/trait-curiosity-generalized-reward-value.md) [~W]
 
 ## Related Theories
 - [ARCS Model of Motivational Design](arcs-model.md) — Keller's Attention category operationalizes the triggering and maintaining of situational interest as design tactics

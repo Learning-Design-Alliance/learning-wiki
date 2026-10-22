@@ -52,3 +52,4 @@ Random-effects meta-regression with one moderator per research question was sign
 - [Effort-rating item wording changes what learners reflect on: requirement wording correlates negatively and engagement wording positively with judgments of learning](effort-item-wording-flips-correlation-direction.md) — related
 - [Effort ratings correlate negatively with judgments of learning (r = −0.355), but the correlation disappears under a goal-driven interpretation of effort](negative-effort-jol-correlation-meta-analysis.md) — related
 - [Mental effort and judgments of learning show a medium-sized negative correlation, moderated by regulation mode and task type](mental-effort-jol-negative-correlation-moderators.md) — a broader claim this one bears on
+- [Prior meta-analysis found a negative medium-sized effort–monitoring correlation (r = -0.35), attenuated under goal-driven manipulations](baars-2020-effort-monitoring-correlation-negative-medium.md) — related

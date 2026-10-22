@@ -69,3 +69,4 @@ Correlational study (Kohen-Raz & Masalha, 1988) showing suppression of synkineti
 - [Finger use is related to arithmetic performance in children, but the strength of this relation decreases significantly over development](finger-use-arithmetic-relation-decreases-over-time.md) — related
 - [Gesturing during learning improves retention and reduces cognitive load](gesturing-during-learning-retention-load.md) — related
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
+- [Gesturing while explaining problem solving reduces cognitive load](gesturing-reduces-cognitive-load.md) — related

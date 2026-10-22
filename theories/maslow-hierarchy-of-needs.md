@@ -12,7 +12,7 @@ generated:
 # Maslow's Hierarchy of Needs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Abraham Maslow proposed that human motivation is organized into a hierarchy of five need levels, in ascending order of "prepotency": **physiological** needs (food, water, sleep — "the most pre-potent of all needs"), **safety** (structure, order, security, freedom from danger and chaos), **love/belonging** (friends, family, group identification, intimate relationship), **esteem** (both strength/achievement/confidence and earned respect/recognition from others — Maslow is explicit that esteem "must come from earned respect and not from fame or social status"), and **self-actualization** (growth and self-improvement, which Maslow described as rare). Maslow also discussed a **desire to know and understand** as a separate cognitive drive, prepotent in itself (the desire to know precedes the desire to understand), but he treated it as distinct from, not a sixth member of, the core five-level hierarchy.
@@ -41,6 +41,7 @@ A tired and hungry student will find it difficult to focus on learning — physi
 ## Claims
 
 - [Students at the Melbourne Islamic schools describe the school as a safe haven whose religious security supports their learning](../claims/islamic-school-safe-haven-supports-learning.md) [+W]
+- [Microsystem conditions such as poverty and unmet basic needs undermine learners' availability to learn](../claims/microsystem-poverty-basic-needs-unavailability.md) [+W]
 
 ## Related Theories
 

@@ -70,3 +70,5 @@ Visual realism moderator rows from Table 3 of the media-comparison meta-regressi
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — a broader claim this one bears on
 - [Digital game-based ICT was associated with significantly smaller effects on writing quality, but the finding rests on a single study](digital-games-smaller-writing-effects-single-study.md) — related
 - [Realistic visual detail can raise retention despite higher extraneous load ratings (the realism paradox), with benefits tied to test objectives](realism-paradox-detail-retention-load.md) — related
+- [Learners' spatial ability moderates whether realistic visualizations help or hinder learning](spatial-ability-moderates-realism-effects.md) — related
+- [Test type determines realism benefits: realistic detail aids retention as retrieval cues, schematic visuals aid transfer](test-type-moderates-realism-benefits.md) — related

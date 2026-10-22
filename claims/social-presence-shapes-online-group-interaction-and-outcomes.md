@@ -47,3 +47,4 @@ The review's framing statement, citing Tu and McIsaac (2002) and Zhao et al. (20
 - [A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes](emotional-engagement-social-presence-ai-collaborative-learning.md) — related
 - [Learner engagement is positively associated with perceived learner performance in agentic AI-supported online learning](engagement-positive-perceived-performance-agentic-ai.md) — related
 - [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](affordances-positive-social-presence-agentic-ai.md) — related
+- [CASTLE's interaction hypothesis states that social processes influence and are influenced by motivational, emotional, and metacognitive processes](social-processes-interact-with-motivational-emotional-metacognitive.md) — related

@@ -55,3 +55,4 @@ Correlational analysis in the full sample (N = 288) found SR–OB correlations "
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
 - [Institutional initiatives, demographics, teaching practices, and information sources show weak or null associations with AI pedagogical orientation and use](institutional-and-information-variables-weakly-related-to-ai-use.md) — related
 - [Perceived usefulness of ChatGPT, an invalid cue, is associated with overestimation of performance](perceived-usefulness-invalid-metacognitive-cue.md) — a narrower finding that bears on this claim
+- [Recent AI-in-education studies often rely on subjective or performance-during-support measures and weak comparison designs, limiting claims about learning effects](ai-studies-measurement-design-limitations.md) — a narrower finding that bears on this claim

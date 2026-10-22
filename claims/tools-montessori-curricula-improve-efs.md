@@ -68,3 +68,4 @@ The review reports a lottery-based comparison of children entering an AMI-approv
 - [Implementation fidelity matters: classrooms using only Montessori materials produced greater gains than classrooms mixing in other materials](montessori-fidelity-materials-only-gains.md) — related
 - [Children admitted by random lottery to high-fidelity Montessori schools performed better or the same as waitlisted controls on academic, executive function, and social measures, never worse](montessori-lottery-studies-better-or-same-outcomes.md) — related
 - [Isolated EF interventions show robust near-term EF gains but poor transfer, including to early mathematics](isolated-ef-interventions-poor-transfer.md) — related
+- [Mindfulness interventions show comparatively robust efficacy for preschool SR/EF, especially for outcomes requiring integrated mobilisation of EFs and SR](mindfulness-preschool-sr-ef-efficacy.md) — related

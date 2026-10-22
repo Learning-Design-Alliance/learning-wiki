@@ -73,3 +73,4 @@ The editorial summarizes reported student descriptions in the Silseth et al. stu
 - [Students attended to bodily expressions of people in the VR film as resources for interpreting emotional states and engaging with their stories](attending-to-bodily-expressions-in-vr.md) — a narrower finding that bears on this claim
 - [Teachers adopted varying levels and strategies of guidance during reflective dialogues about VR experiences, which shaped students' meaning making](teacher-guidance-varied-in-vr-reflections.md) — a narrower finding that bears on this claim
 - [Personal, out-of-school experiences serve as real resources for sense making in classroom discussion](personal-experiences-as-classroom-learning-resources.md) — related
+- [Collaborative learning in immersive VR produced significantly higher use of cognitive resources than individual learning in a geography study](collaborative-vr-higher-cognitive-resources.md) — related

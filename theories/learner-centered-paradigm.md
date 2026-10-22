@@ -13,7 +13,7 @@ generated:
 # Learner-Centered Paradigm of Education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 18 claims (12 for, 5 mixed, 1 against) · 16 studies (6 causal, 5 quant-synthesis, 2 theoretical, 1 review, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 16 report an effect size · 16 claims rest on one study
+> **Evidence** · 19 claims (12 for, 6 mixed, 1 against) · 17 studies (6 causal, 5 quant-synthesis, 2 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 5 of 17 report an effect size · 17 claims rest on one study
 
 ## Description
 Watson and Reigeluth (2008) argue that most school systems are still organized on an Industrial-Age, sorting-based model: time is held constant (a fixed school year, fixed pace), so achievement is forced to vary — some students master the material, others fall behind and accumulate deficits, and the system's implicit function is to sort students into different tracks rather than ensure everyone reaches mastery. The learner-centered paradigm proposes inverting this: hold **attainment** constant (every learner reaches mastery of each standard) and let **time/pace** vary to fit the individual, alongside person-based (rather than group-based) progression, resource-based (rather than purely teacher-based) instruction, and criterion-based (rather than norm-based) assessment.
@@ -65,6 +65,7 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 - [Personalized learning effects tended to be larger in elementary grades and were not statistically significant in high school grades](../claims/pl-effects-larger-elementary-nonsignificant-high-school.md) [~W]
 - [Achievement effects accumulated over a third year in schools implementing personalized learning since 2012 or earlier, though not purely additively](../claims/pl-effects-accumulate-third-year.md) [+W]
 - [Motivation theories in education have converged on a learner-centered focus over recent decades](../claims/motivation-theories-converged-learner-centered.md) [+W]
+- [The personalization effect improves learning, moderated by prior knowledge, content type, pacing, culture, and language](../claims/personalization-effect-social-cues.md) [~W]
 
 ## The evidence by question
 

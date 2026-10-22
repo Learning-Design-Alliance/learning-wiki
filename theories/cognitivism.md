@@ -12,7 +12,7 @@ generated:
 # Cognitivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 review, 1 associational, 1 design), `q1`–`q2` · 1 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 5 studies (2 review, 1 associational, 1 design, 1 theoretical), `q1`–`q2` · 1 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 Cognitivism emerged in the late 1950s as a reaction against behaviorism's refusal to look inside the "black box" of the mind. Rather than treating learning as a change in observable stimulus-response associations, cognitivists treat it as a change in internal mental structures — the way information is received, organized, stored, and retrieved. Learning is equated with discrete changes between states of knowledge, not with changes in the probability of a response, and the learner is viewed as an active participant who attends to, codes, transforms, rehearses, and stores information rather than merely reacting to it ([Ertmer & Newby, 2013](https://doi.org/10.1002/piq.21143)).
@@ -50,6 +50,8 @@ Cognitivism is the broader theoretical paradigm; [Information Processing Theory]
 - [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](../claims/generative-learning-reorganizing-integrating-prior-knowledge.md) [+W] — attached 2026-10-13 from Fiorella et al. (2016), which proposed "Generative learning theory grounded in Wittrock's generative model of comprehension and reflected in Mayer's select-organize-integrate (SOI) framework".
 - [Less skilled comprehenders' inference failures stem more from incorrect premise recall, whereas skilled comprehenders fail more at integrating recalled information](../claims/different-sources-inference-failure-groups.md) [+W] — attached 2026-10-17 from Kate Cain et al. (2001), which proposed "Mental models account of children's text comprehension difficulties: poor comprehenders construct incomplete, poorly integrated representations of text".
 - [Perceptual attention is probably necessary but not sufficient for encoding stimuli into working memory](../claims/perceptual-attention-necessary-not-sufficient-wm-encoding.md) [+W]
+- [CASTLE's cognitive influence hypothesis states that (para-)social processes influence selection, organization, integration, and retrieval of information](../claims/parasocial-processes-influence-cognitive-processing.md) [+W] — attached 2026-10-22 from Sascha Schneider et al. (2021), which proposed "CASTLE: social processes triggered by social cues mediate cognitive processing in individual digital learning".
+- [Strength and speed of social schema activation depend on the number and strength of social cues, schema development, and material modality, dynamics, and interactivity](../claims/schema-activation-strength-cue-number-schema-development.md) [~W] — attached 2026-10-22 from Sascha Schneider et al. (2021), which proposed "CASTLE: social processes triggered by social cues mediate cognitive processing in individual digital learning".
 
 ## Related Theories
 

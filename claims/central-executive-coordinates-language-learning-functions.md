@@ -56,3 +56,4 @@ Narrative review statement attributed to Baddeley (1996) and Morris & Gruneberg 
 - [Phonological short-term memory capacity selectively predicts new vocabulary learning](phonological-memory-predicts-vocabulary-learning.md) — a narrower finding that bears on this claim
 - [The phonological loop plays a significant role in vocabulary acquisition and second language learning](phonological-loop-vocabulary-acquisition-l2.md) — related
 - [Phonological processing is affected by and affects language control in switching, though effects are not uniform across studies](phonology-role-in-language-control.md) — related
+- [Visuospatial processing plays a pivotal role for learning](visuospatial-processing-pivotal-for-learning.md) — related

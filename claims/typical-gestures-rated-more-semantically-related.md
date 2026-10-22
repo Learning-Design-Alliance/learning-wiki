@@ -45,3 +45,4 @@ The abstract reports the second study's rating result: participants rated typica
 ## Related Claims
 - [Observing typical gestures significantly benefits narrative comprehension compared with atypical or no gestures, which do not differ significantly](typical-gestures-benefit-narrative-comprehension.md) — related
 - [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — related
+- [Culturally familiar emblematic gestures improve L2 speech perception and social evaluations, whereas unfamiliar emblems reduce them](culturally-familiar-emblems-aid-l2-perception.md) — related

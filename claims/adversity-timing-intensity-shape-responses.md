@@ -60,3 +60,4 @@ Narrative review synthesis of studies on adversity intensity. The review reports
 - [Threat-related psychopathology associations appear more consistently mediated by stress response systems than deprivation-related ones](threat-mediated-stress-response-deprivation-less-so.md) — related
 - [Cumulative stress predicts adult outcomes beyond specific stressor types in longitudinal studies](cumulative-adversity-predicts-adult-depression-cortisol.md) — related
 - [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](poverty-cortisol-executive-function-mediation.md) — related
+- [Each additional period of exposure to social and economic adversity accumulates to produce greater effects on educational and cognitive outcomes, though effects may plateau at a threshold](accumulation-of-exposure-periods-increases-effect.md) — related

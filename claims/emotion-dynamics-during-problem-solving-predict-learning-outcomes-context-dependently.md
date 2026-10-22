@@ -71,3 +71,4 @@ The paper's most important methodological caution is built into its own framing:
 - [Manipulation check: instructional condition significantly affected errors made during training, with exploratory learning producing more errors](manipulation-check-exploratory-more-errors.md) — related
 - [Reflection on a prediction failure shifted students' isomorphism awareness from structural recognition to boundary awareness](prediction-failure-reflection-builds-boundary-awareness.md) — related
 - [Backward curiosity may be an optimal starting point for promoting student learning](backward-curiosity-promotes-learning.md) — related
+- [Among human-cell studies, only 5 of 14 found the expected positive effect of high emotional design on retention and 5 on transfer; only 5 of 9 studies measuring emotions found the expected effect on positive emotions](emotional-design-inconsistent-learning-effects.md) — related

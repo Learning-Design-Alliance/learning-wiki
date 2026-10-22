@@ -150,3 +150,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Physics studies show no clear-cut advantage for concreteness fading, with some results favoring concrete-only or reversed (concreteness introduction) sequences](physics-concreteness-fading-no-clear-advantage.md) — a narrower finding that bears on this claim
 - [Concrete models eventually break; teachers devise patches that may obscure underlying concepts, and learner reasoning at breaking points is unknown](manipulative-model-breaks-teacher-patches-obscure-concepts.md) — related
 - [Fading of instructional support in collaborative argumentation has produced mixed results, with effectiveness depending on the fading criterion used](fading-collaborative-argumentation-mixed-results.md) — related
+- [Realism effects on learning depend on knowledge type: advantages for surface learning, disadvantages for abstract content](knowledge-type-moderates-realism-effects.md) — related

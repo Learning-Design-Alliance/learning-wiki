@@ -46,3 +46,4 @@ Longitudinal SEM with school-average achievement and SES aggregates in the ELS:2
 - [Expectations and aspirations partly mediate the adverse impacts of school-average achievement on GPA and age-26 outcomes](expectations-mediate-school-composition-effects.md) — related
 - [The Big-Fish-Little-Pond effect on mathematics self-concept is negative and statistically significant in all three countries under a fully specified doubly latent model](bflpe-negative-significant-all-countries.md) — related
 - [Class-average achievement negatively predicts mathematics self-concept after controlling individual achievement (BFLPE replication in TIMSS 2019)](bflpe-replication-timss-2019-contextual-mean-effect.md) — related
+- [School-average achievement negatively predicts academic self-concept (BFLPE) and GPA in the comprehensive doubly-latent model](school-average-achievement-negative-compositional-effect-asc-gpa.md) — related

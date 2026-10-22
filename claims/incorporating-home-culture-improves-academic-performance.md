@@ -66,3 +66,4 @@ The only source recorded here states this effect as a conclusion and supports it
 - [A teacher whose home culture was excluded from school brought her home culture into her teaching so students could express and maintain their identities](teacher-brings-home-culture-into-teaching.md) — related
 - [Research suggests that using culturally responsive and sustaining education practices in mathematics can enhance learning and academic success](crse-math-enhances-learning-and-success.md) — possibly the same claim (merge candidate)
 - [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — related
+- [The personalization effect improves learning, moderated by prior knowledge, content type, pacing, culture, and language](personalization-effect-social-cues.md) — related

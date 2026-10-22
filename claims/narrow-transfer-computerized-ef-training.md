@@ -54,3 +54,4 @@ Narrative review synthesis of computer-based training studies; the review report
 - [Task-switching training improves untrained switching and other executive functions in school-aged children, though transfer findings are heterogeneous](task-switching-training-transfer-ef.md) — related
 - [Metacognitive scaffolding added to computer-based executive attention training produces larger intelligence gains in preschoolers than regular training or an untrained active control](metacognitive-scaffolding-larger-intelligence-gains-preschoolers.md) — a narrower finding that bears on this claim
 - [Isolated EF interventions show robust near-term EF gains but poor transfer, including to early mathematics](isolated-ef-interventions-poor-transfer.md) — a narrower finding that bears on this claim
+- [Digitalised task training shows highly inconsistent evidence, appearing particularly suited to improving working memory](digitalised-task-training-inconsistent-wm.md) — related

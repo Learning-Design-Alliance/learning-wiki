@@ -51,3 +51,4 @@ Moderator analysis within the random-effects meta-analysis of animated vs. stati
 - [Prior research failed to find clear evidence that animated graphics improve comprehension over static graphics](animation-research-lacks-clear-evidence-over-static.md) — reports the opposite
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [Dynamic visualizations show a small average benefit over static visualizations, with gender among the moderators](dynamic-vs-static-visualization-meta-analysis-small-benefit.md) — related
+- [Animations are superior to static graphics for learning tasks involving human motor movement](human-movement-effect-animations-motor-tasks.md) — related

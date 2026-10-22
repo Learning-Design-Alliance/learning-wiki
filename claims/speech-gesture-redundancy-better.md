@@ -53,3 +53,4 @@ Review reports Buisine and Martin's (2007) comparison of two modes of speech-ges
 - [Observing gestures aids recall more when gestures provide complementary rather than redundant information (review attributes this to Austin et al., 2018)](nonredundant-observed-gestures-aid-recall.md) — reports the opposite
 - [Observing gestures embedded in instruction aids learning, especially when gestures convey a different strategy than speech](observing-gestures-in-instruction-aids-learning.md) — reports the opposite
 - [Typical gestures are rated as more semantically related to accompanying speech than atypical gestures](typical-gestures-rated-more-semantically-related.md) — related
+- [Culturally familiar emblematic gestures improve L2 speech perception and social evaluations, whereas unfamiliar emblems reduce them](culturally-familiar-emblems-aid-l2-perception.md) — related

@@ -157,3 +157,4 @@ Signaling is one of the most consistently supported principles in multimedia lea
 - [Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video](signaling-improves-retention-transfer-video.md) — a narrower finding that bears on this claim
 - [Signaling principle: highlighting essential words improves transfer from multimedia lessons](signaling-principle-mayer-2008.md) — a narrower finding that bears on this claim
 - [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](coherence-principle-extraneous-material-effect.md) — related
+- [Anthropomorphic and colour features can capture and guide attention, overlapping with the signaling principle](emotional-design-attention-guidance-signaling-overlap.md) — a narrower finding that bears on this claim

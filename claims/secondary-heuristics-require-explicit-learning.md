@@ -50,3 +50,4 @@ Theoretical argument in the section on explicit learning of heuristics: the arti
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — a broader claim this one bears on
 - [Youth engaged free-choice learning heuristics in everyday problem-solving but typically skipped the assess phase](youth-skip-assess-phase-free-choice-heuristics.md) — related
 - [Explicit CT instruction combined with practice improves students' unbiased reasoning on instructed and practiced heuristics-and-biases items from pretest to immediate posttest](ct-instruction-practice-improves-unbiased-reasoning.md) — a narrower finding that bears on this claim
+- [Very general skills may be biologically primary and therefore unteachable; claimed general-skills training should be tested with far transfer](general-skills-possibly-primary-unteachable.md) — reports the opposite

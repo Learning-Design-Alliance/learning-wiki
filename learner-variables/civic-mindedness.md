@@ -13,7 +13,7 @@ generated:
 # Civic Mindedness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 29 claims (21 show a difference, 3 mixed, 5 no difference) · 14 studies (6 associational, 3 causal, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 14 report an effect size · 27 claims rest on one study
+> **Evidence** · 34 claims (23 show a difference, 5 mixed, 6 no difference) · 15 studies (6 associational, 3 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 15 report an effect size · 32 claims rest on one study
 
 ## Description
 Civic mindedness is a learner's orientation toward their community: seeing themselves as someone who can contribute, being informed about and attentive to the needs and goals of others (including needs that differ from their own), and joining with others to pursue shared aims. It includes thinking critically about civic content and social movements and about the democratic systems that govern communities, including the inequities those systems can produce and how they might be addressed. Prosocial behaviour, acting with others in mind, is described as one of its foundations. It is measured with sets of civic-outcome instruments for elementary classrooms (knowledge, thinking, dispositions and participation) and with critical-consciousness scales for older adolescents and adults.
@@ -70,6 +70,11 @@ It is related to [social awareness and relationship skills](social-awareness-and
 - [Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation](../claims/experiencing-civic-community-fosters-commitment.md) [+M] — instruction changes it
 - [There is a 98 percent probability that enrolling in Democracy Prep produced positive impacts on both voter registration and voting](../claims/democracy-prep-98-percent-probability-positive-civic-impacts.md) [+M] — instruction changes it
 - [Traditional student participation mechanisms in Spain have been shown to be inefficient for promoting civic commitment](../claims/traditional-student-participation-inefficient-spain.md) [-M] — instruction changes it
+- [Private schooling accessed through a choice program shows no significant civic association, while self-selected private attendance does.](../claims/choice-program-versus-self-selected-private-attendance.md) [~M] — instruction changes it
+- [Private schooling is associated with a small positive average advantage in civic outcomes over public schooling (0.055 SD).](../claims/private-schooling-small-positive-civic-outcome-advantage.md) [+M] — instruction changes it
+- [Private schooling is associated with higher political tolerance (0.120 SD) and higher civic knowledge and skills (0.121 SD).](../claims/private-schooling-tolerance-and-civic-knowledge-advantage.md) [+M] — instruction changes it
+- [Private schooling shows no statistically significant association with political participation in the four-category analysis.](../claims/private-schooling-political-participation-null.md) [-M] — instruction changes it
+- [Religious private schooling is more strongly associated with positive civic outcomes than secular private schooling, which shows no significant association.](../claims/religious-private-schooling-stronger-civic-association.md) [~M] — instruction changes it
 
 ## Measures
 - **Civic Outcomes for Elementary School** (Chi et al., 2006): instruments for civic knowledge, thinking, dispositions and participation in elementary classrooms.

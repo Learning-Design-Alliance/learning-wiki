@@ -50,3 +50,5 @@ Re-analysis of SIMS80 longitudinal data (13,656 students in the USA, Canada, New
 - [Class-average achievement shows a small negative indirect effect on subsequent mathematics achievement mediated through mathematics self-concept](bflpe-negative-mediation-achievement.md) — related
 - [Contextual-mean effects show little moderation by individual achievement; apparent positive moderation is illusory when the quadratic term is omitted](bflpe-moderation-by-achievement-small-and-illusory.md) — related
 - [Adding a quadratic achievement term leaves the negative contextual-mean effect essentially unchanged](curvature-adjustment-does-not-eliminate-bflpe.md) — related
+- [Positive school-average achievement effects on subsequent achievement can be phantom effects that disappear under doubly-latent modeling with covariates](phantom-effects-school-average-achievement.md) — possibly the same claim (merge candidate)
+- [School-average achievement negatively predicts academic self-concept (BFLPE) and GPA in the comprehensive doubly-latent model](school-average-achievement-negative-compositional-effect-asc-gpa.md) — related

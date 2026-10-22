@@ -67,3 +67,4 @@ Exploratory Welch tests comparing reported global fit indices by dimensionality 
 - [A confirmatory factor analysis supports a four-factor structure of collaborative group engagement (behavioural, social, cognitive, conceptual-to-consequential) for the QCGE self-assessment scale](qcge-sas-four-factor-structure-cfa-supported.md) — related
 - [Most adolescent motivation studies measure teacher–student relationships unidimensionally rather than multidimensionally](tsr-measured-unidimensionally-in-motivation-research.md) — related
 - [A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity](cfa-confirms-three-factor-cognitive-load-structure.md) — related
+- [The ANCOVA and CHANGE models can be transformed into one another, so empirical model fit is no criterion for choosing between them](model-fit-no-criterion-ancova-change-selection.md) — related

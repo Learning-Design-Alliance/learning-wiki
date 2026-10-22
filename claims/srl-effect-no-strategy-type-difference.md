@@ -64,3 +64,4 @@ Categorical moderator analysis under the random effects model comparing subgroup
 - [Most direct SRL promotion targeted cognitive capabilities and rarely mentioned the benefit of strategy use](cognitive-capability-dominance-benefit-rarely-mentioned.md) — related
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
 - [Cooperative learning arrangements predict larger SRL training effects for cognitive and metacognitive strategies](cooperative-learning-moderates-srl-training-effects.md) — related
+- [Corno and Mandinach's foundational framework identifies three nonideal learner engagement types alongside the self-regulated ideal](corno-mandinach-nonideal-learner-types.md) — related

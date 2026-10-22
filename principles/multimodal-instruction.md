@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (14 for, 16 mixed, 4 against) · 38 studies (18 causal, 10 review, 6 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 9 of 38 report an effect size · 28 claims rest on one study
+> **Evidence** · 39 claims (17 for, 18 mixed, 4 against) · 41 studies (19 causal, 10 review, 7 quant-synthesis, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 10 of 41 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,6 +127,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Audio-visual lecture clips produce better comprehension than audio-only clips, and the multimedia advantage holds at accelerated speed](../claims/audio-visual-outperforms-audio-only-at-speed.md) [+W] — attached 2026-10-22 from Ashley Chen et al. (2024), which proposed "Advise learners not to exceed 2x playback speed, and pair accelerated narration with visual content to protect comprehension"; tests this page's relationship.
 - [Observing typical gestures significantly benefits narrative comprehension compared with atypical or no gestures, which do not differ significantly](../claims/typical-gestures-benefit-narrative-comprehension.md) [+W] — attached 2026-10-22 from Dargue et al. (2020), which proposed "Educators should use typical, frequently produced iconic gestures that are adequately semantically related to speech to enhance student understanding"; tests this page's relationship.
 - [Gesture effects on narrative comprehension are not moderated by total task difficulty or age when measured through free recall and specific questions](../claims/gesture-comprehension-not-moderated-by-difficulty-or-age.md) [~W] — attached 2026-10-22 from Dargue et al. (2020), which proposed "Educators should use typical, frequently produced iconic gestures that are adequately semantically related to speech to enhance student understanding".
+- [Gesture-enriched L2 vocabulary learning benefits 14-year-olds more than picture enrichment, while 12-year-olds benefit equivalently from both](../claims/gesture-beats-picture-enrichment-only-for-14-year-olds.md) [+W] — attached 2026-10-22 from Brian Mathias et al. (2022), which proposed "Integrate gestures rather than pictures into L2 vocabulary pedagogy starting at 14 years of age"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -159,6 +160,10 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - [Gesture instructions hindered specific recall for participants with lower propensity to gesture (Study 2)](../claims/gesture-instruction-hinders-low-propensity-gesturers.md) [~W]
 - [Instructing adults to gesture while reading narratives aloud hindered free recall relative to spontaneous gesturing (Study 1)](../claims/instructed-gesture-hinders-narrative-free-recall.md) [-W]
 - [Typical gestures are rated as more semantically related to accompanying speech than atypical gestures](../claims/typical-gestures-rated-more-semantically-related.md) [+W]
+- [Picture and gesture enrichment benefit children's learning of both concrete and abstract L2 words](../claims/enrichment-benefits-abstract-and-concrete-words.md) [+W]
+- [Learning with more than two external representations shows no notable differences in learning time compared to learning with two representations.](../claims/more-than-two-representations-no-learning-time-difference.md) [~W]
+- [Gesture–speech incongruency disrupts multimodal processing, increasing response times and error rates](../claims/gesture-speech-incongruency-disrupts-processing.md) [~W]
+- [Emotionally expressive gestures are associated with better retention than neutral gestures, and gesture and facial expression effects are complementary](../claims/expressive-gestures-better-retention-than-neutral.md) [+W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.

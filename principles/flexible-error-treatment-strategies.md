@@ -31,7 +31,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (15 for, 17 mixed, 1 against) · 25 studies (10 causal, 7 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q3` · 4 of 25 report an effect size · 29 claims rest on one study
+> **Evidence** · 34 claims (15 for, 18 mixed, 1 against) · 26 studies (10 causal, 8 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q3` · 4 of 26 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,10 @@ For example, an adult preparing for job interviews in English may value being un
 The expectation should weaken if studies that assign correction by objective, proficiency or anxiety find no advantage over a single sensible policy (for example, prompts for everyone), or find that the advantage at the immediate test is gone at a delay, as the gap between metalinguistic feedback and recasts was. If correction during meaning-focused activities turns out not to reduce learners' talk, the case for deferring local errors rests on the global/local argument alone. If the classroom advantage of prompts over recasts holds for low-proficiency learners too, the competence row should drop its "give the form" branch. Do not protect the model by calling every failure a mismatch of treatment to learner after the fact.
 
 Accuracy on the treated form straight after correction, accuracy at a delay, accuracy in unprompted use, and the learner's willingness to keep speaking are separate claims. The present evidence establishes no rule for which form suits which learner, no correction-slot length, and no criterion for when an error is "fossilized".
+
+## Claims
+
+- [The politeness effect: learners learn better with polite instructions or feedback than with direct language forms](../claims/politeness-effect-polite-instructions-feedback.md) [~W]
 
 ## Related Principles
 

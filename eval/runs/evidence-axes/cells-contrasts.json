@@ -38902,5 +38902,173 @@
  "worked-examples\tworked examples with repeated items\tretrieval practice with repeated items": {
   "label": "worked examples vs retrieval practice",
   "treatment_is_a": true
+ },
+ "active-learning\tcollaborative learning\tindividual learning": {
+  "label": "collaborative learning vs individual learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative learning in immersive VR\tindividual learning in immersive VR": {
+  "label": "collaborative learning vs individual learning",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy support and structure\tchaos": {
+  "label": "autonomy support and structure vs chaos",
+  "treatment_is_a": true
+ },
+ "media-design\tadvanced emotional design with endogenous visual characteristics\tsimple multimedia format": {
+  "label": "advanced emotional design vs simple multimedia format",
+  "treatment_is_a": true
+ },
+ "media-design\tanthropomorphic emotional-design condition\tother pictorial items in the same condition": {
+  "label": "anthropomorphic pictorial materials vs non-anthropomorphic pictorial materials",
+  "treatment_is_a": true
+ },
+ "media-design\tbasic emotional design\tsimple multimedia format": {
+  "label": "basic emotional design vs simple multimedia format",
+  "treatment_is_a": true
+ },
+ "media-design\tdigital learning materials with social cues\tdigital learning materials without social cues": {
+  "label": "social cues included vs social cues absent",
+  "treatment_is_a": true
+ },
+ "media-design\tdynamic representation\tstatic representation": {
+  "label": "dynamic representation vs static representation",
+  "treatment_is_a": true
+ },
+ "media-design\temotional design\tneutral or non-emotional design": {
+  "label": "emotional design vs neutral or non-emotional design",
+  "treatment_is_a": true
+ },
+ "media-design\tgesture-enriched learning\tnon-enriched auditory-only learning": {
+  "label": "gesture-enriched learning vs auditory-only learning",
+  "treatment_is_a": true
+ },
+ "media-design\thigh emotional design\tlower emotional design": {
+  "label": "more emotional design vs less emotional design",
+  "treatment_is_a": true
+ },
+ "media-design\tlengthy, complex spoken text\twritten text": {
+  "label": "spoken text vs written text",
+  "treatment_is_a": true
+ },
+ "media-design\tmore detailed material\tless detailed material": {
+  "label": "more detailed material vs less detailed material",
+  "treatment_is_a": true
+ },
+ "media-design\tmore detailed or realistic visualizations\tsimplified or less detailed visualizations": {
+  "label": "detailed or realistic visualizations vs simplified or less detailed visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\tmore sophisticated emotional-design features\tless elaborately designed emotional-design features": {
+  "label": "more elaborate emotional design vs less elaborate emotional design",
+  "treatment_is_a": true
+ },
+ "media-design\tmore sophisticated emotional-design visuals\tless sophisticated emotional-design visuals": {
+  "label": "more sophisticated emotional-design visuals vs less sophisticated emotional-design visuals",
+  "treatment_is_a": true
+ },
+ "media-design\tmore than two external representations\ttwo representations": {
+  "label": "more than two external representations vs two representations",
+  "treatment_is_a": true
+ },
+ "media-design\tpersonalized learning materials\tnonpersonalized learning materials": {
+  "label": "personalized learning materials vs nonpersonalized learning materials",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorial materials implementing anthropomorphism\tmaterials without anthropomorphism": {
+  "label": "anthropomorphic pictorial materials vs non-anthropomorphic pictorial materials",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorial representations with anthropomorphic elements\tpictorial representations without anthropomorphic elements": {
+  "label": "anthropomorphic pictorial representations vs non-anthropomorphic pictorial representations",
+  "treatment_is_a": true
+ },
+ "media-design\tpicture-enriched learning\tnon-enriched auditory-only learning": {
+  "label": "picture-enriched learning vs auditory-only learning",
+  "treatment_is_a": true
+ },
+ "media-design\tpicture-enriched vocabulary learning\tnon-enriched auditory-only learning": {
+  "label": "picture-enriched vocabulary learning vs auditory-only learning",
+  "treatment_is_a": true
+ },
+ "media-design\tpositive emotional design\tneutral or negative design": {
+  "label": "positive emotional design vs neutral or negative design",
+  "treatment_is_a": true
+ },
+ "media-design\tpositive emotional design in pictorial multimedia\tneutral or negative design": {
+  "label": "positive emotional design vs neutral or negative design",
+  "treatment_is_a": true
+ },
+ "media-design\tpositive or high emotional design\tneutral or negative design": {
+  "label": "positive or high emotional design vs neutral or negative design",
+  "treatment_is_a": true
+ },
+ "media-design\tpositively emotional images\tnegative images": {
+  "label": "positive emotional images vs negative emotional images",
+  "treatment_is_a": true
+ },
+ "media-design\trealistic details\tless realistic visualizations": {
+  "label": "realistic visualizations vs less realistic visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\trealistic landmarks plus simplified blocks\trealistic textured street": {
+  "label": "realistic landmarks with simplified blocks vs realistic textured street",
+  "treatment_is_a": true
+ },
+ "media-design\trealistic landmarks plus simplified blocks\tuntextured white blocks": {
+  "label": "realistic landmarks with simplified blocks vs untextured white blocks",
+  "treatment_is_a": true
+ },
+ "media-design\trealistic or perceptually rich learning materials with concrete details\tabstract or simplified learning materials": {
+  "label": "realistic or perceptually rich learning materials vs abstract or simplified learning materials",
+  "treatment_is_a": true
+ },
+ "media-design\trealistic visualizations presented stereoscopically\tnon-stereoscopic imagery": {
+  "label": "stereoscopic imagery vs non-stereoscopic imagery",
+  "treatment_is_a": true
+ },
+ "media-design\trealistic, perceptually rich learning materials\tless perceptually rich materials": {
+  "label": "realistic or perceptually rich learning materials vs less perceptually rich materials",
+  "treatment_is_a": true
+ },
+ "media-design\trealistic, perceptually rich visualizations\tabstract or less perceptually rich visualizations": {
+  "label": "realistic or perceptually rich visualizations vs abstract or less perceptually rich visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\tschematic or simplified visualizations\trealistic visualizations": {
+  "label": "realistic visualizations vs schematic or simplified visualizations",
+  "treatment_is_a": false
+ },
+ "media-design\tsocial cues included in non-interactive materials\tsocial cues not included": {
+  "label": "social cues included vs social cues absent",
+  "treatment_is_a": true
+ },
+ "media-design\tstronger and more numerous social cues\tweaker and fewer social cues": {
+  "label": "stronger and more numerous social cues vs weaker and fewer social cues",
+  "treatment_is_a": true
+ },
+ "media-design\tsynchronous video-mediated learning materials\ttext-based communication": {
+  "label": "synchronous video-mediated learning materials vs text-based communication",
+  "treatment_is_a": true
+ },
+ "media-design\tvisualizations including realistic details\tvisualizations without realistic details": {
+  "label": "visualizations with realistic details vs visualizations without realistic details",
+  "treatment_is_a": true
+ },
+ "media-design\tvisualizations including realistic surface details\tvisualizations without realistic surface details": {
+  "label": "visualizations with realistic surface details vs visualizations without realistic surface details",
+  "treatment_is_a": true
+ },
+ "media-design\tvisualizations with realistic details\tless realistic or abstract visualizations": {
+  "label": "visualizations with realistic details vs less realistic or abstract visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\tvisualizations with realistic details\tvisualizations without realistic details": {
+  "label": "visualizations with realistic details vs visualizations without realistic details",
+  "treatment_is_a": true
+ },
+ "test-format\tunproctored exam\tteacher-proctored exam": {
+  "label": "unproctored exam vs teacher-proctored exam",
+  "treatment_is_a": true
  }
 }

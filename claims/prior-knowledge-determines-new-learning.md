@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: prior-knowledge-determines-new-learning
+aliases: [prior-knowledge-gains-near-zero-meta-analysis]
 evidence_strength: strong
 sources:
   - id: simonsmeier-et-al-2022
@@ -17,18 +18,28 @@ sources:
     n: 8,776 effect sizes
     kind: quant-synthesis
     rigour: 3
+  - id: bittermann-2023
+    resource: "https://doi.org/10.1007/s10648-023-09775-9"
+    title: "Bittermann, A., McNamara, D., Simonsmeier, B. A., & Schneider, M. (2023). The Landscape of Research on Prior Knowledge and Learning: a Bibliometric Analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-023-09775-9"
+    author: "Bittermann, A., McNamara, D., Simonsmeier, B. A., & Schneider, M."
+    q: 4
+    i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Prior Knowledge Determines New Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i3` large · n=8,776 effect sizes
+> **Evidence** · 2 studies · 1 quant-synthesis `r3`, 1 review `r3` · `q4` · `i3` large · n=8,776 effect sizes
 
 New learning is built on what the learner already knows: existing knowledge structures determine what can be understood, how new information is organized, and where misconceptions will interfere. This is a foundational premise of [cognitive load theory](../theories/cognitive-load-theory.md) and schema-based accounts of learning rather than a single experimental finding — its Evidence section therefore awaits a dedicated synthesis of the supporting literature.
 
 ## Subclaims
 
 `q4 i3` A meta-analysis of 8,776 effect sizes finds a strong correlation (r+ = .534) between learners' prior knowledge and their later knowledge on the same domain, but almost no relationship between prior knowledge and normalized learning *gains* (r+ = -.059), with wide variability across studies. [→ Simonsmeier et al. 2022](#simonsmeier-et-al-2022)
+
+`q4 i?` A meta-analysis distinguishes stability of individual differences (r+ = .53 over 7772 effect sizes) from the effect on gains (rNG+ = −.06 over 697 effect sizes), which varied from −.94 to .93. [→ Bittermann 2023](#bittermann-2023)
 
 ## Evidence
 
@@ -40,14 +51,25 @@ Simonsmeier, B. A., Flaig, M., Deiglmayr, A., Schalk, L., & Schneider, M. (2022)
 
 A meta-analysis of 8,776 effect sizes examined the relationship between domain-specific prior knowledge (measured at Time 1) and knowledge outcomes measured later, across studies spanning many ages, domains and designs. Two distinct relationships were separated: the stability of individual differences (correlation between pretest and posttest knowledge scores) was high, r+ = .534 — learners who know more at the start tend to know more at the end, supporting the claim that new learning builds on and is strongly predicted by prior knowledge. But the predictive power of prior knowledge for *normalized learning gains* (how much a learner improves, controlling for starting point) was low and centered near zero, r+ = -.059, with a large 95% prediction interval of [-.688, .621] — meaning the direction and size of prior knowledge's effect on gains varies enormously across contexts, sometimes helping and sometimes hurting. The authors argue this variability falsifies both "knowledge is power" and "the effect of prior knowledge is negligible" as general statements, and calls for research on the conditions (moderators) under which prior knowledge helps, hurts, or does nothing — directly supporting this page's Discussion section on expertise reversal, moderators and boundary conditions rather than a single uniform effect.
 
+### Bittermann 2023
+
+Bittermann, A., McNamara, D., Simonsmeier, B. A., & Schneider, M. (2023). The Landscape of Research on Prior Knowledge and Learning: a Bibliometric Analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-023-09775-9
+
+`q4 · i?` · `review · r3`
+
+The article reports a recent meta-analysis (Simonsmeier, Flaig, Deiglmayr, et al., 2021) in which stability was high (r+ = .53) while the gain correlation was virtually zero (rNG+ = −.06), with effect sizes varying from −.94 to .93.
+
+> "This stability was high (r P + = .53) averaging over 7772 effect sizes. The correlation between prior knowledge and knowledge gains from pretest to posttest reflects the effect of prior knowledge on learning something new. This effect size was virtually zero (rNG + = −.06), averaging over 697 effect sizes."
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does knowing more beforehand mean learning more from the instruction?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **14 distinct studies** (5 causal, 4 associational, 2 theoretical, 1 quant-synthesis, 1 review, 1 design), `q2`–`q4`, 5 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does knowing more beforehand mean learning more from the instruction?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **15 distinct studies** (5 causal, 4 associational, 2 theoretical, 1 quant-synthesis, 1 kind not coded, 1 review, 1 design), `q2`–`q4`, 5 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Simonsmeier et al. 2022](https://doi.org/10.1080/00461520.2021.1939700) | q4 · quant-synthesis · r3 | i3 · large stability correlation, r=.534; near-zero for normalized gains, r=-.059 | this claim |
+| [Bittermann 2023](https://doi.org/10.1007/s10648-023-09775-9) | q4 | i? | this claim |
 | [Yusuke Sato 2023](https://doi.org/10.52598/jpll/5/1/4) | q2 · associational · r2 | i? | [Pretest scores significantly predict posttest scores across CF types and outcome measures](pretest-scores-predict-posttest-scores.md) (qualifies) |
 | Gagne 1981 | q2 · causal · r? | i3 · large effect, r = 0.52; i? | [Passage familiarity (prior related knowledge) correlates .52 with recall, and only familia](passage-familiarity-correlates-with-recall.md) (supports); [Passage cohesion showed no effect on delayed recall; means showed greater recall from less](cohesion-no-effect-delayed-recall.md) (qualifies) |
 | Bigenho 1992 | q2 · review · r3 | i? | [Subjects with a more developed schema for a body of knowledge show higher recall for mater](developed-schema-higher-recall.md) (supports) |

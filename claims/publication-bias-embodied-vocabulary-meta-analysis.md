@@ -58,3 +58,5 @@ Multilevel Egger's regression tests on the meta-analytic corpus showed a signifi
 - [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](cross-age-tutoring-publication-bias-mixed.md) — related
 - [Publication bias is minimal in the meta-analytic estimate of the inhibitory control–mathematical ability correlation](minimal-publication-bias-ic-math-meta-analysis.md) — related
 - [No evidence of publication bias was found in the achievement goal–dishonesty literature](no-publication-bias-goal-dishonesty.md) — related
+- [Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships](publication-bias-asymmetry-but-pcurve-evidential-value.md) — related
+- [Publication bias could not be ruled out in the pooled teacher-student SEC estimate, though the association persisted across sensitivity analyses](sec-pooled-estimate-publication-bias-caution.md) — related

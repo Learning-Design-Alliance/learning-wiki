@@ -55,3 +55,4 @@ SEM analysis of simulated data with the same correlations and sample size (N = 3
 - [Simulated time-on-task achievement correlations resemble empirical distributions from K-12 classroom studies without any fitting procedure](comsa-time-on-task-matches-empirical.md) — related
 - [EF longitudinally predicts later SRL in children, supporting the notion that EF predicts SRL but not vice versa](ef-predicts-srl-longitudinally.md) — related
 - [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related
+- [Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement](corrected-lcsm-proper-solution-positive-asc-ach-effects.md) — related

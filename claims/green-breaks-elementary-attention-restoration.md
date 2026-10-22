@@ -88,3 +88,6 @@ Within-subjects quasi-experimental study of N = 62 Danish fourth and fifth grade
 - [Short-term passive exposure to nature produces cognitive benefits in 12 of 14 reviewed studies across educational levels, mainly as directed attention restoration](short-term-green-exposure-restores-attention-12-of-14.md) — a broader claim this one bears on
 - [In secondary school students, breaks with green views or walks in larger green spaces improve attention performance](green-exposure-secondary-school-attention.md) — related
 - [In university students, walks or sitting in natural settings after cognitive fatigue improve some attention and working memory measures, with null results for others](green-exposure-university-cognitive-benefits.md) — related
+- [School-garden playtime showed no significant effect on impulse control in primary school children](nature-play-no-effect-impulse-control.md) — related
+- [Short walks and green playtime improve selective attention in children and adolescents relative to urban or indoor comparisons](nature-walk-improves-selective-attention.md) — related
+- [Effects on sustained/selective attention are mixed across studies, with benefits in some green settings but no effect in others regardless of exposure duration](sustained-selective-attention-mixed-nature-effects.md) — related

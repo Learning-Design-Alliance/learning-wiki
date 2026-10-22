@@ -43,6 +43,7 @@ Moderator analysis of effort measurement type (k reported in Table 1: objective 
 
 
 ## Related Claims
+
 - [Effort appraisals correlate negatively with monitoring judgments: high mental effort is associated with poorer performance judgments](effort-appraisals-negative-correlation-monitoring.md) — related
 - [Effort-rating item wording changes what learners reflect on: requirement wording correlates negatively and engagement wording positively with judgments of learning](effort-item-wording-flips-correlation-direction.md) — related
 - [Goal-driven manipulations weaken the negative effort–monitoring correlation, which is nonsignificant under incentives, time pressure or self-agency ratings taken singly](goal-driven-manipulations-eliminate-negative-correlation.md) — related
@@ -54,3 +55,4 @@ Moderator analysis of effort measurement type (k reported in Table 1: objective 
 - [Perceived mental effort serves as a cue for monitoring judgments, which mediate the effort–outcome relation (David et al., 2024 meta-analysis)](david-2024-effort-cue-monitoring-meta-analysis.md) — related
 - [Studies collecting both subjective and objective effort measures reveal dissociations between the two types of measures](dissociations-between-subjective-and-objective-effort-measures.md) — related
 - [Mental effort and judgments of learning show a medium-sized negative correlation, moderated by regulation mode and task type](mental-effort-jol-negative-correlation-moderators.md) — related
+- [No moderator (education, effort measurement, wording, timing, task type, difficulty) significantly changed the model's paths](no-significant-moderators-of-effort-monitoring-outcome-paths.md)

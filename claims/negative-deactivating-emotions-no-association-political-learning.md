@@ -45,3 +45,4 @@ Multilevel random-effects meta-analysis of cross-sectional studies on negative-d
 ## Related Claims
 - [Anxiety shows no significant overall association with political learning in either cross-sectional or experimental designs](anxiety-no-significant-association-political-learning.md) — related
 - [ADA produces directional but non-significant trends toward more positive-activating and less negative-deactivating emotions versus conventional materials](ada-emotions-directional-non-significant.md) — related
+- [The politeness effect: learners learn better with polite instructions or feedback than with direct language forms](politeness-effect-polite-instructions-feedback.md) — related

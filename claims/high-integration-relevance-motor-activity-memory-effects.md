@@ -49,3 +49,4 @@ The review reports a meta-analysis of movement-based learning in which integrati
 ## Related Claims
 - [Physical activity is positively correlated with children's working memory, and integrated exercise with gestures yields the best preschool foreign-language vocabulary learning](physical-activity-working-memory-vocabulary.md) — related
 - [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — related
+- [Visuo-motor synchrony manipulation produced the largest effects on body ownership, while visual asynchrony was the most influential negative manipulation on agency](visuo-motor-synchrony-body-ownership-agency.md) — related

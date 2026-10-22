@@ -65,3 +65,4 @@ The review reports three experiments and two field studies by Müller-Kalthoff e
 - [Dimensional comparisons carried out by teachers and classmates show no contrast effects on students' self-concepts, unlike students' own comparisons](teacher-classmate-dimensional-comparisons-no-contrast.md) — related
 - [Meta-analytic path analyses show math and verbal achievements correlate highly positively while the corresponding self-concepts correlate near zero, with significant negative cross-domain paths](ie-model-meta-analysis-achievement-self-concept-divergence.md) — related
 - [The negative contrast effect of high school-average achievement outweighs a weaker positive assimilation (reflected glory) effect](bflpe-contrast-outweighs-assimilation.md) — related
+- [Contrast and assimilation are competing compositional processes that can operate simultaneously](contrast-assimilation-competing-compositional-processes.md) — related

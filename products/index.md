@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1834 entries** · 0 stable · 1834 in review · 0 drafts
+**1836 entries** · 0 stable · 1836 in review · 0 drafts
 
 ---
 
@@ -131,6 +131,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### B {: #letter-b }
 
 * [Bachelor's Degree Attainment Index (Bachelor's DAI) and Direct Bachelor's DAI](bachelors-degree-attainment-index-bachelors-dai-and-direct-bachelors-dai.md) - These are UChicago Consortium measurement metrics estimating the proportion of a ninth-grade cohort that earns a bachelor's degree, distinguishing direct four-year pathways from pathways involving delayed entry or two-year colleges.
+* [Balance Board Math (BBM)](balance-board-math-bbm.md) - Balance Board Math is a sensor-equipped balance-board environment and interface developed by Sofia Tancredi's design-based research project to let children explore mathematical functions through rocking movements, real-time graphs, colors, and tones.
 * [Balanced 192-text evaluation dataset of EFL, professional, AI-generated, and hybrid texts](balanced-192-text-evaluation-dataset-of-efl-professional-ai-generated-and-hybrid-texts.md) - A research dataset created by Mohammad Hadra et al.
 * [Balanced Leadership® professional development](balanced-leadership-professional-development.md) - A McREL International professional-development programme for current and aspiring school leaders, delivered through facilitated training with optional coaching and online support to develop leadership actions and behaviours.
 * [Balloons: A Concepts About Print Assessment](balloons-a-concepts-about-print-assessment.md) - A locally constructed, criterion-referenced 17-item assessment in the Kindergarten Assessment Portfolio used by program teachers to measure kindergarten pupils' concepts about print.
@@ -1179,6 +1180,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Open executable module library of six Jupyter notebooks for AI in power systems](open-executable-module-library-of-six-jupyter-notebooks-for-ai-in-power-systems.md) - An open library released by Junjie Yin et al.
 * [Open Learning Analytics Platform](open-learning-analytics-platform.md) - An open learning-analytics software platform developed by the article's authors for educational stakeholders to implement, visualize, and integrate learning-analytics indicators.
 * [Open Learning Initiative (OLI)](open-learning-initiative-oli.md) - Open Learning Initiative is Carnegie Mellon University's online courseware and learning-platform project, offering openly available and credit-bearing courses with automated instructional and assessment features.
+* [Open meta-analytic dataset of effort–monitoring–outcome correlations on OSF](open-meta-analytic-dataset-of-effortmonitoringoutcome-correlations-on-osf.md) - Louise David et al.'s OSF dataset contains coded correlations, sample sizes, and moderator coding from studies of self-reported mental effort, metacognitive monitoring, and outcomes for meta-analytic secondary analysis and replication.
 * [Open online dataset and statistical analyses of the mutual-modelling emotions study](open-online-dataset-and-statistical-analyses-of-the-mutual-modelling-emotions-study.md) - A GitHub repository released by Dillenbourg et al.
 * [Open Science Framework analytic script generating and analyzing the simulated data (osf.io/9p83z)](open-science-framework-analytic-script-generating-and-analyzing-the-simulated-data-osfio9p.md) - An R analytic script released by Sorjonen et al.
 * [Open Source Physics (OSP) toolkit](open-source-physics-osp-toolkit.md) - A free, open-source physics software toolkit, including Easy Java Simulations and Tracker, developed for creating, customizing, analyzing, and sharing computer models and video-based investigations.

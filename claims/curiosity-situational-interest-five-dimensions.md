@@ -46,3 +46,5 @@ Narrative review synthesis. The authors propose that situational interest follow
 - [Curiosity is a special case of interest, with the two constructs overlapping in a part-whole rather than mutually exclusive relationship](curiosity-special-case-of-interest.md) — reports the opposite
 - [Affective experience during situated collaborative problem solving is organized around a stable epistemic core linking curiosity, optimism, and confusion with short-range persistence](stable-epistemic-core-curiosity-optimism-confusion-cps.md) — related
 - [Backward curiosity may be an optimal starting point for promoting student learning](backward-curiosity-promotes-learning.md) — related
+- [The consensus distinction characterises curiosity as active seeking of specific unknown information and interest as pleasurable, in-depth seeking in already-known domains](consensus-distinction-curiosity-active-interest-pleasurable.md) — related
+- [Evidence for curiosity as an aversive state is inconclusive; an incentive-salience (liking/wanting) account offers a more parsimonious explanation](curiosity-aversive-state-inconclusive-wanting-liking.md) — reports the opposite

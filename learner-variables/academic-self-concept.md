@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (59 show a difference, 14 mixed, 4 no difference) · 40 studies (17 associational, 9 review, 7 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 40 report an effect size · 74 claims rest on one study
+> **Evidence** · 80 claims (61 show a difference, 15 mixed, 4 no difference) · 42 studies (19 associational, 9 review, 7 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 42 report an effect size · 77 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -112,6 +112,9 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [When compositional effects are constrained equal across countries, the overall peer spillover effect is negative and non-significant while the BFLPE remains negative and significant](../claims/restricted-model-null-spillover-significant-bflpe.md) [~W] — instruction changes it
 - [The parental aspiration-expectation gap negatively predicts student expectations, academic self-concept, GPA, and age-26 outcomes](../claims/aspiration-expectation-gap-negative-effects.md) [+W] — instruction changes it
 - [Year 10 teacher and parent educational expectations have consistently positive effects on student expectations, academic self-concept, GPA, and age-26 outcomes](../claims/teacher-parent-expectations-positive-effects.md) [+W] — instruction changes it
+- [Contrast and assimilation are competing compositional processes that can operate simultaneously](../claims/contrast-assimilation-competing-compositional-processes.md) [~M] — instruction changes it
+- [School-average achievement negatively predicts academic self-concept (BFLPE) and GPA in the comprehensive doubly-latent model](../claims/school-average-achievement-negative-compositional-effect-asc-gpa.md) [+M] — instruction changes it
+- [Starting contemporaneous effects on wave 2 in the STARTS model yields positive contemporaneous effects of achievement on academic self-concept and positive lagged effects of self-concept on achievement](../claims/corrected-starts-positive-contemporaneous-and-lagged-effects.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

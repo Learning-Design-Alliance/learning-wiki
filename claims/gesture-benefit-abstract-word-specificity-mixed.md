@@ -66,3 +66,6 @@ Experiment 2 (n = 43, reduced 24-word set) found no significant learning conditi
 - [Children's L2 translation and free recall scores were higher for concrete than abstract nouns across experiments](concrete-advantage-l2-vocabulary-children.md) — related
 - [Both gesture and picture enrichment enhanced children's test performance compared with non-enriched learning, with benefits persisting up to 6 months for concrete and abstract words](enrichment-benefits-persist-six-months.md) — a broader claim this one bears on
 - [Gesture-enriched learning improves 8-year-olds' L2 vocabulary translation and free recall compared with non-enriched learning, persisting up to 6 months](gesture-enrichment-l2-vocabulary-children.md) — related
+- [Concrete L2 words are learned better than abstract words overall, but this concreteness advantage appears only in 14-year-olds](concreteness-advantage-only-in-eighth-graders.md) — related
+- [Picture and gesture enrichment benefit children's learning of both concrete and abstract L2 words](enrichment-benefits-abstract-and-concrete-words.md) — a broader claim this one bears on
+- [Semantically congruent iconic gestures improve L2 vocabulary retention relative to meaningless or incongruent gestures](iconic-congruent-gestures-improve-retention.md) — related

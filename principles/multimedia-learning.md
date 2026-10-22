@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 78 claims (33 for, 42 mixed, 3 against) · 61 studies (25 causal, 14 review, 13 quant-synthesis, 4 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 18 of 61 report an effect size · 69 claims rest on one study
+> **Evidence** · 79 claims (33 for, 43 mixed, 3 against) · 62 studies (25 causal, 14 review, 13 quant-synthesis, 4 associational, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 18 of 62 report an effect size · 70 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Meta-analytic effect sizes for cognitive-motivational techniques are substantial: multimedia d = 1.01 overall, elaborative feedback d = 0.71 recall, intrinsic integration d = 0.62](../claims/cognitive-motivational-techniques-effect-sizes.md) [+M]
 - [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](../claims/animations-transience-working-memory-load.md) [~W]
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](../claims/visualizing-support-facilitates-explaining.md) [+W]
+- [Animations are superior to static graphics for learning tasks involving human motor movement](../claims/human-movement-effect-animations-motor-tasks.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

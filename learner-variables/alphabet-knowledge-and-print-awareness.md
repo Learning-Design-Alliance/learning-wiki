@@ -13,7 +13,7 @@ generated:
 # Alphabet Knowledge and Print Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 56 claims (28 show a difference, 14 mixed, 14 no difference) · 29 studies (17 causal, 6 quant-synthesis, 3 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 20 of 29 report an effect size · 55 claims rest on one study
+> **Evidence** · 59 claims (31 show a difference, 14 mixed, 14 no difference) · 30 studies (18 causal, 6 quant-synthesis, 3 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 21 of 30 report an effect size · 58 claims rest on one study
 
 ## Description
 Alphabet knowledge is knowing the names, written forms and sounds of letters, including letter combinations that represent a single sound. Print awareness is the understanding that print carries meaning and has different functions, and of how it works on the page (that text is read in a set direction, that words are separated by spaces, and so on), something experienced readers forget they had to learn. Both are measured in early childhood: alphabet knowledge by asking children to name and sound out randomly ordered upper- and lower-case letters, print awareness by informal assessments in which a child handles a book.
@@ -96,6 +96,9 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [Arm-body training reduces letters written under dictation relative to the other conditions](../claims/arm-body-training-detrimental-letters-dictation.md) [+M] — instruction changes it
 - [Initial skills moderate embodied training effects: arm-body training harms low-skilled students on dictation and legibility, and benefits high-skilled students on dictation](../claims/initial-skills-moderate-embodied-training-effects.md) [~M] — an instructional effect differs with it
 - [No training condition affects letter script stroke direction](../claims/no-training-effect-stroke-direction.md) [-M] — instruction changes it
+- [Both hand-movement and whole-body teaching improve naming of conditional letter-sounds post-intervention; the hand-movement advantage persists at retention](../claims/embodied-conditional-letter-sound-naming.md) [+M] — instruction changes it
+- [Whole-body movement teaching improves 5–6-year-olds' letter-sound naming more than non-motor teaching, immediately and at 17–22-week retention](../claims/whole-body-movement-improves-letter-sound-naming.md) [+M] — instruction changes it
+- [Whole-body movement teaching improves matching of conditional letter-sounds to letters at retention compared with non-motor teaching](../claims/whole-body-improves-conditional-sound-matching-retention.md) [+M] — instruction changes it
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

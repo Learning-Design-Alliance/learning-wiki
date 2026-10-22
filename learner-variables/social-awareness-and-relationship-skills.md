@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 92 claims (67 show a difference, 17 mixed, 8 no difference) · 71 studies (23 review, 15 associational, 11 quant-synthesis, 10 causal, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 19 of 71 report an effect size · 88 claims rest on one study
+> **Evidence** · 95 claims (69 show a difference, 18 mixed, 8 no difference) · 73 studies (23 review, 15 associational, 13 quant-synthesis, 10 causal, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 20 of 73 report an effect size · 91 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -133,6 +133,9 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [The review reports that jigsaw classrooms produced gains in self-esteem, interpersonal attraction, empathy, and minority academic achievement without cost to majority students](../claims/jigsaw-classroom-benefits-reported.md) [+M] — instruction changes it
 - [Parental elaborative style during reminiscing relates to children's vocabulary, narrative skills, autobiographical memory, and social-emotional skills](../claims/parental-elaborative-reminiscing-relates-to-child-outcomes.md) [+M] — instruction changes it
 - [Lifetime exposure to narrative fiction correlates with ToM and empathy, but correlational designs preclude causal conclusions](../claims/fiction-exposure-correlates-tom-empathy.md) [+M] — instruction changes it
+- [At domain level, teachers' responsible decision-making shows the largest observed relationship with students' SEC, and students' relationship skills the strongest with teachers' SEC](../claims/sec-domain-specific-associations-casel.md) [+M] — instruction changes it
+- [Children's age negatively moderates the pretend play–social competence relation, which weakens as children get older](../claims/age-negatively-moderates-pretend-play-social-competence.md) [~M] — instruction changes it
+- [Pretend play is positively related to social competence in children aged 3–8, with a small overall effect size](../claims/pretend-play-positive-relation-social-competence.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

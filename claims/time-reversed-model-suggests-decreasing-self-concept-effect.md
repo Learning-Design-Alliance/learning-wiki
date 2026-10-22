@@ -52,3 +52,4 @@ Simulation analysis fitting both the RI-CCLPM-C and a time-reversed model to SIM
 - [Good fit of the ESDM indicates the PALMA data could have been generated without any prospective effects between achievement and self-concept](esdm-fit-suggests-spurious-prospective-effects.md) — related
 - [Validation with simulated TRAIN-like data replicates the divergence: RI-CLPM positive, LCSM negative, ESDM no-direct-effects](train-validation-divergent-model-findings.md) — related
 - [Simulated time-on-task achievement correlations resemble empirical distributions from K-12 classroom studies without any fitting procedure](comsa-time-on-task-matches-empirical.md) — related
+- [The SIM-NEW simulation's assumptions (fully simulated data, a single latent ability factor, and a non-REM time-reversed analysis) limit its relevance to the reciprocal effects debate](sim-new-assumptions-limit-relevance-to-rem-debate.md) — related

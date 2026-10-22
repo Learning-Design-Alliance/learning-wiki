@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (8 for, 7 mixed, 4 against) · 29 studies (13 causal, 11 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 29 report an effect size · 15 claims rest on one study
+> **Evidence** · 21 claims (10 for, 7 mixed, 4 against) · 31 studies (14 causal, 12 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 31 report an effect size · 17 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -66,6 +66,8 @@ Imagery-based encoding improves recall and comprehension because information sto
 - [For uncertain architectural elements, geometric contrast yielded worse memory of appearance than no visualization, stop light colors, or both visualizations](../claims/geometric-contrast-impairs-uncertain-element-memory.md) [-W]
 - [Effect sizes across drawing-support studies show significant heterogeneity for both comprehension and transfer outcomes](../claims/drawing-support-heterogeneity-significant.md) [~W]
 - [Combining drawing with mentally imagining produces a negative effect of drawing, qualified by a significant interaction](../claims/drawing-mental-imagery-negative-interaction.md) [~W]
+- [Positively emotional images in learning materials produce a learning effect and increase learner satisfaction compared to negative images](../claims/emotional-design-positive-images-learning.md) [+W]
+- [Picture and gesture enrichment benefit children's learning of both concrete and abstract L2 words](../claims/enrichment-benefits-abstract-and-concrete-words.md) [+W]
 
 ## The evidence by question
 

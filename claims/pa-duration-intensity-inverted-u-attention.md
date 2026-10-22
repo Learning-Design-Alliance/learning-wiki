@@ -74,3 +74,4 @@ Authors' interpretation citing the Yerkes-Dodson inverted-U hypothesis and evide
 - [Acute physical activity has a positive effect on attention in preadolescent children (g = 0.43)](acute-physical-activity-improves-attention-preadolescents.md) — related
 - [In two reviewed studies, CB-PA improvements in attention measures were moderated by other variables such as cognitive engagement and timing](cbpa-effects-moderated-cognitive-engagement-timing.md) — related
 - [Short-duration anaerobic sprint exercise speeds vocabulary-type associative learning by 20% with increased serum BDNF that correlates with learning success](anaerobic-sprint-bdnf-associative-learning.md) — related
+- [Mathematics outcomes benefit from PA with academic instruction of 6–10-week duration at moderate or moderate-to-vigorous intensity, and language outcomes from enriched PA programmes](pa-academic-instruction-benefits-maths-enriched-benefits-language.md) — related

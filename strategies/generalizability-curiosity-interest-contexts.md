@@ -39,6 +39,7 @@ The article recommends contextualizing curiosity and interest research in age-re
 ## Related Strategies
 
 - [Base inclusive-strategy training on indigenous pedagogies and enable use of advanced evidence-based techniques](indigenous-pedagogy-training-inclusive-strategies.md)
+- [Specify the knowledge-acquisition component when using curiosity and interest terms, and prefer experience-sampling over one-shot self-report](specify-process-components-curiosity-interest-terminology.md)
 
 ## Examples
 -

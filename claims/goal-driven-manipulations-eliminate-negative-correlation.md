@@ -56,3 +56,4 @@ Moderator analyses (mixed-effects model) comparing studies with versus without g
 - [Forced pacing eliminates positive transfer from computer aiding and leads subjects to use strategies requiring many more tests than necessary](forced-pacing-eliminates-aiding-transfer.md) — related
 - [Effort ratings correlate negatively with judgments of learning (r = −0.355), but the correlation disappears under a goal-driven interpretation of effort](negative-effort-jol-correlation-meta-analysis.md) — related
 - [Mental effort and judgments of learning show a medium-sized negative correlation, moderated by regulation mode and task type](mental-effort-jol-negative-correlation-moderators.md) — a broader claim this one bears on
+- [Prior meta-analysis found a negative medium-sized effort–monitoring correlation (r = -0.35), attenuated under goal-driven manipulations](baars-2020-effort-monitoring-correlation-negative-medium.md) — a broader claim this one bears on

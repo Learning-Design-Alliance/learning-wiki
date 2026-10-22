@@ -45,3 +45,4 @@ The authors' interpretive conclusion drawn from their null performance results a
 ## Related Claims
 - [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
+- [Social presence from social cues can improve task performance (social facilitation) but may impair performance on complex tasks (social inhibition)](social-facilitation-social-presence-performance.md) — related

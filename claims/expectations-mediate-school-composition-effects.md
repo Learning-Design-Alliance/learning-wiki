@@ -48,3 +48,5 @@ Longitudinal SEM using Mplus indirect-effect estimation in the ELS:2002 sample; 
 - [Effects of parent aspirations on student outcomes are predominantly small and mixed in direction](parent-aspirations-small-mixed-effects.md) — related
 - [The parental aspiration-expectation gap negatively predicts student expectations, academic self-concept, GPA, and age-26 outcomes](aspiration-expectation-gap-negative-effects.md) — related
 - [Teacher expectations correlate most strongly with achievement among Year-10 expectation and aspiration measures](teacher-expectations-highest-achievement-correlations.md) — related
+- [Compositional effects of school-average achievement and SES on long-term outcomes are partly mediated by ASC and particularly by GPA](compositional-effects-mediated-by-asc-and-gpa.md) — related
+- [School-average SES positively predicts ASC and the three age-26 outcomes but not GPA](school-average-ses-positive-compositional-effect.md) — related

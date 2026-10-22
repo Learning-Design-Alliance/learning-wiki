@@ -81,3 +81,4 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](synced-audio-visual-presentation-better-learning.md) — related
 - [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](animations-transience-working-memory-load.md) — related
 - [Audio-visual lecture clips produce better comprehension than audio-only clips, and the multimedia advantage holds at accelerated speed](audio-visual-outperforms-audio-only-at-speed.md) — related
+- [Animations are superior to static graphics for learning tasks involving human motor movement](human-movement-effect-animations-motor-tasks.md) — related

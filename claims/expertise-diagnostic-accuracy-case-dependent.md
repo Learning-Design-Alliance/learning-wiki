@@ -70,3 +70,4 @@ Null findings from the same regression models: no significant expertise–accura
 - [Novices showed marginally higher complexity of SRL phase sequences than experts (frequent but predictable transitions), with no group differences in entropy or transition number](novices-higher-srl-complexity-experts-moderate-diversity.md) — related
 - [SRL phase transitions during clinical reasoning with a multimedia system are frequent, cyclical, and dominated by Forethought→Performance and Performance→Forethought transitions](srl-phase-transitions-cyclical-clinical-reasoning.md) — related
 - [Biomedical causal knowledge improves novice diagnostic accuracy on difficult cases with irrelevant findings](biomedical-causal-knowledge-improves-novice-diagnosis-irrelevant-findings.md) — related
+- [The third phase of expertise development uses episodic memories of actual patients in diagnosing new cases](third-phase-episodic-memories-diagnosis.md) — related

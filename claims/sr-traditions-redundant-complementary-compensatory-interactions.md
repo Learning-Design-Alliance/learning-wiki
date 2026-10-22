@@ -50,3 +50,4 @@ Theoretical argument in the integration section. The article argues that without
 - [Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism](self-efficacy-negatively-predicts-ai-dependency.md) — related
 - [Organizational-level support targeted four areas: coordination and leadership, professional norms, monitoring of instruction and learning, and resources](organizational-support-four-target-areas.md) — related
 - [Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions](jingle-jangle-motivation-constructs.md) — related
+- [The CONIC model proposes conscientiousness and interest can partly compensate for one another in explaining academic effort and achievement](conic-compensation-conscientiousness-interest.md) — a narrower finding that bears on this claim

@@ -48,8 +48,10 @@ Epistemic injustice (Fricker, 2007) names two specific ways people can be wronge
 - [Foucauldian power/knowledge and episteme framework for situating Indigenous knowledges within Western universities](foucauldian-episteme-indigenous-knowledges-framework.md)
 
 ## Examples
+
 - [Agentic Data-Engagement Positions](../elements/agentic-data-engagement-positions.md) — operationalizes epistemic-justice-oriented design by scaffolding learners into active knowledge-producing roles with data, rather than positioning them as passive recipients of official data
 - [Cultural & Life Experiences Connections](../principles/cultural-life-experiences-connections.md)
+- [Three design heuristics for leveraging stimming pedagogically: offer stim affordances, legitimize stims as discursive resource, and leverage stims as epistemic actions](../strategies/stimming-design-heuristics.md)
 
 ## Key Sources
 - Sedawi, W., & Calabrese Barton, A. (2024). Toward epistemic justice in socio-scientific decision-making: How youth make sense of lively COVID-19 and vaccines data. *Journal of the Learning Sciences, 33*(4-5), 667-718. [https://doi.org/10.1080/10508406.2024.2381205](https://doi.org/10.1080/10508406.2024.2381205)
