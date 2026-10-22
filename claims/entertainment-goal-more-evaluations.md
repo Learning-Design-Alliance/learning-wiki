@@ -51,3 +51,4 @@ Think-aloud ANOVAs for the evaluative and affective categories in the same exper
 - [Free recall of expository text is higher under a study goal than under an entertainment goal](study-goal-better-free-recall.md) — related
 - [Page readers tended to include more details in their summaries than Scroll readers (a marginal result, p = .056), while recall of main ideas did not differ significantly](page-presentation-summary-details-recall.md) — related
 - [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related
+- [Goal profiles differ between effective and ineffective CL teams: mastery and social responsibility goals prevail in effective teams, entertainment, certificate and work avoidance goals in ineffective teams](cl-goal-profiles-effective-ineffective-teams.md) — related

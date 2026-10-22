@@ -63,6 +63,7 @@ Homework's effect on achievement is small overall and depends far more on qualit
 - [Distributed Practice](distributed-practice.md) — homework's main legitimate function is spaced review of prior learning
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — family-as-resource tasks surface home knowledge the class can build on
 - [Use interactive homework assignments that require students to discuss class learning with someone at home](interactive-homework-home-discussion-assignments.md)
+- [Teachers guide parents on homework support types and hold family meetings on learning goals](teacher-guidance-family-meetings-homework-support.md)
 
 ## Examples
 - **TIPS (Teachers Involve Parents in Schoolwork)**, Johns Hopkins Center on School, Family, and Community Partnerships — weekly interactive homework assignments with scripted family-participation prompts; field studies showed improved homework attitudes and completion [https://www.csos.jhu.edu](https://www.csos.jhu.edu)

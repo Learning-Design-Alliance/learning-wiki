@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (66 show a difference, 23 mixed, 14 no difference) · 68 studies (25 causal, 19 review, 13 quant-synthesis, 5 theoretical, 4 associational, 2 qualitative), `q1`–`q4` · 25 of 68 report an effect size · 96 claims rest on one study
+> **Evidence** · 104 claims (66 show a difference, 24 mixed, 14 no difference) · 69 studies (26 causal, 19 review, 13 quant-synthesis, 5 theoretical, 4 associational, 2 qualitative), `q1`–`q4` · 25 of 69 report an effect size · 97 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -138,6 +138,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [The first phase of medical expertise development is accumulation of causal knowledge about disease and its consequences](../claims/first-phase-causal-knowledge-accumulation.md) [+W] — instruction changes it
 - [The third phase of expertise development uses episodic memories of actual patients in diagnosing new cases](../claims/third-phase-episodic-memories-diagnosis.md) [+W] — learners who differ on it differ in outcomes
 - [Two distinct implicit cognitive processes show different predictive links: implicit learning predicts skill learning, associative memory activation predicts language task success](../claims/implicit-processes-differential-predictive-links.md) [+M] — learners who differ on it differ in outcomes
+- [Studying with the material available during post-testing yielded higher post-test and delayed retention scores but worse transfer than retention-based studying](../claims/material-availability-studying-tradeoffs.md) [~M] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

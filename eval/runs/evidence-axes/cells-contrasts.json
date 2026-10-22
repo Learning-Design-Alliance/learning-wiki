@@ -39550,5 +39550,197 @@
  "prompts\tReflection on epistemic beliefs during a science unit\tNot stated": {
   "label": "reflection prompts vs no prompts",
   "treatment_is_a": true
+ },
+ "active-learning\tflipped learning\tlecture-based learning": {
+  "label": "flipped learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped learning\tlecture-based teaching": {
+  "label": "flipped learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped learning implementation\tlecture-based implementation": {
+  "label": "flipped learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tteacher-led learning events\tindividual learning events": {
+  "label": "individual learning events vs teacher-led learning events",
+  "treatment_is_a": false
+ },
+ "autonomy-support\thigher maternal autonomy granting\tlower maternal autonomy granting": {
+  "label": "higher maternal autonomy granting vs lower maternal autonomy granting",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tmaternal autonomy granting\tlower maternal autonomy granting": {
+  "label": "higher maternal autonomy granting vs lower maternal autonomy granting",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsource-evaluation classroom intervention\tregular classroom teaching": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree classroom workshops on critical source dimensions\tregular classroom instruction": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree one-hour source-evaluation workshops on author position, author motivation, and media quality\tregular classroom instruction": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tthree workshops on author position, motivation, and media quality with discussion and practice\tregular classroom instruction": {
+  "label": "explicit instruction vs regular instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructional videos\tillustrated texts": {
+  "label": "video vs illustrated text",
+  "treatment_is_a": true
+ },
+ "media-design\tvideo\tillustrated text": {
+  "label": "video vs illustrated text",
+  "treatment_is_a": true
+ },
+ "media-design\tvideos\tillustrated texts": {
+  "label": "video vs illustrated text",
+  "treatment_is_a": true
+ },
+ "media-design\tvideos, with fifth graders' modality benefit\tillustrated texts and the smaller sixth-grade modality benefit": {
+  "label": "video vs illustrated text",
+  "treatment_is_a": true
+ },
+ "practice-amount\t16–30 minutes of homework\tup to 15 minutes of homework": {
+  "label": "more vs less homework",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlonger-duration assignments\tshort-duration assignments": {
+  "label": "longer-duration vs shorter-duration assignments",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmathematics homework every day\tmathematics homework up to one or two times per week": {
+  "label": "more frequent vs less frequent practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore than 30 minutes of homework\tup to 15 minutes of homework": {
+  "label": "more vs less homework",
+  "treatment_is_a": true
+ },
+ "simulation\theterogeneity simulation\tcontrol condition": {
+  "label": "simulation vs control",
+  "treatment_is_a": true
+ },
+ "simulation\theterogeneity simulation\theterogeneity text": {
+  "label": "simulation vs text",
+  "treatment_is_a": true
+ },
+ "simulation\theterogeneity simulation\theterogeneity text condition": {
+  "label": "simulation vs text",
+  "treatment_is_a": true
+ },
+ "simulation\theterogeneity simulation\tno-heterogeneity control": {
+  "label": "simulation vs control",
+  "treatment_is_a": true
+ },
+ "simulation\theterogeneity simulation\tpretest before the simulation": {
+  "label": "simulation vs pretest",
+  "treatment_is_a": true
+ },
+ "simulation\theterogeneity simulation\tpretest belief measure": {
+  "label": "simulation vs pretest",
+  "treatment_is_a": true
+ },
+ "simulation\theterogeneity simulation with heterogeneous peer feedback\tcontrol activity without heterogeneity": {
+  "label": "simulation with heterogeneous peer feedback vs control activity without heterogeneity",
+  "treatment_is_a": true
+ },
+ "simulation\theterogeneity simulation with heterogeneous peer feedback\tscientific text about heterogeneity": {
+  "label": "simulation with heterogeneous peer feedback vs scientific text about heterogeneity",
+  "treatment_is_a": true
+ },
+ "spacing\thomework every day\thomework 1 or 2 times a week": {
+  "label": "shorter vs longer gaps",
+  "treatment_is_a": true
+ },
+ "spacing\thomework three to four days per week\thomework 1 or 2 times a week": {
+  "label": "shorter vs longer gaps",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted writing teams\thuman-written post-GPT teams": {
+  "label": "AI-assisted writing teams vs human-written teams",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted writing teams\thuman-written pre-GPT teams": {
+  "label": "AI-assisted writing teams vs human-written teams",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted writing teams\thuman-written teams": {
+  "label": "AI-assisted writing teams vs human-written teams",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-authored ChatGPT response\thuman TA-authored response": {
+  "label": "AI-authored response vs human-authored response",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based automated assessment tools\tnot stated": {
+  "label": "AI-based automated assessment vs no stated comparator",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based cognitive-only support\tno AI-based support": {
+  "label": "AI-based cognitive support vs no AI-based support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based competency assessment\thuman assessors": {
+  "label": "AI-based competency assessment vs human assessment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based conversational systems\tspecialised passive educational tools such as books or Montessori materials": {
+  "label": "Conversational AI systems vs passive educational tools",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based digital tools\texisting orchestration types and theory": {
+  "label": "AI-based digital tools vs existing orchestration approaches",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based digital tools with agentic feedback and dashboards\tconventional digital-tool orchestration": {
+  "label": "Agentic AI feedback and dashboards vs conventional digital-tool orchestration",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based educational technologies\tequalizing access and opportunity": {
+  "label": "AI-based educational technology vs equalizing access and opportunity",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based educational technology use with cognitive-load pathway\tlower AI-based educational technology use with cognitive-load pathway": {
+  "label": "Higher AI-based educational-technology use vs lower AI-based educational-technology use",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based grading using ChatGPT\thuman grading": {
+  "label": "AI-based grading vs human grading",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based intelligent tutoring and adaptive sequencing\tnot stated": {
+  "label": "AI-based intelligent tutoring and adaptive sequencing vs no stated comparator",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based intelligent tutoring systems\ttraditional or non-ITS learning approaches": {
+  "label": "Intelligent tutoring systems vs traditional or non-ITS learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based interventions\tcomparison conditions": {
+  "label": "AI-based interventions vs comparison conditions",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based lesson-planning and instructional-design tools in teacher-centred models\texploratory, collaborative, and embodied learning designs": {
+  "label": "AI-based lesson-planning and instructional-design tools in teacher-centred models vs exploratory, collaborative, and embodied learning designs",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based mathematics interventions\ttraditional or non-AI instruction": {
+  "label": "AI-based mathematics interventions vs traditional or non-AI instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based personalized learning and knowledge-graph-based automated feedback\tnon-personalized or non-AI collaborative learning support": {
+  "label": "AI-based personalized learning and automated feedback vs non-personalized or non-AI collaborative support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based student advice service\thuman administrative staff": {
+  "label": "AI-based student advice service vs human administrative staff",
+  "treatment_is_a": true
  }
 }

@@ -137,3 +137,4 @@ Sixty-eight 11th-grade students took eight lessons on strategies for evaluating 
 - [College students' scores on an online source credibility assessment improved significantly after four course-embedded modules in an asynchronous nutrition course](course-embedded-modules-improve-credibility-scores.md) — related
 - [Students' reliance on surface-level evaluation strategies declined after the modules, including trust in dot-org domains, links, appearance, and About pages](surface-strategies-declined-after-modules.md) — related
 - [High-school students do not spontaneously use contextualization, sourcing, and corroboration heuristics when reading documents](students-not-spontaneously-use-sourcing-heuristics.md) — related
+- [Trained students increased references to the more reliable source in justifications, specifically for the more reliable source](sourcing-intervention-source-references-justifications.md) — related

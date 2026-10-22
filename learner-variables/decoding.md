@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 79 claims (53 show a difference, 12 mixed, 14 no difference) · 56 studies (17 quant-synthesis, 15 associational, 12 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 21 of 56 report an effect size · 74 claims rest on one study
+> **Evidence** · 82 claims (54 show a difference, 13 mixed, 15 no difference) · 57 studies (17 quant-synthesis, 15 associational, 13 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 21 of 57 report an effect size · 77 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -120,6 +120,9 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [A vocabulary instructional focus differentially benefits good readers at the expense of poor decoders and poor comprehenders over a school year](../claims/vocabulary-focus-differential-effect-good-readers.md) [~M] — an instructional effect differs with it
 - [Eight weeks of embodied letter-sound teaching produced no transfer effect on word reading in 5–6-year-olds](../claims/embodied-phonics-no-word-reading-transfer.md) [-M] — instruction changes it
 - [Whole-body movement teaching improves 5–6-year-olds' letter-sound naming more than non-motor teaching, immediately and at 17–22-week retention](../claims/whole-body-movement-improves-letter-sound-naming.md) [+M] — instruction changes it
+- [Decoding ability did not predict cognitive load directly or through interaction with modality, contradicting the hypothesis that weak decoding raises reading effort](../claims/decoding-no-cognitive-load-effect.md) [-W] — learners who differ on it differ in outcomes
+- [Decoding ability predicted retrieval, transfer, and retention, and interacted with modality so that video retention benefits were largest for children with weaker decoding](../claims/decoding-interaction-modality-retention.md) [~W] — an instructional effect differs with it
+- [Reading comprehension predicted retrieval, transfer, and retention more strongly than decoding, with a weaker modality interaction favoring lower-comprehension children in retention](../claims/reading-comprehension-predicts-multimedia-learning.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

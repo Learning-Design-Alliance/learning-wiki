@@ -40,6 +40,7 @@ The article argues that interactive video cannot evaluate students' productions,
 ## Related Strategies
 
 - [Adapt existing footage for branching simulation practice rather than only annotating it](adapt-existing-footage-for-simulation-practice.md)
+- [Four teacher roles for regulating the transfer of learning functions: diagnostician, challenger, model learner, activator](four-teacher-roles-regulation-transfer.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Descriptive case example from the third simulation (V3) reported in the Results 
 - [Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training](srl-ssrl-behaviors-predict-eda-simulation-stages.md) — related
 - [In the beginning-segment Lasso model, participant role accounted for 15% of the final prediction model](participant-role-15-percent-beginning-model.md) — related
 - [In medical simulation training, socially shared regulation relates to subsequent emotional stabilization, with electrodermal activity modeled as a dependent variable](socially-shared-regulation-emotional-stabilization-eda.md) — related
+- [Lecture-based learning events show a clearer decline in EDA across within-event segments than flipped learning events](lecture-based-events-clearer-eda-decline-across-segments.md) — related

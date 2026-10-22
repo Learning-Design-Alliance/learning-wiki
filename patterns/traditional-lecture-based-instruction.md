@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 26 claims (2 for, 16 mixed, 8 against) · 35 studies (10 review, 8 causal, 6 theoretical, 5 qualitative, 4 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 4 of 35 report an effect size · 20 claims rest on one study
+> **Evidence** · 28 claims (2 for, 18 mixed, 8 against) · 36 studies (10 review, 8 causal, 6 theoretical, 5 qualitative, 4 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 5 of 36 report an effect size · 22 claims rest on one study
 
 ## Description and scope
 
@@ -148,6 +148,8 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more](../claims/lecture-decreases-discussion-groupwork-increase-engagement.md) [-W]
 - [The scope of PBL implementation shaped discussion quality: hybrid lecture-based implementation reduced uncertainty but yielded less critical discussion than full PBL](../claims/scope-of-pbl-implementation-shapes-discussion.md) [~W]
 - [Correct-answer feedback alone was insufficient for generalization: significantly worse than lecture in Study 1, with the difference not significant in Study 2](../claims/correct-answer-feedback-insufficient-for-generalization.md) [~W]
+- [Lecture-based learning events show a clearer decline in EDA across within-event segments than flipped learning events](../claims/lecture-based-events-clearer-eda-decline-across-segments.md) [~W]
+- [The within-student pre–post valence association holds in the lecture-based group but not in the flipped group, while between-student associations are positive in both](../claims/pre-post-valence-stability-varies-by-implementation.md) [~W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

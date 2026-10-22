@@ -27,6 +27,7 @@ The Toolkit is a four-part framework created by its authors to help teachers pla
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Four-piece toolkit architecture linking planning, implementation, and evaluation**: The Toolkit is architected as four complementary pieces that map onto stages of instructional practice: an entry-point Technology Affordances Matrix, diagnostic Conceptual Frameworks, concrete Checklists, and an Evaluation Sample demonstrating application to real student work. As the document states, the four pieces "are designed to work together to guide teachers through the process of planning, implementing and evaluating technology-based lessons." Each tool serves a distinct stage: choosing a work form, diagnosing levels, specifying skills, and modeling assessment. (The Evaluation Toolkit: A Work-in-Progress (2002))
+- **Skills Framework for identifying the range of skills involved in using talk in a specific social situation**: The Skills Framework is a component of the Cambridge Oracy Assessment Toolkit described as 'a unique Skills Framework for identifying the range of skills involved in using talk in any specific social situation'. It gives teachers a structured way to analyse which spoken-language skills are involved in talk within a given social context, complementing the Toolkit's assessment tasks and procedures. The article presents it as part of what makes the Toolkit distinctive among oracy assessment instruments. (Mercer et al. (2016))
 
 ### Claims
 
@@ -35,8 +36,8 @@ The Toolkit is a four-part framework created by its authors to help teachers pla
 
 ## Key Sources
 - The Evaluation Toolkit: A Work-in-Progress. (2002). https://eric.ed.gov/?id=ED463744
-
 <!-- merged 2026-10-10 from designs/four-piece-toolkit-planning-evaluation-architecture ("Four-piece toolkit architecture linking planning, implementation, and evaluation"), misfiled as a design and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Mercer, N, Warwick, Paul, & Ahmed, A. (2016). An oracy assessment toolkit: Linking research and development in the assessment of students' spoken language skills at age 11-12. Learning and Instruction. https://doi.org/10.1016/j.learninstruc.2016.10.005
 
 # Four-piece toolkit architecture linking planning, implementation, and evaluation
 

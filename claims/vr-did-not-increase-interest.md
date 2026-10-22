@@ -70,3 +70,4 @@ Exploratory subgroup breakdown (Benjamini–Hochberg corrected) over six school-
 - [Test condition did not affect pre-post learning-outcome differences, but school type was a significant factor in the multivariate model](school-type-significant-condition-not.md) — a broader claim this one bears on
 - [School type significantly predicted change in environmental-protection attitudes, with academic-track students changing more than combined-school students](school-type-predicts-uss-attitude-change.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
+- [Differential coaching effects across academic tracks were examined by sampling German Hauptschule and Gymnasium students](pisa-coaching-track-differential-hauptschule-gymnasium.md) — related

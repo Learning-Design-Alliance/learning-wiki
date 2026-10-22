@@ -50,3 +50,4 @@ Interaction-type analysis of the meeting (Table 6, 15 phases over 389 coded turn
 - [A single meeting of self-regulating pre-service teachers contained an almost complete expansive mini-cycle of learning actions, with all expansive actions except consolidating the new practice](single-meeting-almost-complete-expansive-mini-cycle.md) — related
 - [Expansive learning actions in the meeting followed by and large the theory-predicted order, forming a mini-cycle of two main parts with iterations](learning-actions-follow-predicted-order-two-parts.md) — related
 - [Object formation in the meeting was iterative and non-linear: the proposed germ cell of 'making a choice' was encapsulated, not elaborated and expanded](object-formation-iterative-germ-cell-encapsulated.md) — related
+- [Most teacher–student regulation combinations produce friction rather than congruence, with constructive and destructive forms](six-of-nine-regulation-combinations-are-friction.md) — related

@@ -96,6 +96,7 @@ Resource evaluation works when learners actively apply criteria to real, contras
 **Annotated bibliography assignments** — Learners summarize, evaluate, and justify the role of each source in an emerging argument, making evaluative reasoning assessable.
 - [Integrate ChatGPT into Quantum Theory (and similar STEM) courses as a supplement to traditional teaching, with students verifying chatbot answers collaboratively](../strategies/integrate-chatgpt-supplement-traditional-quantum-teaching.md)
 - [Explicitly encourage readers to monitor how sources differing in trustworthiness, and reading order, influence their reliability perceptions](../strategies/monitor-source-contrast-and-reading-order.md)
+- [Combine conflicting-document discussion, declarative source knowledge, and contrasting-case practice to train source evaluation](../strategies/combine-conflict-discussion-declarative-knowledge-contrasting-cases.md)
 
 ## Key Sources
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)

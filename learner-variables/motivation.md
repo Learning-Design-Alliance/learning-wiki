@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 236 claims (163 show a difference, 47 mixed, 26 no difference) · 186 studies (58 associational, 49 causal, 34 review, 15 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 46 of 186 report an effect size · 224 claims rest on one study
+> **Evidence** · 244 claims (168 show a difference, 49 mixed, 27 no difference) · 188 studies (60 associational, 49 causal, 34 review, 15 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 48 of 188 report an effect size · 232 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -286,6 +286,14 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Earlier boredom predicts positive changes in later interest from the second measurement point onward](../claims/earlier-boredom-predicts-increased-later-interest.md) [-W] — learners who differ on it differ in outcomes
 - [Higher earlier interest is associated with later decreases in boredom across grades 5–8, at every wave in mathematics and all but the last in German](../claims/earlier-interest-predicts-lower-later-boredom.md) [+M] — learners who differ on it differ in outcomes
 - [Latent boredom means increased and latent interest means declined from grade 5 to grade 8 in both domains](../claims/boredom-increases-interest-declines-grades-5-8.md) [+M] — instruction changes it
+- [Children's Grade 3 task persistence negatively predicts mothers' Grade 4 help and monitoring, but not earlier](../claims/task-persistence-reduces-help-monitoring-grade4.md) [+M] — learners who differ on it differ in outcomes
+- [Children's task persistence positively predicts mothers' later autonomy granting across both grade transitions](../claims/task-persistence-evokes-autonomy-granting.md) [+M] — learners who differ on it differ in outcomes
+- [Effective and ineffective cooperative learning teams differ significantly only in socially oriented engagement, with ineffective teams showing lower socially oriented engagement](../claims/cl-team-engagement-socially-oriented-difference.md) [+M] — instruction changes it
+- [In ineffective CL teams, belongingness goals are negatively related to socially oriented task engagement, and no other goal domain relates significantly to engagement](../claims/belongingness-goals-negative-social-engagement.md) [~M] — learners who differ on it differ in outcomes
+- [Maternal autonomy granting in Grade 2 positively predicts children's task persistence in Grade 3, but not from Grade 3 to Grade 4](../claims/autonomy-grading-predicts-task-persistence-grade2-3.md) [+M] — instruction changes it
+- [Maternal help in Grade 2 negatively predicts children's task persistence in Grade 3, with no prediction from Grade 3 to Grade 4](../claims/maternal-help-predicts-lower-task-persistence.md) [+M] — instruction changes it
+- [Maternal monitoring does not predict children's task persistence at any measurement point](../claims/monitoring-no-effect-task-persistence.md) [-M] — instruction changes it
+- [Weak indirect effects link Grade 2 autonomy granting and help to Grade 4 performance via Grade 3 task persistence; monitoring and reverse indirect effects are not significant](../claims/indirect-effects-via-task-persistence.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

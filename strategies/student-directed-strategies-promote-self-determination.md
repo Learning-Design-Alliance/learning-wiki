@@ -52,6 +52,7 @@ The article recommends that educational efforts to promote self-determination fo
 
 - [Promoting Self-Determination and Self-Advocacy in Students with Disabilities](promoting_self-determination_and_self-advocacy_in_students_with_disabilities.md)
 - [Prioritizing Agency for Students With Disabilities](prioritizing_agency_for_students_with_disabilities.md)
+- [Make reflection on students' goal preferences a recurring element of the curriculum to support cooperative learning](recurring-goal-reflection-in-curriculum.md)
 
 ## Examples
 -

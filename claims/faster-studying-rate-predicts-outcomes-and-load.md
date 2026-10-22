@@ -67,3 +67,5 @@ In the same mixed-effects models with modality as a fixed effect, the studying-r
 - [A forward linear review strategy predicted lower cognitive load regardless of modality, while scanning and slowing predicted higher cognitive load](linear-strategy-lower-cognitive-load.md) — related
 - [Fifth graders study videos significantly faster than content-equivalent illustrated texts during the initial pass](videos-studied-faster-than-illustrated-texts-fifth-graders.md) — related
 - [Fifth graders review videos mostly linearly forward, whereas review of illustrated texts combines varied strategies](review-strategies-vary-by-modality.md) — related
+- [Decoding ability did not predict cognitive load directly or through interaction with modality, contradicting the hypothesis that weak decoding raises reading effort](decoding-no-cognitive-load-effect.md) — related
+- [Fifth and sixth graders showed higher delayed retention and lower cognitive load when learning science from videos than from illustrated texts](video-better-retention-lower-load-classroom.md) — related

@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (15 for, 15 mixed, 1 against) · 35 studies (12 causal, 10 review, 8 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 35 report an effect size · 24 claims rest on one study
+> **Evidence** · 33 claims (15 for, 17 mixed, 1 against) · 36 studies (12 causal, 10 review, 8 quant-synthesis, 3 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 36 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,8 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](../claims/genai-rated-for-ideation-not-time-saving.md) [+W]
 - [High school students taught with self-study followed by discussion achieved higher immediate retention and near-transfer scores than those taught with lecture followed by discussion](../claims/self-study-discussion-immediate-retention-transfer-high-school.md) [+W]
 - [Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address](../claims/flipped-learning-personalised-guidance-gap.md) [~W]
+- [Lecture-based learning events show a clearer decline in EDA across within-event segments than flipped learning events](../claims/lecture-based-events-clearer-eda-decline-across-segments.md) [~W]
+- [Teaching implementation (flipped vs. lecture-based) shows no significant main effect on post-event emotional valence](../claims/no-main-effect-of-teaching-implementation-on-post-event-valence.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

@@ -51,3 +51,4 @@ Three-level random-effects meta-analysis of 163 effect sizes from 33 studies (N 
 - [Performance goals show heterogeneous, near-zero average associations with academic dishonesty](performance-goals-heterogeneous-dishonesty.md) — related
 - [Work-avoidance goals show a small positive association with academic dishonesty](work-avoidance-goals-positive-dishonesty.md) — related
 - [Self-efficacy negatively correlates with cheating, but actual ability does not inversely correlate with dishonesty](self-efficacy-negative-ability-not-correlated-cheating.md) — related
+- [Goal profiles differ between effective and ineffective CL teams: mastery and social responsibility goals prevail in effective teams, entertainment, certificate and work avoidance goals in ineffective teams](cl-goal-profiles-effective-ineffective-teams.md) — related

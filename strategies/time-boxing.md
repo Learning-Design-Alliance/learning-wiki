@@ -59,9 +59,11 @@ Time boxing works because it attacks the two dominant failure modes of self-dire
 6. Weekly, compare estimated vs. actual box lengths and recalibrate — this feedback loop is where time-boxing builds estimation skill.
 
 ## Related Strategies
+
 - [Achievable Micro-Goals](achievable_micro-goals.md) — time boxes are the temporal container; micro-goals define what goes inside
 - [Interleaving](interleaving.md) — adjacent boxes can alternate problem types to combine scheduling structure with desirable difficulty
 - [Check-In](../elements/check-in.md) — the boundary ritual that converts time spent into metacognitive data
+- [Break large homework assignments into smaller, frequent, short-duration daily tasks](frequent-short-homework-tasks.md)
 
 ## Examples
 - **Pomodoro Technique** (Francesco Cirillo, [pomodorotechnique.com](https://pomodorotechnique.com)) — 25/5-minute cycles with task tracking; the most widely adopted personal time-boxing protocol.

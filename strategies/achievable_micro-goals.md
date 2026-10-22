@@ -68,10 +68,12 @@ Micro-goals work because perceived progress is one of the strongest drivers of m
 6. Gradually transfer goal-setting to learners, having them plan and monitor their own sub-goals ([Action Planning](action_planning.md))
 
 ## Related Strategies
+
 - [Action Planning](action_planning.md) — the learner-directed form of the same move; micro-goals are the units of an action plan
 - [Check-ins](../principles/check-ins.md) — the accountability and progress-visibility mechanism that makes micro-goals salient
 - [Chunking](../principles/chunking.md) — the content-side counterpart: micro-goals chunk the *task*, chunking chunks the *material*
 - [Mastery Learning](../elements/adaptive-mastery-learning.md) — a pattern in which micro-goals are gated by demonstrated competence
+- [Break large homework assignments into smaller, frequent, short-duration daily tasks](frequent-short-homework-tasks.md)
 
 ## Examples
 - **[Duolingo](https://www.duolingo.com)** — daily goals, streaks, and unit-by-unit progression turn language learning into a sequence of small, reliably achievable sessions; progress displays register each completion.

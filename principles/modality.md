@@ -66,7 +66,7 @@ sources:
 # Modality Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (9 for, 22 mixed, 4 against) · 30 studies (10 causal, 8 review, 7 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q3` · 8 of 30 report an effect size · 30 claims rest on one study
+> **Evidence** · 36 claims (10 for, 22 mixed, 4 against) · 31 studies (11 causal, 8 review, 7 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q3` · 8 of 31 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -180,6 +180,7 @@ Read against the model on 2026-10-19; the eight bullets that changed it now sit 
 - [Most surveyed Algerian university teachers of English report presenting words and graphics simultaneously](../claims/teachers-report-simultaneous-words-graphics-presentation.md) [~W]: a survey of what teachers say they do (61.9%), with "printed and/or verbal words" run together, so it says nothing about which channel helps.
 - [In one 37-student classroom experiment, recall and retention differ across media combinations](../claims/media-combinations-affect-recall-and-retention.md) [~W]: a conference paper with no effect size, which varied text and image combinations; it does not isolate spoken against printed words.
 - [Screencast design findings](../claims/screencast-design-movement-narration-handwriting.md) [~W]: a review's report of a typology of screencast narration (explicit or implicit) and of a preference for handwriting; no learning outcome compared.
+- [Decoding ability predicted retrieval, transfer, and retention, and interacted with modality so that video retention benefits were largest for children with weaker decoding](../claims/decoding-interaction-modality-retention.md) [+W] — attached 2026-10-22 from Haavisto et al. (2025), which proposed "Incorporate videos into primary science instruction to support learners with weaker reading skills"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

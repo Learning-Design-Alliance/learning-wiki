@@ -65,6 +65,7 @@ Checklists work by converting expert tacit knowledge into an external procedure,
 - [Case-Based Learning](../elements/case-based-learning.md) — authentic site evaluations function as mini-cases
 - [Parents and educators should search multiple sources — app stores, expert review sites, and producers' websites — when selecting literacy apps](cross-source-app-search-strategy.md)
 - [Use corroboration across multiple sources, including lateral reading, when lacking relevant prior knowledge](corroboration-lateral-reading-for-laypersons.md)
+- [Combine conflicting-document discussion, declarative source knowledge, and contrasting-case practice to train source evaluation](combine-conflict-discussion-declarative-knowledge-contrasting-cases.md)
 
 ## Examples
 - **Stanford History Education Group (SHEG) "Civic Online Reasoning" curriculum** ([https://cor.stanford.edu](https://cor.stanford.edu)) — free lessons and assessments in which students evaluate real websites, tweets, and search results; built on the lateral-reading research [Wineburg & McGrew (2019)](https://doi.org/10.1177/016146811912100103).

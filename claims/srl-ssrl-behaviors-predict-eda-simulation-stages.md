@@ -76,3 +76,5 @@ Cross-sectional multimodal study of 62 medical residents in 19 teams completing 
 - [Most groups maintain stable deliberation patterns across triggering events and fail to adapt to emerging regulatory needs](groups-stable-deliberation-patterns-fail-adapt.md) — related
 - [In the beginning-segment Lasso model, participant role accounted for 15% of the final prediction model](participant-role-15-percent-beginning-model.md) — a narrower finding that bears on this claim
 - [In medical simulation training, socially shared regulation relates to subsequent emotional stabilization, with electrodermal activity modeled as a dependent variable](socially-shared-regulation-emotional-stabilization-eda.md) — possibly the same claim (merge candidate)
+- [Lecture-based learning events show a clearer decline in EDA across within-event segments than flipped learning events](lecture-based-events-clearer-eda-decline-across-segments.md) — related
+- [Electrodermal activity during learning events shows no robust association with post-event emotional valence](eda-not-robustly-associated-with-post-event-valence.md) — related

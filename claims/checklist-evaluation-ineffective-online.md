@@ -115,3 +115,4 @@ First-term nursing students in 12 lab sections had one 110-minute library sessio
 - [Gains in source evaluation held regardless of the order in which students took the two assessment forms](gains-robust-to-test-form-order.md) — related
 - [Checklist tool use significantly increases Evaluation processes, an effect not observed in the ChatGPT and human-expert groups](checklist-tools-increase-evaluation-processes.md) — related
 - [High-school students do not spontaneously use contextualization, sourcing, and corroboration heuristics when reading documents](students-not-spontaneously-use-sourcing-heuristics.md) — related
+- [Trained students increased references to the more reliable source in justifications, specifically for the more reliable source](sourcing-intervention-source-references-justifications.md) — related

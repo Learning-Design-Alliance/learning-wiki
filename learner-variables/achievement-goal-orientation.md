@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 59 claims (31 show a difference, 19 mixed, 9 no difference) · 27 studies (10 associational, 6 review, 4 causal, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 12 of 27 report an effect size · 57 claims rest on one study
+> **Evidence** · 60 claims (32 show a difference, 19 mixed, 9 no difference) · 28 studies (11 associational, 6 review, 4 causal, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 12 of 28 report an effect size · 58 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -94,6 +94,7 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Mastery-avoidance goals show no significant association with academic dishonesty](../claims/mastery-avoidance-null-dishonesty.md) [-W] — learners who differ on it differ in outcomes
 - [Performance goals show heterogeneous, near-zero average associations with academic dishonesty](../claims/performance-goals-heterogeneous-dishonesty.md) [~W] — learners who differ on it differ in outcomes
 - [Work-avoidance goals show a small positive association with academic dishonesty](../claims/work-avoidance-goals-positive-dishonesty.md) [+W] — learners who differ on it differ in outcomes
+- [Goal profiles differ between effective and ineffective CL teams: mastery and social responsibility goals prevail in effective teams, entertainment, certificate and work avoidance goals in ineffective teams](../claims/cl-goal-profiles-effective-ineffective-teams.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

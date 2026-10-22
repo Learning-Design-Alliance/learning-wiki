@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 64 claims (45 for, 18 mixed, 1 against) · 49 studies (13 review, 13 associational, 7 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 49 report an effect size · 58 claims rest on one study
+> **Evidence** · 65 claims (46 for, 18 mixed, 1 against) · 50 studies (14 associational, 13 review, 7 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 50 report an effect size · 59 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -119,6 +119,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Autonomous motivation is the strongest positive predictor of hedonic teacher wellbeing (ρ = .83)](../claims/autonomous-motivation-strongest-hedonic-predictor.md) [+W]
 - [Teachers' motivating styles of autonomy support and structure correlate with lower extraneous cognitive load, while chaos and domineering control correlate with higher extraneous load, in a sinusoidal circumplex pattern](../claims/motivating-style-circumplex-correlates-cognitive-load.md) [+W] — attached 2026-10-22 from Evans et al. (2024), which proposed "Circumplex model of teachers' motivating styles organized by need support and directiveness".
 - [The demanding subarea of teacher control shows near-zero or ambiguous correlations with motivation, engagement, and achievement, unlike the domineering subarea](../claims/demanding-subarea-ambiguous-correlates.md) [~W] — attached 2026-10-22 from Evans et al. (2024), which proposed "Circumplex model of teachers' motivating styles organized by need support and directiveness".
+- [Maternal autonomy granting in Grade 2 positively predicts children's task persistence in Grade 3, but not from Grade 3 to Grade 4](../claims/autonomy-grading-predicts-task-persistence-grade2-3.md) [+W] — attached 2026-10-22 from Viljaranta et al. (2017), which proposed "Self-determination theory-based typology of maternal homework assistance: help, monitoring, and autonomy granting"; tests this page's relationship.
 
 ## The evidence by question
 
