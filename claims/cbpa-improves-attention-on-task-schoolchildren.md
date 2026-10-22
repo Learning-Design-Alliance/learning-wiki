@@ -51,3 +51,4 @@ Systematic review (PRISMA) of 20 prospective studies with 6032 students aged 7�
 - [Moderate-to-vigorous intensity active breaks are associated with slightly greater working-memory improvements than moderate intensity, in exploratory meta-regression](mvpa-intensity-moderates-working-memory-effect.md) — related
 - [Two 20-min MVPA bouts in a school morning yielded better selective attention than one bout or remaining seated (B = −0.26; 95% CI (−0.52, −0.00))](two-bouts-better-than-one-selective-attention.md) — a narrower finding that bears on this claim
 - [Classroom active breaks show no reliable effect on mathematical fluency](active-breaks-null-effect-mathematical-fluency.md) — related
+- [Physical activity interventions in childhood improve working memory with a small summary effect, based on very low-certainty evidence](pa-interventions-improve-working-memory-childhood.md) — related

@@ -71,3 +71,4 @@ Authors' summary of the correlational results in the Results section, describing
 - [Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration](vigorous-activity-predicts-o-flu-fle-not-ela.md) — a narrower finding that bears on this claim
 - [In a multiple regression model, vigorous physical activity significantly accounts for 4.5% of variance in overall creativity](vigorous-activity-regression-creativity-variance.md) — a narrower finding that bears on this claim
 - [Anthropometric variables, body composition and hand grip strength show no correlation with creativity components in this sample](anthropometrics-no-correlation-creativity.md) — related
+- [Physical activity interventions in childhood improve creativity with a moderate summary effect, based on low-certainty evidence](pa-interventions-improve-creativity-childhood.md) — related

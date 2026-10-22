@@ -69,3 +69,4 @@ In the same Step 2 analysis, constructs like Imitation and Social Environment th
 - [The combined theory-driven and data-driven validation approach improved the match rate between trace-based SRL processes and think aloud data from 38.97% to 54.24% (training) and 34.54% to 55.09% (testing)](validation-approach-improves-match-rate.md) — related
 - [Expert evaluation refined the draft heuristics around language clarity, usability-accessibility separation, and meaningful data interpretation](expert-evaluation-refined-lxd-heuristics-two-rounds.md) — related
 - [Prompting is a form of writing: task definition is a constitutive element of knowledge production, not a neutral procedural step](prompting-as-writing-task-definition-constitutive.md) — related
+- [Contemporary SRL models largely omit the broader social context and implicitly assume all learners are available to learn](srl-models-assume-availability-omit-context.md) — related

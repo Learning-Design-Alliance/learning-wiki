@@ -53,3 +53,4 @@ Synthesis of drawing and survey findings across the four conditions in the 33-te
 - [Participants rated the arithmetic-error peer agent more harshly than the conceptual-error peer agent, calibrating trust by error observability rather than severity](arithmetic-errors-rated-harsher-than-conceptual-errors.md) — related
 - [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related
 - [Manipulating anthropomorphism shows no clear causal effect on trust in controlled post-generative-AI studies, though long-term use and cue type condition its effects](anthropomorphism-no-clear-causal-effect-on-trust.md) — related
+- [Strength and speed of social schema activation depend on the number and strength of social cues, schema development, and material modality, dynamics, and interactivity](schema-activation-strength-cue-number-schema-development.md) — related

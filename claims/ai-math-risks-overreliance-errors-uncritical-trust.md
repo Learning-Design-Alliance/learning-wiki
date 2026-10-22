@@ -202,3 +202,4 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [A general-purpose LLM used as a tutor without pedagogical prompting overwhelmingly provides high assistance, with more than 95% of responses classified as Explaining or Solving](default-llm-tutoring-high-assistance-concentration.md) — related
 - [Generative AI generates responses based on probability and pattern prediction, not reasoning or understanding](genai-probabilistic-prediction-not-reasoning.md) — related
 - [The IPS evidence base predominantly addresses information search and selection, with library and ecological-validity biases limiting generalizability to broader IPS competence](ips-evidence-base-search-selection-bias.md) — related
+- [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](ai-inversion-effects-overreliance-reduce-learning.md) — related

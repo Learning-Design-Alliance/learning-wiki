@@ -72,3 +72,9 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](vr-radiation-visualization-higher-understanding-ratings.md) — related
 - [VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)](vr-training-higher-safety-awareness-ratings.md) — related
 - [Realistic visual detail can raise retention despite higher extraneous load ratings (the realism paradox), with benefits tied to test objectives](realism-paradox-detail-retention-load.md) — reports the opposite
+- [Immersion has a medium-sized effect on physical presence, with user tracking, stereoscopic visuals, and wider fields of view the most important features](immersion-medium-effect-physical-presence.md) — related
+- [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — a narrower finding that bears on this claim
+- [Realism effects on learning depend on knowledge type: advantages for surface learning, disadvantages for abstract content](knowledge-type-moderates-realism-effects.md) — related
+- [Learners' spatial ability moderates whether realistic visualizations help or hinder learning](spatial-ability-moderates-realism-effects.md) — related
+- [Test type determines realism benefits: realistic detail aids retention as retrieval cues, schematic visuals aid transfer](test-type-moderates-realism-benefits.md) — related
+- [Measures of presence, enjoyment, entitativity, and realism increased over a 10-week networked-VR course, suggesting XRCL advantages may grow as participants adapt](xrcl-advantages-increase-with-adaptation.md) — related

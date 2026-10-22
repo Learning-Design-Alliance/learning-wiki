@@ -261,3 +261,4 @@ This study found that the seductive details effect was not uniform: readers with
 - [Redundant and decorative elements, including emotional design embellishments, can enhance learning despite constituting potential extraneous load](emotional-design-redundancy-enhance-learning.md) — reports the opposite
 - [Realistic visual detail can raise retention despite higher extraneous load ratings (the realism paradox), with benefits tied to test objectives](realism-paradox-detail-retention-load.md) — related
 - [Weeding seductive details fostered learning only in a mandatory (high-reward) learning situation, not a voluntary one](weeding-effective-only-mandatory-learning.md) — related
+- [Visual sophistication of emotional design materials varies substantially and may act as a boundary condition for emotional design effects](design-sophistication-boundary-condition.md) — related

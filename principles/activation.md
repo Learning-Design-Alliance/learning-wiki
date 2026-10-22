@@ -28,7 +28,7 @@ sources:
 # Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (10 for, 13 mixed, 2 against) · 28 studies (11 causal, 7 review, 6 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 28 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (10 for, 13 mixed, 2 against) · 29 studies (11 causal, 8 review, 6 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 

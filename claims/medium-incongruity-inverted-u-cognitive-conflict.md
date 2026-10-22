@@ -53,3 +53,4 @@ Theoretical proposal in the Motivational processes section, displayed in Fig. 3 
 - [Low and medium Knowledge Confidence heighten curiosity, contradicting the predicted inverted U-shaped relationship](low-medium-knowledge-confidence-heighten-curiosity.md) — related
 - [Backward curiosity may be an optimal starting point for promoting student learning](backward-curiosity-promotes-learning.md) — related
 - [Information seeking follows a cost–benefit analysis of resolving curiosity](curiosity-cost-benefit-information-seeking.md) — related
+- [Specific and diversive curiosity are labels on a continuum of information generality within one knowledge-gap-driven process, not categorically distinct types](specific-diversive-curiosity-continuum.md) — related

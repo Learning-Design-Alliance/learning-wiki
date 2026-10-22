@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 230 claims (158 show a difference, 47 mixed, 25 no difference) · 183 studies (56 associational, 49 causal, 34 review, 14 quant-synthesis, 14 theoretical, 10 qualitative, 6 design), `q1`–`q4` · 45 of 183 report an effect size · 218 claims rest on one study
+> **Evidence** · 233 claims (161 show a difference, 47 mixed, 25 no difference) · 185 studies (57 associational, 49 causal, 34 review, 15 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 45 of 185 report an effect size · 221 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -268,7 +268,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [External rewards can undermine intrinsic motivation for learners who are already motivated](../claims/external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) [~M] — an instructional effect differs with it
 - [Iterative curiosity–resolution cycles can build knowledge networks and a foundation for individual interest](../claims/curiosity-resolution-cycle-individual-interest.md) [+M] — instruction changes it
 - [Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change](../claims/mental-simulation-training-raises-reading-motivation.md) [+M] — instruction changes it
-- [Teachers' load-reducing strategies and motivating styles correlate with lower cognitive load and higher motivation, engagement, and achievement (Evans et al., 2024)](../claims/load-reducing-teaching-strategies-motivation-engagement.md) [+M] — instruction changes it
+- [Teachers' load-reducing strategies correlate with lower cognitive load and higher motivation, engagement, and achievement, and their motivating styles with lower load and higher motivation and engagement (Evans et al., 2024)](../claims/load-reducing-teaching-strategies-motivation-engagement.md) [+M] — instruction changes it
 - [Tracing and pointing does not significantly raise intrinsic motivation, though the point estimate resembles prior meta-analytic estimates](../claims/tracing-pointing-intrinsic-motivation-null.md) [-M] — instruction changes it
 - [Meta-analytic longitudinal evidence shows achievement affects later motivation about twice as strongly as motivation affects later achievement, with both pooled effects small](../claims/scharmer-pooled-achievement-motivation-effects-twice.md) [+M] — learners who differ on it differ in outcomes
 - [During inquiry-informed learning, students' interest, self-efficacy, and belonging were increasingly coordinated over time](../claims/interest-self-efficacy-belonging-coordinated-over-time.md) [+M] — instruction changes it
@@ -280,6 +280,9 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [In the HghLBO profile, boredom and enjoyment lose nearly all predictive power for persistence, though they predict persistence in full-sample and multigroup analyses](../claims/boredom-enjoyment-prediction-lost-in-hghlbo.md) [~M] — learners who differ on it differ in outcomes
 - [The effect of a growth mindset intervention does not interact with knowledge type for motivation, cognitive load, or recall](../claims/no-knowledge-type-mindset-interaction.md) [-M] — instruction changes it
 - [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](../claims/mindset-belief-fostered-without-outcome-change.md) [+M] — instruction changes it
+- [Extraneous cognitive load is negatively associated with autonomous motivation and positively with disengagement, while intrinsic load is negatively associated with motivation, engagement, and achievement](../claims/cognitive-load-negatively-associated-motivation-engagement.md) [+M] — instruction changes it
+- [Teachers' load-reducing instructional strategies predict lower extraneous and intrinsic cognitive load and have direct positive associations with motivation and engagement](../claims/load-reduction-instruction-predicts-lower-load-and-motivation.md) [+M] — instruction changes it
+- [The CONIC model proposes conscientiousness and interest can partly compensate for one another in explaining academic effort and achievement](../claims/conic-compensation-conscientiousness-interest.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

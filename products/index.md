@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1834 entries** · 0 stable · 1834 in review · 0 drafts
+**1835 entries** · 0 stable · 1835 in review · 0 drafts
 
 ---
 
@@ -131,6 +131,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### B {: #letter-b }
 
 * [Bachelor's Degree Attainment Index (Bachelor's DAI) and Direct Bachelor's DAI](bachelors-degree-attainment-index-bachelors-dai-and-direct-bachelors-dai.md) - These are UChicago Consortium measurement metrics estimating the proportion of a ninth-grade cohort that earns a bachelor's degree, distinguishing direct four-year pathways from pathways involving delayed entry or two-year colleges.
+* [Balance Board Math (BBM)](balance-board-math-bbm.md) - Balance Board Math is a sensor-equipped balance-board environment and interface developed by Sofia Tancredi's design-based research project to let children explore mathematical functions through rocking movements, real-time graphs, colors, and tones.
 * [Balanced 192-text evaluation dataset of EFL, professional, AI-generated, and hybrid texts](balanced-192-text-evaluation-dataset-of-efl-professional-ai-generated-and-hybrid-texts.md) - A research dataset created by Mohammad Hadra et al.
 * [Balanced Leadership® professional development](balanced-leadership-professional-development.md) - A McREL International professional-development programme for current and aspiring school leaders, delivered through facilitated training with optional coaching and online support to develop leadership actions and behaviours.
 * [Balloons: A Concepts About Print Assessment](balloons-a-concepts-about-print-assessment.md) - A locally constructed, criterion-referenced 17-item assessment in the Kindergarten Assessment Portfolio used by program teachers to measure kindergarten pupils' concepts about print.

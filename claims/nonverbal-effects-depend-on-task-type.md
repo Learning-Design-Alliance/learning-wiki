@@ -48,3 +48,4 @@ The review reports, citing Baylor and Kim (2008), that "facial expressions were 
 - [Pedagogical agents significantly improve learners' interest (g = 0.30), with the effect depending on the type of control condition](pa-improve-interest.md) — related
 - [Facial expression was the most common nonverbal attention-getting device, and the open hand the most common hand gesture](facial-expression-most-common-nonverbal-device.md) — related
 - [Learning outcomes attributed to study away are most commonly psychosocial or attitudinal](study-away-outcomes-psychosocial-attitudinal.md) — related
+- [Emotionally expressive gestures are associated with better retention than neutral gestures, and gesture and facial expression effects are complementary](expressive-gestures-better-retention-than-neutral.md) — related

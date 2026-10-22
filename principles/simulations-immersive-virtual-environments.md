@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 98 claims (37 for, 53 mixed, 8 against) · 68 studies (20 causal, 17 review, 11 quant-synthesis, 9 qualitative, 6 theoretical, 4 design, 1 associational), `q1`–`q4` · 18 of 68 report an effect size · 93 claims rest on one study
+> **Evidence** · 99 claims (37 for, 54 mixed, 8 against) · 69 studies (20 causal, 17 review, 11 quant-synthesis, 9 qualitative, 7 theoretical, 4 design, 1 associational), `q1`–`q4` · 18 of 69 report an effect size · 94 claims rest on one study
 
 ## Conditional relationship
 
@@ -332,6 +332,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](../claims/immersion-principle-no-vr-benefit.md) [-W]
 - [Performance during the virtual pipetting lesson predicts real-life transfer test performance](../claims/in-lesson-performance-predicts-real-life-transfer.md) [+W]
 - [In Desktop-VR, interaction format (object movement vs. camera movement vs. no interaction) showed no significant main effect on learning outcomes](../claims/no-main-effect-interaction-format-desktop-vr.md) [~W]
+- [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](../claims/immersive-lessons-small-advantage-presence-not-sufficient.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

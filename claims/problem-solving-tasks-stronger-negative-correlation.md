@@ -43,6 +43,7 @@ Task-type moderator analysis (Table 1: problem solving k = 38, r = −.533; word
 
 
 ## Related Claims
+
 - [Effort-rating item wording changes what learners reflect on: requirement wording correlates negatively and engagement wording positively with judgments of learning](effort-item-wording-flips-correlation-direction.md) — related
 - [In the multivariate meta-regression, goal-driven manipulation, judgment timing, and task type remain significant moderators](meta-regression-unique-moderators.md) — a broader claim this one bears on
 - [Effort measurement type moderates the correlation: self-agency ratings show a positive association and subjective ratings a stronger negative one than objective measures](effort-measure-type-moderates-correlation.md) — related
@@ -52,3 +53,4 @@ Task-type moderator analysis (Table 1: problem solving k = 38, r = −.533; word
 - [Effort and monitoring judgments show a medium negative correlation (r = −.355) during learning](negative-effort-monitoring-correlation-meta-analysis.md) — related
 - [Effort ratings correlate negatively with judgments of learning (r = −0.355), but the correlation disappears under a goal-driven interpretation of effort](negative-effort-jol-correlation-meta-analysis.md) — related
 - [Mental effort and judgments of learning show a medium-sized negative correlation, moderated by regulation mode and task type](mental-effort-jol-negative-correlation-moderators.md) — a broader claim this one bears on
+- [No moderator (education, effort measurement, wording, timing, task type, difficulty) significantly changed the model's paths](no-significant-moderators-of-effort-monitoring-outcome-paths.md)

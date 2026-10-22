@@ -98,3 +98,4 @@ Narrative review attributing to Li, Kizilcec, Bailenson, and Ju (2016) an examin
 - [The authors argue instructor presence is unlikely to improve learning outcomes unless the instructor's visible behavior provides information learners can directly use for the task](instructor-presence-requires-usable-task-relevant-information.md) — related
 - [Fortnightly web conferences with open-ended discussion supported students' academic and social engagement and community formation](web-conferences-support-online-community.md) — related
 - [Review reports students did not recognize the key points an exemplary lecturer presented in a proof](students-did-not-recognize-lecture-proof-key-points.md) — related
+- [Social presence from social cues can improve task performance (social facilitation) but may impair performance on complex tasks (social inhibition)](social-facilitation-social-presence-performance.md) — related

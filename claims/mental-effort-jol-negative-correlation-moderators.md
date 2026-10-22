@@ -62,6 +62,7 @@ Moderator finding from the same meta-analysis as summarized in the editorial: ta
 
 
 ## Related Claims
+
 - [Effort appraisals correlate negatively with monitoring judgments: high mental effort is associated with poorer performance judgments](effort-appraisals-negative-correlation-monitoring.md) — a broader claim this one bears on
 - [Effort measurement type moderates the correlation: self-agency ratings show a positive association and subjective ratings a stronger negative one than objective measures](effort-measure-type-moderates-correlation.md) — related
 - [Effort ratings correlate negatively with judgments of learning (r = −0.355), but the correlation disappears under a goal-driven interpretation of effort](negative-effort-jol-correlation-meta-analysis.md) — possibly the same claim (merge candidate)
@@ -70,3 +71,6 @@ Moderator finding from the same meta-analysis as summarized in the editorial: ta
 - [In the multivariate meta-regression, goal-driven manipulation, judgment timing, and task type remain significant moderators](meta-regression-unique-moderators.md) — a narrower finding that bears on this claim
 - [Perceived mental effort serves as a cue for monitoring judgments, which mediate the effort–outcome relation (David et al., 2024 meta-analysis)](david-2024-effort-cue-monitoring-meta-analysis.md) — related
 - [Task type moderates the correlation: problem-solving tasks show a stronger negative association than word/paired-associate tasks](problem-solving-tasks-stronger-negative-correlation.md) — a narrower finding that bears on this claim
+- [Prior meta-analysis found a negative medium-sized effort–monitoring correlation (r = -0.35), attenuated under goal-driven manipulations](baars-2020-effort-monitoring-correlation-negative-medium.md) — a narrower finding that bears on this claim
+- [Perceived mental effort is negatively associated with monitoring judgments (β = -0.19) in a meta-analytic structural equation model](mental-effort-negatively-related-to-monitoring-judgments-masem.md) — a narrower finding that bears on this claim
+- [No moderator (education, effort measurement, wording, timing, task type, difficulty) significantly changed the model's paths](no-significant-moderators-of-effort-monitoring-outcome-paths.md)

@@ -68,3 +68,5 @@ The same subgroup analysis showed a significant spelling transfer effect for low
 - [High baseline word-reading performers also benefit from the embodied learning intervention in letter-sound knowledge and spelling](high-performers-benefit-embodied-letter-sound-spelling.md) — related
 - [A 4-week embodied learning intervention with movement-phonemes improves grade 1 children's letter-sound knowledge more than regular classroom teaching](movement-phonemes-improve-letter-sound-knowledge-grade-1.md) — a broader claim this one bears on
 - [Embodied learning gains do not differ between low and high baseline performers within the movement group](no-low-high-performer-difference-within-move.md) — related
+- [Eight weeks of embodied letter-sound teaching produced no transfer effect on word reading in 5–6-year-olds](embodied-phonics-no-word-reading-transfer.md) — related
+- [Whole-body movement teaching improves matching of conditional letter-sounds to letters at retention compared with non-motor teaching](whole-body-improves-conditional-sound-matching-retention.md) — related

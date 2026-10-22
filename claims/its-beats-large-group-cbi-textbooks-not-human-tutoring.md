@@ -70,3 +70,4 @@ Comparison-treatment moderator analysis (Table 1). Small-group human instruction
 - [The measured advantage of computer-based instruction over conventional teaching shrinks when the same teacher teaches both versions](cbi-advantage-shrinks-same-teacher-comparisons.md) — related
 - [AutoTutor's learning gains are virtually equivalent to those of 1-to-1 human tutoring in direct comparisons](autotutor-gains-equivalent-to-human-tutoring.md) — a narrower finding that bears on this claim
 - [Intelligent tutoring systems with dynamic student modeling increase learning gains over regular instruction](its-dynamic-modeling-effective.md) — possibly the same claim (merge candidate)
+- [ITS augmentation: meta-analyses find medium to large learning benefits of ITS over unsupported learning and small to medium gains over less adaptive computer-assisted learning](its-augmentation-benefits-over-unsupported-learning.md) — related

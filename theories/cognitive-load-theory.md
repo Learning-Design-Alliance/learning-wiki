@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 96 claims (59 for, 28 mixed, 9 against) · 81 studies (31 causal, 23 review, 14 theoretical, 11 quant-synthesis, 2 design), `q1`–`q4` · 14 of 81 report an effect size · 85 claims rest on one study
+> **Evidence** · 100 claims (60 for, 30 mixed, 10 against) · 84 studies (31 causal, 23 review, 15 theoretical, 12 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 15 of 84 report an effect size · 89 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -166,6 +166,10 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Task difficulty shows an inverted U-shaped relation with cognitive strategy use and a positive linear relation with metacognitive strategy use, mediated by cognitive load (Seufert et al., 2024)](../claims/task-difficulty-inverted-u-strategy-use.md) [~W]
 - [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](../claims/animations-transience-working-memory-load.md) [+W]
 - [In the new questionnaire, ICL and ECL correlate positively while both correlate negatively with GCL](../claims/icl-ecl-positive-gcl-negative-correlations.md) [+M] — attached 2026-10-22 from Krieglstein et al. (2023), which proposed "Three types of cognitive load within Cognitive Load Theory: intrinsic, extraneous, and germane".
+- [Gesturing while explaining problem solving reduces cognitive load](../claims/gesturing-reduces-cognitive-load.md) [+W]
+- [The model's assumed negative correlation between cognitive load and learner resources was not supported; the overall correlation was positive](../claims/load-resources-negative-correlation-not-supported.md) [-W]
+- [For metacognitive strategy use, resources competitively mediate the linear effect and cognitive load partially mediates the linear and mediates the quadratic relationship](../claims/mediation-metacognitive-strategies-load-resources.md) [~W]
+- [Learning with more than two external representations in STEM has advantageous effects on students' cognitive load and performance compared to learning with two representations.](../claims/more-than-two-representations-benefit-load-and-performance.md) [~W]
 
 ## The evidence by question
 

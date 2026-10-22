@@ -67,3 +67,4 @@ Random-effects moderator analysis of between-subjects effects comparing system-p
 - [In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes](modality-effect-stronger-in-virtual-reality.md) — related
 - [Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent problem-solving efficiency, except under high visual-search conditions without attention cues](dual-mode-worked-example-presentation.md) — related
 - [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — related
+- [The modality effect may disappear or reverse for lengthy, complex spoken text](modality-effect-reversal-complex-spoken-text.md) — related

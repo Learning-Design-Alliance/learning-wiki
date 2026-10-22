@@ -46,3 +46,4 @@ The editorial reports, citing Schel and Crone (2013), a go/nogo study with a lar
 - [Age correlates with detection performance: hits and d′ increase and false alarms decrease with age](age-correlates-detection-performance.md) — related
 - [Emotion regulation and cognitive control discrepancy on emotional go/no-go decreases with age](emotion-cognitive-control-discrepancy-decreases-age.md) — related
 - [Task-demand clusters differ in useful age ranges, with perceptual inhibition developing earliest and motivational inhibition latest](inhibitory-control-task-demands-developmental-ordering.md) — related
+- [Positively emotional images in learning materials produce a learning effect and increase learner satisfaction compared to negative images](emotional-design-positive-images-learning.md) — related

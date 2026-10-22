@@ -48,3 +48,5 @@ The review reports, citing Austin et al. (2018), an experiment with 125 adults (
 - [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — reports the opposite
 - [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — a broader claim this one bears on
 - [Observing gestures embedded in instruction aids learning, especially when gestures convey a different strategy than speech](observing-gestures-in-instruction-aids-learning.md) — possibly the same claim (merge candidate)
+- [Emotionally expressive gestures are associated with better retention than neutral gestures, and gesture and facial expression effects are complementary](expressive-gestures-better-retention-than-neutral.md) — related
+- [Gesture–speech incongruency disrupts multimodal processing, increasing response times and error rates](gesture-speech-incongruency-disrupts-processing.md) — related

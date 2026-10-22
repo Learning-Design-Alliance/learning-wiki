@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 92 claims (57 show a difference, 15 mixed, 20 no difference) · 54 studies (21 associational, 11 causal, 11 review, 7 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 14 of 54 report an effect size · 90 claims rest on one study
+> **Evidence** · 96 claims (60 show a difference, 15 mixed, 21 no difference) · 56 studies (21 associational, 11 causal, 11 review, 9 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 15 of 56 report an effect size · 94 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -129,6 +129,10 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Inhibitory control is moderately positively correlated with mathematical ability in elementary school children (r = 0.19)](../claims/inhibitory-control-math-ability-correlation-elementary.md) [+W] — learners who differ on it differ in outcomes
 - [Inhibitory control task does not significantly moderate the correlation overall, though the Random generation task shows a stronger association than Go/No-go and other tasks](../claims/task-moderation-random-generation-stronger.md) [~M] — an instructional effect differs with it
 - [The inhibitory control–mathematical ability correlation does not differ across domains of mathematical ability](../claims/no-domain-moderation-inhibitory-control-math.md) [-M] — an instructional effect differs with it
+- [Executive functions in childhood benefit from moderate-to-vigorous intensity and aerobic physical activity interventions](../claims/mvpa-aerobic-pa-benefits-executive-functions.md) [+W] — instruction changes it
+- [Music interventions show moderately strong evidence for EF change including inhibitory control, possibly stronger with greater intensity and longevity](../claims/music-interventions-preschool-ef-efficacy.md) [+M] — instruction changes it
+- [Physical activity interventions in childhood show no overall benefit for executive functions or academic achievement](../claims/pa-interventions-no-overall-benefit-ef-achievement.md) [-W] — instruction changes it
+- [SEL programs with explicit skill teaching and regular practice can promote preschool EF, possibly including inhibitory control](../claims/sel-programs-preschool-ef-efficacy.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

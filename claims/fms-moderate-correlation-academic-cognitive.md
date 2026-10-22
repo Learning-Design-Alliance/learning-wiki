@@ -53,3 +53,4 @@ Multilevel null mixed-effects meta-analysis of 1110 effect sizes from 143 sample
 - [Automaticity of handwriting predicts orthographic skills even when visual-motor integration is included in the model](automaticity-predicts-orthographic-skills.md) — related
 - [Fine motor skills correlate more strongly with overall academic-cognitive skills (r = .302) than gross motor skills (r = .170) in children aged 3–16](fims-stronger-than-gms-overall-academic-cognitive.md) — a narrower finding that bears on this claim
 - [Early fine motor skills predict later arithmetic skills in most longitudinal studies, but not when executive functions are controlled](fms-predict-later-arithmetic.md) — related
+- [Children's baseline motor skills do not correlate with reading-related outcomes or with their use of movement when naming letter-sounds](motor-skills-no-correlation-reading-outcomes.md) — reports the opposite

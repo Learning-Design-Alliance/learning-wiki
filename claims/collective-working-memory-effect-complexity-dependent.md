@@ -3,6 +3,7 @@ type: claim
 title: "The collective working memory effect: group learning is more efficient than individual learning for high-complexity tasks, but individual learning is more efficient for low-complexity tasks"
 description: "The collective working memory effect: group learning is more efficient than individual learning for high-complexity tasks, but individual learning is more efficient for low-complexity tasks"
 id: collective-working-memory-effect-complexity-dependent
+aliases: [collective-working-memory-effect-load-interaction]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 3
+  - id: fred-paas-john-sweller-2011
+    resource: "https://doi.org/10.1007/s10648-011-9179-2"
+    title: "Fred Paas & John Sweller. (2011). An Evolutionary Upgrade of Cognitive Load Theory: Using the Human Motor System and Collaboration to Support the Learning of Complex Cognitive Tasks. Educ Psychol Rev (2012) 24:27–45. https://doi.org/10.1007/s10648-011-9179-2"
+    author: "Fred Paas & John Sweller"
+    q: 3
+    i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The collective working memory effect: group learning is more efficient than individual learning for high-complexity tasks, but individual learning is more efficient for low-complexity tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Evidence** · 2 studies · 2 theoretical `r3` · `q2`–`q3`
 
 ## Subclaims
+
 `q2 i?` For high-complexity tasks, group members learn more efficiently than individual learners, while for low-complexity tasks individual learning is more efficient. [→ Kirschner 2018](#kirschner-2018)
+
+`q3 i?` The collective working memory effect: collaborating learners gain from each other's working memory capacity, and the efficiency advantage of collaboration over individual learning depends on task cognitive load, with an interaction such that collaboration helps under high load and individual learning helps under low load. [→ Fred Paas & John Sweller 2011](#fred-paas-john-sweller-2011)
 
 ## Evidence
 
@@ -39,7 +51,18 @@ A theoretically derived hypothesis that the article reports was experimentally c
 
 > "for high-complexity tasks, group members would learn in a more efficient way - both in terms of the learning process and outcomes - than individual learners, while for low-complexity tasks, individual learning would be more efficient"
 
+### Fred Paas & John Sweller 2011
+
+Fred Paas & John Sweller. (2011). An Evolutionary Upgrade of Cognitive Load Theory: Using the Human Motor System and Collaboration to Support the Learning of Complex Cognitive Tasks. Educ Psychol Rev (2012) 24:27–45. https://doi.org/10.1007/s10648-011-9179-2
+
+`q3 · i?` · `theoretical · r3`
+
+Cognitive load experiments comparing group versus individual learning on high- and low-load tasks confirmed the hypothesized interaction: for high-load tasks the benefits of distributing load exceeded coordination costs, while for low-load tasks "inter-individual communication and coordination of information were unnecessary" and individual learners showed higher learning efficiency.
+
+> "In general, the results of Kirschner et al. experiments confirmed this interaction hypothesis. For learning tasks imposing a high load, individual learners did not have sufficient processing capacity to successfully process the information."
+
 ## Discussion
+
 
 
 ## Related Claims
@@ -51,3 +74,5 @@ A theoretically derived hypothesis that the article reports was experimentally c
 - [Unrecognised prior-knowledge asymmetry and absent prior group experience negatively affect learning in complex collaborative tasks](knowledge-asymmetry-prior-experience-harm-collaboration.md) — related
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — related
 - [Collaborating learners learn more effectively and efficiently than individual learners on cognitively challenging tasks, but group work becomes disadvantageous on cognitively unchallenging tasks](task-complexity-moderates-group-learning-advantage.md) — possibly the same claim (merge candidate)
+- [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — related
+- [Experienced groups show higher instructional efficiency than inexperienced groups in the delayed retention test after collaborative learning](zambrano-2019-experienced-groups-more-efficient-retention.md) — related

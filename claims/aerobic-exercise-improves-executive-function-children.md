@@ -84,3 +84,5 @@ Cross-over trial in which 552 children aged 8–12 were randomized by school int
 - [Metacognition interventions positively impact children's executive functions, a novel outcome in this literature](metacognition-interventions-improve-executive-functions.md) — related
 - [In a randomized three-arm trial, medication but not physical exercise or neurofeedback was related to improved response inhibition and reduced theta power in children with ADHD](medication-not-exercise-improved-response-inhibition-janssen.md) — related
 - [Meta-regression identifies exercise type, age, and study quality as significant moderators of chronic exercise effects on executive function](meta-regression-moderators-chronic-exercise-ef.md) — related
+- [Music interventions show moderately strong evidence for EF change including inhibitory control, possibly stronger with greater intensity and longevity](music-interventions-preschool-ef-efficacy.md) — related
+- [Executive functions in childhood benefit from moderate-to-vigorous intensity and aerobic physical activity interventions](mvpa-aerobic-pa-benefits-executive-functions.md) — related

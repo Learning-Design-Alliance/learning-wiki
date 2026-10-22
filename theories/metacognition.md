@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 427 claims (204 for, 202 mixed, 21 against) · 216 studies (102 causal, 47 associational, 25 review, 16 theoretical, 11 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 78 of 216 report an effect size · 420 claims rest on one study
+> **Evidence** · 432 claims (206 for, 205 mixed, 21 against) · 218 studies (102 causal, 48 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 79 of 218 report an effect size · 425 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -470,6 +470,11 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Situation-model-approach interventions show a medium-sized positive effect on metacomprehension accuracy and a small direct effect on comprehension](../claims/situation-model-interventions-metacomprehension-effect.md) [+W]
 - [Explicit strategy instruction, unlike implicit strategy instruction, is associated with a gain in student performance](../claims/explicit-strategy-instruction-associated-with-performance-gain.md) [+W] — attached 2026-10-22 from Charlotte Dignath et al. (2021), which proposed "Three levels of strategy instruction: blind, informed, and self-control training (WWW&H rule)".
 - [Retrieval practice mainly improves metamemory whereas generative activities mainly improve metacomprehension](../claims/metamemory-versus-metacomprehension-indirect-effects.md) [~W]
+- [Perceived mental effort is negatively associated with monitoring judgments (β = -0.19) in a meta-analytic structural equation model](../claims/mental-effort-negatively-related-to-monitoring-judgments-masem.md) [~W] — attached 2026-10-22 from Louise David et al. (2024), which proposed "Cue-utilization framework for metacognitive monitoring in self-regulated learning"; tests this page's relationship.
+- [Monitoring judgments are positively associated with learning outcomes (β = 0.29)](../claims/monitoring-judgments-positively-related-to-learning-outcomes-masem.md) [+M] — attached 2026-10-22 from Louise David et al. (2024), which proposed "Cue-utilization framework for metacognitive monitoring in self-regulated learning"; tests this page's relationship.
+- [Perceived mental effort has a negative indirect association with learning outcomes, mediated by monitoring judgments (β = -0.05)](../claims/mental-effort-indirect-negative-effect-on-outcomes-via-monitoring.md) [+W] — attached 2026-10-22 from Louise David et al. (2024), which proposed "Cue-utilization framework for metacognitive monitoring in self-regulated learning"; tests this page's relationship.
+- [Prior meta-analysis found a negative medium-sized effort–monitoring correlation (r = -0.35), attenuated under goal-driven manipulations](../claims/baars-2020-effort-monitoring-correlation-negative-medium.md) [~W]
+- [Perceived task difficulty relates to metacognitive strategy use only linearly, with no significant quadratic component](../claims/task-difficulty-linear-metacognitive-strategies.md) [~W]
 
 ## The evidence by question
 

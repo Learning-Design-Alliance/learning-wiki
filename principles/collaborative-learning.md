@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 77 claims (27 for, 46 mixed, 4 against) · 80 studies (18 causal, 15 review, 14 theoretical, 10 quant-synthesis, 10 associational, 9 qualitative, 4 design), `q1`–`q4` · 11 of 80 report an effect size · 71 claims rest on one study
+> **Evidence** · 78 claims (27 for, 47 mixed, 4 against) · 81 studies (18 causal, 15 review, 15 theoretical, 10 quant-synthesis, 10 associational, 9 qualitative, 4 design), `q1`–`q4` · 11 of 81 report an effect size · 72 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,7 @@ Claims this page cites that do not change the model above. Each was read against
 - [Emergent group understanding is an empirical phenomenon arising from the interplay of a social object and a technology object, revealed by two subprocesses: spontaneous information provision and setting localized goals](../claims/emergent-group-understanding-phenomenon.md) [~W] — read 2026-10-19: a design-based interaction analysis naming a process to look for; no comparison or learning outcome.
 - [Pairs managed mutual awareness through spatial and temporal affordances and developed attention-getting protocols finer-grained than turn-taking](../claims/awareness-attention-management-shared-workspaces.md) [~W] — read 2026-10-19: qualitative video analysis of six pairs; tells an observer that turn counts miss how pairs coordinate, but changes no decision.
 - [Dyads collaborating via flexible written paper media exhibit invariant communicative practices across media, participants and topics](../claims/invariant-communicative-practices-artifact-mediated-collaboration.md) [~W] — read 2026-10-19: same six-pair study; a description of communicative practice, no learning outcome.
+- [Face-to-face collaboration scripts focus on individual knowledge acquisition activities, while computer-mediated scripts focus on communicative-coordinative processes](../claims/f2f-vs-cscl-script-focus-difference.md) [~W] — attached 2026-10-22 from Kollar et al. (2006), which proposed "Design collaboration scripts that support both participation and coordination and induce individual knowledge acquisition and metacognition".
 
 ## Objective and learner-valued goal
 

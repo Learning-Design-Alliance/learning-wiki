@@ -141,6 +141,8 @@ def run(skip_doi: bool = False) -> dict:
         "trust": lint.check_stable_unverified,
         "manifest": lint.check_manifest_integrity,
         "type_banner": lint.check_type_banner,
+        # a batch can file a page in the wrong kind; the batch guard reads this count (2026-10-22)
+        "misfiled_kind": lint.check_misfiled_kind,
     }
     lint_results = {name: fn(pages) for name, fn in lint_checks.items()}
 

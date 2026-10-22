@@ -108,3 +108,4 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value](student-concerns-ai-videos-quality-interaction-value.md) — related
 - [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](awe-limited-feedback-depth-accuracy-complex-writing.md) — related
 - [ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details](chatgpt-fabricates-references.md) — related
+- [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](ai-inversion-effects-overreliance-reduce-learning.md) — related

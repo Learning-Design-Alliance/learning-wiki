@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 79 claims (36 for, 41 mixed, 2 against) · 60 studies (33 causal, 10 quant-synthesis, 10 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 17 of 60 report an effect size · 70 claims rest on one study
+> **Evidence** · 81 claims (36 for, 43 mixed, 2 against) · 62 studies (33 causal, 11 review, 10 quant-synthesis, 3 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 17 of 62 report an effect size · 72 claims rest on one study
 
 ## Description and scope
 
@@ -144,6 +144,8 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [The mental integration task showed no general advantage of the dynamic over the static visual design in overall accuracy](../claims/no-general-dynamic-advantage-mental-integration.md) [~W]
 - [A tracing strategy combining segmentation and prediction produced more efficient learning than a non-interactive instructional condition](../claims/tracing-strategy-segmentation-prediction-efficiency.md) [~W]
 - [Textual slide content yields a small comprehension advantage over pictorial slide content in speeded audio-visual lectures, with no effect of speed](../claims/textual-beats-pictorial-slides-speeded-lectures.md) [~W]
+- [Animations can be superior to static graphics for learning tasks involving human motor movement](../claims/human-movement-effect-animations-motor-tasks.md) [~W]
+- [Test type determines realism benefits: realistic detail aids retention as retrieval cues, schematic visuals aid transfer](../claims/test-type-moderates-realism-benefits.md) [~W]
 
 ## Examples
 

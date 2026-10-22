@@ -66,7 +66,7 @@ sources:
 # Signaling Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (15 for, 15 mixed, 1 against) · 25 studies (10 causal, 10 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 8 of 25 report an effect size · 27 claims rest on one study
+> **Evidence** · 32 claims (15 for, 16 mixed, 1 against) · 26 studies (11 review, 10 causal, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 8 of 26 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -192,6 +192,7 @@ The expectation should weaken if comparisons with comparable novice learners, ho
 - [Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video](../claims/signaling-improves-retention-transfer-video.md) [+W]
 - [Combined verbal and nonverbal cueing most often draws attention to landmarks and clarifies tool use](../claims/combined-cueing-landmarks-and-tools.md) [+W]
 - [In a three-group eye-tracking experiment, the pointing group significantly outperformed both the tracing group and the no-touch group on comprehension performance](../claims/pointing-outperforms-tracing-and-no-touch-comprehension.md) [+W]
+- [Realism can serve as signaling when a drastic contrast in shading and rendering highlights relevant parts](../claims/realism-signaling-drastic-contrast.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

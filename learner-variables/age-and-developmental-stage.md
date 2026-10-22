@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 158 claims (99 show a difference, 39 mixed, 20 no difference) · 127 studies (50 associational, 21 causal, 20 quant-synthesis, 20 review, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 19 of 127 report an effect size · 156 claims rest on one study
+> **Evidence** · 162 claims (102 show a difference, 39 mixed, 21 no difference) · 131 studies (50 associational, 22 quant-synthesis, 22 review, 21 causal, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 20 of 131 report an effect size · 160 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -190,6 +190,10 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Concept-map generation requires age-appropriate instructional support: younger learners profit from high-coherence, pre-structured maps](../claims/concept-mapping-support-age-interaction.md) [+M] — an instructional effect differs with it
 - [Generating questions is effective for university students but likely ineffective for younger elementary students, working at intermediate ages only with instructional scaffolding](../claims/question-generation-ineffective-young.md) [~W] — an instructional effect differs with it
 - [Older and younger Chinese children benefit comparably from reading interventions](../claims/intervention-timing-not-moderator-chinese-children.md) [-M] — an instructional effect differs with it
+- [Children's age negatively moderates the pretend play–social competence relation, which weakens as children get older](../claims/age-negatively-moderates-pretend-play-social-competence.md) [-M] — an instructional effect differs with it
+- [Detrimental effects of cannabis on cognitive, academic, and professional performance tend to be larger in younger users](../claims/cannabis-detrimental-effects-larger-younger-users.md) [+M] — an instructional effect differs with it
+- [Specific developmental stages of exposure show distinct effects: antenatal maternal mental health was significant in all pregnancy-stage studies, and early-childhood economic resourcing showed significant associations with outcomes](../claims/developmental-timing-effects-pregnancy-and-early-childhood.md) [+M] — an instructional effect differs with it
+- [The teacher-student SEC relationship is moderated by student SES, teacher years of experience, SEC measurement method, and grade level](../claims/sec-relationship-moderators-ses-experience-measurement-grade.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

@@ -65,3 +65,6 @@ The review reports, citing Skulmowski & Rey (2021), that "the benefits of realis
 - [Schematic visual games show larger learning effects than realistic games, which show no significant benefit over nongame conditions](schematic-visuals-outperform-realistic.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — reports the opposite
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
+- [Realism effects on learning depend on knowledge type: advantages for surface learning, disadvantages for abstract content](knowledge-type-moderates-realism-effects.md) — related
+- [Realism can serve as signaling when a drastic contrast in shading and rendering highlights relevant parts](realism-signaling-drastic-contrast.md) — related
+- [Test type determines realism benefits: realistic detail aids retention as retrieval cues, schematic visuals aid transfer](test-type-moderates-realism-benefits.md) — related

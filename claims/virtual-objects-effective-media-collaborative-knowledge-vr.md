@@ -50,3 +50,4 @@ In the multimodal analysis of the three groups' collaborative VR geometry sessio
 - [Virtual objects in shared VR environments can serve as effective media for collaborative knowledge building among in-service teachers manipulating geometric shapes](virtual-objects-shared-vr-collaborative-knowledge-building.md) — possibly the same claim (merge candidate)
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
 - [Collaborative speech strongly co-occurs with actions on virtual objects and virtual hand gestures in shared VR geometry tasks](speech-co-occurs-with-actions-and-gestures-shared-vr.md) — related
+- [Physically or imaginatively manipulating objects during reading improves children's reading comprehension](moved-by-reading-object-manipulation-comprehension.md) — related

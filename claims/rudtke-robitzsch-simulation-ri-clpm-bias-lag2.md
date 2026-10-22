@@ -53,3 +53,4 @@ The review reports a simulation study by Lüdtke and Robitzsch in which data wer
 - [Random-intercept and lag2 panel models rest on different assumptions and offer alternative perspectives on controlling covariates](ri-lag2-different-assumptions-covariates.md) — related
 - [The reciprocal effects are robust to alternative models attributing them to latent confounding or residual error (RI-LTVC, STARTS)](reciprocal-effects-robust-to-spuriousness-models.md) — related
 - [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related
+- [The ESDM's unidirectional trait-ACH-to-trait-ASC path is not empirically identified, and the confounder-based RI-LTVC alternative shows poor fit with no support for a time-varying confounder](esdm-directional-path-not-identified-ri-ltvc-no-support.md) — a narrower finding that bears on this claim

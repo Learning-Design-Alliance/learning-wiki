@@ -54,3 +54,4 @@ Publication bias assessment using funnel plot inspection and selection modeling 
 - [Publication bias analyses suggest possible small-sample bias for SCED studies, with trim-and-fill reducing the adjusted mean effect to 1.01](sced-publication-bias-trim-and-fill-101.md) — related
 - [The included scaffolding studies show small-study effects, which the Bayesian approach addresses by shrinking overweighted effect sizes](small-study-effects-bma-shrinking.md) — related
 - [No evidence of dissemination bias was detected in the meta-analysis](teacher-growth-mindset-no-dissemination-bias.md) — reports the opposite
+- [Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships](publication-bias-asymmetry-but-pcurve-evidential-value.md) — related

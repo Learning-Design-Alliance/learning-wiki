@@ -91,3 +91,6 @@ Within-subjects experiment with N = 10 university students (Mage = 20 years) in 
 - [In adults with ADHD, acute cardio exercise does not improve sustained attention but enhances mood and motivation](acute-exercise-adults-adhd-attention-null-mood-gain.md) — related
 - [Non-cardio exercise (yoga, tai chi, walking) shows predominantly positive but questionable acute and chronic effects in children with ADHD](non-cardio-exercise-effects-questionable-adhd.md) — related
 - [Short-term passive exposure to nature produces cognitive benefits in 12 of 14 reviewed studies across educational levels, mainly as directed attention restoration](short-term-green-exposure-restores-attention-12-of-14.md) — a broader claim this one bears on
+- [Nature interventions improve working memory in school children relative to control conditions, for both immersive and passive exposures](nature-intervention-improves-working-memory-children.md) — related
+- [Short walks and green playtime improve selective attention in children and adolescents relative to urban or indoor comparisons](nature-walk-improves-selective-attention.md) — related
+- [Effects on sustained/selective attention are mixed across studies, with benefits in some green settings but no effect in others regardless of exposure duration](sustained-selective-attention-mixed-nature-effects.md) — related

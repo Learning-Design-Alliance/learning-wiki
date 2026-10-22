@@ -67,3 +67,5 @@ Expertise predictor in the same per-case regression models showed no significant
 - [SRL phase transitions during clinical reasoning with a multimedia system are frequent, cyclical, and dominated by Forethought→Performance and Performance→Forethought transitions](srl-phase-transitions-cyclical-clinical-reasoning.md) — related
 - [Experts verbalized fewer SRL phases overall than novices during clinical reasoning, with feelings of uncertainty almost absent among experts](experts-fewer-srl-verbalizations-less-uncertainty.md) — related
 - [Self-regulated dropping of already-known items during restudy conferred no significant learning advantage and was sometimes mildly detrimental](dropping-known-items-no-learning-advantage.md) — related
+- [Through experience with real cases, causal knowledge transforms into narrative illness scripts](causal-knowledge-transforms-illness-scripts.md) — related
+- [The third phase of expertise development uses episodic memories of actual patients in diagnosing new cases](third-phase-episodic-memories-diagnosis.md) — related

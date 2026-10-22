@@ -50,3 +50,4 @@ Subgroup analysis of high performers (above median baseline word reading; n=25 t
 - [A 4-week embodied learning intervention with movement-phonemes improves grade 1 children's letter-sound knowledge more than regular classroom teaching](movement-phonemes-improve-letter-sound-knowledge-grade-1.md) — a broader claim this one bears on
 - [Embodied learning gains do not differ between low and high baseline performers within the movement group](no-low-high-performer-difference-within-move.md) — related
 - [Initial skills moderate embodied training effects: arm-body training harms low-skilled students on dictation and legibility, and benefits high-skilled students on dictation](initial-skills-moderate-embodied-training-effects.md) — related
+- [Eight weeks of embodied letter-sound teaching produced no transfer effect on word reading in 5–6-year-olds](embodied-phonics-no-word-reading-transfer.md) — related

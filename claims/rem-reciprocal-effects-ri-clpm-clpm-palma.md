@@ -87,3 +87,4 @@ Reanalysis of the PALMA longitudinal study (five annual waves of mathematics dat
 - [The temporal asymmetry in effect sizes: contemporaneous skill effects on self-concept are moderate (d = 0.33 in French) while alternative cross-effects are null or negligible](temporal-asymmetry-effect-sizes.md) — related
 - [Bidirectional EF–mathematics relationships are reported but the longitudinal evidence is mixed and method-dependent](ef-math-bidirectionality-mixed.md) — related
 - [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related
+- [Starting contemporaneous effects on wave 2 in the STARTS model yields positive contemporaneous effects of achievement on academic self-concept and positive lagged effects of self-concept on achievement](corrected-starts-positive-contemporaneous-and-lagged-effects.md) — related

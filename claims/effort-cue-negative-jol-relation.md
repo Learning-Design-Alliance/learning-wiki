@@ -48,3 +48,5 @@ The editorial's review of monitoring research (RQ1 section) reports that effort 
 - [Perceived effort ratings are metacognitive judgments based on heuristic cue processing and prone to bias](perceived-effort-metacognitive-judgment.md) — related
 - [The relationship between invested mental effort and self-assessed understanding is weak and inconsistent, with most correlations non-significant and mixed directions](effort-understanding-weak-inconsistent-relationship.md) — related
 - [Students tend to rely on non-diagnostic cues when judging their own performance, resulting in inaccurate judgments](students-rely-on-nondiagnostic-cues-inaccurate-monitoring.md) — related
+- [Perceived mental effort has a negative indirect association with learning outcomes, mediated by monitoring judgments (β = -0.05)](mental-effort-indirect-negative-effect-on-outcomes-via-monitoring.md) — related
+- [Perceived mental effort is negatively associated with monitoring judgments (β = -0.19) in a meta-analytic structural equation model](mental-effort-negatively-related-to-monitoring-judgments-masem.md) — related

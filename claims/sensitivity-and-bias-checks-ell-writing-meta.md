@@ -87,3 +87,5 @@ Publication bias assessment using funnel plots, trim-and-fill, and Egger's regre
 - [Publication bias is minimal in the meta-analytic estimate of the inhibitory control–mathematical ability correlation](minimal-publication-bias-ic-math-meta-analysis.md) — related
 - [No evidence of publication bias was detected in the pooled L2 gender-difference literature](no-publication-bias-l2-gender-meta-analysis.md) — related
 - [Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis](no-publication-bias-math-interventions-co-occurring.md) — related
+- [Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships](publication-bias-asymmetry-but-pcurve-evidential-value.md) — related
+- [Publication bias could not be ruled out in the pooled teacher-student SEC estimate, though the association persisted across sensitivity analyses](sec-pooled-estimate-publication-bias-caution.md) — related

@@ -67,3 +67,4 @@ The review describes a double-blind randomized-control trial with multiple train
 - [Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain](narrow-transfer-computerized-ef-training.md) — a broader claim this one bears on
 - [Explicit transfer instructions, in which trainees discuss how trained strategies could apply to a new task, produced reliable transfer of imagery and sentence-generation training to unpracticed text learning in older adults](explicit-transfer-instructions-enable-strategy-transfer.md) — related
 - [EF training demands must keep increasing as children improve, or few gains will be seen](progressive-challenge-ef-training.md) — related
+- [Digitalised task training shows highly inconsistent evidence, appearing particularly suited to improving working memory](digitalised-task-training-inconsistent-wm.md) — related

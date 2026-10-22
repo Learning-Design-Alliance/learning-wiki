@@ -49,3 +49,5 @@ Narrative review argument: successful resolution enhances satisfaction and expec
 ## Related Claims
 - [A full assessment of a potentially expansive mini-cycle of learning calls for extending the time scale of the analysis beyond a single session](assessing-minicycle-requires-extended-time-scale.md) — related
 - [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](immediate-feedback-partial-resolution-increases-curiosity.md) — related
+- [Situational and individual interest can be interpreted as phases of the same reward-learning knowledge-acquisition process](situational-individual-interest-reward-learning-phases.md) — related
+- [Trait-level constructs such as novelty seeking, need for cognition, and vocational interests can be modeled as generalized reward values of knowledge formed through reward-learning generalization](trait-curiosity-generalized-reward-value.md) — a broader claim this one bears on

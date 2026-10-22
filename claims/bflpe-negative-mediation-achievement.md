@@ -51,3 +51,4 @@ Exploratory supplementary path analysis with SIMS80 data modeling mathematics se
 - [When compositional effects are constrained equal across countries, the overall peer spillover effect is negative and non-significant while the BFLPE remains negative and significant](restricted-model-null-spillover-significant-bflpe.md) — related
 - [Class-average achievement negatively predicts mathematics self-concept after controlling individual achievement (BFLPE replication in TIMSS 2019)](bflpe-replication-timss-2019-contextual-mean-effect.md) — related
 - [Positive class-level peer spillover effects on mathematics achievement fail to replicate once measurement error is controlled with doubly latent models](peer-spillover-disappears-doubly-latent-models.md) — related
+- [School-average achievement negatively predicts academic self-concept (BFLPE) and GPA in the comprehensive doubly-latent model](school-average-achievement-negative-compositional-effect-asc-gpa.md) — related

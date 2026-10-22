@@ -43,6 +43,7 @@ Random-effects meta-analysis of 99 independent effect sizes extracted from 32 ra
 
 
 ## Related Claims
+
 - [School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten](school-level-moderates-ai-stem-effects.md) — related
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related
@@ -52,3 +53,4 @@ Random-effects meta-analysis of 99 independent effect sizes extracted from 32 ra
 - [GAI-related and GAI-unrelated AI tools show no significant difference in their moderating effects on K-12 STEM learning outcomes](gai-usage-no-moderating-effect.md) — related
 - [Students improved significantly from pre- to post-test in both topics, with a medium effect in experimental design and a small effect in graphing](pre-post-gains-inquiry-competencies.md) — related
 - [Subject significantly moderates effects, with AI-enabled personalized STEM education most effective in comprehensive courses (g = 2.161)](comprehensive-courses-largest-subject-effect.md) — a narrower finding that bears on this claim
+- [Learning-by-design shows medium- to large-sized positive effects on student achievement in K-12 STEM education, per meta-analysis cited by the review](learning-by-design-medium-large-effects-stem.md)

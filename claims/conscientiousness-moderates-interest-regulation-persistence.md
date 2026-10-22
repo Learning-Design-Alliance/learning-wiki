@@ -67,3 +67,4 @@ Narrative review reporting CONIC-model research (Bareis et al., 2024; Trautwein 
 ## Related Claims
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Utility-value interventions enhance perceived utility value, engagement, performance, and persistence in introductory college science courses](uvi-improve-engagement-performance-persistence.md) — related
+- [The CONIC model proposes conscientiousness and interest can partly compensate for one another in explaining academic effort and achievement](conic-compensation-conscientiousness-interest.md) — related

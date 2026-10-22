@@ -70,3 +70,4 @@ The review reports moderators of the Tae-Kwon-Do effect: age and gender, with th
 - [Mindfulness training improves EFs most in 7–9 year-olds with initially poorer EFs, and yoga improves EFs where physical training alone does not](mindfulness-yoga-ef-gains-poorest-gain-most.md) — related
 - [Whether EF gains are seen depends on the amount of time children spend doggedly practicing and pushing themselves to improve](repeated-practice-key-ef-gains.md) — related
 - [Open-skill exercises yield larger executive function benefits than closed-skill exercises for inhibitory control and working memory](open-skill-exercise-larger-ef-benefits.md) — related
+- [Music interventions show moderately strong evidence for EF change including inhibitory control, possibly stronger with greater intensity and longevity](music-interventions-preschool-ef-efficacy.md) — related

@@ -72,3 +72,4 @@ The review reports Cook, Goodman, and Schulz's (2011) toy-box study where a conn
 - [Preschoolers recognize action possibilities (affordances) that allow them to isolate variables when there is information to be gained](preschoolers-recognize-affordances-for-variable-isolation.md) — related
 - [Given unambiguous evidence, preschoolers play indiscriminately and rarely try to isolate candidate causes](preschoolers-play-indiscriminately-unambiguous-evidence.md) — related
 - [Manipulating stimulus physical properties and base rates of candidate causes changes preschoolers' exploratory play](stimulus-and-baseraate-manipulations-shape-exploratory-play.md) — related
+- [Physically or imaginatively manipulating objects during reading improves children's reading comprehension](moved-by-reading-object-manipulation-comprehension.md) — related

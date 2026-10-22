@@ -65,6 +65,7 @@ Scenario analysis works because it situates abstract principles (honesty, fairne
 - [Role-play and simulation](acting-role-play.md) — enacting the scenario rather than analyzing it; often paired as a follow-up
 - [Journaling reflection](reflective-journals.md) — the individual reflection step generalized into a routine practice
 - [Present students with realistic ethical conundrums such as job-search dilemmas earlier in their education](realistic-ethical-conundrums-earlier-education.md)
+- [Give pre-exam academic integrity reminders regardless of exam format](pre-exam-integrity-reminders-strategy.md)
 
 ## Examples
 - **Health professions education**: Problem-based and case-based curricula (e.g., the hybrid PBL tracks at McMaster and Maastricht) present clinical scenarios; students analyze differential diagnoses and management decisions before group discussion — a well-studied instance of the format [+M].

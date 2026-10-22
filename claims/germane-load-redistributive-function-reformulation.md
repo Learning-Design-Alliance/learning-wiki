@@ -60,3 +60,4 @@ Theoretical reformulation in this narrative review, motivated because "Numerous 
 - Correlations of cognitive load types with learning outcomes and prior knowledge support CLT assumptions, and results support the three-factor model — related
 - [Germane cognitive load was added to the cognitive load framework on theoretical grounds rather than because of empirical results requiring the concept](germane-load-added-on-theoretical-not-empirical-grounds.md) — related
 - [Reducing extraneous cognitive load is not a significant moderator of drawing support effects on comprehension](extraneous-load-reduction-non-significant-moderator.md) — related
+- [The model's assumed negative correlation between cognitive load and learner resources was not supported; the overall correlation was positive](load-resources-negative-correlation-not-supported.md) — related

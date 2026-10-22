@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 35 claims (22 show a difference, 10 mixed, 3 no difference) · 23 studies (10 associational, 5 quant-synthesis, 3 causal, 3 review, 2 qualitative), `q1`–`q4` · 6 of 23 report an effect size · 35 claims rest on one study
+> **Evidence** · 36 claims (22 show a difference, 11 mixed, 3 no difference) · 24 studies (10 associational, 5 quant-synthesis, 4 review, 3 causal, 2 qualitative), `q1`–`q4` · 6 of 24 report an effect size · 36 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -71,6 +71,7 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [People with MLD show medium pooled deficits in working memory (g = 0.68) and rapid automatized naming (g = 0.70)](../claims/mld-working-memory-ran-deficits.md) [+M] — learners who differ on it differ in outcomes
 - [Across grade levels, children shift from a phonology-based strategy (PA) to a meaning-based strategy (MA and vocabulary) in Chinese word reading, while RAN and OA effects remain stable](../claims/developmental-shift-phonology-to-meaning-chinese-reading.md) [+M] — learners who differ on it differ in outcomes
 - [All five cognitive-linguistic skills (RAN, OA, PA, MA, vocabulary) significantly and independently predict Chinese word reading, with MA and vocabulary showing the largest effects](../claims/masem-five-skills-predict-chinese-word-reading.md) [+M] — learners who differ on it differ in outcomes
+- [Long-term nature exposure shows inconsistent effects on processing speed, positive in the greened schoolyard study but null in the classroom green wall study](../claims/processing-speed-mixed-long-term-nature.md) [~M] — instruction changes it
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

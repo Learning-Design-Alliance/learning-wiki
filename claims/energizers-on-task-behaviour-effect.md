@@ -49,3 +49,4 @@ Review reports two observational school studies: Mahar et al. (2006) observed si
 - [CB-PA interventions show no significant improvement in attention or on-task behavior in two of the twenty reviewed studies](cbpa-null-results-two-studies.md) — related
 - [In two reviewed studies, CB-PA improvements in attention measures were moderated by other variables such as cognitive engagement and timing](cbpa-effects-moderated-cognitive-engagement-timing.md) — related
 - [A classroom-based physical activity program (Energizers) increases children's daily in-school physical activity compared with no program](energizers-increased-in-school-steps.md) — related
+- [Physical activity interventions in childhood improve on-task behaviour with a large summary effect, based on very low-certainty evidence](pa-interventions-improve-on-task-behaviour-childhood.md) — related

@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 216 claims (100 for, 108 mixed, 8 against) · 161 studies (51 associational, 43 causal, 24 review, 16 quant-synthesis, 14 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 37 of 161 report an effect size · 200 claims rest on one study
+> **Evidence** · 220 claims (100 for, 112 mixed, 8 against) · 164 studies (52 associational, 43 causal, 24 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 38 of 164 report an effect size · 204 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -263,6 +263,10 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Explicit strategy instruction, unlike implicit strategy instruction, is associated with a gain in student performance](../claims/explicit-strategy-instruction-associated-with-performance-gain.md) [+W] — attached 2026-10-22 from Charlotte Dignath et al. (2021), which proposed "Framework of direct and indirect teacher approaches to activate self-regulated learning".
 - [Teachers' direct instructional support is associated with students' use of self-regulation strategies, while autonomy as indirect activation was negatively associated with reading performance](../claims/direct-support-strategy-use-autonomy-negative-reading.md) [+W]
 - [Adolescent digital self-regulation is enacted through a typology of four strategy types differing in executive effort versus external scaffolding](../claims/adolescent-digital-self-regulation-strategy-typology.md) [~W]
+- [Prior meta-analysis found a negative medium-sized effort–monitoring correlation (r = -0.35), attenuated under goal-driven manipulations](../claims/baars-2020-effort-monitoring-correlation-negative-medium.md) [~W]
+- [Perceived task difficulty relates to metacognitive strategy use only linearly, with no significant quadratic component](../claims/task-difficulty-linear-metacognitive-strategies.md) [~W]
+- [For metacognitive strategy use, resources competitively mediate the linear effect and cognitive load partially mediates the linear and mediates the quadratic relationship](../claims/mediation-metacognitive-strategies-load-resources.md) [~W]
+- [Contemporary SRL models largely omit the broader social context and implicitly assume all learners are available to learn](../claims/srl-models-assume-availability-omit-context.md) [~W]
 
 ## The evidence by question
 

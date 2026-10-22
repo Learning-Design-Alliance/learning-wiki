@@ -58,3 +58,4 @@ The review's Research Question 6 synthesis of nine ITS studies, which the review
 - [Intelligent tutoring systems show moderate learning benefits but are less effective than human tutoring](its-moderate-effect-less-than-human-tutoring.md) — related
 - [Personalized learning systems and recommender algorithms support effective AI-powered collaborative learning through tailored content and peer matching](ai-personalization-recommenders-support-collaborative-learning.md) — related
 - [Prior reviews identify interactive, well-timed, tailored programs delivered by trained personnel as effective](prior-reviews-effective-rse-features.md) — related
+- [The personalization effect improves learning, moderated by prior knowledge, content type, pacing, culture, and language](personalization-effect-social-cues.md) — related

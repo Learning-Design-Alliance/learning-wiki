@@ -50,3 +50,4 @@ Moment-by-moment turn-by-turn analysis of one group's dialogue (three students a
 - [Students' own bodily responses to the VR film became resources in reflective dialogue for characterizing emotional reactions and reinterpreting prior experiences](students-own-bodily-responses-vr.md) — related
 - [Films with existential themes can serve as vehicles for Bildung in higher education](existential-films-vehicle-for-bildung.md) — related
 - [No substantial example of emancipatory immersion was found in the family data, despite the framework including it.](no-substantial-emancipatory-immersion-example.md) — related
+- [Perceived presence and co-presence in a collaborative setting were higher in XRCL than in computer-based collaborations](presence-copresence-higher-xrcl-than-computer.md) — related

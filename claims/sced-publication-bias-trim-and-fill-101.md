@@ -47,3 +47,4 @@ Publication bias analysis of the 10 SCED studies using a regular Egger's test an
 - [Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36](publication-bias-adjusted-effect-036.md) — related
 - [In SCED studies, family-implemented interventions significantly improve text reading outcomes (g = 1.80) but show a positive, non-significant effect on decoding/word reading outcomes (g = 0.86)](sced-text-reading-significant-decoding-null.md) — related
 - [The included scaffolding studies show small-study effects, which the Bayesian approach addresses by shrinking overweighted effect sizes](small-study-effects-bma-shrinking.md) — related
+- [Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships](publication-bias-asymmetry-but-pcurve-evidential-value.md) — related

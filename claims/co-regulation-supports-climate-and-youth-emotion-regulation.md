@@ -101,3 +101,4 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 - [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](educator-wellbeing-supports-student-relationships.md) — related
 - [Utah Schools for the Deaf and Blind adapted the Resilience, Rights & Respectful Relationships curriculum for intentional, direct SEL instruction with deaf students](intentional-sel-instruction-deaf-students.md) — related
 - [Teachers promoted inclusive classroom environments by organizing time and space and fostering peer inclusion](inclusive-environment-time-space-peer-inclusion.md) — related
+- [Qualitative studies depict teachers as emotional socialisers whose modelling, warmth, and structure are perceived to foster students' SEC and classroom engagement](qualitative-teacher-emotional-socialiser-perceptions.md) — related

@@ -72,3 +72,4 @@ The article reports, citing Chen et al. (2015, 2016a, b, 2017) and Kalyuga et al
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — a narrower finding that bears on this claim
 - [Split-attention and redundancy effects occur for high element interactivity material but disappear for low element interactivity material](load-effects-vanish-low-element-interactivity.md) — related
 - [Transient information effect: lengthy spoken text can reverse the modality effect, while shorter spoken text restores the conventional modality advantage](transient-information-effect-reverse-modality-length.md) — related
+- [The modality effect may disappear or reverse for lengthy, complex spoken text](modality-effect-reversal-complex-spoken-text.md) — related

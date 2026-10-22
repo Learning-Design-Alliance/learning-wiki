@@ -38,7 +38,7 @@ sources:
 # Pre-training Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (7 for, 10 mixed) · 23 studies (9 review, 8 quant-synthesis, 5 causal, 1 theoretical), `q1`–`q4` · 7 of 23 report an effect size · 12 claims rest on one study
+> **Evidence** · 17 claims (7 for, 10 mixed) · 24 studies (10 review, 8 quant-synthesis, 5 causal, 1 theoretical), `q1`–`q4` · 7 of 24 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 

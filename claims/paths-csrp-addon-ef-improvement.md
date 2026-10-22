@@ -71,3 +71,4 @@ The review reports a randomized-control trial with 18 of 35 Head Start classroom
 - [The Chicago School Readiness Project, a classroom-based RCT, improved low-income children's executive function and academic skills with effect sizes of 0.34 to 0.63](csrp-intervention-improved-self-regulation-and-academics.md) — related
 - [The classroom training improves inhibitory control as measured by the Tongue Task](classroom-training-improves-tongue-task-inhibition.md) — related
 - [A combined inhibition and social cognition classroom training improves selective visual attention in 5- and 6-year-olds](classroom-inhibition-social-cognition-training-improves-selective-attention.md) — a narrower finding that bears on this claim
+- [SEL programs with explicit skill teaching and regular practice can promote preschool EF, possibly including inhibitory control](sel-programs-preschool-ef-efficacy.md) — related

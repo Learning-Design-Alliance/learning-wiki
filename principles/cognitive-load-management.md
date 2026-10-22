@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 69 claims (27 for, 39 mixed, 3 against) · 60 studies (27 causal, 15 review, 9 quant-synthesis, 7 theoretical, 1 associational, 1 design), `q1`–`q4` · 23 of 60 report an effect size · 61 claims rest on one study
+> **Evidence** · 72 claims (29 for, 40 mixed, 3 against) · 63 studies (27 causal, 15 review, 10 quant-synthesis, 8 theoretical, 2 associational, 1 design), `q1`–`q4` · 23 of 63 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [TBRS-model-derived hypotheses about presentation-pace effects were supported in two experiments, provided prior knowledge is taken into account](../claims/tbrs-hypotheses-tested-two-experiments.md) [+W] — attached 2026-10-21 from Sébastien Puma et al. (2018), which proposed "When investigating presentation-pace effects during learning, take learners' prior knowledge into account".
 - [Concept-map generation requires age-appropriate instructional support: younger learners profit from high-coherence, pre-structured maps](../claims/concept-mapping-support-age-interaction.md) [+W] — attached 2026-10-22 from Garvin Brod (2021), which proposed "Match the amount of instructional support in generative learning activities to learners' age, giving younger learners more structure"; tests this page's relationship.
 - [Generating drawings is effective for university students but largely ineffective for elementary-school children unless instructional support is extremely high](../claims/drawing-ineffective-elementary.md) [~W] — attached 2026-10-22 from Garvin Brod (2021), which proposed "Match the amount of instructional support in generative learning activities to learners' age, giving younger learners more structure"; tests this page's relationship.
+- [Benefits of learning with more than two external representations primarily depend on the provision of appropriate instructional support.](../claims/mer-benefits-depend-on-instructional-support.md) [+W] — attached 2026-10-22 from Rexigel et al. (2024), which proposed "Do not assume a universal ideal number of external representations; tailor representational sets to learners and context"; tests this page's relationship.
+- [Some studies found that presenting more than two representations negatively impacted learning and problem-solving, especially for students with low prior knowledge.](../claims/more-than-two-representations-negative-effects-low-prior-knowledge.md) [+W] — attached 2026-10-22 from Rexigel et al. (2024), which proposed "Do not assume a universal ideal number of external representations; tailor representational sets to learners and context"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -151,6 +153,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](../claims/coherence-principle-extraneous-material-effect.md) [~W]
 - [Presenting primary knowledge first and then secondary knowledge was more efficient in both performance and motivation](../claims/primary-first-sequencing-benefits.md) [+W]
 - [Students invest more mental effort in paper-based questions than in equivalent computer-based questions](../claims/greater-mental-effort-paper-questions.md) [~W]
+- [Perceived task difficulty relates to cognitive strategy use with both a linear and a negative quadratic (inverted U) component, and the quadratic relationship is fully mediated by cognitive load](../claims/task-difficulty-inverted-u-cognitive-strategies.md) [~W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

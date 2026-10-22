@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 76 claims (52 show a difference, 11 mixed, 13 no difference) · 54 studies (17 quant-synthesis, 14 associational, 11 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 20 of 54 report an effect size · 71 claims rest on one study
+> **Evidence** · 79 claims (53 show a difference, 12 mixed, 14 no difference) · 56 studies (17 quant-synthesis, 15 associational, 12 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 21 of 56 report an effect size · 74 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -117,6 +117,9 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [In SCED studies, family-implemented interventions significantly improve text reading outcomes (g = 1.80) but show a positive, non-significant effect on decoding/word reading outcomes (g = 0.86)](../claims/sced-text-reading-significant-decoding-null.md) [-W] — instruction changes it
 - [Corrective word-reading feedback effects depend on timing and reader skill: delayed feedback enhanced word-reading accuracy, and phonics feedback helped poor readers while better readers performed best with no feedback](../claims/word-reading-corrective-feedback-timing-and-skill.md) [~M] — an instructional effect differs with it
 - [Reading interventions improve word spelling (g = 0.93) more than word reading (g = 0.63)](../claims/spelling-gains-exceed-reading-gains.md) [+M] — instruction changes it
+- [A vocabulary instructional focus differentially benefits good readers at the expense of poor decoders and poor comprehenders over a school year](../claims/vocabulary-focus-differential-effect-good-readers.md) [~M] — an instructional effect differs with it
+- [Eight weeks of embodied letter-sound teaching produced no transfer effect on word reading in 5–6-year-olds](../claims/embodied-phonics-no-word-reading-transfer.md) [-M] — instruction changes it
+- [Whole-body movement teaching improves 5–6-year-olds' letter-sound naming more than non-motor teaching, immediately and at 17–22-week retention](../claims/whole-body-movement-improves-letter-sound-naming.md) [+M] — instruction changes it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

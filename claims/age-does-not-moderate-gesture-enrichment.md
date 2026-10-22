@@ -48,3 +48,5 @@ Exploratory multiple linear regression in Experiment 1 (n = 54, ages 8.5–10.2 
 - [Gesture-enriched learning improves 8-year-olds' L2 vocabulary translation and free recall compared with non-enriched learning, persisting up to 6 months](gesture-enrichment-l2-vocabulary-children.md) — related
 - [Amount of sensorimotor engagement, target language, proficiency, and type of embodied interaction do not significantly moderate embodied vocabulary learning effects](non-significant-moderators-embodied-vocabulary.md) — related
 - [Gesture effects on narrative comprehension are not moderated by total task difficulty or age when measured through free recall and specific questions](gesture-comprehension-not-moderated-by-difficulty-or-age.md) — related
+- [Concrete L2 words are learned better than abstract words overall, but this concreteness advantage appears only in 14-year-olds](concreteness-advantage-only-in-eighth-graders.md) — related
+- [Gesture-enriched L2 vocabulary learning benefits 14-year-olds more than picture enrichment, while 12-year-olds benefit equivalently from both](gesture-beats-picture-enrichment-only-for-14-year-olds.md) — related

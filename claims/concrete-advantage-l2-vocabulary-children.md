@@ -65,3 +65,5 @@ Experiment 1 free recall ANOVA (n = 54) showed a "significant main effect of wor
 - [Gesture enrichment specifically aided translation of abstract words in Experiment 1, but this word-type specificity did not replicate in Experiment 2](gesture-benefit-abstract-word-specificity-mixed.md) — related
 - [Both gesture and picture enrichment enhanced children's test performance compared with non-enriched learning, with benefits persisting up to 6 months for concrete and abstract words](enrichment-benefits-persist-six-months.md) — related
 - [Gesture-enriched learning improves 8-year-olds' L2 vocabulary translation and free recall compared with non-enriched learning, persisting up to 6 months](gesture-enrichment-l2-vocabulary-children.md) — related
+- [Concrete L2 words are learned better than abstract words overall, but this concreteness advantage appears only in 14-year-olds](concreteness-advantage-only-in-eighth-graders.md) — a narrower finding that bears on this claim
+- [Picture and gesture enrichment benefit children's learning of both concrete and abstract L2 words](enrichment-benefits-abstract-and-concrete-words.md) — related

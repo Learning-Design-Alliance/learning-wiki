@@ -49,3 +49,4 @@ Narrative review of BFLPE evidence including the multinational PISA 2000 study o
 - [Reanalyses of SCT choice-paradigm studies support the BFLPE, which was not moderated by students' chosen comparison targets](bflpe-reanalyses-not-moderated-by-comparison-choice.md) — a narrower finding that bears on this claim
 - [Virtual patient effectiveness evidence comes from both high-income and low- and middle-income countries](vp-effectiveness-global-applicability.md) — related
 - [Class-average achievement and chosen upward comparisons each make substantial, unique negative contributions to math self-beliefs when modeled simultaneously](bflpe-generalized-and-specific-others-unique-effects.md) — a narrower finding that bears on this claim
+- [The BFLPE is one of the most robust findings in educational psychology, with negative school-average achievement effects on ASC in 181 of 191 PISA samples](bflpe-robust-across-pisa-samples.md) — possibly the same claim (merge candidate)

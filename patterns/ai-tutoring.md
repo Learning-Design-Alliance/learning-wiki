@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 326 claims (151 for, 125 mixed, 50 against) · 219 studies (78 causal, 46 review, 27 design, 25 theoretical, 19 quant-synthesis, 13 associational, 11 qualitative), `q1`–`q4` · 45 of 219 report an effect size · 311 claims rest on one study
+> **Evidence** · 327 claims (152 for, 125 mixed, 50 against) · 220 studies (78 causal, 47 review, 27 design, 25 theoretical, 19 quant-synthesis, 13 associational, 11 qualitative), `q1`–`q4` · 45 of 220 report an effect size · 312 claims rest on one study
 
 ## Description and scope
 
@@ -303,6 +303,10 @@ Record: **unaided first attempt → tutor configuration and content actually use
 [Hints](../elements/hints.md), [feedback](../elements/feedback.md), [immediate feedback](../elements/immediate-feedback.md), [scaffolding](../elements/scaffolding.md), [fading scaffolding](../elements/fading-scaffolding.md), [Socratic questioning](../elements/socratic-questioning.md), [self-explanation](../elements/self-explanation.md), [worked examples](../elements/worked-examples.md), [pedagogical agent signaling](../elements/pedagogical-agent-signaling.md), [peer teaching](../elements/peer-teaching.md), [collaborative problem solving](../elements/collaborative-problem-solving.md) and [metacognitive reflection](../elements/metacognitive-reflection.md).
 
 This pattern is scoped to the tutor's moves within tasks and the handoff to people. It does not cover AI grading, AI-generated course content, proctoring or AI role-play as a practice partner (see [practice with simulated people](practice-with-simulated-people.md)). The wiki records no randomized comparison of an LLM tutor across a whole course with a delayed or transfer outcome (the longest is a five-week field experiment with 46 analysed and an end-of-period post-test), no test of a handoff trigger, and no test of fading a conversational tutor's help across sessions (the one fading result is for worked steps in a step-based tutor); no trial of grounding a tutor in course materials against an ungrounded one with a learning outcome; and no test of withholding learner identity labels from a tutor's prompt beyond the feedback-bias audit it rests on. Much of the newer LLM-tutor evidence here is benchmark or simulated-student evaluation of the tutor's outputs, which says what a tutor does, not what learners learn. The diagnostic branches above remain to be tested with actual learners.
+
+## Claims
+
+- [ITS augmentation: meta-analyses find medium to large learning benefits of ITS over unsupported learning and small to medium gains over less adaptive computer-assisted learning](../claims/its-augmentation-benefits-over-unsupported-learning.md) [+M]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

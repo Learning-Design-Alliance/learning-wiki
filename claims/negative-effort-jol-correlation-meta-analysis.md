@@ -72,3 +72,5 @@ The review reports this moderator from the same meta-analysis: under goal-driven
 - [Publication bias analyses suggest the negative correlation is robust but trim-and-fill adjusts it to r = −.227](publication-bias-trim-and-fill-adjustment.md) — related
 - [Perceived mental effort serves as a cue for monitoring judgments, which mediate the effort–outcome relation (David et al., 2024 meta-analysis)](david-2024-effort-cue-monitoring-meta-analysis.md) — possibly the same claim (merge candidate)
 - [Mental effort and judgments of learning show a medium-sized negative correlation, moderated by regulation mode and task type](mental-effort-jol-negative-correlation-moderators.md) — possibly the same claim (merge candidate)
+- [Prior meta-analysis found a negative medium-sized effort–monitoring correlation (r = -0.35), attenuated under goal-driven manipulations](baars-2020-effort-monitoring-correlation-negative-medium.md) — related
+- [Perceived mental effort is negatively associated with monitoring judgments (β = -0.19) in a meta-analytic structural equation model](mental-effort-negatively-related-to-monitoring-judgments-masem.md) — related

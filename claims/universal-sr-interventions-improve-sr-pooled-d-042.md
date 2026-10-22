@@ -52,3 +52,5 @@ Meta-analysis of 19 studies reporting SR outcomes based on task performance scor
 - [Mindfulness and yoga interventions improved self-regulation in 4 of 8 interventions (50%), mostly applied within the adolescent age group.](mindfulness-yoga-interventions-improved-sr-4-of-8.md) — related
 - [Mindfulness training improves EFs most in 7–9 year-olds with initially poorer EFs, and yoga improves EFs where physical training alone does not](mindfulness-yoga-ef-gains-poorest-gain-most.md) — a narrower finding that bears on this claim
 - [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md) — related
+- [Mindfulness interventions show comparatively robust efficacy for preschool SR/EF, especially for outcomes requiring integrated mobilisation of EFs and SR](mindfulness-preschool-sr-ef-efficacy.md) — related
+- [Most preschool SR/EF interventions report at least one significant outcome, but only about half of evaluated effects are significant](preschool-sr-ef-intervention-efficacy-overview.md) — related

@@ -119,3 +119,6 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [Students in Playworks schools reported better behavior and attention in class after sports, games, and play](playworks-students-reported-better-behavior-attention-after-play.md) — related
 - [In the highest-quality reviewed study, classroom MVPA was negatively associated with students being off task or inattentive (β = −0.17; p = 0.042)](mvpa-negatively-associated-off-task-carlson.md) — a narrower finding that bears on this claim
 - [In university students, walks or sitting in natural settings after cognitive fatigue improve some attention and working memory measures, with null results for others](green-exposure-university-cognitive-benefits.md) — related
+- [Mediated structured play yields relatively robust evidence of efficacy, varying by interventionist, target and measured outcome](mediated-structured-play-efficacy.md) — related
+- [Physical activity interventions in childhood improve on-task behaviour with a large summary effect, based on very low-certainty evidence](pa-interventions-improve-on-task-behaviour-childhood.md) — related
+- [Physical activity interventions in childhood improve working memory with a small summary effect, based on very low-certainty evidence](pa-interventions-improve-working-memory-childhood.md) — reports the opposite

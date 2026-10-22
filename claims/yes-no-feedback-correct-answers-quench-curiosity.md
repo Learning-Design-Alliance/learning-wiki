@@ -55,3 +55,4 @@ Experiment 2, a within-subjects study of 80 Columbia/Barnard students with yes/n
 - [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md) — related
 - [Curiosity about trivia answers is a U-shaped function of confidence, supporting information-gap theory](curiosity-u-shaped-function-of-confidence.md) — related
 - [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — related
+- [Specific and diversive curiosity are labels on a continuum of information generality within one knowledge-gap-driven process, not categorically distinct types](specific-diversive-curiosity-continuum.md) — related

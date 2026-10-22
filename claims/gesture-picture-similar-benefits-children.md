@@ -45,3 +45,7 @@ Experiment 3 compared gesture enrichment with picture enrichment (words accompan
 ## Related Claims
 - [Both gesture and picture enrichment enhanced children's test performance compared with non-enriched learning, with benefits persisting up to 6 months for concrete and abstract words](enrichment-benefits-persist-six-months.md) — related
 - [Gesture-enriched learning improves 8-year-olds' L2 vocabulary translation and free recall compared with non-enriched learning, persisting up to 6 months](gesture-enrichment-l2-vocabulary-children.md) — related
+- [Picture and gesture enrichment benefit children's learning of both concrete and abstract L2 words](enrichment-benefits-abstract-and-concrete-words.md) — related
+- [Gesture-enriched L2 vocabulary learning benefits 14-year-olds more than picture enrichment, while 12-year-olds benefit equivalently from both](gesture-beats-picture-enrichment-only-for-14-year-olds.md) — related
+- [Semantically congruent iconic gestures improve L2 vocabulary retention relative to meaningless or incongruent gestures](iconic-congruent-gestures-improve-retention.md) — related
+- [Enrichment benefits on children's L2 vocabulary persist up to 6 months post-learning without diminishing relative to non-enriched learning](l2-enrichment-benefits-persist-six-months-classroom.md) — related

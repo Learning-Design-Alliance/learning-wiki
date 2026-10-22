@@ -32,7 +32,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 59 claims (22 for, 36 mixed, 1 against) · 58 studies (26 causal, 14 review, 11 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 12 of 58 report an effect size · 48 claims rest on one study
+> **Evidence** · 60 claims (23 for, 36 mixed, 1 against) · 59 studies (26 causal, 14 review, 12 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 12 of 59 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [The worked example effect failed to replicate for geometry and kinematics problems, and was reinstated when worked examples were restructured to reduce split attention](../claims/worked-example-effect-split-attention-replication-history.md) [~W]
 - [Tracing along a poster displaying a cycle reduced extraneous cognitive load and improved learning outcomes](../claims/tracing-water-cycle-reduces-extraneous-load.md) [+W]
 - [Framing formal logical problems in primary knowledge contexts makes learners more efficient, more motivated, more confident and lowers cognitive load compared with secondary knowledge framing](../claims/primary-knowledge-framing-efficiency-motivation.md) [~W]
+- [Gesturing while explaining problem solving reduces cognitive load](../claims/gesturing-reduces-cognitive-load.md) [+W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md)

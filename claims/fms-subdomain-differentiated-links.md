@@ -51,3 +51,4 @@ Descriptive breakdown of academic-cognitive subdomains against overall FMS (Tabl
 - [FiMS relate more strongly than GMS to reading, writing, mathematics, general academics and cognition, but not to language; GMS show no significant link to general academic skills](fims-gms-domain-specific-associations.md) — related
 - [Fine motor skills correlate more strongly with overall academic-cognitive skills (r = .302) than gross motor skills (r = .170) in children aged 3–16](fims-stronger-than-gms-overall-academic-cognitive.md) — related
 - [The FiMS–GMS difference is larger for intelligence than for executive functions, where both motor skills show similar moderate links](intelligence-versus-executive-functions-motor-links.md) — related
+- [Children's baseline motor skills do not correlate with reading-related outcomes or with their use of movement when naming letter-sounds](motor-skills-no-correlation-reading-outcomes.md) — reports the opposite

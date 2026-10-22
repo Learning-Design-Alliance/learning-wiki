@@ -80,6 +80,7 @@ Fixed-effect analysis of the same 35 studies quantified between-study inconsiste
 
 
 ## Related Claims
+
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related
 - [ChatGPT-enhanced instruction produced significantly higher overall post-test achievement in Grade 12 Quantum Theory than traditional teaching, with a large effect size (η² > 0.14)](chatgpt-instruction-higher-quantum-posttest-achievement.md) — a narrower finding that bears on this claim
 - [ITS produce significant positive effects at all grade levels and in almost all subject domains evaluated, with exceptions such as chemistry](its-effects-across-grades-subjects-prior-knowledge.md) — a narrower finding that bears on this claim
@@ -93,3 +94,4 @@ Fixed-effect analysis of the same 35 studies quantified between-study inconsiste
 - [The authors of one course-based design study conclude, without printed measures, that structured AI integration can enhance students' digital literacy, content retention and critical thinking](structured-ai-integration-enhances-literacy-retention-critical-thinking.md) — a narrower finding that bears on this claim
 - [Prior meta-analytic evidence indicates chatbot technology has a substantial positive effect on overall learning outcomes and knowledge retention, but not on critical thinking, engagement, or motivation](chatbot-meta-analysis-learning-outcomes-retention.md) — related
 - [Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction](its-meta-analysis-overall-effect-0-41.md) — related
+- [Learning-by-design shows medium- to large-sized positive effects on student achievement in K-12 STEM education, per meta-analysis cited by the review](learning-by-design-medium-large-effects-stem.md)

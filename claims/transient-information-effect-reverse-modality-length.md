@@ -47,3 +47,4 @@ First of two experiments by Leahy and Sweller (2011), replicating the reverse mo
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Element interactivity and expertise reversal effects: cognitive load effects diminish and may reverse as expertise increases because known elements chunk into single elements](expertise-reversal-effect-element-interactivity.md) — related
 - [The transient information effect states that learning from transient presentations leads to inferior learning compared to permanent presentations](transient-information-effect-definition.md) — a broader claim this one bears on
+- [The modality effect may disappear or reverse for lengthy, complex spoken text](modality-effect-reversal-complex-spoken-text.md) — possibly the same claim (merge candidate)

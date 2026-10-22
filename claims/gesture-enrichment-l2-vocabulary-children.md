@@ -105,3 +105,6 @@ Experiment 2 replicated the gesture benefit with 43 children and a reduced 24-wo
 - [Gesture enrichment specifically aided translation of abstract words in Experiment 1, but this word-type specificity did not replicate in Experiment 2](gesture-benefit-abstract-word-specificity-mixed.md) — related
 - [Children's L2 translation and free recall scores were higher for concrete than abstract nouns across experiments](concrete-advantage-l2-vocabulary-children.md) — related
 - [Gesture and picture enrichment produced similar benefits on children's L2 vocabulary learning, contrary to adult findings favoring gestures](gesture-picture-similar-benefits-children.md) — related
+- [Picture and gesture enrichment benefit children's learning of both concrete and abstract L2 words](enrichment-benefits-abstract-and-concrete-words.md) — related
+- [Semantically congruent iconic gestures improve L2 vocabulary retention relative to meaningless or incongruent gestures](iconic-congruent-gestures-improve-retention.md) — related
+- [Enrichment benefits on children's L2 vocabulary persist up to 6 months post-learning without diminishing relative to non-enriched learning](l2-enrichment-benefits-persist-six-months-classroom.md) — a broader claim this one bears on

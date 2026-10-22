@@ -63,6 +63,7 @@ Intrinsic motivation is a stronger predictor of persistence, depth of engagement
 - [Achievable Micro-Goals](achievable_micro-goals.md) — builds the competence experiences that fuel intrinsic motivation
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connects new tasks to what students already value and know
 - [Combine metacognitive strategy information with motivational interventions that increase task value, and reduce need frustration](combine-metacognitive-info-with-value-interventions.md)
+- [Phase-dependent use of extrinsic rewards and external support to start up and then protect the self-rewarding learning cycle](phase-dependent-extrinsic-rewards-knowledge-acquisition.md)
 
 ## Examples
 - A teacher opens a writing unit by letting students choose their topic and audience, then runs brief daily check-ins where students name one negative thought about writing, reframe it, and note how completing a draft step felt.

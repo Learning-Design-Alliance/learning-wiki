@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 150 claims (62 for, 80 mixed, 8 against) · 105 studies (33 causal, 22 review, 17 quant-synthesis, 17 associational, 12 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 29 of 105 report an effect size · 139 claims rest on one study
+> **Evidence** · 151 claims (62 for, 81 mixed, 8 against) · 106 studies (33 causal, 22 review, 17 quant-synthesis, 17 associational, 13 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 29 of 106 report an effect size · 140 claims rest on one study
 
 ## Conditional relationship
 
@@ -242,6 +242,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Monitoring tools show low effects on learning motivation (d = 0.17)](../claims/monitoring-tools-motivation-d017.md) [~W]
 - [Descriptively, monitoring interventions with teacher feedback on entries and direct revision opportunities showed higher effects](../claims/teacher-feedback-and-revision-descriptive-advantage.md) [~W]
 - [Monitoring tool effects were larger in shorter interventions, contrary to the duration hypothesis](../claims/monitoring-effects-larger-shorter-interventions.md) [~W]
+- [Contemporary SRL models largely omit the broader social context and implicitly assume all learners are available to learn](../claims/srl-models-assume-availability-omit-context.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

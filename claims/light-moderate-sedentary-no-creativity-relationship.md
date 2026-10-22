@@ -54,3 +54,4 @@ Null bivariate correlation results (Table 2) from the cross-sectional accelerome
 - [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — related
 - [In a multiple regression model, vigorous physical activity significantly accounts for 4.5% of variance in overall creativity](vigorous-activity-regression-creativity-variance.md) — related
 - [Anthropometric variables, body composition and hand grip strength show no correlation with creativity components in this sample](anthropometrics-no-correlation-creativity.md) — related
+- [Physical activity interventions in childhood improve creativity with a moderate summary effect, based on low-certainty evidence](pa-interventions-improve-creativity-childhood.md) — related

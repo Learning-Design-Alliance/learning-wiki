@@ -58,3 +58,4 @@ The paper reports, citing Fan et al.'s study, that the SRL cycle is vulnerable t
 - [Learners learning with generative AI risk offloading monitoring and control of learning to the AI, suppressing learner agency](generative-ai-offloading-suppresses-srl-agency.md) — a broader claim this one bears on
 - [Process mining shows the ChatGPT group's revision loop centred on consulting ChatGPT, while the human-expert group strengthened connections between revising and reading, orientation and evaluation](chatgpt-process-map-loop-metacognitive-disengagement.md) — possibly the same claim (merge candidate)
 - [Students' use of metacognitive actions to direct group work increased over time when using the Knowledge Catalyser tools](metacognitive-actions-increase-over-time-knowledge-catalyser.md) — related
+- [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](ai-inversion-effects-overreliance-reduce-learning.md) — related

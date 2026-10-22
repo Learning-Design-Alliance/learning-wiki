@@ -66,7 +66,7 @@ sources:
 # Modality Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (9 for, 21 mixed, 4 against) · 29 studies (10 causal, 8 review, 6 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q3` · 8 of 29 report an effect size · 29 claims rest on one study
+> **Evidence** · 35 claims (9 for, 22 mixed, 4 against) · 30 studies (10 causal, 8 review, 7 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q3` · 8 of 30 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -193,6 +193,7 @@ The expectation should weaken if new system-paced comparisons, with comparable l
 
 - [Domain-specific interference, attributed by the embedded-processes model to similarity-based interference, underpins multimedia learning's modality benefits](../claims/domain-specific-interference-basis-of-multimedia-learning.md) [+W]
 - [Transient information effect: lengthy spoken text can reverse the modality effect, while shorter spoken text restores the conventional modality advantage](../claims/transient-information-effect-reverse-modality-length.md) [~W]
+- [The modality effect may disappear or reverse for lengthy, complex spoken text](../claims/modality-effect-reversal-complex-spoken-text.md) [~W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

@@ -78,3 +78,4 @@ A conceptual framework paper (a five-stage AI-literacy continuum, with a design-
 - [GCLA use improves cognitive and behavioral engagement and self-efficacy compared with traditional ChatGPT use in blended learning](gcla-improves-engagement-and-self-efficacy.md) — related
 - [Metacognitive analysis activities were positively associated with transfer, but metacognitive activities showed no association with essay quality](metacognitive-analysis-transfer-association.md) — related
 - [Interviews show students used scores to trigger action but reflected shallowly, derived planning from previous scores, and diverged emotionally](interviews-shallow-reflection-score-derived-planning.md) — related
+- [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](ai-inversion-effects-overreliance-reduce-learning.md) — possibly the same claim (merge candidate)
