@@ -228,7 +228,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [ManyClasses study found no effect of delayed versus immediate feedback or study incentives across 38 classrooms](../claims/manyclasses-no-feedback-timing-incentive-effect.md) [~W]
 - [Receiving grades is positively associated with achievement and external motivation compared with receiving no performance feedback (review-reported meta-analysis)](../claims/grades-versus-no-feedback-koenka.md) [~W]
 - [Individual feedback impacted perceived utility only to a limited extent, and general feedback lowered perceived utility of retrieval practice (Experiment 2)](../claims/perceived-utility-limited-impact-individual-feedback.md) [~W]
-- [Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups' beliefs did not change (Experiment 1)](../claims/individual-feedback-changes-retrieval-practice-beliefs-only-for-beneficiaries.md) [~W]
+- [Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups showed no statistically significant change (Experiment 1)](../claims/individual-feedback-changes-retrieval-practice-beliefs-only-for-beneficiaries.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

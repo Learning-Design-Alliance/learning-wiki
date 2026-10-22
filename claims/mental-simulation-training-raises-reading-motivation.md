@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Mental simulation training increased children's reading motivation in both grades, while control-group motivation did not change"
-description: "Mental simulation training increased children's reading motivation in both grades, while control-group motivation did not change"
+title: "Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change"
+description: "Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change"
 id: mental-simulation-training-raises-reading-motivation
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Mental simulation training increased children's reading motivation in both grades, while control-group motivation did not change
+# Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large

@@ -96130,12 +96130,12 @@
 "type":"claim"
 },
 {
-"description":"Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups' beliefs did not change (Experiment 1)",
+"description":"Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups showed no statistically significant change (Experiment 1)",
 "evidence_strength":"moderate",
 "id":"individual-feedback-changes-retrieval-practice-beliefs-only-for-beneficiaries",
 "path":"claims/individual-feedback-changes-retrieval-practice-beliefs-only-for-beneficiaries.md",
 "status":"review",
-"title":"Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups' beliefs did not change (Experiment 1)",
+"title":"Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups showed no statistically significant change (Experiment 1)",
 "type":"claim"
 },
 {
@@ -120047,12 +120047,12 @@
 "type":"claim"
 },
 {
-"description":"Mental simulation training increased children's reading motivation in both grades, while control-group motivation did not change",
+"description":"Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change",
 "evidence_strength":"moderate",
 "id":"mental-simulation-training-raises-reading-motivation",
 "path":"claims/mental-simulation-training-raises-reading-motivation.md",
 "status":"review",
-"title":"Mental simulation training increased children's reading motivation in both grades, while control-group motivation did not change",
+"title":"Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change",
 "type":"claim"
 },
 {
@@ -200143,12 +200143,12 @@
 "type":"claim"
 },
 {
-"description":"Trait test anxiety predicts performance-based goals, and state worry and emotionality mediate performance-avoidance goal effects on exam performance",
+"description":"Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance",
 "evidence_strength":"moderate",
 "id":"test-anxiety-goal-complex-mediation",
 "path":"claims/test-anxiety-goal-complex-mediation.md",
 "status":"review",
-"title":"Trait test anxiety predicts performance-based goals, and state worry and emotionality mediate performance-avoidance goal effects on exam performance",
+"title":"Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance",
 "type":"claim"
 },
 {

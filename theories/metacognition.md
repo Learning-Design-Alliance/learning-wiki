@@ -453,7 +453,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Self-regulated dropping of already-known items during restudy conferred no significant learning advantage and was sometimes mildly detrimental](../claims/dropping-known-items-no-learning-advantage.md) [~W]
 - [Certainty predicts diagnostic performance; mental effort adds no predictive value beyond certainty](../claims/certainty-predicts-performance-effort-adds-nothing.md) [~W]
 - [The largest reported effects came from interventions training reflection on own learning and teaching through metacognitive judgements (Michalsky 2021: d = 3.12; Pieschl et al. 2021: d = 2.9)](../claims/metacognitive-judgement-reflection-interventions-largest-effects.md) [+W]
-- [Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups' beliefs did not change (Experiment 1)](../claims/individual-feedback-changes-retrieval-practice-beliefs-only-for-beneficiaries.md) [~W]
+- [Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups showed no statistically significant change (Experiment 1)](../claims/individual-feedback-changes-retrieval-practice-beliefs-only-for-beneficiaries.md) [~W]
 
 ## The evidence by question
 

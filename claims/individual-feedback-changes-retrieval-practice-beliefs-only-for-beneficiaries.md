@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups' beliefs did not change (Experiment 1)"
-description: "Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups' beliefs did not change (Experiment 1)"
+title: "Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups showed no statistically significant change (Experiment 1)"
+description: "Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups showed no statistically significant change (Experiment 1)"
 id: individual-feedback-changes-retrieval-practice-beliefs-only-for-beneficiaries
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups' beliefs did not change (Experiment 1)
+# Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups showed no statistically significant change (Experiment 1)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Students who obtained a higher score after retrieval practice rated retrieval practice as more effective after individual feedback (t(24) = 4.26, p < .001, d = .56). [→ Luotong Hui 2021](#luotong-hui-2021)
-`q3 i?` Beliefs did not change for the same-score group (p = .17) or the restudy-benefit group (p = .50). [→ Luotong Hui 2021 (2)](#luotong-hui-2021-2)
+`q3 i?` No statistically significant change in beliefs was found for the same-score group (p = .17) or the restudy-benefit group (p = .50), which does not show that their beliefs were unchanged. [→ Luotong Hui 2021 (2)](#luotong-hui-2021-2)
 
 ## Evidence
 

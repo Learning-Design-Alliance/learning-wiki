@@ -44,7 +44,7 @@ Onan, E., Wiradhany, W., Biwer, F., Janssen, E. M., & de Bruin, A. B. H. (2022).
 
 `q2 · i?` · `causal · r3`
 
-Template analysis of open-ended responses about strategy choices and VFP prompt questions, coded iteratively by three authors with blind coding of 30% of data (intraclass correlation = 0.89). Participants "were vulnerable to misinterpretation of effort", which led them to choose blocked practice.
+Template analysis of open-ended responses about strategy choices and VFP prompt questions, coded iteratively by three authors, with a blind third coder applying the template to the first two datasets (50% of responses); a separate scoring of how well VFP answers matched participants' actual ratings was independently re-scored on 30% of the data (intraclass correlation = 0.89). Participants "were vulnerable to misinterpretation of effort", which led them to choose blocked practice.
 
 > "In monit oring effort, we observed that participants were vulnerable to misinterpretation of effort: High effort, associated with interleaved practice, indicated poor learning; whereas, low effort, associated with blocked prac- tice, indicated high learning."
 

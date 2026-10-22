@@ -267,7 +267,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [SDT-based predictions on motivation and achievement hold for about 93% of students but may not generalize to extreme states of autonomous or controlled motivation](../claims/sdt-predictions-93-percent-extreme-states-limit.md) [~M] — learners who differ on it differ in outcomes
 - [External rewards can undermine intrinsic motivation for learners who are already motivated](../claims/external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) [~M] — an instructional effect differs with it
 - [Iterative curiosity–resolution cycles can build knowledge networks and a foundation for individual interest](../claims/curiosity-resolution-cycle-individual-interest.md) [+M] — instruction changes it
-- [Mental simulation training increased children's reading motivation in both grades, while control-group motivation did not change](../claims/mental-simulation-training-raises-reading-motivation.md) [+M] — instruction changes it
+- [Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change](../claims/mental-simulation-training-raises-reading-motivation.md) [+M] — instruction changes it
 - [Teachers' load-reducing strategies and motivating styles correlate with lower cognitive load and higher motivation, engagement, and achievement (Evans et al., 2024)](../claims/load-reducing-teaching-strategies-motivation-engagement.md) [+M] — instruction changes it
 - [Tracing and pointing does not significantly raise intrinsic motivation, though the point estimate resembles prior meta-analytic estimates](../claims/tracing-pointing-intrinsic-motivation-null.md) [-M] — instruction changes it
 

@@ -189,7 +189,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Children's self-regulation and intrapersonal skills such as emotional control, adaptability and optimism are linked to more successful transitions, and negative pre-transfer expectations tend to be self-fulfilling](../claims/intrapersonal-skills-linked-transition-success.md) [+W] — learners who differ on it differ in outcomes
 - [Outdoor learning in nature reduces student stress (cortisol decline), but stress-restoration findings are mixed by measure and age](../claims/outdoor-learning-reduces-student-stress-cortisol.md) [~M] — instruction changes it
 - [Emotion regulation difficulties are positively associated with overall academic burnout in youth (pooled r = 0.25)](../claims/er-difficulties-positive-overall-burnout.md) [+M] — learners who differ on it differ in outcomes
-- [Trait test anxiety predicts performance-based goals, and state worry and emotionality mediate performance-avoidance goal effects on exam performance](../claims/test-anxiety-goal-complex-mediation.md) [+W] — learners who differ on it differ in outcomes
+- [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](../claims/test-anxiety-goal-complex-mediation.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -81,7 +81,7 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Parental pressure frequently predicts positive academic outcomes among East Asian children, including stronger mastery goals and higher self-efficacy](../claims/parental-pressure-positive-outcomes-east-asian-children.md) [+M] — instruction changes it
 - [Autonomous achievement goal complexes predict adaptive outcomes over and above goals alone and reasons alone](../claims/autonomous-goal-complexes-predict-adaptive-outcomes.md) [+M] — learners who differ on it differ in outcomes
 - [Implicit theories of ability predict achievement goals, with performance goals mediating or suppressing entity theory effects on math performance](../claims/implicit-theories-predict-achievement-goals-math.md) [+M] — learners who differ on it differ in outcomes
-- [Trait test anxiety predicts performance-based goals, and state worry and emotionality mediate performance-avoidance goal effects on exam performance](../claims/test-anxiety-goal-complex-mediation.md) [+M] — learners who differ on it differ in outcomes
+- [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](../claims/test-anxiety-goal-complex-mediation.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

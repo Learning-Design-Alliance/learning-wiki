@@ -49,4 +49,4 @@ The review reports Cury et al.'s (2006) first study with middle school students 
 ## Related Claims
 - [Learning and performance goal orientations are highly positively correlated and not mutually exclusive in adults](learning-and-performance-goals-correlated-adults.md) — related
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — a broader claim this one bears on
-- [Trait test anxiety predicts performance-based goals, and state worry and emotionality mediate performance-avoidance goal effects on exam performance](test-anxiety-goal-complex-mediation.md) — related
+- [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](test-anxiety-goal-complex-mediation.md) — related

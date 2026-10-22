@@ -38,7 +38,7 @@ To promote engagement and motivation, the training was presented as a Bmovie dir
 
 ## Claims
 
-- [Mental simulation training increased children's reading motivation in both grades, while control-group motivation did not change](../claims/mental-simulation-training-raises-reading-motivation.md) [+W]
+- [Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change](../claims/mental-simulation-training-raises-reading-motivation.md) [+W]
 - [Mental simulation training improved general reading comprehension in Grade 3, with a significant training group × time interaction varying by grade](../claims/mental-simulation-training-improves-grade3-reading-comprehension.md) [+W]
 - [In Grade 4, reading comprehension gains were statistically comparable between the mental simulation training group and the control training group](../claims/grade4-no-comprehension-gain-difference.md) [-W]
 

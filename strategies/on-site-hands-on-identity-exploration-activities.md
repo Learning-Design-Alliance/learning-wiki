@@ -17,7 +17,7 @@ sources:
 # Organize on-site, hands-on explorative activities that introduce adolescents to unfamiliar contents and identity positions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review's synthesis supports organizing learning experiences that introduce adolescents to learning contents, activities, and identity positions they were thus far unfamiliar with, because such experiences "may invite them to adopt new interests, to identify undiscovered talents, and to try out new identity positions." On-site and hands-on formats are highlighted because they present new possibilities in authentic, real-life ways, helping adolescents decide to what extent they identify with them.
@@ -38,7 +38,7 @@ The review's synthesis supports organizing learning experiences that introduce a
 - exploring new identity positions and developing self-understandings
 
 ### Affordances
-- [Three Types Explorative Learning Experiences](../claims/three-types-explorative-learning-experiences.md)
+- [Explorative learning experiences can be organized in three forms — in-breadth, in-depth, and reflective — to intentionally support identity development](../claims/three-types-explorative-learning-experiences.md) [+W]
 
 ## Claims
 

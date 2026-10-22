@@ -63,4 +63,4 @@ A 2 × 2 × 2 ANOVA on CITO reading comprehension proficiency scores with time w
 
 ## Related Claims
 - [In Grade 4, reading comprehension gains were statistically comparable between the mental simulation training group and the control training group](grade4-no-comprehension-gain-difference.md) — related
-- [Mental simulation training increased children's reading motivation in both grades, while control-group motivation did not change](mental-simulation-training-raises-reading-motivation.md) — related
+- [Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change](mental-simulation-training-raises-reading-motivation.md) — related

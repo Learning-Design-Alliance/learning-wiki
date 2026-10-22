@@ -62,5 +62,5 @@ Experiment 2 exploratory paired-samples t-test on perceived utility for the rest
 
 
 ## Related Claims
-- [Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups' beliefs did not change (Experiment 1)](individual-feedback-changes-retrieval-practice-beliefs-only-for-beneficiaries.md) — related
+- [Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups showed no statistically significant change (Experiment 1)](individual-feedback-changes-retrieval-practice-beliefs-only-for-beneficiaries.md) — related
 - [Only individual performance feedback, not general instruction about the testing effect, produced long-term increases in retrieval practice use, and only for students who benefited from retrieval practice](individual-feedback-superior-to-general-instruction-long-term.md) — related

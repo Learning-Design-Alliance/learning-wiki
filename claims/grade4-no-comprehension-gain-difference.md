@@ -44,4 +44,4 @@ Gain-score analysis within the same pretest-posttest control group design. The a
 
 ## Related Claims
 - [Mental simulation training improved general reading comprehension in Grade 3, with a significant training group × time interaction varying by grade](mental-simulation-training-improves-grade3-reading-comprehension.md) — related
-- [Mental simulation training increased children's reading motivation in both grades, while control-group motivation did not change](mental-simulation-training-raises-reading-motivation.md) — related
+- [Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change](mental-simulation-training-raises-reading-motivation.md) — related

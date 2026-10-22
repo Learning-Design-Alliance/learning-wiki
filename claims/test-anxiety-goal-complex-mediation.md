@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Trait test anxiety predicts performance-based goals, and state worry and emotionality mediate performance-avoidance goal effects on exam performance
-description: Trait test anxiety predicts performance-based goals, and state worry and emotionality mediate performance-avoidance goal effects on exam performance
+title: Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance
+description: Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance
 id: test-anxiety-goal-complex-mediation
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Trait test anxiety predicts performance-based goals, and state worry and emotionality mediate performance-avoidance goal effects on exam performance
+# Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
@@ -35,7 +35,7 @@ Andrew J. Elliot · Nicolas Sommet. (2023). Integration in the Achievement Motiv
 
 `q3 · i?` · `review · r2`
 
-The review reports Elliot and McGregor's (1999) undergraduate study measuring trait test anxiety at semester start, goals two weeks before an exam, and state anxiety, worry, and emotionality immediately after the exam. 'The indirect path model from trait anxiety to goals to achievement fits the data well.'
+The review reports Elliot and McGregor's (1999) undergraduate study measuring trait test anxiety at semester start, goals two weeks before an exam, and state anxiety, worry, and emotionality immediately after the exam. 'The indirect path model from trait anxiety to goals to achievement fits the data well.' State anxiety and worry, but not emotionality, negatively predicted exam performance. These are predictive paths from a non-experimental study, so they cannot show that the goals cause the exam results.
 
 > "Performance-avoidance goals were a positive predictor of state anxiety, worry, and emotionality, performance-approach goals were a positive predictor of emotionality, and (not predicted) mastery-approach goals were a negative predictor of worry"
 
