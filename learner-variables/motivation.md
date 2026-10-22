@@ -284,7 +284,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Teachers' load-reducing instructional strategies predict lower extraneous and intrinsic cognitive load and have direct positive associations with motivation and engagement](../claims/load-reduction-instruction-predicts-lower-load-and-motivation.md) [+M] — instruction changes it
 - [The CONIC model proposes conscientiousness and interest can partly compensate for one another in explaining academic effort and achievement](../claims/conic-compensation-conscientiousness-interest.md) [+M] — learners who differ on it differ in outcomes
 - [Earlier boredom predicts positive changes in later interest from the second measurement point onward](../claims/earlier-boredom-predicts-increased-later-interest.md) [-W] — learners who differ on it differ in outcomes
-- [Higher earlier interest predicts decreases in later boredom in both mathematics and German across grades 5–8](../claims/earlier-interest-predicts-lower-later-boredom.md) [+M] — learners who differ on it differ in outcomes
+- [Higher earlier interest is associated with later decreases in boredom across grades 5–8, at every wave in mathematics and all but the last in German](../claims/earlier-interest-predicts-lower-later-boredom.md) [+M] — learners who differ on it differ in outcomes
 - [Latent boredom means increased and latent interest means declined from grade 5 to grade 8 in both domains](../claims/boredom-increases-interest-declines-grades-5-8.md) [+M] — instruction changes it
 
 ## The evidence by question

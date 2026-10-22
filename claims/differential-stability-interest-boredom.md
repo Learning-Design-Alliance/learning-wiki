@@ -45,4 +45,4 @@ Stability paths from the 2-variable latent cross-lagged models. In the combined 
 ## Related Claims
 - [Latent boredom means increased and latent interest means declined from grade 5 to grade 8 in both domains](boredom-increases-interest-declines-grades-5-8.md) — related
 - [Epistemic emotions showed no significant carry-over (autoregressive) stability from one course session to the next, except boredom after session type was included.](no-carry-over-effect-epistemic-emotions-sessions.md) — reports the opposite
-- [Higher earlier interest predicts decreases in later boredom in both mathematics and German across grades 5–8](earlier-interest-predicts-lower-later-boredom.md) — related
+- [Higher earlier interest is associated with later decreases in boredom across grades 5–8, at every wave in mathematics and all but the last in German](earlier-interest-predicts-lower-later-boredom.md) — related

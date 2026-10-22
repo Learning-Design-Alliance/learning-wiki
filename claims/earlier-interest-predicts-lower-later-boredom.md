@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Higher earlier interest predicts decreases in later boredom in both mathematics and German across grades 5–8
-description: Higher earlier interest predicts decreases in later boredom in both mathematics and German across grades 5–8
+title: Higher earlier interest is associated with later decreases in boredom across grades 5–8, at every wave in mathematics and all but the last in German
+description: Higher earlier interest is associated with later decreases in boredom across grades 5–8, at every wave in mathematics and all but the last in German
 id: earlier-interest-predicts-lower-later-boredom
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Higher earlier interest predicts decreases in later boredom in both mathematics and German across grades 5–8
+# Higher earlier interest is associated with later decreases in boredom across grades 5–8, at every wave in mathematics and all but the last in German
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
-`q3 i1` In latent cross-lagged models, higher interest at earlier waves was related to lower boredom at later waves in both domains, supporting H1. [→ Katharina Luisa Boehme 2025](#katharina-luisa-boehme-2025)
+`q3 i1` In latent cross-lagged models, higher interest at earlier waves was related to decreases in boredom at later waves in both domains, supporting H1, except for German between T3 and T4, where the path was not significant (p = 0.101); the design is correlational and cannot show that interest causes the change. [→ Katharina Luisa Boehme 2025](#katharina-luisa-boehme-2025)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Katharina Luisa Boehme, Thomas Goetz, Markus Feuchter, Franzis Preckel. (2025). 
 
 `q3 · i1` · `associational · r2`
 
-Latent cross-lagged SEM (n mathematics = 1420, n German = 1418) over four waves. Standardized cross-lagged paths for mathematics were β = −0.14, −0.22, −0.24 and for German β = −0.18, −0.28, −0.19; the German T3→T4 path was not significant (p = 0.101).
+Latent cross-lagged SEM (n mathematics = 1420, n German = 1418) over four waves. Standardized cross-lagged paths for mathematics were β = −0.14, −0.22, −0.24 and for German β = −0.18, −0.28, −0.19; the German T3→T4 path was not significant (p = 0.101). These are predictive associations from observational longitudinal data, not evidence that interest causes boredom to fall.
 
 > "For mathematics, earlier interest consistently predicted changes in later boredom. That is, higher levels of interest at an earlier stage were related to decreases in the levels of boredom at later times"
 

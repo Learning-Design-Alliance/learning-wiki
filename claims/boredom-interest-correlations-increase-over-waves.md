@@ -45,4 +45,4 @@ Factor correlations from the CFA models at each wave, with printed correlations 
 ## Related Claims
 - [Latent boredom means increased and latent interest means declined from grade 5 to grade 8 in both domains](boredom-increases-interest-declines-grades-5-8.md) — related
 - [Boredom and academic interest fit two separate correlated factors better than one common factor in mathematics and German at every wave](boredom-interest-two-factor-separability.md) — related
-- [Higher earlier interest predicts decreases in later boredom in both mathematics and German across grades 5–8](earlier-interest-predicts-lower-later-boredom.md) — related
+- [Higher earlier interest is associated with later decreases in boredom across grades 5–8, at every wave in mathematics and all but the last in German](earlier-interest-predicts-lower-later-boredom.md) — related

@@ -13,7 +13,7 @@ sources:
     resource: "https://doi.org/10.1007/s10648-011-9179-2"
     title: "Fred Paas & John Sweller. (2011). An Evolutionary Upgrade of Cognitive Load Theory: Using the Human Motor System and Collaboration to Support the Learning of Complex Cognitive Tasks. Educ Psychol Rev (2012) 24:27–45. https://doi.org/10.1007/s10648-011-9179-2"
     author: "Fred Paas & John Sweller"
-    q: 3
+    q: 2
     i: "?"
     kind: theoretical
     rigour: 3
@@ -21,7 +21,7 @@ sources:
     resource: "https://doi.org/10.1007/s10648-011-9179-2"
     title: "Fred Paas & John Sweller. (2011). An Evolutionary Upgrade of Cognitive Load Theory: Using the Human Motor System and Collaboration to Support the Learning of Complex Cognitive Tasks. Educ Psychol Rev (2012) 24:27–45. https://doi.org/10.1007/s10648-011-9179-2"
     author: "Fred Paas & John Sweller"
-    q: 3
+    q: 2
     i: "?"
     kind: theoretical
     rigour: 3
@@ -30,11 +30,11 @@ sources:
 # Gesturing while explaining problem solving reduces cognitive load
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q3`
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
 
 ## Subclaims
-`q3 i?` Children and adults allowed to gesture while explaining how they solved mathematics problems remembered more items on a concurrent secondary task, indicating lower cognitive load. [→ Fred Paas & John Sweller 2011](#fred-paas-john-sweller-2011)
-`q3 i?` Gesturing lowered cognitive load regardless of whether the referenced objects were present or absent, and benefits were larger when gestures added information beyond speech. [→ Fred Paas & John Sweller 2011 (2)](#fred-paas-john-sweller-2011-2)
+`q2 i?` In a review, Paas and Sweller report that in Goldin-Meadow et al. (2001), children and adults allowed to gesture while explaining how they solved mathematics problems remembered more items on a concurrent secondary task, indicating lower cognitive load. [→ Fred Paas & John Sweller 2011](#fred-paas-john-sweller-2011)
+`q2 i?` The review reports that in Ping and Goldin-Meadow (2010), gesturing lowered cognitive load regardless of whether the referenced objects were present or absent, and benefits were larger when gestures added information beyond speech. [→ Fred Paas & John Sweller 2011 (2)](#fred-paas-john-sweller-2011-2)
 
 ## Evidence
 
@@ -42,9 +42,9 @@ sources:
 
 Fred Paas & John Sweller. (2011). An Evolutionary Upgrade of Cognitive Load Theory: Using the Human Motor System and Collaboration to Support the Learning of Complex Cognitive Tasks. Educ Psychol Rev (2012) 24:27–45. https://doi.org/10.1007/s10648-011-9179-2
 
-`q3 · i?` · `theoretical · r3`
+`q2 · narrative review` · `i?` · `theoretical · r3`
 
-Experiment using a secondary-task paradigm: children remembered unrelated words and adults letters while explaining mathematics problem solutions. Allowed-to-gesture participants remembered more items, taken as a measure of lower cognitive load.
+Theoretical review that summarises an experiment by Goldin-Meadow et al. (2001); Paas and Sweller did not run it. In that experiment, using a secondary-task paradigm, children remembered unrelated words and adults letters while explaining mathematics problem solutions. Participants allowed to gesture remembered more items, taken as a measure of lower cognitive load. The review prints no effect size.
 
 > "Goldin-Meadow et al. found that children and adults, who were allowed to gesture while explaining how they solved the mathematics problem, experienced a lower cognitive load because they could remember more items than when they were not allowed to gesture."
 
@@ -52,9 +52,9 @@ Experiment using a secondary-task paradigm: children remembered unrelated words 
 
 Fred Paas & John Sweller. (2011). An Evolutionary Upgrade of Cognitive Load Theory: Using the Human Motor System and Collaboration to Support the Learning of Complex Cognitive Tasks. Educ Psychol Rev (2012) 24:27–45. https://doi.org/10.1007/s10648-011-9179-2
 
-`q3 · i?` · `theoretical · r3`
+`q2 · narrative review` · `i?` · `theoretical · r3`
 
-Piagetian liquid quantity conservation task study (Ping and Goldin-Meadow 2010) testing whether gesturing acts as an external memory aid. Load reduction occurred with objects both present and absent, ruling out a purely external-memory-aid explanation.
+The review summarises a Piagetian liquid quantity conservation task study by Ping and Goldin-Meadow (2010), which asked whether the earlier load reduction came from gestures pointing at present objects, acting as an external memory aid, or from gesturing making absent objects cognitively present. Gesturing lowered cognitive load whether the objects were present or absent, and lowered it more when gestures added information to speech than when they repeated it.
 
 > "The results revealed that gesturing lowered cognitive load, regardless of whether objects were present or absent."
 
