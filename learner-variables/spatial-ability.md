@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 36 claims (28 show a difference, 3 mixed, 5 no difference) · 22 studies (10 associational, 5 causal, 4 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 5 of 22 report an effect size · 35 claims rest on one study
+> **Evidence** · 40 claims (32 show a difference, 3 mixed, 5 no difference) · 24 studies (10 associational, 6 causal, 5 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 6 of 24 report an effect size · 39 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -72,6 +72,10 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Reanalysis of pooled data from four multimedia learning experiments found quadratic interactions, with the largest design difference at medium ability](../claims/pooled-reanalysis-quadratic-interactions-multimedia.md) [+M] — an instructional effect differs with it
 - [Extensive Chinese logographic literacy training is associated with higher visuospatial short-term storage that does not generalize to phonological storage](../claims/chinese-training-visuospatial-storage-domain-specific.md) [+M] — instruction changes it
 - [Adding body metaphors to abstract stimuli improves mental rotation performance](../claims/body-metaphors-improve-mental-rotation.md) [+M] — instruction changes it
+- [Higher-visuospatial-ability learners experienced lower motion sickness in Desktop-VR, with a tendency for an interaction with format](../claims/vsa-motion-sickness-desktop-vr.md) [+W] — learners who differ on it differ in outcomes
+- [Learners with higher visuospatial ability outperform lower-visuospatial-ability learners on recognition and factual knowledge when learning fish movements in Desktop-VR](../claims/vsa-main-effect-learning-desktop-vr.md) [+M] — learners who differ on it differ in outcomes
+- [Spatial ability scores are positively associated with mathematics performance across children and adults, as the review reports](../claims/spatial-ability-associated-mathematics-performance.md) [+W] — learners who differ on it differ in outcomes
+- [Visuospatial ability moderated the effect of interaction format on difficult recognition in Desktop-VR, with camera movement benefiting higher-ability learners](../claims/vsa-moderates-difficult-recognition-desktop-vr.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

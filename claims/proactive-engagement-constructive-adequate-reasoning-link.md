@@ -53,3 +53,4 @@ Secondary ENA including ICAP engagement codes for 244 learner utterances explain
 - [Quality control in peer assessment can be exercised proactively or reactively on students and their assessments](peer-assessment-quality-control-proactive-reactive.md) — related
 - [Only 11.1% of interactions pair mastery-oriented aims with advanced strategies such as epistemic justification](high-epistemic-engagement-111-percent-mastery-justification.md) — related
 - [Reactive FOF is more time-consuming than proactive FOF, reducing opportunities to elaborate on preselected grammar points](reactive-fof-time-cost-fewer-opportunities.md) — related
+- [Experts respond to classroom events predictively and proactively via precursor detection, while novices are either unaware or reactively aware](expert-predictive-novice-reactive-decisions.md) — related

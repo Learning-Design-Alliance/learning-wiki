@@ -58,3 +58,4 @@ Narrative synthesis of seven studies with longer retention intervals (24 hours t
 - [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](larger-spacing-better-interleaved-induction.md) — related
 - [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — related
 - [Perceived learning is higher for blocked than interleaved practice at onset but increases over time for interleaved practice only](perceived-learning-increases-over-time-interleaved.md) — related
+- [In Experiment 2, the interleaving benefit on actual test outcomes was not statistically significant, unlike in Experiment 1](interleaving-outcome-benefit-nonsignificant-exp2.md) — a narrower finding that bears on this claim

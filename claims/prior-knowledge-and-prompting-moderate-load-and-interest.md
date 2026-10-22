@@ -79,3 +79,4 @@ Bayesian multilevel ordinal regression for invested mental effort (best-fitting 
 - [High experienced effort-by-complexity is not necessarily indicative of better learning outcomes](high-effort-not-indicative-better-learning.md) — related
 - [Mental effort is more suitably modeled as a non-linear than linear predictor of learning outcomes in most re-analyzed studies](mental-effort-nonlinear-predictor-reanalyses.md) — related
 - [Motivational interventions can lower perceived cognitive load and improve retention and transfer, indicating load perception is partly independent of task difficulty](motivation-intervention-lowers-perceived-load.md) — related
+- [Teaching students reported higher stress and mental effort during the intervention than comparison groups](teaching-raises-stress-and-mental-effort.md) — related

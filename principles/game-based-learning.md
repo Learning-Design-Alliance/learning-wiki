@@ -51,7 +51,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (20 for, 26 mixed) · 36 studies (13 quant-synthesis, 8 causal, 8 review, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 14 of 36 report an effect size · 40 claims rest on one study
+> **Evidence** · 46 claims (20 for, 26 mixed) · 38 studies (13 quant-synthesis, 10 review, 8 causal, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 14 of 38 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 

@@ -14,7 +14,7 @@ grain_size: course
 # Faculty Course Design
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 14 studies (6 quant-synthesis, 3 causal, 2 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 6 of 14 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 16 studies (6 quant-synthesis, 4 review, 3 causal, 2 qualitative, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size · 2 claims rest on one study
 
 ## Description
 Most courses in higher education are not designed by instructional designers. They are designed by the person who will teach them, in the weeks before term, alongside a full teaching and research load, with no budget, no team and no client. A teaching and learning centre may consult, run a workshop or read a draft syllabus — but it advises, it does not approve, and the instructor holds the decision. This is the most common design process in the sector and it is a distinct pattern, not a degraded version of a professional one.

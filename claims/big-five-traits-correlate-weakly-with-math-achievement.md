@@ -61,3 +61,4 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [Extraversion correlates positively with achievement in language domains but not in STEM, a domain pattern driven by grades](extraversion-language-domain-pattern.md) — related
 - [Funnel plot asymmetry for openness, extraversion, and neuroticism appears attributable to reasons other than publication bias](funnel-asymmetry-not-publication-bias.md) — related
 - [Neuroticism correlates negatively with achievement overall, most strongly with STEM test scores](neuroticism-negative-achievement-association.md) — related
+- [Conscientiousness is robustly associated with academic performance across primary, secondary, and tertiary education, with openness the next strongest predictor](conscientiousness-predicts-academic-performance-review.md) — a broader claim this one bears on

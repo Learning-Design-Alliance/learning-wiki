@@ -117,3 +117,4 @@ Follow-up univariate repeated-measures ANOVAs in the same randomized trial: SRL 
 - [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](no-academic-performance-improvement.md) — reports the opposite
 - [Time management interventions show conflicting evidence for raising self-efficacy](time-management-interventions-self-efficacy-mixed.md) — related
 - [Goal-setting interventions with action plans and public commitment improved academic performance (review-reported)](goal-setting-intervention-academic-performance-gains.md) — related
+- [Neither GenAI intervention outperformed standard ChatGPT control on effort, domain-specific knowledge, or elaboration-based strategy use](genai-srl-interventions-no-advantage-over-control.md) — related

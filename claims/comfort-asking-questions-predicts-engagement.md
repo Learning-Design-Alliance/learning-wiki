@@ -50,3 +50,4 @@ Agreement: Felt comfortable asking questions in class 0.22 0.02 ***"
 - [Student and teacher social validation feedback supported the strategy, with students reporting improved social lives, class engagement, and goal completion](social-validation-feedback-positive-problem-solving.md) — related
 - [About 61% of observed in-class student behavior was actively seeking knowledge or asking questions](majority-student-activity-questioning.md) — related
 - [Pre-med aspiration, excitement about learning, and competitiveness each predict higher engagement; gender, race, and most pre-college measures do not](motivation-and-background-predictors-engagement.md) — related
+- [Viewing STEM courses as competitive was associated with impostorship and, in turn, lower engagement and grades, especially for first-generation students](competitive-stem-courses-impostorship.md) — related

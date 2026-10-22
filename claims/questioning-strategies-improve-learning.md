@@ -150,3 +150,4 @@ Reviewed studies of "wait time" — the duration of pauses separating utterances
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — a narrower finding that bears on this claim
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
+- [Across a review of 50 classroom experiments, lessons with question prompts consistently increased student learning compared to lessons without them](retrieval-practice-classroom-review-consistent-benefits.md) — related

@@ -52,3 +52,4 @@ Pearson correlation in the 147-student wartime sample. The authors attribute the
 - [Conscientiousness and tolerance for novelty show small negative associations with well-being decline; other uncertainty-tolerance facets do not](conscientiousness-novelty-tolerance-small-protective-associations.md) — related
 - [Openness partially mediates effects of extraversion and novelty tolerance, and fully mediates general uncertainty tolerance, on well-being decline](openness-mediates-personality-wellbeing-pathways.md)
 - [Openness protects against well-being decline only when emotional stability is average or high](openness-protects-only-with-emotional-stability.md)
+- [University students overwhelmingly report goals to change at least one Big Five trait, but agreeableness may be the hardest trait to shift](students-want-to-change-traits.md) — related

@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 130 claims (100 show a difference, 17 mixed, 13 no difference) · 105 studies (37 causal, 23 associational, 16 review, 12 design, 7 quant-synthesis, 5 qualitative, 5 theoretical), `q1`–`q4` · 22 of 105 report an effect size · 124 claims rest on one study
+> **Evidence** · 133 claims (102 show a difference, 18 mixed, 13 no difference) · 107 studies (38 causal, 23 associational, 17 review, 12 design, 7 quant-synthesis, 5 qualitative, 5 theoretical), `q1`–`q4` · 22 of 107 report an effect size · 127 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -165,6 +165,9 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Iterative curiosity–resolution cycles can build knowledge networks and a foundation for individual interest](../claims/curiosity-resolution-cycle-individual-interest.md) [+M] — instruction changes it
 - [Haptic experience in the first showroom does not transfer to increased engagement or knowledge in a second showroom with poster information](../claims/haptics-no-transfer-second-showroom.md) [-M] — instruction changes it
 - [Haptic exploration does not increase situational interest, duration of stay, or number of objects inspected in the first showroom](../claims/haptics-no-effect-attention-interest-showroom1.md) [-M] — instruction changes it
+- [During inquiry-informed learning, students' interest, self-efficacy, and belonging were increasingly coordinated over time](../claims/interest-self-efficacy-belonging-coordinated-over-time.md) [+M] — instruction changes it
+- [Interest and self-efficacy are distinct yet reciprocally related in supporting learning](../claims/interest-self-efficacy-reciprocal-relation.md) [+M] — learners who differ on it differ in outcomes
+- [Students who engaged more meaningfully with the GenAI tended to have more sustained interest than control students (exploratory)](../claims/meaningful-genai-engagement-sustained-interest.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

@@ -54,3 +54,5 @@ Publication-bias assessment of the meta-analytic sample using Egger's regression
 - [No substantial evidence of publication bias or small-study effects in the screening validity meta-analysis](no-publication-bias-screening-validity.md) — possibly the same claim (merge candidate)
 - [Publication bias is indicated for the performance-approach and performance-avoidance anxiety effects but not for the depression effects](publication-bias-performance-goal-anxiety-effects.md) — related
 - [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](publication-bias-overall-dt.md) — related
+- [Publication-bias checks indicate limited risk of publication bias in the extensive reading literature synthesized](er-publication-bias-limited.md) — related
+- [The ratio–interactive-skills association may be partly or entirely attributable to small-study publication bias](publication-bias-ratio-association.md) — related

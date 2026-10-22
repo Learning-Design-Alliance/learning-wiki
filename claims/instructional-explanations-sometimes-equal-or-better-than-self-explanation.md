@@ -116,3 +116,4 @@ and transfer"
 - [Self-explanation substantially increases time on task, raising questions about its efficiency](self-explanation-time-on-task-cost.md) — related
 - [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
 - [Adding instructional explanations to worked examples yields a small positive effect on learning, stronger for conceptual than procedural knowledge](instructional-explanations-in-worked-examples-small-effect.md) — related
+- [Explaining and teaching both improve basic comprehension relative to notetaking, but do not differ from each other](explaining-teaching-improve-comprehension-over-notetaking.md) — related

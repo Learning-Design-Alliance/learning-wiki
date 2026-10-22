@@ -70,3 +70,5 @@ Focus-group evidence from 41 groups with 241 students at eight institutions; Cel
 - [The Skill-Application Paradox: stopped competitive programmers self-report higher theoretical confidence than active peers yet show significantly weaker practice habits and peer support](skill-application-paradox-cp-attrition.md) — related
 - [Chinese teachers emphasize competition among students more than Flemish teachers, while perceived power distance and collaboration are similar across the two groups](chinese-teachers-emphasize-competition-more.md) — related
 - [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
+- [Viewing STEM courses as competitive was associated with impostorship and, in turn, lower engagement and grades, especially for first-generation students](competitive-stem-courses-impostorship.md) — related
+- [Teachers' provision of opportunities to belong predicts Black and Latine students' class engagement and overall school engagement](opportunities-to-belong-predict-engagement.md) — related

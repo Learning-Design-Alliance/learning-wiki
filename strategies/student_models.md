@@ -12,7 +12,7 @@ generated:
 # Student Models
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (4 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (4 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 10 report an effect size
 
 ## Description
 Student models are authentic examples of peer work — essays, lab reports, solutions, designs — that instructors curate and share so learners can see what the target performance actually looks like at various quality levels. Unlike expert demonstrations, they show work produced by someone at (or near) the learners' own level, making quality criteria concrete and attainable. They are typically used before or during a writing or production task, often alongside rubrics or [Assessment](../elements/assessment.md) criteria.

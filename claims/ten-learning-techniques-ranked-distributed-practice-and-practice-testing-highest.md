@@ -71,3 +71,4 @@ Even the lowest techniques average d = 0.44, but the outcomes were mostly surfac
 - [Practice testing and distributed practice receive high utility assessments because their benefits generalize widely across learners, tasks, and educational contexts](practice-testing-distributed-practice-high-utility.md) — related
 - [Undergraduate students reported using relatively effective strategies (elaboration, organisation, spacing) more than less effective ones, with elaboration most endorsed and self-testing least endorsed](nz-undergrads-endorse-effective-strategies-more.md) — related
 - [Receiving elaborate explanations benefits learning only when the receiver can apply the explanation in a related task](receiving-explanations-effective-when-applicable.md) — related
+- [Self-explanation benefits learning across ages, but evidence is mixed for elementary-school children and effects shrink when time on task is equated](self-explanation-mixed-elementary.md) — related

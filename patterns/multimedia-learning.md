@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 78 claims (36 for, 40 mixed, 2 against) · 59 studies (32 causal, 10 quant-synthesis, 10 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 17 of 59 report an effect size · 69 claims rest on one study
+> **Evidence** · 79 claims (36 for, 41 mixed, 2 against) · 60 studies (33 causal, 10 quant-synthesis, 10 review, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 17 of 60 report an effect size · 70 claims rest on one study
 
 ## Description and scope
 
@@ -143,6 +143,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Learner-controlled pacing of a video model was heavily used and associated with better understanding of underlying processes and less practice time, especially as task difficulty increased](../claims/pacing-control-video-model-understanding.md) [+W]
 - [The mental integration task showed no general advantage of the dynamic over the static visual design in overall accuracy](../claims/no-general-dynamic-advantage-mental-integration.md) [~W]
 - [A tracing strategy combining segmentation and prediction produced more efficient learning than a non-interactive instructional condition](../claims/tracing-strategy-segmentation-prediction-efficiency.md) [~W]
+- [Textual slide content yields a small comprehension advantage over pictorial slide content in speeded audio-visual lectures, with no effect of speed](../claims/textual-beats-pictorial-slides-speeded-lectures.md) [~W]
 
 ## Examples
 

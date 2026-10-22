@@ -60,10 +60,12 @@ Retrieval practice produces large, durable gains in retention and transfer relat
 7. **Follow up.** Check-in on study habits over subsequent weeks; strategy adoption decays without accountability ([Check-Ins](../elements/check-in.md)).
 
 ## Related Strategies
+
 - [Spaced Practice](../principles/spaced-learning.md) — retrieval gains compound when attempts are distributed over time
 - [Interleaving](interleaving.md) — mixing retrieval across topics increases discrimination between problem types
 - [Metacognitive Strategy Instruction](metacognitive-strategy-instruction.md) — the broader family of training learners to select and monitor study strategies
 - [Self-Explanation](../elements/self-explanation.md) — a complementary generative strategy that pairs well with retrieval prompts
+- [Support effortful strategy use by making students aware of the benefits of retrieval practice and providing hints](awareness-hints-desirable-difficulty-retrieval.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard system; effective use requires training on card creation (atomic, cue-based cards) and honest grading of recall attempts.

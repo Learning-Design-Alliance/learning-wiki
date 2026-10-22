@@ -163,3 +163,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Individual rewards yield significant mCSCL effects while group reward methods do not](mcscl-individual-rewards-significant.md) — related
 - [Successful groups respond more appropriately to proposals and maintain joint attention better than less successful groups, and their members outperform on individual mastery and transfer tests](successful-groups-engaged-responses-joint-attention.md) — related
 - [Individualized instruction shows low effects compared to cooperative and collaborative learning](individualized-instruction-low-effects-versus-collaborative.md) — related
+- [Alignment, rewards, and setting do not discriminate between peer assessment design classes, because a single practice typically dominates each](peer-assessment-nondiscriminating-elements.md) — related

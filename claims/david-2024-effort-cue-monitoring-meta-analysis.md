@@ -48,3 +48,5 @@ Meta-analysis by David et al. (2024) on the relation between perceived mental ef
 - [Effort appraisals correlate negatively with monitoring judgments: high mental effort is associated with poorer performance judgments](effort-appraisals-negative-correlation-monitoring.md) — possibly the same claim (merge candidate)
 - [Perceived effort ratings are metacognitive judgments based on heuristic cue processing and prone to bias](perceived-effort-metacognitive-judgment.md) — a broader claim this one bears on
 - [Effort measurement type moderates the correlation: self-agency ratings show a positive association and subjective ratings a stronger negative one than objective measures](effort-measure-type-moderates-correlation.md) — related
+- [Students use invested mental effort as a cue when judging their learning, and self-rated mental effort is negatively related to judgments of learning](effort-cue-negative-jol-relation.md) — possibly the same claim (merge candidate)
+- [Mental effort and judgments of learning show a medium-sized negative correlation, moderated by regulation mode and task type](mental-effort-jol-negative-correlation-moderators.md) — related

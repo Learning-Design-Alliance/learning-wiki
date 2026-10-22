@@ -57,3 +57,5 @@ In the study by Stein, Clarridge, and Berliner (1988), expert, novice, and postu
 - [Teaching experience is associated with higher frequency of mental/perceptual and action/event words in think-aloud about classroom scenes](expertise-associated-event-cognition-word-usage.md) — related
 - [Low- and high-performing students make different types of errors and therefore need different kinds of support](error-types-differ-by-skill-group-math.md) — related
 - [In reading textually constrained period poetry, experts' organized domain knowledge (schemata) is the major factor differentiating them from novices, enabling allusion, contextualization and anticipation.](poetry-experts-schemata-allusion-contextualization-anticipation.md) — related
+- [Experts respond to classroom events predictively and proactively via precursor detection, while novices are either unaware or reactively aware](expert-predictive-novice-reactive-decisions.md) — related
+- [Expert teachers interpret classroom events more analytically and focus on learning consequences, while novices emphasize student behavior](experts-interpret-events-learning-novices-behavior.md) — related

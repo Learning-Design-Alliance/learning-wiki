@@ -52,6 +52,7 @@ The authors recommend, before measuring, developing a clear theoretical and conc
 ## Related Strategies
 
 - [Future social presence research should use solid conceptualization, report instrument validity, consider media generalization, and use diverse measurement approaches](social-presence-measurement-research-recommendations.md)
+- [Develop secondary-specific conceptualisations and measures of positive teacher-student relationships](develop-secondary-specific-tsr-measures-research.md)
 
 ## Examples
 -

@@ -22,7 +22,7 @@ sources:
 # Pairing Non-examples with Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (8 for, 7 mixed) · 20 studies (9 causal, 5 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 20 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (8 for, 7 mixed) · 22 studies (9 causal, 7 review, 3 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 22 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 

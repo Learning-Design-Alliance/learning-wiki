@@ -56,3 +56,4 @@ CFA (Proc TCALIS, maximum likelihood) on goal scores from MAP Reading and Mathem
 - [Confirmatory factor analysis on FICSMath data confirms the 4C/ID Model's four components fit secondary-tertiary mathematics instructional experiences (CFI = 0.907, RMSEA = 0.050)](cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) — related
 - [MLGM model fit failed for the Indiana mathematics test, the sole exception to invariance support](indiana-mathematics-mlgm-fit-exception.md) — related
 - [Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality](knowledge-of-results-no-effect-achievement-test-dimensionality.md) — related
+- [Global-fit evidence does not clearly favor unidimensional over multidimensional academic resilience measurement models, as fit-index pass rates diverge by index](dimensionality-evidence-mixed-resilience-scales.md) — related

@@ -13,7 +13,7 @@ generated:
 # Simulation Based Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 20 studies (8 causal, 8 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 22 studies (8 causal, 8 quant-synthesis, 4 review, 2 theoretical), `q1`–`q4` · 6 of 22 report an effect size · 1 claim rests on one study
 
 ## Description
 Simulation based learning places learners inside an interactive model of a real task, environment, or system — a flight simulator, a standardized patient, a business game, a virtual lab — where they make decisions, act, and observe consequences without real-world risk. It is carried out through cycles of scenario engagement, feedback, and often structured debriefing, in which the simulated experience is reviewed and connected to underlying principles.

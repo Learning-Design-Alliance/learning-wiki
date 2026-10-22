@@ -58,7 +58,7 @@ Narrative review reporting the D'Angelo et al. (2014) meta-analysis: supplementi
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How much guidance should learners get while they explore a simulation, and does the answer change with what they already know?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **11 distinct studies** (4 quant-synthesis, 2 causal, 2 review, 2 qualitative, 1 theoretical), `q1`–`q4`, 3 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How much guidance should learners get while they explore a simulation, and does the answer change with what they already know?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **13 distinct studies** (4 quant-synthesis, 3 review, 2 causal, 2 qualitative, 1 theoretical, 1 kind not coded), `q1`–`q4`, 3 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -71,6 +71,8 @@ Narrative review reporting the D'Angelo et al. (2014) meta-analysis: supplementi
 | [Kalyuga et al. 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | [Kalyuga et al. 1998](https://doi.org/10.1518/001872098779480587) | q3 · causal · r? | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | Obikwelu 2013 | q1 · theoretical · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
+| [Slava Kalyuga 2010](https://doi.org/10.1007/s11251-009-9102-0) | q2 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
+| [Leonard Tetzlaff 2021](https://doi.org/10.1007/s10648-020-09570-w) | q2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | [Podolefsky 2013](https://doi.org/10.48550/arxiv.1306.6544) | q2 · qualitative · r2 | i? | [A student began interacting with the sim within 10 seconds and verbalized sense-making wit](implicit-scaffolding-supports-immediate-exploration.md) (qualifies) |
 | Tao 1997 | q2 · qualitative · r2 | i? | [Computer-supported collaborative learning with simulation programs fostered conceptual cha](cscl-simulation-conceptual-change-cognitive-engagement.md) (qualifies) |
 <!-- synthesis:end -->

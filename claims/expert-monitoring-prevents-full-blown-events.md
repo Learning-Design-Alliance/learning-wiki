@@ -50,3 +50,5 @@ The editorial reports, citing Wolff et al. (this issue), that novices are distra
 - [Novices and experts committed similar total error numbers but different error types in computer work](novice-expert-error-type-differences.md) — related
 - [Observers of peer models who made and corrected key errors learned to identify and eliminate such errors, whereas observers of expert models missed the error-correction information](peer-model-error-correction-observers.md) — related
 - [Both novice and expert teachers state valid behavioral cues when inferring student profiles, but novices rely more on salient cues such as hand raising and quality of answers](novices-rely-on-salient-cues-hand-raising.md) — related
+- [Experts show rapid pattern recognition and instantaneous visceral decision-making, while novices rely on prolonged deliberate analysis that may lag events](expert-pattern-recognition-novice-prolonged-analysis.md) — related
+- [Expert teachers interpret classroom events more analytically and focus on learning consequences, while novices emphasize student behavior](experts-interpret-events-learning-novices-behavior.md) — related

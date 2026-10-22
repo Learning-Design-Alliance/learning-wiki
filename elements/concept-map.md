@@ -19,7 +19,7 @@ sources:
 # Concept Map
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (4 for, 10 mixed, 1 against) · 16 studies (7 causal, 3 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size · 11 claims rest on one study
+> **Evidence** · 16 claims (5 for, 10 mixed, 1 against) · 17 studies (7 causal, 3 quant-synthesis, 3 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 17 report an effect size · 12 claims rest on one study
 
 ## Description
 A concept map is a diagram in which concepts appear as nodes and labeled links express the relationships between them, forming a propositional structure ("concept — linking word — concept"). It functions both as a learning activity (learners construct maps) and as an assessment or advance organizer (instructors provide or score maps). Concept maps make knowledge structure — not just knowledge items — visible and revisable.
@@ -75,6 +75,7 @@ Concept mapping supports meaningful learning by forcing learners to identify rel
 - [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](../claims/cooperative-concept-mapping-better-than-individual.md) [~W]
 - [Concept mapping has a moderate overall positive effect on science achievement for elementary and secondary students (g = 0.776)](../claims/concept-maps-moderate-overall-science-achievement-effect.md) [+W]
 - [Concept mapping shows a large effect for low-achieving students (g = 2.019) and moderate effect for high-achieving students (g = 0.610), not significantly different](../claims/concept-maps-large-effect-low-achieving-students.md) [~W]
+- [Self-generated concept mapping benefits learning from grade 4 onwards with similar effect sizes across grades 4–8, 9–12, and college](../claims/concept-mapping-effective-grade-4-onwards.md) [+W]
 
 ## The evidence by question
 - *Does having learners build an organization of the content as a concept map help, and against what comparison?* [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+S]

@@ -12,7 +12,7 @@ generated:
 # Video Based Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (3 causal, 2 review, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 10 studies (4 review, 3 causal, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Video based instruction delivers content through recorded audiovisual segments — narrated slides, screencasts, demonstrations, or talking-head presentations — that learners watch before, during, or after other learning activities. It is carried out by producing or curating video segments, typically kept short and focused on a single concept, and embedding them within a larger sequence that includes practice and feedback.

@@ -13,7 +13,7 @@ generated:
 # Provide guidance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (8 for, 8 mixed, 2 against) · 27 studies (12 causal, 5 review, 4 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 27 report an effect size · 11 claims rest on one study
+> **Evidence** · 18 claims (8 for, 8 mixed, 2 against) · 29 studies (12 causal, 7 review, 4 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 29 report an effect size · 11 claims rest on one study
 
 ## Description
 Providing guidance means supplying learners with scaffolding, models, worked examples, or coaching support while they acquire new knowledge or skills. The instructor or system structures the task enough to prevent unproductive search and error, then progressively withdraws support as competence develops.

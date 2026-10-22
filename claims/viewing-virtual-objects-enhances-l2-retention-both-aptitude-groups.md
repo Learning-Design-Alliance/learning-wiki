@@ -65,3 +65,4 @@ Post-hoc comparisons by aptitude group in the same study. The picture benefit he
 - [Language aptitude correlates with vocabulary retention after audiovisual learning but not after grasping-based learning](aptitude-vocabulary-correlation-eliminated-by-grasping.md) — related
 - [Grasping virtual objects during L2 vocabulary learning enhances test performance relative to audiovisual-only learning](grasping-virtual-objects-enhances-l2-vocabulary-retention.md) — reports the opposite
 - [Grasping virtual objects benefits low language aptitude learners but not high language aptitude learners relative to audiovisual baseline](grasping-benefits-low-aptitude-not-high-aptitude-learners.md) — related
+- [Grasping virtual objects in VR improves foreign language vocabulary retention for learners with low language aptitude, but not for those with high aptitude](vr-grasping-vocabulary-low-aptitude-learners.md) — related

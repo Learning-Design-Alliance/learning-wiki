@@ -68,3 +68,4 @@ Bootstrapped mediation tests (5,000 resamples) in the base model; direct behavio
 - [Smartphone settings moderate how vigilance translates into phone use: vigilance raises checking frequency more when notifications are revealed, and use duration more when notifications are hidden](settings-moderate-vigilance-phone-use-link.md)
 - [Notification-hidden students showed longer average phone-use duration and no performance difference versus notification-revealed students](no-performance-difference-notification-settings.md) — related
 - [Habitual phone use heightens smartphone vigilance but does not directly increase checking frequency; it lengthens use duration only when notifications are hidden](habitual-use-acts-through-vigilance.md) — related
+- [Computer-based distractions (phone calls, texts, emails, notifications) do not significantly impair comprehension of lecture videos at 1x or 2x speed](on-screen-distractions-no-comprehension-cost.md) — reports the opposite

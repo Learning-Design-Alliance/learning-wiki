@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 61 claims (14 for, 34 mixed, 13 against) · 49 studies (23 causal, 11 associational, 6 review, 4 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 18 of 49 report an effect size · 57 claims rest on one study
+> **Evidence** · 62 claims (14 for, 35 mixed, 13 against) · 50 studies (23 causal, 11 associational, 6 review, 5 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 18 of 50 report an effect size · 58 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -111,6 +111,7 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Boundary conditions: explicit relation-focused instructions and no access to products during judgment are needed for mapping and drawing to improve monitoring accuracy](../claims/mapping-drawing-boundary-conditions-instructions-and-retrieval.md) [~W]
 - [Effects of gender and self-perceived metacomprehension ability on bias arose mainly from judgment magnitude, whereas WMC and topic knowledge also affected performance](../claims/bias-mechanisms-magnitude-versus-performance.md) [~W]
 - [Significant learner characteristics explained 17% and 14% of variance in prediction bias and 11% and 12% in postdiction bias, so characteristics were slightly more relevant for predictions](../claims/variance-explained-judgment-bias.md) [~W]
+- [Situation-model-approach interventions show a medium-sized positive effect on metacomprehension accuracy and a small direct effect on comprehension](../claims/situation-model-interventions-metacomprehension-effect.md) [~W]
 
 ## The evidence by question
 

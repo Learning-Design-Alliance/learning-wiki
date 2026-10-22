@@ -46,3 +46,4 @@ The editorial's own Limitations and Scope section states the sample comprises 13
 - [Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether](financial-constraints-shape-first-generation-career-decisions.md) — related
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related
 - [Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking](psychological-belonging-barrier-first-generation-chemists.md) — related
+- [Interviewed academic women defined success in terms of collegiality, institutions pursuing public good, and mentoring growth rather than productivity indicators](womens-own-success-definitions-collegiality-mentoring.md) — related

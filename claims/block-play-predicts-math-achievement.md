@@ -97,3 +97,4 @@ An intact group of 37 four-year-olds at a play-oriented preschool was rated on b
 - [ANS acuity is a unique concurrent predictor of preschool math ability beyond expressive vocabulary, non-numerical attention RT, and memory span](ans-acuity-unique-concurrent-predictor-beyond-domain-general.md) — related
 - [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — related
 - [Supporting early childhood math development is important for young children's development](early-math-development-importance.md) — a broader claim this one bears on
+- [Spatial ability scores are positively associated with mathematics performance across children and adults, as the review reports](spatial-ability-associated-mathematics-performance.md) — a broader claim this one bears on

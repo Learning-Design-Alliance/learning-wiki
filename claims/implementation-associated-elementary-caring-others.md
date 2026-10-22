@@ -52,3 +52,4 @@ Mixed-effects multilevel regression of spring 2022 SCCS elementary student data 
 - [School designs supporting caring, continuous student-teacher relationships better address trauma and strengthen achievement than traditional factory-model schools](relationship-centered-designs-beat-factory-model.md) — related
 - [Students reported significantly higher perception of instructor Caring on the MUSIC Inventory in Fall 2025 after DURA course updates](dura-updates-higher-music-caring-perception.md) — related
 - [MindMatters evaluations show improved resilience and school climate, with modest overall effects in the German secondary-school adaptation](mindmatters-evaluation-mixed-effects.md) — related
+- [Teachers' empathetic caring is associated with stronger mathematics classroom connectedness among Black and Latine students than transactional care](empathetic-care-math-connectedness.md) — related

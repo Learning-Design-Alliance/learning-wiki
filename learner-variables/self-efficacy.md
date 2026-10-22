@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 131 claims (100 show a difference, 19 mixed, 12 no difference) · 113 studies (41 associational, 22 causal, 17 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 22 of 113 report an effect size · 127 claims rest on one study
+> **Evidence** · 134 claims (102 show a difference, 20 mixed, 12 no difference) · 114 studies (41 associational, 22 causal, 18 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 22 of 114 report an effect size · 130 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -162,6 +162,9 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [AHS is frequently associated with self-regulation and self-efficacy, but these associations are not consistent across studies](../claims/ahs-self-regulation-self-efficacy-inconsistent.md) [~M] — learners who differ on it differ in outcomes
 - [Teacher-reported relationship conflict, but not closeness, is modestly related to teacher efficacy beliefs and depression, though findings are mixed](../claims/relationship-conflict-linked-teacher-efficacy-depression.md) [~M] — learners who differ on it differ in outcomes
 - [Teachers' relational self-efficacy—beliefs in their capability to form, maintain, and repair relationships—is hypothesized to motivate TSR-building, but existing global self-efficacy measures show mixed links to TSR quality](../claims/relational-self-efficacy-mixed-evidence.md) [~M] — learners who differ on it differ in outcomes
+- [Belonging may be more predictive of students' classroom participation and learning behavior than self-efficacy](../claims/belonging-more-predictive-than-self-efficacy.md) [~M] — learners who differ on it differ in outcomes
+- [During inquiry-informed learning, students' interest, self-efficacy, and belonging were increasingly coordinated over time](../claims/interest-self-efficacy-belonging-coordinated-over-time.md) [+M] — instruction changes it
+- [Interest and self-efficacy are distinct yet reciprocally related in supporting learning](../claims/interest-self-efficacy-reciprocal-relation.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

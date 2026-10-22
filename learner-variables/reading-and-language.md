@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 174 claims (110 show a difference, 25 mixed, 39 no difference) · 128 studies (34 causal, 29 associational, 28 quant-synthesis, 23 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 29 of 128 report an effect size · 165 claims rest on one study
+> **Evidence** · 177 claims (113 show a difference, 25 mixed, 39 no difference) · 129 studies (34 causal, 29 quant-synthesis, 29 associational, 23 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 30 of 129 report an effect size · 168 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -225,6 +225,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [Computer-assisted word reading interventions yield an average effect size of 0.36 on word reading outcomes across program types and languages in primary grades](../claims/computer-word-reading-interventions-average-effect-036.md) [+W] — instruction changes it
 - [DLG implementation is associated with improved language and reading skills and more positive attitudes towards learning and reading](../claims/dlg-improve-language-reading-skills.md) [+M] — instruction changes it
 - [For postdiction bias on factual questions, underestimation was prevalent for females, higher reading skill, and lower self-perceived topic knowledge and metacomprehension ability](../claims/factual-postdiction-underestimation-pattern.md) [+M] — learners who differ on it differ in outcomes
+- [Extensive reading effects are larger when sample members have different first languages](../claims/er-mixed-first-language-larger-effects.md) [+M] — an instructional effect differs with it
+- [Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)](../claims/er-positive-effect-second-foreign-language.md) [+M] — instruction changes it
+- [Extensive reading shows small-to-medium significant positive effects on every measured language domain, including vocabulary, reading comprehension, and general proficiency](../claims/er-effects-across-language-domains.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 78 claims (60 show a difference, 16 mixed, 2 no difference) · 65 studies (21 review, 12 qualitative, 10 causal, 8 associational, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 2 of 65 report an effect size · 73 claims rest on one study
+> **Evidence** · 83 claims (65 show a difference, 16 mixed, 2 no difference) · 67 studies (23 review, 12 qualitative, 10 causal, 8 associational, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 2 of 67 report an effect size · 78 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -115,6 +115,11 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Fixed mindset peer cultures are theorized to erode belonging via identity threat, especially for minoritized students](../claims/fixed-mindset-peer-culture-identity-threat.md) [~W] — instruction changes it
 - [Mindset-culture mismatch is proposed to lower belonging most for students who strongly endorse a growth mindset](../claims/mindset-culture-mismatch-growth-mindset-students.md) [~W] — instruction changes it
 - [Minoritized students reported lower belonging where peers endorsed more fixed mindset beliefs, with an asymmetric pattern](../claims/minoritized-students-belonging-peer-fixed-mindset.md) [~M] — instruction changes it
+- [Belonging correlates with self-efficacy and shows small-to-moderate correlations with secondary students' achievement](../claims/belonging-correlations-self-efficacy-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Belonging may be more predictive of students' classroom participation and learning behavior than self-efficacy](../claims/belonging-more-predictive-than-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [During inquiry-informed learning, students' interest, self-efficacy, and belonging were increasingly coordinated over time](../claims/interest-self-efficacy-belonging-coordinated-over-time.md) [+M] — instruction changes it
+- [Sense of belonging in learning contexts is robustly associated with psychological well-being, academic motivation, and academic performance](../claims/belonging-associated-wellbeing-motivation-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Teachers' empathetic caring is associated with stronger mathematics classroom connectedness among Black and Latine students than transactional care](../claims/empathetic-care-math-connectedness.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

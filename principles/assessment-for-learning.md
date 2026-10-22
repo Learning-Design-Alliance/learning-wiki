@@ -31,7 +31,7 @@ sources:
 # Assessment for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (13 for, 12 mixed, 2 against) · 33 studies (11 causal, 7 quant-synthesis, 5 review, 5 theoretical, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 8 of 33 report an effect size · 20 claims rest on one study
+> **Evidence** · 28 claims (13 for, 13 mixed, 2 against) · 34 studies (11 causal, 8 quant-synthesis, 5 review, 5 theoretical, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 8 of 34 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,6 +114,7 @@ Revise it if comparable learners using criteria-based self-assessment with a rev
 - [Teacher feedback as part of formative assessment has been shown by multiple studies to move student learning forward](../claims/teacher-feedback-moves-learning-forward.md) [+W]
 - [Three Type Competency Assessment Taxonomy](../theories/three-type-competency-assessment-taxonomy.md) [+M]
 - [Actionable and descriptive feedback moves student learning forward, and effective feedback differs from less-effective feedback on identifiable qualities](../claims/actionable-descriptive-feedback-moves-learning-forward.md) [~W]
+- [Descriptively, monitoring interventions with teacher feedback on entries and direct revision opportunities showed higher effects](../claims/teacher-feedback-and-revision-descriptive-advantage.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

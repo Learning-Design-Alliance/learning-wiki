@@ -71,3 +71,4 @@ The review reports, citing van de Pol et al., that visualization activities impr
 - [Intervention types (cue-generation encoding-based, retrieval-based, cue-attention, cue-selection) do not substantially differ in effectiveness](intervention-types-no-substantial-difference.md) — related
 - [Rereading significantly improves metacomprehension monitoring accuracy relative to reading once (Experiment 1)](rereading-improves-metacomprehension-accuracy.md) — related
 - [Generative activities improve students' monitoring accuracy but not their actual learning after restudy](generative-activities-improve-monitoring-not-restudy-learning.md) — possibly the same claim (merge candidate)
+- [Situation-model-approach interventions show a medium-sized positive effect on metacomprehension accuracy and a small direct effect on comprehension](situation-model-interventions-metacomprehension-effect.md) — related

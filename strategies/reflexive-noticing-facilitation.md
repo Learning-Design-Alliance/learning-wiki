@@ -48,7 +48,9 @@ This strategy operationalizes [Reflexive Noticing](../theories/reflexive-noticin
 5. Track discourse over multiple sessions for a shift from stabilizing markers ("that's how it goes here," "nothing we've tried helps") to possibility markers (agentic framing of student difficulty as workable).
 
 ## Related Strategies
+
 - (none yet linked)
+- [Treat educator implementation concerns as speed bumps: slow down and discuss nuances of the research to address them](speed-bumps-approach-science-communication.md)
 
 ## Examples
 - Nine fortnightly two-hour whole-school intervention sessions in a Finnish middle school (27 teachers, ~300 students, 30% recent immigrants/refugees), using classroom video review and pilot-unit planning as the raw material for reflexive noticing.

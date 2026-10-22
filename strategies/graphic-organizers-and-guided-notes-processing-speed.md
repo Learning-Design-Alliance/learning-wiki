@@ -13,7 +13,7 @@ generated:
 # Graphic Organizers and Guided Notes (Processing Speed)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 10 claims (5 for, 3 mixed, 2 against) · 26 studies (12 causal, 8 quant-synthesis, 5 review, 1 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 1 claim rests on one study
+> **Evidence** · 10 claims (5 for, 3 mixed, 2 against) · 28 studies (12 causal, 8 quant-synthesis, 7 review, 1 theoretical), `q1`–`q4` · 7 of 28 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy provides students with pre-structured supports — graphic organizers (visual maps of relationships among ideas) or guided notes (lecture outlines with deliberate blanks, cues, and headings) — during direct instruction. The structure externalizes the organizational demands of note-taking so students can devote working memory to comprehending content rather than deciding what to record and how to format it.

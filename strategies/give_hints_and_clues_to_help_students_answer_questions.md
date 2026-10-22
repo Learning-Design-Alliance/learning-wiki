@@ -12,7 +12,7 @@ generated:
 # Give Hints and Clues to Help Students Answer Questions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 14 studies (4 causal, 4 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 14 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 16 studies (6 review, 4 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 16 report an effect size
 
 ## Description
 When a learner is unable to answer a question, the instructor responds with a sequence of graduated hints — rephrasing the question, narrowing its scope, or pointing to relevant prior knowledge — rather than either repeating the question verbatim or supplying the answer. The goal is to keep the learner doing the cognitive work while reducing the difficulty of the search. Hints should be contingent: the smallest prompt that allows the learner to proceed, escalating only as needed [Contingent scaffolding improves learning outcomes.](../claims/contingent-scaffolding-improves-learning.md) [+M].

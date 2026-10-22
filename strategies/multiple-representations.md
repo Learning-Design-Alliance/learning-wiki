@@ -13,7 +13,7 @@ generated:
 # Multiple Representations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 17 studies (8 causal, 4 review, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 17 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 19 studies (8 causal, 6 review, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 19 report an effect size · 2 claims rest on one study
 
 ## Description
 Multiple representations present the same concept or relation in two or more forms — for example, a graph alongside its equation, a physical model alongside a verbal description, or a diagram alongside symbolic notation. The goal is for learners to map between forms, so each representation constrains and enriches interpretation of the others. This is the instructional application of dual coding: verbal and visual codes provide independent retrieval routes [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].

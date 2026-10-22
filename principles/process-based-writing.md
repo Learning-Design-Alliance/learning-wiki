@@ -28,7 +28,7 @@ sources:
 # Process-based Writing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (16 for, 15 mixed) · 47 studies (15 causal, 10 quant-synthesis, 6 review, 6 theoretical, 4 associational, 4 qualitative, 2 design), `q1`–`q4` · 10 of 47 report an effect size · 21 claims rest on one study
+> **Evidence** · 31 claims (16 for, 15 mixed) · 49 studies (15 causal, 10 quant-synthesis, 8 review, 6 theoretical, 4 associational, 4 qualitative, 2 design), `q1`–`q4` · 10 of 49 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 

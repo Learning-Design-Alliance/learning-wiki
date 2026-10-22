@@ -44,7 +44,7 @@ Michelle L. Rivers, Paige E. Northern, Sarah K. Tauber. (2025). Does Retrieval D
 
 `q3 · i2` · `causal · r2`
 
-In Experiment 1 (98 undergraduates, 3 practice modalities within-participants, criterion test two days later), recall of definitions was higher after overt retrieval (M = 0.41) than covert retrieval, with printed effect size gav = 0.47. Overt also beat restudy, and covert beat restudy.
+In Experiment 1 (98 undergraduates, 3 practice modalities within-participants, criterion test two days later), for participants who practiced definitions, recall of definitions was higher after overt retrieval (M = 0.50) than covert retrieval (M = 0.41), with printed effect size gav = 0.47. In that group overt also beat restudy, and covert beat restudy (gav = 0.31); for participants who practiced terms, covert retrieval did not differ significantly from restudy (p = 0.336).
 
 > "Recall was also higher following overt retrieval compared to covert retrieval (M = 0.41, SE = 0.03), t(51) = 3.78, p < 0.001, 95% CI [0.04, 0.14], g av = 0.47."
 
@@ -54,7 +54,7 @@ Michelle L. Rivers, Paige E. Northern, Sarah K. Tauber. (2025). Does Retrieval D
 
 `q3 · i2` · `causal · r3`
 
-In the high-powered Experiment 2 (382 undergraduates), for participants who practiced and were tested on definitions, overt retrieval (M = 0.43) beat covert retrieval with printed effect size gav = 0.44; covert also beat restudy (gav = 0.16).
+In the high-powered Experiment 2 (382 undergraduates), for participants who practiced and were tested on definitions, overt retrieval (M = 0.53) beat covert retrieval (M = 0.43) with printed effect size gav = 0.44; covert also beat restudy (gav = 0.16).
 
 > "Recall was also higher following overt retrieval compared to covert retrieval (M = 0.43, SE = 0.02), t(100) = 5.66, p < 0.001, 95% CI [0.06, 0.14], g av = 0.44."
 
@@ -70,3 +70,4 @@ In the high-powered Experiment 2 (382 undergraduates), for participants who prac
 - [The overt-retrieval advantage does not significantly differ by definition complexity (number of idea units), contrary to a retrieval-dynamics prediction](overt-advantage-not-moderated-by-idea-units.md) — related
 - [Overt retrieval also outperforms covert retrieval for key terms, but with a smaller advantage than for definitions](overt-beats-covert-retrieval-key-terms-smaller.md) — a narrower finding that bears on this claim
 - [Transfer across response formats is incomplete: practicing terms benefited definition recall, but practicing definitions showed no overt-over-covert advantage on a term test](transfer-across-term-definition-formats-mixed.md) — related
+- [Response format (overt vs. covert retrieval) did not affect final cued recall in spaced retrieval practice, and list structure (blocked vs. random; proportion of overt trials) did not moderate the effect.](covert-overt-retrieval-no-effect-spaced-practice.md) — reports the opposite

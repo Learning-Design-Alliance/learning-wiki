@@ -49,3 +49,4 @@ Cross-sectional questionnaire study of 267 Japanese students in grades 4-9. The 
 - [No cognitive test score is associated with decreased intrinsic academic motivation in elementary school students](no-cognitive-test-associated-elementary-motivation-decline.md) — related
 - [Verbal memory test scores correlate positively with intrinsic academic motivation scores in junior high but not elementary students](verbal-memory-correlates-motivation-junior-high-only.md) — related
 - [Elementary classrooms score significantly higher on the PERTS academic mindset scale than middle school classrooms](elementary-classrooms-higher-perts-than-middle.md) — related
+- [Junior high math teachers were more controlling and less supportive than elementary teachers, and classrooms with the strongest such changes showed the largest declines in math motivation](junior-high-teachers-more-controlling-motivation-declines.md) — related

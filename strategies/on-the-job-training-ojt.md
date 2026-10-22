@@ -26,7 +26,7 @@ sources:
 # On-the-Job Training (OJT)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (3 causal, 3 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 2 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (4 review, 3 causal, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 2 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 On-the-job training places the learner at the actual worksite, doing the actual work, with an experienced worker as trainer. The learner observes the task performed on real equipment with real consequences, attempts it under supervision, and takes over progressively as competence shows. Its defining feature is that the training context and the performance context are the same context — which removes the transfer gap that classroom training has to bridge, and simultaneously removes the safety net that classroom training provides.

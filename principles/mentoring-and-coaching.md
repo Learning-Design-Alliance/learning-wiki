@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (31 for, 27 mixed, 7 against) · 48 studies (12 causal, 10 review, 10 associational, 9 qualitative, 3 quant-synthesis, 3 design, 1 theoretical), `q1`–`q4` · 6 of 48 report an effect size · 61 claims rest on one study
+> **Evidence** · 66 claims (31 for, 28 mixed, 7 against) · 49 studies (12 causal, 10 review, 10 associational, 9 qualitative, 3 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 6 of 49 report an effect size · 62 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,10 @@ The designer's objective is usually a change in the learner's practice (observed
 The expectation should weaken if randomised comparisons of mentoring or coaching anchored in observed work show no advantage over unobserved advice or no relationship; if the teacher-induction null effect holds in later years and in other programmes; if student-coaching persistence gains disappear at scale as teacher-coaching effects shrink; or if software coaches match human ones on unaided performance, in which case the relationship is a delivery choice rather than the active ingredient. If role separation, matching or mentor preparation turn out to make no difference when tested, the default's steps 5–7 are costs without benefits. Do not protect the model by calling every null result "not real mentoring" after the fact.
 
 Observed practice, the coached person's students' achievement, persistence, completion, earnings and the mentee's own valued goal are separate claims. The present evidence establishes no contact frequency, session length, mentor-to-mentee ratio or matching rule.
+
+## Claims
+
+- [Mentors from marginalised groups are asked to perform disproportionally more mentoring than scholars from privileged backgrounds](../claims/minority-mentors-disproportionate-mentoring-load.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — coaching often operates through contingent support and gradual release.

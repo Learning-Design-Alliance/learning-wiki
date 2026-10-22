@@ -30,6 +30,7 @@ The editorial reports that Su et al. advocate studying regulation "using the int
 ## Related Research Methods
 
 - [Situated-interaction analysis of CSCL processes](situated-interaction-analysis-of-cscl-processes.md)
+- [Referent-aligned multilevel analysis of relationship measures](referent-aligned-multilevel-analysis-of-relationship-measures.md)
 
 ## Key Sources
 - Sten Ludvigsen, Ulrike Cress, Nancy Law, Gerry Stahl, Carolyn P. Rosé. (2018). Multiple forms of regulation and coordination across levels in educational settings. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-018-9274-1

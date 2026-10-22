@@ -57,3 +57,4 @@ Interpretation of the Factor 2 composition (task-value and self-efficacy items) 
 - [Community-based mathematical investigations gave students confidence to use mathematics for social change](community-based-math-social-change.md) — related
 - [Learning patterns are associated with personal factors (personality, motivation, beliefs, prior education, age, gender); their associations with personality are weak to moderate, indicating learning patterns are not stable traits](learning-patterns-personal-factors.md) — related
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — a broader claim this one bears on
+- [Interest and self-efficacy are distinct yet reciprocally related in supporting learning](interest-self-efficacy-reciprocal-relation.md) — related

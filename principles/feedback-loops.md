@@ -34,7 +34,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (18 for, 10 mixed, 2 against) · 44 studies (13 causal, 9 quant-synthesis, 9 review, 5 design, 4 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 8 of 44 report an effect size · 21 claims rest on one study
+> **Evidence** · 31 claims (18 for, 11 mixed, 2 against) · 47 studies (13 causal, 11 review, 10 quant-synthesis, 5 design, 4 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 8 of 47 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -171,6 +171,7 @@ Following the information on the corrected item, unaided performance on a new it
 - [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](../claims/students-recognize-writing-improvement-ai-feedback.md) [+W]
 - [Dl2F Dynamic Language Learning Framework](../theories/dl2f-dynamic-language-learning-framework.md) [+M]
 - [In water-jug problems, presenting information about available moves and their consequences did not enhance planning, though looping moves reliably decreased](../claims/move-availability-information-did-not-enhance-water-jug-planning.md) [~W]
+- [Descriptively, monitoring interventions with teacher feedback on entries and direct revision opportunities showed higher effects](../claims/teacher-feedback-and-revision-descriptive-advantage.md) [~W]
 
 ## Related Principles
 - [Immediate Feedback](immediate-feedback.md)

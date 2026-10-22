@@ -48,3 +48,4 @@ Second meta-analysis coded on mean comprehension test performance per participan
 - [Intervention types (cue-generation encoding-based, retrieval-based, cue-attention, cue-selection) do not substantially differ in effectiveness](intervention-types-no-substantial-difference.md) — related
 - [Situation-model-approach interventions produce a medium positive average effect (g = 0.46) on relative metacomprehension accuracy](situation-model-interventions-medium-average-effect-metacomprehension.md) — related
 - [Generative and visualizing tasks improve metacomprehension and monitoring accuracy but show small or null effects on learning outcomes](generative-tasks-monitoring-accuracy-not-outcomes.md) — a narrower finding that bears on this claim
+- [Situation-model-approach interventions show a medium-sized positive effect on metacomprehension accuracy and a small direct effect on comprehension](situation-model-interventions-metacomprehension-effect.md) — related

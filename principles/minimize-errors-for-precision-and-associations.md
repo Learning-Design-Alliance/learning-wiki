@@ -18,7 +18,7 @@ sources:
 # Teach response precision and new associations with minimal errors, using mediators and stimulus fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (7 for, 8 mixed) · 20 studies (6 causal, 5 review, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 5 of 20 report an effect size · 9 claims rest on one study
+> **Evidence** · 15 claims (7 for, 8 mixed) · 22 studies (7 review, 6 causal, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 5 of 22 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 

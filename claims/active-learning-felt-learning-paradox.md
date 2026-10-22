@@ -50,3 +50,4 @@ The paper reports, citing Deslauriers et al., that "students in active learning 
 - [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Qualitative findings: students initially held inaccurate beliefs about strategy efficacy, and high effort from interleaved practice was misinterpreted as a sign of poor learning](effort-misinterpreted-as-poor-learning.md) — related
+- [In a within-subjects category-learning experiment, students reported higher mental effort and lower concurrent judgments of learning during interleaved than during blocked studying](interleaved-higher-effort-lower-jol-within-subjects.md) — a narrower finding that bears on this claim

@@ -90,3 +90,4 @@ Interactive-mode counts: "older adults were more interactive than younger adults
 - [Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking](interactive-requires-constructive-turn-taking.md) — related
 - [Interaction during semiempty concept mapping shows higher transactivity: less elicitation and more externalization and integration than summary writing](concept-mapping-higher-transactivity-integration.md) — related
 - [Younger adults show higher learning performance than older adults in collaborative concept-map learning of psychological concepts, and older adults show no learning gain](older-adults-no-learning-gain-cscl-concept-maps.md) — related
+- [Concept-map generation requires age-appropriate instructional support: younger learners profit from high-coherence, pre-structured maps](concept-mapping-support-age-interaction.md) — related

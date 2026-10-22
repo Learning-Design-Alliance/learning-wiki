@@ -13,7 +13,7 @@ generated:
 # Decodable Text Reading Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 review, 2 causal, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (5 review, 2 causal, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Decodable texts are passages in which the majority of words are restricted to grapheme–phoneme correspondences that have been explicitly taught, plus a small controlled set of irregular high-frequency words. Learners read these texts aloud after receiving phonics instruction, so that every word encountered is one they can sound out rather than guess from pictures, context, or memorization. The practice consolidates letter–sound knowledge into fluent word recognition through repeated successful application.

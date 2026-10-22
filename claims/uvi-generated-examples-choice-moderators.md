@@ -68,3 +68,4 @@ Narrative review reporting that essay word count consistently mediates UVI effec
 - [Utility-value interventions enhance perceived utility value, engagement, performance, and persistence in introductory college science courses](uvi-improve-engagement-performance-persistence.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Performance benefits of UVIs may be limited to the perceived-useful content unless usefulness generalizes or interest develops](uvi-performance-benefits-context-limited.md) — related
+- [Perceived control and choice benefit motivation and simple-fact learning, but most students do not manage their learning effectively when given choice](choice-benefits-motivation-but-learners-manage-poorly.md) — related

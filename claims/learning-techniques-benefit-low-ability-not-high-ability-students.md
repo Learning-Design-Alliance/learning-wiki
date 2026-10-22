@@ -79,3 +79,4 @@ This rests on 19 studies and is consistent with expertise-reversal accounts, whe
 - [Fluency effects of Fluency Formula™ differ by initial ability: positive for low-ability students (effect size 0.66) and negative for high-ability students (effect size –0.21), both non-significant](fluency-formula-fluency-effects-differ-by-initial-ability.md) — a narrower finding that bears on this claim
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
 - [In the Bramlett quasi-experiment, no comprehension subtest or ability-level subgroup showed a statistically significant CIRC effect after WWC adjustments](circ-qed-subgroups-null.md) — related
+- [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — related

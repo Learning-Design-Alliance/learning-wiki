@@ -51,3 +51,4 @@ Randomized study of a general chemistry course innovation combining peer-based i
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [A personal utility prompt in journal writing improves learning motivation and comprehension](personal-utility-prompt-motivation-comprehension.md) — related
+- [Utility-value interventions improve grades, with the largest gains for first-generation and underrepresented minority students, and can improve STEM persistence years later](utility-value-interventions-improve-grades-and-persistence.md) — reports the opposite

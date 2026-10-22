@@ -50,3 +50,4 @@ Synthesis of racial battle fatigue research within the review's analysis section
 - [A welcoming campus racial climate fosters African American students' sense of belonging and intent to continue enrollment in mostly White schools](welcoming-climate-belonging-enrollment-intent.md) — related
 - [Qualitative research shows marginalized students' sense of belonging depends on maintaining connections to their valued identities at school (self-concept fit)](self-concept-fit-qualitative-belonging.md) — related
 - [Campus symbols such as antebellum architecture signal belonging to White and high-SES students and unwelcomeness to marginalized students](campus-symbols-signal-unwelcomeness-to-marginalized-students.md) — related
+- [Sense of belonging in learning contexts is robustly associated with psychological well-being, academic motivation, and academic performance](belonging-associated-wellbeing-motivation-performance.md) — related

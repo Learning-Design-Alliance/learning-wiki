@@ -68,3 +68,4 @@ Simple slopes analyses (Preacher, Curran, & Bauer technique) at 1 SD below mean 
 - [School racial/ethnic diversity and same-racial/ethnic peer proportion jointly predict higher reading achievement in kindergarten, with matching benefits concentrated in more diverse schools](school-diversity-matching-jointly-predict-reading-achievement.md) — related
 - [School belonging and GPA were modestly positively correlated among Latino sixth graders (r = .20)](belonging-gpa-correlation-latino-sixth-graders.md) — related
 - [Positive ethnic-racial affect is usually promotive but was linked to declining academic adjustment for Latino early adolescents in one study](eri-affirmation-academic-adjustment-context-dependent.md) — related
+- [Racial/ethnic composition of classrooms and schools shapes Black and Latine students' sense of belonging in mathematics](racial-ethnic-composition-shapes-math-belonging.md) — related

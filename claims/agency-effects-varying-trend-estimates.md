@@ -48,3 +48,4 @@ Agency Effects results compare the four survey agents. PISA estimates a median t
 - [Elementary/middle-grade math scores improved incrementally across all three eras while reading scores remained fairly flat for two decades](cps-math-incremental-reading-flat.md) — related
 - [Fourth-grade cohorts in other countries also show larger math than reading gains, suggesting moderators more general than the United States](international-math-reading-differential.md) — related
 - [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — related
+- [Over a decade of legally mandated synthetic phonics in England has not improved standardized reading outcomes (PIRLS, PISA, SATs)](england-mandated-phonics-no-standardized-outcome-gains.md) — related

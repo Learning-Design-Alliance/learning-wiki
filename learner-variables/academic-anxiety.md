@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 118 claims (75 show a difference, 29 mixed, 14 no difference) · 75 studies (29 associational, 17 review, 13 causal, 6 quant-synthesis, 5 qualitative, 4 theoretical, 1 design), `q1`–`q4` · 20 of 75 report an effect size · 112 claims rest on one study
+> **Evidence** · 118 claims (75 show a difference, 29 mixed, 14 no difference) · 76 studies (29 associational, 17 review, 13 causal, 6 quant-synthesis, 5 qualitative, 5 theoretical, 1 design), `q1`–`q4` · 20 of 76 report an effect size · 111 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).

@@ -13,7 +13,7 @@ generated:
 # Concept Mapping
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (5 for, 5 mixed) · 9 studies (3 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 5 of 9 report an effect size · 7 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 10 studies (3 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 6 of 10 report an effect size · 8 claims rest on one study
 
 ## Description
 Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links. It is useful for organizing prior knowledge, identifying structure, and making connections visible before, during, or after learning.
@@ -51,6 +51,7 @@ Concept mapping is the element in which learners represent concepts and their re
 - [Concept mapping shows a large effect for low-achieving students (g = 2.019) and moderate effect for high-achieving students (g = 0.610), not significantly different](../claims/concept-maps-large-effect-low-achieving-students.md) [~W]
 - [High teaching guidance in concept mapping yields larger effects than low guidance, though marginal after excluding influential studies](../claims/high-teaching-guidance-larger-concept-map-effects.md) [~W]
 - [Concept-mapping effects are larger in low- and middle-income countries (g = 1.053) than high-income countries (g = 0.626)](../claims/concept-map-effects-larger-low-middle-income-countries.md) [~W]
+- [Self-generated concept mapping benefits learning from grade 4 onwards with similar effect sizes across grades 4–8, 9–12, and college](../claims/concept-mapping-effective-grade-4-onwards.md) [+W]
 
 ## The evidence by question
 

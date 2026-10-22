@@ -42,6 +42,7 @@ The report recommends having student-facing options available so students can ch
 - [Easy-Access Educational Tools](easy-access_educational_tools.md)
 - [Providing Accessible Educational Tools](providing_accessible_educational_tools.md)
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md)
+- [Teachers reflect on student, EdTech, and teacher agency levels when selecting classroom EdTech](teachers-reflect-agency-levels-selecting-edtech.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Two-level moderator regressions for separate outcomes. Dimensionality significan
 - [The magnitude of sex differences in mathematics varies across geographical regions, with larger estimated effects in Central Europe (d = 0.164) and Central and South America (d = 0.153) than in North America (d = 0.047)](geographic-region-moderation-sex-differences-mathematics.md) — related
 - [Geographical region moderated several engagement-correlate relations, with Eastern students showing higher relations than Western students](region-moderates-engagement-correlate-relations.md) — related
 - [Teachers' growth mindset is unrelated to performance-approach goals, performance-avoidance goals, teachers' test performance, and student achievement](teacher-growth-mindset-null-performance-student-achievement.md) — related
+- [Region, study quality, and interaction domain moderate associations between factors and interactive skills](moderators-region-quality-domain.md) — related

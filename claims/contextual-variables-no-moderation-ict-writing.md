@@ -51,3 +51,4 @@ Separate three-level meta-regressions with cluster-robust inference on the 42-st
 - [Dynamic (adaptive) scaffolding is linked to stronger effects of ICT-supported writing interventions](dynamic-scaffolding-stronger-writing-effects.md) — related
 - [Writing intervention effects for US ELL students do not vary significantly by study quality indicators, participant characteristics, or intervention characteristics](no-significant-moderators-ell-writing-effects.md) — related
 - [Intervention duration does not significantly predict GenAI writing effect sizes, which the authors attribute to limited temporal diversity in the evidence base](duration-nonsignificant-moderator-genai-writing.md) — related
+- [Intervention duration in weeks and study-quality characteristics did not significantly moderate extensive reading effects](er-duration-study-characteristics-null-moderators.md) — related

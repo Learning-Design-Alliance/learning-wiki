@@ -56,3 +56,4 @@ Observational finding from the six-year tracking of CPS graduates in the classes
 - [Attainment indices vary sharply by race/ethnicity and gender: Black young men face a projected PAI of 12.6 percent versus 62.0 percent for Asian/Pacific Islander young women](cps-2019-attainment-indices-race-gender-disparities.md) — related
 - [Latinx two-year college students' spring-to-fall return rates declined most among race/ethnicity and gender groups in 2020](cps-2020-latinx-two-year-return-declines.md) — related
 - [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](cps-graduation-gaps-race-gender.md) — related
+- [Gender disparities favouring men in publication rates are documented across countries, disciplines and time periods](gender-disparities-publication-rates-documented.md) — related

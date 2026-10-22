@@ -12,7 +12,7 @@ generated:
 # Desmos Classroom Activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 23 studies (10 quant-synthesis, 7 causal, 3 review, 2 theoretical, 1 associational), `q1`–`q4` · 8 of 23 report an effect size
+> **Evidence** · 7 claims (6 for, 1 mixed) · 25 studies (10 quant-synthesis, 7 causal, 5 review, 2 theoretical, 1 associational), `q1`–`q4` · 8 of 25 report an effect size
 
 ## Description
 Desmos Classroom Activities ([teacher.desmos.com](https://teacher.desmos.com)) are browser-based mathematics lessons built from interactive screens — graphing tasks, card sorts, marbleslides, and response prompts — that students work through while the teacher orchestrates pacing and monitors anonymized student work on a dashboard. The teacher can pause the class, showcase individual student responses, and sequence discussion around the work students actually produce, making the activity a vehicle for [formative assessment](../patterns/formative-assessment.md) rather than self-paced drill.

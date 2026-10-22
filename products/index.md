@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1830 entries** · 0 stable · 1830 in review · 0 drafts
+**1832 entries** · 0 stable · 1832 in review · 0 drafts
 
 ---
 
@@ -1399,6 +1399,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [RESPE](respe.md) - RESPE is a CSCL platform developed by Leonardo Silva and colleagues for online introductory programming courses, embedding individual and social self-regulation scaffolds, programming activities, and collaborative features.
 * [Responsive Classroom](responsive-classroom.md) - Responsive Classroom is a school-based social and emotional learning programme that organizes classroom practice around components including Morning Meeting, Rule Creation, Interactive Modeling, and Academic Choice.
 * [RETHINKS Health Sciences Education](rethinks-health-sciences-education.md) - A TAACCCT-funded Virginia community-college workforce-development initiative that used career coaching and related strategies to connect workers with health-sciences education and employment pathways.
+* [retrievalpractice.org](retrievalpracticeorg.md) - A free science-communication resource initiative created by Pooja K.
 * [Retrospective cued-recall dataset of affective states from 27 participants in 9 groups completing the Weights Task](retrospective-cued-recall-dataset-of-affective-states-from-27-participants-in-9-groups-com.md) - A research dataset created by Sifatul Anindho et al.
 * [Reusable Unity package for Blackboard Learn API integration](reusable-unity-package-for-blackboard-learn-api-integration.md) - A Unity package developed by Araz Yusubov et al.
 * [Revised 23-item Foreign Language Classroom Anxiety Scale (FLCAS)](revised-23-item-foreign-language-classroom-anxiety-scale-flcas.md) - A 23-item Likert-scale questionnaire revised by Sadighi et al.
@@ -1578,6 +1579,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Strategies to Improve Reading Partnership (STIR)](strategies-to-improve-reading-partnership-stir.md) - STIR is a REL Midwest co-developed K–1 literacy instruction improvement programme that provides educators with evidence-based phonological-awareness and phonics resources, data-use tools, training, and coaching.
 * [Strong Field Framework adapted to Breakthrough R&D in Education](strong-field-framework-adapted-to-breakthrough-rd-in-education.md) - A framework developed and used by the ATS Hub to organize field-building around five conditions intended to strengthen and coordinate education R&D.
 * [StructRAG](structrag.md) - A Sun Y.
+* [Structured Word Inquiry (SWI)](structured-word-inquiry-swi.md) - A morphology-centered framework for teaching English reading and spelling by integrating grapheme–phoneme correspondences with morphology, etymology, and vocabulary through tools such as word sums and morphological matrices.
 * [Student Behavioral Health Incentive Program (SBHIP)](student-behavioral-health-incentive-program-sbhip.md) - A California initiative that distributed Medi-Cal managed care plan funding to county offices of education and local educational agencies from 2022 through 2024 to expand school-affiliated behavioral health services for TK–12 students.
 * [Student Learning Style Questionnaire](student-learning-style-questionnaire.md) - A questionnaire developed by Anthony Grasha and Sheryl Riechmann that measures six student learning-style orientations based on attitudes toward course content, teachers, peers, and classroom procedures.
 * [Student Performance and Learning Behavior Dataset for Educational Analytics (Zenodo, N = 14,003)](student-performance-and-learning-behavior-dataset-for-educational-analytics-zenodo-n-14003.md) - A CC0 Zenodo dataset of 14,003 anonymized higher-education student records compiled from two public Kaggle datasets for behavioral profiling, educational analytics, and adaptive-learning recommendation research.

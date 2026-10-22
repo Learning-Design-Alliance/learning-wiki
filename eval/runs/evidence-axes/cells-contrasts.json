@@ -38354,5 +38354,289 @@
  "test-format\tverbatim testing\tgist testing": {
   "label": "verbatim vs gist",
   "treatment_is_a": true
+ },
+ "active-learning\tactive learning\tnot stated": {
+  "label": "active learning vs not stated",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice of which tasks to work on\tassigned tasks or restricted choice": {
+  "label": "learner/shared control over task selection vs system-assigned or system-controlled task selection",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tcontrol over incidental aspects of the learning context\tno control over incidental aspects": {
+  "label": "control over incidental aspects of the learning context vs no control over incidental aspects",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tcontrol over learning or incidental aspects of context\tno control or no choice": {
+  "label": "control over learning or incidental aspects of the context vs no control or choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tcontrol over studying\tno control over studying": {
+  "label": "control over studying vs no control over studying",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tperceived but not actual control over learning content\tnot stated": {
+  "label": "perceived control over learning content vs no stated perceived control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tperceived control over learning content\tno perceived control": {
+  "label": "perceived control over learning content vs no perceived control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tshared control over problem selection\tfully system-controlled problem selection": {
+  "label": "learner/shared control over task selection vs system-assigned or system-controlled task selection",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tshared instructional control: algorithm preselects a task subset and learner makes final selection\tfull system control": {
+  "label": "learner/shared control over task selection vs system-assigned or system-controlled task selection",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlegally mandated systematic synthetic phonics\treading instruction before the phonics mandate": {
+  "label": "mandated systematic synthetic phonics vs pre-mandate reading instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tphonics instruction\tcontrol conditions": {
+  "label": "phonics instruction vs no instruction/control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsmall-group phonics instruction\tno instruction": {
+  "label": "phonics instruction vs no instruction/control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic phonics\tother teaching methods": {
+  "label": "systematic phonics vs other teaching methods",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic phonics\tunsystematic phonics": {
+  "label": "systematic phonics vs unsystematic phonics",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic phonics\twhole language": {
+  "label": "systematic phonics vs whole-language approaches",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic phonics instruction\tcontrol condition": {
+  "label": "phonics instruction vs no instruction/control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic phonics within a broad literacy curriculum\twhole language or whole word approaches": {
+  "label": "systematic phonics vs whole-language or whole-word approaches",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tmonitoring tools with teacher feedback on self-monitoring entries\tmonitoring tools without teacher feedback": {
+  "label": "teacher feedback vs no teacher feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative assessment used to adapt instruction\tregular classroom instruction": {
+  "label": "formative assessment vs regular instruction",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative assessment, learning progress assessment, or curriculum-based measurement\tregular classroom or business-as-usual instruction": {
+  "label": "formative assessment vs regular instruction",
+  "treatment_is_a": true
+ },
+ "interleaving\tblocked studying\tinterleaved studying": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": false
+ },
+ "interleaving\tinterleaved study\tblocked study": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved studying\tblocked studying": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved studying with feedback\tblocked studying with feedback": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\trandom 25% group with intermixed practice trials\tblocked 50% group with blocked practice trials": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\trandom sequencing\tblocked sequencing": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "media-design\t2x audio-only\t1x audio-visual": {
+  "label": "audio-visual vs audio-only",
+  "treatment_is_a": false
+ },
+ "media-design\t2x audio-visual\t1x audio-visual": {
+  "label": "repeated vs single presentation",
+  "treatment_is_a": true
+ },
+ "media-design\taudio-visual clips with on-screen distractions\taudio-visual clips without distractions": {
+  "label": "distracting vs non-distracting media",
+  "treatment_is_a": true
+ },
+ "media-design\taudio-visual clips with slides and instructor images\taudio-only clips": {
+  "label": "audio-visual vs audio-only",
+  "treatment_is_a": true
+ },
+ "media-design\tdisfluent font\tfluent font": {
+  "label": "disfluent vs fluent font",
+  "treatment_is_a": true
+ },
+ "media-design\tnarration with textual or pictorial slides at 2x speed\tnarration with textual or pictorial slides at 1x speed": {
+  "label": "faster vs slower playback",
+  "treatment_is_a": true
+ },
+ "media-design\tperceptually disfluent font\tperceptually fluent font": {
+  "label": "disfluent vs fluent font",
+  "treatment_is_a": true
+ },
+ "media-design\tperceptually disfluent presentation\tperceptually fluent presentation": {
+  "label": "disfluent vs fluent presentation",
+  "treatment_is_a": true
+ },
+ "media-design\ttextual slides at high interest\tpictorial slides at high interest": {
+  "label": "pictorial vs textual slides",
+  "treatment_is_a": false
+ },
+ "prompts\tquestion-generation training\tcontrol condition": {
+  "label": "question-generation prompts vs control",
+  "treatment_is_a": true
+ },
+ "prompts\trestudy with memory rating\trestudy without memory rating": {
+  "label": "memory-rating prompts vs no memory-rating prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tretrieval without memory rating\tretrieval with memory rating": {
+  "label": "memory-rating prompts vs no memory-rating prompts",
+  "treatment_is_a": false
+ },
+ "retrieval-practice\tlessons including retrieval practice\tre-reading statements or lessons without retrieval practice": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tlessons that included retrieval practice\tre-reading statements or lessons without retrieval practice": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tlessons with question prompts\tlessons without question prompts": {
+  "label": "question prompts vs no question prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpractice testing\tno-activity controls": {
+  "label": "practice testing vs no-activity control",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpractice testing\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tquestion prompts during lessons\tlessons without question prompts": {
+  "label": "question prompts vs no question prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\trestudied pairs\tcovertly retrieved pairs": {
+  "label": "covert retrieval vs restudy",
+  "treatment_is_a": false
+ },
+ "retrieval-practice\trestudy\tcovert retrieval": {
+  "label": "covert retrieval vs restudy",
+  "treatment_is_a": false
+ },
+ "retrieval-practice\trestudy\tovert retrieval": {
+  "label": "overt retrieval vs restudy",
+  "treatment_is_a": false
+ },
+ "retrieval-practice\trestudy with memory rating\tretrieval with memory rating": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": false
+ },
+ "retrieval-practice\tretrieval practice\tre-reading statements or lessons without retrieval practice": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice in memory-based tasks\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval without memory rating\trestudy without memory rating": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tspaced restudying\tspaced covert retrieval": {
+  "label": "covert retrieval vs restudy",
+  "treatment_is_a": false
+ },
+ "retrieval-practice\tspaced restudying\tspaced overt retrieval": {
+  "label": "overt retrieval vs restudy",
+  "treatment_is_a": false
+ },
+ "retrieval-practice\tspaced retrieval practice\tspaced restudying": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tPA with a participation reward\tPA without a participation reward": {
+  "label": "participation reward vs no participation reward",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tfive-star word pairs\tone-star word pairs": {
+  "label": "higher-value rewards/items vs lower-value rewards/items",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\thigher-value word pairs\tlower-value word pairs": {
+  "label": "higher-value rewards/items vs lower-value rewards/items",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tvalue emphasized through promised rewards\tvalue not emphasized": {
+  "label": "promised rewards/value emphasized vs no promised rewards/value not emphasized",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdrawing with high support\tcomparison condition": {
+  "label": "high scaffolding vs low/no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\textensive assistance for new, difficult tasks\tassistance gradually reduced as expertise grows": {
+  "label": "extensive scaffolding vs fading scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfill in parts of an existing concept map\tgenerate the entire concept map without support": {
+  "label": "partially completed concept map vs self-generated concept map",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfill in parts of an existing concept map\tno work on concept maps": {
+  "label": "partially completed concept map vs no concept map",
+  "treatment_is_a": true
+ },
+ "self-explanation\tinstructed to explain content to themselves\tnot instructed to explain": {
+  "label": "self-explanation instruction vs no self-explanation instruction",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation\tadditional practice problems, not time-equated": {
+  "label": "self-explanation vs additional practice problems (not time-equated)",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation\tadditional practice problems, time-equated": {
+  "label": "self-explanation vs additional practice problems (time-equated)",
+  "treatment_is_a": true
+ },
+ "self-explanation\tstudents instructed to generate explanations\tstudents not instructed to generate explanations": {
+  "label": "self-explanation instruction vs no self-explanation instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tmental simulation or mental practice\tno practice": {
+  "label": "mental simulation/practice vs no practice",
+  "treatment_is_a": true
+ },
+ "simulation\tmental simulation practice\tno practice": {
+  "label": "mental simulation/practice vs no practice",
+  "treatment_is_a": true
+ },
+ "simulation\tsole mental practice\tsole physical practice": {
+  "label": "mental practice vs physical practice",
+  "treatment_is_a": true
+ },
+ "spacing\tdistributed mental simulation\tmassed mental simulation": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tthree spaced retrieval opportunities\tother retrieval-practice schedules": {
+  "label": "three spaced retrieval opportunities vs other retrieval-practice schedules",
+  "treatment_is_a": true
  }
 }

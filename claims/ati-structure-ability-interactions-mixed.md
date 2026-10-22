@@ -50,3 +50,5 @@ Narrative review of the aptitude-by-treatment interaction literature, citing Cra
 - [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — related
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [Grasping virtual objects benefits low language aptitude learners but not high language aptitude learners relative to audiovisual baseline](grasping-benefits-low-aptitude-not-high-aptitude-learners.md) — a narrower finding that bears on this claim
+- [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — related
+- [Grasping virtual objects in VR improves foreign language vocabulary retention for learners with low language aptitude, but not for those with high aptitude](vr-grasping-vocabulary-low-aptitude-learners.md) — a narrower finding that bears on this claim

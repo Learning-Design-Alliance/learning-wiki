@@ -54,3 +54,4 @@ Separate moderator models tested study quality indicators (design, fidelity, pre
 - [The A4L impact on grade 4 CCU outcomes differed significantly by ELL status in years 1 and 2, with substantially larger effects for ELL students, but not in year 3](a4l-ell-subgroup-impact.md) — related
 - [Effects of educational technology literacy interventions differ according to characteristics of the interventions and participants](edtech-effects-differ-by-intervention-participant-characteristics.md) — related
 - [Contextual variables (educational level, language context, study design, duration, intensity) do not significantly moderate the effects of ICT-supported writing interventions](contextual-variables-no-moderation-ict-writing.md) — related
+- [Intervention duration in weeks and study-quality characteristics did not significantly moderate extensive reading effects](er-duration-study-characteristics-null-moderators.md) — related

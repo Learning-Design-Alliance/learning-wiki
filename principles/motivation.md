@@ -47,7 +47,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 88 claims (52 for, 35 mixed, 1 against) · 87 studies (25 review, 20 causal, 10 associational, 10 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 10 of 87 report an effect size · 74 claims rest on one study
+> **Evidence** · 91 claims (54 for, 36 mixed, 1 against) · 89 studies (27 review, 20 causal, 10 associational, 10 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 10 of 89 report an effect size · 77 claims rest on one study
 
 ## Conditional relationship
 
@@ -201,6 +201,8 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [Choice Autonomy Rarely Tested In Retention Programs](../claims/choice-autonomy-rarely-tested-in-retention-programs.md) [+M]
 - [Students with positive perceptions of the instrumentality of schoolwork for future goals are more motivated, use more effective learning strategies, and perform better in school](../claims/positive-instrumentality-enhances-motivation-learning.md) [+W] — attached 2026-10-19 from Phalet et al. (2004), which proposed "Foster internal regulation along with positive perceptions of instrumentality to make future goals motivate achievement in multicultural classrooms"; tests this page's relationship.
 - [Perceived instrumentality enhances student motivation only for students with a positive attitude toward their personal future; for students with a negative future outlook, high utility has the opposite effect](../claims/instrumentality-future-attitude-interaction.md) [+W] — attached 2026-10-19 from Phalet et al. (2004), which proposed "Foster internal regulation along with positive perceptions of instrumentality to make future goals motivate achievement in multicultural classrooms"; tests this page's relationship.
+- [During inquiry-informed learning, students' interest, self-efficacy, and belonging were increasingly coordinated over time](../claims/interest-self-efficacy-belonging-coordinated-over-time.md) [+W] — attached 2026-10-22 from Renninger et al. (2026), which proposed "Educators should sustain content connections, affirm students can be successful, and provide contextual support".
+- [Interest and self-efficacy are distinct yet reciprocally related in supporting learning](../claims/interest-self-efficacy-reciprocal-relation.md) [+W] — attached 2026-10-22 from Renninger et al. (2026), which proposed "Educators should sustain content connections, affirm students can be successful, and provide contextual support"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -223,6 +225,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Effort was consistently described as willful, motivation-dependent investment, whereas load was described as imposed and difficult to control](../claims/effort-willful-load-imposed.md) [~W]
 - [Individual feedback impacted perceived utility only to a limited extent, and general feedback lowered perceived utility of retrieval practice (Experiment 2)](../claims/perceived-utility-limited-impact-individual-feedback.md) [~W]
 - [Attribution reframing interventions improved outcomes for struggling students (review-reported)](../claims/attribution-reframing-improves-struggling-student-outcomes.md) [+W]
+- [Junior high math teachers were more controlling and less supportive than elementary teachers, and classrooms with the strongest such changes showed the largest declines in math motivation](../claims/junior-high-teachers-more-controlling-motivation-declines.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

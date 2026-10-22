@@ -45,3 +45,4 @@ Post hoc comparisons following the multilevel regression in the same survey (N =
 
 ## Related Claims
 - [Alpha of knowledge tests is higher for language and mathematics than for science and social sciences/humanities](knowledge-test-alpha-domain-differences.md) — related
+- [Arts and humanities is the most frequent subject domain in peer assessment research, with natural sciences, education, and health and welfare next](peer-assessment-arts-humanities-most-frequent-domain.md) — related

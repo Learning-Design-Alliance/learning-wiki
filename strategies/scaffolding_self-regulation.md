@@ -13,7 +13,7 @@ generated:
 # Scaffolding Self-Regulation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 12 claims (8 for, 2 mixed, 2 against) · 28 studies (8 causal, 7 quant-synthesis, 7 review, 5 theoretical, 1 qualitative), `q1`–`q4` · 6 of 28 report an effect size
+> **Evidence** · 12 claims (8 for, 2 mixed, 2 against) · 30 studies (9 review, 8 causal, 7 quant-synthesis, 5 theoretical, 1 qualitative), `q1`–`q4` · 6 of 30 report an effect size
 
 ## Description
 Scaffolding self-regulation means providing temporary external structure — task breakdowns, prompts, models, and check-ins — that helps learners plan, monitor, and control their own behavior and emotional responses, then progressively withdrawing that structure as internal control develops. The goal is not task completion but the transfer of regulatory responsibility from teacher or system to learner. It is carried out through modeling of self-regulatory strategies, guided practice with prompts, and fading of support in an emotionally safe context where errors are treated as information rather than failure.

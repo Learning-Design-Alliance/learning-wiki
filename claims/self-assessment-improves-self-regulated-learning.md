@@ -119,3 +119,4 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 - [Regulating GA proceeds via metacognitive monitoring of adequacy and accuracy plus control through outward- and inward-oriented strategies](ga-regulation-monitoring-control-strategies.md) — a narrower finding that bears on this claim
 - [Formative assessment shows gains in student self-efficacy and motivation and particular benefits for disadvantaged and low-achieving students](formative-assessment-self-efficacy-low-achievers.md) — related
 - [Across both experiments, self-assessment feedback failed to improve self-assessment accuracy in the absence of feedback, and learners' self-assessments did not track practice-driven performance gains](self-assessment-feedback-no-benefit-absence-of-feedback.md) — related
+- [Monitoring tools show low effects on self-regulated learning (d = 0.19)](monitoring-tools-srl-d019.md) — related

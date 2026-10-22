@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 210 claims (97 for, 105 mixed, 8 against) · 157 studies (51 associational, 43 causal, 23 review, 15 quant-synthesis, 12 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 36 of 157 report an effect size · 194 claims rest on one study
+> **Evidence** · 213 claims (98 for, 107 mixed, 8 against) · 159 studies (51 associational, 43 causal, 23 review, 16 quant-synthesis, 13 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 37 of 159 report an effect size · 197 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -257,6 +257,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [EF longitudinally predicts later SRL in children, supporting the notion that EF predicts SRL but not vice versa](../claims/ef-predicts-srl-longitudinally.md) [~W]
 - [Metacognition mediates the relationship between EF and SRL](../claims/metacognition-mediation-ef-srl.md) [+W]
 - [SRL and EF show primarily low to moderate correlations across age groups, with no detectable pattern depending on age](../claims/srl-ef-low-moderate-correlations-across-age.md) [~W]
+- [Effects of monitoring tools are highest when tools address both learning content and learning behavior and stimulate metacognitive monitoring](../claims/monitoring-tool-moderators-focus-and-type.md) [+W]
+- [Mental effort and judgments of learning show a medium-sized negative correlation, moderated by regulation mode and task type](../claims/mental-effort-jol-negative-correlation-moderators.md) [~W]
+- [Monitoring tools show low effects on learning motivation (d = 0.17)](../claims/monitoring-tools-motivation-d017.md) [~W]
 
 ## The evidence by question
 

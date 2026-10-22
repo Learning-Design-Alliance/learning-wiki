@@ -64,3 +64,4 @@ The review reports Coren et al.'s factor-analytic results, which Carroll describ
 ## Related Claims
 - [Processing speed measured with response times is better represented as four distinct cognitive processes (planning, attention, simultaneous, successive) than as a unitary speed factor](processing-speed-distinct-abilities-not-unitary.md) — related
 - [Perspective-taking (spatial orientation) shows evidence of uniqueness from mental rotation factors](perspective-taking-distinct-from-mental-rotation.md) — related
+- [Twin and factor-analytic studies support a unitary single-factor model of spatial ability, as the review reports](unitary-single-factor-spatial-ability-evidence.md) — related

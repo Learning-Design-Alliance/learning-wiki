@@ -12,7 +12,7 @@ generated:
 # Providing Multiple Means of Representation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 15 studies (7 causal, 4 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 4 of 15 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 17 studies (7 causal, 4 quant-synthesis, 4 review, 2 theoretical), `q1`–`q4` · 4 of 17 report an effect size
 
 ## Description
 Providing multiple means of representation is the first principle of Universal Design for Learning (UDL): content is offered in more than one format — text, audio, video, diagrams, worked models — so that perceptual, linguistic, and prior-knowledge differences do not become barriers to access. It goes beyond redundancy: each representation should be pedagogically functional, not merely a duplicate, and should include options that adjust vocabulary, syntax, and background demands.

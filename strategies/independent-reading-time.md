@@ -13,7 +13,7 @@ generated:
 # Independent Reading Time
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 20 studies (9 review, 4 causal, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 4 of 20 report an effect size
+> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 22 studies (11 review, 4 causal, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 4 of 22 report an effect size
 
 ## Description
 Independent Reading Time is a scheduled block — often daily — in which learners choose texts at an appropriate difficulty level and read them on their own while the teacher confers with individuals or monitors engagement. It is carried out through structures such as Sustained Silent Reading (SSR), DEAR ("Drop Everything and Read"), or reading workshop, typically paired with brief teacher–student conferences, reading logs, or sharing routines.

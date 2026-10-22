@@ -13,7 +13,7 @@ generated:
 # Metacognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (3 for, 5 mixed, 1 against) · 10 studies (3 theoretical, 2 review, 2 associational, 1 causal, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 1 of 10 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (4 for, 5 mixed, 1 against) · 11 studies (3 theoretical, 2 quant-synthesis, 2 review, 2 associational, 1 causal, 1 qualitative), `q1`–`q4` · 1 of 11 report an effect size · 9 claims rest on one study
 
 ## Description
 Metacognitive strategies are deliberate learner moves for planning, monitoring, checking, and revising thinking during learning. This element captures concrete supports for self-regulation such as confidence checks, self-questioning, and strategy review.
@@ -50,6 +50,7 @@ Metacognitive strategies are deliberate learner moves for planning, monitoring, 
 - [Metacognition may limit creativity during the generative stage but facilitate it during the exploratory stage](../claims/metacognition-dual-impact-generative-exploratory-stages.md) [~W]
 - [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](../claims/metacognitive-displacement-illusion-of-competence.md) [~W]
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](../claims/comsa-metacognitive-monitoring-stopping.md) [~W]
+- [Effects of monitoring tools are highest when tools address both learning content and learning behavior and stimulate metacognitive monitoring](../claims/monitoring-tool-moderators-focus-and-type.md) [+W]
 
 ## Related Elements
 - [Self-Assessment](self-assessment.md)

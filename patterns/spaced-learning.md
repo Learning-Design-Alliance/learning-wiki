@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 46 claims (22 for, 23 mixed, 1 against) · 32 studies (15 causal, 7 quant-synthesis, 7 review, 2 design, 1 theoretical), `q1`–`q4` · 10 of 32 report an effect size · 41 claims rest on one study
+> **Evidence** · 48 claims (23 for, 24 mixed, 1 against) · 34 studies (16 causal, 7 quant-synthesis, 7 review, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 11 of 34 report an effect size · 43 claims rest on one study
 
 ## Description
 
@@ -124,6 +124,8 @@ The examples are local design instances, not additional observations from those 
 - [Spaced note-taking during lecture breaks outperformed parallel and no note-taking, and memory was worse at once-double lecture speed](../claims/lecture-speed-spaced-note-taking-aiken.md) [+W]
 - [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](../claims/expanding-uniform-spacing-retention-interval-moderator.md) [~W]
 - [The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third](../claims/spacing-decrement-limited-to-first-two-questions.md) [~W]
+- [In Experiment 1, overall final-test recall was lower in the blocked 50% group than in the random 25% group (d = 0.40), an exploratory between-groups difference.](../claims/blocked-list-structure-worse-final-recall.md) [+W]
+- [In the author's cited longitudinal classroom experiments, lessons with retrieval practice raised course grades from a C to an A level, and three spaced retrieval opportunities were optimal even nine months later](../claims/classroom-experiments-retrieval-grades-and-spacing.md) [~M]
 
 ## Examples
 - [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual

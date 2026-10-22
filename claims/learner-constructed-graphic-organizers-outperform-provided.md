@@ -122,3 +122,4 @@ In three experiments, learners read a passage that came either with author-provi
 - [Merely adding an expert example concept map does not add to the value of students creating their own concept maps for this population](expert-example-alone-no-learning-gain-concept-mapping.md) — related
 - [An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](interactive-beats-constructive-concept-mapping.md) — related
 - [Active-processing focus-support techniques such as testing, self-explaining, concept mapping, and drawing show positive effects on learning](focus-support-active-processing-techniques-positive-effects.md) — related
+- [Self-generated concept mapping benefits learning from grade 4 onwards with similar effect sizes across grades 4–8, 9–12, and college](concept-mapping-effective-grade-4-onwards.md) — related

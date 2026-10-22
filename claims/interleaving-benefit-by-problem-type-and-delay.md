@@ -68,3 +68,4 @@ Secondary analysis at the 30-day delay showed significant interleaving benefits 
 - [The test benefit of interleaved practice does not diminish over time and perhaps grows larger (d = 0.79 at 30 days)](interleaving-benefit-persists-thirty-days.md) — related
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — related
+- [In Experiment 2, the interleaving benefit on actual test outcomes was not statistically significant, unlike in Experiment 1](interleaving-outcome-benefit-nonsignificant-exp2.md) — related

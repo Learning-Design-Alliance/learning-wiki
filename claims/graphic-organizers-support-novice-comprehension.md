@@ -107,3 +107,4 @@ Several moderators are plausible from general reasoning about scope. Benefits sh
 - [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — related
 - [Triads with access to each other's concept maps were more efficient in collaborative problem solving](shared-concept-maps-improve-triad-efficiency.md) — a narrower finding that bears on this claim
 - [Concept mapping has a moderate overall positive effect on science achievement for elementary and secondary students (g = 0.776)](concept-maps-moderate-overall-science-achievement-effect.md) — related
+- [Self-generated concept mapping benefits learning from grade 4 onwards with similar effect sizes across grades 4–8, 9–12, and college](concept-mapping-effective-grade-4-onwards.md) — related

@@ -13,7 +13,7 @@ generated:
 # Mastery Progression
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 9 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Mastery progression is a structural rule for sequencing learning: advancement to new content is gated on demonstrated competence with foundational content. Rather than moving a whole cohort forward on a fixed schedule, the system (or instructor) requires evidence — an assessment, performance task, or criterion-referenced check — that the learner has met a defined standard before unlocking the next unit. It converts time-in-seat from the constant and achievement from the variable into the reverse.

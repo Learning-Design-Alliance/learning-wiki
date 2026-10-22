@@ -13,7 +13,7 @@ generated:
 # Independent Study
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (4 for, 3 mixed, 2 against) · 18 studies (5 causal, 5 quant-synthesis, 5 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 5 of 18 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (4 for, 3 mixed, 2 against) · 20 studies (7 review, 5 causal, 5 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 5 of 20 report an effect size · 3 claims rest on one study
 
 ## Description
 Independent study assigns learners primary responsibility for working through content, tasks, or inquiry without direct instructor mediation during the learning episode. The instructor's role shifts to designing the task, providing materials and structure, and checking progress, while the learner supplies pacing, persistence, and self-monitoring.

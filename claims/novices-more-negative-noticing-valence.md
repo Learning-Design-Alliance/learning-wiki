@@ -51,3 +51,4 @@ Loglinear analysis of 645 coded noticing clauses from 37 teachers showed a signi
 - [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](knowledge-driven-vs-image-driven-classroom-perception.md) — related
 - [Novice teachers overwhelmingly frame alternative teaching strategies as improvements to their own teaching, whereas expert teachers weigh alternatives as improvements and inferior options about equally often](novices-more-critical-alternatives-valence.md) — related
 - [Teaching experience is associated with higher frequency of mental/perceptual and action/event words in think-aloud about classroom scenes](expertise-associated-event-cognition-word-usage.md) — related
+- [Expert teachers interpret classroom events more analytically and focus on learning consequences, while novices emphasize student behavior](experts-interpret-events-learning-novices-behavior.md) — related

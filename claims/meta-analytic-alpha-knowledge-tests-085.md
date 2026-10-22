@@ -71,3 +71,4 @@ Derived from the meta-analytic Alpha using the Spearman–Brown formula. The exp
 - [Cronbach's alpha equals the reliability of the scale score under classical test theory, domain sampling, and generalizability theory, and should be interpreted as a reliability coefficient](alpha-is-reliability-coefficient-knowledge-tests.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
 - [Alpha is negatively related to sample mean age, and knowledge type shows no effect after controlling for test length](knowledge-test-alpha-age-and-type.md) — related
+- [Academic resilience scales show high pooled internal consistency (α/ω = 0.89) with substantial heterogeneity](pooled-internal-consistency-resilience-scales.md) — related

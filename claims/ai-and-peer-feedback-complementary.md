@@ -70,3 +70,4 @@ Qualitative coding of student reflections; students trusted peers more because o
 - [Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising](multilingual-students-critically-evaluate-ai-feedback-pairr.md) — related
 - [Similarity between AI and peer feedback reassured students and increased their confidence in peer response](similarity-between-ai-and-peer-feedback-reassuring.md) — related
 - [AI is currently not best practice for competency-based micro-credential assessment; human assessors remain indispensable](ai-not-best-practice-competency-based-assessment.md) — related
+- [Written assignments are the most used object of peer assessment, and beliefs and perceptions are the most investigated outcome](peer-assessment-written-object-beliefs-outcome.md) — related

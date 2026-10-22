@@ -52,5 +52,4 @@ Narrative review attributing this to Kalyuga et al. (1998) longitudinal studies 
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — possibly the same claim (merge candidate)
 - [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — related
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — possibly the same claim (merge candidate)
-- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — possibly the same claim (merge candidate)
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](fading-out-prompts-beat-permanent-prompts.md) — possibly the same claim (merge candidate)

@@ -13,7 +13,7 @@ generated:
 # Direct Instruction: Keyword Search
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 17 studies (7 causal, 4 review, 3 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 2 of 17 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 19 studies (7 causal, 6 review, 3 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 2 of 19 report an effect size · 2 claims rest on one study
 
 ## Description
 Direct instruction of keyword search explicitly teaches learners how to translate an information need into effective search terms: generating synonyms, combining terms with Boolean operators, using field limits and phrase quotes, and iterating when results disappoint. It also teaches evaluation criteria (authority, currency, evidence) so learners can judge what retrieval returns. The instructor models each move — thinking aloud while decomposing a question into concepts, choosing terms, and revising — then guides learners through practice with feedback.

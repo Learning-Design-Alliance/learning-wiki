@@ -93,3 +93,4 @@ A direct replication of Mueller and Oppenheimer (2014) that added an eWriter gro
 - [Lecture modality (written, audio, video, live) shows no consistent effect on memory for lecture content or on the note-taking effect](lecture-modality-no-effect-note-taking-memory.md) — related
 - [Spaced note-taking during lecture breaks outperformed parallel and no note-taking, and memory was worse at once-double lecture speed](lecture-speed-spaced-note-taking-aiken.md) — related
 - [Better note quality and quantity relate to better memory, verbatim overlap relates negatively, and noted propositions are far more likely to be recalled](note-quality-quantity-verbatim-overlap-effects.md) — related
+- [Writing teaching scripts or textbook explanations improves university students' create-level research question generation more than writing study notes for their own learning](generating-for-others-beats-notetaking-question-generation.md) — related

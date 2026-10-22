@@ -26,7 +26,7 @@ sources:
 # Positive Self-talk
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (5 for, 7 mixed) · 20 studies (8 causal, 4 quant-synthesis, 4 theoretical, 3 review, 1 associational), `q1`–`q4` · 7 of 20 report an effect size · 5 claims rest on one study
+> **Evidence** · 12 claims (5 for, 7 mixed) · 22 studies (8 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 7 of 22 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 

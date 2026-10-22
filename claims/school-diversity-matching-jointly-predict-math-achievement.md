@@ -65,3 +65,4 @@ Interaction model for math achievement in the same ECLS-K sample. "higher levels
 - [Diversity and matching associations with kindergarten achievement vary by child race/ethnicity, with academic benefits concentrated among White students](composition-achievement-benefits-concentrated-white-students.md) — related
 - [School racial/ethnic composition effects on kindergarten outcomes are about half the size of parent education effects but non-negligible](composition-effects-half-parent-education-size.md) — related
 - [School racial/ethnic diversity and same-racial/ethnic peer proportion jointly predict higher reading achievement in kindergarten, with matching benefits concentrated in more diverse schools](school-diversity-matching-jointly-predict-reading-achievement.md) — related
+- [Racial/ethnic composition of classrooms and schools shapes Black and Latine students' sense of belonging in mathematics](racial-ethnic-composition-shapes-math-belonging.md) — related

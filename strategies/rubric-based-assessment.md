@@ -12,7 +12,7 @@ generated:
 # Rubric Based Assessment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (4 review, 2 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size
 
 ## Description
 Rubric based assessment evaluates work against explicit, task-specific criteria that describe what quality looks like at several performance levels, rather than relying on holistic judgment. The rubric is shared with learners in advance so it functions simultaneously as an evaluation tool and a description of the target performance.

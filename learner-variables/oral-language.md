@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 88 claims (53 show a difference, 14 mixed, 21 no difference) · 66 studies (21 associational, 16 review, 14 quant-synthesis, 12 causal, 2 theoretical, 1 design), `q1`–`q3` · 21 of 66 report an effect size · 85 claims rest on one study
+> **Evidence** · 89 claims (54 show a difference, 14 mixed, 21 no difference) · 67 studies (21 associational, 16 review, 15 quant-synthesis, 12 causal, 2 theoretical, 1 design), `q1`–`q3` · 22 of 67 report an effect size · 86 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -125,6 +125,7 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [The review proposes that embodied language learning engages learners holistically while promoting language skills and adding emotional and motivational benefits](../claims/embodied-language-learning-holistic-engagement-emotional-benefits.md) [+M] — instruction changes it
 - [Elaborative reminiscing delivered by non-parents benefits children, with strongest effects for low-SES and lower-ability children](../claims/non-parent-elaborative-reminiscing-low-ses-benefits.md) [+M] — an instructional effect differs with it
 - [Intervention studies suggest elaborative style during reminiscing plays a causal role in children's language, narrative and theory-of-mind development](../claims/elaborative-reminiscing-interventions-causal-role.md) [+M] — instruction changes it
+- [Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)](../claims/er-positive-effect-second-foreign-language.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

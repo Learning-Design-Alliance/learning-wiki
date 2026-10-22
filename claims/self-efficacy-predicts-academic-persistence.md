@@ -188,3 +188,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Parental pressure frequently predicts positive academic outcomes among East Asian children, including stronger mastery goals and higher self-efficacy](parental-pressure-positive-outcomes-east-asian-children.md) — related
 - [Teachers' relational self-efficacy—beliefs in their capability to form, maintain, and repair relationships—is hypothesized to motivate TSR-building, but existing global self-efficacy measures show mixed links to TSR quality](relational-self-efficacy-mixed-evidence.md) — a narrower finding that bears on this claim
 - [Personal resources have a reciprocal relationship with study resources and relate to engagement and achievement](personal-resources-reciprocal-study-resources.md) — related
+- [Belonging may be more predictive of students' classroom participation and learning behavior than self-efficacy](belonging-more-predictive-than-self-efficacy.md) — related

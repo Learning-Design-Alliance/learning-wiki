@@ -46,3 +46,4 @@ Control-condition moderator analysis in the meta-analysis of 67 studies; the rev
 - [Procedural and strategic supports during reading tended to positively affect comprehension compared to no-treatment controls, with exceptions when compared against mobilization](procedural-strategic-supports-tended-positive-versus-control.md) — related
 - [Against no-treatment controls, ITS produce a large statistically significant effect (g = 1.23) under a random-effects model](its-versus-no-treatment-controls-g-1-23.md) — related
 - [Intervention effect sizes are moderated by treatment length, subword-level criterion variables, and speeded tests](word-reading-intervention-moderators-length-speeded.md) — related
+- [Formative assessment shows positive effects on learning, with d = 0.32 in regular classrooms](formative-assessment-d-032.md) — related

@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 33 claims (16 for, 15 mixed, 2 against) · 34 studies (12 quant-synthesis, 9 review, 7 causal, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 34 report an effect size · 26 claims rest on one study
+> **Evidence** · 33 claims (16 for, 15 mixed, 2 against) · 36 studies (12 quant-synthesis, 11 review, 7 causal, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 36 report an effect size · 26 claims rest on one study
 
 ## Description and scope
 

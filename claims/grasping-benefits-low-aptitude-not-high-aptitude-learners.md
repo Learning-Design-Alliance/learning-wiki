@@ -71,3 +71,5 @@ Post-hoc Tukey comparisons in the same study. Grasping significantly benefited L
 - [Aptitude-by-treatment interactions for instructional structure show mixed support: crossovers in some studies, nulls in others](ati-structure-ability-interactions-mixed.md) — a broader claim this one bears on
 - [Empirical patterns of the expertise reversal effect fit those found in Aptitude Treatment Interaction studies initiated in the mid-60s](expertise-reversal-fits-ati-patterns.md) — related
 - [Simply viewing virtual referent objects during L2 learning enhances retention relative to audiovisual-only learning, for both aptitude groups](viewing-virtual-objects-enhances-l2-retention-both-aptitude-groups.md) — related
+- [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — related
+- [Grasping virtual objects in VR improves foreign language vocabulary retention for learners with low language aptitude, but not for those with high aptitude](vr-grasping-vocabulary-low-aptitude-learners.md) — possibly the same claim (merge candidate)

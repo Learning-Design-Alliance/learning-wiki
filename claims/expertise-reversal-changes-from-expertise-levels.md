@@ -49,7 +49,6 @@ Theoretical argument from the article's abstract: the expertise reversal effect 
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
 - [The element interactivity effect relies on changes in element interactivity due to changes in the type of material being learned](element-interactivity-changes-from-material-type.md) — related
 - [Both effects are claimed to rely on equivalent changes in element interactivity, with the changes induced by different factors](equivalent-element-interactivity-changes-both-effects.md) — a broader claim this one bears on
-- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — related
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — a broader claim this one bears on
 - [The review reports that the isolated-elements mixed instructional method benefits novices but the benefit disappears for experienced learners, and that the imagination effect reverses with expertise](expertise-reversal-isolated-elements-and-imagination-review.md) — a narrower finding that bears on this claim
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — a narrower finding that bears on this claim

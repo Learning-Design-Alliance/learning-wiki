@@ -69,3 +69,4 @@ The review reports, citing Stieger et al. (2020a, b), a two-week digital coachin
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [Evidence on long-term persistence of self-regulation intervention effects is mixed: no fadeout for metacognitive strategy interventions versus substantial fadeout in higher-quality RCT syntheses](srl-persistence-fadeout-mixed-evidence.md) — related
 - [Math self-concept gains from the COMPASS intervention are sustained at three- and six-month follow-ups in Group A, but the three-month gain in waiting-list Group B was not statistically significant](compass-math-self-concept-sustained-follow-ups.md) — related
+- [In trait-change interventions, participants who completed more trait-relevant behavioural challenges showed greater trait change over 15 weeks](behavioural-challenges-produce-trait-change.md) — related

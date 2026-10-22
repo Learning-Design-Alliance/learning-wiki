@@ -66,3 +66,4 @@ Moderator analysis using a three-way Trt × MGS × Moderator Bayesian model, wit
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy](active-learning-courses-retain-lecture-component.md) — related
 - [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — related
+- [Active learning in an entry-level biology course closed performance gaps between underrepresented and non-underrepresented minority students and increased all students' self-efficacy](active-learning-closed-gaps-increased-self-efficacy.md) — related

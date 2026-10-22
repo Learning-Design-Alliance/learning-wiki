@@ -57,3 +57,4 @@ Interactions between gender and each ACE operationalisation were tested in the m
 - [Growth mindset interacts with gender for health major choice — men's chances decline 3.9 percentage points per unit increase — but no gender difference appears in how ability beliefs influence PEMC major choice](gender-growth-mindset-interaction-health-not-pemc.md) — reports the opposite
 - [Sex-specific subgroup models show the same functional forms for boys and girls, though cubic coefficients for boys were not significant after correction](sex-subgroup-functional-forms-similar.md) — related
 - [Studies of preservice teachers found no statistically significant associations between gender or other sociodemographic variables and AHS](no-gender-sociodemographic-ahs-association.md) — related
+- [Girls scored significantly higher than boys on writing quality, handwriting fluency, and attitude toward writing](girls-outperform-boys-on-grade-2-writing-measures.md) — related

@@ -51,3 +51,4 @@ Pairwise raw-data correlations across 21 measurement points in the N = 360 sampl
 - [Mental effort correlates negatively with self-assessments regardless of whether learners receive up-front cue information](mental-effort-negative-correlation-self-assessments.md) — related
 - [Mental effort is more suitably modeled as a non-linear than linear predictor of learning outcomes in most re-analyzed studies](mental-effort-nonlinear-predictor-reanalyses.md) — related
 - [Effort's relation to achievement differs by operationalization: quality-of-learning effort shows a positive link, quantity-of-learning effort is weak, conditional, or negative](effort-mediation-quality-versus-quantity.md) — related
+- [Students use invested mental effort as a cue when judging their learning, and self-rated mental effort is negatively related to judgments of learning](effort-cue-negative-jol-relation.md) — related

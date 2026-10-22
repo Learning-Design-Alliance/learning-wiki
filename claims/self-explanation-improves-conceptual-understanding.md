@@ -239,3 +239,4 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Prompts and scaffolds for paraphrasing, criticizing, questioning, and synthesizing arguments produce significantly more domain-specific and domain-general knowledge](argumentation-prompts-scaffolds-knowledge-gains.md) — related
 - [Experts introduce procedure and planning explanations over time, typically after an initial step or action is completed](planning-explanations-later-in-turn.md) — related
 - [Adding instructional explanations to worked examples yields a small positive effect on learning, stronger for conceptual than procedural knowledge](instructional-explanations-in-worked-examples-small-effect.md) — related
+- [Self-explanation benefits learning across ages, but evidence is mixed for elementary-school children and effects shrink when time on task is equated](self-explanation-mixed-elementary.md) — related

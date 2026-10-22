@@ -52,3 +52,4 @@ Meta-regression of the single-case design sample testing intervention-characteri
 - [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — related
 - [Substantial variability exists in the specific components used across self-management interventions despite established effectiveness](self-management-component-variability-remains.md) — related
 - [Self-management interventions significantly and positively impact academic outcomes (achievement and work completion) in single-case design studies](sm-interventions-improve-academic-outcomes-scd.md) — related
+- [Intervention duration in weeks and study-quality characteristics did not significantly moderate extensive reading effects](er-duration-study-characteristics-null-moderators.md) — related

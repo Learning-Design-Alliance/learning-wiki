@@ -65,3 +65,4 @@ In the same experiment, the tracing–no-touch terminology contrast was not sign
 - [The three touch-based-action groups did not differ significantly on the identification test](no-group-difference-identification-test.md) — related
 - [The learning-performance MANOVA showed an overall effect of learning instruction across identification, terminology, and comprehension](omnibus-manova-learning-performance-effect.md) — related
 - [In a three-group eye-tracking experiment, the pointing group significantly outperformed both the tracing group and the no-touch group on comprehension performance](pointing-outperforms-tracing-and-no-touch-comprehension.md) — related
+- [Pointing during multimedia learning leads to superior comprehension and increased attentional focus compared with tracing or no hand movements](pointing-superior-comprehension-multimedia.md) — related

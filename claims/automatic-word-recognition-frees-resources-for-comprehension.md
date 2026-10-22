@@ -128,3 +128,4 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [NWEA claims MAP Reading Fluency's mechanisms of change are hypothesized to lead to all students reading fluently with comprehension](map-rf-theory-action-overarching-goal.md) — related
 - [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone](readers-theater-alone-no-unique-eb-gains-evidence.md) — related
 - [Design studies found that timing adults' oral reading led them to sacrifice accuracy for speed, motivating untimed repeated reading practice in the curriculum](timed-reading-adults-sacrifice-accuracy.md) — related
+- [Interest and familiarity positively predict comprehension of speeded audio clips, but the benefit of familiarity decreases as playback speed increases](interest-familiarity-predict-speeded-comprehension.md) — related

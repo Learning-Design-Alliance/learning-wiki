@@ -42,6 +42,7 @@ The article recommends a minimal instructional intervention in which educators t
 
 - [Flashcard Drill](flashcard-drill.md)
 - [Low Stakes Quizzing](low-stakes-quizzing.md)
+- [Support effortful strategy use by making students aware of the benefits of retrieval practice and providing hints](awareness-hints-desirable-difficulty-retrieval.md)
 
 ## Examples
 -

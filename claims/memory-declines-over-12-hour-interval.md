@@ -48,3 +48,4 @@ Within-sample paired t-test across the 92 participants comparing cued recall at 
 - [Total percentage of time spent sedentary or in moderate-to-vigorous physical activity during the day is unrelated to long-term memory retention in young adults](total-daily-activity-unrelated-to-long-term-memory.md) — related
 - [Physical activity in the hour before memory retrieval is associated with superior memory retention, while sedentary time in that window is negatively associated](pre-retrieval-activity-benefits-memory.md) — related
 - [A combined model of demographics, aerobic fitness, and the two critical activity windows accounts for over 30% of variance in long-term memory retention](combined-model-memory-retention-variance.md) — related
+- [Longer retention intervals between pre- and post-test weaken the effect of mental simulation](ms-retention-interval-negative.md) — related

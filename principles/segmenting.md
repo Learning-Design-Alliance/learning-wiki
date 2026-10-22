@@ -50,7 +50,7 @@ sources:
 # Segmenting Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (12 for, 14 mixed) · 21 studies (6 quant-synthesis, 6 review, 5 causal, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 21 report an effect size · 21 claims rest on one study
+> **Evidence** · 26 claims (12 for, 14 mixed) · 23 studies (8 review, 6 quant-synthesis, 5 causal, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 23 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 

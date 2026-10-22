@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 111 claims (54 for, 49 mixed, 8 against) · 46 studies (19 causal, 10 review, 8 quant-synthesis, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 16 of 46 report an effect size · 104 claims rest on one study
+> **Evidence** · 115 claims (56 for, 50 mixed, 9 against) · 49 studies (20 causal, 11 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 18 of 49 report an effect size · 108 claims rest on one study
 
 ## Conditional relationship
 
@@ -237,6 +237,10 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Students gave higher judgments of learning after restudy than after retrieval practice in Experiment 2 but not in Experiment 1](../claims/higher-jols-after-restudy-than-retrieval-practice.md) [-W]
 - [Taking a fill-in-the-blank test is more time-consuming than restudying the same material](../claims/fill-in-blank-testing-more-time-consuming-than-restudy.md) [~W]
 - [Retrieval practice mostly increases susceptibility to misinformation (retrieval-enhanced suggestibility)](../claims/retrieval-practice-increases-misinformation-susceptibility.md) [-W]
+- [Practice testing is effective across all age groups, including lower elementary school, though some age-related increases in effectiveness emerge](../claims/practice-testing-effective-all-ages.md) [+W]
+- [In the author's cited longitudinal classroom experiments, lessons with retrieval practice raised course grades from a C to an A level, and three spaced retrieval opportunities were optimal even nine months later](../claims/classroom-experiments-retrieval-grades-and-spacing.md) [+M]
+- [The memory rating requirement moderated the restudy-versus-retrieval pattern: interference on retrieval trials and facilitation on restudy trials both contributed to the restudy superiority.](../claims/memory-rating-reactivity-moderates-restudy-advantage.md) [~W]
+- [The restudy advantage in Experiment 1 was not explained by longer exposure during the memory rating: restudy participants spent the least time on the rating.](../claims/restudy-advantage-not-explained-by-rating-exposure.md) [-W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

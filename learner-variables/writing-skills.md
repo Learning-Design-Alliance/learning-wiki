@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (69 show a difference, 18 mixed, 14 no difference) · 65 studies (22 causal, 19 associational, 10 quant-synthesis, 8 review, 3 design, 3 theoretical), `q1`–`q4` · 23 of 65 report an effect size · 96 claims rest on one study
+> **Evidence** · 107 claims (72 show a difference, 19 mixed, 16 no difference) · 66 studies (22 causal, 20 associational, 10 quant-synthesis, 8 review, 3 design, 3 theoretical), `q1`–`q4` · 24 of 66 report an effect size · 102 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -139,6 +139,12 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [ICT-supported writing interventions targeting higher-level writing processes show a large overall positive effect on students' writing quality (g = 1.264)](../claims/ict-writing-interventions-large-overall-effect.md) [+W] — instruction changes it
 - [Merrill's instructional design principles and feedback features did not significantly moderate the effects of ICT-supported writing interventions](../claims/merrill-principles-feedback-no-moderation.md) [-W] — an instructional effect differs with it
 - [Written presentation of objectives and direct instruction are instructional activities linked to stronger effects of ICT-supported writing interventions](../claims/written-objectives-direct-instruction-moderate-effects.md) [+W] — an instructional effect differs with it
+- [Bilingual students scored significantly lower on text quality than L1 students, with L2 differences marginal for text quality and handwriting fluency](../claims/language-background-text-quality-differences.md) [+M] — learners who differ on it differ in outcomes
+- [Girls scored significantly higher than boys on writing quality, handwriting fluency, and attitude toward writing](../claims/girls-outperform-boys-on-grade-2-writing-measures.md) [+M] — learners who differ on it differ in outcomes
+- [In the prior first-grade study, the During COVID-19 cohort scored significantly lower than the Before COVID-19 cohort on all three writing measures immediately after remote instruction ended](../claims/first-grade-covid-writing-losses-immediately-post-remote.md) [+M] — instruction changes it
+- [One year after emergency remote instruction, Norwegian second-graders showed no statistically significant differences from a pre-pandemic cohort in writing quality, handwriting fluency, or attitude toward writing](../claims/covid-writing-losses-dissipated-by-second-grade.md) [-M] — instruction changes it
+- [School size statistically significantly predicted handwriting fluency but not the other two writing outcomes](../claims/school-size-predicts-handwriting-fluency.md) [~M] — learners who differ on it differ in outcomes
+- [The cohort covariate's contribution to explained variance in all three writing measures fell well below the small-effect threshold](../claims/cohort-covariate-effect-below-small-threshold.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

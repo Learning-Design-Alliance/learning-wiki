@@ -55,3 +55,4 @@ The review's comparative framing: it reports that the effect's empirical pattern
 - [Effectiveness of pedagogical tools depends on learners' initial grasp of the object of learning (aptitude–treatment interaction)](tool-effectiveness-depends-initial-grasp.md) — a narrower finding that bears on this claim
 - [Aptitude-by-treatment interactions for instructional structure show mixed support: crossovers in some studies, nulls in others](ati-structure-ability-interactions-mixed.md) — related
 - [Grasping virtual objects benefits low language aptitude learners but not high language aptitude learners relative to audiovisual baseline](grasping-benefits-low-aptitude-not-high-aptitude-learners.md) — related
+- [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — related

@@ -54,3 +54,4 @@ Conceptual analysis of cognitive offloading risks (Section 5.4). The authors arg
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related
 - [Fully offloading schoolwork to generative AI without personal input forgoes meaningful engagement and skill development](full-ai-offloading-forgoes-engagement-and-skills.md) — a narrower finding that bears on this claim
 - [Washington's insistence on the correctness of his Tuskegee method stifled the emergence of new ideas and narrowed his system's application](washington-tuskegee-method-stifled-new-ideas.md) — related
+- [Offloading information to external stores is associated with lower memory performance, moderated by awareness of a later test](offloading-associated-with-lower-memory-performance.md) — related

@@ -47,3 +47,4 @@ Inductive thematic analysis of open-ended responses in the n=20 survey. Faculty 
 - [Faculty with negative versus positive AI pedagogical orientation differ in how they interpret AI's role in thinking: cautious peripheral use versus integrated use with managed concerns](orientation-extremes-differ-in-epistemic-interpretation-of-ai.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Qualitative narratives reveal temporal guilt patterns, authenticity concerns, and skill-atrophy fears among academics using AI](ai-guilt-qualitative-themes.md) — related
+- [Young researchers show higher risk for burnout, and extreme workload is normalised in academic success narratives](young-researchers-burnout-extreme-workload.md) — related

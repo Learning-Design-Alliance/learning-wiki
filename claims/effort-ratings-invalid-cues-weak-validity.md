@@ -70,3 +70,4 @@ The commentary reports, citing David et al. (2024), a meta-analysis finding the 
 - [Creative performance weakly predicts metacognitive judgments, with perceived difficulty and task interest serving as additional cues](performance-difficulty-interest-cues-judgments.md) — related
 - [Perceived effort ratings are metacognitive judgments based on heuristic cue processing and prone to bias](perceived-effort-metacognitive-judgment.md) — a broader claim this one bears on
 - [Perceived mental effort serves as a cue for monitoring judgments, which mediate the effort–outcome relation (David et al., 2024 meta-analysis)](david-2024-effort-cue-monitoring-meta-analysis.md) — related
+- [Students use invested mental effort as a cue when judging their learning, and self-rated mental effort is negatively related to judgments of learning](effort-cue-negative-jol-relation.md) — possibly the same claim (merge candidate)

@@ -12,7 +12,7 @@ generated:
 # Choice Based Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 review, 3 theoretical, 1 causal, 1 quant-synthesis), `q1`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (5 review, 3 theoretical, 1 causal, 1 quant-synthesis), `q1`–`q4` · 1 of 10 report an effect size
 
 ## Description
 Choice based learning structures decision points into instruction so learners select among meaningful options — what topic to study, which process to use, how to demonstrate learning, or where and with whom to work. The choices must be consequential and aligned to learning goals; offering trivial or overwhelming option sets does not produce the same effects.

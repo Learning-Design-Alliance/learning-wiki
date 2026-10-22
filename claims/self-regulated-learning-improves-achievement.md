@@ -321,3 +321,4 @@ Open questions that evidence entries should address include: which strategy fami
 - [Motivational apprenticeship progresses through three phases from expert-directed to learner-directed control](motivational-apprenticeship-three-phases.md) — related
 - [Scaffolding effectiveness depends on knowledge base: high-guidance scaffolding suits less advanced learners, high-self-regulation scaffolding suits advanced learners](scaffolding-guidance-self-regulation-moderated-by-knowledge-base.md) — related
 - [Interventions targeting SRL or EF show little evidence of far transfer to the other construct](srl-ef-interventions-no-far-transfer.md) — related
+- [Generating questions is effective for university students but likely ineffective for younger elementary students, working at intermediate ages only with instructional scaffolding](question-generation-ineffective-young.md) — related

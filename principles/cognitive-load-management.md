@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 67 claims (26 for, 38 mixed, 3 against) · 57 studies (27 causal, 12 review, 9 quant-synthesis, 7 theoretical, 1 associational, 1 design), `q1`–`q4` · 22 of 57 report an effect size · 59 claims rest on one study
+> **Evidence** · 69 claims (27 for, 39 mixed, 3 against) · 60 studies (27 causal, 15 review, 9 quant-synthesis, 7 theoretical, 1 associational, 1 design), `q1`–`q4` · 23 of 60 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](../claims/multimodal-valued-complex-visualizations-hinder.md) [+W] — read 2026-10-19: participant reports from a small mixed-reality toolkit user study (r1); consistent with the coherence advice in the revising-materials row, no learning outcome compared.
 - [The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background](../claims/audience-prior-knowledge-determines-information-density.md) [~W] — read 2026-10-19: a 1977 theoretical paper on writing decisions; consistent with the expertise qualification, no data.
 - [TBRS-model-derived hypotheses about presentation-pace effects were supported in two experiments, provided prior knowledge is taken into account](../claims/tbrs-hypotheses-tested-two-experiments.md) [+W] — attached 2026-10-21 from Sébastien Puma et al. (2018), which proposed "When investigating presentation-pace effects during learning, take learners' prior knowledge into account".
+- [Concept-map generation requires age-appropriate instructional support: younger learners profit from high-coherence, pre-structured maps](../claims/concept-mapping-support-age-interaction.md) [+W] — attached 2026-10-22 from Garvin Brod (2021), which proposed "Match the amount of instructional support in generative learning activities to learners' age, giving younger learners more structure"; tests this page's relationship.
+- [Generating drawings is effective for university students but largely ineffective for elementary-school children unless instructional support is extremely high](../claims/drawing-ineffective-elementary.md) [~W] — attached 2026-10-22 from Garvin Brod (2021), which proposed "Match the amount of instructional support in generative learning activities to learners' age, giving younger learners more structure"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -50,7 +50,7 @@ sources:
 # Redundancy Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (6 for, 16 mixed) · 17 studies (6 causal, 5 quant-synthesis, 4 review, 2 theoretical), `q1`–`q4` · 5 of 17 report an effect size · 18 claims rest on one study
+> **Evidence** · 22 claims (6 for, 16 mixed) · 19 studies (6 causal, 6 review, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 5 of 19 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 

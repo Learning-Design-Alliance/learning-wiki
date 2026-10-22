@@ -17,7 +17,7 @@ sources:
 # Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 review), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 6 studies (3 review, 2 causal, 1 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 The article reports that current skill levels, in terms of self-explanation performance while studying examples and problem solving performance, can be employed to determine appropriate learning conditions, informing adaptation schedules in intelligent tutoring systems. A fading approach adaptive to a learner's current skill level was expected to be more effective than a predetermined fading approach for structuring the transition from studying examples to problem solving.
@@ -39,7 +39,7 @@ The article reports that current skill levels, in terms of self-explanation perf
 ## Claims
 
 - [Adaptive fading of worked examples based on current skill level produced better learning outcomes than fixed fading or tutored problem solving](../claims/adaptive-fading-worked-examples-benefits.md) [+W]
-- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](../claims/expertise-reversal-effect-definition.md) [+W]
+- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](../claims/expertise-reversal-effect.md) [+W]
 - [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](../claims/fading-worked-steps-facilitates-example-to-problem-transition.md) [+W]
 
 ## Related Strategies

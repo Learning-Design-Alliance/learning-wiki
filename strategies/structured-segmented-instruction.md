@@ -12,7 +12,7 @@ generated:
 # Structured/Segmented Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 17 studies (7 causal, 5 quant-synthesis, 3 review, 2 theoretical), `q1`–`q4` · 4 of 17 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 19 studies (7 causal, 5 quant-synthesis, 5 review, 2 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 3 claims rest on one study
 
 ## Description
 Structured instruction involves systematically teaching information that has been chunked into manageable pieces. Complex skills or large bodies of information are analyzed into component parts, which are taught in a planned sequence; after the parts are mastered, they are recombined so learners perceive the process or concept as a whole. The strategy pairs segmentation (ordering) with chunking (sizing) — the instructor controls both what is presented at once and in what order.
