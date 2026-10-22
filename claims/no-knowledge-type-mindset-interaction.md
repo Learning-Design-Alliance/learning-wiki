@@ -46,6 +46,6 @@ Mixed ANCOVA with baseline growth mindset as covariate in the 144-participant ra
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [A short growth mindset intervention did not improve recall performance or motivational beliefs compared to control, for either knowledge type](growth-mindset-no-effect-vocabulary-learning.md) — related
+- [A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type](growth-mindset-no-effect-vocabulary-learning.md) — related
 - [Motivational interventions can lower perceived cognitive load and improve retention and transfer, indicating load perception is partly independent of task difficulty](motivation-intervention-lowers-perceived-load.md) — reports the opposite
 - [Learning biologically primary words is rated as more enjoyable and more interesting than learning biologically secondary words](primary-words-more-enjoyable-interesting.md) — related

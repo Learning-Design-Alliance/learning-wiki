@@ -45,5 +45,5 @@ Paired-sample t-test within a randomized controlled trial in which 144 first-yea
 ## Related Claims
 - [Learning biologically primary words is perceived as less difficult and less effortful than learning biologically secondary words](primary-words-less-difficulty-effort.md) — related
 - [Learning biologically primary words is rated as more enjoyable and more interesting than learning biologically secondary words](primary-words-more-enjoyable-interesting.md) — related
-- [A short growth mindset intervention did not improve recall performance or motivational beliefs compared to control, for either knowledge type](growth-mindset-no-effect-vocabulary-learning.md) — related
+- [A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type](growth-mindset-no-effect-vocabulary-learning.md) — related
 - [Related word pairs were far better recalled than unrelated pairs, while younger and older adults recalled a similar overall proportion of pairs](relatedness-and-age-main-effects-recall.md) — related

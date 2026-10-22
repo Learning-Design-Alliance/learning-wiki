@@ -35,7 +35,7 @@ Janneke van de Pol, et al. (2020). Mapping and Drawing to Improve Students’ an
 
 `q3 · i?` · `review · r3`
 
-Experimental study with 9th-grade students reading six texts with cause-and-effect relations, comparing immediate, delayed, and no diagram completion. The review reports the delayed condition's gamma advantage: "(G = 0.56) than in the control condition (G = 0.07)"; other comparisons were not significant.
+Review article. It summarises an experiment by Van Loon et al. (2014), not run by the review's authors, with 9th-grade students reading six texts with cause-and-effect relations, comparing immediate, delayed, and no diagram completion. The review reports that experiment's delayed-condition gamma advantage: "(G = 0.56) than in the control condition (G = 0.07)"; other comparisons were not significant.
 
 > "In the delayed-diagramming condition, students were better able to discriminate between well and less well learned texts (G = 0.56) than in the control condition (G = 0.07)."
 

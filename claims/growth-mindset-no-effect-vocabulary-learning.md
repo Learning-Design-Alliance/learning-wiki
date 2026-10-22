@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A short growth mindset intervention did not improve recall performance or motivational beliefs compared to control, for either knowledge type
-description: A short growth mindset intervention did not improve recall performance or motivational beliefs compared to control, for either knowledge type
+title: A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type
+description: A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type
 id: growth-mindset-no-effect-vocabulary-learning
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# A short growth mindset intervention did not improve recall performance or motivational beliefs compared to control, for either knowledge type
+# A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i?` ANCOVA revealed no differences between growth mindset and control groups on interest, enjoyment, difficulty, mental effort, or word recall performance. [→ Kate M. Xu 2024](#kate-m-xu-2024)
+`q3 i?` ANCOVA revealed no significant differences between growth mindset and control groups on interest, enjoyment, difficulty, mental effort, or word recall performance, although post-intervention growth mindset belief was higher in the intervention group (d = 0.91). [→ Kate M. Xu 2024](#kate-m-xu-2024)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Kate M. Xu, Sarah Coertjens, Florence Lespiau, Kim Ouwehand, Hanke Korpershoek, 
 
 `q3 · i?` · `causal · r2`
 
-One-way ANCOVAs (baseline mindset covariate) comparing intervention (n = 72) and control (n = 72) conditions. The article reports "no differences across the growth mindset and control groups" on all outcomes; recall d = 0.05, p = 0.623.
+One-way ANCOVAs (baseline mindset covariate) comparing intervention (n = 72) and control (n = 72) conditions. Post-intervention growth mindset belief was higher in the intervention group (F(1, 141) = 22.87, p < 0.001, d = 0.91), but the article reports "no differences across the growth mindset and control groups" on interest, enjoyment, difficulty, mental effort and word recall; recall d = 0.05, p = 0.623.
 
 > "Further ANCOVA analyses revealed no differences across the growth mindset and control groups for the outcomes (Table 4), including interest (F(1, 141) = 1.02, p = 0.315, d = 0.27"
 

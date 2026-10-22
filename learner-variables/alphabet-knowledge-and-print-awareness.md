@@ -94,7 +94,7 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [Arm training improves letter recognition and letter-name knowledge relative to the other training conditions](../claims/arm-training-improves-letter-recognition-and-name-knowledge.md) [+M] — instruction changes it
 - [Arm training with nested handwriting exercises yields the greatest overall acquisitions in letter knowledge and script, while arm-body training reduces them](../claims/arm-training-best-overall-letter-knowledge-gains.md) [~M] — instruction changes it
 - [Arm-body training reduces letters written under dictation relative to the other conditions](../claims/arm-body-training-detrimental-letters-dictation.md) [+M] — instruction changes it
-- [Initial skills moderate embodied training effects: arm-body training harms low-skilled but benefits high-skilled students on dictation and legibility](../claims/initial-skills-moderate-embodied-training-effects.md) [~M] — an instructional effect differs with it
+- [Initial skills moderate embodied training effects: arm-body training harms low-skilled students on dictation and legibility, and benefits high-skilled students on dictation](../claims/initial-skills-moderate-embodied-training-effects.md) [~M] — an instructional effect differs with it
 - [No training condition affects letter script stroke direction](../claims/no-training-effect-stroke-direction.md) [-M] — instruction changes it
 
 ## Measures

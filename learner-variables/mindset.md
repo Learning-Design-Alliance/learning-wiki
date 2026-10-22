@@ -71,7 +71,7 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Teachers' growth mindset is positively associated with their self-efficacy (r = .180)](../claims/teacher-growth-mindset-self-efficacy-association.md) [+M] — learners who differ on it differ in outcomes
 - [Teachers' growth mindset is unrelated to performance-approach goals, performance-avoidance goals, teachers' test performance, and student achievement](../claims/teacher-growth-mindset-null-performance-student-achievement.md) [-M] — learners who differ on it differ in outcomes
 - [Teachers' growth mindset shows a small positive overall association with combined teacher, instructional, and student outcomes (r = .111)](../claims/teacher-growth-mindset-small-overall-association.md) [+M] — learners who differ on it differ in outcomes
-- [A short growth mindset intervention did not improve recall performance or motivational beliefs compared to control, for either knowledge type](../claims/growth-mindset-no-effect-vocabulary-learning.md) [-M] — instruction changes it
+- [A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type](../claims/growth-mindset-no-effect-vocabulary-learning.md) [-M] — instruction changes it
 - [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](../claims/mindset-belief-fostered-without-outcome-change.md) [+M] — instruction changes it
 
 ## The evidence by question

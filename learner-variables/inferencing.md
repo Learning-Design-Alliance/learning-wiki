@@ -61,7 +61,7 @@ It matters most in middle and high school, where subject-specific texts assume b
 - [ABM students engage more frequently in embodied reasoning strategies—first-to-third-person perspective shifts, causal inference making, and gestures—than video students, who rely more on third-person perspectives and information retrieval](../claims/abm-students-more-embodied-reasoning-strategies.md) [+W] — instruction changes it
 - [First-to-third-person perspective shifting, causal inference making, and gesture use correlate positively with explanatory and transfer scores, while information retrieval and handwriting correlate negatively](../claims/embodied-strategies-correlate-explanatory-transfer-scores.md) [+M] — learners who differ on it differ in outcomes
 - [Retrieval practice improved literal premise recall but did not improve deductive inference transfer compared to restudy](../claims/retrieval-practice-premise-recall-not-inference-transfer.md) [-W] — instruction changes it
-- [Initial skills moderate embodied training effects: arm-body training harms low-skilled but benefits high-skilled students on dictation and legibility](../claims/initial-skills-moderate-embodied-training-effects.md) [~M] — an instructional effect differs with it
+- [Initial skills moderate embodied training effects: arm-body training harms low-skilled students on dictation and legibility, and benefits high-skilled students on dictation](../claims/initial-skills-moderate-embodied-training-effects.md) [~M] — an instructional effect differs with it
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

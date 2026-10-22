@@ -44,7 +44,7 @@ Fernando Núñez-Regueiro, Natacha Boissicat, Fanny Gimbert, Céline Pobel-Burti
 
 `q4 · i2` · `causal · r3`
 
-Preregistered randomized-controlled experiment in 13 kindergarten classes; linear regression on a latent composite of letter knowledge and script, controlling for baseline, age, gender and letter set. Arm training increased acquisitions by "+0.404 SD" versus the average student.
+Preregistered randomized-controlled experiment in 13 kindergarten classes; linear regression on a latent composite of letter knowledge and script, adjusted for baseline level and letter set (age and gender were tested and dropped from this model as non-significant). Arm training increased acquisitions by "+0.404 SD" versus the average student.
 
 > "the arm training condition had a significant, positive effect on overall acquisitions in letter knowledge and script on post-tests (ß = 0.148, d = 0.404, p = .008)"
 
@@ -68,6 +68,6 @@ Same RCT, linear regression on the composite measure: arm-body training decrease
 ## Related Claims
 - [Arm-body training reduces letters written under dictation relative to the other conditions](arm-body-training-detrimental-letters-dictation.md) — related
 - [Arm-body training improves overall legibility of letter script while pencil-and-paper training reduces it](arm-body-training-improves-overall-legibility.md) — related
-- [Initial skills moderate embodied training effects: arm-body training harms low-skilled but benefits high-skilled students on dictation and legibility](initial-skills-moderate-embodied-training-effects.md) — related
+- [Initial skills moderate embodied training effects: arm-body training harms low-skilled students on dictation and legibility, and benefits high-skilled students on dictation](initial-skills-moderate-embodied-training-effects.md) — related
 - [Arm training improves letter recognition and letter-name knowledge relative to the other training conditions](arm-training-improves-letter-recognition-and-name-knowledge.md) — related
 - [No training condition affects letter script stroke direction](no-training-effect-stroke-direction.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Initial skills moderate embodied training effects: arm-body training harms low-skilled but benefits high-skilled students on dictation and legibility"
-description: "Initial skills moderate embodied training effects: arm-body training harms low-skilled but benefits high-skilled students on dictation and legibility"
+title: "Initial skills moderate embodied training effects: arm-body training harms low-skilled students on dictation and legibility, and benefits high-skilled students on dictation"
+description: "Initial skills moderate embodied training effects: arm-body training harms low-skilled students on dictation and legibility, and benefits high-skilled students on dictation"
 id: initial-skills-moderate-embodied-training-effects
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 3
 ---
 
-# Initial skills moderate embodied training effects: arm-body training harms low-skilled but benefits high-skilled students on dictation and legibility
+# Initial skills moderate embodied training effects: arm-body training harms low-skilled students on dictation and legibility, and benefits high-skilled students on dictation
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q4` · `i1`–`i2`
 
 ## Subclaims
 `q4 i2` The negative arm-body effect on letters written under dictation was detrimental for low-skilled students only and beneficial for high-skilled students (interaction d = .438). [→ Fernando Núñez-Regueiro 2024](#fernando-nunez-regueiro-2024)
-`q4 i1` Pencil-and-paper and arm-body effects on overall legibility differed by initial skill level, favoring arm training most around 1 SD below the mean pretest. [→ Fernando Núñez-Regueiro 2024 (2)](#fernando-nunez-regueiro-2024-2)
+`q4 i1` Pencil-and-paper and arm-body effects on overall legibility differed by initial skill level, favoring arm training most around 1 SD below the mean pretest; arm-body training was unfavorable (vs. pencil-and-paper) for very low-skilled students. [→ Fernando Núñez-Regueiro 2024 (2)](#fernando-nunez-regueiro-2024-2)
 
 ## Evidence
 

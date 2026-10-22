@@ -89167,12 +89167,12 @@
 "type":"claim"
 },
 {
-"description":"A short growth mindset intervention did not improve recall performance or motivational beliefs compared to control, for either knowledge type",
+"description":"A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type",
 "evidence_strength":"moderate",
 "id":"growth-mindset-no-effect-vocabulary-learning",
 "path":"claims/growth-mindset-no-effect-vocabulary-learning.md",
 "status":"review",
-"title":"A short growth mindset intervention did not improve recall performance or motivational beliefs compared to control, for either knowledge type",
+"title":"A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type",
 "type":"claim"
 },
 {
@@ -99336,12 +99336,12 @@
 "type":"claim"
 },
 {
-"description":"Initial skills moderate embodied training effects: arm-body training harms low-skilled but benefits high-skilled students on dictation and legibility",
+"description":"Initial skills moderate embodied training effects: arm-body training harms low-skilled students on dictation and legibility, and benefits high-skilled students on dictation",
 "evidence_strength":"moderate",
 "id":"initial-skills-moderate-embodied-training-effects",
 "path":"claims/initial-skills-moderate-embodied-training-effects.md",
 "status":"review",
-"title":"Initial skills moderate embodied training effects: arm-body training harms low-skilled but benefits high-skilled students on dictation and legibility",
+"title":"Initial skills moderate embodied training effects: arm-body training harms low-skilled students on dictation and legibility, and benefits high-skilled students on dictation",
 "type":"claim"
 },
 {

@@ -46,7 +46,7 @@ Ordinal regression on letters written under dictation (6-point task) in the RCT;
 - [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Initial skills moderate embodied training effects: arm-body training harms low-skilled but benefits high-skilled students on dictation and legibility](initial-skills-moderate-embodied-training-effects.md) — related
+- [Initial skills moderate embodied training effects: arm-body training harms low-skilled students on dictation and legibility, and benefits high-skilled students on dictation](initial-skills-moderate-embodied-training-effects.md) — related
 - [Arm training with nested handwriting exercises yields the greatest overall acquisitions in letter knowledge and script, while arm-body training reduces them](arm-training-best-overall-letter-knowledge-gains.md) — related
 - [Arm-body training improves overall legibility of letter script while pencil-and-paper training reduces it](arm-body-training-improves-overall-legibility.md) — related
 - [No training condition affects letter script stroke direction](no-training-effect-stroke-direction.md) — related

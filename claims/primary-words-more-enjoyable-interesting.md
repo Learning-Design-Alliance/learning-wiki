@@ -50,4 +50,4 @@ Paired-sample t-tests on single-item ratings collected after each of the eight s
 - [Learning biologically primary words is perceived as less difficult and less effortful than learning biologically secondary words](primary-words-less-difficulty-effort.md) — related
 - [Adults recall more biologically primary knowledge words than biologically secondary knowledge words in a paired vocabulary learning task](primary-words-recalled-better-than-secondary-words.md) — related
 - [The effect of a growth mindset intervention does not interact with knowledge type for motivation, cognitive load, or recall](no-knowledge-type-mindset-interaction.md) — related
-- [A short growth mindset intervention did not improve recall performance or motivational beliefs compared to control, for either knowledge type](growth-mindset-no-effect-vocabulary-learning.md) — related
+- [A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type](growth-mindset-no-effect-vocabulary-learning.md) — related

@@ -47,7 +47,7 @@ Manipulation check from Table 4 of the randomized experiment: ANCOVA on post-int
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [A short growth mindset intervention did not improve recall performance or motivational beliefs compared to control, for either knowledge type](growth-mindset-no-effect-vocabulary-learning.md) — related
+- [A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type](growth-mindset-no-effect-vocabulary-learning.md) — related
 - [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with no significant variation in this effect detected across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — related
 - [Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context](growth-mindset-interventions-conditional-teacher-context.md) — related
 - [High-performance feedback increases performance expectations more than low-performance feedback, with additive effects of age and control beliefs](high-performance-feedback-increases-performance-expectations.md) — related

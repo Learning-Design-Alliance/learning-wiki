@@ -44,7 +44,7 @@ sources:
 ## Subclaims
 
 `q2 i?` Self-reports on affect and metacognition were more accurate in predicting learning productivity at the beginning of the instructional unit, while the predictive accuracy of students' cognitive artifacts increased toward the end of the unit. [→ Joni Lämsä 2026](#joni-lamsa-2026)
-`q2 i?` Among machine learning methods applied, boosting yielded the highest overall predictive accuracy and showed the least bias in predictive accuracy by gender, though the decision tree model outperformed boosting when accuracy was examined by parental education background. [→ Joni Lämsä 2026 (2)](#joni-lamsa-2026-2)
+`q2 i?` As this commentary summarises Kubsch et al. (2025), among the machine learning methods that study applied, boosting yielded the highest overall predictive accuracy and showed the least bias in predictive accuracy by gender, though the decision tree model outperformed boosting when accuracy was examined by parental education background. [→ Joni Lämsä 2026 (2)](#joni-lamsa-2026-2)
 
 `q2 i?` Models using only affective and/or metacognitive data showed flat accuracy trends over time and outperformed cognitive-only models at P1 and P2, while cognitive-only models yielded higher accuracy at P4 and P5. [→ Kubsch 2025](#kubsch-2025)
 
@@ -66,7 +66,7 @@ Joni Lämsä, Susanne de Mooij, Martine Baars, Inge Molenaar, Sanna Järvelä. (
 
 `q2 · i?` · `review · r1`
 
-In the same study, the authors applied a range of machine learning methods; "boosting yielded the highest overall predictive accuracy" and showed the least gender bias in predictive accuracy. However, when predictive accuracy was examined by parental education background, the decision tree model outperformed boosting.
+The commentary reports, from Kubsch et al.'s (2025) study (not the commentary authors' own work), that across the range of machine learning methods Kubsch et al. applied, "boosting yielded the highest overall predictive accuracy" and showed the least gender bias in predictive accuracy. However, when predictive accuracy was examined by parental education background, the decision tree model outperformed boosting.
 
 > "By applying various machine learn - ing methods, the authors found that boosting yielded the highest overall predictive accuracy. Boosting also showed the least bias regarding predictive accuracy by gen- der."
 

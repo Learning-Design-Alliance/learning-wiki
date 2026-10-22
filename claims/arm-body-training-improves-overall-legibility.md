@@ -46,7 +46,7 @@ Ordinal regression on overall letter legibility (18-point rated copying task) in
 - [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Initial skills moderate embodied training effects: arm-body training harms low-skilled but benefits high-skilled students on dictation and legibility](initial-skills-moderate-embodied-training-effects.md) — related
+- [Initial skills moderate embodied training effects: arm-body training harms low-skilled students on dictation and legibility, and benefits high-skilled students on dictation](initial-skills-moderate-embodied-training-effects.md) — related
 - [Arm-body training reduces letters written under dictation relative to the other conditions](arm-body-training-detrimental-letters-dictation.md) — related
 - [Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency](handwriting-intervention-type-equivalence.md) — related
 - [Explicit Handwriting Instruction Improves Legibility](explicit-handwriting-instruction-improves-legibility.md) — a broader claim this one bears on
