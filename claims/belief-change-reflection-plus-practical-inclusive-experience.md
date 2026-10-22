@@ -48,3 +48,4 @@ The meta-analysis's synthesis of intervention moderator findings reports that "t
 ## Related Claims
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
 - [Short online pedagogy courses shifted university teachers’ interpretations of a learning-focused teaching video from knowledge transmission toward learning facilitation](short-online-training-shifts-interpretations-learning-focused-video.md) — related
+- [Explicit reflection on epistemic beliefs during science units has been followed by changes in student teachers' epistemic beliefs](explicit-reflection-interventions-change-teacher-beliefs.md) — related

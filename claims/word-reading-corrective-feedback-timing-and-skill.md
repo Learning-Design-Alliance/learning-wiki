@@ -69,3 +69,4 @@ The review's synthesis of three studies of word-reading feedback methods, report
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
 - [The National Reading Panel provided no evidence that phonics helps the majority of struggling readers above grade 1](nrp-no-evidence-struggling-readers-above-grade-1.md) — related
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](metacognitive-illusion-pretesting-underrated.md) — related
+- [Immediate trial-by-trial feedback was more helpful than delayed feedback for children ages 8-11, but timing conclusions remain weak overall](immediate-feedback-better-than-delayed-children.md) — related

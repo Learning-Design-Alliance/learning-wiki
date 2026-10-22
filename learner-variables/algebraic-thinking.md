@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 45 claims (27 show a difference, 13 mixed, 5 no difference) · 28 studies (15 causal, 4 associational, 3 review, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 6 of 28 report an effect size · 42 claims rest on one study
+> **Evidence** · 46 claims (27 show a difference, 14 mixed, 5 no difference) · 29 studies (15 causal, 4 associational, 3 review, 3 theoretical, 2 qualitative, 1 quant-synthesis, 1 design), `q1`–`q4` · 6 of 29 report an effect size · 43 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -82,6 +82,7 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [Mathematics anxiety shows mixed relations to algebraic thinking across studies](../claims/math-anxiety-mixed-algebra-relations.md) [~W] — learners who differ on it differ in outcomes
 - [Mathematics self-efficacy is the most commonly studied motivational propensity and is usually positively related to algebraic thinking](../claims/math-self-efficacy-positive-algebra.md) [+W] — learners who differ on it differ in outcomes
 - [Sense of belonging to mathematics is positively related to algebraic thinking in reviewed studies](../claims/belonging-mathematics-positive-algebra.md) [+W] — learners who differ on it differ in outcomes
+- [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](../claims/action-helps-when-concept-relevant-relations-easier.md) [~W] — instruction changes it
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

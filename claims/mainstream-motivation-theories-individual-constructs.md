@@ -51,3 +51,4 @@ A narrative synthesis of four mainstream motivation theories reviewing their ide
 - [The relative importance of academic self-concepts depends on explicit social and cultural supports for their valuation](academic-self-concept-cultural-valuation.md) — a narrower finding that bears on this claim
 - [Scaffolding research and frameworks have shifted from motivational-plus-cognitive support toward mostly cognitive support](scaffolding-became-cognitively-skewed.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Critical culturalized comprehension is reasoning engaged to resist or recast textual values into counternarratives](critical-culturalized-comprehension-counternarratives.md) — related

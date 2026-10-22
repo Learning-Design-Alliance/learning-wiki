@@ -125,3 +125,4 @@ A review of experiments comparing human tutoring, several classes of computer tu
 - [Tutoring is highly effective, and hiring older peers as tutors supports learning gains for both older and younger students](tutoring-and-cross-age-peer-tutors-effective.md) — related
 - [Contingency is not treated as a necessary condition of scaffolding in bilingual education research, unlike broader educational research](contingency-not-necessary-condition-bilingual-education-scaffolding.md) — related
 - [Expert modeling, feedback, hints, and multiple strategies improve cognitive outcomes, but question prompts show no evident difference from control](scaffolding-strategy-moderator-question-prompts-null.md) — related
+- [Feedback features shift with age: scaffolds (prompts, audio, physical demonstrations) cluster in ages 3-7 while written and paper-based feedback appears only from age 8](feedback-features-tailored-by-age.md) — related

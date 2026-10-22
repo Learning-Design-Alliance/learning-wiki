@@ -60,3 +60,4 @@ Cross-condition lexical comparison of feedback generated for the same 600 essays
 - [Names alone elicit weaker, less consistent identity-marked feedback language than explicit attribute prompts](names-alone-elicit-weaker-marked-language.md) — related
 - [Explicitly prompting a student attribute produces large, systematic increases in the concentration of stereotype-aligned marked words in LLM-generated writing feedback](prompted-attributes-increase-marked-pedagogy-concentration.md) — related
 - [LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high scores with more praise](llm-feedback-sentiment-tracks-scores.md) — related
+- [Feedback alerts orienting children to upcoming feedback appear in about half of feedback conditions and are least frequent for ages 10-11](feedback-alerts-before-task.md) — related

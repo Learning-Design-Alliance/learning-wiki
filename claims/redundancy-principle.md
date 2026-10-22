@@ -164,3 +164,4 @@ The page records one review (Trypke et al. 2023); the classic primary experiment
 - [Oral non-interactive teaching can enhance learning more than written teaching for complex materials](oral-written-modality-boundary-noninteractive-teaching.md) — related
 - [2D pedagogical agents tended to be more effective than 3D agents (g+ = 0.38 vs. g+ = 0.11), as predicted by the redundancy effect and the coherence principle](2d-agents-tend-more-effective-than-3d.md) — related
 - [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](synced-audio-visual-presentation-better-learning.md) — related
+- [Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding](action-hurts-when-adding-motor-demands.md) — related

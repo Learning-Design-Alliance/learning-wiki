@@ -54,3 +54,4 @@ Thematic analysis of students’ reflective essays from Week 3 identified prompt
 - [Participants' prompting was often limited, with poorly formulated prompts leading to vague or unhelpful outputs](poorly-formulated-prompts-vague-outputs.md) — related
 - [Without explicit guidance and scaffolding, unguided GenAI use may disproportionately benefit already advantaged students and widen performance gaps](unguided-genai-benefits-advantaged-students.md) — related
 - [Self-efficacy is moderately related to academic achievement but is more a product of past performance than a driver of future performance](self-efficacy-achievement-and-past-performance.md) — related
+- [Under enduring constraint, disengagement may reflect accurate calibration to low translation fidelity rather than low self-efficacy](disengagement-as-accurate-calibration-low-translation-fidelity.md) — related

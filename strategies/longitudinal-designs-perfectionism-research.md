@@ -39,6 +39,7 @@ The article recommends design moves to establish temporal and causal inference a
 ## Related Strategies
 
 - [Prioritise longitudinal designs, valid multidimensional measures, and common gifted-identification reporting in future perfectionism research with gifted students](future-perfectionism-research-recommendations-gifted.md)
+- [Adopt a staged research agenda: measure the three belief dimensions, test incremental validity, and run component-level and person-centered tests](possibility-mindset-staged-research-agenda.md)
 
 ## Examples
 -

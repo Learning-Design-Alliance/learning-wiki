@@ -49,3 +49,4 @@ Editorial essay argument, not an empirical study. The authors assert, with cited
 - [The complexity of successful instrumental genesis translates into severe barriers to adopting CSCL technologies, pedagogies, chronotypes, and educational philosophies in established school institutions](instrumental-genesis-complexity-adoption-barriers.md) — related
 - [The three major theories of artifact-people interaction operate at different levels: affordances individual, structuration societal, instrumental genesis small-group](three-theories-artifact-levels-comparison.md) — related
 - CSCL 2011 marked a significant increase in Asian participation in CSCL research, drawing over 400 registrants from more than 30 countries — related
+- [Cognitive technologies serve as instruments of cultural redefinition, changing rather than just amplifying what people do](cognitive-technologies-cultural-redefinition.md) — related

@@ -55,3 +55,4 @@ Qualitative theme 3 asked students what forms of support they consider effective
 - [Affective reactivity can override adolescents' regulatory intentions for digital engagement](affective-reactivity-overrides-digital-regulation-intentions.md) — related
 - [Digital literacy alone does not guarantee effective digital regulation](digital-literacy-alone-does-not-guarantee-regulation.md) — related
 - [Population-level surveys indicate adolescent digital regulation failures are not rare](hbsc-problematic-social-media-use-prevalence.md) — related
+- [Students experience a rich diversity of academic emotions, with anxiety reported most often (15-25% of reports) but positive emotions described about as often as negative emotions](academic-emotions-rich-diversity-anxiety-most-frequent.md) — related

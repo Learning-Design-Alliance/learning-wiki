@@ -44,3 +44,4 @@ The article reports a metascience comparison by Soderberg et al. (2020) in which
 
 ## Related Claims
 - [A comparison of 193 pre-registered and 193 non-preregistered studies found no significant differences in positive results, effect sizes, or error rates](preregistration-no-outcome-difference.md) — related
+- [Offering Open Science Badges is associated with increased uptake of data and materials sharing and preregistration](open-science-badges-associated-uptake.md) — related

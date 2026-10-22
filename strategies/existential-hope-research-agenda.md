@@ -40,6 +40,7 @@ The article recommends a two-step empirical agenda. First, develop a psychometri
 
 - [Adapt global citizenship scale items to the local context and validate component models separately with PLS-SEM](adapt-global-citizenship-items-local-context-pls-sem.md)
 - [Research agenda: use process-oriented assessments, study encoding-consolidation-retrieval effects, and examine longitudinal outcomes of educational generative AI](genai-learning-research-agenda-process-assessments.md)
+- [Adopt a staged research agenda: measure the three belief dimensions, test incremental validity, and run component-level and person-centered tests](possibility-mindset-staged-research-agenda.md)
 
 ## Examples
 -

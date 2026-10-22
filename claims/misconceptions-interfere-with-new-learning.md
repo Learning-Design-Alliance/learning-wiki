@@ -131,3 +131,4 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 - [A striking number of biology conceptual change studies measured only superficial learning outcomes such as knowledge enrichment rather than knowledge restructuring](biology-cc-studies-superficial-enrichment-outcomes.md) — related
 - [Personalized refutation text significantly predicts stronger conceptual change among teachers who held both math-gender misconceptions at pre-test](personalized-refutation-text-conceptual-change-misconception-holders.md) — a narrower finding that bears on this claim
 - [Inaccurate prior beliefs undermine readers' ability to question online misinformation](inaccurate-beliefs-undermine-misinformation-questioning.md) — related
+- [Cognitive conflict induced by refutational texts and conflicting perspectives may promote epistemic belief change in student teachers](cognitive-conflict-interventions-change-epistemic-beliefs.md) — related

@@ -66,3 +66,4 @@ The review reports, citing Mayer and Johnson (2008), that "this very subtle form
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — reports the opposite
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
+- [Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding](action-hurts-when-adding-motor-demands.md) — reports the opposite

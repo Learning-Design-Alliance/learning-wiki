@@ -49,3 +49,4 @@ Cross-case comparison of the five teams at the intermediate analysis level, whic
 - [A shared epistemic object let a team with substantial off-task time (UrPo) still complete a successful co-invention](shared-object-regrouping-after-off-task.md) — a narrower finding that bears on this claim
 - [Teacher-introduced redirection that simplified a team's epistemic object was associated with a decline in that team's knowledge-creation activity](claim-teacher-redirection-simplified-epistemic-object.md) — related
 - [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — related
+- [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](action-helps-when-concept-relevant-relations-easier.md) — related

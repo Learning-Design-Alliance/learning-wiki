@@ -48,3 +48,4 @@ Descriptive assessment of the logged dataset of 106 teams. The study reports "Th
 - [In-game time and distance are not very useful indicators of team quality because they are largely driven by team structure](teamup-time-distance-poor-quality-indicators.md)
 - [In-game avoidable mistakes in TEAMUP are significantly and markedly explained by team cohesiveness, not by team structure variables](teamup-errors-explained-by-cohesiveness.md) — related
 - [Team structure factors (gender, age, game experience) markedly influence TEAMUP speed and distance but not avoidable mistakes](teamup-structure-drives-time-distance-not-errors.md) — related
+- [Independent data-analysis teams given the same data and question produced widely varying answers, illustrating analytic flexibility](many-analysts-one-dataset-variable-answers.md) — related

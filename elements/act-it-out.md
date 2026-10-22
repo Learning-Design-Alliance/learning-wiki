@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (13 for, 4 mixed, 2 against) · 26 studies (13 causal, 6 review, 5 quant-synthesis, 2 theoretical), `q1`–`q4` · 6 of 26 report an effect size · 15 claims rest on one study
+> **Evidence** · 20 claims (14 for, 4 mixed, 2 against) · 27 studies (13 causal, 6 review, 5 quant-synthesis, 3 theoretical), `q1`–`q4` · 6 of 27 report an effect size · 16 claims rest on one study
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -67,6 +67,7 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - [Full-body movement training during number building exercises significantly increases first-graders' final math test performance compared to non-movement control training](../claims/full-body-movement-improves-number-building-test.md) [+W]
 - [Movement conditions outperform non-movement controls during the practice phase on both position and instruction scores](../claims/movement-training-better-practice-phase.md) [+W]
 - [Most children taught with movements spontaneously use movements when naming letter-sounds, unlike non-motor-taught children](../claims/movement-use-during-letter-sound-test.md) [+W]
+- [The Perform First Hypothesis proposes direct sensorimotor action early in expertise and observing, imagining, or abstract representations later](../claims/perform-first-hypothesis-zhang-2026.md) [+W]
 
 ## The evidence by question
 

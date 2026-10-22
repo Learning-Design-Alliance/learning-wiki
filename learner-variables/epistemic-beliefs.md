@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 28 claims (18 show a difference, 7 mixed, 3 no difference) · 17 studies (4 design, 3 associational, 2 causal, 2 quant-synthesis, 2 review, 2 qualitative, 2 theoretical), `q1`–`q3` · 1 of 17 report an effect size · 28 claims rest on one study
+> **Evidence** · 31 claims (20 show a difference, 8 mixed, 3 no difference) · 18 studies (4 design, 3 review, 3 associational, 2 causal, 2 quant-synthesis, 2 qualitative, 2 theoretical), `q1`–`q3` · 1 of 18 report an effect size · 31 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -60,6 +60,9 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Inaccurate prior beliefs undermine readers' ability to question online misinformation](../claims/inaccurate-beliefs-undermine-misinformation-questioning.md) [+M] — learners who differ on it differ in outcomes
 - [Preservice teachers with placements promoting successful constructivist science teaching were more likely to report evaluativist personal epistemologies](../claims/constructivist-placements-evaluativism-preservice.md) [+M] — instruction changes it
 - [Quasi-experimental and experimental interventions can positively change epistemic cognition, but the theory-of-change remains unidentified](../claims/interventions-change-epistemic-cognition.md) [+M] — instruction changes it
+- [Cognitive conflict induced by refutational texts and conflicting perspectives may promote epistemic belief change in student teachers](../claims/cognitive-conflict-interventions-change-epistemic-beliefs.md) [~M] — instruction changes it
+- [Explicit reflection on epistemic beliefs during science units has been followed by changes in student teachers' epistemic beliefs](../claims/explicit-reflection-interventions-change-teacher-beliefs.md) [+M] — instruction changes it
+- [Student teachers' beliefs about sources of knowledge predict their learning approaches and motivation in teacher education](../claims/source-of-knowledge-beliefs-predict-learning-approaches.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

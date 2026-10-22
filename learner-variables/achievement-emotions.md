@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 93 claims (64 show a difference, 21 mixed, 8 no difference) · 69 studies (18 causal, 17 associational, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 13 of 69 report an effect size · 90 claims rest on one study
+> **Evidence** · 95 claims (66 show a difference, 21 mixed, 8 no difference) · 70 studies (18 causal, 18 associational, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 13 of 70 report an effect size · 92 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -128,6 +128,8 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Enjoyment mediates the pathway from immersive media to immediate posttest score while interest mediates the pathway to delayed posttest score](../claims/camil-enjoyment-immediate-interest-delayed-pathways.md) [+M] — learners who differ on it differ in outcomes
 - [Higher earlier interest is associated with later decreases in boredom across grades 5–8, at every wave in mathematics and all but the last in German](../claims/earlier-interest-predicts-lower-later-boredom.md) [+W] — learners who differ on it differ in outcomes
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher enjoyment than students taking the same trip as a 2D video](../claims/hmd-virtual-field-trip-higher-enjoyment-than-2d-video.md) [+M] — instruction changes it
+- [Emotions measured early in the semester longitudinally predict cumulative grades and exam scores, with negative deactivating emotions (hopelessness, boredom) showing stronger coefficients than activating negative emotions](../claims/emotions-longitudinally-predict-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Positive academic emotions correlate positively with interest, effort, flexible learning strategies, and perceived self-regulation, while boredom and hopelessness correlate negatively with all of these motivational variables](../claims/emotions-correlate-motivation-strategies-resources.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

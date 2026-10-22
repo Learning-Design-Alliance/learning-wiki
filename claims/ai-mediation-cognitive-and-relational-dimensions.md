@@ -48,3 +48,4 @@ Inductive thematic analysis of co-design workshop transcripts and written artifa
 - [Shared mental model development mediates the effect of team learning behaviors on actual team performance](shared-mental-models-mediate-team-learning-performance.md) — related
 - [The adapted conjecture map's framing around unintended consequences proved generative for interdisciplinary discussion](unintended-consequences-framing-generative.md) — related
 - [Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member](team-teaching-pros-and-cons.md) — related
+- [Software analyses are presented as illuminating advantages of the reorganizer view for new visions of computers' cognitive benefits](software-analyses-illuminate-reorganizer-advantages.md) — related

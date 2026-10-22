@@ -64,6 +64,7 @@ Group norms function as procedural scaffolds: they remove the need for learners 
 - [Implement cooperative learning with real problems, slow growth, team building, a safe environment, teacher modeling, mixed academic levels, and a teacher shift from directing to facilitating](aids-to-cooperative-learning-implementation.md)
 - [Anti-oppressive co-design meeting practices: land acknowledgements, shared roles, breakout discussions, multiple input modes](anti-oppressive-co-design-practices.md)
 - [Provide training and jargon-free resources so council members can make informed contributions](training-and-jargon-free-resources-for-council-members.md)
+- [Design instructional environments to foster positive academic emotions: improve instruction quality, grant calibrated autonomy, match expectations to capabilities, increase success opportunities, and foster cooperative interaction structures](instructional-guidelines-foster-positive-academic-emotions.md)
 
 ## Examples
 - **Cooperative learning structures (Kagan; Johnson & Johnson)** — Team norms such as "everyone participates, no one dominates" are built into structures like RoundRobin and paired with individual accountability quizzes.

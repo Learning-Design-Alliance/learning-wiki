@@ -46,6 +46,7 @@ The article recommends three methodological advances: complement self-report wit
 - [Specify the knowledge-acquisition component when using curiosity and interest terms, and prefer experience-sampling over one-shot self-report](specify-process-components-curiosity-interest-terminology.md)
 - [Use formal computational modelling to specify dynamic causal processes in motivation theories](computational-modelling-for-motivation-theory.md)
 - [Employ multimodal methods to capture the multifaceted feedback process](multimodal-methods-feedback-process.md)
+- [Adopt a staged research agenda: measure the three belief dimensions, test incremental validity, and run component-level and person-centered tests](possibility-mindset-staged-research-agenda.md)
 
 ## Examples
 -

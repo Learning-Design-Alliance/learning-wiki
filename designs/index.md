@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**982 entries** · 0 stable · 982 in review · 0 drafts
+**983 entries** · 0 stable · 983 in review · 0 drafts
 
 ---
 
@@ -820,6 +820,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Skill-targeted explanation styles: pragmatic versus contingent LLM error-message rewrites](skill-targeted-explanation-styles-pragmatic-contingent.md) - The article defines two skill-targeted explanation styles for LLM rewrites of Python error messages, designed for different assessed proficiency levels.
 * [Skill-training design model: introduce surface declarative knowledge, consolidate to conceptual understanding, then prepare transfer to applied settings](skill-training-depth-of-knowledge-design-model.md) - The article organizes its training design and analyses around models of learning-skill development, chiefly Hattie and Donoghue's (2016) framework and Efklides' (2011) MASRL model.
 * [Skyline College Education/Child Development Program: community college lab school with mentored clinical practice](skyline-college-ece-lab-school-program.md) - Skyline College's Education/Child Development Program is a traditional community college department preparing early educators for classroom teaching toward an associate degree or Child Development Permit.
+* [Small rural districts should pool resources through cross-district consortiums to attain capacity no single district could achieve alone](cross-district-resource-pooling-rural-community-schools.md) - The report's first lesson is \"Working Stronger Together\": by bringing together small, rural districts, the consortium \"amassed and leveraged resources that individual districts likely would not have attained by workin...
 * [Small-group station rotation for Tier 2 reading intervention](small-group-station-rotation-tier2-reading.md) - The program organizes intervention as rotation of small groups of four students through instructional stations.
 * [SMALLab mixed-reality design pivots on three principles: face-to-face interaction, distributed thought and action, and immediate consolidation](smallab-three-design-principles.md) - The SMALLab mixed-reality classroom design, presented by Birchfield and Megowan-Romanowicz, pivots on three principles: direct face-to-face interaction among co-located participants should be cultivated; thought and a...
 * [Social capital elements as design levers for online teacher professional development](social-capital-elements-online-pd-framework.md) - The article frames teacher collaboration in online asynchronous PD through social capital mechanisms.

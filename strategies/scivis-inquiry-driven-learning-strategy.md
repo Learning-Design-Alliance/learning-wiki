@@ -46,6 +46,7 @@ The article culminates in a recommendation that education adopt scientific visua
 ## Related Strategies
 
 - [Science Through Inquiry](science_through_inquiry.md)
+- [Adopt an activist research paradigm: simultaneously create and study changes in learning with new cognitive and educational tools](activist-research-paradigm-learning-technologies.md)
 
 ## Examples
 -

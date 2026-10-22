@@ -49,6 +49,7 @@ The authors recommend teaching the 3R-EC Framework explicitly and embedding it i
 ## Related Strategies
 
 - [Context-Specific Journaling](context-specific_journaling.md)
+- [Embed explicit reflection on epistemic beliefs within constructivist teaching practice so beliefs evolve through enacted epistemic cognition](embed-epistemic-reflection-in-teaching-practice.md)
 
 ## Examples
 -

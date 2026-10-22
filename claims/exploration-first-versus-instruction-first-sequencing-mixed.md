@@ -67,3 +67,4 @@ The commentary reports Ashman et al.'s (2020) theoretical proposal using task co
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
+- [The Perform First Hypothesis proposes direct sensorimotor action early in expertise and observing, imagining, or abstract representations later](perform-first-hypothesis-zhang-2026.md) — related

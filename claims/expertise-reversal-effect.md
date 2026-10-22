@@ -289,3 +289,5 @@ Open questions include how finely expertise must be measured (domain-specific vs
 - [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — related
 - [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](expertise-reversal-conceptual-understanding-statistics.md) — a narrower finding that bears on this claim
 - [Element interactivity moderates the effectiveness of cognitive offloading, with greater benefit for high element interactivity materials](element-interactivity-moderates-offloading.md) — related
+- [Feedback benefits are stronger for children with low prior knowledge, resembling an expertise-reversal effect](feedback-stronger-for-low-prior-knowledge-children.md) — a narrower finding that bears on this claim
+- [The Perform First Hypothesis proposes direct sensorimotor action early in expertise and observing, imagining, or abstract representations later](perform-first-hypothesis-zhang-2026.md) — related
