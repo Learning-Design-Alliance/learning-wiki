@@ -63,3 +63,4 @@ The article describes hard example mining as a divergence from human pedagogy, n
 
 ## Related Claims
 - [Reinforcement learning in adaptive educational systems faces sample inefficiency and reward-design instability, motivating hybrid RL-ML approaches](rl-sample-inefficiency-reward-design-limits.md) — related
+- [Reinforcement learning operationalizes motivational constructs by representing motivation in the reward function](rl-reward-function-operationalizes-motivation.md) — related

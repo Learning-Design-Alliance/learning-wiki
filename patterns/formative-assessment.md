@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 40 claims (20 for, 19 mixed, 1 against) · 46 studies (15 causal, 12 quant-synthesis, 7 review, 5 qualitative, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 17 of 46 report an effect size · 29 claims rest on one study
+> **Evidence** · 41 claims (20 for, 20 mixed, 1 against) · 47 studies (15 causal, 12 quant-synthesis, 8 review, 5 qualitative, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 17 of 47 report an effect size · 30 claims rest on one study
 
 ## Description
 
@@ -205,6 +205,10 @@ This is the article's described classroom pattern for formative assessment in la
 ## Key Sources
 - Burnstein, R. A. and Lederman, L. M. (2007). Wireless Keypads −− A New Classroom Technology Using Enhanced Multiple-Choice Questions. Physics Education. https://iopscience.iop.org/journal/0031-9120
 -->
+
+## Claims
+
+- [Accurately judging cue manifestations, not merely using diagnostic cues, improves teachers' monitoring accuracy; non-diagnostic student cues hamper it](../claims/accurate-cue-manifestation-judgment-improves-teacher-monitoring.md) [~W]
 
 ## Key Sources
 

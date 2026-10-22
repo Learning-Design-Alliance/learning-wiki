@@ -55,3 +55,4 @@ The primer defines stereotype threat as a psychological phenomenon in which "stu
 - [Gender identification moderates the relation between chronic stereotype threat and both working memory effectiveness and intellectual helplessness](gender-identity-moderates-stereotype-threat-effects.md) — related
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — a broader claim this one bears on
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
+- [Fixed mindset peer cultures are theorized to erode belonging via identity threat, especially for minoritized students](fixed-mindset-peer-culture-identity-threat.md) — related

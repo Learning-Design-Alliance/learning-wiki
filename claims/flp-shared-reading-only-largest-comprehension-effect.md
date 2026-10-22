@@ -48,3 +48,4 @@ Moderator analysis on comprehension-related skills (k = 38) found shared-reading
 - [Family literacy programs produce a medium average effect (d = 0.50) on low-SES children's emergent literacy at immediate posttest but only a marginal effect (d = 0.16) at follow-up](flp-medium-immediate-marginal-followup-effect.md) — related
 - [Training in a single setting (home only or center/school only) yields larger comprehension-related effects than training in both contexts or no training](flp-single-setting-training-larger-comprehension-effects.md) — related
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
+- [Family-implemented literacy interventions produce a positive, significant average effect on combined literacy outcomes in single-case experimental design studies (g = 1.50), specific to students with or at risk for reading difficulties](family-literacy-interventions-sced-g-150.md) — related

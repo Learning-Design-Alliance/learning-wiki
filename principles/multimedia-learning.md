@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (32 for, 41 mixed, 3 against) · 59 studies (25 causal, 13 quant-synthesis, 12 review, 4 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 18 of 59 report an effect size · 67 claims rest on one study
+> **Evidence** · 77 claims (32 for, 42 mixed, 3 against) · 60 studies (25 causal, 13 quant-synthesis, 13 review, 4 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 18 of 60 report an effect size · 68 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](../claims/synced-audio-visual-presentation-better-learning.md) [+W]
 - [Most EMME experiments that measured immediate learning scores reported at least one positive effect of gaze visualization on immediate learning](../claims/emme-positive-immediate-learning-effects.md) [~W]
 - [Meta-analytic effect sizes for cognitive-motivational techniques are substantial: multimedia d = 1.01 overall, elaborative feedback d = 0.71 recall, intrinsic integration d = 0.62](../claims/cognitive-motivational-techniques-effect-sizes.md) [+M]
+- [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](../claims/animations-transience-working-memory-load.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

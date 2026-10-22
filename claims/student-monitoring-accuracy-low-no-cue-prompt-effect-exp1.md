@@ -49,3 +49,4 @@ Experiment 1: 255 sixth-graders read six texts, gave delayed JOLs after no cue p
 - [Test performance differs by cue-prompt condition in Experiment 1, with higher scores in the no-cue condition than the summary condition.](test-performance-higher-no-cue-than-summary-condition.md)
 - [Teachers' inter-individual judgment accuracy (predicting differences between students) is well above chance (.528) even though their intra-individual accuracy is not (Experiment 1).](teacher-inter-individual-accuracy-above-chance.md) — related
 - [Teachers show stronger regulation than students: both select lower-JOL texts for restudy, but the JOL–restudy correlation is significantly stronger for teachers (Experiment 1).](teacher-regulation-stronger-than-student-regulation.md) — related
+- [Generative activities improve students' monitoring accuracy but not their actual learning after restudy](generative-activities-improve-monitoring-not-restudy-learning.md) — related

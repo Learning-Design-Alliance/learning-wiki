@@ -91,7 +91,7 @@ Theoretical argument in the same section, offered as an example with no data: th
 - [AI applications support prompt engineering, professional skill development, technology acceptance, and active participation in science and chemistry education](ai-outcome-themes-prompt-skills-technology-acceptance.md) — related
 - [Teachers combined high concern about education's future with belief that change requires active effort and that AI is associated with progress](concern-effort-progress-perceptions.md) — related
 - [AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation](ai-stem-positive-affective-perception-effects.md) — related
-- [The teacher behaviours most predictive of engagement change do not neatly fit within any single motivational theory, supporting theoretical integration](influential-behaviours-span-multiple-motivational-theories.md) — related
+- [The teacher behaviours most predictive of engagement change do not neatly fit within any single motivational theory, supporting theoretical integration](cross-theoretical-71-teacher-behaviors-predict-engagement.md) — related
 - [A teacher's positive initial response to blended delivery was shaped by experience, TELL beliefs and personality](experience-belief-personality-shape-initial-agency-response.md) — related
 - [Motivation, affect, and learner beliefs shape whether AI evidence is accepted, resisted, or used in singing training](motivation-affect-beliefs-shape-ai-feedback-use.md) — related
 - [AI knowledge and attitudes toward AI did not significantly predict teachers' AI integration ability](ai-knowledge-attitudes-not-significant-predictors.md) — reports the opposite

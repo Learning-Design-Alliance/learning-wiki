@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 66 claims (26 for, 37 mixed, 3 against) · 56 studies (26 causal, 12 review, 9 quant-synthesis, 7 theoretical, 1 associational, 1 design), `q1`–`q4` · 22 of 56 report an effect size · 58 claims rest on one study
+> **Evidence** · 67 claims (26 for, 38 mixed, 3 against) · 57 studies (27 causal, 12 review, 9 quant-synthesis, 7 theoretical, 1 associational, 1 design), `q1`–`q4` · 22 of 57 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Prior knowledge correlates negatively with delayed ICL and ECL and positively with delayed GCL, consistent with meta-analytic findings](../claims/prior-knowledge-correlates-with-load-types.md) [~W]
 - [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](../claims/coherence-principle-extraneous-material-effect.md) [~W]
 - [Presenting primary knowledge first and then secondary knowledge was more efficient in both performance and motivation](../claims/primary-first-sequencing-benefits.md) [+W]
+- [Students invest more mental effort in paper-based questions than in equivalent computer-based questions](../claims/greater-mental-effort-paper-questions.md) [~W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

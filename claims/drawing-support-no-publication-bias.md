@@ -52,3 +52,5 @@ Bias screening in the meta-analysis (Table 2 reports Egger intercepts of 0.57 fo
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
 - [Publication-bias evidence differs by subset: significant funnel-plot asymmetry for course-embedded spacing studies but no strong evidence of bias for isolated-material studies.](publication-bias-spacing-subsets-mathematics.md) — related
 - [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](publication-bias-overall-dt.md) — related
+- [The pooled burnout–dropout intentions effect appears robust to outliers and minimally influenced by publication bias](meta-analysis-robustness-burnout-dropout.md) — related
+- [No evidence of dissemination bias was detected in the meta-analysis](teacher-growth-mindset-no-dissemination-bias.md) — related

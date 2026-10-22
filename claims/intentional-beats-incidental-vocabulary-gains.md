@@ -55,3 +55,4 @@ The review reports, citing Peters et al. (2009), a direct comparison showing inc
 - [Adult ESL students who read a short story could use incidentally acquired words in sentences, while students who learned word meanings in isolation could not](incidental-reading-enables-productive-word-use.md) — related
 - [Highly informative contexts produce higher retention of word meaning, with context affecting knowledge of meaning rather than form](informative-contexts-produce-higher-word-meaning-retention.md) — related
 - [In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print](sms-vocabulary-learning-beats-paper-materials.md) — related
+- [Explicit spelling instruction improves spelling skills more than incidental instruction (Hedges' g = 0.43) and more than no instruction (g = 0.54)](explicit-spelling-instruction-beats-incidental.md) — related

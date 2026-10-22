@@ -214,6 +214,8 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Choose individual texts and videos appropriate for specific students rather than deciding by representational format](../strategies/choose-materials-individually-not-by-format.md)
 - [Tailor practice format to students' motivational profiles, particularly baseline self-efficacy and format favorability](../strategies/tailor-practice-format-to-motivational-profiles.md)
 - [Adapt DLG materials and routines to include students with special educational needs](../strategies/dlg-special-education-adaptation-strategies.md)
+- [Match scaffolding type to learners' prior professional knowledge level](../strategies/match-scaffolding-type-to-prior-knowledge-level.md)
+- [Use seatwork phases to attend diagnostically to students who may need adaptive support](../strategies/seatwork-phase-diagnostic-attention.md)
 
 ### Validated
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M] — Walkington (2013) personalized algebra word problems to individual learners' out-of-school interests (sports, music, gaming) and found improved performance relative to standard contexts, with the largest gains for struggling learners.

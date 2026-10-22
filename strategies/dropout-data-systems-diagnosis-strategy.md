@@ -44,6 +44,7 @@ The guide's first recommendation directs schools to build comprehensive, longitu
 - [Build early-warning indicators and leverage online-learning-system process data to support students before gaps widen in Grade 3](early-indicators-online-system-process-data.md)
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](early-warning-system-target-resources-near-term-risks.md)
 - [Provide rigorous and relevant instruction connecting academics to postsecondary options](rigorous-relevant-instruction-postsecondary-strategy.md)
+- [Prioritize more studies of direct dropout behavior, including objective enrollment data, before drawing firm retention conclusions](prioritize-dropout-behavior-studies.md)
 
 ## Examples
 -

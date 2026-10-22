@@ -43,6 +43,7 @@ One of the framework's five pathways: "AI tools should be embedded in physical e
 ## Related Strategies
 
 - [Use AI to support autonomy-supportive task adaptation in physical education rather than algorithmic exercise prescription](autonomy-supportive-ai-task-adaptation-pe.md)
+- [Align peer mindset interventions with teacher practices and broader classroom context rather than isolating them](align-peer-interventions-with-classroom-context.md)
 
 ## Examples
 -

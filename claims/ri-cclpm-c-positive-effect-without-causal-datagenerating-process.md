@@ -57,3 +57,4 @@ Simulation study using R (lavaan, MASS packages). SIM-NEW data (N = 3527, matchi
 - [Simulated correlations between time-on-task and achievement vary substantially across contexts and can be negative even when time-on-task causally increases achievement](comsa-time-on-task-correlation-variable.md) — related
 - [Simulated time-on-task achievement correlations resemble empirical distributions from K-12 classroom studies without any fitting procedure](comsa-time-on-task-matches-empirical.md) — related
 - [Reciprocal effects are robust to time-invariant confounders, but the French lagged self-concept effect did not survive the lag2 carryover stress test](robustness-to-confounders-french-lagged-mixed.md) — related
+- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related

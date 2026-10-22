@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 32 claims (15 for, 15 mixed, 2 against) · 33 studies (12 quant-synthesis, 8 review, 7 causal, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 33 report an effect size · 25 claims rest on one study
+> **Evidence** · 33 claims (16 for, 15 mixed, 2 against) · 34 studies (12 quant-synthesis, 9 review, 7 causal, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 34 report an effect size · 26 claims rest on one study
 
 ## Description and scope
 
@@ -181,6 +181,7 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [No differential effect of explicit instruction depending on the variable complexity](../claims/no-differential-explicit-instruction-effect-complexity.md) [~W]
 - [Explicit teaching of the control-of-variables strategy shows no advantage over not explicitly teaching it, per the Schwichow et al. meta-analysis cited in the review](../claims/cvs-explicit-teaching-no-advantage.md) [-W]
 - [The relation between frequency of inquiry activities and science achievement is curvilinear, with the highest gains where inquiry combines with direct teacher-based instruction](../claims/pisa-curvilinear-inquiry-achievement.md) [~W]
+- [Explicit spelling instruction improves spelling skills more than incidental instruction (Hedges' g = 0.43) and more than no instruction (g = 0.54)](../claims/explicit-spelling-instruction-beats-incidental.md) [+W]
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md) — a related but distinct term Hunter explicitly distinguishes her model from

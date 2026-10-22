@@ -59,8 +59,10 @@ Perspective-taking tasks deepen narrative comprehension by requiring learners to
 5. Debrief out of character: compare accounts, identify where perspectives conflicted, and evaluate which interpretations the text best supports.
 
 ## Related Strategies
+
 - [Act It Out](../strategies/act_it_out.md) — the embodied performance variant of the same perspective-taking mechanism
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — pre-reading work on characters' social worlds improves the quality of perspective models
+- [Model social imagination of fictional characters' perspectives using connection stems, character-focused questions, and letters to characters](model-social-imagination-connection-stems.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — supplies the shared text

@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 73 claims (51 show a difference, 10 mixed, 12 no difference) · 51 studies (15 quant-synthesis, 14 associational, 11 causal, 6 review, 3 design, 2 theoretical), `q1`–`q4` · 19 of 51 report an effect size · 68 claims rest on one study
+> **Evidence** · 74 claims (51 show a difference, 10 mixed, 13 no difference) · 52 studies (16 quant-synthesis, 14 associational, 11 causal, 6 review, 3 design, 2 theoretical), `q1`–`q4` · 19 of 52 report an effect size · 69 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -114,6 +114,7 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Computer-assisted word reading interventions yield an average effect size of 0.36 on word reading outcomes across program types and languages in primary grades](../claims/computer-word-reading-interventions-average-effect-036.md) [+W] — instruction changes it
 - [Phonics instruction has a large overall effect on the decoding skills of students with intellectual disability (g = 1.42)](../claims/phonics-large-effect-decoding-intellectual-disability.md) [+M] — instruction changes it
 - [Type of interventionist was not a significant moderator of phonics instruction effects on decoding for students with intellectual disability](../claims/interventionist-type-not-significant-moderator-phonics-id.md) [-M] — an instructional effect differs with it
+- [In SCED studies, family-implemented interventions significantly improve text reading outcomes (g = 1.80) but show a positive, non-significant effect on decoding/word reading outcomes (g = 0.86)](../claims/sced-text-reading-significant-decoding-null.md) [-W] — instruction changes it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

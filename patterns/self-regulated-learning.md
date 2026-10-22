@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 69 claims (23 for, 42 mixed, 4 against) · 60 studies (22 causal, 10 review, 10 associational, 9 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 60 report an effect size · 62 claims rest on one study
+> **Evidence** · 70 claims (24 for, 42 mixed, 4 against) · 61 studies (22 causal, 11 review, 10 associational, 9 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 61 report an effect size · 63 claims rest on one study
 
 ## Description and scope
 
@@ -135,6 +135,7 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 - [Adding metacognitive prompts to video modeling examples yields no added benefit for inquiry products](../claims/metacognitive-prompts-no-added-benefit-video-modeling.md) [-W]
 - [Among 53 quantitative SRL interventions for pre-service teachers, effect sizes were distributed evenly across highly effective (n = 17), moderately effective (n = 16) and less effective (n = 20) categories](../claims/srl-pst-interventions-balanced-effectiveness-distribution.md) [~W]
 - [Process mining shows VM conditions exhibit unique reasoning–self-regulation sequences and self-loops absent in the control condition](../claims/process-mining-vm-sequences-selfloops.md) [~W]
+- [General pre-warnings mostly show null effects, but monitoring with susceptibility feedback reduces susceptibility](../claims/pre-warnings-null-effects-susceptibility-feedback-effective.md) [+W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

@@ -49,7 +49,8 @@ The review's discussion translates its six avenues into instructional implicatio
 - [Specific pointing by pedagogical agents was more effective than nonspecific pointing, which beat non-pointing gestures (review attributes this to Li et al., 2019)](../claims/specific-pointing-signaling-more-effective.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use four embodied strategies — gestures, manipulation, body metaphors, and reconstructive eye movements — to ground animation movements in learners' bodies](four-embodied-strategies-dynamic-visualizations.md)
 
 ## Examples
 -

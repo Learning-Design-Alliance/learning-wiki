@@ -79,3 +79,4 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [Congruent pictures paired with text facilitate reading comprehension better than text alone or pictures alone](congruent-pictures-with-text-facilitate-comprehension.md) — related
 - [A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words](multimedia-principle-words-and-pictures-outcomes.md) — related
 - [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](synced-audio-visual-presentation-better-learning.md) — related
+- [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](animations-transience-working-memory-load.md) — related

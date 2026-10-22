@@ -53,3 +53,5 @@ SEM analysis of simulated data with the same correlations and sample size (N = 3
 - [STARTS model shows a positive effect of prior achievement on subsequent self-concept but no effect of prior self-concept on subsequent achievement](starts-null-self-concept-effect.md) — reports the opposite
 - [Validation with simulated TRAIN-like data replicates the divergence: RI-CLPM positive, LCSM negative, ESDM no-direct-effects](train-validation-divergent-model-findings.md) — related
 - [Simulated time-on-task achievement correlations resemble empirical distributions from K-12 classroom studies without any fitting procedure](comsa-time-on-task-matches-empirical.md) — related
+- [EF longitudinally predicts later SRL in children, supporting the notion that EF predicts SRL but not vice versa](ef-predicts-srl-longitudinally.md) — related
+- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related

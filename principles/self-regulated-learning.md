@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 146 claims (61 for, 77 mixed, 8 against) · 103 studies (33 causal, 21 review, 17 associational, 16 quant-synthesis, 12 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 28 of 103 report an effect size · 135 claims rest on one study
+> **Evidence** · 147 claims (62 for, 77 mixed, 8 against) · 104 studies (33 causal, 22 review, 17 associational, 16 quant-synthesis, 12 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 28 of 104 report an effect size · 136 claims rest on one study
 
 ## Conditional relationship
 
@@ -238,6 +238,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [The largest reported effects came from interventions training reflection on own learning and teaching through metacognitive judgements (Michalsky 2021: d = 3.12; Pieschl et al. 2021: d = 2.9)](../claims/metacognitive-judgement-reflection-interventions-largest-effects.md) [+W]
 - [Adding metacognitive prompts to video modeling examples yields no added benefit for inquiry products](../claims/metacognitive-prompts-no-added-benefit-video-modeling.md) [-W]
 - [Among 53 quantitative SRL interventions for pre-service teachers, effect sizes were distributed evenly across highly effective (n = 17), moderately effective (n = 16) and less effective (n = 20) categories](../claims/srl-pst-interventions-balanced-effectiveness-distribution.md) [~W]
+- [General pre-warnings mostly show null effects, but monitoring with susceptibility feedback reduces susceptibility](../claims/pre-warnings-null-effects-susceptibility-feedback-effective.md) [+W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

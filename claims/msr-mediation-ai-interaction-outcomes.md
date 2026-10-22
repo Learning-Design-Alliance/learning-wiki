@@ -79,3 +79,4 @@ Mediation testing used bias-corrected bootstrapping with 5,000 resamples and 95%
 - [Self-regulatory activities mediate the relationship between person, context, and achievement](srl-activities-mediate-person-context-achievement.md) — a broader claim this one bears on
 - [GenAI learning outcomes depend more on use quality (capability, reflective engagement, retained agency) than on frequency of use](genai-use-quality-over-frequency.md) — related
 - [Academic self-efficacy does not significantly predict academic stress, and social influence does not directly predict AI dependence](ase-stress-and-si-dependence-null-paths.md) — related
+- [Metacognition mediates the relationship between EF and SRL](metacognition-mediation-ef-srl.md) — related

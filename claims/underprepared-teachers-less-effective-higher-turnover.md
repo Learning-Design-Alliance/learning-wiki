@@ -67,3 +67,4 @@ The report's synthesis of research cited in the introduction on unprepared entra
 - [Fully prepared novice teachers are less than half as likely to leave teaching after their first year than those lacking key training elements](full-preparation-retention-first-year.md) — related
 - [There is a severe shortage of certified computer science teachers, with only 75 college graduates certified in 2016](cs-teacher-shortage-75-certified-2016.md) — related
 - [Turnover rates are about 50% higher in Title I schools than in non-Title I schools](turnover-50-percent-higher-title-i.md) — related
+- [Offering certification after program completion is associated with larger teacher knowledge gains (g = 1.39 vs. 0.86)](certification-associated-larger-knowledge-gains.md) — related

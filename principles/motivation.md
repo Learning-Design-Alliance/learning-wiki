@@ -258,6 +258,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language](../strategies/autonomy-supportive-context-components.md)
 - [Need-supportive 4C/ID learning environment with 12 integrated autonomy, competence and relatedness implementations](../designs/need-supportive-4cid-learning-environment.md)
 - [Design assessment as information, not reward and punishment, and provide an engaging curriculum with choice and community](../strategies/assessment-as-information-not-reward.md)
+- [Design peer mindset interventions that leverage adolescents' need for belonging and status, including high-status peer models](../strategies/leverage-belonging-status-peer-mindset-interventions.md)
 
 ### Illustrative
 

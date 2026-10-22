@@ -67,3 +67,4 @@ Discussion reports the pooled correlations: "FiMS showed an association of r = .
 - [Fine motor skills show a significant moderate overall correlation (r = .329) with academic-cognitive skills in children and adolescents](fms-moderate-correlation-academic-cognitive.md) — a broader claim this one bears on
 - [FMS subdomain correlations vary within academic domains: nonword reading strongest, letter reading weakest, intelligence strongest among cognitive skills](fms-subdomain-differentiated-links.md) — related
 - [Effect sizes were not moderated by publication year, age, or percentage of females, but were related to study quality; publication-bias tests gave mixed signals](meta-moderators-study-quality-publication-bias.md) — related
+- [Early fine motor skills predict later arithmetic skills in most longitudinal studies, but not when executive functions are controlled](fms-predict-later-arithmetic.md) — related

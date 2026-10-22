@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 229 claims (93 for, 120 mixed, 16 against) · 171 studies (56 associational, 44 design, 26 review, 19 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 15 of 171 report an effect size · 223 claims rest on one study
+> **Evidence** · 230 claims (93 for, 121 mixed, 16 against) · 172 studies (57 associational, 44 design, 26 review, 19 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 15 of 172 report an effect size · 224 claims rest on one study
 
 ## Conditional relationship
 
@@ -303,6 +303,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Only one mathematical assessment and one screener (NSS) met the acceptability threshold for predictive validity](../claims/predictive-validity-rarely-established.md) [~W]
 - [Content validity evidence was reported for only eight assessments and four screeners, and over half of tools were developed in WEIRD societies or in English](../claims/content-validity-and-weird-skew-in-early-maths-tools.md) [-W]
 - [Re-analyses support PSVT:R structural validity: degree of rotation explains 66.9% of item-difficulty variance, though modified problematic items show no rotation-difficulty relationship](../claims/psvtr-rotation-difficulty-validity-reanalysis.md) [+W]
+- [Most variance in students' momentary classroom emotions lies at the within-person level, yet person-aggregated state measures are fairly reliable (ICC(2) from 0.735 to 0.901)](../claims/aggregated-state-emotions-reliable-icc2.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

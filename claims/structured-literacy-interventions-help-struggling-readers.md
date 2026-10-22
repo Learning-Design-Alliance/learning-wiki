@@ -100,3 +100,5 @@ A meta-analysis of 24 identified studies (15 quasi-experimental and 9 randomized
 - [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](word-reading-interventions-outcome-type-effects.md) — related
 - [Whole language and phonics approaches each have limits, and the teacher should observe the individual pupil to balance whole-word and phonics instruction](balance-whole-language-and-phonics.md) — related
 - [Remedial reading programs show effects around 0.49 for struggling readers and 0.54 for more severe difficulties](remedial-reading-programs-effectful-struggling-readers.md) — related
+- [Explicit spelling instruction improves spelling skills more than incidental instruction (Hedges' g = 0.43) and more than no instruction (g = 0.54)](explicit-spelling-instruction-beats-incidental.md) — related
+- [Spelling and reading test scores correlate moderately to highly (r = 0.5–0.9), and spelling instruction is associated with improved reading skills, though causality is unestablished](spelling-reading-links-correlations.md) — related

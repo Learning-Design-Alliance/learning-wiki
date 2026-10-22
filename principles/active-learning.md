@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (19 for, 22 mixed, 1 against) · 40 studies (11 causal, 8 associational, 7 quant-synthesis, 6 review, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 6 of 40 report an effect size · 35 claims rest on one study
+> **Evidence** · 43 claims (20 for, 22 mixed, 1 against) · 41 studies (11 causal, 8 quant-synthesis, 8 associational, 6 review, 4 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 6 of 41 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [QR faculty on several CSU campuses are incorporating active-learning and problem-solving pedagogies into redesigned entry-level math courses](../claims/active-learning-pedagogies-qr-redesign.md) [+W] — an implementation report from interviews: adoption, not outcomes.
 - [In the Python-based CS1 course at UofT, GATs produced no significant overall or topic-specific immediate performance effects](../claims/gats-no-immediate-performance-effect-uoft.md) [-W] — (not about this page) AI-generated program traces compared with another study resource in a flipped CS1 course; neither condition is a contrast of active tasks with listening.
 - [Amount of listening time while active was not significantly related to End-of-Unit exam performance](../claims/listening-time-not-significantly-related-to-exam-score.md) [~W] — (not about this page) "active" there means physically active while listening to vocabulary audio (14 learners, a correlation), not cognitive activity with content.
+- [Active learning opportunities in professional development moderate gains in teachers' skills, with alternating input-praxis design far outperforming blocked design for teaching-method use](../claims/active-learning-moderates-skill-gains.md) [+W] — attached 2026-10-22 from Johanna L. Donath et al. (2023), which proposed "Design inclusive-education professional development with active learning, practical relevance, and participation prerequisites to facilitate transfer to schools"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

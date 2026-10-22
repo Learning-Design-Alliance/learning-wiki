@@ -13,7 +13,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (13 for, 6 mixed, 2 against) · 27 studies (9 review, 6 causal, 5 qualitative, 3 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 1 of 27 report an effect size · 13 claims rest on one study
+> **Evidence** · 22 claims (14 for, 6 mixed, 2 against) · 28 studies (9 review, 6 causal, 5 qualitative, 4 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 2 of 28 report an effect size · 14 claims rest on one study
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.
@@ -65,6 +65,7 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - [LASSI Self-Regulation cluster scores showed the greatest pre/post gain among coached students, with increasing trends in all three clusters](../claims/lassi-self-regulation-gains-adhd-coaching.md) [+W] — attached 2026-10-16 from Parker et al. (2010), which proposed "Edge Foundation coaching model"; tests this page's relationship.
 - [Participants' average semester GPA rose from 3.05 to 3.22 during the coaching semester, though most students did not attribute grade changes to coaching](../claims/gpa-trend-during-coaching-pilot.md) [~W] — attached 2026-10-16 from Parker et al. (2010), which proposed "Edge Foundation coaching model"; tests this page's relationship.
 - [No significant differences in learning measures across teacher-coached, researcher-coached, and BioWorld-alone conditions](../claims/bioworld-coaching-condition-null-manova.md) [-W]
+- [Expert modeling, feedback, hints, and multiple strategies improve cognitive outcomes, but question prompts show no evident difference from control](../claims/scaffolding-strategy-moderator-question-prompts-null.md) [+W]
 
 ## The evidence by question
 - *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]

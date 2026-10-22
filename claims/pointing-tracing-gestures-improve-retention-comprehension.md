@@ -47,3 +47,4 @@ The review reports, citing Macken and Ginns (2014), a study of 42 adults (74% fe
 - [The reviewed tracing studies consistently confirm learning benefits of tracing across retention, comprehension, and transfer measures, though cognitive-load hypotheses were not confirmed in all studies](tracing-review-consistent-benefits-mixed-load.md) — a broader claim this one bears on
 - [Specific pointing by pedagogical agents was more effective than nonspecific pointing, which beat non-pointing gestures (review attributes this to Li et al., 2019)](specific-pointing-signaling-more-effective.md) — related
 - [Tracing and pointing during a paper-based multimedia lesson improves comprehension test performance in Chinese-speaking adults](tracing-pointing-improve-comprehension-chinese-sample.md) — related
+- [Gesturing during learning improves retention and reduces cognitive load](gesturing-during-learning-retention-load.md) — related

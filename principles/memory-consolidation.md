@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (13 for, 8 mixed, 3 against) · 37 studies (20 causal, 8 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 9 of 37 report an effect size · 17 claims rest on one study
+> **Evidence** · 26 claims (13 for, 10 mixed, 3 against) · 39 studies (22 causal, 8 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 10 of 39 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,8 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Participating in a relevant group discussion, whether explaining or listening, raises immediate recall relative to an irrelevant discussion, but this advantage does not persist one month later](../claims/relevant-discussion-immediate-recall-advantage-fades.md) [~W]
 - [Performance on practiced reasoning items and on transfer items continued to improve after 3-week and 9-month delays](../claims/ct-performance-improves-further-after-delay.md) [+W]
 - [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](../claims/quiz-accuracy-declines-after-one-week-delay.md) [+W]
+- [The retention-interval main effect shows forgetting occurred over one week in both experiments](../claims/one-week-forgetting-main-effect-both-experiments.md) [~W]
+- [The immediate knowledge advantage for vision over touch-only does not persist at three-week follow-up](../claims/knowledge-showroom1-no-followup-effect.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

@@ -52,3 +52,4 @@ Moderator analysis on immediate posttests (k overall = 48) coded whether a famil
 - [Family literacy programs produce a medium average effect (d = 0.50) on low-SES children's emergent literacy at immediate posttest but only a marginal effect (d = 0.16) at follow-up](flp-medium-immediate-marginal-followup-effect.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - Experimental designs and study-specific measures are associated with larger program effects, while peer-reviewed status shows no indication of publication bias — related
+- [Family-implemented literacy interventions produce a positive, significant average effect on combined literacy outcomes in single-case experimental design studies (g = 1.50), specific to students with or at risk for reading difficulties](family-literacy-interventions-sced-g-150.md) — related

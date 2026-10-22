@@ -156,3 +156,5 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 - [Error framing is expected to induce differential mastery and performance-avoid orientations, shaping self-efficacy and intrinsic motivation](error-framing-induces-goal-orientations.md) — related
 - [Self-handicapping decreases effort to protect self-worth, in contrast to defensive pessimism](self-handicapping-versus-defensive-pessimism.md) — related
 - [Labeling children as visual versus hands-on learners biases adults' and children's judgments of intelligence and subject expectations](learning-style-labeling-bias-judgments.md) — related
+- [Specific observable mindset-signaling behaviors have been identified that convey peers' implicit beliefs about ability](mindset-signaling-behaviors-identified.md) — related
+- [Negative emotions are not uniformly detrimental; differentiation by valence, arousal, and object focus is needed](negative-emotions-not-uniformly-detrimental.md) — related

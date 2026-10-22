@@ -123,3 +123,4 @@ Both syntheses find the effect of corrective feedback durable, and they overlap 
 - [The study compared feedback-uptake relationships across two immersion settings totaling 18.3 hr of French and 14.8 hr of Japanese classroom interaction](comparative-feedback-analysis-french-japanese-immersion-hours.md) — related
 - [On the immediate posttest of implicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.](cf-type-implicit-short-term-differences.md) — a narrower finding that bears on this claim
 - [Low-proficiency L2 learners benefited significantly more from prompts than from recasts](low-proficiency-learners-benefit-more-from-prompts.md) — a narrower finding that bears on this claim
+- [Feature-focused information-literacy trainings appear effective, but lack delayed-posttest evidence](feature-focused-info-literacy-trainings-effective.md) — related

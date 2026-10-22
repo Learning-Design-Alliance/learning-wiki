@@ -60,3 +60,4 @@ The guide reports, citing Lacoe (2015) and Nakamoto et al. (2019), that "Black a
 - [White teachers' deficit thinking about Black students produces a negative campus racial climate and unfriendly teacher-student relationships](deficit-thinking-negative-climate-relationships.md) — related
 - [Student-reported safety and classroom behavior are more positive in top-quartile schools, and students feel less safe outside school than inside](student-safety-behavior-quartile-differences.md) — related
 - [National racial violence significantly reduced belonging and confidence among Black and Latinx STEM students relative to white peers](national-racial-violence-racialized-belonging-declines.md) — related
+- [Minoritized students reported lower belonging where peers endorsed more fixed mindset beliefs, with an asymmetric pattern](minoritized-students-belonging-peer-fixed-mindset.md) — related

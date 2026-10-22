@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 220 claims (151 show a difference, 46 mixed, 23 no difference) · 176 studies (55 associational, 47 causal, 31 review, 14 quant-synthesis, 13 theoretical, 10 qualitative, 6 design), `q1`–`q4` · 43 of 176 report an effect size · 208 claims rest on one study
+> **Evidence** · 221 claims (152 show a difference, 46 mixed, 23 no difference) · 177 studies (55 associational, 47 causal, 32 review, 14 quant-synthesis, 13 theoretical, 10 qualitative, 6 design), `q1`–`q4` · 43 of 177 report an effect size · 209 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -270,6 +270,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Mental simulation training increased children's reading motivation in both grades, while control-group motivation showed no significant change](../claims/mental-simulation-training-raises-reading-motivation.md) [+M] — instruction changes it
 - [Teachers' load-reducing strategies and motivating styles correlate with lower cognitive load and higher motivation, engagement, and achievement (Evans et al., 2024)](../claims/load-reducing-teaching-strategies-motivation-engagement.md) [+M] — instruction changes it
 - [Tracing and pointing does not significantly raise intrinsic motivation, though the point estimate resembles prior meta-analytic estimates](../claims/tracing-pointing-intrinsic-motivation-null.md) [-M] — instruction changes it
+- [Meta-analytic longitudinal evidence shows achievement affects later motivation about twice as strongly as motivation affects later achievement, with both pooled effects small](../claims/scharmer-pooled-achievement-motivation-effects-twice.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

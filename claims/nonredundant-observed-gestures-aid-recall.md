@@ -47,3 +47,4 @@ The review reports, citing Austin et al. (2018), an experiment with 125 adults (
 - [Meaningful pointing gestures produced higher retention scores than beat gestures (review attributes this to Beege et al., 2020)](meaningful-gestures-beat-beat-gestures.md) — related
 - [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — reports the opposite
 - [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — a broader claim this one bears on
+- [Observing gestures embedded in instruction aids learning, especially when gestures convey a different strategy than speech](observing-gestures-in-instruction-aids-learning.md) — possibly the same claim (merge candidate)

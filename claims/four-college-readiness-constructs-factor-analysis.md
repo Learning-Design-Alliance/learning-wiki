@@ -53,3 +53,4 @@ Factor analysis of roughly 40 variables identified as strongly predictive by ran
 - [Students from socioeconomically disadvantaged backgrounds fail dual enrollment at higher rates than equally achieving peers, with the gap widening as achievement rises (the readiness illusion)](readiness-illusion-disproportionate-failure-high-achievement.md) — related
 - [A few decision-tree splits identify very high-risk students, such as low-SES students who doubt they will reach college](few-splits-identify-high-risk-students.md) — related
 - [CPS students' ACT scores fall below both their college aspirations and their own expectations, and most interviewed students scored lower than they expected](act-scores-below-student-expectations.md) — related
+- [Teacher expectations correlate most strongly with achievement among Year-10 expectation and aspiration measures](teacher-expectations-highest-achievement-correlations.md) — related

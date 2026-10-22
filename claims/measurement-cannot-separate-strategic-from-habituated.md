@@ -52,3 +52,4 @@ Theoretical argument in the commentary about measurement limits: relying on self
 - [Review findings on college strategic processing: development under-studied, quality of strategy use matters more than frequency, and learner and environmental conditions determine effectiveness](strategy-use-quality-conditionality-over-frequency.md) — related
 - [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](reflective-scaffolding-habituation-deskilling.md) — related
 - [Engagement inferred from log data must be treated with caution because digital traces reflect unevenly distributed social and material conditions](log-data-engagement-inference-caution.md) — related
+- [Overall validity of eye-tracking measures of learning in IVR is limited, averaging 1.93 of 4, with data quality the weakest component](ivr-eye-tracking-overall-validity-limited.md) — related

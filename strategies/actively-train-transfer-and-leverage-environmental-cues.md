@@ -47,7 +47,8 @@ Drawing on VPC insights, the review recommends that SRL interventions not take g
 - [Evidence on long-term persistence of self-regulation intervention effects is mixed: no fadeout for metacognitive strategy interventions versus substantial fadeout in higher-quality RCT syntheses](../claims/srl-persistence-fadeout-mixed-evidence.md) [~M]
 
 ## Related Strategies
-- 
+
+- [Habit-based intervention implications: habituate the instigation of effective strategies, not their full execution](habituate-strategy-instigation.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Comparison of human-human inter-rater reliability against the best LLM-LLM agree
 - [In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage](bradley-terry-model-selection-matters-more-than-source-type.md) — related
 - [Cross-model agreement on assertions is moderate (median 0.401) and higher among construct-derived than corpus-derived assertions](assertion-cross-model-agreement-moderate-median-0401.md) — related
 - [LLM-human factor-structure similarity is consistently lower than human-human similarity on both assessments](llm-human-factor-congruence-lower-than-human-human.md) — related
+- [Across 468 data points, human coders, LLMs, and both standards agreed on the same value in 280 cases (59.8%)](coder-agreement-patterns-upset-468.md) — related

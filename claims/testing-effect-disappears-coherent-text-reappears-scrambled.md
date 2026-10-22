@@ -67,3 +67,5 @@ The review's account of De Jonge et al.'s experiment 2, which used the same mate
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — reports the opposite
 - [Retention interval moderates the testing effect: effects are larger after a day or more than at shorter intervals, where individual studies vary from reliable to null or reversed](retention-interval-moderates-testing-effect.md) — related
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](testing-effect-robust-versus-restudy-control.md) — reports the opposite
+- [For a highly coherent text, taking a fill-in-the-blank practice test yields no retention benefit and does not slow forgetting compared to restudy](coherent-text-no-testing-benefit-fill-in-blank.md) — a narrower finding that bears on this claim
+- [For incoherent text presented as a list of facts, testing slows the rate of forgetting compared to restudy](incoherent-material-testing-slows-forgetting.md) — related

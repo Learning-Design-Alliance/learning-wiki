@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 84 claims (59 show a difference, 18 mixed, 7 no difference) · 62 studies (16 causal, 14 associational, 13 review, 9 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 10 of 62 report an effect size · 81 claims rest on one study
+> **Evidence** · 86 claims (59 show a difference, 20 mixed, 7 no difference) · 64 studies (16 causal, 15 associational, 13 review, 9 qualitative, 7 theoretical, 4 design), `q1`–`q4` · 10 of 64 report an effect size · 83 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -119,6 +119,8 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Evolutionary theory can inform more-enlightened teaching methods yielding more enjoyable and successful learning](../claims/evolutionary-theory-informs-teaching-methods.md) [+W] — instruction changes it
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](../claims/immersion-cost-benefit-transfer-motivation.md) [+M] — instruction changes it
 - [Anxiety, enjoyment and boredom are three critical emotions in language learning that affect outcomes and engagement](../claims/anxiety-enjoyment-boredom-critical-sla-emotions.md) [+M] — learners who differ on it differ in outcomes
+- [Aggregated state emotions show no superior incremental predictive validity over self-reported traits for academic outcomes; traits corrected for states were only systematically correlated with criteria for enjoyment and somewhat for pride](../claims/no-superior-incremental-predictive-validity-aggregated-states.md) [~M] — learners who differ on it differ in outcomes
+- [Negative emotions are not uniformly detrimental; differentiation by valence, arousal, and object focus is needed](../claims/negative-emotions-not-uniformly-detrimental.md) [~W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

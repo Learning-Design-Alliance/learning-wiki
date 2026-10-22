@@ -56,3 +56,4 @@ The article's findings table records hypothesis H3.1 (monitoring accuracy predic
 - [Regulating GA proceeds via metacognitive monitoring of adequacy and accuracy plus control through outward- and inward-oriented strategies](ga-regulation-monitoring-control-strategies.md) — related
 - [Diagramming conditions show no significant differences from control in regulation measures or reading comprehension test scores for causal relations](diagramming-no-effect-regulation-test-scores.md) — related
 - [Little or no relation between absolute and relative accuracy in metacomprehension research](little-relation-absolute-relative-accuracy.md) — related
+- [Giving teachers access to students' diagrams improves teachers' regulation accuracy but not their monitoring accuracy](teacher-diagram-access-improves-regulation-not-monitoring.md) — related

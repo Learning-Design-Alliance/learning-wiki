@@ -56,3 +56,5 @@ Correlations only, and the authors expect the relationship to run both ways: ach
 - [Perceived teacher support in the hypothesis and experimentation phases correlated positively with post-test achievement in both groups; argumentation-support and enjoyment correlations emerged only across the pooled sample](perceived-support-correlates-achievement.md) — a narrower finding that bears on this claim
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — possibly the same claim (merge candidate)
 - [Relational goals are positively linked to positive affect and enjoyment](relational-goals-positive-affect-enjoyment.md) — related
+- [Math anxiety correlates negatively with math performance at a pooled r = −.30 across 169 independent samples](math-anxiety-negative-correlation-math-performance.md) — related
+- [Test anxiety correlates negatively with math achievement at a pooled r = −.23, weaker than math anxiety's correlation](test-anxiety-negative-correlation-math-achievement.md) — a narrower finding that bears on this claim

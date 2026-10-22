@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 107 claims (53 for, 47 mixed, 7 against) · 44 studies (18 causal, 9 review, 8 quant-synthesis, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 15 of 44 report an effect size · 100 claims rest on one study
+> **Evidence** · 111 claims (54 for, 49 mixed, 8 against) · 46 studies (19 causal, 10 review, 8 quant-synthesis, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 16 of 46 report an effect size · 104 claims rest on one study
 
 ## Conditional relationship
 
@@ -101,6 +101,8 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [The advantage of recitation over rereading is greater the less connected the learning material (Kühn 1914; Gates 1917)](../claims/recitation-advantage-decreases-material-connectedness-gates-kuehn.md) [+W] — attached 2026-10-21 from van Gog et al. (2015), which proposed "Consider the complexity of learning materials when deciding between practice testing and further study"; tests this page's relationship.
 - [Overt retrieval practice produces higher delayed recall of definitions than covert retrieval practice for learners studying declarative concepts](../claims/overt-beats-covert-retrieval-definitions.md) [+M] — attached 2026-10-21 from Michelle L. Rivers et al. (2025), which proposed "Students should prioritize overt retrieval when mastering complex information such as definitions".
 - [Covert retrieval is the most time-efficient practice strategy, yielding the largest gains per minute of practice for both terms and definitions](../claims/covert-retrieval-most-efficient-gains-per-minute.md) [~M] — attached 2026-10-21 from Michelle L. Rivers et al. (2025), which proposed "Students should prioritize overt retrieval when mastering complex information such as definitions".
+- [For incoherent text presented as a list of facts, testing slows the rate of forgetting compared to restudy](../claims/incoherent-material-testing-slows-forgetting.md) [+W] — attached 2026-10-22 from de Jonge et al. (2015), which proposed "Use completion tests for retention of unconnected materials rather than highly structured texts"; tests this page's relationship.
+- [For a highly coherent text, taking a fill-in-the-blank practice test yields no retention benefit and does not slow forgetting compared to restudy](../claims/coherent-text-no-testing-benefit-fill-in-blank.md) [~W] — attached 2026-10-22 from de Jonge et al. (2015), which proposed "Use completion tests for retention of unconnected materials rather than highly structured texts"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -233,6 +235,8 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Retrieval practice yields better delayed test performance than restudy (the testing effect) in both experiments](../claims/testing-effect-confirmed-anatomical-image-name-pairs.md) [+W]
 - [Only individual performance feedback, not general instruction about the testing effect, produced long-term increases in retrieval practice use, and only for students who benefited from retrieval practice](../claims/individual-feedback-superior-to-general-instruction-long-term.md) [~W]
 - [Students gave higher judgments of learning after restudy than after retrieval practice in Experiment 2 but not in Experiment 1](../claims/higher-jols-after-restudy-than-retrieval-practice.md) [-W]
+- [Taking a fill-in-the-blank test is more time-consuming than restudying the same material](../claims/fill-in-blank-testing-more-time-consuming-than-restudy.md) [~W]
+- [Retrieval practice mostly increases susceptibility to misinformation (retrieval-enhanced suggestibility)](../claims/retrieval-practice-increases-misinformation-susceptibility.md) [-W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

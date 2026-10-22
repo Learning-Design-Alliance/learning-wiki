@@ -48,3 +48,4 @@ Cross-sectional online survey of 396 MALL users in EFL contexts, analyzed with P
 - [Social influence has a small positive impact on MALL use in EFL acquisition among Vietnamese learners](social-influence-modest-attitude-mall.md) — a narrower finding that bears on this claim
 - [Behavioral intention translates only weakly into self-reported use behavior, and the extended UTAUT model explains intention formation better than enactment](intention-use-gap-t2i-creative-education.md) — reports the opposite
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
+- [Metacognitive knowledge and intentions to use effective strategies do not reliably translate into actual strategy use (intention-behavior gap)](intention-behavior-gap-strategy-use.md) — reports the opposite

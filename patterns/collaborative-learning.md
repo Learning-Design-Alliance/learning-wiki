@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 54 claims (23 for, 28 mixed, 3 against) · 44 studies (13 causal, 7 review, 6 associational, 5 quant-synthesis, 5 qualitative, 5 theoretical, 3 design), `q1`–`q4` · 10 of 44 report an effect size · 52 claims rest on one study
+> **Evidence** · 55 claims (23 for, 29 mixed, 3 against) · 45 studies (13 causal, 7 review, 6 associational, 6 theoretical, 5 quant-synthesis, 5 qualitative, 3 design), `q1`–`q4` · 10 of 45 report an effect size · 53 claims rest on one study
 
 ## Description and scope
 
@@ -135,6 +135,7 @@ This pattern is scoped to pairs and small groups where each member's individual 
 - [mCSCL effects do not differ significantly by group size, though tetrads show the largest subgroup effect and dyads alone are not significant](../claims/mcscl-group-size-moderator.md) [~W]
 - [Collaboration does not emerge spontaneously just by placing students together](../claims/collaboration-not-spontaneous-from-grouping.md) [+W]
 - [Collaborative learning is beneficial or detrimental depending on individual and situational factors](../claims/collaborative-learning-conditionally-beneficial.md) [~W]
+- [Learners who construct good single arguments individually are not always able to apply that competence in comparable collaborative tasks](../claims/solo-argument-competence-not-applied-collaboratively.md) [~W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

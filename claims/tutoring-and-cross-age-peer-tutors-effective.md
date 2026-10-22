@@ -48,3 +48,5 @@ Design Principle 5 section, a narrative synthesis, states that "tutoring can be 
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [The review reports that college tutors who espoused a malleable view of intelligence to their tutees improved their own academic performance, with benefits for tutees as well](tutor-espousing-malleable-intelligence-gains.md) — related
+- [Cross-age tutoring produces a small-to-moderate positive effect on academic outcomes for both tutors and tutees](cross-age-tutoring-positive-academic-effects-both-roles.md) — a narrower finding that bears on this claim
+- [Cross-age tutoring effects on tutees do not significantly differ by number of sessions, tutor type, tutee risk type, or subject area](cross-age-tutoring-tutee-moderators-null.md) — related

@@ -101,3 +101,4 @@ The report's literature review attributes this to a recent meta-analysis of "60 
 - [A teacher-coaching CAL program produces significant intent-to-treat gains in elementary and middle school math performance of 0.12-0.22 standard deviations](cal-teacher-coaching-itt-math-gains-012-022-sd.md) — related
 - [Early Reading First improved instructional content and practices in preschool classrooms](early-reading-first-classroom-practice-impacts.md) — a narrower finding that bears on this claim
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](pd-coaching-expert-support-gains.md) — related
+- [Professional development produces moderate improvements in teachers' skills for implementing inclusive education (g = 0.49)](pd-moderate-effect-teacher-inclusive-skills.md) — related

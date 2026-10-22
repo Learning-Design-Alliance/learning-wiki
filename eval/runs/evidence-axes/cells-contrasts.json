@@ -38058,5 +38058,301 @@
  "worked-examples\tvideo modeling examples, with or without metacognitive prompts\tunguided inquiry": {
   "label": "worked examples (video modeling) vs unguided inquiry",
   "treatment_is_a": true
+ },
+ "active-learning\talternating input and praxis phases\tblocked design": {
+  "label": "alternating vs blocked design",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy-supportive structure\tless autonomy-supportive structure": {
+  "label": "autonomy-supportive structure vs less autonomy-supportive structure",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tlearner-centered classroom practices\tmandated curriculum, fixed pace, and evaluative institutional practices": {
+  "label": "learner-centered instruction vs mandated, fixed-pace instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteachers allowing students to make choices\tlower demonstration of choice and autonomy support": {
+  "label": "choice-supportive teaching vs choice-limiting teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tGeorge Washington and the Cherry story\tcontrol condition": {
+  "label": "George Washington and the Cherry story vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcomprehensive misinformation-literacy curriculum\tcontrol": {
+  "label": "comprehensive misinformation-literacy curriculum vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcomprehensive misinformation-literacy curriculum\tpretest": {
+  "label": "comprehensive misinformation-literacy curriculum vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdeception-cue instructions\tcontrols or alternative training": {
+  "label": "deception-cue instruction vs control or alternative training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect instruction with inductive practice\tcontrol": {
+  "label": "direct instruction with inductive practice vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tepistemic-vigilance curriculum\tcontrol": {
+  "label": "epistemic-vigilance curriculum vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit finger-strategy training for addition and subtraction\tnot stated": {
+  "label": "explicit finger-strategy instruction vs no stated instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit spelling instruction\tincidental spelling instruction": {
+  "label": "explicit spelling instruction vs incidental spelling instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit spelling instruction\tno spelling instruction": {
+  "label": "explicit spelling instruction vs no spelling instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfacial-expression training\tcontrols or alternative training": {
+  "label": "facial-expression training vs control or alternative training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\thonesty stories emphasizing negative consequences of lying\tcontrol story": {
+  "label": "honesty stories emphasizing negative consequences of lying vs control story",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\thonesty story with positive consequences\tcontrol story": {
+  "label": "honesty story emphasizing positive consequences of honesty vs control story",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstructed gesture\tspontaneous gesture": {
+  "label": "instructed gesture vs spontaneous gesture",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstructions to gesture\tno gesture instructions": {
+  "label": "gesture instruction vs no gesture instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tprosocial stories\tcontrol stories or conditions": {
+  "label": "prosocial stories vs control stories or conditions",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tspelling instruction\tno instruction or interventions not focused directly on spelling": {
+  "label": "spelling instruction vs no instruction or non-spelling intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tspelling instruction\tno instruction or other interventions": {
+  "label": "spelling instruction vs no instruction or other intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tspelling instruction\tno instruction or other non-spelling interventions": {
+  "label": "spelling instruction vs no instruction or other non-spelling intervention",
+  "treatment_is_a": true
+ },
+ "fading\tadaptive fading continuously adjusted to discourse quality\tfixed fading regimes": {
+  "label": "adaptive fading vs fixed fading",
+  "treatment_is_a": true
+ },
+ "fading\tadaptive fading of external argumentation support\tunspecified comparison": {
+  "label": "adaptive fading vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "fading\tmessage-count-based fading\tcontinuous script support": {
+  "label": "faded support vs continuous support",
+  "treatment_is_a": true
+ },
+ "fading\tmessage-count-based fading\tpeer-monitoring support": {
+  "label": "faded support vs peer-monitoring support",
+  "treatment_is_a": true
+ },
+ "fading\tphase-controlled fading\tcontinuous support": {
+  "label": "faded support vs continuous support",
+  "treatment_is_a": true
+ },
+ "fading\tsupport faded over time\tcontinuous support": {
+  "label": "faded support vs continuous support",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative feedback indicating above-average susceptibility\tother staged-feedback condition": {
+  "label": "Negative susceptibility feedback vs other staged feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tname plus completed student diagram\tname-only information": {
+  "label": "name plus completed diagram vs name only",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tname plus drawn student diagram\tname-only information": {
+  "label": "name plus student-drawn diagram vs name only",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tcriterion-testing\tone-trial testing": {
+  "label": "criterion testing vs one-trial testing",
+  "treatment_is_a": true
+ },
+ "media-design\tanimations\tstatic visualizations": {
+  "label": "animations vs static visualizations",
+  "treatment_is_a": true
+ },
+ "media-design\taudiovisual observation with virtual objects\taudiovisual baseline without objects": {
+  "label": "audiovisual presentation with virtual-object observation vs audiovisual presentation alone",
+  "treatment_is_a": true
+ },
+ "media-design\taudiovisual presentation with virtual-object observation\taudiovisual presentation alone": {
+  "label": "audiovisual presentation with virtual-object observation vs audiovisual presentation alone",
+  "treatment_is_a": true
+ },
+ "media-design\tdynamic animations\tstatic visualizations": {
+  "label": "animations vs static visualizations",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore tutoring sessions\tfewer tutoring sessions": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tcomputer-based question prompts\tcontrol group": {
+  "label": "question prompts vs no question prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfill-in-the-blank testing\trestudy": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfill-in-the-blank testing\trestudying the coherent text": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfill-in-the-blank testing\trestudying the list of facts": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tfill-in-the-blank testing without corrective feedback\trestudying the facts": {
+  "label": "retrieval practice vs restudy",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tpractice test\tno practice test or control condition": {
+  "label": "retrieval practice vs no practice/control",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tlearner-centered motivation focused on inherent propensities and psychological needs\texternal control of behaviors via contingent rewards": {
+  "label": "intrinsic motivation vs extrinsic contingent rewards",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tprofessional development programs offering certification\tprofessional development programs without certification": {
+  "label": "certification vs no certification",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\treward schedule emphasizing immediate progress\treward schedule emphasizing delayed mastery": {
+  "label": "immediate rewards vs delayed rewards",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadding customization\tno scaffolding customization": {
+  "label": "adding customization vs no scaffolding customization",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding\tcontrol group": {
+  "label": "computer-based scaffolding vs no computer-based scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding\tno computer-based scaffolding": {
+  "label": "computer-based scaffolding vs no computer-based scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding\tno scaffolding": {
+  "label": "computer-based scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding in Engineering education\tcontrol group without the scaffolding intervention": {
+  "label": "computer-based scaffolding vs no computer-based scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding in Mathematics education\tcontrol group without the scaffolding intervention": {
+  "label": "computer-based scaffolding vs no computer-based scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding in Science education\tcontrol group without the scaffolding intervention": {
+  "label": "computer-based scaffolding vs no computer-based scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding in Technology education\tcontrol group without the scaffolding intervention": {
+  "label": "computer-based scaffolding vs no computer-based scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding in problem-based STEM learning\tno computer-based scaffolding": {
+  "label": "computer-based scaffolding vs no computer-based scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-supported argument scaffolds\tunstated comparison condition": {
+  "label": "computer-supported argument scaffolding vs unstated comparison condition",
+  "treatment_is_a": true
+ },
+ "scaffolding\tconceptual computer-based scaffolding\tcontrol without computer-based scaffolding": {
+  "label": "conceptual computer-based scaffolding vs no computer-based scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfading customization\tno scaffolding customization": {
+  "label": "fading customization vs no scaffolding customization",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfading/adding customization\tno scaffolding customization": {
+  "label": "fading/adding customization vs no scaffolding customization",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfirst-order argument scaffolding for constructing a single argument\tnew comparable case requiring transfer": {
+  "label": "first-order argument scaffolding for initial construction vs scaffolding requiring transfer",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfixed-time-interval scaffolding customization\tcomparison condition": {
+  "label": "fixed-time-interval scaffolding customization vs comparison condition",
+  "treatment_is_a": true
+ },
+ "scaffolding\tinstructional support\tcomparison condition without equivalent instructional support": {
+  "label": "instructional support vs no equivalent instructional support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tinstructional support for diagnostic competences\tcontrol condition": {
+  "label": "instructional support vs no equivalent instructional support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpeer-monitoring support\tcontinuous script support": {
+  "label": "peer-monitoring support vs continuous script support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tpeer-monitoring support\tmessage-count-based fading": {
+  "label": "peer-monitoring support vs message-count-based fading",
+  "treatment_is_a": true
+ },
+ "scaffolding\tperformance-adapted scaffolding customization\tcomparison condition": {
+  "label": "performance-adapted scaffolding customization vs comparison condition",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding providing high levels of guidance\tscaffolding relying on high levels of self-regulation": {
+  "label": "high-guidance scaffolding vs high-self-regulation scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscaffolding relying on high levels of self-regulation\tscaffolding providing high levels of guidance": {
+  "label": "high-guidance scaffolding vs high-self-regulation scaffolding",
+  "treatment_is_a": false
+ },
+ "scaffolding\tself-selected scaffolding customization\tcomparison condition": {
+  "label": "self-selected scaffolding customization vs comparison condition",
+  "treatment_is_a": true
+ },
+ "test-format\teasy computer-based test questions\teasy paper-based test questions": {
+  "label": "computer-based vs paper-based",
+  "treatment_is_a": true
+ },
+ "test-format\tpaper-based difficult questions\tcomputer-based difficult questions": {
+  "label": "computer-based vs paper-based",
+  "treatment_is_a": false
+ },
+ "test-format\tpaper-based test\tcomputer-based test": {
+  "label": "computer-based vs paper-based",
+  "treatment_is_a": false
+ },
+ "test-format\tpaper-based testing\tcomputer-based testing": {
+  "label": "computer-based vs paper-based",
+  "treatment_is_a": false
+ },
+ "test-format\tverbatim testing\tgist testing": {
+  "label": "verbatim vs gist",
+  "treatment_is_a": true
  }
 }

@@ -48,7 +48,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (20 for, 19 mixed, 2 against) · 42 studies (14 causal, 10 review, 7 theoretical, 4 associational, 4 qualitative, 2 quant-synthesis, 1 design), `q1`–`q4` · 4 of 42 report an effect size · 34 claims rest on one study
+> **Evidence** · 44 claims (21 for, 21 mixed, 2 against) · 44 studies (14 causal, 10 review, 8 theoretical, 4 associational, 4 qualitative, 3 quant-synthesis, 1 design), `q1`–`q4` · 5 of 44 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -119,6 +119,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Metacognitive development exhibits equifinality: multiple viable trajectories challenge linear developmental models](../claims/equifinality-metacognitive-trajectories.md) [-W]
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](../claims/koku-qualitative-acceptability-themes.md) [+W]
 - [More teacher support in AI-based instruction is not always better; a review found support worked well when balanced with students' autonomy and independent thinking](../claims/teacher-support-benefits-conditional-on-autonomy-balance.md) [~W]
+- [Adaptive fading adjusted to discourse quality is reported as more effective than fixed fading regimes for developing internal script components, but long-term evidence is lacking](../claims/adaptive-fading-beats-fixed-regimes-short-term.md) [+W] — attached 2026-10-22 from Noroozi et al. (2018), which proposed "Design second-order argument scaffolding through a three-step guideline: diagnose internal scripts, adapt support, fade adaptively"; tests this page's relationship.
+- [Fading of instructional support in collaborative argumentation has produced mixed results, with effectiveness depending on the fading criterion used](../claims/fading-collaborative-argumentation-mixed-results.md) [~W] — attached 2026-10-22 from Noroozi et al. (2018), which proposed "Design second-order argument scaffolding through a three-step guideline: diagnose internal scripts, adapt support, fade adaptively"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -154,6 +156,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied](../claims/journal-writing-improves-outcomes-with-support.md) [~W]
 - [Contingency is not treated as a necessary condition of scaffolding in bilingual education research, unlike broader educational research](../claims/contingency-not-necessary-condition-bilingual-education-scaffolding.md) [~W]
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](../claims/fading-out-prompts-beat-permanent-prompts.md) [+W]
+- [Self-selected scaffolding customization yields higher effects than fixed time interval and performance-adapted customization](../claims/self-selected-customization-highest-effect.md) [~W]
 
 ## Related Principles
 - [Concreteness Fading](concreteness-fading.md)

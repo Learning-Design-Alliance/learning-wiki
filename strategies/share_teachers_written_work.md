@@ -58,9 +58,11 @@ Sharing teacher work makes the usually invisible processes of expert writing —
 5. Revise visibly in response, narrating which suggestions you take and why — prompting learners to [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] about the reasoning behind each revision
 
 ## Related Strategies
+
 - [Modeling Writing and Revising](modeling-writing-and-revising.md) — the broader practice of making expert writing processes visible
 - [Peer Review](../elements/peer-review.md) — learners apply the same critique protocols to each other's work after practicing on the teacher's
 - [Teacher as Learner](teacher-as-learner.md) — the general disposition of the instructor participating as a co-learner
+- [Solicit and formally review unsolicited scholarly responses when publishing a controversial position](solicit-reviewed-responses-to-controversial-positions.md)
 
 ## Examples
 - A journalism instructor shares a draft feature article along with the editor's markup, and the class advises on how to address each edit; the instructor then revises live using their advice

@@ -73,3 +73,4 @@ This is a single case study of four graduate students already trained in embodie
 - [Students' makerspace knowledge practices are mediated multimodally by discourse, materials, embodied actions, and physical space](multimodal-mediation-makerspace-knowledge-practices.md) — related
 - [VET teachers use body gestures and pointing to recreate the three-dimensional machine space represented two-dimensionally on the simulator screen.](teacher-gestures-recreate-3d-space-on-2d-screen.md) — related
 - [Collaborative dynamic-geometry problem solving relies on coordinating math-content and social/collaborative resources](oner-coordinated-math-social-resources.md) — related
+- [Suppressing or restricting hand movements disrupts children's arithmetic performance, suggesting gestures play a functional role in calculation](hand-movement-interference-disrupts-calculation.md) — related

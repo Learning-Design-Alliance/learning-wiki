@@ -112,3 +112,5 @@ Over several years, two cohorts of young adolescents argued about social issues 
 - [Prompts and scaffolds for paraphrasing, criticizing, questioning, and synthesizing arguments produce significantly more domain-specific and domain-general knowledge](argumentation-prompts-scaffolds-knowledge-gains.md) — related
 - [Boundary conditions: some biases fit the two meta-biases only with argument or for some subgroups](meta-bias-boundary-conditions.md) — related
 - [Students' historical argumentation rarely includes counterarguments or weighing of arguments](students-argumentation-lacks-counterarguments.md) — related
+- [Computer-supported argument scaffolds improve argumentation within the scaffolded task, but argumentation does not mediate effects on domain-specific knowledge acquisition](argument-scaffolds-proximal-success-no-knowledge-mediation.md) — related
+- [Learners who construct good single arguments individually are not always able to apply that competence in comparable collaborative tasks](solo-argument-competence-not-applied-collaboratively.md) — related

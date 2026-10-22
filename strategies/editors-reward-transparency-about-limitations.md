@@ -41,6 +41,7 @@ The article proposes that transparency about limitations "needs to be rewarded b
 ## Related Strategies
 
 - [Future trend reviews should code the type and strength of practice recommendations and the degree to which limitations were voiced](code-recommendation-strength-in-trend-reviews.md)
+- [Shift journal editorial and review practices to reward theoretically integrative work](editors-reward-integrative-work.md)
 
 ## Examples
 -

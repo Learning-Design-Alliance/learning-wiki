@@ -112,3 +112,7 @@ Multilevel meta-analysis of 223 studies from research conducted 1992–2018 (pub
 - [Math anxiety explained variance in posttest monitoring judgments beyond trait anxiety, supporting its distinctness from general anxiety](math-anxiety-distinct-from-trait-anxiety-in-monitoring.md) — related
 - [The goal–internalizing relations are moderated by goal terminology, goal setting, education level, goal model, and cultural context](moderators-achievement-goals-internalizing.md) — related
 - [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](test-anxiety-goal-complex-mediation.md) — related
+- [Age group significantly but weakly moderates the math anxiety–performance link (children r = −.31 vs adults r = −.25)](age-group-moderates-ma-link.md) — a narrower finding that bears on this claim
+- [Math anxiety correlates negatively with math performance at a pooled r = −.30 across 169 independent samples](math-anxiety-negative-correlation-math-performance.md) — related
+- [Type of math task moderates the math anxiety–performance link: basic numerical knowledge shows the weakest correlation (r = −.22) and applied math among the strongest (r = −.31)](math-task-type-moderates-ma-link.md) — a narrower finding that bears on this claim
+- [Test anxiety correlates negatively with math achievement at a pooled r = −.23, weaker than math anxiety's correlation](test-anxiety-negative-correlation-math-achievement.md) — related

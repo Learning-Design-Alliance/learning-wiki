@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (19 show a difference, 9 mixed, 3 no difference) · 19 studies (8 associational, 5 review, 3 causal, 2 theoretical, 1 quant-synthesis), `q2`–`q4` · 4 of 19 report an effect size · 29 claims rest on one study
+> **Evidence** · 40 claims (22 show a difference, 14 mixed, 4 no difference) · 21 studies (8 associational, 5 review, 3 causal, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 5 of 21 report an effect size · 38 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -62,6 +62,15 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Mindsets relate to kindergarteners' achievement indirectly through executive functions and classroom behavioral self-regulation as mediators](../claims/mindsets-achievement-indirect-via-self-regulation.md) [+M] — learners who differ on it differ in outcomes
 - [The review reports that college tutors who espoused a malleable view of intelligence to their tutees improved their own academic performance, with benefits for tutees as well](../claims/tutor-espousing-malleable-intelligence-gains.md) [+M] — learners who differ on it differ in outcomes
 - [Implicit theories of ability predict achievement goals, with performance goals mediating or suppressing entity theory effects on math performance](../claims/implicit-theories-predict-achievement-goals-math.md) [+W] — learners who differ on it differ in outcomes
+- [Fixed mindset peer cultures are theorized to erode belonging via identity threat, especially for minoritized students](../claims/fixed-mindset-peer-culture-identity-threat.md) [~W] — learners who differ on it differ in outcomes
+- [Fixed mindset peer cultures are theorized to suppress help-seeking and peer support, especially for struggling students](../claims/fixed-mindset-cultures-suppress-help-seeking.md) [~W] — learners who differ on it differ in outcomes
+- [Mindset-culture mismatch is proposed to lower belonging most for students who strongly endorse a growth mindset](../claims/mindset-culture-mismatch-growth-mindset-students.md) [~W] — an instructional effect differs with it
+- [Minoritized students reported lower belonging where peers endorsed more fixed mindset beliefs, with an asymmetric pattern](../claims/minoritized-students-belonging-peer-fixed-mindset.md) [~M] — learners who differ on it differ in outcomes
+- [Teachers' growth mindset is associated with mastery goal structures but not performance goal structures](../claims/teacher-growth-mindset-mastery-goal-structures.md) [~M] — learners who differ on it differ in outcomes
+- [Teachers' growth mindset is positively associated with mastery-approach goals (r = .148)](../claims/teacher-growth-mindset-mastery-goals-association.md) [+M] — learners who differ on it differ in outcomes
+- [Teachers' growth mindset is positively associated with their self-efficacy (r = .180)](../claims/teacher-growth-mindset-self-efficacy-association.md) [+M] — learners who differ on it differ in outcomes
+- [Teachers' growth mindset is unrelated to performance-approach goals, performance-avoidance goals, teachers' test performance, and student achievement](../claims/teacher-growth-mindset-null-performance-student-achievement.md) [-M] — learners who differ on it differ in outcomes
+- [Teachers' growth mindset shows a small positive overall association with combined teacher, instructional, and student outcomes (r = .111)](../claims/teacher-growth-mindset-small-overall-association.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

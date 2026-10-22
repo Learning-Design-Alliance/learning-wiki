@@ -131,3 +131,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Elementary teachers more often instruct cognitive strategies than metacognitive strategies during a standardized lesson](teachers-instruct-cognitive-more-than-metacognitive-strategies.md) — related
 - [Self-regulated reading processes are positively associated with reading and learning outcomes](self-regulated-reading-associated-with-outcomes.md) — a narrower finding that bears on this claim
 - [SRL interventions produce large average effects on academic and motivational outcomes, per meta-analytic syntheses](srl-interventions-large-average-effects.md) — related
+- [Interventions targeting motivation produce positive achievement outcomes of medium average size (d = 0.49) regardless of which motivation theory underlies them](motivation-interventions-achievement-d049-theory-agnostic.md) — related

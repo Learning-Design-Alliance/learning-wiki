@@ -57,3 +57,4 @@ The review synthesizes how Abdul Rahim et al. (2022) and Cantwell et al. (2022) 
 - [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](well-designed-games-foster-practice-and-intrinsic-motivation.md) — a broader claim this one bears on
 - [Teams that coordinate, communicate, and document intermediate results solve EER problems more successfully](eer-structured-teams-solve-better.md) — related
 - [HET's three principles conceptually align with SDT's autonomy support, structure, and involvement](het-sdt-teaching-practices-converge.md) — related
+- [Self-determination theory grew incrementally by adding mini-theories as evidence accumulated](sdt-grew-brick-by-brick.md) — related

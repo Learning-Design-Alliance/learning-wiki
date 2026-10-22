@@ -49,3 +49,4 @@ Validation Study 1 (N = 99) compared the offline SKT-SRL with an online microana
 - [Whether an SRL component correlates with GPA depends on how it is assessed: cognition via a strategy knowledge test, motivation via questionnaire, metacognition via an open-ended microanalytic question](different-methods-different-srl-components-achievement.md) — related
 - [SRL components show moderate correlations within one assessment level but no correlations across different assessment methods within one component](srl-monomethod-correlations-no-heteromethod.md) — a broader claim this one bears on
 - [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](skt-srl-no-gpa-correlation.md) — related
+- [Measurement methods moderate SRL–EF correlations, with indirect measures correlating higher than direct measures](measurement-method-moderates-srl-ef-correlations.md) — related

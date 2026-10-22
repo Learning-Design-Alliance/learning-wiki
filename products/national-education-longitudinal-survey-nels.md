@@ -34,7 +34,8 @@ A nationally representative longitudinal education dataset collected and maintai
 - [NELS indicators of math skills, work habits, leadership, teamwork and sports-related skills, and locus of control are related to postsecondary earnings and to the likelihood of attending and completing postsecondary education](../claims/nels-competencies-predict-postsecondary-attainment-earnings.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [ELS:2002 longitudinal database](els2002-longitudinal-database.md)
 
 ## Key Sources
 - James Soland. (2017). Combining Academic, Noncognitive, and College Knowledge Measures to Identify Students Not on Track For College: A Data-Driven Approach. Research & Practice in Assessment, Volume Twelve, Summer 2017. https://rpajournal.com

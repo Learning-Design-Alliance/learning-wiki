@@ -118,3 +118,4 @@ Earlier Related Claims:
 - [All students in the self-determination skill intervention achieved their goals at better than average levels](students-achieved-goals-better-than-average.md) — a narrower finding that bears on this claim
 - Baseline data from a multistate longitudinal self-determination intervention project were analyzed with structural equation modeling — related
 - [Individualized advocacy support and engagement curricula each have direct tests from multiple studies, giving stronger evidence than the other recommendations](advocacy-and-engagement-direct-test-evidence.md) — related
+- [Self-determination theory grew incrementally by adding mini-theories as evidence accumulated](sdt-grew-brick-by-brick.md) — related

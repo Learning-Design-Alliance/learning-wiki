@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 30 claims (14 for, 14 mixed, 2 against) · 17 studies (10 quant-synthesis, 5 causal, 1 review, 1 design), `q2`–`q4` · 10 of 17 report an effect size · 27 claims rest on one study
+> **Evidence** · 31 claims (14 for, 15 mixed, 2 against) · 18 studies (11 quant-synthesis, 5 causal, 1 review, 1 design), `q2`–`q4` · 10 of 18 report an effect size · 28 claims rest on one study
 
 ## Description and scope
 
@@ -128,6 +128,7 @@ This pattern is scoped to learners teaching one another material they have met, 
 
 - [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](../claims/staff-tutoring-small-achievement-advantage-pbl.md) [-W]
 - [Students rated peer tutoring with the VoicePod as acceptable and helpful for learning vocabulary](../claims/social-validity-voicepod-tutoring.md) [+W]
+- [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](../claims/cross-age-tutoring-publication-bias-mixed.md) [~W]
 
 ## Related Patterns
 - [Jigsaw](fostering-communities-of-learning-fcl.md)

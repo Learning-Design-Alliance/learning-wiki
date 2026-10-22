@@ -33,6 +33,7 @@ The article adopts the teacher noticing framework of Van Es and Sherin to model 
 ## Related Research Methods
 
 - [Teacher Noticing of Rationality Framework (TNRF)](teacher-noticing-of-rationality-framework-tnrf.md)
+- [Two-dimensional classification of diagnostic situations: information base and collaboration requirement](two-dimensional-classification-of-diagnostic-situations-information-base-and-collaboration.md)
 
 ## Key Sources
 - van Leeuwen, A., Rummel, N., & van Gog, T. (2019). What information should CSCL teacher dashboards provide to help teachers interpret CSCL situations? International Journal of Computer-Supported Collaborative Learning 14, 261–289. https://doi.org/10.1007/s11412-019-09299-x

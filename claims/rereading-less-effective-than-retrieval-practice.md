@@ -108,3 +108,4 @@ A systematic review evaluating ten learning techniques against generalisability,
 - [Reading comprehension ability predicts monitoring accuracy after a single reading but not after rereading (Experiments 1 and 2)](comprehension-ability-by-rereading-interaction.md) — related
 - [Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy](monitoring-effects-without-test-performance-gains.md) — related
 - [The advantage of recitation over rereading is greater the less connected the learning material (Kühn 1914; Gates 1917)](recitation-advantage-decreases-material-connectedness-gates-kuehn.md) — related
+- [Generative activities improve students' monitoring accuracy but not their actual learning after restudy](generative-activities-improve-monitoring-not-restudy-learning.md) — related

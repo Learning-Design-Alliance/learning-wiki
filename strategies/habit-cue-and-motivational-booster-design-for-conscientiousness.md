@@ -48,7 +48,8 @@ Building on the finding that all reviewed interventions included habit building,
 - [Most recent interventions to strengthen conscientiousness significantly increased it at the trait, facet, or state level, with small-to-moderate effect sizes](../claims/nine-of-eleven-conscientiousness-interventions-effective.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Habit-based intervention implications: habituate the instigation of effective strategies, not their full execution](habituate-strategy-instigation.md)
 
 ## Examples
 -

@@ -102,3 +102,4 @@ This is sometimes called the "completion effect" in cognitive load literature. H
 - [Fading is associated with fewer unproductive learning events, which the authors link to better learning outcomes](fading-fewer-unproductive-learning-events.md) — related
 - [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) — a narrower finding that bears on this claim
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](fading-out-prompts-beat-permanent-prompts.md) — a narrower finding that bears on this claim
+- [Self-selected scaffolding customization yields higher effects than fixed time interval and performance-adapted customization](self-selected-customization-highest-effect.md) — related

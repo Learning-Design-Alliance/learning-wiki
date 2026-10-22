@@ -197,3 +197,6 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Challenging study demands combined with resources boost emotional engagement, though interaction effects on cognitive and behavioral engagement were mainly nonsignificant](boost-hypothesis-study-demands-resources.md) — a narrower finding that bears on this claim
 - [External rewards can undermine intrinsic motivation for learners who are already motivated](external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) — related
 - [Most of the 45 reviewed studies report positive gamification effects on motivation and engagement in mathematics; only four report negative effects](gamification-mathematics-mostly-positive-four-negative.md) — related
+- [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](autonomy-universality-meta-analytic-support.md) — related
+- [Motivation theories in education have converged on a learner-centered focus over recent decades](motivation-theories-converged-learner-centered.md) — a broader claim this one bears on
+- [Self-determination theory grew incrementally by adding mini-theories as evidence accumulated](sdt-grew-brick-by-brick.md) — related

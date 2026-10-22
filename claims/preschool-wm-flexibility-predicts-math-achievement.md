@@ -57,3 +57,4 @@ Longitudinal SEM study of 175 children assessed at age 5 on six EF measures and 
 - [Executive functions and working memory correlate moderately to strongly with mathematics achievement (r = .28 to .40), from preschool through elementary school](executive-functions-and-working-memory-correlate-with-math-achievement.md) — a broader claim this one bears on
 - [Executive functioning and early numeracy skills assessed in kindergarten directly predict mathematical performance in second grade, jointly explaining 57.3% of its variance](ef-and-early-numeracy-directly-predict-grade-2-math.md) — related
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — a broader claim this one bears on
+- [Early fine motor skills predict later arithmetic skills in most longitudinal studies, but not when executive functions are controlled](fms-predict-later-arithmetic.md) — related

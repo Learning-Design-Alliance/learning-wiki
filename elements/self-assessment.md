@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 58 claims (14 for, 31 mixed, 13 against) · 47 studies (23 causal, 10 associational, 5 review, 4 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 18 of 47 report an effect size · 54 claims rest on one study
+> **Evidence** · 61 claims (14 for, 34 mixed, 13 against) · 49 studies (23 causal, 11 associational, 6 review, 4 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 18 of 49 report an effect size · 57 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -108,6 +108,9 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Prompted cue type and timing of cue prompt do not interact in their effect on self-assessment accuracy (Experiment 1)](../claims/cue-type-timing-no-interaction-accuracy.md) [~W]
 - [Mental effort correlates negatively with self-assessments regardless of whether learners receive up-front cue information](../claims/mental-effort-negative-correlation-self-assessments.md) [~W]
 - [Providing a standard answer to compare against improves the accuracy of students' retrospective monitoring judgments](../claims/answer-standard-improves-retrospective-monitoring.md) [+W]
+- [Boundary conditions: explicit relation-focused instructions and no access to products during judgment are needed for mapping and drawing to improve monitoring accuracy](../claims/mapping-drawing-boundary-conditions-instructions-and-retrieval.md) [~W]
+- [Effects of gender and self-perceived metacomprehension ability on bias arose mainly from judgment magnitude, whereas WMC and topic knowledge also affected performance](../claims/bias-mechanisms-magnitude-versus-performance.md) [~W]
+- [Significant learner characteristics explained 17% and 14% of variance in prediction bias and 11% and 12% in postdiction bias, so characteristics were slightly more relevant for predictions](../claims/variance-explained-judgment-bias.md) [~W]
 
 ## The evidence by question
 

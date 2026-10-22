@@ -133,3 +133,4 @@ The review reports Spanjers et al.'s (2010) experiment on probability calculatio
 - [Element interactivity and expertise reversal effects: cognitive load effects diminish and may reverse as expertise increases because known elements chunk into single elements](expertise-reversal-effect-element-interactivity.md) — a broader claim this one bears on
 - [A tracing strategy combining segmentation and prediction produced more efficient learning than a non-interactive instructional condition](tracing-strategy-segmentation-prediction-efficiency.md) — related
 - [Prior knowledge may moderate EMME effectiveness, but support for novices benefiting more is inconsistent across studies](emme-prior-knowledge-moderation-inconsistent.md) — related
+- [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](animations-transience-working-memory-load.md) — related

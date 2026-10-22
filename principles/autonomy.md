@@ -43,7 +43,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (15 for, 25 mixed, 2 against) · 42 studies (12 review, 7 theoretical, 6 causal, 6 qualitative, 4 quant-synthesis, 4 associational, 3 design), `q1`–`q4` · 6 of 42 report an effect size · 34 claims rest on one study
+> **Evidence** · 43 claims (16 for, 25 mixed, 2 against) · 43 studies (12 review, 8 theoretical, 6 causal, 6 qualitative, 4 quant-synthesis, 4 associational, 3 design), `q1`–`q4` · 6 of 43 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [People offered a reward generally choose the easiest possible task, whereas children without rewards pick tasks just beyond their current ability](../claims/rewards-easiest-task-choice.md) [+W]
 - [The autonomy support–structure relationship is moderated by data collection method and school level](../claims/autonomy-structure-relationship-moderators.md) [~W]
 - [Teachers who facilitate both autonomy and structure report motivation to teach and felt teaching effectiveness](../claims/teacher-outcomes-autonomy-structure.md) [+W]
+- [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](../claims/autonomy-universality-meta-analytic-support.md) [+W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — regular, non-controlling check-ins are a core teacher behavior of autonomy support, signaling interest rather than surveillance

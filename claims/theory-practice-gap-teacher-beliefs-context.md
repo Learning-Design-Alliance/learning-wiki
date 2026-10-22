@@ -63,4 +63,4 @@ The review attributes this school-composition finding to Brault et al. (2014) an
 
 ## Related Claims
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
-- [The teacher behaviours most predictive of engagement change do not neatly fit within any single motivational theory, supporting theoretical integration](influential-behaviours-span-multiple-motivational-theories.md) — related
+- [The teacher behaviours most predictive of engagement change do not neatly fit within any single motivational theory, supporting theoretical integration](cross-theoretical-71-teacher-behaviors-predict-engagement.md) — related

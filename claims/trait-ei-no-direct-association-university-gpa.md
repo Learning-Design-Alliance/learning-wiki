@@ -54,3 +54,4 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [Previous academic performance is the strongest predictor of university GPA, and adding cognitive predictors raises explained variance to about 44–50%](previous-ap-strongest-predictor-gpa-up-to-50-percent.md) — related
 - [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](skt-srl-no-gpa-correlation.md) — related
 - [Metacognitive and composite SRL strategy measures show the strongest relationships with learning performance in continuing education](srl-strategy-type-performance-differences.md) — related
+- [Motivational variables rarely explain more than 10% of the variance in behavior and outcomes](motivational-variables-rarely-exceed-10-percent-variance.md) — related

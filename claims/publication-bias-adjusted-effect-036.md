@@ -50,3 +50,7 @@ Publication bias assessment using funnel plot inspection and selection modeling 
 - [The bias-adjusted mean moderator effect in STEM education meta-analyses is g = 0.27 with substantial heterogeneity, and the published record shows overwhelming evidence of publication-bias-type selection](bias-adjusted-moderator-effect-stem.md) — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — reports the opposite
 - [Journal-published studies show larger concept-mapping effects than dissertations and conference papers (g = 1.039 vs. 0.254)](journal-publication-larger-effect-sizes-grey-literature.md) — related
+- [Publication bias is present to a varying degree, with published studies reporting larger belief and student-behavior effects than unpublished studies](publication-bias-beliefs-student-behavior.md) — related
+- [Publication bias analyses suggest possible small-sample bias for SCED studies, with trim-and-fill reducing the adjusted mean effect to 1.01](sced-publication-bias-trim-and-fill-101.md) — related
+- [The included scaffolding studies show small-study effects, which the Bayesian approach addresses by shrinking overweighted effect sizes](small-study-effects-bma-shrinking.md) — related
+- [No evidence of dissemination bias was detected in the meta-analysis](teacher-growth-mindset-no-dissemination-bias.md) — reports the opposite

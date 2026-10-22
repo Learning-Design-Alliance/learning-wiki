@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 91 claims (66 show a difference, 17 mixed, 8 no difference) · 70 studies (22 review, 15 associational, 11 quant-synthesis, 10 causal, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 19 of 70 report an effect size · 87 claims rest on one study
+> **Evidence** · 92 claims (67 show a difference, 17 mixed, 8 no difference) · 71 studies (23 review, 15 associational, 11 quant-synthesis, 10 causal, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 19 of 71 report an effect size · 88 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -132,6 +132,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Drama and theatre-based work forms in teacher education are associated with equity-related outcomes including empathy, perspective-taking, collaboration, attitude shifts, and advocacy](../claims/drama-work-forms-equity-outcomes-empathy-advocacy.md) [+M] — instruction changes it
 - [The review reports that jigsaw classrooms produced gains in self-esteem, interpersonal attraction, empathy, and minority academic achievement without cost to majority students](../claims/jigsaw-classroom-benefits-reported.md) [+M] — instruction changes it
 - [Parental elaborative style during reminiscing relates to children's vocabulary, narrative skills, autobiographical memory, and social-emotional skills](../claims/parental-elaborative-reminiscing-relates-to-child-outcomes.md) [+M] — instruction changes it
+- [Lifetime exposure to narrative fiction correlates with ToM and empathy, but correlational designs preclude causal conclusions](../claims/fiction-exposure-correlates-tom-empathy.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

@@ -47,3 +47,4 @@ STEM discipline moderator analysis (Figure 6 and Table 4): mathematics ranked fi
 - [Computer-based scaffolding produces consistently strong within-subject (pre–post) cognitive gains in STEM education across student populations, disciplines, and assessment levels](scaffolding-strong-prepost-gains-stem.md) — a broader claim this one bears on
 - [Differences in AI-supported instruction effects across STEM disciplines are not statistically significant](ai-effect-discipline-differences-nonsignificant.md) — reports the opposite
 - [Science-related subject areas (mathematics, science, medical science) show larger effects than programming technology and other fields](subject-area-moderates-cps-critical-thinking-effects.md) — related
+- [Scaffolding effects in PBL are higher in Engineering, Technology, and Mathematics than in Science, and relatively low in integrated STEM education](discipline-moderator-scaffolding-effects-bma.md) — related

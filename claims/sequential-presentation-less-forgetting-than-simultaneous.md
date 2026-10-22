@@ -53,3 +53,4 @@ Mixed-factors ANOVA of proportion correct in Experiment 1 with 32 college studen
 - [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
 - [Equation memory shows a strong validity effect (valid > invalid recall) that interacts with equation length](equation-memory-validity-effect-length-interaction.md) — related
 - [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
+- [The retention-interval main effect shows forgetting occurred over one week in both experiments](one-week-forgetting-main-effect-both-experiments.md) — related

@@ -50,3 +50,4 @@ Three-level meta-analysis of 33 eligible cross-sectional papers and 89 effect si
 - [Earlier theory of mind longitudinally predicts later academic achievement (pooled r = .28), largely on zero-order associations](early-tom-predicts-later-achievement.md) — related
 - [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related
 - [Longitudinally, the ToM–achievement association does not differ significantly across academic achievement domains, and time lag does not moderate it](longitudinal-domain-moderator-nonsignificant.md) — related
+- [Intervention studies report larger skill effects than cross-sectional studies, but study design does not moderate knowledge, beliefs, or student-behavior effects](study-design-moderates-only-skills.md) — related

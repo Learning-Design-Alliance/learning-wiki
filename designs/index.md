@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**974 entries** · 0 stable · 974 in review · 0 drafts
+**976 entries** · 0 stable · 976 in review · 0 drafts
 
 ---
 
@@ -447,6 +447,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Hobbs's five-part media literacy model operationalized through participatory culture theory](hobbs-five-part-media-literacy-model.md) - The study's theoretical foundation combines Hobbs's five-domain media literacy framework with Jenkins's participatory culture theory.
 * [Holistic, place-based, time-bound Indigenous teaching pattern](holistic-place-based-time-bound-indigenous-teaching.md) - In the Elders' teaching of Indigenous knowledge in this study, all forms of knowledge were taught holistically rather than divided into disciplines, avoiding what Nadasdy called compartmentalization of IK.
 * [Horizontal and vertical transfer framework for guiding AI-assisted problem posing](horizontal-vertical-transfer-problem-posing-framework.md) - The study employs a conceptual framework, adapted from the authors' prior work on transfer of learning and Jonassen's problem-solving framework, in which problem posing proceeds by \"horizontal transfer, where the read...
+* [Horn-Ashbaugh Speller weekly curriculum: distributed practice and retrieval practice with pretesting, self-testing, and spaced review](horn-ashbaugh-speller-weekly-cycle.md) - The Speller's curriculum assigned a new word list each Monday with a pretest, self-testing study routines on Tuesday and Thursday (look, visualize, cover, write from memory, check, repeated three times), diagnostic te...
 * [HP Learning Studio at Anaheim High School](hp-learning-studio-anaheim-high-school.md) - The HP Learning Studio is a school-community technology space launched in Winter 2024 at Anaheim High School, featuring \"high-end HP workstations running Windows 11 and powered by the latest Intel processors, scholast...
 * [Human-AI co-mentorship model with complementary tactical and strategic roles](human-ai-co-mentorship-complementary-roles.md) - The article proposes a co-mentorship model in which AI tools and human mentors play fundamentally different, complementary roles in project-based learning.
 * [Human-guided design framework for GenAI-enabled assessment in computer science education](human-guided-genai-assessment-design-framework-cs.md) - The paper advances a pedagogically grounded framework in which GenAI assessment integration is governed by deliberate human design rather than technological capability alone.
@@ -1004,6 +1005,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [VCU University College model: cohort-based first-year core curriculum with centralized support and proactive advising](vcu-university-college-first-year-model.md) - Virginia Commonwealth University's University College, launched in 2006, is built around \"a cohesive core curriculum with a limited set of course options and small class sizes,\" taught by dedicated cross-disciplinary...
 * [Verification-centered Johnstone-3P architecture for GenAI in university chemistry education](verification-centered-johnstone-3p-genai-architecture.md) - The review proposes an explanatory architecture in which Johnstone's chemistry triplet (macroscopic, submicroscopic, symbolic domains, with representational translation as a cross-domain process rather than a fourth l...
+* [Video-based student-profile diagnosis task with eye tracking (11-min geometry lesson, five marked students)](video-diagnosis-task-five-student-profiles.md) - The study's core element is an 11-min video of an eighth-grade introductory geometry lesson from a German high school, containing a whole-class question-answer scene (bottom-up drivers assumed) and an individual seatw...
 * [Virtual pipetting simulation with tutorial and test phases in four condition variants](virtual-pipetting-simulation-four-conditions.md) - The learning material was an adapted version of a simulation used by Petersen et al.
 * [Virtual professional learning community (vPLC) for ASSISTments teacher training](assistments-vplc-teacher-training-element.md) - The vPLC is a virtual professional learning model designed to connect rural and geographically isolated teachers with peers and learning opportunities.
 * [Voluntary video game teaching basic computational concepts to early-age children, grounded in intrinsic motivation](voluntary-intrinsic-motivation-programming-game.md) - A voluntary video game addressing basic computational concepts, deployed for early ages and grounded in intrinsic motivation.

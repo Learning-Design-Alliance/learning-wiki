@@ -49,3 +49,4 @@ The review proposes, citing Bao and Lam (2008) and Deci and Ryan (2000), that 'a
 - [Other-made choices produce similar or better motivation and performance than self-made choices for East Asian youth, contrary to Western choice findings](other-made-choices-beneficial-east-asian-youth.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — a broader claim this one bears on
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — related
+- [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](autonomy-universality-meta-analytic-support.md) — related

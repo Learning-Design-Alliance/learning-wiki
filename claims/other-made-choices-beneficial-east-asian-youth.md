@@ -48,3 +48,4 @@ The review reports Iyengar and Lepper's (1999) experiments with Anglo-American a
 - [Extrinsic motivation to please teachers is positively related to intrinsic motivation among Asian American students but negatively among Caucasian students](extrinsic-intrinsic-positive-link-asian-american.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — reports the opposite
 - [Parental pressure frequently predicts positive academic outcomes among East Asian children, including stronger mastery goals and higher self-efficacy](parental-pressure-positive-outcomes-east-asian-children.md) — related
+- [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](autonomy-universality-meta-analytic-support.md) — reports the opposite

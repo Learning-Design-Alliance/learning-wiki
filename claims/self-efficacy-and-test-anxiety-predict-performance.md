@@ -73,3 +73,4 @@ Across the regression analyses in the same survey, "students who reported higher
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related
 - [Pre-service teachers' assessment quality is negatively related to self-efficacy and perceived costs of engaging with scientific evidence](evidence-engagement-costs-negatively-related-assessment-quality.md) — related
+- [Motivational variables rarely explain more than 10% of the variance in behavior and outcomes](motivational-variables-rarely-exceed-10-percent-variance.md) — a broader claim this one bears on

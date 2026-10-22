@@ -49,3 +49,4 @@ Theoretical argument in the review: as creators develop expertise, they recogniz
 - [Trait mind wandering predicts verbal creativity over fluid intelligence, reading difficulties, and declarative knowledge of metacognitive strategies in tertiary-level students](trait-mind-wandering-predicts-verbal-creativity-tertiary-students.md) — related
 - [Experienced meditators show reduced default mode network activation with enhanced PCC–dorsolateral PFC connectivity during meditation](meditation-dmn-reduction-pcc-dlpfc-connectivity.md) — related
 - Among 134 reviewed studies, a significant number examined mind wandering alongside cognitive and metacognitive SRL processes, predominantly using self-report measures — related
+- [Mind wandering can function as a resource for regulation when learners have metacognitive awareness of attentional shifts](mind-wandering-resource-for-regulation.md) — related

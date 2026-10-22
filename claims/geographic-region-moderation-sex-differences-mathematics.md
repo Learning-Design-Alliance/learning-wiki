@@ -50,3 +50,4 @@ Meta-regression moderator analysis with geographical region (7 levels) entered j
 - [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related
 - [Regional differences in program effectiveness: North America led for perpetration, Scandinavia for victimization, with no clear overall pattern](anti-bullying-effectiveness-varies-by-region.md) — related
 - [Geographical region moderated several engagement-correlate relations, with Eastern students showing higher relations than Western students](region-moderates-engagement-correlate-relations.md) — related
+- [Moderators of teachers' growth mindset effects include publication year, world region, publication status, dimensionality, referent, content, and study quality](teacher-growth-mindset-moderators.md) — related

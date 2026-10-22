@@ -47,3 +47,4 @@ ANT analysis of turns 147–210 of the same small-group discussion: at turn 157 
 - [Non-human actants such as a Bristol board and task instructions can subordinate students and render classroom talk non-dialogic](bristol-board-actant-subordinates-students.md) — related
 - [A single student's open question can trigger dissolution of a non-dialogic network and autonomous dialogic argumentation](student-question-triggers-dialogic-network.md) — related
 - [Self-constructed collaborative concept maps trigger more deep exploratory talk and less non-dialogic talk than completing or sorting maps, which yield mostly superficial exploratory talk](self-constructed-cm-deep-exploratory-talk.md) — related
+- [Learners who construct good single arguments individually are not always able to apply that competence in comparable collaborative tasks](solo-argument-competence-not-applied-collaboratively.md) — related

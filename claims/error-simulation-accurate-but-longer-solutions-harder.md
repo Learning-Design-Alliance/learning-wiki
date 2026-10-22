@@ -69,3 +69,4 @@ Secondary comparison of solution step counts for problems where the targeted dis
 - [Higher-struggling-level problems elicit more diverse but less student-like LLM-generated errors](higher-struggling-problems-elicit-more-diverse-less-student-like-errors.md) — related
 - [LLMs predict common distractors above chance but fall 15 percentage points below chance at predicting which errors students rarely select](llm-distractor-prediction-asymmetry.md) — related
 - [Simulated student reasoning shifted teachers from task-solvers to teacher-reasoners who interpreted misconceptions as student logic](simulated-student-reasoning-pck-rehearsal.md) — related
+- [Behavioral similarity between LLMs and learners does not guarantee mechanistic similarity](llm-behavioral-similarity-not-mechanistic-similarity.md) — related

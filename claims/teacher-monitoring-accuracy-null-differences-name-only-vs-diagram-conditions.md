@@ -71,3 +71,4 @@ For the explorative comparison of the name-only and name+diagram conditions (E1.
 - [Adding diagram self-assessment to diagram completion does not increase diagnostic cue utilization or metacomprehension accuracy beyond diagramming alone](self-assessment-scaffold-no-added-benefit.md) — related
 - [Thinking aloud does not affect teachers' monitoring accuracy](think-aloud-no-effect-teacher-monitoring-accuracy.md) — related
 - [Pre-structured diagrams improved metacomprehension accuracy while self-assessment cues showed no differences](diagramming-metacomprehension-accuracy-cues-null.md) — related
+- [Giving teachers access to students' diagrams improves teachers' regulation accuracy but not their monitoring accuracy](teacher-diagram-access-improves-regulation-not-monitoring.md) — related

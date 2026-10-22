@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (22 for, 41 mixed, 8 against) · 51 studies (26 causal, 10 review, 5 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 16 of 51 report an effect size · 64 claims rest on one study
+> **Evidence** · 74 claims (23 for, 43 mixed, 8 against) · 52 studies (26 causal, 10 review, 6 quant-synthesis, 4 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 17 of 52 report an effect size · 67 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Scripted roles scaffold students' cognitive responsibility for building common knowledge in knowledge-building environments](../claims/scripted-roles-scaffold-cognitive-responsibility-knowledge-building.md) [~W] — read 2026-10-19 (wave 2): an editorial's summary of a blended undergraduate study with no comparison condition or learning outcome on the claim page; relevant to collaboration scripts, does not change the model.
 - [Provided support does not influence task regulation between conditions](../claims/support-does-not-influence-task-regulation.md) [~W] — read 2026-10-19 (wave 2): in collaborative inquiry, communication support changed team regulation but not task regulation (a null, equivalence not tested); a process measure that does not bear on later learning.
 - [Metacognitive scaffolding plus executive attention training yields significant increases in the N2 ERP component associated with conflict processing in preschoolers](../claims/metacognitive-scaffolding-n2-erp-increase-children.md) [~W] — read 2026-10-19 (wave 2): a neural marker in a preschool attention-training study, no statistic printed; not a learning outcome this model predicts.
+- [Scaffolding targeting analysis-level skills yields much larger effects (g = 0.537) than scaffolding targeting synthesis or evaluation](../claims/analysis-level-scaffolding-outperforms-synthesis-evaluation.md) [~W] — attached 2026-10-22 from Nam Ju Kim et al. (2018), which proposed "Differentiate scaffolding design according to which level of higher-order thinking is addressed in problem-based learning".
 
 ## Objective and learner-valued goal
 
@@ -154,6 +155,8 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Contingency is not treated as a necessary condition of scaffolding in bilingual education research, unlike broader educational research](../claims/contingency-not-necessary-condition-bilingual-education-scaffolding.md) [~W]
 - [Scaffolding shows a moderate positive effect on conceptual learning outcomes in STEM pedagogical interventions other than direct instruction](../claims/scaffolding-moderate-effect-stem-conceptual-learning.md) [+W]
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](../claims/fading-out-prompts-beat-permanent-prompts.md) [+W]
+- [Computer-based scaffolding improves cognitive outcomes in problem-based learning in STEM education with an overall effect of g = 0.385](../claims/cbs-pbl-stem-overall-effect-g-0-385.md) [+W]
+- [Metacognitive and strategic scaffolding show larger effects in PBL-STEM than conceptual scaffolding](../claims/scaffolding-intervention-type-moderator-bma.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

@@ -46,6 +46,7 @@ The article recommends treating evaluation itself as a first-class research obje
 
 - [Equitable Assessment Rubrics](equitable_assessment_rubrics.md)
 - [Complement outcome measures with continuous process measures to assess social effects and enable adaptive pedagogical agents](process-measures-for-adaptive-pedagogical-agents.md)
+- [Strengthen IVR eye-tracking validity through theory-driven metric selection, transparent data-quality documentation, and triangulation with complementary methods](ivr-eye-tracking-validity-improvement-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,5 @@ Eye-tracking experiment in which 67 teachers viewed four authentic lesson videos
 - [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](knowledge-driven-vs-image-driven-classroom-perception.md) — related
 - [Teaching experience is associated with higher frequency of mental/perceptual and action/event words in think-aloud about classroom scenes](expertise-associated-event-cognition-word-usage.md) — related
 - [Evidence that domain-general perceptual-cognitive skills distinguish athletes is mixed; expertise appears domain-specific](expertise-domain-specific-not-general.md) — related
+- [Expert teachers fixate more on struggling, underestimating, and uninterested students during individual seatwork, while novices show longer fixations on strong and overestimating students](expert-gaze-attends-to-support-needed-profiles.md) — related
+- [Both novice and expert teachers state valid behavioral cues when inferring student profiles, but novices rely more on salient cues such as hand raising and quality of answers](novices-rely-on-salient-cues-hand-raising.md) — related

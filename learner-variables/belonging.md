@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (60 show a difference, 13 mixed, 2 no difference) · 64 studies (21 review, 12 qualitative, 10 causal, 8 associational, 5 design, 5 theoretical, 3 quant-synthesis), `q1`–`q4` · 2 of 64 report an effect size · 70 claims rest on one study
+> **Evidence** · 78 claims (60 show a difference, 16 mixed, 2 no difference) · 65 studies (21 review, 12 qualitative, 10 causal, 8 associational, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 2 of 65 report an effect size · 73 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -112,6 +112,9 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [A sense of relatedness moderates East Asian learners' internalization of others' choices, with benefits of other-made choices diminishing without belongingness](../claims/relatedness-moderates-other-made-choices.md) [~M] — an instructional effect differs with it
 - [First-generation faculty role models increase first-generation students' university belonging](../claims/first-gen-faculty-role-models-increase-belonging.md) [+M] — instruction changes it
 - [Shallow multiculturalism undermines Latinx students' belonging by reinforcing intersectional invisibility](../claims/shallow-multiculturalism-undermines-latinx-belonging.md) [+M] — instruction changes it
+- [Fixed mindset peer cultures are theorized to erode belonging via identity threat, especially for minoritized students](../claims/fixed-mindset-peer-culture-identity-threat.md) [~W] — instruction changes it
+- [Mindset-culture mismatch is proposed to lower belonging most for students who strongly endorse a growth mindset](../claims/mindset-culture-mismatch-growth-mindset-students.md) [~W] — instruction changes it
+- [Minoritized students reported lower belonging where peers endorsed more fixed mindset beliefs, with an asymmetric pattern](../claims/minoritized-students-belonging-peer-fixed-mindset.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

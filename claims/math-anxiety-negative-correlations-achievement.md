@@ -69,3 +69,5 @@ The authors' own study of "some 80 undergraduates" measured math anxiety and WRA
 - [Intrinsic math motivation is positively correlated with arithmetic skills and negatively correlated with explicitly measured math anxiety in sixth graders](intrinsic-math-motivation-correlates-skills-anxiety.md) — related
 - [Math anxiety is significantly negatively correlated with math achievement in second and third graders, independent of trait anxiety and IQ](math-anxiety-negative-math-achievement-young-children.md) — a narrower finding that bears on this claim
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
+- [Math anxiety correlates negatively with math performance at a pooled r = −.30 across 169 independent samples](math-anxiety-negative-correlation-math-performance.md) — related
+- [Test anxiety correlates negatively with math achievement at a pooled r = −.23, weaker than math anxiety's correlation](test-anxiety-negative-correlation-math-achievement.md) — related

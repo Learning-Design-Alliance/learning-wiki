@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 92 claims (59 show a difference, 19 mixed, 14 no difference) · 64 studies (23 associational, 20 causal, 10 review, 7 quant-synthesis, 4 theoretical), `q1`–`q4` · 16 of 64 report an effect size · 89 claims rest on one study
+> **Evidence** · 94 claims (59 show a difference, 21 mixed, 14 no difference) · 65 studies (23 associational, 21 causal, 10 review, 7 quant-synthesis, 4 theoretical), `q1`–`q4` · 17 of 65 report an effect size · 91 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -128,6 +128,8 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Cognitive ability moderates the encoding effect: higher-ability students benefit more, and lower-ability students may be harmed by note-taking](../claims/cognitive-ability-moderates-encoding-effect.md) [~W] — an instructional effect differs with it
 - [Intellectual giftedness significantly moderates the Grade 3–4 fluency trend: gifted subjects tend to increase while non-gifted subjects tend to decline](../claims/giftedness-moderates-grade4-fluency.md) [+M] — learners who differ on it differ in outcomes
 - [Video modeling and prompts do not improve scientific reasoning ability as measured by a multiple-choice posttest](../claims/no-effect-scientific-reasoning-ability-posttest.md) [-M] — instruction changes it
+- [Grasping virtual objects benefits low language aptitude learners but not high language aptitude learners relative to audiovisual baseline](../claims/grasping-benefits-low-aptitude-not-high-aptitude-learners.md) [~M] — an instructional effect differs with it
+- [Language aptitude correlates with vocabulary retention after audiovisual learning but not after grasping-based learning](../claims/aptitude-vocabulary-correlation-eliminated-by-grasping.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

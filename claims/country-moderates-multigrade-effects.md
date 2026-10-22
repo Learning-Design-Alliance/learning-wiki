@@ -51,3 +51,4 @@ Between-study analysis of the multigrade cognitive subset (Table 3): United Stat
 - [Noncognitive outcomes of multigrade classes show essentially zero overall effect after outlier removal](multigrade-noncognitive-effects-near-zero.md) — related
 - [Multigrade classes show negative weighted effects for science and social studies but not English as a foreign language](multigrade-science-social-studies-negative.md) — related
 - [Estimated learning deficits are smaller in European studies than in studies from the rest of the world](covid-deficit-smaller-europe-than-rest-of-world.md) — related
+- [Moderators of teachers' growth mindset effects include publication year, world region, publication status, dimensionality, referent, content, and study quality](teacher-growth-mindset-moderators.md) — related

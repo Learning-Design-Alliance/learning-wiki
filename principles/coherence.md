@@ -64,7 +64,7 @@ sources:
 # Coherence Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (14 for, 20 mixed, 2 against) · 36 studies (16 causal, 6 review, 5 quant-synthesis, 5 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 10 of 36 report an effect size · 29 claims rest on one study
+> **Evidence** · 37 claims (15 for, 20 mixed, 2 against) · 37 studies (17 causal, 6 review, 5 quant-synthesis, 5 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 10 of 37 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -185,6 +185,7 @@ The expectation should weaken if independent comparisons with comparable learner
 - [Working memory capacity interacts with illustration type: seductive illustrations impair comprehension only for low-WMC readers](../claims/wmc-moderates-seductive-details-effect.md) [~W]
 - [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](../claims/coherence-principle-extraneous-material-effect.md) [+W]
 - [Weeding seductive details fostered learning only in a mandatory (high-reward) learning situation, not a voluntary one](../claims/weeding-effective-only-mandatory-learning.md) [~W]
+- [Disrupting text coherence lowered both practice-test and retention-test performance](../claims/coherence-disruption-lowered-recall-performance.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

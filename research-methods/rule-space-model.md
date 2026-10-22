@@ -35,7 +35,8 @@ The Rule Space model (Tatsuoka, 1983) is an IRT-based diagnostic classification 
 - [The prerequisite-violating knowledge-state pattern is primarily attributable to Q-matrix misspecification, and the original hierarchy shows superior predictive efficiency](../claims/qmatrix-misspecification-explains-hierarchy-violations.md) [~W]
 
 ## Related Research Methods
--
+
+- [Two-dimensional classification of diagnostic situations: information base and collaboration requirement](two-dimensional-classification-of-diagnostic-situations-information-base-and-collaboration.md)
 
 ## Key Sources
 - Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652. [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)

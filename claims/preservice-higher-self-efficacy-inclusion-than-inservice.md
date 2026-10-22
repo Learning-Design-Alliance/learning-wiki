@@ -45,3 +45,4 @@ Meta-analysis of standardized mean scores for self-efficacy (31 estimates from 2
 ## Related Claims
 - [Training and interventions improve teachers' cognitive appraisal (d = 0.63), emotional appraisal (d = 0.63), and self-efficacy toward inclusive practices (d = 0.93)](inclusion-training-improves-teacher-beliefs.md) — related
 - [Teachers' cognitive appraisals, emotional appraisals, and self-efficacy about inclusive education average in the mid-range of measurement scales, indicating room for growth](teacher-inclusion-beliefs-mid-range-meta-analysis.md) — a broader claim this one bears on
+- [Professional development for in-service teachers produces large gains in teachers' knowledge about inclusive education (g = 0.93)](pd-large-effect-teacher-inclusive-knowledge.md) — related

@@ -88,3 +88,5 @@ A monograph by five cognitive/educational psychologists reviewing the empirical 
 - [Underlining and adjunct questions may hinder rather than help recall in young readers, reflecting a comprehension rather than a metacomprehension deficit](underlining-adjunct-questions-hinder-young-readers-comprehension-deficit.md) — a narrower finding that bears on this claim
 - [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](annotation-engagement-no-comprehension-effect.md) — a narrower finding that bears on this claim
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
+- [Descriptive habit-strength ratings rank highlighting highest, followed by rereading, self-testing, and concept mapping](habit-strength-descriptives-four-strategies.md) — related
+- [Ineffective learning strategies show substantially higher habit strength than effective strategies in a proof-of-concept survey](ineffective-strategies-higher-habit-strength.md) — a narrower finding that bears on this claim

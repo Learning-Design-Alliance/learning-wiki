@@ -73,3 +73,4 @@ The review reports, citing Jacob and Parkinson 2015, a ranked pattern across EF 
 - [Gender differences appear in academic achievement and several cognitive parameters but not in inhibition/interference or social skills](gender-differences-aa-cognitive-parameters.md) — related
 - [Executive functions show significant associations with reading outcomes in elementary school children (meta-analysis of 60 studies, 275 effect sizes)](ef-significantly-associated-with-reading-meta-analysis.md) — a narrower finding that bears on this claim
 - [Executive functions, especially working memory, inhibition, and cognitive flexibility, are consistently associated with core SRL activities](executive-functions-associated-with-core-srl-activities.md) — related
+- [EF explains substantial achievement variance (about 20–60% in school children) while SRL shows positive but low-effect-size relations to achievement](ef-achievement-variance-srl-low-effect.md) — reports the opposite

@@ -48,3 +48,4 @@ Meta-analytic comparison of pooled correlations within the same synthesis. The A
 - [Autonomy need satisfaction and autonomy need frustration are each positively correlated with psychological well-being among K-12 youth](ans-anf-positive-well-being-k12-meta.md) — related
 - [Bivariate SDT-based predictions about BPNSFS correlates were largely upheld: valence predictions correct for 95.2% and content predictions for 91.4% of scored cases](bivariate-prediction-accuracy-nomological-network.md) — a broader claim this one bears on
 - [Study region significantly moderates the ANS-well-being correlation among K-12 youth, with the abstract reporting a stronger association in East Asian contexts](region-moderates-ans-wellbeing-k12.md) — related
+- [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](autonomy-universality-meta-analytic-support.md) — related

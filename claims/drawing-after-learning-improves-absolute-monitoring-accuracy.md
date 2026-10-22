@@ -58,3 +58,4 @@ Randomized experiment with 88 university students (29 control, 29 drawing-from-s
 - [Thinking aloud does not affect teachers' monitoring accuracy](think-aloud-no-effect-teacher-monitoring-accuracy.md) — related
 - [Map drawing after 30 min is more accurate for maps learned through covert-retrieval tests than for maps learned through equal conventional study time](covert-retrieval-tests-improve-map-learning.md) — related
 - [Little or no relation between absolute and relative accuracy in metacomprehension research](little-relation-absolute-relative-accuracy.md) — related
+- [Instructing students to draw relations between text ideas (organizational drawing) improves relative monitoring accuracy more than representational drawing](organizational-drawing-instruction-improves-monitoring-accuracy.md) — related

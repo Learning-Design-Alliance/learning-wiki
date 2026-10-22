@@ -84,3 +84,4 @@ The "65%" is the source's own wording for a pooled Cohen's d of 0.65; a d of 0.6
 - [Regulation-of-learning interventions in programming education show an average effect of 0.59 on programming learning](regulation-interventions-programming-average-effect.md) — related
 - [SRL interventions are effective in improving both SRL activity and achievement in higher education](srl-interventions-improve-activity-achievement.md) — related
 - [SRL interventions produce large average effects on academic and motivational outcomes, per meta-analytic syntheses](srl-interventions-large-average-effects.md) — related
+- [Interventions targeting motivation produce positive achievement outcomes of medium average size (d = 0.49) regardless of which motivation theory underlies them](motivation-interventions-achievement-d049-theory-agnostic.md) — related

@@ -51,3 +51,4 @@ In Experiment 2, WMC was measured as a composite of reading span and operation s
 - [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — a broader claim this one bears on
 - [Offloading attenuates individual differences linked to unaided ability](offloading-attenuates-individual-differences.md) — related
 - [Students can only improve if they develop the capacity to monitor the quality of their own work during actual production](self-monitoring-during-production-premise.md) — related
+- [For prediction judgments on factual questions, males and learners with lower WMC and lower topic knowledge, but higher self-perceived topic knowledge and self-perceived metacomprehension ability, showed stronger overestimation](factual-prediction-bias-predictors.md) — related

@@ -126,3 +126,5 @@ In five experiments, adults read a short passage and then took tests of affectiv
 - [Case-based learning improves exam performance.](case-based-learning-improves-exam-performance.md) — narrative cases as a vehicle for perspective-taking and situated understanding
 - [Perspective taking increases the creativity of dyadic interactions](perspective-taking-increases-dyad-creativity.md) — related
 - [High-quality pretend play is an important facilitator of perspective taking and later abstract thought](pretend-play-facilitates-perspective-taking-abstract-thought.md) — related
+- [Expressively oriented literary programs improved ToM, emotion understanding, and self-reported insight in children and adolescents](expressive-literary-programs-improve-tom-empathy.md) — related
+- [Lifetime exposure to narrative fiction correlates with ToM and empathy, but correlational designs preclude causal conclusions](fiction-exposure-correlates-tom-empathy.md) — related

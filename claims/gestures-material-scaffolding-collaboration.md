@@ -48,3 +48,4 @@ The review attributes, citing Goldin-Meadow and colleagues and Roth's review, th
 - [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](young-children-collaborative-gestures-mr-science.md) — related
 - [Much bodily-material coordination in touchscreen collaboration occurs in the space off the screen](bodily-material-interaction-off-screen.md) — related
 - [Collaborative speech strongly co-occurs with actions on virtual objects and virtual hand gestures in shared VR geometry tasks](speech-co-occurs-with-actions-and-gestures-shared-vr.md) — related
+- [Gesturing during learning improves retention and reduces cognitive load](gesturing-during-learning-retention-load.md) — related

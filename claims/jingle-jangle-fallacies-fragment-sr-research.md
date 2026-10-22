@@ -48,3 +48,4 @@ Theoretical argument in the review's introduction defining the jingle fallacy an
 - [Curiosity is a special case of interest, with the two constructs overlapping in a part-whole rather than mutually exclusive relationship](curiosity-special-case-of-interest.md) — related
 - [Instruments show conceptual inconsistency: the same terms label different competence aspects, and disciplinary origin does not significantly correlate with definition or terminology choice](inconsistent-terminology-competence-aspects-autism-instruments.md) — a narrower finding that bears on this claim
 - [SR mechanisms across the four traditions intersect in redundant, complementary, and compensatory ways](sr-traditions-redundant-complementary-compensatory-interactions.md) — related
+- [Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions](jingle-jangle-motivation-constructs.md) — related

@@ -48,3 +48,4 @@ Voxel-based lesion-mapping study of 33 individuals with post-stroke dysgraphia, 
 - [Orthographic working memory deficits in dysgraphia arise primarily from lesions of the left parietal cortex centered on the intraparietal sulcus](orthographic-wm-deficits-left-parietal-ips.md) — a narrower finding that bears on this claim
 - [Orthographic long-term memory deficits in dysgraphia are centered in the left posterior inferior frontal region or left ventral temporal cortex](orthographic-ltm-deficits-frontal-ventral-temporal.md) — a narrower finding that bears on this claim
 - [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](wm-distinct-from-stm-subsystems-function.md) — related
+- [Standard unconstrained neural networks do not naturally separate working memory from long-term memory or impose human-like capacity limits](unconstrained-neural-networks-lack-memory-capacity-limits.md) — related

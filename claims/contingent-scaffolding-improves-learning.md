@@ -193,3 +193,5 @@ Finally, van de Pol et al. treat contingency as definitionally necessary for sca
 - [Dynamic (adaptive) scaffolding is linked to stronger effects of ICT-supported writing interventions](dynamic-scaffolding-stronger-writing-effects.md) — related
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](fading-out-prompts-beat-permanent-prompts.md) — related
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — reports the opposite
+- [Adaptive fading adjusted to discourse quality is reported as more effective than fixed fading regimes for developing internal script components, but long-term evidence is lacking](adaptive-fading-beats-fixed-regimes-short-term.md) — a narrower finding that bears on this claim
+- [Expert modeling, feedback, hints, and multiple strategies improve cognitive outcomes, but question prompts show no evident difference from control](scaffolding-strategy-moderator-question-prompts-null.md) — related

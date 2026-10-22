@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 411 claims (196 for, 194 mixed, 21 against) · 209 studies (102 causal, 46 associational, 21 review, 15 theoretical, 10 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 77 of 209 report an effect size · 404 claims rest on one study
+> **Evidence** · 420 claims (200 for, 199 mixed, 21 against) · 212 studies (102 causal, 47 associational, 23 review, 15 theoretical, 10 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 77 of 212 report an effect size · 413 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -454,6 +454,15 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Certainty predicts diagnostic performance; mental effort adds no predictive value beyond certainty](../claims/certainty-predicts-performance-effort-adds-nothing.md) [~W]
 - [The largest reported effects came from interventions training reflection on own learning and teaching through metacognitive judgements (Michalsky 2021: d = 3.12; Pieschl et al. 2021: d = 2.9)](../claims/metacognitive-judgement-reflection-interventions-largest-effects.md) [+W]
 - [Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups showed no statistically significant change (Experiment 1)](../claims/individual-feedback-changes-retrieval-practice-beliefs-only-for-beneficiaries.md) [~W]
+- [Delayed diagram completion improves students' relative monitoring accuracy of text comprehension compared with no diagramming](../claims/delayed-diagram-completion-improves-relative-monitoring-accuracy.md) [+M] — attached 2026-10-22 from Janneke van de Pol (2020), which proposed "Cue utilization framework for monitoring accuracy in learning from text"; tests this page's relationship.
+- [Concept mapping during reading, without access to the map during judgment, improves students' relative monitoring accuracy](../claims/concept-mapping-without-access-improves-monitoring-accuracy.md) [+M] — attached 2026-10-22 from Janneke van de Pol (2020), which proposed "Cue utilization framework for monitoring accuracy in learning from text"; tests this page's relationship.
+- [Instructing students to draw relations between text ideas (organizational drawing) improves relative monitoring accuracy more than representational drawing](../claims/organizational-drawing-instruction-improves-monitoring-accuracy.md) [+M] — attached 2026-10-22 from Janneke van de Pol (2020), which proposed "Cue utilization framework for monitoring accuracy in learning from text"; tests this page's relationship.
+- [For prediction judgments on factual questions, males and learners with lower WMC and lower topic knowledge, but higher self-perceived topic knowledge and self-perceived metacomprehension ability, showed stronger overestimation](../claims/factual-prediction-bias-predictors.md) [~W] — attached 2026-10-22 from Stefanie Golke et al. (2022), which proposed "Cue-utilization framework extended to learner characteristics as sources of judgment bias in metacomprehension".
+- [For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies contributed to stronger overestimation, with openness contributing only for predictions](../claims/inference-bias-predictors.md) [~W] — attached 2026-10-22 from Stefanie Golke et al. (2022), which proposed "Cue-utilization framework extended to learner characteristics as sources of judgment bias in metacomprehension".
+- [Effects of gender and self-perceived metacomprehension ability on bias arose mainly from judgment magnitude, whereas WMC and topic knowledge also affected performance](../claims/bias-mechanisms-magnitude-versus-performance.md) [~W]
+- [Metacognition mediates the relationship between EF and SRL](../claims/metacognition-mediation-ef-srl.md) [+W]
+- [Significant learner characteristics explained 17% and 14% of variance in prediction bias and 11% and 12% in postdiction bias, so characteristics were slightly more relevant for predictions](../claims/variance-explained-judgment-bias.md) [~W]
+- [Boundary conditions: explicit relation-focused instructions and no access to products during judgment are needed for mapping and drawing to improve monitoring accuracy](../claims/mapping-drawing-boundary-conditions-instructions-and-retrieval.md) [~W]
 
 ## The evidence by question
 
