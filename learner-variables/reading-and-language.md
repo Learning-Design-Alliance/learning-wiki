@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 180 claims (115 show a difference, 26 mixed, 39 no difference) · 132 studies (34 causal, 30 associational, 29 quant-synthesis, 24 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 30 of 132 report an effect size · 171 claims rest on one study
+> **Evidence** · 182 claims (116 show a difference, 26 mixed, 40 no difference) · 133 studies (35 causal, 30 associational, 29 quant-synthesis, 24 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 30 of 133 report an effect size · 173 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -231,6 +231,8 @@ What a learner can read without effort, and whether the language of instruction 
 - [Goal setting combined with performance feedback showed a positive effect on reading fluency](../claims/goal-setting-plus-performance-feedback-fluency.md) [+W] — instruction changes it
 - [An instructional focus on advanced reading abilities benefits poor comprehenders while good readers suffer under that focus](../claims/advanced-reading-focus-benefits-poor-comprehenders.md) [~M] — an instructional effect differs with it
 - [Topical vocabulary knowledge is positively associated with adolescents' multiple-source integration, evaluation, and synthesis performance](../claims/topical-vocabulary-associated-with-multiple-source-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Decoding ability did not predict cognitive load directly or through interaction with modality, contradicting the hypothesis that weak decoding raises reading effort](../claims/decoding-no-cognitive-load-effect.md) [-M] — learners who differ on it differ in outcomes
+- [Reading comprehension predicted retrieval, transfer, and retention more strongly than decoding, with a weaker modality interaction favoring lower-comprehension children in retention](../claims/reading-comprehension-predicts-multimedia-learning.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

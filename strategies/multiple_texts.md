@@ -59,9 +59,11 @@ Multiple texts push learners beyond single-document comprehension toward the dis
 6. Require a synthesis product — written integration, annotated diagram, or sketch — that cites multiple sources and addresses the conflict explicitly.
 
 ## Related Strategies
+
 - **Document-Based Questions (DBQs)** — a formalized assessment version of multiple-texts work used in history education
 - **Jigsaw reading** — distributes texts across learners, making cross-text synthesis socially required
 - **Case-based discussion** — multiple documents as evidence within a single case analysis
+- [Combine conflicting-document discussion, declarative source knowledge, and contrasting-case practice to train source evaluation](combine-conflict-discussion-declarative-knowledge-contrasting-cases.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the curated text set is the raw material

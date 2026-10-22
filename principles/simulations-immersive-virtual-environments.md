@@ -360,6 +360,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Mentor Support in Self-Paced Online Learning](../patterns/mentor-support-in-self-paced-online-learning.md) — who guides and reviews a self-paced learner's virtual-lab work, and on which signals.
 - [Buoyancy physics virtual lab with variable datasheet](../designs/buoyancy-physics-virtual-lab-datasheet.md)
 - [Use advanced immersive learning technologies as research and learning tools to deliver developmentally-appropriate metacognitive scaffolding](../strategies/immersive-tech-metacognitive-scaffolding-strategy.md)
+- [Text-based heterogeneity simulation with simulated peer feedback](../designs/heterogeneity-simulation-written-feedback-intervention.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

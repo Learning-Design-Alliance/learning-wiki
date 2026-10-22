@@ -50,3 +50,4 @@ Pooled estimate from the three-level meta-analysis: "r = 0.190, 95% CI [0.015, 0
 - [Performance goals show heterogeneous, near-zero average associations with academic dishonesty](performance-goals-heterogeneous-dishonesty.md) — related
 - [Mastery-avoidance goals show no significant association with academic dishonesty](mastery-avoidance-null-dishonesty.md) — related
 - [Academic dishonesty measure type moderates performance goal associations: behavioral and intention measures reveal positive links that self-reports mask](dishonesty-measure-type-moderates-performance-goals.md) — related
+- [Goal profiles differ between effective and ineffective CL teams: mastery and social responsibility goals prevail in effective teams, entertainment, certificate and work avoidance goals in ineffective teams](cl-goal-profiles-effective-ineffective-teams.md) — related

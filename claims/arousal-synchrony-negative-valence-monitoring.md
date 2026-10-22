@@ -59,3 +59,4 @@ GEE model predicting negative valence monitoring duration from physiological mea
 - [Students' monitoring frequency during the collaborative exam was significantly and positively correlated with their number of EDA peaks.](monitoring-frequency-correlates-eda-peaks.md) — related
 - [Individual participation in monitoring processes was consistent with physiological arousal, suggesting an observable indicator of participation](physiological-arousal-consistent-with-monitoring-participation.md) — related
 - [Physiological synchrony during collaborative interaction shows initial positive correlations with collaboration quality, task performance, and learning gains](physiological-synchrony-collaboration-quality-correlation.md) — related
+- [Electrodermal activity during learning events shows no robust association with post-event emotional valence](eda-not-robustly-associated-with-post-event-valence.md) — related

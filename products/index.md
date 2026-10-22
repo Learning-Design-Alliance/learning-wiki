@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1838 entries** · 0 stable · 1838 in review · 0 drafts
+**1840 entries** · 0 stable · 1840 in review · 0 drafts
 
 ---
 
@@ -190,6 +190,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [California's job-embedded administrator induction model](californias-job-embedded-administrator-induction-model.md) - California's two-year induction programme for Administrative Services Credential holders, administered through Commission-approved providers and combining individualized coaching, professional development, and standards-aligned assessments.
 * [California's Statewide System of Support (SSOS)](californias-statewide-system-of-support-ssos.md) - A California state-run system coordinated by the CCEE, CDE, and SBE that provides tiered technical assistance, tools, and resources to local educational agencies and schools.
 * [CALPADS student-level longitudinal course record dataset](calpads-student-level-longitudinal-course-record-dataset.md) - A California Department of Education administrative dataset containing student-level longitudinal K–12 course records for federal reporting and education research.
+* [Cambridge Oracy Assessment Toolkit](cambridge-oracy-assessment-toolkit.md) - A research-informed set of teacher-administered tasks and procedures developed by Cambridge researchers for assessing the spoken-language skills of students aged 11–12.
 * [Canfield's Learning Styles Inventory and Instructional Styles Inventory](canfields-learning-styles-inventory-and-instructional-styles-inventory.md) - A pair of multidimensional inventories developed by Canfield to assess students' learning styles and teachers' instructional styles and compare their congruence for instructional counselling.
 * [Capacity Building for Strategic Learning (CBSL) pilot](capacity-building-for-strategic-learning-cbsl-pilot.md) - A Mathematica and Catalyst:Ed programme, supported by the Bill & Melinda Gates Foundation, that built nine K–12 education grantees’ equity-centered strategic-learning capacity through project scoping, provider matching, cohort learning, and thought partnership.
 * [CAPIT Reading](capit-reading.md) - CAPIT Reading is a blended supplemental PK–3 phonics programme providing explicit, systematic Sound-to-Print instruction through individualized digital learning, immediate feedback, and educator data.
@@ -1891,6 +1892,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [10-item self-report questionnaire for critical use of genAI](10-item-self-report-questionnaire-for-critical-use-of-genai.md) - A 10-item, 5-point Likert self-report questionnaire developed by Markus H.
 * [15-item theory-based cognitive load questionnaire](15-item-theory-based-cognitive-load-questionnaire.md) - A Krieglstein et al.
 * [168-essay three-draft-type corpus with standardized ChatGPT-4 revision prompt](168-essay-three-draft-type-corpus-with-standardized-chatgpt-4-revision-prompt.md) - A research dataset created by Zhao et al.
+* [18-item engagement rating list for observing CL engagement](18-item-engagement-rating-list-for-observing-cl-engagement.md) - An 18-item, rater-administered observation instrument developed by Hijzen et al.
 * [1997 Improving Chicago's Schools Individual School Report](1997-improving-chicagos-schools-individual-school-report.md) - A school-level reporting instrument developed by Anthony Bryk and colleagues that synthesizes student and teacher survey responses for comparison, self-analysis, and school-improvement planning.
 * [2003 Improving Chicago's Schools survey](2003-improving-chicagos-schools-survey.md) - A Chicago Public Schools survey administered to students, teachers, and principals in 2003 to collect information about school experiences, instruction, professional development, and working conditions.
 * [2005 Improving Chicago's Schools survey](2005-improving-chicagos-schools-survey.md) - A spring 2005 survey administered across Chicago Public Schools by the Consortium on Chicago School Research to collect reports from students, teachers, and principals about school experiences, instruction, professional development, and working conditions.

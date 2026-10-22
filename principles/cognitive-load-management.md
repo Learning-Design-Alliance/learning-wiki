@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 75 claims (32 for, 40 mixed, 3 against) · 64 studies (27 causal, 15 review, 10 quant-synthesis, 9 theoretical, 2 associational, 1 design), `q1`–`q4` · 23 of 64 report an effect size · 66 claims rest on one study
+> **Evidence** · 76 claims (32 for, 41 mixed, 3 against) · 65 studies (28 causal, 15 review, 10 quant-synthesis, 9 theoretical, 2 associational, 1 design), `q1`–`q4` · 23 of 65 report an effect size · 67 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Presenting primary knowledge first and then secondary knowledge was more efficient in both performance and motivation](../claims/primary-first-sequencing-benefits.md) [+W]
 - [Students invest more mental effort in paper-based questions than in equivalent computer-based questions](../claims/greater-mental-effort-paper-questions.md) [~W]
 - [Perceived task difficulty relates to cognitive strategy use with both a linear and a negative quadratic (inverted U) component, and the quadratic relationship is fully mediated by cognitive load](../claims/task-difficulty-inverted-u-cognitive-strategies.md) [~W]
+- [Fifth and sixth graders showed higher delayed retention and lower cognitive load when learning science from videos than from illustrated texts](../claims/video-better-retention-lower-load-classroom.md) [~W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

@@ -97,3 +97,4 @@ The chapter reports Rohrer et al. (2010), where "this retrieval practice activit
 - [Practice test format moderates the testing effect: mixed-format (g = 0.80) and multiple-choice (g = 0.70) practice tests produced larger effects than short-answer tests (g = 0.48)](practice-test-format-moderates-effect.md) — reports the opposite
 - [Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing](tap-identical-formats-stronger-effect.md) — reports the opposite
 - [Retrieval-based learning research emphasizes both direct and indirect effects of retrieval on learning](retrieval-based-learning-direct-indirect-effects.md) — related
+- [No intervention benefits on source references in students' written conclusions (far transfer question)](sourcing-intervention-no-far-transfer-benefit.md) — related

@@ -47,3 +47,5 @@ Pearson correlation between mothers' and children's variables (Table 3) in the s
 - [Maternal education has the largest peak association with cognitive development: a high-school-to-college increase predicts about 0.4 SD higher reading and math scores at the peak.](maternal-education-largest-peak-association.md) — related
 - [Maternal cognitive support was only modestly associated with emotional support and largely independent of intrusiveness and negativity](cognitive-support-largely-independent-of-emotional-support.md) — related
 - [Higher levels of student involvement in self-monitoring lead to stronger intervention effects (preliminary evidence)](student-involvement-stronger-effects.md) — related
+- [Maternal help in Grade 2 negatively predicts children's task persistence in Grade 3, with no prediction from Grade 3 to Grade 4](maternal-help-predicts-lower-task-persistence.md) — related
+- [Maternal monitoring does not predict children's task persistence at any measurement point](monitoring-no-effect-task-persistence.md) — related

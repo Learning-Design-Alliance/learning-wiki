@@ -71,3 +71,4 @@ The chapter reports Smith et al. (2016), in which "prompting students to describ
 - [Adopting mastery goals rather than performance goals during initial learning promotes transfer](mastery-goals-promote-transfer.md) — related
 - [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — related
 - [Retrieval practice improved literal premise recall but did not improve deductive inference transfer compared to restudy](retrieval-practice-premise-recall-not-inference-transfer.md) — related
+- [No intervention benefits on source references in students' written conclusions (far transfer question)](sourcing-intervention-no-far-transfer-benefit.md) — related

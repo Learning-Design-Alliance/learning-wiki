@@ -47,3 +47,4 @@ Procedural note from the study: in the low-guidance condition's Phase 4, redunda
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](low-guidance-longer-time-on-task.md) — related
 - [Preceding high guidance with low guidance conferred no advantage for children's CVS learning](no-advantage-low-before-high-guidance.md) — related
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a broader claim this one bears on
+- [Mathemathantic effects: instruction can deteriorate learning when it takes over strategies students already master](mathemathantic-effects-instruction-takes-over-strategies.md) — related

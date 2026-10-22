@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**607 entries** · 0 stable · 607 in review · 0 drafts
+**608 entries** · 0 stable · 608 in review · 0 drafts
 
 ---
 
@@ -387,6 +387,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Multimodal analysis](multimodal-analysis.md) - Multimodal analysis is one of three methodological advances the report highlights, defined as \"Integrating multiple streams of data, such as audio, video, eye gaze, sensors, and clickstream data.\" The introduction elaborates it as \"the study of learning with data streams that include physical moveme
 * [Multimodal engagement-prediction framework with Perceiver IO fusion, hierarchical Bayesian participant context, and uncertainty-aware heads](multimodal-engagement-prediction-framework-with-perceiver-io-fusion-hierarchical-bayesian.md) - A computational framework that jointly predicts a continuous engagement score in [1,5] and a binary label from tutoring-video clips.
 * [Multiple-design-element interrupted time series evaluation](multiple-design-element-interrupted-time-series-evaluation.md) - Because the basic single-group ITS depends on extrapolating the pretest functional form as a counterfactual, an assumption the authors call problematic, evaluators should add multiple design elements to the basic ITS structure.
+* [Multivariate Bayesian Causal Forests](multivariate-bayesian-causal-forests.md) - This study adopts a multivariate extension of Bayesian Causal Forests (BCF), a non-parametric causal inference machine learning model built on Bayesian Additive Regression Trees.
 * [Multivariate true score model for achievement and growth norming](multivariate-true-score-model-for-achievement-and-growth-norming.md) - The report uses a model-based approach in which observed scores are decomposed into true scores and error scores, with the standard error of measurement introduced so that imprecision of observed scores is accounted for.
 * [Mutualistic network approach to motivation-achievement relations](mutualistic-network-approach-to-motivation-achievement-relations.md) - The review advocates a network approach in which motivation and achievement constructs are nodes and bidirectional partial correlations are edges, so constructs emerge empirically as clusters rather than being assumed a priori.
 

@@ -65,6 +65,7 @@ Interleaving works because it trains problem *identification* alongside problem 
 - [Comparing Cases](../elements/comparing-cases.md) — side-by-side contrast trains the same discrimination skill with more scaffolding
 - [Scaffolded Difficulty Progression](scaffolded-difficulty-progression.md) — sequencing within a type, complementary to sequencing across types
 - [Include a small block of problems of a new skill at the start of an assignment, then interleave the rest](small-initial-block-then-interleave.md)
+- [Combine conflicting-document discussion, declarative source knowledge, and contrasting-case practice to train source evaluation](combine-conflict-discussion-declarative-knowledge-contrasting-cases.md)
 
 ## Examples
 - **Rohrer's interleaved math workbooks** — Algebra and geometry problem sets rewritten so each page mixes previously taught problem types; delayed test scores roughly doubled relative to blocked versions of the same problems (https://sites.usf.edu/rohrer/).

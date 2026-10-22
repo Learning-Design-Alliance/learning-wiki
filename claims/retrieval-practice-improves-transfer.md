@@ -122,3 +122,4 @@ Participants studied prose passages and then either repeatedly restudied them or
 - [Higher-level quiz questions engage learners in generative activities as well as retrieval](higher-level-quiz-questions-engage-generative-activities.md) — related
 - [Without initial instruction, repeated worked examples produce better generalization than repeated retrieval practice](repeated-worked-examples-beat-repeated-retrieval-without-instruction.md) — reports the opposite
 - [When learners receive initial instruction, retrieval practice yields better generalization than worked examples regardless of item variability](retrieval-practice-beats-worked-examples-with-initial-instruction.md) — a narrower finding that bears on this claim
+- [Studying with the material available during post-testing yielded higher post-test and delayed retention scores but worse transfer than retention-based studying](material-availability-studying-tradeoffs.md) — related

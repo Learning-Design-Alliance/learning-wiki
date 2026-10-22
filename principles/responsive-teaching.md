@@ -170,6 +170,7 @@ Visible thinking, the teacher's accurate reading of it, a well-chosen move, the 
 - Math talk classrooms that use learner solutions as the basis for whole-group discussion.
 - Problem sequences that move from familiar contexts toward more abstract structures.
 - [JiTT: a feedback loop between Web-based pre-class assignments and classroom instruction](../designs/jitt-web-classroom-feedback-loop.md)
+- [Use heterogeneity simulations or real peer feedback in university teacher education to promote heterogeneity-responsive teaching beliefs](../strategies/heterogeneity-simulation-teacher-education-strategy.md)
 
 ### Illustrative
 

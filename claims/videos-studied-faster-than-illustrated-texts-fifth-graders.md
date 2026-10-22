@@ -49,3 +49,4 @@ Mixed-effects analysis of frame-by-frame coded screen recordings from a within-s
 - [Faster initial-pass studying rate predicted better retention, delayed retention, and transfer and lower cognitive load, but the effect was mostly due to modality](faster-studying-rate-predicts-outcomes-and-load.md) — related
 - [Videos were especially beneficial for slower readers, with the largest studying-rate advantages at the lowest percentiles](videos-especially-beneficial-slower-readers.md) — a narrower finding that bears on this claim
 - [Preservice teachers rated the video as simpler and more superficial than the text with the same content](video-rated-simpler-than-text-study2.md) — related
+- [Fifth and sixth graders showed higher delayed retention and lower cognitive load when learning science from videos than from illustrated texts](video-better-retention-lower-load-classroom.md) — related

@@ -158,3 +158,4 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 - [Parental home supervision has the weakest relationship with students' academic achievement among involvement components](parental-home-supervision-weakest-relationship.md) — related
 - [Text-message alerts to parents about incomplete middle-school homework raise student performance](parent-text-alerts-incomplete-homework-raise-performance.md) — a narrower finding that bears on this claim
 - [All participating girls reported parents helping them navigate school-based conflict, with parents advising silence or non-engagement as a protective strategy](parental-silence-advice-protective-school-conflict.md) — related
+- [Students from advantaged socioeconomic backgrounds do not benefit significantly more from homework than their peers in eighth grade](ses-does-not-moderate-homework-benefit-eighth-grade.md) — related

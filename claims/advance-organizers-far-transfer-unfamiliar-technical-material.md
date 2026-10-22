@@ -47,3 +47,4 @@ The review reports Mayer's (1979) argument that organizers work only when learne
 - [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](activation-improves-learning.md) — related
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — related
 - [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) — related
+- [No intervention benefits on source references in students' written conclusions (far transfer question)](sourcing-intervention-no-far-transfer-benefit.md) — related

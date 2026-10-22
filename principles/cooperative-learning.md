@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (12 for, 18 mixed) · 29 studies (12 quant-synthesis, 10 causal, 5 review, 2 design), `q2`–`q4` · 11 of 29 report an effect size · 23 claims rest on one study
+> **Evidence** · 31 claims (12 for, 19 mixed) · 30 studies (12 quant-synthesis, 10 causal, 5 review, 2 design, 1 qualitative), `q2`–`q4` · 11 of 30 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -101,6 +101,7 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [Across cultures, classroom arrangements facilitating cooperative learning are more effective in supporting motivation and achievement than individual or competitive goal structures](../claims/cooperative-learning-more-effective-than-competitive-structures.md) [+W]
 - [Individual rewards yield significant mCSCL effects while group reward methods do not](../claims/mcscl-individual-rewards-significant.md) [~W]
 - [Individualized instruction shows low effects compared to cooperative and collaborative learning](../claims/individualized-instruction-low-effects-versus-collaborative.md) [+W]
+- [Students explain effective and ineffective cooperative learning mainly by instructional conditions: type of task, teacher, and group composition are the most frequently mentioned factors](../claims/instructional-conditions-explain-cl-quality.md) [~W]
 
 ## Related Principles
 

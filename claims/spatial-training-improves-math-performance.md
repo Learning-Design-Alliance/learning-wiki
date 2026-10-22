@@ -73,3 +73,4 @@ This meta-analysis pooled 29 controlled pre-post studies (N = 3,765, k = 89 effe
 - [Evidence for spatial training improving STEM achievement is promising but insufficient; rigorous research is still needed](spatial-training-stem-achievement-evidence-limited.md) — related
 - [Working memory training shows short-term near-transfer gains but no compelling evidence of consistent long-term academic achievement gains](working-memory-training-no-long-term-academic-gains.md) — related
 - [Transfer-outcome format can favor symbolic controls over manipulative conditions (transfer-appropriate processing), potentially explaining inconsistent transfer findings](transfer-appropriate-processing-manipulatives-inconsistent-transfer.md) — related
+- [Trained students outperformed controls at selecting the more reliable of two contradictory texts, at both post-tests](sourcing-intervention-near-transfer-accuracy.md) — related

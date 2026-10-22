@@ -54,6 +54,7 @@ The intervention combined several instructional methods: an online inquiry task 
 
 - [Structuring Group Work](structuring-group-work.md)
 - [Collaborative Strategic Reading](../products/collaborative-strategic-reading.md)
+- [Combine conflicting-document discussion, declarative source knowledge, and contrasting-case practice to train source evaluation](combine-conflict-discussion-declarative-knowledge-contrasting-cases.md)
 
 ## Examples
 -

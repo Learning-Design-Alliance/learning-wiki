@@ -58,8 +58,10 @@ Comparing multiple sources shifts learners from single-text comprehension to *mu
 5. Require a synthesis product: a short written or oral judgment of which source is most reliable and why, using evidence from the comparison ([Argument Construction](../elements/argument-construction.md)).
 
 ## Related Strategies
+
 - [Case-Based Learning](../patterns/case-based-learning.md) — multiple sources often constitute the case materials; comparison deepens case analysis
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — comparing two accounts is a structural alignment task, the same mechanism that powers analogical learning
+- [Combine conflicting-document discussion, declarative source knowledge, and contrasting-case practice to train source evaluation](combine-conflict-discussion-declarative-knowledge-contrasting-cases.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the source set is the raw material

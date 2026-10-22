@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 121 claims (56 for, 56 mixed, 9 against) · 51 studies (20 causal, 13 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 18 of 51 report an effect size · 114 claims rest on one study
+> **Evidence** · 122 claims (57 for, 56 mixed, 9 against) · 52 studies (21 causal, 13 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 52 report an effect size · 115 claims rest on one study
 
 ## Conditional relationship
 
@@ -103,6 +103,7 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [Covert retrieval is the most time-efficient practice strategy, yielding the largest gains per minute of practice for both terms and definitions](../claims/covert-retrieval-most-efficient-gains-per-minute.md) [~M] — attached 2026-10-21 from Michelle L. Rivers et al. (2025), which proposed "Students should prioritize overt retrieval when mastering complex information such as definitions".
 - [For incoherent text presented as a list of facts, testing slows the rate of forgetting compared to restudy](../claims/incoherent-material-testing-slows-forgetting.md) [+W] — attached 2026-10-22 from de Jonge et al. (2015), which proposed "Use completion tests for retention of unconnected materials rather than highly structured texts"; tests this page's relationship.
 - [For a highly coherent text, taking a fill-in-the-blank practice test yields no retention benefit and does not slow forgetting compared to restudy](../claims/coherent-text-no-testing-benefit-fill-in-blank.md) [~W] — attached 2026-10-22 from de Jonge et al. (2015), which proposed "Use completion tests for retention of unconnected materials rather than highly structured texts"; tests this page's relationship.
+- [Without initial instruction, varied retrieval practice matches varied worked examples and beats repeated retrieval practice for generalization](../claims/varied-retrieval-practice-matches-varied-worked-examples.md) [+M] — attached 2026-10-22 from Meng Cao et al. (2026), which proposed "Align learning strategy choice with the instructional goal: induction versus memory consolidation"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

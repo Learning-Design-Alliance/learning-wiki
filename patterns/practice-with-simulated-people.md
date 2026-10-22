@@ -153,7 +153,9 @@ Record: **performance and rubric → simulated person (who or what, disclosure r
 This pattern is scoped to rehearsal of an interaction with a person who responds. Procedural simulation with mannequins and part-task trainers, written cases with no one to talk to, simulations of physical systems, and assessment of competence for certification need distinct configurations and evidence. The wiki records no randomized comparison of an LLM role-play partner with a human standardized patient on a transferred communication outcome, no study of mixed-reality avatar classrooms for teacher candidates, and no study in business or technology settings of practice with simulated clients or customers, and no controlled study of an AI conversation partner for second-language speaking (only a review's thematic coding). The checks on the simulated person (content accuracy, push-back, fidelity of a simulated learner) rest on evaluations of the agents themselves, not on what learners gained from better-checked ones. The diagnostic branches and doses above remain to be tested with actual learners.
 
 ## Examples
+
 - [Realism, control and feedback in teacher classroom-management training](../designs/three-elements-effective-training-realism-control-feedback.md) — the 3B virtual classroom with simulated pupils
+- [Text-based heterogeneity simulation with simulated peer feedback](../designs/heterogeneity-simulation-written-feedback-intervention.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)
