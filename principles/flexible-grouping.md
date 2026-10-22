@@ -31,7 +31,7 @@ sources:
 # Flexible Grouping
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (18 for, 16 mixed, 3 against) · 40 studies (13 causal, 11 quant-synthesis, 7 review, 3 qualitative, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 9 of 40 report an effect size · 26 claims rest on one study
+> **Evidence** · 37 claims (18 for, 16 mixed, 3 against) · 42 studies (13 causal, 11 quant-synthesis, 9 review, 3 qualitative, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 9 of 42 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 

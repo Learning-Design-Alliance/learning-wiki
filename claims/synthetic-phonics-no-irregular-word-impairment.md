@@ -51,3 +51,4 @@ The article reports a null finding: "There was no evidence that the synthetic ph
 - [Gender differences in reading outcomes at age 10 depend on the type of phonics teaching received in early literacy programmes](gender-reading-outcomes-depend-on-phonics-method.md) — related
 - [Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not](systematic-phonics-benefits-spelling-and-reading.md) — related
 - [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — a broader claim this one bears on
+- [Over a decade of legally mandated synthetic phonics in England has not improved standardized reading outcomes (PIRLS, PISA, SATs)](england-mandated-phonics-no-standardized-outcome-gains.md) — related

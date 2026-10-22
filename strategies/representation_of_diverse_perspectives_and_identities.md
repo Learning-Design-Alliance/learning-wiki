@@ -65,6 +65,7 @@ Representation is not decorative: who appears in examples, whose knowledge is tr
 - [Incorporate culturally responsive strategies into adult immigrant instruction](culturally-responsive-strategies-adult-immigrant-instruction.md)
 - [Year-round integration of Black history, culture, and contributions across curriculum, environment, and programming](year-round-black-history-culture-integration.md)
 - [Embed integration elements in the robot's persona and background so multicultural inclusion is addressed within regular activities](embed-integration-elements-robot-persona.md)
+- [Belonging-Centered Instruction: real-world examples and integration of students' culture and community priorities into mathematics curricula](belonging-centered-instruction-components.md)
 
 ## Related Elements
 - [Case Studies](../elements/case-studies.md) — the primary vehicle for embedding multiple perspectives in authentic problems

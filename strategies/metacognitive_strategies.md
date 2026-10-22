@@ -12,7 +12,7 @@ generated:
 # Metacognitive Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 18 studies (7 quant-synthesis, 5 causal, 3 review, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 18 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 20 studies (7 quant-synthesis, 5 causal, 5 review, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 20 report an effect size
 
 ## Description
 Metacognitive strategies teach students to think about their thinking: to plan an approach before a task, monitor comprehension and progress during it, and evaluate outcomes and strategy effectiveness afterward. They range from embedded prompts and checklists to explicit instruction in self-regulation routines, and they extend to managing motivation and effort, not just cognition.

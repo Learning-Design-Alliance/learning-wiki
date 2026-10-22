@@ -119,7 +119,7 @@ The study that introduced the scaffolding metaphor. Researchers observed 3-, 4-,
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Must support be contingent on the learner's last response, rather than fixed?* This table gathers the studies behind this claim and the 27 narrower claims that bear on it: **31 distinct studies** (11 causal, 5 quant-synthesis, 5 qualitative, 4 review, 4 associational, 1 theoretical, 1 design), `q1`–`q4`, 5 of 31 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Must support be contingent on the learner's last response, rather than fixed?* This table gathers the studies behind this claim and the 27 narrower claims that bear on it: **33 distinct studies** (11 causal, 5 quant-synthesis, 5 review, 5 qualitative, 4 associational, 1 theoretical, 1 design, 1 kind not coded), `q1`–`q4`, 5 of 33 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -148,6 +148,8 @@ The study that introduced the scaffolding metaphor. Researchers observed 3-, 4-,
 | [Kulik & Fletcher 2016](https://doi.org/10.3102/0034654315581420) | q4 · quant-synthesis · r? | i2 · medium effect, median 0.66 SD | [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) (supports) |
 | [Kalyuga et al. 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | [Kalyuga et al. 1998](https://doi.org/10.1518/001872098779480587) | q3 · causal · r? | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
+| [Slava Kalyuga 2010](https://doi.org/10.1007/s11251-009-9102-0) | q2 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
+| [Leonard Tetzlaff 2021](https://doi.org/10.1007/s10648-020-09570-w) | q2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | [Renkl et al. 2002](https://doi.org/10.1080/00220970209599510) | q3 · causal · r? | i? | [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) (supports) |
 | [Jiajia Song 2026](https://doi.org/10.48550/arxiv.2603.26142) | q2 · causal · r1 | i? | [Coach-guided interactive teaching yields higher and more progressive recovery than static ](coach-guided-relearning-beats-static.md) (supports) |
 | [Kirk Vanacore 2026](https://doi.org/10.48550/arxiv.2602.19303) | q2 · review · r2 | i? | [Generative AI-generated hints can be as effective as human-generated hints for mathematics](genai-hints-effective-but-require-validation.md) (qualifies) |

@@ -146,3 +146,4 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 - [Multi-turn teaching by LLM teacher agents yields larger student gains than knowledge-point exposure alone](multi-turn-teaching-beats-knowledge-point-exposure.md) — related
 - [Pedagogical experts tutoring in biology generated less deep learning than less pedagogically expert, more interactive tutors](pedagogical-experts-less-deep-learning-tutoring.md) — related
 - [The review reports that college tutors who espoused a malleable view of intelligence to their tutees improved their own academic performance, with benefits for tutees as well](tutor-espousing-malleable-intelligence-gains.md) — related
+- [Teaching (writing a verbatim lecture script) produces better create question generation than explaining (writing a textbook explanation)](teaching-beats-explaining-question-generation.md) — related

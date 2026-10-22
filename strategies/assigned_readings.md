@@ -12,7 +12,7 @@ generated:
 # Assigned Readings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 17 studies (5 causal, 5 quant-synthesis, 4 review, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 17 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 19 studies (6 review, 5 causal, 5 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 19 report an effect size
 
 ## Description
 Assigned readings are texts — textbook chapters, articles, cases, or primary sources — that learners are expected to study independently before instruction. The strategy shifts first exposure to content outside of contact time, freeing synchronous sessions for application, discussion, and feedback. It is the backbone of [Flipped Classroom](../principles/flipped-learning.md) designs and the standard preparation mechanism for [Case-Based Learning](../patterns/case-based-learning.md).

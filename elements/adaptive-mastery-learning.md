@@ -13,7 +13,7 @@ generated:
 # Adaptive Mastery Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (12 for, 7 mixed, 1 against) · 27 studies (9 review, 7 quant-synthesis, 6 causal, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 27 report an effect size · 16 claims rest on one study
+> **Evidence** · 20 claims (12 for, 7 mixed, 1 against) · 29 studies (11 review, 7 quant-synthesis, 6 causal, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 16 claims rest on one study
 
 ## Description
 Adaptive mastery learning combines Bloom's mastery learning model — requiring demonstrated proficiency before advancing — with adaptive systems that adjust task difficulty, sequencing, and feedback to individual performance. The system continuously estimates what each learner knows and serves the next challenge at the frontier of their competence, advancing only when mastery criteria are met.

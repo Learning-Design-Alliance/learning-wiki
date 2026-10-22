@@ -75,3 +75,4 @@ Test-retest reliability with alternate forms across consecutive windows (Table 4
 - [The SYMP Test shows satisfactory test-retest reliability, with overall-score correlations between .72 and .86 across Grades 1–6](symp-test-reliable-test-retest-overall-scores.md) — related
 - [Spanish Math items show well-balanced difficulty and stable strong discrimination across 2024–2025 terms](spanish-math-item-difficulty-discrimination-stable.md) — related
 - [Measurement precision is strongest for students in the middle of the Spanish score distribution, with CSEM near the 3.3 RIT target](spanish-csem-middle-deciles-most-precise.md) — related
+- [Reliability estimates vary by region and instrument, with ARS showing α/ω = 0.90 and ABS α/ω = 0.82, and the evidence base geographically uneven](regional-instrument-reliability-variation.md) — related

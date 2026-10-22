@@ -13,7 +13,7 @@ generated:
 # Explicit Strategy Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 11 studies (4 quant-synthesis, 3 causal, 2 review, 2 theoretical), `q1`–`q4` · 4 of 11 report an effect size
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 13 studies (4 quant-synthesis, 4 review, 3 causal, 2 theoretical), `q1`–`q4` · 4 of 13 report an effect size
 
 ## Description
 Explicit strategy instruction teaches learners specific tools and techniques for solving problems and regulating their own learning. The instructor names the strategy, models its use (ideally with visible reasoning), provides guided practice with feedback, and — critically — explains *when* and *why* the strategy applies, so learners can deploy it independently across contexts. The goal is not just possession of a technique but conditional knowledge: knowing how, when, and why to use it.

@@ -51,3 +51,4 @@ Study characteristics reported in WWC Appendix A1: a quasi-experimental design i
 - Across two quasi-experimental studies, Istation Reading shows a weighted mean effect size of +0.08, qualifying it for a Promising evidence rating — related
 - [Alphabetics improvement-index findings for Waterford Early Reading Program™ were inconsistent across outcomes, ranging from –26 to +37 percentile points](werp-alphabetics-effects-vary-by-outcome.md) — related
 - [Waterford Early Reading Program™ showed no discernible effects on comprehension, with a small non-significant effect size on vocabulary](werp-no-discernible-comprehension.md) — related
+- [Attrition of 130 students (35%) between pretest and posttest was not systematically related to baseline characteristics](rct-attrition-35-percent-not-systematic.md) — related

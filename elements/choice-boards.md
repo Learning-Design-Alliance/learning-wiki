@@ -26,7 +26,7 @@ sources:
 # Choice Boards
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 7 studies (3 theoretical, 2 review, 1 causal, 1 quant-synthesis), `q1`–`q4` · 1 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 9 studies (4 review, 3 theoretical, 1 causal, 1 quant-synthesis), `q1`–`q4` · 1 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 A choice board is a visual matrix of learning activities — often a 3×3 "tic-tac-toe" grid — from which learners select a required subset (e.g., any three in a row, one from each column). It converts a single assigned task into a bounded set of options, giving learners autonomy over *how* they engage with content or demonstrate learning while the instructor retains control over *what* is learned.

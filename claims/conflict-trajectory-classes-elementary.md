@@ -68,3 +68,4 @@ Discussion summary of the growth mixture results: conflict trajectories were not
 - [Children with early behavioral, academic, and demographic risks are over-represented in adverse teacher-student relationship trajectories](risk-children-overrepresented-adverse-trajectories.md) — related
 - [Teacher-reported warmth follows two trajectory classes per gender: a normative high-declining class and a low-increasing class starting from lower warmth](warmth-trajectory-classes-elementary.md) — related
 - [The probability of school failure increases as a function of the timing and length of children's exposure to relational adversity](cumulative-relational-adversity-school-failure.md) — related
+- [Teacher-student relationships decline across middle and secondary school, characterised by less closeness and more conflict and distance](tsr-decline-middle-secondary-schools.md) — related

@@ -85,3 +85,4 @@ The review reports two findings from the same meta-analysis: explicit feedback b
 - [Prompts raised learners' pragmatic awareness of refusals more than explicit feedback or control after a 10-week treatment](prompts-beat-explicit-feedback-refusal-awareness.md) — related
 - [High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.](high-confidence-errors-improve-retention.md) — related
 - [Feature-focused information-literacy trainings appear effective, but lack delayed-posttest evidence](feature-focused-info-literacy-trainings-effective.md) — related
+- [Long-term effects of systematic phonics are short-lived, reducing from d = 0.29 immediately after training to d = 0.07 after about a year](suggate-phonics-long-term-effects-short-lived.md) — related

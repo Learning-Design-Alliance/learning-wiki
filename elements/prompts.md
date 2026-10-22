@@ -13,7 +13,7 @@ generated:
 # Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (11 for, 20 mixed, 2 against) · 36 studies (16 causal, 7 review, 6 quant-synthesis, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 8 of 36 report an effect size · 27 claims rest on one study
+> **Evidence** · 33 claims (11 for, 20 mixed, 2 against) · 37 studies (16 causal, 8 review, 6 quant-synthesis, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 8 of 37 report an effect size · 27 claims rest on one study
 
 ## Description
 A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed. Prompts range from simple procedural reminders ("check your units") to elaborative questions ("why does this solution work?") to metacognitive self-questioning stems ("what strategy am I using, and is it working?").

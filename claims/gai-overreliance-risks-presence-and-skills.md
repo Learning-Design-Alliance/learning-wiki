@@ -62,3 +62,4 @@ Authors' conceptual interpretation in the framework development section, not a t
 - [An epistemological account of human-GAI engagement lays a foundation for alternative approaches to teaching, assessment, professional development and AI governance](epistemological-gai-account-informs-teaching-assessment-governance.md) — related
 - [Critical disposition is least spontaneous when confronting one's most basic prejudices or deeply held convictions](critical-temper-weakest-on-basic-prejudices.md) — related
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — related
+- [Generative AI tools risk inducing overestimated abilities and diminishing training of foundational skills](generative-ai-overconfidence-risk.md) — related

@@ -50,3 +50,4 @@ Meta-regression from Table 2 controlling for log-centered test length. Language 
 - [Stealth assessment facets show good internal consistency (Cronbach's alpha = 0.76) while MicroDYN reliabilities were low in this middle-school sample](internal-consistency-stealth-versus-microdyn.md) — related
 - [A pilot study (N = 10) established timed-administration parameters, showing high internal consistency and minimal speededness for the SCS1 12-item subset](pilot-timed-scs1-subset-reliability-speededness.md) — related
 - [Open response format is associated with higher Alpha than multiple choice in knowledge tests](knowledge-test-alpha-response-format.md) — related
+- [Reliability estimates vary by region and instrument, with ARS showing α/ω = 0.90 and ABS α/ω = 0.82, and the evidence base geographically uneven](regional-instrument-reliability-variation.md) — related

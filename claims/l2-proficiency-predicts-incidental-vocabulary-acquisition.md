@@ -80,3 +80,4 @@ Webb et al. (2023) qualify this claim at the level of studies: across second-lan
 - [Adult (university) participants outperform kindergarten/elementary children in incidental spoken L2 word learning](adults-outperform-children-spoken-word-learning.md) — related
 - [Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)](little-decay-three-month-delayed-posttest-extensive-reading.md) — related
 - [Lexical adoption shows no significant condition effect after controlling for input volume, but AI-first participants adopted more words at the second dialogue position](lexical-uptake-no-condition-effect-after-controls.md) — related
+- [Extensive reading has a small, significant positive short-term effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons)](er-positive-effect-second-foreign-language.md) — related

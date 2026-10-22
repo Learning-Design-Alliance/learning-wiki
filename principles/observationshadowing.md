@@ -18,7 +18,7 @@ sources:
 # Observation/Shadowing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (10 for, 13 mixed) · 24 studies (4 causal, 4 review, 4 theoretical, 3 quant-synthesis, 3 associational, 3 qualitative, 3 design), `q1`–`q4` · 3 of 24 report an effect size · 20 claims rest on one study
+> **Evidence** · 23 claims (10 for, 13 mixed) · 26 studies (6 review, 4 causal, 4 theoretical, 3 quant-synthesis, 3 associational, 3 qualitative, 3 design), `q1`–`q4` · 3 of 26 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 

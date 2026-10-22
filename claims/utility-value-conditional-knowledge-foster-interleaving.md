@@ -69,3 +69,4 @@ Same two-experiment study by Abel et al. (2024), reporting the null effect of th
 - [Labelling mushrooms as poisonous versus edible successfully raised the perceived utility value of distinguishing, interest, and perceived authenticity in Experiment 1](utility-value-label-manipulation-check-exp1.md) — related
 - [Effort investment is driven differently in CLT (data-driven, task difficulty) versus SRL theories (goal-driven, motivation)](effort-drivers-data-driven-vs-goal-driven.md) — a broader claim this one bears on
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related
+- [GenAI-supported utility value reflection produced more favorable development of perceived utility value than GenAI-supported cognitive learning strategy prompting in secondary students](genai-utility-value-prompts-preserve-utility-value.md) — related

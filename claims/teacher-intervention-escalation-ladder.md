@@ -47,3 +47,4 @@ Qualitative interview finding (RQ2). Proactive teaching belonged almost entirely
 - [After formative intervention, the teacher's presentations shifted from instruction-only moves to including generative, confirming, reconstructing, and reorienting moves](epistemological-moves-shift-after-intervention.md) — related
 - [Reactive FOF is more time-consuming than proactive FOF, reducing opportunities to elaborate on preselected grammar points](reactive-fof-time-cost-fewer-opportunities.md) — related
 - [Teachers draw intervention boundaries by visibility, academic-versus-relational character, and a safety override, not by perceived harm](teachers-jurisdiction-tests-visibility-academic-safety.md) — related
+- [Experts respond to classroom events predictively and proactively via precursor detection, while novices are either unaware or reactively aware](expert-predictive-novice-reactive-decisions.md) — related

@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (11 for, 15 mixed, 4 against) · 36 studies (16 causal, 10 review, 6 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 9 of 36 report an effect size · 24 claims rest on one study
+> **Evidence** · 31 claims (12 for, 15 mixed, 4 against) · 37 studies (17 causal, 10 review, 6 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 9 of 37 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Gesture-enriched learning improves 8-year-olds' L2 vocabulary translation and free recall compared with non-enriched learning, persisting up to 6 months](../claims/gesture-enrichment-l2-vocabulary-children.md) [+W] — attached 2026-10-21 from Andrä et al. (2020), which proposed "Enrich auditorily presented L2 vocabulary with self-performed gestures or pictures to boost children's vocabulary memory over months"; tests this page's relationship.
 - [Gesture and picture enrichment produced similar benefits on children's L2 vocabulary learning, contrary to adult findings favoring gestures](../claims/gesture-picture-similar-benefits-children.md) [~W] — attached 2026-10-21 from Andrä et al. (2020), which proposed "Enrich auditorily presented L2 vocabulary with self-performed gestures or pictures to boost children's vocabulary memory over months".
 - [Both gesture and picture enrichment enhanced children's test performance compared with non-enriched learning, with benefits persisting up to 6 months for concrete and abstract words](../claims/enrichment-benefits-persist-six-months.md) [+W] — attached 2026-10-21 from Andrä et al. (2020), which proposed "Enrich auditorily presented L2 vocabulary with self-performed gestures or pictures to boost children's vocabulary memory over months"; tests this page's relationship.
+- [Audio-visual lecture clips produce better comprehension than audio-only clips, and the multimedia advantage holds at accelerated speed](../claims/audio-visual-outperforms-audio-only-at-speed.md) [+W] — attached 2026-10-22 from Ashley Chen et al. (2024), which proposed "Advise learners not to exceed 2x playback speed, and pair accelerated narration with visual content to protect comprehension"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -50,3 +50,8 @@ Which factors the review counts as spatial, and so which can be separated at all
 - A confirmatory factor analysis supported a two-factor Gf–Gc representation of the cognitive measures, with a significant .33 correlation between the factors — related
 - [Imagery and perceptual illusions each comprise multiple factors rather than the single CHC factors](multiple-imagery-and-illusion-factors.md) — related
 - [Structural equation models of RIF platform data support mental rotation and visualisation task groups as two discrete factors](rif-two-factor-discriminant-validity.md) — related
+- [Aggregating versus separating mental rotation and non-rotational spatial visualization factors can yield conflicting interpretations of their relevance to mathematics](factor-aggregation-changes-interpretations-schenck-2022.md) — related
+- [Available spatial instruments overrepresent mental rotation and spatial visualization and rarely test children or multiple subcomponents](instrument-gaps-overrepresentation-adult-bias.md) — related
+- [Confirmatory factor analysis failed to support the static-dynamic dimension of the 2x2 spatial classification framework in children](mix-2018-cfa-fails-static-dynamic-dimension.md) — related
+- [Spatial orientation/perspective-taking and spatial visualization/mental rotation are psychometrically and neurally dissociable skills](orientation-visualization-dissociation.md) — a broader claim this one bears on
+- [Twin and factor-analytic studies support a unitary single-factor model of spatial ability, as the review reports](unitary-single-factor-spatial-ability-evidence.md) — reports the opposite

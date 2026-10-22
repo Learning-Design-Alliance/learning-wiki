@@ -13,7 +13,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 21 claims (14 show a difference, 6 mixed, 1 no difference) · 12 studies (5 associational, 2 causal, 2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 4 of 12 report an effect size · 21 claims rest on one study
+> **Evidence** · 22 claims (14 show a difference, 7 mixed, 1 no difference) · 13 studies (5 associational, 2 causal, 2 design, 1 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 4 of 13 report an effect size · 22 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -57,6 +57,7 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [In chemistry cycle 1, students actively engaged in experimentation still did worse on the volume-rate item, with correct answers falling 6% from pre-test to post-test](../claims/active-engagement-insufficient-cycle1-volume-item.md) [-W] — instruction changes it
 - [Arithmetic skill may predict algebra understanding better than fraction conceptual knowledge or magnitude understanding](../claims/arithmetic-predicts-algebra-better-than-fraction-knowledge.md) [~M] — learners who differ on it differ in outcomes
 - [Fraction knowledge is consistently linked to algebra success, though findings vary by measure](../claims/fraction-knowledge-predicts-algebra.md) [~M] — learners who differ on it differ in outcomes
+- [The ratio–interactive-skills association may be partly or entirely attributable to small-study publication bias](../claims/publication-bias-ratio-association.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**976 entries** · 0 stable · 976 in review · 0 drafts
+**977 entries** · 0 stable · 977 in review · 0 drafts
 
 ---
 
@@ -286,6 +286,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Eco-feedback LLM interface with five latency-based eco modes and four sustainability visualizations](eco-feedback-llm-interface-five-eco-modes.md) - A live LLM chat interface in which \"Users can choose among multiple eco modes, each characterized by a distinct latency profile and corresponding carbon impact based on backend hardware configurations.\" Eco modes 1–5...
 * [Educational Design Research Studio (EDRS) for collaborative design work](educational-design-research-studio-edrs.md) - The Educational Design Research Studio (EDRS) is a technology-rich space, equipped with \"interactive surfaces, writable walls, an interactive whiteboard, a data projector, and iPads.\" The studios are meant to support...
 * [Educational Opportunity Program (EOP) at Stony Brook University](eop-stony-brook-support-program.md) - EOP is a state-sponsored access-and-support program at Stony Brook serving nearly 600 low-income students and students of color whose high school preparation was incomplete.
+* [Educator workshops on retrieval practice as the authors' science-communication vehicle](retrieval-practice-educator-workshops-sumeracki.md) - The authors report that their efforts to increase science communication with educators \"have included workshops\", through which they engage educators in conversation about implementing retrieval practice.
 * [Educator-guided architecture separating artifact-grounded diagnosis, pedagogical workflow control, and student-facing LLM generation](educator-guided-diagnosis-workflow-separation.md) - The architecture places a hidden, artifact-grounded diagnosis inside an explicit, stateful pedagogical workflow so the language model is not solely responsible for instructional strategy.
 * [Eight learner-centered design criteria for classroom proof assistants, organized under learning and usability goals](classroom-proof-assistant-design-criteria.md) - The article proposes a framework of two broad goals — \"learning: the tool should help students refine and improve their mathematical proof skills; and usability: the tool should not create unnecessary frictions in wri...
 * [Eight linked microsites organizing a place-based MAR time-travel journey from the Ordovician period to the present day](linked-microsites-time-travel-journey.md) - A microsite is defined as \"the intersection of the groups' interactions, the digital MAR content, and the physical setting.\" The Time Explorers app arranged eight such microsites in geologic-time order—Time Spiral Scu...

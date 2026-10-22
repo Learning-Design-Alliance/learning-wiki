@@ -31,7 +31,7 @@ sources:
 # Guided Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (6 for, 7 mixed) · 21 studies (8 causal, 5 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 1 of 21 report an effect size · 8 claims rest on one study
+> **Evidence** · 13 claims (6 for, 7 mixed) · 23 studies (8 causal, 7 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 1 of 23 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 

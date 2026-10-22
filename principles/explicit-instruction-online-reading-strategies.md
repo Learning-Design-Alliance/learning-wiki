@@ -22,7 +22,7 @@ sources:
 # Explicit Instruction: Online Reading Strategies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (15 for, 10 mixed) · 38 studies (15 causal, 10 quant-synthesis, 6 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 9 of 38 report an effect size · 15 claims rest on one study
+> **Evidence** · 25 claims (15 for, 10 mixed) · 40 studies (15 causal, 10 quant-synthesis, 8 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 9 of 40 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 

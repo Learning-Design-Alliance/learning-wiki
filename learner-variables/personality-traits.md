@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 48 claims (26 show a difference, 14 mixed, 8 no difference) · 22 studies (11 review, 5 associational, 3 quant-synthesis, 2 causal, 1 theoretical), `q2`–`q4` · 7 of 22 report an effect size · 48 claims rest on one study
+> **Evidence** · 51 claims (29 show a difference, 14 mixed, 8 no difference) · 23 studies (12 review, 5 associational, 3 quant-synthesis, 2 causal, 1 theoretical), `q2`–`q4` · 7 of 23 report an effect size · 51 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -83,10 +83,16 @@ Personality traits are relatively stable individual differences, most often meas
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](../claims/openness-language-stem-domain-moderation.md) [+M] — learners who differ on it differ in outcomes
 - [Personality changes achieved through digital VPC interventions persist, remaining sustained or amplified at three-month and one-year follow-ups](../claims/vpc-change-persistence-follow-ups.md) [+W] — instruction changes it
 - [Stable Dispositions such as conscientiousness predict academic success partly through effort, with some independence from cognitive ability](../claims/stable-dispositions-predict-academic-success-through-effort.md) [+M] — learners who differ on it differ in outcomes
+- [Conscientiousness is robustly associated with academic performance across primary, secondary, and tertiary education, with openness the next strongest predictor](../claims/conscientiousness-predicts-academic-performance-review.md) [+M] — learners who differ on it differ in outcomes
+- [In trait-change interventions, participants who completed more trait-relevant behavioural challenges showed greater trait change over 15 weeks](../claims/behavioural-challenges-produce-trait-change.md) [+M] — instruction changes it
+- [Personality traits change across the lifespan and in response to interventions, with the greatest change in adolescence and early adulthood](../claims/personality-traits-are-malleable.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 
 ## Examples
+
+- [Personalise learning by Big Five trait level: scaffold low-conscientiousness students and reduce failure salience for high-neuroticism students](../strategies/personalise-learning-by-big-five-traits.md)
+- [Secondary-school personality change intervention: teach traits, self-assess, nominate traits, and complete weekly trait-relevant challenges](../strategies/secondary-school-personality-change-challenges.md)
 
 ## Key Sources
 - Breit, M., Schneider, M., & Preckel, F. (2025). Mathematics achievement and learner characteristics: A systematic review of meta-analyses. *Learning and Individual Differences, 118*, 102621. [doi:10.1016/j.lindif.2024.102621](https://doi.org/10.1016/j.lindif.2024.102621)

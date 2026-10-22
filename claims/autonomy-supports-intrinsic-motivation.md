@@ -200,3 +200,4 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](autonomy-universality-meta-analytic-support.md) — related
 - [Motivation theories in education have converged on a learner-centered focus over recent decades](motivation-theories-converged-learner-centered.md) — a broader claim this one bears on
 - [Self-determination theory grew incrementally by adding mini-theories as evidence accumulated](sdt-grew-brick-by-brick.md) — related
+- [Perceived control and choice benefit motivation and simple-fact learning, but most students do not manage their learning effectively when given choice](choice-benefits-motivation-but-learners-manage-poorly.md) — a narrower finding that bears on this claim

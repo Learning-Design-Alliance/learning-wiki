@@ -12,7 +12,7 @@ generated:
 # Scaffolded Difficulty Progression
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 12 studies (5 review, 3 causal, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Scaffolded difficulty progression sequences instruction so that learners begin with simplified or partial versions of a task and move toward full complexity as competence develops. Difficulty is raised deliberately — through task complexity, novelty, support removal, or time pressure — and support ([Scaffolding](../principles/scaffolding.md), [Fading](../elements/fading.md)) is withdrawn in step with demonstrated mastery rather than on a fixed schedule.

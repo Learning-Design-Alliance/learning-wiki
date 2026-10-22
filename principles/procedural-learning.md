@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (15 for, 10 mixed, 1 against) · 42 studies (21 causal, 7 theoretical, 6 quant-synthesis, 6 review, 1 qualitative, 1 design), `q1`–`q4` · 4 of 42 report an effect size · 16 claims rest on one study
+> **Evidence** · 26 claims (15 for, 10 mixed, 1 against) · 44 studies (21 causal, 8 review, 7 theoretical, 6 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 44 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 

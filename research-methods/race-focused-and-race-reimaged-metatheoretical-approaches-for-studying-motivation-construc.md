@@ -26,7 +26,8 @@ The article distinguishes two metatheoretical approaches for educational researc
 - [Race-reimaging ultimately transforms a race-less construct into a race-focused construct](../claims/race-reimaging-creates-race-focused-constructs.md) [+W]
 
 ## Related Research Methods
--
+
+- [DeCuir-Gunby and Schutz's five purposes for considering race in educational psychology research](decuir-gunby-and-schutzs-five-purposes-for-considering-race-in-educational-psychology-rese.md)
 
 ## Key Sources
 - Jessica T. DeCuir-Gunby, Paul A. Schutz, Saba L. Modaressi. (2026). Racializing Motivation: A Race-Reimaged Framework of Belonging, Emoting, and Achieving Within STEM Higher Education Contexts. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10220-w

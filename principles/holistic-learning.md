@@ -18,7 +18,7 @@ sources:
 # Holistic Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (8 for, 9 mixed) · 21 studies (7 causal, 5 review, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 4 of 21 report an effect size · 12 claims rest on one study
+> **Evidence** · 17 claims (8 for, 9 mixed) · 23 studies (7 causal, 7 review, 5 theoretical, 4 quant-synthesis), `q1`–`q4` · 4 of 23 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 

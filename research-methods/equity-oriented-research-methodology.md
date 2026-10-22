@@ -33,7 +33,8 @@ Drawing on the National Academies of Sciences 2022 report, the article frames eq
 - [Ethnographically-oriented methods surface five dimensions of classroom context that text-only transcripts omit, including multimodal communication and relationships](../claims/ethnographic-methods-surface-context-transcripts-omit.md) [+M]
 
 ## Related Research Methods
--
+
+- [DeCuir-Gunby and Schutz's five purposes for considering race in educational psychology research](decuir-gunby-and-schutzs-five-purposes-for-considering-race-in-educational-psychology-rese.md)
 
 ## Key Sources
 - Pakhira, D., & Fusco, J. (2022, October). Designing for the future of research: Putting equity-relevant research into practice with scenarios and personas. Digital Promise. https://doi.org/10.51388/20.500.12265/163

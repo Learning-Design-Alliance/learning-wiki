@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 68 claims (48 show a difference, 16 mixed, 4 no difference) · 48 studies (26 associational, 5 causal, 5 review, 4 qualitative, 3 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 3 of 48 report an effect size · 64 claims rest on one study
+> **Evidence** · 69 claims (49 show a difference, 16 mixed, 4 no difference) · 49 studies (26 associational, 6 review, 5 causal, 4 qualitative, 3 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 3 of 49 report an effect size · 65 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -112,6 +112,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Deaf children's abstract-counting errors reflect the rule-bound base-5 structure of Belgian French Sign Language: they stop at production-rule boundaries and make fewer omission errors than hearing children](../claims/sign-language-structure-shapes-counting-errors.md) [+M] — learners who differ on it differ in outcomes
 - [In object counting, deaf and hearing children make similar attention and principle errors, but deaf children make more number-string errors](../claims/deaf-more-number-string-errors-object-counting.md) [~M] — learners who differ on it differ in outcomes
 - [Linguistic delay may affect verbal mathematical abilities without impairing conceptual counting development, as deaf children's one-to-one correspondence understanding was age-appropriate](../claims/linguistic-delay-spares-conceptual-counting.md) [~W] — learners who differ on it differ in outcomes
+- [Access to web-based information creates illusions of learning and reduces memorization](../claims/web-access-illusion-of-learning.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

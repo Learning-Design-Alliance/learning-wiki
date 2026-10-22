@@ -47,3 +47,4 @@ Face-to-face experiment with 98 participants who first retold a cartoon to measu
 - [Propensity to gesture and verbal memory positively predicted free recall, and the two were uncorrelated (Study 2)](propensity-gesture-verbal-memory-predict-recall.md) — related
 - [In Study 2, spontaneous gesturing produced better specific recall than instructed gesturing, and negative narratives were recalled better than positive](study2-specific-recall-gesture-and-emotion.md) — related
 - [Instructing adults to gesture while reading narratives aloud hindered free recall relative to spontaneous gesturing (Study 1)](instructed-gesture-hinders-narrative-free-recall.md) — related
+- [Emotional valence consistently influences narrative recall, with negative narratives most memorable, while instructed gesturing shows mixed effectiveness](emotional-valence-narrative-recall-gesture-mixed.md) — related

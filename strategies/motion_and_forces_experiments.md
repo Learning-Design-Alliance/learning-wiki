@@ -12,7 +12,7 @@ generated:
 # Motion and Forces Experiments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (4 for, 2 mixed, 2 against) · 20 studies (9 causal, 5 review, 3 theoretical, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 20 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (4 for, 2 mixed, 2 against) · 22 studies (9 causal, 7 review, 3 theoretical, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 22 report an effect size · 1 claim rests on one study
 
 ## Description
 Hands-on physical science investigations in which learners manipulate variables — ball mass, ramp height, pendulum length, surface friction — to observe and measure how forces affect motion and energy transfer. Learners generate predictions, run trials, record measurements, and reconcile results with their initial conceptions. The strategy sits at the intersection of inquiry-based science and embodied learning: the phenomenon is physically experienced, not merely described.

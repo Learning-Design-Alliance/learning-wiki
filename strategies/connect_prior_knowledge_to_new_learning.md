@@ -13,7 +13,7 @@ generated:
 # Connect Prior Knowledge to New Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 8 studies (4 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 10 studies (4 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size
 
 ## Description
 This strategy deliberately surfaces what learners already know and links it to new content before, during, and after instruction. It includes activating prior knowledge through prompts and discussion, using [Analogies](../elements/analogies.md) to map familiar concepts onto unfamiliar ones, and relating new material to learners' experiences and real-world contexts. The goal is meaningful learning: new information is encoded as an elaboration of existing schemas rather than as isolated facts.

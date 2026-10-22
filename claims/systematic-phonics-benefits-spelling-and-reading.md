@@ -51,3 +51,6 @@ The review attributes this finding to the National Reading Panel meta-analysis b
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
 - [Early synthetic phonics teaching that emphasises blending letter sounds showed no evidence of impairing reading of irregular words](synthetic-phonics-no-irregular-word-impairment.md) — related
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
+- [Over a decade of legally mandated synthetic phonics in England has not improved standardized reading outcomes (PIRLS, PISA, SATs)](england-mandated-phonics-no-standardized-outcome-gains.md) — related
+- [There is little or no support for the claim that systematic phonics is effective by itself or within a richer literacy curriculum](little-no-evidence-systematic-phonics-effective.md) — reports the opposite
+- [The National Reading Panel provided no evidence that phonics helps the majority of struggling readers above grade 1](nrp-no-evidence-struggling-readers-above-grade-1.md) — related

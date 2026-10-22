@@ -40,6 +40,7 @@ The article recommends that researchers make their definitions explicit and argu
 ## Related Strategies
 
 - [Research and practice recommendations: activate knowledge during and after reading, study narrative texts and younger learners, and clarify definitions](activation-research-recommendations-hattan-review.md)
+- [Develop and select relationship measures that reflect an integrated understanding of core relationship components — dyadic and multidimensional — identified across relational and motivation theories](develop-integrated-multidimensional-tsr-measures.md)
 
 ## Examples
 -

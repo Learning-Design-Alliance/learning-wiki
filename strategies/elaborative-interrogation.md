@@ -12,7 +12,7 @@ generated:
 # Elaborative Interrogation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (4 causal, 2 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 10 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 12 studies (4 causal, 4 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 12 report an effect size
 
 ## Description
 Elaborative interrogation asks learners to answer "why is this true?" or "why does this make sense?" prompts about facts they are studying, rather than passively rereading them. The generated explanations connect new material to existing knowledge, producing richer, more retrievable memory traces. It is typically applied to factual claims embedded in text or lists, one item at a time.

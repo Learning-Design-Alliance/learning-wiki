@@ -13,7 +13,7 @@ generated:
 # Support Decoding of Text, Mathematical Notation, and Symbols
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies (6 causal, 5 review, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 15 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 17 studies (7 review, 6 causal, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 17 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy ensures that the surface code of instruction — printed words, mathematical symbols, diagrams, musical or chemical notation — does not consume the working memory learners need for the actual learning goal. It is carried out by explicitly teaching symbol–meaning mappings, providing decoding supports (glossaries, pronunciation guides, notation keys), and reducing unnecessary decoding demands in materials.

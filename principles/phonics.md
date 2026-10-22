@@ -31,7 +31,7 @@ sources:
 # Phonics
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (17 for, 8 mixed) · 42 studies (13 quant-synthesis, 10 causal, 8 review, 5 associational, 5 theoretical, 1 qualitative), `q1`–`q4` · 12 of 42 report an effect size · 13 claims rest on one study
+> **Evidence** · 28 claims (17 for, 8 mixed, 3 against) · 45 studies (13 quant-synthesis, 10 causal, 10 review, 6 theoretical, 5 associational, 1 qualitative), `q1`–`q4` · 12 of 45 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,9 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 ## Claims
 
 - [Transfer to untrained words occurs for spelling but not for reading outcomes](../claims/morphology-transfer-untrained-words-spelling-not-reading.md) [~W]
+- [The Torgerson et al. (2006) meta-analysis of randomized controlled trials found almost no strong evidence for systematic phonics](../claims/torgerson-rct-meta-analysis-weak-evidence-phonics.md) [-W]
+- [Long-term effects of systematic phonics are short-lived, reducing from d = 0.29 immediately after training to d = 0.07 after about a year](../claims/suggate-phonics-long-term-effects-short-lived.md) [-W]
+- [Over a decade of legally mandated synthetic phonics in England has not improved standardized reading outcomes (PIRLS, PISA, SATs)](../claims/england-mandated-phonics-no-standardized-outcome-gains.md) [-W]
 
 ## Related Principles
 - [Chunking](chunking.md) — phonics scope-and-sequence works by introducing grapheme–phoneme correspondences in small, cumulative sets

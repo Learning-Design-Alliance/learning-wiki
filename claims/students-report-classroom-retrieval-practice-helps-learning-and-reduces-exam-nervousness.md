@@ -3,6 +3,7 @@ type: claim
 title: Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams
 description: Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams
 id: students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness
+aliases: [retrieval-practice-reduced-test-anxiety-75-percent]
 status: review
 generated:
   by: claude/unspecified
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: review
     rigour: 3
+  - id: pooja-k-agarwal-2024
+    resource: "https://doi.org/10.1007/s10648-023-09839-w"
+    title: "Pooja K. Agarwal. (2024). Personal reflections on science communication and sharing retrieval practice research with teachers. Educational Psychology Review. https://doi.org/10.1007/s10648-023-09839-w"
+    author: Pooja K. Agarwal
+    q: 2
+    i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r3` · `q2`
+> **Evidence** · 2 studies · 1 review `r3`, 1 theoretical `r2` · `q2`
 
 ## Subclaims
+
 `q2 i?` The chapter reports, citing Agarwal et al. (2014), that of 1408 surveyed students 92% viewed classroom retrieval practice positively and 72% said it helped them feel less nervous about exams. [→ Karpicke 2017](#karpicke-2017)
+
+`q2 i?` Survey data cited from Agarwal et al. (2014) show frequent retrieval practice reduced test anxiety for nearly 75% of students, which the practice guide used to emphasize retrieval practice is not high-stakes assessment. [→ Pooja K. Agarwal 2024](#pooja-k-agarwal-2024)
 
 ## Evidence
 
@@ -39,9 +51,22 @@ The chapter reports a self-report survey by Agarwal et al. (2014) of 1408 middle
 
 > "Agarwal et al. (2014) surveyed 1408 middle and high school students who had experienced classroom-based retrieval practice programs (e.g., like the one implemented by McDaniel et al., 2011 ). The key ﬁndings from their survey were that 92% of students viewed the classroom retrieval practice activ- ities positively, believing that retrieval practice helped them learn, and 72% said that frequent retrieval practice helped them feel less nervous about classroom exams."
 
+### Pooja K. Agarwal 2024
+
+Pooja K. Agarwal. (2024). Personal reflections on science communication and sharing retrieval practice research with teachers. Educational Psychology Review. https://doi.org/10.1007/s10648-023-09839-w
+
+`q2 · i?` · `theoretical · r2`
+
+The commentary reports survey data attributed to Agarwal et al. (2014), presented in the practice guide as a pie chart showing reduced test anxiety for nearly 75% of students. The percentage is descriptive; no effect size is printed.
+
+> "a pie chart of survey data demonstrating that frequent retrieval practice reduced test anxiety for nearly 75% of students, in order to emphasize that retrieval practice is not a high-stakes assessment (Agarwal et al., 2014)"
+
 ## Discussion
 
+
+
 ## Learner Variables
+
 - [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
@@ -55,3 +80,4 @@ The chapter reports a self-report survey by Agarwal et al. (2014) of 1408 middle
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - Undergraduate statistics students most frequently used and valued the courseware's ungraded formative practice features, the Readiness Check and Self Check — related
 - [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](testing-effect-generalizes-education-levels.md) — related
+- [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects](higher-anxiety-is-associated-with-smaller-testing-effects.md) — related

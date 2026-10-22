@@ -50,3 +50,4 @@ Adversarial security evaluation (attempt 5): the attempt-3 injection paragraph r
 - [Asking the AI tool directly about hidden instructions exposed the prompt injection in all 6 security-check iterations, but the authors caution this is not a robust safeguard](direct-security-check-exposes-injection.md) — related
 - [Prompt injection attacks on agents (OpenClaw walletdrain, EchoLeak) bypass the user entirely, and no public AI literacy curriculum addresses this vector](prompt-injection-attacks-bypass-user-literacy.md) — related
 - [Deterrence layers failed because seeds changed parameters rather than task structure, scaffolding exposed solution steps, and hidden grading verified output consistency rather than authorship or understanding](why-qiskit-deterrence-layers-failed.md) — related
+- [Learners rarely detect manipulation of offloaded information and may replace internal memory with altered external content](offloaded-memory-manipulation.md) — related

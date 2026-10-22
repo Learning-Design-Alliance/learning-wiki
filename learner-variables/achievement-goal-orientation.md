@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 47 claims (26 show a difference, 15 mixed, 6 no difference) · 25 studies (10 associational, 6 review, 4 causal, 3 theoretical, 2 quant-synthesis), `q2`–`q4` · 10 of 25 report an effect size · 45 claims rest on one study
+> **Evidence** · 54 claims (29 show a difference, 17 mixed, 8 no difference) · 26 studies (10 associational, 6 review, 4 causal, 3 quant-synthesis, 3 theoretical), `q2`–`q4` · 11 of 26 report an effect size · 52 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -82,6 +82,13 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Autonomous achievement goal complexes predict adaptive outcomes over and above goals alone and reasons alone](../claims/autonomous-goal-complexes-predict-adaptive-outcomes.md) [+M] — learners who differ on it differ in outcomes
 - [Implicit theories of ability predict achievement goals, with performance goals mediating or suppressing entity theory effects on math performance](../claims/implicit-theories-predict-achievement-goals-math.md) [+M] — learners who differ on it differ in outcomes
 - [Trait test anxiety predicts performance-based goals, and in a path model state anxiety and worry, but not emotionality, link performance-avoidance goals to lower exam performance](../claims/test-anxiety-goal-complex-mediation.md) [+M] — learners who differ on it differ in outcomes
+- [Across goal-complex studies, autonomous reasons are strongly associated with achievement goal aims (pooled r = 0.54)](../claims/autonomous-reasons-strongly-associated-with-achievement-aims.md) [+M] — learners who differ on it differ in outcomes
+- [Autonomous reasons are more prominent than controlled reasons for goal striving regardless of aim type](../claims/autonomous-reasons-more-prominent-than-controlled.md) [-W] — learners who differ on it differ in outcomes
+- [In studies investigating mastery and performance aims simultaneously, mastery aims show tighter bonds with autonomous than controlled reasons, while performance aims are more equidistant](../claims/simultaneous-aims-studies-mastery-autonomous-tighter.md) [~M] — learners who differ on it differ in outcomes
+- [Intrinsic life aspirations are moderately linked to mastery approach goals, extrinsic aspirations to performance approach goals, with cross-links near zero](../claims/life-aspirations-differentially-linked-to-goal-types.md) [+M] — learners who differ on it differ in outcomes
+- [Mastery aims are strongly bound to autonomous reasons and only weakly to controlled reasons](../claims/mastery-aims-bound-to-autonomous-reasons.md) [+M] — learners who differ on it differ in outcomes
+- [Performance aims are ambiguously aligned, tied nearly equally to autonomous and controlled reasons](../claims/performance-aims-ambiguously-aligned-with-reasons.md) [-M] — learners who differ on it differ in outcomes
+- [Positive links between intrinsic life aspirations and performance goals appear only in athletic samples, not classical educational contexts](../claims/intrinsic-aspirations-performance-goals-athletic-contexts.md) [~W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

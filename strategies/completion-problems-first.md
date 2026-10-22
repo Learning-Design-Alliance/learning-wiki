@@ -13,7 +13,7 @@ generated:
 # Completion Problems First
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (5 for, 1 mixed, 2 against) · 12 studies (6 causal, 2 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 1 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (5 for, 1 mixed, 2 against) · 14 studies (6 causal, 4 review, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 1 of 14 report an effect size · 2 claims rest on one study
 
 ## Description
 Completion problems first is a sequencing strategy in which learners' earliest practice tasks are partially completed — some steps or solution states are given, and learners fill in the remainder. It operationalizes the *completion strategy* (van Merriënboer) as a bridge between studying full [worked examples](../principles/worked-examples.md) and solving problems unaided, implementing a smooth [fading](../elements/fading.md) of guidance rather than an abrupt transition.

@@ -137,3 +137,4 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 - [Completing the follow-up homework assignment modestly boosted exam question performance](follow-up-homework-modestly-boosts-exam-performance.md) — a narrower finding that bears on this claim
 - [Students created and took peer assessments in Forms, learning through writing quiz questions and answer options](forms-peer-collaboration-quiz-authoring.md) — related
 - [The testing effect from frequent retrieval is revealed only on later comprehensive tests, not in performance in other courses](testing-effect-limited-to-comprehensive-tests.md) — related
+- [In the author's cited longitudinal classroom experiments, lessons with retrieval practice raised course grades from a C to an A level, and three spaced retrieval opportunities were optimal even nine months later](classroom-experiments-retrieval-grades-and-spacing.md) — related

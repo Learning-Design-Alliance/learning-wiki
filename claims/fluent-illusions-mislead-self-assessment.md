@@ -182,3 +182,4 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [In high-stakes homework settings, answer-first checking functions as a rational self-regulation strategy and diagnostic checkpoint rather than shortcutting](answer-first-checking-as-self-regulated-diagnostic-checkpoint.md) — related
 - [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](fluency-misleads-judgments-of-learning.md) — related
 - [GenAI fluency corrupts metacognitive monitoring by producing cognitive ease that is misread as comprehension, weakening the regulation needed to keep offloading beneficial](metacognitive-trap-genai-fluency.md) — a broader claim this one bears on
+- [Access to web-based information creates illusions of learning and reduces memorization](web-access-illusion-of-learning.md) — related

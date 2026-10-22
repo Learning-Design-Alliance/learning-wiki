@@ -46,3 +46,4 @@ Cited experiment by Corbalan, Kester and van Merriënboer on shared versus syste
 
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md)
 - [Advanced learners may benefit from learner-controlled selection of learning tasks and levels of generality](learner-control-advanced-learners-flexibility.md)
+- [Shared control over task or problem selection between learner and system yields better learning outcomes than full system control](shared-control-task-selection-better-learning.md) — a broader claim this one bears on

@@ -66,6 +66,7 @@ Reasoning-focused instruction treats student explanations as the primary site of
 - [Teach students to intentionally choose from alternative algebraic strategies when solving problems, after they have procedural fluency](intentional-alternative-strategy-choice-sequenced-after-fluency.md)
 - [Teacher follows learners' reasoning path and poses questions that alert learners to their geometric met-befores](teacher-questions-alert-geometric-met-befores.md)
 - [Have learners develop their own problem-solving templates instead of replicating instructor templates](learner-generated-problem-solving-templates.md)
+- [Design GenAI learning support to withhold direct answers and prompt students to articulate reasoning and generate solution ideas](genai-withhold-answers-prompt-reasoning.md)
 
 ## Examples
 - **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — teachers elicit and build instruction around students' own solution strategies rather than demonstrating a single procedure.

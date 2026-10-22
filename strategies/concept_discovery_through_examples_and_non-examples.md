@@ -12,7 +12,7 @@ generated:
 # Concept Discovery Through Examples and Non-examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (6 causal, 4 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 3 of 13 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 15 studies (6 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 3 of 15 report an effect size
 
 ## Description
 Learners are presented with a carefully sequenced set of examples and non-examples of a target concept and asked to identify shared characteristics, classify new instances, and articulate the concept's defining attributes. The instructor or system supports exploration with questions and context-sensitive feedback that corrects misconceptions as they emerge. The strategy treats concept acquisition as pattern discrimination built from varied instances rather than transmission of a definition.

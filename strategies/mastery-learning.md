@@ -13,7 +13,7 @@ generated:
 # Mastery Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 review, 2 quant-synthesis, 1 causal, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (5 review, 2 quant-synthesis, 1 causal, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size
 
 ## Description
 Mastery learning restructures pacing so that achievement is held constant and time is allowed to vary: learners study a unit, take a formative assessment, receive corrective instruction on what they missed, and only advance once they reach a preset criterion (typically 80–90% correct). The cycle of instruction → assessment → corrective feedback → reassessment repeats until mastery is demonstrated.

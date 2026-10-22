@@ -46,3 +46,4 @@ Supplementary structural equation modelling of RIF platform data comparing a one
 - [Instrument type moderated the mental rotation gender-difference effect size but not the visualisation effect size](instrument-type-moderates-mental-rotation-gap.md) — related
 - [Perspective-taking (spatial orientation) shows evidence of uniqueness from mental rotation factors](perspective-taking-distinct-from-mental-rotation.md) — related
 - [A small gender difference in visualisation favouring boys exists across adolescence and is robust across measurement instruments](visualisation-gender-gap-adolescence-small.md) — related
+- [Spatial orientation/perspective-taking and spatial visualization/mental rotation are psychometrically and neurally dissociable skills](orientation-visualization-dissociation.md) — a broader claim this one bears on

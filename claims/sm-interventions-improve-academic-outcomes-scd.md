@@ -53,3 +53,4 @@ Same single-case meta-analysis (105 academic effects among 456 total effects). T
 - [Prompted self-monitoring is the most frequently used self-management configuration in school-based single-case research](prompted-self-monitoring-most-frequent-configuration.md) — related
 - [Group-design studies show a significant main effect of self-management interventions on classroom behaviors (g = 0.63), but rest on only four studies](sm-group-design-main-effect-g063.md) — related
 - [Single-case studies yielded a larger average effect size (g = 1.94) than group studies (g = 0.41) in this meta-analysis](single-case-larger-effects-than-group-studies-phonics-id.md) — related
+- [Monitoring tools produce a moderate effect on academic achievement (d = 0.42), supporting a reactivity effect](monitoring-tools-achievement-d042.md) — related

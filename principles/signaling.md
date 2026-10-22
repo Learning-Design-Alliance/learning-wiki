@@ -66,7 +66,7 @@ sources:
 # Signaling Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (15 for, 15 mixed, 1 against) · 23 studies (10 causal, 8 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 8 of 23 report an effect size · 27 claims rest on one study
+> **Evidence** · 31 claims (15 for, 15 mixed, 1 against) · 25 studies (10 causal, 10 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 8 of 25 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 

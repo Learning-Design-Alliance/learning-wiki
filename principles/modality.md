@@ -66,7 +66,7 @@ sources:
 # Modality Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (9 for, 21 mixed, 4 against) · 27 studies (10 causal, 6 review, 6 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q3` · 8 of 27 report an effect size · 29 claims rest on one study
+> **Evidence** · 34 claims (9 for, 21 mixed, 4 against) · 29 studies (10 causal, 8 review, 6 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q3` · 8 of 29 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 

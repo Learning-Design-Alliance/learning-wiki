@@ -12,7 +12,7 @@ generated:
 # Guided Inquiry
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 16 studies (5 causal, 5 quant-synthesis, 3 theoretical, 2 review, 1 associational), `q1`–`q4` · 5 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 18 studies (5 causal, 5 quant-synthesis, 4 review, 3 theoretical, 1 associational), `q1`–`q4` · 5 of 18 report an effect size · 1 claim rests on one study
 
 ## Description
 Guided inquiry positions learners as investigators who generate questions, gather evidence, and build explanations, while the instructor supplies structure — task framing, scaffolds, prompts, and just-in-time direct instruction — that keeps the investigation productive. It sits between pure discovery, which offers minimal support, and [Direct Instruction](../patterns/direct-instruction.md), which specifies most of the path. The guidance is calibrated: enough to prevent unproductive search, not so much that learners stop reasoning for themselves.

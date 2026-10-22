@@ -14,7 +14,7 @@ grain_size: course
 # Design Thinking
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 10 studies (3 causal, 3 quant-synthesis, 1 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 12 studies (3 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size · 3 claims rest on one study
 
 ## Description
 Design Thinking organizes the *design* of a course around five moves: empathize with the people who will learn, define the problem their situation actually poses, ideate broadly before committing, prototype cheaply, and test with real learners. Its defining commitment is that the design problem is discovered rather than assumed — the designer begins by investigating learners and their context, and treats the first course outline as a hypothesis to be falsified rather than a plan to be executed.

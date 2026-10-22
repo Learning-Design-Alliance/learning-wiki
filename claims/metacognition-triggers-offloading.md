@@ -54,3 +54,4 @@ The review reports Gilbert et al. (2020, Experiment 3), which manipulated practi
 - [Metacognitive confidence about credit correlates with financial behaviors and advice giving, but knowledge performance does not correlate with behavior](confidence-correlates-with-financial-behaviors-not-knowledge.md) — related
 - [Both performance-oriented goals and effort minimization motivate offloading, and effort's effect disappears when performance monitoring is considered simultaneously](effort-performance-drivers-offloading.md) — related
 - [Framing adds an additive predictive value to the reminder bias beyond participants' internal metacognitive bias](framing-additive-beyond-metacognitive-bias.md) — related
+- [Difficulty and value of to-be-learned items determine which items children offload](difficulty-and-value-drive-child-offloading.md) — related

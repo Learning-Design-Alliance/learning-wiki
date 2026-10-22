@@ -47,3 +47,4 @@ Study 2 specific recall model (N = 98, face-to-face) showed "those in the sponta
 - [Gesture instructions hindered specific recall for participants with lower propensity to gesture (Study 2)](gesture-instruction-hinders-low-propensity-gesturers.md) — related
 - [Gesture manipulation checks confirmed instructed participants gestured far more than spontaneous participants in both studies](gesture-instruction-manipulation-checks-effective.md) — related
 - [Instructing adults to gesture while reading narratives aloud hindered free recall relative to spontaneous gesturing (Study 1)](instructed-gesture-hinders-narrative-free-recall.md) — related
+- [Emotional valence consistently influences narrative recall, with negative narratives most memorable, while instructed gesturing shows mixed effectiveness](emotional-valence-narrative-recall-gesture-mixed.md) — a broader claim this one bears on

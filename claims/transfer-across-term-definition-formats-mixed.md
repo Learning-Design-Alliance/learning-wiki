@@ -47,3 +47,4 @@ In Experiment 2's test-on-terms group, participants who practiced definitions sh
 - [The overt-retrieval advantage does not significantly differ by definition complexity (number of idea units), contrary to a retrieval-dynamics prediction](overt-advantage-not-moderated-by-idea-units.md) — related
 - [Overt retrieval practice produces higher delayed recall of definitions than covert retrieval practice for learners studying declarative concepts](overt-beats-covert-retrieval-definitions.md) — related
 - [Overt retrieval also outperforms covert retrieval for key terms, but with a smaller advantage than for definitions](overt-beats-covert-retrieval-key-terms-smaller.md) — related
+- [Response format (overt vs. covert retrieval) did not affect final cued recall in spaced retrieval practice, and list structure (blocked vs. random; proportion of overt trials) did not moderate the effect.](covert-overt-retrieval-no-effect-spaced-practice.md) — related

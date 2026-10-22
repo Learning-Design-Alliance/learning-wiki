@@ -48,3 +48,4 @@ Multilevel analysis of chat episodes (addressing non-independence of learner dat
 - [Teams with part-task congruent tools adjusted their representations across phases—broad causal representations first, then more selective algebraic specification—unlike single-tool teams](matched-tools-phase-appropriate-representations.md) — related
 - [Teams receiving part-task congruent representational tools (causal then simulation) outperformed teams with partly matched or mismatched tools on a complex business-economics learning task](matched-representational-tools-better-complex-task-performance.md) — related
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — a broader claim this one bears on
+- [Effects of monitoring tools are highest when tools address both learning content and learning behavior and stimulate metacognitive monitoring](monitoring-tool-moderators-focus-and-type.md) — related

@@ -68,3 +68,4 @@ From the same sub-string analysis of communicative gaze, the cultural contrast i
 - [Teachers and students use gaze to express agency and communion during classroom problem-solving](haataja-gaze-agency-communion.md) — related
 - [Culture differentiates communicative but not attentional teacher scanpaths once expertise is controlled](culture-differentiates-communicative-scanpaths.md) — related
 - [Teacher scanpaths are more similar within expertise levels than across expertise once culture is controlled, for both attentional and communicative gaze](expertise-differentiates-teacher-scanpaths.md) — related
+- [Experts perceive classroom situations in terms of groups of students while novices devote more visual attention to individual students](experts-perceive-groups-novices-individuals.md) — related

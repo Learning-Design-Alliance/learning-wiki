@@ -79,3 +79,4 @@ The review's synthesis of psychological research on belonging, implicit theories
 - [Stable Dispositions such as conscientiousness predict academic success partly through effort, with some independence from cognitive ability](stable-dispositions-predict-academic-success-through-effort.md) — related
 - [Specific observable mindset-signaling behaviors have been identified that convey peers' implicit beliefs about ability](mindset-signaling-behaviors-identified.md) — related
 - [Teachers' growth mindset is positively associated with their self-efficacy (r = .180)](teacher-growth-mindset-self-efficacy-association.md) — related
+- [Sense of belonging in learning contexts is robustly associated with psychological well-being, academic motivation, and academic performance](belonging-associated-wellbeing-motivation-performance.md) — related

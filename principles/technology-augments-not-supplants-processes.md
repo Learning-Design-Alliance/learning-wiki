@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 150 claims (96 for, 44 mixed, 10 against) · 118 studies (29 theoretical, 27 qualitative, 22 review, 19 causal, 12 design, 9 associational), `q1`–`q4` · 8 of 118 report an effect size · 146 claims rest on one study
+> **Evidence** · 151 claims (97 for, 44 mixed, 10 against) · 119 studies (29 theoretical, 27 qualitative, 23 review, 19 causal, 12 design, 9 associational), `q1`–`q4` · 8 of 119 report an effect size · 147 claims rest on one study
 
 ## Conditional relationship
 
@@ -273,6 +273,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 ## Claims
 
 - [AI-directed problem selection may diminish the metacognitive dimension of self-testing while preserving retrieval practice](../claims/ai-directed-self-testing-diminishes-metacognitive-judgment.md) [+W]
+- [Generative AI tools risk inducing overestimated abilities and diminishing training of foundational skills](../claims/generative-ai-overconfidence-risk.md) [+W]
 
 ## Related Principles
 

@@ -48,3 +48,4 @@ In the repeated-measures ANOVA of 61 Japanese EFL undergraduates, multiple compa
 - [Extensive reading produced no measurable change in the perceived Practical Value of foreign-language reading (r = .09)](er-no-change-practical-value-attitude.md) — related
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
 - [The effect of extensive reading on reading attitude varied by attitude component, shown by a significant time × attitude interaction (ηp² = .168)](er-time-attitude-interaction-omnibus.md) — a broader claim this one bears on
+- [Extensive reading has a small, significant positive short-term effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons)](er-positive-effect-second-foreign-language.md) — related

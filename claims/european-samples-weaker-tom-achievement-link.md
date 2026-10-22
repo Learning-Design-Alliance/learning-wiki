@@ -53,3 +53,4 @@ Weighted linear regression moderator analysis across cross-sectional effect size
 - [The ToM–achievement association does not differ significantly across reading comprehension, math, and general academic performance domains](tom-achievement-domain-nonspecific.md) — related
 - [The magnitude of sex differences in mathematics varies across geographical regions, with larger estimated effects in Central Europe (d = 0.164) and Central and South America (d = 0.153) than in North America (d = 0.047)](geographic-region-moderation-sex-differences-mathematics.md) — related
 - [Study region significantly moderates the ANS-well-being correlation among K-12 youth, with the abstract reporting a stronger association in East Asian contexts](region-moderates-ans-wellbeing-k12.md) — a narrower finding that bears on this claim
+- [Region, study quality, and interaction domain moderate associations between factors and interactive skills](moderators-region-quality-domain.md) — related

@@ -69,3 +69,4 @@ Two-way ANOVA testing whether the interleaving benefit decreased over time. The 
 - [The interleaving benefit appears in three of four problem-type-by-delay comparisons; the slope-problem effect at 1 day was not statistically significant](interleaving-benefit-by-problem-type-and-delay.md) — related
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — a broader claim this one bears on
 - [Cohen's small, medium, and large effect size benchmarks are arbitrary and should not be interpreted rigidly](cohen-benchmarks-arbitrary.md) — related
+- [In Experiment 2, the interleaving benefit on actual test outcomes was not statistically significant, unlike in Experiment 1](interleaving-outcome-benefit-nonsignificant-exp2.md) — related

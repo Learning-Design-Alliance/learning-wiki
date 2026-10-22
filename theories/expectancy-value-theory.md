@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 21 claims (9 for, 12 mixed) · 18 studies (5 causal, 4 review, 3 qualitative, 2 associational, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 5 of 18 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (12 for, 13 mixed) · 19 studies (5 causal, 5 review, 3 qualitative, 2 associational, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 5 of 19 report an effect size · 24 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -79,6 +79,10 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Teachers' subjective task values for TSRs—intrinsic, attainment, utility, and cost—shape their motivation to build relationships](../claims/teacher-values-shape-tsr-motivation.md) [+W]
 - [In Experiment 1, learners interleaved more only when high utility value of distinguishing was combined with instruction that differences matter, with the two factors interacting rather than showing main effects](../claims/interleaving-requires-utility-value-plus-differences-matter-instruction.md) [~W]
 - [Combining utility value of distinguishing with conditional knowledge fosters interleaving of confusable categories (Abel et al., 2024)](../claims/utility-value-conditional-knowledge-foster-interleaving.md) [~W]
+- [Confirmatory factor analyses show students' expectancies for success factor separately from their subjective task values, while expectancies and ability self-concepts factor together](../claims/cfa-expectancies-values-separate-factors.md) [+W] — attached 2026-10-22 from Jacquelynne S. Eccles · Allan Wigfield (2024), which proposed "Situated expectancy-value theory (SEVT) of achievement performance and choice".
+- [Students' expectancies for success are the strongest direct predictor of subsequent math performance, while the importance attached to math is the strongest direct predictor of intentions to continue taking math](../claims/expectancies-predict-performance-values-predict-intentions.md) [+W] — attached 2026-10-22 from Jacquelynne S. Eccles · Allan Wigfield (2024), which proposed "Situated expectancy-value theory (SEVT) of achievement performance and choice"; tests this page's relationship.
+- [Children's ability self-concepts and subjective task values are domain-specific and differentiated from first grade, with gender differences in math fading over time](../claims/cab-domain-specific-beliefs-first-grade.md) [~M] — attached 2026-10-22 from Jacquelynne S. Eccles · Allan Wigfield (2024), which proposed "Situated expectancy-value theory (SEVT) of achievement performance and choice".
+- [The authors argue the factor-analytic evidence is not strong enough to rename expectancy-value theory as expectancy-value-cost theory](../claims/cost-as-separate-construct-evidence-insufficient.md) [+W]
 
 ## Related Theories
 

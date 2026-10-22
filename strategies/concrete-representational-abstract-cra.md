@@ -13,7 +13,7 @@ generated:
 # Concrete-Representational-Abstract (CRA)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 21 studies (10 causal, 5 quant-synthesis, 5 review, 1 theoretical), `q1`–`q4` · 5 of 21 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 23 studies (10 causal, 7 review, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 5 of 23 report an effect size · 1 claim rests on one study
 
 ## Description
 CRA is an instructional approach that uses concrete materials, visual representations, and abstract symbols to teach math concepts. Learners first manipulate concrete objects to understand a concept, then draw pictures representing the objects, and finally use abstract numbers and symbols. As instructors move through the sequence, abstract symbols should be used *in conjunction with* concrete materials and drawings — not after them — to promote association between symbolic notation and the underlying quantities. The approach descends from Bruner's enactive–iconic–symbolic sequence and is a staple of special education mathematics instruction.

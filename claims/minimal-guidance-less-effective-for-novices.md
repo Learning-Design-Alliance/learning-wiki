@@ -119,7 +119,7 @@ This narrative review builds its case on human cognitive architecture, expert–
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should learners explore a new idea with guidance, rather than be told it or left to find it alone?* This table gathers the studies behind this claim and the 34 narrower claims that bear on it: **34 distinct studies** (12 causal, 7 review, 6 quant-synthesis, 4 theoretical, 4 qualitative, 1 design), `q1`–`q4`, 5 of 34 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should learners explore a new idea with guidance, rather than be told it or left to find it alone?* This table gathers the studies behind this claim and the 34 narrower claims that bear on it: **36 distinct studies** (12 causal, 8 review, 6 quant-synthesis, 4 theoretical, 4 qualitative, 1 kind not coded, 1 design), `q1`–`q4`, 5 of 36 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -137,6 +137,8 @@ This narrative review builds its case on human cognitive architecture, expert–
 | [Kalyuga et al. 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 / q3 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies); [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) (qualifies) |
 | [Kalyuga et al. 1998](https://doi.org/10.1518/001872098779480587) | q3 · causal · r? | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | Obikwelu 2013 | q1 · theoretical · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
+| [Slava Kalyuga 2010](https://doi.org/10.1007/s11251-009-9102-0) | q2 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
+| [Leonard Tetzlaff 2021](https://doi.org/10.1007/s10648-020-09570-w) | q2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | Higgin 2025 | q2 · qualitative · r2 | i? | [Gateway math students benefit from a balance of social, active learning and independent pr](balance-active-learning-independent-practice-gateway-math.md) (qualifies) |
 | [Belland 2017](https://doi.org/10.3102/0034654316670999) | q3 · quant-synthesis · r? | i? | [Scaffolding's effect was highest in project-based learning contexts; design-based learning](project-based-context-highest-scaffolding-effect.md) (supports) |
 | [Pollock et al. 2002](<https://doi.org/10.1016/s0959-4752(01)00016-0>) | q3 · causal · r? | i? | [Part-task practice reduces cognitive load for absolute novices during initial skill acquis](part-task-practice-reduces-load-for-novices.md) (supports) |
@@ -293,7 +295,7 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Without explicit scaffolding, the two lower-agency paths (Passive Review and Direct Question) accounted for 64% of student-AI interactions in the primary sample](paths-1-2-default-64-percent.md) — a narrower finding that bears on this claim
 - [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](domain-moderates-unassisted-discovery-deficit.md) — a narrower finding that bears on this claim
 - [Formal theory offers advantages over common sense for guiding implementation, but empirical evidence of effectiveness is lacking](formal-theory-advantages-over-common-sense.md) — related
-- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — related
+- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect.md) — related
 - [Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective](instructional-explanations-sometimes-equal-or-better-than-self-explanation.md) — related
 - [For circle geometry problems, guidance in the form of subgoals or worked examples increased cognitive load during problem processing (Experiments 1-3)](guidance-subgoals-worked-examples-increase-cognitive-load-geometry.md) — related
 - [Studies comparing pure simulation-based discovery learning with expository teaching show no clear and univocal outcome in favor of simulations](no-clear-simulation-advantage-over-expository.md) — related

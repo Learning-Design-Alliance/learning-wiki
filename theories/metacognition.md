@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 420 claims (200 for, 199 mixed, 21 against) · 212 studies (102 causal, 47 associational, 23 review, 15 theoretical, 10 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 77 of 212 report an effect size · 413 claims rest on one study
+> **Evidence** · 425 claims (203 for, 201 mixed, 21 against) · 214 studies (102 causal, 47 associational, 23 review, 16 theoretical, 11 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 78 of 214 report an effect size · 418 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -463,6 +463,11 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Metacognition mediates the relationship between EF and SRL](../claims/metacognition-mediation-ef-srl.md) [+W]
 - [Significant learner characteristics explained 17% and 14% of variance in prediction bias and 11% and 12% in postdiction bias, so characteristics were slightly more relevant for predictions](../claims/variance-explained-judgment-bias.md) [~W]
 - [Boundary conditions: explicit relation-focused instructions and no access to products during judgment are needed for mapping and drawing to improve monitoring accuracy](../claims/mapping-drawing-boundary-conditions-instructions-and-retrieval.md) [~W]
+- [Monitoring tools produce a moderate effect on academic achievement (d = 0.42), supporting a reactivity effect](../claims/monitoring-tools-achievement-d042.md) [+W] — attached 2026-10-22 from Dignath et al. (2023), which proposed "Reactivity and reminder effects as the mode of action of monitoring tools".
+- [Students use invested mental effort as a cue when judging their learning, and self-rated mental effort is negatively related to judgments of learning](../claims/effort-cue-negative-jol-relation.md) [~W]
+- [Effects of monitoring tools are highest when tools address both learning content and learning behavior and stimulate metacognitive monitoring](../claims/monitoring-tool-moderators-focus-and-type.md) [+W]
+- [Mental effort and judgments of learning show a medium-sized negative correlation, moderated by regulation mode and task type](../claims/mental-effort-jol-negative-correlation-moderators.md) [~W]
+- [Situation-model-approach interventions show a medium-sized positive effect on metacomprehension accuracy and a small direct effect on comprehension](../claims/situation-model-interventions-metacomprehension-effect.md) [+W]
 
 ## The evidence by question
 

@@ -18,7 +18,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (12 for, 18 mixed, 2 against) · 39 studies (12 review, 8 theoretical, 7 causal, 5 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 6 of 39 report an effect size · 23 claims rest on one study
+> **Evidence** · 32 claims (12 for, 18 mixed, 2 against) · 41 studies (14 review, 8 theoretical, 7 causal, 5 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 6 of 41 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 

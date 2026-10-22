@@ -66,3 +66,4 @@ Same random-effects meta-analysis, transfer outcome. The pooled effect was g = �
 - [Neither global nor local drawing support increased drawing quality, and local support significantly decreased it relative to unsupported drawing](drawing-support-did-not-increase-quality.md) — related
 - [All three drawing conditions scored better than the control condition on the drawing test and performed equally well](drawing-outperforms-control-drawing-test.md) — related
 - [Drawing support that facilitates integration significantly increases comprehension, while support not expected to facilitate integration does not](integration-facilitation-significant-moderator.md) — related
+- [Generating drawings is effective for university students but largely ineffective for elementary-school children unless instructional support is extremely high](drawing-ineffective-elementary.md) — reports the opposite

@@ -66,8 +66,7 @@ The article reports, citing Chen et al. (2015, 2016a, b, 2017) and Kalyuga et al
 
 ## Related Claims
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — possibly the same claim (merge candidate)
-- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — possibly the same claim (merge candidate)
-- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a narrower finding that bears on this claim
+- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect.md) — possibly the same claim (merge candidate)
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](worked-example-effect-element-interactivity-explanation.md) — a narrower finding that bears on this claim
 - [The review reports that the isolated-elements mixed instructional method benefits novices but the benefit disappears for experienced learners, and that the imagination effect reverses with expertise](expertise-reversal-isolated-elements-and-imagination-review.md) — a narrower finding that bears on this claim
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — a narrower finding that bears on this claim

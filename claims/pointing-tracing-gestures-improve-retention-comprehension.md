@@ -48,3 +48,5 @@ The review reports, citing Macken and Ginns (2014), a study of 42 adults (74% fe
 - [Specific pointing by pedagogical agents was more effective than nonspecific pointing, which beat non-pointing gestures (review attributes this to Li et al., 2019)](specific-pointing-signaling-more-effective.md) — related
 - [Tracing and pointing during a paper-based multimedia lesson improves comprehension test performance in Chinese-speaking adults](tracing-pointing-improve-comprehension-chinese-sample.md) — related
 - [Gesturing during learning improves retention and reduces cognitive load](gesturing-during-learning-retention-load.md) — related
+- [Pointing during multimedia learning leads to superior comprehension and increased attentional focus compared with tracing or no hand movements](pointing-superior-comprehension-multimedia.md) — related
+- [Mimicking tracing and pointing gestures on a touchscreen during timed multimedia worked examples hindered adolescent learners' geometry learning](touchscreen-tracing-hinders-timed-worked-examples.md) — reports the opposite

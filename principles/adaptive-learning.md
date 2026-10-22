@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (33 for, 27 mixed, 4 against) · 62 studies (22 causal, 14 review, 8 design, 7 quant-synthesis, 5 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 10 of 62 report an effect size · 57 claims rest on one study
+> **Evidence** · 65 claims (34 for, 27 mixed, 4 against) · 64 studies (22 causal, 16 review, 8 design, 7 quant-synthesis, 5 associational, 4 theoretical, 2 qualitative), `q1`–`q4` · 10 of 64 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,7 @@ Re-read 2026-10-15: the claims below were read against the model above and do no
 - [Kt Encoders Entity Isolated Deterministic Limits](../claims/kt-encoders-entity-isolated-deterministic-limits.md) [+W]
 - [Adaptive G Ukt Competitive Performance Sparse Regimes](../claims/adaptive-g-ukt-competitive-performance-sparse-regimes.md) [+M]
 - [Identifying learners' difficulties with visual displays is an important basis for selecting appropriate support procedures](../claims/learner-difficulties-basis-for-support-selection.md) [+M] — attached 2026-10-15 from Renkl et al. (2017), which proposed "Choose support procedures for visual displays based on knowledge of the difficulties learners have with them".
+- [Intelligent tutoring systems with dynamic student modeling increase learning gains over regular instruction](../claims/its-dynamic-modeling-effective.md) [+W] — attached 2026-10-22 from Leonard Tetzlaff et al. (2021), which proposed "Measure relevant learner characteristics repeatedly during learning and adapt instruction systematically"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

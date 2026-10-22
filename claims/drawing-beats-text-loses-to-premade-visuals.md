@@ -65,3 +65,4 @@ In its summary section, the review cites studies including Ploetzner and Fillisc
 - [In one experiment, students who generated their own underlining did not score significantly higher on tests than students given experimenter-generated underlining](experimenter-underlining-effective-as-student-underlining.md) — related
 - [Sketching during reading yielded the most accurate comprehension monitoring, with significantly less absolute error than photograph, no-image, and animation conditions](sketching-most-accurate-monitoring-absolute-error.md) — related
 - [Text-only students based draw judgments on internal mental images while image-condition students recalled external visuals](internal-vs-external-visual-cue-use-draw-judgments.md) — related
+- [Generating drawings is effective for university students but largely ineffective for elementary-school children unless instructional support is extremely high](drawing-ineffective-elementary.md) — related

@@ -111,3 +111,4 @@ In the Belonging and Collaboration in Practice section, the primer attributes th
 - [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](peer-collaboration-predicts-engagement.md) — related
 - [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](teacher-student-relationship-strongest-sobas-link.md) — related
 - [Associations with school belonging are generally stronger in rural than urban locations](belonging-effects-stronger-rural-than-urban.md) — related
+- [Teachers' provision of opportunities to belong predicts Black and Latine students' class engagement and overall school engagement](opportunities-to-belong-predict-engagement.md) — related

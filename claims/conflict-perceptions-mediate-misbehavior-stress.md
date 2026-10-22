@@ -64,3 +64,4 @@ The review reports longitudinal school-year research showing reciprocal relation
 ## Related Claims
 - [Students' perceptions of their teacher's fixed mindset partially mediate the relationship between teacher math anxiety and student math achievement](perceived-teacher-fixed-mindset-partially-mediates-anxiety-achievement.md) — related
 - [Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior](homework-management-partially-mediates-teacher-involvement-behavior.md) — related
+- [Conflictual teacher-student relationships are more strongly linked to teacher stress and burnout than relationship closeness](conflict-tsr-stronger-link-stress-burnout.md) — related

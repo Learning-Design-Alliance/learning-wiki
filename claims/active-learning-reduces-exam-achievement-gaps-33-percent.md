@@ -53,3 +53,4 @@ Individual-participant-data meta-analysis of examination scores from 15 studies 
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — related
 - [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — related
+- [Active learning in an entry-level biology course closed performance gaps between underrepresented and non-underrepresented minority students and increased all students' self-efficacy](active-learning-closed-gaps-increased-self-efficacy.md) — a narrower finding that bears on this claim

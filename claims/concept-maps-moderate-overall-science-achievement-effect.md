@@ -47,3 +47,4 @@ Random-effects meta-analysis of 58 comparisons from 55 studies involving 5,364 s
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Graphic organizers such as concept maps improve comprehension and retention with a medium average effect; that novices benefit more rests on a few small subgroups](graphic-organizers-support-novice-comprehension.md) — related
 - [High teaching guidance in concept mapping yields larger effects than low guidance, though marginal after excluding influential studies](high-teaching-guidance-larger-concept-map-effects.md) — related
+- [Self-generated concept mapping benefits learning from grade 4 onwards with similar effect sizes across grades 4–8, 9–12, and college](concept-mapping-effective-grade-4-onwards.md) — a narrower finding that bears on this claim

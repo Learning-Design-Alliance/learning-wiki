@@ -12,7 +12,7 @@ generated:
 # Simplify and Clarify Instructions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (5 causal, 3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 12 studies (5 causal, 5 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 3 of 12 report an effect size
 
 ## Description
 Simplify and clarify instructions means writing or speaking task directions in short, syntactically simple, and unambiguous language so that working memory is spent on the task, not on decoding the directions. It involves one action per sentence, concrete verbs, explicit sequencing, and removal of idioms, hedging, and embedded clauses that do not carry instructional meaning.

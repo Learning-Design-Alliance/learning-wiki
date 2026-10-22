@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 147 claims (62 for, 77 mixed, 8 against) · 104 studies (33 causal, 22 review, 17 associational, 16 quant-synthesis, 12 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 28 of 104 report an effect size · 136 claims rest on one study
+> **Evidence** · 150 claims (62 for, 80 mixed, 8 against) · 105 studies (33 causal, 22 review, 17 quant-synthesis, 17 associational, 12 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 29 of 105 report an effect size · 139 claims rest on one study
 
 ## Conditional relationship
 
@@ -239,6 +239,9 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Adding metacognitive prompts to video modeling examples yields no added benefit for inquiry products](../claims/metacognitive-prompts-no-added-benefit-video-modeling.md) [-W]
 - [Among 53 quantitative SRL interventions for pre-service teachers, effect sizes were distributed evenly across highly effective (n = 17), moderately effective (n = 16) and less effective (n = 20) categories](../claims/srl-pst-interventions-balanced-effectiveness-distribution.md) [~W]
 - [General pre-warnings mostly show null effects, but monitoring with susceptibility feedback reduces susceptibility](../claims/pre-warnings-null-effects-susceptibility-feedback-effective.md) [+W]
+- [Monitoring tools show low effects on learning motivation (d = 0.17)](../claims/monitoring-tools-motivation-d017.md) [~W]
+- [Descriptively, monitoring interventions with teacher feedback on entries and direct revision opportunities showed higher effects](../claims/teacher-feedback-and-revision-descriptive-advantage.md) [~W]
+- [Monitoring tool effects were larger in shorter interventions, contrary to the duration hypothesis](../claims/monitoring-effects-larger-shorter-interventions.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

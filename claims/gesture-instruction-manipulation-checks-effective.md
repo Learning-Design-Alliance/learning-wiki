@@ -65,3 +65,4 @@ Study 2 face-to-face manipulation check (N = 98) confirmed the instruction manip
 - [Instructing adults to gesture while reading narratives aloud hindered free recall relative to spontaneous gesturing (Study 1)](instructed-gesture-hinders-narrative-free-recall.md) — related
 - [In Study 2, spontaneous gesturing produced better specific recall than instructed gesturing, and negative narratives were recalled better than positive](study2-specific-recall-gesture-and-emotion.md) — related
 - [Gesture instructions impaired narrative recall only for participants with average or above-average verbal memory, not those below average (Study 1)](gesture-instruction-harms-recall-high-verbal-memory.md) — related
+- [Emotional valence consistently influences narrative recall, with negative narratives most memorable, while instructed gesturing shows mixed effectiveness](emotional-valence-narrative-recall-gesture-mixed.md) — related

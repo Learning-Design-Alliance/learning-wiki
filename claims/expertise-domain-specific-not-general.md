@@ -50,3 +50,4 @@ The review reports, citing Voss et al. (2010), that evidence for domain-generic 
 - [The report attributes to Glaser et al. (1985) that skilled and less skilled avionics technicians generated plans equally often but differed in plan quality, with experts deploying domain-particularized strong methods](weak-methods-shared-strong-methods-expert-only.md) — a narrower finding that bears on this claim
 - [Deliberate practice research is largely correlational with large unexplained variability in accumulated practice hours](deliberate-practice-correlational-limits.md) — related
 - [Expert teachers' fixations are significantly more focused (less dispersed) than novices' when viewing classroom scenes, irrespective of video type](expert-fixations-more-focused-than-novices.md) — related
+- [Novices risk practicing motor skills incorrectly with mental simulation, while experts benefit across task types](ms-novice-expertise-risk.md) — related

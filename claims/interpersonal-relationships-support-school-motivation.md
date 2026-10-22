@@ -52,3 +52,4 @@ Author's enumeration in the abstract; element (b) frames interpersonal relations
 - [Students enact agency toward groups by fostering relational awareness, building interpersonal relationships, holding dialogue, and seeing from other perspectives](agency-toward-groups-actions.md) — related
 - [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — related
 - [Four factors explain students' sense of belonging in STEM, with interpersonal relationships the most commonly cited](four-factors-interpersonal-relationships-competence-interest-identity-explain-belonging.md) — related
+- [Teacher–student relationships and teacher support are used interchangeably in adolescent motivation research, in both terminology and measurement](tsr-and-teacher-support-used-interchangeably.md) — related

@@ -32,15 +32,31 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 2
+  - id: slava-kalyuga-2010
+    resource: "https://doi.org/10.1007/s11251-009-9102-0"
+    title: "Slava Kalyuga, Alexander Renkl. (2010). Expertise reversal effect and its instructional implications: introduction to the special issue. Instructional Science. https://doi.org/10.1007/s11251-009-9102-0"
+    author: Slava Kalyuga, Alexander Renkl
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+  - id: leonard-tetzlaff-2021
+    resource: "https://doi.org/10.1007/s10648-020-09570-w"
+    title: "Leonard Tetzlaff, Florian Schmiedek & Garvin Brod. (2021). Developing Personalized Education: A Dynamic Framework. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09570-w"
+    author: "Leonard Tetzlaff, Florian Schmiedek & Garvin Brod"
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
 id: expertise-reversal-effect
-aliases: [expertise-reversal-guidance-hurts-experts, expertise-reversal-effect-redundant-support-harms-experts, multimedia-principles-benefit-novices]
+aliases: [expertise-reversal-guidance-hurts-experts, expertise-reversal-effect-redundant-support-harms-experts, multimedia-principles-benefit-novices, expertise-reversal-effect-dynamic-aptitudes, expertise-reversal-effect-definition]
 evidence_strength: moderate
 ---
 
 # Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 1 causal `r?`, 1 review `r2`, 1 theoretical `r2` · `q1`–`q3`
+> **Evidence** · 5 studies · 3 review `r2`, 1 causal `r?`, 1 theoretical `r2` · `q1`–`q3`
 
 The expertise reversal effect describes a recurring pattern in instructional research: scaffolds, explanations, and worked examples that reduce cognitive load for novices lose value once learners have already internalized the underlying schema.
 
@@ -56,6 +72,10 @@ The expertise reversal effect describes a recurring pattern in instructional res
 
 `q1 i?` A conceptual paper on serious games restates, citing Kalyuga et al. (2003), that additional text is redundant for experts and has negative rather than positive effects, and argues that instructional design should be tailored to learners' level of experience; it presents no new data. [→ Obikwelu 2013](#obikwelu-2013)
 <!-- deprecated (2026-10-05, read as a finding of the paper itself): Providing additional text is redundant for experts and has negative rather than positive effects, demonstrating the expertise reversal effect; the authors conclude instructional design should be tailored to learners' level of experience. -->
+
+`q2 i?` Instructional methods that benefit novices can become unnecessary or detrimental for advanced learners, as a full or partial reversal. [→ Slava Kalyuga 2010](#slava-kalyuga-2010)
+
+`q2 i?` A special case of ATI in which an instructional parameter increases learning gains in novices but decreases them in experts, highlighting the need for dynamic conceptualization of aptitudes. [→ Leonard Tetzlaff 2021](#leonard-tetzlaff-2021)
 
 ## Evidence
 
@@ -107,6 +127,26 @@ Section 6 of this conceptual paper reports the expertise reversal effect as attr
 
 > "Providing additional text is redundant for experts and will have negative rather than positive effects, thus demonstrating the expertise reversal effect."
 
+### Slava Kalyuga 2010
+
+Slava Kalyuga, Alexander Renkl. (2010). Expertise reversal effect and its instructional implications: introduction to the special issue. Instructional Science. https://doi.org/10.1007/s11251-009-9102-0
+
+`q2 · i?` · `review · r2`
+
+The authors define the expertise reversal effect, noting it has been replicated in many studies with a large range of instructional materials and participants, either as a full reversal (a disordinal interaction) or more often as a partial reversal with a significant interaction.
+
+> "The expertise reversal is a reversal in the relative effectiveness of instructional methods as levels of learner knowledge in a domain change."
+
+### Leonard Tetzlaff 2021
+
+Leonard Tetzlaff, Florian Schmiedek & Garvin Brod. (2021). Developing Personalized Education: A Dynamic Framework. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09570-w
+
+`q2 · i?` · `review · r2`
+
+The review describes the expertise reversal effect (Kalyuga 2007) as evidence that instructional parameters effective at the start of learning can actively impede learning as expertise grows; even reading a short text can alter the effectiveness of subsequent instruction (Rey and Fischer 2013).
+
+> "The expertise reversal effect is present if a certain instructional parameter leads to increased learning gain in novices, but decreased learning gains in experts."
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
@@ -130,7 +170,7 @@ Section 6 of this conceptual paper reports the expertise reversal effect as attr
 | [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i2; i? | [Design principle effects are larger in system-paced and in complex media, and learner prio](design-principle-effects-moderated-by-pacing-and-complexity.md) (counts against) |
 | [Rey et al. 2019](https://doi.org/10.1007/s10648-018-9456-4) | q3 / q4 · quant-synthesis · r? | i? | [Cognitive Load Management](cognitive-load-management.md) (counts against); [Learners with high prior knowledge benefit more from segmenting in retention performance t](prior-knowledge-moderates-segmenting-retention.md) (counts against) |
 | [Barbieri et al. 2023](https://doi.org/10.1007/s10648-023-09745-1) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.48 | [Cognitive Load Management](cognitive-load-management.md) (counts against) |
-| [Slava Kalyuga 2010](https://doi.org/10.1007/s11251-009-9102-0) | q2 / q3 · review · r2 | i? | [The relative effectiveness of instructional methods reverses as levels of learner knowledg](expertise-reversal-effect-definition.md) (supports); [Embedded explanatory notes improved Shakespearean text comprehension for novice readers bu](expertise-reversal-shakespearean-explanatory-notes.md) (supports); [Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school](expertise-reversal-iconic-scaffolds-development.md) (supports); [Adaptive fading of worked examples based on current skill level produced better learning o](adaptive-fading-worked-examples-benefits.md) (supports); [Cognitive and metacognitive prompts in learning journals helped early in a term but became](expertise-reversal-writing-journal-prompts-fading.md) (supports) |
+| [Slava Kalyuga 2010](https://doi.org/10.1007/s11251-009-9102-0) | q2 / q3 · review · r2 | i? | [The relative effectiveness of instructional methods reverses as levels of learner knowledg](expertise-reversal-effect.md) (supports); [Embedded explanatory notes improved Shakespearean text comprehension for novice readers bu](expertise-reversal-shakespearean-explanatory-notes.md) (supports); [Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school](expertise-reversal-iconic-scaffolds-development.md) (supports); [Adaptive fading of worked examples based on current skill level produced better learning o](adaptive-fading-worked-examples-benefits.md) (supports); [Cognitive and metacognitive prompts in learning journals helped early in a term but became](expertise-reversal-writing-journal-prompts-fading.md) (supports) |
 | [Spanjers et al. 2011](https://doi.org/10.1016/j.chb.2010.05.011) | q3 · causal · r? | i? | [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) (supports) |
 | [Spanjers 2010](https://doi.org/10.1007/s10648-010-9135-6) | q3 · review · r2 | i? | [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) (supports) |
 | [Dunlosky 2013](https://doi.org/10.1177/1529100612453266) | q2 · review · r2 | i? | [Elaborative interrogation benefits increase as learners' prior knowledge increases](elaborative-interrogation-prior-knowledge-moderator.md) (qualifies) |
@@ -213,7 +253,6 @@ Open questions include how finely expertise must be measured (domain-specific vs
 - [Adapting instruction to individual learners requires more advanced measurement of expertise and cognitive load](advanced-measurement-expertise-load-adaptive-instruction.md) — related
 - [Complex learning is lengthy, requiring instruction to account for learners' motivational states and expertise development](complex-learning-lengthy-motivation-expertise.md) — a broader claim this one bears on
 - Within cognitive load theory, the element interactivity and expertise reversal effects are usually not treated as closely related effects — related
-- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — a broader claim this one bears on
 - [Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school students but not higher-prior-knowledge ones, with the effect eliminated for younger middle-school children](expertise-reversal-iconic-scaffolds-development.md) — a narrower finding that bears on this claim
 - [Embedded explanatory notes improved Shakespearean text comprehension for novice readers but reversed for experts](expertise-reversal-shakespearean-explanatory-notes.md) — a narrower finding that bears on this claim
 - [The positive effect of integrated illustrations on transfer is stronger for students who lack experience in the text's domain (meteorology) than for high-experience students](illustration-integration-effect-stronger-for-low-experience-learners.md) — a narrower finding that bears on this claim
@@ -243,3 +282,9 @@ Open questions include how finely expertise must be measured (domain-specific vs
 - [Expertise reversal effect: learners with developed fluency do not benefit from unnecessarily explicit instruction and benefit more from open problem-solving approaches](expertise-reversal-effect-lri.md) — possibly the same claim (merge candidate)
 - [Moderate levels of interactivity tend to be most beneficial for learning, with benefits depending on task integration and assessment format](moderate-interactivity-benefits-learning.md) — related
 - [Scaffolding effectiveness depends on knowledge base: high-guidance scaffolding suits less advanced learners, high-self-regulation scaffolding suits advanced learners](scaffolding-guidance-self-regulation-moderated-by-knowledge-base.md) — a narrower finding that bears on this claim
+- [Imagining worked examples benefits learners with adequate prior knowledge but harms performance for low-knowledge learners](imagined-worked-examples-prior-knowledge.md) — a narrower finding that bears on this claim
+- [The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise](expertise-reversal-changes-from-expertise-levels.md) — related
+- [The review reports that the isolated-elements mixed instructional method benefits novices but the benefit disappears for experienced learners, and that the imagination effect reverses with expertise](expertise-reversal-isolated-elements-and-imagination-review.md) — a narrower finding that bears on this claim
+- [Cognitive Load Management](cognitive-load-management.md) — related
+- [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — related
+- [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](expertise-reversal-conceptual-understanding-statistics.md) — a narrower finding that bears on this claim

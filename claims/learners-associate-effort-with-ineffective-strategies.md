@@ -45,3 +45,4 @@ The review reports, citing Kirk-Johnson et al. (2019), that learners who gave hi
 ## Related Claims
 - [Qualitative findings: students initially held inaccurate beliefs about strategy efficacy, and high effort from interleaved practice was misinterpreted as a sign of poor learning](effort-misinterpreted-as-poor-learning.md) — possibly the same claim (merge candidate)
 - [Perceived effort is higher and perceived learning lower for interleaving than blocking, and experience-mediated increases in perceived learning raise interleaving choices](interleaving-effort-learning-ratings-onan.md) — related
+- [In a within-subjects category-learning experiment, students reported higher mental effort and lower concurrent judgments of learning during interleaved than during blocked studying](interleaved-higher-effort-lower-jol-within-subjects.md) — a narrower finding that bears on this claim

@@ -54,3 +54,4 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 - [Anti-bullying intervention effects are weak, and RCT designs show even smaller effects than earlier meta-analyses suggested](anti-bullying-intervention-effects-weak.md) — related
 - [Funnel-plot asymmetry indicates small-study effects for some emotion–learning models](funnel-plot-asymmetry-emotion-learning-models.md) — related
 - [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](cross-age-tutoring-publication-bias-mixed.md) — related
+- [The ratio–interactive-skills association may be partly or entirely attributable to small-study publication bias](publication-bias-ratio-association.md) — related

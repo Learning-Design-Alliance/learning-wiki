@@ -24,7 +24,7 @@ sources:
 # Responsive Teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (14 for, 10 mixed, 2 against) · 41 studies (10 review, 9 quant-synthesis, 9 qualitative, 8 causal, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 5 of 41 report an effect size · 17 claims rest on one study
+> **Evidence** · 26 claims (14 for, 10 mixed, 2 against) · 43 studies (12 review, 9 quant-synthesis, 9 qualitative, 8 causal, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 5 of 43 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
