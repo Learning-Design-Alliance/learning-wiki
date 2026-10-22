@@ -48,3 +48,4 @@ Qualitative finding from student emails and posts in the case study. The authors
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — a narrower finding that bears on this claim
+- [Teacher autonomy support is associated with students' emotional engagement, playing a complementary role to structure](autonomy-support-associated-emotional-engagement.md) — related

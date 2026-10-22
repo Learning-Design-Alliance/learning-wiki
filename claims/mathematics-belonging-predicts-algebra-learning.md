@@ -83,3 +83,4 @@ The same follow-up study found "non-Asian racial and ethnic minority students re
 - [A sense of relatedness moderates East Asian learners' internalization of others' choices, with benefits of other-made choices diminishing without belongingness](relatedness-moderates-other-made-choices.md) — related
 - [Belonging may be more predictive of students' classroom participation and learning behavior than self-efficacy](belonging-more-predictive-than-self-efficacy.md) — related
 - [Being offered Supplemental Instruction shows no significant effect on sense of belonging, measured with a low-reliability scale](si-offer-no-effect-belonging.md) — related
+- [Prior math self-concept moderated positive feedback on self-concept: positive feedback strengthened pre-existing self-concept](prior-self-concept-moderates-positive-feedback-self-concept.md) — related

@@ -56,3 +56,4 @@ The review's comparative framing: it reports that the effect's empirical pattern
 - [Aptitude-by-treatment interactions for instructional structure show mixed support: crossovers in some studies, nulls in others](ati-structure-ability-interactions-mixed.md) — related
 - [Grasping virtual objects benefits low language aptitude learners but not high language aptitude learners relative to audiovisual baseline](grasping-benefits-low-aptitude-not-high-aptitude-learners.md) — related
 - [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — related
+- [Hypothesized ATI effects of individualized explanations based on typical mistakes were not supported; exploratory benefits emerged for high-resource vocational-school students](individualized-explanations-ati-hypotheses-not-supported.md) — a narrower finding that bears on this claim

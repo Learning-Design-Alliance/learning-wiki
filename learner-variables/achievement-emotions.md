@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 99 claims (67 show a difference, 24 mixed, 8 no difference) · 71 studies (19 associational, 18 causal, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 13 of 71 report an effect size · 96 claims rest on one study
+> **Evidence** · 101 claims (67 show a difference, 25 mixed, 9 no difference) · 73 studies (20 causal, 19 associational, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 14 of 73 report an effect size · 98 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -134,6 +134,8 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Climate-emotion associations and the enjoyment-participation indirect effect hold when controlling for topic emotions and discussion frequency, but some emotion-outcome paths do not](../claims/robustness-topic-emotions-controls-civic-emotions.md) [~M] — learners who differ on it differ in outcomes
 - [Enjoyment relates positively and shame, anxiety, and boredom relate negatively to political knowledge, but classroom climate is not significantly mediated via emotions for knowledge](../claims/emotions-political-knowledge-civic-education.md) [~M] — learners who differ on it differ in outcomes
 - [Open classroom climate is positively related to enjoyment and negatively related to anxiety and boredom in civic education, with no relation to shame](../claims/open-classroom-climate-enjoyment-anxiety-boredom-civic.md) [~M] — instruction changes it
+- [Achievement goal instructions show no main effects on achievement emotions in game-based learning](../claims/goal-instructions-no-emotion-effects-gbl.md) [-M] — instruction changes it
+- [Negative feedback lowered math self-concept indirectly via enjoyment and hope; positive feedback raised it via hope](../claims/feedback-indirect-effects-math-self-concept.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 

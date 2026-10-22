@@ -49,3 +49,4 @@ The review reports, citing Hospel and Galand (2016), that students were "more em
 - [A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes](emotional-engagement-social-presence-ai-collaborative-learning.md) — related
 - [Experienced effort-by-need frustration is neither a necessary requirement nor a typical concomitant of high-quality learning](need-frustration-not-necessary-for-learning.md) — related
 - [Study resources buffer the negative impact of study demands on student psychological well-being](study-resources-buffer-demand-impact.md) — related
+- [Main effects and the interaction of classroom autonomy support and structure were tested on the three engagement components using multilevel analyses](multilevel-test-autonomy-structure-interaction-engagement.md) — related

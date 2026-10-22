@@ -85,3 +85,4 @@ Narrative review attributing this to Lafay et al. (2021): third and fifth grader
 - [Observing gestures embedded in instruction aids learning, especially when gestures convey a different strategy than speech](observing-gestures-in-instruction-aids-learning.md) — related
 - [Gesturing during learning improves retention and reduces cognitive load](gesturing-during-learning-retention-load.md) — related
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — related
+- [Observing and producing gestures can enhance comprehension of verbal messages including narratives](gesture-enhances-verbal-comprehension-established.md) — related

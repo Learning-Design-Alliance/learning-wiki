@@ -68,3 +68,4 @@ Primary studies reviewed in the article report work-avoidance goals correlating 
 - [Achievement goals and achievement emotions are systematically interrelated across 2,644 effect sizes from 355 studies](goals-emotions-interrelations-meta-analysis.md) — a broader claim this one bears on
 - [Facets of mastery goals, but not population, moderate goal-emotion interrelations](mastery-facets-moderate-goal-emotion-links.md) — related
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related
+- [Achievement goal instructions show no main effects on achievement emotions in game-based learning](goal-instructions-no-emotion-effects-gbl.md) — related

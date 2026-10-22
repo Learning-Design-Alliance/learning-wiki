@@ -49,3 +49,4 @@ Face-to-face experiment with 98 participants who first retold a cartoon to measu
 - [Instructing adults to gesture while reading narratives aloud hindered free recall relative to spontaneous gesturing (Study 1)](instructed-gesture-hinders-narrative-free-recall.md) — related
 - [Emotional valence consistently influences narrative recall, with negative narratives most memorable, while instructed gesturing shows mixed effectiveness](emotional-valence-narrative-recall-gesture-mixed.md) — related
 - [Gesture effects on narrative comprehension are not moderated by total task difficulty or age when measured through free recall and specific questions](gesture-comprehension-not-moderated-by-difficulty-or-age.md) — related
+- [Observing and producing gestures can enhance comprehension of verbal messages including narratives](gesture-enhances-verbal-comprehension-established.md) — related

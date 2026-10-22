@@ -51,3 +51,4 @@ Correlational analyses (N = 358) of prediction accuracy as bias: positive emotio
 - [Students use positive and negative achievement emotions as cues when making predictions about their comprehension](emotions-as-cues-predictions.md) — related
 - [Stronger positive emotions are associated with less underconfident postdictions, and anxiety and shame with more underconfident postdictions](emotions-postdiction-accuracy-underconfidence.md) — related
 - [Greater anger, hopelessness, and negative emotions overall during reading are associated with poorer text comprehension, while positive emotions show no relation](negative-achievement-emotions-poorer-text-comprehension.md) — related
+- [Negative normative feedback lowered math performance indirectly via reduced hope](negative-feedback-indirect-lowered-performance-hope.md) — related

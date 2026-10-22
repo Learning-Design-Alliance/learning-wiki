@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 221 claims (137 show a difference, 50 mixed, 34 no difference) · 161 studies (100 associational, 26 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 24 of 161 report an effect size · 213 claims rest on one study
+> **Evidence** · 225 claims (140 show a difference, 51 mixed, 34 no difference) · 162 studies (101 associational, 26 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 25 of 162 report an effect size · 217 claims rest on one study
 
 ## How to read this page
 
@@ -259,6 +259,10 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Population type significantly moderates the gender gap in L2 achievement, largest in secondary schools and smallest at university](../claims/population-type-moderates-l2-gender-gap.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Norm policing amplifies loneliness and social anxiety: higher-weight students are lonelier in schools with stronger weight policing, and gender policing harms gender-atypical boys](../claims/norm-policing-amplifies-distress.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Girls exhibited a stronger decrease in mathematics ASC than boys over the school year, while school type did not predict ASC development](../claims/girls-stronger-asc-decrease-school-type-null.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Boys outperform girls on graphics tasks classified as Axis and Map graphical languages](../claims/boys-outperform-girls-axis-map-languages.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender differences on graphics items arise on tasks requiring movement between 2D and 3D representations or directional processing, not on 2D-to-2D tasks](../claims/gender-differences-2d-3d-processing-items.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The gender gap in graphics decoding remained stable over three years, with no gender-by-year interaction](../claims/gender-gap-stable-across-three-years.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The overall gender difference across the six graphical languages is statistically significant after controlling for non-verbal ability](../claims/gender-main-effect-six-graphical-languages.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

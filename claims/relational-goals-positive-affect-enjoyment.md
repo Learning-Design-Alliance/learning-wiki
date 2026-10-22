@@ -65,3 +65,4 @@ The article reports, citing primary studies, that relational goals correlate wit
 - [Achievement goals and achievement emotions are systematically interrelated across 2,644 effect sizes from 355 studies](goals-emotions-interrelations-meta-analysis.md) — a broader claim this one bears on
 - [Facets of mastery goals, but not population, moderate goal-emotion interrelations](mastery-facets-moderate-goal-emotion-links.md) — related
 - [Enjoyment correlates positively (r = .31), and boredom, mathematics anxiety and test anxiety negatively (r = −.23 to −.28), with mathematics achievement](achievement-emotions-and-anxiety-correlate-with-math-achievement.md) — related
+- [Achievement goal instructions show no main effects on achievement emotions in game-based learning](goal-instructions-no-emotion-effects-gbl.md) — related

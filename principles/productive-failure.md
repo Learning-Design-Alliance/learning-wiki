@@ -79,7 +79,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (18 for, 22 mixed, 6 against) · 27 studies (15 causal, 6 review, 4 theoretical, 2 quant-synthesis), `q1`–`q4` · 11 of 27 report an effect size · 43 claims rest on one study
+> **Evidence** · 47 claims (19 for, 22 mixed, 6 against) · 28 studies (16 causal, 6 review, 4 theoretical, 2 quant-synthesis), `q1`–`q4` · 11 of 28 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -206,6 +206,10 @@ The designer's objective is understanding deep enough to use a concept on proble
 ## What would revise this model?
 
 The expectation should weaken if new comparisons with comparable learners, holding total time and practice equal, find no conceptual or transfer advantage for attempting first; or if the advantage disappears when the instruction-first condition also builds on typical student errors, which would locate the effect in the instruction rather than the order. It should be extended, not reversed, by studies of self-paced online versions. The non-STEM row should change if randomised trials outside mathematics and science find the advantage the two quasi-experiments recorded here did not; the vicarious-failure option should be dropped if trials by other research groups find watching diverse failed attempts worse than making them. The procedure rows should change if further trials of brief repeated attempts replicate, or fail to replicate, the one procedural gain recorded here, and the group rows if a powered trial shows attempting alone equivalent to, or worse than, attempting in groups.
+
+## Claims
+
+- [DI students relied on notes rather than exploring the agent-based models, while PF classes showed lively collaborative exploration and questioning](../claims/di-passive-note-reliance-vs-pf-exploration.md) [+W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

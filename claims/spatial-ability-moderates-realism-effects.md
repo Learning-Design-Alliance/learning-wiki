@@ -51,3 +51,4 @@ Narrative review attributing this to Brucker et al. (2014), who compared dynamic
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Test type determines realism benefits: realistic detail aids retention as retrieval cues, schematic visuals aid transfer](test-type-moderates-realism-benefits.md) — related
 - [Schematic visual games show larger learning effects than realistic games, which show no significant benefit over nongame conditions](schematic-visuals-outperform-realistic.md) — related
+- [Dynamic visualizations benefit vocational-school students with lower visual-spatial ability more than those with higher visual-spatial ability](dynamic-visualizations-compensate-low-visual-spatial-ability-vs-students.md) — related

@@ -53,3 +53,6 @@ The RQ2 MANOVA showed a moderate multivariate complexity effect (η² = 0.11); u
 - [The interaction of complexity and desirable difficulty does not significantly affect posttest performance](complexity-difficulty-interaction-not-significant-performance.md) — related
 - [Delayed post-learning assessments of ICL, ECL, and GCL do not differ between increasing and decreasing complexity sequences](delayed-assessments-invariant-to-sequence.md) — related
 - [Real-life complex tasks carry high intrinsic cognitive load, requiring new load-management methods](real-life-tasks-high-intrinsic-load-need-management.md) — reports the opposite
+- [Task complexity strongly affects germane cognitive load in Round 1, with effects dissipating by post-test](complexity-germane-load-round-effects.md) — related
+- [Task complexity has a strong omnibus multivariate effect on performance, GCL, meta-awareness, and intrinsic interest combined](complexity-omnibus-manova-effect.md) — related
+- [Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not in the consistently high complexity group](metacognition-meta-awareness-correlation-by-condition.md) — related

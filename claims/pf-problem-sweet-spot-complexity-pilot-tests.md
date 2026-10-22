@@ -69,3 +69,4 @@ Second pilot round tested both learning phases with one whole social science cla
 - [Collaborative group failure on ill-structured physics problems confers later individual problem-solving advantages over success on well-structured problems (productive failure)](productive-failure-group-failure-beats-structured-success.md) — related
 - [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](pf-outperformed-di-variance-conceptual-transfer.md) — related
 - [Constructive behaviors are defined by generating outputs containing new ideas that go beyond the information given](constructive-generates-beyond-information-given.md) — related
+- [Consistently high task complexity yields faster immediate problem-solving than gradually increasing complexity, with no post-test difference](high-complexity-faster-immediate-performance.md) — related

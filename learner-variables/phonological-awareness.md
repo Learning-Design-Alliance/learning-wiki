@@ -13,7 +13,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 78 claims (46 show a difference, 13 mixed, 19 no difference) · 47 studies (19 associational, 16 causal, 7 quant-synthesis, 3 review, 2 design), `q1`–`q3` · 15 of 47 report an effect size · 76 claims rest on one study
+> **Evidence** · 79 claims (47 show a difference, 13 mixed, 19 no difference) · 48 studies (19 associational, 17 causal, 7 quant-synthesis, 3 review, 2 design), `q1`–`q3` · 15 of 48 report an effect size · 77 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -119,6 +119,7 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [All five cognitive-linguistic skills (RAN, OA, PA, MA, vocabulary) significantly and independently predict Chinese word reading, with MA and vocabulary showing the largest effects](../claims/masem-five-skills-predict-chinese-word-reading.md) [+W] — learners who differ on it differ in outcomes
 - [Phonological awareness significantly predicts Chinese word reading even among children taught without any phonetic coding system](../claims/pa-significant-without-phonological-instruction.md) [+W] — learners who differ on it differ in outcomes
 - [Phonological instruction (Pinyin/Bopomofo) strengthens the role of phonological awareness but reduces reliance on morphological awareness in Chinese word reading](../claims/phonological-instruction-strengthens-pa-reduces-ma.md) [+W] — an instructional effect differs with it
+- [Syllable stress awareness and spelling skills correlate with each other and with in-game training performance](../claims/stress-awareness-spelling-validity-correlations.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

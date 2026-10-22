@@ -48,3 +48,4 @@ Paired t-test on the 168 students who completed pre-test, post-test, and all 11 
 - [Students reported statistically significant pre-post improvements in attitudes about learning after the summer ed-tech programs](summer-edtech-attitude-gains-significant.md)
 - [Students demonstrated significant improvement in genetics knowledge from pre-test to post-test after playing Geniventure](geniventure-significant-pre-post-genetics-improvement.md) — related
 - [First- and second-grade students' multiple-choice understanding of particle behavior improved significantly after seven STEP mixed-reality sessions.](step-mc-prepost-gains.md) — related
+- [Students learned chemistry content from the game-based learning session, with significant pretest-to-posttest gains](learning-occurred-cosmiclean-session.md) — possibly the same claim (merge candidate)

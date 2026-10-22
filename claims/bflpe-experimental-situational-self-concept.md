@@ -56,3 +56,4 @@ In the randomized IVR experiment, regression of situational self-concept on dumm
 - [Reanalyses of SCT choice-paradigm studies support the BFLPE, which was not moderated by students' chosen comparison targets](bflpe-reanalyses-not-moderated-by-comparison-choice.md) — related
 - [The negative contrast effect of high school-average achievement outweighs a weaker positive assimilation (reflected glory) effect](bflpe-contrast-outweighs-assimilation.md) — related
 - [Contrast and assimilation are competing compositional processes that can operate simultaneously](contrast-assimilation-competing-compositional-processes.md) — related
+- [Negative normative feedback directly increased subsequent math performance in sixth-graders](negative-normative-feedback-increased-math-performance.md) — related

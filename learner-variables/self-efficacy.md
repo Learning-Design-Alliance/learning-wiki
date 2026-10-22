@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 134 claims (102 show a difference, 20 mixed, 12 no difference) · 114 studies (41 associational, 22 causal, 18 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 22 of 114 report an effect size · 130 claims rest on one study
+> **Evidence** · 136 claims (103 show a difference, 20 mixed, 13 no difference) · 115 studies (42 associational, 22 causal, 18 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 23 of 115 report an effect size · 132 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -165,6 +165,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Belonging may be more predictive of students' classroom participation and learning behavior than self-efficacy](../claims/belonging-more-predictive-than-self-efficacy.md) [~M] — learners who differ on it differ in outcomes
 - [During inquiry-informed learning, students' interest, self-efficacy, and belonging were increasingly coordinated over time](../claims/interest-self-efficacy-belonging-coordinated-over-time.md) [+M] — instruction changes it
 - [Interest and self-efficacy are distinct yet reciprocally related in supporting learning](../claims/interest-self-efficacy-reciprocal-relation.md) [+M] — learners who differ on it differ in outcomes
+- [Higher attainment value with higher academic self-efficacy predicts challenge appraisal, whereas higher attainment value with lower academic self-efficacy predicts threat appraisal](../claims/value-and-efficacy-antecedents-of-fear-appeal-appraisal.md) [+M] — an instructional effect differs with it
+- [Prior academic self-efficacy and attainment value do not cross-predict each other over the school year](../claims/no-cross-paths-between-efficacy-and-attainment-value.md) [-W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -52,3 +52,4 @@ Longitudinal regression analysis (N = 162) from a multi-year study of mathematic
 - [First graders' whole number arithmetic knowledge predicts seventh graders' fraction arithmetic knowledge](wn-arithmetic-grade1-predicts-fraction-arithmetic-middle-school.md) — related
 - [Contrary to hypothesis, first graders' whole number arithmetic knowledge predicted eighth graders' fraction magnitude knowledge](wn-arithmetic-unexpectedly-predicts-fraction-magnitude.md) — related
 - [Neither first-grade whole number magnitude nor arithmetic knowledge uniquely predicted eighth-grade reading achievement](early-wn-knowledge-does-not-predict-middle-school-reading.md) — related
+- [Scaffolds yielded minimal effects for advanced-placement school students](minimal-scaffold-effects-aps-students.md) — related
