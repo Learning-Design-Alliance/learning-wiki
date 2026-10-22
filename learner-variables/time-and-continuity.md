@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 111 claims (72 show a difference, 30 mixed, 9 no difference) · 98 studies (39 causal, 18 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 19 of 98 report an effect size · 107 claims rest on one study
+> **Evidence** · 112 claims (73 show a difference, 30 mixed, 9 no difference) · 99 studies (39 causal, 19 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 19 of 99 report an effect size · 108 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -168,6 +168,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Outcome proximity moderates the dose–response relation: distal outcomes outperform proximal outcomes at dosages at or below 5.43 h, while proximal outcomes exceed distal outcomes at or above 22.6 h](../claims/proximity-by-dosage-interaction.md) [~M] — an instructional effect differs with it
 - [The dose–response relation for K-3 intensive mathematics interventions is linear, with no support for a nonlinear (quadratic) curve](../claims/linear-dose-response-early-math-interventions.md) [+M] — an instructional effect differs with it
 - [In a computer learning environment for electricity, the benefit of exploratory simulation time depended on instructional treatment (rule induction vs. rule application)](../claims/ati-exploration-time-by-rule-treatment-electricity.md) [~M] — an instructional effect differs with it
+- [Higher weekly childcare dosage was associated with lower probability of higher education enrollment](../claims/childcare-dosage-negative-association.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

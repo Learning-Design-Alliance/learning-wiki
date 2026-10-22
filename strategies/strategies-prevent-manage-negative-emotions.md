@@ -42,6 +42,7 @@ Participants offered practical strategies to reduce the onset of negative emotio
 ## Related Strategies
 
 - [Strategies for utilizing emotions to promote learning: spark curiosity via knowledge gaps, foster mastery orientation, transmit enthusiasm, and time emotional events within lessons](utilizing-emotions-to-promote-learning-strategies.md)
+- [Civic education teachers foster an open classroom climate to prevent negative emotions and increase enjoyment](foster-open-climate-civic-emotions-strategy.md)
 
 ## Examples
 -

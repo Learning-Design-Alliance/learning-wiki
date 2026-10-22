@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 81 claims (61 show a difference, 16 mixed, 4 no difference) · 43 studies (19 associational, 10 review, 7 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 43 report an effect size · 78 claims rest on one study
+> **Evidence** · 87 claims (64 show a difference, 17 mixed, 6 no difference) · 44 studies (20 associational, 10 review, 7 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 44 report an effect size · 84 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -116,6 +116,12 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [School-average achievement negatively predicts academic self-concept (BFLPE) and GPA in the comprehensive doubly-latent model](../claims/school-average-achievement-negative-compositional-effect-asc-gpa.md) [+M] — instruction changes it
 - [Starting contemporaneous effects on wave 2 in the STARTS model yields positive contemporaneous effects of achievement on academic self-concept and positive lagged effects of self-concept on achievement](../claims/corrected-starts-positive-contemporaneous-and-lagged-effects.md) [+M] — learners who differ on it differ in outcomes
 - [Receiver characteristics such as academic self-concept, self-efficacy, and achievement are proposed to moderate learners' engagement with feedback, but the achievement relation is conflicting](../claims/receiver-characteristics-moderate-recipience.md) [~M] — an instructional effect differs with it
+- [Classroom-average mathematics achievement shows no statistically significant association with ASC development when clique achievement is modeled simultaneously](../claims/classroom-achievement-no-significant-asc-effect.md) [-M] — instruction changes it
+- [Clique-average mathematics achievement negatively predicts the development of adolescents' academic self-concept (a BFLPE at the clique level)](../claims/clique-achievement-negative-bflpe-asc-change.md) [+M] — instruction changes it
+- [Girls exhibited a stronger decrease in mathematics ASC than boys over the school year, while school type did not predict ASC development](../claims/girls-stronger-asc-decrease-school-type-null.md) [~M] — instruction changes it
+- [Individual mathematics achievement is positively associated with students' ASC development over the school year](../claims/individual-achievement-positive-asc-change.md) [+M] — instruction changes it
+- [No statistically significant assimilation effect (BIRGE) of belonging to a higher-achieving clique within the classroom on ASC change](../claims/no-birge-assimilation-clique-level.md) [-M] — instruction changes it
+- [Variance in ASC change is statistically significant at individual, clique, and classroom levels, with a slight average decline in ASC across the school year](../claims/asc-change-variance-all-three-levels.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

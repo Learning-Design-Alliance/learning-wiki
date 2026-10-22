@@ -52,3 +52,4 @@ ITT analysis of tutoring attendance from the pooled RCT sample, with formal medi
 - [Seeking tutoring and attending supplemental instruction sessions are associated with significantly higher academic engagement](tutoring-si-attendance-engage-stem-students.md)
 - [End-of-course survey respondents strongly recommended the chatbot, but attitudinal outcomes showed no consistent treatment effects and survey participation was differentially selective](chatbot-student-attitudes-null-survey-selective.md) — related
 - [Chatbot outreach produced no spillover effects on other-course performance or medium-term effects on subsequent enrollment](chatbot-no-spillover-medium-term-effects.md) — related
+- [Offering Supplemental Instruction raises first-year students' course grades (d = 0.26) in a randomized field experiment](si-offer-raises-grades-rct.md) — related

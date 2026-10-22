@@ -49,3 +49,4 @@ Communicative-gaze dual-IV comparisons in the same sample of 40 teachers. Within
 - [Culture differentiates communicative but not attentional teacher scanpaths once expertise is controlled](culture-differentiates-communicative-scanpaths.md) — related
 - [Teacher scanpaths are most dissimilar across combined expertise-and-culture sub-groups, significantly for attentional gaze and marginally for communicative gaze](expertise-culture-subgroup-scanpath-difference.md) — related
 - [Expert teachers begin gaze sequences with student fixation and return to students throughout, whereas Hong Kong experts intersperse student scans that UK experts never use](expert-scanpaths-student-fixation-recycling.md) — related
+- [Expertise did not significantly predict gaze proportions toward student materials or teacher materials in either attentional or communicative gaze](expertise-null-material-gaze.md) — related

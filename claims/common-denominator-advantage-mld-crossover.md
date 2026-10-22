@@ -71,3 +71,4 @@ Post hoc comparisons of the significant four-way interaction (Wilks’ Lambda F(
 - [Group differences in fraction comparison accuracy persist when full scale IQ is included as a covariate](fraction-group-differences-persist-fsiq-covariate.md) — related
 - [Visual fraction models yield more accurate magnitude comparisons than Arabic numeral fractions for all ability groups, but the visual model advantage persists through Grade 8 only for children with MLD](visual-model-advantage-persists-mld.md) — related
 - [The one-half advantage in fraction comparison emerges by Grade 4 for TA children and Grade 5 for LA children, but only at Grade 7 for children with MLD, who never exceed ~75% accuracy on one-half items](delayed-one-half-advantage-mld.md) — related
+- [The comparison of decimal fractions undergoes developmental changes over the course of learning](developmental-changes-decimal-fraction-comparison.md) — related

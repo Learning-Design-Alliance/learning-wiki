@@ -68,3 +68,4 @@ Communicative-gaze sub-group comparison in the same sample showed the same direc
 - [Teachers' gaze scanpaths are more similar within an individual than between individuals, in both attentional and communicative gaze](teacher-scanpaths-intra-individual-similarity.md)
 - [Teachers and students use gaze to express agency and communion during classroom problem-solving](haataja-gaze-agency-communion.md) — related
 - [Teacher scanpaths are more similar within expertise levels than across expertise once culture is controlled, for both attentional and communicative gaze](expertise-differentiates-teacher-scanpaths.md) — related
+- [Expertise did not significantly predict gaze proportions toward student materials or teacher materials in either attentional or communicative gaze](expertise-null-material-gaze.md) — related

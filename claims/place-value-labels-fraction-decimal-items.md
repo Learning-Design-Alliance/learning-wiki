@@ -50,3 +50,4 @@ Secondary correlational analysis of the six true/false items pairing a fraction 
 - [Place value labels correlate positively with decimal magnitude understanding; whole number labels negatively](place-value-labels-correlate-decimal-magnitude.md) — a broader claim this one bears on
 - [Concept formation predicts accuracy judging decimal equivalency statements](concept-formation-predicts-decimal-equivalency.md) — related
 - [Domain-general cognitive abilities predict at-risk fourth graders' decimal magnitude understanding](cognitive-predictors-decimal-magnitude-at-risk-fourth-graders.md) — related
+- [The comparison of decimal fractions undergoes developmental changes over the course of learning](developmental-changes-decimal-fraction-comparison.md) — related

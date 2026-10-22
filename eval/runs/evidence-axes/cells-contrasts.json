@@ -39742,5 +39742,97 @@
  "technology-tool\tAI-based student advice service\thuman administrative staff": {
   "label": "AI-based student advice service vs human administrative staff",
   "treatment_is_a": true
+ },
+ "media-design\timage present with sentence\timage absent": {
+  "label": "image present vs image absent",
+  "treatment_is_a": true
+ },
+ "media-design\tsentences accompanied by an image\tsentences without an image": {
+  "label": "image present vs image absent",
+  "treatment_is_a": true
+ },
+ "media-design\tsentences with a picture\tsentences without a picture": {
+  "label": "image present vs image absent",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based tools in mathematics education\tnot stated in study": {
+  "label": "AI-based tools in mathematics education vs no stated technology-tool comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based tools, including adaptive tutoring systems and language models\tnot stated in study": {
+  "label": "AI-based tools in education vs no stated technology-tool comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-correcting and AI-mediating orchestration\tother orchestration types": {
+  "label": "AI-correcting or AI-mediating orchestration vs other orchestration types",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-customized culturally responsive content\tdifficulty finding culturally responsive texts without customization": {
+  "label": "AI-customized culturally responsive content vs difficulty finding culturally responsive texts without customization",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-customized texts aligned to student interests\tnon-customized or conventional texts": {
+  "label": "AI-customized texts aligned to student interests vs non-customized or conventional texts",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-customized texts at students’ reading levels\ttexts without AI level customization": {
+  "label": "AI-customized texts at students’ reading levels vs texts without AI level customization",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-detection approaches\tassessment-design reform": {
+  "label": "AI-detection approaches vs assessment-design reform",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-detection scores used as dispositive evidence of misconduct\tdetection evidence used alongside process evidence, student conversations, and due-process protections": {
+  "label": "Dispositive AI-detection evidence vs AI-detection evidence combined with process evidence and due process",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-detector use\tclassroom experience and other verification approaches": {
+  "label": "AI-detector use vs classroom experience and other verification approaches",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-deterrence-modified Qiskit assignment packages tested with ChatGPT\tno empirical comparison condition": {
+  "label": "AI-deterrence-modified Qiskit assignment packages tested with ChatGPT vs no empirical comparison condition",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-deterrence-modified Qiskit homework packages\tminimally engaged ChatGPT completion workflow": {
+  "label": "AI-deterrence-modified Qiskit homework packages vs minimally engaged ChatGPT completion workflow",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven PBL environments\tPBL environments without AI": {
+  "label": "AI-driven PBL environments vs PBL environments without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven PBL environments\tnot stated": {
+  "label": "AI-driven PBL environments vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven STEM education\tconventional knowledge-transmission STEM education": {
+  "label": "AI-driven STEM education vs conventional knowledge-transmission STEM education",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven STEM education emphasizing thinking, capability, and literacy\tconventional STEM education emphasizing knowledge transmission": {
+  "label": "AI-driven STEM education emphasizing thinking, capability, and literacy vs conventional STEM education emphasizing knowledge transmission",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven adaptive learning platforms\tnot stated": {
+  "label": "AI-driven adaptive learning platforms vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven adaptive learning systems\tnon-adaptive or conventional learning": {
+  "label": "AI-driven adaptive learning systems vs non-adaptive or conventional learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven cognitive surrender performing synthesis and analysis\tproductive cognitive offloading of routine mental tasks": {
+  "label": "AI-driven cognitive surrender for synthesis and analysis vs productive cognitive offloading of routine tasks",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven education embedded in market-oriented governance\thuman-centered, value-based education": {
+  "label": "AI-driven education embedded in market-oriented governance vs human-centered, value-based education",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven mannequin simulation\tother AI modalities and conventional methods": {
+  "label": "AI-driven mannequin simulation vs other AI modalities and conventional methods",
+  "treatment_is_a": true
  }
 }

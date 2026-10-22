@@ -50,3 +50,4 @@ Human-rater validation study: five M.Sc.-level psychologists, blind to persona c
 - [Observer-rated behavioral expression of high- and moderate-intensity ADHD personas declines progressively across turns in unscripted LLM conversations](observer-rated-persona-drift-unscripted-conversations.md) — related
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — a broader claim this one bears on
 - [Between-conversation persona stability is intensity-dependent: high-intensity ADHD personas cluster tightly while moderate-intensity personas show the highest aggregate variability](intensity-dependent-between-conversation-stability.md) — related
+- [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related

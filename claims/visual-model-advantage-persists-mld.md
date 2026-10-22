@@ -73,3 +73,4 @@ The Format × MLD Status interaction (Wilks’ Lambda F(6, 234) = 8.73, p < .000
 - [Visualization format has a large multivariate and univariate effect on identifying motions and spatial arrangements](manova-omnibus-visualization-format-effect.md) — related
 - [Fraction pairs with common denominators are compared more accurately than pairs with common numerators, but children with MLD show a crossover, improving on common numerator items while declining on common denominator items](common-denominator-advantage-mld-crossover.md) — related
 - [Mathspace dynamic representations, such as fraction smart shapes, let students see how changing the number of equal parts alters part size while the whole stays the same](mathspace-dynamic-representations-fractions.md) — related
+- [The comparison of decimal fractions undergoes developmental changes over the course of learning](developmental-changes-decimal-fraction-comparison.md) — related

@@ -31,7 +31,7 @@ sources:
 # Accessible Vocabulary & Syntax
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (13 for, 3 mixed, 2 against) · 26 studies (8 causal, 6 review, 4 quant-synthesis, 3 design, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 3 of 26 report an effect size · 13 claims rest on one study
+> **Evidence** · 19 claims (14 for, 3 mixed, 2 against) · 27 studies (9 causal, 6 review, 4 quant-synthesis, 3 design, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 27 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -115,6 +115,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](../claims/unfamiliar-contexts-distract-from-mathematics.md) [+W] — attached 2026-10-09 from Preparing Problems for Classroom Instruction (2012), which proposed "Personalize and scaffold problem contexts before problem solving: reword problems into familiar contexts and clarify unfamiliar words in advance".
 - [Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study](../claims/young-readers-rely-on-semantic-syntactic-context-for-word-analysis.md) [+W]
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [-M]
+- [Lexical simplification (high-frequency target words) substantially reduces word-level processing times in adult sentence reading](../claims/lexical-simplification-reduces-target-word-processing.md) [+W] — attached 2026-10-22 from Miriam Rivero-Contreras et al. (2023), which proposed "Apply Easy-to-Read adaptations—visual support and lexical simplification—to facilitate adult sentence processing"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

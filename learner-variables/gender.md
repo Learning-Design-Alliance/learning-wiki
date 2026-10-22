@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 220 claims (136 show a difference, 50 mixed, 34 no difference) · 160 studies (99 associational, 26 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 24 of 160 report an effect size · 212 claims rest on one study
+> **Evidence** · 221 claims (137 show a difference, 50 mixed, 34 no difference) · 161 studies (100 associational, 26 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 24 of 161 report an effect size · 213 claims rest on one study
 
 ## How to read this page
 
@@ -258,6 +258,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Most study characteristics (publication year, mean age, sampling, target language, L2 major, proficiency, measure, mode) do not significantly moderate the gender gap](../claims/non-significant-moderators-l2-gender-gap.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Population type significantly moderates the gender gap in L2 achievement, largest in secondary schools and smallest at university](../claims/population-type-moderates-l2-gender-gap.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Norm policing amplifies loneliness and social anxiety: higher-weight students are lonelier in schools with stronger weight policing, and gender policing harms gender-atypical boys](../claims/norm-policing-amplifies-distress.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Girls exhibited a stronger decrease in mathematics ASC than boys over the school year, while school type did not predict ASC development](../claims/girls-stronger-asc-decrease-school-type-null.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -39,6 +39,7 @@ The article outlines implementable options for blocking back-door paths when ran
 ## Related Strategies
 
 - [Select confounders using a modified disjunctive cause criterion, controlling covariates measured prior to the treatment variable](modified-disjunctive-cause-criterion-confounder-selection.md)
+- [Use propensity score matching with ATT estimation to reduce selection bias when comparing childcare arrangements in longitudinal administrative data](propensity-matching-childcare-arrangement-comparison.md)
 
 ## Examples
 -

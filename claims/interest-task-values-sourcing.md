@@ -68,3 +68,4 @@ The review reports that "two studies (Kang et al., 2011; Westerwick, 2013) exami
 ## Related Claims
 - [Working memory relates to sourcing in a minority of studies, while psychophysiological self-regulation shows a positive relationship](working-memory-self-regulation-sourcing.md) — related
 - [School racial climate subscales showed positive relationships with motivational constructs including interest, belonging, and utility value](school-racial-climate-positive-motivational-relationships.md) — related
+- [No statistically significant reciprocal relationships between Task interest and formative test performance were found.](no-reciprocal-task-interest-formative-test-links.md) — related

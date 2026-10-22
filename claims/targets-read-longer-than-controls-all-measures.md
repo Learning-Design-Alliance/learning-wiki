@@ -48,3 +48,4 @@ Nonparametric Kruskal-Wallis tests comparing L2 participants' (n = 23) reading o
 - [The L1-L2 distinction in incidental vocabulary acquisition from reading lies in the rate, not the ultimate outcome, of the acquisition process](l1-l2-distinction-rate-not-outcome.md) — related
 - [After eight encounters in reading, L2 learners recognize the form and meaning of unknown words better than they can recall their meaning](eight-encounters-form-meaning-recognition-exceed-recall.md) — related
 - [Eye tracking can identify which words a second-language reader had trouble understanding](eye-tracking-identifies-difficult-words-l2-reading.md) — related
+- [Lexical simplification (high-frequency target words) substantially reduces word-level processing times in adult sentence reading](lexical-simplification-reduces-target-word-processing.md) — related

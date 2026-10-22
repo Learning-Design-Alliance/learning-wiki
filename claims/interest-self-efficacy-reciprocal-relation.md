@@ -51,3 +51,4 @@ The review reports, citing Nuutila et al. (2020), a study of elementary students
 - [During inquiry-informed learning, students' interest, self-efficacy, and belonging were increasingly coordinated over time](interest-self-efficacy-belonging-coordinated-over-time.md) — a narrower finding that bears on this claim
 - [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](authentic-projects-build-career-self-efficacy.md) — a narrower finding that bears on this claim
 - [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](self-confidence-and-value-clustering-motivational-basis.md) — related
+- [No statistically significant reciprocal relationships between Task interest and formative test performance were found.](no-reciprocal-task-interest-formative-test-links.md) — related

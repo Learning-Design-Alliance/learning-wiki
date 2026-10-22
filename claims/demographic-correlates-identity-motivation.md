@@ -52,3 +52,4 @@ Initial descriptive correlational analyses (Table 1) of the 600-adolescent sampl
 - [Self-efficacy did not significantly moderate the mediation of the value-to-mastery relation through SRL](no-efficacy-moderation-value-path.md) — related
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
 - [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](limited-demographic-moderators.md) — related
+- [Demographic characteristics (gender, age, SES, school type, race/ethnicity) were only small correlates of high school students' school feelings, explaining less than 9% of variance in positive and less than 6% in negative feelings](demographics-small-correlates-school-feelings.md) — related

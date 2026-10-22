@@ -51,3 +51,4 @@ Per-lesson multiple regressions on worksheet fill-in-blank scores. Lesson 1: F(1
 - [Students who transferred prior-domain knowledge tended to offer correct explanations in the other domain](transfer-associated-with-correct-cross-domain-explanations.md) — related
 - [Prior attainment predicted several dialogue variables in preliminary regression analyses](prior-attainment-predicts-dialogue-frequencies.md)
 - [Students' overall AI knowledge improved significantly after four integrated AI-biology lessons](ai-knowledge-significant-gain-integrated-biology-lessons.md) — related
+- [Prior knowledge directly predicted all three formative assessments (β=.11, β=.24, β=.11) but no future interest outcomes.](prior-knowledge-predicts-formative-tests-not-interest.md) — related

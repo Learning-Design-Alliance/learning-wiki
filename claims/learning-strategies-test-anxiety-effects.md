@@ -51,3 +51,4 @@ Model M5 (Table 4) combining student characteristics, contextual factors, famili
 - [Higher internet literacy is associated with lower test anxiety in online exams](internet-literacy-lower-test-anxiety.md) — related
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — related
 - [Men show significantly lower autonomous regulation than women among adult learners](gender-difference-autonomous-regulation-adults.md) — related
+- [Contrary to prior situational-measure findings, female students in the ESM study reported lower positive and higher negative situational feelings, including significantly higher situational anxiety with a small effect (β = .158**) the authors question for practical relevance](gender-differences-persisted-in-situational-measures.md) — related

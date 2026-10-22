@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**985 entries** · 0 stable · 985 in review · 0 drafts
+**986 entries** · 0 stable · 986 in review · 0 drafts
 
 ---
 
@@ -847,6 +847,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Structurally embedded quality assurance: publication gated behind completed test-correct-verify cycles](publication-gated-qa-workflow.md) - This pattern embeds quality assurance structurally in the authoring workflow rather than relying on voluntary compliance.
 * [Structure EPP–district partnerships around shared governance with joint data-informed decision-making](shared-governance-epp-district-residency-partnerships.md) - Texas interwove responsibility for teacher preparation across educator preparation programs (EPPs) and districts, with grants built on the assumption that the two work in tandem.
 * [Structured autonomy: bounding generative agent behavior through layered pedagogical and domain constraints](structured-autonomy-agentic-learning-framework.md) - CyberAGENTS is a layered, ontology-guided multi-agent framework for gamified cybersecurity learning built on the principle of structured autonomy.
+* [Structured creative problem solving task with vignette-based problem situations and four pre-structured steps](structured-cps-task-vignette-four-steps.md) - The article constructed structured tasks in which students read a short vignette describing an everyday problem (science, social, or entrepreneurial domain) and are \"guided through four pre-structured steps of the tas...
 * [Structured scope-and-sequence lesson pattern with daily 20-30 minute explicit phonics instruction](95-pcp-scope-sequence-daily-phonics-pattern.md) - The program organizes instruction around a scope and sequence of lessons per grade — 25 lessons for Kindergarten and 30 lessons for each of Grades 1-5.
 * [Structuring PLCs with clear purpose and collaborative-work frameworks (High-Leverage Team Actions)](structured-plcs-high-leverage-team-actions.md) - Because PLCs without clarity of purpose may drift toward undirected planning or devolve into coffee chats, MiC districts organized PLCs more intentionally over time.
 * [Structuring versus problematizing as two scaffolding mechanisms](structuring-versus-problematizing-scaffolding-mechanisms.md) - The article adopts Reiser's distinction between two mechanisms by which scaffolding affects learning.
