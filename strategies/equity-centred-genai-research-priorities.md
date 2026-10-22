@@ -46,6 +46,7 @@ The review's forward-looking recommendation for future research on GenAI in Glob
 - [Prioritize real-world testing of AI tools in university settings, environmental impact measurement, and integrated ethical-sustainability policies](test-ai-tools-real-university-settings-measure-impact.md)
 - [Future AIHEd research should give greater attention to ethics, methodological rigour, context, and interdisciplinary collaboration](aihed-future-research-ethics-rigour-interdisciplinarity.md)
 - [Prioritize research on GenAI's impact on students with disabilities and design personalized teaching strategies for their needs](genai-research-students-with-disabilities.md)
+- [Prioritize construct-to-data mappings, multimodal validation, ethical implementation, and cross-disciplinary collaboration for domain-specific adaptive systems](domain-specific-adaptivity-research-priorities.md)
 
 ## Examples
 -

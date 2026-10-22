@@ -63,6 +63,7 @@ Inference-making is a teachable skill, not merely a byproduct of reading volume:
 - [Annotating](../principles/annotating.md) — marking clues and questions in the text externalizes the inference process
 - [Question Generation](../strategies/question-generation.md) — learners who pose "why" and "how" questions prompt their own inferencing
 - [Prompt children's underspecified inference responses to reveal their comprehension potential and model the standard of coherence required](prompt-underspecified-inference-responses.md)
+- [Teach three collaboration strategies for drawing collaborative inferences: information connection, information pooling, and information take-up](three-collaborative-inference-strategies-instruction.md)
 
 ## Examples
 - In a story where a character is repeatedly late and unprepared, learners infer disorganization from the accumulated details plus their own experience — then must cite which details warrant the conclusion.

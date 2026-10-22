@@ -46,3 +46,4 @@ Meta-analysis of N = 143 studies coded for scaffolding personalization; Table 1 
 - [Adaptable task progression is descriptively more beneficial than fixed task progression in simulation-based learning](adaptable-task-progression-higher-effects.md) — related
 - [Most primary studies in simulation-based learning do not personalize scaffolding or task progression](most-studies-lack-personalization.md) — related
 - [Fully adaptable learning environments are significantly less beneficial than non-personalized environments](fully-adaptable-environments-less-beneficial.md) — related
+- [Real-time adaptive scaffolding based on note-coded proof indicators elicited more elaborate diagnostic reasoning](adaptive-scaffolding-diagnostic-reasoning.md) — a narrower finding that bears on this claim

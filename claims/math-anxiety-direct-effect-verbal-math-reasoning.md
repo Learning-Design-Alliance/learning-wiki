@@ -82,3 +82,4 @@ SEM model comparison for NO in the same sample; the direct math-anxiety path was
 - [Math anxiety explained variance in posttest monitoring judgments beyond trait anxiety, supporting its distinctness from general anxiety](math-anxiety-distinct-from-trait-anxiety-in-monitoring.md) — related
 - [Math anxiety correlates weakly with working memory (r = −.18), and WM's mediating role between anxiety and math achievement is negligible](wm-weak-link-negligible-mediation.md) — reports the opposite
 - [Type of mathematics assessed (Numerical Operations vs Mathematical Reasoning) does not significantly influence effect sizes](math-type-no-significant-influence.md) — related
+- [Higher mathematics test anxiety predicts earlier practice-session exit, mediating lower learning gains in an adaptive math program](math-anxiety-earlier-exit-lower-gains.md) — related

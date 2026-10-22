@@ -69,3 +69,4 @@ Robustness check using the Latent Moderated Structural Equations method in Mplus
 - [Perceived usefulness negatively moderates the relationship between academic self-efficacy and academic stress](perceived-usefulness-moderates-efficacy-stress.md) — related
 - [Career adaptability partially mediates the negative effect of AI anxiety on career decisions, accounting for 63.35% of the total effect](career-adaptability-mediation-ai-anxiety-career-decisions.md) — related
 - [Academic self-efficacy does not significantly predict academic stress, and social influence does not directly predict AI dependence](ase-stress-and-si-dependence-null-paths.md) — related
+- [The relationship between teacher self-efficacy and self-reported cognitive activation does not vary across investigated school characteristics](no-cross-level-interactions-cognitive-activation.md) — related

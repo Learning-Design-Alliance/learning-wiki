@@ -49,3 +49,4 @@ Authors' overall interpretation of the 72-student Tarski's World experiment, sta
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Combining tangible puppets as mediating manipulatives with 3D manipulable animations fostered immediate transfer of imaginary students' perspectives in microteaching role-plays](puppets-3d-manipulatives-perspective-taking-transfer.md) — related
 - [In the underlying laboratory study, only expository instruction combined with probes produced CVS learning, with transfer limited by grade level](lab-expository-instruction-probes-effective.md) — related
+- [Tarski's World facilitated conditional reasoning relative to only-situated or only-formal instruction](tarski-world-facilitated-conditional-reasoning.md) — a narrower finding that bears on this claim

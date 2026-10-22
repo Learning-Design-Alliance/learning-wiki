@@ -58,9 +58,11 @@ Movement-based instruction works when the physical activity is *semantically con
 5. Use short activity breaks between instructional blocks when content itself is not movement-compatible, and re-establish attention before resuming instruction.
 
 ## Related Strategies
+
 - [Act It Out](act_it_out.md) — a specific enactment technique for narratives and processes
 - [Acting-Role-Play](acting-role-play.md) — role-based embodiment of social, historical, or scientific scenarios
 - [Active Learning](../principles/active-learning.md) — the broader principle that learners construct understanding through doing
+- [Support engagement particularly in academic subjects by incorporating exploration and learning by doing](support-engagement-in-academic-subjects-exploration.md)
 
 ## Examples
 - **Math**: students walk a floor number line to locate fractions, or form acute, right, and obtuse angles with their arms before drawing them.

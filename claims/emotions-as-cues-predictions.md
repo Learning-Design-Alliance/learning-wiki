@@ -52,3 +52,4 @@ Correlational analyses in the same field study (N = 358) showed all achievement 
 - [Greater anger, hopelessness, and negative emotions overall during reading are associated with poorer text comprehension, while positive emotions show no relation](negative-achievement-emotions-poorer-text-comprehension.md) — related
 - [Three emotion profiles (positive, neutral, negative) differ in prediction and postdiction magnitude and accuracy, with the positive group most overconfident in predictions and least underconfident in postdictions](emotion-profile-groups-judgment-differences.md) — related
 - [Negative normative feedback lowered math performance indirectly via reduced hope](negative-feedback-indirect-lowered-performance-hope.md) — related
+- [Within persons, better-than-usual math grades positively predict subsequent enjoyment and pride, and enjoyment and pride positively predict subsequent grades](grades-positive-emotions-within-person-reciprocal.md) — related

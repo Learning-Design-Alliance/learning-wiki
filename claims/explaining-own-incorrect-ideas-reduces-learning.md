@@ -92,3 +92,4 @@ The review reports a set of studies (e.g., Siegler & Chen 2008 on water displace
 - [Students using a worked-example revised probability textbook improved more in probabilistic reasoning than students using the standard textbook](worked-example-textbook-improves-probability-learning.md) — related
 - [Adding a self-explanation feature to a base game improved transfer performance](self-explanation-feature-improved-game-transfer.md) — related
 - [Correct and complete exemplar supports produced greater improvement in preservice teachers' fraction comparison explanations than supports displaying common misconceptions and errors](correct-exemplars-improve-pst-fraction-explanations.md) — a narrower finding that bears on this claim
+- [Misconception-based adaptive feedback reduced mathematics anxiety and supported motivation without cognitive outcome differences](misconception-feedback-affective-benefits.md) — related

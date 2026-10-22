@@ -55,6 +55,7 @@ The report recommends that districts collaborate with community members to devel
 - [Use the taxonomy as a self-assessment and strategic-planning roadmap for institutional AI adoption](taxonomy-as-ai-self-assessment-roadmap.md)
 - [Cross-stakeholder policy, research, and practice actions for collaborative AI initiatives in education](cross-stakeholder-ai-education-action-recommendations.md)
 - [Structure opportunities for students to evaluate AI outputs using locally grounded criteria of relevance, harm, and usefulness](evaluate-ai-outputs-locally-grounded-criteria.md)
+- [Prioritize construct-to-data mappings, multimodal validation, ethical implementation, and cross-disciplinary collaboration for domain-specific adaptive systems](domain-specific-adaptivity-research-priorities.md)
 
 ## Examples
 -

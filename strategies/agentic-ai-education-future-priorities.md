@@ -50,6 +50,7 @@ Drawing on the converging gaps across the reviewed literature, the review recomm
 - [Collaborative cross-cultural research agenda for validating AI-enabled pedagogical accompaniment](collaborative-agenda-validating-pedagogical-accompaniment.md)
 - [Pursue future research on ChatGPT in higher education to fill the gaps the scoping review identifies](chatgpt-he-future-research-directions.md)
 - [Integrate autonomy and agency paradigms, standardise instruments, probe non-demographic moderators, and extend evaluations to longitudinal real-world settings](integrate-paradigms-longitudinal-hri-autonomy-research.md)
+- [Prioritize construct-to-data mappings, multimodal validation, ethical implementation, and cross-disciplinary collaboration for domain-specific adaptive systems](domain-specific-adaptivity-research-priorities.md)
 
 ## Examples
 -

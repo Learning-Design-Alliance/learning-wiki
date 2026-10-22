@@ -46,3 +46,4 @@ Figure 6 plots the bifactor model's estimates of specific-dimension loadings div
 - [In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC](bifactor-model-preferred-aic-bic-testlet-test.md) — related
 - [The second-order multidimensional IRT model for testlets is formally equivalent to the testlet model, and both are restricted bifactor models](second-order-model-equivalent-to-testlet-model.md) — related
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
+- [Bifactor-(S-1) models of teacher Big Five personality fit student and teacher data better than single-domain or three-facets models](bifactor-s1-teacher-personality-best-fit.md) — related

@@ -52,6 +52,7 @@ The review's forward-looking recommendation is that future research move beyond 
 - [Prioritise equity-centred approaches, methodological diversity, contextual specificity, implementation science and interdisciplinary collaboration in GenAI research](equity-centred-genai-research-priorities.md)
 - [Future AIHEd research should give greater attention to ethics, methodological rigour, context, and interdisciplinary collaboration](aihed-future-research-ethics-rigour-interdisciplinarity.md)
 - [Pursue future research on ChatGPT in higher education to fill the gaps the scoping review identifies](chatgpt-he-future-research-directions.md)
+- [Prioritize construct-to-data mappings, multimodal validation, ethical implementation, and cross-disciplinary collaboration for domain-specific adaptive systems](domain-specific-adaptivity-research-priorities.md)
 
 ## Examples
 -

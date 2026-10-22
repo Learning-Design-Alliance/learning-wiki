@@ -54,3 +54,4 @@ The editorial reports, citing Ma, Zhang, Ni and Zhou, a latent profile analysis 
 - [Latent class analysis of 641 higher education students' survey responses identifies four distinct classes of feedback experience](four-latent-classes-feedback-experiences.md) — related
 - [Multimodal behavioral profiles of dyads' collaborative learning are identifiable by integrating video, audio, and log data, with emergent processes more explanatory than individual behaviors](multimodal-profiles-dyad-collaboration.md) — related
 - [Latent profile analysis of secondary students' log-file engagement in a digital chemistry textbook identifies six distinct cognitive and metacognitive engagement profiles](six-latent-profiles-engagement-digital-chemistry-textbook.md) — related
+- [Engagement profiles predict who benefits most from accuracy-based adaptive support](engagement-profiles-predict-adaptive-benefit.md) — related

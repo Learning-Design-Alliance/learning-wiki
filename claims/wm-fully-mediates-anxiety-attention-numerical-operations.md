@@ -63,3 +63,4 @@ SEM analysis (Full Mediation model, best fitting for NO) in 330 children; this s
 - [Math anxiety compromises working memory only when the anxiety is aroused by computation-based tasks, not on verbal span assessments](math-anxiety-compromises-working-memory-when-aroused.md) — related
 - [Math anxiety correlates weakly with working memory (r = −.18), and WM's mediating role between anxiety and math achievement is negligible](wm-weak-link-negligible-mediation.md) — reports the opposite
 - [Type of mathematics assessed (Numerical Operations vs Mathematical Reasoning) does not significantly influence effect sizes](math-type-no-significant-influence.md) — related
+- [Higher mathematics test anxiety predicts earlier practice-session exit, mediating lower learning gains in an adaptive math program](math-anxiety-earlier-exit-lower-gains.md) — related

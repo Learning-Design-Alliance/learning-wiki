@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 225 claims (140 show a difference, 51 mixed, 34 no difference) · 162 studies (101 associational, 26 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 25 of 162 report an effect size · 217 claims rest on one study
+> **Evidence** · 227 claims (140 show a difference, 53 mixed, 34 no difference) · 164 studies (103 associational, 26 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 26 of 164 report an effect size · 219 claims rest on one study
 
 ## How to read this page
 
@@ -263,6 +263,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Gender differences on graphics items arise on tasks requiring movement between 2D and 3D representations or directional processing, not on 2D-to-2D tasks](../claims/gender-differences-2d-3d-processing-items.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The gender gap in graphics decoding remained stable over three years, with no gender-by-year interaction](../claims/gender-gap-stable-across-three-years.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The overall gender difference across the six graphical languages is statistically significant after controlling for non-verbal ability](../claims/gender-main-effect-six-graphical-languages.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender related to students' emotions but showed no significant effects on math grades, while intelligence and SES related positively to grades](../claims/covariates-gender-intelligence-ses-effects.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Girls showed more SRL strategic behaviours than boys but did not outperform boys on task performance; child age correlated with metacognitive, motivational behaviours and performance](../claims/gender-age-differences-kindergarten-srl.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

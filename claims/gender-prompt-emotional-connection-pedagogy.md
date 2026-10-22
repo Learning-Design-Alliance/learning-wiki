@@ -53,3 +53,4 @@ Lexical comparison of female- versus male-prompted feedback for the same essays 
 - [LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high scores with more praise](llm-feedback-sentiment-tracks-scores.md) — related
 - The editorial reports epistemic stance as an integrated unit of analysis for online discussion, with learning manifested in evolving shifts of stance objects (Park et al.) — related
 - [Automatically coded dialogue acts distinguish male and female students' online communication](dac-detects-gender-differences-dialogue-acts.md) — related
+- [Gender related to students' emotions but showed no significant effects on math grades, while intelligence and SES related positively to grades](covariates-gender-intelligence-ses-effects.md) — related

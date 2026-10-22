@@ -49,3 +49,4 @@ In the pre-registered Study 1 between-subjects experiment (175 university studen
 - [In Study 1, differences in self-efficacy between the three conditions did not reach significance](chattutor-self-efficacy-null-study1.md) — related
 - [In Study 1, ChatTutor produced significantly higher trust, enjoyment, and behavioral intentions than ChatGPT, while students were blind to condition](chattutor-trust-enjoyment-intentions-study1.md) — related
 - [Support conditions did not differ from control in learning scores within the environment](no-condition-differences-learning-scores-swlep.md) — related
+- [Technology-enhanced adaptive teaching improves delayed but not immediate learning outcomes compared with business-as-usual teaching](adaptive-teaching-delayed-learning-benefit.md) — related

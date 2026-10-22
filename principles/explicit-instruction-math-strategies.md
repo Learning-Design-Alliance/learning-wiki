@@ -31,7 +31,7 @@ sources:
 # Explicit Instruction: Math Strategies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (16 for, 4 mixed) · 28 studies (13 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 28 report an effect size · 13 claims rest on one study
+> **Evidence** · 21 claims (17 for, 4 mixed) · 29 studies (14 causal, 5 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 4 of 29 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,7 @@ Learners, tasks and outcomes differ across these claims (seventh-grade algebra, 
 ## Further evidence, not yet read against this model
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — cited by the earlier page as a reason that strategy routines can organise problem solving and that too many strategies at once can overload; the claim is about working-memory limits in general (4 distinct studies in its table) and bears on this page only by inference, for example on limiting the number of methods per session.
+- [MLD children switch between direct subtraction and subtraction by addition only when the numerical distance between subtrahend and difference is large](../claims/mld-strategy-switching-limited-to-large-distance-problems.md) [+W] — attached 2026-10-22 from Peters et al. (2014), which proposed "Supplement routine direct-subtraction instruction for children with MLD with explicit teaching of subtraction by addition".
 
 ## Objective and learner-valued goal
 

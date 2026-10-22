@@ -88,3 +88,4 @@ In the regression analyses predicting cognitive strategy use, the gender coeffic
 - [The relations among motivational, strategy use, and performance constructs were similar across mathematics, English, and social studies](motivation-cognition-relations-similar-across-subjects.md) — related
 - [Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects](task-value-predicts-strategy-use-not-grades.md) — related
 - [Chatbot interaction depth varied by condition and subject: longer entries in physics than English and shorter entries in the cognitive learning condition than the utility value condition](chatbot-entry-length-varies-condition-subject.md) — related
+- [Mathematics shows the lowest student ratings of situational engagement among school subjects](mathematics-lowest-situational-engagement.md) — related

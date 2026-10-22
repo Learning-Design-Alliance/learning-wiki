@@ -43,7 +43,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (16 for, 26 mixed, 2 against) · 44 studies (12 review, 8 theoretical, 6 causal, 6 qualitative, 5 associational, 4 quant-synthesis, 3 design), `q1`–`q4` · 6 of 44 report an effect size · 36 claims rest on one study
+> **Evidence** · 46 claims (18 for, 26 mixed, 2 against) · 45 studies (12 review, 8 theoretical, 6 causal, 6 associational, 6 qualitative, 4 quant-synthesis, 3 design), `q1`–`q4` · 6 of 45 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,8 @@ Read against the model on 2026-10-19. Of the eighteen claims that had gathered h
 - [Teacher autonomy support and provision of structure are positively correlated across studies, with a pooled correlation of r = 0.53](../claims/autonomy-support-structure-positive-correlation.md) [+M] — attached 2026-10-21 from Alexandra Patzak (2025), which proposed "Blend teacher autonomy support with provision of structure rather than treating them as opposites"; tests this page's relationship.
 - [Both autonomy support and structure elevate students' motivation, engagement, and need satisfaction with moderate to large effect sizes](../claims/autonomy-structure-student-outcomes.md) [+M] — attached 2026-10-21 from Alexandra Patzak (2025), which proposed "Blend teacher autonomy support with provision of structure rather than treating them as opposites".
 - [A minority of studies report negative autonomy support–structure correlations, concentrated among teacher-report measures](../claims/negative-correlations-teacher-reports.md) [~W] — attached 2026-10-21 from Alexandra Patzak (2025), which proposed "Blend teacher autonomy support with provision of structure rather than treating them as opposites"; tests this page's relationship.
+- [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](../claims/autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) [+W] — attached 2026-10-22 from Flunger et al. (2024), which proposed "Support autonomy at both the individual and class level; class-directed support alone omits essential information"; tests this page's relationship.
+- [Students' perceived relative lack of autonomy support positively predicts extrinsic regulation](../claims/relative-lack-of-autonomy-support-predicts-extrinsic-regulation.md) [+W] — attached 2026-10-22 from Flunger et al. (2024), which proposed "Support autonomy at both the individual and class level; class-directed support alone omits essential information"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

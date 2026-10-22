@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (75 show a difference, 31 mixed, 14 no difference) · 78 studies (30 associational, 17 review, 14 causal, 6 quant-synthesis, 5 qualitative, 5 theoretical, 1 design), `q1`–`q4` · 20 of 78 report an effect size · 113 claims rest on one study
+> **Evidence** · 122 claims (77 show a difference, 31 mixed, 14 no difference) · 79 studies (30 associational, 17 review, 14 causal, 6 quant-synthesis, 6 theoretical, 5 qualitative, 1 design), `q1`–`q4` · 20 of 79 report an effect size · 115 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -156,6 +156,8 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Type of math task moderates the math anxiety–performance link: basic numerical knowledge shows the weakest correlation (r = −.22) and applied math among the strongest (r = −.31)](../claims/math-task-type-moderates-ma-link.md) [~M] — learners who differ on it differ in outcomes
 - [Background variables (need for cognition, test anxiety, mindset, puzzle experience) showed no consistent moderating patterns across the three experiments](../claims/background-moderators-no-consistent-patterns.md) [~W] — an instructional effect differs with it
 - [Idiographic diary analyses show daily anxiety relates differently to learning variables in different students, with some students profiting motivationally from anxiety](../claims/idiographic-anxiety-motivation-heterogeneity.md) [~M] — learners who differ on it differ in outcomes
+- [Higher mathematics test anxiety predicts earlier practice-session exit, mediating lower learning gains in an adaptive math program](../claims/math-anxiety-earlier-exit-lower-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Misconception-based adaptive feedback reduced mathematics anxiety and supported motivation without cognitive outcome differences](../claims/misconception-feedback-affective-benefits.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

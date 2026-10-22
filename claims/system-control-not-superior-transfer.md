@@ -52,3 +52,4 @@ The review attributes this conclusion to Salden, Paas, van der Pal and van Merri
 - [Shared control combined with high task variability improved transfer, while system control was better under low variability](shared-control-variability-transfer-interaction.md)
 - [Self-selected scaffolding customization yields higher effects than fixed time interval and performance-adapted customization](self-selected-customization-highest-effect.md) — related
 - [Shared control over task or problem selection between learner and system yields better learning outcomes than full system control](shared-control-task-selection-better-learning.md) — related
+- [Reflected case-based training combined with explicit strategy instruction and adaptive tutoring yields the best transfer performance, whereas strategy instruction without tutoring adds no benefit over case-based training alone](tutored-strategy-training-most-effective-for-inference-drawing.md) — reports the opposite

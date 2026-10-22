@@ -144,3 +144,4 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 - [Pedagogical interventions and scaffolds increase learners' use of self-regulated reading strategies](pedagogy-increases-self-regulated-reading-strategies.md) — related
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](fading-out-prompts-beat-permanent-prompts.md) — related
 - [Advanced learners may benefit from learner-controlled selection of learning tasks and levels of generality](learner-control-advanced-learners-flexibility.md) — related
+- [Cognitive-load-based quiz adaptation raised learning gains while domain-specific confidence-based adaptation did not](cognitive-load-adaptation-beats-confidence-adaptation.md) — a narrower finding that bears on this claim
