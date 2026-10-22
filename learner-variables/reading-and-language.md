@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 180 claims (115 show a difference, 26 mixed, 39 no difference) · 132 studies (34 causal, 31 associational, 29 quant-synthesis, 24 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 30 of 132 report an effect size · 171 claims rest on one study
+> **Evidence** · 180 claims (115 show a difference, 26 mixed, 39 no difference) · 132 studies (34 causal, 30 associational, 29 quant-synthesis, 24 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 30 of 132 report an effect size · 171 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].

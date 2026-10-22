@@ -13,19 +13,19 @@ sources:
     resource: "https://doi.org/10.1080/00461520.2026.2717081"
     title: "Carita Kiili, Ivar Bråten, and Julie Coiro. (2026). The framework of prior knowledge in online credibility evaluation. Educational Psychologist. https://doi.org/10.1080/00461520.2026.2717081"
     author: Carita Kiili, Ivar Bråten, and Julie Coiro
-    q: 2
+    q: 1
     i: "?"
-    kind: associational
+    kind: theoretical
     rigour: "?"
 ---
 
 # Topical vocabulary knowledge is positively associated with adolescents' multiple-source integration, evaluation, and synthesis performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r?` · `q2`
+> **Evidence** · 1 study · theoretical `r?` · `q1`
 
 ## Subclaims
-`q2 i?` Among 511 high school students, topical vocabulary was positively associated with performance on a scenario-based multiple-source assessment across history and science topics. [→ Carita Kiili 2026](#carita-kiili-2026)
+`q1 i?` A framework article reports, citing McCarthy et al. (2023), that among 511 high school students topical vocabulary was positively associated with performance on a scenario-based multiple-source assessment across history and science topics. [→ Carita Kiili 2026](#carita-kiili-2026)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Carita Kiili, Ivar Bråten, and Julie Coiro. (2026). The framework of prior knowledge in online credibility evaluation. Educational Psychologist. https://doi.org/10.1080/00461520.2026.2717081
 
-`q2 · i?` · `associational · r?`
+`q1 · theoretical framework article reporting another study's finding · i? · no effect size printed` · `theoretical · r?`
 
-The review reports, citing McCarthy et al. (2023), that 511 high school students completed a scenario-based assessment measuring integration, evaluation, and synthesis across sources, and that "Students’ topical vocabulary was found to be positively associated with their performance on the assessment task across both topics." No effect size is printed.
+This is a theoretical article introducing the Framework of Prior Knowledge in Online Credibility Evaluation, not an empirical study or systematic review. In describing topical vocabulary knowledge it reports, citing McCarthy et al. (2023), that 511 high school students completed a scenario-based assessment measuring integration, evaluation, and synthesis across sources, and that "Students’ topical vocabulary was found to be positively associated with their performance on the assessment task across both topics." No effect size is printed, and the association is correlational, so it cannot show that vocabulary causes better performance. The article adds that the link may not be straightforward: O'Reilly et al. (2019) found a knowledge threshold beyond which topical vocabulary began to predict reading comprehension.
 
 > "In the study by McCarthy et al. ( 2023), 511 high school students completed a scenario-based assessment on a history or a science topic that measured their ability to integrate, evaluate, and synthesize information from multiple sources. Students’ topical vocabulary was found to be positively associated with their performance on the assessment task across both topics."
 

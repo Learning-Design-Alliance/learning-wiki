@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 sources:
   - id: winstone-2017
+    resource: "https://doi.org/10.1080/00461520.2016.1207538"
     title: "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting Learners' Agentic Engagement with Feedback: A Systematic Review and a Taxonomy of Recipience Processes. *Educational Psychologist, 52*(1), 17–37. [doi:10.1080/00461520.2016.1207538](https://doi.org/10.1080/00461520.2016.1207538)"
     author: "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J."
     q: 2
