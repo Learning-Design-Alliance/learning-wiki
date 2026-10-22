@@ -18,7 +18,7 @@ sources:
 # Handouts/Online Guides/Visual Reading Aids
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (9 for, 6 mixed, 2 against) · 32 studies (11 causal, 10 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 32 report an effect size · 8 claims rest on one study
+> **Evidence** · 18 claims (9 for, 7 mixed, 2 against) · 33 studies (12 causal, 10 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 33 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,10 @@ For example, a patient given a medication handout wants to take the right dose a
 The expectation should weaken if a comparison of a complete reading aid with the same text alone, with comparable novice readers and an aligned comprehension test, showed no advantage, or showed that the gain disappeared when the aid was withdrawn and learners read a new text. If prompts on the aid add nothing beyond marks and structure, drop step 6's prompts. If learners given a full aid for several sessions read new texts less well than learners given a template from the start, the withdrawal arc is too slow. If guided notes help note accuracy but not learning, keep them as a record and stop claiming they teach. Do not protect the model by blaming every failure on a badly designed aid after the fact.
 
 Comprehension with the aid, comprehension of a new text without it, delayed retention and independent reading habits are separate claims. The present evidence sets no number of marks, no length of aid and no withdrawal schedule.
+
+## Claims
+
+- [Visual support reduces global sentence reading times and regressions in adult readers](../claims/visual-support-reduces-global-sentence-reading-times.md) [~W]
 
 ## Related Principles
 - [Clear Structure & Presentation](clear-structure.md) — reading aids are one way to make instructional structure visible.

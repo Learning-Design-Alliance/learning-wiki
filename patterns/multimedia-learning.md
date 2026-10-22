@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 82 claims (36 for, 44 mixed, 2 against) · 63 studies (34 causal, 11 review, 10 quant-synthesis, 3 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 17 of 63 report an effect size · 73 claims rest on one study
+> **Evidence** · 84 claims (38 for, 44 mixed, 2 against) · 64 studies (35 causal, 11 review, 10 quant-synthesis, 3 theoretical, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 18 of 64 report an effect size · 75 claims rest on one study
 
 ## Description and scope
 
@@ -147,6 +147,8 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Animations can be superior to static graphics for learning tasks involving human motor movement](../claims/human-movement-effect-animations-motor-tasks.md) [~W]
 - [Test type determines realism benefits: realistic detail aids retention as retrieval cues, schematic visuals aid transfer](../claims/test-type-moderates-realism-benefits.md) [~W]
 - [Videos and illustrated texts showed no significant difference in retrieval from materials or transfer among fifth and sixth graders](../claims/no-modality-difference-retrieval-transfer.md) [~W]
+- [Visual support reduces global sentence reading times and regressions in adult readers](../claims/visual-support-reduces-global-sentence-reading-times.md) [+W]
+- [Accompanying sentences with an image improves comprehension accuracy, significantly so for sentences containing low-frequency words](../claims/visual-support-improves-sentence-comprehension-accuracy.md) [+W]
 
 ## Examples
 

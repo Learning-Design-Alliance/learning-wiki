@@ -57,3 +57,5 @@ Review of secondary analyses of the PISA 2003 international assessment across 41
 - [Class-average achievement shows a small negative indirect effect on subsequent mathematics achievement mediated through mathematics self-concept](bflpe-negative-mediation-achievement.md) — related
 - [The BFLPE is one of the most robust findings in educational psychology, with negative school-average achievement effects on ASC in 181 of 191 PISA samples](bflpe-robust-across-pisa-samples.md) — related
 - [Contrast and assimilation are competing compositional processes that can operate simultaneously](contrast-assimilation-competing-compositional-processes.md) — a narrower finding that bears on this claim
+- [Classroom-average mathematics achievement shows no statistically significant association with ASC development when clique achievement is modeled simultaneously](classroom-achievement-no-significant-asc-effect.md) — reports the opposite
+- [Clique-average mathematics achievement negatively predicts the development of adolescents' academic self-concept (a BFLPE at the clique level)](clique-achievement-negative-bflpe-asc-change.md) — a narrower finding that bears on this claim

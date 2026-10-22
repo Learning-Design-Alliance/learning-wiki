@@ -53,3 +53,4 @@ In the integrated doubly latent path model with all covariates, the BFLPE on pos
 - [Class-average achievement negatively predicts mathematics self-concept after controlling individual achievement (BFLPE replication in TIMSS 2019)](bflpe-replication-timss-2019-contextual-mean-effect.md) — related
 - [School-average achievement negatively predicts parent, teacher, and student expectations and parent aspirations, with larger adverse effects for parents and especially teachers than students](bflpe-generalizes-expectations-aspirations.md) — related
 - [School-average achievement negatively predicts academic self-concept (BFLPE) and GPA in the comprehensive doubly-latent model](school-average-achievement-negative-compositional-effect-asc-gpa.md) — related
+- [Clique-average mathematics achievement negatively predicts the development of adolescents' academic self-concept (a BFLPE at the clique level)](clique-achievement-negative-bflpe-asc-change.md) — related

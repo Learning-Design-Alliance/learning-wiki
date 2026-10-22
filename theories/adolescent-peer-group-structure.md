@@ -12,7 +12,7 @@ generated:
 # Adolescent Peer Group Structure
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Adolescent peer relationships operate through several distinct, overlapping structures, each studied somewhat separately in developmental psychology.
@@ -42,6 +42,7 @@ Adolescent peer relationships operate through several distinct, overlapping stru
 ## Claims
 
 - [Rejected and disliked children communicate less responsively and less coherently than popular or liked peers](../claims/rejected-children-less-responsive-communication.md) [~W]
+- [Clique members are more similar in academic achievement than classroom members (ICC 0.33 vs. 0.17), offering preliminary support for the similarity criterion](../claims/clique-icc-greater-similarity-than-classroom.md) [+W]
 
 ## Related Theories
 

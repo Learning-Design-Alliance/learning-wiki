@@ -51,3 +51,4 @@ The two-wave SEM of 360 university students supported the hypothesis that "H3c w
 - [Creative performance weakly predicts metacognitive judgments, with perceived difficulty and task interest serving as additional cues](performance-difficulty-interest-cues-judgments.md) — related
 - [Task interest remains stable across consecutive creativity tasks: interest in one task is strongly and directly associated with interest in the next, with little mediation by task experience](task-interest-stable-across-creativity-tasks.md) — related
 - [Perceived effort ratings are metacognitive judgments based on heuristic cue processing and prone to bias](perceived-effort-metacognitive-judgment.md) — related
+- [Task interest was strongly interconnected across the course, with each task's interest predicting interest in the next tasks.](task-interest-strong-proximal-interconnections.md) — related

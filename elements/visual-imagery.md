@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (10 for, 7 mixed, 4 against) · 31 studies (14 causal, 12 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 4 of 31 report an effect size · 17 claims rest on one study
+> **Evidence** · 22 claims (11 for, 7 mixed, 4 against) · 32 studies (15 causal, 12 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 32 report an effect size · 18 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -68,6 +68,7 @@ Imagery-based encoding improves recall and comprehension because information sto
 - [Combining drawing with mentally imagining produces a negative effect of drawing, qualified by a significant interaction](../claims/drawing-mental-imagery-negative-interaction.md) [~W]
 - [Positively emotional images in learning materials produce a learning effect and increase learner satisfaction compared to negative images](../claims/emotional-design-positive-images-learning.md) [+W]
 - [Picture and gesture enrichment benefit children's learning of both concrete and abstract L2 words](../claims/enrichment-benefits-abstract-and-concrete-words.md) [+W]
+- [Accompanying sentences with an image improves comprehension accuracy, significantly so for sentences containing low-frequency words](../claims/visual-support-improves-sentence-comprehension-accuracy.md) [+W]
 
 ## The evidence by question
 

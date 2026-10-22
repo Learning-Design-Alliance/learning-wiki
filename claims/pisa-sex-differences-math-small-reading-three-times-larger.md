@@ -98,3 +98,4 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [No statistically significant sex differences in the direct associations among EF, task orientation, and mathematics or in the mediating effect of task orientation](no-sex-differences-ef-task-orientation-math-pathways.md) — related
 - [Males show a small overall advantage in mathematics performance (d = 0.083) across studies published 2010–2022](small-overall-male-advantage-mathematics-meta-analysis.md) — related
 - [Boys outperform girls on the final two-digit number test in this sample](gender-gap-final-math-test-first-graders.md) — a narrower finding that bears on this claim
+- [Girls exhibited a stronger decrease in mathematics ASC than boys over the school year, while school type did not predict ASC development](girls-stronger-asc-decrease-school-type-null.md) — related

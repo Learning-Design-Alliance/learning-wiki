@@ -52,3 +52,5 @@ Exploratory supplementary path analysis with SIMS80 data modeling mathematics se
 - [Class-average achievement negatively predicts mathematics self-concept after controlling individual achievement (BFLPE replication in TIMSS 2019)](bflpe-replication-timss-2019-contextual-mean-effect.md) — related
 - [Positive class-level peer spillover effects on mathematics achievement fail to replicate once measurement error is controlled with doubly latent models](peer-spillover-disappears-doubly-latent-models.md) — related
 - [School-average achievement negatively predicts academic self-concept (BFLPE) and GPA in the comprehensive doubly-latent model](school-average-achievement-negative-compositional-effect-asc-gpa.md) — related
+- [Classroom-average mathematics achievement shows no statistically significant association with ASC development when clique achievement is modeled simultaneously](classroom-achievement-no-significant-asc-effect.md) — reports the opposite
+- [Clique-average mathematics achievement negatively predicts the development of adolescents' academic self-concept (a BFLPE at the clique level)](clique-achievement-negative-bflpe-asc-change.md) — related

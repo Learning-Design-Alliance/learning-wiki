@@ -48,3 +48,4 @@ Authors' stated limitation of their own regression models: CA subdimensions adde
 - [Video game skill and time spent playing are associated with gaming motivations](skill-and-hours-associated-with-gaming-motivations.md)
 - [Younger male gamers report more anti-social motivations; pro-social gaming is more prevalent in older gamers](younger-male-gamers-antisocial-motivations.md)
 - [Playing games in a variety of modes (local and online multiplayer; cooperative and team-based) is associated with higher adaptability and communication scores](variety-of-play-modes-higher-adaptability.md) — related
+- [Demographic characteristics (gender, age, SES, school type, race/ethnicity) were only small correlates of high school students' school feelings, explaining less than 9% of variance in positive and less than 6% in negative feelings](demographics-small-correlates-school-feelings.md) — related

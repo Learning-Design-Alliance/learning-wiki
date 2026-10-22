@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 244 claims (168 show a difference, 49 mixed, 27 no difference) · 188 studies (60 associational, 49 causal, 34 review, 15 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 48 of 188 report an effect size · 232 claims rest on one study
+> **Evidence** · 248 claims (170 show a difference, 50 mixed, 28 no difference) · 189 studies (61 associational, 49 causal, 34 review, 15 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 49 of 189 report an effect size · 236 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -294,6 +294,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Maternal help in Grade 2 negatively predicts children's task persistence in Grade 3, with no prediction from Grade 3 to Grade 4](../claims/maternal-help-predicts-lower-task-persistence.md) [+M] — instruction changes it
 - [Maternal monitoring does not predict children's task persistence at any measurement point](../claims/monitoring-no-effect-task-persistence.md) [-M] — instruction changes it
 - [Weak indirect effects link Grade 2 autonomy granting and help to Grade 4 performance via Grade 3 task persistence; monitoring and reverse indirect effects are not significant](../claims/indirect-effects-via-task-persistence.md) [~W] — learners who differ on it differ in outcomes
+- [Interest in specific tasks (Task3, Task5, Task6) strongly predicted Course interest, and Task3 and Task5 also directly predicted Domain interest.](../claims/task-interest-predicts-course-and-domain-interest.md) [+W] — learners who differ on it differ in outcomes
+- [No statistically significant reciprocal relationships between Task interest and formative test performance were found.](../claims/no-reciprocal-task-interest-formative-test-links.md) [-M] — learners who differ on it differ in outcomes
+- [Prior Domain interest predicted interest in the most practical task (Task6, β=.25) and post Domain interest (β=.24), but not Course interest.](../claims/prior-domain-interest-practical-task-and-post-domain.md) [~M] — learners who differ on it differ in outcomes
+- [Task interest was strongly interconnected across the course, with each task's interest predicting interest in the next tasks.](../claims/task-interest-strong-proximal-interconnections.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

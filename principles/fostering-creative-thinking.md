@@ -189,6 +189,7 @@ Output during an activity, originality judged by raters, interest afterwards, un
 - Think first, AI later: university students list their own ideas for improving a product before opening ChatGPT, then use it to extend the list; their originality is judged on a later task done without it.
 - [Design AI feedback and task scope to leave room for open-ended creative exploration](../strategies/open-ended-exploration-ai-feedback-design.md)
 - [Writing Lab six-lesson lesson-series pattern alternating divergent and convergent thinking with a fixed compare-contrast, generate, select, apply, evaluate activity cycle](../designs/writing-lab-alternating-divergent-convergent-lesson-pattern.md)
+- [Top scoring: students self-select their top three ideas for a fluency-independent creativity rating](../strategies/top-scoring-self-selected-top-three.md)
 
 ## Key Sources
 - Gardner, H. (1993). *Creating minds: An anatomy of creativity seen through the lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, and Gandhi*. Basic Books.

@@ -49,3 +49,4 @@ Multiple group analysis in Amos 17.0 with age treated continuously within each g
 - [Dispositional learning goals positively predict memory self-efficacy in younger and older adults](learning-goals-predict-higher-memory-self-efficacy.md) — a narrower finding that bears on this claim
 - [The cross-lagged model holds equally for intervention and control groups and for boys and girls](model-invariance-gender-and-intervention-groups.md) — related
 - [The same three-factor model of emergent writing fits both younger and older preschool children despite skill-level differences](three-factor-model-invariance-across-preschool-ages.md) — related
+- [The GI/E pattern of relations between achievement and perceptions of the learning environment generalizes across same-aged elementary school students and students attending high-ability secondary schools.](gie-generalizes-across-school-types.md) — related

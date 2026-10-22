@@ -51,3 +51,4 @@ Calibration analysis comparing completeness scores to confidence ratings (1: Not
 - [Email-detection confidence judgments show good calibration but poor resolution, with aggregate overconfidence of 18%](phishing-metacognition-good-calibration-poor-resolution.md) — a narrower finding that bears on this claim
 - [Target strategy use did not vary by instructional support condition for any of the three fraction comparison tasks](target-strategy-use-did-not-vary-by-condition.md) — related
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related
+- [The comparison of decimal fractions undergoes developmental changes over the course of learning](developmental-changes-decimal-fraction-comparison.md) — related

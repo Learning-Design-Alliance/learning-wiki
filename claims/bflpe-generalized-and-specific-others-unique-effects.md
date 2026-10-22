@@ -49,3 +49,5 @@ Narrative review of Marsh et al. (2008), a study in which students completed a m
 - [Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49](bflpe-lower-asc-high-average-ability-schools.md) — related
 - [The BFLPE generalizes across countries, cultures, settings, and long-term follow-ups](bflpe-cross-cultural-generalizability.md) — a broader claim this one bears on
 - [Class-average achievement negatively predicts mathematics self-concept after controlling individual achievement (BFLPE replication in TIMSS 2019)](bflpe-replication-timss-2019-contextual-mean-effect.md) — related
+- [Classroom-average mathematics achievement shows no statistically significant association with ASC development when clique achievement is modeled simultaneously](classroom-achievement-no-significant-asc-effect.md) — reports the opposite
+- [Clique-average mathematics achievement negatively predicts the development of adolescents' academic self-concept (a BFLPE at the clique level)](clique-achievement-negative-bflpe-asc-change.md) — related

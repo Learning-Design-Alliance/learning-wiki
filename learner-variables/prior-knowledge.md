@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 156 claims (92 show a difference, 47 mixed, 17 no difference) · 128 studies (35 causal, 31 review, 21 theoretical, 16 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 128 report an effect size · 139 claims rest on one study
+> **Evidence** · 157 claims (92 show a difference, 47 mixed, 18 no difference) · 129 studies (35 causal, 31 review, 21 theoretical, 17 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 129 report an effect size · 140 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -204,6 +204,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Imagining worked examples benefits learners with adequate prior knowledge but harms performance for low-knowledge learners](../claims/imagined-worked-examples-prior-knowledge.md) [~M] — an instructional effect differs with it
 - [Cognitive barriers—insufficient background knowledge or working memory capacity—impede productive engagement in generative learning activities](../claims/cognitive-barriers-impede-glas.md) [+W] — learners who differ on it differ in outcomes
 - [Feedback benefits are stronger for children with low prior knowledge, resembling an expertise-reversal effect](../claims/feedback-stronger-for-low-prior-knowledge-children.md) [+M] — an instructional effect differs with it
+- [Expertise did not significantly predict gaze proportions toward student materials or teacher materials in either attentional or communicative gaze](../claims/expertise-null-material-gaze.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

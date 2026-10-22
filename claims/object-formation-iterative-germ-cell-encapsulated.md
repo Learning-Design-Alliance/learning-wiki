@@ -72,3 +72,4 @@ The article's summary of Figure 3 states the steps "testify to the iterative and
 - In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle — related
 - [A full assessment of a potentially expansive mini-cycle of learning calls for extending the time scale of the analysis beyond a single session](assessing-minicycle-requires-extended-time-scale.md) — related
 - [In the meeting, coordination was the most common type of interaction and communication the rarest, indicating reconceptualizing the script was very challenging](coordination-dominates-communication-rare.md) — related
+- [The sequence of creative problem solving processes varied across students, with most students showing non-linear, iterative ordering](cps-process-sequences-varied-nonlinear.md) — related

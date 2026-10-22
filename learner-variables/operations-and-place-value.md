@@ -13,7 +13,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 38 claims (27 show a difference, 7 mixed, 4 no difference) · 20 studies (8 causal, 6 associational, 2 quant-synthesis, 2 design, 1 review, 1 qualitative), `q1`–`q4` · 5 of 20 report an effect size · 37 claims rest on one study
+> **Evidence** · 39 claims (28 show a difference, 7 mixed, 4 no difference) · 21 studies (8 causal, 7 associational, 2 quant-synthesis, 2 design, 1 review, 1 qualitative), `q1`–`q4` · 5 of 21 report an effect size · 38 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -75,6 +75,7 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [Fine motor skills training improves children's arithmetic skills in some trials but not others](../claims/fine-motor-training-arithmetic-mixed.md) [~W] — instruction changes it
 - [Suppressing or restricting hand movements disrupts children's arithmetic performance, suggesting gestures play a functional role in calculation](../claims/hand-movement-interference-disrupts-calculation.md) [+W] — instruction changes it
 - [Training children to explicitly use finger strategies improves calculation performance in most studies, though results are not uniform](../claims/finger-strategy-training-improves-calculation.md) [~W] — instruction changes it
+- [The comparison of decimal fractions undergoes developmental changes over the course of learning](../claims/developmental-changes-decimal-fraction-comparison.md) [+M] — instruction changes it
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (66 show a difference, 21 mixed, 8 no difference) · 70 studies (18 causal, 18 associational, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 13 of 70 report an effect size · 92 claims rest on one study
+> **Evidence** · 99 claims (67 show a difference, 24 mixed, 8 no difference) · 71 studies (19 associational, 18 causal, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 13 of 71 report an effect size · 96 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -130,6 +130,10 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher enjoyment than students taking the same trip as a 2D video](../claims/hmd-virtual-field-trip-higher-enjoyment-than-2d-video.md) [+M] — instruction changes it
 - [Emotions measured early in the semester longitudinally predict cumulative grades and exam scores, with negative deactivating emotions (hopelessness, boredom) showing stronger coefficients than activating negative emotions](../claims/emotions-longitudinally-predict-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Positive academic emotions correlate positively with interest, effort, flexible learning strategies, and perceived self-regulation, while boredom and hopelessness correlate negatively with all of these motivational variables](../claims/emotions-correlate-motivation-strategies-resources.md) [+M] — learners who differ on it differ in outcomes
+- [Activating emotions (enjoyment, shame, anxiety) relate positively and boredom negatively to intended political participation, with a significant indirect effect of classroom climate via enjoyment](../claims/activating-emotions-political-participation-civic.md) [+M] — learners who differ on it differ in outcomes
+- [Climate-emotion associations and the enjoyment-participation indirect effect hold when controlling for topic emotions and discussion frequency, but some emotion-outcome paths do not](../claims/robustness-topic-emotions-controls-civic-emotions.md) [~M] — learners who differ on it differ in outcomes
+- [Enjoyment relates positively and shame, anxiety, and boredom relate negatively to political knowledge, but classroom climate is not significantly mediated via emotions for knowledge](../claims/emotions-political-knowledge-civic-education.md) [~M] — learners who differ on it differ in outcomes
+- [Open classroom climate is positively related to enjoyment and negatively related to anxiety and boredom in civic education, with no relation to shame](../claims/open-classroom-climate-enjoyment-anxiety-boredom-civic.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 

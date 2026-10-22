@@ -58,3 +58,6 @@ Multilevel Model 2 (Table 1) predicting mathematics self-concept from student ac
 - [School-average achievement negatively predicts parent, teacher, and student expectations and parent aspirations, with larger adverse effects for parents and especially teachers than students](bflpe-generalizes-expectations-aspirations.md) — related
 - [The BFLPE is one of the most robust findings in educational psychology, with negative school-average achievement effects on ASC in 181 of 191 PISA samples](bflpe-robust-across-pisa-samples.md) — related
 - [School-average achievement negatively predicts academic self-concept (BFLPE) and GPA in the comprehensive doubly-latent model](school-average-achievement-negative-compositional-effect-asc-gpa.md) — related
+- [Classroom-average mathematics achievement shows no statistically significant association with ASC development when clique achievement is modeled simultaneously](classroom-achievement-no-significant-asc-effect.md) — reports the opposite
+- [Clique-average mathematics achievement negatively predicts the development of adolescents' academic self-concept (a BFLPE at the clique level)](clique-achievement-negative-bflpe-asc-change.md) — related
+- [Individual mathematics achievement is positively associated with students' ASC development over the school year](individual-achievement-positive-asc-change.md) — related

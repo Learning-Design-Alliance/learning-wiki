@@ -51,3 +51,4 @@ Theoretical discussion section presenting contrast and assimilation as competing
 - [Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49](bflpe-lower-asc-high-average-ability-schools.md) — a broader claim this one bears on
 - [A high proportion of high-performing classmates lowers sixth-graders' situational academic self-concept, an experimental BFLPE at the extreme contrast](bflpe-experimental-situational-self-concept.md) — related
 - [Students who perceived the class performance level as higher reported lower situational self-concept in the IVR classroom](higher-perceived-performance-lowers-situational-self-concept.md) — related
+- [No statistically significant assimilation effect (BIRGE) of belonging to a higher-achieving clique within the classroom on ASC change](no-birge-assimilation-clique-level.md) — related

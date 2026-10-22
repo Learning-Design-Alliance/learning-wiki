@@ -126,5 +126,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 
 ## Examples
 
+- [Top scoring: students self-select their top three ideas for a fluency-independent creativity rating](../strategies/top-scoring-self-selected-top-three.md)
+
 ## Key Sources
 - Breit, M., Schneider, M., & Preckel, F. (2025). Mathematics achievement and learner characteristics: A systematic review of meta-analyses. *Learning and Individual Differences, 118*, 102621. [doi:10.1016/j.lindif.2024.102621](https://doi.org/10.1016/j.lindif.2024.102621)

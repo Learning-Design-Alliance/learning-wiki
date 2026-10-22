@@ -6,11 +6,11 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **6,528 distinct studies** behind 24,940 claims. What they add up to (the sections below have the detail):
+The wiki holds **6,539 distinct studies** behind 24,991 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 30% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 57% are quasi-experiments, observational studies or narrative reviews, and 12% are case studies, opinion or theory.
-- **Few print an effect size.** 1,556 of 6,528 studies (24%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
-- **Strong work is not only trials.** 780 studies are rated `r3`, done well for their kind; 510 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
+- **Few print an effect size.** 1,560 of 6,539 studies (24%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Strong work is not only trials.** 781 studies are rated `r3`, done well for their kind; 510 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 98% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 72% of studies, and 44% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
 - **Principles and patterns.** Of 224 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 118 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 5% strong, 43% moderate and 53% weak, and 49% supporting, 46% conditional and 6% against.
@@ -21,22 +21,22 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 24,940 |
-| Evidence entries | 29,896 |
-| Distinct studies | 6,528 |
-| Claims resting on one study | 24,411 (98%) |
+| Claims | 24,991 |
+| Evidence entries | 29,951 |
+| Distinct studies | 6,539 |
+| Claims resting on one study | 24,462 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 1,556 of 6,528 (24%) |
+| Studies reporting an effect size | 1,560 of 6,539 (24%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 87 | 812 | 265 | 362 | 1,526 |
+| causal | 88 | 813 | 265 | 362 | 1,528 |
 | quant-synthesis | 114 | 188 | 42 | 134 | 478 |
 | review | 163 | 529 | 106 | 138 | 936 |
-| associational | 69 | 920 | 366 | 272 | 1,627 |
-| qualitative | 124 | 319 | 70 | 92 | 605 |
+| associational | 69 | 926 | 367 | 273 | 1,635 |
+| qualitative | 124 | 320 | 70 | 92 | 606 |
 | design | 61 | 536 | 131 | 33 | 761 |
 | theoretical | 162 | 314 | 62 | 57 | 595 |
 
@@ -44,9 +44,9 @@ These figures describe two things at once: what education research has produced,
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 803 (12%) | 3,746 (57%) | 1,828 (28%) | 151 (2%) |
+| 803 (12%) | 3,750 (57%) | 1,834 (28%) | 152 (2%) |
 
-**Studies per claim:** 0: 0, 1: 24,411, 2: 445, 3: 67, 4 or more: 17.
+**Studies per claim:** 0: 0, 1: 24,462, 2: 445, 3: 67, 4 or more: 17.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -88,7 +88,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 393 pages | 2 | q4 | 2 of 2 |
 | [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 379 pages | 3 | q1–q4 | 1 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 345 pages | 2 | q3–q4 | 1 of 2 |
-| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 329 pages | 2 | q2 | 0 of 2 |
+| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 330 pages | 2 | q2 | 0 of 2 |
 | [Self-regulated learning models treat self-monitoring as a core process through which …](claims/self-monitoring-improves-self-regulation.md) | 309 pages | 2 | q3 | 0 of 2 |
 | [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 245 pages | 3 | q3–q4 | 1 of 3 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 230 pages | 5 | q1–q3 | 0 of 5 |
@@ -127,7 +127,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 2 | 1 | 12 | 3 |
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 22 | 5 | 11 | 4 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 9 | 211 | 10 | 5 |
-| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 295 | 24 | 10 | 2 |
+| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 296 | 24 | 10 | 2 |
 | [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 3 | 7 | 8 | 3 |
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 44 | 1 | 8 | 2 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 379 | 9 | 5 | 2 |
@@ -149,12 +149,12 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 170 | 170 | 29 | 0 |
 | [elements](elements/index.md) | 1,057 | 780 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 30 | 0 |
-| [strategies](strategies/index.md) | 6,565 | 3,415 | 4 | 0 |
+| [strategies](strategies/index.md) | 6,572 | 3,421 | 4 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 9.5 | 0 |
 | [methods](methods/index.md) | 37 | 22 | 1.5 | 0 |
 | [theories](theories/index.md) | 1,360 | 911 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 75 | 75 | 43 | 0 |
-| [designs](designs/index.md) | 985 | 698 | 1 | 0 |
+| [learner-variables](learner-variables/index.md) | 75 | 75 | 44 | 0 |
+| [designs](designs/index.md) | 986 | 698 | 1 | 0 |
 | [products](products/index.md) | 1,840 | 1,363 | 1 | 0 |
 | [research-methods](research-methods/index.md) | 608 | 534 | 1 | 0 |
 

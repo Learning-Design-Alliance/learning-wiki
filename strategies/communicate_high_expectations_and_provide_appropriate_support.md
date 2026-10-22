@@ -58,9 +58,11 @@ High expectations raise performance when learners believe the expectations are a
 6. Check in periodically on progress toward the standard, adjusting support to current performance rather than to a fixed schedule [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ## Related Strategies
+
 - [Scaffolding](../principles/scaffolding.md) — the support half of the pairing; expectations without it fail
 - Mastery-oriented feedback — the feedback mechanism that keeps high standards motivating rather than punishing
 - Growth mindset framing — the belief system that makes effort toward a high standard seem worthwhile
+- [Communicate course structure and expectations early to support students' self-efficacy at course start](early-structure-communication-supports-self-efficacy.md)
 
 ## Examples
 - **Chickering & Gamson's Seventh Principle in practice** — Writing-intensive courses that require multiple drafts with instructor response, treating revision as the norm rather than remediation.

@@ -61,3 +61,4 @@ Analysis of pilot rubric scores from three expert world history teachers who sco
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - Expert validation shows high inter-expert reliability (Gwet's AC1 .96 overall) and high expert-cluster agreement (ARI .97, NMI .95) for the general education categorization — related
 - [Teachers find World History Project overwhelming in their initial adoption year and make substantial modifications across three main categories](whp-first-year-overwhelm-and-modifications.md) — related
+- [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related

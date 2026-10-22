@@ -50,3 +50,4 @@ Narrative review of Marsh et al. (2000), a longitudinal study of a large represe
 - [Students who perceived the class performance level as higher reported lower situational self-concept in the IVR classroom](higher-perceived-performance-lowers-situational-self-concept.md) — related
 - [The net effect of dimensional comparisons is contested: early evidence suggested a positive net effect, but later experiments found downward and upward effects cancel out](net-effect-of-dimensional-comparisons-mixed.md) — related
 - [Contrast and assimilation are competing compositional processes that can operate simultaneously](contrast-assimilation-competing-compositional-processes.md) — possibly the same claim (merge candidate)
+- [No statistically significant assimilation effect (BIRGE) of belonging to a higher-achieving clique within the classroom on ASC change](no-birge-assimilation-clique-level.md) — related

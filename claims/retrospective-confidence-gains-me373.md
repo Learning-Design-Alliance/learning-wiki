@@ -48,3 +48,4 @@ Anonymous post-term Canvas survey of N=159 students (~80% response rate) using a
 - [Faculty confidence in guiding student AI use rose markedly after the six-week institute, with high-confidence responses increasing from 0% to 60%](ubridge-confidence-gains-pre-post.md) — related
 - [Paired pre/post AI readiness scores rose descriptively from 82.5% to 89.9% (mean gain 7.4 percentage points) among seven co-creation clients, treated as descriptive context only](paired-readiness-gain-descriptive-n7.md) — related
 - [The between-cohort exam gain is attributable only to a composite intervention (autograding plus corrections plus expanded office hours), not to LaTA alone](composite-intervention-exam-confound.md) — related
+- [Students' Domain interest increased largely across a short introductory teaching course (Cohen's d = 2.07).](domain-interest-large-increase-short-course.md) — related
