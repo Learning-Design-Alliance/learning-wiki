@@ -62,3 +62,4 @@ Pooled effect sizes from the same three-level meta-analysis, broken down by outc
 - [Cooperative learning arrangements predict larger SRL training effects for cognitive and metacognitive strategies](cooperative-learning-moderates-srl-training-effects.md) — related
 - [Cognitive, metacognitive, and strategic learning supports show the largest intervention-category benchmarks, while assessment and contextual interventions show the smallest](intervention-category-benchmark-heterogeneity.md) — related
 - [The largest reported effects came from interventions training reflection on own learning and teaching through metacognitive judgements (Michalsky 2021: d = 3.12; Pieschl et al. 2021: d = 2.9)](metacognitive-judgement-reflection-interventions-largest-effects.md) — related
+- [SRL strategy interventions improve academic achievement, with meta-analytic effects that vary by domain](srl-interventions-improve-achievement-domain-effects.md) — related

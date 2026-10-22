@@ -65,6 +65,7 @@ The strategy treats self-regulation as a skill that depends on environmental con
 - [Clear Structure](../principles/clear-structure.md) — predictable routines and expectations make the space feel safe and prevent misuse
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the space works by reducing the sensory and social input competing for limited attentional resources
 - [Add explicit study-skills instruction and dedicated quiet study spaces to prison college programs](study-skills-and-study-space-support-prison-programs.md)
+- [Promote self-regulation competence through high-quality teaching and whole-school approaches](high-quality-teaching-whole-school-self-regulation.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — adult support for choosing and practicing regulation strategies during early use of the space

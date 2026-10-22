@@ -80,3 +80,4 @@ Correlational analysis of Qualtrics trace data and task scores. The article repo
 - [Mathematics performance is positively correlated with metacognitive resolution in multiple-choice testing across six experiments](mc-resolution-performance-positive-correlation.md) — related
 - [Trace-data cognitive learning strategy codes show no correlation with highlighted key words or auxiliary words, while key-word and auxiliary-word highlighting correlate highly](trace-data-highlighting-weak-internal-relations.md) — related
 - [The structural model explains about half the variance in critical thinking and technical problem-solving and about a third in metacognitive self-regulation](sem-variance-explained-outcomes.md) — related
+- [Stronger verbal convergent thinking is associated with better mathematical problem performance in Dutch 9–13-year-olds](verbal-ct-linked-math-performance-children.md) — related

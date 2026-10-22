@@ -100,3 +100,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Self-regulated reading processes are positively associated with reading and learning outcomes](self-regulated-reading-associated-with-outcomes.md) — a narrower finding that bears on this claim
 - [Advanced learners may benefit from learner-controlled selection of learning tasks and levels of generality](learner-control-advanced-learners-flexibility.md) — a narrower finding that bears on this claim
 - [Generating questions is effective for university students but likely ineffective for younger elementary students, working at intermediate ages only with instructional scaffolding](question-generation-ineffective-young.md) — related
+- [SRL strategy interventions improve academic achievement, with meta-analytic effects that vary by domain](srl-interventions-improve-achievement-domain-effects.md) — a narrower finding that bears on this claim

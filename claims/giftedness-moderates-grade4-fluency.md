@@ -50,3 +50,4 @@ Indicator-level moderator analysis in Results found intellectual giftedness sign
 - [Task content domain significantly moderates the Grade 3–4 DT difference, with a positive SMD for figural tasks and a negative SMD for verbal tasks](content-domain-moderates-grade4-dt.md) — related
 - [DT test and country of study significantly moderate the Grade 3–4 originality trend, with a drop for WKCT and for eastern-country samples](test-and-country-moderate-grade4-originality.md) — related
 - [No general fourth-grade slump in divergent thinking: Grade 4 shows a plateau relative to Grade 3](no-general-fourth-grade-slump.md) — related
+- [A recent large-scale meta-analysis failed to find convincing evidence of developmental slumps in children's divergent thinking](meta-analysis-no-convincing-evidence-dt-slumps.md) — related

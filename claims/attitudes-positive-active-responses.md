@@ -50,3 +50,4 @@ Separate three-level meta-analyses of retrospective reports for each response ty
 - [In studies excluded from meta-analysis, antibullying attitudes relate negatively to ignoring the situation and positively to working with the bully](qualitative-excluded-effect-sizes.md) — related
 - [When all retrospective response types are combined, antibullying attitudes show no significant association with teachers' reported intervention use (r = 0.05)](retrospective-combined-association-null.md) — related
 - [The Pro-Bully Paradox: victimization relates to weaker anti-bullying attitudes, an effect largely specific to physical victimization](pro-bully-paradox-physical-victimization.md) — related
+- [Teachers' empathy for victims of bullying is associated with a greater self-reported likelihood of intervening in bullying](teacher-empathy-bullying-intervention.md) — related

@@ -31,7 +31,8 @@ Beyond responding to the commentary, the authors "present a generalizable framew
 - [Validation with simulated TRAIN-like data replicates the divergence: RI-CLPM positive, LCSM negative, ESDM no-direct-effects](../claims/train-validation-divergent-model-findings.md) [+M]
 
 ## Related Research Methods
--
+
+- [State–trait temporality framework for child engagement measurement](statetrait-temporality-framework-for-child-engagement-measurement.md)
 
 ## Key Sources
 - Fernando Núñez-Regueiro, Herbert W Marsh, Reinhard Pekrun, Oliver Lüdtke, Jiesi Guo. (2025). The Reciprocal Effects Model is Robust to Alternative Modeling Specifications: A Response to Sorjonen et al., 2025. Educational Psychology Review, 37 (3), pp.79. https://doi.org/10.1007/s10648-025-10059-7

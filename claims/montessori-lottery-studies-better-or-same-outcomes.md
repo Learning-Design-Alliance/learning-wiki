@@ -47,3 +47,4 @@ The review reports the Lillard and Else-Quest (2006) lottery study of 5- and 12-
 - [Implementation fidelity matters: classrooms using only Montessori materials produced greater gains than classrooms mixing in other materials](montessori-fidelity-materials-only-gains.md) — related
 - [Tools of the Mind and Montessori curricula improve children's EFs, with Tools children outperforming controls especially on more EF-demanding conditions](tools-montessori-curricula-improve-efs.md) — related
 - [Nature-based instruction improves academic achievement over traditional instruction, with larger gains at larger doses](nbi-outperforms-traditional-instruction-dose-response.md) — related
+- [Children attending alternative schools (Montessori, Steiner) outperform mainstream-school children on figural divergent and convergent thinking measures](alternative-school-children-outperform-mainstream-figural-creativity.md) — related

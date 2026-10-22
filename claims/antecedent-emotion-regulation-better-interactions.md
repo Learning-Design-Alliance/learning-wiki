@@ -53,3 +53,4 @@ The review attributes this finding to Aldrup et al. (2024): "A systematic review
 - [Classroom-level instructional support, organization, and emotional support are each positively associated with upper elementary students' metacognitive strategy use](classroom-interaction-domains-positive-metacognition.md) — related
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
 - [Open inquiry implementation faces challenges requiring classroom management, flexible teaching, teacher-student interaction and teacher support](open-inquiry-implementation-challenges.md) — related
+- [Teacher empathy shows no consistent relationship with classroom management or instructional support](teacher-empathy-classroom-management-null.md) — related

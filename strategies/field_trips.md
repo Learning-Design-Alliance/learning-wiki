@@ -60,8 +60,10 @@ Field trips work as learning events when they are integrated into instruction ra
 5. Apply the experience back to classroom content through an [Application](../elements/application.md) task that requires learners to use what they observed.
 
 ## Related Strategies
+
 - Activating prior knowledge — the pre-visit phase is a high-leverage instance of this strategy
 - Acting and role-play — on-site dramatization and docent role-play deepen engagement with historical or scientific settings
+- [Place an immersive virtual field trip as the introductory experience of an instructional module](immersive-field-trip-as-module-introduction-strategy.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — pre-visit preparation determines what learners can extract from the experience

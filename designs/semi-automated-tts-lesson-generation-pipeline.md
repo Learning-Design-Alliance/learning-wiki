@@ -42,6 +42,7 @@ A lesson-video generation workflow with three stages: LLM-based slide generation
 ## Related Designs
 
 - [Human-supervised AI video production pipeline for personalized instructional videos](ai-personalized-video-production-pipeline.md)
+- [Six-stage cascade architecture for end-to-end instructional video generation](six-stage-instructional-video-cascade.md)
 
 ## Examples
 -

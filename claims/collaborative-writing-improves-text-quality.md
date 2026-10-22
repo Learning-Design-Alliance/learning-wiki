@@ -88,3 +88,4 @@ Twenty-eight 10- and 11-year-olds in one mixed-ability class were all trained in
 - [Most interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](gbsri-interview-attributions-and-pair-work-discomfort.md) — a narrower finding that bears on this claim
 - [Approximately half of students' analysed texts showed collaborative learning meeting co-regulation and co-construction descriptors](half-of-texts-showed-collaborative-learning.md) — related
 - [Contract grading yields more total work from students, especially skilled writers who previously skipped learning tasks](contract-yields-more-student-work.md) — related
+- [Classroom activities and targeted interventions—peer collaboration, mind mapping, storytelling, and perspective-taking—improve children's divergent thinking](classroom-activities-interventions-improve-divergent-thinking.md) — related

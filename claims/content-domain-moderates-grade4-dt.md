@@ -50,3 +50,4 @@ Moderator analysis in Results of the Grade 3–4 overall DT difference found tas
 - [The seventh-grade slump is moderated by DT test, task content domain, and gender, with larger drops for WKCT, figural tasks, and a higher proportion of males](seventh-grade-slump-moderators.md) — related
 - [Intellectual giftedness significantly moderates the Grade 3–4 fluency trend: gifted subjects tend to increase while non-gifted subjects tend to decline](giftedness-moderates-grade4-fluency.md) — related
 - [DT test and country of study significantly moderate the Grade 3–4 originality trend, with a drop for WKCT and for eastern-country samples](test-and-country-moderate-grade4-originality.md) — related
+- [A recent large-scale meta-analysis failed to find convincing evidence of developmental slumps in children's divergent thinking](meta-analysis-no-convincing-evidence-dt-slumps.md) — related

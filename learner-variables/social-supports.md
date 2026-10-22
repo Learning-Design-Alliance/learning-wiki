@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 63 claims (55 show a difference, 5 mixed, 3 no difference) · 57 studies (15 associational, 14 qualitative, 11 review, 6 theoretical, 5 causal, 3 quant-synthesis, 3 design), `q1`–`q3` · 2 of 57 report an effect size · 63 claims rest on one study
+> **Evidence** · 64 claims (55 show a difference, 6 mixed, 3 no difference) · 58 studies (15 associational, 14 qualitative, 11 review, 6 theoretical, 5 causal, 4 quant-synthesis, 3 design), `q1`–`q3` · 2 of 58 report an effect size · 64 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -99,6 +99,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [Teachers are unlikely to build positive TSRs unless they believe relationship-building is their role](../claims/teacher-role-beliefs-drive-tsr-effort.md) [+W] — instruction changes it
 - [Fixed mindset peer cultures are theorized to suppress help-seeking and peer support, especially for struggling students](../claims/fixed-mindset-cultures-suppress-help-seeking.md) [~W] — instruction changes it
 - [Social support in all forms is a key protective factor for psychosocial success in the transition to university](../claims/social-support-key-protective-factor-transition.md) [+M] — learners who differ on it differ in outcomes
+- [Evidence for a relationship between teacher empathy and general emotional support is inconsistent, with positive findings concentrated in self-report-only studies](../claims/teacher-empathy-emotional-support-inconsistent.md) [~M] — instruction changes it
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

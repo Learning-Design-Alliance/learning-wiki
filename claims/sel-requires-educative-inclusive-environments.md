@@ -51,3 +51,4 @@ In the Priority 4 section on SEL, the report argues that restorative practices a
 - [School exclusionary policies paradoxically worsen dropout, delinquency, and achievement](school-exclusion-paradox-worse-outcomes.md) — related
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — reports the opposite
 - [Teachers promoted inclusive classroom environments by organizing time and space and fostering peer inclusion](inclusive-environment-time-space-peer-inclusion.md) — related
+- [Programs offering the highest levels of active student participation are those aimed at generally improving the school environment (Restorative Justice and SEHER), suggesting broad, systemic scope favors student decision-making roles](broad-systemic-scope-yields-highest-asp.md) — related

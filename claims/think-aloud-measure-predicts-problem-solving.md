@@ -49,3 +49,4 @@ Think-aloud protocols of two multistep word problems were scored with a systemat
 - [A general self-report metacognition questionnaire shows no relationship with word problem solving performance and no convergence with on-line metacognitive measures in grade 5](self-report-questionnaire-no-convergence-online-metacognition.md) — related
 - [Several sophisticated metacognitive regulation activities showed little to no variance among grade 5 students during think-aloud problem solving](grade5-metacognitive-activities-no-variance.md) — related
 - [The understand-solve-check cognitive model accounted for 71% of protocol subjects' verbalizations](cognitive-model-captures-71-percent-verbalizations.md) — related
+- [Stronger verbal convergent thinking is associated with better mathematical problem performance in Dutch 9–13-year-olds](verbal-ct-linked-math-performance-children.md) — related

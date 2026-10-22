@@ -69,3 +69,4 @@ Post-hoc moderator analysis in Results found gender significant for the Grade 6�
 - [Divergent thinking shows an overall upward developmental trend across Grades 1–12, peaking in Grade 9, with significant drops in Grades 7, 10, and 11](dt-upward-trend-peak-grade-9.md) — related
 - [A seventh-grade slump in divergent thinking is observed at the overall and indicator level](seventh-grade-slump-dt.md) — related
 - [DT test and country of study significantly moderate the Grade 3–4 originality trend, with a drop for WKCT and for eastern-country samples](test-and-country-moderate-grade4-originality.md) — related
+- [A recent large-scale meta-analysis failed to find convincing evidence of developmental slumps in children's divergent thinking](meta-analysis-no-convincing-evidence-dt-slumps.md) — related

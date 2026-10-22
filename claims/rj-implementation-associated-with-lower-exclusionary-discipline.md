@@ -62,3 +62,4 @@ Narrative review of empirical studies of RJ in U.S. schools. The review reports 
 - [National school crime indicators show schools became safer as exclusionary discipline reductions were underway, with 79% of schools recording incidents in 2015-16 versus 85-89% in prior years](schools-safer-as-exclusions-declined.md) — related
 - [RJ implementation is associated with improved attendance, including lower chronic absenteeism relative to non-RJ schools](rj-implementation-associated-with-improved-attendance.md) — related
 - [School exclusionary policies paradoxically worsen dropout, delinquency, and achievement](school-exclusion-paradox-worse-outcomes.md) — related
+- [Programs offering the highest levels of active student participation are those aimed at generally improving the school environment (Restorative Justice and SEHER), suggesting broad, systemic scope favors student decision-making roles](broad-systemic-scope-yields-highest-asp.md) — related

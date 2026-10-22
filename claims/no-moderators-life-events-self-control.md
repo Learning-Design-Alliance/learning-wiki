@@ -52,3 +52,4 @@ Exploratory moderator analyses reported in the Limitations section, with results
 - [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](limited-demographic-moderators.md) — related
 - [Associations with teacher wellbeing are moderated by sample type (in-service vs pre-service) and educational setting, while age and education show nonsignificant associations](moderators-sample-type-educational-setting.md) — related
 - [Age, gender, developmental status, SES, and sample region do not significantly moderate the inhibitory control–mathematical ability correlation](no-demographic-moderation-inhibitory-control-math.md) — related
+- [Background variables (need for cognition, test anxiety, mindset, puzzle experience) showed no consistent moderating patterns across the three experiments](background-moderators-no-consistent-patterns.md) — related

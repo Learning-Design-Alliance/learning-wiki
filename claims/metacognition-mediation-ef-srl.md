@@ -66,3 +66,4 @@ Table 1 entry for Rutherford et al. (2018), elementary school children (n = 211)
 - [Self-regulatory activities mediate the relationship between person, context, and achievement](srl-activities-mediate-person-context-achievement.md) — a broader claim this one bears on
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [Mindsets relate to kindergarteners' achievement indirectly through executive functions and classroom behavioral self-regulation as mediators](mindsets-achievement-indirect-via-self-regulation.md) — related
+- [Conscientiousness facets and SRL scales show substantial multivariate overlap in college students](conscientiousness-srl-multivariate-overlap-study.md) — related

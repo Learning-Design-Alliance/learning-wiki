@@ -44,3 +44,4 @@ Methods statement: the review determined "the number of positive, negative and n
 
 ## Related Claims
 - [Global ECEC quality indices show little evidence of relating to child outcomes](global-ecec-quality-indices-little-evidence-child-outcomes.md) — possibly the same claim (merge candidate)
+- [The field uses 77 unique established engagement measures, yet more than one-third of studies rely on unestablished author-created measures](fragmented-ecec-engagement-measures-77-established.md) — related

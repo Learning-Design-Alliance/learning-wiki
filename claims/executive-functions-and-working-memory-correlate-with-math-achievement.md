@@ -61,3 +61,4 @@ The authors relate this to the load of mathematical problem solving, which requi
 - [General cognitive ability has moderate positive relations with work performance, with meta-analytic validity coefficients in the 0.4 to 0.6 range across many job types](cognitive-ability-validity-work-performance.md) — related
 - [Inhibitory control is moderately positively correlated with mathematical ability in elementary school children (r = 0.19)](inhibitory-control-math-ability-correlation-elementary.md) — related
 - [VSWM shows an overall positive relationship with mathematics performance in school-aged children](vswm-positive-association-mathematics-performance.md) — related
+- [Executive functions show consistent positive meta-analytic associations with academic outcomes](efs-positively-associated-academic-outcomes.md) — a broader claim this one bears on

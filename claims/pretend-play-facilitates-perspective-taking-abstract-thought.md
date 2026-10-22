@@ -79,3 +79,4 @@ The review reports, citing Jenkins and Astington, a longitudinal study in which 
 - [Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate](reading-literary-fiction-improves-theory-of-mind.md) — related
 - [The home environment plays an important role in early childhood development](home-environment-role-early-childhood-development.md) — related
 - [Studies measuring the amount of pretend play yield lower correlations with social competence than studies measuring the quality of pretend play](pretend-play-amount-lower-correlations-than-quality.md) — related
+- [Classroom activities and targeted interventions—peer collaboration, mind mapping, storytelling, and perspective-taking—improve children's divergent thinking](classroom-activities-interventions-improve-divergent-thinking.md) — related

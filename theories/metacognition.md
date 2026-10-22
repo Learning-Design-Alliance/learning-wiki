@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 432 claims (206 for, 205 mixed, 21 against) · 218 studies (102 causal, 48 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 79 of 218 report an effect size · 425 claims rest on one study
+> **Evidence** · 437 claims (206 for, 210 mixed, 21 against) · 219 studies (103 causal, 48 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 80 of 219 report an effect size · 430 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -475,6 +475,11 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Perceived mental effort has a negative indirect association with learning outcomes, mediated by monitoring judgments (β = -0.05)](../claims/mental-effort-indirect-negative-effect-on-outcomes-via-monitoring.md) [+W] — attached 2026-10-22 from Louise David et al. (2024), which proposed "Cue-utilization framework for metacognitive monitoring in self-regulated learning"; tests this page's relationship.
 - [Prior meta-analysis found a negative medium-sized effort–monitoring correlation (r = -0.35), attenuated under goal-driven manipulations](../claims/baars-2020-effort-monitoring-correlation-negative-medium.md) [~W]
 - [Perceived task difficulty relates to metacognitive strategy use only linearly, with no significant quadratic component](../claims/task-difficulty-linear-metacognitive-strategies.md) [~W]
+- [In the CRT experiment, confidence appraisals predicted solving accuracy more strongly than goal-driven effort appraisals](../claims/confidence-predicts-accuracy-better-than-goal-driven-effort-crt.md) [~W]
+- [In the mental rotation experiment, item complexity (rotation angle) served as a significant cue for all four appraisal types, with difficulty appraisals most sensitive](../claims/item-complexity-cue-for-appraisals-mrt.md) [~W]
+- [In the CRT experiment, response time served as a significantly stronger cue for goal-driven effort, data-driven effort, and difficulty appraisals than for confidence appraisals](../claims/rt-cue-stronger-for-load-appraisals-than-confidence-crt.md) [~W]
+- [In the non-verbal MTT experiment, response time served as a cue for goal-driven effort appraisals more than for confidence appraisals, partly replicating experiment 1](../claims/rt-cue-goal-driven-vs-confidence-mtt-partial-replication.md) [~W]
+- [Averaged across three experiments, load-related appraisals correlated more strongly with response time than confidence did, while difficulty and confidence predicted accuracy more strongly than mental effort appraisals](../claims/cross-experiment-appraisal-correlations-rt-accuracy.md) [~W]
 
 ## The evidence by question
 

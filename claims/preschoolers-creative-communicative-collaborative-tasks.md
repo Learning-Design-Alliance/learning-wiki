@@ -53,3 +53,4 @@ Qualitative findings on children's ways of thinking and working, reported in Tab
 - [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — related
 - [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — related
 - [Folk-tales were used in every session, with photos (78%), videos (74%), songs (67%), classical tales (70%) and crafts (55%) as multimodal materials](folktale-program-material-frequencies-multimodal.md) — related
+- [Research-led creativity training for teachers enhances children's divergent thinking and moves teachers' conceptions closer to researchers' definitions](teacher-creativity-training-enhances-children-divergent-thinking.md) — related

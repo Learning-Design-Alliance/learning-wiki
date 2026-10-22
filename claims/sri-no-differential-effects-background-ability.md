@@ -53,3 +53,4 @@ Interaction analyses added to the multilevel models of the randomized trial test
 - [Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation](no-moderators-life-events-self-control.md) — related
 - [No clear differential effects of morphology instruction by child factors: age, reading ability, SES, or linguistic background](morphology-no-child-factor-moderators.md) — related
 - [Age, gender, developmental status, SES, and sample region do not significantly moderate the inhibitory control–mathematical ability correlation](no-demographic-moderation-inhibitory-control-math.md) — related
+- [Background variables (need for cognition, test anxiety, mindset, puzzle experience) showed no consistent moderating patterns across the three experiments](background-moderators-no-consistent-patterns.md) — related

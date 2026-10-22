@@ -53,3 +53,4 @@ The review reports this synthesis of educational research on Stable Dispositions
 - [Emotion regulation variables predict academic outcomes (GPA and academic honors) beyond Big Five personality traits and gender in high school students](era-predicts-academic-outcomes-beyond-big-five.md) — related
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
 - [Conscientiousness is robustly associated with academic performance across primary, secondary, and tertiary education, with openness the next strongest predictor](conscientiousness-predicts-academic-performance-review.md) — a broader claim this one bears on
+- [Conscientiousness is a reliable meta-analytic predictor of academic achievement](conscientiousness-predicts-academic-achievement.md) — related

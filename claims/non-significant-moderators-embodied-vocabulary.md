@@ -68,3 +68,4 @@ Between-subject meta-regressions found no significant moderation by target langu
 - [Immersion significantly moderated within-subject effects, but the estimate rests on very few effect sizes and should be read as exploratory](immersion-within-subject-moderator-exploratory.md) — related
 - [Embodied learning significantly improves vocabulary learning outcomes compared with non-embodied conditions in between-subject designs (Hedges' g = 0.65)](embodied-learning-between-subject-vocabulary-g-0-65.md) — related
 - [Children's age did not moderate gesture enrichment benefits on vocabulary test performance in Experiment 1](age-does-not-moderate-gesture-enrichment.md) — related
+- [Background variables (need for cognition, test anxiety, mindset, puzzle experience) showed no consistent moderating patterns across the three experiments](background-moderators-no-consistent-patterns.md) — related

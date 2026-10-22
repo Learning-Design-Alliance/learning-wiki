@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 55 claims (32 show a difference, 15 mixed, 8 no difference) · 26 studies (12 review, 5 quant-synthesis, 5 associational, 2 causal, 2 theoretical), `q2`–`q4` · 9 of 26 report an effect size · 55 claims rest on one study
+> **Evidence** · 56 claims (33 show a difference, 15 mixed, 8 no difference) · 27 studies (13 review, 5 quant-synthesis, 5 associational, 2 causal, 2 theoretical), `q2`–`q4` · 10 of 27 report an effect size · 56 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -90,6 +90,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [Neuroticism and disengagement coping are the strongest negative predictors of teacher wellbeing](../claims/neuroticism-disengagement-coping-negative-predictors.md) [+M] — learners who differ on it differ in outcomes
 - [Evidence on synergistic openness–interest effects on knowledge attainment is mixed, with supporting, compensating, and zero findings reported](../claims/ofci-openness-interest-synergy-mixed.md) [~M] — learners who differ on it differ in outcomes
 - [The CONIC model proposes conscientiousness and interest can partly compensate for one another in explaining academic effort and achievement](../claims/conic-compensation-conscientiousness-interest.md) [+M] — learners who differ on it differ in outcomes
+- [Conscientiousness is a reliable meta-analytic predictor of academic achievement](../claims/conscientiousness-predicts-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -50,3 +50,4 @@ Convergent validity analysis correlating SRL-O subscales with MSLQ subscales in 
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
 - [No existing online SRL questionnaire covers the breadth of motivational beliefs and learning strategies the SRL-O covers](no-online-srl-measure-covers-breadth.md) — related
+- [Conscientiousness facets and SRL scales show substantial multivariate overlap in college students](conscientiousness-srl-multivariate-overlap-study.md) — related

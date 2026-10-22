@@ -46,3 +46,4 @@ In the 2x2 between-subjects experiment, 177 high school students learned a pipet
 - [Neither immersion nor interactivity produced significant effects on transfer measures](no-immersion-interactivity-effect-on-transfer.md) — related
 - [Technological failures such as body crumple, sound intrusion, and embodiment violations inhibited effective communication in social VR](technological-failures-inhibit-social-vr-communication.md) — related
 - [Visuo-motor synchrony manipulation produced the largest effects on body ownership, while visual asynchrony was the most influential negative manipulation on agency](visuo-motor-synchrony-body-ownership-agency.md) — related
+- [Middle-school students taking a virtual field trip via a 3D HMD report higher presence than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-presence-than-2d-video.md) — related

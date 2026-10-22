@@ -49,3 +49,4 @@ The overall three-level meta-analysis in Results found significant drops includi
 ## Related Claims
 - [Divergent thinking shows an overall upward developmental trend across Grades 1–12, peaking in Grade 9, with significant drops in Grades 7, 10, and 11](dt-upward-trend-peak-grade-9.md) — related
 - [The seventh-grade slump is moderated by DT test, task content domain, and gender, with larger drops for WKCT, figural tasks, and a higher proportion of males](seventh-grade-slump-moderators.md) — related
+- [A recent large-scale meta-analysis failed to find convincing evidence of developmental slumps in children's divergent thinking](meta-analysis-no-convincing-evidence-dt-slumps.md) — reports the opposite

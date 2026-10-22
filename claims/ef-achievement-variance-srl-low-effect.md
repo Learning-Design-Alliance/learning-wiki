@@ -67,3 +67,4 @@ Table 1 entry for Cirino et al. (2019), late elementary school children (n = 846
 - [Executive functions show significant associations with reading outcomes in elementary school children (meta-analysis of 60 studies, 275 effect sizes)](ef-significantly-associated-with-reading-meta-analysis.md) — related
 - [Metacognition mediates the relationship between EF and SRL](metacognition-mediation-ef-srl.md) — related
 - [Interventions targeting SRL or EF show little evidence of far transfer to the other construct](srl-ef-interventions-no-far-transfer.md) — related
+- [Executive functions show consistent positive meta-analytic associations with academic outcomes](efs-positively-associated-academic-outcomes.md) — related

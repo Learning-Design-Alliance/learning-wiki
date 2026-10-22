@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 220 claims (100 for, 112 mixed, 8 against) · 164 studies (52 associational, 43 causal, 24 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 38 of 164 report an effect size · 204 claims rest on one study
+> **Evidence** · 221 claims (101 for, 112 mixed, 8 against) · 165 studies (52 associational, 43 causal, 25 review, 17 quant-synthesis, 15 theoretical, 8 qualitative, 5 design), `q1`–`q4` · 39 of 165 report an effect size · 205 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -267,6 +267,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Perceived task difficulty relates to metacognitive strategy use only linearly, with no significant quadratic component](../claims/task-difficulty-linear-metacognitive-strategies.md) [~W]
 - [For metacognitive strategy use, resources competitively mediate the linear effect and cognitive load partially mediates the linear and mediates the quadratic relationship](../claims/mediation-metacognitive-strategies-load-resources.md) [~W]
 - [Contemporary SRL models largely omit the broader social context and implicitly assume all learners are available to learn](../claims/srl-models-assume-availability-omit-context.md) [~W]
+- [SRL strategy interventions improve academic achievement, with meta-analytic effects that vary by domain](../claims/srl-interventions-improve-achievement-domain-effects.md) [+W] — attached 2026-10-22 from Ulrich Trautwein et al. (2026), which proposed "Integrated multicomponent model of self-regulation competence unifying SRL, executive functions, and conscientiousness".
 
 ## The evidence by question
 
