@@ -95,3 +95,4 @@ Thirty-eight children aged 6–11 with handwriting dysfunction were randomly ass
 - [About half of all children with DCD experience difficulty learning to write, making dysgraphia assessment essential because handwriting difficulties do not resolve without intervention](half-of-children-with-dcd-have-dysgraphia.md) — related
 - [Process-oriented (bottom-up) therapies for DCD show weak or null effects, while task-oriented approaches are effective in improving motor performance](process-oriented-weak-task-oriented-effective-dcd.md) — related
 - [Intervention types (cue-generation encoding-based, retrieval-based, cue-attention, cue-selection) do not substantially differ in effectiveness](intervention-types-no-substantial-difference.md) — related
+- [Arm-body training improves overall legibility of letter script while pencil-and-paper training reduces it](arm-body-training-improves-overall-legibility.md) — related

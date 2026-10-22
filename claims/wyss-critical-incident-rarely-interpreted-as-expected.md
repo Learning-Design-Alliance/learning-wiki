@@ -68,3 +68,4 @@ Eye-tracking data from the same Wyss et al. study; combining verbal protocols wi
 - [Eye tracking can identify which words a second-language reader had trouble understanding](eye-tracking-identifies-difficult-words-l2-reading.md) — related
 - [Experienced teachers diagnose underestimating, overestimating, and uninterested student profiles more accurately than novices, with partial eye-tracking support](seidel-experienced-teachers-diagnose-student-profiles.md) — related
 - [Combining eye-tracking with verbal reports can capture differences between more- and less-experienced teachers in detecting critical incidents](eye-tracking-verbal-reports-professional-vision-experience-differences.md) — related
+- [Eye tracking can be used to study student engagement, teacher expertise, and teacher-student interaction in naturalistic classroom contexts](eye-tracking-classroom-naturalistic-contexts.md) — related

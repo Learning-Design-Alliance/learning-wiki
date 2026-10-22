@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 181 claims (81 for, 86 mixed, 14 against) · 137 studies (51 causal, 25 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 36 of 137 report an effect size · 159 claims rest on one study
+> **Evidence** · 182 claims (82 for, 86 mixed, 14 against) · 138 studies (51 causal, 26 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 36 of 138 report an effect size · 160 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -229,6 +229,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Receiving grades is positively associated with achievement and external motivation compared with receiving no performance feedback (review-reported meta-analysis)](../claims/grades-versus-no-feedback-koenka.md) [~W]
 - [Individual feedback impacted perceived utility only to a limited extent, and general feedback lowered perceived utility of retrieval practice (Experiment 2)](../claims/perceived-utility-limited-impact-individual-feedback.md) [~W]
 - [Students who benefited from retrieval practice rated it as more effective after receiving individual feedback, while other groups showed no statistically significant change (Experiment 1)](../claims/individual-feedback-changes-retrieval-practice-beliefs-only-for-beneficiaries.md) [~W]
+- [Feedback targeting reading self-efficacy had a positive effect on motivation, while error-focused feedback and rewards had mixed effects on long-term interest and engagement](../claims/feedback-motivation-self-efficacy-positive-rewards-mixed.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

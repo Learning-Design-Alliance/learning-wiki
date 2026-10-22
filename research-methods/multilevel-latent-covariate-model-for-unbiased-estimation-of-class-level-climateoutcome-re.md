@@ -30,7 +30,8 @@ The article recaps Lüdtke et al.'s (2008) multilevel latent covariate model, in
 - [The Big-Fish-Little-Pond effect on mathematics self-concept is negative and statistically significant in all three countries under a fully specified doubly latent model](../claims/bflpe-negative-significant-all-countries.md) [+M]
 
 ## Related Research Methods
--
+
+- [Multilevel latent variable model (ML-LVM) of judgment accuracy](multilevel-latent-variable-model-ml-lvm-of-judgment-accuracy.md)
 
 ## Key Sources
 - Steffen Zitzmann, Wolfgang Wagner, Martin Hecht, Christoph Helm, Christian Fischer, Lisa Bardach, Richard Göllner. (2021). How Many Classes and Students Should Ideally be Sampled When Assessing the Role of Classroom Climate via Student Ratings on a Limited Budget? An Optimal Design Perspective. Educational Psychology Review (2022) 34:511–536. https://doi.org/10.1007/s10648-021-09635-4

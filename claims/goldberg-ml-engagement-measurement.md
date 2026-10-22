@@ -66,3 +66,4 @@ Same Goldberg et al. gold standard study; despite the ML measure's economy, manu
 - [AI-based analyses of student learning may perform unevenly across student populations, limiting comparability of findings across settings](ai-uneven-performance-across-student-populations.md) — related
 - [Head-pose-estimation-based proctoring systems report widely varying accuracies, from 75.6% for cheating detection to 100% for yaw-angle estimation](head-pose-proctoring-accuracy-range.md) — related
 - [Machine learning analysis of regular video recordings can support conclusions on learners' visual perception in lectures](machine-learning-video-learners-visual-perception.md) — related
+- [Combining eye tracking with other process measures such as machine vision features provides useful information about student engagement](multimodal-engagement-measurement.md) — related

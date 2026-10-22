@@ -64,3 +64,5 @@ The review reports that differences in underlying dimensions between countries f
 ## Related Claims
 - [Meaning-directed learning is positively related to academic performance while undirected learning is consistently negatively related](meaning-directed-positive-undirected-negative-performance.md) — related
 - [Learning patterns relate to contextual factors including teaching strategies, perceptions of the learning environment, and discipline](learning-patterns-contextual-factors.md) — related
+- [Four learning patterns (meaning-, reproduction-, application-, and undirected) form a replicable factor structure in first-year higher education students](four-learning-patterns-factor-structure.md) — related
+- [Meaning-directed learning relates positively, and reproduction- and undirected learning negatively, to study achievement indicators](learning-patterns-outcome-relations.md) — related

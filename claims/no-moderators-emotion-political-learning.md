@@ -51,3 +51,5 @@ Exploratory Bayesian regularized meta-analysis (BRMA with horseshoe priors, thre
 - [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](limited-demographic-moderators.md) — related
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](class-size-level-discipline-not-significant-moderators.md) — related
 - [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — related
+- [Age, gender, developmental status, SES, and sample region do not significantly moderate the inhibitory control–mathematical ability correlation](no-demographic-moderation-inhibitory-control-math.md) — related
+- [Most study characteristics (publication year, mean age, sampling, target language, L2 major, proficiency, measure, mode) do not significantly moderate the gender gap](non-significant-moderators-l2-gender-gap.md) — related

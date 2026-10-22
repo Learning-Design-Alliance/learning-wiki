@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 425 claims (203 for, 201 mixed, 21 against) · 214 studies (102 causal, 47 associational, 23 review, 16 theoretical, 11 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 78 of 214 report an effect size · 418 claims rest on one study
+> **Evidence** · 427 claims (204 for, 202 mixed, 21 against) · 216 studies (102 causal, 47 associational, 25 review, 16 theoretical, 11 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 78 of 216 report an effect size · 420 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -468,6 +468,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Effects of monitoring tools are highest when tools address both learning content and learning behavior and stimulate metacognitive monitoring](../claims/monitoring-tool-moderators-focus-and-type.md) [+W]
 - [Mental effort and judgments of learning show a medium-sized negative correlation, moderated by regulation mode and task type](../claims/mental-effort-jol-negative-correlation-moderators.md) [~W]
 - [Situation-model-approach interventions show a medium-sized positive effect on metacomprehension accuracy and a small direct effect on comprehension](../claims/situation-model-interventions-metacomprehension-effect.md) [+W]
+- [Explicit strategy instruction, unlike implicit strategy instruction, is associated with a gain in student performance](../claims/explicit-strategy-instruction-associated-with-performance-gain.md) [+W] — attached 2026-10-22 from Charlotte Dignath et al. (2021), which proposed "Three levels of strategy instruction: blind, informed, and self-control training (WWW&H rule)".
+- [Retrieval practice mainly improves metamemory whereas generative activities mainly improve metacomprehension](../claims/metamemory-versus-metacomprehension-indirect-effects.md) [~W]
 
 ## The evidence by question
 

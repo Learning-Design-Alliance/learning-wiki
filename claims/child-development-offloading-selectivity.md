@@ -72,3 +72,4 @@ The review reports Bulley et al. (2020), a short-term retrospective memory task 
 - [External reminders dramatically reduce forgetting of delayed intentions](external-reminders-reduce-forgetting.md) — related
 - [Offloading attenuates individual differences linked to unaided ability](offloading-attenuates-individual-differences.md) — related
 - [Higher-value intentions are more likely to be offloaded than lower-value ones](value-drives-offloading-selection.md) — related
+- [Shifting information to external aids enhances task performance with greater gains under high cognitive load](offloading-enhances-performance-under-load.md) — related

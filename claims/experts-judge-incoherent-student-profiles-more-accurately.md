@@ -48,3 +48,4 @@ Per-profile unpaired t tests in the same 41-participant study showed experts sig
 - [Experienced teachers can deduce student engagement profiles from visual observation, while beginning teachers struggle](experienced-teachers-deduce-engagement-profiles-visually.md) — a broader claim this one bears on
 - [Judgment accuracy varies across student characteristic profiles: struggling and uninterested profiles are diagnosed more accurately than strong, underestimating, and overestimating profiles](profile-main-effect-judgment-accuracy.md) — related
 - [Both novice and expert teachers state valid behavioral cues when inferring student profiles, but novices rely more on salient cues such as hand raising and quality of answers](novices-rely-on-salient-cues-hand-raising.md) — related
+- [Expert teachers show expertise-related eye movement patterns in some classroom tasks but not others, indicating task and context specificity](expert-teacher-gaze-context-specific.md) — related

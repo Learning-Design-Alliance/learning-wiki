@@ -47,3 +47,4 @@ The review reports the Lazowski and Hulleman (2016) meta-analysis of interventio
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
+- [Field-based motivation interventions produce on average a medium overall effect size (0.49), with quasi-experimental designs yielding larger effects than randomized designs, and studies using multiple theoretical frameworks averaging 0.41](field-motivation-interventions-medium-effect-0-49.md) — related

@@ -46,3 +46,4 @@ Comparison of self-regulated versus experimenter-controlled groups in the German
 - [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](instructions-promote-three-recall-criterion.md) — related
 - [Self-regulating students choose to complete multiple-choice practice questions until each item has been answered correctly about one time during practice.](srl-mc-practice-to-one-correct-answer.md) — related
 - [In-person but not online self-regulated multiple-choice students completed fewer restudy trials before their first practice test than cued-recall students.](restudy-before-first-test-format-interaction.md) — related
+- [Retrieval practice research extends to determining the optimal amount of practice testing for individual students](optimal-amount-of-practice-testing-individual-students.md) — related

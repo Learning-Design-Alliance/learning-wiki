@@ -75,3 +75,4 @@ Dependent-samples comparison of correlations on the same 32 tasks: the mental-ef
 - [Perceived task difficulty ratings show a strong relation to Rasch-estimated relative task difficulty, supporting construct validity of the single-item scale](perceived-task-difficulty-correlates-with-relative-task-difficulty.md) — related
 - [The scale showed convergent and incremental validity through medium-size correlations with established cognitive load measures](mel-ts-convergent-incremental-validity.md) — related
 - [Students invest more mental effort in paper-based questions than in equivalent computer-based questions](greater-mental-effort-paper-questions.md) — related
+- [Learning biologically primary words is perceived as less difficult and less effortful than learning biologically secondary words](primary-words-less-difficulty-effort.md) — related

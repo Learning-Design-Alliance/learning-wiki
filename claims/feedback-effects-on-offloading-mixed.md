@@ -89,3 +89,4 @@ The review reports, citing Grinschgl et al. (2020), a pattern-copy task in which
 - [Individuals show a systematic positive reminder bias, setting more reminders than optimal](positive-reminder-bias.md) — related
 - [In the model, interventions that alter the feedback channel (verification visibility, social-proof damping) reduce overreliance and regret, while lowering verification cost alone does not lower regret](verification-visibility-counter-cascade-interventions.md) — related
 - [Offloading information to external stores is associated with lower memory performance, moderated by awareness of a later test](offloading-associated-with-lower-memory-performance.md) — related
+- [Shifting information to external aids enhances task performance with greater gains under high cognitive load](offloading-enhances-performance-under-load.md) — related

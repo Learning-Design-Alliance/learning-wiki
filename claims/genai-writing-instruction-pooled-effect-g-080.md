@@ -70,3 +70,4 @@ Within the same 11-study synthesis, one graduate-level study (Ding et al., 2025,
 - [Technology effects on TEFL outcomes trend upward across educational levels (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44), though between-level differences are not statistically significant](tefl-tech-effects-increase-by-educational-level.md) — related
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related
 - [ICT-supported writing interventions targeting higher-level writing processes show a large overall positive effect on students' writing quality (g = 1.264)](ict-writing-interventions-large-overall-effect.md) — related
+- [Effect sizes for gender differences in L2 achievement are highly heterogeneous across studies (I² = 89.82%)](high-heterogeneity-l2-gender-effect-sizes.md) — related

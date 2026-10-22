@@ -90,3 +90,5 @@ The review reports correlational evidence across multiple studies (Gilbert et al
 - [Individuals show a systematic positive reminder bias, setting more reminders than optimal](positive-reminder-bias.md) — related
 - [Framing reminders as losses reduces, but does not eliminate or reverse, the reminder bias in both between- and within-participants designs](loss-framing-reduces-reminder-bias.md) — a narrower finding that bears on this claim
 - [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](subjective-expectations-drive-offloading.md) — related
+- [Cognitive offloading does not guarantee representational permanence and memory can suffer if the external record becomes unavailable](offloading-does-not-guarantee-permanence.md) — related
+- [Shifting information to external aids enhances task performance with greater gains under high cognitive load](offloading-enhances-performance-under-load.md) — related

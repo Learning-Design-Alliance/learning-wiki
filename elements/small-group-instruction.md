@@ -13,7 +13,7 @@ generated:
 # Small-Group Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 7 studies (2 quant-synthesis, 2 review, 2 qualitative, 1 causal), `q2`–`q3` · 3 of 7 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (5 for, 1 mixed, 2 against) · 8 studies (3 quant-synthesis, 2 review, 2 qualitative, 1 causal), `q2`–`q3` · 4 of 8 report an effect size · 8 claims rest on one study
 
 ## Description
 Small-group instruction is the element in which learners work with an instructor or facilitator in a reduced-size group for targeted teaching, discussion, or support. It is useful when instruction benefits from more responsiveness than whole-class delivery allows.
@@ -42,6 +42,7 @@ Small-group instruction is the element in which learners work with an instructor
 - [Among language-only interventions, instructional practices and one-on-one or small-group delivery produced significantly larger language gains than curricula and large-group or whole-class delivery](../claims/small-group-language-instruction-larger-effects.md) [+W]
 - [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](../claims/tutorial-group-size-moderates-sdl.md) [+W]
 - [Small-group instructional intervention for students struggling in literacy and English language development is supported by six RCTs at moderate evidence level](../claims/small-group-intervention-literacy-eld-moderate-evidence.md) [+W]
+- [Group size moderates intervention effects: 1:1 interventions had effect sizes about 0.5 points higher than small-group interventions at 20 h of dosage](../claims/one-on-one-outperforms-small-group.md) [-W]
 
 ## The evidence by question
 - *Does targeted instruction by an adult in a small group raise struggling learners' achievement more than whole-class delivery or other intervention components, and how small does the group need to be?* [Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions](../claims/small-group-instruction-outperforms-cai-incentives.md) [+M]

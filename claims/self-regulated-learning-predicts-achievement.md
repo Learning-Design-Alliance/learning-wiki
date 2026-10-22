@@ -139,3 +139,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Metacognitive and composite SRL strategy measures show the strongest relationships with learning performance in continuing education](srl-strategy-type-performance-differences.md) — related
 - [SRL interventions produce large average effects on academic and motivational outcomes, per meta-analytic syntheses](srl-interventions-large-average-effects.md) — related
 - [Interventions targeting motivation produce positive achievement outcomes of medium average size (d = 0.49) regardless of which motivation theory underlies them](motivation-interventions-achievement-d049-theory-agnostic.md) — related
+- [Adolescent digital self-regulation is enacted through a typology of four strategy types differing in executive effort versus external scaffolding](adolescent-digital-self-regulation-strategy-typology.md) — a narrower finding that bears on this claim

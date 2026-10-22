@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 230 claims (93 for, 121 mixed, 16 against) · 172 studies (57 associational, 44 design, 26 review, 19 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 15 of 172 report an effect size · 224 claims rest on one study
+> **Evidence** · 233 claims (95 for, 122 mixed, 16 against) · 174 studies (58 associational, 44 design, 26 review, 20 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 15 of 174 report an effect size · 227 claims rest on one study
 
 ## Conditional relationship
 
@@ -209,6 +209,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Cronbach's alpha equals the reliability of the scale score under classical test theory, domain sampling, and generalizability theory, and should be interpreted as a reliability coefficient](../claims/alpha-is-reliability-coefficient-knowledge-tests.md) [+W] — attached 2026-10-19 from Steffen Zitzmann (2025), which proposed "Keep well justified alpha thresholds as rough guidelines rather than abandoning them, and view a low alpha as a threat rather than a sign of validity".
 - [In a preregistered within-subjects experiment (N = 131, eight measurements), the translated scale showed criterion validity via sensitivity to task complexity, extraneous load, and motivation](../claims/mel-ts-criterion-validity.md) [+W] — attached 2026-10-21 from Tino Endres et al. (2025), which proposed "Use four effort and load items within a reference point evaluation as best practice for translingual cognitive demand assessment"; tests this page's relationship.
 - [The scale showed convergent and incremental validity through medium-size correlations with established cognitive load measures](../claims/mel-ts-convergent-incremental-validity.md) [+W] — attached 2026-10-21 from Tino Endres et al. (2025), which proposed "Use four effort and load items within a reference point evaluation as best practice for translingual cognitive demand assessment"; tests this page's relationship.
+- [Cronbach's alpha does not generally indicate the reliability of knowledge tests because knowledge is a heterogeneous construct](../claims/alpha-not-reliability-knowledge-tests.md) [+W] — attached 2026-10-22 from Peter A. Edelsbrunner et al. (2025), which proposed "Abandon fixed alpha cutoff values for knowledge tests; report alpha and its confidence interval for studying item interrelatedness instead"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -304,6 +305,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Content validity evidence was reported for only eight assessments and four screeners, and over half of tools were developed in WEIRD societies or in English](../claims/content-validity-and-weird-skew-in-early-maths-tools.md) [-W]
 - [Re-analyses support PSVT:R structural validity: degree of rotation explains 66.9% of item-difficulty variance, though modified problematic items show no rotation-difficulty relationship](../claims/psvtr-rotation-difficulty-validity-reanalysis.md) [+W]
 - [Most variance in students' momentary classroom emotions lies at the within-person level, yet person-aggregated state measures are fairly reliable (ICC(2) from 0.735 to 0.901)](../claims/aggregated-state-emotions-reliable-icc2.md) [~W]
+- [Cognitive artifact scoring in the digital workbook achieved high intercoder reliability, with average Spearman's rho of 0.97 overall](../claims/high-intercoder-reliability-workbook-scoring.md) [+W]
+- [Retest reliability may be more appropriate than alpha for knowledge tests, but requires a testing interval without learning](../claims/retest-reliability-knowledge-tests.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

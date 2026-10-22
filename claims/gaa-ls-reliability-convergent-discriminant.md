@@ -52,3 +52,4 @@ Study 2 reliability and validity analysis. "AVE values ranged from .60 to .66, s
 - [SFAILQ shows high reliability, convergent validity with digital literacy (r = 0.49–0.68), and discriminant validity (HTMT below 0.80)](sfailq-reliability-convergent-discriminant.md) — related
 - [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](skt-srl-reliability.md) — related
 - [The five-dimension structure and scale were validated with 308 graduate students, showing acceptable reliability and validity](scale-validation-308-graduate-students.md) — related
+- [The revised questionnaire shows satisfactory internal consistencies for each cognitive load type across Studies 1 and 2](cognitive-load-questionnaire-satisfactory-internal-consistencies.md) — related

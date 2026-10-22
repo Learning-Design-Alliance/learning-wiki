@@ -51,3 +51,4 @@ The review's synthesis across studies: regulation decisions may follow monitorin
 - [Sixth-graders' own monitoring accuracy is low and does not differ between no-cue, keyword, and summary cue-prompt conditions (Experiment 1).](student-monitoring-accuracy-low-no-cue-prompt-effect-exp1.md) — related
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
 - [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related
+- [Retrieval practice mainly improves metamemory whereas generative activities mainly improve metacomprehension](metamemory-versus-metacomprehension-indirect-effects.md) — related

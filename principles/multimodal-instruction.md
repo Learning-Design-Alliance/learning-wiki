@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (12 for, 15 mixed, 4 against) · 37 studies (17 causal, 10 review, 6 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 9 of 37 report an effect size · 25 claims rest on one study
+> **Evidence** · 34 claims (14 for, 16 mixed, 4 against) · 38 studies (18 causal, 10 review, 6 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 9 of 38 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -125,6 +125,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Gesture and picture enrichment produced similar benefits on children's L2 vocabulary learning, contrary to adult findings favoring gestures](../claims/gesture-picture-similar-benefits-children.md) [~W] — attached 2026-10-21 from Andrä et al. (2020), which proposed "Enrich auditorily presented L2 vocabulary with self-performed gestures or pictures to boost children's vocabulary memory over months".
 - [Both gesture and picture enrichment enhanced children's test performance compared with non-enriched learning, with benefits persisting up to 6 months for concrete and abstract words](../claims/enrichment-benefits-persist-six-months.md) [+W] — attached 2026-10-21 from Andrä et al. (2020), which proposed "Enrich auditorily presented L2 vocabulary with self-performed gestures or pictures to boost children's vocabulary memory over months"; tests this page's relationship.
 - [Audio-visual lecture clips produce better comprehension than audio-only clips, and the multimedia advantage holds at accelerated speed](../claims/audio-visual-outperforms-audio-only-at-speed.md) [+W] — attached 2026-10-22 from Ashley Chen et al. (2024), which proposed "Advise learners not to exceed 2x playback speed, and pair accelerated narration with visual content to protect comprehension"; tests this page's relationship.
+- [Observing typical gestures significantly benefits narrative comprehension compared with atypical or no gestures, which do not differ significantly](../claims/typical-gestures-benefit-narrative-comprehension.md) [+W] — attached 2026-10-22 from Dargue et al. (2020), which proposed "Educators should use typical, frequently produced iconic gestures that are adequately semantically related to speech to enhance student understanding"; tests this page's relationship.
+- [Gesture effects on narrative comprehension are not moderated by total task difficulty or age when measured through free recall and specific questions](../claims/gesture-comprehension-not-moderated-by-difficulty-or-age.md) [~W] — attached 2026-10-22 from Dargue et al. (2020), which proposed "Educators should use typical, frequently produced iconic gestures that are adequately semantically related to speech to enhance student understanding".
 
 ## Objective and learner-valued goal
 
@@ -156,6 +158,7 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - [Children's age did not moderate gesture enrichment benefits on vocabulary test performance in Experiment 1](../claims/age-does-not-moderate-gesture-enrichment.md) [~W]
 - [Gesture instructions hindered specific recall for participants with lower propensity to gesture (Study 2)](../claims/gesture-instruction-hinders-low-propensity-gesturers.md) [~W]
 - [Instructing adults to gesture while reading narratives aloud hindered free recall relative to spontaneous gesturing (Study 1)](../claims/instructed-gesture-hinders-narrative-free-recall.md) [-W]
+- [Typical gestures are rated as more semantically related to accompanying speech than atypical gestures](../claims/typical-gestures-rated-more-semantically-related.md) [+W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.

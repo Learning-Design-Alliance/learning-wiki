@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (13 for, 10 mixed, 3 against) · 39 studies (22 causal, 8 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 10 of 39 report an effect size · 19 claims rest on one study
+> **Evidence** · 27 claims (13 for, 11 mixed, 3 against) · 40 studies (22 causal, 9 review, 7 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 10 of 40 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](../claims/quiz-accuracy-declines-after-one-week-delay.md) [+W]
 - [The retention-interval main effect shows forgetting occurred over one week in both experiments](../claims/one-week-forgetting-main-effect-both-experiments.md) [~W]
 - [The immediate knowledge advantage for vision over touch-only does not persist at three-week follow-up](../claims/knowledge-showroom1-no-followup-effect.md) [~W]
+- [Closed-book generative tasks can outperform open-book ones when learners can later reinspect the material](../claims/closed-book-advantage-with-reinspection.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

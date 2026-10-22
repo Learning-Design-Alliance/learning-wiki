@@ -68,3 +68,5 @@ Of the 38 explicit strategy instances coded, most targeted cognitive capabilitie
 - [Explicit instruction of SRL strategies is rare among primary teachers in both an iSELF-trained group and an untrained control group](explicit-srl-instruction-rare-primary-teachers-both-conditions.md) — possibly the same claim (merge candidate)
 - [Explicit group regulation in online PBL was infrequent, emerged in response to challenges, and often involved teacher support](explicit-regulation-infrequent-challenge-responsive.md) — related
 - [Teachers typically provide only little explicit support for SRL in their classrooms](teachers-provide-little-explicit-srl-support.md) — a broader claim this one bears on
+- [Explicit strategy instruction, unlike implicit strategy instruction, is associated with a gain in student performance](explicit-strategy-instruction-associated-with-performance-gain.md) — related
+- [Classroom observation studies show that teachers provide only little direct strategy instruction, with strategy suggestions occurring in a small percentage of observed intervals](teachers-provide-little-direct-strategy-instruction.md) — related

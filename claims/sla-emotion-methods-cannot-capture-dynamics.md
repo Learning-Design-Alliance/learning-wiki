@@ -44,3 +44,4 @@ The review's methodological critique of quantitative SLA emotion research: cross
 
 ## Related Claims
 - [Detection-oriented emotion AI faces contextual under-interpretation: emotional signals lack stable meanings independent of person, task, culture, and situation](contextual-under-interpretation-emotion-ai.md) — related
+- [Cohort effects on activity emotions are minimal across fourteen years, with cohort accounting for only 0.2% to 1.2% of variance in mean emotion scores](cohort-effects-minimal-activity-emotions.md) — related

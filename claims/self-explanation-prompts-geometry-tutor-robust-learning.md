@@ -50,3 +50,4 @@ In vivo classroom experiment comparing an Explanation Condition of the Geometry 
 - [Self-explanation effects hold on far-transfer but not near-transfer questions in a geometry classroom study](self-explanation-far-transfer-geometry-classroom.md) — related
 - [Help Tutor metacognitive instruction produced no domain-level geometry learning gains and no lasting help-seeking procedural knowledge](help-tutor-no-domain-learning-gains.md) — related
 - [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](tutor-practice-greater-learning-gains-than-paper.md) — related
+- [Learning from examples depends on the explaining mode: prompting principle-based self-explanations and guided comparison of examples improves transfer](examples-facilitate-explaining.md) — related

@@ -54,3 +54,4 @@ Descriptive analysis of the nationally representative Schools and Staffing Surve
 - [Teaching has a relatively high turnover rate compared to nursing and national employee turnover benchmarks](teaching-turnover-high-versus-other-occupations.md) — related
 - [Teacher attrition rose from 5.1% in 1992 to 8.4% in 2005 and has hovered around 8% since](teacher-attrition-increase-since-1992.md) — related
 - [Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession](teachers-of-color-higher-attrition-intent.md) — a narrower finding that bears on this claim
+- [Occupational commitment is the strongest positive consequence and turnover intentions the strongest negative consequence of teacher wellbeing](wellbeing-consequences-commitment-turnover.md) — related

@@ -51,3 +51,4 @@ Narrative summary of Table 2 effect sizes for individual method and approach stu
 - [Adult learner groups are more heterogeneous than child groups, calling for individualized instruction and varied learning strategies](adult-learner-groups-more-heterogeneous.md) — related
 - [Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were inconclusive](inclusion-effects-heterogeneous-moderator-analyses-inconclusive.md) — related
 - [In medical and dental education, a deep learning approach is associated with high(er) or no-difference academic performance and never with low(er) performance](deep-approach-higher-performance-medical-dental.md) — related
+- [Fluency training shows the largest intervention effect (g = 1.78) among intervention methods](fluency-training-largest-effect-chinese-children.md) — related

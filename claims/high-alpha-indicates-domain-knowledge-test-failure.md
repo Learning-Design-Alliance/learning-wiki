@@ -59,3 +59,5 @@ Analytical argument in the article's section on inadequate selection criteria. F
 - [An exam with low internal consistency cannot be used to verify peer assessment validity](low-reliability-exam-excluded-from-validity-check.md) — related
 - [The TQsrl and SQsrl questionnaires are validated instruments measuring SRL sub-processes with emphasis on reflection](t-sqsrl-validated-srl-questionnaires.md) — related
 - [Single-item effort ratings show high internal consistency but their reliability is difficult to establish](single-item-effort-rating-reliability-problematic.md) — related
+- [Cronbach's alpha does not generally indicate the reliability of knowledge tests because knowledge is a heterogeneous construct](alpha-not-reliability-knowledge-tests.md) — related
+- [Retest reliability may be more appropriate than alpha for knowledge tests, but requires a testing interval without learning](retest-reliability-knowledge-tests.md) — related

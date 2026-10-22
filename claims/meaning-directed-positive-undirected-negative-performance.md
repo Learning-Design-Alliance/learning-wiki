@@ -46,3 +46,4 @@ The review's synthesis of studies on learning patterns and outcomes (e.g., Vermu
 ## Related Claims
 - [Cross-country meta-analysis: meaning-directed, reproduction-directed and undirected patterns are universal, while application-directed, passive-idealistic and passive-motivational patterns are context-specific](learning-patterns-cross-country-universality.md) — related
 - [Learning patterns relate to contextual factors including teaching strategies, perceptions of the learning environment, and discipline](learning-patterns-contextual-factors.md) — related
+- [Meaning-directed learning relates positively, and reproduction- and undirected learning negatively, to study achievement indicators](learning-patterns-outcome-relations.md) — possibly the same claim (merge candidate)

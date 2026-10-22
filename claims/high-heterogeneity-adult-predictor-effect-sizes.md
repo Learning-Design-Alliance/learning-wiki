@@ -51,3 +51,4 @@ Heterogeneity was assessed with Q statistics and I² across the 10 predictor mod
 - [Effect sizes linking reading components to comprehension are highly heterogeneous across studies, partly explained by age, country, and comprehension test used.](heterogeneity-age-country-comprehension-tests.md) — related
 - [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](morphological-awareness-stronger-than-phonological-ran.md) — related
 - [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](moderate-metalinguistic-pseudoword-adult-comprehension.md) — related
+- [Working memory, orthographic, phonological, and morphological training each show significant medium effects on Chinese children's literacy](medium-effects-wm-ortho-phono-morph-training.md) — related

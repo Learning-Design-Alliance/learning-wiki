@@ -47,3 +47,6 @@ Theoretical argument using an analogy of head circumference and body height as s
 - [Domain knowledge is theoretically a formative construct formed by distinct, not necessarily associated, aspects](domain-knowledge-formative-construct.md) — related
 - [Available AI-dependence and attachment instruments follow three non-interchangeable measurement logics and do not converge on one stable construct](ai-dependence-scales-three-non-interchangeable-logics.md) — related
 - [Reflective modeling of formative knowledge constructs risks misrepresenting domain knowledge as a general factor such as intelligence](reflective-model-misrepresents-domain-knowledge.md) — related
+- [Confidence intervals around alpha do not resolve the problem because they inherit alpha's failure to indicate knowledge-test reliability](alpha-ci-does-not-fix-reliability.md) — related
+- [Cronbach's alpha does not generally indicate the reliability of knowledge tests because knowledge is a heterogeneous construct](alpha-not-reliability-knowledge-tests.md) — related
+- [Validity coefficients with external criteria provide a lower bound for a test's reliability](validity-lower-bound-reliability.md) — related

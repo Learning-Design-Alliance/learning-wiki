@@ -48,3 +48,6 @@ The discussion paper reports, attributing to de Mooij et al. (2025), a systemati
 - [Metacognition assessment is shifting from self-report questionnaires toward process-oriented multimodal methods, which face validity and data-alignment challenges](process-oriented-metacognition-assessment-shift.md) — related
 - [Scaffolding research and frameworks have shifted from motivational-plus-cognitive support toward mostly cognitive support](scaffolding-became-cognitively-skewed.md) — related
 - [The role of affect in STEM teacher learning remains seriously underexplored despite growing research on teacher emotion](affect-in-stem-teacher-learning-underexplored.md) — related
+- [The four analytic approaches differ systematically in study contexts and designs](contextual-differences-four-srl-approaches.md) — a narrower finding that bears on this claim
+- [Standard descriptive statistics dominate SRL multimodal analysis even in integrated approaches](descriptive-statistics-dominate-srl-analysis.md) — related
+- [SRL research shows a historical shift from unimodal approaches toward integrated multimodal approaches](shift-unimodal-to-integrated-srl-approaches.md) — possibly the same claim (merge candidate)

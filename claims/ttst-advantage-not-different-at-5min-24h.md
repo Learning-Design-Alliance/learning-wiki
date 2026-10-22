@@ -58,3 +58,4 @@ Omnibus interaction test from the ANOVAs in Experiments 1 and 2, in which cued r
 - [The retrieval benefit occurs at the level of individual items, not through general practice at retrieval](retrieval-benefit-item-level.md) — related
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — related
 - [The retention-interval main effect shows forgetting occurred over one week in both experiments](one-week-forgetting-main-effect-both-experiments.md) — related
+- [Retrieval practice takes more learning time than worked examples, and variability slows improvement during practice](retrieval-practice-time-cost-and-slower-varied-learning.md) — related

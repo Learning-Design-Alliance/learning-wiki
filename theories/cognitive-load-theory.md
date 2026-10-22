@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 95 claims (58 for, 28 mixed, 9 against) · 80 studies (31 causal, 23 review, 14 theoretical, 11 quant-synthesis, 1 design), `q1`–`q4` · 13 of 80 report an effect size · 84 claims rest on one study
+> **Evidence** · 96 claims (59 for, 28 mixed, 9 against) · 81 studies (31 causal, 23 review, 14 theoretical, 11 quant-synthesis, 2 design), `q1`–`q4` · 14 of 81 report an effect size · 85 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -165,6 +165,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Tracing and pointing does not significantly reduce self-reported intrinsic cognitive load](../claims/tracing-pointing-no-intrinsic-load-reduction.md) [~W] — attached 2026-10-21 from Yining Wang et al. (2025), which proposed "Biologically primary tracing and pointing actions support acquisition of biologically secondary knowledge (cognitive load theory evolutionary account)".
 - [Task difficulty shows an inverted U-shaped relation with cognitive strategy use and a positive linear relation with metacognitive strategy use, mediated by cognitive load (Seufert et al., 2024)](../claims/task-difficulty-inverted-u-strategy-use.md) [~W]
 - [Animations often do not produce more effective learning than static visualizations, partly because their transience creates high working memory load](../claims/animations-transience-working-memory-load.md) [+W]
+- [In the new questionnaire, ICL and ECL correlate positively while both correlate negatively with GCL](../claims/icl-ecl-positive-gcl-negative-correlations.md) [+M] — attached 2026-10-22 from Krieglstein et al. (2023), which proposed "Three types of cognitive load within Cognitive Load Theory: intrinsic, extraneous, and germane".
 
 ## The evidence by question
 

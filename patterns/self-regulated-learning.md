@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 70 claims (24 for, 42 mixed, 4 against) · 61 studies (22 causal, 11 review, 10 associational, 9 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 61 report an effect size · 63 claims rest on one study
+> **Evidence** · 71 claims (25 for, 42 mixed, 4 against) · 62 studies (22 causal, 12 review, 10 associational, 9 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 62 report an effect size · 64 claims rest on one study
 
 ## Description and scope
 
@@ -136,6 +136,7 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 - [Among 53 quantitative SRL interventions for pre-service teachers, effect sizes were distributed evenly across highly effective (n = 17), moderately effective (n = 16) and less effective (n = 20) categories](../claims/srl-pst-interventions-balanced-effectiveness-distribution.md) [~W]
 - [Process mining shows VM conditions exhibit unique reasoning–self-regulation sequences and self-loops absent in the control condition](../claims/process-mining-vm-sequences-selfloops.md) [~W]
 - [General pre-warnings mostly show null effects, but monitoring with susceptibility feedback reduces susceptibility](../claims/pre-warnings-null-effects-susceptibility-feedback-effective.md) [+W]
+- [Teachers' direct instructional support is associated with students' use of self-regulation strategies, while autonomy as indirect activation was negatively associated with reading performance](../claims/direct-support-strategy-use-autonomy-negative-reading.md) [+W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

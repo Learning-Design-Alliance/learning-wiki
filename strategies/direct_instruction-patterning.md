@@ -59,9 +59,11 @@ Patterning operationalizes the insight that learners generalize from whatever va
 6. Schedule cumulative review across subsequent lessons.
 
 ## Related Strategies
+
 - [Explicit Teaching](explicit-teaching.md) — the broader family of teacher-led, structured instruction that patterning serves
 - [Worked Examples](worked-examples-first.md) — an example-based format that can be patterned the same way (sequenced positives and negatives)
 - [Spaced Retrieval Practice](spaced-retrieval-practice.md) — the review mechanism that maintains the discriminations patterning establishes
+- [Use varied retrieval practice with feedback to support rule induction when no initial instruction is given](varied-retrieval-with-feedback-for-rule-induction.md)
 
 ## Examples
 - **Reading Mastery / DISTAR** (McGraw-Hill) — the canonical application: letter-sound correspondences taught through minimally different example sets, scripted wording, and rapid unison responding, with decoding rules introduced only after the pattern is secure.

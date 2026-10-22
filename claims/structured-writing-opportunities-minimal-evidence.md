@@ -48,3 +48,4 @@ The guide's evidence summary for Recommendation 3 states "Only two studies met W
 
 ## Related Claims
 - [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](integrate-oral-written-language-content-teaching.md) — related
+- [Learning from fiction is a research area with both recommendations and areas of caution for education](learning-from-fiction-recommendations-and-cautions.md) — related

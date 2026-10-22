@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 86 claims (59 show a difference, 20 mixed, 7 no difference) · 64 studies (16 causal, 15 associational, 13 review, 9 qualitative, 7 theoretical, 4 design), `q1`–`q4` · 10 of 64 report an effect size · 83 claims rest on one study
+> **Evidence** · 88 claims (60 show a difference, 21 mixed, 7 no difference) · 66 studies (17 causal, 16 associational, 13 review, 9 qualitative, 7 theoretical, 4 design), `q1`–`q4` · 11 of 66 report an effect size · 85 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -121,6 +121,8 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Anxiety, enjoyment and boredom are three critical emotions in language learning that affect outcomes and engagement](../claims/anxiety-enjoyment-boredom-critical-sla-emotions.md) [+M] — learners who differ on it differ in outcomes
 - [Aggregated state emotions show no superior incremental predictive validity over self-reported traits for academic outcomes; traits corrected for states were only systematically correlated with criteria for enjoyment and somewhat for pride](../claims/no-superior-incremental-predictive-validity-aggregated-states.md) [~M] — learners who differ on it differ in outcomes
 - [Negative emotions are not uniformly detrimental; differentiation by valence, arousal, and object focus is needed](../claims/negative-emotions-not-uniformly-detrimental.md) [~W] — learners who differ on it differ in outcomes
+- [In the HghLBO profile, boredom and enjoyment lose nearly all predictive power for persistence, though they predict persistence in full-sample and multigroup analyses](../claims/boredom-enjoyment-prediction-lost-in-hghlbo.md) [~M] — learners who differ on it differ in outcomes
+- [Learning biologically primary words is rated as more enjoyable and more interesting than learning biologically secondary words](../claims/primary-words-more-enjoyable-interesting.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

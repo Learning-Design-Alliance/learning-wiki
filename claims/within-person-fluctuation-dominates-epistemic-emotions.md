@@ -54,3 +54,4 @@ Descriptive analysis of the 212 session-level emotion ratings; the ICC for curio
 - [Classroom and institutional differences account for little variance in engagement; nearly all variance is between students](engagement-variance-mostly-student-level.md) — related
 - [Emotional variability in L2 learning episodes is primarily intraindividual (62–68%), with modest lag-1 inertia (r ≈ .17–.19) and weak long-term trends or weekly cycles](l2-emotion-variability-within-person-inertia-modest.md) — related
 - [Most variance in students' momentary classroom emotions lies at the within-person level, yet person-aggregated state measures are fairly reliable (ICC(2) from 0.735 to 0.901)](aggregated-state-emotions-reliable-icc2.md) — possibly the same claim (merge candidate)
+- [Cohort effects on activity emotions are minimal across fourteen years, with cohort accounting for only 0.2% to 1.2% of variance in mean emotion scores](cohort-effects-minimal-activity-emotions.md) — related

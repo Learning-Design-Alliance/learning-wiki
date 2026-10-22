@@ -77,3 +77,4 @@ The review reports that meta-analyses find benefits concentrated among "economic
 - [Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance](online-growth-mindset-intervention-modest-effects.md) — related
 - [Fixed mindset correlates negatively with GPA among U.S. 9th-grade students (average r = −.22) in a nationally representative sample](fixed-mindset-gpa-correlation-national-sample.md) — related
 - [In Study 1, the revised growth mindset intervention reduced choosing easy over hard math problems more than the original intervention (d=.19)](revised-mindset-intervention-greater-challenge-seeking-study1.md) — a narrower finding that bears on this claim
+- [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](mindset-belief-fostered-without-outcome-change.md) — related

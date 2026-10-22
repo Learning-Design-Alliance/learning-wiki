@@ -52,3 +52,4 @@ K-means cluster analysis on the three approaches-to-learning scales in the surve
 - [Two distinct group deliberation patterns emerge in response to regulation triggers: the Plan and Implementation Approach (PIA) and the Trials and Failure Approach (TFA)](pia-tfa-deliberation-patterns-ssrl.md) — related
 - [Among 32 dyads in an open-ended collaborative tabletop task, three behavioral clusters split into two learning (gainer) profiles and one non-learning profile despite similar task performance](three-multimodal-collaborative-learning-profiles.md) — related
 - [Three distinct learner profiles emerge from function art activities: Repetitivists, Simplists, and Multifunctionists](function-art-three-learner-profiles.md) — related
+- [Dissonant combinations of regulation and processing strategies impair performance, and dissonance produces affective strain](dissonance-in-learning-patterns.md) — related

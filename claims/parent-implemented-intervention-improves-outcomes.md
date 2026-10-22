@@ -116,3 +116,4 @@ Open questions for future enrichment: whether parent-delivered and professional-
 - [Aided AAC interventions had large effects on targeted behavioral outcomes in individuals with ASD, per a meta-analysis of 24 single-case studies](aided-aac-large-effects-asd-single-case-meta-analysis.md) — related
 - [AAC interventions showed positive effects on all targeted behavioral outcomes, with greater effects for communication skills than other skill categories](aac-positive-all-outcomes-communication-skills-greater.md) — related
 - [PECS and speech-generating devices produced larger effects than other picture-based AAC systems, which nonetheless showed small effects](pecs-sgd-larger-than-other-picture-based-systems.md) — related
+- [Children gain more from interventions administered by researchers or combined implementers than by parents](implementer-moderates-intervention-effect.md) — related

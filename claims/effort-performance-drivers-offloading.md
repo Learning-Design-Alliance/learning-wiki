@@ -71,3 +71,4 @@ The review reports, citing Gilbert et al. (2020, Experiment 3), that in memory r
 - [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](subjective-expectations-drive-offloading.md) — related
 - [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — a narrower finding that bears on this claim
 - [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — related
+- [Shifting information to external aids enhances task performance with greater gains under high cognitive load](offloading-enhances-performance-under-load.md) — related

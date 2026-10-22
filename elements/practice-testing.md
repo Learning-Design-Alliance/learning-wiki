@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 61 claims (31 for, 27 mixed, 3 against) · 35 studies (19 causal, 6 quant-synthesis, 5 review, 2 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 35 report an effect size · 57 claims rest on one study
+> **Evidence** · 62 claims (31 for, 28 mixed, 3 against) · 36 studies (19 causal, 6 quant-synthesis, 6 review, 2 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 36 report an effect size · 58 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -112,6 +112,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Individual feedback impacted perceived utility only to a limited extent, and general feedback lowered perceived utility of retrieval practice (Experiment 2)](../claims/perceived-utility-limited-impact-individual-feedback.md) [~W]
 - [Taking a fill-in-the-blank test is more time-consuming than restudying the same material](../claims/fill-in-blank-testing-more-time-consuming-than-restudy.md) [~W]
 - [In the author's cited longitudinal classroom experiments, lessons with retrieval practice raised course grades from a C to an A level, and three spaced retrieval opportunities were optimal even nine months later](../claims/classroom-experiments-retrieval-grades-and-spacing.md) [+M]
+- [Retrieval practice mainly improves metamemory whereas generative activities mainly improve metacomprehension](../claims/metamemory-versus-metacomprehension-indirect-effects.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

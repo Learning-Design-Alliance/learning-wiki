@@ -52,3 +52,4 @@ Synthesis of randomized trials with tens of thousands of students, including two
 - [GPA treatment effects among lower-achieving students were smaller in higher-achieving schools (moderation by school achievement level)](mindset-gpa-effects-smaller-high-achieving-schools.md) — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [Cross-school variability in the GPA treatment effect was significant while variability in the mindset treatment effect was not](heterogeneous-gpa-effects-homogeneous-mindset-effects.md) — related
+- [Growth-mindset intervention gains varied by school context, being greatest where peer norms favored seeking challenge and in lower-achieving schools](mindset-gains-vary-school-context.md) — related

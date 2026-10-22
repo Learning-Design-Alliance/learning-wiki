@@ -46,3 +46,5 @@ ANCOVA on learning processes in Experiment 1 with N = 97 eighth-graders found a 
 - [Closed-book self-explanation prompts show no added value on delayed posttest performance, even with prior active processing of instructional explanations](closed-book-no-delayed-posttest-added-value.md) — related
 - [Generated self-explanations mediate the immediate posttest advantage of open-book over closed-book prompts](self-explanations-mediate-open-book-immediate-advantage.md) — related
 - [Closed-book prompts reduce immediate posttest performance only when learners were not prompted to actively process the instructional explanations](closed-book-prompts-lower-immediate-posttest-without-active-processing.md) — related
+- [Closed-book generative tasks can outperform open-book ones when learners can later reinspect the material](closed-book-advantage-with-reinspection.md) — related
+- [Learning-outcome effects of open- versus closed-book generative tasks are mixed](open-closed-book-outcome-effects-mixed.md) — related

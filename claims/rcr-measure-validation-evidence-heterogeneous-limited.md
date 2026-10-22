@@ -69,3 +69,4 @@ Review synthesis of validity evidence: most validity evidence was content or fac
 - [The majority of published RCR education evaluations use measures without reported validation evidence](majority-rcr-evaluations-unvalidated-measures.md) — related
 - [Developers of the principal practice instruments provided only partial information about the instruments' reliability and validity](practice-instrument-partial-reliability-validity-info.md) — related
 - [Most validated RCR measures assess a single learning outcome, with attitudes most common and only four measures testing knowledge](rcr-measures-single-learning-outcome-dominance.md) — related
+- [Retest reliability may be more appropriate than alpha for knowledge tests, but requires a testing interval without learning](retest-reliability-knowledge-tests.md) — related

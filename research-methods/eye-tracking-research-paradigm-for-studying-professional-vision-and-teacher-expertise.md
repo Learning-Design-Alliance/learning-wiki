@@ -32,6 +32,7 @@ The article characterizes an emerging research paradigm in which eye-tracking me
 
 - [Mobile eye-tracking methodology for capturing joint visual attention in co-located groups](mobile-eye-tracking-methodology-for-capturing-joint-visual-attention-in-co-located-groups.md)
 - [Multimodal analysis](multimodal-analysis.md)
+- [Time-course and mixed-effects analysis of educational eye-tracking data](time-course-and-mixed-effects-analysis-of-educational-eye-tracking-data.md)
 
 ## Key Sources
 - Nückles, M. (2021). Investigating Visual Perception in Teaching and Learning with Advanced Eye-Tracking Methodologies: Rewards and Challenges of an Innovative Research Paradigm. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09567-5

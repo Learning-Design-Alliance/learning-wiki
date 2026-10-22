@@ -52,3 +52,4 @@ This is a self-selected sample (6 of 21 eligible teachers volunteered for the ex
 - [Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness](reflective-practice-deeper-understanding-effectiveness.md) — related
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
 - [Continuous improvement for equity requires trust and courageous conversations; without trusting relationships, the improvement process will not help](ci-equity-requires-trust-and-courageous-conversations.md) — related
+- [Socio-emotional and metalevel argument-as-process gains were reported in 48 of 108 pattern studies, concentrated in Patterns 2 and 3](argument-as-process-gains-distribution.md) — related

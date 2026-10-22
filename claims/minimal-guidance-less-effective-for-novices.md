@@ -119,7 +119,7 @@ This narrative review builds its case on human cognitive architecture, expert–
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should learners explore a new idea with guidance, rather than be told it or left to find it alone?* This table gathers the studies behind this claim and the 34 narrower claims that bear on it: **36 distinct studies** (12 causal, 8 review, 6 quant-synthesis, 4 theoretical, 4 qualitative, 1 kind not coded, 1 design), `q1`–`q4`, 5 of 36 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should learners explore a new idea with guidance, rather than be told it or left to find it alone?* This table gathers the studies behind this claim and the 34 narrower claims that bear on it: **36 distinct studies** (12 causal, 9 review, 6 quant-synthesis, 4 theoretical, 4 qualitative, 1 design), `q1`–`q4`, 5 of 36 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -138,7 +138,7 @@ This narrative review builds its case on human cognitive architecture, expert–
 | [Kalyuga et al. 1998](https://doi.org/10.1518/001872098779480587) | q3 · causal · r? | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | Obikwelu 2013 | q1 · theoretical · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | [Slava Kalyuga 2010](https://doi.org/10.1007/s11251-009-9102-0) | q2 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
-| [Leonard Tetzlaff 2021](https://doi.org/10.1007/s10648-020-09570-w) | q2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
+| [Leonard Tetzlaff 2021](https://doi.org/10.1007/s10648-020-09570-w) | q2 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 | Higgin 2025 | q2 · qualitative · r2 | i? | [Gateway math students benefit from a balance of social, active learning and independent pr](balance-active-learning-independent-practice-gateway-math.md) (qualifies) |
 | [Belland 2017](https://doi.org/10.3102/0034654316670999) | q3 · quant-synthesis · r? | i? | [Scaffolding's effect was highest in project-based learning contexts; design-based learning](project-based-context-highest-scaffolding-effect.md) (supports) |
 | [Pollock et al. 2002](<https://doi.org/10.1016/s0959-4752(01)00016-0>) | q3 · causal · r? | i? | [Part-task practice reduces cognitive load for absolute novices during initial skill acquis](part-task-practice-reduces-load-for-novices.md) (supports) |

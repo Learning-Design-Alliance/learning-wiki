@@ -47,3 +47,4 @@ Multilevel analyses of survey and test data from 193,073 15-year-old students in
 - [Collectivism is not significantly linked to students' sense of belonging at school](collectivism-not-linked-sobas.md) — related
 - [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](teacher-student-relationship-strongest-sobas-link.md) — related
 - [Family, schoolmate, teacher, and student characteristics are linked to SOBAS and account for most of its variance](multi-level-characteristics-linked-sobas.md) — a broader claim this one bears on
+- [The belonging–outcome association is stronger in some cultural groups than others: reported moderation by ethnicity and by individualism–collectivism](structure-oriented-moderation-belonging-outcomes.md) — related

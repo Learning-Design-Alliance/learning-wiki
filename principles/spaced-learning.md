@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (35 for, 28 mixed, 1 against) · 42 studies (23 causal, 9 quant-synthesis, 9 review, 1 theoretical), `q1`–`q4` · 13 of 42 report an effect size · 57 claims rest on one study
+> **Evidence** · 65 claims (36 for, 28 mixed, 1 against) · 43 studies (23 causal, 10 review, 9 quant-synthesis, 1 theoretical), `q1`–`q4` · 13 of 43 report an effect size · 58 claims rest on one study
 
 ## Description
 
@@ -465,6 +465,7 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 
 - [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](../claims/expanding-uniform-spacing-retention-interval-moderator.md) [~W]
 - [The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third](../claims/spacing-decrement-limited-to-first-two-questions.md) [~W]
+- [Spaced practice research addresses the potential for optimal gaps or delays between presentations of the same concept](../claims/spaced-practice-optimal-gaps-between-presentations.md) [+W]
 
 ## Key Sources
 

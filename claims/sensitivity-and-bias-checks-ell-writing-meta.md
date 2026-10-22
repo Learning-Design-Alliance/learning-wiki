@@ -84,3 +84,6 @@ Publication bias assessment using funnel plots, trim-and-fill, and Egger's regre
 - [Publication bias analyses suggest possible small-sample bias for SCED studies, with trim-and-fill reducing the adjusted mean effect to 1.01](sced-publication-bias-trim-and-fill-101.md) — related
 - [No evidence of dissemination bias was detected in the meta-analysis](teacher-growth-mindset-no-dissemination-bias.md) — related
 - [Publication-bias checks indicate limited risk of publication bias in the extensive reading literature synthesized](er-publication-bias-limited.md) — related
+- [Publication bias is minimal in the meta-analytic estimate of the inhibitory control–mathematical ability correlation](minimal-publication-bias-ic-math-meta-analysis.md) — related
+- [No evidence of publication bias was detected in the pooled L2 gender-difference literature](no-publication-bias-l2-gender-meta-analysis.md) — related
+- [Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis](no-publication-bias-math-interventions-co-occurring.md) — related

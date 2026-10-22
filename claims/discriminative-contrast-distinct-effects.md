@@ -54,3 +54,4 @@ The authors' narrative review of the spacing and interleaving literatures report
 - [All 67 reviewed interleaving studies demonstrated the interleaving effect using very similar interleaved concepts](interleaving-effect-requires-similar-discriminable-materials.md) — related
 - [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — a narrower finding that bears on this claim
 - [All 48 reviewed spacing studies obtained the spacing effect using rest-from-deliberate-learning periods](spacing-effect-requires-rest-from-deliberate-learning.md) — related
+- [Interleaving—presenting different concepts in alternation rather than repeating the same concept—improves students' discrimination among similar concepts, terms, and principles](interleaving-improves-discrimination-similar-concepts.md) — a narrower finding that bears on this claim

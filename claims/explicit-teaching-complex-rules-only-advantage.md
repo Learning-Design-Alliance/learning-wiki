@@ -89,3 +89,4 @@ Spada and Tomita (2010), a meta-analysis of 41 studies, found larger effects for
 - [The usefulness of induction and errorful learning varies with the type of terminal task being taught](task-type-moderates-induction-error-usefulness.md) — related
 - [FFI involving extensive instruction directed at simple structures was more likely to succeed in developing implicit knowledge](extensive-ffi-simple-structures-more-likely-to-succeed.md) — related
 - [Deductive reasoning develops in stages: explicit inference around ages 5-6, modus tollens around 9-10, and explicit metalogic in adolescence](deductive-reasoning-stages-explicit-metalogic.md) — related
+- [Explicit strategy instruction, unlike implicit strategy instruction, is associated with a gain in student performance](explicit-strategy-instruction-associated-with-performance-gain.md) — related

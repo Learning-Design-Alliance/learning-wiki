@@ -70,3 +70,4 @@ Random-effects meta-analysis for mastery-avoidance goals and depression (Table 3
 - [Publication bias is indicated for the performance-approach and performance-avoidance anxiety effects but not for the depression effects](publication-bias-performance-goal-anxiety-effects.md) — related
 - [The goal–internalizing relations are moderated by goal terminology, goal setting, education level, goal model, and cultural context](moderators-achievement-goals-internalizing.md) — related
 - [Mastery-approach goals are negatively related to anxiety (r = −.10) across 34 samples](mastery-approach-goals-negative-anxiety-meta.md) — related
+- [Mastery-avoidance goals show no significant association with academic dishonesty](mastery-avoidance-null-dishonesty.md) — related

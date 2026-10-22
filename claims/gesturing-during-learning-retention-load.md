@@ -68,3 +68,4 @@ The review reports Goldin-Meadow et al.'s study in which children and adults exp
 - [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](gestures-material-scaffolding-collaboration.md) — related
 - [Suppressing or restricting hand movements disrupts children's arithmetic performance, suggesting gestures play a functional role in calculation](hand-movement-interference-disrupts-calculation.md) — related
 - [Mimicking tracing and pointing gestures on a touchscreen during timed multimedia worked examples hindered adolescent learners' geometry learning](touchscreen-tracing-hinders-timed-worked-examples.md) — reports the opposite
+- [Enacting support—gestures and manipulatives—facilitates explanation quality and problem-solving, partly by adding strategies to verbal explanations](enacting-support-facilitates-explaining.md) — related

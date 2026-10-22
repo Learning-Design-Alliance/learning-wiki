@@ -13,7 +13,7 @@ generated:
 # Representational Drawing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (2 for, 4 mixed) · 6 studies (4 causal, 2 quant-synthesis), `q2`–`q3` · 3 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (3 for, 5 mixed) · 7 studies (4 causal, 2 quant-synthesis, 1 review), `q2`–`q3` · 3 of 7 report an effect size · 8 claims rest on one study
 
 ## Description
 Representational drawing is the element in which learners sketch, diagram, or draw structures and relationships to support understanding.
@@ -29,3 +29,5 @@ Representational drawing is the element in which learners sketch, diagram, or dr
 - [Lay producers of argument diagrams spontaneously create well-formed global structures, with 80% of diagrams having basic circle or square geometry](../claims/producers-well-formed-argument-diagram-structure.md) [~W]
 - [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](../claims/sketching-animation-best-understanding-photograph-worst.md) [+W]
 - [Effect sizes across drawing-support studies show significant heterogeneity for both comprehension and transfer outcomes](../claims/drawing-support-heterogeneity-significant.md) [~W]
+- [Drawing to learn shows positive effects on learning performance compared with non-generative and text-focused learning strategies](../claims/drawing-beats-text-focused-strategies.md) [+W]
+- [Digital drawing shows mixed results relative to paper-based drawing, with a meta-analysis favoring traditional media for some assessment types](../claims/digital-vs-paper-drawing-mixed.md) [~M]

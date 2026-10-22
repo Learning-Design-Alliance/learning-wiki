@@ -51,3 +51,4 @@ Random-effects meta-analysis of teacher-level factors across the 87 included stu
 - [Exhaustion is significantly negatively related to academic achievement (rc+ = −.15)](exhaustion-negative-achievement.md) — related
 - [Reduced efficacy shows the largest negative correlation with academic achievement (rc+ = −.39)](reduced-efficacy-largest-negative-achievement.md) — related
 - [Hardiness is negatively associated with reduced academic accomplishment](hardiness-negative-reduced-accomplishment.md) — related
+- [Burnout and work engagement are the strongest correlates of teacher wellbeing](burnout-engagement-strongest-correlates.md) — related

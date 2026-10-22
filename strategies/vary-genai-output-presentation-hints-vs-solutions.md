@@ -45,6 +45,7 @@ The article recommends that future research on GenAI as tutoring systems should 
 - [Design GenAI tools with modular offloading control and meta-cognition support for learning contexts](modular-offloading-control-and-meta-cognition-support-genai.md)
 - [Future research should identify the instructional, learner, and contextual conditions under which GenAI most effectively supports motivation](future-research-genai-motivation-boundary-conditions.md)
 - [Sequence CSCL research on human-AI knowledge construction from exploratory observation to experimental variable manipulation](human-ai-research-program-sequence.md)
+- [Design experiments contrasting direct learner offloading versus indirect transience reduction by the presenter](contrast-direct-and-indirect-transience-reduction.md)
 
 ## Examples
 -

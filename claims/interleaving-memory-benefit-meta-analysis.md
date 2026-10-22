@@ -51,3 +51,4 @@ Meta-analysis of a subset of 17 studies (32 constituent datasets) from the 26-st
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — related
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — related
+- [Interleaving—presenting different concepts in alternation rather than repeating the same concept—improves students' discrimination among similar concepts, terms, and principles](interleaving-improves-discrimination-similar-concepts.md) — related

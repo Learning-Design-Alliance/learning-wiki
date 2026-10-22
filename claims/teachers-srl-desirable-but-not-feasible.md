@@ -46,3 +46,4 @@ The editorial reports, citing belief-scale studies, that teachers "perceive SRL 
 - [Teachers reported increased motivation knowledge and feasible, impactful MDP implementation after M-PLANS professional learning](m-plans-teacher-knowledge-uptake-gains.md) — related
 - [An 8-hour SRL teacher training improved teachers' self-efficacy to foster SRL and perceived SRL practice, but not student-level outcomes](srl-training-teacher-level-not-student-level-effects.md) — related
 - [Teachers typically provide only little explicit support for SRL in their classrooms](teachers-provide-little-explicit-srl-support.md) — related
+- [Teachers overestimate their SRL practice compared to classroom observations and student ratings, motivating complementing observation research with self-report data](teachers-overestimate-srl-practice-versus-observations.md) — related

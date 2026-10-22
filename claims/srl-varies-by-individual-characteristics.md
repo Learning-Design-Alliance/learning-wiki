@@ -67,3 +67,4 @@ Same penalized regression models. "SRL skills were substantially higher dup to 0
 - [SRL training programs targeting older students and students with lower prior academic achievement show larger effects on resource management strategies](student-characteristics-moderate-resource-management-effects.md) — related
 - [The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking](profiles-differ-in-self-regulatory-resources-except-help-seeking.md) — related
 - [Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles](demographics-not-associated-lower-distraction.md) — related
+- [Students' strategy use is partly context-specific and partly individual-bound, varying across courses yet consistent over courses](strategy-use-context-specific-and-individual-bound.md) — related

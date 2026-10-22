@@ -55,3 +55,4 @@ Online experiment with 102 Mechanical Turk participants studying photos of eight
 - [The discriminative-contrast hypothesis treats spacing and interleaving as distinct effects, with interleaving benefits more likely for similar than dissimilar interleaved tasks](discriminative-contrast-distinct-effects.md) — related
 - [Frequent alternation of categories yields more interrelated concepts than infrequent alternation, as indicated by a diagnosticity-by-alternation interaction](frequent-category-alternation-interrelated-concepts.md) — related
 - [Interleaving is more effective for materials with a low degree of discriminability](interleaving-effectiveness-low-discriminability.md) — related
+- [Interleaving—presenting different concepts in alternation rather than repeating the same concept—improves students' discrimination among similar concepts, terms, and principles](interleaving-improves-discrimination-similar-concepts.md) — related

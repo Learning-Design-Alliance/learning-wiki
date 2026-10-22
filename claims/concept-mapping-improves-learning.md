@@ -161,3 +161,6 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 - [Concept mapping has a moderate overall positive effect on science achievement for elementary and secondary students (g = 0.776)](concept-maps-moderate-overall-science-achievement-effect.md) — related
 - [Active-processing focus-support techniques such as testing, self-explaining, concept mapping, and drawing show positive effects on learning](focus-support-active-processing-techniques-positive-effects.md) — a broader claim this one bears on
 - [Self-generated concept mapping benefits learning from grade 4 onwards with similar effect sizes across grades 4–8, 9–12, and college](concept-mapping-effective-grade-4-onwards.md) — a narrower finding that bears on this claim
+- [Drawing to learn shows positive effects on learning performance compared with non-generative and text-focused learning strategies](drawing-beats-text-focused-strategies.md) — related
+- [Text quality after initial study moderates whether free recall beats generative tasks](text-quality-moderates-recall-vs-generative-sequence.md) — related
+- [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — related

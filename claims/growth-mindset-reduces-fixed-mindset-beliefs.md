@@ -66,3 +66,5 @@ Self-reported fixed mindset measured at the end of the second session in the nat
 - [GPA treatment effects among lower-achieving students were larger in schools whose peer norms supported challenge-seeking](peer-norms-sustain-mindset-gpa-effects.md) — related
 - [A short online growth mindset intervention improved ninth-grade core-course GPAs among lower-achieving students in a nationally representative US sample](growth-mindset-raises-lower-achiever-gpas-national-experiment.md) — related
 - [Evidence of changes in growth mindset or math confidence after the summer programs was minimal](summer-math-programs-minimal-mindset-confidence-change.md) — a narrower finding that bears on this claim
+- [A short growth mindset intervention did not improve recall performance or motivational beliefs compared to control, for either knowledge type](growth-mindset-no-effect-vocabulary-learning.md) — related
+- [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](mindset-belief-fostered-without-outcome-change.md) — related

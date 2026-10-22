@@ -53,3 +53,4 @@ The article reports the meta-analytic finding of Krou et al. (2021) second-hand:
 - [Cheating tendency significantly predicts AI-assisted academic dishonesty, and the association is stronger at higher levels of AI use](cheating-tendency-predicts-ai-dishonesty-moderated-by-ai-use.md) — related
 - [Academic procrastination and learned helplessness positively predict cheating tendency, while academic self-efficacy negatively predicts it among university students](psychological-antecedents-predict-cheating-tendency.md) — related
 - [Beliefs about action and willpower, shaped by discussion, causally alter behaviour such as cheating and persistence](metacognitive-beliefs-alter-behaviour.md) — related
+- [Mastery goals are negatively associated with academic dishonesty across studies](mastery-goals-negative-academic-dishonesty.md) — related

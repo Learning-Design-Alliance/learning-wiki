@@ -36,3 +36,4 @@ A self-report assessment developed by Jan Vermunt to measure higher-education st
 
 ## Key Sources
 - Jan D. Vermunt & Vincent Donche. (2017). A Learning Patterns Perspective on Student Learning in Higher Education: State of the Art and Moving Forward. Educ Psychol Rev 29:269–299. https://doi.org/10.1007/s10648-017-9414-6
+- Vermunt, J. D. & Vermetten, Y. J. (2004). Patterns in Student Learning: Relationships Between Learning Strategies, Conceptions of Learning, and Learning Orientations. Educational Psychology Review. https://dspacelibrary.uu.nl/handle/1874/11958

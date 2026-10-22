@@ -117,3 +117,4 @@ A live tension worth flagging: the claim that "media do not influence learning, 
 - [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](tool-effectiveness-depends-on-context-configuration.md) — a broader claim this one bears on
 - [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) — related
 - [General composing heuristics produced mixed results in studies of their effectiveness](general-heuristics-mixed-effectiveness-results.md) — a narrower finding that bears on this claim
+- [Digital drawing shows mixed results relative to paper-based drawing, with a meta-analysis favoring traditional media for some assessment types](digital-vs-paper-drawing-mixed.md) — a narrower finding that bears on this claim

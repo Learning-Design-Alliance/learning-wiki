@@ -69,3 +69,5 @@ Open-answer cue data (27 novices, 7 experts) coded with a 108-code inductive sch
 - [Experts detect and correct small changes before events become full-blown, while novices are distracted by possibly irrelevant phenomena](expert-monitoring-prevents-full-blown-events.md) — related
 - [Expert teachers' fixations are significantly more focused (less dispersed) than novices' when viewing classroom scenes, irrespective of video type](expert-fixations-more-focused-than-novices.md) — related
 - [Experts revisited (monitored) more classroom areas showing student interaction, while novices revisited areas lacking classroom activity](experts-monitor-interaction-areas-novices-salient-areas.md) — related
+- [Expert teachers show expertise-related eye movement patterns in some classroom tasks but not others, indicating task and context specificity](expert-teacher-gaze-context-specific.md) — related
+- [Eye tracking can be used to study student engagement, teacher expertise, and teacher-student interaction in naturalistic classroom contexts](eye-tracking-classroom-naturalistic-contexts.md) — related

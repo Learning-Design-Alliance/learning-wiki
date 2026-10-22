@@ -55,3 +55,4 @@ The review synthesized accuracy figures from studies (Table 7) comparing ANN, RF
 - [Standard ML models predicting student pass/fail from VLE data exhibit biased true-positive rates across demographic subgroups](baseline-ml-models-biased-tpr-oulad.md) — related
 - [A calibrated logistic-regression model predicts next-assessment pass/fail strongly on OULAD at both decision horizons](oulad-calibrated-logistic-regression-strong-prediction.md) — reports the opposite
 - [In static concurrent prediction, TabPFN outperformed Random Forest, XGBoost and Linear Regression across the four emotional and proficiency targets](tabpfn-outperforms-baselines-static-concurrent-prediction.md) — related
+- [Boosting models (XGBoost) achieved the highest predictive accuracy among the compared ML models, while logistic regression showed the lowest](boosting-highest-accuracy-logistic-lowest.md) — a narrower finding that bears on this claim

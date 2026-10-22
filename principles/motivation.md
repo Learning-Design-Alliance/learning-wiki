@@ -47,7 +47,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 91 claims (54 for, 36 mixed, 1 against) · 89 studies (27 review, 20 causal, 10 associational, 10 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 10 of 89 report an effect size · 77 claims rest on one study
+> **Evidence** · 92 claims (55 for, 36 mixed, 1 against) · 90 studies (28 review, 20 causal, 10 associational, 10 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 10 of 90 report an effect size · 78 claims rest on one study
 
 ## Conditional relationship
 
@@ -226,6 +226,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Individual feedback impacted perceived utility only to a limited extent, and general feedback lowered perceived utility of retrieval practice (Experiment 2)](../claims/perceived-utility-limited-impact-individual-feedback.md) [~W]
 - [Attribution reframing interventions improved outcomes for struggling students (review-reported)](../claims/attribution-reframing-improves-struggling-student-outcomes.md) [+W]
 - [Junior high math teachers were more controlling and less supportive than elementary teachers, and classrooms with the strongest such changes showed the largest declines in math motivation](../claims/junior-high-teachers-more-controlling-motivation-declines.md) [~W]
+- [Feedback targeting reading self-efficacy had a positive effect on motivation, while error-focused feedback and rewards had mixed effects on long-term interest and engagement](../claims/feedback-motivation-self-efficacy-positive-rewards-mixed.md) [+W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

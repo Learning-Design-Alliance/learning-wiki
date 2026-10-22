@@ -53,3 +53,4 @@ The review's discussion reports this as a key finding from the included studies:
 - [Only a minority of teacher educators interpreted a critical classroom-management incident as theoretically expected, despite marked eye-tracking differences](wyss-critical-incident-rarely-interpreted-as-expected.md) — related
 - [AI-powered multimodal approaches tracking emotional and physiological responses increase student engagement and motivation in collaborative learning](ai-multimodal-monitoring-increases-engagement.md) — related
 - [Chest-worn ECG provides the strongest cardiac-sensing performance for attention-difficulty prediction, and fusing all cardiac streams does not improve upon chest ECG alone](chest-ecg-strongest-cardiac-engagement-signal.md) — related
+- [Combining eye tracking with other process measures such as machine vision features provides useful information about student engagement](multimodal-engagement-measurement.md) — related

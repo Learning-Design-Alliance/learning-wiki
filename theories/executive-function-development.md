@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 198 claims (91 for, 103 mixed, 4 against) · 109 studies (60 associational, 22 review, 15 causal, 9 quant-synthesis, 3 theoretical), `q1`–`q4` · 43 of 109 report an effect size · 190 claims rest on one study
+> **Evidence** · 199 claims (91 for, 104 mixed, 4 against) · 110 studies (60 associational, 22 review, 15 causal, 9 quant-synthesis, 4 theoretical), `q1`–`q4` · 43 of 110 report an effect size · 191 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -239,6 +239,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [EF explains substantial achievement variance (about 20–60% in school children) while SRL shows positive but low-effect-size relations to achievement](../claims/ef-achievement-variance-srl-low-effect.md) [+W]
 - [EF longitudinally predicts later SRL in children, supporting the notion that EF predicts SRL but not vice versa](../claims/ef-predicts-srl-longitudinally.md) [+W]
 - [SRL and EF show primarily low to moderate correlations across age groups, with no detectable pattern depending on age](../claims/srl-ef-low-moderate-correlations-across-age.md) [~W]
+- [Restrictive digital-use policies may reduce short-term exposure while doing less to build long-term self-regulatory capacity](../claims/restrictive-policies-reduce-exposure-not-capacity.md) [~W]
 
 ## Related Theories
 

@@ -48,3 +48,4 @@ In episode categorization across 48 disagreement episodes, direct episodes numbe
 - [Fifth graders in peer critique predominantly used soft (implied and/or mitigated) rather than direct forms of disagreement](students-soft-disagreement-peer-critique.md) — related
 - [Collaboration was sustained after both direct and soft disagreements, with no rude behaviors observed](collaboration-sustained-after-disagreements.md) — related
 - [Students' resolution of both direct and soft disagreements promoted collective knowledge advancement while maintaining a positive socio-emotional climate](resolution-promotes-collective-knowledge-advancement.md) — related
+- [Socio-emotional and metalevel argument-as-process gains were reported in 48 of 108 pattern studies, concentrated in Patterns 2 and 3](argument-as-process-gains-distribution.md) — related

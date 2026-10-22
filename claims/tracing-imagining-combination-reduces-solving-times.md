@@ -46,3 +46,4 @@ The review cites a recent study (Wang et al., 2022) combining a minor motor acti
 - [The reviewed tracing studies consistently confirm learning benefits of tracing across retention, comprehension, and transfer measures, though cognitive-load hypotheses were not confirmed in all studies](tracing-review-consistent-benefits-mixed-load.md) — a broader claim this one bears on
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — related
 - [Imagining worked examples benefits learners with adequate prior knowledge but harms performance for low-knowledge learners](imagined-worked-examples-prior-knowledge.md) — related
+- [Combining drawing with mentally imagining produces a negative effect of drawing, qualified by a significant interaction](drawing-mental-imagery-negative-interaction.md) — related

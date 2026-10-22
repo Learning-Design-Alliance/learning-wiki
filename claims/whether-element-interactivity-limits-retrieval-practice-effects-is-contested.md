@@ -109,3 +109,4 @@ The chapter's own conclusion: "there is a wealth of evidence that retrieval prac
 - [Split-attention and redundancy effects occur for high element interactivity material but disappear for low element interactivity material](load-effects-vanish-low-element-interactivity.md) — related
 - [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — related
 - [Testing effect disappears for a coherent complex text but reappears, as reduced forgetting, when the same sentences are scrambled](testing-effect-disappears-coherent-text-reappears-scrambled.md) — related
+- [Retrieval-based learning research emphasizes both direct and indirect effects of retrieval on learning](retrieval-based-learning-direct-indirect-effects.md) — related

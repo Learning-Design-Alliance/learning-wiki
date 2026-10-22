@@ -149,3 +149,5 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [Motivational interventions can lower perceived cognitive load and improve retention and transfer, indicating load perception is partly independent of task difficulty](motivation-intervention-lowers-perceived-load.md) — related
 - [Moderators of teachers' growth mindset effects include publication year, world region, publication status, dimensionality, referent, content, and study quality](teacher-growth-mindset-moderators.md) — related
 - [Teachers' growth mindset shows a small positive overall association with combined teacher, instructional, and student outcomes (r = .111)](teacher-growth-mindset-small-overall-association.md) — related
+- [Growth-mindset intervention gains varied by school context, being greatest where peer norms favored seeking challenge and in lower-achieving schools](mindset-gains-vary-school-context.md) — related
+- [All included studies were rated as having some concerns regarding overall risk of bias, primarily due to absence of preregistered analysis plans](risk-of-bias-some-concerns-included-studies.md) — related

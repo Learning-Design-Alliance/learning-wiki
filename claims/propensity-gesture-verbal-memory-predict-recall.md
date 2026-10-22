@@ -65,3 +65,4 @@ Pearson's correlation in Study 2 between measured propensity to gesture (gesture
 - [Gesture instructions hindered specific recall for participants with lower propensity to gesture (Study 2)](gesture-instruction-hinders-low-propensity-gesturers.md) — related
 - [Instructing adults to gesture while reading narratives aloud hindered free recall relative to spontaneous gesturing (Study 1)](instructed-gesture-hinders-narrative-free-recall.md) — related
 - [Gesture instructions impaired narrative recall only for participants with average or above-average verbal memory, not those below average (Study 1)](gesture-instruction-harms-recall-high-verbal-memory.md) — related
+- [Gesture effects on narrative comprehension are not moderated by total task difficulty or age when measured through free recall and specific questions](gesture-comprehension-not-moderated-by-difficulty-or-age.md) — related

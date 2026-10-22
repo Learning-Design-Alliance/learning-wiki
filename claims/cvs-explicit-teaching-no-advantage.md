@@ -46,3 +46,4 @@ The review quotes the Schwichow et al. (2016) meta-analysis of CVS instruction, 
 - [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — related
 - [In one class of 14 non-science majors, preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) was followed by a larger average normalized LCTSR gain (68%) than in earlier courses without it (11%, n=42)](explicit-reasoning-instruction-preliminary-large-gains.md) — related
 - [Cognitive inquiry skills are positively intercorrelated, but the functional thinking–CVS correlation diminishes when controlling for content knowledge](cognitive-skill-intercorrelations-conditional.md) — related
+- [Explicit strategy instruction, unlike implicit strategy instruction, is associated with a gain in student performance](explicit-strategy-instruction-associated-with-performance-gain.md) — reports the opposite

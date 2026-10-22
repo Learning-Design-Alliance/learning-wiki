@@ -351,3 +351,4 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Spaced practice produces a robust small-to-medium retention advantage over massed practice for mathematics learning overall (g = 0.26).](spacing-effect-mathematics-overall-meta-analysis.md) — related
 - [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — a broader claim this one bears on
 - [Strategies that reduce fluency and increase perceived difficulty (e.g., self-testing, spaced practice) often yield superior long-term learning, contrary to student beliefs](fluency-misleads-judgments-of-learning.md) — related
+- [Spaced practice research addresses the potential for optimal gaps or delays between presentations of the same concept](spaced-practice-optimal-gaps-between-presentations.md) — a narrower finding that bears on this claim

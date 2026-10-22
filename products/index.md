@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1832 entries** · 0 stable · 1832 in review · 0 drafts
+**1834 entries** · 0 stable · 1834 in review · 0 drafts
 
 ---
 
@@ -1184,6 +1184,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Open Source Physics (OSP) toolkit](open-source-physics-osp-toolkit.md) - A free, open-source physics software toolkit, including Easy Java Simulations and Tracker, developed for creating, customizing, analyzing, and sharing computer models and video-based investigations.
 * [Open University Learning Analytics Dataset (OULAD)](open-university-learning-analytics-dataset-oulad.md) - OULAD is an open-source dataset maintained for learning-analytics research, containing demographic, virtual learning-environment activity, and performance data from adult learners at The Open University.
 * [Open-source adversarial stress-testing platform for RPLAs with FastAPI backend and React dashboard](open-source-adversarial-stress-testing-platform-for-rplas-with-fastapi-backend-and-react-d.md) - An open-source platform developed by Saqib Shouqi et al.
+* [Open-source database of SRL constructs and multimodal indicators](open-source-database-of-srl-constructs-and-multimodal-indicators.md) - A Zenodo-hosted database that organizes self-regulated-learning constructs and multimodal indicators from 142 studies for use by SRL researchers and learning-analytics practitioners.
 * [Open-source modular AI math tutoring platform](open-source-modular-ai-math-tutoring-platform.md) - An open-source modular platform developed by Jarosław A.
 * [Open-source PyTorch DKT implementation](open-source-pytorch-dkt-implementation.md) - An open-source PyTorch implementation created by the article's authors for fitting Deep Knowledge Tracing to DataShop-format data and using it in online knowledge-tracing settings.
 * [Opening the Doors to College](opening-the-doors-to-college.md) - A Chicago Public Schools Department of Postsecondary Education framework specifying grade-level steps and recommendations for students preparing for college.
@@ -1884,6 +1885,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [1,650-question STEM diagram dataset collected via campus-wide submission campaign](1650-question-stem-diagram-dataset-collected-via-campus-wide-submission-campaign.md) - A restricted dataset of 1,650 educator- and student-submitted STEM questions containing structurally meaningful diagrams for evaluating AI interpretation of topological reasoning, collected and curated by Sun et al.
 * [10-item self-report questionnaire for critical use of genAI](10-item-self-report-questionnaire-for-critical-use-of-genai.md) - A 10-item, 5-point Likert self-report questionnaire developed by Markus H.
+* [15-item theory-based cognitive load questionnaire](15-item-theory-based-cognitive-load-questionnaire.md) - A Krieglstein et al.
 * [168-essay three-draft-type corpus with standardized ChatGPT-4 revision prompt](168-essay-three-draft-type-corpus-with-standardized-chatgpt-4-revision-prompt.md) - A research dataset created by Zhao et al.
 * [1997 Improving Chicago's Schools Individual School Report](1997-improving-chicagos-schools-individual-school-report.md) - A school-level reporting instrument developed by Anthony Bryk and colleagues that synthesizes student and teacher survey responses for comparison, self-analysis, and school-improvement planning.
 * [2003 Improving Chicago's Schools survey](2003-improving-chicagos-schools-survey.md) - A Chicago Public Schools survey administered to students, teachers, and principals in 2003 to collect information about school experiences, instruction, professional development, and working conditions.

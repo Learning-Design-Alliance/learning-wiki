@@ -49,3 +49,4 @@ The review's synthesis of the Al-Bogami & Alahmadi (2025) and Begeny et al. (201
 - [The HELPS one-to-one fluency program significantly outperformed control on GORT Fluency and GORT-Comprehension for grade 2 Spanish-speaking ELLs](helps-one-to-one-gort-fluency-comprehension-gains.md) — a narrower finding that bears on this claim
 - [Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences](two-year-fluency-intervention-greater-word-reading-growth.md) — related
 - [An AI-supported reading progress tool produced large effect sizes for speed and accuracy but not significant prosody gains for third-grade EFL learners](ai-reading-progress-speed-accuracy-large-effects-prosody-null.md) — related
+- [Goal setting combined with performance feedback showed a positive effect on reading fluency](goal-setting-plus-performance-feedback-fluency.md) — related

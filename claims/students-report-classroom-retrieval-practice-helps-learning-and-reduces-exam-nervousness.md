@@ -81,3 +81,5 @@ The commentary reports survey data attributed to Agarwal et al. (2014), presente
 - Undergraduate statistics students most frequently used and valued the courseware's ungraded formative practice features, the Readiness Check and Self Check — related
 - [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](testing-effect-generalizes-education-levels.md) — related
 - [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects](higher-anxiety-is-associated-with-smaller-testing-effects.md) — related
+- [Retrieval-based learning research emphasizes both direct and indirect effects of retrieval on learning](retrieval-based-learning-direct-indirect-effects.md) — related
+- [Retrieval practice has been implemented and studied in authentic middle school classrooms, with general recommendations for applied research](retrieval-practice-implementation-middle-school-classrooms.md) — a broader claim this one bears on

@@ -49,3 +49,4 @@ The review reports a study (Cavallini et al., 2010) in which older adults traine
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — a broader claim this one bears on
 - [CogMed computerized working-memory training improves practiced working-memory skills with narrow transfer, and controls playing the same games without increasing difficulty show no gains](cogmed-working-memory-training-narrow-transfer.md) — related
 - [Computerized training of inhibition in young children shows limited success, and a randomized trial found narrow, skill-specific transfer of working-memory and reasoning training in 4-year-olds](computer-training-inhibition-limited-transfer-narrow.md) — related
+- [Regular and explicit teacher addressing of metacognitive strategies is linked to students applying more metacognitive strategies over time](explicit-metacognitive-addressing-increases-student-strategy-use.md) — related

@@ -49,3 +49,4 @@ Pre-registered heterogeneity analysis in the national experiment. Mindset effect
 - [A short online growth mindset intervention improved ninth-grade core-course GPAs among lower-achieving students in a nationally representative US sample](growth-mindset-raises-lower-achiever-gpas-national-experiment.md) — related
 - [The growth mindset intervention increased tenth-grade advanced mathematics course enrolment overall, with larger gains in the highest-achieving schools](growth-mindset-increases-advanced-math-enrolment.md) — related
 - [Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance](online-growth-mindset-intervention-modest-effects.md) — related
+- [Growth-mindset intervention gains varied by school context, being greatest where peer norms favored seeking challenge and in lower-achieving schools](mindset-gains-vary-school-context.md) — related

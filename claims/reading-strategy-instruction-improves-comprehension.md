@@ -111,3 +111,4 @@ Meta-analysis of 52 studies (125 effect sizes) testing reading-strategy interven
 - [Preservice science teachers exposed to explicit reading strategy instruction showed the highest diversity and frequency of cognitive strategy use while reading a science text](explicit-instruction-highest-cognitive-strategy-use.md) — a narrower finding that bears on this claim
 - [No single instructional strategy is a significant moderator of shared text reading effects on listening comprehension](no-significant-instructional-strategy-moderator.md) — related
 - [Pedagogical interventions and scaffolds increase learners' use of self-regulated reading strategies](pedagogy-increases-self-regulated-reading-strategies.md) — related
+- [Regular and explicit teacher addressing of metacognitive strategies is linked to students applying more metacognitive strategies over time](explicit-metacognitive-addressing-increases-student-strategy-use.md) — a narrower finding that bears on this claim

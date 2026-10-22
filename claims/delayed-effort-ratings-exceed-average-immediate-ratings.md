@@ -48,3 +48,4 @@ Van Gog et al. (2012) investigated how immediate effort ratings provided after e
 - [Delayed perceived task difficulty ratings relate more strongly to the relative difficulty of the more demanding items within a task set, consistent with delayed ratings being affected by the most demanding item](delayed-ratings-track-most-demanding-items.md) — related
 - [Delayed cognitive load ratings appear to be based more on the more complex problems in the series than on a recency effect](delayed-ratings-based-on-complex-problems.md) — related
 - [Subjective effort ratings are sensitive to variations in task complexity, with higher ratings for complex tasks](subjective-effort-ratings-sensitive-to-task-complexity.md) — related
+- [Analyzing fluctuation of engagement over time rather than averaging on-task and off-task instances across a lecture provides novel insights into student behavior](engagement-fluctuation-over-averaging.md) — related

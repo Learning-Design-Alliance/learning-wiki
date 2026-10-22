@@ -48,7 +48,8 @@ The review recommends that teachers and institutions foster belonging by support
 - [Qualitative research shows marginalized students' sense of belonging depends on maintaining connections to their valued identities at school (self-concept fit)](../claims/self-concept-fit-qualitative-belonging.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Recommendations for culturally responsive school belonging research: broader cross-cultural sampling, stronger methodologies, multilevel theorizing, and qualitative/mixed methods](culturally-responsive-belonging-research-agenda.md)
 
 ## Examples
 -

@@ -211,3 +211,4 @@ Open questions include how the effect interacts with learner control over pacing
 - [Transient information effect: lengthy spoken text can reverse the modality effect, while shorter spoken text restores the conventional modality advantage](transient-information-effect-reverse-modality-length.md) — related
 - [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](synced-audio-visual-presentation-better-learning.md) — related
 - [Transient information in animations poses a serious challenge to learning, except for animations of human movement procedures](animation-transience-challenges-learning.md) — related
+- [Element interactivity moderates the effectiveness of cognitive offloading, with greater benefit for high element interactivity materials](element-interactivity-moderates-offloading.md) — related

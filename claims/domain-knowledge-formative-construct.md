@@ -46,3 +46,4 @@ This is the article's own theoretical argument, a definitional/conceptual claim 
 - Research practice misaligns with theory: domain knowledge is usually assessed with reflective models without argument for that choice — related
 - [Instruments show conceptual inconsistency: the same terms label different competence aspects, and disciplinary origin does not significantly correlate with definition or terminology choice](inconsistent-terminology-competence-aspects-autism-instruments.md) — related
 - [A low alpha does not necessarily indicate high content validity, because reliability and validity can both be high](low-alpha-not-evidence-of-content-validity.md) — related
+- [Cronbach's alpha does not generally indicate the reliability of knowledge tests because knowledge is a heterogeneous construct](alpha-not-reliability-knowledge-tests.md) — possibly the same claim (merge candidate)

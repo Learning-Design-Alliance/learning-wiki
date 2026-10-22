@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 156 claims (109 show a difference, 31 mixed, 16 no difference) · 104 studies (36 associational, 20 causal, 20 review, 9 quant-synthesis, 9 qualitative, 6 theoretical, 4 design), `q1`–`q4` · 28 of 104 report an effect size · 150 claims rest on one study
+> **Evidence** · 159 claims (112 show a difference, 31 mixed, 16 no difference) · 107 studies (36 associational, 22 review, 20 causal, 9 quant-synthesis, 9 qualitative, 7 theoretical, 4 design), `q1`–`q4` · 28 of 107 report an effect size · 153 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -196,6 +196,9 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Test anxiety correlates negatively with math achievement at a pooled r = −.23, weaker than math anxiety's correlation](../claims/test-anxiety-negative-correlation-math-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Test anxiety correlates weakly with working memory (r = −.18), with a much stronger correlation for spatial than verbal material](../claims/ta-wm-spatial-verbal-moderation.md) [+W] — learners who differ on it differ in outcomes
 - [Type of math task moderates the math anxiety–performance link: basic numerical knowledge shows the weakest correlation (r = −.22) and applied math among the strongest (r = −.31)](../claims/math-task-type-moderates-ma-link.md) [~M] — learners who differ on it differ in outcomes
+- [Affective reactivity can override adolescents' regulatory intentions for digital engagement](../claims/affective-reactivity-overrides-digital-regulation-intentions.md) [+W] — learners who differ on it differ in outcomes
+- [Dissonant combinations of regulation and processing strategies impair performance, and dissonance produces affective strain](../claims/dissonance-in-learning-patterns.md) [+M] — learners who differ on it differ in outcomes
+- [Positive coping styles show larger coefficients than negative coping styles, suggesting improving positive coping strategies may be more beneficial than minimising negative ones](../claims/positive-coping-coefficients-larger-than-negative.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

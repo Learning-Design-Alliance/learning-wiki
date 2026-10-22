@@ -66,3 +66,4 @@ Exploratory Welch tests comparing reported global fit indices by dimensionality 
 - [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
 - [A confirmatory factor analysis supports a four-factor structure of collaborative group engagement (behavioural, social, cognitive, conceptual-to-consequential) for the QCGE self-assessment scale](qcge-sas-four-factor-structure-cfa-supported.md) — related
 - [Most adolescent motivation studies measure teacher–student relationships unidimensionally rather than multidimensionally](tsr-measured-unidimensionally-in-motivation-research.md) — related
+- [A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity](cfa-confirms-three-factor-cognitive-load-structure.md) — related

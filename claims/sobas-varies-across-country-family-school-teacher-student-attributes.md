@@ -47,3 +47,4 @@ The study's overall question was tested with multilevel analyses of survey and t
 - [Students in more egalitarian cultures often have higher sense of belonging at school than students in more hierarchical cultures](egalitarian-cultures-higher-sobas.md) — a narrower finding that bears on this claim
 - [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](teacher-student-relationship-strongest-sobas-link.md) — a narrower finding that bears on this claim
 - [Collectivism is not significantly linked to students' sense of belonging at school](collectivism-not-linked-sobas.md) — a narrower finding that bears on this claim
+- [The belonging–outcome association is stronger in some cultural groups than others: reported moderation by ethnicity and by individualism–collectivism](structure-oriented-moderation-belonging-outcomes.md) — related

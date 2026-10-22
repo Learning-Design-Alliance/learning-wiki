@@ -58,9 +58,11 @@ Sensory materials make abstract physical concepts directly manipulable, which su
 5. Change one variable on a subsequent day (add water, add a ramp) and repeat, so children experience the predict–test–revise cycle more than once.
 
 ## Related Strategies
+
 - [Guided Inquiry](../elements/guided-inquiry.md) — the broader instructional family this strategy instantiates for early learners
 - [Learning Centers](learning-centers.md) — the classroom structure that typically houses the sensory table
 - [Predict-Observe-Explain](predict-observe-explain.md) — the prediction cycle in its older-student form
+- [Guide and time generative learning activities to overcome barriers to sense-making](guide-and-time-glas-strategy.md)
 
 ## Examples
 - **Tools of the Mind preschool curriculum** — uses structured dramatic and sensory play with intentional teacher framing, consistent with the guided-play evidence base.

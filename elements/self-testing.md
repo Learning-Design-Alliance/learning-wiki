@@ -18,7 +18,7 @@ sources:
 # Self-Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (10 for, 1 against) · 15 studies (6 review, 5 causal, 4 quant-synthesis), `q2`–`q4` · 9 of 15 report an effect size · 7 claims rest on one study
+> **Evidence** · 14 claims (11 for, 2 mixed, 1 against) · 16 studies (7 review, 5 causal, 4 quant-synthesis), `q2`–`q4` · 9 of 16 report an effect size · 10 claims rest on one study
 
 ## Description
 Self-testing is the element in which learners quiz themselves or otherwise attempt to retrieve knowledge without immediate external prompting. It is useful when the goal is to strengthen retention and help learners gauge what they actually know.
@@ -51,6 +51,9 @@ Self-testing is the element in which learners quiz themselves or otherwise attem
 - [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [+M]
 - [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](../claims/postclass-quizzes-and-longer-duration-larger-gains.md) [+W]
 - [Retrieval practice mostly increases susceptibility to misinformation (retrieval-enhanced suggestibility)](../claims/retrieval-practice-increases-misinformation-susceptibility.md) [-W]
+- [Higher-level quiz questions engage learners in generative activities as well as retrieval](../claims/higher-level-quiz-questions-engage-generative-activities.md) [~W]
+- [Closed-book generative tasks can outperform open-book ones when learners can later reinspect the material](../claims/closed-book-advantage-with-reinspection.md) [+W]
+- [Learning-outcome effects of open- versus closed-book generative tasks are mixed](../claims/open-closed-book-outcome-effects-mixed.md) [~W]
 
 ## The evidence by question
 

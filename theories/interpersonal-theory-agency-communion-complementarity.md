@@ -45,7 +45,8 @@ The article uses interpersonal theory (Kiesler, 1996) to map interpersonal behav
 - [Interpersonal styles equated with generalized expectancies in social learning theory](interpersonal-styles-as-generalized-expectancies.md)
 
 ## Examples
--
+
+- [Teachers can use friendly eye contact to convey communion and encourage reciprocal gaze interaction during group work](../strategies/friendly-eye-contact-convey-communion.md)
 
 ## Key Sources
 - Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org. [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)

@@ -58,3 +58,4 @@ The review reports Sachdeva and Gilbert (2020), who argued that reward-sensitivi
 - [Participants still offload more than optimal under loss framing](reminder-bias-persists-under-loss-framing.md) — related
 - [Within-person reminders of implementation intentions improve students' short-term study behaviour](within-person-reminders-improve-study-behaviour.md) — related
 - [Individuals show a systematic positive reminder bias, setting more reminders than optimal](positive-reminder-bias.md) — related
+- [Shifting information to external aids enhances task performance with greater gains under high cognitive load](offloading-enhances-performance-under-load.md) — related

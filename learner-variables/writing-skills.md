@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (72 show a difference, 19 mixed, 16 no difference) · 66 studies (22 causal, 20 associational, 10 quant-synthesis, 8 review, 3 design, 3 theoretical), `q1`–`q4` · 24 of 66 report an effect size · 102 claims rest on one study
+> **Evidence** · 109 claims (74 show a difference, 19 mixed, 16 no difference) · 67 studies (23 causal, 20 associational, 10 quant-synthesis, 8 review, 3 design, 3 theoretical), `q1`–`q4` · 25 of 67 report an effect size · 104 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -145,6 +145,8 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [One year after emergency remote instruction, Norwegian second-graders showed no statistically significant differences from a pre-pandemic cohort in writing quality, handwriting fluency, or attitude toward writing](../claims/covid-writing-losses-dissipated-by-second-grade.md) [-M] — instruction changes it
 - [School size statistically significantly predicted handwriting fluency but not the other two writing outcomes](../claims/school-size-predicts-handwriting-fluency.md) [~M] — learners who differ on it differ in outcomes
 - [The cohort covariate's contribution to explained variance in all three writing measures fell well below the small-effect threshold](../claims/cohort-covariate-effect-below-small-threshold.md) [-M] — learners who differ on it differ in outcomes
+- [Arm training with nested handwriting exercises yields the greatest overall acquisitions in letter knowledge and script, while arm-body training reduces them](../claims/arm-training-best-overall-letter-knowledge-gains.md) [+M] — instruction changes it
+- [Arm-body training improves overall legibility of letter script while pencil-and-paper training reduces it](../claims/arm-body-training-improves-overall-legibility.md) [+W] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

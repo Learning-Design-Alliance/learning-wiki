@@ -45,3 +45,4 @@ The commentary's own psychometric analysis of the Rawson and Dunlosky relearning
 ## Related Claims
 - [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
+- [Retrieval practice research extends to determining the optimal amount of practice testing for individual students](optimal-amount-of-practice-testing-individual-students.md) — related

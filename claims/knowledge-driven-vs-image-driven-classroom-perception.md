@@ -87,3 +87,5 @@ The article reports eye-tracking research (Wolff et al. 2016) showing novices' s
 - [Experts show rapid pattern recognition and instantaneous visceral decision-making, while novices rely on prolonged deliberate analysis that may lag events](expert-pattern-recognition-novice-prolonged-analysis.md) — related
 - [Expert teachers interpret classroom events more analytically and focus on learning consequences, while novices emphasize student behavior](experts-interpret-events-learning-novices-behavior.md) — related
 - [Experts perceive classroom situations in terms of groups of students while novices devote more visual attention to individual students](experts-perceive-groups-novices-individuals.md) — related
+- [Expert teachers show expertise-related eye movement patterns in some classroom tasks but not others, indicating task and context specificity](expert-teacher-gaze-context-specific.md) — related
+- [Eye tracking can be used to study student engagement, teacher expertise, and teacher-student interaction in naturalistic classroom contexts](eye-tracking-classroom-naturalistic-contexts.md) — related

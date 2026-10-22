@@ -52,3 +52,4 @@ The review reports this from studies outside its consulted reviews (Cooper et al
 - [Combining tracing with imagining (tracing with closed eyes) reduced problem-solving times compared to no tracing and imagining in worked-example mathematics learning](tracing-imagining-combination-reduces-solving-times.md) — related
 - [Variations in cognitive activation are reflected in the germane cognitive load scale: prompted imagination and disfluent text raise GCL](activation-variations-reflected-in-gcl-scale.md) — related
 - [GCL-raising activations did not improve learning outcomes: neither prompted imagination nor disfluency produced a significant task-performance advantage](gcl-activation-no-task-performance-effect.md) — related
+- [Combining drawing with mentally imagining produces a negative effect of drawing, qualified by a significant interaction](drawing-mental-imagery-negative-interaction.md) — related

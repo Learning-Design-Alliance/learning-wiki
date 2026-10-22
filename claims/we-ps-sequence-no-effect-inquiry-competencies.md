@@ -79,3 +79,4 @@ MANCOVA on graphing application and transfer scores for 120 seventh-grade studen
 - [Problem order produced an order effect: solving basketball problems first improved performance on all problems, while school problems first lowered performance](basketball-problem-order-effect-on-performance.md)
 - [For biochemistry students with relatively higher topic-specific prior knowledge, instruction-first (I-PS) outperformed problem-solving-first (PS-I) on a near-transfer test](i-ps-beats-ps-i-near-transfer-higher-prior-knowledge.md) — related
 - [Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions](knowledge-gains-comparable-across-prompt-conditions.md) — related
+- [Retrieval-practice-first sequences show small advantages over generative-first in some conditions](retrieval-first-sequence-small-advantage.md) — related

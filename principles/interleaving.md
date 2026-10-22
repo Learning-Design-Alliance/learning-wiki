@@ -47,7 +47,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (16 for, 22 mixed, 2 against) · 25 studies (11 causal, 6 review, 4 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 25 report an effect size · 37 claims rest on one study
+> **Evidence** · 41 claims (17 for, 22 mixed, 2 against) · 26 studies (11 causal, 6 review, 4 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 26 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,7 @@ The expectation should weaken if comparisons with comparable learners find no ad
 - [Combining utility value of distinguishing with conditional knowledge fosters interleaving of confusable categories (Abel et al., 2024)](../claims/utility-value-conditional-knowledge-foster-interleaving.md) [+W]
 - [In Experiment 1, mental effort was negatively related to perceived effectiveness and (via perceived effectiveness) willingness to use interleaved studying, with a more influential role for interleaved than blocked studying](../claims/effort-cue-study-considerations-exp1.md) [-W]
 - [In Experiment 2, the interleaving benefit on actual test outcomes was not statistically significant, unlike in Experiment 1](../claims/interleaving-outcome-benefit-nonsignificant-exp2.md) [~W]
+- [Interleaving—presenting different concepts in alternation rather than repeating the same concept—improves students' discrimination among similar concepts, terms, and principles](../claims/interleaving-improves-discrimination-similar-concepts.md) [+W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

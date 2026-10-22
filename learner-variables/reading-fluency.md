@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 50 claims (31 show a difference, 9 mixed, 10 no difference) · 39 studies (11 causal, 9 review, 8 quant-synthesis, 7 associational, 2 design, 2 theoretical), `q1`–`q3` · 12 of 39 report an effect size · 49 claims rest on one study
+> **Evidence** · 54 claims (33 show a difference, 11 mixed, 10 no difference) · 40 studies (11 causal, 10 review, 8 quant-synthesis, 7 associational, 2 design, 2 theoretical), `q1`–`q3` · 12 of 40 report an effect size · 53 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -90,6 +90,10 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Oral word-reading fluency instruction shows a high effect size of 0.66, but evidence rests on a single study](../claims/spanish-reading-fluency-es-066-single-study.md) [+M] — instruction changes it
 - [Word-level reading fluency is positively associated with intertextual integration among K-12 students, including readers with developmental dyslexia](../claims/word-reading-fluency-correlates-intertextual-integration.md) [+W] — learners who differ on it differ in outcomes
 - [In Morris et al. (2012), the phonological (phonics-including) intervention alone showed no significant reading benefits, while conditions adding orthographic and semantic instruction did](../claims/morris-2012-phonology-alone-not-significant.md) [~W] — instruction changes it
+- [Corrective word-reading feedback effects depend on timing and reader skill: delayed feedback enhanced word-reading accuracy, and phonics feedback helped poor readers while better readers performed best with no feedback](../claims/word-reading-corrective-feedback-timing-and-skill.md) [~M] — an instructional effect differs with it
+- [Effects of performance feedback during oral reading are mixed across studies, precluding clear conclusions](../claims/performance-feedback-oral-reading-mixed-effects.md) [~M] — instruction changes it
+- [Goal setting combined with performance feedback showed a positive effect on reading fluency](../claims/goal-setting-plus-performance-feedback-fluency.md) [+M] — instruction changes it
+- [Meaning-based and prosody-focused corrective feedback benefited comprehension and multiple reading outcomes, while decoding-focused feedback mainly enhanced fluency](../claims/meaning-based-feedback-comprehension-prosody.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

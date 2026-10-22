@@ -52,3 +52,4 @@ Subgroup meta-analyses of short-run effects by content domain. The review report
 - [Literacy First shows strong ESSA evidence of positive effects in phonics and related alphabetics, reading fluency, and reading comprehension for grades K–2](literacy-first-strong-evidence-phonics-fluency-comprehension.md) — related
 - [Prior reviews report positive word-reading intervention effects for adolescents but with a wide range (0-1.31) due to broad outcome conceptualization](prior-adolescent-reading-reviews-wide-effect-range.md) — related
 - [Extensive reading shows small-to-medium significant positive effects on every measured language domain, including vocabulary, reading comprehension, and general proficiency](er-effects-across-language-domains.md) — a narrower finding that bears on this claim
+- [Reading interventions significantly improve literacy skills of Chinese children overall (g = 0.68)](reading-interventions-overall-effect-chinese-children.md) — related

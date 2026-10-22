@@ -47,3 +47,4 @@ This distinction appears in the review's Fig. 2 framework caption describing its
 - [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related
 - [Fully offloading schoolwork to generative AI without personal input forgoes meaningful engagement and skill development](full-ai-offloading-forgoes-engagement-and-skills.md) — a broader claim this one bears on
 - [Offloading information to external stores is associated with lower memory performance, moderated by awareness of a later test](offloading-associated-with-lower-memory-performance.md) — related
+- [Cognitive offloading does not guarantee representational permanence and memory can suffer if the external record becomes unavailable](offloading-does-not-guarantee-permanence.md) — a broader claim this one bears on

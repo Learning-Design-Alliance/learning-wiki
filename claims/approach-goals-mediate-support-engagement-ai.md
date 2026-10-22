@@ -52,3 +52,4 @@ Mediation analysis used bootstrapping with 5000 resamples and 95% bias-corrected
 - [Teacher support directly and positively predicts learning engagement in AI-assisted English learning](teacher-support-direct-effect-engagement-ai.md) — related
 - [Teacher support correlates with mastery-approach and performance-approach goals and engagement, but not with avoidance-oriented goals](teacher-support-correlations-avoidance-goals-null.md) — related
 - [Mastery-approach goals are positively related to time management, while performance-approach relations are inconsistent and performance-avoidance goals show no association](mastery-approach-goals-time-management.md) — related
+- [Mastery-avoidance goals show no significant association with academic dishonesty](mastery-avoidance-null-dishonesty.md) — related

@@ -69,3 +69,4 @@ Study 1a: test relative accuracy did not differ between conditions; explain rela
 - [Students using representation-based cues showed higher draw relative accuracy than those using heuristic cues](representation-based-cues-support-draw-relative-accuracy.md) — related
 - [Students reported using visual cues for draw judgments but not for test or explain judgments](visual-cues-reported-only-for-draw-judgments.md) — related
 - [Judgment accuracy of comprehension did not depend on misconceptions or instructional method](no-effect-judgment-accuracy-comprehension.md)
+- [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — reports the opposite
