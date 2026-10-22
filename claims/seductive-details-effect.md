@@ -262,3 +262,4 @@ This study found that the seductive details effect was not uniform: readers with
 - [Realistic visual detail can raise retention despite higher extraneous load ratings (the realism paradox), with benefits tied to test objectives](realism-paradox-detail-retention-load.md) — related
 - [Weeding seductive details fostered learning only in a mandatory (high-reward) learning situation, not a voluntary one](weeding-effective-only-mandatory-learning.md) — related
 - [Visual sophistication of emotional design materials varies substantially and may act as a boundary condition for emotional design effects](design-sophistication-boundary-condition.md) — related
+- [Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding](action-hurts-when-adding-motor-demands.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ The review quotes Paas et al. (2004) on nonlinear hypertext environments, where 
 - [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — related
 - [Learning with tree diagrams increased experienced cognitive load across intrinsic, extraneous, germane, and overall measures](tree-diagrams-increase-cognitive-load.md) — related
 - [Tracing along a poster displaying a cycle reduced extraneous cognitive load and improved learning outcomes](tracing-water-cycle-reduces-extraneous-load.md) — related
+- [Low environment-change beliefs lead students to allocate cognitive resources to monitoring for breakdowns, creating extraneous load](low-environment-change-beliefs-extraneous-load.md) — related

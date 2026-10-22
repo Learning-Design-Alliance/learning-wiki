@@ -70,12 +70,14 @@ Sequenced practice with fading outperforms both unsupported practice and practic
 6. **Space and vary** — revisit faded task types over time with surface-feature variation to support transfer ([Comparing Cases](../elements/comparing-cases.md)).
 
 ## Related Strategies
+
 - [Interleaving](interleaving.md) — mixing problem types within a sequence prevents the sequence itself from becoming a cue
 - [Mastery Learning](mastery-learning.md) — provides the decision rule for when to advance between sequence stages
 - [Spiral Curriculum](../elements/spiral-curriculum.md) — revisits the same task class at rising complexity across longer timescales
 - [Use Worked Examples](worked-examples-first.md) — the high-support end of the scaffolded gradient
 - [Think-Aloud Modeling](think-aloud-modeling.md) — how the initial models make expert reasoning visible
 - [Fading](../elements/fading.md) — the mechanism by which support is withdrawn
+- [Fade embodied support as schemas develop, starting with the least embodied task-relevant support](fade-embodied-support-as-schemas-develop.md)
 
 ## Examples
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — organizes whole learning tasks into task classes of increasing complexity with systematically fading support; the canonical design model for scaffolded sequences.

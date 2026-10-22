@@ -53,3 +53,4 @@ The brief's own summary of the associated research states that "New research sho
 - [Differential rapid guessing often resulted in test events with meaningfully distorted item content representation](differential-rapid-guessing-distorts-content-representation.md) — a narrower finding that bears on this claim
 - [Disengaged student responses raise the issue of whether engaged responses maintain the intended content representation](disengaged-responses-threaten-engaged-content-representation.md) — a narrower finding that bears on this claim
 - [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related
+- [Text representations reflect learners' understandings of the real world, not only texts' content](representation-reflects-world-understandings.md) — related

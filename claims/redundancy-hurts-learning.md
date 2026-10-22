@@ -131,3 +131,4 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 - [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](synced-audio-visual-presentation-better-learning.md) — related
 - [Observing gestures embedded in instruction aids learning, especially when gestures convey a different strategy than speech](observing-gestures-in-instruction-aids-learning.md) — related
 - [Mayer published seven pieces in Educational Psychology Review, including the Select–Organize–Integrate model of learning and a research-based analysis of animation as an aid to multimedia learning.](mayer-seven-epr-pieces-soi-animation.md) — related
+- [Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding](action-hurts-when-adding-motor-demands.md) — related

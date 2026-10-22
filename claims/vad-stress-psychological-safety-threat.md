@@ -75,3 +75,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking](ai-feedback-reduces-perceived-personal-risk.md) — related
 - [Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance](video-debriefing-precision-safety-tradeoffs.md) — a broader claim this one bears on
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — related
+- [Low environment-change beliefs lead students to allocate cognitive resources to monitoring for breakdowns, creating extraneous load](low-environment-change-beliefs-extraneous-load.md) — related

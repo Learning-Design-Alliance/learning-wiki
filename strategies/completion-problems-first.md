@@ -81,6 +81,7 @@ Completion problems reduce the unguided search that makes early problem solving 
 - [Design AI educational systems that fade support and require learner justification to preserve independent problem solving](fade-ai-support-require-justification.md)
 - [Problem-Based Learning](problem-based-learning.md) — the contrast case: minimal guidance, appropriate only after schemas are established
 - [Scaffolded Practice](scaffolded-practice-sequences.md) — completion problems are a form of scaffolded practice with the scaffold defined by solution completeness
+- [Fade embodied support as schemas develop, starting with the least embodied task-relevant support](fade-embodied-support-as-schemas-develop.md)
 
 ## Examples
 - **van Merriënboer's 4C/ID task sequences** — complex-skill curricula (e.g., technical training) begin each task class with completion tasks and fade to conventional tasks ([Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md))

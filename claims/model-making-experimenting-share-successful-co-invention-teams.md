@@ -48,3 +48,4 @@ Quantitative analysis of coded video data (Table 3) from the five teams' session
 - [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](making-team-success-coordination-entanglement.md) — a broader claim this one bears on
 - [Anchoring collaboration in a shared epistemic object distinguished the successful co-invention teams from the unsuccessful one](shared-epistemic-object-anchors-collaborative-making.md) — related
 - [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — a broader claim this one bears on
+- [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](action-helps-when-concept-relevant-relations-easier.md) — related

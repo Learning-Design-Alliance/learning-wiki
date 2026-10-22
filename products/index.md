@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1836 entries** · 0 stable · 1836 in review · 0 drafts
+**1838 entries** · 0 stable · 1838 in review · 0 drafts
 
 ---
 
@@ -25,6 +25,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Abbreviated Acceptability Rating Profile (AARP)](abbreviated-acceptability-rating-profile-aarp.md) - The AARP is an eight-item Likert-scaled assessment developed by Tarnowski and Simonian to measure the acceptability of treatments.
 * [Absence Reports](absence-reports.md) - Absence Reports is an attendance-focused intervention delivered by school districts to provide absence information and support improved student attendance.
 * [Abstrackr](abstrackr.md) - Abstrackr is a natural-language-processing-assisted software tool for supporting systematic-review evidence-synthesis workflows, including study screening, developed for research teams.
+* [Academic Emotions Questionnaire (AEQ)](academic-emotions-questionnaire-aeq.md) - The AEQ is a self-report assessment developed by Reinhard Pekrun and colleagues to measure nine academic emotions across class-related, learning-related, and test-related situations.
 * [Academic integrity indicator framework: 130 items organised under eight dimensions of academic integrity](academic-integrity-indicator-framework-130-items-organised-under-eight-dimensions-of-acade.md) - A framework developed by Hamish Coates and colleagues that measures and reports institutional academic-assessment integrity across eight dimensions using 130 indicators.
 * [Academic Parent-Teacher Teams (APTT)](academic-parent-teacher-teams-aptt.md) - Academic Parent-Teacher Teams (APTT) is a structured family-engagement programme, developed for implementation by schools and districts, in which teachers convene parents, share assessment data, and support learning activities at home.
 * [AcademiClaw](academiclaw.md) - AcademiClaw is an 80-task bilingual benchmark dataset with rubrics and evaluation code for assessing OpenClaw AI agents on complex academic workflows, created by its article authors.
@@ -1732,6 +1733,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Tool for Representational Balance in Books](tool-for-representational-balance-in-books.md) - A 10-criterion rubric created by The Education Trust that guides readers in assessing how people, cultures, and topics are represented in books.
 * [Toolkit for Building a Virtual Learning Cohort](toolkit-for-building-a-virtual-learning-cohort.md) - A Mathematica toolkit that helps facilitators plan and evaluate virtual learning cohorts through guiding values and ten transferable planning tools.
 * [Toolkit of guides and templates for launching and sustaining an intermediary-led cohort of strategic learning grantees](toolkit-of-guides-and-templates-for-launching-and-sustaining-an-intermediary-led-cohort-of.md) - A Mathematica toolkit of adaptable guides and templates for designing and facilitating meetings and for developing theories of change, collecting data, and synthesizing findings in strategic learning initiatives.
+* [TOP Guidelines](top-guidelines.md) - The Transparency and Openness Promotion (TOP) Guidelines are a policy framework developed by social scientists, editors, and funders to guide journals and funding agencies in adopting standards for transparent, preregistered, reproducible research.
 * [Topic Checklist (TOC)](topic-checklist-toc.md) - A University of Limburg self-report instrument in which students rate time spent and perceived mastery across intended course topics to measure actual self-directed learning activities.
 * [Tough As Nails, Nimble Fingers (TAN) virtual computing PD project](tough-as-nails-nimble-fingers-tan-virtual-computing-pd-project.md) - An NSF-funded Digital Promise and Bit Source initiative delivering virtual K–8 computational-thinking professional development, including CT Booster sessions and micro-credentials, in rural Kentucky.
 * [TPI working procedures](tpi-working-procedures.md) - A structured framework developed for the TPI programme to guide online trainee researchers, tutors, and students through progressive research-project stages and related learning activities.

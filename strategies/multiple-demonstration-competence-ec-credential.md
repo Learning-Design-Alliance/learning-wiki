@@ -43,6 +43,7 @@ Among its policy recommendations, the report advises states to offer candidates 
 - [Offer test corrections and retakes, diverse performance-based assessment options, and peer-teaching opportunities so students can learn from mistakes and demonstrate understanding](student-recommended-assessment-changes.md)
 - [Competency Based Learning](competency-based-learning.md)
 - [Offer multiple pathways to the early childhood credential, including integrated bachelor's, transfer articulation, postbaccalaureate, dual certification, and residency routes](multiple-pathways-ec-credential-access.md)
+- [Treat pathway legitimacy as a design target: ensure alternative routes are perceived as legitimate, usable, and socially recognized](pathway-legitimacy-design-target.md)
 
 ## Examples
 -

@@ -108,3 +108,4 @@ Review synthesis of correlational studies on self-confidence, self-efficacy and 
 - [Excessive perceived workload is positively associated with a surface approach and negatively with a deep approach to learning](perceived-workload-surface-approach.md) — related
 - [Learning patterns are associated with personal factors (personality, motivation, beliefs, prior education, age, gender); their associations with personality are weak to moderate, indicating learning patterns are not stable traits](learning-patterns-personal-factors.md) — a broader claim this one bears on
 - [Personal resources have a reciprocal relationship with study resources and relate to engagement and achievement](personal-resources-reciprocal-study-resources.md) — related
+- [Student teachers' beliefs about sources of knowledge predict their learning approaches and motivation in teacher education](source-of-knowledge-beliefs-predict-learning-approaches.md) — related

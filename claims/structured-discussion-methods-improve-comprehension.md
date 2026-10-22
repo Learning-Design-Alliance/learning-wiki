@@ -188,3 +188,4 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [DLGs create egalitarian spaces for dialogue and exchange in which pupils contribute most of the talk](dlg-spaces-dialogue-exchange-pupil-talk.md) — related
 - [Across a review of 50 classroom experiments, lessons with question prompts consistently increased student learning compared to lessons without them](retrieval-practice-classroom-review-consistent-benefits.md) — related
 - [High-structured articulation studies report elaborated arguments while dialectic deliberation studies report integrated arguments](pattern2-elaborated-pattern4-dialectic-gains.md) — a narrower finding that bears on this claim
+- [Critical culturalized comprehension is reasoning engaged to resist or recast textual values into counternarratives](critical-culturalized-comprehension-counternarratives.md) — related

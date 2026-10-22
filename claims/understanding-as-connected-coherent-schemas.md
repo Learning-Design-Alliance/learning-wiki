@@ -50,3 +50,4 @@ Theoretical argument reviewing expertise research: adaptive experts' knowledge i
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](ai-supports-consolidation-comparison-reorganization-transfer.md) — related
 - [Classroom testing benefits facts (g = 0.524), concept learning (g = 0.644), and knowledge application in problem solving (g = 0.453).](testing-benefits-facts-concepts-problem-solving.md) — a narrower finding that bears on this claim
 - [Students who transferred prior-domain knowledge tended to offer correct explanations in the other domain](transfer-associated-with-correct-cross-domain-explanations.md) — a narrower finding that bears on this claim
+- [Software analyses are presented as illuminating advantages of the reorganizer view for new visions of computers' cognitive benefits](software-analyses-illuminate-reorganizer-advantages.md) — related

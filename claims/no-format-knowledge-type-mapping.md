@@ -74,3 +74,4 @@ ANCOVA on procedural knowledge (max 10, covariates math grade and time-on-task) 
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
 - [The format of a representational tool shapes the amount and type of historical reasoning](representational-tool-format-shapes-historical-reasoning.md) — related
 - [Technology type, collaboration level, and intervention duration show no significant differences in concept-mapping effects](concept-map-effects-null-technology-collaboration-duration.md) — related
+- [Text representations reflect learners' understandings of the real world, not only texts' content](representation-reflects-world-understandings.md) — related

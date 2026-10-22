@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 73 claims (30 for, 40 mixed, 3 against) · 63 studies (27 causal, 15 review, 10 quant-synthesis, 8 theoretical, 2 associational, 1 design), `q1`–`q4` · 23 of 63 report an effect size · 64 claims rest on one study
+> **Evidence** · 75 claims (32 for, 40 mixed, 3 against) · 64 studies (27 causal, 15 review, 10 quant-synthesis, 9 theoretical, 2 associational, 1 design), `q1`–`q4` · 23 of 64 report an effect size · 66 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Benefits of learning with more than two external representations primarily depend on the provision of appropriate instructional support.](../claims/mer-benefits-depend-on-instructional-support.md) [+W] — attached 2026-10-22 from Rexigel et al. (2024), which proposed "Do not assume a universal ideal number of external representations; tailor representational sets to learners and context"; tests this page's relationship.
 - [Some studies found that presenting more than two representations negatively impacted learning and problem-solving, especially for students with low prior knowledge.](../claims/more-than-two-representations-negative-effects-low-prior-knowledge.md) [+W] — attached 2026-10-22 from Rexigel et al. (2024), which proposed "Do not assume a universal ideal number of external representations; tailor representational sets to learners and context"; tests this page's relationship.
 - [Gesturing while explaining problem solving reduces cognitive load](../claims/gesturing-reduces-cognitive-load.md) [+W] — attached 2026-10-22 from Fred Paas et al. (2011), which proposed "Use biologically primary skills (communication, gesture, movement, object manipulation) to scaffold acquisition of biologically secondary knowledge"; tests this page's relationship.
+- [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](../claims/action-helps-when-concept-relevant-relations-easier.md) [+W] — attached 2026-10-22 from Fred Paas et al. (2026), which proposed "Optimize cognitive load in embodied instruction: aim for better learning and transfer, not movement or lower load for its own sake"; tests this page's relationship.
+- [Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding](../claims/action-hurts-when-adding-motor-demands.md) [+W] — attached 2026-10-22 from Fred Paas et al. (2026), which proposed "Optimize cognitive load in embodied instruction: aim for better learning and transfer, not movement or lower load for its own sake"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

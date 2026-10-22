@@ -1,16 +1,16 @@
 {
 "counts":{
-"claim":24855,
-"design":982,
+"claim":24894,
+"design":983,
 "element":1057,
 "learner-variable":75,
 "method":37,
 "pattern":54,
 "principle":170,
 "process":18,
-"product":1836,
+"product":1838,
 "research-method":607,
-"strategy":6546,
+"strategy":6558,
 "theory":1360
 },
 "kinds":[
@@ -3183,6 +3183,15 @@
 "type":"claim"
 },
 {
+"description":"Students experience a rich diversity of academic emotions, with anxiety reported most often (15-25% of reports) but positive emotions described about as often as negative emotions",
+"evidence_strength":"moderate",
+"id":"academic-emotions-rich-diversity-anxiety-most-frequent",
+"path":"claims/academic-emotions-rich-diversity-anxiety-most-frequent.md",
+"status":"review",
+"title":"Students experience a rich diversity of academic emotions, with anxiety reported most often (15-25% of reports) but positive emotions described about as often as negative emotions",
+"type":"claim"
+},
+{
 "description":"Academic grit has a significant positive effect on primary students' math achievement",
 "evidence_strength":"moderate",
 "id":"academic-grit-positive-effect-primary-math-achievement",
@@ -4298,6 +4307,24 @@
 "path":"claims/acta-global-leadership-expertise-components.md",
 "status":"review",
 "title":"ACTA study of global leaders identified expertise components including reading people closely, bridging cross-cultural communication, and perspective taking",
+"type":"claim"
+},
+{
+"description":"Sensorimotor action supports learning when it makes concept-relevant relations easier to process",
+"evidence_strength":"weak",
+"id":"action-helps-when-concept-relevant-relations-easier",
+"path":"claims/action-helps-when-concept-relevant-relations-easier.md",
+"status":"review",
+"title":"Sensorimotor action supports learning when it makes concept-relevant relations easier to process",
+"type":"claim"
+},
+{
+"description":"Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding",
+"evidence_strength":"weak",
+"id":"action-hurts-when-adding-motor-demands",
+"path":"claims/action-hurts-when-adding-motor-demands.md",
+"status":"review",
+"title":"Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding",
 "type":"claim"
 },
 {
@@ -6872,6 +6899,15 @@
 "path":"claims/aei-majority-occupations-zero-ai-usage.md",
 "status":"review",
 "title":"Most of the 756 occupations tracked by the Anthropic Economic Index show zero observed AI usage, concentrated in hands-on physical occupations",
+"type":"claim"
+},
+{
+"description":"Academic emotions cluster into four groups by antecedents, with anxiety and hopelessness highly correlated (r > .70) yet kept as separate scales",
+"evidence_strength":"moderate",
+"id":"aeq-emotion-clusters-anxiety-hopelessness",
+"path":"claims/aeq-emotion-clusters-anxiety-hopelessness.md",
+"status":"review",
+"title":"Academic emotions cluster into four groups by antecedents, with anxiety and hopelessness highly correlated (r > .70) yet kept as separate scales",
 "type":"claim"
 },
 {
@@ -36202,6 +36238,15 @@
 "type":"claim"
 },
 {
+"description":"Cognitive conflict induced by refutational texts and conflicting perspectives may promote epistemic belief change in student teachers",
+"evidence_strength":"weak",
+"id":"cognitive-conflict-interventions-change-epistemic-beliefs",
+"path":"claims/cognitive-conflict-interventions-change-epistemic-beliefs.md",
+"status":"review",
+"title":"Cognitive conflict induced by refutational texts and conflicting perspectives may promote epistemic belief change in student teachers",
+"type":"claim"
+},
+{
 "description":"Cognitive feedback comments were the most frequently identified content in online peer feedback studies",
 "evidence_strength":"moderate",
 "id":"cognitive-content-most-frequent-online-peer-feedback",
@@ -36854,6 +36899,15 @@
 "path":"claims/cognitive-surrender-inflates-confidence-after-errors.md",
 "status":"review",
 "title":"AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)",
+"type":"claim"
+},
+{
+"description":"Cognitive technologies serve as instruments of cultural redefinition, changing rather than just amplifying what people do",
+"evidence_strength":"weak",
+"id":"cognitive-technologies-cultural-redefinition",
+"path":"claims/cognitive-technologies-cultural-redefinition.md",
+"status":"review",
+"title":"Cognitive technologies serve as instruments of cultural redefinition, changing rather than just amplifying what people do",
 "type":"claim"
 },
 {
@@ -43680,6 +43734,15 @@
 "type":"claim"
 },
 {
+"description":"Corrective feedback largely benefits children ages 3-11 relative to practice without feedback, with 93% of reviewed papers reporting at least one positive effect",
+"evidence_strength":"moderate",
+"id":"corrective-feedback-benefits-children-ages-3-11",
+"path":"claims/corrective-feedback-benefits-children-ages-3-11.md",
+"status":"review",
+"title":"Corrective feedback largely benefits children ages 3-11 relative to practice without feedback, with 93% of reviewed papers reporting at least one positive effect",
+"type":"claim"
+},
+{
 "description":"Meta-analyses of corrective-feedback studies find a significant effect of correcting learners' L2 errors on target-language development, still present at delayed posttests.",
 "evidence_strength":"moderate",
 "id":"corrective-feedback-effect-on-l2-development-is-significant-and-durable",
@@ -46992,6 +47055,15 @@
 "path":"claims/critical-constructive-feedback-is-neglected-at-multiple-stages.md",
 "status":"review",
 "title":"Critical constructive feedback is neglected at multiple, independently measurable processing stages",
+"type":"claim"
+},
+{
+"description":"Critical culturalized comprehension is reasoning engaged to resist or recast textual values into counternarratives",
+"evidence_strength":"weak",
+"id":"critical-culturalized-comprehension-counternarratives",
+"path":"claims/critical-culturalized-comprehension-counternarratives.md",
+"status":"review",
+"title":"Critical culturalized comprehension is reasoning engaged to resist or recast textual values into counternarratives",
 "type":"claim"
 },
 {
@@ -55588,6 +55660,15 @@
 "path":"claims/disengaged-test-taking-invalidates-country-level-attainment-inferences.md",
 "status":"review",
 "title":"Disengaged test taking in international assessment programs threatens the validity of inferences about a country's educational attainment",
+"type":"claim"
+},
+{
+"description":"Under enduring constraint, disengagement may reflect accurate calibration to low translation fidelity rather than low self-efficacy",
+"evidence_strength":"weak",
+"id":"disengagement-as-accurate-calibration-low-translation-fidelity",
+"path":"claims/disengagement-as-accurate-calibration-low-translation-fidelity.md",
+"status":"review",
+"title":"Under enduring constraint, disengagement may reflect accurate calibration to low translation fidelity rather than low self-efficacy",
 "type":"claim"
 },
 {
@@ -65348,6 +65429,24 @@
 "type":"claim"
 },
 {
+"description":"Positive academic emotions correlate positively with interest, effort, flexible learning strategies, and perceived self-regulation, while boredom and hopelessness correlate negatively with all of these motivational va...",
+"evidence_strength":"moderate",
+"id":"emotions-correlate-motivation-strategies-resources",
+"path":"claims/emotions-correlate-motivation-strategies-resources.md",
+"status":"review",
+"title":"Positive academic emotions correlate positively with interest, effort, flexible learning strategies, and perceived self-regulation, while boredom and hopelessness correlate negatively with all of these motivational variables",
+"type":"claim"
+},
+{
+"description":"Emotions measured early in the semester longitudinally predict cumulative grades and exam scores, with negative deactivating emotions (hopelessness, boredom) showing stronger coefficients than activating negative emot...",
+"evidence_strength":"moderate",
+"id":"emotions-longitudinally-predict-achievement",
+"path":"claims/emotions-longitudinally-predict-achievement.md",
+"status":"review",
+"title":"Emotions measured early in the semester longitudinally predict cumulative grades and exam scores, with negative deactivating emotions (hopelessness, boredom) showing stronger coefficients than activating negative emotions",
+"type":"claim"
+},
+{
 "description":"Academic emotions moderate the relationship between belonging and achievement",
 "evidence_strength":"weak",
 "id":"emotions-moderate-belonging-achievement",
@@ -71833,6 +71932,15 @@
 "type":"claim"
 },
 {
+"description":"Explicit reflection on epistemic beliefs during science units has been followed by changes in student teachers' epistemic beliefs",
+"evidence_strength":"weak",
+"id":"explicit-reflection-interventions-change-teacher-beliefs",
+"path":"claims/explicit-reflection-interventions-change-teacher-beliefs.md",
+"status":"review",
+"title":"Explicit reflection on epistemic beliefs during science units has been followed by changes in student teachers' epistemic beliefs",
+"type":"claim"
+},
+{
 "description":"Explicit group regulation in online PBL was infrequent, emerged in response to challenges, and often involved teacher support",
 "evidence_strength":"weak",
 "id":"explicit-regulation-infrequent-challenge-responsive",
@@ -74758,6 +74866,15 @@
 "type":"claim"
 },
 {
+"description":"Feedback alerts orienting children to upcoming feedback appear in about half of feedback conditions and are least frequent for ages 10-11",
+"evidence_strength":"weak",
+"id":"feedback-alerts-before-task",
+"path":"claims/feedback-alerts-before-task.md",
+"status":"review",
+"title":"Feedback alerts orienting children to upcoming feedback appear in about half of feedback conditions and are least frequent for ages 10-11",
+"type":"claim"
+},
+{
 "aliases":["feedback-answers-three-questions"],
 "description":"",
 "id":"feedback-answers-three-questions-improves-learning",
@@ -74812,12 +74929,30 @@
 "type":"claim"
 },
 {
+"description":"Positive feedback effects occur across the full age range 3-11, with no pattern of stronger effects in older children",
+"evidence_strength":"moderate",
+"id":"feedback-effects-no-age-gradient",
+"path":"claims/feedback-effects-no-age-gradient.md",
+"status":"review",
+"title":"Positive feedback effects occur across the full age range 3-11, with no pattern of stronger effects in older children",
+"type":"claim"
+},
+{
 "description":"Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading",
 "evidence_strength":"mixed",
 "id":"feedback-effects-on-offloading-mixed",
 "path":"claims/feedback-effects-on-offloading-mixed.md",
 "status":"review",
 "title":"Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading",
+"type":"claim"
+},
+{
+"description":"Feedback effects on children's learning are variable: 57% of papers reported at least one neutral or negative effect, especially on maintenance and transfer",
+"evidence_strength":"moderate",
+"id":"feedback-effects-variable-neutral-negative",
+"path":"claims/feedback-effects-variable-neutral-negative.md",
+"status":"review",
+"title":"Feedback effects on children's learning are variable: 57% of papers reported at least one neutral or negative effect, especially on maintenance and transfer",
 "type":"claim"
 },
 {
@@ -74846,6 +74981,15 @@
 "path":"claims/feedback-enhances-retrieval-practice.md",
 "status":"review",
 "title":"Feedback Enhances Retrieval Practice",
+"type":"claim"
+},
+{
+"description":"Feedback features shift with age: scaffolds (prompts, audio, physical demonstrations) cluster in ages 3-7 while written and paper-based feedback appears only from age 8",
+"evidence_strength":"moderate",
+"id":"feedback-features-tailored-by-age",
+"path":"claims/feedback-features-tailored-by-age.md",
+"status":"review",
+"title":"Feedback features shift with age: scaffolds (prompts, audio, physical demonstrations) cluster in ages 3-7 while written and paper-based feedback appears only from age 8",
 "type":"claim"
 },
 {
@@ -75190,6 +75334,15 @@
 "path":"claims/feedback-source-no-posttest-effect-enl.md",
 "status":"review",
 "title":"Feedback source (human tutor vs GPT-4) had no significant effect on ENL students' posttest writing scores",
+"type":"claim"
+},
+{
+"description":"Feedback benefits are stronger for children with low prior knowledge, resembling an expertise-reversal effect",
+"evidence_strength":"moderate",
+"id":"feedback-stronger-for-low-prior-knowledge-children",
+"path":"claims/feedback-stronger-for-low-prior-knowledge-children.md",
+"status":"review",
+"title":"Feedback benefits are stronger for children with low prior knowledge, resembling an expertise-reversal effect",
 "type":"claim"
 },
 {
@@ -96976,6 +97129,15 @@
 "type":"claim"
 },
 {
+"description":"Idiographic diary analyses show daily anxiety relates differently to learning variables in different students, with some students profiting motivationally from anxiety",
+"evidence_strength":"weak",
+"id":"idiographic-anxiety-motivation-heterogeneity",
+"path":"claims/idiographic-anxiety-motivation-heterogeneity.md",
+"status":"review",
+"title":"Idiographic diary analyses show daily anxiety relates differently to learning variables in different students, with some students profiting motivationally from anxiety",
+"type":"claim"
+},
+{
 "description":"IDS schools showed no differences in EXPLORE-to-PLAN test score growth compared with the rest of the CPS system",
 "evidence_strength":"moderate",
 "id":"ids-no-growth-difference-explore-plan",
@@ -97758,6 +97920,15 @@
 "path":"claims/immediate-elaborated-feedback-improves-programming-learning.md",
 "status":"review",
 "title":"Immediate Elaborated Feedback in a formative assessment game significantly improved students' programming knowledge, interest, and problem-solving versus systems without immediate feedback",
+"type":"claim"
+},
+{
+"description":"Immediate trial-by-trial feedback was more helpful than delayed feedback for children ages 8-11, but timing conclusions remain weak overall",
+"evidence_strength":"weak",
+"id":"immediate-feedback-better-than-delayed-children",
+"path":"claims/immediate-feedback-better-than-delayed-children.md",
+"status":"review",
+"title":"Immediate trial-by-trial feedback was more helpful than delayed feedback for children ages 8-11, but timing conclusions remain weak overall",
 "type":"claim"
 },
 {
@@ -100018,6 +100189,15 @@
 "path":"claims/information-sharing-without-interpretation-prevalent.md",
 "status":"review",
 "title":"All four groups showed a tendency toward knowledge sharing, presenting information without interpretation or evaluation",
+"type":"claim"
+},
+{
+"description":"The demands of an information society make an explicit emphasis on general cognitive skills an educational priority",
+"evidence_strength":"weak",
+"id":"information-society-demands-general-cognitive-skills",
+"path":"claims/information-society-demands-general-cognitive-skills.md",
+"status":"review",
+"title":"The demands of an information society make an explicit emphasis on general cognitive skills an educational priority",
 "type":"claim"
 },
 {
@@ -103647,6 +103827,15 @@
 "path":"claims/interpreting-shaping-strongest-co-occurrence-ai-simulations.md",
 "status":"review",
 "title":"Preservice teachers' interpreting and shaping dimensions show the strongest co-occurrence across all three weeks of AI-based simulation interactions",
+"type":"claim"
+},
+{
+"description":"Interpreting student work is an inherently epistemic endeavor in which teachers evaluate others' knowledge representations against their own epistemic ideals",
+"evidence_strength":"weak",
+"id":"interpreting-student-work-epistemic-endeavor",
+"path":"claims/interpreting-student-work-epistemic-endeavor.md",
+"status":"review",
+"title":"Interpreting student work is an inherently epistemic endeavor in which teachers evaluate others' knowledge representations against their own epistemic ideals",
 "type":"claim"
 },
 {
@@ -117870,6 +118059,15 @@
 "type":"claim"
 },
 {
+"description":"Low environment-change beliefs lead students to allocate cognitive resources to monitoring for breakdowns, creating extraneous load",
+"evidence_strength":"weak",
+"id":"low-environment-change-beliefs-extraneous-load",
+"path":"claims/low-environment-change-beliefs-extraneous-load.md",
+"status":"review",
+"title":"Low environment-change beliefs lead students to allocate cognitive resources to monitoring for breakdowns, creating extraneous load",
+"type":"claim"
+},
+{
 "description":"78.8% of student-GenAI turns lack mastery-oriented aims and reliable epistemic strategies",
 "evidence_strength":"moderate",
 "id":"low-epistemic-engagement-788-percent-non-mastery",
@@ -120379,6 +120577,15 @@
 "path":"claims/manufacturing-ai-use-below-national.md",
 "status":"review",
 "title":"Manufacturing-sector AI use sits well below the national business adoption rate",
+"type":"claim"
+},
+{
+"description":"Independent data-analysis teams given the same data and question produced widely varying answers, illustrating analytic flexibility",
+"evidence_strength":"weak",
+"id":"many-analysts-one-dataset-variable-answers",
+"path":"claims/many-analysts-one-dataset-variable-answers.md",
+"status":"review",
+"title":"Independent data-analysis teams given the same data and question produced widely varying answers, illustrating analytic flexibility",
 "type":"claim"
 },
 {
@@ -124462,6 +124669,15 @@
 "type":"claim"
 },
 {
+"description":"Researchers overwhelmingly endorse Mertonian norms for science but perceive that other researchers act on counternorms",
+"evidence_strength":"weak",
+"id":"mertonian-norms-endorsed-counternorms-perceived",
+"path":"claims/mertonian-norms-endorsed-counternorms-perceived.md",
+"status":"review",
+"title":"Researchers overwhelmingly endorse Mertonian norms for science but perceive that other researchers act on counternorms",
+"type":"claim"
+},
+{
 "description":"Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning",
 "evidence_strength":"weak",
 "id":"messy-radon-data-window-into-scientists-world",
@@ -126971,6 +127187,15 @@
 "path":"claims/misalignment-dispositions-goals-assessment-fink.md",
 "status":"review",
 "title":"The gap between dispositions as learning goals and their assessment indicates misalignment among Integrated Course Design components",
+"type":"claim"
+},
+{
+"description":"Misalignment profiles predict growth-oriented disengagement: students can endorse self-change while withdrawing when routes are perceived as infeasible",
+"evidence_strength":"weak",
+"id":"misalignment-profiles-predict-growth-oriented-disengagement",
+"path":"claims/misalignment-profiles-predict-growth-oriented-disengagement.md",
+"status":"review",
+"title":"Misalignment profiles predict growth-oriented disengagement: students can endorse self-change while withdrawing when routes are perceived as infeasible",
 "type":"claim"
 },
 {
@@ -143463,6 +143688,15 @@
 "type":"claim"
 },
 {
+"description":"Offering Open Science Badges is associated with increased uptake of data and materials sharing and preregistration",
+"evidence_strength":"weak",
+"id":"open-science-badges-associated-uptake",
+"path":"claims/open-science-badges-associated-uptake.md",
+"status":"review",
+"title":"Offering Open Science Badges is associated with increased uptake of data and materials sharing and preregistration",
+"type":"claim"
+},
+{
 "description":"Students in an open science citizen science platform gained understanding of experimental design and research ethics but struggled with peer review and aligning methods to questions",
 "evidence_strength":"weak",
 "id":"open-science-platform-students-gain-design-ethics-struggle-peer-review",
@@ -150426,6 +150660,15 @@
 "path":"claims/perfectionistic-strivings-positive-achievement.md",
 "status":"review",
 "title":"Perfectionistic strivings show a significant small-to-medium positive relationship with academic achievement (r+ = .24)",
+"type":"claim"
+},
+{
+"description":"The Perform First Hypothesis proposes direct sensorimotor action early in expertise and observing, imagining, or abstract representations later",
+"evidence_strength":"weak",
+"id":"perform-first-hypothesis-zhang-2026",
+"path":"claims/perform-first-hypothesis-zhang-2026.md",
+"status":"review",
+"title":"The Perform First Hypothesis proposes direct sensorimotor action early in expertise and observing, imagining, or abstract representations later",
 "type":"claim"
 },
 {
@@ -168797,6 +169040,42 @@
 "type":"claim"
 },
 {
+"description":"Coding in the review was non-exclusive, and data from multiple experiments within one paper were separated by semicolons and averaged before computing corpus-level means and medians",
+"evidence_strength":"weak",
+"id":"refutation-text-coding-conventions-multi-experiment",
+"path":"claims/refutation-text-coding-conventions-multi-experiment.md",
+"status":"review",
+"title":"Coding in the review was non-exclusive, and data from multiple experiments within one paper were separated by semicolons and averaged before computing corpus-level means and medians",
+"type":"claim"
+},
+{
+"description":"The review's corpus excluded studies that used refutation texts as stimuli but manipulated other variables so the primary purpose was not elucidating refutation-text effects, mechanisms, or moderators",
+"evidence_strength":"weak",
+"id":"refutation-text-corpus-exclusion-criterion",
+"path":"claims/refutation-text-corpus-exclusion-criterion.md",
+"status":"review",
+"title":"The review's corpus excluded studies that used refutation texts as stimuli but manipulated other variables so the primary purpose was not elucidating refutation-text effects, mechanisms, or moderators",
+"type":"claim"
+},
+{
+"description":"Posttests were coded as delayed if they occurred at least one day after treatment, with two-delay studies and studies lacking day/week delay metrics excluded from mean and median delay calculations",
+"evidence_strength":"weak",
+"id":"refutation-text-delayed-posttest-coding-rule",
+"path":"claims/refutation-text-delayed-posttest-coding-rule.md",
+"status":"review",
+"title":"Posttests were coded as delayed if they occurred at least one day after treatment, with two-delay studies and studies lacking day/week delay metrics excluded from mean and median delay calculations",
+"type":"claim"
+},
+{
+"description":"In the review's coding, equal total and per-condition sample sizes signalled either a correlational study or a repeated-measures experiment, and repeated measures were coded when a pretest entered analysis or a within...",
+"evidence_strength":"weak",
+"id":"refutation-text-sample-size-design-coding",
+"path":"claims/refutation-text-sample-size-design-coding.md",
+"status":"review",
+"title":"In the review's coding, equal total and per-condition sample sizes signalled either a correlational study or a repeated-measures experiment, and repeated measures were coded when a pretest entered analysis or a within-subjects design was used",
+"type":"claim"
+},
+{
 "description":"Misconceptions impair comprehension of a standard text, and both a refutation text and a think sheet compensate for this detrimental effect",
 "evidence_strength":"moderate",
 "id":"refutation-text-think-sheet-compensate-misconception-comprehension",
@@ -168812,6 +169091,15 @@
 "path":"claims/refutation-text-think-sheet-counteract-comprehension-overconfidence.md",
 "status":"review",
 "title":"Learners with more misconceptions made more overconfident comprehension predictions after a standard text with a misconception list, an association not seen with refutation texts or think sheets",
+"type":"claim"
+},
+{
+"description":"Topic counts in the review's coding could exceed the listed overarching topics because misconceptions separated into individual texts were counted as multiple topics",
+"evidence_strength":"weak",
+"id":"refutation-text-topic-count-coding-rule",
+"path":"claims/refutation-text-topic-count-coding-rule.md",
+"status":"review",
+"title":"Topic counts in the review's coding could exceed the listed overarching topics because misconceptions separated into individual texts were counted as multiple topics",
 "type":"claim"
 },
 {
@@ -168929,6 +169217,15 @@
 "path":"claims/registered-report-authors-report-constructive-review-and-candor.md",
 "status":"review",
 "title":"Registered report authors report more constructive review, greater candor about findings, and time savings",
+"type":"claim"
+},
+{
+"description":"Registered Reports appear to produce credible null findings more frequently than comparable studies, with no detected change in citation rates",
+"evidence_strength":"weak",
+"id":"registered-reports-null-findings-citation-rates",
+"path":"claims/registered-reports-null-findings-citation-rates.md",
+"status":"review",
+"title":"Registered Reports appear to produce credible null findings more frequently than comparable studies, with no detected change in citation rates",
 "type":"claim"
 },
 {
@@ -170435,6 +170732,15 @@
 "path":"claims/representation-gaps-model-specific-code-amplification.md",
 "status":"review",
 "title":"Representation gaps are nontrivial for all models, and code-based interaction can amplify representational specialization rather than stabilizing performance",
+"type":"claim"
+},
+{
+"description":"Text representations reflect learners' understandings of the real world, not only texts' content",
+"evidence_strength":"weak",
+"id":"representation-reflects-world-understandings",
+"path":"claims/representation-reflects-world-understandings.md",
+"status":"review",
+"title":"Text representations reflect learners' understandings of the real world, not only texts' content",
 "type":"claim"
 },
 {
@@ -188478,6 +188784,15 @@
 "type":"claim"
 },
 {
+"description":"Software analyses are presented as illuminating advantages of the reorganizer view for new visions of computers' cognitive benefits",
+"evidence_strength":"weak",
+"id":"software-analyses-illuminate-reorganizer-advantages",
+"path":"claims/software-analyses-illuminate-reorganizer-advantages.md",
+"status":"review",
+"title":"Software analyses are presented as illuminating advantages of the reorganizer view for new visions of computers' cognitive benefits",
+"type":"claim"
+},
+{
 "description":"Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness",
 "evidence_strength":"weak",
 "id":"software-effects-changed-between-cohorts",
@@ -188862,6 +189177,15 @@
 "path":"claims/source-knowledge-gaps-hinder-benevolence-judgments.md",
 "status":"review",
 "title":"Gaps in source knowledge hinder source-credibility judgments, particularly inferences about benevolence",
+"type":"claim"
+},
+{
+"description":"Student teachers' beliefs about sources of knowledge predict their learning approaches and motivation in teacher education",
+"evidence_strength":"weak",
+"id":"source-of-knowledge-beliefs-predict-learning-approaches",
+"path":"claims/source-of-knowledge-beliefs-predict-learning-approaches.md",
+"status":"review",
+"title":"Student teachers' beliefs about sources of knowledge predict their learning approaches and motivation in teacher education",
 "type":"claim"
 },
 {
@@ -203582,6 +203906,24 @@
 "type":"claim"
 },
 {
+"description":"Teachers' epistemic cognition adds a layer of complexity not present for learners because they manage epistemic aims for both themselves and their students",
+"evidence_strength":"weak",
+"id":"teacher-epistemic-cognition-more-complex-than-learners",
+"path":"claims/teacher-epistemic-cognition-more-complex-than-learners.md",
+"status":"review",
+"title":"Teachers' epistemic cognition adds a layer of complexity not present for learners because they manage epistemic aims for both themselves and their students",
+"type":"claim"
+},
+{
+"description":"Teachers' epistemic cognition is related to their teaching approaches, classroom strategies, and expectations for students",
+"evidence_strength":"weak",
+"id":"teacher-epistemic-cognition-shapes-teaching-practice",
+"path":"claims/teacher-epistemic-cognition-shapes-teaching-practice.md",
+"status":"review",
+"title":"Teachers' epistemic cognition is related to their teaching approaches, classroom strategies, and expectations for students",
+"type":"claim"
+},
+{
 "description":"Districts implementing new teacher evaluation systems faced challenges using evaluations for instructional improvement",
 "evidence_strength":"weak",
 "id":"teacher-evaluation-challenge-instructional-improvement",
@@ -211300,6 +211642,15 @@
 "path":"claims/tools-should-surface-misconceptions-track-difficulties.md",
 "status":"review",
 "title":"Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment",
+"type":"claim"
+},
+{
+"description":"Most evaluated journals score low on the TOP Factor, with a mean of 3.36 and a median of 1 out of a possible 29 points",
+"evidence_strength":"weak",
+"id":"top-factor-journal-scores-low-mean-3-36",
+"path":"claims/top-factor-journal-scores-low-mean-3-36.md",
+"status":"review",
+"title":"Most evaluated journals score low on the TOP Factor, with a mean of 3.36 and a median of 1 out of a possible 29 points",
 "type":"claim"
 },
 {
@@ -227268,6 +227619,14 @@
 "path":"designs/cross-disciplinary-team-teaching-research-nexus.md",
 "status":"review",
 "title":"Teaching-research nexus with cross-disciplinary, cross-cultural team teaching",
+"type":"design"
+},
+{
+"description":"The report's first lesson is \\\"Working Stronger Together\\\": by bringing together small, rural districts, the consortium \\\"amassed and leveraged resources that individual districts likely would not have attained by workin...",
+"id":"cross-district-resource-pooling-rural-community-schools",
+"path":"designs/cross-district-resource-pooling-rural-community-schools.md",
+"status":"review",
+"title":"Small rural districts should pool resources through cross-district consortiums to attain capacity no single district could achieve alone",
 "type":"design"
 },
 {
@@ -245983,6 +246342,14 @@
 "type":"product"
 },
 {
+"description":"The AEQ is a self-report assessment developed by Reinhard Pekrun and colleagues to measure nine academic emotions across class-related, learning-related, and test-related situations.",
+"id":"academic-emotions-questionnaire-aeq",
+"path":"products/academic-emotions-questionnaire-aeq.md",
+"status":"review",
+"title":"Academic Emotions Questionnaire (AEQ)",
+"type":"product"
+},
+{
 "description":"A framework developed by Hamish Coates and colleagues that measures and reports institutional academic-assessment integrity across eight dimensions using 130 indicators.",
 "id":"academic-integrity-indicator-framework-130-items-organised-under-eight-dimensions-of-acade",
 "path":"products/academic-integrity-indicator-framework-130-items-organised-under-eight-dimensions-of-acade.md",
@@ -259211,6 +259578,14 @@
 "type":"product"
 },
 {
+"description":"The Transparency and Openness Promotion (TOP) Guidelines are a policy framework developed by social scientists, editors, and funders to guide journals and funding agencies in adopting standards for transparent, preregistered, reproducible research.",
+"id":"top-guidelines",
+"path":"products/top-guidelines.md",
+"status":"review",
+"title":"TOP Guidelines",
+"type":"product"
+},
+{
 "description":"A University of Limburg self-report instrument in which students rate time spent and perceived mastery across intended course topics to measure actual self-directed learning activities.",
 "id":"topic-checklist-toc",
 "path":"products/topic-checklist-toc.md",
@@ -265618,6 +265993,14 @@
 "type":"strategy"
 },
 {
+"description":"Pea recommends an \\\"activist research paradigm\\\" in which researchers do not merely observe existing practice but simultaneously create new cognitive and educational tools and study the resulting changes in the processe...",
+"id":"activist-research-paradigm-learning-technologies",
+"path":"strategies/activist-research-paradigm-learning-technologies.md",
+"status":"review",
+"title":"Adopt an activist research paradigm: simultaneously create and study changes in learning with new cognitive and educational tools",
+"type":"strategy"
+},
+{
 "description":"Structured activities that prompt students to examine their own learning processes, understanding, and progress in order to build metacognition and self-regulation.",
 "id":"activities_for_student_self-reflection",
 "path":"strategies/activities_for_student_self-reflection.md",
@@ -266265,6 +266648,14 @@
 "path":"strategies/age-segmented-security-training-content.md",
 "status":"review",
 "title":"Segment security-training content by learner age group to maximize personal relevance",
+"type":"strategy"
+},
+{
+"description":"The review's tentative practice recommendation is that effective feedback for children ages 3-11 goes beyond verification to include the correct answer, is spoken or simple-visual, and is given immediately after each...",
+"id":"age-tailored-corrective-feedback",
+"path":"strategies/age-tailored-corrective-feedback.md",
+"status":"review",
+"title":"Tailor corrective feedback to children's age: use spoken, salient, scaffolded feedback for younger children and written, paper-based feedback only from age 8",
 "type":"strategy"
 },
 {
@@ -274954,6 +275345,14 @@
 "type":"strategy"
 },
 {
+"description":"As its forward-looking agenda, the article argues for educational psychology research examining \\\"how learners may be consciously, reflectively, and critically engaged in using texts to understand their world\\\".",
+"id":"critically-engage-learners-with-texts-world",
+"path":"strategies/critically-engage-learners-with-texts-world.md",
+"status":"review",
+"title":"Engage learners consciously, reflectively, and critically in using texts to understand their world",
+"type":"strategy"
+},
+{
 "description":"The article's practical implications recommend that universities avoid treating GenAI dependence as uniformly desirable or undesirable and instead \\\"promot[e] purposeful, task-oriented, and critically supervised use.\\\"...",
 "id":"critically-supervised-task-oriented-genai-use-strategy",
 "path":"strategies/critically-supervised-task-oriented-genai-use-strategy.md",
@@ -279030,6 +279429,14 @@
 "type":"strategy"
 },
 {
+"description":"The article recommends that editors, publishers, and editorial committees at educational psychology journals adopt transparency policies in stages, emulating higher-rated journals in other branches of psychology.",
+"id":"editor-staged-top-policy-adoption-strategy",
+"path":"strategies/editor-staged-top-policy-adoption-strategy.md",
+"status":"review",
+"title":"Education journal editors adopt staged TOP-aligned transparency policies, enforced with the TOP Statement",
+"type":"strategy"
+},
+{
 "description":"For editors and reviewers, the review recommends that journal editorial boards mandate a \\\"Policy and Practice\\\" section in submissions, especially for studies claiming to guide educational stakeholders, and that papers...",
 "id":"editorial-policymaker-policy-engagement-practices",
 "path":"strategies/editorial-policymaker-policy-engagement-practices.md",
@@ -279687,6 +280094,14 @@
 "type":"strategy"
 },
 {
+"description":"The article recommends that changing teachers' epistemic beliefs requires more than standalone reflection: reflection should be embedded within actual teaching practice that is constructivist in nature.",
+"id":"embed-epistemic-reflection-in-teaching-practice",
+"path":"strategies/embed-epistemic-reflection-in-teaching-practice.md",
+"status":"review",
+"title":"Embed explicit reflection on epistemic beliefs within constructivist teaching practice so beliefs evolve through enacted epistemic cognition",
+"type":"strategy"
+},
+{
 "description":"The article recommends embedding contextual, factor-aware support inside analytics dashboards rather than leaving biasing considerations implicit.",
 "id":"embed-factor-aware-guidance-in-analytics-tools",
 "path":"strategies/embed-factor-aware-guidance-in-analytics-tools.md",
@@ -279900,6 +280315,14 @@
 "path":"strategies/embedding-data-fellows-in-education-agencies.md",
 "status":"review",
 "title":"Embedding data fellows inside education agencies to build data use from within",
+"type":"strategy"
+},
+{
+"description":"The commentary positions its account as generative for research and design, stating: \\\"This account yields concrete design principles, measurement recommendations, and testable predictions for embodied instruction in S...",
+"id":"embodied-stem-design-measurement-predictions",
+"path":"strategies/embodied-stem-design-measurement-predictions.md",
+"status":"review",
+"title":"Derive design principles, measurement recommendations, and testable predictions for embodied STEM instruction from the cognitive load account",
 "type":"strategy"
 },
 {
@@ -282502,6 +282925,14 @@
 "path":"strategies/fade-ai-support-require-justification.md",
 "status":"review",
 "title":"Design AI educational systems that fade support and require learner justification to preserve independent problem solving",
+"type":"strategy"
+},
+{
+"description":"An implementable instructional recipe derived from the article's reformulation: begin with the least embodied, task-relevant support a learner needs, then progressively withdraw it.",
+"id":"fade-embodied-support-as-schemas-develop",
+"path":"strategies/fade-embodied-support-as-schemas-develop.md",
+"status":"review",
+"title":"Fade embodied support as schemas develop, starting with the least embodied task-relevant support",
 "type":"strategy"
 },
 {
@@ -286231,6 +286662,14 @@
 "type":"strategy"
 },
 {
+"description":"For performance or authentic assessment, the article offers the GRASPS protocol as a reliable process prompting teachers to consider epistemic aims in task construction.",
+"id":"grasps-protocol-performance-assessment-design",
+"path":"strategies/grasps-protocol-performance-assessment-design.md",
+"status":"review",
+"title":"Use the GRASPS protocol to design performance and authentic assessments",
+"type":"strategy"
+},
+{
 "description":"Learners regularly record things they are grateful for, with structured prompts, to improve well-being, motivation, and classroom engagement.",
 "id":"gratitude_journals",
 "path":"strategies/gratitude_journals.md",
@@ -289098,6 +289537,14 @@
 "path":"strategies/instructional-commons-recorded-top-teacher-lessons.md",
 "status":"review",
 "title":"Instructional Commons: record and disseminate top teachers' full-year instruction for peer-to-peer professional use",
+"type":"strategy"
+},
+{
+"description":"From control-value theory the authors infer general guidelines for designing instruction and educational environments: \\\"(a) improve the quality of academic instruction; (b) give students autonomy, but only to the exte...",
+"id":"instructional-guidelines-foster-positive-academic-emotions",
+"path":"strategies/instructional-guidelines-foster-positive-academic-emotions.md",
+"status":"review",
+"title":"Design instructional environments to foster positive academic emotions: improve instruction quality, grant calibrated autonomy, match expectations to capabilities, increase success opportunities, and foster cooperative interaction structures",
 "type":"strategy"
 },
 {
@@ -297610,6 +298057,14 @@
 "type":"strategy"
 },
 {
+"description":"The article recommends designing multiple legitimate routes to valued goals, including non-linear timelines and supports, and attending to whether learners perceive those routes as legitimate in practice.",
+"id":"pathway-legitimacy-design-target",
+"path":"strategies/pathway-legitimacy-design-target.md",
+"status":"review",
+"title":"Treat pathway legitimacy as a design target: ensure alternative routes are perceived as legitimate, usable, and socially recognized",
+"type":"strategy"
+},
+{
 "description":"The guide recommends that each cadre conduct a data-intensive Pathways Analysis early in the planning year, in partnership with the Community College Research Center, JBL Associates, and the RP Group.",
 "id":"pathways-analysis-planning-year-strategy",
 "path":"strategies/pathways-analysis-planning-year-strategy.md",
@@ -299423,6 +299878,14 @@
 "path":"strategies/positive_scripts.md",
 "status":"review",
 "title":"Positive Scripts",
+"type":"strategy"
+},
+{
+"description":"The article outlines a staged research agenda for measurement and incremental validity testing of possibility mindset.",
+"id":"possibility-mindset-staged-research-agenda",
+"path":"strategies/possibility-mindset-staged-research-agenda.md",
+"status":"review",
+"title":"Adopt a staged research agenda: measure the three belief dimensions, test incremental validity, and run component-level and person-centered tests",
 "type":"strategy"
 },
 {
@@ -308250,6 +308713,14 @@
 "path":"strategies/soliciting_feedback_on_instruction.md",
 "status":"review",
 "title":"Soliciting Feedback on Instruction",
+"type":"strategy"
+},
+{
+"description":"The article recommends cognitive taxonomies as reliable processes teachers can use to frame the depth and structure of knowledge targeted in learning objectives.",
+"id":"solo-taxonomy-reliable-process-learning-objectives",
+"path":"strategies/solo-taxonomy-reliable-process-learning-objectives.md",
+"status":"review",
+"title":"Use cognitive taxonomies such as SOLO as reliable processes for constructing learning objectives that are epistemic aims",
 "type":"strategy"
 },
 {
@@ -329090,6 +329561,7 @@
 "academic-disengagement-related-to-test-disengagement":"academic-disengagement-related-to-test-disengagement",
 "academic-domain-highest-ai-helpfulness-ratings":"academic-domain-highest-ai-helpfulness-ratings",
 "academic-emotions-mediate-ai-environment-srl":"academic-emotions-mediate-ai-environment-srl",
+"academic-emotions-rich-diversity-anxiety-most-frequent":"academic-emotions-rich-diversity-anxiety-most-frequent",
 "academic-grit-positive-effect-primary-math-achievement":"academic-grit-positive-effect-primary-math-achievement",
 "academic-indicator-attainment-varies-by-student-group":"academic-indicator-attainment-varies-by-student-group",
 "academic-indicator-predictive-strength-similar":"academic-indicator-predictive-strength-similar",
@@ -329215,6 +329687,8 @@
 "act-weak-predictor-noise-exceeds-signal":"act-weak-predictor-noise-exceeds-signal",
 "act-weakly-predicts-four-year-graduation":"act-weakly-predicts-four-year-graduation",
 "acta-global-leadership-expertise-components":"acta-global-leadership-expertise-components",
+"action-helps-when-concept-relevant-relations-easier":"action-helps-when-concept-relevant-relations-easier",
+"action-hurts-when-adding-motor-demands":"action-hurts-when-adding-motor-demands",
 "action-training-causal-probabilistic-inference":"action-training-causal-probabilistic-inference",
 "actionable-descriptive-feedback-moves-learning-forward":"actionable-descriptive-feedback-moves-learning-forward",
 "activation":"activation-improves-learning",
@@ -329506,6 +329980,7 @@
 "aeegs-pearson-correlations-range-0604-0864":"aeegs-pearson-correlations-range-0604-0864",
 "aeegs-reliability-cronbach-086":"aeegs-reliability-cronbach-086",
 "aei-majority-occupations-zero-ai-usage":"aei-majority-occupations-zero-ai-usage",
+"aeq-emotion-clusters-anxiety-hopelessness":"aeq-emotion-clusters-anxiety-hopelessness",
 "aera-direction-politics-over-research":"aera-direction-politics-over-research",
 "aerobic-exercise-dose-response-ef":"aerobic-exercise-dose-response-ef",
 "aerobic-exercise-improves-executive-function-children":"aerobic-exercise-improves-executive-function-children",
@@ -332795,6 +333270,7 @@
 "cognitive-behavioral-prevention-positive-therapeutic-negative":"cognitive-behavioral-prevention-positive-therapeutic-negative",
 "cognitive-capability-dominance-benefit-rarely-mentioned":"cognitive-capability-dominance-benefit-rarely-mentioned",
 "cognitive-challenge-high-efficacy-interventions":"cognitive-challenge-high-efficacy-interventions",
+"cognitive-conflict-interventions-change-epistemic-beliefs":"cognitive-conflict-interventions-change-epistemic-beliefs",
 "cognitive-content-most-frequent-online-peer-feedback":"cognitive-content-most-frequent-online-peer-feedback",
 "cognitive-control-does-not-moderate-book-exposure":"cognitive-control-does-not-moderate-book-exposure",
 "cognitive-debt-reactive-ai-approaches-insufficient":"cognitive-debt-reactive-ai-approaches-insufficient",
@@ -332868,6 +333344,7 @@
 "cognitive-style-weak-spt-accuracy-relation":"cognitive-style-weak-spt-accuracy-relation",
 "cognitive-support-largely-independent-of-emotional-support":"cognitive-support-largely-independent-of-emotional-support",
 "cognitive-surrender-inflates-confidence-after-errors":"cognitive-surrender-inflates-confidence-after-errors",
+"cognitive-technologies-cultural-redefinition":"cognitive-technologies-cultural-redefinition",
 "cognitive-training-discrimination-generalization-review":"cognitive-training-discrimination-generalization-review",
 "cognitive-tutor-algebra-i-mixed-effects-algebra":"cognitive-tutor-algebra-i-mixed-effects-algebra",
 "cognitive-tutor-algebra-i-no-discernible-general-math":"cognitive-tutor-algebra-i-no-discernible-general-math",
@@ -333636,6 +334113,7 @@
 "corrected-lcsm-proper-solution-positive-asc-ach-effects":"corrected-lcsm-proper-solution-positive-asc-ach-effects",
 "corrected-starts-positive-contemporaneous-and-lagged-effects":"corrected-starts-positive-contemporaneous-and-lagged-effects",
 "correction-no-learned-generalizations-novel-stimuli":"correction-no-learned-generalizations-novel-stimuli",
+"corrective-feedback-benefits-children-ages-3-11":"corrective-feedback-benefits-children-ages-3-11",
 "corrective-feedback-boosts-classroom-testing-effect":"feedback-enhances-retrieval-practice",
 "corrective-feedback-effect-on-l2-development-is-significant-and-durable":"corrective-feedback-effect-on-l2-development-is-significant-and-durable",
 "corrective-lenses-improve-school-function":"corrective-lenses-improve-school-function",
@@ -334010,6 +334488,7 @@
 "critical-ai-literacy-dimension":"critical-ai-literacy-dimension",
 "critical-components-successful-place-based-systems-change-education":"critical-components-successful-place-based-systems-change-education",
 "critical-constructive-feedback-is-neglected-at-multiple-stages":"critical-constructive-feedback-is-neglected-at-multiple-stages",
+"critical-culturalized-comprehension-counternarratives":"critical-culturalized-comprehension-counternarratives",
 "critical-ethical-awareness-dual-role-reliance":"critical-ethical-awareness-dual-role-reliance",
 "critical-evaluation-items-lowest-scores":"critical-evaluation-items-lowest-scores",
 "critical-evaluation-of-ai-outputs-increased-unevenly":"critical-evaluation-of-ai-outputs-increased-unevenly",
@@ -334980,6 +335459,7 @@
 "disengaged-responses-distort-item-content-representation":"disengaged-responses-distort-item-content-representation",
 "disengaged-responses-threaten-engaged-content-representation":"disengaged-responses-threaten-engaged-content-representation",
 "disengaged-test-taking-invalidates-country-level-attainment-inferences":"disengaged-test-taking-invalidates-country-level-attainment-inferences",
+"disengagement-as-accurate-calibration-low-translation-fidelity":"disengagement-as-accurate-calibration-low-translation-fidelity",
 "disengagement-corrections-minimal-impact-effectiveness-estimates":"disengagement-corrections-minimal-impact-effectiveness-estimates",
 "disengagement-differs-initial-test-versus-retest":"disengagement-differs-initial-test-versus-retest",
 "disengagement-diluted-by-engaged-majority":"disengagement-diluted-by-engaged-majority",
@@ -336077,6 +336557,8 @@
 "emotional-valence-narrative-recall-gesture-mixed":"emotional-valence-narrative-recall-gesture-mixed",
 "emotions-as-cues-postdictions":"emotions-as-cues-postdictions",
 "emotions-as-cues-predictions":"emotions-as-cues-predictions",
+"emotions-correlate-motivation-strategies-resources":"emotions-correlate-motivation-strategies-resources",
+"emotions-longitudinally-predict-achievement":"emotions-longitudinally-predict-achievement",
 "emotions-moderate-belonging-achievement":"emotions-moderate-belonging-achievement",
 "emotions-neglected-cscl-emotional-talk":"emotions-neglected-cscl-emotional-talk",
 "emotions-postdiction-accuracy-underconfidence":"emotions-postdiction-accuracy-underconfidence",
@@ -336811,6 +337293,7 @@
 "explicit-metacognition-limited-access-inaccurate-reports":"explicit-metacognition-limited-access-inaccurate-reports",
 "explicit-metacognitive-addressing-increases-student-strategy-use":"explicit-metacognitive-addressing-increases-student-strategy-use",
 "explicit-reasoning-instruction-preliminary-large-gains":"explicit-reasoning-instruction-preliminary-large-gains",
+"explicit-reflection-interventions-change-teacher-beliefs":"explicit-reflection-interventions-change-teacher-beliefs",
 "explicit-regulation-infrequent-challenge-responsive":"explicit-regulation-infrequent-challenge-responsive",
 "explicit-rubric-conditions-reduce-ai-disagreement":"explicit-rubric-conditions-reduce-ai-disagreement",
 "explicit-rules-automatizable-through-practice":"explicit-rules-automatizable-through-practice",
@@ -337141,6 +337624,7 @@
 "feedback-abstract-constraints-overgeneral-rule-objective":"feedback-abstract-constraints-overgeneral-rule-objective",
 "feedback-addressing-task-improves-learning":"feedback-most-effective-at-task-and-process-levels",
 "feedback-after-multiple-choice-tests-halves-lure-intrusions":"feedback-after-multiple-choice-tests-halves-lure-intrusions",
+"feedback-alerts-before-task":"feedback-alerts-before-task",
 "feedback-answers-three-questions":"feedback-answers-three-questions-improves-learning",
 "feedback-answers-three-questions-improves-learning":"feedback-answers-three-questions-improves-learning",
 "feedback-attention-moderated-by-age-and-control-beliefs":"feedback-attention-moderated-by-age-and-control-beliefs",
@@ -337148,10 +337632,13 @@
 "feedback-codes-co-occurrence-patterns":"feedback-codes-co-occurrence-patterns",
 "feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice":"feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice",
 "feedback-direction-moderator-student-student-highest":"feedback-direction-moderator-student-student-highest",
+"feedback-effects-no-age-gradient":"feedback-effects-no-age-gradient",
 "feedback-effects-on-offloading-mixed":"feedback-effects-on-offloading-mixed",
+"feedback-effects-variable-neutral-negative":"feedback-effects-variable-neutral-negative",
 "feedback-effort-mediated-by-self-efficacy-threat":"feedback-effort-mediated-by-self-efficacy-threat",
 "feedback-engagement-distinguishes-cohesion-perception-groups":"feedback-engagement-distinguishes-cohesion-perception-groups",
 "feedback-enhances-retrieval-practice":"feedback-enhances-retrieval-practice",
+"feedback-features-tailored-by-age":"feedback-features-tailored-by-age",
 "feedback-field-potential-paradigm-shift-five-steps":"feedback-field-potential-paradigm-shift-five-steps",
 "feedback-focus-shift-across-tasks":"feedback-focus-shift-across-tasks",
 "feedback-improves-confidence-calibration":"feedback-improves-confidence-calibration",
@@ -337192,6 +337679,7 @@
 "feedback-source-discrepancies-cause-confusion":"feedback-source-discrepancies-cause-confusion",
 "feedback-source-no-effect-on-revision-outcomes":"feedback-source-no-effect-on-revision-outcomes",
 "feedback-source-no-posttest-effect-enl":"feedback-source-no-posttest-effect-enl",
+"feedback-stronger-for-low-prior-knowledge-children":"feedback-stronger-for-low-prior-knowledge-children",
 "feedback-subgroup-better-interleaved-learners":"feedback-subgroup-better-interleaved-learners",
 "feedback-timing-moderates-pretesting":"feedback-timing-moderates-pretesting",
 "feedback-timing-post-session-debrief-preference":"feedback-timing-post-session-debrief-preference",
@@ -339657,6 +340145,7 @@
 "identity-presence-deeper-discussion-threads":"identity-presence-deeper-discussion-threads",
 "idf-reweighting-improves-kc-retrieval":"idf-reweighting-improves-kc-retrieval",
 "idi-progress-regardless-of-study-away":"idi-progress-regardless-of-study-away",
+"idiographic-anxiety-motivation-heterogeneity":"idiographic-anxiety-motivation-heterogeneity",
 "ids-no-growth-difference-explore-plan":"ids-no-growth-difference-explore-plan",
 "ids-recognize-dispositions-as-learning-goals":"ids-recognize-dispositions-as-learning-goals",
 "ids-varied-definitions-of-dispositions":"ids-varied-definitions-of-dispositions",
@@ -339747,6 +340236,7 @@
 "immediate-adaptive-test-results-enable-differentiation":"immediate-adaptive-test-results-enable-differentiation",
 "immediate-condition-fewer-ideas-exp1":"immediate-condition-fewer-ideas-exp1",
 "immediate-elaborated-feedback-improves-programming-learning":"immediate-elaborated-feedback-improves-programming-learning",
+"immediate-feedback-better-than-delayed-children":"immediate-feedback-better-than-delayed-children",
 "immediate-feedback-limits-downstream-error-learning":"immediate-feedback-limits-downstream-error-learning",
 "immediate-feedback-partial-resolution-increases-curiosity":"immediate-feedback-partial-resolution-increases-curiosity",
 "immediate-own-motion-most-effective-graphing-motion":"immediate-own-motion-most-effective-graphing-motion",
@@ -340002,6 +340492,7 @@
 "information-seekers-managing-affect":"information-seekers-managing-affect",
 "information-sharing-mechanism-collaborative-diagnosis-support":"information-sharing-mechanism-collaborative-diagnosis-support",
 "information-sharing-without-interpretation-prevalent":"information-sharing-without-interpretation-prevalent",
+"information-society-demands-general-cognitive-skills":"information-society-demands-general-cognitive-skills",
 "informational-emotional-support-ai-use-profile-differences":"informational-emotional-support-ai-use-profile-differences",
 "informational-harm-drops-multi-turn":"informational-harm-drops-multi-turn",
 "informational-pictures-contradictory-effects":"informational-pictures-contradictory-effects",
@@ -340411,6 +340902,7 @@
 "interpolated-questions-improve-video-learning":"interpolated-questions-improve-video-learning",
 "interpretable-ai-mechanisms-clearer-benefits":"interpretable-ai-mechanisms-clearer-benefits",
 "interpreting-shaping-strongest-co-occurrence-ai-simulations":"interpreting-shaping-strongest-co-occurrence-ai-simulations",
+"interpreting-student-work-epistemic-endeavor":"interpreting-student-work-epistemic-endeavor",
 "interprofessional-mixed-groups-mutual-respect-consent-training":"interprofessional-mixed-groups-mutual-respect-consent-training",
 "interrupting-juxtaposition-impairs-inductive-learning":"interrupting-juxtaposition-impairs-inductive-learning",
 "intersecting-backgrounds-increase-literacy-risk":"intersecting-backgrounds-increase-literacy-risk",
@@ -342017,6 +342509,7 @@
 "low-digit-span-associated-junior-high-motivation-decline":"low-digit-span-associated-junior-high-motivation-decline",
 "low-effortful-control-trajectories-contingent-mothers":"low-effortful-control-trajectories-contingent-mothers",
 "low-ei-service-intensity-median-hours-per-month":"low-ei-service-intensity-median-hours-per-month",
+"low-environment-change-beliefs-extraneous-load":"low-environment-change-beliefs-extraneous-load",
 "low-epistemic-engagement-788-percent-non-mastery":"low-epistemic-engagement-788-percent-non-mastery",
 "low-equity-participants-converge-toward-high-equity-responses":"low-equity-participants-converge-toward-high-equity-responses",
 "low-examinee-effort-threat-to-score-validity":"low-examinee-effort-threat-to-score-validity",
@@ -342298,6 +342791,7 @@
 "manual-reasoning-consistent-verification-across-subfields":"manual-reasoning-consistent-verification-across-subfields",
 "manual-verification-accuracy-by-control-timing":"manual-verification-accuracy-by-control-timing",
 "manufacturing-ai-use-below-national":"manufacturing-ai-use-below-national",
+"many-analysts-one-dataset-variable-answers":"many-analysts-one-dataset-variable-answers",
 "many-pdw-matrices-imply-always-wager-high-optimal":"many-pdw-matrices-imply-always-wager-high-optimal",
 "many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses":"many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses",
 "many-students-enter-school-poor-math-skills":"many-students-enter-school-poor-math-skills",
@@ -342761,6 +343255,7 @@
 "merit-award-winners-increased-principal-exit":"merit-award-winners-increased-principal-exit",
 "merit-award-winners-twice-likely-to-exit-school":"merit-award-winners-increased-principal-exit",
 "merrill-principles-feedback-no-moderation":"merrill-principles-feedback-no-moderation",
+"mertonian-norms-endorsed-counternorms-perceived":"mertonian-norms-endorsed-counternorms-perceived",
 "messy-radon-data-window-into-scientists-world":"messy-radon-data-window-into-scientists-world",
 "meta-analyses-asc-predicts-achievement":"meta-analyses-asc-predicts-achievement",
 "meta-analysis-lower-feedback-effect-than-visible-learning-synthesis":"meta-analysis-lower-feedback-effect-than-visible-learning-synthesis",
@@ -343046,6 +343541,7 @@
 "mirroring-versus-guiding-dashboard-attention-balance":"mirroring-versus-guiding-dashboard-attention-balance",
 "mirt-ss-fits-testlet-data-better":"mirt-ss-fits-testlet-data-better",
 "misalignment-dispositions-goals-assessment-fink":"misalignment-dispositions-goals-assessment-fink",
+"misalignment-profiles-predict-growth-oriented-disengagement":"misalignment-profiles-predict-growth-oriented-disengagement",
 "misclassification-reframing-of-ai-misuse":"misclassification-reframing-of-ai-misuse",
 "misconception-accuracy-increases-with-age":"misconception-accuracy-increases-with-age",
 "misconception-addressing-techniques-science-review":"misconception-addressing-techniques-science-review",
@@ -344903,6 +345399,7 @@
 "open-scied-design-tensions-coherence":"open-scied-design-tensions-coherence",
 "open-scied-greater-science-growth-single-district":"open-scied-greater-science-growth-single-district",
 "open-scied-units-data-practice-gaps":"open-scied-units-data-practice-gaps",
+"open-science-badges-associated-uptake":"open-science-badges-associated-uptake",
 "open-science-platform-students-gain-design-ethics-struggle-peer-review":"open-science-platform-students-gain-design-ethics-struggle-peer-review",
 "open-sg-sol-interventions-elicit-sol-responses":"open-sg-sol-interventions-elicit-sol-responses",
 "open-sg-tol-interventions-elicit-tol-responses":"open-sg-tol-interventions-elicit-tol-responses",
@@ -345690,6 +346187,7 @@
 "perfectionism-dimensions-negative-null-subjective-well-being":"perfectionism-dimensions-negative-null-subjective-well-being",
 "perfectionistic-concerns-negative-achievement":"perfectionistic-concerns-negative-achievement",
 "perfectionistic-strivings-positive-achievement":"perfectionistic-strivings-positive-achievement",
+"perform-first-hypothesis-zhang-2026":"perform-first-hypothesis-zhang-2026",
 "performance-aims-ambiguously-aligned-with-reasons":"performance-aims-ambiguously-aligned-with-reasons",
 "performance-and-idea-self-assessments-moderately-related":"performance-and-idea-self-assessments-moderately-related",
 "performance-approach-goals-anxiety-not-depression":"performance-approach-goals-anxiety-not-depression",
@@ -347762,8 +348260,13 @@
 "refraining-from-complementarity-hypothesis-not-confirmed":"refraining-from-complementarity-hypothesis-not-confirmed",
 "refresher-training-needed-for-muac-accuracy":"refresher-training-needed-for-muac-accuracy",
 "refreshing-phase-change-in-childhood":"refreshing-phase-change-in-childhood",
+"refutation-text-coding-conventions-multi-experiment":"refutation-text-coding-conventions-multi-experiment",
+"refutation-text-corpus-exclusion-criterion":"refutation-text-corpus-exclusion-criterion",
+"refutation-text-delayed-posttest-coding-rule":"refutation-text-delayed-posttest-coding-rule",
+"refutation-text-sample-size-design-coding":"refutation-text-sample-size-design-coding",
 "refutation-text-think-sheet-compensate-misconception-comprehension":"refutation-text-think-sheet-compensate-misconception-comprehension",
 "refutation-text-think-sheet-counteract-comprehension-overconfidence":"refutation-text-think-sheet-counteract-comprehension-overconfidence",
+"refutation-text-topic-count-coding-rule":"refutation-text-topic-count-coding-rule",
 "refutation-texts-greater-conceptual-change-than-standard":"refutation-texts-greater-conceptual-change-than-standard",
 "refutation-texts-no-transfer-material-selection":"refutation-texts-no-transfer-material-selection",
 "refutational-text-order-enhances-retention":"refutational-text-order-enhances-retention",
@@ -347777,6 +348280,7 @@
 "registered-apprenticeship-ninth-quarter-employment-impacts":"registered-apprenticeship-ninth-quarter-employment-impacts",
 "registered-apprenticeship-sector-impacts-it-healthcare-manufacturing":"registered-apprenticeship-sector-impacts-it-healthcare-manufacturing",
 "registered-report-authors-report-constructive-review-and-candor":"registered-report-authors-report-constructive-review-and-candor",
+"registered-reports-null-findings-citation-rates":"registered-reports-null-findings-citation-rates",
 "registered-reports-rated-higher-on-nineteen-criteria":"registered-reports-rated-higher-on-nineteen-criteria",
 "regression-factors-vp-vmi-aging":"regression-factors-vp-vmi-aging",
 "regression-fine-motor-precision-effect-handwriting-legibility":"regression-fine-motor-precision-effect-handwriting-legibility",
@@ -347948,6 +348452,7 @@
 "representation-based-cues-support-draw-relative-accuracy":"representation-based-cues-support-draw-relative-accuracy",
 "representation-choice-varies-with-animation-content":"representation-choice-varies-with-animation-content",
 "representation-gaps-model-specific-code-amplification":"representation-gaps-model-specific-code-amplification",
+"representation-reflects-world-understandings":"representation-reflects-world-understandings",
 "representational-dissociation-subjective-impressions":"representational-dissociation-subjective-impressions",
 "representational-fit-individual-variation":"representational-fit-individual-variation",
 "representational-format-study-unexplained-dyad-role":"representational-format-study-unexplained-dyad-role",
@@ -350001,6 +350506,7 @@
 "soft-skills-equally-important-as-cognitive-skills":"soft-skills-equally-important-as-cognitive-skills",
 "soft-target-finetuning-beats-standard-loss-vocabulary-difficulty":"soft-target-finetuning-beats-standard-loss-vocabulary-difficulty",
 "soft-voting-ensemble-behavioral-attrition-f1":"soft-voting-ensemble-behavioral-attrition-f1",
+"software-analyses-illuminate-reorganizer-advantages":"software-analyses-illuminate-reorganizer-advantages",
 "software-effects-changed-between-cohorts":"software-effects-changed-between-cohorts",
 "software-product-papers-report-less-evaluation-than-llm-papers":"software-product-papers-report-less-evaluation-than-llm-papers",
 "software-reporting-gap-persists-across-review-stages":"software-reporting-gap-persists-across-review-stages",
@@ -350045,6 +350551,7 @@
 "source-anchoring-reduces-hallucination-instruction-data":"source-anchoring-reduces-hallucination-instruction-data",
 "source-chunk-count-k10-plateau":"source-chunk-count-k10-plateau",
 "source-knowledge-gaps-hinder-benevolence-judgments":"source-knowledge-gaps-hinder-benevolence-judgments",
+"source-of-knowledge-beliefs-predict-learning-approaches":"source-of-knowledge-beliefs-predict-learning-approaches",
 "sourcing-intervention-improves-credibility-judgments-written-products":"sourcing-intervention-improves-credibility-judgments-written-products",
 "sourcing-intervention-improves-search-queries":"sourcing-intervention-improves-search-queries",
 "sourcing-intervention-no-effect-specifying-information-need":"sourcing-intervention-no-effect-specifying-information-need",
@@ -351707,6 +352214,8 @@
 "teacher-empathy-emotional-support-inconsistent":"teacher-empathy-emotional-support-inconsistent",
 "teacher-empathy-evidence-base-cross-sectional":"teacher-empathy-evidence-base-cross-sectional",
 "teacher-empathy-student-outcomes-weakest":"teacher-empathy-student-outcomes-weakest",
+"teacher-epistemic-cognition-more-complex-than-learners":"teacher-epistemic-cognition-more-complex-than-learners",
+"teacher-epistemic-cognition-shapes-teaching-practice":"teacher-epistemic-cognition-shapes-teaching-practice",
 "teacher-evaluation-challenge-instructional-improvement":"teacher-evaluation-challenge-instructional-improvement",
 "teacher-evaluation-principal-burden-challenge":"teacher-evaluation-principal-burden-challenge",
 "teacher-expectancy-beliefs-shape-motivation-to-use-ai":"teacher-expectancy-beliefs-shape-motivation-to-use-ai",
@@ -352586,6 +353095,7 @@
 "tools-montessori-curricula-improve-efs":"tools-montessori-curricula-improve-efs",
 "tools-of-the-mind-mixed-evaluation-results":"tools-of-the-mind-mixed-evaluation-results",
 "tools-should-surface-misconceptions-track-difficulties":"tools-should-surface-misconceptions-track-difficulties",
+"top-factor-journal-scores-low-mean-3-36":"top-factor-journal-scores-low-mean-3-36",
 "top-perceived-ler-challenges":"retos-percibidos-lers-exactitud-seguridad-acceso",
 "top-perceived-ler-opportunities":"top-perceived-ler-opportunities",
 "top-quartile-schools-facilitative-principal-leadership":"top-quartile-schools-facilitative-principal-leadership",
@@ -354415,6 +354925,7 @@
 "cross-device-flipped-genai-design-platform":"cross-device-flipped-genai-design-platform",
 "cross-disciplinary-online-modeling-assignment-sequence":"cross-disciplinary-online-modeling-assignment-sequence",
 "cross-disciplinary-team-teaching-research-nexus":"cross-disciplinary-team-teaching-research-nexus",
+"cross-district-resource-pooling-rural-community-schools":"cross-district-resource-pooling-rural-community-schools",
 "cs1-cr-course-structure":"cs1-cr-course-structure",
 "cscl-teacher-dashboard-prototype-fractions":"cscl-teacher-dashboard-prototype-fractions",
 "csub-residency-consortium-plc":"csub-residency-consortium-plc",
@@ -356990,6 +357501,7 @@
 "abbreviated-acceptability-rating-profile-aarp":"abbreviated-acceptability-rating-profile-aarp",
 "absence-reports":"absence-reports",
 "abstrackr":"abstrackr",
+"academic-emotions-questionnaire-aeq":"academic-emotions-questionnaire-aeq",
 "academic-integrity-indicator-framework-130-items-organised-under-eight-dimensions-of-acade":"academic-integrity-indicator-framework-130-items-organised-under-eight-dimensions-of-acade",
 "academic-parent-teacher-teams-aptt":"academic-parent-teacher-teams-aptt",
 "academiclaw":"academiclaw",
@@ -358663,6 +359175,7 @@
 "tool-for-representational-balance-in-books":"tool-for-representational-balance-in-books",
 "toolkit-for-building-a-virtual-learning-cohort":"toolkit-for-building-a-virtual-learning-cohort",
 "toolkit-of-guides-and-templates-for-launching-and-sustaining-an-intermediary-led-cohort-of":"toolkit-of-guides-and-templates-for-launching-and-sustaining-an-intermediary-led-cohort-of",
+"top-guidelines":"top-guidelines",
 "topic-checklist-toc":"topic-checklist-toc",
 "tothrough-milestones-tool":"tothrough-project",
 "tothrough-online-tool":"tothrough-project",
@@ -359494,6 +360007,7 @@
 "active_listening":"active-listening",
 "actively-train-transfer-and-leverage-environmental-cues":"actively-train-transfer-and-leverage-environmental-cues",
 "actively_listen_to_what_students_say":"actively_listen_to_what_students_say",
+"activist-research-paradigm-learning-technologies":"activist-research-paradigm-learning-technologies",
 "activities_for_student_self-reflection":"activities_for_student_self-reflection",
 "activity-system-analysis-as-csl-reflection-tool":"activity-system-analysis-as-csl-reflection-tool",
 "adapt-and-enrich-texts-shared-reading-id":"adapt-and-enrich-texts-shared-reading-id",
@@ -359577,6 +360091,7 @@
 "age-appropriate-interventions-adults-dd":"age-appropriate-interventions-adults-dd",
 "age-appropriate-writing-strategies-pow-outlining":"age-appropriate-writing-strategies-pow-outlining",
 "age-segmented-security-training-content":"age-segmented-security-training-content",
+"age-tailored-corrective-feedback":"age-tailored-corrective-feedback",
 "agency-scripting-tradeoff-decision":"agency-scripting-tradeoff-decision",
 "agent-authoring-tools-for-adoption":"agent-authoring-tools-for-adoption",
 "agentic-ai-education-future-priorities":"agentic-ai-education-future-priorities",
@@ -360704,6 +361219,7 @@
 "critical-thinking-fact-checking-llm-integration":"critical-thinking-fact-checking-llm-integration",
 "critical_lens_development":"critical_lens_development",
 "critical_response_process":"critical_response_process",
+"critically-engage-learners-with-texts-world":"critically-engage-learners-with-texts-world",
 "critically-supervised-task-oriented-genai-use-strategy":"critically-supervised-task-oriented-genai-use-strategy",
 "critique-ai-output-assignment-sequence":"critique-ai-output-assignment-sequence",
 "critique-ai-phases-planned-fading-verification-journals":"critique-ai-phases-planned-fading-verification-journals",
@@ -361230,6 +361746,7 @@
 "ed-tech-product-information-exchange":"ed-tech-product-information-exchange",
 "edcamp-dfl-co-design-panelist-moderator-strategy":"edcamp-dfl-co-design-panelist-moderator-strategy",
 "edit-ambiguous-student-questions-into-directive-prompts":"edit-ambiguous-student-questions-into-directive-prompts",
+"editor-staged-top-policy-adoption-strategy":"editor-staged-top-policy-adoption-strategy",
 "editorial-policymaker-policy-engagement-practices":"editorial-policymaker-policy-engagement-practices",
 "editors-reward-integrative-work":"editors-reward-integrative-work",
 "editors-reward-transparency-about-limitations":"editors-reward-transparency-about-limitations",
@@ -361312,6 +361829,7 @@
 "embed-counting-classroom-and-home-activities":"embed-counting-classroom-and-home-activities",
 "embed-critical-ai-literacy-curricula-institutional-practices":"embed-critical-ai-literacy-curricula-institutional-practices",
 "embed-ct-across-subject-areas":"embed-ct-across-subject-areas",
+"embed-epistemic-reflection-in-teaching-practice":"embed-epistemic-reflection-in-teaching-practice",
 "embed-factor-aware-guidance-in-analytics-tools":"embed-factor-aware-guidance-in-analytics-tools",
 "embed-genai-into-existing-pedagogical-strategies":"embed-genai-into-existing-pedagogical-strategies",
 "embed-genai-literacy-ethics-nursing-curricula":"embed-genai-literacy-ethics-nursing-curricula",
@@ -361339,6 +361857,7 @@
 "embedded-credibility-rating-scales-during-video-viewing":"embedded-credibility-rating-scales-during-video-viewing",
 "embedded-evidence-gathering-without-separate-tests":"embedded-evidence-gathering-without-separate-tests",
 "embedding-data-fellows-in-education-agencies":"embedding-data-fellows-in-education-agencies",
+"embodied-stem-design-measurement-predictions":"embodied-stem-design-measurement-predictions",
 "embrace_errors_as_learning_opportunities":"embrace_errors_as_learning_opportunities",
 "embracing_errors_as_learning":"embracing_errors_as_learning",
 "emints-240-hours-pd-two-years":"emints-240-hours-pd-two-years",
@@ -361693,6 +362212,7 @@
 "faculty-professional-development-supportive-relationships":"faculty-professional-development-supportive-relationships",
 "fade-ai-support-as-learner-takes-evaluation":"fade-ai-support-as-learner-takes-evaluation",
 "fade-ai-support-require-justification":"fade-ai-support-require-justification",
+"fade-embodied-support-as-schemas-develop":"fade-embodied-support-as-schemas-develop",
 "fade-incomplete-editable-ai-writing-support":"fade-incomplete-editable-ai-writing-support",
 "fade-interleave-and-activate-examples-delivery":"fade-interleave-and-activate-examples-delivery",
 "fade-schools-into-independent-project-work":"fade-schools-into-independent-project-work",
@@ -362183,6 +362703,7 @@
 "graphic_organizers_for_retrieval_practice":"graphic_organizers_for_retrieval_practice",
 "graphic_organizers_for_unit_planning":"graphic_organizers_for_unit_planning",
 "graphical-tool-phased-dialogical-skills-strategy":"graphical-tool-phased-dialogical-skills-strategy",
+"grasps-protocol-performance-assessment-design":"grasps-protocol-performance-assessment-design",
 "gratitude_journals":"gratitude_journals",
 "grav-wave-education-tools-for-educators":"grav-wave-education-tools-for-educators",
 "greek-and-latin-number-prefixes":"greek-and-latin-number-prefixes",
@@ -362556,6 +363077,7 @@
 "instruction-guided-llm-annotation-interaction-labels":"instruction-guided-llm-annotation-interaction-labels",
 "instructional-coaching":"instructional-coaching",
 "instructional-commons-recorded-top-teacher-lessons":"instructional-commons-recorded-top-teacher-lessons",
+"instructional-guidelines-foster-positive-academic-emotions":"instructional-guidelines-foster-positive-academic-emotions",
 "instructor-broker-legitimizes-intergroup-consultation":"instructor-broker-legitimizes-intergroup-consultation",
 "instructor-dashboard-topic-question-volume":"instructor-dashboard-topic-question-volume",
 "instructor-data-use-training-alignment":"instructor-data-use-training-alignment",
@@ -363668,6 +364190,7 @@
 "passport-to-literacy-staffing-training-strategy":"passport-to-literacy-staffing-training-strategy",
 "pathblazer-refresher-training-after-implementation":"pathblazer-refresher-training-after-implementation",
 "pathblazer-reports-inform-small-group-instruction":"pathblazer-reports-inform-small-group-instruction",
+"pathway-legitimacy-design-target":"pathway-legitimacy-design-target",
 "pathways-analysis-planning-year-strategy":"pathways-analysis-planning-year-strategy",
 "patience":"patience",
 "pattern-aware-prompting-topological-completeness":"pattern-aware-prompting-topological-completeness",
@@ -363905,6 +364428,7 @@
 "positive_behavior_support":"positive-behavior-support",
 "positive_narration":"positive-narration",
 "positive_scripts":"positive_scripts",
+"possibility-mindset-staged-research-agenda":"possibility-mindset-staged-research-agenda",
 "post-adoption-fidelity-monitoring-feedback":"post-adoption-fidelity-monitoring-feedback",
 "post-entry-mentorship-support-alternative-stem-programs":"post-entry-mentorship-support-alternative-stem-programs",
 "post-instrumental-assessment-design-sequence":"post-instrumental-assessment-design-sequence",
@@ -365094,6 +365618,7 @@
 "soi-guidance-workspace-procedure-strategy":"soi-guidance-workspace-procedure-strategy",
 "solicit-reviewed-responses-to-controversial-positions":"solicit-reviewed-responses-to-controversial-positions",
 "soliciting_feedback_on_instruction":"soliciting_feedback_on_instruction",
+"solo-taxonomy-reliable-process-learning-objectives":"solo-taxonomy-reliable-process-learning-objectives",
 "solution-support-reasoning-rubric-categories":"solution-support-reasoning-rubric-categories",
 "solve-before-you-teach":"solve-before-you-teach",
 "solver-as-tutoring-hint-engine-spatial-games":"solver-as-tutoring-hint-engine-spatial-games",

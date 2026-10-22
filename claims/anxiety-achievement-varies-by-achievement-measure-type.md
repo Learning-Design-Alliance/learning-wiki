@@ -52,3 +52,4 @@ Meta-analytic moderator analyses of the 216 correlations found heterogeneity "ac
 - [Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04](achievement-measure-moderator-lab-exclusion.md) — related
 - [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](l2-anxiety-negative-correlation-achievement-meta-analysis.md) — related
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
+- [Idiographic diary analyses show daily anxiety relates differently to learning variables in different students, with some students profiting motivationally from anxiety](idiographic-anxiety-motivation-heterogeneity.md) — related

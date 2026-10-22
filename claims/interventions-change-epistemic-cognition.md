@@ -52,3 +52,4 @@ The authors' narrative review assertion in the Emerging Opportunities section, c
 - [Quantitative methods exist for assessing how impacts of educational interventions on instructional practices and student learning differ across students, educators, and schools](methods-assess-impact-variation-across-students-educators-schools.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
+- [Explicit reflection on epistemic beliefs during science units has been followed by changes in student teachers' epistemic beliefs](explicit-reflection-interventions-change-teacher-beliefs.md) — a narrower finding that bears on this claim

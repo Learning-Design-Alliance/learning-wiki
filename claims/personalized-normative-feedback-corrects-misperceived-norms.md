@@ -85,3 +85,4 @@ An open question for learning designers is durability: most evaluations measure 
 - [Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching](performance-goal-discrepancy-motivates-teacher-change.md) — related
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
 - Social norms hold force only because they are expected and unchallenged, as Garfinkel's breaching studies showed — related
+- [Researchers overwhelmingly endorse Mertonian norms for science but perceive that other researchers act on counternorms](mertonian-norms-endorsed-counternorms-perceived.md) — related

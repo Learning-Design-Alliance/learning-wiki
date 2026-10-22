@@ -53,3 +53,4 @@ The review's coding found misconception-addressing work concentrated in science,
 - [Learners with more misconceptions who completed a think sheet were more underconfident in predicting their transfer performance](think-sheet-underconfidence-transfer-predictions.md) — related
 - [Inaccurate prior beliefs undermine readers' ability to question online misinformation](inaccurate-beliefs-undermine-misinformation-questioning.md) — related
 - [Prior knowledge can hinder credibility evaluation through selective attention and overconfidence](prior-knowledge-can-hinder-credibility-evaluation.md) — related
+- [Cognitive conflict induced by refutational texts and conflicting perspectives may promote epistemic belief change in student teachers](cognitive-conflict-interventions-change-epistemic-beliefs.md) — related

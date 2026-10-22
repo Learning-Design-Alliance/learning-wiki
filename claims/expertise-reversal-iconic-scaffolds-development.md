@@ -52,3 +52,4 @@ A study of computer-based narrated chemistry visualizations with middle- and hig
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata](expertise-reversal-worked-examples.md) — related
+- [Feedback benefits are stronger for children with low prior knowledge, resembling an expertise-reversal effect](feedback-stronger-for-low-prior-knowledge-children.md) — related

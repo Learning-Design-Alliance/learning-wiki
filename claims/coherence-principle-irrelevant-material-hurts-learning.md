@@ -151,3 +151,4 @@ Program of controlled experiments in the author's lab comparing concise versus e
 - [The CTML research base grew from 45 experimental comparisons and 7 principles (2001) to 201 comparisons and 15 principles (2021)](ctml-research-base-growth-across-editions.md) — related
 - [Redundant and decorative elements, including emotional design embellishments, can enhance learning despite constituting potential extraneous load](emotional-design-redundancy-enhance-learning.md) — reports the opposite
 - [Weeding seductive details fostered learning only in a mandatory (high-reward) learning situation, not a voluntary one](weeding-effective-only-mandatory-learning.md) — related
+- [Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding](action-hurts-when-adding-motor-demands.md) — a narrower finding that bears on this claim

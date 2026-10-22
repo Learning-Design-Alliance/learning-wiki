@@ -48,3 +48,4 @@ The editorial restates the position attributed to Veenman et al. (2006) on domai
 - [Metacognitive skills initially develop in separate domains and later become generalized across domains, but the transfer processes remain unknown](metacognitive-skills-domain-development-trajectory.md) — a narrower finding that bears on this claim
 - Distinguishing metacognitive knowledge from skills, and metacognition from self-regulated learning, is an unresolved field-wide issue — related
 - [Very general skills may be biologically primary and therefore unteachable; claimed general-skills training should be tested with far transfer](general-skills-possibly-primary-unteachable.md) — related
+- [The demands of an information society make an explicit emphasis on general cognitive skills an educational priority](information-society-demands-general-cognitive-skills.md) — related

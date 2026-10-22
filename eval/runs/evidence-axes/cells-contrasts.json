@@ -39526,5 +39526,29 @@
  "scaffolding\torienting charts for geometry concepts\tpretest performance without the intervention": {
   "label": "scaffolding vs no scaffolding",
   "treatment_is_a": true
+ },
+ "feedback-presence\ttask-level corrective feedback\tsimilar activities without feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\ttrial-by-trial immediate corrective feedback\tdelayed corrective feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback alerts before responding\tno feedback alert": {
+  "label": "feedback alert vs no feedback alert",
+  "treatment_is_a": true
+ },
+ "formative-assessment\trevisiting epistemic aims during evaluation\tevaluation without revisiting epistemic aims": {
+  "label": "evaluation with revisiting epistemic aims vs evaluation without revisiting epistemic aims",
+  "treatment_is_a": true
+ },
+ "media-design\taudio signals or physical demonstrations\tother feedback modalities": {
+  "label": "audio/physical demonstration feedback vs other feedback modalities",
+  "treatment_is_a": true
+ },
+ "prompts\tReflection on epistemic beliefs during a science unit\tNot stated": {
+  "label": "reflection prompts vs no prompts",
+  "treatment_is_a": true
  }
 }

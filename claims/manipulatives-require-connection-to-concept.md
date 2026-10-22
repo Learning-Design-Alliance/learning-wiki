@@ -152,3 +152,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Fading of instructional support in collaborative argumentation has produced mixed results, with effectiveness depending on the fading criterion used](fading-collaborative-argumentation-mixed-results.md) — related
 - [Realism effects on learning depend on knowledge type: advantages for surface learning, disadvantages for abstract content](knowledge-type-moderates-realism-effects.md) — related
 - [Transfer of a permutation algorithm succeeds for objects-assigned-to-people problems but fails for people-assigned-to-objects problems](bassok-transfer-objects-people-asymmetry.md) — related
+- [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](action-helps-when-concept-relevant-relations-easier.md) — related

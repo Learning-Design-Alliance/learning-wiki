@@ -73,3 +73,4 @@ Participants envisioned applying abstract concepts in realistic scenarios, such 
 - [Participants perceived the AI probe as a neutral mediator whose private prompting surfaced implicit reasoning while public reorganization made disciplinary positions easier to compare](ai-neutral-mediator-private-public-reorganization.md) — related
 - [Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving](ai-workspaces-equitable-collaborative-problem-solving.md) — related
 - [Adult learners perceive AI-generated warm-up activities as activating prior knowledge for solution generation](ai-warmups-activate-prior-knowledge-solution-generation.md) — related
+- [Software analyses are presented as illuminating advantages of the reorganizer view for new visions of computers' cognitive benefits](software-analyses-illuminate-reorganizer-advantages.md) — related

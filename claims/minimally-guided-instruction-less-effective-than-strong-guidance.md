@@ -51,3 +51,4 @@ The article's abstract synthesizes a half-century of empirical studies, stating 
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — possibly the same claim (merge candidate)
 - [Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)](minimal-guidance-inquiry-inferior-explicit-instruction.md) — a narrower finding that bears on this claim
+- [The demands of an information society make an explicit emphasis on general cognitive skills an educational priority](information-society-demands-general-cognitive-skills.md) — related
