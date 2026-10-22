@@ -53,3 +53,4 @@ The review attributes this to prior meta-analytic work (Mammadov, 2022; Poropat,
 - [Conscientiousness is robustly associated with academic performance across primary, secondary, and tertiary education, with openness the next strongest predictor](conscientiousness-predicts-academic-performance-review.md) — a broader claim this one bears on
 - [University students overwhelmingly report goals to change at least one Big Five trait, but agreeableness may be the hardest trait to shift](students-want-to-change-traits.md) — related
 - [The CONIC model proposes conscientiousness and interest can partly compensate for one another in explaining academic effort and achievement](conic-compensation-conscientiousness-interest.md) — related
+- [Conscientiousness is a reliable meta-analytic predictor of academic achievement](conscientiousness-predicts-academic-achievement.md) — related

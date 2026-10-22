@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 136 claims (103 show a difference, 20 mixed, 13 no difference) · 110 studies (39 causal, 24 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 23 of 110 report an effect size · 130 claims rest on one study
+> **Evidence** · 141 claims (107 show a difference, 20 mixed, 14 no difference) · 112 studies (40 causal, 25 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 25 of 112 report an effect size · 135 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -171,6 +171,11 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [In the HghLBO profile, boredom and enjoyment lose nearly all predictive power for persistence, though they predict persistence in full-sample and multigroup analyses](../claims/boredom-enjoyment-prediction-lost-in-hghlbo.md) [~M] — learners who differ on it differ in outcomes
 - [Learning biologically primary words is rated as more enjoyable and more interesting than learning biologically secondary words](../claims/primary-words-more-enjoyable-interesting.md) [+W] — instruction changes it
 - [The CONIC model proposes conscientiousness and interest can partly compensate for one another in explaining academic effort and achievement](../claims/conic-compensation-conscientiousness-interest.md) [~M] — learners who differ on it differ in outcomes
+- [Earlier boredom predicts positive changes in later interest from the second measurement point onward](../claims/earlier-boredom-predicts-increased-later-interest.md) [-W] — instruction changes it
+- [Enjoyment mediates the pathway from immersive media to immediate posttest score while interest mediates the pathway to delayed posttest score](../claims/camil-enjoyment-immediate-interest-delayed-pathways.md) [+W] — learners who differ on it differ in outcomes
+- [Higher earlier interest predicts decreases in later boredom in both mathematics and German across grades 5–8](../claims/earlier-interest-predicts-lower-later-boredom.md) [+W] — learners who differ on it differ in outcomes
+- [Latent boredom means increased and latent interest means declined from grade 5 to grade 8 in both domains](../claims/boredom-increases-interest-declines-grades-5-8.md) [+W] — instruction changes it
+- [Middle-school students taking a virtual field trip via a 3D HMD report higher enjoyment than students taking the same trip as a 2D video](../claims/hmd-virtual-field-trip-higher-enjoyment-than-2d-video.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

@@ -50,3 +50,4 @@ Three-level random-effects meta-analysis of hypothetical (intervention likelihoo
 - [Antibullying attitudes are unrelated to advocating assertion, enlisting other adults, and separating students](attitudes-unrelated-responses.md) — related
 - [Antibullying attitudes are negatively related to advocating avoidance and encouraging independent coping](attitudes-negative-passive-responses.md) — related
 - [Teachers' perceived severity of bullying predicts their likelihood of reacting to incidents of aggression](perceived-severity-predicts-teacher-reaction.md) — related
+- [Teachers' empathy for victims of bullying is associated with a greater self-reported likelihood of intervening in bullying](teacher-empathy-bullying-intervention.md) — a narrower finding that bears on this claim

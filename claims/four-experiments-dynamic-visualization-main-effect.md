@@ -50,3 +50,4 @@ Summary of the four prior experiments (Kühl, 2021; Kühl & Münzer, 2019; Kühl
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
 - [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — related
 - [Reanalysis of pooled data from four multimedia learning experiments found quadratic interactions, with the largest design difference at medium ability](pooled-reanalysis-quadratic-interactions-multimedia.md) — related
+- [Mayer published seven pieces in Educational Psychology Review, including the Select–Organize–Integrate model of learning and a research-based analysis of animation as an aid to multimedia learning.](mayer-seven-epr-pieces-soi-animation.md) — related

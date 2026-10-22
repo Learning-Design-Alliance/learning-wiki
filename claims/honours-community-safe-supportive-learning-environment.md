@@ -58,3 +58,4 @@ Qualitative open-ended responses from 28 honours students (56% return rate) were
 - [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related
 - [Students perceive a low-stress climate—supportive teacher behavior and an undistressed social environment—as a critical condition for fun in learning](low-stress-climate-fun-element.md) — related
 - [Extra honours workload causes stress, less free time and reported grade decreases in the main phase](honours-extra-workload-stress-and-grade-decreases.md) — related
+- [Educational Psychology Review became a respected overview journal that invigorated educational psychology with new ideas within a research-based context during its first 20 years.](epr-20-years-invigorated-field.md) — related

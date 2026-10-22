@@ -55,3 +55,4 @@ Moderator analyses on immediate posttests found no significant effects for immig
 - [No coded study characteristics moderated the emotion–political learning associations in Bayesian regularized meta-analysis](no-moderators-emotion-political-learning.md) — related
 - [Associations with teacher wellbeing are moderated by sample type (in-service vs pre-service) and educational setting, while age and education show nonsignificant associations](moderators-sample-type-educational-setting.md) — related
 - [Most study characteristics (publication year, mean age, sampling, target language, L2 major, proficiency, measure, mode) do not significantly moderate the gender gap](non-significant-moderators-l2-gender-gap.md) — related
+- [Background variables (need for cognition, test anxiety, mindset, puzzle experience) showed no consistent moderating patterns across the three experiments](background-moderators-no-consistent-patterns.md) — related

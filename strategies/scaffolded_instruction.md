@@ -65,6 +65,7 @@ Scaffolding works because it keeps tasks within the learner's zone of proximal d
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — the modeling–coaching–fading cycle in which scaffolding is embedded
 - [Direct Instruction](direct-instruction.md) — shares explicit support features but typically fades on a fixed schedule rather than contingently
 - [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
+- [Promote self-regulation competence through high-quality teaching and whole-school approaches](high-quality-teaching-whole-school-self-regulation.md)
 
 ## Examples
 - **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown)** — teachers scaffold reading-comprehension strategies through dialogue, then transfer the teacher role to student groups as independence grows.

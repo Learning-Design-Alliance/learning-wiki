@@ -50,6 +50,7 @@ The review recommends that policymakers and practitioners integrate multiple str
 
 - [Implementation recommendations for school RJ programs: funding, sustainability, policy integration, and professional development](rj-school-implementation-funding-sustainability-pd.md)
 - [Implement community schools comprehensively across all four pillars with adequate planning time, community involvement, and implementation-sensitive evaluation](community-schools-implementation-recommendations.md)
+- [Use the ASP level scale to design and select whole-school intervention activities according to research focus and aims](design-interventions-using-asp-levels.md)
 
 ## Examples
 -

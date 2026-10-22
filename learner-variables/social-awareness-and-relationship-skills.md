@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (69 show a difference, 18 mixed, 8 no difference) · 73 studies (23 review, 15 associational, 13 quant-synthesis, 10 causal, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 20 of 73 report an effect size · 91 claims rest on one study
+> **Evidence** · 99 claims (70 show a difference, 19 mixed, 10 no difference) · 74 studies (24 review, 15 associational, 13 quant-synthesis, 10 causal, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 20 of 74 report an effect size · 95 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -136,6 +136,10 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [At domain level, teachers' responsible decision-making shows the largest observed relationship with students' SEC, and students' relationship skills the strongest with teachers' SEC](../claims/sec-domain-specific-associations-casel.md) [+M] — instruction changes it
 - [Children's age negatively moderates the pretend play–social competence relation, which weakens as children get older](../claims/age-negatively-moderates-pretend-play-social-competence.md) [~M] — instruction changes it
 - [Pretend play is positively related to social competence in children aged 3–8, with a small overall effect size](../claims/pretend-play-positive-relation-social-competence.md) [+M] — instruction changes it
+- [Empathy's association with student outcomes, especially cognitive achievement, is weakest and largely non-significant](../claims/teacher-empathy-student-outcomes-weakest.md) [-M] — learners who differ on it differ in outcomes
+- [Evidence for a relationship between teacher empathy and general emotional support is inconsistent, with positive findings concentrated in self-report-only studies](../claims/teacher-empathy-emotional-support-inconsistent.md) [~M] — learners who differ on it differ in outcomes
+- [Teacher empathy shows no consistent relationship with classroom management or instructional support](../claims/teacher-empathy-classroom-management-null.md) [-M] — learners who differ on it differ in outcomes
+- [Teachers' empathy for victims of bullying is associated with a greater self-reported likelihood of intervening in bullying](../claims/teacher-empathy-bullying-intervention.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

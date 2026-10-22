@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 233 claims (161 show a difference, 47 mixed, 25 no difference) · 185 studies (57 associational, 49 causal, 34 review, 15 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 45 of 185 report an effect size · 221 claims rest on one study
+> **Evidence** · 236 claims (163 show a difference, 47 mixed, 26 no difference) · 186 studies (58 associational, 49 causal, 34 review, 15 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 46 of 186 report an effect size · 224 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -283,6 +283,9 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Extraneous cognitive load is negatively associated with autonomous motivation and positively with disengagement, while intrinsic load is negatively associated with motivation, engagement, and achievement](../claims/cognitive-load-negatively-associated-motivation-engagement.md) [+M] — instruction changes it
 - [Teachers' load-reducing instructional strategies predict lower extraneous and intrinsic cognitive load and have direct positive associations with motivation and engagement](../claims/load-reduction-instruction-predicts-lower-load-and-motivation.md) [+M] — instruction changes it
 - [The CONIC model proposes conscientiousness and interest can partly compensate for one another in explaining academic effort and achievement](../claims/conic-compensation-conscientiousness-interest.md) [+M] — learners who differ on it differ in outcomes
+- [Earlier boredom predicts positive changes in later interest from the second measurement point onward](../claims/earlier-boredom-predicts-increased-later-interest.md) [-W] — learners who differ on it differ in outcomes
+- [Higher earlier interest predicts decreases in later boredom in both mathematics and German across grades 5–8](../claims/earlier-interest-predicts-lower-later-boredom.md) [+M] — learners who differ on it differ in outcomes
+- [Latent boredom means increased and latent interest means declined from grade 5 to grade 8 in both domains](../claims/boredom-increases-interest-declines-grades-5-8.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

@@ -54,3 +54,6 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [In Desktop-VR, interaction format (object movement vs. camera movement vs. no interaction) showed no significant main effect on learning outcomes](no-main-effect-interaction-format-desktop-vr.md) — a narrower finding that bears on this claim
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — reports the opposite
 - [Learners' spatial ability moderates whether realistic visualizations help or hinder learning](spatial-ability-moderates-realism-effects.md) — related
+- [Students who experienced the virtual field trip via a 3D HMD scored higher on a delayed posttest roughly three weeks later than 2D-video students](hmd-virtual-field-trip-better-delayed-retention.md) — reports the opposite
+- [Middle-school students taking a virtual field trip via a 3D HMD report higher interest than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-interest-than-2d-video.md) — reports the opposite
+- [Middle-school students taking a virtual field trip via a 3D HMD report higher presence than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-presence-than-2d-video.md) — related

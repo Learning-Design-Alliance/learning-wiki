@@ -46,3 +46,4 @@ In the randomized trial's multilevel analysis, the standardized science assessme
 - [1st graders in Amplify Science intervention classrooms significantly outperformed comparison classrooms on an NGSS-focused three-dimensional science learning assessment (g = 0.24)](amplify-science-gains-ngss-science-learning-assessment.md) — related
 - [1st graders in Amplify Science intervention classrooms significantly outperformed comparison classrooms on science vocabulary in-use (g = 0.46)](amplify-science-gains-science-vocabulary-in-use.md) — related
 - [1st graders in Amplify Science intervention classrooms performed similarly to comparison classrooms on a standardized reading assessment (effect size below 0.01)](amplify-science-no-reading-assessment-difference.md) — related
+- [Empathy's association with student outcomes, especially cognitive achievement, is weakest and largely non-significant](teacher-empathy-student-outcomes-weakest.md) — related

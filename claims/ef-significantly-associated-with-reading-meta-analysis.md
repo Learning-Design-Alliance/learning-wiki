@@ -49,3 +49,4 @@ Pre-registered three-level random-effects meta-analysis of zero-order correlatio
 - [Executive functioning was not a significant unique predictor of first-grade reading in children with low number sense](ef-not-predictor-first-grade-reading.md) — related
 - [Executive functions do not directly predict syntactic complexity or story content once transcription and language skills are controlled](ef-no-direct-effect-syntactic-complexity-story-content.md) — related
 - [EF explains substantial achievement variance (about 20–60% in school children) while SRL shows positive but low-effect-size relations to achievement](ef-achievement-variance-srl-low-effect.md) — related
+- [Executive functions show consistent positive meta-analytic associations with academic outcomes](efs-positively-associated-academic-outcomes.md) — a broader claim this one bears on

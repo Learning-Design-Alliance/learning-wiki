@@ -58,9 +58,11 @@ Scaffolding works because it keeps task demands within working memory limits whi
 6. Assess independent performance without the scaffold before declaring the goal met.
 
 ## Related Strategies
+
 - [Worked examples](../principles/worked-examples.md) — a scaffold in problem-solving contexts; the example-to-problem sequence is a fading schedule [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
 - [Formative assessment](../patterns/formative-assessment.md) — supplies the ongoing diagnosis that makes scaffolding contingent
 - [Direct instruction](../patterns/direct-instruction.md) — a highly structured, teacher-led form of scaffolding suited to novice learners
+- [Promote self-regulation competence through high-quality teaching and whole-school approaches](high-quality-teaching-whole-school-self-regulation.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the interactive, contingent form of scaffolding during performance

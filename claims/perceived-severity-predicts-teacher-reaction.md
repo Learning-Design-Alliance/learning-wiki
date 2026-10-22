@@ -49,3 +49,4 @@ Preliminary correlational analysis in the Results section of the teacher sample.
 - [RJ-based responses to bullying may help, but require trained adult facilitators and may leave victims uncomfortable facing bullies](rj-bullying-response-requires-trained-facilitators.md) — related
 - [Teachers' antibullying attitudes are positively associated with intervention likelihood in hypothetical bullying scenarios (r = 0.48)](antibullying-attitudes-intervention-likelihood-positive.md) — related
 - [The association between antibullying attitudes and intervention likelihood does not differ by form of bullying](no-moderation-form-of-bullying.md) — related
+- [Teachers' empathy for victims of bullying is associated with a greater self-reported likelihood of intervening in bullying](teacher-empathy-bullying-intervention.md) — related

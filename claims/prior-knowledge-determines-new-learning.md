@@ -64,12 +64,12 @@ The article reports a recent meta-analysis (Simonsmeier, Flaig, Deiglmayr, et al
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does knowing more beforehand mean learning more from the instruction?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **15 distinct studies** (5 causal, 4 associational, 2 theoretical, 1 quant-synthesis, 1 kind not coded, 1 review, 1 design), `q2`–`q4`, 5 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does knowing more beforehand mean learning more from the instruction?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **15 distinct studies** (5 causal, 4 associational, 2 review, 2 theoretical, 1 quant-synthesis, 1 design), `q2`–`q4`, 5 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Simonsmeier et al. 2022](https://doi.org/10.1080/00461520.2021.1939700) | q4 · quant-synthesis · r3 | i3 · large stability correlation, r=.534; near-zero for normalized gains, r=-.059 | this claim |
-| [Bittermann 2023](https://doi.org/10.1007/s10648-023-09775-9) | q4 | i? | this claim |
+| [Bittermann 2023](https://doi.org/10.1007/s10648-023-09775-9) | q4 · review · r3 | i? | this claim |
 | [Yusuke Sato 2023](https://doi.org/10.52598/jpll/5/1/4) | q2 · associational · r2 | i? | [Pretest scores significantly predict posttest scores across CF types and outcome measures](pretest-scores-predict-posttest-scores.md) (qualifies) |
 | Gagne 1981 | q2 · causal · r? | i3 · large effect, r = 0.52; i? | [Passage familiarity (prior related knowledge) correlates .52 with recall, and only familia](passage-familiarity-correlates-with-recall.md) (supports); [Passage cohesion showed no effect on delayed recall; means showed greater recall from less](cohesion-no-effect-delayed-recall.md) (qualifies) |
 | Bigenho 1992 | q2 · review · r3 | i? | [Subjects with a more developed schema for a body of knowledge show higher recall for mater](developed-schema-higher-recall.md) (supports) |

@@ -126,3 +126,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [SRL interventions produce large average effects on academic and motivational outcomes, per meta-analytic syntheses](srl-interventions-large-average-effects.md) — related
 - [Interventions targeting motivation produce positive achievement outcomes of medium average size (d = 0.49) regardless of which motivation theory underlies them](motivation-interventions-achievement-d049-theory-agnostic.md) — related
 - [Interventions targeting SRL or EF show little evidence of far transfer to the other construct](srl-ef-interventions-no-far-transfer.md) — related
+- [SRL strategy interventions improve academic achievement, with meta-analytic effects that vary by domain](srl-interventions-improve-achievement-domain-effects.md) — a narrower finding that bears on this claim

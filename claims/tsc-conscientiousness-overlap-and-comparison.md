@@ -46,3 +46,4 @@ Correlational and regression results for N = 3,146 trainees; Table 1 prints a TS
 - [Fluid reasoning, not trait self-control, predicts low-stakes standardized mathematics and physics test scores](fluid-reasoning-predicts-low-stakes-standardized-tests.md) — related
 - [Post hoc analysis: trait self-control relates to grades positively only for trainees above very low fluid reasoning levels](johnson-neyman-tsc-mgpa-fluid-reasoning-region.md) — related
 - [Post hoc findings question whether all students benefit equally from efforts to foster trait self-control](self-control-fostering-unequal-benefit-questioned.md) — related
+- [Conscientiousness facets and SRL scales show substantial multivariate overlap in college students](conscientiousness-srl-multivariate-overlap-study.md) — related

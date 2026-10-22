@@ -74,3 +74,4 @@ The review reports, citing Yang et al. (2016), that students "significantly prog
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
 - [AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills](ai-ibi-no-significant-gain-critical-problem-solving.md) — related
 - [Wilderness immersion experiences improve convergent creative thinking, with reported gains including a 50% increase on the RAT after four days in nature](wilderness-immersion-improves-convergent-creativity.md) — related
+- [Research-led creativity training for teachers enhances children's divergent thinking and moves teachers' conceptions closer to researchers' definitions](teacher-creativity-training-enhances-children-divergent-thinking.md) — related

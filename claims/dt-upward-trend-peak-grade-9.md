@@ -49,3 +49,4 @@ Three-level meta-analysis of overall DT across 41 studies (2,139 SMs, 40,918 sub
 - [A seventh-grade slump in divergent thinking is observed at the overall and indicator level](seventh-grade-slump-dt.md) — related
 - [The seventh-grade slump is moderated by DT test, task content domain, and gender, with larger drops for WKCT, figural tasks, and a higher proportion of males](seventh-grade-slump-moderators.md) — related
 - [No general fourth-grade slump in divergent thinking: Grade 4 shows a plateau relative to Grade 3](no-general-fourth-grade-slump.md) — reports the opposite
+- [A recent large-scale meta-analysis failed to find convincing evidence of developmental slumps in children's divergent thinking](meta-analysis-no-convincing-evidence-dt-slumps.md) — reports the opposite

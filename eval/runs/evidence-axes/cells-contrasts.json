@@ -39070,5 +39070,413 @@
  "test-format\tunproctored exam\tteacher-proctored exam": {
   "label": "unproctored exam vs teacher-proctored exam",
   "treatment_is_a": true
+ },
+ "active-learning\tcooperative reading and writing tasks\tnon-cooperative standard curriculum": {
+  "label": "active learning vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tbroad-scope, systemic interventions\tspecific-problem interventions": {
+  "label": "broad-scope, systemic interventions vs specific-problem interventions",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D video through a head-mounted display\t2D video on a projected screen": {
+  "label": "3D head-mounted-display video vs 2D projected-screen video",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D video via head-mounted display\t2D video on a projected screen": {
+  "label": "3D head-mounted-display video vs 2D projected-screen video",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D video via head-mounted display\t2D video on projected screen": {
+  "label": "3D head-mounted-display video vs 2D projected-screen video",
+  "treatment_is_a": true
+ },
+ "technology-tool\t8–12-week online training with a team component\tpre-intervention teaching approach": {
+  "label": "Online team-based training vs pre-intervention teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI components and computational sciences in education\tcontrol or traditional instruction": {
+  "label": "AI-supported instruction vs traditional or control instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI dialogue systems for academic research and information retrieval\tconventional research and information retrieval": {
+  "label": "AI dialogue systems for research and retrieval vs conventional research and retrieval",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI dialogue systems used for academic tasks\tless or no reliance on AI dialogue systems": {
+  "label": "AI dialogue systems for academic tasks vs little or no AI dialogue-system use",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI integration in academic essay writing\tnot stated": {
+  "label": "AI-integrated essay writing vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI intervention or feedback\tno instruction, additional support, or feedback": {
+  "label": "AI intervention or feedback vs no instruction, support, or feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI model personalized using survey information\tnon-personalized AI model": {
+  "label": "Personalized AI model vs non-personalized AI model",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI solutions for higher education\thuman teachers": {
+  "label": "AI solutions vs human teachers",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI takes over diagnostic and evaluative learning functions\tlearner performs self-explaining, self-testing, and summarizing": {
+  "label": "AI-performed diagnostic and evaluative functions vs learner-performed self-explanation, self-testing, and summarization",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI used for forecasting trends in data\tnot stated": {
+  "label": "AI forecasting vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI virtual labs, simulations, and intelligent tutoring systems\ttraditional or non-AI science learning": {
+  "label": "AI virtual labs, simulations, or ITSs vs traditional or non-AI science learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI web agent feedback\t?": {
+  "label": "AI web-agent feedback vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI writing practice\tpractice without AI": {
+  "label": "AI writing practice vs non-AI writing practice",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI writing practice\tviewing an AI-generated example only": {
+  "label": "AI writing practice vs viewing an AI-generated example only",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI writing tool\tGoogle Search for cover-letter examples and tips": {
+  "label": "AI writing tool vs Google Search",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI writing tool\tpersonalized feedback from professional human editors": {
+  "label": "AI writing tool vs professional human-editor feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI+Robot\tAI-Only": {
+  "label": "AI plus robot vs AI only",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI+Robot condition\tAI-Only condition": {
+  "label": "AI plus robot vs AI only",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-IVE-PBL\ttraditional PBL": {
+  "label": "AI-integrated PBL vs traditional PBL",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-SEE integrated sustainable engineering education\tcontrol-group instruction": {
+  "label": "AI-integrated sustainable engineering education vs control instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-SEE-integrated education\tcontrol-group education": {
+  "label": "AI-integrated sustainable engineering education vs control education",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-SEE-integrated engineering education\tcontrol-group education": {
+  "label": "AI-integrated sustainable engineering education vs control education",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-adaptive learning systems\tnon-adaptive or conventional learning": {
+  "label": "AI-adaptive learning systems vs non-adaptive or conventional learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-affordance-derived orchestration types\texisting instrumental-orchestration types": {
+  "label": "AI-affordance-derived orchestration vs existing instrumental orchestration",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-agent activity\tnormal human student activity": {
+  "label": "AI-agent activity vs normal human-student activity",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-allowed access\tAI-forbidden condition": {
+  "label": "AI access allowed vs AI access forbidden",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-allowed access in Session One\tAI-forbidden condition": {
+  "label": "AI access allowed vs AI access forbidden",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-allowed students\tAI-forbidden students": {
+  "label": "AI access allowed vs AI access forbidden",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assigned exam scores\tTA-assigned exam scores": {
+  "label": "AI-assigned exam scores vs TA-assigned exam scores",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assigned grading scores\tTA-assigned grading scores": {
+  "label": "AI-assigned grading scores vs TA-assigned grading scores",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assigned score\tTA-assigned score": {
+  "label": "AI-assigned scores vs TA-assigned scores",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assigned scores across five runs\tagreement at the rubric-cell level": {
+  "label": "AI-assigned scores across repeated runs vs rubric-cell agreement",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assigned total scores\tTA-assigned total scores": {
+  "label": "AI-assigned total scores vs TA-assigned total scores",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assistant mode\thuman-shadow mode": {
+  "label": "AI-assistant mode vs human-shadow mode",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted Actor’s Note journaling\tunassisted freewriting": {
+  "label": "AI-assisted journaling vs unassisted freewriting",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted Curriculum as Code architecture\tprior or ad-hoc instructional preparation": {
+  "label": "AI-assisted Curriculum-as-Code architecture vs prior or ad-hoc preparation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted Curriculum as Code architecture\ttraditional or ad-hoc authoring; no measured comparator reported": {
+  "label": "AI-assisted Curriculum-as-Code architecture vs traditional or ad-hoc authoring",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted Curriculum as Code pipeline\tmanual instructional-material preparation": {
+  "label": "AI-assisted Curriculum-as-Code pipeline vs manual material preparation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted Curriculum as Code workflow with LaTeX and Python\t?": {
+  "label": "AI-assisted Curriculum-as-Code workflow vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted EL2 learning\tnot consistently specified": {
+  "label": "AI-assisted EL2 learning vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted Writing scoring\thuman Writing scoring": {
+  "label": "AI-assisted writing scoring vs human writing scoring",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted block programming with robot feedback\tAI-assisted block programming without robot feedback": {
+  "label": "AI-assisted programming with robot feedback vs AI-assisted programming without robot feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted categorizing and coding of datasets\tnot stated": {
+  "label": "AI-assisted dataset categorization and coding vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted communication\tunaided communication": {
+  "label": "AI-assisted communication vs unaided communication",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted completion\tcompletion without AI assistance": {
+  "label": "AI-assisted completion vs completion without AI assistance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted completion\tindependent completion": {
+  "label": "AI-assisted completion vs independent completion",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted completion\tindependent performance without relying on AI completion": {
+  "label": "AI-assisted completion vs independent performance without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted completion of the logic problem\tindependent completion": {
+  "label": "AI-assisted logic-problem completion vs independent completion",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted completion on easy tasks\tindependent completion on easy tasks": {
+  "label": "AI-assisted completion on easy tasks vs independent completion on easy tasks",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted creative-writing outputs\thuman-authored creative-writing outputs": {
+  "label": "AI-assisted creative writing vs human-authored creative writing",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted data triangulation\tnot stated": {
+  "label": "AI-assisted data triangulation vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted design with human-in-the-loop review\tAI as substitutive without human review": {
+  "label": "AI-assisted design with human review vs substitutive AI without human review",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted detection systems\tbaseline independent performance": {
+  "label": "AI-assisted detection systems vs baseline independent performance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted explanation, synthesis, or problem solving\tless or no AI assistance": {
+  "label": "AI-assisted explanation, synthesis, or problem solving vs little or no AI assistance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted exposure tasks\tindependent exposure tasks": {
+  "label": "AI-assisted exposure tasks vs independent exposure tasks",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted feedback draft shown\tno feedback draft": {
+  "label": "AI-assisted feedback draft shown vs no feedback draft",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted feedback draft shown after grading\tno feedback draft; TA starts from scratch": {
+  "label": "AI-assisted feedback draft shown after grading vs no draft; TA starts from scratch",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted feedback draft shown to the TA\tno feedback draft shown": {
+  "label": "AI-assisted feedback draft shown to TA vs no feedback draft",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted grading with human oversight\tAI grading without required human oversight": {
+  "label": "AI-assisted grading with human oversight vs AI grading without required human oversight",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted grading with human oversight and selective filtering\tunfiltered AI grading": {
+  "label": "AI-assisted grading with human oversight and filtering vs unfiltered AI grading",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted idea-to-prototype workflow\tnon-AI workflow": {
+  "label": "AI-assisted idea-to-prototype workflow vs non-AI workflow",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted individualized instruction\tnon-AI individualized instruction": {
+  "label": "AI-assisted individualized instruction vs non-AI individualized instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted inquiry\tinquiry without AI": {
+  "label": "AI-assisted inquiry vs inquiry without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted inquiry\ttraditional instruction": {
+  "label": "AI-assisted inquiry vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted instruction via ChatGPT\ttraditional instruction": {
+  "label": "ChatGPT-assisted instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted instructional design tasks\tnot stated": {
+  "label": "AI-assisted instructional-design tasks vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted language translation\tnot stated": {
+  "label": "AI-assisted language translation vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted learning\tno-AI learning": {
+  "label": "AI-assisted learning vs no-AI learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted learning\tnon-AI comparison": {
+  "label": "AI-assisted learning vs non-AI comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted learning\ttraditional resources": {
+  "label": "AI-assisted learning vs traditional resources",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted learning with individualized feedback\tlearning without AI assistance": {
+  "label": "AI-assisted learning with individualized feedback vs learning without AI assistance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted literature reviews\t?": {
+  "label": "AI-assisted literature review vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted pair programming\thuman–human pair programming": {
+  "label": "AI-assisted pair programming vs human-human pair programming",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted pair programming\tindividual programming": {
+  "label": "AI-assisted pair programming vs individual programming",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted pair programming\ttraditional programming approaches": {
+  "label": "AI-assisted pair programming vs traditional programming",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted pair programming with Claude 3 Opus\tindividual programming": {
+  "label": "AI-assisted pair programming with Claude 3 Opus vs individual programming",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted pair programming with GPT-3.5 Turbo\tindividual programming": {
+  "label": "AI-assisted pair programming with GPT-3.5 Turbo vs individual programming",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted pair programming with GPT-3.5 Turbo or Claude 3 Opus\tthe other AI model": {
+  "label": "AI-assisted pair programming with GPT-3.5 Turbo or Claude 3 Opus vs the other AI model",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted personalized learning using learner models and algorithmic adaptation\tteacher-designed individualized instruction using professional judgment": {
+  "label": "AI-adaptive personalized learning vs teacher-designed individualized instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted post-GPT publications\thuman-written post-GPT publications": {
+  "label": "AI-assisted post-GPT publications vs human-written post-GPT publications",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted practice applications\tunspecified comparison condition": {
+  "label": "AI-assisted practice applications vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted programming\thuman pair programming": {
+  "label": "AI-assisted programming vs human pair programming",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted proofreading and optimisation\tno AI-assisted proofreading or optimisation": {
+  "label": "AI-assisted proofreading and optimization vs no AI proofreading or optimization",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted questions\twithout-AI questions": {
+  "label": "AI-assisted questions vs non-AI questions",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted resources\ttraditional resources": {
+  "label": "AI-assisted resources vs traditional resources",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted retrieval and summarisation with learner judgement retained\tAI outsourcing of evaluative reasoning": {
+  "label": "AI-assisted retrieval and summarization with learner judgment vs AI outsourcing of evaluative reasoning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted review of laboratory reports\tTeacher-only review and judgment": {
+  "label": "AI-assisted laboratory-report review vs teacher-only review",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted skill-building task\tunassisted performance after AI-assisted training": {
+  "label": "AI-assisted skill-building task vs unassisted performance after AI-assisted training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted skill-building task\tunassisted skill-building task": {
+  "label": "AI-assisted skill-building task vs unassisted skill-building task",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted speed and access to GenAI\tmanual work or teams without GenAI access": {
+  "label": "AI-assisted speed and access vs manual work or teams without GenAI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted speed and output\tmanual work or work by teams without GenAI access": {
+  "label": "AI-assisted speed and output vs manual work or teams without GenAI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted task completion\tindependent task completion": {
+  "label": "AI-assisted task completion vs independent task completion",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted writing\thuman-written post-GPT publications": {
+  "label": "AI-assisted writing vs human-written post-GPT publications",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted writing\thuman-written pre-GPT publications": {
+  "label": "AI-assisted writing vs human-written pre-GPT publications",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted writing\thuman-written publications": {
+  "label": "AI-assisted writing vs human-written publications",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted writing\tno AI-assisted writing": {
+  "label": "AI-assisted writing vs no AI-assisted writing",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted writing\twriting without AI assistance": {
+  "label": "AI-assisted writing vs writing without AI assistance",
+  "treatment_is_a": true
  }
 }

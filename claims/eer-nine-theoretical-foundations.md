@@ -45,3 +45,4 @@ The review's synthesis of the 24 included articles (2016-2022, mostly higher edu
 ## Related Claims
 - [Only a small minority of EER research articles explicitly link educational theory to the EER method](eer-research-theoretical-foundation-weak.md) — related
 - [Only four included articles achieved theoretical grounding with empirical validation](eer-few-empirically-validated-theory.md) — related
+- [Explicit theoretical frameworks of engagement were provided in only 14% of the reviewed ECEC studies](ecec-engagement-theoretical-frameworks-rare.md) — related

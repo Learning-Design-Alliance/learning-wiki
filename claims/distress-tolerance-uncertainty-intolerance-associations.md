@@ -50,3 +50,4 @@ Narrative review attribution: the article reports that empirical studies have "c
 - [Existing cognitive hope theories presuppose predictability and control, an assumption that breaks down under radical uncertainty](hope-theories-presuppose-predictability.md) — related
 - [Distress and depression screening improved detection but did not reliably enhance psychological or medical outcomes when follow-up pathways were absent](screening-without-followup-insufficient.md) — related
 - [Mental health, especially depression, is probably the single most decisive factor in refugee language learning](depression-decisive-factor-refugee-language-learning.md) — related
+- [Conscientiousness is linked to better mental health and lower vulnerability to internalizing disorders](conscientiousness-mental-health-associations.md) — related

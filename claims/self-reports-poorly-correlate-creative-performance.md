@@ -44,3 +44,4 @@ The review reports this second-hand from Haas et al.'s meta-analysis; it also re
 
 ## Related Claims
 - [Learning-process and psychological constructs correlate only weakly with aggregate final artistic performance](process-constructs-weakly-correlated-final-performance.md) — a narrower finding that bears on this claim
+- [Teachers' ratings of children's creativity correlate poorly with psychometric performance, and teachers tend to prefer appropriate answers over novel ones](teacher-ratings-creativity-poorly-correlate-psychometric.md) — related

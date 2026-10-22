@@ -53,3 +53,4 @@ Subgroup meta-analyses of short-run effects by content domain. The review report
 - [Prior reviews report positive word-reading intervention effects for adolescents but with a wide range (0-1.31) due to broad outcome conceptualization](prior-adolescent-reading-reviews-wide-effect-range.md) — related
 - [Extensive reading shows small-to-medium significant positive effects on every measured language domain, including vocabulary, reading comprehension, and general proficiency](er-effects-across-language-domains.md) — a narrower finding that bears on this claim
 - [Reading interventions significantly improve literacy skills of Chinese children overall (g = 0.68)](reading-interventions-overall-effect-chinese-children.md) — related
+- [SRL strategy interventions improve academic achievement, with meta-analytic effects that vary by domain](srl-interventions-improve-achievement-domain-effects.md) — related

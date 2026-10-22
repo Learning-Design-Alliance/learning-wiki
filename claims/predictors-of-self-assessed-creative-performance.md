@@ -52,3 +52,4 @@ Hierarchical multiple regression (N = 425) predicting self-assessed creative per
 - [Self-assessed creative performance is slightly underestimated while self-assessed idea creativity is moderately overestimated](performance-underestimated-ideas-overestimated.md) — related
 - [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](individual-supportive-factors-adolescent-creativity.md) — related
 - [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](genai-possible-benefits-children-creative-thinking.md) — related
+- [Teachers' ratings of children's creativity correlate poorly with psychometric performance, and teachers tend to prefer appropriate answers over novel ones](teacher-ratings-creativity-poorly-correlate-psychometric.md) — related
