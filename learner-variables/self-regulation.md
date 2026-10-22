@@ -224,7 +224,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Effortful generative learning activities during problem-solving example study provide cues that improve students' item-level self-monitoring accuracy](../claims/generative-activities-improve-problem-solving-monitoring.md) [+M] — instruction changes it
 - [Self-explaining does not improve retrospective monitoring accuracy, while problem complexity reduces it](../claims/self-explanation-null-complexity-hurts-monitoring.md) [~M] — instruction changes it
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](../claims/preschool-ef-predicts-mathematics.md) [+M] — learners who differ on it differ in outcomes
-- [For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies contributed to stronger overestimation, with openness contributing only for predictions](../claims/inference-bias-predictors.md) [+M] — learners who differ on it differ in outcomes
+- [For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies were associated with stronger overestimation, with openness associated only for predictions](../claims/inference-bias-predictors.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

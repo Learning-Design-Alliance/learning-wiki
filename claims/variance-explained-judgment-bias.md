@@ -44,4 +44,4 @@ Across the four hierarchical regression analyses (prediction/postdiction bias fo
 
 ## Related Claims
 - [For postdiction bias on factual questions, underestimation was prevalent for females, higher reading skill, and lower self-perceived topic knowledge and metacomprehension ability](factual-postdiction-underestimation-pattern.md) — related
-- [For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies contributed to stronger overestimation, with openness contributing only for predictions](inference-bias-predictors.md) — related
+- [For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies were associated with stronger overestimation, with openness associated only for predictions](inference-bias-predictors.md) — related

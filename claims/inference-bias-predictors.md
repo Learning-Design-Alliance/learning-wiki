@@ -1,7 +1,7 @@
 ---
 type: claim
-title: For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies contributed to stronger overestimation, with openness contributing only for predictions
-description: For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies contributed to stronger overestimation, with openness contributing only for predictions
+title: For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies were associated with stronger overestimation, with openness associated only for predictions
+description: For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies were associated with stronger overestimation, with openness associated only for predictions
 id: inference-bias-predictors
 status: review
 generated:
@@ -35,14 +35,14 @@ sources:
     rigour: 2
 ---
 
-# For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies contributed to stronger overestimation, with openness contributing only for predictions
+# For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies were associated with stronger overestimation, with openness associated only for predictions
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For inference questions, a lower reading skill was associated with stronger overestimations than higher reading skill, and results were similar for prediction and postdiction bias. [→ Stefanie Golke 2022](#stefanie-golke-2022)
-`q3 i?` A higher self-efficacy contributed to stronger overestimations for inference questions, and a higher openness contributed to stronger overestimations but only for prediction bias. [→ Stefanie Golke 2022 (2)](#stefanie-golke-2022-2)
+`q3 i?` In the regressions, higher self-efficacy was associated with stronger overestimation for inference questions, and higher openness was too, but only for prediction bias (the authors' "contributed" is statistical, not causal). [→ Stefanie Golke 2022 (2)](#stefanie-golke-2022-2)
 `q3 i?` A higher amount of self-reported general monitoring strategies was related to stronger overestimations for inference questions, contrary to the expectation that lower levels would overestimate more. [→ Stefanie Golke 2022 (3)](#stefanie-golke-2022-3)
 
 ## Evidence

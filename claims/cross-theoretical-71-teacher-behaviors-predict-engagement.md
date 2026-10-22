@@ -47,7 +47,7 @@ sources:
 
 `q3 i?` The influential behaviours did not neatly fit within any single motivational theory, supporting arguments for integrating different theoretical approaches when designing interventions. [→ Michael Noetel 2023](#michael-noetel-2023)
 
-`q2 i?` Noetel et al. (2023) tested self-determination theory, achievement goal theory, growth mindset theory, and transformational leadership theory using predictive modeling to identify teacher behaviors predicting changes in student engagement, and the most critical behaviors did not fit neatly within one theoretical model. [→ Ronnel B. King 2024](#ronnel-b-king-2024)
+`q2 i?` King and Fryer's essay summarises how Noetel et al. (2023) tested self-determination theory, achievement goal theory, growth mindset theory, and transformational leadership theory using predictive modeling to identify teacher behaviors predicting changes in student engagement, and the most critical behaviors did not fit neatly within one theoretical model. [→ Ronnel B. King 2024](#ronnel-b-king-2024)
 
 ## Evidence
 
@@ -77,7 +77,7 @@ Ronnel B. King, Luke K. Fryer. (2024). Hybridizing Motivational Strains: How Int
 
 `q2 · i?` · `theoretical · r2`
 
-The essay's summary of the special issue's only empirical paper, Noetel et al. (2023), which used predictive modeling techniques to examine which theory could best explain changes in students' engagement. The essay reports the cross-theoretical finding but no effect sizes are given here.
+The essay's summary of the special issue's only empirical paper, Noetel et al. (2023), which used predictive modeling techniques to examine which theory could best explain changes in students' engagement. The essay reports the cross-theoretical finding but no effect sizes are given here. This is an essay reviewing the special issue; it gives neither the number of behaviours nor the sample, which come from Noetel et al. (2023) itself (its entry above).
 
 > "They test four major theories—self-determi- nation theory, achievement goal theory, growth mindset theory, and transforma- tional leadership theory—to determine the most critical teacher behaviors that predict changes in students' engagement. Their findings about the most critical teacher behaviors did not fit neatly within one theoretical model, demonstrating the value of integration."
 

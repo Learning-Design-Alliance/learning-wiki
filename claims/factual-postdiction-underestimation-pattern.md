@@ -48,5 +48,5 @@ For the postdiction bias of factual questions, which slightly tended toward unde
 ## Related Claims
 - [Effects of gender and self-perceived metacomprehension ability on bias arose mainly from judgment magnitude, whereas WMC and topic knowledge also affected performance](bias-mechanisms-magnitude-versus-performance.md) — related
 - [For prediction judgments on factual questions, males and learners with lower WMC and lower topic knowledge, but higher self-perceived topic knowledge and self-perceived metacomprehension ability, showed stronger overestimation](factual-prediction-bias-predictors.md) — related
-- [For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies contributed to stronger overestimation, with openness contributing only for predictions](inference-bias-predictors.md) — related
+- [For inference questions, lower reading skill, higher self-efficacy, and higher self-reported monitoring strategies were associated with stronger overestimation, with openness associated only for predictions](inference-bias-predictors.md) — related
 - [Significant learner characteristics explained 17% and 14% of variance in prediction bias and 11% and 12% in postdiction bias, so characteristics were slightly more relevant for predictions](variance-explained-judgment-bias.md) — related
