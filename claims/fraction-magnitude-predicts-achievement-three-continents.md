@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement in Belgium, China, and the U.S. even when fraction arithmetic skill is statistically controlled
-description: Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement in Belgium, China, and the U.S.
+title: Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic skill in 5 of 6 Belgian, Chinese and U.S. grade samples, though not among Chinese 8th graders
+description: Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic in Belgian, Chinese and U.S. 6th and 8th graders, except Chinese 8th graders.
 id: fraction-magnitude-predicts-achievement-three-continents
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement in Belgium, China, and the U.S. even when fraction arithmetic skill is statistically controlled
+# Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic skill in 5 of 6 Belgian, Chinese and U.S. grade samples, though not among Chinese 8th graders
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` In 5 of 6 Country × Grade combinations, adding number line estimation to fraction arithmetic accuracy considerably increased explained variance in mathematics achievement. [→ Torbeyns 2015](#torbeyns-2015)
+`q3 i?` In 5 of 6 Country × Grade combinations (all except Chinese 8th graders), adding number line estimation to fraction arithmetic accuracy considerably increased explained variance in mathematics achievement. [→ Torbeyns 2015](#torbeyns-2015)
 `q3 i?` When number line PAE was entered first, adding fraction arithmetic increased explained variance in the U.S. sample only. [→ Torbeyns 2015](#torbeyns-2015)
 
 ## Evidence
@@ -36,7 +36,7 @@ Torbeyns, J., Schneider, M., Xin, Z., & Siegler, R. S. (2015). Bridging the Gap:
 
 `q3 · i?` · `associational · r2`
 
-Hierarchical regression analyses in the cross-sectional study of 187 Belgian, Chinese, and U.S. 6th and 8th graders tested four models predicting country-specific standardized math achievement scores. The article reports that adding number line estimation "considerably increased the explained variance" in 5 of 6 combinations; no effect size is printed for this finding.
+Hierarchical regression analyses in the cross-sectional study of 187 Belgian, Chinese, and U.S. 6th and 8th graders tested four models predicting mathematics achievement, measured by country-specific tests: Flemish standardized achievement tests in Belgium, the school-reported state PSSA in the U.S., and the mid-term mathematics examination score in China. The article reports that adding number line estimation "considerably increased the explained variance" in 5 of 6 combinations, all except Chinese 8th graders; no effect size is printed for this finding. The authors call the evidence clear for Belgian 6th and 8th graders, Chinese 6th graders and U.S. 8th graders, less straightforward for U.S. 6th graders (fraction arithmetic and number line estimation were equally important), and absent for Chinese 8th graders, for whom neither fraction magnitude understanding nor fraction arithmetic predicted achievement, possibly because of their high performance and small variance on the fraction tasks.
 
 > "When fraction arithmetic accuracy was first entered as a predictor of mathematics achievement, adding number line estimation considerably increased the explained variance in overall mathematics achievement in 5 of the 6 Country × Grade combinations (all except among Chinese 8th graders)."
 

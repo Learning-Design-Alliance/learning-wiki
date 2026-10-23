@@ -53,9 +53,9 @@ Stephen R. Earl, Ian M. Taylor, Carla Meijen and Louis Passfield (2016). Autonom
 
 `q2 · i?` · `associational · r2`
 
-Indirect effect calculated within the structural equation model of the cross-sectional survey: teacher psychological control "negatively predicted pupils’ subjective 329 vitality through competence frustration (β = -.38, p < .001)".
+Indirect effect calculated within the structural equation model of the cross-sectional survey: teacher psychological control "negatively predicted pupils’ subjective vitality through competence frustration (β = -.38, p < .001)".
 
-> "Teacher psychological control negatively predicted pupils’ subjective 329 vitality through competence frustration (β = -.38, p < .001)."
+> "Teacher psychological control negatively predicted pupils’ subjective vitality through competence frustration (β = -.38, p < .001)."
 
 ### Stephen R. Earl 2016 (2)
 
@@ -65,7 +65,7 @@ Stephen R. Earl, Ian M. Taylor, Carla Meijen and Louis Passfield (2016). Autonom
 
 Indirect effect within the same structural equation model: teacher psychological control "positively predicted pupil active disengagement through the autonomy frustration (β = .07, p < .05)".
 
-> "Teacher psychological control 330 positively predicted pupil active disengagement through the autonomy frustration (β = .07, p 331 < .05)."
+> "Teacher psychological control positively predicted pupil active disengagement through the autonomy frustration (β = .07, p < .05)."
 
 ### Stephen R. Earl 2016 (3)
 
@@ -75,7 +75,7 @@ Stephen R. Earl, Ian M. Taylor, Carla Meijen and Louis Passfield (2016). Autonom
 
 Indirect effect within the same structural equation model: teacher psychological control "predicted passive disengagement through competence frustration and reduced feelings of vitality (β = .06, p < .001)".
 
-> "Teacher psychological control predicted passive disengagement through competence 332 frustration and reduced feelings of vitality (β = .06, p < .001)."
+> "Teacher psychological control predicted passive disengagement through competence frustration and reduced feelings of vitality (β = .06, p < .001)."
 
 ## Discussion
 

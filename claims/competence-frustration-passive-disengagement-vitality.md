@@ -46,7 +46,7 @@ Stephen R. Earl, Ian M. Taylor, Carla Meijen and Louis Passfield (2016). Autonom
 
 Indirect effect computed within the study's structural equation model of the cross-sectional survey: competence frustration "found to predict pupil passive disengagement through reduced subjective vitality (β = .08, p < .001)".
 
-> "Competence frustration was 333 found to predict pupil passive disengagement through reduced subjective vitality (β = .08, p < 334 .001)."
+> "Competence frustration was found to predict pupil passive disengagement through reduced subjective vitality (β = .08, p < .001)."
 
 ### Stephen R. Earl 2016 (2)
 
@@ -54,9 +54,9 @@ Stephen R. Earl, Ian M. Taylor, Carla Meijen and Louis Passfield (2016). Autonom
 
 `q2 · i?` · `associational · r2`
 
-Primary structural model path from the SEM of pupil and teacher questionnaires: "competence frustration negatively predicted 313 feelings of pupil vitality which, in turn, negatively predicted passive disengagement", consistent with the hypothesised vitality mechanism.
+Primary structural model path from the SEM of pupil and teacher questionnaires: "competence frustration negatively predicted feelings of pupil vitality which, in turn, negatively predicted passive disengagement", consistent with the hypothesised vitality mechanism.
 
-> "Furthermore, and in line with our hypothesis, competence frustration negatively predicted 313 feelings of pupil vitality which, in turn, negatively predicted passive disengagement."
+> "Furthermore, and in line with our hypothesis, competence frustration negatively predicted feelings of pupil vitality which, in turn, negatively predicted passive disengagement."
 
 ## Discussion
 

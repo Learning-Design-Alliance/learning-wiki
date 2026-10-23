@@ -48,7 +48,7 @@ Correlational analyses across the six Country × Grade groups (Table 3) showed i
 - [Proportional Reasoning](../learner-variables/proportional-reasoning.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement in Belgium, China, and the U.S. even when fraction arithmetic skill is statistically controlled](fraction-magnitude-predicts-achievement-three-continents.md) — related
+- [Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic skill in 5 of 6 Belgian, Chinese and U.S. grade samples, though not among Chinese 8th graders](fraction-magnitude-predicts-achievement-three-continents.md) — related
 - [The relation between fraction magnitude understanding and mathematics achievement is a general cognitive characteristic, not attributable to specifics of the U.S. educational system, though instruction quality may strengthen or weaken it](magnitude-achievement-relation-general-cognitive.md) — related
 - [Number line estimation and numerical magnitude comparison correlate with mathematics achievement (r = .24 to .44), with number line estimation more strongly related in older children](number-sense-tasks-correlate-with-math-achievement.md) — a broader claim this one bears on
 - [The three estimation tasks do not represent the same construct in young children and should not be combined into composites](estimation-tasks-not-same-construct-kindergarten.md) — related

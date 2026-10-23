@@ -48,7 +48,7 @@ The study's correlational and hierarchical regression analyses across Belgian, C
 - [Proportional Reasoning](../learner-variables/proportional-reasoning.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement in Belgium, China, and the U.S. even when fraction arithmetic skill is statistically controlled](fraction-magnitude-predicts-achievement-three-continents.md) — possibly the same claim (merge candidate)
+- [Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic skill in 5 of 6 Belgian, Chinese and U.S. grade samples, though not among Chinese 8th graders](fraction-magnitude-predicts-achievement-three-continents.md) — possibly the same claim (merge candidate)
 - [Fraction magnitude comparison correlated with general math achievement only in the U.S. samples, indicating number line estimation and magnitude comparison tap partly different aspects of fraction magnitude understanding](magnitude-comparison-task-validity-fractions.md) — related
 - [Arithmetic skill may predict algebra understanding better than fraction conceptual knowledge or magnitude understanding](arithmetic-predicts-algebra-better-than-fraction-knowledge.md) — related
 - [Fraction knowledge is consistently linked to algebra success, though findings vary by measure](fraction-knowledge-predicts-algebra.md) — related

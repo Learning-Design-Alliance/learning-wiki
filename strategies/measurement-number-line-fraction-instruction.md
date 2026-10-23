@@ -42,7 +42,7 @@ Because fraction magnitude understanding is central to mathematics achievement, 
 
 ## Claims
 
-- [Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement in Belgium, China, and the U.S. even when fraction arithmetic skill is statistically controlled](../claims/fraction-magnitude-predicts-achievement-three-continents.md) [+M]
+- [Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic skill in 5 of 6 Belgian, Chinese and U.S. grade samples, though not among Chinese 8th graders](../claims/fraction-magnitude-predicts-achievement-three-continents.md) [+M]
 - [The relation between fraction magnitude understanding and mathematics achievement is a general cognitive characteristic, not attributable to specifics of the U.S. educational system, though instruction quality may strengthen or weaken it](../claims/magnitude-achievement-relation-general-cognitive.md) [+W]
 - [Number line estimation and numerical magnitude comparison correlate with mathematics achievement (r = .24 to .44), with number line estimation more strongly related in older children](../claims/number-sense-tasks-correlate-with-math-achievement.md) [+M]
 

@@ -82519,12 +82519,12 @@
 "type":"claim"
 },
 {
-"description":"Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement in Belgium, China, and the U.S.",
+"description":"Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic in Belgian, Chinese and U.S. 6th and 8th graders, except Chinese 8th graders.",
 "evidence_strength":"moderate",
 "id":"fraction-magnitude-predicts-achievement-three-continents",
 "path":"claims/fraction-magnitude-predicts-achievement-three-continents.md",
 "status":"review",
-"title":"Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement in Belgium, China, and the U.S. even when fraction arithmetic skill is statistically controlled",
+"title":"Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic skill in 5 of 6 Belgian, Chinese and U.S. grade samples, though not among Chinese 8th graders",
 "type":"claim"
 },
 {

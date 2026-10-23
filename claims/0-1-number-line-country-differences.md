@@ -45,4 +45,4 @@ A 3 (Country) × 2 (Grade) ANOVA on percentage absolute error in the 187-student
 
 ## Related Claims
 - [On the more difficult 0-5 number line task, Chinese students estimated more accurately than Belgian students, who in turn estimated more accurately than U.S. students](0-5-number-line-china-belgium-us-ordering.md) — related
-- [Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement in Belgium, China, and the U.S. even when fraction arithmetic skill is statistically controlled](fraction-magnitude-predicts-achievement-three-continents.md) — related
+- [Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic skill in 5 of 6 Belgian, Chinese and U.S. grade samples, though not among Chinese 8th graders](fraction-magnitude-predicts-achievement-three-continents.md) — related

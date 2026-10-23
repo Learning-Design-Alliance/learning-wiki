@@ -35,7 +35,7 @@ Oudman, S., van de Pol, J., Janssen, E., & van Gog, T. (2024). Primary school st
 
 `q3 · i?` · `causal · r1`
 
-Descriptive statistics from Table 1 (N = 564) showing SOJ-m means of 4.51 (multiplication) and 4.56 (division) and SOJ-r means of 4.91 and 5.06 before self-scoring on a 6-point scale, rising to 5.29 and 5.30 after self-scoring. High baseline confidence combined with unawareness of judgment accuracy is concerning for self-regulated learning.
+Descriptive statistics from Table 1, from 564 primary school students in 34 classes, of whom 495 were analysed on the multiplication task and 359 on the division task (290 on both): second-order confidence in monitoring judgments (SOJ-m) averaged 4.51 (multiplication) and 4.56 (division), and in regulation judgments (SOJ-r) 4.91 and 5.06, before self-scoring on a 6-point scale; SOJ-r rose to 5.29 and 5.30 after self-scoring. The study did not measure whether this confidence changed students' later self-regulated learning behaviour.
 
 > "Before self-scoring, the students felt, on average, already quite confident about their monitoring judgments (means between 4 and 5 out of 6) and about their regulation judgments (means around 5). After self-scoring, students felt, on average, even more confident about their regulation judgments (means between 5 and 6; Table 1)."
 

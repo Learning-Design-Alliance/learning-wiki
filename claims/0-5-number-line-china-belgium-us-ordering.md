@@ -46,4 +46,4 @@ The same Country × Grade ANOVA applied to the 0-5 number line estimation task i
 ## Related Claims
 - [On 0-1 fraction number line estimation, Belgian and Chinese students estimate far more accurately than U.S. students, with no Country × Grade interaction](0-1-number-line-country-differences.md) — related
 - [Fraction division showed large country differences (Chinese 91%, Belgian 71%, U.S. 22% correct), while fraction addition showed a Country × Grade interaction](fraction-division-addition-country-differences.md) — related
-- [Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement in Belgium, China, and the U.S. even when fraction arithmetic skill is statistically controlled](fraction-magnitude-predicts-achievement-three-continents.md) — related
+- [Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic skill in 5 of 6 Belgian, Chinese and U.S. grade samples, though not among Chinese 8th graders](fraction-magnitude-predicts-achievement-three-continents.md) — related
