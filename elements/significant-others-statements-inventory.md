@@ -18,7 +18,7 @@ sources:
 # Significant Others Statements Inventory (SOSI)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The SOSI is an eight-subscale instrument measuring children's perceived frequency of positive and negative statements made by parents, teachers, siblings, and peers. In this study only the teacher scales were used, with reported reliabilities of 0.70 for negative statements and 0.81 for positive statements. It was administered to 269 Australian elementary students in grades 3-7; the article attributes the instrument's development to Burnett (1996a).
@@ -39,7 +39,7 @@ The SOSI is an eight-subscale instrument measuring children's perceived frequenc
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [No significant effect on focal students' perceived relationship negativity](../claims/spt-induction-no-student-negativity-effect.md) [~W]
 
 ## Related Elements
 

@@ -51,3 +51,4 @@ Methodological argument, not a tested result: the authors identify criterion-tra
 - [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — related
 - [Proportional measurement of relearning intervals poses a scaling problem for mapping optimal relearning schedules](relearning-interval-scaling-measurement-problem.md) — related
 - [Retrieval practice research extends to determining the optimal amount of practice testing for individual students](optimal-amount-of-practice-testing-individual-students.md) — related
+- [For short maze problems, massed learning effort is more economical than distributed effort in trials, time and errors, for both rats and human adults](short-problems-massed-effort-more-economical.md) — related

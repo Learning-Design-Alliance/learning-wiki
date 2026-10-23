@@ -67,3 +67,4 @@ End-of-year-1 classroom observations in the Kim et al. (2011) randomized trial f
 - [Classroom observations confirmed that SRI teachers modeled and evaluated strategies more frequently than control teachers](sri-implementation-observations-modeling-evaluation.md) — related
 - [An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration](stella-comparison-pd-equivalent-implementation-ratings.md) — related
 - [CW-FIT substantially increases teacher praise statements but shows no statistically significant effect on some reprimand measures](cw-fit-increases-teacher-praise-not-reprimands.md) — related
+- [Intervention schools showed significantly higher observed positive interdependence in classrooms than control schools](cooperative-learning-fidelity-positive-interdependence-observed.md) — related

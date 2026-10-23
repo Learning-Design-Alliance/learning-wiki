@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 59 claims (35 show a difference, 14 mixed, 10 no difference) · 43 studies (12 causal, 10 review, 9 associational, 8 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 12 of 43 report an effect size · 58 claims rest on one study
+> **Evidence** · 62 claims (37 show a difference, 14 mixed, 11 no difference) · 44 studies (13 causal, 10 review, 9 associational, 8 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 12 of 44 report an effect size · 61 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -99,6 +99,9 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Phonological awareness accounted for more unique variance in reading accuracy than RAN in the orthographies studied, while English was the only orthography where RAN added substantial unique variance (14.2%) and total explained variance was highest (39%)](../claims/reading-accuracy-predictors-english-ran-exception.md) [~M] — instruction changes it
 - [RAN explained more unique variance in reading speed than phonological measures in English, French, German and Hungarian (16.7 to 22.8%), with Finnish the exception where all proximal factors contributed low, roughly equal amounts](../claims/ran-strongest-reading-speed-predictor-five-orthographies.md) [~M] — instruction changes it
 - [Reading comprehension is only marginally explained by reading fluency, with no group-by-fluency interaction](../claims/fluency-marginally-explains-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Comprehension (ideas recalled) shows very little difference across slow, normal, and rapid silent reading rates](../claims/reading-rate-little-comprehension-difference.md) [-M] — learners who differ on it differ in outcomes
+- [Instructed slow reading ran about 40% below normal rate and rapid reading about 16% below normal time, fairly uniformly across groups except seventh graders](../claims/rate-manipulation-magnitude-groups.md) [+M] — instruction changes it
+- [Rapid reading gains about 26% more ideas per second than normal reading, and slow reading about 20% fewer, in all four groups](../claims/ideas-per-second-rapid-reading-advantage.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

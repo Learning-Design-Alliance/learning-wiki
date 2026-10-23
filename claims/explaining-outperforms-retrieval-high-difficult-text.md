@@ -49,3 +49,4 @@ Planned contrast within the ANCOVA on inference-based questions in the high-diff
 - [Text difficulty moderates the effect of explaining modality: oral explaining outperforms written explaining on inference-based questions only for the high-difficult text](text-difficulty-moderates-explaining-modality-effect.md) — related
 - [For the low-difficult text, oral explaining, written explaining, and retrieval practice yield comparable learning outcomes](low-difficult-text-no-modality-differences.md) — related
 - [Oral explaining yields more accurate meta-comprehension judgments than written explaining and retrieval practice](oral-explaining-improves-meta-comprehension-accuracy.md) — related
+- [Explaining was not more effective than oral retrieval practice overall in Experiment 1](explaining-no-better-than-oral-retrieval-practice-exp1.md) — related

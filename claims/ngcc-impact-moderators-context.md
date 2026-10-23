@@ -71,3 +71,4 @@ A second moderator finding from the same set of NGCC impact analyses: comparison
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — a broader claim this one bears on
 - [Students in focus groups were positive about adaptive courseware but reported alignment, access, and reliability concerns](student-focus-group-perceptions-courseware.md) — related
 - [Most instructors using adaptive courseware believed it improved student learning and would use it again](instructors-positive-perceptions-adaptive-courseware.md) — related
+- [General psychology prevails as the prerequisite for educational psychology, with thirty institutions requiring it and some professors suggesting biology instead](general-psychology-prerequisite-thirty-institutions.md) — related

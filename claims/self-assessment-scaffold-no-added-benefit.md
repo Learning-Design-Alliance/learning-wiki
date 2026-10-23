@@ -58,3 +58,4 @@ Between-subjects experiment comparing diagram completion plus self-assessment (n
 - [Multi-agent scaffolding showed no significant difference from the structured control in binary diagnostic accuracy or worksheet completion](no-diagnostic-accuracy-difference.md) — related
 - [Little or no relation between absolute and relative accuracy in metacomprehension research](little-relation-absolute-relative-accuracy.md) — related
 - [Teachers' monitoring accuracy is higher in the name+diagram condition than in the diagram-only condition, opposite to the blinding hypothesis](teacher-monitoring-accuracy-higher-name-plus-diagram-than-diagram-only.md) — related
+- [In-between explaining did not improve metacomprehension accuracy relative to other conditions in either experiment](no-metacomprehension-accuracy-effect-in-between-explaining.md) — related

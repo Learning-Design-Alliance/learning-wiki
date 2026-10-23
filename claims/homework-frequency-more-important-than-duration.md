@@ -47,3 +47,4 @@ Overall conclusion of the causal analysis of the TIMSS 2019 Irish eighth-grade s
 - [Increasing homework duration beyond fifteen minutes shows no clear benefit for mathematics or science achievement](homework-duration-no-clear-benefit.md) — a narrower finding that bears on this claim
 - [Students from advantaged socioeconomic backgrounds do not benefit significantly more from homework than their peers in eighth grade](ses-does-not-moderate-homework-benefit-eighth-grade.md) — related
 - [The optimal homework frequency in science is three or four times per week, with daily science homework showing no significant benefit over the baseline](science-homework-optimal-three-four-times-week.md) — related
+- [The article investigates adolescents' homework performance in mathematics and science in relation to personal factors and teaching practices](homework-performance-math-science-personal-factors-teaching-practices.md) — a broader claim this one bears on

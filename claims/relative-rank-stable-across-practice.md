@@ -44,3 +44,4 @@ Conclusions section, based on the class practice-series records (rank correlatio
 
 ## Related Claims
 - [Integrative models indicate much of the apparent ordinal-rank effect reflects distributionally scaled relative achievement, while contextual means remain the most robust comparative indicator](integrative-contextual-scaling-ordinal-standing-not-sufficient.md) — related
+- [Dearborn's study found university students maintain to a marked degree the same relative ranking they held in high school](dearborn-relative-ranking-maintained-university.md) — related

@@ -49,3 +49,4 @@ The publication abstract states the report "discusses the model's limitations". 
 - [The report documents a value-added method combining nontechnical description of main features with data sources and technical statistical detail](dc-value-added-report-design-features.md) — related
 - [The value-added models used for Oklahoma's spring 2016 results were updated relative to prior years](value-added-model-updates-spring-2016.md) — related
 - [Oklahoma's 2013-2014 teacher value-added estimates combined test scores with other information about teachers and students](oklahoma-value-added-uses-test-scores-and-other-information.md) — related
+- [Snedden argues school reports should inform the public, but available educational statistics cannot answer questions about the relative value of different studies](school-reports-limits-of-educational-statistics.md) — related

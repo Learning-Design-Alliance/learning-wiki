@@ -27,7 +27,7 @@ sources:
 # Build productive instructor-learner relationships so adults feel connected and take an active role in learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (18 for, 7 mixed) · 30 studies (8 associational, 7 causal, 4 review, 4 qualitative, 3 theoretical, 2 quant-synthesis, 2 design), `q1`–`q4` · 2 of 30 report an effect size · 21 claims rest on one study
+> **Evidence** · 27 claims (20 for, 7 mixed) · 31 studies (8 causal, 8 associational, 4 review, 4 qualitative, 3 theoretical, 2 quant-synthesis, 2 design), `q1`–`q4` · 3 of 31 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,8 @@ A good reported relationship, participation, persistence, openness to opposing a
 - [Tutoring activity mix shifts dynamically across a ten-session project, with rapport building highest early and artifact review rising over time](../claims/tutoring-activity-mix-shifts-across-project-sessions.md) [+W]
 - [How students and teachers want to interact with classroom AI largely depends on the teacher-student relationships that exist outside of AI use](../claims/teacher-student-relationships-shape-ai-views.md) [~W]
 - [Student-teacher relationship quality and students' classroom emotions show reciprocal longitudinal associations over one year](../claims/reciprocal-relationship-quality-emotions-associations.md) [+W]
+- [The induction improved treatment teachers' relationships with focal students: more positivity (Cohen's d = 0.41) and less negativity (Cohen's d = -0.52)](../claims/spt-induction-improves-teacher-tsr.md) [+W]
+- [Students of treatment teachers perceived more positive relationships with their teachers (Cohen's d = 0.82)](../claims/spt-induction-raises-student-tsr-positivity.md) [+W]
 
 ## Related Principles
 

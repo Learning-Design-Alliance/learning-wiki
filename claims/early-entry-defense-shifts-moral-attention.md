@@ -43,6 +43,8 @@ This is Winch's author interpretation of English educational debate: belief in e
 
 
 ## Related Claims
+
 - [Early school entry shows no intellectual advantage when comparison groups are of equal intellectual ability, per Winch's monograph](early-entry-no-advantage-equal-ability.md) — related
 - [The monograph's conclusions on entry age were independent of the form of teaching adopted, across schools with different educational attitudes](entry-age-conclusions-independent-of-teaching-form.md) — related
 - [Winch's age-weighted method of measuring school progress cannot test the value of preliminary kindergarten teaching in large American cities](age-weighted-progress-method-scope-limit.md) — related
+- [Ability acquired in one branch of study appears transferable to another to a considerable extent, or else general intellectual and moral attitude matters more than method](transfer-of-study-methods-mature-age.md)

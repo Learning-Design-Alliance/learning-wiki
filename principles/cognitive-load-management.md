@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 80 claims (33 for, 44 mixed, 3 against) · 67 studies (29 causal, 15 review, 10 quant-synthesis, 10 theoretical, 2 associational, 1 design), `q1`–`q4` · 24 of 67 report an effect size · 71 claims rest on one study
+> **Evidence** · 81 claims (33 for, 45 mixed, 3 against) · 68 studies (30 causal, 15 review, 10 quant-synthesis, 10 theoretical, 2 associational, 1 design), `q1`–`q4` · 25 of 68 report an effect size · 72 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Perceived task difficulty relates to cognitive strategy use with both a linear and a negative quadratic (inverted U) component, and the quadratic relationship is fully mediated by cognitive load](../claims/task-difficulty-inverted-u-cognitive-strategies.md) [~W]
 - [Fifth and sixth graders showed higher delayed retention and lower cognitive load when learning science from videos than from illustrated texts](../claims/video-better-retention-lower-load-classroom.md) [~W]
 - [Task complexity has a strong omnibus multivariate effect on performance, GCL, meta-awareness, and intrinsic interest combined](../claims/complexity-omnibus-manova-effect.md) [~W]
+- [In-between learning activities increased invested mental effort in reading the second text unit (Experiment 2)](../claims/in-between-activities-raise-mental-effort-second-text-unit.md) [~W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

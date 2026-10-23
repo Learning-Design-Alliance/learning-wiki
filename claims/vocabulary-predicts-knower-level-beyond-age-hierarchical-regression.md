@@ -70,3 +70,4 @@ Secondary analysis of the Experiment 2 data found the age–knower-level partial
 - [Both receptive and expressive vocabulary correlate with number-word knowledge independent of age, replicating Experiment 1.](receptive-expressive-vocabulary-knower-level-replication.md) — related
 - [Children's knower level of verbal number words is cross-sectionally associated with ANS acuity even after controlling for age and sex](knower-level-correlated-ans-acuity-cross-sectional.md) — related
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
+- [The mediating role of executive functions remains significant when children's temperament and vocabulary are modeled as alternative mediators](ef-mediation-robust-to-temperament-vocabulary.md) — related

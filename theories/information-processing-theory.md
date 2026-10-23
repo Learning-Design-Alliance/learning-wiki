@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 109 claims (56 for, 52 mixed, 1 against) · 67 studies (23 causal, 22 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 14 of 67 report an effect size · 106 claims rest on one study
+> **Evidence** · 110 claims (56 for, 53 mixed, 1 against) · 68 studies (24 causal, 22 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 14 of 68 report an effect size · 107 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -172,6 +172,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Grade level, nonverbal intelligence, and working memory predicted mathematics achievement, explaining 88% of intercept variance but only 16-22% of slope variance](../claims/covariates-predict-math-growth.md) [~W]
 - [Children retain self-derived knowledge over a one-week delay in classroom settings, with performance increasing from Session 1 to Session 2](../claims/retention-self-derived-knowledge-one-week.md) [+M] — attached 2026-10-23 from Bauer et al. (2020), which proposed "Self-derivation through memory integration as a model for accumulation of semantic knowledge"; tests this page's relationship.
 - [Self-derivation through memory integration extends to science curriculum content, with open-ended performance comparable to general-knowledge stimuli](../claims/self-derivation-extends-science-curriculum.md) [+W] — attached 2026-10-23 from Bauer et al. (2020), which proposed "Self-derivation through memory integration as a model for accumulation of semantic knowledge"; tests this page's relationship.
+- [Reordering the groups of facts in a lesson did not change which groups boys answered best: recall followed subject matter, not position](../claims/lesson-fact-order-negligible-recall-effect.md) [~W] — attached 2026-10-23 from Dell (1911), which proposed "Rational learning builds associations by similarity with prior knowledge rather than by contiguity, explaining the absence of serial-position effects for sensible material".
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

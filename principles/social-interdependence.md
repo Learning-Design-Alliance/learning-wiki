@@ -18,7 +18,7 @@ sources:
 # Social Interdependence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (8 for, 12 mixed, 1 against) · 18 studies (5 causal, 5 review, 4 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 18 report an effect size · 17 claims rest on one study
+> **Evidence** · 22 claims (9 for, 12 mixed, 1 against) · 19 studies (6 causal, 5 review, 4 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 19 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,7 @@ Group product quality, individual achievement at the end of a unit, delayed rete
 ## Claims
 
 - [No significant relative pre–post changes for attitudes toward collaborative learning, overall teamwork, or remaining teamwork subscales](../claims/genarch-null-did-collaborative-attitudes-teamwork.md) [-W]
+- [Intervention schools showed significantly higher observed positive interdependence in classrooms than control schools](../claims/cooperative-learning-fidelity-positive-interdependence-observed.md) [+W]
 
 ## Related Principles
 - [Collaborative Learning](collaborative-learning.md)

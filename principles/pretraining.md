@@ -38,7 +38,7 @@ sources:
 # Pre-training Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (7 for, 10 mixed) · 24 studies (10 review, 8 quant-synthesis, 5 causal, 1 theoretical), `q1`–`q4` · 7 of 24 report an effect size · 11 claims rest on one study
+> **Evidence** · 18 claims (7 for, 10 mixed, 1 against) · 25 studies (10 review, 8 quant-synthesis, 6 causal, 1 theoretical), `q1`–`q4` · 7 of 25 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,10 @@ The designer's objective is that learners understand how a system works well eno
 ## What would revise this model?
 
 The expectation should weaken if comparisons with novices, holding total time equal, find no transfer advantage for a primer over teaching the same parts during the lesson; that would locate the effect in extra exposure rather than in the order. It should narrow if studies outside Mayer's programme, in classrooms and with delayed tests, find the effect only on immediate lab tests. It would be extended by studies of the primer's length, of children, and of learners in a second language.
+
+## Claims
+
+- [Neither timing nor learning activity produced significant transfer effects in either experiment](../claims/no-transfer-effects-explaining-timing.md) [-W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

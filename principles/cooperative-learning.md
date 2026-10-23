@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (12 for, 19 mixed) · 30 studies (12 quant-synthesis, 10 causal, 5 review, 2 design, 1 qualitative), `q2`–`q4` · 11 of 30 report an effect size · 24 claims rest on one study
+> **Evidence** · 32 claims (13 for, 19 mixed) · 31 studies (12 quant-synthesis, 11 causal, 5 review, 2 design, 1 qualitative), `q2`–`q4` · 12 of 31 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -77,6 +77,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Cognitive overload degrades learning when coordination demands exceed task benefits.](../claims/cognitive-overload-degrades-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Belonging interventions improve outcomes, particularly for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M] — checked by the judge: all 2 entries pass (abstract)
 - [Prospective teachers' qualitative feedback credited CCCT with communication, teamwork and engagement gains but noted unequal participation and time constraints](../claims/ccct-qualitative-strengths-challenges.md) [~W] — attached 2026-10-10 from Özgür Tutal (2026), which proposed "Structure cooperative learning so that group work embeds the five essential elements rather than merely placing students in groups".
+- [Cooperative learning reduced emotional problems and increased peer relatedness for all students, not only marginalized students](../claims/cooperative-learning-main-effects-emotional-problems-relatedness.md) [+W] — attached 2026-10-23 from Van Ryzin et al. (2018), which proposed "Use cooperative learning as a sustainable, stand-alone component of bullying prevention that does not sacrifice instructional time".
 
 ## Objective and learner-valued goal
 

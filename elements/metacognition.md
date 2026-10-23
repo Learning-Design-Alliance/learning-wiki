@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 15 studies (6 quant-synthesis, 5 causal, 2 review, 2 associational), `q2`–`q4` · 6 of 15 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (7 for, 3 mixed) · 16 studies (6 causal, 6 quant-synthesis, 2 review, 2 associational), `q2`–`q4` · 7 of 16 report an effect size · 4 claims rest on one study
 
 ## Description
 Metacognition is the element in which learners monitor, explain, and regulate their own thinking.
@@ -31,6 +31,7 @@ Metacognition is the element in which learners monitor, explain, and regulate th
 - [Related decorative pictures improve metacognitive monitoring accuracy for knowledge items in eighth-graders (Experiment 2), but not for transfer items](../claims/related-pictures-improve-metacognitive-monitoring-exp2.md) [~W]
 - [Completing the think sheet more accurately was associated with higher comprehension, transfer, and regulation decision adequacy](../claims/think-sheet-quality-relates-outcomes.md) [+W]
 - [Sixth-graders' own monitoring accuracy is low and does not differ between no-cue, keyword, and summary cue-prompt conditions (Experiment 1).](../claims/student-monitoring-accuracy-low-no-cue-prompt-effect-exp1.md) [~W]
+- [In-between explaining triggered more monitoring of knowledge gaps than after-study explaining (Experiment 1)](../claims/in-between-explaining-increases-monitoring-activities.md) [+W]
 
 ## The evidence by question
 - *Does teaching learners to plan, monitor and evaluate their own learning improve their achievement?* [Metacognitive Strategies Improve Learning](../claims/metacognitive-strategies-improve-learning.md) [+S]

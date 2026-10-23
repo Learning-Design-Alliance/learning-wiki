@@ -85,3 +85,4 @@ The Watts, Duncan, and Quan (2018) replication is an important corrective to the
 - [A majority of young children make choices consistent with hyperbolic discounting, preferring immediate over larger delayed rewards](children-hyperbolic-discounting-bettinger-slonim.md)
 - [Actively withholding the hands from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](hands-withholding-predicts-toddler-delay-success.md) — related
 - [Children's self-regulation and intrapersonal skills such as emotional control, adaptability and optimism are linked to more successful transitions, and negative pre-transfer expectations tend to be self-fulfilling](intrapersonal-skills-linked-transition-success.md) — related
+- [Indirect effects via executive functions hold for CPT inhibition, sustained attention, and delay of gratification indicators but not the Day-Night Stroop](stroop-indicator-mediation-nonsignificant.md) — related

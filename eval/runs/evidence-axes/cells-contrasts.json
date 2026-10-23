@@ -40794,5 +40794,65 @@
  "scaffolding\tdifferentiated instruction in more heterogeneous German classes\tless differentiated instruction in less heterogeneous German classes": {
   "label": "More differentiated instruction vs less differentiated instruction",
   "treatment_is_a": true
+ },
+ "active-learning\tlectures and laboratory\tlecturing only": {
+  "label": "active learning vs lecture-only instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstructured cooperative learning\twaitlist control": {
+  "label": "active learning vs waitlist control",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tearly autonomy-supportive parenting\tcontrolling parenting": {
+  "label": "more autonomy-supportive vs more controlling parenting",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher early maternal autonomy support\tmore controlling maternal parenting": {
+  "label": "more autonomy-supportive vs more controlling parenting",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher maternal autonomy support\tlower autonomy support or controlling parenting": {
+  "label": "more autonomy-supportive vs less autonomy-supportive parenting",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher maternal autonomy support during the first 3 years of life\tlower maternal autonomy support / more controlling parenting": {
+  "label": "more autonomy-supportive vs less autonomy-supportive parenting",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tmaternal autonomy support during the first 3 years\tmaternal warmth and cognitive stimulation covaried": {
+  "label": "autonomy-supportive vs less autonomy-supportive parenting, controlling for warmth and cognitive stimulation",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\texplaining the learning contents\toral free recall": {
+  "label": "oral free recall vs explaining the learning contents",
+  "treatment_is_a": false
+ },
+ "spacing\tmassed learning of separate maze units followed by massed connection\tdistributed learning of separate maze units": {
+  "label": "spaced vs massed",
+  "treatment_is_a": false
+ },
+ "spacing\tmassed practice\tdistributed practice": {
+  "label": "spaced vs massed",
+  "treatment_is_a": false
+ },
+ "spacing\tmassed practice of maze sections\tdistributed practice of maze sections": {
+  "label": "spaced vs massed",
+  "treatment_is_a": false
+ },
+ "spacing\tmassed practice on maze sections\tdistributed practice on maze sections": {
+  "label": "spaced vs massed",
+  "treatment_is_a": false
+ },
+ "spacing\tmassed practice on short maze sections\tdistributed practice on short maze sections": {
+  "label": "spaced vs massed",
+  "treatment_is_a": false
+ },
+ "spacing\tpart method with massed effort\twhole method with distributed effort": {
+  "label": "spaced vs massed",
+  "treatment_is_a": false
+ },
+ "spacing\tpart method with massed effort\twhole method with massed effort": {
+  "label": "no spacing contrast (massed vs massed)",
+  "treatment_is_a": false
  }
 }

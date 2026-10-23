@@ -53,3 +53,4 @@ Synthesis of randomized trials with tens of thousands of students, including two
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [Cross-school variability in the GPA treatment effect was significant while variability in the mindset treatment effect was not](heterogeneous-gpa-effects-homogeneous-mindset-effects.md) — related
 - [Growth-mindset intervention gains varied by school context, being greatest where peer norms favored seeking challenge and in lower-achieving schools](mindset-gains-vary-school-context.md) — related
+- [The intervention's effect on math/science course interest and grades was tested as a main effect and as moderated by math/science identity](interest-intervention-effect-tested-main-effect-and-identity-moderation.md) — a narrower finding that bears on this claim

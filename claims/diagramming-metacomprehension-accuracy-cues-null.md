@@ -63,3 +63,4 @@ The introduction reports, citing Pijeira-Díaz et al. (this issue), a three-cond
 - [Delayed diagram completion improves students' relative monitoring accuracy of text comprehension compared with no diagramming](delayed-diagram-completion-improves-relative-monitoring-accuracy.md) — related
 - [Receiving two model answer diagrams improves secondary students' delayed-diagramming text comprehension relative to no model answers](two-model-answers-improve-comprehension-delayed-diagramming.md) — related
 - [Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming](model-answers-no-monitoring-accuracy-effect.md) — related
+- [In-between explaining did not improve metacomprehension accuracy relative to other conditions in either experiment](no-metacomprehension-accuracy-effect-in-between-explaining.md) — related
