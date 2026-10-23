@@ -35,7 +35,7 @@ Martin Andrew J., Ginns Paul, Collie Rebecca J. (2023). University students in C
 
 `q3 · i3` · `associational · r2`
 
-In the same fully-forward SEM of 500 students, adaptability (Adaptability Scale – Short, self-reported) showed the model's largest paths: "β = 0.54, p ≤ .001; large effect" on self-efficacy plus direct paths to all three engagement dimensions, beyond lockdown, fluid reasoning, and covariates.
+In the same fully-forward SEM of 500 students, adaptability (Adaptability Scale – Short, self-reported) significantly predicted self-efficacy ("β = 0.54, p ≤ .001; large effect") and had direct paths to all three engagement dimensions, beyond lockdown, fluid reasoning, and covariates. The authors call it "the most salient factor in the model", though it did not carry the model's largest path: self-efficacy's path to aspirations was larger (β = 0.73). The data were cross-sectional, so these paths are associations, not evidence that adaptability causes the outcomes.
 
 > "Perceived adaptability significantly predicted self-efficacy (β = 0.54, p ≤ .001; large effect)—and also participation (β = 0.36, p ≤ .001; large effect), aspirations (β = 0.16, p = .04; medium effect), and enjoyment (β = 0.33, p ≤ .001; large effect)."
 
