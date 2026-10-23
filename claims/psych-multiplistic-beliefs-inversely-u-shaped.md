@@ -9,8 +9,8 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 sources:
-  - id: rosman-2019
-    title: "Rosman, T., Mayer, A.-K., Kerwer, M., & Krampen, G. (2019). The differential development of epistemic beliefs in psychology and computer science students: A four-wave longitudinal study. Learning and Instruction."
+  - id: rosman-2017
+    title: "Rosman, T., Mayer, A.-K., Kerwer, M., & Krampen, G. (2017). The differential development of epistemic beliefs in psychology and computer science students: A four-wave longitudinal study. Learning and Instruction, 49, 166-177. https://doi.org/10.1016/j.learninstruc.2017.01.006"
     author: "Rosman, T., Mayer, A.-K., Kerwer, M., & Krampen, G."
     q: 3
     i: "?"
@@ -24,13 +24,13 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` In psychology, an initial increase in multiplistic beliefs (knowledge as subjective 'opinions') was followed by a steep decrease. [→ Rosman 2019](#rosman-2019)
+`q3 i?` In psychology, an initial increase in multiplistic beliefs (knowledge as subjective 'opinions') was followed by a steep decrease. [→ Rosman 2017](#rosman-2017)
 
 ## Evidence
 
-### Rosman 2019
+### Rosman 2017
 
-Rosman, T., Mayer, A.-K., Kerwer, M., & Krampen, G. (2019). The differential development of epistemic beliefs in psychology and computer science students: A four-wave longitudinal study. Learning and Instruction.
+Rosman, T., Mayer, A.-K., Kerwer, M., & Krampen, G. (2017). The differential development of epistemic beliefs in psychology and computer science students: A four-wave longitudinal study. *Learning and Instruction, 49*, 166–177. [doi:10.1016/j.learninstruc.2017.01.006](https://doi.org/10.1016/j.learninstruc.2017.01.006)
 
 `q3 · i?` · `associational · r2`
 
