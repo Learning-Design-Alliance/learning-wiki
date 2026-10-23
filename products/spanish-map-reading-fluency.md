@@ -42,7 +42,8 @@ Spanish MAP Reading Fluency is NWEA's adaptive Spanish-language assessment for o
 - [MAP Reading Fluency SWCPM scores classify students into ARM proficiency categories with exact match rates of 74.6–90.8%, kappa 0.60–0.85, and overall accuracy 0.81–0.96](../claims/swcpm-classification-accuracy-arm-proficiency.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Salzburger Lesescreening (SLS) reading fluency test](salzburger-lesescreening-sls-reading-fluency-test.md)
 
 ## Key Sources
 - NWEA. (2025). Spanish MAP Reading Fluency Content Guide. https://www.nwea.org/research/publication/spanish-map-reading-fluency-content-guide/

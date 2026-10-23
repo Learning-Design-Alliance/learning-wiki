@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 174 claims (124 show a difference, 33 mixed, 17 no difference) · 114 studies (41 associational, 22 review, 21 causal, 9 quant-synthesis, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 28 of 114 report an effect size · 168 claims rest on one study
+> **Evidence** · 175 claims (125 show a difference, 33 mixed, 17 no difference) · 115 studies (41 associational, 22 review, 21 causal, 10 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 28 of 115 report an effect size · 169 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -214,6 +214,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Competence frustration correlates with passive but not active disengagement, while autonomy frustration correlates with both](../claims/competence-frustration-not-correlated-active-disengagement.md) [~M] — learners who differ on it differ in outcomes
 - [Competence frustration is indirectly and positively associated with teacher-rated passive disengagement via reduced subjective vitality](../claims/competence-frustration-passive-disengagement-vitality.md) [+M] — learners who differ on it differ in outcomes
 - [Teacher psychological control relates indirectly to reduced vitality and to both disengagement forms through the two need frustrations](../claims/teacher-control-indirect-disengagement-pathways.md) [+M] — instruction changes it
+- [Students regulate feedback emotions through a three-step process: experiencing emotion, reconnecting to the profession, and processing emotion and information](../claims/three-step-emotion-regulation-feedback.md) [+M] — instruction changes it
 
 ## The evidence by question
 

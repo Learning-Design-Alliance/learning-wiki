@@ -12,7 +12,7 @@ generated:
 # Developmental Research Designs — Cross-Sectional, Longitudinal, and Sequential
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (2 for, 4 mixed, 1 against) · 7 studies (5 associational, 2 review), `q2`–`q3` · 1 of 7 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (2 for, 5 mixed, 1 against) · 8 studies (6 associational, 2 review), `q2`–`q3` · 1 of 8 report an effect size · 8 claims rest on one study
 
 ## Description
 Research design is the strategy or blueprint for deciding how to collect and analyze information, distinct from the specific methods used to gather it; when the goal is examining change over time, three designs are available, each with a different cost and a different vulnerability.
@@ -48,6 +48,7 @@ Research design is the strategy or blueprint for deciding how to collect and ana
 - [Metacognitive knowledge scores increased cumulatively over time, and the time-by-ethnic-group interaction showed Han and Yao students followed different MCK development trends](../claims/mck-cumulative-growth-group-interaction.md) [~W]
 - [Cross-sectional age relations show monotonic decline in fluid cognition (age-reasoning correlation about −0.40) but stability followed by decline for acquired knowledge](../claims/age-fluid-decline-knowledge-stable.md) [+W]
 - [Longitudinal subject attrition produces systematic baseline differences among continuing, dropout, and non-participating students](../claims/longitudinal-attrition-systematic-baseline-differences.md) [-W]
+- [Participants who dropped out of the four-wave study reported more peer victimization at the first time point than those who participated at all time points](../claims/attrition-higher-peer-victimization.md) [~W]
 
 ## The evidence by question
 - *When a study follows learners over time and some drop out or stop being tested, can the results for those who remain be read as results for the whole group?* [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](../claims/covid-achievement-impacts-likely-underestimated-attrition.md) [+M]

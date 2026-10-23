@@ -79,3 +79,5 @@ Longitudinal study of a racially/ethnically and linguistically diverse sample of
 - [Executive functioning and early numeracy skills assessed in kindergarten directly predict mathematical performance in second grade, jointly explaining 57.3% of its variance](ef-and-early-numeracy-directly-predict-grade-2-math.md) — related
 - [Bidirectional EF–mathematics relationships are reported but the longitudinal evidence is mixed and method-dependent](ef-math-bidirectionality-mixed.md) — related
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — a broader claim this one bears on
+- [With covariates, early and intermediate EF groups become indistinguishable in math level and growth, but the later EF group's disadvantage remains](covariates-early-intermediate-overlap-later-distinct.md) — related
+- [Early EF developers start pre-k with higher math levels than intermediate and later developers and maintain that advantage over time](early-ef-developers-higher-math-advantage-maintained.md) — related

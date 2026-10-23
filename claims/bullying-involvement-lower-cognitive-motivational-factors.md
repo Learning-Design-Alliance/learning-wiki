@@ -106,3 +106,4 @@ Subgroup meta-analysis restricted to bullies only (k = 2). No statistically sign
 - [The BPP intervention was followed by a large reduction in bullying victimisation at the research school relative to the control school](bpp-reduced-victimisation-versus-control.md) — related
 - [The bullying-achievement and mediation associations are moderated by design, assessment method, country, age and bullying type](moderators-of-bullying-achievement-association.md) — related
 - [Academic achievement predicts disaffection but not behavioral/cognitive or emotional engagement at the between-student level](achievement-predicts-disaffection-not-engagement.md) — related
+- [Peer victimization shows no statistically significant association with the level or change of either controlled or autonomous academic motivation across the secondary school transition](peer-victimization-no-motivation-association.md) — related

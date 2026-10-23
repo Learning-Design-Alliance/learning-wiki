@@ -40662,5 +40662,49 @@
  "media-design\tsame main characters across paired passages\tdifferent main characters across paired passages": {
   "label": "same characters vs different characters",
   "treatment_is_a": true
+ },
+ "active-learning\tDialogic lesson series\tNon-Dialogic lesson series": {
+  "label": "active learning vs passive learning",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative person-focused feedback\tnegative task-focused feedback": {
+  "label": "person-focused vs task-focused feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative task-focused feedback with clues for improvement\tnegative task-focused feedback without clues for improvement": {
+  "label": "task-focused feedback with improvement clues vs without improvement clues",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative task-focused feedback with clues for improvement\tnegative task-focused feedback without identified improvement clues": {
+  "label": "task-focused feedback with improvement clues vs without improvement clues",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative task-focused feedback with improvement clues\tnegative task-focused feedback without improvement clues": {
+  "label": "task-focused feedback with improvement clues vs without improvement clues",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpositive feedback focused on the student as a person\tnegative feedback focused on the student as a person": {
+  "label": "positive vs negative person-focused feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpositive person-focused feedback\tnegative person-focused feedback": {
+  "label": "positive vs negative person-focused feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tprocess-based feedback\tno feedback control": {
+  "label": "process-based feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tproduct-based feedback\tno feedback control": {
+  "label": "product-based feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\trubric-based feedback\tno feedback control": {
+  "label": "rubric-based feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\trubric-based feedback\tno, process-based, or product-based feedback": {
+  "label": "rubric-based feedback vs non-rubric-based, no, process-based, or product-based feedback",
+  "treatment_is_a": true
  }
 }

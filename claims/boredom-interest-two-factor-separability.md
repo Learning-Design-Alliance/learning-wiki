@@ -47,3 +47,4 @@ CFA model comparisons across four waves in a sample of German secondary students
 - [Negative boredom–interest factor correlations grew stronger over the four waves, indicating increasing divergence during secondary school](boredom-interest-correlations-increase-over-waves.md) — related
 - [Higher earlier interest is associated with later decreases in boredom across grades 5–8, at every wave in mathematics and all but the last in German](earlier-interest-predicts-lower-later-boredom.md) — related
 - [Earlier boredom predicts positive changes in later interest from the second measurement point onward](earlier-boredom-predicts-increased-later-interest.md) — related
+- [Mathematics enjoyment decreases and boredom increases from first to third grade, while mean enjoyment stays fairly high and boredom low](enjoyment-decreases-boredom-increases-grades-1-3.md) — related

@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1862 entries** · 0 stable · 1862 in review · 0 drafts
+**1863 entries** · 0 stable · 1863 in review · 0 drafts
 
 ---
 
@@ -1455,6 +1455,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Saga Math](saga-math.md) - Saga Math is an in-school, high-dosage mathematics tutoring programme for secondary students, offered in small-group traditional and technology-enhanced models and implemented by Saga Education.
 * [SageModeler](sagemodeler.md) - SageModeler is a free, web-based, open-source computational modeling tool developed by the Concord Consortium for supporting K–12 learners in building, revising, and visualizing models without coding.
 * [SAILS](sails.md) - SAILS is a computer-based senior-year remedial mathematics curriculum and programme operated through Tennessee’s secondary–postsecondary education system to help students complete college-level math requirements before enrollment.
+* [Salzburger Lesescreening (SLS) reading fluency test](salzburger-lesescreening-sls-reading-fluency-test.md) - A standardized, timed reading-fluency assessment in which students judge the substantive correctness of sentences, used with elementary school learners and administered by trained educators or research staff.
 * [Sample Size Guide](sample-size-guide.md) - A Mathematica planning guide prepared for the Gates Foundation that helps education solution developers consider sample-size requirements across design, refinement, early-evidence, and effectiveness-validation phases.
 * [Save the Tree of Life](save-the-tree-of-life.md) - A study-developed online game-based training program delivered through the eLea platform to teach inductive reasoning through mathematical tasks.
 * [SAVVY interactive visual analytics system](savvy-interactive-visual-analytics-system.md) - SAVVY is a research-developed interactive visual analytics system that helps teachers analyze student attention patterns and revise instructional videos.

@@ -50,3 +50,4 @@ Theoretical argument from the article's abstract, presented as the second perspe
 - [Emotion may affect intrinsic cognitive load, for example when emotion regulation is part of the learning outcomes](emotion-as-intrinsic-load-emotion-regulation.md) — related
 - [A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges](shared-resource-storage-processing-wm.md) — related
 - [A dual-channel assumption for emotions is discussed as part of integrating emotion into cognitive load theory](dual-channel-assumption-emotions-clt.md) — related
+- [Students regulate feedback emotions through a three-step process: experiencing emotion, reconnecting to the profession, and processing emotion and information](three-step-emotion-regulation-feedback.md) — related

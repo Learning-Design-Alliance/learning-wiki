@@ -49,3 +49,4 @@ Structural equation modeling of 180 children assessed at T1 (kindergarten) and T
 - [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
 - [Bidirectional EF–mathematics relationships are reported but the longitudinal evidence is mixed and method-dependent](ef-math-bidirectionality-mixed.md) — related
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — a broader claim this one bears on
+- [Children who develop EF later start preschool with the lowest math levels and do not catch up to early or intermediate EF developers through second grade](covariates-early-intermediate-overlap-later-distinct.md) — related

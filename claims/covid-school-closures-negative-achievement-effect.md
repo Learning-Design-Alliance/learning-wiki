@@ -56,3 +56,5 @@ Systematic review synthesis of eleven studies meeting inclusion criteria (data c
 - [Achievement declines from 2019 to 2022 were larger for students in high-poverty schools than in low-poverty schools in grades 1–2](early-elementary-covid-losses-school-poverty-disparities.md) — related
 - [Covid-19 school closures depressed student achievement on average by about 0.19 standard deviations](covid-closures-average-learning-deficit-0-19-sd.md) — related
 - [One year or more after the first lockdown, students had not recovered the learning deficits caused by Covid-19 school closures](covid-no-catch-up-one-year-after-lockdown.md) — related
+- [The COVID cohort scored significantly lower than the control cohort across the whole study duration](covid-cohort-lower-overall-reading-fluency-group-effect.md) — a narrower finding that bears on this claim
+- [Meta-analytic evidence attributes average COVID learning losses of roughly -0.09 to -0.18 SD, larger in mathematics than reading](meta-analytic-covid-learning-losses-math-exceed-reading.md) — related

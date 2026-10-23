@@ -45,3 +45,4 @@ SES-grouped regression analysis of Grades 2–8 learning loss by domain (Fig. 7)
 ## Related Claims
 - [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later](kindergarten-closure-numeracy-loss.md) — related
 - [No SES difference was found in kindergarten children's learning loss for reading precursors and inductive reasoning](no-ses-gap-reading-reasoning-loss.md) — related
+- [The COVID cohort scored significantly lower than the control cohort across the whole study duration](covid-cohort-lower-overall-reading-fluency-group-effect.md) — related

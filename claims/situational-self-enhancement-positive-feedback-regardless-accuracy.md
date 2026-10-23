@@ -46,3 +46,4 @@ Second laboratory experiment in which self-enhancement motivation was situationa
 - [Participants high (vs. low) in desire for positive evaluation exhibit an enhanced preference for positive feedback, mainly when their self-perception is positive](desire-positive-evaluation-enhances-positive-feedback-preference.md) — related
 - [Self-protection and self-enhancement motives lead perceivers to sacrifice accuracy in person perception](self-enhancement-sacrifices-accuracy.md) — a broader claim this one bears on
 - [In-group/out-group bias serves both cognitive efficiency and self-enhancement simultaneously](in-group-out-group-dual-motive-bias.md) — related
+- [The type and intensity of emotions students experience in feedback situations depend on feedback focus (task vs person) and valence, in interplay with context and student characteristics](feedback-focus-and-valence-shape-emotions.md) — related

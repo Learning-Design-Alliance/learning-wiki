@@ -50,3 +50,4 @@ LGC model-fit comparison for the Yao group (Table 6): the linear model outperfor
 - [In Han students, higher initial metacognitive knowledge predicted both a higher starting point and a faster growth rate of vocabulary breadth](mck-predicts-vk-han-parallel-development.md) — related
 - [Metacognitive knowledge scores increased cumulatively over time, and the time-by-ethnic-group interaction showed Han and Yao students followed different MCK development trends](mck-cumulative-growth-group-interaction.md) — related
 - [Han students' metacognitive knowledge scores were significantly higher than Yao students' at each of four annual measurements from grade 3 to grade 6](han-higher-mck-than-yao-each-year.md) — related
+- [A discrete time trend model fit the reading fluency data significantly better than a linear time trend model](discrete-time-model-fit-better-than-linear.md) — related

@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 64 claims (45 show a difference, 14 mixed, 5 no difference) · 49 studies (16 causal, 9 review, 9 associational, 6 theoretical, 5 qualitative, 3 design, 1 quant-synthesis), `q1`–`q3` · 11 of 49 report an effect size · 62 claims rest on one study
+> **Evidence** · 66 claims (47 show a difference, 14 mixed, 5 no difference) · 50 studies (17 causal, 9 review, 9 associational, 6 theoretical, 5 qualitative, 3 design, 1 quant-synthesis), `q1`–`q3` · 11 of 50 report an effect size · 64 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -104,6 +104,8 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Prior knowledge can hinder credibility evaluation through selective attention and overconfidence](../claims/prior-knowledge-can-hinder-credibility-evaluation.md) [~M] — learners who differ on it differ in outcomes
 - [Topical vocabulary knowledge is positively associated with adolescents' multiple-source integration, evaluation, and synthesis performance](../claims/topical-vocabulary-associated-with-multiple-source-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Trained students increased references to the more reliable source in justifications, specifically for the more reliable source](../claims/sourcing-intervention-source-references-justifications.md) [+M] — instruction changes it
+- [Dialogic learning produces a more positive effect on value-loaded critical-thinking competences than non-dialogic learning in pre-vocational secondary Biology](../claims/dialogic-learning-improves-value-loaded-critical-thinking.md) [+M] — instruction changes it
+- [Gains in critical-thinking competences from dialogic lessons did not come at the expense of Biology subject-matter knowledge](../claims/critical-thinking-gains-not-at-expense-of-subject-knowledge.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

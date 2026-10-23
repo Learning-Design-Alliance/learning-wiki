@@ -73,3 +73,4 @@ Paired t tests on the AEQ-ES emotion scales showed boredom rising from M = 1.51 
 - [Metacognitive efficiency at Grade 1 predicts children's performance improvement 10 months later in both a linguistic and a non-linguistic task](metacognitive-efficiency-predicts-longitudinal-learning.md) — related
 - [Musical play intervention significantly increased children's metacognitive knowledge of strategies at interview](musical-play-intervention-metacognitive-knowledge-of-strategies-gains.md) — related
 - [Anxiety, enjoyment and boredom are three critical emotions in language learning that affect outcomes and engagement](anxiety-enjoyment-boredom-critical-sla-emotions.md) — related
+- [Mathematics anxiety remains low and does not change significantly during the first three school years](math-anxiety-low-unchanged-early-grades.md) — related
