@@ -53,6 +53,7 @@ The paper observes that most LD interventions target underlying weaknesses, whil
 - [Future academic resilience work should add resilience measures to longitudinal LD datasets and combine person-centered (e.g., LPA) with variable-centered analyses](longitudinal-person-centered-resilience-methods.md)
 - [Build and enhance protective factors in at-risk populations through experimental and intervention studies to support resilient developmental trajectories](build-protective-factors-at-risk-learners-strategy.md)
 - [Plan and conduct resilience-in-literacy research using designs and analyses that distinguish promotive, protective, and skill-enhancing factors](plan-resilience-research-distinguish-factor-types.md)
+- [Calibrate academic task design to individual students and strengthen self-efficacy and peer support as malleable protective factors for momentary engagement](calibrate-tasks-and-protective-factors-for-engagement.md)
 
 ## Examples
 -

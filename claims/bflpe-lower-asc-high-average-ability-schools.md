@@ -63,3 +63,4 @@ Review of secondary analyses of the PISA 2003 international assessment across 41
 - [Equally able students report lower academic self-concepts in high-achieving classrooms than in low-achieving classrooms (the Big-Fish-Little-Pond Effect)](bflpe-lower-asc-high-achieving-classrooms.md) — possibly the same claim (merge candidate)
 - [In more competitive school environments, students from lower SES backgrounds report more positive self-views than their more advantaged peers, narrowing SES gaps in self-views](competitive-schools-narrow-ses-gaps-self-views.md) — related
 - [In more competitive school environments, lower-SES students perform better academically than their more advantaged peers, narrowing SES achievement gaps](competitive-schools-narrow-ses-gaps-achievement.md) — related
+- [Students with higher initial achievement in German benefited more from higher class mean achievement levels](german-class-mean-achievement-benefits-high-initial-achievers.md) — related

@@ -48,3 +48,5 @@ Synthesis of 165 eligible articles on teacher self-efficacy via a criteria-based
 - [Principal burnout is negatively related to job satisfaction and self-efficacy and co-occurs with stress](burnout-correlates-satisfaction-efficacy-stress.md) — related
 - [Teacher self-efficacy shows positive links with students' academic adjustment](tse-positive-links-student-academic-adjustment.md) — related
 - [Teacher ill-being shows a small negative association with student motivation and achievement (r = –.13)](teacher-ill-being-negative-student-outcomes-r13.md) — related
+- [Burnout dimensions (exhaustion and disengagement) negatively predict future teacher self-efficacy at adjacent time points](burnout-predicts-future-tse.md) — a narrower finding that bears on this claim
+- [TSE does not consistently predict future burnout; only one significant path (TSE to disengagement, Time 1 to Time 2) emerged](tse-inconsistently-predicts-burnout.md) — related

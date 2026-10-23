@@ -51,3 +51,4 @@ Paired-sample t-tests on the 225 children's Dot Task accuracy showed a significa
 - [Incongruent dot comparison trials are less accurate and slower than congruent trials, consistent with an added inhibition step](incongruent-dot-trials-slower-less-accurate.md) — a narrower finding that bears on this claim
 - [Balanced bicultural identity showed no relation to working memory or inhibitory control performance in congruent and incongruent Dot Task trials](bicultural-identity-no-effect-working-memory-inhibition.md) — related
 - [Verbal working memory positively and inhibitory control negatively relate to accuracy in the contrasting multiple-choice task](working-memory-and-inhibitory-control-contrasting-task.md) — related
+- [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related

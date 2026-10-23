@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**997 entries** · 0 stable · 997 in review · 0 drafts
+**999 entries** · 0 stable · 999 in review · 0 drafts
 
 ---
 
@@ -146,6 +146,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [ChemViz Project at the National Center for Supercomputing Activities](chemviz-project-ncsa.md) - ChemViz is one of three educational implementations of scientific visualization described in the article, cited as \"the ChemViz Project at the National Center for Supercomputing Activities.\" It exemplifies using scien...
 * [Citizen science as a context for concurrently fostering statistical, scientific and NOS reasoning](citizen-science-concurrent-uncertainty-reasoning.md) - The article positions citizen science as a pedagogical design pattern in which learners engage in authentic scientific practices, including data analysis, while learning scientific content.
 * [CLASP discussion/laboratory activity cycle: small-group work on model-based activities, whole-class discussion, and homework integrated into the next DL meeting](clasp-dl-activity-cycle.md) - The CLASP discussion/laboratory (DL) is the core instructional setting: students in five-member groups at tables with a wall-mounted blackboard work through three activity cycles of 30 to 60 minutes each, twice weekly.
+* [Class experiment pattern: a practiced class and unpracticed control classes taking identical pre- and post-tests to study practice, transfer, and interference](class-experiment-practice-control-design.md) - The article demonstrates a class experiment in which one class practices a skill (translating English into a code) for twenty-two trials while control classes take the same five tests without intervening practice, twe...
 * [Classroom teachers and teaching assistants — not only researchers — can deliver effective phoneme awareness instruction in kindergarten](teachers-deliver-phoneme-awareness-instruction.md) - The study's central design choice was to have phonological awareness instruction delivered \"by kindergarten teachers and their teaching assistants\" in ordinary low-income, inner-city classrooms, rather than by outside...
 * [Clearly define the community school coordinator's skills, responsibilities, and position classification before hiring to support selection and onboarding](coordinator-role-clarity-hiring-and-onboarding.md) - Because the community school coordinator is a role that previously did not exist in most schools, the report recommends defining its skills, disposition, and classification up front.
 * [Clinical Empathy Module for PA coaching chatbots](clinical-empathy-module-pa-chatbot.md) - The Clinical Empathy Module is a pipeline attached to the Empathetic chatbot variant that identifies Empathy Opportunities in user messages and generates clinically informed empathetic responses.
@@ -756,6 +757,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### S {: #letter-s }
 
 * [Same-faculty cohort pairing of college-level and corequisite courses](same-faculty-cohort-pairing.md) - All six implementing institutions delivered the paired courses as a cohort, with one instructor teaching both the college-level and the developmental-level course to the same group of students.
+* [Sample of 11 German academic-track secondary schools used to assess representativeness](eleven-school-sample-description.md) - Table S1 documents the 11 participating schools with geographical location, size (372–1332 students), gender composition, and proportion of foreigners, drawing on official statistics.
 * [San Diego STEM Pathways Community Advisory Committee (CAC)](san-diego-stem-community-advisory-committee.md) - The CAC is a cross-sector coalition formed in 2024 to lay the groundwork for regional STEM pathway initiatives.
 * [San Francisco Department of Early Childhood and Early Learning for All network](sf-dec-early-learning-for-all-network.md) - The San Francisco Department of Early Childhood (DEC) is a dedicated local governing agency for early childhood, reporting to the mayor, formed in 2013 and renamed in 2022 when it merged with First 5 San Francisco.
 * [Sanger STaR integrated two-semester curriculum: eleven courses consolidated into two yearlong integrated courses, saving residents roughly $4,000](sanger-star-integrated-two-semester-curriculum.md) - Fresno State faculty and Sanger Unified leadership redesigned the STaR residency curriculum from three semesters with eleven separate courses into two yearlong integrated courses, one spanning pedagogy content and one...

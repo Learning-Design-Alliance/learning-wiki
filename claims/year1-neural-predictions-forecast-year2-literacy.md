@@ -63,3 +63,4 @@ In the same 34-child longitudinal cohort, Year 1 neural model predictions also p
 - [The consonants-in-noise model predicts concurrent reading in school-aged children and reliably classifies externally diagnosed learning disability, being most effective at clearing children as unlikely to have an LD](consonants-in-noise-model-predicts-reading-and-diagnostic-category-older-children.md) — related
 - [Children's early prephonological spelling statistics predict later conventional spelling success](early-spelling-statistics-predict-later-spelling.md) — related
 - [Use of consonantal context in vowel spelling develops gradually, emerging around age 8 and peaking around age 11](context-use-in-vowel-spelling-develops-gradually.md) — related
+- [Reading for study produced a main memory advantage over reading for comprehension for target sentences](study-goal-memory-advantage.md) — related

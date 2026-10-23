@@ -19,7 +19,7 @@ sources:
 # OSF repository
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (1 causal, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 An OSF-hosted replication package from Zambrano et al. containing the prompts, GPT-generated codebooks, and code used to develop and compare LLM-assisted qualitative codebooks.
@@ -32,12 +32,14 @@ An OSF-hosted replication package from Zambrano et al. containing the prompts, G
 - **Open-access OSF repository with scripts to replicate results and implement the comparative modeling framework**: The article releases open-access computational materials in an OSF repository (https://osf.io/84bzp/). The authors state: "We provide open-access scripts to replicate results and implement the proposed comparative modeling framework in various research settings." The scripts serve two functions: replicating the reanalyses reported in the article and applying the comparative framework to other research settings. (Fernando Núñez-Regueiro et al. (2025))
 - **Open Science Framework repository with data, R code, and forest plots for the label-effect meta-analysis**: The article releases its research materials openly: "Data and R-Code underlying all results and comprehensive forest plots are available at the repository of the Open Science Framework". The repository contains the extracted effect-size dataset (284 effects nested in 60 experiments), the R analysis code, and comprehensive forest plots, enabling reuse and verification of the meta-analytic results. It supports the multilevel meta-analytic approach implemented with the metafor package in R. (Franz et al. (2023))
 - **Open Science Framework and research data repositories as infrastructure for sharing**: The article describes digital infrastructure that makes open practices possible and easy. End-of-life repositories archive materials "not commonly preserved or rarely published, such as protocols, stimuli, questionnaires, raw data, analytical code". The Open Science Framework (OSF) is an open-source workspace connecting project pages to registries, repositories, and preprint servers, providing persistent, citable, timestamped links so authors need not reorganize materials at project's end. The Re3data registry catalogues repositories, including many supporting restricted access for sensitive data. (Mellor (2021))
+- **OSF repository with individual-study data, analysis scripts, and an integrated cross-study dataset**: The article's open-data disclosure points to an Open Science Framework repository containing the study data and code. It states that "The data and analysis scripts from all individual studies, along with the integrated dataset and analytical codes for cross-study comparisons, are available via the Open Science Framework (OSF)" at the printed URL. This supports independent re-analysis of the individual studies and cross-study comparison of the ability-attribution and cheating findings. (Li Zhao et al. (2024))
 
 ### Claims
 - [GPT-4o prompted only with SRL theory references generates a codebook accurately representing most key elements of both foundational SRL theories](../claims/gpt4o-theory-references-codebook-covers-srl-theories.md) [+W]
 - [Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs](../claims/human-refinement-essential-gpt-codebooks.md) [+W]
 - [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](../claims/llm-inductive-coding-sensitizing-concept-risk.md) [+W]
 - [Adding think-aloud data to theory prompts improves GPT-4o codebook completeness and alignment with the data](../claims/theory-plus-data-prompting-improves-codebook.md) [+W]
+- [Adult ability attributions of young children's success increase test cheating, per the article's title](../claims/adult-ability-attributions-increase-child-test-cheating.md) [+W]
 
 ## Related Products and Programmes
 
@@ -54,6 +56,7 @@ An OSF-hosted replication package from Zambrano et al. containing the prompts, G
 - Fernando Núñez-Regueiro, Herbert W Marsh, Reinhard Pekrun, Oliver Lüdtke, Jiesi Guo. (2025). The Reciprocal Effects Model is Robust to Alternative Modeling Specifications: A Response to Sorjonen et al., 2025. Educational Psychology Review, 37 (3), pp.79. https://doi.org/10.1007/s10648-025-10059-7
 - Franz, D. J., Richter, T., Lenhard, W., Marx, P., Stein, R., & Ratz, C. (2023). The Influence of Diagnostic Labels on the Evaluation of Students: a Multilevel Meta-Analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-023-09716-6
 - Mellor, D. (2021). Improving norms in research culture to incentivize transparency and rigor. Educational Psychologist, 56(2). https://orcid.org/0000-0002-3125-5888
+- Li Zhao, Junjie Peng, Yingying Li, Nan Wang, and Kang Lee. (2024). When 'You are Smart' Backfires: Adult Ability Attributions of Young Children's Success Increase Test Cheating. https://osf.io/bh9t4/?view_only=04c6a0c8457a49e19911c9a4ea4e1c16
 
 # OSF repository of prompts, codebooks, and code for LLM-assisted codebook development
 

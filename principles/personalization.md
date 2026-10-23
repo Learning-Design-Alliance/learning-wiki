@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 78 claims (38 for, 34 mixed, 6 against) · 81 studies (28 review, 21 causal, 9 theoretical, 8 qualitative, 5 quant-synthesis, 5 associational, 5 design), `q1`–`q4` · 7 of 81 report an effect size · 73 claims rest on one study
+> **Evidence** · 79 claims (39 for, 34 mixed, 6 against) · 82 studies (28 review, 21 causal, 9 theoretical, 8 qualitative, 6 associational, 5 quant-synthesis, 5 design), `q1`–`q4` · 7 of 82 report an effect size · 74 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,7 @@ Claims this page cited that were re-read against the model (on 2026-10-15, and a
 - [Policy in reviewed systems is commonly expressed as a set of assistance boundaries, concentrated on response constraints, scaffolding, and personalization](../claims/policy-multilabel-concentrated-constraints-scaffolding-personalization.md) [~W] — a scoping review of 90 programming-support systems, counting how often personalization appears among their rules. What systems do, not whether it works; does not bear on the relationship.
 - [Verbosity preference is associated with systematic variation in LLM response length](../claims/verbosity-preference-response-length.md) [+W] — an AI teaching assistant's answers grew longer or shorter with a learner's stated preference across 2,910 generated responses; shows the setting took effect, not that learners learned more. Bears at most on the AI row's suggestion that learners set how the tool behaves.
 - [Personalized refutation text significantly predicts stronger conceptual change among teachers who held both math-gender misconceptions at pre-test](../claims/personalized-refutation-text-conceptual-change-misconception-holders.md) [+W] — attached 2026-10-21 from Anna-Sophia Dersch · Ian Thacker · Alexander Eitel (2026), which proposed "Adapt personalized (refutation) interventions to individuals' prior knowledge and misconceptions"; tests this page's relationship.
+- [Within-class heterogeneity in achievement or interest did not directly predict outcomes, but differentiated instruction was particularly advantageous in more heterogeneous German classes](../claims/heterogeneity-null-differentiated-instruction-german-interaction.md) [+W] — attached 2026-10-23 from Kopatz et al. (2025), which proposed "Adapt instruction to individual needs in heterogeneous classes to support achievement and interest"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

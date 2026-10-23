@@ -51,3 +51,4 @@ Covariate analyses in Experiment 1 (reading span and Flanker tasks as z-scored c
 - [Incongruent dot comparison trials are less accurate and slower than congruent trials, consistent with an added inhibition step](incongruent-dot-trials-slower-less-accurate.md) — related
 - [Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated](dot-task-accuracy-gradient-congruent-incongruent-mixed.md) — related
 - [Smaller response-time differences between incongruent and congruent trials (better inhibition) correlate with higher mathematics scores](rt-congruency-difference-correlates-with-math.md) — related
+- [Reading goal × congruency interaction on memory: study goal improves memory for congruent but not incongruent targets](goal-congruency-interaction-memory.md) — related

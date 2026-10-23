@@ -53,3 +53,4 @@ Experiment 1 accuracy and response-time analysis. Correct congruent responses av
 - [The correlation between dot comparison performance and children's mathematics achievement is driven by incongruent, not congruent, trials](dot-comparison-math-link-driven-by-incongruent-trials.md) — related
 - [Smaller response-time differences between incongruent and congruent trials (better inhibition) correlate with higher mathematics scores](rt-congruency-difference-correlates-with-math.md) — related
 - [Verbal working memory positively and inhibitory control negatively relate to accuracy in the contrasting multiple-choice task](working-memory-and-inhibitory-control-contrasting-task.md) — related
+- [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related

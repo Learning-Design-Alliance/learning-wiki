@@ -66,3 +66,4 @@ The same ANOVA on RT (N = 87) showed main effects of Trial type, F(1, 83) = 310.
 - [Better semantic inhibition (smaller Stroop RT cost) is associated with higher accuracy on counterintuitive science and maths misconception trials](semantic-inhibition-predicts-misconception-accuracy.md) — related
 - [The true-versus-false statement accuracy difference is larger for misconception than control trials, and significant for science but not maths](trial-statement-interaction-science-not-maths.md) — related
 - [Incongruent dot comparison trials are less accurate and slower than congruent trials, consistent with an added inhibition step](incongruent-dot-trials-slower-less-accurate.md) — related
+- [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related

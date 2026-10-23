@@ -49,3 +49,4 @@ The abstract states the article discusses managing "the effects of several commo
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
 - [Rapid guessing differs from solution behavior as a form of test-taker disengagement](rapid-guessing-differs-from-solution-behavior.md) — related
+- [Adult ability attributions of young children's success increase test cheating, per the article's title](adult-ability-attributions-increase-child-test-cheating.md) — related
