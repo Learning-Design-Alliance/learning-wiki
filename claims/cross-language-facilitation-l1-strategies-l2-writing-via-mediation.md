@@ -47,3 +47,4 @@ SEM mediation analysis with bootstrapping found the direct path from L1 strategi
 - L1 and L2 writing metacognitive strategy subcategories are strongly and positively correlated — related
 - [L1 writing metacognitive strategies transfer to L2 writing, invariant across L2 proficiency and academic major groups](l1-l2-transfer-of-writing-metacognitive-strategies-invariant.md) — related
 - [Metacognitive strategies predict L2 writing more strongly than L1 writing](metacognitive-strategies-stronger-predictor-l2-than-l1-writing.md) — related
+- [Text-structure knowledge in passages and word problems mediates acquisition and cross-domain transfer effects](text-structure-knowledge-mediates-transfer.md) — related

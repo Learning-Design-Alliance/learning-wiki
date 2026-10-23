@@ -56,3 +56,4 @@ Observational SEM of extant longitudinal data on a 265-student cohort (seven cla
 - [Kindergarten oral language is uniquely related to first-grade writing quality but not to compositional fluency](oral-language-first-grade-quality-only.md) — related
 - [Kindergarten attention regulation is uniquely and positively related to compositional fluency after controlling for literacy, letter-writing fluency, and oral language](attention-unique-predictor-kindergarten-writing-fluency.md) — related
 - [Kindergarten attention uniquely predicts both first-grade compositional fluency and quality one year later](attention-longitudinal-first-grade-writing.md) — related
+- [Reading comprehension is hypothesized and tested as a component skill of writing, with reading-to-writing directionality supported by prior longitudinal evidence](reading-comprehension-component-skill-of-writing.md) — related

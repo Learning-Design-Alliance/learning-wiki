@@ -105,3 +105,4 @@ Wald-test planned contrast of indirect effects across conditions (research quest
 - [Instruction-only students perceived learning control comparably high to example generators, while provided-example students perceived lower control](perceived-control-high-instruction-only-and-generation.md) — related
 - [Generating own examples after instruction produced better retention and transfer than studying provided examples](self-generated-beat-provided-examples-retention-transfer.md) — related
 - [Teacher students who generated their own examples after instruction achieved better retention and transfer than those given examples, with text-only performing worst](self-generated-examples-better-retention-transfer.md) — a broader claim this one bears on
+- [Text-structure knowledge in passages and word problems mediates acquisition and cross-domain transfer effects](text-structure-knowledge-mediates-transfer.md) — related

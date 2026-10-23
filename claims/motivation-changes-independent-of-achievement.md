@@ -75,3 +75,4 @@ In the full model with end-of-year test performance and teacher-rated grade as o
 - [Engagement profiles do not differ in prior knowledge, chemistry self-concept, or interest, addressing a motivation confound](no-profile-differences-prior-knowledge-motivation.md) — related
 - [Graded versus verbal-report elementary students showed no systematic differences except declining joy of learning in mathematics for graded students (review-reported)](wagner-valtin-grades-verbal-reports.md) — related
 - [Prior knowledge directly predicted all three formative assessments (β=.11, β=.24, β=.11) but no future interest outcomes.](prior-knowledge-predicts-formative-tests-not-interest.md) — related
+- [Teachers' early expectations predict students' later perceived competence in physical education beyond students' background characteristics](teacher-expectations-predict-later-perceived-competence-pe.md) — related

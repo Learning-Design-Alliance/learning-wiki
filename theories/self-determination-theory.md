@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 81 claims (59 for, 21 mixed, 1 against) · 56 studies (20 associational, 13 review, 7 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 56 report an effect size · 75 claims rest on one study
+> **Evidence** · 84 claims (60 for, 23 mixed, 1 against) · 57 studies (21 associational, 13 review, 7 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 57 report an effect size · 78 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -136,6 +136,9 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Specific imbalance factors in autonomy support, structure, and involvement contribute to some aspects of classroom-level engagement](../claims/need-supportive-specific-imbalance-factors-contribute.md) [+W]
 - [Mothers' early autonomy support uniquely predicts children's executive functions at 54 months over and above warmth, cognitive stimulation, and covariates](../claims/autonomy-support-predicts-executive-functions-54-months.md) [+W] — attached 2026-10-23 from Bindman et al. (2015), which proposed "Self-Determination Theory-based account: autonomy-supportive parenting fosters executive functions via autonomous motivation and practice on challenging activities".
 - [Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school](../claims/executive-functions-mediate-autonomy-support-achievement.md) [+W] — attached 2026-10-23 from Bindman et al. (2015), which proposed "Self-Determination Theory-based account: autonomy-supportive parenting fosters executive functions via autonomous motivation and practice on challenging activities".
+- [Classroom autonomy-supportive climate moderates teacher expectation effects: significant in low-autonomy-supportive classrooms but not in high ones](../claims/autonomy-supportive-climate-moderates-tee.md) [~M] — attached 2026-10-23 from David Trouilloud et al. (2006), which proposed "Self-determination theory account of autonomy-supportive climate as a moderator of social influence on students".
+- [Teachers' expectations and perceived autonomy-supportive climate are uncorrelated, making climate an unlikely consequence of expectations](../claims/expectations-climate-null-correlation.md) [~W]
+- [Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)](../claims/low-autonomy-climate-harmful-low-expectation-students.md) [+W]
 
 ## The evidence by question
 

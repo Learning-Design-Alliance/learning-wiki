@@ -51,3 +51,4 @@ Scheibe, S., & Blanchard-Fields, F. (2009). Effects of Regulating Emotions on Co
 - [Instructions to maintain feelings of disgust do not disrupt working memory performance in either age group](maintaining-disgust-no-performance-cost.md) — related
 - [Reappraisal ability shows linear and quadratic relationships with age, while self-reported emotional reactivity shows no age differences](reappraisal-ability-linear-quadratic-age-development.md) — related
 - [Working memory performance increases from baseline to the first post-induction trial across all age groups and conditions, consistent with practice effects](nback-practice-effect-all-groups.md) — related
+- [Sex instruction should work by countering motives with motives, using fear, disgust, self-respect and desire for the regard of others against sexual carelessness](counter-motives-with-motives-sex-instruction.md) — related

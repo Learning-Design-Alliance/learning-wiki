@@ -51,3 +51,4 @@ Theoretical argument in section III. The author critiques the declarative-to-pro
 - [Learners' sensitivity to frequency has implications for theories of implicit and explicit learning and their interactions](frequency-sensitivity-implications-implicit-explicit-learning.md) — related
 - [Peer assessment skills are complex and not automatically acquired, so training and guidance are a crucial design variable](peer-assessment-skills-need-training.md) — related
 - [Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data](mental-representation-not-directly-instructable.md) — related
+- [No single rule was professed to be known by half the university students despite all having been taught the rules the previous winter](rule-recall-miserable-half-known.md) — related

@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (82 show a difference, 21 mixed, 17 no difference) · 72 studies (26 causal, 20 associational, 10 quant-synthesis, 9 review, 4 theoretical, 3 design), `q1`–`q4` · 26 of 72 report an effect size · 115 claims rest on one study
+> **Evidence** · 126 claims (85 show a difference, 24 mixed, 17 no difference) · 73 studies (26 causal, 21 associational, 10 quant-synthesis, 9 review, 4 theoretical, 3 design), `q1`–`q4` · 27 of 73 report an effect size · 121 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -158,6 +158,12 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Accuracy in retrieving orthographic and semantic information is not significantly affected by time spent handwriting or typing during learning](../claims/writing-duration-not-related-to-retrieval-accuracy.md) [-M] — instruction changes it
 - [Readers with developmental dyslexia show better spelling and nonword-image association performance when novel words are learned through typing rather than handwriting](../claims/dyslexia-typing-better-spelling-and-association-than-handwriting.md) [+M] — instruction changes it
 - [Typically developing children benefit from both handwriting and typing when learning novel words](../claims/td-children-benefit-from-both-writing-modalities.md) [+M] — instruction changes it
+- [Discourse oral language is strongly related to writing quality and reading comprehension but unrelated to writing productivity in Grade 2](../claims/discourse-oral-language-differential-latent-relations.md) [~W] — learners who differ on it differ in outcomes
+- [Higher order cognitive skills (inference, perspective taking, monitoring) are differentially related to writing quality, writing productivity, and correctness in writing in Grade 2](../claims/higher-order-cognitions-differential-writing-dimensions-grade2.md) [+M] — learners who differ on it differ in outcomes
+- [Reading comprehension differentially mediates the relations of discourse oral language and lexical literacy to writing quality in Grade 2](../claims/reading-comprehension-mediation-writing-quality.md) [~M] — learners who differ on it differ in outcomes
+- [Reading comprehension is differentially correlated with the three dimensions of written composition in Grade 2: moderate relations with quality and correctness but weak relations with productivity](../claims/reading-comprehension-differential-correlations-writing-dimensions.md) [~M] — learners who differ on it differ in outcomes
+- [Reading comprehension is hypothesized and tested as a component skill of writing, with reading-to-writing directionality supported by prior longitudinal evidence](../claims/reading-comprehension-component-skill-of-writing.md) [+M] — learners who differ on it differ in outcomes
+- [Total effects of oral language, cognition, transcription, and reading comprehension vary largely across the three dimensions of written composition](../claims/total-effects-vary-writing-dimensions.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

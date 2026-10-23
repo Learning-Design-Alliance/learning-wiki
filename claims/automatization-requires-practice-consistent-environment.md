@@ -71,3 +71,4 @@ In the Conclusion the review draws this as the second of three conclusions from 
 - [Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exposure and require extensive practice to proceduralize form-meaning mappings](low-salience-elements-need-extensive-practice.md) — a broader claim this one bears on
 - [Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached](explicit-rules-automatizable-through-practice.md) — related
 - [Purely mechanical drills are of limited use because they do not train learners to conceptualize a meaning and express it linguistically](mechanical-drills-limited-use-meaning-form.md) — related
+- [Second-study results corroborate the first study despite a shorter drill period of 20 versus 30 recitations](drill-results-corroborate-first-study.md) — related

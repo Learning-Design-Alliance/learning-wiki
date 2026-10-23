@@ -43,6 +43,7 @@ The article recommends that modeling environments use the identified behavioral 
 
 - [Use dynamic user models to recognize non-optimal learning behaviors and redirect students toward more effective behaviors](dynamic-user-models-redirect-non-optimal-behaviors.md)
 - [Use cognitive-sensing feedback on attention and learning progress to tailor instruction to individual learners](cognitive-sensing-feedback-tailor-instruction.md)
+- [Customize interventions to students' unique motivational and task-behavioral patterns](customize-interventions-motivational-task-behavioral-patterns.md)
 
 ## Examples
 -

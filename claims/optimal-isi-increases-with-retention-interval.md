@@ -72,3 +72,4 @@ Meta-analytic lag analyses binning accuracy differences and absolute accuracy by
 - [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](distributed-practice-limits-l2.md) — related
 - [Proportional measurement of relearning intervals poses a scaling problem for mapping optimal relearning schedules](relearning-interval-scaling-measurement-problem.md) — related
 - [Longer retention intervals between pre- and post-test weaken the effect of mental simulation](ms-retention-interval-negative.md) — related
+- [Earlier studies reported that quicker recall accompanied better memory results, but with little supporting evidence](earlier-studies-quicker-recall-better-results.md) — related

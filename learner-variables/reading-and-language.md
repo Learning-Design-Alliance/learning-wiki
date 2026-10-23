@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 190 claims (122 show a difference, 27 mixed, 41 no difference) · 138 studies (36 causal, 33 associational, 29 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 31 of 138 report an effect size · 181 claims rest on one study
+> **Evidence** · 194 claims (124 show a difference, 29 mixed, 41 no difference) · 139 studies (36 causal, 34 associational, 29 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 32 of 139 report an effect size · 185 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -241,6 +241,10 @@ What a learner can read without effort, and whether the language of instruction 
 - [The bilingual advantage on hard Symbol Math items replicated in Experiment 2 with executive control and SES measures](../claims/bilingual-advantage-hard-symbol-math-exp2.md) [+M] — learners who differ on it differ in outcomes
 - [At the end of French first grade, T2 decoding skills and T2 lower level language skills predicted reading comprehension, but T2 discourse skills did not](../claims/t2-decoding-and-lll-predict-reading-comprehension.md) [~M] — learners who differ on it differ in outcomes
 - [Reading comprehension is only marginally explained by reading fluency, with no group-by-fluency interaction](../claims/fluency-marginally-explains-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Discourse oral language is strongly related to writing quality and reading comprehension but unrelated to writing productivity in Grade 2](../claims/discourse-oral-language-differential-latent-relations.md) [~M] — learners who differ on it differ in outcomes
+- [Reading comprehension differentially mediates the relations of discourse oral language and lexical literacy to writing quality in Grade 2](../claims/reading-comprehension-mediation-writing-quality.md) [+M] — learners who differ on it differ in outcomes
+- [Reading comprehension is hypothesized and tested as a component skill of writing, with reading-to-writing directionality supported by prior longitudinal evidence](../claims/reading-comprehension-component-skill-of-writing.md) [+M] — learners who differ on it differ in outcomes
+- [Total effects of oral language, cognition, transcription, and reading comprehension vary largely across the three dimensions of written composition](../claims/total-effects-vary-writing-dimensions.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

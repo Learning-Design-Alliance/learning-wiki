@@ -54,3 +54,4 @@ Theoretical argument in section I.3: the author reasons that UG and parsers/proc
 - [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](form-focused-input-manipulation-illusory-for-competence.md) — possibly the same claim (merge candidate)
 - [Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production](ffi-contributes-to-implicit-l2-knowledge.md) — reports the opposite
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](grammar-as-skill-is-a-conflation.md) — related
+- [Second-study results corroborate the first study despite a shorter drill period of 20 versus 30 recitations](drill-results-corroborate-first-study.md) — related

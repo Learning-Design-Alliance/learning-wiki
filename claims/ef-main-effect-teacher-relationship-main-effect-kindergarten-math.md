@@ -74,3 +74,4 @@ Model 1 main effect of teacher-rated relationship quality (STRS composite of clo
 - [Growth in both vocabulary and social communication skills predicts kindergarten math achievement](vocabulary-and-communication-growth-predict-kindergarten-math.md) — related
 - [Executive function at 48 months positively predicts mathematics ability at prekindergarten, with effects persisting after cognitive covariate controls](executive-function-predicts-math-persisting-covariates.md) — related
 - [The interaction of cortisol and alpha amylase at 48 months is unrelated to math and reading ability at prekindergarten and to growth](cortisol-amylase-interaction-unrelated-academic.md) — related
+- [Inference-based instruction and teacher–student conflict were more strongly associated with math achievement and growth for children with low early math skills (a three-way interaction in observational data)](inference-conflict-skill-three-way-interaction.md) — related

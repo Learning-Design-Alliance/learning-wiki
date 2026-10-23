@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 189 claims (158 show a difference, 26 mixed, 5 no difference) · 143 studies (83 associational, 27 review, 13 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 143 report an effect size · 187 claims rest on one study
+> **Evidence** · 192 claims (160 show a difference, 26 mixed, 6 no difference) · 144 studies (84 associational, 27 review, 13 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 144 report an effect size · 190 claims rest on one study
 
 ## How to read this page
 
@@ -226,6 +226,9 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Minoritized students reported lower belonging where peers endorsed more fixed mindset beliefs, with an asymmetric pattern](../claims/minoritized-students-belonging-peer-fixed-mindset.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Active learning in an entry-level biology course closed performance gaps between underrepresented and non-underrepresented minority students and increased all students' self-efficacy](../claims/active-learning-closed-gaps-increased-self-efficacy.md) [+M] — an instructional effect differs by group
 - [Utility-value interventions improve grades, with the largest gains for first-generation and underrepresented minority students, and can improve STEM persistence years later](../claims/utility-value-interventions-improve-grades-and-persistence.md) [+W] — an instructional effect differs by group
+- [Demographics predict school belonging: girls, urban youth, immigrants, and high-SES youth report higher belonging, while achievement is trivially related](../claims/demographic-predictors-of-school-belonging.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Indigenous youth and low-achieving, low-SES youth are at elevated NEET risk; school-average SES is protective](../claims/neet-risk-predictors-indigenous-achievement-school-ses.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The belonging-NEET association does not vary by achievement, gender, SES, place, Indigenous/immigrant status, or cohort](../claims/belonging-neet-no-moderation.md) [-W] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

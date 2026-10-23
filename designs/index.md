@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1002 entries** · 0 stable · 1002 in review · 0 drafts
+**1003 entries** · 0 stable · 1003 in review · 0 drafts
 
 ---
 
@@ -669,6 +669,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Pair-based, discovery-oriented LLM analysis activity following an eight-week disciplinary module](pair-based-discovery-llm-analysis-activity.md) - The intervention's design combined two pedagogical principles: Vygotsky's Zone of Proximal Development, realized through paired work, and Dewey's learning through experience, realized as an authentic discovery-oriente...
 * [Pairing intensive math instruction with emotional and social support in a summer program](summer-program-math-instruction-with-social-emotional-support.md) - Math Corps pairs an academic component with a relational one: its founders' \"primary goal for the camp was to support the emotional and social needs of the students in Detroit,\" and they used their math-teaching backg...
 * [Paper-based group awareness brochure with participant profiles](paper-based-group-awareness-brochure.md) - The group awareness intervention was a paper-based brochure containing profiles of all workshop participants, designed to support cognitive and social group awareness.
+* [Parallel single-domain text-structure intervention design with diagrams, text-type vocabulary, summarization, and transfer instruction](parallel-text-structure-intervention-design.md) - Both interventions taught a domain-specific strategy for constructing text-level representations via close reading, analytical reasoning, and text-structure vocabulary with a domain-specific diagram or equation mappin...
 * [Participatory design as a three-phase user-involvement approach to instructional re/design](participatory-design-three-phases.md) - Participatory design, imported from fields such as cognitive ergonomics and health promotion, aims to ensure active participation of users in design decisions that affect them.
 * [Pedagogical friction: reflection-gated feedback architecture in which cognitive effort precedes support](pedagogical-friction-reflection-gating.md) - The article introduces pedagogical friction as a first-class architectural primitive: revision suggestions are gated behind an intelligent reflection gate that assesses the student's written defense for substance and,...
 * [Pepper robot with 52 co-designed LIS signs and four SOV-order signed sentences](pepper-52-lis-signs-element.md) - The element is the Pepper social robot configured as a LIS signing agent: the authors co-designed and implemented \"a total of 52 LIS signs\" spanning school-related terms, common actions and nouns, and work-related voc...

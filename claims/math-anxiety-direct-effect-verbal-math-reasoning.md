@@ -83,3 +83,4 @@ SEM model comparison for NO in the same sample; the direct math-anxiety path was
 - [Math anxiety correlates weakly with working memory (r = −.18), and WM's mediating role between anxiety and math achievement is negligible](wm-weak-link-negligible-mediation.md) — reports the opposite
 - [Type of mathematics assessed (Numerical Operations vs Mathematical Reasoning) does not significantly influence effect sizes](math-type-no-significant-influence.md) — related
 - [Higher mathematics test anxiety predicts earlier practice-session exit, mediating lower learning gains in an adaptive math program](math-anxiety-earlier-exit-lower-gains.md) — related
+- [Text-structure knowledge in passages and word problems mediates acquisition and cross-domain transfer effects](text-structure-knowledge-mediates-transfer.md) — related

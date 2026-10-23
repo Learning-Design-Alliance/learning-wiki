@@ -52,3 +52,4 @@ Univariate hierarchical regression in the same longitudinal sample predicting gr
 - [Neither numerosity processing nor figure matching predicts general mathematical achievement](numerosity-figure-matching-not-predict-math-achievement.md) — related
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
 - [Preschool block play complexity predicts later mathematics achievement, with relationships emerging by seventh grade](block-play-complexity-predicts-later-math-achievement.md) — related
+- [Teachers' early expectations predict students' later perceived competence in physical education beyond students' background characteristics](teacher-expectations-predict-later-perceived-competence-pe.md) — related

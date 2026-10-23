@@ -40854,5 +40854,89 @@
  "spacing\tpart method with massed effort\twhole method with massed effort": {
   "label": "no spacing contrast (massed vs massed)",
   "treatment_is_a": false
+ },
+ "autonomy-support\tlow autonomy-support climate\thigh autonomy-support climate": {
+  "label": "high autonomy-supportive climate vs low autonomy-supportive climate",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tlow autonomy-supportive classroom climate\thigh autonomy-supportive classroom climate": {
+  "label": "high autonomy-supportive climate vs low autonomy-supportive climate",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tlow-autonomy-support classroom climate\thigh-autonomy-support classroom climate": {
+  "label": "high autonomy-supportive climate vs low autonomy-supportive climate",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tstudents in a low autonomy-supportive climate\tstudents in a high autonomy-supportive climate": {
+  "label": "high autonomy-supportive climate vs low autonomy-supportive climate",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tRC text-structure intervention\tstandard school program control": {
+  "label": "explicit text-structure instruction vs standard instruction/control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRC text-structure intervention\tstandard school program/control": {
+  "label": "explicit text-structure instruction vs standard instruction/control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tWPS text-structure intervention\tstandard school program/control": {
+  "label": "explicit text-structure instruction vs standard instruction/control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect approach to sex instruction\tgradual approach through nature study": {
+  "label": "direct instruction vs gradual instruction through nature study",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect sex instruction\tindirect approach through nature study": {
+  "label": "direct instruction vs indirect instruction through nature study",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect treatment of sex questions\tgradual approach through nature study": {
+  "label": "direct instruction vs gradual instruction through nature study",
+  "treatment_is_a": true
+ },
+ "feedback-type\tConfirmatory-Only feedback\tComplete feedback": {
+  "label": "Complete feedback vs confirmatory-only feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tConfirmatory-Only feedback\tComplete feedback, including falsifying information": {
+  "label": "Complete feedback vs confirmatory-only feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\taccess to falsifying feedback\tno access to falsifying feedback": {
+  "label": "Falsifying feedback available vs unavailable",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfalsifying feedback available\tfalsifying information deleted": {
+  "label": "Falsifying feedback available vs unavailable",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback with falsifying information\tfeedback without falsifying information": {
+  "label": "Falsifying feedback available vs unavailable",
+  "treatment_is_a": true
+ },
+ "practice-amount\tdrill classes, best 19 pupils\tnon-drill classes, best 19 pupils": {
+  "label": "drill vs non-drill",
+  "treatment_is_a": true
+ },
+ "practice-amount\tdrill classes, poorest 19 pupils\tnon-drill classes, poorest 19 pupils": {
+  "label": "drill vs non-drill",
+  "treatment_is_a": true
+ },
+ "practice-amount\tdrill sections\tnon-drill sections": {
+  "label": "drill vs non-drill",
+  "treatment_is_a": true
+ },
+ "practice-amount\tdrill sections, best 19\tnon-drill sections, best 19": {
+  "label": "drill vs non-drill",
+  "treatment_is_a": true
+ },
+ "practice-amount\tdrill sections, poorest 19\tnon-drill sections, poorest 19": {
+  "label": "drill vs non-drill",
+  "treatment_is_a": true
+ },
+ "practice-amount\tdrill work\tnon-drill work": {
+  "label": "drill vs non-drill",
+  "treatment_is_a": true
  }
 }

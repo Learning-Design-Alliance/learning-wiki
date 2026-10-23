@@ -54,3 +54,4 @@ Covariate results from Model 2 of the hierarchical regression (n = 1,552 belongi
 - [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](individual-difference-themes-school-belonging.md) — related
 - [Positive ethnic-racial affect is usually promotive but was linked to declining academic adjustment for Latino early adolescents in one study](eri-affirmation-academic-adjustment-context-dependent.md) — related
 - [Small gaps in AVID experiences by gender, achievement, and grade, with girls, lower achievers, and tenth graders more positive](avid-small-gaps-gender-achievement-grade.md) — related
+- [Demographics predict school belonging: girls, urban youth, immigrants, and high-SES youth report higher belonging, while achievement is trivially related](demographic-predictors-of-school-belonging.md) — related

@@ -58,3 +58,4 @@ Discussion of the SEM results in 330 children; in the models, attention showed s
 - [Cascade models in which IQ mediates the WM-to-achievement path fit comparably to, but not significantly better than, the original correlated models](cascade-model-iq-mediation-comparable-fit.md) — related
 - [Academic attention problems do not mediate a long-term relationship between academic-media multitasking and achievement](no-indirect-long-term-effect-via-attention-problems.md) — related
 - [Children's understanding of whole number advances by one developmental level per additional unit of working memory capacity](whole-number-ccs-one-level-per-wm-unit.md) — related
+- [Text-structure knowledge in passages and word problems mediates acquisition and cross-domain transfer effects](text-structure-knowledge-mediates-transfer.md) — related

@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 89 claims (69 show a difference, 17 mixed, 3 no difference) · 71 studies (23 review, 12 causal, 12 qualitative, 10 associational, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 3 of 71 report an effect size · 84 claims rest on one study
+> **Evidence** · 93 claims (72 show a difference, 18 mixed, 3 no difference) · 72 studies (23 review, 12 causal, 12 qualitative, 11 associational, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 3 of 72 report an effect size · 88 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -126,6 +126,10 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Student-reported intercultural education practices positively predict students' eudaimonia, life satisfaction, positive affect, and school belonging across PISA countries](../claims/intercultural-education-practices-predict-psychosocial-outcomes.md) [+M] — instruction changes it
 - [Student-reported teacher intercultural attitudes positively predict school belonging and negatively predict victimization frequency](../claims/teacher-intercultural-attitudes-belonging-victimization.md) [+M] — instruction changes it
 - [Cooperative learning reduced emotional problems and increased peer relatedness for all students, not only marginalized students](../claims/cooperative-learning-main-effects-emotional-problems-relatedness.md) [+M] — instruction changes it
+- [Among youth who did not complete high-school, strong school belonging is associated with five percentage points lower NEET likelihood](../claims/belonging-marginal-effect-non-graduates.md) [~W] — learners who differ on it differ in outcomes
+- [High-school graduation does not explain the link between school belonging and NEET status](../claims/graduation-does-not-explain-belonging-neet-link.md) [+W] — learners who differ on it differ in outcomes
+- [School belonging at age 15 predicts lower likelihood of NEET status at ages 16-20 controlling for demographics, achievement, and school context](../claims/school-belonging-predicts-neet-status.md) [+W] — learners who differ on it differ in outcomes
+- [The belonging-NEET association does not vary by achievement, gender, SES, place, Indigenous/immigrant status, or cohort](../claims/belonging-neet-no-moderation.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]
