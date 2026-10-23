@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 106 claims (54 for, 51 mixed, 1 against) · 65 studies (22 associational, 21 causal, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 13 of 65 report an effect size · 103 claims rest on one study
+> **Evidence** · 107 claims (54 for, 52 mixed, 1 against) · 66 studies (22 causal, 22 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 13 of 66 report an effect size · 104 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -169,6 +169,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Short-term storage capacity increases from two units at ages 3-4 to four units at ages 10-11 when executive operations are minimal](../claims/short-term-storage-capacity-two-to-four-units.md) [+W]
 - [Haptic exploration of real objects improves long-term recall of those objects three weeks later, with vision-and-haptics outperforming only-vision](../claims/haptic-object-recall-advantage-followup.md) [+W] — attached 2026-10-22 from Magdalena Novak et al. (2021), which proposed "Cognitive-Affective Theory of Learning with Media (CATLM) as a framework for haptic learning".
 - [Numerical problem difficulty and lower mathematical abilities increase attention on numbers during the second solution phase](../claims/numerical-difficulty-second-phase-number-attention.md) [+W]
+- [Grade level, nonverbal intelligence, and working memory predicted mathematics achievement, explaining 88% of intercept variance but only 16-22% of slope variance](../claims/covariates-predict-math-growth.md) [~W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

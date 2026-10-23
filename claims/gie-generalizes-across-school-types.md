@@ -46,3 +46,4 @@ Multi-group invariance testing (Models 5–8) compared sixth-graders in elementa
 - [Math and language achievement are positively related to students' perceptions of the learning environment in matching domains but negatively related or unrelated across non-matching domains, supporting the GI/E model for perceptions of instructional quality and student-teacher relations.](gie-pattern-perceptions-learning-environment.md) — related
 - [The GI/E pattern of relations between achievement and learning-environment perceptions is more pronounced for math achievement than for language achievement.](stronger-gie-pattern-for-math.md) — related
 - [The achievement goal model's pattern of results holds for both younger and older adult age groups](goal-model-holds-across-age-groups.md) — related
+- [Secondary students' perceptions of instructional quality exhibit a two-level structure](student-perceptions-instructional-quality-two-level-structure.md) — related

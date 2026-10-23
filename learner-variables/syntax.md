@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (19 show a difference, 7 mixed, 5 no difference) · 23 studies (6 causal, 6 review, 5 associational, 4 quant-synthesis, 1 design, 1 theoretical), `q2`–`q3` · 1 of 23 report an effect size · 28 claims rest on one study
+> **Evidence** · 32 claims (20 show a difference, 7 mixed, 5 no difference) · 24 studies (6 causal, 6 review, 5 associational, 4 quant-synthesis, 2 theoretical, 1 design), `q2`–`q3` · 1 of 24 report an effect size · 29 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -69,6 +69,7 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [The amount of input in each language is related to syntactic development and language dominance](../claims/input-amount-relates-to-syntactic-development.md) [+M] — instruction changes it
 - [Attention to form via structural analysis or via highlighting structures in context promotes interlanguage grammar acquisition, but only highlighting in context comes with comprehension of input](../claims/attention-to-form-rule-vs-highlighting-comprehension.md) [+M] — instruction changes it
 - [RALL studies report learning gains when social robots are used to teach vocabulary, reading skills, speaking skills, grammar, and sign language](../claims/rall-learning-gains-five-language-domains.md) [+M] — instruction changes it
+- [Interleaved practice yields lasting learning effects at delayed posttests in spelling and second-language grammar](../claims/interleaving-lasting-learning-delayed-posttests.md) [+W] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

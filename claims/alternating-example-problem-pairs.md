@@ -52,3 +52,4 @@ The review reports, citing Trafton and Reiser, an experiment using a LISP progra
 - [Students become faster and more accurate in equation rearrangement over a short practice session even without feedback](short-practice-improves-equation-rearrangement.md) — related
 - [Interleaved practice improves delayed posttest performance compared with blocked practice](interleaved-practice-improves-posttest-performance.md) — related
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — related
+- [Interleaved practice yields lasting learning effects at delayed posttests in spelling and second-language grammar](interleaving-lasting-learning-delayed-posttests.md) — related

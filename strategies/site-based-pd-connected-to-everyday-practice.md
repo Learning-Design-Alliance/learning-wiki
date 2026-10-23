@@ -45,6 +45,7 @@ A consensus eventually developed among MiC districts that one of the best means 
 - [Start PD with ready and willing teachers and scale up over time, using train-the-trainers models](start-pd-with-ready-and-willing-scale-up.md)
 - [Lesson Study](lesson-study.md)
 - [Clearly define the role of the coach and support principals in working with math coaches](clearly-define-coach-role-with-principals.md)
+- [Design teacher PD on differentiation to connect to daily practice, include active learning and collaboration, and sustain implementation through coaches and principals](pd-design-features-differentiation.md)
 
 ## Examples
 -

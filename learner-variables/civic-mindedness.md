@@ -13,7 +13,7 @@ generated:
 # Civic Mindedness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 34 claims (23 show a difference, 5 mixed, 6 no difference) · 15 studies (6 associational, 3 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 15 report an effect size · 32 claims rest on one study
+> **Evidence** · 40 claims (27 show a difference, 7 mixed, 6 no difference) · 16 studies (7 associational, 3 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 3 of 16 report an effect size · 38 claims rest on one study
 
 ## Description
 Civic mindedness is a learner's orientation toward their community: seeing themselves as someone who can contribute, being informed about and attentive to the needs and goals of others (including needs that differ from their own), and joining with others to pursue shared aims. It includes thinking critically about civic content and social movements and about the democratic systems that govern communities, including the inequities those systems can produce and how they might be addressed. Prosocial behaviour, acting with others in mind, is described as one of its foundations. It is measured with sets of civic-outcome instruments for elementary classrooms (knowledge, thinking, dispositions and participation) and with critical-consciousness scales for older adolescents and adults.
@@ -75,6 +75,12 @@ It is related to [social awareness and relationship skills](social-awareness-and
 - [Private schooling is associated with higher political tolerance (0.120 SD) and higher civic knowledge and skills (0.121 SD).](../claims/private-schooling-tolerance-and-civic-knowledge-advantage.md) [+M] — instruction changes it
 - [Private schooling shows no statistically significant association with political participation in the four-category analysis.](../claims/private-schooling-political-participation-null.md) [-M] — instruction changes it
 - [Religious private schooling is more strongly associated with positive civic outcomes than secular private schooling, which shows no significant association.](../claims/religious-private-schooling-stronger-civic-association.md) [~M] — instruction changes it
+- [Greater COVID-19 lockdown stringency is associated with larger declines in grade 8 civic knowledge across 15 educational systems](../claims/lockdown-stringency-civic-knowledge-declines.md) [+M] — instruction changes it
+- [Lockdown measures are positively associated with expected political participation but show null or negative associations with expected electoral participation](../claims/lockdown-political-up-electoral-null-negative.md) [~M] — instruction changes it
+- [Lockdown stringency and school closure duration are associated with greater declines in student trust in civic institutions](../claims/lockdown-trust-civic-institutions-declines.md) [+M] — instruction changes it
+- [Longer school closures are associated with greater declines in grade 8 civic knowledge](../claims/school-closure-duration-civic-knowledge-declines.md) [+M] — instruction changes it
+- [Robustness of the lockdown-civic outcome associations varies by outcome, with legal protest and trust/closure results most consistent](../claims/lockdown-civic-results-outlier-sensitivity.md) [~M] — instruction changes it
+- [Stricter, longer lockdowns are associated with increases (or smaller declines) in students' expected protest participation, strongest for legal protest](../claims/lockdown-protest-participation-increases.md) [+M] — instruction changes it
 
 ## Measures
 - **Civic Outcomes for Elementary School** (Chi et al., 2006): instruments for civic knowledge, thinking, dispositions and participation in elementary classrooms.

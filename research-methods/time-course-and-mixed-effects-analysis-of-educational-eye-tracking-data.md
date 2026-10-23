@@ -27,6 +27,7 @@ The author argues that eye tracking's main advantage is detailed time-course inf
 
 - [Eye-tracking research paradigm for studying professional vision and teacher expertise](eye-tracking-research-paradigm-for-studying-professional-vision-and-teacher-expertise.md)
 - [Mobile eye-tracking methodology for capturing joint visual attention in co-located groups](mobile-eye-tracking-methodology-for-capturing-joint-visual-attention-in-co-located-groups.md)
+- [Eye-tracking paradigm for studying peer feedback processing and use](eye-tracking-paradigm-for-studying-peer-feedback-processing-and-use.md)
 
 ## Key Sources
 - Kaakinen, J. K. (2021). What Can Eye Movements Tell us about Visual Perception Processes in Classroom Contexts? Commentary on a Special Issue. Educational Psychology Review, 33, 169-179. https://doi.org/10.1007/s10648-020-09573-7

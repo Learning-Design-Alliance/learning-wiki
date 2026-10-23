@@ -69,6 +69,7 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Improve transmedia-curriculum professional development with classroom observation, Q&A-only webinars, and later scheduling](tec-pd-improvement-suggestions.md)
 - [Ongoing math-specialist coaching and curriculum-based professional development for implementing teachers](thinking-math-coaching-pd-strategy.md)
 - [Provide no-cost initial training, coaching visits, administrator overviews, and year-round support when implementing Superkids](superkids-no-cost-pd-support-strategy.md)
+- [Implement strategy interventions through regular teachers with minimal professional development and structured materials](teacher-led-minimal-pd-intervention-strategy.md)
 
 ## Examples
 -

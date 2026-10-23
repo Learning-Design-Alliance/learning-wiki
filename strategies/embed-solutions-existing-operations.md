@@ -44,6 +44,7 @@ The article recommends routinizing a solution by attaching it to structures and 
 - [Integrate tutoring into the regular school day rather than scheduling it outside instructional time](integrate-tutoring-into-regular-school-day.md)
 - [Integrate caregiver-led child nutrition monitoring with other health services to increase sustainability](integrate-family-muac-with-other-health-services.md)
 - [Infuse social psychological concepts into existing pre-service courses and professional development rather than new standalone courses](infuse-social-psychology-teacher-education.md)
+- [Implement strategy interventions through regular teachers with minimal professional development and structured materials](teacher-led-minimal-pd-intervention-strategy.md)
 
 ## Examples
 -

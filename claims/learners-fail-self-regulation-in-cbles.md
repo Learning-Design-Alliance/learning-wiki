@@ -47,3 +47,4 @@ The dissertation reports, citing Azevedo & Cromley (2004) and Roll et al. (2005)
 - [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md) — a narrower finding that bears on this claim
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
 - [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](ai-assistance-withdrawal-performance-decline.md) — a narrower finding that bears on this claim
+- [Metacognitive prompting increases domain-general metacognitive SRL activities (goal specification and strategic planning) in young learners in a CBLE](prompting-increases-domain-general-metacognitive-srl.md) — a narrower finding that bears on this claim

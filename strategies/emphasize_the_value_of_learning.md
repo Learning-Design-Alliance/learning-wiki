@@ -63,6 +63,7 @@ Emphasizing value works because motivation depends on learners both expecting su
 - [Check-Ins](../principles/check-ins.md) — ongoing monitoring of learner motivation and self-perception
 - [Nurture the perceived value of creativity through joyful practice, task relevance, varied tasks, and enthusiastic teacher modeling](nurture-perceived-value-of-creativity-strategies.md)
 - [Align reward with focus support and with SEVT value facets when designing instruction](align-reward-with-focus-support-and-value-facets.md)
+- [Teachers explicitly communicate the relevance, importance, and utility of science alongside curriculum content](communicate-science-value-messages-in-lessons.md)
 
 ## Examples
 - **Utility-value essays in science courses** — Hulleman & Harackiewicz (2009) had high school science students write briefly about how course topics related to their lives; students with low success expectations showed higher interest and better grades [+S]

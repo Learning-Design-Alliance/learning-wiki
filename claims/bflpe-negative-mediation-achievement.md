@@ -54,3 +54,4 @@ Exploratory supplementary path analysis with SIMS80 data modeling mathematics se
 - [School-average achievement negatively predicts academic self-concept (BFLPE) and GPA in the comprehensive doubly-latent model](school-average-achievement-negative-compositional-effect-asc-gpa.md) — related
 - [Classroom-average mathematics achievement shows no statistically significant association with ASC development when clique achievement is modeled simultaneously](classroom-achievement-no-significant-asc-effect.md) — reports the opposite
 - [Clique-average mathematics achievement negatively predicts the development of adolescents' academic self-concept (a BFLPE at the clique level)](clique-achievement-negative-bflpe-asc-change.md) — related
+- [Equally able students report lower academic self-concepts in high-achieving classrooms than in low-achieving classrooms (the Big-Fish-Little-Pond Effect)](bflpe-lower-asc-high-achieving-classrooms.md) — related

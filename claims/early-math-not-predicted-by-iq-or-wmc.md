@@ -51,3 +51,4 @@ Regression analyses predicting Grade 2 mathematics in the LOGIC sample with age,
 - [In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood](sem-iq-only-significant-predictor.md) — reports the opposite
 - [IQ, short-term memory and study habits each correlate positively and significantly with academic achievement in both 3rd and 4th grade](iq-memory-study-habits-positive-correlations-achievement.md) — related
 - [Neither first-grade whole number magnitude nor arithmetic knowledge uniquely predicted eighth-grade reading achievement](early-wn-knowledge-does-not-predict-middle-school-reading.md) — related
+- [Grade level, nonverbal intelligence, and working memory predicted mathematics achievement, explaining 88% of intercept variance but only 16-22% of slope variance](covariates-predict-math-growth.md) — related

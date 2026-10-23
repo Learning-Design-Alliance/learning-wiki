@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1852 entries** · 0 stable · 1852 in review · 0 drafts
+**1856 entries** · 0 stable · 1856 in review · 0 drafts
 
 ---
 
@@ -689,6 +689,8 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Group and representation tool (GRT)](group-and-representation-tool-grt.md) - The Group and representation tool (GRT), developed by Erkens, Bodemer, and Hoppe, transforms students' written text into variables to support heterogeneous group formation and cognitive group-awareness visualization.
 * [GrouPer](grouper.md) - GrouPer is an AI-based student-grouping recommendation tool developed for teachers that uses unsupervised clustering of assessment responses to support formative analysis and assignment of adapted learning activities.
 * [Grow Network](grow-network.md) - The Grow Network is a reporting platform operated by the Grow Network that transforms grades 3–9 assessment results into customized print and online reports, instructional resources, and parent-facing explanations for educators, principals, and families.
+* [GROW project](grow-project.md) - An expert-consensus framework developed by the GROW project that guides primary mathematics teachers through diagnosing needs, setting differentiated goals, differentiating instruction and practice, and evaluating progress.
+* [GROW teacher professional development programme](grow-teacher-professional-development-programme.md) - A year-long professional development programme run by educational consultants and school-based project coaches to develop primary teachers' competency in differentiated mathematics instruction through team meetings, coaching, lesson observation, and school-level implementation planning.
 * [Grow Your Own Illinois program](grow-your-own-illinois-program.md) - An Illinois state-funded programme that supports community members and prospective high school candidates in becoming certified teachers through scholarships and partnerships among school districts, preparation programmes, and community-based organizations.
 * [GroweLab](growelab.md) - GroweLab is engage2learn's all-in-one coaching and talent-development platform for facilitating and documenting educator coaching and tracking professional-growth data and outcomes.
 * [GSA](gsa.md) - A teacher professional-development system that guides educators in videotaping, coding, and reviewing their own classroom teaching to identify strengths and areas for change.
@@ -1212,6 +1214,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Orientation discrimination task](orientation-discrimination-task.md) - A computerized adaptive psychophysical assessment in which children judge relative segment orientation to estimate visual-processing discrimination thresholds.
 * [OSF repository](osf-repository.md) - An OSF-hosted replication package from Zambrano et al.
 * [Ottoman Empire face-to-face debate corpus with hand-coded transactivity](ottoman-empire-face-to-face-debate-corpus-with-hand-coded-transactivity.md) - A research dataset of 76 recorded dyadic debates by male undergraduates on the causes of the Ottoman Empire's decline, with transcribed clause-level speech and hand-coded transactivity annotations, collected by Gweon et al.
+* [Oxford COVID-19 Government Response Tracker (OxCGRT)](oxford-covid-19-government-response-tracker-oxcgrt.md) - A publicly available dataset produced by the University of Oxford that records daily government COVID-19 policy responses, including stringency and school-closure measures, across countries.
 
 #### P {: #letter-p }
 
@@ -1625,6 +1628,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Survey dataset and analysis code for digital distraction strategy mining](survey-dataset-and-analysis-code-for-digital-distraction-strategy-mining.md) - An OSF-hosted dataset of self-reported college-student survey responses and accompanying R analysis code for mining associations between online-learning strategies and digital distraction, released by Shi et al.
 * [Survey of Learning Behaviors](survey-of-learning-behaviors.md) - A self-report assessment used to measure students' self-regulation, including self-monitoring and knowledge-acquisition strategies, administered before and after instruction.
 * [SVLAT: Scientific Visualization Literacy Assessment Test](svlat-scientific-visualization-literacy-assessment-test.md) - SVLAT is a standardized test developed by Patrick Phuoc Do et al.
+* [Symbol Math task](symbol-math-task.md) - A computer-based experimental assessment developed by Mielicki et al.
 * [SYMP Test](symp-test.md) - The SYMP Test is a group-administered, timed paper-and-pencil assessment created by Brankaer et al.
 * [Symphony Math](symphony-math.md) - Symphony Math is a web-browser and iPad technology intervention program that provides individualized mathematics practice for K–8 students, developed and distributed as the Symphony Math program.
 * [Syntea](syntea.md) - Syntea is IU International University of Applied Sciences' AI-based learning-assistant software for question answering, interactive tutoring, personalized feedback, progress tracking, and exam preparation.

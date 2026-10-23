@@ -49,7 +49,8 @@ Because the goal-emotion relations hold at the intraindividual level, the author
 - [Beyond the hypothesized links, mastery goals also predicted pride, performance-approach goals predicted enjoyment and (weakly) shame, and performance-avoidance goals predicted anger](../claims/additional-goal-emotion-relations-beyond-hypotheses.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design programs that foster students' positive emotions and reduce negative emotions to support subsequent relationship quality and achievement](foster-positive-emotions-programs-strategy.md)
 
 ## Examples
 -

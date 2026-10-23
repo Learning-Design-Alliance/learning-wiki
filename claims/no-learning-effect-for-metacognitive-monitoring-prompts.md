@@ -53,3 +53,4 @@ Regressions over the three behavioral measures for the 16 students with valid ga
 - [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](revise-summary-compliance-predicts-learning-gains.md) — related
 - [More fixations on the learning content after an add-subgoal prompt are associated with higher learning gains, suggesting complying with that prompt may not be effective](add-subgoal-prompt-compliance-may-not-help-learning.md) — related
 - [Providing subgoals did not help on the Missionaries and Cannibals problem but facilitated performance on an extended 5-Missionaries and 5-Cannibals variant](subgoals-facilitate-performance-larger-problem-space.md) — related
+- [Prompt compliance varied widely across the four metacognitive prompts, with interactive prompts responded to more appropriately](prompt-compliance-varies-interactivity.md) — related

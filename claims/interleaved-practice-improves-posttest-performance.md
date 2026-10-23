@@ -51,3 +51,4 @@ The same MANOVA on posttest time and trials showed a main effect of desirable di
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](alternating-example-problem-pairs.md) — related
 - [The interaction of complexity and desirable difficulty does not significantly affect posttest performance](complexity-difficulty-interaction-not-significant-performance.md) — related
+- [Interleaved practice yields lasting learning effects at delayed posttests in spelling and second-language grammar](interleaving-lasting-learning-delayed-posttests.md) — a narrower finding that bears on this claim

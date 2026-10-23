@@ -49,3 +49,4 @@ Cost analysis from the faces task with ninety 8-year-olds in three language grou
 - [Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages](bilingual-advantage-reading-acquisition.md) — related
 - [Bilinguals show a marginally smaller Stroop effect and higher overall Stroop accuracy than monolinguals](bilinguals-marginally-smaller-stroop-effect.md) — related
 - [Bilingually educated high-school students show smaller switching costs (greater cognitive flexibility) than regularly educated peers](bilingual-education-smaller-switching-costs.md) — related
+- [No bilingual advantage in executive control or working memory in Experiment 2](no-bilingual-advantage-executive-control.md) — reports the opposite

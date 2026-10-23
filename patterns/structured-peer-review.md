@@ -32,7 +32,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 47 claims (30 for, 17 mixed) · 55 studies (16 causal, 11 quant-synthesis, 9 associational, 8 review, 4 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 12 of 55 report an effect size · 33 claims rest on one study
+> **Evidence** · 48 claims (30 for, 18 mixed) · 56 studies (17 causal, 11 quant-synthesis, 9 associational, 8 review, 4 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 12 of 56 report an effect size · 34 claims rest on one study
 
 ## Description and scope
 
@@ -167,6 +167,7 @@ This pattern is scoped to peers commenting on an individual's draft that the aut
 ## Claims
 
 - [Feedback provision support improves quality of feedback provision (g = 0.72) and quality of feedback reception (g = 0.69) but not subject-matter-related knowledge](../claims/provision-support-improves-both-process-qualities.md) [+W]
+- [High-quality revisers corrected one or two lower order aspects at a time, proofread at the end, and went beyond the suggestions provided in the peer feedback](../claims/high-quality-revisers-incremental-correction-and-proofreading.md) [~W]
 
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)

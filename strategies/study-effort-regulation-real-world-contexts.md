@@ -52,6 +52,7 @@ The commentary recommends moving beyond isolated laboratory tasks toward real-wo
 - [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
 - [Research agenda: investigate affective dynamics with within-person, longitudinal, and multi-channel methods](affective-dynamics-research-agenda-curiosity-interest.md)
 - [Model assets and threats to availability by blending inter-individual self-reports with process-oriented intraindividual online measures](blended-observational-intraindividual-availability-paradigm.md)
+- [Build research programs combining studies optimized for internal validity with studies optimized for ecological validity](research-programs-mixing-internal-and-ecological-validity.md)
 
 ## Examples
 -

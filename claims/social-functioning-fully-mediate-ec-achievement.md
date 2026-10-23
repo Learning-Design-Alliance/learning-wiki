@@ -53,3 +53,4 @@ Structural equation modeling with full information maximum likelihood in MPlus (
 - [Social competence is positively and externalizing problems negatively prospectively related to academic achievement](social-competence-positive-externalizing-negative-achievement.md) — related
 - [The mediated EC-achievement model is not moderated by children's sex, age, or SES](no-moderation-sex-age-ses.md) — related
 - [Latent EC at age 3 does not predict mathematics achievement, but EC at ages 3.75, 4.5, and 5.25 shows independent prospective links with mathematics](ec-predicts-math-from-3-75-onward.md) — related
+- [Students' emotional experience predicts later academic achievement, while relationship quality does not](emotions-predict-achievement-relationship-does-not.md) — related

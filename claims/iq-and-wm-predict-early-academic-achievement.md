@@ -70,3 +70,4 @@ Hierarchical regression analyses of the LOGIC longitudinal sample (assessments a
 - [Skill-specific genetic variance in working memory and processing speed predicts reading components](skill-specific-genetic-variance-predicts-reading-components.md) — related
 - [The best math-predicting model is specific to mathematics; reading requires a different model](math-model-specificity-reading.md) — related
 - [Previous domain knowledge did not affect e-learning text comprehension, directly or as a moderator](previous-knowledge-null-elearning-comprehension.md) — related
+- [Grade level, nonverbal intelligence, and working memory predicted mathematics achievement, explaining 88% of intercept variance but only 16-22% of slope variance](covariates-predict-math-growth.md) — related

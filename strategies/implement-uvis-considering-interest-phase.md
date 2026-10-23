@@ -42,7 +42,8 @@ The article recommends that when examining and implementing UVIs, educators and 
 - [Utility-value interventions enhance perceived utility value, engagement, performance, and persistence in introductory college science courses](../claims/uvi-improve-engagement-performance-persistence.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teachers explicitly communicate the relevance, importance, and utility of science alongside curriculum content](communicate-science-value-messages-in-lessons.md)
 
 ## Examples
 -

@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**622 entries** · 0 stable · 622 in review · 0 drafts
+**624 entries** · 0 stable · 624 in review · 0 drafts
 
 ---
 
@@ -83,6 +83,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [CoDiL framework: taxonomy of learning activities for digitally enriched educational settings](codil-framework-taxonomy-of-learning-activities-for-digitally-enriched-educational-setting.md) - The CoDiL framework enumerates learning activities that digital instructional features may initiate and stimulate, each with an external behavioral side (observable student-tool interactions) and an internal cognitive side.
 * [Coding framework of metacognition intervention components and instructional methods](coding-framework-of-metacognition-intervention-components-and-instructional-methods.md) - The article develops a fine-grained coding framework for metacognition interventions, distinguishing intervention focus (primary vs.
 * [Coding scheme for observable Direction, Integration, and Evaluation in student–AI interaction traces](coding-scheme-for-observable-direction-integration-and-evaluation-in-studentai-interaction.md) - An exploratory multilabel coding scheme applied to student turns in AI-mediated conversations, with the student turn as coding unit interpreted in relation to its local sequence and the whole conversation.
+* [Coding scheme of young learners’ metacognitive SRL activities with domain-general and task-specific sublevel categories](coding-scheme-of-young-learners-metacognitive-srl-activities-with-domain-general-and-task.md) - A think-aloud coding scheme for metacognitive SRL activities in lower secondary students, developed from theory and data using Bannert’s (2007) and van der Stel and Veenman’s (2014) schemes as a basis.
 * [Cognitive and social-emotional perspective-taking coding scheme for dyadic AUT dialogues](cognitive-and-social-emotional-perspective-taking-coding-scheme-for-dyadic-aut-dialogues.md) - A novel observational coding scheme designed by the authors, based on the PAT theory and inspirations from Chiu (2008), applied utterance-by-utterance to videotaped and transcribed AUT sessions.
 * [Cognitive Diagnostic Profiling (CDP)](cognitive-diagnostic-profiling-cdp.md) - CDP is a zero-shot framework that draws on cognitive diagnostic models \"to represent each simulated examinee as a binary attribute-mastery profile and prompts an LLM to generate item responses consistent with that profile.\" It proceeds in six steps: construct decomposition into binary attributes, ma
 * [Cognitive episodes: an eight-way taxonomy of functional problem-solving states grounded in Schoenfeld's Episode Theory](cognitive-episodes-an-eight-way-taxonomy-of-functional-problem-solving-states-grounded-in.md) - Cognitive episodes organize LLM reasoning traces into temporally ordered functional problem-solving states.
@@ -203,6 +204,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Extended Strobel taxonomy of five student–GenAI entanglement types](extended-strobel-taxonomy-of-five-studentgenai-entanglement-types.md) - The paper extends Strobel et al.'s (2024) taxonomy of GenAI applications — originally derived from 100 commercial and professional applications — into a classification lens for educational settings.
 * [Extended Taxonomy Design Process (ETDP)](extended-taxonomy-design-process-etdp.md) - The ETDP, described by Kundisch et al.
 * [Eye Movement Sequence (EMS) model for identifying reading sequences from fixations](eye-movement-sequence-ems-model-for-identifying-reading-sequences-from-fixations.md) - The EMS model is an algorithm the authors developed for an earlier study to identify reading sequences from eye-tracking fixation data over look zones.
+* [Eye-tracking paradigm for studying peer feedback processing and use](eye-tracking-paradigm-for-studying-peer-feedback-processing-and-use.md) - A laboratory paradigm in which 59 higher education students read the feedback of two peers on a fictional essay and revise it while their gaze behaviour is recorded.
 * [Eye-tracking research paradigm for studying professional vision and teacher expertise](eye-tracking-research-paradigm-for-studying-professional-vision-and-teacher-expertise.md) - The article characterizes an emerging research paradigm in which eye-tracking methodologies are used to study professional vision and teacher expertise.
 
 #### F {: #letter-f }

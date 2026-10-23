@@ -13,7 +13,7 @@ generated:
 # Cognitive Conflict
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 14 studies (6 causal, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 14 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (6 for, 4 mixed) · 15 studies (7 causal, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 15 report an effect size · 7 claims rest on one study
 
 ## Description
 Cognitive conflict is the deliberate introduction of evidence, questions, or situations that contradict learners' existing conceptions, creating a state of [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) that motivates accommodation. Rooted in Piaget's equilibration model, it functions as the trigger for conceptual change: learners must notice the conflict, experience dissatisfaction with their current conception, and construct a replacement that resolves it.
@@ -58,6 +58,7 @@ Cognitive conflict supports learning by making naive or partial conceptions visi
 - [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](../claims/medium-incongruity-inverted-u-cognitive-conflict.md) [~W]
 - [Anger does not mediate the effect of concessive refutation statements on conceptual change or transfer](../claims/anger-does-not-mediate-concession-effects.md) [~W]
 - [Readers with misconceptions engage in more conceptual change strategies than readers without misconceptions, but only when reading a refutation text](../claims/misconception-refutation-conceptual-change-strategies.md) [+W]
+- [Discrepant peer feedback leads to more transitions between feedback and essay, but only for students who report the discrepancy afterwards](../claims/discrepant-peer-feedback-more-transitions-only-reporters.md) [~W]
 
 ## The evidence by question
 

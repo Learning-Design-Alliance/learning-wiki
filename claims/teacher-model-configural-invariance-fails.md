@@ -68,3 +68,4 @@ Measurement invariance testing of the teacher measurement model across the seven
 - [Mexico's measurement models differed from all other countries, so Mexico was excluded and the study reports seven countries](mexico-excluded-different-measurement-models.md) — related
 - [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related
 - A higher-order general instructional quality factor fits the student data in all seven countries but does not hold for teacher data — related
+- [Measurement invariance of secondary students' perceptions of instructional quality is examined and supported](student-perceptions-instructional-quality-measurement-invariance.md) — related

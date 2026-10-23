@@ -47,3 +47,4 @@ The commentary reports, citing Kinnebrew et al., that 73 seventh-grade students 
 - [In one video study of Betty's Brain, 77% of the feedback delivered by the agents was ignored by students.](betty-brain-feedback-ignored-77-percent.md) — related
 - [More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.](more-successful-students-higher-gains-focused-actions.md) — related
 - The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains — a broader claim this one bears on
+- [Prompted learners’ sequential SRL structure resembled traditional SRL models, using reflection more as an ending activity than unprompted learners](prompting-reflection-ending-activity-structure.md) — related

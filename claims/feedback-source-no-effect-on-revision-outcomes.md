@@ -70,3 +70,4 @@ In the same ANCOVA, initial essay quality was a significant covariate, F(1, 64) 
 - [Students' initial knowledge level (midterm scores) did not significantly influence improvement in lab scores, indicating it did not confound the feedback-source difference](midterm-knowledge-did-not-confound-feedback-use.md) — related
 - [Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality](zero-shot-feedback-quality-comparable-to-teacher.md) — related
 - [Expressed helpfulness of AI feedback showed no association with next essay reflection depth](helpfulness-no-association-next-reflection-depth.md) — related
+- [Dwell time on the essay correlates positively with the quality of revised essays as assessed by professors](dwell-time-on-essay-correlates-with-revision-quality.md) — related

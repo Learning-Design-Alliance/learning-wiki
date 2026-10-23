@@ -39,6 +39,7 @@ The report proposes a three-part methodological strategy for establishing that a
 ## Related Strategies
 
 - [Define the target population as the first step in designing a generalizable impact study](define-target-population-first-generalizable-impact-studies.md)
+- [Build research programs combining studies optimized for internal validity with studies optimized for ecological validity](research-programs-mixing-internal-and-ecological-validity.md)
 
 ## Examples
 -

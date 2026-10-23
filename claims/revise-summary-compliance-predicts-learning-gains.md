@@ -56,3 +56,4 @@ Multiple linear regression on data from a user study with 28 college students le
 - [More fixations on the learning content after an add-subgoal prompt are associated with higher learning gains, suggesting complying with that prompt may not be effective](add-subgoal-prompt-compliance-may-not-help-learning.md) — related
 - [Personalized SRL scaffolds showed higher compliance than no and non-personalized scaffolds, linked to better essay scores](personalized-scaffolds-compliance-essay-scores.md) — related
 - [In the generalized condition, compliance with several suggested actions was associated with higher essay scores, with one exception: note-taking after the last scaffold was associated with lower essay scores.](compliance-suggested-actions-essay-scores-mixed.md) — related
+- [Prompt compliance varied widely across the four metacognitive prompts, with interactive prompts responded to more appropriately](prompt-compliance-varies-interactivity.md) — related

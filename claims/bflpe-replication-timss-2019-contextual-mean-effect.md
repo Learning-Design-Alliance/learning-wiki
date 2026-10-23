@@ -61,3 +61,5 @@ Multilevel Model 2 (Table 1) predicting mathematics self-concept from student ac
 - [Classroom-average mathematics achievement shows no statistically significant association with ASC development when clique achievement is modeled simultaneously](classroom-achievement-no-significant-asc-effect.md) — reports the opposite
 - [Clique-average mathematics achievement negatively predicts the development of adolescents' academic self-concept (a BFLPE at the clique level)](clique-achievement-negative-bflpe-asc-change.md) — related
 - [Individual mathematics achievement is positively associated with students' ASC development over the school year](individual-achievement-positive-asc-change.md) — related
+- [The BFLPE exists in both elementary-school and secondary-school contexts](bflpe-exists-in-both-school-contexts.md) — related
+- [Equally able students report lower academic self-concepts in high-achieving classrooms than in low-achieving classrooms (the Big-Fish-Little-Pond Effect)](bflpe-lower-asc-high-achieving-classrooms.md) — related

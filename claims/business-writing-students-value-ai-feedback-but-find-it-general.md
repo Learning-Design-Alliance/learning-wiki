@@ -55,3 +55,4 @@ Trends and comments from the Job or Graduate/Professional School Application ass
 - [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](students-recognize-writing-improvement-ai-feedback.md) — related
 - [Student perceptions of GenAI feedback functionalities diverged, with some finding them redundant when feedback was perceived as clear](divergent-perceptions-genai-feedback-redundancy.md) — related
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related
+- [Students producing high-quality revisions spent more time addressing higher order comments](high-quality-revisers-more-time-higher-order-comments.md) — related

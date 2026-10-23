@@ -56,3 +56,4 @@ Two-wave longitudinal study of 743 German sixth- and eighth-grade students in 93
 - [The Big-Fish-Little-Pond effect on mathematics self-concept is negative and statistically significant in all three countries under a fully specified doubly latent model](bflpe-negative-significant-all-countries.md) — related
 - [Class-average achievement and chosen upward comparisons each make substantial, unique negative contributions to math self-beliefs when modeled simultaneously](bflpe-generalized-and-specific-others-unique-effects.md) — related
 - [No statistically significant assimilation effect (BIRGE) of belonging to a higher-achieving clique within the classroom on ASC change](no-birge-assimilation-clique-level.md) — related
+- [Equally able students report lower academic self-concepts in high-achieving classrooms than in low-achieving classrooms (the Big-Fish-Little-Pond Effect)](bflpe-lower-asc-high-achieving-classrooms.md) — related

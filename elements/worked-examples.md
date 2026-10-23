@@ -13,7 +13,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 36 claims (18 for, 14 mixed, 4 against) · 40 studies (20 causal, 11 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 7 of 40 report an effect size · 27 claims rest on one study
+> **Evidence** · 37 claims (18 for, 15 mixed, 4 against) · 41 studies (20 causal, 11 review, 5 theoretical, 4 quant-synthesis, 1 associational), `q1`–`q4` · 7 of 41 report an effect size · 28 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -70,6 +70,7 @@ Worked examples are the element in which learners study complete or partial solu
 - [Adding instructional explanations to worked examples yields a small positive effect on learning, stronger for conceptual than procedural knowledge](../claims/instructional-explanations-in-worked-examples-small-effect.md) [+W]
 - [Worked examples benefit learning even compared to tutored problem solving with on-demand guidance, indicating the effect is not an artefact of weak control conditions](../claims/worked-examples-beat-tutored-problem-solving.md) [+W]
 - [On the immediate test, novices showed a worked example effect (high guidance superior) while more knowledgeable learners showed a generation effect (low guidance superior)](../claims/immediate-test-guidance-expertise-interaction-worked-example-generation.md) [+W]
+- [Problem solving after acquisition outperformed example study at a one-week delayed posttest but not immediately](../claims/problem-solving-beats-example-study-at-delay.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

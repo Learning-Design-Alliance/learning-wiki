@@ -40222,5 +40222,81 @@
  "media-design\tspeech-only sequential strategies\tsequential speech followed by gesture": {
   "label": "sequential speech followed by gesture vs speech-only sequential strategies",
   "treatment_is_a": false
+ },
+ "explicit-instruction\tpurposeful reading direct-instruction workshops\tactive reading and writing workshops": {
+  "label": "explicit instruction vs active reading and writing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpurposeful reading direct-instruction workshops\tactive reading-and-writing workshops": {
+  "label": "explicit instruction vs active reading and writing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpurposeful reading direct-instruction workshops\texperimental-group pre-test performance": {
+  "label": "explicit instruction vs pretest baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpurposeful reading direct-instruction workshops\treading and writing workshops": {
+  "label": "explicit instruction vs active reading and writing",
+  "treatment_is_a": true
+ },
+ "feedback-type\tautomatic adaptive feedback based on artificial neural networks\tstatic feedback in the form of an expert solution": {
+  "label": "adaptive vs static feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdiscrepant peer feedback\tnon-discrepant peer feedback": {
+  "label": "discrepant vs non-discrepant peer feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tstatic feedback in dyads\tadaptive feedback in dyads": {
+  "label": "adaptive vs static feedback",
+  "treatment_is_a": false
+ },
+ "interleaving\tinterleaved Spanish grammar practice\tblocked practice": {
+  "label": "interleaved vs blocked practice",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved spelling practice\tblocked spelling practice": {
+  "label": "interleaved vs blocked practice",
+  "treatment_is_a": true
+ },
+ "media-design\topen instructor posture\tclosed instructor posture": {
+  "label": "open vs closed posture",
+  "treatment_is_a": true
+ },
+ "media-design\topen posture\tclosed posture": {
+  "label": "open vs closed posture",
+  "treatment_is_a": true
+ },
+ "media-design\tupright instructor posture\tslumped instructor posture": {
+  "label": "upright vs slumped posture",
+  "treatment_is_a": true
+ },
+ "media-design\tupright posture\tslumped posture": {
+  "label": "upright vs slumped posture",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem solving\texample study": {
+  "label": "problem-first vs example-first",
+  "treatment_is_a": true
+ },
+ "prompts\tmetacognitive prompts\tno metacognitive prompts": {
+  "label": "metacognitive prompts vs no metacognitive prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval during generative drawing\tgenerative drawing without retrieval": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice\tcomparison condition": {
+  "label": "retrieval practice vs comparison condition",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieval practice\tcomparison condition without retrieval practice": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tretrieving each upcoming problem-solving step\tnon-retrieval condition": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
  }
 }

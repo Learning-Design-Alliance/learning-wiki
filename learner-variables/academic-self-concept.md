@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 90 claims (65 show a difference, 18 mixed, 7 no difference) · 46 studies (20 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 12 of 46 report an effect size · 87 claims rest on one study
+> **Evidence** · 93 claims (67 show a difference, 19 mixed, 7 no difference) · 47 studies (21 associational, 10 review, 9 causal, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 12 of 47 report an effect size · 90 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -125,6 +125,9 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Adaptive task difficulty compensates low interest but not low self-concept among vocational-school students during repeated practice](../claims/adaptive-task-difficulty-compensates-low-interest-vs-students.md) [-W] — an instructional effect differs with it
 - [Negative feedback lowered math self-concept indirectly via enjoyment and hope; positive feedback raised it via hope](../claims/feedback-indirect-effects-math-self-concept.md) [+W] — instruction changes it
 - [Prior math self-concept moderated positive feedback on self-concept: positive feedback strengthened pre-existing self-concept](../claims/prior-self-concept-moderates-positive-feedback-self-concept.md) [~W] — an instructional effect differs with it
+- [Equally able students report lower academic self-concepts in high-achieving classrooms than in low-achieving classrooms (the Big-Fish-Little-Pond Effect)](../claims/bflpe-lower-asc-high-achieving-classrooms.md) [+M] — instruction changes it
+- [The BFLPE exists in both elementary-school and secondary-school contexts](../claims/bflpe-exists-in-both-school-contexts.md) [+M] — instruction changes it
+- [The BFLPE from elementary school diminishes after transition to secondary school and is no longer discernible after one year](../claims/bflpe-from-elementary-school-diminishes-after-transition.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 

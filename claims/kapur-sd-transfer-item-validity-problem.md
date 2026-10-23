@@ -46,3 +46,4 @@ The author's expert critique of the sprint-versus-swim item Kapur (2018) used wi
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related
 - [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) — related
+- [Bilinguals may have a specific advantage in transferring understanding of novel symbolic rules to new contexts](bilingual-transfer-novel-symbolic-rules.md) — related

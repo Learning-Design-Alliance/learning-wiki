@@ -50,3 +50,4 @@ Regression over inferred-compliance behaviors (window length, fixations, SRL str
 - [No behavioral measure of compliance with MetaTutor's stay-on-page and move-to-next-page prompts relates to learning gains](no-learning-effect-for-metacognitive-monitoring-prompts.md) — related
 - [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains](review-notes-compliance-predicts-learning-gains.md) — related
 - [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](revise-summary-compliance-predicts-learning-gains.md) — related
+- [Prompt compliance varied widely across the four metacognitive prompts, with interactive prompts responded to more appropriately](prompt-compliance-varies-interactivity.md) — related
