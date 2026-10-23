@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 112 claims (77 show a difference, 26 mixed, 9 no difference) · 76 studies (22 associational, 20 causal, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 16 of 76 report an effect size · 109 claims rest on one study
+> **Evidence** · 113 claims (77 show a difference, 27 mixed, 9 no difference) · 77 studies (23 associational, 20 causal, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 17 of 77 report an effect size · 110 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -147,6 +147,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Most variance in state achievement goals and emotions is situational (within-person) rather than between-person](../claims/state-goals-emotions-variance-mostly-situational.md) [+M] — instruction changes it
 - [Within persons, state mastery goals positively predict enjoyment and negatively predict boredom and anger in the classroom](../claims/state-mastery-goals-predict-enjoyment-boredom-anger-within-persons.md) [+M] — instruction changes it
 - [Within persons, state performance-approach goals predict pride and state performance-avoidance goals predict anxiety and shame](../claims/state-performance-goals-predict-pride-anxiety-shame-within-persons.md) [+M] — instruction changes it
+- [In the Forward temporal model, initial enjoyment predicted later engagement, while initial boredom did not and emotions were unrelated to later raw performance](../claims/forward-model-enjoyment-engagement-temporal.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

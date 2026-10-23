@@ -69,3 +69,4 @@ Same message-classifier comparison across treatment and control sessions (Figure
 - [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](gpt4-access-harms-learning-after-withdrawal.md) — a broader claim this one bears on
 - [Limiting verbose Math Agent guidance sharply reduced answer giveaway but decreased cognitive engagement](math-agent-guidance-limit-tradeoff.md) — related
 - [Providing the tutor with student mastery and practice-history context improved engagement and next-item correctness](student-context-personalization-improves-tutor-metrics.md) — related
+- [More than 70% of teachers' help giving to students with ASD consisted of providing direct feedback, explaining, or instructing](teacher-help-giving-dominantly-direct.md) — related

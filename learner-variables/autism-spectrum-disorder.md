@@ -14,7 +14,7 @@ generated:
 # Autism Spectrum Disorder
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 27 claims (14 show a difference, 11 mixed, 2 no difference) · 16 studies (5 review, 5 associational, 4 quant-synthesis, 2 theoretical), `q1`–`q3` · 4 of 16 report an effect size · 26 claims rest on one study
+> **Evidence** · 30 claims (16 show a difference, 12 mixed, 2 no difference) · 17 studies (5 review, 5 associational, 4 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q3` · 4 of 17 report an effect size · 29 claims rest on one study
 
 ## How to read this page
 
@@ -49,6 +49,9 @@ In the research autism appears as a population a design targets (communication s
 <!-- Claims reporting findings about this variable, with evidence tags -->
 - [Processing speed in adults with ASD shows no significant association with SAS-II social adjustment, and only a near-significant positive association with GAF functioning](../claims/processing-speed-not-associated-with-sas-social-adjustment.md) [~W]
 - [The article attributes the discrepancy with inspection-time studies to methodology, arguing standardized measures are sensitive enough to detect processing speed deficits in ASD](../claims/standardized-measures-detect-asd-processing-speed-deficit.md) [~W]
+- [Most lower secondary students with ASD sought help from teachers at least once in both general and resource class contexts, but interpersonal differences were observed](../claims/asd-students-help-seeking-both-contexts.md) [~M] — learners who differ on it differ in outcomes
+- [Students with ASD always used verbal means to solicit help, plus nonverbal and verbal means to draw teachers' attention](../claims/asd-help-seeking-verbal-and-nonverbal-means.md) [+M] — learners who differ on it differ in outcomes
+- [Students with ASD used new help-seeking categories — ambiguous and organizational help seeking — beyond traditional instrumental help seeking and confirmation-asking](../claims/ambiguous-organizational-help-seeking-asd.md) [+M] — learners who differ on it differ in outcomes
 
 ### Differences found between autistic and non-autistic people
 - [Adults with ASD without intellectual disability show a large deficit in composite processing speed versus IQ-matched controls on standardized measures](../claims/asd-adults-processing-speed-composite-deficit.md) [+M] — learners who differ on it differ in outcomes

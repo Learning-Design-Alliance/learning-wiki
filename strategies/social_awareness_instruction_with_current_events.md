@@ -60,10 +60,12 @@ Social awareness develops through guided practice, not exposure alone: structure
 6. Close with reflection connecting the practiced skill to students' own lives and communities ([Check-In](../elements/check-in.md), journaling).
 
 ## Related Strategies
+
 - [Building Empathy](../principles/building-empathy.md) — the underlying principle this strategy operationalizes through real-world material
 - [Case-Based Learning](../patterns/case-based-learning.md) — the same case-analysis structure applied to academic domains
 - [Discussion-Based Learning](../principles/collaborative-learning.md) — the discussion formats this strategy depends on
 - [Debate](../patterns/debate.md) — a more adversarial variant; useful when perspective-taking is already established
+- [Teacher practices to build specific perceived-SEC dimensions: reflect-brainstorm-practice-evaluate cycles and literature-based perspective-taking](teacher-practices-build-perceived-sec-dimensions.md)
 
 ## Examples
 - **[Facing History & Ourselves](https://www.facinghistory.org)** — published curriculum using historical and current events with structured discussion protocols to teach perspective-taking and ethical reasoning.

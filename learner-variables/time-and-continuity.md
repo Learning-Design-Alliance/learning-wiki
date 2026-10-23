@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (74 show a difference, 30 mixed, 9 no difference) · 100 studies (40 causal, 19 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 19 of 100 report an effect size · 109 claims rest on one study
+> **Evidence** · 114 claims (75 show a difference, 30 mixed, 9 no difference) · 101 studies (40 causal, 20 associational, 17 review, 11 quant-synthesis, 5 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 20 of 101 report an effect size · 110 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -170,6 +170,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [In a computer learning environment for electricity, the benefit of exploratory simulation time depended on instructional treatment (rule induction vs. rule application)](../claims/ati-exploration-time-by-rule-treatment-electricity.md) [~M] — an instructional effect differs with it
 - [Higher weekly childcare dosage was associated with lower probability of higher education enrollment](../claims/childcare-dosage-negative-association.md) [+M] — learners who differ on it differ in outcomes
 - [Students needed to attend at least five SI-PASS meetings before their exam performance significantly improved](../claims/si-pass-attendance-threshold-five-meetings.md) [+M] — learners who differ on it differ in outcomes
+- [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later](../claims/kindergarten-closure-numeracy-loss.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -40122,5 +40122,45 @@
  "worked-examples\tworked examples\tproblem solving": {
   "label": "worked examples vs problem solving",
   "treatment_is_a": true
+ },
+ "other\t(meta-)cognitive learning strategies\tmotivation regulation": {
+  "label": "cognitive and metacognitive learning strategies vs motivation regulation",
+  "treatment_is_a": true
+ },
+ "other\t10-minute green landscape view from a classroom window\tno window view": {
+  "label": "green landscape view vs no window view",
+  "treatment_is_a": true
+ },
+ "other\t10-week online coaching\tactive control": {
+  "label": "online coaching vs active control",
+  "treatment_is_a": true
+ },
+ "other\t10-week online digital coaching\twait-list control": {
+  "label": "online digital coaching vs wait-list control",
+  "treatment_is_a": true
+ },
+ "other\t12 weeks of mindfulness\tcontrol": {
+  "label": "mindfulness intervention vs control",
+  "treatment_is_a": true
+ },
+ "other\t12-week mindfulness intervention\tcontrol group": {
+  "label": "mindfulness intervention vs control",
+  "treatment_is_a": true
+ },
+ "other\t15-item cognitive-load questionnaire\tnot stated": {
+  "label": "cognitive-load questionnaire vs not stated",
+  "treatment_is_a": true
+ },
+ "other\t16-week online behavior activation\tactive control": {
+  "label": "online behavior activation vs active control",
+  "treatment_is_a": true
+ },
+ "other\t16PF profiles associated with higher effectiveness ratings\t16PF profiles associated with lower effectiveness ratings": {
+  "label": "higher effectiveness ratings vs lower effectiveness ratings",
+  "treatment_is_a": true
+ },
+ "other\t1990s\t2010s": {
+  "label": "2010s vs 1990s",
+  "treatment_is_a": false
  }
 }

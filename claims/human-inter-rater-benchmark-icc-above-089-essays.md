@@ -50,3 +50,4 @@ Baseline inter-rater reliability assessment using ICC(3,1) among three expert gr
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - Human coding of other-oriented transacts in the debate corpus reached high inter-coder reliability (kappa 0.72 for reasoning, 0.7 for transactivity, 0.95 for self/other distinction) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
+- [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — reports the opposite

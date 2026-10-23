@@ -58,3 +58,4 @@ Difference-in-differences analysis of biannual national test scores (n ≈ 350,0
 - [Average fall 2021 reading scores in Grades 3–8 were .09–.18 SD lower than same-grade peers' fall 2019 scores](covid-reading-decline-009-018-sd-grades-3-8.md) — related
 - [Covid-19 school closures depressed student achievement on average by about 0.19 standard deviations](covid-closures-average-learning-deficit-0-19-sd.md) — related
 - [One year or more after the first lockdown, students had not recovered the learning deficits caused by Covid-19 school closures](covid-no-catch-up-one-year-after-lockdown.md) — related
+- [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later](kindergarten-closure-numeracy-loss.md) — related

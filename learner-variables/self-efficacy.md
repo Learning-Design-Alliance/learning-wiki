@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 140 claims (105 show a difference, 21 mixed, 14 no difference) · 117 studies (44 associational, 22 causal, 18 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 24 of 117 report an effect size · 136 claims rest on one study
+> **Evidence** · 143 claims (107 show a difference, 22 mixed, 14 no difference) · 118 studies (45 associational, 22 causal, 18 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 25 of 118 report an effect size · 139 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -171,6 +171,9 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Teachers with higher self-efficacy report higher instructional quality at the individual teacher level, with congruent domain-specific associations](../claims/teacher-level-self-efficacy-instructional-quality-association.md) [+M] — learners who differ on it differ in outcomes
 - [The relationship between teacher self-efficacy and self-reported cognitive activation does not vary across investigated school characteristics](../claims/no-cross-level-interactions-cognitive-activation.md) [+M] — learners who differ on it differ in outcomes
 - [Lockdown was significantly associated with higher disengagement (β = 0.12) but not with self-efficacy among university students](../claims/lockdown-predicts-disengagement-not-self-efficacy.md) [-W] — instruction changes it
+- [Global perceived-SEC is indirectly associated with greater prosocial behavior via autonomous motivation (β = .23), the only significant indirect path](../claims/indirect-path-global-sec-autonomous-motivation-prosocial.md) [~M] — learners who differ on it differ in outcomes
+- [Global perceived-SEC is positively associated with autonomous motivation, introjected motivation, and prosocial behavior, and negatively with conduct problems](../claims/global-perceived-sec-predicts-motivation-and-behaviors.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived competence for social regulation negatively predicts external motivation and conduct problems, and perceived competence for tolerance positively predicts autonomous motivation](../claims/specific-perceived-sec-dimensions-unique-associations.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 67 claims (36 show a difference, 21 mixed, 10 no difference) · 30 studies (12 associational, 6 review, 5 causal, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 12 of 30 report an effect size · 65 claims rest on one study
+> **Evidence** · 73 claims (38 show a difference, 23 mixed, 12 no difference) · 31 studies (13 associational, 6 review, 5 causal, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 13 of 31 report an effect size · 71 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -102,6 +102,12 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Intraindividual and interindividual correlations between achievement goals and emotions are statistically independent yet empirically convergent, with goals and emotions less correlated within persons](../claims/intra-interindividual-correlations-independent-yet-convergent.md) [~M] — learners who differ on it differ in outcomes
 - [Within persons, state mastery goals positively predict enjoyment and negatively predict boredom and anger in the classroom](../claims/state-mastery-goals-predict-enjoyment-boredom-anger-within-persons.md) [+M] — learners who differ on it differ in outcomes
 - [Within persons, state performance-approach goals predict pride and state performance-avoidance goals predict anxiety and shame](../claims/state-performance-goals-predict-pride-anxiety-shame-within-persons.md) [+M] — learners who differ on it differ in outcomes
+- [Average daily academic success and failure predict Grade 5 grades beyond prior achievement, whereas achievement goals do not](../claims/daily-success-failure-predict-year-end-grades.md) [-M] — learners who differ on it differ in outcomes
+- [Daily academic failure predicts higher performance goals but not mastery goals the next morning](../claims/daily-failure-raises-next-day-performance-goals.md) [~W] — instruction changes it
+- [Daily academic success predicts higher achievement goals the next morning, especially mastery goals](../claims/daily-success-boosts-next-day-goals.md) [+M] — instruction changes it
+- [Daily mastery goals predict same-day academic success in Grade 5 students](../claims/daily-mastery-goals-predict-same-day-academic-success.md) [+M] — learners who differ on it differ in outcomes
+- [Morning performance-avoidance goals predict same-day academic failure, though not robustly across sensitivity analyses](../claims/performance-avoidance-goals-predict-daily-failure.md) [~W] — learners who differ on it differ in outcomes
+- [Performance-approach and performance-avoidance goals were not meaningfully related to same-day academic success](../claims/performance-goals-not-related-same-day-success.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

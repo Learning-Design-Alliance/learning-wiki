@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/dyad-cognitive-perspective-taking-facilitates-fluency.md
+---
+
+# Revision history: [claims/dyad-cognitive-perspective-taking-facilitates-fluency](../claims/dyad-cognitive-perspective-taking-facilitates-fluency.md)
+
+### 2026-10-23 · ingest · process:wiki-ingest
+Ingested from jrnl-64382938bbb5 (Creativity in dialogues: How do children interact with parents vs. strangers for generating creative ideas?) via eval_harness.py + ingest_extractions.py

@@ -54,3 +54,4 @@ Covariate effects on random intercepts in the RI-CLPMs (N = 3,425). The article 
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
 - [Learners perceived male PALs more positively and recalled more with them than with female PALs, reflecting gender stereotypes](male-pal-favored-over-female-pal.md) — related
 - [Gender prompts shift feedback stance: female students receive affective, first-person, empathy-oriented feedback while male students receive objective, task-oriented critique](gender-prompt-emotional-connection-pedagogy.md) — related
+- [Male gender predicted lower grades, moderated by cohort](gender-and-cohort-predict-grading-scores.md) — reports the opposite

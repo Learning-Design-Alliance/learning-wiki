@@ -54,3 +54,4 @@ The final multilevel model on repeated vocabulary measures included enjoyment, b
 - [Metacognitive confidence judgments and control predict English vocabulary performance from the beginning to the end of the school year in primary school children](metacognition-predicts-l2-vocabulary-growth-primary-school.md) — related
 - [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — related
 - [Anxiety, enjoyment and boredom are three critical emotions in language learning that affect outcomes and engagement](anxiety-enjoyment-boredom-critical-sla-emotions.md) — related
+- [In the Forward temporal model, initial enjoyment predicted later engagement, while initial boredom did not and emotions were unrelated to later raw performance](forward-model-enjoyment-engagement-temporal.md) — related

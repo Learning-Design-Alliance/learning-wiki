@@ -49,3 +49,4 @@ In the classroom study applying coherence analysis (Segedy et al. 2015, describe
 - [More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.](more-successful-students-higher-gains-focused-actions.md)
 - [Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment](five-learner-profiles-standards-attainment.md) — related
 - [High Overall Engagement and Metacognitive-but-not-Constructive profiles show the highest immediate and delayed knowledge, with metacognitive engagement marking the key difference from lower performers](high-engagement-metacognitive-profiles-best-outcomes.md) — related
+- [Engagement predicted concept-map final performance, which in turn predicted learning gains in the ITS](engagement-performance-learning-gains-chain.md) — related

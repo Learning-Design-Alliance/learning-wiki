@@ -69,3 +69,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [Experts rated KITE's feedback positively on scaffolding, guidance, coherence, and tone in 93.18% of judgments, with high interrater agreement (κ = 0.88)](kite-feedback-high-expert-rubric-ratings.md) — related
 - [Risk of bias among included studies was mixed, with Newcastle–Ottawa ratings ranging from 3 to 9 and high inter-rater agreement](newcastle-ottawa-risk-of-bias-mixed-across-included-studies.md)
 - [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related
+- [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — reports the opposite

@@ -57,3 +57,4 @@ SEM results for the SDT model (n = 511) show standardized path coefficients to i
 - [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](adhd-motivation-profile-sdt-dimensions.md) — related
 - [Introjected regulation is positively related to Korean students' achievement and self-regulated learning despite its association with academic stress](introjected-regulation-positive-korean-achievement.md) — related
 - [Self-determination theory grew incrementally by adding mini-theories as evidence accumulated](sdt-grew-brick-by-brick.md) — related
+- [Autonomous motivation positively predicts subsequent school grades in both middle and high school students](autonomous-motivation-predicts-higher-grades.md) — related

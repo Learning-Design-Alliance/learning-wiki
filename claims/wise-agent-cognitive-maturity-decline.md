@@ -52,3 +52,4 @@ Paired-sample t-test on the cohort's Cognitive Maturity sub-dimension scores pre
 - [A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores](wise-agent-no-aggregate-ct-gain.md) — related
 - [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](hots-teaching-improves-ct-dispositions.md) — reports the opposite
 - [Individual-level critical thinking instruction has an unimpressive track record, motivating communal-level intervention](critical-thinking-individual-intervention-unimpressive-track-record.md) — related
+- [Absolute epistemic beliefs increase over the study period among computer science undergraduates](cs-absolute-epistemic-beliefs-increase-longitudinally.md) — related

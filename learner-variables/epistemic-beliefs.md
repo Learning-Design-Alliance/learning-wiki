@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 33 claims (22 show a difference, 8 mixed, 3 no difference) · 20 studies (4 associational, 4 design, 3 review, 3 qualitative, 2 causal, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 1 of 20 report an effect size · 33 claims rest on one study
+> **Evidence** · 36 claims (24 show a difference, 9 mixed, 3 no difference) · 21 studies (5 associational, 4 design, 3 review, 3 qualitative, 2 causal, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 1 of 21 report an effect size · 36 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -65,6 +65,9 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Student teachers' beliefs about sources of knowledge predict their learning approaches and motivation in teacher education](../claims/source-of-knowledge-beliefs-predict-learning-approaches.md) [+M] — learners who differ on it differ in outcomes
 - [Prior knowledge and epistemic self-efficacy as an evaluator of knowledge are important themes in detecting and efficiently resolving conceptual discrepancies](../claims/prior-knowledge-and-epistemic-self-efficacy-support-discrepancy-detection.md) [+M] — learners who differ on it differ in outcomes
 - [University students adapt their behavioral processing of discrepant science content as a function of their epistemic cognition and discrepancy type](../claims/srl-processing-adapts-to-epistemic-cognition-and-discrepancy-type.md) [+M] — learners who differ on it differ in outcomes
+- [Absolute epistemic beliefs increase over the study period among computer science undergraduates](../claims/cs-absolute-epistemic-beliefs-increase-longitudinally.md) [+M] — instruction changes it
+- [Epistemic beliefs develop differently across disciplines: absolute beliefs rise in computer science while multiplistic beliefs rise then fall in psychology](../claims/differential-development-epistemic-beliefs-disciplines.md) [~M] — instruction changes it
+- [Multiplistic epistemic beliefs among psychology undergraduates follow an inversely U-shaped trajectory](../claims/psych-multiplistic-beliefs-inversely-u-shaped.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

@@ -65,6 +65,7 @@ Reflection converts experience into usable knowledge; without it, professional l
 - [Action Research](../strategies/action-research.md) — formalizes the attempt–reflect–revise cycle into systematic inquiry
 - [Design for long-range engagement and systematic follow-up in teacher professional learning](systematic-follow-up-instructional-shifts.md)
 - [Video-based coaching cycles in which teachers analyze their own discussions, practice talk moves, and reflect on effectiveness](video-based-strengths-based-coaching-cycles.md)
+- [Teacher practices to build specific perceived-SEC dimensions: reflect-brainstorm-practice-evaluate cycles and literature-based perspective-taking](teacher-practices-build-perceived-sec-dimensions.md)
 
 ## Examples
 - **Lesson study (Japan; e.g., Mills College Lesson Study Group)** — teachers jointly plan a research lesson, observe it, and hold a structured post-lesson reflection focused on student thinking rather than teacher performance ([https://www.lessonresearch.net](https://www.lessonresearch.net))

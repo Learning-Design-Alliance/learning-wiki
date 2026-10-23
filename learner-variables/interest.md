@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 150 claims (112 show a difference, 21 mixed, 17 no difference) · 116 studies (42 causal, 27 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 28 of 116 report an effect size · 144 claims rest on one study
+> **Evidence** · 153 claims (114 show a difference, 22 mixed, 17 no difference) · 117 studies (42 causal, 28 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 29 of 117 report an effect size · 147 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -185,6 +185,9 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Task complexity has no significant impact on intrinsic interest](../claims/complexity-no-intrinsic-interest-effect.md) [-M] — instruction changes it
 - [Within persons, better-than-usual math grades positively predict subsequent enjoyment and pride, and enjoyment and pride positively predict subsequent grades](../claims/grades-positive-emotions-within-person-reciprocal.md) [+M] — learners who differ on it differ in outcomes
 - [Within-person deviations of enjoyment and pride correlate positively with grade deviations (r = .12 to .55), and negative-emotion deviations correlate negatively (r = −.17 to −.44)](../claims/within-person-grade-emotion-correlations.md) [+W] — learners who differ on it differ in outcomes
+- [In the Forward temporal model, initial enjoyment predicted later engagement, while initial boredom did not and emotions were unrelated to later raw performance](../claims/forward-model-enjoyment-engagement-temporal.md) [~M] — learners who differ on it differ in outcomes
+- [Reciprocal relations: initial task engagement predicted later enjoyment in the Reverse model](../claims/reverse-model-engagement-predicts-enjoyment.md) [+M] — learners who differ on it differ in outcomes
+- [Topic-related interest, but not importance, utility, or self-efficacy, predicted task-related enjoyment while secondary students learned with an ITS](../claims/interest-predicts-task-enjoyment-its.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

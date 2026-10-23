@@ -75,3 +75,4 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 - [Male and female students used ChatGPT differently: females used it more frequently and for questions, males more sporadically and to check answers](gender-differences-chatgpt-use-patterns.md) — related
 - [Male participants were almost twice as likely as females to be engaged in gaming](males-twice-likely-gaming-engagement.md) — related
 - [Gender related to students' emotions but showed no significant effects on math grades, while intelligence and SES related positively to grades](covariates-gender-intelligence-ses-effects.md) — related
+- [Male gender predicted lower grades, moderated by cohort](gender-and-cohort-predict-grading-scores.md) — related

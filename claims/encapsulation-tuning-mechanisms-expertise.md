@@ -44,3 +44,4 @@ The article names two cognitive mechanisms of the knowledge transition: "Encapsu
 
 ## Related Claims
 - [AI-generated diagnostic information is inherently incomplete, focusing on performance data and omitting contextual and motivational information](ai-diagnostic-information-incomplete-contextual-knowledge-needed.md) — related
+- [In Experiment 2, the proportion of fault (pathophysiological) statements decreased monotonically with expertise regardless of probe](fault-statements-decrease-expertise.md) — a narrower finding that bears on this claim
