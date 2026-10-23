@@ -45,3 +45,4 @@ Between-subjects experiment with 61 dyads and 95 individuals in a simulation-bas
 ## Related Claims
 - [Collaborative learners outperform individuals on intuitive knowledge, indicating collaboration rather than representation construction drives the advantage](collaboration-enhances-intuitive-knowledge.md) — related
 - [Situational knowledge is fostered by collaboration, tool format, and tool-use, with arithmetical format outperforming textual](situational-knowledge-setting-format-tooluse.md) — related
+- [Collaboration format (individual vs. dyad) was experimentally manipulated alongside feedback format in simulation-based teacher learning](individual-versus-dyad-simulation-collaboration.md) — related

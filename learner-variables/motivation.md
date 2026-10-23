@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 255 claims (175 show a difference, 52 mixed, 28 no difference) · 193 studies (65 associational, 49 causal, 34 review, 15 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 52 of 193 report an effect size · 243 claims rest on one study
+> **Evidence** · 256 claims (175 show a difference, 53 mixed, 28 no difference) · 194 studies (66 associational, 49 causal, 34 review, 15 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 52 of 194 report an effect size · 244 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -305,6 +305,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Autonomous motivation positively predicts subsequent school grades in both middle and high school students](../claims/autonomous-motivation-predicts-higher-grades.md) [+W] — learners who differ on it differ in outcomes
 - [Controlled motivation negatively predicts school grades and does not compensate for low autonomous motivation](../claims/controlled-motivation-negative-no-compensation.md) [+M] — learners who differ on it differ in outcomes
 - [The relation of autonomous motivation to grades is curvilinear, with grades accelerating at higher autonomous motivation](../claims/curvilinear-autonomous-motivation-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Class-aggregated perceived teacher value messages positively predict students' subsequent expectancy and utility value, but not lower effort cost](../claims/l2-teacher-value-messages-predict-expectancy-utility-value.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

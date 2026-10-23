@@ -3,6 +3,7 @@ type: claim
 title: Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)
 description: Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)
 id: adaptive-feedback-improves-diagnosis-justification
+aliases: [ann-adaptive-feedback-improves-justification-quality]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: theoretical
     rigour: 2
+  - id: sailer-2022
+    resource: "https://doi.org/10.1016/j.learninstruc.2022.101620"
+    title: "Sailer, Michael; Bauer, Elisabeth; Hofmann, Riikka; Kiesewetter, Jan; Glas, Julia. (2022). Adaptive Feedback from Artificial Neural Networks Facilitates Pre-Service Teachers' Diagnostic Reasoning in Simulation-based Learning. Learning and Instruction. https://doi.org/10.1016/j.learninstruc.2022.101620"
+    author: Sailer, Michael; Bauer, Elisabeth; Hofmann, Riikka; Kiesewetter, Jan; Glas, Julia
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence** · 2 studies · 1 causal `r?`, 1 theoretical `r2` · `q2`–`q3`
 
 ## Subclaims
+
 `q2 i?` In an experimental study in teacher education, pre-service teachers receiving adaptive feedback justified their diagnoses better than prospective teachers receiving static feedback. [→ Kasneci 2023](#kasneci-2023)
+
+`q3 i?` Compared with static expert-solution feedback, automatic adaptive feedback improved the quality of pre-service teachers' justifications in written assignments. [→ Sailer 2022](#sailer-2022)
 
 ## Evidence
 
@@ -39,7 +51,19 @@ Narrative review attribution in Section 2.2: the paper reports Sailer et al.'s e
 
 > "In their experimental study, they found that pre-service teachers who received adaptive feedback were better able to justify their diagnoses than prospective teachers who received static feedback."
 
+### Sailer 2022
+
+Sailer, Michael; Bauer, Elisabeth; Hofmann, Riikka; Kiesewetter, Jan; Glas, Julia. (2022). Adaptive Feedback from Artificial Neural Networks Facilitates Pre-Service Teachers' Diagnostic Reasoning in Simulation-based Learning. Learning and Instruction. https://doi.org/10.1016/j.learninstruc.2022.101620
+
+`q3 · i?` · `causal · r?`
+
+Experimental study with N = 178 pre-service teachers working on simulations of pupils with learning difficulties, comparing ANN-based adaptive feedback with static expert-solution feedback. The article reports that "adaptive feedback facilitates pre-service teachers' quality of justifications in written assignments". No effect size is printed in the available text.
+
+> "Results show that adaptive feedback facilitates pre-service teachers' quality of justifications in written assignments, but not their diagnostic accuracy."
+
 ## Discussion
+
+
 
 ## Related Claims
 
@@ -50,3 +74,6 @@ Narrative review attribution in Section 2.2: the paper reports Sailer et al.'s e
 - [Evidence sharing relates positively to diagnostic justification quality](evidence-sharing-relates-diagnostic-justification.md) — related
 - [NLP-based feedback generation for textual student answers in large courses reduced grading effort by up to 85% with high precision (reported from Bernius et al.)](nlp-feedback-reduced-grading-effort-85-percent.md) — related
 - [Adaptive feedback outperforms generic feedback for pre-service teachers' noticing in a virtual classroom](adaptive-noticing-feedback-outperforms-generic.md) — related
+- [Adaptive feedback does not improve pre-service teachers' diagnostic accuracy in simulation-based learning](ann-adaptive-feedback-no-diagnostic-accuracy-effect.md) — related
+- [Static expert-solution feedback had detrimental effects on the learning process when pre-service teachers worked in dyads](static-feedback-detrimental-dyads.md) — related
+- [Collaboration format (individual vs. dyad) was experimentally manipulated alongside feedback format in simulation-based teacher learning](individual-versus-dyad-simulation-collaboration.md) — related

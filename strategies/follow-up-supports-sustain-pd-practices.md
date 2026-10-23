@@ -46,6 +46,7 @@ The report warns that even inspiring PD can "ultimately fall flat if there are n
 - [Provide sustained developer support (training, coaching, progress reports, and rapid technical help) when implementing ITSS](itss-implementation-support-strategy.md)
 - [Shift the locus of professional learning to school sites and classrooms, connected to teachers' everyday practice](site-based-pd-connected-to-everyday-practice.md)
 - [Design for long-range engagement and systematic follow-up in teacher professional learning](systematic-follow-up-instructional-shifts.md)
+- [Design teacher PD on differentiation to connect to daily practice, include active learning and collaboration, and sustain implementation through coaches and principals](pd-design-features-differentiation.md)
 
 ## Examples
 -

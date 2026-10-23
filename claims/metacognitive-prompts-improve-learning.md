@@ -145,3 +145,6 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 - [Fading-out prompts yield more cognitive strategy use and higher learning outcomes than permanent prompts](fading-out-prompts-beat-permanent-prompts.md) — related
 - [Advanced learners may benefit from learner-controlled selection of learning tasks and levels of generality](learner-control-advanced-learners-flexibility.md) — related
 - [Cognitive-load-based quiz adaptation raised learning gains while domain-specific confidence-based adaptation did not](cognitive-load-adaptation-beats-confidence-adaptation.md) — a narrower finding that bears on this claim
+- [Prompt compliance varied widely across the four metacognitive prompts, with interactive prompts responded to more appropriately](prompt-compliance-varies-interactivity.md) — a narrower finding that bears on this claim
+- [Metacognitive prompting increases domain-general metacognitive SRL activities (goal specification and strategic planning) in young learners in a CBLE](prompting-increases-domain-general-metacognitive-srl.md) — a narrower finding that bears on this claim
+- [Prompted learners’ sequential SRL structure resembled traditional SRL models, using reflection more as an ending activity than unprompted learners](prompting-reflection-ending-activity-structure.md) — a narrower finding that bears on this claim

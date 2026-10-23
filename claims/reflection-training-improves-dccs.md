@@ -96,3 +96,4 @@ The review reports, citing Chevalier and Blaye (2016), a study recording gaze po
 - [Foster children who received a control intervention showed a specific post-switch (set-shifting) deficit on the card-sort task, with no group difference on the pre-switch trials](foster-control-children-post-switch-set-shifting-deficit.md) — related
 - [Attention and self-regulation skills are trainable in children, with reported behavioral and neural changes across curricula and intervention programs](attention-training-interventions-evidence-note.md) — a broader claim this one bears on
 - [Trained students outperformed controls at selecting the more reliable of two contradictory texts, at both post-tests](sourcing-intervention-near-transfer-accuracy.md) — related
+- [Bilinguals may have a specific advantage in transferring understanding of novel symbolic rules to new contexts](bilingual-transfer-novel-symbolic-rules.md) — related

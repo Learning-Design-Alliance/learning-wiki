@@ -69,3 +69,4 @@ Moderation analysis within the meta-analysis of 56 investigations found that "le
 - [Test-taker abilities and prior knowledge show inconsistent moderating effects on multimedia testing effects](test-taker-abilities-inconsistent-moderators.md) — related
 - [Prior knowledge may moderate EMME effectiveness, but support for novices benefiting more is inconsistent across studies](emme-prior-knowledge-moderation-inconsistent.md) — related
 - [Feedback benefits are stronger for children with low prior knowledge, resembling an expertise-reversal effect](feedback-stronger-for-low-prior-knowledge-children.md) — related
+- [Instructional approach interacts with prior knowledge for lasting learning, with benefits concentrated among stronger students](aptitude-treatment-interaction-prior-knowledge-lasting-learning.md) — related

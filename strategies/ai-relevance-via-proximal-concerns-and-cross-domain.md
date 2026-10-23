@@ -45,7 +45,8 @@ Based on the finding that the individualized identity-based AI dialogue failed w
 - [The individualized generative AI condition showed no significant effect on relevance as identification with math compared with the control group or the collective condition](../claims/individual-ai-condition-no-significant-relevance-effect.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Teachers explicitly communicate the relevance, importance, and utility of science alongside curriculum content](communicate-science-value-messages-in-lessons.md)
 
 ## Examples
 -

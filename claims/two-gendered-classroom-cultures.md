@@ -73,3 +73,4 @@ From the strong girls section: in the one group where boys did not dominate the 
 - [Mathematics education acts as a gatekeeper to academic opportunity that disproportionately affects students from historically marginalized communities](mathematics-education-gatekeeper-marginalized-students.md) — related
 - [EQUIP data reports surfaced participation inequities that teachers were unaware of and motivated instructional change](equip-data-surfaces-unseen-participation-inequities.md) — related
 - [Black girls across developmental stages reported awareness of stereotypes specific to Black girls and connected them to negative school experiences](black-girls-stereotype-awareness-school-experiences.md) — related
+- [Boys report more frequent classroom discipline problems than girls in language classes](boys-report-more-discipline-problems-than-girls.md) — related

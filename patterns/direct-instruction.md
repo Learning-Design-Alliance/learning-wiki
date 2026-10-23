@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 34 claims (17 for, 15 mixed, 2 against) · 37 studies (13 quant-synthesis, 11 review, 7 causal, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 37 report an effect size · 27 claims rest on one study
+> **Evidence** · 35 claims (18 for, 15 mixed, 2 against) · 38 studies (13 quant-synthesis, 11 review, 8 causal, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 10 of 38 report an effect size · 28 claims rest on one study
 
 ## Description and scope
 
@@ -111,6 +111,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 <!-- Re-read 2026-10-19: twelve bullets were read against the model. Ten moved into it (choosing configurations, the situation rows, the evidence-by-question list and the design decisions): expertise-reversal-effect, teacher-guided-inquiry-outperforms-student-led, active-learning-improves-exam-performance, explicit-teaching-complex-rules-only-advantage, explicit-teaching-effective-but-not-durable, scaffolding-lower-adherence-than-scripted-components, itip-lacks-empirical-evidence-achievement, explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension, instructed-learners-outperform-others-simple-rules, flexible-and-scripted-first-grade-interventions-both-effective. The two below stay: relevant, but with no comparison group they do not change a choice. -->
 - [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](../claims/efl-students-positive-views-explicit-strategy-instruction.md) [+W] — from Üstündağ-Algın (2025). Read 2026-10-19: a questionnaire given only to the taught group, so it says the learners valued the instruction, not that they preferred it to an alternative; relevant to the learner-valued goal, no change to the model.
 - [Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies](../claims/teacher-modeling-internalizes-reading-strategies.md) [+W] — from Üstündağ-Algın (2025). Read 2026-10-19: students' comments that the teacher's explaining and modelling helped (q1, no comparison); consistent with step 2, but does not test modelling against anything.
+- [Direct instruction training improved 5th graders' task-model construction (question analysis) relative to an active control](../claims/direct-instruction-improves-task-model-construction.md) [+W] — attached 2026-10-23 from Potocki et al. (2023), which proposed "Five-module direct instruction program for purposeful reading strategies"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

@@ -81,3 +81,4 @@ This rests on 19 studies and is consistent with expertise-reversal accounts, whe
 - [In the Bramlett quasi-experiment, no comprehension subtest or ability-level subgroup showed a statistically significant CIRC effect after WWC adjustments](circ-qed-subgroups-null.md) — related
 - [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — related
 - [Feedback benefits are stronger for children with low prior knowledge, resembling an expertise-reversal effect](feedback-stronger-for-low-prior-knowledge-children.md) — related
+- [Instructional approach interacts with prior knowledge for lasting learning, with benefits concentrated among stronger students](aptitude-treatment-interaction-prior-knowledge-lasting-learning.md) — reports the opposite

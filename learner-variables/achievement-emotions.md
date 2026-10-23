@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 124 claims (82 show a difference, 33 mixed, 9 no difference) · 80 studies (26 associational, 20 causal, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 18 of 80 report an effect size · 121 claims rest on one study
+> **Evidence** · 125 claims (83 show a difference, 33 mixed, 9 no difference) · 81 studies (27 associational, 20 causal, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 18 of 81 report an effect size · 122 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -159,6 +159,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Student-level achievement positively predicts enjoyment in math, science, and reading among fourth graders](../claims/student-achievement-positively-predicts-enjoyment-three-domains.md) [+M] — instruction changes it
 - [The effect of student achievement on enjoyment is largely consistently positive across 37 countries, while the size of the negative class-average effect varies from country to country](../claims/hflpe-cross-national-generalizability-enjoyment.md) [~M] — instruction changes it
 - [Unexpected session-level associations: task goals positively predicted joy, relational goals negatively predicted learning and boredom, and learning goals negatively predicted overall rating and positively predicted boredom](../claims/unexpected-session-level-goal-effects.md) [~M] — instruction changes it
+- [Students' emotional experience predicts later academic achievement, while relationship quality does not](../claims/emotions-predict-achievement-relationship-does-not.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -27,7 +27,7 @@ sources:
 # Build productive instructor-learner relationships so adults feel connected and take an active role in learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (17 for, 7 mixed) · 29 studies (7 causal, 7 associational, 4 review, 4 qualitative, 3 theoretical, 2 quant-synthesis, 2 design), `q1`–`q4` · 2 of 29 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (18 for, 7 mixed) · 30 studies (8 associational, 7 causal, 4 review, 4 qualitative, 3 theoretical, 2 quant-synthesis, 2 design), `q1`–`q4` · 2 of 30 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,7 @@ A good reported relationship, participation, persistence, openness to opposing a
 - [Faculty-signaled classroom climate relates to engagement: courses where instructors treat no question as too elementary and own responsibility for student success show more engaged students](../claims/faculty-climate-signals-engage-students.md) [+W]
 - [Tutoring activity mix shifts dynamically across a ten-session project, with rapport building highest early and artifact review rising over time](../claims/tutoring-activity-mix-shifts-across-project-sessions.md) [+W]
 - [How students and teachers want to interact with classroom AI largely depends on the teacher-student relationships that exist outside of AI use](../claims/teacher-student-relationships-shape-ai-views.md) [~W]
+- [Student-teacher relationship quality and students' classroom emotions show reciprocal longitudinal associations over one year](../claims/reciprocal-relationship-quality-emotions-associations.md) [+W]
 
 ## Related Principles
 

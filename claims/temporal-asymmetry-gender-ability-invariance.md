@@ -51,3 +51,4 @@ Multigroup RI-CCLPM variants by gender and initial ability. The temporal structu
 - [The temporal asymmetry in effect sizes: contemporaneous skill effects on self-concept are moderate (d = 0.33 in French) while alternative cross-effects are null or negligible](temporal-asymmetry-effect-sizes.md) — related
 - [The cross-lagged model holds equally for intervention and control groups and for boys and girls](model-invariance-gender-and-intervention-groups.md) — related
 - [The mutualism model's coupling structure held equally across sexes and age did not directly predict change scores](coupling-robust-across-sexes-age.md) — related
+- [Reciprocal associations between relationship quality and emotions are largely equivalent across school domains](domain-equivalence-relationship-emotions-links.md) — related

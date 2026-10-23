@@ -40,6 +40,7 @@ Rather than relying solely on fixed scenarios, ASTRA proposes automatically gene
 
 - [Scenario Based Training](scenario-based-training.md)
 - [Use AI-assisted hybrid evaluation (deterministic rules plus LLM analysis) to scale standardized radiotelephony assessment](hybrid-rule-llm-radiotelephony-evaluation.md)
+- [Use ANN-based adaptive feedback to provide scalable, process-oriented real-time feedback at scale in higher education](scalable-ann-feedback-strategy.md)
 
 ## Examples
 -

@@ -57,6 +57,7 @@ The page specifies a professional development model for implementing Readable En
 - [Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation](sfa-facilitator-and-pd-implementation-strategy.md)
 - [Provide formative evaluation and implementation coaching to strengthen ADE initiative design](formative-evaluation-coaching-ade-initiatives.md)
 - [Implement Lightning Squad tutoring with non-certified tutors supported by structured onsite training, coaching, and data reviews](lightning-squad-tutor-training-support-strategy.md)
+- [Implement strategy interventions through regular teachers with minimal professional development and structured materials](teacher-led-minimal-pd-intervention-strategy.md)
 
 ## Examples
 -

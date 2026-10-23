@@ -52,3 +52,4 @@ RI-CLPM analysis of five annual waves (grades 5–9) from the PALMA study of 3,4
 - [Within persons, grades negatively predict subsequent anger and hopelessness, and anger, anxiety, boredom, and hopelessness negatively predict subsequent grades](grades-negative-emotions-within-person-effects.md) — related
 - [Students use positive and negative achievement emotions as cues when making predictions about their comprehension](emotions-as-cues-predictions.md) — related
 - [Reciprocal relations: initial task engagement predicted later enjoyment in the Reverse model](reverse-model-engagement-predicts-enjoyment.md) — related
+- [Specific emotion patterns: relationship quality predicts later enjoyment, pride, anger, and shame but not anxiety or boredom; earlier enjoyment, anger, boredom, shame, and anxiety predict later relationship quality](discrete-emotion-specific-cross-lagged-patterns.md) — related

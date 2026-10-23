@@ -47,6 +47,7 @@ The article recommends three deployments of large-scale synthetic error datasets
 - [Use unlearning-based simulated students as scalable practice environments for teacher professional development](unlearning-simulation-teacher-professional-development.md)
 - [Use MEDS as baseline data for fine-tuning and moderation of AI mathematics tutoring content](use-meds-for-tutor-calibration-and-moderation.md)
 - [Error-injection exercises: diagnosing subtly wrong simulations as graded practice](error-injection-diagnosis-exercises.md)
+- [Use ANN-based adaptive feedback to provide scalable, process-oriented real-time feedback at scale in higher education](scalable-ann-feedback-strategy.md)
 
 ## Examples
 -

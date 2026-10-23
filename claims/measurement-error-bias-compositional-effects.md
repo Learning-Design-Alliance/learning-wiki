@@ -49,3 +49,4 @@ Comparison of doubly manifest versus doubly latent model estimates across the th
 - [When compositional effects are constrained equal across countries, the overall peer spillover effect is negative and non-significant while the BFLPE remains negative and significant](restricted-model-null-spillover-significant-bflpe.md) — related
 - [Contextual-mean effects show little moderation by individual achievement; apparent positive moderation is illusory when the quadratic term is omitted](bflpe-moderation-by-achievement-small-and-illusory.md) — related
 - [Positive school-average achievement effects on subsequent achievement can be phantom effects that disappear under doubly-latent modeling with covariates](phantom-effects-school-average-achievement.md) — related
+- [Doubly latent multilevel structural equation models disaggregate disciplinary-problem effects at student versus classroom level](doubly-latent-multilevel-sem-discipline-effects.md) — related

@@ -49,3 +49,4 @@ Theoretical argument in the 'Change in the Classroom' chapter, explicitly footno
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Perceived-desired discrepancies decreased for co-designers but often increased or decreased less for the rest of the class](pd-discrepancy-negative-for-rest-of-class.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Discrepant peer feedback leads to more transitions between feedback and essay, but only for students who report the discrepancy afterwards](discrepant-peer-feedback-more-transitions-only-reporters.md) — a narrower finding that bears on this claim

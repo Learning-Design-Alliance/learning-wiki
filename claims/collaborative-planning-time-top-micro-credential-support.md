@@ -50,3 +50,4 @@ Survey evidence from the Challenge Collaborative's cohort-model implementation. 
 - [Teachers participating in the micro-credential collaborative reported positive receptivity, with 84 percent agreeing micro-credentials were significant to their computational thinking learning](micro-credential-teacher-receptivity-positive.md) — related
 - [The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale](friday-institute-mooc-ed-implementation-gap-micro-credentials.md) — related
 - [More than 90 percent of teachers reported monetary bonuses and stipends for time spent would be definitely or very motivating for completing another micro-credential](monetary-incentives-motivating-micro-credentials.md) — related
+- [Teachers evaluated the PD moderately positively, and about three-quarters reported actually using what they learned in their mathematics lessons](teacher-evaluation-pd-uptake.md) — related

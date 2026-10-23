@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 32 claims (17 for, 14 mixed, 1 against) · 27 studies (13 associational, 7 review, 5 quant-synthesis, 2 theoretical), `q1`–`q3` · 5 of 27 report an effect size · 30 claims rest on one study
+> **Evidence** · 33 claims (18 for, 14 mixed, 1 against) · 28 studies (14 associational, 7 review, 5 quant-synthesis, 2 theoretical), `q1`–`q3` · 5 of 28 report an effect size · 31 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -73,6 +73,7 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [The review's evidence base comprises 90 studies reporting 870 associations of interaction quality with child developmental and educational outcomes, covering 108,693 children](../claims/ecec-quality-review-90-studies-870-associations.md) [+W]
 - [Higher caregiver education level is associated with higher interactive skills of individual child-care professionals (r = .21)](../claims/caregiver-education-interactive-skills-positive-association.md) [+W]
 - [Microsystem conditions such as poverty and unmet basic needs undermine learners' availability to learn](../claims/microsystem-poverty-basic-needs-unavailability.md) [+W]
+- [Student-teacher relationship quality and students' classroom emotions show reciprocal longitudinal associations over one year](../claims/reciprocal-relationship-quality-emotions-associations.md) [+W]
 
 ## The evidence by question
 - *Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+M]

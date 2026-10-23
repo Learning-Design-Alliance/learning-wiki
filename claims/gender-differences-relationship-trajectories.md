@@ -53,3 +53,4 @@ Multiple-group GMM comparison (Results): freely estimated across-gender models f
 - [Low warmth trajectories predict lower achievement gains for boys but not for girls](warmth-trajectories-boys-not-girls.md) — related
 - [Teacher-reported warmth follows two trajectory classes per gender: a normative high-declining class and a low-increasing class starting from lower warmth](warmth-trajectory-classes-elementary.md) — related
 - [Gender is unevenly distributed across participation profiles: boys are overrepresented among disconnected and girls among diligent students](gender-distribution-participation-profiles.md)
+- [Boys report more frequent classroom discipline problems than girls in language classes](boys-report-more-discipline-problems-than-girls.md) — related

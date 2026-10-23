@@ -50,3 +50,4 @@ Research on problem-solving performance of ninth grade students in two samples (
 - [Baseline versus code-augmented performance differs significantly for story and symbolic representations but not word-equations, with small effect sizes](interaction-condition-chi-square-representation-differences.md) — related
 - [Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit](personalization-improves-hard-kc-accuracy-algebra-its.md) — related
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related
+- [Bilinguals may have a specific advantage in transferring understanding of novel symbolic rules to new contexts](bilingual-transfer-novel-symbolic-rules.md) — related

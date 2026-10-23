@@ -52,6 +52,7 @@ From control-value theory the authors infer general guidelines for designing ins
 
 - [Build Relationships with Each Student](build_relationships_with_each_student.md)
 - [Establish Group Norms](establish-group-norms.md)
+- [Design programs that foster students' positive emotions and reduce negative emotions to support subsequent relationship quality and achievement](foster-positive-emotions-programs-strategy.md)
 
 ## Examples
 -

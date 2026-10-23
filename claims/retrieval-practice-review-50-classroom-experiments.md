@@ -69,3 +69,4 @@ The commentary notes the same review found "only a small fraction of experiments
 - [Practice testing yields transferrable learning relative to a nontesting reexposure control condition (d = 0.40)](testing-yields-transfer-versus-reexposure-control-d-040.md) — related
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — related
 - [The same quizzing or concept-mapping activity produces more learning when done without viewing the material, as retrieval, than while viewing it](closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions.md) — a narrower finding that bears on this claim
+- [Retrieval practice improves delayed but not immediate performance, consistent with a desirable-difficulties explanation](retrieval-practice-delayed-not-immediate-benefit.md) — related

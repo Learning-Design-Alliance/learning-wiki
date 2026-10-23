@@ -54,7 +54,7 @@ Lea Waters, Adam Barsky, Amanda Ridd, Kelly Allen. (2015). Contemplative Educati
 
 `q3 · i3` · `review · r3`
 
-Randomised controlled trial of 12 weeks of mindfulness meditation in fourth and fifth graders (intervention=51, control=46). The review reports no differences in positive or negative affect, but significant reductions in stress responses with printed effect sizes, e.g. "involuntary engagement (d=.83)" and rumination d=.70.
+This systematic review summarises one of its included studies, Mendelson et al. (2010), a randomised controlled trial of 12 weeks of mindfulness meditation in fourth and fifth graders (intervention=51, control=46); Waters et al. did not run the trial themselves. The review reports no differences in positive or negative affect, but significant reductions in stress responses with printed effect sizes, e.g. "involuntary engagement (d=.83)" and rumination d=.70.
 
 > "at post-test, students who underwent the intervention scored significantly lower on emotional arousal ( d=.64), intrusive thoughts (d=.51), involuntary engagement (d=.83) and rumination ( d=.70), suggesting that while mood was unaffected, general stress and coping responses were improved."
 

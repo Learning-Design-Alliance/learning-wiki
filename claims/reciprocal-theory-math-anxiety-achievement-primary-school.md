@@ -52,3 +52,4 @@ Longitudinal analysis of 337 Polish primary school children assessed at three ti
 - [Math anxiety at the end of first grade is predicted by prior math anxiety and gender](math-anxiety-t1-predictors-gender.md) — related
 - [Math achievement at the end of first grade is predicted by fluid intelligence, visuospatial working memory, and symbolic numerical representation](math-achievement-t1-predictors.md) — related
 - [Math anxiety at the start of first grade is predicted by general anxiety and symbolic numerical representation](math-anxiety-t0-predictors.md) — related
+- [Students' emotional experience predicts later academic achievement, while relationship quality does not](emotions-predict-achievement-relationship-does-not.md) — related

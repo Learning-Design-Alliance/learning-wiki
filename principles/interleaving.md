@@ -47,7 +47,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (17 for, 22 mixed, 2 against) · 26 studies (11 causal, 6 review, 4 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 26 report an effect size · 38 claims rest on one study
+> **Evidence** · 42 claims (18 for, 22 mixed, 2 against) · 27 studies (11 causal, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 12 of 27 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,7 @@ The expectation should weaken if comparisons with comparable learners find no ad
 - [In Experiment 1, mental effort was negatively related to perceived effectiveness and (via perceived effectiveness) willingness to use interleaved studying, with a more influential role for interleaved than blocked studying](../claims/effort-cue-study-considerations-exp1.md) [-W]
 - [In Experiment 2, the interleaving benefit on actual test outcomes was not statistically significant, unlike in Experiment 1](../claims/interleaving-outcome-benefit-nonsignificant-exp2.md) [~W]
 - [Interleaving—presenting different concepts in alternation rather than repeating the same concept—improves students' discrimination among similar concepts, terms, and principles](../claims/interleaving-improves-discrimination-similar-concepts.md) [+W]
+- [Evidence for lasting learning is mixed at 8-week delays: only interleaving, not spacing or retrieval practice in drawing contexts, was supported](../claims/eight-week-delay-evidence-mixed.md) [+W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

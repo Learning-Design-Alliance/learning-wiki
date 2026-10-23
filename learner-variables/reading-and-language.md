@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 184 claims (118 show a difference, 26 mixed, 40 no difference) · 135 studies (36 causal, 30 associational, 29 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 30 of 135 report an effect size · 175 claims rest on one study
+> **Evidence** · 188 claims (121 show a difference, 26 mixed, 41 no difference) · 136 studies (36 causal, 31 associational, 29 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 31 of 136 report an effect size · 179 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -235,6 +235,10 @@ What a learner can read without effort, and whether the language of instruction 
 - [Reading comprehension predicted retrieval, transfer, and retention more strongly than decoding, with a weaker modality interaction favoring lower-comprehension children in retention](../claims/reading-comprehension-predicts-multimedia-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Semantic abilities act as the key protective factor against the negative effect of reading fluency impairments on reading comprehension, especially in low SES contexts (reported by the special issue editors, citing Lefèvre et al.)](../claims/semantic-abilities-protect-reading-comprehension-fluency-impairment.md) [+W] — an instructional effect differs with it
 - [The board-game group showed greater pre-post improvement than controls in reading fluency, maths fluency and calculus in grades two to six](../claims/board-games-improve-reading-maths.md) [+M] — instruction changes it
+- [Early bilinguals outperform monolinguals on the hard items of the Symbol Math task in Experiment 1](../claims/bilingual-advantage-hard-symbol-math-exp1.md) [+M] — learners who differ on it differ in outcomes
+- [No bilingual advantage in executive control or working memory in Experiment 2](../claims/no-bilingual-advantage-executive-control.md) [-M] — learners who differ on it differ in outcomes
+- [The bilingual advantage on hard items cannot be attributed to SES differences](../claims/ses-ruled-out-bilingual-advantage.md) [+M] — learners who differ on it differ in outcomes
+- [The bilingual advantage on hard Symbol Math items replicated in Experiment 2 with executive control and SES measures](../claims/bilingual-advantage-hard-symbol-math-exp2.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

@@ -67,3 +67,4 @@ Second invariance step for the student model. Because "the metric and the scalar
 - [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related
 - Student-reported mathematics instructional quality in pooled PISA 2012 data has five dimensions: teacher support, cognitive activation, classroom disciplinary climate, classroom management, and student-orientated instruction — related
 - A higher-order general instructional quality factor fits the student data in all seven countries but does not hold for teacher data — related
+- [Measurement invariance of secondary students' perceptions of instructional quality is examined and supported](student-perceptions-instructional-quality-measurement-invariance.md) — related
