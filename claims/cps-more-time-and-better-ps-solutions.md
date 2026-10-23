@@ -68,3 +68,4 @@ A two-factor MANOVA on time allocation (Wilk's Λ = 0.50, F = 53.13, p < 0.001 f
 - [CPS and IPS raised electromagnetism concept-test performance equally, so CPS's advantage was specific to problem-solving performance](cps-ips-equal-concept-test-gains.md) — related
 - [Online problem-solving solution performance predicted students' posttest performance on both the concept test and problem-solving test](online-ps-solutions-predict-posttests.md) — related
 - [Practice-problem performance favored PS-I overall, but the advantage was concentrated on the first two worksheets (d = 0.52)](practice-problems-favor-ps-i-first-worksheets.md) — related
+- [DI-PS significantly outperformed PS-DI on the two supplier-reasoning problem-solving criteria (d = .60 and d = .64)](di-ps-outperforms-ps-di-supplier-reasoning-criteria.md) — related

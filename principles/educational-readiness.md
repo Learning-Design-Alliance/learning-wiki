@@ -142,9 +142,11 @@ Early-grade levels, growth across a year, later-grade achievement and the learne
 - [Universal Design for Learning](universal-design-for-learning.md) — removing demands that are not part of the goal, much of the teacher-side readiness
 
 ## Examples
+
 - A reading-readiness table can list parallel expectations for the child (e.g., a productive vocabulary of 5,000-8,000 words, using complete sentences, matching some letters to sounds) and for the teacher (e.g., answering children's questions, highlighting letters and sounds in the classroom, providing paper and marking tools) side by side (Copple & Bredekamp, 2006).
 - [Three-week structured summer kindergarten transition program](../elements/three-week-structured-kindergarten-transition-program.md) — a transition programme that prepares children and families before entry
 - [Provide support to children entering kindergarten and first grade](../strategies/support-children-entering-kindergarten-first-grade.md) — the strategy for easing school transitions
+- [Start behavioral and achievement support before school entry and monitor trajectories continuously](../strategies/early-preschool-intervention-stable-trajectories.md)
 
 ## Key Sources
 - Copple, C., & Bredekamp, S. (Eds.). (2006). *Basics of developmentally appropriate practice: An introduction for teachers of children 3 to 6*. National Association for the Education of Young Children.

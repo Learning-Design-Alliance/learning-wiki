@@ -53,3 +53,4 @@ The review reports, citing Ehm et al. (2019), that model choice changed conclusi
 - [The extended REM was robust to several alternative modeling specifications proposed by Sorjonen et al.](extended-rem-robust-alternative-specifications.md) — related
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — related
 - [RI-CLPM random-intercept correlations between grades and emotions (median |r| = 0.46) were stronger than the undecomposed CLPM correlations (median |0.34|)](riclpm-vs-clpm-correlation-strength.md) — related
+- [Cross-lagged effects between behavioral problems and achievement are sporadic and domain-dependent, not consistently reciprocal, across elementary school](sporadic-domain-dependent-cross-lagged-effects-behavior-achievement.md) — related

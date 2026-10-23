@@ -47,3 +47,4 @@ Pooled random-effects correlation between adaptive ER strategies and overall bur
 - [Emotion regulation difficulties are positively associated with overall academic burnout in youth (pooled r = 0.25)](er-difficulties-positive-overall-burnout.md) — related
 - [Publication-bias adjustments render the ER difficulties–lack of efficacy and adaptive ER–emotional exhaustion effects non-significant](publication-bias-weakens-some-er-burnout-effects.md) — related
 - [Student burnout is positively associated with dropout intentions, with a pooled meta-analytic correlation of r+ = .46](burnout-dropout-intentions-pooled-r46.md) — related
+- [With growing job experience, teachers may shift toward different, more adaptive emotion regulation strategies](job-experience-shift-toward-adaptive-er-strategies.md) — related

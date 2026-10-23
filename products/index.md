@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1856 entries** · 0 stable · 1856 in review · 0 drafts
+**1859 entries** · 0 stable · 1859 in review · 0 drafts
 
 ---
 
@@ -150,6 +150,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Berea College Promise Neighborhood initiative](berea-college-promise-neighborhood-initiative.md) - A Berea College–run place-based education initiative serving students and communities across Clay, Jackson, and Owsley Counties in rural Appalachian Kentucky.
 * [Bernauer and Tomei's integrated matrix of five faculty integrator quadrants](bernauer-and-tomeis-integrated-matrix-of-five-faculty-integrator-quadrants.md) - A higher-education faculty-development framework that organizes competencies, objectives, and teaching practices into five stages of pedagogical and technology integration, from apprentice to master integrator.
 * [Best Practice Framework for Online Safety Education](best-practice-framework-for-online-safety-education.md) - A national framework developed by Walsh et al.
+* [bettermarks](bettermarks.md) - bettermarks is a mathematics intelligent tutoring system that provides adaptive practice, detects learner errors and knowledge gaps, and assigns targeted learning materials for school students.
 * [BFpack](bfpack.md) - BFpack is an R package developed by Mulder and colleagues that provides Bayesian factor hypothesis-testing functions for common statistical models and exploratory or confirmatory tests with equality and order constraints.
 * [BILearn-CS](bilearn-cs.md) - BILearn-CS is an instructor-authored and teaching-assistant-validated benchmark dataset of 600 programming-support queries for evaluating educational responses in introductory programming and data-structures contexts.
 * [Bilingual benchmark of 1107 Chinese-English children's stories with silver developmental references and structured annotations](bilingual-benchmark-of-1107-chinese-english-childrens-stories-with-silver-developmental-re.md) - A bilingual benchmark dataset constructed by Sijing Yin et al.
@@ -936,6 +937,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Louisiana middle-school communications industrial arts curriculum guide (draft)](louisiana-middle-school-communications-industrial-arts-curriculum-guide-draft.md) - A Louisiana state curriculum guide for grades 6–9 that organizes communications-focused industrial arts instruction in drafting, electricity-electronics, graphic arts, and photography around performance objectives, activities, and resources.
 * [Lovaas Model](lovaas-model.md) - An intensive early behavioral intervention programme developed at UCLA and delivered through the Lovaas Institute, combining one-to-one discrete-trial instruction, peer play, classroom inclusion, generalization activities, and parent training.
 * [LT_NLP_SET_pub](lt-nlp-set-pub.md) - A GitHub repository maintained by the review authors containing the code, study lists, prompts, codebooks, frozen response bases, and adjudication materials needed to audit and reconstruct the SET-NLP evidence map.
+* [LUCA browser-based office simulation](luca-browser-based-office-simulation.md) - LUCA is a browser-based office-simulation and assessment environment developed by Sabrina Ludwig and colleagues, providing simulated office tools, authoring of authentic work scenarios, embedded assessments, and activity logging for business education.
 * [LUDIA](ludia.md) - LUDIA is a browser-based, private, multilingual AI thought-partner tool developed by Stark et al.
 * [Lumen One Introduction to Statistics](lumen-one-introduction-to-statistics.md) - Lumen Learning's online statistics courseware replaces or supplements textbooks with segmented multimedia content, interactive practice, study supports, and instructor-facing engagement and intervention tools.
 * [LumiNote](luminote.md) - LumiNote is an instructor-facing Unity3D and Meta Quest 3 VR system developed by Danxuan Liang and colleagues that uses GPT-4o and Whisper to convert spoken teaching intent into reviewable spatial annotations, demonstrations, and language support for stage-lighting education.
@@ -1774,6 +1776,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [TutorTrace](tutortrace.md) - TutorTrace is a dataset and taxonomy developed by its authors that uses IDE telemetry to classify introductory Python learners' behavioral states around AI help-seeking and support tutor interventions.
 * [TutorTrace dataset of IDE telemetry, behavioral segments, and observable metrics from 480 learners across four introductory Python deployments](tutortrace-dataset-of-ide-telemetry-behavioral-segments-and-observable-metrics-from-480-le.md) - TutorTrace is a publicly released dataset created by its authors that combines IDE telemetry, AI interaction logs, task outcomes, and expert-validated learner behavioral classifications for studying AI-assisted programming help-seeking.
 * [Twelve Together](twelve-together.md) - A one-year voluntary peer-support and mentoring programme for middle- and high-school students, delivered through facilitated discussion groups and complementary academic, social, and college-oriented activities.
+* [Twelve-strategy daily-diary emotion regulation measure across two measurement bursts](twelve-strategy-daily-diary-emotion-regulation-measure-across-two-measurement-bursts.md) - A study-developed daily-diary assessment measuring German primary and secondary school teachers’ use of 12 emotion-regulation strategies across two six-month-spaced measurement bursts.
 * [Twig Science](twig-science.md) - Twig Science is Twig Education's phenomena-based K–8 science curriculum aligned with the Next Generation Science Standards and built around the 5E instructional model.
 * [Type 1 model competency test](type-1-model-competency-test.md) - A paper-and-pencil grade-level competency assessment developed by Kasten et al., with scoring guidance, teacher notes, objective mappings, and error-interpretation support.
 * [Type 2 checklist assessment](type-2-checklist-assessment.md) - A first-grade mathematics checklist assessment from the Model Competency-Based Mathematics Program that pairs critical objectives with teacher-rated performance tasks to document student progress.

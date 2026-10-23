@@ -39,7 +39,7 @@ The article's authors propose that the strongest practical application of their 
 - supporting student-teacher relationship quality and achievement
 
 ### Affordances
-- Control-value theory of achievement emotions (Pekrun, 2006); no wiki page yet
+- Control-value theory of achievement emotions ([Pekrun, 2006](https://doi.org/10.1007/s10648-006-9029-9)); no wiki page yet
 
 ## Claims
 

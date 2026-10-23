@@ -40298,5 +40298,181 @@
  "retrieval-practice\tretrieving each upcoming problem-solving step\tnon-retrieval condition": {
   "label": "retrieval practice vs no retrieval practice",
   "treatment_is_a": true
+ },
+ "example-problem-sequencing\tfirst task in the randomized battery\tlast task in the randomized battery": {
+  "label": "first vs last task position",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tRepeated debiasing explanations across two sessions\tSolving the same problems without explanations": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrief debiasing explanations\tno explanations": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrief debiasing explanations\tpre-intervention baseline": {
+  "label": "explicit instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrief debiasing explanations after problems\tproblem solving without explanations": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tbrief debiasing explanations after reasoning problems\treasoning problems without explanations": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdebiasing explanations after conflict problems\tsolving conflict problems without explanations": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdebiasing explanations after problems\tproblem solving without explanations": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\trepeated brief debiasing explanations\tproblem solving without explanations": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\trepeated debiasing explanations\tno-explanation control": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\trepeated debiasing training with delayed retraining\tsingle initial training exposure": {
+  "label": "repeated explicit instruction vs single explicit instruction",
+  "treatment_is_a": true
+ },
+ "other\t1999 adjusted ITBS scores\t1992 adjusted ITBS scores": {
+  "label": "1999 vs 1992",
+  "treatment_is_a": true
+ },
+ "other\t1999 adjusted ITBS scores for older students\t1992 adjusted ITBS scores for older students": {
+  "label": "1999 vs 1992",
+  "treatment_is_a": true
+ },
+ "other\t1999 adjusted age-group scores\tearlier adjusted age-group scores": {
+  "label": "later vs earlier",
+  "treatment_is_a": true
+ },
+ "other\t1999 bilingual inclusion rule: scores included after four years\t1997-1998 rule: scores included after three full years": {
+  "label": "four years vs three years",
+  "treatment_is_a": true
+ },
+ "other\t1999 challenging assignments\t1997 challenging assignments": {
+  "label": "1999 challenging assignments vs 1997 challenging assignments",
+  "treatment_is_a": true
+ },
+ "other\t1999 eighth-grade writing assignments\t1999 eighth-grade mathematics assignments": {
+  "label": "writing assignments vs mathematics assignments",
+  "treatment_is_a": true
+ },
+ "other\t1999 sixth-grade mathematics assignments\t1997 sixth-grade mathematics assignments": {
+  "label": "1999 vs 1997",
+  "treatment_is_a": true
+ },
+ "other\t1999 sixth-grade writing assignments\t1999 sixth-grade mathematics assignments": {
+  "label": "writing assignments vs mathematics assignments",
+  "treatment_is_a": true
+ },
+ "other\t1999 student classification\t1992 student classification": {
+  "label": "1999 vs 1992",
+  "treatment_is_a": true
+ },
+ "other\t1999 students facing the CPS promotional policy\t1997 students facing the CPS promotional policy": {
+  "label": "1999 vs 1997",
+  "treatment_is_a": true
+ },
+ "other\t1999 students under the promotional policy\t1997 students under the promotional policy": {
+  "label": "1999 vs 1997",
+  "treatment_is_a": true
+ },
+ "other\t1999 third-grade writing assignments\t1999 third-grade mathematics assignments": {
+  "label": "writing assignments vs mathematics assignments",
+  "treatment_is_a": true
+ },
+ "other\t1999 typical assignments\t1997 typical assignments": {
+  "label": "1999 vs 1997",
+  "treatment_is_a": true
+ },
+ "other\t1:1 intervention\tsmall-group intervention": {
+  "label": "one-to-one vs small-group intervention",
+  "treatment_is_a": true
+ },
+ "other\t2 minutes of conscious thought before idea listing\timmediate idea listing": {
+  "label": "conscious thought vs immediate idea listing",
+  "treatment_is_a": true
+ },
+ "other\t2 minutes of unconscious thought during distraction before idea listing\t2 minutes of conscious thought before idea listing": {
+  "label": "unconscious thought vs conscious thought",
+  "treatment_is_a": true
+ },
+ "other\t2-year PjBL program\tcontrol group": {
+  "label": "two-year PjBL program vs control",
+  "treatment_is_a": true
+ },
+ "other\t2.5x playback speed\t1x playback speed": {
+  "label": "2.5× playback speed vs 1× playback speed",
+  "treatment_is_a": true
+ },
+ "other\t20 minutes of moderate-intensity treadmill walking\t20 minutes of high-intensity treadmill walking": {
+  "label": "high-intensity exercise vs moderate-intensity exercise",
+  "treatment_is_a": false
+ },
+ "other\t20 percentage-point enrollment increase\tno enrollment increase counterfactual": {
+  "label": "20-percentage-point enrollment increase vs no enrollment increase",
+  "treatment_is_a": true
+ },
+ "practice-amount\tadditional repeated training\tone training session": {
+  "label": "repeated practice vs single practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated debiasing training with follow-up testing\tpre-training performance": {
+  "label": "repeated practice vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated training\tcontrol group": {
+  "label": "repeated practice vs control/no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond training intervention\tfirst training intervention": {
+  "label": "second training intervention vs first training intervention",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttwo repeated training sessions\tone training session": {
+  "label": "repeated practice vs single practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tDI-PS\tPS-DI": {
+  "label": "problem solving first vs direct instruction first",
+  "treatment_is_a": false
+ },
+ "problem-first\tDI-PS: direct instruction followed by problem solving\tPS-DI: problem solving followed by direct instruction": {
+  "label": "problem solving first vs direct instruction first",
+  "treatment_is_a": false
+ },
+ "problem-first\tPS-DI\tDI-PS": {
+  "label": "problem solving first vs direct instruction first",
+  "treatment_is_a": true
+ },
+ "problem-first\tdirect instruction followed by problem solving (DI-PS)\tproblem solving followed by direct instruction (PS-DI)": {
+  "label": "problem solving first vs direct instruction first",
+  "treatment_is_a": false
+ },
+ "problem-first\tdirect instruction followed by problem-solving (DI-PS)\tproblem-solving followed by direct instruction (PS-DI)": {
+  "label": "problem solving first vs direct instruction first",
+  "treatment_is_a": false
+ },
+ "problem-first\tproblem solving followed by direct instruction (PS-DI)\tdirect instruction followed by problem solving (DI-PS)": {
+  "label": "problem solving first vs direct instruction first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-solving followed by direct instruction (PS-DI)\tdirect instruction followed by problem-solving (DI-PS)": {
+  "label": "problem solving first vs direct instruction first",
+  "treatment_is_a": true
+ },
+ "spacing\trepeated debias training with a two-month follow-up session\tperformance before the delayed follow-up": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
  }
 }

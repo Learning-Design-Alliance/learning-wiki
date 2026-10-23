@@ -50,3 +50,4 @@ Variance partitioning from empty multilevel models (Table 2) of BEL-S data from 
 - [Only 50% of a school's 5Essentials score is explained by the previous year's score, indicating substantial year-to-year malleability of school climate](5essentials-score-only-half-explained-by-prior-year.md) — related
 - [Teacher effects account for about one-fifth of within-student variation in course grades but average out of GPAs](teacher-effects-one-fifth-within-student-variance.md) — related
 - [Classroom environment has a small positive within-student relationship with course grades that is mediated by student noncognitive factors](classroom-environment-grades-mediated-by-noncognitive-factors.md) — related
+- [Residual (non-shared) student-level perceptions of instructional quality are positively related to individual student self-efficacy and intrinsic motivation](residual-l1-climate-ratings-related-motivation.md) — related

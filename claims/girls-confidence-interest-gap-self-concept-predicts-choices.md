@@ -111,3 +111,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Early identification and treatment of math anxiety is important because early anxieties can snowball into avoidance of mathematics](early-identification-math-anxiety-importance.md) — related
 - [Children's ability self-concepts and subjective task values are domain-specific and differentiated from first grade, with gender differences in math fading over time](cab-domain-specific-beliefs-first-grade.md) — related
 - [Girls exhibited a stronger decrease in mathematics ASC than boys over the school year, while school type did not predict ASC development](girls-stronger-asc-decrease-school-type-null.md) — related
+- [Girls started lower in math self-concept and interest than boys, and the L1 self-concept gender gap widened over Grades 7–9](gender-gaps-math-lower-l1-slope-favors-girls.md) — a narrower finding that bears on this claim

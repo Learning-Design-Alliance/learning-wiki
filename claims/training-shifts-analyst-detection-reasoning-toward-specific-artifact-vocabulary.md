@@ -65,3 +65,4 @@ Same exploratory coding of free-text detection reasoning. The article reports hi
 - [Training improved discrimination sensitivity (d′) with only a small, non-significant criterion shift toward labeling images as AI-generated](training-improves-discrimination-sensitivity-not-response-bias.md) — related
 - Word-frequency changes in reflections suggest a shift away from given-information-based strategies — related
 - [A 30-minute generative AI literacy training increased intelligence analysts' overall accuracy at distinguishing real from AI-generated images by 9 percentage points](brief-generative-ai-literacy-training-raises-analyst-image-discrimination-accuracy.md) — a broader claim this one bears on
+- [Training shows small trends toward better conflict detection on bat-and-ball and base-rate tasks but the opposite trend on the conjunction fallacy task](conflict-detection-trends-task-specific.md) — related

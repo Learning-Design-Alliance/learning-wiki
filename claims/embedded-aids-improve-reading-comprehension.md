@@ -55,3 +55,4 @@ Quasi-experimental study of science material with approximately 200 tenth grader
 - [Verbal-protocol-guided revisions of functional documents improved comprehension, with error rates falling from 50% to 22% despite longer texts](protocol-guided-revision-improves-comprehension.md) — related
 - [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](visual-textual-no-significant-gain-over-text.md) — related
 - [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type works best do not match measured performance](gloss-perceptions-mismatch-performance.md) — related
+- [The revised coherence version measurably increased textual coherence on two quantitative indices](coherence-indices-manipulation-check.md) — related

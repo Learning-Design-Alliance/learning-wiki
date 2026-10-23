@@ -49,3 +49,4 @@ Paired t-tests in the pretest-intervention-posttest study with 23 middle school 
 - [After training, tutors were significantly more likely to encounter pedagogical opportunities (61.1% to 68.9%) and showed higher execution quality within those opportunities (65.5% to 68.1%)](post-training-opportunity-and-execution-gains.md) — related
 - [%KBR correlated with prior knowledge only among high-prior students, not among low-prior students](kbr-prior-correlation-only-high-prior.md) — related
 - [Low-prior-knowledge tutors with high %KBR outperformed their low-%KBR counterparts at post-test and scored statistically equivalent to high-prior peers](low-prior-high-kbr-match-high-prior-peers.md) — related
+- [Both sequencing groups improved in conceptual and procedural knowledge, with no significant group-by-time interaction](both-groups-improved-knowledge-no-sequencing-interaction.md) — related

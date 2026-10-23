@@ -46,3 +46,4 @@ Descriptive analysis of RAEQ scale means in Study 1 (350 German university stude
 - [Achievement emotion regulation strategies are related to, but distinct from, general emotion regulation strategies](achievement-er-distinct-from-general-er.md) — related
 - [Strategy interrelations: expression and suppression are negatively related, while social support seeking and expression are positively related across emotions](expression-suppression-negative-support-expression-positive.md) — related
 - [Achievement emotion regulation strategies are linked to students' target emotions, with reappraisal and competence development showing the most pronounced relations](strategies-linked-to-target-emotions-reappraisal-competence-pronounced.md) — related
+- [With growing job experience, teachers may shift toward different, more adaptive emotion regulation strategies](job-experience-shift-toward-adaptive-er-strategies.md) — related

@@ -232,3 +232,4 @@ The article reports a randomized-controlled experiment comparing problem solving
 - [Presenting primary knowledge first and then secondary knowledge was more efficient in both performance and motivation](primary-first-sequencing-benefits.md) — reports the opposite
 - [Transfer of a permutation algorithm succeeds for objects-assigned-to-people problems but fails for people-assigned-to-objects problems](bassok-transfer-objects-people-asymmetry.md) — a narrower finding that bears on this claim
 - [DI students relied on notes rather than exploring the agent-based models, while PF classes showed lively collaborative exploration and questioning](di-passive-note-reliance-vs-pf-exploration.md) — a narrower finding that bears on this claim
+- [DI-PS significantly outperformed PS-DI on the two supplier-reasoning problem-solving criteria (d = .60 and d = .64)](di-ps-outperforms-ps-di-supplier-reasoning-criteria.md) — a narrower finding that bears on this claim
