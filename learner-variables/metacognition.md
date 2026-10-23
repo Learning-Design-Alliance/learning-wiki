@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 123 claims (80 show a difference, 28 mixed, 15 no difference) · 90 studies (34 causal, 16 associational, 13 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 27 of 90 report an effect size · 122 claims rest on one study
+> **Evidence** · 124 claims (80 show a difference, 28 mixed, 16 no difference) · 91 studies (35 causal, 16 associational, 13 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 27 of 91 report an effect size · 123 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -165,6 +165,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Consistently high complexity raises meta-awareness in Round 1 but not in later rounds](../claims/complexity-meta-awareness-round-1.md) [~M] — instruction changes it
 - [Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not in the consistently high complexity group](../claims/metacognition-meta-awareness-correlation-by-condition.md) [~M] — learners who differ on it differ in outcomes
 - [Technology-enhanced adaptive teaching shows no significant effects on monitoring accuracy, subject-specific interest, or self-efficacy](../claims/adaptive-teaching-no-metacognitive-motivational-effects.md) [-W] — instruction changes it
+- [Seventh-graders in remote inquiry learning accurately monitor their own learning, with no differences between experimentation conditions](../claims/accurate-metacognitive-monitoring-remote-inquiry.md) [-M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

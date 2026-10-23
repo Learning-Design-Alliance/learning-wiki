@@ -49,3 +49,4 @@ Intraindividual multilevel regression of ESM state data (1409 assessments nested
 ## Related Claims
 - [Beyond the hypothesized links, mastery goals also predicted pride, performance-approach goals predicted enjoyment and (weakly) shame, and performance-avoidance goals predicted anger](additional-goal-emotion-relations-beyond-hypotheses.md) — related
 - [Between persons, trait mastery goals positively predict enjoyment and negatively predict anger and boredom; performance-approach goals predict pride; performance-avoidance goals predict anxiety and shame](trait-goal-emotion-relations-replicate-previous-findings.md) — related
+- [Session-specific performance-approach goals were positively related to students' overall rating and learning and negatively to boredom, while performance-avoidance goals showed the opposite pattern](session-specific-performance-goals-student-experiences.md) — related

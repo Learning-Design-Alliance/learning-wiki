@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 180 claims (125 show a difference, 33 mixed, 22 no difference) · 132 studies (35 associational, 33 causal, 32 review, 13 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 26 of 132 report an effect size · 171 claims rest on one study
+> **Evidence** · 181 claims (125 show a difference, 33 mixed, 23 no difference) · 133 studies (35 associational, 34 causal, 32 review, 13 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 26 of 133 report an effect size · 172 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -229,6 +229,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Regular and explicit teacher addressing of metacognitive strategies is linked to students applying more metacognitive strategies over time](../claims/explicit-metacognitive-addressing-increases-student-strategy-use.md) [+M] — instruction changes it
 - [The linear effect of task difficulty on cognitive strategy use is competitively mediated by learner resources: difficulty decreases resources, which lowers strategy use, while a positive direct effect remains](../claims/resources-competitive-mediation-cognitive-strategies.md) [~M] — instruction changes it
 - [Technology-enhanced adaptive teaching shows no significant effects on monitoring accuracy, subject-specific interest, or self-efficacy](../claims/adaptive-teaching-no-metacognitive-motivational-effects.md) [-W] — instruction changes it
+- [MAST shows no effect on self-regulation in four-to-five-year-old children](../claims/mast-no-effect-self-regulation.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

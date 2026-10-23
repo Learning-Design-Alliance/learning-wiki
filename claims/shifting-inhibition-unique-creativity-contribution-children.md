@@ -57,3 +57,4 @@ Correlational/regression analyses in a study of 209 children aged 8 to 13 admini
 - [Men scored higher than women on rated divergent thinking creativity in this sample, with no sex differences in fluid intelligence or the executive functions.](sex-difference-creative-potential-sample.md) — related
 - [The effect of crystallized intelligence on children's creativity is mediated by shifting](shifting-mediates-gc-creativity-children.md) — related
 - [Working memory and inhibition both contribute to spontaneous flexibility, whereas only inhibition contributes to reactive flexibility](wm-inhibition-differential-flexibility-contributions.md) — related
+- [Children's age, general intelligence, and divergent thinking positively predicted tool innovation performance, while executive function measures predicted only ideal manipulation](age-intelligence-divergent-thinking-predict-tool-innovation.md) — related

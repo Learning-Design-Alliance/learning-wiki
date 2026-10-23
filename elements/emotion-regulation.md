@@ -13,7 +13,7 @@ generated:
 # Emotion Regulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (14 for, 14 mixed) · 32 studies (8 review, 6 causal, 6 quant-synthesis, 6 associational, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 11 of 32 report an effect size · 23 claims rest on one study
+> **Evidence** · 30 claims (14 for, 16 mixed) · 33 studies (8 review, 7 associational, 6 causal, 6 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 11 of 33 report an effect size · 25 claims rest on one study
 
 ## Description
 Emotion regulation in learning design refers to the deliberate integration of strategies and supports that help learners recognize and manage their emotional responses to academic demands. Drawing on Gross's process model, regulation can target the situation (choosing or modifying tasks), attention (redirecting focus), cognition (reappraising the meaning of stress), or response (calming techniques) ([Gross, 1998](https://doi.org/10.1037/1089-2680.2.3.271)). In instructional contexts, the designer's role is to build regulation opportunities into the learning environment rather than assuming learners arrive with these skills.
@@ -77,6 +77,8 @@ Emotions are not noise around learning — they shape attention, working memory 
 - [Pre-service teachers with higher color-blind racial ideology scores had difficulties regulating emotions in racial situations](../claims/color-blind-ideology-emotion-regulation-difficulties.md) [~W]
 - [ER difficulties are positively associated with each burnout dimension: cynicism, emotional exhaustion, and lack of efficacy](../claims/er-difficulties-burnout-dimensions.md) [+W]
 - [Attribution reframing interventions improved outcomes for struggling students (review-reported)](../claims/attribution-reframing-improves-struggling-student-outcomes.md) [~W]
+- [Strategy interrelations: expression and suppression are negatively related, while social support seeking and expression are positively related across emotions](../claims/expression-suppression-negative-support-expression-positive.md) [~W]
+- [Achievement emotion regulation strategies are related to, but distinct from, general emotion regulation strategies](../claims/achievement-er-distinct-from-general-er.md) [~W]
 
 ## The evidence by question
 - *Does a brief regulation exercise before an evaluation (writing about worries, relabelling the feeling) protect anxious learners' performance?* [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](../claims/expressive-writing-improves-exam-performance.md) [~S]

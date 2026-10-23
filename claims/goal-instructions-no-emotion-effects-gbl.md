@@ -49,3 +49,4 @@ In the randomized experiment (N = 450), robust regression found no significant m
 - [Relational goals are positively linked to positive affect and enjoyment](relational-goals-positive-affect-enjoyment.md) — related
 - [Work-avoidance goals are particularly related to negative activity emotions](work-avoidance-goals-negative-activity-emotions.md) — related
 - [Mastery-approach goal instructions do not induce mastery-approach goals and show no effects on learning outcomes in secondary school game-based learning](mastery-goal-instructions-no-effect-secondary-gbl.md) — related
+- [Session-specific performance-approach goals were positively related to students' overall rating and learning and negatively to boredom, while performance-avoidance goals showed the opposite pattern](session-specific-performance-goals-student-experiences.md) — related

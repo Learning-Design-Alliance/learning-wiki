@@ -51,3 +51,4 @@ Three-armed RCT (74 CON, 40 HM, 35 WM) of 5–6-year-olds in an 8-week phonics i
 - [Eight weeks of embodied letter-sound teaching produced no transfer effect on word reading in 5–6-year-olds](embodied-phonics-no-word-reading-transfer.md) — related
 - [Whole-body movement teaching improves matching of conditional letter-sounds to letters at retention compared with non-motor teaching](whole-body-improves-conditional-sound-matching-retention.md) — a narrower finding that bears on this claim
 - [A 4-week embodied learning intervention with movement-phonemes improves grade 1 children's letter-sound knowledge more than regular classroom teaching](movement-phonemes-improve-letter-sound-knowledge-grade-1.md) — related
+- [MAST significantly improves language in four-to-five-year-old children (d = 0.2)](mast-improves-language-first-year-school.md) — related

@@ -44,6 +44,7 @@ Based on its findings, the review states implications for educational psychology
 ## Related Strategies
 
 - [Build and enhance protective factors in at-risk populations through experimental and intervention studies to support resilient developmental trajectories](build-protective-factors-at-risk-learners-strategy.md)
+- [Develop complementary LD interventions that strengthen promotive and protective factors alongside interventions remediating core weaknesses](interventions-strengthen-promotive-protective-factors.md)
 
 ## Examples
 -

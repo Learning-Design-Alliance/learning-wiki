@@ -43,7 +43,8 @@ Drawing on Ray (2019), the article treats schools as racialized organizations in
 - [Nested Contexts Of Reception Framework](nested-contexts-of-reception-framework.md)
 
 ## Examples
--
+
+- [Structural, school-level approaches to address teachers' explicit immigration attitudes](../strategies/structural-school-level-attitude-interventions.md)
 
 ## Key Sources
 - Rodriguez, Roth, & Villarreal Sosa. (2022). "Immigration Enforcement Is a Daily Part of Our Students' Lives": School Social Workers' Perceptions of Racialized Nested Contexts of Reception for Immigrant Students. AERA Open. https://doi.org/10.1177/23328584211073170

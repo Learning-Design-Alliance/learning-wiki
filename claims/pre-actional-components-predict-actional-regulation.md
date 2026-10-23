@@ -79,3 +79,4 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [Affective reactivity can override adolescents' regulatory intentions for digital engagement](affective-reactivity-overrides-digital-regulation-intentions.md) — related
 - [Positive academic emotions correlate positively with interest, effort, flexible learning strategies, and perceived self-regulation, while boredom and hopelessness correlate negatively with all of these motivational variables](emotions-correlate-motivation-strategies-resources.md) — related
 - [Negative normative feedback lowered math performance indirectly via reduced hope](negative-feedback-indirect-lowered-performance-hope.md) — related
+- [Higher education teachers' self-efficacy beliefs at semester start positively predict students' end-of-course overall rating, learning, and joy, and negatively predict boredom](teacher-self-efficacy-predicts-student-teaching-quality-emotions.md) — related

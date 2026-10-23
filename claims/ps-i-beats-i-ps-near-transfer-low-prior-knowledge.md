@@ -56,3 +56,4 @@ Randomized classroom experiment with 367 introductory biology students assigned 
 - [Neither instructional sequence produced significant far-transfer effects in either experiment](no-significant-far-transfer-effect-either-sequence.md) — related
 - [A biology learning chatbot system had a positive impact on grade 7 students' biology learning achievement in a quasi-experiment](biology-chatbot-improves-learning-achievement.md) — related
 - [PF students scored significantly higher than DI students on near transfer (butterfly effect problem)](pf-beats-di-near-transfer-butterfly-effect.md) — related
+- [Conceptual feedback significantly reduces the effect of prior knowledge on achievement](conceptual-feedback-nullifies-prior-knowledge-effect.md) — related

@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 73 claims (50 show a difference, 14 mixed, 9 no difference) · 30 studies (17 associational, 5 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 12 of 30 report an effect size · 71 claims rest on one study
+> **Evidence** · 79 claims (55 show a difference, 15 mixed, 9 no difference) · 31 studies (18 associational, 5 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 12 of 31 report an effect size · 77 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -108,6 +108,12 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Arithmetic skill may predict algebra understanding better than fraction conceptual knowledge or magnitude understanding](../claims/arithmetic-predicts-algebra-better-than-fraction-knowledge.md) [-W] — learners who differ on it differ in outcomes
 - [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later](../claims/kindergarten-closure-numeracy-loss.md) [+W] — instruction changes it
 - [Kindergarten closures hit children in low-SES schools hardest in basic counting and numeracy skills (d = 0.2 in 2020; d = 0.3 in 2021), widening inequalities](../claims/kindergarten-low-ses-numeracy-loss.md) [+W] — instruction changes it
+- [At-risk learners show lower initial levels and delayed growth in early numeracy components, especially counting skills, relative to typically developing peers](../claims/at-risk-lower-initial-delayed-growth.md) [+M] — learners who differ on it differ in outcomes
+- [Children with higher initial levels in NRS or CS show slower subsequent linear growth in the same component](../claims/negative-intercept-slope-correlations-numeracy.md) [+W] — learners who differ on it differ in outcomes
+- [Correlations between NRS and CS decrease slightly over time, being stronger in kindergarten than in Grade 1](../claims/nrs-cs-correlations-decrease-over-time.md) [+W] — learners who differ on it differ in outcomes
+- [Initial levels and growth in numerical relational skills contribute to counting skill development, suggesting NRS may precede CS](../claims/nrs-contributes-to-cs-development.md) [+W] — learners who differ on it differ in outcomes
+- [Numerical relational and counting skills both develop nonlinearly between mid-Kindergarten year 1 and the end of Grade 1, with NRS decelerating and CS accelerating](../claims/nrs-cs-nonlinear-growth-trajectories.md) [+W] — learners who differ on it differ in outcomes
+- [The interdependence between numerical relational and counting skills is weaker in at-risk learners](../claims/weaker-nrs-cs-interdependence-at-risk.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

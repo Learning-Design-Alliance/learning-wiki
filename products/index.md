@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1849 entries** · 0 stable · 1849 in review · 0 drafts
+**1852 entries** · 0 stable · 1852 in review · 0 drafts
 
 ---
 
@@ -1139,6 +1139,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [NGSS-aligned middle school and high school science benchmarks](ngss-aligned-middle-school-and-high-school-science-benchmarks.md) - Two publicly released synthetic benchmark datasets created by Schroeder et al.
 * [NIH Intramural Loan Repayment Program](nih-intramural-loan-repayment-program.md) - A set of National Institutes of Health loan-repayment programmes run by NIH to attract and retain biomedical researchers in its intramural laboratories and clinics.
 * [NIH Undergraduate Scholarship Program](nih-undergraduate-scholarship-program.md) - A scholarship programme run by the National Institutes of Health that supports talented undergraduate science students from disadvantaged backgrounds and encourages biomedical research careers.
+* [Nine tool innovation tasks spanning three paradigms and three tool types](nine-tool-innovation-tasks-spanning-three-paradigms-and-three-tool-types.md) - A validated nine-task battery developed by Guo et al.
 * [Non-visual story-based behavioral ToM task](non-visual-story-based-behavioral-tom-task.md) - A publicly available non-visual, story-based theory-of-mind assessment developed by Richardson et al.
 * [North Carolina Generative AI Implementation Recommendations](north-carolina-generative-ai-implementation-recommendations.md) - A framework issued by North Carolina to guide K–12 generative-AI implementation, including shared levels and disclosure recommendations for AI-assisted assessment work.
 * [North Lawndale Cluster Initiative (NLCI)](north-lawndale-cluster-initiative-nlci.md) - AUSL's foundation-funded initiative coordinated schools, pre-k, professional development, mentoring, social-emotional supports, transition services, and college counseling across a North Lawndale school cluster from 2013–14 through 2018–19.
@@ -1269,6 +1270,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Picture Spelling Test with phonological plausibility scoring](picture-spelling-test-with-phonological-plausibility-scoring.md) - A researcher-designed picture-based spelling assessment with phonological-plausibility scoring, developed by Geers and Hayes for adolescents with prelingual deafness and cochlear implants.
 * [Pinpoint Learning mock-exam dataset of 119,034 UK students across 13 national-level mock exams](pinpoint-learning-mock-exam-dataset-of-119034-uk-students-across-13-national-level-mock-ex.md) - A question-level GCSE mathematics mock-exam results dataset extracted from the Pinpoint Learning platform and collected from teacher-uploaded assessments.
 * [Pirate Math](pirate-math.md) - Pirate Math is a one-to-one mathematics tutoring programme for third-grade students with calculation and word-problem difficulties, delivered through structured sessions using counting-up and missing-number strategies with a treasure-map reward system.
+* [PISA 2022 Global Crises Module (GCM) student questionnaire](pisa-2022-global-crises-module-gcm-student-questionnaire.md) - A PISA student questionnaire module administered by the OECD to measure 15-year-old students' learning conditions and experiences during COVID-19 school closures.
 * [PIVOT](pivot.md) - PIVOT is a three-stage pedagogy-guided generative video tutoring framework developed by Xinchen Ma et al.
 * [Playworks](playworks.md) - Playworks is a school-based programme run by the Playworks nonprofit that places trained full-time coaches in schools to organize inclusive, active play during recess and throughout the school day.
 * [PLEDGE platform](pledge-platform.md) - PLEDGE is Greenfield Learning's online professional-learning platform, where participating educators complete screeners, set goals, access personalized content, and upload application artifacts.
@@ -1397,6 +1399,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Regional Educational Laboratory (REL) Program](regional-educational-laboratory-rel-program.md) - The Institute of Education Sciences' REL Program connects practitioners, researchers, and policymakers through regional research, technical assistance, and engagement activities.
 * [Registered Teacher Apprenticeship Programs (RTAPs)](registered-teacher-apprenticeship-programs-rtaps.md) - A U.S.
 * [Regular Upward Bound program](regular-upward-bound-program.md) - A federally funded U.S.
+* [Regulation of Achievement Emotions Questionnaire (RAEQ)](regulation-of-achievement-emotions-questionnaire-raeq.md) - The RAEQ is a researcher-developed 80-item questionnaire by Stockinger et al.
 * [Reimagining Excellence blueprint](reimagining-excellence-blueprint.md) - A seven-dimension framework from Reimagining Excellence for integrating equity, social-emotional well-being, and academic learning across K–12 in-person, remote, and hybrid programs.
 * [RELAB (restricted-ELABorated code)](relab-restricted-elaborated-code.md) - RELAB is a classroom observation instrument developed by Stecher for coding teacher mediation, children's elaborated or restricted talk, classroom contexts, and child variables.
 * [Relationship Centered Schools (RCS) campaign](relationship-centered-schools-rcs-campaign.md) - A youth-led school-transformation initiative run by Californians for Justice that supports relationship-building, student voice, and staff investment in secondary schools.

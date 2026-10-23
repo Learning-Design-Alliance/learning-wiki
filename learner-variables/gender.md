@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 230 claims (141 show a difference, 55 mixed, 34 no difference) · 166 studies (104 associational, 27 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 26 of 166 report an effect size · 222 claims rest on one study
+> **Evidence** · 231 claims (141 show a difference, 56 mixed, 34 no difference) · 167 studies (105 associational, 27 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 27 of 167 report an effect size · 223 claims rest on one study
 
 ## How to read this page
 
@@ -268,6 +268,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Gender-specific prediction patterns: working memory span negatively predicts listening more strongly in males, while its positive bridging influence on English performance is stronger in females](../claims/gender-specific-ef-english-prediction-patterns.md) [~W] — an instructional effect differs by group
 - [Male and female networks differ in structure and overall connectivity, with tighter internal connections in the male sample](../claims/gender-network-structure-invariance-differences.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male gender predicted lower grades, moderated by cohort](../claims/gender-and-cohort-predict-grading-scores.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Girls show higher reading enjoyment and lower math enjoyment than boys, with no science enjoyment difference, after controlling for achievement, SES, and age](../claims/gender-differences-enjoyment-reading-math.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

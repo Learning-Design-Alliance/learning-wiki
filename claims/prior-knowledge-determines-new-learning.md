@@ -132,3 +132,4 @@ This claim is one of the most robust premises in educational psychology, but its
 - [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — a narrower finding that bears on this claim
 - [The positive relationship between kindergarten entrance age and achievement primarily reflects skill accumulation prior to kindergarten rather than heightened in-school learning ability](entrance-age-advantage-reflects-prior-skill-accumulation.md) — a narrower finding that bears on this claim
 - [Knowledge gains correlate positively with belief change, more strongly for higher relational-understanding levels](knowledge-gains-correlate-belief-change.md) — related
+- [Conceptual feedback significantly reduces the effect of prior knowledge on achievement](conceptual-feedback-nullifies-prior-knowledge-effect.md) — related

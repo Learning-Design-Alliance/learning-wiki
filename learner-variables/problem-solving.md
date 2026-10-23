@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 61 claims (46 show a difference, 8 mixed, 7 no difference) · 52 studies (25 causal, 9 review, 5 associational, 4 theoretical, 3 quant-synthesis, 3 qualitative, 3 design), `q1`–`q4` · 13 of 52 report an effect size · 59 claims rest on one study
+> **Evidence** · 62 claims (46 show a difference, 8 mixed, 8 no difference) · 53 studies (26 causal, 9 review, 5 associational, 4 theoretical, 3 quant-synthesis, 3 qualitative, 3 design), `q1`–`q4` · 13 of 53 report an effect size · 60 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -99,6 +99,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Informing learners about the to-be-monitored cue before problem-solving did not affect mental effort or problem-solving performance (Experiment 1)](../claims/cue-timing-no-effect-effort-performance.md) [-W] — instruction changes it
 - [No testing effect was found for acquiring problem-solving skills through worked example study across eight experiments](../claims/testing-effect-absent-worked-example-study.md) [-M] — instruction changes it
 - [Problem-solving facilitates diagnostic competences independent of learners' professional knowledge base](../claims/problem-solving-facilitates-diagnostic-competences-regardless-knowledge-base.md) [+M] — learners who differ on it differ in outcomes
+- [Simultaneous and sequential instruction produce no immediate differences in solving basic or generalization math equivalence problems](../claims/no-immediate-differences-across-timing-conditions.md) [-W] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

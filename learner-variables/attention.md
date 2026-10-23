@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (73 show a difference, 20 mixed, 12 no difference) · 81 studies (20 associational, 19 review, 18 causal, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 14 of 81 report an effect size · 100 claims rest on one study
+> **Evidence** · 107 claims (74 show a difference, 21 mixed, 12 no difference) · 82 studies (20 associational, 19 causal, 19 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 14 of 82 report an effect size · 102 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -143,6 +143,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed](../claims/green-breaks-elementary-attention-restoration.md) [+M] — instruction changes it
 - [Effects on sustained/selective attention are mixed across studies, with benefits in some green settings but no effect in others regardless of exposure duration](../claims/sustained-selective-attention-mixed-nature-effects.md) [~M] — instruction changes it
 - [Short walks and green playtime improve selective attention in children and adolescents relative to urban or indoor comparisons](../claims/nature-walk-improves-selective-attention.md) [+M] — instruction changes it
+- [Numerical difficulty and mathematical abilities also affect attention on situational text in the second phase (attention-crossover supporting integrated models)](../claims/attention-crossover-math-to-text-integrated-models.md) [+M] — instruction changes it
+- [Placing the question first reduces first-phase attention but increases second-phase attention (with mixed robustness)](../claims/question-position-phase-shift-effects.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

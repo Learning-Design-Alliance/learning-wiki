@@ -13,7 +13,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 81 claims (48 show a difference, 14 mixed, 19 no difference) · 50 studies (21 associational, 17 causal, 7 quant-synthesis, 3 review, 2 design), `q1`–`q3` · 15 of 50 report an effect size · 79 claims rest on one study
+> **Evidence** · 82 claims (48 show a difference, 15 mixed, 19 no difference) · 51 studies (21 associational, 17 causal, 7 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q3` · 15 of 51 report an effect size · 80 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -122,6 +122,7 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Syllable stress awareness and spelling skills correlate with each other and with in-game training performance](../claims/stress-awareness-spelling-validity-correlations.md) [+M] — learners who differ on it differ in outcomes
 - [Phonological awareness predicts irregular word spelling from Yr 2 onward but does not predict regular word or pseudoword spelling at any year group](../claims/pa-predicts-irregular-spelling-only.md) [~W] — learners who differ on it differ in outcomes
 - [Phonological skills and naming speed indirectly predict sixth-grade geometric and fraction skills via arithmetic skills in both DLD and TD children](../claims/phonological-naming-speed-indirect-via-arithmetic.md) [+W] — learners who differ on it differ in outcomes
+- [Vocabulary was a promotive but not protective factor for word reading: its interaction with phonological awareness was skill-enhancing, benefiting the lower-risk group](../claims/vocabulary-promotive-not-protective-skill-enhancing.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

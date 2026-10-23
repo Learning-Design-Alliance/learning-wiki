@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 43 claims (34 show a difference, 3 mixed, 6 no difference) · 32 studies (10 review, 8 causal, 6 quant-synthesis, 6 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 32 report an effect size · 42 claims rest on one study
+> **Evidence** · 45 claims (36 show a difference, 3 mixed, 6 no difference) · 33 studies (10 review, 8 causal, 7 associational, 6 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 33 report an effect size · 44 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -79,6 +79,8 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Expressively oriented literary programs improved ToM, emotion understanding, and self-reported insight in children and adolescents](../claims/expressive-literary-programs-improve-tom-empathy.md) [+M] — instruction changes it
 - [Global perceived-SEC is positively associated with autonomous motivation, introjected motivation, and prosocial behavior, and negatively with conduct problems](../claims/global-perceived-sec-predicts-motivation-and-behaviors.md) [+M] — learners who differ on it differ in outcomes
 - [Perceived competence for social regulation negatively predicts external motivation and conduct problems, and perceived competence for tolerance positively predicts autonomous motivation](../claims/specific-perceived-sec-dimensions-unique-associations.md) [+M] — learners who differ on it differ in outcomes
+- [Achievement emotion regulation strategies are linked to students' target emotions, with reappraisal and competence development showing the most pronounced relations](../claims/strategies-linked-to-target-emotions-reappraisal-competence-pronounced.md) [+M] — learners who differ on it differ in outcomes
+- [Achievement emotion regulation strategies relate to well-being, health, and academic achievement across three studies](../claims/strategies-relate-wellbeing-health-achievement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

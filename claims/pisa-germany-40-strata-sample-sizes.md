@@ -67,3 +67,4 @@ Sample-size check reported in the Measures section of the empirical illustration
 - [Prior research attributes reading achievement inequalities to the simultaneous, mutually constitutive operation of SES, immigrant background, and gender](intersectional-reading-inequality-mechanisms.md) — related
 - [The variance partition coefficient from the simple intersectional model quantifies how useful intersectional strata are for predicting educational outcomes](vpc-measures-strata-discriminatory-accuracy.md) — a broader claim this one bears on
 - [A systematic review identified 21 publications applying intersectional MAIHDA analysis, primarily in the health sciences](systematic-review-21-intersectional-maihda-studies.md) — related
+- [The climate × immigrant status interaction is robust across alternative specifications, sampling weights, and multiple imputation](interaction-robust-across-specifications.md) — related

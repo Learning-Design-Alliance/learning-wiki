@@ -13,7 +13,7 @@ generated:
 # Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (8 for, 7 mixed) · 13 studies (7 causal, 4 review, 1 associational, 1 theoretical), `q1`–`q3` · 3 of 13 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (9 for, 7 mixed) · 14 studies (8 causal, 4 review, 1 associational, 1 theoretical), `q1`–`q3` · 4 of 14 report an effect size · 13 claims rest on one study
 
 ## Description
 Modeling is the instructional element in which an instructor, expert, or advanced peer demonstrates expert thinking and behavior — making both the actions and the reasoning behind them visible. It functions as the observational entry point to skill acquisition: learners study a competent performance, including its decision points and self-monitoring, before producing their own attempts.
@@ -65,6 +65,7 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 - [Peer models raised self-efficacy and skill better than teacher models, but model-competence findings conflict across studies](../claims/peer-model-similarity-effects-mixed-evidence.md) [~W]
 - [Self-modeling raised self-efficacy for learning, motivation, and posttest skill among below-grade-level children](../claims/self-modeling-raises-efficacy-and-skill.md) [+W]
 - [Video modeling examples improve hypothesis quality but not argumentation quality in a transfer task](../claims/video-modeling-transfer-hypothesis-not-argumentation.md) [~W]
+- [First-person video modeling examples yield better task performance than third-person videos regardless of expected or task angle, supporting the Embodied Resonance Hypothesis](../claims/first-person-recording-angle-performance-advantage.md) [+W]
 
 ## The evidence by question
 - *Should modelling come before the learner's first attempts?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]

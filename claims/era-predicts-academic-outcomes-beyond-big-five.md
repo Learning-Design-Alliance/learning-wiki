@@ -72,3 +72,4 @@ The same regression analyses showed both measures were independent predictors: "
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [An emotion-control strategy is expected to lower state anxiety early in training, with a stronger negative relationship for trainees high in trait anxiety](emotion-control-lowers-state-anxiety-trait-moderation.md) — related
 - [Stable Dispositions such as conscientiousness predict academic success partly through effort, with some independence from cognitive ability](stable-dispositions-predict-academic-success-through-effort.md) — related
+- [Achievement emotion regulation strategies relate to well-being, health, and academic achievement across three studies](strategies-relate-wellbeing-health-achievement.md) — related

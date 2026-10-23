@@ -43,6 +43,7 @@ The article recommends that educators make the implications of burnout clear to 
 ## Related Strategies
 
 - [Promote a deep approach to learning to help offset burnout effects on achievement](deep-approach-learning-offset-burnout.md)
+- [Structural, school-level approaches to address teachers' explicit immigration attitudes](structural-school-level-attitude-interventions.md)
 
 ## Examples
 -

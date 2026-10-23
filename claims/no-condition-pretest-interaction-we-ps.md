@@ -71,3 +71,4 @@ In the graphing MANCOVA (n = 120 students analysed, of 199 who took part, after 
 - [The relationship between learners' prior knowledge and the optimal instructional sequence may not be straightforward](prior-knowledge-sequence-relationship-not-straightforward.md) — related
 - [Immediate unsupported application on a new passage showed no material-condition effect and no Proficiency × Material interaction, indicating no short-term dependence cost](no-short-term-dependence-cost-unsupported-application.md) — related
 - [Neither instructional sequence produced significant far-transfer effects in either experiment](no-significant-far-transfer-effect-either-sequence.md) — related
+- [Conceptual feedback significantly reduces the effect of prior knowledge on achievement](conceptual-feedback-nullifies-prior-knowledge-effect.md) — reports the opposite

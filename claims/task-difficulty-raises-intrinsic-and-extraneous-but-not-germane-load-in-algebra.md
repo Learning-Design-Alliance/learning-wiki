@@ -81,3 +81,4 @@ Same experiment, task-difficulty contrast on the CLM germane subscale: "no signi
 - [Self-explanation prompts increase intrinsic and extraneous cognitive load but not germane load in instructional video learning](self-explanation-prompts-increase-intrinsic-extraneous-load.md) — related
 - [Self-reported intrinsic cognitive load correlates positively with anxiety and challenge and negatively with probability of success in an algebra task](intrinsic-cognitive-load-correlates-with-anxiety-challenge-and-lower-probability-of-success.md) — related
 - [In a preregistered within-subjects experiment (N = 131, eight measurements), the translated scale showed criterion validity via sensitivity to task complexity, extraneous load, and motivation](mel-ts-criterion-validity.md) — related
+- [Recording angle alone does not affect self-reported cognitive load during video observation or task execution](recording-angle-no-cognitive-load-effect.md) — related

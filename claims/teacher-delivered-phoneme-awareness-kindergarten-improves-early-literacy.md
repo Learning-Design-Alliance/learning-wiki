@@ -59,3 +59,4 @@ Controlled intervention study in inner-city kindergarten classrooms with 84 trea
 - [PA Lessons implementation included testing students with the Phonological Awareness Screener for Intervention every three weeks to target instruction](pa-screener-every-three-weeks-targeting.md) — related
 - [A 4-week embodied learning intervention with movement-phonemes improves grade 1 children's letter-sound knowledge more than regular classroom teaching](movement-phonemes-improve-letter-sound-knowledge-grade-1.md) — related
 - [Eight weeks of embodied letter-sound teaching produced no transfer effect on word reading in 5–6-year-olds](embodied-phonics-no-word-reading-transfer.md) — related
+- [MAST significantly improves language in four-to-five-year-old children (d = 0.2)](mast-improves-language-first-year-school.md) — related
