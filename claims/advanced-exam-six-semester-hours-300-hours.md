@@ -44,3 +44,4 @@ Definitional planning statement from the PLAN OF STUDY section setting the Advan
 
 ## Related Claims
 - [The Elementary examination represents three semester hours, half the Advanced requirement](elementary-exam-half-of-advanced.md) — related
+- [Group scales allow examining fifty or a hundred children in an hour, whereas individual Binet testing restricts use to special cases](group-scale-throughput-versus-binet-individual.md) — related

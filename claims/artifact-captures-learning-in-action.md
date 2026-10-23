@@ -50,3 +50,4 @@ Finding from the case study's review of institutional documents and interviews, 
 - [Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies](leverage-points-context-mindsets-learning-strategies.md) — related
 - [Students' self-assessments of social well-being and work habits provide valuable information about their development](student-self-assessments-valuable-development-information.md) — related
 - [The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise](business-case-discussion-reveals-business-mindsets.md) — related
+- [Edwards' textbook's thesis is that all learning is habit formation, and that learning should be of permanent value with generalized as well as specific improvement sought](edwards-learning-habit-formation-thesis.md) — related

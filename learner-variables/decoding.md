@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 89 claims (59 show a difference, 15 mixed, 15 no difference) · 60 studies (17 quant-synthesis, 17 associational, 14 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 22 of 60 report an effect size · 84 claims rest on one study
+> **Evidence** · 90 claims (60 show a difference, 15 mixed, 15 no difference) · 61 studies (17 quant-synthesis, 17 associational, 15 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 23 of 61 report an effect size · 85 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -130,6 +130,7 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [In French first-graders, T1 decoding precursors directly predicted T2 reading comprehension above their contribution through decoding skills](../claims/decoding-precursors-direct-effect-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [Rhythm training for children with reading difficulties may improve novel-word reading but should be done separately from phonological awareness training](../claims/rhythm-training-separate-from-phonological-awareness.md) [~M] — instruction changes it
 - [Word reading improved in all three training groups among children without reading difficulties, with no group-by-time interaction](../claims/word-reading-improved-all-training-groups.md) [+M] — instruction changes it
+- [The multi-component intervention produced statistically significant advantages over business-as-usual on one decoding measure (ES = 0.58) and one fluency measure (ES = 0.46), but not on reading comprehension](../claims/intervention-gains-decoding-fluency-not-comprehension.md) [+M] — instruction changes it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

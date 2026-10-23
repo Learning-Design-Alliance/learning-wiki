@@ -50,3 +50,4 @@ Narrative review attribution in the individual-differences section. The article 
 - [Self-report factors correlate weakly with metacognitive behavior while within-factor subcomponent correlations are larger, per studies reviewed for the meta-analysis](self-report-factors-weakly-relate-to-behavior.md) — related
 - [MAKQ dimensions correlate moderately with each other, with strategy knowledge only weakly related to the self-perception scales](makq-intercorrelations-self-strategy.md) — related
 - [Metacognition and comprehension strategy use are weakly to moderately associated with intertextual integration among K-12 students](metacognition-strategy-use-correlates-intertextual-integration.md) — related
+- [Goddard's book argues that intelligence level is the determining factor in human efficiency, with other traits treated as subsidiary](goddard-intelligence-determining-factor-efficiency.md) — related

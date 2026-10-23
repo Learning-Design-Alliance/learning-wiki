@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (74 show a difference, 21 mixed, 12 no difference) · 82 studies (20 associational, 19 causal, 19 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 14 of 82 report an effect size · 102 claims rest on one study
+> **Evidence** · 109 claims (76 show a difference, 21 mixed, 12 no difference) · 84 studies (21 causal, 20 associational, 19 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 15 of 84 report an effect size · 104 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -145,6 +145,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Short walks and green playtime improve selective attention in children and adolescents relative to urban or indoor comparisons](../claims/nature-walk-improves-selective-attention.md) [+M] — instruction changes it
 - [Numerical difficulty and mathematical abilities also affect attention on situational text in the second phase (attention-crossover supporting integrated models)](../claims/attention-crossover-math-to-text-integrated-models.md) [+M] — instruction changes it
 - [Placing the question first reduces first-phase attention but increases second-phase attention (with mixed robustness)](../claims/question-position-phase-shift-effects.md) [~M] — instruction changes it
+- [Self-rated attentional control improves for relearning relative to restudying from the second session onward](../claims/relearning-attentional-control-gains.md) [+M] — instruction changes it
+- [Students with reading difficulties were more likely assigned to the Attention Control profile, while typically developing students were more likely assigned to the Decoding/Cognitive profile](../claims/rd-students-assigned-attention-profile.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

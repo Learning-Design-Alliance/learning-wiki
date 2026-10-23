@@ -41030,5 +41030,225 @@
  "test-format\ttwo to five true-false tests\ttwo to five essay examinations": {
   "label": "true-false tests vs essay examinations",
   "treatment_is_a": true
+ },
+ "autonomy-support\tchoice between self- and other-focused assignments\tfixed assignment type": {
+  "label": "choice vs fixed assignment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice between self-focused and other-focused UV assignments\tfour fixed-type UV conditions": {
+  "label": "choice vs fixed assignment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchoice between self-focused and other-focused utility-value assignments\tcomparison condition represented by the choice contrast": {
+  "label": "choice vs comparison condition",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\tnumbers increasing gradually from five to eight digits\tstarting with seven-place numbers before eight- or nine-place numbers": {
+  "label": "gradually increasing complexity vs initially high complexity",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tgood instruction about sex\tsilence about sex": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tgood, rational and moral instruction\tsilence or bad instruction": {
+  "label": "explicit instruction vs no or poor instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\treading intervention\tbusiness-as-usual": {
+  "label": "reading intervention vs business-as-usual",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tstandard tests used to diagnose individual pupil weaknesses\tnot stated": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tstandard tests used to test the efficiency of teaching methods\tnot stated": {
+  "label": "formative assessment vs no formative assessment",
+  "treatment_is_a": true
+ },
+ "learner-difference\t10th–12th grade students, aged 15–18\t6th–9th grade students, aged 12–14": {
+  "label": "older students vs younger students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2011 cohort with daily online testing\t2008 cohort with traditional instruction": {
+  "label": "online testing vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2011 online-testing cohort's major composition\t2008 traditional-instruction cohort's major composition": {
+  "label": "online-testing cohort composition vs traditional-instruction cohort composition",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2015 LSAY cohort\t2003 LSAY cohort": {
+  "label": "later cohort vs earlier cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2018 students under EO 1110 placement\t2017 students before EO 1110": {
+  "label": "post-policy placement vs pre-policy placement",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019 first-time CPS ninth-graders\t2007 cohort of first-time CPS ninth-graders": {
+  "label": "later cohort vs earlier cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019 first-time CPS ninth-graders\tIllinois ninth-graders": {
+  "label": "CPS students vs Illinois students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019 grade 4 mathematics assessment\t1990 grade 4 mathematics assessment": {
+  "label": "later assessment year vs earlier assessment year",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019 grade 4 mathematics assessment\t2017 grade 4 mathematics assessment": {
+  "label": "later assessment year vs earlier assessment year",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019 grade 4 reading assessment\t1992 grade 4 reading assessment": {
+  "label": "later assessment year vs earlier assessment year",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019 grade 4 reading assessment\t2017 grade 4 reading assessment": {
+  "label": "later assessment year vs earlier assessment year",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019 grade 4 reading assessment\tearlier grade 4 reading assessment": {
+  "label": "later assessment year vs earlier assessment year",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019 graduating class\t2020 graduating class": {
+  "label": "later graduating class vs earlier graduating class",
+  "treatment_is_a": false
+ },
+ "learner-difference\t2019 ninth-graders' aspiration for at least an associate degree or certificate\tPost-secondary Attainment Index for every race/ethnicity and gender group": {
+  "label": "postsecondary aspiration vs postsecondary attainment",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019 scores for Asian/Pacific Islander students\t2017 scores for Asian/Pacific Islander students": {
+  "label": "later assessment year vs earlier assessment year among Asian/Pacific Islander students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019 scores for racial/ethnic groups other than Asian/Pacific Islander\t2017 scores for the same groups": {
+  "label": "later assessment year vs earlier assessment year among other racial/ethnic groups",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019–2020 intervention-year EL cohort\t2018–2019 prior-year EL cohort": {
+  "label": "intervention-year EL cohort vs prior-year EL cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019–2020 intervention-year EL students\tprior-year EL students": {
+  "label": "intervention-year EL students vs prior-year EL students",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2019–2020 intervention-year Non-EL cohort\t2018–2019 prior-year Non-EL cohort": {
+  "label": "intervention-year Non-EL cohort vs prior-year Non-EL cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2020 Black young men\t2019 Black young men": {
+  "label": "later year vs earlier year among Black young men",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2020 Latina young women\t2019 Latina young women": {
+  "label": "later year vs earlier year among Latina young women",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2020 cohort\t2019 cohort": {
+  "label": "later cohort vs earlier cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2020 ninth-grade cohort\t2008 ninth-grade cohort": {
+  "label": "later cohort vs earlier cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021 graduation cohort\t2011 graduation cohort": {
+  "label": "later graduation cohort vs earlier graduation cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021 graduation cohort\t2020 graduation cohort": {
+  "label": "later graduation cohort vs earlier graduation cohort",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021-22 achievement gains\tpre-pandemic achievement-gain trends": {
+  "label": "post-pandemic achievement gains vs pre-pandemic achievement-gain trends",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021-22 math achievement\ttypical-year math achievement": {
+  "label": "post-pandemic math achievement vs typical-year math achievement",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021-22 reading achievement\ttypical-year reading achievement": {
+  "label": "post-pandemic reading achievement vs typical-year reading achievement",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021/22 school year\t2019/20 and 2020/21 school years": {
+  "label": "post-pandemic school year vs earlier school years",
+  "treatment_is_a": true
+ },
+ "learner-difference\t2021–22\t2018–19": {
+  "label": "later school year vs earlier school year",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tsuccessive relearning with mastery criterion\trestudying": {
+  "label": "successive relearning vs restudying",
+  "treatment_is_a": true
+ },
+ "practice-amount\t14 days of practice striking out e's and t's\tinitial letter-cancellation performance before practice": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfirst relearning session\tsecond relearning session": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": false
+ },
+ "practice-amount\tpractice in substituting digits for letters\tfirst record before practice": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tsecond weekly practice session\tfirst weekly practice session": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tlater digit tests after repeated testing\tinitial digit test": {
+  "label": "repeated testing vs initial testing",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tsuccessive relearning\trestudying": {
+  "label": "successive relearning vs restudying",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tsuccessive relearning with corrective feedback\trestudying the same material": {
+  "label": "successive relearning vs restudying",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tsuccessive relearning with retrieval practice\trestudying statements": {
+  "label": "retrieval practice vs restudying",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tsuccessive relearning with retrieval practice\trestudying the same statements": {
+  "label": "retrieval practice vs restudying",
+  "treatment_is_a": true
+ },
+ "spacing\tPractice distributed across more days\tPractice concentrated into fewer days": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tpractice distributed over 20 days\tpractice concentrated in 1 day": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tpractice distributed over 20 days\tpractice concentrated into 1 day": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tpractice distributed over more days\tpractice concentrated into fewer days": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tpractice distributed over more days, up to 20 days\tpractice concentrated into one day": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "test-format\tgroup intelligence tests\tindividual intelligence tests": {
+  "label": "group-administered vs individually administered",
+  "treatment_is_a": true
  }
 }

@@ -68,3 +68,4 @@ The same item analysis found all item means exceeded 3, with some above 4. The a
 - [Negative affective experience items were dropped due to floor effects and poor discrimination](negative-affect-items-floor-effect-removed.md) — related
 - [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
 - [Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination](llm-evaluator-leniency-ceiling-effects.md) — related
+- [Several of the group tests (Discriminating Colors, Mutilated Pictures, Tying Bowknot) showed little discriminative capacity as group tests and are slated for substitution](lowell-group-tests-low-discriminative-capacity.md) — related

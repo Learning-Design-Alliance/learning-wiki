@@ -13,7 +13,7 @@ generated:
 # Need for Cognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 6 claims (2 show a difference, 3 mixed, 1 no difference) · 5 studies (2 associational, 1 causal, 1 review, 1 theoretical), `q1`–`q3` · 2 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (3 show a difference, 3 mixed, 1 no difference) · 6 studies (3 associational, 1 causal, 1 review, 1 theoretical), `q1`–`q3` · 2 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 Need for cognition is a stable disposition to seek out and enjoy cognitively demanding activity, measured by self-report scales (Cacioppo & Petty). Learners high on it invest more effort in demanding material and tend to process information more deeply. It correlates with achievement, with [general cognitive ability](general-cognitive-ability.md), academic self-concept and intrinsic [motivation](motivation.md), and it can moderate how learners respond to tools that reduce effort, such as AI assistance.
@@ -41,6 +41,7 @@ Need for cognition is a stable disposition to seek out and enjoy cognitively dem
 - [Need for cognition negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as need for cognition increases](../claims/need-for-cognition-moderates-trust-reliance.md) [~M] — an instructional effect differs with it
 - [The effectiveness of reflective AI-engagement mechanisms varies across users, depending on Need for Cognition, expertise, domain familiarity, and task difficulty](../claims/reflective-support-effects-vary-by-user.md) [~W] — an instructional effect differs with it
 - [Background variables (need for cognition, test anxiety, mindset, puzzle experience) showed no consistent moderating patterns across the three experiments](../claims/background-moderators-no-consistent-patterns.md) [-W] — an instructional effect differs with it
+- [Intelligence and need for cognition are strong predictors of academic achievement in Flemish seventh graders](../claims/intelligence-need-for-cognition-strong-achievement-predictors.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -52,3 +52,4 @@ Review of findings reported initially by Skutnabb-Kangas & Toukomaa (1976) and r
 - [Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age](arrival-age-15-16-ge5-good-immigration-age.md) — a narrower finding that bears on this claim
 - [Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1](l1-transfer-efficient-until-outgrown.md) — related
 - [Youngest-arriving ESL learners risk acquiring neither L1 nor L2 at the level school demands](young-arrivals-risk-losing-both-l1-and-l2.md) — related
+- [Children aged two to three acquire language more rapidly without teaching than college students taught by methods derived from older psychology](child-language-acquisition-outpaces-taught-college-students.md) — related

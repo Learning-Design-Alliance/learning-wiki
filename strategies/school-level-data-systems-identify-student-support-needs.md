@@ -47,6 +47,7 @@ The chapter recommends that schools build systems for monitoring student data so
 - [Build early-warning indicators and leverage online-learning-system process data to support students before gaps widen in Grade 3](early-indicators-online-system-process-data.md)
 - [Use longitudinal student-level data systems to diagnose dropout scope and identify at-risk students before key transitions](dropout-data-systems-diagnosis-strategy.md)
 - [Attend to both SEL status and SEL growth when identifying students who may need supports to stay on track to graduate](use-both-sel-status-and-growth-for-early-warning.md)
+- [Use dropout among siblings and same-age intimates as risk markers to target prevention resources and monitoring](target-prevention-via-network-dropout-markers.md)
 
 ## Examples
 -

@@ -59,3 +59,4 @@ In its classroom practices section, the digest states that oral drills and memor
 - [In one practitioner's report on her own older-beginner Step One class, with no comparison group, students gained an average of 128 BEST Plus points over 6 months and two former absolute beginners passed the citizenship test](older-beginner-esl-outcome-gains.md) — related
 - [A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language](no-evidence-older-adults-cannot-learn-language.md) — related
 - [Best and poorest drill pupils both gained more than their non-drill counterparts, narrowing the within-class gap](drill-narrows-best-poorest-gap.md) — related
+- [Learning is a process of development in which the beginner's mode of working constantly changes and cannot use expert methods](learning-is-developmental-beginner-methods-differ-from-experts.md) — related

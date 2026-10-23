@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 267 claims (182 show a difference, 57 mixed, 28 no difference) · 202 studies (71 associational, 51 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 53 of 202 report an effect size · 255 claims rest on one study
+> **Evidence** · 268 claims (183 show a difference, 57 mixed, 28 no difference) · 203 studies (72 associational, 51 causal, 34 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 53 of 203 report an effect size · 256 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -317,6 +317,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [When delivered by master's students, the intervention additionally improved growth mindsets and standardized math achievement](../claims/moma-masters-student-mindset-achievement-effects.md) [+M] — instruction changes it
 - [A growth theory of interest intervention increases interest in math and science coursework among liberal arts undergraduates](../claims/growth-theory-interest-intervention-increases-math-science-interest.md) [+M] — instruction changes it
 - [Sex instruction should work by countering motives with motives, using fear, disgust, self-respect and desire for the regard of others against sexual carelessness](../claims/counter-motives-with-motives-sex-instruction.md) [+W] — instruction changes it
+- [Academic self-concept relates most strongly to achievement, with achievement goals, achievement motivation, autonomous motivation, and effort beliefs each adding unique variance](../claims/academic-self-concept-strongest-motivational-predictor.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

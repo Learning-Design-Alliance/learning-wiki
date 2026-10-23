@@ -69,3 +69,4 @@ Comparing the nine regression equations in the same survey, "the amount of varia
 - [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](self-efficacy-and-test-anxiety-predict-performance.md) — related
 - [Task value was higher for mathematics than for English and social studies for both genders, with gender differences only in the English–social studies comparison](task-value-higher-mathematics-both-genders.md) — related
 - [Achievement scores correlate very strongly across the three domains while enjoyment correlations are small to medium](achievement-domain-correlations-very-large-enjoyment-small.md) — related
+- [Motivational constructs explain more variance in school grades than in standardized test scores](motivation-more-variance-grades-than-standardized-tests.md) — related

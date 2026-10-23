@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 112 claims (57 for, 54 mixed, 1 against) · 70 studies (25 causal, 23 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 15 of 70 report an effect size · 109 claims rest on one study
+> **Evidence** · 113 claims (57 for, 55 mixed, 1 against) · 71 studies (26 causal, 23 associational, 13 review, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 15 of 71 report an effect size · 110 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -175,6 +175,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Reordering the groups of facts in a lesson did not change which groups boys answered best: recall followed subject matter, not position](../claims/lesson-fact-order-negligible-recall-effect.md) [~W] — attached 2026-10-23 from Dell (1911), which proposed "Rational learning builds associations by similarity with prior knowledge rather than by contiguity, explaining the absence of serial-position effects for sensible material".
 - [After successful re-categorization, learners' feature ratings show the prior conception is retained in memory alongside the newly learned conception.](../claims/prior-conception-retained-after-learning.md) [+W]
 - [Lengthening the interval between dictated digits markedly lowered children's memory span scores on one testing day](../claims/digit-pacing-change-lowered-span-scores.md) [~W]
+- [The digit memory-span increases with age rather than with grade-promotion measures of intelligence, reaching a limit of six digits for most grammar and high school pupils](../claims/memory-span-increases-with-age-not-intelligence.md) [~W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

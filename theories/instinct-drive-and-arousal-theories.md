@@ -60,6 +60,8 @@ These three theories represent an early, largely biological line of thinking abo
 
 ## Examples
 
+- [Use indirect means—athletics, social affairs, literature, religion, and a lifework—to redirect the youth's instinctive energies alongside direct sex instruction.](../strategies/indirect-means-sublimation-activities.md)
+
 ## Key Sources
 - Faris, E. (1921). Are instincts data or a theory? *American Journal of Sociology, 27*(2), 184-196.
 - Graham, S., & Weiner, B. (1996). Theories and principles of motivation. In D. C. Berliner & R. C. Calfee (Eds.), *Handbook of educational psychology* (pp. 63-84). Macmillan.

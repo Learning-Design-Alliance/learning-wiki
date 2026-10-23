@@ -73,3 +73,4 @@ Meta-analytic lag analyses binning accuracy differences and absolute accuracy by
 - [Proportional measurement of relearning intervals poses a scaling problem for mapping optimal relearning schedules](relearning-interval-scaling-measurement-problem.md) — related
 - [Longer retention intervals between pre- and post-test weaken the effect of mental simulation](ms-retention-interval-negative.md) — related
 - [Earlier studies reported that quicker recall accompanied better memory results, but with little supporting evidence](earlier-studies-quicker-recall-better-results.md) — related
+- [The more the substitution practice was distributed over days, the larger the practice gains and the more pronounced the negative transfer effects](kline-distributed-practice-amplifies-transfer-effects.md) — related

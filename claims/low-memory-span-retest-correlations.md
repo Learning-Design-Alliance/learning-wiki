@@ -48,3 +48,5 @@ Correlational analysis of the ten-day study: 45 coefficients computed among tria
 - [Group average memory span scores remain nearly identical across days while individual scores vary considerably](group-averages-stable-individuals-vary.md) — related
 - [The digit series used was too short, with 73 of 970 trials reaching the maximum score of ten](memory-span-ceiling-ten-digits.md) — related
 - [Continuing memory practice until performance is 'steady' (high inter-test correlations) precedes valid fatigue testing in school children](steady-practice-before-fatigue-tests.md) — related
+- [Across repeated digit tests pupils improved with practice, with large uniform increases attributed to unconscious memory of the previous day's digits, and no fatigue effect on recall was found](pupils-improve-with-practice-no-fatigue-effect.md) — related
+- [The digit memory-span increases with age rather than with grade-promotion measures of intelligence, reaching a limit of six digits for most grammar and high school pupils](memory-span-increases-with-age-not-intelligence.md) — related

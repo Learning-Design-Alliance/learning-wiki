@@ -107,3 +107,4 @@ In the same Karpicke and Bauernschmidt (2011) experiment, as the chapter reports
 - [Spaced practice produces a robust small-to-medium retention advantage over massed practice for mathematics learning overall (g = 0.26).](spacing-effect-mathematics-overall-meta-analysis.md) — related
 - [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — a broader claim this one bears on
 - [Spaced quizzing increases end-of-semester retention of calculus learning objectives relative to massed quizzing](spacing-increases-calculus-retention.md) — a narrower finding that bears on this claim
+- [End-of-semester recall of course material was better for relearning than for restudying](successive-relearning-better-semester-end-recall.md) — related

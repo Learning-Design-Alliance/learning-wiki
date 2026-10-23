@@ -12,7 +12,7 @@ generated:
 # Multiple Intelligences Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (2 review), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Howard Gardner (1983) proposed that intelligence is not the single general factor ("g") that Charles Spearman and earlier theorists described, but a set of at least eight relatively independent intelligences — commonly listed as linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalistic. Gardner (1999) later proposed a ninth, **existential** intelligence, which he himself notes "has yet to experience full acceptance by educators in the classroom." A person typically excels in some of these and not others, which is a direct challenge to instructional designs that treat "ability" as a single scale a learner sits somewhere on.
@@ -46,6 +46,7 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 ## Claims
 
 - [Gardner holds intelligences are not interchangeable, so one intelligence cannot substitute for another in learning a domain](../claims/intelligences-not-interchangeable.md) [+W]
+- [Goddard's book argues that intelligence level is the determining factor in human efficiency, with other traits treated as subsidiary](../claims/goddard-intelligence-determining-factor-efficiency.md) [-W]
 
 ## Related Theories
 

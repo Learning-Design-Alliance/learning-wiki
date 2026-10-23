@@ -41,6 +41,7 @@ This strategy has researchers invest in relationships before data collection: pr
 - [During a study, researchers should visit regularly, give back to the school community, minimize classroom disruption, and share initial data for feedback](during-study-regular-visits-giving-back.md)
 - [After a study, present final data in school-useful forms, remain available for ongoing conversations, and plan carefully to avoid data overload](post-study-data-sharing-and-ongoing-partnership.md)
 - [District lessons for launching teacher-of-color support initiatives: safe space, clear goals, buy-in, and relationship time](district-lessons-teacher-of-color-initiatives.md)
+- [Hold parents' meetings at which a principal, doctor, or minister persuades parents to give sex instruction at home and to permit class and lecture instruction at school.](parents-meetings-for-sex-instruction.md)
 
 ## Examples
 -

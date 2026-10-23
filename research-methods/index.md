@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**629 entries** · 0 stable · 629 in review · 0 drafts
+**630 entries** · 0 stable · 630 in review · 0 drafts
 
 ---
 
@@ -249,6 +249,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Four-characteristic model of national historical master narratives](four-characteristic-model-of-national-historical-master-narratives.md) - The article presents a model distinguishing four characteristics of national historical master narratives: the historical subject established by inclusion and exclusion, identification processes attaching affect and value judgments, historical events simplified around one common narrative theme, and
 * [Four-component validity scoring scheme for eye-tracking measures](four-component-validity-scoring-scheme-for-eye-tracking-measures.md) - A structured scoring system adapted from Cook et al.
 * [Four-condition dichotic listening paradigm with mTRF speech-envelope reconstruction](four-condition-dichotic-listening-paradigm-with-mtrf-speech-envelope-reconstruction.md) - A child-appropriate EEG paradigm in which participants attend to an English narrative in one ear while ignoring interference in the other across four conditions: Single talker (no interference), English–English, English–Latin, and English–Musical Rain.
+* [Four-criterion selection of neuropsychological measures for portable classroom EEG](four-criterion-selection-of-neuropsychological-measures-for-portable-classroom-eeg.md) - The article proposes screening candidate neuro-psychological measures against four criteria: potential to add unique information about challenge and threat states, compatibility with portable EEG devices, a strong empirical and theoretical basis for inference from EEG data, and the ability to remain
 * [Four-dimension learning analytics reference model (what, how, why, who)](four-dimension-learning-analytics-reference-model-what-how-why-who.md) - The review adopts Chatti et al.'s (2012) reference model in which \"LA consists of four dimensions including (1) what (what types of data does the system capture and analyze), (2) how (how does the system perform analytics), (3) why (for what reasons does the system gather and analyze data), and (4) 
 * [Four-dimension team creative performance framework for DST evaluation](four-dimension-team-creative-performance-framework-for-dst-evaluation.md) - The study adopted Liu et al.'s (2023) TCP assessment framework comprising four dimensions: \"novelty, relevance, user experience, and sustainability.\" Novelty assesses originality and innovation; relevance focuses on practical applicability; user experience evaluates engagement through authenticity, 
 * [Four-function taxonomy of pictures in multimedia testing (decorative, representational, organizational, informational)](four-function-taxonomy-of-pictures-in-multimedia-testing-decorative-representational-organ.md) - The review organizes pictures in test items by their functional relationship to the accompanying text, adapting Levin's MML classification.

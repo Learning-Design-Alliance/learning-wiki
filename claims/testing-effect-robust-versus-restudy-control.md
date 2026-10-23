@@ -50,3 +50,5 @@ Meta-analysis of testing versus equal-duration restudy comparisons; the author s
 - [The testing effect for mathematics learning (testing versus restudy, g = 0.22) is not robust, as its 95% confidence interval crosses zero.](testing-effect-mathematics-not-robust.md) — a narrower finding that bears on this claim
 - [Testing effect disappears for a coherent complex text but reappears, as reduced forgetting, when the same sentences are scrambled](testing-effect-disappears-coherent-text-reappears-scrambled.md) — reports the opposite
 - [Across eight delayed-test comparisons, testing showed a small numerical advantage over restudy, but confidence intervals were wide and the combined effect imprecise](small-scale-meta-analysis-testing-restudy-imprecise.md) — a narrower finding that bears on this claim
+- [Individual differences were not associated with the retention benefit of relearning over restudying](individual-differences-null-relearning-retention-benefit.md) — related
+- [End-of-semester recall of course material was better for relearning than for restudying](successive-relearning-better-semester-end-recall.md) — a narrower finding that bears on this claim

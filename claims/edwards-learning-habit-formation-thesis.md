@@ -1,0 +1,47 @@
+---
+type: claim
+title: "Edwards' textbook's thesis is that all learning is habit formation, and that learning should be of permanent value with generalized as well as specific improvement sought"
+description: "Edwards' textbook's thesis is that all learning is habit formation, and that learning should be of permanent value with generalized as well as specific improvement sought"
+id: edwards-learning-habit-formation-thesis
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-23
+evidence_strength: weak
+sources:
+  - id: a-i-g-1920
+    resource: "https://eric.ed.gov/?id=none-in-text"
+    title: "A. I. G. (1920). New Publications. The Journal of Educational Psychology. https://eric.ed.gov/?id=none-in-text"
+    author: A. I. G.
+    q: 1
+    i: "?"
+    kind: theoretical
+    rigour: "?"
+---
+
+# Edwards' textbook's thesis is that all learning is habit formation, and that learning should be of permanent value with generalized as well as specific improvement sought
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · theoretical `r?` · `q1`
+
+## Subclaims
+`q1 i?` The reviewed textbook, directed primarily to college students of education, adopts habit as its organizing concept for learning and argues that learning should have permanent value and produce generalized as well as specific improvement. [→ A. I. G 1920](#a-i-g-1920)
+
+## Evidence
+
+### A. I. G 1920
+
+A. I. G. (1920). New Publications. The Journal of Educational Psychology. https://eric.ed.gov/?id=none-in-text
+
+`q1 · i?` · `theoretical · r?`
+
+The reviewer states the central thesis of Edwards' The Fundamental Principles of Learning and Study, a book for college students of education, principals and supervisors: "all learning is habit formation" with permanent value and generalized improvement sought. The book covers acquisition of ideals, efficient thinking, memorizing, studying and emotional control.
+
+> "In general, the thesis is, that while all learning is habit formation, it should be of permanent value, and generalized improvement, as well as specific improvement, should be sought"
+
+## Discussion
+
+
+## Related Claims
+- [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — related
+- [The Artifact captures learning experiences within and beyond the classroom, revealing learning habits and mindsets relevant to action-based pedagogy](artifact-captures-learning-in-action.md) — related

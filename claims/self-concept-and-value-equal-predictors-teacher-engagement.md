@@ -52,3 +52,4 @@ SEM models predicting the two-item teacher-rated engagement scale in 1,868 ninth
 - [Math self-concept is more highly correlated with intrinsic value and low cost than with attainment and utility value](self-concept-value-component-correlations.md) — related
 - [Self-concept and global value interact synergistically and positively in predicting achievement, effort, and teacher-rated engagement](synergistic-self-concept-global-value-interaction.md) — related
 - [Different value components differentially predict outcomes: low cost for achievement, attainment value for effort, and utility value uniquely predicting none](value-components-differential-prediction-outcomes.md) — related
+- [Academic self-concept relates most strongly to achievement, with achievement goals, achievement motivation, autonomous motivation, and effort beliefs each adding unique variance](academic-self-concept-strongest-motivational-predictor.md) — related

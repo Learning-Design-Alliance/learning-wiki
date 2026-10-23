@@ -62,3 +62,5 @@ GEE model predicting negative valence monitoring duration from physiological mea
 - [Electrodermal activity during learning events shows no robust association with post-event emotional valence](eda-not-robustly-associated-with-post-event-valence.md) — related
 - [During-simulation physiological synchrony is positively correlated with team leaders' CRM performance scores (preliminary, 9 teams)](ps-correlates-leader-crm-performance.md) — related
 - [Physiological synchrony is detectable among medical resident teams both before and during CRM simulation training, exceeding surrogate-data chance levels](ps-detected-pre-and-during-crm-simulation.md) — related
+- [Phasic EDA correlated with achievement (r = .66) in a small classroom physics study](phasic-eda-achievement-correlation.md) — related
+- [Phasic, not tonic, EDA correlates with cognitive stress in a reported diver study](phasic-eda-correlates-cognitive-stress.md) — related

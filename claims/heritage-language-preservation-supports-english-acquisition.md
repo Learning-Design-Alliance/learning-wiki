@@ -122,3 +122,4 @@ The underlying mechanism these three findings share is that a heritage language,
 - [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — related
 - [Spanish use at home does not limit English learning: young Spanish–English bilinguals with more Spanish at school entry show higher English skills by year's end](spanish-home-use-does-not-limit-english-learning.md) — a narrower finding that bears on this claim
 - [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](mead-mother-tongue-status-affects-bilingual-learning.md) — related
+- [Children aged two to three acquire language more rapidly without teaching than college students taught by methods derived from older psychology](child-language-acquisition-outpaces-taught-college-students.md) — related

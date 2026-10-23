@@ -52,3 +52,5 @@ Methodological argument, not a tested result: the authors identify criterion-tra
 - [Proportional measurement of relearning intervals poses a scaling problem for mapping optimal relearning schedules](relearning-interval-scaling-measurement-problem.md) — related
 - [Retrieval practice research extends to determining the optimal amount of practice testing for individual students](optimal-amount-of-practice-testing-individual-students.md) — related
 - [For short maze problems, massed learning effort is more economical than distributed effort in trials, time and errors, for both rats and human adults](short-problems-massed-effort-more-economical.md) — related
+- [First-pass recall accuracy rises while trials-to-criterion and exposure duration fall across the three weekly relearning sessions](relearning-session-gains-recall-trials-exposure.md) — related
+- [Total exposure time per session was significantly lower in the relearn condition than in the restudy condition, ruling out an exposure confound](relearning-exposure-time-controlled.md) — related

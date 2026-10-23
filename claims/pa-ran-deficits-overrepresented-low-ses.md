@@ -51,3 +51,4 @@ Chi-square test of profile distribution across high, middle, and low SES school 
 - [The RAN risk group showed intact phonological awareness and all members were readers, supporting the independence of RAN from PA](ran-deficit-independent-construct.md) — related
 - [Results provide no support for the IQ-achievement discrepancy model of dyslexia; non-verbal IQ correlated with all Year-1 language measures](no-support-iq-discrepancy-model.md) — related
 - [Students with SEN are more likely to belong to motivational profiles with maladaptive patterns](sen-students-more-likely-maladaptive-motivational-profiles.md) — related
+- [Kindergarten SEB profile membership is differentially associated with gender, age, language background, SES, and learning disability status](seb-profile-socioeducational-associations.md) — related

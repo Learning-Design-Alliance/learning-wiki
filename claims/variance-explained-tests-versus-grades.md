@@ -44,3 +44,4 @@ Multivariate regression on N = 3,146 trainees; the printed R² values were 0.29 
 - [Fluid reasoning, not trait self-control, predicts low-stakes standardized mathematics and physics test scores](fluid-reasoning-predicts-low-stakes-standardized-tests.md) — related
 - [Trait self-control is significantly associated with major GPA beyond fluid reasoning and conscientiousness in vocational trainees](trait-self-control-incremental-mgpa-vocational-trainees.md) — related
 - [Trait self-control correlates with grades but not with standardized test scores at the bivariate level](tsc-correlates-grades-not-standardized-tests.md) — related
+- [Motivational constructs explain more variance in school grades than in standardized test scores](motivation-more-variance-grades-than-standardized-tests.md) — reports the opposite

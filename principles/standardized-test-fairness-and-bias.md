@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (6 for, 38 mixed, 2 against) · 29 studies (10 associational, 7 causal, 7 review, 2 design, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q3` · 3 of 29 report an effect size · 45 claims rest on one study
+> **Evidence** · 47 claims (7 for, 38 mixed, 2 against) · 30 studies (10 associational, 7 causal, 7 review, 2 design, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 3 of 30 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -175,6 +175,7 @@ Item bias, differential prediction and the effect of testing conditions are sepa
 - [Across everyday-mathematics studies, individuals tended to score higher on tasks linked to their everyday practices than on school-format versions of the same questions](../claims/everyday-practice-tasks-scored-higher-than-school-format.md) [~W]
 - [The authors interpret stereotype threat as a partial explanation for the standardized-test achievement gap between low- and high-SES students](../claims/stereotype-threat-partly-explains-ses-achievement-gap.md) [~W]
 - [The 'heart and soul' effort item is suitable for learning contexts in Mandarin Chinese and Spanish but not in the other interviewed cultures](../claims/lifeblood-item-culture-limited.md) [~W]
+- [Experimental and statistical norms are practically useful only when determined for a group of the same general type with equal opportunity to acquire the measured characteristics](../claims/norms-valid-only-for-comparable-groups.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — the norm-referenced tests (SAT, ACT) most directly implicated in the differential-prediction findings here

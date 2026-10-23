@@ -50,3 +50,4 @@ Authors' conclusion from the timeline analysis of the two NLCs, in which activit
 - Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time — related
 - [Both teachers remained peripherally active and concentrated their contributions on tutoring, with the experienced teacher also acting as a learner on an equal basis](peripheral-teacher-tutoring-contributions.md) — a narrower finding that bears on this claim
 - [Think-aloud protocols reveal that self-regulated reading is dynamic across time, responsive to context, and varies by reading purpose](think-aloud-reveals-dynamic-self-regulated-reading.md) — related
+- [Learning is a process of development in which the beginner's mode of working constantly changes and cannot use expert methods](learning-is-developmental-beginner-methods-differ-from-experts.md) — a narrower finding that bears on this claim

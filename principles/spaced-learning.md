@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 67 claims (37 for, 28 mixed, 2 against) · 45 studies (24 causal, 10 review, 9 quant-synthesis, 2 theoretical), `q1`–`q4` · 14 of 45 report an effect size · 60 claims rest on one study
+> **Evidence** · 68 claims (37 for, 29 mixed, 2 against) · 46 studies (25 causal, 10 review, 9 quant-synthesis, 2 theoretical), `q1`–`q4` · 14 of 46 report an effect size · 61 claims rest on one study
 
 ## Description
 
@@ -468,6 +468,7 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - [The spacing-induced practice decrement is confined to the first two quiz questions, with no significant difference on the third](../claims/spacing-decrement-limited-to-first-two-questions.md) [~W]
 - [Spaced practice research addresses the potential for optimal gaps or delays between presentations of the same concept](../claims/spaced-practice-optimal-gaps-between-presentations.md) [+W]
 - [Evidence for lasting learning is mixed at 8-week delays: only interleaving, not spacing or retrieval practice in drawing contexts, was supported](../claims/eight-week-delay-evidence-mixed.md) [-W]
+- [The more the substitution practice was distributed over days, the larger the practice gains and the more pronounced the negative transfer effects](../claims/kline-distributed-practice-amplifies-transfer-effects.md) [~W]
 
 ## Key Sources
 

@@ -49,3 +49,5 @@ GEE models predicting quiz scores (mean 4.23, Std 1.26) from perceptions and aro
 - [Higher task difficulty ratings before and after collaborative tasks predict higher physiological arousal, while task understanding does not](task-difficulty-predicts-physiological-arousal.md)
 - [Students' monitoring frequency during the collaborative exam was significantly and positively correlated with their number of EDA peaks.](monitoring-frequency-correlates-eda-peaks.md) — related
 - [Higher equality of participation in monitoring interactions and more monitoring with positive valence predict better collaborative task performance](equality-and-positive-valence-monitoring-predict-collaborative-performance.md) — related
+- [Phasic EDA correlated with achievement (r = .66) in a small classroom physics study](phasic-eda-achievement-correlation.md) — related
+- [Phasic, not tonic, EDA correlates with cognitive stress in a reported diver study](phasic-eda-correlates-cognitive-stress.md) — related

@@ -47,7 +47,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 97 claims (58 for, 38 mixed, 1 against) · 93 studies (28 review, 21 causal, 11 associational, 11 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 12 of 93 report an effect size · 83 claims rest on one study
+> **Evidence** · 100 claims (61 for, 38 mixed, 1 against) · 94 studies (28 review, 22 causal, 11 associational, 11 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 12 of 94 report an effect size · 86 claims rest on one study
 
 ## Conditional relationship
 
@@ -206,6 +206,7 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [CORI students outperformed SI and TI comparison students on standardized reading tests and were rated higher in reading motivation, in quasi-experimental studies with large effect sizes](../claims/cori-outperformed-comparisons-reading.md) [+W] — attached 2026-10-22 from Linnenbrink-Garcia et al. (2026), which proposed "Design motivation interventions that are multifaceted, theoretically integrated, and embedded in classrooms, creating sustained supports — a "fertile soil" for motivation"; tests this page's relationship.
 - [In the prior researcher-delivered efficacy trial, the quotations condition produced stronger utility-value effects than the text condition](../claims/moma-efficacy-quotations-beat-text-condition.md) [+W] — attached 2026-10-23 from Gaspard et al. (2021), which proposed "Combine direct communication of utility value with relevance-inducing reflection tasks and an expectancy component to reach more students".
 - [A classroom-delivered relevance intervention raised ninth-graders' utility value at 3-month follow-up in both delivery conditions, despite an average decline in self-reported utility value](../claims/moma-utility-value-effectiveness-scale.md) [+M] — attached 2026-10-23 from Gaspard et al. (2021), which proposed "Combine direct communication of utility value with relevance-inducing reflection tasks and an expectancy component to reach more students".
+- [In a college biology course, students assigned a variety of self- and other-focused utility-value assignments earned higher course grades than students who wrote the same assignment type three times](../claims/uv-variety-structure-higher-grades.md) [+W] — attached 2026-10-23 from Priniski et al. (2019), which proposed "Combine self-focused and other-focused utility-value assignments through variety or choice rather than repeating one assignment type".
 
 ## Objective and learner-valued goal
 
@@ -232,6 +233,8 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Feedback targeting reading self-efficacy had a positive effect on motivation, while error-focused feedback and rewards had mixed effects on long-term interest and engagement](../claims/feedback-motivation-self-efficacy-positive-rewards-mixed.md) [+W]
 - [Higher adherence and lower discipline problems during delivery were associated with more positive changes in utility value](../claims/adherence-discipline-utility-value-changes.md) [~W]
 - [Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)](../claims/low-autonomy-climate-harmful-low-expectation-students.md) [~W]
+- [UV writing assignments showed more personal focus, more social and cognitive process content, and higher articulated utility value than control summary assignments](../claims/uv-writing-style-content-versus-control.md) [+W]
+- [Students in the self-first variety condition articulated higher utility value than students in the other-first variety condition, indicating quality of utility connections depends on assignment sequence rather than type](../claims/uv-self-first-higher-articulated-utility.md) [+W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

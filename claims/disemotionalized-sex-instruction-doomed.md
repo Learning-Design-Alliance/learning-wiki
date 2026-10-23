@@ -44,3 +44,5 @@ Theoretical argument in the 'The Scientific Attitude Toward Sex' section. The au
 
 ## Related Claims
 - [Imparting simple facts of sex is insufficient; instruction must be given in a vital, dynamic way by teachers who understand childhood and youth](facts-insufficient-vital-dynamic-sex-instruction.md) — possibly the same claim (merge candidate)
+- [The instructor's personality and attitudes influence outcomes of sex instruction as much as the facts taught, so personal appeal should carry greater stress than information alone.](instructor-personality-as-important-as-facts.md) — a narrower finding that bears on this claim
+- [Biology courses alone are judged inadequate for sex instruction and should be supplemented by more personal and direct means such as special lectures.](biology-courses-inadequate-alone.md) — related

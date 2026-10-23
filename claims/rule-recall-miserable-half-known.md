@@ -52,3 +52,4 @@ Summary of rule recall across both samples; the author reports students' own tes
 - [Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached](explicit-rules-automatizable-through-practice.md) — related
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](grammar-as-skill-is-a-conflation.md) — related
 - [College students who recalled any spelling rule averaged 85 per cent on the whole test versus 81 per cent for those who recalled none](rule-recall-small-accuracy-advantage-college.md) — related
+- [Grapho-motor memory is stronger than visual-motor memory: 85.3 per cent of high school subjects showed greater grapho-motor recall, replicating Meyerhardt's college and university findings](grapho-motor-memory-stronger-than-visual-motor.md) — related

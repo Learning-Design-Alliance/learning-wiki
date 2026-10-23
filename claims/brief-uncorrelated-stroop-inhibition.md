@@ -47,3 +47,4 @@ Correlational analysis in 86 third graders; the BRIEF inhibition subscale (10 it
 - [Inhibition's role in arithmetic fact retrieval may be limited to atypically developing children](inhibition-fact-retrieval-scope-atypical-children.md) — related
 - [Baseline intercorrelations among the six tests were small, suggesting the battery covered relatively independent cognitive processes](baseline-intercorrelations-independent-processes.md) — related
 - [Task-based and questionnaire-based EF measures show consistently low correlations and may assess partially distinct phenomena](ef-task-questionnaire-low-correlations.md) — a broader claim this one bears on
+- [Phasic, not tonic, EDA correlates with cognitive stress in a reported diver study](phasic-eda-correlates-cognitive-stress.md) — related

@@ -46,3 +46,5 @@ Correlational analysis contrasted individual EDA peak counts (detected at minimu
 - [Improved post-task understanding, higher task difficulty ratings and higher physiological arousal predict better learning outcomes](arousal-and-task-perceptions-predict-learning-outcomes.md) — related
 - [Students' reactivity to monitoring events showed no significant correlation with EDA peaks.](no-correlation-eda-peaks-reactivity.md) — related
 - [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
+- [Phasic EDA correlated with achievement (r = .66) in a small classroom physics study](phasic-eda-achievement-correlation.md) — related
+- [Phasic, not tonic, EDA correlates with cognitive stress in a reported diver study](phasic-eda-correlates-cognitive-stress.md) — related
