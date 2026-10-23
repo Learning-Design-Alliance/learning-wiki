@@ -13,7 +13,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 27 claims (18 show a difference, 8 mixed, 1 no difference) · 16 studies (7 associational, 3 causal, 2 design, 1 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 4 of 16 report an effect size · 27 claims rest on one study
+> **Evidence** · 32 claims (21 show a difference, 10 mixed, 1 no difference) · 17 studies (7 associational, 4 causal, 2 design, 1 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 5 of 17 report an effect size · 32 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -63,6 +63,11 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [Fraction magnitude comparison correlated with general math achievement only in the U.S. samples, indicating number line estimation and magnitude comparison tap partly different aspects of fraction magnitude understanding](../claims/magnitude-comparison-task-validity-fractions.md) [~M] — learners who differ on it differ in outcomes
 - [Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic skill in 5 of 6 Belgian, Chinese and U.S. grade samples, though not among Chinese 8th graders](../claims/fraction-magnitude-predicts-achievement-three-continents.md) [+M] — learners who differ on it differ in outcomes
 - [The relation between fraction magnitude understanding and mathematics achievement is a general cognitive characteristic, not attributable to specifics of the U.S. educational system, though instruction quality may strengthen or weaken it](../claims/magnitude-achievement-relation-general-cognitive.md) [+M] — learners who differ on it differ in outcomes
+- [Reasoning moderates the word-problem intervention's advantage, and the intervention did not compensate for low reasoning](../claims/reasoning-moderator-word-problem-intervention.md) [~M] — an instructional effect differs with it
+- [Schema-based word-problem intervention improves multiplicative fraction word-problem solving, with no advantage of the explaining component on that outcome](../claims/word-problem-intervention-improves-fraction-word-problems.md) [~M] — instruction changes it
+- [Supported self-explaining improves accuracy of fraction magnitude comparisons more than a word-problem intervention component in at-risk fourth graders](../claims/supported-self-explaining-improves-magnitude-comparison-accuracy.md) [+W] — instruction changes it
+- [Supported self-explaining produces higher-quality explanations of fraction magnitude differences than a word-problem component](../claims/supported-self-explaining-improves-explanation-quality.md) [+M] — instruction changes it
+- [The multi-component measurement-focused fraction intervention outperforms part-whole-focused control on NAEP items, number line estimation, and calculations](../claims/measurement-fraction-intervention-beats-control-generalized-knowledge.md) [+M] — instruction changes it
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

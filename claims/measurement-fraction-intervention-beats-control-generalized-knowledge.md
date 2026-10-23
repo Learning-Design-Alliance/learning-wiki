@@ -1,0 +1,55 @@
+---
+type: claim
+title: The multi-component measurement-focused fraction intervention outperforms part-whole-focused control on NAEP items, number line estimation, and calculations
+description: The multi-component measurement-focused fraction intervention outperforms part-whole-focused control on NAEP items, number line estimation, and calculations
+id: measurement-fraction-intervention-beats-control-generalized-knowledge
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-23
+evidence_strength: moderate
+sources:
+  - id: fuchs-2016
+    resource: "https://doi.org/10.1037/edu0000073"
+    title: "Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R. S., Gersten, R., & Changas, P. (2016). Supported Self-Explaining during Fraction Intervention. Journal of Educational Psychology. https://doi.org/10.1037/edu0000073"
+    author: "Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R. S., Gersten, R., & Changas, P."
+    q: 3
+    i: 3
+    kind: causal
+    rigour: 2
+---
+
+# The multi-component measurement-focused fraction intervention outperforms part-whole-focused control on NAEP items, number line estimation, and calculations
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+
+## Subclaims
+`q3 i3` Each intervention condition outperformed CON on NAEP fraction knowledge, number line, and calculations (ESs 0.57–1.98 for EXP; 0.70–2.08 for WP). [→ Fuchs 2016](#fuchs-2016)
+
+## Evidence
+
+### Fuchs 2016
+
+Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R. S., Gersten, R., & Changas, P. (2016). Supported Self-Explaining during Fraction Intervention. Journal of Educational Psychology. https://doi.org/10.1037/edu0000073
+
+`q3 · i3` · `causal · r2`
+
+1-way ANCOVAs on NAEP, Fraction Number Line, and calculation posttests controlling pretest, replicating the multi-component intervention's efficacy. The article reports effect sizes: "ESs favoring EXP over CON ranged from 0.57 to 1.98" and "ESs favoring WP over CON ranged from 0.70 to 2.08" (ES = 0.57 to ES = 2.08).
+
+> "NAEP, number line, and calculations performance was stronger for each intervention condition compared to CON. ESs favoring EXP over CON ranged from 0.57 to 1.98; ESs favoring WP over CON ranged from 0.70 to 2.08."
+
+## Discussion
+
+
+## Learner Variables
+- [Number Sense](../learner-variables/number-sense.md) — outcome: instruction changes it
+- [Proportional Reasoning](../learner-variables/proportional-reasoning.md) — outcome: instruction changes it
+
+## Related Claims
+- [Fraction Face-Off! shows potentially positive effects on general mathematics achievement, with a WWC-calculated effect size of 0.64 and improvement index of +24 on NAEP selected items](fraction-face-off-potentially-positive-general-math-achievement.md) — related
+- [Fraction Face-Off! shows potentially positive effects on number and operations outcomes, with a WWC-calculated average effect size of 0.89 and improvement index of +31](fraction-face-off-potentially-positive-number-operations.md) — related
+- [Supported self-explaining improves accuracy of fraction magnitude comparisons more than a word-problem intervention component in at-risk fourth graders](supported-self-explaining-improves-magnitude-comparison-accuracy.md) — related
+- [Scaffolds yielded minimal effects for advanced-placement school students](minimal-scaffold-effects-aps-students.md) — related
+- [Fraction Face-Off! shows potentially positive effects on fourth-grade students' geometry and measurement outcomes, with a WWC-calculated average effect size of 0.96 and improvement index of +33](fraction-face-off-potentially-positive-geometry-measurement.md) — related
+- [Schema-based word-problem intervention improves multiplicative fraction word-problem solving, with no advantage of the explaining component on that outcome](word-problem-intervention-improves-fraction-word-problems.md) — related

@@ -47,3 +47,4 @@ Correlational analysis of the ten-day study: 45 coefficients computed among tria
 - [Individual children's memory span scores vary considerably between two testings five weeks apart](memory-span-individual-scores-vary-five-weeks.md) — related
 - [Group average memory span scores remain nearly identical across days while individual scores vary considerably](group-averages-stable-individuals-vary.md) — related
 - [The digit series used was too short, with 73 of 970 trials reaching the maximum score of ten](memory-span-ceiling-ten-digits.md) — related
+- [Continuing memory practice until performance is 'steady' (high inter-test correlations) precedes valid fatigue testing in school children](steady-practice-before-fatigue-tests.md) — related

@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 51 claims (39 show a difference, 11 mixed, 1 no difference) · 49 studies (15 review, 11 qualitative, 6 causal, 6 design, 5 quant-synthesis, 4 theoretical, 2 associational), `q1`–`q4` · 6 of 49 report an effect size · 47 claims rest on one study
+> **Evidence** · 53 claims (39 show a difference, 12 mixed, 2 no difference) · 50 studies (15 review, 11 qualitative, 7 causal, 6 design, 5 quant-synthesis, 4 theoretical, 2 associational), `q1`–`q4` · 6 of 50 report an effect size · 49 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -92,6 +92,8 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Training students to select tasks using a combination of self-assessed performance and invested mental effort improves self-assessment, task selection, and posttest performance, but one follow-up study found no transfer to a new problem domain](../claims/performance-effort-task-selection-training-improves-srl.md) [~M] — an instructional effect differs with it
 - [Lower secondary students' situation-specific engagement varies most strongly between lessons within students, with smaller between-student variation](../claims/engagement-varies-most-between-lessons-within-students.md) [+M] — learners who differ on it differ in outcomes
 - [Mathematics shows the lowest student ratings of situational engagement among school subjects](../claims/mathematics-lowest-situational-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [An authentic (greenhouse) video setting improves retention but not application of instructional video content in Experiment 1](../claims/exp1-authentic-setting-retention-benefit.md) [~W] — an instructional effect differs with it
+- [In Experiment 2 the authentic-setting effect on retention did not replicate and reinstating the setting as a test background produced no context effects](../claims/exp2-setting-retention-nonreplication-no-context-effects.md) [-W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

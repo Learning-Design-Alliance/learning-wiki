@@ -47,3 +47,4 @@ Narrative review of the mathematical cognition literature, citing LeFevre et al.
 - [Simple subtraction in adults relies heavily on strategy use, which disadvantages participants under limited working memory resources](adult-subtraction-strategy-reliance-working-memory-cost.md) — a narrower finding that bears on this claim
 - [Adults with developmental dyslexia use arithmetic fact retrieval less frequently than matched controls during single-digit multiplication and subtraction](dyslexia-reduced-arithmetic-fact-retrieval-frequency.md) — related
 - [Problem type modulated solution times, with large problems slowest and +1 problems fastest in both age groups](problem-type-solution-time-structure.md) — related
+- [Students are less confident in direction of effect judgments for multiplication and division than for addition and subtraction, but equally confident regardless of operand size](confidence-lower-multiplication-division-than-addition-subtraction.md) — related

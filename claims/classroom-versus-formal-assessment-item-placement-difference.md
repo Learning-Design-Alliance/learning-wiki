@@ -47,3 +47,4 @@ The article contrasts formal assessment formats with classroom practice, noting 
 - [Traditional end-of-passage assessment formats may inadvertently measure extraneous constructs such as working memory, attention, and language](end-of-passage-format-measures-extraneous-constructs.md) — related
 - [Embedded-item passages may yield improved student reading comprehension scores and a more valid measurement approach](embedded-items-improved-scores-validity.md) — related
 - [Embedding items has the potential to be a more equitable measure of reading comprehension for marginalized groups](embedded-items-potential-equity-marginalized-groups.md) — related
+- [Thorndike Scale Alpha appears to test comprehension of the questions as much as comprehension of the passage read](thorndike-scale-alpha-questions-not-passage.md) — related

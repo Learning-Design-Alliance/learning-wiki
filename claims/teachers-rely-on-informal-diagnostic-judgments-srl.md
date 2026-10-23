@@ -50,3 +50,4 @@ The review's synthesis of evidence on AK-SRL, citing multiple studies (e.g., Bä
 - [Teachers are largely aware which cues are diagnostic, but often mistakenly treat students' interest in the text topic as diagnostic](teacher-awareness-of-cue-diagnosticity-partial.md) — related
 - [Representational similarity analysis shows identity judgments are organised around subjective impressions, orthogonal to diagnostic cue structure](representational-dissociation-subjective-impressions.md) — related
 - [Performance cues were found most diagnostic for students' reading comprehension performance](performance-cues-most-diagnostic-reading-comprehension.md) — related
+- [Judgments of comprehension in oral reading rest on unaided subjective judgment with no guarantee of consistency across times or judges](oral-reading-judgment-subjective-unreliable.md) — related

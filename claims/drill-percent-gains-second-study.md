@@ -48,3 +48,4 @@ Summary section tabulating second-study drill-class gains by operation: 16.9 per
 ## Related Claims
 - [Drill classes improved from two to three times as much as non-drill classes in arithmetic fundamentals](drill-improvement-two-to-three-times-nondrill.md) — a broader claim this one bears on
 - [Best and poorest drill pupils both gained more than their non-drill counterparts, narrowing the within-class gap](drill-narrows-best-poorest-gap.md) — related
+- [Distributed school practice in addition produces large gains, roughly 50 per cent in examples correct, in school pupils as found](large-gains-distributed-practice-addition-school-pupils.md) — related

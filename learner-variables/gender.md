@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 235 claims (143 show a difference, 57 mixed, 35 no difference) · 171 studies (108 associational, 28 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 27 of 171 report an effect size · 227 claims rest on one study
+> **Evidence** · 237 claims (145 show a difference, 57 mixed, 35 no difference) · 173 studies (109 associational, 29 causal, 13 quant-synthesis, 8 review, 5 qualitative, 5 theoretical, 4 design), `q1`–`q4` · 27 of 173 report an effect size · 229 claims rest on one study
 
 ## How to read this page
 
@@ -273,6 +273,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Girls started lower in math self-concept and interest than boys, and the L1 self-concept gender gap widened over Grades 7–9](../claims/gender-gaps-math-lower-l1-slope-favors-girls.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Girls report higher initial mathematics enjoyment and boys higher initial boredom, with no gender differences in arithmetic skill development or mathematics performance](../claims/gender-differences-enjoyment-boredom-early-grades.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No sex difference in the effect of drill on arithmetic improvement](../claims/no-sex-difference-drill-effect.md) [-M] — an instructional effect differs by group
+- [Altering the order of administration of math and verbal tests serves as an ecological intervention that reduces stereotype threat on girls’ math performance.](../claims/test-order-intervention-reduces-stereotype-threat-girls-math.md) [+M] — an instructional effect differs by group
+- [Non-fraternity male freshmen were more likely than non-fraternity female freshmen to reach the laggard list](../claims/male-freshmen-more-laggards-than-female.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

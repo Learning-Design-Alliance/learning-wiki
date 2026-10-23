@@ -15,12 +15,14 @@ sources:
     author: Fernández Alonso, R.; Suárez Álvarez, J.; Muñiz Fernández, J.
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # The article investigates adolescents' homework performance in mathematics and science in relation to personal factors and teaching practices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The study addresses adolescents' homework performance in mathematics and science as related to personal factors and teaching practices. [→ Fernández Alonso 2015](#fernandez-alonso-2015)
@@ -31,7 +33,7 @@ sources:
 
 Fernández Alonso, R.; Suárez Álvarez, J.; Muñiz Fernández, J. (2015). Adolescents' Homework Performance in Mathematics and Science: Personal Factors and Teaching Practices. Journal of Educational Psychology, 107(4). https://doi.org/10.1037/edu0000032
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 The supplied text is a repository metadata record; the only substantive content is the printed title, which names the article's topic: "Adolescents' Homework Performance in Mathematics and Science: Personal Factors and Teaching Practices". No abstract, methods, or results are present, so no finding, statistic, or design detail can be reported.
 

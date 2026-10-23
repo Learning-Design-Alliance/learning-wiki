@@ -45,3 +45,4 @@ Historical argument citing Lachman et al. (1979) and Gardner (1985): the war "st
 ## Related Claims
 
 - [Disciplinary authenticity in computing education, as conceived in the Learning Sciences, is predicated on the erasure of endarkened people in computing](disciplinary-authenticity-computing-erasure-endarkened-people.md) — related
+- [Wartime army psychological testing of recruits stimulated popular interest in mental measurements and created a favorable opportunity to extend their use in education.](wwi-army-testing-popularized-mental-measurement.md) — related

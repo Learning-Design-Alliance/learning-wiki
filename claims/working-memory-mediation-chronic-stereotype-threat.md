@@ -48,3 +48,4 @@ Moderated multiple serial mediation models with 95% confidence intervals tested 
 - [Social identity threat impairs math performance via increased intrusive thoughts and working memory load (being-cognition disfluency)](social-identity-threat-working-memory-performance.md) — related
 - [Negative stereotype salience combined with high ethnic self-identification inhibits academic performance, while positive stereotypes facilitate it](stereotype-threat-ethnic-identity-performance.md) — related
 - [The threat-by-gender pattern in reading occurred only among highly-identified students](stereotype-threat-reading-only-highly-identified.md) — related
+- [Altering the order of administration of math and verbal tests serves as an ecological intervention that reduces stereotype threat on girls’ math performance.](test-order-intervention-reduces-stereotype-threat-girls-math.md) — related
