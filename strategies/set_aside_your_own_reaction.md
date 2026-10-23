@@ -63,6 +63,7 @@ Empathic teacher responses are among the strongest correlates of student motivat
 - [Empathic Discipline](empathic-discipline.md) — the classroom-level application: framing misbehavior as fixable and responding from the student's perspective
 - [Check-In](../elements/check-in.md) — routine low-stakes moments to practice hearing students before problems escalate
 - [Support teachers' relational pedagogy through reflection and corrective experiences to prevent conflict escalation and emotional exhaustion](relational-pedagogy-support-reflection-strategy.md)
+- [Design feedback conditions in which students feel understood, respected, and invited to actively process feedback, supporting emotion regulation](feedback-conditions-supporting-emotion-regulation.md)
 
 ## Examples
 - **Okonofua, Paunesku, & Walton (2016)** — teachers in the "wise feedback" empathic discipline condition were prompted to consider the student's perspective before responding to a misbehavior scenario; this brief stance shift improved student-teacher relationships and cut suspension rates among Black and Latino students [Brief empathic discipline interventions improve teacher-student relationships and reduce suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+S]

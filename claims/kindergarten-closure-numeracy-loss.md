@@ -54,3 +54,4 @@ Regression analysis of eDia diagnostic assessment data comparing 1st graders in 
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
 - [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — a broader claim this one bears on
 - [Preschool counting skills and number knowledge directly predict formal arithmetic skills in primary school, together accounting for 40–46% of variance](counting-number-knowledge-predict-arithmetic.md) — related
+- [The COVID cohort scored significantly lower than the control cohort across the whole study duration](covid-cohort-lower-overall-reading-fluency-group-effect.md) — related

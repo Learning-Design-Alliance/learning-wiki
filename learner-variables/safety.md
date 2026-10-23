@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (59 show a difference, 18 mixed, 6 no difference) · 50 studies (17 associational, 12 review, 6 causal, 6 qualitative, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 3 of 50 report an effect size · 83 claims rest on one study
+> **Evidence** · 85 claims (60 show a difference, 18 mixed, 7 no difference) · 51 studies (18 associational, 12 review, 6 causal, 6 qualitative, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 3 of 51 report an effect size · 85 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -119,6 +119,8 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Identity- or bias-based harassment shows negative social-emotional and academic consequences over and above general victimization](../claims/bias-based-harassment-added-harm.md) [+M] — learners who differ on it differ in outcomes
 - [Peer victimization is associated with more school absences and lower grades and achievement among school-aged students](../claims/peer-victimization-academic-costs.md) [+M] — learners who differ on it differ in outcomes
 - [Low environment-change beliefs lead students to allocate cognitive resources to monitoring for breakdowns, creating extraneous load](../claims/low-environment-change-beliefs-extraneous-load.md) [+W] — learners who differ on it differ in outcomes
+- [Higher levels of and stronger increases in perceived negative relationships with teachers are associated with lower levels of and stronger decreases in autonomous academic motivation across the secondary school transition](../claims/teacher-negativity-autonomous-motivation-linked-change.md) [+M] — learners who differ on it differ in outcomes
+- [Peer victimization shows no statistically significant association with the level or change of either controlled or autonomous academic motivation across the secondary school transition](../claims/peer-victimization-no-motivation-association.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

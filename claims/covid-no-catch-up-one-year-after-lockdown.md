@@ -50,3 +50,4 @@ Meta-regression of 239 estimates comparing the 2021 assessment-timing moderator 
 - [Average fall 2021 math scores in Grades 3–8 were .20–.27 SD lower than same-grade peers' fall 2019 scores](covid-math-decline-020-027-sd-grades-3-8.md) — related
 - [Observed COVID-19 achievement declines were more substantial than declines during other recent disruptions such as natural disasters](covid-declines-exceed-natural-disaster-declines.md) — related
 - [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later](kindergarten-closure-numeracy-loss.md) — related
+- [The COVID cohort scored significantly lower than the control cohort across the whole study duration](covid-cohort-lower-overall-reading-fluency-group-effect.md) — related

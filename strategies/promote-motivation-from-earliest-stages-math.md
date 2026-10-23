@@ -44,6 +44,7 @@ Based on the finding that motivation exerts an indirect effect on later mathemat
 ## Related Strategies
 
 - [Monitor children's math anxiety from the earliest stages of schooling to support proficient math performance](monitor-math-anxiety-early-schooling.md)
+- [Provide early intensified support for struggling arithmetic learners and design mathematics environments that promote positive emotions](early-arithmetic-support-positive-emotion-environment.md)
 
 ## Examples
 -

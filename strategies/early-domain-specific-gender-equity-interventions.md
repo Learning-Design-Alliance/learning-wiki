@@ -42,6 +42,7 @@ The article recommends interventions that begin in the earliest school years and
 ## Related Strategies
 
 - [Provide supports to improve attendance in pre-kindergarten and the early elementary years](attendance-supports-prek-early-elementary.md)
+- [Provide early intensified support for struggling arithmetic learners and design mathematics environments that promote positive emotions](early-arithmetic-support-positive-emotion-environment.md)
 
 ## Examples
 -

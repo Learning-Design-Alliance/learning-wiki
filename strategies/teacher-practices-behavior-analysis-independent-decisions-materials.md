@@ -42,6 +42,7 @@ The guidelines direct teachers to plan learning activities by analyzing children
 - [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
 - [Encourage Student Self-Advocacy](encourage_student_self-advocacy.md)
 - [Encouraging Self Advocacy](encouraging_self-advocacy.md)
+- [Adapt instructional environments to variability in children's EF development through supports, classroom organization, and peer-interaction management](instructional-environments-accommodate-ef-variability.md)
 
 ## Examples
 -

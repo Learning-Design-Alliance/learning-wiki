@@ -73,7 +73,8 @@ MAP Reading Fluency is NWEA's online adaptive assessment for pre-K through grade
 - [Norming-sample testing volume is concentrated in kindergarten and grade 1, which together account for more than 70% of test events](../claims/spanish-foundational-skills-testing-volume-concentration.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Salzburger Lesescreening (SLS) reading fluency test](salzburger-lesescreening-sls-reading-fluency-test.md)
 
 ## Key Sources
 - MAP Reading Fluency with Coach Evidence Base. (2024). NWEA. https://www.nwea.org/research/publication/map-reading-fluency-with-coach-evidence-base/

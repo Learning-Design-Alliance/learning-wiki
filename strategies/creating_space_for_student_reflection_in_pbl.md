@@ -65,6 +65,7 @@ Reflection works because it forces retrieval and articulation of what was learne
 - [Assessment for Learning](../principles/assessment-for-learning.md) — reflection artifacts double as formative assessment data
 - [Active Learning](../principles/active-learning.md) — reflection is the consolidation phase that makes active work stick
 - [Use an \"equity pause\" to infuse equity consciousness into continuous improvement team processes](equity-pause-strategy.md)
+- [Design feedback conditions in which students feel understood, respected, and invited to actively process feedback, supporting emotion regulation](feedback-conditions-supporting-emotion-regulation.md)
 
 ## Examples
 - **[High Tech High](https://www.hightechhigh.org)** (San Diego) — project debrief protocols and student reflection journals are standard components of every project cycle, with reflections exhibited alongside final products.

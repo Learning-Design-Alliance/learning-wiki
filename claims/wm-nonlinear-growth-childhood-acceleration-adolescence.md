@@ -57,3 +57,4 @@ Longitudinal mixed-effects modeling of the PSID-CDS accelerated longitudinal sam
 - [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — related
 - [Music training RCTs show improved verbal working memory (backward digit span), but not visuospatial or forward-span tasks](music-training-verbal-working-memory-backward-span.md) — related
 - [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — related
+- [Math achievement growth from preschool through second grade is best characterized by a latent basis curve rather than linear, exponential, or quadratic functions](latent-basis-best-fit-math-growth.md) — related

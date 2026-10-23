@@ -65,6 +65,7 @@ Climate functions as a gateway condition: learners who feel threatened or discon
 - [Achievable Micro-Goals](achievable_micro-goals.md) — builds the competence experiences that a positive climate should make safe to pursue
 - [Cultivate mathematics belonging by publicly recognizing every student as a mathematical thinker](mathematics-belonging-recognition-practices.md)
 - [Create a safe mathematical community through leader posture, absence of negative feedback, and fun without negative competition](safe-mathematical-community-practices.md)
+- [Design feedback conditions in which students feel understood, respected, and invited to actively process feedback, supporting emotion regulation](feedback-conditions-supporting-emotion-regulation.md)
 
 ## Examples
 - **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — a published K–8 program built around morning meetings and teacher language practices that establish climate routines.

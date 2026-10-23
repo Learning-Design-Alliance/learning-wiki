@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 73 claims (53 for, 19 mixed, 1 against) · 53 studies (17 associational, 13 review, 7 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 53 report an effect size · 67 claims rest on one study
+> **Evidence** · 75 claims (55 for, 19 mixed, 1 against) · 54 studies (18 associational, 13 review, 7 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 54 report an effect size · 69 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -128,6 +128,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [The relation of autonomous motivation to grades is curvilinear, with grades accelerating at higher autonomous motivation](../claims/curvilinear-autonomous-motivation-grades.md) [+W] — attached 2026-10-23 from Mouratidis et al. (2021), which proposed "Self-Determination Theory quality-of-motivation account of academic achievement".
 - [Competence frustration is indirectly and positively associated with teacher-rated passive disengagement via reduced subjective vitality](../claims/competence-frustration-passive-disengagement-vitality.md) [+W] — attached 2026-10-23 from Stephen R. Earl et al. (2016), which proposed "Dual-process model of need frustration underpinning active versus passive classroom disengagement"; tests this page's relationship.
 - [Autonomy frustration directly and positively predicts teacher-rated active disengagement, not explained by reduced vitality](../claims/autonomy-frustration-active-disengagement-direct.md) [+W] — attached 2026-10-23 from Stephen R. Earl et al. (2016), which proposed "Dual-process model of need frustration underpinning active versus passive classroom disengagement"; tests this page's relationship.
+- [Higher levels of and stronger increases in parental academic pressure are associated with higher levels of and stronger increases in controlled academic motivation across the secondary school transition](../claims/parental-pressure-controlled-motivation-linked-change.md) [+W] — attached 2026-10-23 from Wang et al. (2025), which proposed "Self-Determination Theory account of controlled and autonomous academic motivation shaped by relationships with parents, peers, and teachers"; tests this page's relationship.
+- [Higher levels of and stronger increases in perceived negative relationships with teachers are associated with lower levels of and stronger decreases in autonomous academic motivation across the secondary school transition](../claims/teacher-negativity-autonomous-motivation-linked-change.md) [+W] — attached 2026-10-23 from Wang et al. (2025), which proposed "Self-Determination Theory account of controlled and autonomous academic motivation shaped by relationships with parents, peers, and teachers"; tests this page's relationship.
 
 ## The evidence by question
 

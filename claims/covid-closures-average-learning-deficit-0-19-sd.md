@@ -52,3 +52,4 @@ Random-effects robust-variance-estimation meta-analysis of 239 effect sizes from
 - [In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started](most-students-still-made-gains-reading-math-covid.md) — related
 - [Students showed lower math growth in fall 2020 across grades 3-8 relative to peers in the previous, more typical year](fall-2020-lower-math-growth-grades-3-8.md) — related
 - [Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies](covid-deficit-larger-quasi-experimental-designs.md) — related
+- [Meta-analytic evidence attributes average COVID learning losses of roughly -0.09 to -0.18 SD, larger in mathematics than reading](meta-analytic-covid-learning-losses-math-exceed-reading.md) — related

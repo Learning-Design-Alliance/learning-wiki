@@ -47,6 +47,7 @@ The article recommends that teachers and schools attend to math anxiety from the
 
 - [Reduce math anxiety in children with DD by improving math achievement early through targeted interventions](early-achievement-interventions-reduce-math-anxiety-dd.md)
 - [Promote motivation alongside executive functioning and early numeracy development from the earliest stages of mathematics education](promote-motivation-from-earliest-stages-math.md)
+- [Provide early intensified support for struggling arithmetic learners and design mathematics environments that promote positive emotions](early-arithmetic-support-positive-emotion-environment.md)
 
 ## Examples
 -

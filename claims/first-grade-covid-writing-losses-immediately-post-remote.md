@@ -48,3 +48,4 @@ The article reports, citing its own prior investigation of 1636 Before and 817 D
 ## Related Claims
 - [One year after emergency remote instruction, Norwegian second-graders showed no statistically significant differences from a pre-pandemic cohort in writing quality, handwriting fluency, or attitude toward writing](covid-writing-losses-dissipated-by-second-grade.md) — related
 - [The cohort covariate's contribution to explained variance in all three writing measures fell well below the small-effect threshold](cohort-covariate-effect-below-small-threshold.md) — related
+- [The COVID cohort scored significantly lower than the control cohort across the whole study duration](covid-cohort-lower-overall-reading-fluency-group-effect.md) — related

@@ -68,3 +68,4 @@ Spearman's correlations in preliminary analyses. The printed correlations were �
 - [Children's metacognitive strategic behaviours, but not cognitive or motivational strategic behaviours, independently predict task performance in child-alone problem-solving tasks](metacognitive-strategies-predict-kindergarten-task-performance.md) — related
 - [Girls show early EF and ToM advantages, but the EF advantage diminishes with age while the ToM advantage persists](gender-advantage-ef-diminishes-tom-persists.md) — related
 - [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related
+- [Girls report higher initial mathematics enjoyment and boys higher initial boredom, with no gender differences in arithmetic skill development or mathematics performance](gender-differences-enjoyment-boredom-early-grades.md) — related

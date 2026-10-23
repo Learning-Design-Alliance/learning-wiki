@@ -114,3 +114,5 @@ Over several years, two cohorts of young adolescents argued about social issues 
 - [Students' historical argumentation rarely includes counterarguments or weighing of arguments](students-argumentation-lacks-counterarguments.md) — related
 - [Computer-supported argument scaffolds improve argumentation within the scaffolded task, but argumentation does not mediate effects on domain-specific knowledge acquisition](argument-scaffolds-proximal-success-no-knowledge-mediation.md) — related
 - [Learners who construct good single arguments individually are not always able to apply that competence in comparable collaborative tasks](solo-argument-competence-not-applied-collaboratively.md) — related
+- [Gains in critical-thinking competences from dialogic lessons did not come at the expense of Biology subject-matter knowledge](critical-thinking-gains-not-at-expense-of-subject-knowledge.md) — related
+- [Dialogic learning produces a more positive effect on value-loaded critical-thinking competences than non-dialogic learning in pre-vocational secondary Biology](dialogic-learning-improves-value-loaded-critical-thinking.md) — related

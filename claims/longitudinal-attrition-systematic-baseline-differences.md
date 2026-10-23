@@ -49,3 +49,4 @@ The commentary cites Watkins and Hattie (1985), who surveyed Australian tertiary
 - [Longitudinal growth observed for current ELs likely underestimates total-cohort growth because students who reach English proficiency exit and are no longer assessed](el-exit-censorship-underestimates-growth.md) — related
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related
 - [Attrition of 130 students (35%) between pretest and posttest was not systematically related to baseline characteristics](rct-attrition-35-percent-not-systematic.md) — reports the opposite
+- [Participants who dropped out of the four-wave study reported more peer victimization at the first time point than those who participated at all time points](attrition-higher-peer-victimization.md) — a narrower finding that bears on this claim
