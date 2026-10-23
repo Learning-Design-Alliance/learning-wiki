@@ -48,5 +48,5 @@ In the same longitudinal multilevel study, standardized coefficients were comput
 ## Related Claims
 - [Classroom autonomy-supportive climate moderates teacher expectation effects: significant in low-autonomy-supportive classrooms but not in high ones](autonomy-supportive-climate-moderates-tee.md) — related
 - [Teachers' expectations and perceived autonomy-supportive climate are uncorrelated, making climate an unlikely consequence of expectations](expectations-climate-null-correlation.md) — related
-- [Low autonomy-supportive climates are particularly harmful to students labeled with low teacher expectations](low-autonomy-climate-harmful-low-expectation-students.md) — related
+- [Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)](low-autonomy-climate-harmful-low-expectation-students.md) — related
 - [Teachers' early expectations predict students' later perceived competence in physical education beyond students' background characteristics](teacher-expectations-predict-later-perceived-competence-pe.md) — related

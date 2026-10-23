@@ -47,7 +47,7 @@ One-year longitudinal multilevel study of 421 students and 22 teachers in 10 Fre
 
 ## Related Claims
 - [Classroom autonomy-supportive climate moderates teacher expectation effects: significant in low-autonomy-supportive classrooms but not in high ones](autonomy-supportive-climate-moderates-tee.md) — related
-- [Low autonomy-supportive climates are particularly harmful to students labeled with low teacher expectations](low-autonomy-climate-harmful-low-expectation-students.md) — related
+- [Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)](low-autonomy-climate-harmful-low-expectation-students.md) — related
 - [Teacher expectation effects on perceived competence are curvilinear: positive expectations are stronger than negative ones](positive-expectations-stronger-than-negative-tee.md) — related
 - [The on-track–graduation relationship remains strong after accounting for student background characteristics](on-track-relationship-holds-after-background-controls.md) — related
 - [Kindergarten visual processing uniquely predicts grade-one early mathematics after controlling for prior mathematics and general cognitive abilities](visual-processing-predicts-grade-one-mathematics.md) — related

@@ -231,7 +231,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Junior high math teachers were more controlling and less supportive than elementary teachers, and classrooms with the strongest such changes showed the largest declines in math motivation](../claims/junior-high-teachers-more-controlling-motivation-declines.md) [~W]
 - [Feedback targeting reading self-efficacy had a positive effect on motivation, while error-focused feedback and rewards had mixed effects on long-term interest and engagement](../claims/feedback-motivation-self-efficacy-positive-rewards-mixed.md) [+W]
 - [Higher adherence and lower discipline problems during delivery were associated with more positive changes in utility value](../claims/adherence-discipline-utility-value-changes.md) [~W]
-- [Low autonomy-supportive climates are particularly harmful to students labeled with low teacher expectations](../claims/low-autonomy-climate-harmful-low-expectation-students.md) [~W]
+- [Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)](../claims/low-autonomy-climate-harmful-low-expectation-students.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

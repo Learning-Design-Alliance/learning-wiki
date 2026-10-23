@@ -138,7 +138,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school](../claims/executive-functions-mediate-autonomy-support-achievement.md) [+W] — attached 2026-10-23 from Bindman et al. (2015), which proposed "Self-Determination Theory-based account: autonomy-supportive parenting fosters executive functions via autonomous motivation and practice on challenging activities".
 - [Classroom autonomy-supportive climate moderates teacher expectation effects: significant in low-autonomy-supportive classrooms but not in high ones](../claims/autonomy-supportive-climate-moderates-tee.md) [~M] — attached 2026-10-23 from David Trouilloud et al. (2006), which proposed "Self-determination theory account of autonomy-supportive climate as a moderator of social influence on students".
 - [Teachers' expectations and perceived autonomy-supportive climate are uncorrelated, making climate an unlikely consequence of expectations](../claims/expectations-climate-null-correlation.md) [~W]
-- [Low autonomy-supportive climates are particularly harmful to students labeled with low teacher expectations](../claims/low-autonomy-climate-harmful-low-expectation-students.md) [+W]
+- [Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)](../claims/low-autonomy-climate-harmful-low-expectation-students.md) [+W]
 
 ## The evidence by question
 

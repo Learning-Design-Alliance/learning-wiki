@@ -62,7 +62,7 @@ Simple-slopes analysis at one SD above and below the mean of classroom autonomy 
 
 
 ## Related Claims
-- [Low autonomy-supportive climates are particularly harmful to students labeled with low teacher expectations](low-autonomy-climate-harmful-low-expectation-students.md) — related
+- [Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)](low-autonomy-climate-harmful-low-expectation-students.md) — related
 - [Teachers' expectations and perceived autonomy-supportive climate are uncorrelated, making climate an unlikely consequence of expectations](expectations-climate-null-correlation.md) — related
 - [Teachers' early expectations predict students' later perceived competence in physical education beyond students' background characteristics](teacher-expectations-predict-later-perceived-competence-pe.md) — related
 - [Teacher expectation effects on perceived competence are curvilinear: positive expectations are stronger than negative ones](positive-expectations-stronger-than-negative-tee.md) — related

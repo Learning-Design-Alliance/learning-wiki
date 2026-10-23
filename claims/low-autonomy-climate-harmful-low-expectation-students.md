@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Low autonomy-supportive climates are particularly harmful to students labeled with low teacher expectations
-description: Low autonomy-supportive climates are particularly harmful to students labeled with low teacher expectations
+title: "Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)"
+description: "Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)"
 id: low-autonomy-climate-harmful-low-expectation-students
 status: review
 generated:
@@ -9,35 +9,38 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 sources:
-  - id: david-trouilloud-2006
+  - id: trouilloud-et-al-2006
     resource: "https://doi.org/10.1037/0022-0663.98.1.75"
-    title: "David Trouilloud, Philippe Sarrazin, Pascal Bressoux, Julien Bois. (2006). Relation between teachers’ early expectations and students’ later perceived competence in physical education classes: Autonomy-supportive climate as a moderator. Journal of Educational Psychology, 98, 75-86. https://doi.org/10.1037/0022-0663.98.1.75"
-    author: David Trouilloud, Philippe Sarrazin, Pascal Bressoux, Julien Bois
+    title: "Trouilloud, D., Sarrazin, P., Bressoux, P., & Bois, J. (2006). Relation between teachers’ early expectations and students’ later perceived competence in physical education classes: Autonomy-supportive climate as a moderator. *Journal of Educational Psychology, 98*(1), 75–86. [doi:10.1037/0022-0663.98.1.75](https://doi.org/10.1037/0022-0663.98.1.75)"
+    author: "Trouilloud, D., Sarrazin, P., Bressoux, P., & Bois, J."
     q: 2
     i: "?"
+    n: 421 students in 22 classes
     kind: associational
     rigour: 2
 ---
 
-# Low autonomy-supportive climates are particularly harmful to students labeled with low teacher expectations
+# Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r2` · `q2`
+> **Evidence** · 1 study · associational `r2` · `q2` · n=421 students in 22 classes
 
 ## Subclaims
-`q2 i?` In low autonomy-supportive classrooms, the perceived competence of students labeled with low expectations was weaker than that of students associated with high expectations and/or in a high autonomy-supportive climate (Figure 2). [→ David Trouilloud 2006](#david-trouilloud-2006)
+`q2 i?` In low autonomy-supportive classrooms, the perceived competence of students labeled with low expectations was weaker than that of students associated with high expectations and/or in a high autonomy-supportive climate (Figure 2). [→ Trouilloud et al. 2006](#trouilloud-et-al-2006)
 
 ## Evidence
 
-### David Trouilloud 2006
+### Trouilloud et al. 2006
 
-David Trouilloud, Philippe Sarrazin, Pascal Bressoux, Julien Bois. (2006). Relation between teachers’ early expectations and students’ later perceived competence in physical education classes: Autonomy-supportive climate as a moderator. Journal of Educational Psychology, 98, 75-86. https://doi.org/10.1037/0022-0663.98.1.75
+Trouilloud, D., Sarrazin, P., Bressoux, P., & Bois, J. (2006). Relation between teachers’ early expectations and students’ later perceived competence in physical education classes: Autonomy-supportive climate as a moderator. *Journal of Educational Psychology, 98*(1), 75–86. [doi:10.1037/0022-0663.98.1.75](https://doi.org/10.1037/0022-0663.98.1.75)
 
-`q2 · i?` · `associational · r2`
+`q2 · i?` · `n=421 students in 22 classes` · `associational · r2`
 
-Authors' interpretation of the plotted simple slopes in Figure 2 of the multilevel study; the sentence is a descriptive reading of the interaction pattern rather than a separately tested contrast, and no effect size is printed for it.
+A one-year naturalistic longitudinal study of 421 students in 22 physical education classes, analysed with multilevel models. Classroom autonomy-supportive climate moderated the relation between teachers' early expectations and students' later perceived competence. The sentence quoted is the authors' reading of the plotted simple slopes in Figure 2, not a separately tested contrast, and no effect size is printed for it. The authors call a low autonomy-supportive climate "particularly harmful" to students labeled with low expectations, but they also state that their correlational design cannot establish whether teachers' expectations caused the changes in perceived competence, so the finding is an association, not a demonstrated harm.
 
-> "percei ved co mpetence o f these students was weaker than the perce i ved co mpetenc e of those associated w ith h i g h e xpectation s and/or evo l v i n g i n a h i g h autonom y- suppor ti ve c l i m ate."
+> "As seen in Figure 2, perceived competence of these students was weaker than the perceived competence of those associated with high expectations and/or evolving in a high autonomy-supportive climate."
+
+> "Consequently, whether observed relationships between teachers' expectations and students' perceived competence are caused by teachers' expectations cannot ultimately be determined within the context of this study."
 
 ## Discussion
 

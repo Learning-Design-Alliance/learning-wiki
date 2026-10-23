@@ -103749,12 +103749,12 @@
 "type":"claim"
 },
 {
-"description":"The effect of inference-based instruction and teacher–student conflict on math achievement growth was significantly stronger for the low early skill group (three-way interaction)",
+"description":"Inference-based instruction and teacher–student conflict were more strongly associated with math achievement and growth for children with low early math skills (a three-way interaction in observational data)",
 "evidence_strength":"moderate",
 "id":"inference-conflict-skill-three-way-interaction",
 "path":"claims/inference-conflict-skill-three-way-interaction.md",
 "status":"review",
-"title":"The effect of inference-based instruction and teacher–student conflict on math achievement growth was significantly stronger for the low early skill group (three-way interaction)",
+"title":"Inference-based instruction and teacher–student conflict were more strongly associated with math achievement and growth for children with low early math skills (a three-way interaction in observational data)",
 "type":"claim"
 },
 {
@@ -122192,12 +122192,12 @@
 "type":"claim"
 },
 {
-"description":"Low autonomy-supportive climates are particularly harmful to students labeled with low teacher expectations",
+"description":"Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)",
 "evidence_strength":"weak",
 "id":"low-autonomy-climate-harmful-low-expectation-students",
 "path":"claims/low-autonomy-climate-harmful-low-expectation-students.md",
 "status":"review",
-"title":"Low autonomy-supportive climates are particularly harmful to students labeled with low teacher expectations",
+"title":"Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)",
 "type":"claim"
 },
 {

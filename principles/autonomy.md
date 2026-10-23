@@ -182,7 +182,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Teachers who facilitate both autonomy and structure report motivation to teach and felt teaching effectiveness](../claims/teacher-outcomes-autonomy-structure.md) [+W]
 - [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](../claims/autonomy-universality-meta-analytic-support.md) [+W]
 - [Main effects and the interaction of classroom autonomy support and structure were tested on the three engagement components using multilevel analyses](../claims/multilevel-test-autonomy-structure-interaction-engagement.md) [~W]
-- [Low autonomy-supportive climates are particularly harmful to students labeled with low teacher expectations](../claims/low-autonomy-climate-harmful-low-expectation-students.md) [+W]
+- [Students labeled with low teacher expectations reported weaker later perceived competence in low autonomy-supportive classrooms (a correlational moderation)](../claims/low-autonomy-climate-harmful-low-expectation-students.md) [+W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — regular, non-controlling check-ins are a core teacher behavior of autonomy support, signaling interest rather than surveillance

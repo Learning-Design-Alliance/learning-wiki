@@ -39,7 +39,7 @@ As a policy implication, the article recommends that "Teachers charged with impl
 ## Claims
 
 - [Teacher–student conflict correlated negatively with math achievement, and closeness correlated positively in third grade](../claims/conflict-closeness-math-correlations.md) [+W]
-- [The effect of inference-based instruction and teacher–student conflict on math achievement growth was significantly stronger for the low early skill group (three-way interaction)](../claims/inference-conflict-skill-three-way-interaction.md) [+M]
+- [Inference-based instruction and teacher–student conflict were more strongly associated with math achievement and growth for children with low early math skills (a three-way interaction in observational data)](../claims/inference-conflict-skill-three-way-interaction.md) [+M]
 - [Low early skill children received more basic skills instruction and experienced more teacher conflict than their more skilled peers](../claims/low-skill-children-more-basic-skills-more-conflict.md) [+M]
 - [Low early skill children in high-inference classrooms with low teacher–student conflict showed higher math achievement and faster gains than low-skill peers in low-inference or high-conflict classrooms](../claims/low-skill-gains-high-inference-low-conflict.md) [+M]
 

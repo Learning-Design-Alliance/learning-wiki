@@ -44,4 +44,4 @@ Descriptive comparison of the three 54-month skill groups (Table 1; low n = 71, 
 
 ## Related Claims
 - [Low early skill children in high-inference classrooms with low teacher–student conflict showed higher math achievement and faster gains than low-skill peers in low-inference or high-conflict classrooms](low-skill-gains-high-inference-low-conflict.md) — related
-- [The effect of inference-based instruction and teacher–student conflict on math achievement growth was significantly stronger for the low early skill group (three-way interaction)](inference-conflict-skill-three-way-interaction.md) — related
+- [Inference-based instruction and teacher–student conflict were more strongly associated with math achievement and growth for children with low early math skills (a three-way interaction in observational data)](inference-conflict-skill-three-way-interaction.md) — related

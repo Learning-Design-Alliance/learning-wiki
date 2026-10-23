@@ -62,5 +62,5 @@ The same HLM-derived comparison extended to the average and high skill groups: t
 
 
 ## Related Claims
-- [The effect of inference-based instruction and teacher–student conflict on math achievement growth was significantly stronger for the low early skill group (three-way interaction)](inference-conflict-skill-three-way-interaction.md) — possibly the same claim (merge candidate)
+- [Inference-based instruction and teacher–student conflict were more strongly associated with math achievement and growth for children with low early math skills (a three-way interaction in observational data)](inference-conflict-skill-three-way-interaction.md) — possibly the same claim (merge candidate)
 - [Low early skill children received more basic skills instruction and experienced more teacher conflict than their more skilled peers](low-skill-children-more-basic-skills-more-conflict.md) — related
