@@ -14,7 +14,7 @@ sources:
     title: "Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R. S., Gersten, R., & Changas, P. (2016). Supported Self-Explaining during Fraction Intervention. Journal of Educational Psychology. https://doi.org/10.1037/edu0000073"
     author: "Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R. S., Gersten, R., & Changas, P."
     q: 3
-    i: 1
+    i: 2
     kind: causal
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # Supported self-explaining improves accuracy of fraction magnitude comparisons more than a word-problem intervention component in at-risk fourth graders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i1` At-risk fourth graders taught supported self-explaining outscored the word-problem condition on fraction magnitude comparison accuracy (ES = 0.43). [→ Fuchs 2016](#fuchs-2016)
+`q3 i2` At-risk fourth graders taught supported self-explaining outscored the word-problem condition on fraction magnitude comparison accuracy (ES = 0.43). [→ Fuchs 2016](#fuchs-2016)
 `q3 i3` Both intervention conditions outperformed control on comparison accuracy (ES = 1.37 for EXP vs. control; 0.89 for WP vs. control). [→ Fuchs 2016](#fuchs-2016)
 
 ## Evidence
@@ -34,9 +34,9 @@ sources:
 
 Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan, N. C., Siegler, R. S., Gersten, R., & Changas, P. (2016). Supported Self-Explaining during Fraction Intervention. Journal of Educational Psychology. https://doi.org/10.1037/edu0000073
 
-`q3 · i1` · `causal · r2`
+`q3 · i2` · `causal · r2`
 
-Randomized control trial of 218 at-risk fourth graders assigned to EXP, WP, or CON; 1-way ANOVA on posttest comparison accuracy with Fisher LSD follow-ups. The article reports "EXP outscored WP (ES = 0.43)" and both conditions beat control.
+Randomized controlled trial: 236 at-risk fourth graders from 52 classrooms in 14 schools were randomly assigned at the individual level to EXP (n = 79), WP (n = 79) or CON (n = 78); 18 who moved before the end of the study were omitted, leaving 218 analysed (73 EXP, 74 WP, 71 CON); 1-way ANOVA on posttest comparison accuracy with Fisher LSD follow-ups. The article reports "EXP outscored WP (ES = 0.43)" and both conditions beat control.
 
 > "On comparison accuracy, EXP outscored WP (ES = 0.43), and both intervention conditions outperformed CON (ES = 1.37 for EXP vs. control; 0.89 for WP vs. control)."
 

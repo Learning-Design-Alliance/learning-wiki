@@ -35,7 +35,7 @@ Fuchs, L. S., Malone, A., Schumacher, R. F., Namkung, J., Hamlett, C. L., Jordan
 
 `q3 · i?` · `causal · r2`
 
-OLS path-analytic moderation (Preacher & Hayes framework) on comparison accuracy; working memory was the only significant moderator (R2 = .20, F(5,136) = 6.81, p < .001), probed with Johnson-Neyman. No effect size printed, so impact is null.
+OLS path-analytic moderation (Preacher & Hayes framework) on comparison accuracy; working memory was the only significant moderator (R2 = .20, F(5,136) = 6.81, p < .001), and the moderator × condition term was significant (t = -2.02, p = .047); probed with Johnson-Neyman, EXP outperformed WP significantly for students with lower working memory. The article prints no effect size for the moderation itself (R2 is the whole model's fit, not the size of the interaction), so impact is coded `i?`: not established, which is not the same as a null or zero effect.
 
 > "The effect favoring EXP over WP transitioned to nonsignificance at 1.09 SDs above the at-risk sample mean on working memory. Thus, consistent with expectations, a compensatory moderator effect was demonstrated."
 
