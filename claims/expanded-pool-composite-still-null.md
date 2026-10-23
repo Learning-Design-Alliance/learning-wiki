@@ -50,3 +50,4 @@ Sensitivity analysis adding a composite mean of 12 dependent cross-factor correl
 - [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related
 - [Experienced teachers diagnose underestimating, overestimating, and uninterested student profiles more accurately than novices, with partial eye-tracking support](seidel-experienced-teachers-diagnose-student-profiles.md) — related
 - [Teachers report very high self-perceived competence and efficacy that are virtually unrelated to their schools' prior achievement levels](teacher-competency-efficacy-unrelated-achievement.md) — possibly the same claim (merge candidate)
+- [The induction did not increase teachers' perceived similarity with focal students](spt-induction-no-similarity-effect.md) — related

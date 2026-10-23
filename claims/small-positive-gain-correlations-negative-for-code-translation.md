@@ -44,3 +44,4 @@ Spearman footrule rank correlations computed from the class score tables. The ar
 
 ## Related Claims
 - [Twenty-two trials of practice translating English into code raised average output from 43 to a highest-record average of 239 code symbols per five-minute period, a 537% gain.](code-practice-large-within-task-gain-537-percent.md) — related
+- [Dearborn's study found university students maintain to a marked degree the same relative ranking they held in high school](dearborn-relative-ranking-maintained-university.md) — related

@@ -47,3 +47,4 @@ The review's timing boundary-condition section describes Lachner et al. (2020), 
 - [Self-reported metacognitive regulation of reading contributes to expository digital text comprehension in a home e-learning environment](metacognitive-regulation-digital-text-comprehension-elearning.md) — related
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
 - [Worked-example preparation deepens subsequent learning via more elaboration during the future-learning phase](worked-example-preparation-more-elaboration-future-learning.md) — related
+- [In-between explaining enhanced university students' conceptual knowledge more than after-study explaining (Experiment 1)](in-between-explaining-beats-after-study-explaining-conceptual-knowledge.md) — related

@@ -66,3 +66,4 @@ A follow-up SEM with a surgency latent factor (high intensity pleasure, impulsiv
 - [Greater parent-reported temperamental effortful control predicts less DLPFC activation during cognitive flexibility in preschoolers](effortful-control-predicts-less-dlpfc-activation.md) — related
 - The four effortful control subscales load onto a single latent factor in preschoolers — related
 - [Greater temperamental effortful control predicts better cognitive flexibility task accuracy in preschoolers](effortful-control-predicts-better-cognitive-flexibility-accuracy.md) — related
+- [The mediating role of executive functions remains significant when children's temperament and vocabulary are modeled as alternative mediators](ef-mediation-robust-to-temperament-vocabulary.md) — related

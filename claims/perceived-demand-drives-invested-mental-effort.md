@@ -49,3 +49,4 @@ The review attributes to Salomon (1984) that "Learners invest more mental ef- fo
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — related
 - [Model-observer gender combination affects mental effort invested during example study: male students invest less effort with a male model, female students more effort with a male model](gender-interaction-mental-effort-example-study.md) — related
+- [In-between learning activities increased invested mental effort in reading the second text unit (Experiment 2)](in-between-activities-raise-mental-effort-second-text-unit.md) — related

@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 125 claims (57 for, 59 mixed, 9 against) · 54 studies (22 causal, 14 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 54 report an effect size · 118 claims rest on one study
+> **Evidence** · 126 claims (57 for, 60 mixed, 9 against) · 55 studies (23 causal, 14 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 55 report an effect size · 119 claims rest on one study
 
 ## Conditional relationship
 
@@ -251,6 +251,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Students report more mental effort and subjective difficulty during oral explaining than during retrieval practice](../claims/oral-explaining-higher-effort-difficulty-than-retrieval.md) [~W]
 - [For the low-difficult text, oral explaining, written explaining, and retrieval practice yield comparable learning outcomes](../claims/low-difficult-text-no-modality-differences.md) [~W]
 - [Retrieval practice improves delayed but not immediate performance, consistent with a desirable-difficulties explanation](../claims/retrieval-practice-delayed-not-immediate-benefit.md) [~W]
+- [Explaining was not more effective than oral retrieval practice overall in Experiment 1](../claims/explaining-no-better-than-oral-retrieval-practice-exp1.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

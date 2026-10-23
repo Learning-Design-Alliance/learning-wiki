@@ -13,7 +13,7 @@ generated:
 # Part-task practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 4 studies (2 theoretical, 1 causal, 1 review), `q2`–`q3` · 0 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 5 studies (2 causal, 2 theoretical, 1 review), `q2`–`q3` · 0 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 Part-task practice isolates recurring skill elements that must become automatic — such as typing, arithmetic facts, surgical procedures, or code syntax — and provides repeated, focused practice on them separately from whole-task performance. Its purpose is not conceptual understanding but *automation*: driving sub-skill execution below conscious control so working memory is freed for higher-order aspects of complex tasks.
@@ -53,7 +53,7 @@ Part-task practice reduces the working-memory burden of complex task performance
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The massed-versus-distributed question is tied to the whole-versus-part question: the hard problem remains hard unless learned in parts under massed conditions](../claims/massed-distribution-tied-to-whole-part.md) [~W]
 
 ## Related Elements
 - [Practice](practice.md) — the general case; part-task practice is its automation-focused variant

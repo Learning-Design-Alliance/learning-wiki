@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (61 show a difference, 16 mixed, 21 no difference) · 58 studies (22 associational, 12 causal, 11 review, 9 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 15 of 58 report an effect size · 96 claims rest on one study
+> **Evidence** · 102 claims (64 show a difference, 17 mixed, 21 no difference) · 59 studies (23 associational, 12 causal, 11 review, 9 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 15 of 59 report an effect size · 100 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -135,6 +135,10 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [SEL programs with explicit skill teaching and regular practice can promote preschool EF, possibly including inhibitory control](../claims/sel-programs-preschool-ef-efficacy.md) [+W] — instruction changes it
 - [Working memory span, updating, and cognitive flexibility positively predict English writing, response inhibition positively predicts reading, and working memory span negatively predicts listening](../claims/ef-components-predict-english-subskills-network.md) [~M] — learners who differ on it differ in outcomes
 - [Verbal working memory positively and inhibitory control negatively relate to accuracy in the contrasting multiple-choice task](../claims/working-memory-and-inhibitory-control-contrasting-task.md) [+M] — learners who differ on it differ in outcomes
+- [Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school](../claims/executive-functions-mediate-autonomy-support-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Indirect effects via executive functions hold for CPT inhibition, sustained attention, and delay of gratification indicators but not the Day-Night Stroop](../claims/stroop-indicator-mediation-nonsignificant.md) [~M] — learners who differ on it differ in outcomes
+- [Mothers' early autonomy support uniquely predicts children's executive functions at 54 months over and above warmth, cognitive stimulation, and covariates](../claims/autonomy-support-predicts-executive-functions-54-months.md) [+M] — instruction changes it
+- [The mediating role of executive functions remains significant when children's temperament and vocabulary are modeled as alternative mediators](../claims/ef-mediation-robust-to-temperament-vocabulary.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

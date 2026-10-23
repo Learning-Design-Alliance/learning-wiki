@@ -15,7 +15,7 @@ grain_size: lesson
 # Develop Understanding
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 26 claims (13 for, 11 mixed, 2 against) · 41 studies (17 causal, 9 review, 8 quant-synthesis, 4 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 7 of 41 report an effect size · 18 claims rest on one study
+> **Evidence** · 28 claims (13 for, 13 mixed, 2 against) · 42 studies (18 causal, 9 review, 8 quant-synthesis, 4 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 8 of 42 report an effect size · 20 claims rest on one study
 
 ## Description and scope
 
@@ -146,6 +146,8 @@ This pattern is scoped to building understanding of a `concept` or `principle` o
 - [Prompting self-explanation in a physics electricity unit led to accelerated future learning in a subsequent magnetism unit](../claims/self-explanation-accelerated-future-learning-physics.md) [+W]
 - [Conceptual change interventions in biology produce large effects on conceptual understanding compared with traditional teaching, with refutational text the most effective single intervention type](../claims/biology-cc-interventions-large-effects-refutational-text-best.md) [~W]
 - [Active-processing focus-support techniques such as testing, self-explaining, concept mapping, and drawing show positive effects on learning](../claims/focus-support-active-processing-techniques-positive-effects.md) [+W]
+- [Monitoring activities and metacomprehension accuracy serially mediated the effect of in-between versus after-study explaining on conceptual learning (Experiment 1)](../claims/monitoring-metacomprehension-serial-mediation-explaining-timing.md) [~W]
+- [In-between explaining enhanced university students' conceptual knowledge more than after-study explaining (Experiment 1)](../claims/in-between-explaining-beats-after-study-explaining-conceptual-knowledge.md) [~M]
 
 ## Related Patterns
 - [Gagne's 9 Events of Instruction](gagnes-9-events-of-instruction.md)

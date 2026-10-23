@@ -56,3 +56,4 @@ The review reports, citing McCafferty et al. (2001), a preliminary study applyin
 - [Effort investment is driven differently in CLT (data-driven, task difficulty) versus SRL theories (goal-driven, motivation)](effort-drivers-data-driven-vs-goal-driven.md) — related
 - [Motivational processes are proposed to be instrumental for essential as well as generative processing](motivation-essential-processing-claim.md) — related
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
+- [In-between learning activities increased invested mental effort in reading the second text unit (Experiment 2)](in-between-activities-raise-mental-effort-second-text-unit.md) — related

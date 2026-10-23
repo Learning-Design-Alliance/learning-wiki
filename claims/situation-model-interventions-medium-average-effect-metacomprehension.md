@@ -52,3 +52,4 @@ Random-effects meta-analysis of 28 effect sizes from 17 records comprising 2,236
 - [Diagramming scaffold also improves absolute metacomprehension accuracy for causal relations, extending the effect beyond relative accuracy](diagramming-improves-absolute-metacomprehension-accuracy.md) — related
 - [Generative and visualizing tasks improve metacomprehension and monitoring accuracy but show small or null effects on learning outcomes](generative-tasks-monitoring-accuracy-not-outcomes.md) — a narrower finding that bears on this claim
 - [Situation-model-approach interventions show a medium-sized positive effect on metacomprehension accuracy and a small direct effect on comprehension](situation-model-interventions-metacomprehension-effect.md) — related
+- [In-between explaining did not improve metacomprehension accuracy relative to other conditions in either experiment](no-metacomprehension-accuracy-effect-in-between-explaining.md) — related

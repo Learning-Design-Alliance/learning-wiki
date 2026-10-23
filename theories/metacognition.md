@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 445 claims (206 for, 217 mixed, 22 against) · 223 studies (107 causal, 48 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 81 of 223 report an effect size · 438 claims rest on one study
+> **Evidence** · 447 claims (207 for, 217 mixed, 23 against) · 224 studies (108 causal, 48 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 81 of 224 report an effect size · 440 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -488,6 +488,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Students feel quite confident about their monitoring and regulation judgments even before self-scoring](../claims/students-confident-judgments-before-self-scoring.md) [~W]
 - [Task performance does not affect primary school students' regulation accuracy awareness](../claims/task-performance-no-effect-regulation-awareness.md) [~W]
 - [Children's confidence in endorsing statements indicates they were not confused by hybrid statements](../claims/confidence-judgments-hybrid-not-confusion.md) [~W]
+- [Monitoring activities and metacomprehension accuracy serially mediated the effect of in-between versus after-study explaining on conceptual learning (Experiment 1)](../claims/monitoring-metacomprehension-serial-mediation-explaining-timing.md) [+W]
+- [In-between explaining did not improve metacomprehension accuracy relative to other conditions in either experiment](../claims/no-metacomprehension-accuracy-effect-in-between-explaining.md) [-W]
 
 ## The evidence by question
 

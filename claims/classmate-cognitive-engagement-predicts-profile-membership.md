@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: symonds-2021
     resource: "https://doi.org/10.1037/edu0000605"
-    title: "Symonds, J. E., Schreiber, J. B., & Torsney, B. M. (2021). Silver linings and storm clouds: Divergent profiles of momentary engagement emerge in response to the same task. Journal of Educational Psychology. https://doi.org/10.1037/edu0000605"
+    title: "Symonds, J. E., Schreiber, J. B., & Torsney, B. M. (2021). Silver linings and storm clouds: Divergent profiles of student momentary engagement emerge in response to the same task. Journal of Educational Psychology. https://doi.org/10.1037/edu0000605"
     author: "Symonds, J. E., Schreiber, J. B., & Torsney, B. M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Symonds 2021
 
-Symonds, J. E., Schreiber, J. B., & Torsney, B. M. (2021). Silver linings and storm clouds: Divergent profiles of momentary engagement emerge in response to the same task. Journal of Educational Psychology. https://doi.org/10.1037/edu0000605
+Symonds, J. E., Schreiber, J. B., & Torsney, B. M. (2021). Silver linings and storm clouds: Divergent profiles of student momentary engagement emerge in response to the same task. Journal of Educational Psychology. https://doi.org/10.1037/edu0000605
 
 `q2 · i?` · `associational · r2`
 

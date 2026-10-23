@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 79 claims (57 for, 21 mixed, 1 against) · 55 studies (19 associational, 13 review, 7 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 55 report an effect size · 73 claims rest on one study
+> **Evidence** · 81 claims (59 for, 21 mixed, 1 against) · 56 studies (20 associational, 13 review, 7 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 56 report an effect size · 75 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -134,6 +134,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Jointly considered, all three need-supportive practices are not each associated with classroom-level engagement (additive hypothesis not supported)](../claims/need-supportive-additive-hypothesis-fails.md) [~W] — attached 2026-10-23 from Olivier et al. (2021), which proposed "Global need-supportive teaching configuration: engagement depends on the global level across autonomy support, structure, and involvement".
 - [Greatest engagement benefits do not emerge in classrooms high on two or three need-supportive practices (synergistic hypothesis not supported)](../claims/need-supportive-synergistic-hypothesis-fails.md) [~W] — attached 2026-10-23 from Olivier et al. (2021), which proposed "Global need-supportive teaching configuration: engagement depends on the global level across autonomy support, structure, and involvement".
 - [Specific imbalance factors in autonomy support, structure, and involvement contribute to some aspects of classroom-level engagement](../claims/need-supportive-specific-imbalance-factors-contribute.md) [+W]
+- [Mothers' early autonomy support uniquely predicts children's executive functions at 54 months over and above warmth, cognitive stimulation, and covariates](../claims/autonomy-support-predicts-executive-functions-54-months.md) [+W] — attached 2026-10-23 from Bindman et al. (2015), which proposed "Self-Determination Theory-based account: autonomy-supportive parenting fosters executive functions via autonomous motivation and practice on challenging activities".
+- [Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school](../claims/executive-functions-mediate-autonomy-support-achievement.md) [+W] — attached 2026-10-23 from Bindman et al. (2015), which proposed "Self-Determination Theory-based account: autonomy-supportive parenting fosters executive functions via autonomous motivation and practice on challenging activities".
 
 ## The evidence by question
 

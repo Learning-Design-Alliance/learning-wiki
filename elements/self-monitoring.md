@@ -13,7 +13,7 @@ generated:
 # Self-Monitoring
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (5 for, 13 mixed) · 16 studies (6 causal, 6 quant-synthesis, 2 associational, 1 review, 1 theoretical), `q2`–`q4` · 6 of 16 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (6 for, 13 mixed) · 17 studies (7 causal, 6 quant-synthesis, 2 associational, 1 review, 1 theoretical), `q2`–`q4` · 6 of 17 report an effect size · 15 claims rest on one study
 
 ## Description
 Self-monitoring is the element in which learners track their own attention, behavior, progress, or accuracy during learning.
@@ -44,6 +44,7 @@ Self-monitoring is the element in which learners track their own attention, beha
 - [Secondary students tend to overestimate their text comprehension, though monitoring is relatively accurate in this sample](../claims/students-overestimate-text-comprehension-delayed-diagramming.md) [~W]
 - [Task performance does not affect primary school students' monitoring accuracy awareness](../claims/task-performance-no-effect-monitoring-awareness.md) [~W]
 - [Task performance does not affect primary school students' regulation accuracy awareness](../claims/task-performance-no-effect-regulation-awareness.md) [~W]
+- [Monitoring activities and metacomprehension accuracy serially mediated the effect of in-between versus after-study explaining on conceptual learning (Experiment 1)](../claims/monitoring-metacomprehension-serial-mediation-explaining-timing.md) [+W]
 
 ## The evidence by question
 - *Does having learners record their own on-task behaviour at set intervals improve that behaviour, and for whom?* [Self Monitoring Improves On Task Behavior](../claims/self-monitoring-improves-on-task-behavior.md) [+S]

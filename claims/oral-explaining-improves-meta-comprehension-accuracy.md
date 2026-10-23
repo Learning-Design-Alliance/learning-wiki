@@ -47,3 +47,4 @@ ANCOVA on meta-comprehension accuracy (bias) after the learning activity, contro
 - [Students report more mental effort and subjective difficulty during oral explaining than during retrieval practice](oral-explaining-higher-effort-difficulty-than-retrieval.md) — related
 - [Generating explanations (oral or written) outperforms retrieval practice on inference-based questions for the high-difficult text](explaining-outperforms-retrieval-high-difficult-text.md) — related
 - [Self-explaining does not improve retrospective monitoring accuracy, while problem complexity reduces it](self-explanation-null-complexity-hurts-monitoring.md) — related
+- [Explaining was not more effective than oral retrieval practice overall in Experiment 1](explaining-no-better-than-oral-retrieval-practice-exp1.md) — related

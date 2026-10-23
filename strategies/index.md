@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**6636 entries** · 0 stable · 6636 in review · 0 drafts
+**6637 entries** · 0 stable · 6637 in review · 0 drafts
 
 ---
 
@@ -4002,6 +4002,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Prioritizing Agency for Students With Disabilities](prioritizing_agency_for_students_with_disabilities.md) - Prioritizing agency for students with disabilities involves fostering self-advocacy and self-determination skills to enable them to engage more effectively in their education.
 * [Privacy-conscious, teacher-mediated GenAI implementation: anonymized feedback, pre-programmed prompts, and accessible original comments](privacy-conscious-teacher-mediated-genai-feedback-workflow.md) - The article's ethics section recommends a microethical implementation for the speaking classroom: students' oral production is not submitted to GenAI agents; instead \"students' anonymized feedback is sent to GenAI age...
 * [Privacy-preserving deployment measures for an ITS under GDPR and EU AI Act](gdpr-compliant-its-deployment-measures.md) - To operate the ITS in a German university regulatory environment, the authors implemented layered privacy measures: strict separation of IP address logs from the ITS, pseudonymous usernames, no e-mail storage beyond r...
+* [Private-study method: read one text through for general survey, then proceed topically with outlines](survey-then-topical-outline-study-method.md) - The committee prescribes a sequence for candidates studying privately for the psychology examinations: first a whole-text reading for breadth, then topic-by-topic work across the selected books with a brief outline of...
 * [Proactive planning of care and early identification of older adults with low health literacy and declining cognitive functioning](proactive-care-planning-early-identification-low-health-literacy.md) - The article recommends that healthcare professionals engage in proactive planning of care for older adults with both low health literacy and declining cognitive functioning.
 * [Probing Questions](probing_questions.md) - Probing questions push learners past initial answers by challenging assumptions, demanding evidence, and surfacing implications — deepening reasoning rather than testing recall.
 * [Problem Based Learning](problem-based-learning.md) - An instructional strategy in which learning is organized around collaboratively solving authentic, ill-structured problems before formal instruction, with the problem serving as both the stimulus and the organizing frame for learning.

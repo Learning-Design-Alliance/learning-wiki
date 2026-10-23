@@ -51,3 +51,5 @@ Moderation tests in the longitudinal SEM sample: Box's M for SES was significant
 - [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — related
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](social-functioning-fully-mediate-ec-achievement.md) — related
 - [Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation](no-moderators-life-events-self-control.md) — related
+- [The mediating role of executive functions remains significant when children's temperament and vocabulary are modeled as alternative mediators](ef-mediation-robust-to-temperament-vocabulary.md) — related
+- [Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school](executive-functions-mediate-autonomy-support-achievement.md) — related
