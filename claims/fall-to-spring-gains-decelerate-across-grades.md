@@ -50,3 +50,4 @@ Fixed-effects estimates from CP models fit to MAP Growth RIT scores (grades 2-6,
 - [Fall-to-spring growth rates in high school grades, particularly in reading, are often close to zero and can be negative](high-school-fall-spring-growth-near-zero.md) — a narrower finding that bears on this claim
 - [Within-year fall-to-spring gains are largest in second grade (about 13.4 RIT in math) and slow by roughly 1.4 RIT per year as students progress through elementary school](within-year-gains-largest-second-grade-then-slow.md) — related
 - [Assuming linear within-year achievement growth is often not justified, particularly in reading](linear-within-year-growth-assumption-unjustified-reading.md) — related
+- [Rate of improvement in addition practice shows negative acceleration, with the first half of practice the more productive](negative-acceleration-addition-practice-first-half-productive.md) — related

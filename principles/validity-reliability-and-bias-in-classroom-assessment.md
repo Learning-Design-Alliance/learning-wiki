@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 237 claims (98 for, 123 mixed, 16 against) · 176 studies (60 associational, 44 design, 26 review, 20 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 15 of 176 report an effect size · 231 claims rest on one study
+> **Evidence** · 240 claims (100 for, 124 mixed, 16 against) · 178 studies (61 associational, 44 design, 26 review, 21 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 15 of 178 report an effect size · 234 claims rest on one study
 
 ## Conditional relationship
 
@@ -212,6 +212,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Cronbach's alpha does not generally indicate the reliability of knowledge tests because knowledge is a heterogeneous construct](../claims/alpha-not-reliability-knowledge-tests.md) [+W] — attached 2026-10-22 from Peter A. Edelsbrunner et al. (2025), which proposed "Abandon fixed alpha cutoff values for knowledge tests; report alpha and its confidence interval for studying item interrelatedness instead"; tests this page's relationship.
 - [Individual children's memory span scores vary considerably between two testings five weeks apart](../claims/memory-span-individual-scores-vary-five-weeks.md) [+W] — attached 2026-10-23 from Mitchell (1918), which proposed "Do not grade a child's ability from a single examination, since performance varies from day to day"; tests this page's relationship.
 - [Test-retest correlations of memory span are low, questioning the validity of a single memory span test](../claims/low-memory-span-retest-correlations.md) [+W] — attached 2026-10-23 from Mitchell (1918), which proposed "Do not grade a child's ability from a single examination, since performance varies from day to day"; tests this page's relationship.
+- [Judgments of comprehension in oral reading rest on unaided subjective judgment with no guarantee of consistency across times or judges](../claims/oral-reading-judgment-subjective-unreliable.md) [+W] — attached 2026-10-23 from J. C. Bell (1919), which proposed "Pool the ratings of competent judges to build a scale of expression-comprehension in oral reading that steadies individual teachers' judgments".
 
 ## Objective and learner-valued goal
 
@@ -311,6 +312,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Retest reliability may be more appropriate than alpha for knowledge tests, but requires a testing interval without learning](../claims/retest-reliability-knowledge-tests.md) [~W]
 - [Configural and metric measurement invariance across time hold for nearly all constructs, but scalar invariance is problematic for several](../claims/measurement-invariance-self-concept-belief-scales.md) [~W]
 - [Group average memory span scores remain nearly identical across days while individual scores vary considerably](../claims/group-averages-stable-individuals-vary.md) [+W]
+- [Thorndike Scale Alpha appears to test comprehension of the questions as much as comprehension of the passage read](../claims/thorndike-scale-alpha-questions-not-passage.md) [+W]
+- [Intercorrelations among analyzed trait ratings show a spread of the general impression, and their size varies extremely with the rating method, from central tendencies of 0.3 to 0.9](../claims/trait-rating-spread-method-variable-intercorrelations.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

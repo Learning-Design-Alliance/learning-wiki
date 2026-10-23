@@ -45,3 +45,4 @@ Return postal cards sent to eight hundred and fifty freshmen who registered in 1
 ## Related Claims
 - [Freshmen rank lack of money as the leading cause of elimination, followed by ill-health; the authors attribute about 34 per cent of elimination to lack of means and 28 per cent to ill-health](money-and-health-leading-elimination-causes.md) — related
 - [Students with the least means studied the most and made the best grades, while students tired of school studied least and made relatively low grades](study-time-varies-by-elimination-cause-group.md) — related
+- [The questionnaire method failed to reach the views of the laggard students themselves, with only about one in six replying](questionnaire-low-response-from-laggards.md) — related

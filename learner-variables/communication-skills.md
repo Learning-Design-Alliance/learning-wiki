@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 65 claims (39 show a difference, 15 mixed, 11 no difference) · 53 studies (13 associational, 12 causal, 9 review, 7 quant-synthesis, 5 theoretical, 4 design, 3 qualitative), `q1`–`q3` · 10 of 53 report an effect size · 64 claims rest on one study
+> **Evidence** · 66 claims (40 show a difference, 15 mixed, 11 no difference) · 54 studies (13 causal, 13 associational, 9 review, 7 quant-synthesis, 5 theoretical, 4 design, 3 qualitative), `q1`–`q3` · 11 of 54 report an effect size · 65 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -106,6 +106,7 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [At the end of French first grade, T2 decoding skills and T2 lower level language skills predicted reading comprehension, but T2 discourse skills did not](../claims/t2-decoding-and-lll-predict-reading-comprehension.md) [~W] — learners who differ on it differ in outcomes
 - [End-of-first-grade reading comprehension in French pupils was predicted by T1 decoding precursors, T2 decoding skills and T2 LLL skills, with only marginal contribution of T2 discourse skills](../claims/sem2-final-prediction-profile-reading-comprehension.md) [~W] — learners who differ on it differ in outcomes
 - [Oral language skills did not significantly and positively predict the development of decoding skills during French first grade](../claims/oral-language-no-longitudinal-prediction-decoding.md) [-W] — learners who differ on it differ in outcomes
+- [Supported self-explaining produces higher-quality explanations of fraction magnitude differences than a word-problem component](../claims/supported-self-explaining-improves-explanation-quality.md) [+M] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

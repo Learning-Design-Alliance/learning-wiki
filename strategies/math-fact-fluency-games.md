@@ -60,9 +60,11 @@ Fluency games work because they embed high-frequency retrieval practice in a mot
 6. **Connect back to computation.** Follow game sessions with application tasks (multi-digit problems, word problems) so automaticity transfers to real mathematical work ([Application](../elements/application.md)).
 
 ## Related Strategies
+
 - Cover-Copy-Compare — a non-game fluency routine with similar retrieval-and-feedback structure
 - Number Talks — builds the conceptual derivation strategies that games then automatize
 - Spaced Retrieval Practice — the scheduling principle that governs which facts to revisit and when
+- [Properly administered speed drills in arithmetic to improve both amount done correctly and accuracy](speed-drills-improve-addition-accuracy.md)
 
 ## Examples
 - **[Reflex Math](https://www.reflexmath.com)** — adaptive digital game system that individualizes fact selection and coaches retrieval until automatic.

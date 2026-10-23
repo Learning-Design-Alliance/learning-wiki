@@ -45,3 +45,4 @@ GLMM interaction analyses in the APS subgroup (192 of 332 students) showed no no
 ## Related Claims
 - [First graders' whole number magnitude knowledge predicts eighth graders' fraction magnitude knowledge after controlling for arithmetic, cognitive, and demographic variables](wn-magnitude-grade1-predicts-fraction-magnitude-middle-school.md) — related
 - [Advanced-placement students outperformed vocational-school students on most learner characteristics, with large effect sizes except interest](school-track-differences-learner-characteristics.md) — related
+- [The multi-component measurement-focused fraction intervention outperforms part-whole-focused control on NAEP items, number line estimation, and calculations](measurement-fraction-intervention-beats-control-generalized-knowledge.md) — related

@@ -60,9 +60,11 @@ Fluency drills operationalize the [Behaviorism](../theories/behaviorism.md) trad
 6. Retire facts that meet the fluency criterion and introduce new ones; keep sessions short and daily.
 
 ## Related Strategies
+
 - **Spaced retrieval practice** — the scheduling principle that makes drill durable rather than cram-based
 - **Cover–copy–compare** — a self-managed drill variant suitable for independent work
 - **Mastery-based progression** — the criterion-referenced advancement logic drills should follow
+- [Properly administered speed drills in arithmetic to improve both amount done correctly and accuracy](speed-drills-improve-addition-accuracy.md)
 
 ## Examples
 - **[Reflex Math](https://www.reflexmath.com)** — adaptive math-fact fluency game that individualizes fact sets and uses fluency criteria to advance students.

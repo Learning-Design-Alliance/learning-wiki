@@ -75,3 +75,4 @@ In Experiment 2's stepwise regression, the rereading-vs-once dummy variable was 
 - [Relationships between individual differences and final test performance were nonsignificant in retrieval practice conditions but significant in the rereading condition](individual-difference-correlations-vary-by-strategy-condition.md) — related
 - [High-performing readers use more monitoring strategies while under-performing readers rely more on cognitive strategies like memorization](high-performers-monitor-more-than-low-performers.md) — related
 - [In-between explaining triggered more monitoring of knowledge gaps than after-study explaining (Experiment 1)](in-between-explaining-increases-monitoring-activities.md) — related
+- [Working memory compensatorily moderates the explaining intervention's advantage: supported self-explaining benefits students with weaker working memory most](working-memory-compensatory-moderator-self-explaining.md) — reports the opposite

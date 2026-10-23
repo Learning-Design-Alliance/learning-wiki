@@ -74,3 +74,4 @@ Per-code endorsement analysis of contested codes; the article states this patter
 - [Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation](non-verifiability-crisis-llm-judges-misalign.md) — related
 - [During member checks, multilingual 8th-grade students contested both LLM classifications of their talk and the coding scheme itself, especially the Off-task and Claim codes](students-contest-llm-talk-classifications-and-coding-scheme.md) — related
 - [The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain](judge-calibration-labels-strong-severity-uneven.md)
+- [Judgments of comprehension in oral reading rest on unaided subjective judgment with no guarantee of consistency across times or judges](oral-reading-judgment-subjective-unreliable.md) — related

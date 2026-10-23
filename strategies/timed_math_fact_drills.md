@@ -67,6 +67,7 @@ Fluency in basic facts is a well-documented predictor of later mathematics achie
 - [Incremental Rehearsal](incremental-rehearsal.md) — the high-success variant for struggling learners
 - [Cover-Copy-Compare](cover-copy-compare.md) — a self-managed, untimed alternative
 - [Use CRA-based small-group math tutoring with scripts, manipulatives, and computer fact practice as secondary prevention](cra-small-group-math-tutoring-secondary-prevention.md)
+- [Properly administered speed drills in arithmetic to improve both amount done correctly and accuracy](speed-drills-improve-addition-accuracy.md)
 
 ## Examples
 - **[Reflex Math](https://www.reflexmath.com)** — adaptive game-based fact fluency software that individualizes fact sets and uses fluency milestones rather than class speed rankings.

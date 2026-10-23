@@ -40938,5 +40938,97 @@
  "practice-amount\tdrill work\tnon-drill work": {
   "label": "drill vs non-drill",
   "treatment_is_a": true
+ },
+ "explicit-instruction\tword-problem fraction intervention\tcontrol condition": {
+  "label": "explicit instruction vs control",
+  "treatment_is_a": true
+ },
+ "media-design\tauthentic-setting screenshot presented as the test background\tneutral-setting screenshot presented as the test background": {
+  "label": "authentic-setting media vs neutral-setting media",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructional video shot in an authentic greenhouse setting\tinstructional video shot in front of a neutral white wall": {
+  "label": "authentic-setting media vs neutral-setting media",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructional video shot in an authentic setting\tinstructional video shot in a neutral setting": {
+  "label": "authentic-setting media vs neutral-setting media",
+  "treatment_is_a": true
+ },
+ "media-design\tvideo shot in an authentic greenhouse setting\tvideo shot in front of a white wall": {
+  "label": "authentic-setting media vs neutral-setting media",
+  "treatment_is_a": true
+ },
+ "media-design\tvisual presentation using mimeographed questions\toral presentation of questions": {
+  "label": "visual question presentation vs oral question presentation",
+  "treatment_is_a": true
+ },
+ "practice-amount\t90 minutes of distributed addition practice\tinitial and final tests with no intervening practice": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t90 minutes of distributed addition practice\tinitial and final tests without intervening practice": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tFirst half of the practice\tSecond half of the practice": {
+  "label": "first half vs second half of practice",
+  "treatment_is_a": true
+ },
+ "self-explanation\texplaining intervention\tword-problem intervention": {
+  "label": "self-explanation vs word-problem solving",
+  "treatment_is_a": true
+ },
+ "self-explanation\tsupported self-explaining fraction intervention\tcontrol condition": {
+  "label": "self-explanation vs control",
+  "treatment_is_a": true
+ },
+ "self-explanation\tsupported self-explaining fraction intervention\tword-problem fraction intervention": {
+  "label": "self-explanation vs word-problem solving",
+  "treatment_is_a": true
+ },
+ "spacing\tlonger practice periods\tshorter practice periods": {
+  "label": "longer vs shorter practice periods",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple true-false examinations\tmultiple essay examinations": {
+  "label": "true-false tests vs essay examinations",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple true-false tests\tmultiple essay examinations": {
+  "label": "true-false tests vs essay examinations",
+  "treatment_is_a": true
+ },
+ "test-format\tone true-false examination\tone essay examination": {
+  "label": "true-false tests vs essay examinations",
+  "treatment_is_a": true
+ },
+ "test-format\tsingle true-false test\tsingle essay examination": {
+  "label": "true-false tests vs essay examinations",
+  "treatment_is_a": true
+ },
+ "test-format\tsingle true-false test\twritten work": {
+  "label": "true-false tests vs written work",
+  "treatment_is_a": true
+ },
+ "test-format\tthree or four true-false tests\tequal number of essay examinations": {
+  "label": "true-false tests vs essay examinations",
+  "treatment_is_a": true
+ },
+ "test-format\ttrue-false examination\tessay examination": {
+  "label": "true-false tests vs essay examinations",
+  "treatment_is_a": true
+ },
+ "test-format\ttrue-false examination\twritten work": {
+  "label": "true-false tests vs written work",
+  "treatment_is_a": true
+ },
+ "test-format\ttrue-false tests\tessay examinations": {
+  "label": "true-false tests vs essay examinations",
+  "treatment_is_a": true
+ },
+ "test-format\ttwo to five true-false tests\ttwo to five essay examinations": {
+  "label": "true-false tests vs essay examinations",
+  "treatment_is_a": true
  }
 }

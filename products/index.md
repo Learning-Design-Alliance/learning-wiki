@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1867 entries** · 0 stable · 1867 in review · 0 drafts
+**1869 entries** · 0 stable · 1869 in review · 0 drafts
 
 ---
 
@@ -933,6 +933,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Long Beach Early Learning Hub](long-beach-early-learning-hub.md) - An online child-care and early-learning enrollment and assistance-finding platform developed collaboratively and hosted by the Mayor's Fund for Long Beach.
 * [Longitudinal middle-school ITS log dataset with weekly engagement targets](longitudinal-middle-school-its-log-dataset-with-weekly-engagement-targets.md) - A longitudinal dataset of web-based intelligent tutoring system activity from 425 middle-school mathematics students, providing timestamped interaction logs and weekly practice-effort and skill-mastery targets for learning-analytics research.
 * [Longitudinal SEL dataset from a large urban district with about 3,000 students per timepoint](longitudinal-sel-dataset-from-a-large-urban-district-with-about-3000-students-per-timepoin.md) - A four-year longitudinal dataset of students' social-emotional learning scores used to model SEL status and growth as predictors of ninth-grade academic risk.
+* [Longitudinal sociometric and video-coded teacher behavior dataset from 1,420 fifth-grade students in 56 classes](longitudinal-sociometric-and-video-coded-teacher-behavior-dataset-from-1420-fifth-grade-st.md) - A research dataset assembled by Hendrickx et al.
 * [Longitudinal student-level dataset on entry, exit, attrition, and replacement in KIPP middle schools](longitudinal-student-level-dataset-on-entry-exit-attrition-and-replacement-in-kipp-middle.md) - A longitudinal student-level dataset assembled by Ira Nichols-Barrer and colleagues to track entry, exit, attrition, and replacement in KIPP middle schools and compare student flows with nearby district-run schools.
 * [Looking in Classrooms](looking-in-classrooms.md) - A textbook on effective teaching and classroom observation authored by Jere Brophy and Thomas Good for undergraduate and graduate education students.
 * [Loss and Momentum Framework for community college student progression](loss-and-momentum-framework-for-community-college-student-progression.md) - A framework associated with Pathways Analysis that organizes community-college progression into connection, entry, progress, and completion stages and links common loss points to institutional momentum strategies.
@@ -1837,6 +1838,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [VISIGARP](visigarp.md) - VISIGARP is a domain-independent SWI-PROLOG/XPCE educational tool that generates interactive diagrams from GARP qualitative simulations so students can inspect system states, transitions, causal dependencies, and entity relations.
 * [Vision to Learn (VTL)](vision-to-learn-vtl.md) - Vision to Learn is a nonprofit school-based vision programme that provides low-income students with screenings, comprehensive eye examinations, and free corrective glasses through mobile clinics and partner schools.
 * [VISMATIC](vismatic.md) - A secured, low-cost JupyterHub sandbox and process-monitoring framework developed by Germán Arroyo et al.
+* [Visual immediate-memory test of twelve consonants used as a fatigue measure in day school children](visual-immediate-memory-test-of-twelve-consonants-used-as-a-fatigue-measure-in-day-school.md) - A timed visual immediate-memory assessment developed and used by W.
 * [Visual4Math](visual4math.md) - Visual4Math is a web-based prototype developed by Zhengxu Li et al.
 * [VITAL (Visibly Improve Teaching and Learning) professional learning service](vital-visibly-improve-teaching-and-learning-professional-learning-service.md) - WestEd's VITAL service builds K–12 teachers' capacity for collaborative inquiry through structured teaching-and-learning cycles, peer feedback, reflection, and analysis of student and teacher learning.
 * [Vocabulary gloss questionnaire (24 items on gloss exposure and perceived effectiveness)](vocabulary-gloss-questionnaire-24-items-on-gloss-exposure-and-perceived-effectiveness.md) - A Chinese-language 24-item questionnaire developed by Cheng et al.

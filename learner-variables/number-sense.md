@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 88 claims (61 show a difference, 18 mixed, 9 no difference) · 35 studies (20 associational, 7 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 13 of 35 report an effect size · 86 claims rest on one study
+> **Evidence** · 92 claims (64 show a difference, 18 mixed, 10 no difference) · 37 studies (21 associational, 8 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 14 of 37 report an effect size · 90 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -123,6 +123,10 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Symbolic magnitude comparison is a stronger longitudinal predictor of mathematical achievement than nonsymbolic comparison](../claims/symbolic-stronger-predictor-than-nonsymbolic.md) [+M] — learners who differ on it differ in outcomes
 - [The relation between fraction magnitude understanding and mathematics achievement is a general cognitive characteristic, not attributable to specifics of the U.S. educational system, though instruction quality may strengthen or weaken it](../claims/magnitude-achievement-relation-general-cognitive.md) [+M] — learners who differ on it differ in outcomes
 - [The practiced group exceeded the control group on three of five tests (complex dotting, number code, letter code translation) by 5, 9, and 15 percent respectively, but did no better on digit-symbol substitution and slightly worse on digit-letter substitution.](../claims/code-practice-partial-transfer-three-tests.md) [~M] — instruction changes it
+- [Decimal magnitude comparison accuracy is unrelated to direction of effect judgment accuracy, indicating the errors do not stem from poor access to decimal magnitudes](../claims/decimal-magnitude-comparison-unrelated-direction-of-effect.md) [-M] — learners who differ on it differ in outcomes
+- [Supported self-explaining improves accuracy of fraction magnitude comparisons more than a word-problem intervention component in at-risk fourth graders](../claims/supported-self-explaining-improves-magnitude-comparison-accuracy.md) [+W] — instruction changes it
+- [Supported self-explaining produces higher-quality explanations of fraction magnitude differences than a word-problem component](../claims/supported-self-explaining-improves-explanation-quality.md) [+M] — instruction changes it
+- [The multi-component measurement-focused fraction intervention outperforms part-whole-focused control on NAEP items, number line estimation, and calculations](../claims/measurement-fraction-intervention-beats-control-generalized-knowledge.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

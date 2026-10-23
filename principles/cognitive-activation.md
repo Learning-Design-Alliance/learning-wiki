@@ -31,7 +31,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (12 for, 14 mixed, 2 against) · 33 studies (15 causal, 4 quant-synthesis, 4 review, 4 associational, 4 theoretical, 2 design), `q1`–`q4` · 6 of 33 report an effect size · 22 claims rest on one study
+> **Evidence** · 30 claims (14 for, 14 mixed, 2 against) · 34 studies (16 causal, 4 quant-synthesis, 4 review, 4 associational, 4 theoretical, 2 design), `q1`–`q4` · 7 of 34 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,8 @@ Re-read 2026-10-19: every claim listed here before that date was read against th
 - [Instructor-scripted self-explanation prompts have limitations, motivating computer-generated prompts](../claims/computer-generated-self-explanation-prompts-recommendation.md) [~W] — read 2026-10-19: a future-research recommendation in the Bisra et al. meta-analysis, not a tested comparison; relevant to the online and AI rows if evidence on generated prompts is recorded.
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](../claims/error-correction-effort-supports-learning.md) [+W] — read 2026-10-19; now in the AI row.
 - [Self-explanation prompts improve learning outcomes with an overall weighted mean effect size of g = .55](../claims/generative-processing-improves-learning.md) [+W] — read 2026-10-19; the same Bisra et al. synthesis as the self-explanation claim, now in the evidence list.
+- [Working memory compensatorily moderates the explaining intervention's advantage: supported self-explaining benefits students with weaker working memory most](../claims/working-memory-compensatory-moderator-self-explaining.md) [+W] — attached 2026-10-23 from Fuchs et al. (2016), which proposed "Use supported self-explaining to compensate for weak working memory in at-risk learners".
+- [Supported self-explaining improves accuracy of fraction magnitude comparisons more than a word-problem intervention component in at-risk fourth graders](../claims/supported-self-explaining-improves-magnitude-comparison-accuracy.md) [+W] — attached 2026-10-23 from Fuchs et al. (2016), which proposed "Use supported self-explaining to compensate for weak working memory in at-risk learners"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -57,6 +57,7 @@ The commentary recommends that instructors "use frequent, low-stakes, cumulative
 - [Incorporating Methods for Self-Testing](incorporating_methods_for_self-testing.md)
 - [Low Stakes Quizzing](low-stakes-quizzing.md)
 - [Lecturers should implement online practice tests with automatically generated individual corrective item feedback and encourage steady participation](implement-online-practice-tests-with-corrective-feedback.md)
+- [Use true-false examinations with immediate self-correction and public display of scores as a time-saving teaching and assessment routine](true-false-immediate-correction-display-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Reliability analysis of the six operational reading data sets (Data A-F), compar
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
 - [PPMC-N detects local dependence in dichotomous IRT models comparably to the Bayesian PPMC approach](ppmc-n-comparable-to-bayesian-ppmc-local-dependence.md) — related
 - [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related
+- [Thorndike Scale Alpha appears to test comprehension of the questions as much as comprehension of the passage read](thorndike-scale-alpha-questions-not-passage.md) — related
