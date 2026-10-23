@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 184 claims (83 for, 87 mixed, 14 against) · 139 studies (51 causal, 27 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 36 of 139 report an effect size · 162 claims rest on one study
+> **Evidence** · 185 claims (83 for, 88 mixed, 14 against) · 140 studies (52 causal, 27 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 36 of 140 report an effect size · 163 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -232,6 +232,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Feedback targeting reading self-efficacy had a positive effect on motivation, while error-focused feedback and rewards had mixed effects on long-term interest and engagement](../claims/feedback-motivation-self-efficacy-positive-rewards-mixed.md) [+W]
 - [Learners are more willing to act on feedback when they perceive the sender as credible and trustworthy](../claims/sender-credibility-supports-feedback-use.md) [+W]
 - [Curriculum and assessment design factors, including modular structure, feedback timing, and overlap between consecutive assessments, are proposed to moderate feedback use](../claims/curriculum-design-moderates-feedback-use.md) [~W]
+- [Elaborated feedback did not significantly outperform non-elaborated KR feedback on achievement](../claims/elaborated-not-superior-to-kr-feedback.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

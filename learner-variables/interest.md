@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 153 claims (114 show a difference, 22 mixed, 17 no difference) · 117 studies (42 causal, 28 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 29 of 117 report an effect size · 147 claims rest on one study
+> **Evidence** · 159 claims (117 show a difference, 25 mixed, 17 no difference) · 118 studies (42 causal, 29 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 30 of 118 report an effect size · 153 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -188,6 +188,12 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [In the Forward temporal model, initial enjoyment predicted later engagement, while initial boredom did not and emotions were unrelated to later raw performance](../claims/forward-model-enjoyment-engagement-temporal.md) [~M] — learners who differ on it differ in outcomes
 - [Reciprocal relations: initial task engagement predicted later enjoyment in the Reverse model](../claims/reverse-model-engagement-predicts-enjoyment.md) [+M] — learners who differ on it differ in outcomes
 - [Topic-related interest, but not importance, utility, or self-efficacy, predicted task-related enjoyment while secondary students learned with an ITS](../claims/interest-predicts-task-enjoyment-its.md) [+M] — learners who differ on it differ in outcomes
+- [Achievement scores correlate very strongly across the three domains while enjoyment correlations are small to medium](../claims/achievement-domain-correlations-very-large-enjoyment-small.md) [+M] — instruction changes it
+- [Achievement-enjoyment effects are relatively robust to country-level moderators (HDI, Education Index, GDP per capita), except a stronger student-achievement effect on reading enjoyment in higher-HDI countries](../claims/country-moderators-hdi-gdp-achievement-enjoyment.md) [~M] — instruction changes it
+- [Class-average achievement negatively predicts student enjoyment across math, science, and reading (the Happy-Fish-Little-Pond Effect), with the reading effect trivially small](../claims/hflpe-class-average-achievement-negative-enjoyment.md) [~M] — instruction changes it
+- [Girls show higher reading enjoyment and lower math enjoyment than boys, with no science enjoyment difference, after controlling for achievement, SES, and age](../claims/gender-differences-enjoyment-reading-math.md) [~M] — instruction changes it
+- [Student-level achievement positively predicts enjoyment in math, science, and reading among fourth graders](../claims/student-achievement-positively-predicts-enjoyment-three-domains.md) [+M] — instruction changes it
+- [The effect of student achievement on enjoyment is largely consistently positive across 37 countries, while the size of the negative class-average effect varies from country to country](../claims/hflpe-cross-national-generalizability-enjoyment.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

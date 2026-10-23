@@ -67,3 +67,4 @@ Bootstrapped moderated mediation indices (5,000 resamples) for the three emotion
 - [Academics and students experienced both positive and negative emotions in relation to GenAI.](genai-assessment-positive-negative-emotions.md) — related
 - [GenAI training attenuates the predictive effect of prior GenAI experience on revision performance](training-attenuates-genai-experience-effect.md) — a narrower finding that bears on this claim
 - [Perceived AI literacy moderates the direct path: the negative GenAI use–trust association is significant at low literacy and non-significant at high literacy](perceived-ai-literacy-buffers-direct-trust-association.md) — related
+- [Protective factors attenuate the effects of risk as risk rises, producing gap-closing effects represented analytically as Risk × Protective Factor interactions](protective-factors-gap-closing-interactions.md) — a broader claim this one bears on

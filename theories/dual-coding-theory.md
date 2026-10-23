@@ -12,7 +12,7 @@ generated:
 # Dual Coding Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 5 studies (3 review, 1 causal, 1 qualitative), `q2`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 6 studies (3 review, 2 causal, 1 qualitative), `q2`–`q3` · 0 of 6 report an effect size · 9 claims rest on one study
 
 ## Description
 Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems. Learning can improve when instruction coordinates language with meaningful imagery or other visual representation.
@@ -31,6 +31,9 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 - [Students perceived data comics as more accessible, more engaging, and easier to retain information from than conventional visualisations](../claims/students-perceive-data-comics-accessible-engaging-memorable.md) [+W]
 - [Verbal labels have a special status in influencing visual processing beyond mere association](../claims/verbal-labels-special-status-visual-processing.md) [+W]
 - [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](../claims/synced-audio-visual-presentation-better-learning.md) [+W]
+- [Third graders taught with simultaneous speech and gesture retain math equivalence problems better at a one-day delay than children taught the same strategies sequentially](../claims/simultaneous-speech-gesture-next-day-retention.md) [+W] — attached 2026-10-23 from Congdon Eliza L. et al. (2017), which proposed "Simultaneity account of gesture's effect on learning: temporal synchrony between speech and gesture enables integration of complementary messages"; tests this page's relationship.
+- [The simultaneous speech-and-gesture advantage on math equivalence persists at a four-week delay on both basic and generalization problems](../claims/simultaneous-speech-gesture-four-week-retention.md) [+W] — attached 2026-10-23 from Congdon Eliza L. et al. (2017), which proposed "Simultaneity account of gesture's effect on learning: temporal synchrony between speech and gesture enables integration of complementary messages"; tests this page's relationship.
+- [Using two modalities per se does not drive the benefit: sequential speech-then-gesture instruction performed no better than speech-only instruction](../claims/multiple-modalities-alone-insufficient.md) [~W] — attached 2026-10-23 from Congdon Eliza L. et al. (2017), which proposed "Simultaneity account of gesture's effect on learning: temporal synchrony between speech and gesture enables integration of complementary messages".
 
 ## Related Theories
 

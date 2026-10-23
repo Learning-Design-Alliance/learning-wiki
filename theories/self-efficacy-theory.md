@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 77 claims (51 for, 24 mixed, 2 against) · 57 studies (25 associational, 14 review, 13 causal, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 14 of 57 report an effect size · 76 claims rest on one study
+> **Evidence** · 78 claims (51 for, 25 mixed, 2 against) · 58 studies (26 associational, 14 review, 13 causal, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 14 of 58 report an effect size · 77 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -124,6 +124,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Country and school level moderate the relationship between CMSE and many correlates](../claims/cmse-country-school-level-moderators.md) [~W]
 - [Teacher burnout dimensions show the strongest correlations with CMSE among teacher-level psychometric constructs](../claims/cmse-teacher-burnout-strongest-teacher-level-correlate.md) [~W]
 - [Teachers with higher self-efficacy report higher instructional quality at the individual teacher level, with congruent domain-specific associations](../claims/teacher-level-self-efficacy-instructional-quality-association.md) [+W] — attached 2026-10-22 from Holzberger et al. (2021), which proposed "Multilevel motivation-to-performance framework: teacher self-efficacy modeled at both individual and school level with context effects and cross-level interactions"; tests this page's relationship.
+- [Higher education teachers' self-efficacy beliefs at semester start positively predict students' end-of-course overall rating, learning, and joy, and negatively predict boredom](../claims/teacher-self-efficacy-predicts-student-teaching-quality-emotions.md) [~W]
 
 ## The evidence by question
 

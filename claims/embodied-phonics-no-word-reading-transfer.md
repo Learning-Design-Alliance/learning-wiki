@@ -54,3 +54,4 @@ Null result from the RCT's word reading measures (standardized test, reading wit
 - [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) — related
 - [Whole-body movement teaching improves matching of conditional letter-sounds to letters at retention compared with non-motor teaching](whole-body-improves-conditional-sound-matching-retention.md) — related
 - [Embodied learning gains do not differ between low and high baseline performers within the movement group](no-low-high-performer-difference-within-move.md) — related
+- [MAST significantly improves language in four-to-five-year-old children (d = 0.2)](mast-improves-language-first-year-school.md) — related

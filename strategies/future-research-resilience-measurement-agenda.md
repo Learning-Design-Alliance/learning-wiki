@@ -44,7 +44,8 @@ The review's forward-looking recommendation is that the field move beyond compos
 - [Global-fit evidence does not clearly favor unidimensional over multidimensional academic resilience measurement models, as fit-index pass rates diverge by index](../claims/dimensionality-evidence-mixed-resilience-scales.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Future academic resilience work should add resilience measures to longitudinal LD datasets and combine person-centered (e.g., LPA) with variable-centered analyses](longitudinal-person-centered-resilience-methods.md)
 
 ## Examples
 -

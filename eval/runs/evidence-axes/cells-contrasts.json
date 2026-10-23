@@ -40162,5 +40162,65 @@
  "other\t1990s\t2010s": {
   "label": "2010s vs 1990s",
   "treatment_is_a": false
+ },
+ "feedback-type\telaborated conceptual feedback\telaborated procedural feedback": {
+  "label": "Elaborated conceptual feedback vs elaborated procedural feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\telaborated conceptual feedback\tknowledge of result feedback": {
+  "label": "Elaborated conceptual feedback vs knowledge of result feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\telaborated conceptual feedback\tno feedback": {
+  "label": "Elaborated conceptual feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\telaborated procedural feedback\tknowledge of result feedback": {
+  "label": "Elaborated procedural feedback vs knowledge of result feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\telaborated procedural feedback\tno feedback": {
+  "label": "Elaborated procedural feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "media-design\tfirst-person recording angle\tthird-person recording angle": {
+  "label": "first-person recording angle vs third-person recording angle",
+  "treatment_is_a": true
+ },
+ "media-design\tfirst-person video modeling examples\tthird-person video modeling examples": {
+  "label": "first-person recording angle vs third-person recording angle",
+  "treatment_is_a": true
+ },
+ "media-design\tfirst-person video recording\tthird-person video recording": {
+  "label": "first-person recording angle vs third-person recording angle",
+  "treatment_is_a": true
+ },
+ "media-design\tfull alignment of recording, expected, and task angles\tno full alignment of the three angles": {
+  "label": "full alignment of recording, expected-task, and task angles vs no full alignment",
+  "treatment_is_a": true
+ },
+ "media-design\trecording angle matched expected task angle\trecording angle mismatched expected task angle": {
+  "label": "recording angle matched to expected task angle vs mismatched",
+  "treatment_is_a": true
+ },
+ "media-design\trecording angle × task angle interaction\tno recording angle × task angle interaction": {
+  "label": "recording-angle × task-angle interaction vs no interaction",
+  "treatment_is_a": true
+ },
+ "media-design\tsimultaneous speech and gesture\tsequential speech and gesture or speech only": {
+  "label": "simultaneous speech and gesture vs sequential or speech-only delivery",
+  "treatment_is_a": true
+ },
+ "media-design\tsimultaneous speech and gesture\tsequential speech followed by gesture": {
+  "label": "simultaneous speech and gesture vs sequential speech followed by gesture",
+  "treatment_is_a": true
+ },
+ "media-design\tsimultaneous speech and gesture\tspeech-only sequential strategies": {
+  "label": "simultaneous speech and gesture vs speech-only sequential strategies",
+  "treatment_is_a": true
+ },
+ "media-design\tspeech-only sequential strategies\tsequential speech followed by gesture": {
+  "label": "sequential speech followed by gesture vs speech-only sequential strategies",
+  "treatment_is_a": false
  }
 }

@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (77 show a difference, 27 mixed, 9 no difference) · 77 studies (23 associational, 20 causal, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 17 of 77 report an effect size · 110 claims rest on one study
+> **Evidence** · 124 claims (82 show a difference, 33 mixed, 9 no difference) · 80 studies (26 associational, 20 causal, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 18 of 80 report an effect size · 121 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -148,6 +148,17 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Within persons, state mastery goals positively predict enjoyment and negatively predict boredom and anger in the classroom](../claims/state-mastery-goals-predict-enjoyment-boredom-anger-within-persons.md) [+M] — instruction changes it
 - [Within persons, state performance-approach goals predict pride and state performance-avoidance goals predict anxiety and shame](../claims/state-performance-goals-predict-pride-anxiety-shame-within-persons.md) [+M] — instruction changes it
 - [In the Forward temporal model, initial enjoyment predicted later engagement, while initial boredom did not and emotions were unrelated to later raw performance](../claims/forward-model-enjoyment-engagement-temporal.md) [~M] — learners who differ on it differ in outcomes
+- [Achievement emotion regulation strategies are linked to students' target emotions, with reappraisal and competence development showing the most pronounced relations](../claims/strategies-linked-to-target-emotions-reappraisal-competence-pronounced.md) [+M] — instruction changes it
+- [Achievement emotion regulation strategies relate to well-being, health, and academic achievement across three studies](../claims/strategies-relate-wellbeing-health-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Achievement scores correlate very strongly across the three domains while enjoyment correlations are small to medium](../claims/achievement-domain-correlations-very-large-enjoyment-small.md) [+M] — learners who differ on it differ in outcomes
+- [Achievement-enjoyment effects are relatively robust to country-level moderators (HDI, Education Index, GDP per capita), except a stronger student-achievement effect on reading enjoyment in higher-HDI countries](../claims/country-moderators-hdi-gdp-achievement-enjoyment.md) [~M] — instruction changes it
+- [Class-average achievement negatively predicts student enjoyment across math, science, and reading (the Happy-Fish-Little-Pond Effect), with the reading effect trivially small](../claims/hflpe-class-average-achievement-negative-enjoyment.md) [~M] — instruction changes it
+- [Girls show higher reading enjoyment and lower math enjoyment than boys, with no science enjoyment difference, after controlling for achievement, SES, and age](../claims/gender-differences-enjoyment-reading-math.md) [~W] — instruction changes it
+- [Including control and value variables substantially reduced the effects of student- and class-level achievement on enjoyment, consistent with control-value theory](../claims/control-value-variables-reduce-achievement-enjoyment-effects.md) [~M] — instruction changes it
+- [Session-specific performance-approach goals were positively related to students' overall rating and learning and negatively to boredom, while performance-avoidance goals showed the opposite pattern](../claims/session-specific-performance-goals-student-experiences.md) [+M] — instruction changes it
+- [Student-level achievement positively predicts enjoyment in math, science, and reading among fourth graders](../claims/student-achievement-positively-predicts-enjoyment-three-domains.md) [+M] — instruction changes it
+- [The effect of student achievement on enjoyment is largely consistently positive across 37 countries, while the size of the negative class-average effect varies from country to country](../claims/hflpe-cross-national-generalizability-enjoyment.md) [~M] — instruction changes it
+- [Unexpected session-level associations: task goals positively predicted joy, relational goals negatively predicted learning and boredom, and learning goals negatively predicted overall rating and positively predicted boredom](../claims/unexpected-session-level-goal-effects.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 

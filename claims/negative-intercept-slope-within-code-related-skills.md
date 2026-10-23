@@ -53,3 +53,4 @@ Zero-order correlation analysis of growth model parameters in the 358-child samp
 - [The bidirectional relation between letter-name knowledge and phonological awareness was independent of maturation and correlated developmental trajectories](bidirectional-relation-independent-of-maturation.md) — related
 - [The bidirectional letter-knowledge–phonological-awareness relation extends to supra-phonemic tasks, indicating an earlier developmental origin than previously reported](bidirectional-relation-extends-to-supra-phonemic-tasks.md) — related
 - [Final achievement level and rate of achievement change were positively correlated: students with higher final levels experienced smaller achievement decrements](intercept-slope-positive-correlation.md) — related
+- [Children with higher initial levels in NRS or CS show slower subsequent linear growth in the same component](negative-intercept-slope-correlations-numeracy.md) — a narrower finding that bears on this claim

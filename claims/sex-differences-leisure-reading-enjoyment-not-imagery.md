@@ -51,3 +51,4 @@ Chi-square analyses among 696 higher-track students. The article reports "Ninete
 - [Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys](gender-engagement-adaptive-platforms-mixed.md) — related
 - [A majority of non-leisure readers report enjoying reading in general (59% lower track, 69% higher track)](non-leisure-readers-still-enjoy-reading.md) — related
 - [Studies reporting age and gender differences in student engagement unanimously show higher engagement for girls and younger students](girls-younger-students-higher-engagement.md) — related
+- [Girls show higher reading enjoyment and lower math enjoyment than boys, with no science enjoyment difference, after controlling for achievement, SES, and age](gender-differences-enjoyment-reading-math.md) — related

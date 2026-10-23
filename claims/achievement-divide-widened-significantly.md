@@ -52,3 +52,4 @@ Based on comparing spring 2022 MAP Growth results with a similar sized pre-pande
 - [School-aged children experienced a substantial overall learning deficit during the COVID-19 pandemic (pooled d = −0.14), equivalent to about 35% of a school year's learning](covid-pandemic-pooled-learning-deficit.md) — related
 - [A two-million-student MAP Growth sample was used to test whether gender gaps widened among low- and high-achieving students](two-million-student-map-growth-gender-gaps-achievement-levels.md) — related
 - [The study tracked the achievement gap between COVID-year student cohorts and their pre-pandemic peers](covid-cohort-achievement-gap-tracked.md) — related
+- [COVID-19 widened the socio-economic performance gap on average, deteriorating more among disadvantaged students, significantly in mathematics and science](covid-widened-socio-economic-performance-gap.md) — related

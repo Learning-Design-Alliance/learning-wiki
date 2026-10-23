@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (17 for, 18 mixed, 4 against) · 41 studies (19 causal, 10 review, 7 quant-synthesis, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 10 of 41 report an effect size · 33 claims rest on one study
+> **Evidence** · 42 claims (20 for, 18 mixed, 4 against) · 42 studies (20 causal, 10 review, 7 quant-synthesis, 2 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 10 of 42 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Observing typical gestures significantly benefits narrative comprehension compared with atypical or no gestures, which do not differ significantly](../claims/typical-gestures-benefit-narrative-comprehension.md) [+W] — attached 2026-10-22 from Dargue et al. (2020), which proposed "Educators should use typical, frequently produced iconic gestures that are adequately semantically related to speech to enhance student understanding"; tests this page's relationship.
 - [Gesture effects on narrative comprehension are not moderated by total task difficulty or age when measured through free recall and specific questions](../claims/gesture-comprehension-not-moderated-by-difficulty-or-age.md) [~W] — attached 2026-10-22 from Dargue et al. (2020), which proposed "Educators should use typical, frequently produced iconic gestures that are adequately semantically related to speech to enhance student understanding".
 - [Gesture-enriched L2 vocabulary learning benefits 14-year-olds more than picture enrichment, while 12-year-olds benefit equivalently from both](../claims/gesture-beats-picture-enrichment-only-for-14-year-olds.md) [+W] — attached 2026-10-22 from Brian Mathias et al. (2022), which proposed "Integrate gestures rather than pictures into L2 vocabulary pedagogy starting at 14 years of age"; tests this page's relationship.
+- [Third graders taught with simultaneous speech and gesture retain math equivalence problems better at a one-day delay than children taught the same strategies sequentially](../claims/simultaneous-speech-gesture-next-day-retention.md) [+W] — attached 2026-10-23 from Congdon Eliza L. et al. (2017), which proposed "Present complementary problem-solving strategies simultaneously in speech and gesture rather than sequentially"; tests this page's relationship.
+- [The simultaneous speech-and-gesture advantage on math equivalence persists at a four-week delay on both basic and generalization problems](../claims/simultaneous-speech-gesture-four-week-retention.md) [+W] — attached 2026-10-23 from Congdon Eliza L. et al. (2017), which proposed "Present complementary problem-solving strategies simultaneously in speech and gesture rather than sequentially"; tests this page's relationship.
+- [Simultaneous speech-and-gesture instruction increases children's spoken use of the conceptual Equalizer strategy, which post-hoc mediates lasting learning](../claims/eq-strategy-use-mediation-simultaneous-gesture.md) [+W] — attached 2026-10-23 from Congdon Eliza L. et al. (2017), which proposed "Present complementary problem-solving strategies simultaneously in speech and gesture rather than sequentially".
 
 ## Objective and learner-valued goal
 

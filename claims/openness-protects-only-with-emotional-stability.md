@@ -52,3 +52,4 @@ Moderation analysis (Hayes Model 1, bootstrap confidence intervals) on the 147-s
 - [Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability](extraversion-protective-wellbeing-wartime.md) — related
 - [Conscientiousness and tolerance for novelty show small negative associations with well-being decline; other uncertainty-tolerance facets do not](conscientiousness-novelty-tolerance-small-protective-associations.md) — related
 - [Agreeableness is unexpectedly a weak risk factor for well-being decline in wartime students](agreeableness-risk-factor-wartime-wellbeing.md)
+- [Protective factors attenuate the effects of risk as risk rises, producing gap-closing effects represented analytically as Risk × Protective Factor interactions](protective-factors-gap-closing-interactions.md) — a broader claim this one bears on

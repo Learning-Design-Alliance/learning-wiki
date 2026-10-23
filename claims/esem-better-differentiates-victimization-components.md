@@ -44,3 +44,4 @@ The review attributes to Marsh et al. (2011) that "ESEM improved the goodness-of
 
 ## Related Claims
 - [A three-component (tripartite) model of victimization shows superior explanatory power to unidimensional and two-component models in cross-national PISA2018 data](tripartite-model-superior-fit-pisa2018.md) — related
+- [The six achievement emotion regulation strategies are empirically separable constructs, and corresponding strategies across emotions are sufficiently distinct to warrant emotion-specific measures](raeq-strategies-separable-emotion-specific-constructs.md) — a narrower finding that bears on this claim

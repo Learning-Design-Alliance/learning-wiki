@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 165 claims (99 show a difference, 48 mixed, 18 no difference) · 132 studies (37 causal, 31 review, 21 theoretical, 18 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 19 of 132 report an effect size · 148 claims rest on one study
+> **Evidence** · 166 claims (100 show a difference, 48 mixed, 18 no difference) · 133 studies (38 causal, 31 review, 21 theoretical, 18 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 19 of 133 report an effect size · 149 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -213,6 +213,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [In Experiment 1, the total number of concepts used in pathophysiological case explanations shows an inverted U-shaped relation with level of medical expertise](../claims/inverted-u-expertise-total-concepts.md) [+M] — learners who differ on it differ in outcomes
 - [In Experiment 2, an interaction between probe and expertise shows intermediates' enabling-condition knowledge is not yet integrated into their illness scripts](../claims/probe-expertise-interaction-integration.md) [~M] — learners who differ on it differ in outcomes
 - [In Experiment 2, the proportion of fault (pathophysiological) statements decreased monotonically with expertise regardless of probe](../claims/fault-statements-decrease-expertise.md) [+M] — learners who differ on it differ in outcomes
+- [Conceptual feedback significantly reduces the effect of prior knowledge on achievement](../claims/conceptual-feedback-nullifies-prior-knowledge-effect.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

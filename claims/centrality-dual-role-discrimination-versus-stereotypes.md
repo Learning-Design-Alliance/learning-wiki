@@ -49,3 +49,4 @@ Authors' interpretive claim in the Discussion, contrasting cited evidence that g
 - [Daily diary evidence links lower daily self-concept fit to stronger same-day mental burnout and concerns about academic abilities](daily-self-concept-fit-burnout-diary.md) — related
 - [A policy report's narrative review states that values affirmation reduced stereotype-threat effects among middle-school students, with higher academic performance for Black students up to 7–9 years later](values-affirmation-long-term-benefits-black-students.md) — related
 - [Disidentification relieves stereotype threat at the cost of loss of motivation and dissociation from school achievement](disidentification-costs-motivation.md) — related
+- [Protective factors attenuate the effects of risk as risk rises, producing gap-closing effects represented analytically as Risk × Protective Factor interactions](protective-factors-gap-closing-interactions.md) — related

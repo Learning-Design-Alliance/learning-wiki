@@ -65,6 +65,7 @@ Bias awareness supports equitable learning environments, but the evidence base d
 - [Embed factor-aware guidance directly within analytics tools at the point of interpretation](embed-factor-aware-guidance-in-analytics-tools.md)
 - [Route divergent or linguistically weak AI-scored explanations to teachers as diagnostic signals for mindful human review](route-divergent-ai-scores-to-teacher-review.md)
 - [Use external instruments rather than teacher judgment to measure learning strategies for differentiation decisions](external-instruments-measure-learning-strategies.md)
+- [Structural, school-level approaches to address teachers' explicit immigration attitudes](structural-school-level-attitude-interventions.md)
 
 ## Examples
 - **Structured grading in large courses**: Instructors using analytic rubrics and anonymized submissions (common in writing-intensive MOOCs and university writing programs) to decouple evaluation from identity cues.

@@ -45,3 +45,4 @@ The Childhood and Beyond cohort-sequential study measured children yearly from f
 ## Related Claims
 - [Confirmatory factor analyses show students' expectancies for success factor separately from their subjective task values, while expectancies and ability self-concepts factor together](cfa-expectancies-values-separate-factors.md) — related
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related
+- [Student-level achievement positively predicts enjoyment in math, science, and reading among fourth graders](student-achievement-positively-predicts-enjoyment-three-domains.md) — related

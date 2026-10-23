@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 73 claims (38 show a difference, 23 mixed, 12 no difference) · 31 studies (13 associational, 6 review, 5 causal, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 13 of 31 report an effect size · 71 claims rest on one study
+> **Evidence** · 74 claims (39 show a difference, 23 mixed, 12 no difference) · 32 studies (14 associational, 6 review, 5 causal, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 13 of 32 report an effect size · 72 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -108,6 +108,7 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Daily mastery goals predict same-day academic success in Grade 5 students](../claims/daily-mastery-goals-predict-same-day-academic-success.md) [+M] — learners who differ on it differ in outcomes
 - [Morning performance-avoidance goals predict same-day academic failure, though not robustly across sensitivity analyses](../claims/performance-avoidance-goals-predict-daily-failure.md) [~W] — learners who differ on it differ in outcomes
 - [Performance-approach and performance-avoidance goals were not meaningfully related to same-day academic success](../claims/performance-goals-not-related-same-day-success.md) [-M] — learners who differ on it differ in outcomes
+- [Session-specific performance-approach goals were positively related to students' overall rating and learning and negatively to boredom, while performance-avoidance goals showed the opposite pattern](../claims/session-specific-performance-goals-student-experiences.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

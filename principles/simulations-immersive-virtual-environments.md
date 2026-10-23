@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 99 claims (37 for, 54 mixed, 8 against) · 69 studies (20 causal, 17 review, 11 quant-synthesis, 9 qualitative, 7 theoretical, 4 design, 1 associational), `q1`–`q4` · 18 of 69 report an effect size · 94 claims rest on one study
+> **Evidence** · 100 claims (38 for, 54 mixed, 8 against) · 70 studies (21 causal, 17 review, 11 quant-synthesis, 9 qualitative, 7 theoretical, 4 design, 1 associational), `q1`–`q4` · 19 of 70 report an effect size · 95 claims rest on one study
 
 ## Conditional relationship
 
@@ -311,6 +311,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance](../claims/implicit-scaffolding-supports-immediate-exploration.md) [~W] — added 2026-10-17: one sixth-grader's think-aloud with a PhET simulation designed with implicit scaffolding; it shows a well-designed interface can invite exploration, not that the exploration teaches without guidance, so it does not change the guidance rule in the virtual-labs subsection. Re-read 2026-10-19: one interview, an observation about interface design, not an outcome.
 - [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](../claims/mobile-ar-families-immersive-geoscience-lotm.md) [+W] — read 2026-10-19: a special-issue introduction summarising one qualitative study of families with a mobile AR app in a garden; second-hand, no outcome measure. It describes informal, place-based use, which no row here covers; one second-hand account is too little to write one.
 - [In a rule-based simulation game with narrow scope and high distance, facilitator interventions were predominantly first- and second-order and participant learning was mainly first- and second-order](../claims/rule-based-sg-yields-first-second-order-learning.md) [~W] — read 2026-10-19: coded transcripts from one simulation-game case in professional training; a game whose rules absorb attention drew the facilitator to procedural interventions. It bears on facilitating simulation games and their debriefs ([Debriefing](debriefing.md), [Game-Based Learning](game-based-learning.md)) more than on this page's steps.
+- [Guided inquiry learning with virtual and video experiments during Covid-19 remote schooling significantly improves seventh-graders' conceptual understanding in physics](../claims/remote-inquiry-virtual-video-experiments-improve-conceptual-understanding.md) [+M] — attached 2026-10-23 from Flegr et al. (2023), which proposed "Use virtual experiments, optionally combined with video experiments, for guided inquiry learning when hands-on experimentation is not possible".
 
 ## Objective and learner-valued goal
 

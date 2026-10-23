@@ -56,3 +56,4 @@ Randomized controlled trial with 53 grade 1 children assigned to MOVE (n=24) or 
 - [Most children taught with movements spontaneously use movements when naming letter-sounds, unlike non-motor-taught children](movement-use-during-letter-sound-test.md) — related
 - [Whole-body movement teaching improves matching of conditional letter-sounds to letters at retention compared with non-motor teaching](whole-body-improves-conditional-sound-matching-retention.md) — a narrower finding that bears on this claim
 - [Whole-body movement teaching improves 5–6-year-olds' letter-sound naming more than non-motor teaching, immediately and at 17–22-week retention](whole-body-movement-improves-letter-sound-naming.md) — related
+- [MAST significantly improves language in four-to-five-year-old children (d = 0.2)](mast-improves-language-first-year-school.md) — related

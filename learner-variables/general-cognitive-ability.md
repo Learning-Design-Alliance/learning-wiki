@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 99 claims (63 show a difference, 22 mixed, 14 no difference) · 68 studies (24 associational, 22 causal, 10 review, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 18 of 68 report an effect size · 96 claims rest on one study
+> **Evidence** · 100 claims (64 show a difference, 22 mixed, 14 no difference) · 69 studies (25 associational, 22 causal, 10 review, 8 quant-synthesis, 4 theoretical), `q1`–`q4` · 18 of 69 report an effect size · 97 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -135,6 +135,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Hypothesized ATI effects of individualized explanations based on typical mistakes were not supported; exploratory benefits emerged for high-resource vocational-school students](../claims/individualized-explanations-ati-hypotheses-not-supported.md) [~M] — an instructional effect differs with it
 - [Math achievement at the end of first grade is predicted by fluid intelligence, visuospatial working memory, and symbolic numerical representation](../claims/math-achievement-t1-predictors.md) [+W] — learners who differ on it differ in outcomes
 - [Math achievement at the end of second grade is predicted by fluid intelligence, verbal working memory, and prior math achievement](../claims/math-achievement-t2-predictors.md) [+W] — learners who differ on it differ in outcomes
+- [Children's age, general intelligence, and divergent thinking positively predicted tool innovation performance, while executive function measures predicted only ideal manipulation](../claims/age-intelligence-divergent-thinking-predict-tool-innovation.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]
