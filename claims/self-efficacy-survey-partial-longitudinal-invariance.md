@@ -50,3 +50,4 @@ Longitudinal measurement invariance testing (Appendix C, Table A5) following Wid
 - [The GenAI-SRL scale achieves measurement invariance across gender groups at metric and scalar levels](genai-srl-measurement-invariance-gender.md) — related
 - [A companion working paper examines the relationship between academic and social-emotional growth for English Language Learners](ell-working-paper-academic-and-social-emotional-growth.md) — a broader claim this one bears on
 - [An NWEA research brief examines how self-efficacy relates to the persistence of achievement gaps for English Language Learners; its landing page states no finding](self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) — related
+- [Configural and metric measurement invariance across time hold for nearly all constructs, but scalar invariance is problematic for several](measurement-invariance-self-concept-belief-scales.md) — related

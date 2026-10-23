@@ -54,3 +54,4 @@ Experiment 1 correlational analysis treating the RT difference between trial typ
 - [Incongruent dot comparison trials are less accurate and slower than congruent trials, consistent with an added inhibition step](incongruent-dot-trials-slower-less-accurate.md) — related
 - [The correlation between dot comparison performance and children's mathematics achievement is driven by incongruent, not congruent, trials](dot-comparison-math-link-driven-by-incongruent-trials.md) — related
 - [Verbal working memory positively and inhibitory control negatively relate to accuracy in the contrasting multiple-choice task](working-memory-and-inhibitory-control-contrasting-task.md) — related
+- [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related

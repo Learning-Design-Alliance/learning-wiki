@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**628 entries** · 0 stable · 628 in review · 0 drafts
+**629 entries** · 0 stable · 629 in review · 0 drafts
 
 ---
 
@@ -76,6 +76,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Centrality measures as operationalization of the participatory and social dimensions of CSCL](centrality-measures-as-operationalization-of-the-participatory-and-social-dimensions-of-cs.md) - The article organizes SNA-based CSCL measurement around two dimensions.
 * [Chain of assumptions/inferences perspective within an argument-based approach to validity](chain-of-assumptionsinferences-perspective-within-an-argument-based-approach-to-validity.md) - The article works within an argument-based approach to validity, in which the chain of assumptions and inferences connecting test scores to interpretations and uses is made explicit.
 * [CID framework for the cognitive analysis of composite instructional designs](cid-framework-for-the-cognitive-analysis-of-composite-instructional-designs.md) - The CID framework (a framework for the cognitive analysis of composite instructional designs) explains how learning in one phase affects subsequent phases by focusing on the learner's knowledge state between phases.
+* [Class composition effects framework](class-composition-effects-framework.md) - The article organizes its inquiry around composition effects, which \"occur when individual student characteristics (e.g., individual academic achievement) are combined into a class-level composite score (e.g., mean academic achievement) and that score is related to individual-level outcomes (e.g., a
 * [Classical Test Theory](classical-test-theory.md) - CTT (True Score Theory) describes an observed score as composed of a true score and random error, estimating true scores from observed scores.
 * [Classical test theory decision consistency estimation methods](classical-test-theory-decision-consistency-estimation-methods.md) - The article organizes single-administration decision consistency estimation around three CTT methods: Livingston and Lewis (LL-DC), which assumes a beta-binomial distribution and uses effective test length; Peng-Subkoviak (PS-DC), a normal approximation extending Huynh's procedure; and Wolkowitz (W-
 * [Classification framework distinguishing global quality, global process quality, quality pedagogical interactions, and quality interactions related to curriculum content](classification-framework-distinguishing-global-quality-global-process-quality-quality-peda.md) - The review's organising taxonomy for grouping interaction quality characteristics.

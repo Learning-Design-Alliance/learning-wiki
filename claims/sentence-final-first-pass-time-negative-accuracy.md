@@ -49,3 +49,4 @@ GLMM analysis of sentence-final word measures in the eye-tracking experiment wit
 - [Overall reading time did not differ between consistent and inconsistent texts, but participants judged consistent texts more accurately (d = 0.84), indicating inconsistencies were more often overlooked than falsely perceived](overlooking-inconsistencies-accuracy-asymmetry.md)
 - [Reanalysis of the pre-target text (rereading time and revisit frequency) interacted significantly with consistency condition in predicting consistency judgement accuracy](pre-target-reanalysis-condition-interaction.md)
 - [Students who did not report the discrepancy in peer feedback showed longer first-pass reading times](non-reporters-longer-first-pass-reading-times.md) — related
+- [Reading for study produced a main memory advantage over reading for comprehension for target sentences](study-goal-memory-advantage.md) — related

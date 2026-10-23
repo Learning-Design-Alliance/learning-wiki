@@ -48,3 +48,4 @@ Stability paths from the 2-variable latent cross-lagged models. In the combined 
 - [Higher earlier interest is associated with later decreases in boredom across grades 5–8, at every wave in mathematics and all but the last in German](earlier-interest-predicts-lower-later-boredom.md) — related
 - [Achievement rank-order stability is high across primary school, with written-language stability (β = 0.62–0.75) exceeding mathematics stability (β = 0.38–0.45)](high-achievement-stability-primary-school.md) — related
 - [Mathematics enjoyment decreases and boredom increases from first to third grade, while mean enjoyment stays fairly high and boredom low](enjoyment-decreases-boredom-increases-grades-1-3.md) — related
+- [TSE and burnout levels are autoregressively stable: current levels predict future levels of the same construct](tse-burnout-autoregressive-stability.md) — related

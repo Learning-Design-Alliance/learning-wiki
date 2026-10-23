@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 29 claims (14 for, 15 mixed) · 20 studies (5 causal, 5 review, 3 associational, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 5 of 20 report an effect size · 28 claims rest on one study
+> **Evidence** · 31 claims (14 for, 17 mixed) · 21 studies (6 causal, 5 review, 3 associational, 3 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q3` · 5 of 21 report an effect size · 30 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -87,6 +87,8 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Student-level expectancy and utility value positively, and effort cost negatively, predict subsequent science achievement and aspirations](../claims/l1-motivational-beliefs-predict-achievement-aspirations.md) [+W] — attached 2026-10-23 from David W. Putwain et al. (2026), which proposed "Situated Expectancy Value Theory (SEVT)"; tests this page's relationship.
 - [Student-level achievement and aspirations positively predict subsequent expectancy and utility value, but not effort cost](../claims/achievement-aspirations-predict-beliefs-reciprocal.md) [~W] — attached 2026-10-23 from David W. Putwain et al. (2026), which proposed "Situated Expectancy Value Theory (SEVT)".
 - [Class-average utility value predicts class achievement, and class-average expectancy, utility value, and lower effort cost predict class aspirations](../claims/l2-motivational-climate-predicts-achievement-aspirations.md) [+W]
+- [A classroom-delivered relevance intervention raised ninth-graders' utility value at 3-month follow-up in both delivery conditions, despite an average decline in self-reported utility value](../claims/moma-utility-value-effectiveness-scale.md) [~W] — attached 2026-10-23 from Gaspard et al. (2021), which proposed "Expectancy-value theory as the grounding framework for relevance interventions".
+- [Higher adherence and lower discipline problems during delivery were associated with more positive changes in utility value](../claims/adherence-discipline-utility-value-changes.md) [~W]
 
 ## Related Theories
 

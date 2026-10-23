@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 166 claims (105 show a difference, 39 mixed, 22 no difference) · 134 studies (51 associational, 23 review, 22 causal, 22 quant-synthesis, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 20 of 134 report an effect size · 164 claims rest on one study
+> **Evidence** · 167 claims (106 show a difference, 39 mixed, 22 no difference) · 135 studies (51 associational, 23 causal, 23 review, 22 quant-synthesis, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 20 of 135 report an effect size · 165 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -198,6 +198,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Positive feedback effects occur across the full age range 3-11, with no pattern of stronger effects in older children](../claims/feedback-effects-no-age-gradient.md) [-W] — an instructional effect differs with it
 - [Training effects on spatial language comprehension and verbal number skills tended to appear in younger rather than older children](../claims/age-moderates-training-effects.md) [+M] — an instructional effect differs with it
 - [Arithmetic fluency increases significantly from first to third grade, with substantial individual differences in initial levels and growth](../claims/arithmetic-fluency-growth-grades-1-3.md) [+M] — learners who differ on it differ in outcomes
+- [The monograph's conclusions on entry age were independent of the form of teaching adopted, across schools with different educational attitudes](../claims/entry-age-conclusions-independent-of-teaching-form.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

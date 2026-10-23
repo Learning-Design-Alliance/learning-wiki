@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 81 claims (52 for, 27 mixed, 2 against) · 60 studies (28 associational, 14 review, 13 causal, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 15 of 60 report an effect size · 80 claims rest on one study
+> **Evidence** · 82 claims (52 for, 28 mixed, 2 against) · 61 studies (29 associational, 14 review, 13 causal, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 15 of 61 report an effect size · 81 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -128,6 +128,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Teachers with higher self-efficacy are rated by students as showing better classroom management, more cognitive activation, and greater support](../claims/tse-positively-related-instructional-quality.md) [~W]
 - [More teaching experience is associated with lower teacher self-efficacy and somewhat lower student-rated classroom management and student self-efficacy](../claims/experience-negatively-related-tse.md) [~W]
 - [Self-efficacy mediates the relation between environmental antecedents and achievement emotions in e-learning, supporting the control-value theory mediation structure](../claims/self-efficacy-mediation-environmental-antecedents-emotions-e-learning.md) [+W]
+- [Gender, teaching experience, and educational level covary with TSE and burnout levels at Time 1](../claims/demographic-covariates-tse-burnout.md) [~W]
 
 ## The evidence by question
 

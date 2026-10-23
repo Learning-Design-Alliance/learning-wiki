@@ -53,3 +53,4 @@ Behavioral results from the combined Flanker-Go/No-Go task in 37 children. The s
 - [Brief pre-class exercise selectively enhanced mathematics-specific inhibitory control while domain-general interference control (Flanker) showed no reliable change, per Zhang et al. (2026)](brief-exercise-selective-math-inhibition-dissociation.md) — related
 - [Cognitive architectures reproduce fine-grained educational phenomena beyond final accuracy, including reaction time distributions and qualitative error patterns](cognitive-architectures-reproduce-fine-grained-phenomena.md) — related
 - [Gesture–speech incongruency disrupts multimodal processing, increasing response times and error rates](gesture-speech-incongruency-disrupts-processing.md) — related
+- [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related

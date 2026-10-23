@@ -40758,5 +40758,41 @@
  "case-comparison\ttwo computer models with explicit comparison\tone computer model": {
   "label": "two models with explicit comparison vs one model",
   "treatment_is_a": true
+ },
+ "practice-amount\t22 practice trials writing an unfamiliar civil-war code\tno intervening code practice": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t22 practice trials writing the civil-war code\tinitial code-writing performance before practice": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t22 practice trials writing the code\tno intervening code practice": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\t22-trial code-writing practice\tinitial code-writing performance": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tcode-writing practice group\tunpracticed control groups": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\ttwenty-two practice sessions writing a civil-war code\tno intervening practice with the code": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "praise\tadult ability attribution (\"You are Smart\")\tnot stated": {
+  "label": "ability praise vs no praise",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdifferentiated instruction in more heterogeneous German classes\tdifferentiated instruction in less heterogeneous German classes": {
+  "label": "More heterogeneous classes vs less heterogeneous classes",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdifferentiated instruction in more heterogeneous German classes\tless differentiated instruction in less heterogeneous German classes": {
+  "label": "More differentiated instruction vs less differentiated instruction",
+  "treatment_is_a": true
  }
 }

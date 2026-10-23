@@ -50,3 +50,4 @@ Modified LCSM fitted on the simulated PALMA-like data (acceptable fit: χ2 = 132
 - [Good fit of the ESDM indicates the PALMA data could have been generated without any prospective effects between achievement and self-concept](esdm-fit-suggests-spurious-prospective-effects.md) — related
 - [STARTS model shows a positive effect of prior achievement on subsequent self-concept but no effect of prior self-concept on subsequent achievement](starts-null-self-concept-effect.md) — related
 - [Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement](corrected-lcsm-proper-solution-positive-asc-ach-effects.md) — related
+- [A latent change score model of correlated initial levels and change scores of self-concepts and comparison-related beliefs fits the data well](correlated-change-model-good-fit.md) — related

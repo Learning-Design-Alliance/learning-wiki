@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 162 claims (118 show a difference, 27 mixed, 17 no difference) · 120 studies (43 causal, 30 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 31 of 120 report an effect size · 156 claims rest on one study
+> **Evidence** · 164 claims (119 show a difference, 28 mixed, 17 no difference) · 121 studies (43 causal, 31 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 31 of 121 report an effect size · 158 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -197,6 +197,8 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Instructor body posture shows no direct effects on students' situational interest, but indirect-only mediation effects through perceived enthusiasm](../claims/posture-interest-indirect-enthusiasm-mediation.md) [~M] — instruction changes it
 - [Girls started lower in math self-concept and interest than boys, and the L1 self-concept gender gap widened over Grades 7–9](../claims/gender-gaps-math-lower-l1-slope-favors-girls.md) [+M] — instruction changes it
 - [Math self-concept declined then leveled off (U-shaped), L1 self-concept declined slightly, math interest declined while L1 interest increased across Grades 7–9](../claims/domain-divergent-motivation-trends-lower-secondary.md) [~M] — instruction changes it
+- [Academic orientation mediated the effect of class mean interest on subsequent individual interest in German](../claims/academic-orientation-mediates-interest-composition-german.md) [+M] — instruction changes it
+- [Within-class heterogeneity in achievement or interest did not directly predict outcomes, but differentiated instruction was particularly advantageous in more heterogeneous German classes](../claims/heterogeneity-null-differentiated-instruction-german-interaction.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

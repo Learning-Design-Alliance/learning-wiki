@@ -152,3 +152,4 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [Growth-mindset intervention gains varied by school context, being greatest where peer norms favored seeking challenge and in lower-achieving schools](mindset-gains-vary-school-context.md) — related
 - [All included studies were rated as having some concerns regarding overall risk of bias, primarily due to absence of preregistered analysis plans](risk-of-bias-some-concerns-included-studies.md) — related
 - [Misalignment profiles predict growth-oriented disengagement: students can endorse self-change while withdrawing when routes are perceived as infeasible](misalignment-profiles-predict-growth-oriented-disengagement.md) — related
+- [When delivered by master's students, the intervention additionally improved growth mindsets and standardized math achievement](moma-masters-student-mindset-achievement-effects.md) — a narrower finding that bears on this claim

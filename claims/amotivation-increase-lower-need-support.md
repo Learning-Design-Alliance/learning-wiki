@@ -63,3 +63,4 @@ Independent samples t-test on mean differences between the 97 baseline and 118 n
 
 ## Related Claims
 - [Autonomous motivation decreased and controlled motivation increased overall, with no differences between the need-supportive and baseline conditions](autonomous-controlled-motivation-unaffected.md) — related
+- [Both intervention conditions unexpectedly increased students' perceived cost relative to control](moma-perceived-cost-increase.md) — related

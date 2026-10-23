@@ -71,3 +71,4 @@ Chi-square test of independence examining gender distribution across the three c
 - [Gender is unevenly distributed across participation profiles: boys are overrepresented among disconnected and girls among diligent students](gender-distribution-participation-profiles.md) — reports the opposite
 - [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md) — related
 - [The six clusters differ substantially in academic performance: Final Grade ANOVA η² = 0.770, with C0 exceeding C1 by 40.17 exam-score points](cluster-performance-anova-tukey.md) — related
+- [Female gender and Irish ethnicity predict membership of less positively engaged momentary profiles relative to the engaged profile](gender-ethnicity-predict-engagement-profile-membership.md) — related

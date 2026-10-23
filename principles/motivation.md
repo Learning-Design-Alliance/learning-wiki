@@ -47,7 +47,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 93 claims (56 for, 36 mixed, 1 against) · 91 studies (28 review, 20 causal, 11 theoretical, 10 associational, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 11 of 91 report an effect size · 79 claims rest on one study
+> **Evidence** · 96 claims (58 for, 37 mixed, 1 against) · 92 studies (28 review, 21 causal, 11 theoretical, 10 associational, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 12 of 92 report an effect size · 82 claims rest on one study
 
 ## Conditional relationship
 
@@ -204,6 +204,8 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [During inquiry-informed learning, students' interest, self-efficacy, and belonging were increasingly coordinated over time](../claims/interest-self-efficacy-belonging-coordinated-over-time.md) [+W] — attached 2026-10-22 from Renninger et al. (2026), which proposed "Educators should sustain content connections, affirm students can be successful, and provide contextual support".
 - [Interest and self-efficacy are distinct yet reciprocally related in supporting learning](../claims/interest-self-efficacy-reciprocal-relation.md) [+W] — attached 2026-10-22 from Renninger et al. (2026), which proposed "Educators should sustain content connections, affirm students can be successful, and provide contextual support"; tests this page's relationship.
 - [CORI students outperformed SI and TI comparison students on standardized reading tests and were rated higher in reading motivation, in quasi-experimental studies with large effect sizes](../claims/cori-outperformed-comparisons-reading.md) [+W] — attached 2026-10-22 from Linnenbrink-Garcia et al. (2026), which proposed "Design motivation interventions that are multifaceted, theoretically integrated, and embedded in classrooms, creating sustained supports — a "fertile soil" for motivation"; tests this page's relationship.
+- [In the prior researcher-delivered efficacy trial, the quotations condition produced stronger utility-value effects than the text condition](../claims/moma-efficacy-quotations-beat-text-condition.md) [+W] — attached 2026-10-23 from Gaspard et al. (2021), which proposed "Combine direct communication of utility value with relevance-inducing reflection tasks and an expectancy component to reach more students".
+- [A classroom-delivered relevance intervention raised ninth-graders' utility value at 3-month follow-up in both delivery conditions, despite an average decline in self-reported utility value](../claims/moma-utility-value-effectiveness-scale.md) [+M] — attached 2026-10-23 from Gaspard et al. (2021), which proposed "Combine direct communication of utility value with relevance-inducing reflection tasks and an expectancy component to reach more students".
 
 ## Objective and learner-valued goal
 
@@ -228,6 +230,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Attribution reframing interventions improved outcomes for struggling students (review-reported)](../claims/attribution-reframing-improves-struggling-student-outcomes.md) [+W]
 - [Junior high math teachers were more controlling and less supportive than elementary teachers, and classrooms with the strongest such changes showed the largest declines in math motivation](../claims/junior-high-teachers-more-controlling-motivation-declines.md) [~W]
 - [Feedback targeting reading self-efficacy had a positive effect on motivation, while error-focused feedback and rewards had mixed effects on long-term interest and engagement](../claims/feedback-motivation-self-efficacy-positive-rewards-mixed.md) [+W]
+- [Higher adherence and lower discipline problems during delivery were associated with more positive changes in utility value](../claims/adherence-discipline-utility-value-changes.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

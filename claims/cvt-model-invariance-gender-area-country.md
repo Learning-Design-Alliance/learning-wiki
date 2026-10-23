@@ -45,3 +45,4 @@ Sequentially constrained multi-group invariance analysis of the SEM: "across cou
 ## Related Claims
 - [The five-dimensional student model achieved metric but not scalar measurement invariance across the seven countries, permitting association comparisons but not latent mean comparisons](student-model-metric-invariance-holds.md) — related
 - [The three-dimensional teacher-reported model does not hold in all countries, so configural invariance was not achieved and cross-country comparison of teacher-perceived instructional quality was hardly possible](teacher-model-configural-invariance-fails.md) — related
+- [Configural and metric measurement invariance across time hold for nearly all constructs, but scalar invariance is problematic for several](measurement-invariance-self-concept-belief-scales.md) — related
