@@ -51,3 +51,4 @@ Thematic analysis of the four student focus groups (N = 12): students valued exp
 - [Students report games make the classroom atmosphere fun and increase participation](games-fun-atmosphere-participation.md) — related
 - [Students perceive manageable challenge matched to their skills, with a sense of accomplishment, as an intrinsically rewarding element of fun in formal learning](challenge-accomplishment-fun-primary.md) — related
 - [Outdoor learning in nature significantly increases students' physical activity in most studies, with some null results](outdoor-learning-increases-student-physical-activity.md) — related
+- [Joy was the predominant emotion in compulsory primary education PE, linked to diverse content, cooperative games, absence of competitiveness and cathartic release](joy-predominant-cpe-pe.md) — related

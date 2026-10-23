@@ -50,3 +50,4 @@ Synthesis of student-outcome effects (Table 5: 11 cognitive, 39 psychosocial eff
 - [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — related
 - [Self-report empathy measures predominate and may inflate associations via common method bias and self-serving bias](empathy-self-report-method-bias.md) — related
 - [Amplify Science intervention showed only a small, non-significant effect on a standardized science assessment distal to the NGSS (g = 0.09)](amplify-science-no-significant-standardized-science-effect.md) — related
+- [Principal- and teacher-reported intercultural predictors show negligible associations with student psychosocial outcomes](principal-teacher-reported-predictors-negligible.md) — related

@@ -54,3 +54,4 @@ The presentation's framing argument: because COVID interruptions are unprecedent
 - [No school is totally low-risk from weather-related disruptions](no-school-totally-low-risk-weather-disruptions.md) — related
 - [A day of school missed after a severe weather event can translate to more than a day of learning lost](weather-missed-day-more-than-day-learning-lost.md) — related
 - [Remote learning implemented during the spring 2020 closures achieved effects similar to no teaching at all during summer vacation](covid-remote-learning-comparable-to-summer-loss.md) — related
+- [The article concludes the negative cohort trends are likely in part attributable to pandemic-related schooling restrictions, while acknowledging attribution cannot be fully confirmed](cohort-trends-partially-attributable-restrictions.md) — related

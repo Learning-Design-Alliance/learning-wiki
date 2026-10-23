@@ -43,6 +43,7 @@ The article recommends that educators give students structured guidance on regul
 - [Teach less-proficient EFL learners metacognitive strategies, effort regulation, and help-seeking, supported by goal-setting training](teach-srl-strategies-less-proficient-efl-learners.md)
 - [Guide adult students through self-regulated learning skills within the course of study using educational technology](guide-adult-students-srl-skills-within-course-via-technology.md)
 - [Teach subzone classification explicitly as a teachable, assessable cognitive skill in clinical curricula](explicit-subzone-classification-instruction.md)
+- [Universities should provide SRL training and consider reducing the length of breaks between lectures, using web-based instruction to give flexible attendance](institutions-srl-training-shorter-breaks-web-instruction.md)
 
 ## Examples
 -

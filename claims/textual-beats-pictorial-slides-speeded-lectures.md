@@ -66,3 +66,4 @@ The same Experiment 3 regression tested the video type × interest interaction o
 - [Audio-visual lecture clips produce better comprehension than audio-only clips, and the multimedia advantage holds at accelerated speed](audio-visual-outperforms-audio-only-at-speed.md) — related
 - [Computer-based distractions (phone calls, texts, emails, notifications) do not significantly impair comprehension of lecture videos at 1x or 2x speed](on-screen-distractions-no-comprehension-cost.md) — related
 - [Interest and familiarity positively predict comprehension of speeded audio clips, but the benefit of familiarity decreases as playback speed increases](interest-familiarity-predict-speeded-comprehension.md) — related
+- [Pictorial narratives are comprehended better than textual narratives across all education and age groups](pictorial-narratives-better-comprehended-than-textual.md) — reports the opposite

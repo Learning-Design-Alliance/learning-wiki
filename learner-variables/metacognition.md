@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (82 show a difference, 28 mixed, 17 no difference) · 93 studies (37 causal, 16 associational, 13 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 27 of 93 report an effect size · 126 claims rest on one study
+> **Evidence** · 130 claims (83 show a difference, 29 mixed, 18 no difference) · 94 studies (38 causal, 16 associational, 13 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 28 of 94 report an effect size · 129 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -169,6 +169,9 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Metacognitive prompting did not significantly change the overall frequency of metacognitive SRL activities in main categories and subcategories](../claims/prompting-no-overall-srl-frequency-difference.md) [-M] — instruction changes it
 - [Metacognitive prompting increases domain-general metacognitive SRL activities (goal specification and strategic planning) in young learners in a CBLE](../claims/prompting-increases-domain-general-metacognitive-srl.md) [+M] — instruction changes it
 - [Students who did not report the discrepancy in peer feedback showed longer first-pass reading times](../claims/non-reporters-longer-first-pass-reading-times.md) [+M] — learners who differ on it differ in outcomes
+- [Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming](../claims/model-answers-no-monitoring-accuracy-effect.md) [-M] — instruction changes it
+- [Model answers combined with self-assessment instructions interactively improve monitoring-based regulation accuracy, with two model answers most effective](../claims/model-answers-self-assessment-interaction-regulation.md) [~M] — instruction changes it
+- [Model answers improve both monitoring-based and comprehension-based regulation accuracy](../claims/model-answers-improve-regulation-accuracy.md) [+M] — instruction changes it
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

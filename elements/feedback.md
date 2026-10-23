@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 186 claims (83 for, 88 mixed, 15 against) · 141 studies (53 causal, 27 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 36 of 141 report an effect size · 163 claims rest on one study
+> **Evidence** · 187 claims (83 for, 89 mixed, 15 against) · 142 studies (54 causal, 27 review, 20 quant-synthesis, 15 associational, 9 qualitative, 9 design, 8 theoretical), `q1`–`q4` · 36 of 142 report an effect size · 164 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -234,6 +234,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Curriculum and assessment design factors, including modular structure, feedback timing, and overlap between consecutive assessments, are proposed to moderate feedback use](../claims/curriculum-design-moderates-feedback-use.md) [~W]
 - [Elaborated feedback did not significantly outperform non-elaborated KR feedback on achievement](../claims/elaborated-not-superior-to-kr-feedback.md) [~W]
 - [Adaptive feedback does not improve pre-service teachers' diagnostic accuracy in simulation-based learning](../claims/ann-adaptive-feedback-no-diagnostic-accuracy-effect.md) [-M] — attached 2026-10-23 from Sailer et al. (2022), which proposed "ANN-based automatic adaptive feedback in simulations of pupils with learning difficulties".
+- [Under situationally increased self-enhancement motivation, people prefer positive feedback regardless of its perceived accuracy](../claims/situational-self-enhancement-positive-feedback-regardless-accuracy.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

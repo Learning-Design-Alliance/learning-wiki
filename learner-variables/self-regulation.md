@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 183 claims (126 show a difference, 33 mixed, 24 no difference) · 134 studies (35 causal, 35 associational, 32 review, 13 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 26 of 134 report an effect size · 174 claims rest on one study
+> **Evidence** · 185 claims (127 show a difference, 33 mixed, 25 no difference) · 135 studies (36 causal, 35 associational, 32 review, 13 quant-synthesis, 10 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 26 of 135 report an effect size · 176 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -232,6 +232,8 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [MAST shows no effect on self-regulation in four-to-five-year-old children](../claims/mast-no-effect-self-regulation.md) [-M] — instruction changes it
 - [Metacognitive prompting did not significantly change the overall frequency of metacognitive SRL activities in main categories and subcategories](../claims/prompting-no-overall-srl-frequency-difference.md) [-M] — instruction changes it
 - [Metacognitive prompting increases domain-general metacognitive SRL activities (goal specification and strategic planning) in young learners in a CBLE](../claims/prompting-increases-domain-general-metacognitive-srl.md) [+M] — instruction changes it
+- [Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming](../claims/model-answers-no-monitoring-accuracy-effect.md) [-M] — instruction changes it
+- [Model answers combined with self-assessment instructions interactively improve monitoring-based regulation accuracy, with two model answers most effective](../claims/model-answers-self-assessment-interaction-regulation.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

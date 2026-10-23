@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 438 claims (206 for, 211 mixed, 21 against) · 220 studies (104 causal, 48 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 80 of 220 report an effect size · 431 claims rest on one study
+> **Evidence** · 440 claims (206 for, 212 mixed, 22 against) · 221 studies (105 causal, 48 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 80 of 221 report an effect size · 433 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -481,6 +481,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [In the non-verbal MTT experiment, response time served as a cue for goal-driven effort appraisals more than for confidence appraisals, partly replicating experiment 1](../claims/rt-cue-goal-driven-vs-confidence-mtt-partial-replication.md) [~W]
 - [Averaged across three experiments, load-related appraisals correlated more strongly with response time than confidence did, while difficulty and confidence predicted accuracy more strongly than mental effort appraisals](../claims/cross-experiment-appraisal-correlations-rt-accuracy.md) [~W]
 - [Oral explaining yields more accurate meta-comprehension judgments than written explaining and retrieval practice](../claims/oral-explaining-improves-meta-comprehension-accuracy.md) [~W]
+- [Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming](../claims/model-answers-no-monitoring-accuracy-effect.md) [-W] — attached 2026-10-23 from Hepner et al. (2024), which proposed "Situation-Model Approach to Metacomprehension (cue-utilization account)"; tests this page's relationship.
+- [Secondary students tend to overestimate their text comprehension, though monitoring is relatively accurate in this sample](../claims/students-overestimate-text-comprehension-delayed-diagramming.md) [~W]
 
 ## The evidence by question
 

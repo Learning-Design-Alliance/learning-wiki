@@ -48,3 +48,5 @@ Experiment 2 with 110 second-year secondary students randomized to no feedback, 
 - [In Experiment 1, task-selection accuracy during the no-feedback test phase did not differ between feedback and control conditions](exp1-test-phase-task-selection-null.md) — related
 - [Across both experiments, self-assessment feedback failed to improve self-assessment accuracy in the absence of feedback, and learners' self-assessments did not track practice-driven performance gains](self-assessment-feedback-no-benefit-absence-of-feedback.md) — a broader claim this one bears on
 - [In Experiment 2, task-selection accuracy during the learning phase did not differ between feedback and control conditions, unlike Experiment 1](exp2-learning-phase-task-selection-null.md) — related
+- [Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming](model-answers-no-monitoring-accuracy-effect.md) — related
+- [Receiving two model answer diagrams improves secondary students' delayed-diagramming text comprehension relative to no model answers](two-model-answers-improve-comprehension-delayed-diagramming.md) — related

@@ -40474,5 +40474,165 @@
  "spacing\trepeated debias training with a two-month follow-up session\tperformance before the delayed follow-up": {
   "label": "spaced vs massed",
   "treatment_is_a": true
+ },
+ "feedback-type\tmodel answers\tno model answer": {
+  "label": "model answers vs no model answer",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmodel-answer conditions with 0, 1, or 2 model answers\tomnibus comparison across model-answer conditions": {
+  "label": "model answers vs no model answer",
+  "treatment_is_a": true
+ },
+ "feedback-type\ttwo model answer diagrams\tno model answer": {
+  "label": "model answers vs no model answer",
+  "treatment_is_a": true
+ },
+ "feedback-type\ttwo model answers with self-assessment instructions\tno model answers without self-assessment instructions": {
+  "label": "model answers vs no model answer",
+  "treatment_is_a": true
+ },
+ "feedback-type\ttwo model answers with self-assessment instructions\tone model answer with self-assessment instructions": {
+  "label": "two model answers vs one model answer",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorial narratives\ttextual narratives": {
+  "label": "pictorial narratives vs textual narratives",
+  "treatment_is_a": true
+ },
+ "media-design\tpicture condition\ttext condition": {
+  "label": "pictorial narratives vs textual narratives",
+  "treatment_is_a": true
+ },
+ "media-design\ttextual narratives\tpictorial narratives": {
+  "label": "pictorial narratives vs textual narratives",
+  "treatment_is_a": false
+ },
+ "prompts\tmodel answers combined with self-assessment instructions\tmodel answers without self-assessment instructions": {
+  "label": "self-assessment instructions vs no self-assessment instructions",
+  "treatment_is_a": true
+ },
+ "prompts\tself-assessment instructions\tno self-assessment instructions": {
+  "label": "self-assessment instructions vs no self-assessment instructions",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven methodologies\ttraditional experimental approaches": {
+  "label": "AI-enabled technology vs traditional/non-AI methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven methodologies in chemistry laboratory classes\ttraditional experimental approaches": {
+  "label": "AI-enabled technology vs traditional/non-AI methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven personalization\tnot stated": {
+  "label": "AI personalization vs no AI personalization",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven personalized learning\tnot stated": {
+  "label": "AI personalization vs no AI personalization",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven personalized learning systems\tnot stated": {
+  "label": "AI personalization vs no AI personalization",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven predictive analytics and early-warning systems\tonline learning without AI-driven prediction": {
+  "label": "AI predictive analytics vs online learning without AI prediction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven technologies\tnot stated": {
+  "label": "AI-enabled technology vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled AR/VR tools\ttraditional non-AI methods": {
+  "label": "AI-enabled AR/VR vs traditional/non-AI methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled SST meeting agenda tool\tprevious top-of-mind SST/MTSS meeting practice": {
+  "label": "AI-enabled meeting agenda tool vs conventional meeting practice",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled SST/MTSS meeting agenda tool\tpre-existing meeting practices": {
+  "label": "AI-enabled meeting agenda tool vs conventional meeting practice",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled adaptive learning systems\tcomparison conditions not specified": {
+  "label": "AI-enabled adaptive learning vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled adaptive learning systems\tnot stated": {
+  "label": "AI-enabled adaptive learning vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled educational systems\tnot specified": {
+  "label": "AI-enabled educational system vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled educational tools\tnot stated": {
+  "label": "AI-enabled educational tool vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled personalised learning pathways\tnot stated": {
+  "label": "AI-enabled personalized learning vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled personalization\tnot stated": {
+  "label": "AI personalization vs no AI personalization",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled personalized STEM education\ttraditional non-AI methods": {
+  "label": "AI-enabled personalized education vs traditional/non-AI methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled personalized or adaptive learning\tnot stated": {
+  "label": "AI-enabled personalized/adaptive learning vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled programming section\thuman pair-programming section": {
+  "label": "AI-assisted programming vs human pair programming",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled programming support\thuman pair programming": {
+  "label": "AI-assisted programming vs human pair programming",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled service delivery\t?": {
+  "label": "AI-enabled service delivery vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled service delivery\tconventional non-AI service delivery": {
+  "label": "AI-enabled service delivery vs conventional/non-AI service delivery",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled service delivery\tconventional service delivery": {
+  "label": "AI-enabled service delivery vs conventional service delivery",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled service delivery\tnon-AI or conventional service delivery": {
+  "label": "AI-enabled service delivery vs conventional/non-AI service delivery",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled service delivery\ttraditional or non-AI service delivery": {
+  "label": "AI-enabled service delivery vs traditional/non-AI service delivery",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled solo programming\thuman pair programming": {
+  "label": "AI-assisted solo programming vs human pair programming",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled teaching, learning, and administrative processes\tconventional non-AI processes": {
+  "label": "AI-enabled teaching, learning, and administration vs conventional/non-AI processes",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled teaching, learning, and administrative systems\ttraditional or less AI-enabled processes": {
+  "label": "AI-enabled teaching, learning, and administration vs traditional/less AI-enabled processes",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled text-message chatbot outreach\tstandard conventional university communications without chatbot": {
+  "label": "AI chatbot outreach vs standard university communication without chatbot",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled text-messaging chatbot communication\tstandard conventional university communications without chatbot access": {
+  "label": "AI chatbot communication vs standard university communication without chatbot",
+  "treatment_is_a": true
  }
 }
