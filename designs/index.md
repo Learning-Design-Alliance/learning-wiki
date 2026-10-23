@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**994 entries** · 0 stable · 994 in review · 0 drafts
+**995 entries** · 0 stable · 995 in review · 0 drafts
 
 ---
 
@@ -898,6 +898,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Telediscussion course pattern alternating telelectures with discussion sessions](telediscussion-alternating-lecture-discussion-pattern.md) - The seminar's structure paired each expert telelecture with a discussion session about it.
 * [Ten fundamental prerequisites for a multimedia language authoring system](ten-prerequisites-multimedia-language-authoring.md) - The author, as a cognitive scientist and linguist, designed \"the implementation of ten fundamental prerequisites for a multimedia language authoring system\".
 * [Ten-module AI-guided asynchronous PD program on proportional reasoning with eight designed AI-mediated mechanisms](ai-guided-pd-proportional-reasoning-modules.md) - The AI-guided PD comprised ten asynchronous modules completed across one academic semester, typically requiring 30-45 hours, each centered on rate and proportional reasoning.
+* [Ten-session small-group training on restructuring additive situations without word problem solving](additive-restructuring-training-program.md) - A training program comprising \"ten 40–50 min small-group sessions over five weeks\", delivered by pre-service teachers following a script and piloted with four students from another school.
 * [Ten-week two-phase LLM usage experiment in React programming education](ten-week-two-phase-llm-react-experiment.md) - A study design in which thirty-two second-year undergraduates completed four React/TypeScript assignments over nine weeks with unrestricted informal LLM use, followed by a controlled week-ten assignment where LLMs wer...
 * [Text-based heterogeneity simulation with simulated peer feedback](heterogeneity-simulation-written-feedback-intervention.md) - A short, stand-alone online intervention in which pre-service teachers read a 302-word text on learning theories, rate its difficulty, and then read \"the written feedback from six fictitious other students (143 words...
 * [The access–success paradox and its resolution through embedded support infrastructure](access-success-paradox-dual-enrollment.md) - The report names the access–success paradox: the assumption \"that expanding access to more students who do not typically participate in advanced coursework must necessarily be accompanied by declining success, particu...

@@ -40706,5 +40706,37 @@
  "feedback-type\trubric-based feedback\tno, process-based, or product-based feedback": {
   "label": "rubric-based feedback vs non-rubric-based, no, process-based, or product-based feedback",
   "treatment_is_a": true
+ },
+ "active-learning\tnine-session dialogic argumentation intervention\tpre-intervention assessment": {
+  "label": "active-learning intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tnine-session dialogic argumentation intervention\tpre-intervention baseline": {
+  "label": "active-learning intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tpost-intervention assessment\tpre-intervention assessment": {
+  "label": "post-intervention assessment vs pre-intervention assessment",
+  "treatment_is_a": true
+ },
+ "active-learning\tpost-intervention assessment after nine-session dialogic argumentation\tpre-intervention assessment": {
+  "label": "post-intervention assessment vs pre-intervention assessment",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tglobal level across autonomy support, structure, and involvement\tadditive and synergistic configurations": {
+  "label": "global level vs additive and synergistic configurations",
+  "treatment_is_a": true
+ },
+ "case-comparison\tsorted condition contrasting orthographically similar L2 words\tshuffled condition without explicit contrast": {
+  "label": "similarity-grouped vs shuffled",
+  "treatment_is_a": true
+ },
+ "worked-examples\tinstructional techniques for studying worked examples\tnot stated": {
+  "label": "worked-example study techniques vs no stated technique",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples\tnot stated": {
+  "label": "worked examples vs no worked examples",
+  "treatment_is_a": true
  }
 }

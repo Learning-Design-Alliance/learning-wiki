@@ -66,3 +66,4 @@ This finding qualifies the whole-task approach, suggesting that [part-task pract
 - [Pretraining principle: pre-lessons on names, locations, and characteristics of key components improve transfer](pretraining-principle-mayer-2008.md) — related
 - [Current cognitive load measures cannot detect overload because the critical level indicating overload is unknown](load-measures-cannot-detect-overload.md) — related
 - [High task variability can overload working memory and reduce learning efficiency in some cases](task-variability-overload-tradeoff.md) — related
+- [CLT-based instructional design is applied to very high element interactivity material (per Pollock, Chandler, & Sweller)](clt-design-very-high-element-interactivity.md) — related

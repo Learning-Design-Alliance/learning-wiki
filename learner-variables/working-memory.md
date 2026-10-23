@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 87 claims (51 show a difference, 25 mixed, 11 no difference) · 73 studies (19 review, 18 causal, 18 associational, 11 quant-synthesis, 4 theoretical, 3 qualitative), `q1`–`q4` · 13 of 73 report an effect size · 81 claims rest on one study
+> **Evidence** · 91 claims (54 show a difference, 26 mixed, 11 no difference) · 74 studies (19 review, 18 causal, 18 associational, 11 quant-synthesis, 5 theoretical, 3 qualitative), `q1`–`q4` · 13 of 74 report an effect size · 85 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -130,6 +130,10 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Physical activity interventions in childhood improve working memory with a small summary effect, based on very low-certainty evidence](../claims/pa-interventions-improve-working-memory-childhood.md) [+W] — instruction changes it
 - [The negative working memory span–listening connection may reflect common-effect structure and overload of listening input rather than a direct detrimental role](../claims/negative-wm-span-listening-common-effect-account.md) [~W] — learners who differ on it differ in outcomes
 - [Working memory span, updating, and cognitive flexibility positively predict English writing, response inhibition positively predicts reading, and working memory span negatively predicts listening](../claims/ef-components-predict-english-subskills-network.md) [~M] — learners who differ on it differ in outcomes
+- [Example elaboration training is studied for decreasing cognitive interference and overload (per Stark, Mandl, Gruber, & Renkl)](../claims/example-elaboration-training-decrease-interference-overload.md) [+W] — instruction changes it
+- [Instructional techniques for studying worked examples can increase germane cognitive load (per van Merriënboer, Schuurman, De Croock, & Paas)](../claims/worked-examples-increase-germane-cl-special-issue.md) [+W] — instruction changes it
+- [Worked examples are studied for their effects on cognitive load in older learners (per Van Gerven, Paas, & Schmidt)](../claims/worked-examples-older-learners-cl.md) [+W] — instruction changes it
+- [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](../claims/clt-circumvent-working-memory-limits.md) [~W] — instruction changes it
 
 ## The evidence by question
 

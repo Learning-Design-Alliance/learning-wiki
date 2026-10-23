@@ -45,3 +45,4 @@ The review reports the de Croock et al. troubleshooting study in a distillery sy
 ## Related Claims
 - [Designing learning activities corresponding to germane load has always required methods and techniques external to cognitive load theory](germane-load-activities-require-external-methods.md) — related
 - [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related
+- [Instructional techniques for studying worked examples can increase germane cognitive load (per van Merriënboer, Schuurman, De Croock, & Paas)](worked-examples-increase-germane-cl-special-issue.md) — related

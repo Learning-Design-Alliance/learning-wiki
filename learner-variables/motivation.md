@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 261 claims (178 show a difference, 55 mixed, 28 no difference) · 197 studies (69 associational, 49 causal, 34 review, 15 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 53 of 197 report an effect size · 249 claims rest on one study
+> **Evidence** · 263 claims (178 show a difference, 57 mixed, 28 no difference) · 198 studies (70 associational, 49 causal, 34 review, 15 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 53 of 198 report an effect size · 251 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -311,6 +311,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Residual (non-shared) student-level perceptions of instructional quality are positively related to individual student self-efficacy and intrinsic motivation](../claims/residual-l1-climate-ratings-related-motivation.md) [+M] — instruction changes it
 - [Across the secondary school transition, parental academic pressure and perceived negative relationships with teachers increased while peer victimization and autonomous academic motivation decreased, with no average linear change in controlled motivation](../claims/stressor-motivation-trajectories-secondary-transition.md) [~M] — instruction changes it
 - [Parental academic pressure had the strongest association with controlled academic motivation, while perceived negative relationships with teachers had the strongest association with autonomous academic motivation](../claims/pressure-strongest-controlled-teacher-strongest-autonomous.md) [+M] — instruction changes it
+- [Class and teacher organization and peer support positively predict self-efficacy, while workload negatively predicts e-learning self-efficacy but positively predicts computer self-efficacy](../claims/environmental-antecedents-self-efficacy-e-learning.md) [~M] — instruction changes it
+- [E-learning self-efficacy relates to both positive and negative achievement emotions, while computer self-efficacy relates only to positive emotions](../claims/e-learning-vs-computer-self-efficacy-emotions.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

@@ -32,7 +32,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 63 claims (25 for, 37 mixed, 1 against) · 60 studies (27 causal, 14 review, 12 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 13 of 60 report an effect size · 52 claims rest on one study
+> **Evidence** · 64 claims (26 for, 37 mixed, 1 against) · 61 studies (27 causal, 14 review, 13 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 13 of 61 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Framing formal logical problems in primary knowledge contexts makes learners more efficient, more motivated, more confident and lowers cognitive load compared with secondary knowledge framing](../claims/primary-knowledge-framing-efficiency-motivation.md) [~W]
 - [Gesturing while explaining problem solving reduces cognitive load](../claims/gesturing-reduces-cognitive-load.md) [+W]
 - [On the immediate test, novices showed a worked example effect (high guidance superior) while more knowledgeable learners showed a generation effect (low guidance superior)](../claims/immediate-test-guidance-expertise-interaction-worked-example-generation.md) [~W]
+- [CLT-based instructional design is applied to very high element interactivity material (per Pollock, Chandler, & Sweller)](../claims/clt-design-very-high-element-interactivity.md) [+W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md)

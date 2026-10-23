@@ -46,3 +46,4 @@ Meta-analysis of 170 correlations with student learning outcomes (85 with autono
 - [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](need-satisfaction-strongly-associated-learning-engagement.md) — related
 - [Teacher autonomy support and provision of structure are positively correlated across studies, with a pooled correlation of r = 0.53](autonomy-support-structure-positive-correlation.md) — related
 - [Teachers who facilitate both autonomy and structure report motivation to teach and felt teaching effectiveness](teacher-outcomes-autonomy-structure.md) — related
+- [A global factor across autonomy support, structure, and involvement provides optimal support to classroom-level engagement (global hypothesis supported)](need-supportive-global-hypothesis-supported.md) — related

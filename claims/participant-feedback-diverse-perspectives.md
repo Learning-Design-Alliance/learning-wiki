@@ -69,3 +69,4 @@ Participants' Feedback section quoting Maggie Deagon, a K12 educator and researc
 - [Participants reported improved communication skills and faculty modeling of positive interpersonal interaction](prison-college-communication-skills-modeling.md) — related
 - [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — related
 - [The value of the student-staff collaboration was explored from student, staff, and institutional perspectives, with benefits, limitations, and recommendations presented](student-staff-collaboration-value-three-perspectives.md) — related
+- [Exposure to diverse philosophical perspectives is viewed by teachers as key to developing critical reflection](diverse-perspectives-key-to-critical-reflection.md) — related

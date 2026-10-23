@@ -22,7 +22,7 @@ sources:
 # Building Empathy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (8 for, 4 mixed) · 24 studies (8 causal, 7 quant-synthesis, 4 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 25 studies (9 causal, 7 quant-synthesis, 4 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 25 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -86,6 +86,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — checked by the judge: all 1 entries pass (abstract)
+- [Elementary students expressed significantly more opinion statements supporting the other-side when reading the other-side historical account than when reading their own-side account](../claims/more-other-side-support-reading-other-side-text.md) [+W] — attached 2026-10-23 from Iordanou et al. (2025), which proposed "Expose learners to the other side's narrative, authentically expressed by its representatives, to foster understanding of and empathy toward the other side"; tests this page's relationship.
+- [After the intervention, some students shifted from one-sided to two-sided reasoning: comments against their own side doubled and own-side support halved when reading the other-side text](../claims/shift-to-two-sided-reasoning-after-intervention.md) [+M] — attached 2026-10-23 from Iordanou et al. (2025), which proposed "Expose learners to the other side's narrative, authentically expressed by its representatives, to foster understanding of and empathy toward the other side"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 107 claims (66 for, 31 mixed, 10 against) · 89 studies (34 causal, 23 review, 17 theoretical, 12 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 17 of 89 report an effect size · 96 claims rest on one study
+> **Evidence** · 108 claims (67 for, 31 mixed, 10 against) · 90 studies (34 causal, 23 review, 18 theoretical, 12 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 17 of 90 report an effect size · 97 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -177,6 +177,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Mismatch between recording angle and expected angle increases cognitive load both during video observation and during task execution](../claims/expectation-mismatch-increases-cognitive-load.md) [+W] — attached 2026-10-23 from de Jonge et al. (2026), which proposed "Expectation Alignment Hypothesis (EAH)"; tests this page's relationship.
 - [Participants informed in advance about a misaligned task angle performed worse and reported higher video cognitive load than those surprised by the misalignment](../claims/informed-misalignment-worse-performance.md) [~W]
 - [Intrinsic cognitive load during the scenario negatively predicted problem-solving performance (ANCOVA, p = .01)](../claims/cognitive-load-negatively-predicts-problem-solving.md) [+W]
+- [CLT-based instructional design is applied to very high element interactivity material (per Pollock, Chandler, & Sweller)](../claims/clt-design-very-high-element-interactivity.md) [+W]
 
 ## The evidence by question
 

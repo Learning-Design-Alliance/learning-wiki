@@ -99,3 +99,4 @@ The chapter reports Marsh et al. (2009), with college students answering SAT II 
 - [In authentic undergraduate courses, taking more voluntary practice tests predicts higher final-exam performance, with and without corrective feedback](practice-test-frequency-predicts-exam-performance.md) — related
 - [Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low](effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md) — related
 - [Retrieval practice mostly increases susceptibility to misinformation (retrieval-enhanced suggestibility)](retrieval-practice-increases-misinformation-susceptibility.md) — related
+- [Contrasting orthographically similar L2 words during multiple-choice learning improves their subsequent recall in the productive direction](contrasting-orthographically-similar-l2-words-improves-recall.md) — related

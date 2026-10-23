@@ -48,3 +48,4 @@ In the SEM comparison across models including concentration as a candidate contr
 - [Vocabulary mediates the association between academic self-efficacy and listening comprehension](vocabulary-mediates-self-efficacy-listening-comprehension.md)
 - [Verbal short-term memory and academic self-efficacy are positively associated with children's vocabulary](verbal-stm-self-efficacy-positively-associated-vocabulary.md) — related
 - [The indirect association between verbal short-term memory and listening comprehension through vocabulary just missed significance](stm-vocabulary-indirect-path-just-missed-significance.md) — related
+- [In a double mediation path model, RCR is associated with listening comprehension, which is associated with vocabulary, with the direct vocabulary-to-RCR effect fully mediated](path-model-lc-vocabulary-rcr.md) — related

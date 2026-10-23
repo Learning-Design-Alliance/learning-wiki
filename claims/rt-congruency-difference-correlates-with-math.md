@@ -53,3 +53,4 @@ Experiment 1 correlational analysis treating the RT difference between trial typ
 - [Reanalysis of previously-published data replicates the incongruent-trial pattern in children, with a marginal effect in adults](reanalysis-replicates-incongruent-pattern-children-adults-marginal.md) — related
 - [Incongruent dot comparison trials are less accurate and slower than congruent trials, consistent with an added inhibition step](incongruent-dot-trials-slower-less-accurate.md) — related
 - [The correlation between dot comparison performance and children's mathematics achievement is driven by incongruent, not congruent, trials](dot-comparison-math-link-driven-by-incongruent-trials.md) — related
+- [Verbal working memory positively and inhibitory control negatively relate to accuracy in the contrasting multiple-choice task](working-memory-and-inhibitory-control-contrasting-task.md) — related

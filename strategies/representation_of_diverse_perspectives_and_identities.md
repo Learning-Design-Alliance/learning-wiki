@@ -66,6 +66,7 @@ Representation is not decorative: who appears in examples, whose knowledge is tr
 - [Year-round integration of Black history, culture, and contributions across curriculum, environment, and programming](year-round-black-history-culture-integration.md)
 - [Embed integration elements in the robot's persona and background so multicultural inclusion is addressed within regular activities](embed-integration-elements-robot-persona.md)
 - [Belonging-Centered Instruction: real-world examples and integration of students' culture and community priorities into mathematics curricula](belonging-centered-instruction-components.md)
+- [Treat curriculum diversification as reflective pedagogical practice rather than content inclusion](diversification-as-reflective-pedagogical-practice.md)
 
 ## Related Elements
 - [Case Studies](../elements/case-studies.md) — the primary vehicle for embedding multiple perspectives in authentic problems

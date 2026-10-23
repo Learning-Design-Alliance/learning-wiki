@@ -48,3 +48,4 @@ Regression commonality analysis in the grade 5 sample (n=39): "both TA and VisA 
 - [The think-aloud measure predicts word problem solving performance, explaining 33 percent of variance](think-aloud-measure-predicts-problem-solving.md) — related
 - [A general self-report metacognition questionnaire shows no relationship with word problem solving performance and no convergence with on-line metacognitive measures in grade 5](self-report-questionnaire-no-convergence-online-metacognition.md) — related
 - [Several sophisticated metacognitive regulation activities showed little to no variance among grade 5 students during think-aloud problem solving](grade5-metacognitive-activities-no-variance.md) — related
+- [Controlling statistically for flexibility renders the training effect on word problem solving non-significant, suggesting flexibility explains the gains](flexibility-explains-word-problem-gains.md) — related

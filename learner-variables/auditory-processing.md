@@ -13,7 +13,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 22 claims (12 show a difference, 8 mixed, 2 no difference) · 12 studies (3 causal, 3 review, 3 associational, 2 quant-synthesis, 1 theoretical), `q2`–`q3` · 4 of 12 report an effect size · 20 claims rest on one study
+> **Evidence** · 24 claims (14 show a difference, 8 mixed, 2 no difference) · 13 studies (4 associational, 3 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q2`–`q3` · 5 of 13 report an effect size · 22 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -58,6 +58,8 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [Multisensory temporal precision in autism is linked to speech integration, language abilities, and clinical symptomatology](../claims/autism-temporal-precision-links-language-symptoms.md) [+W] — learners who differ on it differ in outcomes
 - [Older adults show larger multisensory gains for simple stimuli but multisensory deficits for complex speech stimuli](../claims/aging-multisensory-gains-simple-deficits-complex.md) [~M] — learners who differ on it differ in outcomes
 - [Culturally familiar emblematic gestures improve L2 speech perception and social evaluations, whereas unfamiliar emblems reduce them](../claims/culturally-familiar-emblems-aid-l2-perception.md) [+M] — instruction changes it
+- [In a double mediation path model, RCR is associated with listening comprehension, which is associated with vocabulary, with the direct vocabulary-to-RCR effect fully mediated](../claims/path-model-lc-vocabulary-rcr.md) [+W] — learners who differ on it differ in outcomes
+- [RCR is correlated with vocabulary and listening comprehension in the combined sample](../claims/rcr-correlated-semantic-abilities.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

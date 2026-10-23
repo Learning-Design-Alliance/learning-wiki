@@ -56,3 +56,4 @@ Observational study of 387 5th-grade students and their 63 math teachers, with i
 - [Teachers link low motivation and buy-in to middle-school developmental constraints, peer norms, and prior negative experiences with math or i-Ready](motivation-buy-in-theme-persistence.md) — related
 - [Middle school mathematics teachers frame low persistence in i-Ready Math as an interaction among motivational, cognitive, and contextual factors, with four recurring themes](teachers-frame-low-persistence-four-themes.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
+- [E-learning self-efficacy relates to both positive and negative achievement emotions, while computer self-efficacy relates only to positive emotions](e-learning-vs-computer-self-efficacy-emotions.md) — related

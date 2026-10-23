@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 79 claims (32 for, 44 mixed, 3 against) · 66 studies (29 causal, 15 review, 10 quant-synthesis, 9 theoretical, 2 associational, 1 design), `q1`–`q4` · 24 of 66 report an effect size · 70 claims rest on one study
+> **Evidence** · 80 claims (33 for, 44 mixed, 3 against) · 67 studies (29 causal, 15 review, 10 quant-synthesis, 10 theoretical, 2 associational, 1 design), `q1`–`q4` · 24 of 67 report an effect size · 71 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding](../claims/action-hurts-when-adding-motor-demands.md) [+W] — attached 2026-10-22 from Fred Paas et al. (2026), which proposed "Optimize cognitive load in embodied instruction: aim for better learning and transfer, not movement or lower load for its own sake"; tests this page's relationship.
 - [Consistently high task complexity yields faster immediate problem-solving than gradually increasing complexity, with no post-test difference](../claims/high-complexity-faster-immediate-performance.md) [~W] — attached 2026-10-22 from Ines Zeitlhofer et al. (2024), which proposed "Expose learners to consistently high task complexity to stimulate germane processing without harming intrinsic interest"; tests this page's relationship.
 - [Task complexity strongly affects germane cognitive load in Round 1, with effects dissipating by post-test](../claims/complexity-germane-load-round-effects.md) [~W] — attached 2026-10-22 from Ines Zeitlhofer et al. (2024), which proposed "Expose learners to consistently high task complexity to stimulate germane processing without harming intrinsic interest"; tests this page's relationship.
+- [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](../claims/clt-circumvent-working-memory-limits.md) [+W] — attached 2026-10-23 from Kirschner (2002), which proposed "Present information in ways that encourage learner activities that optimise intellectual performance".
 
 ## Objective and learner-valued goal
 

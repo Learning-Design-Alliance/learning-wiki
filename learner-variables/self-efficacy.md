@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 145 claims (108 show a difference, 22 mixed, 15 no difference) · 119 studies (46 associational, 22 causal, 18 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 26 of 119 report an effect size · 141 claims rest on one study
+> **Evidence** · 147 claims (108 show a difference, 24 mixed, 15 no difference) · 120 studies (47 associational, 22 causal, 18 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 26 of 120 report an effect size · 143 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -176,6 +176,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Perceived competence for social regulation negatively predicts external motivation and conduct problems, and perceived competence for tolerance positively predicts autonomous motivation](../claims/specific-perceived-sec-dimensions-unique-associations.md) [+M] — learners who differ on it differ in outcomes
 - [Class-level instructional quality (classroom management, cognitive activation, supportive climate) is positively related to student self-efficacy](../claims/instructional-quality-related-student-self-efficacy.md) [+M] — instruction changes it
 - [Teacher self-efficacy is not directly related to student self-efficacy or intrinsic motivation when teacher and student reports are combined at the class level](../claims/tse-not-related-student-motivational-beliefs.md) [-W] — learners who differ on it differ in outcomes
+- [Class and teacher organization and peer support positively predict self-efficacy, while workload negatively predicts e-learning self-efficacy but positively predicts computer self-efficacy](../claims/environmental-antecedents-self-efficacy-e-learning.md) [~W] — instruction changes it
+- [E-learning self-efficacy relates to both positive and negative achievement emotions, while computer self-efficacy relates only to positive emotions](../claims/e-learning-vs-computer-self-efficacy-emotions.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

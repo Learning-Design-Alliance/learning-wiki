@@ -71,3 +71,4 @@ This is a single-site design-based study (evidence tier q2) without a comparison
 - [An AI-enabled world demands a data-literate citizenry able to read, use, interpret, and communicate about data and participate in AI-related policy debates](ai-enabled-world-demands-data-literate-citizenry.md) — related
 - [Writing to the teacher led students to treat writing as evaluation and reproduce transmitted content rather than construct their own knowledge](teacher-audience-promotes-evaluation-not-construction.md) — related
 - [Awareness of discourse patterns lets teachers scaffold students toward an epistemic orientation and stance](discourse-pattern-awareness-scaffolds-epistemic-orientation.md) — related
+- [Teachers see diversification as deliberate design of experiences for engaging with difference, not curriculum expansion](diversification-as-pedagogical-design-not-content-inclusion.md) — related

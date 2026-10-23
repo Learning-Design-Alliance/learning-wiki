@@ -71,3 +71,4 @@ The commentary summarizes four experiments on second-language grammar acquisitio
 - [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](interleaved-practice-higher-math-test-scores.md) — related
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — a broader claim this one bears on
 - [Transfer to untrained words occurs for spelling but not for reading outcomes](morphology-transfer-untrained-words-spelling-not-reading.md) — related
+- [Training effects on flexibility and word problem solving are delayed, appearing at four-week follow-up but not directly after the training](delayed-training-effects-word-problems.md) — a narrower finding that bears on this claim

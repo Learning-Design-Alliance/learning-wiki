@@ -55,3 +55,4 @@ Review of behavioral data collected in all 54 experiments using tasks with congr
 - [The true-versus-false statement accuracy difference is larger for misconception than control trials, and significant for science but not maths](trial-statement-interaction-science-not-maths.md) — related
 - [The correlation between dot comparison performance and children's mathematics achievement is driven by incongruent, not congruent, trials](dot-comparison-math-link-driven-by-incongruent-trials.md) — related
 - [Gesture–speech incongruency disrupts multimodal processing, increasing response times and error rates](gesture-speech-incongruency-disrupts-processing.md) — related
+- [Verbal working memory positively and inhibitory control negatively relate to accuracy in the contrasting multiple-choice task](working-memory-and-inhibitory-control-contrasting-task.md) — related

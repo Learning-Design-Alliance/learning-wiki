@@ -80,3 +80,4 @@ Narrative review reporting the accumulated worked-example research, citing Coope
 - [Worked examples benefit learning even compared to tutored problem solving with on-demand guidance, indicating the effect is not an artefact of weak control conditions](worked-examples-beat-tutored-problem-solving.md) — related
 - [Solving practice problems invested less mental effort than contrasting or erroneous examples, contrary to the worked-example-effect hypothesis](practice-problems-lower-mental-effort.md) — reports the opposite
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — related
+- [Worked examples are studied for their effects on cognitive load in older learners (per Van Gerven, Paas, & Schmidt)](worked-examples-older-learners-cl.md) — related

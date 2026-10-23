@@ -68,3 +68,4 @@ Second invariance step for the student model. Because "the metric and the scalar
 - Student-reported mathematics instructional quality in pooled PISA 2012 data has five dimensions: teacher support, cognitive activation, classroom disciplinary climate, classroom management, and student-orientated instruction — related
 - A higher-order general instructional quality factor fits the student data in all seven countries but does not hold for teacher data — related
 - [Measurement invariance of secondary students' perceptions of instructional quality is examined and supported](student-perceptions-instructional-quality-measurement-invariance.md) — related
+- [The CVT-based model is invariant across gender and area of study but only configurally invariant across countries](cvt-model-invariance-gender-area-country.md) — related

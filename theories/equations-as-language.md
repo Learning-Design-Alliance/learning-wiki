@@ -17,7 +17,7 @@ sources:
 # Equations as Language
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 associational, 1 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Physics instruction often treats an equation as fully understood once a student can derive or correctly manipulate it. This theory argues that deriving an equation and comprehending it are separate achievements — analogous to the difference between decoding text and reading it with comprehension. Adapting a reading-comprehension framework from literacy research, the theory identifies three levels of understanding a physics equation:
@@ -42,7 +42,9 @@ A companion idea, anticipating mathematical formalisms through intuitive sensema
 - Building the capacity to use an equation as a tool for further inquiry, not just as an answer to a solved problem
 
 ## Claims
+
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [~W]
+- [The RCR index is distinct from reading comprehension level: good comprehenders do not necessarily show high RCR](../claims/rcr-index-distinct-from-comprehension.md) [~W]
 
 ## Related Theories
 - (none yet linked)
