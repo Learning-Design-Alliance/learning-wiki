@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 64 claims (14 for, 37 mixed, 13 against) · 52 studies (25 causal, 11 associational, 6 review, 5 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 19 of 52 report an effect size · 60 claims rest on one study
+> **Evidence** · 65 claims (14 for, 38 mixed, 13 against) · 53 studies (26 causal, 11 associational, 6 review, 5 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 19 of 53 report an effect size · 61 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -114,6 +114,7 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Situation-model-approach interventions show a medium-sized positive effect on metacomprehension accuracy and a small direct effect on comprehension](../claims/situation-model-interventions-metacomprehension-effect.md) [~W]
 - [In the CRT experiment, confidence appraisals predicted solving accuracy more strongly than goal-driven effort appraisals](../claims/confidence-predicts-accuracy-better-than-goal-driven-effort-crt.md) [~W]
 - [Oral explaining yields more accurate meta-comprehension judgments than written explaining and retrieval practice](../claims/oral-explaining-improves-meta-comprehension-accuracy.md) [~W]
+- [Students feel quite confident about their monitoring and regulation judgments even before self-scoring](../claims/students-confident-judgments-before-self-scoring.md) [~W]
 
 ## The evidence by question
 

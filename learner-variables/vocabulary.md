@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 82 claims (62 show a difference, 10 mixed, 10 no difference) · 62 studies (19 causal, 19 associational, 13 quant-synthesis, 6 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 17 of 62 report an effect size · 79 claims rest on one study
+> **Evidence** · 83 claims (62 show a difference, 11 mixed, 10 no difference) · 63 studies (20 associational, 19 causal, 13 quant-synthesis, 6 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 17 of 63 report an effect size · 80 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -123,6 +123,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Semantically congruent iconic gestures improve L2 vocabulary retention relative to meaningless or incongruent gestures](../claims/iconic-congruent-gestures-improve-retention.md) [+M] — instruction changes it
 - [Topical vocabulary knowledge is positively associated with adolescents' multiple-source integration, evaluation, and synthesis performance](../claims/topical-vocabulary-associated-with-multiple-source-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Academic vocabulary, verbal reasoning, nonverbal reasoning, and working memory directly predict sixth-grade geometric and fraction skills](../claims/advanced-linguistic-direct-effects-geometry-fractions.md) [+M] — learners who differ on it differ in outcomes
+- [Academic vocabulary relates to hypothesis validation and experimentation but not to generating conclusions in sixth graders](../claims/academic-vocabulary-relates-to-hypothesis-validation-experimentation.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

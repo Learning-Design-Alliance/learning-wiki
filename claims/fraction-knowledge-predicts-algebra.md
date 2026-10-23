@@ -67,3 +67,4 @@ Table 2 summary of findings shows fraction magnitude comparison related to algeb
 
 ## Related Claims
 - [Arithmetic skill may predict algebra understanding better than fraction conceptual knowledge or magnitude understanding](arithmetic-predicts-algebra-better-than-fraction-knowledge.md) — related
+- [The relation between fraction magnitude understanding and mathematics achievement is a general cognitive characteristic, not attributable to specifics of the U.S. educational system, though instruction quality may strengthen or weaken it](magnitude-achievement-relation-general-cognitive.md) — related

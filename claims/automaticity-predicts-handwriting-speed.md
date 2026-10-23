@@ -50,3 +50,4 @@ Cross-sectional SEM analysis of 93 Swiss fourth graders (mean age 10;7). The abs
 - [Automaticity of handwriting predicts orthographic skills even when visual-motor integration is included in the model](automaticity-predicts-orthographic-skills.md) — related
 - [Visual-motor integration is a predictor of orthographic skills in children](visual-motor-integration-predicts-orthographic-skills.md) — related
 - [Transcription skills are not longitudinally predictive of syntactic complexity in the upper elementary grades, consistent with their declining influence as handwriting and spelling automatize](transcription-skills-decline-upper-grades.md) — related
+- [Accuracy in retrieving orthographic and semantic information is not significantly affected by time spent handwriting or typing during learning](writing-duration-not-related-to-retrieval-accuracy.md) — related

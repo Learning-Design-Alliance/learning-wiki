@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 117 claims (80 show a difference, 21 mixed, 16 no difference) · 71 studies (25 causal, 20 associational, 10 quant-synthesis, 9 review, 4 theoretical, 3 design), `q1`–`q4` · 26 of 71 report an effect size · 112 claims rest on one study
+> **Evidence** · 120 claims (82 show a difference, 21 mixed, 17 no difference) · 72 studies (26 causal, 20 associational, 10 quant-synthesis, 9 review, 4 theoretical, 3 design), `q1`–`q4` · 26 of 72 report an effect size · 115 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -155,6 +155,9 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Handwriting duration of the first letter improves massively between Grade 1 and Grade 3, then plateaus](../claims/handwriting-duration-improves-grade1-to-grade3.md) [+M] — instruction changes it
 - [The graphomotor difficulty of the first letter affects handwriting duration, velocity, stops and size in all grades](../claims/first-letter-graphomotor-constraint-affects-all-grades.md) [+M] — instruction changes it
 - [The lexical frequency effect on writing a difficult first letter is present only in 1st graders, indicating spelling-motor interference before handwriting automation](../claims/frequency-interacts-with-letter-difficulty-in-grade-1-handwriting.md) [~W] — instruction changes it
+- [Accuracy in retrieving orthographic and semantic information is not significantly affected by time spent handwriting or typing during learning](../claims/writing-duration-not-related-to-retrieval-accuracy.md) [-M] — instruction changes it
+- [Readers with developmental dyslexia show better spelling and nonword-image association performance when novel words are learned through typing rather than handwriting](../claims/dyslexia-typing-better-spelling-and-association-than-handwriting.md) [+M] — instruction changes it
+- [Typically developing children benefit from both handwriting and typing when learning novel words](../claims/td-children-benefit-from-both-writing-modalities.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

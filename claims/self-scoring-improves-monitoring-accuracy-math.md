@@ -50,3 +50,5 @@ Multilevel regression at the before/after level for the whole sample and both sk
 - [Postdictions of performance are typically more accurate than predictions](postdictions-more-accurate-than-predictions.md) — related
 - [Interventions to improve monitoring accuracy in problem-solving tasks have a small positive overall effect (g = 0.25)](monitoring-accuracy-interventions-small-positive-effect-problem-solving.md) — related
 - [Whole-task, metacognitive knowledge, and external standard interventions significantly improve monitoring accuracy in problem solving](whole-task-metacognitive-knowledge-external-standard-interventions-improve-monitoring-accuracy.md) — related
+- [Self-scoring improves primary school students' regulation judgment accuracy in mathematics](self-scoring-improves-regulation-judgment-accuracy.md) — related
+- [Students feel quite confident about their monitoring and regulation judgments even before self-scoring](students-confident-judgments-before-self-scoring.md) — related

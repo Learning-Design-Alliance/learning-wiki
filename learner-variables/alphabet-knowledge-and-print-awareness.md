@@ -13,7 +13,7 @@ generated:
 # Alphabet Knowledge and Print Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 59 claims (31 show a difference, 14 mixed, 14 no difference) · 30 studies (18 causal, 6 quant-synthesis, 3 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 21 of 30 report an effect size · 58 claims rest on one study
+> **Evidence** · 60 claims (31 show a difference, 15 mixed, 14 no difference) · 31 studies (18 causal, 6 quant-synthesis, 4 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 21 of 31 report an effect size · 59 claims rest on one study
 
 ## Description
 Alphabet knowledge is knowing the names, written forms and sounds of letters, including letter combinations that represent a single sound. Print awareness is the understanding that print carries meaning and has different functions, and of how it works on the page (that text is read in a set direction, that words are separated by spaces, and so on), something experienced readers forget they had to learn. Both are measured in early childhood: alphabet knowledge by asking children to name and sound out randomly ordered upper- and lower-case letters, print awareness by informal assessments in which a child handles a book.
@@ -99,6 +99,7 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [Both hand-movement and whole-body teaching improve naming of conditional letter-sounds post-intervention; the hand-movement advantage persists at retention](../claims/embodied-conditional-letter-sound-naming.md) [+M] — instruction changes it
 - [Whole-body movement teaching improves 5–6-year-olds' letter-sound naming more than non-motor teaching, immediately and at 17–22-week retention](../claims/whole-body-movement-improves-letter-sound-naming.md) [+M] — instruction changes it
 - [Whole-body movement teaching improves matching of conditional letter-sounds to letters at retention compared with non-motor teaching](../claims/whole-body-improves-conditional-sound-matching-retention.md) [+M] — instruction changes it
+- [The direct effect of T1 decoding precursors on T2 reading comprehension held only when phonemic awareness and letter knowledge were both included, while RAN strengthened the prediction of decoding skills](../claims/precursor-combination-direct-effect-analysis.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

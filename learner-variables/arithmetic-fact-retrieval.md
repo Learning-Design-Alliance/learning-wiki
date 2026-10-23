@@ -13,7 +13,7 @@ generated:
 # Arithmetic Fact Retrieval
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 27 claims (13 show a difference, 6 mixed, 8 no difference) · 8 studies (7 associational, 1 causal), `q3` · 2 of 8 report an effect size · 25 claims rest on one study
+> **Evidence** · 28 claims (14 show a difference, 6 mixed, 8 no difference) · 9 studies (7 associational, 2 causal), `q3` · 3 of 9 report an effect size · 26 claims rest on one study
 
 ## Description
 Arithmetic fact retrieval is the ability to pull basic number combinations (3 + 4, 6 × 7) from long-term memory efficiently, accurately and flexibly, rather than working them out each time, so that they can be used inside larger calculations. It is usually assessed by having learners solve simple problems while their strategy is observed or self-reported (did they retrieve the answer or count it out?), and, for a fuller picture of accuracy, flexibility and efficiency, through interviews, observations and short untimed quizzes.
@@ -64,6 +64,7 @@ Facts are usually in place by the end of primary school, but the Learner Variabi
 - [Symbolic magnitude comparison contributes more unique variance to fourth graders' multiplication fact performance than nonsymbolic magnitude comparison](../claims/symbolic-beats-nonsymbolic-multiplication-variance.md) [+M] — instruction changes it
 - [The association between nonsymbolic magnitude comparison and multiplication facts is similar across trial types (OTS/ANS range and congruency), and the symbolic comparison association is similar across numerical distances](../claims/nonsymbolic-multiplication-link-trial-type-independent.md) [+S] — instruction changes it
 - [Tutoring condition interacts with MD subtype status in effects on third graders' fact retrieval skill](../claims/fact-retrieval-tutoring-md-subtype-interaction.md) [~M] — an instructional effect differs with it
+- [Children retain self-derived knowledge over a one-week delay in classroom settings, with performance increasing from Session 1 to Session 2](../claims/retention-self-derived-knowledge-one-week.md) [+M] — instruction changes it
 
 ## Measures
 - **Open-ended formats** (Kling & Bay-William, 2014): Using a range of measures including student interviews, observations, writing prompts, and short, untimed quizzes around solving simple arithmetic problems can help capture students' accuracy, flexibility, and efficiency which are core components of Arithmetic Fact Retrieval.

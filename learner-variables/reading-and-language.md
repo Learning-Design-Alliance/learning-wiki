@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 188 claims (121 show a difference, 26 mixed, 41 no difference) · 136 studies (36 causal, 31 associational, 29 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 31 of 136 report an effect size · 179 claims rest on one study
+> **Evidence** · 189 claims (121 show a difference, 27 mixed, 41 no difference) · 137 studies (36 causal, 32 associational, 29 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 31 of 137 report an effect size · 180 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -239,6 +239,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [No bilingual advantage in executive control or working memory in Experiment 2](../claims/no-bilingual-advantage-executive-control.md) [-M] — learners who differ on it differ in outcomes
 - [The bilingual advantage on hard items cannot be attributed to SES differences](../claims/ses-ruled-out-bilingual-advantage.md) [+M] — learners who differ on it differ in outcomes
 - [The bilingual advantage on hard Symbol Math items replicated in Experiment 2 with executive control and SES measures](../claims/bilingual-advantage-hard-symbol-math-exp2.md) [+M] — learners who differ on it differ in outcomes
+- [At the end of French first grade, T2 decoding skills and T2 lower level language skills predicted reading comprehension, but T2 discourse skills did not](../claims/t2-decoding-and-lll-predict-reading-comprehension.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

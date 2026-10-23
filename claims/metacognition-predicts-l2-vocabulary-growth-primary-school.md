@@ -69,3 +69,4 @@ An additional hierarchical regression checked whether metacognitive measures pre
 - [Metacognitive efficiency at Grade 1 predicts children's performance improvement 10 months later in both a linguistic and a non-linguistic task](metacognitive-efficiency-predicts-longitudinal-learning.md) — related
 - [Young children maintain correct responses more easily than they withdraw incorrect responses on an L2 vocabulary task](withdrawal-harder-than-maintenance-l2-metacognitive-control.md) — related
 - [In the Forward temporal model, initial enjoyment predicted later engagement, while initial boredom did not and emotions were unrelated to later raw performance](forward-model-enjoyment-engagement-temporal.md) — related
+- [Students feel quite confident about their monitoring and regulation judgments even before self-scoring](students-confident-judgments-before-self-scoring.md) — related

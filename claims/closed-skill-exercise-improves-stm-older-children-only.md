@@ -67,3 +67,4 @@ In the older group of the same experiment, the closed-skill circuit produced a p
 - [Age may moderate acute PA effects on attention: effects appeared for 9–10 year olds but not 7–8 year olds](age-moderates-pa-attention-effect.md) — related
 - [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related
 - [Anthropomorphic explanations appear in older children but less frequently, with only a minority of 14-year-olds' fuse explanations anthropomorphic](anthropomorphic-explanations-lessen-with-age.md) — related
+- [Training effects on spatial language comprehension and verbal number skills tended to appear in younger rather than older children](age-moderates-training-effects.md) — related

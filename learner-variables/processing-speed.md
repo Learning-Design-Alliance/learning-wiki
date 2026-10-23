@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (23 show a difference, 16 mixed, 3 no difference) · 26 studies (12 associational, 5 quant-synthesis, 4 review, 3 causal, 2 qualitative), `q1`–`q4` · 6 of 26 report an effect size · 42 claims rest on one study
+> **Evidence** · 43 claims (24 show a difference, 16 mixed, 3 no difference) · 27 studies (13 associational, 5 quant-synthesis, 4 review, 3 causal, 2 qualitative), `q1`–`q4` · 6 of 27 report an effect size · 43 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -78,6 +78,7 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [Phonological awareness accounted for more unique variance in reading accuracy than RAN in the orthographies studied, while English was the only orthography where RAN added substantial unique variance (14.2%) and total explained variance was highest (39%)](../claims/reading-accuracy-predictors-english-ran-exception.md) [~M] — learners who differ on it differ in outcomes
 - [Phonological processing and RAN constitute two separate factors that both account for significant unique variance in literacy attainment in all five orthographies](../claims/phonology-ran-two-separate-literacy-factors-european.md) [+M] — learners who differ on it differ in outcomes
 - [RAN explained more unique variance in reading speed than phonological measures in English, French, German and Hungarian (16.7 to 22.8%), with Finnish the exception where all proximal factors contributed low, roughly equal amounts](../claims/ran-strongest-reading-speed-predictor-five-orthographies.md) [~M] — learners who differ on it differ in outcomes
+- [The direct effect of T1 decoding precursors on T2 reading comprehension held only when phonemic awareness and letter knowledge were both included, while RAN strengthened the prediction of decoding skills](../claims/precursor-combination-direct-effect-analysis.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

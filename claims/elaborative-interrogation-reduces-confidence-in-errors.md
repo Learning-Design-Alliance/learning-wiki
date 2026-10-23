@@ -70,3 +70,4 @@ Experiment 2 certainty analysis: three-way strategy-by-accuracy-by-certainty int
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — a broader claim this one bears on
 - [Elaborative interrogation improved true/false test performance in an introductory biology course context](elaborative-interrogation-biology-course-context.md) — related
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](response-quality-little-effect-on-elaborative-interrogation-retention.md) — related
+- [Children's confidence in endorsing statements indicates they were not confused by hybrid statements](confidence-judgments-hybrid-not-confusion.md) — related

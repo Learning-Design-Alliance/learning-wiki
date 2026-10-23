@@ -48,7 +48,8 @@ This instructional strategy follows from the finding that spelling and graphomot
 - [A pre-experiment cluster analysis identified b, f, g and p as the most graphomotor-difficult cursive consonants for 1st graders](../claims/pre-experiment-difficult-letters-bfgp.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate typing into educational strategies to alleviate handwriting-related cognitive load and support word retention for students with dyslexia](typing-to-alleviate-handwriting-cognitive-load-dyslexia.md)
 
 ## Examples
 -

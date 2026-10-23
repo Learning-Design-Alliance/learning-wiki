@@ -50,3 +50,4 @@ Hierarchical regressions on global coherence inference scores showed that althou
 - [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](developmental-improvements-local-global-coherence-inferences.md) — related
 - [Vocabulary fully mediates the effect of working memory on both local and global coherence inference making in 6- to 10-year-olds](vocabulary-mediation-working-memory-inference.md) — related
 - [Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds](vocabulary-unique-predictor-local-coherence-younger-children.md) — related
+- [Linguistic inferencing uniquely predicts all three components of children's scientific reasoning over and above visuospatial inferencing](linguistic-inferencing-predicts-all-scientific-reasoning-components.md) — related

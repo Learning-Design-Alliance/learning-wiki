@@ -13,7 +13,7 @@ generated:
 # Inferencing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 33 claims (24 show a difference, 5 mixed, 4 no difference) · 16 studies (10 causal, 4 review, 2 associational), `q1`–`q4` · 5 of 16 report an effect size · 32 claims rest on one study
+> **Evidence** · 35 claims (25 show a difference, 6 mixed, 4 no difference) · 17 studies (10 causal, 4 review, 3 associational), `q1`–`q4` · 5 of 17 report an effect size · 34 claims rest on one study
 
 ## Description
 Inferencing is the work a reader does to supply meaning a text does not state outright: linking one sentence to another, connecting the text to what the reader already knows or has experienced, and adding what is learned to existing knowledge. It supports reading comprehension, and the Learner Variability Navigator notes that it develops with age, moving from inferences drawn from within the text towards deeper inferences that draw on the reader's own knowledge. It is usually assessed through comprehension questions that ask for information the text implies rather than states; LVN lists no dedicated measure for it.
@@ -69,6 +69,8 @@ It matters most in middle and high school, where subject-specific texts assume b
 - [Generating explanations (oral or written) outperforms retrieval practice on inference-based questions for the high-difficult text](../claims/explaining-outperforms-retrieval-high-difficult-text.md) [+W] — instruction changes it
 - [Text difficulty moderates the effect of explaining modality: oral explaining outperforms written explaining on inference-based questions only for the high-difficult text](../claims/text-difficulty-moderates-explaining-modality-effect.md) [~M] — instruction changes it
 - [Narrative comprehension of bridging inferences remains stable across the adult age span](../claims/narrative-comprehension-stable-across-adult-age.md) [-W] — instruction changes it
+- [Linguistic inferencing uniquely predicts all three components of children's scientific reasoning over and above visuospatial inferencing](../claims/linguistic-inferencing-predicts-all-scientific-reasoning-components.md) [+W] — learners who differ on it differ in outcomes
+- [Visuospatial inferencing relates to hypothesis validation and experimentation but not to generating conclusions when linguistic abilities are controlled](../claims/visuospatial-inferencing-stage-specific-scientific-reasoning.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

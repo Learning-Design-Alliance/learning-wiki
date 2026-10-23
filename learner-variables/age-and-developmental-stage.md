@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 164 claims (103 show a difference, 39 mixed, 22 no difference) · 132 studies (50 associational, 23 review, 22 quant-synthesis, 21 causal, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 20 of 132 report an effect size · 162 claims rest on one study
+> **Evidence** · 165 claims (104 show a difference, 39 mixed, 22 no difference) · 133 studies (50 associational, 23 review, 22 causal, 22 quant-synthesis, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 20 of 133 report an effect size · 163 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -196,6 +196,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [The teacher-student SEC relationship is moderated by student SES, teacher years of experience, SEC measurement method, and grade level](../claims/sec-relationship-moderators-ses-experience-measurement-grade.md) [+M] — an instructional effect differs with it
 - [Feedback features shift with age: scaffolds (prompts, audio, physical demonstrations) cluster in ages 3-7 while written and paper-based feedback appears only from age 8](../claims/feedback-features-tailored-by-age.md) [+W] — an instructional effect differs with it
 - [Positive feedback effects occur across the full age range 3-11, with no pattern of stronger effects in older children](../claims/feedback-effects-no-age-gradient.md) [-W] — an instructional effect differs with it
+- [Training effects on spatial language comprehension and verbal number skills tended to appear in younger rather than older children](../claims/age-moderates-training-effects.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

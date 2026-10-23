@@ -45,3 +45,4 @@ Two-year dropout tracking comparing the 1995 pre-policy cohort with the 1997 coh
 ## Related Claims
 - [Second-year outcomes were worst for retained eighth graders and Transition Center students: only 27% met the criteria by May 1998 and about 16% of officially retained eighth graders dropped out](retained-eighth-graders-worst-outcomes-dropout.md) — related
 - [Retention at the promotion gate increased the likelihood of dropping out by about 8 percentage points by age 17 and 13 points by age 19](gate-retention-increased-dropout-likelihood.md) — a broader claim this one bears on
+- [Dropout intentions increased over the school year among 9th-grade students](dropout-intentions-increase-over-school-year.md) — related

@@ -55,3 +55,4 @@ Hayes, R. L., and Kan, P. F. (2026). Shared and divergent patterns in narrative 
 - Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall — related
 - [Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension](story-grammar-structure-aids-narrative-memory.md) — related
 - [Socioeconomic status differences between bilingual and monolingual groups may determine study outcomes](ses-moderates-bilingual-executive-function-results.md) — related
+- [Performance differences based on transcription complexity index the extent to which children internalized lexical representations](transcription-complexity-indexes-lexical-internalization.md) — related

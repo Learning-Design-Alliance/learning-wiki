@@ -66,3 +66,4 @@ Narrative review of Bui et al. (2013, study 2, n = 76), a 2x2 design with organi
 - [Lecture modality (written, audio, video, live) shows no consistent effect on memory for lecture content or on the note-taking effect](lecture-modality-no-effect-note-taking-memory.md) — related
 - [Transcribed versus organised note-taking effects depend on lecture format: transcription won with audio lectures, summarising won with text](note-structure-transcribe-organise-format-dependent.md) — related
 - [Taking and reviewing handwritten notes yields slightly higher achievement than typing notes among college students, by one meta-analysis reported second-hand](handwritten-notes-higher-achievement-than-typing.md) — related
+- [Typically developing children benefit from both handwriting and typing when learning novel words](td-children-benefit-from-both-writing-modalities.md) — related

@@ -55,3 +55,4 @@ Pearson (partial, motor-RT-controlled) correlations in 86 third graders; the sym
 - [Number naming and number comparison are better predictors of kindergarten arithmetic than number line estimation](number-naming-comparison-better-predictors-than-number-line-estimation.md) — related
 - [Numerical magnitude processing is significantly associated with children's mental multi-digit subtraction performance, controlling for intellectual ability and motor speed](magnitude-processing-associated-mental-multidigit-subtraction.md) — related
 - [Inhibition does not uniquely predict arithmetic fact retrieval above numerical magnitude processing](inhibition-no-unique-contribution-fact-retrieval.md) — related
+- [Symbolic magnitude comparison is a stronger longitudinal predictor of mathematical achievement than nonsymbolic comparison](symbolic-stronger-predictor-than-nonsymbolic.md) — related
