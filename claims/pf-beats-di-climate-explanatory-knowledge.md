@@ -47,3 +47,5 @@ Two-way ANOVA on climate explanatory knowledge in the same quasi-experiment (110
 - [Ninth-grade students in a Productive Failure design scored significantly higher than Direct Instruction students on complex systems explanatory knowledge about climate](pf-beats-di-complex-systems-explanatory-knowledge.md) — related
 - [DI students relied on notes rather than exploring the agent-based models, while PF classes showed lively collaborative exploration and questioning](di-passive-note-reliance-vs-pf-exploration.md) — related
 - [PF students scored significantly higher than DI students on near transfer (butterfly effect problem)](pf-beats-di-near-transfer-butterfly-effect.md) — related
+- [Both one-model and two-model productive failure groups significantly improved weather and climate declarative knowledge, with no difference between conditions](pf-climate-declarative-knowledge-gains-no-condition-effect.md) — related
+- [Both treatment groups significantly improved climate explanatory knowledge, with no reliable condition or teacher-expertise differences](pf-climate-explanatory-knowledge-gains-spurious-interaction.md) — reports the opposite

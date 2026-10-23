@@ -40738,5 +40738,25 @@
  "worked-examples\tworked examples\tnot stated": {
   "label": "worked examples vs no worked examples",
   "treatment_is_a": true
+ },
+ "case-comparison\tTwo Models condition with analogical comparison\tOne Model condition using one climate model": {
+  "label": "two models with analogical comparison vs one model",
+  "treatment_is_a": true
+ },
+ "case-comparison\tTwo Models hybrid PF and analogical comparison\tOne Model PF design using one model": {
+  "label": "two models with analogical comparison vs one model",
+  "treatment_is_a": true
+ },
+ "case-comparison\ttwo computer models with analogical comparison\tone climate model": {
+  "label": "two models with analogical comparison vs one model",
+  "treatment_is_a": true
+ },
+ "case-comparison\ttwo computer models with analogical comparison\tone computer model": {
+  "label": "two models with analogical comparison vs one model",
+  "treatment_is_a": true
+ },
+ "case-comparison\ttwo computer models with explicit comparison\tone computer model": {
+  "label": "two models with explicit comparison vs one model",
+  "treatment_is_a": true
  }
 }

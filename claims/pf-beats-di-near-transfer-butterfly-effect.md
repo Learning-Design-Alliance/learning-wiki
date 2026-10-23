@@ -49,3 +49,4 @@ Two-way ANOVA on the butterfly effect near transfer problem, which required appr
 - [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](pf-outperformed-di-variance-conceptual-transfer.md) — a broader claim this one bears on
 - [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related
 - [DI-PS significantly outperformed PS-DI on the two supplier-reasoning problem-solving criteria (d = .60 and d = .64)](di-ps-outperforms-ps-di-supplier-reasoning-criteria.md) — related
+- [Both treatment groups improved near within domain transfer, but the One Model Group's benefit depended on having a content-expert teacher while the Two Models Group's did not](near-transfer-teacher-expertise-interaction-one-model.md) — related

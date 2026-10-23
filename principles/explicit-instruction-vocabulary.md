@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (24 for, 6 mixed, 1 against) · 37 studies (12 causal, 11 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 37 report an effect size · 21 claims rest on one study
+> **Evidence** · 32 claims (25 for, 6 mixed, 1 against) · 38 studies (13 causal, 11 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 38 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Emi Raises Efl Morphological Awareness](../claims/emi-raises-efl-morphological-awareness.md) [+M]
 - [Emi Raises Efl Reading Comprehension](../claims/emi-raises-efl-reading-comprehension.md) [+M]
 - [Emi Effect Size Larger For Awareness Than Comprehension](../claims/emi-effect-size-larger-for-awareness-than-comprehension.md) [~M]
+- [Contrasting orthographically similar L2 words during multiple-choice learning improves their subsequent recall in the productive direction](../claims/contrasting-orthographically-similar-l2-words-improves-recall.md) [+W] — attached 2026-10-23 from Baxter et al. (2022), which proposed "Use contrasting of orthographically similar new L2 words to sharpen form representations".
 
 ## Objective and learner-valued goal
 

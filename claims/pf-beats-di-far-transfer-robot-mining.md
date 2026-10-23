@@ -46,3 +46,4 @@ Two-way ANOVA on the post-test-only robot gold mining far transfer problem, a to
 - [Ninth-grade students in a Productive Failure design scored significantly higher than Direct Instruction students on complex systems explanatory knowledge about climate](pf-beats-di-complex-systems-explanatory-knowledge.md) — related
 - [PF students scored significantly higher than DI students on near transfer (butterfly effect problem)](pf-beats-di-near-transfer-butterfly-effect.md) — related
 - [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](pf-outperformed-di-variance-conceptual-transfer.md) — a broader claim this one bears on
+- [Students who compared a climate model with non-climate analog models during productive failure scored significantly higher on far across domain transfer than students who used only the climate model](two-models-comparison-far-across-domain-transfer.md) — related
