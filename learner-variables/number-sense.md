@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 71 claims (48 show a difference, 14 mixed, 9 no difference) · 29 studies (16 associational, 5 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 11 of 29 report an effect size · 69 claims rest on one study
+> **Evidence** · 73 claims (50 show a difference, 14 mixed, 9 no difference) · 30 studies (17 associational, 5 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 12 of 30 report an effect size · 71 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -106,6 +106,8 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Training effects on the non-symbolic number line are size-specific: non-symbolic training improves large numerosities, symbolic training small numerosities](../claims/number-line-training-size-specific-effects.md) [~M] — instruction changes it
 - [Typically achieving children outperform children with mathematical learning difficulties on the SYMP one-digit subtest in Grades 1–5 and the two-digit subtest in Grades 2–5, but not in Grade 6](../claims/symp-mld-lower-except-grade-6.md) [~M] — instruction changes it
 - [Arithmetic skill may predict algebra understanding better than fraction conceptual knowledge or magnitude understanding](../claims/arithmetic-predicts-algebra-better-than-fraction-knowledge.md) [-W] — learners who differ on it differ in outcomes
+- [COVID kindergarten closures caused the greatest school-readiness loss in basic counting and numeracy skills, growing from d = 0.16 after three months to d = 0.23 a year later](../claims/kindergarten-closure-numeracy-loss.md) [+W] — instruction changes it
+- [Kindergarten closures hit children in low-SES schools hardest in basic counting and numeracy skills (d = 0.2 in 2020; d = 0.3 in 2021), widening inequalities](../claims/kindergarten-low-ses-numeracy-loss.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

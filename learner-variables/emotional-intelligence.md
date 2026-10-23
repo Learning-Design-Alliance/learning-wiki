@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 41 claims (32 show a difference, 3 mixed, 6 no difference) · 31 studies (10 review, 8 causal, 6 quant-synthesis, 5 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 31 report an effect size · 40 claims rest on one study
+> **Evidence** · 43 claims (34 show a difference, 3 mixed, 6 no difference) · 32 studies (10 review, 8 causal, 6 quant-synthesis, 6 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 32 report an effect size · 42 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -77,6 +77,8 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Some SECs show no association with engagement dimensions in individual studies, including emotion regulation with behavioural engagement and intentional self-regulation compensation](../claims/null-associations-some-secs-engagement.md) [-M] — learners who differ on it differ in outcomes
 - [Individual differences such as trait emotional intelligence and learner autonomy shape emotional experiences during language development](../claims/individual-differences-shape-sla-emotion-dynamics.md) [+M] — learners who differ on it differ in outcomes
 - [Expressively oriented literary programs improved ToM, emotion understanding, and self-reported insight in children and adolescents](../claims/expressive-literary-programs-improve-tom-empathy.md) [+M] — instruction changes it
+- [Global perceived-SEC is positively associated with autonomous motivation, introjected motivation, and prosocial behavior, and negatively with conduct problems](../claims/global-perceived-sec-predicts-motivation-and-behaviors.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived competence for social regulation negatively predicts external motivation and conduct problems, and perceived competence for tolerance positively predicts autonomous motivation](../claims/specific-perceived-sec-dimensions-unique-associations.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

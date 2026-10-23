@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 161 claims (96 show a difference, 47 mixed, 18 no difference) · 131 studies (36 causal, 31 review, 21 theoretical, 18 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 19 of 131 report an effect size · 144 claims rest on one study
+> **Evidence** · 165 claims (99 show a difference, 48 mixed, 18 no difference) · 132 studies (37 causal, 31 review, 21 theoretical, 18 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 19 of 132 report an effect size · 148 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -209,6 +209,10 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Math achievement at the end of second grade is predicted by fluid intelligence, verbal working memory, and prior math achievement](../claims/math-achievement-t2-predictors.md) [+M] — learners who differ on it differ in outcomes
 - [On the delayed test, a significant three-way interaction showed a worked example effect for high element interactivity material and a generation effect for low element interactivity material for novices](../claims/delayed-test-three-way-interaction-element-interactivity-guidance-expertise.md) [+M] — an instructional effect differs with it
 - [The experiment demonstrated an expertise reversal effect: high guidance via worked examples was redundant for more knowledgeable Year 11 learners](../claims/expertise-reversal-effect-worked-examples-redundant.md) [+M] — an instructional effect differs with it
+- [In Experiment 1, model concepts increase monotonically with expertise while detailed biomedical concepts show an inverted U, confirming knowledge encapsulation](../claims/model-concepts-increase-detailed-inverted-u.md) [+M] — learners who differ on it differ in outcomes
+- [In Experiment 1, the total number of concepts used in pathophysiological case explanations shows an inverted U-shaped relation with level of medical expertise](../claims/inverted-u-expertise-total-concepts.md) [+M] — learners who differ on it differ in outcomes
+- [In Experiment 2, an interaction between probe and expertise shows intermediates' enabling-condition knowledge is not yet integrated into their illness scripts](../claims/probe-expertise-interaction-integration.md) [~M] — learners who differ on it differ in outcomes
+- [In Experiment 2, the proportion of fault (pathophysiological) statements decreased monotonically with expertise regardless of probe](../claims/fault-statements-decrease-expertise.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

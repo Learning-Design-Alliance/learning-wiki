@@ -47,3 +47,4 @@ Qualitative pattern across excerpts (e.g. surgical 'pull back' commands, adze-kn
 - [Most identified scaffolding behaviours in expert-novice visual interaction are active verbal cueing, followed by active verbal chunking](cueing-dominates-scaffolding-excerpts.md) — related
 - [Isolated nonverbal cues require novice proficiency and receptiveness to be effective](nonverbal-cues-require-novice-proficiency.md) — related
 - [Active verbal cues provide concrete, partial information that reduces novices' uncertainty during visual problem-solving](verbal-cues-reduce-uncertainty.md) — related
+- [Students with ASD always used verbal means to solicit help, plus nonverbal and verbal means to draw teachers' attention](asd-help-seeking-verbal-and-nonverbal-means.md) — related

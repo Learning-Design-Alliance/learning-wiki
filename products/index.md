@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1846 entries** · 0 stable · 1846 in review · 0 drafts
+**1849 entries** · 0 stable · 1849 in review · 0 drafts
 
 ---
 
@@ -40,6 +40,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [AdaPT](adapt.md) - AdaPT is a Vue.js and TypeScript NestJS web application developed by Yanjie Zhang and colleagues that structures existing lesson plans, analyzes student learning profiles, and supports teacher-in-the-loop adaptation for differentiated K–12 instruction.
 * [Adapted 15-item Internet Skills Scale](adapted-15-item-internet-skills-scale.md) - A culturally adapted self-report scale measuring operational, formal/navigation, and informational/evaluation Internet skills among Latin American college students.
 * [Adapted ATES low-inference observation instrument for coding explicit and implicit SRL instruction](adapted-ates-low-inference-observation-instrument-for-coding-explicit-and-implicit-srl-ins.md) - An adapted low-inference ATES classroom-observation instrument developed by Sins et al.
+* [Adapted Ottawa Global Rating Scale for leadership and communication in CRM simulations](adapted-ottawa-global-rating-scale-for-leadership-and-communication-in-crm-simulations.md) - An expert-rated, video-based performance assessment adapted by Emergency Medicine researchers to score medical residents' crisis-resource-management leadership and communication on anchored ordinal scales.
 * [AdaptED Stories](adapted-stories.md) - A practitioner-facing web application developed by the AdaptED Stories research team for authoring, personalizing, and delivering Social Stories to autistic children, with practitioner review, reading-session supports, and analytics.
 * [Adapted TPACK-21 questionnaire for GenAI-infused higher education instruction](adapted-tpack-21-questionnaire-for-genai-infused-higher-education-instruction.md) - A six-point faculty self-report questionnaire adapted from the Valtonen et al.
 * [Adaptive Cognitive Evaluation Classroom (ACE-C)](adaptive-cognitive-evaluation-classroom-ace-c.md) - A group-administered iPad battery developed by Gallen et al.
@@ -468,6 +469,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Ed Trust Teacher Diversity 50-State Scan data tool](ed-trust-teacher-diversity-50-state-scan-data-tool.md) - A publicly available Ed Trust data and rating tool that compares states' progress on educator-diversity policies using evidence-based criteria and three-level ratings.
 * [ED-AI Lit framework](ed-ai-lit-framework.md) - Developed by Allen and Kendeou, the ED-AI Lit framework organizes AI literacy into six dimensions: Knowledge, Evaluation, Collaboration, Contextualization, Autonomy, and Ethics.
 * [Edcamp](edcamp.md) - Edcamp is a participant-driven professional-learning programme and event model, supported by the Edcamp Foundation, in which educators choose topics, lead peer sessions, and collaboratively share resources.
+* [eDia computer-based diagnostic assessment system](edia-computer-based-diagnostic-assessment-system.md) - eDia is an integrated online assessment platform developed and operated for Hungarian education that administers technology-based diagnostic tests, supports IRT-based analysis, and provides interpretable feedback.
 * [EDIT measure](edit-measure.md) - The EDIT is a measurement tool developed for the Office of Planning, Research, and Evaluation by Mathematica Policy Research and partners to examine early childhood teachers' ongoing assessment, individualization, and instructional decision-making practices.
 * [EDLS](edls.md) - A Digital Promise student survey measuring course experiences, digital-learning practices and challenges, and equity and inclusion perspectives, with demographic data for disaggregation and dashboard reporting.
 * [Edmentum Exact Path](edmentum-exact-path.md) - Edmentum Exact Path is a personalized K–12 learning platform that uses diagnostic and adaptive assessments to create individualized Math and English Language Arts learning paths and report student growth.
@@ -1250,6 +1252,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Penny](penny.md) - Penny is a GPT-4o-powered chatbot developed by Steve Woollaston and colleagues to support Japanese junior-high EFL learners' English writing practice through structured corrective feedback.
 * [Penquiry V2](penquiry-v2.md) - Penquiry V2 is a pen-based interactive in-situ question-and-answer system developed for learners to query an LLM while studying digital PDF materials.
 * [Pepper](pepper.md) - Pepper is a humanoid social-robot platform developed by SoftBank Robotics for multimodal social interaction and educational applications.
+* [Perceived Social-Emotional Competence Scale (five dimensions)](perceived-social-emotional-competence-scale-five-dimensions.md) - A five-dimension, 1–7 student self-report scale developed by Collie for assessing adolescents’ perceived competence in social-emotional skills.
 * [Perception of AI Utility Questionnaire](perception-of-ai-utility-questionnaire.md) - A 12-item Likert questionnaire developed by Suriá-Martínez et al.
 * [PerFit](perfit.md) - PerFit is an R package that computes person-fit statistics for item-response and assessment data, developed for researchers conducting person-fit analysis.
 * [Performance Assessment Resource Bank](performance-assessment-resource-bank.md) - A CCSSO collaboration with the Stanford Center for Assessment, Learning, and Equity (SCALE) and the Stanford Center for Opportunity Policy in Education (SCOPE) that provides reviewed curriculum-embedded performance tasks, units, rubrics, scored student work, and educator training protocols.

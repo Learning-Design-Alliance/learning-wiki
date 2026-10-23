@@ -72,3 +72,4 @@ LGC fit comparison for Han students' VK breadth favored the linear model on AIC,
 - [In Han students, higher initial metacognitive knowledge predicted both a higher starting point and a faster growth rate of vocabulary breadth](mck-predicts-vk-han-parallel-development.md) — related
 - [Achievement across the four instructional units followed a non-linear, sinusoid-like pattern with a pronounced drop in the final measure, and a non-linear latent growth model fit better than a linear one](nonlinear-achievement-growth-pattern.md) — a narrower finding that bears on this claim
 - [Han students' metacognitive knowledge scores were significantly higher than Yao students' at each of four annual measurements from grade 3 to grade 6](han-higher-mck-than-yao-each-year.md) — related
+- [The relation of autonomous motivation to grades is curvilinear, with grades accelerating at higher autonomous motivation](curvilinear-autonomous-motivation-grades.md) — related

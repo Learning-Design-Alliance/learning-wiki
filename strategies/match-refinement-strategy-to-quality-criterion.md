@@ -40,7 +40,8 @@ The article recommends coordinating validator feedback differently depending on 
 - [Multi Agent Generate Validate Revise Personalization Framework](../designs/multi-agent-generate-validate-revise-personalization-framework.md)
 
 ## Related Strategies
-- 
+
+- [Combine holistic with analytic scores as a complementary approach to enhance rating validity](combine-holistic-analytic-complementary-scoring.md)
 
 ## Examples
 -

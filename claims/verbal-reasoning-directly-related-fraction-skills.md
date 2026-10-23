@@ -47,3 +47,4 @@ Second mediation analysis with 167 fifth graders, fraction skills as dependent v
 - [Basic linguistic skills and working memory are indirectly related to fifth-grade fraction skills via arithmetic skills](basic-linguistic-skills-indirect-fractions-via-arithmetic.md) — related
 - [Phonological skills were not significantly correlated with fraction skills, and verbal reasoning was not significantly correlated with arithmetic skills](null-correlations-phonological-fractions-verbal-reasoning-arithmetic.md) — related
 - [Basic linguistic skills and working memory are indirectly related to fifth-grade geometric skills via arithmetic skills](basic-linguistic-skills-indirect-geometry-via-arithmetic.md) — related
+- [Academic vocabulary, verbal reasoning, nonverbal reasoning, and working memory directly predict sixth-grade geometric and fraction skills](advanced-linguistic-direct-effects-geometry-fractions.md) — a broader claim this one bears on

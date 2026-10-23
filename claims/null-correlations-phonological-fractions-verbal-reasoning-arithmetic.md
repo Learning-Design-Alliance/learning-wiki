@@ -49,3 +49,5 @@ Pearson correlations among predictor and criterion measures (N = 167) computed b
 - [Basic linguistic skills and working memory are indirectly related to fifth-grade fraction skills via arithmetic skills](basic-linguistic-skills-indirect-fractions-via-arithmetic.md) — reports the opposite
 - [Basic linguistic skills and working memory are indirectly related to fifth-grade geometric skills via arithmetic skills](basic-linguistic-skills-indirect-geometry-via-arithmetic.md) — related
 - [Verbal reasoning is directly related to fifth-grade fraction skills over and above arithmetic skills](verbal-reasoning-directly-related-fraction-skills.md) — related
+- [Academic vocabulary, verbal reasoning, nonverbal reasoning, and working memory directly predict sixth-grade geometric and fraction skills](advanced-linguistic-direct-effects-geometry-fractions.md) — related
+- [Phonological skills and naming speed indirectly predict sixth-grade geometric and fraction skills via arithmetic skills in both DLD and TD children](phonological-naming-speed-indirect-via-arithmetic.md) — related

@@ -54,3 +54,4 @@ In the final longitudinal path model, counting and number knowledge at t2 predic
 - [Kindergarten phonological awareness explains about 34% of the variance in basic numerical skills (QNC Level I) one year later](phonological-awareness-predicts-qnc-level-i.md) — related
 - [Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample](numeracy-measurable-54-months-three-competencies.md) — related
 - [Executive skills, but not nonverbal IQ, at age 3–4 predict preschool counting and number knowledge](executive-skills-not-nonverbal-iq-predict-number-skills.md) — related
+- [COVID kindergarten closures caused the greatest school-readiness loss in basic counting and numeracy skills, growing from d = 0.16 after three months to d = 0.23 a year later](kindergarten-closure-numeracy-loss.md) — related

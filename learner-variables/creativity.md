@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 86 claims (59 show a difference, 21 mixed, 6 no difference) · 42 studies (12 causal, 11 review, 11 associational, 4 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 10 of 42 report an effect size · 84 claims rest on one study
+> **Evidence** · 87 claims (60 show a difference, 21 mixed, 6 no difference) · 43 studies (13 causal, 11 review, 11 associational, 4 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 10 of 43 report an effect size · 85 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -121,6 +121,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Classroom activities and targeted interventions—peer collaboration, mind mapping, storytelling, and perspective-taking—improve children's divergent thinking](../claims/classroom-activities-interventions-improve-divergent-thinking.md) [+M] — instruction changes it
 - [Divergent-thinking-based creativity is positively linked with academic achievement, with stronger effects for psychometric than self-report measures](../claims/dt-creativity-positively-linked-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Research-led creativity training for teachers enhances children's divergent thinking and moves teachers' conceptions closer to researchers' definitions](../claims/teacher-creativity-training-enhances-children-divergent-thinking.md) [+M] — instruction changes it
+- [Listen/understand and Extend/revise, but no social-emotional perspective taking measure, facilitated dyads' originality regardless of dyad type](../claims/dyad-cognitive-perspective-taking-originality.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

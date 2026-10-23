@@ -66,6 +66,7 @@ Empathic teacher mindsets shape the relational climate in which all other instru
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a low-cost routine for gathering individual student voice
 - [Action Research](action-research.md) — a systematic frame for testing whether empathic adjustments actually change outcomes
 - [Use empathy interviews as a natural, informal conversation to uncover students' experiences, emotions, and unmet needs in mathematics learning](empathy-interviews-uncover-student-experiences.md)
+- [Teacher practices to build specific perceived-SEC dimensions: reflect-brainstorm-practice-evaluate cycles and literature-based perspective-taking](teacher-practices-build-perceived-sec-dimensions.md)
 
 ## Examples
 - **Empathic discipline intervention (Okonofua, Paunesku, & Walton, 2016)** — Middle-school teachers completed a short online module reframing discipline as "wise feedback" that communicates high expectations; the intervention halved suspension rates among Black and Latino students across a school year ([PERTS](https://www.perts.net)).

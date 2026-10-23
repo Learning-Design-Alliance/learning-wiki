@@ -68,3 +68,4 @@ Model-comparison result reported from the authors' prior response (Núñez-Regue
 - [The extended REM was robust to several alternative modeling specifications proposed by Sorjonen et al.](extended-rem-robust-alternative-specifications.md) — reports the opposite
 - [Random-intercept and lag2 panel models rest on different assumptions and offer alternative perspectives on controlling covariates](ri-lag2-different-assumptions-covariates.md) — related
 - [The ANCOVA and CHANGE models can be transformed into one another, so empirical model fit is no criterion for choosing between them](model-fit-no-criterion-ancova-change-selection.md) — possibly the same claim (merge candidate)
+- [Sensitivity analyses showed most sequential CVT paths were spurious due to confounders; only interest→enjoyment was robust](sensitivity-analyses-confounded-cvt-paths.md) — related

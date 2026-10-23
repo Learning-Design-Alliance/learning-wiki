@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 15 claims (11 show a difference, 3 mixed, 1 no difference) · 12 studies (5 causal, 4 qualitative, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q3` · 1 of 12 report an effect size · 15 claims rest on one study
+> **Evidence** · 20 claims (14 show a difference, 4 mixed, 2 no difference) · 13 studies (5 causal, 4 qualitative, 2 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 13 report an effect size · 20 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -52,6 +52,11 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](../claims/worked-example-effect-element-interactivity-explanation.md) [~W] — an instructional effect differs with it
 - [The inhibitory control–mathematical ability correlation does not differ across domains of mathematical ability](../claims/no-domain-moderation-inhibitory-control-math.md) [-M] — learners who differ on it differ in outcomes
 - [Galperin-based geometry instruction enabled poorly performing sixth graders to identify geometric items correctly, with 93% giving conceptual explanations](../claims/galperin-geometry-concept-teaching-experiment.md) [+M] — instruction changes it
+- [A strength in arithmetic skills did not distinguish geometric or fraction skills among DLD children](../claims/arithmetic-strength-no-dld-math-advantage.md) [-M] — learners who differ on it differ in outcomes
+- [A strength in verbal reasoning partly compensates for geometry and fraction delays in children with DLD at the individual level](../claims/verbal-reasoning-strength-compensates-dld-math.md) [~M] — learners who differ on it differ in outcomes
+- [Academic vocabulary, verbal reasoning, nonverbal reasoning, and working memory directly predict sixth-grade geometric and fraction skills](../claims/advanced-linguistic-direct-effects-geometry-fractions.md) [+M] — learners who differ on it differ in outcomes
+- [Children with DLD score below TD peers on arithmetic, geometric, and fraction skills in the upper primary grades](../claims/dld-lower-geometric-fraction-arithmetic-skills.md) [+M] — learners who differ on it differ in outcomes
+- [Phonological skills and naming speed indirectly predict sixth-grade geometric and fraction skills via arithmetic skills in both DLD and TD children](../claims/phonological-naming-speed-indirect-via-arithmetic.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

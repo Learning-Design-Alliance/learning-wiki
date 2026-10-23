@@ -50,3 +50,4 @@ From the “Measuring rods” episode (Table 15): both children indicated what n
 - [Children develop and demonstrate task-specific strategies through peer interaction, including instructing others and explaining why strategies work](task-specific-strategies-scaffolded-peer-interaction.md) — related
 - [Children demonstrate knowledge of others' cognitive processes by assessing peers' comprehension and identifying others' cognitive inadequacies during group work](knowledge-of-others-expressions-peer-group-work.md) — related
 - [Peer interactions supported both children's metacognitive tasks and strategies, with children organizing performance using others' directions and evaluating others' performance](peer-interactions-support-metacognitive-tasks-strategies.md) — related
+- [Students with ASD always used verbal means to solicit help, plus nonverbal and verbal means to draw teachers' attention](asd-help-seeking-verbal-and-nonverbal-means.md) — related

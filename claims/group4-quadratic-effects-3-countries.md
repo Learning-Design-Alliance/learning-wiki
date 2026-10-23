@@ -45,3 +45,5 @@ Group 4 of the TIMSS 2019 analysis: the 'Quadratic effects of x and y' family es
 ## Related Claims
 - [In 8 countries, a non-parallel asymmetric congruence/incongruence polynomial explained a modest 4.1% of achievement variance yet a 41% increase over the additive model](group3-asymmetric-congruence-8-countries.md) — related
 - [Across 37 countries, polynomial models with nonlinear or interactive effects of autonomous and controlled motivation on mathematics achievement always fit better than linear additive-only models](nonlinear-interactive-motivation-models-fit-better-than-linear.md) — a broader claim this one bears on
+- [The relation of autonomous motivation to grades is curvilinear, with grades accelerating at higher autonomous motivation](curvilinear-autonomous-motivation-grades.md) — related
+- [Higher grades occur when high autonomous motivation coincides with low controlled motivation (incongruence), not congruence](incongruence-high-autonomous-low-controlled-higher-grades.md) — related

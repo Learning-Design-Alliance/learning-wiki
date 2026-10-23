@@ -53,3 +53,4 @@ GEE models testing tonic EDA slope, %REC, %DET, and ADL as predictors of equalit
 - [Increased physiological arousal relates to less monitoring with neutral valence](arousal-negative-predictor-neutral-valence.md) — related
 - [Individual participation in monitoring processes was consistent with physiological arousal, suggesting an observable indicator of participation](physiological-arousal-consistent-with-monitoring-participation.md) — reports the opposite
 - [Physiological synchrony during collaborative interaction shows initial positive correlations with collaboration quality, task performance, and learning gains](physiological-synchrony-collaboration-quality-correlation.md) — related
+- [During-simulation physiological synchrony is positively correlated with team leaders' CRM performance scores (preliminary, 9 teams)](ps-correlates-leader-crm-performance.md) — related

@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**990 entries** · 0 stable · 990 in review · 0 drafts
+**991 entries** · 0 stable · 991 in review · 0 drafts
 
 ---
 
@@ -964,6 +964,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Three-phased grounding script for distance student groups](three-phase-grounding-script.md) - A collaboration script that \"provides a format for carrying out a grounding discussion among students who have to work together at a distance and who do not know each other\".
 * [Three-principle framework for ethical GenAI integration in writing assessment: transparency, human mediation, reflective practice](three-principle-framework-genai-writing-assessment.md) - The paper proposes \"a three-principle framework (transparency, human mediation, reflective practice) for ethical GenAI integration in writing assessment.\" Transparency functions not merely as disclosure but as a pedag...
 * [Three-sample language elicitation battery with WAIS vocabulary and digit-span tests](three-sample-language-elicitation-battery.md) - A measurement battery combining three language samples with cognitive tests.
+* [Three-semester four-wave longitudinal design with multi-group growth modelling for parallel epistemic-belief processes](four-wave-multigroup-growth-epistemic-beliefs.md) - The study's methodological element is a \"three-semester long four-wave study with 226 undergraduates\" in which \"Data were analysed by multi- group growth modelling for parallel processes.\" This design permits modellin...
 * [Three-stage methodology combining student surveys, LLM skill extraction, and dynamic preference-aware matching](three-stage-llm-team-formation-methodology.md) - The article proposes a data-driven team-formation framework with three stages: \"student surveys to capture detailed and granular skill sets and project preferences; (2) LLM-driven extraction of essential project skill...
 * [Three-stage pedagogical pathway of Perceiving, Comprehending, and Creating AI mapped to black, grey, and white box progression](three-stage-perceiving-comprehending-creating-pathway.md) - Drawing on the Beijing Normal University \"Black Box, Grey Box, White Box\" cognitive progression model, the article \"constructs a three-stage pedagogical pathway: 'Perceiving, Comprehending, and Creating.'\" Stage 1 (Gr...
 * [Three-step district pathway design sequence: Why, What, How](why-what-how-pathway-design.md) - The toolkit structures district CS/CT pathway design as a three-step sequence.

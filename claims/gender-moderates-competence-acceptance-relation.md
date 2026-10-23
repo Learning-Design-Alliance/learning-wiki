@@ -50,3 +50,4 @@ The review reports, from van der Wilt et al. (2016) (N = 54 children aged 3.83�
 - [Rejected and disliked children communicate less responsively and less coherently than popular or liked peers](rejected-children-less-responsive-communication.md) — related
 - [Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys](gender-moderates-educational-processes-to-social-emotional-competence-link.md) — related
 - [The relation between oral communicative competence and sociometric status is expected to be interactional and transactional rather than unidirectional](transactional-competence-sociometric-relation.md) — related
+- [The study is the first to examine whether the teacher-child relationship moderates the link between peer rejection and language competence](first-study-teacher-relationship-moderates-peer-rejection-language.md) — related

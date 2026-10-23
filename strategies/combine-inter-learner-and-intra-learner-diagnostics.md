@@ -42,7 +42,8 @@ The authors' forward-looking recommendation for deploying analytic assessment: w
 - [In a self-referential framework, LLMs, particularly GPT-4.1, tend to outperform a single operational human rater at identifying relative weaknesses (negative feedback) across several Language and Content aspects](../claims/llms-outperform-single-rater-negative-feedback.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Combine holistic with analytic scores as a complementary approach to enhance rating validity](combine-holistic-analytic-complementary-scoring.md)
 
 ## Examples
 -

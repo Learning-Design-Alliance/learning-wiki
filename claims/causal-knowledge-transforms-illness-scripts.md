@@ -46,3 +46,4 @@ Theoretical claim of the second phase in the article's theory of expertise devel
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Relations between SRL phase frequency/diversity and illness script activation were mixed across cases: more frequent and diverse transitions were sometimes beneficial (Cases 2, 4) and sometimes detrimental (Cases 1, 3, 5)](srl-transitions-mixed-effects-illness-script-activation.md) — related
 - [Knowledge from earlier phases forms memory layers through sedimentation and remains available when newer structures fail](knowledge-sedimentation-layers-memory.md) — related
+- [In Experiment 2, an interaction between probe and expertise shows intermediates' enabling-condition knowledge is not yet integrated into their illness scripts](probe-expertise-interaction-integration.md) — a narrower finding that bears on this claim

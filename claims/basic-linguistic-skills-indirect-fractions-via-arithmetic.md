@@ -51,3 +51,5 @@ Second mediation analysis with the same 167 fifth graders, fraction skills as de
 - [Phonological skills were not significantly correlated with fraction skills, and verbal reasoning was not significantly correlated with arithmetic skills](null-correlations-phonological-fractions-verbal-reasoning-arithmetic.md) — reports the opposite
 - [Verbal reasoning is directly related to fifth-grade fraction skills over and above arithmetic skills](verbal-reasoning-directly-related-fraction-skills.md) — related
 - [Middle school fraction magnitude knowledge fully mediates the relation between first-grade whole number magnitude knowledge and middle school fraction arithmetic](fraction-magnitude-fully-mediates-wn-magnitude-fraction-arithmetic.md) — related
+- [Academic vocabulary, verbal reasoning, nonverbal reasoning, and working memory directly predict sixth-grade geometric and fraction skills](advanced-linguistic-direct-effects-geometry-fractions.md) — related
+- [Phonological skills and naming speed indirectly predict sixth-grade geometric and fraction skills via arithmetic skills in both DLD and TD children](phonological-naming-speed-indirect-via-arithmetic.md) — related

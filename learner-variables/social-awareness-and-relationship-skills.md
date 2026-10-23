@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 99 claims (70 show a difference, 19 mixed, 10 no difference) · 74 studies (24 review, 15 associational, 13 quant-synthesis, 10 causal, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 20 of 74 report an effect size · 95 claims rest on one study
+> **Evidence** · 107 claims (74 show a difference, 23 mixed, 10 no difference) · 77 studies (24 review, 17 associational, 13 quant-synthesis, 11 causal, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 21 of 77 report an effect size · 103 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -140,6 +140,14 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Evidence for a relationship between teacher empathy and general emotional support is inconsistent, with positive findings concentrated in self-report-only studies](../claims/teacher-empathy-emotional-support-inconsistent.md) [~M] — learners who differ on it differ in outcomes
 - [Teacher empathy shows no consistent relationship with classroom management or instructional support](../claims/teacher-empathy-classroom-management-null.md) [-M] — learners who differ on it differ in outcomes
 - [Teachers' empathy for victims of bullying is associated with a greater self-reported likelihood of intervening in bullying](../claims/teacher-empathy-bullying-intervention.md) [+M] — learners who differ on it differ in outcomes
+- [Actor and partner effects of perspective taking were moderated by subject type and dyad type, with children of child-stranger dyads particularly benefitting from their own Listen/understand and Extend/revise behaviors](../claims/apim-perspective-taking-effects-moderated-subject-dyad-type.md) [~M] — learners who differ on it differ in outcomes
+- [Listen/understand and Extend/revise, but no social-emotional perspective taking measure, facilitated dyads' originality regardless of dyad type](../claims/dyad-cognitive-perspective-taking-originality.md) [+M] — learners who differ on it differ in outcomes
+- [Listen/understand negatively affected dyads' appropriateness, while Extend/revise's negative effect became insignificant once Inviting behavior was controlled](../claims/listen-understand-reduces-appropriateness.md) [~M] — learners who differ on it differ in outcomes
+- [Peer rejection is negatively related to later language competence only for children with above-median teacher-child conflict, not below-median conflict](../claims/peer-rejection-language-link-only-above-median-conflict.md) [~W] — an instructional effect differs with it
+- [Peer rejection is negatively related to later language competence only for children with below-median teacher-child closeness, not above-median closeness](../claims/peer-rejection-language-link-only-below-median-closeness.md) [~M] — an instructional effect differs with it
+- [Perceived competence for social regulation negatively predicts external motivation and conduct problems, and perceived competence for tolerance positively predicts autonomous motivation](../claims/specific-perceived-sec-dimensions-unique-associations.md) [+M] — learners who differ on it differ in outcomes
+- [Regardless of dyad type, dyads' Extend/revise and Recognize/agree behaviors facilitated fluency, while child-parent dyad type showed a negative effect](../claims/dyad-cognitive-perspective-taking-facilitates-fluency.md) [+M] — learners who differ on it differ in outcomes
+- [The interaction of peer rejection and teacher-child closeness/conflict significantly predicts later language competence in multilevel models](../claims/peer-rejection-teacher-relationship-interaction-language.md) [+M] — an instructional effect differs with it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

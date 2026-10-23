@@ -51,3 +51,4 @@ RI-CLPM analysis of five annual waves (grades 5–9) from the PALMA study of 3,4
 - [Within-person deviations of enjoyment and pride correlate positively with grade deviations (r = .12 to .55), and negative-emotion deviations correlate negatively (r = −.17 to −.44)](within-person-grade-emotion-correlations.md) — related
 - [Within persons, grades negatively predict subsequent anger and hopelessness, and anger, anxiety, boredom, and hopelessness negatively predict subsequent grades](grades-negative-emotions-within-person-effects.md) — related
 - [Students use positive and negative achievement emotions as cues when making predictions about their comprehension](emotions-as-cues-predictions.md) — related
+- [Reciprocal relations: initial task engagement predicted later enjoyment in the Reverse model](reverse-model-engagement-predicts-enjoyment.md) — related

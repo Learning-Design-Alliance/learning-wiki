@@ -45,6 +45,7 @@ The article recommends that "efforts to reduce cheating should focus on enhancin
 ## Related Strategies
 
 - [Enhance students' AI literacy while alleviating excessive academic stress to reduce over-dependence on generative AI](ai-literacy-up-and-stress-down-reduce-ai-dependence.md)
+- [Consider students' perceived control over fine-grained task facets (technology, pedagogy, content) when designing ITS learning experiences](fine-grained-task-control-consideration-in-its-design.md)
 
 ## Examples
 -

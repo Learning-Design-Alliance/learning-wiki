@@ -69,3 +69,4 @@ Analyses of teacher-reported grades (standardized within teachers) found no subj
 - [The relations among motivational, strategy use, and performance constructs were similar across mathematics, English, and social studies](motivation-cognition-relations-similar-across-subjects.md) — related
 - [Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects](task-value-predicts-strategy-use-not-grades.md) — related
 - [Test anxiety was highest in social studies and lowest in English, with the pattern differing by gender](test-anxiety-varies-by-subject-and-gender.md) — related
+- [Male gender predicted lower grades, moderated by cohort](gender-and-cohort-predict-grading-scores.md) — reports the opposite
