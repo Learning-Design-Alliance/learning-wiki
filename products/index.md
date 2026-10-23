@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1843 entries** · 0 stable · 1843 in review · 0 drafts
+**1846 entries** · 0 stable · 1846 in review · 0 drafts
 
 ---
 
@@ -310,6 +310,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Conceptual framework for data-driven decision making in education](conceptual-framework-for-data-driven-decision-making-in-education.md) - A Mathematica-developed framework, commissioned by the Gates Foundation, that organizes how education systems use data for strategic decision making and learning capacity.
 * [Concerns-Based Adoption Model](concerns-based-adoption-model.md) - CBAM is an implementation framework developed by researchers at the University of Texas at Austin for assessing and supporting individuals’ adoption of educational innovations.
 * [Condensation Conceptual Test (CCT)](condensation-conceptual-test-cct.md) - A five-item diagnostic assessment developed by Bayram Costu and colleagues to measure university students' conceptual understanding and conceptual change about condensation.
+* [Conectar Jugando (Connecting Through Play)](conectar-jugando-connecting-through-play.md) - A school-based programme run by its developers in which primary students play selected commercial analogue board games during school hours to train executive functions and support reading and mathematics skills.
 * [Connect Science](connect-science.md) - Connect Science is a 31-lesson fourth-grade science curriculum that integrates NGSS practices, social and collaborative skills, and service learning for classroom implementation.
 * [Connect with Kids](connect-with-kids.md) - Connect with Kids is a character-education curriculum developed for elementary and secondary students that uses peer-story videos, lessons, activities, and schoolwide and community outreach to promote prosocial attitudes and positive behavior.
 * [ConnectED](connected.md) - ConnectED is a web application developed by Thang Doan Viet et al.
@@ -772,6 +773,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Interactive evidence and gap maps of motivation regulation research, built with EPPI-Mapper, with the underlying dataset released on OSF](interactive-evidence-and-gap-maps-of-motivation-regulation-research-built-with-eppi-mapper.md) - An OSF-released dataset and EPPI-Mapper interactive visualisation created by Maike Trautner et al.
 * [Intermediate Mechanics Tutorials](intermediate-mechanics-tutorials.md) - A University of Maine curriculum under development for second-year mechanics courses in which students first encounter differential equations, with associated materials made available through the project.
 * [Internationals Network for Public Schools](internationals-network-for-public-schools.md) - The Internationals Network for Public Schools framework guides a network of schools serving recent immigrant and English-learner students through five principles covering collaboration, experiential learning, language–content integration, local autonomy, and a common learning model.
+* [Interpretive Spelling Test (IST)](interpretive-spelling-test-ist.md) - The Interpretive Spelling Test is a spelling-to-dictation assessment developed by Niolaki et al.
 * [IntroEduAI](introeduai.md) - IntroEduAI is an educational platform developed to deliver programming assignments, automatically evaluate student responses with large language models against instructor-authored rubrics, and generate response-level feedback and assignment-level reports.
 * [Inventory of Learning Styles (ILS)](inventory-of-learning-styles-ils.md) - A self-report assessment developed by Jan Vermunt to measure higher-education students' processing and regulation strategies, conceptions of learning, and learning orientations.
 * [Inventory of Perceived Study Environment Extended (IPSEE)](inventory-of-perceived-study-environment-extended-ipsee.md) - A 56-item student questionnaire, with a parallel teacher version, developed by Karin D.
@@ -1002,6 +1004,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [McKinney-Vento Act](mckinney-vento-act.md) - A U.S.
 * [MDTP Algebra Readiness test](mdtp-algebra-readiness-test.md) - A 45-item multiple-choice mathematics diagnostic assessment developed by the Mathematics Diagnostic Testing Project to measure students' algebra readiness across seven topic areas.
 * [Measure C and the Oakland Children's Initiative](measure-c-and-the-oakland-childrens-initiative.md) - County and city early-childhood and education funding initiatives administered or implemented by First 5 Alameda and Oakland Promise to expand early learning access, improve provider conditions, support school readiness, and promote college persistence.
+* [Measurement battery: Adaptability Scale–Short, ICAR Letter and Number Series, and MES-UC motivation/engagement items](measurement-battery-adaptability-scaleshort-icar-letter-and-number-series-and-mes-uc-motiv.md) - An online questionnaire battery assembled by Martin Andrew J.
 * [Med2Lab](med2lab.md) - Med2Lab is a platform used in medical education to submit case vignettes, open-ended questions, rubrics, and deidentified student responses to GPT-4 for automated scoring and feedback.
 * [MedEasy](medeasy.md) - MedEasy is a web-based multi-agent virtual standardized-patient platform developed by Zhiqi Gao et al.
 * [MedGame Bench](medgame-bench.md) - A 5,000-case medical narrative-generation and story-direction benchmark created by Qian Wu et al.

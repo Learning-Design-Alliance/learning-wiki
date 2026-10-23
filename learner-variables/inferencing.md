@@ -13,7 +13,7 @@ generated:
 # Inferencing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 30 claims (23 show a difference, 4 mixed, 3 no difference) · 14 studies (8 causal, 4 review, 2 associational), `q1`–`q4` · 4 of 14 report an effect size · 29 claims rest on one study
+> **Evidence** · 32 claims (24 show a difference, 5 mixed, 3 no difference) · 15 studies (9 causal, 4 review, 2 associational), `q1`–`q4` · 5 of 15 report an effect size · 31 claims rest on one study
 
 ## Description
 Inferencing is the work a reader does to supply meaning a text does not state outright: linking one sentence to another, connecting the text to what the reader already knows or has experienced, and adding what is learned to existing knowledge. It supports reading comprehension, and the Learner Variability Navigator notes that it develops with age, moving from inferences drawn from within the text towards deeper inferences that draw on the reader's own knowledge. It is usually assessed through comprehension questions that ask for information the text implies rather than states; LVN lists no dedicated measure for it.
@@ -66,6 +66,8 @@ It matters most in middle and high school, where subject-specific texts assume b
 - [Training improved inference drawing by increasing the efficiency of transforming pooled information into inferences rather than by increasing how often information was pooled](../claims/training-increased-inference-efficiency-not-pooling.md) [+M] — instruction changes it
 - [Training in collaboration strategies increases the frequency with which student dyads draw inferences during subsequent unscaffolded collaborative problem solving](../claims/collaboration-training-increases-inference-drawing-at-transfer.md) [+M] — instruction changes it
 - [Collaborative and individual inferences are less likely to be drawn than shared inferences during collaborative problem solving](../claims/shared-inferences-drawn-more-often-than-unshared.md) [+M] — instruction changes it
+- [Generating explanations (oral or written) outperforms retrieval practice on inference-based questions for the high-difficult text](../claims/explaining-outperforms-retrieval-high-difficult-text.md) [+W] — instruction changes it
+- [Text difficulty moderates the effect of explaining modality: oral explaining outperforms written explaining on inference-based questions only for the high-difficult text](../claims/text-difficulty-moderates-explaining-modality-effect.md) [~M] — instruction changes it
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

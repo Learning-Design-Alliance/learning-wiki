@@ -49,3 +49,4 @@ Headline result of an experimental CSCL study in which "260 university students 
 - [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md)
 - [Visible real-time gaze feedback improves collaborative-process coordination, especially information pooling, in dyadic knowledge integration tasks](gaze-feedback-improves-collaborative-process.md) — related
 - [In a 2x2 experiment on jigsaw dyads, the implicit gaze awareness tool affected dialogue processes much more than the explicit pedagogical conversational agent, which compensated when gaze awareness was absent](gaze-awareness-tool-more-effective-than-explicit-agent-jigsaw-dyads.md) — related
+- [CSCL research on collaboration through chat has primarily been studied in dyadic settings, leaving small group chat underexamined](cscl-chat-research-primarily-dyadic.md) — related

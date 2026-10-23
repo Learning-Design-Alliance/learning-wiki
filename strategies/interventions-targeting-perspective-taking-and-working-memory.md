@@ -48,7 +48,8 @@ The authors recommend that interventions for adolescents' social difficulties ta
 - [Working memory is the strongest predictor of adolescents' communicative perspective-taking](../claims/working-memory-predicts-adolescent-communicative-perspective-taking.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Targeted working memory training for students with weaker English learning abilities](targeted-wm-training-weak-english-learners.md)
 
 ## Examples
 -

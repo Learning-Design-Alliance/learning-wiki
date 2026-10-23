@@ -46,3 +46,4 @@ Regression analysis with interaction terms probed via Johnson–Neyman; Table 2 
 - [Post hoc findings question whether all students benefit equally from efforts to foster trait self-control](self-control-fostering-unequal-benefit-questioned.md) — related
 - [Trait self-control is significantly associated with major GPA beyond fluid reasoning and conscientiousness in vocational trainees](trait-self-control-incremental-mgpa-vocational-trainees.md) — related
 - [Trait self-control correlates with grades but not with standardized test scores at the bivariate level](tsc-correlates-grades-not-standardized-tests.md) — related
+- [Fluid reasoning significantly predicted enjoyment but not self-efficacy after accounting for adaptability and covariates](fluid-reasoning-predicts-enjoyment-not-self-efficacy.md) — related

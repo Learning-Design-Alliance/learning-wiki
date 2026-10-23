@@ -40022,5 +40022,105 @@
  "scaffolding\tadaptive scaffolding\tnon-adaptive support": {
   "label": "adaptive vs non-adaptive scaffolding",
   "treatment_is_a": true
+ },
+ "gamification\tConectar Jugando board-game sessions\tregular classes without the programme": {
+  "label": "Board-game-based classes vs regular classes",
+  "treatment_is_a": true
+ },
+ "gamification\tConectar Jugando modern board-game sessions\tregular classes without the programme": {
+  "label": "Board-game-based classes vs regular classes",
+  "treatment_is_a": true
+ },
+ "gamification\tmodern board games during class\tregular classes without the programme": {
+  "label": "Board-game-based classes vs regular classes",
+  "treatment_is_a": true
+ },
+ "gamification\tplaying modern board games in class\tregular classes without the board-game programme": {
+  "label": "Board-game-based classes vs regular classes",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided activity kits with embedded guidance\tbasic activity kits without guidance features": {
+  "label": "guided-discovery vs unguided-discovery",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tgenerate trigonometry formulae\tstudy presented formulae": {
+  "label": "generation vs presentation",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tgenerating formulae\tpresented formulae": {
+  "label": "generation vs presentation",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tproblem solving\tworked examples": {
+  "label": "problem solving vs worked examples",
+  "treatment_is_a": true
+ },
+ "scaffolding\tguided activity kits\tbasic activity kits": {
+  "label": "guided activity kits vs basic activity kits",
+  "treatment_is_a": true
+ },
+ "self-explanation\toral explanation\twritten explanation": {
+  "label": "oral self-explanation vs written self-explanation",
+  "treatment_is_a": true
+ },
+ "worked-examples\tgenerating formulae with low guidance\tbeing presented formulae with high guidance": {
+  "label": "presentation vs generation",
+  "treatment_is_a": false
+ },
+ "worked-examples\tgeneration with low guidance\tpresentation with high guidance": {
+  "label": "presentation vs generation",
+  "treatment_is_a": false
+ },
+ "worked-examples\thigh guidance via worked examples\tlow guidance via problem solving": {
+  "label": "high-guidance worked examples vs low-guidance problem solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\thigh-guidance worked examples\tlow-guidance problem solving": {
+  "label": "high-guidance worked examples vs low-guidance problem solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\tlow guidance via generation/problem solving\thigh guidance via presentation/worked example": {
+  "label": "high-guidance worked examples/presentation vs low-guidance problem solving/generation",
+  "treatment_is_a": false
+ },
+ "worked-examples\tlow guidance via problem solving or generation\thigh guidance via worked examples or presentation": {
+  "label": "high-guidance worked examples/presentation vs low-guidance problem solving/generation",
+  "treatment_is_a": false
+ },
+ "worked-examples\tlow-guidance generation or problem solving\thigh-guidance presentation or worked examples": {
+  "label": "high-guidance worked examples/presentation vs low-guidance problem solving/generation",
+  "treatment_is_a": false
+ },
+ "worked-examples\tlow-guidance problem solving\thigh-guidance worked examples": {
+  "label": "high-guidance worked examples vs low-guidance problem solving",
+  "treatment_is_a": false
+ },
+ "worked-examples\tproblem solving with low guidance\tworked example with high guidance": {
+  "label": "high-guidance worked examples vs low-guidance problem solving",
+  "treatment_is_a": false
+ },
+ "worked-examples\tstudy worked examples with high guidance\tsolve problems with low guidance": {
+  "label": "high-guidance worked examples vs low-guidance problem solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\tstudying worked examples\tproblem solving": {
+  "label": "worked examples vs problem solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\tstudying worked examples with high guidance\tproblem solving with low guidance": {
+  "label": "high-guidance worked examples vs low-guidance problem solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\tstudying worked-out external representations\t(co)-construction of external representations": {
+  "label": "studying worked-out external representations vs co-construction of external representations",
+  "treatment_is_a": true
+ },
+ "worked-examples\tstudying worked-out external representations\tco-construction of external representations": {
+  "label": "studying worked-out external representations vs co-construction of external representations",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples\tproblem solving": {
+  "label": "worked examples vs problem solving",
+  "treatment_is_a": true
  }
 }

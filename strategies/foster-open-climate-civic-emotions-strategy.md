@@ -52,6 +52,7 @@ Building on the finding that an open classroom climate relates to more enjoyment
 ## Related Strategies
 
 - [Teaching strategies to prevent and manage negative emotions in learning](strategies-prevent-manage-negative-emotions.md)
+- [Target both classroom agents in emotion regulation interventions by reducing teacher negative emotions and increasing student positive emotions](dual-agent-emotion-regulation-interventions.md)
 
 ## Examples
 -

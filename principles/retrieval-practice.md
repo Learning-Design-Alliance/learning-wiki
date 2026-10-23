@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 122 claims (57 for, 56 mixed, 9 against) · 52 studies (21 causal, 13 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 52 report an effect size · 115 claims rest on one study
+> **Evidence** · 124 claims (57 for, 58 mixed, 9 against) · 53 studies (22 causal, 13 review, 8 quant-synthesis, 4 associational, 3 qualitative, 3 theoretical), `q1`–`q4` · 19 of 53 report an effect size · 117 claims rest on one study
 
 ## Conditional relationship
 
@@ -248,6 +248,8 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Retrieval practice research extends to determining the optimal amount of practice testing for individual students](../claims/optimal-amount-of-practice-testing-individual-students.md) [~W]
 - [Retrieval-practice-first sequences show small advantages over generative-first in some conditions](../claims/retrieval-first-sequence-small-advantage.md) [~W]
 - [Text quality after initial study moderates whether free recall beats generative tasks](../claims/text-quality-moderates-recall-vs-generative-sequence.md) [~W]
+- [Students report more mental effort and subjective difficulty during oral explaining than during retrieval practice](../claims/oral-explaining-higher-effort-difficulty-than-retrieval.md) [~W]
+- [For the low-difficult text, oral explaining, written explaining, and retrieval practice yield comparable learning outcomes](../claims/low-difficult-text-no-modality-differences.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

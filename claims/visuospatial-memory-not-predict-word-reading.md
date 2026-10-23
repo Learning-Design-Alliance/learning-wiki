@@ -55,3 +55,4 @@ Multilevel models of 177 children's word reading growth (WIAT-II Word Reading su
 - [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and is linked to Grade 3 math only indirectly](visuospatial-sketchpad-predicts-higher-qnc.md) — related
 - [Complexity of children's naturalistic memory reports predicts reading ability over and above IQ](memory-report-complexity-predicts-reading-ability.md) — related
 - [QNC Level I predicts QNC Level II/III, which in turn predicts Grade 3 mathematics achievement; QNC Level I also retains a direct path to Grade 3 math](qnc-levels-predict-grade-3-math.md) — related
+- [Math achievement at the end of first grade is predicted by fluid intelligence, visuospatial working memory, and symbolic numerical representation](math-achievement-t1-predictors.md) — related

@@ -50,3 +50,4 @@ Latent Profile Analysis on standardized scores of 102 students with motor disabi
 - [In SEM, all three self-efficacy dimensions are positively associated with AI use, with Excellence strongest (β = .47), followed by Communication (β = .31) and Attention (β = .22); the model explains 43% of variance](sem-self-efficacy-dimensions-ai-use-associations.md) — related
 - [Self-efficacy profiles differ in AI use for informational support (η² = .28) and emotional support (η² = .18)](informational-emotional-support-ai-use-profile-differences.md) — related
 - [Higher academic self-efficacy profiles report greater overall academic AI use, with a large effect (η² = .36)](higher-self-efficacy-profiles-greater-ai-use.md) — related
+- [Hong Kong fourth graders' OMR self-efficacy and emotions form three distinct motivational-emotional profiles: positive, moderate, and ambivalent](three-omr-motivational-emotional-profiles-grade4.md) — related

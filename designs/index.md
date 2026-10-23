@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**989 entries** · 0 stable · 989 in review · 0 drafts
+**990 entries** · 0 stable · 990 in review · 0 drafts
 
 ---
 
@@ -433,6 +433,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Growth orientations in students' identities as knowledge builders theorized building on Dweck's mindset theory](growth-orientations-knowledge-builder-identities.md) - The editorial describes the Kashi and Hod article as breaking new theoretical ground in conceptualizing human growth within knowledge-building communities, \"building on Dweck's theory of mindset\".
 * [Guidance and manipulation as complementary instructional variables in computer-based problem solving](guidance-manipulation-dual-variable-account.md) - The article proposes that two instructional variables play complementary roles in computer-based problem solving for concept development.
 * [Guided human–AI collaboration workflow with five components and AI-use logging](guided-human-ai-collaboration-workflow.md) - An instructional component in which the experimental group received \"explicit instruction in a guided human–AI collaboration workflow built around five interrelated components\": problem framing and prompt design; gene...
+* [Guided STEM activity kits with embedded stories, parent tips, and extension ideas](guided-stem-activity-kits.md) - Guided activity kits are self-guiding material kits for parent-child play containing materials for building wooden structures plus guidance features.
 * [Guideline exploration tool linking design guidelines to stakeholder statements](guideline-exploration-tool-aialoe.md) - The article presents \"a guideline exploration tool that aids in the ideation of technologies by connecting the guidelines to stakeholder statements surfaced in the analysis process\".
 * [Gulf of Envisioning framework as a design lens for prompting instruction](gulf-of-envisioning-framework-prompting.md) - The article adopts the Gulf of Envisioning framework (Subramonyam et al.) to explain why learners may fail even when using powerful AI tools, and uses it to organize its intervention.
 

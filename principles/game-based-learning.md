@@ -51,7 +51,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (21 for, 27 mixed) · 39 studies (13 quant-synthesis, 10 review, 9 causal, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 15 of 39 report an effect size · 42 claims rest on one study
+> **Evidence** · 51 claims (23 for, 28 mixed) · 40 studies (13 quant-synthesis, 10 causal, 10 review, 3 associational, 3 theoretical, 1 design), `q1`–`q4` · 15 of 40 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,9 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Specific game features scaffold scientific thinking in ways the authors claim are non-existent in most inquiry-based learning environments](../claims/ar-game-features-scaffold-argumentation.md) [~W] — read 2026-10-19: the designers' argument about their place-based augmented-reality game (Mad City Mystery), not a tested comparison; consistent with step 2's scaffolding but adds no evidence.
 - [Descriptive analyses suggest game-based learning may be less beneficial for cognitive outcomes in low-SES students than high-SES students, but this is preliminary](../claims/ses-descriptive-lower-cognitive-benefit-low-ses.md) [~W] — read 2026-10-19: in the K–8 STEM meta-analysis, two studies with high-SES samples reported larger effects than two with low-SES samples, but the moderator test over nine studies was not significant. Outcomes differing by group reflect circumstances and treatment, not a cause; too thin to change any row.
 - [Simulation games were the most-used game type for educational assessment (N = 7, 33%), followed by immersive (N = 6, 29%) and video games (N = 5, 24%)](../claims/gba-game-types-simulation-most-used.md) [~W] — (not about this page) read 2026-10-19: a count of genres in 21 game-based assessment studies; no learning outcome. Relevant to [Assessment Mechanic](../elements/assessment-mechanic.md).
+- [Playing modern board games in class produced greater pre-post improvement in working-memory updating than regular classes, in both first-grade and second-to-sixth-grade samples](../claims/board-games-improve-updating-primary.md) [+W] — attached 2026-10-22 from Nuria Vita-Barrull et al. (2024), which proposed "Include board-game play in primary classrooms as an alternative or complement to regular direct instruction for cognitive and academic development"; tests this page's relationship.
+- [The board-game group showed greater pre-post improvement than controls in reading fluency, maths fluency and calculus in grades two to six](../claims/board-games-improve-reading-maths.md) [+W] — attached 2026-10-22 from Nuria Vita-Barrull et al. (2024), which proposed "Include board-game play in primary classrooms as an alternative or complement to regular direct instruction for cognitive and academic development"; tests this page's relationship.
+- [Classroom board-game play improved inhibition in first grade but not in grades two to six, where inhibition and flexibility improved in both groups](../claims/board-games-inhibition-grade-dependent.md) [~W] — attached 2026-10-22 from Nuria Vita-Barrull et al. (2024), which proposed "Include board-game play in primary classrooms as an alternative or complement to regular direct instruction for cognitive and academic development"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
