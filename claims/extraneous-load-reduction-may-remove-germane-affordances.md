@@ -51,3 +51,4 @@ The review quotes Paas et al. (2004) on nonlinear hypertext environments, where 
 - [Learning with tree diagrams increased experienced cognitive load across intrinsic, extraneous, germane, and overall measures](tree-diagrams-increase-cognitive-load.md) — related
 - [Tracing along a poster displaying a cycle reduced extraneous cognitive load and improved learning outcomes](tracing-water-cycle-reduces-extraneous-load.md) — related
 - [Low environment-change beliefs lead students to allocate cognitive resources to monitoring for breakdowns, creating extraneous load](low-environment-change-beliefs-extraneous-load.md) — related
+- [From a cognitive load theory point of view, studying worked-out external representations may lead to better learning outcomes than (co)-construction, the standard mode of operation in CSCL](studying-worked-out-representations-may-beat-co-construction.md) — related

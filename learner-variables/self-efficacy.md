@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 139 claims (105 show a difference, 21 mixed, 13 no difference) · 116 studies (43 associational, 22 causal, 18 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 23 of 116 report an effect size · 135 claims rest on one study
+> **Evidence** · 140 claims (105 show a difference, 21 mixed, 14 no difference) · 117 studies (44 associational, 22 causal, 18 review, 14 qualitative, 8 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 24 of 117 report an effect size · 136 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -170,6 +170,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [School characteristics moderate the self-efficacy–classroom management relationship: smaller slopes in schools with high collective efficacy or high collaboration, larger with more participation](../claims/cross-level-interactions-classroom-management.md) [~M] — learners who differ on it differ in outcomes
 - [Teachers with higher self-efficacy report higher instructional quality at the individual teacher level, with congruent domain-specific associations](../claims/teacher-level-self-efficacy-instructional-quality-association.md) [+M] — learners who differ on it differ in outcomes
 - [The relationship between teacher self-efficacy and self-reported cognitive activation does not vary across investigated school characteristics](../claims/no-cross-level-interactions-cognitive-activation.md) [+M] — learners who differ on it differ in outcomes
+- [Lockdown was significantly associated with higher disengagement (β = 0.12) but not with self-efficacy among university students](../claims/lockdown-predicts-disengagement-not-self-efficacy.md) [-W] — instruction changes it
 
 ## The evidence by question
 

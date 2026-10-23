@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 62 claims (32 show a difference, 20 mixed, 10 no difference) · 29 studies (11 associational, 6 review, 5 causal, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 12 of 29 report an effect size · 60 claims rest on one study
+> **Evidence** · 67 claims (36 show a difference, 21 mixed, 10 no difference) · 30 studies (12 associational, 6 review, 5 causal, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 12 of 30 report an effect size · 65 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -97,6 +97,11 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Goal profiles differ between effective and ineffective CL teams: mastery and social responsibility goals prevail in effective teams, entertainment, certificate and work avoidance goals in ineffective teams](../claims/cl-goal-profiles-effective-ineffective-teams.md) [+M] — learners who differ on it differ in outcomes
 - [Mastery-approach goal instructions do not induce mastery-approach goals and show no effects on learning outcomes in secondary school game-based learning](../claims/mastery-goal-instructions-no-effect-secondary-gbl.md) [-W] — instruction changes it
 - [Prior mastery-approach goals moderate the effect of performance-approach goal instructions on mental effort](../claims/prior-mastery-goals-moderate-effort-effect.md) [~W] — an instructional effect differs with it
+- [Between persons, trait mastery goals positively predict enjoyment and negatively predict anger and boredom; performance-approach goals predict pride; performance-avoidance goals predict anxiety and shame](../claims/trait-goal-emotion-relations-replicate-previous-findings.md) [+M] — learners who differ on it differ in outcomes
+- [Beyond the hypothesized links, mastery goals also predicted pride, performance-approach goals predicted enjoyment and (weakly) shame, and performance-avoidance goals predicted anger](../claims/additional-goal-emotion-relations-beyond-hypotheses.md) [+M] — learners who differ on it differ in outcomes
+- [Intraindividual and interindividual correlations between achievement goals and emotions are statistically independent yet empirically convergent, with goals and emotions less correlated within persons](../claims/intra-interindividual-correlations-independent-yet-convergent.md) [~M] — learners who differ on it differ in outcomes
+- [Within persons, state mastery goals positively predict enjoyment and negatively predict boredom and anger in the classroom](../claims/state-mastery-goals-predict-enjoyment-boredom-anger-within-persons.md) [+M] — learners who differ on it differ in outcomes
+- [Within persons, state performance-approach goals predict pride and state performance-avoidance goals predict anxiety and shame](../claims/state-performance-goals-predict-pride-anxiety-shame-within-persons.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

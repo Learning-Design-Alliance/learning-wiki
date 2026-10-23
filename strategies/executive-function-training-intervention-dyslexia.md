@@ -42,7 +42,8 @@ The authors' forward-looking recommendation is that future work test executive f
 - [Children with developmental dyslexia show a significant updating impairment at the error z-mean composite level, which remains after controlling for processing speed](../claims/dyslexia-updating-error-composite-impairment.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Targeted working memory training for students with weaker English learning abilities](targeted-wm-training-weak-english-learners.md)
 
 ## Examples
 -

@@ -77,3 +77,4 @@ Supplementary t test against the no-test control condition, in which no lures ha
 - [Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing](testing-effects-bloom-higher-levels.md) — related
 - [Cued-recall testing can impair later memory for competitive, related but non-practiced information (retrieval-induced forgetting)](retrieval-induced-forgetting-cued-recall.md) — related
 - [Retrieval practice mostly increases susceptibility to misinformation (retrieval-enhanced suggestibility)](retrieval-practice-increases-misinformation-susceptibility.md) — related
+- [A literature survey suggests the generation effect is more likely to be demonstrated on delayed than immediate tests](generation-effect-more-likely-delayed-tests.md) — related

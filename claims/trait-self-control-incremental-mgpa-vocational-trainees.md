@@ -50,3 +50,4 @@ Simultaneous multivariate multiple regression in Mplus with cluster-robust stand
 - [Fluid reasoning and self-control jointly explain far more variance in standardized test scores than in grades](variance-explained-tests-versus-grades.md) — related
 - [Fluid reasoning, not trait self-control, predicts low-stakes standardized mathematics and physics test scores](fluid-reasoning-predicts-low-stakes-standardized-tests.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
+- [Fluid reasoning significantly predicted enjoyment but not self-efficacy after accounting for adaptability and covariates](fluid-reasoning-predicts-enjoyment-not-self-efficacy.md) — related

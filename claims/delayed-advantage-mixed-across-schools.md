@@ -49,3 +49,4 @@ Supplementary by-school analysis of the same study: School A showed a significan
 - [Time on task does not explain the erroneous-examples delayed learning advantage](time-on-task-does-not-explain-delayed-advantage.md) — related
 - [Erroneous examples do not raise general confidence calibration but yield more high-confidence correct answers on the delayed posttest](erroneous-examples-metacognitive-confidence-delayed.md) — related
 - [Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning](liking-is-not-learning-decimals-tutor.md) — related
+- [A literature survey suggests the generation effect is more likely to be demonstrated on delayed than immediate tests](generation-effect-more-likely-delayed-tests.md) — related

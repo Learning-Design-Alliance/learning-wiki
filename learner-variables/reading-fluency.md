@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 54 claims (33 show a difference, 11 mixed, 10 no difference) · 40 studies (11 causal, 10 review, 8 quant-synthesis, 7 associational, 2 design, 2 theoretical), `q1`–`q3` · 12 of 40 report an effect size · 53 claims rest on one study
+> **Evidence** · 55 claims (34 show a difference, 11 mixed, 10 no difference) · 41 studies (12 causal, 10 review, 8 quant-synthesis, 7 associational, 2 design, 2 theoretical), `q1`–`q3` · 12 of 41 report an effect size · 54 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -94,6 +94,7 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Effects of performance feedback during oral reading are mixed across studies, precluding clear conclusions](../claims/performance-feedback-oral-reading-mixed-effects.md) [~M] — instruction changes it
 - [Goal setting combined with performance feedback showed a positive effect on reading fluency](../claims/goal-setting-plus-performance-feedback-fluency.md) [+M] — instruction changes it
 - [Meaning-based and prosody-focused corrective feedback benefited comprehension and multiple reading outcomes, while decoding-focused feedback mainly enhanced fluency](../claims/meaning-based-feedback-comprehension-prosody.md) [+M] — instruction changes it
+- [The board-game group showed greater pre-post improvement than controls in reading fluency, maths fluency and calculus in grades two to six](../claims/board-games-improve-reading-maths.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

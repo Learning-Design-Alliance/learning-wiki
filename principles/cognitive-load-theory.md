@@ -32,7 +32,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (23 for, 36 mixed, 1 against) · 59 studies (26 causal, 14 review, 12 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 12 of 59 report an effect size · 49 claims rest on one study
+> **Evidence** · 63 claims (25 for, 37 mixed, 1 against) · 60 studies (27 causal, 14 review, 12 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 13 of 60 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,6 +121,8 @@ Re-read 2026-10-19: thirteen of the sixteen claims listed here were moved into t
 - [How commonly the increased efficiency effect is present in test data is unclear](../claims/increased-efficiency-prevalence-unclear.md) [~W] — read 2026-10-19 (not about this page): a commentary on response times in testing; its "efficiency" is test-taker speed, not instructional efficiency.
 - [Split-attention and redundancy effects occur for high element interactivity material but disappear for low element interactivity material](../claims/load-effects-vanish-low-element-interactivity.md) [+W] — attached 2026-10-20 from Ouhao Chen · Fred Paas · John Sweller (2023), which proposed "Instructional design must account for element interactivity because cognitive load effects shrink or reverse as it decreases"; tests this page's relationship.
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](../claims/worked-example-effect-element-interactivity-explanation.md) [+W] — attached 2026-10-20 from Ouhao Chen · Fred Paas · John Sweller (2023), which proposed "Instructional design must account for element interactivity because cognitive load effects shrink or reverse as it decreases"; tests this page's relationship.
+- [On the delayed test, a significant three-way interaction showed a worked example effect for high element interactivity material and a generation effect for low element interactivity material for novices](../claims/delayed-test-three-way-interaction-element-interactivity-guidance-expertise.md) [+M] — attached 2026-10-22 from Relations Between the Worked Example et al. (2016), which proposed "Match the level of instructional guidance to the element interactivity of the material and the expertise of the learners"; tests this page's relationship.
+- [The experiment demonstrated an expertise reversal effect: high guidance via worked examples was redundant for more knowledgeable Year 11 learners](../claims/expertise-reversal-effect-worked-examples-redundant.md) [+M] — attached 2026-10-22 from Relations Between the Worked Example et al. (2016), which proposed "Match the level of instructional guidance to the element interactivity of the material and the expertise of the learners"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -142,6 +144,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Tracing along a poster displaying a cycle reduced extraneous cognitive load and improved learning outcomes](../claims/tracing-water-cycle-reduces-extraneous-load.md) [+W]
 - [Framing formal logical problems in primary knowledge contexts makes learners more efficient, more motivated, more confident and lowers cognitive load compared with secondary knowledge framing](../claims/primary-knowledge-framing-efficiency-motivation.md) [~W]
 - [Gesturing while explaining problem solving reduces cognitive load](../claims/gesturing-reduces-cognitive-load.md) [+W]
+- [On the immediate test, novices showed a worked example effect (high guidance superior) while more knowledgeable learners showed a generation effect (low guidance superior)](../claims/immediate-test-guidance-expertise-interaction-worked-example-generation.md) [~W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md)

@@ -134,3 +134,4 @@ Open questions include how much scaffolding converts a failing constructive atte
 - [No evidence for a mapping between representational format and enhancement of a specific kind of understanding](no-format-knowledge-type-mapping.md) — related
 - [Triads with access to each other's concept maps were more efficient in collaborative problem solving](shared-concept-maps-improve-triad-efficiency.md) — a narrower finding that bears on this claim
 - [Active-processing focus-support techniques such as testing, self-explaining, concept mapping, and drawing show positive effects on learning](focus-support-active-processing-techniques-positive-effects.md) — related
+- [From a cognitive load theory point of view, studying worked-out external representations may lead to better learning outcomes than (co)-construction, the standard mode of operation in CSCL](studying-worked-out-representations-may-beat-co-construction.md) — reports the opposite

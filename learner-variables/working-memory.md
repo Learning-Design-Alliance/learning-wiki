@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 85 claims (51 show a difference, 23 mixed, 11 no difference) · 72 studies (19 review, 18 causal, 17 associational, 11 quant-synthesis, 4 theoretical, 3 qualitative), `q1`–`q4` · 13 of 72 report an effect size · 79 claims rest on one study
+> **Evidence** · 87 claims (51 show a difference, 25 mixed, 11 no difference) · 73 studies (19 review, 18 causal, 18 associational, 11 quant-synthesis, 4 theoretical, 3 qualitative), `q1`–`q4` · 13 of 73 report an effect size · 81 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -128,6 +128,8 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Teachers' load-reducing strategies correlate with lower cognitive load and higher motivation, engagement, and achievement, and their motivating styles with lower load and higher motivation and engagement (Evans et al., 2024)](../claims/load-reducing-teaching-strategies-motivation-engagement.md) [+M] — instruction changes it
 - [Cognitive barriers—insufficient background knowledge or working memory capacity—impede productive engagement in generative learning activities](../claims/cognitive-barriers-impede-glas.md) [+W] — learners who differ on it differ in outcomes
 - [Physical activity interventions in childhood improve working memory with a small summary effect, based on very low-certainty evidence](../claims/pa-interventions-improve-working-memory-childhood.md) [+W] — instruction changes it
+- [The negative working memory span–listening connection may reflect common-effect structure and overload of listening input rather than a direct detrimental role](../claims/negative-wm-span-listening-common-effect-account.md) [~W] — learners who differ on it differ in outcomes
+- [Working memory span, updating, and cognitive flexibility positively predict English writing, response inhibition positively predicts reading, and working memory span negatively predicts listening](../claims/ef-components-predict-english-subskills-network.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

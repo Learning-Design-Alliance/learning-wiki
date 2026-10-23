@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (71 show a difference, 25 mixed, 9 no difference) · 74 studies (20 causal, 20 associational, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 15 of 74 report an effect size · 102 claims rest on one study
+> **Evidence** · 112 claims (77 show a difference, 26 mixed, 9 no difference) · 76 studies (22 associational, 20 causal, 13 review, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 16 of 76 report an effect size · 109 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -140,6 +140,13 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Within persons, better-than-usual math grades positively predict subsequent enjoyment and pride, and enjoyment and pride positively predict subsequent grades](../claims/grades-positive-emotions-within-person-reciprocal.md) [+M] — learners who differ on it differ in outcomes
 - [Within persons, grades negatively predict subsequent anger and hopelessness, and anger, anxiety, boredom, and hopelessness negatively predict subsequent grades](../claims/grades-negative-emotions-within-person-effects.md) [+M] — learners who differ on it differ in outcomes
 - [Within-person deviations of enjoyment and pride correlate positively with grade deviations (r = .12 to .55), and negative-emotion deviations correlate negatively (r = −.17 to −.44)](../claims/within-person-grade-emotion-correlations.md) [+W] — learners who differ on it differ in outcomes
+- [Between persons, trait mastery goals positively predict enjoyment and negatively predict anger and boredom; performance-approach goals predict pride; performance-avoidance goals predict anxiety and shame](../claims/trait-goal-emotion-relations-replicate-previous-findings.md) [+M] — instruction changes it
+- [Beyond the hypothesized links, mastery goals also predicted pride, performance-approach goals predicted enjoyment and (weakly) shame, and performance-avoidance goals predicted anger](../claims/additional-goal-emotion-relations-beyond-hypotheses.md) [+M] — instruction changes it
+- [Fluid reasoning significantly predicted enjoyment but not self-efficacy after accounting for adaptability and covariates](../claims/fluid-reasoning-predicts-enjoyment-not-self-efficacy.md) [+W] — instruction changes it
+- [Intraindividual and interindividual correlations between achievement goals and emotions are statistically independent yet empirically convergent, with goals and emotions less correlated within persons](../claims/intra-interindividual-correlations-independent-yet-convergent.md) [~M] — instruction changes it
+- [Most variance in state achievement goals and emotions is situational (within-person) rather than between-person](../claims/state-goals-emotions-variance-mostly-situational.md) [+M] — instruction changes it
+- [Within persons, state mastery goals positively predict enjoyment and negatively predict boredom and anger in the classroom](../claims/state-mastery-goals-predict-enjoyment-boredom-anger-within-persons.md) [+M] — instruction changes it
+- [Within persons, state performance-approach goals predict pride and state performance-avoidance goals predict anxiety and shame](../claims/state-performance-goals-predict-pride-anxiety-shame-within-persons.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

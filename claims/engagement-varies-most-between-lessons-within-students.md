@@ -52,3 +52,4 @@ Preliminary intra-class correlation analysis of the one-week lesson-to-lesson da
 - [Mathematics shows the lowest student ratings of situational engagement among school subjects](mathematics-lowest-situational-engagement.md) — related
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
 - [Repeated measures of invested mental effort, perceived task difficulty, interest, and self-assessed understanding differ significantly across measurement points within complex learning tasks and are not adequately represented by their mean](repeated-load-interest-measures-vary-within-complex-tasks.md) — related
+- [Most variance in state achievement goals and emotions is situational (within-person) rather than between-person](state-goals-emotions-variance-mostly-situational.md) — related

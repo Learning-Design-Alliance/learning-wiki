@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 163 claims (114 show a difference, 32 mixed, 17 no difference) · 110 studies (37 associational, 22 review, 21 causal, 9 quant-synthesis, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 28 of 110 report an effect size · 157 claims rest on one study
+> **Evidence** · 167 claims (118 show a difference, 32 mixed, 17 no difference) · 111 studies (38 associational, 22 review, 21 causal, 9 quant-synthesis, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 28 of 111 report an effect size · 161 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -203,6 +203,10 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Idiographic diary analyses show daily anxiety relates differently to learning variables in different students, with some students profiting motivationally from anxiety](../claims/idiographic-anxiety-motivation-heterogeneity.md) [~M] — learners who differ on it differ in outcomes
 - [Positive academic emotions correlate positively with interest, effort, flexible learning strategies, and perceived self-regulation, while boredom and hopelessness correlate negatively with all of these motivational variables](../claims/emotions-correlate-motivation-strategies-resources.md) [+M] — learners who differ on it differ in outcomes
 - [Higher mathematics test anxiety predicts earlier practice-session exit, mediating lower learning gains in an adaptive math program](../claims/math-anxiety-earlier-exit-lower-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Math achievement and math anxiety show reciprocal longitudinal relationships in primary school children: achievement at T1 predicts anxiety at T2 and anxiety at T1 predicts achievement at T2](../claims/reciprocal-theory-math-anxiety-achievement-primary-school.md) [+M] — learners who differ on it differ in outcomes
+- [Math anxiety at the end of first grade is predicted by prior math anxiety and gender](../claims/math-anxiety-t1-predictors-gender.md) [+M] — instruction changes it
+- [Math anxiety at the end of second grade is predicted by prior math anxiety at the end of first grade](../claims/math-anxiety-t2-predicted-by-t1.md) [+M] — instruction changes it
+- [Math anxiety at the start of first grade is predicted by general anxiety and symbolic numerical representation](../claims/math-anxiety-t0-predictors.md) [+M] — instruction changes it
 
 ## The evidence by question
 

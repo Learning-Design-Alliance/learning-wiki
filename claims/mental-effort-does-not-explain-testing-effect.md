@@ -66,3 +66,4 @@ Experiment 2 paired-samples comparison of Paas 9-point mental effort ratings fou
 - [The predictive value of cognitive load ratings for problem performance was mixed: mental effort predicted performance in Experiment 1, perceived difficulty in Experiment 2, but never both at once](mixed-performance-prediction-effort-versus-difficulty.md) — related
 - [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](instructions-promote-three-recall-criterion.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
+- [Students report more mental effort and subjective difficulty during oral explaining than during retrieval practice](oral-explaining-higher-effort-difficulty-than-retrieval.md) — related

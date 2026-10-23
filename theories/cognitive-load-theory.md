@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 101 claims (61 for, 30 mixed, 10 against) · 85 studies (31 causal, 23 review, 16 theoretical, 12 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 15 of 85 report an effect size · 90 claims rest on one study
+> **Evidence** · 104 claims (64 for, 30 mixed, 10 against) · 87 studies (32 causal, 23 review, 17 theoretical, 12 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 16 of 87 report an effect size · 93 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -171,6 +171,9 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [For metacognitive strategy use, resources competitively mediate the linear effect and cognitive load partially mediates the linear and mediates the quadratic relationship](../claims/mediation-metacognitive-strategies-load-resources.md) [~W]
 - [Learning with more than two external representations in STEM has advantageous effects on students' cognitive load and performance compared to learning with two representations.](../claims/more-than-two-representations-benefit-load-and-performance.md) [~W]
 - [Embodied action can harm learning when it adds motor demands, redundant cues, or irrelevant activity without improving understanding](../claims/action-hurts-when-adding-motor-demands.md) [+W] — attached 2026-10-22 from Fred Paas et al. (2026), which proposed "Embodied guidance fading: least embodied task-relevant support matched to knowledge and element interactivity, then faded as schemas develop".
+- [CSCL environments in which students share external representations share characteristics that induce considerable cognitive load](../claims/cscl-environments-induce-considerable-cognitive-load.md) [+M] — attached 2026-10-22 from Bruggen et al. (2002), which proposed "Cognitive load theory as an analytical framework for CSCL: pinpointing situations of high cognitive load and mismatches between representations and tasks".
+- [On the delayed test, a significant three-way interaction showed a worked example effect for high element interactivity material and a generation effect for low element interactivity material for novices](../claims/delayed-test-three-way-interaction-element-interactivity-guidance-expertise.md) [+W] — attached 2026-10-22 from Relations Between the Worked Example et al. (2016), which proposed "Element interactivity as the cognitive load theory measure reconciling the worked example and generation effects"; tests this page's relationship.
+- [Expertise produced large main effects on test scores and interacted with element interactivity, with the expertise advantage much larger for high element interactivity material](../claims/expertise-main-effect-and-element-interactivity-interaction.md) [+W] — attached 2026-10-22 from Relations Between the Worked Example et al. (2016), which proposed "Element interactivity as the cognitive load theory measure reconciling the worked example and generation effects"; tests this page's relationship.
 
 ## The evidence by question
 

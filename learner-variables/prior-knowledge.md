@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 157 claims (92 show a difference, 47 mixed, 18 no difference) · 129 studies (35 causal, 31 review, 21 theoretical, 17 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 129 report an effect size · 140 claims rest on one study
+> **Evidence** · 161 claims (96 show a difference, 47 mixed, 18 no difference) · 131 studies (36 causal, 31 review, 21 theoretical, 18 associational, 9 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 19 of 131 report an effect size · 144 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -205,6 +205,10 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Cognitive barriers—insufficient background knowledge or working memory capacity—impede productive engagement in generative learning activities](../claims/cognitive-barriers-impede-glas.md) [+W] — learners who differ on it differ in outcomes
 - [Feedback benefits are stronger for children with low prior knowledge, resembling an expertise-reversal effect](../claims/feedback-stronger-for-low-prior-knowledge-children.md) [+M] — an instructional effect differs with it
 - [Expertise did not significantly predict gaze proportions toward student materials or teacher materials in either attentional or communicative gaze](../claims/expertise-null-material-gaze.md) [-M] — learners who differ on it differ in outcomes
+- [Expertise produced large main effects on test scores and interacted with element interactivity, with the expertise advantage much larger for high element interactivity material](../claims/expertise-main-effect-and-element-interactivity-interaction.md) [+M] — an instructional effect differs with it
+- [Math achievement at the end of second grade is predicted by fluid intelligence, verbal working memory, and prior math achievement](../claims/math-achievement-t2-predictors.md) [+M] — learners who differ on it differ in outcomes
+- [On the delayed test, a significant three-way interaction showed a worked example effect for high element interactivity material and a generation effect for low element interactivity material for novices](../claims/delayed-test-three-way-interaction-element-interactivity-guidance-expertise.md) [+M] — an instructional effect differs with it
+- [The experiment demonstrated an expertise reversal effect: high guidance via worked examples was redundant for more knowledgeable Year 11 learners](../claims/expertise-reversal-effect-worked-examples-redundant.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

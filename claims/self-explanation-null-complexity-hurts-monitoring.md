@@ -70,3 +70,4 @@ The review reports the complexity effect from the same study: judgments were "mo
 - [Monitoring accuracy interventions are more effective for retrospective confidence judgments than for judgments of learning](interventions-more-effective-rcj-than-jol.md) — related
 - [Monitoring accuracy interventions are less effective for secondary school students than for elementary students and adults](monitoring-accuracy-interventions-least-effective-secondary-students.md) — related
 - [Providing a standard answer to compare against improves the accuracy of students' retrospective monitoring judgments](answer-standard-improves-retrospective-monitoring.md) — related
+- [Oral explaining yields more accurate meta-comprehension judgments than written explaining and retrieval practice](oral-explaining-improves-meta-comprehension-accuracy.md) — related

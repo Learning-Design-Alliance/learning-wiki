@@ -48,3 +48,4 @@ The article states in its abstract that the two effects "share similar underlyin
 - [Shifting information to external aids enhances task performance with greater gains under high cognitive load](offloading-enhances-performance-under-load.md) — related
 - [Element interactivity moderates the effectiveness of cognitive offloading, with greater benefit for high element interactivity materials](element-interactivity-moderates-offloading.md) — related
 - [Learning with more than two external representations in STEM has advantageous effects on students' cognitive load and performance compared to learning with two representations.](more-than-two-representations-benefit-load-and-performance.md) — related
+- [CSCL environments in which students share external representations share characteristics that induce considerable cognitive load](cscl-environments-induce-considerable-cognitive-load.md) — related

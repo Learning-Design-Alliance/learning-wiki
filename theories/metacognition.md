@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 437 claims (206 for, 210 mixed, 21 against) · 219 studies (103 causal, 48 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 80 of 219 report an effect size · 430 claims rest on one study
+> **Evidence** · 438 claims (206 for, 211 mixed, 21 against) · 220 studies (104 causal, 48 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 80 of 220 report an effect size · 431 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -480,6 +480,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [In the CRT experiment, response time served as a significantly stronger cue for goal-driven effort, data-driven effort, and difficulty appraisals than for confidence appraisals](../claims/rt-cue-stronger-for-load-appraisals-than-confidence-crt.md) [~W]
 - [In the non-verbal MTT experiment, response time served as a cue for goal-driven effort appraisals more than for confidence appraisals, partly replicating experiment 1](../claims/rt-cue-goal-driven-vs-confidence-mtt-partial-replication.md) [~W]
 - [Averaged across three experiments, load-related appraisals correlated more strongly with response time than confidence did, while difficulty and confidence predicted accuracy more strongly than mental effort appraisals](../claims/cross-experiment-appraisal-correlations-rt-accuracy.md) [~W]
+- [Oral explaining yields more accurate meta-comprehension judgments than written explaining and retrieval practice](../claims/oral-explaining-improves-meta-comprehension-accuracy.md) [~W]
 
 ## The evidence by question
 
