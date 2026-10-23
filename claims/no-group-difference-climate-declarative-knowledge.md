@@ -45,3 +45,5 @@ Two-way ANCOVA on climate declarative knowledge adjusting for pre-test scores, i
 ## Related Claims
 - [Ninth-grade students in a Productive Failure design scored significantly higher than Direct Instruction students on complex systems explanatory knowledge about climate](pf-beats-di-complex-systems-explanatory-knowledge.md) — related
 - [PF students scored significantly higher than DI students on climate explanatory knowledge](pf-beats-di-climate-explanatory-knowledge.md) — related
+- [Both one-model and two-model productive failure groups significantly improved weather and climate declarative knowledge, with no difference between conditions](pf-climate-declarative-knowledge-gains-no-condition-effect.md) — possibly the same claim (merge candidate)
+- [Both treatment groups significantly improved climate explanatory knowledge, with no reliable condition or teacher-expertise differences](pf-climate-explanatory-knowledge-gains-spurious-interaction.md) — related

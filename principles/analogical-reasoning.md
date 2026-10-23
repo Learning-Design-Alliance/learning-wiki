@@ -35,7 +35,7 @@ sources:
 # Analogical Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (5 for, 10 mixed) · 22 studies (8 causal, 4 review, 4 qualitative, 3 quant-synthesis, 2 associational, 1 design), `q2`–`q4` · 2 of 22 report an effect size · 8 claims rest on one study
+> **Evidence** · 16 claims (6 for, 10 mixed) · 23 studies (9 causal, 4 review, 4 qualitative, 3 quant-synthesis, 2 associational, 1 design), `q2`–`q4` · 3 of 23 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,6 +121,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](../claims/concrete-eco-feedback-visualizations-preferred-over-abstract.md) [+W]
 - [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](../claims/qualities-metaphors-genai-unknowable-unreliable.md) [~W]
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](../claims/role-metaphors-genai-frenemy-ambivalence.md) [+W]
+- [Students who compared a climate model with non-climate analog models during productive failure scored significantly higher on far across domain transfer than students who used only the climate model](../claims/two-models-comparison-far-across-domain-transfer.md) [+M] — attached 2026-10-23 from Jacobson et al. (2020), which proposed "Scaffold comparison of two contrasting-domain models during productive failure exploration to foster far across domain transfer"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -148,6 +149,7 @@ Recognising that a source applies, mapping it correctly, using the principle on 
 - **Writing identity metaphors**: Learners use metaphor to describe their writing process and reflect on how that framing shapes revision habits.
 - **Digital literacy comparisons**: Learners use familiar physical systems to reason about files, networks, or information flow.
 - [A model of twelve divergent thinking activities organised along two dimensions of remoteness and abstractness](../designs/twelve-activity-model-remoteness-abstractness.md)
+- [Hybrid productive failure with analogical comparison: schema abstraction through comparing contrasting models](../designs/hybrid-pf-analogical-comparison-schema-abstraction.md)
 
 ### Illustrative
 

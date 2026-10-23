@@ -1,7 +1,7 @@
 {
 "counts":{
-"claim":25666,
-"design":995,
+"claim":25679,
+"design":997,
 "element":1057,
 "learner-variable":75,
 "method":37,
@@ -41803,6 +41803,15 @@
 "path":"claims/concurrent-dims-no-adjusted-risk.md",
 "status":"review",
 "title":"Concurrent sleep problems at age 11–13 do not increase the risk of poor academic performance after controlling for mental health problems",
+"type":"claim"
+},
+{
+"description":"Parent spatial language is concurrently associated with child spatial language at 48 months, explaining substantial variance beyond controls",
+"evidence_strength":"moderate",
+"id":"concurrent-parent-child-spatial-language-association",
+"path":"claims/concurrent-parent-child-spatial-language-association.md",
+"status":"review",
+"title":"Parent spatial language is concurrently associated with child spatial language at 48 months, explaining substantial variance beyond controls",
 "type":"claim"
 },
 {
@@ -88597,6 +88606,15 @@
 "path":"claims/gender-moderates-tuga-effects.md",
 "status":"review",
 "title":"The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender",
+"type":"claim"
+},
+{
+"description":"Tentative longitudinal interaction: mother spatial language quantity at 24 months relates negatively to boys' but positively to girls' later spatial language quality",
+"evidence_strength":"weak",
+"id":"gender-mother-quantity-longitudinal-interaction",
+"path":"claims/gender-mother-quantity-longitudinal-interaction.md",
+"status":"review",
+"title":"Tentative longitudinal interaction: mother spatial language quantity at 24 months relates negatively to boys' but positively to girls' later spatial language quality",
 "type":"claim"
 },
 {
@@ -137699,6 +137717,15 @@
 "type":"claim"
 },
 {
+"description":"Both treatment groups improved near within domain transfer, but the One Model Group's benefit depended on having a content-expert teacher while the Two Models Group's did not",
+"evidence_strength":"moderate",
+"id":"near-transfer-teacher-expertise-interaction-one-model",
+"path":"claims/near-transfer-teacher-expertise-interaction-one-model.md",
+"status":"review",
+"title":"Both treatment groups improved near within domain transfer, but the One Model Group's benefit depended on having a content-expert teacher while the Two Models Group's did not",
+"type":"claim"
+},
+{
 "description":"Theoretical expectation: hybrid metacognitive skill training benefits content knowledge acquisition more in near than in far transfer because far transfer is more cognitively demanding",
 "evidence_strength":"weak",
 "id":"near-transfer-working-memory-advantage-hypothesis",
@@ -141942,6 +141969,15 @@
 "type":"claim"
 },
 {
+"description":"Parent spatial language at 24 months does not predict child spatial language two years later",
+"evidence_strength":"moderate",
+"id":"no-longitudinal-parent-child-spatial-language-prediction",
+"path":"claims/no-longitudinal-parent-child-spatial-language-prediction.md",
+"status":"review",
+"title":"Parent spatial language at 24 months does not predict child spatial language two years later",
+"type":"claim"
+},
+{
 "description":"No-loss gambling and gains-only designs avoid loss-aversion complications in PDW",
 "evidence_strength":"weak",
 "id":"no-loss-gambling-and-gains-only-designs-avoid-loss-aversion",
@@ -142191,6 +142227,15 @@
 "path":"claims/no-moderators-life-events-self-control.md",
 "status":"review",
 "title":"Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation",
+"type":"claim"
+},
+{
+"description":"Mothers and fathers show no difference in spatial language use with their children, and children produce similar spatial language with each parent",
+"evidence_strength":"moderate",
+"id":"no-mother-father-spatial-language-difference",
+"path":"claims/no-mother-father-spatial-language-difference.md",
+"status":"review",
+"title":"Mothers and fathers show no difference in spatial language use with their children, and children produce similar spatial language with each parent",
 "type":"claim"
 },
 {
@@ -142875,6 +142920,15 @@
 "path":"claims/no-ses-moderation-motivation-variance.md",
 "status":"review",
 "title":"SES does not moderate genetic, shared, or nonshared environmental variance in four-year-olds' learning motivation",
+"type":"claim"
+},
+{
+"description":"Boys and girls show comparable spatial language use at 24 and 48 months during structured DUPLO play",
+"evidence_strength":"moderate",
+"id":"no-sex-differences-child-spatial-language-duplo",
+"path":"claims/no-sex-differences-child-spatial-language-duplo.md",
+"status":"review",
+"title":"Boys and girls show comparable spatial language use at 24 and 48 months during structured DUPLO play",
 "type":"claim"
 },
 {
@@ -151255,6 +151309,24 @@
 "type":"claim"
 },
 {
+"description":"Parents use a greater variety of spatial words (higher spatial language quality) with daughters than sons, regardless of SES or talkativeness",
+"evidence_strength":"moderate",
+"id":"parent-spatial-language-quality-daughters",
+"path":"claims/parent-spatial-language-quality-daughters.md",
+"status":"review",
+"title":"Parents use a greater variety of spatial words (higher spatial language quality) with daughters than sons, regardless of SES or talkativeness",
+"type":"claim"
+},
+{
+"description":"Parents used more spatial language at 24 months than at 48 months, an effect attributable to differences in overall talkativeness",
+"evidence_strength":"moderate",
+"id":"parent-spatial-language-timepoint-talkativeness",
+"path":"claims/parent-spatial-language-timepoint-talkativeness.md",
+"status":"review",
+"title":"Parents used more spatial language at 24 months than at 48 months, an effect attributable to differences in overall talkativeness",
+"type":"claim"
+},
+{
 "description":"Parent STEM talk has been linked to better child STEM outcomes in prior research, per the authors",
 "evidence_strength":"weak",
 "id":"parent-stem-talk-linked-child-stem-outcomes",
@@ -154778,6 +154850,15 @@
 "type":"claim"
 },
 {
+"description":"The authors interpret higher spatial language quality with daughters as possibly reflecting a perceived need to provide conceptual support",
+"evidence_strength":"weak",
+"id":"perceived-conceptual-support-daughters-interpretation",
+"path":"claims/perceived-conceptual-support-daughters-interpretation.md",
+"status":"review",
+"title":"The authors interpret higher spatial language quality with daughters as possibly reflecting a perceived need to provide conceptual support",
+"type":"claim"
+},
+{
 "description":"Fryer argues perceived control and need for competence may bridge differences among models of higher-education learning toward a mega-theory",
 "evidence_strength":"weak",
 "id":"perceived-control-competence-mega-theory-bridge",
@@ -156552,12 +156633,39 @@
 "type":"claim"
 },
 {
+"description":"Both one-model and two-model productive failure groups significantly improved weather and climate declarative knowledge, with no difference between conditions",
+"evidence_strength":"moderate",
+"id":"pf-climate-declarative-knowledge-gains-no-condition-effect",
+"path":"claims/pf-climate-declarative-knowledge-gains-no-condition-effect.md",
+"status":"review",
+"title":"Both one-model and two-model productive failure groups significantly improved weather and climate declarative knowledge, with no difference between conditions",
+"type":"claim"
+},
+{
+"description":"Both treatment groups significantly improved climate explanatory knowledge, with no reliable condition or teacher-expertise differences",
+"evidence_strength":"moderate",
+"id":"pf-climate-explanatory-knowledge-gains-spurious-interaction",
+"path":"claims/pf-climate-explanatory-knowledge-gains-spurious-interaction.md",
+"status":"review",
+"title":"Both treatment groups significantly improved climate explanatory knowledge, with no reliable condition or teacher-expertise differences",
+"type":"claim"
+},
+{
 "description":"Collaborative and individual problem solving in traditional PF do not differ in conceptual knowledge after instruction",
 "evidence_strength":"moderate",
 "id":"pf-collaborative-individual-no-conceptual-knowledge-difference",
 "path":"claims/pf-collaborative-individual-no-conceptual-knowledge-difference.md",
 "status":"review",
 "title":"Collaborative and individual problem solving in traditional PF do not differ in conceptual knowledge after instruction",
+"type":"claim"
+},
+{
+"description":"Both treatment groups significantly improved complex systems explanatory knowledge, and students taught by the content-expert teacher learned more than those taught by less expert teachers",
+"evidence_strength":"moderate",
+"id":"pf-complex-systems-knowledge-teacher-expertise-effect",
+"path":"claims/pf-complex-systems-knowledge-teacher-expertise-effect.md",
+"status":"review",
+"title":"Both treatment groups significantly improved complex systems explanatory knowledge, and students taught by the content-expert teacher learned more than those taught by less expert teachers",
 "type":"claim"
 },
 {
@@ -221848,6 +221956,15 @@
 "type":"claim"
 },
 {
+"description":"Students who compared a climate model with non-climate analog models during productive failure scored significantly higher on far across domain transfer than students who used only the climate model",
+"evidence_strength":"moderate",
+"id":"two-models-comparison-far-across-domain-transfer",
+"path":"claims/two-models-comparison-far-across-domain-transfer.md",
+"status":"review",
+"title":"Students who compared a climate model with non-climate analog models during productive failure scored significantly higher on far across domain transfer than students who used only the climate model",
+"type":"claim"
+},
+{
 "description":"Two-part collaborative assessment, individual then group answering, transforms summative testing into a learning experience and may reduce test anxiety",
 "evidence_strength":"weak",
 "id":"two-part-collaborative-assessment-learning-experience",
@@ -236655,6 +236772,14 @@
 "type":"design"
 },
 {
+"description":"The article proposes a hybrid learning design that combines productive failure's two phases (Exploration and Generation, then Consolidation and Knowledge Assembly) with analogical comparison scaffolds.",
+"id":"hybrid-pf-analogical-comparison-schema-abstraction",
+"path":"designs/hybrid-pf-analogical-comparison-schema-abstraction.md",
+"status":"review",
+"title":"Hybrid productive failure with analogical comparison: schema abstraction through comparing contrasting models",
+"type":"design"
+},
+{
 "description":"A deployed support platform for a large online internship programme that routes each raised query across four paths: an AI chatbot answering only from a curated FAQ corpus, a peer layer where any participant may answe...",
 "id":"hybrid-query-resolution-platform-internship-onboarding",
 "path":"designs/hybrid-query-resolution-platform-internship-onboarding.md",
@@ -237913,6 +238038,14 @@
 "path":"designs/nested-inquiries-ccs-schools.md",
 "status":"review",
 "title":"Nested inquiries: students pursue their own investigations intertwined with partnering scientists' projects in school-based citizen science",
+"type":"design"
+},
+{
+"description":"The study's main learning materials were four weather and climate agent-based models developed in NetLogo by a participating science teacher (Carbon Cycle, Climate with Feedback, Wind and Storm, Climate with Water Fee...",
+"id":"netlogo-climate-complexity-model-set-jacobson-2020",
+"path":"designs/netlogo-climate-complexity-model-set-jacobson-2020.md",
+"status":"review",
+"title":"NetLogo climate and complex systems model set with student guidebooks and teacher scripts",
 "type":"design"
 },
 {
@@ -341893,6 +342026,7 @@
 "concurrent-calibration-higher-failing-rates":"concurrent-calibration-higher-failing-rates",
 "concurrent-calibration-lower-scale-means-older-tests":"concurrent-calibration-lower-scale-means-older-tests",
 "concurrent-dims-no-adjusted-risk":"concurrent-dims-no-adjusted-risk",
+"concurrent-parent-child-spatial-language-association":"concurrent-parent-child-spatial-language-association",
 "concurrent-stronger-than-prospective-judgments":"concurrent-stronger-than-prospective-judgments",
 "concurrent-validity-sparse-11-assessments-one-screener":"concurrent-validity-sparse-11-assessments-one-screener",
 "condensed-eot-academic-support-persistent-struggles":"condensed-eot-academic-support-persistent-struggles",
@@ -347174,6 +347308,7 @@
 "gender-moderates-emotion-regulation-motivation-association":"gender-moderates-emotion-regulation-motivation-association",
 "gender-moderates-fitness-attention-links":"gender-moderates-fitness-attention-links",
 "gender-moderates-tuga-effects":"gender-moderates-tuga-effects",
+"gender-mother-quantity-longitudinal-interaction":"gender-mother-quantity-longitudinal-interaction",
 "gender-network-structure-invariance-differences":"gender-network-structure-invariance-differences",
 "gender-no-detectable-effect-underpowered":"gender-no-detectable-effect-underpowered",
 "gender-no-impact-gen-z-ai-adoption":"gender-no-impact-gen-z-ai-adoption",
@@ -352723,6 +352858,7 @@
 "ndw-only-language-group-difference-narrative-microstructure":"ndw-only-language-group-difference-narrative-microstructure",
 "near-peer-support-drives-youth-engagement-ymhc":"near-peer-support-drives-youth-engagement-ymhc",
 "near-term-academic-problem-types-defined":"near-term-academic-problem-types-defined",
+"near-transfer-teacher-expertise-interaction-one-model":"near-transfer-teacher-expertise-interaction-one-model",
 "near-transfer-working-memory-advantage-hypothesis":"near-transfer-working-memory-advantage-hypothesis",
 "nebraska-engage-career-exploration-course-underutilized":"nebraska-engage-career-exploration-course-underutilized",
 "nebraska-middle-cte-career-development-largest-category":"nebraska-middle-cte-career-development-largest-category",
@@ -353198,6 +353334,7 @@
 "no-llm-tutor-reliably-safe-60-percent-harm":"no-llm-tutor-reliably-safe-60-percent-harm",
 "no-long-term-achievement-effects-school-closings":"no-long-term-achievement-effects-school-closings",
 "no-long-term-direct-effect-media-multitasking-achievement":"no-long-term-direct-effect-media-multitasking-achievement",
+"no-longitudinal-parent-child-spatial-language-prediction":"no-longitudinal-parent-child-spatial-language-prediction",
 "no-loss-gambling-and-gains-only-designs-avoid-loss-aversion":"no-loss-gambling-and-gains-only-designs-avoid-loss-aversion",
 "no-low-high-performer-difference-within-move":"no-low-high-performer-difference-within-move",
 "no-main-effect-interaction-format-desktop-vr":"no-main-effect-interaction-format-desktop-vr",
@@ -353226,6 +353363,7 @@
 "no-moderator-effects-grade-or-outcome":"no-moderator-effects-grade-or-outcome",
 "no-moderators-emotion-political-learning":"no-moderators-emotion-political-learning",
 "no-moderators-life-events-self-control":"no-moderators-life-events-self-control",
+"no-mother-father-spatial-language-difference":"no-mother-father-spatial-language-difference",
 "no-motivation-difference-ibl-environments":"no-motivation-difference-ibl-environments",
 "no-motivation-effect-differentiation":"no-motivation-effect-differentiation",
 "no-motivational-differences-worked-versus-inventing":"no-motivational-differences-worked-versus-inventing",
@@ -353302,6 +353440,7 @@
 "no-ses-difference-probabilistic-classification":"no-ses-difference-probabilistic-classification",
 "no-ses-gap-reading-reasoning-loss":"no-ses-gap-reading-reasoning-loss",
 "no-ses-moderation-motivation-variance":"no-ses-moderation-motivation-variance",
+"no-sex-differences-child-spatial-language-duplo":"no-sex-differences-child-spatial-language-duplo",
 "no-sex-differences-ef-task-orientation-math-pathways":"no-sex-differences-ef-task-orientation-math-pathways",
 "no-sex-differences-wm-growth":"no-sex-differences-wm-growth",
 "no-short-term-dependence-cost-unsupported-application":"no-short-term-dependence-cost-unsupported-application",
@@ -354244,6 +354383,8 @@
 "parent-personality-traits-parent-child-relationship-quality":"parent-personality-traits-parent-child-relationship-quality",
 "parent-reported-inhibitory-control-no-growth":"parent-reported-inhibitory-control-no-growth",
 "parent-ses-predicts-cardinal-knowledge":"parent-ses-predicts-cardinal-knowledge",
+"parent-spatial-language-quality-daughters":"parent-spatial-language-quality-daughters",
+"parent-spatial-language-timepoint-talkativeness":"parent-spatial-language-timepoint-talkativeness",
 "parent-stem-talk-linked-child-stem-outcomes":"parent-stem-talk-linked-child-stem-outcomes",
 "parent-support-declined-middle-grades":"parent-support-declined-middle-grades",
 "parent-support-roadblock-grew-trust-low":"parent-support-roadblock-grew-trust-low",
@@ -354644,6 +354785,7 @@
 "perceived-benefit-correlates-with-aac-experience":"perceived-benefit-correlates-with-aac-experience",
 "perceived-competence-autonomy-predict-test-performance":"perceived-competence-autonomy-predict-test-performance",
 "perceived-competence-no-impact-on-adjustment":"perceived-competence-no-impact-on-adjustment",
+"perceived-conceptual-support-daughters-interpretation":"perceived-conceptual-support-daughters-interpretation",
 "perceived-control-competence-mega-theory-bridge":"perceived-control-competence-mega-theory-bridge",
 "perceived-control-high-instruction-only-and-generation":"perceived-control-high-instruction-only-and-generation",
 "perceived-deep-learning-benefits-declined-over-term":"perceived-deep-learning-benefits-declined-over-term",
@@ -354842,7 +354984,10 @@
 "pf-beats-di-complex-systems-explanatory-knowledge":"pf-beats-di-complex-systems-explanatory-knowledge",
 "pf-beats-di-far-transfer-robot-mining":"pf-beats-di-far-transfer-robot-mining",
 "pf-beats-di-near-transfer-butterfly-effect":"pf-beats-di-near-transfer-butterfly-effect",
+"pf-climate-declarative-knowledge-gains-no-condition-effect":"pf-climate-declarative-knowledge-gains-no-condition-effect",
+"pf-climate-explanatory-knowledge-gains-spurious-interaction":"pf-climate-explanatory-knowledge-gains-spurious-interaction",
 "pf-collaborative-individual-no-conceptual-knowledge-difference":"pf-collaborative-individual-no-conceptual-knowledge-difference",
+"pf-complex-systems-knowledge-teacher-expertise-effect":"pf-complex-systems-knowledge-teacher-expertise-effect",
 "pf-components-associated-adolescent-academic-achievement":"pf-components-associated-adolescent-academic-achievement",
 "pf-components-map-onto-ef-domains":"pf-components-map-onto-ef-domains",
 "pf-effect-not-replicated-non-stem-research-methods":"pf-effect-not-replicated-non-stem-research-methods",
@@ -362236,6 +362381,7 @@
 "two-level-sem-approaches-teaching-studying-biology-achievement":"two-level-sem-approaches-teaching-studying-biology-achievement",
 "two-million-student-map-growth-gender-gaps-achievement-levels":"two-million-student-map-growth-gender-gaps-achievement-levels",
 "two-model-answers-improve-comprehension-delayed-diagramming":"two-model-answers-improve-comprehension-delayed-diagramming",
+"two-models-comparison-far-across-domain-transfer":"two-models-comparison-far-across-domain-transfer",
 "two-part-collaborative-assessment-learning-experience":"two-part-collaborative-assessment-learning-experience",
 "two-patterns-error-discovery-feedback-provision":"two-patterns-error-discovery-feedback-provision",
 "two-patterns-error-feedback-processing":"two-patterns-error-feedback-processing",
@@ -363957,6 +364103,7 @@
 "hybrid-grading-behavior-below-quality-above-threshold":"hybrid-grading-behavior-below-quality-above-threshold",
 "hybrid-micro-personalization-framework":"hybrid-micro-personalization-framework",
 "hybrid-non-hybrid-training-design-stebner-2022":"hybrid-non-hybrid-training-design-stebner-2022",
+"hybrid-pf-analogical-comparison-schema-abstraction":"hybrid-pf-analogical-comparison-schema-abstraction",
 "hybrid-query-resolution-platform-internship-onboarding":"hybrid-query-resolution-platform-internship-onboarding",
 "hypergamification-bidirectional-lms-game-integration":"hypergamification-bidirectional-lms-game-integration",
 "ibl-activity-design-principles-authenticity-collaboration-scaffolding":"ibl-activity-design-principles-authenticity-collaboration-scaffolding",
@@ -364114,6 +364261,7 @@
 "negotiation-common-ground-dual-concept":"negotiation-common-ground-dual-concept",
 "nest-instruction-in-360-400-minute-day":"nest-instruction-in-360-400-minute-day",
 "nested-inquiries-ccs-schools":"nested-inquiries-ccs-schools",
+"netlogo-climate-complexity-model-set-jacobson-2020":"netlogo-climate-complexity-model-set-jacobson-2020",
 "nevada-eight-step-adoption-step-matrix":"nevada-eight-step-adoption-step-matrix",
 "newcomer-school-element":"newcomer-school-element",
 "newcomer-school-leadership-practices":"newcomer-school-leadership-practices",

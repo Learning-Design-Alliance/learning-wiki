@@ -12,7 +12,7 @@ generated:
 # Language Acquisition Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (10 for, 4 mixed) · 8 studies (4 associational, 3 review, 1 causal), `q2`–`q3` · 0 of 8 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 9 studies (5 associational, 3 review, 1 causal), `q2`–`q3` · 0 of 9 report an effect size · 14 claims rest on one study
 
 ## Description
 How children acquire language so quickly and reliably, without formal instruction, is a long-running theoretical debate with three main competing accounts.
@@ -54,6 +54,7 @@ The current consensus among researchers is that no single account is sufficient 
 - [Parent narrative utterances at 42 months predict child PPVT at 54 months with quantity, SES, and prior vocabulary controlled](../claims/narrative-utterances-42-months-predict-vocabulary-54-months.md) [+W]
 - [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](../claims/ses-differences-quantity-quality-parental-input.md) [+W]
 - [Parent vocabulary diversity at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled](../claims/vocabulary-diversity-30-months-predicts-vocabulary-42-months.md) [~W]
+- [Parent spatial language is concurrently associated with child spatial language at 48 months, explaining substantial variance beyond controls](../claims/concurrent-parent-child-spatial-language-association.md) [+W]
 
 ## Related Theories
 
