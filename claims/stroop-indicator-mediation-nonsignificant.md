@@ -47,6 +47,6 @@ Supplemental models replaced the latent executive functions construct with each 
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Children's executive functions at 54 months fully mediate the link between early autonomy support and elementary achievement and partially mediate the link to high school achievement](executive-functions-mediate-autonomy-support-achievement.md) — a broader claim this one bears on
+- [Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school](executive-functions-mediate-autonomy-support-achievement.md) — a broader claim this one bears on
 - [The mediating role of executive functions remains significant when children's temperament and vocabulary are modeled as alternative mediators](ef-mediation-robust-to-temperament-vocabulary.md) — related
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related

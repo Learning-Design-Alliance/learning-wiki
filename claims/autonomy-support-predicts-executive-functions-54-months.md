@@ -48,5 +48,5 @@ SEM analysis of NICHD SECCYD observational parenting data (1,306 dyads) with cov
 
 ## Related Claims
 - [Early autonomy-supportive parenting predicts children's achievement in both elementary and high school, uniquely over other parenting dimensions](autonomy-support-predicts-achievement-elementary-high-school.md) — related
-- [Children's executive functions at 54 months fully mediate the link between early autonomy support and elementary achievement and partially mediate the link to high school achievement](executive-functions-mediate-autonomy-support-achievement.md) — related
+- [Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school](executive-functions-mediate-autonomy-support-achievement.md) — related
 - [The mediating role of executive functions remains significant when children's temperament and vocabulary are modeled as alternative mediators](ef-mediation-robust-to-temperament-vocabulary.md) — related

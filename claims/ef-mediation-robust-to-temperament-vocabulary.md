@@ -55,5 +55,5 @@ Supplemental SEM adding three CBQ temperament scales and Woodcock-Johnson Pictur
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](social-functioning-fully-mediate-ec-achievement.md) — related
 - [Children's adult-reported and observed effortful control in early elementary school prospectively predicts academic achievement 6 years later](ec-prospective-achievement-six-year.md) — related
 - [The mediated EC-achievement model is not moderated by children's sex, age, or SES](no-moderation-sex-age-ses.md) — related
-- [Children's executive functions at 54 months fully mediate the link between early autonomy support and elementary achievement and partially mediate the link to high school achievement](executive-functions-mediate-autonomy-support-achievement.md) — a broader claim this one bears on
+- [Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school](executive-functions-mediate-autonomy-support-achievement.md) — a broader claim this one bears on
 - [Indirect effects via executive functions hold for CPT inhibition, sustained attention, and delay of gratification indicators but not the Day-Night Stroop](stroop-indicator-mediation-nonsignificant.md) — related

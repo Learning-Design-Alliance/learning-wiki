@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Children's executive functions at 54 months fully mediate the link between early autonomy support and elementary achievement and partially mediate the link to high school achievement"
-description: "Children's executive functions at 54 months fully mediate the link between early autonomy support and elementary achievement and partially mediate the link to high school achievement"
+title: "Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school"
+description: "Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school"
 id: executive-functions-mediate-autonomy-support-achievement
 status: review
 generated:
@@ -27,13 +27,13 @@ sources:
     rigour: 3
 ---
 
-# Children's executive functions at 54 months fully mediate the link between early autonomy support and elementary achievement and partially mediate the link to high school achievement
+# Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
 
 ## Subclaims
-`q2 i?` With executive functions in the model, the direct effect of autonomy support on elementary achievement became nonsignificant (β = .04, ns), with executive functions accounting for 69% of the total effect; for high school achievement, mediation was partial (39% of the effect; direct effect β = .14, p < .001). [→ Bindman 2015](#bindman-2015)
+`q2 i?` In a correlational SEM mediation model, adding executive functions reduced the direct association of autonomy support with elementary achievement to nonsignificance (β = .04, ns), with executive functions accounting for 69% of the total effect; for high school achievement they accounted for 39% and the direct effect remained significant (β = .14, p < .001). The authors describe executive functions as partially accounting for the association, and the design cannot show cause. [→ Bindman 2015](#bindman-2015)
 
 ## Evidence
 
