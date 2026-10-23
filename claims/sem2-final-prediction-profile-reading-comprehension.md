@@ -53,3 +53,4 @@ Final longitudinal structural equation model (SEM 2) with 556 French first-grade
 - [In French first-graders, a three-factor structure distinguishing lower level language skills from discourse skills fits better than a two-factor oral language structure at both the beginning and end of first grade](three-factor-oral-language-structure-french-first-grade.md) — related
 - [At the end of French first grade, T2 decoding skills and T2 lower level language skills predicted reading comprehension, but T2 discourse skills did not](t2-decoding-and-lll-predict-reading-comprehension.md) — related
 - [T1 decoding precursors strongly predicted T2 decoding skills in French first-graders, explaining 75% of their variance](decoding-precursors-predict-decoding-skills-first-grade.md) — related
+- [Reading comprehension is only marginally explained by reading fluency, with no group-by-fluency interaction](fluency-marginally-explains-comprehension.md) — related

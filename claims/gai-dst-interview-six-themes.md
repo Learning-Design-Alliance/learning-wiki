@@ -53,3 +53,4 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
 - [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — related
 - [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — related
+- [University philosophy teachers prioritize fostering students' intellectual growth over transmitting content](philosophy-teachers-prioritize-intellectual-growth-over-content.md) — related

@@ -13,7 +13,7 @@ generated:
 # Mathematical Flexibility
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 11 claims (8 show a difference, 3 mixed) · 11 studies (5 causal, 3 associational, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 3 of 11 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (10 show a difference, 4 mixed, 1 no difference) · 12 studies (6 causal, 3 associational, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 4 of 12 report an effect size · 14 claims rest on one study
 
 ## Description
 Mathematical flexibility is the ability to keep several representations of a number in mind (a fraction as a shaded region, a decimal, a point on a line) and several ways of solving a problem, and to move among them adaptively, choosing the strategy that suits the problem rather than always using the same one. The Learner Variability Navigator says it helps learners understand concepts more deeply and find solutions more efficiently. It is measured with tasks that test knowledge of multiple strategies for solving equations and judgement of which is most efficient.
@@ -47,6 +47,10 @@ LVN follows it from preschool to grade 10. Its general counterpart is cognitive 
 - [A 50-minute metacognitive strategy instruction produced positive effects on secondary students' fluency, flexibility and originality of ideas in both cohorts](../claims/strategy-instruction-improves-divergent-thinking.md) [+M] — instruction changes it
 - [After a lesson series, two sixth graders could switch flexibly between perspectives when comparing negative integers; one distinguished number-line order from context-based absolute-value reasoning about debts](../claims/post-lesson-flexible-perspective-switching.md) [+M] — instruction changes it
 - [As predicted by the adaptive strategy choice model, children's retrieval frequency correlates with retrieval efficiency but not with procedural efficiency](../claims/retrieval-frequency-correlates-retrieval-efficiency.md) [~M] — learners who differ on it differ in outcomes
+- [Controlling statistically for flexibility renders the training effect on word problem solving non-significant, suggesting flexibility explains the gains](../claims/flexibility-explains-word-problem-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Training effects on flexibility and word problem solving are delayed, appearing at four-week follow-up but not directly after the training](../claims/delayed-training-effects-word-problems.md) [~M] — instruction changes it
+- [Training effects on flexibility and word problem solving do not differ between students with low and high language skills](../claims/training-effects-not-moderated-by-language-skills.md) [-M] — instruction changes it
+- [Training restructuring strategies fosters grade-2 students' flexibility in dealing with additive situations relative to a control group, with stronger growth at follow-up](../claims/restructuring-training-fosters-additive-flexibility.md) [+M] — instruction changes it
 
 ## Measures
 - **Flexibility in problem solving** (Star & Rittle-Johnson, 2008): Measures students' knowledge of multiple strategies and strategy efficiency in equation solving.

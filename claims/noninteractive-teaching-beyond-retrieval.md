@@ -47,3 +47,4 @@ The review's narrative synthesis of the included experimental studies, noting th
 - [High levels of induced social presence during non-interactive teaching can impair learning relative to restudy (a double-edged sword)](social-presence-double-edged-sword-noninteractive-teaching.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — a broader claim this one bears on
+- [Example elaboration training is studied for decreasing cognitive interference and overload (per Stark, Mandl, Gruber, & Renkl)](example-elaboration-training-decrease-interference-overload.md) — related

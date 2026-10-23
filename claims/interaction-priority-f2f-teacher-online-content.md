@@ -49,3 +49,4 @@ Survey of 236 students across four universities using the Interaction Equivalenc
 - Students' general expectations of interaction for learning quality show no single priority order common to all — related
 - [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](theorem-theses-confirmed-by-survey.md) — a broader claim this one bears on
 - [Face-to-face components are used mainly for orientation while monitoring of learning progress is carried out online](f2f-orientation-online-monitoring-division.md) — related
+- [University philosophy teachers prioritize fostering students' intellectual growth over transmitting content](philosophy-teachers-prioritize-intellectual-growth-over-content.md) — related

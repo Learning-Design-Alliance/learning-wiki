@@ -52,3 +52,4 @@ Experiment 1 accuracy and response-time analysis. Correct congruent responses av
 - [Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated](dot-task-accuracy-gradient-congruent-incongruent-mixed.md) — a broader claim this one bears on
 - [The correlation between dot comparison performance and children's mathematics achievement is driven by incongruent, not congruent, trials](dot-comparison-math-link-driven-by-incongruent-trials.md) — related
 - [Smaller response-time differences between incongruent and congruent trials (better inhibition) correlate with higher mathematics scores](rt-congruency-difference-correlates-with-math.md) — related
+- [Verbal working memory positively and inhibitory control negatively relate to accuracy in the contrasting multiple-choice task](working-memory-and-inhibitory-control-contrasting-task.md) — related

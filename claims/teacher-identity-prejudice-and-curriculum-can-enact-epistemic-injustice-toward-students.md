@@ -71,3 +71,4 @@ Theoretical argument the article attributes to Kotzee (2017): the curriculum "ha
 - [Eradicating hermeneutical injustice requires sufficient social equality in general, not only slight interpersonal hermeneutical empowerments](eradicating-hermeneutical-injustice-requires-social-equality.md) — related
 - [The article argues education for global citizenship has the potential to improve quality of life and lessen inter- and intra-group violence toward a culture of peace](gced-potential-culture-of-peace.md) — related
 - [Data construction can embed social values and patterns of privilege into data itself, perpetuating testimonial injustice](data-construction-embeds-privilege-in-data.md) — related
+- [Teachers see diversification as deliberate design of experiences for engaging with difference, not curriculum expansion](diversification-as-pedagogical-design-not-content-inclusion.md) — related

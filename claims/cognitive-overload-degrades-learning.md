@@ -135,3 +135,5 @@ The founding cognitive load paper. It argues that conventional problem solving b
 - [Redundant and decorative elements, including emotional design embellishments, can enhance learning despite constituting potential extraneous load](emotional-design-redundancy-enhance-learning.md) — related
 - [Whether working memory has a single capacity limit or multiple capacity limits from functional specialization is highly relevant for the design of multimedia materials](single-versus-multiple-capacity-limits-multimedia-design.md) — related
 - [High task variability can overload working memory and reduce learning efficiency in some cases](task-variability-overload-tradeoff.md) — a narrower finding that bears on this claim
+- [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](clt-circumvent-working-memory-limits.md) — related
+- [CLT-based instructional design is applied to very high element interactivity material (per Pollock, Chandler, & Sweller)](clt-design-very-high-element-interactivity.md) — related

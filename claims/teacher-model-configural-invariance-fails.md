@@ -69,3 +69,4 @@ Measurement invariance testing of the teacher measurement model across the seven
 - [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related
 - A higher-order general instructional quality factor fits the student data in all seven countries but does not hold for teacher data — related
 - [Measurement invariance of secondary students' perceptions of instructional quality is examined and supported](student-perceptions-instructional-quality-measurement-invariance.md) — related
+- [The CVT-based model is invariant across gender and area of study but only configurally invariant across countries](cvt-model-invariance-gender-area-country.md) — related

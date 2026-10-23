@@ -48,3 +48,4 @@ Theoretical argument in Siegel's plenary paper on science education. He holds th
 - [A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself](considering-the-opposite-reduces-bias.md) — related
 - [Language must also be subjective, emotional, inspirational, and aesthetic, so teachers should employ both the method of fact and the method of imagination](language-subjective-emotional-aesthetic.md) — related
 - [Critical disposition is least spontaneous when confronting one's most basic prejudices or deeply held convictions](critical-temper-weakest-on-basic-prejudices.md) — related
+- [Philosophy teachers are divided on transformative education, with some associating it with indoctrination](teacher-ambivalence-toward-transformative-education.md) — related

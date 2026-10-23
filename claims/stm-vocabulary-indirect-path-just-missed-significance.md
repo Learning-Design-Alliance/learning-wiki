@@ -47,3 +47,4 @@ Bootstrap mediation test in the SEM study of 442 children: "The indirect associa
 - [Vocabulary is positively associated with listening comprehension in upper elementary children (9-12 years)](vocabulary-positively-associated-listening-comprehension-upper-elementary.md) — related
 - [Vocabulary mediates the association between academic self-efficacy and listening comprehension](vocabulary-mediates-self-efficacy-listening-comprehension.md) — related
 - [Self-reported concentration was examined as a contributor to listening comprehension but did not emerge in the best-fitting model](concentration-not-in-best-fitting-listening-model.md) — related
+- [In a double mediation path model, RCR is associated with listening comprehension, which is associated with vocabulary, with the direct vocabulary-to-RCR effect fully mediated](path-model-lc-vocabulary-rcr.md) — related

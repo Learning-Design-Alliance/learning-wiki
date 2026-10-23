@@ -53,3 +53,4 @@ Two-stage MASEM (TSSEM) of the latent reading model (k = 458 independent samples
 - [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) — related
 - [Age moderates the vocabulary-to-reading paths (effects increase with age) but not the fluency model or any SES paths](age-moderates-vocabulary-reading-paths-not-ses-paths.md) — related
 - [Composite SES indices predict phonological awareness more strongly than single SES indicators](composite-ses-index-stronger-predictor-phonological-awareness.md) — related
+- [SES is indirectly associated with listening comprehension through vocabulary, and has a significant total indirect effect on RCR](ses-indirect-vocabulary-lc-rcr.md) — related

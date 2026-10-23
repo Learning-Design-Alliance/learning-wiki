@@ -49,3 +49,4 @@ Pearson correlation between mothers' and children's variables (Table 3) in the s
 - [Higher levels of student involvement in self-monitoring lead to stronger intervention effects (preliminary evidence)](student-involvement-stronger-effects.md) — related
 - [Maternal help in Grade 2 negatively predicts children's task persistence in Grade 3, with no prediction from Grade 3 to Grade 4](maternal-help-predicts-lower-task-persistence.md) — related
 - [Maternal monitoring does not predict children's task persistence at any measurement point](monitoring-no-effect-task-persistence.md) — related
+- [Both mothers' and fathers' tested math skills significantly predict children's arithmetic fluency in Grade 1, and fathers' skills remain a significant predictor of Grade 2 arithmetic fluency](parental-math-skills-predict-child-arithmetic-fluency.md) — related

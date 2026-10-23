@@ -65,6 +65,7 @@ Inclusive cultural response draws on culturally relevant pedagogy, which holds t
 - [Embed integration elements in the robot's persona and background so multicultural inclusion is addressed within regular activities](embed-integration-elements-robot-persona.md)
 - [Schools lacking ethnic diversity with small Latino representation should implement programs recognizing and empowering Latino culture and identity](latino-culture-identity-programs-low-diversity-schools.md)
 - [Integrate race throughout educational psychology courses rather than treating diversity as an afterthought](integrate-race-throughout-edpsych-courses.md)
+- [Treat curriculum diversification as reflective pedagogical practice rather than content inclusion](diversification-as-reflective-pedagogical-practice.md)
 
 ## Examples
 - **Rudine Sims Bishop's "mirrors, windows, and sliding glass doors" framework** — widely used in K–12 literacy curriculum revision to justify selecting texts that both reflect learners' identities and expose them to others' (https://readingwhilebrown.blogspot.com — see Bishop, 1990, *Perspectives*)

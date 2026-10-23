@@ -68,3 +68,4 @@ The review's statement of cognitive load theory's core architectural assumption,
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
 - [Adults with DD show a smaller subitizing range and impaired enumeration of random sets across visual and tactile modalities](dd-adults-subitizing-enumeration-deficits.md) — related
 - [Whether working memory has a single capacity limit or multiple capacity limits from functional specialization is highly relevant for the design of multimedia materials](single-versus-multiple-capacity-limits-multimedia-design.md) — related
+- [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](clt-circumvent-working-memory-limits.md) — related

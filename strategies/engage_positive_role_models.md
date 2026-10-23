@@ -64,6 +64,7 @@ Role models work through [Social Learning Theory](../theories/social-learning-th
 - [Community-Based Learning](../principles/community-based-learning.md) — extends role-model contact into sustained engagement with community settings
 - [Building Empathy](../principles/building-empathy.md) — contact with diverse models supports perspective-taking alongside aspiration
 - [Surround students with college-educated mentors and college-going peers to build college aspirations](mentors-peers-college-aspirations.md)
+- [Policy measures providing equipment and e-learning training to economically disadvantaged students, and sustaining peer communication with increased teacher involvement](policy-support-disadvantaged-students-peer-communication.md)
 
 ## Examples
 - **[Cristo Rey Network](https://cristoreynetwork.org)** — corporate work-study program placing high school students in professional workplaces, pairing them with adult workplace mentors over four years.

@@ -49,6 +49,7 @@ The article recommends that CSCL discussion and chat facilities be more firmly a
 ## Related Strategies
 
 - [Design CSCL environments for group awareness and representational guidance to cut coordination load](cscl-group-awareness-representational-guidance.md)
+- [Use external representations to help manage cognitive load in Computer Supported Collaborative Learning environments](external-representations-manage-cl-cscl.md)
 
 ## Examples
 -

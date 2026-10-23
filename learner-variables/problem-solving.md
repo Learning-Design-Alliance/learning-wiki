@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 68 claims (49 show a difference, 9 mixed, 10 no difference) · 57 studies (29 causal, 9 review, 6 associational, 4 theoretical, 3 quant-synthesis, 3 qualitative, 3 design), `q1`–`q4` · 13 of 57 report an effect size · 66 claims rest on one study
+> **Evidence** · 71 claims (50 show a difference, 10 mixed, 11 no difference) · 58 studies (30 causal, 9 review, 6 associational, 4 theoretical, 3 quant-synthesis, 3 qualitative, 3 design), `q1`–`q4` · 14 of 58 report an effect size · 69 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -106,6 +106,9 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Inversion intervention did not significantly increase problems solved or attempted on a timed problem-solving measure](../claims/inversion-no-effect-problem-solving-measure.md) [-M] — instruction changes it
 - [Solving inversion problems increases adults' self-reported use of associativity shortcuts on three-term problems](../claims/inversion-increases-self-reported-associativity-use.md) [+M] — instruction changes it
 - [Solving only 'a + b – b' inversion problems replicates increased self-reported associativity shortcut use in a new sample](../claims/inversion-replication-self-reported-associativity.md) [+M] — instruction changes it
+- [Controlling statistically for flexibility renders the training effect on word problem solving non-significant, suggesting flexibility explains the gains](../claims/flexibility-explains-word-problem-gains.md) [-M] — instruction changes it
+- [Descriptively, the experimental group's strongest word problem solving gains from pretest to follow-up appeared for compare problems](../claims/strongest-descriptive-gains-compare-problems.md) [~M] — instruction changes it
+- [Training restructuring strategies improves grade-2 students' word problem solving skills at four-week follow-up relative to a control group](../claims/restructuring-training-improves-word-problem-solving.md) [+W] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

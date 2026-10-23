@@ -213,3 +213,4 @@ Open questions include how the effect interacts with learner control over pacing
 - [Transient information in animations poses a serious challenge to learning, except for animations of human movement procedures](animation-transience-challenges-learning.md) — related
 - [Element interactivity moderates the effectiveness of cognitive offloading, with greater benefit for high element interactivity materials](element-interactivity-moderates-offloading.md) — related
 - [The modality effect may disappear or reverse for lengthy, complex spoken text](modality-effect-reversal-complex-spoken-text.md) — related
+- [Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities](clt-circumvent-working-memory-limits.md) — a broader claim this one bears on

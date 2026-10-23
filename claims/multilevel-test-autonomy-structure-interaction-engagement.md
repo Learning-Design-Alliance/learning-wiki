@@ -46,3 +46,5 @@ The study's analytic design, as stated in the abstract: multilevel analyses test
 - [Classroom-level teacher structure is linked with students' behavioral, cognitive and emotional engagement in language classes](classroom-structure-linked-three-engagement-components.md) — related
 - [Teacher autonomy support is associated with students' emotional engagement, playing a complementary role to structure](autonomy-support-associated-emotional-engagement.md) — related
 - [Challenging study demands combined with resources boost emotional engagement, though interaction effects on cognitive and behavioral engagement were mainly nonsignificant](boost-hypothesis-study-demands-resources.md) — related
+- [Jointly considered, all three need-supportive practices are not each associated with classroom-level engagement (additive hypothesis not supported)](need-supportive-additive-hypothesis-fails.md) — related
+- [A global factor across autonomy support, structure, and involvement provides optimal support to classroom-level engagement (global hypothesis supported)](need-supportive-global-hypothesis-supported.md) — related

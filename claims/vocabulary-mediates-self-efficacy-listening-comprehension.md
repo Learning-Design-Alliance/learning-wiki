@@ -50,3 +50,4 @@ Mediation testing within the SEM analysis of 442 upper elementary children: "Usi
 - [English pronunciation self-efficacy partially mediates the association between GenAI-based pronunciation feedback perceptions and willingness to communicate, with the indirect effect accounting for 69.9% of the total effect](epse-partially-mediate-genai-feedback-wtc.md) — related
 - [Vocabulary is positively associated with listening comprehension in upper elementary children (9-12 years)](vocabulary-positively-associated-listening-comprehension-upper-elementary.md) — related
 - [Verbal short-term memory and academic self-efficacy are positively associated with children's vocabulary](verbal-stm-self-efficacy-positively-associated-vocabulary.md) — related
+- [In a double mediation path model, RCR is associated with listening comprehension, which is associated with vocabulary, with the direct vocabulary-to-RCR effect fully mediated](path-model-lc-vocabulary-rcr.md) — related

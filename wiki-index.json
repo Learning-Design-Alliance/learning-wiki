@@ -1,7 +1,7 @@
 {
 "counts":{
-"claim":25617,
-"design":994,
+"claim":25666,
+"design":995,
 "element":1057,
 "learner-variable":75,
 "method":37,
@@ -9,8 +9,8 @@
 "principle":170,
 "process":18,
 "product":1863,
-"research-method":627,
-"strategy":6626,
+"research-method":628,
+"strategy":6631,
 "theory":1360
 },
 "kinds":[
@@ -35571,6 +35571,15 @@
 "type":"claim"
 },
 {
+"description":"Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities",
+"evidence_strength":"weak",
+"id":"clt-circumvent-working-memory-limits",
+"path":"claims/clt-circumvent-working-memory-limits.md",
+"status":"review",
+"title":"Working-memory limitations can be circumvented by schema construction, automation, and multiple presentation modalities",
+"type":"claim"
+},
+{
 "description":"The ESL curriculum within Bangladesh's CLT framework overlooks explicit pronunciation instruction, ignoring speaking and listening skills",
 "evidence_strength":"weak",
 "id":"clt-curriculum-overlooks-explicit-pronunciation-bangladesh",
@@ -35586,6 +35595,15 @@
 "path":"claims/clt-design-effective-learning-retention-transfer.md",
 "status":"review",
 "title":"The CLT-based design produced higher effective learning scores at retention and transfer, while achievement effective learning scores were nearly equal between groups",
+"type":"claim"
+},
+{
+"description":"CLT-based instructional design is applied to very high element interactivity material (per Pollock, Chandler, & Sweller)",
+"evidence_strength":"weak",
+"id":"clt-design-very-high-element-interactivity",
+"path":"claims/clt-design-very-high-element-interactivity.md",
+"status":"review",
+"title":"CLT-based instructional design is applied to very high element interactivity material (per Pollock, Chandler, & Sweller)",
 "type":"claim"
 },
 {
@@ -43767,6 +43785,24 @@
 "type":"claim"
 },
 {
+"description":"Contrasting orthographically similar words makes incorrect recall answers more target-like (more specific representations)",
+"evidence_strength":"moderate",
+"id":"contrasting-increases-error-specificity-orthographic",
+"path":"claims/contrasting-increases-error-specificity-orthographic.md",
+"status":"review",
+"title":"Contrasting orthographically similar words makes incorrect recall answers more target-like (more specific representations)",
+"type":"claim"
+},
+{
+"description":"Contrasting orthographically similar L2 words during multiple-choice learning improves their subsequent recall in the productive direction",
+"evidence_strength":"moderate",
+"id":"contrasting-orthographically-similar-l2-words-improves-recall",
+"path":"claims/contrasting-orthographically-similar-l2-words-improves-recall.md",
+"status":"review",
+"title":"Contrasting orthographically similar L2 words during multiple-choice learning improves their subsequent recall in the productive direction",
+"type":"claim"
+},
+{
 "description":"Contrasting stored skeletons: Hamlet emphasizes epistemic hesitation and contamination, To Live emphasizes endurance and historical contingency",
 "evidence_strength":"weak",
 "id":"contrasting-skeletons-hamlet-to-live",
@@ -50312,6 +50348,15 @@
 "type":"claim"
 },
 {
+"description":"Curricula recognize development and malleability of spatial skills but not sociodemographic diversity",
+"evidence_strength":"moderate",
+"id":"curricula-recognize-malleability-not-sociodemographic-diversity",
+"path":"claims/curricula-recognize-malleability-not-sociodemographic-diversity.md",
+"status":"review",
+"title":"Curricula recognize development and malleability of spatial skills but not sociodemographic diversity",
+"type":"claim"
+},
+{
 "description":"Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance",
 "evidence_strength":"moderate",
 "id":"curricular-cot-improves-accuracy-larger-models",
@@ -50588,6 +50633,15 @@
 "path":"claims/cvt-invariant-across-demographic-groupings.md",
 "status":"review",
 "title":"CVT structural relations are largely stable across gender and prior-education groupings, supporting relative universalism under variable-centered tests",
+"type":"claim"
+},
+{
+"description":"The CVT-based model is invariant across gender and area of study but only configurally invariant across countries",
+"evidence_strength":"mixed",
+"id":"cvt-model-invariance-gender-area-country",
+"path":"claims/cvt-model-invariance-gender-area-country.md",
+"status":"review",
+"title":"The CVT-based model is invariant across gender and area of study but only configurally invariant across countries",
 "type":"claim"
 },
 {
@@ -53364,6 +53418,15 @@
 "path":"claims/delayed-test-year11-generation-effect-both-materials.md",
 "status":"review",
 "title":"For more knowledgeable learners on the delayed test, a generation effect was obtained for both low and high element interactivity materials",
+"type":"claim"
+},
+{
+"description":"Training effects on flexibility and word problem solving are delayed, appearing at four-week follow-up but not directly after the training",
+"evidence_strength":"moderate",
+"id":"delayed-training-effects-word-problems",
+"path":"claims/delayed-training-effects-word-problems.md",
+"status":"review",
+"title":"Training effects on flexibility and word problem solving are delayed, appearing at four-week follow-up but not directly after the training",
 "type":"claim"
 },
 {
@@ -58286,12 +58349,30 @@
 "type":"claim"
 },
 {
+"description":"Exposure to diverse philosophical perspectives is viewed by teachers as key to developing critical reflection",
+"evidence_strength":"weak",
+"id":"diverse-perspectives-key-to-critical-reflection",
+"path":"claims/diverse-perspectives-key-to-critical-reflection.md",
+"status":"review",
+"title":"Exposure to diverse philosophical perspectives is viewed by teachers as key to developing critical reflection",
+"type":"claim"
+},
+{
 "description":"Intergroup contact in diverse schools reduces prejudice and increases positive cross-racial relationships, alongside improved critical thinking and civic outcomes",
 "evidence_strength":"weak",
 "id":"diverse-schools-social-and-civic-benefits",
 "path":"claims/diverse-schools-social-and-civic-benefits.md",
 "status":"review",
 "title":"Intergroup contact in diverse schools reduces prejudice and increases positive cross-racial relationships, alongside improved critical thinking and civic outcomes",
+"type":"claim"
+},
+{
+"description":"Teachers see diversification as deliberate design of experiences for engaging with difference, not curriculum expansion",
+"evidence_strength":"weak",
+"id":"diversification-as-pedagogical-design-not-content-inclusion",
+"path":"claims/diversification-as-pedagogical-design-not-content-inclusion.md",
+"status":"review",
+"title":"Teachers see diversification as deliberate design of experiences for engaging with difference, not curriculum expansion",
 "type":"claim"
 },
 {
@@ -60971,6 +61052,15 @@
 "type":"claim"
 },
 {
+"description":"Adolescents with dyslexia show higher reading comprehension resiliency index scores than typical readers",
+"evidence_strength":"moderate",
+"id":"dyslexia-higher-rcr-index",
+"path":"claims/dyslexia-higher-rcr-index.md",
+"status":"review",
+"title":"Adolescents with dyslexia show higher reading comprehension resiliency index scores than typical readers",
+"type":"claim"
+},
+{
 "description":"Children with developmental dyslexia show a significant inhibition impairment at the error z-mean composite level, which remains after controlling for processing speed",
 "evidence_strength":"moderate",
 "id":"dyslexia-inhibition-error-composite-impairment",
@@ -61103,6 +61193,15 @@
 "path":"claims/dyslexlens-mean-answer-relevancy-075.md",
 "status":"review",
 "title":"DysLexLens achieves a mean Answer Relevancy of 0.75 across 30 responses to research questions and follow-ups on dyslexia-AI Reddit data",
+"type":"claim"
+},
+{
+"description":"E-learning self-efficacy relates to both positive and negative achievement emotions, while computer self-efficacy relates only to positive emotions",
+"evidence_strength":"moderate",
+"id":"e-learning-vs-computer-self-efficacy-emotions",
+"path":"claims/e-learning-vs-computer-self-efficacy-emotions.md",
+"status":"review",
+"title":"E-learning self-efficacy relates to both positive and negative achievement emotions, while computer self-efficacy relates only to positive emotions",
 "type":"claim"
 },
 {
@@ -68122,6 +68221,15 @@
 "type":"claim"
 },
 {
+"description":"Participants' engagement (think-aloud word counts) did not differ significantly between texts or assessment points",
+"evidence_strength":"moderate",
+"id":"engagement-word-counts-no-difference",
+"path":"claims/engagement-word-counts-no-difference.md",
+"status":"review",
+"title":"Participants' engagement (think-aloud word counts) did not differ significantly between texts or assessment points",
+"type":"claim"
+},
+{
 "description":"Engaging whole-class teaching used simple communication, concrete and visual aids, and simple interactive activities",
 "evidence_strength":"moderate",
 "id":"engaging-teaching-simple-concrete-interactive",
@@ -68723,6 +68831,15 @@
 "path":"claims/environment-three-lower-incorporation.md",
 "status":"review",
 "title":"The third ERD environment showed fewer later saved ERDs, more episodes without target-level revision, and lower early-stage incorporation than the other two environments",
+"type":"claim"
+},
+{
+"description":"Class and teacher organization and peer support positively predict self-efficacy, while workload negatively predicts e-learning self-efficacy but positively predicts computer self-efficacy",
+"evidence_strength":"moderate",
+"id":"environmental-antecedents-self-efficacy-e-learning",
+"path":"claims/environmental-antecedents-self-efficacy-e-learning.md",
+"status":"review",
+"title":"Class and teacher organization and peer support positively predict self-efficacy, while workload negatively predicts e-learning self-efficacy but positively predicts computer self-efficacy",
 "type":"claim"
 },
 {
@@ -71103,6 +71220,15 @@
 "type":"claim"
 },
 {
+"description":"HME-everyday activities at age 5 showed a protective effect, in contrast to other informal HME models, possibly because items were partially instructional for 5-year-olds",
+"evidence_strength":"weak",
+"id":"everyday-activities-age5-protective",
+"path":"claims/everyday-activities-age5-protective.md",
+"status":"review",
+"title":"HME-everyday activities at age 5 showed a protective effect, in contrast to other informal HME models, possibly because items were partially instructional for 5-year-olds",
+"type":"claim"
+},
+{
 "description":"Everyday language routinely and productively crosses ontological categories",
 "evidence_strength":"moderate",
 "id":"everyday-language-crosses-ontological-categories",
@@ -71487,6 +71613,15 @@
 "path":"claims/example-correctness-correlations-posttest.md",
 "status":"review",
 "title":"Correctness of generated and classified examples during learning correlates selectively with posttest task performance",
+"type":"claim"
+},
+{
+"description":"Example elaboration training is studied for decreasing cognitive interference and overload (per Stark, Mandl, Gruber, & Renkl)",
+"evidence_strength":"weak",
+"id":"example-elaboration-training-decrease-interference-overload",
+"path":"claims/example-elaboration-training-decrease-interference-overload.md",
+"status":"review",
+"title":"Example elaboration training is studied for decreasing cognitive interference and overload (per Stark, Mandl, Gruber, & Renkl)",
 "type":"claim"
 },
 {
@@ -80043,6 +80178,15 @@
 "type":"claim"
 },
 {
+"description":"Controlling statistically for flexibility renders the training effect on word problem solving non-significant, suggesting flexibility explains the gains",
+"evidence_strength":"weak",
+"id":"flexibility-explains-word-problem-gains",
+"path":"claims/flexibility-explains-word-problem-gains.md",
+"status":"review",
+"title":"Controlling statistically for flexibility renders the training effect on word problem solving non-significant, suggesting flexibility explains the gains",
+"type":"claim"
+},
+{
 "description":"Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence",
 "evidence_strength":"weak",
 "id":"flexibility-supports-agency-productive-sequence",
@@ -80292,6 +80436,15 @@
 "path":"claims/fluency-formula-positive-nonsignificant-fluency-effect.md",
 "status":"review",
 "title":"Fluency Formula™ shows a positive but statistically non-significant effect on second-grade oral reading fluency (effect size 0.26, improvement index +10)",
+"type":"claim"
+},
+{
+"description":"Reading comprehension is only marginally explained by reading fluency, with no group-by-fluency interaction",
+"evidence_strength":"moderate",
+"id":"fluency-marginally-explains-comprehension",
+"path":"claims/fluency-marginally-explains-comprehension.md",
+"status":"review",
+"title":"Reading comprehension is only marginally explained by reading fluency, with no group-by-fluency interaction",
 "type":"claim"
 },
 {
@@ -81013,6 +81166,24 @@
 "path":"claims/formal-early-childhood-experience-reduces-risk.md",
 "status":"review",
 "title":"Formal early childhood experience reduces the likelihood of being identified as significantly below benchmark, most pronounced among English learner students and Black English learner students",
+"type":"claim"
+},
+{
+"description":"Formal home math environment moderates the effect of parental math skills on children's arithmetic skills, showing a protective (gap-closing) effect for higher-risk children",
+"evidence_strength":"moderate",
+"id":"formal-hme-protective-effect",
+"path":"claims/formal-hme-protective-effect.md",
+"status":"review",
+"title":"Formal home math environment moderates the effect of parental math skills on children's arithmetic skills, showing a protective (gap-closing) effect for higher-risk children",
+"type":"claim"
+},
+{
+"description":"Among lower-risk children, higher formal HME was associated with worse arithmetic performance, a reversed association already present at ages 2 and 5",
+"evidence_strength":"moderate",
+"id":"formal-hme-reversed-lower-risk",
+"path":"claims/formal-hme-reversed-lower-risk.md",
+"status":"review",
+"title":"Among lower-risk children, higher formal HME was associated with worse arithmetic performance, a reversed association already present at ages 2 and 5",
 "type":"claim"
 },
 {
@@ -97262,6 +97433,15 @@
 "path":"claims/hmd-virtual-field-trip-higher-presence-than-2d-video.md",
 "status":"review",
 "title":"Middle-school students taking a virtual field trip via a 3D HMD report higher presence than students taking the same trip as a 2D video",
+"type":"claim"
+},
+{
+"description":"None of the HME measures served as a significant promotive factor; the only significant correlation between children's skills and HME factors was negative (Grade 1 HME-formal)",
+"evidence_strength":"moderate",
+"id":"hme-no-promotive-effect",
+"path":"claims/hme-no-promotive-effect.md",
+"status":"review",
+"title":"None of the HME measures served as a significant promotive factor; the only significant correlation between children's skills and HME factors was negative (Grade 1 HME-formal)",
 "type":"claim"
 },
 {
@@ -133541,6 +133721,15 @@
 "type":"claim"
 },
 {
+"description":"Students made more evaluative comments after the dialogic argumentation intervention, but their evaluations still favored their own position",
+"evidence_strength":"moderate",
+"id":"more-evaluative-comments-post-intervention-still-biased",
+"path":"claims/more-evaluative-comments-post-intervention-still-biased.md",
+"status":"review",
+"title":"Students made more evaluative comments after the dialogic argumentation intervention, but their evaluations still favored their own position",
+"type":"claim"
+},
+{
 "description":"The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders",
 "evidence_strength":"weak",
 "id":"more-evidence-needed-ffl-validity",
@@ -133601,6 +133790,15 @@
 "path":"claims/more-modalities-not-always-better-mental-state-detection.md",
 "status":"review",
 "title":"Combining more modalities does not always improve detection of learner mental states",
+"type":"claim"
+},
+{
+"description":"Elementary students expressed significantly more opinion statements supporting the other-side when reading the other-side historical account than when reading their own-side account",
+"evidence_strength":"moderate",
+"id":"more-other-side-support-reading-other-side-text",
+"path":"claims/more-other-side-support-reading-other-side-text.md",
+"status":"review",
+"title":"Elementary students expressed significantly more opinion statements supporting the other-side when reading the other-side historical account than when reading their own-side account",
 "type":"claim"
 },
 {
@@ -133879,6 +134077,15 @@
 "path":"claims/most-countries-follow-mixed-accountability-logics.md",
 "status":"review",
 "title":"A few countries follow relatively pure accountability logics, but most countries follow mixed forms",
+"type":"claim"
+},
+{
+"description":"Most early childhood curricula include concrete pedagogical activities fostering spatial skills",
+"evidence_strength":"moderate",
+"id":"most-curricula-include-concrete-spatial-activities",
+"path":"claims/most-curricula-include-concrete-spatial-activities.md",
+"status":"review",
+"title":"Most early childhood curricula include concrete pedagogical activities fostering spatial skills",
 "type":"claim"
 },
 {
@@ -137591,6 +137798,42 @@
 "type":"claim"
 },
 {
+"description":"Jointly considered, all three need-supportive practices are not each associated with classroom-level engagement (additive hypothesis not supported)",
+"evidence_strength":"moderate",
+"id":"need-supportive-additive-hypothesis-fails",
+"path":"claims/need-supportive-additive-hypothesis-fails.md",
+"status":"review",
+"title":"Jointly considered, all three need-supportive practices are not each associated with classroom-level engagement (additive hypothesis not supported)",
+"type":"claim"
+},
+{
+"description":"A global factor across autonomy support, structure, and involvement provides optimal support to classroom-level engagement (global hypothesis supported)",
+"evidence_strength":"moderate",
+"id":"need-supportive-global-hypothesis-supported",
+"path":"claims/need-supportive-global-hypothesis-supported.md",
+"status":"review",
+"title":"A global factor across autonomy support, structure, and involvement provides optimal support to classroom-level engagement (global hypothesis supported)",
+"type":"claim"
+},
+{
+"description":"Specific imbalance factors in autonomy support, structure, and involvement contribute to some aspects of classroom-level engagement",
+"evidence_strength":"moderate",
+"id":"need-supportive-specific-imbalance-factors-contribute",
+"path":"claims/need-supportive-specific-imbalance-factors-contribute.md",
+"status":"review",
+"title":"Specific imbalance factors in autonomy support, structure, and involvement contribute to some aspects of classroom-level engagement",
+"type":"claim"
+},
+{
+"description":"Greatest engagement benefits do not emerge in classrooms high on two or three need-supportive practices (synergistic hypothesis not supported)",
+"evidence_strength":"moderate",
+"id":"need-supportive-synergistic-hypothesis-fails",
+"path":"claims/need-supportive-synergistic-hypothesis-fails.md",
+"status":"review",
+"title":"Greatest engagement benefits do not emerge in classrooms high on two or three need-supportive practices (synergistic hypothesis not supported)",
+"type":"claim"
+},
+{
 "description":"A key divergence: SDT theorizes need thwarting as an active, independent dimension predicting unique negative outcomes, while HET focuses on positive teaching dimensions",
 "evidence_strength":"moderate",
 "id":"need-thwarting-divergence-het-sdt",
@@ -137759,6 +138002,15 @@
 "path":"claims/negative-emotions-dual-impact-faculty-see-benefits.md",
 "status":"review",
 "title":"Negative emotions are perceived to have either positive or negative impacts on learning, with faculty more likely than students to recognize their functional benefits",
+"type":"claim"
+},
+{
+"description":"During the first pandemic wave, negative achievement emotions were more frequent than positive ones, moderated by gender and area of study",
+"evidence_strength":"moderate",
+"id":"negative-emotions-exceed-positive-gender-area-interactions",
+"path":"claims/negative-emotions-exceed-positive-gender-area-interactions.md",
+"status":"review",
+"title":"During the first pandemic wave, negative achievement emotions were more frequent than positive ones, moderated by gender and area of study",
 "type":"claim"
 },
 {
@@ -140283,6 +140535,15 @@
 "path":"claims/no-consistent-subgroup-benefit-reading-interventions.md",
 "status":"review",
 "title":"The interventions did not consistently benefit any baseline subgroup more than another",
+"type":"claim"
+},
+{
+"description":"Contrasting shows no benefit on translation-recognition posttests in the productive direction",
+"evidence_strength":"moderate",
+"id":"no-contrasting-benefit-recognition-posttest",
+"path":"claims/no-contrasting-benefit-recognition-posttest.md",
+"status":"review",
+"title":"Contrasting shows no benefit on translation-recognition posttests in the productive direction",
 "type":"claim"
 },
 {
@@ -149569,6 +149830,15 @@
 "type":"claim"
 },
 {
+"description":"Reading the own-side account elicited more valid elaborative inferences, relevant associations, consequences-for-present statements and evaluative comments, while the other-side account elicited more invalid inferences",
+"evidence_strength":"moderate",
+"id":"own-side-text-deeper-processing-other-side-invalid-inferences",
+"path":"claims/own-side-text-deeper-processing-other-side-invalid-inferences.md",
+"status":"review",
+"title":"Reading the own-side account elicited more valid elaborative inferences, relevant associations, consequences-for-present statements and evaluative comments, while the other-side account elicited more invalid inferences",
+"type":"claim"
+},
+{
 "description":"Only about a third of design students report reduced creativity or project ownership from GenAI use",
 "evidence_strength":"moderate",
 "id":"ownership-creativity-largely-unaffected-genai",
@@ -151156,6 +151426,15 @@
 "type":"claim"
 },
 {
+"description":"Both mothers' and fathers' tested math skills significantly predict children's arithmetic fluency in Grade 1, and fathers' skills remain a significant predictor of Grade 2 arithmetic fluency",
+"evidence_strength":"moderate",
+"id":"parental-math-skills-predict-child-arithmetic-fluency",
+"path":"claims/parental-math-skills-predict-child-arithmetic-fluency.md",
+"status":"review",
+"title":"Both mothers' and fathers' tested math skills significantly predict children's arithmetic fluency in Grade 1, and fathers' skills remain a significant predictor of Grade 2 arithmetic fluency",
+"type":"claim"
+},
+{
 "description":"Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high",
 "evidence_strength":"moderate",
 "id":"parental-presence-support-buffers-stress",
@@ -151927,6 +152206,15 @@
 "path":"claims/path-analysis-indirect-sleep-flexibility-via-ic-wm.md",
 "status":"review",
 "title":"Path analysis shows sleep disturbance relates to cognitive flexibility indirectly via inhibitory control and working memory, with a non-significant direct path",
+"type":"claim"
+},
+{
+"description":"In a double mediation path model, RCR is associated with listening comprehension, which is associated with vocabulary, with the direct vocabulary-to-RCR effect fully mediated",
+"evidence_strength":"moderate",
+"id":"path-model-lc-vocabulary-rcr",
+"path":"claims/path-model-lc-vocabulary-rcr.md",
+"status":"review",
+"title":"In a double mediation path model, RCR is associated with listening comprehension, which is associated with vocabulary, with the direct vocabulary-to-RCR effect fully mediated",
 "type":"claim"
 },
 {
@@ -156747,6 +157035,15 @@
 "path":"claims/philosophy-significantly-related-teaching-style.md",
 "status":"review",
 "title":"Adopted educational philosophy is significantly positively related to teaching style",
+"type":"claim"
+},
+{
+"description":"University philosophy teachers prioritize fostering students' intellectual growth over transmitting content",
+"evidence_strength":"weak",
+"id":"philosophy-teachers-prioritize-intellectual-growth-over-content",
+"path":"claims/philosophy-teachers-prioritize-intellectual-growth-over-content.md",
+"status":"review",
+"title":"University philosophy teachers prioritize fostering students' intellectual growth over transmitting content",
 "type":"claim"
 },
 {
@@ -171054,6 +171351,15 @@
 "type":"claim"
 },
 {
+"description":"RCR is correlated with vocabulary and listening comprehension in the combined sample",
+"evidence_strength":"moderate",
+"id":"rcr-correlated-semantic-abilities",
+"path":"claims/rcr-correlated-semantic-abilities.md",
+"status":"review",
+"title":"RCR is correlated with vocabulary and listening comprehension in the combined sample",
+"type":"claim"
+},
+{
 "description":"A practical, experiential course emphasis is the best predictor of effective research integrity training across learning outcomes",
 "evidence_strength":"moderate",
 "id":"rcr-experiential-emphasis-best-predictor",
@@ -171069,6 +171375,15 @@
 "path":"claims/rcr-guideline-coverage-paradox.md",
 "status":"review",
 "title":"Not teaching ethical guidelines predicted better combined learning outcomes, while guideline coverage supported only knowledge",
+"type":"claim"
+},
+{
+"description":"The RCR index is distinct from reading comprehension level: good comprehenders do not necessarily show high RCR",
+"evidence_strength":"weak",
+"id":"rcr-index-distinct-from-comprehension",
+"path":"claims/rcr-index-distinct-from-comprehension.md",
+"status":"review",
+"title":"The RCR index is distinct from reading comprehension level: good comprehenders do not necessarily show high RCR",
 "type":"claim"
 },
 {
@@ -176649,6 +176964,24 @@
 "path":"claims/restrictive-policies-reduce-exposure-not-capacity.md",
 "status":"review",
 "title":"Restrictive digital-use policies may reduce short-term exposure while doing less to build long-term self-regulatory capacity",
+"type":"claim"
+},
+{
+"description":"Training restructuring strategies fosters grade-2 students' flexibility in dealing with additive situations relative to a control group, with stronger growth at follow-up",
+"evidence_strength":"moderate",
+"id":"restructuring-training-fosters-additive-flexibility",
+"path":"claims/restructuring-training-fosters-additive-flexibility.md",
+"status":"review",
+"title":"Training restructuring strategies fosters grade-2 students' flexibility in dealing with additive situations relative to a control group, with stronger growth at follow-up",
+"type":"claim"
+},
+{
+"description":"Training restructuring strategies improves grade-2 students' word problem solving skills at four-week follow-up relative to a control group",
+"evidence_strength":"moderate",
+"id":"restructuring-training-improves-word-problem-solving",
+"path":"claims/restructuring-training-improves-word-problem-solving.md",
+"status":"review",
+"title":"Training restructuring strategies improves grade-2 students' word problem solving skills at four-week follow-up relative to a control group",
 "type":"claim"
 },
 {
@@ -186458,6 +186791,15 @@
 "type":"claim"
 },
 {
+"description":"Self-efficacy mediates the relation between environmental antecedents and achievement emotions in e-learning, supporting the control-value theory mediation structure",
+"evidence_strength":"moderate",
+"id":"self-efficacy-mediation-environmental-antecedents-emotions-e-learning",
+"path":"claims/self-efficacy-mediation-environmental-antecedents-emotions-e-learning.md",
+"status":"review",
+"title":"Self-efficacy mediates the relation between environmental antecedents and achievement emotions in e-learning, supporting the control-value theory mediation structure",
+"type":"claim"
+},
+{
 "description":"Learners' perceived self-efficacy during learning moderated the effect of prompts on learning outcomes",
 "evidence_strength":"moderate",
 "id":"self-efficacy-moderates-prompt-effect-outcomes",
@@ -188575,6 +188917,15 @@
 "type":"claim"
 },
 {
+"description":"SES is indirectly associated with listening comprehension through vocabulary, and has a significant total indirect effect on RCR",
+"evidence_strength":"moderate",
+"id":"ses-indirect-vocabulary-lc-rcr",
+"path":"claims/ses-indirect-vocabulary-lc-rcr.md",
+"status":"review",
+"title":"SES is indirectly associated with listening comprehension through vocabulary, and has a significant total indirect effect on RCR",
+"type":"claim"
+},
+{
 "description":"SES and language spoken at home are strongly related to mathematics achievement especially at the classroom level, and teaching-quality estimates reduce these background estimates",
 "evidence_strength":"moderate",
 "id":"ses-language-achievement-gap-teaching-quality-reduction",
@@ -189608,6 +189959,15 @@
 "path":"claims/shift-from-validity-to-effectiveness.md",
 "status":"review",
 "title":"The article argues for shifting from the definition of validity to the concept of effectiveness for classroom assessment score use",
+"type":"claim"
+},
+{
+"description":"After the intervention, some students shifted from one-sided to two-sided reasoning: comments against their own side doubled and own-side support halved when reading the other-side text",
+"evidence_strength":"weak",
+"id":"shift-to-two-sided-reasoning-after-intervention",
+"path":"claims/shift-to-two-sided-reasoning-after-intervention.md",
+"status":"review",
+"title":"After the intervention, some students shifted from one-sided to two-sided reasoning: comments against their own side doubled and own-side support halved when reading the other-side text",
 "type":"claim"
 },
 {
@@ -195565,6 +195925,33 @@
 "type":"claim"
 },
 {
+"description":"Nearly all of fifty-two countries' early childhood curricula mention diverse spatial skills",
+"evidence_strength":"moderate",
+"id":"spatial-skills-nearly-all-52-country-curricula",
+"path":"claims/spatial-skills-nearly-all-52-country-curricula.md",
+"status":"review",
+"title":"Nearly all of fifty-two countries' early childhood curricula mention diverse spatial skills",
+"type":"claim"
+},
+{
+"description":"Spatial-skills representation in early childhood curricula is widespread in both Global North and Global South",
+"evidence_strength":"moderate",
+"id":"spatial-skills-representation-global-north-and-south",
+"path":"claims/spatial-skills-representation-global-north-and-south.md",
+"status":"review",
+"title":"Spatial-skills representation in early childhood curricula is widespread in both Global North and Global South",
+"type":"claim"
+},
+{
+"description":"Extent of spatial-skills representation does not vary by curricular age level",
+"evidence_strength":"moderate",
+"id":"spatial-skills-representation-no-age-level-variation",
+"path":"claims/spatial-skills-representation-no-age-level-variation.md",
+"status":"review",
+"title":"Extent of spatial-skills representation does not vary by curricular age level",
+"type":"claim"
+},
+{
 "description":"Spatial skills uniquely predict 27% of the variance in preschool mathematics over and above executive function",
 "evidence_strength":"moderate",
 "id":"spatial-skills-unique-27-percent-math-variance",
@@ -200590,6 +200977,15 @@
 "path":"claims/stronger-teacher-peer-relationships-remote-year.md",
 "status":"review",
 "title":"Students reported stronger relationships with teachers and peers during the remote/hybrid year, especially high school students, but these gains did not persist after returning in person",
+"type":"claim"
+},
+{
+"description":"Descriptively, the experimental group's strongest word problem solving gains from pretest to follow-up appeared for compare problems",
+"evidence_strength":"weak",
+"id":"strongest-descriptive-gains-compare-problems",
+"path":"claims/strongest-descriptive-gains-compare-problems.md",
+"status":"review",
+"title":"Descriptively, the experimental group's strongest word problem solving gains from pretest to follow-up appeared for compare problems",
 "type":"claim"
 },
 {
@@ -209287,6 +209683,15 @@
 "path":"claims/teacher-ai-design-objectives-three-clusters.md",
 "status":"review",
 "title":"Teacher-AI learning task design objectives cluster into cognitive gains and thinking skills, behavioral changes and design efficiency, and adaptivity, engagement, self-efficacy, and inclusivity",
+"type":"claim"
+},
+{
+"description":"Philosophy teachers are divided on transformative education, with some associating it with indoctrination",
+"evidence_strength":"weak",
+"id":"teacher-ambivalence-toward-transformative-education",
+"path":"claims/teacher-ambivalence-toward-transformative-education.md",
+"status":"review",
+"title":"Philosophy teachers are divided on transformative education, with some associating it with indoctrination",
 "type":"claim"
 },
 {
@@ -218808,6 +219213,15 @@
 "path":"claims/training-effects-largest-for-portrait-images.md",
 "status":"review",
 "title":"Training effects concentrated in portrait images (+39.8 percentage points, significant), with directional non-significant negative estimates for full-body and posed-group images",
+"type":"claim"
+},
+{
+"description":"Training effects on flexibility and word problem solving do not differ between students with low and high language skills",
+"evidence_strength":"moderate",
+"id":"training-effects-not-moderated-by-language-skills",
+"path":"claims/training-effects-not-moderated-by-language-skills.md",
+"status":"review",
+"title":"Training effects on flexibility and word problem solving do not differ between students with low and high language skills",
 "type":"claim"
 },
 {
@@ -230436,6 +230850,15 @@
 "type":"claim"
 },
 {
+"description":"Instructional techniques for studying worked examples can increase germane cognitive load (per van Merriënboer, Schuurman, De Croock, & Paas)",
+"evidence_strength":"weak",
+"id":"worked-examples-increase-germane-cl-special-issue",
+"path":"claims/worked-examples-increase-germane-cl-special-issue.md",
+"status":"review",
+"title":"Instructional techniques for studying worked examples can increase germane cognitive load (per van Merriënboer, Schuurman, De Croock, & Paas)",
+"type":"claim"
+},
+{
 "description":"Worked examples confer a larger advantage over unassisted discovery than direct teaching does",
 "evidence_strength":"moderate",
 "id":"worked-examples-largest-advantage-over-unassisted-discovery",
@@ -230479,6 +230902,15 @@
 "path":"claims/worked-examples-no-self-explanation-quality-advantage.md",
 "status":"review",
 "title":"Worked examples did not significantly increase self-explanation quality compared to problem-solving; both groups generated self-explanations of similar quality",
+"type":"claim"
+},
+{
+"description":"Worked examples are studied for their effects on cognitive load in older learners (per Van Gerven, Paas, & Schmidt)",
+"evidence_strength":"weak",
+"id":"worked-examples-older-learners-cl",
+"path":"claims/worked-examples-older-learners-cl.md",
+"status":"review",
+"title":"Worked examples are studied for their effects on cognitive load in older learners (per Van Gerven, Paas, & Schmidt)",
 "type":"claim"
 },
 {
@@ -230632,6 +231064,15 @@
 "path":"claims/working-memory-accounts-adhd-perspective-taking-relation.md",
 "status":"review",
 "title":"Working memory accounts for the relation between ADHD traits and communicative perspective-taking",
+"type":"claim"
+},
+{
+"description":"Verbal working memory positively and inhibitory control negatively relate to accuracy in the contrasting multiple-choice task",
+"evidence_strength":"moderate",
+"id":"working-memory-and-inhibitory-control-contrasting-task",
+"path":"claims/working-memory-and-inhibitory-control-contrasting-task.md",
+"status":"review",
+"title":"Verbal working memory positively and inhibitory control negatively relate to accuracy in the contrasting multiple-choice task",
 "type":"claim"
 },
 {
@@ -232534,6 +232975,14 @@
 "path":"designs/addie-orchestration-framework-llm-lesson-generation.md",
 "status":"review",
 "title":"ADDIE-based orchestration framework for curriculum-aligned LLM lesson generation with teacher validation gates",
+"type":"design"
+},
+{
+"description":"A training program comprising \\\"ten 40–50 min small-group sessions over five weeks\\\", delivered by pre-service teachers following a script and piloted with four students from another school.",
+"id":"additive-restructuring-training-program",
+"path":"designs/additive-restructuring-training-program.md",
+"status":"review",
+"title":"Ten-session small-group training on restructuring additive situations without word problem solving",
 "type":"design"
 },
 {
@@ -269046,6 +269495,14 @@
 "type":"research-method"
 },
 {
+"description":"The study coded curricular documents with a deductive six-phase latent thematic analysis in which \\\"Five themes with a total of sixteen indicators were identified based on previous literature.\\\" The framework organizes the curricular representation of spatial skills — abilities underpinning processing",
+"id":"five-theme-sixteen-indicator-framework-for-coding-spatial-skills-in-early-childhood-curric",
+"path":"research-methods/five-theme-sixteen-indicator-framework-for-coding-spatial-skills-in-early-childhood-curric.md",
+"status":"review",
+"title":"Five-theme, sixteen-indicator framework for coding spatial skills in early childhood curricula",
+"type":"research-method"
+},
+{
 "description":"The article organizes RCR training effects into five distinct learning outcome types: knowledge, attitude, sensitivity, judgment, and behavior.",
 "id":"five-type-taxonomy-of-research-integrity-learning-outcomes",
 "path":"research-methods/five-type-taxonomy-of-research-integrity-learning-outcomes.md",
@@ -280514,6 +280971,14 @@
 "type":"strategy"
 },
 {
+"description":"The article's stated implication is that \\\"The approach should be compared to other approaches to foster word problem solving.\\\" Because the feasibility study used only a neutral control group in which students particip...",
+"id":"compare-restructuring-training-to-other-approaches",
+"path":"strategies/compare-restructuring-training-to-other-approaches.md",
+"status":"review",
+"title":"Compare the restructuring-strategy approach against other word problem training approaches in future research",
+"type":"strategy"
+},
+{
 "description":"The report's evaluation strategy benchmarks a district's COVID-19 trends against its community rather than against other districts.",
 "id":"compare-school-incidence-to-community-trends",
 "path":"strategies/compare-school-incidence-to-community-trends.md",
@@ -285567,6 +286032,14 @@
 "type":"strategy"
 },
 {
+"description":"The article concludes that diversifying the philosophy curriculum is best pursued through reflective pedagogical practice rather than simply adding diverse content.",
+"id":"diversification-as-reflective-pedagogical-practice",
+"path":"strategies/diversification-as-reflective-pedagogical-practice.md",
+"status":"review",
+"title":"Treat curriculum diversification as reflective pedagogical practice rather than content inclusion",
+"type":"strategy"
+},
+{
 "description":"The brief recommends states diversify and retain the educator workforce to foster belonging and challenge students to thrive.",
 "id":"diversify-educator-workforce-grow-your-own",
 "path":"strategies/diversify-educator-workforce-grow-your-own.md",
@@ -289834,6 +290307,14 @@
 "path":"strategies/external-instruments-measure-learning-strategies.md",
 "status":"review",
 "title":"Use external instruments rather than teacher judgment to measure learning strategies for differentiation decisions",
+"type":"strategy"
+},
+{
+"description":"The editorial lists, as part of the special issue's coverage, \\\"the use of external representations to help manage CL in Computer Supported Collaborative Learning environments (Van Bruggen, Kirschner, & Jochems)\\\".",
+"id":"external-representations-manage-cl-cscl",
+"path":"strategies/external-representations-manage-cl-cscl.md",
+"status":"review",
+"title":"Use external representations to help manage cognitive load in Computer Supported Collaborative Learning environments",
 "type":"strategy"
 },
 {
@@ -303528,6 +304009,14 @@
 "type":"strategy"
 },
 {
+"description":"The intervention strategy sequences argumentation practice on topics with minimal personal and affective investment before addressing emotionally charged local controversies.",
+"id":"neutral-topic-first-then-sensitive-transfer",
+"path":"strategies/neutral-topic-first-then-sensitive-transfer.md",
+"status":"review",
+"title":"Run dialogic argumentation interventions on low-affect neutral topics first, then transfer to sensitive local issues",
+"type":"strategy"
+},
+{
 "description":"The survey reports Rice's (2018) five strategies for implementing connectivism in traditional K-12 classrooms, including \\\"never providing information that students can access themselves\\\".",
 "id":"never-provide-information-students-can-access",
 "path":"strategies/never-provide-information-students-can-access.md",
@@ -306885,6 +307374,14 @@
 "path":"strategies/policy-strategies-sustain-residency-pathways.md",
 "status":"review",
 "title":"Sustain and expand residency pathways through maintained state grant funding, financial aid, apprenticeship structures, and technical assistance",
+"type":"strategy"
+},
+{
+"description":"Based on the finding that peer support predicted both self-efficacy types while teacher support did not, the authors recommend that institutions \\\"need to find ways to maintain communication and collaboration between s...",
+"id":"policy-support-disadvantaged-students-peer-communication",
+"path":"strategies/policy-support-disadvantaged-students-peer-communication.md",
+"status":"review",
+"title":"Policy measures providing equipment and e-learning training to economically disadvantaged students, and sustaining peer communication with increased teacher involvement",
 "type":"strategy"
 },
 {
@@ -340695,8 +341192,10 @@
 "closures-severed-connections-grief-us-them-dynamics":"closures-severed-connections-grief-us-them-dynamics",
 "clt-aligned-e-learning-modules-improve-osce-performance":"clt-aligned-e-learning-modules-improve-osce-performance",
 "clt-china-1990s-initial-weak-adoption":"clt-china-1990s-initial-weak-adoption",
+"clt-circumvent-working-memory-limits":"clt-circumvent-working-memory-limits",
 "clt-curriculum-overlooks-explicit-pronunciation-bangladesh":"clt-curriculum-overlooks-explicit-pronunciation-bangladesh",
 "clt-design-effective-learning-retention-transfer":"clt-design-effective-learning-retention-transfer",
+"clt-design-very-high-element-interactivity":"clt-design-very-high-element-interactivity",
 "clt-four-ethical-tensions":"clt-four-ethical-tensions",
 "clt-framework-generalized-skills":"clt-framework-generalized-skills",
 "clt-generated-novel-instructional-procedures":"architecture-generated-novel-instructional-procedures",
@@ -341615,6 +342114,8 @@
 "contrast-strength-benefit-is-dataset-dependent":"contrast-strength-benefit-is-dataset-dependent",
 "contrasting-cases-gatekeeper-repositioning":"contrasting-cases-gatekeeper-repositioning",
 "contrasting-cases-reduce-solution-attempt-quantity":"contrasting-cases-reduce-solution-attempt-quantity",
+"contrasting-increases-error-specificity-orthographic":"contrasting-increases-error-specificity-orthographic",
+"contrasting-orthographically-similar-l2-words-improves-recall":"contrasting-orthographically-similar-l2-words-improves-recall",
 "contrasting-skeletons-hamlet-to-live":"contrasting-skeletons-hamlet-to-live",
 "contribution-frequency-mediates-script-learning":"contribution-frequency-mediates-script-learning",
 "control-anxiety-relation-fails-across-profiles":"control-anxiety-relation-fails-across-profiles",
@@ -342353,6 +342854,7 @@
 "curiosity-special-case-of-interest":"curiosity-special-case-of-interest",
 "curiosity-u-shaped-function-of-confidence":"curiosity-u-shaped-function-of-confidence",
 "current-chatgpt-use-associated-with-reconstructors":"current-chatgpt-use-associated-with-reconstructors",
+"curricula-recognize-malleability-not-sociodemographic-diversity":"curricula-recognize-malleability-not-sociodemographic-diversity",
 "curricular-cot-improves-accuracy-larger-models":"curricular-cot-improves-accuracy-larger-models",
 "curricular-knowledge-enables-responsive-instructional-moves":"curricular-knowledge-enables-responsive-instructional-moves",
 "curriculum-categories-reproduced-through-surveys-graphs":"curriculum-categories-reproduced-through-surveys-graphs",
@@ -342384,6 +342886,7 @@
 "cvs-predicts-proportion-valid-experiments":"cvs-predicts-proportion-valid-experiments",
 "cvs-use-age-not-gender":"cvs-use-age-not-gender",
 "cvt-invariant-across-demographic-groupings":"cvt-invariant-across-demographic-groupings",
+"cvt-model-invariance-gender-area-country":"cvt-model-invariance-gender-area-country",
 "cw-fit-increases-on-task-behavior-wills-2018":"cw-fit-increases-on-task-behavior-wills-2018",
 "cw-fit-increases-teacher-praise-not-reprimands":"cw-fit-increases-teacher-praise-not-reprimands",
 "cw-fit-positive-effects-student-behavior":"cw-fit-positive-effects-student-behavior",
@@ -342698,6 +343201,7 @@
 "delayed-test-guidance-element-interactivity-interaction":"delayed-test-guidance-element-interactivity-interaction",
 "delayed-test-three-way-interaction-element-interactivity-guidance-expertise":"delayed-test-three-way-interaction-element-interactivity-guidance-expertise",
 "delayed-test-year11-generation-effect-both-materials":"delayed-test-year11-generation-effect-both-materials",
+"delayed-training-effects-word-problems":"delayed-training-effects-word-problems",
 "delaying-instruction-alone-no-conceptual-gain":"delaying-instruction-alone-no-conceptual-gain",
 "delegating-evaluation-self-defeating":"delegating-evaluation-self-defeating",
 "deliberate-erring-improves-near-transfer-experimental-design":"deliberate-erring-improves-near-transfer-experimental-design",
@@ -343255,7 +343759,9 @@
 "diverse-contexts-speed-word-identification":"diverse-contexts-speed-word-identification",
 "diverse-explanations-no-perceived-information-overload":"diverse-explanations-no-perceived-information-overload",
 "diverse-llm-explanations-higher-oe-accuracy-not-significant":"diverse-llm-explanations-higher-oe-accuracy-not-significant",
+"diverse-perspectives-key-to-critical-reflection":"diverse-perspectives-key-to-critical-reflection",
 "diverse-schools-social-and-civic-benefits":"diverse-schools-social-and-civic-benefits",
+"diversification-as-pedagogical-design-not-content-inclusion":"diversification-as-pedagogical-design-not-content-inclusion",
 "diversity-benefits-require-equitable-class-representation":"diversity-benefits-require-equitable-class-representation",
 "diversity-boosts-creativity-communal-mindset":"diversity-boosts-creativity-communal-mindset",
 "diversity-coordination-failures-not-categorisation":"diversity-coordination-failures-not-categorisation",
@@ -343556,6 +344062,7 @@
 "dyslexia-audiovisual-integration-impairments":"dyslexia-audiovisual-integration-impairments",
 "dyslexia-benefit-more-than-typical-children":"dyslexia-benefit-more-than-typical-children",
 "dyslexia-graphic-complexity-handwriting-impact":"dyslexia-graphic-complexity-handwriting-impact",
+"dyslexia-higher-rcr-index":"dyslexia-higher-rcr-index",
 "dyslexia-inhibition-error-composite-impairment":"dyslexia-inhibition-error-composite-impairment",
 "dyslexia-knowledge-term-versus-explanation-items":"dyslexia-knowledge-term-versus-explanation-items",
 "dyslexia-no-global-handwriting-quality-deficit":"dyslexia-no-global-handwriting-quality-deficit",
@@ -343571,6 +344078,7 @@
 "dyslexia-updating-error-composite-impairment":"dyslexia-updating-error-composite-impairment",
 "dyslexia-without-dyscalculia-intact-magnitude-processing":"dyslexia-without-dyscalculia-intact-magnitude-processing",
 "dyslexlens-mean-answer-relevancy-075":"dyslexlens-mean-answer-relevancy-075",
+"e-learning-vs-computer-self-efficacy-emotions":"e-learning-vs-computer-self-efficacy-emotions",
 "e-teacher-shift-to-facilitator-role":"e-teachers-widen-object-toward-independent-learning",
 "e-teachers-widen-object-toward-independent-learning":"e-teachers-widen-object-toward-independent-learning",
 "e-textbook-choice-higher-cognitive-strategy-use":"e-textbook-choice-higher-cognitive-strategy-use",
@@ -344359,6 +344867,7 @@
 "engagement-variance-mostly-student-level":"engagement-variance-mostly-student-level",
 "engagement-varies-most-between-lessons-within-students":"engagement-varies-most-between-lessons-within-students",
 "engagement-without-talk-no-guarantee":"engagement-without-talk-no-guarantee",
+"engagement-word-counts-no-difference":"engagement-word-counts-no-difference",
 "engaging-teaching-simple-concrete-interactive":"engaging-teaching-simple-concrete-interactive",
 "engineered-ai-tutor-doubled-learning-vs-active-learning":"engineered-ai-tutor-doubled-learning-vs-active-learning",
 "engineering-gpa-tenth-point-raises-graduation-odds-13-7":"engineering-gpa-tenth-point-raises-graduation-odds-13-7",
@@ -344426,6 +344935,7 @@
 "entry-age-effects-no-gender-race-differences":"entry-age-effects-no-gender-race-differences",
 "entry-age-growth-rate-tradeoff":"entry-age-growth-rate-tradeoff",
 "environment-three-lower-incorporation":"environment-three-lower-incorporation",
+"environmental-antecedents-self-efficacy-e-learning":"environmental-antecedents-self-efficacy-e-learning",
 "environmental-constraints-attributed-disengagement":"environmental-constraints-attributed-disengagement",
 "environmental-context-variability-improves-recall":"environmental-context-variability-improves-recall",
 "environmental-unpredictability-externalizing-circuits":"environmental-unpredictability-externalizing-circuits",
@@ -344691,6 +345201,7 @@
 "ever-sped-faster-school-year-growth-later-grades":"ever-sped-faster-school-year-growth-later-grades",
 "ever-sped-greater-summer-learning-loss":"ever-sped-greater-summer-learning-loss",
 "ever-sped-lower-kindergarten-start-less-growth":"ever-sped-lower-kindergarten-start-less-growth",
+"everyday-activities-age5-protective":"everyday-activities-age5-protective",
 "everyday-language-crosses-ontological-categories":"everyday-language-crosses-ontological-categories",
 "everyday-language-formalized-classroom-protocol":"everyday-language-formalized-classroom-protocol",
 "everyday-llm-use-engagement-prevalence":"everyday-llm-use-engagement-prevalence",
@@ -344734,6 +345245,7 @@
 "exam-weeks-exercises-as-formative-practice":"exam-weeks-exercises-as-formative-practice",
 "example-based-course-increases-journaling-intrinsic-motivation":"example-based-course-increases-journaling-intrinsic-motivation",
 "example-correctness-correlations-posttest":"example-correctness-correlations-posttest",
+"example-elaboration-training-decrease-interference-overload":"example-elaboration-training-decrease-interference-overload",
 "example-generation-overconfidence-judgment-bias":"example-generation-overconfidence-judgment-bias",
 "example-problem-ordering-novices":"example-problem-ordering-novices",
 "example-problem-pairs-more-efficient-both-gifted-nongifted":"example-problem-pairs-more-efficient-both-gifted-nongifted",
@@ -345714,6 +346226,7 @@
 "flemish-faculty-adopt-e-learning-more-than-chinese":"flemish-faculty-adopt-e-learning-more-than-chinese",
 "flex-time-low-academic-use-rural-district":"flex-time-low-academic-use-rural-district",
 "flexibility-contribution-emerges-with-ef-differentiation":"flexibility-contribution-emerges-with-ef-differentiation",
+"flexibility-explains-word-problem-gains":"flexibility-explains-word-problem-gains",
 "flexibility-supports-agency-productive-sequence":"flexibility-supports-agency-productive-sequence",
 "flexible-and-scripted-first-grade-interventions-both-effective":"flexible-and-scripted-first-grade-interventions-both-effective",
 "flight-evidence-single-rct-compromised-randomization":"flight-evidence-single-rct-compromised-randomization",
@@ -345744,6 +346257,7 @@
 "fluency-formula-negative-nonsignificant-comprehension-effect":"fluency-formula-negative-nonsignificant-comprehension-effect",
 "fluency-formula-positive-nonsignificant-fluency-effect":"fluency-formula-positive-nonsignificant-fluency-effect",
 "fluency-judgments-mislead-learners":"fluent-illusions-mislead-self-assessment",
+"fluency-marginally-explains-comprehension":"fluency-marginally-explains-comprehension",
 "fluency-misleads-judgments-of-learning":"fluency-misleads-judgments-of-learning",
 "fluency-no-additional-value-beyond-linguistic-knowledge-writing":"fluency-no-additional-value-beyond-linguistic-knowledge-writing",
 "fluency-not-emotions-predict-math-performance":"fluency-not-emotions-predict-math-performance",
@@ -345826,6 +346340,8 @@
 "formal-discipline-plan-increases-teacher-control-and-competence":"formal-discipline-plan-increases-teacher-control-and-competence",
 "formal-early-childhood-experience-reduces-risk":"formal-early-childhood-experience-reduces-risk",
 "formal-ec-experience-reduces-literacy-risk":"formal-early-childhood-experience-reduces-risk",
+"formal-hme-protective-effect":"formal-hme-protective-effect",
+"formal-hme-reversed-lower-risk":"formal-hme-reversed-lower-risk",
 "formal-pd-high-participation-low-satisfaction":"formal-pd-high-participation-low-satisfaction",
 "formal-schooling-historically-recent":"formal-schooling-historically-recent",
 "formal-theory-advantages-over-common-sense":"formal-theory-advantages-over-common-sense",
@@ -347660,6 +348176,7 @@
 "hmd-virtual-field-trip-higher-enjoyment-than-2d-video":"hmd-virtual-field-trip-higher-enjoyment-than-2d-video",
 "hmd-virtual-field-trip-higher-interest-than-2d-video":"hmd-virtual-field-trip-higher-interest-than-2d-video",
 "hmd-virtual-field-trip-higher-presence-than-2d-video":"hmd-virtual-field-trip-higher-presence-than-2d-video",
+"hme-no-promotive-effect":"hme-no-promotive-effect",
 "hmeta-d-false-positive-rate-prior-dependent":"hmeta-d-false-positive-rate-prior-dependent",
 "hmh-usage-grade-pattern-teacher-created-strongest":"hmh-usage-grade-pattern-teacher-created-strongest",
 "hmm-identifies-a5-bottleneck":"hmm-identifies-a5-bottleneck",
@@ -351757,6 +352274,7 @@
 "moral-unease-authorship-guilt-understanding-gap":"moral-unease-authorship-guilt-understanding-gap",
 "more-challenges-lower-post-covid-satisfaction":"more-challenges-lower-post-covid-satisfaction",
 "more-effective-teachers-remain-in-profession-and-school":"more-effective-teachers-remain-in-profession-and-school",
+"more-evaluative-comments-post-intervention-still-biased":"more-evaluative-comments-post-intervention-still-biased",
 "more-evidence-needed-ffl-validity":"more-evidence-needed-ffl-validity",
 "more-healthy-habits-higher-self-regulation":"more-healthy-habits-higher-self-regulation",
 "more-human-paradox-ai-augments-pedagogical-work":"more-human-paradox-ai-augments-pedagogical-work",
@@ -351764,6 +352282,7 @@
 "more-maximal-script-choices-correlated-lower-socio-discursive-mas":"more-maximal-script-choices-correlated-lower-socio-discursive-mas",
 "more-misconceptions-underestimate-transfer":"more-misconceptions-underestimate-transfer",
 "more-modalities-not-always-better-mental-state-detection":"more-modalities-not-always-better-mental-state-detection",
+"more-other-side-support-reading-other-side-text":"more-other-side-support-reading-other-side-text",
 "more-past-records-improve-simulation-accuracy":"more-past-records-improve-simulation-accuracy",
 "more-regulation-higher-product-quality":"more-regulation-higher-product-quality",
 "more-representations-mathematical-ideas-higher-achievement":"more-representations-mathematical-ideas-higher-achievement",
@@ -351795,6 +352314,7 @@
 "most-cahiim-programs-have-ai-guidance-documents":"most-cahiim-programs-have-ai-guidance-documents",
 "most-comparisons-differ-on-multiple-features":"most-comparisons-differ-on-multiple-features",
 "most-countries-follow-mixed-accountability-logics":"most-countries-follow-mixed-accountability-logics",
+"most-curricula-include-concrete-spatial-activities":"most-curricula-include-concrete-spatial-activities",
 "most-early-maths-tools-child-direct-paper-based":"most-early-maths-tools-child-direct-paper-based",
 "most-frequent-correlates-of-motivation-regulation":"most-frequent-correlates-of-motivation-regulation",
 "most-gifted-underachievement-studies-lack-group-comparison-designs":"most-gifted-underachievement-studies-lack-group-comparison-designs",
@@ -352214,6 +352734,10 @@
 "need-satisfaction-predicts-willingness-beyond-capacity":"need-satisfaction-predicts-willingness-beyond-capacity",
 "need-satisfaction-strongly-associated-learning-engagement":"need-satisfaction-strongly-associated-learning-engagement",
 "need-support-no-lrst-effect":"need-support-no-lrst-effect",
+"need-supportive-additive-hypothesis-fails":"need-supportive-additive-hypothesis-fails",
+"need-supportive-global-hypothesis-supported":"need-supportive-global-hypothesis-supported",
+"need-supportive-specific-imbalance-factors-contribute":"need-supportive-specific-imbalance-factors-contribute",
+"need-supportive-synergistic-hypothesis-fails":"need-supportive-synergistic-hypothesis-fails",
 "need-thwarting-divergence-het-sdt":"need-thwarting-divergence-het-sdt",
 "need-to-belong-relevance-educational-psychology":"need-to-belong-relevance-educational-psychology",
 "needs-autonomy-support-not-predict-external-regulation":"needs-autonomy-support-not-predict-external-regulation",
@@ -352233,6 +352757,7 @@
 "negative-effort-monitoring-correlation-meta-analysis":"negative-effort-monitoring-correlation-meta-analysis",
 "negative-emotional-shift-cpe-to-cse":"negative-emotional-shift-cpe-to-cse",
 "negative-emotions-dual-impact-faculty-see-benefits":"negative-emotions-dual-impact-faculty-see-benefits",
+"negative-emotions-exceed-positive-gender-area-interactions":"negative-emotions-exceed-positive-gender-area-interactions",
 "negative-emotions-not-uniformly-detrimental":"negative-emotions-not-uniformly-detrimental",
 "negative-emotions-promote-implementation":"negative-emotions-promote-implementation",
 "negative-evaluation-vocabulary-anxiety-ranks":"negative-evaluation-vocabulary-anxiety-ranks",
@@ -352516,6 +353041,7 @@
 "no-consistent-linguistic-overestimation-ai-scoring":"no-consistent-linguistic-overestimation-ai-scoring",
 "no-consistent-school-shooter-profile":"no-consistent-school-shooter-profile",
 "no-consistent-subgroup-benefit-reading-interventions":"no-consistent-subgroup-benefit-reading-interventions",
+"no-contrasting-benefit-recognition-posttest":"no-contrasting-benefit-recognition-posttest",
 "no-corpus-satisfies-presentation-coaching-criteria":"no-corpus-satisfies-presentation-coaching-criteria",
 "no-correlation-eda-peaks-reactivity":"no-correlation-eda-peaks-reactivity",
 "no-correlation-neural-behavioural-audience-effect":"no-correlation-neural-behavioural-audience-effect",
@@ -353557,6 +354083,7 @@
 "overt-retrieval-drives-paired-metacognitive-benefit":"overt-retrieval-drives-paired-metacognitive-benefit",
 "overview-augmentation-qwk-tradeoff":"overview-augmentation-qwk-tradeoff",
 "owl-game-body-based-experience-needed-for-solids":"owl-game-body-based-experience-needed-for-solids",
+"own-side-text-deeper-processing-other-side-invalid-inferences":"own-side-text-deeper-processing-other-side-invalid-inferences",
 "ownership-creativity-largely-unaffected-genai":"ownership-creativity-largely-unaffected-genai",
 "ows-agile-rd-compressed-vaccine-timeline":"ows-agile-rd-compressed-vaccine-timeline",
 "oztoc-physical-blocks-plus-screen-representation-deeper-practices":"oztoc-physical-blocks-plus-screen-representation-deeper-practices",
@@ -353737,6 +354264,7 @@
 "parental-involvement-improves-achievement":"parent-involvement-improves-achievement",
 "parental-involvement-meta-analyses-effect-sizes":"parental-involvement-meta-analyses-effect-sizes",
 "parental-involvement-small-to-moderate-achievement-relationship":"parental-involvement-small-to-moderate-achievement-relationship",
+"parental-math-skills-predict-child-arithmetic-fluency":"parental-math-skills-predict-child-arithmetic-fluency",
 "parental-presence-support-buffers-stress":"parental-presence-support-buffers-stress",
 "parental-pressure-controlled-motivation-linked-change":"parental-pressure-controlled-motivation-linked-change",
 "parental-pressure-positive-outcomes-east-asian-children":"parental-pressure-positive-outcomes-east-asian-children",
@@ -353823,6 +354351,7 @@
 "paternal-mindset-no-significant-prediction":"paternal-mindset-no-significant-prediction",
 "paternal-mindset-predicts-girls-not-boys":"paternal-mindset-predicts-girls-not-boys",
 "path-analysis-indirect-sleep-flexibility-via-ic-wm":"path-analysis-indirect-sleep-flexibility-via-ic-wm",
+"path-model-lc-vocabulary-rcr":"path-model-lc-vocabulary-rcr",
 "paths-1-2-default-64-percent":"paths-1-2-default-64-percent",
 "paths-basic-to-complex-hierarchical-spiral-sequencing":"paths-basic-to-complex-hierarchical-spiral-sequencing",
 "paths-csrp-addon-ef-improvement":"paths-csrp-addon-ef-improvement",
@@ -354367,6 +354896,7 @@
 "philanthropic-studies-epportfolio-curricular-integration":"philanthropic-studies-epportfolio-curricular-integration",
 "philanthropies-support-science-through-capacity-and-training":"philanthropies-support-science-through-capacity-and-training",
 "philosophy-significantly-related-teaching-style":"philosophy-significantly-related-teaching-style",
+"philosophy-teachers-prioritize-intellectual-growth-over-content":"philosophy-teachers-prioritize-intellectual-growth-over-content",
 "phinetuned-benchmark-comparison-gpt":"phinetuned-benchmark-comparison-gpt",
 "phishing-difficulty-variance-confidence-invariance":"phishing-difficulty-variance-confidence-invariance",
 "phishing-metacognition-good-calibration-poor-resolution":"phishing-metacognition-good-calibration-poor-resolution",
@@ -355978,8 +356508,10 @@
 "raw-postsecondary-data-limited-new-information":"raw-postsecondary-data-limited-new-information",
 "rba-item-bank-covers-14-los":"rba-item-bank-covers-14-los",
 "rc-lc-not-unitary-similar-and-different-subskills":"rc-lc-not-unitary-similar-and-different-subskills",
+"rcr-correlated-semantic-abilities":"rcr-correlated-semantic-abilities",
 "rcr-experiential-emphasis-best-predictor":"rcr-experiential-emphasis-best-predictor",
 "rcr-guideline-coverage-paradox":"rcr-guideline-coverage-paradox",
+"rcr-index-distinct-from-comprehension":"rcr-index-distinct-from-comprehension",
 "rcr-knowledge-moderators-individual-guidelines":"rcr-knowledge-moderators-individual-guidelines",
 "rcr-learner-group-differences-judgment":"rcr-learner-group-differences-judgment",
 "rcr-measure-validation-evidence-heterogeneous-limited":"rcr-measure-validation-evidence-heterogeneous-limited",
@@ -356616,6 +357148,8 @@
 "restricted-model-null-spillover-significant-bflpe":"restricted-model-null-spillover-significant-bflpe",
 "restricted-samples-explain-divergent-grade-predictions":"restricted-samples-explain-divergent-grade-predictions",
 "restrictive-policies-reduce-exposure-not-capacity":"restrictive-policies-reduce-exposure-not-capacity",
+"restructuring-training-fosters-additive-flexibility":"restructuring-training-fosters-additive-flexibility",
+"restructuring-training-improves-word-problem-solving":"restructuring-training-improves-word-problem-solving",
 "restudy-advantage-not-explained-by-rating-exposure":"restudy-advantage-not-explained-by-rating-exposure",
 "restudy-alone-no-skill-improvement":"restudy-alone-no-skill-improvement",
 "restudy-beat-retrieval-with-memory-ratings-spaced-practice":"restudy-beat-retrieval-with-memory-ratings-spaced-practice",
@@ -357728,6 +358262,7 @@
 "self-efficacy-growth-generative-ai-semester":"self-efficacy-growth-generative-ai-semester",
 "self-efficacy-intercept-predicts-achievement-growth-mediation":"self-efficacy-intercept-predicts-achievement-growth-mediation",
 "self-efficacy-measures-reliable-domain-specific":"self-efficacy-measures-reliable-domain-specific",
+"self-efficacy-mediation-environmental-antecedents-emotions-e-learning":"self-efficacy-mediation-environmental-antecedents-emotions-e-learning",
 "self-efficacy-moderates-prompt-effect-outcomes":"self-efficacy-moderates-prompt-effect-outcomes",
 "self-efficacy-moderation-insignificant-ai-anxiety":"self-efficacy-moderation-insignificant-ai-anxiety",
 "self-efficacy-negative-ability-not-correlated-cheating":"self-efficacy-negative-ability-not-correlated-cheating",
@@ -357976,6 +358511,7 @@
 "ses-gaps-in-early-spatial-ef-math-skills":"ses-gaps-in-early-spatial-ef-math-skills",
 "ses-heterogeneity-welfare-losses-closures":"ses-heterogeneity-welfare-losses-closures",
 "ses-hippocampus-dlpfc-not-caudate-volumes":"ses-hippocampus-dlpfc-not-caudate-volumes",
+"ses-indirect-vocabulary-lc-rcr":"ses-indirect-vocabulary-lc-rcr",
 "ses-language-achievement-gap-teaching-quality-reduction":"ses-language-achievement-gap-teaching-quality-reduction",
 "ses-linked-methylation-amygdala-reactivity-depression":"ses-linked-methylation-amygdala-reactivity-depression",
 "ses-mean-effect-size-r22-umbrella-review":"ses-mean-effect-size-r22-umbrella-review",
@@ -358093,6 +358629,7 @@
 "shared-wm-speed-verbal-comprehension-rd-md":"shared-wm-speed-verbal-comprehension-rd-md",
 "sharing-experiences-modifies-attitudes":"sharing-experiences-modifies-attitudes",
 "shift-from-validity-to-effectiveness":"shift-from-validity-to-effectiveness",
+"shift-to-two-sided-reasoning-after-intervention":"shift-to-two-sided-reasoning-after-intervention",
 "shift-toward-intrapersonal-voices-successful-group":"shift-toward-intrapersonal-voices-successful-group",
 "shift-unimodal-to-integrated-srl-approaches":"shift-unimodal-to-integrated-srl-approaches",
 "shifting-ability-moderates-worked-example-benefit":"shifting-ability-moderates-worked-example-benefit",
@@ -358773,6 +359310,9 @@
 "spatial-positions-display-work-role-understanding":"spatial-positions-display-work-role-understanding",
 "spatial-skills-aspects-differ-in-math-predictivity":"spatial-skills-aspects-differ-in-math-predictivity",
 "spatial-skills-improve-through-block-building":"spatial-skills-improve-through-block-building",
+"spatial-skills-nearly-all-52-country-curricula":"spatial-skills-nearly-all-52-country-curricula",
+"spatial-skills-representation-global-north-and-south":"spatial-skills-representation-global-north-and-south",
+"spatial-skills-representation-no-age-level-variation":"spatial-skills-representation-no-age-level-variation",
 "spatial-skills-unique-27-percent-math-variance":"spatial-skills-unique-27-percent-math-variance",
 "spatial-temporal-contiguity-equivalent-magnitudes":"spatial-temporal-contiguity-equivalent-magnitudes",
 "spatial-training-improves-math-performance":"spatial-training-improves-math-performance",
@@ -359338,6 +359878,7 @@
 "stronger-iiss-supports-improvement-regardless-of-origin":"stronger-iiss-supports-improvement-regardless-of-origin",
 "stronger-language-preference-and-mixing-asymmetry":"stronger-language-preference-and-mixing-asymmetry",
 "stronger-teacher-peer-relationships-remote-year":"stronger-teacher-peer-relationships-remote-year",
+"strongest-descriptive-gains-compare-problems":"strongest-descriptive-gains-compare-problems",
 "strongest-motivation-predictors-of-self-efficacy":"strongest-motivation-predictors-of-self-efficacy",
 "stroop-advantage-rd-set-shifting-md-only":"stroop-advantage-rd-set-shifting-md-only",
 "stroop-condition-elicits-more-left-dlpfc-activation":"stroop-condition-elicits-more-left-dlpfc-activation",
@@ -360315,6 +360856,7 @@
 "teacher-ai-codesign-challenges-prompt-literacy-alignment-trust":"teacher-ai-codesign-challenges-prompt-literacy-alignment-trust",
 "teacher-ai-collaboration-positively-related-work-engagement":"teacher-ai-collaboration-positively-related-work-engagement",
 "teacher-ai-design-objectives-three-clusters":"teacher-ai-design-objectives-three-clusters",
+"teacher-ambivalence-toward-transformative-education":"teacher-ambivalence-toward-transformative-education",
 "teacher-and-contextual-variables-related-to-innovation-adoption":"teacher-and-contextual-variables-related-to-innovation-adoption",
 "teacher-anxiety-reduces-process-oriented-practices-via-perceived-mindset":"teacher-anxiety-reduces-process-oriented-practices-via-perceived-mindset",
 "teacher-appropriation-of-edp-reframes-restrictive-stem-narratives":"teacher-appropriation-of-edp-reframes-restrictive-stem-narratives",
@@ -361395,6 +361937,7 @@
 "training-dose-moderates-negative-behaviour":"training-dose-moderates-negative-behaviour",
 "training-effect-persists-after-task-performance-covariates":"training-effect-persists-after-task-performance-covariates",
 "training-effects-largest-for-portrait-images":"training-effects-largest-for-portrait-images",
+"training-effects-not-moderated-by-language-skills":"training-effects-not-moderated-by-language-skills",
 "training-effects-willingness-model-paths":"training-effects-willingness-model-paths",
 "training-enhanced-all-inference-types-not-only-collaborative":"training-enhanced-all-inference-types-not-only-collaborative",
 "training-gain-driven-by-real-image-accuracy-not-skepticism":"training-gain-driven-by-real-image-accuracy-not-skepticism",
@@ -362711,11 +363254,13 @@
 "worked-examples-improve-math-performance":"worked-examples-improve-math-performance",
 "worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game":"worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game",
 "worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game":"worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game",
+"worked-examples-increase-germane-cl-special-issue":"worked-examples-increase-germane-cl-special-issue",
 "worked-examples-largest-advantage-over-unassisted-discovery":"worked-examples-largest-advantage-over-unassisted-discovery",
 "worked-examples-less-effective-with-expertise":"worked-examples-less-effective-with-expertise",
 "worked-examples-no-grade5-modeling-competency-effect":"worked-examples-no-grade5-modeling-competency-effect",
 "worked-examples-no-improvement-knowledge-application":"worked-examples-no-improvement-knowledge-application",
 "worked-examples-no-self-explanation-quality-advantage":"worked-examples-no-self-explanation-quality-advantage",
+"worked-examples-older-learners-cl":"worked-examples-older-learners-cl",
 "worked-examples-reduce-novice-search":"worked-examples-reduce-novice-search",
 "worked-examples-superior-to-problem-solving-many-circumstances":"worked-examples-superior-to-problem-solving-many-circumstances",
 "worked-examples-with-practice-improve-transfer":"worked-examples-with-practice-improve-transfer",
@@ -362733,6 +363278,7 @@
 "working-conditions-shape-retention-and-recruitment":"working-conditions-shape-retention-and-recruitment",
 "working-hours-children-no-incremental-variance":"working-hours-children-no-incremental-variance",
 "working-memory-accounts-adhd-perspective-taking-relation":"working-memory-accounts-adhd-perspective-taking-relation",
+"working-memory-and-inhibitory-control-contrasting-task":"working-memory-and-inhibitory-control-contrasting-task",
 "working-memory-decline-predicts-everyday-memory-problems":"working-memory-decline-predicts-everyday-memory-problems",
 "working-memory-demand-increases-with-math-problem-complexity":"working-memory-demand-increases-with-math-problem-complexity",
 "working-memory-explains-coding-variance":"working-memory-explains-coding-variance",
@@ -362952,6 +363498,7 @@
 "adapt-lesson-plan-representation-schema":"adapt-lesson-plan-representation-schema",
 "addie-cinco-fases-evaluacion-formativa-virtual":"addie-cinco-fases-evaluacion-formativa-virtual",
 "addie-orchestration-framework-llm-lesson-generation":"addie-orchestration-framework-llm-lesson-generation",
+"additive-restructuring-training-program":"additive-restructuring-training-program",
 "adi-instructional-model-eight-steps":"adi-instructional-model-eight-steps",
 "adlab-structural-features-community-formation":"adlab-structural-features-community-formation",
 "admission-as-rite-of-passage-pattern":"admission-as-rite-of-passage-pattern",
@@ -367781,6 +368328,7 @@
 "five-part-scope-framework-for-post-exercise-automated-team-assessment-in-ttxs":"five-part-scope-framework-for-post-exercise-automated-team-assessment-in-ttxs",
 "five-pattern-taxonomy-of-ai-use-learning-behavior":"five-pattern-taxonomy-of-ai-use-learning-behavior",
 "five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items":"five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items",
+"five-theme-sixteen-indicator-framework-for-coding-spatial-skills-in-early-childhood-curric":"five-theme-sixteen-indicator-framework-for-coding-spatial-skills-in-early-childhood-curric",
 "five-trustworthiness-metrics-comprising-20-measures-for-evaluating-llm-trustworthiness-in":"trustworthiness-lens-for-evaluating-llms-in-education",
 "five-type-taxonomy-of-research-integrity-learning-outcomes":"five-type-taxonomy-of-research-integrity-learning-outcomes",
 "formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq":"formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq",
@@ -369265,6 +369813,7 @@
 "compare-mutual-model-accuracies-across-team-members":"compare-mutual-model-accuracies-across-team-members",
 "compare-peer-and-ai-revisions-dialogic-positioning":"compare-peer-and-ai-revisions-dialogic-positioning",
 "compare-replaced-principal-schools-to-retained-principal-comparison-schools":"compare-replaced-principal-schools-to-retained-principal-comparison-schools",
+"compare-restructuring-training-to-other-approaches":"compare-restructuring-training-to-other-approaches",
 "compare-school-incidence-to-community-trends":"compare-school-incidence-to-community-trends",
 "compare-to-similar-geographic-areas-for-cumulative-reform-impacts":"compare-to-similar-geographic-areas-for-cumulative-reform-impacts",
 "compare_and_contrast_sources":"compare_and_contrast_sources",
@@ -369923,6 +370472,7 @@
 "districtwide-inclusive-practice-professional-learning":"districtwide-inclusive-practice-professional-learning",
 "diverse-pog-assessment-strategies-with-teacher-support":"diverse-pog-assessment-strategies-with-teacher-support",
 "diverse-teacher-pipeline-strategies":"diverse-teacher-pipeline-strategies",
+"diversification-as-reflective-pedagogical-practice":"diversification-as-reflective-pedagogical-practice",
 "diversify-educator-workforce-grow-your-own":"diversify-educator-workforce-grow-your-own",
 "diversify-services-strategic-partnerships-arts-organizations":"diversify-services-strategic-partnerships-arts-organizations",
 "diversity_of_perspectives_and_identities":"diversity_of_perspectives_and_identities",
@@ -370488,6 +371038,7 @@
 "extensive-reading-implementation-models-self-report-accountability":"extensive-reading-implementation-models-self-report-accountability",
 "external-consulting-ta-for-cbe-adaptation":"external-consulting-ta-for-cbe-adaptation",
 "external-instruments-measure-learning-strategies":"external-instruments-measure-learning-strategies",
+"external-representations-manage-cl-cscl":"external-representations-manage-cl-cscl",
 "extra-scaffolding-high-friction-topics":"extra-scaffolding-high-friction-topics",
 "extract-differential-interpretation-artifact-strategy":"extract-differential-interpretation-artifact-strategy",
 "extracurricular-shared-goals-cross-group-connections":"extracurricular-shared-goals-cross-group-connections",
@@ -372274,6 +372825,7 @@
 "negotiated_grades":"negotiated_grades",
 "network-approaches-equitable-learning-environment-design":"network-approaches-equitable-learning-environment-design",
 "networks-of-learning-spaces":"networks-of-learning-spaces",
+"neutral-topic-first-then-sensitive-transfer":"neutral-topic-first-then-sensitive-transfer",
 "never-provide-information-students-can-access":"never-provide-information-students-can-access",
 "new-directions-to-close-media-isd-gap":"new-directions-to-close-media-isd-gap",
 "new-research-program-on-anti-bullying-effectiveness":"new-research-program-on-anti-bullying-effectiveness",
@@ -372714,6 +373266,7 @@
 "policy-strategies-advanced-course-access":"policy-strategies-advanced-course-access",
 "policy-strategies-competency-networks-interoperability":"policy-strategies-competency-networks-interoperability",
 "policy-strategies-sustain-residency-pathways":"policy-strategies-sustain-residency-pathways",
+"policy-support-disadvantaged-students-peer-communication":"policy-support-disadvantaged-students-peer-communication",
 "political_education":"political_education",
 "polynomial-response-surface-motivation-analysis-strategy":"polynomial-response-surface-motivation-analysis-strategy",
 "pomodoro-technique":"pomodoro-technique",

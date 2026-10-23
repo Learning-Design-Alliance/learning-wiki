@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**627 entries** · 0 stable · 627 in review · 0 drafts
+**628 entries** · 0 stable · 628 in review · 0 drafts
 
 ---
 
@@ -226,6 +226,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Five-part scope framework for post-exercise automated team assessment in TTXs](five-part-scope-framework-for-post-exercise-automated-team-assessment-in-ttxs.md) - The article defines its assessment scope through five grounded characteristics: assessment targets teams rather than individuals, since a team is the fundamental unit and succeeds only when members collectively resolve tasks; it is summative, using milestones as predefined checkpoints that serve as 
 * [Five-pattern taxonomy of AI-use learning behavior](five-pattern-taxonomy-of-ai-use-learning-behavior.md) - The article proposes a framework characterizing how students interact with an AI assistant during assignment work, distinguishing limited engagement from \"proactive and critical engagement.\" Annotators labeled chat events for prior attempt, request purpose, and answer modification, then aggregated t
 * [Five-step SAS-based item fit analysis procedure for MAP Growth K–2 items](five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items.md) - A psychometric quality-control procedure for validating Rasch-calibrated items after difficulty adjustment.
+* [Five-theme, sixteen-indicator framework for coding spatial skills in early childhood curricula](five-theme-sixteen-indicator-framework-for-coding-spatial-skills-in-early-childhood-curric.md) - The study coded curricular documents with a deductive six-phase latent thematic analysis in which \"Five themes with a total of sixteen indicators were identified based on previous literature.\" The framework organizes the curricular representation of spatial skills — abilities underpinning processing
 * [Five-type taxonomy of research-integrity learning outcomes](five-type-taxonomy-of-research-integrity-learning-outcomes.md) - The article organizes RCR training effects into five distinct learning outcome types: knowledge, attitude, sensitivity, judgment, and behavior.
 * [Formula-based estimation of value-added classification error rates using ordinary least squares and empirical Bayes estimators](formula-based-estimation-of-value-added-classification-error-rates-using-ordinary-least-sq.md) - The article's methodological framework estimates likely error rates for value-added performance classifications using \"formulas based on ordinary least squares and empirical Bayes estimators.\" It applies these formulas to student test score gain data to quantify how often teachers or schools would b
 * [Four AI model families as complementary lenses on educational cognition](four-ai-model-families-as-complementary-lenses-on-educational-cognition.md) - The review organizes AI approaches to modeling educational cognition into four families treated as different lenses rather than a formal taxonomy: neural networks, reinforcement learning agents, cognitive architectures, and large language models.

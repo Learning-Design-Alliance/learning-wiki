@@ -18,7 +18,7 @@ sources:
 # Multiple-choice retrieval practice questions with competitive alternatives
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (3 for, 4 mixed, 2 against) · 9 studies (3 causal, 2 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 9 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (4 for, 4 mixed, 2 against) · 10 studies (4 causal, 2 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 10 report an effect size · 9 claims rest on one study
 
 ## Description
 A recognition-format retrieval practice item: a multiple-choice question whose incorrect options are competitive alternatives, intended to make recognition practice demand retrieval comparable to short-answer production. The study built its MCQs this way, "by including competitive alternatives in the MCQs to ensure that the MCQs cannot be attributed to being relatively easier than short-answer questions", scoring one point per correct response.
@@ -50,6 +50,7 @@ A recognition-format retrieval practice item: a multiple-choice question whose i
 - [Incorrect information learned from a multiple-choice test is applied and reasoned with on conceptually related transfer questions](../claims/lures-transfer-erroneous-reasoning.md) [-W]
 - [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](../claims/mc-testing-increases-lure-production.md) [-W]
 - [Competitive true-false questions can produce benefits similar to competitive multiple-choice questions for previously asked and related questions](../claims/competitive-true-false-similar-benefits.md) [+W]
+- [Contrasting orthographically similar L2 words during multiple-choice learning improves their subsequent recall in the productive direction](../claims/contrasting-orthographically-similar-l2-words-improves-recall.md) [+W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [+M]
