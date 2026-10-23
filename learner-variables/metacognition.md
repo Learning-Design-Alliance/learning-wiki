@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 130 claims (83 show a difference, 29 mixed, 18 no difference) · 94 studies (38 causal, 16 associational, 13 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 28 of 94 report an effect size · 129 claims rest on one study
+> **Evidence** · 131 claims (84 show a difference, 29 mixed, 18 no difference) · 95 studies (38 causal, 17 associational, 13 review, 11 theoretical, 7 quant-synthesis, 7 qualitative, 2 design), `q1`–`q4` · 28 of 95 report an effect size · 130 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -172,6 +172,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming](../claims/model-answers-no-monitoring-accuracy-effect.md) [-M] — instruction changes it
 - [Model answers combined with self-assessment instructions interactively improve monitoring-based regulation accuracy, with two model answers most effective](../claims/model-answers-self-assessment-interaction-regulation.md) [~M] — instruction changes it
 - [Model answers improve both monitoring-based and comprehension-based regulation accuracy](../claims/model-answers-improve-regulation-accuracy.md) [+M] — instruction changes it
+- [Higher order cognitive skills (inference, perspective taking, monitoring) are differentially related to writing quality, writing productivity, and correctness in writing in Grade 2](../claims/higher-order-cognitions-differential-writing-dimensions-grade2.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 234 claims (95 for, 123 mixed, 16 against) · 175 studies (59 associational, 44 design, 26 review, 20 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 15 of 175 report an effect size · 228 claims rest on one study
+> **Evidence** · 237 claims (98 for, 123 mixed, 16 against) · 176 studies (60 associational, 44 design, 26 review, 20 theoretical, 17 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 15 of 176 report an effect size · 231 claims rest on one study
 
 ## Conditional relationship
 
@@ -210,6 +210,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [In a preregistered within-subjects experiment (N = 131, eight measurements), the translated scale showed criterion validity via sensitivity to task complexity, extraneous load, and motivation](../claims/mel-ts-criterion-validity.md) [+W] — attached 2026-10-21 from Tino Endres et al. (2025), which proposed "Use four effort and load items within a reference point evaluation as best practice for translingual cognitive demand assessment"; tests this page's relationship.
 - [The scale showed convergent and incremental validity through medium-size correlations with established cognitive load measures](../claims/mel-ts-convergent-incremental-validity.md) [+W] — attached 2026-10-21 from Tino Endres et al. (2025), which proposed "Use four effort and load items within a reference point evaluation as best practice for translingual cognitive demand assessment"; tests this page's relationship.
 - [Cronbach's alpha does not generally indicate the reliability of knowledge tests because knowledge is a heterogeneous construct](../claims/alpha-not-reliability-knowledge-tests.md) [+W] — attached 2026-10-22 from Peter A. Edelsbrunner et al. (2025), which proposed "Abandon fixed alpha cutoff values for knowledge tests; report alpha and its confidence interval for studying item interrelatedness instead"; tests this page's relationship.
+- [Individual children's memory span scores vary considerably between two testings five weeks apart](../claims/memory-span-individual-scores-vary-five-weeks.md) [+W] — attached 2026-10-23 from Mitchell (1918), which proposed "Do not grade a child's ability from a single examination, since performance varies from day to day"; tests this page's relationship.
+- [Test-retest correlations of memory span are low, questioning the validity of a single memory span test](../claims/low-memory-span-retest-correlations.md) [+W] — attached 2026-10-23 from Mitchell (1918), which proposed "Do not grade a child's ability from a single examination, since performance varies from day to day"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -308,6 +310,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Cognitive artifact scoring in the digital workbook achieved high intercoder reliability, with average Spearman's rho of 0.97 overall](../claims/high-intercoder-reliability-workbook-scoring.md) [+W]
 - [Retest reliability may be more appropriate than alpha for knowledge tests, but requires a testing interval without learning](../claims/retest-reliability-knowledge-tests.md) [~W]
 - [Configural and metric measurement invariance across time hold for nearly all constructs, but scalar invariance is problematic for several](../claims/measurement-invariance-self-concept-belief-scales.md) [~W]
+- [Group average memory span scores remain nearly identical across days while individual scores vary considerably](../claims/group-averages-stable-individuals-vary.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

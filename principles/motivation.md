@@ -47,7 +47,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 96 claims (58 for, 37 mixed, 1 against) · 92 studies (28 review, 21 causal, 11 theoretical, 10 associational, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 12 of 92 report an effect size · 82 claims rest on one study
+> **Evidence** · 97 claims (58 for, 38 mixed, 1 against) · 93 studies (28 review, 21 causal, 11 associational, 11 theoretical, 9 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 12 of 93 report an effect size · 83 claims rest on one study
 
 ## Conditional relationship
 
@@ -231,6 +231,7 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 - [Junior high math teachers were more controlling and less supportive than elementary teachers, and classrooms with the strongest such changes showed the largest declines in math motivation](../claims/junior-high-teachers-more-controlling-motivation-declines.md) [~W]
 - [Feedback targeting reading self-efficacy had a positive effect on motivation, while error-focused feedback and rewards had mixed effects on long-term interest and engagement](../claims/feedback-motivation-self-efficacy-positive-rewards-mixed.md) [+W]
 - [Higher adherence and lower discipline problems during delivery were associated with more positive changes in utility value](../claims/adherence-discipline-utility-value-changes.md) [~W]
+- [Low autonomy-supportive climates are particularly harmful to students labeled with low teacher expectations](../claims/low-autonomy-climate-harmful-low-expectation-students.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

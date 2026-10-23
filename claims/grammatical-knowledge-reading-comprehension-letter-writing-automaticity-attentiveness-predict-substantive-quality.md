@@ -58,3 +58,4 @@ Multilevel model analysis of 527 first-grade children nested in 34 classrooms, w
 - [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](vocabulary-not-uniquely-related-to-written-composition.md) — related
 - [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](open-questions-comprehension-unique-predictor-integration.md) — related
 - [Spelling and attentiveness are uniquely related to writing conventions of first-grade written composition, but instructional quality is not](spelling-attentiveness-predict-writing-conventions.md) — related
+- [Reading comprehension is hypothesized and tested as a component skill of writing, with reading-to-writing directionality supported by prior longitudinal evidence](reading-comprehension-component-skill-of-writing.md) — related

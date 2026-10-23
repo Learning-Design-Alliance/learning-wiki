@@ -18,7 +18,7 @@ sources:
 # Response Time Effort (RTE)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 7 studies (5 associational, 1 review, 1 design), `q1`–`q2` · 0 of 7 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 8 studies (6 associational, 1 review, 1 design), `q1`–`q3` · 0 of 8 report an effect size · 8 claims rest on one study
 
 ## Description
 Response Time Effort (RTE) is a measure of test-taking effort computed from item response times. The article states that it provides an assessment of effort down to the level of individual item responses, making it usable for detecting unmotivated responding within a test rather than only at the test level. It was developed in response to increased interest in how unmotivated test taking affects test performance and score validity.
@@ -28,6 +28,7 @@ Response Time Effort (RTE) is a measure of test-taking effort computed from item
 - **Response Time Effort (RTE) as an item-level measure of test-taking effort**: Response Time Effort (RTE) is a measure of test-taking effort computed from item response times. The article states that it provides an assessment of effort down to the level of individual item responses, making it usable for detecting unmotivated responding within a test rather than only at the test level. It was developed in response to increased interest in how unmotivated test taking affects test performance and score validity. (Steven Wise (2017))
 - **Response-time-based measurement of test-taking effort as a validity concern**: The article situates item-level effort measurement within growing concern that unmotivated test taking threatens test performance and score validity. It frames response time as the basis for measuring test-taking effort, first through RTE for selected-response items and then through a general process extending to other item types and behaviors such as omitted or constructed responses. The framework aims to support detection of non-effortful test taking and individual score validation in computer-based assessment. (Steven Wise (2017))
 - **Response-time propensities: a difficulty-adjusted, trait-like measure of typical step-level pacing**: Response-time propensities are a log-derived measure of students' typical step-to-step response timing in intelligent tutoring systems, estimated as student-level random intercepts from a hierarchical model of log-transformed step latencies with random effects for students and skills. The article defines them as "difficulty- and context-adjusted, trait-like differences in students' typical response timing during tutoring", where trait-like captures typical pacing while within-person speed can still vary across steps. They are intended as a process construct complementing correctness-based knowledge estimates, capturing how students distribute time across steps. (Understanding Student Effort Using Response-Time Propensities During Problem Solving)
+- **Use log-data time on task as an objective indicator of effort in computer-based assessment**: The article recommends using log data on time on task (TOT) to overcome the subjectivity limits of self-reported motivation and effort. It argues that with log data, researchers can "more objectively and comprehensively analyze how motivation and effort are connected to performance." TOT is extracted from logfiles as the time from task opening to submission, and is considered valid for tasks requiring higher-order thinking and complex problem solving where rapid automatized processes do not help. This enables identifying task-behavior-related factors explaining performance differences, including among academically struggling students. (Nyman et al. (2025))
 
 ### Claims
 - [RTE provides an assessment of test-taking effort down to the level of individual item responses](../claims/rte-assesses-effort-at-item-response-level.md) [+M]
@@ -38,6 +39,7 @@ Response Time Effort (RTE) is a measure of test-taking effort computed from item
 - [Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model](../claims/rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated.md) [~W]
 - [Response-time propensities show moderate to strong within-student stability across practice session slices](../claims/rt-propensities-moderate-strong-stability.md) [+M]
 - [The association between RT propensity and learning rate is moderated by prior proficiency: slower propensities predict greater learning efficiency for higher-proficiency students but are weakly negative for lower-proficiency students](../claims/rt-propensity-proficiency-interaction-learning.md) [+M]
+- [Maladaptive motivational profiles are associated with less time on task and lower cognitive task achievement](../claims/maladaptive-profiles-less-time-on-task-lower-achievement.md) [+M]
 
 ## Related Research Methods
 -
@@ -46,6 +48,7 @@ Response Time Effort (RTE) is a measure of test-taking effort computed from item
 - Steven Wise, Lingyun Gao. (2017). A general approach to measuring test-taking effort on computer-based tests. Applied Measurement in Education, 30(4), 343–354. https://www.nwea.org/research/publication/a-general-approach-to-measuring-test-taking-effort-on-computer-based-tests/
 <!-- merged 2026-10-10 from elements/response-time-effort-rte-item-level-measure ("Response Time Effort (RTE) as an item-level measure of test-taking effort"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Conrad Borchers, Lijin Zhang, Kexin Yang, Tomohiro Nagashima, and Benjamin W. Domingue. 2026. Understanding Student Effort Using Response-Time Propensities During Problem Solving. Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S '26). https://doi.org/10.1145/3774398.3811624
+- Nyman, L., Koivuhovi, S., Greiff, S., Hotulainen, R., Little, T. D., & Vainikainen, M.-P. (2025). A person-centered approach to action-control beliefs of students with special educational needs and their relation to student performance and time on task. Journal of Educational Psychology. Advance online publication. https://doi.org/10.1037/edu0001000
 
 # Response Time Effort (RTE) as an item-level measure of test-taking effort
 

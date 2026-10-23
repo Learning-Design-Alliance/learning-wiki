@@ -55,3 +55,4 @@ Structural equation modeling of data from 224 fourth-grade children, controlling
 - [Children showing higher metacognition and self-regulation felt the task would be difficult but that they would be able to solve it](higher-metacognition-children-felt-difficult-but-solvable.md) — related
 - [Most included studies report a significant positive metacognition–math association, with some null and mixed findings](most-studies-significant-positive-association.md) — related
 - [Mathematics anxiety shows mixed relations to algebraic thinking across studies](math-anxiety-mixed-algebra-relations.md) — related
+- [Text-structure knowledge in passages and word problems mediates acquisition and cross-domain transfer effects](text-structure-knowledge-mediates-transfer.md) — related

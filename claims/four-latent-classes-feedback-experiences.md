@@ -74,3 +74,4 @@ Profile plots and fit metrics characterised the four classes; AvePP values were 
 - [Latent class analysis failed to discriminate ACE clusters in the Millennium Cohort Study data](lca-failed-discriminate-ace-clusters.md) — related
 - [Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment](five-learner-profiles-standards-attainment.md) — related
 - [Latent class analysis of roadblock responses identified three roughly equally sized administrator groups—Limited, Moderate, and Considerable Roadblocks—differing in breadth and depth of concern](three-roadblock-severity-groups-latent-class.md) — related
+- [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related

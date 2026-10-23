@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 109 claims (76 show a difference, 23 mixed, 10 no difference) · 79 studies (24 review, 18 associational, 13 quant-synthesis, 12 causal, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 22 of 79 report an effect size · 105 claims rest on one study
+> **Evidence** · 111 claims (76 show a difference, 25 mixed, 10 no difference) · 81 studies (24 review, 20 associational, 13 quant-synthesis, 12 causal, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 22 of 81 report an effect size · 107 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -150,6 +150,8 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [The interaction of peer rejection and teacher-child closeness/conflict significantly predicts later language competence in multilevel models](../claims/peer-rejection-teacher-relationship-interaction-language.md) [+M] — an instructional effect differs with it
 - [Higher levels of and stronger increases in perceived negative relationships with teachers are associated with lower levels of and stronger decreases in autonomous academic motivation across the secondary school transition](../claims/teacher-negativity-autonomous-motivation-linked-change.md) [+M] — learners who differ on it differ in outcomes
 - [The social perspective taking induction increased treatment teachers' effort to understand their focal students (Cohen's d = 0.51)](../claims/spt-induction-raises-teacher-effort.md) [+M] — instruction changes it
+- [Higher order cognitive skills (inference, perspective taking, monitoring) are differentially related to writing quality, writing productivity, and correctness in writing in Grade 2](../claims/higher-order-cognitions-differential-writing-dimensions-grade2.md) [~M] — learners who differ on it differ in outcomes
+- [The effect of inference-based instruction and teacher–student conflict on math achievement growth was significantly stronger for the low early skill group (three-way interaction)](../claims/inference-conflict-skill-three-way-interaction.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

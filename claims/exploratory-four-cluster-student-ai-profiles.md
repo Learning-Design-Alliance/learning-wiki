@@ -77,3 +77,4 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [Latent profile analysis of six AI-attitude indicators yields four profiles: Positive Empowerment, Anxious Acceptance, Low-Perception Detached, and High-Perception High-Vigilance](four-ai-attitude-latent-profiles-university-students.md) — related
 - [K-means clustering of stage-level CACI observations yields four student-AI interaction patterns: Intensive Engagers, Fast Scanners, Traditionalists, and Frequent Switchers](four-caci-interaction-patterns.md) — related
 - [Students with moderate initial CT levels show substantially greater self-efficacy gains than high-CT and low-CT peers, an 'Optimal Development Zone' effect](optimal-development-zone-ct-gains.md) — related
+- [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related

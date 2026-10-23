@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 96 claims (57 show a difference, 16 mixed, 23 no difference) · 71 studies (23 associational, 16 review, 15 quant-synthesis, 14 causal, 2 theoretical, 1 design), `q1`–`q3` · 23 of 71 report an effect size · 93 claims rest on one study
+> **Evidence** · 99 claims (57 show a difference, 19 mixed, 23 no difference) · 72 studies (24 associational, 16 review, 15 quant-synthesis, 14 causal, 2 theoretical, 1 design), `q1`–`q3` · 24 of 72 report an effect size · 96 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -133,6 +133,9 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [RCR is correlated with vocabulary and listening comprehension in the combined sample](../claims/rcr-correlated-semantic-abilities.md) [+M] — learners who differ on it differ in outcomes
 - [SES is indirectly associated with listening comprehension through vocabulary, and has a significant total indirect effect on RCR](../claims/ses-indirect-vocabulary-lc-rcr.md) [+M] — learners who differ on it differ in outcomes
 - [Training effects on flexibility and word problem solving do not differ between students with low and high language skills](../claims/training-effects-not-moderated-by-language-skills.md) [-M] — an instructional effect differs with it
+- [Discourse oral language is strongly related to writing quality and reading comprehension but unrelated to writing productivity in Grade 2](../claims/discourse-oral-language-differential-latent-relations.md) [~M] — learners who differ on it differ in outcomes
+- [Reading comprehension differentially mediates the relations of discourse oral language and lexical literacy to writing quality in Grade 2](../claims/reading-comprehension-mediation-writing-quality.md) [~M] — learners who differ on it differ in outcomes
+- [Total effects of oral language, cognition, transcription, and reading comprehension vary largely across the three dimensions of written composition](../claims/total-effects-vary-writing-dimensions.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

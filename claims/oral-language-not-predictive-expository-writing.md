@@ -57,3 +57,4 @@ Structural equation model for expository writing quality in the same longitudina
 - [Kindergarten attention is not uniquely predictive of third-grade writing quality in either genre](kindergarten-attention-not-predictive-grade3-writing.md) — related
 - [Kindergarten letter writing automaticity is not uniquely predictive of third-grade writing quality](letter-writing-automaticity-not-predictive-grade3-writing.md) — a broader claim this one bears on
 - [A model of kindergarten writing development including an attention factor fits better than a model with only language and literacy factors](attention-factor-improves-model-fit.md) — reports the opposite
+- [Discourse oral language is strongly related to writing quality and reading comprehension but unrelated to writing productivity in Grade 2](discourse-oral-language-differential-latent-relations.md) — related

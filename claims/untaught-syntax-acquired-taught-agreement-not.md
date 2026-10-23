@@ -51,3 +51,4 @@ The article reports its authors' own on-line processing study (VanPatten, Keatin
 - [A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions](l2-skill-never-fully-native-like.md) — related
 - [Syntactic rather than semantic processing of input is essential for correcting incomprehensible output](syntactic-processing-corrects-incomprehensible-output.md) — related
 - [Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached](explicit-rules-automatizable-through-practice.md) — reports the opposite
+- [No single rule was professed to be known by half the university students despite all having been taught the rules the previous winter](rule-recall-miserable-half-known.md) — related

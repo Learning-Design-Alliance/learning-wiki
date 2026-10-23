@@ -68,3 +68,4 @@ Profile characterization from the same LPA: the Positive Group (G1, N = 96, 34.2
 - [Strategy effectiveness varied across profiles: main idea selection helped only the ambivalent group and trial-and-error helped only the moderate group](strategy-effectiveness-varies-across-profiles.md) — a narrower finding that bears on this claim
 - [Three academic self-efficacy profiles (low, moderate, high) are identified among university students with motor disabilities using Latent Profile Analysis](three-academic-self-efficacy-profiles-motor-disabilities.md) — related
 - [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related
+- [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related

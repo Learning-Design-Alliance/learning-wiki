@@ -46,3 +46,4 @@ Friedman test with Wilcoxon signed-rank post hoc comparisons (Bonferroni-adjuste
 - [After eight encounters in reading, L2 learners recognize the form and meaning of unknown words better than they can recall their meaning](eight-encounters-form-meaning-recognition-exceed-recall.md) — related
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related
 - [Recognition tests yield higher word-learning effect sizes than recall tests](recognition-tests-higher-effect-sizes-than-recall.md) — related
+- [Unmeasured factors such as reluctance to seem slow, over-certainty, and persistence in recalling complicate time-based memory measures](unmeasured-factors-learning-recall-times.md) — related

@@ -56,3 +56,4 @@ The editorial reports, citing Ma, Zhang, Ni and Zhou, a latent profile analysis 
 - [Latent profile analysis of secondary students' log-file engagement in a digital chemistry textbook identifies six distinct cognitive and metacognitive engagement profiles](six-latent-profiles-engagement-digital-chemistry-textbook.md) — related
 - [Engagement profiles predict who benefits most from accuracy-based adaptive support](engagement-profiles-predict-adaptive-benefit.md) — related
 - [Hong Kong fourth graders' OMR self-efficacy and emotions form three distinct motivational-emotional profiles: positive, moderate, and ambivalent](three-omr-motivational-emotional-profiles-grade4.md) — related
+- [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related

@@ -52,3 +52,4 @@ Accuracy difference lag analysis (Table 3): at 1-day retention interval, longer 
 - [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](spacing-benefit-short-retention-no-peterson-paradox.md) — related
 - [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) — related
 - [The meaning of theoretical arrows (causal vs predictive, timescale, functional form, magnitude) is unclear, and cross-lagged effect signs can change with assessment intervals](statistical-convenience-obscures-theory-specification.md) — related
+- [Earlier studies reported that quicker recall accompanied better memory results, but with little supporting evidence](earlier-studies-quicker-recall-better-results.md) — related

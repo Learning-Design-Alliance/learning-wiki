@@ -48,3 +48,4 @@ Analysis of the distribution of the dyadic mimicry index across 69 instructor–
 - [Instructors' post-session self-reported joy correlated positively with class-average instructor–student joy mimicry, but students' self-reported joy did not](instructor-joy-correlated-with-mimicry-quantity.md) — related
 - [Instructor-led facial joy mimicry predominated: 58% of dyads were instructor-led and the critical lag window's midpoint was around +500 msec after the instructor's expression](instructor-led-joy-mimicry-predominance.md) — related
 - [Facially expressed joy during class correlated positively with post-session self-reported session joy for both students and instructors, though the instructor correlation did not reach significance](facial-joy-expression-correlates-with-self-reported-joy.md)
+- [Classroom membership accounts for 11% of variance in students' perceived competence, justifying multilevel analysis](icc-perceived-competence-between-classes.md) — related

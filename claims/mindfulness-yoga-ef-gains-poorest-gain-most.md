@@ -70,3 +70,4 @@ The review reports girls aged 10 and 13 randomly assigned to yoga or physical tr
 - [Children with the weakest executive functions benefit the most from EF interventions, so early training may reduce social disparities in EFs](weakest-efs-benefit-most-from-training.md) — a broader claim this one bears on
 - [School meditation studies show significant improvements on several cognitive functioning measures, though effects vary by measure and study](meditation-improves-cognitive-functioning-measures.md) — related
 - [Mindfulness interventions show comparatively robust efficacy for preschool SR/EF, especially for outcomes requiring integrated mobilisation of EFs and SR](mindfulness-preschool-sr-ef-efficacy.md) — related
+- [Drill effect is greatest on the poorest portion of the class and decreases class variability](drill-effect-greatest-on-poorest-pupils.md) — related

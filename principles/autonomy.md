@@ -43,7 +43,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (20 for, 26 mixed, 2 against) · 47 studies (12 review, 8 associational, 8 theoretical, 6 causal, 6 qualitative, 4 quant-synthesis, 3 design), `q1`–`q4` · 6 of 47 report an effect size · 40 claims rest on one study
+> **Evidence** · 49 claims (21 for, 26 mixed, 2 against) · 48 studies (12 review, 9 associational, 8 theoretical, 6 causal, 6 qualitative, 4 quant-synthesis, 3 design), `q1`–`q4` · 6 of 48 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -182,6 +182,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Teachers who facilitate both autonomy and structure report motivation to teach and felt teaching effectiveness](../claims/teacher-outcomes-autonomy-structure.md) [+W]
 - [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](../claims/autonomy-universality-meta-analytic-support.md) [+W]
 - [Main effects and the interaction of classroom autonomy support and structure were tested on the three engagement components using multilevel analyses](../claims/multilevel-test-autonomy-structure-interaction-engagement.md) [~W]
+- [Low autonomy-supportive climates are particularly harmful to students labeled with low teacher expectations](../claims/low-autonomy-climate-harmful-low-expectation-students.md) [+W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — regular, non-controlling check-ins are a core teacher behavior of autonomy support, signaling interest rather than surveillance

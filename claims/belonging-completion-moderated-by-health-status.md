@@ -51,3 +51,4 @@ Design-based logistic regression on the full Add Health data set with Wave IV we
 - [Students with chronic medical conditions are less likely to complete high school on time than their healthy peers](chronic-conditions-lower-ontime-graduation.md) — related
 - [Health status predicts perceived school belonging beyond demographic controls](health-status-predicts-belonging.md) — related
 - [Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63](dropout-programs-or-163-completion.md) — related
+- [School belonging at age 15 predicts lower likelihood of NEET status at ages 16-20 controlling for demographics, achievement, and school context](school-belonging-predicts-neet-status.md) — related

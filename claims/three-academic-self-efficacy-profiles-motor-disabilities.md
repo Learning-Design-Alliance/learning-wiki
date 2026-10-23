@@ -51,3 +51,4 @@ Latent Profile Analysis on standardized scores of 102 students with motor disabi
 - [Self-efficacy profiles differ in AI use for informational support (η² = .28) and emotional support (η² = .18)](informational-emotional-support-ai-use-profile-differences.md) — related
 - [Higher academic self-efficacy profiles report greater overall academic AI use, with a large effect (η² = .36)](higher-self-efficacy-profiles-greater-ai-use.md) — related
 - [Hong Kong fourth graders' OMR self-efficacy and emotions form three distinct motivational-emotional profiles: positive, moderate, and ambivalent](three-omr-motivational-emotional-profiles-grade4.md) — related
+- [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
