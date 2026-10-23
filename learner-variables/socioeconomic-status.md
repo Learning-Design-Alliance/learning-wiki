@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 123 claims (75 show a difference, 31 mixed, 17 no difference) · 96 studies (53 associational, 17 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 8 of 96 report an effect size · 122 claims rest on one study
+> **Evidence** · 125 claims (75 show a difference, 33 mixed, 17 no difference) · 97 studies (54 associational, 17 causal, 13 review, 8 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 8 of 97 report an effect size · 124 claims rest on one study
 
 ## How to read this page
 
@@ -208,6 +208,8 @@ A learner's economic and social position: family income or poverty (often measur
 - [The teacher-student SEC relationship is moderated by student SES, teacher years of experience, SEC measurement method, and grade level](../claims/sec-relationship-moderators-ses-experience-measurement-grade.md) [+M] — an instructional effect differs by group
 - [Household income and maternal work status moderated the childcare–higher education association: formal childcare increased enrollment probability only for low-income and non-working families](../claims/childcare-effect-moderated-by-income-work-status.md) [~W] — an instructional effect differs by group
 - [COVID-19 widened the socio-economic performance gap on average, deteriorating more among disadvantaged students, significantly in mathematics and science](../claims/covid-widened-socio-economic-performance-gap.md) [+M] — an instructional effect differs by group
+- [In more competitive school environments, lower-SES students perform better academically than their more advantaged peers, narrowing SES achievement gaps](../claims/competitive-schools-narrow-ses-gaps-achievement.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In more competitive school environments, students from lower SES backgrounds report more positive self-views than their more advantaged peers, narrowing SES gaps in self-views](../claims/competitive-schools-narrow-ses-gaps-self-views.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

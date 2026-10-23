@@ -136,3 +136,4 @@ A meta-analysis of 51 quantitative studies comparing students' self-assessed mar
 - [Video modeling training of self-assessment and task-selection skills improves secondary students' problem-solving performance after a self-regulated learning phase](video-modeling-srl-training-improves-posttest-performance.md) — related
 - [Underuse of effective strategies may stem from false beliefs, lack of awareness, and the counter-intuitive nature of the strategies](underuse-stems-from-false-beliefs-and-counterintuition.md) — related
 - [Solving an isomorphic practice problem after studying a worked example improves prospective monitoring accuracy, with mixed effects on regulation accuracy](practice-problem-after-example-improves-monitoring.md) — related
+- [Model answers combined with self-assessment instructions interactively improve monitoring-based regulation accuracy, with two model answers most effective](model-answers-self-assessment-interaction-regulation.md) — related

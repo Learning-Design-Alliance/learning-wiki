@@ -54,3 +54,4 @@ Multilevel analysis of absolute metacomprehension accuracy (judgment and student
 - [Multi-agent scaffolding showed no significant difference from the structured control in binary diagnostic accuracy or worksheet completion](no-diagnostic-accuracy-difference.md) — related
 - [Little or no relation between absolute and relative accuracy in metacomprehension research](little-relation-absolute-relative-accuracy.md) — related
 - [Delayed diagram completion improves students' relative monitoring accuracy of text comprehension compared with no diagramming](delayed-diagram-completion-improves-relative-monitoring-accuracy.md) — related
+- [Receiving two model answer diagrams improves secondary students' delayed-diagramming text comprehension relative to no model answers](two-model-answers-improve-comprehension-delayed-diagramming.md) — related

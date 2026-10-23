@@ -49,3 +49,4 @@ The review's synthesis of correlational studies using the Author Recognition Tes
 ## Related Claims
 - [Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate](reading-literary-fiction-improves-theory-of-mind.md) — related
 - [Expressively oriented literary programs improved ToM, emotion understanding, and self-reported insight in children and adolescents](expressive-literary-programs-improve-tom-empathy.md) — related
+- [Youth text reading experience correlates modestly with narrative comprehension; current text and youth comic experience do not](youth-text-reading-experience-correlates-with-comprehension.md) — related

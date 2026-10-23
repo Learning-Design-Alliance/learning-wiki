@@ -75,3 +75,4 @@ The article reports, citing Garbayo et al. (2023), a replication in high-fidelit
 - [Self-assessment accuracy in PBL depends on achievement level: low achievers graded generously, high achievers accurately](self-assessment-accuracy-achievement-level-pbl.md) — related
 - [Email-detection confidence judgments show good calibration but poor resolution, with aggregate overconfidence of 18%](phishing-metacognition-good-calibration-poor-resolution.md) — a narrower finding that bears on this claim
 - [Hard-easy effect: students are more accurate but underconfident on easy items and less accurate but overconfident on difficult items](hard-easy-effect-calibration.md) — related
+- [Secondary students tend to overestimate their text comprehension, though monitoring is relatively accurate in this sample](students-overestimate-text-comprehension-delayed-diagramming.md) — related

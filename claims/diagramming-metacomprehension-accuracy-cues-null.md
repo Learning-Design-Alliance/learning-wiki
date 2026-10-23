@@ -61,3 +61,5 @@ The introduction reports, citing Pijeira-Díaz et al. (this issue), a three-cond
 - [Teachers' self-reported cue utilization attributes are not significantly correlated with their monitoring accuracy (Experiment 2).](teacher-self-reported-cue-use-not-linked-to-accuracy.md) — related
 - [Little or no relation between absolute and relative accuracy in metacomprehension research](little-relation-absolute-relative-accuracy.md) — related
 - [Delayed diagram completion improves students' relative monitoring accuracy of text comprehension compared with no diagramming](delayed-diagram-completion-improves-relative-monitoring-accuracy.md) — related
+- [Receiving two model answer diagrams improves secondary students' delayed-diagramming text comprehension relative to no model answers](two-model-answers-improve-comprehension-delayed-diagramming.md) — related
+- [Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming](model-answers-no-monitoring-accuracy-effect.md) — related

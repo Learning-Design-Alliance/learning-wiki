@@ -27,7 +27,7 @@ sources:
 # Dual Coding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (15 for, 12 mixed, 6 against) · 43 studies (16 causal, 14 review, 10 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 43 report an effect size · 24 claims rest on one study
+> **Evidence** · 34 claims (16 for, 12 mixed, 6 against) · 44 studies (17 causal, 14 review, 10 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 14 of 44 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 - [Representational pictures show consistently null effects for word problems with demanding characteristics such as rational numbers, probabilistic reasoning, or realistic considerations](../claims/representational-pictures-null-demanding-tasks.md) [~W]
 - [Learning by drawing outperforms text-based strategies but is often less effective than studying pre-made drawings, with guidance and drawing training as key determinants](../claims/drawing-beats-text-loses-to-premade-visuals.md) [+W]
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](../claims/visualizing-support-facilitates-explaining.md) [+W]
+- [Receiving two model answer diagrams improves secondary students' delayed-diagramming text comprehension relative to no model answers](../claims/two-model-answers-improve-comprehension-delayed-diagramming.md) [+W]
 
 ## Related Principles
 - [Multimodal Instruction](multimodal-instruction.md)

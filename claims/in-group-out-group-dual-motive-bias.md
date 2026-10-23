@@ -45,3 +45,4 @@ Theoretical argument in the article's Efficient Self-Enhancement section: buildi
 ## Related Claims
 - [Cognitive efficiency motives lead perceivers to sacrifice accuracy in person perception](cognitive-efficiency-sacrifices-accuracy.md) — related
 - [Self-protection and self-enhancement motives lead perceivers to sacrifice accuracy in person perception](self-enhancement-sacrifices-accuracy.md) — related
+- [Under situationally increased self-enhancement motivation, people prefer positive feedback regardless of its perceived accuracy](situational-self-enhancement-positive-feedback-regardless-accuracy.md) — related

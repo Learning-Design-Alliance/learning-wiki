@@ -93,3 +93,4 @@ A meta-analysis of research on undergraduate science, mathematics, engineering, 
 - [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](discussion-improves-individual-perception.md) — a narrower finding that bears on this claim
 - [Individualized instruction shows low effects compared to cooperative and collaborative learning](individualized-instruction-low-effects-versus-collaborative.md) — related
 - [Active learning and inclusive practices are associated with better outcomes and reduced equity gaps, though evidence is contested and uptake remains low](active-learning-reduces-equity-gaps-contested.md) — related
+- [In more competitive school environments, lower-SES students perform better academically than their more advantaged peers, narrowing SES achievement gaps](competitive-schools-narrow-ses-gaps-achievement.md) — related

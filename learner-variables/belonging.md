@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 86 claims (66 show a difference, 17 mixed, 3 no difference) · 69 studies (23 review, 12 qualitative, 11 causal, 9 associational, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 2 of 69 report an effect size · 81 claims rest on one study
+> **Evidence** · 88 claims (68 show a difference, 17 mixed, 3 no difference) · 70 studies (23 review, 12 qualitative, 11 causal, 10 associational, 6 theoretical, 5 design, 3 quant-synthesis), `q1`–`q4` · 2 of 70 report an effect size · 83 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -123,6 +123,8 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [School belonging is associated with better academic achievement in almost all countries, but the strength of the correlations varies significantly across countries](../claims/pisa2018-belonging-achievement-correlation-heterogeneity.md) [+M] — learners who differ on it differ in outcomes
 - [The belonging–outcome association is stronger in some cultural groups than others: reported moderation by ethnicity and by individualism–collectivism](../claims/structure-oriented-moderation-belonging-outcomes.md) [~W] — learners who differ on it differ in outcomes
 - [Being offered Supplemental Instruction shows no significant effect on sense of belonging, measured with a low-reliability scale](../claims/si-offer-no-effect-belonging.md) [-M] — instruction changes it
+- [Student-reported intercultural education practices positively predict students' eudaimonia, life satisfaction, positive affect, and school belonging across PISA countries](../claims/intercultural-education-practices-predict-psychosocial-outcomes.md) [+M] — instruction changes it
+- [Student-reported teacher intercultural attitudes positively predict school belonging and negatively predict victimization frequency](../claims/teacher-intercultural-attitudes-belonging-victimization.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

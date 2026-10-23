@@ -48,3 +48,4 @@ Multilevel comparison of 2309 Norwegian second-graders (1668 Before COVID-19, 64
 ## Related Claims
 - [The cohort covariate's contribution to explained variance in all three writing measures fell well below the small-effect threshold](cohort-covariate-effect-below-small-threshold.md) — related
 - [In the prior first-grade study, the During COVID-19 cohort scored significantly lower than the Before COVID-19 cohort on all three writing measures immediately after remote instruction ended](first-grade-covid-writing-losses-immediately-post-remote.md) — related
+- [Grade 4 cohorts affected by COVID-19 restrictions showed significant negative trends in verbal achievement for non-SEN and SEN-L-R students in all three domains, and for SEN-L-S students only in orthography](grade4-negative-verbal-cohort-trends-sen-l.md) — related

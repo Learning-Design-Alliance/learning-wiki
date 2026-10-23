@@ -67,3 +67,4 @@ The review attributes to Marsh et al. (2011) that "physical victimization positi
 ## Related Claims
 - [Antibullying attitudes are positively related to disciplining bullies, victim support, parental involvement, and involving peer bystanders](attitudes-positive-active-responses.md) — related
 - [A three-component (tripartite) model of victimization shows superior explanatory power to unidimensional and two-component models in cross-national PISA2018 data](tripartite-model-superior-fit-pisa2018.md) — related
+- [Student-reported teacher intercultural attitudes positively predict school belonging and negatively predict victimization frequency](teacher-intercultural-attitudes-belonging-victimization.md) — related

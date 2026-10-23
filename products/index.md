@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1859 entries** · 0 stable · 1859 in review · 0 drafts
+**1861 entries** · 0 stable · 1861 in review · 0 drafts
 
 ---
 
@@ -785,6 +785,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Inventory of School Motivation (ISM)](inventory-of-school-motivation-ism.md) - A school-motivation measurement instrument developed by McInerney and used to assess motivation across cultural groups, with cross-cultural validation and measurement-invariance testing required for new populations.
 * [Investigations in Number, Data, and Space; Math Expressions; Saxon Math; and Scott Foresman-Addison Wesley Mathematics](investigations-in-number-data-and-space-math-expressions-saxon-math-and-scott-foresman-add.md) - Four published elementary mathematics curricula evaluated comparatively by Agodini et al.
 * [IPS-EDP model](ips-edp-model.md) - A seven-principle instructional-design framework developed by Boetje et al.
+* [IQB Trends in Student Achievement large-scale assessment data (IQB-BT 2021 and IQB-BT 2022)](iqb-trends-in-student-achievement-large-scale-assessment-data-iqb-bt-2021-and-iqb-bt-2022.md) - German large-scale educational assessment data produced by the Institute for Educational Quality Improvement (IQB), containing achievement scores and contextual questionnaires for representative student cohorts before and during the COVID-19 pandemic.
 * [iRCL](ircl.md) - i-Ready Classroom Mathematics is Curriculum Associates’ core K–8 mathematics curriculum integrating print and digital instructional materials, practice tools, hands-on resources, and professional learning supports.
 * [IRLA](irla.md) - The Independent Reading Level Assessment (IRLA) is a reading assessment framework used as a potential screening tool within Response to Intervention.
 * [Is Your State Prioritizing Social, Emotional, and Academic Development? 50-state scan](is-your-state-prioritizing-social-emotional-and-academic-development-50-state-scan.md) - A 50-state policy-scan data resource released by Ed Trust in partnership with CASEL that compiles publicly available state policies so educators, advocates, and policymakers can compare support for students’ social, emotional, and academic development.
@@ -1275,6 +1276,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Picture Spelling Test with phonological plausibility scoring](picture-spelling-test-with-phonological-plausibility-scoring.md) - A researcher-designed picture-based spelling assessment with phonological-plausibility scoring, developed by Geers and Hayes for adolescents with prelingual deafness and cochlear implants.
 * [Pinpoint Learning mock-exam dataset of 119,034 UK students across 13 national-level mock exams](pinpoint-learning-mock-exam-dataset-of-119034-uk-students-across-13-national-level-mock-ex.md) - A question-level GCSE mathematics mock-exam results dataset extracted from the Pinpoint Learning platform and collected from teacher-uploaded assessments.
 * [Pirate Math](pirate-math.md) - Pirate Math is a one-to-one mathematics tutoring programme for third-grade students with calculation and word-problem difficulties, delivered through structured sessions using counting-up and missing-number strategies with a treasure-map reward system.
+* [PISA 2018 dataset on intercultural education and student psychosocial outcomes](pisa-2018-dataset-on-intercultural-education-and-student-psychosocial-outcomes.md) - A Programme for International Student Assessment 2018 dataset linking student-, school-, and country-level measures of intercultural education, teacher attitudes, and psychosocial outcomes across 58 countries, produced by the OECD.
 * [PISA 2022 Global Crises Module (GCM) student questionnaire](pisa-2022-global-crises-module-gcm-student-questionnaire.md) - A PISA student questionnaire module administered by the OECD to measure 15-year-old students' learning conditions and experiences during COVID-19 school closures.
 * [PIVOT](pivot.md) - PIVOT is a three-stage pedagogy-guided generative video tutoring framework developed by Xinchen Ma et al.
 * [Playworks](playworks.md) - Playworks is a school-based programme run by the Playworks nonprofit that places trained full-time coaches in schools to organize inclusive, active play during recess and throughout the school day.

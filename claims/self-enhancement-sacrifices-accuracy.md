@@ -46,3 +46,4 @@ Theoretical argument stating the second meta-bias. The authors align with Kunda'
 - [Cognitive efficiency motives lead perceivers to sacrifice accuracy in person perception](cognitive-efficiency-sacrifices-accuracy.md) — related
 - [In-group/out-group bias serves both cognitive efficiency and self-enhancement simultaneously](in-group-out-group-dual-motive-bias.md) — related
 - [Boundary conditions: some biases fit the two meta-biases only with argument or for some subgroups](meta-bias-boundary-conditions.md) — related
+- [Under situationally increased self-enhancement motivation, people prefer positive feedback regardless of its perceived accuracy](situational-self-enhancement-positive-feedback-regardless-accuracy.md) — a narrower finding that bears on this claim

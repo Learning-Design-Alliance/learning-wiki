@@ -54,3 +54,5 @@ Authors' closing recommendation slide (type e, interpretation). The presentation
 - [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — related
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
 - [Many children enter kindergarten without the foundational mathematics skills needed to succeed](children-enter-kindergarten-without-foundational-math-skills.md) — related
+- [Prior knowledge about natural numbers supports students dealing with algebraic properties of rational numbers](natural-number-knowledge-supports-algebraic-properties-rational-numbers.md) — a narrower finding that bears on this claim
+- [Understanding rational numbers is not indiscriminately difficult for students](rational-number-understanding-not-indiscriminately-difficult.md) — related
