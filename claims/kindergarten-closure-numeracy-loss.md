@@ -1,7 +1,7 @@
 ---
 type: claim
-title: COVID kindergarten closures caused the greatest school-readiness loss in basic counting and numeracy skills, growing from d = 0.16 after three months to d = 0.23 a year later
-description: COVID kindergarten closures caused the greatest school-readiness loss in basic counting and numeracy skills, growing from d = 0.16 after three months to d = 0.23 a year later
+title: "First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later"
+description: "First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later"
 id: kindergarten-closure-numeracy-loss
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 3
 ---
 
-# COVID kindergarten closures caused the greatest school-readiness loss in basic counting and numeracy skills, growing from d = 0.16 after three months to d = 0.23 a year later
+# First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i1` small
 
 ## Subclaims
-`q3 i1` After the first wave of kindergarten closures, numeracy skills showed the greatest learning loss (16 points, d = 0.16), and the cumulative loss a year later was a quarter of a standard deviation (d = 0.23), significantly larger than the short-term loss. [→ Gyöngyvér Molnár & Zoltán Hermann 2023](#gyongyver-molnar-zoltan-hermann-2023)
+`q3 i1` Compared with pre-pandemic cohorts, first graders assessed after the first wave of kindergarten closures showed the greatest learning loss in numeracy skills (16 points, d = 0.16), and the cumulative loss in the cohort starting school a year later was a quarter of a standard deviation (d = 0.23), significantly larger than the short-term loss. The comparison is between cohorts, not a randomised one. [→ Gyöngyvér Molnár & Zoltán Hermann 2023](#gyongyver-molnar-zoltan-hermann-2023)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Gyöngyvér Molnár & Zoltán Hermann. (2023). Short- and long-term effects of C
 
 `q3 · i1` · `associational · r3`
 
-Regression analysis of eDia diagnostic assessment data comparing 1st graders in autumn 2020 and 2021 with pre-pandemic samples, controlling for school characteristics, gender and age. The article reports "a quarter of a standard deviation (d = 0.23; 23 points)" cumulative numeracy loss, significantly larger than the initial d = 0.16 loss.
+Regression analysis of eDia diagnostic assessment data comparing 1st graders in autumn 2020 and 2021 with pre-pandemic samples, controlling for school characteristics, gender and age (a robustness check used only within-school variation). The loss is the cohort difference the authors attribute to the closures; as a before-and-during comparison of different cohorts, not a randomised design, it cannot rule out other pandemic-period differences. The article reports "a quarter of a standard deviation (d = 0.23; 23 points)" cumulative numeracy loss, significantly larger than the initial d = 0.16 loss.
 
 > "The greatest learning loss (16 points, 16% of one standard deviation, d = 0.16) was detected for numeracy skills (SD = 100). A year later, the cumulative impact of the kindergarten closures in numeracy and basic maths skills was a quarter of a standard deviation (d = 0.23; 23 points), which proved to be significantly larger (F (1, 269) = 3.98, p = .046)"
 

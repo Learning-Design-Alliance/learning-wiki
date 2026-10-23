@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Academic vocabulary and verbal reasoning had significant direct effects on both geometric and fraction skills over and above arithmetic skills. [→ Kleemans 2025](#kleemans-2025)
+`q3 i?` Academic vocabulary, verbal reasoning, nonverbal reasoning and working memory, measured in grade 4, had significant direct effects on both sixth-grade geometric and fraction skills over and above arithmetic skills, in a predictive (not causal) mediation model. [→ Kleemans 2025](#kleemans-2025)
 
 ## Evidence
 
@@ -35,9 +35,11 @@ Kleemans, T., Vissers, C. T. W. M., & Segers, E. (2025). Linguistic precursors o
 
 `q3 · i?` · `associational · r2`
 
-First mediation analysis (geometric skills as dependent variable, arithmetic as mediator, seven predictors, 5000 bootstraps) found significant direct effects of academic vocabulary and verbal reasoning, consistent with the advanced linguistic skills framework. No standardised effect sizes for individual paths were printed.
+Longitudinal study of 46 children with Developmental Language Disorder and 122 typically developing peers, with predictors measured in grade 4 and geometric and fraction skills in grade 6. Two mediation analyses (geometric and fraction skills as dependent variables, arithmetic as mediator, seven predictors, 5000 bootstraps, controlling for age, SES, sex and group) found significant direct effects of arithmetic skills, academic vocabulary, verbal reasoning, nonverbal reasoning and working memory on both outcomes, consistent with the advanced linguistic skills framework. The standardised path coefficients appear only in the article's Figure 1, not in its text; the full models explain R² = .66 of geometric and .62 of fraction skills. These are predictive associations and cannot show cause.
 
 > "Regarding geometric skills, the results indicated significant direct effects of arithmetic skills, academic vocabulary, verbal reasoning, nonverbal reasoning, and working memory."
+
+> "For fraction skills, significant direct effects were observed for arithmetic skills, academic vocabulary, verbal reasoning, nonverbal reasoning, and working memory."
 
 ## Discussion
 

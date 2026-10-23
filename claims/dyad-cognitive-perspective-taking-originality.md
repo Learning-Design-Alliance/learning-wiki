@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Listen/understand and Extend/revise, but no social-emotional perspective taking measure, facilitated dyads' originality regardless of dyad type"
-description: "Listen/understand and Extend/revise, but no social-emotional perspective taking measure, facilitated dyads' originality regardless of dyad type"
+title: "Dyads showing more Listen/understand and Extend/revise behaviour produced more original ideas regardless of dyad type, while no social-emotional perspective-taking measure was significantly associated with originality"
+description: "Dyads showing more Listen/understand and Extend/revise behaviour produced more original ideas regardless of dyad type, while no social-emotional perspective-taking measure was significantly associated with originality"
 id: dyad-cognitive-perspective-taking-originality
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Listen/understand and Extend/revise, but no social-emotional perspective taking measure, facilitated dyads' originality regardless of dyad type
+# Dyads showing more Listen/understand and Extend/revise behaviour produced more original ideas regardless of dyad type, while no social-emotional perspective-taking measure was significantly associated with originality
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Both Listen/understand and Extend/revise showed positive effects on dyads' originality that remained robust in the control model, while none of the social-emotional perspective taking measures showed an effect. [→ Bai 2026](#bai-2026)
+`q3 i?` Both Listen/understand and Extend/revise were positively associated with dyads' originality, and the associations remained significant in the control model, while none of the social-emotional perspective taking measures showed a significant association. The behaviours were observed, not manipulated, so this does not show that they caused the more original ideas. [→ Bai 2026](#bai-2026)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Bai, H.; Chan, L.; Luo, A.; Kroesbergen, E.H.; Christie, S. (2026). Creativity i
 
 `q3 · i?` · `causal · r2`
 
-Multilevel regressions on dyad-level data showed that the positive effects of Listen/understand and Extend/revise on originality "remained robust in the control model wherein no other predictor nor any control variable showed an effect"; both Listen/understand and Extend/revise but none of the social-emotional perspective measures facilitated dyads to generate more original ideas.
+Children were semi-randomly assigned to work with a (grand)parent or a stranger, but the perspective-taking behaviours were coded from the dyads' observed dialogue, not manipulated. Multilevel regressions (stimulus objects nested within dyads) found positive coefficients for Listen/understand and Extend/revise on originality that "remained robust in the control model wherein no other predictor nor any control variable showed an effect", with utterance number, inviting behaviour and fluency as controls. No social-emotional perspective-taking measure reached significance, which is not evidence that they have no effect. The authors read this as the two behaviours facilitating originality; the design shows an association, not a cause. The coefficients are in the article's Table 4.
 
 > "These results suggest that both Listen/understand and Extend/revise but none of the social-emotional perspective measures facilitated dyads to generate more original ideas, regardless of dyad type and how active and motivated dyads were."
 

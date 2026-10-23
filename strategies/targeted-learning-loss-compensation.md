@@ -38,7 +38,7 @@ The article recommends compensating accumulated COVID learning loss with targete
 
 ## Claims
 
-- [COVID kindergarten closures caused the greatest school-readiness loss in basic counting and numeracy skills, growing from d = 0.16 after three months to d = 0.23 a year later](../claims/kindergarten-closure-numeracy-loss.md) [+W]
+- [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later](../claims/kindergarten-closure-numeracy-loss.md) [+W]
 - [Kindergarten closures hit children in low-SES schools hardest in basic counting and numeracy skills (d = 0.2 in 2020; d = 0.3 in 2021), widening inequalities](../claims/kindergarten-low-ses-numeracy-loss.md) [+W]
 - [The negative effect of COVID remote learning was largest among lower primary low-SES students, reaching 25, 20 and 33 points (d = 0.25, 0.20, 0.33) in mathematics, reading and science by autumn 2021](../claims/lower-primary-low-ses-largest-loss.md) [+W]
 - [No SES difference was found in kindergarten children's learning loss for reading precursors and inductive reasoning](../claims/no-ses-gap-reading-reasoning-loss.md) [~W]

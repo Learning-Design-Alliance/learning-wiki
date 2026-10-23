@@ -59961,12 +59961,12 @@
 "type":"claim"
 },
 {
-"description":"Listen/understand and Extend/revise, but no social-emotional perspective taking measure, facilitated dyads' originality regardless of dyad type",
+"description":"Dyads showing more Listen/understand and Extend/revise behaviour produced more original ideas regardless of dyad type, while no social-emotional perspective-taking measure was significantly associated with originality",
 "evidence_strength":"moderate",
 "id":"dyad-cognitive-perspective-taking-originality",
 "path":"claims/dyad-cognitive-perspective-taking-originality.md",
 "status":"review",
-"title":"Listen/understand and Extend/revise, but no social-emotional perspective taking measure, facilitated dyads' originality regardless of dyad type",
+"title":"Dyads showing more Listen/understand and Extend/revise behaviour produced more original ideas regardless of dyad type, while no social-emotional perspective-taking measure was significantly associated with originality",
 "type":"claim"
 },
 {
@@ -109350,12 +109350,12 @@
 "type":"claim"
 },
 {
-"description":"COVID kindergarten closures caused the greatest school-readiness loss in basic counting and numeracy skills, growing from d = 0.16 after three months to d = 0.23 a year later",
+"description":"First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later",
 "evidence_strength":"moderate",
 "id":"kindergarten-closure-numeracy-loss",
 "path":"claims/kindergarten-closure-numeracy-loss.md",
 "status":"review",
-"title":"COVID kindergarten closures caused the greatest school-readiness loss in basic counting and numeracy skills, growing from d = 0.16 after three months to d = 0.23 a year later",
+"title":"First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later",
 "type":"claim"
 },
 {

@@ -46,7 +46,7 @@ SES-grouped regression analysis (Fig. 6) comparing learning loss in schools with
 - [Number Sense](../learner-variables/number-sense.md) — outcome: instruction changes it
 
 ## Related Claims
-- [COVID kindergarten closures caused the greatest school-readiness loss in basic counting and numeracy skills, growing from d = 0.16 after three months to d = 0.23 a year later](kindergarten-closure-numeracy-loss.md) — related
+- [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later](kindergarten-closure-numeracy-loss.md) — related
 - [Achievement gaps between low-poverty and high-poverty elementary schools grew by .10–.20 SD, primarily during 2020–2021](covid-poverty-gap-grew-010-020-sd-elementary.md) — related
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — a broader claim this one bears on
 - [No SES difference was found in kindergarten children's learning loss for reading precursors and inductive reasoning](no-ses-gap-reading-reasoning-loss.md) — related

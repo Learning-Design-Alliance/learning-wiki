@@ -43,5 +43,5 @@ SES-grouped regression analysis of Grades 2–8 learning loss by domain (Fig. 7)
 
 
 ## Related Claims
-- [COVID kindergarten closures caused the greatest school-readiness loss in basic counting and numeracy skills, growing from d = 0.16 after three months to d = 0.23 a year later](kindergarten-closure-numeracy-loss.md) — related
+- [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later](kindergarten-closure-numeracy-loss.md) — related
 - [No SES difference was found in kindergarten children's learning loss for reading precursors and inductive reasoning](no-ses-gap-reading-reasoning-loss.md) — related

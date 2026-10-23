@@ -121,7 +121,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Classroom activities and targeted interventions—peer collaboration, mind mapping, storytelling, and perspective-taking—improve children's divergent thinking](../claims/classroom-activities-interventions-improve-divergent-thinking.md) [+M] — instruction changes it
 - [Divergent-thinking-based creativity is positively linked with academic achievement, with stronger effects for psychometric than self-report measures](../claims/dt-creativity-positively-linked-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Research-led creativity training for teachers enhances children's divergent thinking and moves teachers' conceptions closer to researchers' definitions](../claims/teacher-creativity-training-enhances-children-divergent-thinking.md) [+M] — instruction changes it
-- [Listen/understand and Extend/revise, but no social-emotional perspective taking measure, facilitated dyads' originality regardless of dyad type](../claims/dyad-cognitive-perspective-taking-originality.md) [+M] — instruction changes it
+- [Dyads showing more Listen/understand and Extend/revise behaviour produced more original ideas regardless of dyad type, while no social-emotional perspective-taking measure was significantly associated with originality](../claims/dyad-cognitive-perspective-taking-originality.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

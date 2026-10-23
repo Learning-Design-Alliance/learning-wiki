@@ -10,7 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rosman-2017
-    title: "Rosman, T., Mayer, A.-K., Kerwer, M., & Krampen, G. (2017). The differential development of epistemic beliefs in psychology and computer science students: A four-wave longitudinal study. Learning and Instruction, 49, 166-177. https://doi.org/10.1016/j.learninstruc.2017.01.006"
+    resource: "https://doi.org/10.1016/j.learninstruc.2017.01.006"
+    title: "Rosman, T., Mayer, A.-K., Kerwer, M., & Krampen, G. (2017). The differential development of epistemic beliefs in psychology and computer science students: A four-wave longitudinal study. *Learning and Instruction, 49*, 166–177. [doi:10.1016/j.learninstruc.2017.01.006](https://doi.org/10.1016/j.learninstruc.2017.01.006)"
     author: "Rosman, T., Mayer, A.-K., Kerwer, M., & Krampen, G."
     q: 3
     i: "?"

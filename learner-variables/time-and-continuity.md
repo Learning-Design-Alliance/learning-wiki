@@ -170,7 +170,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [In a computer learning environment for electricity, the benefit of exploratory simulation time depended on instructional treatment (rule induction vs. rule application)](../claims/ati-exploration-time-by-rule-treatment-electricity.md) [~M] — an instructional effect differs with it
 - [Higher weekly childcare dosage was associated with lower probability of higher education enrollment](../claims/childcare-dosage-negative-association.md) [+M] — learners who differ on it differ in outcomes
 - [Students needed to attend at least five SI-PASS meetings before their exam performance significantly improved](../claims/si-pass-attendance-threshold-five-meetings.md) [+M] — learners who differ on it differ in outcomes
-- [COVID kindergarten closures caused the greatest school-readiness loss in basic counting and numeracy skills, growing from d = 0.16 after three months to d = 0.23 a year later](../claims/kindergarten-closure-numeracy-loss.md) [+W] — learners who differ on it differ in outcomes
+- [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later](../claims/kindergarten-closure-numeracy-loss.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

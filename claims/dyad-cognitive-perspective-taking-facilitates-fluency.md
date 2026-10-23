@@ -47,6 +47,6 @@ Multilevel regressions on two-level dyad data (stimulus objects nested within dy
 
 ## Related Claims
 - [Child-parent dyads generated more ideas and more original ideas than child-stranger dyads on the AUT, with no significant difference in appropriateness](child-parent-dyads-higher-fluency-originality-aut.md) — reports the opposite
-- [Listen/understand and Extend/revise, but no social-emotional perspective taking measure, facilitated dyads' originality regardless of dyad type](dyad-cognitive-perspective-taking-originality.md) — related
+- [Dyads showing more Listen/understand and Extend/revise behaviour produced more original ideas regardless of dyad type, while no social-emotional perspective-taking measure was significantly associated with originality](dyad-cognitive-perspective-taking-originality.md) — related
 - [Child-parent dyads manifested more cognitive perspective taking than child-stranger dyads, but no group difference was found in social-emotional perspective taking](child-parent-more-cognitive-perspective-taking-than-stranger-dyads.md) — related
 - [Listen/understand negatively affected dyads' appropriateness, while Extend/revise's negative effect became insignificant once Inviting behavior was controlled](listen-understand-reduces-appropriateness.md) — related

@@ -17,24 +17,16 @@ sources:
     i: "?"
     kind: associational
     rigour: 2
-  - id: kleemans-2025-2
-    resource: "https://doi.org/10.1016/j.learninstruc.2024.102019"
-    title: "Kleemans, T., Vissers, C. T. W. M., & Segers, E. (2025). Linguistic precursors of sixth-grade geometric and fraction skills in children with and without Developmental Language Disorder. Learning and Instruction, 95, 102019. https://doi.org/10.1016/j.learninstruc.2024.102019"
-    author: "Kleemans, T., Vissers, C. T. W. M., & Segers, E."
-    q: 3
-    i: "?"
-    kind: associational
-    rigour: 2
 ---
 
 # Phonological skills and naming speed indirectly predict sixth-grade geometric and fraction skills via arithmetic skills in both DLD and TD children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` The indirect effect of phonological skills on geometric and fraction skills via arithmetic skills was significant in the combined sample. [→ Kleemans 2025](#kleemans-2025)
-`q3 i?` The indirect effect of naming speed on geometric and fraction skills via arithmetic skills was significant in the combined sample. [→ Kleemans 2025 (2)](#kleemans-2025-2)
+`q3 i?` The indirect effect of grade-4 phonological skills on sixth-grade geometric and fraction skills via arithmetic skills was significant in the combined sample (standardised β = .06 for geometry, .11 for fractions), with no difference in strength between children with and without DLD. [→ Kleemans 2025](#kleemans-2025)
+`q3 i?` The indirect effect of grade-4 naming speed on sixth-grade geometric and fraction skills via arithmetic skills was significant in the combined sample (standardised β = .08 for geometry, .13 for fractions), with no difference in strength between children with and without DLD. [→ Kleemans 2025](#kleemans-2025)
 
 ## Evidence
 
@@ -44,17 +36,9 @@ Kleemans, T., Vissers, C. T. W. M., & Segers, E. (2025). Linguistic precursors o
 
 `q3 · i?` · `associational · r2`
 
-Mediation analysis (SPSS process, 5000 bootstraps) predicting fraction skills with arithmetic skills as mediator; the bootstrapped confidence interval for the phonological-skills indirect effect excluded zero, ab = 1.27, with the printed "β = .11". No standardized effect size beyond this unstandardized ab was printed.
+Longitudinal study of 46 children with Developmental Language Disorder and 122 typically developing peers, with predictors measured in grade 4 and geometric and fraction skills in grade 6. Two mediation analyses (SPSS PROCESS, 5000 bootstraps, arithmetic skills as mediator, controlling for age, SES, sex and group) found significant indirect effects of phonological skills and naming speed via arithmetic: for geometric skills ab = 1.04, 95% CI [.33, 2.00], β = .06 (phonological) and ab = 1.26, CI [.45, 2.15], β = .08 (naming speed); for fraction skills ab = 1.27, CI [.51, 2.31], β = .11 and ab = 1.54, CI [.77, 2.40], β = .13. The printed βs are standardised indirect effects, not a d-family effect size, so no `i` code is given. Moderated mediation found no group differences in the strength of these paths. These are predictive associations and cannot show cause.
 
-> "The indirect effects of phonological skills (ab = 1.27, 95% CI = [.51–2.31, β = .11]), and naming speed (ab = 1.54, 95% CI = [.77–2.40], β = .13) via arithmetic skills were significant."
-
-### Kleemans 2025 (2)
-
-Kleemans, T., Vissers, C. T. W. M., & Segers, E. (2025). Linguistic precursors of sixth-grade geometric and fraction skills in children with and without Developmental Language Disorder. Learning and Instruction, 95, 102019. https://doi.org/10.1016/j.learninstruc.2024.102019
-
-`q3 · i?` · `associational · r2`
-
-Same mediation model for fraction skills: the naming-speed indirect effect via arithmetic was significant, ab = 1.54, bootstrapped CI [.77–2.40], with the printed "β = .13". No standardised effect size was printed for this path.
+> "In addition, the indirect effects of phonological skills (ab = 1.04, 95% CI = [.33–2.00]; β = .06) and naming speed (ab = 1.26, 95% CI = [.45–2.15]; β = .08), via arithmetic skills were significant, as the bootstrapped 95% confidence intervals did not include 0."
 
 > "The indirect effects of phonological skills (ab = 1.27, 95% CI = [.51–2.31, β = .11]), and naming speed (ab = 1.54, 95% CI = [.77–2.40], β = .13) via arithmetic skills were significant."
 

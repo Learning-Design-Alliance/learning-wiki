@@ -64,6 +64,6 @@ MANOVA/MANCOVA comparing the four social-emotional perspective taking codes betw
 ## Related Claims
 - [Actor and partner effects of perspective taking were moderated by subject type and dyad type, with children of child-stranger dyads particularly benefitting from their own Listen/understand and Extend/revise behaviors](apim-perspective-taking-effects-moderated-subject-dyad-type.md) — related
 - [Child-parent dyads generated more ideas and more original ideas than child-stranger dyads on the AUT, with no significant difference in appropriateness](child-parent-dyads-higher-fluency-originality-aut.md) — related
-- [Listen/understand and Extend/revise, but no social-emotional perspective taking measure, facilitated dyads' originality regardless of dyad type](dyad-cognitive-perspective-taking-originality.md) — related
+- [Dyads showing more Listen/understand and Extend/revise behaviour produced more original ideas regardless of dyad type, while no social-emotional perspective-taking measure was significantly associated with originality](dyad-cognitive-perspective-taking-originality.md) — related
 - [Regardless of dyad type, dyads' Extend/revise and Recognize/agree behaviors facilitated fluency, while child-parent dyad type showed a negative effect](dyad-cognitive-perspective-taking-facilitates-fluency.md) — related
 - [Listen/understand negatively affected dyads' appropriateness, while Extend/revise's negative effect became insignificant once Inviting behavior was controlled](listen-understand-reduces-appropriateness.md) — related
