@@ -33,7 +33,7 @@ sources:
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Retrieval practice improved statistics concept learning only when assessed after a delay, with the benefit dependent on the amount of practice during acquisition. [→ Katharina Scheiter 2026](#katharina-scheiter-2026)
+`q2 i?` A commentary reports that, in Corral and Carpenter's (2025) experiment, retrieval practice improved statistics concept learning only when assessed after a delay, with the benefit dependent on the amount of practice during acquisition. [→ Katharina Scheiter 2026](#katharina-scheiter-2026)
 `q2 i?` Retrieval practice embedded in worked examples (predicting upcoming problem-solving steps) produced lasting learning effects. [→ Katharina Scheiter 2026 (2)](#katharina-scheiter-2026-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Katharina Scheiter, Alexander Renkl. (2026). On the challenges of investigating 
 
 `q2 · i?` · `theoretical · r3`
 
-The commentary reports an experiment on acquisition of basic statistics concepts; the authors interpret the delayed-only benefit as aligning with a desirable-difficulties explanation, noting improvement "only when assessed in a delayed fashion, but not when it was measured immediately after learning". No effect size is printed here.
+This is a commentary with no data of its own: it summarises Corral and Carpenter (2025), a separate experiment on acquisition of basic statistics concepts, so this entry is indirect evidence of that study. The commentary reports that the lasting-learning effect depended on the amount of practice during acquisition, and interprets the delayed-only benefit as aligning with a desirable-difficulties explanation, retrieval practice improving performance "only when assessed in a delayed fashion, but not when it was measured immediately after learning". Its Table 1 labels the effect on the criterial tests "medium-to-large" in words; no numeric effect size is printed, so impact is coded `i?`.
 
 > "Corral and Carpenter (2025) provided evidence for lasting learning regarding the acquisition of basic concepts in statistics, which was dependent on the amount of practicing during the acquisition phase, however. Moreover, their findings align with a desirable-difficulties explanation (E.L. Bjork & R.A. Bjork & Bjork, 2011) in that retrieval practice improved performance only when assessed in a delayed fashion, but not when it was measured immediately after learning."
 

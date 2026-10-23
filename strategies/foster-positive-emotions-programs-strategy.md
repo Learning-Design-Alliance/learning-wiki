@@ -39,7 +39,7 @@ The article's authors propose that the strongest practical application of their 
 - supporting student-teacher relationship quality and achievement
 
 ### Affordances
-- [Control Value Theory Relationship Emotion Reciprocity](../theories/control-value-theory-relationship-emotion-reciprocity.md)
+- Control-value theory of achievement emotions (Pekrun, 2006); no wiki page yet
 
 ## Claims
 
