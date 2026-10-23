@@ -40634,5 +40634,33 @@
  "technology-tool\tAI-enabled text-messaging chatbot communication\tstandard conventional university communications without chatbot access": {
   "label": "AI chatbot communication vs standard university communication without chatbot",
   "treatment_is_a": true
+ },
+ "autonomy-support\thigher perceived teacher psychological control\tlower perceived teacher psychological control": {
+  "label": "higher vs lower perceived teacher psychological control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix sessions training production and comprehension of spatial terms\tdaily daycare program without training": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsix-session spatial-language training in production and comprehension\tnon-trained control group": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tself-scoring answers\tbefore self-scoring": {
+  "label": "after self-scoring vs before self-scoring",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tself-scoring before the second-order regulation judgment\tregulation judgment before self-scoring": {
+  "label": "self-scoring before second-order regulation judgment vs second-order regulation judgment before self-scoring",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tself-scoring followed by a regulation confidence judgment\tregulation confidence judgment before self-scoring": {
+  "label": "self-scoring before regulation confidence judgment vs regulation confidence judgment before self-scoring",
+  "treatment_is_a": true
+ },
+ "media-design\tsame main characters across paired passages\tdifferent main characters across paired passages": {
+  "label": "same characters vs different characters",
+  "treatment_is_a": true
  }
 }

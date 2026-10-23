@@ -96,3 +96,4 @@ Thirty-eight children aged 6–11 with handwriting dysfunction were randomly ass
 - [Process-oriented (bottom-up) therapies for DCD show weak or null effects, while task-oriented approaches are effective in improving motor performance](process-oriented-weak-task-oriented-effective-dcd.md) — related
 - [Intervention types (cue-generation encoding-based, retrieval-based, cue-attention, cue-selection) do not substantially differ in effectiveness](intervention-types-no-substantial-difference.md) — related
 - [Arm-body training improves overall legibility of letter script while pencil-and-paper training reduces it](arm-body-training-improves-overall-legibility.md) — related
+- [Accuracy in retrieving orthographic and semantic information is not significantly affected by time spent handwriting or typing during learning](writing-duration-not-related-to-retrieval-accuracy.md) — related

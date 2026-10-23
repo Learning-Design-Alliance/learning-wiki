@@ -50,3 +50,4 @@ Controlled comparison of 23 children with dyslexia against 23 chronological-age 
 - [Children with dyslexia are more impacted by the graphic complexity of words than both chronological-age and spelling-age matched controls](dyslexia-graphic-complexity-handwriting-impact.md) — related
 - [Prior research indicates children with dyslexia frequently show poor and slow handwriting skills, but the cause remained unclear](dyslexia-prior-poor-slow-handwriting-evidence.md) — related
 - [Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency](handwriting-intervention-type-equivalence.md) — related
+- [Readers with developmental dyslexia show better spelling and nonword-image association performance when novel words are learned through typing rather than handwriting](dyslexia-typing-better-spelling-and-association-than-handwriting.md) — related

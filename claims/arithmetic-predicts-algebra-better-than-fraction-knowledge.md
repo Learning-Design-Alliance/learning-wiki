@@ -51,3 +51,4 @@ The review attributes this comparative finding to Barbieri et al. (2025), report
 - [Fraction knowledge is consistently linked to algebra success, though findings vary by measure](fraction-knowledge-predicts-algebra.md) — related
 - [Number line estimation and numerical magnitude comparison correlate with mathematics achievement (r = .24 to .44), with number line estimation more strongly related in older children](number-sense-tasks-correlate-with-math-achievement.md) — related
 - [First graders' whole number arithmetic knowledge predicts seventh graders' fraction arithmetic knowledge](wn-arithmetic-grade1-predicts-fraction-arithmetic-middle-school.md) — related
+- [The relation between fraction magnitude understanding and mathematics achievement is a general cognitive characteristic, not attributable to specifics of the U.S. educational system, though instruction quality may strengthen or weaken it](magnitude-achievement-relation-general-cognitive.md) — related

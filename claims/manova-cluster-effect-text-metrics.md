@@ -53,3 +53,4 @@ Omnibus MANOVA treating the six benchmark scores as joint dependent variables to
 - [Personalized responses remain semantically grounded in the shared knowledge base while varying in surface-level expression and structure](semantic-grounding-with-surface-variation.md) — related
 - [Text reproducers copied nearly all of their final text from ChatGPT with long verbatim sequences, while text integrators showed fragment-level micro-uptake](text-reproducers-near-verbatim-copying.md) — related
 - [Textbook format choice produces a significant multivariate difference in university students' motivation and self-regulated learning scores](textbook-format-manova-omnibus-difference.md) — related
+- [Surface-feature similarity of passage pairs does not affect self-derivation performance or patterns of episode-detail endorsement](surface-similarity-no-effect-integration.md) — related

@@ -46,3 +46,4 @@ The same statistical models estimating the postpolicy effect were applied to pre
 - [Retention at the promotion gate increased the likelihood of dropping out by about 8 percentage points by age 17 and 13 points by age 19](gate-retention-increased-dropout-likelihood.md) — related
 - [Prepolicy retained students dropped out earlier, but postpolicy retained students showed elevated dropout risk throughout their remaining years rather than at early ages](postpolicy-retention-elevated-risk-all-ages.md) — related
 - Systemwide CPS cumulative dropout percentages rose from 8.1 to 33.1 over five years — related
+- [Dropout intentions increased over the school year among 9th-grade students](dropout-intentions-increase-over-school-year.md) — related

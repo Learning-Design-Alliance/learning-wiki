@@ -52,3 +52,5 @@ Narrative review statement: the literature is mixed on age differences in confid
 - [Children's recognition choices overwhelmingly follow the alternative given the highest pre-monitoring judgment](highest-pre-monitoring-judgment-predicts-recognition-choice.md) — related
 - [Young and older adults make accurate retrospective confidence judgments but not prospective ease-of-selection judgments about their arithmetic strategy selections](retrospective-not-prospective-accuracy-strategy-selection.md) — related
 - [Adults' confidence judgments track answer accuracy: confidence is higher on correct than incorrect general-knowledge trials (metacognitive monitoring)](confidence-higher-correct-than-incorrect-trials.md) — related
+- [Children's confidence in endorsing statements indicates they were not confused by hybrid statements](confidence-judgments-hybrid-not-confusion.md) — related
+- [Students feel quite confident about their monitoring and regulation judgments even before self-scoring](students-confident-judgments-before-self-scoring.md) — related

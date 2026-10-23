@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 440 claims (206 for, 212 mixed, 22 against) · 221 studies (105 causal, 48 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 80 of 221 report an effect size · 433 claims rest on one study
+> **Evidence** · 445 claims (206 for, 217 mixed, 22 against) · 223 studies (107 causal, 48 associational, 25 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 5 design), `q1`–`q4` · 81 of 223 report an effect size · 438 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -483,6 +483,11 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Oral explaining yields more accurate meta-comprehension judgments than written explaining and retrieval practice](../claims/oral-explaining-improves-meta-comprehension-accuracy.md) [~W]
 - [Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming](../claims/model-answers-no-monitoring-accuracy-effect.md) [-W] — attached 2026-10-23 from Hepner et al. (2024), which proposed "Situation-Model Approach to Metacomprehension (cue-utilization account)"; tests this page's relationship.
 - [Secondary students tend to overestimate their text comprehension, though monitoring is relatively accurate in this sample](../claims/students-overestimate-text-comprehension-delayed-diagramming.md) [~W]
+- [Primary school students show no awareness of their monitoring judgment accuracy before self-scoring in mathematics problem solving](../claims/primary-students-no-monitoring-accuracy-awareness.md) [~W] — attached 2026-10-23 from Oudman et al. (2024), which proposed "Second-order judgments (SOJs) as a measure of accuracy awareness in self-regulated learning"; tests this page's relationship.
+- [Task performance does not affect primary school students' monitoring accuracy awareness](../claims/task-performance-no-effect-monitoring-awareness.md) [~W]
+- [Students feel quite confident about their monitoring and regulation judgments even before self-scoring](../claims/students-confident-judgments-before-self-scoring.md) [~W]
+- [Task performance does not affect primary school students' regulation accuracy awareness](../claims/task-performance-no-effect-regulation-awareness.md) [~W]
+- [Children's confidence in endorsing statements indicates they were not confused by hybrid statements](../claims/confidence-judgments-hybrid-not-confusion.md) [~W]
 
 ## The evidence by question
 

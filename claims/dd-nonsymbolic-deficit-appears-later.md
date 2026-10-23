@@ -51,3 +51,4 @@ Narrative review synthesis ordering non-symbolic comparison studies by participa
 - [Adults with dyslexia without dyscalculia show no deficit in nonsymbolic numerical magnitude processing](dyslexia-without-dyscalculia-intact-magnitude-processing.md)
 - [Measures of the magnitude representation (ratio and distance effects) do not discriminate children with DD from matched controls](dd-magnitude-representation-theory-not-supported.md) — reports the opposite
 - [Anthropomorphic explanations appear in older children but less frequently, with only a minority of 14-year-olds' fuse explanations anthropomorphic](anthropomorphic-explanations-lessen-with-age.md) — related
+- [Training effects on spatial language comprehension and verbal number skills tended to appear in younger rather than older children](age-moderates-training-effects.md) — related

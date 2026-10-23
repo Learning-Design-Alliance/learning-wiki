@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**624 entries** · 0 stable · 624 in review · 0 drafts
+**625 entries** · 0 stable · 625 in review · 0 drafts
 
 ---
 
@@ -697,6 +697,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [What Works Clearinghouse (WWC) design standards](what-works-clearinghouse-wwc-design-standards.md) - The What Works Clearinghouse (WWC), established in 2002 by the U.S.
 * [What Works Clearinghouse evidence-based standards for reviewing transition program research](what-works-clearinghouse-evidence-based-standards-for-reviewing-transition-program-researc.md) - The review applies a structured evidence-rating framework in which programs receive categorical effectiveness ratings such as mixed effects and potentially positive effects for specific outcome domains like employment, postsecondary education, and independent living.
 * [Within-person versus between-person cross-lagged panel modeling (RI-CLPM versus CLPM)](within-person-versus-between-person-cross-lagged-panel-modeling-ri-clpm-versus-clpm.md) - A methodological framework distinguishing two ways of analyzing cross-lagged panel data.
+* [Within-student multilevel analysis of judgment accuracy awareness](within-student-multilevel-analysis-of-judgment-accuracy-awareness.md) - The article argues that true awareness of judgment accuracy requires analyzing whether an individual student's increase in judgment accuracy is accompanied by an increase in confidence, which demands multiple measurements per student.
 * [Within-study comparison (WSC) methodology](within-study-comparison-wsc-methodology.md) - A within-study comparison examines \"whether and in what context nonexperimental methods can successfully replicate the results of randomized experiments.\" The article situates its contribution in this growing literature and applies a WSC to charter school effects on student achievement, using a rand
 * [Working classification of chatbot and language-model technologies for AI coaching](working-classification-of-chatbot-and-language-model-technologies-for-ai-coaching.md) - The review proposes a working taxonomy of coaching technologies, from rule-based programming (fixed rules and scripted responses) through task-oriented and ML-enhanced NLP/NLU chatbots to early LLMs and mass-market general-purpose LLMs.
 * [Workload dynamics framework: temporal metrics of workload variation, intensity, and distribution over a term](workload-dynamics-framework-temporal-metrics-of-workload-variation-intensity-and-distribut.md) - The article proposes analyzing workload beyond static or average time-on-task by quantifying its temporal patterns.

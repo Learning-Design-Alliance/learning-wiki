@@ -13,7 +13,7 @@ generated:
 # Self-Monitoring
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (5 for, 11 mixed) · 15 studies (6 quant-synthesis, 5 causal, 2 associational, 1 review, 1 theoretical), `q2`–`q4` · 6 of 15 report an effect size · 12 claims rest on one study
+> **Evidence** · 18 claims (5 for, 13 mixed) · 16 studies (6 causal, 6 quant-synthesis, 2 associational, 1 review, 1 theoretical), `q2`–`q4` · 6 of 16 report an effect size · 14 claims rest on one study
 
 ## Description
 Self-monitoring is the element in which learners track their own attention, behavior, progress, or accuracy during learning.
@@ -42,6 +42,8 @@ Self-monitoring is the element in which learners track their own attention, beha
 - [Interventions to improve monitoring accuracy in problem-solving tasks have a small positive overall effect (g = 0.25)](../claims/monitoring-accuracy-interventions-small-positive-effect-problem-solving.md) [+W]
 - [Solving an isomorphic practice problem after studying a worked example improves prospective monitoring accuracy, with mixed effects on regulation accuracy](../claims/practice-problem-after-example-improves-monitoring.md) [~W]
 - [Secondary students tend to overestimate their text comprehension, though monitoring is relatively accurate in this sample](../claims/students-overestimate-text-comprehension-delayed-diagramming.md) [~W]
+- [Task performance does not affect primary school students' monitoring accuracy awareness](../claims/task-performance-no-effect-monitoring-awareness.md) [~W]
+- [Task performance does not affect primary school students' regulation accuracy awareness](../claims/task-performance-no-effect-regulation-awareness.md) [~W]
 
 ## The evidence by question
 - *Does having learners record their own on-task behaviour at set intervals improve that behaviour, and for whom?* [Self Monitoring Improves On Task Behavior](../claims/self-monitoring-improves-on-task-behavior.md) [+S]

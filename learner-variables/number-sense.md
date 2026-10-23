@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 79 claims (55 show a difference, 15 mixed, 9 no difference) · 31 studies (18 associational, 5 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 12 of 31 report an effect size · 77 claims rest on one study
+> **Evidence** · 87 claims (61 show a difference, 17 mixed, 9 no difference) · 34 studies (20 associational, 6 causal, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q3` · 13 of 34 report an effect size · 85 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -114,6 +114,14 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Initial levels and growth in numerical relational skills contribute to counting skill development, suggesting NRS may precede CS](../claims/nrs-contributes-to-cs-development.md) [+W] — learners who differ on it differ in outcomes
 - [Numerical relational and counting skills both develop nonlinearly between mid-Kindergarten year 1 and the end of Grade 1, with NRS decelerating and CS accelerating](../claims/nrs-cs-nonlinear-growth-trajectories.md) [+W] — learners who differ on it differ in outcomes
 - [The interdependence between numerical relational and counting skills is weaker in at-risk learners](../claims/weaker-nrs-cs-interdependence-at-risk.md) [~M] — learners who differ on it differ in outcomes
+- [Both nonsymbolic and symbolic magnitude comparison skills longitudinally predict mathematical achievement above and beyond IQ and working memory](../claims/magnitude-comparison-predicts-math-beyond-iq-wm.md) [+M] — learners who differ on it differ in outcomes
+- [Fraction magnitude comparison correlated with general math achievement only in the U.S. samples, indicating number line estimation and magnitude comparison tap partly different aspects of fraction magnitude understanding](../claims/magnitude-comparison-task-validity-fractions.md) [~M] — learners who differ on it differ in outcomes
+- [Fraction magnitude understanding, measured by number line estimation, predicts general mathematics achievement beyond fraction arithmetic skill in 5 of 6 Belgian, Chinese and U.S. grade samples, though not among Chinese 8th graders](../claims/fraction-magnitude-predicts-achievement-three-continents.md) [+M] — learners who differ on it differ in outcomes
+- [Nonsymbolic magnitude comparison is only moderately predictive of future mathematical achievement, and only in kindergarten](../claims/nonsymbolic-comparison-moderately-predictive-kindergarten-only.md) [~M] — learners who differ on it differ in outcomes
+- [Spatial language training improves children's numerical magnitude understanding (number words comparison)](../claims/spatial-language-training-improves-magnitude-understanding.md) [+M] — instruction changes it
+- [Symbolic magnitude comparison is a robust and consistent longitudinal predictor of children's future mathematical achievement across kindergarten, grade 1 and grade 2](../claims/symbolic-comparison-robust-longitudinal-predictor-math.md) [+M] — learners who differ on it differ in outcomes
+- [Symbolic magnitude comparison is a stronger longitudinal predictor of mathematical achievement than nonsymbolic comparison](../claims/symbolic-stronger-predictor-than-nonsymbolic.md) [+M] — learners who differ on it differ in outcomes
+- [The relation between fraction magnitude understanding and mathematics achievement is a general cognitive characteristic, not attributable to specifics of the U.S. educational system, though instruction quality may strengthen or weaken it](../claims/magnitude-achievement-relation-general-cognitive.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

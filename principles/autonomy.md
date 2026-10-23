@@ -43,7 +43,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (18 for, 26 mixed, 2 against) · 45 studies (12 review, 8 theoretical, 6 causal, 6 associational, 6 qualitative, 4 quant-synthesis, 3 design), `q1`–`q4` · 6 of 45 report an effect size · 38 claims rest on one study
+> **Evidence** · 47 claims (19 for, 26 mixed, 2 against) · 46 studies (12 review, 8 theoretical, 7 associational, 6 causal, 6 qualitative, 4 quant-synthesis, 3 design), `q1`–`q4` · 6 of 46 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ Read against the model on 2026-10-19. Of the eighteen claims that had gathered h
 - [A minority of studies report negative autonomy support–structure correlations, concentrated among teacher-report measures](../claims/negative-correlations-teacher-reports.md) [~W] — attached 2026-10-21 from Alexandra Patzak (2025), which proposed "Blend teacher autonomy support with provision of structure rather than treating them as opposites"; tests this page's relationship.
 - [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](../claims/autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) [+W] — attached 2026-10-22 from Flunger et al. (2024), which proposed "Support autonomy at both the individual and class level; class-directed support alone omits essential information"; tests this page's relationship.
 - [Students' perceived relative lack of autonomy support positively predicts extrinsic regulation](../claims/relative-lack-of-autonomy-support-predicts-extrinsic-regulation.md) [+W] — attached 2026-10-22 from Flunger et al. (2024), which proposed "Support autonomy at both the individual and class level; class-directed support alone omits essential information"; tests this page's relationship.
+- [Teacher psychological control relates indirectly to reduced vitality and to both disengagement forms through the two need frustrations](../claims/teacher-control-indirect-disengagement-pathways.md) [+W] — attached 2026-10-23 from Stephen R. Earl et al. (2016), which proposed "Avoid psychologically controlling strategies in the classroom to prevent both active and passive disengagement"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

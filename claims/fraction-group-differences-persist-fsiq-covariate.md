@@ -51,3 +51,4 @@ Each ANOVA was repeated as an ANCOVA with WASI full scale IQ (Grade 3) as a cova
 - [Visual fraction models yield more accurate magnitude comparisons than Arabic numeral fractions for all ability groups, but the visual model advantage persists through Grade 8 only for children with MLD](visual-model-advantage-persists-mld.md) — related
 - [Children with MLD score lower in self-image than typical and high achievers when IQ is partialled out](mld-lower-self-image-than-ta-ha.md) — related
 - [Children with MLD report higher learning mathematics anxiety than LA, TA, and HA peers, but not higher evaluation anxiety](mld-higher-lma-not-mea.md) — related
+- [Fraction division showed large country differences (Chinese 91%, Belgian 71%, U.S. 22% correct), while fraction addition showed a Country × Grade interaction](fraction-division-addition-country-differences.md) — related

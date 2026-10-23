@@ -69,3 +69,4 @@ Event-history modeling of dropout through age 19 excluding the last two postpoli
 - [The postpolicy retention effect on dropout was smaller than the prepolicy retention relationship, but its systemwide impact was larger](postpolicy-retention-effect-smaller-but-larger-impact.md) — related
 - [Nearly a third of eighth graders retained or sent to Transition Centers in 1997 had dropped out by fall 1999, while overall eighth-grade dropout rates stayed stable](retained-eighth-graders-high-dropout.md) — a narrower finding that bears on this claim
 - [Dropout rates at age 17 remained at prepolicy levels for the first two cohorts through the promotion gate, then declined to 25 percent with the fourth cohort](chicago-gate-dropout-rates-flat-then-declined.md) — related
+- [Dropout intentions increased over the school year among 9th-grade students](dropout-intentions-increase-over-school-year.md) — related

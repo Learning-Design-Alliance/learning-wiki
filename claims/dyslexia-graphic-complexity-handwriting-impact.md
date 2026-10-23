@@ -48,3 +48,4 @@ Group-by-complexity interaction in the General Linear Mixed Model analysis of th
 ## Related Claims
 - [Children with dyslexia show no global handwriting-quality deficit relative to chronological-age and spelling-age matched typically developing children](dyslexia-no-global-handwriting-quality-deficit.md) — related
 - [Prior research indicates children with dyslexia frequently show poor and slow handwriting skills, but the cause remained unclear](dyslexia-prior-poor-slow-handwriting-evidence.md) — related
+- [Readers with developmental dyslexia show better spelling and nonword-image association performance when novel words are learned through typing rather than handwriting](dyslexia-typing-better-spelling-and-association-than-handwriting.md) — related

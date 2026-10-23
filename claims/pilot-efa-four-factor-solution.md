@@ -53,3 +53,4 @@ Pilot EFA (principal axis factoring with oblimin rotation) with an independent s
 - The MRIM scale has a three-factor structure of planning, monitoring, and evaluating of interactive metadiscourse, cross-validated by EFA and CFA — related
 - [Pilot testing found the initial problem posing test response time too short, with most pilot students unable to complete all three items](pilot-response-time-insufficient-problem-posing-test.md) — related
 - [A principal component analysis of the new cognitive load questionnaire yields a 15-item, three-component solution explaining 74.3% of total variance](pca-three-component-15-item-cognitive-load-solution.md) — related
+- [Children's scientific reasoning at the end of primary school has a three-component structure: Hypothesis validation, Experimentation, and Generating conclusions](three-component-scientific-reasoning-structure.md) — related

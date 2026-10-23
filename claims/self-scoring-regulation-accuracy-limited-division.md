@@ -47,3 +47,4 @@ Multilevel regression of self-scoring effects on absolute regulation accuracy. A
 - [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](self-scoring-improves-monitoring-accuracy-math.md) — related
 - [Before self-scoring, the unskilled-and-unaware effect in regulation accuracy appears on multiplication but not on division tasks](unskilled-unaware-regulation-before-self-scoring-task-dependent.md) — related
 - [Students' monitoring judgments predict their regulation judgments before and after self-scoring](monitoring-judgments-predict-regulation-judgments.md) — related
+- [Self-scoring improves primary school students' regulation judgment accuracy in mathematics](self-scoring-improves-regulation-judgment-accuracy.md) — related

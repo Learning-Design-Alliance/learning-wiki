@@ -54,3 +54,4 @@ Partial correlation analysis in the 98-child sample; the sole number sense measu
 - [Kindergarten children's non-symbolic addition performance correlates with end-of-year mathematics achievement, independent of literacy (Experiment 1)](nonsymbolic-addition-predicts-kindergarten-math-exp1.md) — related
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — related
 - [The association between one-digit comparison and mathematics achievement decreases across grades, while the two-digit association remains stable](one-digit-math-association-decreases-with-grade.md) — related
+- [Symbolic magnitude comparison is a robust and consistent longitudinal predictor of children's future mathematical achievement across kindergarten, grade 1 and grade 2](symbolic-comparison-robust-longitudinal-predictor-math.md) — related

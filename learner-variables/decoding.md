@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (55 show a difference, 13 mixed, 15 no difference) · 58 studies (17 quant-synthesis, 16 associational, 13 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 21 of 58 report an effect size · 78 claims rest on one study
+> **Evidence** · 89 claims (59 show a difference, 15 mixed, 15 no difference) · 60 studies (17 quant-synthesis, 17 associational, 14 causal, 7 review, 3 design, 2 theoretical), `q1`–`q4` · 22 of 60 report an effect size · 84 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -124,6 +124,12 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Decoding ability predicted retrieval, transfer, and retention, and interacted with modality so that video retention benefits were largest for children with weaker decoding](../claims/decoding-interaction-modality-retention.md) [~W] — an instructional effect differs with it
 - [Reading comprehension predicted retrieval, transfer, and retention more strongly than decoding, with a weaker modality interaction favoring lower-comprehension children in retention](../claims/reading-comprehension-predicts-multimedia-learning.md) [+W] — learners who differ on it differ in outcomes
 - [Reading is the strongest predictor of spelling across all word types, while sublexical knowledge predicts pseudoword spelling only and is negatively associated with irregular word spelling](../claims/reading-strongest-predictor-sublexical-pseudoword-only.md) [+W] — learners who differ on it differ in outcomes
+- [At the end of French first grade, T2 decoding skills and T2 lower level language skills predicted reading comprehension, but T2 discourse skills did not](../claims/t2-decoding-and-lll-predict-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Children with reading difficulties improved in pseudoword reading only when phonological awareness or rhythm was trained separately, not in the combined group](../claims/pseudoword-reading-struggling-readers-separate-training.md) [~M] — instruction changes it
+- [End-of-first-grade reading comprehension in French pupils was predicted by T1 decoding precursors, T2 decoding skills and T2 LLL skills, with only marginal contribution of T2 discourse skills](../claims/sem2-final-prediction-profile-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [In French first-graders, T1 decoding precursors directly predicted T2 reading comprehension above their contribution through decoding skills](../claims/decoding-precursors-direct-effect-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Rhythm training for children with reading difficulties may improve novel-word reading but should be done separately from phonological awareness training](../claims/rhythm-training-separate-from-phonological-awareness.md) [~M] — instruction changes it
+- [Word reading improved in all three training groups among children without reading difficulties, with no group-by-time interaction](../claims/word-reading-improved-all-training-groups.md) [+M] — instruction changes it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

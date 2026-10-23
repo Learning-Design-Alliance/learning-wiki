@@ -52,3 +52,4 @@ Hierarchical regression models in a longitudinal study of 193 children assessed 
 - [Symbolic number predictors account for substantial additional variance in grade 1 math outcomes beyond counting and domain general predictors](symbolic-number-r2-change-grade1-math.md) — possibly the same claim (merge candidate)
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
 - [Number sense measures are non-significant predictors of math once more robust predictors are included](number-sense-non-predictor-of-math.md) — related
+- [Symbolic magnitude comparison is a robust and consistent longitudinal predictor of children's future mathematical achievement across kindergarten, grade 1 and grade 2](symbolic-comparison-robust-longitudinal-predictor-math.md) — related

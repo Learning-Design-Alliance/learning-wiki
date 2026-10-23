@@ -30,7 +30,7 @@ sources:
 # Self-monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (10 for, 15 mixed, 3 against) · 31 studies (11 causal, 8 quant-synthesis, 6 review, 3 associational, 3 theoretical), `q1`–`q4` · 7 of 31 report an effect size · 19 claims rest on one study
+> **Evidence** · 29 claims (10 for, 16 mixed, 3 against) · 32 studies (12 causal, 8 quant-synthesis, 6 review, 3 associational, 3 theoretical), `q1`–`q4` · 7 of 32 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,7 @@ Accuracy of judgement, on-task behaviour, immediate task performance, delayed re
 - [Monitoring accuracy interventions show larger effects in laboratory settings than in classroom settings, but classroom effects remain significantly positive](../claims/laboratory-larger-effects-than-classroom-monitoring-accuracy-interventions.md) [~W]
 - [Providing a standard answer to compare against improves the accuracy of students' retrospective monitoring judgments](../claims/answer-standard-improves-retrospective-monitoring.md) [~W]
 - [Boundary conditions: explicit relation-focused instructions and no access to products during judgment are needed for mapping and drawing to improve monitoring accuracy](../claims/mapping-drawing-boundary-conditions-instructions-and-retrieval.md) [~W]
+- [Students feel quite confident about their monitoring and regulation judgments even before self-scoring](../claims/students-confident-judgments-before-self-scoring.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md) — monitoring depends on having a target worth tracking.

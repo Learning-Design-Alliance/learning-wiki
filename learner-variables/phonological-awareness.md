@@ -13,7 +13,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (49 show a difference, 15 mixed, 19 no difference) · 52 studies (22 associational, 17 causal, 7 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q3` · 15 of 52 report an effect size · 81 claims rest on one study
+> **Evidence** · 85 claims (51 show a difference, 15 mixed, 19 no difference) · 53 studies (22 associational, 18 causal, 7 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q3` · 16 of 53 report an effect size · 83 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -124,6 +124,8 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Phonological skills and naming speed indirectly predict sixth-grade geometric and fraction skills via arithmetic skills in both DLD and TD children](../claims/phonological-naming-speed-indirect-via-arithmetic.md) [+W] — learners who differ on it differ in outcomes
 - [Vocabulary was a promotive but not protective factor for word reading: its interaction with phonological awareness was skill-enhancing, benefiting the lower-risk group](../claims/vocabulary-promotive-not-protective-skill-enhancing.md) [~M] — an instructional effect differs with it
 - [Phonological processing and RAN constitute two separate factors that both account for significant unique variance in literacy attainment in all five orthographies](../claims/phonology-ran-two-separate-literacy-factors-european.md) [+M] — learners who differ on it differ in outcomes
+- [Phonological awareness (oddity) improved to a greater extent in the groups where rhythm was trained, in children without reading difficulties](../claims/rhythm-training-boosts-oddity-phonological-awareness.md) [+M] — instruction changes it
+- [Post-test mediation analyses indicate word reading is related to rhythm (stress awareness and non-linguistic rhythm) through phonological awareness](../claims/rhythm-word-reading-mediated-by-phonological-awareness.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

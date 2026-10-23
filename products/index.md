@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1861 entries** · 0 stable · 1861 in review · 0 drafts
+**1862 entries** · 0 stable · 1862 in review · 0 drafts
 
 ---
 
@@ -1469,6 +1469,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [School-Home Early Language and Literacy assessment](school-home-early-language-and-literacy-assessment.md) - A language and literacy assessment that measures young children's English narrative production and related expressive-language skills through tasks such as the Bear Story picture-prompt narrative.
 * [School-Wide Information System (SWIS)](school-wide-information-system-swis.md) - An internet-based data-entry and reporting system developed for schools to collect, manage, and analyze office discipline referral data for behavior-support decision making.
 * [Science Student Electronic Exit Ticket (SEET)](science-student-electronic-exit-ticket-seet.md) - A web-based application developed by Ali Raza and colleagues that collects student experience exit-ticket surveys and provides whole-class and demographic-disaggregated visualizations for teachers.
+* [Scientific Reasoning Inventory (SRI)](scientific-reasoning-inventory-sri.md) - A paper-and-pencil assessment developed by Van de Sande et al.
 * [SciEntsBank](scientsbank.md) - SciEntsBank is a benchmark dataset of human-annotated student science short answers and semantic-correctness labels used to develop and evaluate automated short-answer assessment systems.
 * [Scratch](scratch.md) - Scratch is an MIT Media Lab-developed block-based programming language and online sharing ecosystem in which learners create, remix, debug, and share interactive projects.
 * [ScratchJr](scratchjr.md) - ScratchJr is a tablet-based introductory programming app developed by the DevTech Research Group at Tufts University in collaboration with the MIT Media Lab for young children to create interactive stories and games.

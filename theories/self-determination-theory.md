@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 71 claims (51 for, 19 mixed, 1 against) · 52 studies (16 associational, 13 review, 7 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 52 report an effect size · 65 claims rest on one study
+> **Evidence** · 73 claims (53 for, 19 mixed, 1 against) · 53 studies (17 associational, 13 review, 7 causal, 7 quant-synthesis, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 14 of 53 report an effect size · 67 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -126,6 +126,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Higher grades occur when high autonomous motivation coincides with low controlled motivation (incongruence), not congruence](../claims/incongruence-high-autonomous-low-controlled-higher-grades.md) [+W] — attached 2026-10-23 from Mouratidis et al. (2021), which proposed "Self-Determination Theory quality-of-motivation account of academic achievement"; tests this page's relationship.
 - [Controlled motivation negatively predicts school grades and does not compensate for low autonomous motivation](../claims/controlled-motivation-negative-no-compensation.md) [+W] — attached 2026-10-23 from Mouratidis et al. (2021), which proposed "Self-Determination Theory quality-of-motivation account of academic achievement"; tests this page's relationship.
 - [The relation of autonomous motivation to grades is curvilinear, with grades accelerating at higher autonomous motivation](../claims/curvilinear-autonomous-motivation-grades.md) [+W] — attached 2026-10-23 from Mouratidis et al. (2021), which proposed "Self-Determination Theory quality-of-motivation account of academic achievement".
+- [Competence frustration is indirectly and positively associated with teacher-rated passive disengagement via reduced subjective vitality](../claims/competence-frustration-passive-disengagement-vitality.md) [+W] — attached 2026-10-23 from Stephen R. Earl et al. (2016), which proposed "Dual-process model of need frustration underpinning active versus passive classroom disengagement"; tests this page's relationship.
+- [Autonomy frustration directly and positively predicts teacher-rated active disengagement, not explained by reduced vitality](../claims/autonomy-frustration-active-disengagement-direct.md) [+W] — attached 2026-10-23 from Stephen R. Earl et al. (2016), which proposed "Dual-process model of need frustration underpinning active versus passive classroom disengagement"; tests this page's relationship.
 
 ## The evidence by question
 
