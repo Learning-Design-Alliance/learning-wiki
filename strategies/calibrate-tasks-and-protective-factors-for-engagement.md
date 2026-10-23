@@ -41,7 +41,7 @@ The article's implications statement recommends that "The design of academic tas
 
 ## Claims
 
-- [Lower academic self-efficacy and peer support predict membership of less positively engaged profiles, while educational goals and family support are equivalent across profiles](../claims/self-efficacy-peer-support-predict-profile-membership.md) [+W]
+- [Lower academic self-efficacy is associated with membership of three less engaged momentary-engagement profiles and lower peer support with two, while educational goals and family support do not differ across the four profiles tested](../claims/self-efficacy-peer-support-predict-profile-membership.md) [+W]
 - [Seven profiles of momentary (dis)engagement emerge among adolescents completing the same ten-minute literacy task](../claims/seven-momentary-engagement-profiles-single-task.md) [+W]
 
 ## Related Strategies

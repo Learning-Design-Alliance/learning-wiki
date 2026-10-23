@@ -45,5 +45,5 @@ In the same model of objective facilitators, "Classmate behavioral and emotional
 ## Related Claims
 - [Internally divergent momentary engagement profiles occur within a single task, with students attentive yet emotionally and cognitively disengaged](divergent-internal-engagement-dynamics-single-task.md) — related
 - [Female gender and Irish ethnicity predict membership of less positively engaged momentary profiles relative to the engaged profile](gender-ethnicity-predict-engagement-profile-membership.md) — related
-- [Lower academic self-efficacy and peer support predict membership of less positively engaged profiles, while educational goals and family support are equivalent across profiles](self-efficacy-peer-support-predict-profile-membership.md) — related
+- [Lower academic self-efficacy is associated with membership of three less engaged momentary-engagement profiles and lower peer support with two, while educational goals and family support do not differ across the four profiles tested](self-efficacy-peer-support-predict-profile-membership.md) — related
 - [Seven profiles of momentary (dis)engagement emerge among adolescents completing the same ten-minute literacy task](seven-momentary-engagement-profiles-single-task.md) — related

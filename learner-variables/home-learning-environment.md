@@ -82,7 +82,7 @@ The home learning environment is what families, caregivers and communities provi
 - [During the pandemic, Grade 4 students with SEN-L experienced less favorable home learning environments and lower parental support than non-SEN students, while Grade 9 group differences were largely non-significant](../claims/grade4-home-learning-conditions-less-favorable-sen-l.md) [~M] — instruction changes it
 - [Formal home math environment moderates the effect of parental math skills on children's arithmetic skills, showing a protective (gap-closing) effect for higher-risk children](../claims/formal-hme-protective-effect.md) [+M] — an instructional effect differs with it
 - [None of the HME measures served as a significant promotive factor; the only significant correlation between children's skills and HME factors was negative (Grade 1 HME-formal)](../claims/hme-no-promotive-effect.md) [-M] — learners who differ on it differ in outcomes
-- [Lower academic self-efficacy and peer support predict membership of less positively engaged profiles, while educational goals and family support are equivalent across profiles](../claims/self-efficacy-peer-support-predict-profile-membership.md) [-M] — learners who differ on it differ in outcomes
+- [Lower academic self-efficacy is associated with membership of three less engaged momentary-engagement profiles and lower peer support with two, while educational goals and family support do not differ across the four profiles tested](../claims/self-efficacy-peer-support-predict-profile-membership.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Reading Pattern Survey** (Rodrigo et al., 2014): self-report of reading attitude, habits and print exposure, including books read and library visits.

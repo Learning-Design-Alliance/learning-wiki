@@ -103,7 +103,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [Cooperative learning is associated with greater peer acceptance and cross-group friendships and has been shown to reduce bullying and perceived stress among marginalized students](../claims/cooperative-learning-promotes-inclusion.md) [+M] — instruction changes it
 - [Parental emotional support was not an independent predictor of Chinese kindergarten children's SRL, in contrast to Western findings](../claims/emotional-support-not-predictor-chinese-context.md) [-M] — learners who differ on it differ in outcomes
 - [Class and teacher organization and peer support positively predict self-efficacy, while workload negatively predicts e-learning self-efficacy but positively predicts computer self-efficacy](../claims/environmental-antecedents-self-efficacy-e-learning.md) [+M] — learners who differ on it differ in outcomes
-- [Lower academic self-efficacy and peer support predict membership of less positively engaged profiles, while educational goals and family support are equivalent across profiles](../claims/self-efficacy-peer-support-predict-profile-membership.md) [~M] — learners who differ on it differ in outcomes
+- [Lower academic self-efficacy is associated with membership of three less engaged momentary-engagement profiles and lower peer support with two, while educational goals and family support do not differ across the four profiles tested](../claims/self-efficacy-peer-support-predict-profile-membership.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

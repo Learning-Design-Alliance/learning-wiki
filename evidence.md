@@ -22,7 +22,7 @@ These figures describe two things at once: what education research has produced,
 | | |
 |---|---|
 | Claims | 25,723 |
-| Evidence entries | 30,835 |
+| Evidence entries | 30,833 |
 | Distinct studies | 6,689 |
 | Claims resting on one study | 25,192 (98%) |
 | Claims with no coded evidence | 0 |

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Lower academic self-efficacy and peer support predict membership of less positively engaged profiles, while educational goals and family support are equivalent across profiles
-description: Lower academic self-efficacy and peer support predict membership of less positively engaged profiles, while educational goals and family support are equivalent across profiles
+title: Lower academic self-efficacy is associated with membership of three less engaged momentary-engagement profiles and lower peer support with two, while educational goals and family support do not differ across the four profiles tested
+description: Lower academic self-efficacy is associated with membership of three less engaged momentary-engagement profiles and lower peer support with two, while educational goals and family support do not differ across the four profiles tested
 id: self-efficacy-peer-support-predict-profile-membership
 status: review
 generated:
@@ -11,23 +11,7 @@ evidence_strength: moderate
 sources:
   - id: symonds-2021
     resource: "https://doi.org/10.1037/edu0000605"
-    title: "Symonds, J. E., Schreiber, J. B., & Torsney, B. M. (2021). Silver linings and storm clouds: Divergent profiles of momentary engagement emerge in response to the same task. Journal of Educational Psychology. https://doi.org/10.1037/edu0000605"
-    author: "Symonds, J. E., Schreiber, J. B., & Torsney, B. M."
-    q: 2
-    i: "?"
-    kind: associational
-    rigour: 2
-  - id: symonds-2021-2
-    resource: "https://doi.org/10.1037/edu0000605"
-    title: "Symonds, J. E., Schreiber, J. B., & Torsney, B. M. (2021). Silver linings and storm clouds: Divergent profiles of momentary engagement emerge in response to the same task. Journal of Educational Psychology. https://doi.org/10.1037/edu0000605"
-    author: "Symonds, J. E., Schreiber, J. B., & Torsney, B. M."
-    q: 2
-    i: "?"
-    kind: associational
-    rigour: 2
-  - id: symonds-2021-3
-    resource: "https://doi.org/10.1037/edu0000605"
-    title: "Symonds, J. E., Schreiber, J. B., & Torsney, B. M. (2021). Silver linings and storm clouds: Divergent profiles of momentary engagement emerge in response to the same task. Journal of Educational Psychology. https://doi.org/10.1037/edu0000605"
+    title: "Symonds, J. E., Schreiber, J. B., & Torsney, B. M. (2021). Silver linings and storm clouds: Divergent profiles of student momentary engagement emerge in response to the same task. *Journal of Educational Psychology, 113*(6), 1192–1207. [doi:10.1037/edu0000605](https://doi.org/10.1037/edu0000605)"
     author: "Symonds, J. E., Schreiber, J. B., & Torsney, B. M."
     q: 2
     i: "?"
@@ -35,47 +19,27 @@ sources:
     rigour: 2
 ---
 
-# Lower academic self-efficacy and peer support predict membership of less positively engaged profiles, while educational goals and family support are equivalent across profiles
+# Lower academic self-efficacy is associated with membership of three less engaged momentary-engagement profiles and lower peer support with two, while educational goals and family support do not differ across the four profiles tested
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Compared to the engaged profile, self-efficacy was lower in the disengaged (β = -1.22, OR = .30), attentive disaffected (β = -.54, OR = .58) and attentive disinterested (β = -.89, OR = .41) profiles. [→ Symonds 2021](#symonds-2021)
-`q2 i?` Peer support was lower in the attentive disinterested (β = -1.02, OR = .36) and attentive disaffected (β = -.37, OR = .69) profiles, and teacher support was lower in the disengaged profile (β = -.64, OR = .53). [→ Symonds 2021 (2)](#symonds-2021-2)
-`q2 i?` Educational goals and family support were equivalently high across the four profiles tested. [→ Symonds 2021 (3)](#symonds-2021-3)
+`q2 i?` Compared with the engaged profile, self-efficacy was lower in the disengaged (β = -1.22, OR = .30), attentive disaffected (β = -.54, OR = .58) and attentive disinterested (β = -.89, OR = .41) profiles. [→ Symonds 2021](#symonds-2021)
+`q2 i?` Peer support was lower in the attentive disinterested (β = -1.02, OR = .36) and attentive disaffected (β = -.37, OR = .69) profiles but not in the disengaged profile, where teacher support was lower instead (β = -.64, OR = .53). [→ Symonds 2021](#symonds-2021)
+`q2 i?` Educational goals and family support were equivalently high across the four profiles entered in the regression; the three smallest of the seven profiles were not tested. [→ Symonds 2021](#symonds-2021)
 
 ## Evidence
 
 ### Symonds 2021
 
-Symonds, J. E., Schreiber, J. B., & Torsney, B. M. (2021). Silver linings and storm clouds: Divergent profiles of momentary engagement emerge in response to the same task. Journal of Educational Psychology. https://doi.org/10.1037/edu0000605
+Symonds, J. E., Schreiber, J. B., & Torsney, B. M. (2021). Silver linings and storm clouds: Divergent profiles of student momentary engagement emerge in response to the same task. *Journal of Educational Psychology, 113*(6), 1192–1207. [doi:10.1037/edu0000605](https://doi.org/10.1037/edu0000605)
 
 `q2 · i?` · `associational · r2`
 
-Multinomial logistic regression including subjective facilitators after controlling for individual characteristics. "self-efficacy was lower in the disengaged profile (β = -1.22, OR = .30, p = < .001)" and in the two other less engaged profiles, relative to the engaged reference. No standardized effect size was printed.
+Latent profile analysis of students' momentary engagement during one classroom task found seven profiles (196 cases). A multinomial logistic regression was run on the four largest profiles only, with the engaged profile as reference, entering subjective facilitators after controlling for individual characteristics. Self-efficacy was lower in all three less engaged profiles tested; peer support was lower in the attentive disinterested and attentive disaffected profiles but not in the disengaged one (β = .48, n.s., Table 6), where teacher support was lower instead; educational goals and family support did not differ. The design is cross-sectional and associational, so it shows which characteristics go with which profile, not that low self-efficacy or peer support causes disengagement. No standardized effect size was printed. The paper lists the four regression profiles as engaged, attentive amotivated, attentive disinterested and disengaged, but reports results (text and Table 6) under "attentive disaffected"; the labels here are the paper's. The post-print the batch read is dated 2020; Crossref dates the issue August 2021.
 
-> "Compared to the engaged profile, self-efficacy was lower in the disengaged profile (β = -1.22, OR = .30, p = < .001), the attentive disaffected profile (β = -.54, OR = .58, p = < .05) and the attentive disinterested profile (β = -.89, OR = .41, p = < .01)."
-
-### Symonds 2021 (2)
-
-Symonds, J. E., Schreiber, J. B., & Torsney, B. M. (2021). Silver linings and storm clouds: Divergent profiles of momentary engagement emerge in response to the same task. Journal of Educational Psychology. https://doi.org/10.1037/edu0000605
-
-`q2 · i?` · `associational · r2`
-
-Same regression of subjective facilitators on profile membership. "Peer support was also lower in the attentive disinterested profile (β = -1.02, OR = .36, p = < .001)", and teacher support distinguished only the disengaged profile from the engaged reference. No standardized effect size was printed.
-
-> "Peer support was also lower in the attentive disinterested profile (β = -1.02, OR = .36, p = < .001) and the attentive disaffected profile (β = -.37, OR = .69, p = < .05), and teacher support was lower in the disengaged profile (β = -.64, OR = .53, p = < .05)."
-
-### Symonds 2021 (3)
-
-Symonds, J. E., Schreiber, J. B., & Torsney, B. M. (2021). Silver linings and storm clouds: Divergent profiles of momentary engagement emerge in response to the same task. Journal of Educational Psychology. https://doi.org/10.1037/edu0000605
-
-`q2 · i?` · `associational · r2`
-
-In the same model, "Educational goals and family support were equivalently high across the four profiles tested"; no effect sizes were printed for these null associations.
-
-> "Educational goals and family support were equivalently high across the four profiles tested."
+> "Compared to the engaged profile, self-efficacy was lower in the disengaged profile (β = -1.22, OR = .30, p = < .001), the attentive disaffected profile (β = -.54, OR = .58, p = < .05) and the attentive disinterested profile (β = -.89, OR = .41, p = < .01). Peer support was also lower in the attentive disinterested profile (β = -1.02, OR = .36, p = < .001) and the attentive disaffected profile (β = -.37, OR = .69, p = < .05), and teacher support was lower in the disengaged profile (β = -.64, OR = .53, p = < .05). Educational goals and family support were equivalently high across the four profiles tested."
 
 ## Discussion
 

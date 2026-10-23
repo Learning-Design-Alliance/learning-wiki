@@ -83,6 +83,6 @@ In the same regression, "There were no age nor perceived economic differences be
 ## Related Claims
 - [Classmate cognitive engagement, but not classmate behavioral or emotional engagement, predicts individual momentary engagement profile membership](classmate-cognitive-engagement-predicts-profile-membership.md) — related
 - [Internally divergent momentary engagement profiles occur within a single task, with students attentive yet emotionally and cognitively disengaged](divergent-internal-engagement-dynamics-single-task.md) — related
-- [Lower academic self-efficacy and peer support predict membership of less positively engaged profiles, while educational goals and family support are equivalent across profiles](self-efficacy-peer-support-predict-profile-membership.md) — related
+- [Lower academic self-efficacy is associated with membership of three less engaged momentary-engagement profiles and lower peer support with two, while educational goals and family support do not differ across the four profiles tested](self-efficacy-peer-support-predict-profile-membership.md) — related
 - [Seven profiles of momentary (dis)engagement emerge among adolescents completing the same ten-minute literacy task](seven-momentary-engagement-profiles-single-task.md) — a broader claim this one bears on
 - [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — related
