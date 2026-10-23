@@ -17,7 +17,7 @@ sources:
 # Problem-Solving Followed by Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 50 claims (19 for, 23 mixed, 8 against) · 27 studies (19 causal, 4 theoretical, 3 review, 1 quant-synthesis), `q1`–`q4` · 11 of 27 report an effect size · 49 claims rest on one study
+> **Evidence** · 54 claims (21 for, 24 mixed, 9 against) · 28 studies (20 causal, 4 theoretical, 3 review, 1 quant-synthesis), `q1`–`q4` · 12 of 28 report an effect size · 53 claims rest on one study
 
 ## Description
 Problem-solving followed by instruction (PS-I, closely related to "productive failure") reverses the conventional tell-then-practice sequence: students first attempt a problem — typically without succeeding at a canonical solution — and only afterward receive direct instruction on the correct method. The prior attempt activates relevant prior knowledge, surfaces students' own (often suboptimal) representations, and raises motivation to learn the canonical method by making its advantages concrete rather than abstract. A meta-analysis across 166 comparisons found PS-I outperforms instruction-first sequencing with Hedge's g=0.36 [95% CI 0.20, 0.51] (Sinha & Kapur, 2021). The underlying attempt can be left unguided ("productive failure" proper, where students generate as many solution representations as they can) or shaped by scaffolds that deliberately steer students toward specific representations before instruction corrects them — see [Failure-Driven Scaffolding](../strategies/failure-driven-scaffolding.md).
@@ -86,6 +86,10 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 - [PF students scored significantly higher than DI students on far transfer (robot mining problem), with an independent teacher experience effect](../claims/pf-beats-di-far-transfer-robot-mining.md) [+M] — attached 2026-10-22 from Jacobson et al. (2017), which proposed "Productive Failure two-phase learning design"; tests this page's relationship.
 - [PF and DI groups showed no significant difference in climate declarative knowledge gains](../claims/no-group-difference-climate-declarative-knowledge.md) [~M] — attached 2026-10-22 from Jacobson et al. (2017), which proposed "Productive Failure two-phase learning design"; tests this page's relationship.
 - [DI students relied on notes rather than exploring the agent-based models, while PF classes showed lively collaborative exploration and questioning](../claims/di-passive-note-reliance-vs-pf-exploration.md) [+W]
+- [DI-PS significantly outperformed PS-DI on the two supplier-reasoning problem-solving criteria (d = .60 and d = .64)](../claims/di-ps-outperforms-ps-di-supplier-reasoning-criteria.md) [-W]
+- [Learners in both sequencing conditions predominantly preferred and were satisfied with DI-PS sequencing](../claims/learners-prefer-di-ps-sequencing.md) [~W]
+- [PS-DI learners consulted the reference book on supplier selection procedure far more often than DI-PS learners (d = .83)](../claims/ps-di-more-reference-book-use.md) [+W]
+- [PS-DI learners reported higher intrinsic in-scenario cognitive load during problem solving (d = .53)](../claims/ps-di-higher-intrinsic-in-scenario-cognitive-load.md) [+W]
 
 ## The evidence by question
 

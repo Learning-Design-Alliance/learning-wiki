@@ -54,3 +54,4 @@ Robust main-effects model for revision performance (pseudo R² = 0.580) with gro
 - [Sequence of worked examples and problems had no significant effect on self-reported cognitive load, but higher prior knowledge was associated with lower load in experimental design](cognitive-load-no-sequence-effect.md) — related
 - [Higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge](extraneous-load-predicts-lower-post-test.md) — related
 - [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance](revised-visuals-no-learning-effect.md) — related
+- [Intrinsic cognitive load during the scenario negatively predicted problem-solving performance (ANCOVA, p = .01)](cognitive-load-negatively-predicts-problem-solving.md) — related

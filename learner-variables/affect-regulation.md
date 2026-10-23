@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 168 claims (119 show a difference, 32 mixed, 17 no difference) · 112 studies (39 associational, 22 review, 21 causal, 9 quant-synthesis, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 28 of 112 report an effect size · 162 claims rest on one study
+> **Evidence** · 170 claims (121 show a difference, 32 mixed, 17 no difference) · 113 studies (40 associational, 22 review, 21 causal, 9 quant-synthesis, 9 qualitative, 8 theoretical, 4 design), `q1`–`q4` · 28 of 113 report an effect size · 164 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -208,6 +208,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Math anxiety at the end of second grade is predicted by prior math anxiety at the end of first grade](../claims/math-anxiety-t2-predicted-by-t1.md) [+M] — instruction changes it
 - [Math anxiety at the start of first grade is predicted by general anxiety and symbolic numerical representation](../claims/math-anxiety-t0-predictors.md) [+M] — instruction changes it
 - [Achievement emotion regulation strategies relate to well-being, health, and academic achievement across three studies](../claims/strategies-relate-wellbeing-health-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Avoidance-characterized ER profiles are linked to lower affective well-being, more emotional exhaustion, and lower profile stability over time](../claims/avoidance-er-profiles-lower-wellbeing-exhaustion-instability.md) [+W] — learners who differ on it differ in outcomes
+- [Teachers use a wide variety of emotion regulation strategies whose combined use has implications for their occupational well-being](../claims/teachers-wide-variety-er-strategies-wellbeing-implications.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

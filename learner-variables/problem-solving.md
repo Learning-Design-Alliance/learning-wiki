@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 63 claims (47 show a difference, 8 mixed, 8 no difference) · 54 studies (26 causal, 9 review, 6 associational, 4 theoretical, 3 quant-synthesis, 3 qualitative, 3 design), `q1`–`q4` · 13 of 54 report an effect size · 61 claims rest on one study
+> **Evidence** · 65 claims (47 show a difference, 9 mixed, 9 no difference) · 56 studies (28 causal, 9 review, 6 associational, 4 theoretical, 3 quant-synthesis, 3 qualitative, 3 design), `q1`–`q4` · 13 of 56 report an effect size · 63 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -101,6 +101,8 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Problem-solving facilitates diagnostic competences independent of learners' professional knowledge base](../claims/problem-solving-facilitates-diagnostic-competences-regardless-knowledge-base.md) [+M] — learners who differ on it differ in outcomes
 - [Simultaneous and sequential instruction produce no immediate differences in solving basic or generalization math equivalence problems](../claims/no-immediate-differences-across-timing-conditions.md) [-W] — instruction changes it
 - [Bilinguals may have a specific advantage in transferring understanding of novel symbolic rules to new contexts](../claims/bilingual-transfer-novel-symbolic-rules.md) [+W] — learners who differ on it differ in outcomes
+- [Overall problem-solving performance did not differ significantly between DI-PS and PS-DI (p = .08)](../claims/overall-problem-solving-performance-no-significant-difference.md) [-M] — instruction changes it
+- [Problem-solving performance improves significantly only when coherence and linking changes are combined, showing the predicted interaction](../claims/problem-solving-requires-both-changes.md) [~M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

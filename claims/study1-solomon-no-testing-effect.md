@@ -45,3 +45,4 @@ Study 1 was a pilot with 86 9th graders in a Solomon four-group design; treatmen
 ## Related Claims
 - [Multimedia treatment, prior science level, and unit pre-test level each independently influence electricity achievement, with no significant two-way or three-way interactions](treatment-science-pretest-independent-effects.md) — related
 - [Playing EPIGAME produced a large, statistically significant pre-to-post gain in conceptual understanding of force and motion in 7th graders](study2-significant-prepost-gains-epigame.md) — related
+- [Both sequencing groups improved in conceptual and procedural knowledge, with no significant group-by-time interaction](both-groups-improved-knowledge-no-sequencing-interaction.md) — related

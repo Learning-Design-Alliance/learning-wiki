@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**991 entries** · 0 stable · 991 in review · 0 drafts
+**992 entries** · 0 stable · 992 in review · 0 drafts
 
 ---
 
@@ -884,6 +884,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Task database with 75 biology problems organized by five complexity levels and three support levels](srl-task-database-complexity-support-levels.md) - The learning environment contained a task database of monohybrid cross problems in biology: \"The task database (cf.
 * [Task-based learning units integrated into the curriculum structure with collaborative real-world communication activities](dl2f-task-based-unit-pattern.md) - DL2F organizes instruction into task-based learning units embedded in the existing curriculum structure, with collaboration and communication as focal points through group activities mirroring real-world language use.
 * [TDAA: high-frequency closed-book tests paired with a human-reviewed AI production harness](tdaa-test-driven-ai-assisted-pattern.md) - TDAA is a course-level design pattern coupling two cycles: students prepare with aligned materials and face a weekly closed-book gate, while an instructor-side AI harness drafts, reviews, and grades the materials unde...
+* [Teach how AI models process prompts and how interactions can be exploited, to build cognitive resilience against manipulation](teach-prompt-processing-for-cognitive-resilience.md) - The article argues that integrating explicit instruction on how AI models process prompts, recognize system boundaries, and respond to linguistic cues serves a dual purpose in higher education: it builds technical pro...
 * [Teacher Interaction Layer: a web-based configuration surface for pedagogical intent, persona, and role](elevate-teacher-interaction-layer.md) - The Teacher Interaction Layer is a lightweight web-based configuration page through which educators shape the virtual tutor's behavior; all settings are injected directly into the LLM system prompt.
 * [Teacher-led online reading strategy training program embedded in a digital literacy course](teacher-led-online-reading-strategy-training-program.md) - A training program implemented and tested as part of a digital literacy course, in which instructors delivered strategy training after \"instructors received background information and instructional materials prior to...
 * [Teacher-mentor-AI collaboration as a distributed expertise system in AI technology creation](distributed-expertise-teacher-mentor-ai-collaboration.md) - The article conceptualizes workshop interactions among teachers, mentors, and AI as \"a dynamically coordinated system of distributed expertise, grounded in distributed cognition theory\".

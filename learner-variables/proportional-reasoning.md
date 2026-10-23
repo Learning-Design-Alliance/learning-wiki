@@ -13,7 +13,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 23 claims (15 show a difference, 7 mixed, 1 no difference) · 14 studies (6 associational, 2 causal, 2 design, 1 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 4 of 14 report an effect size · 23 claims rest on one study
+> **Evidence** · 24 claims (16 show a difference, 7 mixed, 1 no difference) · 15 studies (6 associational, 3 causal, 2 design, 1 quant-synthesis, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 4 of 15 report an effect size · 24 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -59,6 +59,7 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [Fraction knowledge is consistently linked to algebra success, though findings vary by measure](../claims/fraction-knowledge-predicts-algebra.md) [~M] — learners who differ on it differ in outcomes
 - [The ratio–interactive-skills association may be partly or entirely attributable to small-study publication bias](../claims/publication-bias-ratio-association.md) [~W] — learners who differ on it differ in outcomes
 - [The comparison of decimal fractions undergoes developmental changes over the course of learning](../claims/developmental-changes-decimal-fraction-comparison.md) [+M] — instruction changes it
+- [Repeated training substantially reduces the proportion of biased responders and increases improved and correct responders at the individual level](../claims/individual-level-improved-responders-after-repeated-training.md) [+M] — instruction changes it
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

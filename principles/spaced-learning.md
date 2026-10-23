@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 66 claims (36 for, 28 mixed, 2 against) · 44 studies (23 causal, 10 review, 9 quant-synthesis, 2 theoretical), `q1`–`q4` · 14 of 44 report an effect size · 59 claims rest on one study
+> **Evidence** · 67 claims (37 for, 28 mixed, 2 against) · 45 studies (24 causal, 10 review, 9 quant-synthesis, 2 theoretical), `q1`–`q4` · 14 of 45 report an effect size · 60 claims rest on one study
 
 ## Description
 
@@ -172,6 +172,7 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Five null studies with spacing but no rest and dissimilar materials showed neither spacing nor interleaving effects](../claims/five-null-studies-support-both-hypotheses.md) [~W] — attached 2026-10-21 from Ouhao Chen et al. (2021), which proposed "Use spaced instruction when learners need mental rest and interleaved instruction when learners must discriminate between similar areas"; tests this page's relationship.
 - [Spaced quizzing increases end-of-semester retention of calculus learning objectives relative to massed quizzing](../claims/spacing-increases-calculus-retention.md) [+M] — attached 2026-10-21 from Keith B. Lyle et al. (2022), which proposed "Distribute calculus practice across multiple quizzes and accept lower short-term practice performance for better long-term retention"; tests this page's relationship.
 - [Spaced quizzing reduces overall performance on calculus practice quizzes relative to massed quizzing](../claims/spacing-reduces-quiz-practice-performance.md) [~M] — attached 2026-10-21 from Keith B. Lyle et al. (2022), which proposed "Distribute calculus practice across multiple quizzes and accept lower short-term practice performance for better long-term retention".
+- [A second training session two days later further increases reasoning accuracy beyond the first session, though less strongly](../claims/second-training-session-further-boosts-accuracy.md) [+W] — attached 2026-10-23 from Nina Franiatte et al. (2024), which proposed "Repeat debiasing training sessions to further boost sound intuiting beyond a single-shot intervention"; tests this page's relationship.
 
 ## Source verification and open tests
 

@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 160 claims (117 show a difference, 26 mixed, 17 no difference) · 119 studies (43 causal, 29 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 31 of 119 report an effect size · 154 claims rest on one study
+> **Evidence** · 162 claims (118 show a difference, 27 mixed, 17 no difference) · 120 studies (43 causal, 30 associational, 17 review, 12 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 31 of 120 report an effect size · 156 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -195,6 +195,8 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Student-level achievement positively predicts enjoyment in math, science, and reading among fourth graders](../claims/student-achievement-positively-predicts-enjoyment-three-domains.md) [+M] — instruction changes it
 - [The effect of student achievement on enjoyment is largely consistently positive across 37 countries, while the size of the negative class-average effect varies from country to country](../claims/hflpe-cross-national-generalizability-enjoyment.md) [+M] — instruction changes it
 - [Instructor body posture shows no direct effects on students' situational interest, but indirect-only mediation effects through perceived enthusiasm](../claims/posture-interest-indirect-enthusiasm-mediation.md) [~M] — instruction changes it
+- [Girls started lower in math self-concept and interest than boys, and the L1 self-concept gender gap widened over Grades 7–9](../claims/gender-gaps-math-lower-l1-slope-favors-girls.md) [+M] — instruction changes it
+- [Math self-concept declined then leveled off (U-shaped), L1 self-concept declined slightly, math interest declined while L1 interest increased across Grades 7–9](../claims/domain-divergent-motivation-trends-lower-secondary.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

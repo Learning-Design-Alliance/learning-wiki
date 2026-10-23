@@ -69,3 +69,4 @@ Quade ANCOVA of embedded video-quiz scores in Experiment 2, controlling for prio
 - [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related
 - [In PS-I, prompting students to generate multiple strategies during the initial phase generally outperformed inventing one strategy or I-PS](multiple-strategies-prompt-outperformed-other-conditions.md) — related
 - [Initial failure did not hurt subsequent learning during instruction: no condition differences on example generation or immediate learning tests](no-condition-differences-example-generation-immediate-tests.md) — related
+- [DI-PS significantly outperformed PS-DI on the two supplier-reasoning problem-solving criteria (d = .60 and d = .64)](di-ps-outperforms-ps-di-supplier-reasoning-criteria.md) — related

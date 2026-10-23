@@ -53,3 +53,5 @@ The review reports, citing Sinha and Kapur (2021), a meta-analysis of instructio
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — reports the opposite
 - [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](ps-i-manipulation-check-problem-solving-sheets.md) — related
 - [Of eight PF-similar studies of problem solving prior to instruction in non-STEM or domain-general settings, only Schwartz and Bransford (1998) found a positive learning effect](pf-similar-studies-mostly-null-negative.md) — related
+- [DI-PS significantly outperformed PS-DI on the two supplier-reasoning problem-solving criteria (d = .60 and d = .64)](di-ps-outperforms-ps-di-supplier-reasoning-criteria.md) — a narrower finding that bears on this claim
+- [Overall problem-solving performance did not differ significantly between DI-PS and PS-DI (p = .08)](overall-problem-solving-performance-no-significant-difference.md) — related
